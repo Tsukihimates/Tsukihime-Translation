@@ -1,5 +1,5 @@
 # Tsukihime-Translation
-Open source translation for the Tsukihime Remake game
+Open source translation for the Tsukihime Remake game prepared by Clovermoon and Tsukihimates.
 
 ## Introduction
 
