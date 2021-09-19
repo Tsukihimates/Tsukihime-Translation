@@ -18,6 +18,7 @@ https://github.com/Hakanaou/deepLuna
 
 ### Tools
 * https://github.com/Hakanaou/deepLuna
+* https://github.com/rschlaikjer/mangetsu
 * https://github.com/Hintay/PS-HuneX_Tools/
 * http://aluigi.altervista.org/quickbms.htm
 * https://github.com/KillzXGaming/Switch-Toolbox
