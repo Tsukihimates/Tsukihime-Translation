@@ -118,7 +118,7 @@ def process_script_file(audio_timing, script_filename):
             if (not has_right_cmd_len
                     or not subsequent_zm_cmd.arguments[0].startswith("@x")):
                 sys.stderr.write(
-                    "[%s]    Secondary _ZM instruction '%s' "
+                    "[%s]     Secondary _ZM instruction '%s' "
                     "does not start with @x\n" % (
                         script_filename,
                         str(subsequent_zm_cmd)
@@ -203,6 +203,13 @@ def process_script_file(audio_timing, script_filename):
         wttm_commands_to_insert[vply_idx] = ScriptCommand(
             "WTTM",
             [str(audio_timing[vply_cmd.arguments[0]]), "1"]
+        )
+
+        sys.stderr.write(
+            "[%s]     Sucessfully inserted WTTM of len %d for %s @ +%d\n" % (
+                script_filename, audio_timing[vply_cmd.arguments[0]],
+                vply_cmd.arguments[0], vply_idx
+            )
         )
 
     # We are now done finding locations to patch - the _ZM calls have been
