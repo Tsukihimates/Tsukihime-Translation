@@ -78,12 +78,61 @@ def process_script_file(audio_timing, script_filename):
             else ScriptCommand(groups[0], groups[1].split(','))
         )
 
-    # Map if line number -> WTTM command to be injected later
-    wttm_commands_to_insert = {}
+    # Perform our transforms on the script
+    # - Take all @k@e -> @x pairs, and convert to a _ZM + _WTTM + _MSAD
+    script_commands = squash_ke_to_msad(
+        audio_timing,
+        script_filename,
+        script_commands
+    )
 
+    # - Delete any remaining @x prefixes on _ZM calls
+    script_commands = strip_zm_x(script_commands)
+
+    # Serialize it back out over the input file
+    with open(script_filename, 'w') as f:
+        for cmd in script_commands:
+            f.write(str(cmd) + "\n")
+
+
+def strip_zm_x(script_commands):
+    for idx in range(len(script_commands)):
+        zm_cmd = script_commands[idx]
+        if not zm_cmd.opcode.startswith("ZM"):
+            # Not a _ZM call, ignore
+            continue
+
+        # Does this ZM call have an argument?
+        if len(zm_cmd.arguments) != 1:
+            # Unexpected - _ZM should only take one argument
+            sys.stderr.write("Unexpected _ZM arguments: '%s'\n" % str(zm_cmd))
+            continue
+
+        # Is that _ZM prefixed with an @x escape sequence?
+        if not zm_cmd.arguments[0].startswith('@x'):
+            # No escape sequence, ignore
+            continue
+
+        # Delete the @x prefix
+        script_commands[idx].arguments[0] = \
+            zm_cmd.arguments[0] = re.sub("@x", "", zm_cmd.arguments[0])
+
+    return script_commands
+
+
+def squash_ke_to_msad(audio_timing, script_filename, script_commands):
     # Finally, we get to the good part - seek through our file until we find
     # a _ZM* opcode that contains @k@e in the address section.
-    for zm_cmd_idx in range(len(script_commands)):
+    zm_cmd_idx = -1
+    while True:
+        # The 'pythonic' way to do a for loop is to iterate a generator, but
+        # since we need to do a bunch of index manipulation while we
+        # add / remove script entries, manually implement a more flexible
+        # C-style for loop.
+        zm_cmd_idx += 1
+        if not zm_cmd_idx < len(script_commands):
+            break
+
         zm_cmd = script_commands[zm_cmd_idx]
         if not zm_cmd.opcode.startswith("ZM"):
             # Not a _ZM call, ignore
@@ -196,15 +245,24 @@ def process_script_file(audio_timing, script_filename):
         subsequent_zm_cmd.opcode = "MSAD"
         script_commands[subsequent_zm_idx] = subsequent_zm_cmd
 
-        # - Inject a _WTTM call directly before the _VPLY
-        # We can't actually do this one directly, because that would affect the
-        # indexing of this list while we are iterating it. Instead, insert this
-        # _WTTM call into a map indexed by line number that we can use to patch
-        # up the list once we are done iterating.
-        wttm_commands_to_insert[vply_idx] = ScriptCommand(
-            "WTTM",
-            [str(audio_timing[vply_cmd.arguments[0]]), "1"]
+        # - Inject a _WTTM call after the first _ZM call
+        script_commands.insert(
+            zm_cmd_idx + 1,
+            ScriptCommand(
+                "WTTM",
+                [str(audio_timing[vply_cmd.arguments[0]]), "1"]
+            )
         )
+
+        # - Delete all WKAD and WKST commands between the initial _ZM call
+        # and what is now a _MSAD call
+        # Iterate backwards so that mutating the script list doesn't break
+        # indexing on us
+        for remove_idx in range(subsequent_zm_idx - 1, zm_cmd_idx, -1):
+            is_wkad = script_commands[remove_idx].opcode == "WKAD"
+            is_wkst = script_commands[remove_idx].opcode == "WKST"
+            if is_wkad or is_wkst:
+                del script_commands[remove_idx]
 
         sys.stderr.write(
             "[%s]     Sucessfully inserted WTTM of len %d for %s @ +%d\n" % (
@@ -213,18 +271,8 @@ def process_script_file(audio_timing, script_filename):
             )
         )
 
-    # We are now done finding locations to patch - the _ZM calls have been
-    # modified in-place, so now we only need to insert the WTTM calls.
-    # Insert these to the list in reverse-line number order, so that we do
-    # not affect the indexing as we go.
-    for insert_idx in sorted(wttm_commands_to_insert.keys(), reverse=True):
-        script_commands.insert(insert_idx, wttm_commands_to_insert[insert_idx])
-
     # Finally, we have our modified script.
-    # Serialize it back out over the input file
-    with open(script_filename, 'w') as f:
-        for cmd in script_commands:
-            f.write(str(cmd) + "\n")
+    return script_commands
 
 
 def main():
