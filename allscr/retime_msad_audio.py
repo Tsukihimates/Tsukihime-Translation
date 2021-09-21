@@ -121,8 +121,8 @@ def strip_zm_x(script_commands):
 
 
 def squash_ke_to_msad(audio_timing, script_filename, script_commands):
-    # Finally, we get to the good part - seek through our file until we find
-    # a _ZM* opcode that contains @k@e in the address section.
+    # Start seeking through our file until we find a _ZM* opcode that
+    # contains @k@e in the address section.
     zm_cmd_idx = -1
     while True:
         # The 'pythonic' way to do a for loop is to iterate a generator, but
