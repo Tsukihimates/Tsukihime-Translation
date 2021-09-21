@@ -254,14 +254,12 @@ def squash_ke_to_msad(audio_timing, script_filename, script_commands):
             )
         )
 
-        # - Delete all WKAD and WKST commands between the initial _ZM call
+        # - Delete other text-related commands between the initial _ZM call
         # and what is now a _MSAD call
         # Iterate backwards so that mutating the script list doesn't break
         # indexing on us
         for remove_idx in range(subsequent_zm_idx - 1, zm_cmd_idx, -1):
-            is_wkad = script_commands[remove_idx].opcode == "WKAD"
-            is_wkst = script_commands[remove_idx].opcode == "WKST"
-            if is_wkad or is_wkst:
+            if script_commands[remove_idx].opcode in ["WKAD", "WNTY", "WKST"]:
                 del script_commands[remove_idx]
 
         sys.stderr.write(
