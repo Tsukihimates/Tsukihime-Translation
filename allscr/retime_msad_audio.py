@@ -191,7 +191,8 @@ def process_script_file(audio_timing, script_filename):
         script_commands[zm_cmd_idx] = zm_cmd
 
         # - Strip @x from the second _ZM call and convert to a _MSAD
-        subsequent_zm_cmd.arguments[0] = re.sub("@x", "", zm_cmd.arguments[0])
+        subsequent_zm_cmd.arguments[0] = re.sub(
+            "@x", "", subsequent_zm_cmd.arguments[0])
         subsequent_zm_cmd.opcode = "MSAD"
         script_commands[subsequent_zm_idx] = subsequent_zm_cmd
 
