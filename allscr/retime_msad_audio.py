@@ -187,7 +187,7 @@ def process_script_file(audio_timing, script_filename):
         # We have valid timing data - now that we have gathered our
         # prerequisites, it is time to make our modifications.
         # - Strip @k@e from the first _ZM call
-        zm_cmd.arguments[0] = re.sub("@k@e", "", zm_cmd.arguments[0])
+        zm_cmd.arguments[0] = re.sub("@k@e", "@n", zm_cmd.arguments[0])
         script_commands[zm_cmd_idx] = zm_cmd
 
         # - Strip @x from the second _ZM call and convert to a _MSAD
