@@ -16,7 +16,7 @@ class ScriptCommand:
 
     def __str__(self):
         # Convert a script command to a string for emission
-        return "%s(%s);" % (self.opcode, ','.join(self.arguments or []))
+        return "_%s(%s);" % (self.opcode, ','.join(self.arguments or []))
 
 
 def load_timing(filename):
@@ -77,6 +77,9 @@ def process_script_file(audio_timing, script_filename):
             if len(groups) == 1
             else ScriptCommand(groups[0], groups[1].split(','))
         )
+
+    # Map if line number -> WTTM command to be injected later
+    wttm_commands_to_insert = {}
 
     # Finally, we get to the good part - seek through our file until we find
     # a _ZM* opcode that contains @k@e in the address section.
@@ -144,6 +147,76 @@ def process_script_file(audio_timing, script_filename):
         # Now that we have the two bounding _ZM calls, seek _backwards_ from
         # the secondary _ZM until we hit a VPLY call for the corresponding
         # voice line
+        found_vply = False
+        for vply_idx in range(subsequent_zm_idx - 1, zm_cmd_idx, -1):
+            vply_cmd = script_commands[vply_idx]
+            if not vply_cmd.opcode == "VPLY":
+                # Not a _VPLY call, ignore
+                continue
+
+            # If we find a VPLY command, assert that it has 2 arguments
+            if len(vply_cmd.arguments) != 2:
+                sys.stderr.write(
+                    "[%s]     Associated VPLY @ +%d invalid: '%s'\n" % (
+                        script_filename, vply_idx, str(vply_cmd)
+                    )
+                )
+                found_vply = False
+                break
+
+            # If we found a valid VPLY, break out
+            found_vply = True
+            break
+
+        # Did we find our VPLY?
+        if not found_vply:
+            sys.stderr.write("[%s]     Failed to locate associated _VPLY\n" % (
+                script_filename
+            ))
+            continue
+
+        # If we did, check to see if we have timing info for it
+        if vply_cmd.arguments[0] not in audio_timing:
+            sys.stderr.write(
+                "[%s]     Missing audio timing data for file %s\n" % (
+                    script_filename, str(vply_cmd)
+                )
+            )
+            continue
+
+        # We have valid timing data - now that we have gathered our
+        # prerequisites, it is time to make our modifications.
+        # - Strip @k@e from the first _ZM call
+        zm_cmd.arguments[0] = re.sub("@k@e", "", zm_cmd.arguments[0])
+        script_commands[zm_cmd_idx] = zm_cmd
+
+        # - Strip @x from the second _ZM call and convert to a _MSAD
+        subsequent_zm_cmd.arguments[0] = re.sub("@x", "", zm_cmd.arguments[0])
+        subsequent_zm_cmd.opcode = "MSAD"
+        script_commands[subsequent_zm_idx] = subsequent_zm_cmd
+
+        # - Inject a _WTTM call directly before the _VPLY
+        # We can't actually do this one directly, because that would affect the
+        # indexing of this list while we are iterating it. Instead, insert this
+        # _WTTM call into a map indexed by line number that we can use to patch
+        # up the list once we are done iterating.
+        wttm_commands_to_insert[vply_idx] = ScriptCommand(
+            "WTTM",
+            [str(audio_timing[vply_cmd.arguments[0]]), "1"]
+        )
+
+    # We are now done finding locations to patch - the _ZM calls have been
+    # modified in-place, so now we only need to insert the WTTM calls.
+    # Insert these to the list in reverse-line number order, so that we do
+    # not affect the indexing as we go.
+    for insert_idx in sorted(wttm_commands_to_insert.keys(), reverse=True):
+        script_commands.insert(insert_idx, wttm_commands_to_insert[insert_idx])
+
+    # Finally, we have our modified script.
+    # Serialize it back out over the input file
+    with open(script_filename, 'w') as f:
+        for cmd in script_commands:
+            f.write(str(cmd) + "\n")
 
 
 def main():
