@@ -46,7 +46,7 @@ def load_timing(filename):
     return audio_timing
 
 
-def process_script_file(audio_timing, script_filename):
+def process_script_file(audio_timing, script_filename, output_filename):
     # Load in the raw script
     file_data_raw = None
     with open(script_filename, "r") as f:
@@ -90,7 +90,7 @@ def process_script_file(audio_timing, script_filename):
     script_commands = replace_standalone_zm_x_msad(script_commands)
 
     # Serialize it back out over the input file
-    with open(script_filename, 'w') as f:
+    with open(output_filename, 'w') as f:
         for cmd in script_commands:
             f.write(str(cmd) + "\n")
 
@@ -327,14 +327,15 @@ def squash_ke_to_msad(audio_timing, script_filename, script_commands):
 
 def main():
     # Check arguments
-    if len(sys.argv) != 3:
+    if len(sys.argv) != 4:
         sys.stderr.write(
-            f"Usage: {sys.argv[0]} audio_timing script_directory\n")
+            f"Usage: {sys.argv[0]} audio_timing script_dir output_dir\n")
         return -1
 
     # Name args
     audio_timing_filename = sys.argv[1]
     script_dir_path = sys.argv[2]
+    output_path = sys.argv[3]
 
     # Load in the timing file to a map of filename -> time (ms)
     audio_timing = load_timing(audio_timing_filename)
@@ -350,9 +351,12 @@ def main():
         if not dirent.path.endswith(".txt"):
             continue
 
-        # Process the file. Note that we rewrite it IN PLACE; be sure to use
-        # version control!
-        process_script_file(audio_timing, dirent.path)
+        # Process the file, and write to the output directory
+        process_script_file(
+            audio_timing,
+            dirent.path,
+            os.path.join(output_path, dirent.name)
+        )
 
 
 if __name__ == "__main__":
