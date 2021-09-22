@@ -87,7 +87,7 @@ def process_script_file(audio_timing, script_filename):
     )
 
     # - Delete any remaining @x prefixes on _ZM calls
-    script_commands = strip_zm_x(script_commands)
+    script_commands = replace_standalone_zm_x_msad(script_commands)
 
     # Serialize it back out over the input file
     with open(script_filename, 'w') as f:
@@ -95,7 +95,7 @@ def process_script_file(audio_timing, script_filename):
             f.write(str(cmd) + "\n")
 
 
-def strip_zm_x(script_commands):
+def replace_standalone_zm_x_msad(script_commands):
     for idx in range(len(script_commands)):
         zm_cmd = script_commands[idx]
         if not zm_cmd.opcode.startswith("ZM"):
@@ -116,6 +116,9 @@ def strip_zm_x(script_commands):
         # Delete the @x prefix
         script_commands[idx].arguments[0] = \
             zm_cmd.arguments[0] = re.sub("@x", "", zm_cmd.arguments[0])
+
+        # Change the opcode to MSAD
+        script_commands[idx].opcode = "MSAD"
 
     return script_commands
 
@@ -154,30 +157,41 @@ def squash_ke_to_msad(audio_timing, script_filename, script_commands):
             script_filename, str(zm_cmd), zm_cmd_idx
         ))
 
+        # In some cases, the script may have multiple _ZM(@k@e) sequences in a
+        # row before we get to a _ZM(@x) sequence. Store the indices of these
+        # instaces so that we can patch them up once we have found the
+        # terminating @x entry
+        repeated_ke_idxs = []
+
         # escape sequence. Seek forwards until we find the next _ZM
         found_valid_next_zm = False
-        for subsequent_zm_idx in range(zm_cmd_idx + 1, len(script_commands)):
-            subsequent_zm_cmd = script_commands[subsequent_zm_idx]
-            if not subsequent_zm_cmd.opcode.startswith("ZM"):
+        for next_zm_idx in range(zm_cmd_idx + 1, len(script_commands)):
+            next_zm_cmd = script_commands[next_zm_idx]
+            if not next_zm_cmd.opcode.startswith("ZM"):
                 # Not a _ZM call, ignore
                 continue
 
             # Found our next _ZM - does the argument start with an @x modifier?
-            has_right_cmd_len = len(subsequent_zm_cmd.arguments) == 1
-            if (not has_right_cmd_len
-                    or not subsequent_zm_cmd.arguments[0].startswith("@x")):
+            has_right_cmd_len = len(next_zm_cmd.arguments) == 1
+            if not has_right_cmd_len:
                 sys.stderr.write(
                     "[%s]     Secondary _ZM instruction '%s' "
-                    "does not start with @x\n" % (
+                    "has incorrect argument count\n" % (
                         script_filename,
-                        str(subsequent_zm_cmd)
+                        str(next_zm_cmd)
                     )
                 )
                 found_valid_next_zm = False
                 break
 
-            # If it does, this is the line we need to modify.
-            found_valid_next_zm = True
+            # Is this a repeated @k@e?
+            if next_zm_cmd.arguments[0].endswith('@k@e'):
+                # Save this one in our list for later
+                repeated_ke_idxs.append(next_zm_idx)
+                continue
+
+            # Do we have an @x?
+            found_valid_next_zm = next_zm_cmd.arguments[0].startswith("@x")
             break
 
         # If we couldn't find a valid next zm, do not attempt to patch up this
@@ -189,85 +203,123 @@ def squash_ke_to_msad(audio_timing, script_filename, script_commands):
             continue
 
         # If we did, print some info
+        if repeated_ke_idxs:
+            sys.stderr.write("[%s]     Repeated @k@e sequences: %s\n" % (
+                script_filename, repeated_ke_idxs
+            ))
         sys.stderr.write("[%s]     Located secondary %s @ +%d\n" % (
-            script_filename, str(subsequent_zm_cmd), subsequent_zm_idx
+            script_filename, str(next_zm_cmd), next_zm_idx
         ))
 
-        # Now that we have the two bounding _ZM calls, seek _backwards_ from
-        # the secondary _ZM until we hit a VPLY call for the corresponding
-        # voice line
-        found_vply = False
-        for vply_idx in range(subsequent_zm_idx - 1, zm_cmd_idx, -1):
-            vply_cmd = script_commands[vply_idx]
-            if not vply_cmd.opcode == "VPLY":
-                # Not a _VPLY call, ignore
-                continue
+        # For each non-terminal _ZM, seek forwards to the next VPLY and extract
+        # play time so that we can add a delay before triggering the next text
+        vply_wait_by_ke_idx = {}
+        for repeat_idx in repeated_ke_idxs:
+            # Scan forward until we hit a VPLY or another text line
+            vply_idx = repeat_idx
+            while True:
+                vply_idx += 1
+                if vply_idx >= len(script_commands):
+                    break
+                vply_cmd = script_commands[vply_idx]
 
-            # If we find a VPLY command, assert that it has 2 arguments
-            if len(vply_cmd.arguments) != 2:
-                sys.stderr.write(
-                    "[%s]     Associated VPLY @ +%d invalid: '%s'\n" % (
-                        script_filename, vply_idx, str(vply_cmd)
+                # If we find a _ZM before we found a VPLY, then there is no
+                # audio to add a wait for.
+                if vply_cmd.opcode.startswith("_ZM"):
+                    break
+
+                # Ignore non-VPLY commands
+                if not vply_cmd.opcode == "VPLY":
+                    # Not a _VPLY call, ignore
+                    continue
+
+                # If we find a VPLY command, assert that it has 2 arguments
+                if len(vply_cmd.arguments) != 2:
+                    sys.stderr.write(
+                        "[%s]     Associated VPLY @ +%d invalid: '%s'\n" % (
+                            script_filename, vply_idx, str(vply_cmd)
+                        )
                     )
-                )
-                found_vply = False
-                break
+                    break
 
-            # If we found a valid VPLY, break out
-            found_vply = True
-            break
+                # If we found a valid VPLY, load the timing data
+                if vply_cmd.arguments[0] not in audio_timing:
+                    sys.stderr.write(
+                        "[%s]     Missing audio timing data for file %s\n" % (
+                            script_filename, str(vply_cmd)
+                        )
+                    )
+                    break
 
-        # Did we find our VPLY?
-        if not found_vply:
-            sys.stderr.write("[%s]     Failed to locate associated _VPLY\n" % (
-                script_filename
-            ))
-            continue
-
-        # If we did, check to see if we have timing info for it
-        if vply_cmd.arguments[0] not in audio_timing:
-            sys.stderr.write(
-                "[%s]     Missing audio timing data for file %s\n" % (
-                    script_filename, str(vply_cmd)
-                )
-            )
-            continue
+                # Insert this timing into our map
+                vply_wait_by_ke_idx[repeat_idx] = \
+                    audio_timing[vply_cmd.arguments[0]]
 
         # We have valid timing data - now that we have gathered our
         # prerequisites, it is time to make our modifications.
-        # - Strip @k@e from the first _ZM call
-        zm_cmd.arguments[0] = re.sub("@k@e", "@n", zm_cmd.arguments[0])
-        script_commands[zm_cmd_idx] = zm_cmd
+        # - Replace @k@e with @n on all _ZM calls
+        for idx in repeated_ke_idxs + [zm_cmd_idx]:
+            script_commands[idx].arguments[0] = \
+                re.sub("@k@e", "@n", script_commands[idx].arguments[0])
 
-        # - Strip @x from the second _ZM call and convert to a _MSAD
-        subsequent_zm_cmd.arguments[0] = re.sub(
-            "@x", "", subsequent_zm_cmd.arguments[0])
-        subsequent_zm_cmd.opcode = "MSAD"
-        script_commands[subsequent_zm_idx] = subsequent_zm_cmd
+        # Replace the opcode on all intermediate + end _ZM calls with _MSAD
+        for idx in repeated_ke_idxs + [next_zm_idx]:
+            # Delete @x from arguments on intermediate calls
+            script_commands[idx].arguments[0] = re.sub(
+                "@x", "", script_commands[idx].arguments[0])
 
-        # - Inject a _WTTM call after the first _ZM call
-        script_commands.insert(
-            zm_cmd_idx + 1,
-            ScriptCommand(
-                "WTTM",
-                [str(audio_timing[vply_cmd.arguments[0]]), "1"]
+            # MSAD not _ZM
+            script_commands[idx].opcode = "MSAD"
+
+        # For each _ZM call, if we found a subsequent _VPLY, add a _WTTM
+        # to match the delays up.
+        # Perform these inserts in reverse so that we don't mess up the indexes
+        for idx in sorted(vply_wait_by_ke_idx.keys(), reverse=True):
+            script_commands.insert(
+                idx + 1,
+                ScriptCommand(
+                    "WTTM",
+                    [str(vply_wait_by_ke_idx[idx]), "1"]
+                )
             )
-        )
+            sys.stderr.write(
+                "[%s]     Inserted WTTM of len %d for %s @ +%d\n" % (
+                    script_filename, vply_wait_by_ke_idx[idx],
+                    vply_cmd.arguments[0], idx+1
+                )
+            )
 
-        # - Delete other text-related commands between the initial _ZM call
-        # and what is now a _MSAD call
-        # Iterate backwards so that mutating the script list doesn't break
-        # indexing on us
-        for remove_idx in range(subsequent_zm_idx - 1, zm_cmd_idx, -1):
+        # At this point, we have mutated the list - we need to regenerate the
+        # offsets for all _ZM calls other than the first one. Each index is
+        # offset by the total number of WTTM calls that were injected before it
+        adjusted_ke_idxs = []
+        for idx in repeated_ke_idxs:
+            # We inserted a WTTM for every valid VPLY that came before the
+            # original index location of this entry
+            prev_wttm_count = len([
+                k for k in vply_wait_by_ke_idx.keys() if k < idx
+            ])
+            adjusted_ke_idxs.append(idx + prev_wttm_count)
+
+        # With our patched up offsets, we can now delete the WKAD/WKST calls
+        # Iterate backwards again so that mutating the script list doesn't
+        # indexing on us during the operation
+
+        for remove_idx in range(next_zm_idx - 1, zm_cmd_idx, -1):
             if script_commands[remove_idx].opcode in ["WKAD", "WNTY", "WKST"]:
-                del script_commands[remove_idx]
+                # It seems that we need to keep WKST calls that set the flag
+                # C847, which may affect where choices jump you in the script.
+                # If we see one of these, leave it alone.
+                is_wkst = script_commands[remove_idx].opcode == "WKST"
+                wkst_is_c847 = (
+                    len(script_commands[remove_idx].arguments) and
+                    script_commands[remove_idx].arguments[0] == "C847"
+                )
+                if is_wkst and wkst_is_c847:
+                    continue
 
-        sys.stderr.write(
-            "[%s]     Sucessfully inserted WTTM of len %d for %s @ +%d\n" % (
-                script_filename, audio_timing[vply_cmd.arguments[0]],
-                vply_cmd.arguments[0], vply_idx
-            )
-        )
+                # Otherwise, delete
+                del script_commands[remove_idx]
 
     # Finally, we have our modified script.
     return script_commands
