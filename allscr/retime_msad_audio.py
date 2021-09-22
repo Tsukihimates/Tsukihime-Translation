@@ -260,6 +260,18 @@ def squash_ke_to_msad(audio_timing, script_filename, script_commands):
         # indexing on us
         for remove_idx in range(subsequent_zm_idx - 1, zm_cmd_idx, -1):
             if script_commands[remove_idx].opcode in ["WKAD", "WNTY", "WKST"]:
+                # It seems that we need to keep WKST calls that set the flag
+                # C847, which may affect where choices jump you in the script.
+                # If we see one of these, leave it alone.
+                is_wkst = script_commands[remove_idx].opcode == "WKST"
+                wkst_is_c847 = (
+                    len(script_commands[remove_idx].arguments) and
+                    script_commands[remove_idx].arguments[0] == "C847"
+                )
+                if is_wkst and wkst_is_c847:
+                    continue
+
+                # Otherwise, delete
                 del script_commands[remove_idx]
 
         sys.stderr.write(
