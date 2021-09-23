@@ -102,9 +102,7 @@ def process_script_file(audio_timing, script_filename, output_filename):
 
 class PState(enum.Enum):
     ADVANCE = 1
-    X_LOOKBACK = 2
     KE_SEEK_X = 3
-    KE_PROCESS = 4
 
 
 def patch_ke_x_block(timing_db, script_commands):
@@ -236,12 +234,11 @@ def process_script(timing_db, script_commands):
                 continue
 
             # If this is an @x prefixed _ZM, we need to convert it to an
-            # MSAD and then backtrack to find the previous _ZM
+            # MSAD and strip the @x. No other changes.
             if cmd_is_x:
                 cmd.opcode = 'MSAD'
                 cmd.arguments[0] = re.sub("@x", "", cmd.arguments[0])
-                seek_buf = [cmd]
-                state = PState.X_LOOKBACK
+                head.append(cmd)
                 continue
 
             # If this is a _ZM with an @k@e sequence, we need to start
@@ -295,71 +292,6 @@ def process_script(timing_db, script_commands):
                 head.append(c)
 
             # Move back to ADVANCE
-            state = PState.ADVANCE
-            continue
-
-        # Are we searching backwards for the _ZM before a lone @x?
-        if state == PState.X_LOOKBACK:
-            # Check that we have not fully consumed the head stack
-            assert head, "Lookback reached start of script"
-
-            # Pop the last item from the head list
-            cmd = head.pop()
-
-            # If the next command isn't a ZM, just stick it on the front of the
-            # seek buffer and continue
-            cmd_is_zm = cmd.opcode.startswith('ZM')
-            cmd_is_msad = cmd.opcode == 'MSAD'
-            if not (cmd_is_zm or cmd_is_msad):
-                seek_buf.insert(0, cmd)
-                continue
-
-            print("Patch @x block:")
-            print([str(c) for c in seek_buf])
-
-            # We have found the preceding _ZM - we now need to
-            # - Insert a WTTM with the length of first VPLY after the ZM
-            # - Delete all WKAD(F823) in the seek buffer
-            # - If we have deleted more than one WKAD, insert dummy 1ms
-            #   WTTM calls so that the total number of instructions line up
-
-            # Mark how many commands we have so we can keep it the same
-            target_seek_buf_len = len(seek_buf)
-
-            # Did we find any VPLYs to insert timing for?
-            found_vplys = [c for c in seek_buf if c.opcode == 'VPLY']
-            if found_vplys:
-                vply = found_vplys[0]
-                delay_ms = timing_db[vply.arguments[0]]
-                wttm = ScriptCommand("WTTM", [str(delay_ms), "1"])
-                seek_buf.insert(0, wttm)
-
-            # Iterate the seek buf and delete any WKAD(F823)
-            seek_buf = [
-                c for c in seek_buf
-                if not (c.opcode == 'WKAD' and c.arguments[0] == 'F823')
-            ]
-
-            # Are we now over/under the target length for this block
-            len_delta = target_seek_buf_len - len(seek_buf)
-            print(f"Len delta: {len_delta}")
-            print([str(c) for c in seek_buf])
-
-            # If the block is too _long_, we can't really do anything
-            # to fix it?
-            assert len_delta >= 0, "Block too long"
-
-            # If the block is too short, insert some 1ms WTTM to pad
-            for _ in range(len_delta):
-                seek_buf.insert(0, ScriptCommand("WTTM", ["1", "1"]))
-
-            # We are done patching this block - move the entire chunk over
-            # to the visited stack
-            head.append(cmd)
-            for c in seek_buf:
-                head.append(c)
-
-            # Move back to the ADVANCE state
             state = PState.ADVANCE
             continue
 
