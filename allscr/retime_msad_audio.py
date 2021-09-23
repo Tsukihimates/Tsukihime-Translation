@@ -1,7 +1,14 @@
 #!/usr/bin/env python3
+import enum
 import os
 import re
 import sys
+
+
+#  11.ext: Standalone @x with VPLY
+#  58.txt: @k@e with no @x before EOF
+# 107.txt: Standalone @x with no VPLY
+# 147.txt: _MSAD with @k@e sequence
 
 
 class ScriptCommand:
@@ -14,7 +21,7 @@ class ScriptCommand:
         # Arguments must be joined by commas when packing scripts
         self.arguments = arguments
 
-    def __str__(self):
+    def __repr__(self):
         # Convert a script command to a string for emission
         return "_%s(%s);" % (self.opcode, ','.join(self.arguments or []))
 
@@ -46,7 +53,9 @@ def load_timing(filename):
     return audio_timing
 
 
-def process_script_file(audio_timing, script_filename):
+def process_script_file(audio_timing, script_filename, output_filename):
+    print(script_filename)
+
     # Load in the raw script
     file_data_raw = None
     with open(script_filename, "r") as f:
@@ -80,261 +89,295 @@ def process_script_file(audio_timing, script_filename):
 
     # Perform our transforms on the script
     # - Take all @k@e -> @x pairs, and convert to a _ZM + _WTTM + _MSAD
-    script_commands = squash_ke_to_msad(
+    script_commands = process_script(
         audio_timing,
-        script_filename,
         script_commands
     )
 
-    # - Delete any remaining @x prefixes on _ZM calls
-    script_commands = replace_standalone_zm_x_msad(script_commands)
-
     # Serialize it back out over the input file
-    with open(script_filename, 'w') as f:
+    with open(output_filename, 'w') as f:
         for cmd in script_commands:
             f.write(str(cmd) + "\n")
 
 
-def replace_standalone_zm_x_msad(script_commands):
-    for idx in range(len(script_commands)):
-        zm_cmd = script_commands[idx]
-        if not zm_cmd.opcode.startswith("ZM"):
-            # Not a _ZM call, ignore
+class PState(enum.Enum):
+    ADVANCE = 1
+    X_LOOKBACK = 2
+    KE_SEEK_X = 3
+    KE_PROCESS = 4
+
+
+def patch_ke_x_block(timing_db, script_commands):
+    # Given a block that starts with a _ZM(@k@e) and ends with a _ZM(@x),
+    # mutate the block according to our rules.
+    print("Patch ke block. Raw:")
+    print([str(c) for c in script_commands])
+
+    # split the cmd_block into a list of chunks, where each chunk starts with
+    # a _ZM(@k@e) and ends with the command right before the next text output
+    # cmd. We should end up with at least 2 blocks for the single @k@e case
+    # (second block has @x cmd and nothing else) and more than 2 blocks for the
+    # repeated @k@e case
+    blocks = []
+    current_block = [script_commands.pop(0)]
+    while script_commands:
+        # Pop front
+        cmd = script_commands.pop(0)
+
+        # If this isn't a ZM, append to current block
+        cmd_is_zm = cmd.opcode.startswith('ZM')
+        if not cmd_is_zm:
+            current_block.append(cmd)
             continue
 
-        # Does this ZM call have an argument?
-        if len(zm_cmd.arguments) != 1:
-            # Unexpected - _ZM should only take one argument
-            sys.stderr.write("Unexpected _ZM arguments: '%s'\n" % str(zm_cmd))
-            continue
+        # If it is a ZM, end the current block and begin new block
+        blocks.append(current_block)
+        current_block = [cmd]
 
-        # Is that _ZM prefixed with an @x escape sequence?
-        if not zm_cmd.arguments[0].startswith('@x'):
-            # No escape sequence, ignore
-            continue
+    # Once we are done processing, blocks contains a list of one or more ke
+    # blocks, and the current block _should_ contain a single @x ZM command
+    assert len(blocks) >= 1
+    assert len(current_block) == 1
+    print("KE blocks:")
+    print(blocks)
+    print("Final block:")
+    print(current_block)
 
-        # Delete the @x prefix
-        script_commands[idx].arguments[0] = \
-            zm_cmd.arguments[0] = re.sub("@x", "", zm_cmd.arguments[0])
+    # Append the final block
+    blocks.append(current_block)
 
-        # Change the opcode to MSAD
-        script_commands[idx].opcode = "MSAD"
+    # Process each @k@e block
+    def process_block(block):
+        # Get the length of the block for sanity checking
+        block_len = len(block)
 
-    return script_commands
+        # Convert @k@e -> @n in the _ZM command args
+        block[0].arguments[0] = re.sub("@k@e", "@n", block[0].arguments[0])
+
+        # Is there a VPLY?
+        found_vplys = [c for c in block if c.opcode == 'VPLY']
+        if found_vplys:
+            vply = found_vplys[0]
+            delay_ms = timing_db[vply.arguments[0]]
+            wttm = ScriptCommand("WTTM", [str(delay_ms), "1"])
+            block.insert(1, wttm)
+
+        # Delete any WKAD(F823)
+        block = [
+            c for c in block
+            if not (c.opcode == 'WKAD' and c.arguments[0] == 'F823')
+        ]
+
+        # Are we now over/under the target length for this block
+        len_delta = block_len - len(block)
+        print(f"Len delta: {len_delta}")
+        print([str(c) for c in block])
+
+        # If the block is too _long_, we can't really do anything
+        # to fix it?
+        assert len_delta >= 0, "Block too long"
+
+        # If the block is too short, insert some 1ms WTTM to pad
+        for _ in range(len_delta):
+            block.insert(1, ScriptCommand("WTTM", ["1", "1"]))
+
+        return block
+
+    blocks = [process_block(b) for b in blocks]
+
+    # For all @k@e blocks other than the _first_ @k@e block, change the
+    # _ZM to a _MSAD
+    for block in blocks[1:]:
+        block[0].opcode = 'MSAD'
+        block[0].arguments[0] = re.sub("@x", "", block[0].arguments[0])
+
+    # Flatten the blocks back into a list & return
+    ret = []
+    for block in blocks:
+        for c in block:
+            ret.append(c)
+
+    print("Processed cmds:")
+    print(ret)
+    return ret
 
 
-def squash_ke_to_msad(audio_timing, script_filename, script_commands):
-    # Start seeking through our file until we find a _ZM* opcode that
-    # contains @k@e in the address section.
-    zm_cmd_idx = -1
+def process_script(timing_db, script_commands):
+    # Use two lists to handle seeking without caring about indices
+    # Both lists are stored in-order
+    head = []
+    tail = script_commands
+
+    # When inside an active section, use a secondary buffer to track commands
+    # since the search start
+    seek_buf = []           # In-order temporary command buffer
+
+    state = PState.ADVANCE
     while True:
-        # The 'pythonic' way to do a for loop is to iterate a generator, but
-        # since we need to do a bunch of index manipulation while we
-        # add / remove script entries, manually implement a more flexible
-        # C-style for loop.
-        zm_cmd_idx += 1
-        if not zm_cmd_idx < len(script_commands):
-            break
-
-        zm_cmd = script_commands[zm_cmd_idx]
-        if not zm_cmd.opcode.startswith("ZM"):
-            # Not a _ZM call, ignore
-            continue
-
-        # Does this ZM call have an argument?
-        if len(zm_cmd.arguments) != 1:
-            # Unexpected - _ZM should only take one argument
-            sys.stderr.write("Unexpected _ZM arguments: '%s'\n" % str(zm_cmd))
-            continue
-
-        # Does that _ZM contain an @k@e escape sequence?
-        if not zm_cmd.arguments[0].endswith('@k@e'):
-            # No escape sequence, ignore
-            continue
-
-        # At this point, we have a _ZM command that comtains our target
-        sys.stderr.write("[%s] Located _ZM call '%s' @ +%d\n" % (
-            script_filename, str(zm_cmd), zm_cmd_idx
-        ))
-
-        # In some cases, the script may have multiple _ZM(@k@e) sequences in a
-        # row before we get to a _ZM(@x) sequence. Store the indices of these
-        # instaces so that we can patch them up once we have found the
-        # terminating @x entry
-        repeated_ke_idxs = []
-
-        # escape sequence. Seek forwards until we find the next _ZM
-        found_valid_next_zm = False
-        for next_zm_idx in range(zm_cmd_idx + 1, len(script_commands)):
-            next_zm_cmd = script_commands[next_zm_idx]
-            if not next_zm_cmd.opcode.startswith("ZM"):
-                # Not a _ZM call, ignore
-                continue
-
-            # Found our next _ZM - does the argument start with an @x modifier?
-            has_right_cmd_len = len(next_zm_cmd.arguments) == 1
-            if not has_right_cmd_len:
-                sys.stderr.write(
-                    "[%s]     Secondary _ZM instruction '%s' "
-                    "has incorrect argument count\n" % (
-                        script_filename,
-                        str(next_zm_cmd)
-                    )
-                )
-                found_valid_next_zm = False
+        if state == PState.ADVANCE:
+            # If the tail is empty, the loop is done
+            if not tail:
                 break
 
-            # Is this a repeated @k@e?
-            if next_zm_cmd.arguments[0].endswith('@k@e'):
-                # Save this one in our list for later
-                repeated_ke_idxs.append(next_zm_idx)
+            # Pop the first item on the tail
+            cmd = tail.pop(0)
+
+            # Is this command a special _ZM
+            cmd_is_zm = cmd.opcode.startswith('ZM')
+            cmd_is_msad = cmd.opcode == 'MSAD'
+            is_txt_cmd = cmd_is_zm or cmd_is_msad
+            cmd_is_ke = is_txt_cmd and cmd.arguments[0].endswith('@k@e')
+            cmd_is_x = is_txt_cmd and cmd.arguments[0].startswith('@x')
+
+            # If the commands is not a zm, just move it to the head list
+            # and continue iterating
+            if not (cmd_is_ke or cmd_is_x):
+                head.append(cmd)
                 continue
 
-            # Do we have an @x?
-            found_valid_next_zm = next_zm_cmd.arguments[0].startswith("@x")
-            break
+            # If this is an @x prefixed _ZM, we need to convert it to an
+            # MSAD and then backtrack to find the previous _ZM
+            if cmd_is_x:
+                cmd.opcode = 'MSAD'
+                cmd.arguments[0] = re.sub("@x", "", cmd.arguments[0])
+                seek_buf = [cmd]
+                state = PState.X_LOOKBACK
+                continue
 
-        # If we couldn't find a valid next zm, do not attempt to patch up this
-        # command pair
-        if not found_valid_next_zm:
-            sys.stderr.write("[%s]     Failed to locate secondary _ZM\n" % (
-                script_filename
-            ))
+            # If this is a _ZM with an @k@e sequence, we need to start
+            # seeking forward until we find a terminating _ZM(@x)
+            if cmd_is_ke:
+                seek_buf = [cmd]
+                state = PState.KE_SEEK_X
+                continue
+
+            assert False, "Unexpected end of PState.ADVANCE"
+
+        # Are we searching forward as part of a KE block for a terminating @x?
+        if state == PState.KE_SEEK_X:
+            # If we hit the end of the file, don't try and modify this block?
+            if not tail:
+                print("Hit EOF trying to match @k@e, no changes made")
+                # Move all the data that were in the seek buf to head
+                for c in seek_buf:
+                    head.append(c)
+
+                # return to ADVANCE state
+                state = PState.ADVANCE
+                continue
+
+            # Pop the first item on the tail
+            cmd = tail.pop(0)
+
+            # If we don't have a match, append to seek buf and continue
+            cmd_is_zm = cmd.opcode.startswith('ZM')
+            if not cmd_is_zm:
+                seek_buf.append(cmd)
+                continue
+
+            # If this is a ZM, but doesn't have @x, don't modify this block?
+            # TODO(ross) confirm with Hakanaou
+            cmd_is_zm_x = cmd_is_zm and cmd.arguments[0].startswith('@x')
+            if not cmd_is_zm_x:
+                for c in seek_buf:
+                    head.append(c)
+                head.append(cmd)
+
+                # Move back to the ADVANCE state
+                state = PState.ADVANCE
+                continue
+
+            # If we have found the final @x, push it onto the seek buffer and
+            # then go patch up the block in another function
+            seek_buf.append(cmd)
+            processed_block = patch_ke_x_block(timing_db, seek_buf)
+            for c in processed_block:
+                head.append(c)
+
+            # Move back to ADVANCE
+            state = PState.ADVANCE
             continue
 
-        # If we did, print some info
-        if repeated_ke_idxs:
-            sys.stderr.write("[%s]     Repeated @k@e sequences: %s\n" % (
-                script_filename, repeated_ke_idxs
-            ))
-        sys.stderr.write("[%s]     Located secondary %s @ +%d\n" % (
-            script_filename, str(next_zm_cmd), next_zm_idx
-        ))
+        # Are we searching backwards for the _ZM before a lone @x?
+        if state == PState.X_LOOKBACK:
+            # Check that we have not fully consumed the head stack
+            assert head, "Lookback reached start of script"
 
-        # For each non-terminal _ZM, seek forwards to the next VPLY and extract
-        # play time so that we can add a delay before triggering the next text
-        vply_wait_by_ke_idx = {}
-        for repeat_idx in repeated_ke_idxs:
-            # Scan forward until we hit a VPLY or another text line
-            vply_idx = repeat_idx
-            while True:
-                vply_idx += 1
-                if vply_idx >= len(script_commands):
-                    break
-                vply_cmd = script_commands[vply_idx]
+            # Pop the last item from the head list
+            cmd = head.pop()
 
-                # If we find a _ZM before we found a VPLY, then there is no
-                # audio to add a wait for.
-                if vply_cmd.opcode.startswith("_ZM"):
-                    break
+            # If the next command isn't a ZM, just stick it on the front of the
+            # seek buffer and continue
+            cmd_is_zm = cmd.opcode.startswith('ZM')
+            cmd_is_msad = cmd.opcode == 'MSAD'
+            if not (cmd_is_zm or cmd_is_msad):
+                seek_buf.insert(0, cmd)
+                continue
 
-                # Ignore non-VPLY commands
-                if not vply_cmd.opcode == "VPLY":
-                    # Not a _VPLY call, ignore
-                    continue
+            print("Patch @x block:")
+            print([str(c) for c in seek_buf])
 
-                # If we find a VPLY command, assert that it has 2 arguments
-                if len(vply_cmd.arguments) != 2:
-                    sys.stderr.write(
-                        "[%s]     Associated VPLY @ +%d invalid: '%s'\n" % (
-                            script_filename, vply_idx, str(vply_cmd)
-                        )
-                    )
-                    break
+            # We have found the preceding _ZM - we now need to
+            # - Insert a WTTM with the length of first VPLY after the ZM
+            # - Delete all WKAD(F823) in the seek buffer
+            # - If we have deleted more than one WKAD, insert dummy 1ms
+            #   WTTM calls so that the total number of instructions line up
 
-                # If we found a valid VPLY, load the timing data
-                if vply_cmd.arguments[0] not in audio_timing:
-                    sys.stderr.write(
-                        "[%s]     Missing audio timing data for file %s\n" % (
-                            script_filename, str(vply_cmd)
-                        )
-                    )
-                    break
+            # Mark how many commands we have so we can keep it the same
+            target_seek_buf_len = len(seek_buf)
 
-                # Insert this timing into our map
-                vply_wait_by_ke_idx[repeat_idx] = \
-                    audio_timing[vply_cmd.arguments[0]]
+            # Did we find any VPLYs to insert timing for?
+            found_vplys = [c for c in seek_buf if c.opcode == 'VPLY']
+            if found_vplys:
+                vply = found_vplys[0]
+                delay_ms = timing_db[vply.arguments[0]]
+                wttm = ScriptCommand("WTTM", [str(delay_ms), "1"])
+                seek_buf.insert(0, wttm)
 
-        # We have valid timing data - now that we have gathered our
-        # prerequisites, it is time to make our modifications.
-        # - Replace @k@e with @n on all _ZM calls
-        for idx in repeated_ke_idxs + [zm_cmd_idx]:
-            script_commands[idx].arguments[0] = \
-                re.sub("@k@e", "@n", script_commands[idx].arguments[0])
+            # Iterate the seek buf and delete any WKAD(F823)
+            seek_buf = [
+                c for c in seek_buf
+                if not (c.opcode == 'WKAD' and c.arguments[0] == 'F823')
+            ]
 
-        # Replace the opcode on all intermediate + end _ZM calls with _MSAD
-        for idx in repeated_ke_idxs + [next_zm_idx]:
-            # Delete @x from arguments on intermediate calls
-            script_commands[idx].arguments[0] = re.sub(
-                "@x", "", script_commands[idx].arguments[0])
+            # Are we now over/under the target length for this block
+            len_delta = target_seek_buf_len - len(seek_buf)
+            print(f"Len delta: {len_delta}")
+            print([str(c) for c in seek_buf])
 
-            # MSAD not _ZM
-            script_commands[idx].opcode = "MSAD"
+            # If the block is too _long_, we can't really do anything
+            # to fix it?
+            assert len_delta >= 0, "Block too long"
 
-        # For each _ZM call, if we found a subsequent _VPLY, add a _WTTM
-        # to match the delays up.
-        # Perform these inserts in reverse so that we don't mess up the indexes
-        for idx in sorted(vply_wait_by_ke_idx.keys(), reverse=True):
-            script_commands.insert(
-                idx + 1,
-                ScriptCommand(
-                    "WTTM",
-                    [str(vply_wait_by_ke_idx[idx]), "1"]
-                )
-            )
-            sys.stderr.write(
-                "[%s]     Inserted WTTM of len %d for %s @ +%d\n" % (
-                    script_filename, vply_wait_by_ke_idx[idx],
-                    vply_cmd.arguments[0], idx+1
-                )
-            )
+            # If the block is too short, insert some 1ms WTTM to pad
+            for _ in range(len_delta):
+                seek_buf.insert(0, ScriptCommand("WTTM", ["1", "1"]))
 
-        # At this point, we have mutated the list - we need to regenerate the
-        # offsets for all _ZM calls other than the first one. Each index is
-        # offset by the total number of WTTM calls that were injected before it
-        adjusted_ke_idxs = []
-        for idx in repeated_ke_idxs:
-            # We inserted a WTTM for every valid VPLY that came before the
-            # original index location of this entry
-            prev_wttm_count = len([
-                k for k in vply_wait_by_ke_idx.keys() if k < idx
-            ])
-            adjusted_ke_idxs.append(idx + prev_wttm_count)
+            # We are done patching this block - move the entire chunk over
+            # to the visited stack
+            head.append(cmd)
+            for c in seek_buf:
+                head.append(c)
 
-        # With our patched up offsets, we can now delete the WKAD/WKST calls
-        # Iterate backwards again so that mutating the script list doesn't
-        # indexing on us during the operation
+            # Move back to the ADVANCE state
+            state = PState.ADVANCE
+            continue
 
-        for remove_idx in range(next_zm_idx - 1, zm_cmd_idx, -1):
-            if script_commands[remove_idx].opcode in ["WKAD", "WNTY", "WKST"]:
-                # It seems that we need to keep WKST calls that set the flag
-                # C847, which may affect where choices jump you in the script.
-                # If we see one of these, leave it alone.
-                is_wkst = script_commands[remove_idx].opcode == "WKST"
-                wkst_is_c847 = (
-                    len(script_commands[remove_idx].arguments) and
-                    script_commands[remove_idx].arguments[0] == "C847"
-                )
-                if is_wkst and wkst_is_c847:
-                    continue
-
-                # Otherwise, delete
-                del script_commands[remove_idx]
-
-    # Finally, we have our modified script.
-    return script_commands
+    assert(not tail)
+    return head
 
 
 def main():
     # Check arguments
-    if len(sys.argv) != 3:
+    if len(sys.argv) != 4:
         sys.stderr.write(
-            f"Usage: {sys.argv[0]} audio_timing script_directory\n")
+            f"Usage: {sys.argv[0]} audio_timing script_dir output_dir\n")
         return -1
 
     # Name args
     audio_timing_filename = sys.argv[1]
     script_dir_path = sys.argv[2]
+    output_path = sys.argv[3]
 
     # Load in the timing file to a map of filename -> time (ms)
     audio_timing = load_timing(audio_timing_filename)
@@ -350,9 +393,12 @@ def main():
         if not dirent.path.endswith(".txt"):
             continue
 
-        # Process the file. Note that we rewrite it IN PLACE; be sure to use
-        # version control!
-        process_script_file(audio_timing, dirent.path)
+        # Process the file, and write to the output directory
+        process_script_file(
+            audio_timing,
+            dirent.path,
+            os.path.join(output_path, dirent.name)
+        )
 
 
 if __name__ == "__main__":
