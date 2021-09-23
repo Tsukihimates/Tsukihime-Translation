@@ -309,8 +309,8 @@ def process_script(timing_db, script_commands):
             # If the next command isn't a ZM, just stick it on the front of the
             # seek buffer and continue
             cmd_is_zm = cmd.opcode.startswith('ZM')
-            cmd_is_msad = cmd.opcode = 'MSAD'
-            if not cmd_is_zm and not cmd_is_msad:
+            cmd_is_msad = cmd.opcode == 'MSAD'
+            if not (cmd_is_zm or cmd_is_msad):
                 seek_buf.insert(0, cmd)
                 continue
 
