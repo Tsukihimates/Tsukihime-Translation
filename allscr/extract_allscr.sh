@@ -54,7 +54,12 @@ echo -e "\nDecompression complete"
 # Some of the script files seem to have anomalies baked in - explicitly replace
 # those lines
 echo "Manually patching bad script lines"
+# V1 quirks
 sed -i 's/_STCP)21,0);/_STCP(21,0);/' decompressed/allscr.mrg_0143.txt
 sed -i 's/_SEFD(5,,,`001:2000)();/_SEFD(5,,,`001:2000);/' decompressed/allscr.mrg_0169.txt
 sed -i 's/_MFAD(,,`001:8000,,`011:0)0);/_MFAD(,,`001:8000,,`011:0);/' decompressed/allscr.mrg_0369.txt
 sed -i 's/_STZ4(5,498,498,498,498,0,0,0)gb);/_STZ4(5,498,498,498,498,0,0,0);/' decompressed/allscr.mrg_0495.txt
+# V1.0.1 quirks
+sed -i 's/_STGS(0,,0,800,0)#);/_STGS(0,,0,800,0);/' decompressed/allscr.mrg_0010.txt
+sed -i 's/_SQK2(11,2,2,100,-1,0,0,0,0)+);/_SQK2(11,2,2,100,-1,0,0,0,0);/' decompressed/allscr.mrg_0347.txt
+sed -i 's/_STTR,0,26);/_STTR(0,26);/' decompressed/allscr.mrg_0459.txt
