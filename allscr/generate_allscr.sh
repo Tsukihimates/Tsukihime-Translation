@@ -8,7 +8,7 @@ mkdir -p build/ || true
 for F in $(ls decompressed); do
   echo -ne "Compressing $F\r"
   # Remove newlines
-  cat "decompressed/$F" | tr -d '\n' > "build/$F"
+  cat "retimed/$F" | tr -d '\n' > "build/$F"
   # Compress
   mzx_compress "build/$F" build/"`echo $F | sed 's/txt/bin/'`"
 done
