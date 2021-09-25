@@ -8,4 +8,4 @@ To install this mod on an emulator, place the .ips file in
 
 To install this mod on Atmosphere, the .ips file should be placed at
 
-   SD Card Root/atmosphere/exefs_patches/TsukiRe Screenshot Fix/F4B3318D56031E4550EEDDCB12D28FFB78D8397E.ips
+    SD Card Root/atmosphere/exefs_patches/TsukiRe Screenshot Fix/F4B3318D56031E4550EEDDCB12D28FFB78D8397E.ips
