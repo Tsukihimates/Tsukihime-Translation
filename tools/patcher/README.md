@@ -16,7 +16,9 @@ Put an unaltered allui.mrg, allui.hed and allui.nam into the **_mrgs** folder.
 ## 3. Run the patch_allui.py
 ``python3 patch_allui.py``
 
-Maybe run the .bat on Windows.
+### Windows issues
+Maybe run the .bat on Windows. Might not work. You need python installed. Try opening
+Command Prompt as administrator, then running the .py file like that. Working on a better solution orz.
 
 This might take a long time.
 
