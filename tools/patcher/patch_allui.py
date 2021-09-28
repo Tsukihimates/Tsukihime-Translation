@@ -10,7 +10,7 @@ SCRIPT_TRANSLATIONS_FOLDER = os.path.join('..', '..', 'script')
 
 if os.name == 'nt':
     QUICKBMS = os.path.join('quickbms', 'quickbms_4gb_files.exe')
-    COMPRESSONATOR = os.path.join('compressonator', 'CompressonatorCLI_x64_4.2.5185.exe')
+    COMPRESSONATOR = "\\Compressonator_4.2.5185\\bin\\CLI\\compressonatorcli.exe"
 else:
     QUICKBMS = './quickbms/quickbms_4gb_files'
     COMPRESSONATOR = './compressonator/compressonatorcli'
