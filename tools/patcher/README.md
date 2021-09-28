@@ -7,8 +7,9 @@ own nice allui.mrg + allui.hed to put into your emulator's mod folder.
 Into the **quickbms** folder you need to download quickbms: http://aluigi.altervista.org/quickbms.htm -
 this wonderful swiss army knife tool extracts and rebuilds .mrg files.
 
-Then, into the **compressonator** folder you need to download compressonator CLI version: https://github.com/GPUOpen-Tools/compressonator/releases/tag/V4.2.5185 -
+Then, for Linux, download compressonatorcli into the **compressonator** folder: https://github.com/GPUOpen-Tools/compressonator/releases/tag/V4.2.5185 -
 this tools builds .dds files from .png files to be inserted.
+For Windows, just install the CompressonatorCLI software, this script uses the default install path.
 
 ## 2. Move the allui 
 Put an unaltered allui.mrg, allui.hed and allui.nam into the **_mrgs** folder.

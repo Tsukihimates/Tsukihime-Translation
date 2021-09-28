@@ -21,7 +21,6 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 import os.path
-from PyQt5 import QtWidgets
 
 import dds
 import globals
@@ -216,25 +215,14 @@ class File:
 
             result_, blkWidth, blkHeight = self.rawData(texture)
 
-            if exportAs:
-                if (texture.format_ >> 8) in globals.ASTC_formats:
-                    file = QtWidgets.QFileDialog.getSaveFileName(None, "Save File", "", "ASTC (*.astc)")[0]
+            name = texture.name.replace('\\', '_').replace('/', '_').replace(':', '_').replace('*', '_').replace(
+                '?', '_').replace('"', '_').replace('<', '_').replace('>', '_').replace('|', '_')
 
-                else:
-                    file = QtWidgets.QFileDialog.getSaveFileName(None, "Save File", "", "DDS (*.dds)")[0]
-
-                if not file:
-                    return False
+            if (texture.format_ >> 8) in globals.ASTC_formats:
+                file = os.path.join(BFRESPath, name + '.astc')
 
             else:
-                name = texture.name.replace('\\', '_').replace('/', '_').replace(':', '_').replace('*', '_').replace(
-                    '?', '_').replace('"', '_').replace('<', '_').replace('>', '_').replace('|', '_')
-
-                if (texture.format_ >> 8) in globals.ASTC_formats:
-                    file = os.path.join(BFRESPath, name + '.astc')
-
-                else:
-                    file = os.path.join(BFRESPath, name + '.dds')
+                file = os.path.join(BFRESPath, name + '.dds')
 
             if (texture.format_ >> 8) in globals.ASTC_formats:
                 outBuffer = b''.join([
@@ -272,7 +260,6 @@ class File:
             else:
                 context = "Unsupported array length."
 
-            QtWidgets.QMessageBox.warning(None, "Error", '\n'.join([msg, context]))
             return False
 
     @staticmethod
@@ -297,11 +284,11 @@ class File:
         width, height, format_, fourcc, dataSize, compSel, numMips, data = dds.readDDS(f, SRGB)
 
         if 0 in [width, dataSize] and data == []:
-            QtWidgets.QMessageBox.warning(None, "Error", "Unsupported DDS file!")
+            print("Unsupported DDS file!")
             return False
 
         if format_ not in globals.formats:
-            QtWidgets.QMessageBox.warning(None, "Error", "Unsupported DDS format!")
+            print("Unsupported DDS format!")
             return False
 
         if not importMips:
