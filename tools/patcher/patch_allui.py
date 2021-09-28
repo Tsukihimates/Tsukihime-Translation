@@ -140,3 +140,5 @@ quickbms_process = subprocess.Popen([QUICKBMS, '-Y', '-w', '-r', '-r', os.path.j
                                     universal_newlines=True)
 
 return_code, output = run_process(quickbms_process)
+
+print('All done! Check the _new_mrgs folder.')
