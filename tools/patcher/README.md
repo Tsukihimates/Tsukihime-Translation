@@ -19,11 +19,14 @@ Put an unaltered allui.mrg, allui.hed and allui.nam into the **_mrgs** folder.
 ## 3. Run the patch_allui.py
 ``python3 patch_allui.py``
 
-### Windows issues
-Maybe run the .bat on Windows. Might not work. You need python installed. Try opening
-Command Prompt as administrator, then running the .py file like that. Working on a better solution orz.
+On Windows, you should be able to just run the .bat file.
 
 This might take a long time.
 
 ## 4. Copy to mod folder
 If all went well, you should have your new allui.* files in **_new_mrgs**. Have fun!
+
+## 5. Do it again
+If you need to rebuild your allui.mrg again, because new stuff has been translated / changed,
+you need to delete the .dds files that you want updated from the **_replace** folder (or just delete the
+whole folder, but this will make the script to redo all the conversions again).
