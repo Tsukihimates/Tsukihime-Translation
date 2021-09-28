@@ -17,7 +17,8 @@ def replace_texture(bntx, dds_path, texture):
         i += 1
 
     if texture_to_replace is None:
-        raise SystemExit('Cannot find texture to replace.')
+        print('Cannot find texture to replace: ' + texture)
+        return bntx
 
     tile_mode = texture_to_replace.tileMode
     srgb = 1
@@ -69,11 +70,13 @@ if os.path.isdir(dds_file_path):
         for dirname in dirnames:
             if dirname == bntx_file_base_name:
                 found = True
+                print('found ' + os.path.join(dirpath, dirname))
                 for (bf_dirpath, bf_dirnames, bf_filenames) in os.walk(os.path.join(dirpath, dirname)):
-                    for filename in bf_dirnames:
-                        file_path = os.path.join(dirpath, filename)
+                    for filename in bf_filenames:
+                        file_path = os.path.join(bf_dirpath, filename)
                         texture_name = os.path.splitext(filename)[0]
 
+                        print('Replacing ' + texture_name)
                         bntx_file = replace_texture(bntx_file, file_path, texture_name)
                 break
 
