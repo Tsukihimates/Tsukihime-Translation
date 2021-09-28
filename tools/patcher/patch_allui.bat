@@ -1,1 +1,1 @@
-python3 patch_allui.py
+python patch_allui.py

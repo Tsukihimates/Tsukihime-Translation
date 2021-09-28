@@ -1,6 +1,8 @@
 import os
 import shutil
 import subprocess
+import sys
+
 import rebuild_sysmes
 
 IMAGE_TRANSLATIONS_FOLDER = os.path.join('..', '..', 'images', 'en_user_interface')
@@ -112,7 +114,7 @@ if not os.path.exists(os.path.join('_patched', 'allui')):
 for want in want_to_patch:
     want_dir = os.path.splitext(want)[0]
     print('Patching ' + want)
-    replace_process = subprocess.Popen(['python3', REPLACER, os.path.join('_unpatched', 'allui', want),
+    replace_process = subprocess.Popen([sys.executable, REPLACER, os.path.join('_unpatched', 'allui', want),
                                         os.path.join('_replace'), os.path.join('_patched', 'allui')],
                                        stdout=subprocess.PIPE,
                                        universal_newlines=True)
