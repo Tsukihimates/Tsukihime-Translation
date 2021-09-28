@@ -4,6 +4,8 @@ own nice allui.mrg + allui.hed to put into your emulator's mod folder.
 
 ## 1. Download a few tools.
 
+Install Python (Windows installs here https://www.python.org/downloads/windows/)
+
 Into the **quickbms** folder you need to download quickbms: http://aluigi.altervista.org/quickbms.htm -
 this wonderful swiss army knife tool extracts and rebuilds .mrg files.
 
