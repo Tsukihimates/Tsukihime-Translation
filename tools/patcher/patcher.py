@@ -58,35 +58,54 @@ def extract_mrg(mrg_name):
         print('Files already extracted, continuing.')
 
 
-def find_what_to_patch(mrg_name, image_dir):
+# use directories=False if we only have one folder with many PNGs that will go 1:1 with NXGZs (like allpac)
+def find_what_to_patch(mrg_name, image_dir, directories=True):
     texture_files = []
     for (dirpath, dirnames, filenames) in os.walk(os.path.join('_unpatched', mrg_name)):
         for filename in filenames:
             split = os.path.splitext(filename)
-            if split[1] == '.NXGZ' or split[1] == '.NXZ':
+            if split[1].lower() == '.nxgz' or split[1].lower() == '.nxz':
                 texture_files.append(filename)
 
     want_to_patch = []
     for (dirpath, dirnames, filenames) in os.walk(image_dir):
-        for dirname in dirnames:
-            for tf in texture_files:
-                split = os.path.splitext(tf)
-                if split[0] == dirname:
-                    want_to_patch.append(tf)
+        if directories:
+            for dirname in dirnames:
+                for tf in texture_files:
+                    split = os.path.splitext(tf)
+                    if split[0].lower() == dirname.lower():
+                        want_to_patch.append(tf)
+        else:
+            for filename in filenames:
+                file_split = os.path.splitext(filename)
+                for tf in texture_files:
+                    split = os.path.splitext(tf)
+                    if split[0].lower() == file_split[0].lower():
+                        want_to_patch.append(tf)
 
     return want_to_patch
 
 
-def convert_png_to_dds(want_to_patch, image_dir):
+def convert_png_to_dds(want_to_patch, image_dir, directories=True):
     if not os.path.exists('_replace'):
         os.mkdir('_replace')
 
     for want in want_to_patch:
-        want_dir = os.path.splitext(want)[0]
-        for (dirpath, dirnames, filenames) in os.walk(os.path.join(image_dir, want_dir)):
+        want_dir = os.path.splitext(want)[0].upper()
+
+        if directories:
+            walk_dir = os.path.join(image_dir, want_dir)
+        else:
+            walk_dir = image_dir
+
+        for (dirpath, dirnames, filenames) in os.walk(walk_dir):
             for filename in filenames:
                 split = os.path.splitext(filename)
-                if split[1] == '.png':  # convert png to dds into the _replace folder
+
+                if not directories:
+                    want_dir = split[0].upper()
+
+                if split[1].lower() == '.png':  # convert png to dds into the _replace folder
                     if not os.path.exists(os.path.join('_replace', want_dir)):
                         os.mkdir(os.path.join('_replace', want_dir))
 
@@ -96,7 +115,7 @@ def convert_png_to_dds(want_to_patch, image_dir):
                         # print(os.path.join('_replace', want_dir, split[0] + '.dds'))
                         comp_process = subprocess.Popen(
                             [COMPRESSONATOR, '-fd', 'BC7', os.path.join(dirpath, filename),
-                             os.path.join('_replace', want_dir, split[0] + '.dds')
+                             dds_path
                              ],
                             stdout=subprocess.PIPE,
                             universal_newlines=True)

@@ -5,7 +5,8 @@ import patcher
 IMAGE_TRANSLATIONS_FOLDER = os.path.join('..', '..', 'images', 'en_user_interface')
 SCRIPT_TRANSLATIONS_FOLDER = os.path.join('..', '..', 'script')
 
-# if we don't have allui.mrg extracted yet, extract it with quickbms
+print('Step 1: extract the mrg')
+
 patcher.extract_mrg('allui')
 
 print('Step 2: check what to patch')
