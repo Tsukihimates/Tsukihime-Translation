@@ -10,7 +10,7 @@ def replace_texture(bntx, dds_path, texture):
     replace_texture_index = None
     i = 0
     for t in bntx.textures:
-        if t.name == texture:
+        if t.name.lower() == texture.lower():
             texture_to_replace = t
             replace_texture_index = i
             break
