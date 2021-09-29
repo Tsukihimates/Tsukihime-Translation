@@ -10,7 +10,8 @@ Into the **quickbms** folder you need to download quickbms: http://aluigi.alterv
 this wonderful swiss army knife tool extracts and rebuilds .mrg files.
 
 Then, for Linux, download compressonatorcli into the **compressonator** folder: https://github.com/GPUOpen-Tools/compressonator/releases/tag/V4.2.5185 -
-this tools builds .dds files from .png files to be inserted.
+this tools builds .dds files from .png files to be inserted. **ALSO**, edit the compressonatorcli script and remove the first empty line before ``#!/bin/bash``.
+
 For Windows, just install the CompressonatorCLI software, this script uses the default install path.
 
 ## 2. Move the allui 
