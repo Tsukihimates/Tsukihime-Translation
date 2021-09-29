@@ -32,7 +32,10 @@ def run_process(process):
 
 
 # mrg_name without extension
-def extract_mrg(mrg_name):
+def extract_mrg(mrg_name, options=None):
+    if options is None:
+        options = []
+
     quickbms_done = False
     if not os.path.exists('_unpatched'):
         os.mkdir('_unpatched')
@@ -44,7 +47,7 @@ def extract_mrg(mrg_name):
     print('Step 1: extract the MRG')
 
     if not quickbms_done:
-        quickbms_process = subprocess.Popen([QUICKBMS, '-Y', os.path.join('quickbms', 'tsuki.bms'),
+        quickbms_process = subprocess.Popen([QUICKBMS] + options + ['-Y', os.path.join('quickbms', 'tsuki.bms'),
                                              os.path.join('_mrgs', mrg_name + '.hed'),
                                              os.path.join('_unpatched', mrg_name)],
                                             stdout=subprocess.PIPE,
@@ -145,6 +148,8 @@ def replace_textures(want_to_patch, mrg_name):
 def rebuild_mrg(mrg_name):
     if not os.path.exists('_new_mrgs'):
         os.mkdir('_new_mrgs')
+
+    print('Copying files...')
 
     shutil.copyfile(os.path.join('_mrgs', mrg_name + '.mrg'), os.path.join('_new_mrgs', mrg_name + '.mrg'))
     shutil.copyfile(os.path.join('_mrgs', mrg_name + '.hed'), os.path.join('_new_mrgs', mrg_name + '.hed'))

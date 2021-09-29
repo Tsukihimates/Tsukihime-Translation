@@ -5,7 +5,7 @@ IMAGE_TRANSLATIONS_FOLDER = os.path.join('..', '..', 'images', 'en_gamecg', 'all
 
 print('Step 1: extract the mrg')
 
-patcher.extract_mrg('allpac')
+patcher.extract_mrg('allpac', ['-f', '"IMG*"'])
 
 print('Step 2: check what to patch')
 
