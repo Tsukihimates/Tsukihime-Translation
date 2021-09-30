@@ -3,6 +3,7 @@
 import os
 import re
 import subprocess
+import multiprocessing
 import sys
 import stat
 
@@ -17,6 +18,13 @@ PNG_TEMP_DIR = '.user_interface_dds'
 USER_INTERFACE_DIR = '../../images/en_user_interface/'
 REPLACER = 'bntx_replace/bntx_replace.py'
 SCRIPT_TRANSLATIONS_FOLDER = '../../script'
+
+
+def compress_nxgz(args):
+    decompressed_file = args[0]
+    compressed_file = args[1]
+    print("Compressing %s..." % compressed_file)
+    subprocess.run(['nxgx_compress', decompressed_file, compressed_file])
 
 
 def main():
@@ -91,16 +99,18 @@ def main():
     )
 
     # Recompress texture files
-    for decompressed_file, compressed_file in bntx_to_recompress:
-        print("Compressing %s..." % compressed_file)
-        subprocess.run(['nxgx_compress', decompressed_file, compressed_file])
+    print("Performing parallel compression with %d threads" % multiprocessing.cpu_count())
+    with multiprocessing.Pool(multiprocessing.cpu_count()) as p:
+        p.map(compress_nxgz, bntx_to_recompress)
 
     # Re-pack the allui
-    mrg_component_files = [
+    mrg_component_files = sorted([
         entry.path for entry in os.scandir(MRG_TEMP_DIR)
         if entry.is_file()
-    ]
-    sorted(mrg_component_files)
+        and entry.path.endswith(".dat")
+    ])
+    print(mrg_component_files)
+    print("Merging final output into %s" % OUTPUT_BASENAME)
     subprocess.run(['mrg_pack', OUTPUT_BASENAME, '--names', 'mrg_names.txt'] + mrg_component_files)
 
 
