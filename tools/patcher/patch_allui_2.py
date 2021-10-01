@@ -23,7 +23,7 @@ SCRIPT_TRANSLATIONS_FOLDER = '../../script'
 def compress_nxgz(args):
     decompressed_file = args[0]
     compressed_file = args[1]
-    print("Compressing %s..." % compressed_file)
+    # print("Compressing %s..." % compressed_file)
     subprocess.run(['nxgx_compress', decompressed_file, compressed_file])
 
 
@@ -68,7 +68,8 @@ def main():
                 in_stat = os.stat(input_path)
                 out_stat = os.stat(output_path)
                 if in_stat[stat.ST_MTIME] < out_stat[stat.ST_MTIME]:
-                    print("Output file %s newer than input, skipping" % output_path)
+                    print("Output file %s newer than input, skipping" % (
+                        output_path))
                     continue
 
             subprocess.run([
@@ -86,7 +87,8 @@ def main():
         # Replace (in-place) this texture in the relevant files
         for match in bntx_matches:
             print("Replacing texture %s in pack %s" % (file_name, match.path))
-            subprocess.run([sys.executable, REPLACER, match.path, file_path, MRG_TEMP_DIR])
+            subprocess.run([
+                sys.executable, REPLACER, match.path, file_path, MRG_TEMP_DIR])
 
     # Rebuild the SYSMES strings table (in place)
     rebuild_sysmes.rebuild_sysmes(
@@ -99,7 +101,9 @@ def main():
     )
 
     # Recompress texture files
-    print("Performing parallel compression with %d threads" % multiprocessing.cpu_count())
+    print(
+        "Performing parallel compression of %d files with %d threads" % (
+            len(bntx_to_recompress), multiprocessing.cpu_count()))
     with multiprocessing.Pool(multiprocessing.cpu_count()) as p:
         p.map(compress_nxgz, bntx_to_recompress)
 
@@ -109,9 +113,10 @@ def main():
         if entry.is_file()
         and entry.path.endswith(".dat")
     ])
-    print(mrg_component_files)
     print("Merging final output into %s" % OUTPUT_BASENAME)
-    subprocess.run(['mrg_pack', OUTPUT_BASENAME, '--names', 'mrg_names.txt'] + mrg_component_files)
+    subprocess.run(
+        ['mrg_pack', OUTPUT_BASENAME, '--names', 'mrg_names.txt'] +
+        mrg_component_files)
 
 
 if __name__ == '__main__':
