@@ -44,8 +44,6 @@ def extract_mrg(mrg_name, options=None):
     elif os.listdir(os.path.join('_unpatched', mrg_name)):
         quickbms_done = True  # is not empty, so I guess stuff is in there
 
-    print('Step 1: extract the MRG')
-
     if not quickbms_done:
         quickbms_process = subprocess.Popen([QUICKBMS] + options + ['-Y', os.path.join('quickbms', 'tsuki.bms'),
                                              os.path.join('_mrgs', mrg_name + '.hed'),
