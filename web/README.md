@@ -1,4 +1,4 @@
-#Building the website
+# Building the website
 This is an eleventy project (https://www.11ty.dev/)
 
 1. Install nodejs
