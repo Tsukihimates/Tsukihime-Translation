@@ -50,6 +50,7 @@ def main():
 
     # Convert PNG resources into DDS
     resources_to_inject = []
+    patch_dirs = []
     for subdir, dirs, files in os.walk(USER_INTERFACE_DIR):
         for filename in files:
             if not filename.endswith('.png'):
@@ -62,6 +63,8 @@ def main():
             output_path = os.path.join(output_dir, new_filename)
             os.makedirs(output_dir, exist_ok=True)
             resources_to_inject.append((input_nxgz, new_filename, output_path))
+            if input_nxgz not in patch_dirs:
+                patch_dirs.append(input_nxgz)
 
             # If the target is newer than the source, skip
             if os.path.exists(output_path):
@@ -76,7 +79,7 @@ def main():
                 "compressonator", "-fd", "BC7", input_path, output_path])
 
     # Inject textures into the BNTX files using harphield's tools
-    for (nxgz_name, file_name, file_path) in resources_to_inject:
+    for nxgz_name in patch_dirs:
         # Get all the BNTX files that need to be modified
         bntx_matches = [
             name for name in os.scandir(MRG_TEMP_DIR)
@@ -86,18 +89,18 @@ def main():
 
         # Replace (in-place) this texture in the relevant files
         for match in bntx_matches:
-            print("Replacing texture %s in pack %s" % (file_name, match.path))
+            print("Replacing textures in pack %s" % nxgz_name)
             subprocess.run([
-                sys.executable, REPLACER, match.path, file_path, MRG_TEMP_DIR])
+                sys.executable, REPLACER, match.path, PNG_TEMP_DIR, MRG_TEMP_DIR, '-d', nxgz_name])
 
     # Rebuild the SYSMES strings table (in place)
     rebuild_sysmes.rebuild_sysmes(
-        os.path.join(MRG_TEMP_DIR, 'allui.0024.SYSMES_TEXT.DAT.dat'),
+        os.path.join(MRG_TEMP_DIR, 'allui.00000024.SYSMES_TEXT.DAT.dat'),
         os.path.join(
             SCRIPT_TRANSLATIONS_FOLDER,
             'system_strings',
             'sysmes_text.en'),
-        os.path.join(MRG_TEMP_DIR, 'allui.0024.SYSMES_TEXT.DAT.dat')
+        os.path.join(MRG_TEMP_DIR, 'allui.00000024.SYSMES_TEXT.DAT.dat')
     )
 
     # Recompress texture files

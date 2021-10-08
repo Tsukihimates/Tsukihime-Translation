@@ -42,6 +42,8 @@ parser.add_argument('output_folder', type=pathlib.Path, help='Where to output th
 parser.add_argument('-t', metavar='--texture_name', type=str, help='Name of the texture that you want to replace. If '
                                                                    'not set, it will use the dds file to deduce the '
                                                                    'texture name.')
+parser.add_argument('-d', metavar='--directory_name', type=str, help='Name of subdirectory where the dds files are')
+
 
 args = parser.parse_args()
 
@@ -49,7 +51,10 @@ print(args)
 
 btnx_file_path = args.bntx_file
 bntx_file_split = os.path.split(btnx_file_path)
-bntx_file_base_name = os.path.splitext(bntx_file_split[1])[0]
+if args.d is None:
+    bntx_file_base_name = os.path.splitext(bntx_file_split[1])[0]
+else:
+    bntx_file_base_name = args.d
 dds_file_path = args.dds_file
 output_folder = args.output_folder
 
