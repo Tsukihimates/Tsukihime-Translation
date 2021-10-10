@@ -211,7 +211,8 @@ def patch_ke_x_block(timing_db, script_commands):
 
     # For all @k@e blocks other than the _first_ @k@e block, change the
     # _ZM to a _MSAD
-    for block in blocks[1:]:
+    first_msad_block = 2 if blocks[0][0].opcode == 'VPLY' else 1
+    for block in blocks[first_msad_block:]:
         block[0].opcode = 'MSAD'
         block[0].arguments[0] = re.sub("@x", "", block[0].arguments[0])
 
