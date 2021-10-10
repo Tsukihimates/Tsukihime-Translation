@@ -102,6 +102,7 @@ def process_script_file(audio_timing, script_filename, output_filename):
 
 class PState(enum.Enum):
     ADVANCE = 1
+    KE_SEEK_VPLY = 2
     KE_SEEK_X = 3
 
 
@@ -144,21 +145,46 @@ def patch_ke_x_block(timing_db, script_commands):
     # Append the final block
     blocks.append(current_block)
 
+    # Track the length of the VPLY in the block before the current block, so
+    # that we can generate a correct WTTM
+    last_block_vply_len = None
+
     # Process each @k@e block
     def process_block(block):
+        nonlocal last_block_vply_len
+
         # Get the length of the block for sanity checking
         block_len = len(block)
 
+        # If this block starts with a VPLY, then it does not actually contain
+        # the first @k@e cmd, it's just to provide timing data.
+        if block[0].opcode == 'VPLY':
+            last_block_vply_len = timing_db[block[0].arguments[0]]
+            return block
+
         # Convert @k@e -> @n in the _ZM command args
+        if not block[0].opcode.startswith('ZM'):
+            print("Invalid start of block: %s" % block[0].opcode)
+            return block
+
+        print("Start of block: %s" % (block[0]))
+        block_contains_ke = block[0].arguments[0].endswith("@k@e")
         block[0].arguments[0] = re.sub("@k@e", "@n", block[0].arguments[0])
 
-        # Is there a VPLY?
+        # Is there a pending VPLY?
+        if block_contains_ke and last_block_vply_len:
+            wttm = ScriptCommand("WTTM", [str(last_block_vply_len), "1"])
+            print("Inserting %s" % str(wttm))
+            block.insert(1, wttm)
+
+        # Clear vply len
+        last_block_vply_len = None
+
+        # If there is a VPLY that comes after this ZM line, cache it
+        # for subsequent blocks
         found_vplys = [c for c in block if c.opcode == 'VPLY']
         if found_vplys:
-            vply = found_vplys[0]
-            delay_ms = timing_db[vply.arguments[0]]
-            wttm = ScriptCommand("WTTM", [str(delay_ms), "1"])
-            block.insert(1, wttm)
+            last_block_vply_len = timing_db[found_vplys[-1].arguments[0]]
 
         # Delete any WKAD(F823)
         block = [
@@ -185,7 +211,8 @@ def patch_ke_x_block(timing_db, script_commands):
 
     # For all @k@e blocks other than the _first_ @k@e block, change the
     # _ZM to a _MSAD
-    for block in blocks[1:]:
+    first_msad_block = 2 if blocks[0][0].opcode == 'VPLY' else 1
+    for block in blocks[first_msad_block:]:
         block[0].opcode = 'MSAD'
         block[0].arguments[0] = re.sub("@x", "", block[0].arguments[0])
 
@@ -241,14 +268,59 @@ def process_script(timing_db, script_commands):
                 head.append(cmd)
                 continue
 
-            # If this is a _ZM with an @k@e sequence, we need to start
-            # seeking forward until we find a terminating _ZM(@x)
+            # If this is a _ZM with an @k@e sequence, we need to do two things:
+            # - Seek _backwards_ to find the voice line for the @k@e ZM
+            # - Seek _forwards_ to find a terminating _ZM(@x)
             if cmd_is_ke:
                 seek_buf = [cmd]
-                state = PState.KE_SEEK_X
+                state = PState.KE_SEEK_VPLY
                 continue
 
             assert False, "Unexpected end of PState.ADVANCE"
+
+        # Are we searching backwards for a VPLY that associates to an @k@e ZM?
+        if state == PState.KE_SEEK_VPLY:
+            if not head:
+                print("Hit EOF trying to match VPLY to @k@e, skipping WTTM")
+                # Glue buffered commands back onto head _except_ for the KE cmd
+                for c in seek_buf[:-1]:
+                    head.append(c)
+                seek_buf = [seek_buf[-1]]
+
+                # Go to KE second stage, SEEK_X
+                state = PState.KE_SEEK_X
+                continue
+
+            # If we still have commands to search, pop one
+            cmd = head.pop(-1)
+            cmd_is_pgst = cmd.opcode == 'PGST'
+            cmd_is_zm = cmd.opcode.startswith('ZM')
+            if cmd_is_pgst or cmd_is_zm:
+                # If we get a page turn, or a different text line, then
+                # presumably there is no VPLY to glue.
+                print("Hit PGST/ZM trying to match VPLY to @k@e, skip WTTM")
+                # Glue buffered commands back onto head _except_ for the KE cmd
+                head.append(cmd)
+                for c in seek_buf[:-1]:
+                    head.append(c)
+                seek_buf = [seek_buf[-1]]
+
+                # Go to KE second stage, SEEK_X
+                state = PState.KE_SEEK_X
+                continue
+
+            # If it's not a cmd that causes us to break, just add it to seek
+            # buf and continue
+            cmd_is_vply = cmd.opcode == 'VPLY'
+            if not cmd_is_vply:
+                seek_buf.insert(0, cmd)
+                continue
+
+            # If it _is_ the VPLY we were looking for, stick it on the seek buf
+            # and move to the next state.
+            seek_buf.insert(0, cmd)
+            state = PState.KE_SEEK_X
+            continue
 
         # Are we searching forward as part of a KE block for a terminating @x?
         if state == PState.KE_SEEK_X:
@@ -284,9 +356,14 @@ def process_script(timing_db, script_commands):
                 state = PState.ADVANCE
                 continue
 
-            # If we have found the final @x, push it onto the seek buffer and
-            # then go patch up the block in another function
+            # Push this command onto the seek buf
             seek_buf.append(cmd)
+
+            # If this command is a _repeated_ @k@e, keep going
+            if cmd.arguments[0].endswith('@k@e'):
+                continue
+
+            # If we have found the final @x, go patch up the block
             processed_block = patch_ke_x_block(timing_db, seek_buf)
             for c in processed_block:
                 head.append(c)
