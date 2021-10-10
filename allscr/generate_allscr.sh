@@ -10,8 +10,9 @@ for F in $(ls decompressed); do
   # Remove newlines
   cat "retimed/$F" | tr -d '\n' > "build/$F"
   # Compress
-  mzx_compress "build/$F" build/"`echo $F | sed 's/txt/bin/'`"
+  mzx_compress "build/$F" build/"`echo $F | sed 's/txt/bin/'`" &
 done
+wait
 echo "Finished ompressing script files"
 
 # Add the binary archives into the build dir
