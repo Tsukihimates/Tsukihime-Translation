@@ -299,6 +299,7 @@ def process_script(timing_db, script_commands):
                 # presumably there is no VPLY to glue.
                 print("Hit PGST/ZM trying to match VPLY to @k@e, skip WTTM")
                 # Glue buffered commands back onto head _except_ for the KE cmd
+                head.append(cmd)
                 for c in seek_buf[:-1]:
                     head.append(c)
                 seek_buf = [seek_buf[-1]]
