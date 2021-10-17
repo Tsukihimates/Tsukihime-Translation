@@ -61,5 +61,27 @@ For these characters, it will really depend on the situation:
 
 - Kohaku
 
+## Ruby/furigana/gloss
+
+1) **The normal use:** The ruby indicates the standard pronunciation of the word
+Example: 琥珀さんは着物の<袖|そで>から、こそっと携帯電話を取りだした
+そで is the standard pronunciation of 袖
+**EN:** Disregard it entirely.
+
+2) **The “different-but-close” use:** The ruby is a word that is different from what’s under but only slightly different in meaning, giving a nuance but not a whole different meaning.
+Example: 遠野邸は<総|ま><耶|ち>の端に位置し
+総耶 is pronounced Souya, the city in which Tsukihime takes place. The ruby is まち meaning “city”.
+Other examples: <報道|ニュース>, <男子組|なかまたち>, <槙久|オヤジ> , <棘|パワー>, <思考|あたま>, <幻|ゆ><覚|め>, <筋力|ちから>, <彫刻品|オブジェ>, <怪物|ヴローヴ>
+**EN:** Take one, either the ruby and what’s glossed (what’s under the ruby) but we won’t keep two words in English. 
+
+3) **The “too-important” use:** The ruby really gives an additional meaning to what’s glossed. Obviously, there is some personal interpretation to whether a gloss in English is necessary or not. But some cases should be clear enough.
+Example: <獲物|おんな> (<prey|woman>)
+**EN:** You can keep the ruby here. Sometimes, it’s possible to write explicitly the ruby and the glossed word in the sentence. In case of doubt especially if you’re first to do the file, keep the ruby, the various proofreadings will decide at a later point.
+Note: There is also the emphasis dot, things like: <ひ|・><と|・><り|・><だ|・><け|・><世|・><界|・><が|・><違|・><う|・>. This is a way in Japanese to put emphasis, similar to bold or italics in English. 
+
+Overall, ruby whatever its purpose is something very familiar to a Japanese reader. It doesn’t exist in English but the game engine still gives us the possibility to use it. It can be useful but will necessarily be seen as intrusive in English. So we should keep it to a minimum. 
+
+One last thing, it is also possible to add ruby in the English translation where it wasn’t in Japanese. Use your discretion, but it can be an inventive way to get out of formulations that are too convoluted in English while retaining a nuance you don’t want to lose.
+
 
 
