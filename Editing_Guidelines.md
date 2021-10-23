@@ -6,27 +6,46 @@ The first general rule guiding your translation/editing should always be to try 
 
 This is a <u>difficult exercise</u>. Whenever you're unsure of what to do with a particularly complex sentence, the best course of action would be to collect as much raw information as possible from the Japanese sentence and then ask for help in the #editing channel, so the other editors can think together on how convey what should be <u>conveyed the best</u>.
 
+## General guidelines
 
+- When a sentence starts with a 'stutter' (e.g. 「そ、そんなコト...」), then the
+  duplicated translated sentence should keep case (e.g. N-No, that's not...).
+- When translating active speech (voiced lines), the text should be enclosed in
+  double quotes
+  - > "This is someone actively speaking a voiced line"
+- When translating active speech that contains quoted references, the inner
+  quotes should be single quotes (')
+  - > "This is someone speaking an actively voiced line referencing 'that' thing"
+- When translating passive speech (narration that references a previous phrase or
+  voiced line), the quoted text should be in single quotes
+  - > When I think about the time they said 'this is someone actively speaking', I blah blah
+  - Note that if passive text contains single quote characters, those characters
+    remain as single quotes
+    - > When I think about the time they said 'this is someone talking about 'that' thing', I blah blah
+- For 'lead in' or 'lead out' of sentences (e.g.  "―――Nii-san," or "this time―――"),
+  use CJK dashes not ASCII dashes, since the game will combine the unicode ones into a single solid line.
+- Do NOT use CJK space characters (u3000), as these render at a different width than normal ascii space characters
 
 ***
 
-Now, let's go over more practical guidelines for specific characters.											
 
-## Noel
+## Specific characters
 
-Noel tries to sound *young* and *appealing*, and at the same time a bit provocative, sometimes seducing. To convey this character, we will use a vocabular and grammar that can be sometimes a bit slangish or colloquial (e.g. "ain't", "Nah", etc.), we'll do heavy elision of words when necessary, but not too frequently (e.g. "y'know", etc.) and a bit provocative general tone. 
+### Noel
+
+Noel tries to sound *young* and *appealing*, and at the same time a bit provocative, sometimes seducing. To convey this character, we will use a vocabular and grammar that can be sometimes a bit slangish or colloquial (e.g. "ain't", "Nah", etc.), we'll do heavy elision of words when necessary, but not too frequently (e.g. "y'know", etc.) and a bit provocative general tone.
 
 Once she switches personality (going for the *nun mode*) she will not use elisions at all.
 
 **<u>Sample sentence</u>**: "Huh? What's up with this atmosphere? Everyone suddenly froze up.. What's that, I'm a Basilisk woman? # Nah, the metaphor ain't clear, is it. Erm, in proper japanese, I'd be that TV haunting girl? But Sensei's name isn't Sadako y'know" (*filename 02_00_ARC02_1_1, page 6, line 2941*)
 
-## Arihiko
+### Arihiko
 
 Arihiko is a thug, but he's the usual cliché of the goofy thug with a golden heart helping the protagonist. In order to convey this and not to overstep Noel's speech pattern, we will use in his lines funny or weird idioms/expressions (they can be a bit old for example, or he can have an off-beat style), but a the same time some cursing ("what the hell", etc.) and sometimes elisions.
 
 **Sample sentence**: "Tohno's picking up chicks? What the hell is going on? I thought you weren't interested in 'em." (*original VN*)
 
-## Dr. Arach
+### Dr. Arach
 
 Dr. Arach is a complete weirdo, and something of a *mad biologist*. Conveying her speech is probably the most difficult, but here are some guiding principles: she expresses herself in a very bombastic way, i.e. using exaggerations and a refined vocabulary ("Oh, sublime sugar!"), and sometimes she does biological/medical comparisons, and in this case we have to make these parts overly serious. The idea is to induce burlesque/surreal humor by creating a mismatch between the technical parts and the bombastic parts.
 
@@ -34,11 +53,11 @@ Dr. Arach is a complete weirdo, and something of a *mad biologist*. Conveying he
 
 
 
-## Other characters
+### Other characters
 
 Here are some general specificities for other characters
 
-### Contractions
+## Contractions
 
 Depending on the situation, we will use contractions ("I'll", "They're", etc.) for the following characters:
 
@@ -61,7 +80,7 @@ For these characters, it will really depend on the situation:
 
 - Kohaku
 
-## Ruby/furigana/gloss
+### Ruby/furigana/gloss
 
 1) **The normal use:** The ruby indicates the standard pronunciation of the word
 Example: 琥珀さんは着物の<袖|そで>から、こそっと携帯電話を取りだした
@@ -72,16 +91,13 @@ Example: 琥珀さんは着物の<袖|そで>から、こそっと携帯電話�
 Example: 遠野邸は<総|ま><耶|ち>の端に位置し
 総耶 is pronounced Souya, the city in which Tsukihime takes place. The ruby is まち meaning “city”.
 Other examples: <報道|ニュース>, <男子組|なかまたち>, <槙久|オヤジ> , <棘|パワー>, <思考|あたま>, <幻|ゆ><覚|め>, <筋力|ちから>, <彫刻品|オブジェ>, <怪物|ヴローヴ>
-**EN:** Take one, either the ruby and what’s glossed (what’s under the ruby) but we won’t keep two words in English. 
+**EN:** Take one, either the ruby and what’s glossed (what’s under the ruby) but we won’t keep two words in English.
 
 3) **The “too-important” use:** The ruby really gives an additional meaning to what’s glossed. Obviously, there is some personal interpretation to whether a gloss in English is necessary or not. But some cases should be clear enough.
 Example: <獲物|おんな> (<prey|woman>)
 **EN:** You can keep the ruby here. Sometimes, it’s possible to write explicitly the ruby and the glossed word in the sentence. In case of doubt especially if you’re first to do the file, keep the ruby, the various proofreadings will decide at a later point.
-Note: There is also the emphasis dot, things like: <ひ|・><と|・><り|・><だ|・><け|・><世|・><界|・><が|・><違|・><う|・>. This is a way in Japanese to put emphasis, similar to bold or italics in English. 
+Note: There is also the emphasis dot, things like: <ひ|・><と|・><り|・><だ|・><け|・><世|・><界|・><が|・><違|・><う|・>. This is a way in Japanese to put emphasis, similar to bold or italics in English.
 
-Overall, ruby whatever its purpose is something very familiar to a Japanese reader. It doesn’t exist in English but the game engine still gives us the possibility to use it. It can be useful but will necessarily be seen as intrusive in English. So we should keep it to a minimum. 
+Overall, ruby whatever its purpose is something very familiar to a Japanese reader. It doesn’t exist in English but the game engine still gives us the possibility to use it. It can be useful but will necessarily be seen as intrusive in English. So we should keep it to a minimum.
 
 One last thing, it is also possible to add ruby in the English translation where it wasn’t in Japanese. Use your discretion, but it can be an inventive way to get out of formulations that are too convoluted in English while retaining a nuance you don’t want to lose.
-
-
-
