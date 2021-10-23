@@ -22,6 +22,8 @@ This is a <u>difficult exercise</u>. Whenever you're unsure of what to do with a
   - Note that if passive text contains single quote characters, those characters
     remain as single quotes
     - > When I think about the time they said 'this is someone talking about 'that' thing', I blah blah
+- For 'lead in' or 'lead out' of sentences (e.g.  "―――Nii-san," or "this time―――"),
+  use CJK dashes not ASCII dashes, since the game will combine the unicode ones into a single solid line.
 
 ***
 
