@@ -24,6 +24,7 @@ This is a <u>difficult exercise</u>. Whenever you're unsure of what to do with a
     - > When I think about the time they said 'this is someone talking about 'that' thing', I blah blah
 - For 'lead in' or 'lead out' of sentences (e.g.  "―――Nii-san," or "this time―――"),
   use CJK dashes not ASCII dashes, since the game will combine the unicode ones into a single solid line.
+- Do NOT use CJK space characters (u3000), as these render at a different width than normal ascii space characters
 
 ***
 
