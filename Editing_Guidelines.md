@@ -29,6 +29,9 @@ This is a <u>difficult exercise</u>. Whenever you're unsure of what to do with a
 - When ruby text is used, YOU MUST playtest the changes and add spaces to justify the text correctly.
   - The text renders too far to the right by default - append spaces to the ruby text to shift it left
   - The text renders very close together - for each character to display, insert an extra ' ' after it ('real' spaces become two spaces) to expand the text.
+- When glueing lines, the '#' must be attached to the _preceding_ line in the event of a space.
+  - Correct: `This is the first line.# This is the second line`
+  - WRONG: `This is the first line. #This is the second line`
 
 ***
 
