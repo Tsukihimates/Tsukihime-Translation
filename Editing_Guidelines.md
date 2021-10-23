@@ -25,6 +25,10 @@ This is a <u>difficult exercise</u>. Whenever you're unsure of what to do with a
 - For 'lead in' or 'lead out' of sentences (e.g.  "―――Nii-san," or "this time―――"),
   use CJK dashes not ASCII dashes, since the game will combine the unicode ones into a single solid line.
 - Do NOT use CJK space characters (u3000), as these render at a different width than normal ascii space characters
+- Do NOT use CJK ellipsis (…), it renders vertically justified. Replace with three ASCII dots.
+- When ruby text is used, YOU MUST playtest the changes and add spaces to justify the text correctly.
+  - The text renders too far to the right by default - append spaces to the ruby text to shift it left
+  - The text renders very close together - for each character to display, insert an extra ' ' after it ('real' spaces become two spaces) to expand the text.
 
 ***
 
