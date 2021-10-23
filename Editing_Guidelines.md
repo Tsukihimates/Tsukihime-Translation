@@ -16,7 +16,7 @@ This is a <u>difficult exercise</u>. Whenever you're unsure of what to do with a
 - When translating active speech that contains quoted references, the inner
   quotes should be single quotes (')
   - > "This is someone speaking an actively voiced line referencing 'that' thing"
-- When translating passive speech (narration that references a previus phrase or
+- When translating passive speech (narration that references a previous phrase or
   voiced line), the quoted text should be in single quotes
   - > When I think about the time they said 'this is someone actively speaking', I blah blah
   - Note that if passive text contains single quote characters, those characters
