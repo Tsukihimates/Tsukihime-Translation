@@ -918,7 +918,7 @@ _FADS(0,400,0);
 _STCC(29);
 _FADS(1,0,0);
 _WTTM(400,1);
-_WKAD(F823,1);
+_WKAD(F823,0);
 _WKST(C847,eq,0);
 _WKST(C859,eq,0);
 _WNTY(1);
