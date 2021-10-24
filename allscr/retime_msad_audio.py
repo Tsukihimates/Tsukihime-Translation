@@ -104,13 +104,14 @@ class PState(enum.Enum):
     ADVANCE = 1
     KE_SEEK_VPLY = 2
     KE_SEEK_X = 3
+    X_SEEK_WKAD = 4
 
 
 def patch_ke_x_block(timing_db, script_commands):
     # Given a block that starts with a _ZM(@k@e) and ends with a _ZM(@x),
     # mutate the block according to our rules.
-    print("Patch ke block. Raw:")
-    print([str(c) for c in script_commands])
+    # print("Patch ke block. Raw:")
+    # print([str(c) for c in script_commands])
 
     # split the cmd_block into a list of chunks, where each chunk starts with
     # a _ZM(@k@e) and ends with the command right before the next text output
@@ -137,10 +138,10 @@ def patch_ke_x_block(timing_db, script_commands):
     # blocks, and the current block _should_ contain a single @x ZM command
     assert len(blocks) >= 1
     assert len(current_block) == 1
-    print("KE blocks:")
-    print(blocks)
-    print("Final block:")
-    print(current_block)
+    # print("KE blocks:")
+    # print(blocks)
+    # print("Final block:")
+    # print(current_block)
 
     # Append the final block
     blocks.append(current_block)
@@ -167,14 +168,14 @@ def patch_ke_x_block(timing_db, script_commands):
             print("Invalid start of block: %s" % block[0].opcode)
             return block
 
-        print("Start of block: %s" % (block[0]))
+        # print("Start of block: %s" % (block[0]))
         block_contains_ke = block[0].arguments[0].endswith("@k@e")
         block[0].arguments[0] = re.sub("@k@e", "@n", block[0].arguments[0])
 
         # Is there a pending VPLY?
         if block_contains_ke and last_block_vply_len:
             wttm = ScriptCommand("WTTM", [str(last_block_vply_len), "1"])
-            print("Inserting %s" % str(wttm))
+            # print("Inserting %s" % str(wttm))
             block.insert(1, wttm)
 
         # Clear vply len
@@ -194,8 +195,8 @@ def patch_ke_x_block(timing_db, script_commands):
 
         # Are we now over/under the target length for this block
         len_delta = block_len - len(block)
-        print(f"Len delta: {len_delta}")
-        print([str(c) for c in block])
+        # print(f"Len delta: {len_delta}")
+        # print([str(c) for c in block])
 
         # If the block is too _long_, we can't really do anything
         # to fix it?
@@ -222,8 +223,8 @@ def patch_ke_x_block(timing_db, script_commands):
         for c in block:
             ret.append(c)
 
-    print("Processed cmds:")
-    print(ret)
+    # print("Processed cmds:")
+    # print(ret)
     return ret
 
 
@@ -261,11 +262,14 @@ def process_script(timing_db, script_commands):
                 continue
 
             # If this is an @x prefixed _ZM, we need to convert it to an
-            # MSAD and strip the @x. No other changes.
+            # MSAD and strip the @x. We also need to seek backwards to the
+            # preceding WKAD(F823,1) and s/1/0
             if cmd_is_x:
+                print("Encountered non-ke @x: %s" % cmd)
                 cmd.opcode = 'MSAD'
                 cmd.arguments[0] = re.sub("@x", "", cmd.arguments[0])
-                head.append(cmd)
+                seek_buf = [cmd]
+                state = PState.X_SEEK_WKAD
                 continue
 
             # If this is a _ZM with an @k@e sequence, we need to do two things:
@@ -277,6 +281,56 @@ def process_script(timing_db, script_commands):
                 continue
 
             assert False, "Unexpected end of PState.ADVANCE"
+
+        # Are we searching backwards for the WKAD preceing a standalone @x?
+        if state == PState.X_SEEK_WKAD:
+            if not head:
+                print("Hit SOF trying to match WKAD to @x, skipping")
+                # Glue buffered commands back onto head
+                for c in seek_buf:
+                    head.append(c)
+
+                # return to ADVANCE state
+                state = PState.ADVANCE
+                continue
+
+            # If we still have commands to search, pop one
+            cmd = head.pop(-1)
+            cmd_is_wkad = cmd.opcode == 'WKAD'
+
+            # If it's a different text line or we hit a pagebreak, bail out
+            cmd_is_pgst = cmd.opcode == 'PGST'
+            cmd_is_msad = cmd.opcode == 'MSAD'
+            cmd_is_zm = cmd.opcode.startswith('ZM')
+            if cmd_is_pgst or cmd_is_msad or cmd_is_zm:
+                print("Hit page/text trying to match WKAD to @x, skipping")
+                # Glue buffered commands back onto head
+                for c in seek_buf:
+                    head.append(c)
+
+                # return to ADVANCE state
+                state = PState.ADVANCE
+                continue
+
+            # If it's not WKAD, prepend to seek buf and continue
+            if not cmd_is_wkad:
+                seek_buf.insert(0, cmd)
+                continue
+
+            # If it is WKAD, but wrong flag, continue
+            if cmd.arguments[0] != 'F823':
+                seek_buf.insert(0, cmd)
+                continue
+
+            # If it is WKAD and _right_ flag, force the argument to zero
+            cmd.arguments[1] = '0'
+
+            # Flush seek buffer and return to SEEK
+            head.append(cmd)
+            for c in seek_buf:
+                head.append(c)
+            state = PState.ADVANCE
+            continue
 
         # Are we searching backwards for a VPLY that associates to an @k@e ZM?
         if state == PState.KE_SEEK_VPLY:
