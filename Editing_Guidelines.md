@@ -108,3 +108,9 @@ Note: There is also the emphasis dot, things like: <ひ|・><と|・><り|・><�
 Overall, ruby whatever its purpose is something very familiar to a Japanese reader. It doesn’t exist in English but the game engine still gives us the possibility to use it. It can be useful but will necessarily be seen as intrusive in English. So we should keep it to a minimum.
 
 One last thing, it is also possible to add ruby in the English translation where it wasn’t in Japanese. Use your discretion, but it can be an inventive way to get out of formulations that are too convoluted in English while retaining a nuance you don’t want to lose.
+
+### Time Format
+
+Whenever time is mentioned in the script, write it in the o'clock format instead of 00 PM.
+For example:
+            - > The night turns just past nine o'clock
