@@ -111,6 +111,6 @@ One last thing, it is also possible to add ruby in the English translation where
 
 ### Time Format
 
-Whenever time is mentioned in the script, it should be written in the o'clock format.
+Whenever time is mentioned in the script, it should be written in the o'clock format
 For example:
    - > "The night just turned past nine o'clock"
