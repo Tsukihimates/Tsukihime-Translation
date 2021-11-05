@@ -38,6 +38,10 @@ def main():
     for entry in os.scandir(MRG_TEMP_DIR):
         if not entry.is_file():
             continue
+
+        if not entry.path.endswith('.dat'):
+            continue
+
         decompressed_filename = re.sub('.dat', '.BNTX', entry.path)
         print("Decompressing %s..." % entry.path)
         subprocess.run(['nxx_decompress', entry.path, decompressed_filename])
