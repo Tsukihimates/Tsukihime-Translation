@@ -1,1 +1,4 @@
 prologue.mp4 filter=lfs diff=lfs merge=lfs -text
+
+# unix LF newlines.
+*.txt text eol=lf
