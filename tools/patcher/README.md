@@ -23,7 +23,7 @@ The binaries need to be in your PATH system variable for it to work. To do that,
 file and add them at the end of the file, like so:
 
     export PATH=$PATH:/path/to/compressonator/folder
-    export PATH=$PATH:/path/mangetsu/build/folder
+    export PATH=$PATH:/path/to/mangetsu/build/folder
 
 ## 2. Move the allui 
 Put an unaltered allui.mrg, allui.hed and allui.nam into the **_mrgs** folder.
