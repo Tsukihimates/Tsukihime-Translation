@@ -255,6 +255,19 @@ def process_script(timing_db, script_commands):
             cmd_is_ke = is_txt_cmd and cmd.arguments[0].endswith('@k@e')
             cmd_is_x = is_txt_cmd and cmd.arguments[0].startswith('@x')
 
+            # Is this a compound ZM (QA section)
+            if cmd_is_zm:
+                split_args = cmd.arguments[0].split('^')
+                if len(split_args) > 1 and all([c[0] == '$' for c in split_args]):
+                    # Replace this ZM with a ZM + MSADs
+                    head.append(ScriptCommand(
+                        cmd.opcode, [split_args[0]+"@n"]))
+                    if len(split_args) > 2:
+                        for c in split_args[1:-1]:
+                            head.append(ScriptCommand('MSAD', [c+"@n"]))
+                    head.append(ScriptCommand('MSAD', [split_args[-1]]))
+                    continue
+
             # If the commands is not a zm, just move it to the head list
             # and continue iterating
             if not (cmd_is_ke or cmd_is_x):
