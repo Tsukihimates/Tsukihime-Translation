@@ -22,11 +22,8 @@ This tools builds .dds files from .png files to be inserted. **ALSO**, edit the 
 The binaries need to be in your PATH system variable for it to work. To do that, edit your ``~/.bashrc``
 file and add them at the end of the file, like so:
 
-    export PATH=$PATH:/path/to/the/file/compressonator
-    export PATH=$PATH:/path/to/the/file/nxgx_compress
-    export PATH=$PATH:/path/to/the/file/nxx_decompress
-    export PATH=$PATH:/path/to/the/file/mrg_extract
-    export PATH=$PATH:/path/to/the/file/mrg_pack
+    export PATH=$PATH:/path/to/compressonator/folder
+    export PATH=$PATH:/path/mangetsu/build/folder
 
 ## 2. Move the allui 
 Put an unaltered allui.mrg, allui.hed and allui.nam into the **_mrgs** folder.
@@ -34,7 +31,8 @@ Put an unaltered allui.mrg, allui.hed and allui.nam into the **_mrgs** folder.
 ## 3. Run the patch_allui.py
 ``python3 patch_allui.py``
 
-This might take a long time.
+The script needs to be where it is: in the Tsukihime-Translation/tools/patcher/ folder. It will get everything it needs
+from the repository (images, texts etc.) and compile them into the allui.mrg file.
 
 ## 4. Copy to mod folder
 If all went well, you should have your new allui.* files in **_new_mrgs**. Have fun!
@@ -43,5 +41,7 @@ If all went well, you should have your new allui.* files in **_new_mrgs**. Have 
 If you need to rebuild your allui.mrg again, because new stuff has been translated / changed,
 you need to delete the .dds files that you want updated from the **.user_interface_dds** folder (or just delete the
 whole folder, but this will make the script to redo all the conversions again).
+
+If you only changed the texts in sysmes_strings, you don't need to delete anything - it will rewrite it automatically.
 
 All of these steps are the same for patching allpac.mrg too.
