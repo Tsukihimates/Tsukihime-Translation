@@ -19,7 +19,7 @@ to the readme there.
 Download compressonatorcli: https://github.com/GPUOpen-Tools/compressonator/releases/tag/V4.2.5185 - and rename the ``compressonatorcli`` script to ``compressonator``.
 This tools builds .dds files from .png files to be inserted. **ALSO**, edit the script and remove the first empty line before ``#!/bin/bash``.
 
-If the downloaded version fails to run, you may need to build it yourtself:
+If the downloaded version fails to run, you may need to build it yourself:
 ```bash
 git clone https://github.com/GPUOpen-Tools/compressonator.git
 cd compressonator
@@ -64,9 +64,6 @@ If all went well, you should have your new allui.* files in **_new_mrgs**. Have 
 
 ## 5. Do it again
 If you need to rebuild your allui.mrg again, because new stuff has been translated / changed,
-you need to delete the .dds files that you want updated from the **.user_interface_dds** folder (or just delete the
-whole folder, but this will make the script to redo all the conversions again).
-
-If you only changed the texts in sysmes_strings, you don't need to delete anything - it will rewrite it automatically.
+just run it again! The script will check for new changes and convert stuff automatically.
 
 All of these steps are the same for patching allpac.mrg too.
