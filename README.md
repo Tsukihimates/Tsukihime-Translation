@@ -16,8 +16,8 @@ This project will use heavily the deepLuna extraction/edition/translation/inject
 https://github.com/Hakanaou/deepLuna
 
 ## Resources
-### Tutorials
-* Making mod from scratch by Clovermoon (still under building): https://rentry.co/9ehyf
+### Documentation
+* Our documentation is available under this adress: https://sites.google.com/view/tsukihimates/home
 
 ### Tools
 * https://github.com/Hakanaou/deepLuna
