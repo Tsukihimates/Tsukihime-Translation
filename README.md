@@ -16,17 +16,17 @@ This project will use heavily the deepLuna extraction/edition/translation/inject
 https://github.com/Hakanaou/deepLuna
 
 ## Resources
-### Tutorials
-* Making mod from scratch by Clovermoon (still under building): https://rentry.co/9ehyf
+### Documentation
+* Documentation is available [here](https://sites.google.com/view/tsukihimates/home).
 
 ### Tools
-* https://github.com/Hakanaou/deepLuna
-* https://github.com/rschlaikjer/mangetsu
-* https://github.com/Hintay/PS-HuneX_Tools/
-* http://aluigi.altervista.org/quickbms.htm
-* https://github.com/KillzXGaming/Switch-Toolbox
-* https://www.deepl.com/
-* https://translate.google.com/
+* [deepLuna](https://github.com/Hakanaou/deepLuna)
+* [Mangetsu 満月](https://github.com/rschlaikjer/mangetsu)
+* [PS HuneX Tools](https://github.com/Hintay/PS-HuneX_Tools/)
+* [QuickBMS](http://aluigi.altervista.org/quickbms.htm)
+* [Switch Toolbox](https://github.com/KillzXGaming/Switch-Toolbox)
+* [deepL](https://www.deepl.com/)
+* [Google TL](https://translate.google.com/)
 
 ## Credits and thanks
 * Typemoon for creating wonderful remake http://typemoon.com/products/tsukihime/
