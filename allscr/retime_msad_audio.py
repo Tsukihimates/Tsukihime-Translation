@@ -53,8 +53,15 @@ def load_timing(filename):
     return audio_timing
 
 
-def process_script_file(audio_timing, script_filename, output_filename):
+def process_script_file(audio_timing, scene_name_map,
+                        script_filename, output_filename):
     print(script_filename)
+
+    # Work out what mrg entry this is / what the scene names is
+    match = re.search(r".*/allscr.mrg_(\d+).txt", script_filename)
+    scene_idx = int(match.group(1))
+    scene_name = scene_name_map[scene_idx]
+    print(scene_name)
 
     # Load in the raw script
     file_data_raw = None
@@ -93,6 +100,18 @@ def process_script_file(audio_timing, script_filename, output_filename):
         audio_timing,
         script_commands
     )
+
+    # Is this a QA scene?
+    # If it is, we want to excise _all_ newline triggers in _ZM calls
+    is_qa = scene_name.startswith('QA_')
+    if is_qa:
+        new_cmds = []
+        for cmd in script_commands:
+            if cmd.opcode.startswith('ZM'):
+                print(cmd)
+                cmd.arguments[0] = cmd.arguments[0].replace('^@n', '@n')
+            new_cmds.append(cmd)
+        script_commands = new_cmds
 
     # Serialize it back out over the input file
     with open(output_filename, 'w') as f:
@@ -443,20 +462,41 @@ def process_script(timing_db, script_commands):
     return head
 
 
+def load_nam_file(filename):
+    # Nam files are simple enough to parse in python, just split into
+    # 32 byte chunks and strip any \0
+    with open(filename, 'rb') as f:
+        data = f.read()
+
+    entries = [data[i:i+32] for i in range(0, len(data), 32)]
+
+    print(entries)
+
+    return {
+        i + 3: ''.join([chr(c) for c in entries[i] if c != 0]).strip()
+        for i in range(len(entries))
+    }
+
+
 def main():
     # Check arguments
-    if len(sys.argv) != 4:
+    if len(sys.argv) != 5:
         sys.stderr.write(
-            f"Usage: {sys.argv[0]} audio_timing script_dir output_dir\n")
+            f"Usage: {sys.argv[0]} audio_timing nam_file "
+            f"script_dir output_dir\n")
         return -1
 
     # Name args
     audio_timing_filename = sys.argv[1]
-    script_dir_path = sys.argv[2]
-    output_path = sys.argv[3]
+    nam_filename = sys.argv[2]
+    script_dir_path = sys.argv[3]
+    output_path = sys.argv[4]
 
     # Load in the timing file to a map of filename -> time (ms)
     audio_timing = load_timing(audio_timing_filename)
+
+    # Parse the NAM file to get a map of MRG entry number to scene name
+    scene_name_map = load_nam_file(nam_filename)
 
     # Now, iterate each of the .txt files in the decompressed script directory
     # and patch up any @k@e + @x pairs
@@ -472,6 +512,7 @@ def main():
         # Process the file, and write to the output directory
         process_script_file(
             audio_timing,
+            scene_name_map,
             dirent.path,
             os.path.join(output_path, dirent.name)
         )
