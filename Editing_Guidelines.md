@@ -32,7 +32,6 @@ This is a <u>difficult exercise</u>. Whenever you're unsure of what to do with a
 - When glueing lines, the '#' must be attached to the _preceding_ line in the event of a space.
   - Correct: `This is the first line.# This is the second line`
   - WRONG: `This is the first line. #This is the second line`
--The word 'anyways' shouldn't be used, instead write 'anyway'.
 
 ***
 
