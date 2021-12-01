@@ -127,8 +127,8 @@ For example
 
 - 1) When ellipses are used after a word, leave a space before typing the next word.
 - Example:
-         - `Everything suddenly froze in place... etc etc`
+          `Everything suddenly froze in place... etc etc`
 		 
 - 2) When ellipses are used at the beginning of a sentence, do not leave a space.
 - Example:
- 		 - `...I see` 
+ 		  `...I see` 
