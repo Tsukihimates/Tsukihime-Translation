@@ -120,4 +120,15 @@ For example
 However, if the time has minutes, then leave it as it is.
 
 For example
-   - > "The time is 7:30"
+   - > "The time is 7:30 AM"
+   - > "The time is 6:33 PM"
+   
+### Ellipses
+
+- 1) When ellipses are used after a word, leave a space before typing the next word.
+- Example:
+          `Everything suddenly froze in place... etc etc`
+		 
+- 2) When ellipses are used at the beginning of a sentence, do not leave a space.
+- Example:
+ 		  `...I see` 
