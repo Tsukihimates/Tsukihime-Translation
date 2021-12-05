@@ -109,9 +109,7 @@ def main():
         and entry.path.endswith(".dat")
     ])
     print("Merging final output into %s" % OUTPUT_BASENAME)
-    subprocess.run(
-        ['mrg_pack', OUTPUT_BASENAME, '--names', 'mrg_names.txt'] +
-        mrg_component_files)
+    subprocess.run(['mrg_pack', OUTPUT_BASENAME] + mrg_component_files)
 
 
 if __name__ == '__main__':
