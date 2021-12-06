@@ -2,7 +2,7 @@
 Open source translation of Tsukihime -A Piece of Blue Glass Moon- prepared by [Tsukihimates](https://twitter.com/tsukihimates).
 
 Copyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.
-We do not support piracy by any means. This is only a patch of the game and you will need a copy of the game for this to work. Please buy the original game to support the author and developers. 
+We do not support piracy by any means. This is only a patch of the game and you will need a copy of the game for this to work. Please buy the original game to support the author and developers.
 
 The repository is currently still under building.
 
@@ -25,8 +25,6 @@ https://github.com/Hakanaou/deepLuna
 * [PS HuneX Tools](https://github.com/Hintay/PS-HuneX_Tools/)
 * [QuickBMS](http://aluigi.altervista.org/quickbms.htm)
 * [Switch Toolbox](https://github.com/KillzXGaming/Switch-Toolbox)
-* [deepL](https://www.deepl.com/)
-* [Google TL](https://translate.google.com/)
 
 ## Credits and thanks
 * Typemoon for creating wonderful remake http://typemoon.com/products/tsukihime/
