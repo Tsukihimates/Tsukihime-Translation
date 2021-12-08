@@ -33,6 +33,7 @@ This is a <u>difficult exercise</u>. Whenever you're unsure of what to do with a
   - Correct: `This is the first line.# This is the second line`
   - WRONG: `This is the first line. #This is the second line`
 - In all sentences, the word 'anyway' should be used instead of 'anyways'
+- All choices should be prefaced with a single space (e.g. `C:> Choice one`) so that choices beginning with ... are not merged with the choice numbering dots
 
 ***
 

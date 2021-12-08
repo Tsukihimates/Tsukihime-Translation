@@ -27,7 +27,8 @@ MRG_TEMP_DIR = '.allpac_extracted'
 PNG_TEMP_DIR = '.gamecg_dds'
 
 # Source dir with game CG images to replace
-GAMECG_DIR = '../../images/en_gamecg/allpac'
+GAMECG_TEXTURES_DIR = '../../images/en_gamecg/allpac_textures'
+GAMECG_RAW_DIR = '../../images/en_gamecg/allpac_raw'
 
 # External texture replacement program
 REPLACER = 'bntx_replace/bntx_replace.py'
@@ -101,7 +102,7 @@ def replace_btnx(args):
         if f.name.startswith("allpac.%08d." % index)
         and f.name.endswith(".BNTX")
     ]
-    assert len(candidate_files) == 1, "Failed to find replacement candidate"
+    assert len(candidate_files) == 1, "Failed to replacement idx %s" % index
 
     # Invoke the external texture replacer
     source_bntx = candidate_files[0]
@@ -129,7 +130,7 @@ def main():
             os.makedirs(dirname)
 
     # Convert PNG resources into DDS
-    for subdir, dirs, files in os.walk(GAMECG_DIR):
+    for subdir, dirs, files in os.walk(GAMECG_TEXTURES_DIR):
         for filename in files:
             if not filename.endswith('.png'):
                 continue
@@ -141,7 +142,7 @@ def main():
             new_filename = re.sub('.png', '.dds', filename)
 
             # Preserve path fragment from cg dir in output
-            output_fragment = subdir[len(GAMECG_DIR)+1:]
+            output_fragment = subdir[len(GAMECG_TEXTURES_DIR)+1:]
             output_dir = os.path.join(PNG_TEMP_DIR, output_fragment)
             output_path = os.path.join(output_dir, new_filename)
             os.makedirs(output_dir, exist_ok=True)
@@ -259,6 +260,19 @@ def main():
             candidate_files[0]
         ]
         mrg_replace_args += replace_args
+
+    # Also replace any raw files
+    raw_files = {}
+    for entry in os.scandir(GAMECG_RAW_DIR):
+        if entry.is_file():
+            raw_files[entry.name] = entry.path
+
+    for entry in mrg_entries.values():
+        if entry.name in raw_files:
+            replace_args = [
+                '-i%d' % entry.index, raw_files[entry.name]
+            ]
+            mrg_replace_args += replace_args
 
     print("Packing new MRG...")
     subprocess.run(mrg_replace_args)
