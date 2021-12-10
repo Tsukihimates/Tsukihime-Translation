@@ -30,15 +30,15 @@ Set Voice Volume for ？？？
 Decrease Voice for ？？？
 Increase Voice for ？？？
 Set Other Females' Voice Output
-Set Other Females' Voice Volume 
+Set Other Females' Voice Volume
 Decrease Other Females' Voices
 Increase Other Females' Voices
-Set Other Males' Voice Output 
-Set Other Males' Voice Volume 
+Set Other Males' Voice Output
+Set Other Males' Voice Volume
 Decrease Other Males' Voices
 Increase Other Males' Voices
 Set Others' Voice Output
-Set Others' Voice Volume 
+Set Others' Voice Volume
 Decrease Others' Voices
 Increase Others' Voices
 Set Shiki's Voice Output
@@ -51,11 +51,11 @@ Decrease Arcueid's Voice
 Increase Arcueid's Voice
 Set Ciel's Voice Output
 Set Ciel's Voice Volume
-Decrease Ciel's Voice 
-Increase Ciel's Voice 
+Decrease Ciel's Voice
+Increase Ciel's Voice
 Set Akiha's Voice Output
 Set Akiha's Voice Volume
-Decrease Akiha's Voice 
+Decrease Akiha's Voice
 Increase Akiha's Voice
 Set Hisui's Voice Output
 Set Hisui's Voice Volume
@@ -101,144 +101,144 @@ Set Karius's Voice Output
 Set Karius's Voice Volume
 Decrease Karius's Voice
 Increase Karius's Voice
-Set Saiki Gotou's Voice Output
-Set Saiki Gotou's Voice Volume
-Decrease Saiki Gotou's Voice
-Increase Saiki Gotou's Voice
+Set Saiki Gouto's Voice Output
+Set Saiki Gouto's Voice Volume
+Decrease Saiki Gouto's Voice
+Increase Saiki Gouto's Voice
 Set Satsuki's Voice Output
 Set Satsuki's Voice Volume
 Decrease Satsuki's Voice
 Increase Satsuki's Voice
-Set Shiki (child)'s Voice Output
-Set Shiki (child)'s Voice Volume
-Decrease Shiki (child)'s Voice
-Increase Shiki (child)'s Voice
+Set Child Shiki's Voice Output
+Set Child Shiki's Voice Volume
+Decrease Child Shiki's Voice
+Increase Child Shiki's Voice
 Set Mio's Voice Output
 Set Mio's Voice Volume
 Decrease Mio's Voice
 Increase Mio's Voice
-Text configuration
-Restore text settings to default
-Adjusts the text display speed
-Decrease the text display speed
-Increase the text display speed
-Adjusts the speed of auto mode
-Decrease the speed of auto mode.
-Increase the speed of auto mode.
-Change window transparency 
-Make the window thinner
-Make the window darker
-Hide a text border
-Apply a text border
-Hide text shadow
-Apply text shadow
-Fix the text color
-Change the color of read sentences
-Change window's design
+Text Settings
+Restore Text Settings to Default
+Adjust Text Display Speed
+Decrease Text Display Speed
+Increase Text Display Speed
+Adjusts Auto Mode Speed
+Decrease Auto Mode Speed
+Increase Auto Mode Speed
+Change Window Transparency
+Make Window Lighter
+Make Window Darker
+Remove Text Border
+Apply Text Border
+Remove Text Shadow
+Apply Text shadow
+Fix Text Colour
+Change Color of Read Sentences
+Change Window Design
 Change language
-First message read
-Following messages
-System configuration
-Restore settings to default
-Make all sentences skippable
-Make only already-read sentences skippable
-Enable skipping on choices.
-Disable skipping on choices.
-Set auto-save for choices
-Do not save automatically with choices
-Save automatically with choices
-Set automatic save at the beginning of the scene
-Do not save automatically at the beginning of the scene
-Automatically save at the beginning of the scene
-Don't show button help text
-Display the button help text 
-Don't show button help text
-Display the button help text 
-Set controller's vibration ＯＦＦ
-Set controller's vibration ＯＮ
-Displays the operating instructions.
-Change all settings to "recommended settings"
-Change all settings to default?
+First Message Read
+Following Messages
+System Settings
+Restore Operation Settings to Default
+Enable all Sentences to be Skipped
+Enable only Read Sentences to be Skipped
+Enable Skipping at Choices.
+Disable Skipping at Choices.
+Set Auto-save at Choices
+Do not Auto-save at Choices
+Auto-save at Choices
+Set Auto-save at Start of Scene
+Do not Auto-save at Start of Scene
+Auto-save at Start of Scene
+Hide Button Help Text
+Display Button Help Text
+Hide Button Help Text
+Display Button Help Text
+Turn Off Controller Vibration
+Turn On Controller Vibration
+Display Operating Instructions
+Change All Settings to "Recommended Settings"
+Change All Settings to Default. Are you sure?
 Save
 Load
-Set the environment
+Set Environment
 【DEBUG】Texture Check【DEBUG】
 Flowchart
-Return to the title.
-Close the menu
-Show flowchart
-Go back to the previous scene
-Jump to the next scene
-Rewind while pressing the button
-Fast forward while pressing the button
-Switch auto mode ON / OFF
+Return to Title
+Close Menu
+Display Flowchart
+Return to Previous Scene
+Jump to Next Scene
+Rewind when Pressing Button
+Fast Forward when Pressing Button
+Toggle Auto Mode between ON and OFF
 Quick Save
 Quick Load
-Replay last voice
-Open backlog
-Would you like to save?
-Load？
-Overwrite？
-Copy？
-Delete？
+Replay Last Voice
+Open Backlog
+Save?
+Load?
+Overwrite?
+Copy?
+Delete?
 Saving
 Loading
 Checking
-Failed to save.^Data may be corrupted.
+Saving Failed.^Data may be Corrupted.
 Copying
 Deleting
-Failed to save.
-Failed to load.
-Saving finished.
-Loading finished.
-There is no save data.
-Cancel saving?
-Cancel loading?
-Continue saving?
-Continue loading?
-Do you want to save the system data?
-Do you want to load system data?
-Do you want to overwrite the system data?
-Saving system data
-Loading system data
-No system data
-Failed to save system data
-Failed to load system data. ^ Data may be corrupted
-Successfully saved system data
-Successfully loaded system data
-File is corrupted.
-Data is corrupted and will be overwritten.
-Insufficient free space
-Do you want to run formatting?
-No data
-Create save data
-Saved data version is different
-Different version of system data
-Do you want to save your progress? 
-Start the game from the beginning
-Resume the game with the latest save file
+Save Failure
+Load Failure
+Save Complete
+Load Complete
+No Save Data Found
+Cancel Saving?
+Cancel Loading?
+Continue Saving?
+Continue Loading?
+Save System Data?
+Load System Data?
+Overwrite System Data?
+Saving System Data
+Loading System Data
+No System Data Found
+System Data Save Failure
+System Data Load Failed^ Data may be Corrupted
+System Data Save Successful
+System Data Load Successful
+File is Corrupted.
+Data is Corrupted and will be Overwritten.
+Insufficient Free Space
+Run Formatting?
+Data not Found
+Create Save Data
+Saved Data Version is Different
+System Data Version is Different
+Save Progress?
+Start Game from Beginning
+Resume Game with Latest Save File
 Load
-Set the environment
-Enter viewing mode
-Watch CG
-Show Flowchart
-Listen to music
-Listen to voice
-Return to title
-Play extra scenarios
-Do you want to cancel? 
-Return to the title screen？
-Load quickly？
-Jump quickly？
-Jump to next scene？
-Go back to previous scene？
-Quit playing the scene?
-Exit without saving?
-Mute voice？
-Would you like to save?
-All progress will be lost.^Rewind to selected scene?
-Congratulations!　Please come to the ending list.
-Error has occurred
+Set Environment
+Enter Viewing Mode
+View CG
+Display Flowchart
+Listen to Music
+Listen to Voice
+Return to Title
+Play Extra Scenarios
+Cancel?
+Return to Title Screen？
+Quick Load?
+Quick Jump?
+Jump to Next Scene?
+Return to Previous Scene？
+End Scene Playback?
+Exit without Saving?
+Mute Voice？
+Save?
+All Progress will be Lost.^Rewind to Selected Scene?
+Congratulations on completion! Please head to the ending list.
+Error has Occurred
 
 
 
@@ -258,98 +258,98 @@ Moonlight: re
 Nostalgia: re
 Morning of Awakening
 Determination
-Tomorrow ^(From Farewell Song)
+Tomorrow ^(From Tristesse)
 Rebirth
-Ciel's theme
-Sunny Place: re
-On the way home
+Ciel's Theme
+Sunlit: re
+On The Way Home
 Emotions: re
-Lights: re
+Light: re
 Phantom Dance: re
-unholy
+Permeating Stain
 Consideration
 Approach
 Visit
-Hearing the bells of sickness.
-Arcueid's theme ^(Moonlight)
-Night of Guignol
+Hear the Bell of Sickness.
+Arcueid's Theme ^(Moonlight)
+Night of the Guignol
 From Hell
-Vlov：Ⅰ
-Vlov：Ⅱ
-Charming Summer: re
-Vlov：Ⅲ
-Vlov：ⅢB
+Vlov: I
+Vlov: II
+Spectral Summer: re
+Vlov: III
+Vlov: III B
 Mystic Eyes Awakening
 Night Call
 Answer
 Record
-Meeting at midnight
-Rabbit in the wilderness
+Midnight Tryst
+Rabbit of the Wilderness
 
 Marble Phantasm
 Moonlight
 Yearning
-moonlight ^(Light from Moon)
-From the Boundaries
+Moonlight ^(From Clair de Lune)
+From the Boundary
 Memories of the Moon
-Blood Princess Dance^(Arcueid's theme)
-forever and ever
-Arach's theme(High)
-Arach's theme(Low)
+Blood Princess Dance^(Arcueid's Theme)
+Forever
+Arach's Theme(High)
+Arach's Theme(Low)
 Summer Blue
-Legs Research
-The Warrior's Way
-Into the Vortex
-Our Tohno mansion
-The quiet Tohno residence
-Owner's elegant moment
-School building in the evening
-Ambiguous story
-Tsu-ki-hi-me!
-Princess, your hand, please ^(Arcueid's theme)
-Now it's far away.
-It's lunchtime, Tohno-kun!
-View
+Investigation by Foot
+Way of the Warrior
+Into the Midst of Battle
+Our Tohno Mansion
+Quiet Tohno Mansion
+Elegant Moment of the Head of the Household
+School at Dusk
+Vague Story
+Tsukihime!
+Princess, your Hand Please ^(Arcueid's Theme)
+It's Already Far Away
+It's Lunchtime, Tohno-kun!
+Outlook
 Confession
-summer memories
-Happy End ^("Seimesen" piano ver.)
+Summer Memories
+Happy End ^("Seimeisen" Piano Ver.)
 moonline
-Mystic Eyes Liberation
-Once upon a time, in a certain place
-Okuri-inu hunting
-Criminal
-metamorphosis
-Walk at night
-Walk at night ^(Reprise)
-Icefield Waltz ^(Vlov：Ⅳ)
-Our Father, who art in heaven
-Our Father, who art in heaven ^(Reprise)
+Mystic Eyes Unleashed
+Once Upon a Time, Somewhere
+Hunting Wolves in Sheep's Clothing
+And the Culprit is...
+Transformation
+Walk at Night ^(Reprise)
+Walk at Night ^(Reprise)
+Icefield Waltz ^(Vlov: IV)
+The Lord's in his Heaven
+The Lord's in his Heaven ^(Reprise)
 
 Noel
 Moonbow
 Duel of Top
-True Ancestor Rebirth (normal)
+True Ancestor Reborn (Normal)
 Star of Calvaria
 Garden of Giants
 Meta-Krake/4
 Meta-Krake/3
 
 
-True Ancestor Rebirth (rampage)
+True Ancestor Reborn (Rampage)
 Luminous Body Appears
-Mystic Eyes、Awakening
+Mystic Eyes, Awaken
 French Tea Ceremony Room
-Spice Storm
-As an old acquaintance, as a teacher
-As a redemption, as a judgment
+Storm of Spice
+As Old Acquaintances, as Teacher and Student
+As Redemption, as Judgement
 Primordial Earth
-Retrogression Canal/Celestial^Reproduction
-One day, I'll be home
+Retrograde Canal/Celestial^Conception
+Someday, the Day of Return
 Dawn
-Teach me, Ciel-sensei!
-Teach me, Ciel-sensei! ^(Staff Roll)
-Teach me, Ciel-sensei! ^(Reprise)
-Seimesen -Game size-
+Teach me, Ciel-sensei
+Teach me, Ciel-sensei ^(Staff Roll)
+Teach me, Ciel-sensei ^(Reprise)
+Seimeisen -Game size-
 
 Lost -Game size-
 Juvenile -Game size-
@@ -358,8 +358,8 @@ Believer -Game size-
 Text
 Prologue
 00 Glass Moon
-01 Morning of Homecoming I 
-01 Morning of Homecoming I 
+01 Morning of Homecoming I
+01 Morning of Homecoming I
 02 A Day of Nothing
 02 A Day of Nothing
 03 Inversion Impulse
@@ -375,7 +375,7 @@ Prologue
 07 Reverse Hatching I
 08 Eyes of Death Perception II
 08 Reverse Hatching II
-09 Death. 
+09 Death.
 09 Bow of the Skies I
 10 Vermillion, Crimson Moon I
 10 Bow of the Skies II
@@ -390,154 +390,154 @@ Prologue
 12 Endless stone
 13 Endless stone
 14 Endless stone
-15 Rainbow at Night 
+15 Rainbow at Night
 15 Daylight Blue
 Teach me, Ciel-sensei!
 
 Prologue
 Glass Moon
-Early morning, the city awakens.
+Early in the morning, the city^awakens.
 Confirmation
-The question in my head.
-Going to classroom.
-Joining Arihiko at the cafeteria.
-Staying in classroom
-1st day, after school
-Stroll around school
-Return to the mansion
-Recollection
-Thinking about my father, Tohno^Makihisa.
-Thinking about my sister, Akiha.
-Another kid who played with us.
-Shiki: Homecoming
-I decide to follow her quietly.
+A question crosses my mind.
+I head to my classroom
+I'll meet up with Arihiko at the^cafeteria.
+I'll stay in the classroom and^see what happens.
+1st day - After School
+I wander around the school.
+I return to the mansion.
+Reminiscence
+My father, Tohno^Makihisa.
+Of course, it's my sister Akiha.
+There was another kid who played^with us.
+Shiki - Homecoming
+I decide to obediently follow^her.
 I stop the girl.
-I want to explore the mansion.
-Resting in the living room
+I think I'll explore the mansion.
+I rest in the living room
 I'll wait here quietly.
-Let's go for a walk.
+I'll go for a little walk.
 Reunion
 Eldest son's room
 Dinner
-Returning to my room.
-I have nothing to say to her.
-There was nothing to do but watch^carefully.
+I return to my room.
+I don't have anything to talk^about.
+There is nothing to do but watch^carefully.
 Let's think after going out into^the corridor.
 Let's think after going out into^the corridor.
-Stroll around the school
-Continuation of the morning story.
-Continuation of the morning story. 
-2nd day, morning
+I wander around the school.
+Continuation of the morning^story.
+Continuation of the afternoon^story.
+2nd day - Morning
 Dr. Arach appears.
-Leaving the mansion and heading^for the school.
+I leave the mansion and head^for school.
 The state of the city
 A change during homeroom
-After school
-Asking about Toyama-sensei.
-...I decide not to think^about it.
-Leaving the school.
-Going home without a detour.
-Let's go to the family restaurant.
-I'm going to take a detour before^going home.
+After School
+I ask about Toyama-sensei.
+...I decide to give it up.
+I leave the school.
+I go straight home.
+I go to the restaurant.
+I take a detour before going^home.
 Why?
 Selinuntius is dead.
-I'll go to the living room to^talk to Akiha.
-I'll visit Kohaku-san's room.
-I'll continue to rest in my room.
-It's time to turn off the lights. 
+I go visit Akiha in the living^room.
+I go to Kohaku-san's room.
+I continue to rest in my room.
+It's time to turn off the lights.
 Agony of death
-Lunch break
-Taking it easy in the cafeteria.
-Eating bread in the classroom.
-Thinking in the hallway.
-Thinking in the hallway.
-3rd day, morning
-Greeting Akiha.
-Greeting Kohaku-san.
-Greeting both of them.
+Lunch Break
+I take it easy in the cafeteria.
+I take it easy and buy some^bread.
+I go into the hallway and think.
+I go into the hallway and think.
+3rd day - Morning
+I greet Akiha.
+I greet Kohaku-san.
+I greet both of them.
 Morning conversation
-I'm stopped at the lobby of the^mansion. 
+I'm stopped at the mansion's lobby.
 Homeroom with Senpai
 Lunch break
-Eating at the cafeteria.
+I eat at the cafeteria.
 Dizziness
-Encounter
-It must be some kind of bad dream.
+Chance Encounter
+It must be some kind of bad^dream.
 Slumber
-Mundane homeroom
-Eating in the classroom.
+Ordinary Homeroom
+I eat in the classroom.
 Should I go to the tea ceremony^room...?
 ...No, this is a reality wrought^by my own hands.
-Unstoppable rain 
+Unstopping Rain
 Guidance
 Confession
 Listening to the sound of rain.
-4th day, morning
+4th day - Morning
 Encounter.
 Morning at the dining table
-Talk about Akiha.
-Talk about Kohaku-san.
-Talk about the mansion.
+I ask about Akiha.
+I have a word about Kohaku-san.
+I ask about the mansion.
 Kohaku-san arrives with^breakfast.
 Reunion.
-...Cooperation
+I... will help.
 Back Alley Encounter
-The Black Beast
+Black Beast
 How to reply.
-Alice in the River of Fire
+Alice of the River of Flames
 We arrive at the luxury hotel.
-Going back to the mansion.
-...That's enough wandering around.^Let's stay.
+I'm going back to the mansion.
+...No more getting lost. Let's^stay.
 A long talk about vampires.
-A continuation of a long talk^with vampires.
+Continuation of a long talk^with vampires.
 The story of the murderer and his^glasses.
 One summer day.
 ...Give up and hand them over.
 ...No, I'm not handing them over.
 Night Talk
 If she were a vampire.
-Blue flame.
+Blue Flame.
 I'm going to check outside.
-The world of patchwork
+A patchwork world
 I'll stay in the room and see^what happens.
-4th day, morning
+4th day - Morning
 The last morning trip home
 Reunion.
 No, I will never cooperate.
 ...Enough with the madness. Let's^run.
-Going back to the hotel.
-From hell.
-5th day, morning
+I'm going back to the hotel.
+From Hell.
+5th day - Morning
 Sleeping without fear
 Post-treatment
-The mysterious duct tape woman
-Rest in peace.
+Mysterious duct tape woman
+Please rest
 Teach me, Arcueid-sensei.
-Crime Scene
-Preparing to fight
-Later on
-...At least, I'll stay here until^nightfall.
+Crime scene
+Resolve to fight
+Consequences
+...I'll stay here until nightfall,^at least.
 Strategy meeting
-Policy decision
+Deciding on a plan of action
 To the city at night
-The storm that landed
+Descending storm
 Vlov Arkhangel (I)
 I'm going down.
-We'll see what happens.
-I have to watch the battle.
-I must stop Arcueid.
+I observe the situation
+I have no choice but to watch the^battle
+I should stop Arcueid.
 Burning delusion.
 Vlov Arkhangel (II)
-Trump card
-...Throwing.
-...Gliding. 
+Trump Card
+...It has to be throwing.
+...It has to be sliding.
 Percentage Showtime
-...Towing.
+...It has to be towing.
 ...I should look for Vlov right^now.
-I will go to the bottom.
+I head downstairs.
 In the depths of hell.
-Reason.
-To the Vlov's stronghold.
+Reason
+To Vlov's stronghold.
 Heaven's Ladder
 Hands of Fire
 Help Noel.
@@ -555,7 +555,7 @@ In the fog
 Frustration
 Cold Air Cage
 Looking at Ciel-senpai.
-Watching Vlov. 
+Watching Vlov.
 Waltz in the Frozen Earth
 Rest is homeland.
 Good night.
@@ -573,7 +573,7 @@ How should I spend my afternoon?
 Taking a walk in the courtyard.
 Taking a look around the mansion.
 Going out to the city for^a moment.
-At the end of the holiday. 
+At the end of the holiday.
 6th day, morning
 Jump in! Sanzu River
 I honestly apologize.
@@ -600,7 +600,7 @@ My house was a battlefield.
 Shiki: Far From Home.
 Pursuit and Misunderstanding
 Vampire murder case
-Like a shining dream 
+Like a shining dream
 The city of lines
 More talking to Arcueid.
 I want to know more about^vampires.
@@ -608,7 +608,7 @@ I want to know more about^vampires.
 …… About the battle uniform for^the Vlov battle
 ......I should go home soon.
 See you tomorrow.
-Returning home at midnight. 
+Returning home at midnight.
 7th day, morning.
 To a new normal.
 Lunchtime
@@ -660,7 +660,7 @@ Sleep on the street
 8th day, morning.
 What are your plans for the^future?
 How to make Shiki cry
-Shallow dream 
+Shallow dream
 Ciel and Noel
 Senpai left the infirmary.
 Ciel's suspicious behavior
@@ -676,7 +676,7 @@ Year 1989
 About Arcueid.
 About black man.
 About Noel...sensei.
-Waking up 
+Waking up
 Maid's Dedication.
 I'll go with Dr. Arach.
 I'll go with Kohaku-san.
@@ -755,14 +755,14 @@ We can talk about it after school.
 Now is the time to speak properly.
 Ciel relationship with Noel.
 What is a Cathedral? I ask.
-What are Black Keys? I ask 
+What are Black Keys? I ask
 ＳＴＹＬＥ
 It's about Arcueid......
 Ginger and Milk Tea
 Roa's life and death.
 I can't just let the senpai go.
 I'm a dead weight.
-Can't you tell the teacher? 
+Can't you tell the teacher?
 Roa's coffin.
 The End of Reincarnation
 Starting tomorrow.
@@ -780,8 +780,8 @@ Bye, bye.
 Familiar classroom
 Broken chair
 Stopped clock
-Walk at night 
-Karma liquidation 
+Walk at night
+Karma liquidation
 14th day, morning
 from now on.
 Searching for Arcueid even if it^is useless.
@@ -799,7 +799,7 @@ Do you at least have an alter ego?
 Do you run the student council?
 Everyone's Ciel-senpai.
 It's like a dream
-Let's go back to the room. 
+Let's go back to the room.
 ......Kohaku-san is a hindrance.
 ......Kohaku-san is right.
 ......Kohaku-san is right.
@@ -822,10 +822,10 @@ Breakdown
 Before running away.
 Coming to the bottom of the earth,^convicted
 Run forward.
-Run backwards. 
+Run backwards.
 Mare Tranquillitatis
 ......removing glasses.
-......not removing glasses. 
+......not removing glasses.
 Revenger
 French Incident
 Surviving the Rose Garden
@@ -863,7 +863,7 @@ Chalk snow
 Revelation
 Last warning
 What's wrong with that, shut up.
-Then what should I do? 
+Then what should I do?
 Crimson Air
 Garden of Giants
 Ant's Wrath
@@ -913,21 +913,21 @@ Teach me, Ciel-sensei! Ep. 25
 
 I find myself on a hospital bed.^The world I see is all covered in^lines.
 Suddenly, I wake up. Lured by the^distant clamor, I go into the^dark, dark forest.
-The end of the familiar routine.^I left the house in Arima where I^spent seven years. This is the^last time I would see this^scenery.
+^The end of the familiar routine.^I left the house in Arima where I^spent seven years. This is the^last time I would see this^scenery.
 There may have been something^like that, too.
 A question crosses my mind.^This might be a good opportunity.^Let's ask Ciel-senpai directly.
 Seeing off Ciel-senpai who's in a^hurry, I slowly head for school.
-It seems we have a special guest^today. I decide to have lunch^with Arihiko at the cafeteria.
-I can't make up my mind yet.^While I'm getting comfortable in^my seat, Yumizuka Satsuki calls^out to me.
+^It seems we have a special guest^today. I decide to have lunch^with Arihiko at the cafeteria.
+^I can't make up my mind yet.^While I'm getting comfortable in^my seat, Yumizuka Satsuki calls^out to me.
 I'm still feeling uncertain, but^there's no point in staying in^the classroom. What should I do^now?
 Let's kill a little more time. As^I stroll around the school, an^incident from my junior high^school days comes to mind.
 I make up my mind and leave the^school building. As I walk down^the familiar path, I was^reminiscing about the Tohno^residence.
 Seven years have passed since^then. I wonder how the Tohno^residence has changed. Now, what^I remember especially is...
 ^I remember my father, Tohno^Makihisa. My father, who was^strict and hated his son, is no^longer in this world.
 I remember my sister, Akiha. I^wonder how she felt during the^past seven years when I had not^been in contact with her.
-I remember playing with other^kids back then, not just me and^Akiha. I wonder who that was.
+^I remember playing with other^kids back then, not just me and^Akiha. I wonder who that was.
 The Tohno mansion, which I^returned to for the first time in^seven years. I'm overwhelmed by^its grandeur. The one who greeted^me is―――
-Not knowing what to do due to my^hazy memories, I decided to let^the girl guide me around here and^follow her in silence.
+^Not knowing what to do due to my^hazy memories, I decided to let^the girl guide me around here and^follow her in silence.
 It'd be rude to call her 'maid'.^I decide to stop the girl in^front of me and ask for her name.
 My mind seems to be in a state of^flux at the grandeur of the^mansion. I want to look around^the other rooms so I stop the^girl in front of me.
 The girl, Kohaku, leads me to the^luxurious living room.
@@ -937,13 +937,13 @@ When I was a child, I couldn't^even look into the private room^of the head of th
 My own servant, Hisui, guides me^to my room. There is nothing to^do to pass the time until dinner.
 Dinner with the head of the^family has begun! I'm so nervous.^I have to learn table manners as^soon as possible.
 I finally make it back to my room^alive. I ask Hisui, who was^making up the bed, something^that's bothering me.
-Ciel-senpai is a well-known^figure at school. I want to talk^to her, but I had nothing in^particular to say.
+^Ciel-senpai is a well-known^figure at school. I want to talk^to her, but I had nothing in^particular to say.
 ^I'm distracted by the firmness of^her legs like those of a track^and field athlete. I wonder if^they were the result of daily^training.
 ^Do I eat in the cafeteria or buy^something from the store for^lunch today? While I'm pondering^in the hallway, I see a familiar^face....
 ^I'm hoping for some unexpected^encounter, but there is no such^luck. Let's head to the cafeteria^quietly....
 I remember my promise from this^morning. Let's visit the tea^ceremony club room. I'm sure^Ciel-senpai will be there.
-Senpai wants to hear my story. I^don't know if it will meet her^expectations, but let's talk^about the recent events.
-Senpai wants to hear my story. I^know it's a waste of time, but^let's talk about personal^matters.
+^Senpai wants to hear my story. I^don't know if it will meet her^expectations, but let's talk^about the recent events.
+^Senpai wants to hear my story. I^know it's a waste of time, but^let's talk about personal^matters.
 I wake up from a deep sleep. From^here onwards, a brand new morning^begins at the Tohno residence.
 Akiha and I didn't engage in any^conversation, and time passes^peacefully. But....
 ^My first day at school, coming^from the Tohno mansion. I walk^down the street feeling like a^transfer student. There is no^sign of change in the city but...
@@ -959,13 +959,13 @@ That reminds me, Yumizuka-san^gave me a point card. Since I^have time, let's sto
 I find myself in a back alley in^the city. The curfew has long^passed. I have to get back to the^mansion as soon as possible.
 I'm not able to return home^before sunset. The tyrant summons^me to her office, and Melos is^furious.
 ^I piss off Akiha today. I head to^the living room to see if we^could talk, but the person I run^into there is....
-It's still too early to go to^bed. Should I visit Kohaku-san's^room and ask her if I could watch^her TV...? 
+It's still too early to go to^bed. Should I visit Kohaku-san's^room and ask her if I could watch^her TV...?
 I'll just stay in my room. When^I'm relaxing, I hear a voice^calling me through the door.
 It's ten o'clock at night, time^for lights out. I don't have^anything else to do. Let's lie^down quietly.
 The howling that comes from^somewhere is so annoying that I^can't sleep....
 It's time for lunch. Despite the^change that is Noel-sensei,^things remain the same.
 Fortunately, I'm feeling good^today. Let's eat the meal set A^at the cafeteria. I'm rich.
-Let's refrain from wasting money.^When I come back from buying^bread at the store, Yumizuka^calls out to me.
+^Let's refrain from wasting money.^When I come back from buying^bread at the store, Yumizuka^calls out to me.
 I run into Ciel-senpai in the^hallway. She said she bought too^much lunch. I'll take her word^for it.
 I encounter something strange on^the stairs. The new teacher,^Noel-sensei, seems to be at a^loss by the wall.
 The scene last night was a dream^and this morning is uneventful.^I finish getting dressed and head^for the dining room.
