@@ -27,5 +27,5 @@ https://github.com/Hakanaou/deepLuna
 * [Switch Toolbox](https://github.com/KillzXGaming/Switch-Toolbox)
 
 ## Credits
-* Typemoon for creating the wonderful remake http://typemoon.com/products/tsukihime/
+* Type-moon for creating the wonderful remake http://typemoon.com/products/tsukihime/
 * Life Bottle Productions for inspiration and help https://github.com/furiousg4m3r/Tales-of-Destiny-DC
