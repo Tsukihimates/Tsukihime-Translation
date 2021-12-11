@@ -1,19 +1,30 @@
 #!/bin/bash
 set -e
 
-# Make build dir if not exists
+# Make build dirs if not exists
+mkdir -p patched/ || true
 mkdir -p build/ || true
 
+# Copy the retimed files into the build dir
+cp retimed/* patched/
+
+# Apply manual patches
+pushd patched
+for F in $(ls ../manual_tweaks/); do
+  patch -p0 < "../manual_tweaks/$F"
+done
+popd
+
 # Re-compress each of the script text files
-for F in $(ls decompressed); do
+for F in $(ls patched/); do
   echo -ne "Compressing $F\r"
   # Remove newlines
-  cat "retimed/$F" | tr -d '\n' > "build/$F"
+  cat "patched/$F" | tr -d '\n' > "build/$F"
   # Compress
   mzx_compress "build/$F" build/"`echo $F | sed 's/txt/bin/'`" &
 done
 wait
-echo "Finished ompressing script files"
+echo "Finished compressing script files       "
 
 # Add the binary archives into the build dir
 echo "Adding binary archives to build"
