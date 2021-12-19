@@ -8,7 +8,7 @@ diff --git a/allscr/retimed/allscr.mrg_0024.txt b/allscr/retimed/allscr.mrg_0024
 -_WTTM(1,1);
  _WKST(C847,eq,63);
  _VPLY(B30_01_00_0011_1,03558);
-+_WKAD(F823,1);
++_WKAD(F823,0);
  _WKST(C847,eq,0);
  _WKST(C859,eq,0);
  _WNTY(1);
@@ -19,7 +19,7 @@ diff --git a/allscr/retimed/allscr.mrg_0024.txt b/allscr/retimed/allscr.mrg_0024
 -_WTTM(1,1);
  _WKST(C847,eq,63);
  _VPLY(B30_01_00_0012_0,0355b);
-+_WKAD(F823,1);
++_WKAD(F823,0);
  _WKST(C847,eq,0);
  _WKST(C859,eq,0);
  _WNTY(1);
@@ -30,7 +30,7 @@ diff --git a/allscr/retimed/allscr.mrg_0024.txt b/allscr/retimed/allscr.mrg_0024
 -_WTTM(1,1);
  _WKST(C847,eq,63);
  _VPLY(B30_01_00_0012_0,0355b);
-+_WKAD(F823,1);
++_WKAD(F823,0);
  _WKST(C847,eq,0);
  _WKST(C859,eq,0);
  _WNTY(1);
