@@ -9,6 +9,9 @@ BRIT_TO_YANK = {
     'defence': 'defense',
     'offence': 'offense',
     'speciality': 'specialty',
+    'realise': 'realize',
+    'realising': 'realizing',
+    'woah': 'whoa',
 }
 
 def process_file(filename):
