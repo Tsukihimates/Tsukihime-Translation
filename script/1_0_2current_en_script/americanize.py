@@ -8,6 +8,7 @@ BRIT_TO_YANK = {
     'colours': 'colors',
     'defence': 'defense',
     'offence': 'offense',
+    'speciality': 'specialty',
 }
 
 def process_file(filename):
