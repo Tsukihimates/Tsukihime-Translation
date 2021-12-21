@@ -13,6 +13,7 @@ BRIT_TO_YANK = {
     'realising': 'realizing',
     'woah': 'whoa',
     'favourable': 'favorable',
+    'favour': 'favor',
 }
 
 def process_file(filename):
