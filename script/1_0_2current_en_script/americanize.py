@@ -15,6 +15,8 @@ BRIT_TO_YANK = {
     'favourable': 'favorable',
     'favour': 'favor',
     'towards': 'toward',
+    'leapt': 'leaped',
+    'anyways': 'anyway',
 }
 
 def process_file(filename):
