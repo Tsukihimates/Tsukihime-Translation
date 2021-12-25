@@ -15,7 +15,7 @@ BRIT_TO_YANK = {
     'favourable': 'favorable',
     'favour': 'favor',
     'towards': 'toward',
-    'leapt': 'leaped',
+    'leaped': 'leapt',  # Exception since leaped looks dumb to at least 3 editors
     'anyways': 'anyway',
 }
 
