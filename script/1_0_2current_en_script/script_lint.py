@@ -147,6 +147,32 @@ class LintDanglingCommas:
 
         return errors
 
+
+class LintVerbotenUnicode:
+    VERBOTEN = {
+        '　': ' ',
+        '…': '...',
+        '“': '"',
+        '”': '"',
+    }
+
+    def __call__(self, parsed_file):
+        errors = []
+        for page in parsed_file:
+            for line in page:
+                for find, replace in self.VERBOTEN.items():
+                    if find in line.split('//')[0]: # Ignore comments
+                        errors.append(LintResult(
+                            self.__class__.__name__,
+                            parsed_file,
+                            page[0],
+                            line,
+                            f"Replace '{find}' with '{replace}'"
+                        ))
+
+        return errors
+
+
 def process_file(path):
     # Parse it
     parsed_file = ParsedFile(path)
@@ -156,6 +182,7 @@ def process_file(path):
         LintAmericanSpelling(),
         LintUnclosedQuotes(),
         LintDanglingCommas(),
+        LintVerbotenUnicode(),
     ]
 
     lint_results = []
