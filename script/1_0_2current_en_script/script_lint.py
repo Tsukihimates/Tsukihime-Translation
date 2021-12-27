@@ -42,6 +42,18 @@ class ParsedFile:
 
         return pages
 
+    @staticmethod
+    def ignore_linter(linter_name, line):
+        # Does this line have a comment?
+        split = line.split('//')
+        if len(split) < 2:
+            # No comment so can't have a lint-off
+            return False
+
+        # Does the comment contain a lint-off pragma for this linter?
+        comment = split[1].lower()
+        search= f'lint-off:{linter_name}'.lower()
+        return search in comment
 
     def __init__(self, path):
         # Save some file info
@@ -95,6 +107,8 @@ class LintAmericanSpelling:
         errors = []
         for page in parsed_file:
             for line in page:
+                if parsed_file.ignore_linter(self.__class__.__name__, line):
+                    continue
                 for word in line.split(' '):
                     if word.lower() in self.BRIT_TO_YANK:
                         subs = self.BRIT_TO_YANK[word.lower()]
@@ -137,6 +151,8 @@ class LintDanglingCommas:
         errors = []
         for page in parsed_file:
             last_line = page[-1]
+            if parsed_file.ignore_linter(self.__class__.__name__, last_line):
+                continue
             if last_line.endswith(",") or last_line.endswith(",\""):
                 errors.append(LintResult(
                     self.__class__.__name__,
@@ -161,6 +177,8 @@ class LintVerbotenUnicode:
         errors = []
         for page in parsed_file:
             for line in page:
+                if parsed_file.ignore_linter(self.__class__.__name__, line):
+                    continue
                 for find, replace in self.VERBOTEN.items():
                     if find in line.split('//')[0]: # Ignore comments
                         errors.append(LintResult(
@@ -179,6 +197,8 @@ class LintUnspacedRuby:
         errors = []
         for page in parsed_file:
             for line in page:
+                if parsed_file.ignore_linter(self.__class__.__name__, line):
+                    continue
                 translated_line = line.split('//')[0]
                 match = re.search(r"<([\w\s]+)\|([\w\s]+)>", translated_line)
                 if match:
