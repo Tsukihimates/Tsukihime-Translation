@@ -2,6 +2,7 @@
 import re
 import os
 
+
 class Color:
     RED = '\033[31m'
     GREEN = '\033[32m'
@@ -42,6 +43,18 @@ class ParsedFile:
 
         return pages
 
+    @staticmethod
+    def ignore_linter(linter_name, line):
+        # Does this line have a comment?
+        split = line.split('//')
+        if len(split) < 2:
+            # No comment so can't have a lint-off
+            return False
+
+        # Does the comment contain a lint-off pragma for this linter?
+        comment = split[1].lower()
+        search = f'lint-off:{linter_name}'.lower()
+        return search in comment
 
     def __init__(self, path):
         # Save some file info
@@ -49,8 +62,8 @@ class ParsedFile:
         self.filename = os.path.basename(path)
 
         # Read file
-        with open(path, 'r') as f:
-            raw_text = f.read()
+        with open(path, 'r') as file_descriptor:
+            raw_text = file_descriptor.read()
 
         self.pages = self.split_pages(raw_text)
 
@@ -95,6 +108,8 @@ class LintAmericanSpelling:
         errors = []
         for page in parsed_file:
             for line in page:
+                if parsed_file.ignore_linter(self.__class__.__name__, line):
+                    continue
                 for word in line.split(' '):
                     if word.lower() in self.BRIT_TO_YANK:
                         subs = self.BRIT_TO_YANK[word.lower()]
@@ -137,13 +152,15 @@ class LintDanglingCommas:
         errors = []
         for page in parsed_file:
             last_line = page[-1]
+            if parsed_file.ignore_linter(self.__class__.__name__, last_line):
+                continue
             if last_line.endswith(",") or last_line.endswith(",\""):
                 errors.append(LintResult(
                     self.__class__.__name__,
                     parsed_file,
                     page[0],
                     last_line,
-                    f"Final line ends in trailing ',', replace with CJK dashes '―――'"
+                    "Final line ends in trailing ',', replace with CJK dashes '―――'"
                 ))
 
         return errors
@@ -161,6 +178,8 @@ class LintVerbotenUnicode:
         errors = []
         for page in parsed_file:
             for line in page:
+                if parsed_file.ignore_linter(self.__class__.__name__, line):
+                    continue
                 for find, replace in self.VERBOTEN.items():
                     if find in line.split('//')[0]: # Ignore comments
                         errors.append(LintResult(
@@ -179,10 +198,11 @@ class LintUnspacedRuby:
         errors = []
         for page in parsed_file:
             for line in page:
+                if parsed_file.ignore_linter(self.__class__.__name__, line):
+                    continue
                 translated_line = line.split('//')[0]
                 match = re.search(r"<([\w\s]+)\|([\w\s]+)>", translated_line)
                 if match:
-                    base = match.group(1)
                     ruby = match.group(2)
                     spaced_ok = True
                     for i in range(len(ruby)-1):
@@ -223,7 +243,7 @@ def process_file(path):
 
 def report_results(lint_results):
     for result in lint_results:
-        indent = f"\t" if result.line[0] != '\t' else ""
+        indent = "\t" if result.line[0] != '\t' else ""
         print(
             Color(Color.RED)(f"{result.linter}: {result.filename}: {result.page}\n") +
             f"{indent}" +
@@ -243,7 +263,7 @@ def report_results(lint_results):
 
 def main():
     lint_results = []
-    for root, dirs, files in os.walk("."):
+    for root, _dirs, files in os.walk("."):
         for name in files:
             if name.endswith('.txt'):
                 lint_results += process_file(os.path.join(root, name))
