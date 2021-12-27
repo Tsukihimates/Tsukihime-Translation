@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import re
 import os
 
 class Color:
@@ -147,6 +148,59 @@ class LintDanglingCommas:
 
         return errors
 
+
+class LintVerbotenUnicode:
+    VERBOTEN = {
+        '　': ' ',
+        '…': '...',
+        '“': '"',
+        '”': '"',
+    }
+
+    def __call__(self, parsed_file):
+        errors = []
+        for page in parsed_file:
+            for line in page:
+                for find, replace in self.VERBOTEN.items():
+                    if find in line.split('//')[0]: # Ignore comments
+                        errors.append(LintResult(
+                            self.__class__.__name__,
+                            parsed_file,
+                            page[0],
+                            line,
+                            f"Replace '{find}' with '{replace}'"
+                        ))
+
+        return errors
+
+
+class LintUnspacedRuby:
+    def __call__(self, parsed_file):
+        errors = []
+        for page in parsed_file:
+            for line in page:
+                translated_line = line.split('//')[0]
+                match = re.search(r"<([\w\s]+)\|([\w\s]+)>", translated_line)
+                if match:
+                    base = match.group(1)
+                    ruby = match.group(2)
+                    spaced_ok = True
+                    for i in range(len(ruby)-1):
+                        if ruby[i] != ' ' and ruby[i+1] != ' ':
+                            spaced_ok = False
+                            break
+                    if not spaced_ok:
+                        errors.append(LintResult(
+                            self.__class__.__name__,
+                            parsed_file,
+                            page[0],
+                            line,
+                            f"Ruby '{ruby}' is not 's p a c e d' properly"
+                        ))
+
+        return errors
+
+
 def process_file(path):
     # Parse it
     parsed_file = ParsedFile(path)
@@ -156,6 +210,8 @@ def process_file(path):
         LintAmericanSpelling(),
         LintUnclosedQuotes(),
         LintDanglingCommas(),
+        LintVerbotenUnicode(),
+        LintUnspacedRuby(),
     ]
 
     lint_results = []
