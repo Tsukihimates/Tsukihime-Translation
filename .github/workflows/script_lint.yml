@@ -4,10 +4,7 @@ jobs:
   Script-Lint:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository code
+      - name: Checkout
         uses: actions/checkout@v2
-      - run: echo "Checked out ${{ github.repository }}"
-      - name: List files in the repository
-        run: |
-          cd ${{ github.workspace }}/script/1_0_2current_en_script && ./script_lint.py
-      - run: echo "Status is ${{ job.status }}."
+      - name: Lint
+        run: cd ${{ github.workspace }}/script/1_0_2current_en_script && ./script_lint.py
