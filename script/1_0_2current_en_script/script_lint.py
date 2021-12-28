@@ -130,7 +130,8 @@ class LintUnclosedQuotes:
         # For each page, just do a dumb check that the quote count is matched
         errors = []
         for page in parsed_file:
-            quote_count = len([c for c in ''.join(page) if c == '"'])
+            raw_text = [line.split('//')[0] for line in page]
+            quote_count = len([c for c in ''.join(raw_text) if c == '"'])
             if quote_count & 1:
                 errors.append(LintResult(
                     self.__class__.__name__,
@@ -155,12 +156,13 @@ class LintDanglingCommas:
             last_line = page[-1]
             if parsed_file.ignore_linter(self.__class__.__name__, last_line):
                 continue
-            if last_line.endswith(",") or last_line.endswith(",\""):
+            last_line_text = last_line.split('//')[0]
+            if last_line_text.endswith(",") or last_line_text.endswith(",\""):
                 errors.append(LintResult(
                     self.__class__.__name__,
                     parsed_file,
                     page[0],
-                    last_line,
+                    last_line_text,
                     "Final line ends in trailing ',', replace with CJK dashes '―――'"
                 ))
 
@@ -243,6 +245,9 @@ def process_file(path):
 
 
 def report_results(lint_results):
+    if not lint_results:
+        return
+
     for result in lint_results:
         indent = "\t" if result.line[0] != '\t' else ""
         print(
