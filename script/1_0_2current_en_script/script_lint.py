@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import re
 import os
+import sys
 
 
 class Color:
@@ -269,6 +270,7 @@ def main():
                 lint_results += process_file(os.path.join(root, name))
 
     report_results(lint_results)
+    sys.exit(1 if lint_results else 0)
 
 
 if __name__ == '__main__':

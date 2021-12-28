@@ -1,0 +1,10 @@
+name: Script Linter
+on: [push]
+jobs:
+  Script-Lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Lint
+        run: cd ${{ github.workspace }}/script/1_0_2current_en_script && ./script_lint.py
