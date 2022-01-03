@@ -8,7 +8,7 @@ Though I absolutely cannot tell her the truth, I can at at least apologize hones
 "―――Alright, let's go."
 Taking a deep breath, I open the door to the living room.
 <Page4>
-"Good morning,# Nii-san.#It's strange, but I feel as though it's been quite some time since I last saw you." //Trailing space required at end so the glue parses, but there is a forced line break after Nii-san so no space there. This actally gets injected badly by the current version of deepLuna due to how glue is implemented. Will be fixed. 不思議と、ずいぶん久しぶりな気がしますね
+"Good morning,# Nii-san.#It's strange, but I feel as though it's been quite some time since I last saw you."# //Trailing space required at end so the glue parses, but there is a forced line break after Nii-san so no space there. This actally gets injected badly by the current version of deepLuna due to how glue is implemented. Will be fixed. 不思議と、ずいぶん久しぶりな気がしますね
 No, well... isn't my little sister a bit too overpowering?
 <Page5>
 "Y-Yo. Morning, Akiha."
@@ -21,7 +21,7 @@ She must be. I'm like a deer caught in the headlights.//Not entirely sure what �
 Perhaps it would be a good idea to just respond with an appropriate greeting and then retreat.//やっぱりこのまま適当に挨拶をして撤退するのが良策なのか。
 <Page7>
 "―――Nii-san?"
-"Y, yeah, I'll take a seat right away!"
+"Y-Yeah, I'll take a seat right away!"
 <Page8>
 A single glare from Akiha was enough to dash my naive thoughts of escape.//逃げよう、なんて甘い考えは秋葉のひと睨みで霧散した。
 I sit down on the sofa slowly, holding back the pain in my left leg.
@@ -32,9 +32,9 @@ I sit down on the sofa slowly, holding back the pain in my left leg.
 "Why would it be unfair?"
 "Of course it's unfair. If you make that face at me, I'll let my guard do――――#Ahem."//卑怯でしょう。そんな顔をされたら気が緩―――コホン
 <Page11>
-After stopping her statement with a cough, Akiha glares at me with an even sharper gaze than before.
+After truncating her statement with a cough, Akiha glares at me with an even sharper gaze than before.
 <Page12>
-"Nii-san. I know this is sudden, but would you mind elucidating for me precisely what you have been up to these past two days?"//兄さん。早速ですが、一昨日と昨日のお話を聞かせていただけませんか
+"Nii-san. I know this is sudden, but would you mind elucidating for me precisely what you have been up to both yesterday and the day before?"//兄さん。早速ですが、一昨日と昨日のお話を聞かせていただけませんか
 <Page13>
 As she eloquently makes her remarks, Akiha picks up her teacup.//優雅に言いつつ、ティーカップを手に取る秋葉。
 Though her sentence may have ended with a question, there's no mistaking the fact that it is actually an order.//聞かせていただけませんか、などと言っているものの、間違いなく命令だ。
@@ -70,7 +70,7 @@ There's no way I can let her hear such a tale.
 "...No matter how many times you ask, I still cannot tell you.
 It was wrong of me to cause you needless worry. I also apologise for not getting in touch. But even so, there are some things that I cannot talk about."
 <Page22>
-"So you say that you feel bad, and yet you won't say anything, Nii-san.
+"So you claim that you feel bad, and yet you won't say anything, Nii-san.
 Do you not even have an excuse?"
 <Page23>
 "...No, well..."
