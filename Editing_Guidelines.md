@@ -68,7 +68,9 @@ Here are some general specificities for other characters
 
 ## Contractions
 
-Depending on the situation, we will use contractions ("I'll", "They're", etc.) for the following characters:
+All characters use contractions. However, the frequency of use and general
+'tone' of each character is different. The following characters may be more
+prone to casual speech:
 
 - Shiki
 - Arcueid
@@ -78,7 +80,7 @@ Depending on the situation, we will use contractions ("I'll", "They're", etc.) f
 - Satsuki
 - All other students and teachers
 
-We will not likely use such contractions for the following characters:
+Whereas these characters may tend to speak more formally:
 
 - Akiha
 - Hisui
