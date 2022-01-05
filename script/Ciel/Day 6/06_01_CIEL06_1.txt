@@ -1,7 +1,6 @@
 [606c8921f179a1a6b6b1326ba892b4944250db21]{
 -- Page 1, Offset 13150.
 -- 柔らかな陽射しが眠りを払っていく。
-// A large part of this file is the same as the Arc side version. I've sync my version with Tumbling's version. When it differs, it should *normally* indicate that there's a real difference between the two.
 The gentle rays of the sun dispel my sleepiness.
 }
 [9791eb49d3d095d6792cc8ee2df01d8286a392ed]{
@@ -17,8 +16,7 @@ The air is just cold enough to push me to wake up.
 [b0001e3c3171a02f8705aad31acdac12c3fc83bd]{
 -- Page 1, Offset 13153.
 -- どうやら今日は、これ以上ないほど晴れ上がった空のようだ。
-// どうやら
-The sky seems to be the clearest it's ever been today.
+Somehow, it feels like the sky today is clearer than it's ever been.
 }
 [6f4112ccd7b3c3b539371ded6d965a4d3d6bc60d]{
 -- Page 2, Offset 13154.
@@ -44,19 +42,19 @@ I open my eyes to a room of the Tohno mansion.
 [d60c7b1ae3d22b9580e1496ab14eb718463a78ee]{
 -- Page 3, Offset 13158.
 -- 条件反射で眼鏡をかけ、視線を泳がせる。
-I put on my glasses by reflex and let my gaze wander around.
+Acting on autopilot, I put them on and let my gaze wander.
 }
 [f4e31a48126e12343a0e703a8aea51334a7be7ae]{
 -- Page 3, Offset 13159. Mods: @n.
 -- 深呼吸をして新鮮な空気を
-// Another strange #
-I take a deep breath and take in
+I take a deep breath
 }
 [6074b61588eb85f1467133c7b9df56e2dc378d17]{
 -- Page 3, Offset 13160. Glued.
 -- とりこむ。
-// Another strange #
- the fresh air.
+// とりこむ promoted to savor
+// Leading space due to glue
+ and savor the fresh air.
 }
 [ef6564413970bc05d0559a9bebf80b2217459a46]{
 -- Page 4, Offset 13161.
@@ -66,7 +64,7 @@ The hands of the clock make a ticking sound.
 [3072881d5d4dc02049bc51af67b26fac194fae5b]{
 -- Page 4, Offset 13162.
 -- 外からは小鳥の鳴き声が聞こえてくる。
-I can hear the birds chirping outside.
+I can hear little birds chirping outside.
 }
 [7b834fa26b0f52281503162406d9edea449d13f8]{
 -- Page 4, Offset 13163.
@@ -97,7 +95,8 @@ I've seen such abnormal things, and such a horrible hell, but I can feel that th
 [dd9f8aded9b2bfbaf6dd7036514c4e22ab85eb25]{
 -- Page 6, Offset 13168.
 -- ちっぽけな人間にとって、それはこの上ない報酬と―――
-There is no greater reward for a small person like me―――
+// I don't think ちっぽけな人間 is _literal_ here.
+There is no greater reward for an insignificant person such as myself―――
 }
 [6fd03902d270dc64fb9d031eca37447cd6ffd244]{
 -- Page 7, Offset 13169. Mods: @n.
@@ -112,28 +111,28 @@ There is no greater reward for a small person like me―――
 [968f796042ad67a19e949d1b284fdfd856c29a7c]{
 -- Page 7, Offset 13171.
 -- 「うわああああ！」
-"Uwaaaaah!"
+"UWAAAAAAH!"
 }
 [921d7ad03ca3d02ca063fdb60aef17885b4a4c52]{
 -- Page 8, Offset 13172.
 -- 思わず上半身が跳ねあがる。
-// I unconsciously jolt and find myself sitting up on the bed
-My upper body jumped up before I realized it.
+I reflexively snap bolt upright.
 }
 [e7161f491b87a040ab59f316dd7750e9f127e9b4]{
 -- Page 8, Offset 13173.
 -- 見れば、ドアの前には翡翠が控えていた。
-I look over and see Hisui standing by the door.
+// 控える seems a bit more 'in readiness' than just plain stand
+I look over, and see Hisui standing at attention in front of the door.
 }
 [6ec2bd9cd5db367c89049073e0ca7fea84298bcd]{
 -- Page 9, Offset 13174.
 -- 「ひ、翡翠―――」
-"H-Hisui—————"
+"H-Hisui―――"
 }
 [07be82f2edb2fd8a61738098c86dae8ec0cce1df]{
 -- Page 9, Offset 13175.
 -- 「……申し訳ありません。
-"...My deepest apologies, Shiki-sama.
+"...My sincerest apologies.
 }
 [3ac2d4ed81de3e729bfc00defef4eb3be5f18c2b]{
 -- Page 9, Offset 13176.
@@ -148,8 +147,8 @@ It seemed that you were rather unaware of my presence, so I decided to call out 
 [539e3cf0129db387b00028645db64c19fb87b74e]{
 -- Page 10, Offset 13178.
 -- びっくりした。
-// I would say That surprised me.
-I'm surprised.
+// Past tense. びっくりした。
+She startled me.
 }
 [1edc5d3448c98fae6772c5ba70256e6e3ecd9b2e]{
 -- Page 10, Offset 13179.
@@ -169,17 +168,17 @@ My heart is still thumbing...
 [97f016c43c598bb59580f19b5c40268fd21366f5]{
 -- Page 11, Offset 13182.
 -- 「だよね。じゃあ翡翠は何をしに来たんだ？」
-"I guess so. So what brings you all the way here, Hisui?"
+"I guess so. What brings you all the way here then, Hisui?"
 }
 [7df496570c4dfd3c1c7b941a4856a70cceb2555b]{
 -- Page 12, Offset 13183.
 -- 「志貴さまを起こしにまいりました。
-"I have come here to wake you up.
+"I came to wake you up.
 }
 [8473e4bf82694058d4685fb360786260b40313d1]{
 -- Page 12, Offset 13184.
 -- 秋葉さまから、ここ二日間の事情を説明してもらいますので、テコを使ってでも連れて来るように、と言付かっております」
-I received orders from Akiha-sama to bring you to explain the situation of the past two days, even as far as using force if necessary."
+Akiha-sama wishes for you to explain to her what you have been up to these past two days, and has instructed me to bring you before her by any means necessary."
 }
 [2932dc7ba7aedc503cd03508abe3a28f25920688]{
 -- Page 13, Offset 13185.
@@ -199,7 +198,7 @@ Those three cryptic words fly around inside my brain.
 [746c752290f83469905518de92815163c2d9d502]{
 -- Page 14, Offset 13188.
 -- 思考を放棄したい誘惑に耐えながら、察すること10秒。
-I take ten seconds to think as I resist the temptation to abandon my thoughts.
+Resisting the temptation to abandon the train of thought, I take 10 seconds to piece things together.
 }
 [8d39d8369ea04082a441a2c956f9f0981fc07319]{
 -- Page 14, Offset 13189.
@@ -209,7 +208,7 @@ I take ten seconds to think as I resist the temptation to abandon my thoughts.
 [fd15df4d87827f0b3bd0467eb9f60b32cebde3af]{
 -- Page 14, Offset 13190.
 -- 夕暮れ前に帰らなかっただけでアレな秋葉である。アイツがいまどんな顔をしているのか、恐ろしくて想像もできない。
-Akiha is scary enough when I don't come home before dusk. I can't even imagine what kind of face she's making right now.
+Akiha is scary enough when I don't come home before dusk. I shudder to think what kind of face she's making right now.
 }
 [27937e420c451848df02430ca3a97af40a2dd488]{
 -- Page 15, Offset 13191.
@@ -234,22 +233,22 @@ What's the wall? The fact that I can't thing up of an excuse to convince Akiha a
 [dbf5964430e1983711d998c5bec4b96fbeb2d322]{
 -- Page 16, Offset 13195.
 -- 控えめに言って、秋葉のヤツ、怒ってる……？」
-To put it mildly, is Akiha, mad at me...?"
+Would it be an exaggeration to say that Akika is angry...?"
 }
 [db2fe1e03ef43d14fafb3b1e81601a29c09f26cc]{
 -- Page 17, Offset 13196.
 -- 「さあ、どうでしょうか。
-"That I wonder.
+"Hmm, who's to say.
 }
 [7e8b6cd6d020fb5232e18e3051c951f10f055849]{
 -- Page 17, Offset 13197.
 -- それは志貴さまが直にお確かめください」
-You will have to find out for yourself, Shiki-sama."
+You will have to find that out for yourself, Shiki-sama."
 }
 [8d4d5a78d543ab048b244526c85c7de38e4d29ec]{
 -- Page 18, Offset 13198.
 -- よし。心なしか、翡翠の声もさりげなく冷たかった。
-Okay. It seems that Hisui's voice is also somewhat cold for whatever reason.
+Okay. Hisui's tone also comes off as somewhat cold and dispassionate.
 }
 [d9aedf22fbe721110aeb365b34ed3bc9a324bb2f]{
 -- Page 18, Offset 13199.
@@ -260,12 +259,12 @@ It it was going to be like this, I should have returned even if I had to crawl�
 [afe32248c5f5bf8541c6a32043ff017b63e58afa]{
 -- Page 19, Offset 13200.
 -- 「いや、ちょっと待った。
-"No, wait a minute.
+"Wait, hold up.
 }
 [9c541dd3423358a87750d92e3689453c0369b8f9]{
 -- Page 19, Offset 13201.
 -- それ以前に、なんで部屋で眠ってるんだ、俺……？」
-Before that, why was I asleep in my room, did I...?"
+Before that, why was I asleep in my room...?"
 }
 [1e75860c5dd77a3139095ac0f889cc309187f026]{
 -- Page 20, Offset 13202.
@@ -360,8 +359,7 @@ A-Ah, right... Even if Hisui and Kohaku back me up, what's done is done and won'
 [9c54892e29632dbf396c30200753ae8f99f5612a]{
 -- Page 28, Offset 13220.
 -- いつまでもベッドにいては始まらない。
-// There's no point in staying in bed forever.
-I can't begin by staying in bed forever.
+It's no use staying in bed forever.
 }
 [946a7449945f80fd985fbd4a8e0969a524bca916]{
 -- Page 29, Offset 13221.
@@ -401,7 +399,7 @@ Every time I move, my skin tenses up, and I feel a pain like my flesh is slowly 
 [506e102ee879cf2b8572dc95f1f0af4051aee2d2]{
 -- Page 31, Offset 13228.
 -- あれだけの無茶をしておいて、こうして朝を迎えられる事自体が不自然だというのに。
-After doing all those crazy things, it would be unnatural for me to be greeted by the morning like this.
+After doing all those crazy things, of course it would be unnatural for me to be able to enjoy the simple act of cherishing a morning like this.
 }
 [b849b1b95a5830565a3ea02b3e007287ea32a018]{
 -- Page 32, Offset 13229.
@@ -422,7 +420,7 @@ After doing all those crazy things, it would be unnatural for me to be greeted b
 [20ad404af83113d4c0a76b41d5823ca8230f6f3f]{
 -- Page 33, Offset 13232.
 -- 深々とお辞儀をして翡翠は退室した。
-Hisui deeply bows and leaves the room.
+Hisui bows deeply and leaves the room.
 }
 [15ec76169cf747eadc82f4af7556d20005f882cb]{
 -- Page 33, Offset 13233.
