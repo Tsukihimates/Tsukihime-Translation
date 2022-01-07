@@ -1,7 +1,6 @@
 [728e30ba31402b1375c820482b48ce85a6f8cb91]{
 -- Page 10003, Offset 16851. Mods: @n.
 -- 一日の授業が終わり、放課後になった
-// space is intentional, bad line fix
 The day of classes comes to an end.
 }
 [dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
@@ -12,12 +11,12 @@ The day of classes comes to an end.
 [ead963addf41d6923df6455e1cce5e6c27e95ce2]{
 -- Page 10003, Offset 16853.
 -- いや、いつのまにか放課後になっていた、と言うべきだ。
-No, to be precise, it came to an end before I even realized it.
+No, it's more like it came to an end before I even realized it.
 }
 [b2798f52f1dd2a1ff40642c79b3a9042e7a34130]{
 -- Page 10003, Offset 16854.
 -- 悪い考えばかりが頭の中を巡って、気がつけば教室には誰もいなくなっていた。
-My mind was concerned with the negative thoughts that filled my head, and the next thing I knew, there wasn't a single soul in the classroom.
+My mind was preoccupied by the negative thoughts that filled my head, and the next thing I knew, I was alone in the classroom.
 }
 [c6bd6ec7b516b24b0d2e0c9a2ebd5f4b25367d1b]{
 -- Page 113, Offset 16855.
@@ -27,7 +26,7 @@ My mind was concerned with the negative thoughts that filled my head, and the ne
 [a20d8ef0533decc2bfc9b21deb0c8e5523f5455d]{
 -- Page 113, Offset 16856.
 -- それがどういう意味なのか、本来なら考えるまでもない。
-There is no need to think about the meaning behind those words under normal circumstances.
+Normally, there would be no need to think about the meaning behind those words.
 }
 [11c1a7deb6a7208bd98c16b6dfdee1ca326125e9]{
 -- Page 113, Offset 16857.
@@ -42,12 +41,12 @@ But I recall her saying something.
 [32365307c5a86d90c050bab54f65b8f26a2863eb]{
 -- Page 113, Offset 16859.
 -- 俺にはあの言葉が嘘とはどうしても思えない。
-I can't bring myself to call what she said a lie.
+I can't bring myself to believe she was lying.
 }
 [5dcf5ecde19ebfbf49a05bf16d8100167d8c294b]{
 -- Page 114, Offset 16860.
 -- 「……ニュースが間違いなのか、それとも―――」
-"...Perhaps the news report got it wrong. Or maybe―――"
+"...Perhaps the news got it wrong. Or maybe―――"
 }
 [9904a07fc38a7e19ba896ee690bebf69fb204206]{
 -- Page 114, Offset 16861.
@@ -57,12 +56,12 @@ The only one who knows the answer to that is Arcueid herself.
 [5323fe68c6083e6a3fedcc634deeb3e800322f53]{
 -- Page 114, Offset 16862.
 -- あいつを探し出して、もう一度出会えれば、きっとすべてが氷解するだろう。
-If I can track her down and see her again, I'm sure that everything will become clear.
+If I can track her down and see her once more, I'm sure that everything will be cleared up.
 }
 [0091850ac31913e79780a1d3d3544fede12e63d7]{
 -- Page 115, Offset 16863.
 -- ……だからこそ、俺には自分が分からない。
-...And that's why I'm so unsure about myself.
+...And that's why I don't understand myself.
 }
 [7f9f7b7f8b88fda83f9ccc75bfae500037bfbc94]{
 -- Page 115, Offset 16864.
@@ -72,22 +71,23 @@ I have nothing to do with those incidents anymore.
 [7ca172afd97da06366af3e09f1fb1a6decdde09a]{
 -- Page 116, Offset 16865.
 -- 俺はヴローヴと決着をつけた時点で日常に戻ってきた。
-My life returned back to normal the moment I settled the score with Vlov.
+My life returned to normal the moment I settled the score with Vlov.
 }
 [0818345502e0115dfb44b7518b37aaa038d70244]{
 -- Page 116, Offset 16866.
 -- 責任は果たした。果たした筈だ。
-I fulfilled my duty. I should have.
+// 果たした筈だ。 Not sure how to word in English properly
+I fulfilled my duty. At least I should have.
 }
 [593ff98cf76c97bc230b68135668d55f2ccf2ca9]{
 -- Page 116, Offset 16867.
 -- だから理由がない。好きこのんで、あんな異常な世界に踏み入る理由がない。
-That's why there's no reason. No reason to go out of my way to step into such an abnormal world.
+That's why there's no reason. No reason to go out of my way to set foot into such an abnormal world.
 }
 [eca054a413b7085de0622cd96b189e3b267efcfe]{
 -- Page 116, Offset 16868.
 -- 俺はこのまま、何も気づかなかったふりをして、何も考えずに帰路についていい筈なんだ。
-That's why it's better for me to stay like this, pretend like nothing happened and go home without a thought on my mind.
+That's why it's better for me to stay like this, pretend nothing happened, and go home without thinking about anything.
 }
 [5e344857387d5de14112f144cdfa16d50efbfb98]{
 -- Page 117, Offset 16869.
@@ -97,12 +97,12 @@ I'll simply go home.
 [3033159958e5314b0976b4692debe1dc09b9a932]{
 -- Page 117, Offset 16870.
 -- それはきっと二番目ぐらいに正しい選択だ。
-That is certainly the second most correct choice.
+That would surely be the second best option.
 }
 [b7b316ea8dcc092acd4ac20f09d99639d04fc8b0]{
 -- Page 117, Offset 16871.
 -- けれど俺は、一番目にあたる選択を、ずっとむかしに教えられている。
-But a long time ago, I was taught about what was the most righteous choice.
+But a long time ago, I was taught about the most important one.
 }
 [5824aefd2d872362b240b310884691ef4ab937b8]{
 -- Page 118, Offset 16872.
@@ -117,6 +117,7 @@ But a long time ago, I was taught about what was the most righteous choice.
 [2446bf2f4bb36c26c8241ea13aa4992c468b968f]{
 -- Page 119, Offset 16874.
 -- 何もしないって選択だけは、しちゃいけない」
+// 何もしないって選択だけは、しちゃいけない」
 There's no way I can just sit back and watch."
 }
 [b8fbaf43eb78c5bd5cd8a1e15822de4092cec2c2]{
@@ -132,7 +133,7 @@ I lived my life through those words.
 [67cc99aa850990a1b57d960aab22d02ffd030741]{
 -- Page 120, Offset 16877.
 -- なら、このまま見て見ぬふりは出来ない。
-That's why I cannot stand by and turn a blind eye.
+That's why I can't just stand by and turn a blind eye.
 }
 [b966bb245b94f6dda1e438f28213c5ddfb1b86f3]{
 -- Page 121, Offset 16878.
@@ -142,7 +143,7 @@ That's why I cannot stand by and turn a blind eye.
 [6080d5bac2a654318502346ee547b484ace80fd1]{
 -- Page 121, Offset 16879.
 -- 一度関わってしまった以上、遠野志貴は最後まで、この厄介ごとから逃げられない運命にあるらしい―――
-It seems that once I get involved, it is my destiny to be caught up in such troublesome matters until the very end―――
+It seems like once I get involved, I'm destined to be caught up in such troublesome matters until the very end―――
 }
 [2599f28b53aa45563669ca2af335a6e260f8b347]{
 -- Page 122, Offset 16880.
@@ -152,7 +153,7 @@ I leave the school grounds.
 [ecc25769da1a511882047dd999b5d1f539eb9e49]{
 -- Page 122, Offset 16881.
 -- 手がかりは少ないが、俺にはあいつから預かったまま返せずにいた、マンションの鍵がある。
-I don't have much of a lead, but I still have the key to the apartment that she entrusted me with.
+I don't have much of a lead, but I still have the apartment key she entrusted me with.
 }
 [9161d4c75542f92badce2c4a527ec7bd621f4d6d]{
 -- Page 122, Offset 16882.
@@ -172,32 +173,35 @@ The apartment was the same as before, but Arcueid was nowhere to be found.
 [94bb40b12623a56c752f8e5cb353d5d9acf5bac1]{
 -- Page 123, Offset 16885.
 -- 少なくともあいつの痕跡はここにある。煙のように何もかも消えた訳ではない事に、ほっと胸を撫で下ろした。
-At the very least, I can feel traces of her in this room. I feel a sense of relief knowing that everything hadn't gone up in smoke.
+// I think "gone up in smoke" implies something else, though it still fits.
+At the very least, the traces of her presence are still in this room. I feel a sense of relief knowing that everything hasn't vanished like smoke.
 }
 [d09cc04177c2d9c6a1b03e18b006ef2bfe32cdbd]{
 -- Page 124, Offset 16886.
 -- 「いいさ、そう簡単に捕まえられるなんて思ってない。
-"Listen up. Finding her is not going to be that easy.
+"It's fine. Finding her isn't going to be that easy.
 }
 [161a8fc12327777f3ea19247361e5b7410f51176]{
 -- Page 124, Offset 16887.
 -- とにかく、今は行動あるのみだ」
-In any case, I have to act now."
+// とにかく、今は行動あるのみだ」Recheck please
+In any case, all I can do now is just get moving."
 }
 [40bb166ab2edc15dc7de8e5094d9bd9675198448]{
 -- Page 125, Offset 16888.
 -- ここで待っていてもあいつが帰ってくる保証はない。
-There's no guarantee that she will return even if I wait here.
+There's no guarantee that she'll come back even if I wait here.
 }
 [88a828f9a7d477cb4c9407bf08d11fda1b470cc2]{
 -- Page 125, Offset 16889.
 -- ……その、初めてあいつを見かけた時のように、街に出て手当たりしだいに探すしかないだろう。
-...I have no choice but to go out to the city and search for her at random, just like the time that I first met her.
+...I have no choice but to go out to the city and search for her at random, just like the time I first met her.
 }
 [c4c7450dc4ebe61dc0c0e0e5ff71ce98179624b6]{
 -- Page 126, Offset 16890. Mods: @n.
 -- 日が沈んで、街は本格的に夜の顔に変わっていく
-As the sun sets, the city changes into its true night colors
+// 街は本格的に夜の顔に変わっていく
+As the sun sets, the city completely changes into its evening appearance
 }
 [dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 126, Offset 16891. Glued.
@@ -207,12 +211,13 @@ As the sun sets, the city changes into its true night colors
 [b2aaf7a3f657ccd2657a5e505bd678e4b21405f5]{
 -- Page 126, Offset 16892.
 -- おもだったところを探し回ってはみたものの、アルクェイドの姿は片鱗さえ見つからなかった。
-Although I looked around the most prominent areas, I wasn't able to catch even a glimpse of Arcueid.
+Although I looked around the most prominent areas, Arcueid was nowhere to be found.
 }
 [a675d636684424a133632fbf2198ed9fb5dd8174]{
 -- Page 127, Offset 16893.
 -- 「……どうでもいい時はひょこひょこ歩いてたクセに、どうしてこういう時に見つからないんだ、あいつは」
-"...Even though you stroll around so buoyantly whenever you feel like it, why can't I find you at a time like this?"
+// ひょこひょこ歩いてたクセに
+"...Even though you stroll around so clumsily whenever you feel like it, why can't I find you when it actually matters?"
 }
 [7a9dcb4842073659fe6de1c300518860e821e2ae]{
 -- Page 128, Offset 16894.
@@ -222,15 +227,15 @@ Although I looked around the most prominent areas, I wasn't able to catch even a
 [69562d7237feda0bc6bafc2d77c3c4b36848a315]{
 -- Page 128, Offset 16895. Mods: @k, @e.
 -- 夜はまだ始まったばかりだし、ここは―――
-The night had just barely begun. I should―――
+The night has just begun. I should―――
 }
 [8029f80b169796c4745bc555a441363c03623a78]{
 -- Page 130, Offset 42635. Choice.
 -- いったん屋敷に戻って整理しよう。
-Return to the mansion for a bit and reassess the situation.
+Return to the mansion and reassess the situation.
 }
 [056d9afee7598989cc23923812a064a2c5588f2a]{
 -- Page 130, Offset 42636. Choice.
 -- いや、諦めずに街を回ろう。
-No, I'll keep searching the city.
+No, I should keep searching the city.
 }
