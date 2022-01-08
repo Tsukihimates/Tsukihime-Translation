@@ -12,7 +12,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: Hakanaou/deepLuna
-          ref: v4.4
+          ref: v4.5
           path: deepluna
       - name: Lint
         run: ${{ github.workspace }}/deepluna/luna_linter.py --db-path ${{ github.workspace }}/translation/luna_db.json --script-path ${{ github.workspace }}/translation/script/
