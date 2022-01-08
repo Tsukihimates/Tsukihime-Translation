@@ -6,7 +6,7 @@ I'll have Dr. Arach take care of me.
 [084713f4f8a02b935ce999674c1664f21950e371]{
 -- Page 10008, Offset 14433.
 -- いまだにどんな人物なのか不明だが、白衣を着ている以上、お医者さんであるのは確かなんだし。
-I still don't know what kind of person she is, but since she wears a white coat, I'm pretty sure that she's a doctor.
+I still don't know what kind of person she is, but since she wears a white lab coat, I'm pretty sure that she's a doctor.
 }
 [f37aca9eb1a0bf5524425580a706b119726f3dbf]{
 -- Page 217, Offset 14434.
@@ -16,17 +16,17 @@ I still don't know what kind of person she is, but since she wears a white coat,
 [b430abdcfccc97ee5656a1aceb1c1c1c189cb459]{
 -- Page 217, Offset 14435.
 -- 阿良句先生は予想のつかない方ですが、医師としての腕は確かです。ここで暮らすのなら頻繁に会う人ですし、これを機に親睦を深めてください」
-Dr. Arach is an unpredictable person, but there is no doubt about her skills as a doctor. You will be seeing her often during your stay here, so please use this opportunity to get to know her better."
+Dr. Arach may be somewhat unpredictable, but there's no denying her skills as a doctor. You'll run into her fairly frequently now that you live here, so please make use of this opportunity to get to know her better.
 }
 [8851614032f8b206278abf91ad3a567e4c7137cf]{
 -- Page 218, Offset 14436.
 -- 淡々とした秋葉の声。
-Akiha's voice was plain and unconcerned.
+Akiha's voice was matter-of-fact.
 }
 [45360b8191ed1833b4f0043e7de9e96fd68721ee]{
 -- Page 218, Offset 14437.
 -- 連絡事項を伝えるような簡潔さだ。
-It was the kind of simplicity similar to a person delivering a message.
+It was as though she were simply delivering a message.
 }
 [11ea1ebdad61867797537439434201effb9d2ecd]{
 -- Page 218, Offset 14438.
@@ -36,22 +36,23 @@ It was the kind of simplicity similar to a person delivering a message.
 [f6e56bede459f5d14fa1220a06498b66cda5c33b]{
 -- Page 218, Offset 14439. Mods: @n.
 -- とりあえずは朝食、その後は診察を受けるとしよう。
-My first priority is breakfast, and then once that's dealt with I'll go and get myself looked at.
+My first priority is breakfast, but once that's dealt with I'll go and get myself looked at.
 }
 [29ec4acc78936db26bd933dcd524a9fbccdeca67]{
 -- Page 219, Offset 14440.
 -- 自室で文庫本などを読みつつ時間を潰す。
-I pass the time in my room by doing things like reading a paperback book.
+I pass the time in my room by idly leafing through some paperbacks.
 }
 [96caabacbf8d7a827237c0902dbf1aa072d299f1]{
 -- Page 219, Offset 14441.
 -- 午前10時にさしかかった頃、窓越しに廊下を闊歩する白衣が目に入った。
-Right as it's about to reach 10 AM, I catch a glimpse of a white coat strolling down the hallway through the window.
+// A little bit of reordering here to make parsing more clear
+A little before 10AM, I look out the window and catch sight of a figure in a white lab coat strutting down the hallway.
 }
 [45d6613866cffaec262b6b6b39d485c5548530ba]{
 -- Page 219, Offset 14442.
 -- きたな、と本をしまう。
-I put my book away, realizing that she was finally here.
+Looks like she's here, so I put down the book I was reading.
 }
 [05323e9aafc28fa71cd331892acdc91dd9a00b9d]{
 -- Page 219, Offset 14443.
@@ -66,47 +67,67 @@ At the same time―――
 [c633a41078b07a5d6ad59b4896839c95f1a321a1]{
 -- Page 220, Offset 14445. Mods: @k, @e.
 -- 朝からカラダをいじってほしいとかぁ、
-So you want me to play with your body first thing in the morning?
+So you want to play with my body first thing in the morning?
 }
 [92cdecc5cfa817fe4b675499cf299302602e397d]{
 -- Page 220, Offset 14446. Glued. Mods: @x, @k, @e.
 -- 志貴チャンったら超インラーンーーー！
-Shiki-chan, so leeewd!
+// Leading space for glue
+ Shiki-chan, so leeewd!
 }
 [fac05c390222ab161f6f2bfeeea111d97e3ce5b3]{
 -- Page 220, Offset 14447. Glued. Mods: @x.
 -- アタシ、シチューみたいにたぎった思春期少年病の餌食になっちゃうのかしらぁん！」
-I must be falling prey to the overflowing stew-like juvenile puberty disease!"
+// Leading space for glue
+// My interpretation of this is more
+// "Am I, Arach, going to fall prey to Shiki, who is in the throes of pubescence"
+// then what it was before, which seemed to be more along the lines of
+// "Am I, Arach, going to fall prey to a disease that makes me hot for pubescent young men"
+// A little liberty taken with this sentence because... Arach
+// 病 used as the inspiration for fugue, minor context spirited so that the stew doesn't sound so damn dumb
+ I wonder, am I nothing but a plaything to you, overcome as you are by a fugue of pubescent desires bubbling away like stew on the stove?
 }
 [413f683ee71e961653994a66b3e5f46cf6c521d7]{
 -- Page 221, Offset 14448.
 -- ノックもなしで、派手なバッグ片手に酔っ払いが入って来た。
-Without even knocking, a drunken person walks inside with a fancy bag in hand.
+// 酔っ払 -> lunatic, she's definitely just like this
+Without even knocking, this raving lunatic barges into my room, gaudy bag in hand.
 }
 [e9c056eaf720cc783a594c5b8021f1c15e7a0671]{
 -- Page 221, Offset 14449.
 -- 今さらながら琥珀さんを選ばなかった事を後悔する。
-I regret that I didn't choose Kohaku-san this time.
+I wish I had asked for Kohaku-san instead.
 }
 [84b60af66d1ed16b157f173941d41fabeb99cf4e]{
 -- Page 222, Offset 14450.
 -- 「すみません。どうも頼む人を間違えたみたいなんで、帰ってもらっていいですか？」
-"I'm sorry. It seems that I asked for the wrong person, so can I ask you to leave?"
+"I'm terribly sorry. It seems that I chose the wrong person to ask for help, so can I ask you to leave?"
 }
 [5e4b89908f014976c4445f386dc4ce98298d0bf3]{
 -- Page 222, Offset 14451.
 -- 「ああん、ウソウソ、かぎりなく本気だけどジョウダンよぅ。外来の診察なんて久しぶりだから、患者さんとの距離感掴めなくてぇ。フランクな挨拶のほうがいいかなぁー？　って気を遣ってみたのよぅ」
-"Aah, just kidding, it was a joke but I'm totally serious. It's been a while since I got to examine an outside patient, so I wasn't sure how close I should be. I was contemplating on whether it would be better to use a more frank greeting, you know."
+// 'かぎりなく本気だけどジョウダンよぅ' - is this
+// a) "I'm totally serious, that was just a joke" [elected] or
+// b) "I was totally serious in the moment, but it's actually just a joke"
+"Aah, kidding, kidding, it was just a joke, honest.
+ It's been a while since I've examined anyone from outside the mansion, so I wasn't sure how familiar to be with my new patient.
+ I was thinking about what might suit you, and figured a frank greeting might be best, you know?"
 }
 [cf51a07cb24b2ac218578646527a09d37a295ce9]{
 -- Page 223, Offset 14452.
 -- などと言いながら、阿良句氏は既にベッドまで歩み寄っていた。派手なモデル歩き……胸とか腰とか必要以上にくねらせている……にも拘わらず、足音ひとつたてない、忍者の如き忍び足である。
-As she continues to ramble, Dr. Arach has already walked all the way to the bed. That flashy model-like stride... Her chest and hips swing more than necessary... But despite this, not a single footstep can be heard, like a ninja stealthily moving along.
+// モデル歩 liberalized somewhat to catwalk phrase.
+Dr. Arach has already made her way over to the bed, babbling all the while.
+ That flashy strut, as though she's headed down the catwalk...
+ Her chest and hips swaying far more than is necessary...
+ And yet, I can't make out the sound of her footsteps at all. She has the soft and stealthy footwork of a ninja.
 }
 [f2878b858a2e9a8e7e21c0cffb8a8cd5f185211a]{
 -- Page 224, Offset 14453.
 -- 以前はこれでもかとヒールを鳴らしていたものだが、今回は診察だし、少しは真面目になってくれているのだろうか？
-Normally I would expect her to make a loud sound with her heels, but since this is a medical examination, maybe she has decided to take it a little more seriously.
+// Is これでもかと a truncation of 'これでもかと言うほど'?
+She'd been loudly clattering around in some high heels earlier.
+ I suppose that for the medical exam she opted to change into something a bit more appropriate.
 }
 [3a91ee246dd4d8cc184c68e26bf5822cd3eea044]{
 -- Page 225, Offset 14454.
