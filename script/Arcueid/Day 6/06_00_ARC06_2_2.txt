@@ -11,7 +11,8 @@ I still don't know what kind of person she is, but since she wears a white lab c
 [f37aca9eb1a0bf5524425580a706b119726f3dbf]{
 -- Page 217, Offset 14434.
 -- 「わかりました。阿良句先生には私から伝えておきますので、後は自室で待機していてください。
-"Understood. I'll let Dr. Arach know that you're looking for her, so please wait in your room in the meantime.
+// Breakfast context carried over from 06_00_ARC06_2 as the thing that waiting comes 後
+"Understood. I'll let Dr. Arach know that you're looking for her, so please wait for her in your room once you are done with breakfast.
 }
 [b430abdcfccc97ee5656a1aceb1c1c1c189cb459]{
 -- Page 217, Offset 14435.
@@ -21,12 +22,13 @@ Dr. Arach may be somewhat unpredictable, but there's no denying her skills as a 
 [8851614032f8b206278abf91ad3a567e4c7137cf]{
 -- Page 218, Offset 14436.
 -- 淡々とした秋葉の声。
-Akiha's voice was matter-of-fact.
+// Keep things present-y tense
+Akiha's voice is matter-of-fact.
 }
 [45360b8191ed1833b4f0043e7de9e96fd68721ee]{
 -- Page 218, Offset 14437.
 -- 連絡事項を伝えるような簡潔さだ。
-It was as though she were simply delivering a message.
+It's as though she were simply delivering a message.
 }
 [11ea1ebdad61867797537439434201effb9d2ecd]{
 -- Page 218, Offset 14438.
@@ -47,7 +49,7 @@ I pass the time in my room by idly leafing through some paperbacks.
 -- Page 219, Offset 14441.
 -- 午前10時にさしかかった頃、窓越しに廊下を闊歩する白衣が目に入った。
 // A little bit of reordering here to make parsing more clear
-A little before 10AM, I look out the window and catch sight of a figure in a white lab coat strutting down the hallway.
+A little before 10 o'clock, I look out the window and catch sight of a figure in a white lab coat strutting down the hallway.
 }
 [45d6613866cffaec262b6b6b39d485c5548530ba]{
 -- Page 219, Offset 14442.
@@ -111,7 +113,7 @@ I wish I had asked for Kohaku-san instead.
 // b) "I was totally serious in the moment, but it's actually just a joke"
 "Aah, kidding, kidding, it was just a joke, honest.
  It's been a while since I've examined anyone from outside the mansion, so I wasn't sure how familiar to be with my new patient.
- I was thinking about what might suit you, and figured a frank greeting might be best, you know?"
+ I was thinking about what might suit you, and figured a frank greeting would be best, you know?"
 }
 [cf51a07cb24b2ac218578646527a09d37a295ce9]{
 -- Page 223, Offset 14452.
@@ -126,8 +128,10 @@ Dr. Arach has already made her way over to the bed, babbling all the while.
 -- Page 224, Offset 14453.
 -- 以前はこれでもかとヒールを鳴らしていたものだが、今回は診察だし、少しは真面目になってくれているのだろうか？
 // Is これでもかと a truncation of 'これでもかと言うほど'?
-She'd been loudly clattering around in some high heels earlier.
- I suppose that for the medical exam she opted to change into something a bit more appropriate.
+// Note that she is still _wearing_ heels, since she does make noise with
+// them near the end of 06_00_ARC06_2_2_123
+She'd been loudly clattering around in her high heels earlier.
+ I suppose that for the medical exam she opted to tone it down a notch.
 }
 [3a91ee246dd4d8cc184c68e26bf5822cd3eea044]{
 -- Page 225, Offset 14454.
@@ -302,7 +306,7 @@ She breaks the seal on a fresh pair of surgical gloves, dons them, then starts p
 -- Page 236, Offset 14483.
 -- 「一応、痛み止めイっとくわねぇ？　必要ないンだけどぉ、当主チャンから念入りにって頼まれちゃったしぃ？」
 // 当主チャン translated matriarch-chan elsewhere
-I'm going to give you some painkillers just in case, ok?
+I'm going to give you some painkillers just in case, okay?
  It's not strictly necessary, but matriarch-chan told me to be thorough, so here we go.
 }
 [2f43cb0870adc7dc6a3c3719b9ef58e6dece943b]{
@@ -341,7 +345,7 @@ It's on par with the care I received from the old man from the clinic, who took 
 -- Page 238, Offset 14490. Glued. Mods: @x.
 -- 志貴チャン、博士って呼んでくれたし？」
 // Leading space for glue
- Not to mention that Shiki-chan called me a professor."
+ Shiki-chan called me a professor after all."
 }
 [acde0b55ba9a0e7317e101d55d915d134e432b99]{
 -- Page 239, Offset 14491.
@@ -351,7 +355,7 @@ She seems to be over the moon about the fact that I called her 'professor'.
 [6e1dee1203851baf461755a9af989b1e61aea463]{
 -- Page 239, Offset 14492.
 -- ……この様子では、今まで秋葉たちに呼ばれた事はないのだろう。
-...Based on her reaction, I assume that Akiha and the others have never called her that before.
+...Based on her reaction, I assume that Akiha and the others have never referred to her that way before.
 }
 [c353ee0b7ca1d515cf0b891950f0a26a2d8d2dfd]{
 -- Page 240, Offset 14493.
