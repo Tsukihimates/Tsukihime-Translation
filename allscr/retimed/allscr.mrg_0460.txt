@@ -537,6 +537,7 @@ _STCC(23);
 _STCC(24);
 _FADS(1,0,0);
 _VPLY(A20_14_01A_0009_2,02bdf);
+_WKAD(F823,0);
 _WKST(C847,eq,0);
 _WKST(C859,eq,0);
 _WNTY(1);
