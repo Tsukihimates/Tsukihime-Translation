@@ -61,7 +61,6 @@ def process_script_file(audio_timing, scene_name_map,
     match = re.search(r".*/allscr.mrg_(\d+).txt", script_filename)
     scene_idx = int(match.group(1))
     scene_name = scene_name_map[scene_idx]
-    print(scene_name)
 
     # Load in the raw script
     file_data_raw = None
@@ -108,7 +107,6 @@ def process_script_file(audio_timing, scene_name_map,
         new_cmds = []
         for cmd in script_commands:
             if cmd.opcode.startswith('ZM'):
-                print(cmd)
                 cmd.arguments[0] = cmd.arguments[0].replace('^@n', '@n')
             new_cmds.append(cmd)
         script_commands = new_cmds
@@ -206,24 +204,23 @@ def patch_ke_x_block(timing_db, script_commands):
         if found_vplys:
             last_block_vply_len = timing_db[found_vplys[-1].arguments[0]]
 
-        # Delete any WKAD(F823)
-        block = [
-            c for c in block
-            if not (c.opcode == 'WKAD' and c.arguments[0] == 'F823')
-        ]
+        # Update the WKAD(F832,1) to WKAD(F832,0)
+        for cmd in block:
+            if cmd.opcode == 'WKAD' and cmd.arguments[0] == 'F823':
+                cmd.arguments[1] = '0'
 
         # Are we now over/under the target length for this block
-        len_delta = block_len - len(block)
+        # len_delta = block_len - len(block)
         # print(f"Len delta: {len_delta}")
         # print([str(c) for c in block])
 
         # If the block is too _long_, we can't really do anything
         # to fix it?
-        assert len_delta >= 0, "Block too long"
+        # assert len_delta >= 0, "Block too long"
 
         # If the block is too short, insert some 1ms WTTM to pad
-        for _ in range(len_delta):
-            block.insert(1, ScriptCommand("WTTM", ["1", "1"]))
+        # for _ in range(len_delta):
+        #     block.insert(1, ScriptCommand("WTTM", ["1", "1"]))
 
         return block
 
@@ -469,8 +466,6 @@ def load_nam_file(filename):
         data = f.read()
 
     entries = [data[i:i+32] for i in range(0, len(data), 32)]
-
-    print(entries)
 
     return {
         i + 3: ''.join([chr(c) for c in entries[i] if c != 0]).strip()
