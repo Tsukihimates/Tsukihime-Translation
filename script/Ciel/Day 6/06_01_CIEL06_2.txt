@@ -6,12 +6,12 @@
 [114b0f56fd7448fff540d5d6db96b18f4740de72]{
 -- Page 10005, Offset 13316.
 -- 連絡をいただけなかった点については、私にも落ち度がありますから」
-After all, I am also at fault for you not being able to contact me."
+After all, I am partially to blame for the fact that you did not contact us."
 }
 [d6a3fe8d0eff1c8db83b5b29f62733eb72a64c18]{
 -- Page 10005, Offset 13317.
 -- 「？　落ち度なんて、そんなの秋葉にないだろ？」
-"But there's no way that you're at fault here right?"
+"Huh? You say you're also to blame, but I don't see how that could be the case."
 }
 [30818fa89cb84659f2aa00148139e978ea10388a]{
 -- Page 12007, Offset 13399.
@@ -21,17 +21,17 @@ After all, I am also at fault for you not being able to contact me."
 [114b0f56fd7448fff540d5d6db96b18f4740de72]{
 -- Page 12007, Offset 13400.
 -- 連絡をいただけなかった点については、私にも落ち度がありますから」
-After all, I am also at fault for you not being able to contact me."
+After all, I am partially to blame for the fact that you did not contact us."
 }
 [d6a3fe8d0eff1c8db83b5b29f62733eb72a64c18]{
 -- Page 12007, Offset 13401.
 -- 「？　落ち度なんて、そんなの秋葉にないだろ？」
-"But there's no way that you're at fault here right?"
+"Huh? You say you're also to blame, but I don't see how that could be the case."
 }
 [d6a3fe8d0eff1c8db83b5b29f62733eb72a64c18]{
 -- Page 12003, Offset 14256.
 -- 「？　落ち度なんて、そんなの秋葉にないだろ？」
-"But there's no way that you're at fault here right?"
+"Huh? You say you're also to blame, but I don't see how that could be the case."
 }
 [1bdef7267761c99bf7cb8705baef0dd177dac141]{
 -- Page 12008, Offset 13422. Mods: @k, @e.
@@ -56,7 +56,7 @@ Well... no, but actually...
 [fafe7120f9c25faf6608ffadfb541941b4a2eb15]{
 -- Page 103, Offset 13426.
 -- 携帯はー……こっそりー……返してもらっていたとー……言うかー……。
-Kohaku did secretly return it to me, but...
+My cell phone... has alredy been surreptitiously returned...
 }
 [853dc8bd658fdd27d0ebecec54272a7ff946794a]{
 -- Page 104, Offset 13427. Mods: @n.
@@ -66,22 +66,26 @@ Kohaku did secretly return it to me, but...
 [2ed8e1aefd8ad0d6707d1f8c875365062d4355f5]{
 -- Page 104, Offset 13428. Glued.
 -- それも今回だけです。今後はこのような事は控えてください。兄さんは遠野家の唯一の男性なんですから、もう少しご自分の立場を理解していただかないと困ります。
-this will be the sole exception. Please refrain from such conduct in the future. You are the only male of the Tohno family after all, so it will be troublesome if you do not understand your own position a little better.
+// Leading space for glue
+%{s}let this be the last time. Please refrain from such conduct in the future. After all, you are the sole male of the Tohno household. It will be problematic if you do not start taking your role a little more seriously.
 }
 [dc79f3ad272d24a15e565d2d88f2fa553a9dba4b]{
 -- Page 104, Offset 13429.
 -- よくない外聞が広まってしまったら、遠野家の今後の人付き合いにも影響がありますし」
-If bad publicity were to spread, it would affect the future social relations of the Tohno family."
+// 人付き合い assumed to be mostly bijiness relationships? 'Social disposition' awkward to TL
+If our reputation were to be damaged, it would affect the ability of the Tohno family to network in future."
 }
 [5825ea7035adc30609c7e8f847631cf6c9f1959e]{
 -- Page 105, Offset 13430.
 -- 「いやぁ、それこそ問題ないだろー。俺が何しようと興味も持たないって、<親戚|あっち>の方々は。
-"Well, surely it's not that much of an issue. They never had any interest in what I did, my relatives that is.
+"Well, surely it's not that much of an issue. It's not as though any of our relatives have taken an interest in my affairs.
 }
 [658750af7b14042a1f7c0969b2d1f295dcca120d]{
 -- Page 105, Offset 13431.
 -- だいたい遠野の跡取りは秋葉なんだから、家の事を思うなら俺を余所に出すなり、遠野の家に相応しい婿養子でも見つければいいのに」
-In fact, you're the successor of the Tohno family, so if it's about family matters, you could have sent me somewhere else or find a more suitable son-in-law."
+// 婿養子 is adopted son-in-law, interpreting that as Shiki implying Akiha go
+// get hitched to some non-niisan to bring them into the family
+Besides, you're the one that's actually the successor of the Tohno family. If you're worried about that sort of thing, you could always ship me off somewhere and find yourself a man more befitting the family name."
 }
 [956125f972827f97998d60d9a0375c8f18210c86]{
 -- Page 105, Offset 13432.
@@ -96,7 +100,7 @@ In fact, you're the successor of the Tohno family, so if it's about family matte
 [02cc68a87add0ec4944fcc2ba055d0b7cd92f8ca]{
 -- Page 106, Offset 13434.
 -- なぜか秋葉は黙りこんでしまった。
-For some reason, Akiha falls silent.
+Akiha has fallen silent for some reason.
 }
 [f4ee25df96c7c5e4e8de05eb7e0e7c77fa5ee559]{
 -- Page 107, Offset 13435.
@@ -131,12 +135,12 @@ She's right. I do collapse from anemia rather frequently.
 [fb0b556c5191817e85af44080642b5caab70832b]{
 -- Page 109, Offset 13441.
 -- そうでなくとも近頃の街は物騒なんです。兄さんみたいにぼう、としている人は、通り魔に襲ってください、と言っているようなものなんですから」
-Even without me saying, the city has become very dangerous these days. People like you that act so vacantly are practically asking to be attacked by random attackers after all."
+I'm sure you know without me saying that the city has become quite dangerous lately. People such as yourself that go about with their heads in the clouds are practically begging to be targeted by the serial killer."
 }
 [dff50c11b61c35062843fc5c92485ffaf42068d9]{
 -- Page 109, Offset 13442.
 -- 「それなら大丈夫。あんな事件、二度と起きないよ」
-"In that case, it's okay. Those kinds of incidents will never happen again."
+"If that's what you're worried about, then it's okay. Those kinds of incidents will never happen again."
 }
 [d7fc1e4d19afb49312303b55919deb15416cfcca]{
 -- Page 110, Offset 13443.
@@ -146,7 +150,10 @@ The series of murders that had the city in an uproar.
 [6efc22412b75d1ee8b9365c918bad5fece726fe9]{
 -- Page 110, Offset 13444.
 -- 現代の吸血鬼と報道され、今も犯人が発見されていない、人々を脅かす夜の闇。
-The reportedly modern-day vampire, the culprit that has yet to be discovered even now, and the darkness of the night terrorizing people.
+// 人々 -> people of Souya
+// Also interpreting vlov _as_ the shadow of the night, rather than it being
+// the dark itself that scares people?
+The culprit that the news referred to as the modern-day vampire, his whereabouts and identity still unknown even to this day, the shadow of the night that menaces the people of Souya.
 }
 [fc384f7b29f177b616773f0ba3c56d5abb38975e]{
 -- Page 110, Offset 13445.
@@ -161,7 +168,7 @@ However, all of that is now in the past.
 [25ec3bea90280d7a9112ff8d052b465ebe60b381]{
 -- Page 111, Offset 13447.
 -- 「吸血鬼はいないって事だよ。その犯人はもう捕まったんだ」
-"I mean that there aren't any more vampires. The killer has already been caught."
+"I mean that there's no more vampire. The killer has already been caught."
 }
 [0023488c022998b43375131c4a415c708be7f102]{
 -- Page 112, Offset 13448. Mods: @n.
@@ -171,12 +178,14 @@ However, all of that is now in the past.
 [d91167bb923773e4ca15e1119145ead69fca21ea]{
 -- Page 112, Offset 13449. Glued. Mods: @x.
 -- それは良い報せですが……兄さん、よくそんな事を知っていますね」
-That is good news indeed, but... Nii-san, you sure seem to know a lot about this."
+// Leading space for glue
+ That is good news indeed, but... Nii-san, you sure seem to know a lot about this."
 }
 [b053b7361135271b2ccc7a618b3a09a0b6122558]{
 -- Page 112, Offset 13450.
 -- 「あ、ああ。たまたま逮捕現場に居合わせたというか」
-"Y-Yeah. I just happened to be at the scene of the arrest and whatnot."
+// Pretty fast VA after the initial pause, not a trailing sort of というか...
+"Y-Yeah. I just happened to be at the scene of the arrest is all."
 }
 [8dc165b5d1facc12de9b79c82d2bb4c9164e5676]{
 -- Page 113, Offset 13451.
@@ -196,17 +205,17 @@ The two days I spent with Arcueid.
 [52b801028ef4caf43d62bc5c032060b796ff976c]{
 -- Page 114, Offset 13454.
 -- 色々ありすぎて今でも夢のようだけど、とにかく、街に巣くっていた怪物は消え去った。
-So much has happened that it feels like a dream even now, but at any rate, the monster that has been nesting in the city is gone.
+So much happened that even now it feels like it was all a dream, but at least the monster that had been nesting in the city is gone.
 }
 [5178950907d56e27a84e337d914e6c1588dfe4f0]{
 -- Page 114, Offset 13455.
 -- その事実に関しては、胸を張って良かったと言える筈だ。
-When I put it like that, I can say that I was glad and proud of that fact.
+On that point at least, I think I can say with pride that everything is taken care of.
 }
 [9f4321cefafe82c63189d3cffd80679c91478652]{
 -- Page 115, Offset 13456.
 -- 「兄さん？　どうしたんです、急に嬉しそうな顔をして」
-"Nii-san? What is the matter, you look so happy all of a sudden."
+"Nii-san? What is going on, you look so happy all of a sudden."
 }
 [df32deeb00d9cf4f4cf4833ec6e22fb69d010078]{
 -- Page 115, Offset 13457.
@@ -216,12 +225,12 @@ When I put it like that, I can say that I was glad and proud of that fact.
 [d8aa8e2f95d1232b8c6c22230b5baf338a9238a0]{
 -- Page 115, Offset 13458.
 -- ただ、終わったんだなって、ようやく実感できた」
-It's just that, I realized that it was finally all over."
+It's just that, I finally realized that it's all over."
 }
 [ab9d195d95e6dcb66649982fce22ee606880d846]{
 -- Page 116, Offset 13459.
 -- 知らずに笑顔で、そんな呟きを洩らす。
-I smile and murmur those words without realizing it.
+With a smile on my face, I unthinkingly let those words slip out.
 }
 [20533b1839bc8e3c80d19ac0d5cda76366d12257]{
 -- Page 116, Offset 13460.
@@ -236,7 +245,7 @@ I thank her and stand up.
 [b0458e758afe8739d76b998dc6ff52058966e096]{
 -- Page 117, Offset 13462.
 -- 「いや、安心したらお腹が減ってきた。朝食をもらってきてもいい？」
-"Well, now that I feel better, I'm starving. Can I go and get some breakfast?"
+"Well, now that that's all off my chest, I'm starving. Is it alright if I go and get some breakfast?"
 }
 [69e6acdd6ed259b0cf2d0745de488da021229ed1]{
 -- Page 118, Offset 13463.
@@ -246,11 +255,10 @@ I thank her and stand up.
 [53b3cb2721f2bac00d7a15bd8a760c617acadcdd]{
 -- Page 118, Offset 13464.
 -- 朝食まで管理する気はありませんから、ご自由に摂ってください。琥珀なら厨房で朝食の支度をしているでしょうし」
-// 朝食まで管理する気はありませんから、ご自由に摂ってください。琥珀なら厨房で朝食の支度をしているでしょうし」More like "I have no intention of (going as far as) managing your breakfast"
-I am not responsible for managing your breakfast, so please take care of it yourself. If it is Kohaku that you are after, she is probably preparing breakfast in the kitchen."
+I don't have any interest in micromanaging your breakfast, so please go enjoy it at your leisure. If it is Kohaku that you are after, she is probably preparing breakfast in the kitchen."
 }
 [04d0c43d3804e579cdf1aeaef13b7f8593ba74e6]{
 -- Page 118, Offset 13465.
 -- 「サンキュ。じゃあ遠慮なく」
-"Thank you. Then if you'll excuse me."
+"Thank you. I'll go help myself then."
 }
