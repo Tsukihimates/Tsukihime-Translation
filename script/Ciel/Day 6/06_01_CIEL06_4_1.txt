@@ -1,12 +1,15 @@
 [f08d5e8b0b695b6f97adf84cb3c7d234fcfd195d]{
 -- Page 10008, Offset 13579.
 -- 庭を散歩するか。
-Why not take a walk in the courtyard?
+// Prev choice line is 中庭, translated as courtyard. Use just plain 'yard'
+// instead of garden here for tl since it nicely mirrors dropping the first
+// kanji / isn't as abrupt a word change.
+I'll go for a stroll out in the yard.
 }
 [3b6f818db70d1fbcb53c568a4f070f20a881784e]{
 -- Page 10008, Offset 13580.
 -- 屋敷に帰ってきてからこっち、庭園には出ていない。
-Ever since I came back to the mansion, I haven't gone to the garden.
+I haven't been out to take a look at the gardens since I returned to the mansion.
 }
 [8890c0dd2f3dcd013b54d1d8c216ec1b25ebe180]{
 -- Page 10008, Offset 13581.
@@ -21,27 +24,32 @@ I leave the lobby and go through the door at the end of the grand stairway that 
 [4658195e2fafe9877288f974816939d58c317faf]{
 -- Page 164, Offset 13583.
 -- テラスに出る。
-I go out on the terrace.
+I head out onto the terrace.
 }
 [98495d43c31afc046837e047b797cea128b10d81]{
 -- Page 164, Offset 13584.
 -- ここは居間の裏側でもある。
-The terrace lies at the back side of the living room.
+This terrace also abuts the rear of the living room.
 }
 [1ac0fee36fca5d428780fdea59705ffd1c4b5be6]{
 -- Page 164, Offset 13585.
 -- 子供の頃、天気のいい日はここが秋葉の居場所だった。
-When we were little, it was Akiha's favorite place, where she would stay on sunny days.
+Back when we were little, this was Akiha's favourite haunt on days when the weather was good.
 }
 [c04b652e8b0cd85513bbf90d1dd31bf15e2c188f]{
 -- Page 164, Offset 13586.
 -- いや、居場所というより活動範囲か。
-No, not so much her favorite place as her domain.
+// Interpreting 活動範囲 as the sphere in which Akiha is free to operate in,
+// as in to say that the rest of the grounds are off limits to her.
+// https://ejje.weblio.jp/content/%E6%B4%BB%E5%8B%95%E7%AF%84%E5%9B%B2
+// There's an annoyingly nitpicky tiny difference between 活動範囲 on this line and 移動範囲
+// on the next that's tricky to translate without repeating myself.
+Though, perhaps it would be more accurate to say that it was also her frontier.
 }
 [3a3ad51a874d8e831887a34807a5b8baf1fd7eef]{
 -- Page 164, Offset 13587.
 -- 秋葉ひとりでは園まで出る事はなく、このテラスまでがあいつの移動範囲だった。
-Akiha alone couldn't enter the garden, and this terrace represented the limit of where she could go.
+Akiha never went out into to the garden by herself, this terrace marked the confines of where she was allowed to roam.
 }
 [619fc6b68d634611298f3dfc082af4237b14f665]{
 -- Page 165, Offset 13588.
@@ -56,27 +64,30 @@ From the garden, we would often call out to her, discreetly so as not to get not
 [2fc75917768596291a5e85a6b7badbc18ca4c74c]{
 -- Page 166, Offset 13590.
 -- 遊びに行く時は必ずここに寄ってほしい、とも言われた気がする。
-I vaguely remember how she really wanted us to drop by the terrace when we were playing.
+I think I remember being told to always keep to the terrace when we went out to play.
 }
 [76cade6142ca7c12c8186eb1a84ff9dfa06a9e4a]{
 -- Page 166, Offset 13591.
 -- 自分たちだけで森に行くのはズルイ、とかなんとか。
-Or her saying how unfair it was that only we had the right to go to the forest.
+// 狡い is more like sneaky/dishonest? Feels like odd word choice, or I'm misunderstanding
+They said that it would be mischievous of us to go into the forest by ourselves, or something along those lines.
 }
 [2f73de030ce22159d3d3052e3c0c6511f44dd6b6]{
 -- Page 166, Offset 13592.
 -- 結果、秋葉を森まで連れ出してしまい、怒られるのは俺の役割だった。
-In the end, I was the one who took Akiha to the forest and who got scolded for that.
+Of course, I went and took Akiha out with me to the forest anyway, and got chewed out for it afterwards.
 }
 [d0125fb521cbe7b5f2a1f8e73f3bcde2b4e761fb]{
 -- Page 167, Offset 13593.
 -- テラスから庭園に出る。
-I come out of the terrace and into the garden.
+I head down from the terrace and out into the garden.
 }
 [dcc38c70d3a328cdfb0e6714b8e4e5670219e087]{
 -- Page 167, Offset 13594.
 -- 子供の目には果てのない庭に見えたが、今は視点があがった事で全体像を把握できる。
-To a child's eyes, the garden seems to stretch infinitely. But now that I have a higher viewpoint, I can get the whole picture.
+The garden looked endless in the eyes of a child,
+ but now that I have a better perspective,
+ it's a little easier to get a handle on the size of it.
 }
 [5c3bff6dc4f1803c36388b7292455f3db1870307]{
 -- Page 167, Offset 13595.
@@ -96,12 +107,12 @@ This marks the end of the garden.
 [669bd7170cb7d4c51c2677c4aaaccfd73d8877eb]{
 -- Page 168, Offset 13598.
 -- ここから先はうっそうと木の茂った森になる。
-Any further and a dense, luxuriant forest awaits.
+Past this point, it gives way to a dense forest, thick with trees.
 }
 [b0ce6650dffb2ad5ef4c44aa79b86c1e94655cd9]{
 -- Page 168, Offset 13599.
 -- 今日は脚の怪我もあるし、散歩はここまでにしよう。
-Besides, my leg is still injured, so let's stop here today.
+I'm still a little hobbled by my leg injury, so this is about as far as I'll go today.
 }
 [e742a8be3dce08baca89bde57a443ea7589ff214]{
 -- Page 169, Offset 13600.
@@ -121,8 +132,8 @@ I lay my hand on the railing and gaze at the vast autumnal garden.
 [e2298125f973cc6db9b201fd9ea97f2e44a53b0d]{
 -- Page 170, Offset 13603.
 -- ここまでくると洋館というより城に近い。絶景には違いないが、俺には不釣り合いすぎて苦笑いするしかない。
-// "At the irony" is a bit of an embellishment
-Now that I see this spot of unparalleled beauty, it's clear that this place isn't just a Western-style house. It's more like a castle, but one I am so ill-suited to that I can only wryly smile at the irony.
+From this perspective, the mansion looks more like a castle than simply a Western-style house.
+ It's a spectacular sight, but it's so far removed from what I'm comfortable with that I can't help smiling bitterly.
 }
 [34c10fb2bb41c506296f0bd006c0b46a56a30b94]{
 -- Page 170, Offset 13604.
@@ -193,7 +204,7 @@ I won't have to do such reckless things anymore so―――"
 [6fe0980ad2806200d3c6fb91b2c8ee637207cfd4]{
 -- Page 176, Offset 13617.
 -- 言いかけて、口を閉じた。
-I begin to say, but then stop.
+I close my mouth before I could finish my sentence.
 }
 [23256352b519f2f9374a7758c9edc46eb1c8021e]{
 -- Page 176, Offset 13618.
@@ -203,7 +214,7 @@ Uttering a lie that can't even deceive myself would be futile.
 [2bfdc86d9eb3ac63c4481990b87825197a3c6782]{
 -- Page 176, Offset 13619.
 -- だって、いまも胸に残ってる。
-After all, they're still here, in my heart.
+I'm still left with these feelings in my heart, after all.
 }
 [5b249841598f3cc744b5695cb9ccf03642a6ab9e]{
 -- Page 176, Offset 13620.
@@ -218,7 +229,7 @@ It's the same for Arcueid.
 [48a8515432980fb27a331072bf742ea91da7b8d6]{
 -- Page 177, Offset 13622.
 -- 厄介ごとしか持ちこまないヤツだったけど、それでも少しは……まあ、一緒にいられて楽しかったんだし。
-Even though she was someone who brought nothing but trouble, still, just for a bit... Being with her was fun.
+That girl was nothing but trouble, but even so, it was... well, kinda fun to spend time with her.
 }
 [22ae8eda348d05c602f0e4eedcc1824dab5a8c2d]{
 -- Page 178, Offset 13623.
@@ -233,8 +244,7 @@ Senpai is one thing, but it doesn't matter what happens to Arcueid, right?"
 [da7e29a27b4dbf7077cae9615fd32b77877855b8]{
 -- Page 179, Offset 13625.
 -- 一度殺されかけたっていうのに、何が未練なんだか。
-// Could be something else for 未練
-She almost killed me once, so why can't I just forget about her?
+I nearly got killed, why on earth am I still pining after her.
 }
 [bdca53b55ea891868e04efa5da9d849d9a91d460]{
 -- Page 179, Offset 13626.
@@ -244,12 +254,12 @@ I don't want to go through something like that ever again.
 [f5ddaa22e1a56c64ea1e2d24ce8ddb935af1f850]{
 -- Page 180, Offset 13627.
 -- ため息をついてガゼボを後にする。
-Letting out a sigh, I leave the gazebo.
+I breathe out a sigh and leave behind the gazebo.
 }
 [318e577e5383c14d5e3ad89578cf9dc720c98829]{
 -- Page 180, Offset 13628.
 -- 帰りも中庭を散歩して時間を潰す。
-On the way back, I also spend some time walking around the courtyard.
+I kill some more time strolling around the courtyard as I make my way back.
 }
 [aa928305326b7c5346be1a0ede89f3df9b9ce7e0]{
 -- Page 180, Offset 13629.
