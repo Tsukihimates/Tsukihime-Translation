@@ -41,17 +41,18 @@ I'll take you to the part-time venue."
 [sha:13aee63e71a06f61c51bb9972940c88429ace488]{
 -- Page 293, Offset 9318.
 -- ハルと呼ばれた男がエレベーターのボタンを押す。
-The man called Haru presses the elevator button.
+// Call button, not button inside I think
+The man named Haru pushes the button for the elevator.
 }
 [sha:532fd82ebdc6567d91795a119346ed35584f24ff]{
 -- Page 294, Offset 9319.
 -- 暗闇に駆動音が響く。
-The sound of a machine echoes in the darkness.
+A mechanical sound echoes in the darkness.
 }
 [sha:ad9ecf075a36389192278a0ecc87e9b693718b1a]{
 -- Page 294, Offset 9320.
 -- ここだけは電気が通っているようだ。
-It seems to be the only thing here connected to power.
+This seems to be the only thing here that has power.
 }
 [sha:6b10a95f30688f7e4009268bfbddff20d9c1334f]{
 -- Page 295, Offset 9321.
@@ -94,10 +95,10 @@ I should,
 -- １．もう少し話を聞き出す。　^@t２．辞退する。
 1. Ask about the details. ^@t2. Refuse.
 }
-[sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
+[offset:9329]{
 -- Page 296, Offset 9329.
 -- 「っ……！」
-"Ugh...!"
+"...!"
 }
 [sha:765c5c938c1c7aadaa2c3d4d00a42697ea95073c]{
 -- Page 296, Offset 9330.
@@ -178,7 +179,7 @@ With my face fallen flat against the floor, I can feel something slimy, somethin
 [sha:d4e1d1d5274f74407051172cee4fdf67c35d0a64]{
 -- Page 301, Offset 9345.
 -- エレベーターが開くなり、強烈な光に照らされる。
-The elevator doors open and I'm immediately assailed by an intense light.
+As the elevator doors open, we're illuminated by an intense light.
 }
 [sha:6c8da314028354c745033584df0beaa626cb7c99]{
 -- Page 301, Offset 9346.
@@ -317,25 +318,25 @@ There's no way that a cesspool like this could exist in the city I live in.
 -- 何かがやってくる。大勢の足音が聞こえてくる。
 Something is coming. I hear a great number of footsteps.
 }
-[sha:e397b69c8447f0e7e48018c01817075d20e67a27]{
+[offset:9373]{
 -- Page 310, Offset 9373.
 -- 頭痛がする。
-My head hurts.
+I have a headache.
 }
 [sha:b3da2b297b57dd92275f26cbb6f80bcaeffd4dc3]{
 -- Page 310, Offset 9374.
 -- 吐き気がする。
 I feel nauseous.
 }
-[sha:550ed786ec9a0e14688be1e2f4c0d1a8811fc85f]{
+[offset:9375]{
 -- Page 310, Offset 9375.
 -- 足音が近づいてくる。
-The footsteps are coming closer.
+The footsteps are getting closer.
 }
 [sha:d05e9348c09d0af46dee2786da7ff54771419838]{
 -- Page 310, Offset 9376.
 -- ここにいては襲われるだけだと本能が悲鳴をあげる。
-My instincts scream that I will be attacked if I stay here.
+My instincts are screaming that if I stay here, I'll be attacked.
 }
 [sha:f454e1ead688f63608a7486b1b7d3836d6baca89]{
 -- Page 311, Offset 9377.
