@@ -1,12 +1,12 @@
-[sha:2e02695cc2a210a68c35dbb8c0544d9263a60129]{
+[offset:42766]{
 -- Page 2, Offset 42766.
 -- こんにちは。
-Good evening.
+Good afternoon.%{n}
 }
-[sha:76bbf6c43200baeed6ccf0c07e2991e1a5e84d20]{
+[offset:42767]{
 -- Page 2, Offset 42767.
 -- 突然のデッドエンド、驚かれましたか？
-%{n}Were you surprised by the sudden bad end?
+Were you surprised at the sudden bad end?
 }
 [sha:d88d6157e0b5230bac1b479101ddd4a32c68126a]{
 -- Page 3, Offset 42768.
@@ -23,10 +23,10 @@ Tohno-kun to the right ending.
 -- 『教えて！　シエル先生』にようこそ。
 Welcome to "Teach me, Ciel-sensei!".%{n}
 }
-[sha:cc86c2e84e7ec326d805dedf7a0261b93795a15b]{
+[offset:42771]{
 -- Page 4, Offset 42771.
 -- 教官のシエル（本編後、18歳想定）です。
-Instructor Ciel here.${n}(presumed to be 18 years old)
+Instructor Ciel here (presumed to be 18 years old).
 }
 [sha:eeee9ba985c06f577449ab09a6c6b66911b99f49]{
 -- Page 5, Offset 42772.
@@ -256,10 +256,10 @@ Why can't you follow the example of your fellow heroine,
 // Ciel literally says 'cool' in the spoken lines so I have kept this. -Maz
 %{n}who works hard and keeps her cool to the end?
 }
-[sha:e2d65fcc963f228d45180c6a8dafc0494e929d3a]{
+[offset:42815]{
 -- Page 27, Offset 42815.
 -- え。
-Eh?
+Huh?%{n}
 }
 [sha:6379f852f958e0989de1688ea9afea95bf5e2caf]{
 -- Page 27, Offset 42816.
@@ -267,10 +267,10 @@ Eh?
 // "(as if going 'who are you to say' in objection)"
 (That's rich, coming from you.)
 }
-[sha:e2d65fcc963f228d45180c6a8dafc0494e929d3a]{
+[offset:42817]{
 -- Page 28, Offset 42817.
 -- え。
-Eh?
+Hm?%{n}
 }
 [sha:9981b9a1ea4d1152d019208df8ce212e221f6331]{
 -- Page 28, Offset 42818.

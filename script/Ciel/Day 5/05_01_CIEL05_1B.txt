@@ -49,21 +49,20 @@ Sure, you want a part-time job? I'll take you there."
 -- 「ヒュー！　勇敢な挑戦者一名様、ごあんなーい！」
 "Hyuu! One brave challenger, coming right up!"
 }
-[sha:13aee63e71a06f61c51bb9972940c88429ace488]{
+[offset:11029]{
 -- Page 64, Offset 11029.
 -- ハルと呼ばれた男がエレベーターのボタンを押す。
-// Call button, not button inside I think
-The man named Haru pushes the button for the elevator.
+The man called Haru presses the elevator button.
 }
 [sha:34b227764814acd989a9edc349b0e7ca4cc3d211]{
 -- Page 65, Offset 11030.
 -- 「……っ」
 "...Ugh"
 }
-[sha:532fd82ebdc6567d91795a119346ed35584f24ff]{
+[offset:11031]{
 -- Page 65, Offset 11031.
 -- 暗闇に駆動音が響く。
-A mechanical sound echoes in the darkness.
+The sound of a machine echoes in the darkness.
 }
 [sha:ad9ecf075a36389192278a0ecc87e9b693718b1a]{
 -- Page 65, Offset 11032.
@@ -122,10 +121,10 @@ According to my body senses, the basement is maybe as high as four floors.
 -- 「っ……!?」
 "Hnng...!?"
 }
-[sha:d4e1d1d5274f74407051172cee4fdf67c35d0a64]{
+[offset:11043]{
 -- Page 70, Offset 11043.
 -- エレベーターが開くなり、強烈な光に照らされる。
-As the elevator doors open, we're illuminated by an intense light.
+The elevator doors open and I'm immediately assailed by an intense light.
 }
 [sha:f539c14a1f7dc22834e935a4aa90f161fa4b523d]{
 -- Page 70, Offset 11044.
@@ -399,10 +398,10 @@ The laughing voice echoes from the elevator.
 -- 「――――――、ハ」
 "――――――, ha"
 }
-[sha:e397b69c8447f0e7e48018c01817075d20e67a27]{
+[offset:11098]{
 -- Page 87, Offset 11098.
 -- 頭痛がする。
-I can feel a headache coming on.
+My head hurts.
 }
 [sha:b3da2b297b57dd92275f26cbb6f80bcaeffd4dc3]{
 -- Page 87, Offset 11099.
@@ -414,10 +413,10 @@ I feel nauseous.
 -- 足音が近づいてくる。
 The footsteps are coming closer.
 }
-[sha:d05e9348c09d0af46dee2786da7ff54771419838]{
+[offset:11101]{
 -- Page 87, Offset 11101.
 -- ここにいては襲われるだけだと本能が悲鳴をあげる。
-My instincts are screaming that if I stay here, I'll be attacked.
+My instincts scream that I will be attacked if I stay here.
 }
 [sha:e2b285cbfee3d653a6b1c137c03a94e995a45ce9]{
 -- Page 88, Offset 11102.
