@@ -1,416 +1,497 @@
-[8b2147dd2dc8bafd9b19feb56cf0dbbf3aa0b844]{
+[sha:8b2147dd2dc8bafd9b19feb56cf0dbbf3aa0b844]{
 -- Page 10008, Offset 14432.
 -- 阿良句博士に診てもらおう。
-I'll let Dr. Arach take care of me.
+I'll have Dr. Arach take care of me.
 }
-[084713f4f8a02b935ce999674c1664f21950e371]{
+[sha:084713f4f8a02b935ce999674c1664f21950e371]{
 -- Page 10008, Offset 14433.
 -- いまだにどんな人物なのか不明だが、白衣を着ている以上、お医者さんであるのは確かなんだし。
-I still don't know what kind of person she is, but since she's wearing a white coat, I'm pretty sure that she's a doctor.
+I still don't know what kind of person she is, but since she wears a white lab coat, I'm pretty sure that she's a doctor.
 }
-[f37aca9eb1a0bf5524425580a706b119726f3dbf]{
+[sha:f37aca9eb1a0bf5524425580a706b119726f3dbf]{
 -- Page 217, Offset 14434.
 -- 「わかりました。阿良句先生には私から伝えておきますので、後は自室で待機していてください。
-"Understood. I'll let Dr. Arach know that you're looking for her, so please wait in your room in the meantime.
+// Breakfast context carried over from 06_00_ARC06_2 as the thing that waiting comes 後
+"Understood. I'll let Dr. Arach know that you're looking for her, so please wait for her in your room once you are done with breakfast.
 }
-[b430abdcfccc97ee5656a1aceb1c1c1c189cb459]{
+[sha:b430abdcfccc97ee5656a1aceb1c1c1c189cb459]{
 -- Page 217, Offset 14435.
 -- 阿良句先生は予想のつかない方ですが、医師としての腕は確かです。ここで暮らすのなら頻繁に会う人ですし、これを機に親睦を深めてください」
-Dr. Arach is an unpredictable person, but there is no doubt about her skills as a doctor. You will be seeing her often during your stay here, so please use this opportunity to get to know her better."
+Dr. Arach may be somewhat unpredictable, but there's no denying her skills as a doctor. You'll run into her fairly frequently now that you live here, so please make use of this opportunity to get to know her better."
 }
-[8851614032f8b206278abf91ad3a567e4c7137cf]{
+[sha:8851614032f8b206278abf91ad3a567e4c7137cf]{
 -- Page 218, Offset 14436.
 -- 淡々とした秋葉の声。
-Akiha's voice was plain and unconcerned.
+// Keep things present-y tense
+Akiha's voice is matter-of-fact.
 }
-[45360b8191ed1833b4f0043e7de9e96fd68721ee]{
+[sha:45360b8191ed1833b4f0043e7de9e96fd68721ee]{
 -- Page 218, Offset 14437.
 -- 連絡事項を伝えるような簡潔さだ。
-It was the kind of simplicity similar to a person delivering a message.
+It's as though she were simply delivering a message.
 }
-[11ea1ebdad61867797537439434201effb9d2ecd]{
+[sha:11ea1ebdad61867797537439434201effb9d2ecd]{
 -- Page 218, Offset 14438.
 -- ……さて。
 ...Now then.
 }
-[f6e56bede459f5d14fa1220a06498b66cda5c33b]{
+[sha:f6e56bede459f5d14fa1220a06498b66cda5c33b]{
 -- Page 218, Offset 14439. Mods: @n.
 -- とりあえずは朝食、その後は診察を受けるとしよう。
-For now, I'll have breakfast and then get some medical treatment afterwards.
+My first priority is breakfast, but once that's dealt with I'll go and get myself looked at.
 }
-[29ec4acc78936db26bd933dcd524a9fbccdeca67]{
--- Page 219, Offset 14440. Glued.
+[sha:29ec4acc78936db26bd933dcd524a9fbccdeca67]{
+-- Page 219, Offset 14440.
 -- 自室で文庫本などを読みつつ時間を潰す。
-I pass the time in my room by doing things like reading a paperback book.
+I pass the time in my room by idly leafing through some paperbacks.
 }
-[96caabacbf8d7a827237c0902dbf1aa072d299f1]{
+[sha:96caabacbf8d7a827237c0902dbf1aa072d299f1]{
 -- Page 219, Offset 14441.
 -- 午前10時にさしかかった頃、窓越しに廊下を闊歩する白衣が目に入った。
-Right as it's about to reach 10 AM, I catch a glimpse of a white coat strolling down the hallway through the window.
+// A little bit of reordering here to make parsing more clear
+A little before 10 o'clock, I look out the window and catch sight of a figure in a white lab coat strutting down the hallway.
 }
-[45d6613866cffaec262b6b6b39d485c5548530ba]{
+[sha:45d6613866cffaec262b6b6b39d485c5548530ba]{
 -- Page 219, Offset 14442.
 -- きたな、と本をしまう。
-I put my book away, realizing that she was finally here.
+Looks like she's here, so I put down the book I was reading.
 }
-[05323e9aafc28fa71cd331892acdc91dd9a00b9d]{
+[sha:05323e9aafc28fa71cd331892acdc91dd9a00b9d]{
 -- Page 219, Offset 14443.
 -- 同時に、
 At the same time―――
 }
-[0f47e994796114ea6d2b122e8e6960f80b072c9b]{
+[sha:0f47e994796114ea6d2b122e8e6960f80b072c9b]{
 -- Page 220, Offset 14444.
 -- 「ハァーイ、おっはよっうチャーン！
-"Hiii, mornin' chan!
+"Hiiii, good mooooorning!
 }
-[c633a41078b07a5d6ad59b4896839c95f1a321a1]{
+[sha:c633a41078b07a5d6ad59b4896839c95f1a321a1]{
 -- Page 220, Offset 14445. Mods: @k, @e.
 -- 朝からカラダをいじってほしいとかぁ、
 So you want to play with my body first thing in the morning?
 }
-[92cdecc5cfa817fe4b675499cf299302602e397d]{
--- Page 220, Offset 14446. Mods: @x, @k, @e.
+[sha:92cdecc5cfa817fe4b675499cf299302602e397d]{
+-- Page 220, Offset 14446. Glued. Mods: @x, @k, @e.
 -- 志貴チャンったら超インラーンーーー！
-Shiki-chan, so leeewd!
+// Leading space for glue
+ Shiki-chan, so leeewd!
 }
-[fac05c390222ab161f6f2bfeeea111d97e3ce5b3]{
--- Page 220, Offset 14447. Mods: @x.
+[sha:fac05c390222ab161f6f2bfeeea111d97e3ce5b3]{
+-- Page 220, Offset 14447. Glued. Mods: @x.
 -- アタシ、シチューみたいにたぎった思春期少年病の餌食になっちゃうのかしらぁん！」
-I must be falling prey to the overflowing stew-like juvenile puberty disease!"
+// Leading space for glue
+// My interpretation of this is more
+// "Am I, Arach, going to fall prey to Shiki, who is in the throes of pubescence"
+// then what it was before, which seemed to be more along the lines of
+// "Am I, Arach, going to fall prey to a disease that makes me hot for pubescent young men"
+// A little liberty taken with this sentence because... Arach
+// 病 used as the inspiration for fugue, minor context spirited so that the stew doesn't sound so damn dumb
+ I wonder, am I nothing but a plaything to you, overcome as you are by a fugue of pubescent desires bubbling away like stew on the stove?"
 }
-[413f683ee71e961653994a66b3e5f46cf6c521d7]{
+[sha:413f683ee71e961653994a66b3e5f46cf6c521d7]{
 -- Page 221, Offset 14448.
 -- ノックもなしで、派手なバッグ片手に酔っ払いが入って来た。
-Without even knocking, a drunken person walks inside with a fancy bag in hand.
+// 酔っ払 -> lunatic, she's definitely just like this
+Without even knocking, this raving lunatic barges into my room, gaudy bag in hand.
 }
-[e9c056eaf720cc783a594c5b8021f1c15e7a0671]{
+[sha:e9c056eaf720cc783a594c5b8021f1c15e7a0671]{
 -- Page 221, Offset 14449.
 -- 今さらながら琥珀さんを選ばなかった事を後悔する。
-I regret that I didn't choose Kohaku-san this time.
+I wish I had asked for Kohaku-san instead.
 }
-[84b60af66d1ed16b157f173941d41fabeb99cf4e]{
+[sha:84b60af66d1ed16b157f173941d41fabeb99cf4e]{
 -- Page 222, Offset 14450.
 -- 「すみません。どうも頼む人を間違えたみたいなんで、帰ってもらっていいですか？」
-"I'm sorry. It seems that I asked for the wrong person, so can I ask you to leave?"
+"I'm terribly sorry. It seems that I chose the wrong person to ask for help, so can I ask you to leave?"
 }
-[5e4b89908f014976c4445f386dc4ce98298d0bf3]{
+[sha:5e4b89908f014976c4445f386dc4ce98298d0bf3]{
 -- Page 222, Offset 14451.
 -- 「ああん、ウソウソ、かぎりなく本気だけどジョウダンよぅ。外来の診察なんて久しぶりだから、患者さんとの距離感掴めなくてぇ。フランクな挨拶のほうがいいかなぁー？　って気を遣ってみたのよぅ」
-"Aah, just kidding, it was a joke but I'm totally serious. It's been a while since I got to examine an outside patient, so I wasn't sure how close I should be. I was contemplating on whether it would be better to use a more frank greeting, you know."
+"Aah, kidding, kidding, it was just a joke, honest.
+ It's been a while since I've examined anyone from outside the mansion, so I wasn't sure how familiar to be with my new patient.
+ I was thinking about what might suit you, and figured a frank greeting would be best, you know?"
 }
-[cf51a07cb24b2ac218578646527a09d37a295ce9]{
+[sha:cf51a07cb24b2ac218578646527a09d37a295ce9]{
 -- Page 223, Offset 14452.
 -- などと言いながら、阿良句氏は既にベッドまで歩み寄っていた。派手なモデル歩き……胸とか腰とか必要以上にくねらせている……にも拘わらず、足音ひとつたてない、忍者の如き忍び足である。
-As she continues to ramble, Dr. Arach has already walked all the way to the bed. That flashy model-like stride... Her chest and hips swing more than necessary... But despite this, not a single footstep can be heard, like a ninja stealthily moving along.
+// モデル歩 liberalized somewhat to catwalk phrase.
+Dr. Arach has already made her way over to the bed, babbling all the while.
+ That flashy strut, as though she's headed down the catwalk...
+ Her chest and hips swaying far more than is necessary...
+ And yet, I can't make out the sound of her footsteps at all. She has the soft and stealthy footwork of a ninja.
 }
-[f2878b858a2e9a8e7e21c0cffb8a8cd5f185211a]{
+[sha:f2878b858a2e9a8e7e21c0cffb8a8cd5f185211a]{
 -- Page 224, Offset 14453.
 -- 以前はこれでもかとヒールを鳴らしていたものだが、今回は診察だし、少しは真面目になってくれているのだろうか？
-Normally I would expect her to make a loud sound with her heels, but since this is a medical examination, maybe she has decided to take it a little more seriously.
+// Is これでもかと a truncation of 'これでもかと言うほど'?
+// Note that she is still _wearing_ heels, since she does make noise with
+// them near the end of 06_00_ARC06_2_2_123
+You wouldn't have guessed that she'd been loudly clattering around in her high heels earlier.
+ I suppose that for the medical exam she opted to tone it down a notch.
 }
-[3a91ee246dd4d8cc184c68e26bf5822cd3eea044]{
+[sha:3a91ee246dd4d8cc184c68e26bf5822cd3eea044]{
 -- Page 225, Offset 14454.
 -- 「はーい、それじゃあ患部を出してねー。すぐ出してねー。どうせなら裸になってねー！　お姉さん、あふれる興味を一秒も抑えられないからぁ、モタモタしてると食ベチャウゾ♡」
-"Nooow, without further ado, show me the affected area. Show it immediately. In fact, just take off your clothes! After all, I can't hold back my overflowing desires for even a second, so be quick or I'll eat you ♡"
+"Okaaay, show me where it hurts.
+ Come on, whip it out already.
+ You know what, just strip for me!
+ C'mon c'mon, I can't hold back my curiosity much longer!
+ If you take too long I'll just gobble you up ♡"
 }
-[ed4c0f528086a383d5f36beb4bf9579def985d56]{
+[sha:ed4c0f528086a383d5f36beb4bf9579def985d56]{
 -- Page 225, Offset 14455.
 -- 「……酒、飲んでませんよね？」
 "You're... not drunk, are you?"
 }
-[f87f9fd79268364d6398d537225cacc943bead1d]{
+[sha:f87f9fd79268364d6398d537225cacc943bead1d]{
 -- Page 226, Offset 14456.
 -- 「飲んでませんわよ？　アタシ、常時シラフだもぉん。アルコールなんて摂取するぐらいならチョコ飲むわよぅ、チョコ」
-"I didn't drink, okay? I'm always sober 24/7. The closest thing I have to alcohol is drinking hot choccy you know. Choco."
+"Hm? I haven't drunk anything.
+ I'll have you know I'm sober 24/7.
+ I never touch alcohol, the only drink for me is hot chocolate. A nice hot choccy."
 }
-[1440082c34091a85f98a3322de06f56a30f0ecc0]{
+[sha:1440082c34091a85f98a3322de06f56a30f0ecc0]{
 -- Page 226, Offset 14457.
 -- ……確かに酒の匂いはしない。
 ...She's right. I don't smell any alcohol.
 }
-[fcdf73b813435ed44310ae4657f31dc13a305150]{
+[sha:fcdf73b813435ed44310ae4657f31dc13a305150]{
 -- Page 226, Offset 14458.
 -- このテンションは平常運転という事か。
-So this level of tension is just normal for her.
+I guess this level of energy is just par for the course with her.
 }
-[3972b41940d8728e2a55d95e10192c626c281153]{
+[sha:3972b41940d8728e2a55d95e10192c626c281153]{
 -- Page 227, Offset 14459.
 -- 「お、素直に見せてくれたわねぇ。でも裾をまくしあげるだけ？　パンツは？　パンツ一丁にならないの？　男の裸が綺麗な時期なんてせいぜい二十五までなんだから、いまのうちに露出癖つけておかないともったいないわよぅ？」
-"Oh, so now you're being more honest. But are you really just going to roll up your hem? What about your pants? Won't you strip down to your underwear? A man's naked body stays beautiful until they're 25 at most, so wouldn't it be a waste to not get into the habit of exposing yourself while you still can?"
+"Oho, so you're going to be obedient and let me see?
+ But are you really going to stop after just rolling up the hem?
+ What about your pants?
+ Aren't you going to strip down to your underwear?
+ A man's naked body only stays beautiful until they're 25 at most, it would be a waste if
+ you didn't get in the habit of showing it off while you still can!"
 }
-[31b9174e55d428ed5a4b166572f36130f31d5dd4]{
+[sha:31b9174e55d428ed5a4b166572f36130f31d5dd4]{
 -- Page 227, Offset 14460. Mods: @n.
 -- 「いいから早く診てください博士。
 "It's fine so just hurry up and examine me, professor.
 }
-[98b907fe859eae72c3b9bafb90681eac14fb8ad7]{
--- Page 227, Offset 14461. Glued.
+[sha:98b907fe859eae72c3b9bafb90681eac14fb8ad7]{
+-- Page 227, Offset 14461.
 -- 俺にも我慢の限度があります」
-Even I have a limit when it comes to patience."
+Even my patience has a limit."
 }
-[d3943a8e959a4d98ca3c75f72b1e87f5f7eab5bf]{
+[sha:d3943a8e959a4d98ca3c75f72b1e87f5f7eab5bf]{
 -- Page 228, Offset 14462.
 -- 「博士って言った？　ねえ、いま博士って言った？　やっぱそう見える、アタシ!?」
 "Did you just say 'professor'? Hey, did you just call me 'professor'? So I do look like one, right?!"
 }
-[e434a86c6a0ec732b15650cc60ea083bed6c1250]{
+[sha:e434a86c6a0ec732b15650cc60ea083bed6c1250]{
 -- Page 228, Offset 14463.
 -- 「……まあ。白衣着ていますし、なんというか、ほら」
 "...Well. You are wearing a lab coat, and like, you know..."
 }
-[0f8a0b53f2b5eb1e6ee138ec076551d7fd7e7c27]{
+[sha:0f8a0b53f2b5eb1e6ee138ec076551d7fd7e7c27]{
 -- Page 228, Offset 14464.
 -- マッドがつく方の科学者そのものというか。
 // kuristiiiiina
 You could say that she's the embodiment of a mad scientist.
 }
-[124b6d997494bdc253f73ec05015631035021bd0]{
+[sha:124b6d997494bdc253f73ec05015631035021bd0]{
 -- Page 229, Offset 14465.
 -- 「ラブい。ゴダイヴァばりにラブい。よし、ちょっと本気だすか」
+// VA hard switch from insane voice to serious
 "Lovely. Lovely like Lady Godiva. Right, time to get a little serious."
 }
-[fe50fcd51c166a418fe9c2ac7cfbed9c40fc789d]{
+[sha:fe50fcd51c166a418fe9c2ac7cfbed9c40fc789d]{
 -- Page 230, Offset 14466.
 -- 阿良句博士は腰を落として俺の両脚を触診する。
 Dr. Arach takes a seat and palpates my legs.
 }
-[ead5e80552f98be778df6da9b74a67e2363270e2]{
+[sha:ead5e80552f98be778df6da9b74a67e2363270e2]{
 -- Page 230, Offset 14467.
 -- ……妙な感触だった。
-...It was a strange feeling.
+...It was a strange sensation.
 }
-[bbc62ceecd1df8d2c26a4d6d15e1bc1892467667]{
+[sha:bbc62ceecd1df8d2c26a4d6d15e1bc1892467667]{
 -- Page 230, Offset 14468.
 -- 指が肌をなぞっていくというより、ヒタヒタと伝っていく感じがする。こーん、こーん、と体の内部に響くものがあるが、痛みはまったくない。
-Rather than feeling like her fingers were tracing my skin, it felt like they were trickling down. A thumping sound can be heard from inside my body, but there was no pain at all.
+// こーん is supposed to be sonar pings I guess.
+// Sideways translated using adjectives rather than onomatopoeia.
+It didn't feel as though her fingers were tracing my skin so much as gently lapping against it.
+ There was a rhythmic thumping that resonated throughout my body, but I didn't feel any pain at all.
 }
-[7ef9baeeecd3ec02e44847095f5a68e877630c24]{
+[sha:7ef9baeeecd3ec02e44847095f5a68e877630c24]{
 -- Page 230, Offset 14469.
 -- なんというか、潜水艦のソナーのような触診だった。
-It was as if the palpation was like the sonar of a submarine.
+It's as though she was scanning me with the sonar of a submarine.
 }
-[80aaff16efc6ef5a699b9b1491fba9d09a2ff0ca]{
+[sha:80aaff16efc6ef5a699b9b1491fba9d09a2ff0ca]{
 -- Page 231, Offset 14470.
 -- 「やっだぁ～、骨に<罅|ヒビ>入ってるわよぅ？
-"Oh no, there's a crack in your bone.
+// Back to playful VA
+"Oh dear～ It looks like you've fractured your leg, haven't you?
 }
-[e7e0572f0ad2173583f617452c5e90a11f8233ff]{
+[sha:e7e0572f0ad2173583f617452c5e90a11f8233ff]{
 -- Page 231, Offset 14471.
 -- 志貴チャンは痛いの大好きな子だったのねぇ。だってこんなの、フツーは我慢できないし！」
-You are quite the masochist, aren't you? Because normally, people wouldn't be able to tolerate this kind of pain!"
+You're quite the masochist, aren't you Shiki-chan? After all, normal people wouldn't be able to tolerate this kind of pain!"
 }
-[62046bc5262d2106f3cdba5d75d7335dde131543]{
+[sha:62046bc5262d2106f3cdba5d75d7335dde131543]{
 -- Page 232, Offset 14472.
 -- あー……やっぱりそうか。
 Ah... So that's how it is.
 }
-[8dbcdfc888915432c70c7c4146bad7a55ed78ddf]{
+[sha:8dbcdfc888915432c70c7c4146bad7a55ed78ddf]{
 -- Page 232, Offset 14473.
 -- むしろ罅だけで助かった。
 Though I'm glad that it's only a fracture.
 }
-[f601d3346eaad0dd460edd545bf796848af9429c]{
+[sha:f601d3346eaad0dd460edd545bf796848af9429c]{
 -- Page 232, Offset 14474.
 -- 所々、折れていても不思議ではなかったんだし。
 I wouldn't be surprised if things were broken all over my body.
 }
-[8325094722e5c263af28b426fef3ac1c3bac4f36]{
+[sha:8325094722e5c263af28b426fef3ac1c3bac4f36]{
 -- Page 233, Offset 14475. Mods: @k, @e.
 -- 「んー、でもヘンな話ねぇ？　ココに亀裂があるってコトは、このあたり折れてないとおかしいんだけどぉ。
-"Hmm, but it's strange, isn't it? If there's a crack, then it's weird that there's nothing broken around it.
+"Hmm, but it's strange, isn't it?
+ If there's a fracture, you'd expect the area around it to be a little damaged as well.
 }
-[08a4ab1d413511fec5331c30768f4f4b9aea45d3]{
--- Page 233, Offset 14476. Mods: @x, @k, @e.
+[sha:08a4ab1d413511fec5331c30768f4f4b9aea45d3]{
+-- Page 233, Offset 14476. Glued. Mods: @x, @k, @e.
 -- んー、
-Hmm...
+// Leading space for glue
+ Hmm...
 }
-[a3ec962b1c05ac623b75b8f93978c4234fb33984]{
--- Page 233, Offset 14477. Mods: @x.
+[sha:a3ec962b1c05ac623b75b8f93978c4234fb33984]{
+-- Page 233, Offset 14477. Glued. Mods: @x.
 -- おもむろにカプるアタシ」
-Let me get that covered at once."
+// Leading space for glue
+// What the hell is she saying? カプる?!
+ Let me slap something on that real quick."
 }
-[fd37e33c3201ca264d7a8725b69158dd85027488]{
+[sha:fd37e33c3201ca264d7a8725b69158dd85027488]{
 -- Page 233, Offset 14478.
 -- 「ひゃあ!?　アアアンタ、なにした、いま!?」
-"Wah?! Y-Y-You, what did you do just now?!"
+"Wah?! Y-Y-You, what the heck was that!?"
 }
-[bb3edf3e7730b956fc40f39776d934adb3400de5]{
+[sha:bb3edf3e7730b956fc40f39776d934adb3400de5]{
 -- Page 234, Offset 14479. Mods: @k, @e.
 -- 「ちょっとした消毒よぅ。
 "Just a bit of antiseptic.
 }
-[23bb66f92ebc1ddac1f54f31d4c1253d9d08bcbc]{
--- Page 234, Offset 14480. Mods: @x.
+[sha:23bb66f92ebc1ddac1f54f31d4c1253d9d08bcbc]{
+-- Page 234, Offset 14480. Glued. Mods: @x.
 -- んー、でもこれ開く必要ないわねぇ。固定しとけば明日には治ってるわぁ。阿良句つまんなーい」
-Hmm, but it doesn't seem like it's necessary to cut it open. It should heal on its' own by tomorrow if I keep it steady. How boooring."
+// Leading space for glue
+ Hmm, it looks like there's no need to slice you open.
+ I'll heal on it's own by tomorrow if you don't move around too much. Bo～ring!"
 }
-[12b8619956d70985210ee28ee036dd0e02a6b3cd]{
+[sha:12b8619956d70985210ee28ee036dd0e02a6b3cd]{
 -- Page 235, Offset 14481.
 -- 阿良句氏……阿良句博士は不満げに頭を掻くと、バッグから医療器具を取り出した。
-Dr. Arach... Professor Arach scratches her head with discontent and takes out some medical equipment from her bag.
+// Italics candidate on _Professor_
+Dr. Arach... Professor Arach discontentedly scratches her head, then takes some medical equipment out of her bag.
 }
-[b59a90cbbf86f529846fd64ae21102d9aa322b75]{
+[sha:b59a90cbbf86f529846fd64ae21102d9aa322b75]{
 -- Page 235, Offset 14482.
 -- いま封を切った新品のビニール手袋をはめると、注射器の準備をする。
-She puts on a new pair of gloves straight out of the seal and prepares a syringe.
+She breaks the seal on a fresh pair of surgical gloves, dons them, then starts preparing a syringe.
 }
-[a31553a73fcc0d492e5e890c09332dfd3e919a14]{
+[sha:a31553a73fcc0d492e5e890c09332dfd3e919a14]{
 -- Page 236, Offset 14483.
 -- 「一応、痛み止めイっとくわねぇ？　必要ないンだけどぉ、当主チャンから念入りにって頼まれちゃったしぃ？」
-"I'll give you some painkillers, just in case. It's not necessary, but the family head did tell me to be more deliberate after all."
+// 当主チャン translated matriarch-chan elsewhere
+I'm going to give you some painkillers just in case, okay?
+ It's not strictly necessary, but matriarch-chan told me to be thorough, so here we go.
 }
-[2f43cb0870adc7dc6a3c3719b9ef58e6dece943b]{
+[sha:2f43cb0870adc7dc6a3c3719b9ef58e6dece943b]{
 -- Page 237, Offset 14484.
 -- 阿良句博士は流れるような手つきで、俺の左脚に注射をした。
-With a fluid hand movement, Professor Arach gives me an injection on my left leg.
+// Feels a bit off without reifying what's in the shot
+With a fluid hand movement, Professor Arach injects the painkillers into my left leg.
 }
-[c78559d614aeeb0c6d41a49e903a5701fa870535]{
+[sha:c78559d614aeeb0c6d41a49e903a5701fa870535]{
 -- Page 237, Offset 14485.
 -- その後、カカトをテーピングで固定し、包帯を巻いて治療は完了した。
-After that, she tapes my heel in place and wraps it in a bandage, thus completing the treatment.
+That accomplished, she tapes my heel in place and wraps it in a bandage, thus completing the treatment.
 }
-[606cdb3ec24faa2eb98a9049bf8ccc8ae68e5b8f]{
+[sha:606cdb3ec24faa2eb98a9049bf8ccc8ae68e5b8f]{
 -- Page 237, Offset 14486.
 -- ……本当に見事な手際だった。
-...It really was a brilliant job.
+...She really did a brilliant job.
 }
-[72845258f898c8809b61a756f1c6efb828176940]{
+[sha:72845258f898c8809b61a756f1c6efb828176940]{
 -- Page 237, Offset 14487.
 -- 有間の家にいた頃お世話になっていた医院のじじいにも引けを取らない。この人、黙っていれば名医なんじゃないのか？
-It's even comparable to the old man from the clinic that I owe a great deal to back at the Arima house. This person might even be an excellent physician if only she could keep her mouth shut.
+It's on par with the care I received from the old man from the clinic, who took care of me back when I was living with the Arimas.
+ She'd probably be an excellent physician if she could only keep her mouth shut.
 }
-[6ac59120e4f3060d02042430c8f5ad15d81f07b5]{
+[sha:6ac59120e4f3060d02042430c8f5ad15d81f07b5]{
 -- Page 238, Offset 14488.
 -- 「ありがとうございます。おかげで助かりました」
-"Thank you very much. I feel better now thanks to you."
+"Thank you very much. I feel a lot better now thanks to you."
 }
-[1d1d95ce0e45595f743d1dc8f38dc986803e85e7]{
+[sha:1d1d95ce0e45595f743d1dc8f38dc986803e85e7]{
 -- Page 238, Offset 14489. Mods: @k, @e.
 -- 「いいのいいの。アタシ、しょせん無免かつ専門外だし？　本職はカガク者だし？
-"Don't mention it. Besides, I'm not licensed and this is outside my expertise. I'm mainly a scientist after all.
+"Don't mention it. Besides, I'm not even licensed and this is outside my area of expertise. I'm really more of a scientist.
 }
-[4cc43f5eb89dc608704245bb8f7d1cf2dfce9903]{
--- Page 238, Offset 14490. Mods: @x.
+[sha:4cc43f5eb89dc608704245bb8f7d1cf2dfce9903]{
+-- Page 238, Offset 14490. Glued. Mods: @x.
 -- 志貴チャン、博士って呼んでくれたし？」
-Not to mention that Shiki-chan called me a professor."
+// Leading space for glue
+ Shiki-chan called me a professor after all."
 }
-[acde0b55ba9a0e7317e101d55d915d134e432b99]{
+[sha:acde0b55ba9a0e7317e101d55d915d134e432b99]{
 -- Page 239, Offset 14491.
 -- 博士と呼ばれた事がよほど嬉しいらしい。
-It appears that she is very happy to be called professor.
+She seems to be over the moon about the fact that I called her 'professor'.
 }
-[6e1dee1203851baf461755a9af989b1e61aea463]{
+[sha:6e1dee1203851baf461755a9af989b1e61aea463]{
 -- Page 239, Offset 14492.
 -- ……この様子では、今まで秋葉たちに呼ばれた事はないのだろう。
-...Based on this situation, it seems that Akiha and the others have never called her that up until now.
+...Based on her reaction, I assume that Akiha and the others have never referred to her that way before.
 }
-[c353ee0b7ca1d515cf0b891950f0a26a2d8d2dfd]{
+[sha:c353ee0b7ca1d515cf0b891950f0a26a2d8d2dfd]{
 -- Page 240, Offset 14493.
 -- 「けどぉ、志貴チャン、ずいぶんと体に無茶させたみたいねぇ。人体の運動性、その限界に挑んだ感じ？
-"But, Shiki-chan, it looks like you pushed your body through quite a bit. It's as if you were testing the limits of your human mobility.
+// Dictionary defines 運動性 as motility, which is a bit awkward as-is. Mildly sideways translated.
+"But you know, Shiki-chan,
+ it really looks like you've put your body through the wringer.
+ It's as though you were trying to surpass the limits of what's physically possible for a human.
 }
-[0da21e6ef79a42b099bfec9d74b95df4ada4e4c4]{
+[sha:0da21e6ef79a42b099bfec9d74b95df4ada4e4c4]{
 -- Page 240, Offset 14494.
 -- アタシ、そういう無茶苦茶なの大好きだから医者として止めないけどぉ」
-Personally, I love that kind of reckless behavior, so I won't stop you as a doctor."
+Personally, I love that kind of reckless behavior, so even though I'm your doctor I won't stop you."
 }
-[eaa976cc52169bdea5c28112770466e4a069e618]{
+[sha:eaa976cc52169bdea5c28112770466e4a069e618]{
 -- Page 240, Offset 14495.
 -- 「おや。医者は本職じゃないんでしょ？」
-"Oh. But you're not a doctor of my profession, right?"
+// Callback 14489.
+"Oh? But didn't you say you're more of a scientist than a doctor?"
 }
-[c007bf8ff0d56b3cd5d5d59252715aaf157a5ebc]{
+[sha:c007bf8ff0d56b3cd5d5d59252715aaf157a5ebc]{
 -- Page 241, Offset 14496.
 -- 「きゃー、志貴チャンったら辛辣ー♡
-"Kyaaa, Shiki-chan, you're so strict ♡
+"Kyaaa, Shiki-chan, you're so harsh ♡
 }
-[3a84b7c930685eb34b549a9eb798fc607e7aeeeb]{
+[sha:3a84b7c930685eb34b549a9eb798fc607e7aeeeb]{
 -- Page 241, Offset 14497. Mods: @k, @e.
 -- おとなしそうに見えて根は冷血？　みたいな？　身体だけじゃなく精神もハイブリッドなの？
-You look gentle, but you must be cold-blooded deep inside. Right? Is it not just your body but a hybrid including your mind?
+// Second line assumed imi is "It's not just that you're physically a hybrid
+// (looks warm, but cold blooded) but your mind must also be split into good
+// shiki/bad Shiki"
+You may look docile, but deep down you must be cold-blooded, right?
+ I bet it's not just your body either, there's got to be two sides to your personality as well?
 }
-[02fc15f161283317aaaf905f0154a49d67389910]{
--- Page 241, Offset 14498. Mods: @x.
+[sha:02fc15f161283317aaaf905f0154a49d67389910]{
+-- Page 241, Offset 14498. Glued. Mods: @x.
 -- ってゆーかぁ、貴方、自分の体についてどこまで理解しているの？」
-Or rather, you, how much do you even know about your own body?"
+// Leading space for glue
+ I mean, you, how much do you even know about your own body?"
 }
-[8cc7cd8c272d5b21cb0f65bed8778bc800a4b5de]{
+[sha:8cc7cd8c272d5b21cb0f65bed8778bc800a4b5de]{
 -- Page 242, Offset 14499.
 -- 「……えっと、貧血持ちの事ですか？」
 "...Um, are you referring to my anemia?"
 }
-[f16a15737fdaf7130a2e99126c38a94e7b3c1baf]{
+[sha:f16a15737fdaf7130a2e99126c38a94e7b3c1baf]{
 -- Page 242, Offset 14500.
 -- 「そっちじゃなくて、筋肉と骨格のこと。エンジンとフレーム、でもいいわ。触れた感じ、キミ、珍しい体してたから」
-"That's not it, I was talking about your muscles and physique. Or engine and frame, if you prefer it. I noticed that you had an unusual body after feeling you for a bit."
+// 骨格 can be skeletal structure or physique, given the engine/chassis
+// comparison later assuming bone structure is more apt
+"No, not that, I was talking about your muscles and bone structure.
+ Or engine and chassis, if you will.
+ After feeling you up, I got the sense you have quite the unusual body."
 }
-[d52425c4da1b2367075d7ce4250da6f8b911650f]{
+[sha:d52425c4da1b2367075d7ce4250da6f8b911650f]{
 -- Page 243, Offset 14501.
 -- 「筋肉には瞬発力重視の速筋と、持久力重視の遅筋があるワケだけど、志貴チャンは速筋メイン。それはいいんだけどぉ……なんていうか、軽いのよねぇ。骨格じゃなくて骨そのものが軽いというか。なんか、生まれつき自重をごまかしてふわふわ浮く不思議チャン？みたいな？」
-"Muscles can either be a fast-twitch muscle that focuses on explosive power or a slow-twitch muscle that focuses on endurance, with you being mainly the former. That's all well and good but... how do I put this... it's light. It's not the skeletal structure, but the bones themselves that feel light. It's like you were born with the ability to manipulate your weight and float. Or something like that?"
+"When it comes to muscle, there's the fast-twitch variety, which is specialized for brief periods of explosive power,
+ and the slow-twitch variety, which is better suited for long term endurance.
+ You're mostly made up of the former.
+ That's all well and good, but, how do I put this... it's light.
+ It's not as though your bone structure is light, more like the bones themselves are?
+ Were you born with some mysterious ability to manipulate your own weight and float like a feather?
+ Anything like that?"
 }
-[814a01be8f4c66bdb73dbbdba106771bb68a2b73]{
+[sha:814a01be8f4c66bdb73dbbdba106771bb68a2b73]{
 -- Page 244, Offset 14502.
 -- 「なんですかそれ。骨が軽いって、鳥ですか、俺は」
 "What are you talking about. Light bones... what am I, a bird?"
 }
-[e9cec653574d62c812e1fb32acc64a1a0263c3aa]{
+[sha:e9cec653574d62c812e1fb32acc64a1a0263c3aa]{
 -- Page 245, Offset 14503.
 -- 「あ、そう、そんな感じ！
 "Ah yeah, it's just like that!
 }
-[0cc5d86621b5813b015696c659f48a196942895b]{
+[sha:0cc5d86621b5813b015696c659f48a196942895b]{
 -- Page 245, Offset 14504.
 -- こんなん自然には生まれないわよぅ？　よっぽど配合に凝ったのねぇ。志貴チャンはまさにサラブレッド、たった10秒を走る為だけに生まれてきた。
-These kinds of things don't come naturally, you know. Your build is quite sophisticated. You're exactly like a thoroughbred that was born to run for only 10 seconds.
+This sort of thing doesn't just happen by chance, you understand?
+ It takes a lot of sophistication to make something like this happen.
+ You're like a thoroughbred, born for the sole purpose of sprinting for ten seconds.
 }
-[937713b33479259f242ec7752c4880c807919982]{
+[sha:937713b33479259f242ec7752c4880c807919982]{
 -- Page 245, Offset 14505.
 -- うふふ。兄妹なのに、当主チャンとは正反対♡」
-Ufufu. Even though you two are siblings, you are the exact opposite of the head of the family ♡"
+// 当主チャン again. Dunno if we want to be consistent (matriarch-chan) or vary the TL on this one.
+Ufufu. Even though you two are siblings, you are the exact opposite of little miss family head ♡"
 }
-[38e255d18b35421db10f78b06d9c7f64bc97ddd7]{
+[sha:38e255d18b35421db10f78b06d9c7f64bc97ddd7]{
 -- Page 245, Offset 14506.
 -- 「……秋葉と正反対、なんですか？」
 "...I'm the exact opposite, of Akiha?"
 }
-[332182c573010e0caade46ecfca543163e280f74]{
+[sha:332182c573010e0caade46ecfca543163e280f74]{
 -- Page 246, Offset 14507.
 -- 「そ。遠野家の子はみーんな優秀かつオールドな遺伝子の配合、異種配合の賜物だけど、当主チャンはちょっと例外。というか特例。つーか奇蹟？
-"Yup. All children of the Tohno family are born with the combination of both superior and old genes, the result of hetero-breeding. But the family head is a bit of an exception. Or rather, a special case. Or maybe a miracle?
+// 当主チャン again
+"Yup.
+ Though all children of the Tohno family are the fruits of interbreeding old genes with new exemplary ones,
+ matriarch-chan is a bit of an exception. Or maybe you could call it a miracle?
 }
-[7870cda23f7e232eab029dd0da8c1d53e1e665b3]{
+[sha:7870cda23f7e232eab029dd0da8c1d53e1e665b3]{
 -- Page 246, Offset 14508.
 -- 先祖返り……まあ、<隔世|かくせい>遺伝ね。配合を始める前の、純粋なパターンを持っている。
-Atavism... Or otherwise known as skipping a generation. She possesses a pure pattern from before the entire process of breeding.
+// Prev translation was 'skipping a generation'; it's not _incorrect_ but I
+// believe atavism is more commonly used to refer to traits that are
+// _significant_ throwbacks, as this one appears to be.
+A reversion to the ancestral DNA... otherwise known as an atavism.
+ She possesses a pure pattern, one from before the interbreeding began.
 }
-[47ab70f72ee706ada948b8b518229f65c55193c5]{
+[sha:47ab70f72ee706ada948b8b518229f65c55193c5]{
 -- Page 246, Offset 14509.
 -- そうねぇ。貴方が十年に一人の才能なら、あの娘は……十年、百年、千年、さて、何年に一人の逸材だと思う？」
-That's right. If you were a once-in-a-decade talent, then she would be... 10 years, 100 years, 1000 years, well then, how many years do you think she would be?"
+I wonder.
+ If you have the sort of talent that only comes around once every 10 years,
+ how rare do you think talents such as hers must be? Once every ten years? Every hundred? Every thousand?"
 }
-[50509bc45141a21b85b8b694a4194ec1481d92f8]{
+[sha:50509bc45141a21b85b8b694a4194ec1481d92f8]{
 -- Page 247, Offset 14510.
 -- 阿良句博士は口端をゆがめながら、そんな話を振ってきた。
-Professor Arach brings up the matter with a wry smile on her face.
+Professor Arach poses the question with a wry smile on her face.
 }
-[0e3622bb01b88569f9bede81d1180000a3a276b2]{
+[sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
 -- Page 247, Offset 14511. Mods: @k, @e.
 -- 俺は―――
 I―――
 }
-[5bce250361e444e381fa0245000fc3b6b9b43901]{
+[sha:5bce250361e444e381fa0245000fc3b6b9b43901]{
 -- Page 248, Offset 42629. Choice.
 -- 十年に一人、とか？
- Once in a decade?
+ think it's once in ten years?
 }
-[d741eb2ed9c6a0446daba19fc16ed3366736a7ce]{
+[sha:d741eb2ed9c6a0446daba19fc16ed3366736a7ce]{
 -- Page 248, Offset 42630. Choice.
 -- 百年に一人、とか？
- Once in a century?
+ think it's once in a century?
 }
-[9543765ad3dbe172c95d862513db3d5cb1ff5bda]{
+[sha:9543765ad3dbe172c95d862513db3d5cb1ff5bda]{
 -- Page 248, Offset 42631. Choice.
 -- 千年に一人、とか？
- Once in a millenium?
+ think it's once a millennium?
 }
