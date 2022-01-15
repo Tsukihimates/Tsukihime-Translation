@@ -66,7 +66,7 @@ With a bow, Hisui enters the room.
 -- Page 6, Offset 16577.
 -- 「ああ。昨日はぐっすり眠ったから。着替えたらすぐに食堂に行くよ。
 "Yeah. I slept like a log last night.
- I'll head down to the dining room as soon as I've gotten dressed."
+ I'll head down to the dining room as soon as I've gotten dressed.
 }
 [sha:311c08f94f0b45acf899feeffbe2a7b0eade89a4]{
 -- Page 6, Offset 16578.
@@ -150,6 +150,7 @@ We'll never see each other again.
 [sha:27ea4102e4d190c4ef5faeace0e257941e56c8ef]{
 -- Page 12, Offset 16593.
 -- あんな物騒な女と関わるなんて、金輪際あってはいけない。
+// 金輪際 translated to similar idiom
 You couldn't convince me to get involved with that walking disaster of a woman again,
  not for all the money in the world.
 }
@@ -219,7 +220,7 @@ Akiha seems to be in a good mood,
 -- Page 16, Offset 16605.
 -- ふいに立ち眩みがして、目頭を押さえる。
 // 目頭 is the _inner_ canthus, he's doing the classic scrunch face / pinch nose routine
-I suddenly feel lightheaded, and pinch down on the bridge of my nose.
+I suddenly feel lightheaded, so I pinch down on the bridge of my nose.
 }
 [sha:0fde68362741731e076f4e639e7c413a8d381c30]{
 -- Page 16, Offset 16606.
@@ -289,7 +290,7 @@ Please wait here, Nii-san.
 -- Page 21, Offset 16618.
 -- 秋葉はロビーに視線を向けた。厨房で朝食の支度をしている琥珀さんを呼びに行く気なのだろう。
 Akiha turns her gaze to the lobby.
- She must be planning to go and call on Kohaku-san, who is preparing breakfast in the kitchen.
+ She must be planning to go and call for Kohaku-san, who is currently preparing breakfast in the kitchen.
 }
 [sha:de3115c5cee4c1aa999aa62eb058fdeba4994f4d]{
 -- Page 21, Offset 16619.
@@ -382,7 +383,7 @@ It was as if her beautiful black hair and her white porcelain-like skin had turn
 [offset:16635]{
 -- Page 27, Offset 16635.
 -- 「っ……」
-"gh..."
+"ngh..."
 }
 [sha:bd380461179bbc9a06ddacab3214702d17512a19]{
 -- Page 27, Offset 16636.
@@ -429,7 +430,7 @@ I brush off Akiha's hand and sprint away as fast as I can.
 [sha:e48d63b704a785765094e514579e16bff3f61e80]{
 -- Page 29, Offset 16644.
 -- 「鞄でしたら、こちらに」
-"If you're looking for your bag, then it's over here."
+"If you're looking for your bag, then it's right here."
 }
 [sha:d1eea685a494c6444167ce28dbccb9019a053584]{
 -- Page 30, Offset 16645.
@@ -516,7 +517,7 @@ I appreciate that she's worried about my health, but there's no way that I could
 [sha:be9a25499cc7e0a73b8bb5c0608e93202af117c3]{
 -- Page 36, Offset 16660.
 -- なんて言えるはずもなし、言ったところでどんな反撃が待っているコトか。
-I can't even begin to imagine the blowback that would have awaited me if I had.
+I can't even begin to imagine the retaliation that would've been in store for me if I had.
 }
 [sha:557cbf4f5cc513da5501a884ae31303ab3cf30d5]{
 -- Page 37, Offset 16661.
@@ -581,5 +582,6 @@ Normally I wouldn't mind skipping breakfast,
 -- 総菜パンの一つでも買って、昼食までのつなぎとしよう。
 // Image search for 総菜パン produces a lot of results, and it's hard to pick a single good localization.
 // Seems to be somewhat of a catch-all for (predominantly) savoury baked goods / pastries
-I'll pick up a stuffed roll, that should be enough tide me over until lunchtime.
+// Breakfast roll? Savoury tart?
+I'll pick up some stuffed bread, that should be enough tide me over until lunchtime.
 }
