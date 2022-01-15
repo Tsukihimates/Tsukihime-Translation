@@ -1,144 +1,150 @@
-[3c53b217ea2a8cad0fe47fb212e9cad508234b80]{
+[sha:3c53b217ea2a8cad0fe47fb212e9cad508234b80]{
 -- Page 10001, Offset 14016.
 -- 翡翠は廊下で待っていてくれた。
 Hisui is waiting for me in the hallway.
 }
-[46d4e10c674b48abf51d77970f83ab8055dd1520]{
+[sha:46d4e10c674b48abf51d77970f83ab8055dd1520]{
 -- Page 10001, Offset 14017.
 -- 左脚は重傷で、歩く度に叫びたくなるほどだった。
+// 脚 is a damn weasel word that means either foot or leg.
+// Given the context of the 06_00_ARC06_2_1 and 06_00_ARC06_2_2, in which
+// it's revealed that he's fractured his leg, I believe that leg is the correct translation.
+// However, there's a couple instances where 'foot' is used instead where it
+// makes more sense in context (primarily 06_00_ARC06_2)
 My left leg is hurt so badly that every step I take makes me want to scream.
 }
-[e28c3994cf5166ea4a0f06ca418fd4e74e8d5be1]{
+[sha:e28c3994cf5166ea4a0f06ca418fd4e74e8d5be1]{
 -- Page 10001, Offset 14018.
 -- 体のいたるところが重く感じるが、これは軽度の筋肉痛だ。そう辛いものじゃない。
 Although my entire body feels heavy, it's only a slight muscle ache. It's not actually all that painful.
 }
-[cb867e98173bcd3852db1f2b803e3f4206e91ec3]{
+[sha:cb867e98173bcd3852db1f2b803e3f4206e91ec3]{
 -- Page 39, Offset 14019.
 -- 手で確認したが、ヴローヴの氷の破片で受けた頬や肩の切り傷は完治していた。
 I felt around with my hands to confirm, but it seems that the cuts I received on my cheeks and shoulders from Vlov's ice shards have healed completely.
 }
-[cd4d7d23ceffc80af37a381309a4aad0ecd480a2]{
+[sha:cd4d7d23ceffc80af37a381309a4aad0ecd480a2]{
 -- Page 39, Offset 14020.
 -- 傷跡さえない不自然さから、アルクェイドの仕業なのは明白だ。手当てをする、とか言ってたし、あいつ。
 The unnatural lack of any scars makes it clear that this is Arcueid's handiwork. She did say that she would treat me after all.
 }
-[afb317191259b0f5d7f1dd6e8f2402f787a254b0]{
+[sha:afb317191259b0f5d7f1dd6e8f2402f787a254b0]{
 -- Page 40, Offset 14021.
 -- 「志貴さま。さしでがましいこととは存じますが、こちらをお使いください」
 "Shiki-sama. My apologies for being so forward, but please make use of this."
 }
-[0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
 -- Page 40, Offset 14022.
 -- 「？」
 "Hm?"
 }
-[f285291110fbb5a616c21b4d97ec2f95fe57e3cf]{
+[sha:f285291110fbb5a616c21b4d97ec2f95fe57e3cf]{
 -- Page 41, Offset 14023.
 -- 翡翠はおずおずと細長い棒を差し出してきた。
 Hisui timidly presents a long and narrow rod.
 }
-[a121caaca26cfd8ea6feeebc82593e8d3a15780a]{
+[sha:a121caaca26cfd8ea6feeebc82593e8d3a15780a]{
 -- Page 41, Offset 14024.
 -- これは杖……じゃなくて、歩行器だ。
 // "歩行器" does seem to mean a Zimmer frame, but those aren't a long thin rod?
 // Translated as crutch since that makes more sense.
 It's a cane... no, a crutch.
 }
-[a3c20bec9d875a1a7000d970ab32fb103c4dd6cb]{
+[sha:a3c20bec9d875a1a7000d970ab32fb103c4dd6cb]{
 -- Page 42, Offset 14025.
 -- 「よくあったね、こんなの」
 // Assuming this is よく合った?
 "Oh, this is perfect."
 }
-[51ce53275fdddd38709a4842ba581c88ddca6e45]{
+[sha:51ce53275fdddd38709a4842ba581c88ddca6e45]{
 -- Page 42, Offset 14026.
 -- 「はい。以前、用具室で見たおぼえがありましたので。一縷の望みをかけて探して参りました」
 "Yes. I had remembered seeing it in the equipment room previously. I searched for it while holding on to that sliver of hope."
 }
-[c1d93f81d15ec06967da589b5feec6a42a9f281f]{
+[sha:c1d93f81d15ec06967da589b5feec6a42a9f281f]{
 -- Page 43, Offset 14027.
 -- 一縷の望みは言い過ぎ……と笑いかけて、翡翠の息がかすかにあがっている事に気がついた。
 'Sliver of hope' is a bit of an exaggeration... I smile at the turn of phrase before noticing that Hisui's breathing is a little elevated.
 }
-[7f04469b5d57263056c43af9252dbdc36e03d927]{
+[sha:7f04469b5d57263056c43af9252dbdc36e03d927]{
 -- Page 43, Offset 14028.
 -- 俺が着替えているわずかな間に、急いで取ってきてくれたのだ。
 She must have hurried to fetch it during the small time window while I was changing.
 }
-[5077a588087a67d8b9bc03b402f6a75de4614c96]{
+[sha:5077a588087a67d8b9bc03b402f6a75de4614c96]{
 -- Page 44, Offset 14029.
 -- 「ありがとう。正直、歩くたびにカカトから飛び上がりそうだったんだ。すごく助かる」
-// This is pretty liberal, but I'm not sure of a good direct idiom for カカトから飛び上がりそうだった, and a literal TL just doesn't make sense
+// This is pretty liberal, but I'm not sure of a good direct idiom for
+// 'カカトから飛び上がりそうだった' and a literal TL just doesn't make sense
 "Thank you. To be honest, I felt as if my foot was about to fall off with every step. This is a lifesaver."
 }
-[3276dd225e1f1f7b3817d974fdb5e944626e2808]{
+[sha:3276dd225e1f1f7b3817d974fdb5e944626e2808]{
 -- Page 44, Offset 14030.
 -- 「はい。お役に立てたのなら幸いです」
 "Of course. I am glad to be of service."
 }
-[bd644ff3b26d96a969081418b3647e6c39fc9ff3]{
+[sha:bd644ff3b26d96a969081418b3647e6c39fc9ff3]{
 -- Page 45, Offset 14031.
 -- 左脚にかかる体重を、歩行器越しに左手で受け止める。
 I shift the weight of my body off of my left leg, and onto my left hand through the crutch.
 }
-[bc5b6a1b6bc89318d392600915ea593bb2457127]{
+[sha:bc5b6a1b6bc89318d392600915ea593bb2457127]{
 -- Page 45, Offset 14032.
 -- これなら問題なく歩ける。翡翠の心遣いにもう一度感謝をして、二人でロビーに移動した。
 With this, I can walk without issue. I thank Hisui once again for her thoughtfulness, and together we head toward the lobby.
 }
-[5259272a7fd5d925dee5395d5209e0235f0917f5]{
+[sha:5259272a7fd5d925dee5395d5209e0235f0917f5]{
 -- Page 46, Offset 14033.
 -- ―――さて、到着してしまった。
 ―――Well, we've arrived.
 }
-[f93c434bf69dcf7020a84f6d1b1bec6417435833]{
+[sha:f93c434bf69dcf7020a84f6d1b1bec6417435833]{
 -- Page 47, Offset 14034.
 -- 歩行器をドアの横に立てかける。
 // Wall reified 歩行器をドアの横に立てかける。
 I lean the crutch up against the wall beside the door.
 }
-[10ffc6c3f952f450f06206d4931f71bfa4b9d40d]{
+[sha:10ffc6c3f952f450f06206d4931f71bfa4b9d40d]{
 -- Page 47, Offset 14035.
 -- ここから先、扉一枚<隔|へだ>てた向こうには遠野家当主であらせられる秋葉さま……一歳年下、妹……が、哀れな兄の弁明を今か今かと待ち構えているという……。
 Straight ahead, on the other side of this door, the head of the Tohno family, Akiha-sama, is in attendance... She may be a year younger, my little sister... yet now she impatiently lies in wait for her pitiful older brother to make his excuses to her.
 }
-[6befcc566f72ee05c1afe5bd29335440adb0d652]{
+[sha:6befcc566f72ee05c1afe5bd29335440adb0d652]{
 -- Page 47, Offset 14036.
 -- ひどい魔窟だな、ここ。
 This place really is the cruel home of a devil.
 }
-[c7482c984a8bf1506a74e73cf70a246cf712a5d4]{
+[sha:c7482c984a8bf1506a74e73cf70a246cf712a5d4]{
 -- Page 48, Offset 14037.
 -- いや、弱音を吐いても始まらない。
 No, complaining won't solve anything.
 }
-[983300f8a9335fd116a6859157b44b6df1395c44]{
+[sha:983300f8a9335fd116a6859157b44b6df1395c44]{
 -- Page 48, Offset 14038.
 -- これも自業自得、どんな事情があったにしても学校を一日無断欠席して、二日も家に帰らなかったんだ。
 These are the consequences of my own actions. Regardless of the circumstances, I was absent from school without permission for one day and didn't return home for two.
 }
-[fffc8f5ca235c026ad41aa995b2b64f6965a4da0]{
+[sha:fffc8f5ca235c026ad41aa995b2b64f6965a4da0]{
 -- Page 48, Offset 14039.
 -- 秋葉が説明を求めるのも当然だろう。
 It's no wonder that Akiha demands an explanation.
 }
-[76ea8c5df8a86f44d6e3d6d6bbb6ff04d312c7d6]{
+[sha:76ea8c5df8a86f44d6e3d6d6bbb6ff04d312c7d6]{
 -- Page 49, Offset 14040. Mods: @k, @e.
 -- ここはやはり―――
 In this situation, I should―――
 }
-[4bd69026daf405c3c4561bc3a59eeb2da8149feb]{
+[sha:4bd69026daf405c3c4561bc3a59eeb2da8149feb]{
 -- Page 51, Offset 42624. Choice.
 -- 素直に謝る。
  Apologize sincerely.
 }
-[84c496329dda6ef25fdf9b3391b1b774bf3c04b7]{
+[sha:84c496329dda6ef25fdf9b3391b1b774bf3c04b7]{
 -- Page 51, Offset 42625. Choice.
 -- なんとか誤魔化す。
  Try to fool her.
 }
-[1dc3be0aaeb1666fb674fd9881b1fd741a06a9be]{
+[sha:1dc3be0aaeb1666fb674fd9881b1fd741a06a9be]{
 -- Page 51, Offset 42626. Choice.
 -- 本当のことを話す。
  Tell her the truth.
