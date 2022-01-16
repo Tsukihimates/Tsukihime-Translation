@@ -510,7 +510,7 @@ I gotta say, the voyeuristic side of me does want to see it.
 // TLing 泥棒騒ぎ as burglary _successes_ (over _attempts_) due to 入った in final sentence
 "Like I would know...
  Ah, wait, I think Keiko-san told me that there are actually a handful of burglaries each year,
- though for some reason the police don't seem to be in a hurry to do anything about it.
+ though for some reason the police never seem to be in a rush to show up.
  Have you really not heard anything about burglars making it into the mansion up on the hill?"
 }
 [sha:0038de156544cf0cd28e3f00ad0fe2b6eeddffec]{
@@ -531,57 +531,70 @@ I gotta say, the voyeuristic side of me does want to see it.
 [sha:b2ab189ecf52d48a5d6932438537e58e370a790e]{
 -- Page 77, Offset 16764.
 -- 警察が駆けつけるより先に泥棒を捕まえてるんだから、セキュリティは<脆弱|やばい>どころか優秀なのではないだろうか？
-Since they're catching the burglar before the police could get there, I would say that the security is excellent rather than bad.
+// Pretty bad -> good ref to Arihiko line above
+The burglars are getting caught before the police even have a chance to show up,
+ I'd call that pretty good security, not pretty bad.
 }
 [sha:ff62c821640e490e50188de856bf7683da03f6d6]{
 -- Page 78, Offset 16765.
 -- 「いや、だからよ。そもそも外に出てきてねえんじゃねえの、その泥棒さん」
-"No, that's exactly why. In the first place, those burglars don't come out afterwards, right?"
+"No, that's my point. The burglars don't make it out again, do they?"
 }
 [sha:47f32f5617b1cd30ab111db1c69f5ca6aa841b2f]{
 -- Page 78, Offset 16766.
 -- 「なるほど。それならどんな噂も広まらないか」
-"I see. In that case, none of the rumors would be able to spread."
+"I see. In that case, there'd be no way for rumors to spread."
 }
 [sha:3ad9edcd334daa9b2e5ddd69f721341e4179031b]{
 -- Page 79, Offset 16767.
 -- うむ、と真顔で頷き合う。
-We nod to one another with serious faces.
+We nod gravely to each other.
 }
 [sha:e3aee481cd7ade93977f279b99c398a8666eff6d]{
 -- Page 79, Offset 16768.
 -- ……この話題をこれ以上考えると恐ろしいので、俺たちは全力で話題を切り替える事にした。
-...It was terrifying to think about this topic any longer, so we decided to switch the subject as best as we could.
+...We were terrified to think any deeper on the topic,
+ so we both do our best to change the subject.
 }
 [sha:8aed59f43a8a993909b667496f1d9088aa0b957e]{
 -- Page 80, Offset 16769.
 -- 「そうそう。土曜の事故現場、もう見たか？　北口駅前の大火事。地下からの出火だったって話」
-"Oh, yeah. Have you seen the scene of the incident on Saturday? I heard that it was a fire at the northern gate that originated underground."
+"Oh, yeah.
+ Did you see the scene left by the incident on Saturday?
+ That big fire by the north gate of the station.
+ I heard the outbreak started underground."
 }
 [sha:fee7d2e266b3cb6c8d92cddb8b5ee0ca49d27d57]{
 -- Page 80, Offset 16770.
 -- 「……いや、まだ見てない。話だけは聞いているけど」
-"...No, I haven't seen it yet. I've only heard about it."
+"...No, I haven't seen it yet. I've heard a bit about it though."
 }
 [sha:a641caa7056dc1fcb0bb1c9ee7be777d8c33de05]{
 -- Page 81, Offset 16771.
 -- 「ほれ、北口に改装前のデパートあっただろ。あの前にあった公園がごっそり地下に陥没してる。ありゃあひでぇぜ、元に戻すの一年はかかるんじゃねえかな。
-"Look, there was a department store at the north gate before it got remodelled right? The park that was in front of it got completely collapsed underground. It was awful, it'd probably take a year before it gets restored.
+"Look, there's the department store in front of the north gate they were about to remodel, right?
+ The park that was in front of that is totally caved in.
+ Just absolutely wrecked.
+ It's probably gonna take them like a year to fully rebuild it."
 }
 [sha:ae4bea503fbe5b7a6192d18425da086a26bdef9f]{
 -- Page 81, Offset 16772.
 -- でもまあ、悪い事ばかりじゃない。警備員やらテレビ局やらが押し寄せてるんで、北口の<新|バ><参|カ>共、なりを潜めやがったからな」
-But well, it's not all bad news. Because the security guards and TV stations are all over the place, those idiots at the north gate have gone into hiding as a result."
+But hey, it's not all bad news.
+ Now that there are security guards and TV news crews crawling all over the place,
+ those idiots at the north gate have gone into hiding."
 }
 [sha:1c087e3fdb01d7d5ca36755cbaf0a8477e6de9f4]{
 -- Page 82, Offset 16773.
 -- 「そうなのか。……じゃあ、鞍御橋駅のホテルの話は？」
-"Is that so... Then what about the hotel at Kuramibashi Station?"
+"Is that so... Oh, what about the hotel at Kuramibashi Station?"
 }
 [sha:a3775e7bfad2e1d083978acb8ebd835ef7c75fd3]{
 -- Page 82, Offset 16774.
 -- 「鞍御橋のホテルって、あのドームホテル？　あー……そういえば、あっちでも火災があったんだっけ。北口の壊れっぷりがすげえんで忘れてたわ」
-"The hotel at Kuramibashi, you mean that Dome Hotel? Ah... that reminds me, there was a fire there as well. The damage at the north gate was so great that I forgot about it."
+"The hotel at Kuramibashi, you mean that Dome Hotel?
+ Ah... that's right, there was a fire there as well.
+ The fallout from the one at the north gate was so much bigger that I totally forgot about it."
 }
 [sha:9caf14b145678895cf9c4bcbc95dc1940b2d2be2]{
 -- Page 83, Offset 16775.
@@ -591,43 +604,57 @@ But well, it's not all bad news. Because the security guards and TV stations are
 [sha:629d384fa117e84e1c7081fd553fa3f1a3002243]{
 -- Page 83, Offset 16776.
 -- あれだけの人間が焼死した事件であろうと、有彦にとってはとなり町の話だ。
-Even though there were so many people that burned to death in that incident, for Arihiko, it was just a story from the neighboring town.
+Even though so many people burned to death in that incident,
+ to Arihiko, it's just a story from the next town over.
 }
 [sha:5256222b9022630df26c64ec0c604a277cc0c25a]{
 -- Page 83, Offset 16777.
 -- 日々ニュースが更新される現代において、どれほど辛い出来事だろうと、次の凄惨なニュースに上書きされ、消費される。
-In this day and age where news gets updated daily, regardless of how tragic an event is, it will always be overwritten and consumed by the next horrifying news.
+// 消費される somewhat liberally TLd here
+// A more faithful to the 'consume' imi but still liberal tl might be
+// ...an event is, it'll still be chewed up and then spat out as soon as the next lurid news story comes along.
+Thanks to the constant stream of news we're subject to in this day and age,
+ no matter how tragic an event it is,
+ it will always be eclipsed by the next lurid news story and pushed out of the public consciousness.
 }
 [sha:4b07475c81917b232467c0602b9338ed3825d44d]{
 -- Page 84, Offset 16778.
 -- 「……なんにせよ物騒なのは変わらねぇってコトか。
-"...In any case, that doesn't change the fact that it's disturbing.
+"...But still, that doesn't make it any less disturbing.
 }
 [sha:24b20f727985b04fb4b26f807daa23233b2e70f9]{
 -- Page 84, Offset 16779.
 -- そういうおまえさんもどうなんだよ。遠野は中学からこっち、貧血持ちのくせに学校だけは休まなかったじゃねえか。まあ、登校した瞬間に帰るっていう離れ技は何度かあったけどな」
-And so what's happening on your end? Ever since middle school, you've never taken a day off school despite having anemia. Well, you did pull off the stunt of going back home right after coming to school a couple of times."
+// 登校した is more like just showing up than the actual taking of attendance
+Anyway, what's happening on your end?
+ In spite of your anemia, I don't think I've seen you take a single day off since middle school.
+ Though, I've seen you pull the stunt of going home right after they take attendance a couple times."
 }
 [sha:0719ae0088f7b80aeafc8ba0ecfc455d9a6fc928]{
 -- Page 84, Offset 16780.
 -- 「それと似たようなものだよ。交差点あたりまでは登校したんだけど、そこで気分が悪くなって帰ったんだ」
-"It was something like that. I reached somewhere around the crossing on the way to school, but then I started feeling sick and went back home."
+"Yeah, it was something along those lines.
+ I made it about as far as the intersection, but then I started feeling sick so I just went back home."
 }
 [sha:ebf81cadd578d0dfa1759cc269ccd1acc48ebbe6]{
 -- Page 85, Offset 16781.
 -- 「ふーん。弓塚といいおまえといい、最近素行が悪いんじゃないか？」
-"Hmm. Not only Yumizuka, but you as well. Haven't you both been behaving poorly lately?"
+"Hmm. Both you and Yumizuka have been behaving a little badly lately, haven't you?"
 }
 [sha:64da9c372d37fe952a70424c09b884988738d75c]{
 -- Page 85, Offset 16782.
 -- 「素行が悪いっていうのは否定しないけど……弓塚さん、どうかしたのか？」
-"I don't deny that I've been behaving poorly but... Yumizuka-san, what's wrong with her?"
+"I can't deny that my behaviour has been less than perfect lately, but...
+ What's the deal with Yumizuka-san?"
 }
 [sha:a9b44efd6b781794892f9f414d142e16fd049c1f]{
 -- Page 86, Offset 16783.
 -- 「木曜からずっと欠席。今朝も来てねえ。あいつもずっと優等生してたからな、いいかげんテンパッてたのかもしれん。しかしフリテンだから上がれない、と」
 // Mahjong analogy
-"She's been absent since Thursday. She didn't show up this morning either. She's always been treated as the honor student, so maybe she might have lost her mind. She must have been like 'I can't win if I'm in furiten'."
+"She's been absent since Thursday.
+ She didn't show up this morning either.
+ She's always been an honour student, but maybe she was sick of sitting in tenpai.
+ Though, she can't win now if she's in furiten."
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 86, Offset 16784.
@@ -637,11 +664,12 @@ And so what's happening on your end? Ever since middle school, you've never take
 [sha:fd1530cf7000ea25d7962e453a6657c0dc4065be]{
 -- Page 86, Offset 16785. Mods: @n.
 -- 有彦の喩え話は、なんというか独特だ
-Arihiko's analogies are rather unique.
+Arihiko's analogies are... unique, shall we say.
 }
-[sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
+[offset:16786]{
 -- Page 86, Offset 16786. Glued.
 -- 。
+// Doesn't seem to actually show up in-game?
 .
 }
 [sha:2ee5f0289a286072d58764e18d1582820e5fa5be]{
@@ -652,7 +680,7 @@ Arihiko's analogies are rather unique.
 [sha:333f74136228046cd8e8b4e5237606a04490c607]{
 -- Page 87, Offset 16788.
 -- さらばだ、金曜さぼった分まじめに勉学に励むがいい！」
-Farewell, and study hard to make up for all the things you missed on Friday!"
+Farewell, study hard to make up for all the things you missed on Friday!"
 }
 [sha:29543953134ccb8141491cb5a6444d44e3e33284]{
 -- Page 88, Offset 16789.
@@ -667,5 +695,6 @@ He must have gone to hide in the infirmary or something.
 [sha:a2620d263978e5a3aec254aa528adc02aa60b117]{
 -- Page 88, Offset 16791.
 -- 今日はあいつが授業をボイコットするターンらしい。
-It seems like today is his turn to boycott class.
+// 'Boycott' not really used that way in EN
+It seems like today it's his turn to skip class.
 }
