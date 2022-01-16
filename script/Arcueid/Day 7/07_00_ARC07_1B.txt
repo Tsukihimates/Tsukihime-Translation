@@ -445,37 +445,46 @@ Thanks to that, this morning is going to be even... more... energetic?
 [sha:3f0ba8736934b0c1ce948ec95157ad4e44a2c1c1]{
 -- Page 71, Offset 16751.
 -- 「寝こんでないし、貧弱でもない。
+// This correct for 貧弱でもない?
 "I didn't stay in bed, and I'm not lacking sleep either.
 }
 [sha:5550261e1ff388e22e32b9d96344441cebdb9a97]{
 -- Page 71, Offset 16752.
 -- 金曜日はたまたま気分が悪くなっただけで、家に帰ったら回復したよ。面倒なんで、そのまま学校は休んだけど」
-I just happened to feel sick on Friday and recovered when I got back home. It was a hassle to go back to school, so I took the day off instead."
+I just happened to be a little under the weather on Friday, but I started feeling better after I got home.
+ It didn't feel worth it to go all the way back to school, so I took the day off instead."
 }
 [sha:f68f096fce6e45dbcef3a52868a206fc9b61e2d2]{
 -- Page 72, Offset 16753. Mods: @k, @e.
 -- 「マジか。あの豪華なお屋敷でのんびりアンニュイ<生活|ライフ>とか、たった三日でお貴族さまの仲間入りかよ。
-"Seriously? While living such a carefree and weary life in that extravagant mansion, you've turned into such an aristocrat in just 3 days?
+"Seriously?
+ I can't believe it only took three days for the listless, laid-back lifestyle
+ in that opulent mansion to turn you into an aristocrat.
 }
 [sha:a4d6a69d38f648948d284c02164a34af27c8e3c6]{
 -- Page 72, Offset 16754. Glued. Mods: @x.
 -- あいかわらず<肝|きも>太いっつーか、順応性高いっつーか、ほんと住めば<都|みやこ>なのな遠野は。うん、メチャクチャ羨ましくねぇーーー！」
- Whether you're bold or just plain adaptable, as always, you can make any place your home. Yeah, I don't envy you one bit!"
+// Leading space for glue
+// 肝が太い seems to be "物に動じない。大胆である。" Leaning towards first interpretation here.
+// Aggressive VA liberally inflected here
+Man, as usual nothing bothers you huh.
+ Look at Mr. Adaptable over here, with his 'wherever I lay my hat is home' attitude.
+ I'm not jealous at all, no sir!"
 }
 [sha:c62b12a3e47296348ce2629966188bafbb15f7c1]{
 -- Page 73, Offset 16755.
 -- 凄まじいまでの強がりを見せる有彦。
-Arihiko shows off a tremendous bluff.
+Arihiko's bluff is a sight to behold.
 }
 [sha:e558b5b45ee475b3a54e8fc5df94764553124380]{
 -- Page 73, Offset 16756.
 -- この男の反骨精神は見習うべきところがある。
-This guy's rebellious spirit is something to be learned from.
+We could all learn a thing or two from his rebellious spirit.
 }
 [sha:3ab129c6c28476ee081cdce8443801161886f646]{
 -- Page 74, Offset 16757.
 -- 「言っとくけど慣れてないぞ。
-"I'm telling you, I'm not used to this.
+"I'm telling you, I'm not used to it at all.
 }
 [sha:20737be86fecec972bf14d69ace66df9a0eeed7b]{
 -- Page 74, Offset 16758.
@@ -485,27 +494,39 @@ Besides, you haven't even seen how huge that house is... hmm? Arihiko, you know 
 [sha:29cc3aeb10da5bcaf1810ca24cd927675efba202]{
 -- Page 75, Offset 16759.
 -- 「うんにゃ、知らぬ。あんだけ高いところにあって、かつまわりは塀と林だろ？　敷地の中に入らねぇと見えねぇだろ。
-"Nope, not a thing. I mean, it's at such a high place, and it's surrounded by walls and trees right? I can't look at it if I can't even get inside the area.
+"Nope, not a thing.
+ I mean, it's on top of a hill, and it's surrounded by walls and trees right?
+ Without a way to get inside the grounds, there's no way I can get a glimpse at the mansion itself.
 }
 [sha:9e4b0b55204909bb918674b77c04f24e31816f9f]{
 -- Page 75, Offset 16760.
 -- いや、<出歯亀|デバガメ>根性で見たいけどよ。でもほら、お宅、セキュリティとか、お凄いんでしょ？」
-Well, the voyeuristic side of me does want to see it. But I mean, your house's security and such is amazing, right?"
+I gotta say, the voyeuristic side of me does want to see it.
+ But I mean, your house's security and such is amazing, right?"
 }
 [sha:4207b6603ab45eff5e4fa0f4d25d536c8b83d672]{
 -- Page 76, Offset 16761.
 -- 「俺が知るか。……ああいや、啓子さんの話じゃ年に数回泥棒騒ぎがあるらしいけど、遠野邸に警察が駆けつけた事なんかないって言ってたし。おまえだって、丘の上の屋敷に泥棒が入ったなんて話、聞いた事ないだろ？」
-"Like I would know... Oh wait, there did seem to be a couple of burglary incidents every year according to Keiko-san, but she did say that the police never rushed to the Tohno mansion. Surely even you've heard about the burglaries at the mansion on top of the hill, right?"
+// TLing 泥棒騒ぎ as burglary _successes_ (over _attempts_) due to 入った in final sentence
+"Like I would know...
+ Ah, wait, I think Keiko-san told me that there are actually a handful of burglaries each year,
+ though for some reason the police don't seem to be in a hurry to do anything about it.
+ Have you really not heard anything about burglars making it into the mansion up on the hill?"
 }
 [sha:0038de156544cf0cd28e3f00ad0fe2b6eeddffec]{
 -- Page 77, Offset 16762.
 -- 「おま、それ……年に数回賊が押し入るのに警察が来ないって……それやばくね？　蟻地獄っぽくね？」
-"You, that's... for the police to not come even after multiple trespassings a year... isn't that pretty bad? Like an antlion pit?"
+// Is Arihiko saying "your house is like an antlion pit" (burglars go in but they don't come out)
+// or that Shiki is living in the lion's den (burglars could rough our poor sweet boy up)?
+// Given 外に出てきてねえんじゃねえの、その泥棒さん, inclined to former
+"Dude, that's...
+ If you've got multiple burglars breaking in every year, and the police aren't showing up... isn't that pretty bad?
+ Is your house an antlion pit or something?"
 }
 [sha:56f120f2e1411a85967a08faed61932e785bbd21]{
 -- Page 77, Offset 16763.
 -- 「？　どこが？」
-"Which part?"
+"Huh? How do you figure?"
 }
 [sha:b2ab189ecf52d48a5d6932438537e58e370a790e]{
 -- Page 77, Offset 16764.
