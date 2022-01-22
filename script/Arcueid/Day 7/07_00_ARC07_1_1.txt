@@ -6,29 +6,33 @@ It's currently 7:00 PM.
 [sha:0ae30c8b668323e38414fbd46198de0cf1a7393a]{
 -- Page 10004, Offset 16897.
 -- もともと車通りの少ない国道だが、夜ともなれば完全に<人気|ひとけ>は途絶え、周囲は静まりかえっている。
-It was a highway with very little traffic to begin with, but as the night comes, all signs of life come to a halt and the surroundings fall silent.
+This road doesn't get much traffic to begin with,
+ but after night falls it's utterly devoid of any signs of life,
+ and the whole area is as silent as the grave.
 }
 [sha:e3259adc97db4ab4149b8db429f60a20e5c73703]{
 -- Page 131, Offset 16898.
 -- 呼び鈴を押してロックを解除してもらおうとも思ったが、今はちょうど夕食前だ。
-I thought about pressing the buzzer and asking them to unlock the gate, but then I realized that it was currently right before dinner time.
+I thought about pressing the buzzer and having them unlock the gate for me,
+ but it's currently right before dinner time.
 }
 [sha:1a2b4b95be5be97731f7b8f9045a9bad574aac47]{
 -- Page 131, Offset 16899.
 -- 琥珀さんも翡翠も厨房にいるだろうし、邪魔をするのも気が引ける。
-Kohaku-san and Hisui are both probably at the kitchen, and I wouldn't want to get in the way of their work.
+Both Kohaku-san and Hisui are probably in the kitchen right now,
+ and I wouldn't want to get in the way of their work.
 }
 [sha:0edc2b57fba26e8949601a0186ce32e234802572]{
 -- Page 131, Offset 16900.
 -- カードキーを使って、正門横の扉をくぐり抜けた。
-I use the card key and pass through the door next to the gate.
+Using my keycard, I go through the side door next to the gate.
 }
 [sha:be370f298b77d470942d9986d4445ba2231c6f94]{
 -- Page 132, Offset 16901.
 -- 「―――あ」
 "―――Ah."
 }
-[sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
+[offset:16902]{
 -- Page 132, Offset 16902.
 -- ……と。
 ...And then.
@@ -36,7 +40,8 @@ I use the card key and pass through the door next to the gate.
 [sha:ee06a3a3c702bc1cc62484e0ff9dbcebace8c71b]{
 -- Page 132, Offset 16903.
 -- 玄関口に立ったところで、今朝のやりとりを思い出した。
-The moment I arrived at the entrance, I remembered the back and forth from this morning.
+// Promoted to present tense to match the rest of the text.
+The moment I arrive at the entrance, I remember the heated exchange from this morning.
 }
 [sha:495fea5a0133d78138d211a2be006e687098ac03]{
 -- Page 133, Offset 16904. Mods: @k, @e.
@@ -46,10 +51,12 @@ I wonder if Akiha's still mad at me for rushing out of the mansion in a hurry?
 [sha:0335ebf9024e8e1466a97f43cffd3b92696a8f44]{
 -- Page 134, Offset 42637. Choice.
 -- まさか、子供じゃあるまいし。
-No way, she isn't a child after all.
+// These two choices reworded to more heavily share the same bones, to reflect
+// the JP sentences.
+ No way, she's not that childish.
 }
 [sha:2b2dd0974e410cf9eb94b5ac811f65e59bceac59]{
 -- Page 134, Offset 42638. Choice.
 -- まさか、大人じゃあるまいし。
-Well, she isn't exactly a grown up yet.
+ Yes way, she's not that mature.
 }
