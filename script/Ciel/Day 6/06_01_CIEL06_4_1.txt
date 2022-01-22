@@ -9,6 +9,7 @@ I'll go for a stroll out in the yard.
 [sha:3b6f818db70d1fbcb53c568a4f070f20a881784e]{
 -- Page 10008, Offset 13580.
 -- 屋敷に帰ってきてからこっち、庭園には出ていない。
+// change everything else to gardens
 I haven't been out to take a look at the gardens since I returned to the mansion.
 }
 [sha:8890c0dd2f3dcd013b54d1d8c216ec1b25ebe180]{
@@ -44,12 +45,13 @@ Back when we were little, this was Akiha's favorite haunt on days when the weath
 // https://ejje.weblio.jp/content/%E6%B4%BB%E5%8B%95%E7%AF%84%E5%9B%B2
 // There's an annoyingly nitpicky tiny difference between 活動範囲 on this line and 移動範囲
 // on the next that's tricky to translate without repeating myself.
+// to be rechecked, change frontier
 Though, perhaps it would be more accurate to say that it was also her frontier.
 }
 [sha:3a3ad51a874d8e831887a34807a5b8baf1fd7eef]{
 -- Page 164, Offset 13587.
 -- 秋葉ひとりでは園まで出る事はなく、このテラスまでがあいつの移動範囲だった。
-Akiha never went out into to the garden by herself, this terrace marked the confines of where she was allowed to roam.
+Akiha never went out into the garden by herself, this terrace marked the confines of where she was allowed to roam.
 }
 [sha:619fc6b68d634611298f3dfc082af4237b14f665]{
 -- Page 165, Offset 13588.
@@ -132,6 +134,7 @@ I lay my hand on the railing and gaze at the vast autumnal garden.
 [sha:e2298125f973cc6db9b201fd9ea97f2e44a53b0d]{
 -- Page 170, Offset 13603.
 -- ここまでくると洋館というより城に近い。絶景には違いないが、俺には不釣り合いすぎて苦笑いするしかない。
+// to be rechecked
 From this perspective, the mansion looks more like a castle than simply a Western-style house.
  It's a spectacular sight, but it's so far removed from what I'm comfortable with that I can't help smiling bitterly.
 }
