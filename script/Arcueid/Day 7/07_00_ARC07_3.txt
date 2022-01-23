@@ -256,7 +256,7 @@ Akiha glances toward me.
 -- Page 187, Offset 17032.
 -- いいえ。ソファーに近づいたが最後、そのままナイフでトスっと刺されそうな気がするので、とてもじゃないけど近づけない。
 Absolutely not.
- I get the feeling that I'd end up with a knife stuck in me the second I get within range of the sofa.
+ I have the feeling that I'd end up with a knife stuck in me the second I get within range of the sofa.
  There's no way I'm going near it.
 }
 [sha:02dfc62fd91da506e9152e3daa7220b2d956d6bf]{
@@ -267,7 +267,7 @@ Absolutely not.
 [sha:42836a74a3b604bf23b775e72fbf411446fad9c2]{
 -- Page 188, Offset 17034.
 -- それより秋葉、こいつはだな、その――――」
-Besides that, this person here is, well――――"
+More importantly, this person here is, well――――"
 }
 [sha:e2e46254035875007b45431065f54fba14386517]{
 -- Page 189, Offset 17035.
@@ -292,17 +292,24 @@ Akiha pierces me with her unforgiving gaze.
 [sha:7e0792412cd7088b1d8efdbf9b8e318e381921b7]{
 -- Page 191, Offset 17039.
 -- ええい、こうなっては何を言っても無駄な気がするけど、誰も傷つかない……特に俺の平穏が脅かされない……弁明を繰り出さなければいけない。
-Fine. There's probably nothing I can say at this point, but if I don't want to hurt anyone... and especially if I don't want my peaceful life to be threatened... then I must come up with an excuse no matter what.
+Fine.
+ We're probably past the point where anything I say can make a difference,
+ but if I want to make sure nobody gets hurt...
+ and, of course, that my own peace isn't threatened...
+ I've no choice but to come up with some kind of explanation.
 }
 [sha:fac9223df3e7525ff58923d705a1db8fffa8ab04]{
 -- Page 192, Offset 17040.
 -- いけないんだけど―――そもそもの話、あそこで我関せずとニコニコ笑ってやがる吸血鬼女は、どんな<名目|めいもく>でうちにあがりこんだのだろう？
-I say that, but―――For starters, that vampire with a stupid grin on her face like it's none of her business. What sort of pretext did she use to get inside the mansion in first place?
+I've got to come up with an explanation, but before I do―――
+ I have to wonder under what pretense this vampire woman,
+ happily standing there with a grin on her face as though this is all no concern of hers,
+ managed to make her way into the mansion in the first place.
 }
 [sha:3f6e608e01b71743e31fe91b31e7c06799e2a6d5]{
 -- Page 192, Offset 17041.
 -- 秋葉が見ず知らずの人間を居間に通すなんて、ちょっと考えつかないぞ？
-I can't imagine that Akiha would just invite a random stranger to the living room like that.
+I find it pretty hard to believe that Akiha would invite a stranger into the living room.
 }
 [sha:ec515bd16b86ee4cb415992d39fdcdfbb6ea12f6]{
 -- Page 193, Offset 17042.
@@ -314,7 +321,7 @@ I can't imagine that Akiha would just invite a random stranger to the living roo
 -- コイツ、なんて言ってやってきたの？」
 This person, what did she say she came for?"
 }
-[sha:44e983b6d2f3458381521ba7e01ad8114f2a29b8]{
+[offset:17044]{
 -- Page 193, Offset 17044.
 -- 「ん？」
 "Hmm?"
@@ -322,7 +329,7 @@ This person, what did she say she came for?"
 [sha:93a061d9f61e19b9d3b830908ab7798ab0b96b0b]{
 -- Page 193, Offset 17045.
 -- アルクェイドは不思議そうに首をかしげている。
-Arcueid tilts her head in perplexion.
+Arcueid tilts her head, perplexed.
 }
 [sha:b91248f8c77e8b5c9ade24c30767f2631ad8841e]{
 -- Page 194, Offset 17046.
@@ -342,12 +349,12 @@ That's how she introduced herself."
 [sha:8d0884e8a3abc8cd68c366aac183742f056e2c1b]{
 -- Page 195, Offset 17049.
 -- 「そうですか。私にも紹介していただけると嬉しいわ。
-"I see. I would have loved it if you had introduced her to me.
+"I see. In that case I would be overjoyed if you could formally introduce me to her.
 }
 [sha:b3eb039c5e7de1541f2cd6cb6e502139963d58f4]{
 -- Page 195, Offset 17050.
 -- 兄さんのご友人でしたら、無下にお帰りいただくわけにはいきませんし」
-If she is your friend, then it would have been rude of me to refuse her and ask her to go home."
+If she's one of Nii-san's friends, then I can hardly turn her away at the door, can I."
 }
 [sha:5d4bc268068d0c0b40663538bfdd63ed22c909c3]{
 -- Page 195, Offset 17051.
@@ -357,7 +364,7 @@ If she is your friend, then it would have been rude of me to refuse her and ask 
 [sha:39bdb1e30f945b14af7e6f4ec0662d3b1c70c7a1]{
 -- Page 196, Offset 17052.
 -- ムニャムニャと言葉を濁す。
-My words come out in a mumble.
+My words devolve into a mumble.
 }
 [sha:1a7b5d212c00255b0e767f76975c8d2ab1dd5357]{
 -- Page 196, Offset 17053.
@@ -367,54 +374,63 @@ My words come out in a mumble.
 [sha:4e7cd245024a3cc46aa95d8ceef25b9c257db5b5]{
 -- Page 196, Offset 17054.
 -- と。無視され続けて我慢できなくなったのか、アルクェイドは兄妹水入らずの会話に割って入ってくると、
-Whether it's because she's had enough of being ignored, Arcueid forces herself into this conversation between siblings.
+// Can't think of a great way to closely TL 兄妹.
+Perhaps having grown tired of being ignored,
+ Arcueid forces her way into the conversation between Akiha and myself.
 }
 [sha:5d4fb363034f3eabdb4012ccbeb770b49e76b435]{
 -- Page 197, Offset 17055.
 -- 「あんな酷いコトしておいて、そういうコト言うんだ。わたし、まだ体が痛いんだけど」
-"So that's what you call me after doing such terrible things. Even when my body still hurts."
+// This is a bit of an over-tl, but plays better into the rest of the scene than a literal
+// "Even after doing such horrible things, you say something like that."
+"To think that's all I am to you, even after you did such terrible things.
+ My body still hurts, you know."
 }
-[sha:a34636cdd84a4aaa20b1a35f8681309c6f62dc33]{
+[offset:17056]{
 -- Page 197, Offset 17056.
 -- 「な――――――」
-"What――――――"
+"Wha――――――"
 }
 [sha:0a29da2404b3a16ca99774fa333c566ac333d2eb]{
 -- Page 198, Offset 17057.
 -- くらっ。
-// WHAT SOUND DOES DIZZINESS MAKE?
-*geh*
+// EN just straight up doesn't use onomatopoeia like this.
+I feel giddy.
 }
 [sha:2690a1b90b64c56db03341f2b447b74ee9934072]{
 -- Page 198, Offset 17058.
 -- ああ、これが世間一般でいう目眩なのか。
-Ah, so this is what they call vertigo.
+Aah, so this is what people mean by vertigo.
 }
 [sha:01c813bafa2d416f4543f8ee737809732402715b]{
 -- Page 198, Offset 17059.
 -- この、現実からすごい勢いで<離脱|ばびゅーん>していく<酩酊|めいてい>感、たまらん。
-This intoxicating feeling of being  forcefully withdrawn from reality... I can't bear it.
+This feeling of drunkenness,
+ of being forcibly torn adrift from your own reality...
+ I can't bear it.
 }
 [sha:e65363638cb4043d34d1808a3039a6471d358bb1]{
 -- Page 199, Offset 17060.
 -- 「……それはどういった意味でしょうか。私の兄が、身体面、あるいは精神面において貴女に危害を加えたとでも？
-// 「……それはどういった意味でしょうか。私の兄が、身体面、あるいは精神面において貴女に危害を加えたとでも？
-"...What is the meaning of this? Are you implying that my brother has caused you harm physically, or perhaps mentally?
+"...What do you mean by that?
+ Are you implying that my brother has caused you harm physically, or perhaps mentally?
 }
 [sha:cd1a9635440c163bea51858be0da0818616b9136]{
 -- Page 199, Offset 17061.
 -- 失礼ですが、ご自分がどれほど信憑性のない発言をしているか、理解していますか？」
-I don't mean to be rude, but are you aware of how much credibility is lacking in those statements of yours?"
+I don't mean to be rude, but are you aware of how unbelievable that claim of yours is?"
 }
 [sha:6e4063b29b365845acb9adba87de3c073787fd3e]{
 -- Page 200, Offset 17062.
 -- 「ええ、バッチリね。でも安心して、そんなのもう気にしていないから。ちゃんと体で返してもらったし。
-"Yeah, totally. But don't worry, it doesn't bother me anymore. He did help me recover after all.
+"Yeah, totally. But relax, it doesn't bother me anymore.
+ He paid me back with his body after all.
 }
 [sha:3e8c74db501b3a27405b3ec321b4da900c46e5d7]{
 -- Page 200, Offset 17063.
 -- なので、どうぞおかまいなく。わたしは志貴を誘いに来ただけだもの。すぐに出かけるわ。ね、そうでしょ志貴？」
-And so by all means, don't sweat it. I only came here to invite Shiki. We'll be off before you know it. Isn't that right, Shiki?"
+Anyway, don't mind me. I only came here to grab Shiki.
+ We'll be off before you know it. Isn't that right, Shiki?"
 }
 [sha:41e9b448ab3965a158cbf875011e06c7a657b488]{
 -- Page 201, Offset 17064.
@@ -424,7 +440,7 @@ And so by all means, don't sweat it. I only came here to invite Shiki. We'll be 
 [sha:369de85c931b1141129b394a749d5797a6dbd75a]{
 -- Page 201, Offset 17065.
 -- コイツにこれ以上<喋|しゃべ>らせては、遠野志貴の身の破滅だ。
-If this woman speaks any further, my body will be reduced to ruins.
+If I let this woman keep talking, it'll be the end of me.
 }
 [sha:4f81c4e21970d3819f04c878e96abfb924a4438a]{
 -- Page 202, Offset 17066.
@@ -444,17 +460,18 @@ and forcefully grab her by the arm.
 [sha:24240ed8c368d8c7a3b616e40529a5639c993d90]{
 -- Page 203, Offset 17069.
 -- 「ちょっと志貴、急に何するのよ」
-"Geez, Shiki, what are you doing all of a sudden?"
+"Geez, Shiki, what's gotten into you?"
 }
 [sha:ecc26833d97471efc2871cf2f33ca11502e2091a]{
 -- Page 203, Offset 17070.
 -- 文句を聞いている余裕はない。
-I can't afford to listen to her complaints.
+I can't afford to sit here and listen to her complaints.
 }
 [sha:b07da0350505ba4a170da84befa31162dea0de6c]{
 -- Page 203, Offset 17071.
 -- 俺はアルクェイドの腕を引っぱって、呆然としている秋葉を残して居間から飛び出した。
-I pull Arcueid by her arm and rush out of the room, leaving Akiha in a dumbfounded state.
+I rush out of the living room,
+ dragging Arcueid along after me and leaving a dumbfounded Akiha in my wake.
 }
 [sha:663eb8ad51d7d2bf9e80a080a524e37d810cca8f]{
 -- Page 204, Offset 17072.
@@ -464,7 +481,9 @@ Hisui is waiting in the lobby.
 [sha:05ecf174d93aedf1b49fece3dfa2ef878c8f2c2f]{
 -- Page 204, Offset 17073.
 -- 翡翠はアルクェイドを引っ張って走る俺を、どのような心境で見ているのか。考えると胃に穴が空きそうなので、今は考えないようにしよう。
-I wonder what's going on in that head of hers as she watches me drag Arcueid along in a dash. Thinking about it makes my stomach churn, so I should stop doing it for now.
+I wonder what's going through Hisui's mind as she watches me rush by with Arcueid in tow.
+ Thinking about it makes me feel like a pit is opening up in my stomach,
+ so I'll just put it out of my mind for the time being.
 }
 [sha:04f32eabd6edc09ca9a1a45093c40d2ea3eb2386]{
 -- Page 205, Offset 17074.
@@ -474,8 +493,8 @@ I wonder what's going on in that head of hers as she watches me drag Arcueid alo
 [sha:6c41f73d98fbfe5a99d07f8f526844f0a089a87b]{
 -- Page 205, Offset 17075.
 -- 「不本意ながら。すっごく申し訳ないんだけど、玄関の鍵は開けておいてほしい」
-// not sure what to do with 不本意ながら。
-"Begrudingly, yes. I know I'm asking for a lot and I'm incredibly sorry, but please leave the front gate unlocked for me."
+"Against my better judgement, yes.
+ I know I'm asking for a lot and I'm incredibly sorry, but please leave the front door unlocked for me."
 }
 [sha:f08d00fb7d1d2078a62e25a396ee5b8d5a10eda7]{
 -- Page 205, Offset 17076.
@@ -485,5 +504,6 @@ I wonder what's going on in that head of hers as she watches me drag Arcueid alo
 [sha:5430a37e61d223c2da45c785f276a6ec55d0521f]{
 -- Page 206, Offset 17077.
 -- <慇懃|いんぎん>におじぎをする翡翠の横を駆け抜けて、逃げるように屋敷から外に出る。
-Running past Hisui who was bowing out of courtesy, I run outside as if escaping from the mansion.
+As Hisui bows courteously,
+ I sprint past her and out of the mansion, as if making my escape.
 }
