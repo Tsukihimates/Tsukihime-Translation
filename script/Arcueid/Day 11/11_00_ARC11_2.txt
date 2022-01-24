@@ -1,7 +1,7 @@
 [sha:e3773ded59eee811788ea93e0ac5b4b8282d3d49]{
 -- Page 10004, Offset 29609.
 -- 崩落事故現場前。
-I'm in front of collapsed site.
+I'm in front of the site of the collapse.
 }
 [sha:6f1f4b132c98043cc45e24192c37e52fee4e471e]{
 -- Page 10004, Offset 29610.
@@ -11,7 +11,7 @@ Six days have passed since the inferno and the area is completely silent.
 [sha:8274a46f6281962351b4419a53e949c24bbe9c03]{
 -- Page 10004, Offset 29611.
 -- かつては人々の憩いの場だった駅前の公園は、今では無残な廃墟と化している。
-This station in front of the park used to be a site for relaxation. It has since become tragic ruins. 
+This park in front of the station used to be a site for relaxation. It's since become tragic ruins. 
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 44, Offset 29612.
@@ -21,15 +21,17 @@ This station in front of the park used to be a site for relaxation. It has since
 [sha:87cd640c9119aa37cc90ba8bbcfce16356d729b5]{
 -- Page 44, Offset 29613.
 -- かつて、ここには生活があった。
-People used to come here and live their lives.
+People used to come here to live their lives.
 }
 [sha:5e7e919c0f874f48a441f789059387c33409a2f6]{
 -- Page 44, Offset 29614.
 -- 俺とは無関係の、俺とは交わる事のない人々の生活が。
-People completely unrelated to me, that I'd never so much as crossed paths with.
+People completely unrelated to me. People I'd never so much as crossed paths with.
 }
 [sha:87f12acbc7d85c51906869fd7b32652dbca22159]{
 -- Page 45, Offset 29615.
+// this line and the next are kinda funky with the reversal
+// I'm not super sure what to make of it.
 -- 知らなかったで済まされる話ではない。
 It's not the sort of thing where I can say I didn't know and move on. 
 }
@@ -41,17 +43,17 @@ But I will say I didn't know and move on.
 [sha:20fac4441c95224c8bd6876753811ccf40620471]{
 -- Page 45, Offset 29617.
 -- 結局のところ、直接手を下していないのなら、あらゆる罪は棚上げされる。
-In the end, if you don't directly have a hand in it, you can just shelve all that guilt.
+In the end, if you don't directly have a hand in it, all of that guilt can be shelved.
 }
 [sha:acc78c3add0c4525e8a0bcfddd82590e85fef0a6]{
 -- Page 46, Offset 29618.
 -- 無知が罪だというのなら人間は誰もが罪人だ。
-If ignorance is a sin, every man is be a sinner.
+If ignorance is a sin, every man is a sinner.
 }
 [sha:a7893f5b1f7cbca17d5a7ae201615d18ec670eae]{
 -- Page 46, Offset 29619.
 -- 不実である事が悪なら人間は常に悪人だ。
-If insincerity is evil, then every man is be a villain.
+If insincerity is evil, then every man is a villain.
 }
 [sha:dd98ed2e98da080f0c93aa81f1202dfbcfa423d1]{
 -- Page 46, Offset 29620.
@@ -66,17 +68,19 @@ I'm not going to lament the deaths of people I've never met.
 [sha:f7ff04e2780a309b121282594048ca35d6772db0]{
 -- Page 47, Offset 29622.
 -- ただ悲しいから、という理由で死者を<悼|いた>む事は、間違っている。
-I'm wrong to mourn these people just because it's sad.
+ mourning these people just because it's sad would be wrong.
 }
 [sha:e7fe06c54cae7af5912f7d9f3fe9770a8e88e4c0]{
 -- Page 47, Offset 29623.
 -- 送別は生者との思い出を想うものだ。
-Farewells are moments of remembrance made for the living
+Farewells are moments of remembrance for the living
 }
 [sha:688a1b029049fc47c5c9bbf8ddd499b91404c548]{
 -- Page 47, Offset 29624.
+// 偉業に感謝する as "great sacrifice" isn't really right. Is it
+// literally supposed to mean "thanks for their great achievements"?
 -- その人物がどれほど輝かしい人だったかを想い、その偉業に感謝する涙の筈だ。
-These tears are probably a reminder of how brilliant that person was and a thank you for their great achievement.
+These tears are probably a reminder of how bright those people's futures were; a thank you for their great sacrifice.
 }
 [sha:4b14229537bbe097c033cebd7b61245f38fbe082]{
 -- Page 47, Offset 29625.
@@ -111,22 +115,21 @@ It's probably not my sadness. It's probably not a sense of justice either.
 [sha:4621d30b7c353d06f6ac8f5e0a0caf71330ae48b]{
 -- Page 49, Offset 29631.
 -- 俺はつまるところ、己の命が惜しいだけの男の筈だ。
-In realty for me it's probably just my own pitiful foundation.
+In realty, it's probably self-pity for what a disappointing man I am.
 }
 [sha:d2edb56b4036ff71eac77802c166462762a44e86]{
 -- Page 50, Offset 29632.
 -- なのに、これは違う、と思うものがある。
 And yet I still feel like this is wrong.
 }
-[sha:1c16c893b7c41fe297b03993f10fd8ef2ec39ce2]{
--- Page 50, Offset 29633.
+[sha:1c16c893b7c41fe297b0399
 -- 幕というものは、何もかも失ったから引くものではなく。
-I can't just pull back the curtain because I've lost everything.
+There's no way I can close the curtains just because I've lost everything.
 }
 [sha:58577beeb0f56978af6a3afdf0b0e4433b70b60a]{
 -- Page 50, Offset 29634.
 -- もう成すべき事がなくなった後に、胸を張って下ろすべきものではないのかと―――昔、誰かに。
-Someone told me long ago that you need to pull back the curtain with a sense of pride only after you've done everything you needed to.
+Someone told me long ago that you can only close the curtains with your head held high after you've finished the job.
 }
 [sha:2cac47f4415d48a5da10b1665b49c266fc9bc91c]{
 -- Page 50, Offset 29635.
@@ -136,7 +139,7 @@ It's nothing.
 [sha:8e2ab6bb4fa7650ee3638824f18d7fb3cdce6015]{
 -- Page 50, Offset 29636.
 -- 誰でもない誰かに、示してもらった気がして―――
-I feel that no no one had showed that to someone.
+I feel like anybody could've shown that to somebody―――
 }
 [sha:d74e3dde2dfa429ae27c9186879cff7a01432ef8]{
 -- Page 51, Offset 29637.
@@ -146,7 +149,7 @@ I hear footsteps behind me.
 [sha:62ced0bc57c16c9dc8465ef42c68bee831678ba1]{
 -- Page 51, Offset 29638.
 -- そこには、
-They're right there.
+There.
 }
 [sha:aca2d421639e7cf64f91f6af7a8b223b6a316af2]{
 -- Page 51, Offset 29639.
@@ -156,7 +159,7 @@ They were wearing my school's uniform, but I don't remember―――
 [sha:4a5f0fec3b71da470c3f4d7cedfbf9489b58f21f]{
 -- Page 52, Offset 29640.
 -- そう。本来なら見覚えがなくてはいけない、もう名前さえ思い出せない先輩が立っていた。
-That's right. Properly speaking, I don't remember them. The senpai whose name I don't even remember was standing up.
+That's right. Properly speaking, I don't remember them. The senpai whose name I don't even remember anymore was standing there.
 }
 [sha:ddc0bbcdfa194dafc4fc361d07601cecdf09053c]{
 -- Page 53, Offset 29641.
@@ -171,12 +174,12 @@ That's right. Properly speaking, I don't remember them. The senpai whose name I 
 [sha:85bbc949230f1fce429e71f92df4324b2ec61284]{
 -- Page 53, Offset 29643.
 -- 先輩はバリケード前から目を逸らさない。
-Senpai doesn't break eye contact with me from in front of the barricade.
+Senpai doesn't look away from the front of the barricade with the sound of my voice.
 }
 [sha:a1eb266c91e24608c5d18bb709e2ef426a6e5e0e]{
 -- Page 53, Offset 29644.
 -- 見れば、そこには多くの献花が、故人を偲ぶように揺れていた。
-If I look, her flowers are swaying as if in memory of the dead.
+If I were to look, I'd see her flowers swaying in the breeze, as if in memory of the dead.
 }
 [sha:25167041b41723711b35f94783944ae9ede4646e]{
 -- Page 54, Offset 29645.
@@ -186,7 +189,8 @@ If I look, her flowers are swaying as if in memory of the dead.
 [sha:17cceb2593236637ad76d73ca29ae8ae905ac80e]{
 -- Page 54, Offset 29646.
 -- それももう、半分ぐらい答えは出た。結局、俺は」
-Even so, I only said half an aswer for that. In the end, I'm"
+Even so, I already only said half an answer for that too.
+ In the end, I'm―――"
 }
 [sha:1d12134f54018d4071073a214117f78acd71ce8f]{
 -- Page 54, Offset 29647.
@@ -201,17 +205,17 @@ That vampire called Roa.
 [sha:e6f160a9bac4ef9b77e749b045d6320776e0f869]{
 -- Page 54, Offset 29649.
 -- あいつの事も、このまま忘れるなんて、できない。
-Her too. I just can't forget.
+Her too. I just can't forget like this.
 }
 [sha:9e10cbf9e3b9cb19c66fcdaca1aef646d0656c16]{
 -- Page 55, Offset 29650.
 -- 「やっぱりそうでしたか。困った人ですね、貴方は」
-"As I thought, you're trouble aren't you."
+"As I thought, you're trouble, aren't you."
 }
 [sha:ae12812134b0d4716aa33de1839dd0c3906657f4]{
 -- Page 55, Offset 29651.
 -- 先輩はいっさい俺に視線を向けない。
-Senpai's gaze doesn't turn in my direction.
+Senpai doesn't look at me at all.
 }
 [sha:9f657fd5a3b56522a269e9580b816695c5d0d468]{
 -- Page 55, Offset 29652.
@@ -221,12 +225,13 @@ I don't look at her either.
 [sha:d70fa8c897c689d6130023cc6ab0f8bd00fa9bc7]{
 -- Page 55, Offset 29653.
 -- それがこの場での、わざわざしなくてもいい忠告をしにきてくれた誰かへの礼儀だと思ったからだ。
-In this situation, I thought it was the police thing to do to someone who had come to give advice they didn't need to bother giving.
+In this situation, I thought it was the polite thing to do to someone who had come to give advice they didn't need to bother giving.
 }
 [sha:302543b0b6c848d408a79f2b0b3535d36e6d57d3]{
 -- Page 56, Offset 29654.
 -- 「ロアを追うという事は、彼女を追うという事です。
-"Chasing after Roa and chasing after that woman.
+// comma maintained for pause
+"Chasing after Roa, and chasing after that woman.
 }
 [sha:794e88827e5bd4c17e47e42f7b5df35e5142e1b0]{
 -- Page 56, Offset 29655.
@@ -236,7 +241,7 @@ Do you understand why you do those things?"
 [sha:8f944c5a161e98ddc594d4093d5f7a4a3dd49df6]{
 -- Page 56, Offset 29656.
 -- 「分かってます。どのみち俺ひとりじゃ何もできない」
-"Yes, I do. There's nothing I can do on my own anyways."
+"Yes, I do. It's not like there would be anything I can do on my own anyways."
 }
 [sha:47a531a5a7371dab709c01b8b231220ff210524a]{
 -- Page 57, Offset 29657.
@@ -256,7 +261,7 @@ Chasing that woman will only get you killed. You mustn't see Arcueid Brunestud a
 [sha:776dcd98f303f69bb408d0a3bbc1b0194cc87027]{
 -- Page 58, Offset 29660.
 -- 「一度でも吸血衝動に負けた真祖は、もう手遅れだからです。
-"Because once a True Ancestor loses to the movements of a vampire, it's already too late.
+"Because once a True Ancestor loses to their vampiric impulses, it's already too late.
 }
 [sha:a817bae5f462f57022cd5d66baef21c174a1aedc]{
 -- Page 58, Offset 29661.
@@ -266,7 +271,7 @@ Chasing that woman will only get you killed. You mustn't see Arcueid Brunestud a
 [sha:6d3cdfcfc7055b3cf09d3b98c296cd13b9b952bb]{
 -- Page 58, Offset 29662.
 -- いえ、そもそも“人間の血を吸いたい”という欲求は真祖から人間にうつされたもの。
-No, that's not quite right. In the first place, that desire to suck blood was transferred from a True Ancestor's to a human's.
+No, that's not quite right. In the first place, that desire to suck blood was transferred from a True Ancestor to a human.
 }
 [sha:3f4148ced680210b24786f771a7a7b442a9dd00f]{
 -- Page 58, Offset 29663.
@@ -291,7 +296,7 @@ If humans turn into vampires by having a vampire suck their blood, there needs t
 [sha:b9efd6ee2c331615e7450d32582865e7e221461f]{
 -- Page 60, Offset 29667.
 -- この、生命としての系統樹が異なる吸血種を真祖といいます。
-We call this vampire for whom their existence springs from a different evolutionary tree, a True Ancestor.
+We call those vampires who share a an evolutionary all their own 'True Ancestors'.
 }
 [sha:57333867d58cd6b5291fb52591a629318421c99e]{
 -- Page 60, Offset 29668.
@@ -301,12 +306,13 @@ They don't need human blood for survival, but are otherwise the same as Dead Apo
 [sha:e18904c2fd8b8e67e3d2e7092e35b41c12de719d]{
 -- Page 60, Offset 29669.
 -- 彼女はその真祖と呼ばれる一族の王族なんです。
-That woman is one of those Dead Apostles. She's royalty, you see.
+Even among those 'True Ancestors', she's royalty you see.
 }
 [sha:6657ef3afe994b1e10fe2c63f241c9496f34f5ad]{
 -- Page 60, Offset 29670.
 -- ……彼らには身分階級がありませんから王族、というのは正しくはありませんけど」
-...Though for them there's no such thing as birth right or social standing, so calling her 'royalty' isn't really right."
+...Though for them there's no such thing as birth right or social
+ standing, so calling her 'royalty' isn't really right."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 61, Offset 29671.
@@ -316,7 +322,7 @@ That woman is one of those Dead Apostles. She's royalty, you see.
 [sha:1e3178504abea2ff03005e0c0dbf35f8fe4e14e3]{
 -- Page 61, Offset 29672.
 -- その説明に、少しだけ絶句した。
-I'm a little bit lost for words at that explanation.
+I'm at a bit of a loss for words at that explanation.
 }
 [sha:467475dbf24fd3323223d4f78d32eb93073fceae]{
 -- Page 61, Offset 29673.
@@ -331,7 +337,7 @@ It's so otherworldly that I opened my mouth. She really is a princess.
 [sha:3c36151974377c4cdfe1babb2693b6756d302373]{
 -- Page 62, Offset 29675.
 -- ……まったく。
-...Wow.
+...Man.
 }
 [sha:9846e5eaaf5e932bd51832f8097b7f7f9575ec01]{
 -- Page 62, Offset 29676.
@@ -346,12 +352,12 @@ That dazzlingly airheaded, reckless princess isn't exactly what you'd see in a p
 [sha:a0acd44f024f533b7d766ec809f00e78b52cdc23]{
 -- Page 63, Offset 29678.
 -- 真祖と呼ばれる吸血種には、死徒たちよりはるかに業の深い吸血衝動がある。
-The guys you called True Ancestors are far from the sinful actions of the Dead Apostles.
+The guys you called True Ancestors are far from the sinful urges of the Dead Apostles.
 }
 [sha:e135ef720bb91503e8a73cdffd7caef762ae137c]{
 -- Page 63, Offset 29679.
 -- 真祖たちはもともと人間の血がなくても生存できる。
-They can get on just fine without drinking human blood.
+They can get by just fine without drinking human blood.
 }
 [sha:ce46b83b1b21acdbb427ee94d9481689e9e08db3]{
 -- Page 63, Offset 29680.
@@ -361,12 +367,12 @@ But from birth they were given a single flaw...they have that unnecessary functi
 [sha:90ca9dcde620c04db9efcd43268e0da246c549bf]{
 -- Page 63, Offset 29681.
 -- それが吸血衝動―――<た|・><だ|・><人|・><間|・><の|・><血|・><が|・><欲|・><し|・><い|・>、という嗜好性です」
-It's just that blood-sucking impulse―――their disposition, the taste for human blood."
+It's just that vampiric impulse―――their disposition, the taste for human blood."
 }
 [sha:5bd831dd0a88c17071308d1185761b10a0d5fb92]{
 -- Page 64, Offset 29682.
 -- 「過去真祖に襲われればこれに対抗できる人間はいなかった。そして血を吸われた人間は、その時点で人間でなくなってしまう。
-"In the past, if a True Ancestor attacked, there wasn't any humans who could oppose them. Then the person whose blood they sucked would be a human no more.
+"In the past, if a True Ancestor attacked, there weren't any humans who could oppose them. Then the person whose blood they sucked would be a human no more.
 }
 [sha:71a679bfce54efc4cd68983c9fe3d4028dc00bb8]{
 -- Page 64, Offset 29683.
@@ -376,12 +382,12 @@ It's said that the cause is the sheer difference in our two species' ability, as
 [sha:3c9fe6541a0c87319bf57fd6c98e4b3ccaab9aaa]{
 -- Page 65, Offset 29684.
 -- 「真祖という強大な生命に血を奪われた時点で、人間は人間ではいられなくなる。その真祖の分身―――平たくいえば人形になってしまう。
-"When a True Ancestor, an all-mighty being, steals blood, the person they stole it from ceases to be human. And to that violent 'other self' of the True Ancestor―――in layman's terms, you'd be just a doll.
+"When a True Ancestor, an all-mighty being, steals blood, the person they stole it from ceases to be human. And to the violent 'other self' of the True Ancestor―――in layman's terms, you'd be just a doll.
 }
 [sha:72dfee490f2fbb1d3542f7d4a5031411c4eda03b]{
 -- Page 65, Offset 29685.
 -- ……仮に。血を吸う側の真祖が、それを望まなくとも」
-...Even if...Even if that's not what the blood-sucking True Ancestor wants."
+Even if...Even if that's not what the blood-sucking True Ancestor wants."
 }
 [sha:22732ab682c2af31c4daf7562962da8c0d0e3f41]{
 -- Page 66, Offset 29686.
@@ -431,7 +437,7 @@ Once, even getting killed so thoroughly that any more and she wouldn't have been
 [sha:db9322e8b697297a58b56b756726a699b4c182ef]{
 -- Page 70, Offset 29695.
 -- ……アルクェイドには10の力があるとしよう。
-Arcueid is at a power level of 10.
+I guess if Arcueid is at a power level of 10―――
 }
 [sha:0b27616f0ac49a373f4b24c4cba13983df2d7fff]{
 -- Page 70, Offset 29696.
@@ -516,7 +522,7 @@ That searing breath on the back of my neck.
 [sha:1a35082e25a7f14bc4d0fda5c603221012afb974]{
 -- Page 75, Offset 29712.
 -- 真っ赤な嘘だ。
-That's an outright lie.
+She's telling me an outright lie.
 }
 [sha:c85fa5ac33ea07e8ab09322bd178d67f9d6c51bf]{
 -- Page 75, Offset 29713.
@@ -526,82 +532,82 @@ Because she's afraid of sucking blood, definitely―――
 [sha:be370f298b77d470942d9986d4445ba2231c6f94]{
 -- Page 76, Offset 29714.
 -- 「―――あ」
-"―――Ah."
+"―――ah."
 }
 [sha:4b06e4801e98e047c063130257ea4e97f77dce4c]{
 -- Page 76, Offset 29715.
 -- ……そう、恐いんだ。
-"―――ah."
+Right, she's afraid.
 }
 [sha:178db7e4cb2c66180e8aee36a934a123b1959d42]{
 -- Page 76, Offset 29716.
 -- 一度吸ってしまったら、もう歯止めがきかないと自分自身で分かっていたから、あんなにも怖がっていた。
-Right, she's afraid.
+She was so scared herself because she knew that once she sucked had blood, there was no stopping it.
 }
 [sha:edf7842fd149ef5c7acaf9e9a06ff5db3d25392f]{
 -- Page 77, Offset 29717.
 -- 「……ただ、かろうじて救いがあるとしたら、衝動は突発的なものだという事です。
-She was so scared herself because she knew that once she sucked blood, there was no stopping.
+"However, if there is one piece of reprieve, it's that the impulses are very sudden.
 }
 [sha:ca251ddbb1766c0cc566ecca2ff9b355bbc258a6]{
 -- Page 77, Offset 29718.
 -- 真祖たちは一人だけ、耐えきれなくなった時の為に下僕を用意しておきます。それが死徒と呼ばれるモノたちの始まりですね。
-"However, if there is one piece of reprieve, it's that the impulse is very sudden.
+When True Ancestors are alone, they have servants prepared so that they can endure the rest of the time. That's where we get those creatures we call Dead Apostles.
 }
 [sha:acc18640013c431912b9af90ed566f46076fd9b9]{
 -- Page 77, Offset 29719.
 -- 彼らはすでに死んでいる使徒。真祖たちに痛み止めとして生かされていた吸血鬼。それがこの街に巣くっている、死徒と区分される吸血鬼の始まりです」
-When True Ancestors are alone, they have servants prepared so that they can endure the rest of the time. That's where we get those creatures we call Dead Apostles.
+They're the dead disciples of a True Ancestor. They're like living painkillers for them. Such is the beginning of those vampires we call Dead Apostles that have infested the city."
 }
 [sha:ac35c9553b96f9709937659ddf826828582258bd]{
 -- Page 78, Offset 29720.
 -- 「ですが、アルクェイド・ブリュンスタッドにはその下僕がいない。
-They're the dead disciples of a True Ancestor. They're like living painkillers for them. Such is the beginning of those vampires we call Dead Apostles that have infested the city."
+"But Arcueid Brunestud doesn't have any servants like that to use.
 }
 [sha:3f6c62d7bb2293004a95160d013c036eaa03c214]{
 -- Page 78, Offset 29721.
 -- ……いえ、今まで必要がなかっただけですね。
-"But Arcueid Brunestud doesn't have any servants like that to use.
+...Well, it's more that there wasn't a need until now.
 }
 [sha:c6664881369eb3e5af1d223f2a12f4fa6448fdf6]{
 -- Page 78, Offset 29722.
 -- 真祖の中でも特別だった彼女は、自らの意思だけで吸血衝動を抑えられていた。ですが、それも昨夜で限界を迎えた」
-...Well, it's more that there wasn't a need until now.
+For her, who was special even among Dead Apostles, she could suppress those urges just through force of will. However, she reached her limit last night."
 }
 [sha:749f2775b733de9e202e8e9de6e1697e3534aa00]{
 -- Page 79, Offset 29723.
 -- 「吸血衝動に果てはありませんし、消える事もない。
-For her, who was special even among Dead Apostles, she could suppress those urges just through force of will. However, she reached her limit last night."
+"These impulses have no limit; they will never go away.
 }
 [sha:1343d79fc34f065b9e91f098193fd442babd8fa5]{
 -- Page 79, Offset 29724.
 -- 何度も抑えてきた衝動という沈殿物は、そのうち器から溢れてしまう」
-"These impulses have no end, and they will never go away.
+This constant suppression of urges creates sediment and before long, it overflows from its vessel."
 }
 [sha:da2b800d9e994a0d832413f9147e5d31574b58b1]{
 -- Page 80, Offset 29725.
 -- 「彼らは長く生きれば生きるほど、自らに抱えた吸血衝動を肥大化させていってしまう。
-This constant suppression of urges creates sediment and before long, it overflows from its vessel."
+"The longer they live, the stronger that urge grows.
 }
 [sha:d3fe248f42e03c3f68d5f49c1589bf536413c40a]{
 -- Page 80, Offset 29726.
 -- そうして自分の力だけでは抑えきれなくなった時―――
-"The longer they live, the stronger that urge grows.
+And when their own power isn't enough to stop those urges anymore―――
 }
 [sha:9b8bd43136e477a475f3e64f92bda9e9425e523b]{
 -- Page 80, Offset 29727.
 -- 自らの衝動が自らの能力を越えてしまった時、彼らは同族の手によって命を絶たれます。
-And when their own power isn't enough to stop those urges anymore―――
+When those urges exceed their own abilities, they follow the rules of their kind and end their own lives.
 }
 [sha:94ca8fb1aaf1e374ae4441210e233928ea669dc7]{
 -- Page 80, Offset 29728.
 -- それが寿命のない彼らにとっての<寿命|おわり>なんです」
-When those urges exceed their own abilities, they follow the rules of their kind and end their own lives.
+Such is the end of an endless creature."
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 81, Offset 29729.
 -- 「…………」
-That's the lifespan of an infinite creature."
+"........."
 }
 [sha:46f06c98e03594523e1305155042209848496742]{
 -- Page 81, Offset 29730.
@@ -611,22 +617,22 @@ What the hell?
 [sha:252b24b8a980d4c073ec7822c4f996a7aa34f90d]{
 -- Page 81, Offset 29731.
 -- 血を吐くような思いでひたすら自分を抑え続けて、
-"........."
+I feel like I'm gonna throw up blood keeping myself composed.
 }
 [sha:1faff13e80178ca80a0ad0e826a8e8e50054ca6d]{
 -- Page 81, Offset 29732.
 -- それが限界に達したら、仲間の手で殺される……それが真祖という生き物なのか。
-What the hell...
+When they reach their limit, they're killed by thir companion's hand... That's what True Ancestors are.
 }
 [sha:eee53552a60f38f30159c7cd3932e8d8e5fb1c31]{
 -- Page 82, Offset 29733.
 -- そんなの、ぜんぜん完全じゃない。
-I feel like I'm gonna throw up blood keeping myself composed.
+-- TRANSLATION HERE
 }
 [sha:1182545f192a4afdb32862efc8496b5189926767]{
 -- Page 82, Offset 29734. Glued. Mods: @x.
 -- どれほどの力があろうと、その発生に致命的な<故障|エラー>がある―――
-When they reach their limit, they're killed by thir companion's hand... That's what True Ancestors are.
+
 }
 [sha:72d37d9bc7a73d256347dc29c64608d93f0fe54c]{
 -- Page 83, Offset 29735.
