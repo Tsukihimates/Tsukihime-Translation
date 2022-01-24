@@ -16,7 +16,7 @@ I'll have to just avoid telling her the truth, while also keeping the number of 
 [sha:a08fad88c7e939b55e7c0584146ede879e48f446]{
 -- Page 80, Offset 14120.
 -- 「―――よし、行くぞ」
-"―――Alright, let's go."
+"―――Alright, here we go."
 }
 [sha:a50d6709065217dc698d55589b4839df8972d455]{
 -- Page 80, Offset 14121.
@@ -61,7 +61,8 @@ I can't tell whether I should interpret Akiha's preemptive strike as a snide com
 [sha:c5e66aa6e43baf9c5b77f12d07c7a2f14774aa12]{
 -- Page 84, Offset 14129.
 -- 「あ、ああ。おはよう秋葉。
-"Y-Yeah. Good morning, Akiha.
+// Parity with ARC06_1_1
+"Y-Yeah. Morning, Akiha.
 }
 [sha:ce1e26e2eaceacca0664a593b4c0c93fb060d9fc]{
 -- Page 84, Offset 14130.
@@ -93,8 +94,8 @@ I point to the sofa across from Akiha.
 [sha:49d5638fd79998ee842103f930d4bbf7010075ec]{
 -- Page 86, Offset 14135.
 -- 「とりあえず座るね」
-// Serious VA.
-"I'll just sit down then."
+// Serious VA. PR: What if it was even shorter?
+"I'll sit down now."
 }
 [sha:3821d00f239c2603cbd5275a30ac72f1a981e76c]{
 -- Page 87, Offset 14136.
@@ -110,7 +111,7 @@ The head of the family really is frightening.
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 88, Offset 14138.
 -- 「………………」
-".................."
+"........."
 }
 [sha:a690c10f1674a68c91e61a0302068fd5e370ae74]{
 -- Page 88, Offset 14139.
@@ -121,7 +122,7 @@ Akiha keeps her mouth shut.
 -- Page 88, Offset 14140.
 -- こちらからの自主性に期待している……というより、こちらから切り出さないと許さない、という意思を感じる。
 // 'breaking the ice' feels a bit too much like a mood-lightener
-I get the feeling that she's expecting me to take the initiative... Or rather, that she won't forgive me if I don't start talking.
+I get the feeling she's expecting me to take the initiative... Or rather, that she won't forgive me if I don't start talking.
 }
 [sha:31164bacf678945b6032d8adea34ac4c2381f891]{
 -- Page 89, Offset 14141.
@@ -136,7 +137,7 @@ But I've already decided on a plan. I'm going to win this trial.
 [sha:18b60e150e81b45088b2c92605c43464f7764a73]{
 -- Page 90, Offset 14143.
 -- 「昨日と一昨日は、家に帰ってこなくて悪かった。
-"I'm sorry that I didn't come home yesterday or the day before.
+"I'm sorry I didn't come home yesterday or the day before.
 }
 [sha:66f2bfdd37765bd25ab5778a3967936ecbc04591]{
 -- Page 90, Offset 14144.
@@ -156,7 +157,7 @@ I had some urgent business to attend to."
 [sha:eadb0f71e3c06411e91a41013a6432e8dc13b0f6]{
 -- Page 92, Offset 14147.
 -- 「へえ。ちょっとした知り合い、ですか」
-"Hmm. A minor acquaintance, you say."
+"Hmm. A minor acquaintance, you say?"
 }
 [sha:cba573ebd2bb1800934a6ee398444b30dacd06fe]{
 -- Page 93, Offset 14148.
@@ -171,8 +172,8 @@ You see, they weren't feeling well, but still had some extremely urgent matters 
 [sha:eb246768b22fdcc90e888b2b7b919b5de4325c6e]{
 -- Page 94, Offset 14150.
 -- 「学校を休んで、無断外泊をした、という事ですね。
-// This is 学校を休む, but 'take a break' feels a bit mild?
-"And so you took a break from school and stayed out without permission, correct?
+// This is 学校を休む, but 'take a break' feels a bit mild? PR: Skipped school/class works
+"And so you skipped school and stayed out without permission, correct?
 }
 [sha:344c728f87b5c75620ba928b0c51c42b547694cd]{
 -- Page 94, Offset 14151.
@@ -197,12 +198,12 @@ The look in her eyes isn't so much one of anger as one of utter disgust.
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 96, Offset 14155.
 -- 「………………」
-".................."
+"........."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 96, Offset 14156.
 -- 「………………」
-".................."
+"........."
 }
 [sha:7c6e878f413a85437636465f012e9cce92e260b1]{
 -- Page 96, Offset 14157.
@@ -252,7 +253,7 @@ It's crystal clear that she absolutely will not let herself be fooled.
 [sha:6780ec70d915e7a7843c2587281f1800e295029c]{
 -- Page 99, Offset 14166.
 -- 「言えない、という事は何か後ろめたい事がある、という事よ、兄さん」
-"If you can't tell me, then there must be something you feel guilty about, Nii-san."
+"If you cannot tell me, then there must be something you feel guilty about, Nii-san."
 }
 [sha:ad266b352382110c16d90b84dfb3c70944b1d6d8]{
 -- Page 100, Offset 14167.
@@ -307,13 +308,12 @@ She has a dignified posture, a clear tone of voice, and eyes that never waver. E
 [sha:2380e70d4dfa6bebe9c8f70615956ff3ef0959d4]{
 -- Page 104, Offset 14177.
 -- がたん、とテーブルに足をひっかけて、秋葉は立ちあがった。
-// がたん、とテーブルに足をひっかけて、秋葉は立ちあがった。
 Akiha leaps to her feet, banging her shin against the table as she does so.
 }
 [sha:555de0cc3511d410b8c5608493c787d4887146d8]{
 -- Page 105, Offset 14178.
 -- 「いや、太いってのは違うか。キリッとしてるから印象が強いのかな？　あんまり眉間に皺とかよせると、よくないぞ」
-"No, on second thought thick isn't the right word. Maybe they just give off that impression since they're all tensed up? It's not healthy to furrow your brow so much, you know."
+"No, on second thought, thick isn't the right word. Maybe they just give off that impression since they're all tensed up? It's not healthy to furrow your brow so much, you know."
 }
 [sha:878a68dad00ae1f7501d8e17bacc6ce703e83027]{
 -- Page 105, Offset 14179.
@@ -329,7 +329,7 @@ She may be a powerful and beautiful woman, but a scowl like that would send a no
 [sha:d6a636c5784f712a3d0b6bb85a356c354698de34]{
 -- Page 106, Offset 14181.
 -- 「そんなコトないです。誓って言うけど、俺は秋葉に嘘はつきません」
-"That's not true at all. Though you'll just have to take my word for it, I swear that I would never lie to you."
+"That's not true at all. Though you'll just have to take my word for it, I swear I would never lie to you."
 }
 [sha:caa42b86fb4f1a3590b95c96343a9d35ef2354b0]{
 -- Page 106, Offset 14182.
@@ -339,6 +339,7 @@ It's just that there are a lot of things I can't say.
 [sha:94f4da1a32266aecb75f5c340cd473c2bbac570c]{
 -- Page 107, Offset 14183.
 -- 「……はあ。そうね、嘘はつきませんよね。
+// Writing out "sigh" feels a little weird.
 "...Sigh. It's true, you're not the type to lie.
 }
 [sha:0d7a0d97ebcc271be92f2f697fe57ae0bcd32cd0]{

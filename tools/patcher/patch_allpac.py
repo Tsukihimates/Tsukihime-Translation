@@ -269,6 +269,7 @@ def main():
 
     for entry in mrg_entries.values():
         if entry.name in raw_files:
+            print(f"Replacing raw file {entry.name}")
             replace_args = [
                 '-i%d' % entry.index, raw_files[entry.name]
             ]
