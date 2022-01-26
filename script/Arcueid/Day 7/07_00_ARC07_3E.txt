@@ -1,32 +1,43 @@
 [sha:1243f5e061aee1adbf432f8c5d5294628588f5d5]{
 -- Page 10012, Offset 17239.
 -- アルクェイドは夜の街を歩いていく。
-Arcueid walks through the night city.
+// Sideways TL of 夜の街 but "night city" just doesn't sit right, am I crazy?
+// 'Nighttime city' _maybe_ but it just doesn't seem fluent
+Arcueid strides through the twilit city.
 }
 [sha:680091d34c9e5cbf6aa8c4069a9930ded54773eb]{
 -- Page 10012, Offset 17240.
 -- 迷いもなく、金の髪をなびかせる白い影。
-Unwavering, a white silhouette with fluttering gold hair.
+An unwavering white silhouette with fluttering gold hair.
 }
 [sha:597137f4150ff2c0aeec8b22c1a2678aea08420b]{
 -- Page 10012, Offset 17241.
 -- その姿は初めて見た時の姿と同じものだ。
-That image looked exactly like the first time I saw her.
+She cuts the same figure now as she did when I first laid eyes on her.
 }
 [sha:d9b3cb4538bcf8086970f2a9639159ea3aab5f80]{
 -- Page 10012, Offset 17242.
 -- あるいは、崩落した瓦礫の中、ヴローヴと対峙していた時の姿とも。
-Or maybe it was like the time we stood against Vlov, when she was in the midst of the broken rubble.
+Or perhaps it's closer to how she looked back then,
+ standing tall amidst the crumbling wreckage, face to face against Vlov.
 }
 [sha:2abab4cb62f3e17ccf65c0292e502cfe79b6cce1]{
 -- Page 275, Offset 17243.
 -- ……先ほどまでの浮ついた気持ちが消えていく。
-...That restless feeling I had until a moment ago had all but vanished.
+...Fickle, frivolous, giddy, restless feeling In my mind until just how vanishes.
 }
 [sha:c2ab1f793ef1fb4acf6412e7a976846f372e2ff9]{
 -- Page 275, Offset 17244.
 -- 間違いない。あれは狩人の在り方だ。
-There's no doubt about it. That must've been my hunter's instincts coming into play .
+// Time to play the "what's the subject of the sentence" game
+// 狩人の在り方 reads to me as "the way a hunter ought to be". I feel like
+// there's 2 possible applications here
+// あれ is his own personal state. The disappearance of his feelings is a return to hunting form.
+// あれ is Arc. Her form is the perfect shape for a huntress.
+// Using あれ to talk about himself feels too impersonal, so leaning towards
+// interpreting it as Arcueid here.
+There's no doubt about it.
+ The figure ahead of me is the platonic ideal of a huntress.
 }
 [sha:95c8c27ab73ca9f6efc7b9403a2ceea6b8d8c516]{
 -- Page 276, Offset 17245.
@@ -41,12 +52,12 @@ There's no doubt about it. That must've been my hunter's instincts coming into p
 [sha:d9ce7d5b538faecf89a3ee17b6614a4370639b12]{
 -- Page 276, Offset 17247.
 -- アルクェイドはこちらに振り向かず歩いていく。
-Arcueid continues to walk without looking back.
+Arcueid doesn't even spare a glance back at me, she just keeps walking.
 }
 [sha:799a38aa7fd5fcebffd962621db741cd1acbdc77]{
 -- Page 277, Offset 17248.
 -- 「話を聞けって。どこに行くつもりだよ」
-"I told you to listen. Where do you think you're going?"
+"Hey, listen to me. Where do you think you're going?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 277, Offset 17249.
@@ -61,42 +72,49 @@ The woman in white does not stop.
 [sha:8b45f4a74d6220273dbe4fba21aec887a244ad76]{
 -- Page 278, Offset 17251.
 -- ……ここで引き下がるのも情けない。
-...It'd be pathetic for me to give up at this point.
+// The thing he's doing by 引き下がる-ing here is giving up on trying to
+// _get her to stop_, not on recovering the relationship.
+...It'd be pathetic if I were to give up on getting her to stop after coming this far.
 }
 [sha:48b22166bac9f1ef544386fb7fe5fa3afd35f2d0]{
 -- Page 278, Offset 17252.
 -- 情けないが、とりあえず無言で後を付いていく事にした。
-It's pathetic but... For now, I'll follow her in silence.
+It'd be pathetic, but... For now I'll just hold my tongue and follow after her.
 }
 [sha:a4bf20e36cd713f3b95cf51a5b542b53481d51bf]{
 -- Page 279, Offset 17253.
 -- カツカツカツ。
+// Italics maybe for onomatopoeia?
 *step* *step* *step*
 }
 [sha:1c04ec9b5fab622b68ff8a1fb0f5aaf5d20571e0]{
 -- Page 279, Offset 17254.
 -- 足音だけを響かせる、無言の散歩が続く。
-We continue to walk in silence, leaving only the sounds of our footsteps.
+Our wordless march continues, punctuated only by the sound of our footsteps.
 }
-[sha:97ed2382a09ed68c911c800f7fbcee0449478c40]{
+[offset:17255]{
 -- Page 279, Offset 17255.
 -- ―――と。
-And so she says.
+―――Until suddenly.
 }
 [sha:68e86700abd9eef05a3e6f9e2dd7e81772a4d767]{
 -- Page 279, Offset 17256.
 -- ピタリ、と立ち止まってアルクェイドは振り向いた。
-Arcueid stops in her tracks and turns toward me.
+// Precise 振り向く translation based off sprite
+Arcueid abruptly stops in her tracks and glares over her shoulder at me.
 }
 [sha:79c9c98734833ee73e02182fd8051564d1315cbf]{
 -- Page 280, Offset 17257.
 -- 「ついてこないで。あなたみたいな普通の人間にいられると迷惑だって、分からない？」
-"Stop following me. Don't you know that an ordinary human like you will just be a nuisance to me?"
+"Stop following me.
+ An ordinary human such as yourself will only get in my way,
+ can't you understand that?"
 }
 [sha:e5cb26fee04fe2bf9e8e69fe18ea8d6a7c6a36bd]{
 -- Page 281, Offset 17258.
 -- 「人間で悪かったな。何をしているのか教えてくれたら帰るよ」
-"Yeah yeah, sorry for being human. Tell me what you plan on doing and I'll get out of your hair."
+"Sorry for being human.
+ If you tell me what you're doing I promise I'll get out of your hair."
 }
 [sha:6cec492ffce6b834d4d8854ac22937fd33b9d1ba]{
 -- Page 281, Offset 17259.
@@ -106,8 +124,7 @@ Arcueid stops in her tracks and turns toward me.
 [sha:10d77b68f803a7041169c1661542147528760af4]{
 -- Page 282, Offset 17260.
 -- ぷい、とアルクェイドは前を向いて歩き始める。
-// ぷい - To avoid someone or something in a rude manner, and/or out of spite. Can't think of a way to add this.
-Arcueid turns forward and begins to walk again.
+Arcueid faces forward and resumes walking in a huff.
 }
 [sha:bde349578c058fcc61588a5a17e87d153dcae215]{
 -- Page 282, Offset 17261.
@@ -117,17 +134,19 @@ Arcueid turns forward and begins to walk again.
 [sha:0a08f1a1042a151ae97f874ad566356fd40791c3]{
 -- Page 282, Offset 17262.
 -- また無言の徘徊が始まるみたいだ。
-It looks like she's wandering about in silence yet again.
+Looks like I'm in for another mute wander around the city.
 }
 [sha:05590ec5598118b545393ec896dc80a8b273ebdc]{
 -- Page 283, Offset 17263.
 -- 繁華街から離れた、人気の少ない高架線の下にさしかかった時、アルクェイドはぴたりと足を止めた。
-As we exit the downtown area and approach the relatively unpopulated area underneath the elevated railway, Arcueid stops dead in her tracks.
+We've left the city's downtown area behind us,
+ and are approaching a deserted railway underpass
+ when Arcueid stops dead in her tracks.
 }
 [sha:f0653f2fd432e685c950a811828735121d2e88ca]{
 -- Page 284, Offset 17264.
 -- 「―――見つけた」
-"―――I found him."
+"―――Found him."
 }
 [sha:16b59b0ba8052ad932abedc920e58118c5927909]{
 -- Page 284, Offset 17265.
@@ -137,22 +156,23 @@ As we exit the downtown area and approach the relatively unpopulated area undern
 [sha:4e3d649961316361fcf897d18bc0154e497faedb]{
 -- Page 284, Offset 17266.
 -- アルクェイドの声は、別人のように冷たい。
-Arcueid's voice was cold, like a completely different person.
+Arcueid's voice is cold, as though it belongs to someone else.
 }
 [sha:093da61a855c71259068c39e3db43b7b672e967f]{
 -- Page 285, Offset 17267.
 -- 「――――っ」
-"――――"
+"――――gh"
 }
 [sha:e2bf30a3e58899550c6db64c4d7a845158d1f31a]{
 -- Page 285, Offset 17268.
 -- ……背筋が震える。
-...I feel a shiver run down my spine.
+...A shiver runs down my spine.
 }
 [sha:3b1777d7d41a51a0102d96caeeb27cf47116b79c]{
 -- Page 285, Offset 17269.
 -- 背中ごしにも、今のアルクェイドがどれほどの敵意を帯びているのかが、はっきりと感じ取れる。
-Even from seeing her back alone, I can clearly grasp the extent of the hostile aura that surrounds her.
+All I can see from back here is her posture,
+ but even that is more than enough to allow me to grasp the scale of the murderous aura that now envelops Arcueid.
 }
 [sha:b23b60f3ad6d3cffcb680e26d33a0639028575fe]{
 -- Page 286, Offset 17270.
@@ -162,22 +182,22 @@ Even from seeing her back alone, I can clearly grasp the extent of the hostile a
 [sha:488174490ed72d24341767dadd8a8b4f3b0f6521]{
 -- Page 286, Offset 17271.
 -- するつもりだ、とは言えない。
-I couldn't finish my sentence.
+――planning on doing, I start to ask, but fall silent.
 }
 [sha:5c6ecb5e1c7f1ff81cbdf29ab0d774dc99b53bee]{
 -- Page 286, Offset 17272.
 -- 彼女が何をしようとしているのか、言葉にするまでもなく判りきっている。
-There was no need for her to put it into words for me to understand what she was about to do.
+I know what she's about to do even without hearing it put into words.
 }
 [sha:63da4b06040e0c7748b8cf8894a9994fea4fcdde]{
 -- Page 286, Offset 17273.
 -- アルクェイドから放たれているのは一点の濁りもない『殺意』だった。
-The thing emanating from Arcueid was, without a shadow of a doubt, her 'killing intent'.
+What emanates from Arcueid right now is an unmistakable 'killing intent'.
 }
 [sha:ef8f5ef90af81eb9a75d28dbce3c622ab33549ae]{
 -- Page 287, Offset 17274.
 -- 「おい―――なに考えてるんだ、おまえ……！」
-"Hey―――What are you planning on doing? You...!"
+"Hey―――What are you thinking? You...!"
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 287, Offset 17275.
@@ -192,7 +212,7 @@ Arcueid does not respond.
 [sha:2f7fec6eeb355d1ab24147b1e48841d00c54807c]{
 -- Page 287, Offset 17277.
 -- その視線の先には、なんでもない、背広姿の男性が歩いていた。
-In her view, there was a run-of-the-mill man in a business suit, walking.
+Her gaze is trained on a run-of-the-mill looking man in a business suit as he walks along.
 }
 [sha:9e7c2acf4c5681ef7c5f3ab8db9495194d97dfc4]{
 -- Page 288, Offset 17278.
@@ -217,7 +237,7 @@ If you want to know what I'm doing, then save your questions for later."
 [sha:5df33d0f40918f1eadfec4a76d03fd01c7ab1d0d]{
 -- Page 289, Offset 17282.
 -- 「……はあ。あんまり街中で視たくはないんだけど―――」
-"...Fine. Although I don't really like looking at this part of town―――"
+"...Fine. Although I don't really like taking them off in town―――"
 }
 [sha:fdfa08beb060b3a8d06b06195029cbd1b50db08c]{
 -- Page 290, Offset 17283.
@@ -232,7 +252,7 @@ I remove my glasses.
 [sha:8140963fa807ccac93e0956153ffb69ba58cac36]{
 -- Page 290, Offset 17285.
 -- こめかみには軽い頭痛。
-I have a a light headache in my temple.
+A light headache pulses in my temple.
 }
 [sha:052c2b4f9c429ba0bad540c9aac8ac0177f1ba34]{
 -- Page 290, Offset 17286.
