@@ -1,7 +1,7 @@
 [sha:8b2147dd2dc8bafd9b19feb56cf0dbbf3aa0b844]{
 -- Page 10008, Offset 14432.
 -- 阿良句博士に診てもらおう。
-I'll have Dr. Arach take care of me.
+I'll have Professor Arach take care of me.
 }
 [sha:084713f4f8a02b935ce999674c1664f21950e371]{
 -- Page 10008, Offset 14433.
@@ -12,12 +12,12 @@ I still don't know what kind of person she is, but since she wears a white lab c
 -- Page 217, Offset 14434.
 -- 「わかりました。阿良句先生には私から伝えておきますので、後は自室で待機していてください。
 // Breakfast context carried over from 06_00_ARC06_2 as the thing that waiting comes 後
-"Understood. I'll let Dr. Arach know that you're looking for her, so please wait for her in your room once you are done with breakfast.
+"Understood. I'll let Arach-sensei know that you're looking for her, so please wait for her in your room once you are done with breakfast.
 }
 [sha:b430abdcfccc97ee5656a1aceb1c1c1c189cb459]{
 -- Page 217, Offset 14435.
 -- 阿良句先生は予想のつかない方ですが、医師としての腕は確かです。ここで暮らすのなら頻繁に会う人ですし、これを機に親睦を深めてください」
-Dr. Arach may be somewhat unpredictable, but there's no denying her skills as a doctor. You'll run into her fairly frequently now that you live here, so please make use of this opportunity to get to know her better."
+Arach-sensei may be somewhat unpredictable, but there's no denying her skills as a doctor. You'll run into her fairly frequently now that you live here, so please make use of this opportunity to get to know her better."
 }
 [sha:8851614032f8b206278abf91ad3a567e4c7137cf]{
 -- Page 218, Offset 14436.
@@ -38,7 +38,7 @@ It's as though she were simply delivering a message.
 [sha:f6e56bede459f5d14fa1220a06498b66cda5c33b]{
 -- Page 218, Offset 14439. Mods: @n.
 -- とりあえずは朝食、その後は診察を受けるとしよう。
-My first priority is breakfast, but once that's dealt with I'll go and get myself looked at.
+My first priority is breakfast, but once that's dealt with, I'll go and get myself looked at.
 }
 [sha:29ec4acc78936db26bd933dcd524a9fbccdeca67]{
 -- Page 219, Offset 14440.
@@ -49,7 +49,7 @@ I pass the time in my room by idly leafing through some paperbacks.
 -- Page 219, Offset 14441.
 -- 午前10時にさしかかった頃、窓越しに廊下を闊歩する白衣が目に入った。
 // A little bit of reordering here to make parsing more clear
-A little before 10 o'clock, I look out the window and catch sight of a figure in a white lab coat strutting down the hallway.
+A little before ten o'clock, I look out the window and catch sight of a figure in a white lab coat strutting down the hallway.
 }
 [sha:45d6613866cffaec262b6b6b39d485c5548530ba]{
 -- Page 219, Offset 14442.
@@ -69,7 +69,7 @@ At the same time―――
 [sha:c633a41078b07a5d6ad59b4896839c95f1a321a1]{
 -- Page 220, Offset 14445. Mods: @k, @e.
 -- 朝からカラダをいじってほしいとかぁ、
-So you want to play with my body first thing in the morning?
+So you want me to play with your body first thing in the morning?
 }
 [sha:92cdecc5cfa817fe4b675499cf299302602e397d]{
 -- Page 220, Offset 14446. Glued. Mods: @x, @k, @e.
@@ -108,7 +108,7 @@ I wish I had asked for Kohaku-san instead.
 [sha:5e4b89908f014976c4445f386dc4ce98298d0bf3]{
 -- Page 222, Offset 14451.
 -- 「ああん、ウソウソ、かぎりなく本気だけどジョウダンよぅ。外来の診察なんて久しぶりだから、患者さんとの距離感掴めなくてぇ。フランクな挨拶のほうがいいかなぁー？　って気を遣ってみたのよぅ」
-"Aah, kidding, kidding, it was just a joke, honest.
+"Aah, kidding, kidding. Except I'm totally serious.
  It's been a while since I've examined anyone from outside the mansion, so I wasn't sure how familiar to be with my new patient.
  I was thinking about what might suit you, and figured a frank greeting would be best, you know?"
 }
@@ -116,7 +116,7 @@ I wish I had asked for Kohaku-san instead.
 -- Page 223, Offset 14452.
 -- などと言いながら、阿良句氏は既にベッドまで歩み寄っていた。派手なモデル歩き……胸とか腰とか必要以上にくねらせている……にも拘わらず、足音ひとつたてない、忍者の如き忍び足である。
 // モデル歩 liberalized somewhat to catwalk phrase.
-Dr. Arach has already made her way over to the bed, babbling all the while.
+Arach-shi has already made her way over to the bed, babbling all the while.
  That flashy strut, as though she's headed down the catwalk...
  Her chest and hips swaying far more than is necessary...
  And yet, I can't make out the sound of her footsteps at all. She has the soft and stealthy footwork of a ninja.
@@ -194,8 +194,7 @@ Even my patience has a limit."
 [sha:0f8a0b53f2b5eb1e6ee138ec076551d7fd7e7c27]{
 -- Page 228, Offset 14464.
 -- マッドがつく方の科学者そのものというか。
-// kuristiiiiina
-You could say that she's the embodiment of a mad scientist.
+You could say that she's the embodiment of a scientist―――a mad one at that.
 }
 [sha:124b6d997494bdc253f73ec05015631035021bd0]{
 -- Page 229, Offset 14465.
@@ -206,7 +205,7 @@ You could say that she's the embodiment of a mad scientist.
 [sha:fe50fcd51c166a418fe9c2ac7cfbed9c40fc789d]{
 -- Page 230, Offset 14466.
 -- 阿良句博士は腰を落として俺の両脚を触診する。
-Dr. Arach takes a seat and palpates my legs.
+Professor Arach takes a seat and palpates my legs.
 }
 [sha:ead5e80552f98be778df6da9b74a67e2363270e2]{
 -- Page 230, Offset 14467.
@@ -287,13 +286,13 @@ I wouldn't be surprised if I had quite a few fractures here and there.
 -- んー、でもこれ開く必要ないわねぇ。固定しとけば明日には治ってるわぁ。阿良句つまんなーい」
 // Leading space for glue
  Hmm, it looks like there's no need to slice you open.
- I'll heal on it's own by tomorrow if you don't move around too much. Bo～ring!"
+ It'll heal on its own by tomorrow if you don't move around too much. Bo～ring!"
 }
 [sha:12b8619956d70985210ee28ee036dd0e02a6b3cd]{
 -- Page 235, Offset 14481.
 -- 阿良句氏……阿良句博士は不満げに頭を掻くと、バッグから医療器具を取り出した。
 // Italics candidate on _Professor_
-Dr. Arach... Professor Arach discontentedly scratches her head, then takes some medical equipment out of her bag.
+Arach-shi... Professor Arach discontentedly scratches her head, then takes some medical equipment out of her bag.
 }
 [sha:b59a90cbbf86f529846fd64ae21102d9aa322b75]{
 -- Page 235, Offset 14482.
@@ -410,18 +409,19 @@ You may look docile, but deep down you must be cold-blooded, right?
 [sha:d52425c4da1b2367075d7ce4250da6f8b911650f]{
 -- Page 243, Offset 14501.
 -- 「筋肉には瞬発力重視の速筋と、持久力重視の遅筋があるワケだけど、志貴チャンは速筋メイン。それはいいんだけどぉ……なんていうか、軽いのよねぇ。骨格じゃなくて骨そのものが軽いというか。なんか、生まれつき自重をごまかしてふわふわ浮く不思議チャン？みたいな？」
+// to be rechecked
 "When it comes to muscle, there's the fast-twitch variety, which is specialized for brief periods of explosive power,
- and the slow-twitch variety, which is better suited for long term endurance.
+ and the slow-twitch variety, which is better suited for long-term endurance.
  You're mostly made up of the former.
  That's all well and good, but, how do I put this... it's light.
- It's not as though your bone structure is light, more like the bones themselves are?
+ It's not as though you have a light build, but more like your bones themselves are light?
  Were you born with some mysterious ability to manipulate your own weight and float like a feather?
  Anything like that?"
 }
 [sha:814a01be8f4c66bdb73dbbdba106771bb68a2b73]{
 -- Page 244, Offset 14502.
 -- 「なんですかそれ。骨が軽いって、鳥ですか、俺は」
-"What are you talking about. Light bones... what am I, a bird?"
+"What are you talking about. Light bones... What am I, a bird?"
 }
 [sha:e9cec653574d62c812e1fb32acc64a1a0263c3aa]{
 -- Page 245, Offset 14503.
@@ -467,7 +467,7 @@ A reversion to the ancestral DNA... otherwise known as an atavism.
 -- Page 246, Offset 14509.
 -- そうねぇ。貴方が十年に一人の才能なら、あの娘は……十年、百年、千年、さて、何年に一人の逸材だと思う？」
 I wonder.
- If you have the sort of talent that only comes around once every 10 years,
+ If you have the sort of talent that only comes around once every ten years,
  how rare do you think talents such as hers must be? Once every ten years? Every hundred? Every thousand?"
 }
 [sha:50509bc45141a21b85b8b694a4194ec1481d92f8]{
