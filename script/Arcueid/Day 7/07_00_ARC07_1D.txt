@@ -1,7 +1,8 @@
 [sha:728e30ba31402b1375c820482b48ce85a6f8cb91]{
 -- Page 10003, Offset 16851. Mods: @n.
 -- 一日の授業が終わり、放課後になった
-The day of classes comes to an end.
+// No ending dot, it's glued later
+With classes over, the schoolday has come to a close
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 10003, Offset 16852. Glued.
@@ -11,12 +12,14 @@ The day of classes comes to an end.
 [sha:ead963addf41d6923df6455e1cce5e6c27e95ce2]{
 -- Page 10003, Offset 16853.
 -- いや、いつのまにか放課後になっていた、と言うべきだ。
-No, it's more like it came to an end before I even realized it.
+// This is a slight departure but I desperately want to avoid "before I knew it" antipattern
+Yet, here I am wondering where the time went.
 }
 [sha:b2798f52f1dd2a1ff40642c79b3a9042e7a34130]{
 -- Page 10003, Offset 16854.
 -- 悪い考えばかりが頭の中を巡って、気がつけば教室には誰もいなくなっていた。
-My mind was preoccupied by the negative thoughts that filled my head, and the next thing I knew, I was alone in the classroom.
+// Again, latter half tweaked a bit to avoid stiff pattern
+I was so caught up in all the dark thoughts swirling around my head that I've only now noticed the fact I'm alone in the classroom.
 }
 [sha:c6bd6ec7b516b24b0d2e0c9a2ebd5f4b25367d1b]{
 -- Page 113, Offset 16855.
@@ -51,22 +54,23 @@ I can't bring myself to believe she was lying.
 [sha:9904a07fc38a7e19ba896ee690bebf69fb204206]{
 -- Page 114, Offset 16861.
 -- 答えを知っているのはアルクェイド本人だけだ。
-The only one who knows the answer to that is Arcueid herself.
+The only one who knows for sure is Arcueid herself.
 }
 [sha:5323fe68c6083e6a3fedcc634deeb3e800322f53]{
 -- Page 114, Offset 16862.
 -- あいつを探し出して、もう一度出会えれば、きっとすべてが氷解するだろう。
-If I can track her down and see her once more, I'm sure that everything will be cleared up.
+If I can track her down and see her once more, I'm sure everything will be cleared up.
 }
 [sha:0091850ac31913e79780a1d3d3544fede12e63d7]{
 -- Page 115, Offset 16863.
 -- ……だからこそ、俺には自分が分からない。
-...And that's why I don't understand myself.
+// Context reified slightly
+...But even I don't understand why I want to.
 }
 [sha:7f9f7b7f8b88fda83f9ccc75bfae500037bfbc94]{
 -- Page 115, Offset 16864.
 -- もうあんな事件と俺は無関係だ。
-I have nothing to do with those incidents anymore.
+Those incidents are no longer any of my concern.
 }
 [sha:7ca172afd97da06366af3e09f1fb1a6decdde09a]{
 -- Page 116, Offset 16865.
@@ -86,27 +90,30 @@ That's why there's no reason. No reason to go out of my way to set foot into suc
 [sha:eca054a413b7085de0622cd96b189e3b267efcfe]{
 -- Page 116, Offset 16868.
 -- 俺はこのまま、何も気づかなかったふりをして、何も考えずに帰路についていい筈なんだ。
-That's why it's better for me to stay like this, pretend nothing happened, and go home without thinking about anything.
+I should just carry on as normal, pretend nothing happened and go home without thinking any more about this.
 }
 [sha:5e344857387d5de14112f144cdfa16d50efbfb98]{
 -- Page 117, Offset 16869.
 -- このまま帰る。
-I'll simply go home.
+Giving up and going home.
 }
 [sha:3033159958e5314b0976b4692debe1dc09b9a932]{
 -- Page 117, Offset 16870.
 -- それはきっと二番目ぐらいに正しい選択だ。
-That would surely be the second best option.
+As choices go, that's definitely the runner-up.
 }
 [sha:b7b316ea8dcc092acd4ac20f09d99639d04fc8b0]{
 -- Page 117, Offset 16871.
 -- けれど俺は、一番目にあたる選択を、ずっとむかしに教えられている。
-But a long time ago, I was taught about the most important one.
+But that's because a long time ago, someone taught me the number one thing to do in a situation like this.
 }
 [sha:5824aefd2d872362b240b310884691ef4ab937b8]{
 -- Page 118, Offset 16872.
 -- “―――どんな人間だって人生ってのは落とし穴だらけなのよ。君はそれをなんとかできる力があるんだから、もっとシャンとしなさい―――”
-"―――Life is full of pitfalls for every human being. You're capable of handling them, so you should be more cheerful―――"
+// Match 471/472 in 00_00.txt
+// シャンとする is more like きちんと, or even ちゃんと, so it's along the lines of 'get a grip'.
+"―――Life is full of pitfalls for every human being.
+ But I know you've got what it takes to pull through, so come on, show some resolve―――"
 }
 [sha:43fa44b480ef41b347dc474301a37211159216b8]{
 -- Page 119, Offset 16873.
@@ -126,7 +133,7 @@ Those words saved me.
 [sha:e2344e64552ff4a2468f4eb85fc0940dad0498a5]{
 -- Page 120, Offset 16876.
 -- そうあるようにやってきた。
-I lived my life through those words.
+I lived my life by those words.
 }
 [sha:67cc99aa850990a1b57d960aab22d02ffd030741]{
 -- Page 120, Offset 16877.
@@ -141,7 +148,8 @@ That's why I can't just stand by and turn a blind eye.
 [sha:6080d5bac2a654318502346ee547b484ace80fd1]{
 -- Page 121, Offset 16879.
 -- 一度関わってしまった以上、遠野志貴は最後まで、この厄介ごとから逃げられない運命にあるらしい―――
-It seems like once he got involved, Tohno Shiki's fate became entwined with such a troublesome matter until the very end.
+Having already gotten mixed up in it once,
+ it seems I'm now fated to see this troublesome matter all the way through to the bitter end.
 }
 [sha:2599f28b53aa45563669ca2af335a6e260f8b347]{
 -- Page 122, Offset 16880.
@@ -151,12 +159,12 @@ I leave the school grounds.
 [sha:ecc25769da1a511882047dd999b5d1f539eb9e49]{
 -- Page 122, Offset 16881.
 -- 手がかりは少ないが、俺にはあいつから預かったまま返せずにいた、マンションの鍵がある。
-I don't have much of a lead, but I still have the apartment key she entrusted me with.
+I don't have much of a lead, but I do still have the apartment key she entrusted me with.
 }
 [sha:9161d4c75542f92badce2c4a527ec7bd621f4d6d]{
 -- Page 122, Offset 16882.
 -- とりあえずマンションに行ってみよう。
-For now, I should head to the apartment.
+I'll head there first and see when I can find.
 }
 [sha:beadd193b29fb82fdb4f97f786fc5eea0bc1fd05]{
 -- Page 123, Offset 16883.
@@ -166,32 +174,34 @@ For now, I should head to the apartment.
 [sha:a54caa9c741b4187de77cc50ec8816a4d49bce84]{
 -- Page 123, Offset 16884.
 -- マンションの部屋はそのままだったけれど、アルクェイドの姿はなかった。
-The apartment was the same as before, but Arcueid was nowhere to be found.
+The apartment is just as I remember it, but Arcueid is nowhere to be found.
 }
 [sha:94bb40b12623a56c752f8e5cb353d5d9acf5bac1]{
 -- Page 123, Offset 16885.
 -- 少なくともあいつの痕跡はここにある。煙のように何もかも消えた訳ではない事に、ほっと胸を撫で下ろした。
-At the very least, the traces of her presence are still in this room. I feel a sense of relief knowing that everything hasn't vanished into thin air.
+She's not here, but I can at least sense a trace of her presence in this room.
+ I feel a wave of relief pass over me at this assurance that she hasn't vanished into thin air.
 }
 [sha:d09cc04177c2d9c6a1b03e18b006ef2bfe32cdbd]{
 -- Page 124, Offset 16886.
 -- 「いいさ、そう簡単に捕まえられるなんて思ってない。
-"It's fine. I didn't think finding her was going to be so easy.
+"That's fine. I didn't think finding her was going to be that easy.
 }
 [sha:161a8fc12327777f3ea19247361e5b7410f51176]{
 -- Page 124, Offset 16887.
 -- とにかく、今は行動あるのみだ」
-In any case, all I can do now is just get moving."
+// とにかく worst phrase
+Alright, time to buckle up and get moving."
 }
 [sha:40bb166ab2edc15dc7de8e5094d9bd9675198448]{
 -- Page 125, Offset 16888.
 -- ここで待っていてもあいつが帰ってくる保証はない。
-There's no guarantee that she'll come back even if I wait here.
+I could wait here, but there's no guarantee she's coming back.
 }
 [sha:88a828f9a7d477cb4c9407bf08d11fda1b470cc2]{
 -- Page 125, Offset 16889.
 -- ……その、初めてあいつを見かけた時のように、街に出て手当たりしだいに探すしかないだろう。
-...I have no choice but to go out to the city and search for her at random, just like the time I first met her.
+...I have no choice but to go out into the city and search for her at random, just like the time I first met her.
 }
 [sha:c4c7450dc4ebe61dc0c0e0e5ff71ce98179624b6]{
 -- Page 126, Offset 16890. Mods: @n.
@@ -206,12 +216,14 @@ As the sun sets, the city dons its evening visage
 [sha:b2aaf7a3f657ccd2657a5e505bd678e4b21405f5]{
 -- Page 126, Offset 16892.
 -- おもだったところを探し回ってはみたものの、アルクェイドの姿は片鱗さえ見つからなかった。
-Despite looking around the most prominent areas, Arcueid was nowhere to be found.
+I searched all over the most likely areas, but found neither hide nor hair of Arcueid.
 }
 [sha:a675d636684424a133632fbf2198ed9fb5dd8174]{
 -- Page 127, Offset 16893.
 -- 「……どうでもいい時はひょこひょこ歩いてたクセに、どうしてこういう時に見つからないんだ、あいつは」
-"...Even though you stroll around so clumsily whenever you feel like it, why can't I find you when it actually matters?"
+"...What's with that woman.
+ When I'm not looking for her she wanders right by me,
+ but at a time like this I can't spot her anywhere."
 }
 [sha:7a9dcb4842073659fe6de1c300518860e821e2ae]{
 -- Page 128, Offset 16894.
@@ -226,10 +238,10 @@ The night has just begun. I should―――
 [sha:8029f80b169796c4745bc555a441363c03623a78]{
 -- Page 130, Offset 42635. Choice.
 -- いったん屋敷に戻って整理しよう。
-Return to the mansion and reassess the situation.
+ Return to the mansion and reassess the situation.
 }
 [sha:056d9afee7598989cc23923812a064a2c5588f2a]{
 -- Page 130, Offset 42636. Choice.
 -- いや、諦めずに街を回ろう。
-No, I should keep searching the city.
+ Not give up, and keep searching the city.
 }
