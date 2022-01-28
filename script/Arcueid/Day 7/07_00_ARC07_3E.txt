@@ -296,7 +296,7 @@ The shape of it is only the first step.
 -- Page 293, Offset 17292.
 -- 「それじゃあついでに訊くけど、今の志貴からみて、あの人間はどんな感じ？」
 "So with all that said―――
- Shiki, from your point of view, what's your impression of that human?"
+ Shiki, when you look at that human, what do you see?"
 }
 [sha:58509fd5b30b3e2edf4155c1b45207ac1dd5a40a]{
 -- Page 293, Offset 17293.
@@ -360,7 +360,8 @@ I feel like throwing up.
 [sha:bec5c91b25f43e97567fa026612d6b2dfc859121]{
 -- Page 297, Offset 17304.
 -- ……あれでは逆だ。人間に死の線があるのではなく、死の線が、ヒトの形をしているだけ。
-...That thing is the complete opposite.
+// Standalone inverse without something to compare against was doing my head in to render in EN
+...That thing runs counter to everything I know.
  It isn't a man with lines of death, but lines of death that have taken on the appearance of a man.
 }
 [sha:cfbe87494f296cf9fba0b0c1d1635309e10315c4]{
@@ -376,7 +377,7 @@ I feel like throwing up.
 [sha:3d28c7e15a249530d11eb5dbdddb9b5f6db1aaee]{
 -- Page 299, Offset 17307.
 -- アルクェイドの言葉に答えられない。
-I can't even muster an response to Arcueid's words.
+I can't even muster a response to Arcueid's words.
 }
 [sha:3999e5e052dac5fb8a7966753c9085c761ed240a]{
 -- Page 299, Offset 17308.
@@ -393,7 +394,7 @@ Right now, it's taking all I've got just to stop myself from throwing up.
 -- 残念ね、志貴はアレにも死を視てしまっているなんて」
 // I think 残念 is like "damn, sucks for you that you can perceive that" rather
 // than a more vague "It's disappointing that you can see them"
-I feel bad for you. To think that you can see the lines of death even on that thing."
+I feel bad for you. To think that you can even see the lines of death on a thing like that."
 }
 [sha:3d0a3161dd2079bf2e0a372a90d5c370aeee90e1]{
 -- Page 300, Offset 17311.
@@ -427,7 +428,7 @@ The question of whether something is alive or not is irrelevant.
 -- Page 302, Offset 17316.
 -- 死という負債を、他人の血で誤魔化し続ける吸血鬼だから」
 It's a being that uses the blood of others to continuously cheat that debt we call death―――
-a vampire."
+ a vampire."
 }
 [sha:493f57277c5d1bb5c7b77e4fc630b4522cb819c0]{
 -- Page 303, Offset 17317.
@@ -554,7 +555,7 @@ But my body won't move.
 My uncovered eyes,
  able to perceive the threadbare nature of this run-down world,
  are drawn as though entranced to the dark void Arcueid vanished into,
- and I peer fixedly into that veil of darkness.
+ and I gaze fixedly across that that threshold of darkness.
 }
 [sha:f0dd4a6a183c39fe5dad0df55f71db7a3d60ca20]{
 -- Page 311, Offset 17339.
@@ -579,7 +580,7 @@ to the scent of the ground.
 [sha:285f3b1c62c9925ab5d061e4217d837dd1ca2854]{
 -- Page 311, Offset 17343.
 -- すべて、ピタリと凍りついた。
-Everything suddenly freezes in place.
+Everything abruptly freezes in place.
 }
 [offset:17344]{
 -- Page 312, Offset 17344.
@@ -631,9 +632,10 @@ And yet, I saw it.
 [sha:5344680ed189e7e579f0ef07c8e49bdb73b57f1c]{
 -- Page 314, Offset 17352.
 -- 死と死が衝突する音を、この眼が確かに確認した。
-With these eyes, I can clearly see the sounds of the clashes between entities of death.
+The sound of death clashing against death―――
+ there's no question that these eyes could discern it.
 }
-[sha:012520f91c38ebe7fd0b1a3106b02ce92410bda4]{
+[offset:17353]{
 -- Page 315, Offset 17353.
 -- 「ぐ――――」
 "Gh――――"
@@ -641,12 +643,13 @@ With these eyes, I can clearly see the sounds of the clashes between entities of
 [sha:d46b93b6849361b9b7218ff399c3ee9db15bf9c4]{
 -- Page 315, Offset 17354.
 -- 視界が<朱|あか>い。
-My vision is red.
+My vision is stained crimson.
 }
 [sha:75fc0a682807aa64211f21ca3880eb8901a566ad]{
 -- Page 315, Offset 17355.
 -- なんで―――見えない筈のモノの、“死”を視てしまっているんだ、この目は。
-Why―――can I see 'death' with these eyes when I shouldn't be?
+Why―――
+ Why can these eyes perceive the 'death' of something that I shouldn't even be able to see.
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 316, Offset 17356.
@@ -661,32 +664,37 @@ My glasses.
 [sha:a302d7ee262893b3b3d62435b6dad8c46efccce1]{
 -- Page 316, Offset 17358.
 -- 眼鏡をかけないと、頭がどうにかなってしまう。
-If I don't put on my glasses, then I don't know what will happen to my head.
+If I don't put on my glasses, I'm going to lose my mind.
 }
 [sha:f1cef6fe3a289d3bfc0af9176bdeb36533660e09]{
 -- Page 316, Offset 17359.
 -- 喉元までせり上がった嘔吐感をこらえながら、震える手で眼鏡をかけ直す。
-Holding back the nausea gradually rising up to my throat, I put on my glasses with my trembling hand.
+Fighting back the urge to vomit that has welled up in my throat,
+ I put my glasses back on with trembling hands.
 }
 [sha:291c661544e741133c2a0a0a43a4980812f9cd3b]{
 -- Page 317, Offset 17360.
 -- 音と光が戻る。
-The light and sound return to normal.
+Light and sound return.
 }
 [sha:a7a7ccf9719c3e0d7a1b4e6d6ccd98436649f241]{
 -- Page 317, Offset 17361.
 -- 気をしっかり持って周囲を見渡せば、高架線下に異常はない。
-Carefully looking at my surroundings, I find nothing abnormal below the overhead railway.
+Getting a firm grip on myself,
+ I take a good look at my surroundings and see nothing but an ordinary underpass.
 }
 [sha:cd5c4abb950c4c151b55e69a035581deb590c0b4]{
 -- Page 318, Offset 17362.
 -- 人影はなく、車通りも少ないものの、ここはまだ“まっとうな”夜の街だ。
-Despite the absence of life and limited number of passing vehicles, this place is still the same old night city.
+There's nobody around, and there aren't many cars,
+ but this is still a wholly unremarkable nighttime scene in the city.
 }
 [sha:ebcb4f5904720fe9249f5535cc443bd6f822a753]{
 -- Page 318, Offset 17363.
 -- 何の危険もない、あってはならない、人間の住む文明圏だ。
-An area of civilization where humans reside without the fear of imminent danger.
+This is a place without danger,
+ a place where danger cannot even be allowed to exist,
+ the sphere of civilization that humans call home.
 }
 [sha:4dc63b18bd536e528616eb595388187bb355fe7d]{
 -- Page 319, Offset 17364.
@@ -696,12 +704,14 @@ An area of civilization where humans reside without the fear of imminent danger.
 [sha:8b9542a73fd34115e41609c56c7ef0af7d48d553]{
 -- Page 319, Offset 17365.
 -- 呼吸がうまく出来ない。
-I can't breathe well.
+My breathing is ragged.
 }
 [sha:a8e8c2532bc0225b02a52df8c48bec18e11297bf]{
 -- Page 319, Offset 17366.
 -- 眼鏡をかけていても、視界の隅にさっきの“死”が残っていそうで、気持ち悪い。
-Even after putting on my glasses, I can still see what seems like the lingering 'death' from earlier in the corner of my eyes, making me feel disgusted.
+Even though I'm wearing my glasses,
+ there are still afterimages of the 'death' from earlier lingering in the corners of my eyes.
+ It gives me the creeps.
 }
 [sha:073444693989cf026e2587283516796aa819516b]{
 -- Page 320, Offset 17367.
@@ -711,7 +721,8 @@ Even after putting on my glasses, I can still see what seems like the lingering 
 [sha:0ec2ca83a4298484e127a3d000a1bcb13a34a7b9]{
 -- Page 320, Offset 17368.
 -- 暗がりから出てきたアルクェイドは、俺以上に息をきらして、おぼつかない足取りだった。
-Arcueid comes out of the darkness, limping forward and even more out of breath than I am.
+With faltering footsteps Arcueid emerges from the darkness,
+ her breathing even more laboured than my own.
 }
 [sha:2f617dcb4679522352ed0a158a432b40ba2a0a21]{
 -- Page 321, Offset 17369.
@@ -721,22 +732,24 @@ Arcueid comes out of the darkness, limping forward and even more out of breath t
 [sha:8a698a2fc0056f4eaec2eef0d89031f4b8d4f936]{
 -- Page 321, Offset 17370.
 -- 気まずそうに顔を背けて、ゆらりと、アルクェイドは俺の横をすり抜けていく。
-Turning away her battered face, Arcueid slips past me with a swaying motion.
+She has a seemingly embarrassed look on her face,
+ and swiftly hurries past me, lurching as she does so.
 }
 [sha:219dec0c2652f7983b0ea9180e9949bb1fd4edac]{
 -- Page 321, Offset 17371.
 -- その足取りは病人のように弱々しい。
-Her manner of walking was reminiscient of a sick patient.
+Her gait is feeble, like that of an invalid.
 }
 [sha:fa8fd651a669f9cd467d47024e78905e883e11e7]{
 -- Page 322, Offset 17372.
 -- ―――正直、こっちだって吐き気が治まっていない。
-―――To be honest, I still haven't gotten over the nausea on my end.
+―――Truth be told, my own nausea still has yet to subside.
 }
 [sha:5e9d56c00292058db18e5c4856ba9384149045b8]{
 -- Page 322, Offset 17373.
 -- けど、あんなに苦しげなアルクェイドを前にしたら、そんな事はどうでもよくなった。
-But after seeing the painful look of Arcueid in front of me, those kinds of things were of little importance.
+But with Arcueid so visibly in pain right in front of me,
+ all other thoughts are pushed aside.
 }
 [sha:803e170481dd96f4e865829b71faae35bca42146]{
 -- Page 323, Offset 17374.
@@ -751,12 +764,12 @@ I grab hold of Arcueid's shoulder as she attempts to leave.
 [sha:f7ca96fce3f13ed4b24fe70cd9d08ae0817f5ee0]{
 -- Page 323, Offset 17376.
 -- アルクェイドは虚ろな瞳のまま、ゆっくりと振り返った。
-With empty eyes, she slowly turns toward me.
+With vacant eyes, she slowly turns to look at me.
 }
 [sha:40db0183334aee8854ed6001538e2013cbfb8ce1]{
 -- Page 324, Offset 17377.
 -- 「大丈夫よ。すこし疲れただけだから、かまわないで。
-"I'm fine. I'm just feeling a bit tired, so leave me be.
+"I'm fine. I'm just feeling a bit tired, nothing to be worried about.
 }
 [sha:36d3ea39477ea866f4f92ff7f28ac60d227cca14]{
 -- Page 324, Offset 17378.
@@ -771,17 +784,19 @@ With empty eyes, she slowly turns toward me.
 [sha:b251bb168c03f7e527593ce6a36354ccf2d7ba2b]{
 -- Page 325, Offset 17380.
 -- ヘンに汗かいてるし、どう見ても重傷だぞ……！？」
-You're sweating a lot, and it's clear that you're seriously wounded...!"
+You're sweating an unreasonable amount,
+ and it's clear at first glance that you're seriously wounded....!?"
 }
 [sha:871357c26e95c80512944aafe4ded5ce95562a8e]{
 -- Page 325, Offset 17381.
 -- ハア、と、うまく出来ない呼吸を抑えながら、アルクェイドの腕を掴む。
-Unable to control my breathing, I sigh and grab hold of her arm.
+Panting as I fight to control my breathing, I grab hold of her arm.
 }
 [sha:b5ee40084a155aa50fe025f5f02a75cba9783634]{
 -- Page 326, Offset 17382.
 -- 「……なによ。そういう志貴だって、いまにも倒れそうな顔してる」
-"...What the hell. Even though you say that, you're the one that looks like you're about to collapse."
+"...What the hell.
+ You say that, but you look as though you're about to collapse yourself."
 }
 [sha:54bdd668146b5b66cd3950d5fecd0e8555599789]{
 -- Page 326, Offset 17383.
@@ -791,7 +806,7 @@ Unable to control my breathing, I sigh and grab hold of her arm.
 [sha:a2ebc4a23be594d2ed8f2445e646a5ee07f93d47]{
 -- Page 326, Offset 17384.
 -- 人を気にしてる余裕があるなら、自分の体も気遣えよ」
-If you can afford to worry about others, then worry about yourself first."
+If you can afford to worry about others, then worry about yourself as well."
 }
 [sha:9510a1b271e9d1412538b127641d657d81f55bd2]{
 -- Page 327, Offset 17385.
@@ -801,7 +816,8 @@ If you can afford to worry about others, then worry about yourself first."
 [sha:29a52861054d3962d77484a9c28912f6958828ae]{
 -- Page 327, Offset 17386.
 -- アルクェイドの呼吸は、本当に、切ないぐらいに弱々しい。
-Arcueid's breathing was truly weak to the point of being pitiful.
+// 切ない applies to Shiki I'm assuming here
+Arcueid's breathing is so faint that my heart aches for her.
 }
 [sha:fc4a1503382709dd3c9b9505e49ef73be1b20d5e]{
 -- Page 328, Offset 17387.
@@ -811,12 +827,12 @@ Arcueid's breathing was truly weak to the point of being pitiful.
 [sha:94cefbd4eeb04f2de7eeb868097c437b2bd31582]{
 -- Page 328, Offset 17388.
 -- 治ってないのか、とは聞けなかった。
-I'd never asked her if she'd recovered.
+I couldn't bring myself to finish asking if hadn't healed yet.
 }
 [sha:e5a9cf299fd7e0cbb2c53ead4ab5a1be5ba87fc8]{
 -- Page 328, Offset 17389.
 -- だって、それは俺を<庇|かば>って出来た傷なんだから。
-After all, that was the wound she got back when she protected me.
+I mean, she got this wound protecting me after all.
 }
 [sha:956125f972827f97998d60d9a0375c8f18210c86]{
 -- Page 329, Offset 17390.
@@ -826,12 +842,12 @@ After all, that was the wound she got back when she protected me.
 [sha:98d9f1fb8774c0db6f0f65b5d7601c20ba2ddbcd]{
 -- Page 329, Offset 17391.
 -- アルクェイドは<俯|うつむ>いたまま答えない。
-Arcueid continued to look down without a word.
+Her head still hung low, Arcueid doesn't answer.
 }
 [sha:2c9bed5681c5ed6621f999a1d5bd106972a97469]{
 -- Page 329, Offset 17392.
 -- それは、否定ではなく肯定の意味合い……だと思う。
-That was not a gesture of denial, but of confirmation... or so I think.
+That silence is not a denial, but a confirmation... I think.
 }
 [sha:cda30b5d5281d66e9d2cf27875a566fea9789b9c]{
 -- Page 330, Offset 17393.
@@ -841,22 +857,25 @@ That was not a gesture of denial, but of confirmation... or so I think.
 [sha:6ba62f85e4a6e575cce86656a802014c7966990a]{
 -- Page 330, Offset 17394.
 -- そんな体で、大人しくできないのか!?」
-Can you not take it easy with your current condition?!"
+Your body is a wreck,
+ are you incapable of just taking things easy for a bit!?"
 }
 [sha:ce96c850c64173d016bb43b7fa10bcf9c2786362]{
 -- Page 330, Offset 17395.
 -- 「……む。大人しく、してるつもり、なんだけどな」
-"...Hmph. That was... what I was... trying to do."
+"...Hmph. I was... taking it easy... though."
 }
 [sha:7f1f991909e368a1994d61b8c2a3a9dd5d637f17]{
 -- Page 330, Offset 17396.
 -- 「全然してないっ！　人間離れしてるからって、治りきってないのに出歩くヤツがいるかっ……！」
-"Yeah right! Even if you're beyond human, there's no way you could walk around like that when you haven't even fully recovered yet...!"
+"The hell you were!
+ And don't tell me that it's fine because you're not human,
+ there's nobody alive that could go wandering around with an open wound like that!
 }
 [sha:08b4378017d991de64f0ed07b447f419c0677ad2]{
 -- Page 331, Offset 17397.
 -- 真剣に怒っている自分に気がついて、痛感した。
-After taking notice of my serious anger, I realized something.
+I notice that I'm genuinely angry, and come to a realization.
 }
 [sha:29c1a8fd4e4effb92e925fe5fca5fe23df47b2ed]{
 -- Page 331, Offset 17398.
@@ -866,17 +885,18 @@ After taking notice of my serious anger, I realized something.
 [sha:3e567c22df6503cab0fbe2f48f21a0f837a786c9]{
 -- Page 331, Offset 17399.
 -- やっぱり俺は、このどうしようもなくやっかいな女を、放っておけない。
-There's no way that I can let this troublesome woman go around and do as she pleases.
+This woman truly is an unbelievable pain in the ass, but in the end I just can't leave her alone.
 }
 [sha:51c59285d6ffa66c62986346de45129659361ee3]{
 -- Page 332, Offset 17400.
 -- 「……おまえ、ホントに何してんだよ。
-"...What the hell were you thinking?
+"...What the hell is all this about?"
 }
 [sha:780c29ba9de4d6a68e7cfa0f73d2aa8e5af865df]{
 -- Page 332, Offset 17401.
 -- こら、黙ってないで答えろ。話してくれるまでおまえから離れないからな！」
-Come on, don't just sit there and answer me. I'm not letting go until you talk to me!"
+Come on, don't just sit there, answer me.
+ I'm not letting go until you talk to me!"
 }
 [sha:bda9ac6ebbe3ea98577847d60e02d71b8621cf63]{
 -- Page 333, Offset 17402.
@@ -886,7 +906,7 @@ I grasp both of her white shoulders.
 [sha:75844284ea003ae5a2e60ab8fd61664639599c4c]{
 -- Page 333, Offset 17403.
 -- アルクェイドは俯いたまま、こくん、とかすかに頷いたように見えた。
-With her head still facing down, I saw what seemed to be a faint nod.
+Arcueid still doesn't look up, but I think I can make out a faint nod.
 }
 [sha:f7d049522d4e2a3d750262425802a2f6b83fa68c]{
 -- Page 334, Offset 17404.
@@ -896,15 +916,17 @@ With her head still facing down, I saw what seemed to be a faint nod.
 [sha:b510c4f249bdbc528d78d03b54bc55bd4453bdf6]{
 -- Page 334, Offset 17405.
 -- いいわ、それじゃ場所を変えましょう。どのみち、さっきのもハズレだったみたいだし」
-Fine. In that case, let's move somewhere else. That guy from earlier was a dud anyway."
+I'll talk, but let's get out of here first.
+ It seems like that guy from earlier was a dud anyway."
 }
 [sha:87fe68cfbad9c2555ffa4bca217119771e82d9ec]{
 -- Page 335, Offset 17406.
 -- アルクェイドは俺の腕を払って<踵|きびす>を返す。
-Arcueid brushes off my arm and turns her back.
+Arcueid brushes off my arm and does an about-face.
 }
 [sha:8a5caecdabd1b783937859e225e283564a04702a]{
 -- Page 335, Offset 17407.
 -- 行き先は繁華街ではなく、<人気|ひとけ>のない公園のようだ。
-It seems that her destination is not the downtown area, but the park devoid of life.
+It seems that her destination is not the downtown area,
+ but the deserted park.
 }
