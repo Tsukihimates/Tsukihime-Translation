@@ -4,7 +4,15 @@ jobs:
   Script-Lint:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout Translation
         uses: actions/checkout@v2
+        with:
+          path: translation
+      - name: Checkout deepLuna
+        uses: actions/checkout@v2
+        with:
+          repository: Hakanaou/deepLuna
+          ref: v5.8
+          path: deepluna
       - name: Lint
-        run: cd ${{ github.workspace }}/script/1_0_2current_en_script && ./script_lint.py
+        run: ${{ github.workspace }}/deepluna/luna_linter.py --db-path ${{ github.workspace }}/translation/luna_db.json --script-path ${{ github.workspace }}/translation/script/
