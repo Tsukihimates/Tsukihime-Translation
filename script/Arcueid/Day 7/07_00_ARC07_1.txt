@@ -187,7 +187,7 @@ Akiha is sitting on the sofa.
 [sha:206e921ea52ee054fa6048d51dc8b282d9dd1e54]{
 -- Page 14, Offset 16600.
 -- 時刻は７時になったばかりだが、既に朝食を済ませたらしく、優雅に紅茶などを楽しんでいる。
-The clock has only just struck 7,
+The clock has only just struck seven,
  but she seems to have already finished her breakfast
  and is now gracefully enjoying a cup of tea.
 }
@@ -247,7 +247,8 @@ I hear the faint rustling of clothes and the sound of approaching footsteps.
 [sha:1fb1ab4f2cfc0d85849edbffd8deae451b4229a9]{
 -- Page 18, Offset 16611.
 -- 「あ……いや、熱は、確かにあるん、だけど」
-"Ah... no, it's true I have a fever, but..."
+// A slightly less literal TL fits a little better here, I think.
+"Ah... well, it's true I have a fever, but..."
 }
 [sha:d55c297ab6106e9cbdaa128dc3bcbc76893bf740]{
 -- Page 19, Offset 16612.
@@ -395,7 +396,7 @@ This feeling will pass.
 [sha:63018b5cc7cd4a9dee7b0ca5c4656e88954a8d2a]{
 -- Page 27, Offset 16638.
 -- 単に疲れが溜まっていて体調が安定しないだけ。
-My body's just a little unstable as a result of all the fatigue it's accumulated.
+My body's just a little unstable as a result of all the fatigue its accumulated.
 }
 [sha:938fd09f79d219b893cdb5a7ee6959d2f9536bc4]{
 -- Page 28, Offset 16639.
@@ -465,6 +466,7 @@ Akiha is waiting for me in the lobby. She must have come to try and stop me.
 -- Page 32, Offset 16651.
 -- しかし本人の言い分通り廊下は走らない分、ロビーにやってきたばかりのようだ。
 // ロビーに adjusted to from the living room so it doesn't dupe with above
+// I've never heard "diktat" used before now. It might just be me, but if the term is also unfamilar to others, maybe "command" or "order" would be close enough?
 However, given that she's following her own diktat about not running in the corridors,
  it seems she's only just made it here from the living room.
 }
@@ -479,7 +481,7 @@ However, given that she's following her own diktat about not running in the corr
 // このまま doesn't have a great smooth tl here
 My fever's gone down, so now I'm headed to school!
  I'll sort something out for breakfast myself,
- so if you could just look the other way this morning that would be great!"
+ so if you could just look the other way this morning, that would be great!"
 }
 [sha:ed7e194c73e20800e64be8f72520468d4593da6d]{
 -- Page 34, Offset 16654.
@@ -541,7 +543,7 @@ Akiha isn't childish enough to give chase after her older brother announces he's
 [sha:8f78ce07403bedb91d17909c991fb4c508c98225]{
 -- Page 38, Offset 16665.
 -- 「けど、怒る理由がルールについてなのが秋葉らしいな」
-"But it really is typical of Akiha to be upset about the rules of all things."
+"But it really is typical of Akiha to be upset about the rules, of all things."
 }
 [sha:c8ccf7256eaf8bf932c6752239fc84f02b700673]{
 -- Page 38, Offset 16666.

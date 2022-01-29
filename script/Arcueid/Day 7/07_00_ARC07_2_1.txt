@@ -12,6 +12,7 @@ Surely she's calmed down by now, right?"
 -- Page 160, Offset 16970.
 -- 秋葉が怒鳴った理由は、俺が廊下を走った事と、診察を受けなかった事だ。
 // 診察を受け -> Take his temperature, since that's what she was trying to do in that scene
+// It sounds like Akiha is the subject of the second clause
 She'd yelled at me earlier because I'd been running in the hallway,
  and had also refused to let her take my temperature.
 }
@@ -23,7 +24,7 @@ There's no way either of those actions were bad enough she'd still be holding a 
 [sha:c40e302d451be4337551f32d9e6195b9cdc470ee]{
 -- Page 160, Offset 16972.
 -- きちんと事情を話す……のはできないけど、反省していると伝えれば秋葉も収めてくれるだろう。
-I can't explain the situation, but if I show repentance in front of Akiha that ought to be enough to placate her.
+I can't explain the situation, but if I show repentance in front of Akiha, that ought to be enough to placate her.
 }
 [sha:75e32372f6ce512d424d4d512dae554af890bd9f]{
 -- Page 161, Offset 16973.
@@ -38,7 +39,8 @@ First, I'll let her know I'm back.
 [sha:d8244ab9fac17e49f240b0540a5f82cc91a22d95]{
 -- Page 162, Offset 16975.
 -- その後は屋敷の消灯時間までアルクェイド捜しの対策を練って、こっそり街に出かければいい。
+// Technically, there should be a comma before "when" as well, but there are already plenty in this sentence as is.
 After that,
  I'll use the time between now and lights-out to come up with a plan to find Arcueid,
- then when the times comes slip out of the house and head back to the city.
+ then when the time comes, slip out of the house and head back to the city.
 }
