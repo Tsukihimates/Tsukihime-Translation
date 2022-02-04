@@ -60,6 +60,12 @@ Dr. Arach is a complete weirdo, and something of a *mad biologist*. Conveying he
 
 **Sample sentence:** "Oooh, sublime sugar! You're pervading all five of my senses! You're even making my uterus and my ovaries melt.. I feel it coming! Haah.. Thanks for the meaaal!" (*filename 02_00_ARC02_1B, page 39, line 2802*)
 
+Arach has many different designators. For consistency, use:
+阿良句先生 - Arach-sensei
+阿良句医師 - Dr. Arach
+阿良句博士 - Prof. Arach
+阿良句女史 - Ms. Arach
+阿良句氏 - Arach-shi
 
 
 ### Other characters
