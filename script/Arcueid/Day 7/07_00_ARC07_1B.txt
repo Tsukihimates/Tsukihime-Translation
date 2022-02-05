@@ -196,7 +196,7 @@ I get the feeling that Noel-sensei's education policy is just a tad too lenient.
 -- Page 53, Offset 16707. Mods: @k, @e.
 -- 先生は不真面目なワケじゃありませーん。生徒の自主性を尊重してのコトですぅー。
 // elongated final mora in va translated to !
-It's not that I'm not serious!
+It's not like I'm not serious!
  It's just that I respect my students' independence!
 }
 [sha:38c9797b2f015f4be731f84ff4957452c3420325]{
@@ -245,12 +245,12 @@ In truth, Noel-sensei's joke hit the nail right on the head,
 [sha:53b66a730f0b41e286911913f90f88db8fdb648b]{
 -- Page 56, Offset 16715.
 -- 「貧血の方はなんとか。今朝は特に調子がいいです」
-"For someone with anemia, I feel in pretty good shape this morning."
+"For someone with anemia, I'm in pretty good shape this morning."
 }
 [sha:6505e6e7c2a703f70bfb267098c29e62609f4566]{
 -- Page 57, Offset 16716. Mods: @k, @e.
 -- 「そう。それは良かった。じゃあ今日から気楽な学生生活に戻れるわね。
-"I see. That's great. Then from today onwards, you can go back to your carefree student life.
+"I see. That's great. Then, from today onwards, you can go back to your carefree student life.
 }
 [sha:50056e8ced24b7d553d4520f84f9da4efc1e1761]{
 -- Page 57, Offset 16717. Glued. Mods: @x.
@@ -272,7 +272,8 @@ In truth, Noel-sensei's joke hit the nail right on the head,
 [sha:ec70ecd5d1ec79c0bd7107867b15576137e32e09]{
 -- Page 58, Offset 16720.
 -- それで、どんなだったのかしら？」
-And so, what was it like?"
+// The "and" feels unnecessary here.
+So, what was it like?"
 }
 [offset:16721]{
 -- Page 59, Offset 16721.
@@ -319,7 +320,7 @@ It must have been incredibly painful, right? So terrifying that you wanted to sc
 -- Page 61, Offset 16729.
 -- ノエル先生の無神経な発言にじゃない。この先生は好奇心旺盛というか、空気を読めない人だというのは赴任初日から分かっている。
 Not in reaction to Noel-sensei's insensitive remarks.
- She's just got an insatiable curiosity, or perhaps more accurately I should say she has an inability to read the room.
+ She's just got an insatiable curiosity, or perhaps more accurately, I should say she has an inability to read the room.
  That much has been clear since she started here.
 }
 [sha:40dc4844a2885f18b03fc3cab80e0ce55dfae6ed]{
@@ -445,7 +446,8 @@ Thanks to that, this morning is going to be even... more... energetic?
 [sha:5550261e1ff388e22e32b9d96344441cebdb9a97]{
 -- Page 71, Offset 16752.
 -- 金曜日はたまたま気分が悪くなっただけで、家に帰ったら回復したよ。面倒なんで、そのまま学校は休んだけど」
-I was just a little under the weather on Friday, but I started feeling better after I got home.
+// Having both "just" and a second clause reads a little odd to me. Thoughts?
+I was a little under the weather on Friday, but I started feeling better after I got home.
  It didn't feel worth it to go all the way back to school, so I took the day off instead."
 }
 [sha:f68f096fce6e45dbcef3a52868a206fc9b61e2d2]{
@@ -453,7 +455,7 @@ I was just a little under the weather on Friday, but I started feeling better af
 -- 「マジか。あの豪華なお屋敷でのんびりアンニュイ<生活|ライフ>とか、たった三日でお貴族さまの仲間入りかよ。
 "Seriously?
  I can't believe it only took three days for the listless, laid-back lifestyle
- in that opulent mansion to turn you into an aristocrat.
+ of that opulent mansion to turn you into an aristocrat.
 }
 [sha:a4d6a69d38f648948d284c02164a34af27c8e3c6]{
 -- Page 72, Offset 16754. Glued. Mods: @x.
@@ -537,7 +539,7 @@ The burglars are getting caught before the police even have a chance to show up,
 [sha:47f32f5617b1cd30ab111db1c69f5ca6aa841b2f]{
 -- Page 78, Offset 16766.
 -- 「なるほど。それならどんな噂も広まらないか」
-"I see. In that case, there'd be no way for rumors to spread."
+"Oh, I get it. If that's the case, then that'd be why no rumors have spread."
 }
 [sha:3ad9edcd334daa9b2e5ddd69f721341e4179031b]{
 -- Page 79, Offset 16767.
@@ -561,7 +563,7 @@ We nod gravely to each other.
 [sha:fee7d2e266b3cb6c8d92cddb8b5ee0ca49d27d57]{
 -- Page 80, Offset 16770.
 -- 「……いや、まだ見てない。話だけは聞いているけど」
-"...No, I haven't seen it yet. I've heard a bit about it though."
+"...No, I haven't seen it yet. I've heard a bit about it, though."
 }
 [sha:a641caa7056dc1fcb0bb1c9ee7be777d8c33de05]{
 -- Page 81, Offset 16771.
@@ -628,7 +630,7 @@ Anyway, what's happening on your end?
 -- Page 84, Offset 16780.
 -- 「それと似たようなものだよ。交差点あたりまでは登校したんだけど、そこで気分が悪くなって帰ったんだ」
 "Yeah, it was something along those lines.
- I made it about as far as the intersection, but then I started feeling sick so I just went back home."
+ I made it about as far as the intersection, but then I started feeling sick, so I just went back home."
 }
 [sha:ebf81cadd578d0dfa1759cc269ccd1acc48ebbe6]{
 -- Page 85, Offset 16781.
