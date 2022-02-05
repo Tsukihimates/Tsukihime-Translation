@@ -38,7 +38,7 @@ Arcueid narrows her eyes.
 -- Page 230, Offset 17131.
 -- 地面と思って踏みこんだ先が薄氷だと気づいたような、一歩間違えれば死に至るような緊迫感。
 I feel a sudden tension;
- It's as though the solid ground I thought I had been walking on was actually naught but a thin layer of ice,
+ it's as though the solid ground I thought I had been walking on was actually naught but a thin layer of ice,
  and now one wrong move could prove fatal.
 }
 [sha:0c304f3188a266a8d8203252dbc5d5ebc6d75176]{
@@ -49,7 +49,8 @@ I feel a sudden tension;
 [sha:dc23ce60aedef676d9866081559bee80c4e08c32]{
 -- Page 231, Offset 17133.
 -- 「それでって―――おまえ」
-"Well―――you're..."
+// to be rechecked
+"And―――you're..."
 }
 [sha:1111ff31d98843c49508446affebe99172c5a234]{
 -- Page 232, Offset 17134.
@@ -77,7 +78,7 @@ It was the sort of stare that made me feel as though she'd swoop down on me the 
 -- Page 233, Offset 17138.
 -- ヴローヴは死んだ。なのに、どうしてまだ吸血鬼騒ぎが起こる？　まさかとは思うけど、あれは、おまえが―――」
 // Lots of strong pauses in VA, here ...
-Vlov is dead. So then, why are these vampire incidents still happening?
+Vlov is dead. So then, why are these vampiric incidents still happening?
  I'm sure this isn't the case, but...
  could it be...
  that you―――"
@@ -205,6 +206,7 @@ Then―――that means Vlov has no connection at all to the serial murders that
 [sha:e3999699509028a80e0fbb96524285b083e34a5c]{
 -- Page 243, Offset 17162.
 -- 「待ってくれ。じゃあ吸血殺人事件はなんなんだ？
+// these/those incidents/murders/killings
 "Hold on. Then who is behind these vampire killings?
 }
 [sha:d5af26da656c404d05118b41741b17012a01fea5]{
@@ -215,11 +217,13 @@ Who on earth would go out of their way to do that?"
 [sha:23325b4cd592d81a51af631c93efddc56cb719eb]{
 -- Page 244, Offset 17164.
 -- 「だから、あの事件はヴローヴとは別の吸血鬼の仕業なの。
-"Like I said, those incidents are the work of a vampire other than Vlov.
+// these/those incidents/murders/killings
+"Like I said, these incidents were the work of a vampire other than Vlov.
 }
 [sha:1c4485ea8c1fc0b764ee1e3d3c99c0ff163dcf9e]{
 -- Page 244, Offset 17165.
 -- わたしはその吸血鬼を殺す為にこの街にやってきた」
+// these/those incidents/murders/killings
 I came to this city in order to kill the vampire behind those murders."
 }
 [sha:201b02c9c640004e9b68122a7f629fdf3e71684c]{
@@ -280,7 +284,7 @@ Unfortunately, she's right on the money.
 -- Page 249, Offset 17176.
 -- アルクェイドの目的が吸血鬼殺しだというから、俺は完全に早とちりして、こいつはヴローヴを倒すためにいるんだと思っていた。
 Because she said that killing vampires was her objective,
- I immediately jumped to the wrong conclusion and assumed she came here to take down Vlov.
+ I immediately jumped to the wrong conclusion, and assumed she came here to take down Vlov.
 }
 [sha:eba9e71ca5b1c28264268b7965dba0364ee1a7a6]{
 -- Page 250, Offset 17177.
@@ -306,7 +310,7 @@ Because she said that killing vampires was her objective,
 [sha:ea680f193b86d7a6a2f81178714229b147f0385d]{
 -- Page 252, Offset 17181.
 -- 膝から崩れ落ちそうな脱力。
-Strength drains out of me, and I feel as though I'm about to collapse to my knees.
+Strength drains out of me, and I feel as though I'm about to fall to my knees.
 }
 [sha:7adeb7a9daf48ec7b2cb97c7ff6cce7474f5f570]{
 -- Page 252, Offset 17182.
@@ -548,7 +552,7 @@ Arcueid must really be mad, as she continues to walk away without looking back.
 [sha:dc73dca758019ac1ac1cbe3199c7d239d699bd2a]{
 -- Page 270, Offset 17228.
 -- あいつ、どこに行くつもりなんだろう。
-That woman... where the hell does she think she's going?
+That woman... Where the hell does she think she's going?
 }
 [sha:eb2aa5df9a6dd5cf3a0bc6f8185afacb00b052c1]{
 -- Page 270, Offset 17229.
@@ -573,8 +577,9 @@ In retrospect, maybe I was a bit too cruel...
 [sha:17727160c5148ae0c1ff22a9333aeb8218c1cadd]{
 -- Page 271, Offset 17233.
 -- けど、あいつがあんなに怒ったんだから俺が悪い気もする。……それも全面的に。なんか最低っぽく。
+// italics candidate, it is
 Though, seeing how upset she is, I feel like I'm the one at fault...
- Actually, it is completely my fault.
+ Actually, it's completely my fault.
  I'm the worst.
 }
 [sha:6269dbedb010f6a4d4c5367292b1fd06fc877aee]{
