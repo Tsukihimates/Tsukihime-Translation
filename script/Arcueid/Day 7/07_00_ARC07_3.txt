@@ -236,7 +236,7 @@ Arcueid is standing there placidly while Akiha sits on the sofa looking similarl
 -- Page 184, Offset 17029.
 -- けれど自然体……天然のアルクェイドと違って、秋葉の態度はアルクェイドへの敵意がミエミエだった。
 But under the surface...
- while Arcueid's calm demeanor is just a natural consequence of her being an airhead,
+ While Arcueid's calm demeanor is just a natural consequence of her being an airhead,
  Akiha's is simply a veneer over her obvious hostility toward Arcueid.
 }
 [sha:54b4c797f8bc57f1a76aea89cf6685f71dd9af67]{
@@ -349,7 +349,7 @@ That's how she introduced herself."
 [sha:8d0884e8a3abc8cd68c366aac183742f056e2c1b]{
 -- Page 195, Offset 17049.
 -- 「そうですか。私にも紹介していただけると嬉しいわ。
-"I see. In that case I would be overjoyed if you could formally introduce me to her.
+"I see. In that case, I would be overjoyed if you could formally introduce me to her.
 }
 [sha:b3eb039c5e7de1541f2cd6cb6e502139963d58f4]{
 -- Page 195, Offset 17050.
@@ -455,7 +455,8 @@ Laughing in frantic desperation, I run over to Arcueid,
 [sha:fb6dcf27b7a00df01893a510290083c03ba3084e]{
 -- Page 202, Offset 17068. Glued.
 -- 強引に腕を掴む。
-and forcefully grab her by the arm.
+// Leading space for glue
+ and forcefully grab her by the arm.
 }
 [sha:24240ed8c368d8c7a3b616e40529a5639c993d90]{
 -- Page 203, Offset 17069.
@@ -481,7 +482,7 @@ Hisui is waiting in the lobby.
 [sha:05ecf174d93aedf1b49fece3dfa2ef878c8f2c2f]{
 -- Page 204, Offset 17073.
 -- 翡翠はアルクェイドを引っ張って走る俺を、どのような心境で見ているのか。考えると胃に穴が空きそうなので、今は考えないようにしよう。
-I wonder what's going through Hisui's mind as she watches me rush by with Arcueid in tow.
+I wonder what's going through her mind as she watches me rush by with Arcueid in tow.
  Thinking about it makes me feel like a pit is opening up in my stomach,
  so I'll just put it out of my mind for the time being.
 }
@@ -505,5 +506,5 @@ I wonder what's going through Hisui's mind as she watches me rush by with Arcuei
 -- Page 206, Offset 17077.
 -- <慇懃|いんぎん>におじぎをする翡翠の横を駆け抜けて、逃げるように屋敷から外に出る。
 As Hisui bows courteously,
- I sprint past her and out of the mansion, as if making my escape.
+ I sprint past her and out of the mansion, making my escape.
 }
