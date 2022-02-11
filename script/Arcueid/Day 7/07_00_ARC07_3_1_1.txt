@@ -134,7 +134,7 @@ The Magical Energy of their sire prevents them from decomposing entirely,
 Since their brains are in the process of rotting away,
  their instinctive desire for flesh and blood is far more ferocious than that of the rank I Dead.
  If I had to give them a label, I'd say these are the rank and file.
- We also refer to these as Dead.
+ We also refer to these as the Dead.
 }
 [sha:e26645a7f6f7b210f1826a906a67d7c6e984134a]{
 -- Page 529, Offset 17885.
@@ -159,7 +159,7 @@ A living corpse. Undead.
 These are higher ranking soldiers,
  whose brains have been completely reconstructed since their initial death.
  Sunlight doesn't faze them either.
- However, their true form can easily be exposed if they do not take proper measures to prevent decay.
+ However, their true form can easily be exposed if they don't take proper measures to prevent decay.
 }
 [sha:a685cec6f7cbcd08cf3d0ab241ce4dd92d6c6f9f]{
 -- Page 529, Offset 17889.
@@ -179,8 +179,10 @@ That zombie... So even the Dead are split into different classes.
 [sha:e7acce95c6ab3d7b1791a2ba73e054c7b38be100]{
 -- Page 530, Offset 17892.
 -- 階梯が進めば進むほど、ただの死体から動く死体に向上していく訳だ。
-The more ranks they climb, the more capable they become;
- starting off as corpses and working their way up to being more mobile Dead.
+// Initially this was translated to imply that the dead can actually rise up the ranks, but I'm not sure that's how it works?
+// Need a lore nerd to confirm.
+The higher they rank on this scale, the more capable they are―――
+from corpses at the bottom all the way to the more mobile Dead at the top.
 }
 [sha:6bfb143a19283ff452051b31b91ec432daba5fc1]{
 -- Page 530, Offset 17893.
@@ -200,8 +202,7 @@ This has got me wondering...
 -- Page 532, Offset 17895.
 -- 「お生憎様、こういうのはたいてい教会の仕事よ。便利だから使っていたら魔術世界の常識になっただけ。
 "Sorry to disappoint, but this terminology was the work of the Church.
- It's a handy set of terms, so people picked up on it and eventually it ended
- up becoming a de facto standard in the world of Magecraft.
+ It's a handy set of terms, so people picked up on it and eventually it became a de facto standard in the world of Magecraft.
 }
 [sha:0bef5f81b13d3a3c7e710ff39435ed7fe1668e45]{
 -- Page 532, Offset 17896.
@@ -266,8 +267,8 @@ About one in a thousand of the Dead reach this rank."
 // 深度 ('depth') clarified later to be 'curse depth', so I guess just 'power level'
 // Rendered here as "capabilities"
 In addition to the capabilities of Rank IV vampires,
- Nightkin are also to manifest unusual powers beyond those of mere humans,
- either due to Curses inherited from the blood of their parent,
+ Nightkin are also able to manifest unusual powers beyond those of mere humans,
+ either thanks to Curses inherited from the blood of their parent,
  or their own latent abilities.
 }
 [sha:4541792ba861cc7c30a37792802d03889493824e]{
@@ -344,8 +345,8 @@ That is because of their biggest flaw... well, maybe it's just a peculiarity.
 [sha:8a4b9df85a1c70ed614f38329c4b6f0250dc27c7]{
 -- Page 540, Offset 17919.
 -- 死徒に血を吸われた人間は誰もが吸血鬼になる訳じゃないし、死徒は誰をも吸血鬼にする訳でもない」
-Not everyone that has their blood sucked by a Dead Apostle is able to become a vampire,
- nor are Dead Apostles able to turn everyone they suck blood from into a vampire."
+Not everyone who has their blood sucked by a Dead Apostle is able to become a vampire,
+ nor are Dead Apostles able to turn everyone they suck blood from into one."
 }
 [sha:f388dbc4418c8dcfdb27296f32cdea7c84531ad9]{
 -- Page 541, Offset 17920.
@@ -356,7 +357,7 @@ Not everyone that has their blood sucked by a Dead Apostle is able to become a v
 -- Page 541, Offset 17921.
 -- 血を吸われただけなら、人間は人間として死ねるわ。
 If a human just has their blood sucked,
- then they would simply die just like any other human.
+ they would simply die just like any other human.
 }
 [sha:6eebcf96e8827c4ec79c7d5cfbc51468b604a959]{
 -- Page 541, Offset 17922.
@@ -373,37 +374,45 @@ These ranks are a representation of the depth of those curses."
 [sha:52878286900c6b98138b22dca2267a8057f3d208]{
 -- Page 542, Offset 17924. Mods: @n.
 -- 「……じゃあ、さっきの男は、殺された後に蘇ったんじゃなくて……
-"...So, that man from before, he didn't resurrect after being killed...
+"...Then, that means that the man from earlier wasn't killed and then later resurrected...
 }
 [sha:d1a61992963f071e332579f06f24fa08ac7c8ccb]{
 -- Page 542, Offset 17925. Glued.
 -- はじめから吸血鬼にする為に、“親基”に殺されたのか」
-He was killed by his master in order to become a vampire from the very beginning."
+// Leading space for glue
+// Normally been reserving 'sire' for '親' but making an exception here since “親基” is quoted
+ his 'sire' killed him with the express intention of turning him into a vampire."
 }
 [sha:b0a84ec711b4018326b294ec14871783bd6125ff]{
 -- Page 543, Offset 17926.
 -- 「ええ。でも下僕を作るのだって簡単じゃないわ。吸血鬼は簡単に家族を増やせない。
-"Yeah. But creating servants is not an easy task. A vampire cannot simply grow their family.
+"Yeah.
+ However, creating servants isn't a walk in the park.
+ It's not quite that easy for a vampire to expand their family.
 }
 [sha:28461f086d76c2c48dcfc0ff6e75e0dffac8d1cc]{
 -- Page 543, Offset 17927.
 -- Ⅰ階梯の死者なら、殺した後に血を送ってむりやり兵士にしてしまえばいい。
-If it's a Rank I dead, then it's fine to foribly turn them into soldiers by sending them blood after killing them.
+To produce a rank I Dead,
+ it's enough to simply transfer some blood into them after killing them,
+ forcibly turning them into soldiers.
 }
 [sha:c72b842ae08612b4a68b50256e1db8298d204f5a]{
 -- Page 543, Offset 17928. Mods: @n.
 -- けどⅡ階梯以上の吸血鬼を増やすには、犠牲者自身の才能……
-But in order to increase the number of vampires Rank II and above, things like latent ability...
+But if you're trying to produce vampires of rank II and above,
+ then things like latent ability...
 }
 [sha:77947724587083301e0612c563200d664703b1d8]{
 -- Page 543, Offset 17929. Glued.
 -- 適性が必要になってくる」
-and the aptitude of the victim is necessary."
+// Leading space for glue
+ and the aptitude of the victim become much more important."
 }
 [sha:2b904b15bd88c68d9e92f2a814710545b8b196d3]{
 -- Page 544, Offset 17930.
 -- 「適性……？　適性って、なんの？」
-"Aptitude...? What do you mean by that?"
+"Aptitude...? Aptitude for what, exactly?"
 }
 [sha:fcaa72b383d7c6afe6a0d5cc0cf8ce3eb3759e4b]{
 -- Page 544, Offset 17931.
@@ -413,52 +422,68 @@ and the aptitude of the victim is necessary."
 [sha:3e0cc9a563c8493f5ba5d55e944838f81fcc88f5]{
 -- Page 545, Offset 17932.
 -- 「たいていの人間は適性がない。だから吸血鬼の血を送りこまれると、その吸血鬼が持つ特性にあっさり支配される。死んだ後も働かされる病気みたいなものね。
-"Most humans don't have this aptitude. That's why when they're given the vampire's blood, they're easily dominated by its traits. It's like a a disease that makes you move even after death.
+// Rendering 特性 as 'powers' here since, as I interpret this,
+// "it is a trait of vampires that they can control the Dead who have been injected with their vampire blood"
+// but that's a bit verbose and doesn't lead as nicely into the next line.
+"Most humans don't have this aptitude.
+ As a result, once they've been injected with a vampire's blood,
+ that vampire can use their own powers to control them.
+ It's like a disease that makes you move even after death.
 }
 [sha:cb10e4eacc6b8940d3732f81f3620a53ab101c0b]{
 -- Page 545, Offset 17933.
 -- でも、それだと上質の下僕とは呼べない。親基としては、自分の力だけで自立してもらわないと困るのよ。働き蟻を動かすたびに自分の時間を使っていたら、それこそ本末転倒でしょ？」
-But having it alone doesn't make you a high quality servant. For masters, it would be troublesome if these servants can't move on their own. If you had to spend your own time just to make a worker ant move, it would be like putting the cart before the horse, no?"
+But you can hardly call that a high quality servant.
+ For the parent vampire, servants that can't even fend for themselves would be a huge burden.
+ Having to personally tend to each of your worker ants any time you wanted to have them do something
+ would be like putting the cart before the horse, no?"
 }
 [sha:21986ad523b3ede52e9657892de80c97477dfb7c]{
 -- Page 546, Offset 17934.
 -- それはそうだ。
-He's right.
+She's right.
 }
 [sha:96217ab31726d99c22615fa6c0bc1ad3bb817866]{
 -- Page 546, Offset 17935.
 -- 親である吸血鬼は通常、棺に入って眠るという。
-Normally vampires that are masters spend most of their time sleeping in a coffin.
+Vampires that have sired a bunch of Dead usually spend most of their time sleeping in their coffin.
 }
 [sha:e6d75c9ab9aa0b53f30affdd4220954b64b9367d]{
 -- Page 546, Offset 17936.
 -- 長く生きた吸血鬼は燃費が悪いから、だとか。なので頻繁には動かず、自分が何も<消|つ><費|か>わなくとも<血液|エネルギー>を集める手足を必要とする。
-After all, long-living vampires have a problem with resources. That's why they avoid unnecessary movement and require servants to collect energy even if they don't consume any themselves.
+Vampires that have been alive for a long time get poor gas mileage, or whatever.
+ That's why they avoid unnecessary movement, and use servants to gather <blood|e n e r g y  >
+ for them so as not to <consume|e x p e n d   > any fetching it themselves.
 }
 [sha:28abac3df6ca575115ad2774eb62e39807395543]{
 -- Page 546, Offset 17937.
 -- その手足を動かすごとに自分の力を消費していては話にならない。
-Expending your own energy to enable each and every servant would be out of the question.
+Depleting your own energy simply to mobilize those servants would be out of the question.
 }
 [sha:97253d4be5a82e300e41761b0cdc8c82cc4d4038]{
 -- Page 547, Offset 17938.
 -- 「適性がある人間は吸血鬼の呪いに抵抗できる。
-"Those humans that have the aptitude can resist the curse of a vampire.
+"Humans who do possess that aptitude can fend off the curse of a vampire.
 }
 [sha:f167f46fc34d5200cc1e04a5559035c3fb618d48]{
 -- Page 547, Offset 17939.
 -- その後は本人の生存力ね。吸血鬼の血に負けて絶命するか、これに打ち克って吸血鬼として新生するか。
-After that, it's up to their own to survive. Whether they lose to the vampire's blood and get annihilated, or overcome it and become reborn as a vampire.
+Past that, it's up to the strength of their own will to survive.
+ Whether they lose to the vampire's blood and be annihilated,
+ or overcome it and be reborn as a vampire.
 }
 [sha:e075e89a28623b91ffa294c74b8b035f96b67a3b]{
 -- Page 547, Offset 17940.
 -- この街で遺体として見つかっているのは、適性はあったけど、そのまま絶命した人間よ。
-The corpses that are being found in this city are humans with aptitude, but were ultimately destroyed in the end.
+The corpses that are being found in this city are humans who had that aptitude,
+ but ultimately succumbed.
 }
 [sha:16cf8fb7adc3741f80a9aecc61d4ace98af817ae]{
 -- Page 547, Offset 17941.
 -- 結果的にただ“殺された”遺体になって路上に放置される。死者たちは殺された後に自分で動き出すけど、死者になれなかった遺体はそのままでしょ？」
-The ones that end up simply being 'killed' are left out on the street. The Dead are the ones that can move after being killed, but the ones that don't turn into them are simply corpses, right?"
+The end result is simply a corpse of someone that has been 'killed', abandoned in the street.
+ Since the Dead are able to move around on their own after they have been killed,
+ the only bodies that would remain to be found are those of people that couldn't turn into them, right?"
 }
 [sha:db683fd59081bba83ca174d7a4fdda9dcd399182]{
 -- Page 548, Offset 17942.
