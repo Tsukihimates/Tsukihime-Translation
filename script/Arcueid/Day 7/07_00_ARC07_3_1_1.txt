@@ -491,22 +491,30 @@ The end result is simply a corpse of someone that has
 [sha:db683fd59081bba83ca174d7a4fdda9dcd399182]{
 -- Page 548, Offset 17942.
 -- 「……そうか。あのゾンビになったら遺体は残らないもんな」
-"...I see. If you turned into one of those zombies, then you wouldn't leave any remains."
+"...I see. If you turned into one of those zombies,
+ then you wouldn't leave a corpse behind."
 }
 [sha:1b8491c60459c7c7a106be8714a61dd648792d3f]{
 -- Page 548, Offset 17943.
 -- 「そういうこと。ニュースにあがっている犠牲者たちはむしろレアケースね。なまじ適性があったから目を付けられ、結果的に人間として死亡した」
-"Exactly. The increase in victims that you see in the news would be considered a rare case. They were scouted out for having some sign of aptitude before they ultimately passed away as humans."
+// I think ニュースにあがる is more like 'appear on' than 'increasing (in frequency)'
+"Exactly.
+ The victims you see highlighted on the news are actually the exceptions, not the norm.
+ They had enough aptitude to catch the attention of the vampire, but ultimately passed away as humans."
 }
 [sha:fa5f55535578fca676fe881a4cbaef797cfeb9b6]{
 -- Page 549, Offset 17944.
 -- 「適性を持つ人間は百人に一人ぐらい。その中でも、送りこまれた異物に適応できて、耐えきれたものだけがⅣ階梯以上の吸血鬼になる。
-"There are around one in a hundred people that possess this aptitude. But even among them, only those that can adapt to the foreign substance and handle it can turn into a Rank IV vampire or higher.
+"Around one in a hundred people possess this aptitude.
+ Of those, only the ones that can adapt to and withstand the foreign substance that has entered them
+ are able to become a Rank IV vampire or higher.
 }
 [sha:90d9470ba28e795e545367465e47601e63da7f09]{
 -- Page 549, Offset 17945.
 -- 吸血鬼はよくネズミ講だなんて言われるけど、血を送れば誰でも子にできる訳じゃない。実際には時代と共に“吸血鬼”と呼べるものは減っているのが現状よ」
-Vampires often call this something like a pyramid scheme, but it's not like they can turn anyone into their offspring just by sending blood. The truth is that the number of things you can call a 'vampire' in the present age are getting lower."
+People often say that vampires are just a pyramid scheme in this regard,
+ but it's not like they can turn just anyone into their kin by transferring their blood.
+ In fact, as times change the number of beings that can truly by called 'vampires' is dwindling."
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 550, Offset 17946.
@@ -516,7 +524,7 @@ Vampires often call this something like a pyramid scheme, but it's not like they
 [sha:8e302673de37f91cbcdbd854eb9b423930742e92]{
 -- Page 550, Offset 17947.
 -- そう簡単に家族は増やせない、とアルクェイドは言った。
-So Arcueid is saying that it isn't that easy to grow one's family.
+Arcueid said that it isn't so easy to grow one's family.
 }
 [sha:eeb87c6c1d0d088269c308029f3f24a3439e6aed]{
 -- Page 550, Offset 17948.
@@ -526,22 +534,26 @@ For vampires, 'servants' and 'offspring' are two different things.
 [sha:25a922187a88b84d26a7c7ebf8ad521391e3a5ee]{
 -- Page 550, Offset 17949.
 -- 先ほどアルクェイドが仕留めた死者は、ただ動くだけの“配下”にすぎないという事だ。
-The dead that Arcueid took down earlier was nothing more than a 'servant' that could only move.
+The Dead that Arcueid took down earlier was nothing more than a 'servant',
+ only capable of basic tasks.
 }
 [sha:9ecd6056e75f0b05a085068a490da65041861812]{
 -- Page 551, Offset 17950.
 -- 「じゃあ、さっきの男はとっくの昔に殺されていて、自分でも分からないまま吸血鬼の言う通りに働いてたのか？」
-"So that means the man from earlier was already killed long ago and was following a vampire's orders without realizing it, right?"
+"So, does that mean the man from earlier had already been killed long ago,
+ and was following the vampire's orders without even realizing what he's doing?"
 }
 [sha:8c139c436d4285c7415ebdf7c3b1bb5956ef5866]{
 -- Page 552, Offset 17951.
 -- 「自分でも分からない、は階梯によるわね。
-"Whether it realizes it or not would depend on its rank.
+"Whether they realize it or not would depend on their rank.
 }
 [sha:c06cc98ccf51f55304c457ea093c167e5e796138]{
 -- Page 552, Offset 17952.
 -- Ⅰ階梯なら自動人形にすぎないけど、Ⅲ階梯なら脳は生きているし。彼等は自分がどういう生き物になったのかを理解した上で吸血鬼に従っている。自分から進んで人間たちを殺して、親基に血を送っているのよ」
-A Rank I would be nothing more than an automaton, but a Rank III would still retain their brain. They follow a vampire's orders after realizing what kind of creature they've become. They kill other humans out of their own free will and send blood to their master."
+A Rank I Dead is nothing more than an automaton, but a Rank III one still has a functioning brain.
+ They are able to comprehend what kind of creature they've become, yet continue to serve.
+ They kill the humans that were once their brethren, and send the blood to their parent vampire."
 }
 [sha:d4599fd7253c62c85bfa3db269957db5b05602e1]{
 -- Page 553, Offset 17953.
@@ -551,12 +563,14 @@ A Rank I would be nothing more than an automaton, but a Rank III would still ret
 [sha:01331fa59747c3524f1f3c5132551b72896fcb44]{
 -- Page 553, Offset 17954.
 -- いきなり殺されて、気がついたら動く死体にされてるんだ。そんなの、無理矢理やらされているに決まってる」
-They were killed all of a sudden and became moving dead before they realized it. It's obvious that they would have been forced to do it."
+These are people that were killed out of nowhere,
+ and then woke up to find that they'd been turned into moving corpses.
+ They've obviously been forced into doing this against their will."
 }
 [sha:bcaac31494ec153c36b5ff3497da74b313c96910]{
 -- Page 554, Offset 17955.
 -- 「……前にも居たわね、そういう風に命乞いしてきた死者。
-"...I said this before, haven't I? About the dead that beg for their life like that.
+"...I've run into Dead like that before, ones that begged for their life with excuses along those lines.
 }
 [sha:f32172083dcb0a0a2dfec863ffcad9bfd9548cee]{
 -- Page 554, Offset 17956.
@@ -566,7 +580,8 @@ They were killed all of a sudden and became moving dead before they realized it.
 [sha:5dfb78a043c734fefd14aff49861e7e93f6c1147]{
 -- Page 554, Offset 17957.
 -- つまり、自分が死にたくないから人間を殺しているってコトよね。これって、自分から進んで殺しているのと何が違うの？」
-In other words, they kill other humans because they don't want to die. In that case, how is that any different from killing out of your own will?"
+In other words, they kill other humans because they don't want to die.
+ How is something like that any different from killing of your own free will?"
 }
 [sha:fbb1d8132db62375753b304989ed9ff5f3d76d16]{
 -- Page 555, Offset 17958.
@@ -576,17 +591,21 @@ In other words, they kill other humans because they don't want to die. In that c
 [sha:bb2fe6a462b8061b631e3bbc2050cbc70d842c89]{
 -- Page 555, Offset 17959.
 -- 「意識が残っている死者たちは決まって自由がない、こうするしかなかったと訴えるわ。
-"The dead whose consciousness still remains will say that they were forced to and had no choice in the matter.
+The Dead that are still lucid will say their hands were tied,
+ that they had no choice in the matter.
 }
 [sha:753d93e6721383e62da7ec4bef74d5b220bbb2f4]{
 -- Page 555, Offset 17960.
 -- でも主に逆らって死ぬ自由は残っている。なのに人間を殺す方を選んだのだから、彼らは自分から進んで、かつて同族だった<人間|イキモノ>を殺していると思うんだけど」
-But they still had the choice to go against their master and die. Despite this, they chose to kill humans, so it seems like they acted on their own will and killed other living beings that were once their own."
+But they still had the option to go against their master and die.
+ Despite this, they still chose to kill humans.
+ That sure reads to me like they're killing their former kin of their own volition."
 }
 [sha:7ee69f2b9366f5f327d7098af5a8ab4109a90fae]{
 -- Page 556, Offset 17961.
 -- 「まあ、どちらにせよ死徒に連なるモノはみんな殺すから、わたしは気にしないけど」
-"Well, either way, I would still kill anyone related to the Dead Apostles, so it doesn't really matter to me."
+"Well, either way, I'm out to kill anyone that's connected with the Dead Apostles.
+ It doesn't really matter to me one way or the other."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 557, Offset 17962.
@@ -601,17 +620,22 @@ But they still had the choice to go against their master and die. Despite this, 
 [sha:d2b4830d758c41b31f641ab01955a014fa1576f4]{
 -- Page 557, Offset 17964.
 -- アルクェイドの言い分は正しい。筋が通っている。
-What Arcueid said was right. It makes complete sense.
+What Arcueid said was correct. It makes complete sense.
 }
 [sha:ff455f347028411f256e89018e66257902b04923]{
 -- Page 557, Offset 17965.
 -- けどそれは吸血鬼の……強い生き物の理屈だ。
-But that sort of reasoning comes from a vampire... a powerful being such as her.
+But the logic behind it is that of a vampire... of a powerful being.
 }
 [sha:46ac620f59dceb18c4f05672c102467f484d6c9d]{
 -- Page 557, Offset 17966.
 -- 人間はそこまで正しくは生きられないし、シンプルにも生きられない。
-We humans do not live such a righteous way of life nor do we live as simple creatures.
+// Interpreting this along the lines of
+// "Humans cannot live by such a stark delineation of what is just (rather die than kill),
+// but also cannot live in ignorance of the fact that they are incapable of living such principled lives."
+// Overanalysed?
+We humans cannot live our lives so righteously,
+ nor can we live in simple ignorance of what is just.
 }
 [sha:2a4e0c869f4c50411e5b789bb055b502c0d48cb2]{
 -- Page 558, Offset 17967.
