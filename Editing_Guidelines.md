@@ -124,13 +124,13 @@ One last thing, it is also possible to add ruby in the English translation where
 Whenever time is mentioned in the script, it should be written in the o'clock format.
 
 For example
-    - > "The night just turned past nine o'clock"
+- > "The night just turned past nine o'clock"
 
 However, if the time has minutes, then leave it as it is.
 
 For example
-    - > "The time is 7:30 AM"
-    - > "The time is 6:33 PM"
+- > "The time is 7:30 AM"
+- > "The time is 6:33 PM"
 
 ### Ellipses
 
