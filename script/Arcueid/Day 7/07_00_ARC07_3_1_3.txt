@@ -38,7 +38,7 @@ I knew you would ask that!"
 -- Page 577, Offset 18020. Glued. Mods: @x.
 -- 志貴は食いついてくるわよねー！」
 // Leading space for glue
- You're getting really into this, Shiki!"
+ You're really getting into this, Shiki!"
 }
 [sha:365eda3862cf82baa247df0fb6d4f661f0ef7f8e]{
 -- Page 577, Offset 18021.
@@ -48,7 +48,7 @@ I knew you would ask that!"
 [sha:be1655c817591fcf7170110b66297718562e576a]{
 -- Page 578, Offset 18022.
 -- 待望の質問だったのか。
-I guess she was eagerly awaiting this question.
+I guess she was hoping I'd ask her about this.
 }
 [sha:2b5257e1d8fae2479fb2721409ca9ebc805e4482]{
 -- Page 578, Offset 18023.
@@ -65,7 +65,7 @@ She's so excited to get stuck into it that I'm actually starting to get a little
 [sha:7740011b2416e6d73eb9cd1694e13df09c65f0f3]{
 -- Page 579, Offset 18025.
 -- でも、祖たちの話をするには、もうちょっと前知識が必要なのでぇ……」
-But in order to talk about Ancestors, we need to lay some groundwork first,,,"
+But in order to talk about Ancestors, we need to lay some groundwork first..."
 }
 [sha:494686c24351bd92c15d3e5d3dfe8459c2f29935]{
 -- Page 580, Offset 18026.
@@ -103,12 +103,12 @@ Geez, you've got such a bored looking expression on your face,
 [sha:c129384048745e05a7d6156fe1aea4fcb09b33fe]{
 -- Page 583, Offset 18032.
 -- いや、どう反応していいか掴みかねているので、とりあえず真面目な顔をしているだけだった。
-No, the serious face is just a placeholder, I'm still grappling with how to react to all this.
+No, this serious face is just a placeholder, I'm still grappling with how to react to all this.
 }
 [sha:0fd05795a4b84e683ce5136fe97f2b20bc4c7479]{
 -- Page 583, Offset 18033.
 -- アルクェイドはもっと真面目になってほしい。
-I'd prefer it if you could take this a bit more seriously.
+Arcueid's the one I'd like to see take things a bit more seriously.
 }
 [sha:4ae45272d0fd01b879be4fde0b493ce3034f47da]{
 -- Page 584, Offset 18034.
@@ -134,6 +134,8 @@ Everything up to Rank III are 'living corpses'.
 [sha:aa2a8fbd73b5db6b87e3787621d9eb09a1322388]{
 -- Page 585, Offset 18038.
 -- Ⅳ～Ⅴ階梯目は夜を生きる『夜属』、
+// 夜を生きる translated here as nocturnal, since otherwise it's like
+// "night dwellers who live at night" which is ??? eigo
 Ranks IV and V are nocturnal 'night dwellers'.
 }
 [sha:04503bb24a5a10ed17e32d450ea2ee28d1d9c6fe]{
@@ -158,7 +160,7 @@ Through bloodsucking and invasion they can become parent vampires,
 -- Page 586, Offset 18042.
 -- でもⅥ階梯以上の子は作れない。通常の吸血鬼なら、その“成り上がり”はここでストップね」
 However they cannot create offspring higher than Rank VI.
- If the 'upstart' is a regular vampire, this is the end of the line for them.
+ If the 'upstart' is a regular vampire, then this is the end of the line for them.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 587, Offset 18043.
@@ -174,15 +176,15 @@ Vampires transfer their blood into humans,
 [sha:28152cf9ece33a22cb9bd886b258b733ecf19d0e]{
 -- Page 587, Offset 18045.
 -- そうして増やした奴隷たちをまとめたものが『その吸血鬼のコミュニティ』だ。
-Gather together all the slaves they have produced in that way and you get a vampire 'community'.
+Gather together all the slaves they've produced this way and you get a vampire 'community'.
 }
 [sha:09947e43091d816b1ea75d5f7855d6c93a8bc53b]{
 -- Page 588, Offset 18046.
 -- 自分以上の“子供”は作れない、というのであれば、確かに階梯はそこで止まるだろう。
-if you can't create any children more powerful than yourself,
- that would certainly spell an end to your progression up the ranks.
+If you can't create any children more powerful than yourself,
+ then that would imply that the hierarchy of vampires caps out there.
 }
-[sha:73abbb531dcbcbd0910c206019c82e3edf2ee810]{
+[offset:18047]{
 -- Page 588, Offset 18047.
 -- しかし……
 However...
@@ -191,7 +193,7 @@ However...
 -- Page 589, Offset 18048.
 -- 「ソレを生み出したものがいる……いや、死徒より上の立場の吸血鬼がいる、ってコトか」
 "But something originally gave birth to them...
- So that means there must exist vampires above the Dead Apostles, right?"
+ So that means there must exist vampires that stand above the Dead Apostles, right?"
 }
 [sha:b8d10bfdc2ce71ef517a559f409ac4fea8906b99]{
 -- Page 589, Offset 18049.
@@ -206,7 +208,7 @@ There are twenty-seven of them, so we call them the Twenty-Seven Ancestors."
 [sha:d169e55780657e438a4fc8cfa057d8f5c484008b]{
 -- Page 590, Offset 18051.
 -- 「前後するけど、Ⅶ階梯目が上級死徒。
-"We're going out of order, but Rank VII are the Greater Dead Apostles.
+"I'm jumping around a bit here, but Rank VII are the Greater Dead Apostles.
 }
 [sha:348faeee60a7ce4a41db73c662eda08e39bd919e]{
 -- Page 590, Offset 18052.
@@ -242,7 +244,7 @@ and are allowed to exercise their will as members of the aristocracy."
 [sha:2cab04c6c658d2b7b5b1eefbae089d19399d093e]{
 -- Page 592, Offset 18058.
 -- 上級死徒は親基である祖に絶対服従という訳じゃない。逆らう事だってできる」
-Greater Dead Apostles do not necessarily have absolute obedience toward their parent Ancestor.
+Greater Dead Apostles do not necessarily show absolute obedience toward their parent Ancestor.
  They can even oppose them if they wish to."
 }
 [sha:45d60f010415a4ccb7d1416c12523adaf00dae74]{
@@ -255,18 +257,18 @@ Greater Dead Apostles do not necessarily have absolute obedience toward their pa
 -- まあでも、祖を倒す事はほぼ不可能よ。同じ『自由』を得たとしても祖が生きた年月は膨大だもの。上級死徒では祖の存在規模を上回ることは難しい」
 // 存在規模 previously translated as <power/abilities|Lifescale>
 That said, taking down an Ancestor is no mean feat.
- Even if you acquire the same 'freedoms', the amount of time they have spent on this earth is colossal in comparison.
- It's difficult for a Greater Dead Apostle to surpass the <power|L i f e s c a l e> of an Ancestor."
+ Even if you acquire the same 'freedoms', the amount of time they've spent on this earth is colossal in comparison.
+ It's difficult for a Greater Dead Apostle to surpass the <power|L i f e s c a l e   > of an Ancestor."
 }
 [sha:e363661b60fb8f898fb8b6a4ebce9a8827709ed2]{
 -- Page 594, Offset 18061.
 -- 「なので、祖を受け継ぐとしたらⅧ階梯。後継者。
-"That's why if one wants to take over an Ancestor, we have Rank VIII: Successor.
+"And so, for those trying to take over as an Ancestor we have Rank VIII: Successor.
 }
 [sha:2271c8b1a3423336a5bd3be4af47e48fc6149579]{
 -- Page 594, Offset 18062.
 -- 祖が自分の後継に認めた、才能ある吸血鬼。
-A talented vampire that has been recognized by an Ancestor as a worthy successor.
+A talented vampire that has been recognized by an Ancestor as a worthy heir.
 }
 [sha:24ef639b5c629bfd21491b0fe9ec35526a78f504]{
 -- Page 594, Offset 18063.
@@ -276,8 +278,8 @@ A prince or princess, so to speak.
 [sha:359e8127e4e45680fca40f46c7b45d226cb9422b]{
 -- Page 594, Offset 18064.
 -- 祖の中には吸血鬼ではないものを見初めて、いきなりこの階梯まで引き上げてしまうモノもいる」
-There are also a couple of Ancestors that have fallen in love with non-vampiric beings at first sight
- and suddenly promoted them all the way to this rank."
+There are also a couple of Ancestors that have fallen in love with non-vampiric beings at first sight,
+ and promoted them all the way to this rank on the spot."
 }
 [sha:53480a5fa2f6be9fe4a67de2bbed7fbbf1ed9dfc]{
 -- Page 595, Offset 18065. Mods: @n.
@@ -303,12 +305,13 @@ I'm pretty sure I remember Arcueid mentioning she was royalty.
 [sha:c32999919b1928b6f1959b4a29aa0bc925c20720]{
 -- Page 597, Offset 18069.
 -- 「Ⅷ階梯はひとりの祖に最低ふたりいるとして、単純に50匹以上。中にはそういう試みをする祖もいたでしょう。
-"If we assume that there are at least two Rank VIIIs per Ancestor, then that means there's more than 50 of them out there.
+"If we assume there are at least two Rank VIIIs per Ancestor, then that means there's more than 50 of them out there.
  There's a good chance at least one of them is the result of an Ancestor attempting something like that.
 }
 [sha:2881e6272c86892a5313f545edf1906ab5609f25]{
 -- Page 597, Offset 18070.
 -- ま、わたしと彼らでは根本が違うから、どこまでいっても模造品にすぎないでしょうけど」
+// Arc: accept no substitutes
 That said, my origin is different to theirs,
  so no matter how hard they try the best they'll ever manage is a pale imitation."
 }
@@ -320,7 +323,10 @@ That said, my origin is different to theirs,
 [sha:9837dfb5b8c9ac2dbda8fde8ef0ad91236e0f37a]{
 -- Page 598, Offset 18072.
 -- そうね。基本的な蓄えだけで言えば、きっとヴローヴより優れている」
-That's right. If we're just going by basic reserves alone, they would definitely surpass Vlov."
+// そうね said fairly succinctly, but can't think of a great equivalent phrase with that intonation.
+How to put it.
+ Even just in terms of their stockpiles of essential resources,
+ they stand head and shoulders above Vlov.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 598, Offset 18073.
@@ -330,7 +336,7 @@ That's right. If we're just going by basic reserves alone, they would definitely
 [sha:c8dd24a281a4633a6fa73e836ded82cdff0c801f]{
 -- Page 598, Offset 18074.
 -- あの<吸血鬼|ヴローヴ>を上回る……？
-They would surpass someone like Vlov...?
+They surpass even Vlov...?
 }
 [sha:07e85ee9c5a56254ac58a91d891363c53a6c12b2]{
 -- Page 598, Offset 18075.
@@ -340,47 +346,56 @@ And there's over fifty of these monsters...?
 [sha:f6944476c84780f89d1f7c544dbe84273bba2db1]{
 -- Page 599, Offset 18076.
 -- 「ほら、やっぱり。
-"I knew it.
+"Aha, I knew it.
 }
 [sha:e3daea629ec69f24f54e0a0cff983d20b008909f]{
 -- Page 599, Offset 18077.
 -- 殺したくて血が騒いできた、殺人鬼さん？」
-You're getting excited about wanting to kill them, aren't you, Mr. Murderer?"
+// Keeping the sanguine reference
+Did the desire to kill whip your blood into a frenzy, Mr. Murderer? "
 }
 [sha:bf925940fee76dfbac28d879dd75697d5d48ae9f]{
 -- Page 599, Offset 18078.
 -- 「騒いでない。こういうのは怖じ気づいてるって言うんだぜ、吸血鬼さん」
-"I'm not excited. This is what we refer to as fear, Ms. Vampire."
+"Far from it. This is what we refer to as being petrified with fear, Ms. Vampire."
 }
 [sha:fb5defe4e1cb192bc34fafb119827210c9a035fc]{
 -- Page 600, Offset 18079.
 -- 人間の尺度で返答する。
+// TODO(ross): better fit?
 I respond from a human's standpoint.
 }
 [sha:ae8707c32ad9f86b7afdd67d1020c676464b7b94]{
 -- Page 600, Offset 18080.
 -- 協力するとは決めたものの、このあたりきちんと主張しておきたい。人間にできない事はできないのである。
-Although I decided that I would cooperate, I want to properly emphasize this fact. The fact that humans cannot do the impossible.
+I may have decided to help her out, but I want to make myself absolutely clear on this.
+ There are some things that humans simply cannot do.
 }
 [sha:cac1f3e52ee9c8b06161bb5f5e7e0a420570b1f6]{
 -- Page 601, Offset 18081.
 -- 「それで、いよいよ本題のⅨ階梯だけど。
-"And so, we're finally at the main topic that is Rank IX.
+"So we've finally reached the topic at hand, Rank IX.
 }
 [sha:cfcf9ec1b8832ee4392b051ee3871a0ddea31d7d]{
 -- Page 601, Offset 18082.
 -- この二十七祖ってヤツらが、死徒の頂点でいいんだよな？」
-We can say that these Twenty-Seven Ancestors are at the top of the Dead Apostles, right?"
+// Not sure I've seen ~でいい for clarification before? I guess it makes sense?
+These Twenty-Seven Ancestors represent the apex of the Dead Apostles, right?"
 }
 [sha:9a5a6992d57cb904fbf0bdd7018afc5d9a4007dd]{
 -- Page 602, Offset 18083.
 -- 「そうよ。非常食の立場から抜け出し、まったく違うモノとして独立を勝ち取った古い死徒たち。
-"Correct. They are ancient Dead Apostles that broke out from the position of eating for survival and won their independence as completely different beings.
+// 非常食の立場 doesn't appear to be an idiom, so inclined to translate it literally
+// here in that that the ancestors were once the spare blood for someone else (TA?)
+"Correct.
+ They are the ones who long ago broke free from their role as emergency rations
+ and gained independence as wholly different beings,
+ the ancient Dead Apostles.
 }
 [sha:4596583ad249ad622c2edead09bb4620e925ea4d]{
 -- Page 602, Offset 18084.
 -- 月から地上に落ちた真紅の染み。
-A crimson stain dropped from the moon.
+A crimson stain that dripped from the moon and fell upon the earth.
 }
 [sha:acc54a5b16b34a3e9a288a905ba133fe67f8d6fc]{
 -- Page 602, Offset 18085.
