@@ -182,7 +182,7 @@ Gather together all the slaves they've produced this way and you get a vampire '
 -- Page 588, Offset 18046.
 -- 自分以上の“子供”は作れない、というのであれば、確かに階梯はそこで止まるだろう。
 If you can't create any children more powerful than yourself,
- then that would imply that the hierarchy of vampires caps out there.
+ then that would imply that the hierarchy of vampires caps out here.
 }
 [offset:18047]{
 -- Page 588, Offset 18047.
@@ -400,73 +400,87 @@ A crimson stain that dripped from the moon and fell upon the earth.
 [sha:acc54a5b16b34a3e9a288a905ba133fe67f8d6fc]{
 -- Page 602, Offset 18085.
 -- 決して他と相容れない世界を持った猛毒たち。
-A deadly poison whose world is incompatible with others.
+// Spent some time googling 世界を持つ, it does seem like a used phrase but with various implications, e.g. being off in your own little world, similar to EN.
+// Interpreting here as them existing in a lifestyle / worldview that is utterly alien to that of humans.
+// 世界を持_った_ is a little weird tense-wise, are they no longer this way?
+// Possessive correlation reversed here for EN (they are of a world, they do not hold the world)
+// たち on 猛毒 used as basis for 'they', instead of being subjectless like the prev sentence.
+They are a deadly poison, belonging to a world that will forever be at odds with any other.
 }
 [sha:dcf6e82457b5c58cddd25398f8a33ec8dc31181d]{
 -- Page 602, Offset 18086.
 -- Ⅵ階梯の死徒を生み出し、アナタたち人間を“寿命”として摂取する長命者」
-A long living being that gives birth to Rank VI Dead Apostles and absorbs the life of humans like you."
+// 寿命として + 長命者 combined for flow
+Beings that give birth to Rank VI Dead Apostles,
+ and consume you humans to top up their unnaturally long lifespans."
 }
 [sha:78620b78b7350884cc58cb8c10439236285faa1a]{
 -- Page 603, Offset 18087.
 -- 「<現|い><在|ま>に至る吸血鬼社会、この構造を創ったのもコイツら。
-"They are also the ones that formed the structure of the modern-day vampire society.
+"They are also the ones who laid the foundations for vampire society as we know it today.
 }
 [sha:a74d887f3e7995f785762727b900971cc84a52c8]{
 -- Page 603, Offset 18088.
 -- 存在規模は個体差があるけど、
-There are individual differences between their scales of existence,
+They each vary in the extent of their Lifescale,
 }
 [sha:37b6576faaa0fdba9ec1394783ed454ffeac0cae]{
 -- Page 603, Offset 18089.
 -- 西暦以前から活動しているのが『古参』で、
-but those that were active before the Christian Era are the 'veterans',
+but those who were active before the Christian Era are the 'veterans',
 }
 [sha:0e3937ff9f890642e2e92019e05cee13eec3069f]{
 -- Page 603, Offset 18090.
 -- 西暦以後から活動を始めたのが『新参』ね」
-and those that began afterward are the 'novices'."
+and those who came after are the 'novices'."
 }
 [sha:de9a1fd98b47d4f6c77e164d156040d1ffc6e935]{
 -- Page 604, Offset 18091.
 -- 「たとえばヴローヴだけど、アイツはここ百年の間にⅥ階梯からⅨ階梯に……親である祖を殺して、新しい祖になった『新参』になるわ」
-"For example, although it's Vlov, he went from Rank VI to Rank IX in the span of a hundred years... He killed his master Ancestor and then became one of them as a 'novice'."
+"Going back to Vlov as an example,
+ over the span of the past hundred years he went from a Rank VI to Rank IX...
+ He killed his parent Ancestor,
+ and took their place as a new 'novice' Ancestor."
 }
 [sha:d8625ee29f01cab9d5bf202efdc4daa9fa87a5bc]{
 -- Page 605, Offset 18092.
 -- 吸血鬼の尺度で言うと、ヴローヴはつい最近祖になった死徒である、と。
-In other words, from a vampire's standpoint, Vlov was a Dead Apostle that only recently became an Ancestor.
+// The virgin vampiric timescale vs the chad geologic timescale
+Put in perspective on the vampiric timescale,
+ Vlov was a Dead Apostle that had only recently become an Ancestor.
 }
 [sha:c32d13e1d2ae514599603c7f8ef23f88801252b7]{
 -- Page 605, Offset 18093.
 -- だから表だって街に現れ、伝統も様式美も<弁|わきま>えず、あんな凶行を起こしたのだ、とアルクェイドは説明する。
-// dont know how to tl 様式美
-That's why he openly showed himself in the city and created such carnage without regard for tradition or aesthetics.
+// Wrote a whole essay here about 様式美 but overall yeah aesthetics probably a good fit
+// https://meaning-book.com/blog/20190517091143.html
+Arcueid explains to me that this is why he openly showed himself in the city,
+ and wrought such carnage with no regard for tradition or aesthetics.
 }
 [sha:4f3d9e39b06f57aad1d28ff619f9730f30efda5d]{
 -- Page 606, Offset 18094.
 -- そこはいい。吸血鬼たちのルールは俺には関係がない。
-I get that. The rules of vampires have nothing to do with me.
+That's great and all, but I'm not really concerned about the rules vampires are supposed to follow.
 }
 [sha:f1d6cdbcb1d59e6fcc3123671134a29d2025ebe6]{
 -- Page 606, Offset 18095.
 -- 気になるのはあの異様な能力だ。
-The thing that's on my mind is his strange ability.
+The thing that's actually piqued my curiosity is that strange ability of his.
 }
 [sha:5e286df60e7226de59d04e69ee30020a1b645f2d]{
 -- Page 606, Offset 18096.
 -- 存在するだけで世界を極寒に塗り替える呪い。
-A curse that paints the world with an intense cold through his existence alone.
+A curse that means his presence alone is enough to smother the world around him in a bitter chill.
 }
 [sha:1533bbd065daa5c3b5b7a88487c55991aaffd6f5]{
 -- Page 606, Offset 18097.
 -- その寒さに耐える為だけにまき散らされた炎。
-Those flames were spread just so he could bear that coldness.
+He spread those flames just so he could bear that cold.
 }
 [sha:e394f35e6b609be888851eec7680c8fd8e6d31c2]{
 -- Page 606, Offset 18098.
 -- これはもう、『人のカタチをしたもの』が持って許されるものではない。
-But that still doesn't excuse him just because he has some semblance of being human.
+That's not the sort of power that anything with a human form should be able to obtain.
 }
 [sha:90d3db1ed7413721fa5c9bf5ebd21fd97b572246]{
 -- Page 607, Offset 18099.
