@@ -1,27 +1,30 @@
 [sha:4b4057bc0a8f2a6f42ea1583b94ef75e0baadf35]{
 -- Page 1, Offset 19663.
 -- その頃、屋敷は大きな遊び場だった。
-In those days, the mansion was a big playground.
+In those days, the mansion was a giant playground.
 }
 [sha:5d57cc8e0d0dda0ac7d98899b142b37016eae93c]{
 -- Page 1, Offset 19664.
 -- 深い海のような森。
-A forest like a deep sea.
+The forest, a deep ocean.
 }
 [sha:f55a1c2c9a724a5fa09f696c927d1904ca96d08c]{
 -- Page 1, Offset 19665.
 -- 高い城のような家。
-A house like a tall castle.
+The house, a towering castle.
 }
 [sha:015fd6302852760ddebc1edc4b94730fc2d28036]{
 -- Page 1, Offset 19666. Mods: @n.
 -- 何日かかっても探険しきれない箱庭で、
-We played around in the miniature garden
+// Hard to find a reference for what exactly is implied by 箱庭, most image results are for literal shoebox diorama gardens.
+// I assume it refers more to like the enclosed side garden you get at 旅館?
+// Implication here being that even the little room-sized gardens are stonking massive?
+Even the miniature gardens would have taken an uncountable number of days to fully explore.
 }
 [sha:f04a315790bd997b16ddf48a0d74fc60ea42d801]{
 -- Page 1, Offset 19667.
 -- ボクたちは遊びまわった。
-that took days to explore.
+We revelled in it all.
 }
 [sha:1f302bd314cdf7f04d0d16389e124a1904292f3f]{
 -- Page 2, Offset 19668.
@@ -36,12 +39,15 @@ We didn't know anything about growing up,
 [sha:368ada945d0216fd5a3e9aa8a8cfc56c4f704689]{
 -- Page 2, Offset 19670. Mods: @n.
 -- 朝と夜はおなじように繰り返されるものなんだって、
-and the idea that our daily lives would continue to repeat as usual―――
+and the idea that our daily lives would continue to repeat as usual
 }
 [sha:f7116ca8dd32bed5efa098f1695141597a290fb6]{
 -- Page 2, Offset 19671.
 -- うたがいもしなかった。
-was something we never questioned.
+// This is supposed to be a separate line, but breaks flow pretty awkwardly.
+// Just glue it on the preceding line.
+%{force_glue}
+ was something we never questioned.
 }
 [sha:2424014b127b3a6d2d237cfcd5a984757570bc6c]{
 -- Page 2, Offset 19672.
@@ -71,17 +77,17 @@ Yeah, that's how things always were.
 [sha:4b4057bc0a8f2a6f42ea1583b94ef75e0baadf35]{
 -- Page 4, Offset 19677.
 -- その頃、屋敷は大きな遊び場だった。
-In those days, the mansion was a big playground.
+In those days, the mansion was a giant playground.
 }
 [sha:5d57cc8e0d0dda0ac7d98899b142b37016eae93c]{
 -- Page 4, Offset 19678.
 -- 深い海のような森。
-A forest like a deep sea.
+The forest, a deep ocean.
 }
 [sha:f55a1c2c9a724a5fa09f696c927d1904ca96d08c]{
 -- Page 4, Offset 19679.
 -- 高い城のような家。
-A house like a tall castle.
+The house, a towering castle.
 }
 [sha:2f2d6528a78fd7f7ecfb48d9d6cc4b86afcc17d0]{
 -- Page 4, Offset 19680. Mods: @n.
@@ -91,7 +97,7 @@ We played around in that closed off world
 [sha:f04a315790bd997b16ddf48a0d74fc60ea42d801]{
 -- Page 4, Offset 19681.
 -- ボクたちは遊びまわった。
-that took days to explore.
+We revelled in it all.
 }
 [sha:62571b111da920d0e86945aaec9aaa101a98fdc8]{
 -- Page 5, Offset 19682.
