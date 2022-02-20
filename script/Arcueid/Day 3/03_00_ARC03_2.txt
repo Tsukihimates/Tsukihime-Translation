@@ -11,6 +11,9 @@ About last night, is it like that here every night?"
 [offset:4048]{
 -- Page 10004, Offset 4048.
 -- 「―――はい？」
+// This page appears like it has 15 lines on it, but in-game there's actually a
+// wipe after this 'What'
+// lint-off:LintPageOverflow
 "―――What?"
 }
 [sha:2ca3ca68fb23eb1d6de60ac564ba2f9f34a50ec2]{
