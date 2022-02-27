@@ -1,12 +1,13 @@
 [sha:c44d53191b08a23e4c366f314bdbb043b5cc8e4c]{
 -- Page 10014, Offset 20244.
 -- 昼食をすませて教室に戻ると、有彦の姿があった。
-As I return to the classroom when lunchtime ended, I find Arihiko there.
+I finish my lunch and return to the classroom, where I find Arihiko.
 }
 [sha:ae4e296307341a32611114a7e0fb399756b60d30]{
 -- Page 10014, Offset 20245.
 -- 午前中はいなかったので、単に昼食を食べにきたと見える。
-Since he wasn't here this morning, he must have simply come to school to eat lunch.
+There was no sign of him all morning,
+ so it looks like he came to school simply to eat lunch.
 }
 [sha:fc5ce1e11261bb090531a963f13714ea861e17fa]{
 -- Page 232, Offset 20246.
@@ -21,18 +22,21 @@ Since he wasn't here this morning, he must have simply come to school to eat lun
 [sha:910528a1a666a6663f449ab9f022423ca0c5be21]{
 -- Page 232, Offset 20248.
 -- 社長出勤も甚だしい。
-// ???
-Even the presence of the company president feels extreme.
+// 社長出勤 implication seems to be that you're so high ranking you just show
+// up when you feel like it and expect people to just wait for you
+// https://www.weblio.jp/content/%E7%A4%BE%E9%95%B7%E5%87%BA%E5%8B%A4
+This guy just only turns up if and when it suits him. Unbelievable.
 }
 [sha:d47c203e2fab742db90b67d958fbd72e74b89b6f]{
 -- Page 232, Offset 20249.
 -- もしアルクェイドの事が学校中に知れ渡っていたら、間違いなくこいつと一悶着あっただろう。
-If word of Arcueid had spread throughout the entire school, there would definitely have been a dispute between us.
+If word of Arcueid had spread throughout the entire school,
+ it definitely would have spelled trouble between the two of us.
 }
 [sha:52fa6d0e299f797725d5e7e704ff16bee8116254]{
 -- Page 232, Offset 20250.
 -- アルクェイドがおとなしく帰ってくれて、本当に良かった。
-I'm so glad that Arcueid decided to go home without making a sound.
+I'm so glad that she decided to go home without making a fuss.
 }
 [sha:e8bead5d452864590205f2bafb53b485f08715ca]{
 -- Page 233, Offset 20251.
@@ -47,27 +51,32 @@ Could you stop looking at me with those eyes that say 'It's sad, but those CDs w
 [sha:cdd6deb31b45a0a08d772416180356fe09f41488]{
 -- Page 234, Offset 20253.
 -- 「そうか、悪かった。ちょっと一悶着あって疲れててさ、つい本音を隠しきれなかった。次から気をつけるよ」
-"Is that how it looks? My bad. I was tired from a minor dispute that I just had so I wasn't able to hide my true feelings. I'll be more careful next time."
+"Is that how it looks? My bad.
+ I'm a little worn out from a minor spat I had earlier, so I wasn't able to hide my true feelings.
+ I'll be more careful next time."
 }
 [sha:61381bf9ee51c2be40a40ca9b918738f63053daa]{
 -- Page 234, Offset 20254.
 -- 「マジっスか。でも、隠すべきは今の発言の方ですよ？」
-"Seriously? But isn't what you've just said something you should be hiding?"
+"Seriously?
+ But wait, didn't you just say something else you should have kept to yourself?"
 }
 [sha:dce01b2bc56b67fc56107e1cd4bf6615ed373be6]{
 -- Page 235, Offset 20255.
 -- などと言いながら、有彦は自分の席に向かうどころか、そわそわと教室後方の出入り口に気を向けている。
-As Arihiko continues his ramblings, instead of going back to his seat, he restlessly turns his attention to the entrance at the back of the classroom.
+Arihiko keeps babbling on, but he doesn't return to his seat.
+ Instead, he's restlessly eyeing up the exit at the back of the classroom.
 }
 [sha:3795d31494f1c1854c8456527314fb6fad3bc843]{
 -- Page 235, Offset 20256.
 -- 昼飯を済ませたので、本気でトンズラするつもりらしい。
-It seems that he's seriously considering fleeing since lunchtime is already over.
+Now that he's had his lunch, it seems he's seriously planning on sneaking back out again.
 }
 [sha:79b2597bfab96c241921aac66a0dbc2c19df4996]{
 -- Page 236, Offset 20257. Mods: @n.
 -- 「んじゃ、今日も一日ごくろうさん。オレはネット越しに、たくさんの仲間とちょっと世界を救ってくるわ
-"With that, great work today as usual. I'm gonna go and save the world with a bunch of buddies online.
+"Welp, great work today as usual.
+ I'm gonna go and save the world with a bunch of buddies online.
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 236, Offset 20258. Glued.
@@ -77,12 +86,12 @@ It seems that he's seriously considering fleeing since lunchtime is already over
 [sha:255d19051cbe9d6ed4a83510e02d8b9e36a17ea0]{
 -- Page 236, Offset 20259.
 -- いそいそと教室を後にする有彦。
-Arihiko cheerfully exits the classroom.
+Arihiko cheerfully goes to leave the classroom.
 }
-[sha:2b4ea5f170dddaa2b902679c31e3853326cf4d09]{
+[offset:20260]{
 -- Page 237, Offset 20260.
 -- その背中に、
-And while her back was turned, I spoke up,
+Addressing his retreating figure―――
 }
 [sha:c01df2beb3172fd7aab8df6a2f9b331679790571]{
 -- Page 237, Offset 20261.
@@ -92,42 +101,55 @@ And while her back was turned, I spoke up,
 [sha:63f7d9149af669fbb937f931567a31457242b19b]{
 -- Page 237, Offset 20262.
 -- なんとなく、そんな質問を投げかけた。
-I throw out that question haphazardly.
+I lob him a vague question.
 }
 [sha:af0066be85716c3392bf8a6055affe8919bc2db5]{
 -- Page 238, Offset 20263. Mods: @k, @e.
 -- 「なんだい突然に。
-"Where did that come from all of a sudden?
+"What are you so curious about all of a sudden?
 }
 [sha:88cfc862302769db5dfcde1eb25dd404e0307d0c]{
 -- Page 238, Offset 20264. Glued. Mods: @x.
 -- 北口デパート並みにヤバめなスポットなんてそうそうねえぞ。……しいていうならアレか。<櫛塚|くしづか>の廃病院じゃねえか？　二年前まで<珍走団|ヤンキーども>の集会場になってたものの、今じゃ誰もよりつかなくなったっていう」
-There's hardly any other spot as bad as the northern department store... Well there is one if you ask me. It has to be the abandoned hospoital in Kushizuka right? It used to be where all those yankees gathered until two years ago, but nowadays it's become completely deserted."
+// Leading space for glue
+ There aren't really any spots that are as dodgy as the department store by the north gate...
+ If you pressed me on it, I guess there's one?
+ The abandoned hospital in Kushizuka fits the bill, right?
+ Some <biker gang|y a n k e e s   > used to be based out of there up until two years ago,
+ but these days it's become the sort of place nobody wants to go near."
 }
 [sha:2a65846a6034d4bb0c3f67a131a569b9829de100]{
 -- Page 239, Offset 20265.
 -- 「櫛塚って二駅となりのか？　でも、廃墟が物騒なのは当然というか、普通、誰もよりつかないだろ」
-"Kushizuka is the one two stations away, right? But it's natural, or rather obvious that an abandoned building is dangerous, so of course no one would use it."
+"Kushizuka's the town two stops away, right?
+ Everyone knows abandoned buildings are dangerous though,
+ so it makes sense that nobody would go near it."
 }
 [sha:7c8b14270671ee09865e33b30cad2f72538294f6]{
 -- Page 240, Offset 20266.
 -- 「いや、だからさ。誰も居なくなったんだよ。ある日を境に、ぱったりと、そのヤンキーどもの姿がな。三十人近い行方不明者ってコトで、今でも捜索願が出されてる。
-"No, like I said, it 'became' deserted. Like those yankees, one day, out of the blue. Around thirty of them went missing, and even now the police are still searching for them.
+"No, you're missing the point.
+ All the people that were there just disappeared.
+ Something happened one day and bam, those yankees were never seen again.
+ Nearly thirty of them went missing, and the police are still searching for them to this day.
 }
 [sha:d62f7e74d7e5564e2c5acf61b6589850c33ae39a]{
 -- Page 240, Offset 20267.
 -- ま、こっちは怪談レベルの話で、北口みてぇな暴力沙汰じゃねえけどな。今じゃ浮浪者も住み着かない、行政の不良債権みてえな場所だよ」
-Well that's pretty much a ghost story at this point, there isn't any violence like that of the north gate. Nowadays it's a place that looks like the result of a bad loan from the government where even vagrants won't settle down."
+Though, that place is more like the setting for a ghost story than the sort of violence that goes down by the north gate.
+ These days the place looks like testament to failed government investment, not even vagrants want to settle down there."
 }
 [sha:3bbffedaaf44eec2be15898b42eec8ddfbcfaa73]{
 -- Page 241, Offset 20268.
 -- 来月に迫った文化祭の出し物を決めるホームルームは、予想に反して難航した。
-The homeroom meeting to decide on the program for the upcoming school festival next month was unexpectedly difficult.
+The homeroom meeting to decide on what the class would present for the upcoming school festival next month was unexpectedly contentious.
 }
 [sha:72fb5799810296b10c72aa06d7f8d76d37c068a3]{
 -- Page 241, Offset 20269.
 -- 様々な意見が飛び交い、男女の意見が対立した結果、決定は来週に延期になった。
-Various opinions flew around, and as a result of the opposing views between the men and women, the decision was postponed until next week.
+Various opinions were thrown around,
+ but the opposing views of the girls and boys proved irreconcilable,
+ and the decision was postponed until next week.
 }
 [sha:93d3c2b759d1bb10c30413ed0040692e0be610ee]{
 -- Page 242, Offset 20270.
@@ -152,15 +174,15 @@ There's no point in aimlessly wasting my time in the classroom.
 [sha:280da083b09dcf7c0c7d04b66684a73cd1a7adee]{
 -- Page 243, Offset 20274. Mods: @k, @e.
 -- この後は、
-After this, I should...
+Now that school's over, I―――
 }
 [sha:586191f6dc6de3fe30b4d08aaa45749df97c3775]{
 -- Page 245, Offset 42652. Choice.
 -- ……廃病院とやらに行ってみようか？
- ...check out the abandoned hospital.
+ could go check out the abandoned hospital?
 }
 [sha:a9d6dcaa67ef23a22b32e60b40b0cc9c39097c61]{
 -- Page 245, Offset 42653. Choice.
 -- このまま、夜に備えて屋敷に戻ろう。
- Let's just go back to the mansion and prepare for the night.
+ should go straight home and prepare for tonight.
 }
