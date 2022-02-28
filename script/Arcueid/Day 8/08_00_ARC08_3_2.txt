@@ -6,32 +6,34 @@ Suddenly, I feel calm.
 [sha:338302a9c940928d62eae3f862f5c4a828ae4497]{
 -- Page 10012, Offset 20150.
 -- 出来る事と出来ない事を、俺はきっちり分けて考えられる人間である。
-I am a human being who can separate the things I can do and the things I cannot do with absolute precision.
+I'm a human being. I have the power to clearly differentiate between the things I can do, and the things I cannot do.
 }
 [sha:e6f38a3b70123a6b6c6ee7b438d8aacff5abc5bf]{
 -- Page 196, Offset 20151.
 -- 運命という荒波を前にした時、ちっぽけな人間ひとりに何ができるというのか。
-What can one small man do against the raging waves known as destiny?
+What can one inconsequential man hope to achieve when confronted by the raging wave of fate?
 }
 [sha:2301edd5a146d27a81340460c7c1e14e6346c599]{
 -- Page 196, Offset 20152.
 -- そう、<祈るしかない|もうなるようになーれ>。
-That's right. I have no other choice but to pray. Whatever happens, happens.
+That's right. All I can do is pray for the best. Whatever happens, happens.
 }
 [sha:67abfc2c281cbce8f929521f450acc5f31d9195b]{
 -- Page 197, Offset 20153.
 -- 「そういえば、俺は現社大好き人間だった」
-"That reminds me, I'm a big fan when it comes to Modern Society."
+"Come to think of it, I love the topic of Modern Society."
 }
 [sha:028665661a7badac6ff3c7d645a96529a120f546]{
 -- Page 197, Offset 20154.
 -- 脇目もふらず授業に集中しよう。
-I'll focus on the class and avoid looking to my side.
+// Subject of 脇目 reified
+I'll concentrate on the lecture, and pay no mind to whatever is going on outside the window next to me.
 }
 [sha:938156b7ffa07f85e30a8f6300c835141c791e39]{
 -- Page 197, Offset 20155.
 -- ちょうど2000年代に入ってからの地球環境問題について熱く語られているところだし。
-After all, we're right at the part where we passionately discuss global environmental issues of the 21st century.
+// Seems like the teacher is the one 語らう (reciting), rather than a class discussion.
+Ah, it looks like the teacher has really hit their stride and is passionately describing the environmental issues that began around the turn of the 21st century.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 198, Offset 20156.
@@ -41,22 +43,31 @@ After all, we're right at the part where we passionately discuss global environm
 [sha:5b73bd009ea5ff5158cdfa2098e21f5dd3c5688b]{
 -- Page 198, Offset 20157. Mods: @n.
 -- なるほど、地球の資源は今の人類では使い切れない量ではあるが、それと環境破壊による地表の変化は別の問題だと。人類はどれほどヤンチャをしてもこの惑星を破壊できない。しかし自分のヤンチャのせいで気温、生態系は変化していき、人類が生存するためのハードルが高まっていく。
-I see, Earth's resources are too much for the current mankind to deplete, but that and the changes in the Earth's surface due to environmental destruction are separate issues. We cannot destroy the planet no matter how reckless we are. However, the atmosphere and ecosystem changed due to our own negligence, making the hurdle of our existence even higher.
+// This pair of lines pushed to new page in allscr, no need to account for previous ellipsis when cramming
+I see, the earth has enough resources that mankind isn't in danger of running out,
+ but resource starvation and the damage humans do to the environment are separate issues.
+ No matter how reckless we are, we won't destroy the planet itself.
+ That said, as we continue to act irresponsibly, fuelling global warming and destroying habitats,
+ we make it ever more difficult for humanity to continue to survive.
 }
 [sha:7bccc27470ba6aeaada5b28493cdf3086c6257d3]{
 -- Page 198, Offset 20158. Glued.
 -- 自分の部屋を散らかしっぱなしにしても部屋に住めなくなるだけで家そのものは変わらないし、罰を受けるのは部屋から追い出されて居場所がなくなった俺だけ、という事だ。うん、当たり前の話である。
-Even if I leave my own room in a mess, all it means is I won't be able to live in it, and the house itself won't change, so only I, who is kicked out of the room without a place to stay is punished. Yup, that'd be natural.
+// Leading space for glue
+ If I were to make a mess of my room, to the point where I can't even live in it,
+ the only one to suffer for it would be me. The house itself would be fine.
+ Yup, that all checks out.
 }
-[sha:a2799ad269f186bf3d3294e4fbd75795c39685d4]{
+[offset:20159]{
 -- Page 199, Offset 20159.
 -- ところで。
-By the way.
+Unrelated, but...
 }
 [sha:f4b90a9cd91f0e10337dc759f6886daf662556c9]{
 -- Page 199, Offset 20160.
 -- 全力で授業に集中しているというのに、さっきからガンガンに増していく悪寒はなんなのだろう？
-I've been concentrating on the class with all my might, but what's with these chills that've been building up since a while ago?
+Even though I've been devoting all my attention to the lesson,
+ I have to wonder why I've been feeling this rapidly building sense of foreboding?
 }
 [sha:152a587474eb1bda7ae7e0785a09812e80ee2c4e]{
 -- Page 200, Offset 20161.
@@ -66,23 +77,29 @@ I've been concentrating on the class with all my might, but what's with these ch
 [sha:340aa9716a1ffdf033769b2765918da8c52f3dea]{
 -- Page 200, Offset 20162.
 -- 同じような部屋ばっかりで手こずっちゃった！」
-All the rooms looked the same so I was in a bit of a pickle!"
+All these rooms look the same, I really got turned around!"
 }
 [sha:070ba16694abf8d1f5dfbaa89a0575dcbc74780b]{
 -- Page 201, Offset 20163.
 -- あはは、と照れ笑い……何に照れ笑うというのか……しつつ、不審者はツカツカと教壇まで移動する。
-Laughing out loud from embarrassment, the trespasser walks briskly up to the podium... I'm not sure what she's so embarrassed about...
+With an embarrassed chuckle―――
+who knows what's she so embarrassed about―――
+this suspicious character briskly strides over to the teacher's podium.
 }
 [sha:a5675ce455467fb0a0450f38e2433feaed1b7bce]{
 -- Page 202, Offset 20164.
 -- 「な、なんだねキミは。今は授業中、」
-"W-What do you think you're doing? We're in the middle of class-"
+"W-What do you think you're doing? We're in the middle of class―――"
 }
 [sha:cb1774ea8b33ac981ad3cdcbab78e75005d38928]{
 -- Page 202, Offset 20165.
 -- 現代社会の間宮教諭は戸惑いつつも不審者を叱りつける。さすがだ。だてに我が校最年長じゃない。教師の鑑である。
 // 間宮卓司?????
-Mr. Mamiya of Modern Society class scolds the trespasser even through his bewilderment. As one would expect. He isn't just the oldest teacher in our school. He is a role model for teachers all around.
+Despite being taken completely by surprise, the Modern Society instructor,
+ Mr. Mamiya, pulls himself together enough to issue a rebuke to the intruder.
+ An impressive display.
+ He's not the most senior instructor at our school for nothing.
+ What a role model for teachers everywhere.
 }
 [sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
 -- Page 202, Offset 20166.
@@ -102,7 +119,9 @@ Mr. Mamiya readily hands the textbook over to the trespasser and simply leaves t
 [sha:4521468476b5716d326ea6eb4be43c119e4a5d5e]{
 -- Page 204, Offset 20169.
 -- ざわめき立つ教室。突然の事に驚きながらも高速で携帯端末を操作し、チャット会話を始める頼れる<生徒|なかま>たち。
-The class is in a state of chaos. Even as they are surprised by the sudden turn of events, the students operate their mobile phones with full speed and begin chatting through the internet that they rely on.
+The class is in a state of chaos.
+ But even if they're still processing whatever surprising events have just taken place,
+ you can rely on students to whip out their phones and start texting about it all the same.
 }
 [sha:c436c651f76e7421b3595f8d984b0ffb95ddebca]{
 -- Page 205, Offset 20170.
@@ -117,7 +136,7 @@ The class is in a state of chaos. Even as they are surprised by the sudden turn 
 [sha:17922b454833fdfeaf57505e34e38811986c63a6]{
 -- Page 205, Offset 20172.
 -- 『っていうか誰か知り合い？いい匂いする』
-'Does anyone know her? She smells pretty nice.'
+'Forget that, anyone know her? She smells nice.'
 }
 [sha:3174849e6055af3c7a26fa936c55dfc7ff450b35]{
 -- Page 205, Offset 20173.
@@ -132,7 +151,7 @@ The class is in a state of chaos. Even as they are surprised by the sudden turn 
 [sha:7cfd0f415b60522d0e59ca7aea17f682e0ca06e7]{
 -- Page 205, Offset 20175.
 -- 『ノエル先生といい確変起きすぎこの学校』
-'This school's getting too wild with her and Noel-sensei.'
+'This school lucked out to get both her and Noel-sensei.'
 }
 [sha:505c47986deac8e7736e5d2d5bb1c9fa58b3be61]{
 -- Page 205, Offset 20176.
@@ -142,7 +161,7 @@ The class is in a state of chaos. Even as they are surprised by the sudden turn 
 [sha:0580991886440af4b2a1bf313691c27d0fb78d95]{
 -- Page 205, Offset 20177.
 -- 『授業中にくるのはテロリストだけなんだよなぁ』
-'For her to come during the middle of class, this must be the work of a terrorist.'
+'Only terrorists show up in the middle of class you know.'
 }
 [sha:5bc0c5fcaa1714a08fc82c43df1cb863b590cd03]{
 -- Page 206, Offset 20178.
@@ -152,67 +171,73 @@ The class is in a state of chaos. Even as they are surprised by the sudden turn 
 [sha:b7f8a49464249af9948083982cec845b1eed7dc5]{
 -- Page 206, Offset 20179.
 -- どこまで危険意識が薄いのか。
-You can't possibly be that impervious to danger.
+Just how oblivious can people be to danger?
 }
 [sha:fcb4943ae70973bdd448b69fe3e5d5ce40ca05c7]{
 -- Page 207, Offset 20180.
 -- 「はじめまして、特別講師のアル美です！
-"Nice to meet you all. Name's Arubi, and I will be your special guest lecturer!
+"Nice to meet you all. Name's Arcutie, and I will be your special guest lecturer!
 }
 [sha:f2e35b22c4ffdfdaa7ba034629c24a7cdbc83e32]{
 -- Page 207, Offset 20181.
 -- みんな、今日はわたしのためにありがとーう！」
-I appreciate all the warm welcome for me today!"
+I appreciate the warm welcome you've all given me today!"
 }
 [sha:ea64e2075886707e6b316b7d4e703608760281a1]{
 -- Page 207, Offset 20182.
 -- いや、これ危険意識とかそういう問題じゃねえな？
-No, maybe this isn't such a dangerous situation after all.
+No, this isn't really a problem of being oblivious, is it?
 }
 [sha:31c55b9901be5a57fb795a1f43bccfb3338f7e44]{
 -- Page 208, Offset 20183.
 -- 椅子を体一つ分だけ後ろにズラし、
-I shift my chair back by one body length,
+// 'One body length' pretty awkward
+I scoot my chair back to give myself some room,
 }
 [sha:8576130d55201ef537a8bfaa110b4ee465c12697]{
 -- Page 208, Offset 20184.
 -- 床に倒れるように椅子から滑り落ち、
-pretend that I'm slipping off the chair and onto the floor,
+// 床に倒れる
+allow myself to gradually slide off it until I'm crouched on the floor,
 }
 [sha:11f0382b5a93f13da776bd09b7047a48a7893584]{
 -- Page 208, Offset 20185.
 -- そのまま教室後ろの出口に向かって移動する。
-and make my way toward the back entrance of the classroom.
+and from there make my way toward the rear exit of the classroom.
 }
 [sha:2a154e27662cb4c6a8878b547b5ee254861c648a]{
 -- Page 209, Offset 20186.
 -- 教室のみんなは教壇に立つ特別講師・アル美に夢中で、俺の脱走に気がついていない。
-Everyone else is concentrated on the special guest Arubi standing on the podium, so no one has noticed my attempt to escape.
+Everyone else is thoroughly entranced by guest lecturer Arcutie up on the podium,
+ so my escape goes entirely unnoticed.
 }
 [sha:7aa7291cca03763d4962449d2fc658300cced4b4]{
 -- Page 209, Offset 20187.
 -- 間違いない。間宮教諭といいこの状況といい、魔眼とやらが悪用されている。
-There's no doubt about it. She's abusing her Mystic Eyes or something, whether it was with Mr. Mamiya or with this current situation.
+It's pretty clear what's going on.
+ She's been abusing the power of either her Mystic Eyes or something similar,
+ first to get rid of Mr. Mamiya and now for whatever it is she's currently up to.
 }
 [sha:1a2e3435572b9db8c7b7d2c6e1889a8163ad9dc1]{
 -- Page 210, Offset 20188.
 -- 「えーと、黒板に色々書けばいいのよね？
-"Umm, it's okay if I just write a bunch of things on the blackboard right?
+"Hmm, I should probably write some stuff on the blackboard shouldn't I?
 }
 [sha:29f06e3116a298e9e1553fdc9e61429cb580f744]{
 -- Page 210, Offset 20189.
 -- 現代社会……？　あ、社会勉強か！　じゃあせっかくだし、吸血鬼講座・特別編をはじめ―――」
-Modern Society...? Ah, so this is the study of societies! Well since I'm already here, allow me to begin the special course on vampire―――"
+Modern Society...? Ah, so this is a social studies class!
+ Well then, this is the perfect opportunity for a special lecture on vampire―――"
 }
 [sha:0e2789257d68ff5e8e2d1712e2463cca3e7aa501]{
 -- Page 211, Offset 20190.
 -- え、ちょっと待って、それ超聞きたい。
-Wait hold on, I really want to listen to this.
+Eh, hold on, that actually sounds super interesting.
 }
 [sha:58d393b36f1d0185f541aad25bd2fbf6945c9f78]{
 -- Page 211, Offset 20191.
 -- いやしかしそれこそ敵の思うツボだ。
-No, but this is what the enemy wants.
+No―――that would just be playing into the enemy's hands.
 }
 [sha:2b7f1f631057707dc37db83228842145137a6ff8]{
 -- Page 211, Offset 20192.
@@ -232,17 +257,17 @@ He ran off! That little...!"
 [sha:e6e4820e3761ac78eda18e012641e6bc242f5720]{
 -- Page 211, Offset 20195. Mods: @n.
 -- 俺は努めて冷静に、いま行くべき場所に走り出した。
-I try my best to remain calm and run toward the place that I need to go.
+Doing my best to remain calm, I rush toward the best place to go at a time like this.
 }
-[sha:4ff30fb86879f71a57d8f324eaa7df7b18142558]{
+[offset:20196]{
 -- Page 212, Offset 20196.
 -- 人気のない体育館裏に移動する。
-I take us around the back of the gymnasium, which is generally deserted.
+I head around the back of the gymnasium, which doesn't get a lot of foot traffic.
 }
 [sha:cc480e8629e441c9b3aec79cdcd1fd8a9a01a518]{
 -- Page 212, Offset 20197.
 -- ここなら他の生徒の目にとまる事もない。
-If we talk here, then we won't grab the attention of the other students.
+If we're in a place like this, we're a lot less likely to get spotted by any of the other students.
 }
 [sha:a2c845c8d73ba3d93ea019e05872fa0b2c60bd39]{
 -- Page 212, Offset 20198.
@@ -267,7 +292,8 @@ Wouldn't it be better to show some guts for once and accept whatever comes at yo
 [sha:f062ae3cb195cff3fa3ef6d746613286b65cc39a]{
 -- Page 214, Offset 20202.
 -- この通り、餌に釣られて破壊者が追いかけてくれば、窮地は脱したと言っていいだろう。
-As you can see, I can get out of this predicament if I lure the destroyer with my bait and make her chase me.
+If I can act as bait and lure this destructive force into chasing after me,
+ then that neatly resolves at least one of my problems.
 }
 [sha:8851a8901db452b0d97fa5c8a2a599f1acc382ed]{
 -- Page 215, Offset 20203.
@@ -277,12 +303,12 @@ As you can see, I can get out of this predicament if I lure the destroyer with m
 [sha:d50e5380d003915ee8a089392c60b3d274f3b483]{
 -- Page 215, Offset 20204.
 -- ピンチの種類にもよるけど、そこは黙っている。
-Of course there are exceptions to that rule, but let's not say that out loud.
+Of course there are exceptions to that rule, but no need to mention that.
 }
 [sha:867b407e301aa0eaca8a227697a46e37398e1553]{
 -- Page 216, Offset 20205.
 -- 「そんな事より！
-"But besides that!
+"But, more importantly!
 }
 [sha:61bcf4bd2ceca565031bafa0c7acde981787669d]{
 -- Page 216, Offset 20206.
@@ -302,7 +328,7 @@ You did say that you would try not to stand out, didn't you?"
 [sha:2cb1188827d51393119235e365d882a0644de75b]{
 -- Page 217, Offset 20209.
 -- 「なのになんださっきの。
-"And yet what the hell was that about?
+"So then what the hell was that about?
 }
 [sha:6bb35cdd2c5a9aa1473fd49b96d8073ce6bc9b04]{
 -- Page 217, Offset 20210.
@@ -312,7 +338,7 @@ To think that you would appear in public so brazenly, are you even taking this w
 [sha:d49d3c369465823eef95c15a61e8f66ccab5ff59]{
 -- Page 218, Offset 20211.
 -- 「なによ、真面目に決まってるでしょ、志貴のバカ！
-"What the hell, of course I'm taking this seriously! Shiki you dummy!
+"What the hell, of course I'm taking this seriously, you dummy!
 }
 [sha:98b6e8806d48756fbb63315c9e13810651b47939]{
 -- Page 218, Offset 20212.
@@ -327,7 +353,11 @@ Besides, I even made sure to put on a disguise! I didn't stand out at aaaall!"
 [sha:49857ba111dac31daa8e6e1ab154177597762fbd]{
 -- Page 219, Offset 20214.
 -- 真に恐ろしいモンスターなのか？
-Could it be that she's a terrifying monster indeed?
+// Guessing this is read as
+// 'Is this dumbass really a terrifying monster'
+// rather than
+// 'Could it be that she's actually a terrifying monster after all' ?
+Am I really supposed to believe this woman is a terrifying monster?
 }
 [sha:9c874d9f3cd28cde64beb693fab31879bd737f9c]{
 -- Page 220, Offset 20215.
@@ -337,17 +367,20 @@ Could it be that she's a terrifying monster indeed?
 [sha:96cda6b640e2d69e15a0e8a9b011cb0d6d264198]{
 -- Page 220, Offset 20216.
 -- 志貴の気持ちが分かるかなって、昨日のうちに勉強しておいたの！
-I was wondering if I understood your feelings, so yesterday I did some homework!
+// Pretty sure 気持 as feelings here isn't what's intended
+I wasn't sure if I was on the same page as you, so I did some homework yesterday!
 }
 [sha:f082a62e68748a03d277f20d1cf6fbb64d02fc84]{
 -- Page 220, Offset 20217.
 -- 学校といえば教師、教師といえば眼鏡なんでしょう？
-When it comes to school, it's all about teachers, and when it comes to teachers, it's all about glasses right?
+When you think school you think teachers,
+ and when you think teachers you think glasses, right?
 }
 [sha:a2737ed2b4e4e72d19f081c73be33e5b0e6691aa]{
 -- Page 220, Offset 20218.
 -- なんでかけるのかぜんっぜん分からないけど、どう、似合う？」
-I haven't got a slightest clue on why you people wear them, but it looks good right?"
+I haven't got the slightest clue why you people wear them,
+ but what do you think? Do they suit me?"
 }
 [sha:c854904082ed55d067b1ff6dd9008219192899d6]{
 -- Page 221, Offset 20219.
@@ -357,12 +390,17 @@ I haven't got a slightest clue on why you people wear them, but it looks good ri
 [sha:f93ca13f4539a09026a81a002ae42d41bd0409eb]{
 -- Page 221, Offset 20220.
 -- 心の底から弾むような声で、アル美先生は俺に眼鏡を見せつけてくる。
-In a voice that seems to have sprung up from the bottom of her heart, Arubi-sensei displays her glasses to me.
+// "Speaking from the heart" sounds a bit serious in EN, interpreted more as
+// a naïve, unencumbered exuberance
+Chattering away in a voice full of naive exuberance,
+ Arcueid shows off her glasses to me.
 }
 [sha:6c3da51b47a6ff56b6289450b7b01e77cae155ea]{
 -- Page 222, Offset 20221.
 -- ……クソ、なんだこの吸血鬼……ずるいぞ……さっきまで叱りつける気満々だったのに、そんな顔をされたら気持ちが萎えてしまうというか……。
-...Shit. What's up with this vampire... That's not fair... I was completely ready to scold her just a moment ago, but when she shows me a face like that, all of my feelings just disappear...
+...Shit. What's up with this vampire... That's not fair...
+ I was totally ready to give her a piece of my mind up until a moment ago,
+ but how am I supposed to stay made at her when she looks at me like that...
 }
 [sha:e29cd10b21c1ee5420a7a1d51054a7bf11969ac1]{
 -- Page 223, Offset 20222.
@@ -372,7 +410,7 @@ In a voice that seems to have sprung up from the bottom of her heart, Arubi-sens
 [sha:7b1d9856353028449fcd7f75956703088056c10b]{
 -- Page 223, Offset 20223.
 -- 話があるならちゃんと聞くから、もうアル美先生は禁止、眼鏡も没収します！」
-If there's something you want to talk about then I'll listen, but no more Arubi-sensei, and no more of those glasses!"
+If there's something you want to talk about then I'll listen, but no more Arcutie-sensei, and no more of those glasses!"
 }
 [sha:be370f298b77d470942d9986d4445ba2231c6f94]{
 -- Page 224, Offset 20224.
@@ -382,32 +420,35 @@ If there's something you want to talk about then I'll listen, but no more Arubi-
 [sha:19a5c4a2036a3ae5070db334e53baa804c8cce0b]{
 -- Page 224, Offset 20225.
 -- アルクェイドから危険なブツを取り上げる。
-I confiscate the deadly goods from Arcueid.
+I confiscate the hazardous goods from Arcueid.
 }
 [sha:2641d3e9fa4642155496e53fe50f26bab5c62aed]{
 -- Page 224, Offset 20226.
 -- 眼鏡属性までつけられたらもう太刀打ちできない。
-If she had the added bonus of those glasses, then I wouldn't even be able to compete with her.
+When she has the glasses look going for her, I don't even stand a chance.
 }
 [sha:fba21a5c0eed5593b32e027e8d86da3812eee847]{
 -- Page 224, Offset 20227.
 -- これは禁じ手として、二度と使わせてはならない。
-That is a forbidden move and must never be allowed to be used again.
+Fighting dirty like that has to be against the rules,
+ I can't let her use them against me again.
 }
 [sha:5af5987ee09f01992954a218a129458bf0ec1ae8]{
 -- Page 225, Offset 20228.
 -- 「……せっかく作ったのに、志貴に取り上げられた」
-"...I went through all that trouble to create that, and now you took it away."
+"...I went through all that trouble to create those, and now you've taken them away."
 }
 [sha:b2a38e54439f860d4270081633605ad982998387]{
 -- Page 225, Offset 20229.
 -- 「俺が悪いみたいに言うな。学校じゃ危険物は没収されるものなの」
-"Don't say it like I'm the bad guy here. It's normal to confiscate dangerous goods in school."
+"Don't say it like I'm the bad guy here.
+ If you bring dangerous goods like this to a school,
+ of course they'll get confiscated."
 }
 [sha:ece78c23409e2a5356398a623de077261ba7280a]{
 -- Page 225, Offset 20230.
 -- 「……似合ってなかった……？」
-"...Did it not look good at all...?"
+"...Did I not look good in them after all...?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 226, Offset 20231.
@@ -417,7 +458,7 @@ That is a forbidden move and must never be allowed to be used again.
 [sha:2c6b5cba5b3ae2a1cc14eac9e811666e71413ebf]{
 -- Page 226, Offset 20232.
 -- つい、アルクェイドらしからぬ弱々しさに息を呑んでしまった。
-I couldn't help but gasp at the weak side that was uncharacteristic of Arcueid.
+Seeing this uncharacteristically feminine side of Arcueid was enough to take my breath away.
 }
 [sha:8716a6f4ec774b9711b3bd8a49e5906152385aea]{
 -- Page 227, Offset 20233.
@@ -427,5 +468,7 @@ I couldn't help but gasp at the weak side that was uncharacteristic of Arcueid.
 [sha:514299911768efc0106fcd1a38a76bd28bac691a]{
 -- Page 227, Offset 20234.
 -- 昼間だから元気がないのか、そんなアルクェイドは新鮮だから気になるのか、そもそも俺は、コイツが何をしようと結局のところ―――
-I don't know if she's not feeling well because it's the middle of the day, or if I'm becoming interested from seeing a new side of her, but right now I need to figure out what to do with Arcueid―――
+Maybe she's just not feeling well since it's the middle of the day,
+ or maybe this is a new and intriguing side of Arcueid I've never seen before...
+ Either way, right now I need to work out what to do with her―――
 }
