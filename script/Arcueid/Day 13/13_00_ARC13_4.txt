@@ -66,6 +66,7 @@ It's fine as long as I have my right hand to carry the knife.
 [sha:019293f1da1bfa4a70bb72e41260eb9ed2934751]{
 -- Page 305, Offset 32512.
 -- 廊下を抜け、階段を駆け上がる。
+// lint-off:LintPageOverflow
 I exit the hallway and run up the stairs.
 }
 [sha:31dfc199fd2e87df233a885f6c50a3ac15ec4ea7]{
