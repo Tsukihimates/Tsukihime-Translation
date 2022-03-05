@@ -66,7 +66,7 @@ The woman in white does not stop.
 -- ……ここで引き下がるのも情けない。
 // The thing he's doing by 引き下がる-ing here is giving up on trying to
 // _get her to stop_, not on recovering the relationship.
-...It'd be pathetic if I were to give up on getting her to listen to me after coming this far.
+...It'd be pathetic if I were to give up on trying to get through to her after coming this far.
 }
 [sha:48b22166bac9f1ef544386fb7fe5fa3afd35f2d0]{
 -- Page 278, Offset 17252.
@@ -105,7 +105,7 @@ Arcueid abruptly stops in her tracks and glares over her shoulder at me.
 -- Page 281, Offset 17258.
 -- 「人間で悪かったな。何をしているのか教えてくれたら帰るよ」
 "Sorry for being human.
- If you tell me what you're doing I promise I'll get out of your hair."
+ If you tell me what you're doing, I promise I'll get out of your hair."
 }
 [sha:6cec492ffce6b834d4d8854ac22937fd33b9d1ba]{
 -- Page 281, Offset 17259.
@@ -163,7 +163,7 @@ Arcueid's voice was cold, like it belonged to a completely different person.
 -- Page 285, Offset 17269.
 -- 背中ごしにも、今のアルクェイドがどれほどの敵意を帯びているのかが、はっきりと感じ取れる。
 All I can see from back here is her posture,
- but even that is more than enough to allow me to grasp the scale of the murderous aura that now envelops Arcueid.
+ but even that is enough for me to sense the scale of the murderous aura that now envelops her.
 }
 [sha:b23b60f3ad6d3cffcb680e26d33a0639028575fe]{
 -- Page 286, Offset 17270.
@@ -178,7 +178,7 @@ All I can see from back here is her posture,
 [sha:5c6ecb5e1c7f1ff81cbdf29ab0d774dc99b53bee]{
 -- Page 286, Offset 17272.
 -- 彼女が何をしようとしているのか、言葉にするまでもなく判りきっている。
-I know what she's about to do even without hearing it put into words.
+I know what she's about to do, even without hearing it put into words.
 }
 [sha:63da4b06040e0c7748b8cf8894a9994fea4fcdde]{
 -- Page 286, Offset 17273.
@@ -203,7 +203,7 @@ Arcueid does not respond.
 [sha:2f7fec6eeb355d1ab24147b1e48841d00c54807c]{
 -- Page 287, Offset 17277.
 -- その視線の先には、なんでもない、背広姿の男性が歩いていた。
-Her gaze is trained on a run-of-the-mill looking man in a business suit as he walks along.
+Her gaze is trained on an average-looking man in a business suit as he walks along.
 }
 [sha:9e7c2acf4c5681ef7c5f3ab8db9495194d97dfc4]{
 -- Page 288, Offset 17278.
@@ -324,7 +324,7 @@ It's true that any human would have those 'lines'.
 -- Page 295, Offset 17299.
 -- けどそれは数えられる程度の数で、ゆっくりと流動する幾何学模様みたいなものなんだ。
 Except normally, there are few enough that you can easily count them,
- even as they slowly shift around like flowing geometric patterns.
+ even as they slowly shift like flowing geometric patterns.
 }
 [sha:d1deacb00a583e24831ed3162198c8d0e9fb02c9]{
 -- Page 296, Offset 17300.
@@ -447,7 +447,7 @@ She makes a beeline for the ordinary-looking man.
 -- Page 305, Offset 17321.
 -- 男はアルクェイドに気がついたのか、一瞬で俺の視界から消失した。
 Maybe the man noticed Arcueid coming for him,
- since in the blink of an eye he vanished from my field of view.
+ as in the blink of an eye he vanished from my field of view.
 }
 [sha:b5f68bc7b507992b1fd815a300d60b916aba21f8]{
 -- Page 305, Offset 17322.
@@ -474,8 +474,7 @@ She too has stepped out from under the illumination of the rusting streetlamps,
 [offset:17326]{
 -- Page 307, Offset 17326.
 -- ―――どくん。
-// Italics for SFX?
-―――*ba-dump*
+―――%{i}*ba-dump*%{/i}
 }
 [sha:9d81ba27e7a723461d5cfa302f6c28cba7db286d]{
 -- Page 307, Offset 17327.
@@ -501,14 +500,13 @@ The sound of a train thundering overhead.
 -- Page 308, Offset 17331.
 -- そんな騒音のただ中にいるのに、自分以外の人の気配が、まったく感じられなくなった。
 Despite being at the center of this cacophony,
- I cannot feel the presence of even a single person other than myself.
+ I cannot feel the presence of a single person other than myself.
 }
 [offset:17332]{
 -- Page 309, Offset 17332.
 -- ―――ドクン。
-// Italics for SFX?
 // Note that this is katakana, prev dokun was hiragana
-―――*BA-DUMP*
+―――%{i}*BA-DUMP*%{/i}
 }
 [sha:a7b90f6ff0c3a47620f715b5234cbf490b4cf21a]{
 -- Page 309, Offset 17333.
@@ -523,17 +521,13 @@ If I don't, I'll end up seeing something unpleasant.
 [sha:c6562d5c55ea6658720f63fee4a5a789610bfefd]{
 -- Page 309, Offset 17335.
 -- 今まで視えていたものなんて入り口にすぎないぐらいの淵を、見る事になってしまう。
-// Deep conjured, but felt necessary for flow
-// 入り口にすぎない - is he saying "abyss so big it makes what I thought was an abyss look like a door",
-// or that "seeing the abyss proper, I will realize that all I have seen to date is merely the approach to the pit itself"
 I'll end up staring straight into the abyss,
  one so deep as to make everything I've seen up to this point pale in comparison.
 }
 [sha:7a30b3c5ea33d37fac7441d6a37b334207d4bc75]{
 -- Page 310, Offset 17336.
 -- ―――ドクン。
-// Italics for SFX?
-―――*BA-DUMP*
+―――%{i}*BA-DUMP*%{/i}
 }
 [sha:0c7f2f004bf9f249a20f03cd7ac24aa67b91503a]{
 -- Page 310, Offset 17337.
@@ -547,7 +541,7 @@ But my body won't move.
 My unfettered eyes,
  able to perceive the threadbare nature of this run-down world,
  are drawn as though entranced to the dark void Arcueid vanished into,
- and I gaze fixedly across that threshold of darkness.
+ and I gaze, transfixed, across that threshold of darkness.
 }
 [sha:f0dd4a6a183c39fe5dad0df55f71db7a3d60ca20]{
 -- Page 311, Offset 17339.
@@ -577,28 +571,27 @@ Everything abruptly freezes in place.
 [offset:17344]{
 -- Page 312, Offset 17344.
 -- ――――――ギ
-// Italics sfx?
 // I have no clue what actual on-mim to use here.
 // I would describe the game audio as arcing static.
-――――――*kzzrrt*
+――――――%{i}*kzzrrt*%{/i}
 }
 [sha:c56712b1773646096b98c44b8edf51b9c6f99823]{
 -- Page 312, Offset 17345.
 -- 絶対零度の月の下。
-Beneath the absolute zero of the moon.
+// Petrikow: Association here is 絶対零度の(月の下), not (絶対零度の月)の下
+The world beneath the moon reaches absolute zero.
 }
 [sha:d6b23a83e1868b72dc2c003380aa68be7fa1015c]{
 -- Page 312, Offset 17346.
 -- 視界のむこうで、何か、異質な音がしている。
 From somewhere near the limits of my perception,
- there emanates a unfamiliar sound.
+ there emanates an unfamiliar sound.
 }
 [offset:17347]{
 -- Page 313, Offset 17347.
 -- ――――――ゴ
-// Italics?
 // Similarly, an arcing, crackling on-mim
-――――――*tsskst*
+――――――%{i}*tsskst*%{/i}
 }
 [sha:57ad14fc657ee068ffcc2723d1dcb721ae20624a]{
 -- Page 313, Offset 17348.
@@ -613,8 +606,7 @@ and there's no way the sound should be able to reach me.
 [sha:82de8a45cb7bc55357853cfa251080bea7000e40]{
 -- Page 314, Offset 17350.
 -- ――――――ず、ぶ
-// Italics?
-――――――*kshh*
+――――――%{i}*kshh*%{/i}
 }
 [sha:7cb62d5742d3fec99d837edb0a137fb93737cdec]{
 -- Page 314, Offset 17351.
@@ -641,7 +633,7 @@ My vision is stained crimson.
 -- Page 315, Offset 17355.
 -- なんで―――見えない筈のモノの、“死”を視てしまっているんだ、この目は。
 Why―――
-Why can these eyes perceive the 'death' of something that I shouldn't even be able to see.
+Why can these eyes perceive the 'death' of something that I shouldn't even be able to see?
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 316, Offset 17356.
@@ -661,7 +653,7 @@ If I don't put on my glasses, I'm going to lose my mind.
 [sha:f1cef6fe3a289d3bfc0af9176bdeb36533660e09]{
 -- Page 316, Offset 17359.
 -- 喉元までせり上がった嘔吐感をこらえながら、震える手で眼鏡をかけ直す。
-Fighting back the urge to vomit that has welled up in my throat,
+Fighting back the urge to vomit that's welling up in my throat,
  I put my glasses back on with trembling hands.
 }
 [sha:291c661544e741133c2a0a0a43a4980812f9cd3b]{
@@ -741,7 +733,7 @@ Her gait is feeble, like that of an invalid.
 [sha:5e9d56c00292058db18e5c4856ba9384149045b8]{
 -- Page 322, Offset 17373.
 -- けど、あんなに苦しげなアルクェイドを前にしたら、そんな事はどうでもよくなった。
-But with Arcueid so visibly in pain right in front of me,
+But with Arcueid visibly in pain right in front of me,
  all other thoughts are pushed aside.
 }
 [sha:803e170481dd96f4e865829b71faae35bca42146]{
@@ -820,7 +812,7 @@ Arcueid's breathing is so faint that my heart aches for her.
 [sha:94cefbd4eeb04f2de7eeb868097c437b2bd31582]{
 -- Page 328, Offset 17388.
 -- 治ってないのか、とは聞けなかった。
-I couldn't bring myself to finish asking if it hadn't healed yet.
+I couldn't bring myself to finish asking whether it had healed yet.
 }
 [sha:e5a9cf299fd7e0cbb2c53ead4ab5a1be5ba87fc8]{
 -- Page 328, Offset 17389.
@@ -840,7 +832,7 @@ Her head still hung low, Arcueid doesn't answer.
 [sha:2c9bed5681c5ed6621f999a1d5bd106972a97469]{
 -- Page 329, Offset 17392.
 -- それは、否定ではなく肯定の意味合い……だと思う。
-That silence is not a denial, but a confirmation... I think.
+That silence is not denial, but confirmation... I think.
 }
 [sha:cda30b5d5281d66e9d2cf27875a566fea9789b9c]{
 -- Page 330, Offset 17393.
