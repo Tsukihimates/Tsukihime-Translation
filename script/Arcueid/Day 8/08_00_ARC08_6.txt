@@ -37,7 +37,7 @@ But for whatever reason, Arcueid shouts at me as soon as she sees my face.
 [sha:87aa5ed28f5d574621f426ea5f514377fb345fa7]{
 -- Page 290, Offset 20396.
 -- 「そう！　もう、何時だと思ってるのよ！
-"That's right! Geez, what time do you call this?
+"That's right! Geez, what time did you think it was?"
 }
 [sha:bb48a0ecd36e5dca2f48c26105b36bf9b231967e]{
 -- Page 290, Offset 20397.
@@ -168,7 +168,7 @@ If you show up ages before we're supposed to meet, you can't then complain about
 [sha:8595a8e0817de0661919124e29bb9c31c7821d71]{
 -- Page 302, Offset 20420.
 -- しっかし、なんだって３時間も待ってたんだ。間違えて来たにしろ、それだけあれば部屋に戻っていても良かったじゃないか」
-// Are we translating Arc's 部屋 literally? 'Room' is a bit of a weird way to refer to what looks a lot like an apartment
+// Arc's 部屋 is translated as 'apartment' rather than simply room.
 I mean, why %{i}did%{/i} you stand around and wait for three hours?
  If you came that early by mistake, wouldn't it have made more sense to head back to your apartment for a bit?"
 }
@@ -232,7 +232,8 @@ I'm the bastard responsible for dismantling Arcueid's body into seventeen differ
 -- Page 306, Offset 20431. Glued.
 -- 時間もなくなっちゃったし、無駄話をしている暇なんてないものね」
 // Leading space for glue
- Time's a wasting, we can't just stand here shooting the breeze all night."
+ We don't have much time,
+ so we can't afford to stand here shooting the breeze all night."
 }
 [sha:195974fd72411ba164b1e2016cc5d1f3fa578656]{
 -- Page 306, Offset 20432.
@@ -408,7 +409,8 @@ Arcueid said she had a specific destination in mind, but hasn't let me in on the
 [sha:05cdbe2f523ea3140f6984887ba602f96a824b77]{
 -- Page 318, Offset 20462.
 -- 「今夜はピンポイントで視てもらうわ。まずは騒がしい方ね」
-"Tonight I'll have you look at some locations I pinpointed. We'll start with the bustling one."
+"Tonight I'll have you look at some locations I pinpointed.
+ We'll start with the most bustling one."
 }
 [sha:5691b60d3c3404beba38d0e81298d63833bc7ca4]{
 -- Page 318, Offset 20463.
@@ -541,7 +543,7 @@ The time is close to midnight.
 -- Page 328, Offset 20486.
 -- さすがに歩行者の数は減り、ネオンの光も減少していく。
 As one would expect, there aren't as many pedestrians about,
- and the lit neon lights are also becoming fewer and further between.
+ and the lit neon lights are also becoming fewer and farther between.
 }
 [sha:4553d300cf499be767fe70ab35727f7f1d064ff2]{
 -- Page 328, Offset 20487.
@@ -695,12 +697,12 @@ With that, our conversation comes to a halt.
 [sha:cf3c2f850d1ce6c24fac44039efc6ac5841dd27b]{
 -- Page 339, Offset 20514.
 -- 俺たちは無言で、すれ違う者のいない歩道を歩いていく。
-In complete silence, we walk down deserted sidewalk.
+In complete silence, we walk down the deserted sidewalk.
 }
 [sha:46b861f2b25b7b5b18d5537d6c630f70b774b3ed]{
 -- Page 340, Offset 20515.
 -- 駅前から随分と離れた。この２時間、成果はほぼ無かったが不思議と徒労感はない。
-We've come a long way from the station.
+We're a long way from the station now.
  We may not have much to show as a result of the past two hours, but strangely enough, it doesn't feel like that time was wasted.
 }
 [sha:d09c95c4598c03183ec1c368589f3726bed366fa]{
