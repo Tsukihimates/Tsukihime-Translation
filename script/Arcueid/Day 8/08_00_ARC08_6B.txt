@@ -703,7 +703,7 @@ Conceited enough to think it can kill Arcueid,
 [sha:fd914602ac184b51872a602bd12cc8396d7587e8]{
 -- Page 395, Offset 20676.
 -- 馬鹿な。
-What a fool.
+How foolish.
 }
 [sha:242e79c3ba9507d89709cc419f76f9af55c2b494]{
 -- Page 395, Offset 20677.
@@ -713,7 +713,15 @@ That idiot.
 [sha:4168338a935541a677a0ecf19d4a4e5ca3006397]{
 -- Page 395, Offset 20678.
 -- あんな事をしなければ、あんな無駄をしなければ、あんなバケモノに後れを取る女じゃない。信じられない。新しい傷を負っている。無様に壁に追い込まれている。呼吸も荒い。足取りもおぼつかない。あんな―――俺でさえやりすごせる一撃を、甘んじて受けている。
-If she hadn't done that... If she hadn't done something so reckless, she wouldn't have been bested by such a monster. I can't believe this. She's sustained a new wound. She's shamefully being driven to the wall. Her breathing is ragged. Her movements are shaky. She took that hit that even I could have dodged in stride.
+// Knees weak, arms are heavy, Shiki's glasses are off already, mom's spaghetti
+She's not the sort of woman to be bested by a monster like that.
+ If only she hadn't done that, if only she hadn't been so reckless.
+ I can't believe this.
+ She's sustained a new wound.
+ She's let herself be driven into a corner.
+ Her breathing is ragged.
+ Her movements are shaky.
+ She just sat there and took a hit that even I would have been able to dodge.
 }
 [sha:22c68a63022fa4780d4d764fbdf92166d810ba31]{
 -- Page 396, Offset 20679.
@@ -728,27 +736,36 @@ I'm so glad that I didn't put on my glasses.
 [sha:84bfc8c1a84791057d8c88b1c8cac9ed3629b9ed]{
 -- Page 396, Offset 20681.
 -- 怒りでたたき割っていたかもしれない。
-Otherwise I might have broken it in half out of rage.
+If I had I might've smashed them to pieces in my fury.
 }
 [sha:9110d7903f038132cd714aef390b04bbfd1eccdd]{
 -- Page 396, Offset 20682.
 -- 異形の死者がはしゃぐように飛び上がる。
-The grotesque looking dead jumps up in what seems like excitement.
+The grotesque looking dead leaps around in what seems like excitement.
 }
 [sha:3e6d64a4b3cd234b72e62010295c4ee56f052610]{
 -- Page 396, Offset 20683.
 -- 本来なら決して届かない獲物を前に、下卑た笑いを頬にまで伸ばしている。
-Standing in front of the prey it should have ordinarily never been able to reach, a vulgar smile spreads across its face, extending all the way to its cheeks.
+As it stands before the prey it would ordinarily never have been able to reach,
+ a vulgar smile spreads across its face, extending all the way to its cheeks.
 }
 [sha:f71b54a4d21fc1a19ca3aee37852068d788d69b7]{
 -- Page 397, Offset 20684.
 -- 「―――て」
+// This page had 3 forced allscr newlines, all removed.
 "―――I..."
 }
 [sha:aab5bc7aeab525075988d081c3f29378ef4ca5bf]{
 -- Page 397, Offset 20685.
 -- ふざけるな。ふざけるな。ふざけるな。それは、俺のだ。俺の責任だ。俺の役割だ。俺の、俺が殺した、殺してしまったせいで地に落ち、ただ快楽の為に殺されたというのに、俺を、こんな非人間を、それでも許すと告げた女だ。それを―――
-You've got to be kidding me. It's because of me. It's my responsibility. It's my fault. It's because... it's because I killed her that she's on the floor. Even though I only killed her out of pleasure, she... she still forgived a worthless human being like me. That's―――
+Don't fuck with me.%{n}
+                  Don't fuck with me.%{n}
+                                    DON'T FUCK WITH ME.%{n}
+It's mine. My responsibility. My duty.
+ It's because of me... It's because I killed her that she's fallen to the floor,
+ yet even though I killed her for no other reason than my own pleasure,
+ that woman forgave me, she forgave my failures as a human.
+ I―――
 }
 [sha:b549b231bf8855f2d2f548f9c3a39ba4423d432c]{
 -- Page 397, Offset 20686.
@@ -758,7 +775,8 @@ You've got to be kidding me. It's because of me. It's my responsibility. It's my
 [sha:2d322ad6958cda46ccba362f849790b543f6b046]{
 -- Page 397, Offset 20687.
 -- それを、<不出来|ブサイク>な肉で舐めまわしているんじゃねえ……！
-That's not something a lowly piece of flesh should look down on...!
+// 舐めまわす is like... lick all over?
+I won't let those misshapen maws get a taste of her...!
 }
 [sha:3cb4fbdea35ef3ce60a06049f0696b61ac990b21]{
 -- Page 398, Offset 20688.
