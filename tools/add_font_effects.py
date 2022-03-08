@@ -35,17 +35,19 @@ def main():
     font.selection.select(("ranges", None), 0, 127)
     font.copy()
 
-    # Italic
+    # Italics
     font.selection.select(*pua_range(0))
     font.paste()
-    apply_origin(font, lambda g: g.transform(psMat.skew(ITALIC_SKEW_RADS)))
+    apply_origin(
+        font, lambda g: g.transform(psMat.compose(
+            psMat.scale(0.7, 1), psMat.skew(ITALIC_SKEW_RADS))))
 
     # Reversed
     font.selection.select(*pua_range(1))
     font.paste()
     apply_origin(font, lambda g: g.transform(psMat.scale(-1, 1)))
 
-    # Reversed _and_ italic
+    # Reversed _and_ italics
     font.selection.select(*pua_range(2))
     font.paste()
     apply_origin(
