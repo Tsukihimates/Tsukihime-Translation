@@ -280,7 +280,8 @@ Their abilities are different. Their views are different. Their planes of existe
 [sha:2099b0eccb2d52e62f2a4bb1ec06bf3a4a4285dc]{
 -- Page 372, Offset 20598.
 -- <鎧袖一触|がいしゅういっしょく>、無双とはこの事だ。
-This is what it means to defeat someone with one hand tied behind your back. To be truly peerless.
+This is what it means to defeat someone with one hand tied behind your back;
+ to be truly peerless.
 }
 [sha:d9dd50ff2e25e2aab1d6f1ba649155f28ea866b9]{
 -- Page 372, Offset 20599.
@@ -367,7 +368,7 @@ And yet―――
 [sha:b8d9d1f0d81c8cbff66820af5f3e507e7a93c16c]{
 -- Page 377, Offset 20615.
 -- 白い影はこれが最後と見たのか、力を温存する事なく、ヒトの形をしたモノを粉砕した。
-As though reaching a final violent crescendo,
+As though reaching a final, violent crescendo,
  without showing even a speck of restraint,
  the white figure pulverizes the thing that was once human.
 }
@@ -462,12 +463,12 @@ The thing before me is so outlandish I can't help but doubt my own eyes.
 [sha:b0da8986ae75b4a925bab265d42f92382497a1c4]{
 -- Page 384, Offset 20633.
 -- それはいつからあったのか。
-How long has it been there?
+How long has %{i}that%{/i} been there?
 }
 [sha:bda3ab6718332e9ca13b11bfc61d425dc45c15c8]{
 -- Page 384, Offset 20634.
 -- いや、いつから見落としていたのか。
-No, how long have I simply failed to notice it?
+No, how long had I simply failed to notice it?
 }
 [sha:931b494b782d9fa9cf3d00a56cae64ea2ceb9a2d]{
 -- Page 384, Offset 20635.
@@ -592,8 +593,8 @@ That unfolding flesh wasn't just the fat from its stomach,
 // 軟体動物: When you say 'mollusc' in EN, I feel like that trends towards bivalves or gastropods.
 // '軟体動物 しゃしん' on image search leans much more heavily on the betentacled side of things,
 // which also just makes more sense given the CG.
-// Not sure how _scientific_ 軟体動物 is, if it's higher than vernacular can go for cephalopod
-The multitude of arms undulates eerily, like the tentacles of a squid.
+// 軟体動物 is a bit _scientific_, so going with cephalopod over a more vernacular term
+The multitude of arms undulates eerily, like the tentacles of a cephalopod.
 }
 [sha:3e6c89f0e8aaafebefdb4e0853304147f361e5bc]{
 -- Page 389, Offset 20657.
@@ -699,7 +700,7 @@ Conceited enough to think it can kill Arcueid,
 [sha:fd50be08731adcf74df2cdd1b0259e325b38dbff]{
 -- Page 394, Offset 20675.
 -- ―――それは、ない。
-                    ―――That can't happen.
+                    ―――That... can't happen.
 }
 [sha:fd914602ac184b51872a602bd12cc8396d7587e8]{
 -- Page 395, Offset 20676.
@@ -759,9 +760,11 @@ As it stands before the prey it would ordinarily never have been able to reach,
 [sha:aab5bc7aeab525075988d081c3f29378ef4ca5bf]{
 -- Page 397, Offset 20685.
 -- ふざけるな。ふざけるな。ふざけるな。それは、俺のだ。俺の責任だ。俺の役割だ。俺の、俺が殺した、殺してしまったせいで地に落ち、ただ快楽の為に殺されたというのに、俺を、こんな非人間を、それでも許すと告げた女だ。それを―――
+// Taking advantage of what space we have to emphasize the repeated ふざけるな
+// EN-only editors, don't take this one any further than it is
 Don't fuck with me.%{n}
-                  Don't fuck with me.%{n}
-                                    DON'T FUCK WITH ME.%{n}
+                 Don't fuck with me.%{n}
+                                  DO NOT FUCK WITH ME.%{n}
 It's mine. My responsibility. My duty.
  It's because of me... It's because I killed her that she's fallen to the floor,
  yet even though I killed her for no other reason than my own pleasure,
