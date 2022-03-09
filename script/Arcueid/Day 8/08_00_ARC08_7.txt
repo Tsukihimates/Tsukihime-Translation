@@ -1,27 +1,27 @@
 [sha:1a328f8060469fe9d96c7146ccd5739f7b1acf42]{
 -- Page 10022, Offset 20785.
 -- ベンチに座って体を休める。
-I sit on the bench and rest my body.
+I sit on a park bench and give my body a chance to recover.
 }
 [sha:5d4532b952e091895f5de63b0eafd7983f072969]{
 -- Page 10022, Offset 20786.
 -- 手足の感覚は30分ほどで回復した。
-The sensation in my limbs comes back after around 30 minutes.
+After about half an hour, the feeling has returned to my limbs.
 }
 [sha:89c447140a30edb9f677d6d54fb01131eda0e2d7]{
 -- Page 10022, Offset 20787.
 -- 自分でも気がつかなかったが、あの異形の死者の“線”を視た事が大きな負担になっていたようだ。
-I didn't realize it myself, but it must've been a massive strain to look at the 'lines' on that grotesque looking Dead.
+I wasn't aware of it at the time, but it seems looking at the 'lines' on that grotesque Dead really did a number on me.
 }
 [sha:c014f4ad5c461a43dbd4789687e7e9e4245973d6]{
 -- Page 430, Offset 20788.
 -- ベンチの前にはアルクェイドが立っている。
-Arcueid is standing in front of the park bench.
+Arcueid is standing in front of the bench.
 }
 [sha:76bb9e3922cbf33961b741767f48d2842384ce4f]{
 -- Page 430, Offset 20789.
 -- 俺をここまで連れてきてくれた後、あの通り、ずっと俺を睨んでいる。
-The whole time she was dragging me here, she was――as you might expect――glaring at me.
+Ever since she dragged me all the way back here, she's just been glaring at me―――as you can see.
 }
 [sha:6c46ee0fc908f330da7fedba96acb2c50eafa89c]{
 -- Page 431, Offset 20790.
@@ -31,7 +31,9 @@ The whole time she was dragging me here, she was――as you might expect――g
 [sha:3f368c9eee05c7d272f910836e6554e5b57d2d6c]{
 -- Page 431, Offset 20791.
 -- 目眩も消えたんだし、その、いかにも俺が悪いって顔はもう止めてくれ。
-My dizziness has already gone away, so could you stop giving me that look like I've done something wrong?
+// Not 100% certain on いかにも here. It _can_ mean emphasis but I was under
+// the impression the nuance is a lot more like 'precisely my dear Watson'
+My dizziness has cleared up already, so could you stop looking at me like you're convinced I've done something wrong?
 }
 [sha:18c49f4d55b20b1a27bd5b2efac929f839b09617]{
 -- Page 431, Offset 20792.
@@ -41,22 +43,34 @@ Besides, if I hadn't stepped in, your wound would have opened up again."
 [sha:372f26787554c48568ada61c417840e172301864]{
 -- Page 432, Offset 20793.
 -- 「あれはコトバのアヤ。あんな変種ぐらいなんとでも出来たわ。そんな事よりあなたの体よ。昨日の話、ちゃんと覚えてる？」
-"That was just a figure of speech. I would have been fine against a mutation like that. But that aside, let's talk about your body. Do you remember what we talked about yesterday?"
+"That was just a figure of speech. I would have been fine against a mutation like that.
+ Your body is the one I'm worried about here.
+ Did you already forget what we talked about yesterday?"
 }
 [sha:2071900f46b865f605193b581cb348fc92f20f36]{
 -- Page 432, Offset 20794.
 -- 「眼を使いすぎるなって話だろ。分かってる、俺だって廃人にはなりたくない。次からは気をつける」
-"You mean the part about not using my eyes too much? I get it, I don't want to end up being a cripple either. I'll be careful next time."
+"You mean about not using my eyes too much?
+ I get it, I'm not exactly keen on ending up as a cripple myself.
+ I'll be more careful next time."
 }
 [sha:0d19f519aa30fa2abaabdd6ec4c4b7d5dcdeef4d]{
 -- Page 433, Offset 20795.
 -- 「…………はあ。鈍感にも程がある。あなたに危機感を植え付けるのは難儀そうね。
-"...Sigh. You're being way too laid-back. It's going to be difficult to instill a sense of urgency in you, isn't it?
+"...Sigh. You're way too laid-back about this.
+ It's going to be difficult to instill a sense of danger in you, isn't it?
 }
 [sha:b438689badf8c4367f2586ace8f0abb974190ef4]{
 -- Page 433, Offset 20796.
 -- ま、一番身近にして最高級の“死”に慣れているんだから、それも当然か。……ほんと、どうしてやろうかしら。一度思いっきり怖がらせてあげましょうか？」
-Well, you are accustomed to having the highest level of death right beside you, so it's not all that surprising. Seriously, I don't know what I'm going to do with you. Perhaps I should shove some fear down your throat at least once?"
+// Not a fan of 'high grade', 'top class', etc. for 最高級, it doesn't really
+// parse to me, but it doesn't really seem to have other readings. Would
+// probably prefer something like 'most potent', etc
+Well,
+ given that you've grown accustomed to having the highest grade of 'death' always a hairs breadth away,
+ perhaps it's not all that surprising.
+ Seriously, I don't know what I'm going to do with you.
+ How about I give you something to really be afraid of?"
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 434, Offset 20797.
@@ -71,22 +85,24 @@ What is she getting so upset about?
 [sha:a8e0cdf9fe0a736e179c5fc8be2570947f15f80d]{
 -- Page 434, Offset 20799.
 -- 誰か、明確な解説を求む。
-Can anyone explain this to me?
+Someone, please, enlighten me.
 }
 [sha:d5399b4762e4b6a4479c4cf5e93225673d29c7b0]{
 -- Page 435, Offset 20800.
 -- 「最高級の恐怖ならおまえに追いかけられた時のでお腹いっぱいだよ。
-"If we're talking about fear, then I've already had my fair share the moment you chased me.
+// Hm here's 最高級 again, make sure whatever we land on here is consistent
+"If we're talking about high grade fear,
+ then I felt more than my fair share back when you chased me down.
 }
 [sha:2c4b906c09bb5aeae8890d3e29a13f96e1d73ee9]{
 -- Page 435, Offset 20801.
 -- この眼が危険だって事も、言われなくとも分かってる」
-I already know that these eyes are dangerous without being told."
+And you don't need to tell me that these eyes are dangerous, I'm already well aware of that."
 }
 [sha:511326354a1f366c5bb27e32a6fcad3c212484e0]{
 -- Page 435, Offset 20802.
 -- なにしろ、七年間付き合ってきたんだから。
-After all, I've had to live with these for the past seven years.
+After all, I've had to live with them for the past seven years.
 }
 [sha:2bad58a0384aed401bee7ec672e717d58c1f08a5]{
 -- Page 436, Offset 20803. Mods: @n.
@@ -111,12 +127,20 @@ It's just that..."
 [sha:8e49543766912a5cd5279ceeab653f5e3c666185]{
 -- Page 437, Offset 20807.
 -- 「単に、歩き尽くしで疲れていただけだ。おまえは平気だろうけど人間は疲れるんだよ、２時間歩きっぱなしだと」
-"It's just... that I was exhausted from walking too much. It might be fine for you, but it's tiring for us humans, especially for two hours."
+// Mirror pause location from line above
+"It's just that... I was exhausted from all that walking.
+ It may be nothing to you, but humans get tired you know! Especially after walking for two hours straight."
 }
 [sha:623f00c1ec74f91b957db746ac23b949cd4b9998]{
 -- Page 438, Offset 20808. Mods: @k, @e.
 -- 「それならいいけど……志貴ってたまに、自分を客観視しすぎてない？
-"In that case it's fine, but... aren't you a bit too hard on yourself sometimes?
+// Reading this as more of a 'do you' than a 'you do' in light of the next sentence
+// Not sure I 100% understand the vibe of 客観視しすぎる. Seems like maybe an 'unsure of yourself'?
+// Or possibly worrying what others think of you? That's sorta what I get from these JP livejournal entries
+// https://anond.hatelabo.jp/20090207020714
+// https://note.com/who_iam/n/nafa5720b8119
+"In that case it's fine, but...
+ Shiki, do you ever struggle with who you are as a person?
 }
 [sha:aff0a7d95d602ba16a896e54108007f70d485d58]{
 -- Page 438, Offset 20809.
