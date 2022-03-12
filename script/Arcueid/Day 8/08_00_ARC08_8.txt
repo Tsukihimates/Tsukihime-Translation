@@ -54,22 +54,24 @@ There, in the space between two streetlights.
 [sha:2529c272d965ea7a6311dc1596ebd7c9fa2e04e2]{
 -- Page 492, Offset 20964.
 -- はじめにあったものは恐怖だった。
-The first thing that came to mind was fear.
+The first thing I felt was fear.
 }
 [sha:e85a05d87127fc8aedc0b44efddfa70a26456307]{
 -- Page 492, Offset 20965.
 -- 心臓が停止するほどの非現実感。
-An irregularity that was enough to make your heart stop.
+It was such a surreal sight it made my heart seize in my chest.
 }
 [sha:938a6b1e35bd9d859551ea88e105ff84820ffe44]{
 -- Page 492, Offset 20966.
 -- だがあいにく、この<肝|むね>には既にソレらへの耐性があり。
-But unfortunately, my heart is already steeled against that sort of thing.
+But unfortunately for it,
+ I've recently built up quite a tolerance against the fantastical.
 }
 [sha:655a745fb0de575718b216ca48e720287bac8a04]{
 -- Page 492, Offset 20967.
 -- 再開した鼓動は<密|ひそ>やかに、右手に<短刀|ナイフ>を忍ばせる。
-With my heartbeat quietly resumed, I conceal my knife with my right hand.
+My heart quietly starts beating again,
+ and I surreptitiously grasp my knife with my right hand.
 }
 [sha:23611c72556ac02b3487f3d884fd1cd8a9fba2f5]{
 -- Page 493, Offset 20968.
@@ -79,7 +81,12 @@ With my heartbeat quietly resumed, I conceal my knife with my right hand.
 [sha:c6b2b34691513c0e2e6141474a43c08529c42c8a]{
 -- Page 493, Offset 20969.
 -- 身体の血流が倍速化する感覚。あるいは錯覚。
-The feeling of accelerated blood flow throughout my body. Perhaps it's a hallucination.
+// 倍速 has like... "16x CDROM" speed vibes? Very mechanical.
+// Assuming あるいは refers to the figure, not the feeling.
+// This is _almost_ the same as sha:7bc025ef6db9108c689f35f3bbd4a06e3bba984c in 08_00_ARC08_7_2.txt,
+// except that version is missing the の. Nasu typo?
+I feel my circulation switch into overdrive.
+ Am I hallucinating?
 }
 [sha:3ce0e949772cf3269e068397c30e290df4f30bd3]{
 -- Page 493, Offset 20970.
@@ -133,12 +140,14 @@ I put a hand on my glasses.
 [sha:66a9225906eb4077d89fd34081939afdc08f8c17]{
 -- Page 495, Offset 20979.
 -- 背筋には<百足|ムカデ>の如き悪寒がある。
-I feel a chill crawling on my back like a centipede.
+// Once again, _almost_ identical to 08_00_ARC08_7_2.txt sha:b78a43af163870475b97b1ef90fb38fbac265a01
+I feel a chill slowly creep down my spine.
 }
 [sha:f4be2bf8c3c3d78a5893f8b1c99876e6540ff972]{
 -- Page 495, Offset 20980.
 -- 人影が、あと一歩で、絶望的な距離に入る。
-In one more step, that shadow will enter the range of despair.
+// Near-ident sha:973800449bc2c94e7cfba9f02df6d2d2fb85fe89
+With one more step, the figure will pass the point of no return.
 }
 [sha:0b4eacd190c2ec0241a873c8c4a117a1d9345c98]{
 -- Page 495, Offset 20981.
@@ -164,7 +173,9 @@ Thump.
 [sha:4b5755f734fa4d6e2af902ec2ec0bf4ae79655c6]{
 -- Page 496, Offset 20985.
 -- 死を告げるように、心臓が跳ねあがる。
-As if heralding my death, I feel my heart jump.
+// Motherfucker if you're gonna write the same thing please just write the _same_ thing
+// Near-ident sha:92cfcfd4ae9f09f1ccef6177bf93284562a149ca
+I feel my heart reverberate in my chest, as though it were sounding my death knell.
 }
 [sha:5fbef8abb757f5a56690399642f01323e6f8cf46]{
 -- Page 496, Offset 20986.
