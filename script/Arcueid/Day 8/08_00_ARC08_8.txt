@@ -662,27 +662,33 @@ She's dressed like a Catholic priest from overseas.
 [sha:9f9008852c8ca42c782de222bdac292fc97bdaa9]{
 -- Page 519, Offset 21073.
 -- 右手に<携|たずさ>えた細い剣と、
-She's carrying a thin sword in her right hand,
+// CG here only shows sword, but she throws like 3 of them 2 pages down?
+// Pluralized here too
+In her right hand she carries a collection of thin swords,
 }
 [sha:03df30b1a737a0b9d67588a6cf522e52a232116c]{
 -- Page 519, Offset 21074.
 -- 左に握った、あまりにも場違いすぎる巨大な槍。
-and grasping an enormous spear in her left that stands out like a sore thumb.
+and with her left grasps an enormous spear that sticks out like a sore thumb.
 }
 [sha:431bd7bc98745139b647d6dce27b8ee2430d8e43]{
 -- Page 520, Offset 21075.
 -- ……あのカタチは知っている。
-...I know that stance.
+// Talking about shape of weapon, not shape of Noel
+...I know that shape.
 }
 [sha:e8fc0199a382cc0fa1878e01bd709197a4048adc]{
 -- Page 520, Offset 21076.
 -- いや、以前視界に入った事を、脳の一部が覚えている。
-No, a part of my brain remembers a scene like this from before.
+No, a part of me remembers seeing something like it before.
 }
 [sha:cd2ac1c2b88c3cd215da94dfb96c0700f0fe17cf]{
 -- Page 520, Offset 21077.
 -- ヴローヴとの戦いのおり、あの剣が遠野志貴を氷塊から救った事を、意識していなくとも事実として認識している。
-Back when I fought Vlov, I recognize for a fact that a blade like that saved me from those ice blocks, even if I wasn't aware of it at the time.
+// Don't remember when this happened, might need to check back and make sure the scope of the ice is consistent
+Back during the fight with Vlov,
+ that sword was the one that saved me from those blocks of ice...
+ I understand that fact without really being aware of it.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 521, Offset 21078.
@@ -702,32 +708,34 @@ The woman standing on top of the street light smiles at me, and then...
 [sha:c5571c7b115de34d12640b3caba0770294ffc8e3]{
 -- Page 521, Offset 21081.
 -- 手に持った細い剣を、黒い影へと放っていた。
-the thin blades in her hands are released at the black figure.
+she hurls the thin swords in her hand at the shadowy figure.
 }
 [sha:96b34959b99df661a4a7d3bc4b56e5f0bcb0129a]{
 -- Page 522, Offset 21082.
 -- 「“聖堂よ、あれ”」
-"Sanctuary, over there."
+// Likely 聖堂 from ドヤナリヤ三角聖堂
+"O temple, appear."
 }
 [sha:ccc51bbecfe3a40cd47e22f1ed2dbf50f5308248]{
 -- Page 522, Offset 21083.
 -- 言葉と共に光が立ち上った。
-With those words, a light rises from the ground.
+At those words, a light rises from the ground.
 }
 [sha:7f06c379c042e4ca01e213e06b215029d12b5fe8]{
 -- Page 523, Offset 21084.
 -- ごうん、と風を薙ぐ音。
-The sound of reaping wind.
+// Anim of spear swinging
+The hum of a blade slicing through the air.
 }
 [sha:b4c11ade43a148e0449a0219cd97c7f418ff24f3]{
 -- Page 523, Offset 21085.
 -- 彼女は巨大な槍を構え直し、
-She readjusts her grip on the massive spear,
+She raises her massive spear at the ready,
 }
 [sha:13ab90c0d99bba31cab2616ea04eda915af44de6]{
 -- Page 523, Offset 21086.
 -- 街灯の上から、男めがけて飛び降りていた。
-and jumps down toward the man from the top of the street light.
+and leaps off the streetlight, aiming straight at the man below.
 }
 [sha:f7f7eed3287e9573057da41e01248cd285da933d]{
 -- Page 524, Offset 21087.
@@ -747,12 +755,13 @@ The shadowy thing that clung to him is swept away by Noel's giant spear.
 [sha:c81da3d711fcd4696510f77e793186930a223823]{
 -- Page 524, Offset 21090.
 -- 駐車場にいた異形の死者のように、影もろとも姿が溶けていく。
-The figure melts together with its shadow, like that grotesque looking Dead from the parking lot.
+Just like the grotesque dead from the parking lot,
+ the figure melts away, together with the shadow.
 }
 [sha:a6a6eca39303bd35d47e07af81aadade4d6b75ff]{
 -- Page 525, Offset 21091.
 -- その中においても、男は俺を凝視していた。
-The man continued to stare at me even in the middle of it all.
+Through it all, the man continued to glare straight at me.
 }
 [sha:759b6e9afc34382bb8095afa5156c233f0ad51ab]{
 -- Page 525, Offset 21092.
@@ -762,7 +771,8 @@ His bloodshot eyes were filled with nothing but killing intent.
 [sha:e1924ff6433635e0170ceaa55ab27a8cdc4cfb02]{
 -- Page 525, Offset 21093.
 -- 遠野志貴だけを呪っているような、凶器みたいな黒い瞳。
-Black pupils like a weapon that cursed only Tohno Shiki.
+It was as though those black pupils were weapons,
+ and Tohno Shiki the sole object of their ire.
 }
 [sha:956125f972827f97998d60d9a0375c8f18210c86]{
 -- Page 526, Offset 21094.
@@ -777,37 +787,48 @@ I could do nothing but stand there in blank amazement.
 [sha:7aa791603cbf625551299e465e7d87f81dd06852]{
 -- Page 526, Offset 21096.
 -- 男はなぎ払われた影と共に、その姿を亡くしていった。
-Together with his shadow, the man's figure fades away.
+The man, and the shadow that clung to him, have disappeared.
 }
 [sha:c5c56ce4e656ec2b82b1806636f4d0549c115456]{
 -- Page 526, Offset 21097.
 -- ……何の痕跡もなく、この世から消滅したのだ。
-...He is extinguished from this world without a single trace.
+...Not a single trace remains,
+ they were simply wiped clean off the face of the earth.
 }
 [sha:3882ac06501bc895f9ec7437612943f12a369665]{
 -- Page 527, Offset 21098.
 -- 虫の声と風の音。まっとうな夜の音が戻ってくる。
-The cries of the insects and the sound of the wind. The sounds of night have returned to their rightful place.
+The cry of insects.
+ The sound of the wind.
+ The rightful sounds of the night reassert themselves.
 }
 [sha:0326134fafffa17281de672c6acb7aaf6e2c5a60]{
 -- Page 527, Offset 21099.
 -- あんなに禍禍しい叫び声があがったというのに、周囲は何事もなかったかのように夜の闇に沈んでいる。
-Despite such a sinister scream, the surroundings sink into the darkness of the night as if nothing had happened.
+Even after such a sinister scream,
+ the surroundings sink back into the darkness of the night,
+ as if nothing had ever happened.
 }
 [sha:c6ac61d523ae24514962b6d2ac94b20316912b7a]{
 -- Page 528, Offset 21100.
 -- ……そして、俺の前には明らかに異質な人間が立っている。
-...And now there is a distinctly peculiar person standing in front of me.
+...Except for the distinctly out of place person now standing in front of me.
 }
 [sha:ccfa3fe26eb11627806303a06a64ba8e10aba1d1]{
 -- Page 529, Offset 21101.
 -- 「こんばんは。この国の夜は安全だと聞いていたけど、このあたりは物騒なのね。ちょっと散歩していたら、吸血鬼みたいな化け物が、可愛い教え子に襲いかかっているんだもの。
-"Good evening. I heard that this country was safe at night, but it seems like these parts are rather dangerous. After all, I witnessed a vampire-like monster rush down a cute student of mine during my stroll.
+"Good evening.
+ I'd heard that this country was safe at night,
+ but this seems to be a bit of a bad neighborhood.
+ I was just out for a stroll,
+ when all of a sudden I stumble across some vampire-like monster,
+ harrying a cute little student of mine.
 }
 [sha:67a3474a502d65077bbfcfa3ec534e770ba6b756]{
 -- Page 529, Offset 21102.
 -- それとも―――貴方の周りが特別なのかしら、遠野志貴クン？」
-Or perhaps it's your surroundings that are unique, Tohno Shiki-kun."
+Or perhaps―――
+things like this simply tend to happen when you're around, Tohno Shiki-kun?"
 }
 [sha:6142eeaba5153d0fe50312933b3429e91ef4cccc]{
 -- Page 530, Offset 21103.
@@ -817,7 +838,8 @@ The woman in the nun's outfit turns around.
 [sha:918e249054a77ed4b53a8bcd3d3b0f6f68a84c19]{
 -- Page 530, Offset 21104.
 -- 彼女はあふれ出る憎悪、明確な殺意を隠しもせずに、俺に微笑みかける。
-Without concealing her overflowing hatred and precise killing intent, she smiles at me.
+Without concealing her overflowing hatred and clear desire to see me dead,
+ she smiles at me.
 }
 [sha:3be5b76d2fb8a38247c756976d2cc53eda45940c]{
 -- Page 530, Offset 21105.
@@ -827,32 +849,39 @@ Without concealing her overflowing hatred and precise killing intent, she smiles
 [sha:3f334cfdb872bff7da53168275144e68c1b02acb]{
 -- Page 530, Offset 21106.
 -- あれは学校に赴任してきた、ノエルという名前の何者かだ。
-This person's name is Noel, the one who recently started teaching at our school.
+This person is the same Noel that recently started teaching at our school.
 }
 [sha:be4bcb46d3c87f817a9929b6e72b10495f6d8ca6]{
 -- Page 531, Offset 21107.
 -- 「ノエル先生……で、いいんですか？」
-"Is it okay to call you Noel-sensei?"
+// VA sounds like addressing her to say something else then changing tack,
+// not a single thought.
+"Noel-sensei―――
+ Well, I wonder if I should still call you that?"
 }
 [sha:23376106954a31e7c179828b3ddc93747ed96cf0]{
 -- Page 531, Offset 21108.
 -- 「ふふ。そうねぇ。先生って響きは悪くないけど、ここは学校の外なんだし？　先生は外したほうが何かと気が楽よね、お互いに」
-"Fufu. That's right. I don't mind the sound of 'sensei', but this isn't school, right? It'd be better for the both of us if you drop the 'sensei'."
+"Fufu. That's a great question.
+ I don't mind the sound of 'sensei', but we aren't at school, are we?
+ I think it'll be easier for both of us if you drop the 'sensei'."
 }
 [sha:3678295d40c0f8a7c73891dbba58b67f8ffde5e0]{
 -- Page 532, Offset 21109.
 -- カツ、と硬い音が響いた。
-The sound of heavy footsteps echoes.
+I hear the sharp echo of her footsteps.
 }
 [sha:6352511ccaeda9ac9c93073b82008a005daf2b91]{
 -- Page 532, Offset 21110.
 -- ノエルが足を進ませる。
-Noel advances closer.
+Noel advances on me.
 }
 [sha:5fa868b6a6ba8beb3363f7ed94f8694c32aded68]{
 -- Page 532, Offset 21111.
 -- 笑顔のまま、あの凶悪な槍を握ったまま、こちらに近づいてくる。
-She approaches me with a smile on her face and her dreadful spear still gripped in her hand.
+With a smile still on her face,
+ but that dreadful spear still in her hand,
+ she begins to close the distance between us.
 }
 [sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
 -- Page 532, Offset 21112. Mods: @k, @e.
@@ -867,5 +896,5 @@ I―――
 [sha:603dcb94dbc3757fcb4a5696cc2f4972b3db847a]{
 -- Page 534, Offset 42656. Choice.
 -- ……警戒して身構える。
- ...be cautious and stand guard.
+ ...stay cautious but alert.
 }
