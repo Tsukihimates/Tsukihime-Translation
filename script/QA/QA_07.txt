@@ -1,17 +1,19 @@
 [sha:b86a516efe42a37be8a4ea2d2b33aff2beb22bb8]{
 -- Page 137, Offset 43015.
 -- とくに心当たりのないデッドエンドを迎えた
+// Reading 心当たりのない as unexpected here, rather than unknown.
+// Seems to make more sense given the context of there aren't any choices right before, where'd this come from
 This is the Q&A corner where we provide guidance to%{n}Tohno-kun,
 }
 [sha:0c12436b281b16e4a4eefab24d3dc36f7efa18d8]{
 -- Page 137, Offset 43016.
 -- 遠野くんをお助けするＱ＆Ａコーナー、
- who has reached a dead end that he has no%{n}clue about.
+ who has reached a rather unexpected%{n}dead end.
 }
 [sha:5a1ae1fa6d39c9839073c3a252df90012fcd7d70]{
 -- Page 138, Offset 43017.
 -- 『教えて！　シエル先生』の時間です。
-It's time for "Teach me! Ciel-Sensei!".%{n}
+It's time for 'Teach me! Ciel-Sensei!'.%{n}
 }
 [sha:668faf5b25bcb42926017ee00f8564cc44defb00]{
 -- Page 138, Offset 43018.
@@ -21,61 +23,65 @@ Good evening. Instructor Ciel here.
 [sha:63fbdf2173551621a033afbdf0365847ee4398c0]{
 -- Page 139, Offset 43019.
 -- ゴッドキャット。
-// (TL: I am the god of cats.) This shows up in the bottom right corner as a graphic so will be translated separately and doesn't need to be part of Neco-Arc's declaration haha.
+// Bottom graphic text: 特別翻訳：わたしはネコの神です
+// (TL: I am the god of cats.)
 God Cat.
 }
 [sha:68be075506f6f13f2af20e9cef6c7a1073eaee8c]{
 -- Page 140, Offset 43020.
 -- さて。今回の死亡ですが、
-Now then. About the cause of death this time,%{n}
+Now then. Do you have any idea what caused%{n}him
 }
 [sha:de470ad049f8d2f25f4ae366c7a513c75355e673]{
 -- Page 140, Offset 43021.
 -- なぜこうなったか分かりますかゴッド？
-how do you explain what just happened, God?
+ to end up dead this time, God?
 }
 [sha:1508849719fa23dee09b87fe610e36bdf95dd612]{
 -- Page 141, Offset 43022.
 -- んー、神だから分かんね。
-// 'I'm a god so I dunno' is what she actually says. That said, it sure is RANDOM and WACKY to make such a dumb statement so it might come across as making no sense. Don't worry though, that's how Neco-Arc is.
+// 'I'm a god so I dunno' is what she actually says.
+// That said, it sure is RANDOM and WACKY to make such a dumb statement so it
+// might come across as making no sense. Don't worry though, that's how Neco-Arc is.
 Don't ask me, I'm just a God.%{n}
 }
 [sha:1647ae29fa8f38fdb6502ceeba902f7af0815c32]{
 -- Page 141, Offset 43023.
 -- 直前に選択肢もなかったし。
 // She's saying there wasn't any choice immediately before the dead end. 'Besides, there wasn't any choices right before.'
-It's not like there were any%{n}choices right beforehand.
+It's not like there were any%{n}choices right before it.
 }
 [sha:53da6fcc07c1e1739b126f03c7aeee0b38f7410b]{
 -- Page 142, Offset 43024.
 -- はい。これはちょっと珍しい、
-Right, this is quite the rare case.%{n}
+Indeed, this is a rather unusual case.%{n}
 }
 [sha:6e5703b6fc7acf0dc4e5640bb09b74146966bd39]{
 -- Page 142, Offset 43025.
 -- 数個前の選択が影響しているパターンです。
-This is an outcome that occurred due to a much earlier%{n}choice.
+This outcome occurred due to a much earlier choice.
 }
 [sha:378a19bc5098590872aa85cda87f2c5408ca8718]{
 -- Page 143, Offset 43026.
 -- ただでさえ深夜の探索は感心できないというのに、
 // The one being lied to that leads to this end is Hisui (not family), and the word used here is お家の方, that is 'person from your house'. Perhaps "It is morally wrong to lie to someone from your home" is good enough?
-It was morally wrong for you to lie to members of your%{n}household,
+Snooping around late at night is bad enough,%{n}
 }
 [sha:ca2373836ceb8300e105ca46c40df1bb27e3cee7]{
 -- Page 143, Offset 43027.
 -- お家の方に嘘までつくのは道徳的にアウト。
- let alone go investigating so late at%{n}night.
+lying to a member of your household about it is%{n}
+downright reprehensible.
 }
 [sha:d5096115eec79a49e762eb01dfe0c50d488f7aac]{
 -- Page 144, Offset 43028.
 -- 心当たりがある遠野くんは該当する選択肢に戻って、
-If you know about the choice that I'm referring to,%{n}
+If you know which choice I'm referring to, then try%{n}
 }
 [sha:12dfe0774a6fcbed579487a5d7259406246132a5]{
 -- Page 144, Offset 43029.
 -- 誠実に対応してみるとよいでしょう。
-then go back to that choice and be more sincere.
+going back and being more sincere.
 }
 [sha:280bdaf20401301a0518bcb20c0e8c2aa281b07e]{
 -- Page 145, Offset 43030.
@@ -90,12 +96,14 @@ Yup, yup. That's exactly right.
 [sha:13343a096e1b8455c3ac17b3e53532d757ec7d10]{
 -- Page 146, Offset 43032.
 -- 見ろよ、あのアタシにそっくりな
-C'mon, take a good look at my beautiful self,%{n}
+I mean, take the vampire heroine that looks%{n}
+just like me,
 }
 [sha:7f80127cfe00fc9fafea25cb7407feaf4d5937b8]{
 -- Page 146, Offset 43033.
 -- 吸血鬼ヒロインのココロのキレイさ……
-who looks just like that vampire heroine...
+ isn't she so beautifully%{n}
+pure of heart?
 }
 [sha:f626d056bb7960af9e0d47a622da3fe359fdbf74]{
 -- Page 147, Offset 43034.
@@ -120,11 +128,12 @@ Speaking of which, is there something that%{n}
 [sha:c6049f64400fa0d51023596414a4d3269c4471f3]{
 -- Page 149, Offset 43038.
 -- あるんじゃないかにゃ～？
-you would like to share with us nya~?
+you'd like to share with us nya~?
 }
 [sha:05ac9c3c4ada35c445b8795c19909bf6276b39dd]{
 -- Page 150, Offset 43039.
 -- ―――シッ！
+// Ah, Ciel sensei is... boxing
 ―――Tch!
 }
 [sha:7d9c13178fb5e42b60f09aa2acc85872a387311a]{
@@ -145,7 +154,6 @@ Oof oof wah st- sto- nyagh-
 [sha:bfe222141949fdd0ea7c46eec1580cae79294f63]{
 -- Page 153, Offset 43043.
 -- ヘッ……それなりに鋭いじゃないのさ……
-// 'Haah... well aren't you nimble' is more the implication here.
 Haah... well, aren't you nimble...%{n}
 }
 [sha:feebc46e605cd3f408d028d3f3d1f852973cb46f]{
@@ -153,20 +161,21 @@ Haah... well, aren't you nimble...%{n}
 -- なるほど……実力は互角……というところ、か……
 I see... I guess we were... evenly matched...
 }
-[sha:f975852e29dce417d0ebcf5e92752c7c06bd8952]{
+[offset:43045]{
 -- Page 154, Offset 43045.
 -- それでは、今回はこのへんで！
-// more like 'that's all for now'
-Well, now that's done and dusted, that's%{n}all for now!
+Well then, that's all for now!
 }
 [sha:e11069d1823da29c3d2dfc6266f8605a33ee76e1]{
 -- Page 154, Offset 43046.
 -- また次のデッドエンドで会いましょう！
- Let's meet again at the%{n}next dead end lesson!
+ I look%{n}
+forward to seeing you again at the next%{n}
+dead end!
 }
 [sha:31df1c3e22301bee68212ce6460e95527049d483]{
 -- Page 155, Offset 43047.
 -- クワッ……隠すのは体重と武器だけにして、おけ……
-// Here Neco-Arc is saying that Ciel in usual cases only hides her weapons and weight. I guess the implication is that she hid her mad punching skillz too?
-Ack... you hide a mean right hook along with your weight%{n}and weapons, ugh....
+Ack... I guess your weapons and weight aren't the only%{n}
+things you've been keeping a secret...
 }
