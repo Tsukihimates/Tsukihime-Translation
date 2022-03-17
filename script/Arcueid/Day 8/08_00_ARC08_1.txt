@@ -1,27 +1,32 @@
 [sha:4b4057bc0a8f2a6f42ea1583b94ef75e0baadf35]{
 -- Page 1, Offset 19663.
 -- その頃、屋敷は大きな遊び場だった。
-In those days, the mansion was a big playground.
+In those days, the mansion was a giant playground.
 }
 [sha:5d57cc8e0d0dda0ac7d98899b142b37016eae93c]{
 -- Page 1, Offset 19664.
 -- 深い海のような森。
-A forest like a deep sea.
+The forest, a deep ocean.
 }
 [sha:f55a1c2c9a724a5fa09f696c927d1904ca96d08c]{
 -- Page 1, Offset 19665.
 -- 高い城のような家。
-A house like a tall castle.
+The house, a towering castle.
 }
 [sha:015fd6302852760ddebc1edc4b94730fc2d28036]{
 -- Page 1, Offset 19666. Mods: @n.
 -- 何日かかっても探険しきれない箱庭で、
-We played around in the miniature garden
+// Hard to find a reference for what exactly is implied by 箱庭, most image results are for literal shoebox diorama gardens.
+// I assume it refers more to like the enclosed side garden you get at 旅館?
+// Implication here being that even the little room-sized gardens are stonking massive?
+// Update: having read further, I think that 箱庭 isn't the dictionary definition so much as a
+// reference to the fact that the gardens are _walled in_. This better matches the refrain at offset 19680.
+The gardens within those grounds would have taken an uncountable number of days to fully explore.
 }
 [sha:f04a315790bd997b16ddf48a0d74fc60ea42d801]{
 -- Page 1, Offset 19667.
 -- ボクたちは遊びまわった。
-that took days to explore.
+We revelled in it all.
 }
 [sha:1f302bd314cdf7f04d0d16389e124a1904292f3f]{
 -- Page 2, Offset 19668.
@@ -31,127 +36,135 @@ Every day was fun.
 [sha:1c9c852a3dd03f17cc095a8a5c3f3c904e7d1c33]{
 -- Page 2, Offset 19669.
 -- おとなになることも知らなかったし、
-We didn't know anything about being an adult,
+We didn't know anything about growing up,
 }
 [sha:368ada945d0216fd5a3e9aa8a8cfc56c4f704689]{
 -- Page 2, Offset 19670. Mods: @n.
 -- 朝と夜はおなじように繰り返されるものなんだって、
-and the idea that the days and nights would always remain the same,
+and the notion that we would carry on in this way, day in, day out,
 }
 [sha:f7116ca8dd32bed5efa098f1695141597a290fb6]{
 -- Page 2, Offset 19671.
 -- うたがいもしなかった。
-was something that we never questioned.
+// This is supposed to be a separate line, but breaks flow pretty awkwardly.
+// Just glue it on the preceding line.
+%{force_glue}
+ was something we never questioned.
 }
 [sha:2424014b127b3a6d2d237cfcd5a984757570bc6c]{
 -- Page 2, Offset 19672.
 -- それは子犬のようにはしゃぎまわった幼年期。
-That was our frolicking, puppy-like childhood.
+It was a childhood of puppy-like exuberance.
 }
 [sha:30acfdf0d20fc92bc40f16698d6fd753b772ace9]{
 -- Page 2, Offset 19673.
 -- ボクらはとても気が合って、最高の遊び仲間だった。
-We got along so well that we became the bestest of playmates.
+We got along so well that we became inseparable playmates.
 }
 [sha:484ae8cb68c18700803ce8d6f115b3db4e40f941]{
 -- Page 3, Offset 19674.
 -- ふりむけばいつもあきはがいて、
-Every time we turned our heads, Akiha was there,
+Every time we looked back, Akiha was there.
 }
 [sha:c76e05459496815887f3e485ccb9408fe0ad6432]{
 -- Page 3, Offset 19675.
 -- 手をふるとはずかしがってかくれてしまう。
-and whenever we waved our hand, she would hide out of embarrassment.
+And whenever we waved, she would hide out of embarrassment.
 }
 [sha:d069b5f26c7a28b9f16f72971ff34349e20b5e45]{
 -- Page 3, Offset 19676.
 -- うん、そんなのもいつもどおり。
-Yeah, that's the way it's always been.
+Yeah, that's how things always were.
 }
 [sha:4b4057bc0a8f2a6f42ea1583b94ef75e0baadf35]{
 -- Page 4, Offset 19677.
 -- その頃、屋敷は大きな遊び場だった。
-In those days, the mansion was a big playground.
+In those days, the mansion was a giant playground.
 }
 [sha:5d57cc8e0d0dda0ac7d98899b142b37016eae93c]{
 -- Page 4, Offset 19678.
 -- 深い海のような森。
-A forest like a deep sea.
+The forest, a deep ocean.
 }
 [sha:f55a1c2c9a724a5fa09f696c927d1904ca96d08c]{
 -- Page 4, Offset 19679.
 -- 高い城のような家。
-A house like a tall castle.
+The house, a towering castle.
 }
 [sha:2f2d6528a78fd7f7ecfb48d9d6cc4b86afcc17d0]{
 -- Page 4, Offset 19680. Mods: @n.
 -- 何日かかっても探険しきれない閉じた世界で、
-We played around in that closed off world
+A closed-off world that would have taken an uncountable number of days to fully explore.
 }
 [sha:f04a315790bd997b16ddf48a0d74fc60ea42d801]{
 -- Page 4, Offset 19681.
 -- ボクたちは遊びまわった。
-that took days to explore.
+We revelled in it all.
 }
 [sha:62571b111da920d0e86945aaec9aaa101a98fdc8]{
 -- Page 5, Offset 19682.
 -- ゆるやかに覚醒する。
-I gently awaken from my sleep.
+I wake up slowly.
 }
 [sha:3bfcd901209998fad4e9a9f4cd02e0c78bdb7c53]{
 -- Page 5, Offset 19683.
 -- 朝の光が、張り付いていた眠りを剥がしていく。
-The morning light strips me off from my perpetual sleep.
+The morning light chips away at my lingering drowsiness.
 }
 [sha:e0846ca3c8b6f9bfb2d7b567c500369928acf9cc]{
 -- Page 5, Offset 19684.
 -- その中で。
-From within that sleep,
+// 'in that state'
+As I lay there...
 }
 [sha:31b512db4d38809dc58e12b13272470586dac5f6]{
 -- Page 5, Offset 19685.
 -- なにか、懐かしい夢をみた気がしていた。
-I felt like I had seen some sort of nostalgic dream.
+I somehow felt as though I'd seen a nostalgic dream.
 }
-[sha:34209719ca290c596bcd97cad96fca8c9353cf33]{
+[offset:19686]{
 -- Page 6, Offset 19686.
 -- 「っ……」
-"Ah..."
+"Guh..."
 }
 [sha:f8e2f2a3ff179d49b5aa0825373f85f0acdd5e1d]{
 -- Page 6, Offset 19687.
 -- 目を覚ました途端、<厭|いや>なモノが視界に入ってくる。
-The moment I wake up, a gruesome thing enters my field of vision.
+No sooner do I wake up than something unpleasant intrudes upon my field of view.
 }
 [sha:b87f91d0c5637288f4f25b09e6610eb3c53b65dd]{
 -- Page 7, Offset 19688.
 -- こめかみの肉と骨をえぐるような、鋭い頭痛。
-A sharp headache that gouges onto the flesh and bones of my temple.
+A sharp headache gouges deep into the flesh and bone beneath my temple.
 }
 [sha:c44e8c5d0957e1df3fad155de83084a2cd3cf6b0]{
 -- Page 7, Offset 19689.
 -- 今朝はあまりにも鮮明で、太陽が庭に落ちてきたようだ。
-The morning is so vivid that it felt like the sun was falling onto the garden.
+This morning is so vivid, it's as though the sun had fallen into the garden.
 }
 [sha:e70837f2168529052daa9b0aab7ab1448082d061]{
 -- Page 7, Offset 19690.
 -- 強い陽射しがくまなく部屋を染め上げている。
-The powerful rays of the sun plasters all over the room.
+Its powerful rays dye the entire room.
 }
 [sha:0e3eb425d15b5cc370b2dc98df8829066dc366bd]{
 -- Page 8, Offset 19691.
 -- 「は……、あ」
-"Ha... ah"
+"Ha... ah."
 }
 [sha:aa91c68c8809c4f44714844160fde8410b67a8bc]{
 -- Page 8, Offset 19692.
 -- 眼鏡だ。枕元の眼鏡に手を伸ばそうと腕に力を入れたが、反応は希薄だった。
-My glasses. I put strength into my arm to reach out for the glasses next to me, but I felt nothing but thin air.
+Right, my glasses.
+ I put strength into my arm to reach for the glasses on my bedside,
+ but it doesn't budge.
 }
 [sha:9a622a9b1b0a615029175b40f61f24fcc0e95260]{
 -- Page 8, Offset 19693.
 -- 手足の感覚がない。うまく命令を送れない。まともに動いている身体箇所は、この思考だけらしい。
-I feel nothing on my limbs. My orders cannot be sent. It seems that my thoughts are the only things that can move in my entire body.
+There's no feeling in my limbs.
+ I can't will them to move at all.
+ It seems like the only part of my body that's actually functioning is my mind.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 9, Offset 19694.
@@ -161,22 +174,22 @@ I feel nothing on my limbs. My orders cannot be sent. It seems that my thoughts 
 [sha:ebad7b2598cea452dd06bbeab9786b621d2b37f6]{
 -- Page 9, Offset 19695.
 -- 目蓋を閉じる事もできず、ただ時間を食い潰していく。
-I can't even close my eyelids. All I could do was watch the time fly by.
+Unable to even close my eyes, I simply let the time tick away.
 }
 [sha:24fd01b19ede12234e7a9dba551e23822ff475b1]{
 -- Page 10, Offset 19696.
 -- 強い光が和らいでいく。
-The strong light diminishes.
+The harsh light softens.
 }
 [sha:76c712bff7a0be20247ac8d3d3ef8622b0ee5b4e]{
 -- Page 10, Offset 19697.
 -- 手足の実感を思い出す。
-I remember the feeling of my limbs.
+I regain feeling in my limbs.
 }
 [sha:9f95e21f1a7507c83c0440537bd9eda9fa8de60f]{
 -- Page 10, Offset 19698.
 -- 大きく息を吸って、ようやく、この視界に<眼|ふ><鏡|た>をかけた。
-I take a deep breath and finally put my glasses over this view.
+I take a deep breath and, finally, stifle this sight by putting on my glasses.
 }
 [sha:36655b729429f21673e7a6174126906a63a518b2]{
 -- Page 11, Offset 19699.
@@ -186,7 +199,7 @@ I take a deep breath and finally put my glasses over this view.
 [sha:1de26a89109ee4af8c49a9235bd9f056ecfcf24c]{
 -- Page 11, Offset 19700.
 -- 息を吐いて、ようやくベッドから体を起こす。
-I breathe out and finally sit up from the bed.
+I breathe out and lift myself upright in bed at last.
 }
 [sha:f8087b4253d6e9b2d979b7d14622b103ba67ad0c]{
 -- Page 12, Offset 19701.
@@ -196,97 +209,104 @@ It's no big deal.
 [sha:bc28de70f3e12286ec4c0663f62577cb78f8da3e]{
 -- Page 12, Offset 19702.
 -- 今の症状は入院時代によくあったものだ。
-These kinds of symptoms happened regularly back when I was in the hospital.
+I used to suffer spells like that fairly often back when I was in the hospital.
 }
 [sha:a54e9ef3a2a1722498e85b7544b202c7c89ab887]{
 -- Page 12, Offset 19703.
 -- 消耗による一時的な視力の低下、手足の感覚の麻痺。おまけにいうと食欲の減退。
-A temporary decline in eyesight due to exhaustion, then a paralyzing sensation on my limbs. On top of that, a decrease in appetite.
+A temporary deterioration in eyesight induced by exhaustion, with an accompanying paralysis of my limbs.
+ As if that wasn't enough, it also does away with my appetite.
 }
 [sha:5b73f76e748da9a96542d768785cf7634d27aa6e]{
 -- Page 12, Offset 19704.
 -- 裸眼でモノを見過ぎると、決まってこれがやってくる。
-When I look at things for too long with my naked eyes, it's obvious that this would occur.
+If I spend too long looking at things with my glasses off,
+ it's a given that I'll end up paying for it like this.
 }
 [sha:a67d002476264ba2eeb39d2a816be7d2ee84a22e]{
 -- Page 13, Offset 19705.
 -- 「けど、今のは―――」
-"But even so, this time is―――"
+"But even so, this time―――"
 }
 [sha:77349ebd9a0b4e29b63e2dad12a81089c7504ffc]{
 -- Page 13, Offset 19706.
 -- 以前よりはっきりと視えていた気がする。
-I have a feeling that I could see it clearly compared to previously.
+I feel like I can see them more clearly than I used to.
 }
 [sha:34ec97402f3392d4408342b5e7e4653b9dafa582]{
 -- Page 13, Offset 19707.
 -- 建物の線は視えにくい。視えはしても薄いもので、今のようにはっきりと見える事は稀だったのに。
-It was difficult looking at the lines of the building. Usually they would appear thin, but this time I could see them with clarity which is very rare.
+The lines on buildings are difficult to see.
+ Even when I can make them out, they're normally quite thin;
+ seeing them as distinctly as I can right now is pretty unusual.
 }
 [sha:6bcbdedf1cfe14bf373928d55fde7b237ff7d33d]{
 -- Page 13, Offset 19708.
 -- こめかみに残る頭痛の余韻は、それこそ銃創のようだ。
-The aftershock that remained on my forehead from the headache was similar to that of a gunshot wound.
+The lingering remains of my headache feel just like a gunshot wound.
 }
 [sha:a2eedf0c447a3d7bcba5e7d8d694c9afd89a60a3]{
 -- Page 14, Offset 19709.
 -- 先生は言った。
-I remember Sensei saying something.
+Sensei said something back then.
 }
 [sha:0b65cff7acec41c66bd96b181fd5a4633e9f47f7]{
 -- Page 14, Offset 19710.
 -- 俺の眼はよくないものを呼ぶかもしれないと。
-That it's possible my eyes could call upon something bad.
+That it's possible my eyes could call forth something bad.
 }
 [sha:7b26f0f10b4e7552cccb0cb9cbe88345071d43b8]{
 -- Page 14, Offset 19711.
 -- アルクェイドは眼を使いすぎるなと言った。
-Arcueid told me not to use my eyes too much.
+Arcueid warned me not to use my eyes too much.
 }
 [sha:1f5ccca6d4e917cdf4c72ec4378b0ee8f779f067]{
 -- Page 14, Offset 19712.
 -- それは脳を―――遠野志貴を壊す行為だと。
-She said that it would be an act of destroying my brain―――an act of destroying Tohno Shiki himself.
+She said to do so would be to destroy my brain―――to destroy Tohno Shiki himself.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 15, Offset 19713.
 -- 「………………」
-".................."
+"........."
 }
 [sha:cb244b743be68ba46f4fb99c10a07eaae815d068]{
 -- Page 15, Offset 19714.
 -- これが人間の身で吸血鬼に関わる代償。
-This was the price I paid for getting involved with vampires as a human.
+This is the price I pay for getting involved with vampires as a human.
 }
 [sha:a75fa4f7d32d4f1a8155dbfbe98eb535b025a6ed]{
 -- Page 15, Offset 19715.
 -- 吸血鬼と対峙する時に危険を冒すのではなく、常から危険を冒していく。
-It's not that I put myself in danger every time I confront a vampire, it's that I've been putting myself in danger from the very beginning.
+The risks I'm taking aren't confined to the times I'm actually going toe-to-toe with a vampire,
+ I'm putting myself in danger every moment of every day.
 }
 [sha:58b6ebfd8334ad49cc744282cf116969f613e8c8]{
 -- Page 16, Offset 19716.
 -- ……今さら確認するまでもない。それを踏まえた上で、俺はアルクェイドに協力したいと思ったんだ。
-...There is no need to confirm it after all this time. More than anything, all I knew was that I wanted to cooperate with Arcueid.
+...I'm not about to start second-guessing myself now.
+ I knew what I was getting into when I decided I wanted to help Arcueid.
 }
 [sha:024d2f31925815f97bb6c35f71838ee9301f4d7e]{
 -- Page 17, Offset 19717.
 -- 「……そうだよな。これぐらい、どうってことない」
-"...That's right. Things like this are not that big of a deal."
+"...That's right. Things like this aren't that big of a deal."
 }
 [sha:89142e6290fb7015599ce85467186276026f452f]{
 -- Page 18, Offset 19718.
 -- だいたい、見て見ぬふりでも渦中にある事は変わらない。
-Besides, looking away does not change the fact that there is a storm coming.
+Besides, even if I were to bury my head in the sand,
+ it wouldn't change the fact that I'm caught in the middle of this turmoil.
 }
 [sha:aad44805e5e7bfd2c86255d9cff234c259bb2412]{
 -- Page 18, Offset 19719.
 -- 吸血鬼を街から一掃する。
-I'll erradicate every single vampire in this city.
+We'll wipe this city clean of vampires.
 }
 [sha:6dba5b0238e3bce7ae44ac35298d304995d23863]{
 -- Page 18, Offset 19720.
 -- 秋葉や親しい人たちの安全のため、仕方なくアルクェイドに手を貸しているにすぎない。
-If I want to protect Akiha and those close to me, I have no choice but to lend a hand to Arcueid.
+If I want to protect Akiha and those close to me, I have no choice but to lend Arcueid a hand.
 }
 [sha:b1c0d017df5cb11a5a3ed130c4c5da65df5c4d6c]{
 -- Page 19, Offset 19721.
@@ -296,12 +316,12 @@ If I want to protect Akiha and those close to me, I have no choice but to lend a
 [sha:b9ede904f4df8fe370abb6749d5bfe19ff6154bc]{
 -- Page 19, Offset 19722.
 -- 気分を一転して、勢いよくベッドから起き上がる。
-I turn over my feelings and vigorously get up from the bed.
+I psych myself up and leap out of bed.
 }
 [sha:acbc68481a20ca6b72c67eb357dce2800185882a]{
 -- Page 19, Offset 19723.
 -- さっさと着替えを済ませて、翡翠に昨夜のお礼を―――
-I'll put on a new change of clothes at once and send my thanks to Hisui for last night―――
+I'll get changed right away, then thank Hisui for last night―――
 }
 [sha:e49bcd6d573c6a009bd8bcb1b47430b8e089119c]{
 -- Page 20, Offset 19724.
@@ -311,40 +331,41 @@ I'll put on a new change of clothes at once and send my thanks to Hisui for last
 [sha:ac068bded48998118810fb67e43053a80d5957d2]{
 -- Page 20, Offset 19725.
 -- そういえば翡翠の姿がない。
-Now that I mention it, Hisui is nowhere to be found.
+Speaking of Hisui, she's nowhere to be found.
 }
 [sha:1137b2547fe8d49530d20f9a43e09c374d1ebc5f]{
 -- Page 20, Offset 19726.
 -- 時刻は朝の７時過ぎだ。
-The time is past 7 in the morning.
+It's past seven o'clock in the morning.
 }
 [sha:b669523a35cb7d269974eda1d7facfcfe9c0de14]{
 -- Page 20, Offset 19727.
 -- いつもなら翡翠が控えていて、起きるよう呼びかけている時間なのに。
-Normally Hisui would be waiting here and calling out to wake me up at this time.
+This is around the time that she'd normally be calling out to me from the side of the room to wake me up.
 }
 [sha:e3c0979e8fed15f95e6479aa887e6588577d3583]{
 -- Page 21, Offset 19728.
 -- 「……寝坊したのかな、翡翠」
-"...I wonder if Hisui stayed up late."
+"...I wonder if she overslept."
 }
 [sha:206a7d0dd3c78f69476395cc101875c5993ffafb]{
 -- Page 21, Offset 19729.
 -- そのわりには、机の上にきちんと着替えの制服が用意されていたりする。
-Despite this, there is still a school uniform neatly prepared on top of the table.
+An unlikely explanation, as my school uniform has still been neatly prepared on top of the desk.
 }
 [sha:6b2b5e0778df3c7c14ca028cb2dd638808dfc80d]{
 -- Page 22, Offset 19730.
 -- なにか他の仕事があったのかもしれない。
-Perhaps she had some other business to attend to.
+Perhaps she simply had other matters to attend to.
 }
 [sha:b66d948c01bcc32ca6bef57ade3c0ef261886e7c]{
 -- Page 22, Offset 19731. Mods: @n.
 -- 気にはなるが自分は与り知らぬ事だ。
-I'm curious, but in the end, it has nothing to do with me.
+I'm curious what, but it's none of my business.
 }
 [sha:d63cdad2f1499796a144b34d92241034b3e0eae0]{
 -- Page 22, Offset 19732.
 -- 今朝は時間もないし、手早く制服に着替えて一階に下りよう。
-Besides I have no time in the morning, so I should quickly change into my uniform and go down to the first floor.
+Besides, I don't have any time to spare this morning.
+ I'd better change into my uniform quickly and head down to the first floor.
 }

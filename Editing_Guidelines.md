@@ -60,6 +60,12 @@ Dr. Arach is a complete weirdo, and something of a *mad biologist*. Conveying he
 
 **Sample sentence:** "Oooh, sublime sugar! You're pervading all five of my senses! You're even making my uterus and my ovaries melt.. I feel it coming! Haah.. Thanks for the meaaal!" (*filename 02_00_ARC02_1B, page 39, line 2802*)
 
+Arach has many different designators. For consistency, use:
+阿良句先生 - Arach-sensei
+阿良句医師 - Dr. Arach
+阿良句博士 - Prof. Arach
+阿良句女史 - Ms. Arach
+阿良句氏 - Arach-shi
 
 
 ### Other characters
@@ -118,20 +124,38 @@ One last thing, it is also possible to add ruby in the English translation where
 Whenever time is mentioned in the script, it should be written in the o'clock format.
 
 For example
-   - > "The night just turned past nine o'clock"
+- > "The night just turned past nine o'clock"
 
 However, if the time has minutes, then leave it as it is.
 
 For example
-   - > "The time is 7:30 AM"
-   - > "The time is 6:33 PM"
+- > "The time is 7:30 AM"
+- > "The time is 6:33 PM"
 
 ### Ellipses
 
 When ellipses are used after a word, leave a space before typing the next word.
 - Example:
-  - > Everything suddenly froze in place... etc etc
+    - > Everything suddenly froze in place... etc etc
 
 When ellipses are used at the beginning of a sentence, do not leave a space.
 - Example:
- 	- > "...I see"
+    - > "...I see"
+
+### Special Terms
+
+Vampire ranks:
+- 死者: The Dead. In Japanese, this is used to refer to both Rank I vampires,
+      and also the group containing all vampires in ranks I to III. When
+      translating this word in a context where the use is confusing, then use
+      'The Dead' to refer to the group, and 'Corpse' to return to Rank I
+      vampires.
+- 屍鬼: Ghoul
+- 不死: Undead
+- 夜属: Nightkin
+- 夜魔: Nightmare
+- 死徒: Dead Apostle
+
+Vampire husbandry related terms:
+- 親基: Usually parent vampire / parent.
+- 親: When used in quotes in the source text, 'Sire'
