@@ -20,22 +20,28 @@ I may have a bit of a hard timing feeling at ease around her,
 -- 外科専門なので外傷も診てもらえる。
 // 外傷 is explicitly _external_ wounds but then in the next sentence he's on to _internal_ bleeding, feels a bit non-sequiturial
 // Also is the 外傷 in question supposed to be his chest?
-Since she specializes in surgery, I should have her examine my wound as well.
+Since she specializes in surgery, I should have her examine my wound.
 }
 [sha:76423a630946e81106bdfda0f2cf6e934bb485da]{
 -- Page 49, Offset 21439.
 -- 昨夜、ノエル先生とのいざこざでどこか内出血しているかもしれないし、念のため診察してもらうのもいい。
-I may have suffered some internal bleeding during the scuffle with Noel-sensi last night, so it'd be good to receive a medical examination just in case.
+There's also a chance I suffered some internal bleeding as a result of my scuffle with Noel-sensei last night,
+ so it might be wise to have her check for that too just to be on the safe side.
 }
 [sha:5f478d054b2411b78b28fc9a3bd0e0b2f9fbaaba]{
 -- Page 50, Offset 21440.
 -- 「ご指名と聞いてやってきたけどぉ。
-"I came here because I heard you called for me.
+"I came because I heard you'd requested me personally, but...
 }
 [sha:1ea5f576a8d6a61b1d5ee0042bfd70475f9c6203]{
 -- Page 50, Offset 21441.
 -- お客さん、悪いところは見当たらないわよぅ？　腕の一本、目玉の一つでもイッちゃってるかと期待して飛んできたのに、これじゃアタシ欲求不満よぅ？　あ、性的な意味もあるけど、おもに知識欲の話ねぇ？」
-But customer, I don't see anything wrong here. I rushed over here expecting an arm or an eye to be blown out, but seeing this makes me rather frustrated. Ah, you could take that as being sexual, but I was mainly referring to my intellectual thirst."
+// Reading お客さん more as a joking honorific than as literal?
+My dear man, there doesn't appear to be anything wrong with you?
+ I rushed over here expecting some excitement, like a blown off arm or a gouged out eye,
+ so I have to say this has left me feeling a little frustrated.
+ Ah, you could take that as being sexual,
+ but I mean it more in terms of my intellectual thirst, mmkay?"
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 50, Offset 21442.
@@ -45,12 +51,14 @@ But customer, I don't see anything wrong here. I rushed over here expecting an a
 [sha:1e42866efac4af006bea5fb358d089cdd0e21912]{
 -- Page 51, Offset 21443.
 -- このように。阿良句博士は不満げに愚痴りながらも、しっかり診察をこなしてくれた。
-Just like that, Professor Arach expresses her dissatisfcation while giving me a thorough medical examination.
+Despite continuing to grumble discontentedly along those lines,
+ Professor Arach dutifully performed a thorough medical examination for me.
 }
 [sha:79531d6da7d352d981a24b895d9a43aad15b3bb7]{
 -- Page 51, Offset 21444.
 -- 心音、脈拍を測ってもらった後、ヴローヴとの一件で不安のあった両脚の経過も診てもらう。
-After measuring my heartbeat and pulse, I had her check the condition of my legs, because I've been worried about them since the Vlov incident.
+I was a little worried about whether my legs were recovering properly after that battle against Vlov,
+ so after she was done listening to my heartbeat and checking my pulse I asked her to give them a once-over as well.
 }
 [sha:4224c5b1b3f386bad680d93e65838e5e3d6db285]{
 -- Page 52, Offset 21445.
@@ -60,17 +68,22 @@ The results were all normal. No problems.
 [sha:00eade398fb36e0172dac454a9f0b0c1253c1e7a]{
 -- Page 52, Offset 21446.
 -- 阿良句博士が“アタシったら無駄骨チャーン！”と唇をとがらせるのもやむなしだ。
-Professor Arach couldn't help but pout as she shouts, 'What am I, Worthless-chan?!'
+// Sisyphean is more like an _endless_ task than a _futile_ one, but it's not far off?
+// Anyway, please end me
+Professor Arach isn't able to contain herself,
+ pouting and grumbling that 'just who am I supposed to be, senorita Sisyphus?'.
 }
 [sha:af8a6f8d26053f6b5d293d1e90e63a1fa413b3f5]{
 -- Page 53, Offset 21447.
 -- 「ま、体温は少しだけ下がってるしぃ、よし、つまんないから一本ぐらいお注射キメておきまショウ！
-"Well, it's true that your body temperature is a little low. Okay, I'm bored, so let's go with a single injection!
+"Well, your temperature is a little low...
+ Okay, this is getting a little boring, so how about I give you an injection or two!
 }
 [sha:c41eca10cb32e3c409f630cfb079fc4573c10c95]{
 -- Page 53, Offset 21448.
 -- んー、今回は試しにプラセンタいってみるぅ？
-Hmm, perhaps I'll try out a placenta this time.
+// Can we not
+Hmm, how do you feel about trying a placenta one this time?
 }
 [sha:340937e40a00389ecaeb6366f4dc8db0e8aa0a5c]{
 -- Page 53, Offset 21449.
@@ -80,32 +93,43 @@ Normally this is used as a nutrient for women, but I highly recommend it."
 [sha:ca6abe6d303e4eb6b421d3d737d96ac32de4b929]{
 -- Page 54, Offset 21450.
 -- プラセンタ……女性の胎盤のエキスだ。
-A placenta... she must be talking about an extract from a female's placenta.
+// This is kinda redundant written in EN, since both プラセンタ and 胎盤 render the same.
+// Initial one dropped.
+...I guess she's talking about the extract derived from a woman's placenta.
 }
 [sha:98fe7ecb4ea3077fffdbdb53445cf7e486e90e2c]{
 -- Page 54, Offset 21451.
 -- 肌をよくする美容効果が主とされるが、実際は疲労回復の促進剤でもあり、老化を抑える効果もあるという。
-It's mainly used for its cosmetic effect of improving the skin, but in reality, it can be used as a stimulant for exhaustion recovery and it also has the effect of reducing aging.
+// TL note: nothing in this VN is medical advice
+People mostly use it as a beauty treatment to improve their skin,
+ but it can actually also help you recover from fatigue,
+ and even combat the effects of ageing.
 }
 [sha:968e1323733ef228770ae016c50d3e25633c2e20]{
 -- Page 55, Offset 21452.
 -- 「お願いします。以前お世話になっていた医院でも、たまに打ってもらっていましたから」
-"Please do so. Even back in the clinic that took care of me , I used to receive injections occasionally."
+"Yes please.
+ I've actually had it a couple of times before,
+ back at the clinic that used to take care of me."
 }
 [sha:8d4c1651761311b395eec6da8f54d4cbe9c95c08]{
 -- Page 56, Offset 21453.
 -- 「あらあら。話が早くて助かるわぁ。さっすが病弱少年、痛いのは慣れているのねぇ？」
-"Ara ara. I'm glad you're so easy to convince. As expected of a fragile, young boy. You must be pretty used to pain."
+"Ara ara. I'm glad you're so easy to convince.
+ You must be pretty used to pain, hm?
+ Just what I'd expect of a young man with a poor constitution."
 }
 [sha:c9002fc9c57a4d076bb5e60da21e2ffffdd9f183]{
 -- Page 56, Offset 21454.
 -- 「慣れてませんよ。基本は内服薬でしたし。注射はたまにしかありませんでした」
-"No I'm not. I usually took oral medication. I only received injections every now and then."
+"I wouldn't say that.
+ The bulk of my treatments were taken orally.
+ I only received injections every now and again."
 }
 [sha:7ee662b0a7127539293e2b249512ec1cb8d01d6b]{
 -- Page 57, Offset 21455.
 -- 「ふむふむ。はーい、じゃあもう一度おててをだしてー。
-"I see, I see. Right, show me that arm of yours once more.
+"I see, I see. Right, let me see that arm of yours again.
 }
 [sha:c9071870c32420cfcce3016e5467bb50f73e1725]{
 -- Page 57, Offset 21456. Mods: @n.
@@ -115,6 +139,8 @@ Okay, zakyuun ♡
 [sha:9d1d7ba6f3d54d1b42cefd8484e01c8d69861f28]{
 -- Page 57, Offset 21457. Glued.
 -- 患部ごと患者のハートをイチコロよぉ♡」
+// Forced newline since the heart doesn't work great as a sentence separator
+%{n}
 Taking down the affected region and the patient's heart in one fell swoop ♡"
 }
 [sha:e71a1dc4165b0f632b20dfff4bee693c00042c93]{
