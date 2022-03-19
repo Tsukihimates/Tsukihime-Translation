@@ -362,12 +362,13 @@ Gouging out his inner organs one by one.
 [sha:56dd665bbd801de43e7ab9de30eb48ff8c4ddeb1]{
 -- Page 451, Offset 19390. Glued. Mods: @n.
 -- もちろんそのたびに死に至る激痛が獲物を襲う。内臓をすべて消費した後は耳と鼻をそぎ落とす。変わり果てた自分の姿を見て獲物がモウ殺シテと嘆願する。
-Of course, every single time, the prey is struck with debilitating death-dealing pain. Shearing off the nose and the ears, once the inner organs have been completely expended, The prey, upon seeing his utterly changed form, will beg to be killed.
+//Be careful of overflow of that page
+Of course, each time, the prey is struck with debilitating death-dealing pain. Shearing off the nose and the ears, once the inners have been completely expended. The prey, upon seeing his utterly changed form, will beg to be killed.
 }
 [sha:e3048536b20af97e936beeb8bab957c582d1d408]{
 -- Page 451, Offset 19391. Glued. Mods: @n.
 -- 最後に頭蓋をパックリと割る。大皿のようなその容器に聖水を流し込む。
-Finally, spitting open the skull and pouring holy water into the platter-like container.
+Finally, spitting open the skull and pouring holy water into the platter.
 }
 [sha:371ff6392a9cccc63a5c349a8d2bdf794e81fe7c]{
 -- Page 451, Offset 19392. Glued. Mods: @n.
@@ -810,6 +811,7 @@ It's time to give up on that world where only the talented have a place. You're 
 [sha:e258dc2176534efed39820f799d2bc51f4a50262]{
 -- Page 484, Offset 19478.
 -- 火のような反発心を抑える。
+//Be careful of overflow on that page
 She holds back her red-hot rebellious spirit.
 }
 [sha:74a447654be6d434805f8ac6b520f2a8b27c5792]{
