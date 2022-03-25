@@ -15,7 +15,8 @@ jobs:
           ref: v5.16
           path: deepluna
       - name: Lint
-        run: python3 -m virtualenv venv
-        run: . venv/bin/activate
-        run: pip3 install -r ${{ github.workspace }}/requirements.txt
-        run: ${{ github.workspace }}/deepluna/luna_linter.py --db-path ${{ github.workspace }}/translation/luna_db.json --script-path ${{ github.workspace }}/translation/script/
+        run: |
+          python3 -m virtualenv venv
+          . venv/bin/activate
+          pip3 install -r ${{ github.workspace }}/requirements.txt
+          ${{ github.workspace }}/deepluna/luna_linter.py --db-path ${{ github.workspace }}/translation/luna_db.json --script-path ${{ github.workspace }}/translation/script/
