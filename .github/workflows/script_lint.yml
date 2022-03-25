@@ -16,5 +16,5 @@ jobs:
           path: deepluna
       - name: Lint
         run: |
-          pip3 install -r ${{ github.workspace }}/requirements.txt
+          pip3 install -r ${{ github.workspace }}/deepluna/requirements.txt
           ${{ github.workspace }}/deepluna/luna_linter.py --db-path ${{ github.workspace }}/translation/luna_db.json --script-path ${{ github.workspace }}/translation/script/
