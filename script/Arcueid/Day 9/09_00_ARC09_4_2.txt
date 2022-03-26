@@ -1,7 +1,7 @@
 [sha:b46fa1f2faa249b73faf4cb9cade44d730a3edea]{
 -- Page 10017, Offset 21948.
 -- ……秋葉が俺の体を心配してくれるのは嬉しいが、アルクェイドとの約束は破れない。
-...I'm appreciate that Akiha is concerned for my health,
+...I appreciate that Akiha is concerned for my health,
  but I can't break my promise with Arcueid.
 }
 [sha:ad92d3180f72e2a4f295300d64ab7691b8d76495]{
@@ -50,7 +50,7 @@ Akiha slumps her shoulders as she breathes a sigh of relief.
 [sha:c9b101994ba6da643ba919ad099564bec9ff4b79]{
 -- Page 239, Offset 21957.
 -- 「いや、食事はちょっと。琥珀さんには悪いけど、食べられそうにない。今夜はこのまま眠らせてもらうよ。
-"Hmm, dinner might be a bit much,...
+"Hmm, dinner might be a bit much...
  Give my apologies to Kohaku-san, but I don't think I can stomach eating anything right now.
  I'll be better off going to sleep as-is tonight.
 }
@@ -76,7 +76,7 @@ Ah, but I should able to manage something liquid.
 // Plum sando where
 // 白菜 and キャベツ folded together
 Vegetable juice...
- A mixture of carrots, tomatoes, cabbage, red bell peppers, plums, and others is to be prepared at once."
+ A mixture of carrots, tomatoes, cabbage, red bell peppers, plums, and the like is to be prepared at once."
 }
 [offset:21962]{
 -- Page 241, Offset 21962.
@@ -150,12 +150,16 @@ I unsteadily make my way over to the desk.
 [sha:c4eef44e4cfb021924128b0f71dc783d42d75bca]{
 -- Page 245, Offset 21975. Mods: @n.
 -- 引き出しからナイフを取って、上着を羽織る
-I take the knife from the drawer, and put on my jacket
+// There's a problem if you glue the next line (.) onto this one when this
+// line is otherwise exactly 55 chars, which is that the . gets broken to
+// the next line (it's a new 'sentence', after all). Moved it up here and
+// nopped the next string.
+I take my knife from the drawer, and put on my jacket.
 }
-[sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
+[offset:21976]{
 -- Page 245, Offset 21976. Glued.
 -- 。
-.
+%{nothing}
 }
 [sha:9ca5aa3ebfd335f3ff6030b422dd7b0e2069bc84]{
 -- Page 245, Offset 21977.
@@ -171,7 +175,7 @@ I take the knife from the drawer, and put on my jacket
 [sha:2d9838d6eb83c7103b198bfa9dc209499cf8ceb8]{
 -- Page 247, Offset 21979.
 -- 「……なんだ、結局」
-"...well, I tried."
+"...Well, I tried."
 }
 [sha:8ebfd86b18b4c6297a1c4af70acb4d40885fe623]{
 -- Page 247, Offset 21980.
@@ -311,7 +315,7 @@ I really don't get it...
 -- Page 257, Offset 22004.
 -- 「だって、約束だろ。アルクェイドの手伝いをするって言ったんだから、これぐらいじゃさぼれない。
 "Well, I made a promise, right?
- I said that I would help you put, so I'm not going to bail over something like this.
+ I said that I would help you out, so I'm not going to bail over something like this.
 }
 [sha:3207552e6f2b4e171862ec7d09d010aa179ad8d8]{
 -- Page 257, Offset 22005.
@@ -445,7 +449,7 @@ Still, if something like that is true...
 -- Page 265, Offset 22027.
 -- この七年間、毎朝、罰のように思い知っていた。
 If that's the case,
- I've been cruelly reminded of that fact every morning for the past seven years.
+ then every morning for the past seven years has been a cruel %{i}memento mori%{/i}.
 }
 [sha:0d26bdce5a4dc4f37e4290ba118d64f74776ed44]{
 -- Page 266, Offset 22028.
@@ -470,7 +474,7 @@ Arcueid suddenly approaches me.
 [sha:60cc8cbb5f2231bdaabcc70ecca920f09b14e5f8]{
 -- Page 267, Offset 22032.
 -- 本気で俺の事を心配してくれているのか、無防備に体を近づける。
-Maybe she is really is genuinely concerned about my health.
+Maybe she really is genuinely concerned about my health.
  Whatever the reason, she unguardedly brings her body close to mine.
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
@@ -497,11 +501,8 @@ My brain is once again assailed by dizziness,
 }
 [sha:a6558b9f71e2a2a64b4ebe3f997234dad0508fe0]{
 -- Page 268, Offset 22037.
--- 今まで意識しないよう努めていた、
--- アルクェイドの胸の柔らかさとか、
--- 肌の白さとか、キレイな金の髪とか、
--- そういった女性的な艶めかしさが。
-I'd been doing by best not to be too aware of her feminine allure―――
+-- 今まで意識しないよう努めていた、アルクェイドの胸の柔らかさとか、肌の白さとか、キレイな金の髪とか、そういった女性的な艶めかしさが。
+I'd been doing by best to not be too aware of her feminine allure―――
 the softness of her breasts,
  her pure white skin,
  her beautiful golden hair...
@@ -805,7 +806,7 @@ When I noticed that there was a figure in front of me,
 }
 [sha:a24bba37d706393d011a03cf898e238d81818708]{
 -- Page 290, Offset 22094.
--- 相手が普通ではないと理解しながら、sただ動揺するだけだった。
+-- 相手が普通ではないと理解しながら、ただ動揺するだけだった。
 As I realized that my opponent was something extraordinary,
  I could do nothing but tremble.
 }
