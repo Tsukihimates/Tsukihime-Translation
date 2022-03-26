@@ -1,32 +1,35 @@
 [sha:b46fa1f2faa249b73faf4cb9cade44d730a3edea]{
 -- Page 10017, Offset 21948.
 -- ……秋葉が俺の体を心配してくれるのは嬉しいが、アルクェイドとの約束は破れない。
-...I'm happy that Akiha is concerned for my health, but I can't break my promise with Arcueid.
+...I'm appreciate that Akiha is concerned for my health,
+ but I can't break my promise with Arcueid.
 }
 [sha:ad92d3180f72e2a4f295300d64ab7691b8d76495]{
 -- Page 236, Offset 21949.
 -- 「……わかった、今日はおとなしく眠るコトにする」
-"...Fine, I'll stay here and sleep quietly tonight."
+"...Alright, I'll behave.
+ Nothing but rest for me tonight."
 }
 [sha:c933701b3d401b634040da35b7fb2f54389422ef]{
 -- Page 236, Offset 21950.
 -- 上半身をベッドに倒す。
-I recline my upper body onto the bed.
+I lie back down on the bed.
 }
 [sha:4b412d48d7cd42c06f885968a46b214e829a1f4f]{
 -- Page 237, Offset 21951.
 -- 「本当ですか？　あとになって部屋を抜け出したりするのもナシですよ？」
-"Do you mean that? You're not going to sneak out of the room afterward, right?"
+"Do you mean that? You're not going to sneak out of the room later, right?"
 }
 [sha:07d4b69f6993a2682946853be01b9b7bd54a059a]{
 -- Page 238, Offset 21952.
 -- 「……あのな。こんな体で、秋葉たちの目を盗んで外に出られると思うか？」
-"...Come on. With my body like this, do you really think that I could leave behind your back?"
+"...Come on.
+ Do you really think I'd be able to give you the slip with my body in this state?"
 }
 [sha:c7389f19502a942208dcd46e4c7febaa940d174a]{
 -- Page 238, Offset 21953.
 -- 「―――ええ、言われてみればそうですね」
-"―――Yeah. When you put it like that, you're right."
+"―――Yeah. You make a valid point."
 }
 [sha:0fff1b4fc2b906e1e3fc5b2ba6c2fd66ad29cb0f]{
 -- Page 238, Offset 21954.
@@ -41,22 +44,26 @@ Akiha slumps her shoulders as she breathes a sigh of relief.
 [sha:2408c6e3c3b8687c458117b64512b38e7275eb64]{
 -- Page 239, Offset 21956. Glued. Mods: @x.
 -- 兄さん、夕食はどうしますか？」
-Nii-san, what do you want to do about dinner?"
+// Leading space for glue
+ Nii-san, what do you want to do about dinner?"
 }
 [sha:c9b101994ba6da643ba919ad099564bec9ff4b79]{
 -- Page 239, Offset 21957.
 -- 「いや、食事はちょっと。琥珀さんには悪いけど、食べられそうにない。今夜はこのまま眠らせてもらうよ。
-"Well, dinner is a bit... I feel sorry for Kohaku-san, but I can't eat today. I'll just stay here and sleep tonight.
+"Hmm, dinner might be a bit much,...
+ Give my apologies to Kohaku-san, but I don't think I can stomach eating anything right now.
+ I'll be better off going to sleep as-is tonight."
 }
 [sha:d2f66bd8daf9977933196e8894e342852f161baf]{
 -- Page 239, Offset 21958.
 -- ああ、でも飲み物くらいなら通るから、野菜ジュースとかあったら助かる」
-Ah, but I can at least drink, so it would be great if I had vegetable juice or something."
+Ah, but I should able to manage something liquid.
+ If we have any vegetable juice that would go down great."
 }
 [sha:91efc6fb50ccfde6fff0c652efd5b2a6125f5138]{
 -- Page 240, Offset 21959.
 -- 「わかりました。翡翠、そう琥珀に伝えてきて」
-"...Understood. Hisui, go tell Kohaku what he said."
+"Understood. Hisui, please relay what he said to Kohaku."
 }
 [offset:21960]{
 -- Page 241, Offset 21960.
@@ -66,7 +73,10 @@ Ah, but I can at least drink, so it would be great if I had vegetable juice or s
 [sha:e3967e80201e85420bf9e019c9960075d828c757]{
 -- Page 241, Offset 21961.
 -- 野菜ジュース……人参、トマト、白菜、キャベツ、赤ピーマン、ウメ、などのミックスを、至急」
-Vegetable juice... carrots, tomatoes, cabbage, red bell peppers, plums, and others will be mixed shortly."
+// Plum sando where
+// 白菜 and キャベツ folded together
+Vegetable juice...
+ A mixture of carrots, tomatoes, cabbage, red bell peppers, plums, and others is to be prepared at once."
 }
 [offset:21962]{
 -- Page 241, Offset 21962.
@@ -76,12 +86,14 @@ Vegetable juice... carrots, tomatoes, cabbage, red bell peppers, plums, and othe
 [sha:fecbdfe64f794483d72167f9df80be91467e5b08]{
 -- Page 241, Offset 21963.
 -- あんまり聞き慣れないけど、琥珀さんスペシャルかな？
-I'm not really familiar with what she just said, but is it some sort of Kohaku-san special?
+I've never heard of a recipe like that before, is it some sort of Kohaku-san special?
 }
 [sha:38d9eb005eed7c0ab4a0c5fa4c1a124db9395edd]{
 -- Page 242, Offset 21964.
 -- 「では私も退室します。なにかありましたら遠慮なく呼んでください。何時だろうとすぐに駆けつけますから」
-"In that case, I will also take my leave. If there is anything, please don't hesitate to call me. I will be right there regardless of the time."
+"Well then, I will also take my leave.
+ Please don't hesitate to call me if you need anything.
+ I will come running, regardless of whatever time it may be."
 }
 [sha:2798ca8e2c850bf81e5a86dd4c84beb159efd9c5]{
 -- Page 242, Offset 21965.
@@ -106,17 +118,18 @@ I mutter to myself before sitting up.
 [sha:5684dbfa7323cf3f063516748b83823182ce62ae]{
 -- Page 243, Offset 21969.
 -- 明かりがついていないのに、視界が白黒に点滅した。
-Even though the lights aren't on, my vision flickers between black and white.
+// Bright flash vfx that's really more white than black.
+The lights aren't on, but my vision still flashes white.
 }
 [sha:ac2fc96e1c568995cf41a37d8c463a4ff30028f9]{
 -- Page 244, Offset 21970.
 -- 体を起こしただけで意識が遠のく。
-My consciousness fades from simply sitting up.
+Simply sitting up is enough to make me lightheaded.
 }
 [sha:76d25d8759594a4f65cc66e2043e2bee356291d4]{
 -- Page 244, Offset 21971.
 -- 今回の貧血はただの貧血じゃない。
-This time, the anemia is different from the usual.
+This anemia attack isn't like the ones I've had before.
 }
 [sha:66fb78e4bb2838b4c6bc05b16a667362ac02a52e]{
 -- Page 244, Offset 21972.
@@ -126,17 +139,18 @@ I understand that, but even so, I have to go to the park.
 [sha:e20dd55e5428cd71358900d1c56f88b421bbd09d]{
 -- Page 244, Offset 21973.
 -- ……アイツの事だから、放っておいたらバカ正直に何時間も待つに決まっている。
-...We're talking about her after all. If I leave that idiot hanging, she'll definitely continue waiting for however many hours.
+...This is her we're talking about, after all.
+ If I leave that idiot hanging, she'll definitely keep on waiting for as many hours as it takes.
 }
 [sha:debc5ea9739e532c105c23fec4e49921539e2386]{
 -- Page 245, Offset 21974.
 -- おぼつかない足取りで机までたどり着く。
-I arrive at the desk with faltering steps.
+I unsteadily make my way over to the desk.
 }
 [sha:c4eef44e4cfb021924128b0f71dc783d42d75bca]{
 -- Page 245, Offset 21975. Mods: @n.
 -- 引き出しからナイフを取って、上着を羽織る
-I take the knife from the drawer and put on my jacket
+I take the knife from the drawer, and put on my jacket
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 245, Offset 21976. Glued.
@@ -151,17 +165,19 @@ I take the knife from the drawer and put on my jacket
 [sha:f3ee1618fd0ab14a4216d287c770e0a25df9579c]{
 -- Page 246, Offset 21978.
 -- ……あと少し、せめて満足に走れるぐらい体力を回復させないと、翡翠に見付かって部屋に戻されてしまう。
-If I don't at least recover enough to at least walk properly, Hisui will spot me and send me back to my room.
+...I need to wait until I've recovered enough to at least walk properly,
+ otherwise Hisui will catch me and send me back to my room.
 }
 [sha:2d9838d6eb83c7103b198bfa9dc209499cf8ceb8]{
 -- Page 247, Offset 21979.
 -- 「……なんだ、結局」
-"...What. In the end..."
+"...well, I tried."
 }
 [sha:8ebfd86b18b4c6297a1c4af70acb4d40885fe623]{
 -- Page 247, Offset 21980.
 -- 昨日よりもっと遅刻して、アルクェイドに怒られそうだ。それはそれで悪くはない。
-Arcueid will surely be mad if I arrive even later than yesterday. If that's the case, then it's not so bad.
+Arcueid will probably be mad at me if I arrive even later than I did yesterday.
+ Still, I guess that isn't the end of the world.
 }
 [sha:08538e18cf69f81ce4baa558ba1f6a97efa143b7]{
 -- Page 247, Offset 21981.
@@ -171,7 +187,9 @@ I sit down on the bed.
 [sha:da33e695f119c5471d2b9665e5be23c1cd349685]{
 -- Page 247, Offset 21982.
 -- １時間。あと１時間だけ体を休めれば、歩ける程度には回復する筈だ。
-One hour. If I rest my body for just one hour, I should be able to recover enough to be able to walk.
+One hour.
+ If I rest for just one more hour,
+ I ought to recover to the point where I can walk around again.
 }
 [sha:bb2f0bcef2c570e4d8bf530a0a6f03a2ed595dc3]{
 -- Page 248, Offset 21983.
@@ -181,7 +199,8 @@ I arrive at the park just before midnight.
 [sha:759a2b8c625549b3cdab441ebf6ae4a65281bca4]{
 -- Page 248, Offset 21984.
 -- 歩けるようにはなったものの、牛の歩みでさらに１時間近くかかってしまった。
-I was able to walk, but it took me around another hour to arrive due to my snail's pace.
+I may have regained the ability to walk, but can only manage a snail's pace.
+ It took me almost an hour to get here as a result.
 }
 [sha:4ad3330d7852b28dc5611ce5c00e4d7f070d4775]{
 -- Page 249, Offset 21985.
@@ -191,12 +210,16 @@ I was able to walk, but it took me around another hour to arrive due to my snail
 [sha:cc16d29c845937bb942d8e5031829bd4ac5243e0]{
 -- Page 249, Offset 21986.
 -- 肩で呼吸をしながら周囲を見渡す。
-I look around my surroundings, breathing heavily.
+I cast my eyes around my surroundings,
+ shoulders heaving from my labored breathing.
 }
 [sha:a4f087c24fd67996c1510530bbe7ba93ead9d22f]{
 -- Page 250, Offset 21987.
 -- 夜の公園。待ち合わせ場所である休憩所に、ぽつんと白い人影が立ち尽くしている。
-The night park. In the resting area where we were supposed to meet, a lone white figure stands still.
+// 休憩所 is like 'rest stop' / 'rest house', but weblio says pavilion is
+// maybe ok and that fits a lot better with the park topography
+The twilit park.
+ A solitary white figure stands motionlessly by the pavilion where we'd arranged to meet.
 }
 [sha:5d5f0c2b53866e99a06d9cc45c4f39a3af29e1ac]{
 -- Page 251, Offset 21988.
@@ -206,22 +229,23 @@ The night park. In the resting area where we were supposed to meet, a lone white
 [sha:d1e69b705cf2716131f3d21d6e8f0ac0b707ccd2]{
 -- Page 251, Offset 21989.
 -- アルクェイドもやってきた俺に気がついたようだ。
-It seems like she's also noticed that I've arrived.
+It seems like she's noticed that I've finally arrived.
 }
 [sha:4fc825964911943db6d5a3663709b25aeaaa90d7]{
 -- Page 251, Offset 21990.
 -- カツカツと足音をたてて、一直線に向かってくる。
-With the sound of heavy footsteps, Arcueid heads toward me in a straight line.
+Arcueid starts stomping over to me, her footsteps echoing loudly.
 }
 [sha:c15afb21ab52706736eb011e7d57146dcd1fcb4e]{
 -- Page 252, Offset 21991.
 -- 「今夜も壮大な意地悪、恐れ入るわ。
-"You're awfully cruel tonight too, I'm honestly amazed.
+"Your cruelty knows no bounds tonight as well. I'm honestly amazed.
 }
 [sha:8ab28a7828c2c5783c8bc10c334fe3e903490ad2]{
 -- Page 252, Offset 21992. Mods: @n.
 -- 来てくれたからいいけど、２時間もオーバーした理由をたっぷり
-It's good that you came, but there better be a good reason for being two hours late
+It's great that you decided to turn up,
+ but you'd better have a good reason for being two hours late
 }
 [sha:f3fe33ebb37b3654286eb03e37ce4a4cff61673f]{
 -- Page 252, Offset 21993. Glued.
@@ -231,7 +255,7 @@ It's good that you came, but there better be a good reason for being two hours l
 [sha:5f4134c7f708fa2fd8e4d2cd6da48d74c81466b9]{
 -- Page 252, Offset 21994.
 -- 人の顔を見るなり、アルクェイドは絶句している。
-As soon as she sees my face, Arcueid is at a loss for words.
+Arcueid is rendered speechless the second she sees my face.
 }
 [sha:d32ab2cc76bac36b662a9bdcbd651831fc6be21d]{
 -- Page 253, Offset 21995.
@@ -241,67 +265,77 @@ As soon as she sees my face, Arcueid is at a loss for words.
 [sha:97692d9dab21ecceda30061aa48060304af79133]{
 -- Page 253, Offset 21996.
 -- 顔は真っ青だし、生気も全然感じられないし……もしかして、先に死者探しをしてきちゃった？」
-Your face is pale, and you don't look lively at all... Don't tell me that you were searching for the Dead earlier?"
+Your face is pale as the grave,
+ and you don't seem lively at all...
+ Don't tell me you were out searching for the Dead until now?"
 }
 [sha:32c5fe616fa6ff7df2cab038ee218943994d7ddf]{
 -- Page 254, Offset 21997.
 -- 「どんな冒険野郎だよ俺は……。
-"Do I look like some adventure-loving freak...?
+"What kind of adventure-loving freak do you take me for...
 }
 [sha:f1eff95fec3c41e2aac99e6ef95e27c580436489]{
 -- Page 254, Offset 21998.
 -- そんなんじゃなくて、ちょっと貧血ぎみなんだ。
-It's not that, it's just that I feel a little anemic.
+You're way off the mark. I'm just feeling a little anemic, that's all.
 }
 [sha:eea19d18466e100ceea53c1538555849e96c5e62]{
 -- Page 254, Offset 21999.
 -- 時々こういう風になるからそう驚かなくていい。
-Things like this happen occasionally, so there's no need to be so surprised..
+I suffer from spells like this from time to time,
+ it's nothing to be too surprised about.
 }
 [sha:b4f96d41c307ddc2720558134f0ad7b6e2589fec]{
 -- Page 254, Offset 22000.
 -- ……それよりごめんな、２時間も待たせちまって。できるだけ早く、来たつもりなんだけど」
-...And also, I'm sorry. For making you wait two hours. I tried to come here as fast as possible."
+...More importantly, I'm sorry.
+ I tried to get here as fast as I could, but I still kept you waiting for two hours."
 }
 [sha:9150d9223839fd37d1f4a89877a17d2f9f4adfbf]{
 -- Page 255, Offset 22001.
 -- 「う、うん、わたしは別に、気にしてないけど……」
-"R-Right. I don't really mind though..."
+"A-Ah, well, I don't really mind I suppose..."
 }
 [sha:5479d9df4c4f6f387a7bf68f7e0698c4369a8a74]{
 -- Page 256, Offset 22002.
 -- 「……さっきまでずっと、なんで遅れてるんだろうって考えていたけど……。
-"......Until a moment ago, I spent the whole time wondering why you were late.
+"I may have spent the entire time wondering why you were so late, but...
 }
 [sha:0e574e6ee8ee8491a3674b06dd5ef7e3d71194a9]{
 -- Page 256, Offset 22003.
 -- ……ほんと、わかんない。そんな体で出てくるなんてヘンだよ、志貴」
-...I don't get it. It's strange that you would come all the way here in that state, Shiki."
+I really don't get it...
+ Why would you come all the way here with your body in that state, Shiki?"
 }
 [sha:9824a6e9adcee0eb46cb04b82b46bb16249b582a]{
 -- Page 257, Offset 22004.
 -- 「だって、約束だろ。アルクェイドの手伝いをするって言ったんだから、これぐらいじゃさぼれない。
-"Well, we promised, right? I said that I would help you out, so I wouldn't skip out because of something like this.
+"Well, I made a promise, right?
+ I said that I would help you put, so I'm not going to bail over something like this.
 }
 [sha:3207552e6f2b4e171862ec7d09d010aa179ad8d8]{
 -- Page 257, Offset 22005.
 -- それに、ほら。昨日の事もあるし。おまえをひとりにしていたら、それこそどんな事件が追加されるか」
-And besides. There's the stuff from yesterday as well. If I had left you alone, who knows what would have happened."
+And I mean, that's not all.
+ Just think about what happened yesterday.
+ If I'd let you go off alone, who knows what might have happened to you."
 }
 [sha:c102dcb47c5a17654575cd1060ed92ebe9d8b12a]{
 -- Page 258, Offset 22006.
 -- 「それは嬉しいけど……後半のは余計だけど……。
-"Well I'm happy, but... that latter part is a bit unnecessary...
+"Well, I'm happy to hear you say that...
+ except for that last bit, though."
 }
 [sha:651f7caedba80f30b6ca068c58862ad6231ff6a7]{
 -- Page 258, Offset 22007.
 -- やっぱりおかしい。こんなの、いくらなんでも酷すぎる」
-No, it's still strange. This is too cruel no matter how you look at it."
+All the same, it just doesn't sit right.
+ Say what you will, but it still seems overly cruel."
 }
 [sha:1241e34bd79eacb9f7a38e4168116c52ce88de1b]{
 -- Page 258, Offset 22008.
 -- 「酷いって、なにが……？」
-"Too cruel? What is...?"
+"Cruel? What is...?"
 }
 [sha:48f7f6a5f59aac0b8838c7cee2b7b487cbd7ebdd]{
 -- Page 259, Offset 22009.
@@ -311,17 +345,21 @@ No, it's still strange. This is too cruel no matter how you look at it."
 [sha:be72a14a6d028c4536f591c177f2ee6708246fcc]{
 -- Page 259, Offset 22010.
 -- 人間の命は不安定なものだけど、志貴はその揺れ幅が大きすぎる」
-Human life is an unstable thing, but the way yours fluctuates is way too much."
+Human lives may be naturally unstable things,
+ but even by that standard yours is far too turbulent."
 }
 [sha:5d04bb363862bd9a187ee83510ae77bf345eec5d]{
 -- Page 260, Offset 22011.
 -- 「遠野志貴は普段からとても死に近い所に立っている。
-"You stand in a position where you're exceedingly close to death at all times.
+"You're in a position that has you brushing up against death on a regular basis.
 }
 [sha:32e6715999d3e50a767b2671a3a01fc67f382720]{
 -- Page 260, Offset 22012.
 -- それが直死の魔眼の反動か、今日までの運命の代償かは分からないけど……波のように生と死の境界を行き来している。
-I don't know whether it's the backlash from the Mystic Eyes of Death Perception or compensation for the fate you've lived until today... but you're travelling between the boundaries of life and death like a wave.
+// Last clause modulated to what I believe is an appropriate idiom
+Maybe it's the backlash from your Mystic Eyes of Death Perception,
+ or maybe it's simply the price you pay for the life you've been fated to live...
+ Either way, you walk a tightrope with life on the one side and death on the other.
 }
 [sha:e3713c00e3732b6daa8c7ba1467ebdbf28bc9af8]{
 -- Page 260, Offset 22013.
@@ -336,7 +374,8 @@ That's why you can't just brush off your anemia, thinking 'I was fine last time,
 [sha:6111ebff366ec2ecb4db1fd81deb5cb5e13b5704]{
 -- Page 261, Offset 22015. Glued.
 -- きっと一度、そういった要因の臨死を体験したからでしょうね。
-I'm sure it's because you've had such a near-death experience at least once before.
+// Leading space for glue
+ I assume this is because you had a near-death experience resulting from that sort of cause before.
 }
 [sha:f26d72cd5da1a9fbb75fe01d8da3366954ba9547]{
 -- Page 261, Offset 22016.
@@ -346,18 +385,21 @@ But on the other hand, your resistance to internal causes of death is virtually 
 [sha:ebc0da66ca19a9d22f9e575c1bc46127b5234b1f]{
 -- Page 262, Offset 22017.
 -- 「頻繁に貧血で倒れるのは<身体|からだ>が行っている防護策なのよ、きっと。
-// 行っている but i think this has the same meaning more or less and reference to previous line
-"Your frequent collapses from anemia must be your body's way of preventing you from crossing over the boundary. I'm sure of it.
+"The anemia attacks you keep having are almost certainly your body's way of trying to protect itself.
 }
 [sha:124025b85dc3944ce04bf31143e8b4b988a78058]{
 -- Page 262, Offset 22018.
 -- 人間は内側の異常には気づけないけど、あなたの身体はそれを本能的に感知している。“これ以上は取り返しがつかなくなる”という時、強制的に<自身|あなた>を休ませよう、という風に」
-Most humans can't notice any abnormalities from the inside, but your body can sense them through instinct. Like how your body forces you to rest when you can't take any more strain."
+Humans aren't able to perceive abnormalities that occur inside of them,
+ but your body is instinctively able to tell that something's wrong.
+ When it senses that you're nearing the point of no return,
+ this is its way of forcing you to take a break."
 }
 [sha:7af5301c268b02dfa195f74799ca5f92655def01]{
 -- Page 263, Offset 22019.
 -- 「今の貧血だって、本来なら死んでいてもおかしくない断線のはず。覚醒できたのは<偶々|たまたま>運が良かったからと思いなさい」
-"Even your current bout of anemia should've normally been a disruption strong enough to kill you. The fact that you were able to wake up should be considered an accidental stroke of luck."
+"The anemia you're suffering from now is so debilitating it honestly wouldn't be surprising if it killed you.
+ You need to appreciate that it's only by some stroke of luck that you were even able to wake up at all."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 264, Offset 22020.
@@ -367,62 +409,69 @@ Most humans can't notice any abnormalities from the inside, but your body can se
 [sha:08401b137db212cfff33d3688d149c0558a534ab]{
 -- Page 264, Offset 22021.
 -- 目から鱗……までは言いすぎだけど、なるほど、と頷いてしまった。
-...It might be a bit too much to call this eye-opening, but regardless, I nod my head in understanding.
+...I wouldn't go so far as to call this a revelation,
+ but I still nod my head in understanding.
 }
 [sha:9adc788cba0c576afd44da6af5b5d8e95b2d6f68]{
 -- Page 264, Offset 22022.
 -- 今まではパソコンの<強制終了|シャットダウン>のようなものと思っていたけど、逆の見方もあるのか。
-I used to think of it like a computer shutting down, but I guess there are other ways to look at it.
+Up until now I'd thought of it like a computer being forcibly shut down,
+ but I guess you could take a different perspective on it.
 }
 [sha:c165cebded7eb2de0a23b0d551727b486e2fc511]{
 -- Page 264, Offset 22023.
 -- この貧血は虚弱体質ではなく、自分自身の命を守る為の安全装置ではないのか、という仮説。
-In other words, a hypothesis that states that this anemia is not a result of a weak constitution, but due to the body acting as a safety device in order to protect my life.
+For instance, the hypothesis that rather than being the result of a weak constitution,
+ this anemia is actually a safety mechanism my body employs in order to protect my life.
 }
 [sha:ce75f1bff2c13b475b040447565efcfea772bc18]{
 -- Page 265, Offset 22024.
 -- 「うーん……なんか大げさな物言いだけど、」
-"Hmm... it sounds a bit over the top, but..."
+"Hmm... it sounds a little far-fetched, but..."
 }
 [sha:d41f8a0427c585da5aabd18d5be204cbd18e6e72]{
 -- Page 265, Offset 22025.
 -- けど、そんなコトは、
-But something like that...
+Still, if something like that is true...
 }
 [sha:e752bcb70f610cc7ba4bd73864cb9bf53ef123a3]{
 -- Page 265, Offset 22026.
 -- 「つまり、貧血になってる時は、指先一つでコロッと逝きやすいってコト？」
-"In other words, whenever I'm having a bout of anemia, I can easily die at the touch of a finger, right?"
+// 逝く is not a death-first definition, so using an idiom here
+"So, does that mean that whenever I start feeling anemic,
+ all it would take is a little extra poke to send me over the edge?"
 }
 [sha:6e85488e3a5390b063725f58d337c5e120ecd357]{
 -- Page 265, Offset 22027.
 -- この七年間、毎朝、罰のように思い知っていた。
-I've been reminded of it every morning for the past seven years like it was a punishment.
+If that's the case,
+ I've been cruelly reminded of that fact every morning for the past seven years.
 }
 [sha:0d26bdce5a4dc4f37e4290ba118d64f74776ed44]{
 -- Page 266, Offset 22028.
 -- 「もうっ、わたしは本気で忠告してるの！
-"Geez, I'm trying to give you a serious warning!
+"Geez, I'm giving you a serious warning here, you know!
 }
 [sha:775fc83d31e413a8c577d801808da5f47f88b0af]{
 -- Page 266, Offset 22029.
 -- でも来てくれてありがとう！
-But even so, thanks for coming!
+That isn't to say I don't appreciate you coming though!
 }
 [sha:e1ac5df8ca55c058836facfb815a0034c1203ac7]{
 -- Page 266, Offset 22030.
 -- 今夜はもう帰って、ゆっくり体を休めなさい！」
-You should go back home tonight and get some rest!"
+But tonight you need to go home and get some rest, you hear me?"
 }
 [sha:6224dac78858a46cff617765c047d1e265f0da49]{
 -- Page 267, Offset 22031.
 -- ぐっ、と体を寄せてくるアルクェイド。
-Arcueid leans her body close to mine.
+Arcueid suddenly approaches me.
 }
 [sha:60cc8cbb5f2231bdaabcc70ecca920f09b14e5f8]{
 -- Page 267, Offset 22032.
 -- 本気で俺の事を心配してくれているのか、無防備に体を近づける。
-She approaches me completely defenseless, perhaps out of genuine concern for my health.
+Maybe she is really is genuinely concerned about my health.
+ Whatever the reason, she unguardedly brings her body close to mine.
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 267, Offset 22033.
@@ -432,7 +481,7 @@ She approaches me completely defenseless, perhaps out of genuine concern for my 
 [sha:d5974e165a326cace5d0672f9568b62b780bd220]{
 -- Page 267, Offset 22034.
 -- 体を引こうとするより先に、アルクェイドの胸が俺の胸に触れる。
-Before I could pull my body away, Arcueid's chest comes into contact with mine.
+Before I have a chance to pull myself away, I feel her chest brush against mine.
 }
 [sha:bb017bbd6191a074d20369204169ef2ff802e8a2]{
 -- Page 268, Offset 22035.
@@ -442,17 +491,25 @@ Before I could pull my body away, Arcueid's chest comes into contact with mine.
 [sha:2d6e7f7e234dbf3b4658294058ac57cc6acc70cb]{
 -- Page 268, Offset 22036.
 -- いつもの眩暈とは違った立ち眩みが、脳内に駆け巡る。
-Although it's different from the usual dizziness, it runs around the insides of my brain.
+// Anemia reified over 眩暈 here for flow
+My brain is once again assailed by dizziness,
+ but this time my anemia has nothing to do with it.
 }
 [sha:a6558b9f71e2a2a64b4ebe3f997234dad0508fe0]{
 -- Page 268, Offset 22037.
--- 今まで意識しないよう努めていた、アルクェイドの胸の柔らかさとか、肌の白さとか、キレイな金の髪とか、そういった女性的な艶めかしさが。
-I tried my best to remain unaware of it up until now, whether it be the softness of her breasts, her pure white skin, her pretty golden hair, or her feminine charm.
+-- 今まで意識しないよう努めていた、
+-- アルクェイドの胸の柔らかさとか、
+-- 肌の白さとか、キレイな金の髪とか、
+-- そういった女性的な艶めかしさが。
+I'd been doing by best not to be too aware of her feminine allure―――
+the softness of her breasts,
+ her pure white skin,
+ her beautiful golden hair...
 }
 [sha:4d334c75946a687d1c246d74c8776427dee052bb]{
 -- Page 269, Offset 22038.
 -- 「ごめん。アルクェイド、ちょっと離れてくれ」
-"Sorry. Arcueid, could you move away for a bit?"
+"Sorry. Arcueid, could you step back a bit?"
 }
 [sha:74bffd08113f7ced7cfa5c57e6bf52e01f4735a9]{
 -- Page 270, Offset 22039.
@@ -462,17 +519,19 @@ I tried my best to remain unaware of it up until now, whether it be the softness
 [sha:ef0979b9138605377de185b33b64936d759a8589]{
 -- Page 270, Offset 22040.
 -- 「なにいまさらそんなこと言ってるんだ。アルクェイドのコトを信じないワケがないだろ」
-"Why are you asking that after all this time? There's no way that I wouldn't trust you."
+"Where's that coming from all of a sudden?
+ There's no way I wouldn't trust you by now."
 }
 [sha:9a70ae93586a4ea4d19012ab9436331dacbd1fea]{
 -- Page 271, Offset 22041.
 -- 「うそ。じゃあなんで視線を逸らしているの」
-"Liar. In that case, why are you looking away?"
+"Liar. Why are you trying to look the other way then?"
 }
 [sha:9e61e7d45f9a78aaeef2cdd510b287b906267911]{
 -- Page 271, Offset 22042.
 -- 「だから、あくまで俺の個人的な理由でちょっと離れてほしい。……そう近くに来られると、俺も男だから、困る」
-"I mean, I need you to move away, at least for my own personal reasons... I'm a guy, so it troubles me when you get too close."
+"Please, I need to you to give me some space for uh... personal reasons.
+ I'm a guy you know, I can't help but get a little flustered if you're so close."
 }
 [sha:615b6815debe7412918020aa99cb5f40c8e4376d]{
 -- Page 272, Offset 22043.
