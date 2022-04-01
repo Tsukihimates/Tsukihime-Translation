@@ -29,7 +29,7 @@ At times like this, nothing beats the movie theater. But just to reiterate, this
 [sha:1828c4bc99fcd845cd21aa0259bb350d6b55533a]{
 -- Page 123, Offset 24572.
 -- アルクェイドと並んで日中の街を歩く。
-I walk through the daytime city with Arcueid by my side.
+I walk through the daylit city with Arcueid by my side.
 }
 [sha:14a4851db7da59ad24d5519fccef6ff88852f8fb]{
 -- Page 123, Offset 24573.
@@ -45,7 +45,8 @@ Needless to say, it's because Arcueid is the sort of beautiful woman you don't c
 [sha:e01b1e768923ed9d1ba91c653dfba3f1502f1b63]{
 -- Page 124, Offset 24575.
 -- 周りからそういう反応をされると余計に意識してしまい、さっきからアルクェイドが投げてくる質問にまったく返答できていない。
-With that sort of reaction from our surroundings, I'm getting so self conscious that I'm unable to respond to the questions Arcueid has been hurling at me.
+With all the extra eyes on me,
+ I've gotten so self conscious that I'm unable to respond to the questions Arcueid has been hurling at me.
 }
 [sha:dab2cf9293d47861b13f4b3bc443e9fb16f589c1]{
 -- Page 125, Offset 24576. Mods: @k, @e.
@@ -71,7 +72,7 @@ See that? That's the movie theater we're headed to."
 [sha:851557aca4be96c0bd0e77e8342a987603ef6b03]{
 -- Page 127, Offset 24580.
 -- 「映画館……ふぅん、映画を観ようってことなんだ」
-"A movie theater... hmm, so we're watching a movie."
+"A movie theater... Hmm, so we're watching a movie."
 }
 [sha:b867fdfefc65f712a6a6848e61fc96526c4560d9]{
 -- Page 127, Offset 24581.
@@ -288,13 +289,19 @@ I raise my eyebrows. Why that all of a sudden?
 [sha:39dc29c75e61718113c6e26956e6369b32f0cbf6]{
 -- Page 143, Offset 24621.
 -- ……と。ちょっと離れた壁際にいる男女二人組が、そんな遊びをしているところだった。
-...And so, the man and woman duo ended up playing that game near the wall.
+// This is referring to a _different_ couple, which is where Arc gets the idea.
+// Clearer with the CG as reference.
+...I look behind her. Standing a little ways away by the wall is another couple, engrossed in a game of shiritori.
 }
 [sha:cc4160738fd5a89b35b382bde8f409811edf1209]{
 -- Page 143, Offset 24622.
 -- あいしてる、ルアマンド、どこまでも、モンテスキュー、と数珠つなぎに続く単語に、俺でなくとも目眩を覚えるだろう。
 // I think ルアマンド is supposed to be ルマンド (lumonde), a type of bourbon cookie? I don't know what else it could be.
-<Aishiteru|I   l o v e   y o u >, <ruamondo|l u m o n d e >, <dokomademo|w h e r e v e r >, <montesukyuu|M o n t e s q u i e u >... Such a string of words is enough to make anyone dizzy, not just me.
+<Aishiteru|I   l o v e   y o u   >,
+ <ruamondo|l u m o n d e   >,
+ <dokomademo|w h e r e v e r   >,
+ <montesukyuu|M o n t e s q u i e u   >...
+ I doubt I'm the only person that would be dizzy after hearing a string of words like that.
 }
 [sha:6e56844da414dd2fd1cc8ce51978bbc2fa5389c9]{
 -- Page 143, Offset 24623.
@@ -304,19 +311,17 @@ This is why couples who don't pay attention to the people around them are so...!
 [sha:f328e979dafc576e5e8bc9f29bf5fbc2d874d993]{
 -- Page 144, Offset 24624.
 -- 「やめよう。しりとりは良くない」
-"Let's stop. I don't like Shiritori."
+"Let's not. I don't like shiritori."
 }
 [sha:a2408070c8dfd3e7cf5c0ff52ea4950aa85b6bea]{
 -- Page 144, Offset 24625.
 -- 「なんで？　映画待ちのカップルはしりとりをするものだってあの人たち言ってたけど？」
-// I'm not really sure who あの人たち are but Shiritori doesn't appear anywhere else
-// in the arc route other than the prologue. Maybe the あの二人 of 24627
-"But why? Those people said that couples like to play it while waiting for a movie."
+"But why? The people over there said that couples like to play it while waiting for a movie."
 }
 [sha:a0c16d10be393f558738ec8e88f84d969c1830d7]{
 -- Page 145, Offset 24626.
 -- 「そんなのはただの戯言だ、気にするな。だいたい、しりとりで時間つぶしなんて旧時代にも程がある。携帯でネットニュースでもあさってなさい」
-"That's a load of nonsense, forget it. Besides, playing Shiritori to kill time? You can only get so old-fashioned. Go look up news on your phone or something."
+"That's a load of nonsense, forget it. Besides, playing shiritori to kill time? You can only get so old-fashioned. Go look up news on your phone or something."
 }
 [sha:2940d875e2189b51ad5ce7244ff077509e9cf6d6]{
 -- Page 145, Offset 24627.
@@ -336,12 +341,13 @@ Besides, I'm bad at that game. I get sad when I play it. That's the only thing I
 [sha:7de2ead59fc425720294f96b2dbf223b38d700f3]{
 -- Page 146, Offset 24630.
 -- 「志貴、しりとりに弱いんだ？　語彙、少ないの？」
-"Shiki, you're pretty weak at it, huh? Is it because your vocabulary is too small?"
+"You aren't very skilled at it? Is it because your vocabulary is too small?"
 }
 [sha:a2b3aa4798ea91316c257db28dfade434ab6e92b]{
 -- Page 147, Offset 24631.
 -- 「弱いんじゃなくて苦手なんだよ。っていうかつまんないだろ、言葉を繋げても。
-"I'm not weak, I'm just not good at it. Or rather, it's boring right? Stringing words together that is.
+"I'm not unskilled, I'm just not good at it.
+ Plus like, it's boring right? You're just stringing words together.
 }
 [sha:9b32945836432deafd2436ce8d551d0b0b9b9569]{
 -- Page 147, Offset 24632.
@@ -351,7 +357,8 @@ Besides, I'm bad at that game. I get sad when I play it. That's the only thing I
 [sha:0c6ffc06368f1cba6e6e57881feb1782841326ae]{
 -- Page 148, Offset 24633.
 -- 「それぐらい知ってるわ。志貴はわたしのこと、なんにも知らない女だって思ってるのね」
-"I know that much at least. You think I'm just some woman who doesn't know anything, don't you?"
+"I'm aware of how it works, thanks.
+ You think I'm just some utterly clueless woman, don't you?"
 }
 [sha:9fd21ef1643feaf3d4696a535a4bf70c9f751d3f]{
 -- Page 148, Offset 24634.
@@ -366,7 +373,7 @@ Besides, I'm bad at that game. I get sad when I play it. That's the only thing I
 [sha:375d8f98c78ba4a9b18d86c10b4331de1e8c4d95]{
 -- Page 150, Offset 24636.
 -- アルクェイドはぷい、と顔を逸らして映画館に入っていく。
-Arcueid turns her face away exaggeratedly and enters the theater.
+Arcueid spins on her heel and heads into the theater.
 }
 [sha:c8682a9ca51ff28254ccb23776a18112bba6d2c9]{
 -- Page 150, Offset 24637.
@@ -376,7 +383,8 @@ Arcueid turns her face away exaggeratedly and enters the theater.
 [sha:f0429f8c5b5ada34ff85ad1991b564df19eb67b2]{
 -- Page 150, Offset 24638.
 -- お姫様を映画館に連れてきても、退屈に思われるだけだったみたいだ……。
-Even if I take a princess out to a movie, it seems that she only finds it boring...
+Even though I brought the princess all the way to the movie theater,
+ it seems she doesn't find it interesting after all...
 }
 [sha:86dbf02a67e9ecf45c1e28c670c968d297578f93]{
 -- Page 151, Offset 24639.
@@ -416,7 +424,7 @@ Perhaps she also would've been happier if it had been an action or a horror movi
 [sha:615e8cd915ea7d8f11b004efd0c26e0e8ab1b8a0]{
 -- Page 153, Offset 24646.
 -- 「あのさ、アルクェイド。今日のはたまたま、向いてな―――」
-"Hey Arcueid. It's just that today happened to be―――"
+"Hey, Arcueid. I know the one we saw today wasn't―――"
 }
 [sha:1b89d9380d44d7b14165f3cff736df5035c91617]{
 -- Page 154, Offset 24647.
@@ -432,7 +440,7 @@ Perhaps she also would've been happier if it had been an action or a horror movi
 [sha:fe1e3bc83e211004c7666e7a0e2c04858df8204e]{
 -- Page 155, Offset 24649.
 -- 「いや、でも」
-"Well, but..."
+"Eh, but..."
 }
 [sha:516d05a142f93b94267f5c84086372b6e66e274d]{
 -- Page 155, Offset 24650.
@@ -447,12 +455,14 @@ Fun and boring are subjective, but was %{i}that%{/i} really that fun?!
 [sha:2c3ad44be50145b8739c772e881b136ccaf83d43]{
 -- Page 156, Offset 24652.
 -- そりゃあ知識としては知っていたけど、そんなの瑣末な空想でしかなかったみたい」
-Sure, I had some intel about it earlier, but it seems that my understanding was nothing more than some meager daydream."
+I had some intel on what to expect, sure,
+ but the real thing was far beyond anything I could possibly have imagined."
 }
 [sha:2c073cc6c3eac695af58a12a5522128afc91c329]{
 -- Page 157, Offset 24653.
 -- 「暗がりっていうのがいいのかな。大きい音なのにうるさくなかったし、志貴がとなりにいるのも楽しかったし。
-"Perhaps it was the darkness that was so great. The sound was loud, but somehow it wasn't overbearing, and it was also fun sitting next to you.
+"Maybe being in the dark is what made it so special.
+ The sound was loud, but somehow it wasn't overbearing, and it was also fun sitting next to you.
 }
 [sha:05cfe1b7f0827e17590cc3379879f6777558daea]{
 -- Page 157, Offset 24654.
@@ -512,7 +522,7 @@ If you wanted something like that, there are much more interesting films out the
 [sha:e3c81434fc3eaeda3e3f297dbecaa4e5c7eeb439]{
 -- Page 162, Offset 24665.
 -- 「……うーん、総合点は低いんじゃないかな……。
-"...Hmm, I think it's because your standards are a bit too low...
+"...Hmm, I think your standards may just be a bit low.
 }
 [sha:4c0b2bc3fb3c0bdaaa637c78073c5effa1a60571]{
 -- Page 162, Offset 24666.
@@ -522,7 +532,7 @@ They're not showing them right now because they're out of season, but the major 
 [sha:9e320ad985fb00ccbc57872f30de54b2417bf1e2]{
 -- Page 163, Offset 24667.
 -- 「びっくり」
-"I'm surprised."
+"No way."
 }
 [sha:3b749f3f6031cb740d1145afc4d1f85cffe4864f]{
 -- Page 163, Offset 24668.
@@ -532,22 +542,25 @@ They're not showing them right now because they're out of season, but the major 
 [sha:74ebc7b6dcd95b612e054de7b0b79fe0ec83d0e6]{
 -- Page 164, Offset 24669.
 -- 驚いたというより、呆れた。
-She's more astonished than surprised.
+I'm just as amazed as she is surprised.
 }
 [sha:daac8f5abfc8e352fba693bf2d8cbcc9fc4b98b3]{
 -- Page 164, Offset 24670.
 -- アルクェイドのやつ、観る前は冷めていたからさぞかし文句を言ってくるかと思えば、映画ひとつで子供みたいにはしゃいでいる。
-I thought for sure she would complain after acting so cold before seeing it, but now she's frolicking over a single movie like a little kid.
+She'd been acting so cold about the movie going in that I fully assumed she'd come out complaining about it,
+ but instead she's like an excited child.
 }
 [sha:5065c1f50e05c2ff959fb3d29aacd43c292b445f]{
 -- Page 165, Offset 24671.
 -- 「……残念だな。昨日までなら文句なしにいい映画がやってたんだ。そんなに喜ぶと知っていれば、夜のうちに連れて来てたのに」
-"...That's too bad. There was a perfectly good movie that was in theaters until yesterday. If I had known that you would enjoy it so much, I would have taken you here at night."
+"...It's a shame. There's a recent movie that was really top-notch, but they stopped showing it in theaters yesterday.
+ If I'd known that you would enjoy it so much, I'd have taken you the other night."
 }
 [sha:5ebddcf1a43d2d2926cd149a654a73eabcd6e2ea]{
 -- Page 166, Offset 24672.
 -- ……なんというか。ありがとうと感謝される為じゃなく、そうなったらこいつがどんな笑顔を見せてくれるのか、純粋に気になってしまった。
-...How do I say this? It's not because I wanted to thank her or send my gratitude, but because I was genuinely curious about what her smile would look like if she did see it.
+...I have to admit, I didn't think of it because I wanted to thank her, or show her my gratitude.
+ It's more that I genuinely wanted to see how she'd smile after seeing a movie like that.
 }
 [sha:f3fa5df417a9024b85bbae4e8e5d3dd4a5fc4120]{
 -- Page 167, Offset 24673.
@@ -562,7 +575,7 @@ Arcueid slumps her shoulders in disappointment.
 [sha:131be96387f3af7a51e7c8f594f7d818d39a809f]{
 -- Page 167, Offset 24675.
 -- 「ほんとだな。なんだかカラぶってばっかりだ」
-"I know, right? It's like we've been taking losses all this time."
+"I know, right? It's like we just keep striking out."
 }
 [sha:15ac15383fe23a19dfcdd38434ac4cc853e4b15c]{
 -- Page 167, Offset 24676.
