@@ -17,7 +17,7 @@ There's no doubt in my mind as to our destination.
 -- Page 10008, Offset 24682.
 -- なにより、ヴローヴと戦った日からずっと<燻|くすぶ>っていた大いなる野望が俺にはある。
 // Shiki has a MIGHTY NEED
-This all-encompassing desire has been smouldering in my chest ever since that day we found against Vlov.
+This overwhelming desire has been smouldering in my chest ever since that day we fought against Vlov.
 }
 [sha:9fad6a5fedf5cd2ecf9ae92a375f3059da291d75]{
 -- Page 170, Offset 24683.
@@ -79,7 +79,7 @@ We've almost reached our destination.
 [sha:6b3a8d43b0e943eae4c3400fe2620f910c660d97]{
 -- Page 173, Offset 24694.
 -- あとは大通りから離れて、人気のない路地裏に出るだけなんだけど―――
-All that's left to do now is to slip away from the main drag and into one of the less travelled back alleys―――
+All that's left now is to slip away from the main drag and into the less travelled back alleys―――
 }
 [sha:80c7ce281ac568ddee54dd4e16841228a851aea2]{
 -- Page 174, Offset 24695.
@@ -107,7 +107,7 @@ I feel like we didn't attract nearly so much attention during the night."
 // I asked Petrikow about 自然保護 and he said he was ok with "natural camouflage". Alternative
 // suggestion: crypsis.
 My natural camouflage is wearing thin at the moment.
- I were alone, I wouldn't stick in people's minds even during the day,
+ If I were alone, I wouldn't stick in people's minds even during the day,
  but right now, I'm here with you.
 }
 [sha:0a9afc9d0198f01b3b5e1d8e8f2a4cbbf18cdc89]{
@@ -270,7 +270,7 @@ Though... There aren't many people out there who should know about this place...
 -- Page 186, Offset 24730.
 -- 寝る前にネットを見てたら、ここ、一年くらい前に映画のロケ地に使われてたんだって。
 While I was browsing the net before bed,
- I discovered that they shot a film here a about a year ago.
+ I discovered that they shot a film here about a year ago.
 }
 [sha:a6ee1a4656f4db1c68dc161156022532b7467184]{
 -- Page 186, Offset 24731.
@@ -334,12 +334,12 @@ Arcueid is glaring daggers at me.
 [sha:2a9bed5b135de65bd6095096a7d5246a688dabda]{
 -- Page 191, Offset 24742.
 -- しかし軽蔑や失望のニュアンスは感じられない。
-But her gaze doesn't seem to contain any tinge of scorn or disappointment.
+But her gaze doesn't appear to be tinged with scorn or disappointment.
 }
 [sha:64534658f3ba57772848851054afab1e0d63811f]{
 -- Page 191, Offset 24743.
 -- どうも、ここに至るまでの俺の言動に怒っているようだ。
-Instead, it seems that she's upset with the underhanded tactics I used to bring her here.
+Instead, it seems she's upset with the underhanded tactics I used to bring her here.
 }
 [sha:0699147dde2de9c2b16bd373ccbc4af1befaa945]{
 -- Page 191, Offset 24744.
@@ -752,6 +752,7 @@ Acting on something other than reason,
 [sha:3c84233c39422a50ed8531cbebf85950223cfc43]{
 -- Page 217, Offset 24819.
 -- 「すみません。ここ私有地なんですけど」
+// lint-off:LintPageOverflow This is actually a pagebreak.
 "Pardon me. But this area is private property."
 }
 [sha:e4b9fc85c8fd6f25fff49ed2a42e7fb60b1664ad]{
@@ -864,7 +865,7 @@ Although you were a third year and I was a first year.
 [sha:345fc13e30c23be81ab012bcdb5946d6d77675d8]{
 -- Page 225, Offset 24841.
 -- 面識はありません。保健室で何回かすれ違ったぐらい」
-We didn't know each other. We only passed by each other in the infirmary a few times."
+We didn't know each other. We only passed by one another in the infirmary a few times."
 }
 [sha:92f101cb12b9acf0e99f1c21442dd9d12520bbe0]{
 -- Page 226, Offset 24842.
@@ -1030,7 +1031,7 @@ It's only been two hours since then.
 [sha:2d1349e027414e8c51fb67ae12159a3d41e5368a]{
 -- Page 237, Offset 24872.
 -- 好奇心の塊みたいなアルクェイドの要望に応えて、駅前デパートをはしごする結果となった。
-In order to satiate Arcueid's curiosity, we ended up visiting every store around the station.
+In order to satiate Arcueid's curiosity, we ended up visiting every store in the vicinity of the station.
 }
 [sha:c3c7daa3a2421e2b001cbbaeadd8997824f2e5e3]{
 -- Page 238, Offset 24873.
@@ -1041,6 +1042,6 @@ All of the attractions here may have been familiar to me,
 [sha:aa195bf5cf78f50bf1aaccb2ebeb343d8f7ca929]{
 -- Page 238, Offset 24874.
 -- 大きなトラブルこそなかったものの、デパートを出るまでアルクェイドは楽しそうだった。
-Arcueid seemed to thoroughly enjoy herself the entire time we were hopping in and out of the department stores,
- and we didn't run into any major issues even once.
+Not only did she seem to thoroughly enjoy herself the entire time we were hopping in and out of the department stores,
+ but we didn't run into a single major issue.
 }
