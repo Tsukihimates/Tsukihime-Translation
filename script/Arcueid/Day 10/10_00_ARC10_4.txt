@@ -198,12 +198,13 @@ Arcueid lets out a miserable sigh.
 [sha:4ed1d1201cd51cf75c4279056e8f384ab776c675]{
 -- Page 309, Offset 25038.
 -- 「それは理論だけしか知らない人の言葉でしょう。
-"That's something a person with only theory says, right?
+// 理論だけ inverted for flow
+"That's something only a person without any real experience would say though, right?"
 }
 [sha:8073135028d6a5ec635bf1ec629b95aa0de28aec]{
 -- Page 309, Offset 25039.
 -- ……まあ、ちょっと前までのわたしがそうなんだけど」
-...Well, I was like that until a short while ago."
+...Well, I guess that included me up until recently."
 }
 [sha:40dcf5dc2c518e4175f3154eede69667774da25b]{
 -- Page 310, Offset 25040.
@@ -218,18 +219,22 @@ Arcueid's facial expression grows darker and darker.
 [sha:58b71adc544e3d3bdfae244d9408713072ba453e]{
 -- Page 310, Offset 25042. Glued. Mods: @x.
 -- アルクェイドにつられてか、俺も気持ちが沈んでしまった。うまく言えないが、こいつのそういう顔を見るのはイヤだった。
-Perhaps it's because I'm drawn to Arcueid, but even I'm starting to feel depressed. I can't put it into words, but seeing her face like that makes me feel bad.
+I must've got caught up in the moment with Arcueid. I'm starting to feel depressed as well.
+ I don't feel like I could eloquently express %{i}why%{/i}, but I just can't bear seeing her face like this.
 }
 [sha:6187b5f15e1df274a5699c35836434597a58c0bf]{
 -- Page 311, Offset 25043.
 -- 「早計じゃないか？　たんにさ、理論だけで経験を補えるヤツと、経験で理論を覆せるヤツがいるだけだと思うけど？
-"Isn't that conclusion bit premature, though? I think it's simply that there are those who make up for lack of experience with theory alone, and those who overturn theory with their experience.
+"Isn't that conclusion a bit premature, though?
+ I think it's simply that there are those who make up for a lack of experience with theory alone,
+ and those who overturn theory with their experience.
 }
 [sha:98e3857d6483cac905dd4185ea65d4d8dfbe05e7]{
 -- Page 311, Offset 25044.
 -- ほら、周りを見ろよ。この店だけでもこれだけ違う人たちがいるんだ。いろんなヤツがいるんだから、誰もが自分と同じじゃないだろ」
-// the archer class really is made up of archers.
-I mean, look around us. Even in this place alone, there are so many different people. It's precisely because everyone's so different that no two people are the same."
+I mean, look around us.
+ In this shop alone we have such a breadth of different people.
+ And even among all those different people, none of them are the same as me, right?"
 }
 [sha:c40ba9c1e3fce3334817ee32648bcf03058b8361]{
 -- Page 312, Offset 25045. Mods: @n.
@@ -239,27 +244,30 @@ I mean, look around us. Even in this place alone, there are so many different pe
 [sha:6aee881a8e65402b455876a4e0627bdbb5166290]{
 -- Page 312, Offset 25046. Glued.
 -- 志貴がマジメなコト喋ってる」
+// Leading space for glue
  you're saying something serious for once."
 }
 [sha:1096e3ccfe7f99dc56a9e79e3a3ee23c29e1e032]{
 -- Page 312, Offset 25047.
 -- 「そっちがマジメな話をしたから、こっちもそれに付き合ってるんですよ。話の腰を折らないでくれ」
-"You're the one talking about a serious subject, I'm just trying to do the same. Please don't break the flow of our conversation."
+"You're the one that brought up a serious subject, I'm just following your lead.
+ Please don't derail the conversation now."
 }
 [sha:d346597600a4b300b4de4104ba3f673f9cfad6c2]{
 -- Page 312, Offset 25048.
 -- せっかく、おまえが自分の話をしてくれているんだから。
-It's because you finally decided to talk about yourself.
+Especially not now that you've finally decided to talk about yourself.
 }
 [sha:16e19fd2ba346f9b3e897bfffcb9edaa78aadc41]{
 -- Page 313, Offset 25049.
 -- 「うん、知ってる。志貴ってわたしの話したいコトを、話したい時にちゃんと付き合ってくれるって。
-"Yeah, I know. I know you'd pay attention when I have something I want to talk about.
+"Yeah, I know.
+ I know that you're there for me when I have something I want to talk about, whenever I want to talk about it.
 }
 [sha:4313f89d7a0b1415104dd55a10a5c56dec2b0f83]{
 -- Page 313, Offset 25050.
 -- いつもは怒鳴り散らすけど、深刻になれば話を聞いてくれるでしょう？」
-Even though you yell at me all the time, you'll always listen when things get serious, right?"
+Even though you yell at me all the time, you always listen when things get serious, right?"
 }
 [sha:2aa59549385e40154c71a5aa95af58dd12e6abaa]{
 -- Page 314, Offset 25051.
@@ -274,7 +282,7 @@ I can't say it out loud, but her smile really isn't vampire-like at all.
 [sha:360576089921dcaa81eb0a76e139a3282e9ce29a]{
 -- Page 314, Offset 25053.
 -- ……それはそれとして、今までそんなに怒鳴り散らしてたかな、俺……。
-...Did I really yell that much up until now?
+...Have I really been yelling at her that often?
 }
 [sha:9cf5204c9c3009a382ad8c448765c24d6f8a4cba]{
 -- Page 315, Offset 25054. Mods: @n.
@@ -289,27 +297,33 @@ I can't say it out loud, but her smile really isn't vampire-like at all.
 [sha:842134609fbfd05e698032687784a1dfd9d14c8f]{
 -- Page 315, Offset 25056.
 -- わたしには自分しかいらない。自分だけが正しくあればいいって、そんなふうにしか考えられない」
-'I don't need anyone else but myself'. 'It's fine as long as I'm right'. Those were the only kinds of thoughts I had."
+'I don't need anyone else but myself'. 'It's fine as long as I'm right'.
+ I could only think along those lines."
 }
 [sha:4c3fac20ea2a5d4ff5221a5e9669fa225ad04b89]{
 -- Page 316, Offset 25057.
 -- 「でも、そうよね。こんなにいろんなココロがあるんだから、わたしに出来ない事を当たり前のようにやってしまえる人だって、世の中には沢山いるんだわ」
-"But you're right. There are many different kinds of minds here, so there must be plenty of people in this world that can do things I can't like it's nothing."
+"But you're right.
+ When you consider how many different kinds of individuals there are,
+ it's only natural to assume that there are plenty of people out there in the world who can do things I can't like it's nothing."
 }
 [sha:0d5b76820bd59456e799021c2efa6588c7ad887c]{
 -- Page 316, Offset 25058.
 -- なんでか、優しい口調でアルクェイドは自省する。
-For some reason or another, Arcueid reflects on herself with a gentle tone.
+// なんでか a bit of a bastard here
+Arcueid's tone is gentle as she muses.
+ I guess she's feeling a little introspective.
 }
 [sha:74616e210ccea8825d579e275345f4830e3b3868]{
 -- Page 317, Offset 25059.
 -- 「もっとも、反省したところでわたしの<性能|せいかく>は変わりはしないんだけど。
-"But then again, my personality wouldn't change even if I did introspect.
+"Then again, no amount of reflection is actually going to change my personality.
 }
 [sha:55b7bb864ae8b1fc18d87bbc4581a66463fcd897]{
 -- Page 317, Offset 25060.
 -- わたし、いまの自分が一番好きだし。やっぱり正しいんだって信じてるから」
-Besides, I like the way I am right now. I believe that I'm correct after all."
+Besides, I like the way I am right now the best.
+ I still believe this is the correct way for me to be."
 }
 [sha:292232190e80c7c67c1351c036d20ad5e9d8e7e9]{
 -- Page 318, Offset 25061.
