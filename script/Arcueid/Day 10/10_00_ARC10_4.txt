@@ -254,7 +254,7 @@ I mean, look around us.
 [sha:1096e3ccfe7f99dc56a9e79e3a3ee23c29e1e032]{
 -- Page 312, Offset 25047.
 -- 「そっちがマジメな話をしたから、こっちもそれに付き合ってるんですよ。話の腰を折らないでくれ」
-"You're the one that brought up a serious subject, I'm just following your lead.
+"You're the one who brought up a serious subject, I'm just following your lead.
  Please don't derail the conversation now."
 }
 [sha:d346597600a4b300b4de4104ba3f673f9cfad6c2]{
@@ -531,7 +531,7 @@ It's true that consuming nutrients like this allows me to move under my own stea
 -- Page 334, Offset 25097.
 -- 「わたしの熱量の補充方法は志貴たちとは違う。たしかに食欲はあるけど、それは人間で言うところの性欲と同じかな。
 "My method of replenishing calories is different than yours.
- Sure, I have an appetite, but it's more analogous to the sex drive in human beings.
+ I do have an appetite, but it's more analogous to the sex drive in human beings.
 }
 [sha:d1c745c3a87a99071a6d7778c8ab6fc48524494c]{
 -- Page 334, Offset 25098.
@@ -928,7 +928,8 @@ You never know where they might lead,
 [sha:0b76cd25aafd85cc0e89417d0a6f0eca80458d7c]{
 -- Page 358, Offset 25171.
 -- じゃあ、もしもこいつが吸血鬼でなかったのなら、俺はこんな気持ちにならなくて良かったのか。
-In that case, what if Arcueid wasn't a vampire? Then would it be fine if I didn't feel this way?
+In that case, what if Arcueid wasn't a vampire?
+ Would I not have to feel this way?
 }
 [sha:5b86845bb814946437de2046803de0e42b6617a1]{
 -- Page 358, Offset 25172.
@@ -968,17 +969,18 @@ I breathe out a sigh.
 [sha:97bbdcbc3dddd0fff238f3267c323724a12dffeb]{
 -- Page 360, Offset 25179.
 -- こっちがいくら深刻に考えたところで、血を吸うか吸わないかはアルクェイドにとってどうでもいい問題みたいだ。
-No matter how seriously I think about it, it doesn't seem to matter to Arcueid whether she drinks blood or not.
+No matter how seriously I think about it,
+ the question of whether to drink blood or not doesn't seem to bother Arcueid in the least.
 }
 [sha:5ed309f4776a80a391690ab6b3bc25272421aa16]{
 -- Page 361, Offset 25180.
 -- 「……そうだよな。俺には、関係のない話だった」
-"...That's right. This conversation isn't something I can relate to."
+"...That's right. I guess at the end of the day it's none of my business."
 }
 [sha:1e3d67c134eb304aeefb594662a5b0643c566863]{
 -- Page 362, Offset 25181.
 -- 「もう、さっきからひとりでぶつぶつ言っちゃって。
-"Geez, what are you doing mumbling to yourself for?
+"Geez, what are you mumbling about over there?
 }
 [sha:44d6998d6b1c0e2ba997aa7e7a30cb253c795a15]{
 -- Page 362, Offset 25182.
@@ -988,7 +990,10 @@ It's not fair to hide things from me, Shiki!"
 [sha:702aede4fbaf1c2a5bb193a3dda0ddc56c62f35d]{
 -- Page 362, Offset 25183.
 -- むー、とまたも猫のようにうなるアルクェイド。
-Arcueid growls like a cat once again.
+// うなる does seem to be the growling pre-hiss noise cats do based on
+// watching a bunch of jp cat vids. Reads a bit weird but oh well
+// むー shuffled around a bit
+Arcueid is once again growling at me like an indignant cat.
 }
 [sha:723bc0dcc74c7400aaad4382c3acebca81bdc182]{
 -- Page 363, Offset 25184.
@@ -998,7 +1003,8 @@ Arcueid growls like a cat once again.
 [sha:fe4871fedf6de037277797483615b01fb12d6476]{
 -- Page 363, Offset 25185.
 -- そもそも隠し事だらけなのはそっちのほうだろ。いつも俺には分からない話をして面白がってるんだから」
-Besides, if there's anyone hiding things, it would be you. After all, you seem to have fun talking about things I don't understand all the time."
+If anything, %{i}you're%{/i} the one hiding things from %{i}me%{/i}.
+ Or at least, you certainly seem to have fun talking about things I don't understand all the time."
 }
 [sha:235c53f082b4d8767fb9e78d87376984cfb15062]{
 -- Page 364, Offset 25186.
@@ -1008,17 +1014,17 @@ Besides, if there's anyone hiding things, it would be you. After all, you seem t
 [sha:3d99744deefec81f4c4751615a3be44cc8282476]{
 -- Page 364, Offset 25187. Mods: @k, @e.
 -- 「なんだ、本当にこっちが頭を抱えてる姿を面白がってたのか。
-"Oh, so you really thought it was amusing to see me at my wit's end.
+"Oh, so you really did enjoy the sight of me at my wit's end.
 }
 [sha:581a463257f7f6e78f29237e382c382b1de0017c]{
 -- Page 364, Offset 25188.
 -- いたずら好きっていうか、秘密主義っていうか。
-Perhaps it's because you like messing with me, or maybe you just enjoy holding all the cards.
+Do you just like messing with me, or is it more the thrill of holding all the cards?
 }
 [sha:7192467845b85aefb9f8d9fc98d31f124c87b1e1]{
 -- Page 364, Offset 25189.
 -- ま、どうせ俺はおまえとは違う生き物だから、どうでもいいけど」
-Well anyway, I'm a totally different organism, so it doesn't really matter."
+Well, I guess it doesn't matter either way. I'm a totally different organism after all."
 }
 [sha:68ce4b892a82f9903595f184fedf3cfdd3028cb9]{
 -- Page 365, Offset 25190.
@@ -1028,12 +1034,13 @@ Well anyway, I'm a totally different organism, so it doesn't really matter."
 [sha:7f856f080494ca0e121c1d2359e176502ba9e7b6]{
 -- Page 365, Offset 25191.
 -- わたし、ちゃんと志貴には話してあげてるよ。
-I've told you everything that I know.
+I've been completely forthcoming in all my conversations with you.
 }
 [sha:7942536b1a702dcb420d0ae63ceb02a29854c5f7]{
 -- Page 365, Offset 25192.
 -- 隠し事が多いように見えるのは、志貴があんまり訊いてこないだけなんじゃない……？」
-Isn't the only reason why it seems like I have a lot of secrets is because you never ask...?"
+If you feel like you're in the dark, isn't that down to you not asking me any questions,
+ rather than me refusing to answer them...?"
 }
 [sha:f435b097312186dfb160436e7f48457e2547c998]{
 -- Page 366, Offset 25193.
@@ -1048,22 +1055,24 @@ It's true that I consciously avoid asking Arcueid questions.
 [sha:db07568cb96c47a23f2a8d4da88458b65e558344]{
 -- Page 367, Offset 25195.
 -- 人間として、吸血鬼の世界にこれ以上踏みこむべきではない、という恐れと、
-As a human being, I'm afraid that I shouldn't step any further into the world of vampires.
+As a human being, I'm terrified of wading any further into the world of vampires.
 }
 [sha:135ca643d5350927e746b4328f515379741903f2]{
 -- Page 367, Offset 25196.
 -- 遠野志貴として、今ならまだ戻れる、という自制があったからだ。
-And as Tohno Shiki, I still had the good sense to know that I can still go back, even now.
+And as Tohno Shiki, I want to hold on to the idea that I can still turn back, even now.
 }
 [sha:2abe12a88450fc85803bb08543152c6f04b471d5]{
 -- Page 368, Offset 25197.
 -- だが。ここまで来てしまった以上、知らなくてはいけない事がある。安全な<境界線|ボーダー>にいられる時期は、きっと昨夜で終わったのだ。
-But now that I've come this far, there are things that I need to know. My time living within the borders of safety must have ended last night.
+However.
+ Now that I've come this far, there are things that I need to know.
+ I'm certain that last night marked the end of my stay within the borders of safety.
 }
 [sha:cf22a1c0b910412bf349eba3a107bc5d733bfc96]{
 -- Page 369, Offset 25198.
 -- 「よし―――訊けば教えてくれるんだ、なんでも」
-"Right―――so you'll answer me no matter what I ask."
+"Alright then―――so you'll answer me, no matter what I ask?"
 }
 [sha:6224576635ed3c4c25f98c1d4bf632bad4256346]{
 -- Page 369, Offset 25199.
@@ -1073,12 +1082,12 @@ But now that I've come this far, there are things that I need to know. My time l
 [sha:3a90c8f019ee5ec747960c7542f314d64d7f1efd]{
 -- Page 370, Offset 25200.
 -- それならお望み通り、疑問点を追究してやろうじゃないか。
-In that case, as she wishes, I'll press her on stuff I'm uncertain about.
+Well, she asked for it. I guess I'll start grilling her on things I'm still not clear on.
 }
 [sha:17c7f518bf0b3ee00c1a33f3904f3ed21670551c]{
 -- Page 370, Offset 25201.
 -- ……アルクェイドが意図的に語る事を避けていた本題。
-...I'll start with the main topic she avoids talking about on purpose.
+...Starting with the main question, the one she keeps avoiding.
 }
 [sha:b089ceeda463f336f2ea10c55338995a434eead8]{
 -- Page 371, Offset 25202.
@@ -1088,7 +1097,7 @@ The true identity of our enemy.
 [sha:31f10d90c2426ae4c9a13970e74b8efebae85563]{
 -- Page 371, Offset 25203.
 -- そいつがどんなヤツなのか、ここで聞いておくべきだ。
-I should ask her what kind of person he is.
+I should use this chance to find out what kind of person he is.
 }
 [sha:5af04554d9640f9bbd0990e087cf804dc8265a25]{
 -- Page 372, Offset 25204.
@@ -1098,7 +1107,8 @@ I should ask her what kind of person he is.
 [sha:9e2688655ead2827ed9dde2124a7f6131045cea9]{
 -- Page 372, Offset 25205.
 -- アルクェイド、おまえの敵って結局どんな吸血鬼なんだ？　ここまで追って来た以上、それなりに面識はあるんだろ？」
-Arcueid, what kind of vampire is this enemy? Since you've been chasing him up to now, you two must know each other, right?"
+Arcueid, just what kind of vampire is your enemy anyway?
+ You must have some sort of relationship with them if you've gone to this length to chase after them, right?"
 }
 [sha:60bd88c72c05de22c059d1a9e5ae2696af54912b]{
 -- Page 372, Offset 25206.
@@ -1108,7 +1118,7 @@ Arcueid, what kind of vampire is this enemy? Since you've been chasing him up to
 [sha:463fe19a6e9e3450bf6cf97c26ae2fa18e38fb25]{
 -- Page 373, Offset 25207.
 -- 「なんだよ。俺に隠し事はしないって、さっき言ったばかりじゃないか」
-"What? Didn't we %{i}just%{/i} agree to not hide anything from each other earlier?"
+"What? Didn't we %{i}just%{/i} agree to not hide anything from each other?"
 }
 [sha:4a22f3baddf1b44bad9bf63438410709589d34fd]{
 -- Page 374, Offset 25208.
@@ -1118,17 +1128,18 @@ Arcueid, what kind of vampire is this enemy? Since you've been chasing him up to
 [sha:78bea0ff8c79801bb13a7fe4a6dffd4bfe8aabbc]{
 -- Page 374, Offset 25209.
 -- この街に吸血鬼が潜んでいると判ったのはつい最近の事で、わたしはまだ本体に出会えてさえいない。
-It was only recently that I found out that the vampire was lurking in this city, so I haven't even had a chance to see his true form yet.
+It was only recently that I found out that the vampire was lurking in this city,
+ so I haven't even had a chance to see his current form yet.
 }
 [sha:a83c4f24747dc41d9df857b1c5d55e9bfacc470f]{
 -- Page 374, Offset 25210. Mods: @n.
 -- 今回の敵がどんな姿をしているのか―――
-I don't know whether the enemy this time―――
+I don't know what form the enemy has taken this time―――
 }
 [sha:cd1b60fa05253b58a5be6917973b1c4e0ed0923e]{
 -- Page 374, Offset 25211. Glued.
 -- 男性なのか女性なのか、子供なのか大人なのかさえ判らない」
-is in the form of a man or a woman, or even if it's a child or an adult."
+whether they're a man or a woman, or even if they're a child or an adult."
 }
 [sha:576ce0fccb773c3bdf531936cf16a6aa535a4339]{
 -- Page 375, Offset 25212.
@@ -1150,12 +1161,14 @@ I mean, Vlov had a supernatural ability, right? Doesn't our target have somethin
 [sha:39b4258208f9eb559e149259e03b49595e5d9626]{
 -- Page 376, Offset 25215.
 -- わたしの追っている敵はそう強力な死徒じゃないけど、今回は何を得意として、どんな<人間|カラダ>になっているのか、わたしには予測できない」
-The enemy I'm after isn't that powerful of a Dead Apostle, but I can't predict what his strong point is, or what form he turned into."
+The enemy I'm after isn't that powerful of a Dead Apostle,
+ but I can't predict what his strong point will be this time, or what form he's taken."
 }
 [sha:64568f09fda0df41bdfe27a8936896c1689088bf]{
 -- Page 377, Offset 25216.
 -- 「……そうね。その幅広さがアイツの特徴と言えるかも。この街に“アイツ”の気配がある事しか、わたしには判らないわ」
-"...That's right. Perhaps it's his reach that is his special trait. I don't know anything other than that there are signs of him in this city."
+"...Yeah. I guess you could say that his adaptability is his special trait.
+ All I can say for sure is that there are signs of him in this city."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 378, Offset 25217.
@@ -1165,12 +1178,12 @@ The enemy I'm after isn't that powerful of a Dead Apostle, but I can't predict w
 [sha:a88150b3539471f8563a90778e22ae0871d12563]{
 -- Page 378, Offset 25218.
 -- アルクェイドは嘘を言ってはいない。
-Arcueid isn't telling a lie.
+Arcueid isn't lying.
 }
 [sha:e862ede99e1c0e1923f3a22c86033964233eef2d]{
 -- Page 378, Offset 25219.
 -- 言ってはいないが、やはり核心を隠している気がする。
-She isn't, but I feel like she's hiding something extremely crucial.
+But I get the feeling she isn't exactly telling me the whole truth either.
 }
 [sha:7fcf831ead1c9d08afa945af3370e54dd833a216]{
 -- Page 378, Offset 25220.
@@ -1180,17 +1193,18 @@ For example―――
 [sha:e588437fa9c8b129c87c6f1ba57c309d3c85bb9f]{
 -- Page 379, Offset 25221. Mods: @n.
 -- 「……まだ見つけていない以上、相手の特徴は判らない……
-"...So we don't know the opponent's trait as long as we haven't found him...
+"...So we won't know what his traits are until we find him...
 }
 [sha:1dda0bd6cad6ede3d25dbdfcc189958eaf35a31f]{
 -- Page 379, Offset 25222. Glued.
 -- うん、それはいい。当然の話だ。
-Yeah, that's fine. That's only natural.
+Alright, I buy that.
+ It makes perfect sense.
 }
 [sha:e9d86e1194cffc1cec888f57145d1643b8496458]{
 -- Page 379, Offset 25223.
 -- けど、そいつの名前ぐらいは知ってるだろ？」
-But you do know his name at least, right?"
+But you at least know his name, right?"
 }
 [sha:b9127a9278e1c2a4ae7633b339008b6e2b43b700]{
 -- Page 379, Offset 25224.
@@ -1210,12 +1224,12 @@ Arcueid hangs her head in silence.
 [sha:5887c5e8138e3e6e95b15a7d7aa3ff466825e374]{
 -- Page 380, Offset 25227.
 -- ……どうやら、何か事情があって俺に名前を教える事ができず、困っている……
-...It seems that being unable to tell me his name has her troubled...
+...It seems like she has some reason she can't tell me his name, and it's eating her up inside...
 }
 [sha:557678a8217524dbab959f9691b6f94a0783c13a]{
 -- Page 380, Offset 25228.
 -- そう、思っていた。
-Yeah, that's what I thought.
+At least, that's what I thought.
 }
 [sha:f6715b1b2c1a41e3ea83cc8df286abd154d54f85]{
 -- Page 381, Offset 25229.
@@ -1225,12 +1239,14 @@ Yeah, that's what I thought.
 [sha:0c098445eeaa9871d9c1e22bf9d0f7e0d68ed187]{
 -- Page 381, Offset 25230.
 -- ぞくり、と。
-A chilling sensation.
+// 首筋に打ち付ける moved up here slightly as a more EN expression
+A shiver runs down my spine.
 }
 [sha:47aeb8292cb8218246dc25a9d7954f324557a567]{
 -- Page 381, Offset 25231.
 -- 彼女の一息だけでこの店のすべてが凍結してしまったような、そんな悪寒が首筋に打ち付けられる。
-With a single breath, she strikes my neck with a chill that could freeze the entire area.
+// 一息 -> words
+There's so much ice in her words that it feels like our surroundings have been frozen solid.
 }
 [sha:91fbeb598ce590510d15316d2f0033b5a8b8c420]{
 -- Page 382, Offset 25232.
@@ -1245,12 +1261,13 @@ There is no sign of her hiding the truth.
 [sha:78420500694f908d3c1fd896a14a8e39ecd9cde0]{
 -- Page 383, Offset 25234.
 -- 「アイツの名前はミハイル。ミハイル・ロア・バルダムヨォン。人間から吸血鬼になった、どこにでもいる死徒の一人よ」
-"His name is Michael. Michael Roa Valdamjong. He is a human turned vampire, a single Dead Apostle that could be anywhere."
+"His name is Michael. Michael Roa Valdamjong.
+ He is a human turned vampire. A member of the Dead Apostles. And he could be anywhere."
 }
 [sha:07f65b1647ba906dbb1ac325ec8874c2373c99c5]{
 -- Page 383, Offset 25235.
 -- 俯いたまま、美しい唇が動く。
-Her beautiful lips move while her head is still hanging.
+Her beautiful lips move, but she does not look up.
 }
 [sha:9ad34c4a36cf04ad00a26c3812ae30dafa4bd0d8]{
 -- Page 383, Offset 25236.
