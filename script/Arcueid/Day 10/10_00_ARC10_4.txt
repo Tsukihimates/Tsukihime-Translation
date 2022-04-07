@@ -238,7 +238,7 @@ I must've got caught up in the moment with Arcueid. I'm starting to feel depress
 -- ほら、周りを見ろよ。この店だけでもこれだけ違う人たちがいるんだ。いろんなヤツがいるんだから、誰もが自分と同じじゃないだろ」
 I mean, look around us.
  In this shop alone we have such a breadth of different people.
- And even among all those different people, none of them are the same as me, right?"
+ Yet even among all those different people, none of them are the same as me, right?"
 }
 [sha:c40ba9c1e3fce3334817ee32648bcf03058b8361]{
 -- Page 312, Offset 25045. Mods: @n.
@@ -840,7 +840,8 @@ I don't know. But... if there were other animals of lower intelligence, I would 
 [sha:d20be04f33a47bdfe6d0f56a169a42a35cec3028]{
 -- Page 354, Offset 25155. Glued.
 -- わたしが血を嫌っているのはそういう理由なんだ。……まあ、志貴の言う通り好き嫌いはあるのかもしれない。わたし、できることなら血は見たくないもの。
-That's sort of my line of reasoning for hating blood...
+// Leading space for glue
+ That's sort of my line of reasoning for hating blood...
  Well, maybe you were right, maybe I simply don't like it.
  If possible, I'd rather not look at blood at all.
 }
@@ -1014,7 +1015,7 @@ If anything, %{i}you're%{/i} the one hiding things from %{i}me%{/i}.
 [sha:3d99744deefec81f4c4751615a3be44cc8282476]{
 -- Page 364, Offset 25187. Mods: @k, @e.
 -- 「なんだ、本当にこっちが頭を抱えてる姿を面白がってたのか。
-"Oh, so you really did enjoy the sight of me at my wit's end.
+"Oh, so you really did enjoy seeing me at my wit's end.
 }
 [sha:581a463257f7f6e78f29237e382c382b1de0017c]{
 -- Page 364, Offset 25188.
@@ -1156,7 +1157,7 @@ I mean, Vlov had a supernatural ability, right? Doesn't our target have somethin
 [sha:7690f99b7a651349165fd4d88abdbb97499b911b]{
 -- Page 376, Offset 25214.
 -- 「それも実際に見るまでは断定できない。
-"We won't even know that until we see him up close.
+"There's no way of knowing until we can see him up close.
 }
 [sha:39b4258208f9eb559e149259e03b49595e5d9626]{
 -- Page 376, Offset 25215.
@@ -1219,7 +1220,7 @@ But you at least know his name, right?"
 [sha:7106d803fe718eaad762f1c597c7d94c92128d79]{
 -- Page 380, Offset 25226.
 -- アルクェイドは俯いて黙りこんでしまった。
-Arcueid hangs her head in silence.
+Arcueid silently hangs her head.
 }
 [sha:5887c5e8138e3e6e95b15a7d7aa3ff466825e374]{
 -- Page 380, Offset 25227.
@@ -1251,7 +1252,7 @@ There's so much ice in her words that it feels like our surroundings have been f
 [sha:91fbeb598ce590510d15316d2f0033b5a8b8c420]{
 -- Page 382, Offset 25232.
 -- 「アイツの名前はね、志貴」
-"So about his name, Shiki."
+"You want to know his name, Shiki?"
 }
 [sha:fca4fa4f0a1edafdf69dac11e9ebe41373db0d61]{
 -- Page 382, Offset 25233.
@@ -1262,7 +1263,7 @@ There is no sign of her hiding the truth.
 -- Page 383, Offset 25234.
 -- 「アイツの名前はミハイル。ミハイル・ロア・バルダムヨォン。人間から吸血鬼になった、どこにでもいる死徒の一人よ」
 "His name is Michael. Michael Roa Valdamjong.
- He is a human turned vampire. A member of the Dead Apostles. And he could be anywhere."
+ He is a human turned vampire, a run-of-the-mill Dead Apostle."
 }
 [sha:07f65b1647ba906dbb1ac325ec8874c2373c99c5]{
 -- Page 383, Offset 25235.
@@ -1272,7 +1273,7 @@ Her beautiful lips move, but she does not look up.
 [sha:9ad34c4a36cf04ad00a26c3812ae30dafa4bd0d8]{
 -- Page 383, Offset 25236.
 -- そこにあるのは、ただ、血を吐くような憎悪だけだった。
-What presented itself in front of me was simply her blood curdling hatred.
+All that I can sense from her is raw, blood-curdling hatred.
 }
 [sha:321614c002b2a0e3f06f9e6bf8548e1395c0e50a]{
 -- Page 384, Offset 25237.
@@ -1287,12 +1288,12 @@ What presented itself in front of me was simply her blood curdling hatred.
 [sha:fb8565424c6882355507d1de68388705116f7500]{
 -- Page 384, Offset 25239.
 -- アルクェイドの肩は震えている。
-Arcueid's shoulders tremble.
+Arcueid's shoulders are trembling.
 }
 [sha:18f313826bfc9ed12ed239f360f1f0f59753d613]{
 -- Page 384, Offset 25240.
 -- 今にも暴れ出したい感情を、なんとか自分の中だけで抑えようとしている。
-She suppresses her emotions from violently breaking out from within in some way.
+She looks like she's struggling to suppress the emotions raging within her.
 }
 [sha:cc02386747b86bce54a9e42ee737c342739059ef]{
 -- Page 385, Offset 25241.
@@ -1302,7 +1303,8 @@ She suppresses her emotions from violently breaking out from within in some way.
 [sha:a29f2e4edf03ae504d9a740d0dd53948e27f98e4]{
 -- Page 385, Offset 25242.
 -- 名前が知れただけで充分だ。あとは直接見つけて、この目で確かめればいいさ」
-Knowing his name is more than enough. Now all we have to do is find him in person and confirm it with my eyes."
+Telling me his name is more than enough.
+ I'll see the rest for myself after we hunt him down."
 }
 [sha:e1fbffdfa5b81910976a59088e241e0fc144a06f]{
 -- Page 386, Offset 25243.
@@ -1312,12 +1314,12 @@ Arcueid shakes her head slightly.
 [sha:d94f898f01cd44d9ac3ea15d95327e1b30d0b60d]{
 -- Page 386, Offset 25244.
 -- 忘れる事などできない、と言うかのように。
-It was as if she was saying that she cannot forget it or something.
+It's as if she's saying she can't forget it so easily.
 }
 [sha:b6bff8d6c282bd0613a72a8a243a9bc4b001fedd]{
 -- Page 387, Offset 25245.
 -- しばらく、無言のまま時間が経った。
-Time passes without a word spoken.
+Time passes, neither of us saying a word.
 }
 [sha:cc1e926f8f78a4e303aef80c100a9db7f632cc24]{
 -- Page 388, Offset 25246.
@@ -1342,27 +1344,31 @@ This temperate appearance is not like her at all.
 [sha:2ef6e8a4d5b7b0c45e672bd65e5c3323f45bdef0]{
 -- Page 390, Offset 25250.
 -- 「気にしないでいいよ。おまえには悪いけど、むしろ人間らしくてホッとしたぐらいだし」
-"You don't have to worry about it. You may be in the wrong, but I'm relieved to see that you can be human too."
+"You don't have to worry about it.
+ Even if you feel bad about it, I'm actually a little relieved.
+ It was honestly very human of you."
 }
 [sha:46161db0c709df1e6f53359415126ce42c54a83d]{
 -- Page 390, Offset 25251.
 -- 「そ、そうなの？　人間らしいって、どこが？」
-"I-Is that so? Which part of me is human?"
+"R-Really? What do you mean by that?"
 }
 [sha:88c4e6c748f30d0d01376070975f85f27e6dd35e]{
 -- Page 391, Offset 25252.
 -- 「ああ。憎い相手だから追いかけて、感情的になりそうだから“敵”としか口にしなかったんだろ？
-"Well. You hate this person so you went after him, and you only referred to him as the 'enemy' because you were afraid of getting emotional, right?
+"Well.
+ You hate this person so much that you're hunting them down,
+ and only allow yourself to refer to them as 'the enemy' because you're worried about letting your emotions get the better of you, right?
 }
 [sha:6811bb08b5d1a183635f10257fad63f79e52c0c3]{
 -- Page 391, Offset 25253. Mods: @k, @e.
 -- 無感情に、事務的に吸血鬼を殺すって事より納得がいく。
-I like this explanation more than you apathetically killing vampires as part of business.
+I can empathize with that way more than I can the idea of you going around coldly exterminating vampires like it's just a job.
 }
 [sha:4696bc7bbc31376f2c84e7047bd3cf60dfd69975]{
 -- Page 391, Offset 25254.
 -- おまえにちゃんと理由があるのなら、俺はその方が―――」
-If you had told me such a proper reason, I would have―――"
+If I'd known you had your reasons, I'd have―――"
 }
 [sha:a18dbf2e7b0283150b76f00cc3d14a9117bda3d2]{
 -- Page 392, Offset 25255.
@@ -1372,7 +1378,8 @@ I was about to say 'lent you a hand' but stopped half-way.
 [sha:a84e4060b86c58ddd318d1166145cb3056b99b1b]{
 -- Page 392, Offset 25256.
 -- それは街を守るという理由を、違うものにする言葉だったからだ。
-It's because that reason was different from my stated reason of protecting the city.
+I've been claiming that I'm only helping Arcueid in order to protect this city.
+ To finish that sentence would be to contradict the excuse I continue to cling to.
 }
 [sha:e1088026cb7418f251a1ca06f00704057b93fce7]{
 -- Page 393, Offset 25257.
@@ -1382,7 +1389,7 @@ It's because that reason was different from my stated reason of protecting the c
 [sha:e64e4769ebc9c118c5fc06b7ec1bdc5c35037f2a]{
 -- Page 393, Offset 25258.
 -- この手の飯は冷めると致命的に不味くなるからさ」
-If we let this food get cold, it'll be so bad that it could kill us."
+This sort of food tastes pretty dire once it goes cold."
 }
 [sha:b43f1d20f5d48635375401192fd4f187f253e5b7]{
 -- Page 394, Offset 25259.
@@ -1392,15 +1399,18 @@ If we let this food get cold, it'll be so bad that it could kill us."
 [sha:e0f850edb58246a8ebccb55df154fb5baba28a18]{
 -- Page 394, Offset 25260.
 -- でもこれ、もともと美味しくないと思うよ？　志貴の味覚って、ちょっとアレよね」
-But this isn't that tasty to begin with. Your taste is, well, rather off."
+Though, I have to say it doesn't taste that great to begin with?
+ Your palate may be, well, %{i}different%{/i}."
 }
 [sha:759d8b9cd01b461c59088bf3248caa471e8bace2]{
 -- Page 394, Offset 25261.
 -- 低俗よね、と言いづらそうに視線を逸らすお姫様。
-The princess averts her gaze, struggling to describe my taste in food as vulgar.
+The princess averts her gaze,
+ as though avoiding saying out loud exactly how boorish my tastes are.
 }
 [sha:814ca623e2de2dab1fc476a91eb5da0740416790]{
 -- Page 394, Offset 25262.
 -- ……今日はたまたま、たまたまハズレメニューだっただけですよ。美味しい時だってあるんですよ、バーガー。
-...It just happened that today's menu was a miss. That's all. There are times when it's tasty too. You know, with burgers that is.
+...I'm sure we just weren't feeling this menu today. That's all.
+ I maintain that there are still times when a burger really hits the spot.
 }
