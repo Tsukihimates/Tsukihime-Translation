@@ -1,32 +1,32 @@
 [sha:99c0488c3ca4c0e0587105a48e6c592738e196f4]{
 -- Page 10029, Offset 26830.
 -- 『機能不全』
-            'Dysfunctional.'
+                  'Dysfunctional.'
 }
 [sha:9ad5e1aef4c95d1613543565a114f9b3a5e91424]{
 -- Page 884, Offset 26831.
 -- 『磨耗積載重量過多』
-            'Excessive Abrasion Load.'
+               'Load induced burnout.'
 }
 [sha:c25ea6a4317763054219958575bfaf9bdcc60460]{
 -- Page 885, Offset 26832.
 -- 『壊れた器は直らない』
-            'A broken vessel cannot be repaired.'
+        'A broken vessel cannot be repaired.'
 }
 [sha:0bba49c422685420bfa0f8a580777da7ad749552]{
 -- Page 886, Offset 26833.
 -- 『壊れた食器は役立たず』
-            'Broken tableware serves no purpose.'
+        'Broken tableware serves no purpose.'
 }
 [sha:57b587362aa1ff8a37eee3a8b684374364db0696]{
 -- Page 887, Offset 26834.
 -- 『見苦しいだけなので、
-            'It's simply unseemly,
+       'It's simply unseemly,
 }
 [sha:1c0f6a7d9b99ae5a71a6ef62ee9c0622ef9fc58b]{
 -- Page 887, Offset 26835.
 -- 棚の奥に仕舞いましょう』
-            so let's bury it deep in the shelves.'
+       so let's bury it deep in the shelves.'
 }
 [sha:0d17ce661a04bd9fe83e1d6a3a34a85590596ae8]{
 -- Page 888, Offset 26836.
@@ -36,12 +36,13 @@ In my dream, I watched the moon.
 [sha:b0b5b3762a87e50f3b8b9f17655a3d4f8ab84dcf]{
 -- Page 888, Offset 26837.
 -- 何処で、如何して月を見上げているかは思い出せない。
-I don't quite remember where I was watching from or why.
+I don't remember where I was, or why I was watching it.
 }
 [sha:21013db4b9da4fd5f5a7e7fa781aaaef5c22e6c4]{
 -- Page 888, Offset 26838.
 -- ただ他に何も見たくなくて夜空を見上げた時、月があっただけなのかもしれない。
-Maybe it was because——not wanting to see anything——I'd raised my gaze to the heavens, and there, was the moon.
+Maybe I had stared up at the night sky simply because I didn't want to see anything else,
+ only to be greeted by the moon.
 }
 [sha:cbd11cf50ffef23540b6b63169a59e2f1f4bc9d0]{
 -- Page 889, Offset 26839.
@@ -51,7 +52,9 @@ My spine creaks.
 [sha:39933244ff12aaf6b6d15077c49c4bd3de588c22]{
 -- Page 889, Offset 26840.
 -- 血管を駆け巡る真冬の気温。
-Cold like the dead of winter runs in my veins.
+// At risk of straying from the imagery,
+// I'd replace this with 'the midwinter chill has seeped into my _bones_' which is more EN
+The midwinter chill has seeped into my veins.
 }
 [sha:2bea5c7d571c4963c242db6db084d4aca7035718]{
 -- Page 889, Offset 26841.
@@ -63,7 +66,7 @@ I feel dizzy, all alone in the dark like this.
 -- 眩く、心を病みつかせるような、月。
 // 眩い or 眩く? I'm assuming 眩く because of the comma but this bastard loves
 // both dizzying and beautiful
-A dizzying, heart-wrenching moon.
+A moon so dazzling you could get lost in it.
 }
 [sha:1e5ff559f8a1d2d5ee1ce5a06fd4783af8fe4bb2]{
 -- Page 889, Offset 26843. Mods: @n.
@@ -78,7 +81,8 @@ A dizzying, heart-wrenching moon.
 [sha:ecc0008d123c4f69dafce0b98736cbd14bf406b7]{
 -- Page 889, Offset 26845.
 -- 息苦しいはずの寒さは、それ以上に懐かしい空気を持っているような気がした。
-The cold that by all rights should've been stifling, somehow has a nostalgic air to it.
+By all rights this this cold should feel stifling,
+ yet somehow it feels tinged with nostalgia instead.
 }
 [sha:7c686ab0a169e4d34fda0e6f213a878a61a4f5f7]{
 -- Page 890, Offset 26846.
@@ -88,7 +92,8 @@ The cold that by all rights should've been stifling, somehow has a nostalgic air
 [sha:f3fcf506818f2cd038db7b8d67ee88dd21b2cfef]{
 -- Page 890, Offset 26847.
 -- ……朝の光に交じって、翡翠の呼び声が聞こえてくる。
-...Mixed in with the morning sunshine, I hear Hisui calling out to me.
+...I'm greeted by the morning sunshine,
+ along with the sound of Hisui calling out to me.
 }
 [sha:ca121825ffc57c2fec9bc69b327bc3a763f84b69]{
 -- Page 891, Offset 26848.
@@ -98,7 +103,7 @@ The cold that by all rights should've been stifling, somehow has a nostalgic air
 [sha:448781c3ea8d65a903226d52fffe3a81e86d1f9a]{
 -- Page 891, Offset 26849.
 -- 抑揚のない翡翠の声に、意識がはっきりと覚めていく。
-With Hisui's monotone voice, my consciousness fully awakens.
+I'm fully awake after hearing Hisui's monotone voice.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 892, Offset 26850.
@@ -108,12 +113,14 @@ With Hisui's monotone voice, my consciousness fully awakens.
 [sha:4d0df9964d80c3f341162c2e21fc427793976fef]{
 -- Page 892, Offset 26851.
 -- 目を覚ましたとたん、厭なモノが視界に入ってきた。
-When I come to my senses, an abhorrent thing comes into view.
+The instant I fully open my eyes,
+ these abhorrent %{i}things%{/i} crowd my vision.
 }
 [sha:c3f7931bb329e072f2ed4bb6cf2e93c922f4677a]{
 -- Page 892, Offset 26852.
 -- ずきり、とこめかみには銃創のような頭痛。
-Like a gunshot to my temple, a headache hits me with a crack.
+My head is pounding,
+ it feels as though someone shot me straight through the temple.
 }
 [sha:fb286836297b86f36a76f3443ba7b535d0f3d63b]{
 -- Page 893, Offset 26853.
@@ -128,7 +135,7 @@ My consciousness, only just having woken up, loses its footing.
 [sha:6dd8696ee76804c9842dd56b557783aafdcebd9a]{
 -- Page 893, Offset 26855.
 -- そのまま眩暈を起こしてしまう前に、急いで枕元の眼鏡を手に取った。
-I quickly reach for the glasses next to the pillow before the dizziness takes root.
+I quickly reach for the glasses next to my pillow before the dizziness takes root.
 }
 [sha:c0c982dd6f00f32ea432075e736a8c96675fd8e7]{
 -- Page 894, Offset 26856.
@@ -148,7 +155,7 @@ Shaking my head lightly, I try to shed the memories of what I'd just seen.
 [sha:97e4197af023959399d24c2b44e437cd0454672c]{
 -- Page 895, Offset 26859.
 -- 昨夜、無理をしてアルクェイドとの約束を守った代償だ。体の感覚はまだ鈍かった。
-This is the price I pay for pushing myself to keep my promise with Arcueid last night. My senses still feel dull.
+I'm paying the price for pushing myself to keep my promise with Arcueid last night. My senses still feel dull.
 }
 [sha:423dcf4a0d031923d85d1fce20e2193a3faa333b]{
 -- Page 896, Offset 26860.
@@ -163,7 +170,7 @@ Thanks for coming to wake me up today, as always."
 [sha:48ba2f8284221f2158a9f55e88660c0af3cf8a2b]{
 -- Page 896, Offset 26862.
 -- ベッドから上半身を起こしながら、できるだけ自然に笑顔を向ける。
-I sit up from the bed and try my best to put on a natural-looking smile.
+I heave myself upright in bed, doing my best to put on a natural-looking smile.
 }
 [sha:ceef3076fd45b55f5eb60436ae38e14bf7ed6cfe]{
 -- Page 897, Offset 26863.
@@ -173,7 +180,8 @@ I sit up from the bed and try my best to put on a natural-looking smile.
 [sha:e8cedd77878e6115fd15e7e033eec4135ede84ba]{
 -- Page 897, Offset 26864.
 -- 「そうかな、俺はすごくありがたいけど。目覚まし時計の音なんかより、何倍もあったかい感じがする」
-"That so? But I %{i}am%{/i} extremely grateful. Compared with the sound of an alarm clock, this feels much warmer."
+"That so? But I %{i}am%{/i} extremely grateful.
+ This is a much warmer wake-up call than the blaring of an alarm clock."
 }
 [sha:44a37e56a9f77c20befc60f9ed247707559b082e]{
 -- Page 898, Offset 26865.
@@ -188,7 +196,7 @@ I stand up from the bed.
 [sha:1116de10a1a476a2f6d9f8a9e0e98dde03eaf11e]{
 -- Page 898, Offset 26867.
 -- 時刻は朝の７時前―――いつもより10分ほど早い。
-It's just before seven in the morning―――about 10 minutes earlier than usual.
+It's just before seven in the morning―――about ten minutes earlier than usual.
 }
 [sha:265a36a8a7f88846f0796e71b4076e3b266b6636]{
 -- Page 899, Offset 26868.
@@ -203,12 +211,13 @@ It's just before seven in the morning―――about 10 minutes earlier than usua
 [sha:fb0f5104837a64efa606e3f15db71b07fe301b88]{
 -- Page 899, Offset 26870. Mods: @n.
 -- 翡翠はいつも通り一礼して、静かに退室……
-Hisui bows as usual and quietly takes her leave.
+Hisui makes her customary bow, and quietly takes her leave...
 }
 [sha:c7c933ae4b402581a1a040bf9ff007b3df3ab535]{
 -- Page 899, Offset 26871. Glued.
 -- あれ？
-Huh?
+// Space for glue
+ or not?
 }
 [sha:84549c4274ee5ab4aee8ffda085eb0f42f9cade5]{
 -- Page 900, Offset 26872.
@@ -228,7 +237,7 @@ Huh?
 [sha:e68a348795e549cfe6f98383d287ec7fb7c50a74]{
 -- Page 901, Offset 26875.
 -- どうか今日一日、健やかにお過ごしください」
-I hope that you spend the day in high spirits."
+Please take good care of your health today."
 }
 [sha:a8aee76cfe204b1627538dad840b99b55f90d7cd]{
 -- Page 902, Offset 26876.
@@ -243,12 +252,13 @@ Hisui leaves the room.
 [sha:2c25cc676faccb0162606cc0f2c2d8dd3cf882ad]{
 -- Page 902, Offset 26878.
 -- 本調子でないとはいえ、学校に行けないほどじゃない。
-Although I'm not in the best shape, it's not so bad that I can't go to school.
+I'm certainly not in the best shape possible,
+ but I think I can still manage going to school.
 }
 [sha:ec7ca02c3aa4e4f0d951b0d16ca703e18445cec0]{
 -- Page 902, Offset 26879.
 -- 琥珀さんの作ってくれる朝食を食べれば体力も戻るだろう。
-If I eat the breakfast that Kohaku-san makes for me, then I'm sure my strength will return.
+I'm sure I'll also get some of my strength back after eating whatever breakfast Kohaku-san has cooked up for me.
 }
 [sha:91ec2cfa767d180d3f65798f54e35e7f78133975]{
 -- Page 903, Offset 26880.
@@ -273,7 +283,8 @@ Did you sleep well?"
 [sha:583021f31f7a508967f190ed369f0891f0d3db99]{
 -- Page 905, Offset 26884.
 -- 俺が居間に入るなり、秋葉はいつもより明るい……というか、弾んだ声で挨拶をしてきた。
-As soon as I enter the living room, I spot that Akiha seems brighter than usual... Well, at least her greeting is lively.
+As soon as I enter the living room, I can't help but notice that Akiha seems cheerier than usual...
+ Her greeting is certainly lively, at least.
 }
 [sha:a2fb8eef125291bdcd6936c5705b069fd2aa3d97]{
 -- Page 905, Offset 26885.
@@ -289,7 +300,8 @@ A cheery mood is good for one's mental health, so I'm glad in that regard, but..
 [sha:e713f9a6bfc8eff6f98c935d2a54a2123375e54e]{
 -- Page 906, Offset 26887.
 -- 「ええ、本日は自主休校とさせていただきました。屋敷の方でやる事ができましたので。
-"Yes, today I requested a voluntary absence from school. After all, I can do everything from the comfort of the mansion.
+"Yes, today I requested a voluntary absence from school.
+ After all, something has come up at the mansion that I must attend to.
 }
 [sha:2966bf24267ea3e37e2df367053f289e518091c7]{
 -- Page 906, Offset 26888.
@@ -299,17 +311,20 @@ Are you going back to school as usual? Please go and enjoy your carefree student
 [offset:26889]{
 -- Page 907, Offset 26889.
 -- 「？」
-"Huh?"
+// Not voiced
+What is going on.
 }
 [sha:7e683d14ed8a4da70b651d0398739652ff0ee59e]{
 -- Page 907, Offset 26890.
 -- 上機嫌なのは見て取れたが、それにしても妙なテンションだな、秋葉のヤツ……。
-I get that she's in a good mood, but even so, this feels strangely tense. Akiha...
+I get that she's in a good mood, but even so, this feels strangely tense.
+ Just what is she up to...
 }
 [sha:24495987e4a664e6bafc9d180c53831141f52035]{
 -- Page 908, Offset 26891.
 -- 「それにしても、今朝は顔色がいいんですね。
-"Anyhow, your complexion seems clear today.
+// I think 顔色 is mainly used to reference health, rather than Shiki not having any zits
+"Anyhow, you're looking significantly perkier today.
 }
 [sha:788c62a72530185e4dc89ac257597dc0e796e72d]{
 -- Page 908, Offset 26892.
@@ -344,7 +359,9 @@ Her trust in me hurts
 [sha:40efa04e16fb36a9c004ebeb26d713733da92851]{
 -- Page 910, Offset 26898.
 -- 結果として昨日はアルクェイドとの約束を守って、無理をする事なく部屋に戻って来られたものの、秋葉に嘘を言っている事に変わりはない。
-Last night I went out to protect my promise with Arcueid and didn't push myself too hard in the process. Doesn't change the fact that I'm lying to Akiha though.
+Last night I ended up going out to protect my promise with Arcueid.
+ Even if I did manage to avoid pushing myself too hard and make it all the way back to my room again afterwards,
+ but that doesn't change the fact that I'm still lying to Akiha.
 }
 [sha:c77e56be80204c86598666589470066f0e9d0f9f]{
 -- Page 910, Offset 26899.
@@ -364,13 +381,12 @@ I'm going to school after I finish eating, so don't pay me any mind."
 [sha:0020a857e4214010fa28b09bf36dc762fe83d359]{
 -- Page 911, Offset 26902.
 -- 「わかりました。でも、まだ何かあるようでしたら遠慮なく立ち寄ってください。
-"Understood. But if there's anything you need, please don't hesitate to stop by.
+"Understood. However if there's anything you need, please don't hesitate to stop by.
 }
 [sha:ace420f4eb3cc72be88b797725d2c5cad285323a]{
 -- Page 911, Offset 26903.
 -- あと少しだけ、ここで待っていますから」
-// double check please. This line is kinda weird
-Since you'll be leaving shortly, I'll wait here."
+I'll be waiting right here, at least for a little while longer."
 }
 [sha:0ec1d8840cb888d1d0cb5ab63f0e02b29ebf15a6]{
 -- Page 912, Offset 26904.
@@ -391,29 +407,32 @@ I finish my breakfast and leave the mansion.
 [sha:53146e23cc8e2a6f4a6f7fa3970570b25dba1a01]{
 -- Page 913, Offset 26907.
 -- 朝食を摂れば元気になる、なんてのは甘い考えで、そもそも朝食をうまく食べられなかった。
-It was naive of me to think that having breakfast would make me feel better. Besides, I was never much for breakfast in the first place.
+It was naive of me to think that having breakfast would make me feel better.
+ I've never been able to stomach much of a meal this early in the morning.
 }
 [sha:cfbf8aa87f53551c16b9160efc0b2a60fb8c6a07]{
 -- Page 913, Offset 26908.
 -- 食欲がまったく働いてくれなかったのだ。
 // heavily localized
-My appetite just wasn't there.
+My appetite just wasn't there today either.
 }
 [sha:0e641c3bf6af87c08402a1440733411d601d47d7]{
 -- Page 913, Offset 26909.
 -- そのせいでたっぷり30分かけた、学生にしては悠長な朝食になってしまった。
-Because of that, I spent a full %{i}30 minutes%{/i} leisurely eating breakfast: quite a long time for a student.
+Because of that, I spent a full %{i}30 minutes%{/i} picking at my breakfast―――an eternity for a student.
 }
 [sha:1aa2493b4014a42ae1e1803dec252aa22f56dbec]{
 -- Page 914, Offset 26910. Mods: @k, @e.
 -- 「うう……今朝は適切なお食事を用意せず、申し訳ありませんでした……
 // official Umineko TL just romanizes うう so I will too.
+// Spell to spend a happy breakfast with mama
 "Uuu... I sincerely apologize for failing to prepare an appropriate meal this morning...
 }
 [sha:bf15ac50f26fb0633c52e16af71a744a936dd9f7]{
 -- Page 914, Offset 26911. Glued. Mods: @x.
 -- 明日、明日こそは必ず、志貴さんの目に星が散るような朝食をご用意しますから……！」
-Tomorrow I'll make sure to prepare a breakfast that'll make your eyes sparkle with joy...!"
+// Leading space for glue
+ Tomorrow I'll make sure to prepare a breakfast that'll make your eyes sparkle with joy...!"
 }
 [sha:7bd2ca4bf10c59b4f6decfbf13c14a275622d00b]{
 -- Page 915, Offset 26912.
@@ -423,7 +442,8 @@ Kohaku-san raises both of her arms and fires herself up.
 [sha:79748ab69dce52b32cb4dbcee92d304f1ccb490a]{
 -- Page 915, Offset 26913.
 -- 今朝は珍しく、翡翠ではなく琥珀さんが見送りにきてくれた。
-In an unusual turn of events, it is Kohaku-san that sees me off this morning instead of Hisui.
+In an unusual turn of events,
+ Kohaku-san is the one seeing me off this morning rather than Hisui.
 }
 [sha:bf95066c7c4a506e7d97b7c66da6c3988a2c041e]{
 -- Page 915, Offset 26914.
@@ -488,7 +508,8 @@ I feel a sense of dread.
 [sha:228e944ea8be70453f6eade15c57e7450c26459c]{
 -- Page 918, Offset 26926.
 -- 秋葉にはバレていなかったけど、俺の顔色、まだ悪かったのか……？
-Akiha didn't notice, but is my complexion really that bad...?
+Akiha may not have noticed anything,
+ but am I really looking that green around the gills...?
 }
 [sha:e3403d1b68394fc547a33d835024678ab8d556f7]{
 -- Page 919, Offset 26927.
@@ -533,7 +554,7 @@ With Kohaku-san sending me off with a smile, I leave the Tohno residence.
 [sha:98bb8f928211cb87bcc814cb748b1a72f68debb4]{
 -- Page 923, Offset 26935.
 -- 嘘から出た<実|まこと>ではないが、今日は寄り道せずに帰ってこよう。
-There's a kernel of truth to what I said, today I'll come back home without taking any detours.
+There's a kernel of truth to what I said, today I'll come straight home without taking any detours.
 }
 [sha:91b2d3abaa2b15fe85b3a2f9975b3d19dce3e8a8]{
 -- Page 923, Offset 26936.
