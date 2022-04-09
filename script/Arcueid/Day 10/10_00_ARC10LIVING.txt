@@ -435,7 +435,7 @@ Because of that, I spent a full %{i}30 minutes%{/i} picking at my breakfast―�
 -- Page 914, Offset 26911. Glued. Mods: @x.
 -- 明日、明日こそは必ず、志貴さんの目に星が散るような朝食をご用意しますから……！」
 // Leading space for glue
- Tomorrow I'll make sure to prepare a breakfast that'll make your eyes sparkle with joy...!"
+ Tomorrow I'll be sure to prepare a breakfast that'll make your eyes sparkle with joy...!"
 }
 [sha:7bd2ca4bf10c59b4f6decfbf13c14a275622d00b]{
 -- Page 915, Offset 26912.
@@ -534,7 +534,8 @@ Akiha-sama is staying back today, so why don't you take the day off school as we
 [sha:d7b4663417b9c28225de4bb063fd2a0e2ba9aa76]{
 -- Page 921, Offset 26930.
 -- 「もう。そんな優しい顔で言われてはお咎めもできません。わかりました、秋葉さまには内緒にしておきます。
-"Geez. How can I fault you when you make that gentle face. I understand. I'll keep it a secret from Akiha-sama.
+"Geez. How can I stop you when make that endearing face.
+ I understand. I'll keep it a secret from Akiha-sama.
 }
 [sha:30eab619ced1caa577e8ec2dbf0ba95d8974816a]{
 -- Page 921, Offset 26931.
@@ -565,7 +566,7 @@ There's a kernel of truth to what I said.
 [sha:91b2d3abaa2b15fe85b3a2f9975b3d19dce3e8a8]{
 -- Page 923, Offset 26936.
 -- ちゃんと体力を戻して、秋葉たちを安心させて、アルクェイドとの待ち合わせに行けばいい。
-I need if I'm to regain my strength and put Akiha and the others at ease before I go out and meet with Arcueid.
+I need to if I'm to regain my strength and put Akiha and the others at ease before I go out and meet with Arcueid.
 }
 [sha:1d883f2a2c847d75ceb9cfe2d0d94c342cb1fa59]{
 -- Page 924, Offset 26937.
@@ -729,7 +730,7 @@ I lose my balance.
 -- 坂道に落ちていく。懸命にしがみつく。しかし凹凸のない世界。
 I'm collapsing toward that sloping floor.
  I hold on for dear life.
- But the word offers me no footholds.
+ But the world offers me no footholds.
 }
 [sha:b4ac328cde52c7b6ceb368c814202d1df76f8fde]{
 -- Page 931, Offset 26968.
@@ -756,9 +757,11 @@ The female students shriek.
 -- 教師がかけよってくる足音が聞こえる。
 I hear the footsteps of the teacher rushing over to me.
 }
-[sha:708b624ecb453b05f34cc66630d10d2c4ed01a80]{
+[offset:26973]{
 -- Page 933, Offset 26973.
 -- 俺は。
+// Tempted to just replace this with an 'Ah...' or something, it doesn't
+// really chain into the next sentence like it sorta does in JP
 I am...
 }
 [sha:6435cb91e677dd61971b3bc87334fd374fe2dfbf]{
@@ -775,19 +778,21 @@ Even though I'm out cold,
 [sha:7e97842fdf54657b3d120f161e6234982af22883]{
 -- Page 934, Offset 26976.
 -- 貧血で気を失った俺は保健室に運ばれて、体調が良くなるまでベッドで眠る事になった。
+// Last bit tweaked a bit to avoid tense weirdness
 After I passed out from my anemia,
- I was carried to the school infirmary and put to bed until my condition improves.
+ I was carried to the school infirmary and put to bed in the hopes my condition would improve.
 }
 [sha:d436e4fea5ce656b4905273be1a849b76b32f19c]{
 -- Page 934, Offset 26977.
 -- 夜の７時過ぎ、まだ熱が38℃近くあるため、養護教諭は遠野の家に連絡した。
-When seven o'clock came around and my fever was still hovering around 38℃,
+When seven o'clock rolled around and my fever was still hovering at 38℃,
  the school nurse contacted the Tohno household.
 }
 [sha:5ac36d2d6bb0d902a25de994af813bcfb57cd269]{
 -- Page 935, Offset 26978.
 -- 迎えはすぐにやってきた。
-They quickly came to pick me up.
+// Tense liberally promoted next few lines
+They quickly come to pick me up.
 }
 [sha:e138ff6b29f51869198afa17021ee570cb242eae]{
 -- Page 935, Offset 26979.
@@ -834,7 +839,7 @@ Tohno Shiki is strapped to the back seat with a seatbelt.
 -- Page 937, Offset 26987.
 -- 外の空気も、中の空気も重苦しい。
 // Supposed to be an 空気 (gaseous) and 空気 (mood) juxtapos? Or same/same we think?
-Both the air outside and the atmosphere inside feel heavy.
+Both the air outside and the atmosphere inside feel oppressively heavy.
 }
 [sha:b60098e6601a107db871f94663b8adc2de7b93f0]{
 -- Page 937, Offset 26988.
@@ -844,7 +849,7 @@ Both the air outside and the atmosphere inside feel heavy.
 [sha:05ff02e1a04cf8532dfbdef59cc00287a7574a59]{
 -- Page 937, Offset 26989.
 -- 冗談を思いついたが、口にするのは止めておいた。
-I thought about saying that joke out loud, but decided not to in the end.
+I think about saying that joke out loud, but decide not to in the end.
 }
 [sha:cfeaf8c85c47c8630e942542eb462afb33360f99]{
 -- Page 938, Offset 26990.
@@ -859,12 +864,13 @@ The shadows of trees fall away to reveal an old mansion.
 [sha:6d4d2f2445425b5fc0444e1c6fb51d7c0f54feaa]{
 -- Page 938, Offset 26992.
 -- 感嘆とも、<諦観|ていかん>とも取れるため息が漏れた。
+// Wowie, a D1 callback
 I let out a sigh that could be taken either as admiration or resignation.
 }
 [sha:10e8eae518259265e5ee4d3b94723af4026143df]{
 -- Page 939, Offset 26993.
 -- この屋敷は七年前から何も変わってはいない。
-This mansion hasn't changed at all in the past seven years.
+This mansion hasn't changed at all over the past seven years.
 }
 [sha:64749f8a537ba3d46d9a16ded187d9c49134fc4b]{
 -- Page 939, Offset 26994.
@@ -900,12 +906,13 @@ I have heard the news. I will take you to your bed soon, so please be patient un
 [sha:d38089d38285eda8dde8d3f1d0d466196192e2bb]{
 -- Page 941, Offset 27000.
 -- 使用人がロビーで出迎えてくれる。
-The servant greets me in the lobby.
+A servant greets me in the lobby.
 }
 [sha:29079613cbd564019882ca78664dc35890dcad0f]{
 -- Page 941, Offset 27001.
 -- なんとか玄関から中に入れたものの、膝はふんばりがきかず、絨毯に倒れそうになる。
-Although I somehow managed to get in through the front door, my knees give out and I feel like I'm about to collapse on the carpet.
+I'd managed to make it through the front door, but my knees can't hold on any longer.
+ I start to collapse toward the carpet.
 }
 [sha:3a5edd8500f33665b31f25968f36353704a04bc9]{
 -- Page 942, Offset 27002.
@@ -920,22 +927,25 @@ Pardon me. Please come this way. You must still have a fever. Please don't hesit
 [sha:a1f393d54a6dde836f48372f8f7193b3ecf4e66f]{
 -- Page 943, Offset 27004.
 -- 使用人は倒れかけた遠野志貴の体を支えてくれたばかりか、肩まで差し出してくれた。
-Not only did the servant hold up the body of Tohno Shiki as he was about to fall, but she also offered her shoulder.
+// :holothink:
+The servant props up Tohno Shiki's body before it can hit the floor.
+ Not only that, but she offers him her shoulder.
 }
 [sha:9419c832170c1cbcfcd34fe783fc6d7bfb98cf88]{
 -- Page 944, Offset 27005. Mods: @c.
 -- 「……いや、大丈夫。まだ歩くぐらいはできる。
-"...No, it's okay. I can still walk at least.
+// Not voiced. Also slightly faded text. New modcode here - @c
+'...No, it's okay. I can still walk at least.
 }
 [sha:6043d62a515b7402926c3f36f941b28c3265dc11]{
 -- Page 944, Offset 27006. Mods: @c.
 -- それより、ありがとう。確か、触られるの苦手だっただろ、君」
-But thanks anyway. I'm sure that you didn't like being touched, right?"
+More importantly, thank you. You don't like being touched, right?'
 }
 [sha:f0f08e5784fac5f8a1cc93e231be2d0cfc7c34d7]{
 -- Page 944, Offset 27007.
 -- 精一杯の強がりを口にする。
-I try to speak with as much strength as I can muster.
+I do my best to put on a bold front.
 }
 [sha:1dae23bad65b9fd2d780c93e6248a922b7699048]{
 -- Page 945, Offset 27008.
@@ -955,12 +965,13 @@ I won't inform Akiha-sama or my sister, so please entrust your body to me.
 [sha:0a651985c4c70e39e601ff063b3f4d2017d088b5]{
 -- Page 945, Offset 27011.
 -- 志貴様が病気がちなのは志貴様のせいではありません。志貴様は甘えていいのです。
-The fact that you are prone to being ill is not your fault. It is okay for you to act spoiled.
+It's not your fault that you are prone to illness.
+ It's alright for you to need a helping hand.
 }
 [sha:81be20a08612b3b8cdcc45b9d45ccd8bcb6eb02d]{
 -- Page 945, Offset 27012.
 -- 人間、誰だって頼りたいし、頼られたいものなのですから」
-Human beings... us people want to rely on others and be relied on after all."
+After all, we humans are creatures that want to rely on others and be relied on in turn."
 }
 [sha:b436e49a8ec8aed9ca3fc44fd368e05294ba624d]{
 -- Page 946, Offset 27013.
@@ -970,12 +981,12 @@ After saying that, the servant grasps my cold hands.
 [sha:9e03a1c8c155ca6e3ea496c1efb09887b5a36cac]{
 -- Page 947, Offset 27014. Mods: @c.
 -- 「……そっか。じゃあ、遠慮なく」
-"...I see. In that case, I leave it to you."
+'...I see. In that case, I leave it to you.'
 }
 [sha:f5056b6ecc4c0558a46cbf691eab0ce88ee616a3]{
 -- Page 947, Offset 27015.
 -- 素直に、その甘い声に従った。
-I obediently follow her sweet-sounding voice.
+I obediently surrender to her sweet-sounding voice.
 }
 [sha:582ee93c5214978d66d9e6ca43d96ea0c8e6d7fb]{
 -- Page 948, Offset 27016.
@@ -991,7 +1002,7 @@ I obediently follow her sweet-sounding voice.
 [sha:c60366cb1d5c65ab52526d821f8b19b3711ef060]{
 -- Page 948, Offset 27018.
 -- ……生かされたい。生かしたい。
-...I want to be saved. I want to save others.
+...I want to live. I want to let live.
 }
 [sha:4af20e995a178eddfacade766db9f514c41bbc01]{
 -- Page 949, Offset 27019.
@@ -1006,7 +1017,7 @@ Although they are the opposites of each other, that doesn't mean they are mutual
 [sha:9f1187c5b4e6c01649b44e1ed42dc68941a5ada3]{
 -- Page 949, Offset 27021.
 -- 確かにそれは、誰もが同時に抱く願望だ。
-Indeed, those are desires that we all hold dear at the same time.
+We all harbor each of these opposing desires within us, after all.
 }
 [sha:cb8555016faff9efe32d8c375902520045b497c4]{
 -- Page 950, Offset 27022.
@@ -1016,22 +1027,23 @@ Indeed, those are desires that we all hold dear at the same time.
 [sha:ab302e71e8dc5d23ee03ef8a6e0995d851c282de]{
 -- Page 950, Offset 27023.
 -- 手を引いて使用人は歩き始める。
-The servant leading me begins to walk up.
+The servant leading me by the hand begins to climb the stairs.
 }
 [sha:735f5a363b3a5c039858f98562bea325dc02c11e]{
 -- Page 950, Offset 27024.
 -- ……歩くだけで明暗／断絶する。
-...Simply walking is enough to flickers/disrupt my vision.
+...Simply walking is enough to make my vision flicker in and out.
 }
 [sha:99924f53fb00db754b7ab30d95206366e5958585]{
 -- Page 950, Offset 27025.
 -- 朦朧とした意識のまま、使用人に任せて足を進ませる。
-In my dazed state of, I leave everything to the servant and continue forward.
+In my dazed state, all I can do is put one foot in front of the other,
+ relying on the servant for the rest.
 }
 [sha:1ef8f8d9b57dcc46fef087bfcfe2cfb968676368]{
 -- Page 951, Offset 27026. Mods: @c.
 -- 「あ――――れ？」
-"――――Huh?"
+'――――Huh?'
 }
 [sha:e953b4681d28600517cb3e1a160601fb61475cb4]{
 -- Page 951, Offset 27027.
@@ -1041,7 +1053,8 @@ This is the wrong place. We went the wrong direction.
 [sha:bfedfa9169ea721c18dc26f6a0c64e276c80ec7b]{
 -- Page 951, Offset 27028.
 -- この先は東館だ。遠野志貴が立ち入ってはいけない領域だ。
-The east wing is up ahead. It is an area that Tohno Shiki must not enter.
+This corridor leads to the east wing.
+ It is an area that Tohno Shiki must not enter.
 }
 [sha:a9d43b5d4b9a5372e421909c3fe11569bdc16af9]{
 -- Page 951, Offset 27029.
@@ -1056,12 +1069,12 @@ beyond this point―――
 [sha:12c1066946f77b1de37437aa1fa47abce7609ec4]{
 -- Page 952, Offset 27031. Mods: @c.
 -- 「こっちは違うよ」
-"We're at the wrong place."
+'Hey, we went the wrong way.'
 }
 [sha:2c23f700294100461f1ae232c0f59fd9ba2a5b5f]{
 -- Page 952, Offset 27032.
 -- 遠野志貴は声をかける。
-Tohno Shiki tries to call out.
+Tohno Shiki calls out.
 }
 [sha:9188bea32623d3c7c7057e9be0e3edfd93049025]{
 -- Page 952, Offset 27033.
@@ -1071,17 +1084,19 @@ There's no response from the servant.
 [sha:4b7c04ff90a4e0909e41e4a46aebb8d7d726a0eb]{
 -- Page 952, Offset 27034.
 -- いや、そればかりか―――甘かった手の感触も、もう見慣れた筈の給仕服さえ、ない。
-No, it's not just that―――The sweet touch of her hands and even the maid outfit that I'm all so familiar with... are gone.
+No, that's not all―――
+I no longer feel the sweet touch of her hands,
+ nor is there any sign of the maid outfit I'm so used to seeing.
 }
 [sha:4b1d1ed7f94f468055214b160d309f9d95b31b38]{
 -- Page 953, Offset 27035. Mods: @c.
 -- 「……あれ……」
-"...Huh..."
+'...Huh...'
 }
 [sha:456d1a0c3f116cfd4ec2c50d96aded708ceb79b0]{
 -- Page 953, Offset 27036.
 -- 定まらない意識を総動員してあたりを見渡す。
-I focus all of my attention on my unsteady consciousness and look around my surroundings.
+I gather what I can of my unsteady consciousness and examine my surroundings.
 }
 [sha:3751172fcf8f22b71ae2376b5e899d3f2183c7d5]{
 -- Page 953, Offset 27037.
@@ -1101,22 +1116,22 @@ I can't feel anything at all.
 [sha:81133cddb81c5a285a181c157c8f56586359aa69]{
 -- Page 953, Offset 27040.
 -- 気がつけば、そこは、
-When I come to notice, over there...
+I suddenly realize...
 }
 [sha:b4eba314d1c900c1d64b8af987386c3662c4aa9b]{
 -- Page 954, Offset 27041.
 -- 入り口も出口もない、
-It is the inside of an enormous drawer,
+This space is an enormous drawer.
 }
 [sha:208f8e75e8dc7fe5eb928eabed547b509df7de48]{
 -- Page 954, Offset 27042.
 -- もう使わなくなったガラクタを仕舞う、
-stored with junk that is no longer being used,
+A place to put away junk that no longer serves a purpose.
 }
 [sha:08361a984937cd9c55d231c69085b8eefd01e106]{
 -- Page 954, Offset 27043.
 -- 巨大な引き出しの中だった。
-with no way in or out.
+A place with no way in, or out.
 }
 [sha:1fc2e10ff7dad0af834840a4cddc5cd828e4593c]{
 -- Page 955, Offset 27044.
@@ -1126,27 +1141,28 @@ with no way in or out.
 [sha:9fbeffd58446c83ae407c5a2fc38accab174729e]{
 -- Page 955, Offset 27045.
 -- 倒壊するように倒れ込む。
-I collapse like a building being demolished.
+I crumble to the ground.
 }
 [sha:d22617e27df76f838b71b1196c37fe8e1dbdaf25]{
 -- Page 955, Offset 27046.
 -- 遠野志貴を生かしている何かの不興を買ったらしい。
-It seems that something about letting Tohno Shiki live had brought a bad taste to someone's mouth.
+It seems that someone can no longer stand to let Tohno Shiki live.
 }
 [sha:a8d3f2e9c4a0b20c6dad734431e210da436d1a71]{
 -- Page 955, Offset 27047.
 -- 地面は柔らかなクッションのようにも、
-I think the ground is either like a soft cushion,
+I wonder if the ground is like a soft cushion,
 }
 [sha:5bd6fd193af441888005bd5c84ffd8b298706597]{
 -- Page 955, Offset 27048.
 -- 草で編んだ固い畳のようにも思えた。
-or a hard tatami mat made of woven grass.
+or like a hard tatami mat made of woven grass.
 }
 [sha:ee31ebc43d37346406561140c56664b9fbd9ce11]{
 -- Page 955, Offset 27049.
 -- もう肌の感触はない為、真相はおそらく、次に目覚めるまで分からない。
-I can't feel my skin anymore, so the truth will probably have to wait until the next time I wake up.
+I've lost all sense of touch,
+ so the truth will probably have to wait until the next time I wake up.
 }
 [sha:3a3904cec1fa1f62b59c29606c9aadb146f14883]{
 -- Page 956, Offset 27050.
