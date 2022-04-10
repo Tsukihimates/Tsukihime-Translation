@@ -1,7 +1,8 @@
 [sha:57e96c4871354a6e33f2124feb38150fce041e81]{
 -- Page 10017, Offset 25564.
 -- ……結局、あの後も放送室やら美術室やらを案内させられ、学校から出る頃には日は沈みきっていた。
-...In the end, I showed her around the broadcasting, fine arts room, etc. and by the time we finally leave the school, the sun has already set.
+...In the end, Arcueid makes me show her around the broadcasting room, fine arts room, and many other parts of the school.
+ By the time we finally leave, the sun has already set.
 }
 [sha:788ff5af98ada052b561e9c2976d36f36c5beb30]{
 -- Page 10017, Offset 25565.
@@ -16,12 +17,13 @@ It's a bit early, but we should begin searching for vampires.
 [sha:c942ee739b8f7c4d7f46fedfce05dc386dbc25e8]{
 -- Page 503, Offset 25567. Mods: @n.
 -- 「すっかり暗くなったな。他に行く所もないし、そろそろ始めようか、
-"It's gotten pretty dark. Nothing left to do, so we'd better get started,
+"It's gotten pretty dark.
+ I can't think of anywhere else to go, so shall we get started
 }
 [sha:527187f8d6d0b6e8407e1f6e235d96d1ed4242f4]{
 -- Page 503, Offset 25568. Glued. Mods: @n.
 -- アルクェイド
- Arcueid.
+ Arcueid?
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 503, Offset 25569. Glued.
@@ -31,32 +33,37 @@ It's a bit early, but we should begin searching for vampires.
 [sha:37d07813fd6332a609b5963e84e4c22624683a0a]{
 -- Page 503, Offset 25570.
 -- 「もう行くの？　まだ街は明るいよ？」
-"We're going already? It's still light out, though."
+// Interpreting 街は明るい as like 'stuff is open', since the sun is def set
+"What, already? There's still plenty to do in town isn't there?"
 }
 [sha:03d2adcb3b1162d2fdea6be29cbcd16d9ed874ea]{
 -- Page 504, Offset 25571.
 -- 「早いにこした事はないだろ。昼間は十分に遊んだんだから、夜ぐらいはきちんと仕事をこなさないと」
-"The faster we do this, the better. We already played around plenty during the day, so we should at least get some work done during the night."
+"The sooner we do it the better, right?
+ We already played around plenty during the day, so we should at least get some work done during the night."
 }
 [sha:1c1acbd1a59da74677f05268b546f1cc9e5b7b5b]{
 -- Page 505, Offset 25572.
 -- 「志貴ってヘンに生真面目よね。そんなに真面目なのに、どうして昨日は約束を破ったりしたのかしら」
-"You seem way too into this. How'd you break your promise yesterday if you're this serious about it?"
+"You seem way too into this. Why'd you break your promise yesterday if you're this serious about it?"
 }
 [sha:1d1772e5df0483ba0be1732f8c814b1160fcfb70]{
 -- Page 505, Offset 25573.
 -- 「……仕方ないだろ、昨日は体が動かなかったんだから。直前までは公園に行くつもりだったんだ」
-"...What'd you want me to do about that? I couldn't move my body yesterday. I intended to go to the park until that happened."
+"...I mean I didn't exactly do that on purpose, did I?
+ I could barely even move by the time yesterday evening rolled around.
+ I'd been planning on going to the park up until the last minute."
 }
 [sha:fd84a170d64c74aa6f01545f66fbfa6a5940650b]{
 -- Page 506, Offset 25574.
 -- ……まあ、今にして思うと無謀だったけど。
-...Well, now that I think about it, it would've been pretty reckless.
+...Though, now that I think about it, doing so would've been pretty reckless.
 }
 [sha:13c86c41e651fbbf374b5bedb21627f728635ab7]{
 -- Page 506, Offset 25575.
 -- 秋葉が止めてくれなければ、あんな体のままアルクェイドと合流して、ここ一番で足を引っ張ったに違いない。
-If Akiha hadn't stopped me, I would have joined up with Arcueid in that terrible state and definitely have held her back at a crucial moment.
+If Akiha hadn't stopped me from going to meet up with Arcueid in that condition,
+ I would almost certainly have held her back at a critical moment.
 }
 [sha:7f8be9c84dd0bc9bfc2dc9ba5a6ea73413451c89]{
 -- Page 507, Offset 25576.
@@ -76,12 +83,12 @@ If Akiha hadn't stopped me, I would have joined up with Arcueid in that terrible
 [sha:64efa224ddd2b221bd208c91383a401270e042c4]{
 -- Page 508, Offset 25579.
 -- まだ時間はあるんだし、昨日できなかった事なら、今やり直せばいいじゃない」
-We still have some time, so if you couldn't go yesterday, you can just go there now."
+We still have some time, so if you couldn't get there yesterday, you can just make up for it now."
 }
 [sha:4e57af4f55ea73debfc960e6843539e0acf37322]{
 -- Page 509, Offset 25580.
 -- アルクェイドはタタッ、と軽い足取りで走り出す。
-Arcueid begins trotting off nimbly.
+Arcueid begins galloping off, her footsteps echoing lightly.
 }
 [sha:0023ae5dc7593ef10e75d9f87e4b7e73289b4215]{
 -- Page 509, Offset 25581.
@@ -96,7 +103,7 @@ It looks like she's seriously headed to the park.
 [sha:336c287bc7e5280c5e4e18e617e0557bd093d5db]{
 -- Page 509, Offset 25583.
 -- 駆けていくアルクェイドを見失わないように、こっちも全力で走り始めた。
-I begin to run at full speed as well so as to not lose the fleeing Arcueid.
+I break into a sprint as well so as not to lose sight of her as she dashes off.
 }
 [sha:262d66a78f79e53539efc57a7a12ab80fc350f10]{
 -- Page 510, Offset 25584. Mods: @n.
@@ -116,13 +123,15 @@ I begin to run at full speed as well so as to not lose the fleeing Arcueid.
 [sha:1831398e14db99d0445641d2f1764f96c2c9ca2e]{
 -- Page 511, Offset 25587.
 -- 肩で息をしながら乱れた呼吸を整える。
-// breathing and respiration used both to reduce redundancy and because 息 vs. 呼吸
-Breathing heavily with my shoulders heaving, I manage to bring order to my chaotic respiration.
+// Doubled over liberalized & inferred from the low view angle on the CG
+I'm doubled over, panting,
+ my shoulders heaving as I work to get my ragged breathing back under control.
 }
 [sha:cfe4228a97bd36ebe8bfda08671256e53ef508e3]{
 -- Page 511, Offset 25588.
 -- 人混みの中をここまで走らされるとか、今日はほんと、こいつに振り回されてばっかりだ。
-Having to run past a crowd of people to get here among other things, she really is doing nothing but pushing me around this entire day.
+I had to push my way through the crowds in order to keep up with her.
+ She really has been dragging me around by the collar all day.
 }
 [sha:ba280d011ec29ff4bcd421f47eb2f758d5b67fd0]{
 -- Page 512, Offset 25589. Mods: @n.
@@ -132,12 +141,12 @@ Having to run past a crowd of people to get here among other things, she really 
 [sha:6826a5b160bdcd824198d6a9823880891187d860]{
 -- Page 512, Offset 25590. Glued.
 -- 人が多いのね。
- around this time.
+ around at this time of night.
 }
 [sha:83cd6444cc6da15e3a861ac88a435f82d7341cc3]{
 -- Page 512, Offset 25591.
 -- そこかしこに人の気配がして、ちょっと落ち着かないかな」
-I feel signs of people here and there. Maybe I'm getting a little uncomfortable."
+I feel signs of people here and there. It makes it a little hard to relax."
 }
 [sha:ee9a8ba96b039f682d2acf729d84b19522f32180]{
 -- Page 512, Offset 25592.
@@ -147,7 +156,7 @@ I feel signs of people here and there. Maybe I'm getting a little uncomfortable.
 [sha:dcde7e9379932125d43617df2f48a57b6e772f74]{
 -- Page 513, Offset 25593.
 -- 「そう？　わたし、志貴の声はちゃんと聞いているつもりだけど？」
-"I didn't? But I'm sure I intended to listen to your voice."
+"I didn't? But I'm sure I heard your voice just fine."
 }
 [sha:4361acc45a18c4107da218839b4f6eecca90cf1d]{
 -- Page 513, Offset 25594.
@@ -162,7 +171,7 @@ I feel signs of people here and there. Maybe I'm getting a little uncomfortable.
 [sha:834b223d2165091e06a462dde2b84c6a3fd796c5]{
 -- Page 514, Offset 25596.
 -- 「……そうか。それは、こっちにも、問題があったかもしれない、か」
-"...Really now. So it... could be a... problem on my side... too, huh."
+"...I see. I guess... I'm partially... to blame... as well, huh."
 }
 [sha:26cdcf8ae7a8947c371d26559a9cb76e55ab3082]{
 -- Page 515, Offset 25597.
@@ -172,23 +181,26 @@ Huffing and puffing, I get my breathing under control.
 [sha:eea8f41ab5492a2b1890ca82e2fd9604e0fb8dad]{
 -- Page 515, Offset 25598.
 -- 学校前から公園まで、ざっと1.5キロ。
-It's roughly 1.5 kilometers between the front of the school and the park.
+It's roughly 1.5 kilometers from the front of the school to the park.
 }
 [sha:eb49404d542f94899dde142b29b435a42535dcb1]{
 -- Page 515, Offset 25599.
 -- 小走りだったとはいえ、それだけの距離を走った心臓はなかなか落ち着いてはくれなかった。
-Even though it was a light run, my heart wouldn't calm down easily after running such a distance.
+It's not a particularly large distance to cover at a jog,
+ but even so my heart is taking its sweet time to calm back down again.
 }
 [sha:5753cbea1bf124b69396f3599144a38d327b9525]{
 -- Page 516, Offset 25600.
 -- ……別段、アルクェイドが速く走った訳じゃない。
-...It's not like Arcueid ran particularly fast or anything.
+...Arcueid wasn't even running all that fast.
 }
 [sha:02806be003cc21f4b50737d4d50172cb3ea1feb5]{
 -- Page 516, Offset 25601.
 -- どっちかというと、アルクェイドにしては遅かったと思う。昨日の貧血の後遺症なのか、俺の体が本調子でなかっただけだ。
 // どっちかというと liberally TL'd as "in fact"
-In fact, I'd say that Aruceid ran slower than usual. It's just that my body was not in its usual condition, perhaps due to the lingering effects of yesterday's bout of anemia.
+In fact, I'd say that she ran %{i}slower%{/i} than usual if anything.
+ I'm simply not in peak physical condition right now,
+ no doubt due to the lingering effects of yesterday's bout of anemia.
 }
 [sha:5b0b597545b81233f50d26a156c26c1df420ea38]{
 -- Page 517, Offset 25602.
@@ -208,12 +220,13 @@ In fact, I'd say that Aruceid ran slower than usual. It's just that my body was 
 [sha:3dcf331a2dbd78caa82f03f725fad28b0d50bd07]{
 -- Page 518, Offset 25605.
 -- 「ヴローヴの時もそうだったけど、吸血鬼は自分たちの時間でなければ無闇に活動はしないものなの。
-"It might have also been true in Vlov's case, but vampires don't tend to act recklessly unless it's done on their own time.
+"Vampires don't tend to act recklessly unless it's done on their own time.
+ This was true of Vlov as well, remember?
 }
 [sha:7358f9ba39d4621134756078cd87f2dd6eb84fe8]{
 -- Page 518, Offset 25606.
 -- 彼らはもっと夜の気配が濃くならないと活動しないから、しばらくは時間を潰さないとね」
-They won't be active until the night becomes darker, so we'll have to kill some time for a bit."
+They won't be active until the night becomes darker, so we have some time to kill.
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 519, Offset 25607.
@@ -238,17 +251,21 @@ The park's clock reads just past 9:00 PM.
 [sha:d6ba41dbbae46c957a6e80556aac4b2d01bb36a6]{
 -- Page 520, Offset 25611.
 -- 段々と人影は減っていき、夜は刻一刻と深まっていく。
-The number of people is slowly decreasing, and the night is getting darker by the minute.
+There are fewer and fewer people around,
+ and the night is getting darker by the minute.
 }
 [sha:78aaa98dd53a78ed7f24215a4864064c37cbdfa7]{
 -- Page 521, Offset 25612.
 -- アルクェイドはどうしてかベンチに座らず、退屈そうにそこいらを歩きまわっていた。
-For whatever reason, Arcueid isn't sitting down on the bench and is walking around with a bored look on her face.
+// そこいら -> 'by the fountain' based on CG
+Arcueid doesn't seem to feel like sitting down for whatever reason,
+ and is pacing around by the fountain instead.
 }
 [sha:111375aa080aa048d2ec38c6126a9d204e093aa0]{
 -- Page 521, Offset 25613. Mods: @n.
 -- 時間だけがすぎていく
-Time passes.
+// 'Only time passes' as in nothing else happens, I assume
+Everything else is still save for the hands of the clock
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 521, Offset 25614. Glued.
@@ -263,7 +280,8 @@ A silent night.
 [sha:acc35024d90f3389c3284c6d5e1d775964d749a6]{
 -- Page 521, Offset 25616.
 -- <晧晧|こうこう>とした月光が、夜の公園とアルクェイドを照らしている。
-The shining moon illuminates Arcueid and the park.
+// 夜の公園 -> _empty_  park to at least preserve the adj
+The shining moon illuminates both Arcueid and the empty park around her.
 }
 [sha:6233f045324950ba94ecc8735ce585f18c45e12f]{
 -- Page 523, Offset 25617.
