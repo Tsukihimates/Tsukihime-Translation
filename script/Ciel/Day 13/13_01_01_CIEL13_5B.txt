@@ -668,7 +668,7 @@ He pulls my hand and takes me to the next town.
 -- わたしはクラクラした頭で従った。
 I follow along, feeling dizzy from everything that had happened.
 }
-[sha:a2799ad269f186bf3d3294e4fbd75795c39685d4]{
+[offset:35030]{
 -- Page 613, Offset 35030.
 -- ところで。
 That reminds me.
@@ -691,6 +691,7 @@ For example, on one side, there was an exhibition.
 [sha:c1c1f78569bfa19ad8ebb9114de6dd4e0e5e071f]{
 -- Page 615, Offset 35034.
 -- 広場に続く道路には幾つものオブジェが立っていた。よく見るとそれは人間の大きさぐらいのサボテンで、もっとよく見ると人間そのものだった。
+// lint-off:LintPageOverflow
 On the road to the square, there were many pieces of art standing up. When you look closely, you could see they were cacti around the size of a human, and if you look even closer, you could see that they were humans themselves.
 }
 [sha:faa7c1c88469e4eb03a26de4ef0969f385b8159d]{
@@ -883,7 +884,7 @@ More than fifty people were crowded together, shoudler to shoulder, holding thei
 -- このまま夜が明ければすべての不思議が終わって、もとの日常に帰れると信じながら。
 I believed that if the day were to dawn at this rate, all these strange things would come to an end, and that I would be able to return back to my normal life.
 }
-[sha:5321136b901acd10e75e4306155179c44f10663f]{
+[offset:35073]{
 -- Page 627, Offset 35073.
 -- でも、
 However―――
@@ -981,7 +982,7 @@ One after another.
 [sha:f1ab1fb173b1c1b03488387035c46eb2d0155e02]{
 -- Page 633, Offset 35092.
 -- どうも、薄皮にまでノスのがいいらしい。
-　　　　　　Who knew that skin could stretch so far?
+            Who knew that skin could stretch so far?
 }
 [sha:d9a0d8f5bb438a257fd746351cf95f4f141f3601]{
 -- Page 633, Offset 35093.
@@ -1041,7 +1042,7 @@ Even though I couldn't remember his name no matter what, the old man who held me
 [sha:d42049589c75a5a2972ba812f383de24c31a739f]{
 -- Page 637, Offset 35104.
 -- “アナタは最後に殺してあげる”
-　　　　　　"I'll save you for last."
+            "I'll save you for last."
 }
 [sha:db872374d400859fb31df8ba4e28cd59a75abf1a]{
 -- Page 638, Offset 35105.
@@ -1051,7 +1052,7 @@ Don't throw him away like trash just because he's bad. Somebody pick him up. Ple
 [sha:317a1fc47f73d872967a7e039b5bdda7dbdee5ff]{
 -- Page 639, Offset 35106.
 -- ああああああああああああああああああ。
-　　　　　　　　　AAAAAAAAAAAAAAAAAAAAAAH.
+                  AAAAAAAAAAAAAAAAAAAAAAH.
 }
 [sha:8215a4b0b6ba4b54ac5bd5725d27960820ea3873]{
 -- Page 640, Offset 35107.
