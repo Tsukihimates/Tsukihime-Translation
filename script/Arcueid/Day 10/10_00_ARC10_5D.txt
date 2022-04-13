@@ -396,7 +396,8 @@ I couldn't look her in the eye as I replied.
 [sha:cf18e7d127552339e8fb6aa264102b4cafb3c769]{
 -- Page 584, Offset 25786.
 -- わたしは気にしないけど、それってひどい侮辱よ。なにを根拠にそんなことを言うのか、聞かせて」
-I don't really mind it, but that was a terrible insult. What exactly made you ask such a thing?"
+Anyone else would have considered that to be a grave insult.
+ What exactly made you ask such a thing?"
 }
 [sha:65376e7eae880d261efb363a2bff57df2df95c70]{
 -- Page 585, Offset 25787.
@@ -555,7 +556,7 @@ Arcueid walks toward me with a smile on her face, taking step after step.
 [sha:34c3986ef707ba9b1fdc115d3c6eda6a9fed7ca8]{
 -- Page 596, Offset 25817. Mods: @n.
 -- かつんかつん、
-Tap, tap
+%{i}Tap. Tap%{/i}
 }
 [offset:25818]{
 -- Page 596, Offset 25818. Glued.
@@ -612,7 +613,7 @@ She closes in little by little, her head gently lowered.
 [sha:828ad6de62abc1e54909c7e8825bb308e7ab21a3]{
 -- Page 598, Offset 25828.
 -- 俺は指一本も動かせないまま、彼女の、<瑞々|みずみず>しくも肉感的な、唇を見つめている――――
-I'm unable to even lift a single finger, my eyes transfixed by her full, sensual lips――――
+I'm unable to lift even a single finger, my eyes transfixed by her full, sensual lips――――
 }
 [sha:e42d773ec83c86012b1694a0ca736361d06e2001]{
 -- Page 599, Offset 25829.
@@ -677,7 +678,7 @@ I desperately try to suppress my boiling emotions.
 [sha:08ef39b619536e61f8dc893bad0bf71752b23d94]{
 -- Page 601, Offset 25841.
 -- 背中をかき乱そうと<戦慄|わなな>く左腕を、
-I try to hold back with every fabric of my being―――
+I try to hold back with every fiber of my being―――
 }
 [sha:4dea3565ceac6d6fb1054e962729c86514c827c2]{
 -- Page 601, Offset 25842.
@@ -733,13 +734,16 @@ But I mustn't defile her heartfelt courage like this.
 [sha:cc5107dae1507eb66f2a3dacec8b40e8cf4f7b3b]{
 -- Page 603, Offset 25852.
 -- 奥歯をかみ砕く勢いで、わき上がる情動を呑み込んだ。
-Summoning a strength that nearly grinds my molars into dust,
- I manage to hold back my seething emotions.
+// Actually more like a 'strength [so great] it masticates my teeth',
+// as in the act of exerting the strength causes him to involuntarily grind
+// them, but doesn't really real well like that
+Gritting my teeth so hard my molars grate,
+ I manage to summon enough strength to hold back my seething emotions.
 }
 [sha:2de40612b10272afe1269868d13494457528f2b4]{
 -- Page 603, Offset 25853.
 -- 時間にして１秒もなかった葛藤。
-My internal conflict barely lasted a second.
+My internal conflict was over in little under a second.
 }
 [sha:e41ca25cc8b02b4ce40e764ee386a9ea92c87bec]{
 -- Page 603, Offset 25854.
@@ -865,7 +869,7 @@ Her breathing goes from a light whimper to heavy, labored hyperventilation.
 [sha:89209fe7d9b1b62062bbd8dfa790596963feb576]{
 -- Page 610, Offset 25878.
 -- 「冗談―――――なのに」
-"Even though―――――you're messing around..."
+"Even though―――――it's just a joke..."
 }
 [sha:0e068abb91da51a0afa9e4460bfd91c2d5513068]{
 -- Page 610, Offset 25879.
@@ -1045,7 +1049,7 @@ Divine providence that could not be opposed.
 [sha:f4bc5fabb7dce4273dacc72b4a3aaa11d2bf2118]{
 -- Page 619, Offset 25914.
 -- わかり合える筈もない生き物だった。
-A creature unable to form any sort of mutual understanding.
+A creature that cannot be understood.
 }
 [sha:11c1ca9043063d07b7d48344b2d2eb1976cf2025]{
 -- Page 620, Offset 25915.
@@ -1060,7 +1064,8 @@ Teeth, spiked, like a mountain range.
 [sha:160baf04c6ac12c5b758da5aa609b15fa2085dc6]{
 -- Page 620, Offset 25917.
 -- 意思の疎通など出来ようのない、<瀑布|ばくふ>じみた力の<撓|たわ>み。
-A curved mass of force like a waterfall; allowing no room for mutual understanding.
+// "Achieve mutual understanding' modulated a bit
+A curved mass of force like a waterfall; something that absolutely cannot be reasoned with.
 }
 [sha:8039a61bc9306992559fb42c5d6f056b827236f0]{
 -- Page 620, Offset 25918.
@@ -1096,12 +1101,13 @@ So this is what it's like to be preyed on.
 [sha:36bf05889544779687e59ef64e1b7d94565c8e20]{
 -- Page 622, Offset 25924. Mods: @n.
 -- この生命の前では、
-A human in front of this lifeform
+A human in front of this lifeform―――
 }
 [sha:1ae1e74cba1e1a2f82e2454ffa71675559654840]{
 -- Page 622, Offset 25925.
 -- 人間は飲まれるだけの飛沫にすぎず―――
-is nothing more than a drop to be consumed―――
+// Forced linebreak here despite glue
+Is nothing more than a drop to be consumed―――
 }
 [sha:dc7e1a43f040b9bb0d511fd6167e118d5c2ed980]{
 -- Page 623, Offset 25926. Mods: @n.
@@ -1121,7 +1127,7 @@ With a crunch, the fangs pierce my neck.
 [sha:f30a62ea8a93d0d979a65fc4180f2c773317fbee]{
 -- Page 623, Offset 25929.
 -- あたまのなかにあるのは、恐怖だけだった。
-All that was left in my mind was fear.
+All that's left in my mind is fear.
 }
 [sha:f784c964cdc82e94975c3307726cf102abe3e22e]{
 -- Page 623, Offset 25930.
@@ -1136,15 +1142,15 @@ I let out a scream.
 [sha:4cc28a6401e9ae67b92e2b675a1125d9653361c4]{
 -- Page 624, Offset 25932.
 -- 自分で、自分の声を聞いて情けないな、と思った瞬間。
-In the moment when I thought to myself how pathetic it is to hear my own voice.
+Hearing my own voice like that, it sounded almost pathetic for a moment.
 }
 [sha:6c04cdc6af69604eb602486f57eb3ea4e2cb8774]{
 -- Page 624, Offset 25933.
 -- ほんとうに、気のせいかもしれないけれど。
-Perhaps it's really just my imagination.
+Perhaps it's only my imagination―――
 }
 [sha:c273367ad57282f511a8a2a352315645a3c59e4e]{
 -- Page 624, Offset 25934.
 -- アルクェイドの動きは、そこでピタリと止まってくれたような気がした。
-But it feels like Arcueid has stopped completely in her tracks.
+But it feels like Arcueid has stopped dead in her tracks.
 }
