@@ -1,7 +1,7 @@
 [sha:57e96c4871354a6e33f2124feb38150fce041e81]{
 -- Page 10017, Offset 25564.
 -- ……結局、あの後も放送室やら美術室やらを案内させられ、学校から出る頃には日は沈みきっていた。
-...In the end, I showed her around the broadcasting, fine arts room, etc. and by the time we finally leave the school, the sun has already set.
+...In the end, I showed her around the broadcasting, fine arts room, etc. and by the time we finally left the school, the sun had already set.
 }
 [sha:788ff5af98ada052b561e9c2976d36f36c5beb30]{
 -- Page 10017, Offset 25565.
@@ -106,7 +106,7 @@ I begin to run at full speed as well so as to not lose the fleeing Arcueid.
 [sha:1ec62670f5b335556237cd95d49a187503eff40c]{
 -- Page 510, Offset 25585. Glued.
 -- 言ってちゃんと付いてくるんだよね、志貴って」
- You always follow along no matter what I say."
+ You always follow along, no matter what I say."
 }
 [sha:7f4933bf54387402715bf6e3c13d91dfed261e54]{
 -- Page 511, Offset 25586.
@@ -117,12 +117,13 @@ I begin to run at full speed as well so as to not lose the fleeing Arcueid.
 -- Page 511, Offset 25587.
 -- 肩で息をしながら乱れた呼吸を整える。
 // breathing and respiration used both to reduce redundancy and because 息 vs. 呼吸
-Breathing heavily with my shoulders heaving, I manage to bring order to my chaotic respiration.
+//I don't think it sounds very natural though
+Breathing heavily with my shoulders heaving, I manage to bring order to my chaotic gasping.
 }
 [sha:cfe4228a97bd36ebe8bfda08671256e53ef508e3]{
 -- Page 511, Offset 25588.
 -- 人混みの中をここまで走らされるとか、今日はほんと、こいつに振り回されてばっかりだ。
-Having to run past a crowd of people to get here among other things, she really is doing nothing but pushing me around this entire day.
+Having to run past a crowd of people to get here among other things, she really has done nothing but pushing me around this entire day.
 }
 [sha:ba280d011ec29ff4bcd421f47eb2f758d5b67fd0]{
 -- Page 512, Offset 25589. Mods: @n.
@@ -137,6 +138,8 @@ Having to run past a crowd of people to get here among other things, she really 
 [sha:83cd6444cc6da15e3a861ac88a435f82d7341cc3]{
 -- Page 512, Offset 25591.
 -- そこかしこに人の気配がして、ちょっと落ち着かないかな」
+//'I might be getting a little unconfortable' feels more natural and makes more sense to mean
+//but depends on the nuance of the jp
 I feel signs of people here and there. Maybe I'm getting a little uncomfortable."
 }
 [sha:ee9a8ba96b039f682d2acf729d84b19522f32180]{
@@ -248,7 +251,8 @@ For whatever reason, Arcueid isn't sitting down on the bench and is walking arou
 [sha:111375aa080aa048d2ec38c6126a9d204e093aa0]{
 -- Page 521, Offset 25613. Mods: @n.
 -- 時間だけがすぎていく
-Time passes.
+//do you want and ellipsis or a period?
+Time passes
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 521, Offset 25614. Glued.
@@ -318,7 +322,7 @@ That was too brazen, even for me.
 [sha:4346a7658e6bf83bbde4f8f5d5356f98e61d0b15]{
 -- Page 525, Offset 25627.
 -- 帰り道に襲われておきながら、それを今まで失念していたなんて！
-I can't believe I was attacked on my way home and completely forgot about!
+I can't believe I was attacked on my way home and completely forgot about it!
 }
 [sha:da26cc86f57726a0f08280b20cdc43df0fb91cfe]{
 -- Page 526, Offset 25628.
@@ -348,12 +352,13 @@ I calm myself down and explain what happened two nights ago in as much detail as
 [sha:289be1e85f1d97f6f8c3c8774feb3258cab8aaba]{
 -- Page 527, Offset 25633.
 -- ひとしきり説明して、アルクェイドの顔色を窺う。
+//is there a feasible replacement 
 I explain for a while and look at Arcueid's face.
 }
 [sha:0ebe59e589d43dfc20aafc11a358cec89f32e157]{
 -- Page 527, Offset 25634.
 -- 話が始まってからこっち、アルクェイドの目は鋭いままで和らぐ事はなかった。
-Ever since the beginning of the talk, Arcueid's eyes remained sharp and never let down.
+Ever since the beginning of the talk, Arcueid's eyes remained sharp and never wavered.
 }
 [sha:0f757286e2b56bad9a4ec11f3b9cffaaaf3c840c]{
 -- Page 267, Offset 25635.
