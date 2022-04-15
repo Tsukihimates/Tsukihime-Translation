@@ -123,10 +123,11 @@ As long as he gets close. It's fine if he pierces my chest the next moment, but 
 -- 「それにしても今夜は明るいですね。これじゃあ闇に紛れて忍びこむのも難しいです。
 "But still, it really is bright out tonight. It'll be hard to hide under the cover of night like this.
 }
-[sha:296153b5ac049cb48510eacb5052856468765762]{
+[offset:32339]{
 -- Page 244, Offset 32339. Glued. Mods: @x, @n.
 -- ……
-......
+// Fix for double-glue pessimal case
+%{n}......
 }
 [sha:730b39b2b7abce948cf036d62dc18157cf41c11f]{
 -- Page 244, Offset 32340. Glued.
