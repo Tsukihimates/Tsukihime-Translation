@@ -158,7 +158,7 @@ Panicking, the girl darted out of the room calling for a doctor.
 [sha:cb014d1e14edb41be981e3139927915d5af45117]{
 -- Page 11, Offset 138.
 -- パタパタパタパタ。
-Pitter patter. Pitter patter.
+%{i}Pitter patter%{/i}. %{i}Pitter patter%{/i}.
 }
 [sha:0147d9ffc03795f6a14bede26557467864df16d4]{
 -- Page 11, Offset 139.
@@ -248,7 +248,7 @@ All except one thing.
 [sha:36585715a143e0af2fca7f6b8f857ddab79116c2]{
 -- Page 17, Offset 156.
 -- 涙するような<約束|ことば>を、何か大切なことを忘れている気がして、窓の外をながめ続けた。
-I continued staring through the window, unable to shake off the feeling that I had forgotten something very important. A 'promise' that was bringing me to tears.
+I continued staring through the window, unable to shake off the feeling that I had forgotten something very important. A %{i}promise%{/i} that was bringing me to tears.
 }
 [sha:9b637ce46734f5df8761baccec2ba51a5fde7aa2]{
 -- Page 18, Offset 157.
@@ -414,12 +414,12 @@ When I touched one of them with my finger...
 [sha:486f7551795584d80777e1b6d53f7d5ee853dee7]{
 -- Page 30, Offset 189. Glued. Mods: @n.
 -- つぷり、
-Poke,
+ %{i}Poke%{/i},
 }
 [sha:0903adb46bfa52619f81304348559c5c5307d348]{
 -- Page 30, Offset 190. Glued.
 -- と指先が沈みこんだ。
-my finger sank in.
+ my finger sank in.
 }
 [sha:be370f298b77d470942d9986d4445ba2231c6f94]{
 -- Page 31, Offset 191.
@@ -449,7 +449,7 @@ This was fun, so I slid the knife along one of the lines on the bed.
 [sha:fa9451c2d11c8f70d4780659400a0689ef5d866b]{
 -- Page 32, Offset 196.
 -- ごとん。
-Thud.
+%{i}Thud%{/i}.
 }
 [sha:a6d6c405b38e997071e9009c81e51e0a890f8fdb]{
 -- Page 32, Offset 197.
@@ -479,7 +479,7 @@ There was a nurse in front of the door with a disturbed look on her face.
 [sha:5cecebc0f209afa8d2bf3751ebe4026e9b127be4]{
 -- Page 35, Offset 202.
 -- お医者さんはベッドを壊した理由じゃなくて、その方法をしつこく聞いてきた。
-He kept on asking me 'how' I broke the bed, not so much as why I did it.
+He kept on asking me %{i}how%{/i} I broke the bed, not so much as why I did it.
 }
 [sha:c0b20db6b804363cda397f8d80d15f43bb582d7c]{
 -- Page 36, Offset 203.
@@ -519,7 +519,7 @@ Ever since I mentioned the lines, that kind smile of his was nowhere to be seen.
 [sha:7295476951b7ddd13b53fec5b65a11f84fd50434]{
 -- Page 39, Offset 210.
 -- きっと切り替えスイッチが故障したのだ。
-I was sure that 'switch' of his had broken.
+I was sure that %{i}switch%{/i} of his had broken.
 }
 [sha:d737c9fdb8ab8bd342e59fe750fcf1638415c1ca]{
 -- Page 39, Offset 211.
@@ -829,7 +829,7 @@ A person who could see these lines shouldn't be anywhere.
 [sha:3908113f17f379495a39a529deb4194692f59e54]{
 -- Page 58, Offset 272.
 -- ごほっ、ごほっ。
-Cough, cough, cough.
+%{i}Cough, cough, cough%{/i}.
 }
 [sha:8dea6399278af44659795699ab27db4c0b28fbe9]{
 -- Page 58, Offset 273.
@@ -1059,7 +1059,7 @@ The woman would get upset if I called her Aoko. She said she didn't like her nam
 [sha:cb9be31be1cfa806d8bd173f7920b2d36617fd60]{
 -- Page 77, Offset 318.
 -- なやんだあげく、なんとなく偉そうな人だから『先生』と呼ぶことにした。
-After much pondering, I decided to call her 'Sensei' because she seemed to be an important person.
+After much pondering, I decided to call her %{i}Sensei%{/i} because she seemed to be an important person.
 }
 [sha:2f8f600b75d75c6f4d01e082c8e0eea25faf2c0f]{
 -- Page 78, Offset 319.
@@ -1084,7 +1084,7 @@ Because I didn't know who the heck she was. She might've really been a teacher s
 [sha:24d9d4afaa470cb21e70ca6d22922127a4db3e6f]{
 -- Page 81, Offset 323.
 -- でも、それは僕とは関係のないもしもの話だ。
-But that was just a 'what if' that had nothing to do with me.
+But that was just a %{i}what if%{/i} that had nothing to do with me.
 }
 [sha:2e2316c0b2d986ca89ecf1414b2f2e37dbe5fc05]{
 -- Page 81, Offset 324.
@@ -1574,7 +1574,7 @@ I can't see the lines!"
 [sha:3e767217ad0fbbbc58ddc49a394684dbd1dd37db]{
 -- Page 122, Offset 421.
 -- 「あったりまえよ。わざわざ姉貴の所の魔眼殺しを奪ってまで作った、蒼崎青子渾身の一品なんだから。粗末に扱ったらただじゃおかないからね、志貴」
-"Of course. I went to the trouble of stealing my sister's Mystic Eye Killers to make them. They're Aozaki Aoko's best work yet. I won't let you get away with it if you treat them badly, Shiki."
+"Of course. I went to the trouble of stealing my sister's %{i}Mystic Eye Killers%{/i} to make them. They're Aozaki Aoko's best work yet. I won't let you get away with it if you treat them badly, Shiki."
 }
 [sha:7037b484fc1c28a45ab0b64d66602a8ad4d5a1d2]{
 -- Page 123, Offset 422.
@@ -1589,7 +1589,7 @@ All those lines that I hated so much are gone, it's like magic!"
 [sha:700334a278cabe052ec544af98c9b80c94e625cc]{
 -- Page 123, Offset 424.
 -- 「それも当然。だって私、魔法使いだもん」
-"Of course it's magic, I'm a magician after all."
+"Of course it's magic, I'm a %{i}magician%{/i} after all."
 }
 [sha:609f587aa5df63112d18cac1f09b109181d380ec]{
 -- Page 124, Offset 425.
