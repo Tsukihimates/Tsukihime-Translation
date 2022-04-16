@@ -107,7 +107,7 @@ Either way, go cool your head in that fountain over there.
 [sha:7ab3a520ad3a2a40ebb3a0dd756f563d50d12fa5]{
 -- Page 680, Offset 26096.
 -- ……予想外の言葉に、混乱しきっていた意識が静止した。
-...Those unexpected words brings my racing consciousness to a standstill.
+...Those unexpected words bring my racing consciousness to a standstill.
 }
 [sha:667d37eadb273b1583c45fbc73e67680f7a0a987]{
 -- Page 680, Offset 26097.
@@ -127,12 +127,14 @@ As the boy said, doing so hurts the other person, and more importantly, hurts me
 [sha:fc1a3f2e8836ba70d909f6cac6d6edbfec15664b]{
 -- Page 681, Offset 26100.
 -- 大きく息を吐いて、アルクェイドを追いかけたくてたまらない頭を、少しだけ冷静にする。
-I take a deep breath and cool my head just a bit as the thoughts of chasing after Arcueid race through my mind.
+Even though I want nothing more than to race after Arcueid right now,
+ I take a deep breath and calm myself down a little.
 }
 [sha:8a47433e8d04fd0bd1af981c07df8a5607d6fb1e]{
 -- Page 682, Offset 26101. Mods: @n.
 -- 「そうだな、悔しいけどその通りだ
-"You're right. It hurts to say this, but it's just like you said
+"You're right.
+ It pains me to admit it, but it's as you said
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 682, Offset 26102. Glued.
@@ -187,7 +189,7 @@ But I realize, deep inside, that doing so wouldn't solve anything.
 [sha:20f81a5fbdb812cc6f784d2ec2b6af4632bc3f16]{
 -- Page 685, Offset 26112.
 -- あの少年は間違いなく、これから俺が何をするべきなのかを知っている気がする。
-I get the feeling that this boy has a full understanding of what I should be doing from here on.
+I get the feeling that this boy definitely knows what I should be doing from here on.
 }
 [sha:49e90d033c74fadaf73e8585782ac7707aa8d18c]{
 -- Page 686, Offset 26113.
@@ -197,7 +199,12 @@ I get the feeling that this boy has a full understanding of what I should be doi
 [sha:01fa531daa17053a238e1b04addba4713b498d27]{
 -- Page 686, Offset 26114.
 -- 「死ね、ブタ。テメェ俺の後ろでＳＰだろうが。ベンチに座んのはオレだけだ。トオノはそこまで気を許しちゃいねえからな、どうせそこで立ちん坊だろ？」
-"Kill yourself, fatso. You're just an SP that follows from behind. The only one who gets to sit on the bench is me. Tohno still has his guard up, so you'd still have to stand there, don't ya think?"
+// Don't think SP is going to be understood by the audience directly here
+"Kill yourself, fatso.
+ Aren't you supposed to be providing my security?
+ I'm the only one who gets to sit on the bench.
+ It's not like Tohno's let his guard down at all,
+ so you'd better keep standing at attention, don't ya think?"
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 687, Offset 26115.
@@ -217,7 +224,7 @@ Just like Noel, this boy doesn't seem to fall under any definition of normal.
 [sha:7d01c82eb7ddd31fd6b67e3b6896b0aca6c59326]{
 -- Page 688, Offset 26118.
 -- 「んじゃあまあ、こっちから確認だな。
-"Well then, there's something I'd like to confirm.
+"First things first, there's something I'd like to confirm.
 }
 [sha:31bc83badab4679f5660f73e93954c27109c393f]{
 -- Page 688, Offset 26119.
@@ -227,7 +234,8 @@ How much have you heard about us?"
 [sha:3f7583ff8bea9b6a8110530ffd4d30e667ea77b4]{
 -- Page 688, Offset 26120.
 -- 「……吸血鬼退治の専門家だろ。アルクェイドは聖堂教会の代行者だと言っていた」
-"...You people specialize in slaying vampires, right? Arcueid called people like you The Executors of the Holy Church."
+"...You people specialize in slaying vampires, right?
+ Arcueid said that you're 'Executors of the Holy Church'."
 }
 [sha:c0793e5b54edb3bc4177ae0c2a69a8051b929b1f]{
 -- Page 689, Offset 26121.
@@ -237,12 +245,16 @@ How much have you heard about us?"
 [sha:3426979555e0236b0ec0ad6c1f0b335a4dad98f9]{
 -- Page 689, Offset 26122.
 -- オレは親父の代わりに派遣された新人でな。実のところ、この国の事情はまだ半分ってところだ。
-I'm a new dispatch taking over for my old man. To tell the truth, I only know half the story of this country's situation.
+I'm a new dispatch sent to represent the old man.
+ I still barely have a handle on what's going on in this country.
 }
 [sha:51b14479805b728dea6e21688b945ead57fb0b9b]{
 -- Page 689, Offset 26123.
 -- そこの三下はオレより早く調査していたがな。ただし独断。オレじゃなかったら師匠だけでなくテメェも更迭されてたからなブタ。感謝しろよ」
-That pipsqueak over there did some investigating before me. But she did it on her own. If it weren't for me, it wouldn't have just been your master being dismissed, but you as well, fatso. Show some gratitude."
+That pipsqueak over there did some investigating before me.
+ But she did it on her own.
+ If it weren't for me, you'd have been dismissed along with your master, fatso.
+ Show some gratitude."
 }
 [sha:644c4639330431ac0c1b1fd9014a969e47dffd76]{
 -- Page 690, Offset 26124. Mods: @k, @e.
@@ -252,32 +264,37 @@ That pipsqueak over there did some investigating before me. But she did it on he
 [sha:e08c04adcec3343846dd13f1f70afb9312c0333c]{
 -- Page 690, Offset 26125. Glued. Mods: @x.
 -- ……チッ」
-...Tsk."
+// Leading space for glue
+ ...Tsk."
 }
 [sha:a1d2b91be6d8d357ac5324c6cbe085d1e3bec13e]{
 -- Page 690, Offset 26127.
 -- マーリオゥくん。いま舌打ちしたよ後ろの人。
-Mario-kun. That person just clicked her tongue behind you.
+Mario-kun. She just clicked her tongue behind your back.
 }
 [sha:37a6e904f70495e852d7cb3c84299570268ab138]{
 -- Page 691, Offset 26128.
 -- 「オレたちの仕事は吸血鬼掃除だ。ただし標的は真祖……アルクェイドじゃねえ。厄介な競争相手だが、アレと正面からやり合うほど蛮勇じゃねえからな。
-"Our job is to eliminate vampires. But our target isn't the True Ancestor――Arcueid. She's a bothersome opponent, but I'm not crazy enough to go head-to-head with someone like that.
+"Our job is to eliminate vampires.
+ But our target isn't the True Ancestor―――Arcueid.
+ She's a bothersome competitor, but I'm not crazy enough to go head-to-head with someone like that.
 }
 [sha:5cd3807b6e735d609cdfeda2d1aba044c68c3391]{
 -- Page 691, Offset 26129.
 -- ……で。姫さまが追っている吸血鬼が何者なのか、何か聞いてるか？」
-...So, have you heard what kind of vampire that princess was going after?"
+...So, have you heard anything about the vampire that princess is chasing after?"
 }
 [sha:496cf5a709bb424c8c89da1a5fcab5d7ea46db44]{
 -- Page 692, Offset 26130.
 -- マーリオゥの声のトーンが、かすかに変化する。
-The tone in Mario's voice slightly changes.
+Mario's tone changes ever so slightly.
 }
 [sha:bcad5088c19da6e3d03145fe90fb836ba7951dcf]{
 -- Page 692, Offset 26131.
 -- ……ただの質問ではないようだが、今の俺には彼の真意は読み取れない。ここは正直に答えるしかない。
-...It doesn't seem like a simple question, but I can't read what his true motive is right now.
+...It seems like there's more to this question than he's letting on,
+ but I can't read what his true intentions are.
+ I'll just have to play along for now.
 }
 [sha:65ee094e11618620416f69d194abb2fd937e020f]{
 -- Page 693, Offset 26132.
@@ -287,22 +304,27 @@ The tone in Mario's voice slightly changes.
 [sha:5c6ca0e5bcf16cc3730f17a796b3b2a0138002b5]{
 -- Page 693, Offset 26133.
 -- 城主タイプの吸血鬼で、もう何年も前からこの街に潜んでいるんだろ」
-A Castle Lord that has already lurked this city for a couple of years."
+A Castle Lord that has already been lurking in this city for a couple of years."
 }
 [sha:f85a04f949d0f2061ee79f64de0af0b3699f4877]{
 -- Page 694, Offset 26134.
 -- 「………。それだけしか姫さまは口にしなかったワケか。
-"...So the princess hasn't told you anything else.
+"...So that's all the princess told you, huh.
 }
 [sha:9ee3020c20d9711fc54c11cd724a7e2d8c60a1b6]{
 -- Page 694, Offset 26135.
 -- こりゃあ二重の意味でハズレだな。トオノも知らないし、真祖も知らない。それであの迷走っぷりかよ。
-That's a complete miss on two fronts. Tohno doesn't know, and the True Ancestor doesn't know either. So that's why you're so lost.
+// Assuming he means like 1. it's a bust and 2. you haven't found Roa?
+What a miss, in both senses of the word.
+ You've got no clue, and neither does the True Ancestor.
+ No wonder you're so lost.
 }
 [sha:dbb59f95869d33261e471c868c872fba1a023247]{
 -- Page 694, Offset 26136.
 -- ……ったく、真祖に何があったんだ？　精度が低いにも程がある。隕石でも落ちてきたか？」
-...Geez, what happened to the True Ancestor? You can't possible be that off the mark. Did she get hit by a meteroite or something?"
+...Geez, what happened to the True Ancestor?
+ I can't believe she's this far off the mark.
+ She get hit by a meteorite or something?"
 }
 [sha:3fb4511d2bd2a50709b44c984ff54387e5aa8ab5]{
 -- Page 695, Offset 26137.
@@ -323,12 +345,14 @@ That'd probably be because I―――"
 [sha:4cff8d5e26983e5abceb217c727ae4372e4d876e]{
 -- Page 696, Offset 26140.
 -- 「まあいい、もう一体大物が来てたって報告もあるしな。眉唾だったんで後回しにしてたが、調査対象にあげておくか。
-"Whatever, I already had reports that another big one came. I've been putting it off because it was a fake, but perhaps I'll put it up for investigation.
+"Whatever, I'd already seen some reports saying some other big game had shown up.
+ I'd been putting off looking into it since it seemed like it might be a fake,
+ but maybe I'd better open an investigation.
 }
 [sha:102a5ba2fa6267f65042bbab9e1b446bd7b0ae90]{
 -- Page 696, Offset 26141.
 -- よし、確認はこれで済みだ。
-Right, that's the end of my confirmation.
+Right, that's all I wanted to ask you.
 }
 [sha:1b0e5e5a5ed0fb809ebaa4afccb9a3e384076ddd]{
 -- Page 696, Offset 26142.
@@ -343,7 +367,10 @@ Now on to the real issue―――The reason I stopped you is to tell you about t
 [sha:7a0fdc0eb1f56603a906c6fac091ed7a5067b749]{
 -- Page 697, Offset 26144.
 -- うしろでノエル先生があたふたしている。明らかに話してはいけない系のネタらしい。
-Noel-sensei from behind him becomes flustered. It seems that this is highly classified information.
+// This sentence structure is ass to translate
+// Sorely tempted to just drop the うしろで
+Noel-sensei has become visibly flustered in the background.
+ It seems that this is highly classified information.
 }
 [sha:3c0921d0069c19fe848c8107311b784fea357af8]{
 -- Page 698, Offset 26145.
@@ -353,22 +380,25 @@ Noel-sensei from behind him becomes flustered. It seems that this is highly clas
 [sha:ff9eea7b0f7ebcf30cf70dd2c9e48b84a62933ad]{
 -- Page 698, Offset 26146.
 -- アルクェイドの敵がどんな吸血鬼なのか、俺はまだ何も知らないんだから。
-After all, I still don't have any clue about what kind of vampire Arcueid's enemy is.
+Right now I'm still clueless about what kind of vampire Arcueid's enemy is.
 }
 [sha:38edf340f1b2d98672db4132c98193ff44201fa5]{
 -- Page 699, Offset 26147.
 -- 「……俺は助かるけど。いいのか、そんな話をして」
-"...It would help me a lot. But is it really okay to talk about it?"
+"...That would really help me out.
+ But is it okay for you to tell me?"
 }
 [sha:1fcf007064202de84a6f27c37986faf39b372bc7]{
 -- Page 699, Offset 26148.
 -- 「よくはねえ。機密事項だ。
-"It's not okay at all. It's confidential.
+"Of course not. This is confidential.
 }
 [sha:5583b1c8ce547430fa2fdf242a6dc78aa0a4bfa5]{
 -- Page 699, Offset 26149.
 -- だがまあ、トオノは当事者だし？　異教徒はともかく、無神論者は厚く遇するのが信条でね。いずれ大事な資金源になる」
-But it concerns you, right? Leaving heresy aside, I believe in treating atheists with kindness. It could turn into a valuable source of income."
+But it concerns you, right?
+ Heresy aside, I believe in treating atheists with kindness.
+ They might turn into a valuable source of income."
 }
 [sha:a7b0ca86aa4416bf17621ea707b76815a36ad2b9]{
 -- Page 699, Offset 26150.
@@ -378,13 +408,14 @@ But it concerns you, right? Leaving heresy aside, I believe in treating atheists
 [sha:3de5546a855061b9d253cab9d37bde40900d19b2]{
 -- Page 699, Offset 26151.
 -- 「黙ってろ、肝心な部分はモザイクいれるよ。
-"Be quiet, I'm censoring the sensitive bits.
+"Can it, I'm censoring the sensitive bits.
 }
 [sha:0a2b9821ffca5728b0196516f4847a5102b26379]{
 -- Page 699, Offset 26152.
 -- んじゃあまあ、姫君の稀なる協力者にレクチャーといきますか」
 // kill me.
-Well then, let's give a lecture to this rare accomplice of the princess."
+// only if you shoot me at the same time
+Well then, time to give this rare accomplice of the princess a lecture."
 }
 [sha:b9f09149036f5ff5529a8dd94ecbc2a4fe7c70f4]{
 -- Page 700, Offset 26153.
@@ -405,7 +436,16 @@ Then that means you've also heard that those types are imperfectly immortal."
 -- Page 701, Offset 26156.
 -- 「そうだ。けどさぁ、それって結局“不老不死”とは言えねえよなぁ？　不老不死ってのは完全のイメージだろ？　人間程度の血がなくちゃ生きていけない、血を飲まないと体が崩れていく生き物なんざ完全には程遠い。むしろ人間以下だろう」
 // this line of reasoning is non-sense.
-"Correct. But in the end, you can't really call that 'immortality', can you? 'Immortality' is more perfect than that, no? A creature that can't live without human blood is %{i}far%{/i} from perfect. If anything, that makes them lower than humans."
+// I _guess_ this makes sense in the context of Mario saying that
+// 'if are dependent on humans to survive, they are lower than them', but like...
+// I depend on plants to survive and I feel like I'm a step above those photosynthesizing bastards
+"Correct.
+ But in the end, you can't really call that 'immortality', can you?
+ 'Immortality' suggests something more perfect, no?
+ A creature that can't live without human blood,
+ whose body falls apart if they don't drink it,
+ is %{i}far%{/i} from perfect.
+ You could even say it makes them lower than humans."
 }
 [sha:105bc8391295195043ccf3c4ee85046e2d7c7c9d]{
 -- Page 702, Offset 26157.
@@ -421,7 +461,10 @@ It seems like a stretch, but he's not wrong.
 -- Page 702, Offset 26159.
 -- たしかに吸血鬼は人間以上だ。けれど血を吸わなければ生きていけないのなら、それは他の生き物と何が違おう。
 // which is it?? 以下 or 以上??
-There's no doubt that vampires are above humans. But if they can't live without sucking blood, then what makes them different from any other living creature?
+// Reading 人間以上 as more of a 'superhuman', above/beyond human capabilities rather than _ranking_
+// since yeah otherwise this feels like a flip
+There's no doubt that vampires outclass humans.
+ But if they can't live without sucking blood, then what makes them different from any other living creature?
 }
 [sha:fd822bc9e31840b7b6b26a4ceeb686b935d38c96]{
 -- Page 703, Offset 26160.
@@ -447,7 +490,9 @@ If any external factor can bring about their death, then that makes them mortal.
 [sha:7476d33636b78ae8505389f054210dd8850f8eef]{
 -- Page 704, Offset 26164.
 -- けど、それがどうしたんだよ。欠点はあれ、吸血鬼はかぎりなく……人間の血があるかぎり不老不死なのは変わらない。
-But what does this have to do with anything? That flaw isn't limited to vampires... it doesn't change the fact that they're immortal as long as they have blood.
+But what does this have to do with anything?
+ Despite their flaws, vampires are still eternal...
+ The fact that they're immortal so long as they can obtain human blood doesn't change.
 }
 [sha:7700a72ee3524abed13821f95d26101a97ec41ca]{
 -- Page 704, Offset 26165.
@@ -457,12 +502,13 @@ Does this immortality stuff have anything to do with Arcueid's enemy?"
 [sha:79b9c3ac1e9d1eea3ac15b17408f2c1c0ba6ca99]{
 -- Page 705, Offset 26166.
 -- 「ああ。ちょいと遠回りだがな。もうちっと我慢しろ。
-"Yeah. Though we still have a long way before we get there. So be patient.
+"Yeah. I'm still getting to that. Hold your horses.
 }
 [sha:64604d68684ef8031cbb9ef352bbd04bc0979f88]{
 -- Page 705, Offset 26167.
 -- とにかく死徒と区別される吸血鬼の『不老不死』は不安定なものなんだよ。ヤツらの場合、単純に寿命が人間の数倍になった、という事だけだからな」
-The 'immortality' of a non-Dead Apostle vampire is an unstable thing. In their case, they simply live several times longer than humans."
+As I was saying, the 'immortality' of Dead Apostle rank vampires is a fragile thing.
+ At the end of the day, they're just creatures with a lifespan several times longer than that of a human."
 }
 [sha:362c0bda01e766d32ed6c5347dd2be4a3eabf29a]{
 -- Page 705, Offset 26168.
@@ -483,12 +529,13 @@ The unique abilities of a Dead Apostle are just the skills they had as a human r
 [sha:840e786546fb0fc1fceef3a49e31ae7f0b0c151d]{
 -- Page 706, Offset 26171.
 -- ヤツらは自身が学んだものを吸血鬼になっても学び続け、結果としてそれが原理になっただけだ」
-They continue to learn even after they've become vampires, and as a result, it turns into a Principle."
+They continue their pursuit of knowledge even after they've become vampires,
+ and in the end it becomes their Principle."
 }
 [sha:14715d1585b178ec79de03fc60169150191d8b03]{
 -- Page 706, Offset 26172.
 -- 「原理……？」
-"A Principle...?"
+"Principle...?"
 }
 [sha:ed6b175d1db5702ecf7f1363f0aeb8f8edb3431d]{
 -- Page 707, Offset 26173.
@@ -503,22 +550,24 @@ The single path to true immortality.
 [sha:1f032533f0e55a715d803d905adc3204908bc6cd]{
 -- Page 707, Offset 26175.
 -- これを原理血戒―――イデアブラッドとヤツらは呼んでいる。ま、一生かけても終わらない夏休みの宿題とでも思っとけ」
-This is what is known as Hemonomic Principle―――or Idea Blood as they call it. Well, think of it as summer homework that can't be completed in a lifetime."
+This is what is known as Hemonomic Principle―――or Idea Blood, as they call it.
+ Well, think of it as summer homework that can't be completed in a lifetime."
 }
 [sha:bb0ed4f8ae2fe544ffb6daaf2afe646f678f402a]{
 -- Page 708, Offset 26176.
 -- 「この原理のため、死徒たちはそれぞれまったく別の目的で活動する。学んでいた<真|も><理|の>が一人一人違うからな。
-"It's because of this Principle that every Dead Apostle acts with a completely different objective in mind. After all, every one of them has learned a different truth.
+"Everything a Dead Apostle does is in service of this Principle, but they all go about it differently.
+ They've all learned different truths, after all.
 }
 [sha:1ffcd9cecab50231034cd2935ac635b51f9c014c]{
 -- Page 708, Offset 26177.
 -- で、だ。そんな死徒たちの中に、真剣に不老不死を学んでいやがるクソ野郎がいやがった」
-However. Among those Dead Apostles, there's one bastard in particular who studied immortality in all seriousness."
+However. Among those Dead Apostles, there's one bastard who devoted himself to the study of immortality."
 }
 [sha:ea764b7d30443f49bb2684bd82002c7e0212f080]{
 -- Page 708, Offset 26178.
 -- 「……？　不老不死になったのに、不老不死を研究していたっていう事か？」
-"Hm? They study immortality even though they're already immortal?"
+"Huh? You mean they're studying immortality even though they're already immortal?"
 }
 [sha:fc38ecdda27832d6afc58b6ea87258128468a561]{
 -- Page 709, Offset 26179.
@@ -528,32 +577,37 @@ However. Among those Dead Apostles, there's one bastard in particular who studie
 [sha:07ada01af2aff8c5d33be089fcc1967bd6377d8f]{
 -- Page 709, Offset 26180.
 -- だがな、ソイツはむしろ退化だと感じたらしい。
-But that guy, he felt it was something closer to degression.
+But to that guy, it apparently felt more like a step backwards.
 }
 [sha:659b46ca3bd3cf45a2b4e18d51dc6dc2b268d526]{
 -- Page 709, Offset 26181.
 -- こんな不完全なものはいらない、自分はもっと完全な不老不死を作り上げる、なんてな」
-'I don't need something as imperfect as this. I'll create an even more perfect version of immortality', or something like that."
+'I don't need this flawed excuse for immortality.
+ I'll create something even more perfect',
+ or something like that."
 }
 [sha:47355a230d70fd33ecb0bac2a63b9cc4cdee4bc4]{
 -- Page 710, Offset 26182.
 -- 「だがカタチがある以上滅びは必然だ。時間の圧迫、細胞の摩耗、魂の型落ちはいかなる存在にも例外はない。
-"But as long as he has a form, he will inevitably perish. The pressures of time, abrasion of cells, and the withering of the soul will hold true for all of existence.
+"But as long as he has a %{i}form%{/i}, he will inevitably perish.
+ Nothing that exists on this earth is exempt from the weight of time, the wearing down of cells, the withering of the soul.
 }
 [sha:bb3e9d42b04e6915b758cc2f8532b7b946025dfa]{
 -- Page 710, Offset 26183.
 -- 生命は生まれでた時点で死を内包している。自分がここに存る以上、たとえ歳をとらない肉体を持ってしまっても、存在の死から逃れる事はできない。
-At inception, death is sewed into every living being. Even if one possesses a body that doesn't age, as long as they exist, they cannot escape the death of their very being.
+Every living thing has death sewn into it at inception.
+ Even if one possesses a body that doesn't age, as long as they exist, they cannot escape the death of their very being.
 }
 [sha:dbddef57ad7e546be6d7d0a36a009e09f0c20d8d]{
 -- Page 710, Offset 26184.
 -- 死から逃れる、という事は死ぬ、という事だ。
-To escape death would be the equivalent of death itself.
+To escape from death would be the same as dying.
 }
 [sha:386655f1b843c40ee2ad88c9102ab1a67191e717]{
 -- Page 710, Offset 26185.
 -- この絶対の矛盾は、どうしても解決できない問題だ」
-This is a fundamental contradiction is unsolvable."
+This fundamental contradiction is unsolvable,
+ no matter how hard one might try."
 }
 [sha:23d9ca77c01247ca9be9bd76faf81a3ba5c91de4]{
 -- Page 711, Offset 26186.
@@ -568,7 +622,7 @@ If there was someone who could escape that, then―――"
 [sha:962461748f2e044dcd63d902967ff67c7676121a]{
 -- Page 711, Offset 26188.
 -- 初めから“死”が存在しないヤツだろう。
-It would be someone whose 'death' didn't exist from the very beginning.
+It would be someone for whom 'death' had never existed.
 }
 [sha:bccdd587261c4890daed726f96aea6efe4733255]{
 -- Page 711, Offset 26189.
@@ -578,23 +632,27 @@ Even Arcueid had signs of death during the day. There's no such thing as a perso
 [sha:91c2786179e25661a968b79dab7d58676a403713]{
 -- Page 712, Offset 26190.
 -- 「ああ。存在の死からは逃れられない。
-// lint-off:LintPageOverflow
 "Yeah. You can't run away from your own death.
 }
 [sha:87915d4bd3b9ff721fe0767b1987a1d2b768a36e]{
 -- Page 712, Offset 26191.
 -- そこでな、ソイツは寿命を延ばす方法ではなく、<死|・><ん|・><だ|・><後|・><も|・>自己が存在し続ける方法に目を付けた。
-And so, instead of a method that prolongs his own life, he became more interested in a method that could continue his own existence, %{i}even after death%{/i}.
+And so, instead of a method that prolongs his own life,
+ he set his sights on a method that could continue his own existence, %{i}even after death%{/i}.
 }
 [sha:39ccb44a3784b375753a51493568a7f20c2b30a7]{
 -- Page 712, Offset 26192.
 -- それこそが不老不死だと開眼しやがったのさ。うちの教義にはねえが輪廻転生ってヤツだな。
-So he became enlightened by this new view on immortality. It's not written in our doctrine, but we would call it reincarnation.
+He realized that this too was immortality.
+ It's not written in our doctrine, but we'd call it reincarnation.
 }
 [sha:5c7fbdb56035683049ea12a5a873bdbc5f82df7a]{
 -- Page 712, Offset 26193. Glued. Mods: @x.
 -- 今の自分が死んでも、自分を保存できたままで新しい人間としてやり直す事ができれば、それは死を先駆けている。
-Even if he were to die, if he is able to start over as a new person while preserving himself, then he would be one step ahead of death.
+// Leading space for glue
+ Even if he were to die,
+ if he can preserve his self and start afresh as someone new,
+ he can remain one step ahead of death.
 }
 [sha:f937ed57a788a224588a870a714eed09782678e3]{
 -- Page 712, Offset 26194.
