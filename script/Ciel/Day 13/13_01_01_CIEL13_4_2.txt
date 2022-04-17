@@ -1653,10 +1653,11 @@ For now, we should head toward the Church, right?"
 -- 「ええ。本国は無理でも、この国にはいくつかの支部がありますから。
 "Yes. The home country may be out of the question, but there are a few branches within this country.
 }
-[sha:296153b5ac049cb48510eacb5052856468765762]{
+[offset:34714]{
 -- Page 496, Offset 34714. Glued. Mods: @x, @k, @e.
 -- ……
-......
+// Fix double-glue headache
+%{n}......
 }
 [sha:a8ff2029ae39eb1945a0daf272189187b13b0cff]{
 -- Page 496, Offset 34715. Glued. Mods: @x.
