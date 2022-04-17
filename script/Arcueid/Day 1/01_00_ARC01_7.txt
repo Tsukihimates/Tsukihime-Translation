@@ -139,7 +139,7 @@ My mind is operating at full-capacity trying to recognize the girl in front of m
 -- Page 372, Offset 2106.
 -- 「―――はあ。話には聞いていましたが、本当に体調が不安定なんですね。時間は無駄にしますが、私からの話の前にお休みになられますか？」
 // Writing out "sigh" is weird
-"―――Hah. I have only heard the stories, but it seems to be true that your physical condition is quite unstable. While it is time poorly spent, would you rather rest before we talk?"
+"―――Sigh. I have only heard the stories, but it seems to be true that your physical condition is quite unstable. While it is time poorly spent, would you rather rest before we talk?"
 }
 [sha:02cc31cd4d8011bff905db4c60a0a22507dee818]{
 -- Page 372, Offset 2107.
@@ -400,7 +400,7 @@ It would be strange for the eldest son of the Tohno family to be kept in the Ari
 -- Page 391, Offset 2155.
 -- 欠陥、という言葉を自然に受け止める。
 // 欠陥、という言葉を自然に受け止める。
-I have come to accept the word 'defect' as natural.
+I have come to accept the word %{i}defect%{/i} as natural.
 }
 [sha:8b532bf2878b6482e4788cdffc11dd38f1c28536]{
 -- Page 391, Offset 2156.
@@ -596,7 +596,6 @@ It's nothing to be upset about.
 [sha:1da874906627692272cdc0891552a0cccb275f80]{
 -- Page 405, Offset 2192.
 -- 私は兄さんより上の立場で、それを承諾しろと一方的に宣言したつもりですけど……」
-// 私は兄さんより上の立場で、それを承諾しろと一方的に宣言したつもりですけど……
 It was my intention to use my position above you to unilaterally force you to consent, but..."
 }
 [sha:c57f1c15f23ae5a8db690334d332b2e17769357d]{
@@ -814,12 +813,12 @@ Wait a minute... you don't mean...
 [sha:0b6cfd5bea1345f3dbf2cf9cef88891148967a53]{
 -- Page 421, Offset 2234. Mods: @n.
 -- 「おまえ、屋敷に居候してる親戚、全員追い出したのか!?」
-"You got rid of all the relatives staying in the mansion?"
+"You got rid of all the relatives staying in the mansion?"%{n}
 }
 [sha:0eaee60927b0a89fb442c7ceae06e5e38a1bae84]{
 -- Page 421, Offset 2235. Glued.
 -- というか、そんな事できたんだ……！
- To think, she was able to do that...!
+To think she was able to do that...!
 }
 [sha:9d9506bfb452b5f4b06cee68ea2d5d63b3e2a2cc]{
 -- Page 422, Offset 2236.
@@ -1037,7 +1036,6 @@ It seems this man is no different from a cat who does not know left from right. 
 [sha:172d276e45a6446dcbce4b244561b6c64e8b0a5e]{
 -- Page 440, Offset 2277.
 -- 秋葉に一礼し、翡翠はしずしずとこちらにやってくる。
-// 秋葉に一礼し、翡翠はしずしずとこちらにやってくる。
 After bowing to Akiha, Hisui quietly comes toward me.
 }
 [sha:5efeeea93abd37911ff65588254e415f468267e7]{
@@ -1094,7 +1092,7 @@ Hisui heads for the door, unconcerned about my state of bewilderment.
 [sha:d3be2bb5932f6224a74bae4e22b12317d51117ae]{
 -- Page 444, Offset 2288.
 -- 「……はあ」
-"...Hah."
+"...Sigh."
 }
 [sha:734fb9e2feec5b1faa3cfa40e5f0e85830d0fc16]{
 -- Page 444, Offset 2289.

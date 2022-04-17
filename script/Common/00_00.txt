@@ -162,7 +162,7 @@ Panicking, the girl darted out of the room to call for a doctor.
 [sha:cb014d1e14edb41be981e3139927915d5af45117]{
 -- Page 11, Offset 138.
 -- パタパタパタパタ。
-Pitter patter. Pitter patter.
+%{i}Pitter patter%{/i}. %{i}Pitter patter%{/i}.
 }
 [sha:0147d9ffc03795f6a14bede26557467864df16d4]{
 -- Page 11, Offset 139.
@@ -1660,7 +1660,7 @@ All those awful lines are totally gone, it's like magic!"
 [sha:700334a278cabe052ec544af98c9b80c94e625cc]{
 -- Page 123, Offset 424.
 -- 「それも当然。だって私、魔法使いだもん」
-"Of course it's magic, I'm a magician after all."
+"Of course it's magic, I'm a %{i}magician%{/i} after all."
 }
 [sha:609f587aa5df63112d18cac1f09b109181d380ec]{
 -- Page 124, Offset 425.
