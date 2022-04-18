@@ -66,7 +66,7 @@ I open the heavy door and enter the premises, passing through the stone gate.
 -- Page 248, Offset 1797.
 -- 背後で、カシュ、と小気味よい音をたて、扉は固く<施錠|ロック>された。
 // 背後で、カシュ、と小気味よい音をたて、扉は固く<施錠|ロック>された。
-The door locks tightly behind me with a satisfying clunk.
+The door locks tightly behind me with a satisfying %{i}clunk%{/i}.
 }
 [sha:4b1028eeedf8b366eac09713266d275c9888f4d8]{
 -- Page 249, Offset 1798.
@@ -196,7 +196,7 @@ I shake off my nervousness and push the doorbell.
 [sha:774e41ae7a9829555f33809255a9bd28c16444f2]{
 -- Page 258, Offset 1821.
 -- ピンポーン、といった親しみのある音はしない。
-There's no familiar ding-dong sound.
+There's no familiar %{i}ding-dong%{/i} sound.
 }
 [sha:8f5aab6a28b61c2c89d8433243b2f307d9505521]{
 -- Page 259, Offset 1822.
