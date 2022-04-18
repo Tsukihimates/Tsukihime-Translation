@@ -27,7 +27,7 @@ heroine,
 [sha:d9173be0c0ab362a6eb5dc73635dc0238bffbf3f]{
 -- Page 240, Offset 43197.
 -- ヒロインにコメントをいただきましょう！
-who tragically met a brutal end%{n}
+ who tragically met a brutal end%{n}
 for a second time!
 }
 [sha:b417686b8e50711ce0950dde0b961612fe85d8e9]{
@@ -64,7 +64,7 @@ Umm, and who might you be...?
 [sha:e1316b00baa4fee4f03a000601278c43375f08ad]{
 -- Page 244, Offset 43204.
 -- あのネコっぽい生き物はどこに？
-Where did that cat-like creature run off to?{%n}
+Where did that cat-like creature run off to?%{n}
 }
 [sha:2894779d32c46bbb72061d23e1ada0344402d17a]{
 -- Page 244, Offset 43205.
@@ -79,8 +79,8 @@ I thought it was Arcueid's representative?
 [sha:5dd13f7174c8ee4dfb0dd1a926caf1de4f562508]{
 -- Page 245, Offset 43207.
 -- <鈍|のろ>いだけじゃなく、知性も低いのですね。
- Not only are you dull,%{n}
-but your intelligence leaves much to be desired.
+ Not only are you%{n}dull,
+ but your intelligence leaves much%{%{n}}to be desired.
 }
 [sha:36e155562c8ddae014bdf95c15397382b2e7ce06]{
 -- Page 246, Offset 43208.
@@ -102,7 +102,8 @@ misinterpreted
 [sha:7646da606e87fb25078dad741cadac3b9ccf8aae]{
 -- Page 247, Offset 43211.
 -- ひとり歩きをし出したジャーゴンにすぎない。
-as an urban legend and started to walk on its own.
+ as an urban legend and started to walk%{n}
+on its own.
 }
 [sha:f7cab1112f91c2e46a463cf0adcdf6d43a914ed8]{
 -- Page 248, Offset 43212.
@@ -112,12 +113,13 @@ If you are seeking thoughts regarding her%{n}demise,
 [sha:33398096cf388668fdd65be2adcf28fc95b985e0]{
 -- Page 248, Offset 43213.
 -- あの生物より適任がいるでしょう。
-there exists someone more qualified than that creature.
+ there exists someone more qualified%{n}
+than that creature.
 }
 [sha:c56d77a42a23aa73e43dfdb199043ceb469a3150]{
 -- Page 249, Offset 43214.
 -- 言うまでもなく、私の事ですが。
-Needless to say, I'm talking about myself.
+Needless to say, I'm talking about myself.%{n}
 }
 [sha:27a0cb934e347d41ad63a23dd7944d70e077eac4]{
 -- Page 249, Offset 43215.
@@ -132,19 +134,19 @@ After all, I'm no stranger to this matter.
 [sha:c6f7468596a34e6769e1e93c0a468f943916e150]{
 -- Page 251, Offset 43217.
 -- さっきまでいたネコのような生き物は、
-Arcueid's representative in this corner isn't the cat-like
+Arcueid's representative in this corner isn't the cat-like%{n}
 }
 [sha:afe07a8c0d8fbbb7749b8eb9738b5edbc98bb922]{
 -- Page 251, Offset 43218.
 -- このコーナーにおけるアルクェイドではなく……
 // This might seem minor, but における here is more implying representation.
 // 'This corner's Arcueid-role' or something like that.
- creature that had been here until now, but rather...
+creature that had been here until now, but rather...
 }
 [sha:719d22965bd91e723490b043d2ec5ea5de7170fc]{
 -- Page 252, Offset 43219.
 -- はい。この<世界|コーナー>における
-This corner's Arcueid Brunestud
+Yes. This corner's Arcueid Brunestud
 }
 [sha:15bb5fcae8b466cca83a453347fc22ac3deddaae]{
 -- Page 252, Offset 43220.
@@ -159,12 +161,14 @@ It costs a severe amount of money to have%{n}
 [sha:6d93ba6d53fe088d50f675b611e4e7acdc0295b7]{
 -- Page 253, Offset 43222.
 -- 出演には多大なコストがかかるので、
- me appear as an image of the future as you do.
+me appear as an image of the future as%{n}
+you do.
 }
 [sha:43b77f90a3578325f20e26f0d06d0b557624b5f6]{
 -- Page 254, Offset 43223.
 -- このように、コストを最小限におさえた
-So, in order to save on costs, I have appeared
+So, in order to save on costs, I have%{n}
+appeared
 }
 [sha:eb1e1a3d0ddf6bcc267965477f1bc1dd7324235b]{
 -- Page 254, Offset 43224.
@@ -184,7 +188,7 @@ Since I'm an economical version of%{n}Arcueid,
 [sha:fee8a6388a40f9bc83585712ae6d43e748d623a7]{
 -- Page 256, Offset 43227.
 -- エコアルク、とでも呼んでいただければ。
-you can call me Eco-Arc.
+ you can call me Eco-Arc.
 }
 [sha:4be20d43088441a8f7d94502f3b2411c765b5e51]{
 -- Page 257, Offset 43228.
@@ -194,12 +198,12 @@ Eco-Arc...!
 [sha:cc73101bf1b6c4e1ee03215cd8d9ce1e12672837]{
 -- Page 258, Offset 43229.
 -- では、あのネコ型生物は
-Then that means that vaguely feline
+Then that means that vaguely feline creature%{n}
 }
 [sha:269a3b69cc1a189c15905017aa3cf137449eead5]{
 -- Page 258, Offset 43230.
 -- もう現れないんですか！？　ヤッター！
- creature won't appear anymore, right? Woohoo!
+won't appear anymore, right? Woohoo!
 }
 [sha:f0967d3f627b17e425b1bf0a833ecca2261d49e1]{
 -- Page 259, Offset 43231.
@@ -214,7 +218,8 @@ Put bluntly, I will only appear on rare occasions.
 [sha:016d8698921f3b502075dac41fb1fe9737e21b25]{
 -- Page 260, Offset 43233.
 -- この後も、この先も、未来永劫、
-Next time, and the time after, and so on for all eternity,
+Next time, and the time after, and so on%{n}
+for all eternity,
 }
 [sha:13bf4e9e999ba5c2632e8e563c7ea2f82960cd14]{
 -- Page 260, Offset 43234.
@@ -239,12 +244,14 @@ But then, why is is that
 [sha:141fbf45c0c6c24408563383d6500fee9e065fb3]{
 -- Page 262, Offset 43238.
 -- 今回はエコアルクさんなのでしょう？
- you're the one here with me this time, Eco-Arc?
+ you're the one here%{n}
+with me this time, Eco-Arc?
 }
 [sha:d58e4dbf0a716d5019b06a90c22046fd44a3d54a]{
 -- Page 263, Offset 43239.
 -- やっぱり、遠野くんへの人でなしっぷりに
-I assume you must be here to lodge a complaint
+I assume you must be here to lodge a%{n}
+complaint
 }
 [sha:8df6a1a1d97f384aa165c9064ef21218fe313ad1]{
 -- Page 263, Offset 43240.
@@ -264,12 +271,13 @@ I assume you must be here to lodge a complaint
 [sha:06f83f15aab9186a8f85b8d738120f2ddcdf4679]{
 -- Page 265, Offset 43243.
 -- ……欲望に負けたばかりか、
-...Not only did he succumb to his desires,
+...Not only did he succumb to his desires,%{n}
 }
 [sha:d3c62b2903f47d22fdcd45ea1c5783fade93914b]{
 -- Page 265, Offset 43244.
 -- 壊れた後の自分の始末もできないなんて。
- but he couldn't even deal with his broken self afterward.
+but he couldn't even deal with his broken%{n}
+self afterward.
 }
 [sha:7a65caeb1322cefeae5ace00490db3655d5b916a]{
 -- Page 266, Offset 43245.
@@ -317,18 +325,18 @@ thing,
 [sha:1df9cbc360034752ce1b51b9cef1a0eb09864d08]{
 -- Page 270, Offset 43253.
 -- 一度、徹底的に痛い目に遭わなければ、
-After all, one cannot become a fine lady until
+After all, one cannot become a fine lady%{n}
 }
 [sha:63cfd19c7fc401213cd7081b9a0c14d9a5514bc4]{
 -- Page 270, Offset 43254.
 -- 淑女にはなれないようですから。
- they've had at least one traumatic experience.
+until they've had at least one traumatic%{n}
+experience.
 }
 [sha:3643684f4aefd212fe7da0a087e357ebf49c9a0a]{
 -- Page 271, Offset 43255.
 -- ？　言われなくてもアルクェイド相手に
-// This isn't about having trouble. Ciel is saying she wouldn't hold back against Arcueid. Perhaps (both lines): '? Even if you hadn't told me... it's not like I'd hold back when fighting against Arcueid...'
-I wouldn't have held back against Arcueid
+I wouldn't have held back against Arcueid%{n}
 }
 [sha:e26c1ce60ca6a69f11d08ae713e07aff2daff0ca]{
 -- Page 271, Offset 43256.
@@ -338,12 +346,12 @@ I wouldn't have held back against Arcueid
 [sha:402f5611863a9ba556a3398a379caa4d206ed71e]{
 -- Page 272, Offset 43257.
 -- あれ？　もしかして、エコアルクさんが
-Huh? Don't tell me that the person
+Huh? Don't tell me that the person you're%{n}
 }
 [sha:7982595ed61180b39754df6216a2325b204f5ac9]{
 -- Page 272, Offset 43258.
 -- 怒っている相手というのは―――
- you're actually furious at is―――
+actually furious at is―――
 }
 [sha:561db4c05c248b018529d0e38a7112f4d99f61b8]{
 -- Page 273, Offset 43259.
@@ -422,7 +430,7 @@ A super pretty version of me, to be precise.
 [sha:de43bfde534973ce46e559bdd11874b8830bd0bf]{
 -- Page 281, Offset 43273.
 -- その条件に該当する方は来ていませんね。
-I don't remember anyone who fits that description.%{n}
+I don't remember anyone who fits that%{n}description.
 }
 [sha:6fea9d7b54e18feb70af1f23eef0112b5081db15]{
 -- Page 281, Offset 43274.
@@ -437,7 +445,7 @@ How would you like to punished for being late?%{n}
 [sha:2cc11f985463ea0f374a583ff480929139acdd79]{
 -- Page 282, Offset 43276.
 -- カケイ、マタサキ、ヒキクルマ、アイアンメイデン……
-Burning at the stake, drawn and quartered, wooden horse, iron maiden...
+Burning at the stake, drawn and quartered, wooden horse,%{n}iron maiden...
 }
 [sha:6b490459a5121e97e383caf48fe74bb5060f5656]{
 -- Page 283, Offset 43277.
@@ -458,7 +466,8 @@ pieces
 [sha:817bde2f8e9224242926f3bb3f0b9e9eb87fa6b1]{
 -- Page 284, Offset 43280.
 -- 切り刻まれての<出血死|ブレイド>がお好みですか？
-and <bleed| b l a d e   > to death just like the original Arcueid?
+ and <bleed| b l a d e  > to death just like the
+%{n}Arcueid in the main story?
 }
 [sha:c717b22ff01c6965c61ec41a3c54708fa2c04dda]{
 -- Page 285, Offset 43281.
@@ -494,7 +503,7 @@ Oh no, this was not my original intention,
 [sha:79de1c5c3a6ebd50b05de58497b1b8805bfbc4f7]{
 -- Page 288, Offset 43287.
 -- ちょっと頼まれてしまったので♥
-but there%{n}was someone who asked for a favor ♥
+ but there%{n}was someone who asked for a favor ♥
 }
 [sha:e0932927e3214d23f09149628458fa94d5cf1a51]{
 -- Page 289, Offset 43288.
@@ -516,5 +525,5 @@ step too far~~!!
 [sha:7d0c61cacd3648abff10bd8e9f31cf6123c21836]{
 -- Page 290, Offset 43291.
 -- クセになったらどうする気ニャんですかぁ！？
-What are you going to do if it becomes a habit?
+ What are you going to do if it becomes%{n}a habit?
 }
