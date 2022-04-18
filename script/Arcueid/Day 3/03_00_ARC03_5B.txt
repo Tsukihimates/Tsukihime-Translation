@@ -75,7 +75,7 @@ Perhaps I'm feeling sentimental because of the slight fever.
 [sha:b729cb27e5733a8479fd3f1325bdfc88422518e5]{
 -- Page 198, Offset 4473.
 -- 「……帰ろう」
-"...Let's go home."
+"...Time to go home."
 }
 [sha:990c3f0d772b8a28d7df477307d94eb1a73d2ab6]{
 -- Page 198, Offset 4474.
@@ -102,7 +102,7 @@ All I want right now is to be left alone in my room. I want to take off my glass
 [sha:0c37400a99e466990576df7f2ed954e3895d4bdc]{
 -- Page 199, Offset 4478.
 -- @g　―――その女と、すれ違うまでは。
-@g ―――That is, until I crossed paths with that woman.
+@g ―――That is, until I crossed paths with that %{i}woman%{/i}.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 200, Offset 4479.
@@ -123,7 +123,7 @@ All I want right now is to be left alone in my room. I want to take off my glass
 [sha:8715e4d1ea19b6c3465e70cddcaf20ef7da63aca]{
 -- Page 201, Offset 4482.
 -- @g　―――ドクン。
-@g―――Ba-dump.
+@g―――%{i}Ba-dump%{/i}.
 }
 [sha:84965345107818c6c1dfda8983c8dc448f224d87]{
 -- Page 201, Offset 4483.
@@ -148,7 +148,7 @@ All I want right now is to be left alone in my room. I want to take off my glass
 [sha:f6ad58d6b42157c3202c29a7bbf7300d762794f4]{
 -- Page 202, Offset 4487.
 -- @g　―――どくん。
-@g―――Ba-dump.
+@g―――%{i}Ba-dump%{/i}.
 }
 [sha:f392245ec60666c2245ab48edcd719d2cedc273d]{
 -- Page 202, Offset 4488.
@@ -756,7 +756,7 @@ Don't ever look at things thoughtlessly, okay?"
 -- Page 232, Offset 4604.
 -- @g　室内に入った瞬間、かちん、と撃鉄の落ちる音を聞いた。
 // @g　室内に入った瞬間、かちん、と撃鉄の落ちる音を聞いた。"撃鉄" is a gun's hammer, not a regular hammer.
-@gThe moment I enter the room, I hear a 'kaching', the sound of a hammer striking.
+@gThe moment I enter the room, I hear a %{i}kaching%{/i}, the sound of a hammer striking.
 }
 [sha:4920c81df6c75b5947f027ada871154c1ded9cd2]{
 -- Page 232, Offset 4605.
