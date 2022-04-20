@@ -136,8 +136,7 @@ I'm terrified at the prospect of what might happen next.
 [sha:7ac03a672799a4cd09140558df1671d1076db7be]{
 -- Page 525, Offset 10006.
 -- いま俺が生きているのは<た|・><ま|・><た|・><ま|・>だ。
-// ruby dots <た|・><ま|・><た|・><ま|・>
-It's only by chance that I'm still alive.
+It's only %{i}by chance%{/i} that I'm still alive.
 }
 [sha:5da4b764da716f425d615274ec5cb197ec10018f]{
 -- Page 525, Offset 10007.
@@ -392,13 +391,12 @@ One of the Twenty-Seven Ancestors, Zaria Offenbaum.
 [sha:b6c9db8da84291dd75ba8063e5e6fdbf1d44b968]{
 -- Page 542, Offset 10056.
 -- 千年を超える原理を持ちながら“子”を作らずに領地を治めていたと聞いたけど…………そう。
-I'd heard that despite ruling over a territory while in posession of a millenium surpassing Principle, she never produced any 'children', but...... I see.
+I'd heard that despite ruling over a territory while in possession of a millenium surpassing Principle, she never produced any 'children', but...... I see.
 }
 [sha:cf8612eeb9c5815499033f497b5024310a30812d]{
 -- Page 542, Offset 10057.
 -- つまり、<殺|・><し|・><て|・><奪|・><っ|・><た|・><の|・><ね|・>？」
-// ruby dots <殺|・><し|・><て|・><奪|・><っ|・><た|・><の|・><ね|・>
-In other words, you killed her and took it, didn't you?"
+In other words, %{i}you killed her and took it, didn't you%{/i}?"
 }
 [sha:3fa95e0e7297ade4f2d667f1250107ba8b990ebb]{
 -- Page 543, Offset 10058.
@@ -413,8 +411,8 @@ The vampire turns his right hand toward his own shadow.
 [sha:11c56cf227d279cd0e8565456c92883ada39da95]{
 -- Page 544, Offset 10060.
 -- 長く―――不自然なまでに長く伸びた影から、巨大な<得|・><物|・>が浮上する。
-// 得物 seems a bit more ~special~ than just weapon. Ruby dots <得|・><物|・>
-From the long―― unnaturally long―― shadow that stretches before him emerges the hulking form of an outlandish weapon.
+// 得物 seems a bit more ~special~ than just weapon.
+From the long―― unnaturally long―― shadow that stretches before him emerges the hulking form of an %{i}outlandish weapon%{/i}.
 }
 [sha:b96d31336608a041ff2c5505466202aaa047b946]{
 -- Page 545, Offset 10061.
@@ -435,7 +433,7 @@ Therefore I took it. As a knight, I defeated the Queen and usurped her throne. A
 [sha:beab2c4093f1d0f8df74a94726093bc42468afec]{
 -- Page 546, Offset 10064.
 -- 「……強気だな。空想具現化も出来ぬほど弱っていながら、おれと正面から打ち合うと？」
-"...Well, aren't you an arrogant one? You are so weak that you cannot even use a Marble Phantasm, and yet you decide to face me head-on?"
+"...Well, aren't you an arrogant one? You are so weak that you cannot even use a %{i}Marble Phantasm%{/i}, and yet you decide to face me head-on?"
 }
 [sha:9ec4265322572731cdc62924eaf7a95fe13b74bb]{
 -- Page 546, Offset 10065.
@@ -651,7 +649,7 @@ Vlov cannot be sealed by those chains anymore.
 -- Page 560, Offset 10105.
 -- アルクェイドは敗れ、街は寒波に包まれた。
 // アルクェイドは敗れ、街は寒波に包まれた。
-Arcueid has been defeated, and the city engulfed by a freezing wave.
+Arcueid has been defeated, and the city is engulfed by a freezing wave.
 }
 [sha:be03b1b7760c919b07a07747cdcef1f2b418f900]{
 -- Page 560, Offset 10106.

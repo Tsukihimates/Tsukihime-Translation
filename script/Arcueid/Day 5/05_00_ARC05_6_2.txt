@@ -370,7 +370,7 @@ I recall her saying something earlier.
 -- Page 488, Offset 9895.
 -- ヴローヴの炎をものともしない白と黒の<戦闘衣装|ドレスコード>。
 // Ruby is ドレスコード, doesn't feel like it makes sense to include?
-Vlov's flames seem to mean nothing against the black and white battle costume.
+Vlov's flames seem to mean nothing against the black and white combat dress.
 }
 [sha:d5fb3c5bed963689df7634ee1428a21ba6ebaf15]{
 -- Page 488, Offset 9896.
@@ -450,7 +450,7 @@ As soon as his flames were nullified, Vlov became mere prey to be hunted.
 -- Page 493, Offset 9910.
 -- アルクェイドの爪は的確に、間断なく、ヴローヴの肉体に致命傷を重ね続ける。
 // アルクェイドの爪は的確に、間断なく、ヴローヴの肉体に致命傷を重ね続ける。
-Arcueid's claws are unrelenting, and continue to accurately inflict mortal wounds on Vlov's body.
+Arcueid's claws are unrelenting, and continue to accurately inflict mortal wounds on his body.
 }
 [sha:3376150a5306bc60621de64e7f6c090662de99b8]{
 -- Page 494, Offset 9911.
@@ -530,7 +530,7 @@ He jumps from the floor of the pit toward the surface.
 [sha:e81322f062cdf6c85bc01416f656eaa8c75e3b96]{
 -- Page 498, Offset 9926.
 -- 40メートルの高さも吸血鬼を止めるには至らない。
-Even a height of 40 meters is not enough to stop a vampire.
+Even a height of forty meters is not enough to stop a vampire.
 }
 [sha:ca0f286b534989edfad9fa2c1aa3d4d1c76a30e8]{
 -- Page 498, Offset 9927.
@@ -657,7 +657,7 @@ Vlov's complexion and anguish have become even more ghoulish.
 -- Page 506, Offset 9950.
 -- あの灼熱の中で<ひ|・><と|・><り|・><だ|・><け|・><世|・><界|・><が|・><違|・><う|・>。
 // あの灼熱の中で一人だけ世界が違う
-Within that scorching heat, he exists in his own separate world.
+Within that scorching heat, he exists in %{i}his own separate world%{/i}.
 }
 [sha:2f1068e1d921440a32a0437a9553825dd0f01de1]{
 -- Page 506, Offset 9951.
@@ -725,10 +725,10 @@ Knowing that, I―――
 [sha:5e545ca3ea71a733c2653773f813a5339645829c]{
 -- Page 510, Offset 42619. Choice.
 -- 戦いの様子を見るしかない。
- have no choice but to watch the battle from here.
+ Have no choice but to watch the battle from here.
 }
 [sha:290ded2837b4a96e98b4a4456fc1749e3db3e9b6]{
 -- Page 510, Offset 42620. Choice.
 -- アルクェイドを呼び止める。
- call out to Arcueid to stop.
+ Call out to Arcueid to stop.
 }

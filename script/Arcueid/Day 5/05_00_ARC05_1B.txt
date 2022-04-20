@@ -296,7 +296,7 @@ It's a natural reaction.
 [sha:62cdc41ced21b1ddd7113a930214dab0b6dee82a]{
 -- Page 57, Offset 8732.
 -- 加害者である俺が、アルクェイドを殺した理由にまったく見当がつかないっていうんだから。
-After all, with me being the perpetrator, there's no way that Arcueid could know the reason I killed her.
+After all, with me being the perpetrator, there's no way that she could know the reason I killed her.
 }
 [sha:1a58a543435e737145c36984709667fe3f6db8d3]{
 -- Page 58, Offset 8733.
@@ -331,7 +331,8 @@ What did this woman say to me just now―――?
 [sha:5e0c1730a5f7ba264bc127e491436698243d65db]{
 -- Page 60, Offset 8739.
 -- チャイムを押して、扉が開いた瞬間に手を差し込んできて、有無を言わさず中に押し入る。
-You pressed the bell, thrust your hand in the moment the door opened and then forcibly made your way inside.
+// or remove the preposition all together
+You pressed the bell, thrust your hand at the moment the door opened, and then forcibly made your way inside.
 }
 [sha:3903934b89c7ded8512f6dc9c6bc3d3af839ddb9]{
 -- Page 60, Offset 8740.
@@ -853,6 +854,7 @@ The nerve of this woman―――How could she say such a thing with a smile to h
 [sha:fbee7ef803d4838a8f47e74f62382f9d76c5da51]{
 -- Page 107, Offset 8843. Glued. Mods: @x, @k, @e.
 -- ど
+// maybe add dashes here to emphasize the cut off?
  do
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
@@ -1285,5 +1287,5 @@ I'm getting irritated.
 [sha:6b1b43c485d6cd4fc29fa21f097d6b177c511d99]{
 -- Page 142, Offset 8929.
 -- あんまりにイライラするものだから、せめて一秒でも早く、応急手当が出来そうなモノを買ってこようと走り出した。
-So irritated that I waste no time in dashing out to buy something I can use to give her first aid.
+So irritated that I waste no time dashing out to buy something I can use to give her first aid.
 }
