@@ -53,7 +53,7 @@ She didn't deny any of it.
 [sha:45d7127e488ad95a9daa9d0cf6110d1053b899b9]{
 -- Page 676, Offset 26086.
 -- 「ごめんなさいって―――それじゃあ、まるで」
-"You're sorry?―――You're acting like..."
+"You're sorry? ―――You're acting like..."
 }
 [sha:de076d1d8eba7f1d01c32a90b613f6b567ff7c89]{
 -- Page 676, Offset 26087.
@@ -144,7 +144,7 @@ Even though I want nothing more than to race after Arcueid right now,
 [sha:9d83d7b22514fc4bd283db32d62cecddc2cc408d]{
 -- Page 682, Offset 26103.
 -- ……助かった。アルクェイドを助けてくれて、礼を言う」
-...Thanks. For rescuing me from Arcueid."
+...Thanks, for rescuing me from Arcueid."
 }
 [sha:cd23a8a45d78600e48c81c74603e9389b31d3fef]{
 -- Page 682, Offset 26104.
@@ -200,7 +200,7 @@ I get the feeling that this boy definitely knows what I should be doing from her
 -- Page 686, Offset 26114.
 -- 「死ね、ブタ。テメェ俺の後ろでＳＰだろうが。ベンチに座んのはオレだけだ。トオノはそこまで気を許しちゃいねえからな、どうせそこで立ちん坊だろ？」
 // Don't think SP is going to be understood by the audience directly here
-"Kill yourself, fatso.
+"Kill yourself, Fatso.
  Your job here is to watch my ass.
  I'm the only one who gets to sit on the bench.
  It's not like Tohno's let his guard down at all,
@@ -253,7 +253,7 @@ I'm a new dispatch sent to represent the old man.
 -- そこの三下はオレより早く調査していたがな。ただし独断。オレじゃなかったら師匠だけでなくテメェも更迭されてたからなブタ。感謝しろよ」
 That pipsqueak over there did some investigating before me.
  But she did it on her own.
- If it weren't for me, you'd have been dismissed along with your master, fatso.
+ If it weren't for me, you'd have been dismissed along with your master, Fatso.
  Show some gratitude."
 }
 [sha:644c4639330431ac0c1b1fd9014a969e47dffd76]{
@@ -265,7 +265,7 @@ That pipsqueak over there did some investigating before me.
 -- Page 690, Offset 26125. Glued. Mods: @x.
 -- ……チッ」
 // Leading space for glue
- ...Tsk."
+ ...%{i}Tsk%{/i}."
 }
 [sha:a1d2b91be6d8d357ac5324c6cbe085d1e3bec13e]{
 -- Page 690, Offset 26127.
@@ -276,7 +276,7 @@ Mario-kun. She just clicked her tongue behind your back.
 -- Page 691, Offset 26128.
 -- 「オレたちの仕事は吸血鬼掃除だ。ただし標的は真祖……アルクェイドじゃねえ。厄介な競争相手だが、アレと正面からやり合うほど蛮勇じゃねえからな。
 "Our job is to eliminate vampires.
- But our target isn't the True Ancestor―――Arcueid.
+ But our target isn't the True Ancestor... Arcueid.
  She's a bothersome competitor, but I'm not crazy enough to go head-to-head with someone like that.
 }
 [sha:5cd3807b6e735d609cdfeda2d1aba044c68c3391]{
@@ -324,7 +324,7 @@ What a miss, in both senses of the word.
 -- ……ったく、真祖に何があったんだ？　精度が低いにも程がある。隕石でも落ちてきたか？」
 ...Geez, what happened to the True Ancestor?
  I can't believe she's this far off the mark.
- She get hit by a meteorite or something?"
+ Did she get hit by a meteorite or something?"
 }
 [sha:3fb4511d2bd2a50709b44c984ff54387e5aa8ab5]{
 -- Page 695, Offset 26137.
@@ -380,7 +380,7 @@ In the background, Noel-sensei has become visibly flustered.
 [sha:ff9eea7b0f7ebcf30cf70dd2c9e48b84a62933ad]{
 -- Page 698, Offset 26146.
 -- アルクェイドの敵がどんな吸血鬼なのか、俺はまだ何も知らないんだから。
-Right now I'm still clueless about what kind of vampire Arcueid's enemy is.
+Right now, I'm still clueless about what kind of vampire Arcueid's enemy is.
 }
 [sha:38edf340f1b2d98672db4132c98193ff44201fa5]{
 -- Page 699, Offset 26147.
@@ -507,7 +507,7 @@ Does this immortality stuff have anything to do with Arcueid's enemy?"
 [sha:64604d68684ef8031cbb9ef352bbd04bc0979f88]{
 -- Page 705, Offset 26167.
 -- とにかく死徒と区別される吸血鬼の『不老不死』は不安定なものなんだよ。ヤツらの場合、単純に寿命が人間の数倍になった、という事だけだからな」
-As I was saying, the 'immortality' of Dead Apostle rank vampires is a fragile thing.
+As I was saying, the 'immortality' of Dead-Apostle-rank vampires is a fragile thing.
  At the end of the day, they're just creatures with a lifespan several times longer than that of a human."
 }
 [sha:362c0bda01e766d32ed6c5347dd2be4a3eabf29a]{
@@ -675,7 +675,7 @@ Then again, it can't be called 'death' if he doesn't get extinguished at that po
 [sha:c3db4db4ff9adbe18de4dca0909f6f87bdf8dc42]{
 -- Page 714, Offset 26197.
 -- ソイツの情報はその赤子が成人、ないし自己としての知性を持つまで影を潜める。
-That 'self' remains hidden until the child either reaches adulthood or becomes intelligent in it's own right.
+That 'self' remains hidden until the child either reaches adulthood or becomes intelligent in its own right.
 }
 [sha:f2e5c003dc1570001e0a39239f4655d32a2f097d]{
 -- Page 714, Offset 26198.
@@ -765,7 +765,7 @@ Now he is the Dead Apostle known as The Serpent of Akasha, or the Infinite Reinc
 -- Page 718, Offset 26213.
 -- 蛇は無限や循環のシンボルだからな。脱皮して新しい体になるってのは、コイツにはぴったりの俗称だ」
 Snakes are symbols of infinity, of cycles―――
- It's a perfect name for someone like him, who casts away his body to be born anew."
+It's a perfect name for someone like him, who casts away his body to be born anew."
 }
 [sha:92f6cf44668f1261a8dcff8c710b60ddcdce9343]{
 -- Page 719, Offset 26214.
@@ -781,7 +781,7 @@ Snakes are symbols of infinity, of cycles―――
 -- Page 719, Offset 26216.
 -- その響きには薄ら寒いものを感じるが、今までアルクェイドが口にしなかった敵の正体が、ようやく分かった。
 Hearing those words sends chills through my body,
- but at long last I understand the true nature of the enemy that Arcueid was loathe to speak of.
+ but at long last, I understand the true nature of the enemy that Arcueid was loathe to speak of.
 }
 [sha:3b3ea0301ab6c95a4b9b9ea88f9e2c243af0307e]{
 -- Page 720, Offset 26217.
@@ -798,7 +798,7 @@ The princess was originally a tool that was used to kill vampires,
 [sha:7f4b7f500a7a403de6ade79791a39fd593d50d4b]{
 -- Page 720, Offset 26219.
 -- ロアが今まで転生した回数は十六回。
-To date, Roa has reincarnated 16 times.
+To date, Roa has reincarnated sixteen times.
 }
 [sha:5110320f4730e432aab807f570805b12efb54a38]{
 -- Page 720, Offset 26220.
@@ -808,17 +808,17 @@ And the True Ancestor has annihilated him, each and every time."
 [sha:9ed51742f22aedacb71291958e12076cd322d3cc]{
 -- Page 721, Offset 26221.
 -- 「……ことごとく消滅させてるって……でも、そいつは死んでもまた生まれてくるんだろ？　……なら、倒す意味はないんじゃないのか」
-"...She's annihilated him every time... But even if he dies, he still gets reborn, right? ...In that case, there's no point in defeating him."
+"...She's annihilated him every time... but even if he dies, he still gets reborn, right? ...In that case, there's no point in defeating him."
 }
 [sha:235f0a0312d67d22b60962d18b3fe565a5f1c56c]{
 -- Page 722, Offset 26222.
 -- 「そうだ。ロアは真祖に殺され、そのたびに転生し、また真祖に殺される。そんな繰り返しをもうずっと続けてきた。
-"You're right. Roa gets killed by the True Ancestor, is reincarnated, and then gets killed again. That pattern has repeated itself over and over again.
+"You're right. Roa gets killed by the True Ancestor, reincarnates, and then gets killed again. That pattern has repeated itself over and over again.
 }
 [sha:0d4a8c57aff92a0f9cdf5b5847a8d85d477d1481]{
 -- Page 722, Offset 26223.
 -- その年数、実に八百年。
-In fact, it's been happening for 800 years.
+In fact, it's been happening for eight hundred years.
 }
 [sha:ba423e99cf63556bc1d6e2f9303f4e4fdb45df49]{
 -- Page 722, Offset 26224. Mods: @n.
@@ -916,7 +916,7 @@ Because of that, there are no outward indications that the %{i}human%{/i} in que
 [sha:e499448f8fb74262fcaab1ca6a8ae9b62a056720]{
 -- Page 727, Offset 26241.
 -- 教会が異変に気がついた時は既に手遅れ、一つの街がそのまま死都になった後なんだとさ」
-But the time the Church notices anything's out of the ordinary, it's already too late.
+By the time the Church notices anything out of the ordinary, it's already too late.
  Nothing will be left of the city but a ghost town."
 }
 [sha:4dd615e0f2a8c599d06fd1814490d5f43e04ec24]{
@@ -1027,7 +1027,7 @@ I'm not talking about things you can learn, like the Mysteries of Magecraft,
 [sha:05fa1e158f5a48ceedc0d419bbb15519e7664805]{
 -- Page 732, Offset 26261.
 -- 一般に超能力者、鬼子と差別されるもの。
-In common terms, these people are referred to as Psychic Users, or Oni Children.
+In common terms, those people are referred to as Psychic Users, or Oni Children.
 }
 [sha:962b172f1da03cd553a7228367bde0539d3a665c]{
 -- Page 732, Offset 26262.
@@ -1048,7 +1048,7 @@ Those are the criteria that he considers before reincarnating, but―――
 [sha:349676c88aa5a475fef26298aea30d7bca949f2e]{
 -- Page 733, Offset 26265.
 -- 理解してくれたか、<遠|・><野|・>志貴くん？」
-Do you see where I'm going with this, %{i}Tohno Shiki-kun?%{/i}"
+Do you see where I'm going with this, %{i}Tohno%{/i} Shiki-kun?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 734, Offset 26266.
@@ -1098,7 +1098,7 @@ The dry sound is coming from me.
 [sha:714fe3ab11beb0570b60c7696d62755b69d81345]{
 -- Page 736, Offset 26275.
 -- 「……なに言ってるんだ、おまえ。
-"...What are you guys saying.
+"...What are you guys saying?
 }
 [sha:90e9b7de67d6ff7104009e2baf50d5ece38f7826]{
 -- Page 736, Offset 26276.
@@ -1316,7 +1316,7 @@ No, if you want to be human, you must classify that framework itself as evil.
 [sha:ddd06c93369937c495a45a77b0619d3a00fec89f]{
 -- Page 750, Offset 26314.
 -- ―――それができない人間に、人としての権利はないわ」
-―――A person that can't do that has no right to call themselves human."
+―――A person who can't do that has no right to call themselves human."
 }
 [sha:2c380b593f5e9b1b39b2def3f283d5029cd534d6]{
 -- Page 751, Offset 26315.

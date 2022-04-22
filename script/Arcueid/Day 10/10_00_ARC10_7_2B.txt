@@ -18,7 +18,7 @@ In this world that's brimming with death,
 -- Page 775, Offset 26389.
 -- なら―――こうして街を一望した時、線のない箇所を探せばあいつの姿を見落とさずに追える。
 Given that―――
-If I cast my eyes over the city like this,
+if I cast my eyes over the city like this,
  searching for places without any lines,
  I can give chase without risk of missing her.
 }
@@ -55,7 +55,7 @@ I can't let my eyes be exposed for too long.
 [sha:972049a9ae746b68c81eea18f445710dc0d7a44d]{
 -- Page 777, Offset 26396.
 -- 「っ……やっぱり大通りにはいないな」
-"As I thought... She isn't on the main street."
+"As I thought... she isn't on the main street."
 }
 [sha:8d964ece0bdbbd9dadc80db91b27078bd54bc15d]{
 -- Page 777, Offset 26397.
@@ -75,7 +75,7 @@ I don't spot any people smeared head to toe in them, as I had before.
 [sha:d41b8b4de8ae6598240ce1213df1f5f296c2ff14]{
 -- Page 778, Offset 26400.
 -- こめかみを指で押さえる。
-I massage my temple with my fingers.
+I press on my temples with my fingers.
 }
 [sha:c8fc0052d0439a4d598456d86b1c5bca6127ad50]{
 -- Page 778, Offset 26401.
@@ -125,14 +125,14 @@ The exhaustion from all this running combined with my headache makes me wanna th
 -- Page 780, Offset 26409.
 -- 額に手をやると異常な熱を帯びていた。
 When I place my hand on my forehead,
- It's immediately clear I'm running a severe fever.
+ it's immediately clear I'm running a severe fever.
 }
 [sha:97dedccb83632692b1d042454fc4daad5ae90f7b]{
 -- Page 780, Offset 26410.
 -- 手のひらでも判る高温。ひどい風邪に罹って、四十度近い熱をだした時でもここまでは熱くなかった。
 // First sentence flopped, palm relocated
 I don't need a thermometer to tell me my temperature is through the roof.
- Even back when I caught a bad cold and was running a fever of almost 40 degrees,
+ Even back when I caught a bad cold and was running a fever of almost forty degrees,
  my palm didn't feel this hot.
 }
 [sha:a1fd090917f1652321c2d719adef86f1147835d9]{
@@ -168,7 +168,7 @@ The moment I step inside, I feel a chill.
 [sha:64e0b500be5c3c5a4a9135debcdd388af850dad9]{
 -- Page 783, Offset 26417.
 -- 四十度近い頭の熱を冷やすほどの寒気。
-A chill strong enough to cool even the 40 degree fever in my head.
+A chill strong enough to cool even the forty degree fever in my head.
 }
 [sha:e54e6ab2637223016af2584c52912ec456b26241]{
 -- Page 783, Offset 26418.
@@ -252,7 +252,7 @@ It's strange. I'm familiar with the layout of this area.
 [sha:d1c60871d8255e99bc98a094814ef6a823d5cc95]{
 -- Page 786, Offset 26433.
 -- だから、この奥で繰り広げられている光景は。
-That's why the scene that's unfolding before me...
+That's why the scene unfolding before me...
 }
 [sha:3f40666763e90ac23d44be1cdcd3fb3b9a8b3ca5]{
 -- Page 786, Offset 26434.
@@ -575,7 +575,7 @@ That's right. That creature is on a whole other level.
 [sha:4a65c8dd48bc888856ec5789147c0c1aa66406f8]{
 -- Page 803, Offset 26495.
 -- レベルが高い低いというのではなく、レベルの基準そのものが自分たちとは違いすぎる。
-It's not that she's of a higher of lower class, it's that she's on a completely different scale.
+It's not that she's of a higher or lower class, it's that she's on a completely different scale.
 }
 [sha:b16c59be5f13ee048c393a3dece7006cd0ce5484]{
 -- Page 803, Offset 26496.
@@ -662,7 +662,7 @@ Is there nothing in my head other than murder?
 [sha:edcf74ff8a384a333f2183b50986744d370a304f]{
 -- Page 807, Offset 26512.
 -- 「――――、ア」
-"――――, Ah"
+"――――, ah."
 }
 [sha:5ff7d1b4a775302d7b29000cd098edbb46cd5e93]{
 -- Page 807, Offset 26513.
@@ -1042,7 +1042,7 @@ I can feel her pulse.
 [sha:5c3251feb7c908c37760885d57128fe92d0fe3ba]{
 -- Page 823, Offset 26586.
 -- 金色の。魂さえも吸いこまれそうだった、瞳。
-Golden. Those eyes that seemed to ensnare my very soul.
+Golden. These eyes that seemed to ensnare my very soul.
 }
 [sha:f589ad28ebb4093e40073d22ee406dfe943db062]{
 -- Page 824, Offset 26587.
@@ -1130,7 +1130,7 @@ With her hands pinned down like this, she looks like a crucified sacrifice.
 -- その眼は憎々しげに／明らかに悔やむように、のしかかった男をにらみ返す。
 Her eyes glare back at the man on top of her,
  filled with disgust,
- as it to make clear her regret.
+ as if to make her regret clear.
 }
 [sha:a8ffb74cfebf7afd1ad2ebb1e38ee145844f9944]{
 -- Page 828, Offset 26604.
@@ -1150,12 +1150,12 @@ I crack a smile under the pressure.
 [sha:9dc00a7b5b6f4a90ed78443886f027c9da5e2694]{
 -- Page 828, Offset 26607.
 -- 犯すより殺しあう拮抗こそ、ケダモノには相応しい。
-Rather than violating her on the spot, a struggle to the death is far more appropriate for animals like us.
+Rather than violating her on the spot, a struggle to death is far more appropriate for animals like us.
 }
 [sha:a9d890298256fcf24cfb7d6b13646519bca25a4f]{
 -- Page 829, Offset 26608.
 -- 「―――やめ、て―――やめないと、後かい、する―――」
-"Stop, it―――If you don't, you'll regret, it―――"
+"Stop, it―――if you don't, you'll regret, it―――"
 }
 [sha:4ac4d24a913677a249b3a8448971a11cce087d60]{
 -- Page 829, Offset 26609.
@@ -1256,7 +1256,7 @@ We may be different lifeforms, but the way we do things as living organisms is e
 Her sucking blood at the park,
  the foolish urges I feel now,
  the hamburgers we ate this afternoon―――
- they're all the same.
+they're all the same.
 }
 [sha:43852bf996ed683e3a8a7e40002f64f8fdd6e666]{
 -- Page 833, Offset 26628.
