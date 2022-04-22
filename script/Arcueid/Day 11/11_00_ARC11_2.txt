@@ -21,7 +21,7 @@ This park in front of the station used to be a site for relaxation. It's since b
 [sha:87cd640c9119aa37cc90ba8bbcfce16356d729b5]{
 -- Page 44, Offset 29613.
 -- かつて、ここには生活があった。
-In the past, people would come here to live their lives.
+In the past, this place was always bustling with people.
 }
 [sha:5e7e919c0f874f48a441f789059387c33409a2f6]{
 -- Page 44, Offset 29614.
@@ -31,12 +31,12 @@ People completely unrelated to me. People I'd never so much as crossed paths wit
 [sha:87f12acbc7d85c51906869fd7b32652dbca22159]{
 -- Page 45, Offset 29615.
 -- 知らなかったで済まされる話ではない。
-It's not the sort of thing where I can say I didn't know and move on.
+I can't write them off simply because I never knew them.
 }
 [sha:2dba6ac4a5cf2e53f22b8f8a6900d0e1f46b8a9a]{
 -- Page 45, Offset 29616.
 -- 知らなかったで済まされる話ではある。
-But I will say I didn't know and move on.
+And yet, I %{i}have%{/i} written them off simply because I never knew them.
 }
 [sha:20fac4441c95224c8bd6876753811ccf40620471]{
 -- Page 45, Offset 29617.
@@ -66,7 +66,7 @@ I'm not going to lament the deaths of people I've never met.
 [sha:f7ff04e2780a309b121282594048ca35d6772db0]{
 -- Page 47, Offset 29622.
 -- ただ悲しいから、という理由で死者を<悼|いた>む事は、間違っている。
- Mourning these people just because it's sad would be wrong.
+Mourning these people just because it's sad would be wrong.
 }
 [sha:e7fe06c54cae7af5912f7d9f3fe9770a8e88e4c0]{
 -- Page 47, Offset 29623.
@@ -76,14 +76,14 @@ Farewells are moments of remembrance for the living.
 [sha:688a1b029049fc47c5c9bbf8ddd499b91404c548]{
 -- Page 47, Offset 29624.
 -- その人物がどれほど輝かしい人だったかを想い、その偉業に感謝する涙の筈だ。
-// 偉業に感謝する as "great sacrifice" isn't really right. Is it i have no idea so left as is for now
-// literally supposed to mean "thanks for their great achievements"?
-These tears are probably a reminder of how bright those people's futures were; a thank you for their great sacrifice.
+// Slightly restructured, but hits the key points
+A chance to shed tears as you thank the departed for all their achievements,
+ as you reflect on how brightly they shone in life.
 }
 [sha:4b14229537bbe097c033cebd7b61245f38fbe082]{
 -- Page 47, Offset 29625.
 -- 悲しいから流す涙、悲しいから行う謝罪は、ただ自分のために行われる儀礼にすぎない。
-It's because it's sad that my eyes are overflowing with tears. I'm selfishly apologizing just because it's sad. It's no more than a courtesy.
+To cry or apologize simply because you are sad is nothing more than a self-serving formality.
 }
 [sha:adbd11cab7015331b44d6cb09758b033c5999a15]{
 -- Page 48, Offset 29626.
@@ -93,7 +93,7 @@ That's why―――I can turn my back on this scene.
 [sha:237329b0ee64e2c11d74547370fbab1fd7593970]{
 -- Page 48, Offset 29627.
 -- できる筈だと、思っていた。
-Or I thought that I probably could.
+Or at least, I thought I could.
 }
 [sha:61208520871cb0cd9a64e0d0ef4529ccf81e790b]{
 -- Page 49, Offset 29628.
@@ -108,57 +108,65 @@ And yet, I can't stay away forever.
 [sha:63e336a2ae8a68622ff54d1fc17539d182c87424]{
 -- Page 49, Offset 29630.
 -- 悲しみはない筈だ。正義感もない筈だ。
-It's probably not my sadness. It's probably not a sense of justice either.
+Probably not out sadness. Probably not out of a sense of justice, either.
 }
 [sha:4621d30b7c353d06f6ac8f5e0a0caf71330ae48b]{
 -- Page 49, Offset 29631.
 -- 俺はつまるところ、己の命が惜しいだけの男の筈だ。
-In realty, it's probably self-pity for what a disappointing man I am.
+// 惜しい is one of those bastards with two diametrically opposed meanings when translated
+// Based on some other TL examples, _命が惜しい_ specifically seems to tend towards (2): precious, dear, valuable
+At the end of the day, I'm merely a man clinging desperately to his own life.
 }
 [sha:d2edb56b4036ff71eac77802c166462762a44e86]{
 -- Page 50, Offset 29632.
 -- なのに、これは違う、と思うものがある。
-And yet I still feel like this is wrong.
+Even so, I still feel like this is wrong.
 }
 [sha:1c16c893b7c41fe297b03993f10fd8ef2ec39ce2]{
 -- Page 50, Offset 29633.
 -- 幕というものは、何もかも失ったから引くものではなく。
-There's no way I can close the curtains just because I've lost everything.
+I can't bring down the curtain simply because I've lost everything.
 }
 [sha:58577beeb0f56978af6a3afdf0b0e4433b70b60a]{
 -- Page 50, Offset 29634.
 -- もう成すべき事がなくなった後に、胸を張って下ろすべきものではないのかと―――昔、誰かに。
-Long ago, someone told me that you can only close the curtains with your head held high after you've finished the job.
+// This and next 2 lines are all part of the same thought, but translating the
+// fragment at the end of this sentence incurs so much overhead in EN that it
+// steals the next two lines. Some shuffling has been done to preserve the flow.
+That's something that should only be done when you've accomplished all you set out to do,
+ with your head held high―――
 }
 [sha:2cac47f4415d48a5da10b1665b49c266fc9bc91c]{
 -- Page 50, Offset 29635.
 -- 何でもない、
-It's nothing.
+I get the feeling someone taught me that, long ago.
 }
 [sha:8e2ab6bb4fa7650ee3638824f18d7fb3cdce6015]{
 -- Page 50, Offset 29636.
 -- 誰でもない誰かに、示してもらった気がして―――
-I feel like anybody could've shown that to somebody―――
+// Referring to Aoko as a 'nobody' feels a bit rude
+Some unknown individual, from who knows where.
 }
 [sha:d74e3dde2dfa429ae27c9186879cff7a01432ef8]{
 -- Page 51, Offset 29637.
 -- 背後からの足音。
 I hear footsteps behind me.
 }
-[sha:62ced0bc57c16c9dc8465ef42c68bee831678ba1]{
+[offset:29638]{
 -- Page 51, Offset 29638.
 -- そこには、
-There.
+I turn to see―――
 }
 [sha:aca2d421639e7cf64f91f6af7a8b223b6a316af2]{
 -- Page 51, Offset 29639.
 -- うちの学校の制服を着た、見覚えのない―――
-They were wearing my school's uniform, but I don't remember―――
+Someone wearing my school's uniform, but I don't remember―――
 }
 [sha:4a5f0fec3b71da470c3f4d7cedfbf9489b58f21f]{
 -- Page 52, Offset 29640.
 -- そう。本来なら見覚えがなくてはいけない、もう名前さえ思い出せない先輩が立っていた。
-That's right. By all rights, I don't remember them. The senpai whose name I don't even remember anymore was standing there.
+Right. Even though I should recognize the upperclassman standing there,
+ I can't even remember her name.
 }
 [sha:ddc0bbcdfa194dafc4fc361d07601cecdf09053c]{
 -- Page 53, Offset 29641.
@@ -173,12 +181,17 @@ That's right. By all rights, I don't remember them. The senpai whose name I don'
 [sha:85bbc949230f1fce429e71f92df4324b2ec61284]{
 -- Page 53, Offset 29643.
 -- 先輩はバリケード前から目を逸らさない。
-Senpai doesn't look away from the front of the barricade, even with the sound of my voice.
+// In EN generally more common to lay flowers _at the foot of_ something,
+// rendered that way since I assume she's staring at the other offerings
+// (though the CG framing doesn't show them here, they're in img0467_01_01)
+Senpai doesn't look away from the foot of barricade.
 }
 [sha:a1eb266c91e24608c5d18bb709e2ef426a6e5e0e]{
 -- Page 53, Offset 29644.
 -- 見れば、そこには多くの献花が、故人を偲ぶように揺れていた。
-If I were to look, I'd see her flowers swaying in the breeze, as if in memory of the dead.
+Following her gaze,
+ I see a great number of flowers swaying softly,
+ their heads bobbing as if reminiscing about the deceased.
 }
 [sha:25167041b41723711b35f94783944ae9ede4646e]{
 -- Page 54, Offset 29645.
