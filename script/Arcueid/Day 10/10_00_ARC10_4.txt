@@ -36,7 +36,8 @@ It's an open question whether or not Arcueid even eats this sort of food,
 [sha:e481f79407a4f358019edb057b8fd7554c8f9df4]{
 -- Page 296, Offset 25009.
 -- アルクェイドはむー、とメニューとにらめっこしたあと、結局、俺と同じセットメニューを注文した。
-After intensely studying the menu, Arcueid ended up getting the same set menu that I ordered.
+// Nasu is wrong here; a set menu describes the menu itself and not the meal. Plus, fast food places don't have menus that fancy.
+After intensely studying the menu, Arcueid ended up getting the same meal that I ordered.
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 297, Offset 25010.
@@ -185,6 +186,7 @@ This must be what they mean when they say experience outweighs theory.
 -- Page 307, Offset 25035.
 -- 何千億の単語を覚えていても、実際にやってみないと何も手に入らないんだなって」
 // Anki crunchers malding
+// :fujino:
 No matter how many billions of words you learn,
  you won't get anywhere if you don't start stringing them together yourself."
 }
@@ -360,6 +362,7 @@ I wonder how she manages it.
 -- Page 319, Offset 25066. Glued. Mods: @x.
 -- ハンバーガーの食べ方なんて、どう取り<繕|つくろ>おうと上品には見えないのに、アルクェイドの<食|ソ><事|レ>は、場違いなまでに美しく見えるのは。
 // Leading space for glue
+// Unintended line break for me after "that's"
  Eating a hamburger is the sort of thing that's basically impossible to do elegantly,
  which only makes the fact that Arcueid looks so beautiful doing it seem all the more out of place.
 }
@@ -486,8 +489,9 @@ There's something I want to ask you, if that's okay."
 [sha:bf78efc8cad480a7a8371f1c1b2663b18c6f8285]{
 -- Page 331, Offset 25089.
 -- 「あのさ、おまえは吸血鬼だろ？　なら食事って呼べるものは血液だけじゃないのかなって、そう疑問に思った」
+// "Eat" sounds weird for a liquid, but "drink" doesn't quite work in this context
 "So, you're a vampire, right?
- What I was wondering is... well, vampires only eat blood, don't they?"
+ What I was wondering is... well, vampires only feed on blood, don't they?"
 }
 [sha:cd07e18cf34afc3249fdd26c4a4eb217b9c4840b]{
 -- Page 332, Offset 25090.
@@ -848,7 +852,7 @@ I don't know. But... if there were other animals of lower intelligence, I would 
 [sha:a3b9d3b5b128c79e5521431db6c23db3f2595518]{
 -- Page 354, Offset 25156.
 -- だけど―――そうね、もしもわたしにヒトの知性や価値観がなかったら、ためらう事なく血を吸っていたかもしれない。
-But―――what if I didn't possess the same intelligence or value system as humans.
+But―――what if I didn't possess the same intelligence or value system as humans?
  Maybe then I wouldn't hesitate to suck their blood.
 }
 [sha:01dc578b3c68ffc4365bf5605156a519841c6ecd]{
@@ -1079,7 +1083,7 @@ However.
 [sha:6224576635ed3c4c25f98c1d4bf632bad4256346]{
 -- Page 369, Offset 25199.
 -- 「ええ。わたしたち、協力しあってるチームだもの」
-"Yeah. We're a team after all."
+"Yeah. We're a team, after all."
 }
 [sha:3a90c8f019ee5ec747960c7542f314d64d7f1efd]{
 -- Page 370, Offset 25200.
@@ -1099,7 +1103,8 @@ The true identity of our enemy.
 [sha:31f10d90c2426ae4c9a13970e74b8efebae85563]{
 -- Page 371, Offset 25203.
 -- そいつがどんなヤツなのか、ここで聞いておくべきだ。
-I should use this chance to find out what kind of person he is.
+// Should we keep pronouns neutral until Shiki knows who Roa is? It's a little more accurate but also reads a little awkwardly in places.
+I should use this chance to find out what kind of person they are.
 }
 [sha:5af04554d9640f9bbd0990e087cf804dc8265a25]{
 -- Page 372, Offset 25204.
@@ -1109,7 +1114,7 @@ I should use this chance to find out what kind of person he is.
 [sha:9e2688655ead2827ed9dde2124a7f6131045cea9]{
 -- Page 372, Offset 25205.
 -- アルクェイド、おまえの敵って結局どんな吸血鬼なんだ？　ここまで追って来た以上、それなりに面識はあるんだろ？」
-Arcueid, just what kind of vampire is your enemy anyway?
+Arcueid, just what kind of vampire is your enemy, anyway?
  You must have some sort of relationship with them if you've gone to this length to chase after them, right?"
 }
 [sha:60bd88c72c05de22c059d1a9e5ae2696af54912b]{
@@ -1131,7 +1136,7 @@ Arcueid, just what kind of vampire is your enemy anyway?
 -- Page 374, Offset 25209.
 -- この街に吸血鬼が潜んでいると判ったのはつい最近の事で、わたしはまだ本体に出会えてさえいない。
 I only recently discovered that the vampire is lurking in this city,
- so I haven't even had a chance to see his current form yet.
+ so I haven't even had a chance to see their current form yet.
 }
 [sha:a83c4f24747dc41d9df857b1c5d55e9bfacc470f]{
 -- Page 374, Offset 25210. Mods: @n.
@@ -1148,7 +1153,7 @@ whether they're a man or a woman, or even if they're a child or an adult."
 -- 「……じゃあ、他の特徴は？
 // 04_00_ARC04_6_2C.txt 特徴 is translated as "characteristic", but I think
 // this is fine unless its a lore term.
-"...Well, what about his special traits?
+"...Well, what about their special traits?
 }
 [sha:74c5cabe126a1a604b68474d56f483137ed55001]{
 -- Page 375, Offset 25213.
@@ -1158,19 +1163,19 @@ I mean, Vlov had a supernatural ability, right? Doesn't our target have somethin
 [sha:7690f99b7a651349165fd4d88abdbb97499b911b]{
 -- Page 376, Offset 25214.
 -- 「それも実際に見るまでは断定できない。
-"There's no way of knowing until we can see him up close.
+"There's no way of knowing until we can see them up close.
 }
 [sha:39b4258208f9eb559e149259e03b49595e5d9626]{
 -- Page 376, Offset 25215.
 -- わたしの追っている敵はそう強力な死徒じゃないけど、今回は何を得意として、どんな<人間|カラダ>になっているのか、わたしには予測できない」
 The enemy I'm after isn't that powerful of a Dead Apostle,
- but I can't predict what his strong point will be this time, or what form he's taken."
+ but I can't predict what their strong point will be this time, or what form they've taken."
 }
 [sha:64568f09fda0df41bdfe27a8936896c1689088bf]{
 -- Page 377, Offset 25216.
 -- 「……そうね。その幅広さがアイツの特徴と言えるかも。この街に“アイツ”の気配がある事しか、わたしには判らないわ」
-"...Yeah. I guess you could say that his adaptability is his special trait.
- All I can say for sure is that there are signs of him in this city."
+"...Yeah. I guess you could say that their adaptability is their special trait.
+ All I can say for sure is that there are signs of them in this city."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 378, Offset 25217.
@@ -1195,7 +1200,7 @@ For example―――
 [sha:e588437fa9c8b129c87c6f1ba57c309d3c85bb9f]{
 -- Page 379, Offset 25221. Mods: @n.
 -- 「……まだ見つけていない以上、相手の特徴は判らない……
-"...So we won't know what his traits are until we find him...
+"...So we won't know what their traits are until we find them...
 }
 [sha:1dda0bd6cad6ede3d25dbdfcc189958eaf35a31f]{
 -- Page 379, Offset 25222. Glued.
@@ -1207,17 +1212,17 @@ For example―――
 [sha:e9d86e1194cffc1cec888f57145d1643b8496458]{
 -- Page 379, Offset 25223.
 -- けど、そいつの名前ぐらいは知ってるだろ？」
-But you at least know his name, right?"
+But you at least know their name, right?"
 }
 [sha:b9127a9278e1c2a4ae7633b339008b6e2b43b700]{
 -- Page 379, Offset 25224.
 -- 「名―――前」
-"His―――name..."
+"Their―――name..."
 }
 [sha:faecf835a4cb2e3c4b8e757ea62d64d1f2dabf3d]{
 -- Page 379, Offset 25225.
 -- 「そう、名前」
-"Yeah, his name."
+"Yeah, their name."
 }
 [sha:7106d803fe718eaad762f1c597c7d94c92128d79]{
 -- Page 380, Offset 25226.
@@ -1227,7 +1232,7 @@ Arcueid silently hangs her head.
 [sha:5887c5e8138e3e6e95b15a7d7aa3ff466825e374]{
 -- Page 380, Offset 25227.
 -- ……どうやら、何か事情があって俺に名前を教える事ができず、困っている……
-...It seems like she has some reason she can't tell me his name, and it's eating her up inside...
+...It seems like she has some reason she can't tell me their name, and it's eating her up inside...
 }
 [sha:557678a8217524dbab959f9691b6f94a0783c13a]{
 -- Page 380, Offset 25228.
@@ -1237,7 +1242,7 @@ At least, that's what I thought.
 [sha:f6715b1b2c1a41e3ea83cc8df286abd154d54f85]{
 -- Page 381, Offset 25229.
 -- 「―――アイツの、名前」
-"―――His name―――"
+"―――Their name―――"
 }
 [sha:0c098445eeaa9871d9c1e22bf9d0f7e0d68ed187]{
 -- Page 381, Offset 25230.
@@ -1254,7 +1259,7 @@ There's so much ice in her words that it feels like our surroundings have been f
 [sha:91fbeb598ce590510d15316d2f0033b5a8b8c420]{
 -- Page 382, Offset 25232.
 -- 「アイツの名前はね、志貴」
-"You want to know his name, Shiki?"
+"You want to know their name, Shiki?"
 }
 [sha:fca4fa4f0a1edafdf69dac11e9ebe41373db0d61]{
 -- Page 382, Offset 25233.
@@ -1401,7 +1406,7 @@ This sort of food tastes pretty dire once it gets cold."
 [sha:e0f850edb58246a8ebccb55df154fb5baba28a18]{
 -- Page 394, Offset 25260.
 -- でもこれ、もともと美味しくないと思うよ？　志貴の味覚って、ちょっとアレよね」
-Though, I have to say it doesn't taste that great to begin with?
+Though, I have to say, it doesn't taste that great to begin with?
  Your palate may be, well, %{i}different%{/i}."
 }
 [sha:759d8b9cd01b461c59088bf3248caa471e8bace2]{
