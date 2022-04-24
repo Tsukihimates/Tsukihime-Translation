@@ -39,13 +39,12 @@ But Hisui is the complete opposite.
 [sha:f8971aac84cc8a2d4612d271b70d67ee6eb72949]{
 -- Page 88, Offset 4174.
 -- 俺は翡翠に強くでられる立場だが、その強権を振り回そうとは思えない。
-// 俺は翡翠に強くでられる立場だが、その強権を振り回そうとは思えない。
-I'm in a position of power over Hisui, but I don't think I can wield that power to my advantage.
+I'm in a position of power over her, but I don't think I can wield that power to my advantage.
 }
 [sha:4c93d6d8ff2f6e160a3d5b0becf11f2e76483601]{
 -- Page 88, Offset 4175.
 -- なんというか、翡翠にじっと見つめられると何でも聞いてあげたくなるというか……。
-I don't know why, but when Hisui stares at me, I feel like listening to whatever she has to say...
+I don't know why, but when she stares at me, I feel like listening to whatever she has to say...
 }
 [sha:cb37d2ee102b943971c1e501be858c02ab12b841]{
 -- Page 89, Offset 4176. Mods: @n.
@@ -183,7 +182,7 @@ She looks almost like a child who wants a toy.
 [sha:0a65e8514264d41440be5658797d335c97144f03]{
 -- Page 97, Offset 4201.
 -- 「じーーーーっ」
-*stare*
+%{i}stare%{/i}
 }
 [sha:083a575852a2ec0f9ff0d59a72447d3c8e2ac5e3]{
 -- Page 97, Offset 4202.
@@ -224,7 +223,7 @@ The wooden box opens with a soft, dry sound.
 [sha:6b154fd747cee8c02b16fdaab73f7004b51e2319]{
 -- Page 99, Offset 4209.
 -- 中には15センチほどの、細い鉄の棒が入っていた。
-Inside there is a thin iron rod, about 15 centimeters long.
+Inside there is a thin iron rod, about fifteen centimeters long.
 }
 [sha:2b32102046797c794a528ec53a000fb16d591942]{
 -- Page 100, Offset 4210.
@@ -314,7 +313,7 @@ The character for 'seven', and next to it, the character for 'night'.
 -- Page 107, Offset 4226.
 -- 七つ夜、と書かれているだけよ」
 // 七つ夜、と書かれているだけよ」
-It just says 'Nanatsu-yoru'."
+It just says %{i}Nanatsu-yoru%{/i}."
 }
 [offset:4227]{
 -- Page 107, Offset 4227.
@@ -324,7 +323,7 @@ It just says 'Nanatsu-yoru'."
 [sha:4229a1ae9d49fcd6c2c92aec4a9f01dfc63b2143]{
 -- Page 107, Offset 4228.
 -- 振り返ると、今まで黙っていた翡翠が後ろからナイフを覗きこんでいた。
-When I turn around I see Hisui, who was silent until now, peering at the knife
+When I turn around I see Hisui, who was silent until now, peering at the knife.
 }
 [sha:d0cc51841589a9022c6debd8403b3421b23ca689]{
 -- Page 108, Offset 4229.
@@ -354,7 +353,7 @@ Um―――that dagger is so beautiful, I couldn't resist."
 [sha:0a656b55d380726c3228ec97ee13249aa7f0c474]{
 -- Page 110, Offset 4234.
 -- 「綺麗？　これ、綺麗っていうかなあ。
-"I dunno if I'd use the word 'beautiful'
+"I dunno if I'd use the word 'beautiful'.
 }
 [sha:9c56fb00e58f1d5ae684eff6568bf11e95219df7]{
 -- Page 110, Offset 4235.
