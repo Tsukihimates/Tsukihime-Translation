@@ -48,7 +48,7 @@ or even turn around as I walk quietly toward her.
 -- 「―――５年間は、ちょっと長かったですね」
 "―――Five years is a pretty long time, isn't it?"
 }
-[sha:cda1030ed7098c0e5785af6c23980e3a8c06594b]{
+[offset:36307]{
 -- Page 352, Offset 36307.
 -- ぽつりと。
 That's all she says.
@@ -111,6 +111,7 @@ Her physical and mental abilities were substantially average, so an outcome like
 [sha:0e199059a3e94c9a44d4e83a24a95b6cab9e4a29]{
 -- Page 355, Offset 36319.
 -- 「あの子とは教会で再会しました。
+// lint-off:LintPageOverflow
 "I was reunited with that girl at the church.
 }
 [sha:ffe1507610266e71d376ca5e24bf60a07f4db9ee]{
@@ -131,6 +132,7 @@ But you couldn't call her outstanding by any stretch. She always had the look of
 [sha:67048d892f9f0d34ac529753832dca6777e20b06]{
 -- Page 356, Offset 36323.
 -- 「それから２年たって、わたしたちはチームになりました。
+// lint-off:LintPageOverflow
 "Two years later after that, that's when we became a team.
 }
 [sha:ab05503611014366fecbd58d967ea95af62035cd]{
@@ -183,7 +185,7 @@ It seemed like her lonesome-looking back shivered a little.
 -- ……変化はそれだけ。彼女は顔を隠したまま、こみ上げるものを必死に抑えつけて、
 ...But that's it. While still hiding her face, she desperately tries to suppress her overwhelming emotions.
 }
-[sha:7a3fecb21f14165c7734a9329d61e1414dce5eee]{
+[offset:36334]{
 -- Page 359, Offset 36334.
 -- 「……ごめん、なさい」
 "...I'm... sorry."
