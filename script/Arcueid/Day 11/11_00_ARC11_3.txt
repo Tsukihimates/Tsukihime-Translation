@@ -108,7 +108,7 @@ If all I'm going to do is sit here and wait like an ornament on a shelf,
 [sha:89c903d07c1c01da2878978421e321595c9deeed]{
 -- Page 163, Offset 29968.
 -- なのに、心は落ち着いている。
-Despite that, my heart is calm.
+Despite that, my mind is calm.
 }
 [sha:735896a3b898b7f37cfb7137cbbe7b7fab7ab4f7]{
 -- Page 163, Offset 29969.
@@ -539,7 +539,7 @@ Because even now, I'm probably still craving your blood."
 [sha:22d6ef0603f8a83a8e547efd04ac474adfbb2c4d]{
 -- Page 189, Offset 30050.
 -- ……今までだって、そうやって頑張ってきたんじゃないのか、おまえは」
-I mean, that's how you've been keeping it together until now, right..?"
+I mean, that's how you've been keeping it together until now, right?"
 }
 [sha:4586168b63297ab5e3221f6843865b047337503f]{
 -- Page 190, Offset 30051.
@@ -650,6 +650,8 @@ I'll help you to the end, so―――"
 [sha:ce6431d3f931416750e1fd7a36011c43cc85c4fc]{
 -- Page 197, Offset 30070.
 -- だから、どうか、自分自身のために、
+// Reading 自分自身 as Arc here, given the later context of 当たり前の倖せ,
+// which he'd previously talked about wanting for her.
 So... please, for your own sake―――
 }
 [sha:463c30996e783d3ada0af24d95f89d90a3202ecd]{
@@ -961,7 +963,7 @@ Listen, when I said I would help out,
 [sha:56b1b9d1adb72c20832b2f6db10c0f8c12b4ba3c]{
 -- Page 216, Offset 30130.
 -- 自分が住んでいる街を守るとか、そんなご大層な理由なんて、本当はなかったんだ」
-In reality, I never have any such grandiose motivations about wanting to protect the city I live in."
+In reality, I never had any such grandiose motivations about wanting to protect the city I live in."
 }
 [sha:fa82934506f2cc6eee1f06d8e0b1c3d09cd64d92]{
 -- Page 217, Offset 30131.
@@ -997,7 +999,9 @@ I say it clearly.
 [sha:3234ed6d25afb0b5768aecdc14e8f76318fadaa0]{
 -- Page 218, Offset 30137.
 -- 正面から、震える体を抱きしめた。
-With locked eyes, I hold her trembling body close.
+// 'Embrace her from the front' hard to get natural, maybe revisit
+I wrap my arms around her,
+ and hold her trembling body close.
 }
 [sha:fb286836297b86f36a76f3443ba7b535d0f3d63b]{
 -- Page 219, Offset 30138.
@@ -1007,7 +1011,7 @@ With locked eyes, I hold her trembling body close.
 [sha:28ae767a00301f5cff4ceec2de3928717cce4644]{
 -- Page 219, Offset 30139.
 -- アルクェイドの声は、抵抗の意思がない。
-There was no intentional repugnance in Arcueid's voice.
+There was no opposition in Arcueid's voice.
 }
 [sha:ce93e598eeb808f22cffddf0f9986c1575605553]{
 -- Page 219, Offset 30140.
@@ -1022,7 +1026,9 @@ Dumbfounded, standing perfectly still, she accepts my embrace.
 [sha:50872f3d3b5eadaa2b2573ba8605ca1dab84a71f]{
 -- Page 220, Offset 30142.
 -- 柔らかな感触に、喉が焼ける。
-The gentle sensation burns my throat.
+// Assuming that the soft sensation is Arc's huge tracts of land,
+// and therefore not a literal _throat_ here
+At the soft sensation, I feel a burning thirst.
 }
 [sha:82218cd6cc2047cf00db46ae55b0bea83dde4543]{
 -- Page 221, Offset 30143.
@@ -1032,23 +1038,24 @@ The gentle sensation burns my throat.
 [sha:2f3ba6122c36af481e3c170837c2d88694de7d4e]{
 -- Page 221, Offset 30144.
 -- 耳元に触れる声に、胸が沸き立つ。
-The voice touching my ear sets my heart on fire.
+Her voice in my ear sets my heart on fire.
 }
 [sha:58cb221f2a686fff35876d2179c8ef763064e164]{
 -- Page 222, Offset 30145.
 -- 「そんなものおあいこだ。だって、それなら―――」
-"Then that makes us even. Even so―――"
+// _Wanting_ the other ('s blood) makes them even, not the arm pain
+"In fact, it makes us even. You see―――"
 }
 [sha:6ceb4c7d179b1469fc79605f56d16aee50285ff9]{
 -- Page 222, Offset 30146.
 -- 口にしてはいけない禁忌を、視線で返す。
-I reply with my gaze to her breaking the taboo of speaking.
+With my gaze, I say the things that shouldn't be put into words.
 }
 [sha:9f9b23101cb6e4d1670ddfa4c99af03dd3687125]{
 -- Page 223, Offset 30147.
 -- 「俺だって、ずっと、おまえが欲しいって思ってた。
 // funny fucking way of showing it you psycho
-"Even I... I also think I've always wanted you.
+"I... I also think I've always wanted you.
 }
 [sha:1a9062324166d644800ca8c0dbe8702268cd3f84]{
 -- Page 223, Offset 30148.
@@ -1059,12 +1066,12 @@ Even here, like this―――hearing your heartbeat is driving me mad with passi
 [sha:7251e16545ede5b2abc9d540ea244b61464c648d]{
 -- Page 224, Offset 30149.
 -- とくん、と。
-Badum, badum.
+%{i}Badump.%{/i}
 }
 [sha:2269b360994fd0f095bd10ce5dbab90ca80c3274]{
 -- Page 224, Offset 30150.
 -- 抱きしめた腕から、重なり合った体から、
-Eminating from the chest I'm holding tight; from our overlaid bodies.
+Emanating from the arms I'm holding tight, from the body pressed against mine―――
 }
 [sha:6572b275af2dd55b185d917b205e084cd9151b1c]{
 -- Page 224, Offset 30151.
@@ -1074,9 +1081,9 @@ I can feel the palpations of Arcueid's heart.
 [sha:ac759a73ff24392a45e511be302fc9fab31cbd22]{
 -- Page 225, Offset 30152.
 -- 「……ちがうよ、志貴。それは……ただこの瞬間だけ、わたしに、気が触れてる、だけだもの……」
-// ellipses are what I'm guessing are Arcueid's pausing because shiki is hugging
-// her so tight. I don't have the game on hand so I can't check atm.
-"You've got it wrong, Shiki. I'm only... making you...crazy for the moment, really..."
+"You've got it wrong, Shiki.
+ That's just...
+ Nothing more than a passing craze..."
 }
 [sha:59cbc4de3cca2cf877582d10a5a58aae49beca72]{
 -- Page 225, Offset 30153.
@@ -1086,24 +1093,23 @@ I can feel the palpations of Arcueid's heart.
 [sha:33be29b32b1f0b1b804f8c5825f53399bfb39148]{
 -- Page 225, Offset 30154.
 -- いまアルクェイドを愛してるなら、それが遠野志貴の真実だ。そのあとの事なんて、知らない。
-If it's just the you of right now that I love, then that's Tohno Shiki's truth. I don't know what comes after.
+If in this moment I love Arcueid, then that's Tohno Shiki's truth.
+ I don't care what comes after.
 }
 [sha:fb153b244584b33196ef1bdc4693d0562d92363a]{
 -- Page 225, Offset 30155.
 -- それとも―――俺のこと、嫌いか」
-Unless you... Hate me."
+Unless―――You hate me?"
 }
 [sha:f8ccf3036a2aac24de4c072bdebcd140b48992ba]{
 -- Page 226, Offset 30156.
 -- とく、ん。
-Badu―mp.
+%{i}Badu――mp.%{/i}
 }
 [sha:1a8e637512f9e0b296fd6028fa130bd26fda1819]{
 -- Page 226, Offset 30157.
 -- 心音が、乱れて止まった。
-// I don't have a great translation for 乱れて止まった
-// but given below her 心音が途絶える, I'm taking a stab with:
-The rhythm of her heartbeat collapses.
+The rhythm of her heartbeat falters.
 }
 [sha:eb15d132f54c1fec7346769c08484b5a24acb7c2]{
 -- Page 226, Offset 30158.
@@ -1113,12 +1119,12 @@ The rhythm of her heartbeat collapses.
 [sha:a65ba6d44406a5601ed960be83fdb44dea6558c5]{
 -- Page 226, Offset 30159.
 -- 心音が途絶える。
-Her heartbeat comes to a stop.
+I no longer feel her heartbeat.
 }
 [sha:da86184e3a5d806ce66a19ff86fd64a3d30f09b2]{
 -- Page 226, Offset 30160.
 -- その代償に、彼女の両腕が、応えるように俺の背中にまわされる。
-As payback, she tightly wraps both arms around my back.
+Instead, I feel her arms wrap tightly around my back, as if in answer.
 }
 [sha:b1270fd94e769e8fe5343919273a27a4336f936e]{
 -- Page 227, Offset 30161.
@@ -1128,12 +1134,12 @@ At first it was gentle.
 [sha:abb2e6757cedd268c4a2d518d5c865946a4b473d]{
 -- Page 227, Offset 30162.
 -- あとは、ただ応えるように激しく。
-But then the response was tempestuous.
+But soon it became so fervent as to be more than just an answer.
 }
 [sha:5ebb29899e8fda69004447931922d558c0361fdf]{
 -- Page 227, Offset 30163.
 -- アルクェイドの両腕が、ぎゅっと、この体を引き寄せていた。
-With both arms, Arcueid was tightly drawing my body in.
+Arcueid drew me close with both arms, squeezing my body against hers.
 }
 [sha:c13c81d730e133e18134f62fb759e14fc657af84]{
 -- Page 228, Offset 30164.
@@ -1148,7 +1154,8 @@ I'm not even really sure myself who ended it.
 [sha:3dc4d5b663f7dd5e5594caafc00bb782aab701a3]{
 -- Page 228, Offset 30166.
 -- ただ申し合わせたように、俺たちは互いの顔を見るために、抱きしめた腕を解きあった。
-But, as if preordained, in order to meet each others' gaze, we released our tightly wrapped arms.
+But, as if by some unspoken agreement,
+ we each release our entwined arms to meet each others' gaze.
 }
 [sha:8eaa978afc424a226a1e857f05b10c5b2c0e8cc7]{
 -- Page 229, Offset 30167.
