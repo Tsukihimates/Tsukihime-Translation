@@ -265,7 +265,7 @@ That pipsqueak over there did some investigating before me.
 -- Page 690, Offset 26125. Glued. Mods: @x.
 -- ……チッ」
 // Leading space for glue
- ...Tsk."
+ ...%{i}Tsk%{/i}."
 }
 [sha:a1d2b91be6d8d357ac5324c6cbe085d1e3bec13e]{
 -- Page 690, Offset 26127.
@@ -507,7 +507,7 @@ Does this immortality stuff have anything to do with Arcueid's enemy?"
 [sha:64604d68684ef8031cbb9ef352bbd04bc0979f88]{
 -- Page 705, Offset 26167.
 -- とにかく死徒と区別される吸血鬼の『不老不死』は不安定なものなんだよ。ヤツらの場合、単純に寿命が人間の数倍になった、という事だけだからな」
-As I was saying, the 'immortality' of Dead Apostle rank vampires is a fragile thing.
+As I was saying, the 'immortality' of Dead-Apostle-rank vampires is a fragile thing.
  At the end of the day, they're just creatures with a lifespan several times longer than that of a human."
 }
 [sha:362c0bda01e766d32ed6c5347dd2be4a3eabf29a]{
@@ -675,7 +675,7 @@ Then again, it can't be called 'death' if he doesn't get extinguished at that po
 [sha:c3db4db4ff9adbe18de4dca0909f6f87bdf8dc42]{
 -- Page 714, Offset 26197.
 -- ソイツの情報はその赤子が成人、ないし自己としての知性を持つまで影を潜める。
-That 'self' remains hidden until the child either reaches adulthood or becomes intelligent in it's own right.
+That 'self' remains hidden until the child either reaches adulthood or becomes intelligent in its own right.
 }
 [sha:f2e5c003dc1570001e0a39239f4655d32a2f097d]{
 -- Page 714, Offset 26198.
@@ -765,7 +765,7 @@ Now he is the Dead Apostle known as The Serpent of Akasha, or the Infinite Reinc
 -- Page 718, Offset 26213.
 -- 蛇は無限や循環のシンボルだからな。脱皮して新しい体になるってのは、コイツにはぴったりの俗称だ」
 Snakes are symbols of infinity, of cycles―――
- It's a perfect name for someone like him, who casts away his body to be born anew."
+It's a perfect name for someone like him, who casts away his body to be born anew."
 }
 [sha:92f6cf44668f1261a8dcff8c710b60ddcdce9343]{
 -- Page 719, Offset 26214.
@@ -798,7 +798,7 @@ The princess was originally a tool that was used to kill vampires,
 [sha:7f4b7f500a7a403de6ade79791a39fd593d50d4b]{
 -- Page 720, Offset 26219.
 -- ロアが今まで転生した回数は十六回。
-To date, Roa has reincarnated 16 times.
+To date, Roa has reincarnated sixteen times.
 }
 [sha:5110320f4730e432aab807f570805b12efb54a38]{
 -- Page 720, Offset 26220.
@@ -808,12 +808,12 @@ And the True Ancestor has annihilated him, each and every time."
 [sha:9ed51742f22aedacb71291958e12076cd322d3cc]{
 -- Page 721, Offset 26221.
 -- 「……ことごとく消滅させてるって……でも、そいつは死んでもまた生まれてくるんだろ？　……なら、倒す意味はないんじゃないのか」
-"...She's annihilated him every time... But even if he dies, he still gets reborn, right? ...In that case, there's no point in defeating him."
+"...She's annihilated him every time... but even if he dies, he still gets reborn, right? ...In that case, there's no point in defeating him."
 }
 [sha:235f0a0312d67d22b60962d18b3fe565a5f1c56c]{
 -- Page 722, Offset 26222.
 -- 「そうだ。ロアは真祖に殺され、そのたびに転生し、また真祖に殺される。そんな繰り返しをもうずっと続けてきた。
-"You're right. Roa gets killed by the True Ancestor, is reincarnated, and then gets killed again. That pattern has repeated itself over and over again.
+"You're right. Roa gets killed by the True Ancestor, reincarnates, and then gets killed again. That pattern has repeated itself over and over again.
 }
 [sha:0d4a8c57aff92a0f9cdf5b5847a8d85d477d1481]{
 -- Page 722, Offset 26223.
@@ -916,7 +916,7 @@ Because of that, there are no outward indications that the %{i}human%{/i} in que
 [sha:e499448f8fb74262fcaab1ca6a8ae9b62a056720]{
 -- Page 727, Offset 26241.
 -- 教会が異変に気がついた時は既に手遅れ、一つの街がそのまま死都になった後なんだとさ」
-But the time the Church notices anything's out of the ordinary, it's already too late.
+By the time the Church notices anything out of the ordinary, it's already too late.
  Nothing will be left of the city but a ghost town."
 }
 [sha:4dd615e0f2a8c599d06fd1814490d5f43e04ec24]{
@@ -1027,7 +1027,7 @@ I'm not talking about things you can learn, like the Mysteries of Magecraft,
 [sha:05fa1e158f5a48ceedc0d419bbb15519e7664805]{
 -- Page 732, Offset 26261.
 -- 一般に超能力者、鬼子と差別されるもの。
-In common terms, these people are referred to as Psychic Users, or Oni Children.
+In common terms, those people are referred to as Psychic Users, or Oni Children.
 }
 [sha:962b172f1da03cd553a7228367bde0539d3a665c]{
 -- Page 732, Offset 26262.
@@ -1048,7 +1048,7 @@ Those are the criteria that he considers before reincarnating, but―――
 [sha:349676c88aa5a475fef26298aea30d7bca949f2e]{
 -- Page 733, Offset 26265.
 -- 理解してくれたか、<遠|・><野|・>志貴くん？」
-Do you see where I'm going with this, %{i}Tohno Shiki-kun?%{/i}"
+Do you see where I'm going with this, %{i}Tohno%{/i} Shiki-kun?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 734, Offset 26266.
@@ -1098,7 +1098,7 @@ The dry sound is coming from me.
 [sha:714fe3ab11beb0570b60c7696d62755b69d81345]{
 -- Page 736, Offset 26275.
 -- 「……なに言ってるんだ、おまえ。
-"...What are you guys saying.
+"...What are you guys saying?
 }
 [sha:90e9b7de67d6ff7104009e2baf50d5ece38f7826]{
 -- Page 736, Offset 26276.
@@ -1316,7 +1316,7 @@ No, if you want to be human, you must classify that framework itself as evil.
 [sha:ddd06c93369937c495a45a77b0619d3a00fec89f]{
 -- Page 750, Offset 26314.
 -- ―――それができない人間に、人としての権利はないわ」
-―――A person that can't do that has no right to call themselves human."
+―――A person who can't do that has no right to call themselves human."
 }
 [sha:2c380b593f5e9b1b39b2def3f283d5029cd534d6]{
 -- Page 751, Offset 26315.
