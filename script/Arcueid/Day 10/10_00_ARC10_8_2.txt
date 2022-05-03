@@ -107,7 +107,8 @@ This is not something that can be forgiven with a mere 'I'm sorry'.
 [sha:a6ecfe79db3bdfb8e6c5ad59e93724354872683c]{
 -- Page 870, Offset 26791.
 -- 「気にしないで。……謝らなくちゃいけないのは、わたしの方なんだから」
-"Don't worry about it... I'm the one who should be apologizing"
+// This should have a period despite the JP text, I think
+"Don't worry about it... I'm the one who should be apologizing."
 }
 [sha:e63bd4538e5db7de43f65fef87bd218f1d0b9ba6]{
 -- Page 871, Offset 26792.
@@ -276,6 +277,7 @@ Wearing that forced smile all the way to the end.
 [sha:31fb033552da8b4500944e8e1d4d16194fb043d8]{
 -- Page 880, Offset 26823.
 -- 今までと同じように、ターン、と、月に跳ねる兎のように。
+// kino line
 She kicks off, just as she has so often before,
  like a rabbit hopping on the moon.
 }
