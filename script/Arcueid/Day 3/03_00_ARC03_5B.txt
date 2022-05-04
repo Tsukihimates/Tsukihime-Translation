@@ -734,7 +734,7 @@ Don't ever look at things thoughtlessly, okay?"
 -- Page 232, Offset 4604.
 -- @g　室内に入った瞬間、かちん、と撃鉄の落ちる音を聞いた。
 // "撃鉄" is a gun's hammer, not a regular hammer.
-@gThe moment I enter the room, I hear a %{i}click%{/i}, the sound of a hammer striking.
+@gThe moment I enter the room, I hear a click, the sound of a hammer striking.
 }
 [sha:4920c81df6c75b5947f027ada871154c1ded9cd2]{
 -- Page 232, Offset 4605.
@@ -814,7 +814,7 @@ Don't ever look at things thoughtlessly, okay?"
 [sha:cbee8b99953c316143e3d8d9f8cb86ded7a72604]{
 -- Page 234, Offset 4620.
 -- @g　ソレを、十七個の肉片に解体した。
-I dismantled her into seventeen cuts of meat.
+@gI dismantled her into seventeen cuts of meat.
 }
 [sha:3efb637dff8da9ad81432a64c640a8f555a41fb4]{
 -- Page 235, Offset 4621.
