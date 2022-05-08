@@ -2,13 +2,12 @@
 -- Page 10007, Offset 18704.
 -- ……怪しい。あの購買部好き……というか特定のパン好き……の先輩が、わざわざ外にランチしに行くとは思えない。
 // god save me
-...Suspicious. My cafeteria loving Senpai, or rather, my specifically one kind of bread loving Senpai wouldn't go out of her way to have lunch somewhere outside school.
+...Suspicious. My cafeteria-loving Senpai—well, %{i}bread%{/i}-loving Senpai—wouldn't go out of her way to eat lunch outside
 }
 [sha:25602e2a6c002d27c6e9c4ba96d260a4a3904683]{
 -- Page 172, Offset 18705.
 -- もしや、保健室で言っていた“吸血鬼のねぐら”を調査しに行くのではないだろうか？
-// was ねぐら=roost decided on?
-Could she be going to investigate the vampire roost she mentioned in the infirmary?
+Could she be going to investigate the vampire nest she mentioned in the infirmary?
 }
 [sha:f856f9bbd976aaa06c1d6c9ca7fd0eb36eac3abe]{
 -- Page 172, Offset 18706.
@@ -18,7 +17,7 @@ If so, then I can't let her go alone. There are also a couple things I need to c
 [sha:0737fee4a0a22f3fa05918b9cdd356fec5667bb5]{
 -- Page 173, Offset 18707.
 -- 「……それに、アルクェイドとの約束もあるし。吸血鬼のねぐらを事前に見つけられるなら、アイツだって喜ぶだろう」
-"...Besides, there's also my promise to Arcueid. If we manage to locate the roost beforehand, I'm sure she'll be happy."
+"...Besides, there's also my promise to Arcueid. If we manage to locate the nest beforehand, I'm sure she'll be happy."
 }
 [sha:fee9d27a757fda0e74bba60b7a62bac386a668a8]{
 -- Page 174, Offset 18708.
@@ -43,7 +42,7 @@ I hurriedly leave through the main gate.
 [sha:7f289df940224765799e423fc2878336836fbb74]{
 -- Page 175, Offset 18712.
 -- こっちは全力で走って、先輩は普通に中庭を歩いていたものの、やはり距離の差があった。
-Though I was running at full speed while Senpai was walking at a normal pace, as expected, there was still some distance between us.
+Though I was running at full speed while Senpai was walking at a normal pace, there was still the sort of distance one would expect between us.
 }
 [offset:18713]{
 -- Page 176, Offset 18713. Mods: @n.
@@ -58,8 +57,7 @@ Senpai is...
 [sha:34e24dc3cf6b0e6b057bcd170e2ed93abda652fe]{
 -- Page 176, Offset 18715.
 -- いた、駅方面の通学路だ。
-// school road? road I take going to school? road students commute on?
-There, on the school route. She was headed in the direction of the station.
+There, on the road from the station to the school. She was headed in the direction of the station.
 }
 [sha:c42a43ed6e65e8c2bb04c17a65611790fcd67296]{
 -- Page 176, Offset 18716.
@@ -344,7 +342,7 @@ In other words, that means...
 [sha:ead05a0b202cc38b1388a355f7e2c59df20d1e3c]{
 -- Page 205, Offset 18772.
 -- 「はい。遠野くんに見つかってしまったわたしの落ち度というコトで、今日だけは特別です。付いてくるだけなら大目に見ます。……無鉄砲な後輩に、吸血鬼のねぐらがどんなものか知ってもらうのもマイナスではありませんし」
-"Yes. Allowing you to spot me was my mistake. I'll make an exception, but only for today. I'll let you follow me, but only that... Anyway, it's not such a bad thing to let my reckless kouhai see what kind of thing a vampire roost really is."
+"Yes. Allowing you to spot me was my mistake. I'll make an exception, but only for today. I'll let you follow me, but only that... Anyway, it's not such a bad thing to let my reckless kouhai see what kind of thing a vampire nest really is."
 }
 [sha:1a79a829649c2513b266f8d84b941103df699a91]{
 -- Page 206, Offset 18773.
@@ -465,7 +463,7 @@ stood the still cadaver of the building.
 [sha:ae8af08a1ca584c0bbf275d8da7a5b6c9aa4f2c4]{
 -- Page 213, Offset 18796.
 -- 「死徒のねぐらですよ。いえ、でした、と言うべきですね。
-"It's the vampires' roost. No, I should say it was their roost.
+"It's the vampires' nest. No, I should say it was their nest.
 }
 [sha:78615ed422d8a27688caf33b84ddcf8d0728a246]{
 -- Page 213, Offset 18797.
@@ -817,8 +815,7 @@ It's the plot of a horror movie I rented yesterday night. It felt so incredibly 
 [sha:70722b4ab998f0c55529b0adbe5e30869a5b0f7b]{
 -- Page 238, Offset 18866.
 -- 「そ―――そうですか。とつぜん意地が悪くなったコトはどうかと思いますけど、その映画自体は面白そうですね。二重構造でよく出来ています。タイトルを教えてくれれば俺も借りてみますよ」
-// embedded narrative sounds kinda weird but might just be me. change to something like "meta" maybe?
-"I-Is that so? I don't know what to think of you making fun of me, but the movie itself seems to be interesting. The embedded narrative is nicely done. Tell me the title and I'll rent it too."
+"I-Is that so? I don't know what to think of you making fun of me, but the movie itself seems to be interesting. The meta-narrative is nicely done. Tell me the title and I'll rent it too."
 }
 [sha:015901e851f7b219f31baa7e29de73ae8d5b8e09]{
 -- Page 238, Offset 18867.
