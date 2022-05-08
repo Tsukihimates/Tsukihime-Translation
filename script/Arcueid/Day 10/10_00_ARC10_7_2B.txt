@@ -20,7 +20,7 @@ In this world that's brimming with death,
 Given that―――
 if I cast my eyes over the city like this,
  searching for places without any lines,
- I can give chase without risk of missing her.
+ I can give chase without the risk of missing her.
 }
 [sha:d097092e5c1e16d6205645da4b92cc330c34c54f]{
 -- Page 775, Offset 26390.
@@ -132,7 +132,7 @@ When I place my hand on my forehead,
 -- 手のひらでも判る高温。ひどい風邪に罹って、四十度近い熱をだした時でもここまでは熱くなかった。
 // First sentence flopped, palm relocated
 I don't need a thermometer to tell me my temperature is through the roof.
- Even back when I caught a bad cold and was running a fever of almost 40 degrees,
+ Even back when I caught a bad cold and was running a fever of almost 40℃,
  my palm didn't feel this hot.
 }
 [sha:a1fd090917f1652321c2d719adef86f1147835d9]{
@@ -168,7 +168,7 @@ The moment I step inside, I feel a chill.
 [sha:64e0b500be5c3c5a4a9135debcdd388af850dad9]{
 -- Page 783, Offset 26417.
 -- 四十度近い頭の熱を冷やすほどの寒気。
-A chill strong enough to cool even the forty degree fever in my head.
+A chill strong enough to cool even the forty-degree fever in my head.
 }
 [sha:e54e6ab2637223016af2584c52912ec456b26241]{
 -- Page 783, Offset 26418.
@@ -277,7 +277,7 @@ The thing that I can't stand―――
 [sha:b46ef296334980b509ec59c756c296598f5d1be5]{
 -- Page 787, Offset 26438.
 -- 通路を進む度に、ギ、ギ、と音をたてる背骨の軋みだった。
-Is the sound of my spine grating every time I take another step down that path.
+Is the sound of my spine grating every time I take another step down that path?
 }
 [sha:36655b729429f21673e7a6174126906a63a518b2]{
 -- Page 788, Offset 26439.
@@ -371,7 +371,7 @@ Only scraps of the Dead remain;
 -- Page 793, Offset 26456.
 -- むせかえる血の匂いと、吹き荒ぶ死の冷気に、声を失う。
 I'm rendered speechless by the suffocating stench of blood,
- and the chilling air of death run rampant.
+ and the chilling air of death runs rampant.
 }
 [sha:bab4ee3e578398e6b181fe1213c10b11bc43bfa0]{
 -- Page 793, Offset 26457.
@@ -391,7 +391,7 @@ I hear a thick, splattering sound.
 [sha:a75b659ff4b089e60bfd3bbfd673294acf8d9c0a]{
 -- Page 794, Offset 26460.
 -- 最後の一体だったのか、全身をラクガキに塗り潰されたヒト型は、彼女の手によって絶命した。
-With her hand, she annihilates the scribble covered human figure.
+With her hand, she annihilates the scribble-covered human figure.
  Perhaps it's the final one.
 }
 [sha:7a35877a8d93f2ece924e75cbe99498e5ed20fe4]{
@@ -540,7 +540,7 @@ I mustn't be known. I mustn't be seen.
 [sha:c6fb8aacd3c7ada33a060fdc0933104064473c25]{
 -- Page 802, Offset 26488.
 -- 話シ合エナイ。共存デキナイ。到達デキナイ。
-We cannot talk. We cannot co-exist. We cannot reach a conclusion.
+We CANNOT talk. We CANNOT co-exist. We CANNOT reach a conclusion.
 }
 [sha:bebb33a594b9d5fa3845151fdf1668cfcb10a4a8]{
 -- Page 802, Offset 26489.
@@ -571,6 +571,7 @@ in SHORT, no MATTER WHAT I DO,
 [sha:cf523d92ae49725d630c7512bd19ca85f994c7be]{
 -- Page 803, Offset 26494.
 -- そうだ。あの生き物は<数値|レベル>が違う。
+// group pe check: other scale matching.
 That's right. That creature is on a whole other level.
 }
 [sha:4a65c8dd48bc888856ec5789147c0c1aa66406f8]{
@@ -608,7 +609,7 @@ A flash of lightning from a blue sky.
 -- Page 805, Offset 26501.
 -- 覚者に匹敵する悟りの到来に細胞が歓喜する。
 // 覚者 -> Saint?
-My cells rejoice at the arrival of enlightenment on par with that of a saint.
+My cells rejoice at the arrival of enlightenment on par with that of the Buddha.
 }
 [sha:d65744b41aed8d65a13a1e359c7c8d4029414adc]{
 -- Page 805, Offset 26502.
@@ -731,7 +732,7 @@ Be honest with yourself, Tohno Shiki.
 [sha:8c9671cbc9d6119fc20f1681df9fd7dbf0ae06b6]{
 -- Page 808, Offset 26525.
 -- とっくの昔に、おまえは、あの女を。
-A long time ago, that woman, you...
+A long time ago, you... that woman...
 }
 [sha:d5a2df2b3acc342891a881c9cef060e7fd589749]{
 -- Page 809, Offset 26526.
@@ -997,6 +998,7 @@ Her gaze only makes my brain bubble more furiously.
 [sha:c578347031e83e0236e652a02c65dd7fc6a88e97]{
 -- Page 821, Offset 26577.
 -- 充血する。失神しそうだ。
+//group pr check: replace hyperemic
 I'm hyperemic. I feel like I'm in a trance.
 }
 [sha:6b44da980ab5c4d00d0b2323a281264f8a3480eb]{
@@ -1129,6 +1131,7 @@ With her hands pinned down like this, she looks like a crucified sacrifice.
 [sha:92861b8e55f1c2fc54122d95b9ef0eb8e46029df]{
 -- Page 827, Offset 26603.
 -- その眼は憎々しげに／明らかに悔やむように、のしかかった男をにらみ返す。
+// group pr check: replace regret, should actually be displeasure, distaste, generally not having a good time
 Her eyes glare back at the man on top of her,
  filled with disgust,
  as if to make her regret clear.
@@ -1188,7 +1191,7 @@ She continues to mount a feeble resistance, even as her body twitches.
 [sha:0e00f4694a13aa806a061804c423f3ea12095dd0]{
 -- Page 830, Offset 26614.
 -- 乱れきった男の吐息が、女の腹をなぞっていく。
-The man's heavy breaths trace across the woman's abdomen.
+The heavy breaths of a man trace across the woman's abdomen.
 }
 [sha:3f1a3ec856b8d44a527ee3926fc420bf4f480f07]{
 -- Page 831, Offset 26615.
@@ -1208,7 +1211,7 @@ I push her clothes out of the way, dragging my tongue across her white skin.
 [sha:e7333a948568e84d7ee1abe54be617430b78749c]{
 -- Page 831, Offset 26618.
 -- ふと空腹である事を思いだした。
-Suddenly, I remember that I'm hungry.
+Suddenly, I realize that I'm hungry.
 }
 [sha:f935ee93529e3189eb822d3330bf147cda17efac]{
 -- Page 831, Offset 26619.
@@ -1350,7 +1353,7 @@ The woman desperately stifles her voice,
 [sha:addaf6973021deb988835809e28ed0c9f03f3eb3]{
 -- Page 837, Offset 26645.
 -- 「志貴――――こんなコトして、後で―――」
-"Shiki――――if you keep doing this, I'll―――"
+"Shiki――――if you keep doing this, you'll―――"
 }
 [sha:353739ed2a5729054b68fcacbd4ea7cc72c62ae6]{
 -- Page 837, Offset 26646.
