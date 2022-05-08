@@ -68,7 +68,6 @@ If Akiha hadn't stopped me from going to meet up with Arcueid in that condition,
 [sha:7f8be9c84dd0bc9bfc2dc9ba5a6ea73413451c89]{
 -- Page 507, Offset 25576.
 -- 「ふーん、そうなんだ。じゃ、そうしよっか」
-// group pr check: go back to every instance of "is that so" to recheck
 "Hmm, really now? Then let's get to it."
 }
 [sha:e60130785403034954d28ab0cc867974d5c128c6]{
@@ -162,8 +161,7 @@ I can feel their presence all around us. It makes it a little hard to relax."
 [sha:4361acc45a18c4107da218839b4f6eecca90cf1d]{
 -- Page 513, Offset 25594.
 -- 「……そうか。聞こえていて、無視しているとなると、余計に<質|たち>が、悪い」
-// group pr check: add the huffing and panting effect
-"...I see. So you were ignoring me even though you heard me. That's just plain evil."
+"...I see. So you were ignoring me... even though... you heard me. That's just... plain evil."
 }
 [sha:d704fcea7277b6bf73203791bc6a7fb924e3960e]{
 -- Page 514, Offset 25595.
@@ -490,8 +488,7 @@ But this time, that's not an option. I can't hand him over to a human, and if th
 [sha:cf04aee2e6fd864051d2e37fd0512c657605a22a]{
 -- Page 537, Offset 25655.
 -- まったく穏やかじゃない。
-// group pr check: change lost her cool, she wasn't angry so it doesnt work
-She's completely lost her cool.
+Her attitude is utterly uncompromising.
 }
 [sha:383cdc97d0844d1f6d72bd3aff7a3e68dfd3cdec]{
 -- Page 537, Offset 25656.
@@ -642,14 +639,12 @@ Even though we're helplessly slaughtered as food...?
 [sha:fc1cd847a33664800a8f8c005f14eb16834edd38]{
 -- Page 548, Offset 25683.
 -- 人間は様々な魔術、神秘学、式典儀礼を基に組織体系を作り、人間以外の霊長類を排除しはじめた。
-// group pr check: Petrikow suggestion: primates 霊長類, primals 霊長
 Humans created organizations based on various kinds of magecraft, the occult, and rituals, and began eliminating non-human primates.
 }
 [sha:0ef66dc368603efd32109f5a8d29c34b00cb64b3]{
 -- Page 548, Offset 25684.
 -- その最たる物が聖堂教会―――普遍的、という名を掲げた欧州の一大宗教よ。彼等は昔から“人間でないモノ”を徹底的に淘汰してきたけど、その中でも吸血鬼に対する敵視はどうかしているわ」
-// group pr check: say it's the catholic church wihout saying it's the catholic church
-The most extreme of those is the Holy Church―――the most prominent religion throughout Europe, and whose name is universally known.
+The most extreme of those is the Holy Church―――the most prominent religion throughout Europe, whose name literally means 'universal'.
  They've been waging a comprehensive elimination of those who are not human for a while,
  but their hostility toward vampires is on a whole other level."
 }
@@ -699,7 +694,7 @@ They are exorcists that behave like assassins, careful never to reveal themselve
 [sha:f7a7a1929f9f95ffc3badeebee29b6daeeee3a67]{
 -- Page 552, Offset 25693.
 -- エクソシスト、悪魔祓い。吸血鬼を退治する神父……。
-Exorcists. Priests who slays vampires...
+Exorcists. Priests who slay vampires...
 }
 [sha:e289c4ea4cde268ee6ed0582a8b62350ddc8d1e5]{
 -- Page 552, Offset 25694.
@@ -726,7 +721,6 @@ If the Executors deployed here had been theirs,
 [sha:1feaa74e1b2b9cc677d429f44c42158979b0b330]{
 -- Page 554, Offset 25698.
 -- 「ヴローヴ以上って……そんなに<見境|みさかい>なしなのか、そいつらは」
-// group check pr: change worse than Vlov or something
 "That's worse than Vlov... Are these people really that indiscriminate?"
 }
 [sha:2135d091c1ad98bfe3d52a7b1c53f3469a05b761]{

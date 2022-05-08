@@ -228,14 +228,12 @@ Arcueid is winding back her fist in front of the windowpane.
 [sha:e998474054cd6cfd91f1fee5e5bc6c413e4be528]{
 -- Page 412, Offset 25305.
 -- 「こ……の、なんで人の話を聞かないんだ、おまえはーー！」
-// this was written without va, so feel free to change emphasis to fit.
 "You... little...! Why don't you ever listen to what people say!"
 }
 [sha:d31c22de5ab2e621b4aaa9dcb6a93e4ee5fdc0b6]{
 -- Page 412, Offset 25306.
 -- 僕らの学舎にあんな破壊魔を解き放つ訳にはいかない。
-// group pr check: replace demon of destruction with destructive fiend?
-There's no way I can let that demon of destruction loose in our school building.
+There's no way I can let that agent of chaos loose in our school building.
 }
 [sha:f4c660cd91ad78756657f2a81636537abd3848fa]{
 -- Page 412, Offset 25307.
@@ -339,8 +337,7 @@ I take out the knife from my pocket and slice open the latch.
 [sha:7e3231cd861ececcbbd25c22fc634a2c88dba93a]{
 -- Page 419, Offset 25326.
 -- 窓ガラスを開けて、土足のまま校舎の中へ入る。
-//group pr check: enther the school building with my shoes on
-I open the window and enter the school building without taking off my dirty shoes.
+I open the window and enter the school building without taking off my shoes.
 }
 [offset:25327]{
 -- Page 420, Offset 25327.
@@ -371,8 +368,9 @@ The very first place that Arcueid wanted to go was my classroom on the third flo
 [sha:5587e1cc74a5f1861814681db3decae8e89a93f0]{
 -- Page 421, Offset 25332.
 -- 歴史の勉強から自国の文化への深い造詣。ついでに物の在り方の理解度を深める物理や数学。ああ、いずれ諸外国に旅発つ事も想定して英語も教わっている」
-// group pr check
-Anything from studying history to broadening our knowledge of our own culture. We also deepen our understanding of how things work through physics and mathematics. Ah, and we're also taught English in case we need to travel abroad."
+We study history in order to broaden our understanding of our own culture.
+ We also deepen our understanding of how things work through physics and mathematics.
+ Ah, and we're also taught English in case we need to travel abroad."
 }
 [sha:03824a6e9b873f5eaf5a916d568630a34ca4f6fd]{
 -- Page 422, Offset 25333.
@@ -387,7 +385,7 @@ Arcueid offhandedly says something rather amusing.
 [sha:6351b1820a1350b4d57891ef7abbdd898138c797]{
 -- Page 423, Offset 25335.
 -- 「……アルクェイド。おまえ、初めっからここがどういう所だか知ってて言ってるだろ」
-"...Arcueid. Are you telling me you knew what sort of place this is all along?"
+"...Arcueid. You know full well what kind of place this is, don't you."
 }
 [sha:9377ffd052089ee71389b70807c6521ca7932eb8]{
 -- Page 423, Offset 25336.
@@ -402,7 +400,6 @@ Arcueid claps her hands together in applause.
 [sha:98bfd006fa92b6ba914f86cfd17e5c2b7f743bc1]{
 -- Page 424, Offset 25338.
 -- ……こいつが何を考えているのかは常に分かり難いが、今回は際立っている。
-// group pr check
 ...It's always hard to understand what's going on inside her head,
  but this time I'm more stumped than usual.
 }
@@ -684,7 +681,6 @@ That's why if one is wrong, it is tolerated as long as the entire group is corre
 [sha:5837e415458375e833f86817df1b24abdd051b9c]{
 -- Page 443, Offset 25390.
 -- 「……けどわたしたちは個体だから、自身の間違いは決して許されない。
-// group pr check: we replace with species?
 "...But since %{i}we%{/i} are only individuals, we cannot allow ourselves to be wrong, no matter what.
 }
 [sha:c83e378adb3407fefc897a9008a8bb3fc65a17e7]{
@@ -834,7 +830,7 @@ Yeah. It really isn't.
 -- Page 452, Offset 25420.
 -- おまえは吸血鬼なんだから―――そんな、普通の女の子みたいな、頼りない側面なんか見せないでくれ。
 You're a vampire―――so don't show me this side of you.
- The side of you that's as helpless as any other ordinary girl.
+ The side of you that's as helpless as any ordinary girl.
 }
 [sha:04252cd511dbe2c40785d23587e10e4358b39001]{
 -- Page 453, Offset 25421.
@@ -849,8 +845,7 @@ It's not good to think so seriously about yourself. I don't know what exactly is
 [sha:0f242543623b401cfea2b21f7bc0d523ca9f2715]{
 -- Page 453, Offset 25423.
 -- だって誰にも、迷惑なんて、かけてないんだから」
-// group pr check: change in the end
-I mean, in the end, you've never bothered anyone."
+I mean, it's not as though you're bothering anyone."
 }
 [sha:7a48b6edc3447c9cef21ab83266f8ed89b0540ab]{
 -- Page 454, Offset 25424.
@@ -974,7 +969,7 @@ Ah,
 -- Page 462, Offset 25447.
 -- 「そりゃそうだよ。俺はおまえ以外には優しいって言ったじゃないか。薄情なのは今に始まったコトじゃないし？」
 "Well, that's how I am. Didn't I say that I'm nice to everyone else but you?
- It's not like I've only started being cruel to you now."
+ It's not like I've only started being mean to you now."
 }
 [sha:d08ecfe00af4939240cc05854aaec0222b22c0ec]{
 -- Page 463, Offset 25448.
@@ -1001,7 +996,7 @@ No objections from her side.
 [sha:78025a32748a49465b2096a0d9166974396661b0]{
 -- Page 464, Offset 25452.
 -- わたしに対しては薄情なんでしょ、あなたって」
-You said that you act cruel toward me, right?"
+You said that you act mean toward me, right?"
 }
 [sha:48f577ebd0cbdc56c0586553c86f8c14df9f435d]{
 -- Page 464, Offset 25453.
@@ -1046,8 +1041,7 @@ I mustn't develop any more feelings than this.
 [sha:b714f137f3cd740320da347ec60d6e389c047ef6]{
 -- Page 467, Offset 25461. Mods: @n.
 -- しっかりしろ俺。どんなに愛らしいと感じても、
-// group pr check
-Get a hold of yourself. No matter how lovely she may be,
+Get a hold of yourself, Shiki. No matter how lovely she may be,
 }
 [sha:6f902742b6bff05d6f948af906ffe25ccee50875]{
 -- Page 467, Offset 25462. Glued.
@@ -1083,8 +1077,7 @@ It's fine if I don't know myself. I'm well aware of how weird I am. It's true th
 [sha:48b62a2645ab5e3897d35fc5cefef28c01ccaa63]{
 -- Page 470, Offset 25468.
 -- うんうん、と心底納得したように頷くアルクェイド。
-// group pr check: greater revelation. she's like wow that makes sense
-Arcueid nods to herself, as if she reached some greater level of inner understanding.
+Arcueid nods to herself, as if the final piece of some great puzzle had finally slid into place.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 471, Offset 25469.
