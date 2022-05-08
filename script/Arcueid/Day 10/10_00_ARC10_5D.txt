@@ -41,7 +41,7 @@ Despite agreeing with me, it doesn't seem like Arcueid is fully on board.
 [sha:6e896933171eab267e6d17bdadfb86c591952835]{
 -- Page 561, Offset 25717.
 -- 「……はあ。さっきからおかしいぞアルクェイド。
-"...Sigh. You've been acting strange for a while now, Arcueid.
+"...%{i}Sigh%{/i}. You've been acting strange for a while now, Arcueid.
 }
 [sha:e451fffd526987eac26ec44e4a917f76bb765bfc]{
 -- Page 561, Offset 25718.
@@ -284,7 +284,7 @@ The promised time.
 [sha:d53289a01bd440865d03fa334291ed56194c614e]{
 -- Page 578, Offset 25764.
 -- 夜の10時にここで会う、口だけの約束。
-A spoken promise to meet here at 10:00PM.
+A spoken promise to meet here at ten o'clock.
 }
 [sha:581d9a1b771af55e495ace1b82087bba8c883a6b]{
 -- Page 578, Offset 25765. Mods: @n.
@@ -391,7 +391,7 @@ I couldn't look her in the eye as I replied.
 [sha:ce2af97145349967c683dcc4987e6386e65b5c4e]{
 -- Page 584, Offset 25785.
 -- 「……はあ。志貴ってあたまが柔らかいんだか固いんだか。
-"...Sigh. I can't tell whether this means there's cotton or rocks between your ears.
+"...%{i}Sigh%{/i}. I can't tell whether this means there's cotton or rocks between your ears.
 }
 [sha:cf18e7d127552339e8fb6aa264102b4cafb3c769]{
 -- Page 584, Offset 25786.
@@ -419,8 +419,8 @@ That's why―――
 -- 「……だって、おまえは血を見るのもイヤなんだろ。そんな吸血鬼がいるもんか。自分で半人前だと言ってたけど、血を吸った事のない吸血鬼なんて、半人前以下だと思う
 "...I mean, you said you can't stand the sight of blood, right?
  What kind of vampire is that?
- Even if you say that you're only half as much a vampire as any other,
- never drinking blood has got to make you less than half.
+ Even if you say that you're a failure as a vampire,
+ never drinking blood has got to mean you aren't really even a vampire at all
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 586, Offset 25791. Glued.
@@ -460,7 +460,7 @@ Arcueid's voice is cold.
 [sha:8c8ecefb72373464f71c76f4d5f9c81460dcb9bf]{
 -- Page 588, Offset 25798.
 -- 言われるままに立ちあがり、アルクェイドに歩を進める。
-I dutifully stand up and walk toward Arcueid.
+I dutifully stand up and walk toward her.
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 589, Offset 25799.
@@ -495,12 +495,12 @@ Arcueid takes a deep breath before putting on a forced smile.
 [sha:c7b4e05f43ec3155ccda989ec205d2a24b3db82f]{
 -- Page 591, Offset 25805.
 -- 果たして、アルクェイド・ブリュンスタッドは本当に吸血鬼なのでしょうか？　って」
-I've wondered to myself: 'is Arcueid Brunestud really a vampire?'"
+I've wondered to myself: 'Is Arcueid Brunestud really a vampire?'"
 }
 [sha:c5d33d28ff06ce21d102cbf92a239fd13e6a4133]{
 -- Page 592, Offset 25806.
 -- ……ホッとした。
-...Thank God.
+...Thank goodness.
 }
 [sha:c2561e34ef757b3029297479934f5831c4a2a961]{
 -- Page 592, Offset 25807.
@@ -571,7 +571,7 @@ I hear the sound of her footsteps as she draws closer.
 [sha:6bb9204c50ff62fc59781ae7409eba4e10ea0dee]{
 -- Page 596, Offset 25820.
 -- 冗談である事は、お互いに分かってる。
-The both of us know that this is a joke.
+Both of us know that this is a joke.
 }
 [sha:1d60aa359f07ce47ca36af9dd10740d9550a6ff9]{
 -- Page 596, Offset 25821.
@@ -618,7 +618,7 @@ I'm unable to lift even a single finger, my eyes transfixed by her full, sensual
 [sha:e42d773ec83c86012b1694a0ca736361d06e2001]{
 -- Page 599, Offset 25829.
 -- 「志貴は、わたしのことを半人前だって言ったけど」
-"You said that I was barely half a vampire."
+"You said that I was a failure as a vampire."
 }
 [sha:0b56353a1ddf1fd4f7f98b22dcb22d9097d9df32]{
 -- Page 599, Offset 25830.
@@ -704,7 +704,7 @@ I mean, everything is different.
 [sha:ea7a14d94aa841609848477ebc6b25c6a0c7dfc0]{
 -- Page 602, Offset 25846.
 -- あの時より強い。あの時より激しい。
-Compared to that time, this feels stronger. More intense.
+Compared to back then, this feels stronger. More intense.
 }
 [sha:1f78874dd98d53343801cfc814ec32489bc8e5d0]{
 -- Page 602, Offset 25847.
@@ -714,7 +714,7 @@ What I want now is fundamentally different to what I wanted then.
 [sha:a56e299477899f5002246801a0e2be9d713f8c06]{
 -- Page 602, Offset 25848.
 -- 殺したい、のではなく。
-I don't want to kill her.
+Killing her... isn't what I want.
 }
 [sha:06e54aa640b6dbe01edf12cc6071ad7272394b06]{
 -- Page 602, Offset 25849.
@@ -763,7 +763,7 @@ This is just a joke. She's not trying to convince me of that, but herself.
 [sha:4a5b8457151159c9a61f6c698f019e832f6d5eaa]{
 -- Page 604, Offset 25857.
 -- なのに首元には、いまだ彼女の、火のように熱い吐息がかかっている。
-And yet I can still feel her hot, fiery breath on my neck.
+And yet, I can still feel her hot, fiery breath on my neck.
 }
 [sha:a7817502507e98aee5ac77865c1d45f326fe5c29]{
 -- Page 605, Offset 25858.
@@ -884,7 +884,7 @@ But the fingers on my shoulders are no longer trembling.
 [sha:90f257d1a22e39e7787b4f890dd57af1ac11bd1f]{
 -- Page 611, Offset 25881.
 -- 「っ――――！」
-"Kh――――!"
+"%{i}Kh%{/i}――――!"
 }
 [sha:90a4a5757d7094625cfac7a85f11057b4c562bed]{
 -- Page 611, Offset 25882.
@@ -899,7 +899,7 @@ Even though I have no desire to move, my body reflexively tries to get away from
 [sha:4e79efcac238319ae03ac98af8b737de52436af3]{
 -- Page 611, Offset 25884.
 -- けれどアルクェイドの爪は弱まらない。
-But Arcueid's claws don't let up.
+But her claws don't let up.
 }
 [sha:8320a0696bdd59f2c19ad032bc22929dad1dd16b]{
 -- Page 611, Offset 25885.
@@ -924,7 +924,7 @@ I shouldn't have mocked you, so... please, let go of me."
 [sha:2faa07a9efb90212e197c5f004e9f6b92ba75a4a]{
 -- Page 613, Offset 25889.
 -- アルクェイドの指が離れない。
-Arcueid's fingers won't let go.
+Her fingers won't let go.
 }
 [sha:158f92be6d8705629b23a9b685acf81e932310bc]{
 -- Page 613, Offset 25890.
@@ -944,7 +944,7 @@ Alarm bells ring inside my head.
 [sha:8dba0ae4604f438ce764d801a7dc3322c376eff7]{
 -- Page 613, Offset 25893.
 -- アルクェイドの体を押しのけようと腕が動く。
-I move my arm to push Arcueid's body away.
+I move my arm to push her away.
 }
 [sha:2483b4d418c2ccc1953fe516ebd997e3dc1834ed]{
 -- Page 614, Offset 25894.
@@ -964,7 +964,7 @@ How long has it been too late for?
 [sha:f2144eab1ebe05ed10cb29d1b3c53e6522e81a31]{
 -- Page 614, Offset 25897.
 -- 今か。ほんの５分前か。それとも一日前―――いや、初めて出会った時からか。
-From just now? From a mere five minutes ago? Or was it from a day ago―――no, from the very first time we met.
+From just now? From a mere five minutes ago? Or was it from a day ago―――no, from the very first time we met?
 }
 [sha:0b35a2d70c5be6f4c8bdb77c90fb8e46b2f5ddee]{
 -- Page 615, Offset 25898.
@@ -1004,7 +1004,7 @@ There's no need for her to use brute strength. With her alluring voice alone...
 [sha:4e20551c7dd8642526fd4c74126a9545352a516a]{
 -- Page 617, Offset 25905.
 -- 肉体ごと、精神が溶かされる。
-My soul melts along with my entire body.
+My mind melts along with my entire body.
 }
 [sha:614d141bfc843eead2687be7fc4280cde1f4d799]{
 -- Page 618, Offset 25906.

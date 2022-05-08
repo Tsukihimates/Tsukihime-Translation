@@ -232,7 +232,7 @@ If someone smiles at me like that, I can't possibly say no.
 [sha:1b2542c6e4baffdacf9c8e5fd226abc711fab4ab]{
 -- Page 73, Offset 667.
 -- 「……はあ。おごられてって、それも逆ですよ、先輩」
-"...Sigh. You say you're treating me, but this is quite the opposite, Senpai."
+"...%{i}Sigh%{/i}. You say you're treating me, but this is quite the opposite, Senpai."
 }
 [sha:70d947d2cdd541e22643e6874d90429381cef3a4]{
 -- Page 74, Offset 668.
@@ -252,7 +252,6 @@ If we don't, there won't be any free seats left!"
 [sha:d157795ad10d6f618f6e466e88a631988d2c5957]{
 -- Page 75, Offset 671.
 -- シエル先輩は再び俺の手を取って、ずんずんと廊下を歩き始めた。
-// シエル先輩は再び俺の手を取って、ずんずんと廊下を歩き始めた。
 Ciel-senpai takes my hand again and walks briskly down the corridor.
 }
 [sha:f842a9f908e03236f95a391041eef0304689171a]{
@@ -263,7 +262,6 @@ We must have beaten the crowds, as there are plenty of open tables in the cafete
 [sha:d8b701c3db1833f7273e18173c881076d63ce6a8]{
 -- Page 76, Offset 673.
 -- カウンターにはそれなりに行列ができていて、注文は５分待ち……ぐらいだろうか。
-// カウンターにはそれなりに行列ができていて、注文は５分待ち……ぐらいだろうか。
 Though there is a sizable queue at the counter already, it shouldn't take more than about... five minutes or so to order.
 }
 [sha:5d7b88f329c5fca3334893de0bbfb2b1050b38d4]{
@@ -334,7 +332,7 @@ At this hour, there are no corner seats for two people―――
 [sha:664ab565cb40622e66a89a270055e8932f1daa4c]{
 -- Page 82, Offset 687.
 -- 「……………はあ」
-".........Sigh."
+".........%{i}Sigh%{/i}."
 }
 [sha:e3da6f0f7445897b6f4a28ebc155bbfa673cc03e]{
 -- Page 82, Offset 688.
@@ -475,7 +473,7 @@ She takes the seat opposite me―――which puts her next to Arihiko.
 [sha:0c9f579b68093bc8eafe6fc97860c65043f80fb4]{
 -- Page 94, Offset 715.
 -- よく分からない声をあげる有彦。おそらく突然の幸運にうまく対応できないのだろう。気持ちは分かる。何故ならさっきまでの俺がそうだった。
-Arihiko makes an unfamiliar sound. Perhaps he can't cope with the sudden good fortune. I know how he feels, because that's what I was experiencing not too long ago.
+Arihiko makes an unfamiliar sound. Perhaps he can't cope with the sudden good fortune. I know how he feels because that's what I was experiencing not too long ago.
 }
 [sha:3fe8a8330184c0a89e4fa34b9fd7a7b2ed1e90a1]{
 -- Page 95, Offset 716.
@@ -751,7 +749,6 @@ But the teachers rely on you because you do that. I hope you don't let them get 
 [sha:2b1db6b1db5b27d3f0e06aa7db8801e3050624e6]{
 -- Page 116, Offset 770.
 -- だらけきった有彦の意見を、正面からばっさりたしなめるシエル先輩。
-// だらけきった有彦の意見を、正面からばっさりたしなめるシエル先輩。
 Ciel-senpai ruthlessly rebukes Arihiko's lazy opinions.
 }
 [sha:f7f1e21365b9a9094f4ecd7284189765fe1378e2]{
@@ -772,13 +769,11 @@ From the looks of it, he seems to be close to her in his own way.
 [sha:195d4c71923acdfa25145d2a31730d9cfac7fed5]{
 -- Page 118, Offset 774.
 -- 「知ってる。肩書きだけの生徒会と違って、なんでも解決してくれる完璧な三年生だろ」
-// 知ってる。肩書きだけの生徒会と違って、なんでも解決してくれる完璧な三年生だろ」If anyone has better ideas on how to phrase this
 "I know. She's the perfect third-year who can solve anything, unlike the so-called student council."
 }
 [sha:2c12b00ea59979861ba5e2df7071cad64240a7bc]{
 -- Page 119, Offset 775.
 -- 「おう。一年じゃファンクラブまであるし、教師連中も厄介ごとが起こると『シエルに相談すれば安心だ』なんて<暖簾|のれん>に腕押し状態だからな。今じゃ先輩が何をしたって文句を言う教師もいないぐらいだ」
-// 「おう。一年じゃファンクラブまであるし、教師連中も厄介ごとが起こると『シエルに相談すれば安心だ』なんて<暖簾|のれん>に腕押し状態だからな。今じゃ先輩が何をしたって文句を言う教師もいないぐらいだ」
 "Yeah. There's a fan club made among the first-years, and whenever something troublesome happens, even asking the teachers would get you nothing more than a 'Just talk to Ciel and you'll be fine'. Nowadays, Senpai could do just about anything and the teachers wouldn't complain."
 }
 [sha:61d55c9cfb91b34ff4685cf42c4363d7cb017376]{
@@ -814,7 +809,6 @@ I suppose it is to hide her embarrassment, but it also reminds me of my immediat
 [sha:03872ab456cffbc50cff37725601529a25f0f3ed]{
 -- Page 122, Offset 782.
 -- カレーライスだけでなくカレーうどんも控えている。
-// カレーライスだけでなくカレーうどんも控えている。A bit of a nitpicky change maybe
 Curry rice, as well as curry udon, are waiting on my plate.
 }
 [sha:4d498ae3d1d4549e722ccf157068de6e97d39118]{
@@ -975,7 +969,7 @@ I see. In other words, she's just an airhead, isn't she?
 [sha:f4f814f2d5eb543c97044d48abb33322f7b9b4ee]{
 -- Page 136, Offset 815.
 -- 「俺の家もこの街ですよ。徒歩にして30分弱。
-"My house is in this city too. It takes less than 30 minutes to walk there.
+"My house is in this city too. It takes less than thirty minutes to walk there.
 }
 [sha:14446076934f405b58e13da7f0c09ce17186a54f]{
 -- Page 136, Offset 816.
@@ -1141,13 +1135,11 @@ To be honest, I don't feel comfortable talking about the Tohno family.
 [sha:9721676bf7194cebfa87cf8b9a85550c87ddb31a]{
 -- Page 151, Offset 848.
 -- 「違いますよ先輩。遠野は長い休みになると家に居づらいってんで逃げてきただけです。このヤロウ、預けられたコトで有間の人たちに遠慮してんの」
-// 「違いますよ先輩。遠野は長い休みになると家に居づらいってんで逃げてきただけです。このヤロウ、預けられたコトで有間の人たちに遠慮してんの」
 "That's not it, Senpai. He ran away just because he didn't wanna stay home during summer break. This bastard feels reserved toward the Arimas 'cause he's been left in their care."
 }
 [sha:89fbf167aa93585622cd53273d4e3434477da1ea]{
 -- Page 152, Offset 849.
 -- 「で、部屋が空いてるオレのところに転がりこんでくるってワケ。こいつは外見がいいから姉貴にも気に入られちまってさ、厚かましくも手ぶらで泊まりにくるんだぜ！」
-// 「で、部屋が空いてるオレのところに転がりこんでくるってワケ。こいつは外見がいいから姉貴にも気に入られちまってさ、厚かましくも手ぶらで泊まりにくるんだぜ！」手ぶら empty-handed, as in not bringing a gift to thank them, what he says two lines below
 "So, he comes to me when I have a room available. My sister likes him because he's good-looking, and so he's bold enough to stay with us without even bringing anything!"
 }
 [sha:b6a2845a0c6aaa960d995e7b04e23b93b63d566c]{
@@ -1173,7 +1165,6 @@ Arihiko covers his mouth in a hurry.
 [sha:2c4992c04349f4e55305a8544679d65b8d8a2d8d]{
 -- Page 154, Offset 854.
 -- 似合わない事に、気まずそうに苦笑いなどをしている。
-// 似合わない事に、気まずそうに苦笑いなどをしている。
 Realizing that this was unlike him, he then awkwardly makes a bitter smile.
 }
 [sha:2aceb10e39b93d90cfc4f35fcd21559dd799561b]{
@@ -1219,13 +1210,11 @@ I mean, did you not get along with your previous family...?"
 [sha:405758abecfcb888c10dac92eac6b1c266ed3d77]{
 -- Page 158, Offset 863.
 -- だって言うのにこいつは養子にならないかって話も断って、休みになればオレんところに逃げてきやがるんだ。ホントに何が不満なんだオマエは」
-// だって言うのにこいつは養子にならないかって話も断って、休みになればオレんところに逃げてきやがるんだ。ホントに何が不満なんだオマエは」
 And yet he rejects any talk of becoming their adopted child and runs away to my place during days off. What are you dissatisfied with, really?"
 }
 [sha:58cb4904785f9acf785309150ac8966cd263b825]{
 -- Page 159, Offset 864.
 -- 「不満なんかある訳ないだろ。よくしてもらってるから、これ以上負担をかけたくないだけだ」
-// 「不満なんかある訳ないだろ。よくしてもらってるから、これ以上負担をかけたくないだけだ」
 "There's no reason for me to be dissatisfied with anything. They've been good to me, I just don't want to burden them anymore."
 }
 [sha:1288acb26ecb10a5815bc0abce9196e2b99e84d5]{
@@ -1236,7 +1225,6 @@ I finish my curry rice.
 [sha:8c10259c4871b9a085f2362a7d2b1e48c2e5a41a]{
 -- Page 160, Offset 866.
 -- 残るはまるまる一人前のカレーうどんである。
-// 残るはまるまる一人前のカレーうどんである。Hefty, plump, beefy, or just large?
 All that's left now is a hefty bowl of curry udon.
 }
 [sha:b6c679137d8bae741b7bfbe30c2c2056b633e1a6]{
@@ -1272,7 +1260,6 @@ In fact, she seems to be fidgeting as if she's uncomfortable.
 [sha:48f0897a06112617a54b0a14e6cd62817a3fa839]{
 -- Page 163, Offset 873.
 -- 「あー、ゴメン先輩。オレ、ちょっと遠野と内緒話があるからさ、席外してもらえない？」
-// 「あー、ゴメン先輩。オレ、ちょっと遠野と内緒話があるからさ、席外してもらえない？」 "Can you excuse us" implies that they (Shiki & Arihiko) are the ones leaving right? If so, that's the contrary
 "Aah, I'm sorry, Senpai. But I've got to talk to Tohno about something in private, so can you excuse us for a sec?"
 }
 [sha:bacd739b0fc6a0f3b483e771547d7153c811ca13]{
@@ -1318,7 +1305,7 @@ It's just me and Arihiko at the table.
 [sha:6d6c44f13289b7e8a8c644b431981f56bfce6ebd]{
 -- Page 167, Offset 882.
 -- 「……はあ。先輩も居づらそうだったし、俺もこうしたほうがいいとは思ったけどさ。今のは紙一重じゃないか？　おまえ、好感度下がったぞ」
-"...Sigh. Senpai seemed uncomfortable so it was probably for the best. But that was a close call, wasn't it? Your likability has dropped."
+"...%{i}Sigh%{/i}. Senpai seemed uncomfortable so it was probably for the best. But that was a close call, wasn't it? Your likability has dropped."
 }
 [sha:d72ff736b279919b64c37f5cc7a0888469a2f183]{
 -- Page 168, Offset 883.
@@ -1328,7 +1315,6 @@ It's just me and Arihiko at the table.
 [sha:447c7453680776a3830d54542a4f315e02eb6d59]{
 -- Page 168, Offset 884.
 -- ぞぞぞ、と力うどんをすする有彦。
-// ぞぞぞ、と力うどんをすする有彦。
 Arihiko slurps his chikara udon.
 }
 [sha:60131e7c9a99e1bbe850f22b05513a30fc700dfb]{
@@ -1420,7 +1406,6 @@ The Tohnos have been a prominent family for a long time, and their way of life i
 [sha:3370fe48dbb8d5ee8ec59cd06eba733cbb8a9ac5]{
 -- Page 175, Offset 902.
 -- 子供心に覚えているのは巨大な洋館と、その洋館に合わせて時代が止まっているかのような家訓の重圧だ。
-// 子供心に覚えているのは巨大な洋館と、その洋館に合わせて時代が止まっているかのような家訓の重圧だ。
 All I can remember from those days was that huge, Western-style mansion, as well as the pressure of our family rules which, just like the mansion, seemed frozen in time.
 }
 [sha:4ef9ee5f38e44956ba1961a588a10622dd1a2316]{
@@ -1503,7 +1488,7 @@ It's easy to imagine how Akiha feels about me running away from her.
 [sha:13ccb5db10ef446108d0c135a819a325a371b816]{
 -- Page 181, Offset 918.
 -- 「だろう？　おまけに二度と<敷居|しきい>はまたぐなっていう決め台詞付きだ。世間さまではそーゆーのを勘当って言うんだ。
-"Right? And on top of that they trotted out some hackneyed line about 'never setting foot in this household again'. In the real world, we call that being disowned.
+"Right? And on top of that, they trotted out some hackneyed line about 'never setting foot in this household again'. In the real world, we call that being disowned.
 }
 [sha:550947a1056ee44a70c8ed416703b61528fbc8b5]{
 -- Page 181, Offset 919.
