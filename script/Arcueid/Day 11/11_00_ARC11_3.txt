@@ -165,7 +165,7 @@ Never again will Arcueid and I spend the night together, feeling this sense of c
 [offset:29979]{
 -- Page 167, Offset 29979.
 -- 「………はあ」
-"...Sigh..."
+"...%{i}Sigh%{/i}..."
 }
 [sha:1f6a6de4b9f3b474bf3356b8c659d980c6b731b6]{
 -- Page 167, Offset 29980.
@@ -199,7 +199,7 @@ It seems the person in question is trying to conceal themselves,
 [sha:d6397a19c94bd024b0d444b51e84cf8500a0c39b]{
 -- Page 169, Offset 29985.
 -- 「おい。もう３時だぞ。いつまで待たせるんだ、ばか」
-"Oi, it's already three in the morning. Just how long were you planning on keeping me waiting?"
+"Oi, it's already three in the morning. Just how long were you planning on keeping me waiting, you idiot?"
 }
 [sha:12ed0fa1413d825489b3f28a10bea6b4711893a4]{
 -- Page 169, Offset 29986.
@@ -272,7 +272,7 @@ The words I'd been piecing together in my mind all vanished the moment I saw tha
 [sha:f790eb478d6e801ad00de4abd8747a3768776eb4]{
 -- Page 173, Offset 29999.
 -- ……くそ。なにを言えばあいつをまた笑顔に戻せるのか、俺には分からない。
-Damn it. I just don't know what I can say that'll bring a smile back to her face.
+Damn it. I just don't know what to say that'll bring a smile back to her face.
 }
 [sha:27e096f0abfbafe250f6bc73885dd8caf8b7aa53]{
 -- Page 173, Offset 30000.
@@ -302,7 +302,7 @@ It feels as though this moment is stretching on forever.
 [sha:45b883f4c243c7815a53426991ac50f0b0145bf0]{
 -- Page 174, Offset 30005.
 -- 実際ではおそらく百に満たず秒針が動いて。
-In realty, probably fewer than a hundred seconds expire under the second hand of my watch.
+In the real time, probably fewer than a hundred seconds expire under the second hand of my watch.
 }
 [sha:67e5c26bc161f19f28a7185da5c70cfdff6f2a17]{
 -- Page 174, Offset 30006.
@@ -312,7 +312,7 @@ Arcueid suddenly looks up, as though something has caught her attention.
 [sha:fd9001c98a4650ea68888f45bbfbbb241d99bcac]{
 -- Page 175, Offset 30007.
 -- 「志貴、いつまでも帰らないんだもの。
-"Shiki, you just won't go home, will you?
+"Shiki, you just won't go home, will you.
 }
 [sha:41cb413473ff1006e25b278d1ea1fd7a5c1a5d99]{
 -- Page 175, Offset 30008.
@@ -359,7 +359,7 @@ I find myself desperately wanting to shake off my own self-restraint, and just c
 [sha:b2728f29de1d2fb9c43580aa3ca870716f0ce533]{
 -- Page 179, Offset 30016.
 -- 「ああ。アルクェイドとの約束は破らないって言っただろ。
-"Yeah. I said I wouldn't break our promise, didn't I?
+"Yeah. I said I wouldn't break our promise, didn't I.
 }
 [sha:4332b16cc2ad01c275c3de8291cb9b7a46b91f79]{
 -- Page 179, Offset 30017.
@@ -462,7 +462,7 @@ Your body is weak right now, and you were just a little worn out.
 -- Page 184, Offset 30036.
 -- ……俺はバカだからさ、おまえの嘘に気づいてやれなかった。おまえを苦しめてたのは体の傷なんかじゃなくて、吸血衝動ってやつだったんだろ。俺の血がほしくて、あんな真似をしたんじゃない」
 Because I'm an idiot... I didn't notice your lies.
- It wasn't your physical injuries that were tormenting you, it was your vampiric urges.
+ It wasn't your physical injuries that were tormenting you, it was your vampiric impulses.
  You didn't act the way you did because you actually wanted my blood."
 }
 [sha:fb21817313c50d7abad48b4225569bc83ea93944]{
@@ -498,7 +498,7 @@ So there's really no need for you to worry.
 [sha:76be4af800aa8bf80162af74eb364f2bba5717c0]{
 -- Page 186, Offset 30043.
 -- それにあの夜だって―――あんなに苦しそうだったのに、ちゃんと我慢できたじゃないか。だから大丈夫だよ。これからも今までみたいにやっていける」
-And that night―――even though it was agonizing, you were able to endure it, weren't you?
+And that night―――even though it was agonizing, you were able to endure it, weren't you.
  That's why it'll be okay.
  You can keep on going, same as you did before."
 }
@@ -749,7 +749,7 @@ I've been feared by who only knows how many humans up until now.
 -- 「……でも、おかしいよね。志貴がわたしをそういうふうに見るのだけは、すごくイヤだったんだ。わたしはどうあっても、志貴にとって化け物なのに」
 "But... isn't it strange?
  When you looked at me like that, I just couldn't stand it.
- At the end of the day, I'm a monster in your eyes, aren't I?"
+ At the end of the day, I'm a monster in your eyes, aren't I."
 }
 [sha:13588dcca992d6f2befb6b132806cfec3f0ea90c]{
 -- Page 205, Offset 30090.
@@ -1062,7 +1062,7 @@ Even here, like this―――hearing your heartbeat is driving me mad with passi
 [sha:7251e16545ede5b2abc9d540ea244b61464c648d]{
 -- Page 224, Offset 30149.
 -- とくん、と。
-%{i}Badump.%{/i}
+%{i}Badump%{/i}.
 }
 [sha:2269b360994fd0f095bd10ce5dbab90ca80c3274]{
 -- Page 224, Offset 30150.
@@ -1100,7 +1100,7 @@ Unless―――You hate me?"
 [sha:f8ccf3036a2aac24de4c072bdebcd140b48992ba]{
 -- Page 226, Offset 30156.
 -- とく、ん。
-%{i}Badu――mp.%{/i}
+%{i}Badu――mp%{/i}.
 }
 [sha:1a8e637512f9e0b296fd6028fa130bd26fda1819]{
 -- Page 226, Offset 30157.
@@ -1280,7 +1280,7 @@ How the hell am I supposed to forget when she looks at me like that?
 [sha:08e725a3248a670cd25fa9b6ac4563171e75db2c]{
 -- Page 237, Offset 30190.
 -- おまえに会えたらなんて謝って、なんて言ったらいいだろうって、ずっと考えてた。
-How was I going to apologize when I met you? What was I gonna say?
+How was I going to apologize when I met you. What was I gonna say.
  I spent the whole day thinking about it.
 }
 [sha:e35d51c5b63ebee81255ec8545424cea99f12525]{
@@ -1319,7 +1319,7 @@ But... It's the honest truth.
 [sha:6ca18e06ec4201ecc2be9af5a8271f938ec9c2fc]{
 -- Page 239, Offset 30197.
 -- 俺はアルクェイドの魔眼であんな事をしたんじゃない。
-It wasn't Arcueid's Mystic Eyes that made me do what I did.
+It wasn't Arcueid's evil eyes that made me do what I did.
 }
 [sha:715aa33f62c13f505457431b939535b17f133ec1]{
 -- Page 239, Offset 30198.
@@ -1381,7 +1381,7 @@ I embraced her a little too forcefully.
 [sha:2c6cfa1493375af72107a2263c1e8cd3092a627c]{
 -- Page 243, Offset 30209.
 -- でも誰が俺を責められよう。
-But who could blame me?
+But who could blame me.
 }
 [sha:d6dc27c180219353939ab6a72776e316738f7ebc]{
 -- Page 243, Offset 30210.
@@ -1450,7 +1450,7 @@ Ah. I'm sorry, I'm all too aware of that myself.
 -- Page 247, Offset 30222.
 -- 「……でも、可笑しいね。殺した男と殺された女が、こうして抱き合ってるなんて」
 // boy and girl for a maybe failed "boy meets girl" allusion? this is kinda cheesy in a funny way i like it
-"But... it's funny, isn't it? Killer boy and victim girl embracing each other like this?"
+"But... it's funny, isn't it. Killer boy and victim girl embracing each other like this."
 }
 [sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
 -- Page 247, Offset 30223.
@@ -1465,7 +1465,7 @@ As she whispers that, Arcueid's body starts trembling.
 [sha:b97c23380c7893cf5d2729215a7acf2812cef6a9]{
 -- Page 247, Offset 30225.
 -- 傷が痛むのだろうか……？
-Is her wound hurting?
+Is her wound hurting...?
 }
 [sha:d1ca0da4312b97dcfc8e060a0f95b4727676fa86]{
 -- Page 248, Offset 30226.
@@ -1488,7 +1488,7 @@ I'm overflowing with emotions right now,
 [sha:fe065e257846fbfd957c2bfa4586f53fbfc6fabb]{
 -- Page 248, Offset 30229.
 -- ―――ね。志貴なら、わたしがどんな顔をしているか分かるかな」
-―――Hey, Shiki... Can you tell what sort of face I'm making right now?"
+―――Hey, Shiki... can you tell what sort of face I'm making right now?"
 }
 [sha:10a82dbd8096a0b0316a3abe36c471bbb480a124]{
 -- Page 249, Offset 30230.
