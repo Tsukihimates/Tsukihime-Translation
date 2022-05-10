@@ -1,7 +1,7 @@
 [sha:407ebcb3f9a05af94b4a87535347f62cf519e427]{
 -- Page 10029, Offset 7778.
 -- キンコーン。
-*ding*
+%{i}ding%{/i}
 }
 [sha:21146aceb40fef4cfb54ba23f896c16e089e1e24]{
 -- Page 10029, Offset 7779.
@@ -16,7 +16,7 @@ A cheerful sound rings out, terribly out-of-place.
 [sha:17e7cd0042013da2d82d7878318adf9d7b146276]{
 -- Page 10029, Offset 7781.
 -- 先ほどの箱のとなりにある、もう一つの箱が到着する。
-Another cab arrives right next to the one from earlier.
+Another elevator arrives right next to the one from earlier.
 }
 [sha:d44d5584afaf90d5c5f87c84beafdc9b94405ff3]{
 -- Page 10029, Offset 7782.
@@ -234,7 +234,6 @@ I stare at the woman's neck.
 [sha:553133d8caac1a17f34210943bda81391aeb6b50]{
 -- Page 822, Offset 7824.
 -- 目の中で星が散るようだ。
-// 目の中で星が散るようだ
 The light in her eyes goes out.
 }
 [sha:6261e4ec5965557f8ec5165a8bcd1fe251fc4a9a]{
@@ -365,7 +364,7 @@ They're burning. The flames are definitely flickering.
 [sha:26ef150467e16696288b328e28d864bc36843b62]{
 -- Page 829, Offset 7850.
 -- <な|・><の|・><に|・><建|・><物|・><は|・><燃|・><え|・><て|・><い|・><な|・><い|・>。
-And yet the building is not being burned.
+%{i}And yet, the building is not being burned%{/i}.
 }
 [sha:32fed19edd0d9f78b06274c4c644ef537f29e548]{
 -- Page 829, Offset 7851.
@@ -395,7 +394,7 @@ The closer he gets, the hotter the atmosphere becomes.
 [sha:d546b5022ad974e4d0a6196dc3bab1a92f58e021]{
 -- Page 831, Offset 7856.
 -- 今はまだ15メートル。
-He is still 15 meters away.
+He is still fifteen meters away.
 }
 [sha:78e7c875b8635c976177c2f96e16ea9b576f2cf9]{
 -- Page 831, Offset 7857.
@@ -430,7 +429,7 @@ Everything is out of sync. I'm about to go crazy.
 [sha:1019d8d6b9c70fea0f03ff470bd0433081634b41]{
 -- Page 832, Offset 7863.
 -- 13メートル。
-13 meters.
+Thirteen meters.
 }
 [sha:b98ffc1ff5780c0f158aadb53fe4f864544b89df]{
 -- Page 832, Offset 7864.
@@ -455,7 +454,7 @@ No response. I wonder if he can even see me in the first place.
 [sha:472bc2123485b18f8125260f34b40e38f9da28ed]{
 -- Page 833, Offset 7868.
 -- 10メートル。
-10 meters.
+Ten meters.
 }
 [sha:b5d41a9d70e23fc66a977346afc8eb9996a04d95]{
 -- Page 833, Offset 7869.
@@ -480,7 +479,7 @@ The inside of my skull boils like soup.
 [sha:1374ac8592e6926df914ec12ffb3ccf54b87ba80]{
 -- Page 835, Offset 7873.
 -- <ア|・><レ|・><は|・>、<な|・><ん|・><だ|・>。
-What the hell is that?
+%{i}What the hell is that%{/i}?
 }
 [sha:602e789499789dd7e96464896ec00c828f372491]{
 -- Page 835, Offset 7874.
@@ -515,12 +514,12 @@ It's like looking directly at the sun and burning your retinas.
 [sha:c5ca1fcdbfdb33e3894868186a8682cb382fbec6]{
 -- Page 836, Offset 7880.
 -- 覚悟もなしに<ア|・><レ|・>を視ては、この脳が破裂する。
-My brain will explode if I look at that thing without being prepared.
+My brain will explode if I look at %{i}that thing%{/i} without being prepared.
 }
 [sha:a78506a8f041879c3466f0a2b38dd42428697b7a]{
 -- Page 837, Offset 7881.
 -- ８メートル。
-8 meters.
+Eight meters.
 }
 [sha:268d0e0ff7badcfca59ad141fff4f28def0ce2f3]{
 -- Page 837, Offset 7882.
@@ -535,7 +534,7 @@ The temperature is rising. But it's still not hot enough to burn my flesh.
 [sha:b0b97be4d35379cb3efa6647d6c8392f860d2176]{
 -- Page 838, Offset 7884.
 -- ６メートル。
-6 meters.
+Six meters.
 }
 [sha:f56557d5f9017274359928a69f390bb5e2935dba]{
 -- Page 838, Offset 7885.
@@ -555,7 +554,7 @@ His gaze focuses on me. The man finally notices me at this close range.
 [sha:c1435bb6df10580e0d04e9b9cdb53a72cd868e2a]{
 -- Page 839, Offset 7888.
 -- <ソ|・><レ|・><と|・><眼|・><を|・><合|・><わ|・><せ|・><て|・><は|・><い|・><け|・><な|・><い|・>。
-I shouldn't be making eye contact with him.
+%{i}I shouldn't be making eye contact with him%{/i}.
 }
 [sha:1556342a7d8918537bc44c00616fb3bf7754e5fb]{
 -- Page 839, Offset 7889.
@@ -680,7 +679,7 @@ And yet, just before that―――
 [sha:ae25bc1d05c4843655386cca9641c8608f826a2d]{
 -- Page 847, Offset 7913.
 -- ざくん、という音とともに、俺の体は後ろに引っ張られていた。
-My body is yanked backwards, and at the same time a thud reverberates in the hallway.
+My body is yanked backwards, and at the same time, a thud reverberates in the hallway.
 }
 [sha:3a2f05bd451fa7ae227bdf0664199a7067bf3658]{
 -- Page 848, Offset 7914.
@@ -796,7 +795,7 @@ He stares at Arcueid in silence.
 [sha:92d002958944636cb1bb766476b39aff2c54c879]{
 -- Page 856, Offset 7936.
 -- アルクェイドは腹を真っ赤に染めたまま、苦しげに男を睨み返していた。
-Arcueid glares back at the man in pain, her stomach dyed a deep red.
+She glares back at the man in pain, her stomach dyed a deep red.
 }
 [sha:64c2f8d019c20f359c303f0316a399439fb7e00a]{
 -- Page 857, Offset 7937.
@@ -876,7 +875,6 @@ A flicker of ego stirs in his ghostly eyes.
 [sha:d5c4c25cba91e6b91ede94e5a43731db29cbd1ae]{
 -- Page 862, Offset 7952.
 -- アルクェイドの言葉……俺には何語か聞き取れなかった……を受けて、男はあえぐように喉を鳴らした。
-// 男はあえぐように喉を鳴らした
 Arcueid's words were in a language I can't make heads or tails of, but this man seems to understand.
 }
 [sha:b73227a7f375135b340d6825d0c7f675510d8f15]{
@@ -1278,7 +1276,7 @@ It seems that Arcueid is just asleep.
 [sha:c0875c2742d2cd7887786111a59d9e61d68904b8]{
 -- Page 891, Offset 8032.
 -- 「……はあ。部屋まで連れてけって、また勝手なコト言いやがって―――」
-"...Hah. Telling me to take you home, just how selfish can you get―――"
+"...%{i}Sigh%{/i}. Telling me to take you home, just how selfish can you get―――"
 }
 [sha:3711ab0661be059bc46546aca4d872718a4723f3]{
 -- Page 891, Offset 8033.

@@ -1,22 +1,26 @@
 [sha:565244d9e8ff1f71b93b6bb093b5418fb6fea12a]{
 -- Page 10026, Offset 26674.
 -- ―――夕方の一件が気になって、学校にやってきた。
-―――With the evening's conversation weighing on my mind, I went to the school.
+// 夕方 -> sunset under the assumption he's talking about the chat at school,
+// because evening is broad enough to include stuff that happened at the park
+―――With the conversation we had at sunset weighing on my mind, I returned to the school.
 }
 [sha:8055f817464562bbe4d1f58dbcd9dbd6b14b4f5d]{
 -- Page 10026, Offset 26675.
 -- 思い返してみると、学校でのアルクェイドの様子はおかしかった。
-Thinking back on it, Arcueid wasn't her usual self.
+In hindsight, Arcueid was acting a little strange last time we were here.
 }
 [sha:dd4cde014318773167a913fe7c0026dfb138e8b6]{
 -- Page 844, Offset 26676.
 -- 今日だけの話で言えば、この校舎もアリのように思える。
-Just in terms of what we did today, the time we spent in the school seems so insignificant.
+Compared to everything else that's happened today,
+ this school building seems so insignificant.
 }
 [sha:9ccaee33bff321cad963c772adf5e4ec70efe020]{
 -- Page 844, Offset 26677.
 -- 夜の学校は人気がない。ひとりになるにはもってこいの場所かもしれない。
-There are no people at the school during night. It might just be the perfect place to be alone.
+Nobody hangs around by the school at night.
+ It might just be the perfect place to be alone.
 }
 [sha:1d35a89c959a5eb7b9856d378f2ade450b076a93]{
 -- Page 845, Offset 26678.
@@ -26,7 +30,7 @@ There're no signs of people; not even a single sound can be heard.
 [sha:8dfbb9aef3af9179bba5c791f0c6d87209c5122b]{
 -- Page 845, Offset 26679.
 -- 明かりもついておらず、校舎は墓地のように沈黙している。
-The lights are turned off, and the school building is as silent as a graveyard.
+The lights are turned off, and the school building is as silent as the grave.
 }
 [sha:15397a52730efc6d83979a4cc50951fde7d6c0e2]{
 -- Page 845, Offset 26680. Mods: @n.
@@ -41,12 +45,13 @@ The lights are turned off, and the school building is as silent as a graveyard.
 [sha:db22801ce769ca1c5a9577cbdb4dcbb40fb5b23f]{
 -- Page 845, Offset 26682.
 -- なのに、校舎の中に<何|・><か|・><い|・><る|・>のが分かる。
-And yet I can feel %{i}something%{/i} is there in the building.
+And yet, I can feel %{i}something%{/i} is there in the building.
 }
 [sha:d5628b8cba2c53137256de80b0c2e4828525188b]{
 -- Page 845, Offset 26683.
 -- 風の運んでくる匂いが手触りとなって、ぞくりと、首筋を滑り落ちていく。
-The scent carried by the wind caresses me and sends a shiver down my spine.
+// What
+The scent carried by the wind brushes across my neck, sending a shiver down my spine.
 }
 [sha:0e5e8bb03e463a354ebda63d6809246859d50562]{
 -- Page 846, Offset 26684.
@@ -66,7 +71,7 @@ I enter the school building through the window where I cut the line earlier.
 [sha:b764b9fbedc4b9f49c02d826b8ed266e4f0f6506]{
 -- Page 847, Offset 26687.
 -- ――――一階に、人影はない。
-――――There's no one in the first floor.
+――――There's no one on the first floor.
 }
 [sha:6224af17e71ef2a6636d564b6012c37ff0f6b3a0]{
 -- Page 847, Offset 26688. Mods: @n.
@@ -76,7 +81,7 @@ I enter the school building through the window where I cut the line earlier.
 [sha:f75646bc78175ed25e7a7130f086f8d4e8e32d0f]{
 -- Page 847, Offset 26689. Glued.
 -- ズキリ、と首の後ろが痺れる。
-The back of my neck becomes numb with a throbbing sensation.
+I feel pins and needles on the back of my neck.
 }
 [sha:51bb2b960e74c9a505686afc3cf3abfcbf6b071f]{
 -- Page 847, Offset 26690.
@@ -106,12 +111,13 @@ However.
 [sha:c7731aa512ebb0616cbf16f65d8880c4fda92117]{
 -- Page 848, Offset 26695.
 -- 背中に、ぬめりと。
-A slimy sensation behind my back.
+There's something slimy on my back.
 }
 [sha:e487bf761afbf4d28c2d955ee39894d52d803ef8]{
 -- Page 848, Offset 26696.
 -- 蛇の腹のような、冷たいくせに柔らかい、感触がのしかかってきた。
-A feeling weighs over me, cold but soft, like the belly of a snake.
+I feel the touch of something weighing on me,
+ cold but soft, like the belly of a snake.
 }
 [sha:52b6b3d8e346837ace51836b3c46f64afb3aa6b9]{
 -- Page 849, Offset 26697.
@@ -121,7 +127,7 @@ A feeling weighs over me, cold but soft, like the belly of a snake.
 [sha:2e09ef3ba6116615507a1ec8a387c53bb2dcd0a3]{
 -- Page 849, Offset 26698.
 -- 振りかえる。
-I turn around.
+I whirl around.
 }
 [sha:04c2f925206f4fba1522a9c0a506c33eab71a78f]{
 -- Page 849, Offset 26699.
@@ -191,5 +197,5 @@ At the very last moment.
 [sha:a6463f2554ccd184e89676631a9cc184e5ef02d3]{
 -- Page 851, Offset 26712.
 -- いつかの、遠い夏の日の映像が、繰り返された。
-The scene of some distant summer's day plays over again.
+The scene of some distant summer's day flashes before my eyes.
 }

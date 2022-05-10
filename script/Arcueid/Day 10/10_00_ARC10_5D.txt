@@ -1,12 +1,12 @@
 [sha:174548517d159082577a6222d1f566275c277d40]{
 -- Page 10018, Offset 25709.
 -- こつこつと時計の針は進んでいく。
-The hands on the clock advance.
+The hands of the clock steadily advance.
 }
 [sha:d22939606816c29e9c81062b63959f4db3c65706]{
 -- Page 10018, Offset 25710.
 -- 公園に来てから、いつの間にか２時間近く経過していた。
-Before I knew it, we'd been in the park for almost two hours.
+The two hours we've spent in the park passed in the blink of an eye.
 }
 [offset:25711]{
 -- Page 559, Offset 25711.
@@ -26,7 +26,7 @@ Human and vampire alike, the time has come for night dwellers to make their move
 [sha:79eb7a2f4ecdfc7785d0cc77c4bd859f2dc1327e]{
 -- Page 560, Offset 25714.
 -- 「アルクェイド、そろそろいいんじゃないか？」
-"Arcueid, isn't it about time to go?"
+"Arcueid, isn't it about time we head out?"
 }
 [sha:cfc59e0e940454808a064f460dc1ec8ce894c0a7]{
 -- Page 560, Offset 25715.
@@ -41,7 +41,7 @@ Despite agreeing with me, it doesn't seem like Arcueid is fully on board.
 [sha:6e896933171eab267e6d17bdadfb86c591952835]{
 -- Page 561, Offset 25717.
 -- 「……はあ。さっきからおかしいぞアルクェイド。
-"...Sigh. You've been acting strange for a while now, Arcueid.
+"...%{i}Sigh%{/i}. You've been acting strange for a while now, Arcueid.
 }
 [sha:e451fffd526987eac26ec44e4a917f76bb765bfc]{
 -- Page 561, Offset 25718.
@@ -57,12 +57,12 @@ Did something happen?"
 -- Page 561, Offset 25720.
 -- 志貴が話してくれた黒い死者の事が、ちょっとひっかかって」
 // maybe don't just translate 黒い as "black" for these...
-It's just that the shadowy Dead you talked about has been bothering me a bit."
+It's just that the shadowy Dead you told me about has been bothering me a bit."
 }
 [sha:39fa63809adb5757b05dcc78577929e2c64c46d3]{
 -- Page 562, Offset 25721.
 -- アルクェイドは目に見えて元気がない。
-Arcueid looks noticeably lacking in vigor.
+Arcueid seems visibly dispirited.
 }
 [sha:aa9cd86413a7d321e51e283c24ecfd7fb0e43233]{
 -- Page 562, Offset 25722.
@@ -92,7 +92,8 @@ A complete 180.
 [sha:092bf7b41af04e76f443f6ce4eda83f135841e0b]{
 -- Page 563, Offset 25727.
 -- くるくる回る万華鏡か、こいつは。
-What is she, a kaleidoscope?
+// Readers are spared googling origami magic mandala
+She really does turn on a dime.
 }
 [sha:e3b7b652fcc8dae4bee6524ab87f65f184ec0892]{
 -- Page 564, Offset 25728.
@@ -107,7 +108,7 @@ What is she, a kaleidoscope?
 [sha:eade7943097b2b5b6027f91591a2fbaae034ecd6]{
 -- Page 565, Offset 25730.
 -- 「……いや、何が起きたのかは分かるんだが……おまえ、黒い死者について考えごとしてるんじゃなかったのか？」
-"...No, I understand what happened, but... weren't you agonizing while thinking about that shadowy Dead just a second ago?"
+"...No, I understand what happened, but... weren't you agonizing over that shadowy Dead just a second ago?"
 }
 [sha:79152efc857736d5b3c1b939fa29a8c315dc0afb]{
 -- Page 566, Offset 25731.
@@ -122,22 +123,24 @@ In the same way you were attacked, I was also suddenly greeted by another man!"
 [sha:5f50aeceb0b6231b6a8e76576bd8e6ce195a8bfd]{
 -- Page 567, Offset 25733.
 -- 「……なるほど。そりゃあ、良かった。
-"...Oh I see. Well, good for you.
+"...Ah, I see. Well, good for you.
 }
 [sha:953ba5457e3e88ef42d8cdf07e79e92004f39fab]{
 -- Page 567, Offset 25734.
 -- たしかに外見だけならおまえは美人だからな、まっとうな感性と驚嘆に値する胆力を持つ男なら声の一つぐらいかけるさ」
-It's true that you're a beauty based on your appearance alone. Any man with proper sense and admirable courage would at least call out to you."
+// Unsure if 外見だけなら is supposed to be snide
+It's true that you're a real beauty, on the outside at least.
+ Any man with proper sense and admirable courage would at least call out to you."
 }
 [sha:e986f26e28fd0f1096fcfee6463caca6ff27de50]{
 -- Page 568, Offset 25735.
 -- 「やっぱり？　わたしも最初は敵かなって思ったんだけど、志貴が言ってたじゃない。わたしはいるだけで目立つって。
-"So I was right. I also thought that it was an enemy at first, but you mentioned it before, right? That I stand out just by existing.
+"So I was right. I also thought that they were an enemy at first, but you mentioned it before, right? That I stand out just by existing.
 }
 [sha:50fa8650327895dd402aa9a33a1890d4c32d3725]{
 -- Page 568, Offset 25736.
 -- だから、しばらく出方を窺ってたら、ただの人間だって分かったわ」
-That's why, when I observed his behavior for a bit, I knew that he was just a normal human being."
+Because of that I observed his behavior for a bit, and concluded that he was just a normal human being."
 }
 [sha:3977275fe5454fb39d98c1e2abeaec8f317fa48e]{
 -- Page 569, Offset 25737. Mods: @n.
@@ -162,17 +165,17 @@ I don't want to believe it, but that guy who hit on you, did you..."
 [sha:38d5493940b1ae8623fa30ef0ab72ce7b8141206]{
 -- Page 571, Offset 25741.
 -- 「ううん、何もしなかったよ。ちょっとだけ話して、わたしのコトを忘れてもらっただけだから。
-"No, I didn't do anything to him. We just talked for a bit, and I made him forget about me afterward.
+"No, I didn't do anything to him. We just talked for a bit, then I made him forget about me afterward.
 }
 [sha:b2e1c24a7ca589478a7c5d28e9b380939a549ef4]{
 -- Page 571, Offset 25742.
 -- ……その、志貴の言葉を思い出さなかったら、どうにかしてたかもしれないけど」
-...Well, if I hadn't remembered what you said to me, things might have turned out different."
+...Well, if I hadn't remembered what you said to me, things might have turned out differently."
 }
 [sha:76d695259148a93c24d5c088197ca0f5f0ed12a1]{
 -- Page 571, Offset 25743.
 -- 「そうか、偉いぞアルクェイド。おまえにも分別ってものがあったんだ」
-"I see. That's great of you, Arcueid. So even you can make that sort of judgement."
+"I see. I'm proud of you, Arcueid. To think even you possess that level of discretion."
 }
 [sha:1311f2f6fe2f8602752daac9d85f9d3e020b415a]{
 -- Page 572, Offset 25744. Mods: @n.
@@ -182,7 +185,9 @@ I don't want to believe it, but that guy who hit on you, did you..."
 [sha:10288ffafe1cbef7b1d5896ed8fa9b526ec1b245]{
 -- Page 572, Offset 25745. Glued.
 -- わたしを怒らせるなんて志貴ぐらいのものだもの。他の誰にも、わたしを殺したり助けたりしてくれる人はいないんだから」
-The only one who can make me angry is someone like you. There's no one else who has both killed and saved me before after all."
+// Leading space for glue
+ You're the only one that can really make me angry.
+ There's no one else who has both killed and saved me before after all."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 572, Offset 25746. Mods: @n.
@@ -197,7 +202,8 @@ A vibrant voice, filled with trust.
 [sha:8bbd36b9b1323cfedbd5069d64e153f23c4ac5e7]{
 -- Page 572, Offset 25749.
 -- それはもう数えるのも馬鹿らしい、不意打ち気味の笑顔だった。
-I've lost count at this point of the dumb smiles she's given me.
+// Surprise attack -> sprung [trap]
+I've lost count at this point of how many times she's sprung that smile on me.
 }
 [sha:5bebc0267ca8b3d3bc4dd62567b8528e6b6648a8]{
 -- Page 573, Offset 25750.
@@ -221,19 +227,19 @@ I get off something resembling a retort before averting my gaze from the merry A
 // this rendition makes it a little hard to tell who is returning from a night out,
 // (students & couples or just students like in the jp) but I don't think it makes
 // much of a difference either way.
-If it weren't for the serial murders, at this time we could expect to see young couples and students returning home from a night out.
+If it weren't for the serial murders,
+ the park would be full of young couples and students on their way back from a night out,
+ even at this hour.
 }
 [sha:dc4e537d204ceb836250f1a6c5611de16cc343f6]{
 -- Page 575, Offset 25754.
 -- 今では、ここで話しているのは自分とアルクェイドだけ。
-// is this ここで(話しているのは自分とアルクェイド)だけ
-// or (ここで話している)のは自分とアルクェイドだけ
-Now the only people here are me and Arcueid, chatting.
+But the only people here chatting now are myself and Arcueid.
 }
 [sha:8dac0d74cb1060d4892dfc3f0101e121b522a6b9]{
 -- Page 575, Offset 25755.
 -- 吸血鬼探しも死の線も今はちょっとだけ<隅|すみ>に。
-Right now hunting vampires and the lines of death are in the recesses of my mind.
+Hunting vampires and the lines of death have taken a back seat for the moment.
 }
 [sha:1094516a76135c36c31d3be35a2fb8fc157fce2b]{
 -- Page 575, Offset 25756.
@@ -263,7 +269,7 @@ I raise my head at the sudden call.
 [sha:ddca3500f0e7d957c85ac30ef2f86737f879ae9c]{
 -- Page 577, Offset 25761.
 -- 満面の笑みを浮かべて、アルクェイドは公園の時計を指差す。
-A smile forms on Arcueid's face and she points at the park clock.
+Arcueid points at the park clock, a big smile on her face.
 }
 [sha:504a5d14d40a67862eb275004a8f3fd1d80aef15]{
 -- Page 577, Offset 25762.
@@ -278,13 +284,13 @@ The promised time.
 [sha:d53289a01bd440865d03fa334291ed56194c614e]{
 -- Page 578, Offset 25764.
 -- 夜の10時にここで会う、口だけの約束。
-// this sucks but I don't have a better interpretation.
-A promise made of meeting here at 10:00PM through words alone.
+A spoken promise to meet here at ten o'clock.
 }
 [sha:581d9a1b771af55e495ace1b82087bba8c883a6b]{
 -- Page 578, Offset 25765. Mods: @n.
 -- 昨日の夜、俺が守れなかった、通り過ぎた待ち合わせ。
-Last night, I failed to keep the promise and let the meeting pass.
+Last night, I failed to keep that promise,
+ and let that meeting slip away.
 }
 [sha:f0dd4a6a183c39fe5dad0df55f71db7a3d60ca20]{
 -- Page 579, Offset 25766.
@@ -314,12 +320,12 @@ Why does she seem so happy about something so insignificant?
 [sha:fb67d37fa3d8d0c685935bde4f94491746ae8353]{
 -- Page 580, Offset 25771.
 -- 今日一日、こいつと街を歩いてみて。
-Walking around the city with her for an entire day.
+I spent all day today walking around the city with her.
 }
 [sha:8949e82f222a7b7221548f14ca425f2b60196f10]{
 -- Page 580, Offset 25772.
 -- アルクェイドが、本当に吸血鬼なんていうモノなのか、ぜんぜん実感できなくて。
-It didn't feel like Arcueid was really a vampire at all.
+At no point did I feel like Arcueid really was a vampire.
 }
 [sha:89dea1541a2930864170d2d04e5da8fc2e7f8eb2]{
 -- Page 581, Offset 25773.
@@ -369,37 +375,39 @@ It didn't feel like Arcueid was really a vampire at all.
 [sha:b79d6588915285971a114a7ffd119fecc27db941]{
 -- Page 583, Offset 25782.
 -- 「吸血鬼なのかって……志貴、いまさら何を言ってるの？」
-"Am I really a vampire? ...Shiki, why are you saying that all of a sudden?"
+// いまさら is connected across these, modulated a bit to make it work
+"Am I really a vampire? ...Shiki, how long have you been sitting on that question for?"
 }
 [sha:6d3da43a48842b25b15523d0e84ac2def1bf6776]{
 -- Page 583, Offset 25783.
 -- 「いまさらじゃない。今になってそう思っただけだ」
-"It's not sudden. It just that it occured to me now."
+"That's not it. It only popped into my head just now."
 }
 [sha:2e89c99a48b09c07f66ac11e8ad89d0f7e5593c6]{
 -- Page 583, Offset 25784.
 -- 視線を逸らして、そう言った。
-Averting my gaze, I said it.
+I couldn't look her in the eye as I replied.
 }
 [sha:ce2af97145349967c683dcc4987e6386e65b5c4e]{
 -- Page 584, Offset 25785.
 -- 「……はあ。志貴ってあたまが柔らかいんだか固いんだか。
-"...Sigh. I can't tell whether you've gone soft or if you're thick headed.
+"...%{i}Sigh%{/i}. I can't tell whether this means there's cotton or rocks between your ears.
 }
 [sha:cf18e7d127552339e8fb6aa264102b4cafb3c769]{
 -- Page 584, Offset 25786.
 -- わたしは気にしないけど、それってひどい侮辱よ。なにを根拠にそんなことを言うのか、聞かせて」
-I don't really mind it, but that was a terrible insult. What exactly made you ask such a thing."
+Anyone else would have considered that to be a grave insult.
+ What exactly made you ask such a thing?"
 }
 [sha:65376e7eae880d261efb363a2bff57df2df95c70]{
 -- Page 585, Offset 25787.
 -- 根拠はない。
-There's no real basis.
+I have no reason to think she isn't.
 }
 [sha:c923adf5448f2e1e1ff7991bcc8856926a746467]{
 -- Page 585, Offset 25788.
 -- けど、それと同じくらい、おまえが吸血鬼だっていう証拠がないんだ。
-But in the same vein, there's no proof that she's a vampire either.
+But on the other hand, I've seen no hard proof that she is.
 }
 [sha:9e90f0f9af22e617cdd61cff69a69e6a167eabbe]{
 -- Page 585, Offset 25789.
@@ -409,7 +417,10 @@ That's why―――
 [sha:17bc113b9c50dbc7e6e3b4d1e8ae9ec3d7136ee7]{
 -- Page 586, Offset 25790. Mods: @n.
 -- 「……だって、おまえは血を見るのもイヤなんだろ。そんな吸血鬼がいるもんか。自分で半人前だと言ってたけど、血を吸った事のない吸血鬼なんて、半人前以下だと思う
-"...I mean, you hate looking at blood, right? How could there be a vampire who hates looking at blood?. Even if you say that you're half-vampire, never drinking blood has gotta make you less than half.
+"...I mean, you said you can't stand the sight of blood, right?
+ What kind of vampire is that?
+ Even if you say that you're a failure as a vampire,
+ never drinking blood has got to mean you aren't really even a vampire at all
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 586, Offset 25791. Glued.
@@ -449,7 +460,7 @@ Arcueid's voice is cold.
 [sha:8c8ecefb72373464f71c76f4d5f9c81460dcb9bf]{
 -- Page 588, Offset 25798.
 -- 言われるままに立ちあがり、アルクェイドに歩を進める。
-I get up as I am told and walk toward Arcueid.
+I dutifully stand up and walk toward her.
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 589, Offset 25799.
@@ -464,7 +475,7 @@ Our gazes meet.
 [sha:9a2414e7a486d6014afa7a0e71ec4edd34b3a730]{
 -- Page 589, Offset 25801.
 -- ちょうど距離にして２メートルぐらい、俺とアルクェイドは離れている。
-The exact distance between us is just 2 meters.
+The distance between us is about two meters.
 }
 [sha:73b235dab6f8df5e4432e6e1857cb2b86dbf55e9]{
 -- Page 590, Offset 25802.
@@ -479,32 +490,33 @@ Arcueid takes a deep breath before putting on a forced smile.
 [sha:d8f99bcfdddbd9b258f10fb222ea83218bd53196]{
 -- Page 591, Offset 25804.
 -- 「そうだよねー。わたしもホントはそう思ってたんだ。
-"I guess you're right. I've thought the same.
+"I guess you're right. I've actually thought the same.
 }
 [sha:c7b4e05f43ec3155ccda989ec205d2a24b3db82f]{
 -- Page 591, Offset 25805.
 -- 果たして、アルクェイド・ブリュンスタッドは本当に吸血鬼なのでしょうか？　って」
-I've thought to myself, is Arcueid Brunestud really a vampire?"
+I've wondered to myself: 'Is Arcueid Brunestud really a vampire?'"
 }
 [sha:c5d33d28ff06ce21d102cbf92a239fd13e6a4133]{
 -- Page 592, Offset 25806.
 -- ……ホッとした。
-...Thank God.
+...Thank goodness.
 }
 [sha:c2561e34ef757b3029297479934f5831c4a2a961]{
 -- Page 592, Offset 25807.
 -- 抑えきれずに吐き出してしまったが、この質問はアルクェイドを傷つけるんじゃないかと、そう思えて仕方がなかった。
-I was unable to control myself and threw that question out there, but I couldn't help but think it was going to hurt Arcueid.
+I couldn't help myself from blurting out that question,
+ even knowing there was a chance that it might hurt Arcueid.
 }
 [sha:a451d3118ad8366711f01270052f075bac4f13d0]{
 -- Page 592, Offset 25808.
 -- アルクェイドが冗談のように受け止めてくれて、助かった。
-I'm glad that Arcueid was able to take it as a joke.
+I'm glad that she was able to take it as a joke.
 }
 [sha:3f9790600f2723047844a77391d7d1246653cb5a]{
 -- Page 593, Offset 25809.
 -- 「……だよな。アルクェイドはどう見ても吸血鬼らしくない」
-"...I know, right? No matter how you look at it, you don't seem like a vampire at all."
+"...I know, right? You just don't strike me as a vampire at all."
 }
 [sha:6aefa1b4547fe67494b1c57a53f0ccaf0650babd]{
 -- Page 594, Offset 25810.
@@ -514,7 +526,7 @@ I'm glad that Arcueid was able to take it as a joke.
 [sha:f3d632a52dcc441d5cc476f77edb5b03b94502a0]{
 -- Page 594, Offset 25811.
 -- いたずらに笑いながら、アルクェイドは、そんな言葉を口にした。
-Arcueid spoke those words with a mischevious smile.
+Arcueid spoke those words with a mischievous smile.
 }
 [sha:8ebceedf130494bdd2b8683d4c089d6a93c6d548]{
 -- Page 594, Offset 25812.
@@ -544,7 +556,7 @@ Arcueid walks toward me with a smile on her face, taking step after step.
 [sha:34c3986ef707ba9b1fdc115d3c6eda6a9fed7ca8]{
 -- Page 596, Offset 25817. Mods: @n.
 -- かつんかつん、
-Tap, tap
+%{i}Tap. Tap%{/i}
 }
 [offset:25818]{
 -- Page 596, Offset 25818. Glued.
@@ -554,12 +566,12 @@ Tap, tap
 [sha:fbe29e9b876f1a763e70b4b8fc337f137fa5d672]{
 -- Page 596, Offset 25819.
 -- 白い女は足音をたてて近寄ってくる。
-The sound of the woman in white's steps as she draws closer.
+I hear the sound of her footsteps as she draws closer.
 }
 [sha:6bb9204c50ff62fc59781ae7409eba4e10ea0dee]{
 -- Page 596, Offset 25820.
 -- 冗談である事は、お互いに分かってる。
-The both of us know that this is a joke.
+Both of us know that this is a joke.
 }
 [sha:1d60aa359f07ce47ca36af9dd10740d9550a6ff9]{
 -- Page 596, Offset 25821.
@@ -579,7 +591,7 @@ I try to speak out, but I can't.
 [sha:9af1bc54931d17a469aa7f7fdc8d4505aba0a7e9]{
 -- Page 597, Offset 25824.
 -- アルクェイドの力じゃなくて―――俺自身、その言葉を飲みこんでいた。
-It's not because of Arcueid's force―――but because I held my tongue of my own accord.
+It's not Arcueid's doing―――I held my tongue of my own accord.
 }
 [sha:a5d0c8f614405841da06ce8e1c6513093bdb6145]{
 -- Page 598, Offset 25825.
@@ -589,47 +601,49 @@ Arcueid is getting closer.
 [sha:86347feaecf166a094e2b71083a0eccb0528d9dd]{
 -- Page 598, Offset 25826.
 -- 一歩。また一歩。
-One step. And another.
+One step. Then another.
 }
 [sha:d129d9ef3863f1b5a41ce844428865efb46d050c]{
 -- Page 598, Offset 25827.
 -- うつむいたまま、少しずつ。
-With her head hanging low, little by little.
+// Eyes downcast / head hung seems a little gloomy for what I interpret more
+// as an almost coquettish look away
+She closes in little by little, her head gently lowered.
 }
 [sha:828ad6de62abc1e54909c7e8825bb308e7ab21a3]{
 -- Page 598, Offset 25828.
 -- 俺は指一本も動かせないまま、彼女の、<瑞々|みずみず>しくも肉感的な、唇を見つめている――――
-Unable to move even a single finger, I fix my eyes on her full, sensual lips――――
+I'm unable to lift even a single finger, my eyes transfixed by her full, sensual lips――――
 }
 [sha:e42d773ec83c86012b1694a0ca736361d06e2001]{
 -- Page 599, Offset 25829.
 -- 「志貴は、わたしのことを半人前だって言ったけど」
-"You said that I was only a half-vampire."
+"You said that I was a failure as a vampire."
 }
 [sha:0b56353a1ddf1fd4f7f98b22dcb22d9097d9df32]{
 -- Page 599, Offset 25830.
 -- 頭の後ろに響くような、甘い声。
-An alluring voice that rings in the back of my head.
+Her alluring voice reverberates inside my head.
 }
 [sha:08e8bb702343798cd5c00d6349d8bfac6bc7ab86]{
 -- Page 599, Offset 25831.
 -- かつん、と足音が間近で止まる。
-The sound of footsteps come to a halt nearby.
+I hear her footsteps come to a halt nearby.
 }
 [sha:0c9beeea4312882255975f9a6301183a3f93a79a]{
 -- Page 599, Offset 25832.
 -- 「―――ほんとはね。血を吸うのなんて、簡単だよ」
-"―――But the truth is, sucking blood is incredibly simple."
+"―――But the truth is, sucking blood is incredibly easy."
 }
 [sha:38e1e9b2f822d2005b3947d103ae0758dda42184]{
 -- Page 599, Offset 25833.
 -- そんな声が、耳元で、聞こえた。
-I hear the voice right next to my ear.
+I hear her voice right next to my ear.
 }
 [sha:cd535dc3ecf2c1f889dd66ce9a2d5240b9959b55]{
 -- Page 600, Offset 25834.
 -- 呼吸が近づく。
-Her breath gets closer.
+I can feel her breath.
 }
 [sha:e8e79f54a5bba1f0201ceeff4776fdd3b065ab3c]{
 -- Page 600, Offset 25835.
@@ -649,7 +663,7 @@ I feel her weight on my shoulders; I feel it through my whole body.
 [sha:701c81dd80a192048d3fde3945c251c2471f9991]{
 -- Page 600, Offset 25838.
 -- それは。意識を失いかけるほどの、心音だった。
-A heartbeat strong enough to knock me unconscious.
+A heartbeat so strong it nearly knocks me unconscious.
 }
 [sha:2b48423c233b305b782cef65211bd5a67de8f2ef]{
 -- Page 601, Offset 25839.
@@ -659,27 +673,28 @@ I want her. I want her. I want her. I want her.
 [sha:2de0b0c8248cef26ab067c08f621ebf8b37f7ff5]{
 -- Page 601, Offset 25840.
 -- 暴れ出す情動を必死に抑える。
-I desperately try to supress my violent emotions.
+I desperately try to suppress my boiling emotions.
 }
 [sha:08ef39b619536e61f8dc893bad0bf71752b23d94]{
 -- Page 601, Offset 25841.
 -- 背中をかき乱そうと<戦慄|わなな>く左腕を、
-I try to hold back with every fabric of my being―――
+I try to hold back with every fiber of my being―――
 }
 [sha:4dea3565ceac6d6fb1054e962729c86514c827c2]{
 -- Page 601, Offset 25842.
 -- 抱き寄せたくてたまらない右腕を、
-My left arm that trembles so much that my back shakes―――
+My left arm trembles so much that my back shakes.
 }
 [sha:9bb0134da36b136b172031a40f4c6dabce34c037]{
 -- Page 601, Offset 25843.
 -- 懸命に抑えつける。
-and my right arm hopelessly eager to embrace her.
+My right arm desperately longs to embrace her.
 }
 [sha:cbee506358de5a8b776d4ccd1e2440a214c553ae]{
 -- Page 601, Offset 25844.
 -- 欲しくてたまらない。我慢できる筈がない。それでも、今この女を求めてはいけない。
-I want her so bad. There's no way I can hold back. But still, I musn't desire this woman as she is right now.
+I want her so bad. There's no way I can hold back.
+ Even so, I cannot allow myself to desire this woman now.
 }
 [sha:bdd99ef966b3bcf243b8645b4b086d4147e2e125]{
 -- Page 602, Offset 25845.
@@ -689,27 +704,27 @@ I mean, everything is different.
 [sha:ea7a14d94aa841609848477ebc6b25c6a0c7dfc0]{
 -- Page 602, Offset 25846.
 -- あの時より強い。あの時より激しい。
-Compared to that time, this feels stronger. More intense.
+Compared to back then, this feels stronger. More intense.
 }
 [sha:1f78874dd98d53343801cfc814ec32489bc8e5d0]{
 -- Page 602, Offset 25847.
 -- あの時とは、根本的に、求めているモノが違う。
-What I want now is fundamentally different than what I wanted that time.
+What I want now is fundamentally different to what I wanted then.
 }
 [sha:a56e299477899f5002246801a0e2be9d713f8c06]{
 -- Page 602, Offset 25848.
 -- 殺したい、のではなく。
-I don't want to kill her.
+Killing her... isn't what I want.
 }
 [sha:06e54aa640b6dbe01edf12cc6071ad7272394b06]{
 -- Page 602, Offset 25849.
 -- それとは違う衝動で、ここまで狂いだしそうだと言うのなら。
-If I feel like I'll go mad with a differing impulse at this point...
+It's a different impulse that's driving me mad this time.
 }
 [sha:b1464d33ba10d8075abb30a9461dbcf46ee0e560]{
 -- Page 602, Offset 25850.
 -- 俺は、こんな事で、彼女の精一杯の勇気を、汚してはいけない筈だ。
-Then I mustn't defile the courage that she put her heart into like this.
+But I mustn't defile her heartfelt courage like this.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 603, Offset 25851.
@@ -719,32 +734,36 @@ Then I mustn't defile the courage that she put her heart into like this.
 [sha:cc5107dae1507eb66f2a3dacec8b40e8cf4f7b3b]{
 -- Page 603, Offset 25852.
 -- 奥歯をかみ砕く勢いで、わき上がる情動を呑み込んだ。
-Through the sheer force of my molars grinding against each other, I hold back my emotions.
+// Actually more like a 'strength [so great] it masticates my teeth',
+// as in the act of exerting the strength causes him to involuntarily grind
+// them, but doesn't really real well like that
+Gritting my teeth so hard my molars grate,
+ I manage to summon enough strength to hold back my seething emotions.
 }
 [sha:2de40612b10272afe1269868d13494457528f2b4]{
 -- Page 603, Offset 25853.
 -- 時間にして１秒もなかった葛藤。
-A conflict that lasted for not even a single second.
+My internal conflict was over in little under a second.
 }
 [sha:e41ca25cc8b02b4ce40e764ee386a9ea92c87bec]{
 -- Page 603, Offset 25854.
 -- その間、アルクェイドの動きに変化はなかった。
-During that time, there was no change in Arcueid's movements.
+During that time, Arcueid didn't move at all.
 }
 [sha:f5e453a6161f2d646a660c201ce0a7f39b0d5e7c]{
 -- Page 604, Offset 25855.
 -- ……ぞくり、と背筋が凍る。
-...Suddenly, my back freezes.
+...Suddenly, a chill runs down my spine.
 }
 [sha:4e6305ab62ca2e590a87fdcd6e04870e0b34b9dc]{
 -- Page 604, Offset 25856.
 -- これは冗談だ。俺にではなく、自分に言い聞かせる冗談だった筈だ。
-This is a joke. This should have been a joke that I told to myself, and not on me.
+This is just a joke. She's not trying to convince me of that, but herself.
 }
 [sha:4a5b8457151159c9a61f6c698f019e832f6d5eaa]{
 -- Page 604, Offset 25857.
 -- なのに首元には、いまだ彼女の、火のように熱い吐息がかかっている。
-And yet I could still feel her breath on my neck, hot like fire.
+And yet, I can still feel her hot, fiery breath on my neck.
 }
 [sha:a7817502507e98aee5ac77865c1d45f326fe5c29]{
 -- Page 605, Offset 25858.
@@ -754,7 +773,7 @@ And yet I could still feel her breath on my neck, hot like fire.
 [sha:472d2099efc661ce2daa72384cdf57f86f6c97fd]{
 -- Page 605, Offset 25859.
 -- 名前を呼ぼうとして、口を閉ざす。
-I try to call her name, but I shut my mouth.
+I begin to call her name, but bite my tongue.
 }
 [sha:a0bb18ac64e0cba0dc139a8cc33da63b3b7a205f]{
 -- Page 605, Offset 25860.
@@ -769,12 +788,12 @@ It's already over.
 [sha:b379a6f7103b46781b3ddb4c4c83337e773076c8]{
 -- Page 606, Offset 25862.
 -- こんな悪ふざけはこれで終わって、いつもの笑顔でアルクェイドはこう言う筈だ。
-This prank will come to an end, and Arcueid will go back to her usual smile and say,
+This prank will come to an end, and Arcueid will put on her usual smile and say―――
 }
 [sha:8ca7c8b8bc363a417ed73550e35d10f47b82e644]{
 -- Page 606, Offset 25863.
 -- “なあんて、やっぱり血なんて吸わないよ”と。
-'Just kidding, I'm not going to suck your blood after all'.
+'Just kidding, I'm not going to suck your blood after all!'
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 607, Offset 25864.
@@ -784,7 +803,7 @@ This prank will come to an end, and Arcueid will go back to her usual smile and 
 [sha:df15ecfbc43917bcc3c31f6be219ac19ae199c25]{
 -- Page 607, Offset 25865.
 -- ……なのに、かかっていた重みが変わる。
-...And yet the weight hanging over me changes.
+...And yet, the weight on my shoulders shifts.
 }
 [sha:f496b3305ea346883782d9b5bea151b6c2336b76]{
 -- Page 607, Offset 25866.
@@ -814,12 +833,13 @@ It's only Arcueid who's trembling violently.
 [sha:0f82be9782ef9b1d007d8a92570d1d5c6e572c3b]{
 -- Page 609, Offset 25871.
 -- 苦しげな呼吸。
-An agonizing breath.
+Her breathing is pained.
 }
 [sha:137b914d38d6306820187f074d5e659675606d4d]{
 -- Page 609, Offset 25872.
 -- アルクェイドの息遣いはこんなにも近いのに、遥か遠くのものに感じる。
-Even though her breath is so close, it feels so far away.
+// Mild liberties to avoid a dumb sounding repetition of breathing
+Even though they're so close, each breath feels so far away.
 }
 [sha:007ae94f72228914a40dd56ee321c030c97bc404]{
 -- Page 609, Offset 25873.
@@ -829,12 +849,12 @@ I can't see her face.
 [sha:3aa6257798aaf0bec2770bb2591f0cbe1161c9d7]{
 -- Page 609, Offset 25874.
 -- 首筋にかかる吐息だけが、彼女の体の震えに重なっていく。
-Even though it's only her breath hanging on my neck, the tremble of her body piles on top of me.
+I can feel the shaking of her body in each exhalation that brushes across my neck.
 }
 [sha:987d7e5f15ed1d91bd987b775948296b50bcbb82]{
 -- Page 609, Offset 25875.
 -- はあ、という弱さから、はあはあ、という荒々しさに。
-From the the smooth exhale of a weak breath to the labored repetition of hyperventilation.
+Her breathing goes from a light whimper to heavy, labored hyperventilation.
 }
 [sha:8c9c3cbfd585a8a10f7941e392d84f1bfcd56499]{
 -- Page 610, Offset 25876.
@@ -844,47 +864,47 @@ From the the smooth exhale of a weak breath to the labored repetition of hyperve
 [sha:04888cb0e23c0a7875d988a49a5fe632fefd09ef]{
 -- Page 610, Offset 25877.
 -- ……堪えきれず、その名前を口にしてしまった。
-...Unable to bare it, I call out her name.
+...Unable to bear it, I call out her name.
 }
 [sha:89209fe7d9b1b62062bbd8dfa790596963feb576]{
 -- Page 610, Offset 25878.
 -- 「冗談―――――なのに」
-"Even though―――――you're messing around..."
+"Even though―――――it's just a joke..."
 }
 [sha:0e068abb91da51a0afa9e4460bfd91c2d5513068]{
 -- Page 610, Offset 25879.
 -- アルクェイドの声が震えている。
-Arcueid's voice quivers.
+Arcueid's voice is shaky.
 }
 [sha:95c4e22c50280c2db3aaeca0a12db3a967014734]{
 -- Page 610, Offset 25880.
 -- 肩に置かれた指は、もう震えてはいなかった。
-The fingers on my shoulders are no longer trembling.
+But the fingers on my shoulders are no longer trembling.
 }
 [sha:90f257d1a22e39e7787b4f890dd57af1ac11bd1f]{
 -- Page 611, Offset 25881.
 -- 「っ――――！」
-"Kh――――!"
+"%{i}Kh%{/i}――――!"
 }
 [sha:90a4a5757d7094625cfac7a85f11057b4c562bed]{
 -- Page 611, Offset 25882.
 -- 痛みに声があがる。
-I raise my voice in pain.
+I cry out in pain.
 }
 [sha:b19bdd8fc853eef3f227ddddc74074a98a922ad9]{
 -- Page 611, Offset 25883.
 -- 動きたくはないのに、反射的に体は■■から逃れようと後じさる。
-Even though I didn't want to move, my body reflexively tried to get away from ■■.
+Even though I have no desire to move, my body reflexively tries to get away from ■■.
 }
 [sha:4e79efcac238319ae03ac98af8b737de52436af3]{
 -- Page 611, Offset 25884.
 -- けれどアルクェイドの爪は弱まらない。
-But Arcueid's claws wouldn't let up.
+But her claws don't let up.
 }
 [sha:8320a0696bdd59f2c19ad032bc22929dad1dd16b]{
 -- Page 611, Offset 25885.
 -- 離れようとする俺の体を逃がすまいと、万力のように食い込んでくる。
-It sinks into me like a vise, refusing to let me escape as I try to pull away.
+They press into me, their vise-like grip refusing to let me escape even as I try to pull away.
 }
 [sha:ac1ef8bf64b9e949856b40d49e0dc8a964312846]{
 -- Page 612, Offset 25886.
@@ -904,7 +924,7 @@ I shouldn't have mocked you, so... please, let go of me."
 [sha:2faa07a9efb90212e197c5f004e9f6b92ba75a4a]{
 -- Page 613, Offset 25889.
 -- アルクェイドの指が離れない。
-Arcueid's fingers won't let go.
+Her fingers won't let go.
 }
 [sha:158f92be6d8705629b23a9b685acf81e932310bc]{
 -- Page 613, Offset 25890.
@@ -914,17 +934,17 @@ Arcueid's fingers won't let go.
 [sha:7cc3f132250168a1c85e7d160b3853289fee5f49]{
 -- Page 613, Offset 25891.
 -- 誰にとって禁忌なのか。
-I must have touched a taboo.
+I must have struck a nerve.
 }
 [sha:1e13d3a0eae92a1f6c9e47a0e8328ec4b8095864]{
 -- Page 613, Offset 25892.
 -- 警鐘を鳴らす理性。
-Alarm bells ring inside of my head.
+Alarm bells ring inside my head.
 }
 [sha:8dba0ae4604f438ce764d801a7dc3322c376eff7]{
 -- Page 613, Offset 25893.
 -- アルクェイドの体を押しのけようと腕が動く。
-I move my arm to push Arcueid's body away.
+I move my arm to push her away.
 }
 [sha:2483b4d418c2ccc1953fe516ebd997e3dc1834ed]{
 -- Page 614, Offset 25894.
@@ -944,7 +964,7 @@ How long has it been too late for?
 [sha:f2144eab1ebe05ed10cb29d1b3c53e6522e81a31]{
 -- Page 614, Offset 25897.
 -- 今か。ほんの５分前か。それとも一日前―――いや、初めて出会った時からか。
-From just now now? From a a mere five minutes ago? Or was it from a day ago―――no, from the very first time we met.
+From just now? From a mere five minutes ago? Or was it from a day ago―――no, from the very first time we met?
 }
 [sha:0b35a2d70c5be6f4c8bdb77c90fb8e46b2f5ddee]{
 -- Page 615, Offset 25898.
@@ -954,12 +974,12 @@ From just now now? From a a mere five minutes ago? Or was it from a day ago―�
 [sha:ad0c9523c5372573593a9b52ec53b1c0f7b9d32e]{
 -- Page 615, Offset 25899.
 -- 乱れた吐息が首筋から脳髄までせり上がる。
-Her erratic breath rises from my neck all the way to my brain.
+Her heavy breathing rises from my neck all the way to my brain.
 }
 [sha:38748bd814a07132f92b714ce0137a30a57c354c]{
 -- Page 615, Offset 25900.
 -- それは駆け巡る脳内物質のように、彼女の昂ぶりを伝えてくる。
-Her arousal transmits like a chemical running around in my brain.
+It's like a chemical message that floods my head with her arousal.
 }
 [sha:a353e1d8a40ee60de98efc50c9c347c2c162936c]{
 -- Page 616, Offset 25901.
@@ -969,7 +989,7 @@ Her arousal transmits like a chemical running around in my brain.
 [sha:663e8c58a264291aaf9f693d76ab8d366025301f]{
 -- Page 616, Offset 25902.
 -- <耳|じ><朶|だ>に滑りこむ本能の<響き|エコー>。
-The echoes of her instincts slip into my earlobe.
+The echoes of her instincts slip into my ear.
 }
 [sha:9f59c023f12db1a3fd4b62791e2c9d64e72de286]{
 -- Page 616, Offset 25903.
@@ -984,7 +1004,7 @@ There's no need for her to use brute strength. With her alluring voice alone...
 [sha:4e20551c7dd8642526fd4c74126a9545352a516a]{
 -- Page 617, Offset 25905.
 -- 肉体ごと、精神が溶かされる。
-My soul melts along with my entire body.
+My mind melts along with my entire body.
 }
 [sha:614d141bfc843eead2687be7fc4280cde1f4d799]{
 -- Page 618, Offset 25906.
@@ -999,12 +1019,12 @@ I feel it on my neck.
 [sha:ff86eb16afcf4d07b4a5354337ba5c9cd58e1880]{
 -- Page 618, Offset 25908.
 -- 狂おしげな吐息がかかる。
-A maddening breath looms over me.
+Her hot, frenzied breath.
 }
 [offset:25909]{
 -- Page 618, Offset 25909.
 -- 瞬間、
-In an instant.
+In an instant―――
 }
 [sha:cbba913887736b5e5e5d960bce21f84664554521]{
 -- Page 618, Offset 25910.
@@ -1029,7 +1049,7 @@ Divine providence that could not be opposed.
 [sha:f4bc5fabb7dce4273dacc72b4a3aaa11d2bf2118]{
 -- Page 619, Offset 25914.
 -- わかり合える筈もない生き物だった。
-A creature unable to form any sort of mutual understanding.
+A creature that cannot be understood.
 }
 [sha:11c1ca9043063d07b7d48344b2d2eb1976cf2025]{
 -- Page 620, Offset 25915.
@@ -1039,12 +1059,13 @@ Eyes, that swirl like a storm.
 [sha:2d1afb9545bff72a559bfd5166c7db00fb36c83c]{
 -- Page 620, Offset 25916.
 -- 山脈のようにとがった歯。
-Teeth, spiked, like a mountain range.
+Teeth, spiked like a mountain range.
 }
 [sha:160baf04c6ac12c5b758da5aa609b15fa2085dc6]{
 -- Page 620, Offset 25917.
 -- 意思の疎通など出来ようのない、<瀑布|ばくふ>じみた力の<撓|たわ>み。
-A curved mass of force like a waterfall; allowing no room for mutual understanding.
+// "Achieve mutual understanding' modulated a bit
+An overwhelming waterfall of force; something that absolutely cannot be reasoned with.
 }
 [sha:8039a61bc9306992559fb42c5d6f056b827236f0]{
 -- Page 620, Offset 25918.
@@ -1054,8 +1075,14 @@ Right now, the %{i}thing%{/i} that's about to sink its fangs into my neck is not
 [sha:49b373aa6b2578f95dd243b58034e34618d78b5e]{
 -- Page 621, Offset 25919.
 -- 自然の摂理から逃れた人の身で、原始の摂理に立ち戻る。
-// tumbling:wtf? ben:I think he's describing having escaped death once
-In the body of someone who once escaped god's will, I'm about to face to it once again.
+// [Petrikow]
+// I think 自然の摂理から逃れた人の身 has to do with the themes of humanity vs nature
+// Arcuied represents the primaeval part of the planet
+// Or rather, she represent the planet itself, upon which Humanity have established their own order
+// that of 'Civilization'
+// So as a human, unbound from the natural world, he is being forced to confront the primaeval world upon which humanity once sprung
+As someone that escaped from the providence of the natural world,
+ I must now contend with something far more primeval.
 }
 [sha:003aa18ca2a23768683a833b7156c92ba55691ab]{
 -- Page 621, Offset 25920.
@@ -1080,12 +1107,13 @@ So this is what it's like to be preyed on.
 [sha:36bf05889544779687e59ef64e1b7d94565c8e20]{
 -- Page 622, Offset 25924. Mods: @n.
 -- この生命の前では、
-A human in front of this lifeform
+A human in front of this lifeform―――
 }
 [sha:1ae1e74cba1e1a2f82e2454ffa71675559654840]{
 -- Page 622, Offset 25925.
 -- 人間は飲まれるだけの飛沫にすぎず―――
-is nothing more than a drop to be consumed―――
+// Forced linebreak here despite glue
+Is nothing more than a drop to be consumed―――
 }
 [sha:dc7e1a43f040b9bb0d511fd6167e118d5c2ed980]{
 -- Page 623, Offset 25926. Mods: @n.
@@ -1105,7 +1133,7 @@ With a crunch, the fangs pierce my neck.
 [sha:f30a62ea8a93d0d979a65fc4180f2c773317fbee]{
 -- Page 623, Offset 25929.
 -- あたまのなかにあるのは、恐怖だけだった。
-All that was left in my mind was fear.
+All that's left in my mind is fear.
 }
 [sha:f784c964cdc82e94975c3307726cf102abe3e22e]{
 -- Page 623, Offset 25930.
@@ -1120,15 +1148,15 @@ I let out a scream.
 [sha:4cc28a6401e9ae67b92e2b675a1125d9653361c4]{
 -- Page 624, Offset 25932.
 -- 自分で、自分の声を聞いて情けないな、と思った瞬間。
-In the moment when I thought to myself how pathetic it is to hear my own voice.
+Hearing my own voice like that, for a moment, it sounded almost pathetic.
 }
 [sha:6c04cdc6af69604eb602486f57eb3ea4e2cb8774]{
 -- Page 624, Offset 25933.
 -- ほんとうに、気のせいかもしれないけれど。
-Perhaps it's really just my imagination.
+Perhaps it's only my imagination―――
 }
 [sha:c273367ad57282f511a8a2a352315645a3c59e4e]{
 -- Page 624, Offset 25934.
 -- アルクェイドの動きは、そこでピタリと止まってくれたような気がした。
-But it feels like Arcueid has stopped completely in her tracks.
+But it feels like Arcueid has stopped dead in her tracks.
 }

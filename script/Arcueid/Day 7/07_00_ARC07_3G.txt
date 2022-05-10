@@ -455,7 +455,7 @@ It's possible that the Dead from earlier was the last one out collecting food.
 -- 「当然でしょう。せっかく志貴がいてくれるのに空振りなんだもの。あーあ。格好いいとこ見せようと思ったの」
 "Of course I am.
  Even though you came all this way for me, it was a total bust.
- Sigh. I really wanted to show you my cool side too."
+ %{i}Sigh%{/i}. I really wanted to show you my cool side too."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 462, Offset 17720.
@@ -716,7 +716,7 @@ Someone who, in spite of being human, is born with some form of Magic Circuit: a
 [sha:465b3cfc42588a0003968a493220d397df6b426f]{
 -- Page 479, Offset 17762.
 -- ―――例えば何の神秘も学んでいないのに“物の死”を視てしまう人間とか、ね」
-―――For example, a human who has never studied the Mysteries but is able to see the 'death of things'."
+―――For example, a human who has never studied Mystery but is able to see the 'death of things'."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 480, Offset 17763.
@@ -875,7 +875,7 @@ If nothing else, at least stop when you reach the point where your blood vessels
 [sha:495604819c4d7b1f9f72b1412805a48de18889b1]{
 -- Page 491, Offset 17789.
 -- 「その眼鏡を作ってくれた魔術師には感謝しないとね。
-"You should show some appreciation for the magician that created those glasses for you.
+"You should show some appreciation for the mage that created those glasses for you.
 }
 [sha:60ea0a9e15bc18679213547b5ac8588f516fdb67]{
 -- Page 491, Offset 17790.
