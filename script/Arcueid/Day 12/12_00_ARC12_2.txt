@@ -1,17 +1,17 @@
 [sha:1ea5d3c42d57a69f5f88f5d1a727c2b9274a5ee6]{
 -- Page 10005, Offset 30595.
 -- 無人の廊下を行く。
-I go out to the empty hallway.
+I walk down the deserted hallway.
 }
 [sha:9b1c3511b081ae8430e22b6e8009777765318259]{
 -- Page 10005, Offset 30596.
 -- 燃えるような夕日が廊下を赤一面に染め上げている。
-The scorching evening sun dyes the hallway in red.
+The fiery glow of the setting sun has dyed everything a deep red.
 }
 [sha:2031064a959074ec4c017d4c6cae727ca944455b]{
 -- Page 39, Offset 30597.
 -- 秋の日はつるべ落としだ。
-The autumn sun sinks quickly like a bucket falling into a well.
+The sun sets quickly in autumn.
 }
 [sha:7d55b981daf8f0ac9d7fbec63837e852b08b5ca0]{
 -- Page 39, Offset 30598.
@@ -31,7 +31,7 @@ The boundary between red and black.
 [sha:2dd62ac1bdda8c8e0e1de7e7ac1b04ba461ee83f]{
 -- Page 39, Offset 30601.
 -- 昼でも夜でもないあいまいな時間に自分はいる。
-I stand in the vague stretch of time that's neither day nor night.
+I exist within the nebulous moment in time that's neither day nor night.
 }
 [sha:be370f298b77d470942d9986d4445ba2231c6f94]{
 -- Page 40, Offset 30602.
@@ -41,7 +41,7 @@ I stand in the vague stretch of time that's neither day nor night.
 [sha:3123ddc15eaf70b44fa12f58eca2802702e1cff8]{
 -- Page 40, Offset 30603.
 -- 廊下から空を見上げて気がついた。
-From the hallway, I look up at the sky and realize something.
+Looking up at the sky from the hallway, I notice something.
 }
 [sha:1b3b4065a239a2d19d2a13aaed69bf88ad9a7d69]{
 -- Page 40, Offset 30604.
@@ -51,7 +51,7 @@ The moon is already out.
 [sha:82d84ef2aab88dc4d1de39e56b385634c3862f01]{
 -- Page 40, Offset 30605.
 -- これ以上ないほどの真円の<貌|かお>。
-A perfect circle whose face is like no other.
+Its face a perfect, peerless circle.
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 41, Offset 30606.
@@ -61,7 +61,7 @@ A perfect circle whose face is like no other.
 [sha:ca144702651346bc2dee08c75329b118a9dbafca]{
 -- Page 41, Offset 30607.
 -- わずか、我を忘れて月を見上げた。
-I lose myself for a bit, and lift my gaze to the moon.
+I forget myself for a moment, and simply gaze up at it.
 }
 [sha:edd882b7c723b01c4b2b842d0499fc006d8ad38b]{
 -- Page 42, Offset 30608.
@@ -71,37 +71,39 @@ A silver moon.
 [sha:0fbe09235e7f05da03af601d0ad7d496449158aa]{
 -- Page 42, Offset 30609.
 -- 浮き彫りの、ガラス細工じみた美しさ。
-Beautiful as relief carving on glass.
+As beautiful as a glass bas-relief.
 }
 [sha:276602fbe0396ac9cd82a4cbb69279aaaa0624aa]{
 -- Page 42, Offset 30610.
 -- 鮮明すぎて空からこぼれ落ちてきそうな白貌。
-A pure, white visage so vivid it feels like it'll fall from the sky.
+// こぼれ落ちる difficult to place here. Img search is like 'sand runs through your fingers'. 'petals scatter' imagery,
+// not clear if it's referencing like the light scattering down, or the moon being so vibrant it 'pops' in the night sky or what.
+A pure, white visage so vivid it feels like it could spill from the sky at any moment.
 }
 [sha:3b49baabae21c44edc27a3c948961b395433bc59]{
 -- Page 43, Offset 30611.
 -- そんな月を、こどものころ、
-Back when I was a child,
+I feel like―――
 }
 [sha:95f5b440dc0e01af4749521cb9ea2d49cd9c58e0]{
 -- Page 43, Offset 30612. Mods: @n.
 -- <昏睡|こんすい>の際で
-I feel like
+I saw a moon like this
 }
 [sha:6ac406ece0b4155040e98985b491799cb0195112]{
 -- Page 43, Offset 30613. Glued. Mods: @n.
 -- 見つめていた
-I've seen such a
+ back when I was a child,
 }
 [sha:798615fe5965da0976006b35b3021525bff8124f]{
 -- Page 43, Offset 30614. Glued.
 -- きがする。
-moon deep in slumber.
+ at the time I fell into a coma.
 }
 [sha:fd269993cc49d09c17c225b60a8d8fdebcb47b01]{
 -- Page 44, Offset 30615.
 -- ――――ぞくん。
-――――Thump.
+――――%{i}Badump%{/i}.
 }
 [sha:f56366c3791182387451583a2e793bd8d0b2c638]{
 -- Page 44, Offset 30616.
@@ -111,47 +113,49 @@ moon deep in slumber.
 [sha:d902da20e395d22633f6f0f4c40b34074dd6ea15]{
 -- Page 44, Offset 30617.
 -- 突然、胸の古傷が痛んだ。
-Suddenly, I feel a pain from the scar in my chest.
+I feel a sudden pain from the scar on my chest.
 }
 [sha:908c87f793517440516dd2873a26b226dea56e30]{
 -- Page 45, Offset 30618.
 -- ――――どくん。
-――――Thump.
+――――%{i}Badump%{/i}.
 }
 [sha:c7d7e1b4ed896d24a282d7f1367958e0c3686feb]{
 -- Page 45, Offset 30619.
 -- 心臓が<一際|ひときわ>跳ねる。
-My heart jumps noticeably.
+My heart is beating like crazy.
 }
 [sha:cdad547b784425e93156d8317c056175c640bc90]{
 -- Page 45, Offset 30620.
 -- 体中の血管が活性化して、呼吸が一定しなくなる。
-The blood vessels around my body become stimulated, causing my breath to become disorganized.
+I can feel my blood coursing through my body, and my breathing is growing ragged.
 }
 [sha:8f80d5b209791239a92b3588d450236ca99c3c7a]{
 -- Page 46, Offset 30621.
 -- ――――ぞく、ん。
-――――Thump.
+――――%{i}Badu  mp%{/i}.
 }
 [sha:f3e7eb7b4c9b5dd868a5730f0e0f9abf9a513d4d]{
 -- Page 46, Offset 30622.
 -- 胸に手を触れてみれば。
-When I place my hand on my chest,
+I place a hand on my chest.
 }
 [sha:c4f311d7557065891b1e41b96661e1415c7c6833]{
 -- Page 46, Offset 30623.
 -- じくり、と制服は真っ赤に染まっていた。
-my uniform becomes stained with a deep red.
+// :clap: I :clap: hate :clap: onomatopoeia :clap:
+// Reading じくり as the wet sticky sound of blood
+It comes away sticky. My uniform is stained a deep red.
 }
 [sha:a06e9c0bc774bf425bc27e483f6e612849291cd4]{
 -- Page 46, Offset 30624.
 -- 傷が開いて、出血している。
-My wound opens and haemorrhages.
+My scar is open, and bleeding.
 }
-[sha:d82319ae49d8581f4f759d24e24ba5649b736610]{
+[offset:30625]{
 -- Page 47, Offset 30625.
 -- ――――どく、ん。
-――――Thump.
+――――%{i}Badu  mp%{/i}..
 }
 [sha:e5d62dd10a542dca4b597201c3c25ece06f529ed]{
 -- Page 47, Offset 30626.
@@ -161,47 +165,49 @@ My wound opens and haemorrhages.
 [offset:30627]{
 -- Page 47, Offset 30627.
 -- 呼吸が乱れる。
-My breathing becomes disarrayed.
+// VA more gasping than panting here
+I'm gasping for air.
 }
 [sha:192c37eba71339fe5f2826d90a34b8ca099355fb]{
 -- Page 47, Offset 30628.
 -- 背筋に走る悪寒は氷のようだ。
-The chills running down my spine feels like ice.
+The chills running down my spine are as cold as ice.
 }
 [sha:29750ccc8cf18645165d9c02b71dcc95bbf6b780]{
 -- Page 47, Offset 30629.
 -- あまりの震えに、背骨が皮膚を破って外に飛び出しそうなほど、痛い。
-The shivering is so intense and painful that it's like my spine will burst out of my skin.
+I'm shivering so intensely it's as though my spine is trying to rip its way through my skin and escape.
+ It's agony.
 }
 [sha:147597e2778a471c7baf77710fec8d4645a9599b]{
 -- Page 48, Offset 30630.
 -- ―――ぞく、ん。
-―――Thump.
+――――%{i}Badu  mp%{/i}..
 }
 [sha:44827f96f88142f1cd7f74bb64ac18f067b22a3c]{
 -- Page 48, Offset 30631.
 -- ―――どく、ん。
-―――Thump.
+――――%{i}Badu  mp%{/i}..
 }
 [sha:34b16bf26b1f04cb4b226c0b36d7806ba7ff9241]{
 -- Page 48, Offset 30632.
 -- ―――ぞ、く
-―――Thu
+――――%{i}Badu%{/i}..
 }
 [sha:2c2eb87967468b37c15e8828374e63f04c103071]{
 -- Page 48, Offset 30633.
 -- ―――ど、く
-―――Th
+――――%{i}Ba%{/i}..
 }
 [sha:f3ea6fea605d203a0ac1682eeb3c3d142d9ddc70]{
 -- Page 48, Offset 30634.
 -- ――――――かつ、ん。
-――――――Step.
+――――――%{i}Step%{/i}.
 }
 [sha:c84cff071fadec84a89841bfa8c6506f68f978ab]{
 -- Page 48, Offset 30635.
 -- 心音にまぎれて、何か、硬い音がした。
-I hear a solid sound mixed in with my heartbeat.
+Mixed in with my heartbeat is another, sharper, sound.
 }
 [sha:150de3ce4c072425c860ca4b9681c5e488cbc73d]{
 -- Page 49, Offset 30636.
@@ -216,42 +222,42 @@ Someone is coming.
 [sha:834af10323a0c8fa4a46f387b2c2c7b6a505027d]{
 -- Page 49, Offset 30638.
 -- 廊下の奥から、長い影を床に這わせて、
-From the depths of the hallway, a tall figure trudges forward,
+The figure emerging from the depths of the hallway casts a long shadow across the floor.
 }
 [sha:f2c46ab1e5ca51f3ab10545c2d830a4548496658]{
 -- Page 49, Offset 30639.
 -- かつん、かつん、と、冷徹な足音を響かせて。
-echoing the sound of cold footsteps.
+Their footsteps echo coldly as they advance.
 }
 [sha:46ea3225778d8e4eeb404eb996657075667a3a29]{
 -- Page 50, Offset 30640.
 -- ―――なにか、まずい。
-―――This is bad.
+―――Something's wrong here.
 }
 [sha:448958298102e9f0d339ca57a7700290ac1a5ec9]{
 -- Page 50, Offset 30641.
 -- ヴローヴのような、吹き荒ぶ脅威とは違う。
-This is different from the tempestuous threat of Vlov.
+The threat I sense now doesn't stem from the same sort of wild violence that drove Vlov.
 }
 [sha:4c05ea0702a58d403c4f7914c36985f01f360609]{
 -- Page 50, Offset 30642.
 -- <外界|そとがわ>からではなく<内界|うちがわ>から生じる潜在的な恐怖が、全身を脈打たせる。
-My entire body throbs from the latent fear, not coming from the outside, but from within.
+The latent fear sending tremors through my entire body isn't coming from outside, but from within.
 }
 [sha:0279a72e294391588589335ac8422442946bd6e9]{
 -- Page 51, Offset 30643.
 -- 頭蓋を駆ける<閃|いた>み。
-A flash of light runs through my skull.
+A flash of pain shoots though my skull.
 }
 [sha:f5d83bd282ccb6fd64e4842787833560310f10bf]{
 -- Page 51, Offset 30644.
 -- この痛覚。この危機感は、自分自身に対するものだ。
-This pain. This sense of impending danger is aimed toward myself.
+This pain, this sense of impending danger―――is directed toward myself.
 }
 [sha:a9d539270a5af4f41fe9c9033381bf32209d66ff]{
 -- Page 51, Offset 30645.
 -- 俺は―――遠野志貴は、あの人影にだけは、会ってはいけない気がしている――――
-I―――Tohno Shiki, have a feeling that I must not meet that person no matter what――――
+I―――Tohno Shiki, have a feeling that I absolutely must not meet that person――――
 }
 [sha:670420aaa3cb10cfc520fd1f52aebab89524bae4]{
 -- Page 52, Offset 30646.
@@ -261,7 +267,7 @@ I―――Tohno Shiki, have a feeling that I must not meet that person no matter
 [sha:2797142b41ce2b4e8e15cc0308ea3fd2e60079d8]{
 -- Page 52, Offset 30647.
 -- 足を止める。
-I stop my legs.
+I come to a halt.
 }
 [sha:fa58b44e7c6199daea991b714b0b70b4ecf46f1f]{
 -- Page 52, Offset 30648.
@@ -271,7 +277,7 @@ It's already too late to run. It'll be over if I turn around.
 [sha:3870cc2e4139f18627a20733f265a5025eef03fa]{
 -- Page 52, Offset 30649.
 -- 定まらない息遣いのまま眼鏡を外す。
-I take off my glasses while my breathing continues to be unsettled.
+Still breathing heavily, I take off my glasses.
 }
 [sha:236750aef2d02ec4e00d4a811da6f4fd70878ea2]{
 -- Page 52, Offset 30650.
@@ -281,7 +287,7 @@ I unsheathe the knife hidden in my pocket.
 [sha:54af49cd3d6bff2eed55e0d0782d831736782a1c]{
 -- Page 53, Offset 30651.
 -- 人影が、やってくる。
-The shadow is coming.
+The figure approaches.
 }
 [sha:a234dde049e1d130150eb428a93834686614fe01]{
 -- Page 53, Offset 30652.
@@ -291,17 +297,17 @@ A man of high stature.
 [sha:8db2f6b9e9fe17ff9d940632ff46dba36fe321b4]{
 -- Page 53, Offset 30653.
 -- 身体にうごめく“線”は驚くほど少なく、視辛い。
-The lines squirming around his body are surprisingly sparse and hard to look at.
+The lines squirming around his body are surprisingly sparse and hard to make out.
 }
 [sha:620b2e6d9530c9ba8468cdafd4113845e5a441d8]{
 -- Page 53, Offset 30654.
 -- 反面、中心で脈動する“点”の<禍々|まがまが>しさよ。
-Meanwhile, there is an ominous aura pulsating from the point in his center.
+Yet at the same time, there is a 'point' at his core, pulsating ominously.
 }
 [sha:4f1ec90c4c0cd6657497a60dfd38cc3536d141b9]{
 -- Page 53, Offset 30655.
 -- どくん、どくん、と、心臓のように<不死|せいめい>を<謳|うた>っている。
-Like a heart, it beats and beats, expressing his immortality to the world.
+It beats rhythmically, like a heart, as if proclaiming his immortality.
 }
 [sha:acbe7ff2ef813da99aa27419f9e632c393249499]{
 -- Page 54, Offset 30656.
@@ -311,12 +317,12 @@ Like a heart, it beats and beats, expressing his immortality to the world.
 [offset:30657]{
 -- Page 54, Offset 30657.
 -- 呼吸が止まった。
-My breathing stops.
+I stop breathing.
 }
 [sha:614f9ccd84e082f46659d4412366dc5898b80446]{
 -- Page 54, Offset 30658.
 -- いくつもの<疑|な><問|ぜ>が交錯する。
-A great number of unanswered questions intersect.
+My mind is a mess of unanswered questions.
 }
 [sha:006fbcdd39ee82ce39eca1746b1f4970cf23c90e]{
 -- Page 54, Offset 30659.
@@ -326,12 +332,12 @@ I don't know this person.
 [sha:e83174fab090a7aa936a9a179c121578ce8eee5f]{
 -- Page 54, Offset 30660.
 -- 知らないのに―――誰かに似ているような気がしてならない。
-I don't―――and yet I can't help but feel like I've seen him before.
+I don't―――and yet I can't help but feel like he reminds me of someone.
 }
 [sha:e8bca9edde6d470caab5ca5e784aafb0a5f76c3b]{
 -- Page 54, Offset 30661.
 -- かつん、かつん。
-Step. Step.
+%{i}Step%{/i}. %{i}Step%{/i}.
 }
 [sha:32ccd4a1cd864247ffaea5708369113c05bab646]{
 -- Page 54, Offset 30662.
@@ -341,7 +347,7 @@ The man approaches.
 [sha:67e92acbc2a70cc082007fab62a0491eff283188]{
 -- Page 54, Offset 30663.
 -- もうすぐ、その顔がはっきりと見て取れる。
-In a moment, I'll be able to see his face clearly.
+Just a little closer, and I'll be able to get a good look at his face.
 }
 [sha:acbe7ff2ef813da99aa27419f9e632c393249499]{
 -- Page 55, Offset 30664.
@@ -351,42 +357,43 @@ In a moment, I'll be able to see his face clearly.
 [sha:e4fe9c893830d1e4f04dbc7a14fd4d46399696bf]{
 -- Page 55, Offset 30665.
 -- 誰に似ているのか。
-Do I know him?
+Who does he remind me of?
 }
 [sha:e4fe9c893830d1e4f04dbc7a14fd4d46399696bf]{
 -- Page 55, Offset 30666.
 -- 誰に似ているのか。
-Do I know him?
+Who does he remind me of?
 }
 [sha:e4fe9c893830d1e4f04dbc7a14fd4d46399696bf]{
 -- Page 55, Offset 30667.
 -- 誰に似ているのか。
-Do I know him?
+Who does he remind me of?
 }
 [sha:547e8af76558eaee0267b9cbe818762115ce2c7d]{
 -- Page 55, Offset 30668.
 -- 自分は、誰を忘れているのか――――――
-Is he someone that I've forgotten――――――
+Who is it that I've forgotten――――――
 }
 [sha:9429372c88b7b16f2e9f98c6919a76c0035ab879]{
 -- Page 56, Offset 30669.
 -- 俺に合わせるように、男の足が止まった。
-The man stops to face me.
+The man stops, as if to greet me.
 }
 [sha:7e777afd2448eb07a2fa781e14c5e95100fa5210]{
 -- Page 56, Offset 30670.
 -- まだ遠い。赤い斜陽で貌も見えない。
-He's still far. I can't see his face from the red sunset.
+He's still a ways away.
+ I can't make out his face, backlit as it is by the red light of the setting sun.
 }
 [sha:1a5f0c4da839f39d259e56ac429421dd12f7d72d]{
 -- Page 56, Offset 30671.
 -- だが<皎皎|こうこう>と輝く、獲物を狙う二つの<蛇|じゃ>の目。
-However, his eyes sparkle radiantly like two snakes aimed at its prey.
+But I can see his eyes―――they glitter radiantly, like those of a serpent eyeing its prey.
 }
 [sha:a139d5b54c2ae0d80d23ddbb37018e83dcb291a5]{
 -- Page 57, Offset 30672.
 -- 「“私が思うに。人間の一生は、主題の無い本のようだ”」
-"If you ask me, a man's life is like a book without motif."
+"The way I see it, a man's life is like a book without a motif."
 }
 [sha:d6a33babe3e8a0acdbc9bc7d6c1dd86b24336afb]{
 -- Page 57, Offset 30673.
@@ -396,32 +403,35 @@ A resonant voice.
 [sha:945bb21778f2e6285ef736ce2f35aad4ce85e13f]{
 -- Page 57, Offset 30674.
 -- 穏やかでありながら、ここまで背筋が寒く―――
-So calm, and yet it sends chills down my spine―――
+Despite sounding so gentle, it sends a shiver down my spine―――
 }
 [sha:a64827d48c5038528a9034aeb764d454f4a5c230]{
 -- Page 57, Offset 30675.
 -- いや、反吐がでそうなほど胸くその悪い音を、俺は知らない。
-No, I don't know such a sound so repulsive to my heart, it makes me want to vomit.
+I don't think I've ever heard something so viscerally repulsive before.
+ It makes me want to vomit.
 }
 [sha:f23d5072a1916c81a6fadfa3d46df665b38c0a22]{
 -- Page 58, Offset 30676.
 -- 「“本は片手に掴めるほど小さく、
-"A book so small, you could grab with a single hand,
+"A book so small, you could grasp it in one hand.
 }
 [sha:ec42bc937721a6c35ac56e991ebd3175cb9dfa8f]{
 -- Page 58, Offset 30677.
 -- 紙は年月に霞むほど<脆|もろ>い。
-and paper so frail it blurs with time.
+// It's a little weird to say that paper grows _blurry_ with age.
+// Normally you'd say that of the ink. Kept noun changed verb, but could go either way.
+Paper so frail that it fades with age.
 }
 [sha:8e0398493c958467244265f2a07d0598f047ecf4]{
 -- Page 58, Offset 30678.
 -- 水に濡れる。火に<炙|あぶ>られる。自らの手で切り捨てる。
-Soaked by water. Scorched by fire. Cast away by one's own hands.
+Soaked by water. Scorched by fire. Torn apart by one's own hands.
 }
 [sha:393a45881f7f0a00cc7d875756c09f8116c0cf01]{
 -- Page 58, Offset 30679.
 -- 過去の<記録|できごと>など、つね<改竄|かいざん>される幻想だ。
-Incidents of the past are illusions under constant falsification.
+Records of the past are mere illusions, perpetually being tampered with.
 }
 [sha:8f7e7769ea1630abc8b0d80843bde69221a5d19e]{
 -- Page 58, Offset 30680.
@@ -436,32 +446,33 @@ I ready my knife.
 [sha:64446c9123e238ff72a363428358ffb65750a4da]{
 -- Page 59, Offset 30682.
 -- 腰を落とす。距離を<目|つ><視|か>む。
-I stoop down. I grasp the distance.
+I stoop down. I gauge the distance between us.
 }
 [sha:d5d9ee48153d42f904d15d9aa92778558fe02ba7]{
 -- Page 59, Offset 30683.
 -- 考える時間も躊躇する余裕もないと本能が告げている。
-My instincts tell me I have no time to think, and no room for hesitation.
+My instincts tell me I have no time to think, no room for hesitation.
 }
 [sha:d052069a80d6e9364d15b542bff127e327819458]{
 -- Page 59, Offset 30684.
 -- だが、理性はあまりにも<頑|かたく>なで、
-However, my sense of reason is too stubborn,
+However, my sense of reason is too stubborn.
 }
 [sha:92798125173d82e01217bdbad70da920d434ba3f]{
 -- Page 59, Offset 30685.
 -- ほんの<一息|ひといき>分、ヤツを殺す事に意識を切り替えられなかった。
-and within a mere breath, I'm unable to switch gears, failing to prime myself to kill him.
+It prevents me from committing to the urge to kill him,
+ even if only for the span of a single breath.
 }
 [sha:aa2b2801191a6a9294989cf734e32210e8db9443]{
 -- Page 60, Offset 30686.
 -- 「“君という個人もまた、不出来なテクストにすぎない。
-"Even someone like you is nothing more than a poorly written text.
+"Even someone like you amounts to nothing more than a poorly written text.
 }
 [sha:93549664554ac3174a998535b6d89d54dbc22eca]{
 -- Page 60, Offset 30687.
 -- 人生はあまりにも曖昧だ。
-Life is such a a curious thing.
+Life is such a curious thing.
 }
 [sha:20fb2eaaff2766b51175edd0c68f36da5bd7272e]{
 -- Page 60, Offset 30688.
@@ -476,22 +487,23 @@ Wouldn't you agree? Tohno―――Shiki."
 [sha:01ca088ca6b1686c8b65519e68f3d164a711f1bc]{
 -- Page 61, Offset 30690.
 -- <堰|せき>を切って走る。
-It all comes rushing at once.
+I dash forward like a greyhound bolting out of the gate.
 }
 [sha:c8d79563f13b804a8d7b2a4f2599659e7dfc0a3d]{
 -- Page 61, Offset 30691.
 -- <い|・><ま|・><さ|・><ら|・><遅|・><い|・>、と焦りながら最高速をたたきだす。
-Flustered from knowing that it's too late, I strike with the fastest speed possible.
+Even knowing it's that it's already too late, I impatiently propel myself forward as fast as I possibly can.
 }
 [sha:2bde146e3c8dcc4f8c6756aa49f56b25bff85e13]{
 -- Page 61, Offset 30692.
 -- かつてない運動性能の発揮。
-A display of physical ability like no other.
+A display of unparalleled physical ability.
 }
 [sha:9910bbf338e7c0af598f1c50d51cbb6d579116ca]{
 -- Page 61, Offset 30693.
 -- 10メートル近い距離を一息のうちに駆け抜け、ヤツの線を切断す―――
-I run close to ten meters within a single breath and sever the man's lines―――
+// Restructured slightly so that I can sever the severing
+I close the ten meters between us in a single breath, take aim at the man's lines, and sever―――
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 62, Offset 30694.
@@ -501,27 +513,28 @@ I run close to ten meters within a single breath and sever the man's lines――
 [sha:9f6ee01d5b1a9c3049a87c433100b51c2e63987d]{
 -- Page 62, Offset 30695.
 -- だが、やはり、あまりにも遅かった。
-But as expected, it was too late.
+But as I feared, I was too late.
 }
 [sha:57f88146799144f43b45716484dc049ef4d28e95]{
 -- Page 62, Offset 30696.
 -- こちらが一息で詰めるのなら、
-If I can do that within a single breath,
+// Roa has already moved here, so なら isn't really a potential in this case
+Even though I managed all that in a single breath―――
 }
 [sha:c835311797b4a8439e349a9862fc6a781dc948a0]{
 -- Page 62, Offset 30697.
 -- ヤツは瞬きのうちに、俺の背後にすり抜けていた。
-that guy can slip around my rear in the blink of an eye.
+This guy manages to slip around to my rear in the mere blink of an eye.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 63, Offset 30698.
 -- 「――――――」
 "――――――"
 }
-[sha:88f563dc2141a176347ba046e3c8137c7ff736ae]{
+[offset:30699]{
 -- Page 63, Offset 30699.
 -- 間に合わない。
-I won't make it in time.
+I can't react in time.
 }
 [sha:d84770bad90caef33f0aeeb476c3af3d21f45260]{
 -- Page 63, Offset 30700.
@@ -536,32 +549,33 @@ With eyes shining blue, he stares straight into the lines on my body.
 [sha:ad4ce9d4032a26906cbd94552bec78c7e43e065d]{
 -- Page 64, Offset 30702.
 -- 俺だけがスローモーションのようだ。
-It's as if I'm the only one in slow-motion.
+It's as if I alone am moving in slow motion.
 }
 [sha:1202df84da6984e6cca2ccc28920d41a238e596b]{
 -- Page 64, Offset 30703.
 -- ヤツは、愉快そうに口角を釣り上げ、
-The corners of his lips arch up in amusement,
+The corners of his lips curl in amusement.
 }
 [sha:b78809fe2867979086cf2f22deca98bebba9be6d]{
 -- Page 64, Offset 30704.
 -- 「残念だったな。
-"What a shame.
+"I'm afraid you're out of luck.
 }
 [sha:01c7102d23d0b4b58c6315182a4a3d8a99fbda44]{
 -- Page 64, Offset 30705.
 -- 死を視るのは、何もおまえだけの特権じゃない」
-The right to see death is not for you alone."
+The privilege of being able to see death is not yours alone."
 }
 [sha:ab16c230c5b764edb4fad30487e07be1cc69d40e]{
 -- Page 64, Offset 30706.
 -- 俺のナイフを、俺の体めがけて振り下ろした。
-He aims the knife at my body and swings it down.
+He aims my own knife back at me, and swings it down.
 }
 [sha:fb98ef61973c46787ca721514f7cfa9815dd8308]{
 -- Page 65, Offset 30707.
 -- 背筋が凍る。
-My spine freezes.
+// Avoiding repetition of 凍る + 凍結する
+My spine locks up.
 }
 [sha:50c9df8216f5ff351e446bedc538b44d2a1d48c6]{
 -- Page 65, Offset 30708.
@@ -571,7 +585,7 @@ My brain freezes.
 [sha:7ecf22a15ea52bf834e72ee82d454bef537f3893]{
 -- Page 65, Offset 30709.
 -- 以前、同じ事をされた体が、その痛みを覚えている。
-My body remembers the pain of the same thing happening before.
+My body recalls the pain it felt when the same thing was done to it before, long ago.
 }
 [sha:90267228c3459dd9e1490d3cabf038c6c6bf5375]{
 -- Page 65, Offset 30710.
@@ -581,12 +595,12 @@ My body remembers the pain of the same thing happening before.
 [sha:5d25b2ad0b0f904fd3395583b0ad4958b30d8350]{
 -- Page 65, Offset 30711.
 -- ずざ、と肉を裂く音。
-The sound of my flesh being stabbed.
+The sound of rending flesh.
 }
 [sha:cc3f386ebb4ed293d3c060b607ffcdeb66db4ac4]{
 -- Page 65, Offset 30712.
 -- 白い鋼は、まるで紙でも<穿|うが>つように、この胸に突き刺さった。
-The white steel pierces my chest as if it was drilling a hole on paper.
+The white steel pierces my chest as if slicing through paper.
 }
 [sha:745e888dab1f49cf4969adb0d5f99bae306d217a]{
 -- Page 66, Offset 30713.
@@ -596,17 +610,17 @@ My body collapses.
 [sha:434213a472d60f4d86a9a94eab1f7ed80f2519f4]{
 -- Page 66, Offset 30714.
 -- 全身から力が抜けて、床に崩れおちていく。
-My entire body loses strength, causing me to fall to the floor.
+All of the strength drains out of me, and I crumple to the floor.
 }
 [sha:56e21bbd2567296bac6df0f2bcfcf0dfb1bbe579]{
 -- Page 66, Offset 30715.
 -- その最中。
-During the fall,
+As I fall―――
 }
 [sha:d808d9be9ffe7f21831e37016029d10489dd5b8e]{
 -- Page 66, Offset 30716.
 -- 見上げるように男の顔を見た。
-I look up toward the man's face.
+I look up at the man's face.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 67, Offset 30717.
@@ -621,52 +635,59 @@ I plunge into darkness.
 [sha:234c4ba9db7a27e24c681c3a27dfebc6da0f46a3]{
 -- Page 67, Offset 30719.
 -- 男の顔。こんな男の顔を、俺は知らない。
-That man's face. I don't know the face of such a man.
+His face. I don't recognize his face.
 }
 [sha:4bffad2e9dac5faefcbf92da7b694cba20656b37]{
 -- Page 67, Offset 30720.
 -- なのに、覚えがある。この血の流れを覚えている。
-And yet, I remember. I remember this stream of blood.
+And yet, I remember. I remember this rush of blood.
 }
 [sha:1552d46c6a2924324e76f21241e02a649aca31fe]{
 -- Page 68, Offset 30721.
 -- だって、こいつは―――
-After all, that guy is―――
+// These 3 lines do a fun ~reveal~ in JP that's just broken as hell if you try and mangle it into EN with the same structure.
+// Somewhat liberally restructured to try and preserve flow + timing
+That's because this guy―――
 }
 [sha:c1043efa81cd2e82946695723cadb2c4eaf4ebb7]{
 -- Page 68, Offset 30722.
 -- あの夏の日に、俺の前で、
-Before my very eyes, on that summer day―――
+He's the exact same figure.
 }
 [sha:a157fae73a5ddec02bcb75be61e92ef343174c43]{
 -- Page 68, Offset 30723.
 -- 血にまみれていた少年の<未来|すがた>そのものだ。
-The blood-soaked boy's %{i}future%{/i} stands before me.
+He's the same blood-soaked boy that lay before me on that summer day long ago.
 }
 [sha:268bdd70b57ef01c07f5458fde0f26fdd581523a]{
 -- Page 69, Offset 30724.
 -- だん、と床に倒れこんだ。
-I fall to the ground with a thud.
+I hit the ground with a thud.
 }
 [sha:f576d14b63f31686f5cb712b446ec2b8923a0fee]{
 -- Page 69, Offset 30725.
 -- 不思議と痛みも出血もない。
-Strangely enough, there's no pain or bleeding.
+Strangely enough, there's no blood. I don't feel any pain.
 }
 [sha:248b4dcb977863947c63a3639f1ff23b1d500012]{
 -- Page 69, Offset 30726.
 -- 胸にはナイフが刺さったまま。
-The knife is still plunged into my chest.
+The knife remains lodged in my chest.
 }
 [sha:91bddf4ef1008a38d21f02f62db4c0d7fed3edd4]{
 -- Page 69, Offset 30727.
 -- ただ、体温が下がっていく。意識が段々と薄れていく。体の自由がなにもかも消え去っていく。
-It's only my body temperature that's decreasing. My consciousness is slowly growing thin. My body's freedom is fading away.
+// ただ reads kinda awkward on the front here, it's kinda linked more to prev-prev line than prev.
+My body temperature is dropping.
+ My consciousness is fading.
+ I'm slowly losing the ability to even move my body at all.
 }
 [sha:997f00b3dae8c5004d75a07806b384eec7e7fb57]{
 -- Page 70, Offset 30728.
 -- 「おまえ<が|・>殺された借り、たしかに返却した。もはや思い残す事もないだろう。
-"I certainly returned the favor of having been killed. Surely you must not have any more regrets.
+// Reading these 2 lines as addressed to SHIKI not Shiki
+"It would appear that you have returned the favor of being killed.
+ You must have no more regrets now.
 }
 [sha:a4dde80636129b1aaaf2a0f4f685fde39d3c607c]{
 -- Page 70, Offset 30729.
@@ -676,7 +697,7 @@ The time for book burning has come, Tohno―――SHIKI."
 [sha:f4bad20f12c37709ddae48285314cbb2e4973cf0]{
 -- Page 71, Offset 30730.
 -- 男は虚空に向けて言葉を送っている。
-The man turns toward the empty void and bids his farewells.
+The man is addressing empty space.
 }
 [sha:7a372193d1261458616869df3c3c4b5a1d0c6d3e]{
 -- Page 71, Offset 30731.
@@ -691,26 +712,29 @@ Back when I was a child.
 [sha:32db60524e4175deb5d67ed80623287053961669]{
 -- Page 71, Offset 30733.
 -- 遠野の屋敷で遊んだ、自分と、秋葉と、もう一人のこどものことを。
-About the fact that the ones who played in the mansion were me, Akiha, and one more other child.
+When I played in the gardens of the Tohno mansion, it was always myself, Akiha... and one other child.
 }
 [sha:fa6847e6718914ad43889a86a91191b4e153c23f]{
 -- Page 72, Offset 30734.
 -- いつだって―――いつだって<自|・><分|・><た|・><ち|・>は一緒だった。
-We were―――we were together all the time.
+We were―――%{i}we%{/i} were inseparable.
 }
 [sha:aa03ed8cf80599a6c2dadaaf98ae76e47766a730]{
 -- Page 72, Offset 30735.
 -- 秋葉と遊ぶときだって、いつも自分はカレと一緒になって秋葉を迎え入れたというのに、どうして――――
-Whenever I played with Akiha, I always invited her to join us, together with him. So why――――
+Even when I played with Akiha,
+ I was inviting her to join in with the %{i}two%{/i} of us.
+ So then why――――
 }
 [sha:9c9a529f8ff7ac6babcde44711a20db6c1ec6506]{
 -- Page 72, Offset 30736.
 -- 俺は今まで、カレの名前を忘れていたのか。
-Have I forgotten his name up until now?
+Why had I forgotten his name up until now?
 }
 [sha:f09d00a205f7c5b3589c87ae91e6b4203f3bec5c]{
 -- Page 73, Offset 30737.
 -- 「シ――――キ」
+// Style guide would be to TL this as _Shiki_, but I think this is a clear exception
 "SHI――――KI."
 }
 [sha:531faaa1093f76bbf9ff78dc6a1115c9e894b8c0]{
@@ -721,23 +745,22 @@ Have I forgotten his name up until now?
 [sha:116ccfdc1d906d28a7a12733d44a85033381c51b]{
 -- Page 73, Offset 30739.
 -- まあ―――いささか、遅すぎたようだがね。
-Although―――you were a bit late, in the end.
+Although―――it seems you were a little too late.
 }
 [sha:4560a6129dd068b787fe76a8debbbdf4cbd189be]{
 -- Page 73, Offset 30740. Mods: @n.
 -- この体の持ち主、遠野四季はたったいま消え去った。
-The owner of this body, Tohno SHIKI, has vanished just now.
+The owner of this body, Tohno SHIKI, is no longer with us.
 }
 [sha:b451da08f01d719cb55e3f7fc93289d503ff9d89]{
 -- Page 73, Offset 30741. Glued.
 -- 君への復讐を完遂して、な」
- After carrying out his revenge toward you, that is."
+ After all, his revenge against you is now complete."
 }
 [sha:beaef76eaa02e186c47a2af45d9bcb5ba203733e]{
 -- Page 74, Offset 30742.
 -- 男は語る。同じ響きでありながら、違う言葉の男の名を。
-// 同じ響き here meaning theyre both pronounced shiki? im not too sure how to make it clearer in en text
-The man speaks. With the same sound as mine, he speaks the name of a different man.
+The man speaks. Though our names may sounds the same, their spelling differs.
 }
 [sha:bcac0e041d35b565bd40058a0db6d087c078c076]{
 -- Page 74, Offset 30743.
@@ -747,12 +770,14 @@ Tohno SHIKI.
 [sha:5015f4e29c034e79c18cc68c681ba2a7b290bf66]{
 -- Page 74, Offset 30744.
 -- シキ。志貴。秋葉。シキ。シキ。秋葉。志貴。
+// Another style guide exception, but only because we have the 志貴 in there.
+// If this was only シキ I'd keep the ambiguity.
 SHIKI. Shiki. Akiha. SHIKI. SHIKI. Akiha. Shiki.
 }
 [sha:ec28c36e3107b82fb5ac4f989afa0ac2b7e3a5e5]{
 -- Page 74, Offset 30745.
 -- そんな落書きの跡が脳裏に蘇る。
-Traces of those scribbles come back to mind.
+I remember the words scratched into the gazebo.
 }
 [sha:a5f148f5c5eea5dc6e2d1eae7e3a1226afccab3f]{
 -- Page 75, Offset 30746.
@@ -772,20 +797,20 @@ The vampire that resurrected into this body. Adversary of the Princess.
 [sha:119192ce254b2512fc6524cfdececd05fda2ea40]{
 -- Page 75, Offset 30749.
 -- それも、今夜かぎりの異名だが」
-That too, is a nickname reserved only for tonight."
+That, too, is a nickname reserved only for tonight."
 }
 [sha:048d3fedb728c87383f18cce110dc0280aea98e4]{
 -- Page 76, Offset 30750.
 -- 厭な笑い声と、ヴローヴからさんざん感じとった不快感。
-An unpleasant laugh, and a terrible sense of discomfort like from Vlov.
+An unpleasant laugh, and the same unsettling feeling I felt looking at Vlov.
 }
 [sha:1e0bcb27f137b5408cb6d57766138ca8747e05a3]{
 -- Page 76, Offset 30751.
 -- 薄れゆく意識の中で悟る。
-I realize it from within my fading consciousness.
+As my consciousness fades, I finally make the connection.
 }
 [sha:82cc2aff2fc8b9ebe3e55ffe023c2e0ce799f747]{
 -- Page 76, Offset 30752.
 -- コイツが―――アルクェイドの“敵”なのだ、と。
-This guy―――is the one that Arcueid calls her 'enemy'.
+This guy―――is Arcueid's 'enemy'.
 }
