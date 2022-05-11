@@ -11,7 +11,7 @@ It's a thought that's been with me ever since I was a child.
 [sha:3a7e8e0da6a9923dd895c73e6bbd8b65a8f36796]{
 -- Page 1, Offset 31670.
 -- 遠野の家から有間の家に預けられた時から。
-Ever since I was sent away from the Tohno household to live with the Arimas.
+Since the moment I was sent away from the Tohno household to live with the Arimas.
 }
 [sha:f596698250174a48d0f4d94cc0cf264b178bc699]{
 -- Page 1, Offset 31671.
@@ -46,7 +46,8 @@ After some incident happened, I was taken from there to a giant western-style ma
 [sha:0dc57f82ffd9620521507cd8d056b6b0025d2adb]{
 -- Page 3, Offset 31676. Mods: @n.
 -- ……洋館には同い年ぐらいの兄妹がいて
-...At that mansion was a pair of siblings, a brother and a sister, who were around the same age
+// Assuming 同い年 applies between Shiki <=> (SHIKI + Akiha) rather than between SHIKI and Akiha
+...At that mansion was a pair of siblings, a brother and a sister, who were around the same age as me
 }
 [offset:31677]{
 -- Page 3, Offset 31677. Glued. Mods: @n.
@@ -143,7 +144,7 @@ As I come to my senses, I realize that this is my bedroom.
 -- Page 9, Offset 31695.
 -- 「……兄さん？　気がついたんですね？」
 // Intonation falling on the 気がついたんですね, feels of a statement despite the ?
-"...Nii-san? It seems you've come around."
+"...Nii-san? It appears you've come around."
 }
 [sha:c0ad1660a177ace2942f78e5b3c3332e74da0092]{
 -- Page 9, Offset 31696.
@@ -239,12 +240,12 @@ Since I don't know exactly how much Senpai has told her,
 [sha:cc61d0100fc00156421ddf7fee44508222cd5244]{
 -- Page 15, Offset 31714.
 -- 「客間を与えましたので、そちらで休んでいるのでしょう。
-"I sent her to our guest room, so she's probably resting as we speak.
+"I granted her use of one of the guess rooms, so she's probably resting as we speak.
 }
 [sha:d6653b5cc432e15e39e26773f0a064bb3c3fa555]{
 -- Page 15, Offset 31715.
 -- 本来ならあのような悪党、屋敷に入る事は許可しませんが、仮にも兄さんを助けてくれた方です。無下には扱えません」
-I wouldn't normally let such a wretch inside the mansion, but I can't deny that she saved you. It would be rude to turn her away."
+I wouldn't normally let such a miscreant inside the mansion, but I can't deny that she saved you. It would be rude to turn her away."
 }
 [sha:23aea861972ccb52ae45dfa24eb8541c3004f23b]{
 -- Page 16, Offset 31716.
@@ -254,7 +255,7 @@ I wouldn't normally let such a wretch inside the mansion, but I can't deny that 
 [sha:bae12205e158b24c2ed60360002113122b3df6ae]{
 -- Page 16, Offset 31717.
 -- 悪党とはまた、秋葉はいつにも増して容赦がない。
-To think that Akiha would use words like wretch, she really is less forgiving than usual.
+Akiha must be in an even less forgiving mood than usual if she's pulling out words like 'miscreant'.
 }
 [sha:c24867a00ced3fb14d5cb2a0f74bd04ebb4c3588]{
 -- Page 17, Offset 31718.
@@ -264,27 +265,27 @@ To think that Akiha would use words like wretch, she really is less forgiving th
 [sha:b516e077dbd1a2d9db2b5c9aac291a922afe556c]{
 -- Page 17, Offset 31719.
 -- その胸の傷はシキに負わされたものですね」
-That wound on your chest was from SHIKI, wasn't it?"
+That wound on your chest is from SHIKI, isn't it?"
 }
 [sha:e7065807e1c4c26da45ae853e6553925c5c2424e]{
 -- Page 17, Offset 31720.
 -- きっぱりと。
-Just like that.
+She doesn't beat around the bush.
 }
 [sha:72bb3d7a4ba6122b76e33325a6f665167d433585]{
 -- Page 17, Offset 31721.
 -- 秋葉は、その事実を尋ねてきた。
-Akiha asks me about that fact.
+Akiha asks me to confirm that fact.
 }
 [sha:653e6f82052432a5ddbd03defcf4be373a59b13d]{
 -- Page 18, Offset 31722.
 -- 「言ったでしょう、大体の事情は聞いたと。
-"I told you that I heard most of what happened, didn't I?
+"I told you that I heard the gist of what happened, didn't ?
 }
 [sha:31032461f2bea04259a851e30de154d2a9a7eed2]{
 -- Page 18, Offset 31723.
 -- ……もっとも、聞かなくとも兄さんの容態を見れば一目でわかる事ですが」
-...But then again, just by looking at you, I understood what happened at a glance."
+...Though, even if I hadn't, it'd be clear from one look at you what had transpired."
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 19, Offset 31724.
@@ -294,7 +295,7 @@ Akiha asks me about that fact.
 [sha:0dbede9a5e1c181ae7b78fda16799f64ca76b38b]{
 -- Page 19, Offset 31725.
 -- 驚きと緊張で喉が動かない。
-My throat is seized up with tension and astonishment.
+My throat seizes up from a combination of shock and nerves.
 }
 [sha:d8a21e8751e010b165225fd33359047066272a98]{
 -- Page 19, Offset 31726.
@@ -309,7 +310,7 @@ The way she said that makes it sound like she's known about SHIKI from the begin
 [sha:054706e4968eee3230179c7368510282c1b469bd]{
 -- Page 20, Offset 31728.
 -- 「ええ、知っています。私はすべてを承知した上で、兄さんを屋敷に呼び戻したんですから」
-"Yes, I knew. After all, it's because I was aware of everything that I called you back to the mansion."
+"Yes, I knew. In fact, it was %{i}because%{/i} I knew all the details that I called you back to the mansion."
 }
 [sha:4dbb3780e6bbbd6d02e3ff75b6a8496722789cd2]{
 -- Page 21, Offset 31729.
@@ -319,12 +320,13 @@ The way she said that makes it sound like she's known about SHIKI from the begin
 [sha:d8f9406a2528937b332caea7c06cc1788aebacc2]{
 -- Page 21, Offset 31730.
 -- 俺はまだ……正直、整理がつかないんだ。
-I mean... I'm still trying to piece all of this together.
+I mean... To tell the truth, I still can't make heads or tails of all this.
 }
 [sha:3314e298b8c803879f346d9c2b046d67127e9e92]{
 -- Page 21, Offset 31731.
 -- 子供のころ、俺と秋葉の他にもう一人、子供がいたのは確かだと思う。そうでないと辻褄が合わないからな。
-Back when we were kids, I'm sure that there was another child with us. Otherwise, it wouldn't make any sense.
+I was sure that there had to have been another child around back when you and I were kids.
+ Things just didn't add up otherwise.
 }
 [sha:2da653cbdcf9bca684684a19f2819814392c9ac7]{
 -- Page 21, Offset 31732.
@@ -334,7 +336,7 @@ But when I asked you about it, you――――"
 [sha:77aadf439549fc9a7307827408a24526de9d4e3e]{
 -- Page 22, Offset 31733.
 -- 三人目の子供なんて、いないと言ったじゃないか。
-You said that there was no such thing as a third kid.
+You told me there hadn't been a third child.
 }
 [sha:7bac01918402cace8d89c5ae42cd65148102359d]{
 -- Page 23, Offset 31734.
@@ -354,7 +356,8 @@ I've... been lying to you the entire time. Even in this situation... even though
 [sha:5c6feb4417a5ad505b49102170cbb9386702870c]{
 -- Page 24, Offset 31737.
 -- けどどうして、あいつは」
-But why is he..."
+// Lead-in for line on next page
+But then why did he..."
 }
 [sha:1beee731aa64ba79d450ab169378da0bece6e501]{
 -- Page 25, Offset 31738.
@@ -364,12 +367,14 @@ But why is he..."
 [sha:f1bade2150f28e1e911f0bd8888147ccb28e39e8]{
 -- Page 25, Offset 31739.
 -- 俺には確かな記憶がない。
-I don't remember it very well.
+My memories from back then are pretty hazy.
 }
 [sha:042eb5b2f7f56cc26c1231fd8ef332acde5ecebf]{
 -- Page 25, Offset 31740.
 -- 他の子供……自分と同い年ぐらいの少年がいて、いつも二人で遊びまわった事は、おぼろげではあるが思いだした。
-That other kid... I can only vaguely recall that he was a boy around my age, and that the two of us always played around together.
+That other kid...
+ All I can really remember is that he was a boy around my age,
+ and that the two of us always played around together.
 }
 [sha:7de87697d967a3172314f332ea9250ba2209cbe3]{
 -- Page 25, Offset 31741.
@@ -379,7 +384,7 @@ Every now and then, we would go behind our father's back and go outside to play 
 [sha:cf409a76a6e420ca6645487a78a03b9986b60c6d]{
 -- Page 26, Offset 31742.
 -- なのに、それ以外の事が記憶にない。
-And yet I have no memories apart from that.
+And yet, I don't remember anything else.
 }
 [sha:ad9c71d8e23f7ef97c2b6dc395309f591a81864e]{
 -- Page 26, Offset 31743.
@@ -390,7 +395,7 @@ The reason for his disappearance.
 -- Page 26, Offset 31744.
 -- あいつの名前が、俺と同じシキだったという事。
 // I tried translating this literally but then i had a seizure
-The fact that his name was pronouced the same as mine.
+The fact that his name was pronounced the same as mine.
 }
 [sha:b882f91339cce45088a91ce5e9c02370c3f56274]{
 -- Page 26, Offset 31745.
@@ -410,17 +415,17 @@ If there's one thing that I remember, it would be――――"
 [sha:c333a144cfe514ceb84ec4afd6a016ad6313172a]{
 -- Page 28, Offset 31748.
 -- 森の広場で見た光景。
-That scene I saw in the forest square.
+The scene I saw in that forest clearing.
 }
 [sha:4802cfa8382d4705be127a85bc4d7052136b0c6d]{
 -- Page 28, Offset 31749.
 -- この屋敷に帰ってきてから、何かの白昼夢のように脳裏に浮かんだ、あの暑い夏の光景だけ。
-Ever since returning to the mansion, only that scene of a hot summer's day has been coming to mind, like some sort of daydream.
+Ever since I returned to the mansion, I've been haunted by the image of that hot summer's day, like some sort of waking dream.
 }
 [sha:2425f507c73bf22767bc6e1500e248f2080ac95a]{
 -- Page 29, Offset 31750.
 -- あきはがいて、自分がいて。
-It was me and Akiha.
+Akiha was there. I was there.
 }
 [sha:46627caf14f9bf8a77cf61e5bc22607bca66eac2]{
 -- Page 29, Offset 31751.
@@ -430,7 +435,7 @@ And in front of us, the corpse of another boy covered in blood.
 [sha:65df90967a4a4a8ea559c98c28e51ba854761219]{
 -- Page 29, Offset 31752.
 -- 「…………、死体？」
-"......A corpse?"
+"......The corpse?"
 }
 [sha:91750c2cf727f145b762e721fc0856a1c1d72804]{
 -- Page 30, Offset 31753.
@@ -440,17 +445,18 @@ And in front of us, the corpse of another boy covered in blood.
 [sha:f03346552c1a5b2aa118b24faffcff68911bf161]{
 -- Page 30, Offset 31754.
 -- “殺された借り、たしかに返却した”と。
-That he 'certainly returned the favor of being killed'.
+// Referencing 12_00_ARC12_2 offset 30728
+That he 'returned the favor of being killed'.
 }
 [sha:10a8054feba7ee9f449550478fe70f1e9eaecaa8]{
 -- Page 30, Offset 31755.
 -- それは、つまり――――
-In other words――――
+Then, does that mean――――
 }
 [sha:132b6b921790e8d4c082fc2184a19c58addc25ff]{
 -- Page 31, Offset 31756.
 -- 「あの夢は―――俺は、本当に、あいつを―――」
-"That dream―――I, really―――"
+"That dream―――Did I, really―――"
 }
 [sha:df58a2b42b00857f1afccc9f2893a7b40231f89d]{
 -- Page 31, Offset 31757.
@@ -460,7 +466,8 @@ Did I really kill him?
 [sha:cbddcf50224c2e7766980a26fcec1a753adbc18e]{
 -- Page 31, Offset 31758.
 -- だからアイツは突然いなくなって、俺は自分にとって都合の悪い思い出を忘れていた……？
-Is that why he suddenly disappeared, and that I forgot about it because it was such an inconvenient truth...?
+Is that why he suddenly disappeared?
+ Is the reason I forgot all about it because it was such an inconvenient truth...?
 }
 [sha:776a1bf9828ca0a1b3898d0cbc89c777d7a9ff7e]{
 -- Page 32, Offset 31759.
@@ -475,12 +482,12 @@ Is that why he suddenly disappeared, and that I forgot about it because it was s
 [sha:a24375cff28cd00e49a34bae70ca6d7741e43349]{
 -- Page 32, Offset 31761.
 -- そう思いこむよう、お父様……遠野槙久に言いつけられたんです」
-That memory is what father... Tohno Makihisa led you to believe."
+What you remember is what father... Tohno Makihisa led you to believe."
 }
 [sha:1f1037649157779a1d0e4770df0c84aef1820163]{
 -- Page 32, Offset 31762.
 -- 「親父……に？」
-"From... my father?"
+"Father... did that?"
 }
 [sha:935f3fe8fc8f876386cc338bda3864eb70d6e036]{
 -- Page 33, Offset 31763.
@@ -500,27 +507,28 @@ Why would the old man tell me something like that...?
 [sha:be44d6651070e71407233cdd7ad7b72755eecd98]{
 -- Page 34, Offset 31766.
 -- 秋葉はすべて……七年前の事も、あのシキの事も、全部知っているのか？」
-Akiha... you knew about everything, including what happened seven years ago and SHIKI?"
+Akiha, you knew everything? Even what happened seven years ago, and about SHIKI?"
 }
 [sha:7b5518fec7046de3940bd166a72499335dfa70cd]{
 -- Page 34, Offset 31767.
 -- 「……はい。シキの事は、兄さんには思い出してほしくなかった。出来る事なら、ずっと忘れたままでいてほしかった」
-"...Yes. I didn't want you to remember SHIKI at all. In fact, I wanted you to remain ignorant forever."
+"...Yes. I didn't want you to remember anything about SHIKI.
+ I'd hoped for you to remain ignorant forever, if at all possible."
 }
 [sha:7811de415accee1d597f320ea8f3f6e9eb4fe3c4]{
 -- Page 35, Offset 31768. Mods: @n.
 -- 「……けど、
-"...However,
+"...Alas,
 }
 [sha:a943d806cac696885695f3176a068553645f0e82]{
 -- Page 35, Offset 31769. Glued.
 -- それもおしまいですね。
- even that has failed.
+ it seems that I have failed.
 }
 [sha:3516fd46a3f57a43a7f9eb18d94ea1bdc894fa17]{
 -- Page 35, Offset 31770.
 -- はじめから……隠し通す事なんて、無理な話だったんです」
-Hiding that fact... was an impossible task from the very beginning."
+Keeping his existence hidden... was an impossible task to begin with."
 }
 [sha:4760ef83a0502b88b122ac85d6b06f7ba0138b84]{
 -- Page 35, Offset 31771.
