@@ -66,6 +66,7 @@ If I did that, I'd be able to count on being summoned to a family meeting over i
 [sha:e5643a27d95269ab8e1fcf6f5acff7ad76463ab3]{
 -- Page 474, Offset 20909.
 -- 「はあ……はあ、あ―――」
+// should we put italics on groups of hah's? 
 "Hah...hah, ah―――"
 }
 [sha:8cf39a448621efd89aad49e8279501d532226934]{
@@ -150,7 +151,7 @@ There, in the space between two streetlights.
 [sha:23611c72556ac02b3487f3d884fd1cd8a9fba2f5]{
 -- Page 480, Offset 20924.
 -- ――――――どくん。
-――――――Thump.
+――――――%{i}Thump%{/i}.
 }
 [sha:7bc025ef6db9108c689f35f3bbd4a06e3bba984c]{
 -- Page 480, Offset 20925.
@@ -179,7 +180,7 @@ They're getting closer and closer.
 [sha:cee33044431d1bbb14a2d1e846a90ebdf18c775d]{
 -- Page 481, Offset 20929.
 -- かつ、かつ、かつ。
-Tap. Tap. Tap.
+%{i}Tap. Tap. Tap.%{/i}
 }
 [sha:165d816c203d65acc4e017171ad00966c6521b57]{
 -- Page 481, Offset 20930.
@@ -195,7 +196,7 @@ They stare at me with their one open, bloodshot eye.
 [sha:d82319ae49d8581f4f759d24e24ba5649b736610]{
 -- Page 482, Offset 20932.
 -- ――――どく、ん。
-――――Thump.
+――――%{i}Thump%{/i}.
 }
 [sha:237e507957bd226c6e3a9d8f63d56e4de2fe3c07]{
 -- Page 482, Offset 20933.
@@ -240,12 +241,12 @@ The world is suddenly plunged into darkness.
 -- Page 484, Offset 20940.
 -- 「！」
 // Gasp sfx is surprise/fear
-"Agh!"
+"%{i}Agh%{/i}!"
 }
 [sha:84927294141abf9a7d6783fcef9056edf788309b]{
 -- Page 484, Offset 20941.
 -- ――――どく、ん………！
-――――Thum―――p...!
+――――%{i}Thum―――p%{/i}...!
 }
 [sha:92cfcfd4ae9f09f1ccef6177bf93284562a149ca]{
 -- Page 484, Offset 20942.
