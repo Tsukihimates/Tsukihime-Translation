@@ -1124,7 +1124,7 @@ The fact that she doesn't even try to deny it is her strength... and also her we
 [sha:a1021f331007be8c3249de2bcf1d446a62409a53]{
 -- Page 73, Offset 31882.
 -- 今の推理は大筋で合っているのだろう。
-It's as if she's confirming that everything I said is true.
+It's as if she's confirming that at least the broad strokes of what I said are true.
 }
 [sha:89c1b2a56f21c49a850926d1f01c4983e90d5f6c]{
 -- Page 74, Offset 31883.
@@ -1164,7 +1164,7 @@ Akiha continues to hang her head in silence.
 [sha:f8a52845c86a632fb785cf0779d4cf9bff438ce7]{
 -- Page 76, Offset 31890.
 -- ……話はこれでおしまいだ。
-...With this, our conversation comes to an end.
+...Our conversation ends here.
 }
 [sha:9d1ca2f7adf05ec1e9b677262d97502381d20961]{
 -- Page 76, Offset 31891.
@@ -1174,22 +1174,23 @@ To be honest, I didn't really want to find out all this stuff about myself.
 [sha:d245be5aea887bff30b0ced65ced61a6cfb58821]{
 -- Page 76, Offset 31892.
 -- 今はそんな事より、一刻も早くアルクェイドに会わなくちゃいけない。
-But more importantly, I need to go and find Arcueid as fast as I can.
+But that's not what's most important right now.
+ I need to go and find Arcueid as soon as I possibly can.
 }
 [sha:a722b028650d8a90db4c93346a1e7617958ef73c]{
 -- Page 77, Offset 31893.
 -- 「ごめん、少し疲れた。眠るから、外に出てくれないか」
-"Sorry, I feel a bit tired. I'm going to sleep, so could you leave the room?"
+"Sorry, I'm a little tired. Would you mind leaving the room so I can sleep?"
 }
 [sha:1017f972abb453de17c77dc000df17f1beb3e999]{
 -- Page 77, Offset 31894.
 -- 「…………はい。兄さんがそう言うのでしたら」
-"......Of course. If that's what you say."
+"......Of course. If that's what you'd prefer."
 }
 [sha:7362491c618cad416d295bd298cffb649afedd5c]{
 -- Page 77, Offset 31895.
 -- 秋葉が扉へと去っていく。
-Akiha heads to the door.
+Akiha heads for the door.
 }
 [sha:585dc8ab61d27d29f6eaa3d63df6798f65f7088a]{
 -- Page 78, Offset 31896. Mods: @n.
@@ -1204,7 +1205,7 @@ Akiha heads to the door.
 [sha:d47e473fb900211e49a6d61042960a34d224cd69]{
 -- Page 78, Offset 31898.
 -- 訊きたい事がもう一つ残っていて、秋葉を呼びとめた。
-With one more thing to ask, I call her to stop.
+I call for her to stop. There's one more think I want to ask her.
 }
 [sha:cc2be44c14db8c7630bdde056c641ac5177e355e]{
 -- Page 78, Offset 31899.
@@ -1214,17 +1215,18 @@ With one more thing to ask, I call her to stop.
 [sha:dec86dac4112ac97229bb9980c82a0aa7b3350e9]{
 -- Page 79, Offset 31900.
 -- 「ああ。……秋葉は、どうして俺をこの屋敷に呼んでくれたんだ？　俺は……本当の兄貴じゃないのに」
-"Well... why did you call me back to this mansion in the first place? Even though... I'm not your real brother."
+"Well... Why was it that you called me back to the mansion? I'm... not even your real brother."
 }
 [sha:45ee76b6ddda44d84b2ac202c56620deb3de03cc]{
 -- Page 80, Offset 31901.
 -- 「……そんな莫迦なこと、言わないでください。
-"...Please don't ask such a foolish question.
+"...Please don't ask such foolish questions.
 }
 [sha:80869d59b8492d55d7998116113c81f6d1832ff7]{
 -- Page 80, Offset 31902.
 -- 私にとって兄さんは貴方だけです。今も昔も、兄さんは忘れてしまっただろうけど、子供の頃からずっと。
-To me, you're the only brother I have. You may have forgotten already, but back when were kids, and even now, you were always...
+To me, the word 'brother' refers to you and you alone.
+ You may have forgotten, but I have always felt this way, ever since we were children.
 }
 [sha:8b7ae3e4cb79ce25890061291500d6d8dd9dd82a]{
 -- Page 80, Offset 31903.
@@ -1234,5 +1236,7 @@ To me, you're the only brother I have. You may have forgotten already, but back 
 [sha:70243c0d33e209ac74f951eb8075347e33be2892]{
 -- Page 80, Offset 31904.
 -- がちゃり、と扉の開く音がして、秋葉は部屋から出ていった。
-With the sound of the door swinging open, Akiha leaves the room.
+// It says 開く here, but the SFX is _clearly_ the sound of a door closing.
+// It also just makes more sense?
+Akiha leaves the room, the door swinging shut behind her with a thud.
 }
