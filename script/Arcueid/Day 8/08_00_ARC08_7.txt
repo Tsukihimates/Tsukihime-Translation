@@ -69,7 +69,7 @@ Besides, if I hadn't stepped in, your wound would have opened up again."
 // parse to me, but it doesn't really seem to have other readings. Would
 // probably prefer something like 'most potent', etc
 Well,
- given that you've grown accustomed to having the highest grade of 'death' always a hairs breadth away,
+ given that you've grown accustomed to having the highest grade of 'death' always a hair's breadth away,
  perhaps it's not all that surprising.
  Seriously, I don't know what I'm going to do with you.
  Maybe I ought to give you something to %{i}really%{/i} be afraid of?"
@@ -93,7 +93,7 @@ Someone, please, enlighten me.
 -- Page 435, Offset 20800.
 -- 「最高級の恐怖ならおまえに追いかけられた時のでお腹いっぱいだよ。
 // Hm here's 最高級 again, make sure whatever we land on here is consistent
-"If we're talking about highan
+"If we're talking about high-grade fear,
  then I felt more than my fair share back when you were chasing me down.
 }
 [sha:2c4b906c09bb5aeae8890d3e29a13f96e1d73ee9]{
@@ -187,7 +187,7 @@ Someone once told me that even a person like me has a purpose.
 [sha:3d45d257e89bd7c5cb0b71d5dc495a90ba37b86b]{
 -- Page 440, Offset 20816.
 -- ならその時まで、自棄になって自分を棄てる事はしたくない。ちっぽけな信条だが、それが俺をここまで支えてきたプライド……のようなものだ。
-If that's the case, then I don't want to lose myself to despair before the time comes to fulfil it.
+If that's the case, then I don't want to lose myself to despair before the time comes to fulfill it.
  It isn't much as convictions go, but it's that pride which has carried me this far...
  So I believe, anyway.
 }
@@ -338,7 +338,7 @@ So... thank you.
 [sha:c204da43f5a697934ad7426aac229b01d67a20d6]{
 -- Page 450, Offset 20842.
 -- 「でも、そういうアルクェイドはどうなんだ？
-"But now I want to know: how do you feel?
+"But now I want to know: how do %{i}you%{/i} feel?
 }
 [sha:98afa04b20959745df62b6f8bf20194d6f0575bc]{
 -- Page 450, Offset 20843.
@@ -369,7 +369,7 @@ Just then, I felt a sudden twinge in my chest.
 [sha:171424618ff7ea00f7c6334e02bb80b45cda554c]{
 -- Page 452, Offset 20848.
 -- 痛みではなく、どちらかといえば<痒|かゆ>みのような感触が。
-It wasn't painful―――if I had to describe it, I'd say it was more of an itchy sensation.
+It wasn't painful―――If I had to describe it, I'd say it was more of an itchy sensation.
 }
 [sha:a50728f951b9725be57f7ff79320f93554e9013b]{
 -- Page 453, Offset 20849.
@@ -379,7 +379,7 @@ It wasn't painful―――if I had to describe it, I'd say it was more of an itc
 [sha:b7cb25dd4eb9b743d226411daafeffb7b719cd85]{
 -- Page 453, Offset 20850.
 -- 「いや―――なんだ、これ」
-"Wait―――what's happening?"
+"Wait―――What's happening?"
 }
 [sha:c8cd612ced5180632a5caf7ac3d1f9ea5c5d0f0e]{
 -- Page 453, Offset 20851.

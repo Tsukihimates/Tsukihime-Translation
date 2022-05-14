@@ -6,22 +6,22 @@
 [sha:864c5094838cb9f5c6e6d5e5e38a398670be4094]{
 -- Page 1, Offset 21293.
 -- 白い色は、なつかしい記憶を呼び起こす。
-   The color of white calls upon fond memories.
+A color that evokes nostalgic memories.
 }
 [sha:d55760d27b76f54602f7c239cd0402b37c9e325d]{
 -- Page 1, Offset 21294.
 -- 忘れていたもの。
-   Things that have been forgotten.
+Things that have been forgotten.
 }
 [sha:22c3d0b5214418a966be59c39cd41068d46fd922]{
 -- Page 1, Offset 21295.
 -- 忘れなくてはいけなかったもの。
-   Things that shouldn't have been forgotten.
+Things that shouldn't have been forgotten.
 }
 [sha:63a44a55ddbdbfed4e168cb216e2af53acb6895b]{
 -- Page 1, Offset 21296.
 -- 父に、忘れろと命じられたもの。
-   Things that my father ordered me to forget.
+Things that my father ordered me to forget.
 }
 [sha:2ce4023198d762d748648342d653f8bf32994ce0]{
 -- Page 2, Offset 21297.
@@ -31,17 +31,17 @@ A hot summer's day.
 [sha:54a68f2f4f392134a075af0306c6c302423563f3]{
 -- Page 2, Offset 21298.
 -- 青い空と　大きな大きな入道雲。
-A blue sky and big, large clouds.
+A blue sky with huge, towering cumulonimbus clouds.
 }
 [sha:6b8550d39143b009bfebfa38e6af0aea971a58d4]{
 -- Page 2, Offset 21299.
 -- じりじりゆらぐ風景と
-A slowly wavering landscape,
+A landscape blanketed in a shimmering haze,
 }
 [sha:3c325a238b489ee153bab2a33827624f7f5b2062]{
 -- Page 2, Offset 21300.
 -- 気が遠くなるような蝉の声。
-and the cries of cicadas like consciousness fading.
+and the overwhelming cries of the cicadas.
 }
 [sha:60ddd9037a9b1cd9c07b41e051925014fcedd35c]{
 -- Page 2, Offset 21301.
@@ -51,17 +51,17 @@ The sound of cicadas.
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 3, Offset 21302. Mods: @k, @e.
 -- みーん　みんみん
-*chirp* *chirp* *chirp*
+%{i}chiiiirp    chirp chirp%{/i}
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 3, Offset 21303. Mods: @k, @e.
 -- みーん　みんみん
-*chirp* *chirp* *chirp*
+%{i}chiiiirp    chirp chirp%{/i}
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 3, Offset 21304. Mods: @k, @e.
 -- みーん　みんみん
-*chirp* *chirp* *chirp*
+%{i}chiiiirp    chirp chirp%{/i}
 }
 [sha:e68aca0d69305b2ebbd41cccf4a7080935cf636d]{
 -- Page 3, Offset 21305.
@@ -96,22 +96,22 @@ As if the world had turned into a frying pan.
 [sha:440d2cf8581090653fcc957790caa86cc64a2f85]{
 -- Page 4, Offset 21311. Mods: @k, @e.
 -- えーん　えんえん
-Uwah... waah...
+%{i}Uwah... waah...%{/i}
 }
 [sha:440d2cf8581090653fcc957790caa86cc64a2f85]{
 -- Page 4, Offset 21312. Mods: @k, @e.
 -- えーん　えんえん
-Uwah... waah...
+%{i}Uwah... waah...%{/i}
 }
 [sha:45274b29b87bbaecf500085b6780109974324567]{
 -- Page 4, Offset 21313. Mods: @k, @e.
 -- えーん　えんえ
-Uwah... waah.
+%{i}Uwah... waah...%{/i}
 }
-[sha:26beb972a16ee66dcd57191b91bbd5515ebf9fd0]{
+[offset:21314]{
 -- Page 4, Offset 21314. Glued. Mods: @x, @k, @e.
 -- ん
-..
+%{nothing}
 }
 [sha:5705e066a1b69c51f76a77c798ad4164690c0e68]{
 -- Page 4, Offset 21315.
@@ -121,32 +121,33 @@ Akiha is crying.
 [sha:6a24cf39142588eb5959b56d5e2c5860e3e15eb7]{
 -- Page 4, Offset 21316. Mods: @k, @e.
 -- おとなしくて、いつもボクの後についてきた秋葉が、
-Akiha, who had always been quiet and followed us around,
+Akiha, who had always meekly followed us around,
 }
 [sha:b971cd482cecd507e899764af85b5b36db40e755]{
 -- Page 4, Offset 21317.
 -- ぽろぽろと泣いている。
-is sobbing on the floor.
+is sobbing uncontrollably.
 }
 [sha:ae14460d339d1db596170eb67a6eb9ef74616931]{
 -- Page 5, Offset 21318.
 -- 広場には子供がひとり倒れている。
-There is a single child collapsed on the square.
+A child lies crumpled in the clearing.
 }
 [sha:9b13c7cf5b90dbcd5fdd4990fe9f41bdac9d2939]{
 -- Page 5, Offset 21319.
 -- 白いシャツが真っ赤に染まって、ぴくりとも動かない。
-Wearing a white shirt drenched in deep red, not even moving a single twitch.
+A deep red stain has blossomed on its white shirt.
+ It doesn't move so much as an eyebrow.
 }
 [sha:c8d80ad0594814cdb06ede76f65f678eaaf5ca02]{
 -- Page 5, Offset 21320.
 -- ボクは、それを見下ろしている。
-I look down upon it.
+I'm gazing down at the scene before me.
 }
 [sha:5a3b9ab142cbd637aef5fa4d5995d6b55c2a071c]{
 -- Page 5, Offset 21321.
 -- 両手は倒れている子供と同じように赤い。
-My hands are red just like the child on the floor.
+My hands are red. Just like the child, collapsed in a heap on the floor.
 }
 [sha:4a744f489cacb6b648d5286e7a72568dffc2d30f]{
 -- Page 5, Offset 21322.
@@ -156,7 +157,7 @@ No, that's not right.
 [sha:05745a7508e4c6d8f5598d3c09aed72c31ff9f81]{
 -- Page 5, Offset 21323.
 -- この両手は、倒れている<子供|イキモノ>の血で赤いのだ。
-These hands are red from the creature that's collapsed on the floor.
+My hands are red. With the blood of a living being, collapsed in a heap on the floor.
 }
 [sha:cc89877db10b4a86937fe75eec65206ad16243f0]{
 -- Page 6, Offset 21324.
@@ -171,7 +172,8 @@ The adults are coming.
 [sha:91cd303842aee015a4de94f74fab642e552ce73e]{
 -- Page 6, Offset 21326.
 -- この惨状に気がついて、血相を変えてやってくる。
-Realizing the terrible spectacle in front of them, their faces quickly turn to anger.
+As they realize what they're looking at,
+ the color drains from their faces.
 }
 [sha:8471e2ae173e01d897de6d5191381839f230f365]{
 -- Page 7, Offset 21327.
@@ -191,12 +193,12 @@ The collapsed child remains dead.
 [sha:326c4cb14a6c4e3ffca70dda4d4017f737ca9499]{
 -- Page 7, Offset 21330.
 -- 遠くのそらには、白い白い入道雲。
-The bright, white clouds float in the skies far above.
+Brilliant white clouds drift across the distant sky.
 }
 [sha:f20fc8a12d5d5c8631109dd9f6ca156ee064be10]{
 -- Page 7, Offset 21331.
 -- ボクはひとり残されて、ぼんやりと夏の空を見上げている。
-Being the only one left behind, I vacantly look up toward the summer sky.
+I'm left all alone, staring vacantly up into the summer sky above.
 }
 [sha:335621dd001afd868d96a59b1015bbbcf68f01fa]{
 -- Page 8, Offset 21332.
@@ -211,22 +213,25 @@ The adults are screaming at me.
 [sha:6b5a92eed0f57d8ff2a3f4e4d9a799efc843ea49]{
 -- Page 8, Offset 21334.
 -- 子供をころしたボクの名前を叫んでいる。
-They are screaming the name of the one who killed the child.
+They're screaming the name of the person who killed that child. My name.
 }
 [sha:23749a287cf4ae1fb70d95d0d64a253c0837a60d]{
 -- Page 8, Offset 21335.
 -- たった二文字の言葉を、気がちがったように叫んでいる。
-The word is only two syllables long, but they scream it like they were losing their mind.
+They scream just those two syllables over and over,
+ as through they've lost their minds.
 }
 [sha:1a0c4ddc9dfe2ca6f2a2357808ccbf2b36b2d6a8]{
 -- Page 8, Offset 21336.
 -- たった二文字。
-All over two syllables.
+Just two syllables.
 }
 [sha:62614e07ed7576217839cc5924ddbc4dbb3dcd92]{
 -- Page 8, Offset 21337.
 -- おとなたちはそろって、両手を真っ赤に染めたボクを、シキと呼んでおさえつけた。
-The adults gather up and pin down on the one they call Shiki, whose hands are soaked in a deep red.
+The adults form into a group, and pin me down en masse.
+ Me, with my hands stained a deep red.
+ Me, the one they call %{i}Shiki%{/i}.
 }
 [sha:52306f7710e3cbb995cf23b028962ccdb474212e]{
 -- Page 9, Offset 21338.
@@ -236,7 +241,7 @@ Even now, I still don't understand it.
 [sha:65c61d22b7bf8a256296bbabfcea32c3e0d30079]{
 -- Page 9, Offset 21339.
 -- 殺せるモノを殺して、
-Killing those that kill―――
+Killing those you can kill―――
 }
 [sha:c1775e3da55437da381883b1374849f031a922ca]{
 -- Page 9, Offset 21340.
@@ -251,12 +256,13 @@ what exactly is wrong with that―――?
 [sha:87e3ff11b95f4d0723a51b48ac9988da9df5a9e7]{
 -- Page 10, Offset 21342.
 -- <塞|ふさ>がれた目蓋を開ける。
-I open my eyelids.
+I open my eyes.
 }
 [sha:461dd78a7240def0119d6acd78df243038b2f787]{
 -- Page 10, Offset 21343.
 -- よく意味の分からない、懐かしいユメを見ていた気がする。
-I felt like I was seeing a nostalgic dream. A dream I couldn't really understand.
+I feel like I just saw quite a nostalgic dream.
+ One I couldn't fully understand.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 11, Offset 21344.
@@ -271,12 +277,14 @@ I'm in my room.
 [sha:06746141b18102fec68a35621f136a875aeeb6eb]{
 -- Page 11, Offset 21346.
 -- あの後―――正門あたりで記憶は途切れているが、どうにかしてこの部屋まで戻ってきたようだ。
-After last night's events―――my memory cuts off around when I was at the main gate. It seems like I managed to get back to my room somehow.
+After the events of last night...
+ My memories of what happened by the main gate are a little hazy,
+ but it seems like I managed to make it back to my room one way or another.
 }
 [sha:3f70bfecd7af0c2d415bef4f85ce32d096d7c6df]{
 -- Page 12, Offset 21347.
 -- まだあたまが働いてくれない。
-My mind doesn't seem to be working properly yet.
+My mind obstinately refuses to work properly.
 }
 [sha:8c33f7c937e8355e38bf11329f8c177eee6193de]{
 -- Page 12, Offset 21348.
@@ -286,7 +294,8 @@ Last night's events come back to me in a jumbled mess.
 [sha:d5d3c18dfca7dda78d3e14671df15509bcd06d95]{
 -- Page 12, Offset 21349. Mods: @k, @e.
 -- 何もかもあり得ない事ばかりで整理できないが、特に思い返すとしたら、それは、
-Everything was so ridiculous that it's hard for me to put my thoughts in order. If there's one thing that stands out, it's...
+Everything was so ridiculous that it's hard for me to put my thoughts in order,
+ but if there's one thing that stands out, it's...
 }
 [sha:263fb19b278b927c9ef4ecbb693c1ec2607c8b13]{
 -- Page 14, Offset 42658. Choice.
@@ -296,7 +305,9 @@ Everything was so ridiculous that it's hard for me to put my thoughts in order. 
 [sha:f7cfb148f149e2f3378b545e08cc0c5bbe400cc3]{
 -- Page 14, Offset 42659. Choice.
 -- 黒い男の事だ。
- the man in black.
+// The text referencing this guy in the moment was much more shadow oriented
+// I also refuse to allow this to become a ~(white woman) spotted
+ the shadowy figure.
 }
 [sha:ae26082f5e5c708fcc75d4578ac8ae4851fe78ab]{
 -- Page 14, Offset 42660. Choice.

@@ -40,6 +40,13 @@ This is a <u>difficult exercise</u>. Whenever you're unsure of what to do with a
 
 ## Specific characters
 
+### Shiki(s)
+
+When translating a particular reference to a Shiki, format the name accordingly:
+- 志貴: Shiki
+- 四季: SHIKI
+- シキ: _Shiki_
+
 ### Noel
 
 Noel tries to sound *young* and *appealing*, and at the same time a bit provocative, sometimes seducing. To convey this character, we will use a vocabular and grammar that can be sometimes a bit slangish or colloquial (e.g. "ain't", "Nah", etc.), we'll do heavy elision of words when necessary, but not too frequently (e.g. "y'know", etc.) and a bit provocative general tone.
