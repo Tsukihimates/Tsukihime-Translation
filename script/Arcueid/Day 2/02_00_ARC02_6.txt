@@ -485,7 +485,7 @@ It seems that I was the only one who could not stand that dog's howling.
 [sha:19b2347f0996b48ae27a7bd26b102f439a3766b3]{
 -- Page 364, Offset 3586.
 -- 「―――――ぐ」
-"―――――Guh"
+"―――――%{i}Guh%{/i}"
 }
 [offset:3587]{
 -- Page 364, Offset 3587.
@@ -560,7 +560,7 @@ Even though I'm wearing my glasses, I can still see those 'lines'.
 [sha:13aa53af4fa2750734612c0a0fc71a481e9080f7]{
 -- Page 368, Offset 3601.
 -- 「うっ、ぶっ………！」
-"Ugh......!"
+"%{i}Ugh%{/i}......!"
 }
 [sha:181e4c6c4c50bfbb9a55fc21a3b02fc2074e891d]{
 -- Page 368, Offset 3602.

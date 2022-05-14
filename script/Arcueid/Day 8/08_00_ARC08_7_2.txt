@@ -66,7 +66,7 @@ If I did that, I'd be able to count on being summoned to a family meeting over i
 [sha:e5643a27d95269ab8e1fcf6f5acff7ad76463ab3]{
 -- Page 474, Offset 20909.
 -- 「はあ……はあ、あ―――」
-"Hah...hah, ah―――"
+"%{i}Hah...hah, ah%{/i}―――"
 }
 [sha:8cf39a448621efd89aad49e8279501d532226934]{
 -- Page 474, Offset 20910.
@@ -240,12 +240,12 @@ The world is suddenly plunged into darkness.
 -- Page 484, Offset 20940.
 -- 「！」
 // Gasp sfx is surprise/fear
-"Agh!"
+"%{i}Agh%{/i}!"
 }
 [sha:84927294141abf9a7d6783fcef9056edf788309b]{
 -- Page 484, Offset 20941.
 -- ――――どく、ん………！
-――――Thum―――p...!
+――――%{i}Thum―――p%{/i}...!
 }
 [sha:92cfcfd4ae9f09f1ccef6177bf93284562a149ca]{
 -- Page 484, Offset 20942.

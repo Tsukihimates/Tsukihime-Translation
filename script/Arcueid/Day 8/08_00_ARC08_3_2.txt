@@ -44,7 +44,7 @@ Ah, it looks like the teacher has really hit their stride and is passionately de
 -- Page 198, Offset 20157. Mods: @n.
 -- なるほど、地球の資源は今の人類では使い切れない量ではあるが、それと環境破壊による地表の変化は別の問題だと。人類はどれほどヤンチャをしてもこの惑星を破壊できない。しかし自分のヤンチャのせいで気温、生態系は変化していき、人類が生存するためのハードルが高まっていく。
 // This pair of lines pushed to new page in allscr, no need to account for previous ellipsis when cramming
-I see, the earth has enough resources that mankind isn't in danger of running out,
+I see. The earth has enough resources that mankind isn't in danger of running out,
  but resource starvation and the damage humans do to the environment are separate issues.
  No matter how reckless we are, we won't destroy the planet itself.
  That said, as we continue to act irresponsibly, fueling global warming and destroying habitats,
@@ -373,8 +373,8 @@ I wasn't sure if I was on the same page as you, so I did some homework yesterday
 [sha:f082a62e68748a03d277f20d1cf6fbb64d02fc84]{
 -- Page 220, Offset 20217.
 -- 学校といえば教師、教師といえば眼鏡なんでしょう？
-When you think school you think teachers,
- and when you think teachers you think glasses, right?
+When you think school, you think teachers――
+and when you think teachers you think glasses, right?
 }
 [sha:a2737ed2b4e4e72d19f081c73be33e5b0e6691aa]{
 -- Page 220, Offset 20218.
@@ -385,7 +385,7 @@ I haven't got the slightest clue why you people wear them,
 [sha:c854904082ed55d067b1ff6dd9008219192899d6]{
 -- Page 221, Offset 20219.
 -- 「―――む、ぐぅ……」
-"―――Mmph, gh..."
+"―――%{i}Mmph%{/i}, %{i}gh%{/i}..."
 }
 [sha:f93ca13f4539a09026a81a002ae42d41bd0409eb]{
 -- Page 221, Offset 20220.

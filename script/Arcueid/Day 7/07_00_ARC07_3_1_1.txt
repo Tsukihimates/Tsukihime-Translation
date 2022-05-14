@@ -93,7 +93,7 @@ We touched on this before, but here are the ranks."
 -- 「まずⅠ階梯、死者。
 // 死者 are members of the group 死者 but that's weird and confusing so for purposes of whiteboarding,
 // rank 1 dead are 'Corpses' and the group containing ranks 1-3 is the Dead.
-"First we have Rank I, Corpses.
+"First we have Rank I, %{i}Corpses%{/i}.
 }
 [sha:7e048527181d0afba1e5e0c37783013b09b1ecd0]{
 -- Page 527, Offset 17879.
@@ -111,7 +111,7 @@ In short, they're cannon fodder.
 [sha:90f2b4f275e300ba728cf8508caacfe33971d0c9]{
 -- Page 528, Offset 17881.
 -- 「次にⅡ階梯、屍鬼。
-"Next we have Rank II, Ghouls.
+"Next we have Rank II, %{i}Ghouls%{/i}.
 }
 [sha:08429e17d1bca333263af45197d488eee6a09236]{
 -- Page 528, Offset 17882.
@@ -122,7 +122,7 @@ Although they have a will, they're incapable of deliberate thought.
 [sha:91c253e94aad03d15afe268eeb59855800da6348]{
 -- Page 528, Offset 17883.
 -- 親の魔力で腐敗こそしないものの、中身は完全に崩壊している。
-The Magical Energy of their sire prevents them from decomposing entirely,
+The %{i}Magical Energy%{/i} of their sire prevents them from decomposing entirely,
  but they're still falling apart on the inside.
 }
 [sha:c9fb20781e8f16a315d2763a1cc8fe5bed8ae913]{
@@ -136,7 +136,7 @@ Since their brains are in the process of rotting away, they are ruled by their i
 [sha:e26645a7f6f7b210f1826a906a67d7c6e984134a]{
 -- Page 529, Offset 17885.
 -- 「Ⅲ階梯、不死。
-"Rank III, Undead.
+"Rank III, %{i}Undead%{/i}.
 }
 [sha:0d081964fa55bdbb4fb901d20b34d76965455931]{
 -- Page 529, Offset 17886.
@@ -204,12 +204,12 @@ This has got me wondering...
 [sha:0bef5f81b13d3a3c7e710ff39435ed7fe1668e45]{
 -- Page 532, Offset 17896.
 -- 問題は教会内部の<誰|・><が|・>これを広めたかなんだけど……ま、それはどうでもいっか」
-The real question is, who was it from the Church that spread this information... Well, it doesn't really matter."
+The real question is, %{i}who was it from the Church that spread this information%{/i}... Well, it doesn't really matter."
 }
 [sha:468a12fb734e19c974fb2a28e497ec4aac4a2b62]{
 -- Page 533, Offset 17897.
 -- 「次はⅣ階梯、夜属。
-"Next we have Rank IV, Nightkin.
+"Next we have Rank IV, %{i}Nightkin%{/i}.
 }
 [sha:976f31b97e08c740c1793be22d01ee96431cdb5b]{
 -- Page 533, Offset 17898.
@@ -256,7 +256,7 @@ About one in a thousand of the Dead reach this rank."
 [sha:b1d47cae9321aa31b373aaa14e6a88fb1521b43d]{
 -- Page 536, Offset 17905.
 -- 「次にⅤ階梯、夜魔。
-"Next we have Rank V, Nightmare.
+"Next we have Rank V, %{i}Nightmare%{/i}.
 }
 [sha:3666d438738954ea215553f8175ba1f552c34f13]{
 -- Page 536, Offset 17906.
@@ -276,7 +276,7 @@ These are upper knights: fully-fledged vampires."
 [sha:1814a1c21b7201f77cbdb580776b63113c631047]{
 -- Page 537, Offset 17908.
 -- 「で、最後のⅥ階梯、死徒。
-"And finally, we have Rank VI, the Dead Apostle.
+"And finally, we have Rank VI, the %{i}Dead Apostle%{/i}.
 }
 [sha:12b01047f1be6488f0f701e08ed7a147e90f1187]{
 -- Page 537, Offset 17909.
@@ -325,7 +325,7 @@ The vampire lurking in this city belongs in this rank.
 -- Page 539, Offset 17916.
 -- 身分制度って言ったけど、それを決めるのは誰……いや、何だ？　吸血鬼は血を吸って仲間を増やすなら、どうしてこうも在り方が違うんだ？」
 // Italics what
-You said that it was a class system, but who... or rather, what came up with it?
+You said that it was a class system, but who... or rather, %{i}what%{/i} came up with it?
  If vampires only propagate themselves by sucking blood,
  how do you end up with so many different types?"
 }
@@ -549,7 +549,6 @@ The Dead that Arcueid took down earlier was nothing more than a 'servant',
 [sha:c06cc98ccf51f55304c457ea093c167e5e796138]{
 -- Page 552, Offset 17952.
 -- Ⅰ階梯なら自動人形にすぎないけど、Ⅲ階梯なら脳は生きているし。彼等は自分がどういう生き物になったのかを理解した上で吸血鬼に従っている。自分から進んで人間たちを殺して、親基に血を送っているのよ」
-// typemoon.fandom.com/wiki/Familiar#Automata
 A Rank I Dead is nothing more than an %{i}automaton%{/i}, but a Rank III one still has a functioning brain.
  They are able to comprehend what kind of creature they've become, yet continue to serve.
  They make the conscious choice to kill humans, and send the blood to their parent vampire."
@@ -665,7 +664,7 @@ The vampires that are classified as Dead Apostles love humans.
 No, it's more like they love human nature.
  It's thanks to it that they can be as cruel as they want.
  You humans are the primary...
- no, the sole creatures on this earth capable of extinguishing life for no reason other than to inflict suffering."
+ no, the sole creatures on this earth capable of extinguishing life %{i}for no reason other than to inflict suffering%{/i}."
 }
 [sha:93774a78a6763f8d23e3c5167b257db7cdb3211f]{
 -- Page 560, Offset 17972.

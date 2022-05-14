@@ -198,7 +198,7 @@ Before the blade scything through the darkness could connect,
 [sha:cdf1f80f97eb73eb9177f6e74bd6c3bfaca8cbab]{
 -- Page 497, Offset 20989.
 -- 「―――ク」
-"―――Kh."
+"―――%{i}Kh%{/i}."
 }
 [sha:12820bd50dcddf24e2c01b9c7a8b47ed0d5ddc61]{
 -- Page 497, Offset 20990.
@@ -219,7 +219,7 @@ I must intercept every strike of that deadly weapon...!
 [offset:20993]{
 -- Page 498, Offset 20993.
 -- 「っ……！」
-"Kuh...!"
+"%{i}Kuh%{/i}...!"
 }
 [sha:4e1584d860e4b8882906cbe15778a7aa377d5eda]{
 -- Page 498, Offset 20994.
@@ -418,7 +418,7 @@ I finally understood that this 'somebody' can see the same things I do.
 [sha:2929980385e3d9ff821777b37e58079b21c22ac3]{
 -- Page 507, Offset 21030.
 -- ――――ク。
-――――Tch.
+――――%{i}Tch%{/i}.
 }
 [sha:b7639dfeea349887b5e6a0097a8519fa2a7aa09b]{
 -- Page 507, Offset 21031.
@@ -436,7 +436,7 @@ They stare at me with those bloodshot eyes,
 [sha:d4fa0c6d4f990342d751a0c1bbdc24447960163d]{
 -- Page 508, Offset 21033.
 -- 「―――、は」
-"―――Hah."
+"―――%{i}Hah%{/i}."
 }
 [sha:53fea1aa381ee9582817c1d0145ebf615628d346]{
 -- Page 508, Offset 21034.
@@ -491,7 +491,7 @@ Attack.
 [sha:acdcc945cbd4413bfd560358895097163c5b556a]{
 -- Page 510, Offset 21042.
 -- <攻|・><め|・><て|・><い|・><る|・>のは俺の方だ。
-I'm the one on the offensive now.
+%{i}I'm%{/i} the one on the offensive now.
 }
 [sha:de5e8d32b9d5577d2d81a8a68e56e975e192e07b]{
 -- Page 510, Offset 21043.
@@ -655,7 +655,7 @@ A familiar figure is standing on top of a streetlight.
 [sha:438cfb268162af5c4366ba10e454052444677d04]{
 -- Page 519, Offset 21072.
 -- 外国の神父のような服装。
-She's dressed like a Catholic priest from overseas.
+She's dressed like a priest from overseas.
 }
 [sha:9f9008852c8ca42c782de222bdac292fc97bdaa9]{
 -- Page 519, Offset 21073.
@@ -860,7 +860,7 @@ Well, I wonder if I should still call you that?"
 [sha:23376106954a31e7c179828b3ddc93747ed96cf0]{
 -- Page 531, Offset 21108.
 -- 「ふふ。そうねぇ。先生って響きは悪くないけど、ここは学校の外なんだし？　先生は外したほうが何かと気が楽よね、お互いに」
-"Fufu. That's a great question.
+"Ehehe. That's a great question.
  I don't mind the sound of 'sensei', but we aren't at school, are we?
  I think it'll be easier for both of us if you drop the 'sensei'."
 }
@@ -889,10 +889,10 @@ I―――
 [sha:5f9f538d8c6d5ae5308fd8db8f721fcc9ae70959]{
 -- Page 534, Offset 42657. Choice.
 -- ……敵として相対する。
- ...confront her as an enemy.
+ ...Confront her as an enemy.
 }
 [sha:603dcb94dbc3757fcb4a5696cc2f4972b3db847a]{
 -- Page 534, Offset 42656. Choice.
 -- ……警戒して身構える。
- ...stay cautious but alert.
+ ...Stay cautious but alert.
 }
