@@ -84,7 +84,8 @@ The hands on my watch carefully and accurately mark the passing hours.
 [sha:ffbb872dcc303ba449460ae45e4c5245ea3be029]{
 -- Page 162, Offset 29964.
 -- こんな時間、息がつまる。
-It's gotten so late. I feel like I'm going to choke.
+// group pr check: redo the line
+It's gotten so late; I'm having trouble breathing.
 }
 [sha:8d2a027a0a0f83feddbbd0992842ad72b5c2acac]{
 -- Page 162, Offset 29965.
@@ -131,7 +132,8 @@ I won't feel any pain.
 }
 [sha:ced3fa1d42582b23cd0e4fb697a1cde6c2773b5f]{
 -- Page 164, Offset 29973.
--- だからこんな時間、幸福で息がつまる。
+-- だからこんな時間、幸福で息がつまる。\
+// group pr check: should be the same to the prev line
 That's why I'm so happy right now that I can hardly breathe.
 }
 [sha:6b8df25e06ba52150e2c26e3ea167cb8161cc5cf]{
@@ -468,7 +470,7 @@ Because I'm an idiot... I didn't notice your lies.
 [sha:fb21817313c50d7abad48b4225569bc83ea93944]{
 -- Page 185, Offset 30037.
 -- 「……あいつら。埋葬機関はいつからそんなにお喋りになったのかしらね」
-"Damn them. When did the Executors get so chatty."
+"Damn them. When did the Burial Agency get so chatty."
 }
 [sha:89669f43b86985fab2dd4c225e5d0222ea97eb9b]{
 -- Page 185, Offset 30038.
@@ -830,7 +832,7 @@ That that'd be the best for both of us..."
 [sha:81d7e571d709c8399217de9c4d109b3f6fe5ddd6]{
 -- Page 209, Offset 30105.
 -- でも待ち合わせはここで終わり。
-But with this, our rendezvous is over.
+But with this, our rendezvous are over.
 }
 [sha:81ec443118bcd50d30b43295996ac0fd3bc038cb]{
 -- Page 209, Offset 30106.
@@ -1057,7 +1059,7 @@ With my gaze, I say the things that shouldn't be put into words.
 -- Page 223, Offset 30148.
 -- こうしている今も―――アルクェイドの心音をきいて、気が狂いそうなぐらい、欲情してる」
 // Not really sure how to work 欲情してる in here--It's kinda tacked on the end rn.
-Even here, like this―――hearing your heartbeat is driving me mad with passion."
+Even here, like this―――hearing your heartbeat is driving me mad with lust."
 }
 [sha:7251e16545ede5b2abc9d540ea244b61464c648d]{
 -- Page 224, Offset 30149.
@@ -1089,7 +1091,7 @@ I can feel the palpitations of Arcueid's heart.
 [sha:33be29b32b1f0b1b804f8c5825f53399bfb39148]{
 -- Page 225, Offset 30154.
 -- いまアルクェイドを愛してるなら、それが遠野志貴の真実だ。そのあとの事なんて、知らない。
-If in this moment I love Arcueid, then that's Tohno Shiki's truth.
+If in this moment I love Arcueid, then that's what's true for Tohno Shiki.
  I don't care what comes after.
 }
 [sha:fb153b244584b33196ef1bdc4693d0562d92363a]{
@@ -1120,7 +1122,7 @@ I no longer feel her heartbeat.
 [sha:da86184e3a5d806ce66a19ff86fd64a3d30f09b2]{
 -- Page 226, Offset 30160.
 -- その代償に、彼女の両腕が、応えるように俺の背中にまわされる。
-Instead, I feel her arms wrap tightly around my back, as if in answer.
+Instead, I feel her arms wrap tightly around my back, as if in response.
 }
 [sha:b1270fd94e769e8fe5343919273a27a4336f936e]{
 -- Page 227, Offset 30161.
@@ -1151,7 +1153,7 @@ I'm not even really sure myself who ended it.
 -- Page 228, Offset 30166.
 -- ただ申し合わせたように、俺たちは互いの顔を見るために、抱きしめた腕を解きあった。
 But, as if by some unspoken agreement,
- we release our entwined arms to meet each others' gaze.
+ we release our entwined arms to meet each other's gaze.
 }
 [sha:8eaa978afc424a226a1e857f05b10c5b2c0e8cc7]{
 -- Page 229, Offset 30167.
@@ -1176,7 +1178,7 @@ She's really here, right now, right in front of me.
 [sha:968f1ab1cecacdefce0c5e1b7abf94611f189047]{
 -- Page 230, Offset 30171.
 -- 俺たちの距離が離れる事は、もう決してないのだと。
-I'm certain that the two of will never again be apart.
+I'm certain that the two of us will never again be apart.
 }
 [sha:0e54e32eba5966dee0935d929f6c37a722064f70]{
 -- Page 231, Offset 30172.
@@ -1251,6 +1253,7 @@ Arcueid was trying to avoid bringing up what happened in that alley out of consi
 [sha:4e75955370d79037ef02a8c3afe16824a0f2a1cc]{
 -- Page 235, Offset 30185.
 -- ……信じられない。もしかして吸血鬼じゃなくて悪魔なんじゃないのか。
+// group pr check: change demon to daemon? succubus? or just keep demon?
 ...I don't believe it.
  Maybe she isn't a vampire after all, but some sort of demon.
 }
