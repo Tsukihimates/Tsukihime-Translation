@@ -84,8 +84,7 @@ The hands on my watch carefully and accurately mark the passing hours.
 [sha:ffbb872dcc303ba449460ae45e4c5245ea3be029]{
 -- Page 162, Offset 29964.
 -- こんな時間、息がつまる。
-// group pr check: redo the line
-It's gotten so late; I'm having trouble breathing.
+It's gotten so late. I feel like I'm suffocating.
 }
 [sha:8d2a027a0a0f83feddbbd0992842ad72b5c2acac]{
 -- Page 162, Offset 29965.
@@ -133,7 +132,6 @@ I won't feel any pain.
 [sha:ced3fa1d42582b23cd0e4fb697a1cde6c2773b5f]{
 -- Page 164, Offset 29973.
 -- だからこんな時間、幸福で息がつまる。\
-// group pr check: should be the same to the prev line
 That's why I'm so happy right now that I can hardly breathe.
 }
 [sha:6b8df25e06ba52150e2c26e3ea167cb8161cc5cf]{
@@ -1091,7 +1089,7 @@ I can feel the palpitations of Arcueid's heart.
 [sha:33be29b32b1f0b1b804f8c5825f53399bfb39148]{
 -- Page 225, Offset 30154.
 -- いまアルクェイドを愛してるなら、それが遠野志貴の真実だ。そのあとの事なんて、知らない。
-If in this moment I love Arcueid, then that's what's true for Tohno Shiki.
+If in this moment I love Arcueid, then that's Tohno Shiki's truth.
  I don't care what comes after.
 }
 [sha:fb153b244584b33196ef1bdc4693d0562d92363a]{
