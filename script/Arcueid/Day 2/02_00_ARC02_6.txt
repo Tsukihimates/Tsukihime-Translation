@@ -51,12 +51,12 @@
 [sha:e427a432db1b00df5a74678362c12a281b8175ce]{
 -- Page 339, Offset 3500.
 -- 頭蓋に撃ち込まれた弾丸のように、
-Like a bullet shot into my skull.
+Like a bullet fired into my skull―――
 }
 [sha:bc99ca2e5e2fabb6ff4d8c31b8ad10015832439b]{
 -- Page 339, Offset 3501.
 -- カラカラと反響する。
-It echoes stronger.
+The echoes ricochet around inside.
 }
 [sha:1d338b15d8bf2bae62b6429af5a00b705407eb56]{
 -- Page 340, Offset 3502.
@@ -106,7 +106,6 @@ It's more than just disturbing my sleep.
 [sha:02a7374e2e99695c03133dd1c688eea8ea914281]{
 -- Page 343, Offset 3511.
 -- 犬の遠吠えは屋敷の外から聞こえてくる。
-// Slightly non-literal TL, but avoids the confusion of "howl can be heard from outside the mansion", which suggests that the noise is coming from _inside_ and the hearing is being done _outside_
 The dog's howl reaches all the way to my ears from outside the mansion.
 }
 [sha:a292e5de234d5bf4f89259861e5bd46ca2667078]{
@@ -117,7 +116,7 @@ The dog's howl reaches all the way to my ears from outside the mansion.
 [sha:543912c762a25ca2a9c8e51d5d0a22b5ee15d4b1]{
 -- Page 344, Offset 3513.
 -- 「……仕方がないか。
-"...I guess there's no choice.
+"...I guess I gotta go check it out.
 }
 [sha:47891210ab324154b0b8786d73080d23c76f9a10]{
 -- Page 344, Offset 3514.
@@ -137,7 +136,7 @@ I'm sure that Akiha and the others are having trouble sleeping as well.
 [sha:68ffb7efb9c43ed55f03eacc058b960b3a9c6145]{
 -- Page 345, Offset 3517.
 -- 屋敷にいる男手は自分だけだし、ここは様子を見にいくしかないだろう。
-I'm the only man in the mansion, so I guess I have to take care of it for them.
+I'm the only man in the mansion, so I guess it falls to me to go find out what's going on here.
 }
 [sha:640f5bb2518d8a9f4001ffe5fa1835db049b01b3]{
 -- Page 346, Offset 3518.
@@ -177,12 +176,12 @@ Even the light from the streetlamps appears to have congealed, like paint drops 
 [sha:5871ab835c12716e252055d9e64538d547e9a9dd]{
 -- Page 349, Offset 3525.
 -- 奇妙な事に、遠吠えは外に出ると弱々しく聞こえた。
-Oddly enough, the howling sounds weaker out here.
+Oddly enough, the howling sounds quieter now that I'm out here.
 }
 [sha:55c649dc03ba6cfa52503e9c665e951a73a85c7a]{
 -- Page 349, Offset 3526.
 -- それとも遠吠えが消えかけているだけなのか。
-Or is the howl just starting to fade?
+Maybe it's just starting to die down?
 }
 [sha:fe077da92fe19410f7281dd64c5f8b6f262c1bec]{
 -- Page 349, Offset 3527.
@@ -228,7 +227,7 @@ I notice that my breath is white.
 [sha:7e90a924a3380c67eaeec02a19aeb14550b9acf0]{
 -- Page 351, Offset 3535.
 -- 屋敷の外はいっそう、静かだった。
-It's even quieter outside the mansion.
+The area around the mansion has fallen even quieter.
 }
 [sha:2a3ade199ec292b0f76e10e4d3bb7a0dc0fea62a]{
 -- Page 351, Offset 3536.
@@ -238,7 +237,6 @@ It feels as if everything has ceased to exist.
 [sha:9ec22aa4db21c9e1d4956a90c27be78a8033be76]{
 -- Page 351, Offset 3537.
 -- 停止した世界に、自分の影法師だけが<活|の><動|び>ている。
-// Ruby text is 'のびる', but stretch/extend reads a bit oddly here.
 In this frozen world, my shadow is the only thing that moves.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -254,12 +252,12 @@ I don't know why I'm so thirsty.
 [sha:790edd1b9bb868e1a44819561cd38b0446d886cb]{
 -- Page 352, Offset 3540.
 -- 屋敷の周り、高い壁が延々と続く夜道。
-Around the mansion, high walls stretch out endlessly into the night.
+The meandering road next to the tall walls around the mansion stretches on endlessly into the night.
 }
 [sha:f96286ebee9f5dc298933cfa8b537a499cba88a8]{
 -- Page 352, Offset 3541.
 -- かじかむ指を吐息で温めながら、犬たちが集まっているであろう方向に歩を進める。
-Warming my numb fingers with my breath, I walk in the direction where the dogs are probably gathered.
+Warming my numb fingers with my breath, I walk in the direction of where the dogs are probably gathered.
 }
 [offset:3542]{
 -- Page 353, Offset 3542.
@@ -274,12 +272,14 @@ My thoughts come to a halt.
 [sha:5bdde38eb57e5c6f0b9adc95f27424493e96cec0]{
 -- Page 353, Offset 3544.
 -- 遠く離れた電灯の下に、何か、
-In the distance, under a light, I see something.
+In the distance, under a streetlight, I see something.
 }
 [sha:ffdce484e29961b17a3b300326ae6021aacacc8f]{
 -- Page 353, Offset 3545.
 -- 今まで見たことのない（正常であれば見ることのない）、
-Like nothing I've ever seen before (it's not something you'd normally see)
+// This is basically the only place in the game that parens show up, not sure it's worth the confusion
+It's like nothing I've ever seen before.
+ Something that by all rights I %{i}should never%{/i} see.
 }
 [sha:a725a5a2b65beb81872bb44df0f7dc98c9776ad2]{
 -- Page 353, Offset 3546.
@@ -334,12 +334,13 @@ A scream as if it had lost its mind.
 [sha:4c69cde0ced7dcf439771c4007f46bd4c0679e3f]{
 -- Page 355, Offset 3556.
 -- あるいは強風。
-Or like a gale.
+A gale force scream.
 }
 [sha:8ee4b108e83ecd5fb73d09df40337ae80cade66a]{
 -- Page 355, Offset 3557.
 -- 鼓膜を引き裂く波が走り抜けた後、もう、犬の鳴き声も、犬の姿もなくなっていた。
-After the sounds that tore at my eardrums passed through, there were no more cries or even signs of the dog remaining.
+After the sound that tore at my eardrums had passed, there were no more howls.
+ There wasn't even a trace of the dog remaining.
 }
 [sha:0396de7c924292c4eba01487cc8adc61170eff7d]{
 -- Page 355, Offset 3558.
@@ -349,7 +350,7 @@ As if it had never existed in the first place.
 [sha:a99c9a823480dd0235a9c0ad79e1910de2511e0d]{
 -- Page 355, Offset 3559.
 -- 跡形もなく、溶けて消えた。
-It fades away without a trace.
+It faded away without a trace.
 }
 [sha:0da973f843903ed3b30a2500654381ff8ce4acba]{
 -- Page 356, Offset 3560.
@@ -374,7 +375,7 @@ There, under the streetlight that slices through the darkness, stands a figure I
 [sha:c1289bddb1116b84dc493bdd308dc9eba2ed8a2e]{
 -- Page 358, Offset 3564.
 -- あれはコート……だろうか。
-Is that a coat? ...I wonder.
+Is that... a coat?
 }
 [sha:cc9c2c132b75fcfed42d6fec58aec3827fbf4684]{
 -- Page 358, Offset 3565.
@@ -419,7 +420,7 @@ I hear the sounds of a distant, foreign country.
 [sha:9f47ebe93e2e316bcc661c49756ba5e6e46a0c49]{
 -- Page 360, Offset 3573.
 -- 目眩に意識を奪われかける。
-The dizziness almost knocks me unconscious.
+I'm struck by a dizziness that almost knocks me unconscious.
 }
 [sha:23815b911572c014106fa760092bcdcd903a169c]{
 -- Page 360, Offset 3574.
@@ -434,7 +435,7 @@ And then―――
 [sha:f43806d7f62ac83c10d805d71ce1b51f5d6d38f8]{
 -- Page 360, Offset 3576.
 -- そこは普段通りの、人気のない国道だった。
-What I see before me is the usual, quiet road.
+All I see before me is the usual, quiet road.
 }
 [offset:3577]{
 -- Page 361, Offset 3577.
@@ -444,7 +445,7 @@ What I see before me is the usual, quiet road.
 [sha:2fc09a5e72354aaab62e0589f6ab76c050b501c0]{
 -- Page 361, Offset 3578.
 -- ホッと息をつくと、肺は貪欲に空気を取り入れた。
-I breathe a sigh of relief, and my lungs greedily take in air.
+I breathe a sigh of relief, my lungs greedily taking in the air.
 }
 [sha:4a7760ecbd196e61997387adbe901e91c323f336]{
 -- Page 361, Offset 3579.
@@ -464,7 +465,7 @@ I don't hear them howling anymore.
 [sha:2d6a2372122b99e86abd52f7be548f16ff382bb0]{
 -- Page 362, Offset 3582.
 -- ……熱にうかされるように、幻を後にした。
-...As if overcome by fever, I leave the illusion.
+...I leave the illusory fever dream I just witnessed behind me.
 }
 [sha:437976b4302400051ef05462ba0b00060d37d74d]{
 -- Page 363, Offset 3583.
@@ -474,7 +475,7 @@ I don't hear them howling anymore.
 [sha:afc8e1b0500ac0d3a540f73b971d726aa042f895]{
 -- Page 363, Offset 3584.
 -- 秋葉たちは起きている気配がなかった。
-There is no sign that Akiha and the others are awake.
+I didn't notice any signs that Akiha or the others are awake.
 }
 [sha:56e4e9d3d3eb46cbeb832b0f0194eb3e1fad0c05]{
 -- Page 363, Offset 3585.
@@ -484,7 +485,7 @@ It seems that I was the only one who could not stand that dog's howling.
 [sha:19b2347f0996b48ae27a7bd26b102f439a3766b3]{
 -- Page 364, Offset 3586.
 -- 「―――――ぐ」
-"―――――Guh"
+"―――――%{i}Guh%{/i}"
 }
 [offset:3587]{
 -- Page 364, Offset 3587.
@@ -514,7 +515,7 @@ My whole body is shaking, and my back is very cold.
 [sha:e80352fb72ac81f6f4f440b49ad89a36ed43f3c9]{
 -- Page 365, Offset 3592.
 -- 喩えるなら、そう。
-Metaphorically speaking,
+Metaphorically speaking―――
 }
 [sha:79994762489761a3f4d93deac5d9576fe625a2e1]{
 -- Page 365, Offset 3593.
@@ -544,7 +545,7 @@ I feel like my consciousness is being thrown to the ground, brain and all.
 [sha:9d3e393c9ecc033350091dccc58cf8fdc83ecccd]{
 -- Page 366, Offset 3598.
 -- その途中で、イヤなものを、見てしまった。
-On the way, I see something I don't like.
+As this is going on, I notice something unsettling.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 367, Offset 3599.
@@ -559,7 +560,7 @@ Even though I'm wearing my glasses, I can still see those 'lines'.
 [sha:13aa53af4fa2750734612c0a0fc71a481e9080f7]{
 -- Page 368, Offset 3601.
 -- 「うっ、ぶっ………！」
-"Ugh......!"
+"%{i}Ugh%{/i}......!"
 }
 [sha:181e4c6c4c50bfbb9a55fc21a3b02fc2074e891d]{
 -- Page 368, Offset 3602.
