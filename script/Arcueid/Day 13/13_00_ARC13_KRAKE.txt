@@ -1,27 +1,29 @@
 [sha:cf4fcec605425d371f0d8eb372f9ff1510fdfe0c]{
 -- Page 10004, Offset 32376.
 -- 遠野志貴に先行して、代行者は夜の校舎に潜入した。
-Leaving Tohno Shiki behind, the Executor infiltrates the school building of the night.
+// Stop using 夜 as an adjective I'm begging you
+Leaving Tohno Shiki behind, the Executor infiltrates the darkened school building.
 }
 [sha:68b62d0872a40e30e9392ffc92cf2f36f2592a12]{
 -- Page 10004, Offset 32377.
 -- 突入ではない。潜入だ。
-She does not rush in. Instead, she sneaks inside.
+This is no headlong assault. It's a clandestine affair.
 }
 [sha:c9be2b6e5f837e04fae6a706fd2910720e1d385a]{
 -- Page 10004, Offset 32378.
 -- 敵地に踏み込む事には慣れている。
-She is already used to stepping into enemy territory.
+She's already well accustomed with how to raid enemy territory.
 }
 [sha:515b49931de6d2b56f78c97a1f4851a3b7b2462c]{
 -- Page 259, Offset 32379.
 -- 代行者シエルにとって吸血鬼退治は“使命”であって“矜持”ではない。
-For an Executor like Ciel, slaying vampires is her 'mission', and not her 'pride'.
+To Ciel the Executor, slaying vampires is a matter of professionalism not of pride.
 }
 [sha:62ac530561a25e0f0147362253649838ca0643de]{
 -- Page 259, Offset 32380.
 -- 正面から突入するなど、ましてや正々堂々と戦いを挑むなど、それこそ正気を疑う行動である。
-The act of rushing in through the front, or even challenging him to a fair fight, would make her question her own sanity.
+The thought of barreling in through the front door would be insane to her,
+ as would the idea of challenging him to a fair fight.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 260, Offset 32381.
@@ -31,27 +33,30 @@ The act of rushing in through the front, or even challenging him to a fair fight
 [sha:c6e223e603c7f2d2fb378fc5b422738495d7c261]{
 -- Page 260, Offset 32382.
 -- 影のように身を進ませる。
-Like a shadow, she advances forward.
+She advances like a creeping shadow.
 }
 [sha:f18bf0a12cfd992d33b84f09084f6350d03e2fd8]{
 -- Page 260, Offset 32383.
 -- 物音ひとつ立てないのは当然として、自らの気配……匂い、体温、鼓動といった生体反応すら外界に漏らしていない。
-Naturally, she does not make a single sound. But her presence... her scent, warmth, heartbeat and other bodily reactions are also suppressed from the outside world.
+Naturally, she doesn't make a single sound.
+ But more than that, she doesn't let slip even a hint of her presence...
+ Her scent, her body heat, her heartbeat―――all evidence that she exists as a living being is erased.
 }
 [sha:9a962bb3625c49e9986b659e78cfaad4ee44fd9e]{
 -- Page 260, Offset 32384.
 -- 今は思考する事さえ封殺している。
-She even goes as far as to suppress her thoughts.
+She even goes so far as to suppress her thoughts.
 }
 [sha:8085bdcde44f24f11702c013363d1683f3c29771]{
 -- Page 261, Offset 32385.
 -- 吸血鬼の中には侵入者が“そう考えた”時点で因果を結び、感知するものもいる。
-There are those among vampires that can connect 'cause and effect', and sense an intruder the moment a thought is raised.
+There exist some vampires who are able to detect the ripples of cause and effect brought about by an intruder's thoughts.
 }
 [sha:db63588cedcb18a812d22b08b0b9d78a39c8cc90]{
 -- Page 261, Offset 32386.
 -- 今夜のミハイル・ロア・バルダムヨォンがその域に達しているかは定かではないが、真祖アルクェイドであればその程度の空間支配は行うだろう。
-It's not clear whether Michael Roa Valdamjong has reached that level as of tonight, but for a True Ancestor like Arcueid, that level of space domination would be possible.
+It's not clear whether Michael Roa Valdamjong has reached that level as of tonight,
+ but a True Ancestor like Arcueid can almost certainly exert that amount of dominion over the area.
 }
 [sha:2a5123cec8ad8b512aded2a0ad1c57b92486c48d]{
 -- Page 262, Offset 32387. Mods: @n.
@@ -61,12 +66,14 @@ If Arcueid realizes that Ciel has infiltrated the area,
 [sha:8138e7aff0add6c14ede4a2231738d64e661bb7c]{
 -- Page 262, Offset 32388. Glued.
 -- アルクェイドと対峙するロアにも状況は伝播する。
-then the situation will also be transmitted to her opponent, Roa.
+// Leading space for glue
+// Reading 伝播 loosely, rather than vampire to vampire radio
+ then that information will also become known to her opponent, Roa.
 }
 [sha:1270a0851673eb30b98399b28e31bbfd31bf9ab9]{
 -- Page 262, Offset 32389.
 -- それでは奇襲は成立しない。
-If that happens, a surprise attack will not be possible.
+If that happens, then a surprise attack is off the table.
 }
 [sha:0f5e287935e4a22fa358c6bf6e7736b0993bc68a]{
 -- Page 263, Offset 32390.
@@ -76,22 +83,22 @@ In order to avoid that scenario, Ciel turns herself into a puppet.
 [sha:ca7964a8f017c948759fd8d8a8a10677935729a7]{
 -- Page 263, Offset 32391.
 -- 自らが定めた『命令』だけを行う、何も考えない、何ごとにも動じない、自動人形になったのである。
-She turns herself into an automata that follows her own pre-determined path, without thought, unshaken by her surrounding.
+An automaton that only follows the orders she's lain out in advance, unthinking, unswerving.
 }
 [sha:9d6c030ef6daeddd01ef9ed586de1f08272d9328]{
 -- Page 264, Offset 32392.
 -- シエルは自動的に、ロアの死角になる確殺地点に移動する。
-Automatically, Ciel moves toward Roa's blind spot that will become the place of his certain death.
+Ciel mechanically advances on the blind spot that will spell Roa's inevitable death.
 }
 [sha:5630be87ba37db84f2a112f43efcdfb3c0f80edc]{
 -- Page 264, Offset 32393.
 -- 周囲の情報は感知魔術によって把握していた。
-She understands the information of her surroundings through Perception Magecraft.
+Through Perception Magecraft she can sense what's going on around her.
 }
 [sha:9a571803ab01423f50d19b12bb196feea538f5f0]{
 -- Page 265, Offset 32394.
 -- ロアは体育館に多数の魔術式を敷いて待ち構えている。
-Roa has laid out a great number of magical formulas, lying in wait in the gymnasium.
+Roa lies in wait in the gymnasium, surrounded by a vast number of magical formulas he's inscribed.
 }
 [sha:0564373c8d8349502ae9d9044253add6783ad12b]{
 -- Page 265, Offset 32395.
@@ -101,27 +108,28 @@ Arcueid is moving toward the gymnasium through the connecting hallway.
 [sha:9ad63e4a33b02774ef95bd220bd7ad93b8db6b64]{
 -- Page 265, Offset 32396.
 -- ちりちりとコンクリートの表面が焦げている。
-The concrete surface sparks and scorches.
+Sparks fly across the concrete face of the building.
 }
 [sha:7f2b4a0503846bbea0b1ab8d39890e9dc687ab4a]{
 -- Page 266, Offset 32397.
 -- ロアがここまで貯蔵した<魔|オ><力|ド>と、
-The <magical energy|o d   > that Roa preserved until now,
+The <magical energy|o d    > that Roa has been gathering up until now―――
 }
 [sha:56b0bf6f1be606d72298fc24805698797bc0a76c]{
 -- Page 266, Offset 32398.
 -- アルクェイドの持つ魔力は拮抗している。
-contends with Arcueid's own magical energy.
+is jockeying for supremacy with Arcueid's own magical energy.
 }
 [sha:b4c0976a0c4059822e66f1769c38ddc8e586cc6e]{
 -- Page 266, Offset 32399.
 -- シエルに意識があれば火薬庫を連想しただろう。
-If Ciel had been conscious, it would have reminded her of an ammunition dump.
+If Ciel had been conscious, it would have reminded her of a powder keg.
 }
 [sha:cc10453c9e1f1152ea56f1f7b566621b0861017c]{
 -- Page 266, Offset 32400.
 -- 帯電すらしている魔力濃度は、わずかな働きで反応し、侵入者ごと爆発しかねない。
-The concentration of electrical magical energy reacts to the slightest movement, potentially exploding each and every intruder.
+The concentration of magical energy is almost electric,
+ and even the slightest movement could set off a reaction that could blow an intruder sky high.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 267, Offset 32401.
@@ -131,7 +139,7 @@ The concentration of electrical magical energy reacts to the slightest movement,
 [sha:7d9e1bb7a4d0fd5051adce397c4d66d365ebf4a8]{
 -- Page 267, Offset 32402.
 -- “遠野志貴はこの中を通るのだろうか？”
-'Will Tohno Shiki go through there?'
+'Will Tohno Shiki make his way through there?'
 }
 [sha:f501833440bf8d3f3da63a82854db26b03e9a6b6]{
 -- Page 267, Offset 32403.
@@ -141,17 +149,17 @@ Even a thought like that won't present itself now.
 [sha:c4b3e7b530244601b290a2609959de9773ac79db]{
 -- Page 268, Offset 32404.
 -- 中庭から屋上に向かう殺戮装置。
-A slaughtering apparatus ranging from the courtyard all the way to the rooftop.
+She is nothing more than a killing machine, making her way from the courtyard towards the rooftop.
 }
 [sha:14c073d4ed1801a1ebab0eac1553072a81aa8e3c]{
 -- Page 268, Offset 32405.
 -- たとえロア本人であろうと、今の彼女から“意識”を取り戻させる事はできない。
-Even if Roa himself were to appear, the current Ciel would not be able to regain her consciousness.
+Not even the appearance of Roa himself would be enough to shock her back to consciousness.
 }
 [sha:17815fef6fa4099f559cdb245f1ce02f924f59a1]{
 -- Page 268, Offset 32406.
 -- その上で、
-In addition...
+In addition―――
 }
 [offset:32407]{
 -- Page 269, Offset 32407.
@@ -166,27 +174,30 @@ Over there.
 [sha:d3f08a29c5b7135bb1b44570b86097d68cfcf2c9]{
 -- Page 269, Offset 32409.
 -- 致命的な運命のように、目を疑う<何|・><か|・>がいた。
-Like a deadly fate, there is something that makes her doubt her own eyes.
+Over there is some %{i}thing%{/i} that makes her doubt her own eyes,
+ a ghoulish herald of death.
 }
 [sha:86b747fd8ced681f32e28eb904a48444792168ed]{
 -- Page 270, Offset 32410.
 -- 異質なものが壁に張り付いている。
-The abnormal creature clings itself onto the walls.
+The abnormal creature clings to the wall.
 }
 [sha:23f710e926f798d1c7662a93a50c544c8adfba42]{
 -- Page 270, Offset 32411.
 -- 多くの死徒、多くの怪物を斃してきたシエルですら、見た事はおろか、聞いた事もない異形だった。
-Even for Ciel, who has defeated countless Dead Apostles and other monsters, it is a grotesque thing she has never heard of, let alone seen.
+Even for Ciel, who has dispatched countless Dead Apostles and other monsters,
+ this grotesque beast is something she has never even heard of, let alone seen.
 }
 [sha:91e41bf64b8f89d6de8a1761401635fd9b581dfc]{
 -- Page 271, Offset 32412.
 -- 樹皮のような、革のような、硬くしなやかな外皮。
-Its outer skin is hard and supple like bark and leather.
+Its outer skin is hard yet supple,
+ in some ways like bark, in others like leather.
 }
 [sha:56c0539ba29df7b597db96b706286d50e70c3a37]{
 -- Page 271, Offset 32413.
 -- だらしなく肥大化した腹部。
-Its abdomen is disheveled and swollen.
+Its abdomen is distended and misshapen.
 }
 [sha:fe2724049a2ace4f86db6ed5f44719e482ebbb7a]{
 -- Page 271, Offset 32414.
