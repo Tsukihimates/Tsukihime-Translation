@@ -21,7 +21,7 @@ Arcueid casually calls out to me with a light-hearted tone.
 [sha:63d9e6643c43f04bcc1a528f6e0140e59018abb6]{
 -- Page 33, Offset 8677.
 -- 「い、いや、別に。えーと……その、お、おはよう」
-"N-No. It's nothing. Uhh... well, g-good morning."
+"N-No. It's nothing. %{i}Uhh%{/i}... well, g-good morning."
 }
 [sha:3b3a438b684dd558b7692593de6e85aca2f8a53c]{
 -- Page 34, Offset 8678.
@@ -31,7 +31,7 @@ Arcueid casually calls out to me with a light-hearted tone.
 [sha:d4ac4117082e5155fad4a48d91a270a916058e10]{
 -- Page 34, Offset 8679.
 -- ふふ。朝の挨拶をするなんて、珍しい経験ね」
-Hehe. It's rare for me to greet someone in the morning like this."
+%{i}Hehe%{/i}. It's rare for me to greet someone in the morning like this."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 35, Offset 8680.
@@ -96,7 +96,7 @@ I'm glad that at least the people close to me are safe.
 [sha:c3d01ff11e68ba5df0ee991c8b514e5e9a59661c]{
 -- Page 39, Offset 8692.
 -- 「……ん？」
-"...Hmm?"
+"...%{i}Hmm%{/i}?"
 }
 [sha:e18d2866524472dc26118f5545c8dd29779541df]{
 -- Page 39, Offset 8693.
@@ -126,7 +126,7 @@ I'm glad your wound wasn't that big of a deal after all."
 [sha:e1a4703e265ce18fa656472c45b444580ad0273d]{
 -- Page 40, Offset 8698.
 -- 「へえ、どうしたのよ志貴。ちょっと前までは、わたしのこと化け物呼ばわりしてたクセに」
-"Oh, what's the matter, Shiki? You were calling me a monster just a while ago."
+"%{i}Oh%{/i}, what's the matter, Shiki? You were calling me a monster just a while ago."
 }
 [sha:08d2561b193409b4a9f6231bf6d2bbf8ad8eb9e7]{
 -- Page 41, Offset 8699.
@@ -271,7 +271,7 @@ Or to be precise, I don't think there is anyone other than her that I'd even wan
 [sha:be370f298b77d470942d9986d4445ba2231c6f94]{
 -- Page 56, Offset 8727.
 -- 「―――あ」
-"―――Ah."
+"―――%{i}Ah%{/i}."
 }
 [sha:a07b92021c640caa1b8af5f09006a5a8fa19c8f3]{
 -- Page 56, Offset 8728.
@@ -456,7 +456,7 @@ I mercilessly assault Arcueid's eardrums with as much volume as I can muster.
 [sha:e60a0dc7b5475ab220e509a216a72985b55b951f]{
 -- Page 73, Offset 8764.
 -- 「いっ……たあ………」
-"Ou...ch......"
+"%{i}Ou...ch%{/i}......"
 }
 [sha:4d411a8b3607bb0625c81c96a1f58a29492689e4]{
 -- Page 73, Offset 8765.
@@ -481,7 +481,7 @@ I knew something was off when you gave me such an absurdly difficult order, but 
 [sha:427d8e7c1085d9fcba3a48fe5b2947200318117a]{
 -- Page 75, Offset 8769.
 -- 「え……？　そういうコトって、なに……？」
-"Eh...? What do you mean 'get it'...?"
+"%{i}Eh%{/i}...? What do you mean 'get it'...?"
 }
 [sha:6dc55a6a8df25d136f3ec7542bc9fe7d44f193a9]{
 -- Page 76, Offset 8770.
@@ -491,7 +491,7 @@ I knew something was off when you gave me such an absurdly difficult order, but 
 [sha:f7fac656ba73b941b1e4f5d586b6bd4d40d706a4]{
 -- Page 76, Offset 8771.
 -- ああもう、とんでもない勘違いをしやがって！
-Oh come on, this is a huge misunderstanding!
+%{i}Oh%{/i} come on, this is a huge misunderstanding!
 }
 [sha:e87ff8aa4e3516ed8e27f3fbe0587bb44b414e9a]{
 -- Page 76, Offset 8772.
@@ -526,7 +526,7 @@ I've never thought even once about wanting to use these 'lines' to kill a person
 [sha:33e722a9b63b4ce5530e2376c6ef8f217273e7ab]{
 -- Page 80, Offset 8778.
 -- 「……ふうん。それじゃあどうして、見ず知らずのわたしを殺したりしたのよ」
-"...Hmm. If that's the case, why did you go and kill a complete stranger like me?"
+"...%{i}Hmm%{/i}. If that's the case, why did you go and kill a complete stranger like me?"
 }
 [sha:5705ce51490808784717eb1bf8c3b6b3f10082a3]{
 -- Page 80, Offset 8779.
@@ -608,7 +608,7 @@ Losing my ability to stand, I fall to my knees.
 [sha:14b657ded36a12c9d9e8a6fe76ae8648c7393d23]{
 -- Page 87, Offset 8794.
 -- ……ああ、そうだった。俺が、アルクェイドに怒りを向ける資格なんて、なかったんだ。
-...Ah, that's right. I had no right to be mad at Arcueid.
+...%{i}Ah%{/i}, that's right. I had no right to be mad at Arcueid.
 }
 [sha:1bdc2a17ef2fde1cd082ba81e41cc48a775cf18f]{
 -- Page 87, Offset 8795.
@@ -939,7 +939,7 @@ However, I finally come to realize that there was a faint sign of pain in her ex
 [sha:e4b291f7eeb9cac721442f807b7fccf42b59ea0f]{
 -- Page 114, Offset 8860.
 -- 「えーっと、それ」
-"Ummm, that."
+"%{i}Ummm%{/i}, that."
 }
 [sha:f38126b0863cdede253157ed21e322e9d6d45bf0]{
 -- Page 115, Offset 8861.
@@ -1164,7 +1164,7 @@ Arcueid. You said that you were rich, right?"
 [sha:66a4c1e0a40d5daa8ac01954313c3c73c12b15c5]{
 -- Page 134, Offset 8905.
 -- 「おまえは黙って横になってろ。あ、でも眠っちゃだめだからな。横になってもちゃんと起きてるんだぞ」
-"You should just lie down and stay quiet. Ah, but you can't fall asleep. Make sure that you stay awake even when you're lying down."
+"You should just lie down and stay quiet. %{i}Ah%{/i}, but you can't fall asleep. Make sure that you stay awake even when you're lying down."
 }
 [sha:2b01ae829778f243691f440d403b1c393a636643]{
 -- Page 134, Offset 8906.
@@ -1189,7 +1189,7 @@ Sleeping will only help you recover from fatigue, it won't heal wounds or illnes
 [sha:6f3a6e1d57f241e0ef56ab65fad7e409816fd4d3]{
 -- Page 136, Offset 8910.
 -- 「―――へえ。うん、それってその通りよ」
-"―――Hmm. Yeah, that sounds about right."
+"―――%{i}Hmm%{/i}. Yeah, that sounds about right."
 }
 [sha:f0c6e8a59a9cc79185e0825f763f012dff1849df]{
 -- Page 136, Offset 8911.
@@ -1275,7 +1275,7 @@ It goes without saying who this was prepared for.
 [sha:6f92a471628208317b0dcbf3aa010c28ca9ed060]{
 -- Page 142, Offset 8927.
 -- 「ああもう―――なんなんだ、あいつ」
-"Oh come on―――what the hell is wrong with her?"
+"%{i}Oh%{/i} come on―――what the hell is wrong with her?"
 }
 [sha:aad7d1ff85962eca53d19a15e011b8fb8e95cc78]{
 -- Page 142, Offset 8928.

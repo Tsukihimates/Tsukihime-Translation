@@ -41,7 +41,7 @@ The me that cares about the woman takes a back seat.
 [sha:5f753a79e6940f5aa6b4ee61f02470e933e05b26]{
 -- Page 854, Offset 26721.
 -- 『―――ああ』
-"―――Aaah."
+"―――%{i}Aaah%{/i}."
 }
 [sha:ee4a8d67f7c27a0dacd3a69f533e6ccf2c190927]{
 -- Page 855, Offset 26722.
@@ -56,7 +56,7 @@ An aneurysm that blocks off all reason.
 [sha:5f753a79e6940f5aa6b4ee61f02470e933e05b26]{
 -- Page 855, Offset 26724.
 -- 『―――ああ』
-"―――Aaah."
+"―――%{i}Aaah%{/i}."
 }
 [sha:bc3f6b780ffc192c43c64992b82ebac8000e4017]{
 -- Page 856, Offset 26725.
@@ -86,7 +86,7 @@ Even when I kill her, I really can't get enough of this...
 [sha:3ec6b9d414968d0afe8f9ea3ff07218b75734e0e]{
 -- Page 856, Offset 26730.
 -- 『―――あああ』
-"―――Aaaaah."
+"―――%{i}Aaaaah%{/i}."
 }
 [sha:77bd906551b656d4100329b82c252943aa69b1b8]{
 -- Page 857, Offset 26731.
@@ -112,7 +112,7 @@ Acting automatically, or perhaps out of some biological imperative,
 [sha:6c75bfa4a9bcd9e5c8044a73e17566bfccc6627e]{
 -- Page 857, Offset 26735.
 -- 『―――あああああ[ber00][ber00][ber00][ber00]―――！』
-"―――AAAAA[ber00][ber00][ber00][ber00]―――!"
+"―――%{i}AAAAA%{/i}[ber00][ber00][ber00][ber00]―――!"
 }
 [sha:67a0a3b454f5194150ff62d2d4848405632d17b6]{
 -- Page 857, Offset 26736.
@@ -127,7 +127,7 @@ Until dawn breaks after <Seven Nights|N a n a t s u - Y o r u      >, I'll forge
 [sha:579251ec90a817b49ef70d7a9542948dd69e9463]{
 -- Page 858, Offset 26738. Glued. Mods: @x.
 -- はあ」
- hah."
+ %{i}hah%{/i}."
 }
 [sha:780afd4385eeac7ae47edf95b81197533ab642fc]{
 -- Page 858, Offset 26739. Mods: @n.
@@ -178,7 +178,7 @@ Even if I turned heel and headed home, I've long since lost a place to return to
 [sha:68c20778193b71252c3b22cb0debfb898ee45dba]{
 -- Page 860, Offset 26748.
 -- 「―――ああ、おまえか」
-"―――Ah, it's you."
+"―――%{i}Ah%{/i}, it's you."
 }
 [sha:ebab22a9301139a41cfdd9851fd36ee8855ff3f0]{
 -- Page 860, Offset 26749.
@@ -284,5 +284,5 @@ I have no regrets.
 [sha:72d40d8ed469447fd3bbf67d73cadf02c1146823]{
 -- Page 864, Offset 26769.
 -- でもまあ、わざわざ始末しに来てくれた黒豹ちゃんに、礼ぐらい言いたかったぜ。
-...Although I would have liked to at least give my thanks to that blank panther-chan for coming all this way to finish me off.
+...Although I would have liked to at least give my thanks to that black panther-chan for coming all this way to finish me off.
 }

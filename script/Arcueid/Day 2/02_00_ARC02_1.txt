@@ -114,7 +114,7 @@ I could have sworn I told you yesterday it makes me uncomfortable―――
 [sha:ac6deacd4e8dcec15a66b3be22a2d781fa684c2b]{
 -- Page 8, Offset 2617.
 -- 「――――――、ん」
-"――――――nnnh."
+"――――――%{i}nnnh%{/i}."
 }
 [sha:f772757c83dc0cd54ca67b89ce6706892e2d7397]{
 -- Page 8, Offset 2618.
@@ -154,7 +154,7 @@ The girl in the maid uniform bows.
 [sha:73e1863469c356245678fb65bc268f76edcad2f6]{
 -- Page 10, Offset 2625.
 -- 「……ああ、そうか。遠野の家に戻ってきたんだっけ」
-"...Ah, I see. I've returned to the Tohno mansion, haven't I?"
+"...%{i}Ah%{/i}, I see. I've returned to the Tohno mansion, haven't I?"
 }
 [sha:5d8dd63aa6dda587a08f00214db729fea95c40dc]{
 -- Page 11, Offset 2626.
@@ -297,7 +297,7 @@ I go down to the first-floor lobby.
 -- Page 20, Offset 2653.
 -- 着替えといってもシャツと下着を替えて、あとは定番の学生服を着ただけだ。
 I said I'd get changed, but only my shirt and underwear are fresh.
- The rest of my school uniform is the same as I'd had on yesterday.
+ The rest of my school uniform is the same as I had on yesterday.
 }
 [sha:00d13a9944c891b3aadd03992b164ca1d40b4841]{
 -- Page 20, Offset 2654.
@@ -357,12 +357,12 @@ However―――
 [sha:385490faa541e70e5790e052be63927aa013436c]{
 -- Page 24, Offset 2664.
 -- 「……しまった。昨日のうちに言っておくべきだった」
-"...Oh no. I should have told you yesterday."
+"...{i}Oh no%{/i}. I should have told you yesterday."
 }
 [sha:3bbe33ff62e4245c27de270d78af0ca6ea7fdf3e]{
 -- Page 24, Offset 2665.
 -- 「あ。もしかして苦手なものが入っていました？
-"Oh, is there something in there you don't like?
+"%{i}Oh%{/i}, is there something in there you don't like?
 }
 [sha:75632314fd4d491e534ad4c95c06a5a8a2275b3b]{
 -- Page 24, Offset 2666.
@@ -406,7 +406,7 @@ I'm feeling good this morning, so I think I can probably eat half a bowl,
 -- Page 26, Offset 2673.
 -- 「すみません。事故の後遺症のようなもので、こればかりはどうしようもないというか……あ、で、でも、すごく美味しそうなのは分かります！　この朝食は完璧ですね！」
 "I'm sorry. It's just the after-effects of an accident, and there's not much I can do about it...
- Ah, b-but I can tell it looks really good! This breakfast is absolutely perfect!"
+ %{i}Ah%{/i}, b-but I can tell it looks really good! This breakfast is absolutely perfect!"
 }
 [sha:9c6f4eb1c9bceb0514372d44da8ba05ce884943b]{
 -- Page 27, Offset 2674.
@@ -498,7 +498,7 @@ I'm the one who should be pleased, especially after seeing a face like that.
 [sha:bf967d8a0f8c97e31940ccbbd37b556858595a21]{
 -- Page 35, Offset 2691.
 -- 「……と、いけません、もうこんな時間です。
-"...Oh no, it's already this late.
+"...{i}Oh no%{/i}, it's already this late.
 }
 [sha:551e3535870c087264f2d65d97639121346a0834]{
 -- Page 35, Offset 2692.

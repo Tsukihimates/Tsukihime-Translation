@@ -232,7 +232,7 @@ I definitely killed her, without a doubt―――
 [sha:d828b88c0a3f0e7bd977359bc2e9f3747f0af662]{
 -- Page 114, Offset 5856.
 -- 「――――――は、ァ」
-"―――――Ha―a"
+"―――――%{i}Ha―a%{/i}."
 }
 [sha:fa7efee1efdc2c30eb7cd0fbf881d2057b469439]{
 -- Page 114, Offset 5857.
@@ -477,7 +477,7 @@ Without any regard for shame or appearances, I keep running as fast as I can alo
 [sha:e36d3310ea398d7ffbee0a09778326e7cf8edd98]{
 -- Page 129, Offset 5905.
 -- 「はっ、はっ、はっ、はっ、はっ―――――！」
-"Hah, hah, hah, ha―――――!"
+"%{i}Hah, hah, hah, ha%{/i}―――――!"
 }
 [sha:aef7487f292bb71e0e35fdc51a45ad0c083aefe6]{
 -- Page 129, Offset 5906.
@@ -547,7 +547,7 @@ That itself is more than enough reason for my frenzy.
 [sha:6e44077b27b0bf3a4736890f48ae9318bcbe1ee9]{
 -- Page 133, Offset 5919.
 -- 「はっ、はっ、はあ――――――！」
-"Hah, hah, hah――――――!"
+"%{i}Hah, hah, hah%{/i}――――――!"
 }
 [sha:1e7a44998afd5e3b188a92f9c71cc9d84eaa9d07]{
 -- Page 133, Offset 5920.
@@ -567,7 +567,7 @@ She's chasing me with footsteps as light as a feather.
 [sha:8cd192ff7d33575b6a110957b13b89c7ba6e2914]{
 -- Page 134, Offset 5923.
 -- 「はっ、はっ、はっ、はっ―――――！」
-"Ha, ha, ha, ha―――――!"
+"%{i}Ha, ha, ha, ha%{/i}―――――!"
 }
 [sha:177e359776fee16a2649c3cd9d35f40d8c832c8a]{
 -- Page 134, Offset 5924.
@@ -592,7 +592,7 @@ So why is it, if I'm running as fast as I possibly can, that I can't shake off t
 [sha:2d7e36ac5951e79907f5872bd43e0387f3304745]{
 -- Page 135, Offset 5928.
 -- 「はっ、はっ、はっ、はっ――――」
-"Ha, ha, ha, ha――――"
+"%{i}Ha, ha, ha, ha%{/i}――――"
 }
 [sha:1b745084d481b8ef45f0aef4978bbaad41d05740]{
 -- Page 135, Offset 5929.
@@ -622,7 +622,7 @@ It's like a ghost burned into a rearview mirror.
 [sha:aabf21638d27e05202810285ed246fc93a23f3fb]{
 -- Page 136, Offset 5934.
 -- 「………はっ、はっ、はっ、はは、はははは」
-"......Haha, haha, haha, hahahaha"
+"......%{i}Haha, haha, haha, hahahaha%{/i}."
 }
 [sha:028aefbaed358e7b620aeb242a16121cf550800d]{
 -- Page 136, Offset 5935.
@@ -632,7 +632,7 @@ I laugh even though it's not funny. I continue to run while laughing.
 [sha:44356207daec97532254d55b749a86b9658b3d28]{
 -- Page 137, Offset 5936.
 -- 「はは、ははは、あははははははは！」
-"Haha, haha, ahahahahahaha!"
+"%{i}Haha, haha, ahahahahahaha%{/i}!"
 }
 [sha:41865c70201cb075509559815e452c73600f9f49]{
 -- Page 137, Offset 5937.
@@ -692,7 +692,7 @@ It's just a fact that my life will end the moment I'm cornered.
 [sha:7c968244bf26f104680a09585037d7c88c0f1457]{
 -- Page 141, Offset 5948.
 -- 「あっ―――」
-"Ah..."
+"%{i}Ah%{/i}..."
 }
 [sha:71f147e38e0bade91f1dfad48c5f3626790bd58a]{
 -- Page 141, Offset 5949.
@@ -707,7 +707,7 @@ It's not that I stumbled over my feet, but that I couldn't move my arms and legs
 [sha:792063abaf017e9e3ae9119eca1b9ad4a7d96d81]{
 -- Page 142, Offset 5951.
 -- 「っ……ア、は……っ！」
-"...Ah, ha...!"
+"...%{i}Ah, ha%{/i}...!"
 }
 [sha:bb5144f7e04b5764aaf163d9a9640a5c78a0abee]{
 -- Page 142, Offset 5952.
@@ -732,7 +732,7 @@ As it is, my body couldn't move anymore.
 [sha:c6be83d171ffaea9e7fb810b33c27f1c8c9070f2]{
 -- Page 144, Offset 5956.
 -- 「はあ―――はあ、はあ―――」
-"Ha―――ha, ha―――"
+"%{i}Ha―――ha, ha%{/i}―――"
 }
 [sha:05606e5235a7d031c51964ac033a0b21d1a7965d]{
 -- Page 144, Offset 5957.
@@ -917,7 +917,7 @@ I move my feet with that thought, but there's a concrete wall behind me, so I ca
 [sha:b8d28700164dbf8dcee327429575e058f1350ddd]{
 -- Page 154, Offset 5993.
 -- 「ん？　追い駆けっこは終わりなんでしょ？
-"Hmm? I thought we were done playing tag.
+"%{i}Hmm%{/i}? I thought we were done playing tag.
 }
 [sha:c5319089462d299eba9426fb963a53124c874c4e]{
 -- Page 154, Offset 5994.
@@ -992,7 +992,7 @@ It was a reply I didn't want to hear, whether it was a lie or the truth.
 [sha:792c05fab68ff1bfe830661b5d761104fd05590b]{
 -- Page 159, Offset 6008.
 -- 「ふざけるな、死んだ人間が生きてるハズがないだろう！」
-"―――Tch, don't be ridiculous. A person who's dead can't possibly be alive!"
+"―――%{i}Tch%{/i}, don't be ridiculous. A person who's dead can't possibly be alive!"
 }
 [sha:ed2f0b1ea320739377a086eab4333af14f4d196f]{
 -- Page 159, Offset 6009.
@@ -1117,7 +1117,7 @@ It's a thing that takes the form of a human, but it can't be called a human.
 [sha:ec34944f5d9ec2f34e94296d3b280e1ad4a264de]{
 -- Page 167, Offset 6033.
 -- 「――――、は―――」
-"――――――Ha―――"
+"――――――%{i}Ha%{/i}―――"
 }
 [sha:e53c99c983132a84f6f5c950bc3f6118d0ffde28]{
 -- Page 167, Offset 6034.
@@ -1157,7 +1157,7 @@ If this woman is not human, it might make sense that she is still alive, even th
 [sha:62ffeb40a6a845ae289ca8516bee1059411ead22]{
 -- Page 170, Offset 6041.
 -- 「は……はは、は……」
-"Ha... ha, ha..."
+"%{i}Ha... ha, ha...%{/i}"
 }
 [sha:9a879da6f6d47726309f846094bd15cdba5eb95c]{
 -- Page 170, Offset 6042.
@@ -1392,7 +1392,7 @@ I found out that the person I killed wasn't even human!
 [sha:9b921aaf6032f42a61a46a9a208343a3dee1aef4]{
 -- Page 10009, Offset 6088.
 -- 「――――――は、はは」
-"―――――――――Ha, haha"
+"―――――――――%{i}Ha, haha%{/i}."
 }
 [sha:7f63431c0ccd8756679dcd3bf8269394706a8933]{
 -- Page 10009, Offset 6089.
@@ -1487,7 +1487,7 @@ However, I never would have dreamt that a case such as this would have existed.
 [sha:dfe658e02809aa492b44a82fe69f35c7e718c761]{
 -- Page 195, Offset 6107.
 -- 「ふーん………」
-"Hmmm..."
+"%{i}Hmmm%{/i}..."
 }
 [sha:30a3d73d227f0b2a4b05fe66f17b75c50d3cb156]{
 -- Page 195, Offset 6108.
@@ -1537,7 +1537,7 @@ The woman looks at me straight in the face.
 [sha:65d4cd85cbb1aa54aa69f95a8c0787272860c607]{
 -- Page 199, Offset 6117.
 -- 「……え？」
-"...Eh?"
+"...%{i}Eh%{/i}?"
 }
 [sha:476acb5aa4de40b2a0fd03564832a48dc563cd87]{
 -- Page 200, Offset 6118.

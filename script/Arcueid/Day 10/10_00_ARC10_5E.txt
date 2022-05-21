@@ -101,12 +101,12 @@ The three swords together form a triangle, with me at its center, trapped within
 -- 「ふふ、師匠譲りの<秘蹟|ひせき><黒鍵|こっけん>、聖堂よ。
 // Likely 聖堂 from ドヤナリヤ三角聖堂, same as 08_00_ARC08_8
 // Translated loosely as 'temple' before
-"Hehe. Behold, the sacramental %{i}Black Keys%{/i} I inherited from my master. A temple.
+"%{i}Hehe%{/i}. Behold, the sacramental %{i}Black Keys%{/i} I inherited from my master. A temple.
 }
 [sha:87e5a965a56ff711a05355c8a61885929944bb50]{
 -- Page 632, Offset 25955.
 -- あ、くれぐれも壁には触れないようにね？　触ったら塩の柱になっちゃうから。ま、キミの手が塩化しようが、わたしにはどうでもいいんだけど。
-Ah, try not to touch the walls, okay? Otherwise you'll turn into a pillar of salt.
+%{i}Ah%{/i}, try not to touch the walls, okay? Otherwise you'll turn into a pillar of salt.
  Well, not that it matters to me whether your hand gets chlorinated or not.
 }
 [sha:6be579cec796687421b685057587144fa3a58fbb]{
@@ -169,7 +169,7 @@ They've become whirling maelstroms of hostility,
 [sha:1702ebacdf91f8cba8dd4698584d4aaff74c2307]{
 -- Page 635, Offset 25967.
 -- 「っっっ……！　無理、やっぱ無理！
-"Eek...! I can't, I knew I couldn't do this!
+"%{i}Eek%{/i}...! I can't, I knew I couldn't do this!
 }
 [sha:584e0b2fed74008bf68ebdd58d9d1a443f3e63f5]{
 -- Page 635, Offset 25968.
@@ -189,7 +189,7 @@ It's your job to put yourself on the line against monsters like her."
 [sha:7c168ecf191decd5ee00a6da17fa1e080c37d878]{
 -- Page 636, Offset 25971. Mods: @k, @e.
 -- 「あわわ、あわわわわ！　ああもう、後でぜぇっっったい、
-"Awawa, awawawawa! Okay, fine, but after this you'd better―――
+"%{i}Awawa, awawawawa%{/i}! Okay, fine, but after this you'd better―――
 }
 [sha:9dfd4d39bb7251e11fb47abf8e77f5576d421066]{
 -- Page 636, Offset 25972.
@@ -240,7 +240,7 @@ W-What? How the heck was she able to stop Arcueid with a half-hearted charge lik
 [sha:6b6570277053785c73ff635655d62d1779d7afec]{
 -- Page 641, Offset 25981. Mods: @k, @e.
 -- 「おう、やればできるじゃねえか。給料分しっかり働けよ。
-"Oh, so you %{i}can%{/i} do it if you try. Go work hard and earn your pay.
+"%{i}Oh%{/i}, so you %{i}can%{/i} do it if you try. Go work hard and earn your pay.
 }
 [sha:4bdef7c386d7190afaa61db9ca3fb1a8d4ceb0d8]{
 -- Page 641, Offset 25982.
@@ -289,7 +289,7 @@ They remind me of an old-school typewriter for some reason.
 -- 「あ？　なに見てんだガキ。こんなの珍しくもねえだろ。<操り|マリオ><人形|ネット>の一つも知らねえとか、ふざけたコトぬかすなよ。勤勉なのが日本人の美徳だろうが」
 // > マリオ[ネット]
 // oh I get it
-"Ah? What are you lookin' at, punk? This ain't rare, you know.
+"%{i}Ah%{/i}? What are you lookin' at, punk? This ain't rare, you know.
  You never seen a marionette before? Don't give me that crap.
  Aren't you Japanese people supposed to be diligent?"
 }
@@ -343,7 +343,7 @@ The woman in nun's clothing beats a hasty retreat.
 [sha:6d38d691e3ab533025faa83608c4dfb21ff28798]{
 -- Page 648, Offset 25999.
 -- 「“はぁ―――は、あ―――………！”」
-"Ha―――ha, ah―――!"
+"%{i}Ha―――ha, ah%{/i}―――!"
 }
 [sha:913cc0249fce42c27bb1673cba5f7926702cd86b]{
 -- Page 648, Offset 26000.
@@ -359,7 +359,7 @@ Arcueid crouches low to the ground, panting heavily, like a hulking predator get
 [sha:f7514b9e2d2658b91100f1d773e028b16015b3c3]{
 -- Page 649, Offset 26002.
 -- 「あーあ、ひでえもんだ。そこいらのグールと大差ねえじゃねえか。それでも最後の真祖かよ、姫様。ラウレンティスのジジイが見たらさぞ失望するだろうぜ」
-"Aaah, what an awful sight. You're no different from a Ghoul.
+"%{i}Aaah%{/i}, what an awful sight. You're no different from a Ghoul.
  And yet you're supposed to be the last of the True Ancestors, princess?
  Old man Laurentis would be disappointed if he saw this."
 }
@@ -670,7 +670,7 @@ No, you've got way too foul a mouth!
 [sha:fa2e282459ac8d5ac4846ef406c8d52db461e9b5]{
 -- Page 670, Offset 26057.
 -- 「……………、えっと」
-"Uh... what..."
+"%{i}Uh%{/i}... what..."
 }
 [sha:1fdab5fffb174f2dd56f2397eb5ab834b6bd5b8a]{
 -- Page 670, Offset 26058.

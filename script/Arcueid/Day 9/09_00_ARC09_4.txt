@@ -175,7 +175,7 @@ The sound of cicadas.
 [sha:262b8ebf500f025d40d933b69713437df5dd11ad]{
 -- Page 132, Offset 21650.
 -- 「――――――、ああ」
-"――――――Ah."
+"――――――%{i}Ah%{/i}."
 }
 [sha:1b88ddfc5adb8385c2ea350180a33b38f7ca09ec]{
 -- Page 132, Offset 21651.
@@ -221,7 +221,7 @@ At my feet...
 [sha:09c66d1b408004f02d793221337c41ec6db1f9b7]{
 -- Page 134, Offset 21659.
 -- 「い――――痛…………」
-"Ou――――ch..."
+"%{i}Ou――――ch%{/i}..."
 }
 [sha:389aa5b9d70031a037f4bbb21963ec857d928c19]{
 -- Page 134, Offset 21660.
@@ -361,7 +361,7 @@ Akiha's bloody, tear-streaked face flashes before my eyes.
 -- Page 139, Offset 21684.
 -- ……嗚呼。
 // Why the heck does 'Ah' have such a complicated Kanji anyway
-...Ah.
+...%{i}Ah%{/i}.
 }
 [sha:c128855e05b5d770396f3b1aa1ce41ce6ce429b1]{
 -- Page 139, Offset 21685.
@@ -371,7 +371,7 @@ The cries of the cicadas feel like needles trying to pierce a hole in my eardrum
 [sha:1ee7098e751b39d9a7aebe4662367a1416ca99fa]{
 -- Page 140, Offset 21686.
 -- 「あ――――ぐ」
-"Ah――――gh."
+"%{i}Ah――――gh%{/i}."
 }
 [sha:ffab3730a9b65ff85242a832539b58300a03d8f2]{
 -- Page 140, Offset 21687.

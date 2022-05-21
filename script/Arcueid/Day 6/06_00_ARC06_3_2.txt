@@ -235,18 +235,18 @@ I would have thought he'd be the type of person to look down on people for being
 [sha:50443da8531dd7479d3ded3098ee3f26975626f4]{
 -- Page 294, Offset 14629.
 -- 「私が？　あの使用人と？　……は。
-"Me? With that maid? ...Hah.
+"Me? With that maid? ...%{i}Hah%{/i}.
 }
 [sha:60bd56dece3787d5701abf52163fcde88cb10514]{
 -- Page 294, Offset 14630. Mods: @n.
 -- はは。ははは。
-Haha. Hahaha.
+%{i}Haha. Hahaha%{/i}.
 }
 [sha:0246d81a55e4112a5a5a967010f540aab301bf38]{
 -- Page 294, Offset 14631. Glued. Mods: @x.
 -- ははははは！」
 // Leading space for glue
- HAHAHAHAHA!"
+ %{i}HAHAHAHAHA%{/i}!"
 }
 [sha:d356f97b0fd714ad53ab0e7a86dfadb440529137]{
 -- Page 295, Offset 14632.
@@ -271,7 +271,7 @@ I don't need to ask what he finds so amusing.
 [sha:c91dbc8d63daf088ce1c0c8bee137df43a34af86]{
 -- Page 296, Offset 14636.
 -- 「ああ、いや、失敬。
-"Oh, no, excuse me.
+"%{i}Oh%{/i}, no, excuse me.
 }
 [sha:c7958d690bdf14f5ba049a0f50f48e2ff6d5d77c]{
 -- Page 296, Offset 14637.
@@ -302,7 +302,7 @@ Though between the two of them,
 [sha:65448d0931938fea7c719e6ce600b3ac5edd2762]{
 -- Page 298, Offset 14641.
 -- 「え」
-"Eh?"
+"%{i}Eh%{/i}?"
 }
 [sha:ba49ae1084f40f22eeca9b3019cdb0099ce5964c]{
 -- Page 298, Offset 14642.
@@ -349,7 +349,7 @@ This must mean the end of our conversation.
 [sha:427d192ee92c07217b54a4041c471b9b2726853a]{
 -- Page 301, Offset 14649.
 -- 「ああ、本題を聞き忘れていた。
-"Ah, I forgot to ask you something important.
+"%{i}Ah%{/i}, I forgot to ask you something important.
 }
 [sha:b3b0561bac1ecc9265329eed1b2305cb1e1f5a8a]{
 -- Page 301, Offset 14650.

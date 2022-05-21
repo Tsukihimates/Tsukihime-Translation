@@ -16,7 +16,7 @@ The rain has stopped, but the sky still looks cloudy.
 [offset:5572]{
 -- Page 2, Offset 5572.
 -- 「は―――あ」
-"Ha―――a"
+"%{i}Ha―――a%{/i}."
 }
 [sha:6702f846d9339f332442842b01e0b3c14f011d93]{
 -- Page 2, Offset 5573.
@@ -136,7 +136,7 @@ For making you see something so unpleasant."
 [sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
 -- Page 12, Offset 5596.
 -- 「？」
-"Hm?"
+"%{i}Hm%{/i}?"
 }
 [sha:07c08c5d169ed697d1a72b8ffc6b27a8ab5be592]{
 -- Page 12, Offset 5597.
@@ -271,7 +271,7 @@ I pour cold water on myself again and wash my body.
 [sha:cf90cfa9a6b093484fb8e0c96f215b288425fd02]{
 -- Page 23, Offset 5623.
 -- 「痛っ………」
-"Ouch......"
+"%{i}Ouch%{/i}......"
 }
 [sha:d344ea5690ca585e32092775922f1a096555f4df]{
 -- Page 23, Offset 5624.

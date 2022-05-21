@@ -1,17 +1,19 @@
 [sha:6443efefa2105c6359d66c3013de730225ecc467]{
 -- Page 53, Offset 621.
 -- 昼休み、廊下は行き交う生徒たちで雑然としている。
-The corridor is crowded with students passing by during lunch break.
+It's lunch break, and the corridor is filled with a jumble of students headed this way and that.
 }
 [sha:6719eda1ee308917e8db69d000aa7886362514ff]{
 -- Page 53, Offset 622.
 -- 学食に向かう生徒が大半だが、中には弁当を片手に友人のいるクラスにお邪魔したり、中庭や体育館に向かう生徒もいる。
-Most of them head for the cafeteria, but some visit their friends' classes with their lunch boxes in hand or head for the courtyard or the gym.
+Most of them are on their way to the cafeteria,
+ but some are going to visit their friends' classes with lunchboxes in hand,
+ or making their way to the courtyard or the gym.
 }
 [sha:361a9ee2370a4fa7b82a2956630c149ebde219d1]{
 -- Page 54, Offset 623.
 -- その流れに混ざりながら、食堂でしっかりとした昼食をとるか、購買でパンでも買って軽く済ませるかを迷っていると、
-As I mix in with the crowd, I wonder whether I should have a proper lunch in the cafeteria or buy a loaf of bread at the store.
+Losing myself in the crowd, I wonder if I should have a proper lunch in the cafeteria or buy a loaf of bread at the store.
 }
 [sha:e02da44753b688d4be02786d4d3c33426f203d7e]{
 -- Page 55, Offset 624.
@@ -36,7 +38,7 @@ Or is she coming straight toward me...?
 [sha:6eb68faa20a191cf90af34347da272cb703e89c0]{
 -- Page 57, Offset 628.
 -- 「よかった、探してたんですよ遠野くん。
-"Oh good, I've been looking for you, Tohno-kun.
+"%{i}Oh%{/i} good, I've been looking for you, Tohno-kun.
 }
 [sha:9690ccf5e6f951dd2161c87fd52d5ccd8b731444]{
 -- Page 57, Offset 629.
@@ -66,7 +68,7 @@ Although, we've already met today, so 'good to see you' isn't the right phrase."
 [sha:2d7b1b7315cdafa2d1ef8c5e60cda893dbb11cb2]{
 -- Page 59, Offset 634.
 -- 「あ……うん。そういえば、そうでした」
-"Ah... yeah. Now that you say that, you're right."
+"%{i}Ah%{/i}... yeah. Now that you say that, you're right."
 }
 [sha:3794d4f2907e0633192de0773af103b2ec748f10]{
 -- Page 60, Offset 635.
@@ -91,23 +93,22 @@ I'm used to talking to Senpai, but today I'm unusually conscious of her. I wonde
 [sha:afc40eb06bcd12190d17c081b4680d3358c3bf20]{
 -- Page 62, Offset 639.
 -- 「いえ、急ぎの用はないです。ぜんぜん」
-"No, I'm not in a hurry at all."
+"No, I'm not in a hurry. Not at all."
 }
 [sha:1e48b5ed331c73eb7710897ab77d680c70a5e8d2]{
 -- Page 62, Offset 640.
 -- シエル先輩の一挙一動が気になっているだけ、とはとても言えない。
-I can't say that I'm curious about every move she's making.
+I can't just admit to her that I'm fascinated by every little move she makes.
 }
 [sha:16734dcfc5113cc921a499495fa98fcfabc97780]{
 -- Page 62, Offset 641.
 -- 「それより先輩、俺を探していたって、何か用ですか？」
-// Needs to be two sentences or a semicolon
 "Anyway, Senpai, you were looking for me. Is there something I can help you with?"
 }
 [sha:6e1c55687c9bd0b52662bcfdc65b27ce79dbefe5]{
 -- Page 63, Offset 642.
 -- 「はい。朝、ちょっとしたご迷惑をかけてしまったでしょう？
-"Yes. I'm sure I caused you some trouble this morning.
+"Yes. I'm sure I caused you some trouble this morning, didn't I?
 }
 [sha:c8dddcae2c71c25efc0cd354f65ed777b8756217]{
 -- Page 63, Offset 643.
@@ -117,12 +118,12 @@ I wanted to apologize for that, so I've been looking for you."
 [sha:5971e7296674eb9dbe32d91cece86a629b2e1714]{
 -- Page 64, Offset 644.
 -- 「朝の迷惑って……ああ、電車の話？
-"Trouble this morning... Ah, you mean on the train?
+"Trouble this morning... %{i}Ah%{/i}, you mean on the train?
 }
 [sha:619b7e721d45821914ecd153c3f53fd896a7c967]{
 -- Page 64, Offset 645.
 -- でも、あれは迷惑というより役得というか、」
-But that was more of a blessing than trouble."
+But that was more of a blessing than a nuisance."
 }
 [sha:d87e79bec206d1b13180a5fb5515ab8b11d0b77d]{
 -- Page 64, Offset 646.
@@ -132,17 +133,18 @@ It was fun talking with Ciel-senpai.
 [sha:2b493476621407a2a8e4972cca19943fc0a5c7d3]{
 -- Page 64, Offset 647.
 -- おかげで駅まで時間を感じなかったぐらいだ。
-Thanks to that, I didn't notice how long it took to get to the station.
+I felt like the trip to the station just flew by as a result.
 }
 [sha:62a57d6b560bb4828f91af898ee94775b615ca38]{
 -- Page 65, Offset 648.
 -- 「でも、うるさくしすぎて女の子に怒られたじゃないですか。
-"But you got yelled at by that girl because of me.
+"Well, but we got yelled at by that girl for being noisy.
 }
 [sha:c4df26a7eeb3c9360ef1cc0b0fd0bd94ab151eaa]{
 -- Page 65, Offset 649.
 -- そのお詫びです。つかぬ事をお訊きしますけど、遠野くんはこれからお昼ごはんですか？」
-I apologize for that. If you don't mind me asking, are you going to have lunch now?"
+That's what I'm apologizing for.
+ If you don't mind me asking, were you on your way to get lunch?"
 }
 [sha:a6c3e278a1f3633155b54789b7c355854f6e3be2]{
 -- Page 65, Offset 650.
@@ -152,12 +154,12 @@ I apologize for that. If you don't mind me asking, are you going to have lunch n
 [sha:985a8841f7849e0511df0d27adc49973a54dd6f7]{
 -- Page 66, Offset 651.
 -- 「よかった、それならご一緒できますね。朝のお詫びにおごっちゃいますから、これから食堂に行きましょう」
-"Great, then I can join you. I'll treat you as an apology for this morning, so let's go to the cafeteria now."
+"Great, then let me join you. Let's go to the cafeteria. I'll treat you to make up for what happened this morning."
 }
 [sha:865d3dabb6119237b23cd5efc35da6c598ac2b5e]{
 -- Page 66, Offset 652.
 -- 「えっ？」
-"Eh?"
+"%{i}Eh%{/i}?"
 }
 [sha:73c037178d1f86029fb70d094ac2ed91d09f91c4]{
 -- Page 66, Offset 653.
@@ -167,12 +169,13 @@ With a smile on her face, Senpai grabs my arm and starts walking.
 [sha:d70f1c13e77e74b91c567bcae58028666ca34824]{
 -- Page 67, Offset 654.
 -- もともと三年生である先輩が二年生の廊下にいるだけで目立つのに、これは余計に人目をひく。
-A third-year student standing in the second-years' hallway is enough to stand out, but this is even more noticeable.
+A third-year student standing in the second-years' hallway is already enough to stand out,
+ but this is really going to turn some heads.
 }
 [sha:46f0faae79a30a5d098b9a5a107b2706af531f0c]{
 -- Page 67, Offset 655.
 -- ざわざわと、廊下中の生徒たちの視線が自分と先輩に注がれた。
-All the students in the hallway are looking at us.
+All of the students in the hallway are looking our way and busily whispering amongst themselves.
 }
 [sha:7bcf957adc7d1d0ad5920182215e364617515fe2]{
 -- Page 68, Offset 656.
@@ -187,12 +190,12 @@ It was my fault this morning, so there is no need for you to apologize...! In fa
 [sha:e01ad81876e05bdc57da88d56553823e331583a7]{
 -- Page 68, Offset 658.
 -- いま赤面しているな、なんて実感しながら先輩から離れる。
-Realizing that I'm blushing right now, I move a bit away from Senpai.
+Realizing that I'm blushing, I extricate myself from Senpai's arm.
 }
 [sha:31855e6363c32c689ea34dee79939795f12874ce]{
 -- Page 69, Offset 659.
 -- 「ほう。それは聞き捨てなりませんね。謝るべきは遠野くんの方だった、と。つまり、その罰として遠野くんはわたしのお願いを一つ聞いてくれるとか、アリなわけですね」
-"Hoh. I can't ignore that. It was you who should have apologized? What I'm hearing is that you'll do me a favor as punishment, right?"
+"%{i}Hoh%{/i}. I can't ignore that. It was you who should have apologized? What I'm hearing is that you'll do me a favor as punishment, right?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 70, Offset 660.
@@ -317,7 +320,7 @@ So I'd prefer to sit in a place where we can't be seen by many people.
 [sha:6289db9a16ea5fb80c982b62cc6d0bfc2e831cb1]{
 -- Page 81, Offset 684.
 -- 食堂を見渡すと、真ん中の空席はあるものの、角のテーブルは既に他の生徒の荷物が置かれている状態だった。
-Looking around the cafeteria, I see that there are empty seats in the middle while the corner seats are already occupied by other students' belongings.
+Looking around the cafeteria, I see that there are some empty seats in the middle, but the corner seats are already occupied by other students' belongings.
 }
 [sha:ad099b5f5f0b441959138d322cb1e7e0bd8bc94c]{
 -- Page 81, Offset 685.
@@ -327,7 +330,7 @@ At this hour, there are no corner seats for two people―――
 [sha:62ce31755486705bd3a2bedc60e22769bcf9dc35]{
 -- Page 81, Offset 686.
 -- 「―――、あった」
-"Oh――― There's one."
+"%{i}Oh%{/i}――― There's one."
 }
 [sha:664ab565cb40622e66a89a270055e8932f1daa4c]{
 -- Page 82, Offset 687.
@@ -347,7 +350,8 @@ However, the table is about to be occupied by a familiar face.
 [sha:66509f6fff772d4aaf08ecfcf01d7e74c786cb60]{
 -- Page 84, Offset 690.
 -- オレンジ髪の不良学生は、周りの視線も気にせずブンブンと手を振っている。実に頭が痛い。
-Without a care in the world, an orange-haired delinquent student is waving his hand in the air. It's a real headache.
+An orange-haired delinquent is waving his hand in the air, with no regard at all for the stares of the people around him.
+ What a headache.
 }
 [sha:ed966597615c4fc63b9b6f6cdaa60e7b9b38860f]{
 -- Page 85, Offset 691.
@@ -357,17 +361,19 @@ That said, ignoring him would be rude and there are no other empty corner seats 
 [sha:254f99223a3cbeae4b2083391b93c49e35b8b4fd]{
 -- Page 85, Offset 692.
 -- ある意味、人よけにはなる男である。どうせなら有効活用するのが友人としての務めだろう。
-In a way, he is a man who can keep people away. I might as well make good use of this friend of mine for this purpose, then.
+In a way, he is a man who can keep people away.
+ I suppose it's my duty as his friend to take advantage of his useful qualities.
 }
 [sha:cea8431212bc3b979f602922f433e8514a6d82c9]{
 -- Page 86, Offset 693.
 -- 「遅ぇ。今日は特別ゲストが来るって言ってなかったかぁ？　のんびり重役出勤してんじゃねえですよ」
-"You're late. Didn't I tell you there'd be a special guest today? Stop acting so carefree like you're some kind of big-shot here."
+"You're late. Didn't I tell you there'd be a special guest today?
+ Quit acting like the world revolves around your schedule."
 }
 [sha:bdd4f29e25f19c5eb0dc2ac23798fb54d7980983]{
 -- Page 87, Offset 694.
 -- 「ああ、そういえばそんなコト言ってたっけ。
-"Ah, I remember you saying something like that.
+"%{i}Ah%{/i}, I remember you saying something like that.
 }
 [sha:cff80f6a0aad0377ddaaf627d64d128a46f94891]{
 -- Page 87, Offset 695.
@@ -377,12 +383,13 @@ So, where is this special guest?"
 [sha:777906bad4f99cadb1e803441a6ac328fc7aac77]{
 -- Page 88, Offset 696.
 -- 「うむ、それがな。昨日からスケジュール押さえていたっつーのに、今朝になって断られた。なんでも『お詫びをしたい人がいるから今日の昼食は忙しいんです』だとよ」
-"Mmm, that's the thing. I've been trying to schedule it since yesterday, but she refused this morning saying 'I'm busy at lunch today because there's someone I want to apologize to'."
+"%{i}Mmm%{/i}, that's the thing.
+ It's been on the schedule since yesterday, but she canceled on me this morning.
+ Something about how 'I'm busy at lunch today because there's someone I want to apologize to'."
 }
 [sha:b489feb8bd33f27bba657d9eaada4cdb98587ce5]{
 -- Page 88, Offset 697.
 -- 力うどんを食べながら、有彦は無念そうに肩を落とした。
-// Unless this is a brand, I'm pretty sure "Chikara Udon" should be lowercase.
 His shoulders slump in disappointment as he eats his chikara udon.
 }
 [sha:e659d41976e82118d1c7764ab026a4a60caa133c]{
@@ -403,12 +410,13 @@ That sounds all too familiar.
 [sha:dfe4e6e7e303f175d74ff128c28c619f60465358]{
 -- Page 89, Offset 701.
 -- 「おうっ!?」
-"Ooh!"
+"%{i}Ooh%{/i}!"
 }
 [sha:9b9709551e9a085143ede236fc9c453bb6e2be88]{
 -- Page 90, Offset 702.
 -- 「眼鏡の似合うショートカットで、元気よく動き回って、それでいて頼れる空気だしまくり？」
-"A short-haired girl who looks good with glasses. Cheerful and unable to keep still, but dependable nonetheless?"
+"A short-haired girl who looks good in glasses and is both restless and cheerful,
+ but still comes off as dependable?"
 }
 [sha:5cdeec2fcc21a7b28a27e3df297160b6d0569ca1]{
 -- Page 90, Offset 703.
@@ -438,7 +446,7 @@ Senpai comes over with a bright smile.
 [sha:43c37556eb8adccdcaa936d2d52a4288c0a69493]{
 -- Page 92, Offset 708.
 -- その両手には二人分のトレイが乗せられている。
-In her hands, she carries a tray for two people.
+In her hands, she carries a tray with food for two people.
 }
 [sha:ff913f24383b5cb7bd25529c839778be789f9d2d]{
 -- Page 93, Offset 709.
@@ -448,7 +456,7 @@ In her hands, she carries a tray for two people.
 [sha:90c32e6a3496cc498ee609144281fa781dcd2255]{
 -- Page 93, Offset 710. Mods: @k, @e.
 -- 「おや？　乾くん、
-"Hmm? Inui-kun,
+"%{i}Hmm%{/i}? Inui-kun,
 }
 [sha:4096e7c2c4aa2086c3598c7e3f663249bfa9647a]{
 -- Page 93, Offset 711. Glued. Mods: @x.
@@ -458,22 +466,23 @@ In her hands, she carries a tray for two people.
 [sha:1a421c8b09c466ffdca2edb8a448ec43b3cad6aa]{
 -- Page 93, Offset 712.
 -- 先輩はごく自然に席に座った。
-Senpai takes a seat quite naturally.
+Senpai nonchalantly takes a seat at the table.
 }
 [sha:85cb718dde4931c485109ec77c0a869bd8a70cfd]{
 -- Page 93, Offset 713.
 -- 俺の対面―――即ち、有彦のとなりの席である。
-She takes the seat opposite me―――which puts her next to Arihiko.
+She chooses the seat opposite me―――putting her next to Arihiko.
 }
 [sha:b7fdf71dfb3f70f3de21b4831a4a13e39cc78eb4]{
 -- Page 94, Offset 714.
 -- 「お―――おお、おおぉおお!?」
-"O―――oo, OOoOO!?"
+"%{i}O―――oo, OOoOO%{/i}!?"
 }
 [sha:0c9f579b68093bc8eafe6fc97860c65043f80fb4]{
 -- Page 94, Offset 715.
 -- よく分からない声をあげる有彦。おそらく突然の幸運にうまく対応できないのだろう。気持ちは分かる。何故ならさっきまでの俺がそうだった。
-Arihiko makes an unfamiliar sound. Perhaps he can't cope with the sudden good fortune. I know how he feels because that's what I was experiencing not too long ago.
+Arihiko makes an unfamiliar sound. Perhaps he can't cope with his sudden good fortune.
+ I know what he's going through―――I felt the same way not too long ago.
 }
 [sha:3fe8a8330184c0a89e4fa34b9fd7a7b2ed1e90a1]{
 -- Page 95, Offset 716.
@@ -488,7 +497,7 @@ Don't hesitate to fill up on food today."
 [sha:0a9c1843aa910e6969f4c77923b8e1ca998400f1]{
 -- Page 96, Offset 718.
 -- そして俺も、この笑顔を前にして断れるはずがない。
-And there's no way I can say no to a smile like that.
+There's no way I can say no to a smile like that.
 }
 [sha:392dacfe8c239bbd9c15d9ae0fe2f10f2f1c4231]{
 -- Page 96, Offset 719.
@@ -543,7 +552,7 @@ Wait, what??
 [sha:9d16bb34f8569a1b3df7c4c2b6c7882bc786def2]{
 -- Page 99, Offset 729.
 -- 「えっと、先輩……？」
-"Um, Senpai...?"
+"%{i}Um%{/i}, Senpai...?"
 }
 [sha:962f72a1a223a539db26229bc781225988f0b465]{
 -- Page 99, Offset 730.
@@ -573,7 +582,7 @@ Wait, what??
 [sha:246d9d64d1f35d83f0f3845d060b3d60c3c0b8a4]{
 -- Page 101, Offset 735.
 -- それは言われずとも分かる。問題はカレーしかないことだ。
-You don't have to tell me that. The problem is that there is only curry.
+You don't have to tell me that. The problem is that there is %{i}only%{/i} curry.
 }
 [sha:2d779810a97ed980f2c50bb309607451d5bf9f5b]{
 -- Page 102, Offset 736.
@@ -583,7 +592,7 @@ You don't have to tell me that. The problem is that there is only curry.
 [sha:6ac6e42826470a0442c52d60e7ecae044b8ec76e]{
 -- Page 102, Offset 737.
 -- 「もちろんです。遠野くんは男の子なんですから、いっぱい食べてもらわないと。わたしは一品でいいですから、どうぞお好きなものを選んでください」
-"Of course. You're a boy, so you should eat a lot. I'm fine with just one dish, so please choose whatever you like."
+"Of course. You're a growing boy, so you need to eat up. I'm fine with just one dish, so please choose whatever you like."
 }
 [sha:ab4908fa80a6e626f146133a51f9a5bdd15afd3c]{
 -- Page 103, Offset 738.
@@ -613,12 +622,13 @@ You're not a picky eater, right, Tohno-kun?"
 [sha:17eafd1974a285b46d0da8f2be413dd9070f704a]{
 -- Page 104, Offset 743.
 -- 先輩の笑顔には悪意が一片もない。
-There is not a trace of malice in her smile.
+There isn't a trace of malice in her smile.
 }
 [sha:98c8132fadeb41c8862d82f095636a9be65ea1a5]{
 -- Page 104, Offset 744.
 -- 何かの冗談とか嫌がらせではなく、一点の曇りもないパーフェクトな善意なのだった。
-She is not joking or teasing, she has perfectly good intentions without a hint of evil.
+She isn't joking around or pulling a prank on me here,
+ she really does have only the best of intentions.
 }
 [sha:3d86e36cf75240ddaedf82b320d19401663c050b]{
 -- Page 105, Offset 745.
@@ -628,7 +638,7 @@ She is not joking or teasing, she has perfectly good intentions without a hint o
 [sha:031d845c37d0d6e0dfc53ad0505c530fd3e2a1df]{
 -- Page 105, Offset 746.
 -- やけになってカレーライスにスプーンをつっこむ。
-I give in and dip my spoon into the curry rice.
+I resign myself to my fate and dip my spoon into the curry rice.
 }
 [sha:aaf85f994e3b0f2943ad672a658baa45f4b0a7d0]{
 -- Page 105, Offset 747.
@@ -643,12 +653,17 @@ And then.
 [sha:b07ff224fc5de515e29cade05f42d934bf3c06a0]{
 -- Page 105, Offset 749.
 -- 先ほどから死んでいた男がようやく再起動しやがった。
-The man who's been quiet for the past few minutes has finally woken up.
+// Liberty taken with 死 to better fit 再起動
+The man whose brain malfunctioned a minute ago has finally rebooted.
 }
 [sha:b7d9330436761514d37f950116ed624e0439bdd8]{
 -- Page 106, Offset 750.
 -- 「おまえさんね、いつまでムニの親友を無視してるワケ!?　あるだろ、一言！　やあ、常に生きていてありがとう乾くん、ところで今日は素敵な先輩を紹介するよ、おっと僕は忙しいのでそろそろ校舎裏に行く、あとは二人でご歓談の程を、とか色々さァ!?　あと余ってるならそのカレーうどん頂戴ね！」
-"How long are you gonna keep giving your dear best friend the cold shoulder?! You should be like 'Hey! Thanks for always being alive, Inui-kun! Oh! By the way, I should totally introduce you to my beautiful senpai today! Oh no! Something came up! Time to go to the back of the school, and then you two can have a pleasant chat! And if you have any leftover curry udon, you can give it to me!'"
+"How long are you gonna keep giving your dear best friend the cold shoulder?!
+ You should be like 'Hey! Thanks for always being alive, Inui-kun!
+ %{i}Oh%{/i}! By the way, I should totally introduce you to my beautiful senpai today!
+ {i}Oh no%{/i}! Something came up! Time to go to the back of the school, why don't the two of you have a pleasant chat!
+ And if you have any leftover curry udon, you can give it to me!'"
 }
 [sha:de43ed5a08af09659e08ddc1e4c953a2dcaa5ca8]{
 -- Page 106, Offset 751.
@@ -658,7 +673,7 @@ The man who's been quiet for the past few minutes has finally woken up.
 [sha:18d3bd84496dbfc433c58e77b54477637dbe2c69]{
 -- Page 107, Offset 752.
 -- ガバッと伸びてくる有彦の腕。
-Arihiko's arm stretches out to me.
+Arihiko's arm darts in my direction.
 }
 [sha:ccd0ea4a618adb44fc48973cfe401874d0245e9a]{
 -- Page 107, Offset 753.
@@ -668,7 +683,7 @@ I skillfully guard the curry udon against those evil hands.
 [sha:1e02e1446525f986f6e5cb0eaa7f852873fce2a3]{
 -- Page 108, Offset 754.
 -- 「え？　乾くん、遠野くんとお知り合いなんですか？」
-"Eh? Inui-kun, you know Tohno-kun?"
+"%{i}Eh%{/i}? Inui-kun, you know Tohno-kun?"
 }
 [sha:decf09eee6145218244995e32b79bed5dd9b6169]{
 -- Page 108, Offset 755.
@@ -703,17 +718,20 @@ So, what bad things did this guy do to you anyway?"
 [sha:fa8d9f05eba8aace6b23a746a24a3fee5bf7204a]{
 -- Page 111, Offset 761.
 -- ダメですね、周囲の迷惑を考えないと。遠野くんは悪くないのに、わたしの代わりに怒られてくれたんです」
-That's no good. I should have thought about the people around us. It wasn't his fault, but he got yelled at because of me."
+It's all my fault, I should have been more mindful of the people around us.
+ Tohno-kun didn't do anything wrong, but he got yelled at because of me."
 }
 [sha:2f450083ba1c986fe230a87a359115821f624a0c]{
 -- Page 112, Offset 762. Mods: @k, @e.
 -- 「はあ、早朝の電車っスか。<駄|だ><弁|べ>るなんて人の自由ですけどねぇ。
-"Ah, an early morning train? People are free to talk as they like, but you should...
+"%{i}Ah%{/i}, an early morning train?
+ I feel like people have every right to talk if they want to.
 }
 [sha:5eb2d0900a00d03d5b0c02cb59afecf33e14d39b]{
 -- Page 112, Offset 763. Glued. Mods: @x.
 -- ん？　早朝？　遠野はわかるとして、先輩、電車通学だったっけ？」
- wait. Early morning? I know Tohno does, but do you come to school by train as well?"
+// Leading space for glue
+ Wait. Early morning? I know Tohno does, but do you come to school by train as well?"
 }
 [sha:b969ad3590a72b91135d2970a6c14c3a527789fc]{
 -- Page 113, Offset 764.
@@ -723,18 +741,18 @@ That's no good. I should have thought about the people around us. It wasn't his 
 [sha:4497856bf2039b846e47881a599ce913a1f8dee5]{
 -- Page 113, Offset 765.
 -- ほら、学校の掲示板でもあったでしょう？　生徒は自主的に参加するようにって」
-// Surely "volunteer" is good enough?
 Didn't you see the bulletin board at school? Students were asked to volunteer."
 }
 [sha:48780cbc514e090a1bce76b9cdc81de60cccfe36]{
 -- Page 114, Offset 766.
 -- 「あー、海浜公園のアレかぁ。さすが先輩、ご苦労さまです。
-"Ah, that thing at the seaside park... as expected of Senpai, thanks for your hard work.
+"%{i}Ah%{/i}, that thing at the seaside park... as expected of Senpai, thanks for your hard work.
 }
 [sha:e27a843bab3a32c268198606aaa1ef3ef36d2fd0]{
 -- Page 114, Offset 767.
 -- でも、そういうコトするから教師連中がアテにするんスよ。先公どもは隙あらばサボりやがるんだから、あんまり調子に乗らせないでほしいんですけどねぇ」
-But the teachers rely on you because you do that. I hope you don't let them get carried away, because they'll slack off whenever they get the chance."
+The teachers rely on you because you do stuff like that though.
+ They'll slack off any chance they get, so don't get carried away and allow them to just coast."
 }
 [sha:7ba0b354cb1f015a5063a1fb0e5951faa8c22480]{
 -- Page 115, Offset 768. Mods: @k, @e.
@@ -779,7 +797,7 @@ From the looks of it, he seems to be close to her in his own way.
 [sha:61d55c9cfb91b34ff4685cf42c4363d7cb017376]{
 -- Page 119, Offset 776.
 -- 有彦は我が事のように誇らしげに語る。
-Arihiko says it proudly as if he's talking about himself.
+Arihiko sounds so proud you'd think he was talking about himself.
 }
 [sha:f43a2745c26b93a401040240b9d7f4a00df9ca50]{
 -- Page 120, Offset 777.
@@ -794,7 +812,7 @@ I look at Senpai with admiration.
 [sha:75779505f0bac9c4c642fb327482448bf05f4bee]{
 -- Page 121, Offset 779.
 -- 「あ、はい。その、ありがとうございます」
-"Ah, yeah. Well, thank you very much."
+"%{i}Ah%{/i}, yeah. Well, thank you very much."
 }
 [sha:0e884e9a3d0180458c3c84f095e405c4f6e16030]{
 -- Page 122, Offset 780.
@@ -809,7 +827,7 @@ I suppose it is to hide her embarrassment, but it also reminds me of my immediat
 [sha:03872ab456cffbc50cff37725601529a25f0f3ed]{
 -- Page 122, Offset 782.
 -- カレーライスだけでなくカレーうどんも控えている。
-Curry rice, as well as curry udon, are waiting on my plate.
+Curry rice isn't the only thing on my plate, I also have to contend with the curry udon.
 }
 [sha:4d498ae3d1d4549e722ccf157068de6e97d39118]{
 -- Page 123, Offset 783.
@@ -819,12 +837,12 @@ Although the doctor has warned me not to eat too much, I would feel sorry for Se
 [sha:5c634a069ea3395d5103e897100b829f6ad3e9c3]{
 -- Page 123, Offset 784.
 -- 満腹中枢が満たされる前にカレーライスを美味しくいただくとしよう。
-I guess I'll have the curry rice first before my stomach is full.
+I guess I'll start with the curry rice, and try to enjoy it before I start to get too full.
 }
 [sha:ab6c67db5476575e6bec3516ffdc6637a52d090d]{
 -- Page 124, Offset 785.
 -- その間、先輩と有彦は自分たちの家について話をしていた。
-Meanwhile, Senpai and Arihiko are talking about each other's current residences.
+As I eat, Senpai and Arihiko talk about each other's current residences.
 }
 [sha:0fd8de024c6e05b7a1fdee3bed06ffc98ca0a1a5]{
 -- Page 124, Offset 786.
@@ -834,7 +852,7 @@ I knew that Arihiko's parents had passed away, but it seems that Ciel-senpai is 
 [sha:cea02cda705369100feb204686413ff2dde46d86]{
 -- Page 125, Offset 787.
 -- 先輩のアパートは総耶駅からわりかし近いそうだ。
-I heard that Senpai's apartment is rather close to Souya Station.
+Apparently her apartment is pretty close to Souya Station.
 }
 [sha:b504aba39d4e05b8ecd8ff67c8fa7fa81eefd2a2]{
 -- Page 125, Offset 788.
@@ -844,7 +862,7 @@ It seems that she's renting an apartment in the residential area to the east of 
 [sha:948b7fc554b1e07a74967cd79cc47a9b4a1e6ebf]{
 -- Page 126, Offset 789.
 -- 「ほうほう。
-"Oh, yeah.
+"%{i}Oh%{/i}, yeah.
 }
 [sha:f9f8ce404920f73923b4d33a13fef8a6b3eb648e]{
 -- Page 126, Offset 790.
@@ -864,12 +882,12 @@ As I'm eating curry rice in peace, Senpai suddenly asks me a question.
 [sha:afbfaa672703092acb500955657c9c919fa649a3]{
 -- Page 127, Offset 793.
 -- 「どのあたりと言われると、その、返答に困るというか……」
-"If you're asking where, well, it's hard to answer..."
+"Where do I live? That's a bit of a difficult question to answer..."
 }
 [sha:7b9d86a49443157a14e9e97b671252b51ac20af8]{
 -- Page 127, Offset 794.
 -- なにしろ今日から住まいが変わるのだ。
-After all, I'm changing my residence today.
+After all, I'll be living somewhere else starting today.
 }
 [sha:dcb19ce22612c1edb59ddecf442c4b94fcea76fd]{
 -- Page 127, Offset 795.
@@ -894,12 +912,12 @@ Why do you want to know where I live?"
 [sha:052597f5c7d93d17ba40b64ec680f0d41c9a8017]{
 -- Page 130, Offset 799. Mods: @k, @e.
 -- 「え？　だって遠野くん、わたしのアパートの場所を聞いちゃいましたよね？　なのにわたしだけ遠野くんのお家を知らないのは不公平だなって。
-"Eh? But you asked me where my apartment was, didn't you? I think it's unfair that I'm the only one who doesn't know where you live.
+"%{i}Eh%{/i}? But you asked me where my apartment was, didn't you? I think it's unfair that I'm the only one who doesn't know where you live.
 }
 [sha:ba44f409721b32176c7ff3d7fa284eea853a3c59]{
 -- Page 130, Offset 801. Glued. Mods: @x.
 -- ……あの、ヘン、ですか？」
- ...Um, is that weird?"
+ ...%{i}Um%{/i}, is that weird?"
 }
 [sha:7ccdc22d8c1307ccb8fa79df0addd0c329b59dc8]{
 -- Page 131, Offset 802.
@@ -914,7 +932,7 @@ To say it's unfair, that's a strange thing to worry about, isn't it, Senpai?"
 [sha:a01ab8e74f3eb909afc276737a513c9db0716b67]{
 -- Page 132, Offset 804.
 -- 「むっ。妙なことじゃないです。
-"Mm. It's not strange.
+"%{i}Mm%{/i}. It's not strange.
 }
 [sha:9f3d9d1db269b043534fc1a752300cbeb3a1852e]{
 -- Page 132, Offset 805.
@@ -924,17 +942,17 @@ If I don't know where you live, I won't be able to visit if something happens to
 [sha:c2f1735de55fbe6a092df806144e41becb680eff]{
 -- Page 133, Offset 806.
 -- カレーライスを食べる口が止まる。
-I stopped chewing on my curry rice.
+I stop chewing on my curry rice.
 }
 [sha:39e0e30a98960c0b81270379a935e9052fcf5caa]{
 -- Page 133, Offset 807.
 -- 何かいま、さらりと嬉しくなる事を言われた気がした。
-I feel as if someone just said something that made me happy.
+I feel like I just heard her say something that would make any man happy.
 }
 [sha:d09bf81af0c72fb772ebd773e58a1f01952ff95a]{
 -- Page 134, Offset 808.
 -- 「……お見舞いって、たとえばの話、俺が風邪でもひいたら見舞いにきてくれるとか？」
-"...Visit me? For example, if I catch a cold, will you come to visit me?"
+"...Visit me? As in, if I catch a cold, will you come to visit me?"
 }
 [sha:28351dbfc7c60896c0d78d965606c47240b0e55f]{
 -- Page 134, Offset 809.
@@ -969,17 +987,19 @@ I see. In other words, she's just an airhead, isn't she?
 [sha:f4f814f2d5eb543c97044d48abb33322f7b9b4ee]{
 -- Page 136, Offset 815.
 -- 「俺の家もこの街ですよ。徒歩にして30分弱。
-"My house is in this city too. It takes less than thirty minutes to walk there.
+"My house is in the city too. It's about a thirty-minute walk from here.
 }
 [sha:14446076934f405b58e13da7f0c09ce17186a54f]{
 -- Page 136, Offset 816.
 -- ほら、北口から郊外にあがると、坂の上に住宅地があるでしょ。あそこの奥まで行ったところです」
-If you go up to the suburbs from the north gate, you'll see a residential area at the top of a hill. It's at the end of that."
+If you head up into the suburbs from the north gate,
+ you know that residential area on top of the hill?
+ It's at the end of that."
 }
 [sha:74385480616708e064e188a4177e63ac1b233c20]{
 -- Page 137, Offset 817.
 -- 「あー、そうだった。今日から引っ越すんだっけ、おまえ」
-"Oh, that's right. You're moving in today, right?"
+"%{i}Oh%{/i}, that's right. You're moving in today, right?"
 }
 [sha:3ccdcf9fc12f0b15894cb9ade0c09a7eec90995c]{
 -- Page 137, Offset 818.
@@ -1009,7 +1029,7 @@ Senpai says something strange.
 [sha:713d6dd686ed85b13fbddbbba4d8cd5e55a4f826]{
 -- Page 138, Offset 823.
 -- つい、有彦と無言で目を合わせてしまった。
-I look at Arihiko silently.
+Arihiko and I just silently make eye contact with each other.
 }
 [sha:6012daf6d7c0dfa43d8eba8542d5e1b547bfe26a]{
 -- Page 139, Offset 824.
@@ -1019,22 +1039,22 @@ I look at Arihiko silently.
 [sha:b5a5ccff87e57a5e57c48cfa47b0e05b807b6765]{
 -- Page 139, Offset 825.
 -- なんだってそこで転校生だなんて単語が出てくるんです？」
-Why did the word 'transfer student' come up in your mind?"
+What made you suddenly think that I'm a transfer student?"
 }
 [sha:8f3e7d0d018663a19bb0660fbf925ed8187476f2]{
 -- Page 139, Offset 826.
 -- 「だって遠野くん、引っ越したって―――」
-"Because I heard you're moving―――"
+"Well, because you're moving―――"
 }
 [sha:6815904cde231132c6cd93c7f8bbd24f20f61c2a]{
 -- Page 140, Offset 827.
 -- 「引っ越したら誰だって転校生になるわけじゃありません。住所が変わっただけで、学校は変わってないんです。
-"Moving doesn't make anyone a new student. I've just changed my address, not my school.
+"Moving doesn't necessarily mean I'm going to transfer. I'm just changing addresses, not schools.
 }
 [sha:70bdc8094db70f9f55cfad28815c92703df90b6e]{
 -- Page 140, Offset 828.
 -- 今までは親戚の家にいたんですけど、今日からもとの家に戻るだけなんですよ」
-I've been living with my relatives, but from today onwards, I'm going back to my old home."
+I've been living with my relatives up till now, but from today on I'll be back at my old house."
 }
 [sha:f045aaf6ece737ff29f0f60aa6b810fb7511c2af]{
 -- Page 141, Offset 829.
@@ -1084,7 +1104,7 @@ I haven't been back for seven years, but the Tohno mansion in my memory is as bi
 [sha:a95fea4e1e58a8fe3a9721296e491b1af98d489b]{
 -- Page 146, Offset 838.
 -- 「ふぅん。その様子じゃあんまり乗り気じゃなかったのか。
-"Mmm, I guess you aren't too enthusiastic about it after all.
+"%{i}Mmm%{/i}, I guess you aren't too enthusiastic about it after all.
 }
 [sha:b88f0c2fe353b912625742b5c8c419109ff0547d]{
 -- Page 146, Offset 839.
@@ -1120,7 +1140,7 @@ To be honest, I don't feel comfortable talking about the Tohno family.
 [sha:224457c4f7e0bbbb5e6ba59f1e3b55c2750bd729]{
 -- Page 149, Offset 845.
 -- 「へえ。仲がいいんですね、二人とも」
-"Heeh. You two are really close, aren't you?"
+"%{i}Heeh%{/i}. You two are really close, aren't you?"
 }
 [sha:2840bcd7edeac430d2bfa6764eb31e1f0f6a014b]{
 -- Page 149, Offset 846.
@@ -1160,22 +1180,22 @@ Arihiko shakes his fist as if saying that he won't forgive me.
 [sha:0975f9fe9053321f188211c3a7a60cd2dbb04990]{
 -- Page 154, Offset 853.
 -- ハッと口を押さえる有彦。
-Arihiko covers his mouth in a hurry.
+Arihiko clams up, realizing he's said too much.
 }
 [sha:2c4992c04349f4e55305a8544679d65b8d8a2d8d]{
 -- Page 154, Offset 854.
 -- 似合わない事に、気まずそうに苦笑いなどをしている。
-Realizing that this was unlike him, he then awkwardly makes a bitter smile.
+He puts on an uncharacteristically sheepish grin.
 }
 [sha:2aceb10e39b93d90cfc4f35fcd21559dd799561b]{
 -- Page 155, Offset 855.
 -- 「気にするなよ。別に悪いことじゃないんだから」
-"Don't worry about it. There's nothing wrong with it really."
+"Don't worry about it. It's not like it's anything to be embarrassed about."
 }
 [sha:5bc132372dfb4a626b1546d9a841fbbf20ebe68e]{
 -- Page 155, Offset 856.
 -- 有彦の顔を見ずに、カレーライスを食べながらそう言った。
-I said as I eat the curry rice, without looking at Arihiko's face.
+Without looking at Arihiko, I take another bite of the curry rice.
 }
 [sha:1e7f5b77f5e801d74deea630da24c77addfa6dba]{
 -- Page 156, Offset 857.
@@ -1185,7 +1205,8 @@ I said as I eat the curry rice, without looking at Arihiko's face.
 [sha:440d41bd8b7967f5fb6360fe99a97b39d7cc08f4]{
 -- Page 156, Offset 858.
 -- アレで文句を言ったらバチが当たるってもんか」
-If you complained about that, I would've hit you."
+// Reading as Shiki would suffer divine punishment if he were to complain about his time with the Arimas?
+Lighting would strike you down if you were to complain about the time you spent there."
 }
 [sha:9b81405e2b5ba3bd3a7660ae8d7277b65df7a1a5]{
 -- Page 156, Offset 859.
@@ -1230,7 +1251,7 @@ All that's left now is a hefty bowl of curry udon.
 [sha:b6c679137d8bae741b7bfbe30c2c2056b633e1a6]{
 -- Page 160, Offset 867.
 -- そしてご覧の通り、先輩は元気がない。
-Apparently, Senpai is not in good spirits.
+As you can see, Senpai is looking a little down.
 }
 [sha:12b75aaa28d6b05f3e096741dccc74600fd29fa6]{
 -- Page 161, Offset 868.
@@ -1250,7 +1271,8 @@ Senpai forces herself to act cheerful.
 [sha:75ca9c21d19e9d94bd7fe6640019f1adb0aca0c5]{
 -- Page 162, Offset 871.
 -- 中学校から友人だった有彦ならいざ知らず、先輩を相手にこんな話をしても迷惑なだけだろう。
-This topic might have been fine for a long-time friend like Arihiko, but for someone like Senpai, such a complex topic must have been bothersome at best.
+This topic might have been fine for a long-time friend like Arihiko,
+ but I'm sure it's a little awkward for someone like Senpai.
 }
 [sha:5fe7df237a4c9f84f260f38bd77baa344af818d9]{
 -- Page 162, Offset 872.
@@ -1260,12 +1282,12 @@ In fact, she seems to be fidgeting as if she's uncomfortable.
 [sha:48f0897a06112617a54b0a14e6cd62817a3fa839]{
 -- Page 163, Offset 873.
 -- 「あー、ゴメン先輩。オレ、ちょっと遠野と内緒話があるからさ、席外してもらえない？」
-"Aah, I'm sorry, Senpai. But I've got to talk to Tohno about something in private, so can you excuse us for a sec?"
+"%{i}Aah%{/i}, I'm sorry, Senpai. But I've got to talk to Tohno about something in private, so can you excuse us for a sec?"
 }
 [sha:bacd739b0fc6a0f3b483e771547d7153c811ca13]{
 -- Page 164, Offset 874.
 -- 無造作に、有彦はとんでもない発言をした。
-Suddenly, Arihiko makes an outrageous comment.
+Arihiko blindsides us with his off-handed remark.
 }
 [sha:e310ceb5279b85c4a89b1677de98ffb60db379ab]{
 -- Page 164, Offset 875.
@@ -1285,7 +1307,7 @@ He's actually trying to phrase things nicely. If he was more blunt, he'd say som
 [sha:fba69da08a0a04174293ee00b11fd89300291b39]{
 -- Page 165, Offset 878.
 -- あんなに有彦と話をしていたのに、いつのまにかちゃっかりきっかり、先輩はカレーライスを平らげていた。
-Even though we've been talking most of the time, Senpai has already finished her curry rice.
+Even though she'd been talking most of the time, Senpai has already polished off her curry rice.
 }
 [sha:ded1b9950defa2a4d1ef6be4383d9dda91d23827]{
 -- Page 166, Offset 879.
@@ -1295,7 +1317,7 @@ Even though we've been talking most of the time, Senpai has already finished her
 [sha:262d082ca936bc7ef23bc1c1459734f94f5de6d8]{
 -- Page 166, Offset 880.
 -- 先輩はペコリとおじぎをして去って行った。
-After giving a bow, Senpai leaves.
+Senpai bows lightly to the two of us and leaves.
 }
 [sha:d4aa7e683877919f30a446ef52c45deccb468209]{
 -- Page 166, Offset 881.
@@ -1310,7 +1332,7 @@ It's just me and Arihiko at the table.
 [sha:d72ff736b279919b64c37f5cc7a0888469a2f183]{
 -- Page 168, Offset 883.
 -- 「んー、まあ、さっきのは仕方ねえだろ。口を滑らせたのはオレなんだし、嫌われ役ぐらいはねぇ」
-"Hmm, well, that's unavoidable. I'm the one who slipped up, so I should at least get the hate."
+"%{i}Hmm%{/i}, well, that's unavoidable. I'm the one who slipped up, so I should at least get the hate."
 }
 [sha:447c7453680776a3830d54542a4f315e02eb6d59]{
 -- Page 168, Offset 884.
@@ -1335,7 +1357,9 @@ He was so absorbed in the conversation with Senpai that it got cold.
 [sha:1b2a447014ce3c6c44b624ba0992c84ffccaf8e5]{
 -- Page 169, Offset 888. Glued. Mods: @x.
 -- でもまあ、いまの流れで気にするような性格だったらどうでもいい。遠野に内緒話があるっていうのもホントのことだし」
- But well, it's not like she's the type who would mind the kind of conversation we had just now, so that doesn't really matter. Oh yeah, I really do have something to talk to you about in private."
+// Leading space for glue
+ But, well, if she can't stomach the kind of conversation we had just now then it's no big loss.
+ %{i}Oh%{/i} yeah, I actually did have something to talk to you about in private."
 }
 [sha:be213fea4eb36e6599b773015f0d826e9854c598]{
 -- Page 170, Offset 889.
@@ -1370,7 +1394,9 @@ I break my chopsticks and start eating my curry udon.
 [sha:dfceb90c5159cce378e117df0788142f6e22540c]{
 -- Page 172, Offset 895.
 -- 「だから、遠野は小学生の時分から<余|よ><所|そ>に預けられてたんだろ。どんな理由かは知らないが、それから七年も経つんだ。なんで今になって勘当してた息子を呼び戻すんだ、おまえさんの父親は」
-"You've been with the Arima household since primary school, right? I don't know why, but it's been seven years, right? Why're they at the Tohno mansion calling back someone who your father disowned?"
+"You've been at the Arima household since primary school, right?
+ I don't know why, but it's been seven years at this point.
+ Why's your dad calling back his disowned son all of a sudden?"
 }
 [sha:bdeb9f0fa0bdb6d165a4116572923b1ddd3de97e]{
 -- Page 173, Offset 896.
@@ -1446,12 +1472,13 @@ I got along well with the people of the Arima family, and I treated my stepmothe
 [sha:9ec6be3e41ddda94abb1964d81a04ac0572436a0]{
 -- Page 178, Offset 910.
 -- もともと一般的な家庭に憧れていたところもあって、遠野志貴は有間の家で、本当の息子のように暮らしてきた。
-Originally longing for a normal family, Tohno Shiki lived with the Arima family as though he were their actual son.
+Tohno Shiki has always longed for a normal family,
+ and lived with the Arimas as though he were their actual son.
 }
 [sha:bd346240250c162f235f388d9533fc694f2d3777]{
 -- Page 179, Offset 911.
 -- そこに後悔はないと思う。
-I don't think there was any regret in that.
+I don't think there's anything to regret about that.
 }
 [sha:437bac35cae50b61a03d170ecf443c637a84dc14]{
 -- Page 179, Offset 912.
@@ -1482,7 +1509,6 @@ It's easy to imagine how Akiha feels about me running away from her.
 [sha:d17be5ea88c4a0083c12464ebf6bc8842c7c7464]{
 -- Page 181, Offset 917.
 -- 「……そうだな。たしかになんとなくで家から追い出されたら、そりゃあ笑うしかない」
-// This should be either "no reason" or "some reason" in both sentences about it, not sure which.
 "I guess you're right. It's true that if you're kicked out of the house for no reason, you can't help but laugh."
 }
 [sha:13ccb5db10ef446108d0c135a819a325a371b816]{

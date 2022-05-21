@@ -67,7 +67,7 @@ I thought it contained a tool for club activities, but it seems to be cleaning e
 [sha:4d72ab55bff24c88fda641181941b55a1ee708f8]{
 -- Page 49, Offset 1279.
 -- 「おや。中身、見たいんですか？　先輩の持ち物をチェックするなんて、おとなしそうに見えて大胆ですね」
-"Oh, do you want to see what's inside?
+"%{i}Oh%{/i}, do you want to see what's inside?
  You seem so innocent on the outside,
  but you're really dying to rummage through your Senpai's belongings... how bold!"
 }
@@ -89,7 +89,7 @@ Senpai leans in close to look me in the eye.
 [sha:dc0378842c72e084cb0a3a2f8bf1e19205e50919]{
 -- Page 52, Offset 1283.
 -- 「ほうほう。わたしの万能<高枝|たかえだ>切り<鋏|ばさみ>も見たいと。
-"Hoh hoh, I see you also want to see my all-purpose long-range pruning shears.
+"%{i}Hoh hoh%{/i}, I see you also want to see my all-purpose long-range pruning shears.
 }
 [sha:c954dad85579d23ac1b90486a6fff49e6923d9b4]{
 -- Page 52, Offset 1284.
@@ -280,12 +280,12 @@ Senpai says something strange while carrying her heavy luggage.
 [sha:a4e842416ac7db45ea10beedef4dda04970049eb]{
 -- Page 65, Offset 1320.
 -- 「あの。荷物、学校まで持っていきましょうか？」
-"Um... would you like me to take your luggage to school?"
+"%{i}Um%{/i}... would you like me to take your luggage to school?"
 }
 [sha:5826e5c4bb5ec4e0718085f2926799ee7a34d1b1]{
 -- Page 65, Offset 1321.
 -- 「え？　あ、いえいえ、お気になさらず。わたしは寄っていくところがありますので、ここでお別れですね」
-"Eh? Ah, no, no, don't worry about it. I have a stop to make, so I'll leave you here."
+"%{i}Eh%{/i}? %{i}Ah%{/i}, no, no, don't worry about it. I have a stop to make, so I'll leave you here."
 }
 [sha:eb78dcc874b9139ceef5749d13a1acdac44fba0c]{
 -- Page 66, Offset 1322.

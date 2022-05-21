@@ -80,7 +80,7 @@ Wham, out flat, kissing the ground."
 -- Page 76, Offset 21506.
 -- 湿布を用意しますので、しばらくそのままでお待ちください。あ、体温計で熱を測っておいていただけると助かります」
 I'll prepare a compress, so please just sit tight for the time being.
- Ah, actually, if you wouldn't mind checking your temperature while I do,
+ %{i}Ah%{/i}, actually, if you wouldn't mind checking your temperature while I do,
  that would help me out."
 }
 [sha:61a8ef882eaaf852bf20f25a7c71f6a321497a4b]{
@@ -108,7 +108,7 @@ Kohaku-san, you can leave the first-aid kit behind. You're coming right back, af
 [sha:aa2900d4d568fa65cc335602296c33d2721aa10e]{
 -- Page 79, Offset 21511.
 -- 「いえ、こちらはお気持ちを鎮める<薬|もの>ばかりなので、打ち身専用のものと持ち替えて参ります。
-"Ah, no, this kit is full of medicines to calm the mind,
+"%{i}Ah%{/i}, no, this kit is full of medicines to calm the mind,
  so I'm switching it out for one tailored toward treating bruises.
 }
 [sha:84abfa5aa67ee5bd353044b64644f7329f89bfd8]{
@@ -178,13 +178,13 @@ When you were entrusted to the Arima household,
 [sha:8e8a0d9011d408d5319060e630b5c7fd1d8b5ab3]{
 -- Page 85, Offset 21523.
 -- 「え？　いや、昔からそうだったんだ。欲しいものとかなかったから、オヤジにもねだらなかったし。
-"Eh? No, it's always been like this.
+"%{i}Eh%{/i}? No, it's always been like this.
  There was never anything I really wanted, so I didn't have anything to pester my old man for.
 }
 [sha:14fff1bc8c5664c6325f018869ead1964814a901]{
 -- Page 85, Offset 21524.
 -- ああ―――ただ、事故の前後の事はよく覚えていないから、その頃はどうだろう」
-Ah―――I don't actually remember much from around the time of the accident though,
+%{i}Ah%{/i}―――I don't actually remember much from around the time of the accident though,
  so I can't be entirely sure."
 }
 [sha:17f4fb3fea7856c1c2a903d91bc81a0520a08550]{
@@ -243,7 +243,7 @@ Although it felt to me like it had only been a month."
 [sha:fbbaecde82a22668702149c2fdfec42fc3d29a5c]{
 -- Page 90, Offset 21535.
 -- 「ふふ。それは良い事ですよ、志貴さん。
-"Fufu. That's a good thing, Shiki-san.
+"%{i}Ehehe%{/i}. That's a good thing, Shiki-san.
 }
 [sha:b6cc75acd2feadbf8b71f70e6df1faf8e9ba5c99]{
 -- Page 90, Offset 21536.
@@ -275,7 +275,7 @@ I have nothing but gratitude for the doctor who saved my life,
 [sha:0fc3becfadc0b6799679e2364299f4b76d56a5b4]{
 -- Page 92, Offset 21541.
 -- 「と、いけません、つい話し込んでしまいました。
-"Oh, silly me, I got too caught up in the conversation.
+"%{i}Oh%{/i}, silly me, I got too caught up in the conversation.
 }
 [sha:8540affea112fac426a7ff53de80c7d47b92280d]{
 -- Page 92, Offset 21542.

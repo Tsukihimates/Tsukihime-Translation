@@ -13,7 +13,7 @@ I feel like my usual approach isn't going to cut it here,
 -- Page 35, Offset 19761.
 -- 「グモニー。いい朝だね、秋葉」
 // Swap EN foreign loans for different foreign loans for effect?
-"Bonjour. Lovely morning isn't it, Akiha."
+"%{i}Bonjour%{/i}. Lovely morning isn't it, Akiha."
 }
 [sha:cf06b3748a4f0d8d15f910ffb1810218c3a6d881]{
 -- Page 35, Offset 19762.
@@ -28,7 +28,7 @@ Adding in some casual laughter for effect, I try greeting her frankly.
 [sha:416c808881d9cb3a25ce7b1206e882fb8994627d]{
 -- Page 36, Offset 19764.
 -- しっぱい、しっぱい。
-Uh-oh. Not good.
+%{i}Uh-oh%{/i}. Not good.
 }
 [sha:639b6408cac49509e372025f5bf3d327de64ca8e]{
 -- Page 36, Offset 19765.

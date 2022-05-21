@@ -72,7 +72,7 @@ See that? That's the movie theater we're headed to."
 [sha:851557aca4be96c0bd0e77e8342a987603ef6b03]{
 -- Page 127, Offset 24580.
 -- 「映画館……ふぅん、映画を観ようってことなんだ」
-"A movie theater... Hmm, so we're watching a movie."
+"A movie theater... %{i}Hmm%{/i}, so we're watching a movie."
 }
 [sha:b867fdfefc65f712a6a6848e61fc96526c4560d9]{
 -- Page 127, Offset 24581.
@@ -114,7 +114,7 @@ If you aren't happy with it, you can go off and do something else on your own."
 [sha:705b854afe10dbf9abde6059658152c72420e7d8]{
 -- Page 129, Offset 24588.
 -- 「……。まあ、不満はないけど」
-"Ah... Well, it's not like I'm %{i}against%{/i} it."
+"%{i}Ah%{/i}... Well, it's not like I'm %{i}against%{/i} it."
 }
 [sha:2a78237cbc7aa93d3fa3957d112889cfbab2923d]{
 -- Page 130, Offset 24589.
@@ -134,7 +134,7 @@ Seeing her shoulders fall dejectedly like she's complaining about how useless I 
 [sha:110c794654ab8c9216a43510b8584181ad001309]{
 -- Page 131, Offset 24592. Mods: @n.
 -- 今やってるのは、えーと……恋愛ものと恋愛ものと恋愛ものだな
-Right now they're showing, uhh... a romance, a romance, and more romance.
+Right now they're showing, %{i}uhh%{/i}... a romance, a romance, and more romance.
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 131, Offset 24593. Glued.
@@ -276,7 +276,7 @@ So she's already at the point of 'I'm bored, show me a magic trick'.
 [sha:b9cc7321a035487e7ef180b7f8c9f327248713af]{
 -- Page 142, Offset 24618.
 -- 「んー、しりとり、とか？」
-"Hmm, how about <shiritori|w o r d   c h a i n    >?"
+"%{i}Hmm%{/i}, how about <shiritori|w o r d   c h a i n    >?"
 }
 [sha:e3072ed229f254e2f24d836f8cfe98b49d1e4a88]{
 -- Page 142, Offset 24619.
@@ -365,7 +365,7 @@ Besides, I'm bad at that game. I get sad when I play it. That's the only thing I
 [sha:9fd21ef1643feaf3d4696a535a4bf70c9f751d3f]{
 -- Page 148, Offset 24634.
 -- 「あ……いや、なんとなく。あんまり人間社会のこと知らないのかなって」
-"Ah... no, not really. I just thought that you would be unfamiliar with the norms of human society."
+"%{i}Ah%{/i}... no, not really. I just thought that you would be unfamiliar with the norms of human society."
 }
 [sha:731985351fead533b7d1d25d500e99c2281ad40c]{
 -- Page 149, Offset 24635.
@@ -444,7 +444,7 @@ Perhaps she also would've been happier if it had been an action or a horror movi
 [sha:fe1e3bc83e211004c7666e7a0e2c04858df8204e]{
 -- Page 155, Offset 24649.
 -- 「いや、でも」
-"Eh, but..."
+"%{i}Eh%{/i}, but..."
 }
 [sha:516d05a142f93b94267f5c84086372b6e66e274d]{
 -- Page 155, Offset 24650.
@@ -526,7 +526,7 @@ If you wanted something like that, there are much more interesting films out the
 [sha:e3c81434fc3eaeda3e3f297dbecaa4e5c7eeb439]{
 -- Page 162, Offset 24665.
 -- 「……うーん、総合点は低いんじゃないかな……。
-"...Hmm, I think your standards may just be a bit low.
+"...%{i}Hmm%{/i}, I think your standards may just be a bit low.
 }
 [sha:4c0b2bc3fb3c0bdaaa637c78073c5effa1a60571]{
 -- Page 162, Offset 24666.

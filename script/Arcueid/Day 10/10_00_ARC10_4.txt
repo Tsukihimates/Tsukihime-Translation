@@ -85,7 +85,7 @@ The traditional Western image of a vampire, combined with Vlov's old-fashioned l
 [sha:3e5fb5930b34a2ebf4d69cf47332c924179bdbc3]{
 -- Page 302, Offset 25018.
 -- 「んー、そういう<過程|プロセス>で適応してる訳じゃないけど、ともあれ人間の文明圏に入るのなら、それに即した常識は必要でしょう？
-"Hmm, that's not quite the process I use to acclimate.
+"%{i}Hmm%{/i}, that's not quite the process I use to acclimate.
  Either way, if I'm to blend in with the human bloc, I need to develop some baseline level of general knowledge, right?
 }
 [sha:b90a19e8e36defd7157d4ce6e2efe235aac0a053]{
@@ -97,7 +97,7 @@ That's why whenever I wake up, I spend some time learning about the current time
 [offset:25020]{
 -- Page 303, Offset 25020.
 -- 「……？」
-"...Hm?"
+"...%{i}Hm%{/i}?"
 }
 [sha:98edeccfa6e4b38291b79ae4c265f9de2fec1e81]{
 -- Page 303, Offset 25021.
@@ -125,7 +125,7 @@ I don't know how many years it'll be before I wake up again,
 -- 「……ん、
 // lint-off:LintUnclosedQuotes
 // This line is actually on the next page.
-"...Hmm.
+"...%{i}Hmm%{/i}.
 }
 [sha:84e0d4ddb9d4f7f9ddfc6a4e2bba0e11d327fd2b]{
 -- Page 305, Offset 25026. Glued.
@@ -372,7 +372,7 @@ I wonder how she manages it.
 [sha:18983355a43d1b5a3de840520b51ad65ffac03fc]{
 -- Page 320, Offset 25068.
 -- あ、これってこういうふうに食べるものじゃないの……!?」
-Ah, am I eating this wrong...?!"
+%{i}Ah%{/i}, am I eating this wrong...?!"
 }
 [sha:da994e2164d3ac9c40344d918e639ee4105bba45]{
 -- Page 321, Offset 25069.
@@ -618,7 +618,7 @@ Or maybe―――you had a deep-seated craving for this haphazardly-cooked,
 [sha:27b83eff0bba16d201d5d3915e467f4f2567b40b]{
 -- Page 340, Offset 25113.
 -- 「う……恥ずかしながら、そういうジャンクなハンバーガーを食べたいと思ったからです……」
-"Gh... It pains me to admit it, but it's because I wanted a hamburger..."
+"%{i}Gh%{/i}... It pains me to admit it, but it's because I wanted a hamburger..."
 }
 [sha:218c94cf278b0662b31e6a1b99356298daa8671c]{
 -- Page 341, Offset 25114.
@@ -751,7 +751,7 @@ But you said that you hate sucking blood, right?
 [sha:caa7571a94857814963936f8949f6799d5fe0f3f]{
 -- Page 348, Offset 25138.
 -- あ。そうか、人間に食べ物の好き嫌いがあるように、アルクェイドは血の味が嫌いってワケだな！？」
-Ah, I got it!
+%{i}Ah%{/i}, I got it!
  All humans have their own individual likes and dislikes when it comes to food―――
 Could it be that you just hate the taste of blood?"
 }
@@ -779,7 +779,7 @@ is unknown to me."
 [offset:25143]{
 -- Page 350, Offset 25143.
 -- 「……？」
-"...Hm?"
+"...%{i}Hm%{/i}?"
 }
 [sha:cd2463d9d6ab682606a757589e06d0483e4526b5]{
 -- Page 350, Offset 25144.
@@ -952,7 +952,7 @@ Or what if she was a monster who drank blood like the other vampires? Then would
 [sha:50412f9f77cf673fdcfc519f328a2ee6dc87231f]{
 -- Page 359, Offset 25175.
 -- あ、もしかしてトイレとか？」
-Ah, do you need to go to the bathroom?"
+%{i}Ah%{/i}, do you need to go to the bathroom?"
 }
 [sha:50b28450afc71ef641da61b8a23919ff2c681694]{
 -- Page 359, Offset 25176.
@@ -1017,7 +1017,7 @@ If anything, %{i}you're%{/i} the one hiding things from %{i}me%{/i}.
 [sha:3d99744deefec81f4c4751615a3be44cc8282476]{
 -- Page 364, Offset 25187. Mods: @k, @e.
 -- 「なんだ、本当にこっちが頭を抱えてる姿を面白がってたのか。
-"Oh, so you really did enjoy seeing me at my wit's end.
+"%{i}Oh%{/i}, so you really did enjoy seeing me at my wit's end.
 }
 [sha:581a463257f7f6e78f29237e382c382b1de0017c]{
 -- Page 364, Offset 25188.

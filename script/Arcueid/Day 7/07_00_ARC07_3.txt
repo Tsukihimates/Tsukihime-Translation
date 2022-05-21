@@ -80,7 +80,7 @@ She doesn't even respond with her usual 'welcome back'.
 [sha:ea7beca2128d1c623848869c3c2118a6ad56ec4a]{
 -- Page 173, Offset 17001.
 -- 「えっと……何かあった？
-"Umm... did something happen?
+"%{i}Ummm%{/i}... did something happen?
 }
 [sha:50529ef4e29691fcbefba9712610094c8dcc51b7]{
 -- Page 173, Offset 17002.
@@ -191,7 +191,7 @@ I see you are late again this evening, as expected."
 [sha:7de67ede699f6175a6450aa013ca57a08acaf912]{
 -- Page 181, Offset 17021.
 -- 「あ、やっと帰ってきたな、こいつめ。妹さんばかりかわたしまで待たせるとか、やっぱり普段から横暴なのね」
-"Ah, you're finally here, you rascal.
+"%{i}Ah%{/i}, you're finally here, you rascal.
  Not only do you make your little sister wait, but me as well.
  You really are quite the tyrant."
 }
@@ -324,7 +324,7 @@ This person, what did she say she came for?"
 [offset:17044]{
 -- Page 193, Offset 17044.
 -- 「ん？」
-"Hmm?"
+"%{i}Hmm%{/i}?"
 }
 [sha:93a061d9f61e19b9d3b830908ab7798ab0b96b0b]{
 -- Page 193, Offset 17045.
@@ -344,7 +344,7 @@ That's how she introduced herself."
 [sha:3fafd618cc53f6050456ccbc2b12def28e67f9c1]{
 -- Page 194, Offset 17048.
 -- 「ああ、うん、友人といえば、友人」
-"Ahh, yeah, that's right, a friend."
+"%{i}Ahh%{/i}, yeah, that's right, a friend."
 }
 [sha:8d0884e8a3abc8cd68c366aac183742f056e2c1b]{
 -- Page 195, Offset 17049.
@@ -370,7 +370,7 @@ My words devolve into a mumble.
 [sha:1a7b5d212c00255b0e767f76975c8d2ab1dd5357]{
 -- Page 196, Offset 17053.
 -- 「ふーん。友人、ねー。ふーん」
-"Heehh. A friend, you say? Hmph."
+"%{i}Heehh%{/i}. A friend, you say? %{i}Hmph%{/i}."
 }
 [sha:4e7cd245024a3cc46aa95d8ceef25b9c257db5b5]{
 -- Page 196, Offset 17054.
@@ -400,7 +400,7 @@ I feel giddy.
 [sha:2690a1b90b64c56db03341f2b447b74ee9934072]{
 -- Page 198, Offset 17058.
 -- ああ、これが世間一般でいう目眩なのか。
-Aah, so this is what people mean by vertigo.
+%{i}Aah%{/i}, so this is what people mean by vertigo.
 }
 [sha:01c813bafa2d416f4543f8ee737809732402715b]{
 -- Page 198, Offset 17059.
@@ -445,7 +445,7 @@ If I let this woman keep talking, it'll be the end of me.
 [sha:4f81c4e21970d3819f04c878e96abfb924a4438a]{
 -- Page 202, Offset 17066.
 -- 「いやあ、あははははは！」
-"Well, ahahahahaha!"
+"Well, %{i}ahahahahaha%{/i}!"
 }
 [sha:01094660fa5f3d4750018180c8e71ea7ab154e19]{
 -- Page 202, Offset 17067. Mods: @n.

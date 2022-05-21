@@ -120,7 +120,7 @@ Arcueid faces forward and resumes walking in a huff.
 [sha:bde349578c058fcc61588a5a17e87d153dcae215]{
 -- Page 282, Offset 17261.
 -- ……まいったな。
-...Oh, man.
+...%{i}Oh, man%{/i}.
 }
 [sha:0a08f1a1042a151ae97f874ad566356fd40791c3]{
 -- Page 282, Offset 17262.
@@ -142,7 +142,7 @@ We've left the city's downtown area behind us,
 [sha:16b59b0ba8052ad932abedc920e58118c5927909]{
 -- Page 284, Offset 17265.
 -- 「え………？」
-"Eh...?"
+"%{i}Eh%{/i}...?"
 }
 [sha:4e3d649961316361fcf897d18bc0154e497faedb]{
 -- Page 284, Offset 17266.
@@ -152,7 +152,7 @@ Arcueid's voice was cold, like it belonged to a completely different person.
 [offset:17267]{
 -- Page 285, Offset 17267.
 -- 「――――っ」
-"――――gh"
+"――――%{i}Gh%{/i}."
 }
 [sha:e2bf30a3e58899550c6db64c4d7a845158d1f31a]{
 -- Page 285, Offset 17268.
@@ -293,7 +293,7 @@ Shiki, when you look at that human, what do you see?"
 [sha:58509fd5b30b3e2edf4155c1b45207ac1dd5a40a]{
 -- Page 293, Offset 17293.
 -- 「――――？」
-"Hmm?"
+"%{i}Hmm%{/i}?"
 }
 [sha:843fa891bd1668275ecdb870c6366f8b8ccaad0a]{
 -- Page 293, Offset 17294.
@@ -342,7 +342,7 @@ The 'lines' race across the entirety of his body.
 [offset:17302]{
 -- Page 297, Offset 17302.
 -- 「――――ぐっ」
-"――――Gh."
+"――――%{i}Gh%{/i}."
 }
 [sha:3168729009a35a130581dcbc6ad2410260e48273]{
 -- Page 297, Offset 17303.
@@ -391,7 +391,7 @@ I feel bad for you. To think that you can even see the lines of death on a thing
 [sha:3d0a3161dd2079bf2e0a372a90d5c370aeee90e1]{
 -- Page 300, Offset 17311.
 -- 「ああ……なんか普通、とは違う、けど……線は、視え、てる……」
-"Ah... it's different... from usual... but... I can see... the lines..."
+"%{i}Ah%{/i}... it's different... from usual... but... I can see... the lines..."
 }
 [sha:bd7700dea569082e46f61208543b509479e34bfd]{
 -- Page 301, Offset 17312.
@@ -409,7 +409,7 @@ The question of whether something is alive or not is irrelevant.
 [offset:17314]{
 -- Page 301, Offset 17314.
 -- 「え―――――」
-"Eh―――――"
+"%{i}Eh%{/i}―――――"
 }
 [sha:1b00836249884c2fe12ea8b97e94adf6a080fb5f]{
 -- Page 302, Offset 17315.
@@ -622,7 +622,7 @@ there's no question that these eyes could discern it.
 [offset:17353]{
 -- Page 315, Offset 17353.
 -- 「ぐ――――」
-"Gh――――"
+"%{i}Gh%{/i}――――"
 }
 [sha:d46b93b6849361b9b7218ff399c3ee9db15bf9c4]{
 -- Page 315, Offset 17354.
@@ -684,7 +684,7 @@ This is a place without danger,
 -- Page 319, Offset 17364.
 -- 「はあ――はあ、はあ―――」
 // check the rest of the script
-"%{i}Pant――Pant――Pant―――%{/i}"
+"%{i}Hah――haa――haa―――%{/i}"
 }
 [sha:8b9542a73fd34115e41609c56c7ef0af7d48d553]{
 -- Page 319, Offset 17365.
@@ -848,7 +848,7 @@ Your body is a wreck,
 [sha:ce96c850c64173d016bb43b7fa10bcf9c2786362]{
 -- Page 330, Offset 17395.
 -- 「……む。大人しく、してるつもり、なんだけどな」
-"...Hmph. I was... taking it easy... though."
+"...%{i}Hmph%{/i}. I was... taking it easy... though."
 }
 [sha:7f1f991909e368a1994d61b8c2a3a9dd5d637f17]{
 -- Page 330, Offset 17396.

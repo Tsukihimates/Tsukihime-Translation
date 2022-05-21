@@ -17,12 +17,12 @@ Arcueid must have recuperated while we walked, as she's now back to her usual se
 [sha:3e95e76e428173860a6971566a2dda15ec59207f]{
 -- Page 337, Offset 17411.
 -- 「え……？　違うよ、傷が治りかけなのはホントだってば」
-"Eh...? No, I was telling the truth when I said that I was still recovering."
+"%{i}Eh%{/i}...? No, I was telling the truth when I said that I was still recovering."
 }
 [sha:bd2fb7c1f071198f59f993467dbd511633a5d1d9]{
 -- Page 338, Offset 17412.
 -- 「……治りかけなのはホント、だぁ？
-"...You told me the truth, hmm?
+"...You told me the truth, %{i}hmm%{/i}?
 }
 [sha:59319a02f330f50c6bd7b2f6dcd61113f53cc362]{
 -- Page 338, Offset 17413.
@@ -33,7 +33,7 @@ Yet haven't you also told me lies?"
 -- Page 338, Offset 17414.
 -- 「む。なにその言い方。すっごくいやらしいんですけど」
 // Skihi VA is somewhat accusing, sulky so 言い方 -> tone
-"Hmph. What's with that tone?
+"%{i}Hmph%{/i}. What's with that tone?
  You're being extremely unpleasant, you know."
 }
 [sha:3f1e4faeb81a6ea0f2c3089b268e1866b8b03dd0]{
@@ -100,7 +100,7 @@ Which means the one controlling him is your real enemy, correct?"
 [sha:d6863910f1ccbad5a1277e4f2e3fe3b9ebb4ce3f]{
 -- Page 342, Offset 17427.
 -- 「なんと。今度は話が早いのね、志貴」
-"Oh my. You're rather quick on the uptake today, Shiki."
+"%{i}Oh my%{/i}. You're rather quick on the uptake today, Shiki."
 }
 [sha:e87c19b7b7be357e5d72f90b4769463cfaa7d2cd]{
 -- Page 343, Offset 17428.
@@ -132,7 +132,7 @@ It seems the only cute misunderstanding of yours was about Vlov."
 -- Page 345, Offset 17432.
 -- 「ふーん。自分の事だけで手一杯、ね。
 // Not 100% sure what Arcueid is getting at with the 自分の事だけで手一杯 repeat
-"Hmm. You had your hands full with your own problems, huh.
+"%{i}Hmm%{/i}. You had your hands full with your own problems, huh.
 }
 [sha:3eb098986d4ada21ece9ce9cb1aeca5d99a3e0f3]{
 -- Page 345, Offset 17433.
@@ -602,7 +602,7 @@ You can just go back to your ordinary life now,
 [sha:1e553c04581d34c336c27f0020b3fd1d0688ae63]{
 -- Page 377, Offset 17512.
 -- 「ああ―――うん。そりゃあ嬉しいけど、けど―――」
-"Ah―――yeah. That's great, but―――"
+"%{i}Ah%{/i}―――yeah. That's great, but―――"
 }
 [sha:f7b7908edc3ae6230eb04a7f4bed95e8dfa49d7a]{
 -- Page 377, Offset 17513.
@@ -686,7 +686,7 @@ I'm the one who lives here,
 [sha:1a39491f3947510702594d4e4758fbded40bb47b]{
 -- Page 384, Offset 17528.
 -- 「……アルクェイド。その、おまえの言う『敵』は強いのか？
-"...Arcueid. Um... is this 'enemy' of yours strong?
+"...Arcueid. %{i}Um%{/i}... is this 'enemy' of yours strong?
 }
 [sha:fe747e9217b6df1c8f5126e6c9ed5b2272f32020]{
 -- Page 384, Offset 17529.
@@ -756,7 +756,7 @@ I believe it's caused by a malignant virus called 'Tohno Shiki',
 [sha:3333d468adcac4b51cd687159f372a3f99b4dfee]{
 -- Page 388, Offset 17541.
 -- 「あ―――いや、それは、その…………ごめんなさい」
-"Ah―――well, that is, um... sorry."
+"%{i}Ah%{/i}―――well, that is, %{i}um%{/i}... sorry."
 }
 [sha:b5b541fc57cf7807c08420765f161c58baeab949]{
 -- Page 388, Offset 17542.
@@ -959,7 +959,7 @@ How can she be so unreasonably calm about all this?
 [sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
 -- Page 402, Offset 17577.
 -- 「？」
-"Hm?"
+"%{i}Hm%{/i}?"
 }
 [sha:6624482526ff3493dfb761f9a8671fe177ee8e50]{
 -- Page 402, Offset 17578.
@@ -1040,7 +1040,7 @@ Even though that reasoning makes total sense to me...
 [sha:8e40faccee84a6137a2fcb5201288e48edd4f586]{
 -- Page 409, Offset 17591.
 -- 「ああもう、どうかしちまったのか俺は！」
-"Ah geez, there must be something seriously wrong with me!"
+"%{i}Ah%{/i} geez, there must be something seriously wrong with me!"
 }
 [sha:ae608f2b75140b045c1fd18ad5fe91900c3a73f9]{
 -- Page 409, Offset 17592.
@@ -1131,7 +1131,7 @@ Explain yourself!
 [sha:80e40d58dc62bd2791a1e2384c02b516ac96fd7a]{
 -- Page 414, Offset 17607.
 -- 「―――、え？」
-"―――Huh? Eh?"
+"―――Huh? %{i}Eh%{/i}?"
 }
 [sha:9fb466202f8842391cdb7bd529ed286ae8d7d5c6]{
 -- Page 415, Offset 17608.
@@ -1163,7 +1163,7 @@ Enough of that.
 [sha:589d517b7ad943ed9b885f4c56b3072031564f29]{
 -- Page 416, Offset 17613.
 -- むう、と<唸|うな>る。
-'Hmph', I groan.
+%{i}Hmph%{/i}, I groan.
 }
 [sha:c2686afe3e2cdff3c4aa88a9575648604bd1113d]{
 -- Page 416, Offset 17614.
@@ -1188,7 +1188,7 @@ I'm sorry, but could you repeat that one more time?"
 [sha:1b4510cf144ee94d2c7b7a6a3e9f98e46d6b7567]{
 -- Page 417, Offset 17618.
 -- むうう、と唸る。
-'Hmmph', I groan even louder.
+%{i}Hmmph%{/i}, I groan even louder.
 }
 [sha:6a27fc2ac459eab8be57b195187a0e62ca402a59]{
 -- Page 418, Offset 17619.

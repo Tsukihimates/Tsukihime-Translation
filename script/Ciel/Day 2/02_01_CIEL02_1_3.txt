@@ -36,7 +36,7 @@ I can't eat it all by myself, so I've just come to get someone who seems to be f
 [sha:48f71dd3ded234c886856d363f6722067f840f9c]{
 -- Page 49, Offset 3736.
 -- 「はあ。捕まえにきた、ですか」
-"Ah. You've come to get someone, huh?"
+"%{i}Ah%{/i}. You've come to get someone, huh?"
 }
 [sha:c054833be1a5598e03955985aa27ebbdfe0de9dd]{
 -- Page 50, Offset 3737.
@@ -71,7 +71,7 @@ Saying that, Senpai quickly closes the distance between us.
 [sha:e4dcfd89cb9f47e0c77abb4ad7ce2288fa836cce]{
 -- Page 53, Offset 3743.
 -- 「え……ええ、それは、まあ。
-"Eh... yeah, well that's...
+"%{i}Eh%{/i}... yeah, well that's...
 }
 [sha:e9ee591ac7635295293b3d68fff73a58850f8257]{
 -- Page 53, Offset 3744.
@@ -121,7 +121,7 @@ The only students eating lunch in the courtyard in spite of that are those that 
 [sha:fe2ff7a79025c0f0cd76c1b8bfd5904c1a16ed9a]{
 -- Page 57, Offset 3753.
 -- 「おっ、今日は珍しくベンチが空いています。
-"Oh, the benches are unusually empty today.
+"%{i}Oh%{/i}, the benches are unusually empty today.
 }
 [sha:401d89b9cd22b8d76cd6e029f69c327b6c1be149]{
 -- Page 57, Offset 3754.
@@ -161,7 +161,7 @@ It was so expensive that it was discontinued within a week, but many students ar
 [sha:8e6d4c3ca6f594aaaa9756a196be53ca28b903fa]{
 -- Page 60, Offset 3761.
 -- 「ふふふ、それはですね……」
-"Fufufu, well you see..."
+"%{i}Fufufu%{/i}, well you see..."
 }
 [sha:a1057f2e5e10e2d6399b74f232029b5c62385e8e]{
 -- Page 60, Offset 3762.
@@ -206,7 +206,7 @@ Here you go. I'll divide it in half just for you, so don't hesitate――― Toh
 [sha:a523c8d175c565a0a7ab7c16f273b0f1c1cb77d3]{
 -- Page 64, Offset 3770.
 -- 「……いや、あの。先輩、これさ」
-"...Um, look. Senpai. You see."
+"...%{i}Um%{/i}, look. Senpai. You see."
 }
 [sha:988a898dab05484108e3fcfb96b933882cd6b8bb]{
 -- Page 64, Offset 3771.
@@ -241,7 +241,7 @@ For some reason, I specifically avoided asking 'Do you like curry?'
 [sha:66d787548f525b13bf8eb04e6a51f32566b9e7ae]{
 -- Page 67, Offset 3777.
 -- 「え、ええ、まあ。あ、でも辛ければ好きというワケではなくてですね、特定の味付けがたいへん美味しく感じるというか……そ、そうですね。いくら好きでも、四つぜんぶ同じ味というのは、ちょっと考えなしでしたね……」
-"Y-Yeah, well. Ah, but it's not that I like it because it's spicy, it's just that I find certain flavors very delicious... b-but, you're right. No matter how much I like it, all four have the same flavor. I didn't really think this through..."
+"Y-Yeah, well. %{i}Ah%{/i}, but it's not that I like it because it's spicy, it's just that I find certain flavors very delicious... b-but, you're right. No matter how much I like it, all four have the same flavor. I didn't really think this through..."
 }
 [sha:790c9f2e7aaefbfc141b19a89991d199608d4da1]{
 -- Page 68, Offset 3778.
@@ -266,7 +266,7 @@ I pick up one of the curry bread spread out on Senpai's lap and bring it to my m
 [sha:22259159867b2d577024a0d70e78aab9163144fa]{
 -- Page 71, Offset 3782.
 -- 「いただきます。……ふむふむ。外はカリカリ、パンは油がしみてほのかに甘く、中の具はしっかり詰まってる……うん、美味しい。ホントに美味しいですね、先輩」
-"Thanks for the meal... Mmmmmm. The outside is crunchy, the bread is slightly sweet with a hint of oil, and the inside is packed with filling... Yep, it's delicious. It's really delicious, Senpai."
+"Thanks for the meal... %{i}Mmmmmm%{/i}. The outside is crunchy, the bread is slightly sweet with a hint of oil, and the inside is packed with filling... Yep, it's delicious. It's really delicious, Senpai."
 }
 [sha:4657498505fb850a57267bcef691e66f934932a3]{
 -- Page 72, Offset 3783.
@@ -311,7 +311,7 @@ If it's physical education, shouldn't you choose something that's more easily di
 [sha:98c48a520788b90c6af6ea7439c50f297d24e2b1]{
 -- Page 75, Offset 3791.
 -- あ、それよりお茶ですよね。麦茶でいいですか、遠野くん？」
-Ah, more importantly, we need tea, right? Is barley tea okay, Tohno-kun?"
+%{i}Ah%{/i}, more importantly, we need tea, right? Is barley tea okay, Tohno-kun?"
 }
 [sha:cabcb5aa0eb7d01850f0074385036b78927e85aa]{
 -- Page 76, Offset 3792.
@@ -326,7 +326,7 @@ Whoa, snagged a leftover curry bread!"
 [sha:e6fcc7b83b17c3156fe879077a9ea46f6e3e413f]{
 -- Page 76, Offset 3794.
 -- 「きゃっ!?」
-"Kyaa~"
+"%{i}Kyaa%{/i}~"
 }
 [sha:d0bb5f9cac213d15c8a6b2d82f83de427e908203]{
 -- Page 77, Offset 3795.
@@ -351,7 +351,7 @@ No, it's a little hard on the stomach, but the fact that it's Senpai's evens it 
 [sha:99f0c36b84aab260cf315b1792fef761c774a0c9]{
 -- Page 79, Offset 3799.
 -- ハハハ、と豪快に笑う有彦。
-Hahaha, says Arihiko with a hearty laugh.
+%{i}Hahaha%{/i}, says Arihiko with a hearty laugh.
 }
 [sha:4a80f18c9361869150c7f04254b4c9b60180dcb9]{
 -- Page 79, Offset 3800.
@@ -366,7 +366,7 @@ This guy saw me and Ciel-senpai together and snuck up on us...!
 [sha:894cb46c77686170608ebc65f30509d6bfd29a0a]{
 -- Page 81, Offset 3802.
 -- 「へっへっへ、抜け駆けはなしですよお客さん。ひとりで美味しい目みようたってそうはいかねえ。
-"Heh heh heh, you won't get the jump on me, dear sir. I just can't let you enjoy something so delicious-looking alone.
+"%{i}Heh heh heh%{/i}, you won't get the jump on me, dear sir. I just can't let you enjoy something so delicious-looking alone.
 }
 [sha:4c56481755d39125724772484e5668ead21d2aef]{
 -- Page 81, Offset 3803.
@@ -431,12 +431,12 @@ Even to us amateurs, it was clear that this is perfect shadowboxing.
 [sha:3ef9ec1a495493b9a645d6fa5462bdf7346111c6]{
 -- Page 88, Offset 3815. Mods: @k, @e.
 -- 「お、おう、なんだこれ冷や汗止まらねえよヤバイマジヤバイ拳圧で先輩が大きく見える、
-"O-Oh, what the hell is this? I can't stop sweating. This is bad, real bad. The pressure is making her fists look bigger.
+"%{i}O-Oh%{/i}, what the hell is this? I can't stop sweating. This is bad, real bad. The pressure is making her fists look bigger.
 }
 [sha:1f8a636419c5c50cefd6e22c4dd641bc847a2d59]{
 -- Page 88, Offset 3816. Glued. Mods: @x, @n.
 -- あ、
- Ah,
+ %{i}Ah%{/i},
 }
 [sha:6bf579081f1832dc6c35b0d90645ee5dfa1c05d8]{
 -- Page 88, Offset 3817. Glued.
@@ -511,12 +511,12 @@ She shrugs her shoulders and lets out a complaint typical of an upperclassman.
 [sha:2740a08f929212fb7731fea8446ec93fa74a5e01]{
 -- Page 93, Offset 3831.
 -- 「おお」
-"Oh."
+"%{i}Oh%{/i}."
 }
 [sha:c5d2a1bed10575d0a0b28c4140b3ae980d3cb1bf]{
 -- Page 93, Offset 3832.
 -- 「げ」
-"Geh."
+"%{i}Geh%{/i}."
 }
 [sha:8d7b3b12904c5291d90fc191215b4986d0915130]{
 -- Page 93, Offset 3833.
@@ -641,7 +641,7 @@ Since you weren't here this morning, you don't even know that a new teacher has 
 [sha:10b4eaea81fd14db02fdf73ecd3a323a887195c0]{
 -- Page 102, Offset 3857.
 -- 「おや。乾くん、年上の女性が好みなんですか？」
-"Oh. Inui-kun, do you prefer older women?"
+"%{i}Oh%{/i}. Inui-kun, do you prefer older women?"
 }
 [sha:43c55215e784c2e72b404f083c9b4e5d8eca0f9e]{
 -- Page 102, Offset 3858. Mods: @k, @e.
@@ -651,12 +651,12 @@ Since you weren't here this morning, you don't even know that a new teacher has 
 [sha:c1614a748bf7aaf27154c517652cfc45918a86cc]{
 -- Page 102, Offset 3859. Glued. Mods: @x.
 -- あ、いや、可愛ければメンドくさいのもアリなんで、一つ下まではアリですが」
- Ah, well, if she's cute I can go a year younger."
+ %{i}Ah%{/i}, well, if she's cute I can go a year younger."
 }
 [sha:f30aee7c62c5ae35741873e45ea1d47074fa5e9a]{
 -- Page 103, Offset 3860.
 -- 「ふむふむ。甘えるのもかまうのも得意なワケですか。
-"Hmm hmm... so you're good at both pampering and bullying?
+"%{i}Hmm hmm%{/i}... so you're good at both pampering and bullying?
 }
 [sha:448ce74ae560e157adc0114a6329a46eee35e036]{
 -- Page 103, Offset 3861.
@@ -681,7 +681,7 @@ By the way, what about you, Tohno-kun? Do you like older women?"
 [sha:fd9266ca4ce70ed91bbb17820f5f5dfa5a617bf7]{
 -- Page 106, Offset 3865. Mods: @n.
 -- 「ほう。
-"Hoh.
+"%{i}Hoh%{/i}.
 }
 [sha:5ddbced8abebedd9823436d6ac3c93d41f8f7377]{
 -- Page 106, Offset 3866. Glued.
@@ -786,7 +786,7 @@ Arihiko runs off to the infirmary, seemingly fully intent on skipping the aftern
 [sha:bc7cb844a9d417398ae6ef0b98810222e3ba4b51]{
 -- Page 113, Offset 3886.
 -- 「やれやれ。注意するべきなんでしょうけど、不思議と乾くんには甘くなってしまいますね。これも人徳なのでしょうか」
-"Oh dear. I know I should be careful, but strangely enough, I've become lenient toward Inui-kun. Is this benevolence?"
+"%{i}Oh%{/i} dear. I know I should be careful, but strangely enough, I've become lenient toward Inui-kun. Is this benevolence?"
 }
 [sha:1db4815e549723e3ddf5196bc09696d29f4d26ba]{
 -- Page 113, Offset 3887.
@@ -826,7 +826,7 @@ Although I am badmouthing him, Senpai keeps her gentle smile.
 [sha:e6aad7ebf67d600a0a0df45bbf8dc44c68f28f80]{
 -- Page 117, Offset 3894.
 -- 「……あの。なんですかその含み笑い」
-"...Erm. What's with the smile?"
+"...%{i}Erm%{/i}. What's with the smile?"
 }
 [sha:5f86bffc03ba588216d106937020f9c62112485f]{
 -- Page 117, Offset 3895.

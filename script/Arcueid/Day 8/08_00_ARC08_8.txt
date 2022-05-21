@@ -33,7 +33,7 @@ I get the feeling it wasn't just because her wound was acting up,
 [sha:44e983b6d2f3458381521ba7e01ad8114f2a29b8]{
 -- Page 491, Offset 20960.
 -- 「ん？」
-"Hmm?"
+"%{i}Hmm%{/i}?"
 }
 [sha:7b4f8e4d5b7066a2a808765dd27abbb39802aab3]{
 -- Page 491, Offset 20961.
@@ -198,7 +198,7 @@ Before the blade scything through the darkness could connect,
 [sha:cdf1f80f97eb73eb9177f6e74bd6c3bfaca8cbab]{
 -- Page 497, Offset 20989.
 -- 「―――ク」
-"―――Kh."
+"―――%{i}Kh%{/i}."
 }
 [sha:12820bd50dcddf24e2c01b9c7a8b47ed0d5ddc61]{
 -- Page 497, Offset 20990.
@@ -219,7 +219,7 @@ I must intercept every strike of that deadly weapon...!
 [offset:20993]{
 -- Page 498, Offset 20993.
 -- 「っ……！」
-"Kuh...!"
+"%{i}Kuh%{/i}...!"
 }
 [sha:4e1584d860e4b8882906cbe15778a7aa377d5eda]{
 -- Page 498, Offset 20994.
@@ -332,7 +332,7 @@ Something just like this definitely happened, long ago.
 [sha:ef08b68c759ef972eb7932c92875e043a7df2568]{
 -- Page 503, Offset 21014.
 -- あれは、そう。
-It was... Ah, that's right.
+It was... %{i}Ah%{/i}, that's right.
 }
 [sha:2fb6b738a904b9b162f4fce356bbfbbfa45e87f0]{
 -- Page 503, Offset 21015.
@@ -418,7 +418,7 @@ I finally understood that this 'somebody' can see the same things I do.
 [sha:2929980385e3d9ff821777b37e58079b21c22ac3]{
 -- Page 507, Offset 21030.
 -- ――――ク。
-――――Tch.
+――――%{i}Tch%{/i}.
 }
 [sha:b7639dfeea349887b5e6a0097a8519fa2a7aa09b]{
 -- Page 507, Offset 21031.
@@ -436,7 +436,7 @@ They stare at me with those bloodshot eyes,
 [sha:d4fa0c6d4f990342d751a0c1bbdc24447960163d]{
 -- Page 508, Offset 21033.
 -- 「―――、は」
-"―――Hah."
+"―――%{i}Hah%{/i}."
 }
 [sha:53fea1aa381ee9582817c1d0145ebf615628d346]{
 -- Page 508, Offset 21034.
@@ -459,7 +459,7 @@ I see. In that case, we're even.
 [sha:309c2628be0860a2aefa9d446a4e58190482d8fd]{
 -- Page 509, Offset 21037.
 -- 「―――は、は」
-"―――Hah, hah."
+"―――%{i}Hah, hah%{/i}."
 }
 [sha:70db1b4354e10f3f72429e4c54704da1898ee7f8]{
 -- Page 509, Offset 21038.
@@ -555,7 +555,7 @@ I take a step forward.
 [sha:32fa8bcd2f9cb8f675d359fc9ebd941dc24e171b]{
 -- Page 512, Offset 21053.
 -- ああ、でも<自然|ふしぎ>だ。
-Ah, but it's strange.
+%{i}Ah%{/i}, but it's strange.
 }
 [sha:7e96f0ab9e1f38f69a5d546a08ea5e065cd83cb5]{
 -- Page 512, Offset 21054.
@@ -566,7 +566,7 @@ Why, in a situation like this,
 [sha:bb93983ad220f0df3ac713777f64c684c1ad7151]{
 -- Page 513, Offset 21055.
 -- 「え―――？」
-"Eh―――?"
+"%{i}Eh%{/i}―――?"
 }
 [sha:27aadaa661246a33cf4b9432a3e9db1420adb1aa]{
 -- Page 513, Offset 21056.
@@ -738,7 +738,7 @@ and leaps off the streetlight, aiming straight at the man below.
 [sha:f7f7eed3287e9573057da41e01248cd285da933d]{
 -- Page 524, Offset 21087.
 -- 「“アアアアアアアアアァアア！”」
-"AAAAAAAAAAAAAH!"
+"%{i}AAAAAAAAAAAAAH%{/i}!"
 }
 [sha:ae4e4713bda70d5b0e8493ab90650aab2dc71e59]{
 -- Page 524, Offset 21088.
@@ -860,7 +860,7 @@ Well, I wonder if I should still call you that?"
 [sha:23376106954a31e7c179828b3ddc93747ed96cf0]{
 -- Page 531, Offset 21108.
 -- 「ふふ。そうねぇ。先生って響きは悪くないけど、ここは学校の外なんだし？　先生は外したほうが何かと気が楽よね、お互いに」
-"Fufu. That's a great question.
+"%{i}Hehe%{/i}. That's a great question.
  I don't mind the sound of 'sensei', but we aren't at school, are we?
  I think it'll be easier for both of us if you drop the 'sensei'."
 }

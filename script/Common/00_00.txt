@@ -435,7 +435,7 @@ When I touched one of them with my finger...
 [sha:be370f298b77d470942d9986d4445ba2231c6f94]{
 -- Page 31, Offset 191.
 -- 「―――あ」
-"―――Ah."
+"―――%{i}Ah%{/i}."
 }
 [sha:3f520afbacb6e0a1297a04fef139190124e05e02]{
 -- Page 31, Offset 192.
@@ -461,7 +461,7 @@ It was fun, so I slid the knife along the line on the bed.
 [sha:fa9451c2d11c8f70d4780659400a0689ef5d866b]{
 -- Page 32, Offset 196.
 -- ごとん。
-%{i}Thud%{/i}
+%{i}Thud%{/i}.
 }
 [sha:a6d6c405b38e997071e9009c81e51e0a890f8fdb]{
 -- Page 32, Offset 197.
@@ -471,7 +471,7 @@ With a heavy sound, the bed split clean in two.
 [sha:647fd96c7254755319754ac5697f34b3b1bbe98d]{
 -- Page 33, Offset 198.
 -- 「きゃあああああ！」
-"Kyaaaahhh!"
+"%{i}Kyaaaahhh%{/i}!"
 }
 [sha:623ce41eb50ee0d05928080d8902d04f0a2450a5]{
 -- Page 34, Offset 199.
@@ -656,7 +656,7 @@ Just opening my eyes, just being alive, was sickening enough to make me want to 
 [sha:3801fd1c0745149b7375340c95be52b7d3b73ca0]{
 -- Page 48, Offset 233.
 -- ……ああ、今まで知らなかった。
-...Ah. I hadn't realized it until then.
+...%{i}Ah%{/i}. I hadn't realized it until then.
 }
 [sha:010b89f617615ef1e59d5fe339f0556cc5c729b5]{
 -- Page 48, Offset 234.
@@ -725,7 +725,7 @@ I tried to recall, but it was no use.
 [offset:246]{
 -- Page 51, Offset 246.
 -- ……ああ、そうか。
-...Ah, I see it now.
+...%{i}Ah%{/i}, I see it now.
 }
 [sha:5ce072a70b50d9a1c29dced14306695b21d7afd5]{
 -- Page 51, Offset 247.
@@ -841,7 +841,7 @@ I hadn't gotten very far at all.
 [sha:54472710f49cd54c3451db7cb3ad8ce63ffda69d]{
 -- Page 56, Offset 268.
 -- 「……ごほっ」
-"...%{i}cough%{/i}."
+"...%{i}Cough%{/i}."
 }
 [sha:a14feb977c67c073d2d352ab3ca61c2c257bb3f4]{
 -- Page 56, Offset 269.
@@ -897,12 +897,12 @@ I heard a woman's voice, clear as a bell.
 [sha:16b59b0ba8052ad932abedc920e58118c5927909]{
 -- Page 60, Offset 279.
 -- 「え………？」
-"Eh...?"
+"%{i}Eh%{/i}...?"
 }
 [sha:0b8dd5de5facb93f756d3a4eb8d87d1bba860fca]{
 -- Page 60, Offset 280.
 -- 「え、じゃないでしょ。
-"Don't you 'eh' me.
+"Don't you %{i}eh%{/i} me.
 }
 [sha:7e9b8e7482cd8cd24f727750df48740712055da7]{
 -- Page 60, Offset 281.
@@ -1068,7 +1068,7 @@ You should go back to your room and do exactly as the doctor orders."
 [sha:fb6235d021cb9e0bdf56724dbd34ce92de383fc6]{
 -- Page 75, Offset 311.
 -- 「あ―――」
-"Ah―――"
+"%{i}Ah%{/i}―――"
 }
 [sha:6096d9940c53262a39bd28873805352367c75e7f]{
 -- Page 75, Offset 312.
@@ -1213,7 +1213,7 @@ Her eyes were unforgiving.
 [sha:fc789f6380b2bb3b5318e2acc5d4453b297eb48d]{
 -- Page 89, Offset 339.
 -- ああ、なんてバカだったんだろう。
-Ah, what a fool I was.
+%{i}Ah%{/i}, what a fool I was.
 }
 [sha:9a899b867a84f25e9483bd64370ebc92fce6f910]{
 -- Page 89, Offset 340.
@@ -1239,7 +1239,7 @@ And as someone who could see them,
 [sha:bbb50f016c0c15c70679126ec0066c8f03c9f7d4]{
 -- Page 91, Offset 344.
 -- 「――――――っ」
-"――――――Ah"
+"――――――%{i}Ah%{/i}."
 }
 [sha:8b51d5283f39a1da0cbc1690fea2562a8136134f]{
 -- Page 91, Offset 345.
@@ -1302,7 +1302,7 @@ Sensei embraced a person like me,
 [sha:235f9f0fe093a6b7a367534d9ba727bc0d01546f]{
 -- Page 94, Offset 356.
 -- うん、まあ、たしかに志貴は怒られるような事をしたけど、それは決して、貴方だけが悪いってワケじゃないんだから」
-Hmm, well, it's true that you did something unacceptable,
+%{i}Hmm%{/i}, well, it's true that you did something unacceptable,
  but that absolutely does not mean you're the only one at fault."
 }
 [sha:03274be843e2912be65602b09332064f229434d5]{
@@ -1700,7 +1700,7 @@ If I accidentally cut any more of those lines,
 [sha:7a72e8c1f9cb53cfc514a76d28ce11d9b5accb4a]{
 -- Page 128, Offset 431.
 -- 「ああ、もう二度と線を切らないっていうアレか。
-"Ah, that thing about never cutting the lines again.
+"%{i}Ah%{/i}, that thing about never cutting the lines again.
 }
 [sha:a23d869c5d2287a31f05607dccbf7fdfeb7458d5]{
 -- Page 128, Offset 432.
@@ -1820,7 +1820,7 @@ Sensei stood up and reached for her suitcase.
 [sha:ee954878e2a5ceb1bad71d00360900306a88ed00]{
 -- Page 138, Offset 454.
 -- 「あ、でもよっぽどの事がないかぎりメガネは外しちゃだめだからね。特別な力は特別な力を呼ぶものだし。
-"Ah, but don't take off your glasses unless you have to. Special powers attract special powers, after all.
+"%{i}Ah%{/i}, but don't take off your glasses unless you have to. Special powers attract special powers, after all.
 }
 [sha:42ebe9a5132a1877b20b75b54f2ea50319edbb15]{
 -- Page 138, Offset 455.
@@ -1996,7 +1996,7 @@ As I stood there in a daze, tears welled up in my eyes.
 [sha:8fa1483b4cb2e872b73435fdce3811397c62386b]{
 -- Page 152, Offset 488.
 -- ―――ああ、なんてバカなんだろう。
-―――Ah, what a fool I was.
+―――%{i}Ah%{/i}, what a fool I was.
 }
 [sha:15499e73992a21205ce76d9c8482a05eccbefe8b]{
 -- Page 152, Offset 489.

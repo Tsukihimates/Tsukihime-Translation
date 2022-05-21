@@ -108,7 +108,7 @@ I wish I had asked for Kohaku-san instead.
 [sha:5e4b89908f014976c4445f386dc4ce98298d0bf3]{
 -- Page 222, Offset 14451.
 -- 「ああん、ウソウソ、かぎりなく本気だけどジョウダンよぅ。外来の診察なんて久しぶりだから、患者さんとの距離感掴めなくてぇ。フランクな挨拶のほうがいいかなぁー？　って気を遣ってみたのよぅ」
-"Aah, kidding, kidding. Except I'm totally serious.
+"%{i}Aah%{/i}, kidding, kidding. Except I'm totally serious.
  It's been a while since I've examined anyone from outside the mansion, so I wasn't sure how familiar to be with my new patient.
  I was thinking about what might suit you, and figured a frank greeting would be best, you know?"
 }
@@ -147,7 +147,7 @@ You wouldn't have guessed that she'd been loudly clattering around in her high h
 [sha:f87f9fd79268364d6398d537225cacc943bead1d]{
 -- Page 226, Offset 14456.
 -- 「飲んでませんわよ？　アタシ、常時シラフだもぉん。アルコールなんて摂取するぐらいならチョコ飲むわよぅ、チョコ」
-"Hm? I haven't drunk anything.
+"%{i}Hm%{/i}? I haven't drunk anything.
  I'll have you know I'm sober 24/7.
  I never touch alcohol, the only drink for me is hot chocolate. A nice hot choccy."
 }
@@ -164,11 +164,11 @@ I guess this level of energy is just par for the course with her.
 [sha:3972b41940d8728e2a55d95e10192c626c281153]{
 -- Page 227, Offset 14459.
 -- 「お、素直に見せてくれたわねぇ。でも裾をまくしあげるだけ？　パンツは？　パンツ一丁にならないの？　男の裸が綺麗な時期なんてせいぜい二十五までなんだから、いまのうちに露出癖つけておかないともったいないわよぅ？」
-"Oho, so you're going to be obedient and let me see?
+"%{i}Oho%{/i}, so you're going to be obedient and let me see?
  But are you really going to stop after just rolling up the hem?
  What about your pants?
  Aren't you going to strip down to your underwear?
- A man's naked body only stays beautiful until they're 25 at most, it would be a waste if
+ A man's naked body only stays beautiful until they're twenty-five at most, it would be a waste if
  you didn't get in the habit of showing it off while you still can!"
 }
 [sha:31b9174e55d428ed5a4b166572f36130f31d5dd4]{
@@ -229,7 +229,7 @@ It's as though she was scanning me with the sonar of a submarine.
 -- Page 231, Offset 14470.
 -- 「やっだぁ～、骨に<罅|ヒビ>入ってるわよぅ？
 // Back to playful VA
-"Oh dear～ It looks like you've fractured your leg, haven't you?
+"%{i}Oh%{/i} dear～ It looks like you've fractured your leg, haven't you?
 }
 [sha:e7e0572f0ad2173583f617452c5e90a11f8233ff]{
 -- Page 231, Offset 14471.
@@ -240,7 +240,7 @@ You're quite the masochist, aren't you, Shiki-chan? After all, normal people wou
 [sha:62046bc5262d2106f3cdba5d75d7335dde131543]{
 -- Page 232, Offset 14472.
 -- あー……やっぱりそうか。
-Ah... So that's how it is.
+%{i}Ah%{/i}... So that's how it is.
 }
 [sha:8dbcdfc888915432c70c7c4146bad7a55ed78ddf]{
 -- Page 232, Offset 14473.
@@ -255,14 +255,14 @@ I wouldn't be surprised if I had quite a few fractures here and there.
 [sha:8325094722e5c263af28b426fef3ac1c3bac4f36]{
 -- Page 233, Offset 14475. Mods: @k, @e.
 -- 「んー、でもヘンな話ねぇ？　ココに亀裂があるってコトは、このあたり折れてないとおかしいんだけどぉ。
-"Hmm, but it's strange, isn't it?
+"%{i}Hmm%{/i}, but it's strange, isn't it?
  If there's a fracture, you'd expect the area around it to be a little damaged as well.
 }
 [sha:08a4ab1d413511fec5331c30768f4f4b9aea45d3]{
 -- Page 233, Offset 14476. Glued. Mods: @x, @k, @e.
 -- んー、
 // Leading space for glue
- Hmm...
+ %{i}Hmm%{/i}...
 }
 [sha:a3ec962b1c05ac623b75b8f93978c4234fb33984]{
 -- Page 233, Offset 14477. Glued. Mods: @x.
@@ -274,7 +274,7 @@ I wouldn't be surprised if I had quite a few fractures here and there.
 [sha:fd37e33c3201ca264d7a8725b69158dd85027488]{
 -- Page 233, Offset 14478.
 -- 「ひゃあ!?　アアアンタ、なにした、いま!?」
-"Wah?! Y-Y-You, what the heck was that!?"
+"%{i}Wah%{/i}?! Y-Y-You, what the heck was that!?"
 }
 [sha:bb3edf3e7730b956fc40f39776d934adb3400de5]{
 -- Page 234, Offset 14479. Mods: @k, @e.
@@ -285,7 +285,7 @@ I wouldn't be surprised if I had quite a few fractures here and there.
 -- Page 234, Offset 14480. Glued. Mods: @x.
 -- んー、でもこれ開く必要ないわねぇ。固定しとけば明日には治ってるわぁ。阿良句つまんなーい」
 // Leading space for glue
- Hmm, it looks like there's no need to slice you open.
+ %{i}Hmm%{/i}, it looks like there's no need to slice you open.
  It'll heal on its own by tomorrow if you don't move around too much. Bo～ring!"
 }
 [sha:12b8619956d70985210ee28ee036dd0e02a6b3cd]{
@@ -370,12 +370,12 @@ Personally, I love that kind of reckless behavior, so even though I'm your docto
 -- Page 240, Offset 14495.
 -- 「おや。医者は本職じゃないんでしょ？」
 // Callback 14489.
-"Oh? But didn't you say you're more of a scientist than a doctor?"
+"%{i}Oh%{/i}? But didn't you say you're more of a scientist than a doctor?"
 }
 [sha:c007bf8ff0d56b3cd5d5d59252715aaf157a5ebc]{
 -- Page 241, Offset 14496.
 -- 「きゃー、志貴チャンったら辛辣ー♡
-"Kyaaa, Shiki-chan, you're so harsh ♡
+"%{i}Kyaaa%{/i}, Shiki-chan, you're so harsh ♡
 }
 [sha:3a84b7c930685eb34b549a9eb798fc607e7aeeeb]{
 -- Page 241, Offset 14497. Mods: @k, @e.
@@ -394,7 +394,7 @@ You may look docile, but deep down you must be cold-blooded, right?
 [sha:8cc7cd8c272d5b21cb0f65bed8778bc800a4b5de]{
 -- Page 242, Offset 14499.
 -- 「……えっと、貧血持ちの事ですか？」
-"...Um, are you referring to my anemia?"
+"...%{i}Um%{/i}, are you referring to my anemia?"
 }
 [sha:f16a15737fdaf7130a2e99126c38a94e7b3c1baf]{
 -- Page 242, Offset 14500.
@@ -425,7 +425,7 @@ You may look docile, but deep down you must be cold-blooded, right?
 [sha:e9cec653574d62c812e1fb32acc64a1a0263c3aa]{
 -- Page 245, Offset 14503.
 -- 「あ、そう、そんな感じ！
-"Ah yeah, it's just like that!
+"%{i}Ah%{/i} yeah, it's just like that!
 }
 [sha:0cc5d86621b5813b015696c659f48a196942895b]{
 -- Page 245, Offset 14504.
@@ -438,7 +438,7 @@ This sort of thing doesn't just happen by chance, you understand?
 -- Page 245, Offset 14505.
 -- うふふ。兄妹なのに、当主チャンとは正反対♡」
 // 当主チャン again. Dunno if we want to be consistent (matriarch-chan) or vary the TL on this one.
-Ufufu. Even though you two are siblings, you are the exact opposite of little miss family head ♡"
+%{i}Ufufu%{/i}. Even though you two are siblings, you are the exact opposite of little miss family head ♡"
 }
 [sha:38e255d18b35421db10f78b06d9c7f64bc97ddd7]{
 -- Page 245, Offset 14506.

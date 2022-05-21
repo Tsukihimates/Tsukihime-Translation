@@ -158,7 +158,7 @@ If you show up ages before we're supposed to meet, you can't then complain about
 [sha:3c5dc0c907fbcf10749b2af5bbe6000d1183a86a]{
 -- Page 301, Offset 20418.
 -- 「む。それとこれとは別問題でしょ。志貴が遅れたってコトは変わらないんだから」
-"Mmph. But those two things are unrelated. It doesn't change the fact that you were late."
+"%{i}Mmph%{/i}. But those two things are unrelated. It doesn't change the fact that you were late."
 }
 [sha:523e3ddce5099443766e6ca612fe3a470015bf7e]{
 -- Page 302, Offset 20419.
@@ -272,7 +272,7 @@ So please, no matter what happens, do not come to the mansion!
 -- Page 309, Offset 20437.
 -- 「ふーん……あきはって、志貴に全然似てない妹さんのコト？」
 // ( ͡° ͜ʖ ͡°)
-"Hmm... Akiha, you mean that little sister who doesn't resemble you in the slightest?"
+"%{i}Hmm%{/i}... Akiha, you mean that little sister who doesn't resemble you in the slightest?"
 }
 [sha:d47ab9683a3c4d5fbf3346dc67a8bfe88e4e8c08]{
 -- Page 309, Offset 20438.
@@ -331,7 +331,7 @@ It's just that I've recently made an exception for a certain someone."
 -- Page 312, Offset 20448.
 -- 「あはは、それってわたしのコトだー」
 // :arcsmile:
-"Ahaha, you're talking about me!"
+"%{i}Ahaha%{/i}, you're talking about me!"
 }
 [sha:f461ad83a8d2bb09ed17382be57c3ad91b04bc71]{
 -- Page 313, Offset 20449.
@@ -390,7 +390,7 @@ We're going to be looking for vampires just like yesterday, right?"
 [sha:86301c412c9ccbcd8a338546779c815745ca4717]{
 -- Page 316, Offset 20459.
 -- 「っと、そうだったわね。今夜は眼鏡は外さなくていいから、わたしの後に付いてきて」
-"Oh, so we were.
+"%{i}Oh%{/i}, so we were.
  There's no need for you to take your glasses off tonight, just follow along behind me."
 }
 [sha:0b11178794ccc7baa73df28dc8847a39891c2b50]{
@@ -521,7 +521,7 @@ Although it was faint, I could sense a hint of disappointment from Arcueid as sh
 [sha:3bc6966605c72ed172879e656e9f2e98c95c3db3]{
 -- Page 326, Offset 20482.
 -- 「む。それ、どういう意味。わたしだってヒトなみに壊したり潰したりしますよーだ」
-"Hmph. What do you mean by that? I can break and destroy things, just like anyone else."
+"%{i}Hmph%{/i}. What do you mean by that? I can break and destroy things, just like anyone else."
 }
 [sha:66f6e2b7b99d44765e1dc80fa09823ca6235192f]{
 -- Page 326, Offset 20483.
@@ -596,7 +596,7 @@ Being reduced to investigating on foot like this just feels so hopelessly old-fa
 [sha:b61d5f17efa5db85ebd6279714e43ad7a4e70d1c]{
 -- Page 331, Offset 20496.
 -- 「ん？　わたしは別に大変じゃないよ？　決められた作業だもの、手順を踏んでいけばきちんと終わるものだし」
-"Hmm? I can't say I really mind it.
+"%{i}Hmm%{/i}? I can't say I really mind it.
  It's a paint-by-numbers affair, so long as we methodically check off the steps one after another, we'll get there eventually."
 }
 [sha:c313eb8aa607fc883124935d9b3eec91ba9619fa]{
@@ -687,7 +687,7 @@ Our partnership is based on mutual interest after all.
 [sha:cf2a8e7623d70aa71c6dbfb29918be571166c372]{
 -- Page 339, Offset 20512.
 -- ふーん、と納得するアルクェイド。
-'Hmm', mutters Arcueid, seemingly convinced.
+%{i}Hmm%{/i}, mutters Arcueid, seemingly convinced.
 }
 [sha:70b43be700babcf3a392c87d3a8cd479f2928606]{
 -- Page 339, Offset 20513.
@@ -784,12 +784,12 @@ Are you saying that you enjoy having me around?"
 [sha:1cbc47d84852b246bf84074205fc55f67b1af57b]{
 -- Page 344, Offset 20530.
 -- 「む。おっかないって、どのへんが？」
-"Hmph. What exactly about me is so terrifying?"
+"%{i}Hmph%{/i}. What exactly about me is so terrifying?"
 }
 [sha:0bdb8ff27531006f64eb7f1929da5aa6ab961000]{
 -- Page 345, Offset 20531. Mods: @k, @e.
 -- 「山ほどある。殺しても生き返ってひたすら追いかけてくるとか、
-"Oh, don't get me started.
+"%{i}Oh%{/i}, don't get me started.
  There's the fact that even after I killed you, you came back to life and chased after me,
 }
 [sha:b6f4ea731a397ebd3dae6b1a60a6898c706c2f5a]{
@@ -821,7 +821,7 @@ Are you saying that you enjoy having me around?"
 -- 「岩盤をちゃぶ台返しするところとか、人の体によくわかんないものを塗りつけたりとか、あと、昼間に学校に来るところとか」
 "Not to mention the time you flipped an entire slab of bedrock over,
  or when you smeared that mysterious substance all over someone's body,
- oh, and let's not forget showing up at my school in the middle of the day."
+ %{i}oh%{/i}, and let's not forget showing up at my school in the middle of the day."
 }
 [sha:b71f02d7330e3a400727f612d5c61c282ec8a828]{
 -- Page 347, Offset 20537.
@@ -831,7 +831,7 @@ Are you saying that you enjoy having me around?"
 [sha:3a80a878539e4d6838e6abd2c0e146e290bbf3ac]{
 -- Page 347, Offset 20538.
 -- 「ん？　いいのか、まだもうちょっとだけあるぞ？」
-"Hmm? Are you sure? I still have a few more to go."
+"%{i}Hmm%{/i}? Are you sure? I still have a few more to go."
 }
 [sha:87462c5b2bde82057ecd5b5e89df00928353a18f]{
 -- Page 348, Offset 20539.
@@ -841,7 +841,7 @@ Are you saying that you enjoy having me around?"
 [sha:74022efb199424038ead30cc91c38ca8a8558593]{
 -- Page 348, Offset 20540.
 -- ふんだ、どうせわたしは吸血鬼ですものね！」
-Hmph, well I am just a vampire after all!"
+%{i}Hmph%{/i}, well I am just a vampire after all!"
 }
 [sha:1c11537b2c2f6d5fa07312e35bbad7f679098fac]{
 -- Page 349, Offset 20541.

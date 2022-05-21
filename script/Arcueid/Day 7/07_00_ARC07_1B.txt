@@ -101,14 +101,14 @@ Silently cheering on my kindred spirits in the sports clubs as they give it thei
 -- 「あ、あらら？　おはよう志貴クン、今朝は早くない？」
 // VA is a bit more like a single started 'ah', then a standalone あらら.
 // Dropped duplicate morning
-"Oh, what have we here?
+"%{i}Oh%{/i}, what have we here?
  Good morning, Shiki-kun, aren't you a little early?"
 }
 [sha:469912541425e423470aa25ae53627b39288f752]{
 -- Page 48, Offset 16692.
 -- 「っと……はい、ちょっと時間を間違えて。
 // The っと is pretty clearly voiced, needs _something_ here.
-"Uh... Yes, I got the time a bit mixed up.
+"%{i}Uh%{/i}... Yes, I got the time a bit mixed up.
 }
 [sha:12d0dfbc67bbebc60b4fd71deacc3288d0a9efcb]{
 -- Page 48, Offset 16693.
@@ -143,12 +143,12 @@ She seems pretty shocked to see me,
 [sha:6e735b8f46b5684a39a6157a2b8dabd6459d0202]{
 -- Page 50, Offset 16698.
 -- それより、金曜日の無断欠席についてですけど……」
-Ah, while I have you here, about my unexcused absence last Friday..."
+%{i}Ah%{/i}, while I have you here, about my unexcused absence last Friday..."
 }
 [sha:3f1fb98adc423dd7ef0b2bc8abe4b8eff6d2884b]{
 -- Page 51, Offset 16699.
 -- 「ああ、アレね。大丈夫、お家には連絡入れてないから。
-"Oh, that. Relax, I didn't inform your family about it.
+"%{i}Oh%{/i}, that. Relax, I didn't inform your family about it.
 }
 [sha:5caf296439ad270e9234a5af9e54262f54872257]{
 -- Page 51, Offset 16700.
@@ -190,7 +190,7 @@ I get the feeling that Noel-sensei's education policy is just a tad too lenient.
 -- Page 53, Offset 16706.
 -- 「あ、志貴クンったらあたま固いんだ。
 // Not sure あたま固い is _stubborn_ in this context, just disapproving of her policy / no fun.
-"Oh, Shiki-kun, you're such a wet blanket.
+"%{i}Oh%{/i}, Shiki-kun, you're such a wet blanket.
 }
 [sha:232ce44e27c4ec5ebdd6a8ada1fa02ad49284704]{
 -- Page 53, Offset 16707. Mods: @k, @e.
@@ -485,7 +485,7 @@ We could all stand to learn a thing or two from his rebellious spirit.
 [sha:20737be86fecec972bf14d69ace66df9a0eeed7b]{
 -- Page 74, Offset 16758.
 -- おまえな、あの家がどれだけでかいか見てないから……ん？　有彦、遠野の屋敷、知ってるのか？」
-Besides, you haven't even seen how huge that house is... Hmm? Arihiko, you know about the Tohno mansion?"
+Besides, you haven't even seen how huge that house is... %{i}Hmm%{/i}? Arihiko, you know about the Tohno mansion?"
 }
 [sha:29cc3aeb10da5bcaf1810ca24cd927675efba202]{
 -- Page 75, Offset 16759.
@@ -505,7 +505,7 @@ I gotta say, the voyeuristic side of me does want to see it.
 -- 「俺が知るか。……ああいや、啓子さんの話じゃ年に数回泥棒騒ぎがあるらしいけど、遠野邸に警察が駆けつけた事なんかないって言ってたし。おまえだって、丘の上の屋敷に泥棒が入ったなんて話、聞いた事ないだろ？」
 // TLing 泥棒騒ぎ as burglary _successes_ (over _attempts_) due to 入った in final sentence
 "Like I would know...
- Ah, wait, I think Keiko-san told me there are actually a handful of burglaries each year,
+ %{i}Ah%{/i}, wait, I think Keiko-san told me there are actually a handful of burglaries each year,
  though for some reason, the police never seem to be in a rush to show up.
  Have you really not heard anything about burglars making it into the mansion up on the hill?"
 }
@@ -539,7 +539,7 @@ The burglars are getting caught before the police even have a chance to show up,
 [sha:47f32f5617b1cd30ab111db1c69f5ca6aa841b2f]{
 -- Page 78, Offset 16766.
 -- 「なるほど。それならどんな噂も広まらないか」
-"Oh, I get it. If that's the case, then that'd be why no rumors have spread."
+"%{i}Oh%{/i}, I get it. If that's the case, then that'd be why no rumors have spread."
 }
 [sha:3ad9edcd334daa9b2e5ddd69f721341e4179031b]{
 -- Page 79, Offset 16767.
@@ -555,7 +555,7 @@ We nod gravely to each other.
 [sha:8aed59f43a8a993909b667496f1d9088aa0b957e]{
 -- Page 80, Offset 16769.
 -- 「そうそう。土曜の事故現場、もう見たか？　北口駅前の大火事。地下からの出火だったって話」
-"Oh, yeah.
+"%{i}Oh%{/i}, yeah.
  Did you see the scene left by the incident on Saturday?
  That big fire by the north gate of the station.
  I heard the outbreak started underground."
@@ -583,13 +583,13 @@ But hey, it's not all bad news.
 [sha:1c087e3fdb01d7d5ca36755cbaf0a8477e6de9f4]{
 -- Page 82, Offset 16773.
 -- 「そうなのか。……じゃあ、鞍御橋駅のホテルの話は？」
-"Is that so... Oh, what about the hotel at Kuramibashi Station?"
+"Is that so... %{i}Oh%{/i}, what about the hotel at Kuramibashi Station?"
 }
 [sha:a3775e7bfad2e1d083978acb8ebd835ef7c75fd3]{
 -- Page 82, Offset 16774.
 -- 「鞍御橋のホテルって、あのドームホテル？　あー……そういえば、あっちでも火災があったんだっけ。北口の壊れっぷりがすげえんで忘れてたわ」
 "The hotel at Kuramibashi, you mean that Dome Hotel?
- Ah... that's right, there was a fire there as well.
+ %{i}Ah%{/i}... that's right, there was a fire there as well.
  The fallout from the one at the north gate was so much bigger that I totally forgot about it."
 }
 [sha:9caf14b145678895cf9c4bcbc95dc1940b2d2be2]{
@@ -635,7 +635,7 @@ Anyway, what's happening on your end?
 [sha:ebf81cadd578d0dfa1759cc269ccd1acc48ebbe6]{
 -- Page 85, Offset 16781.
 -- 「ふーん。弓塚といいおまえといい、最近素行が悪いんじゃないか？」
-"Hmm. You and Yumizuka have both been misbehaving lately, haven't you?"
+"%{i}Hmm%{/i}. You and Yumizuka have both been misbehaving lately, haven't you?"
 }
 [sha:64da9c372d37fe952a70424c09b884988738d75c]{
 -- Page 85, Offset 16782.

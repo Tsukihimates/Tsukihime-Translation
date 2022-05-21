@@ -457,12 +457,12 @@ There are only four stops left until Souya Station, where my high school is loca
 [sha:eef79e81ff455a3f45c74b6e039f09a5aaa4b93c]{
 -- Page 32, Offset 1234.
 -- 「あわわ、待って待って！」
-"Awawa, wait, wait!"
+"%{i}Awawa%{/i}, wait, wait!"
 }
 [sha:eac011a5204abcccbfbaae2e3a1dc03536457871]{
 -- Page 33, Offset 1235.
 -- 「はあ～。あぶないあぶない、
-"Ah, that was close.
+"%{i}Ah%{/i}, that was close.
 }
 [sha:c88cee16ec35be6dae65ce13fb17ea2d29767b0c]{
 -- Page 33, Offset 1236.
@@ -512,7 +512,7 @@ Not only that, but she comes sauntering up to me.
 [sha:498e1cfd537b39d04bddb4d26e2f91691ddd6ebd]{
 -- Page 36, Offset 1245.
 -- 「あ、いえ、こっちこそすいません。じろじろ見ちゃって」
-"Ah, no, I'm sorry too. For staring at you, I mean."
+"%{i}Ah%{/i}, no, I'm sorry too. For staring at you, I mean."
 }
 [sha:d63f1fec044619938512a0f629d91a9f597d893a]{
 -- Page 36, Offset 1246.
