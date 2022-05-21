@@ -36,7 +36,7 @@ I exist within the nebulous moment in time that's neither day nor night.
 [sha:be370f298b77d470942d9986d4445ba2231c6f94]{
 -- Page 40, Offset 30602.
 -- 「―――あ」
-"―――Ah."
+"―――%{i}Ah%{/i}."
 }
 [sha:3123ddc15eaf70b44fa12f58eca2802702e1cff8]{
 -- Page 40, Offset 30603.
@@ -78,7 +78,7 @@ As beautiful as a glass bas-relief.
 -- 鮮明すぎて空からこぼれ落ちてきそうな白貌。
 // こぼれ落ちる difficult to place here. Img search is like 'sand runs through your fingers'. 'petals scatter' imagery,
 // not clear if it's referencing like the light scattering down, or the moon being so vibrant it 'pops' in the night sky or what.
-A pure, white visage so vivid it feels like it could spill from the sky at any moment.
+A pure, white visage so vivid that it feels like it could spill from the sky at any moment.
 }
 [sha:3b49baabae21c44edc27a3c948961b395433bc59]{
 -- Page 43, Offset 30611.
@@ -108,7 +108,7 @@ I saw a moon like this
 [sha:f56366c3791182387451583a2e793bd8d0b2c638]{
 -- Page 44, Offset 30616.
 -- 「ぐっ…………！？」
-"Kh...?!"
+"%{i}Kh%{/i}...?!"
 }
 [sha:d902da20e395d22633f6f0f4c40b34074dd6ea15]{
 -- Page 44, Offset 30617.
@@ -150,7 +150,7 @@ It comes away sticky. My uniform is stained a deep red.
 [sha:a06e9c0bc774bf425bc27e483f6e612849291cd4]{
 -- Page 46, Offset 30624.
 -- 傷が開いて、出血している。
-My scar is open, and bleeding.
+My scar is open and bleeding.
 }
 [offset:30625]{
 -- Page 47, Offset 30625.
@@ -160,7 +160,7 @@ My scar is open, and bleeding.
 [sha:e5d62dd10a542dca4b597201c3c25ece06f529ed]{
 -- Page 47, Offset 30626.
 -- 「は―――ア、ハア―――ハッ――――」
-"Ha―――h, ha―――ha――――"
+"%{i}Ha―――h, ha―――ha%{/i}――――"
 }
 [offset:30627]{
 -- Page 47, Offset 30627.
@@ -176,7 +176,7 @@ The chills running down my spine are as cold as ice.
 [sha:29750ccc8cf18645165d9c02b71dcc95bbf6b780]{
 -- Page 47, Offset 30629.
 -- あまりの震えに、背骨が皮膚を破って外に飛び出しそうなほど、痛い。
-I'm shivering so intensely it's as though my spine is trying to rip its way through my skin and escape.
+I'm shivering so intensely; it's as though my spine is trying to rip its way through my skin and escape.
  It's agony.
 }
 [sha:147597e2778a471c7baf77710fec8d4645a9599b]{
@@ -212,7 +212,7 @@ Mixed in with my heartbeat is another, sharper, sound.
 [sha:150de3ce4c072425c860ca4b9681c5e488cbc73d]{
 -- Page 49, Offset 30636.
 -- 「あ――――――」
-"Ah――――――"
+"%{i}Ah%{/i}――――――"
 }
 [sha:d0a8de918d1208492874e68ee3fe6deca046fc77]{
 -- Page 49, Offset 30637.
@@ -282,6 +282,7 @@ Still breathing heavily, I take off my glasses.
 [sha:236750aef2d02ec4e00d4a811da6f4fd70878ea2]{
 -- Page 52, Offset 30650.
 -- 懐に隠した<短剣|ナイフ>を<抜刀|ひきぬ>く。
+// is unsheathe the right word here? kinda implies the knife has a cover or something
 I unsheathe the knife hidden in my pocket.
 }
 [sha:54af49cd3d6bff2eed55e0d0782d831736782a1c]{
@@ -332,7 +333,7 @@ I don't know this person.
 [sha:e83174fab090a7aa936a9a179c121578ce8eee5f]{
 -- Page 54, Offset 30660.
 -- 知らないのに―――誰かに似ているような気がしてならない。
-I don't―――and yet I can't help but feel like he reminds me of someone.
+I don't―――and yet, I can't help but feel like he reminds me of someone.
 }
 [sha:e8bca9edde6d470caab5ca5e784aafb0a5f76c3b]{
 -- Page 54, Offset 30661.
@@ -482,7 +483,7 @@ Wouldn't you agree? Tohno―――Shiki."
 [sha:06a18c083c1cfa36380d338a9e308ad57ef040b7]{
 -- Page 60, Offset 30689.
 -- 「―――はっ！」
-"―――Ha...!"
+"―――%{i}Ha%{/i}...!"
 }
 [sha:01ca088ca6b1686c8b65519e68f3d164a711f1bc]{
 -- Page 61, Offset 30690.
@@ -492,7 +493,7 @@ I dash forward like a greyhound bolting out of the gate.
 [sha:c8d79563f13b804a8d7b2a4f2599659e7dfc0a3d]{
 -- Page 61, Offset 30691.
 -- <い|・><ま|・><さ|・><ら|・><遅|・><い|・>、と焦りながら最高速をたたきだす。
-Even knowing it's that it's already too late, I impatiently propel myself forward as fast as I possibly can.
+Even knowing that it's already %{i}too late%{/i}, I impatiently propel myself forward as fast as I possibly can.
 }
 [sha:2bde146e3c8dcc4f8c6756aa49f56b25bff85e13]{
 -- Page 61, Offset 30692.
@@ -569,7 +570,7 @@ The privilege of being able to see death is not yours alone."
 [sha:ab16c230c5b764edb4fad30487e07be1cc69d40e]{
 -- Page 64, Offset 30706.
 -- 俺のナイフを、俺の体めがけて振り下ろした。
-He aims my own knife back at me, and swings it down.
+He aims my own knife back at me and swings it down.
 }
 [sha:fb98ef61973c46787ca721514f7cfa9815dd8308]{
 -- Page 65, Offset 30707.
@@ -590,7 +591,7 @@ My body recalls the pain it felt when the same thing was done to it before, long
 [sha:90267228c3459dd9e1490d3cabf038c6c6bf5375]{
 -- Page 65, Offset 30710.
 -- 「―――――――――――あ」
-"―――――――――――Ah."
+"―――――――――――%{i}Ah%{/i}."
 }
 [sha:5d25b2ad0b0f904fd3395583b0ad4958b30d8350]{
 -- Page 65, Offset 30711.
@@ -702,7 +703,7 @@ The man is addressing empty space.
 [sha:7a372193d1261458616869df3c3c4b5a1d0c6d3e]{
 -- Page 71, Offset 30731.
 -- ああ―――どうして今まで忘れていたんだろう。
-Ah―――why did I forget about it until now?
+%{i}Ah%{/i}―――why did I forget about it until now?
 }
 [sha:c3c04635131ee65f06c7436f69b51e9b4b51b7d4]{
 -- Page 71, Offset 30732.
@@ -760,7 +761,7 @@ The owner of this body, Tohno SHIKI, is no longer with us.
 [sha:beaef76eaa02e186c47a2af45d9bcb5ba203733e]{
 -- Page 74, Offset 30742.
 -- 男は語る。同じ響きでありながら、違う言葉の男の名を。
-The man speaks. Though our names may sounds the same, their spelling differs.
+The man speaks. Though our names may sound the same, their spelling differs.
 }
 [sha:bcac0e041d35b565bd40058a0db6d087c078c076]{
 -- Page 74, Offset 30743.

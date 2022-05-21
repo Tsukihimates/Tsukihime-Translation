@@ -48,7 +48,7 @@ Thanks to Arcueid, my body is not yet able to move as I want it to.
 [sha:c245447caf59be183935628068950e1400c6310f]{
 -- Page 296, Offset 30378.
 -- ……目を閉じているのに彼女の仕草が判るのはおかしいと思うんだけど、あんまりに幸せそうな顔をするものだから、些細な疑問だと切り捨てる。
-I find it a little strange that I can understand Arcueid's gestures even with my eyes closed,
+I find it a little strange that I can understand her gestures even with my eyes closed,
  but she looks so happy that I abandon such trivial questions.
 }
 [sha:4d52076ac686b6c51a6e0f213858e1113721be5d]{
@@ -59,7 +59,7 @@ I find it a little strange that I can understand Arcueid's gestures even with my
 [sha:f5af7835ec28524da2f89cd2bb48492e91fcb895]{
 -- Page 297, Offset 30380.
 -- なんだろう、改まって。
-What's with the serious tone.
+What's with the serious tone?
 }
 [sha:07477f7fedce398f19724691b9ec0fe9c3488ea6]{
 -- Page 297, Offset 30381.
@@ -89,6 +89,7 @@ After all, she's afraid of drinking blood.
 [sha:574d5eac88273b11a92f123189e16bfa67276dc5]{
 -- Page 299, Offset 30386.
 -- 「―――だから、もしもの話。
+// what if or what-if?
 "―――That's why... this is just a what-if.
 }
 [sha:004229b1732ca2d2922dde21cbac3326593bedeb]{
@@ -129,7 +130,7 @@ You might not know where you're gonna end up,
 [sha:c50a3ce3b61df1ad2fb0757ee78ae9e436b5911d]{
 -- Page 300, Offset 30393.
 -- ……ああ。
-Ahhh...
+%{i}Ahhh%{/i}...
 }
 [sha:73e78844f9ae0f50d46ce8ee82ed62bb7bfefc73]{
 -- Page 300, Offset 30394.
@@ -154,7 +155,7 @@ Now that I think about it, this isn't the first time you've brought this up.
 [sha:741bdee0601e7f721038be3acd519f751f69ef0d]{
 -- Page 302, Offset 30398.
 -- こんな気持ちを持たせてくれて、それを言葉として伝えさせてくれるなんて、ほんとうに優しかった」
-It's thanks to your kindness that I can feel this way, and that I can put that feeling into words."
+It's thanks to your kindness that I can feel this way, and that I can put this feeling into words."
 }
 [offset:30399]{
 -- Page 302, Offset 30399.
@@ -195,7 +196,7 @@ I dimly heard that noise.
 [sha:940a50bd7bf0089cabfb83a7a2f8857eeca42660]{
 -- Page 304, Offset 30406.
 -- 「―――――――ん」
-"―――Nn."
+"―――%{i}Nn%{/i}."
 }
 [sha:7ede150914b1362b125b6d0ee98604eb2e0cd5ce]{
 -- Page 304, Offset 30407.
@@ -242,7 +243,7 @@ There's no need to worry about going to school.
 [sha:7810af97a6a0077068e46d0b7d1fb3ed427baa46]{
 -- Page 307, Offset 30415.
 -- そういえば、おかしな夢を見た気がする。
-Oh yeah, I feel like I had a weird dream.
+%{i}Oh%{/i} yeah, I feel like I had a weird dream.
 }
 [sha:d7f1b51846143c37d79349c90330d854c551eb9d]{
 -- Page 307, Offset 30416.
@@ -381,7 +382,7 @@ But what's worse―――is that I can understand why she's done this.
 [sha:807389ae903a70c8e8f07ff698d00ba5ce2d826c]{
 -- Page 315, Offset 30442.
 -- ばいばい、だなんて、簡単すぎる。
-She can't leave with nothing more than an %{i}adieu%{/i}.
+She can't leave with nothing more than an '%{i}adieu%{/i}'.
 }
 [sha:a47b145b63dcca643a04c2cd4bad09ccc7b28ca6]{
 -- Page 315, Offset 30443.
@@ -457,7 +458,7 @@ At this point, it's certain that we'll never meet again.
 [sha:f7a363ece0d246a852140c1448e411527c08da8a]{
 -- Page 320, Offset 30457.
 -- 「―――――――、ああ」
-"―――Aah."
+"―――%{i}Aah%{/i}."
 }
 [sha:e2458f2c8b3a999cb18f4693eb0fdd93fabb96c6]{
 -- Page 320, Offset 30458.
