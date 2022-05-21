@@ -78,7 +78,7 @@ As beautiful as a glass bas-relief.
 -- 鮮明すぎて空からこぼれ落ちてきそうな白貌。
 // こぼれ落ちる difficult to place here. Img search is like 'sand runs through your fingers'. 'petals scatter' imagery,
 // not clear if it's referencing like the light scattering down, or the moon being so vibrant it 'pops' in the night sky or what.
-A pure, white visage so vivid it feels like it could spill from the sky at any moment.
+A pure, white visage, so vivid it feels like it could spill from the sky at any moment.
 }
 [sha:3b49baabae21c44edc27a3c948961b395433bc59]{
 -- Page 43, Offset 30611.
@@ -155,7 +155,7 @@ My scar is open and bleeding.
 [offset:30625]{
 -- Page 47, Offset 30625.
 -- ――――どく、ん。
-――――%{i}Badu  mp%{/i}..
+――――%{i}Badu  mp%{/i}.
 }
 [sha:e5d62dd10a542dca4b597201c3c25ece06f529ed]{
 -- Page 47, Offset 30626.
@@ -182,22 +182,22 @@ I'm shivering so intensely it's as though my spine is trying to rip its way thro
 [sha:147597e2778a471c7baf77710fec8d4645a9599b]{
 -- Page 48, Offset 30630.
 -- ―――ぞく、ん。
-――――%{i}Badu  mp%{/i}..
+――――%{i}Badu  mp%{/i}.
 }
 [sha:44827f96f88142f1cd7f74bb64ac18f067b22a3c]{
 -- Page 48, Offset 30631.
 -- ―――どく、ん。
-――――%{i}Badu  mp%{/i}..
+――――%{i}Badu  mp%{/i}.
 }
 [sha:34b16bf26b1f04cb4b226c0b36d7806ba7ff9241]{
 -- Page 48, Offset 30632.
 -- ―――ぞ、く
-――――%{i}Badu%{/i}..
+――――%{i}Badu%{/i}.
 }
 [sha:2c2eb87967468b37c15e8828374e63f04c103071]{
 -- Page 48, Offset 30633.
 -- ―――ど、く
-――――%{i}Ba%{/i}..
+――――%{i}Ba%{/i}.
 }
 [sha:f3ea6fea605d203a0ac1682eeb3c3d142d9ddc70]{
 -- Page 48, Offset 30634.
@@ -237,6 +237,8 @@ Their footsteps echo coldly as they advance.
 [sha:448958298102e9f0d339ca57a7700290ac1a5ec9]{
 -- Page 50, Offset 30641.
 -- ヴローヴのような、吹き荒ぶ脅威とは違う。
+// group pr check: add the nuance of wind blowing
+// suggestion: The threat I sense now is not the raging fury that I sensed from Vlov.
 The threat I sense now doesn't stem from the same sort of wild violence that drove Vlov.
 }
 [sha:4c05ea0702a58d403c4f7914c36985f01f360609]{
@@ -252,6 +254,8 @@ A flash of pain shoots though my skull.
 [sha:f5d83bd282ccb6fd64e4842787833560310f10bf]{
 -- Page 51, Offset 30644.
 -- この痛覚。この危機感は、自分自身に対するものだ。
+// group pr check: sense of impending danger is directed to Shiki himself
+// suggestion: That sense of impending danger - it feels inextricably linked to me.
 This pain, this sense of impending danger―――is directed toward myself.
 }
 [sha:a9d539270a5af4f41fe9c9033381bf32209d66ff]{
@@ -292,7 +296,7 @@ The figure approaches.
 [sha:a234dde049e1d130150eb428a93834686614fe01]{
 -- Page 53, Offset 30652.
 -- 長身の男性。
-A man of high stature.
+A tall man.
 }
 [sha:8db2f6b9e9fe17ff9d940632ff46dba36fe321b4]{
 -- Page 53, Offset 30653.
@@ -393,7 +397,7 @@ But I can see his eyes―――they glitter radiantly, like those of a serpent e
 [sha:a139d5b54c2ae0d80d23ddbb37018e83dcb291a5]{
 -- Page 57, Offset 30672.
 -- 「“私が思うに。人間の一生は、主題の無い本のようだ”」
-"The way I see it, a man's life is like a book without a motif."
+"The way I see it, a man's life is like a book without a title."
 }
 [sha:d6a33babe3e8a0acdbc9bc7d6c1dd86b24336afb]{
 -- Page 57, Offset 30673.
@@ -421,6 +425,7 @@ I don't think I've ever heard something so viscerally repulsive before.
 -- 紙は年月に霞むほど<脆|もろ>い。
 // It's a little weird to say that paper grows _blurry_ with age.
 // Normally you'd say that of the ink. Kept noun changed verb, but could go either way.
+// group pr check: ask petrikow again
 Paper so frail that it fades with age.
 }
 [sha:8e0398493c958467244265f2a07d0598f047ecf4]{
@@ -472,7 +477,8 @@ It prevents me from committing to the urge to kill him,
 [sha:93549664554ac3174a998535b6d89d54dbc22eca]{
 -- Page 60, Offset 30687.
 -- 人生はあまりにも曖昧だ。
-Life is such a curious thing.
+// group pr suggestion: How enigmatic life is.
+Life is an enigma.
 }
 [sha:20fb2eaaff2766b51175edd0c68f36da5bd7272e]{
 -- Page 60, Offset 30688.
@@ -497,7 +503,7 @@ Even knowing that it's already too late, I impatiently propel myself forward as 
 [sha:2bde146e3c8dcc4f8c6756aa49f56b25bff85e13]{
 -- Page 61, Offset 30692.
 -- かつてない運動性能の発揮。
-A display of unparalleled physical ability.
+A display of physical ability I was unaware I was capable of.
 }
 [sha:9910bbf338e7c0af598f1c50d51cbb6d579116ca]{
 -- Page 61, Offset 30693.
@@ -524,7 +530,7 @@ Even though I managed all that in a single breath―――
 [sha:c835311797b4a8439e349a9862fc6a781dc948a0]{
 -- Page 62, Offset 30697.
 -- ヤツは瞬きのうちに、俺の背後にすり抜けていた。
-This guy manages to slip around to my rear in the mere blink of an eye.
+This guy manages to slip behind me in the mere blink of an eye.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 63, Offset 30698.
@@ -544,7 +550,7 @@ The man strikes my hand and snatches the knife away.
 [sha:889975a7e2d6393766d04d1415aae11b6ccb68c8]{
 -- Page 63, Offset 30701.
 -- その目は青く光りながら、俺の体の線を、直視している。
-With eyes shining blue, he stares straight into the lines on my body.
+With eyes shining blue, he stares straight at the lines on my body.
 }
 [sha:ad4ce9d4032a26906cbd94552bec78c7e43e065d]{
 -- Page 64, Offset 30702.
@@ -692,7 +698,7 @@ My body temperature is dropping.
 [sha:a4dde80636129b1aaaf2a0f4f685fde39d3c607c]{
 -- Page 70, Offset 30729.
 -- 焚書の時だ、遠野―――<四|シ><季|キ>」
-The time for book burning has come, Tohno―――SHIKI."
+The time has come to put your book into the pyre, Tohno―――SHIKI."
 }
 [sha:f4bad20f12c37709ddae48285314cbb2e4973cf0]{
 -- Page 71, Offset 30730.
@@ -802,7 +808,7 @@ That, too, is a nickname reserved only for tonight."
 [sha:048d3fedb728c87383f18cce110dc0280aea98e4]{
 -- Page 76, Offset 30750.
 -- 厭な笑い声と、ヴローヴからさんざん感じとった不快感。
-An unpleasant laugh, and the same unsettling feeling I felt looking at Vlov.
+An unpleasant laugh, and the same unsettling feeling I experienced looking at Vlov.
 }
 [sha:1e0bcb27f137b5408cb6d57766138ca8747e05a3]{
 -- Page 76, Offset 30751.

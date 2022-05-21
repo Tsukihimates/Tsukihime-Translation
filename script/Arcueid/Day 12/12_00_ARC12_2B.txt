@@ -185,7 +185,7 @@ It's useless, I'm afraid. He can no longer be saved."
 [sha:5d2cbab2dd9ada8ecde8985de0bd7d877c96bdd7]{
 -- Page 90, Offset 30789.
 -- 「今まで遠野志貴が好き放題やってきた事を、そのまま返してやったのだからな。
-"After all, I've just given Tohno Shiki what he deserves for living as he pleases all this time.
+"After all, I just gave Tohno Shiki what he deserved for having lived as he pleased all that time.
 }
 [sha:8287cd19d46c72dddb89e212bd9adc7140fc005a]{
 -- Page 90, Offset 30790.
@@ -195,7 +195,8 @@ There is no cure for one whose line of death has been cut.
 [sha:bb39322d841c9e2dcf1e69f6094b8363fae9cb95]{
 -- Page 90, Offset 30791.
 -- あの姫君でさえ蘇生するのに八百年の歳月と引き換えにするしかなかった。ただの人間に、“死”から逃れる術はない」
-That princess may have revived, but she had to give up 800 years of her life in exchange.
+// group pr suggestion: That princess may have revived after such an attack, but she had to give up 800 years of her life to do so. A mere human has no such means to escape from 'death'."
+That princess may have revived from it, but she had to give up 800 years of her life in exchange.
  A mere human has no such means to escape from 'death'."
 }
 [sha:0994029fd6a5cc6d0724479404f5759f5abaa382]{
@@ -211,7 +212,7 @@ Senpai bites her lip, holding back the rage she feels toward that vampire.
 [sha:52e11ea37dcd6eb025feb237438a9be4fe53c240]{
 -- Page 91, Offset 30794.
 -- 今すぐ<奔|はし>りだしたい殺意を呑み込んでいる。
-She stifles her urge to burst forth and slay him right this instant.
+She stifles her urge to jump up and slay him right this instant.
 }
 [offset:30795]{
 -- Page 91, Offset 30795.
@@ -278,7 +279,7 @@ I see―――I'm shocked to hear he's still alive.
 [sha:fbe278504ff56ce8d4e3b24548902f7503da224b]{
 -- Page 94, Offset 30807.
 -- どうやら、そちらはそちらで愉快な<事|こ><態|と>になっているな？」
-If that's the case, things must be pretty interesting over there."
+If that's the case, things must be getting pretty interesting over there."
 }
 [sha:f514dcdd128ee699f64ac12832197c6d5c2c8d16]{
 -- Page 95, Offset 30808.
@@ -294,7 +295,7 @@ If that's the case, things must be pretty interesting over there."
 -- Page 95, Offset 30810.
 -- 転生は成功したんだろうな？　まだだったら遠慮はいらねえ、あと七日は教会からの支援は止めておくから、さっさと目を覚ましてきな”」
 Your reincarnation was a success, right? If not, then get on with it.
- The Church will cut off their support in seven days, so come on and wake up already."
+ I can only hold off the Church for seven days, so come on and wake up already."
 }
 [sha:7ea7da4bfc4d4755543195f816bd6c2f2238c18e]{
 -- Page 95, Offset 30811.
@@ -317,6 +318,7 @@ Lighten up will ya, we're definitely going to kill this Dead Apostle.
 [sha:293f047a738a720399f1f66d2e1673fecfd67623]{
 -- Page 96, Offset 30814.
 -- ……で、どうなんだアカシャの蛇。<今|・><回|・><は|・><ち|・><ゃ|・><ん|・><と|・><思|・><い|・><出|・><し|・><た|・><か|・>？　<解|・><脱|・><の|・><法|・><は|・><ど|・><こ|・><に|・><あ|・><る|・>？”」
+// group pr check: ask petrikow
 ...So what's the deal, Serpent of Akasha?
  Do you remember it this time?
  Where is the %{i}Law of Enlightenment%{/i}?"
@@ -355,17 +357,17 @@ If the thieves who rummaged through my library failed to heed that advice, then 
 [sha:90c1dcfda6977a7bf0d83c709763e023dc3847f4]{
 -- Page 99, Offset 30821.
 -- 「残念ながら。私の研究は魂の分野に切り替わった。
-"I'm afraid not. My research changed to focus primarily on the soul.
+"Tis unfortunate. My research changed to focus primarily on the soul.
 }
 [sha:b4850975bb292439401bf202477d430d20021e23]{
 -- Page 99, Offset 30822.
 -- 肉体に関する研究はそれこそ下手の横好きだ。理論だけで実践の域には達していない。
-Research regarding the body is a hopeless endeavor. Theory alone will never surpass practice itself.
+My research into the body was simply a passing fancy. It was simply a theory that could never be realized in practice.
 }
 [sha:38f28cbea70c5f041d4b11911cb23da312f9b0dd]{
 -- Page 99, Offset 30823.
 -- そんな不確かな儀式は魔術とは呼べない。それは呪いと言うのだ、ベスティーノ」
-Such a dubious rite cannot be called magecraft. That is merely a curse, Bestino."
+Such a dubious rite cannot be called magecraft. It is merely a curse, Bestino."
 }
 [sha:e8b4d6570c70e9f6901c07a1f96199de3e9540e9]{
 -- Page 99, Offset 30824.
@@ -397,7 +399,7 @@ Even through the microphone, I can sense Mario's disappointment. His despair. Hi
 [sha:b874a8bc61b39a4314e9a0ea1cb29d14fcc4ae9e]{
 -- Page 102, Offset 30829.
 -- 「そう言った。アレらは私が開発した魔術基盤。
-"Indeed. They are things I constructed to underpin my Magecraft.
+"Indeed. They are %{i}magecraft foundations%{/i}, that I have constructed.
 }
 [sha:5b17900d3c69ef28905156654bc32c5283b0019c]{
 -- Page 102, Offset 30830.
@@ -541,7 +543,7 @@ I've been stabbed in the heart with a knife,
 -- 「いいえ、できます。<そ|・><う|・><で|・><な|・><け|・><れ|・><ば|・><理|・><屈|・><が|・><合|・><い|・><ま|・><せ|・><ん|・>……！　いいですか、彼女が遠野志貴を助けられなければ、そもそも貴方は七年前に死んでいます。
 "No, she can. Otherwise, it wouldn't make any sense...!
  Listen up.
- If she didn't have the power to save you, then you would have already died seven years ago.
+ If she didn't have the power to save you, then you would have died seven years ago.
 }
 [sha:549e16d6bbd873a1b57fb6a1de2cd77c2044c218]{
 -- Page 113, Offset 30857.
