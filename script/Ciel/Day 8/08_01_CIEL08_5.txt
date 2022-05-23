@@ -26,7 +26,7 @@ Splash, that bone-crushing force is astonishing.
 [sha:1c236f0363eebe3fc4d5e703d8d1ae345860f550]{
 -- Page 10013, Offset 19324.
 -- なまくらの<刃|は>は、その重量だけで、逃げ惑う獲物の頭蓋骨を叩き潰した。
-The dulled blade, simply with its weight, smashes through the skulls of its scampering prey.
+The dulled blade smashes through the skulls of its scampering prey with its weight alone.
 }
 [sha:26bb657924e119435312f0681f7646077889dcba]{
 -- Page 427, Offset 19325.
@@ -92,7 +92,7 @@ Surrounding her is an array of thirteen different faces.
 [sha:4535d22a976cc03148efcdd3b18f086010861c48]{
 -- Page 430, Offset 19337.
 -- みな、シスターを頼って集まった、哀れな<逃亡者|きゅうけつき>たちだった。
-They were all pitiable <runaways|v a m p i r e s> that had gathered here, believing in the words of the Sister.
+They were all pitiable <runaways|v a m p i r e s> that had gathered here, believing in the words of the sister.
 }
 [sha:57a4619cc9a202751430b2a3aeb10e204f6e2448]{
 -- Page 431, Offset 19338. Mods: @k, @e.
@@ -107,7 +107,6 @@ That's a bit of a let-down, huh."
 [sha:8e8324b1b17abc5e16c69049f7850ffb2727f9ed]{
 -- Page 432, Offset 19340.
 -- むむ、とシスターは不満げに首をかしげる。
-// lowercased Sister, if its meant to be caps will revert
 The sister grumbles and tilts her head in dissatisfaction.
 }
 [sha:704c4780d55f6314875fee320e2b453c4c4afda7]{
@@ -123,7 +122,7 @@ Fourteen people are gathered here. She laughs at how easy, not only the structur
 [sha:8fd4b484d471fd81dd91e66c6415545d11456c7f]{
 -- Page 433, Offset 19343.
 -- 「おっと、いま１匹潰れたからあと13匹よね。
-// went with creatures to convey the 匹, not too sure if its good
+// 匹 is a counter for small animals
 "Whoops, I just smashed one, so that's thirteen of you creatures left.
 }
 [sha:ecd4e3db1bea82e1d7e754d4c000988262759a25]{
@@ -164,7 +163,7 @@ They were spread out radially from their blood-stained comrade, who they had nev
 [sha:720d8dfb230f77f98ab5f5788b5a302721c36187]{
 -- Page 435, Offset 19351.
 -- その有様を満足げに眺めながら、シスターはゆっくりと足を踏み出した。
-Gazing with satisfaction at the scene, the Sister slowly walks forward.
+Gazing with satisfaction at the scene, the sister slowly walks forward.
 }
 [sha:953ff55e847ef350db62ae0f360f0f965c1ae2b6]{
 -- Page 436, Offset 19352.
@@ -189,7 +188,7 @@ The lump of iron sets its sight on a nearby young man and is swung down on his h
 [sha:400beecb6899cc03fd843fca50369a1ccbe41196]{
 -- Page 437, Offset 19356.
 -- 今度のは威力が大きい。頭蓋は跡形もなくはじけ飛び、刃は首から胴体の中心にまで到達していた。
-This time, it was swung with force. His skull is blown off without leaving any trace, and the blade sunk from his neck all the way to the center of his body.
+This time, it was swung with force. His skull is blown off without a trace, and the blade sunk from his neck all the way to the center of his body.
 }
 [sha:f65798af4a3ec8e0b6c949f92f667213cc507328]{
 -- Page 438, Offset 19357.
@@ -219,7 +218,7 @@ If God really does exists, he'll bring about a world where a miracle happens, an
 [sha:6d29a0ccc5cd2ae3555122c3f082aef70883d45d]{
 -- Page 440, Offset 19362.
 -- よっ、と肉塊から槍斧を引き抜く血まみれのシスター。
-The blood-smeared Sister removes her halberd from the chunk of meat.
+The blood-smeared sister removes her halberd from the chunk of meat.
 }
 [sha:4c1258667a2da7fc1876ed784c30f46b884fdc8a]{
 -- Page 440, Offset 19363.
@@ -310,7 +309,7 @@ Ahh you shithead, get a move on! If we get outside, we can easily deal with that
 [sha:6ef2a4885b461a5512a3c70e6ce5d72317203906]{
 -- Page 447, Offset 19380.
 -- 無防備な背中を切り裂き、目を血走らせてビチビチ動く背骨を抉り出そうとしたところでシスターは手を止めた。
-Tearing up the powerless youths from the back, the Sister with bloodshot eyes, ready to gouge out their splish-splashing spines, suddenly stops.
+Tearing up the powerless youths from the back, the sister with bloodshot eyes, ready to gouge out their splish-splashing spines, suddenly stops.
 }
 [sha:cb619c16a41932f3dba80154bed160bdfe6d9cb2]{
 -- Page 448, Offset 19381.
@@ -464,7 +463,7 @@ One remaining animal.
 [sha:ffcb5f1817736e593a1e823b0c373f61be07b6dd]{
 -- Page 457, Offset 19410.
 -- さすがに大仕事で疲れが出たのか、シスターは一旦手を休めて休憩する。
-Perhaps tired, as would be expected, by her heavy work, the Sister takes a momentary break to rest.
+Perhaps tired, as would be expected, by her heavy work, the sister takes a momentary break to rest.
 }
 [sha:55e72b83de0309c3703849bd1768496f5a463b73]{
 -- Page 457, Offset 19411.
@@ -544,8 +543,7 @@ I'm weak, so I only pick on those even weaker than me. Isn't that just common se
 [sha:b78d98a0425826f0324c6c3d911927522f64e65f]{
 -- Page 463, Offset 19426.
 -- ……あーあ、最悪。貴方たちって脳まで腐ってるのね。もしかしてクリームでも詰まってる？　詰まってたのよね？　そんな甘ったるい考えだから、神さまは助けてくれなかったのよ」
-// not too sure on そんな甘ったるい考えだから、神さまは助けてくれなかったのよ
-...Aaaah, I can't believe it. You guys are rotten to the brain. Are you brains filled with cream? They are, huh? It's because of that mushy sentimentality that God didn't save you, y'know?"
+...Aaaah, I can't believe it. You guys are rotten to the brain. Are you brains filled with cream? They are, huh? It's because of that sentimentality that God didn't save you, y'know?"
 }
 [sha:933e65482b480bc1b8afe9e3e1864c91642afe46]{
 -- Page 464, Offset 19427.
@@ -603,7 +601,7 @@ That's a lackey for you! Well used to cleaning gutters, aren't cha?"
 -- Page 468, Offset 19437.
 -- 背後からの声を聞いて、シスターはあわてて槍を拾い上げた。
 // 槍 here but its probably referring to the same weapon
-Hearing a voice from behind, the sister hurriedly picks halberd up.
+Hearing a voice from behind, the sister hurriedly picks the halberd up.
 }
 [sha:96c2fe2dd4c8e3ce8724e268d8f111c089d152da]{
 -- Page 468, Offset 19438.
@@ -720,13 +718,12 @@ So, you'll soon be under my custody... Shitty scores and mentally unstable, I'm 
 [sha:12b71e01ce2940729d4f0611369fa38aed159ef2]{
 -- Page 476, Offset 19460.
 -- この一件が終わり次第テメェは修道院送りだ。今のうちに身辺整理をしておけよ」
-// is cloister right? i've seen monastery/abbey/convent used more often
-As soon as the matter at hand is over, it's back to the cloister for ya. Get your affairs in order while you still have time."
+As soon as the matter at hand is over, it's back to the monastery for ya. Get your affairs in order while you still have time."
 }
 [sha:153edb070e282e09a173538b25f446c81383252c]{
 -- Page 477, Offset 19461.
 -- 修道院。
-The cloister.
+The monastery.
 }
 [sha:bd1bc148859795cc327d0e10ad2d86829c6c5e18]{
 -- Page 477, Offset 19462.
@@ -736,12 +733,12 @@ An institution for those among the faithful who have chosen to lead a communal l
 [sha:d0181ef4ae26873c138c9a9fd33826704e3c51fe]{
 -- Page 477, Offset 19463.
 -- 法王庁が世界でもっとも小さな国であるように、修道院もそれぞれが独立した閉鎖世界といっていい。
-Just as the Papacy constitutes the smallest country on Earth, it could be said that each cloister represents an independent, detached world of its own.
+Just as the Papacy constitutes the smallest country on Earth, it could be said that each monastery represents an independent, detached world of its own.
 }
 [sha:5dcfcaf28685addb3815503e5075d151b796f15d]{
 -- Page 478, Offset 19464.
 -- 修道女はその後の一生を院内で完結させる事を誓約し、この完成された共同体の一員となる。
-The nuns pledge to spend the rest of their lives inside the cloister, becoming members of this perfected collective.
+The nuns pledge to spend the rest of their lives inside the monastery, becoming members of this perfected collective.
 }
 [sha:7ccc13bf103c9085c4c29fbf8acb87ae28499ad3]{
 -- Page 478, Offset 19465.
@@ -751,12 +748,12 @@ Walled out from the outside world, they lead a life of poverty, purity and obedi
 [sha:ffb42e4921d1fdb8cc859773eb8ea41259d4ac15]{
 -- Page 479, Offset 19466.
 -- 望んで修道院の門を叩く者はいい。
-Suitable for those who willingly knock on the doors of the cloister.
+Suitable for those who willingly knock on the doors of the monastery.
 }
 [sha:92df72fd036e6d2255dc76930bc32ad60a0bc9af]{
 -- Page 479, Offset 19467.
 -- しかしこの閉ざされた世界を望まない者にとって、修道院送りは拷問に近い。
-But for those who do not wish to be sealed in these closed worlds, being sent to a cloister is akin to torture.
+But for those who do not wish to be sealed in these closed worlds, being sent to a monastery is akin to torture.
 }
 [sha:221bc8d865f9dfefc93d5bdd4080a02185b8c0fd]{
 -- Page 480, Offset 19468.
@@ -766,12 +763,12 @@ Due to various reasons, no other path than that of the Executor is open to Noel.
 [sha:a28bb3702b8a4814c3623494ec37851091538b7b]{
 -- Page 480, Offset 19469.
 -- なので修道院での再教育は代行者としてのものになる。若い時分なら耐えられた過酷な鍛錬に、今の自分がついていけるとは、彼女にはとても思えない。
-She will thus be reeducated at a cloister as an Executor. Though she could have been able to endure their severe training in her youth, as she is now, she certainly doesn't think it possible.
+She will thus be reeducated at a monastery as an Executor. Though she could have been able to endure their severe training in her youth, as she is now, she certainly doesn't think it possible.
 }
 [sha:a8fb06843d1618cefca7e5ea80e6131be4ebe1da]{
 -- Page 481, Offset 19470.
 -- なにより―――今、修道院に送られては身体を検査されてしまう。
-Most importantly―――If she's sent to a cloister, her body will be inspected.
+Most importantly―――If she's sent to a monastery, her body will be inspected.
 }
 [sha:3e3fe843a3b4168a804b190a2d3e8d2e33bfcac6]{
 -- Page 481, Offset 19471.
@@ -791,7 +788,7 @@ Considering her current state, that examination is something that she must avoid
 [sha:a52b67a42cf8ecb63e901f2161a5fec9d934b189]{
 -- Page 482, Offset 19474.
 -- わたしは常に最善を尽くしています、代行者として何の問題もありませんっ！　査問もなく修道院送りなんて、そんな横暴は許されない筈です……！」
-I always tried my best and I haven't caused any problems as an Executor! To be sent back to the cloister without any investigation is tyranny! That shouldn't be allowed...!"
+I always tried my best and I haven't caused any problems as an Executor! To be sent back to the monastery without any investigation is tyranny! That shouldn't be allowed...!"
 }
 [sha:718b7cd7530116170feee0481f28b5d478032917]{
 -- Page 483, Offset 19475.
@@ -888,7 +885,7 @@ After delivering his final warning, the young boy leaves the back alley.
 [sha:86e8577cc44eaf621a8c04c597e3ad51565eb561]{
 -- Page 489, Offset 19493.
 -- 残されたものは返り血に濡れたシスターだけ。
-The blood-stained Sister is left alone.
+The blood-stained sister is left alone.
 }
 [sha:a140b576558cad75d8f0edf0ad9ea341c743fea8]{
 -- Page 489, Offset 19494.
