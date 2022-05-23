@@ -459,7 +459,7 @@ I see. In that case, we're even.
 [sha:309c2628be0860a2aefa9d446a4e58190482d8fd]{
 -- Page 509, Offset 21037.
 -- 「―――は、は」
-"―――Hah, hah."
+"―――%{i}Hah, hah%{/i}."
 }
 [sha:70db1b4354e10f3f72429e4c54704da1898ee7f8]{
 -- Page 509, Offset 21038.
@@ -738,7 +738,7 @@ and leaps off the streetlight, aiming straight at the man below.
 [sha:f7f7eed3287e9573057da41e01248cd285da933d]{
 -- Page 524, Offset 21087.
 -- 「“アアアアアアアアアァアア！”」
-"AAAAAAAAAAAAAH!"
+"%{i}AAAAAAAAAAAAAH%{/i}!"
 }
 [sha:ae4e4713bda70d5b0e8493ab90650aab2dc71e59]{
 -- Page 524, Offset 21088.
@@ -860,7 +860,7 @@ Well, I wonder if I should still call you that?"
 [sha:23376106954a31e7c179828b3ddc93747ed96cf0]{
 -- Page 531, Offset 21108.
 -- 「ふふ。そうねぇ。先生って響きは悪くないけど、ここは学校の外なんだし？　先生は外したほうが何かと気が楽よね、お互いに」
-"Ehehe. That's a great question.
+"%{i}Hehe%{/i}. That's a great question.
  I don't mind the sound of 'sensei', but we aren't at school, are we?
  I think it'll be easier for both of us if you drop the 'sensei'."
 }

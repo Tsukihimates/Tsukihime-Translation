@@ -30,7 +30,7 @@ It's a half-baked strategy, but it's all I've got.
 [sha:2522e2c1b416455f690f8ce5077fa60221b87020]{
 -- Page 776, Offset 26391.
 -- 「うっ――――」
-"Kh――――"
+"%{i}Kh%{/i}――――"
 }
 [sha:740e4ddde192377973db6e1963c2eb3e707f2036]{
 -- Page 776, Offset 26392.
@@ -70,7 +70,7 @@ I don't spot any people smeared head to toe in them, as I had before.
 [sha:a67033090472fe726ab2d4b6388ce6d56f04e0f9]{
 -- Page 778, Offset 26399.
 -- 「ぐっ……う、っ……！」
-"Kh... gh...!"
+"%{i}Kh... gh%{/i}...!"
 }
 [sha:d41b8b4de8ae6598240ce1213df1f5f296c2ff14]{
 -- Page 778, Offset 26400.
@@ -114,7 +114,7 @@ Within that darkness, where even the light of the moon can't reach,
 [sha:7b037b1502b8f5e80d7c0c0a4699f0b7a6127f96]{
 -- Page 780, Offset 26407.
 -- 「はあ―――はあ、はあ――――」
-"Ha―――ha, ha――――"
+"%{i}Ha―――ha, ha%{/i}――――"
 }
 [sha:f4477d25eba51b82a170f77131b69010f89b24ce]{
 -- Page 780, Offset 26408.
@@ -267,7 +267,7 @@ must be a single body ripped apart into dozens of pieces.
 [sha:4b3973150bfa121b911fbadd7ca0261f6e09f5b7]{
 -- Page 787, Offset 26436.
 -- 知らない。その意味は考えない。
-I don't know. I don't think about what it all means.
+I don't know. I don't think about what this all means.
 }
 [sha:10082be447b0fbf3ee44db1a08fd875c42ab1d53]{
 -- Page 787, Offset 26437.
@@ -277,12 +277,12 @@ The thing that I can't stand―――
 [sha:b46ef296334980b509ec59c756c296598f5d1be5]{
 -- Page 787, Offset 26438.
 -- 通路を進む度に、ギ、ギ、と音をたてる背骨の軋みだった。
-Is the sound of my spine grating every time I take another step down that path.
+Is the sound of my spine grating every time I take another step down this path.
 }
 [sha:36655b729429f21673e7a6174126906a63a518b2]{
 -- Page 788, Offset 26439.
 -- 「は―――――あ」
-"Ha―――――ah."
+"%{i}Ha―――――ah%{/i}."
 }
 [sha:c647e552f9408cf4baa1449cbb43b4f6036de64f]{
 -- Page 788, Offset 26440.
@@ -409,7 +409,7 @@ The Dead's head is grabbed by an invisible hand and crushed mid-air, splattering
 [sha:90fd714f7d010aef683042a5e455aa482d3f0e3d]{
 -- Page 796, Offset 26463.
 -- 「アル―――クェイド」
-"Ar―――cueid"
+"Ar―――cueid."
 }
 [sha:e45d5e68cf5938955eb5c6042563e3a207a8661a]{
 -- Page 796, Offset 26464.
@@ -550,7 +550,7 @@ I CANNOT FIGHT. I CANNOT ESCAPE. I DO NOT STAND A CHANCE.
 [sha:ee52bf4055aeb3dbd39b5f52aeae2d99190c1d88]{
 -- Page 802, Offset 26490. Mods: @n.
 -- 要ハ。何ヲシテモ、モウ
-in SHORT, no MATTER WHAT I DO,
+In SHORT, no MATTER WHAT I DO,
 }
 [sha:a41acd1e1bef2fc93daa1f39b18683d08b681aea]{
 -- Page 802, Offset 26491. Glued. Mods: @c, @n.
@@ -700,7 +700,7 @@ However, there's something that's trying to break through my shell of reason.
 [sha:f01430afc620500ad5507c7b3bccd01938736eb5]{
 -- Page 808, Offset 26519.
 -- 「ア――――あ、ア―――」
-"Aa――――ah, aa―――"
+"%{i}Aa――――ah, aa―――%{/i}"
 }
 [sha:70c9ee4183eb305aa7fb49f006bcc2f9e8bd3820]{
 -- Page 808, Offset 26520.
@@ -761,7 +761,7 @@ From the very moment I saw her, I understood that fact so well that I wanted to 
 [sha:9205c8ba9875fae94e24884626d1be3a7ded6d07]{
 -- Page 810, Offset 26531.
 -- 「ア―――――あ」
-"Aa―――――ah."
+"%{i}Aa―――――ah%{/i}."
 }
 [sha:a0be271ecfca8fcb75dfc0af0b1dec402a2b3c6d]{
 -- Page 810, Offset 26532.
@@ -827,7 +827,7 @@ It's far too late.
 [offset:26544]{
 -- Page 812, Offset 26544.
 -- 「っ……！」
-"Gh...!"
+"%{i}Gh%{/i}...!"
 }
 [sha:1f7d7baa979b4b779e19456d5fdf51c1ab34fc92]{
 -- Page 812, Offset 26545.
@@ -931,7 +931,7 @@ My frenzied blood makes my heart pound.
 [sha:6b4c2f5aca2a48346d0da9b0a0704c09b0a0521b]{
 -- Page 818, Offset 26564.
 -- “はあ―――はあ――――はあ――――！”
-'Ha―――ha――――ha――――!'
+'%{i}Ha―――ha――――ha%{/i}――――!'
 }
 [sha:9179982c03ed3215c71fcfec80b02744d5621f1c]{
 -- Page 818, Offset 26565.
@@ -956,7 +956,7 @@ It's so scorching, so hot that I want to be released from this pain immediately.
 [sha:f1f96658143dbab418553bc24fd10a679720ec15]{
 -- Page 819, Offset 26569.
 -- “はあ―――はあ――――はあ―――――”
-'Ha―――ha――――ha―――――'
+'%{i}Ha―――ha――――ha%{/i}―――――'
 }
 [sha:ff007290f6f221984c33f33a8b75063d635d7a89]{
 -- Page 819, Offset 26570.
@@ -992,7 +992,7 @@ Her gaze only makes my brain bubble more furiously.
 [sha:9ba87dcf1fa4fadab312f5c0a29b492935e0e2de]{
 -- Page 821, Offset 26576.
 -- “はあ――――はあ――――はあ――――”
-'Ha――――ha――――ha――――'
+'%{i}Ha――――ha――――ha%{/i}――――'
 }
 [sha:c578347031e83e0236e652a02c65dd7fc6a88e97]{
 -- Page 821, Offset 26577.
@@ -1028,7 +1028,7 @@ Beneath me is the body of a woman, nothing more, nothing less.
 [sha:d69f459f6b652a2c81ec0ba446cb803d50331904]{
 -- Page 823, Offset 26583.
 -- “はあ―――はあ―――はあ―――”
-'Ha―――ha―――ha―――'
+'%{i}Ha―――ha―――ha%{/i}―――'
 }
 [sha:d59275be0b7757e3570240220e399082bbcca443]{
 -- Page 823, Offset 26584.
@@ -1038,7 +1038,7 @@ I can feel her pulse.
 [sha:d69f459f6b652a2c81ec0ba446cb803d50331904]{
 -- Page 823, Offset 26585.
 -- “はあ―――はあ―――はあ―――”
-'Ha―――ha―――ha―――'
+'%{i}Ha―――ha―――ha%{/i}―――'
 }
 [sha:5c3251feb7c908c37760885d57128fe92d0fe3ba]{
 -- Page 823, Offset 26586.
@@ -1093,7 +1093,7 @@ With that, I completely lose all control of my thoughts.
 [sha:f4b3bfcfd3267b0bd343802f54e762d8dcb1832f]{
 -- Page 827, Offset 26596.
 -- 「ん………！」
-"Nn...!"
+"%{i}Nn%{/i}...!"
 }
 [sha:94709fa4a16637f11125d45890510408bf3da9f0]{
 -- Page 827, Offset 26597.
@@ -1172,7 +1172,7 @@ My mouth is the only thing I have left free.
 [sha:86525ed20b59fd6137339851917d476fce811f90]{
 -- Page 830, Offset 26611.
 -- 「……んっ、志貴、落ちつい、て―――！」
-"...Nn, Shiki, calm down―――!"
+"...%{i}Nn%{/i}, Shiki, calm down―――!"
 }
 [sha:f18c9c3d7a1cf81e864685ee89fa0d4e9f292fe0]{
 -- Page 830, Offset 26612.
@@ -1192,7 +1192,7 @@ The heavy breaths of a man trace across the woman's abdomen.
 [sha:3f1a3ec856b8d44a527ee3926fc420bf4f480f07]{
 -- Page 831, Offset 26615.
 -- 「あ――――ん…………！」
-"Ah――――nn...!"
+"%{i}Ah――――nn%{/i}...!"
 }
 [sha:cf790435c42e94a1d14921f57741def3b9505305]{
 -- Page 831, Offset 26616.
@@ -1296,7 +1296,7 @@ With that, I dig my teeth into one of them.
 [sha:820b3b9534a4eee22e95adc79ac9b16695bf22cb]{
 -- Page 835, Offset 26635.
 -- 「んあ――――！」
-"Nnah――――!"
+"%{i}Nnah%{/i}――――!"
 }
 [sha:cdefdb72663400493081a178d3aa2b37257d79d7]{
 -- Page 835, Offset 26636.
@@ -1369,7 +1369,7 @@ Even though I abandoned all reason and thought, I'm still losing sight of who I 
 [sha:eb1019d93cb995842e390c7b9a1c5455eb846b0e]{
 -- Page 838, Offset 26649.
 -- 「……はっ……やめ、て………ぜったい……、こんなの、許さない……か、ら……！」
-"...Ha... stop, it... or... I'll never, forgive... you...!"
+"...%{i}Ha%{/i}... stop, it... or... I'll never, forgive... you...!"
 }
 [sha:9c77a6cef00d28edea5e43eae60c19c55c506063]{
 -- Page 838, Offset 26650.
