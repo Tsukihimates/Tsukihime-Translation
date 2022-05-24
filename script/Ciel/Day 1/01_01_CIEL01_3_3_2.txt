@@ -66,7 +66,6 @@ I just want to hear it."
 [sha:08791552c8dc6e62b3604f4611cb702c3f066645]{
 -- Page 238, Offset 1053.
 -- 「……はあ。物好きですね、先輩は」
-// Makes more sense in English
 "...Hmm. You're very curious, aren't you?"
 }
 [sha:f055075e46335a2c92b99d2ce2cd813032671461]{
@@ -82,17 +81,21 @@ I just want to hear it."
 [sha:1a53784082080f7b88457ca712e88fca16222eb0]{
 -- Page 239, Offset 1056.
 -- 自分の家に戻ると言っていましたけど、今までご実家には戻られていなかったんですか？」
-You said you were returning to your own home, but you've never gone back to your family home?"
+You said you were returning to your old house,
+ but does that mean you've never been back to your family home?"
 }
 [sha:754557a2ac9f507c3dbf52a42096c946d70b42b1]{
 -- Page 240, Offset 1057.
 -- 「はい。色々あって、七年近く実家に戻ってなかったんです。療養生活……みたいなものでしょうか。10才の頃に事故に遭ったんですけど、それからは慢性的な貧血持ちになっちゃって。
-"Yes. For various reasons, I haven't been back there for almost seven years. It's like a life of recuperation... or something like that.
+"Yes. For various reasons, I haven't been back there for almost seven years.
+ I've been taking a leave of medical absence... or something like that.
+ I got in an accident when I was ten, and I've had chronic anemia ever since.
 }
 [sha:97178364b34ee02e8848a059eb5f07e90c83bca1]{
 -- Page 240, Offset 1058.
 -- で、遠野の家は何かと騒がしいので、落ち着ける親戚の家に預けられていて、それが昨日までの話です」
-I got in an accident when I was ten, and I've had chronic anemia ever since. The Tohno mansion was too uncomfortable for me, so I was sent to a relative's house to recuperate until yesterday."
+The Tohno mansion was a little too hectic for me, so I was entrusted to some relatives to recover in peace.
+ That's where I've lived until yesterday."
 }
 [sha:f75f66b3b69bd2f4571c73b99747bd757e796d1f]{
 -- Page 241, Offset 1059.
@@ -447,7 +450,7 @@ That's a good idea. You've made me want to cheer you on with all my might."
 [sha:5f4d9e8be573890616168de02373d0358efafb98]{
 -- Page 268, Offset 1129.
 -- ……ふふ。それじゃあさしあたって、明日から一緒に登校とか、しちゃいます？」
-...Fufu. Then, for the time being, do you want to go to school together tomorrow?"
+...%{i}Hehe%{/i}. Then, for the time being, do you want to go to school together tomorrow?"
 }
 [sha:b77c91303812eb0bda36086426772422dc4b4d90]{
 -- Page 269, Offset 1130.
@@ -517,7 +520,7 @@ I would have liked to have seen you at that age."
 [sha:3a943ba6752b5f34799754d537f44b4ae5621b61]{
 -- Page 274, Offset 1143.
 -- などと、笑顔で言われたら俺でなくとも赤面する。
-Saying that with such a smile, I couldn't help but blush.
+Anyone would blush if she said that to them with that smile on her face.
 }
 [sha:9fd68a49dc3640e416ca3a1800a3e4d1b1520226]{
 -- Page 275, Offset 1144.

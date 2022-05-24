@@ -48,7 +48,7 @@ Thanks to Arcueid, my body is not yet able to move as I want it to.
 [sha:c245447caf59be183935628068950e1400c6310f]{
 -- Page 296, Offset 30378.
 -- ……目を閉じているのに彼女の仕草が判るのはおかしいと思うんだけど、あんまりに幸せそうな顔をするものだから、些細な疑問だと切り捨てる。
-I find it a little strange that I can understand Arcueid's gestures even with my eyes closed,
+I find it a little strange that I can understand her gestures even with my eyes closed,
  but she looks so happy that I abandon such trivial questions.
 }
 [sha:4d52076ac686b6c51a6e0f213858e1113721be5d]{
@@ -59,17 +59,17 @@ I find it a little strange that I can understand Arcueid's gestures even with my
 [sha:f5af7835ec28524da2f89cd2bb48492e91fcb895]{
 -- Page 297, Offset 30380.
 -- なんだろう、改まって。
-What's with the serious tone.
+What's with the serious tone?
 }
 [sha:07477f7fedce398f19724691b9ec0fe9c3488ea6]{
 -- Page 297, Offset 30381.
 -- アルクェイドも疲れているんだから、夜になるまで眠ってればいいのに。
-You're worn-out too, you should just sleep until night falls.
+You're worn out too, you should just sleep until night falls.
 }
 [sha:143510d8cc48bedd6a1810d56c2b5c6ac3c84eb9]{
 -- Page 298, Offset 30382.
 -- 「もしもよ。もしわたしが本当の吸血鬼になったら、志貴はどうするかな」
-"If, you know... If I turned into a real vampire, what would you do...?"
+"If, you know... if I turned into a real vampire, what would you do...?"
 }
 [sha:857ee68fae6d98a137443111eed32c201cd4ea24]{
 -- Page 298, Offset 30383.
@@ -144,7 +144,7 @@ Now that I think about it, this isn't the first time you've brought this up.
 [sha:78ad5d8dad5d7015bcf7cd5daa50a4d27419efcc]{
 -- Page 301, Offset 30396.
 -- ……アル……クェイド……？
-...Ar...cueid..?
+...Ar...cueid...?
 }
 [sha:a12294c0b461feb1b60e8fb3cf9f36576aa68c41]{
 -- Page 302, Offset 30397.
@@ -154,7 +154,7 @@ Now that I think about it, this isn't the first time you've brought this up.
 [sha:741bdee0601e7f721038be3acd519f751f69ef0d]{
 -- Page 302, Offset 30398.
 -- こんな気持ちを持たせてくれて、それを言葉として伝えさせてくれるなんて、ほんとうに優しかった」
-It's thanks to your kindness that I can feel this way, and that I can put that feeling into words."
+It's thanks to your kindness that I can feel this way, and that I can put this feeling into words."
 }
 [offset:30399]{
 -- Page 302, Offset 30399.
@@ -195,7 +195,7 @@ I dimly heard that noise.
 [sha:940a50bd7bf0089cabfb83a7a2f8857eeca42660]{
 -- Page 304, Offset 30406.
 -- 「―――――――ん」
-"―――Nn"
+"―――%{i}Nn%{/i}."
 }
 [sha:7ede150914b1362b125b6d0ee98604eb2e0cd5ce]{
 -- Page 304, Offset 30407.
@@ -247,12 +247,12 @@ Oh yeah, I feel like I had a weird dream.
 [sha:d7f1b51846143c37d79349c90330d854c551eb9d]{
 -- Page 307, Offset 30416.
 -- なにやらアルクェイドと話をして、最後に、あいつがキスをしてくる夢。
-A dream where I spoke with Arcueid, and at the end she gave me a kiss.
+A dream where I spoke with Arcueid, and at the end, she gave me a kiss.
 }
 [sha:d71081669918b61254f1d1280bc04d2329248e0f]{
 -- Page 308, Offset 30417.
 -- 「……はあ。なんかゆるみきってるな、俺」
-"...Sigh. I must have a screw loose or something."
+"...%{i}Sigh%{/i}. I must have a screw loose or something."
 }
 [sha:bbaed1f6f57f64502df64a3f18d57a5959002682]{
 -- Page 308, Offset 30418.
@@ -340,7 +340,7 @@ Was a solitary scrap of paper left on the table.
 [sha:bc7db91891550b2366d4ed700f18d38030bb75b7]{
 -- Page 313, Offset 30434.
 -- 「―――な」
-"―――Wha"
+"Wha―――"
 }
 [sha:27aae7a862b4597505699f979849d16447ee5d29]{
 -- Page 313, Offset 30435.
@@ -351,7 +351,7 @@ Is this some kind of joke? What language is this?
 -- Page 313, Offset 30436.
 -- 紙きれには、ただ、ばいばい、としか、書かれていなかった。
 // どこの国の言葉 only lands if we make 'baibai' something foreign
-On that scrap of paper is written a single word: 'sayonara'.
+On that scrap of paper is written a single word: %{i}adieu%{/i}.
 }
 [sha:02d2202e6fe91df56f538f2a2dff17f5000f8792]{
 -- Page 314, Offset 30437.
@@ -381,7 +381,7 @@ But what's worse―――is that I can understand why she's done this.
 [sha:807389ae903a70c8e8f07ff698d00ba5ce2d826c]{
 -- Page 315, Offset 30442.
 -- ばいばい、だなんて、簡単すぎる。
-She can't leave with nothing more than a 'sayonara'.
+She can't leave with nothing more than an '%{i}adieu%{/i}'.
 }
 [sha:a47b145b63dcca643a04c2cd4bad09ccc7b28ca6]{
 -- Page 315, Offset 30443.
@@ -457,7 +457,7 @@ At this point, it's certain that we'll never meet again.
 [sha:f7a363ece0d246a852140c1448e411527c08da8a]{
 -- Page 320, Offset 30457.
 -- 「―――――――、ああ」
-"―――Aah."
+"―――%{i}Aah%{/i}."
 }
 [sha:e2458f2c8b3a999cb18f4693eb0fdd93fabb96c6]{
 -- Page 320, Offset 30458.
@@ -513,7 +513,7 @@ Not even tears will come.
 [sha:bbdaed93d535b175d10a99d37dc187b9b963f411]{
 -- Page 322, Offset 30468.
 -- ぬけがらのまま、足が動く。
-Despite being hollow, my legs begin to move.
+Devoid of everything, my legs begin to move.
 }
 [sha:3f6711606de5707fd663385bfe6ae5ebac49fc14]{
 -- Page 322, Offset 30469.
