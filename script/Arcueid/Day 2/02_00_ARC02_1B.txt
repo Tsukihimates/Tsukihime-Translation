@@ -113,7 +113,7 @@ I learned last night of the grandeur of the Tohno residence, and this tea is no 
 [sha:15b722ca6d8973efdd959516ab0e4d761db5bcff]{
 -- Page 44, Offset 2718.
 -- 「今朝はマリアージュのエスプリドノエルですね。
-"This morning we are having Esprit de Noel from Mariage.
+"This morning we are having %{i}Esprit de Noel%{/i} from %{i}Mariage%{/i}.
 }
 [sha:7c24e6addd26f481552f2d264ff9bdc8e922d63a]{
 -- Page 44, Offset 2719.
@@ -125,7 +125,7 @@ The most famous tea stores are in England, but this is from France.
 [sha:ed311329a8147f3dd260027233444c48b1ef6e43]{
 -- Page 45, Offset 2720.
 -- 「ふふ……クリスマスという表現は曖昧すぎて評価しづらいですけど、不思議とニュアンスは伝わりますね」
-"Fufu... the expression 'Christmas' is so vague I can hardly approve of it, but strangely enough, it conveys the nuance."
+"%{i}Ehehe%{/i}... the expression 'Christmas' is so vague I can hardly approve of it, but strangely enough, it conveys the nuance."
 }
 [sha:cc55a2497c5eed7f720cbea6fb4adb1103339204]{
 -- Page 45, Offset 2721.
@@ -151,7 +151,7 @@ Even her gesture when placing the teacup on the saucer is elegant.
 [offset:2725]{
 -- Page 48, Offset 2725.
 -- 「くっ……」
-"Tch..."
+"%{i}Tch%{/i}..."
 }
 [sha:a85fca15266455b5ae13e9602c58789118df0a7e]{
 -- Page 48, Offset 2726.
@@ -344,7 +344,7 @@ As if she came to an understanding after thoroughly observing me,
 [sha:349701cecb07893cdd81a72ca1dc5606d1fad65e]{
 -- Page 62, Offset 2763.
 -- 「ひ―――ひひ、うひひひひひひひひひひひひ！
-"Hi―――hihi, uhihihihihihihihihihihihi!
+"%{i}Hi―――hihi, uhihihihihihihihihihihihi%{/i}!
 }
 [sha:cfa962088ab1521f03904c6e1bde22d2544327e3]{
 -- Page 62, Offset 2764.
@@ -472,12 +472,12 @@ Searching for confirmation, I shoot a glance over at Akiha.
 [sha:456acf6c65a19e6d421dd7dd28457c3b99ef4761]{
 -- Page 69, Offset 2788.
 -- 「ええ。阿良句先生はお父様の、大学時代の後輩です。
-"Yes. Arach-sensei was father's junior back when they were at university.
+"Yes. Arach-sensei was Father's junior back when they were at university.
 }
 [sha:c77deaef1fcb9ce5ab17b0b9c081ccd8bd4c7d6b]{
 -- Page 69, Offset 2789.
 -- 今は父の友人として、私の相談役になってもらっています」
-As a friend of father, she is now acting as my advisor."
+As a friend of Father, she is now acting as my advisor."
 }
 [sha:081fd5eccba60747224ee7328c2e6d4e734b242b]{
 -- Page 70, Offset 2790.
@@ -492,7 +492,7 @@ Pro-fes-sor. I'll cry if you don't call me Professor Arach with love and affecti
 [sha:bbbe2e66260e235d6be745e33461fb67e4f35038]{
 -- Page 71, Offset 2792.
 -- 泣くどころかケラケラ笑う阿良句氏。
-Instead of crying, Dr. Arach smiles and laughs.
+Instead of crying, Arach-shi smiles and laughs.
 }
 [offset:2793]{
 -- Page 71, Offset 2793.
@@ -537,7 +537,7 @@ With one hand on her hip, she drinks the sugar-filled tea in one big, hearty gul
 [sha:e151fc1f4906af7091f7851cb26f1efc6824ba4d]{
 -- Page 75, Offset 2801.
 -- 「おう、ナイスシュガー！　糖分が五臓六腑に染み渡る、っていうか子宮とか卵巣にキュンと溶けイっちゃってたまんナーイ！　<気|ラ><合|ブ>入ってきたー！」
-"Ohh, nice sugar! You're pervading all five of my senses! You're even making my uterus and my ovaries melt... I feel it coming! Haah... thanks for the meaaal!"
+"Ohh, nice sugar! You're pervading all five of my senses! You're even making my uterus and my ovaries melt... I feel it coming! %{i}Haah%{/i}... thanks for the meaaal!"
 }
 [sha:5b992df5812f3dea072385030123f97d98c64ca9]{
 -- Page 76, Offset 2802.
@@ -602,7 +602,7 @@ An inexpressible silence envelops the living room.
 [sha:e56ad4174fa8d5ba916d4c6ad182527994ceccda]{
 -- Page 80, Offset 2814.
 -- お父様の遺言の関係で、屋敷本館への出入りと手入れを一任されている方です。お父様は建築家として重宝なさっていたとか。ご本人曰く、建築業は副業だそうですが」
-But due to father's will, she is in charge of the maintenance and management of the main building. I heard that father highly valued her as an architect. According to Arach herself however, this seems to have been something she did on the side."
+But due to Father's will, she is in charge of the maintenance and management of the main building. I heard that Father highly valued her as an architect. According to Arach herself however, this seems to have been something she did on the side."
 }
 [sha:a09e551d16dbaab6854444f2adc599ff8adb44d7]{
 -- Page 81, Offset 2815.
@@ -632,7 +632,7 @@ It's clear from her attitude that she won't be answering any questions.
 [sha:2d9dcbc09d806e72967c60bec15c77f1c08dfc71]{
 -- Page 82, Offset 2820.
 -- ははーん。朝から無理難題を言って、さっそく志貴さんを怯えさせてしまったのですか？」
-Haha. Have you already frightened Shiki-san by saying unreasonable things out of the gate this morning?"
+%{i}Haha%{/i}. Have you already frightened Shiki-san by saying unreasonable things out of the gate this morning?"
 }
 [sha:f21939141e1139c20284276085d348254e86faf3]{
 -- Page 83, Offset 2821.

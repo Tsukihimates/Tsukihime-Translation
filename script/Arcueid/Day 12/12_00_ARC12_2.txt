@@ -78,7 +78,7 @@ As beautiful as a glass bas-relief.
 -- 鮮明すぎて空からこぼれ落ちてきそうな白貌。
 // こぼれ落ちる difficult to place here. Img search is like 'sand runs through your fingers'. 'petals scatter' imagery,
 // not clear if it's referencing like the light scattering down, or the moon being so vibrant it 'pops' in the night sky or what.
-A pure, white visage so vivid it feels like it could spill from the sky at any moment.
+A pure, white visage, so vivid it feels like it could spill from the sky at any moment.
 }
 [sha:3b49baabae21c44edc27a3c948961b395433bc59]{
 -- Page 43, Offset 30611.
@@ -108,7 +108,7 @@ I saw a moon like this
 [sha:f56366c3791182387451583a2e793bd8d0b2c638]{
 -- Page 44, Offset 30616.
 -- 「ぐっ…………！？」
-"Kh...?!"
+"%{i}Kh%{/i}...?!"
 }
 [sha:d902da20e395d22633f6f0f4c40b34074dd6ea15]{
 -- Page 44, Offset 30617.
@@ -150,17 +150,17 @@ It comes away sticky. My uniform is stained a deep red.
 [sha:a06e9c0bc774bf425bc27e483f6e612849291cd4]{
 -- Page 46, Offset 30624.
 -- 傷が開いて、出血している。
-My scar is open, and bleeding.
+My scar is open and bleeding.
 }
 [offset:30625]{
 -- Page 47, Offset 30625.
 -- ――――どく、ん。
-――――%{i}Badu  mp%{/i}..
+――――%{i}Badu  mp%{/i}.
 }
 [sha:e5d62dd10a542dca4b597201c3c25ece06f529ed]{
 -- Page 47, Offset 30626.
 -- 「は―――ア、ハア―――ハッ――――」
-"Ha―――h, ha―――ha――――"
+"%{i}Ha―――h, ha―――ha%{/i}――――"
 }
 [offset:30627]{
 -- Page 47, Offset 30627.
@@ -182,22 +182,22 @@ I'm shivering so intensely it's as though my spine is trying to rip its way thro
 [sha:147597e2778a471c7baf77710fec8d4645a9599b]{
 -- Page 48, Offset 30630.
 -- ―――ぞく、ん。
-――――%{i}Badu  mp%{/i}..
+――――%{i}Badu  mp%{/i}.
 }
 [sha:44827f96f88142f1cd7f74bb64ac18f067b22a3c]{
 -- Page 48, Offset 30631.
 -- ―――どく、ん。
-――――%{i}Badu  mp%{/i}..
+――――%{i}Badu  mp%{/i}.
 }
 [sha:34b16bf26b1f04cb4b226c0b36d7806ba7ff9241]{
 -- Page 48, Offset 30632.
 -- ―――ぞ、く
-――――%{i}Badu%{/i}..
+――――%{i}Badu%{/i}
 }
 [sha:2c2eb87967468b37c15e8828374e63f04c103071]{
 -- Page 48, Offset 30633.
 -- ―――ど、く
-――――%{i}Ba%{/i}..
+――――%{i}Ba%{/i}
 }
 [sha:f3ea6fea605d203a0ac1682eeb3c3d142d9ddc70]{
 -- Page 48, Offset 30634.
@@ -237,7 +237,7 @@ Their footsteps echo coldly as they advance.
 [sha:448958298102e9f0d339ca57a7700290ac1a5ec9]{
 -- Page 50, Offset 30641.
 -- ヴローヴのような、吹き荒ぶ脅威とは違う。
-The threat I sense now doesn't stem from the same sort of wild violence that drove Vlov.
+I don't sense the same tempestuous fury that I felt from Vlov.
 }
 [sha:4c05ea0702a58d403c4f7914c36985f01f360609]{
 -- Page 50, Offset 30642.
@@ -252,7 +252,7 @@ A flash of pain shoots though my skull.
 [sha:f5d83bd282ccb6fd64e4842787833560310f10bf]{
 -- Page 51, Offset 30644.
 -- この痛覚。この危機感は、自分自身に対するものだ。
-This pain, this sense of impending danger―――is directed toward myself.
+This pain, this sense of impending danger―――they feel rooted within my own identity.
 }
 [sha:a9d539270a5af4f41fe9c9033381bf32209d66ff]{
 -- Page 51, Offset 30645.
@@ -292,7 +292,7 @@ The figure approaches.
 [sha:a234dde049e1d130150eb428a93834686614fe01]{
 -- Page 53, Offset 30652.
 -- 長身の男性。
-A man of high stature.
+A tall man.
 }
 [sha:8db2f6b9e9fe17ff9d940632ff46dba36fe321b4]{
 -- Page 53, Offset 30653.
@@ -332,7 +332,7 @@ I don't know this person.
 [sha:e83174fab090a7aa936a9a179c121578ce8eee5f]{
 -- Page 54, Offset 30660.
 -- 知らないのに―――誰かに似ているような気がしてならない。
-I don't―――and yet I can't help but feel like he reminds me of someone.
+I don't―――and yet, I can't help but feel like he reminds me of someone.
 }
 [sha:e8bca9edde6d470caab5ca5e784aafb0a5f76c3b]{
 -- Page 54, Offset 30661.
@@ -393,7 +393,7 @@ But I can see his eyes―――they glitter radiantly, like those of a serpent e
 [sha:a139d5b54c2ae0d80d23ddbb37018e83dcb291a5]{
 -- Page 57, Offset 30672.
 -- 「“私が思うに。人間の一生は、主題の無い本のようだ”」
-"The way I see it, a man's life is like a book without a motif."
+"The way I see it, a man's life is like a book without a title."
 }
 [sha:d6a33babe3e8a0acdbc9bc7d6c1dd86b24336afb]{
 -- Page 57, Offset 30673.
@@ -419,9 +419,7 @@ I don't think I've ever heard something so viscerally repulsive before.
 [sha:ec42bc937721a6c35ac56e991ebd3175cb9dfa8f]{
 -- Page 58, Offset 30677.
 -- 紙は年月に霞むほど<脆|もろ>い。
-// It's a little weird to say that paper grows _blurry_ with age.
-// Normally you'd say that of the ink. Kept noun changed verb, but could go either way.
-Paper so frail that it fades with age.
+Pages as muddled and vague as the passage of time itself.
 }
 [sha:8e0398493c958467244265f2a07d0598f047ecf4]{
 -- Page 58, Offset 30678.
@@ -446,7 +444,7 @@ I ready my knife.
 [sha:64446c9123e238ff72a363428358ffb65750a4da]{
 -- Page 59, Offset 30682.
 -- 腰を落とす。距離を<目|つ><視|か>む。
-I stoop down. I gauge the distance between us.
+I stoop down, gauging the distance between us.
 }
 [sha:d5d9ee48153d42f904d15d9aa92778558fe02ba7]{
 -- Page 59, Offset 30683.
@@ -472,7 +470,7 @@ It prevents me from committing to the urge to kill him,
 [sha:93549664554ac3174a998535b6d89d54dbc22eca]{
 -- Page 60, Offset 30687.
 -- 人生はあまりにも曖昧だ。
-Life is such a curious thing.
+Life is such an enigma.
 }
 [sha:20fb2eaaff2766b51175edd0c68f36da5bd7272e]{
 -- Page 60, Offset 30688.
@@ -482,7 +480,7 @@ Wouldn't you agree? Tohno―――Shiki."
 [sha:06a18c083c1cfa36380d338a9e308ad57ef040b7]{
 -- Page 60, Offset 30689.
 -- 「―――はっ！」
-"―――Ha...!"
+"―――%{i}Ha%{/i}...!"
 }
 [sha:01ca088ca6b1686c8b65519e68f3d164a711f1bc]{
 -- Page 61, Offset 30690.
@@ -492,12 +490,12 @@ I dash forward like a greyhound bolting out of the gate.
 [sha:c8d79563f13b804a8d7b2a4f2599659e7dfc0a3d]{
 -- Page 61, Offset 30691.
 -- <い|・><ま|・><さ|・><ら|・><遅|・><い|・>、と焦りながら最高速をたたきだす。
-Even knowing it's that it's already too late, I impatiently propel myself forward as fast as I possibly can.
+Even knowing that it's already too late, I impatiently propel myself forward as fast as I possibly can.
 }
 [sha:2bde146e3c8dcc4f8c6756aa49f56b25bff85e13]{
 -- Page 61, Offset 30692.
 -- かつてない運動性能の発揮。
-A display of unparalleled physical ability.
+A display of physical ability I was unaware I was capable of.
 }
 [sha:9910bbf338e7c0af598f1c50d51cbb6d579116ca]{
 -- Page 61, Offset 30693.
@@ -524,7 +522,7 @@ Even though I managed all that in a single breath―――
 [sha:c835311797b4a8439e349a9862fc6a781dc948a0]{
 -- Page 62, Offset 30697.
 -- ヤツは瞬きのうちに、俺の背後にすり抜けていた。
-This guy manages to slip around to my rear in the mere blink of an eye.
+This guy manages to slip behind me in the mere blink of an eye.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 63, Offset 30698.
@@ -544,7 +542,7 @@ The man strikes my hand and snatches the knife away.
 [sha:889975a7e2d6393766d04d1415aae11b6ccb68c8]{
 -- Page 63, Offset 30701.
 -- その目は青く光りながら、俺の体の線を、直視している。
-With eyes shining blue, he stares straight into the lines on my body.
+With eyes shining blue, he stares straight at the lines on my body.
 }
 [sha:ad4ce9d4032a26906cbd94552bec78c7e43e065d]{
 -- Page 64, Offset 30702.
@@ -692,7 +690,7 @@ My body temperature is dropping.
 [sha:a4dde80636129b1aaaf2a0f4f685fde39d3c607c]{
 -- Page 70, Offset 30729.
 -- 焚書の時だ、遠野―――<四|シ><季|キ>」
-The time for book burning has come, Tohno―――SHIKI."
+The time has come to put your book on the pyre, Tohno―――SHIKI."
 }
 [sha:f4bad20f12c37709ddae48285314cbb2e4973cf0]{
 -- Page 71, Offset 30730.
@@ -724,7 +722,7 @@ We were―――%{i}we%{/i} were inseparable.
 -- 秋葉と遊ぶときだって、いつも自分はカレと一緒になって秋葉を迎え入れたというのに、どうして――――
 Even when I played with Akiha,
  I was inviting her to join in with the %{i}two%{/i} of us.
- So then why――――
+ So then, why――――
 }
 [sha:9c9a529f8ff7ac6babcde44711a20db6c1ec6506]{
 -- Page 72, Offset 30736.
@@ -760,7 +758,7 @@ The owner of this body, Tohno SHIKI, is no longer with us.
 [sha:beaef76eaa02e186c47a2af45d9bcb5ba203733e]{
 -- Page 74, Offset 30742.
 -- 男は語る。同じ響きでありながら、違う言葉の男の名を。
-The man speaks. Though our names may sounds the same, their spelling differs.
+The man speaks. Though our names may sound the same, their spelling differs.
 }
 [sha:bcac0e041d35b565bd40058a0db6d087c078c076]{
 -- Page 74, Offset 30743.
@@ -802,7 +800,7 @@ That, too, is a nickname reserved only for tonight."
 [sha:048d3fedb728c87383f18cce110dc0280aea98e4]{
 -- Page 76, Offset 30750.
 -- 厭な笑い声と、ヴローヴからさんざん感じとった不快感。
-An unpleasant laugh, and the same unsettling feeling I felt looking at Vlov.
+An unpleasant laugh, and the same unsettling feeling I experienced looking at Vlov.
 }
 [sha:1e0bcb27f137b5408cb6d57766138ca8747e05a3]{
 -- Page 76, Offset 30751.
