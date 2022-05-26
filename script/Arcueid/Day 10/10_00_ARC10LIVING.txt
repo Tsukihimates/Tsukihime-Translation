@@ -1,67 +1,70 @@
 [sha:99c0488c3ca4c0e0587105a48e6c592738e196f4]{
 -- Page 10029, Offset 26830.
 -- 『機能不全』
-            'Dysfunctional'
+                  'Dysfunctional.'
 }
 [sha:9ad5e1aef4c95d1613543565a114f9b3a5e91424]{
 -- Page 884, Offset 26831.
 -- 『磨耗積載重量過多』
-            'Excessive Abrasion Load'
+              'Stress-induced failure.'
 }
 [sha:c25ea6a4317763054219958575bfaf9bdcc60460]{
 -- Page 885, Offset 26832.
 -- 『壊れた器は直らない』
-            'A broken device cannot be repaired'
+        'A broken vessel cannot be repaired.'
 }
 [sha:0bba49c422685420bfa0f8a580777da7ad749552]{
 -- Page 886, Offset 26833.
 -- 『壊れた食器は役立たず』
-            'A broken tableware serves no purpose'
+        'Broken tableware serves no purpose.'
 }
 [sha:57b587362aa1ff8a37eee3a8b684374364db0696]{
 -- Page 887, Offset 26834.
 -- 『見苦しいだけなので、
-            'It's simply hideous to look at,
+       'It's simply unseemly,
 }
 [sha:1c0f6a7d9b99ae5a71a6ef62ee9c0622ef9fc58b]{
 -- Page 887, Offset 26835.
 -- 棚の奥に仕舞いましょう』
-            so let's put it away deep in the shelves'
+       so let's bury it deep in the shelves.'
 }
 [sha:0d17ce661a04bd9fe83e1d6a3a34a85590596ae8]{
 -- Page 888, Offset 26836.
 -- 月を見る夢を見ていた。
-I had a dream of seeing the moon.
+In my dream, I watched the moon.
 }
 [sha:b0b5b3762a87e50f3b8b9f17655a3d4f8ab84dcf]{
 -- Page 888, Offset 26837.
 -- 何処で、如何して月を見上げているかは思い出せない。
-I don't remember where I was looking at the moon from or why.
+I don't quite remember where I was watching from or why.
 }
 [sha:21013db4b9da4fd5f5a7e7fa781aaaef5c22e6c4]{
 -- Page 888, Offset 26838.
 -- ただ他に何も見たくなくて夜空を見上げた時、月があっただけなのかもしれない。
-It might have been because I just didn't want to see anything else, and then when I looked up to the night sky, the moon was simply there.
+Maybe it was because——
+not wanting to see anything——
+I'd raised my gaze to the heavens, and there, was the moon.
 }
 [sha:cbd11cf50ffef23540b6b63169a59e2f1f4bc9d0]{
 -- Page 889, Offset 26839.
 -- ぎちり、と背骨が軋む。
-My spine creates a creaking sound.
+My spine creaks.
 }
 [sha:39933244ff12aaf6b6d15077c49c4bd3de588c22]{
 -- Page 889, Offset 26840.
 -- 血管を駆け巡る真冬の気温。
-The cold of midwinter runs through my veins.
+The midwinter chill has seeped into my veins.
 }
 [sha:2bea5c7d571c4963c242db6db084d4aca7035718]{
 -- Page 889, Offset 26841.
 -- 一人きりの暗闇は、眩暈がする。
-Being all alone in the dark makes me feel dizzy.
+I feel dizzy, all alone in the dark like this.
 }
 [sha:e87fd796f32a8f31525c503a4a66da5e81874201]{
 -- Page 889, Offset 26842.
 -- 眩く、心を病みつかせるような、月。
-A dazzling, heart-captivating moon.
+// Pretty sure this is まばやく / 病みつく
+A moon so dazzling it snatches my breath away.
 }
 [sha:1e5ff559f8a1d2d5ee1ce5a06fd4783af8fe4bb2]{
 -- Page 889, Offset 26843. Mods: @n.
@@ -76,7 +79,8 @@ A dazzling, heart-captivating moon.
 [sha:ecc0008d123c4f69dafce0b98736cbd14bf406b7]{
 -- Page 889, Offset 26845.
 -- 息苦しいはずの寒さは、それ以上に懐かしい空気を持っているような気がした。
-The cold that should have been suffocating seem to contain an air of nostalgia along with it.
+By all rights this cold should feel stifling,
+ yet instead, it feels tinged with nostalgia.
 }
 [sha:7c686ab0a169e4d34fda0e6f213a878a61a4f5f7]{
 -- Page 890, Offset 26846.
@@ -86,17 +90,18 @@ The cold that should have been suffocating seem to contain an air of nostalgia a
 [sha:f3fcf506818f2cd038db7b8d67ee88dd21b2cfef]{
 -- Page 890, Offset 26847.
 -- ……朝の光に交じって、翡翠の呼び声が聞こえてくる。
-...I hear the call of Hisui mixed in with the morning lights.
+...I'm greeted by the morning sunshine,
+ along with the sound of Hisui calling out to me.
 }
 [sha:ca121825ffc57c2fec9bc69b327bc3a763f84b69]{
 -- Page 891, Offset 26848.
 -- 「―――志貴さま、お目覚めの時間です」
-"―――Shiki-sama, it is time to wake up."
+"―――Shiki-sama, it's time to wake up."
 }
 [sha:448781c3ea8d65a903226d52fffe3a81e86d1f9a]{
 -- Page 891, Offset 26849.
 -- 抑揚のない翡翠の声に、意識がはっきりと覚めていく。
-My consciousness fully awakens with the sound of Hisui's monotonous voice.
+I'm fully awake after hearing Hisui's monotone voice.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 892, Offset 26850.
@@ -106,12 +111,13 @@ My consciousness fully awakens with the sound of Hisui's monotonous voice.
 [sha:4d0df9964d80c3f341162c2e21fc427793976fef]{
 -- Page 892, Offset 26851.
 -- 目を覚ましたとたん、厭なモノが視界に入ってきた。
-When I come to my senses, an abhorrent thing enters my view.
+The instant I fully open my eyes,
+ these abhorrent %{i}things%{/i} crowd my vision.
 }
 [sha:c3f7931bb329e072f2ed4bb6cf2e93c922f4677a]{
 -- Page 892, Offset 26852.
 -- ずきり、とこめかみには銃創のような頭痛。
-With a crack, a headache forms on my temples like a gunshot wound.
+I'm suddenly assailed by a stabbing headache. It's as though someone shot me in the temple.
 }
 [sha:fb286836297b86f36a76f3443ba7b535d0f3d63b]{
 -- Page 893, Offset 26853.
@@ -121,12 +127,12 @@ With a crack, a headache forms on my temples like a gunshot wound.
 [sha:b595fa23db61928eb22c61ded6d97800109ab8a6]{
 -- Page 893, Offset 26854.
 -- 起きたばかりの意識が、がらり、と足場を失っていく。
-My consciousness that had just woken up loses its foothold with a crash.
+My consciousness, only just having woken up, loses its footing.
 }
 [sha:6dd8696ee76804c9842dd56b557783aafdcebd9a]{
 -- Page 893, Offset 26855.
 -- そのまま眩暈を起こしてしまう前に、急いで枕元の眼鏡を手に取った。
-I quickly rush for my glasses next to the pillow before the dizziness takes root.
+I quickly reach for the glasses next to my pillow before the dizziness takes root.
 }
 [sha:c0c982dd6f00f32ea432075e736a8c96675fd8e7]{
 -- Page 894, Offset 26856.
@@ -136,32 +142,32 @@ I quickly rush for my glasses next to the pillow before the dizziness takes root
 [sha:f5f2e6a17f1f927b96dc1d75240fcb33a9fcc67b]{
 -- Page 894, Offset 26857.
 -- 「……いや、昨日の疲れがまだ残ってるだけ。すぐによくなるから、心配は無用だよ」
-"...No, I'm just still tired from yesterday. I'll get better soon, so there's no need to worry."
+"...No, I'm just still tired from yesterday. I'll be back on my feet soon, so there's no need to worry."
 }
 [sha:e9888b670f8b981174ec4960ad1782af8094c57a]{
 -- Page 895, Offset 26858.
 -- 軽く頭をふって、さっきまで視えていたものを記憶から振り払う。
-I shake my head lightly and drive out the memories that I saw just a while ago.
+Shaking my head lightly, I try to shed the memories of what I'd just seen.
 }
 [sha:97e4197af023959399d24c2b44e437cd0454672c]{
 -- Page 895, Offset 26859.
 -- 昨夜、無理をしてアルクェイドとの約束を守った代償だ。体の感覚はまだ鈍かった。
-This is the price I paid for pushing myself to keep my promise with Arcueid last night. My senses still feel dull.
+I'm paying the price for pushing myself to keep my promise with Arcueid last night. My senses still feel dull.
 }
 [sha:423dcf4a0d031923d85d1fce20e2193a3faa333b]{
 -- Page 896, Offset 26860.
 -- 「おはよう翡翠。
-"Good morning Hisui.
+"Good morning, Hisui.
 }
 [sha:df8bbf4f9731f95d6b1f2b9b82a11df291dbaff6]{
 -- Page 896, Offset 26861.
 -- 今朝も起こしにきてくれてありがとう」
-Thank you for coming to wake me up today as always."
+Thanks for coming to wake me up today, as always."
 }
 [sha:48ba2f8284221f2158a9f55e88660c0af3cf8a2b]{
 -- Page 896, Offset 26862.
 -- ベッドから上半身を起こしながら、できるだけ自然に笑顔を向ける。
-I sit up from the bed and try my best to put on a natural-looking smile.
+I heave myself upright in bed, doing my best to put on a natural-looking smile.
 }
 [sha:ceef3076fd45b55f5eb60436ae38e14bf7ed6cfe]{
 -- Page 897, Offset 26863.
@@ -171,12 +177,13 @@ I sit up from the bed and try my best to put on a natural-looking smile.
 [sha:e8cedd77878e6115fd15e7e033eec4135ede84ba]{
 -- Page 897, Offset 26864.
 -- 「そうかな、俺はすごくありがたいけど。目覚まし時計の音なんかより、何倍もあったかい感じがする」
-"I wonder about that. But I am extremely grateful. Compared to the sound of an alarm clock, this feels many times more warm."
+"That so? But I %{i}am%{/i} extremely grateful.
+ This is a much warmer wake-up call than the blaring of an alarm clock."
 }
 [sha:44a37e56a9f77c20befc60f9ed247707559b082e]{
 -- Page 898, Offset 26865.
 -- 今朝もそのおかげで目が覚めた。
-I was able to wake this morning as well because of that.
+Thanks to that warmth, I greet another day.
 }
 [sha:33912a68725ed9bf266153c411a0a9b382794453]{
 -- Page 898, Offset 26866.
@@ -186,32 +193,33 @@ I stand up from the bed.
 [sha:1116de10a1a476a2f6d9f8a9e0e98dde03eaf11e]{
 -- Page 898, Offset 26867.
 -- 時刻は朝の７時前―――いつもより10分ほど早い。
-The time is just before seven in the morning―――about ten minutes earlier than usual.
+It's just before seven in the morning―――about ten minutes earlier than usual.
 }
 [sha:265a36a8a7f88846f0796e71b4076e3b266b6636]{
 -- Page 899, Offset 26868.
 -- 「朝食だろ。すぐに行くから先に行ってていいよ」
-"It's breakfast time, right? I'll be there soon, so you can go before me."
+"It's time for breakfast, right? I'll be there soon, so you can go on ahead."
 }
 [sha:56a64d59a5da04d5290d88f928222ceb0354e00a]{
 -- Page 899, Offset 26869.
 -- 「はい。それでは食堂でお待ちしております」
-"Very well. In that case, I will wait for you at the dining room."
+"Very well. In that case, I will wait for you in the dining room."
 }
 [sha:fb0f5104837a64efa606e3f15db71b07fe301b88]{
 -- Page 899, Offset 26870. Mods: @n.
 -- 翡翠はいつも通り一礼して、静かに退室……
-Hisui takes her bow as usual and quietly leaves the room...
+Hisui makes her customary bow, and quietly takes her leave...
 }
-[sha:c7c933ae4b402581a1a040bf9ff007b3df3ab535]{
+[offset:26871]{
 -- Page 899, Offset 26871. Glued.
 -- あれ？
-Huh?
+// Space for glue
+ or not?
 }
 [sha:84549c4274ee5ab4aee8ffda085eb0f42f9cade5]{
 -- Page 900, Offset 26872.
 -- 「………………あの、志貴さま」
-"...Umm, Shiki-sama?"
+"...Um, Shiki-sama?"
 }
 [sha:da2dff9f1e26db31a1e5542929efa1c5bcd47f60]{
 -- Page 900, Offset 26873.
@@ -226,7 +234,7 @@ Huh?
 [sha:e68a348795e549cfe6f98383d287ec7fb7c50a74]{
 -- Page 901, Offset 26875.
 -- どうか今日一日、健やかにお過ごしください」
-I hope that you spend the day in high spirits."
+Please take good care of your health today."
 }
 [sha:a8aee76cfe204b1627538dad840b99b55f90d7cd]{
 -- Page 902, Offset 26876.
@@ -241,17 +249,19 @@ Hisui leaves the room.
 [sha:2c25cc676faccb0162606cc0f2c2d8dd3cf882ad]{
 -- Page 902, Offset 26878.
 -- 本調子でないとはいえ、学校に行けないほどじゃない。
-Although I'm not in my best condition, it's not so bad that I can't go to school.
+I'm certainly not in the best shape possible,
+ but I think I can still manage going to school.
 }
 [sha:ec7ca02c3aa4e4f0d951b0d16ca703e18445cec0]{
 -- Page 902, Offset 26879.
 -- 琥珀さんの作ってくれる朝食を食べれば体力も戻るだろう。
-If I eat the breakfast that Kohaku-san makes for me, then I'm sure my strength will return.
+I'm sure I'll also get some of my strength back after eating whatever breakfast Kohaku-san has cooked up for me.
 }
 [sha:91ec2cfa767d180d3f65798f54e35e7f78133975]{
 -- Page 903, Offset 26880.
 -- 居間にはソファーに座った秋葉と、壁際に控えている翡翠の姿があった。
-In the living room, there is Akiha sitting on the sofa and Hisui waiting next to the wall.
+// Didn't Hisui just say she'd be in the dining room...?
+In the living room, Akiha is sitting on the sofa and Hisui is standing at attention by the wall.
 }
 [sha:cf8448bac14bed13f634571a3a0c885992e8d36b]{
 -- Page 904, Offset 26881.
@@ -261,72 +271,77 @@ In the living room, there is Akiha sitting on the sofa and Hisui waiting next to
 [sha:ed16ef1f59a095675d8a143ea82a9cc036d6865e]{
 -- Page 904, Offset 26882.
 -- 昨夜はゆっくり休まれましたか？」
-Were you able to rest well last night?"
+Did you sleep well?"
 }
 [sha:8efc17709c49951109330dd7f47c1a51a0c0eb47]{
 -- Page 905, Offset 26883.
 -- 「あ、ああ。おはよう、秋葉」
-"A-Ah, good morning, Akiha"
+"A-Ah, good morning, Akiha."
 }
 [sha:583021f31f7a508967f190ed369f0891f0d3db99]{
 -- Page 905, Offset 26884.
 -- 俺が居間に入るなり、秋葉はいつもより明るい……というか、弾んだ声で挨拶をしてきた。
-As soon as I enter the living room, I see Akiha being brighter than usual... or rather, she greeted me with a lively voice.
+As soon as I enter the living room, I can't help but notice that Akiha seems cheerier than usual...
+ Well, her greeting is certainly lively, at least.
 }
 [sha:a2fb8eef125291bdcd6936c5705b069fd2aa3d97]{
 -- Page 905, Offset 26885.
 -- 機嫌がいいのは精神衛生的にもいい事なので喜ばしいが、それより、
-Being in a good mood is great for one's mental health, so I'm happy in that regard. But leaving that aside...
+A cheery mood is good for one's mental health, so I'm glad in that regard, but...
 }
 [sha:284433db278f1d1f32fefcf909ed77da39c291a6]{
 -- Page 905, Offset 26886.
 -- 「どうしたんだよ。制服に着替えなくていいのか？」
-"What's going on? Are you okay with not wearing your school uniform?"
+// modulated a bit: lit. "is it ok not changing into your school uniform?"
+"What's going on? You're not wearing your school uniform."
 }
 [sha:e713f9a6bfc8eff6f98c935d2a54a2123375e54e]{
 -- Page 906, Offset 26887.
 -- 「ええ、本日は自主休校とさせていただきました。屋敷の方でやる事ができましたので。
-"Yes, today I requested voluntary absence from the school. After all, I can do everything from the comfort of the mansion.
+"Yes, today I requested a voluntary absence from school.
+ After all, something has come up at the mansion that I must attend to.
 }
 [sha:2966bf24267ea3e37e2df367053f289e518091c7]{
 -- Page 906, Offset 26888.
 -- 兄さんはいつも通り学校ですか？　どうぞ、気ままな学生気分を堪能してきてください」
-Are you going back to school as usual? Please go and enjoy your carefree student life to one's satisfaction."
+Are you going back to school as usual? Please, go and enjoy your carefree student life to the fullest."
 }
 [offset:26889]{
 -- Page 907, Offset 26889.
 -- 「？」
-"Huh?"
+// Not voiced
+What's going on?
 }
 [sha:7e683d14ed8a4da70b651d0398739652ff0ee59e]{
 -- Page 907, Offset 26890.
 -- 上機嫌なのは見て取れたが、それにしても妙なテンションだな、秋葉のヤツ……。
-I understand that she's in a good mood, but even so, this feels strangely tense. Akiha...
+I get that she's in a good mood, but even so, this feels strangely tense.
+ Just what is she up to...
 }
 [sha:24495987e4a664e6bafc9d180c53831141f52035]{
 -- Page 908, Offset 26891.
 -- 「それにしても、今朝は顔色がいいんですね。
-"At any rate, you look rather good this morning.
+"Anyhow, you're looking significantly better than you did yesterday.
 }
 [sha:788c62a72530185e4dc89ac257597dc0e796e72d]{
 -- Page 908, Offset 26892.
 -- やっぱり、昨夜ゆっくり休んでくれたから、ですか？」
-It must have been because you slept well last night, wouldn't you agree?"
+It must be because you slept well last night, wouldn't you agree?"
 }
 [sha:0744e7b472bea0e391c9053163050057a44c1485]{
 -- Page 908, Offset 26893.
 -- 「ま、まあな。今朝は起きるのも早かったし……」
-"I-I suppose so. I was able to get up early today after all..."
+"I-I suppose so. I even woke up a little early today too..."
 }
 [sha:5c3f6fcfd38f94550e9fc1712b3c31064ce9e98f]{
 -- Page 909, Offset 26894.
 -- 「ふふ。それならもう心配する必要はないですね。
-"Fufu. In that case, there's no need for me to worry.
+"%{i}Hehe%{/i}. In that case, there's no need for me to worry.
 }
 [sha:36b2d4af5dcab086084af08e6b32e469490273f0]{
 -- Page 909, Offset 26895.
 -- 兄さんが言う事を聞いてくれる人で良かった」
-I'm glad that you are the type of person to listen to what other people say."
+I'm glad that you're the type to listen to others."
 }
 [sha:e485e93becb38bb12f15bf30307ddb58e829360d]{
 -- Page 910, Offset 26896. Mods: @n.
@@ -341,12 +356,14 @@ Her trust in me hurts
 [sha:40efa04e16fb36a9c004ebeb26d713733da92851]{
 -- Page 910, Offset 26898.
 -- 結果として昨日はアルクェイドとの約束を守って、無理をする事なく部屋に戻って来られたものの、秋葉に嘘を言っている事に変わりはない。
-Although I was able to keep my promise with Arcueid yesterday and came back to my room without pushing myself in the end, it doesn't change the fact that I'm lying to Akiha.
+Last night I ended up going out to protect my promise with Arcueid.
+ Even if I did manage to avoid pushing myself too hard and make it all the way back to my room again afterward,
+ it doesn't change the fact that I'm still lying to Akiha.
 }
 [sha:c77e56be80204c86598666589470066f0e9d0f9f]{
 -- Page 910, Offset 26899.
 -- これ以上ここにいるとボロが出てしまいそうなので、早々に退散しよう。
-I feel like I'll slip up if I stay here any longer, so I should get out of here quickly.
+I feel like if I stay here any longer, I'll slip up. I should get out of here quickly.
 }
 [sha:fd80e739a2b3a2946733004628bda4c3c8cb134b]{
 -- Page 911, Offset 26900.
@@ -356,27 +373,28 @@ I feel like I'll slip up if I stay here any longer, so I should get out of here 
 [sha:d65619980ef9905693df5b2af4fe5a0760c0b04c]{
 -- Page 911, Offset 26901.
 -- 食べたら学校に行くから、俺の事は気にしなくていいぞ」
-I'm going to school after I finish eating, so you don't have to worry about me."
+I'm going straight to school after I finish eating, so don't pay me any mind."
 }
 [sha:0020a857e4214010fa28b09bf36dc762fe83d359]{
 -- Page 911, Offset 26902.
 -- 「わかりました。でも、まだ何かあるようでしたら遠慮なく立ち寄ってください。
-"I understand. But if there is anything you need, please don't hesitate to stop by.
+"Understood. However if there's anything you need, please don't hesitate to stop by.
 }
 [sha:ace420f4eb3cc72be88b797725d2c5cad285323a]{
 -- Page 911, Offset 26903.
 -- あと少しだけ、ここで待っていますから」
-I'm only going to wait here for a little longer after all."
+I'll be waiting right here, at least for a little while longer."
 }
 [sha:0ec1d8840cb888d1d0cb5ab63f0e02b29ebf15a6]{
 -- Page 912, Offset 26904.
 -- まだ手足はだるいが朝食を摂れば元気も出る筈だ。
-My limbs still feel heavy, but I'll probably feel better after having breakfast.
+My limbs still feel heavy, but I'll probably feel better after breakfast.
 }
 [sha:7c9ff322838febef5fdf34c2d9088b4ef36270cc]{
 -- Page 912, Offset 26905.
 -- 俺は体の不調を秋葉に隠して、なんでもないそぶりで食堂に向かった。
-I hide my physical discomfort from Akiha and head toward the dining room while pretending that everything is okay.
+// second clause is redundant and sounds awkward in en.
+Hiding my physical discomfort from Akiha, I head to the dining room.
 }
 [sha:10ed5e6ccad121e6b86b604ce23f0aa0599ba053]{
 -- Page 913, Offset 26906.
@@ -386,37 +404,43 @@ I finish my breakfast and leave the mansion.
 [sha:53146e23cc8e2a6f4a6f7fa3970570b25dba1a01]{
 -- Page 913, Offset 26907.
 -- 朝食を摂れば元気になる、なんてのは甘い考えで、そもそも朝食をうまく食べられなかった。
-It was naive for for me to think that having breakfast would make me feel better. Besides, I was never the type to eat breakfast well in the first place.
+It was naive of me to think that having breakfast would make me feel better.
+ I've never been able to stomach much of a meal this early in the morning.
 }
 [sha:cfbf8aa87f53551c16b9160efc0b2a60fb8c6a07]{
 -- Page 913, Offset 26908.
 -- 食欲がまったく働いてくれなかったのだ。
-My appetite wasn't working for me at all.
+// heavily localized
+My appetite just wasn't there today either.
 }
 [sha:0e641c3bf6af87c08402a1440733411d601d47d7]{
 -- Page 913, Offset 26909.
 -- そのせいでたっぷり30分かけた、学生にしては悠長な朝食になってしまった。
-Because of that, I spent a full 30 minutes leisurely eating breakfast, which is a long time for a student.
+Because of that, I spent a full %{i}thirty minutes%{/i} picking at my breakfast―――an eternity for a student.
 }
 [sha:1aa2493b4014a42ae1e1803dec252aa22f56dbec]{
 -- Page 914, Offset 26910. Mods: @k, @e.
 -- 「うう……今朝は適切なお食事を用意せず、申し訳ありませんでした……
-"Ugh... I sincerely apologize for failing to prepare an appropriate meal this morning...
+// official Umineko TL just romanizes うう so I will too.
+// Spell to spend a happy breakfast with mama
+"%{i}Uuu%{/i}... I sincerely apologize for failing to prepare an appropriate meal this morning...
 }
 [sha:bf15ac50f26fb0633c52e16af71a744a936dd9f7]{
 -- Page 914, Offset 26911. Glued. Mods: @x.
 -- 明日、明日こそは必ず、志貴さんの目に星が散るような朝食をご用意しますから……！」
-Tomorrow, I'll make sure to prepare a breakfast that will make your eyes sparkle with joy...!"
+// Leading space for glue
+ Tomorrow I'll be sure to prepare a breakfast that'll make your eyes sparkle with joy...!"
 }
 [sha:7bd2ca4bf10c59b4f6decfbf13c14a275622d00b]{
 -- Page 915, Offset 26912.
 -- ぐっ、と両腕を前にあげて気合いをいれる琥珀さん。
-Kohaku-san raises both of her arms in front of her and fires herself up.
+Kohaku-san raises both of her arms and fires herself up.
 }
 [sha:79748ab69dce52b32cb4dbcee92d304f1ccb490a]{
 -- Page 915, Offset 26913.
 -- 今朝は珍しく、翡翠ではなく琥珀さんが見送りにきてくれた。
-In an unusual turn of events, it is Kohaku-san that sees me off this morning instead of Hisui.
+In an unusual turn of events,
+ Kohaku-san is the one seeing me off this morning rather than Hisui.
 }
 [sha:bf95066c7c4a506e7d97b7c66da6c3988a2c041e]{
 -- Page 915, Offset 26914.
@@ -451,7 +475,7 @@ Kohaku-san stares at me in silence.
 [sha:d31cc8160aadcac6f5a063c0900590d0ab6471f6]{
 -- Page 916, Offset 26920.
 -- その、わずかな変化も見せない眼差しを、機械のようだ、と思ってしまった。
-Her gaze that never changes in the slightest reminds me of a machine.
+Her unwavering gaze reminds me of... a machine, I guess.
 }
 [sha:de43977af66ef8a25c90ddc6f19063cd0bc8876a]{
 -- Page 917, Offset 26921.
@@ -466,7 +490,7 @@ Her gaze that never changes in the slightest reminds me of a machine.
 [sha:9f03fd6e0551192e90bdacaeadd3e9fe0f5e4abf]{
 -- Page 917, Offset 26923.
 -- 志貴さんのお顔の色が優れないので」
-It's just that your face looks a bit pale."
+It's just that you look a bit pale."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 917, Offset 26924.
@@ -481,27 +505,31 @@ I feel a sense of dread.
 [sha:228e944ea8be70453f6eade15c57e7450c26459c]{
 -- Page 918, Offset 26926.
 -- 秋葉にはバレていなかったけど、俺の顔色、まだ悪かったのか……？
-Akiha hasn't noticed it, but is the look on my face still that bad...?
+Akiha may not have noticed anything,
+ but am I really looking that green around the gills...?
 }
 [sha:e3403d1b68394fc547a33d835024678ab8d556f7]{
 -- Page 919, Offset 26927.
 -- 「やっぱりお止めするべきですよね。
-"Perhaps I should be stopping you from going.
+"Perhaps I should stop you from going after all.
 }
 [sha:e55e377715dcfa530e9ae5ff70f31664cab4bcf1]{
 -- Page 919, Offset 26928.
 -- 秋葉さまもいらっしゃいますし、志貴さんも今日は学校をお休みになられては？」
-Akiha-sama is staying back after all, so why don't you take the day off school as well?"
+Akiha-sama is staying back today, so why don't you take the day off as well?"
 }
 [sha:6c4bd6f418b210dd157ccfadc030021d51461e28]{
 -- Page 920, Offset 26929.
 -- 「あー……いや、大丈夫。少し体が重いだけ。昨日の事で心配するのは分かるけど、行ける時は学校に行っておきたいし」
-"Ah... no, that's okay. My body just feels a little heavy. I understand your concerns about yesterday, but I want to go to school when I can."
+"Ah... no, that's okay. My body just feels a little heavy.
+ I appreciate that you're concerned about me after what happened yesterday,
+ but I want to go to school when I can."
 }
 [sha:d7b4663417b9c28225de4bb063fd2a0e2ba9aa76]{
 -- Page 921, Offset 26930.
 -- 「もう。そんな優しい顔で言われてはお咎めもできません。わかりました、秋葉さまには内緒にしておきます。
-"Geez. I can't fault you when you talk with a kind-looking face like that. I understand. I'll keep it a secret from Akiha-sama.
+"Geez. How can I stop you when make such an endearing face.
+ I understand. I'll keep it a secret from Akiha-sama.
 }
 [sha:30eab619ced1caa577e8ec2dbf0ba95d8974816a]{
 -- Page 921, Offset 26931.
@@ -511,7 +539,7 @@ But you mustn't push yourself too hard, okay?"
 [sha:6933500233e788524267f589e68320c2e18f3510]{
 -- Page 922, Offset 26932.
 -- 「……ですね。今日は早めに帰ってきて休みますから、それで大目に見てください」
-"...Alright. I'll come home early today to rest, so please let this pass."
+"...Alright. I'll come home early today to rest, so please let this slide."
 }
 [sha:ecc44fdc7826f9df3ef7c2f2e8a9076e67d731ae]{
 -- Page 922, Offset 26933.
@@ -526,12 +554,13 @@ With Kohaku-san sending me off with a smile, I leave the Tohno residence.
 [sha:98bb8f928211cb87bcc814cb748b1a72f68debb4]{
 -- Page 923, Offset 26935.
 -- 嘘から出た<実|まこと>ではないが、今日は寄り道せずに帰ってこよう。
-It's not exactly a truth within a lie, but today I'll come back home without taking a detour.
+There's a kernel of truth to what I said.
+ I %{i}will%{/i} be making my way straight home today.
 }
 [sha:91b2d3abaa2b15fe85b3a2f9975b3d19dce3e8a8]{
 -- Page 923, Offset 26936.
 -- ちゃんと体力を戻して、秋葉たちを安心させて、アルクェイドとの待ち合わせに行けばいい。
-All I have to do is regain my strength, put Akiha and the others at ease, and go meet Arcueid as promised.
+I must if I'm to regain my strength and put Akiha and the others at ease before I go out and meet with Arcueid.
 }
 [sha:1d883f2a2c847d75ceb9cfe2d0d94c342cb1fa59]{
 -- Page 924, Offset 26937.
@@ -541,12 +570,15 @@ I head toward the school.
 [sha:23d954335aa4ef59374de431d9cdac19c273939b]{
 -- Page 924, Offset 26938.
 -- 手足がまだ重く、他人の体を着ているような感覚で坂道を下りていく。
-I descend the hill road with my limbs still feeling heavy like I'm carrying another person's weight on me.
+// Wearing -> piloting
+I make my way down the hill.
+ My limbs feel heavy, as though I'm piloting someone else's body.
 }
 [sha:b835fac2ede0cfdbf1654ad297016bf226a36142]{
 -- Page 924, Offset 26939.
 -- すぐに回復すると思っていた手足の淀みも、なかなか消えてはくれないようだ。
-It seems that the faltering in my limbs, which I thought would recover immediately, will not go away so easily.
+I thought I'd be able to shake off this sluggishness pretty quickly,
+ but it seems it won't be so easy.
 }
 [sha:fab94381ba21c4b0778a6f938778492611c96ed1]{
 -- Page 925, Offset 26940.
@@ -561,12 +593,12 @@ I believe it's the middle of second period.
 [sha:57add5d35705654236be0135c960f62fb5b7b15f]{
 -- Page 925, Offset 26942.
 -- 教師に遅刻を　　られながら席に座　。
-After the teacher         me for my tardiness, I sit     .
+After the teacher         me for my tardiness, I take my seat     .
 }
 [sha:87d8725e7a10ef2ea706fa2aff439d3d37ae5010]{
 -- Page 925, Offset 26943.
 -- 椅子に体を預けてやっと　　　　た。
-I lean my body on the chair and finally       .
+I plop my body on the chair and finally       .
 }
 [sha:a5d77cde901fbeea5a8e180a50966c58f1282c3f]{
 -- Page 926, Offset 26944.
@@ -576,17 +608,19 @@ It's lunch break.
 [sha:ff39ec799b8464172aa9273853a7a3b16b1ccc71]{
 -- Page 926, Offset 26945.
 -- 有彦は休みらしい。今日の欠席者は乾有彦と弓塚さつきの二名。有彦はともかく、弓塚の欠席が続いている事が気になった。
-It seems that Arihiko is taking the day off. The only ones absent today are Inui Arihiko and Yumizuka Satsuki. Leaving Arihiko aside, I'm worried about Yumizuka's continued absence.
+It seems Arihiko is taking the day off.
+ That makes two absentees today―――Inui Arihiko and Yumizuka Satsuki.
+ Arihiko is one thing, but Yumizuka's continued absence has me a little worried.
 }
 [sha:221287c73c710965f04a7a108c7b887896b92e70]{
 -- Page 926, Offset 26946.
 -- 風邪をこじらせた、という、誰もが納得できる理由であればいいのだが。
-It would have been fine if she had a reason that anyone could understand, like catching a cold for example. But...
+I hope it's nothing serious, like a cold or something, but...
 }
 [sha:9ed29702bf9e11d34d4b2bc5959ed3df5cf539ab]{
 -- Page 927, Offset 26947.
 -- ところで、昼休み、は何をすればいいんだっけ。
-Speaking of which, what am I supposed to do during my lunch break?
+...What am I supposed to do during my lunch break again?
 }
 [sha:9d8d60378902d6874fe25a27036a272f76fc212a]{
 -- Page 927, Offset 26948.
@@ -611,12 +645,12 @@ Speaking of which, what am I supposed to do during my lunch break?
 [sha:17a328774128726674ff552fa8d50ab5f45bafc5]{
 -- Page 927, Offset 26952.
 -- そう、食事を摂らないと、治るものも治らない。
-Yeah, I won't be able to recover if I don't have lunch.
+Right, I won't be able to recover if I don't have lunch.
 }
 [sha:ce452e4f11450985d98ec4847c1603354ff1256b]{
 -- Page 928, Offset 26953.
 -- しかし食欲は一向に湧いてこない。
-However, my appetite is completely non-existant.
+However, my appetite is completely non-existent.
 }
 [sha:02016c79bcfde84f8d8715122e6ebb7ee6acc53d]{
 -- Page 928, Offset 26954.
@@ -626,17 +660,19 @@ It's not that I feel sick.
 [sha:6fa0dad49ed7f33068a33a025af98b2ef4118216]{
 -- Page 928, Offset 26955.
 -- 機能そのものが無くなった気がする。
-It's that I feel I've lost the very function of hunger itself.
+It's more like I simply lost the ability to feel hungry.
 }
 [sha:529f7799858e392d2542eff127c91fade65350a3]{
 -- Page 928, Offset 26956.
 -- なので食事の必要はなく、椅子から立ち上がる理由も、立ち上がるための活力もなく、まったくもって無駄が無い。
-That's why there's no need to eat, or reason to rise from the chair, or energy for the sake of getting up. As a matter of fact, there's no unnecessary waste at all.
+That's why there's no need to eat.
+ I haven't the reason nor the strength to rise from this chair.
+ Why waste my energy.
 }
 [sha:4d4d1c97e029e467bfd7c6233f2b245c0470eda1]{
 -- Page 928, Offset 26957.
 -- 不思議なのは、それらの錯覚を違和感なく受け入れている自分だった。
-The strange thing is that I accepted all these illusions without feeling a shred of unease.
+It's strange. I've accepted this delusion without a second thought.
 }
 [sha:88e482b33c47a168b235141a4984005c21d70b1d]{
 -- Page 929, Offset 26958.
@@ -651,22 +687,22 @@ What class was this again? I don't remember what the subject is for fifth period
 [sha:3d1cae05fcd98753a4692adeb22d8933fe37747e]{
 -- Page 930, Offset 26960.
 -- 黒板を見ても、教師の声を聞いていても、
-Even when I look at the blackboard or hear the teacher's voice,
+Even when I look at the blackboard, or listen to the teacher's voice,
 }
 [sha:59c9c1175c47aa71fbc8a93721fd642bf419b8e8]{
 -- Page 930, Offset 26961.
 -- 俺には、万象が読み取れない。
-I cannot read anything that exists in this world.
+none of it makes a lick of sense to me.
 }
 [sha:29d063bf2a52bb267561302efc22472fd0729300]{
 -- Page 930, Offset 26962.
 -- 文字が、水に流される絵の具のように、ぐちゃぐちゃに混ざっていく。
-The letters are being sloppily mixed together like paint swept away by water.
+The letters swirl and scatter, like paint being swept away by water.
 }
 [sha:259e37261eeaa1d26e07b1e33a4691a25a8196f5]{
 -- Page 931, Offset 26963.
 -- 「うっ…………」
-"Ugh..."
+"%{i}Ugh%{/i}..."
 }
 [sha:98b635e8e5ce0402c83474816cb02c4d27368fa9]{
 -- Page 931, Offset 26964.
@@ -676,32 +712,34 @@ I feel... nauseous.
 [sha:8471287c4f8554a414203e037cbbed5a60d82728]{
 -- Page 931, Offset 26965.
 -- 教室全体が傾斜している。
-The entire classroom is being tilted.
+The entire classroom is tilting.
 }
 [sha:b1138585d67070dc4eccaafefd4bf4ef3ce727a4]{
 -- Page 931, Offset 26966.
 -- バランスが崩れる。
-I'm losing balance.
+I lose my balance.
 }
 [sha:07936ff172620259c28e16cffe133862561f9964]{
 -- Page 931, Offset 26967.
 -- 坂道に落ちていく。懸命にしがみつく。しかし凹凸のない世界。
-I fall down on the hill road. I hang on for dear life. But there is nothing to hold on to in this world.
+My body starts to collapse toward that sloping floor.
+ I hold on for dear life.
+ But the world offers me no footholds.
 }
 [sha:b4ac328cde52c7b6ceb368c814202d1df76f8fde]{
 -- Page 931, Offset 26968.
 -- <眩|くら>り、と意識が病んでいく。
-Falling into the darkness, my consciousness becomes sick.
+My consciousness succumbs to the dizziness.
 }
 [sha:53534b3e6496877c5783bdadea5deef518702aaf]{
 -- Page 932, Offset 26969.
 -- 何の抵抗もなく椅子から落ちた。
-I fall out of my chair without resistance.
+I can do nothing to catch myself as I fall out of my chair.
 }
 [sha:da15ee80cec37758980528ce5a6104719f5f1963]{
 -- Page 932, Offset 26970.
 -- ボウリングの球を床に落としたような、硬くて重い、厭な音がした。
-An unpleasant sound echoes, hard and heavy, like a bowling ball dropping onto the floor.
+An unpleasant sound echoes, hard and heavy, like a bowling ball dropping to the floor.
 }
 [sha:c900ad8e31dcfe7226adb6cef716d188b4a01a7f]{
 -- Page 932, Offset 26971.
@@ -713,15 +751,17 @@ The female students shriek.
 -- 教師がかけよってくる足音が聞こえる。
 I hear the footsteps of the teacher rushing over to me.
 }
-[sha:708b624ecb453b05f34cc66630d10d2c4ed01a80]{
+[offset:26973]{
 -- Page 933, Offset 26973.
 -- 俺は。
-I am...
+// Doesn't really chain into the next sentence like it does in JP, replaced by filler
+Ah...
 }
 [sha:6435cb91e677dd61971b3bc87334fd374fe2dfbf]{
 -- Page 933, Offset 26974.
 -- 完全に気を失ってしまっているのに、どこか離れた所で、冷静に自分が倒れこむ場面を眺めていた。
-Even though I am completely blacked out, I am calmly watching the scene of my body collapsing from some distant place.
+Even though I'm out cold,
+ I calmly continue to watch the scene unfold from somewhere far away.
 }
 [sha:90250ebfe3af919ba478b4ecac22d180f9385e3c]{
 -- Page 934, Offset 26975.
@@ -731,42 +771,47 @@ Even though I am completely blacked out, I am calmly watching the scene of my bo
 [sha:7e97842fdf54657b3d120f161e6234982af22883]{
 -- Page 934, Offset 26976.
 -- 貧血で気を失った俺は保健室に運ばれて、体調が良くなるまでベッドで眠る事になった。
-After passing out from the anemia, I was carried out to the school infirmary and put to rest on a bed until my condition gets better.
+// Last bit tweaked a bit to avoid tense weirdness
+After I passed out from my anemia,
+ I was carried to the school infirmary and put to bed in the hopes my condition would improve.
 }
 [sha:d436e4fea5ce656b4905273be1a849b76b32f19c]{
 -- Page 934, Offset 26977.
 -- 夜の７時過ぎ、まだ熱が38℃近くあるため、養護教諭は遠野の家に連絡した。
-Because it was past seven at night and my fever was still close to 38 degrees, the school nurse contacted the Tohno household.
+When seven o'clock rolled around and my fever was still hovering near 38℃,
+ the school nurse contacted the Tohno household.
 }
 [sha:5ac36d2d6bb0d902a25de994af813bcfb57cd269]{
 -- Page 935, Offset 26978.
 -- 迎えはすぐにやってきた。
-They come quickly to pick me up.
+// Tense liberally promoted next few lines
+They quickly come to pick me up.
 }
 [sha:e138ff6b29f51869198afa17021ee570cb242eae]{
 -- Page 935, Offset 26979.
 -- 学校の駐車場に黒塗りの高級車が停まる、という、映画のようなワンシーンを目の当たりにしながら、遠野志貴は病院ではなく遠野邸に運ばれた。
-The black luxury car stops at the parking lot of the school like a scene in a movie happening in front of me. Instead of taking me to a hospital, it takes me to the Tohno residence.
+Seeing the black luxury car stop in the school parking lot was like watching a movie play out in front of me.
+ The car isn't here to take Tohno Shiki to the hospital, but back to the Tohno residence.
 }
 [sha:fe25e189b62ab0636799d32ca22b7f602a9fb172]{
 -- Page 936, Offset 26980. Mods: @n.
 -- 熱があるだけなので当然の
-It was only a fever, so it is a natural
+It's a reasonable thing to do, it's only
 }
 [sha:6d626d92d789c7eea6dc478c8af1415069c1c2db]{
 -- Page 936, Offset 26981. Glued.
 -- 処置である。
- course of action.
+ a fever after all.
 }
 [sha:e33467f73879b7113167e42943e4c0768eec0058]{
 -- Page 936, Offset 26982.
 -- 俺も体がひたすらに重いだけで、意識ははっきりとしているからだ。
-My consciousness is still intact, so even I know that it's simply because my body feels heavy.
+My body might be incredibly heavy, but my mind remains perfectly clear.
 }
 [sha:437d34041abe396a56373e53171bec90e0b2a44b]{
 -- Page 937, Offset 26983.
 -- 黒い高級車は俗世のアレソレと混じり合う事なく、無関心に夜の街を走っていく。
-The black luxury car drives through the night city with indifference without blending in with the rest of the world.
+The black luxury car stands apart from the hustle and bustle of the world as it speeds indifferently through the twilight city.
 }
 [sha:e276740cc2376409518b8e11539558b4a6901964]{
 -- Page 937, Offset 26984.
@@ -776,62 +821,63 @@ There is no one else in the car but me and the driver.
 [sha:1ab0ea58e3d25c9cccb2fe8d50ac68d2ee6da54c]{
 -- Page 937, Offset 26985.
 -- 運転手は一言も話さなかった。
-The driver didn't say a single word.
+The driver hasn't said a single word.
 }
 [sha:4b2fdeb90b55fd854bab718115d467fc228a7b69]{
 -- Page 937, Offset 26986.
 -- 遠野志貴は後部座席に、シートベルトで固定されている。
-I, Tohno Shiki, am strapped to the back seat with a seatbelt.
+Tohno Shiki is strapped to the back seat with a seatbelt.
 }
 [sha:4bac6e57558ff8406a4ca742a38bf933c33729ce]{
 -- Page 937, Offset 26987.
 -- 外の空気も、中の空気も重苦しい。
-The air outside and the air inside feel heavy.
+Both the air outside and the atmosphere inside feel oppressively heavy.
 }
 [sha:b60098e6601a107db871f94663b8adc2de7b93f0]{
 -- Page 937, Offset 26988.
 -- 『これ、霊柩車みたいですね』
-'It feels like I'm riding a hearse, huh.'
+'It feels like I'm riding in a hearse, huh.'
 }
 [sha:05ff02e1a04cf8532dfbdef59cc00287a7574a59]{
 -- Page 937, Offset 26989.
 -- 冗談を思いついたが、口にするのは止めておいた。
-I thought about saying that joke out loud, but decided not to in the end.
+I think about saying that joke out loud, but decide not to in the end.
 }
 [sha:cfeaf8c85c47c8630e942542eb462afb33360f99]{
 -- Page 938, Offset 26990.
 -- 暗い木々のアーチを抜けて、古い屋敷が現れる。
-Through an arch of gloomy trees, an old mansion appears.
+The dark trees part to reveal an old mansion.
 }
 [sha:4b9670c00413eecce2252c275f3349211185d3a0]{
 -- Page 938, Offset 26991.
 -- ああ、と。
-'Ah.'
+%{i}Haah%{/i}.
 }
 [sha:6d4d2f2445425b5fc0444e1c6fb51d7c0f54feaa]{
 -- Page 938, Offset 26992.
 -- 感嘆とも、<諦観|ていかん>とも取れるため息が漏れた。
-A sigh leaks out of me that could be taken as a sign of admiration or resignation.
+// Wowie, a D1 callback
+I let out a sigh that could be taken either as admiration or resignation.
 }
 [sha:10e8eae518259265e5ee4d3b94723af4026143df]{
 -- Page 939, Offset 26993.
 -- この屋敷は七年前から何も変わってはいない。
-This mansion hasn't changed at all in the past seven years.
+This mansion hasn't changed at all over the past seven years.
 }
 [sha:64749f8a537ba3d46d9a16ded187d9c49134fc4b]{
 -- Page 939, Offset 26994.
 -- 堅固な城には必ず牢が作られている。
-There must definitely be a prison built inside that sturdy castle.
+A sturdy castle always houses a prison.
 }
 [sha:48576c5340b1e5d403dff4695bdc79eb70b093f4]{
 -- Page 939, Offset 26995.
 -- 恐ろしいもの。邪なもの。常識とは違うもの。
-Something dreadful. Something wicked. Something far removed from common sense.
+Something dreadful. Something wicked. Something that defies common sense.
 }
 [sha:9d544349c02512443f2110e30adfd21d61bbfb04]{
 -- Page 939, Offset 26996.
 -- すべて、隔離されてしかるべきもの。
-Something that must be isolated from everything else.
+Something that must be hidden away, no matter what.
 }
 [sha:83c8e4863eb63d03b8a7e2a46d56cf75da20d848]{
 -- Page 940, Offset 26997. Mods: @n.
@@ -841,7 +887,8 @@ Something that must be isolated from everything else.
 [sha:95f49a8506143b51e267646aa803266a318a0323]{
 -- Page 940, Offset 26998. Glued.
 -- 志貴様。
-Shiki-sama.
+// Leading space for glue
+ Shiki-sama.
 }
 [sha:8f228559f17c9c720ba1efbaa15ec7ec3f8c0147]{
 -- Page 940, Offset 26999.
@@ -851,42 +898,46 @@ I have heard the news. I will take you to your bed soon, so please be patient un
 [sha:d38089d38285eda8dde8d3f1d0d466196192e2bb]{
 -- Page 941, Offset 27000.
 -- 使用人がロビーで出迎えてくれる。
-The servant greets me at the lobby.
+A servant greets me in the lobby.
 }
 [sha:29079613cbd564019882ca78664dc35890dcad0f]{
 -- Page 941, Offset 27001.
 -- なんとか玄関から中に入れたものの、膝はふんばりがきかず、絨毯に倒れそうになる。
-Although I somehow managed to get in through the front door, my knees give out and I feel like I'm about to collapse on the carpet.
+I'd managed to make it through the front door, but my knees can't hold out any longer.
+ I start to collapse toward the carpet.
 }
 [sha:3a5edd8500f33665b31f25968f36353704a04bc9]{
 -- Page 942, Offset 27002.
 -- 「危ない……！
-"Watch out...!
+"Careful...!
 }
 [sha:be43d6d04fbd0cb71579e87e906b68f102011574]{
 -- Page 942, Offset 27003.
 -- 失礼しました。どうぞこちらに。まだ熱があるのですね。遠慮なさらず、わたしの肩をお使いください」
-Pardon me. Please come this way. You must still have a fever. Please don't hesitate to lean on to my shoulder."
+Pardon me. Please come this way. You must still have a fever. Please don't hesitate to lean on my shoulder."
 }
 [sha:a1f393d54a6dde836f48372f8f7193b3ecf4e66f]{
 -- Page 943, Offset 27004.
 -- 使用人は倒れかけた遠野志貴の体を支えてくれたばかりか、肩まで差し出してくれた。
-Not only did the servant hold up the body of Tohno Shiki as he was about to fall, but she also offered her shoulder.
+// :holothink:
+The servant props up Tohno Shiki's body before it can hit the floor.
+ Not only that, but she offers him her shoulder.
 }
 [sha:9419c832170c1cbcfcd34fe783fc6d7bfb98cf88]{
 -- Page 944, Offset 27005. Mods: @c.
 -- 「……いや、大丈夫。まだ歩くぐらいはできる。
-"...No, it's okay. I can still walk at least.
+// Not voiced. Also slightly faded text. New modcode here - @c
+'...No, it's okay. I can still walk at least.
 }
 [sha:6043d62a515b7402926c3f36f941b28c3265dc11]{
 -- Page 944, Offset 27006. Mods: @c.
 -- それより、ありがとう。確か、触られるの苦手だっただろ、君」
-But thanks anyway. I'm sure that you didn't like being touched, right?"
+More importantly, thank you. You don't like being touched, right?'
 }
 [sha:f0f08e5784fac5f8a1cc93e231be2d0cfc7c34d7]{
 -- Page 944, Offset 27007.
 -- 精一杯の強がりを口にする。
-I try to speak with as much strength as I can muster.
+I do my best to put on a bold front.
 }
 [sha:1dae23bad65b9fd2d780c93e6248a922b7699048]{
 -- Page 945, Offset 27008.
@@ -896,7 +947,7 @@ I try to speak with as much strength as I can muster.
 [sha:03bbe6e172d9b240dbddf698b4d6a52c98dfeb16]{
 -- Page 945, Offset 27009.
 -- ですが、今は志貴様の手当を優先させていただきます。
-However, treating you is the highest priority as of now.
+However, treating you is my highest priority right now.
 }
 [sha:70523cf08c15d6dbd8829597ae754362c862b55a]{
 -- Page 945, Offset 27010.
@@ -906,12 +957,13 @@ I won't inform Akiha-sama or my sister, so please entrust your body to me.
 [sha:0a651985c4c70e39e601ff063b3f4d2017d088b5]{
 -- Page 945, Offset 27011.
 -- 志貴様が病気がちなのは志貴様のせいではありません。志貴様は甘えていいのです。
-The fact that you are prone to being ill is not your fault. It is okay for you to act spoiled.
+It's not your fault that you are prone to illness.
+ It's alright for you to need a helping hand.
 }
 [sha:81be20a08612b3b8cdcc45b9d45ccd8bcb6eb02d]{
 -- Page 945, Offset 27012.
 -- 人間、誰だって頼りたいし、頼られたいものなのですから」
-Human beings... us people want to rely on others and be relied on after all."
+After all, we humans are creatures that want to rely on others and to be relied upon in turn."
 }
 [sha:b436e49a8ec8aed9ca3fc44fd368e05294ba624d]{
 -- Page 946, Offset 27013.
@@ -921,16 +973,17 @@ After saying that, the servant grasps my cold hands.
 [sha:9e03a1c8c155ca6e3ea496c1efb09887b5a36cac]{
 -- Page 947, Offset 27014. Mods: @c.
 -- 「……そっか。じゃあ、遠慮なく」
-"...I see. In that case, I leave it to you."
+'...I see. In that case, I leave it to you.'
 }
 [sha:f5056b6ecc4c0558a46cbf691eab0ce88ee616a3]{
 -- Page 947, Offset 27015.
 -- 素直に、その甘い声に従った。
-I obediently follow her sweet sounding voice.
+I obediently surrender to her sweet-sounding voice.
 }
 [sha:582ee93c5214978d66d9e6ca43d96ea0c8e6d7fb]{
 -- Page 948, Offset 27016.
 -- ……頼られたい。頼りたい。
+// isn't this the ending to a dead kennedy's song
 ...I want to be relied on. I want to rely on others.
 }
 [sha:fd075bca30d335ce01089ec996c889e8c719b615]{
@@ -941,7 +994,7 @@ I obediently follow her sweet sounding voice.
 [sha:c60366cb1d5c65ab52526d821f8b19b3711ef060]{
 -- Page 948, Offset 27018.
 -- ……生かされたい。生かしたい。
-...I want to be saved. I want to save others.
+...I want to live. I want to let live.
 }
 [sha:4af20e995a178eddfacade766db9f514c41bbc01]{
 -- Page 949, Offset 27019.
@@ -956,32 +1009,33 @@ Although they are the opposites of each other, that doesn't mean they are mutual
 [sha:9f1187c5b4e6c01649b44e1ed42dc68941a5ada3]{
 -- Page 949, Offset 27021.
 -- 確かにそれは、誰もが同時に抱く願望だ。
-Indeed, those are desires that we all hold dear at the same time.
+We all harbor each of these opposing desires within us, after all.
 }
 [sha:cb8555016faff9efe32d8c375902520045b497c4]{
 -- Page 950, Offset 27022.
 -- 「階段を上りますので、ご注意の程を」
-"We are going up the stairs, so please watch your step."
+"We're going up the stairs, so please watch your step."
 }
 [sha:ab302e71e8dc5d23ee03ef8a6e0995d851c282de]{
 -- Page 950, Offset 27023.
 -- 手を引いて使用人は歩き始める。
-The servant leading me begins to walk up.
+The servant leading me by the hand begins to climb the stairs.
 }
 [sha:735f5a363b3a5c039858f98562bea325dc02c11e]{
 -- Page 950, Offset 27024.
 -- ……歩くだけで明暗／断絶する。
-...My vision flickers/disrupts from simply walking.
+...Simply walking is enough to make my vision flicker in and out.
 }
 [sha:99924f53fb00db754b7ab30d95206366e5958585]{
 -- Page 950, Offset 27025.
 -- 朦朧とした意識のまま、使用人に任せて足を進ませる。
-In my dazed state of consciousness, I leave everything to the servant and continue forward.
+In my dazed state, all I can do is put one foot in front of the other,
+ relying on the servant for the rest.
 }
 [sha:1ef8f8d9b57dcc46fef087bfcfe2cfb968676368]{
 -- Page 951, Offset 27026. Mods: @c.
 -- 「あ――――れ？」
-"――――Huh?"
+'――――Huh?'
 }
 [sha:e953b4681d28600517cb3e1a160601fb61475cb4]{
 -- Page 951, Offset 27027.
@@ -991,7 +1045,8 @@ This is the wrong place. We went the wrong direction.
 [sha:bfedfa9169ea721c18dc26f6a0c64e276c80ec7b]{
 -- Page 951, Offset 27028.
 -- この先は東館だ。遠野志貴が立ち入ってはいけない領域だ。
-The east wing is up ahead. It is an area that Tohno Shiki must not enter.
+This corridor leads to the east wing.
+ It is an area that Tohno Shiki must not enter.
 }
 [sha:a9d43b5d4b9a5372e421909c3fe11569bdc16af9]{
 -- Page 951, Offset 27029.
@@ -1006,12 +1061,12 @@ beyond this point―――
 [sha:12c1066946f77b1de37437aa1fa47abce7609ec4]{
 -- Page 952, Offset 27031. Mods: @c.
 -- 「こっちは違うよ」
-"We're at the wrong place."
+'Hey, we went the wrong way.'
 }
 [sha:2c23f700294100461f1ae232c0f59fd9ba2a5b5f]{
 -- Page 952, Offset 27032.
 -- 遠野志貴は声をかける。
-Tohno Shiki tries to call out.
+Tohno Shiki calls out.
 }
 [sha:9188bea32623d3c7c7057e9be0e3edfd93049025]{
 -- Page 952, Offset 27033.
@@ -1021,17 +1076,19 @@ There's no response from the servant.
 [sha:4b7c04ff90a4e0909e41e4a46aebb8d7d726a0eb]{
 -- Page 952, Offset 27034.
 -- いや、そればかりか―――甘かった手の感触も、もう見慣れた筈の給仕服さえ、ない。
-No, it's not just that―――The sweet touch of her hands and even the maid outfit that I'm all so familiar with... are gone.
+No, that's not all―――
+I no longer feel the sweet touch of her hands,
+ nor is there any sign of the maid outfit I'm so used to seeing.
 }
 [sha:4b1d1ed7f94f468055214b160d309f9d95b31b38]{
 -- Page 953, Offset 27035. Mods: @c.
 -- 「……あれ……」
-"...Huh..."
+'...Huh...'
 }
 [sha:456d1a0c3f116cfd4ec2c50d96aded708ceb79b0]{
 -- Page 953, Offset 27036.
 -- 定まらない意識を総動員してあたりを見渡す。
-I focus all of my attention on my unsteady consciousness and look around my surroundings.
+I gather what I can of my unsteady consciousness and examine my surroundings.
 }
 [sha:3751172fcf8f22b71ae2376b5e899d3f2183c7d5]{
 -- Page 953, Offset 27037.
@@ -1051,22 +1108,22 @@ I can't feel anything at all.
 [sha:81133cddb81c5a285a181c157c8f56586359aa69]{
 -- Page 953, Offset 27040.
 -- 気がつけば、そこは、
-When I come to notice, over there...
+I suddenly realize...
 }
 [sha:b4eba314d1c900c1d64b8af987386c3662c4aa9b]{
 -- Page 954, Offset 27041.
 -- 入り口も出口もない、
-It is the inside of an enormous drawer,
+This space is an enormous drawer.
 }
 [sha:208f8e75e8dc7fe5eb928eabed547b509df7de48]{
 -- Page 954, Offset 27042.
 -- もう使わなくなったガラクタを仕舞う、
-stored with junk that is no longer being used,
+A place to put away junk that no longer serves a purpose.
 }
 [sha:08361a984937cd9c55d231c69085b8eefd01e106]{
 -- Page 954, Offset 27043.
 -- 巨大な引き出しの中だった。
-with no way in or out.
+A place with no way in, or out.
 }
 [sha:1fc2e10ff7dad0af834840a4cddc5cd828e4593c]{
 -- Page 955, Offset 27044.
@@ -1076,27 +1133,28 @@ with no way in or out.
 [sha:9fbeffd58446c83ae407c5a2fc38accab174729e]{
 -- Page 955, Offset 27045.
 -- 倒壊するように倒れ込む。
-I collapse like I'm being demolished.
+I crumble to the ground.
 }
 [sha:d22617e27df76f838b71b1196c37fe8e1dbdaf25]{
 -- Page 955, Offset 27046.
 -- 遠野志貴を生かしている何かの不興を買ったらしい。
-It seems that something about letting Tohno Shiki live brought a bad taste to someone's mouth.
+It seems that someone can no longer stand to let Tohno Shiki live.
 }
 [sha:a8d3f2e9c4a0b20c6dad734431e210da436d1a71]{
 -- Page 955, Offset 27047.
 -- 地面は柔らかなクッションのようにも、
-I think the ground is either like a soft cushion,
+I wonder if the ground is like a soft cushion,
 }
 [sha:5bd6fd193af441888005bd5c84ffd8b298706597]{
 -- Page 955, Offset 27048.
 -- 草で編んだ固い畳のようにも思えた。
-or a hard tatami mat made of woven grass.
+or like a hard tatami mat made of woven grass.
 }
 [sha:ee31ebc43d37346406561140c56664b9fbd9ce11]{
 -- Page 955, Offset 27049.
 -- もう肌の感触はない為、真相はおそらく、次に目覚めるまで分からない。
-I can't feel my skin anymore, so the truth will probably have to wait until the next time I wake up.
+I've lost all sense of touch,
+ so the truth will probably have to wait until the next time I wake up.
 }
 [sha:3a3904cec1fa1f62b59c29606c9aadb146f14883]{
 -- Page 956, Offset 27050.

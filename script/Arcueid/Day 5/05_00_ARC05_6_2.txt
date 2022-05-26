@@ -21,7 +21,6 @@ Vlov Arkhangel.
 [sha:5ee5b918c94a24357a970b8f0ddad00f5fd8aaa0]{
 -- Page 461, Offset 9827.
 -- あの爆撃のただ中にいて、傷一つ負っていない。
-// あの爆撃のただ中にいて、傷一つ負っていない。
 He was right at the center of that explosion, but there's not a scratch on him.
 }
 [sha:7b9fe8374c2cee3205cc1e055f90697c1fe2b46c]{
@@ -137,7 +136,7 @@ That face... Is she enjoying cornering him...?
 [sha:953192f9ab766838094b65a1268223701a8a5ce5]{
 -- Page 470, Offset 9850.
 -- 二十七祖も質が落ちたものね。このまま、奥の手も見せないでわたしに殺される？」
-The quality of the Twenty-Seven Ancestors has truly fallen. Are you really going to let me kill you like this without revealing your trump card?"
+The quality of the %{i}Twenty-Seven Ancestors%{/i} has truly fallen. Are you really going to let me kill you like this without revealing your trump card?"
 }
 [sha:a0c370c29ec7baafcfb03b5aebf11d08d1981783]{
 -- Page 471, Offset 9851.
@@ -183,7 +182,6 @@ It's easy to assume that he spent most of his energy on reviving himself, just a
 [sha:2a44b14ee43e40cc5729305113caad9dce31a398]{
 -- Page 474, Offset 9859.
 -- 事実、アルクェイドもそう見ている。
-// 事実、アルクェイドもそう見ている
 In fact, Arcueid seems to have come to the same conclusion.
 }
 [sha:63bb1fad6958373fd0aa166df33bf86c060182bb]{
@@ -229,7 +227,6 @@ And yet as a bystander, I feel a growing sense of dread in my heart.
 [sha:2ffb31f6cf5326ba76b52d116235fd0820de66a2]{
 -- Page 476, Offset 9868.
 -- それは、ヴローヴが先ほどからアルクェイドの爪を受けなくなりつつある状況であり、
-// それは、ヴローヴが先ほどからアルクェイドの爪を受けなくなりつつある状況であり、
 The dread stems from the fact that Vlov is taking far fewer hits from Arcueid's claws than he was a little while ago.
 }
 [sha:03ef62f5645fb7e33a2fb8bfdaf6f794c7c15217]{
@@ -251,7 +248,7 @@ He still hasn't used that 'flaming hand' of his...!
 [sha:41d10b8fe08577de9cab9a39da7ae04a5d348f8a]{
 -- Page 479, Offset 9872.
 -- 「“ク――――――アァァァァァアアア！！！！！”」
-"GU――――――AAAAAAAAAAH!!!!!"
+"%{i}GU――――――AAAAAAAAAAH%{/i}!!!!!"
 }
 [sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
 -- Page 479, Offset 9873.
@@ -312,7 +309,7 @@ In an instant.
 [sha:65035ebe840160e138bd14efa11e6451f479837a]{
 -- Page 483, Offset 9884.
 -- 戦いは一瞬でひっくり返った。
-// Second 一瞬 elided, felt redundant 戦いは一瞬でひっくり返った
+// Second 一瞬 elided, felt redundant
 The tide of battle is completely reversed.
 }
 [sha:7683942ce8fed0d99021cfbddb340d72e05dca33]{
@@ -370,7 +367,7 @@ I recall her saying something earlier.
 -- Page 488, Offset 9895.
 -- ヴローヴの炎をものともしない白と黒の<戦闘衣装|ドレスコード>。
 // Ruby is ドレスコード, doesn't feel like it makes sense to include?
-Vlov's flames seem to mean nothing against the black and white battle costume.
+Vlov's flames seem to mean nothing against the black and white combat dress.
 }
 [sha:d5fb3c5bed963689df7634ee1428a21ba6ebaf15]{
 -- Page 488, Offset 9896.
@@ -395,7 +392,6 @@ As soon as she had identified her opponent as a monster of flames and escaped fr
 [sha:306abe64f153c71a00d2ba68be5d82c3813590c1]{
 -- Page 490, Offset 9900.
 -- 炎の手が繰り出される。
-// 炎の手が繰り出される
 A 'hand' of flame is unleashed.
 }
 [sha:d368cff68f8de251345d2e8f751090bf9eabc065]{
@@ -416,19 +412,16 @@ The wall of flames bows its head, submitting to the white dress.
 [sha:9ad9296f042f2310718679f58bbabfa799d8e30e]{
 -- Page 491, Offset 9904.
 -- 金の髪が流星のように駆けていく。
-// Too much? 金の髪が流星のように駆けていく。
 Her golden hair whips about like a shower of shooting stars.
 }
 [sha:c951187d503306927f92c0be953e365246c97ab4]{
 -- Page 492, Offset 9905.
 -- 飛翔し、振り下ろされた爪の威力は今までの比ではない。
-// 飛翔し、振り下ろされた爪の威力は今までの比ではない。
 Her claws fly through the air and rain down on Vlov with power unlike anything I have ever seen before.
 }
 [sha:1f336518f37cbb2fa4d9b13c529e23f8f6d3d530]{
 -- Page 492, Offset 9906.
 -- たまらず後退するヴローヴに、第二第三の爪が繰り出される。
-// たまらず後退するヴローヴに、第二第三の爪が繰り出される。
 As he helplessly retreats, her claws strike a second time, then a third.
 }
 [sha:9b5e92329c0a8f854e2e32a6763d740a325b37d6]{
@@ -449,8 +442,7 @@ As soon as his flames were nullified, Vlov became mere prey to be hunted.
 [sha:b04965fb7bac6c4327806b4f7e4436adfacdd563]{
 -- Page 493, Offset 9910.
 -- アルクェイドの爪は的確に、間断なく、ヴローヴの肉体に致命傷を重ね続ける。
-// アルクェイドの爪は的確に、間断なく、ヴローヴの肉体に致命傷を重ね続ける。
-Arcueid's claws are unrelenting, and continue to accurately inflict mortal wounds on Vlov's body.
+Arcueid's claws are unrelenting, and continue to accurately inflict mortal wounds on his body.
 }
 [sha:3376150a5306bc60621de64e7f6c090662de99b8]{
 -- Page 494, Offset 9911.
@@ -530,7 +522,7 @@ He jumps from the floor of the pit toward the surface.
 [sha:e81322f062cdf6c85bc01416f656eaa8c75e3b96]{
 -- Page 498, Offset 9926.
 -- 40メートルの高さも吸血鬼を止めるには至らない。
-Even a height of 40 meters is not enough to stop a vampire.
+Even a height of forty meters is not enough to stop a vampire.
 }
 [sha:ca0f286b534989edfad9fa2c1aa3d4d1c76a30e8]{
 -- Page 498, Offset 9927.
@@ -550,7 +542,7 @@ The ivy that sprouted from beneath the rubble grows at a terrifying speed, grabs
 [sha:6eb9a2ebfeb45ea1e25ada6ab401772b0d694e46]{
 -- Page 500, Offset 9930.
 -- 「“ァ―――ア、ア―――！”」
-"A―――AA, AAAA―――!"
+"%{i}A―――AA, AAAA%{/i}―――!"
 }
 [sha:925d8dedd7d2183bcc0567340a938b9015337b1f]{
 -- Page 500, Offset 9931.
@@ -570,13 +562,11 @@ However, his shackles do not vanish.
 [sha:7022f3bd5f4027548ad00e0f15e3b097415282d4]{
 -- Page 500, Offset 9934.
 -- その灰を<苗床|なえどこ>にして、新たな蔦が絡みつく。
-// その灰を苗床にして、新たな蔦が絡みつく。
 New ivy, fertilized by the ashes, entwines itself around him.
 }
 [sha:9fac171341a106d56a4bfedcec669c951587d17c]{
 -- Page 501, Offset 9935.
 -- 何度焼き尽くしても束縛は<解|ほど>けない。不死鳥のようにループする。
-// 何度焼き尽くしても束縛は<解|ほど>けない。不死鳥のようにループする。
 No matter how many times he burns them away, he cannot break free. Like a phoenix, they return again and again.
 }
 [sha:a96e67ae1f42b95fcd9ccfee5ffc563378eec2e3]{
@@ -587,13 +577,11 @@ That's right. If vampires are considered immortal, then the workings of nature a
 [sha:023c1a948c2baa9437514d4214110bd69563c830]{
 -- Page 502, Offset 9937.
 -- あの蔦はその結晶。この星を燃やし尽くす“火”でなくては逃れる事はかなわない。
-// あの蔦はその結晶。この星を燃やし尽くす"火"でなくては逃れる事はかなわない。
 The ivy is a manifestation of that. To break free, you'd need a 'fire' able to burn the entire planet to the core.
 }
 [sha:c82db579250e1f87e94474d2c8ffdab67322c910]{
 -- Page 502, Offset 9938.
 -- ヴローヴでは―――いや、あの吸血鬼程度の“呪い”では、彼女の息吹を消す事などとてもとても……！
-// ヴローヴでは―――いや、あの吸血鬼程度の"呪い"では、彼女の息吹を消す事などとてもとても......！
 But for Vlov――― No, for a 'curse' of a vampire like him, Arcueid's breath alone is more than enough to extinguish it......!
 }
 [sha:825338fafd98465ba4da635f8641a25ce9fee1be]{
@@ -624,7 +612,7 @@ I'm in agreement.
 [sha:67297352543a7514203aeba54fb620757510012a]{
 -- Page 504, Offset 9944.
 -- 遠野志貴の協力なんて待つ必要はない。このままアルクェイドはヴローヴを粉砕する。
-There is no need to wait for my assistance. At this rate, Arcueid will crush Vlov into pieces.
+There is no need to wait for my assistance. At this rate, Arcueid will crush him into pieces.
 }
 [sha:f8131a3a6c0cd2dfdae693f9669e75b3e7f46c87]{
 -- Page 505, Offset 9945.
@@ -644,37 +632,31 @@ Something is wrong.
 [sha:f1195e6e6eab46a3fdafa425f6d1d568748d0942]{
 -- Page 505, Offset 9948.
 -- ヤツのあの苦悶が、息づかいが、俺に“そうではない”と訴えてくる。
-// ヤツのあの苦悶が、息づかいが、俺に"そうではない"と訴えてくる。
 His agony, his breathing, they entreat me to notice what's amiss.
 }
 [sha:56d59b40b3bb2988ced014fb3df4c3855b3fbcd6]{
 -- Page 506, Offset 9949.
 -- ヴローヴの顔色、苦しみようは今や病的だ。
-// ヴローヴの顔色、苦しみようは今や病的だ
 Vlov's complexion and anguish have become even more ghoulish.
 }
 [sha:bed7615983ff742bfcfd11af7453835691ac9204]{
 -- Page 506, Offset 9950.
 -- あの灼熱の中で<ひ|・><と|・><り|・><だ|・><け|・><世|・><界|・><が|・><違|・><う|・>。
-// あの灼熱の中で一人だけ世界が違う
-Within that scorching heat, he exists in his own separate world.
+Within that scorching heat, he exists in his own %{i}separate world%{/i}.
 }
 [sha:2f1068e1d921440a32a0437a9553825dd0f01de1]{
 -- Page 506, Offset 9951.
 -- まるで正反対の世界にいるような白い呼吸。
-// まるで正反対の世界にいるような白い呼吸
 His breath is white, as if the world he exists in is the polar opposite of ours.
 }
 [sha:9fc0d26e4fcdad8dd4dfb48b7fc7403e289d5499]{
 -- Page 507, Offset 9952.
 -- ……あの手の眼は知っている。
-// あの手の眼は知っている
 ...I know those eyes.
 }
 [sha:d0b6d90ac465096c952a11b382592eda989c2d07]{
 -- Page 507, Offset 9953.
 -- 強迫観念と防衛本能。
-// 強迫観念と防衛本能
 The instinct for both fight and flight.
 }
 [sha:f8fbed3101570b808dd7d82864f635e23af20e47]{
@@ -725,10 +707,10 @@ Knowing that, I―――
 [sha:5e545ca3ea71a733c2653773f813a5339645829c]{
 -- Page 510, Offset 42619. Choice.
 -- 戦いの様子を見るしかない。
- have no choice but to watch the battle from here.
+ Have no choice but to watch the battle from here.
 }
 [sha:290ded2837b4a96e98b4a4456fc1749e3db3e9b6]{
 -- Page 510, Offset 42620. Choice.
 -- アルクェイドを呼び止める。
- call out to Arcueid to stop.
+ Call out to Arcueid to stop.
 }

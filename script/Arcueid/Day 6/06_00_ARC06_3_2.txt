@@ -7,7 +7,7 @@ I'll take a tour around the mansion.
 -- Page 10014, Offset 14589.
 -- 七年前からそう変化はないと思うが、成長した今の視点ならではの発見があるかもしれない。
 I doubt it's changed much over the past seven years,
- but since I'll be looking at it from a new, more mature, perspective,
+ but since I'll be looking at it from a new, more mature perspective,
  maybe I'll discover some things I didn't appreciate before.
 }
 [sha:c09f3877d5a9f201580d69b929cbe917e305a990]{
@@ -60,7 +60,7 @@ I can't get into the other rooms in the mansion because they're locked,
 [sha:c4e426483be255ad7ae93986821f198ccc945e65]{
 -- Page 282, Offset 14599.
 -- なのに、こう、踏み入ろうとすると眩暈がするというか、廊下が揺らいで見えるというか、
-Instead, the second I set foot down that hall it's as if I'm overcome by a sense of dizziness,
+Instead, the second I set foot down that hall, it's as if I'm overcome by a sense of dizziness,
  or as if the hallway itself has started to shake.
 }
 [sha:d731d9715549076ea5c3540af392d23d6d117809]{
@@ -235,18 +235,18 @@ I would have thought he'd be the type of person to look down on people for being
 [sha:50443da8531dd7479d3ded3098ee3f26975626f4]{
 -- Page 294, Offset 14629.
 -- 「私が？　あの使用人と？　……は。
-"Me? With that maid? ...Hah.
+"Me? With that maid? ...%{i}Hah%{/i}.
 }
 [sha:60bd56dece3787d5701abf52163fcde88cb10514]{
 -- Page 294, Offset 14630. Mods: @n.
 -- はは。ははは。
-Haha. Hahaha.
+%{i}Haha. Hahaha%{/i}.
 }
 [sha:0246d81a55e4112a5a5a967010f540aab301bf38]{
 -- Page 294, Offset 14631. Glued. Mods: @x.
 -- ははははは！」
 // Leading space for glue
- HAHAHAHAHA!"
+ %{i}HAHAHAHAHA%{/i}!"
 }
 [sha:d356f97b0fd714ad53ab0e7a86dfadb440529137]{
 -- Page 295, Offset 14632.

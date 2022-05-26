@@ -1,7 +1,7 @@
 [sha:2ce4023198d762d748648342d653f8bf32994ce0]{
 -- Page 1, Offset 28971.
 -- 夏の、暑い日。
-A hot summer's day.
+A hot summer day.
 }
 [sha:54a68f2f4f392134a075af0306c6c302423563f3]{
 -- Page 1, Offset 28972.
@@ -26,16 +26,19 @@ The sound of cicadas.
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 2, Offset 28976. Mods: @k, @e.
 -- みーん　みんみん
+// lint-off:LintDupedWord
 %{i}chiiiirp    chirp chirp%{/i}
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 2, Offset 28977. Mods: @k, @e.
 -- みーん　みんみん
+// lint-off:LintDupedWord
 %{i}chiiiirp    chirp chirp%{/i}
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 2, Offset 28978. Mods: @k, @e.
 -- みーん　みんみん
+// lint-off:LintDupedWord
 %{i}chiiiirp    chirp chirp%{/i}
 }
 [sha:b3f9b00107c601ef6ca2942d5e779bde5483ac0c]{
@@ -96,8 +99,8 @@ Akiha is crying.
 [sha:9b13c7cf5b90dbcd5fdd4990fe9f41bdac9d2939]{
 -- Page 4, Offset 28990.
 -- 白いシャツが真っ赤に染まって、ぴくりとも動かない。
-A deep red stain has blossomed on its white shirt.
- It doesn't move so much as an eyebrow.
+A deep red stain has blossomed on their white shirt.
+ They don't move so much as an eyebrow.
 }
 [sha:f9747db87335eda9fea82f751cd52f6854719632]{
 -- Page 5, Offset 28991.
@@ -287,7 +290,7 @@ The cool breeze hits my cheeks.
 [sha:1e301ecc44cd76e321f094dbc81fccbac724a745]{
 -- Page 13, Offset 29028.
 -- 目蓋には淡い陽の光。
-The faint light of the sun rests on my eyelids.
+The faint light of the sun dances across my eyelids.
 }
 [sha:1d37832ed57fd3dd1dc1f08f3fcf3eee56852c52]{
 -- Page 13, Offset 29029.

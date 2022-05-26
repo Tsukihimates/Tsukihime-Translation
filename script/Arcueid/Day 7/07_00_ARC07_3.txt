@@ -80,7 +80,7 @@ She doesn't even respond with her usual 'welcome back'.
 [sha:ea7beca2128d1c623848869c3c2118a6ad56ec4a]{
 -- Page 173, Offset 17001.
 -- 「えっと……何かあった？
-"Umm... did something happen?
+"Ummm... did something happen?
 }
 [sha:50529ef4e29691fcbefba9712610094c8dcc51b7]{
 -- Page 173, Offset 17002.
@@ -344,7 +344,7 @@ That's how she introduced herself."
 [sha:3fafd618cc53f6050456ccbc2b12def28e67f9c1]{
 -- Page 194, Offset 17048.
 -- 「ああ、うん、友人といえば、友人」
-"Ahh, yeah, that's right, a friend."
+"%{i}Ahh%{/i}, yeah, that's right, a friend."
 }
 [sha:8d0884e8a3abc8cd68c366aac183742f056e2c1b]{
 -- Page 195, Offset 17049.
@@ -370,7 +370,7 @@ My words devolve into a mumble.
 [sha:1a7b5d212c00255b0e767f76975c8d2ab1dd5357]{
 -- Page 196, Offset 17053.
 -- 「ふーん。友人、ねー。ふーん」
-"Heehh. A friend, you say? Hmph."
+"%{i}Heehh%{/i}. A friend, you say? %{i}Hmph%{/i}."
 }
 [sha:4e7cd245024a3cc46aa95d8ceef25b9c257db5b5]{
 -- Page 196, Offset 17054.
@@ -445,7 +445,7 @@ If I let this woman keep talking, it'll be the end of me.
 [sha:4f81c4e21970d3819f04c878e96abfb924a4438a]{
 -- Page 202, Offset 17066.
 -- 「いやあ、あははははは！」
-"Well, ahahahahaha!"
+"Well, %{i}ahahahahaha%{/i}!"
 }
 [sha:01094660fa5f3d4750018180c8e71ea7ab154e19]{
 -- Page 202, Offset 17067. Mods: @n.
@@ -494,7 +494,7 @@ I wonder what's going through her mind as she watches me rush by with Arcueid in
 [sha:6c41f73d98fbfe5a99d07f8f526844f0a089a87b]{
 -- Page 205, Offset 17075.
 -- 「不本意ながら。すっごく申し訳ないんだけど、玄関の鍵は開けておいてほしい」
-"Against my better judgement.
+"Against my better judgment.
  I know I'm asking for a lot and I'm incredibly sorry, but please leave the front door unlocked for me."
 }
 [sha:f08d00fb7d1d2078a62e25a396ee5b8d5a10eda7]{

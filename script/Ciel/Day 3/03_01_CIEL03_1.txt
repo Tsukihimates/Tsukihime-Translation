@@ -11,7 +11,7 @@ I wasn't used to the route, so I must have paced myself wrong.
 [sha:6d00dc71bcca4185f381b831e68bdb3c4e384a44]{
 -- Page 1, Offset 4854.
 -- 朝の雑談時間も終わりにさしかかり、生徒の大部分は自分の机に座っている。
-The morning chatter is starting to dwindle, and most of the students have gone back to their desks.
+The morning chatter is starting to dwindle, and most of the students are returning to their desks.
 }
 [sha:9b7bb92d847a03d9182528e302cf627f5d7994df]{
 -- Page 2, Offset 4855.
@@ -21,7 +21,7 @@ In that situation,
 [sha:76840eea3936d066cb72bb9327f299407ac6ea7b]{
 -- Page 2, Offset 4856.
 -- 「……はあ。ずいぶんと余裕のあるご到着ですねぇ」
-"...Hah, you sure arrived with a lot of time to spare, huh?"
+"...%{i}Sigh%{/i}, you sure arrived with a lot of time to spare, huh?"
 }
 [sha:cbdf5ca7aa68e1b6ae0d5a1d6e0431a9d5b22340]{
 -- Page 2, Offset 4857.
@@ -31,12 +31,12 @@ Arihiko is standing there with a dejected look on his face, about to take his se
 [sha:28666e31c59b8e7728ec06b3ae441d83b6063663]{
 -- Page 3, Offset 4858. Mods: @k, @e.
 -- 「おはようさん。今朝は特にやる気がない……
-"Good morning. Not too energetic this morning I see...
+"Good morning. Not too motivated this morning I see...
 }
 [sha:edeea4e75d58549298d8d0a73c6cb8d880a0864c]{
 -- Page 3, Offset 4859. Glued. Mods: @x.
 -- ワケじゃないのか。教室にいるんだから。なんだよ、体調崩したのか？」
- No that can't be it. You made it to the classroom after all. What is it? You feeling unwell?"
+ No, that can't be it. You made it to the classroom after all. What is it? You feeling unwell?"
 }
 [sha:b10396c704f8fd0e073165dcc482cf5d22c314c2]{
 -- Page 4, Offset 4860.
@@ -51,7 +51,7 @@ Arihiko is standing there with a dejected look on his face, about to take his se
 [sha:4cd9cb8e4e48a0622a534ce9a0957b6a1f443a1c]{
 -- Page 5, Offset 4862.
 -- 「そうだよ。けどぉ、誰かさんがいねえもんだから、いまいちノリが悪くて三年の教室に戻っちまったワケ。なんだって今朝にかぎって遅刻ギリギリなのよ、遠野？」
-"That's right. Buuut, given a certain someone wasn't here, she didn't quite seem to be in the mood anymore and went back to her classroom. Why's it that this, of all mornings, is when you decide to show up at the very last minute?"
+"That's right. Buuut, given a certain someone wasn't here, she didn't quite seem to be in the mood anymore and went back to her classroom. Why's it that this, of %{i}all mornings%{/i}, is when you decide to show up at the very last minute?"
 }
 [sha:0a7da5dd3825556eef2f0cf218c6a7dca3c530bc]{
 -- Page 6, Offset 4863.
@@ -66,17 +66,17 @@ So that's what happened... if I knew that Senpai was waiting, I'd have come here
 [sha:80eb7097d5361f9ee0c15a212e5cdf0fdb3a3a8e]{
 -- Page 7, Offset 4865. Mods: @n.
 -- 「あったりまえですよ。これが最後のチャンスだったら、
-"Of course not. If this was our last chance,
+"Yeah, well of course not. If this was our last chance,
 }
 [sha:032bf776c8f0827114d62d2bf27b71bf67922b41]{
 -- Page 7, Offset 4866.
 -- ショックで授業なんて受けてらんねぇって」
-I'd be too shocked to even be in class."
+I'd be much too traumatized to be in class."
 }
 [sha:e8638daeac5b0f06df6adf28a6334a8ac2627f91]{
 -- Page 8, Offset 4867.
 -- そうか、と手を振って自分の机に向かう。
-'Is that so?', I reply, waving my hand as I head for my desk.
+Heading for my desk, I wave an indifferent 'oh, really' in his direction.
 }
 [sha:47681427f8f32c944b3f540db405d3a75375d1d3]{
 -- Page 8, Offset 4868.
@@ -96,7 +96,7 @@ I'm glad to see everyone's in good shape... Wait,
 [sha:ddb30d6abde7e7a0169bfb600399af46fa0e0e9b]{
 -- Page 9, Offset 4871. Glued. Mods: @x, @n.
 -- あらら、欠席者が二人もいるのね。季節の変わり目だし、
- oh no, there are two absentees. Well, it is the change of season after all.
+ oh no, looks like two students are out. Well, it is the change of season after all.
 }
 [sha:a81d5a9837fbaffe6711e6183c6b6f423d8b03e9]{
 -- Page 9, Offset 4872.
@@ -126,7 +126,7 @@ when, by chance, my eyes meet hers.
 [sha:deed0238c1cc81636e3944de28540b80bb8b7ec4]{
 -- Page 11, Offset 4877.
 -- 「―――っ」
-"―――Ah"
+"―――Ah."
 }
 [sha:234e6b2a7c3ab970d1111a68ff6917d0a23b44b1]{
 -- Page 11, Offset 4878.

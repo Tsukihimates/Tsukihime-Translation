@@ -21,7 +21,7 @@ A hot summer day.
 [sha:b79caec5fb27187a6db4c5d652730be4aef95024]{
 -- Page 449, Offset 6801.
 -- 青い空と　おおきなおおきな入道雲。
-A blue sky and a large, large cumulonimbus cloud.
+A blue sky with huge, towering cumulonimbus clouds.
 }
 [sha:c12e997c9c8593402cca860e0f4c8623cb0ab971]{
 -- Page 449, Offset 6802.
@@ -46,16 +46,19 @@ Both of my hands are a glossy red, as though they have been splashed with paint.
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 450, Offset 6806. Mods: @k, @e.
 -- みーん　みんみん
+// lint-off:LintDupedWord
 %{i}chiiiirp    chirp chirp%{/i}
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 450, Offset 6807. Mods: @k, @e.
 -- みーん　みんみん
+// lint-off:LintDupedWord
 %{i}chiiiirp    chirp chirp%{/i}
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 450, Offset 6808. Mods: @k, @e.
 -- みーん　みんみん
+// lint-off:LintDupedWord
 %{i}chiiiirp    chirp chirp%{/i}
 }
 [sha:85627e8dc4f5686e42fc5deb9c8a82d9571893c9]{

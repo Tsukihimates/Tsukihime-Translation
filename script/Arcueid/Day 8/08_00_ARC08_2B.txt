@@ -52,7 +52,7 @@ I take out my phone as I walk.
 -- Page 96, Offset 19907.
 -- 信憑性があろうがなかろうが、いま知っている事を掲示板に書きこめばいい。
 Whether or not anyone will find it credible aside,
- I should just post everything I've learned so far on some messageboards.
+ I should just post everything I've learned so far on some message boards.
 }
 [sha:eab2ad3e07054ab49ae358c1efd77a8a05dcb965]{
 -- Page 97, Offset 19908.
@@ -180,7 +180,7 @@ What I really want to know about is the guy that just returned to the family, y'
 [sha:07c6e75f3373e783a700b5692085a0ee2152118a]{
 -- Page 104, Offset 19930. Glued. Mods: @x.
 -- はうあ!?」
-Haua?!"
+%{i}Haua%{/i}?!"
 }
 [sha:deb60db3f3104a82406e8bf05a3e7f54741204d0]{
 -- Page 105, Offset 19931.
@@ -191,8 +191,8 @@ The insincere man leaps up and down, clutching his privates.
 -- Page 105, Offset 19932.
 -- 「底の抜けた鍋かテメエ。どう見てもそいつがトオノシキじゃねえか」
 // Italics candidate _obviously_
-"Do you have a screw loose or something, dumbass.
- This guy's obviously Tohno Shiki."
+"Do you have a screw loose or something, dumbass?
+ This guy's %{i}obviously%{/i} Tohno Shiki."
 }
 [sha:dfddcb1dc45bc0697d7abe7b7c18b8bd9fc2a992]{
 -- Page 106, Offset 19933.
@@ -227,7 +227,7 @@ But he doesn't smell like a bourgeois at all, does he?!"
 [sha:458fec36165274bdde497731b1c7b8981dc1e84f]{
 -- Page 108, Offset 19938.
 -- 「い、いえ、違います、成金だけ、一部の成金だけですってば！　ほら、一日の半分を金勘定で浪費する高利貸し、みたいな？」
-"N-No, not at all, I just mean the nouveau riche, and only a handful of them at that!
+"N-No, not at all, I just mean the %{i}nouveau riche%{/i}, and only a handful of them at that!
  You know, like those loan sharks who squander half their days counting their own money?"
 }
 [sha:64cd6dfe734d4bf41863cd30d893deeaacb1f614]{
@@ -329,10 +329,10 @@ I―――
 [sha:61a31be7f9d5f1f47560c3314116eb0a6ed63189]{
 -- Page 116, Offset 42647. Choice.
 -- ……気は乗らないが、用件を尋ねてみる。
- ...don't like this, but I'll ask what he wants.
+ ...Don't like this, but I'll ask what he wants.
 }
 [sha:584c66ec7265a08b9b5ffcd842b2b7d62053c84d]{
 -- Page 116, Offset 42648. Choice.
 -- ……下手に相手をするのはまずい。無視する。
- ...think they're bad news. I'll ignore them.
+ ...Think they're bad news. I'll ignore them.
 }

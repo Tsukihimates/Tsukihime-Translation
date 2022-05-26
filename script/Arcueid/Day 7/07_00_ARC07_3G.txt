@@ -455,7 +455,7 @@ It's possible that the Dead from earlier was the last one out collecting food.
 -- 「当然でしょう。せっかく志貴がいてくれるのに空振りなんだもの。あーあ。格好いいとこ見せようと思ったの」
 "Of course I am.
  Even though you came all this way for me, it was a total bust.
- Sigh. I really wanted to show you my cool side too."
+ %{i}Sigh%{/i}. I really wanted to show you my cool side too."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 462, Offset 17720.
@@ -636,7 +636,7 @@ The reason for that all comes down to the circuits in your brain.
 -- Page 474, Offset 17750.
 -- モノの死。その因果を視る、という事は、実際は視ているではなく読んでいる、という意味合いに近いわ」
 The death of things.
- We say that you're 'seeing' the fate of an object, but in reality it's a bit more nuanced;
+ We say that you're 'seeing' the fate of an object, but in reality, it's a bit more nuanced;
  it's more like you're 'reading' it than 'seeing' it."
 }
 [sha:3cad7ac871256e275b1c8e8982a196bda200db39]{
@@ -657,7 +657,7 @@ Between the two, there exists an 'archive of all things'.
  Though it's called an archive, what it contains can't be called 'information' so much as 'existence'.
  'Existence' and nothing more.
  It has no will of its own, no overarching desires.
- All it does is release causes, like the Swirl of the Root."
+ All it does is release causes, like the %{i}Swirl of the Root%{/i}."
 }
 [sha:86119b21e4887c111e0977f80a5373c27a2731fe]{
 -- Page 476, Offset 17754.
@@ -677,9 +677,9 @@ Between the two, there exists an 'archive of all things'.
 [sha:39c60dab1b546189b059215b2dc281eca5fc6ef0]{
 -- Page 477, Offset 17756.
 -- 「でもね、たとえどんなに大本からかけ離れたカタチになっても、派生した存在である以上、とても細い線だけど糸はつながっているのよ」
-But you see, no matter how far removed we become from that foundation,
+"But you see, no matter how far removed we become from that foundation,
  we are still existences that were derived from it.
- As such, we remain joined to it, though the thread that connects us may be thin.
+ As such, we remain joined to it, though the thread that connects us may be thin."
 }
 [sha:542ad5b18cd1e6178e61023459b606acdeeeca3d]{
 -- Page 478, Offset 17757.
@@ -697,7 +697,7 @@ To be connected to it would be to 'know' the end of all things.
 // Have fun fitting this in the page lmao
 // yk: if it doesn't fit, pls consult dr petrikow when changes are to be made)
 // Seems contradictory that having open 'circuits' != using 'magic circuits' but w/e
-The brains of higher animals posses the faculties of reception and transmission,
+The brains of higher animals possess the faculties of reception and transmission,
  but in nearly all humans those circuits are closed off to themselves.
  However, among them are those with latent potential - open circuits.
  Despite not being members of a transcendent species, these humans can still effect supernatural phenomena
@@ -706,7 +706,7 @@ The brains of higher animals posses the faculties of reception and transmission,
 [sha:ad771f65fdabeb48801442ab44554492759ccb66]{
 -- Page 479, Offset 17760.
 -- 「これをね、魔術師たちは超能力者って区分している。
-"This is what mages classify as a Psychic.
+"This is what mages classify as a %{i}Psychic%{/i}.
 }
 [sha:862cbbf52e2dfb04a230c420ecefa5cdf417e577]{
 -- Page 479, Offset 17761.
@@ -716,7 +716,7 @@ Someone who, in spite of being human, is born with some form of Magic Circuit: a
 [sha:465b3cfc42588a0003968a493220d397df6b426f]{
 -- Page 479, Offset 17762.
 -- ―――例えば何の神秘も学んでいないのに“物の死”を視てしまう人間とか、ね」
-―――For example, a human who has never studied the Mysteries but is able to see the 'death of things'."
+―――For example, a human who has never studied Mystery but is able to see the 'death of things'."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 480, Offset 17763.
@@ -805,7 +805,7 @@ To use a metaphor, they're like blood vessels.
 -- 線が血管なら、点はその血管を生み出す何かだ。
 // This is a pretty shit metaphor, Shiki. Do better.
 If the lines are blood vessels,
- then those points are something that give rise to those blood vessels.
+ then those points are something that gives rise to those blood vessels.
 }
 [sha:fafbbb18ae1cad11f0ae2f859f2a0d84ad2fa770]{
 -- Page 486, Offset 17778.
@@ -875,7 +875,7 @@ If nothing else, at least stop when you reach the point where your blood vessels
 [sha:495604819c4d7b1f9f72b1412805a48de18889b1]{
 -- Page 491, Offset 17789.
 -- 「その眼鏡を作ってくれた魔術師には感謝しないとね。
-"You should show some appreciation for the magician that created those glasses for you.
+"You should show some appreciation for the mage that created those glasses for you.
 }
 [sha:60ea0a9e15bc18679213547b5ac8588f516fdb67]{
 -- Page 491, Offset 17790.
@@ -927,7 +927,7 @@ On that day, seven years ago, that person saved the Tohno Shiki of today in more
 [sha:17c393b2429c260820a77147a6b1ee3a9e1304ea]{
 -- Page 494, Offset 17799.
 -- 「うわあ!?」
-"Uwah?!"
+"%{i}Uwah%{/i}?!"
 }
 [sha:ec8ff07ee7999ee8da28bbbfee0d917d10e40a0c]{
 -- Page 495, Offset 17800.

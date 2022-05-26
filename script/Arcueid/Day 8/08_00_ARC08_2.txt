@@ -21,7 +21,7 @@ Phrases such as 'you reap what you sow' and 'a foolish brother ought to die' rev
 [sha:4977dc8abaf199a654c3e21f05911b69c483deb3]{
 -- Page 53, Offset 19813.
 -- ……観念して、ここで戦うしかないようだ。
-...I guess I have no choice but make my stand and accept my fate.
+...I guess I have no choice but to make my stand and accept my fate.
 }
 [sha:913eb14c0df9e132b179224fad4c2fef52193f94]{
 -- Page 54, Offset 19814.
@@ -56,7 +56,7 @@ This shouldn't end up being a totally one-sided match.
 [sha:88df39248d62538317f291960ff9b314f8ca099a]{
 -- Page 56, Offset 19820.
 -- 紅茶を一口飲んで、秋葉と視線を合わす。
-I take a sip of the black tea and lock eyes with Akiha.
+I take a sip of the black tea and lock eyes with her.
 }
 [sha:fef9444225d2b88c0141e8cc60c55890a99bd181]{
 -- Page 57, Offset 19821.
@@ -71,7 +71,7 @@ I take a sip of the black tea and lock eyes with Akiha.
 [sha:be3b151e779f1b963616013f2c514af86f7b7779]{
 -- Page 57, Offset 19823.
 -- 「―――ごふっ！」
-"―――Gboh!"
+"―――%{i}Gboh%{/i}!"
 }
 [sha:1e3449b17982929cd210648f7ed25e507786cb1d]{
 -- Page 58, Offset 19824.
@@ -290,7 +290,7 @@ You've been consistently referring to her as 'that woman' for a while now, but w
 [sha:0807ce90aa2097c5972b2c3834e1735b826d7caf]{
 -- Page 78, Offset 19865.
 -- 「うぐ」
-"Agh―――"
+"%{i}Agh%{/i}―――"
 }
 [sha:0855855ba7634c66aa7321c400d7adec07df1fe6]{
 -- Page 78, Offset 19866.
@@ -322,7 +322,7 @@ Just as Akiha says, there isn't a single foreign-exchange student at our school.
 -- Page 80, Offset 19871.
 -- 実際は声をかけたのではなく殺害し、その後に追いかけられた。ともあれ、きっかけを作ったのは俺の方だ。
 The truth is that there was no calling out to anybody, only murder.
- After that there was the chase. Anyhow, I was the one who started it.
+ After that came the chase. Anyhow, I was the one who started it.
 }
 [sha:34dfd1782fc3673949d0d9335590b9ac430d8c79]{
 -- Page 81, Offset 19872.
@@ -416,7 +416,7 @@ I thought that she'd have a ruthless counterattack in store for me,
 -- Page 87, Offset 19888.
 -- ……ただ、あの人は厭な感じがするんです。他の相手なら仕方がないと諦めます。けれど、兄さんがあの人に気を許すのなら、なんだか私が莫迦みたいじゃないですか」
 I just... have a bad feeling about that person.
- If it were anyone else I would have simply dropped the matter.
+ If it were anyone else, I would have simply dropped the matter.
  However, when I see you let your guard down around that person,
  I can't help but feel like I'm being foolish."
 }

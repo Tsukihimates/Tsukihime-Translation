@@ -16,7 +16,6 @@ Kohaku-san returns my greeting with a big smile on her face.
 [sha:569f0951131f90d5d49e6b8fb9cfb024523b599e]{
 -- Page 46, Offset 4057.
 -- 「昨夜はよくお眠りになられましたか？
-// 「昨夜はよくお眠りになられましたか？
 "Did you sleep well last night?
 }
 [sha:20c639b0be3944f193cc85c7d2112224e44328ec]{
@@ -27,7 +26,6 @@ You were spending the night in an unfamiliar mansion, so I was worried that you 
 [sha:33ccf3ba9fe0f694b2fb6923f4d2907177702ff1]{
 -- Page 47, Offset 4059.
 -- 「大丈夫、天井の高さに落ち着かなかったくらいで、あとはぜんぜん。昔はここに住んでいたんだし、今はちゃんと気を配ってくれる琥珀さんがいますしね」
-// 「大丈夫、天井の高さに落ち着かなかったくらいで、あとはぜんぜん。昔はここに住んでいたんだし、今はちゃんと気を配ってくれる琥珀さんがいますしね」
 "Don't worry, I had trouble relaxing with a ceiling that high, but otherwise I was fine. I used to live here anyway, and now I have you to take care of me."
 }
 [sha:76379e44f110dfc6ff7935784d27125c653b56a4]{
@@ -53,7 +51,6 @@ In just a few days, I've gotten to know her quite well.
 [sha:befefc2abdd6cf3170073aaf81c41fb0e9ed6122]{
 -- Page 48, Offset 4064.
 -- 俺がコミュニケーション上手なのではなく、琥珀さんの笑顔の力だろう。
-// 俺がコミュニケーション上手なのではなく、琥珀さんの笑顔の力だろう。
 I'm not especially good with people or anything. Maybe it's just the power of her smile?
 }
 [offset:4065]{
@@ -64,7 +61,7 @@ I'm not especially good with people or anything. Maybe it's just the power of he
 [sha:d22dde2428c0c29d6dbb4145119b8d606d5753ac]{
 -- Page 49, Offset 4066.
 -- さっきから無言でこっちを見つめている、もう一つの視線に気がついた。
-I notice that another set of eyes have been staring at me this whole time.
+I notice that another set of eyes has been staring at me this whole time.
 }
 [sha:01cf2ae95a484491b8c503851c85aaa46d6994a5]{
 -- Page 49, Offset 4067. Mods: @k, @e.
@@ -129,7 +126,6 @@ Ah, if you get along so much, would you rather be her valet then? I would not mi
 [sha:56bc3bd6133ab372b3dd78323c11a901fb195031]{
 -- Page 53, Offset 4079.
 -- 「……朝から全開だなおまえ」
-// 「……朝から全開だなおまえ」
 "...Full throttle first thing in the morning, huh?"
 }
 [sha:1c79225e0fa222e8320b30c53d9ea6dbca35957f]{
@@ -196,7 +192,7 @@ It's little more than a half-hour walk from here to my school."
 [sha:0f31ad8df3861c54bf2764462e9c4cef2f6227c9]{
 -- Page 59, Offset 4092.
 -- 「む、ぐ――」
-"Mm, guh――"
+"%{i}Mm, guh%{/i}――"
 }
 [sha:06ac0886827776a22e94d6817c73379a330f849f]{
 -- Page 59, Offset 4093.

@@ -1,12 +1,13 @@
 [sha:35bc11cc1e0256093c7f8e9d165fb43b2996d4f4]{
 -- Page 10001, Offset 30521.
 -- 授業が終わった。
-The class is over.
+The lesson is over.
 }
 [sha:6cda3befa291267b5de922d4f7cdfbe38fd157a3]{
 -- Page 10001, Offset 30522.
 -- ざわざわと教室が騒がしくなる中、俺だけが授業中と変わらずに席に座っている。
-Within the busy classroom full of chatter, I'm the only one who remains seated, like the lesson was still ongoing.
+As the hubbub in the classroom builds,
+ I alone remain at my desk, as though still listening to the lecture.
 }
 [sha:f28171e0f29f40aa28e40f519eaae8792287bd44]{
 -- Page 17, Offset 30523.
@@ -16,7 +17,7 @@ Within the busy classroom full of chatter, I'm the only one who remains seated, 
 [sha:38418238991fff2c2cb16b19253698a4b72ea8cf]{
 -- Page 17, Offset 30524.
 -- 教壇から物理の教師が声をかけてくる。
-The Physics teacher calls out to me from the podium.
+The physics teacher calls out to me from the podium.
 }
 [sha:c13440c4056df35a1fd8c2e8c3210642ad35c8d5]{
 -- Page 17, Offset 30525.
@@ -31,7 +32,9 @@ I reply and head to the podium.
 [sha:d7f865db52770b3615a199d03339337edc604742]{
 -- Page 18, Offset 30527.
 -- 「ちょっとした確認です。最近、夜遅くに繁華街の方で君を見かけた、という報告が届いていまして。覚えはありますか？」
-"I just want to confirm something. Lately, I've been getting reports of you being seen in the downtown area late at night. Is that true?"
+"I just want to confirm something.
+ I've heard some reports recently that you've been spotted around the downtown area late at night.
+ Does this ring any bells?"
 }
 [sha:3d87d7ff4339417811c24d44a18c7bf3b3f3ed83]{
 -- Page 18, Offset 30528.
@@ -46,17 +49,18 @@ I reply and head to the podium.
 [sha:98aaec7b490481013b17e764ce5f60334236500b]{
 -- Page 19, Offset 30530.
 -- 物理の教師は難しい顔をした後、すまなそうな顔をした。
-After putting on a displeased expression, the physics teacher gives me a remorseful look.
+The physics teacher frowns, but his expression then softens somewhat.
 }
 [sha:c5f578f756cb5c42951972b01ee7d0be3cce8833]{
 -- Page 19, Offset 30531.
 -- 「遠野が夜遊びする生徒でない事は知っていますが、職員会議で問題にあがっていてね。生徒指導部の先生方が遠野と話がしたいそうだ。
-"I know that you're not the type of student to go and mess around late at night, but this is becoming a serious issue in our staff meetings.
+"I know you're not the type of student to go and mess around late at night, but it's been raised as an issue at our staff meetings.
+ It seems that someone from the student guidance department would like to have a word with you about it.
 }
 [sha:3bc5df80e77f3671406ba0d286151bbeebeb38eb]{
 -- Page 19, Offset 30532.
 -- そういったワケだから、放課後は茶道室に行くように」
-And as such, I'd like you to go to the tea ceremony room after school."
+That is to say, please head to the tea ceremony room after school."
 }
 [sha:1a1ec31ce44c63416728fd45920a1379ee235cde]{
 -- Page 19, Offset 30533.
@@ -66,27 +70,29 @@ With a brief farewell, the teacher exits the classroom.
 [sha:48d931f92b3ba1318c3c5ceb92db05f1136823ff]{
 -- Page 20, Offset 30534.
 -- 放課後。
-After school.
+It's now the end of the school day.
 }
 [sha:94a68e5ce662dd563d7622e178b0b3295463f443]{
 -- Page 20, Offset 30535.
 -- 茶道室に顔を出すと、指導部の教師はまだ来ていなかった。
-I drop by the tea ceremony room, but the guidance councelor has yet to arrive.
+I drop by the tea ceremony room, but the guidance counselor has yet to arrive.
 }
 [sha:ceef4b5863ae5f2afb6633c490f89c8c9c019fff]{
 -- Page 21, Offset 30536.
 -- この学校には生徒指導室はない。
-There's no student councelling room in this school.
+Our school doesn't have a dedicated student counseling room.
 }
 [sha:d17c53bce5c9949ade1c87858ca95de85f7a227c]{
 -- Page 21, Offset 30537.
 -- たいていは空き教室か職員室で行われるが、今日のように使われていない部室を使う事もある。
-They usually occur in an empty classroom or the staff room, but there are also times where an unused club room is used like today.
+Counseling sessions usually take place in empty classrooms or the staff room,
+ but sometimes they'll happen in a disused clubroom, as is the case today.
 }
 [sha:2d16379b3488360c1e16984d4f17cc9cda9cb671]{
 -- Page 21, Offset 30538.
 -- ……どうやら、茶道部はずいぶん昔に廃部になっていたようだ。たしかに今どき、茶道部は流行らない。
-...It seems like the tea ceremony club was abolished quite a while back. Well, it's true that the tea ceremony club isn't in fashion these days.
+...It seems like the tea ceremony club was abolished quite some time ago.
+ It's certainly true that it's not a club that's currently in vogue.
 }
 [sha:956125f972827f97998d60d9a0375c8f18210c86]{
 -- Page 22, Offset 30539.
@@ -96,32 +102,33 @@ They usually occur in an empty classroom or the staff room, but there are also t
 [sha:acf82c1b1d87b9ffc7043856af01d698fd51fb23]{
 -- Page 22, Offset 30540.
 -- 畳に正座して生徒指導の教師を待つ。
-I sit down straight on the tatami mat and wait for the guidance teacher to arrive.
+I sit down on the tatami and wait for the guidance counselor to arrive.
 }
 [sha:f647b362bc7c40236c87a3b9cd1a025b26ff683e]{
 -- Page 22, Offset 30541.
 -- 「………くっ」
-"...Kh"
+"...%{i}Kh%{/i}."
 }
 [sha:73015dd19d62adad61c5f8a9171b8d2cfc8197f0]{
 -- Page 22, Offset 30542.
 -- ぎり、と唇を噛む。
-I bite down hard on my lips.
+I bite my lip in frustration.
 }
 [sha:691e6192d9effab6b3d6c548a37d09a9d44ae083]{
 -- Page 22, Offset 30543.
 -- こんな事をしている場合じゃないのは分かってる。
-I'm fully aware that this is no time to be doing this.
+I'm fully aware that I don't have time to be doing this.
 }
 [sha:b56d28fc917e95bedbecdcb97178f966c35fbd11]{
 -- Page 22, Offset 30544.
 -- 分かってはいるが、俺には他に手段がない。
-I know, but I don't have any other way.
+Even so, there's nothing else I can do.
 }
 [sha:1d0ade79ef5e133124471596c8a002a316800e06]{
 -- Page 23, Offset 30545.
 -- 部活動が禁止され、下校時間も早まった校舎は、刻一刻と静まりかえっていく。
-With the ban on club activites and the implementation of an earlier curfew, the school building becomes quieter by the minute.
+With club activities on hold and the end of the school day pushed forward,
+ the school building is becoming quieter by the minute.
 }
 [sha:ce1ae946e795d60844f4e47e11064870d2d06d39]{
 -- Page 23, Offset 30546.
@@ -131,7 +138,7 @@ With the ban on club activites and the implementation of an earlier curfew, the 
 [sha:9750fa318df6835adab08a43aa6499dd96a481ed]{
 -- Page 23, Offset 30547.
 -- なんだって自分はこんな所で、こんな事をしているのか。
-What am I doing here in a place like this?
+Why am I here? Why am I doing this?
 }
 [sha:9ec97463a0e8756d12efaf6ac74cdd462eed6ea8]{
 -- Page 24, Offset 30548.
@@ -141,7 +148,7 @@ I can't help but get angry at my own helplessness.
 [sha:7bba98b704c40d86b8d12a2c96295639d9d399ed]{
 -- Page 24, Offset 30549.
 -- けれどそれを解決する手段がないから、結局はヌケガラのように言われた事をこなすしかない。
-But since there's no way to fix it, in the end, I have no choice but to do as I'm told like the husk that I am.
+But since there's no way to fix it, in the end, I have no choice but to do as I'm told, like the husk that I am.
 }
 [sha:64f06d786b25a828f76ba42b12a1ec657f28a687]{
 -- Page 25, Offset 30550.
@@ -156,17 +163,17 @@ There's no answer.
 [sha:1c19c45d0a7ec4132e8841f73d81349cd473df89]{
 -- Page 25, Offset 30552.
 -- 胸の苛立ちを堪えながら、無人の部室で夜の到来を待ち続けた。
-I hold back the anger in my heart and continue to wait for night to come in the uninhabited club room.
+Suppressing my irritation, I continue to wait in the deserted clubroom for night to fall.
 }
 [sha:996ae3a0183470dbdeb21030924e561e1e8982de]{
 -- Page 26, Offset 30553.
 -- かちん。
-Tick.
+%{i}Tick%{/i}.
 }
 [sha:edeacd89a50beb4d189aef18a5e9baea6ce10f3e]{
 -- Page 26, Offset 30554.
 -- 長い秒針が音をたてて、６時を過ぎた事を告げてくる。
-The long hand of the clock ticks, informing me that it's past 6 o'clock.
+The second hand of the clock ticks, informing me that it's just turned six o'clock.
 }
 [sha:def4a273e8e41b5a18dc0e744423444149149ae5]{
 -- Page 26, Offset 30555.
@@ -176,32 +183,35 @@ In the end, no one came to the tea ceremony room.
 [sha:f4f5caf75a42cdca59ba63006b10577dbb0dbd2e]{
 -- Page 26, Offset 30556.
 -- 学校の閉鎖時間は４時、教師たちが帰るのが５時というから、校舎には誰も残っていない事になる。
-The school closes its gates at 4, and the teachers leave at 5, meaning that no one is left in the school.
+The school closes its gates at four and the teachers leave at five,
+ so at this point there's nobody else left in the school.
 }
 [sha:0cf9214aadf2215793291c04a6e419c4b9b25c8b]{
 -- Page 27, Offset 30557.
 -- 「……忘れられたかな」
-"...I wonder if he forgot."
+"...I wonder if I've been forgotten."
 }
 [sha:f39661dcd2b4c8b8e1b87f66cb17fd953ef24398]{
 -- Page 27, Offset 30558.
 -- 漠然と、それはそれで好都合だ、と思う。
-In a way, I feel like that's convenient for me.
+In a way, I feel like this worked out well for me.
 }
 [sha:c3b1c4ea49f90cb54400b11104cc85b61d2429ca]{
 -- Page 27, Offset 30559.
 -- なにしろ屋敷に戻る理由が潰れてくれた。
-At any rate, it eliminates any reason for me to return back to the mansion.
+// Lit 'it gave me the destruction of the reason to return'
+It gave me a reason not to return to the mansion.
 }
 [sha:8f39bd27e825d2ab42f83d01e66eafa5f3dd91fd]{
 -- Page 27, Offset 30560.
 -- 戻りたくないワケじゃないが、今はまだ戻れない。
-It's not that I don't want to go back, but right now that's not an option.
+It's not that I don't want to go back there, I simply can't just yet.
 }
 [sha:a1a33c9e7cbe242f5c0b00cebf34369691dc5f59]{
 -- Page 28, Offset 30561.
 -- 足を崩して立ちあがる。
-I pull my legs back and stand up.
+// He was in seiza, not _folded_, but close enough
+I unfold my legs and stand up.
 }
 [sha:6409b214cc099f36008efce7ff464fae86fec15f]{
 -- Page 28, Offset 30562.
@@ -211,27 +221,28 @@ I pull my legs back and stand up.
 [sha:47385186bee7527db3cbcba039c5896f81cf0aaf]{
 -- Page 28, Offset 30563. Glued. Mods: @x.
 -- こうして、ひとりで思案し続けたおかげで、少しはマトモな頭に戻ってくれたみたいだ。
-Thanks to being able to deliberate like this, my mind feels a bit clearer.
+// Leading space for glue
+ My mind feels a bit clearer now that I've had the chance to reflect on things by myself like this.
 }
 [sha:319ce601fac7a8a8a045241be9e0f189715ebaea]{
 -- Page 29, Offset 30564.
 -- ずっと、考えていた。
-I've been thinking for a long time.
+I've had plenty of time to think.
 }
 [sha:50cd2e57763f01af961bf7e646b05e8d1a35311e]{
 -- Page 29, Offset 30565.
 -- 自分はどうするべきか、何を優先すべきかを。
 About what I should do, and what's important to me.
 }
-[sha:90f186c64b3c2670889530aab3e73c61f93c0c57]{
+[offset:30566]{
 -- Page 29, Offset 30566. Mods: @k, @e.
 -- 俺は、これから―――
-From here on, I'll―――
+Right now, I should―――
 }
 [sha:6109d1d83f8335bd068f802fb2901c5c19ade467]{
 -- Page 30, Offset 42684. Choice.
 -- 無駄でもアルクェイドを捜す。
- It's futile, but I'll search for Arcueid.
+ Search for Arcueid, even if it's futile.
 }
 [sha:10e4433ab546c9c4bdfa85833cd309fe780c4db0]{
 -- Page 30, Offset 42685. Choice.
@@ -241,5 +252,5 @@ From here on, I'll―――
 [sha:406dd8bd91046efa6ad1fe40df11e12801f7865f]{
 -- Page 30, Offset 42686. Choice.
 -- 自分だけでロアを探す。
- Find Roa by myself.
+ Look for Roa by myself.
 }

@@ -16,7 +16,7 @@
 [sha:2395121a2d938c2911944c0b7dd3c8ed01907b4b]{
 -- Page 10002, Offset 11022.
 -- つーかほら、コイツのダッセェ服、<総耶|そうや>の制服じゃん！　さっき捕まえた女と同じ校章だし、仲間じゃねえのかな！」
-And look at his lame clothes, that's Souya uniform! He'll get along with those girls we captured a while ago, they're from the same school after all!"
+And look at his lame clothes, that's the Souya uniform! He'll get along with those girls we captured a while ago, they're from the same school after all!"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 62, Offset 11023.
@@ -26,8 +26,7 @@ And look at his lame clothes, that's Souya uniform! He'll get along with those g
 [sha:ed829b594586f45485fd8da53425e0292c4a4b61]{
 -- Page 62, Offset 11024.
 -- なんとか平静を保った。
-// Manage to keep my calm?
-I somehow keep my calm.
+I somehow manage to keep my calm.
 }
 [sha:0ef8ff38e51face7cb70b6ad6ba32a12adba4169]{
 -- Page 62, Offset 11025.
@@ -58,7 +57,7 @@ The man named Haru pushes the button for the elevator.
 [sha:34b227764814acd989a9edc349b0e7ca4cc3d211]{
 -- Page 65, Offset 11030.
 -- 「……っ」
-"...Ugh"
+"...%{i}Ugh%{/i}"
 }
 [sha:532fd82ebdc6567d91795a119346ed35584f24ff]{
 -- Page 65, Offset 11031.
@@ -83,7 +82,7 @@ It seems to be the only thing here connected to power.
 [sha:44282cf26c5e0153e63da9c38380ee008b3142f9]{
 -- Page 66, Offset 11035.
 -- 二人組は俺のあとにエレベーターに入ると、Ｂ１のボタンを押した。
-The pair follows me inside and one of them presses the B1 button.
+The pair follow me inside, and one of them presses the B1 button.
 }
 [sha:8211f651f5f0e2c050f954d5f94419d12e680b47]{
 -- Page 67, Offset 11036.
@@ -115,7 +114,7 @@ The man called Haru breaks into a guffaw while holding his stomach.
 -- Page 69, Offset 11041.
 -- 体感距離にすると地下四階分はあっただろうか。
 // Someone double check this
-According to my body senses, the basement is maybe as high as four floors.
+According to my body senses, the basement is probably around four floors deep.
 }
 [sha:109dc3910013e3c23696e9426b0b3391607f1217]{
 -- Page 70, Offset 11042.
@@ -130,7 +129,7 @@ As the elevator doors open, we're illuminated by an intense light.
 [sha:f539c14a1f7dc22834e935a4aa90f161fa4b523d]{
 -- Page 70, Offset 11044.
 -- 眩しくて外の様子が判らない。
-It's so dazzling that I can't make out what's outside.
+It's so dazzling that I can't make out the outside.
 }
 [sha:1b32b3e9c01918aaa11057b0eac06e9b0d4ddb4e]{
 -- Page 70, Offset 11045.
@@ -205,7 +204,7 @@ The man who kicked me is looking down at me with a grin on his face.
 [sha:9272824a9dd7b11744d80191353aa7df6bd2f0ea]{
 -- Page 75, Offset 11059.
 -- 「っ、あいつ……！」
-"Ugh, that guy...!"
+"%{i}Ugh%{/i}, that guy...!"
 }
 [sha:6d1d48a6a55ceecde88540c9dbef12dfdc720739]{
 -- Page 75, Offset 11060.
@@ -246,7 +245,7 @@ With my shoulders heaving, I look around at my surroundings.
 [sha:9f1d53f69e3eeb0522708f817b568995a7e3ceb2]{
 -- Page 77, Offset 11067.
 -- 読み取れるのはここがそれなりに広い空間である事、周囲にはいくつもの小道が延びている事、靴の感触から地面は石である事ぐらい。
-What I can make out is that this is a decently large room, with many paths extending forward around it. And from I feel from my shoes, the floor is made of stone.
+What I can make out is that this is a decently large room, with many paths extending forward around it. And from the sensation under my shoes, I can tell that the floor is made of stone.
 }
 [sha:6e61fadd8fa51229682040685691af805125450c]{
 -- Page 78, Offset 11068.
@@ -296,12 +295,12 @@ Gathering in the open space is a group of people, no, those are already no more 
 [sha:972ca745113ea1879cb94bd6eeee4806b4983794]{
 -- Page 80, Offset 11077.
 -- 血走った目。こそげ落ちた筋肉。ズタズタの服装。
-Their eyes are bloodshot. Their flesh cut and torn down. Their clothes in tatters.
+Their eyes are bloodshot. Their flesh cut and torn apart. Their clothes in tatters.
 }
 [sha:32bb5a810471666f5d04a2494b9ee7ed524affb8]{
 -- Page 80, Offset 11078.
 -- 口からもれる嗚咽とも悲鳴ともつかない音。
-From their mouths come out sounds. Were they sobs? Or shrieks? I can't tell.
+Sounds are coming from their mouths. Were they sobs? Or shrieks? I can't tell.
 }
 [sha:fceeda4eed0dc7ccc4f22756438d7864e91234b7]{
 -- Page 80, Offset 11079.
@@ -316,6 +315,7 @@ But, they are―――
 [sha:37f5c676d6c279275917e7f663ecc199a49b2f51]{
 -- Page 81, Offset 11081.
 -- 「……人、だ」
+// i totally read this as Hu Man and took a good 10 seconds to piece it together
 "Hu... man."
 }
 [sha:c550705ebe17303efcdc65002d448c5818a60d4f]{
@@ -326,8 +326,7 @@ My mind freezes.
 [sha:44a9eeae1d91d26d08f09948ad862a2f1f4c12ca]{
 -- Page 81, Offset 11083.
 -- 集まってきた彼等の後ろに、一息遅れてやってくるモノたちを見て、どちらが“生きている”のかを理解する。
-// "them" in italics, or needs to be replaced by something more explicit like "those things"
-At the back of that gathering of people, just a step behind, I see them approaching. And I understand which group really is 'alive'.
+Behind the group of people, just a step behind, I see %{i}them%{/i} approaching. With that, I understand which group is truly 'alive'.
 }
 [sha:8aaf723d8f1eae69c6235db18b1f186a00b330e1]{
 -- Page 82, Offset 11084.
@@ -342,7 +341,7 @@ I raise my voice, but it's too late.
 [sha:40fb1d8bed41bb33619cf9d42c2b501cb8af230c]{
 -- Page 82, Offset 11086.
 -- 俺と彼等はプールをはさんで対岸にいる。
-I stand opposite across the shore to them.
+I'm standing on the opposite side of the pool; across from them.
 }
 [sha:e43c683899f8b244fbb9e113d4c32d4321521a62]{
 -- Page 82, Offset 11087.
@@ -372,7 +371,7 @@ Like me, they were dropped here. That's what remains of those people days later.
 [sha:96aa540f505ee669752846a130b3797471ce73b1]{
 -- Page 84, Offset 11092.
 -- 彼等はエレベーターの音と光を見つけて、助けを乞うようにここに集まった。
-They heard the sound of the elevator and saw the light, and they gathered here to beg for help.
+They heard the sound of the elevator and saw the light, and  gathered here to beg for help.
 }
 [sha:11da248e5ad35a21bb6ac3f5f31cb2fcdbf489ee]{
 -- Page 84, Offset 11093.
@@ -387,7 +386,7 @@ They heard the sound of the elevator and saw the light, and they gathered here t
 [sha:808ff489de86b47154708419b31ee2b030184085]{
 -- Page 85, Offset 11095.
 -- 生きてますねー！　ギャハハ、すっげえなにあれサイコー！　頭悪すぎて笑いとまんないんですけどぉ！」
-They are still alive! Hahaha, wow, that's just great! This is so stupid, I can't stop laughing!"
+They're still alive! Hahaha, wow, that's just great! This is so stupid, I can't stop laughing!"
 }
 [sha:89ea65e12165e15d39e001acf38989bee2db1d20]{
 -- Page 86, Offset 11096.
@@ -412,7 +411,7 @@ I feel nauseous.
 [sha:550ed786ec9a0e14688be1e2f4c0d1a8811fc85f]{
 -- Page 87, Offset 11100.
 -- 足音が近づいてくる。
-The footsteps are coming closer.
+The footsteps are approaching.
 }
 [sha:d05e9348c09d0af46dee2786da7ff54771419838]{
 -- Page 87, Offset 11101.

@@ -51,7 +51,6 @@ All things are destined to break. As long as it has a form, it can't escape that
 [sha:1e6b21335c0f0f2899b76123e073b8b964dda65a]{
 -- Page 4, Offset 3955.
 -- それはつまり、セカイはツギハギだらけで、いつ壊れてもおかしくないという事だ。
-// それはつまり、セカイはツギハギだらけで、いつ壊れてもおかしくないという事だ。
 Therefore, the world itself is also full of cracks, and if it fell apart one day, it wouldn't be unusual.
 }
 [sha:5689c599ef24713ca30756e31a8ff6f8d033d29e]{
@@ -77,7 +76,7 @@ At least, in the world I see, there's always that possibility.
 [sha:9cc684ff16ea52fcccaa9c296a746f6aea7459be]{
 -- Page 5, Offset 3960.
 -- 怪我も回復も、老化も成長も、隆盛も衰弱も、すべては終わりに近づく変化だから」
-// 怪我も回復も、老化も成長も、隆盛も衰弱も、すべては終わりに近づく変化だから」 老化 is like "aging" but in what I would describe is an unpleasant way. 成長 is an antonym
+// 老化 is like "aging" but in what I would describe is an unpleasant way. 成長 is an antonym
 Injury and recovery, growing up and getting old, prosperity and decay; these are all processes that bring us closer to the end."
 }
 [sha:982350168eb916d13f1ec9d861d8494a70ef6f0d]{
@@ -88,19 +87,18 @@ When I understood the meaning of what she said, I thanked Sensei for these glass
 [sha:c991399046b77c5375de98d8df99d7310d23fa81]{
 -- Page 6, Offset 3962.
 -- だってそうだろう。こんな線がいつも視えてしまっていたら、とてもじゃないけど生きていけない。
-// だってそうだろう。こんな線がいつも視えてしまっていたら、とてもじゃないけど生きていけない。"とてもじゃない" is getting encoded as the "just" there as-in "well, there's no other option"
+// "とてもじゃない" is getting encoded as the "just" there as-in "well, there's no other option"
 I mean, it is true, isn't it? If I had to see these lines all the time, I just wouldn't be able to get by.
 }
 [sha:8f67ebef896567548541e6a4ff466475248b8205]{
 -- Page 7, Offset 3963.
 -- モノの壊れやすい線。
-// モノの壊れやすい線。
 The lines along which things can easily break.
 }
 [sha:62435bdb7d948c15abdc1ad6c125247e117f020d]{
 -- Page 7, Offset 3964.
 -- 確かな<約束|けつごう>のない世界。
-// 確かな<約束|けつごう>のない世界。"約束" is dropped for a cleaner line.
+// "約束" is dropped for a cleaner line.
 A world where nothing is firmly bound.
 }
 [sha:d4556bfadd55be85357b47224e1412fdbcbe4cd4]{
@@ -111,13 +109,13 @@ Even if you could see them,
 [sha:b823d9283bce4635fe0c73a64458c1811f3ff906]{
 -- Page 7, Offset 3966.
 -- 得になる事なんて、何ひとつないのだから―――――
-// 得になる事なんて、何ひとつないのだから――――― "何ひとつないのだから" dropped because I don't know how to word it without ugly repetition.
+// "何ひとつないのだから" dropped because I don't know how to word it without ugly repetition.
 it wouldn't do you any good―――
 }
 [offset:3967]{
 -- Page 8, Offset 3967.
 -- 「――――――、ん」
-"―――Hmnnn."
+"―――%{i}Hmnnn%{/i}."
 }
 [sha:eb6bcf4746c8b225ff6b1d2d80f0176ac0d40370]{
 -- Page 8, Offset 3968.
@@ -142,13 +140,12 @@ Feeling uneasy, I grope around the right-hand side of my pillow, just in case, a
 [sha:436b455eae7da53dc233681ff0689b95253a0b40]{
 -- Page 10, Offset 3972.
 -- 左側に置いておくのが習慣なんだけど……昨夜は頭痛が酷くてそれどころではなかったのかもしれない。
-// 左側に置いておくのが習慣なんだけど……昨夜は頭痛が酷くてそれどころではなかったのかもしれない。
 I usually keep them on the left-hand side... but with my bad headache last night, it's not out of the question that I made that mistake.
 }
 [offset:3973]{
 -- Page 11, Offset 3973.
 -- 「……ふう」
-"...Ah"
+"...Ah."
 }
 [sha:4d4e2bcc67ed1bff5216c23fee59c5fa78f9f266]{
 -- Page 11, Offset 3974.
@@ -158,7 +155,7 @@ I put on my glasses before opening my eyelids.
 [sha:c232c0d0c9195fa641e57fea43a75087054722b0]{
 -- Page 11, Offset 3975.
 -- もし誰かが見ていたら妙なクセと思われるだろうけど、朝から『線』を視るような事態はできるかぎり遠慮したい。
-// もし誰かが見ていたら妙なクセと思われるだろうけど、朝から『線』を視るような事態はできるかぎり遠慮したい。"朝から" dropped because it's "as much as possible" includes the whole day implicitly.
+// "朝から" dropped because it's "as much as possible" includes the whole day implicitly.
 If someone were watching, they may think it's a strange habit, but I like to avoid looking at the lines as much as possible.
 }
 [sha:6c65a761377b18958ab2281d4658e489918b70c9]{
@@ -169,7 +166,7 @@ If someone were watching, they may think it's a strange habit, but I like to avo
 [sha:31f1939154f5b591d791c6f339f950e243351da8]{
 -- Page 12, Offset 3977.
 -- 「うぇ!?」
-"Eek?"
+"%{i}Eek%{/i}?"
 }
 [sha:6f02d463051c2ee1b1153893bd99a42a811e9aef]{
 -- Page 13, Offset 3978.
@@ -199,7 +196,6 @@ Good morning, Hisui. Thank you for coming to wake me up."
 [sha:6e9803df166ec63e82109016638f7b23527d12e3]{
 -- Page 15, Offset 3983.
 -- 「それが私の役割ですから、どうか、お気になさらないようお願いします」
-// 「それが私の役割ですから、どうか、お気になさらないようお願いします」
 "This is one of my duties, please pay me no mind."
 }
 [sha:192e87064498c698478d3c98e2474744046dcc3d]{
@@ -210,7 +206,6 @@ Hisui solemnly bows.
 [sha:ac1bb01759b702f497c1426692095d1274cd26b4]{
 -- Page 16, Offset 3985.
 -- ……と。その途中でピタリと動きを止めた後、スッと頭を上げて、
-// ……と。その途中でピタリと動きを止めた後、スッと頭を上げて、
 ...But, as she does so, she suddenly stops moving and swiftly raises her head.
 }
 [sha:e73857da72e55a204d3431d566849f5ffb670f0f]{
@@ -226,7 +221,6 @@ Hisui solemnly bows.
 [sha:f26267f40e23c818e38b4a2fc19d755b2701cc98]{
 -- Page 18, Offset 3988.
 -- ……微妙におかしなところのあるメイドさんだった。
-// ……微妙におかしなところのあるメイドさんだった。
 ...For a maid, she has some subtle, strange traits about her.
 }
 [sha:655995ffd29988171af0b8851ce0e0fe7e36bb50]{
@@ -242,13 +236,11 @@ Even though she is perfectly capable of performing her duties as a servant, it f
 [sha:64daf4c5a5d049d859da972702d4ad00bd864f6a]{
 -- Page 19, Offset 3991.
 -- まだ慣れていない俺が悪いんだ」
-// まだ慣れていない俺が悪いんだ」
 It's my fault for still not being used to it."
 }
 [sha:a1e141086840ed0ca4d0a545a2f15dc28eb1c5e9]{
 -- Page 20, Offset 3992.
 -- ベッドから起きると、自分が寝間着に着替えている事に気がついた。
-// ベッドから起きると、自分が寝間着に着替えている事に気がついた。
 When I get out of bed, I realize that I'm wearing my pajamas.
 }
 [sha:b2f0c2f6f07118aab22a26a1771b30d51615a51d]{
@@ -329,7 +321,7 @@ When you are dressed, please come to the living room."
 [sha:e18a9f60b92c33db6259014b025364305d15dd1b]{
 -- Page 28, Offset 4008.
 -- 「……はあ。普通なら気がつくもんだけど、そんなに疲れてたのか、俺……」
-"...Hah, normally I would've been woken up by that, but I must have been really tired last night..."
+"...%{i}Sigh%{/i}. Normally I would've been woken up by that, but I must have been really tired last night..."
 }
 [sha:5c1e3c51655f328863112f12807cedaf20491720]{
 -- Page 29, Offset 4009.

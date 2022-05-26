@@ -64,7 +64,6 @@ Kohaku-san, it was loud last night, wasn't it?"
 [sha:a169adccf421897e2320a557b67fc037905f07f5]{
 -- Page 72, Offset 4140.
 -- 「―――ええっと、どうなんでしょうか。
-// 「―――ええっと、どうなんでしょうか。
 "―――Well... I'm not really sure.
 }
 [sha:64993931d9a3f896762714939550d544a1e6c028]{
@@ -105,7 +104,8 @@ With a smile on her face, Kohaku-san dodges Akiha's question.
 [sha:afee3a001e5522a22f5f70b2b7f0dc76a41dbb85]{
 -- Page 75, Offset 4148.
 -- 昨日の夜、30分ぐらい外で野犬が吠えてたのに。ワンワンワンワン、そりゃうるさいったらなかった」
-Last night, there was this wild dog barking outside for half an hour. Woof woof woof woof, it was so loud."
+// lint-off:LintDupedWord
+Last night, there was this wild dog barking outside for half an hour. %{i}Woof woof woof woof%{/i}, it was so loud."
 }
 [sha:d0f7c84843e6ce16fc9cbe0dbec871d04e0b18e6]{
 -- Page 76, Offset 4149.
@@ -145,7 +145,7 @@ Neither do you, right, Kohaku?"
 [offset:4156]{
 -- Page 79, Offset 4156.
 -- 「…………う、ぐ」
-"......Ugh."
+"......%{i}Ugh%{/i}."
 }
 [sha:a73a8f25315b822a417bc5340c6cb315ec0ddade]{
 -- Page 80, Offset 4157.

@@ -116,7 +116,7 @@ It is customary for vermin that disturb the atmosphere of a place to be crushed.
 [sha:369c2466e4190e4947ee6a327e353c64f40b877d]{
 -- Page 728, Offset 7524.
 -- 「―――、ふう―――」
-"―――Hah―――"
+"―――%{i}Haa%{/i}―――"
 }
 [sha:948c93e828fa4f46e7fe2035f635ba4cd1fa32c4]{
 -- Page 728, Offset 7525.
@@ -191,7 +191,7 @@ It's the feeling I get right before I have an anemic attack.
 [sha:0b28d215fb980e519895f2267745c9a0a0a69d17]{
 -- Page 731, Offset 7539.
 -- 「はあ―――――あ」
-"Haa―――――ah"
+"%{i}Haa―――――ah%{/i}."
 }
 [sha:98030cf34d41b1e6ab6d352f56fce384c476b31f]{
 -- Page 731, Offset 7540.
@@ -216,7 +216,7 @@ It's a long corridor.
 [sha:4b8159bd1c128bcacca24eb9ed90d9220133f4aa]{
 -- Page 732, Offset 7544.
 -- ここからエレベーターホールまで、あと20メートル以上ある。
-More than 20 meters remain between me and the elevators.
+More than twenty meters remain between me and the elevators.
 }
 [sha:212ed28194e93a176545c815693154fc73675b38]{
 -- Page 732, Offset 7545.
@@ -366,7 +366,7 @@ the two black dogs were the only living creatures.
 [sha:c112bbcc45771e02563b770e94a954f7d4e3d0c2]{
 -- Page 741, Offset 7574.
 -- 「あ―――、ぃ―――」
-"Ah―――, ah―――"
+"%{i}Ah―――, ah―――%{/i}"
 }
 [sha:6e3c42b6d587c94752ecca2f640d93944f9f2b31]{
 -- Page 741, Offset 7575.
@@ -432,12 +432,12 @@ There was a man that had noticed the unusual temperature. The moment he opened t
 [sha:4ea5f41d6d0d7d2eef85cf0bbf8cc902635f8def]{
 -- Page 744, Offset 7587.
 -- 部屋に閉じこもって泣き崩れる少女がいた。ロビーからあがってきた炎はフロアを埋め尽くし、少女はバスタブの中で、蒸し魚のように体の中から灰になった。
-There was a girl who was locked in her room crying. The flames that rose from the lobby blanketed the floor and the girl's body was turned to ash from the inside, like a steamed fish.
+There was a girl who was locked in her room crying. The flames that rose from the lobby blanketed the floor and her body was turned to ash from the inside, like a steamed fish.
 }
 [sha:58be8734c1722b105e50227d9f8a09ba6aae77aa]{
 -- Page 744, Offset 7588.
 -- 我先にとエレベーターに駆け寄った大人たちがいた。エレベーターの中には何十という<先|・><客|・>がいた。既ににんげんではなくなっていた先客たちは、やってきた大人たちを思う存分に平らげた。
-There were adults that scrambled for the elevator as fast as they could. But the elevator was filled with dozens of former guests. These guests, no longer human, consumed the adults that had arrived to their heart's content.
+There were adults that scrambled for the elevator as fast as they could. But the elevator was filled with dozens of %{i}former guests%{/i}. These guests, no longer human, consumed the adults that had arrived to their heart's content.
 }
 [sha:7301e1d5e369116ffde1e927c0f2585171ad0cff]{
 -- Page 745, Offset 7589.
@@ -482,7 +482,7 @@ Because if I did that―――I would also become one with the sea of red.
 [sha:a5176d999c95640e6eefbfec5bb0e155ba7326c5]{
 -- Page 747, Offset 7597.
 -- 「は―――ア。は。ア。は、」
-"Ha―――a. Ha. Ah. Ha, "
+"%{i}Ha―――a. Ha. Ah. Ha, %{/i}"
 }
 [sha:6119045b4b4278360cf7330d24aee9ba95e8c50d]{
 -- Page 747, Offset 7598.
@@ -507,7 +507,7 @@ After coming back to my senses, I realize that the noise from downstairs has cea
 [sha:f036c9a9d905f0ae9f5b5ec5d5165566da636c9b]{
 -- Page 749, Offset 7602.
 -- 「…………は」
-"......Ha"
+"......%{i}Ha%{/i}."
 }
 [sha:03fba19c19ab441a43df39ed93ac1063df02e956]{
 -- Page 749, Offset 7603.
@@ -562,7 +562,7 @@ Its speed is incomparable to that of a human.
 [sha:530981955462e950c1f8b44d681510910ec40603]{
 -- Page 753, Offset 7613.
 -- 20メートル程度の廊下なんて、それこそ二秒とかからなかった。
-The length of the 20-meter corridor was traversed in no more than two seconds.
+The length of the twenty-meter corridor was traversed in no more than two seconds.
 }
 [sha:edcd875425d7b9cec50bacc63197baca472c75e6]{
 -- Page 754, Offset 7614.
@@ -737,7 +737,7 @@ Naturally, the hand that holds the knife also ends up inside it.
 [offset:7648]{
 -- Page 766, Offset 7648.
 -- 「――――――あ」
-"――――――Ah"
+"――――――Ah."
 }
 [sha:3ddcca3932a2ce26cf16a39b54f0d8b148a2f160]{
 -- Page 766, Offset 7649.
@@ -762,7 +762,7 @@ The pain finally brings me back to my senses.
 [sha:5ed4d5a041f9bdfdc2d0f76e429707baa41ba314]{
 -- Page 767, Offset 7653.
 -- 「あ、あ―――！」
-"Ah, ah―――!"
+"%{i}Ah, ah%{/i}―――!"
 }
 [sha:e3050cd99970c75e618f4b1d43ceace7b944a19a]{
 -- Page 767, Offset 7654.
@@ -827,7 +827,7 @@ The dog is pierced by the knife, and yet it still clamps down with its jaws.
 [sha:b6ba7632eb0f7ff1b9e3ed866c69eb7190358d57]{
 -- Page 772, Offset 7666.
 -- 「ひ、ぎ……！」
-"Hee, gh...!"
+"%{i}Hee, gh%{/i}...!"
 }
 [sha:7dc00cf17195ce73e44961e834560e17c417e8cd]{
 -- Page 772, Offset 7667.
@@ -937,7 +937,7 @@ Even if I can pull my arm out, the black dog will bite at my neck the very insta
 [offset:7688]{
 -- Page 777, Offset 7688.
 -- 「―――、は」
-"―――Heh."
+"―――%{i}Heh%{/i}."
 }
 [sha:0b3a8caded3a213ab94ad54207ec312c06783988]{
 -- Page 777, Offset 7689.
@@ -967,7 +967,7 @@ As such, it's clear what I need to do in order to survive.
 [sha:fa08b1044900b8268cd279df0730b708430394f2]{
 -- Page 779, Offset 7694.
 -- 「ぐっ――――！」
-"Ghh――――!"
+"%{i}Ghh%{/i}――――!"
 }
 [sha:9ff810b63287e8f24e5c95ff3bf49f5d491bfd7e]{
 -- Page 779, Offset 7695.
@@ -987,7 +987,7 @@ But even so, right next to me, suffocatingly close, is a living being with its p
 [sha:4b0fecc37b6de9a66faed71434071452dad4a388]{
 -- Page 780, Offset 7698.
 -- 「は、ぐ―――！」
-"Ha, gh―――!"
+"%{i}Ha, gh%{/i}―――!"
 }
 [sha:91e4d53acaccc1f73f1bdf645760317490a8285b]{
 -- Page 780, Offset 7699.
@@ -1172,7 +1172,7 @@ Because a long time ago, you already―――
 [sha:c2799c524bf4d4b4c6220a31389c74abf88e0834]{
 -- Page 796, Offset 7735.
 -- 「ああああああああああ！」
-"AAAAAAAAAAHH!"
+"%{i}AAAAAAAAAAHH%{/i}!"
 }
 [sha:a3199cdd0966ea02c744454ff099b42a797575a6]{
 -- Page 796, Offset 7736.

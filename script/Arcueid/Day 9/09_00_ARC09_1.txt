@@ -26,7 +26,7 @@ Things that my father ordered me to forget.
 [sha:2ce4023198d762d748648342d653f8bf32994ce0]{
 -- Page 2, Offset 21297.
 -- 夏の、暑い日。
-A hot summer's day.
+A hot summer day.
 }
 [sha:54a68f2f4f392134a075af0306c6c302423563f3]{
 -- Page 2, Offset 21298.
@@ -51,16 +51,19 @@ The sound of cicadas.
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 3, Offset 21302. Mods: @k, @e.
 -- みーん　みんみん
+// lint-off:LintDupedWord
 %{i}chiiiirp    chirp chirp%{/i}
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 3, Offset 21303. Mods: @k, @e.
 -- みーん　みんみん
+// lint-off:LintDupedWord
 %{i}chiiiirp    chirp chirp%{/i}
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 3, Offset 21304. Mods: @k, @e.
 -- みーん　みんみん
+// lint-off:LintDupedWord
 %{i}chiiiirp    chirp chirp%{/i}
 }
 [sha:e68aca0d69305b2ebbd41cccf4a7080935cf636d]{
@@ -136,8 +139,8 @@ A child lies crumpled in the clearing.
 [sha:9b13c7cf5b90dbcd5fdd4990fe9f41bdac9d2939]{
 -- Page 5, Offset 21319.
 -- 白いシャツが真っ赤に染まって、ぴくりとも動かない。
-A deep red stain has blossomed on its white shirt.
- It doesn't move so much as an eyebrow.
+A deep red stain has blossomed on their white shirt.
+ They don't move so much as an eyebrow.
 }
 [sha:c8d80ad0594814cdb06ede76f65f678eaaf5ca02]{
 -- Page 5, Offset 21320.
@@ -147,7 +150,7 @@ I'm gazing down at the scene before me.
 [sha:5a3b9ab142cbd637aef5fa4d5995d6b55c2a071c]{
 -- Page 5, Offset 21321.
 -- 両手は倒れている子供と同じように赤い。
-My hands are red. Just like the child, collapsed in a heap on the floor.
+My hands are red. Red like the child collapsed in a heap on the floor.
 }
 [sha:4a744f489cacb6b648d5286e7a72568dffc2d30f]{
 -- Page 5, Offset 21322.
@@ -157,7 +160,7 @@ No, that's not right.
 [sha:05745a7508e4c6d8f5598d3c09aed72c31ff9f81]{
 -- Page 5, Offset 21323.
 -- この両手は、倒れている<子供|イキモノ>の血で赤いのだ。
-My hands are red. With the blood of a living being, collapsed in a heap on the floor.
+My hands are red. Red with the blood of the living being collapsed in a heap on the floor.
 }
 [sha:cc89877db10b4a86937fe75eec65206ad16243f0]{
 -- Page 6, Offset 21324.
@@ -219,7 +222,7 @@ They're screaming the name of the person who killed that child. My name.
 -- Page 8, Offset 21335.
 -- たった二文字の言葉を、気がちがったように叫んでいる。
 They scream just those two syllables over and over,
- as through they've lost their minds.
+ as though they've lost their minds.
 }
 [sha:1a0c4ddc9dfe2ca6f2a2357808ccbf2b36b2d6a8]{
 -- Page 8, Offset 21336.
@@ -279,7 +282,7 @@ I'm in my room.
 -- あの後―――正門あたりで記憶は途切れているが、どうにかしてこの部屋まで戻ってきたようだ。
 After the events of last night...
  My memories of what happened by the main gate are a little hazy,
- but it seems like I managed to make it back to my room one way or another.
+ but it seems like I managed to make it back to my room, one way or another.
 }
 [sha:3f70bfecd7af0c2d415bef4f85ce32d096d7c6df]{
 -- Page 12, Offset 21347.
@@ -307,7 +310,7 @@ Everything was so ridiculous that it's hard for me to put my thoughts in order,
 -- 黒い男の事だ。
 // The text referencing this guy in the moment was much more shadow oriented
 // I also refuse to allow this to become a ~(white woman) spotted
- the shadowy figure.
+ The shadowy figure.
 }
 [sha:ae26082f5e5c708fcc75d4578ac8ae4851fe78ab]{
 -- Page 14, Offset 42660. Choice.

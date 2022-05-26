@@ -96,7 +96,7 @@ I'm guessing their role was to follow a certain route in order to monitor the ci
 [sha:9cdf9323d246d920bdfce34438323df80ed59cf4]{
 -- Page 477, Offset 6878.
 -- 「そっ。体調が万全なら手間が省けて良かったんだけど、今のわたしじゃ逆に倒されかねない。
-"Yes. If I'd been in perfect condition this would have saved me a lot of trouble, but with things as they are I'm the one who's vulnerable.
+"Yes. If I'd been in perfect condition this would have saved me a lot of trouble, but with things as they are, I'm the one who's vulnerable.
 }
 [sha:6a9590a41177b221034345af39c0536c317b4314]{
 -- Page 477, Offset 6879.
@@ -131,7 +131,7 @@ That's because right now, Arcueid has become fatally weak.
 [sha:ec17305b76a8246a0758c72763a6a50e917360cd]{
 -- Page 480, Offset 6885.
 -- むう、と不機嫌そうに眉を寄せるアルクェイド。
-'Hmph', grumbles Arcueid as she scowls in dissatisfaction.
+%{i}Hmph%{/i}, grumbles Arcueid as she scowls in dissatisfaction.
 }
 [sha:1dc43e8c2b9a6a5d297447bb321328434aa35465]{
 -- Page 481, Offset 6886.
@@ -207,7 +207,7 @@ I don't know what's going on, but I'll try to figure it out as best as I can."
 [sha:4c83ebf5fbd831f9c3946d2ee6859add04f1175a]{
 -- Page 488, Offset 6900.
 -- 「教会風に言うなら“城主”の吸血鬼ね。
-"To use the Church's terminology, it would be a 'Castle Lord' vampire.
+"To use the Church's terminology, it would be a %{i}Castle Lord%{/i} vampire.
 }
 [sha:d2973fdc54f05024dccc58691df42c00e1f319e7]{
 -- Page 488, Offset 6901.
@@ -232,7 +232,7 @@ Humans that have their blood sucked by the vampire die and become puppets of the
 [sha:edaffa9f8bf44e96c0137a88efc16a60746acc0c]{
 -- Page 489, Offset 6905.
 -- ようは『人格の残った死体』ね。<死|し><徒|と>の<階梯|かいてい>でいうと<不死級|さんだんかいめ>の、上級の使い魔ってところ」
-In other words, a 'corpse with a personality'. Ranked against the other Dead Apostles, these undead are the third lowest tier, about equal to an Upper Mage."
+In other words, a 'corpse with a personality'. Ranked against the other Dead Apostles, these %{i}Undead%{/i} are the third lowest tier, about equal to a high-grade familiar."
 }
 [sha:da7a14a59d46613455f829da8ed6d9dfe8864f16]{
 -- Page 490, Offset 6906. Mods: @n.
@@ -282,7 +282,7 @@ Although their body has surpassed that of a human, think of them as commanders o
 [sha:1c16a41e104a78c051b19f75ab908f4b28a7a606]{
 -- Page 492, Offset 6915.
 -- 「あれはもう一っこ下、Ⅱ階梯目の『屍鬼』。
-"Those things are one rank below. A Rank II 'Ghoul'.
+"Those things are one rank below. A Rank II %{i}Ghoul%{/i}.
 }
 [sha:053c212fcbc48a7d62a4832f66f1a6aa8099af43]{
 -- Page 492, Offset 6916.
@@ -417,7 +417,7 @@ They have many weaknesses, and can never stay in the spotlight for too long.
 [sha:582a9aa215a8e7126bffb74d123c1c6b49751119]{
 -- Page 501, Offset 6942.
 -- だから、脆弱だけど弱点の少ない人間を使い魔にして、安全圏から血を集める。言ってしまうとリスク回避ね」
-Instead, they use humans who are frail but have fewer weaknesses, to gather blood from a safe distance. In other words, risk aversion."
+Instead, they use humans, who are frail but have fewer weaknesses, as familiars to gather blood from a safe distance. In other words, risk aversion."
 }
 [sha:fb92805dd9e3ee1df67b6c60431c4943d0c4b2fe]{
 -- Page 502, Offset 6943.
@@ -432,8 +432,7 @@ Instead, they use humans who are frail but have fewer weaknesses, to gather bloo
 [sha:8d0f70688bacb5a638a76c9819eec7229aaf061b]{
 -- Page 502, Offset 6945.
 -- <敵|・><が|・><多|・><い|・>、という事かしら」
-// ruby dots <敵|・><が|・><多|・><い|・>
-They have a lot of enemies, or something like that."
+They have %{i}a lot%{/i} of enemies, or something like that."
 }
 [sha:fb6a2742794617b49743e3ce0d108b75dde914f1]{
 -- Page 502, Offset 6946.
@@ -458,7 +457,7 @@ There are also groups of humans that come running any time vampires start causin
 [sha:aac95f315358bff2479f8ab01ad62757d003e6ae]{
 -- Page 504, Offset 6950.
 -- 「とくに陰湿で執念深いのが教会……西欧を中心にした宗教の異端狩り。主の意思を人の手で代行する、なんてお題目から代行者と呼ばれているわ。
-"The Church is particularly insidious and tenacious when it comes to this... especially the heresy hunters from Western Europe. These agents that profess to carry out the will of the Lord proclaim themselves 'Executors'.
+"The Church is particularly insidious and tenacious when it comes to this... especially the heresy hunters from Western Europe. These agents that profess to carry out the will of the Lord proclaim themselves Executors.
 }
 [sha:b62999df6447735ab66cb7fc10bcf893a0ca46a3]{
 -- Page 504, Offset 6951.
@@ -558,7 +557,7 @@ And besides, in the first place―――
 [sha:b208c0ec5bd42723146c99cd5959a088353589bc]{
 -- Page 512, Offset 6970.
 -- 「む。なによ、わたしが志貴を<騙|だま>してるって言いたいの？」
-"Nngh. What, are you saying that I'm lying to you?"
+"%{i}Nngh%{/i}. What, are you saying that I'm lying to you?"
 }
 [sha:c0731b4ee79ba86d00b1c9a464f8549a786ccae0]{
 -- Page 513, Offset 6971.
@@ -573,12 +572,12 @@ And besides, in the first place―――
 [sha:f698e6058b19a2f01c4d1c5227400a4bf3256fd7]{
 -- Page 514, Offset 6973.
 -- 「だからさ、俺はおまえが信じられないじゃなくて、吸血鬼ってものが分からないんだよ。
-"Like I said, it's not that I don't believe you, it's that I don't understand these so-called 'Vampires'.
+"Like I said, it's not that I don't believe you, it's that I don't understand these so-called 'vampires'.
 }
 [sha:70919925e09328b1a519d84ea54ae8acefce0d42]{
 -- Page 514, Offset 6974.
 -- 気軽に吸血鬼、吸血鬼と言うけど、まだピンとこない。
-You keep repeating the word 'Vampire', but it still doesn't make sense.
+You keep repeating the word 'vampire', but it still doesn't make sense.
 }
 [sha:700cf704b3af1fb67bb3ced193b916c46b131c9c]{
 -- Page 514, Offset 6975.
@@ -678,7 +677,7 @@ Who are you calling senpai? ...And besides, you already started explaining the f
 [sha:825dacf9d0c377c3a028aaa2257cc257ce9f4039]{
 -- Page 523, Offset 6994.
 -- 「……はあ。オーケー。とりあえず、手短に頼むよ」
-"...Hah. Fine. At the very least, try to keep it short, alright?"
+"...%{i}Sigh%{/i}. Fine. At the very least, try to keep it short, alright?"
 }
 [sha:489f2a8d701e364f07b115864837881b428e6864]{
 -- Page 523, Offset 6995.
