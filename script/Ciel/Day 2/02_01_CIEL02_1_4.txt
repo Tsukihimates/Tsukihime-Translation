@@ -1,12 +1,13 @@
 [sha:c05467748a7d0c58fc2127d190e1dfbd1a272526]{
 -- Page 10004, Offset 3907.
 -- 廊下に出て、とりあえず階段に向かう。
-I walk into the hallway toward the stairs.
+I exit into the hallway and start heading for the stairs.
 }
 [sha:37695ad3eacace302dad7b9db739f7988f2efc61]{
 -- Page 10004, Offset 3908.
 -- 食堂に行くにしろ、購買で済ませるにしろ、どうあれ一階まで下りなければ。
-Whether I want to go to the cafeteria or the store, I have to get down to the first floor.
+The cafeteria and the school store are both located on the first floor,
+ so I need to head downstairs regardless.
 }
 [offset:3909]{
 -- Page 122, Offset 3909.
@@ -16,7 +17,7 @@ Whether I want to go to the cafeteria or the store, I have to get down to the fi
 [sha:a09136e79fda54d795a65f94a0c39c3d93467cc9]{
 -- Page 122, Offset 3910.
 -- 一階に下りる際、不思議なものと遭遇した。
-On my way down to the first floor, I encounter something strange.
+When I go to head down the stairs, I come across something strange.
 }
 [sha:9bdfc93d661be6525b90076c8237a52327d80e73]{
 -- Page 122, Offset 3911.
@@ -26,17 +27,17 @@ The new teacher, Noel-sensei, is standing in the hallway doing nothing.
 [sha:4a295b9c5d5c76017cca81da0ec90ab1fcaf00cc]{
 -- Page 123, Offset 3912.
 -- 昼休み、教員が廊下にいるのは珍しい。
-It is unusual for a teacher to be in the hallway during lunchtime.
+It's unusual to find teachers in the hallway during lunchtime.
 }
 [sha:8f9d221524a2e2bbfaf0495d5c5f8667138e39e0]{
 -- Page 123, Offset 3913.
 -- 我が校では、教員は職員室か準備教室か、食堂の教員スペースで昼食を摂るのが常だ。
-At our school, teachers usually have lunch in the staff room, the preparation room, or the teacher's area in the cafeteria.
+The teachers at our school usually have lunch in the staff room, prep room, or the designated staff area in the cafeteria.
 }
 [sha:3603c827c5fbc5e28b3dc790e4dd49e671c08375]{
 -- Page 123, Offset 3914.
 -- 二階の階段踊り場で時間を使う理由はない。
-There is no reason for them to spend time on the second-floor stair landing.
+There's no reason for one of them to be hanging around by the second-floor landing.
 }
 [sha:1ece8de3ca3d5c9b36caf579ad3dea2f41e10712]{
 -- Page 123, Offset 3915.
@@ -51,22 +52,22 @@ Could it be...
 [sha:f359fb6e559d3d7a27190e2a67954b5ccccdb3b7]{
 -- Page 124, Offset 3917.
 -- そんなコトはないだろう、とは思いつつ、念のため、声をかけてみた。
-I'm sure that's not the case, but just to be sure, I called out to her.
+I doubt she is, but I call out to her just to be sure.
 }
 [sha:cce9479a6c5089d4c1748f1a7ef7ea3c5aeec755]{
 -- Page 125, Offset 3918.
 -- 「やだもう、そんな頼りなさそうに見えた？
-"No way, do I look that unreliable?
+"Aw c'mon, do I look that unreliable?
 }
 [sha:53e7ce76c23f0cf0ae55d78ab5cf0a7a6f1bd09a]{
 -- Page 125, Offset 3919.
 -- ただの気分転換、ちょっとした息抜きよ。
-It's just a change of pace, a little breather.
+I'm just here for a change of pace, a little breather.
 }
 [sha:73fda771ba9fb58ba49790787b2a1559ea0b12ea]{
 -- Page 125, Offset 3920.
 -- だってここの職員室、めっちゃアットホームでさー」
-Because the staff room is so homey..."
+The staffroom here is just way too %{i}homey%{/i}."
 }
 [sha:f419223914b3f57579bb9149a3fb5b6bf76d82d9]{
 -- Page 126, Offset 3921.
@@ -76,32 +77,33 @@ Because the staff room is so homey..."
 [sha:d7b7fa15a1db4a2a729f1ac5515ec6fd0b14b65a]{
 -- Page 126, Offset 3922.
 -- とか言われたら目が点になるでしょ？
-It's a little bit of a shock, isn't it?
+You can't help but be taken aback when someone says stuff like that to you, right?
 }
 [sha:c483161d594378d1ebefd264270b1e912cb26d69]{
 -- Page 126, Offset 3923.
 -- 新任初日で歓迎会に誘われるとか、心の準備ができてないっていうかぁ。
-I wasn't prepared to attend a welcome party on the first day of the job.
+They invited me to a welcome party to celebrate my first day,
+ but I just wasn't mentally prepared for it, you know?
 }
 [sha:57a115c4ec0afd91fa9102fd08844e72714c69bd]{
 -- Page 126, Offset 3924.
 -- みんなニコニコ笑顔って逆に怖くない？」
-Isn't it scary when everyone is smiling?"
+When everyone's smiling at you it can actually be kinda scary, don't you agree?"
 }
 [sha:bb9e29ab34b1e1e0ba1d5950a6617565ec49129c]{
 -- Page 126, Offset 3925.
 -- 「―――はあ。まあ、確かに」
-"―――%{i}Sigh%{/i}. Well, that's true."
+"―――Huh. Well, I guess so."
 }
 [sha:0c2331030d31f3ae0c1104feaab8ea04cc7dc19d]{
 -- Page 127, Offset 3926.
 -- 面食らったのはこっちである。
-I'm the one who's taken aback.
+%{i}I'm%{/i} the one who's taken aback here.
 }
 [sha:6ca7bff88f3f72e84a7125038456018f57d68ed4]{
 -- Page 127, Offset 3927.
 -- ざっくばらんなノエル先生の発言に、つい友人のように同意してしまった。
-Noel-sensei's frank remarks made me agree with her as if we were friends.
+I ended up replying casually to Noel-sensei's frank remarks, as though the two of us were friends.
 }
 [sha:fa2b268a3de0823d00b51619d89623dbf051cdac]{
 -- Page 128, Offset 3928.
@@ -116,32 +118,36 @@ A teacher must be tough, positive, and smiling.
 [sha:689fc6fd402dcd03189f8d4af1efecf4ca5d6ed3]{
 -- Page 128, Offset 3930.
 -- 私も笑顔には自信があるけど、先生方にはちょっと負けるなー」
-I'm confident in my smile too, but I'm not as good as the other teachers."
+I'm pretty confident in my smile,
+ but I'm still feeling a little put out after seeing the other teachers."
 }
 [sha:e3e7bbe25ab2150dcd1f302cc4bf866a6a54f7b5]{
 -- Page 129, Offset 3931.
 -- そう言いながら、ノエル先生は手にしていた携帯端末をスーツのポケットに仕舞った。
-As she says this, Noel-sensei puts the mobile phone she was holding in her hand into her suit pocket.
+As she says this, Noel-sensei slips the mobile phone she was holding into her suit pocket.
 }
 [sha:32505e6658c96ac67e18c85741de2f775057d446]{
 -- Page 129, Offset 3932.
 -- ……電話をしていた風でも、メールを作成していた風でもなかった。写真でも撮っていたんだろうか？
-...It didn't look like she was on the phone or composing an email. Is she taking a picture or something?
+...It didn't look like she making a call or composing an email. Was she taking a picture of something?
 }
 [sha:2b099d9cbc2d586924a498cdcc886203f445b20b]{
 -- Page 130, Offset 3933.
 -- 「でもまあ、いつまでも抜け出しちゃいられないわよね。
-"But well, I can't keep slipping out forever, can I?
+"Well, I can't sneak away from my problems forever, can I?
 }
 [sha:d2bad7283c9f284c1bb22c31720890ea6ef75497]{
 -- Page 130, Offset 3934.
 -- 観念して職員室にもーどろっと。
-I'm giving up and going back to the staff room.
+I guess I'll give up and head back to the staff room.
 }
 [sha:ecc76d25b20a659ddced449a7c1efb7b06b1015b]{
 -- Page 130, Offset 3935.
 -- それにしても……ふふ、迷子ですか、ってなに。ここ学校なのに、おっかしー！　それとも、それって日本人のナンパの定型だったりする？」
-But still... fufu. What do you mean by 'are you lost?'. Even though we're in school, that's so weird! Or is that just a Japanese pick-up line?"
+But still... {i}ehehe%{/i}.
+ 'Are you lost'?
+ That just cracks me up! We're at school!
+ Ah, or was that a Japanese pick-up line?"
 }
 [sha:e4aab9cb3360e6f20923d3fb47fbef2fdceba22b]{
 -- Page 131, Offset 3936.
@@ -151,12 +157,12 @@ But still... fufu. What do you mean by 'are you lost?'. Even though we're in sch
 [sha:4b5e3c3ae55993d98955ae013bfc7183cf65bb0b]{
 -- Page 131, Offset 3937.
 -- 「分かってる分かってる、困らせただけさ☆
-"I know, I know. I'm just messing with you ☆.
+"I know, I know. I'm just messing with you ☆
 }
 [sha:86bc9550f3411b6618e1138ed9a774331f756b3b]{
 -- Page 131, Offset 3938.
 -- じゃあまたね志貴クン。素敵な気遣いありがとう♥」
-See you later, Shiki-kun. Thank you for being so considerate ♥."
+See you later, Shiki-kun. Thank you for being so considerate ♥"
 }
 [sha:a7e98bf39a2d8a1c562770c709109d32f826259b]{
 -- Page 132, Offset 3939.
@@ -166,7 +172,7 @@ Noel-sensei hums as she walks down the stairs.
 [sha:f530c27a2e4255a744defb249555428d5bdc48bb]{
 -- Page 132, Offset 3940.
 -- 本当にふわふわした先生だ。
-She's a teacher with soft manners.
+She really is quite a carefree teacher.
 }
 [sha:358049feb02010ecc7db6b0cf920152ecccf96a9]{
 -- Page 132, Offset 3941.
@@ -181,10 +187,10 @@ But...
 [sha:21ac50d87f8e848b6e88255a9885c43b01f5a42f]{
 -- Page 133, Offset 3943.
 -- 新しい担任として、クラス全員の生徒の顔と名前は暗記済みらしい。
-As the new homeroom teacher, she seems to have already memorized the names and faces of all the students in her class.
+Did she already memorize the faces and names of all the students in the class now that she's the new homeroom teacher?
 }
 [sha:dfb39a6f0a686441c91adb687f90e23e64ec76bf]{
 -- Page 133, Offset 3944.
 -- 態度で誤解してしまいそうだけど、熱心な先生なのかもしれない……。
-I might have misunderstood her attitude, she might be a dedicated teacher after all...
+Maybe I misunderstood her, she might really be a dedicated teacher after all...
 }
