@@ -24,10 +24,10 @@ end
 
 ; Enable recording video
 0xfbf54
-call #0x153920
+jump #0x153920
 end
 
 ; Enable taking screenshots
 0xfbf68
-call #0x153940
+jump #0x153940
 end
