@@ -120,18 +120,31 @@ I'm grateful.
 [sha:a1aadcbb8c25454cf4b27d2ef2fd75bb291867ae]{
 -- Page 411, Offset 32842. Glued. Mods: @x.
 -- ヤツが<知|ヒ><性|ト>らしくあろうとするほど、俺はそれらに怒りを覚える。
-// Seems like 怒りを覚える is used as incite, become angry rather than just _remember_ anger
+// 怒りを覚える is used as incite, become angry rather than just _remember_ anger
  The more he acts like a human, the more furious with him I become.
 }
 [sha:32d150871b144fdb19b34059bb508b86988192de]{
 -- Page 411, Offset 32843.
 -- もう、そこに固執しなくていいのだと、<嗤|わら>い至る。
-Knowing I won't have to put up with him much longer brings a smile to my face.
+// Leading theory for this line is:
+// Axioms:
+// - Shiki doesn't want to kill people
+// - Roa is acting like people
+// Conjecture:
+// - Shiki doesn't want to kill Roa
+// However:
+// - Roa acting like people pisses Shiki off
+// - A pissed-off Shiki doesn't care about not killing humans
+// Ergo:
+// - Roa acting human, which would have made Shiki loathe to kill him,
+// has actually made Shiki so mad that it's the opposite effect. What an amusing turnabout.
+In fact, I'm already so angry that him seeming human isn't enough to give me pause.
+ It's almost enough to make me laugh.
 }
 [sha:2a0226dfb0fc868f7650e169a35b8000d6d013d7]{
 -- Page 412, Offset 32844.
 -- 「……一つ目に訊くことが一番大事なんだけどさ。
-"...The first question is the most important, you see.
+"...I'll start with the most important question.
 }
 [sha:03afc08d013e896fa73aae96b717c2715e231b4b]{
 -- Page 412, Offset 32845.
@@ -141,32 +154,36 @@ You―――why did you kill Arcueid?"
 [sha:0a189155777fc5eae0af39dff79296f95ead75d8]{
 -- Page 413, Offset 32846. Mods: @n.
 -- 「何故もあるまい。
-"That's obvious.
+"It's not like I had any real reason.
 }
 [sha:a4c3bb81e5f47830def79b6b1c137362ba0e815e]{
 -- Page 413, Offset 32847. Glued.
 -- 自分の命が狙われているんだ。殺し返すのは当然だろう？
- Because she was trying to take my life. Isn't it only natural that I kill her in return?
+ She was after my life. Isn't it only natural that I kill her in return?
 }
 [sha:f0460a7b08b7610c74a7cbfc1a7c7a983d8a07cc]{
 -- Page 413, Offset 32848.
 -- もっとも―――私が欲しかったものは弱りきった姫君ではなかったが。今回の私なら最高の状態にしあげた彼女を解体できた。……だというのに、その機会は失われた」
-Then again―――what I really wanted was by no means this weak excuse of a princess. In this current form, I could have taken her down at full power... and yet that chance never came."
+// Assuming he's being close to literal with 解体 when combined with later 手に入れる?
+Though I have to say―――that broken-down excuse of a princess is hardly what I'd been hoping for.
+ In my current incarnation, I could have taken her apart bit by bit even if she'd been in her prime.
+ Alas... I never got the opportunity."
 }
 [sha:4517f9cb0714b743912c248daab9af3d253a28f9]{
 -- Page 414, Offset 32849.
 -- 「一介の吸血鬼と変わらぬ真祖で手に入れても意味はない。
-"There's no meaning in laying my hands on a True Ancestor that's no different from a mere vampire.
+"There's nothing to by gained by getting my hands on a True Ancestor that's no different to any other vampire.
 }
 [sha:d18aeffe6f6d8f85b44402eb91e2ec1ed4bf1771]{
 -- Page 414, Offset 32850.
 -- よって価値がないと判断し、始末をつけた。こんな結果に終わったのは、私にとっても残念だよ」
-I concluded that she was worthless, and thus I ended her life. The fact that it ended this way is a complete shame."
+I concluded that she was worthless, and disposed of her.
+ It's not as though I'm pleased that this is the way things played out either, you know."
 }
 [sha:9baf31adb952de2aedbf4f2971494b4869f442a7]{
 -- Page 415, Offset 32851.
 -- 口元をゆがめて敵は笑った。
-The enemy warps his lips into a grin.
+The enemy's lips twist into a grin.
 }
 [sha:a1980f33f0cd96e9486f061e111e7794886940a8]{
 -- Page 415, Offset 32852. Mods: @n.
@@ -181,7 +198,7 @@ The enemy warps his lips into a grin.
 [sha:5f9b8a2d5727f909f5304647cdc9f425ec11fca9]{
 -- Page 415, Offset 32854.
 -- 早く。一刻も早く、息の根を止める。
-Now. Take his life away, right here and now.
+Now. Take his life away, right here right now.
 }
 [sha:0f1ac2ae407e445aa1c8bd7b1175da7c3d91c5a2]{
 -- Page 415, Offset 32855.
@@ -196,12 +213,12 @@ I can't stand the thought of him 'existing' for even a second longer.
 [sha:8620bac62396edeea2cf1a5642460e64e09ab2b4]{
 -- Page 416, Offset 32857.
 -- まさか、その体で私とやりあおうというハラでもあるまい。
-Surely you're not going to challenge me with that body of yours.
+Don't tell me you plan on challenging me with that body of yours.
 }
 [sha:9e76edae9982ed48370b19702beff1a7ea56499e]{
 -- Page 416, Offset 32858.
 -- 無様な抵抗ほど冷めるものはないぞ、殺人鬼」
-I am not so foolish as to lower my guard, murderer."
+I'm not so relaxed as to have let my guard down, murderer."
 }
 [sha:3182f06fc5d7b6574f675a7a89e0428297f03b0f]{
 -- Page 417, Offset 32859.
@@ -211,17 +228,21 @@ I am not so foolish as to lower my guard, murderer."
 [sha:0496a3c5414bdf8d9750685aa15c1e64c66c1f87]{
 -- Page 417, Offset 32860.
 -- くらり、と眩暈がして、床に<跪|ひざまず>いた。
-Feeling dizzy, I kneel to the floor.
+Dizziness grips me, and I slump to my knees on the floor.
 }
 [sha:dfd112a71bb701c262cfd140c7cf31689948df79]{
 -- Page 417, Offset 32861.
 -- それでも―――もう起きあがる力さえないというのに、凝視する<も|・><の|・><が|・><あ|・><る|・>。
-And yet―――even though I no longer have the power to stand up, I have something to look up to.
+// Flag: check what he's actually looking at
+However―――even if I no longer have the strength necessary to stand,
+ I still have something I can fix my eyes on.
 }
 [sha:dccef6c5c7164b0f9b667556a5979c3e20020dbd]{
 -- Page 418, Offset 32862.
 -- 「よせよせ。いくら私の死を視たところで触れられなければ意味はないし、その戦意は間違えている」
-"Settle down. It doesn't matter that you can see my death when you can't even touch me. That fighting spirit of yours is misplaced."
+"Give it a rest already.
+ You can stare at my death all you want, but it doesn't do you any good if you can't even touch me.
+ That fighting spirit of yours is misplaced."
 }
 [sha:6dd2bda09623454f046772d6fbffd75ff3a41153]{
 -- Page 418, Offset 32863.
@@ -231,17 +252,19 @@ And yet―――even though I no longer have the power to stand up, I have somet
 [sha:451736c48df493d2fe7211809be6061ac9c460a0]{
 -- Page 419, Offset 32864.
 -- 「そうだ。君は私の敵にはなりえない。
-"That's right. I don't see you as my enemy.
+"That's right. It's impossible for you to be my opponent.
 }
 [sha:577a58e0223a7ac00b305c4940e049da6987b6da]{
 -- Page 419, Offset 32865.
 -- 性能の差を言っているのではない。殺害が可能か不可能かの喩えでもない。
-It is not a matter of differences in our ability. Neither is it a matter of whether you can kill.
+It's not a matter of the different in ability between us.
+ Nor is related to the question of whether you could or couldn't kill.
 }
 [sha:6cdda06bb0d0210b79a3bb27dfde9fc2b33ab6e4]{
 -- Page 419, Offset 32866.
 -- 君にはある一点において、私を敵にする真理が欠けている」
-In some sense, you lack the truth that makes you my enemy."
+If there's one thing holding you back,
+ it's that you lack a truth that makes me your enemy."
 }
 [sha:eb8a1f5d4ce1179a95007e17a428905717dc25dc]{
 -- Page 420, Offset 32867. Mods: @n.
@@ -251,22 +274,24 @@ In some sense, you lack the truth that makes you my enemy."
 [sha:0e8f5714b6dbeb6d3d329c6eaf11a6e1c1bf315a]{
 -- Page 420, Offset 32868. Glued.
 -- その言葉は、唯一、記録に<値|あたい>するものだった。
-Those words are the only ones worth remembering.
+Out of everything he's said, those are the only words worth anything.
 }
 [sha:35d842cf861cf9dee589b66385e7cafab0790d75]{
 -- Page 420, Offset 32869.
 -- これまでも、これからも、この男の言葉なぞ覚えておく価値はない。しかし今の言葉だけは、この男の真実が含まれていた気がする。
-The man's words before and after what he just said have no value to be remembered. But this time, I feel like what he said contains his truth.
+There's no sense in remembering anything he's said up to this point, or anything he might say after.
+ But I feel that the words this man just uttered embody his own inner truth.
 }
 [sha:d292f38ca4e297ce35d2330b80ef7ea795af87cd]{
 -- Page 421, Offset 32870.
 -- 「私は君の能力を高く買っている。
-"I value your ability highly.
+"I hold your abilities in high regard.
 }
 [sha:ea62baeb9a6656fd583d363874fe3a587f3b2706]{
 -- Page 421, Offset 32871.
 -- ……ふむ、どうもシキとしての人格は消えつつあるらしい。遠野志貴への恨みを晴らした以上、今の私はシキよりではなくロアよりというコトか」
-...Hmm. It appears that SHIKI's personality is fading away. Now that I've settled his grudge against you, I am closer to Roa than SHIKI."
+...Hmm. It appears that SHIKI's personality is fading away.
+ I suppose now that I've settled his grudge against you, I'm becoming less like SHIKI and more like Roa."
 }
 [sha:f36e04e4cdd4404dd72223f38081841817b1b82d]{
 -- Page 422, Offset 32872.
@@ -276,32 +301,34 @@ He approaches me.
 [sha:8becebc040cb05c7485a0707b66ec4ea8fe4e530]{
 -- Page 422, Offset 32873.
 -- その足音が響く度に、この<輪郭|からだ>が溶けていく。
-My body melts with each sound of his footsteps.
+With each echoing footstep, the silhouette of his body begins to melt.
 }
 [sha:cf2cb5a773809b77912bea893ea61b4de3064ec9]{
 -- Page 422, Offset 32874.
 -- 錯覚か。錯覚だろう。実際に溶けてはいない。溶けているのは視界の方だ。
-Am I hallucinating? This must be a hallucination. I'm not actually melting. If anything, it's my vision that's melting away.
+Am I hallucinating? I must be. He isn't actually melting. It's my vision that's actually starting to dissolve.
 }
 [sha:62b219ef3b1eac51ca41e982ead075177121d353]{
 -- Page 422, Offset 32875.
 -- ヤツへの怒り。憎しみ。己への怒り。憎しみ。
-His anger. His hatred. And then my anger. My hatred.
+Anger directed at him. Hatred directed at him.
+ Anger directed at myself. Hatred directed at myself.
 }
 [sha:aa1d3a3582a85ba1358750ad10ad410707d1e785]{
 -- Page 422, Offset 32876.
 -- 感情は混ざりあい、沸騰し、閉じていた蓋を上下させる。
-The emotions blend together and boil, causing my closed-off lid to move up and down.
+These emotions blend together and come to a boil,
+ the pressure threatening to blow the lid I've clamped over them clean off.
 }
 [sha:a61d9d10cc079d79496268cf04d5bce5c02f9118]{
 -- Page 423, Offset 32877.
 -- ―――ああ。脳の彼方で、<夏|せみ>の悲鳴が、手招いている。
-―――Ah. On the other side of my brain, the shriek of cicadas beckons me.
+―――Aah. From the other side of my brain, the cries of cicadas are beckoning to me.
 }
 [sha:b14eec15739550bd3afc687fc876485894043e21]{
 -- Page 423, Offset 32878. Mods: @n.
 -- 己という孔から。ごぼり、
-From the hole that is myself. Bubbling
+Something is bubbling up from the pit within me
 }
 [offset:32879]{
 -- Page 423, Offset 32879. Glued. Mods: @n.
@@ -311,12 +338,12 @@ From the hole that is myself. Bubbling
 [sha:73f779f6d4d445058fdedfa274b78fde5b93703f]{
 -- Page 423, Offset 32880. Glued. Mods: @n.
 -- 定義しては、
-In other words,
+ In other words,
 }
 [sha:2d9f03b4a5badd484c4c1abbe35197fc3e86822e]{
 -- Page 423, Offset 32881. Glued. Mods: @n.
 -- いけないモノ
- something forbidden
+ something rotten
 }
 [sha:019b06c234ca8aff7d075148dad9357c5f51cae6]{
 -- Page 423, Offset 32882. Glued.
@@ -326,7 +353,7 @@ In other words,
 [sha:2464807e40785353aef979c8af860cfc7e64cd24]{
 -- Page 424, Offset 32883.
 -- 「この力は素晴らしいだろう、志貴。
-"Don't you think this power is magnificient, Shiki?
+"Don't you think this power is magnificent, Shiki?
 }
 [sha:5d8fa44db3860015ad3425caaaf74f8b44514840]{
 -- Page 424, Offset 32884.
