@@ -17,7 +17,7 @@ It's like a small typhoon swept through the halls,
 [offset:32502]{
 -- Page 301, Offset 32502.
 -- 「っ……！」
-"Gh...!"
+"%{i}Gh%{/i}...!"
 }
 [sha:ba341954b32c5a12a8735d1bda0899bee2a2dc18]{
 -- Page 301, Offset 32503.
@@ -100,7 +100,7 @@ That's why―――I can't stop here...!
 [sha:b7d1e730c4ee8f9b6eaeff9b5ec2339b0a855530]{
 -- Page 307, Offset 32517.
 -- 「はあ―――はあ―――はあ―――――！」
-"Hah―――hah―――hah―――――!"
+"%{i}Hah%{/i}―――%{i}hah%{/i}―――%{i}hah%{/i}―――――!"
 }
 [sha:acad4917f2969da0a70b8b3ad3f6739eeb42696e]{
 -- Page 307, Offset 32518.
@@ -120,7 +120,7 @@ All the way down to the walkway that connects the two school buildings together.
 [sha:cf8a8720b24aef75331db84f29a463b0ec9c6baf]{
 -- Page 308, Offset 32521.
 -- 「く―――――そ！」
-"Kh―――――shit!"
+"%{i}Kh%{/i}―――――shit!"
 }
 [sha:366f8a59a741b4c7521874f58782fbbe832bd1d4]{
 -- Page 308, Offset 32522.
@@ -188,7 +188,7 @@ She seems utterly drained, and her body is the verge of collapse.
 [sha:e1fd551c6179928bc6a0f63fdd09ba8eb5ac0a4c]{
 -- Page 314, Offset 32534.
 -- あの夜。ホテルの最上階で見た美しい花は、もう、見る影もなくなっている―――
-She is now only a shadow of the beautiful flower I saw in the penthouse of the hotel room that night―――
+She is now only a shadow of the beautiful flower I saw in the penthouse hotel room that night―――
 }
 [sha:f2447c56106aaa2816b2f84c89163c64354d0605]{
 -- Page 315, Offset 32535.
@@ -386,7 +386,7 @@ His body immediately restores itself, and he shows no signs of slowing down.
 [sha:bce3febe0032ea0ac24728aab1462e878128c2f3]{
 -- Page 327, Offset 32572.
 -- 姫君はおまえを逃がす為に、私と刺し違える事にしたらしい。だが―――」
-It seems like the princess has decided to sacrifice herself to spare your life. However―――"
+It seems like the princess has decided to cross swords with me to save your life. However―――"
 }
 [sha:902f0f89236918f7d5b7f80bf4bc8f3d04432798]{
 -- Page 328, Offset 32573.
@@ -417,6 +417,7 @@ Arcueid's voice rings out across the walkway.
 -- 「一時的な物理現象の書き換え。自然現象、空間に在る熱量の自由操作。真祖が持つ、星の触覚としての当然の権利。
 // Man what the fuck
 // Interpreting 空間に在る熱量 as total KE in a system / enthalpy
+// Flag translation of 星の触覚 in a broader context
 "The ability to temporarily rewrite physical phenomena.
  The power to manipulate natural phenomena as you see fit, to exercise control over enthalpy.
  Such are the natural rights of True Ancestors as the kinesthetic sense of the planet itself.
@@ -424,7 +425,7 @@ Arcueid's voice rings out across the walkway.
 [sha:9d0396a14b12571e967015ba119155f68d54d5fc]{
 -- Page 330, Offset 32578.
 -- まさに創造の権能だ。いかな魔術を極めようと、人間ではおまえたちには遠く及ばない」
-Truly, rulers over all of creation.
+Truly, the Authority of Creation.
  No matter how much humans strive to master Magecraft,
  we will never manage to measure up to people like you."
 }
@@ -437,11 +438,12 @@ Truly, rulers over all of creation.
 -- Page 331, Offset 32580.
 -- 繁栄し、学習し、独立し、知恵ある<動|サ><物|ル>として進化した人間は、もうこの星とは違う分類だからだ」
 That's because humans have evolved into primates possessed of prosperity, knowledge, independence, and wisdom.
- We are no longer of the same species as this planet."
+ We can no longer be considered to exist in the same category as this planet."
 }
 [sha:a7bb6f8352c4e4346745c0ca96b8e3d7deb81ae2]{
 -- Page 332, Offset 32581.
 -- 「出来る事といえば、こうして真空を作りあげ私にあてがう事ぐらい。
+// Flag
 "The best you can hope to do now is seal me off inside a vacuum of your own creation.
 }
 [sha:3749ec712f0655673ac9287f26cb54cec6069b3f]{
@@ -941,7 +943,7 @@ He does it effortlessly, as though simply severing a line.
 [sha:3b34381ab70e3b536f681f8e01529aeb154fed4d]{
 -- Page 362, Offset 32670.
 -- どさり、と。
-%{i}Thud.%{/i}
+%{i}Thud%{/i}.
 }
 [sha:9812816cd18b3c76e7c0c3cb1cbc839743725c51]{
 -- Page 362, Offset 32671.
@@ -1375,7 +1377,7 @@ But she is shaking her head.
 What are you still afraid of?!
  Listen to me.
  Do you remember what you said a couple days ago?
- You asked me if I'd still eat birds or fish even if they had the same level as intelligence as me.
+ You asked me if I'd still eat birds or fish even if they had the same level of intelligence as me.
 }
 [sha:28c34a73ac40bbef4da593659d42586b51260eb8]{
 -- Page 387, Offset 32756.
