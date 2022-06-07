@@ -84,7 +84,7 @@ The hands on my watch carefully and accurately mark the passing hours.
 [sha:ffbb872dcc303ba449460ae45e4c5245ea3be029]{
 -- Page 162, Offset 29964.
 -- こんな時間、息がつまる。
-It's gotten so late. I feel like I'm going to choke.
+It's gotten so late. I feel like I'm suffocating.
 }
 [sha:8d2a027a0a0f83feddbbd0992842ad72b5c2acac]{
 -- Page 162, Offset 29965.
@@ -165,7 +165,7 @@ Never again will Arcueid and I spend the night together, feeling this sense of c
 [offset:29979]{
 -- Page 167, Offset 29979.
 -- 「………はあ」
-"...Sigh..."
+"...%{i}Sigh%{/i}..."
 }
 [sha:1f6a6de4b9f3b474bf3356b8c659d980c6b731b6]{
 -- Page 167, Offset 29980.
@@ -199,7 +199,7 @@ It seems the person in question is trying to conceal themselves,
 [sha:d6397a19c94bd024b0d444b51e84cf8500a0c39b]{
 -- Page 169, Offset 29985.
 -- 「おい。もう３時だぞ。いつまで待たせるんだ、ばか」
-"Oi, it's already three in the morning. Just how long were you planning on keeping me waiting?"
+"Oi, it's already three in the morning. Just how long were you planning on keeping me waiting, dumbass?"
 }
 [sha:12ed0fa1413d825489b3f28a10bea6b4711893a4]{
 -- Page 169, Offset 29986.
@@ -209,7 +209,7 @@ Without standing up from the bench, I call out to the other side of the pavilion
 [offset:29987]{
 -- Page 169, Offset 29987.
 -- 「……っ」
-"Nn."
+"%{i}Nn%{/i}."
 }
 [sha:90c8eaa013a00d4ef446408127cd3a8c58291263]{
 -- Page 169, Offset 29988.
@@ -302,7 +302,7 @@ It feels as though this moment is stretching on forever.
 [sha:45b883f4c243c7815a53426991ac50f0b0145bf0]{
 -- Page 174, Offset 30005.
 -- 実際ではおそらく百に満たず秒針が動いて。
-In realty, probably fewer than a hundred seconds expire under the second hand of my watch.
+In reality, probably fewer than a hundred seconds expire under the second hand of my watch.
 }
 [sha:67e5c26bc161f19f28a7185da5c70cfdff6f2a17]{
 -- Page 174, Offset 30006.
@@ -324,7 +324,7 @@ I ended up coming because I couldn't stand to leave you like this...
 -- Page 176, Offset 30009.
 -- 口調は、ところどころつぎはぎだらけだったけど、とりあえず普段の彼女と同じ明るさだった。
 Her voice faltered slightly here and there as she spoke,
- but for the most part it carried the same cheerful tone it had always held.
+ but for the most part, it carried the same cheerful tone it had always held.
 }
 [sha:d5b7b2eef981f95939aa7d120006e0b631fb80b1]{
 -- Page 177, Offset 30010.
@@ -468,7 +468,7 @@ Because I'm an idiot... I didn't notice your lies.
 [sha:fb21817313c50d7abad48b4225569bc83ea93944]{
 -- Page 185, Offset 30037.
 -- 「……あいつら。埋葬機関はいつからそんなにお喋りになったのかしらね」
-"Damn them. When did the Executors get so chatty."
+"Damn them. When did the Burial Agency get so chatty."
 }
 [sha:89669f43b86985fab2dd4c225e5d0222ea97eb9b]{
 -- Page 185, Offset 30038.
@@ -574,7 +574,7 @@ If I'd done that―――I would've been able to settle it by myself."
 [sha:6f0dee89f6871819b5e58612034f77597e996913]{
 -- Page 192, Offset 30057.
 -- ……ああ、ダメだ。やっぱり俺は、こいつ相手になると最低の人間になってしまう。
-Aah, it's no good. Going up against her really does bring out the worst in me.
+...Aah, it's no good. Going up against her really does bring out the worst in me.
 }
 [sha:c7dedc9fe4b293037216aa1d103b4826457661fa]{
 -- Page 192, Offset 30058.
@@ -830,7 +830,7 @@ That that'd be the best for both of us..."
 [sha:81d7e571d709c8399217de9c4d109b3f6fe5ddd6]{
 -- Page 209, Offset 30105.
 -- でも待ち合わせはここで終わり。
-But with this, our rendezvous is over.
+But with this, our rendezvous are over.
 }
 [sha:81ec443118bcd50d30b43295996ac0fd3bc038cb]{
 -- Page 209, Offset 30106.
@@ -1057,12 +1057,12 @@ With my gaze, I say the things that shouldn't be put into words.
 -- Page 223, Offset 30148.
 -- こうしている今も―――アルクェイドの心音をきいて、気が狂いそうなぐらい、欲情してる」
 // Not really sure how to work 欲情してる in here--It's kinda tacked on the end rn.
-Even here, like this―――hearing your heartbeat is driving me mad with passion."
+Even here, like this―――hearing your heartbeat is driving me mad with lust."
 }
 [sha:7251e16545ede5b2abc9d540ea244b61464c648d]{
 -- Page 224, Offset 30149.
 -- とくん、と。
-%{i}Badump.%{/i}
+%{i}Badump%{/i}.
 }
 [sha:2269b360994fd0f095bd10ce5dbab90ca80c3274]{
 -- Page 224, Offset 30150.
@@ -1100,7 +1100,7 @@ Unless―――You hate me?"
 [sha:f8ccf3036a2aac24de4c072bdebcd140b48992ba]{
 -- Page 226, Offset 30156.
 -- とく、ん。
-%{i}Badu――mp.%{/i}
+%{i}Badu――mp%{/i}.
 }
 [sha:1a8e637512f9e0b296fd6028fa130bd26fda1819]{
 -- Page 226, Offset 30157.
@@ -1120,12 +1120,12 @@ I no longer feel her heartbeat.
 [sha:da86184e3a5d806ce66a19ff86fd64a3d30f09b2]{
 -- Page 226, Offset 30160.
 -- その代償に、彼女の両腕が、応えるように俺の背中にまわされる。
-Instead, I feel her arms wrap tightly around my back, as if in answer.
+Instead, I feel her arms wrap tightly around my back, as if in response.
 }
 [sha:b1270fd94e769e8fe5343919273a27a4336f936e]{
 -- Page 227, Offset 30161.
 -- はじめは優しく。
-At first it was gentle.
+At first, it was gentle.
 }
 [sha:abb2e6757cedd268c4a2d518d5c865946a4b473d]{
 -- Page 227, Offset 30162.
@@ -1151,7 +1151,7 @@ I'm not even really sure myself who ended it.
 -- Page 228, Offset 30166.
 -- ただ申し合わせたように、俺たちは互いの顔を見るために、抱きしめた腕を解きあった。
 But, as if by some unspoken agreement,
- we release our entwined arms to meet each others' gaze.
+ we release our entwined arms to meet each other's gaze.
 }
 [sha:8eaa978afc424a226a1e857f05b10c5b2c0e8cc7]{
 -- Page 229, Offset 30167.
@@ -1176,7 +1176,7 @@ She's really here, right now, right in front of me.
 [sha:968f1ab1cecacdefce0c5e1b7abf94611f189047]{
 -- Page 230, Offset 30171.
 -- 俺たちの距離が離れる事は、もう決してないのだと。
-I'm certain that the two of will never again be apart.
+I'm certain that the two of us will never again be apart.
 }
 [sha:0e54e32eba5966dee0935d929f6c37a722064f70]{
 -- Page 231, Offset 30172.
@@ -1252,7 +1252,7 @@ Arcueid was trying to avoid bringing up what happened in that alley out of consi
 -- Page 235, Offset 30185.
 -- ……信じられない。もしかして吸血鬼じゃなくて悪魔なんじゃないのか。
 ...I don't believe it.
- Maybe she isn't a vampire after all, but some sort of demon.
+ Maybe she isn't a vampire after all, but some sort of succubus.
 }
 [sha:15f8e6704a291dfa460437f4be950fdd409648f1]{
 -- Page 235, Offset 30186.
@@ -1365,7 +1365,7 @@ While gazing directly into my eyes, she says those words.
 [sha:93134910fba6fec6a338c7e1057708a8629c88ab]{
 -- Page 243, Offset 30206.
 -- 「きゃっ！？」
-"Kya!?"
+"%{i}Kya%{/i}!?"
 }
 [sha:167a907281d2798a2f567a5d8ca8a4c7f7715016]{
 -- Page 243, Offset 30207.
@@ -1450,7 +1450,7 @@ Ah. I'm sorry, I'm all too aware of that myself.
 -- Page 247, Offset 30222.
 -- 「……でも、可笑しいね。殺した男と殺された女が、こうして抱き合ってるなんて」
 // boy and girl for a maybe failed "boy meets girl" allusion? this is kinda cheesy in a funny way i like it
-"But... it's funny, isn't it? Killer boy and victim girl embracing each other like this?"
+"But... it's funny, isn't it? Killer boy and victim girl embracing each other like this."
 }
 [sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
 -- Page 247, Offset 30223.
@@ -1465,7 +1465,7 @@ As she whispers that, Arcueid's body starts trembling.
 [sha:b97c23380c7893cf5d2729215a7acf2812cef6a9]{
 -- Page 247, Offset 30225.
 -- 傷が痛むのだろうか……？
-Is her wound hurting?
+Is her wound hurting...?
 }
 [sha:d1ca0da4312b97dcfc8e060a0f95b4727676fa86]{
 -- Page 248, Offset 30226.

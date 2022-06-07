@@ -1,62 +1,68 @@
 [sha:488ab284e198af632389f6cd60f770054f29dc3f]{
 -- Page 1, Offset 31668.
 -- ――――ずっと、家族とは他人なんだ。
-――――For a long time, I've felt like I didn't belong.
+――――For as long as I can remember, I've felt alienated from my family.
 }
 [sha:8f18c2b5ed7bae0df5dc6bb3c5ae280b586712e9]{
 -- Page 1, Offset 31669.
 -- そんな言葉を、幼い頃から持っていた。
-I've carried that thought since I was a child.
+It's a thought that's been with me ever since I was a child.
 }
 [sha:3a7e8e0da6a9923dd895c73e6bbd8b65a8f36796]{
 -- Page 1, Offset 31670.
 -- 遠野の家から有間の家に預けられた時から。
-Ever since the time I was sent from the Tohno family to the Arima family.
+Since the moment I was sent away from the Tohno household to live with the Arimas.
 }
 [sha:f596698250174a48d0f4d94cc0cf264b178bc699]{
 -- Page 1, Offset 31671.
 -- いや、正確にはもっと昔から、ずっと、家族とは他人だった。
-No, to be precise, my family were like strangers to me from way earlier.
+No, on second thought, I felt this way long before that happened.
 }
 [sha:7526265f6ee3e06038fa9bbba0f0c9a5ea9366df]{
 -- Page 2, Offset 31672.
 -- どうしてなんだろう、と疑問に思う事もない。
-I don't even need to ask myself why I feel that way.
+I've never had to ask myself why it is I feel that way.
 }
 [sha:60a3bf54b147576f01b8400cfaa8ac838d82a604]{
 -- Page 2, Offset 31673.
 -- 気がつけばひとりで。まわりには両親らしき人たちがいたから、そこの子でいようと自分なりに頑張っただけ。
-I realized that I was alone. There were people around me that looked like my parents, so I simply tried my best to behave like their child.
+// Reading 気がつけばひとりで as 'I have been alone from the time I was capable of being aware of that fact'
+I started out in this world alone.
+ There were people around me that looked like my parents, so I simply tried my best to behave like their child.
 }
 [sha:ae61ba82f8460718ae54b39dcb9b522cf7ca7264]{
 -- Page 2, Offset 31674.
 -- 古い座敷のある家が一番はじめの家だったと思う。
-That house with the old tatami room may have been my first home.
+// Dunno if anyone knows the exact floorplan of the Nanaya house but I imagine
+// that 座敷 refers more to _all_ the rooms being tatami than it being a house
+// with just the _one_ tatami room? It seems like a pretty traditional place.
+I think that house with the old tatami floors may have been my first home.
 }
 [sha:64ffbd58f8c26b00a87dc1a9a17211b26ea9406a]{
 -- Page 2, Offset 31675.
 -- そこから、何かの事故で大きな洋館に引き取られた。
-From there, I was taken to an giant western-style home after some incident.
+After some incident happened, I was taken from there to a giant western-style mansion.
 }
 [sha:0dc57f82ffd9620521507cd8d056b6b0025d2adb]{
 -- Page 3, Offset 31676. Mods: @n.
 -- ……洋館には同い年ぐらいの兄妹がいて
-...When I arrived, there was a brother and sister around the same age
+// Assuming 同い年 applies between Shiki <=> (SHIKI + Akiha) rather than between SHIKI and Akiha
+...At that mansion was a pair of siblings, a brother and a sister, who were around the same age as me
 }
-[sha:76f476cda4fe3e481152fd88146308864a5e076a]{
+[offset:31677]{
 -- Page 3, Offset 31677. Glued. Mods: @n.
 -- 、
-,
+.
 }
 [sha:198dca19582677cd053c7315166a5e3d60c4cb9a]{
 -- Page 3, Offset 31678.
 -- 自分とは、とても仲がよかったと、思う。
-Personally, I thought that we got along really well.
+I felt that I got along really well with them.
 }
 [sha:ad854ec29d9b52707fea5e75a03854aeeeeac79b]{
 -- Page 3, Offset 31679.
 -- でもその兄妹の父親とは、ずっと壁があったままだった。
-But there had always been a wall between them and their father.
+However, I always got the sense there was a wall between me and their father.
 }
 [sha:9901d56a487c1d046e900677acbefc0959e9d5c8]{
 -- Page 3, Offset 31680.
@@ -71,7 +77,8 @@ I went to great lengths in order for us to become an ideal family.
 [sha:e1706b05515e74f315e414a55f2226422faa2d79]{
 -- Page 3, Offset 31682.
 -- 血の繋がりはなくても親子だと信じるように。
-Even if we weren't related by blood, I tried to believe that we were truly father and son.
+// Reading ~ように as relating to his effort in prev line.
+I wanted him to believe that we were father and son, even if we weren't related by blood.
 }
 [sha:006812cec330f15c14b19834885bdabc2a2164e1]{
 -- Page 4, Offset 31683.
@@ -86,22 +93,22 @@ After getting involved in a major accident, I was taken to the hospital.
 [sha:0ba12e9070bcd40150dc8c22b2b4c45f374759b9]{
 -- Page 4, Offset 31685.
 -- 誰も見舞いに来なくて、自分の目がおかしくなった。
-No one came to visit me, and my eyes were messed up.
+No one came to visit me, and my eyes went haywire.
 }
 [sha:14dc463593c53394808a79c137bef059bcc42e34]{
 -- Page 4, Offset 31686.
 -- それまでもひとりで、けっきょくは独りで。
-I was alone until then, and in the end, I was still alone.
+I'd been alone before, and in the end, I was alone again.
 }
 [sha:e0bb10e007b91b53b0ea0fb606835784628b54dc]{
 -- Page 4, Offset 31687.
 -- もう、そのまま消えてしまおうかと思っていた。
-I thought to myself that I should just stay like this and disappear.
+I began to feel as though I should simply stay like that and fade away.
 }
 [sha:68432c27d87feb4a431e6632e598e3bba9714543]{
 -- Page 5, Offset 31688.
 -- あの、澄んだ青空みたいにキレイだった、魔法使いに出会うまでは。
-That is, until I came across that magician, beautiful as the clear blue sky.
+Or at least, I did until I crossed paths with that magician, beautiful as the clear blue sky.
 }
 [sha:08c8b872ec59ff2edcb9e00d67054e257d1d869a]{
 -- Page 6, Offset 31689.
@@ -116,17 +123,17 @@ That is, until I came across that magician, beautiful as the clear blue sky.
 [sha:bb81a958c6b1c0b7465d9950f82a0b18df3f7ab4]{
 -- Page 7, Offset 31691.
 -- ぼんやりと、そんな声が出た。
-I let out those words in a daze.
+I mumble those words in a daze.
 }
 [sha:90f372f56da4595233a1c342a00d02d9d5170910]{
 -- Page 7, Offset 31692.
 -- 体は指一本さえ動かないものの、声だけは出てくれる。
-Although I'm unable to lift even a single finger, I can at least let my voice out.
+Although I'm unable to lift even a single finger, I'm at least able to speak.
 }
 [sha:852da82eb0e02ed6ecd5b67d8db71f7f9682bd7a]{
 -- Page 8, Offset 31693.
 -- ……胸には包帯が巻かれ、ナイフは抜かれていた。
-...The knife has been pulled out and a bandage has been wrapped around my chest.
+...The knife has been removed, and a bandage has been wrapped around my chest.
 }
 [sha:bbc7a117ff6b118b81db9ef65c40ea61ed245fb0]{
 -- Page 8, Offset 31694.
@@ -136,7 +143,8 @@ As I come to my senses, I realize that this is my bedroom.
 [sha:67e0689674911578a5973e650ed7bb0cb56f72f6]{
 -- Page 9, Offset 31695.
 -- 「……兄さん？　気がついたんですね？」
-"...Nii-san? You're awake, aren't you?"
+// Intonation falling on the 気がついたんですね, feels of a statement despite the ?
+"...Nii-san? It appears you've come to."
 }
 [sha:c0ad1660a177ace2942f78e5b3c3332e74da0092]{
 -- Page 9, Offset 31696.
@@ -161,7 +169,7 @@ I stare at Akiha, unable to fully grasp the situation.
 [sha:050b1f28a830c1237b096b517d428a3a43700f8b]{
 -- Page 10, Offset 31700.
 -- 秋葉はどこか気まずそうに視線を逸らす。
-Akiha awkwardly averts her gaze.
+She awkwardly averts her gaze.
 }
 [sha:d038a1c1fb0875d633a729556a15d969b327fec0]{
 -- Page 11, Offset 31701.
@@ -171,17 +179,17 @@ Akiha awkwardly averts her gaze.
 [sha:6b1e5a3e79cc65cf3f99a87e3bfc2843ee2e36b6]{
 -- Page 11, Offset 31702.
 -- あいつに―――<四|ロ><季|ア>にやられたんだ、とは言えない。
-That guy―――I can't tell her that it was because of <SHIKI|R o a>.
+I can't tell her I got it from that guy―――from <SHIKI|R o a  >.
 }
 [sha:d738f294da3b8023bc0d04495783c06f2dd86a67]{
 -- Page 12, Offset 31703.
 -- そもそもこんな傷を負った俺を、秋葉はどうして受け入れてくれたのだろう。
-More importantly, why did Akiha easily accept that I had such a wound in the first place?
+Actually, hold on, how is Akiha so calm about the fact that I received a wound like this in the first place?
 }
 [sha:ddc37f221285978e3b7315582f958ca1f1c2d54a]{
 -- Page 12, Offset 31704.
 -- 胸にナイフが刺さった人間なんて、普通は病院に送るものだが。
-Usually a human with a knife plunged inside them would be sent to a hospital.
+You'd normally send someone with a knife sticking out of them straight to the hospital.
 }
 [sha:a544410cab40e0b43cac8a1581b5e3e961f93a3a]{
 -- Page 13, Offset 31705.
@@ -191,17 +199,17 @@ Usually a human with a knife plunged inside them would be sent to a hospital.
 [sha:35010a56e89663d7f7286bac1051c728794054ab]{
 -- Page 13, Offset 31706.
 -- 大体の事情はあの人たちに聞きましたから」
-I heard most of what happened from those people."
+I got the gist of what happened from those people."
 }
 [sha:1641082e4dbf2b0203f111bdd9fc56eb23322007]{
 -- Page 13, Offset 31707.
 -- 「……あの人って……先輩のことか？」
-"...By those people, you mean Senpai?"
+"Those people... You mean Senpai?"
 }
 [sha:bb3bdc1cb1ce3a552d091e509a2ce813fec1d044]{
 -- Page 13, Offset 31708.
 -- こくん、と伏し目がちに秋葉は頷く。
-Akiha nods with downcast eyes.
+Akiha nods, her eyes never leaving the floor.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 14, Offset 31709.
@@ -216,27 +224,28 @@ Akiha nods with downcast eyes.
 [sha:5fe4a8cc039561ac7fa50db19669b4cca3a3e46a]{
 -- Page 14, Offset 31711.
 -- 大体の事情、とはどのあたりまでの事情なのか。
-How much does she actually know when she says that?
+She says she got the gist of it, but just how much does she actually know?
 }
 [sha:c1b978ebf061af77adda7f09ffa7fc9f0b6f3808]{
 -- Page 14, Offset 31712.
 -- 先輩が秋葉をどう言い含めたか判らない以上、下手な質問はできない。
-Since I don't know the full extent to which Senpai has explained to her, I can't afford to ask a careless question.
+Since I don't know exactly how much Senpai has told her,
+ I can't afford to ask any careless questions.
 }
 [sha:9bbcfa960b0744dc6f8ee721bda43e0c0ee68dbc]{
 -- Page 15, Offset 31713.
 -- 「……それで、秋葉。先輩はどうしたんだ？」
-"...And so, Akiha. Where's Senpai right now?"
+"...So, Akiha. Where's Senpai right now?"
 }
 [sha:cc61d0100fc00156421ddf7fee44508222cd5244]{
 -- Page 15, Offset 31714.
 -- 「客間を与えましたので、そちらで休んでいるのでしょう。
-"I sent her to our guest room, so she's probably resting as we speak.
+"I granted her use of one of the guest rooms, so she's probably resting as we speak.
 }
 [sha:d6653b5cc432e15e39e26773f0a064bb3c3fa555]{
 -- Page 15, Offset 31715.
 -- 本来ならあのような悪党、屋敷に入る事は許可しませんが、仮にも兄さんを助けてくれた方です。無下には扱えません」
-I wouldn't normally let such a wretch inside the mansion, but I can't deny that she saved you. It would be rude to turn her away."
+I wouldn't normally let such a miscreant inside the mansion, but I can't deny that she saved you. It would be rude to turn her away."
 }
 [sha:23aea861972ccb52ae45dfa24eb8541c3004f23b]{
 -- Page 16, Offset 31716.
@@ -246,7 +255,7 @@ I wouldn't normally let such a wretch inside the mansion, but I can't deny that 
 [sha:bae12205e158b24c2ed60360002113122b3df6ae]{
 -- Page 16, Offset 31717.
 -- 悪党とはまた、秋葉はいつにも増して容赦がない。
-To think that Akiha would use words like wretch, she really is less forgiving than usual.
+Akiha must be in an even less forgiving mood than usual if she's pulling out words like 'miscreant'.
 }
 [sha:c24867a00ced3fb14d5cb2a0f74bd04ebb4c3588]{
 -- Page 17, Offset 31718.
@@ -256,27 +265,27 @@ To think that Akiha would use words like wretch, she really is less forgiving th
 [sha:b516e077dbd1a2d9db2b5c9aac291a922afe556c]{
 -- Page 17, Offset 31719.
 -- その胸の傷はシキに負わされたものですね」
-That wound on your chest was from SHIKI, wasn't it?"
+That wound on your chest is from SHIKI, isn't it?"
 }
 [sha:e7065807e1c4c26da45ae853e6553925c5c2424e]{
 -- Page 17, Offset 31720.
 -- きっぱりと。
-Just like that.
+She doesn't beat around the bush.
 }
 [sha:72bb3d7a4ba6122b76e33325a6f665167d433585]{
 -- Page 17, Offset 31721.
 -- 秋葉は、その事実を尋ねてきた。
-Akiha asks me about that fact.
+Akiha jumps straight to the heart of the matter.
 }
 [sha:653e6f82052432a5ddbd03defcf4be373a59b13d]{
 -- Page 18, Offset 31722.
 -- 「言ったでしょう、大体の事情は聞いたと。
-"I told you that I heard most of what happened, didn't I?
+"I told you that I heard the gist of what happened, didn't I?
 }
 [sha:31032461f2bea04259a851e30de154d2a9a7eed2]{
 -- Page 18, Offset 31723.
 -- ……もっとも、聞かなくとも兄さんの容態を見れば一目でわかる事ですが」
-...But then again, just by looking at you, I understood what happened at a glance."
+...Though, even if I hadn't, it'd be clear from one look at you what had transpired."
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 19, Offset 31724.
@@ -286,12 +295,12 @@ Akiha asks me about that fact.
 [sha:0dbede9a5e1c181ae7b78fda16799f64ca76b38b]{
 -- Page 19, Offset 31725.
 -- 驚きと緊張で喉が動かない。
-My throat is seized up with tension and astonishment.
+My throat seizes up from a combination of shock and nerves.
 }
 [sha:d8a21e8751e010b165225fd33359047066272a98]{
 -- Page 19, Offset 31726.
 -- それは、はじめからシキの事を知っていたような口ぶりだった。
-The way she said that makes it sound like she's known about SHIKI from the beginning.
+The way she said that makes it sound like she's known about SHIKI the whole time.
 }
 [sha:63270fea6def89b6736f8c321cb28e87969b69b7]{
 -- Page 20, Offset 31727.
@@ -301,7 +310,7 @@ The way she said that makes it sound like she's known about SHIKI from the begin
 [sha:054706e4968eee3230179c7368510282c1b469bd]{
 -- Page 20, Offset 31728.
 -- 「ええ、知っています。私はすべてを承知した上で、兄さんを屋敷に呼び戻したんですから」
-"Yes, I knew. After all, it's because I was aware of everything that I called you back to the mansion."
+"Yes, I knew. In fact, it was %{i}because%{/i} I knew that I called you back to the mansion."
 }
 [sha:4dbb3780e6bbbd6d02e3ff75b6a8496722789cd2]{
 -- Page 21, Offset 31729.
@@ -311,12 +320,13 @@ The way she said that makes it sound like she's known about SHIKI from the begin
 [sha:d8f9406a2528937b332caea7c06cc1788aebacc2]{
 -- Page 21, Offset 31730.
 -- 俺はまだ……正直、整理がつかないんだ。
-I mean... I'm still trying to piece all of this together.
+I mean... To tell the truth, I still can't make heads or tails of all this.
 }
 [sha:3314e298b8c803879f346d9c2b046d67127e9e92]{
 -- Page 21, Offset 31731.
 -- 子供のころ、俺と秋葉の他にもう一人、子供がいたのは確かだと思う。そうでないと辻褄が合わないからな。
-Back when we were kids, I'm sure that there was another child with us. Otherwise, it wouldn't make any sense.
+I was sure that there had to have been another child around back when you and I were kids.
+ Things just didn't add up otherwise.
 }
 [sha:2da653cbdcf9bca684684a19f2819814392c9ac7]{
 -- Page 21, Offset 31732.
@@ -326,7 +336,7 @@ But when I asked you about it, you――――"
 [sha:77aadf439549fc9a7307827408a24526de9d4e3e]{
 -- Page 22, Offset 31733.
 -- 三人目の子供なんて、いないと言ったじゃないか。
-You said that there was no such thing as a third kid.
+You told me there hadn't been a third child.
 }
 [sha:7bac01918402cace8d89c5ae42cd65148102359d]{
 -- Page 23, Offset 31734.
@@ -341,12 +351,13 @@ I've... been lying to you the entire time. Even in this situation... even though
 [sha:06b820fb5e26e6ec9dd80b6629709ef0a8214f14]{
 -- Page 24, Offset 31736.
 -- 「……じゃあ三人目の子供はいたんだな。
-"...So there were three of us.
+"...So there %{i}were%{/i} three of us.
 }
 [sha:5c6feb4417a5ad505b49102170cbb9386702870c]{
 -- Page 24, Offset 31737.
 -- けどどうして、あいつは」
-But why is he..."
+// Lead-in for line on next page
+But then, why did he..."
 }
 [sha:1beee731aa64ba79d450ab169378da0bece6e501]{
 -- Page 25, Offset 31738.
@@ -356,12 +367,14 @@ But why is he..."
 [sha:f1bade2150f28e1e911f0bd8888147ccb28e39e8]{
 -- Page 25, Offset 31739.
 -- 俺には確かな記憶がない。
-I don't remember it very well.
+My memories from back then are pretty hazy.
 }
 [sha:042eb5b2f7f56cc26c1231fd8ef332acde5ecebf]{
 -- Page 25, Offset 31740.
 -- 他の子供……自分と同い年ぐらいの少年がいて、いつも二人で遊びまわった事は、おぼろげではあるが思いだした。
-That other kid... I can only vaguely recall that he was a boy around my age, and that the two of us always played around together.
+That other kid...
+ All I can really remember is that he was a boy around my age,
+ and that the two of us always played around together.
 }
 [sha:7de87697d967a3172314f332ea9250ba2209cbe3]{
 -- Page 25, Offset 31741.
@@ -371,7 +384,7 @@ Every now and then, we would go behind our father's back and go outside to play 
 [sha:cf409a76a6e420ca6645487a78a03b9986b60c6d]{
 -- Page 26, Offset 31742.
 -- なのに、それ以外の事が記憶にない。
-And yet I have no memories apart from that.
+And yet, I don't remember anything else.
 }
 [sha:ad9c71d8e23f7ef97c2b6dc395309f591a81864e]{
 -- Page 26, Offset 31743.
@@ -382,7 +395,7 @@ The reason for his disappearance.
 -- Page 26, Offset 31744.
 -- あいつの名前が、俺と同じシキだったという事。
 // I tried translating this literally but then i had a seizure
-The fact that his name was pronouced the same as mine.
+The fact that his name was pronounced the same as mine.
 }
 [sha:b882f91339cce45088a91ce5e9c02370c3f56274]{
 -- Page 26, Offset 31745.
@@ -392,37 +405,37 @@ I've completely forgotten just about everything.
 [sha:3270a929477db777af25ff6a9f3b93ec87b04d27]{
 -- Page 27, Offset 31746.
 -- 「……わからない。
-"...I don't know.
+"...I don't get it.
 }
 [sha:e6d370c47ac1dfdc72e8362d05a5be84bc1797ca]{
 -- Page 27, Offset 31747.
 -- 覚えている事と言えば、それは――――」
-If there's one thing that I remember, it would be――――"
+There's only one thing I do remember, and that's――――"
 }
 [sha:c333a144cfe514ceb84ec4afd6a016ad6313172a]{
 -- Page 28, Offset 31748.
 -- 森の広場で見た光景。
-That scene I saw in the forest square.
+The scene I saw in that forest clearing.
 }
 [sha:4802cfa8382d4705be127a85bc4d7052136b0c6d]{
 -- Page 28, Offset 31749.
 -- この屋敷に帰ってきてから、何かの白昼夢のように脳裏に浮かんだ、あの暑い夏の光景だけ。
-Ever since returning to the mansion, only that scene of a hot summer's day has been coming to mind, like some sort of daydream.
+Ever since I returned to the mansion, I've been haunted by the image of that hot summer's day, like some sort of waking dream.
 }
 [sha:2425f507c73bf22767bc6e1500e248f2080ac95a]{
 -- Page 29, Offset 31750.
 -- あきはがいて、自分がいて。
-It was me and Akiha.
+Akiha was there. I was there.
 }
 [sha:46627caf14f9bf8a77cf61e5bc22607bca66eac2]{
 -- Page 29, Offset 31751.
 -- 目の前には、血にまみれたもう一人の少年の死体があって。
-And in front of us, the corpse of another boy covered in blood.
+And in front of me, the corpse of another boy covered in blood.
 }
 [sha:65df90967a4a4a8ea559c98c28e51ba854761219]{
 -- Page 29, Offset 31752.
 -- 「…………、死体？」
-"......A corpse?"
+"......The corpse?"
 }
 [sha:91750c2cf727f145b762e721fc0856a1c1d72804]{
 -- Page 30, Offset 31753.
@@ -432,17 +445,18 @@ And in front of us, the corpse of another boy covered in blood.
 [sha:f03346552c1a5b2aa118b24faffcff68911bf161]{
 -- Page 30, Offset 31754.
 -- “殺された借り、たしかに返却した”と。
-That he 'certainly returned the favor of being killed'.
+// Referencing 12_00_ARC12_2 offset 30728
+That he 'returned the favor of being killed'.
 }
 [sha:10a8054feba7ee9f449550478fe70f1e9eaecaa8]{
 -- Page 30, Offset 31755.
 -- それは、つまり――――
-In other words――――
+Then, does that mean――――
 }
 [sha:132b6b921790e8d4c082fc2184a19c58addc25ff]{
 -- Page 31, Offset 31756.
 -- 「あの夢は―――俺は、本当に、あいつを―――」
-"That dream―――I, really―――"
+"That dream―――Did I, really―――"
 }
 [sha:df58a2b42b00857f1afccc9f2893a7b40231f89d]{
 -- Page 31, Offset 31757.
@@ -452,7 +466,8 @@ Did I really kill him?
 [sha:cbddcf50224c2e7766980a26fcec1a753adbc18e]{
 -- Page 31, Offset 31758.
 -- だからアイツは突然いなくなって、俺は自分にとって都合の悪い思い出を忘れていた……？
-Is that why he suddenly disappeared, and that I forgot about it because it was such an inconvenient truth...?
+Is that why he suddenly disappeared?
+ Is the reason I forgot all about it because it was such an inconvenient truth...?
 }
 [sha:776a1bf9828ca0a1b3898d0cbc89c777d7a9ff7e]{
 -- Page 32, Offset 31759.
@@ -467,12 +482,12 @@ Is that why he suddenly disappeared, and that I forgot about it because it was s
 [sha:a24375cff28cd00e49a34bae70ca6d7741e43349]{
 -- Page 32, Offset 31761.
 -- そう思いこむよう、お父様……遠野槙久に言いつけられたんです」
-That memory is what father... Tohno Makihisa led you to believe."
+What you remember is what father... what Tohno Makihisa led you to believe."
 }
 [sha:1f1037649157779a1d0e4770df0c84aef1820163]{
 -- Page 32, Offset 31762.
 -- 「親父……に？」
-"From... my father?"
+"Father... did that?"
 }
 [sha:935f3fe8fc8f876386cc338bda3864eb70d6e036]{
 -- Page 33, Offset 31763.
@@ -492,52 +507,55 @@ Why would the old man tell me something like that...?
 [sha:be44d6651070e71407233cdd7ad7b72755eecd98]{
 -- Page 34, Offset 31766.
 -- 秋葉はすべて……七年前の事も、あのシキの事も、全部知っているのか？」
-Akiha... you knew about everything, including what happened seven years ago and SHIKI?"
+Akiha, you knew everything? Even what happened seven years ago? About SHIKI?"
 }
 [sha:7b5518fec7046de3940bd166a72499335dfa70cd]{
 -- Page 34, Offset 31767.
 -- 「……はい。シキの事は、兄さんには思い出してほしくなかった。出来る事なら、ずっと忘れたままでいてほしかった」
-"...Yes. I didn't want you to remember SHIKI at all. In fact, I wanted you to remain ignorant forever."
+"...Yes. I didn't want you to remember anything about SHIKI.
+ I'd hoped for you to remain blissfully ignorant forever, if at all possible."
 }
 [sha:7811de415accee1d597f320ea8f3f6e9eb4fe3c4]{
 -- Page 35, Offset 31768. Mods: @n.
 -- 「……けど、
-"...However,
+"...Alas,
 }
 [sha:a943d806cac696885695f3176a068553645f0e82]{
 -- Page 35, Offset 31769. Glued.
 -- それもおしまいですね。
- even that has failed.
+ it seems that I have failed.
 }
 [sha:3516fd46a3f57a43a7f9eb18d94ea1bdc894fa17]{
 -- Page 35, Offset 31770.
 -- はじめから……隠し通す事なんて、無理な話だったんです」
-Hiding that fact... was an impossible task from the very beginning."
+Keeping his existence hidden... was an impossible task to begin with."
 }
 [sha:4760ef83a0502b88b122ac85d6b06f7ba0138b84]{
 -- Page 35, Offset 31771.
 -- そう言って、どこか自嘲ぎみに笑って。
-Saying that, she chuckles to herself out of self-deprecation of some sort.
+// そう言って not really adding much here
+She chuckles derisively at herself.
 }
 [sha:40f208daa9efc5523a569af968c0f291932da0e2]{
 -- Page 35, Offset 31772.
 -- 秋葉はまっすぐに俺の目を見て話を始めた。
-She looks straight into my eyes and begins to talk.
+Turning to look me straight in the eye, Akiha begins to speak.
 }
 [sha:4c4b5d660365d6cc556972e8c56a088350db8abf]{
 -- Page 36, Offset 31773.
 -- 「兄さん。遠野の家が特別な血族だという事はあの人たちに聞いたでしょう？　信じられないでしょうけど、遠野の血は人間以外の血が混ざっているんです。
-"Nii-san. You've heard from those people that the Tohno family is a special bloodline, correct? It's hard to believe, but the Tohno blood is mixed with the blood of something non-human.
+"Nii-san. You've heard from those people that the Tohno family is a special bloodline, correct?
+ This may be hard to believe, but the Tohno blood is mixed with that of something non-human.
 }
 [sha:8b6883cb106e113ddf048a66148ba02cc39e6b1e]{
 -- Page 36, Offset 31774.
 -- ……少なくとも、私は幼い頃からお父様にそう教えられて育ってきました」
-...At least, that's what father taught me when I was young and raised me as such."
+...At least, that's what father drilled into me for my entire childhood."
 }
 [sha:7749652dc98d7de039385cf95f0bb864a076fe02]{
 -- Page 37, Offset 31775.
 -- 「もちろん、それをまっとうに信じてはいませんでした。
-"Of course, I didn't really believe it at the time.
+"Of course, I didn't really believe it initially.
 }
 [sha:50832f0141b8310ccf9eef5883d2c02aec270207]{
 -- Page 37, Offset 31776.
@@ -547,7 +565,7 @@ But then, something happened that left me no choice but to accept it.
 [sha:85ac3874038a7a62ed31fc7b20fa9d9f426484bc]{
 -- Page 37, Offset 31777.
 -- ……それが七年前の、兄さんがシキに殺された事故です」
-...That was the incident where you were killed by SHIKI seven years ago."
+...The incident seven years ago―――when you were killed by SHIKI."
 }
 [sha:d5afd76ca71f05afe155957b1e930c131602d378]{
 -- Page 37, Offset 31778.
@@ -557,7 +575,7 @@ But then, something happened that left me no choice but to accept it.
 [sha:bbb5d7bc841c30dc8e405fa667c580a1f7b1d977]{
 -- Page 38, Offset 31779.
 -- 秋葉は無言で頷く。
-Akiha nods in silence.
+Akiha nods silently.
 }
 [sha:65af5e15fc61b176a5f722a082e38033581a0582]{
 -- Page 38, Offset 31780.
@@ -567,22 +585,27 @@ Akiha nods in silence.
 [sha:7a4dc1c8eea2d5824998a28ccf523856d5e34a68]{
 -- Page 38, Offset 31781.
 -- それでは逆だ。
-If that's true, then everything would be backwards.
+If anything, it's the opposite.
 }
 [sha:74fff7e32ddb355a42b299122531158c3aee164e]{
 -- Page 38, Offset 31782.
 -- 血まみれで倒れていたのはシキの方だし……あいつはたしかに、『殺された借り』と言っていたが……？
-The one that was on the ground and bloodied was SHIKI... and I'm certain that guy mentioned something about payback for being killed...
+The collapsed, blood-soaked figure was SHIKI, not me...
+ And I could have sworn that guy mentioned something about payback for being killed...?
 }
 [sha:cfc82f672bb51cbea776db834e8dd57dd047b1e0]{
 -- Page 39, Offset 31783.
 -- 「……遠野家の人間は、個人差はあれど歳をとるごとに自分の中の異なる血が増えていきます。この血は、あまりいいものではないんです。
-"...Although there are individual differences, that foreign blood within members of the Tohno family grows stronger as we age. This blood isn't exactly something I would consider good.
+"...The details vary from person to person,
+ but as a general rule, the deviant blood that runs in the members of the Tohno family grows stronger with age.
+ This blood isn't exactly something you could consider good.
 }
 [sha:ddcf3db3bcadb2e7bdbbc062b8c4a0c62e1a2def]{
 -- Page 39, Offset 31784.
 -- 遠野の血筋に混ざっている異種は、人とは違った生存本能を持っている。人間らしい部分を理性とするのなら、異種の部分は本能、獣性と言えるものです」
-The strain mixed in with the Tohno blood contains a survival instinct different from humans. If you consider the human part to be reason, then the foreign part would be called instinct, or perhaps bestial nature."
+The xenogenetic material mixed in with the Tohno bloodline carries a survival instinct different to that of humans.
+ If you consider the human part of that mixture to be reason,
+ then that foreign part would be instinct, or the id."
 }
 [sha:10181b3ac8540cd08a8bf231ad46afbce1c002fc]{
 -- Page 40, Offset 31785.
@@ -592,7 +615,7 @@ The strain mixed in with the Tohno blood contains a survival instinct different 
 [sha:a1012aa54e46da332f409c4575754374632f0b3b]{
 -- Page 40, Offset 31786.
 -- 「……わかってます。にわかには信じられない話でしょうから、今は黙って聞いてください」
-"...I know. It may be difficult to take this in all of a sudden, but just be quiet and listen."
+"...I know. This may be a lot to take in all at once, but just be quiet and listen for now."
 }
 [sha:d7d7a58acb8a7372f6ce7de22bae83546b8056c2]{
 -- Page 41, Offset 31787.
@@ -602,17 +625,19 @@ The strain mixed in with the Tohno blood contains a survival instinct different 
 [sha:e8fd3d33628eb7debc52941aba4926fbef9f2717]{
 -- Page 41, Offset 31788.
 -- 私の兄のように……シキのように、幼年期に反転してしまう例なんて、今までなかった」
-But as for my brother... for SHIKI, there had never been a case where someone inverted during their childhood until he came along."
+There had never been a case of someone inverting during childhood, at least not until my brother... until SHIKI came along."
 }
 [sha:767694a9d589b11f4aec9f09ae2df798b939a907]{
 -- Page 42, Offset 31789.
 -- 「遠野の人間が持つ異能にはそれぞれ個人差があるそうです。外見がまったく変わらないモノがいれば、本当に体の形が変わってしまうモノもいる。
-"It appears that the abilities of members of the Tohno family varies between individuals. If there are those whose outward appearance doesn't change, then there are also those whose bodies change drastically.
+"The abilities possessed by the members of the Tohno family vary from person to person.
+ There are those whose outward appearance barely changes at all,
+ and those whose bodies change drastically.
 }
 [sha:f0fad083666085c37e044583bc2477a3d26d9217]{
 -- Page 42, Offset 31790.
 -- ―――シキは、典型的な後者でした」
-―――As for SHIKI, he is a typical example of the latter."
+―――SHIKI is a perfect example of the latter."
 }
 [sha:702dc84f70ba98bbe28e16926f9835b474a8b6d4]{
 -- Page 43, Offset 31791.
@@ -627,12 +652,12 @@ But as for my brother... for SHIKI, there had never been a case where someone in
 [sha:6eea838111c59412c4a050090ede42bb687690dc]{
 -- Page 43, Offset 31793.
 -- ただある日、何の前触れもなく反転してしまった。
-All I know is that on that day, he inverted without any prior warning.
+His inversion that day came completely out of the blue.
 }
 [sha:4c24669dd856f3ab875ce4f27ca1dd774d62cb41]{
 -- Page 43, Offset 31794.
 -- その時シキに襲われたのが兄さん……貴方なんです」
-At that moment, the one that he attacked... was you."
+And when it happened, the one he attacked... was you, Nii-san."
 }
 [sha:9511356bb6b93b8a9485c2bd4068533950214074]{
 -- Page 44, Offset 31795.
@@ -642,22 +667,24 @@ At that moment, the one that he attacked... was you."
 [sha:d5943ef61356077b7ef5e702c86dd657cb351a87]{
 -- Page 44, Offset 31796.
 -- ズキリ、と。
-Thump.
+%{i}Badump%{/i}.
 }
 [sha:1b7c7a5a44b3ebf4d3900b074946dd16001effa6]{
 -- Page 44, Offset 31797.
 -- 胸の古傷がうずいた気がした。
-I feel a throb on the scar in my chest.
+The scar on my chest throbs.
 }
 [sha:8054ac1710a13bfacca62c66db14fea483e2a157]{
 -- Page 45, Offset 31798.
 -- 「その時の場所があの森の広場なんです。
-"The place where it happened was that forest square.
+"It happened in that clearing in the forest.
 }
 [sha:28ea46211d2102791337130ed833f73765641c80]{
 -- Page 45, Offset 31799.
 -- 兄さんはシキに胸を貫かれて瀕死の状態でした。
-Your chest was pierced by SHIKI, and you were on the verge of death.
+// Do we know if there was an implement involved? If there was, he was stabbed in the chest,
+// but if not I'm guessing he just ripped into him with his nails, which aren't really as _penetrating_
+SHIKI slashed you across the chest, and you were on the verge of death.
 }
 [sha:e82c82dbd531c86c4c111fc5a7de00ff039d9b21]{
 -- Page 45, Offset 31800.
@@ -667,12 +694,13 @@ That's when father rushed in and stopped him."
 [sha:f8141ac87f5af1ac7bb922e34240f27cf93740ce]{
 -- Page 46, Offset 31801.
 -- 「……理性を失っていたシキを止めるには、息の根を止めるしかない。遠野家の当主には、そうやって反転してしまった一族の者を処理する義務があります。
-"...The only way to stop SHIKI, who had lost all reason, was to kill him. The head of the Tohno family has the duty of disposing of inverted family members.
+"...Once SHIKI had lost all reason, the only way to stop him was to kill him.
+ The head of the Tohno family has the duty of disposing of inverted family members.
 }
 [sha:dba2cf34f8d5533ab6842e515d4b870b438394d1]{
 -- Page 46, Offset 31802.
 -- ですから―――兄さんが見た血まみれのシキというのは、父に処理された後のシキではないでしょうか」
-That's why―――the blood-covered SHIKI that you saw must have been after father had dealt with him."
+All this to say―――the image you have of SHIKI covered in blood is likely from after father had dealt with him."
 }
 [sha:f0dd4a6a183c39fe5dad0df55f71db7a3d60ca20]{
 -- Page 47, Offset 31803.
@@ -682,22 +710,24 @@ That's why―――the blood-covered SHIKI that you saw must have been after fat
 [sha:65e6a481162d620ec5f8a1d6f779c4ce4b38a50f]{
 -- Page 47, Offset 31804.
 -- よく、思い出せない。
-I don't remember it very well.
+...There's something I'm still forgetting.
 }
 [sha:9f1b7a58814d2ee9c30a4bcefb9b2d35bae7a52f]{
 -- Page 47, Offset 31805.
 -- その時、もっと何か。とても大切なコトがあった気がするのだけど、思い出せない。
-There must be something else. I feel like there's something extremely important that I'm missing, but I just can't remember.
+Something else happened back then.
+ I feel like there's something extremely important that I'm missing, but I just can't remember what it is.
 }
-[sha:9f408fce2ec5103f702a1ae53742222a88c01d20]{
+[offset:31806]{
 -- Page 48, Offset 31806.
 -- ……それに。
-...And besides.
+...And there's something else.
 }
 [sha:133a1d539ed1b78d8675aaaa9c57cf10954ee440]{
 -- Page 48, Offset 31807.
 -- もう取り戻せない記憶の中に、俺はこの手で<何|・><か|・><の|・><命|・><を|・><断|・><ち|・><き|・><っ|・><た|・>確信がある。
-Within those memories that I can no longer regain, I'm certain that with these hands, I took the life of %{i}something%{/i}.
+I'm convinced that somewhere within those memories I can no longer recall,
+ I took the life of %{i}something%{/i} with my own two hands.
 }
 [sha:38b2705c93731ec165ceaa58d8529fe6c0937b8e]{
 -- Page 48, Offset 31808.
@@ -707,12 +737,12 @@ Regardless of what anyone tells me, I feel like I killed someone inside that for
 [sha:f047a1f0bf9406cd01c6334b9e2676fcedc44577]{
 -- Page 49, Offset 31809.
 -- 「……幸い、兄さんは奇跡的に一命を取り留めました。
-"...Fortunately, you were able to miraculously survive.
+"...Fortunately, you were able to survive by some miracle.
 }
 [sha:590fc3ab372c17c60ede8d0bc94dd5e1b38c280e]{
 -- Page 49, Offset 31810.
 -- あとは兄さんの記憶にある通り、遠野志貴は事故に巻き込まれた、と偽証をして病院に運ばれたんです」
-After that, we took you to the hospital under the false pretext that you were caught in an accident, just as you remembered."
+After that, it is as you remember. We took you to a hospital under the false pretext that you had been involved in an accident."
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 49, Offset 31811.
@@ -722,17 +752,18 @@ After that, we took you to the hospital under the false pretext that you were ca
 [sha:1224911d3fd61bb35fc722bebfa91e81b9856e4e]{
 -- Page 50, Offset 31812.
 -- 「……私が当主に決まったのは、この一件が原因です。
-"...The reason why I was chosen as the next head, was because of that incident.
+"...It was because of that incident that I was chosen to be the next family head.
 }
 [sha:2526c3b5964d2c8bc9676badeb35b53651f04316]{
 -- Page 50, Offset 31813.
 -- 一度でも反転した者は当主には迎え入れられない。
-A member who's inverted even once can never be allowed to be the next head of the family.
+A person who has inverted even once can never be allowed to be the next head of the family.
 }
 [sha:ae7b6b7a460c560650557a3a5bfbae57a19d11d8]{
 -- Page 50, Offset 31814.
 -- シキは跡継ぎではなくなり、唯一、父の血を継いでいる私が当主として育てられました」
-With no other successor to SHIKI, I was raised to become the next head, as the only one related to father by blood."
+With SHIKI no longer fit to be the successor,
+ I was raised to become the next head as the only other person related to father by blood."
 }
 [sha:d1c6b7f916227480889a3df9d70443103f26547f]{
 -- Page 51, Offset 31815.
@@ -742,7 +773,7 @@ With no other successor to SHIKI, I was raised to become the next head, as the o
 [sha:fcb65af9c2729263a6bc01f61dac447801f96ae5]{
 -- Page 51, Offset 31816.
 -- そういう経緯で秋葉に当主という責任が……いや、待った。
-So that's why Akiha was given the responsibiltiy... wait, hold on.
+So that's why the responsibility of being the family head fell to Akiha... wait, hold on.
 }
 [sha:fbb33820d958730b4f69fc88b88940e81860e961]{
 -- Page 52, Offset 31817.
@@ -752,7 +783,7 @@ So that's why Akiha was given the responsibiltiy... wait, hold on.
 [sha:a836e7d0d056d52d068202986ec4a1764be5502d]{
 -- Page 52, Offset 31818.
 -- 俺は―――その、まともじゃないのか」
-Aren't I―――well, abnormal?"
+Wouldn't that make me―――well, normal?"
 }
 [sha:3b67e23ea2a06e40e6bfdb66da34e7e0b0fa739d]{
 -- Page 53, Offset 31819.
@@ -762,32 +793,35 @@ Aren't I―――well, abnormal?"
 [sha:18daef459de2cc306031f35ef7575dbc1f88e332]{
 -- Page 53, Offset 31820.
 -- 兄さん、こんな話を信じてくれるんですか……？」
-Nii-san, do you really believe this story...?"
+Nii-san, do you really not find any of this hard to believe...?"
 }
 [sha:f6750ad3b719c1837062f486cc53889cf713e288]{
 -- Page 54, Offset 31821.
 -- 「あのな。おまえがこんな嘘をつくワケがないし、その、こういう話には慣れているというか。
-"Come on. There's no way you would lie like that, and I guess I'm used to this sort of talk by now.
+"Come on. There's no way you'd make something like this up,
+ and, well, I guess I'm sorta used to hearing things like this by now.
 }
 [sha:a4154fa9c65c5734f5c0b208f2b0ae46495c2d24]{
 -- Page 54, Offset 31822.
 -- ……と、とにかく話の続きだ。秋葉が当主に選ばれた理由……俺が有間の家に預けられた理由を教えてほしい」
-...A-Anyway, back to the topic. The reason why you were chosen as the head... I want you to tell me the reason why I was sent to the Arima family."
+...A-Anyway, let's get back on track.
+ I want to know why you were chosen as the head...
+ and why I was sent to live with the Arimas."
 }
 [sha:5f93e9b042ca177af3c454cb6180e5c7ecdad70f]{
 -- Page 55, Offset 31823.
 -- 「……簡単です。
-"...It's simple.
+"...The answer is simple.
 }
 [sha:6bc158f5970915e96ee1e463af5b87ced7479504]{
 -- Page 55, Offset 31824.
 -- 兄さんには、どうしても遠野家を継げない訳があった。
-It's because you could never succeed the Tohnos no matter what.
+You could never have succeeded the Tohno family in the first place.
 }
 [sha:1f9740f73baec8b6c335d194614e709604c354d3]{
 -- Page 55, Offset 31825. Mods: @n.
 -- 本当にそんな事さえ忘れてくれていたんですね。
-You really have forgotten about that, haven't you?
+To think that you've managed to forget even that
 }
 [sha:296153b5ac049cb48510eacb5052856468765762]{
 -- Page 55, Offset 31826. Glued. Mods: @k, @e.
@@ -797,7 +831,8 @@ You really have forgotten about that, haven't you?
 [sha:ef35f834d173f469e15d930d8fa20d2feb53b305]{
 -- Page 55, Offset 31827. Glued. Mods: @x.
 -- その蜃気楼が、ずっと続いてくれたら良かったのに」
-It would have been nice if that mirage had continued forever."
+// Leading space for glue
+ If only we could have kept up that facade forever."
 }
 [sha:0a9a07923f5bb68bd0ee250f5976453a78c065c8]{
 -- Page 55, Offset 31828.
@@ -812,7 +847,7 @@ It would have been nice if that mirage had continued forever."
 [sha:0a9ebdc77fe26fd7ee906ef12ec6c80b04e1be5c]{
 -- Page 56, Offset 31830.
 -- ただ父の気まぐれで、私の兄であるシキと同じ名前というだけで、養子にとられた子供でした」
-You were simply a child adopted by father on a whim; just because you happened to have the same name as my brother."
+You were simply adopted by my father on a whim because you happened to share a name with my brother."
 }
 [sha:cb254e840000ad7a7e280a6a1fec30f0be3285cf]{
 -- Page 56, Offset 31831.
@@ -822,7 +857,7 @@ You were simply a child adopted by father on a whim; just because you happened t
 [sha:6784136ea86beee4892c6b83d3bc044348b3bb15]{
 -- Page 57, Offset 31832.
 -- 「……兄さんと私、それにシキ。
-"...There was you, me, and then there was SHIKI.
+"...There was you, there was me, and then there was SHIKI.
 }
 [sha:9eb38d82f20e5200f4c4962e1f57c6eb468531c2]{
 -- Page 57, Offset 31833.
@@ -832,47 +867,53 @@ We were raised as if we were truly brothers and sisters.
 [sha:2ac90530e5ad4a015444ecc9a6b635c3ea4c8937]{
 -- Page 57, Offset 31834.
 -- 兄さんとシキはとても仲が良くて、私も幼心に嫉妬するぐらいでした。……けれど、シキがあんな事になってしまった時にすべてが狂ったんです」
-You got along with SHIKI so well that I even became envious as a child... But then everything went wrong the moment SHIKI turned into that."
+You and SHIKI got along so well back then that it actually made me a little envious...
+ But everything went to hell when SHIKI turned into that thing."
 }
 [sha:5df5400fbe2d41b287c150800d4d26729108d9a4]{
 -- Page 58, Offset 31835.
 -- 「お父様はシキを内々に処理した。けれど対外的に、遠野家の長男を無くしてしまう事はできなかった。
-"Father dealt with SHIKI in private. But externally, he couldn't handle losing the eldest son of the Tohno family.
+"Father disposed of SHIKI in secret.
+ However, he couldn't have it become publicly known that he'd lost the eldest son of the Tohno family.
 }
 [sha:39d333a6b939f2f6c051b27ca240361ea689486c]{
 -- Page 58, Offset 31836.
 -- 遠野家は社会的にも地位のある家柄でしょう？
-You see, the Tohno family is of high standing in society, right?
+// ? Dropped intentionally
+I'm sure you understand that the Tohno family name carries a lot of weight in society.
 }
 [sha:e4cd4ee0156c2b79ce4f74b812f1ea840551e370]{
 -- Page 58, Offset 31837.
 -- だから……軽率に、跡継ぎである長男がいなくなりました、と周りには報せられなかった」
-That's why... he couldn't simply inform the public that his eldest son who was supposed to succeed him had passed away."
+As such... it would have been imprudent to make it known that his eldest son, his heir, had passed away."
 }
 [sha:0cf91f05fcf757c660265ee6a5ec750d6df85fd5]{
 -- Page 59, Offset 31838.
 -- 「そこで父は思いついたんです。
-"That's when father thought of an idea.
+"That's when my father hit upon an idea.
 }
 [sha:ecd242f86c74ea5734fb391fe034d05b2539a16b]{
 -- Page 59, Offset 31839.
 -- シキに殺されかけた遠野志貴を実子として扱い、反転して人間でなくなったシキを、事故で死亡した養子として扱えばいい、と。
-He thought that if he treated Tohno Shiki who had been killed by SHIKI as his own child, he could pretend that SHIKI, who had inverted into something inhuman, died in an accident.
+If he treated Tohno Shiki, the one SHIKI had killed, as his own child,
+ then he could pretend that SHIKI, who had ceased to be human,
+ was an adopted child that had passed away in an accident.
 }
 [sha:f8d3f61dd674b998b3cd2c3b255cd130133407ad]{
 -- Page 59, Offset 31840.
 -- ……その時、兄さんとシキは入れ替わったんです。
-...That's when you and SHIKI switched places.
+...That was the moment when you and SHIKI switched places.
 }
 [sha:b41520b79498d03e9fd2c8d117db422cdbf939a5]{
 -- Page 59, Offset 31841.
 -- 殺された<志|が><貴|わ>が生き残って、殺した<四|が><季|わ>が死んでしまった。それが兄さんとシキの関係なんです」
-The one who had been killed, survived, and the other one who had killed, died. That is the relationship between you two."
+The one who had been killed survived, and the one who had killed died.
+ Such is the relationship between the two of you."
 }
 [sha:e289a43209c1d9791c4fdccfcdfe5f6d5eadd6f5]{
 -- Page 60, Offset 31842.
 -- 「……じゃあ、なんだ。俺は秋葉の兄貴なんかじゃなくて、遠野の人間でもなくて――――」
-"...So what? You're saying that I'm not your brother, and that I'm not part of the Tohno family――――?"
+"But then... If I'm not your brother, if I'm not part of the Tohno family―――"
 }
 [sha:113cecdb66ee6a23dae31697ac684c4c13ab615c]{
 -- Page 60, Offset 31843.
@@ -882,17 +923,20 @@ Of course, I'm not a member of the Arima family either.
 [sha:20d9f9e4db6c28baf663d602c675997aab51ad0b]{
 -- Page 60, Offset 31844.
 -- 「俺は―――どこの誰だって、言うんだ」
-"Then―――which family do I even belong to?"
+"Then―――just who am I, and where did I come from?"
 }
 [sha:d07a919ee2fdf5dc1e5065ea377dcd4e6a564f91]{
 -- Page 61, Offset 31845.
 -- 「……ごめんなさい……もう誰も、その質問には答えられません。兄さんは―――志貴という名前をしていた子供は、もう何処にもいないんです。
-"...I'm sorry... no one can answer that question anymore. You―――the child who was once known as Shiki, is nowhere to be found.
+"I'm sorry... no one can answer that question anymore.
+ You―――the child known as Shiki, no longer exists.
 }
 [sha:d23eec4e03174a5da8c57ef561ffca63dbff9a71]{
 -- Page 61, Offset 31846.
 -- 志貴という子供は七年前に死んでしまった。それは命としての死ではなく、存在としての死です。戸籍も過去も家も、その記憶も、もうどこにも残ってはいない。
-The child known as Shiki died seven years ago. It was not the death of his life, but death of his entire existence. His records, his past, his home, and even his memories, are no longer in this world.
+The child known as Shiki died seven years ago.
+ I do not mean that he physically died, but rather that his existence was erased.
+ His records, his past, his home, and even his memories are no longer of this earth.
 }
 [sha:05704ff479f39df270fdbbc51b32788a7b8013d0]{
 -- Page 61, Offset 31847.
@@ -912,7 +956,7 @@ Huh?
 [sha:25d5b31a646822c0ff43d8ca4aeb4d898a3e6c05]{
 -- Page 62, Offset 31850.
 -- 「だから……兄さんは有間の家に預けられたんです。
-"That's why... you were sent to the Arima family.
+"That's why... you were entrusted to the Arima family.
 }
 [sha:8bd76e14823669055a52743737fdbd4153da4aa3]{
 -- Page 62, Offset 31851.
@@ -922,7 +966,8 @@ In order to keep up appearances, the eldest son of the Tohno family had to be ke
 [sha:4a48b7e6792c64fe3e26e113a8d0fbdf49dcc53a]{
 -- Page 63, Offset 31852.
 -- 「お父様は事故で体が弱っていると理由をつけて、兄さんを有間の家に追放した。……二度と、遠野の家に立ち入らせないようにと、残った私に言いつけて」
-"Father came up with the excuse that your health had declined because of the accident and banished you to the Arima family... He ordered me to never let you back into the Tohno family ever again."
+"Father banished you to the Arima household under the pretense that your health had declined as a result of the accident...
+ He ordered me to never let you back into the Tohno family."
 }
 [sha:b8ae448b30d370e01f9fbe060ecd412248d272e9]{
 -- Page 64, Offset 31853.
@@ -932,22 +977,22 @@ In order to keep up appearances, the eldest son of the Tohno family had to be ke
 [sha:6cbd75ad912da2b219edb4a18518962162dff105]{
 -- Page 64, Offset 31854.
 -- 俯いて、胸から沸き立つ何かを堪えている。
-She hangs her head down, holding back her strong emotions from bursting out.
+Her head is bowed, and it seems as though she's struggling to contain her emotions.
 }
 [sha:ce3cc9ec1d25e3e27248f3bdae7b1692bde555f8]{
 -- Page 64, Offset 31855.
 -- おそらく俺に対する罪悪感なのだろう。
-It's most likely her feelings of guilt toward me.
+She must be feeling guilty toward me about all this.
 }
 [sha:372b61b7d5ebf57741b9e0517d8c77a47787b012]{
 -- Page 65, Offset 31856.
 -- でも、それはお門違いだ。責める気は微塵もない。
-But that's barking up the wrong tree. There's nothing that she should feel guilty for.
+But her feelings are misplaced. I don't hold any of this against her at all.
 }
 [sha:775425c02e3216e74309de0f7cee2dfac37b1657]{
 -- Page 65, Offset 31857.
 -- むしろ秋葉がそう思ってくれるだけで、本当に救われる。
-Rather, the fact that she feels that way about me truly puts my mind at ease.
+Knowing she feels this way about me makes me feel blessed, if anything.
 }
 [offset:31858]{
 -- Page 65, Offset 31858. Mods: @n.
@@ -957,32 +1002,35 @@ But even so―――
 [sha:b5710f6d1b1972e682cf0b7a4fc8a41db0e14f56]{
 -- Page 65, Offset 31859. Glued.
 -- 今は聞かなくちゃいけない事がある。
-there's something I must ask no matter what.
+there's something that I absolutely have to ask.
 }
 [sha:c5015f8ab5bf7a88d17e590eeff4488f211edecd]{
 -- Page 66, Offset 31860.
 -- 「……ダメだ。疑問点がまだ二つもある。話を続けてくれ秋葉。物事がまだちゃんと解決していないよ、それじゃ」
-"...It's no good. There are still two things I'm unsure about. I need you to tell me more, Akiha. Otherwise, I'll never be able to settle anything."
+"...It's no good. There are still two things I'm unsure about.
+ I need you to tell me more, Akiha.
+ Otherwise it's just going to keep on bugging me."
 }
 [sha:81a726ce92eef93682017dc2dbeb2c037d050195]{
 -- Page 67, Offset 31861.
 -- 「まず一つ目。……まあ、こっちは別に些細な疑問というか、確認なんだけど。
-"For the first question... well, I guess it's more like a trivial point that I want to confirm.
+"Question number one. Well, I guess this one's more a point of clarification than a question.
 }
 [sha:4cb554023817332b5c28a0d48e2b1f153352a221]{
 -- Page 67, Offset 31862.
 -- 俺が遠野の人間じゃないのは分かった。遠野の血が普通と違うのも信じるよ。
-I understand that I'm not a real member of the Tohno family. I also believe you when you say the blood of Tohnos are different from normal.
+I understand that I'm not a real member of the Tohno family.
+ I also believe you when you say that the Tohno blood isn't exactly normal.
 }
 [sha:9072dc7f6adf264d1422ad79336ea13ccad3109c]{
 -- Page 67, Offset 31863.
 -- でも、そうなると俺の眼の説明ができないというか。
-But if that's the case, then what about my eyes?
+But if both those things are true, then why are my eyes the way they are?
 }
 [sha:ac34d9eed8857548cebd4f59af3c060a53ea1d10]{
 -- Page 67, Offset 31864.
 -- ……実は俺も少しだけおかしな体質をしているんだけど、これってたまたま、なのかな？」
-...The truth is I have a bit of a strange constitution, but is that just a coincidence?"
+...The truth is I have a bit of a strange constitution myself, is that just a coincidence?"
 }
 [sha:63d043227d127d2b41228213e9bd67c90f7027fd]{
 -- Page 68, Offset 31865.
@@ -997,47 +1045,48 @@ But if that's the case, then what about my eyes?
 [sha:528f1c0b3fb1731bb523120ea2955333c2275a12]{
 -- Page 69, Offset 31867.
 -- その、さ。俺、生きてるだけでラッキーだって思うんだ。
-But, I think I'm lucky to be alive.
+I'm just, well. I think I'm lucky to be alive.
 }
 [sha:b1938bd3f536db882f30114964656f89cf0b9b4d]{
 -- Page 69, Offset 31868.
 -- 本当なら死んでいたような傷だったんだろ？　ならこうしていられるだけで幸運だよ」
-I would have died from this wound under normal circumstances, right? In that case, just being here in the first place is already a blessing."
+By all rights, this wound should have been fatal, right?
+ The fact that I'm still here is a blessing in itself."
 }
 [sha:effb9160b249769e2f7a67b5f53148c71e0a21d6]{
 -- Page 69, Offset 31869.
 -- そう。そんな事より、問題は――――
-That's right. But aside from that, the real question is――――
+That's right. But more importantly――――
 }
 [sha:ec2dec7a56fe0a547ce689a23906a99257ee3e52]{
 -- Page 70, Offset 31870.
 -- 「二つ目の疑問。シキは、どうして生きてるんだ？」
-"As for my second question. Why is SHIKI still alive?"
+"Question number two: Why is SHIKI still alive?"
 }
 [sha:dcaea5d2df543993c0e329a6b345c90044d444c8]{
 -- Page 70, Offset 31871.
 -- 「……兄さん……それは……」
-"...Nii-san... that's..."
+"Nii-san... that's..."
 }
 [sha:f3d39d2c5c56be26c3b140ccaae1e06e757863e9]{
 -- Page 71, Offset 31872.
 -- 「おかしいだろ、あいつが生きているのは。
-"It's strange, right? The fact that he's still alive.
+"It doesn't make any sense for him to still be alive, does it?
 }
 [sha:abc42dd9c7f75e28d1897b70af40bf877a58f959]{
 -- Page 71, Offset 31873.
 -- シキは遠野の血に負けて、反転とやらをしたんだろう？
-SHIKI was overpowered by the Tohno blood and was inverted or something, right?
+SHIKI succumbed to the Tohno blood and inverted or whatever, right?
 }
 [sha:5e79c8770e4020ef465b8f06ecde03a6c2003614]{
 -- Page 71, Offset 31874.
 -- そうして俺を殺して、<槙久|おやじ>に息の根を止められた。
-That's when he killed me, and then the old man choked the life out of him.
+Once he did, he killed me, and then the old man choked the life out of him.
 }
 [sha:db73450930865f52f8e234b21c78cdb0c706e352]{
 -- Page 71, Offset 31875.
 -- なら、ああして生きているハズがない」
-In that case, there's no way he should still be alive."
+But if that's what happened, there's no way he could still be alive."
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 71, Offset 31876.
@@ -1047,17 +1096,20 @@ In that case, there's no way he should still be alive."
 [sha:73f0d414a385e81fe17e7d6453689cd7a0b7310e]{
 -- Page 72, Offset 31877.
 -- 「可能性があるとしたら一つだけだ。俺が一命を取り留めたように、あいつも一命を取り留めた。
-"I can only think of one possible explanation. If I managed to survive by a hair's breadth, then the same must also be true for him.
+"I can only think of one possible explanation.
+ If I was somehow able to escape death, then the same must also have been true for him.
 }
 [sha:13b0a40090673d198855b3a3745e94e4978393d0]{
 -- Page 72, Offset 31878.
 -- ……いや、もしかすると親父は息の根を止めなかったのかもしれないな。
-...No, maybe it's possible that the old man didn't end up killing him after all.
+...On second thought, it's also possible that the old man just didn't actually kill him at all.
 }
 [sha:d2faa427ada65fb457c50431f6b75d3deed0efb9]{
 -- Page 72, Offset 31879.
 -- どんなに狂ってしまっても血を分けた自分の息子だ。だから殺せず、人目につかないところで養生させていたんじゃないのか？　俺が病院に担ぎこまれたみたいに」
-No matter how mad SHIKI has become, he's still his son by blood. Then wouldn't he let him live and take care of him in secret? Like how I was taken to the hospital."
+Even if SHIKI had gone mad, he was still his own flesh and blood.
+ What if, instead of killing him, he whisked him off somewhere to try and cure him in secret?
+ Like how I was taken to the hospital."
 }
 [sha:abc88e615e95ab6dc1058d6688f76a87b7b2a3ca]{
 -- Page 73, Offset 31880.
@@ -1072,7 +1124,7 @@ The fact that she doesn't even try to deny it is her strength... and also her we
 [sha:a1021f331007be8c3249de2bcf1d446a62409a53]{
 -- Page 73, Offset 31882.
 -- 今の推理は大筋で合っているのだろう。
-It's as if she's confirming that everything I said is true.
+It's as if she's confirming that at least the broad strokes of what I said are true.
 }
 [sha:89c1b2a56f21c49a850926d1f01c4983e90d5f6c]{
 -- Page 74, Offset 31883.
@@ -1112,7 +1164,7 @@ Akiha continues to hang her head in silence.
 [sha:f8a52845c86a632fb785cf0779d4cf9bff438ce7]{
 -- Page 76, Offset 31890.
 -- ……話はこれでおしまいだ。
-...With this, our conversation comes to an end.
+...Our conversation ends here.
 }
 [sha:9d1ca2f7adf05ec1e9b677262d97502381d20961]{
 -- Page 76, Offset 31891.
@@ -1122,22 +1174,23 @@ To be honest, I didn't really want to find out all this stuff about myself.
 [sha:d245be5aea887bff30b0ced65ced61a6cfb58821]{
 -- Page 76, Offset 31892.
 -- 今はそんな事より、一刻も早くアルクェイドに会わなくちゃいけない。
-But more importantly, I need to go and find Arcueid as fast as I can.
+But that's not what's most important right now.
+ I need to go and find Arcueid as soon as I possibly can.
 }
 [sha:a722b028650d8a90db4c93346a1e7617958ef73c]{
 -- Page 77, Offset 31893.
 -- 「ごめん、少し疲れた。眠るから、外に出てくれないか」
-"Sorry, I feel a bit tired. I'm going to sleep, so could you leave the room?"
+"Sorry, I'm a little tired. Would you mind leaving the room so I can sleep?"
 }
 [sha:1017f972abb453de17c77dc000df17f1beb3e999]{
 -- Page 77, Offset 31894.
 -- 「…………はい。兄さんがそう言うのでしたら」
-"......Of course. If that's what you say."
+"......Of course. If that's what you'd prefer."
 }
 [sha:7362491c618cad416d295bd298cffb649afedd5c]{
 -- Page 77, Offset 31895.
 -- 秋葉が扉へと去っていく。
-Akiha heads to the door.
+Akiha heads for the door.
 }
 [sha:585dc8ab61d27d29f6eaa3d63df6798f65f7088a]{
 -- Page 78, Offset 31896. Mods: @n.
@@ -1152,7 +1205,7 @@ Akiha heads to the door.
 [sha:d47e473fb900211e49a6d61042960a34d224cd69]{
 -- Page 78, Offset 31898.
 -- 訊きたい事がもう一つ残っていて、秋葉を呼びとめた。
-With one more thing to ask, I call her to stop.
+I call for her to stop. There's one more think I want to ask her.
 }
 [sha:cc2be44c14db8c7630bdde056c641ac5177e355e]{
 -- Page 78, Offset 31899.
@@ -1162,17 +1215,18 @@ With one more thing to ask, I call her to stop.
 [sha:dec86dac4112ac97229bb9980c82a0aa7b3350e9]{
 -- Page 79, Offset 31900.
 -- 「ああ。……秋葉は、どうして俺をこの屋敷に呼んでくれたんだ？　俺は……本当の兄貴じゃないのに」
-"Well... why did you call me back to this mansion in the first place? Even though... I'm not your real brother."
+"Well... Why was it that you called me back to the mansion? I'm... not even your real brother."
 }
 [sha:45ee76b6ddda44d84b2ac202c56620deb3de03cc]{
 -- Page 80, Offset 31901.
 -- 「……そんな莫迦なこと、言わないでください。
-"...Please don't ask such a foolish question.
+"...Please don't ask such foolish questions.
 }
 [sha:80869d59b8492d55d7998116113c81f6d1832ff7]{
 -- Page 80, Offset 31902.
 -- 私にとって兄さんは貴方だけです。今も昔も、兄さんは忘れてしまっただろうけど、子供の頃からずっと。
-To me, you're the only brother I have. You may have forgotten already, but back when were kids, and even now, you were always...
+To me, the word 'brother' refers to you and you alone.
+ You may have forgotten, but I have always felt this way, ever since we were children.
 }
 [sha:8b7ae3e4cb79ce25890061291500d6d8dd9dd82a]{
 -- Page 80, Offset 31903.
@@ -1182,5 +1236,7 @@ To me, you're the only brother I have. You may have forgotten already, but back 
 [sha:70243c0d33e209ac74f951eb8075347e33be2892]{
 -- Page 80, Offset 31904.
 -- がちゃり、と扉の開く音がして、秋葉は部屋から出ていった。
-With the sound of the door swinging open, Akiha leaves the room.
+// It says 開く here, but the SFX is _clearly_ the sound of a door closing.
+// It also just makes more sense?
+Akiha leaves the room, the door swinging shut behind her with a thud.
 }
