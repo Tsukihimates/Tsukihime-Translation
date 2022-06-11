@@ -1,3 +1,13 @@
+; cancel full-width extra spacing between lines.
+0xc05cc
+nop
+end
+
+; stop line feed
+0xc5a24
+b #0x4b4
+end
+
 ; install trampoline
 0xbe86c
 call #0xc4dd8
