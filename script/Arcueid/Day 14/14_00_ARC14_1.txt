@@ -140,7 +140,7 @@ When I first came to after the events of that night, I was back in my own room.
 [sha:1109f7f8c5916ffe3d9851be8b9ee2b4bcdb2927]{
 -- Page 13, Offset 36775.
 -- 先輩が運んでくれたらしく、幸いにも俺が部屋を出た事は秋葉たちには知られていなかった。
-It seems that Senpai carried me all they way back.
+It seems that Senpai carried me all the way back.
  Fortunately for me, it doesn't look like Akiha or the others even noticed I was gone.
 }
 [sha:ba497b7fac50991a863e334838d6eee069f22580]{
@@ -252,7 +252,7 @@ Even though I know it's pointless,
 [sha:575d1f5a263704bfa8da96d8424d884766163f72]{
 -- Page 22, Offset 36795.
 -- 「……はあ。秋も、じき終わりかな」
-"...Sigh. Seems like Autumn's almost over already."
+"...%{i}Sigh%{/i}. Seems like autumn's almost over already."
 }
 [sha:41028d35e3df0339ec9863fc8251232bab4b9552]{
 -- Page 22, Offset 36796.
@@ -529,7 +529,7 @@ But somehow, I feel incredibly calm.
 -- Page 37, Offset 36848.
 -- 「……まいったなぁ。本当はそっと消えるつもりだったんだけど、志貴、いつまでも待ってるんだもん。
 // Vampirish goodbye
-"...I give up. I seriously planned on disappearing quietly, but you just kept waiting for me, Shiki.
+"...I give up. I %{i}really was%{/i} planning on disappearing quietly, but you just kept waiting for me, Shiki.
 }
 [sha:f8af39b436c9087976543ebfa470e01de456ae6a]{
 -- Page 37, Offset 36849. Mods: @n.
@@ -579,7 +579,7 @@ I wonder if this is really happening.
 [sha:b0c5f8f0fd45a09b073a43206384d8e2ac5934c7]{
 -- Page 39, Offset 36858.
 -- 気が触れた末の幻でも、
-Maybe I've already lost my mind, and this is nothing more than an illusion.
+Or maybe I've already lost my mind, and this is nothing more than an illusion.
 }
 [sha:dd069f1edd888a3d1c70e10fad854d7a543322f1]{
 -- Page 39, Offset 36859.
@@ -648,7 +648,7 @@ But it turned out that it simply took a while for my urges to develop."
 [sha:1c4c138d477f3c4efc7a78a16f7dbfeb6685ec30]{
 -- Page 44, Offset 36871.
 -- 「その時まで……血に渇く時が来るまで、わたしは自分が吸血種である事さえ意識しなかった。
-"Until that happened... until I began to thirst for blood, I didn't even know that I was a vampire.
+"Until that happened... until I began to thirst for blood, I didn't even know that I was a bloodsucker.
 }
 [sha:9e90f0f9af22e617cdd61cff69a69e6a167eabbe]{
 -- Page 44, Offset 36872. Mods: @n.
@@ -1172,7 +1172,7 @@ And yet―――
 [sha:71a15205a0b06864dee143ae10c781bd96c7729a]{
 -- Page 70, Offset 36974.
 -- 最後まで笑顔で、俺に、生きていけだなんて、残していった。
-She kept on smiling right up until the end,
+She kept on smiling, right up until the end,
  and her final words were for me to keep on living.
 }
 [sha:80b429adfc370204881d0e73364e3ca5c1fbe56f]{
@@ -1235,6 +1235,7 @@ When I come to my senses, I see that the sun has long since set.
 [sha:3b65084d398f71405d7acaf8c9086a64945887ef]{
 -- Page 74, Offset 36986.
 -- 真紅だった空気は消えて、空は青く青く染まっていた。
+// group pr check: cg is not blue at all										
 The crimson atmosphere has vanished, and the sky is dyed a deep, deep blue.
 }
 [sha:dfdb4a9d812a8021dc08dbd1cdd6e7e40dccbb62]{
