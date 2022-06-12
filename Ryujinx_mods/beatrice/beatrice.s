@@ -21,15 +21,22 @@ end
 ; 0x00 is mode 0, 0x01 is mode 1.
 ; sure hope this code is as unused as it seems!
 0xc4dd8
-; U+2661 is the heart that noel uses.
-mov w8, #0x2661
-cmp w0, w8
-beq #0x0C
+cmp w0, #0x100
+bgt #0x0C
+; ascii
+mov w8, #0x01
+ret
+
+cmp w0, #0xE000
+blt #0x14
+cmp w0, #0xF000
+bgt #0x0C
 
 mov w8, #0x01
 ret
 mov w8, #0x00
 ret
+
 end
 
 ; Enable recording video
