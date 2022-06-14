@@ -22,7 +22,7 @@ Whether those activities are above board or not isn't something that people look
 [sha:902feaa15de01b9c7194b7ac0323bb4a9988042f]{
 -- Page 353, Offset 20550.
 -- 「――――――、っ――――――！」
-"Gh――――――!"
+"%{i}Gh%{/i}――――――!"
 }
 [sha:4a78e660f84c7914b78f44cfc26a0317b583a5be]{
 -- Page 353, Offset 20551.
@@ -291,7 +291,7 @@ In Arcueid's eyes, vampires that merely suck blood probably look no different to
 [sha:187727eba438d86ffebd25fbec3030bb544cb7dd]{
 -- Page 373, Offset 20600.
 -- 「っ…………」
-"Tch......"
+"%{i}Tch%{/i}......"
 }
 [sha:00454c90f34f140a529d4873532e465256e973c2]{
 -- Page 373, Offset 20601.
@@ -547,7 +547,7 @@ I sense no sign of the respiration critical for life.
 -- だだ漠然と、捕食する為だけの動物だと本能が理解する。
 // Uh is that supposed to be ただ?
 Yet my instincts can still understand, however vaguely,
- that this creature's sole purpose is to predate on others.
+ that this creature's sole purpose is to prey on others.
 }
 [sha:8cf2ab31ccc39d7780fb46d6f0ff6cea72cdf7dd]{
 -- Page 387, Offset 20649.
@@ -641,7 +641,7 @@ the fate of that vulgar whip of flesh is a foregone conclu―――
 [sha:c5a2065c753f91e7d2038ae5202c79689261b28a]{
 -- Page 393, Offset 20665.
 -- 「きゃっ……!?」
-"Kya...?!"
+"%{i}Kya%{/i}...?!"
 }
 [sha:7096c61c2fae9b5e3969bb4c88d9761a12951cf8]{
 -- Page 393, Offset 20666.
@@ -728,7 +728,7 @@ She's not the sort of woman to be bested by a monster like that.
 [sha:22c68a63022fa4780d4d764fbdf92166d810ba31]{
 -- Page 396, Offset 20679.
 -- 「て―――」
-"Tch―――"
+"%{i}Tch%{/i}―――"
 }
 [sha:acfd2ffdeb7915761f6ffc2d75c90544f51c2a30]{
 -- Page 396, Offset 20680.
@@ -786,7 +786,7 @@ I won't let those misshapen maws get a taste of her...!
 -- Page 398, Offset 20688.
 -- 切断する。単純に、なんのひねりもなく、動物的に繰り出されただけの動作ごと切断する。
 I slice.
- Lunging at it headlong like an animal, no artistry in my movements, I simply sever it.
+ Lunging at it headlong like an animal, with no artistry in my movements, I simply sever it.
 }
 [sha:b354fc804ad0c9fd81f5cd023b26795311e78715]{
 -- Page 398, Offset 20689.
@@ -896,7 +896,7 @@ It doesn't look like anything happened to the Dead that Arcueid killed,
 [sha:38bd0d24075f9583a87e51a846aec5366460ac4c]{
 -- Page 404, Offset 20707.
 -- 「は――あ」
-"Ha――ah."
+"%{i}Ha――ah%{/i}."
 }
 [sha:be09b752b378b540f4be9f609821f20d40de0456]{
 -- Page 404, Offset 20708.
@@ -912,7 +912,7 @@ It may have had a surreal appearance,
 [sha:d3bfaea03d42d72d23a0f0e2eda0f020d09d4995]{
 -- Page 404, Offset 20710.
 -- 「は、あ」
-"Ha... ah."
+"%{i}Ha%{/i}... %{i}ah%{/i}."
 }
 [sha:eecce3cca4e0055592f1be7c9b6e1bb1d047493e]{
 -- Page 404, Offset 20711.
@@ -934,7 +934,7 @@ I did not take any of Sensei's lessons into consideration.
 [sha:4e1ccedf7baf8629fa996eeab6311004fedfd90b]{
 -- Page 405, Offset 20714.
 -- 「はあ―――はあ―――はあ」
-"Ha―――ha―――ha."
+"%{i}Ha―――ha―――ha%{/i}."
 }
 [sha:71046dcc33eea926bc25fbd30435fd6ee46b2683]{
 -- Page 405, Offset 20715.
@@ -1025,7 +1025,7 @@ Thinking she might have sustained a wound on her chest,
 [sha:da6e98eb3ec2caeafb34d4e84aa41ea81724421f]{
 -- Page 411, Offset 20731.
 -- 「ぷっ―――ふふ、あはははは！　あははは！」
-"Pfft―――fufu, ahahahahaha! Ahahaha!"
+"%{i}Pfft―――fufu, ahahahahaha%{/i}! %{i}Ahahaha%{/i}!"
 }
 [sha:7939ca42b79e07bdcf4c205987ff44dce78d2ff9]{
 -- Page 411, Offset 20732.
@@ -1086,7 +1086,7 @@ If I'd been pushed any further,
 [sha:b6d6fa6f065e31a67653c484f47f0008b26fd2e1]{
 -- Page 415, Offset 20743.
 -- 「う、ぐ……」
-"Ugh, gh..."
+"%{i}Ugh, gh%{/i}..."
 }
 [sha:713c596c87a7cf2848c0328ec85fd391756e426c]{
 -- Page 415, Offset 20744.
@@ -1101,7 +1101,7 @@ I would still be at fault no matter what I say, so I have no choice but to stay 
 [sha:3bffd14261f336d3935aa338441ce9807807e87f]{
 -- Page 416, Offset 20746.
 -- 「……はあ。はいはい、分かりました。俺が悪うございましたとも。
-"...Sigh. Fine, I get it. I sincerely apologize for my actions.
+"...%{i}Sigh%{/i}. Fine, I get it. I sincerely apologize for my actions.
 }
 [sha:dcf2cc27e996cef755ac17695a0c0d1ed29e8adb]{
 -- Page 416, Offset 20747.
@@ -1178,7 +1178,7 @@ I try and hide my blushing cheeks with my hands,
 [sha:bbb50f016c0c15c70679126ec0066c8f03c9f7d4]{
 -- Page 421, Offset 20761.
 -- 「――――――っ」
-"――――――Ah"
+"――――――Ah."
 }
 [sha:447ff2cf5a293d863d02727e335b5dbe4575f915]{
 -- Page 421, Offset 20762.

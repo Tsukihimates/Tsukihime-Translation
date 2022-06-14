@@ -751,7 +751,7 @@ I tricked you, betrayed you, and now I'm heartlessly driving you into a corner, 
 [sha:7681e1cde97a02affdc16442862bb6628a642580]{
 -- Page 434, Offset 34533.
 -- かつん、と。
-Step.
+%{i}Step%{/i}.
 }
 [sha:050a317b0980e715260cbbd947fc55e181dbc5ae]{
 -- Page 434, Offset 34534.
@@ -1541,7 +1541,7 @@ Ciel-senpai throws out a terrifying joke without delay.
 [sha:ace98aa9e72fa79d6805efba4bc4d368348721b2]{
 -- Page 487, Offset 34691.
 -- 「まあ、時と場合によっては。たいへんな難病ですので、患者さんはお医者さんの判断を信じてくれないと話になりません」
-"Well, depending on the time and circumstances. Since we're talking about a terrible, incurable disease, it would be pointless if the patient doesn't believe in his doctor's judgement."
+"Well, depending on the time and circumstances. Since we're talking about a terrible, incurable disease, it would be pointless if the patient doesn't believe in his doctor's judgment."
 }
 [sha:17e67cfdfce9cd751ce383020a06d6f6c44ea733]{
 -- Page 487, Offset 34692.
@@ -1653,10 +1653,11 @@ For now, we should head toward the Church, right?"
 -- 「ええ。本国は無理でも、この国にはいくつかの支部がありますから。
 "Yes. The home country may be out of the question, but there are a few branches within this country.
 }
-[sha:296153b5ac049cb48510eacb5052856468765762]{
+[offset:34714]{
 -- Page 496, Offset 34714. Glued. Mods: @x, @k, @e.
 -- ……
-......
+// Fix double-glue headache
+%{n}......
 }
 [sha:a8ff2029ae39eb1945a0daf272189187b13b0cff]{
 -- Page 496, Offset 34715. Glued. Mods: @x.

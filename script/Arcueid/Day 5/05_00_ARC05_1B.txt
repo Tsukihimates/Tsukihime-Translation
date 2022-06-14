@@ -11,7 +11,7 @@ Arcueid pokes her head out of the kitchen.
 [sha:d6ebd424864b6df590ebbfa19ac119663d158a49]{
 -- Page 32, Offset 8675.
 -- 「む。恐い顔しちゃって、なにかあった？」
-"Hmph. What's with that scary face, did something happen?"
+"%{i}Hmph%{/i}. What's with that scary face, did something happen?"
 }
 [sha:82a340711594bbbac097f10000a6dcdc2ebb3643]{
 -- Page 32, Offset 8676.
@@ -31,7 +31,7 @@ Arcueid casually calls out to me with a light-hearted tone.
 [sha:d4ac4117082e5155fad4a48d91a270a916058e10]{
 -- Page 34, Offset 8679.
 -- ふふ。朝の挨拶をするなんて、珍しい経験ね」
-Hehe. It's rare for me to greet someone in the morning like this."
+%{i}Hehe%{/i}. It's rare for me to greet someone in the morning like this."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 35, Offset 8680.
@@ -296,7 +296,7 @@ It's a natural reaction.
 [sha:62cdc41ced21b1ddd7113a930214dab0b6dee82a]{
 -- Page 57, Offset 8732.
 -- 加害者である俺が、アルクェイドを殺した理由にまったく見当がつかないっていうんだから。
-After all, with me being the perpetrator, there's no way that Arcueid could know the reason I killed her.
+After all, with me being the perpetrator, there's no way that she could know the reason I killed her.
 }
 [sha:1a58a543435e737145c36984709667fe3f6db8d3]{
 -- Page 58, Offset 8733.
@@ -331,7 +331,7 @@ What did this woman say to me just now―――?
 [sha:5e0c1730a5f7ba264bc127e491436698243d65db]{
 -- Page 60, Offset 8739.
 -- チャイムを押して、扉が開いた瞬間に手を差し込んできて、有無を言わさず中に押し入る。
-You pressed the bell, thrust your hand in the moment the door opened and then forcibly made your way inside.
+You pressed the bell, thrust your hand out the moment the door opened, and then forcibly made your way inside.
 }
 [sha:3903934b89c7ded8512f6dc9c6bc3d3af839ddb9]{
 -- Page 60, Offset 8740.
@@ -456,7 +456,7 @@ I mercilessly assault Arcueid's eardrums with as much volume as I can muster.
 [sha:e60a0dc7b5475ab220e509a216a72985b55b951f]{
 -- Page 73, Offset 8764.
 -- 「いっ……たあ………」
-"Ou...ch......"
+"%{i}Ou%{/i}...%{i}ch%{/i}......"
 }
 [sha:4d411a8b3607bb0625c81c96a1f58a29492689e4]{
 -- Page 73, Offset 8765.
@@ -853,7 +853,7 @@ The nerve of this woman―――How could she say such a thing with a smile to h
 [sha:fbee7ef803d4838a8f47e74f62382f9d76c5da51]{
 -- Page 107, Offset 8843. Glued. Mods: @x, @k, @e.
 -- ど
- do
+ do――
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 107, Offset 8844. Glued. Mods: @x.
@@ -1169,7 +1169,7 @@ Arcueid. You said that you were rich, right?"
 [sha:2b01ae829778f243691f440d403b1c393a636643]{
 -- Page 134, Offset 8906.
 -- 「むっ……志貴、すごく無茶な注文してるよ、それ」
-"Hmph... Shiki, you're asking for something extremely unreasonable."
+"%{i}Hmph%{/i}... Shiki, you're asking for something extremely unreasonable."
 }
 [sha:97ce622bfc192ad730c77b3155d016f416958705]{
 -- Page 135, Offset 8907.
@@ -1285,5 +1285,5 @@ I'm getting irritated.
 [sha:6b1b43c485d6cd4fc29fa21f097d6b177c511d99]{
 -- Page 142, Offset 8929.
 -- あんまりにイライラするものだから、せめて一秒でも早く、応急手当が出来そうなモノを買ってこようと走り出した。
-So irritated that I waste no time in dashing out to buy something I can use to give her first aid.
+So irritated that I waste no time dashing out to buy something I can use to give her first aid.
 }

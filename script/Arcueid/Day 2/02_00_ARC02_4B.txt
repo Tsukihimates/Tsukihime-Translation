@@ -16,8 +16,9 @@ The time was eight o'clock, one minute ago.
 [sha:7e0da10f8520a1a348b40b799ab8e6655afdc7a5]{
 -- Page 200, Offset 3130.
 -- 駅前から全力で走ってきてギリギリ間に合ったが、正直、吐きそうなほど辛い。あの坂道が心臓破りすぎる。
-// 駅前から全力で走ってきてギリギリ間に合ったが、正直、吐きそうなほど辛い。あの坂道が心臓破りすぎる。I'm not a fan of "pain in the ass"
-I ran as fast as I could from the front of the station and just barely made it in time, but honestly, it was so hard that I felt like throwing up. That slope is too much for my heart.
+I ran as fast as I could from the front of the station and just barely made it in time,
+ but honestly, it was so hard that I feel like throwing up.
+ That slope is too much for my heart.
 }
 [sha:f09f5941ea93c825c1b6f4ba3c4b6262314523b0]{
 -- Page 200, Offset 3131.
@@ -32,17 +33,19 @@ It was fine on the way to school because it was downhill, but I forgot that it w
 [sha:ba5bf8efa25c7e6a149e2494f04bb098814f1095]{
 -- Page 201, Offset 3133.
 -- お疲れとは存じますが、お部屋に戻る前に執務室においでください。―――秋葉さまから、お話があるとの事です」
-I know you are tired, but before you go back to your room, please come to the office. ―――Akiha-sama has something to tell you."
+I know you are tired, but before you go back to your room, please come to the office.%{n}
+―――Akiha-sama would like to have a word with you."
 }
 [sha:b561532a34303758eee67be7aaee1296cdd9c73a]{
 -- Page 202, Offset 3134.
 -- 「う、ぐっ……し、執務室、ですか」
-"Ugh... the office, is it?"
+"%{i}Ugh%{/i}... the office, is it?"
 }
 [sha:aba577e04a0fd5e502f0cf4ff02e0fa986caf493]{
 -- Page 202, Offset 3135.
 -- わざわざ執務室に呼びつけるあたり、秋葉の不機嫌さは推してしるべしだった。
-The fact that Akiha took the trouble to call me into her office shows that she's in a bad mood.
+If Akiha's taking the trouble to call me into her office,
+ she must really be in a foul mood.
 }
 [sha:7c2ef15e507c364593a17af5a16534a5467089f8]{
 -- Page 203, Offset 3136.
@@ -57,17 +60,19 @@ As punishment, I will reduce your monthly allowance by about 20%."
 [sha:a23b6afd82e0c331eee27af27e37fb9350f0a1a6]{
 -- Page 204, Offset 3138.
 -- そしてこの仕打ちである。
-And that was the punishment.
+And there you have it.
 }
 [sha:82ec6522957894248a7993257170788921066bf9]{
 -- Page 204, Offset 3139.
 -- 執務室に入るなり、釈明の余地なく決定事項を告げられた。
-As soon as I entered the office, I was told of the decision without any room for explanation.
+My sentence was handed down the instant I entered her office,
+ I didn't even have a chance to plead my case.
 }
 [sha:6229eb6acc6d03a5306726a0412e09fc8562b0fb]{
 -- Page 204, Offset 3140.
 -- というか、そうか……これから俺の月々のお小遣いは秋葉から貰うことになるのか……そしていきなり減額か……。
-I mean, yeah... From now on, I'll be getting my monthly allowance from Akiha... And suddenly it's reduced...
+I hadn't thought about that... I guess I'll be receiving my monthly allowance from Akiha from now on.
+ And to think it's already been reduced...
 }
 [sha:8d0dd94b3d89044fc2cfb8eff951573a145524ca]{
 -- Page 204, Offset 3141.
@@ -87,12 +92,13 @@ Rejoice, Father. Akiha grew up to be a much stricter master than you.
 [sha:8843054e4d61c16fc35bcf80f2b2ff95af4e8e22]{
 -- Page 206, Offset 3144.
 -- 「あら、それは意外でした。私と約束を交わした自覚はあったんですね。では、どうして守れなかったんです？」
-"Oh, that is surprising. So you were aware that you made a promise to me. In that case, why did you not keep it?"
+"Oh, I'm shocked. So you %{i}were%{/i} aware that you made a promise to me.
+ In that case, why did you not keep it?"
 }
 [sha:9f6d22d30097fb9935ca882e32930dbd6d1a8313]{
 -- Page 206, Offset 3145.
 -- 「いや。それが、つい忘れてたみたいで」
-"No. It's just, I forgot."
+"Ah. Well, I suppose that I forgot."
 }
 [sha:bc2fc24df2ac07b33c5abf413fcdd4edc81ef018]{
 -- Page 207, Offset 3146.
@@ -117,17 +123,19 @@ What a tyrant...!
 [sha:fded841dc919d0488ca393e0e2afe50d23b049ef]{
 -- Page 208, Offset 3150.
 -- ギリギリ間に合ってこの厳しさとか本気で恐ろしい……仮に、もし門限を破ってしまったら、遠野志貴は一体どうなってしまうのか……。
-Even with me being on time, this strictness is seriously frightening... if I had broken the curfew, what would've happened to me?
+If she's this severe even though I managed to make it back on time,
+ I shudder to think what would have happened to Tohno Shiki if he'd broken the curfew...
 }
 [sha:dbbde244cf5232b9169b1a7fa2c1b76317f14140]{
 -- Page 209, Offset 3151.
 -- ……トボトボとロビーを横断し、自室に向かう。
-...I trudge across the lobby and head to my room.
+...I trudge across the lobby, heading for my room.
 }
 [sha:81147bda283e4d82091bf7ea17fe4f225978ec88]{
 -- Page 209, Offset 3152.
 -- あの後、当主さまに抗議をしたものの、夕食取り上げの罰だけは取り消せなかった。
-After that, I protested to the head of the family, but could not undo the punishment of taking away my dinner.
+// あの後 dropped since otherwise it somewhat confuses the temporality
+I'd protested to the head of the family, but could not undo the punishment of taking away my dinner.
 }
 [sha:f6e59efb3e561bb5f3d5e86ee00c56d8d0b38f54]{
 -- Page 209, Offset 3153.
@@ -152,13 +160,13 @@ It was a major victory in terms of a brother's dignity.
 [sha:49f502162af574123e91f35960cd020d06cb7385]{
 -- Page 210, Offset 3157.
 -- と、部屋に戻る途中、琥珀さんが話しかけてきた。
-I'm on my way back to my room when Kohaku-san comes to talk to me.
+As I'm on my way back to my room, Kohaku-san calls out to me.
 }
 [sha:8140f9ede538e4b41efa3efbc138e09afd8aa212]{
 -- Page 210, Offset 3158.
 -- 朝と同じように、廊下の隅に身を隠しての内緒話モードだ。
-// alt: Just like this morning, she hides herself in a corner of the corridor and talks to me in private.
-Just like this morning, she hides herself in a corner of the corridor and talks in a covert manner.
+She's hiding in one of the nooks in the corridor,
+ addressing me conspiratorially in much the same way as she did this morning.
 }
 [sha:0e2afca15315ad6136ce348ac1ba2ed29a92dd1d]{
 -- Page 211, Offset 3159.
@@ -168,13 +176,11 @@ Just like this morning, she hides herself in a corner of the corridor and talks 
 [sha:e026d3e791714c46dea9161abd9ea54e702bc38f]{
 -- Page 211, Offset 3160.
 -- いくらなんでも一日目なら言う事をきいてくれるだろうって、もうありえないぐらい早めに帰ってきてたんですから」
-// いくらなんでも一日目なら言う事をきいてくれるだろうって、もうありえないぐらい早めに帰ってきてたんですから」
-After all, she came back incredibly early, believing that's you'd listen to what you were told, if only for the first day."
+After all, she came back incredibly early, believing that you'd listen to what you were told, if only for the first day."
 }
 [sha:e5287130c35dd2cb20db34e485acaab3f19594d5]{
 -- Page 211, Offset 3161.
 -- 「？　帰ってきてたって、誰がですか？」
-// 「？　帰ってきてたって、誰がですか？」
 "Wait, who came back?"
 }
 [sha:752c7f13d21b4e063b31c0a3c9c31d598aa868ca]{
@@ -185,22 +191,22 @@ After all, she came back incredibly early, believing that's you'd listen to what
 [sha:4e2db81cb5051e0f0cddb93d965f1fd9dbb53c9c]{
 -- Page 212, Offset 3163. Glued. Mods: @x.
 -- い、いえ、なんでもございません。
- n-no, it's none of your concern.
+ n-no, you know what, never mind.
 }
 [sha:22eef55a75babcd70e820cde8a96fa4418bcf167]{
 -- Page 212, Offset 3164.
 -- コホン。それはともかくとして、夕食抜きは使用人として見過ごせません。
-Ahem. In any case, as a servant, I cannot overlook the fact that you did not have dinner.
+%{i}Ahem%{/i}. In any case, as a servant, I cannot overlook the fact that you did not have dinner.
 }
 [sha:58f99892df1823cd9472710fcfa56d2827aa588d]{
 -- Page 212, Offset 3165.
 -- ですので、お部屋の方に軽食をご用意しておきました。
-As a result, I prepared a light meal for you in your room.
+As such, I have prepared a light meal for you in your room.
 }
 [sha:8aab2bbf04a773d57dc242f8f1010acf6f881a41]{
 -- Page 212, Offset 3166.
 -- おにぎりとお味噌汁という簡単なものですが」
-Although it's just a rice ball and miso soup."
+Although it's just a rice ball and some miso soup."
 }
 [sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
 -- Page 213, Offset 3167.
@@ -215,13 +221,14 @@ What a thoughtful maid she is...!
 [sha:f4a240008b961bd74f126e8feca554a4bf012671]{
 -- Page 213, Offset 3169.
 -- 朝の携帯電話といい、秋葉に見つかったら叱られるのは彼女だろうに、ここまで気を遣ってくれるなんて……。
-// 朝の携帯電話といい、秋葉に見つかったら叱られるのは彼女だろうに、ここまで気を遣ってくれるなんて……。
-I'm sure she'll be scolded if Akiha finds out about this, or about the phone this morning, but to think that she would go this far...
+And this is on top of her returning my phone this morning.
+ To think that she'd go this far for me,
+ even though she's the one who'd be on the hook for it if Akiha found out...
 }
 [sha:ab99955f19d66f378a5aa2ddaf9920e13ea92455]{
 -- Page 214, Offset 3170.
 -- 「でもいいんですか？　俺はすごく助かりますけど……」
-"But is this really okay? It'd be a huge help but..."
+"Is this really okay? It'd be a huge help, but..."
 }
 [sha:0556495c05320b8fb16708233593324cc7785efe]{
 -- Page 214, Offset 3171.
@@ -246,7 +253,8 @@ Despite appearances, she looked out for me.
 [sha:82c46895264d812a3d2d487b50b85a5a582872b0]{
 -- Page 215, Offset 3175.
 -- 感情を出さない性格っぽいので誤解しがちだけど、翡翠も“夕食抜き”という仕打ちを哀れに思ってくれたらしい。
-It's easy to misunderstand her because she doesn't seem to show her emotions, but it seems that Hisui also felt bad about my 'no dinner' treatment.
+It's hard to get a read on her because she doesn't really let her emotions show,
+ but it seems that Hisui also felt bad about my 'no dinner' treatment.
 }
 [sha:5bfbc550ea885edc85643ebb705d7f3fbe3b5199]{
 -- Page 216, Offset 3176.
@@ -271,7 +279,7 @@ Hisui-chan is very kind in spite of her appearance.
 [sha:1f909fc3bf3bb35a59f3248044c4c3d4e151678d]{
 -- Page 217, Offset 3180.
 -- 志貴さんもどうか、これからは気軽に、家族と思って、翡翠ちゃんと呼んで上げてくださいな」
-So please, don't be reserved and call her by her first name as if she were family."
+So please, think nothing of it and call her by her first name as if she were family."
 }
 [sha:e7d63a7c465dd0b2735463df12c0e055b2e43a66]{
 -- Page 218, Offset 3181.
@@ -286,7 +294,8 @@ Kohaku-san is staring straight at me.
 [sha:2daedc5f57b97fbdb07f5a53cdb7b60a8cb7b811]{
 -- Page 218, Offset 3183.
 -- 今も琥珀さんと同じように気を遣ってくれた訳だし、俺もできるだけ気を許すようにしないと。
-I'm sure she's just as concerned about me as Kohaku-san right now, so I should be more open with her if possible.
+I'm sure she's just as concerned about me as Kohaku-san right now,
+ so I should try to relax around her a bit more.
 }
 [sha:95dd0c04f65702c2be07e8e543379122f1d36c4f]{
 -- Page 219, Offset 3184.
@@ -296,7 +305,7 @@ I'm sure she's just as concerned about me as Kohaku-san right now, so I should b
 [sha:d28ca86c8fa8f4e2d9b108f515ee4e93b11183d9]{
 -- Page 219, Offset 3185.
 -- 「はい。それはたいへん良うございます」
-"Yes, that would be much appreciated."
+"Please do. It would be much appreciated."
 }
 [sha:4da1fd1fb2a859271b666034929acd160808246e]{
 -- Page 220, Offset 3186.
@@ -306,32 +315,33 @@ After that, Kohaku-san goes downstairs.
 [sha:da54c75dc5b9e0f572a5c39d677b15fd74e17e3f]{
 -- Page 220, Offset 3187.
 -- 地獄に仏、遠野邸のナイチンゲールに心の中で手を合わせて、こっちも自室に戻る。
-In this time of distress, I pray within my heart to the Nightingale of the Tohno residence and return to my room.
+// 地獄に仏 sorta 'good samaritan'
+I say a silent prayer to my savior, the Nightingale of the Tohno residence, and return to my room.
 }
 [sha:0c43e888afc568176281e2b82d84a62e0b0916e5]{
 -- Page 220, Offset 3188.
 -- おにぎりか……琥珀さんの事だから、さぞ美味しいに違いない……。
-Rice balls, huh... They must be very tasty since they were made by Kohaku-san...
+Rice balls, huh... Kohaku-san made them, so they must be pretty tasty...
 }
 [sha:a5a69c4dbb4718abf12f0cf7d89534d8f0c7f300]{
 -- Page 221, Offset 3189.
 -- 「―――ふう、いいお湯だった」
-"―――Phew, that was a nice bath."
+"―――%{i}Phew%{/i}, that was a nice bath."
 }
 [sha:bce05e7df31a8a6607f543bd0d1866229261f90b]{
 -- Page 221, Offset 3190.
 -- 琥珀さん特製のおにぎりを平らげ、
-I ate the rice balls specially made by Kohaku-san,
+I'd wolfed down the rice balls specially made by Kohaku-san.
 }
 [sha:e12599aead6b1aaabd670285250387572e35880b]{
 -- Page 221, Offset 3191.
 -- 翡翠にお風呂の時間だと告げられ、
-got told by Hisui that it was bath time,
+After that, Hisui came by to tell me that the bath was ready.
 }
 [sha:3761de96626972f6b6b4a7c3245795a935861a95]{
 -- Page 221, Offset 3192.
 -- 大浴場から戻ってくると、時刻は９時になっていた。
-and when I came back from the bath, it was nine o'clock in the evening.
+By the time I come back from my bath, it's nine o'clock in the evening.
 }
 [sha:dffcbd7ac5974ea04d5bdf4ce3f5e52ff2d83b63]{
 -- Page 222, Offset 3193.

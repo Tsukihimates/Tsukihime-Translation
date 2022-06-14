@@ -26,16 +26,19 @@ The sound of cicadas.
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 2, Offset 28976. Mods: @k, @e.
 -- みーん　みんみん
+// lint-off:LintDupedWord
 %{i}chiiiirp    chirp chirp%{/i}
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 2, Offset 28977. Mods: @k, @e.
 -- みーん　みんみん
+// lint-off:LintDupedWord
 %{i}chiiiirp    chirp chirp%{/i}
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 2, Offset 28978. Mods: @k, @e.
 -- みーん　みんみん
+// lint-off:LintDupedWord
 %{i}chiiiirp    chirp chirp%{/i}
 }
 [sha:b3f9b00107c601ef6ca2942d5e779bde5483ac0c]{
@@ -71,17 +74,17 @@ It's as if the world has turned into a frying pan.
 [sha:440d2cf8581090653fcc957790caa86cc64a2f85]{
 -- Page 4, Offset 28985. Mods: @k, @e.
 -- えーん　えんえん
-%{i}Uwah... waah...%{/i}
+%{i}Uwah%{/i}... %{i}waah%{/i}...
 }
 [sha:440d2cf8581090653fcc957790caa86cc64a2f85]{
 -- Page 4, Offset 28986. Mods: @k, @e.
 -- えーん　えんえん
-%{i}Uwah... waah...%{/i}
+%{i}Uwah%{/i}... %{i}waah%{/i}...
 }
 [sha:440d2cf8581090653fcc957790caa86cc64a2f85]{
 -- Page 4, Offset 28987. Mods: @k, @e.
 -- えーん　えんえん
-%{i}Uwah... waah...%{/i}
+%{i}Uwah%{/i}... %{i}waah%{/i}...
 }
 [sha:5705e066a1b69c51f76a77c798ad4164690c0e68]{
 -- Page 4, Offset 28988.
@@ -287,7 +290,7 @@ The cool breeze hits my cheeks.
 [sha:1e301ecc44cd76e321f094dbc81fccbac724a745]{
 -- Page 13, Offset 29028.
 -- 目蓋には淡い陽の光。
-The faint light of the sun plays across my eyelids.
+The faint light of the sun dances across my eyelids.
 }
 [sha:1d37832ed57fd3dd1dc1f08f3fcf3eee56852c52]{
 -- Page 13, Offset 29029.
@@ -352,7 +355,7 @@ The faint light of the sun plays across my eyelids.
 [sha:9cdb0124f780bd6caf530bc6a89f306461a5bf01]{
 -- Page 17, Offset 29041.
 -- 「おはようございます。
--- TRANSLATION HERE
+"Good morning.
 }
 [sha:3cb5ac61b6f7bf5ee7899bb33fbcea77051d1a54]{
 -- Page 17, Offset 29042.

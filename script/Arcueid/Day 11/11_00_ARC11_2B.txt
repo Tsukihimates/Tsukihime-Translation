@@ -11,7 +11,8 @@ I didn't go to Arcueid's apartment.
 [sha:55e017f12d3e11a619871d138850463971605fd3]{
 -- Page 10005, Offset 29926.
 -- 行ったところで居る筈もないし、いまは他にやっておくべき事がある。
-I thought about going, but she probably wouldn't be there. I have other things to do for now.
+She probably wouldn't even have been there if I had,
+ and besides, I have something else I should be doing.
 }
 [sha:e80cb167084b2d1d147e4e355c7399e3d4fb8808]{
 -- Page 10005, Offset 29927.
@@ -26,12 +27,15 @@ I'll catch her after that.
 [sha:0ce1e08a4a5cc58dcc3a9fafd9d81305206a4686]{
 -- Page 149, Offset 29929. Glued.
 -- 志貴さま」
-Shiki-sama."
+// Leading space for glue
+ Shiki-sama."
 }
 [sha:4a093d08d4bd36d32ba3deae3e48ea3352241b33]{
 -- Page 149, Offset 29930.
 -- 屋敷に帰るなり、翡翠が出迎えてくれる。
-As soon as I get home, Hisui comes to greet me.
+// She's already waiting for him
+// Mildly liberal, but lines up with the audio fx
+Hisui greets me as soon as I come in the door.
 }
 [sha:b606c6714bbff71bf23ce00e3fde513759f65eb3]{
 -- Page 149, Offset 29931. Mods: @n.
@@ -41,48 +45,57 @@ As soon as I get home, Hisui comes to greet me.
 [sha:f7ed27224321528af4965e04dd828621803a78f1]{
 -- Page 149, Offset 29932. Glued.
 -- いつもありがとう翡翠」
-Thanks as always, Hisui."
+// Leading space for glue
+ Thanks as always, Hisui."
 }
 [sha:3f1aa538f54b933b657bec0bb21c756f8d052780]{
 -- Page 149, Offset 29933.
 -- その気遣いに心から感謝の気持ちを述べる。きっと、今までもこうやって俺の帰りを待ってくれていた。俺にはその気遣いを察する余裕がなく、何度も翡翠を困らせた。
-I sincerely thank her for her concern. She must've been waiting all this time. With no regard for her concern, I'm always causing trouble for Hisui.
+I sincerely thank her for her thoughtfulness.
+ She must've been waiting all this time.
+ I've caused a lot of problems for Hisui by not taking that thoughtfulness into account.
 }
 [sha:1dfc6221bbb4786e79a28237b101c49bc0e9f9e8]{
 -- Page 149, Offset 29934.
 -- だから今日ぐらいは決まり通り日没前に帰って、彼女に職務を全うさせてあげたかった。
-That's why, at least for today, I wanted to return before sunset so she can fulfill her duties.
+That's why, even if just for today,
+ I wanted to do things by the book and return to the mansion before sunset so that she can fulfill her duties.
 }
 [sha:1575fbaba99ed253991a909820bb5c298ca90976]{
 -- Page 149, Offset 29935.
 -- 秋葉との夕食を済ませて、食堂を後にする。
-I'll have dinner with Akiha, after that I'll leave.
+// This line is actually the start of a fresh page.
+// lint-off:LintPageOverflow
+After having dinner with Akiha, I leave the dining room.
 }
 [sha:7033fbfc80347ed92ad3cd021711a582563fb5f3]{
 -- Page 149, Offset 29936.
 -- 今夜はわりと兄らしい振る舞いができたと思う。秋葉とも、琥珀さんとも何ら飾ることなく話が弾んだ。……や、今までに比べたら、の話だけど。
-I think tonight I'll play the part of a proper brother. With Akiha and Kohaku-san, we'll have an unadorned talk. Well, not quite, but it'll be better than before.
+// Interpreting 何ら飾ることなく話 as the opposite of うわべを飾る
+I think I was able to play the part of an older brother well enough.
+ The conversation between Akiha, Kohaku-san and I was both down-to-earth and spirited.
+ ...Well, compared to how things used to be, at least.
 }
 [sha:494ca460833b12a4679645c59f198e976dd65601]{
 -- Page 153, Offset 29937.
 -- 部屋に戻って荷物をまとめる。
-I return to my room and drop off my stuff.
+I return to my room and pack up my belongings.
 }
 [sha:38d2014309656213f5ff2611bc1c818a1c35b96f]{
 -- Page 153, Offset 29938.
 -- といっても俺の荷物なんて学校の教材ぐらいだ。
-Well, I say 'my stuff', but it's really just my schoolwork.
+Well, I say 'belongings', but it's really just my textbooks.
 }
 [sha:1a21fd4730c9ff1b0fe17c31fc57ec7c90393bad]{
 -- Page 153, Offset 29939.
 -- すっかり愛用品になってしまった<短刀|ナイフ>は懐にしまってあるので、あとは携帯端末と、白いリボンをポケットにしまうだけだ。
-// "all i even" is an attempt to encode the しまうs sprinkled throughout.
-All I even regularly carry now is my knife in my breast pocket, my phone, and the white ribbon in my pocket.
+The knife that's ended up being part of my everyday carry is already tucked away in my inside breast pocket,
+ so the only other things I need to grab are my phone and the white ribbon.
 }
 [sha:480752e30f0b02c9306331ba238474bdd299ada6]{
 -- Page 154, Offset 29940.
 -- 「――――――さて」
-"―――Alright then"
+"―――Alright."
 }
 [sha:9541a9543fea53d5d5ad7cfcf952a8fb9626495a]{
 -- Page 154, Offset 29941.
@@ -92,17 +105,17 @@ I tidy my room and take a deep breath.
 [sha:5e3a8360034acedcb3f5c8a5152eac725a570c01]{
 -- Page 154, Offset 29942.
 -- こんな短期間に二度も、自分の部屋に別れの挨拶をするとは思わなかった。
-I wouldn't have guessed I'd be bidding my room farewell after only having greeted it a short while ago.
+I never would have guessed that I'd be bidding my own room farewell again so soon.
 }
 [sha:e41ae87ee8fec5b9927f0eec6bb676a64ebc7d52]{
 -- Page 155, Offset 29943.
 -- いや、戻ってくる気満々だけど、万が一という事もあるし。
-I fully intend to return but, just in case.
+I fully intend to return, but you never know what might happen.
 }
 [sha:e719af2708e6a973f7ef7533947e965090686f1d]{
 -- Page 155, Offset 29944.
 -- 帰れない時に備えて、礼は尽くしておくに越した事はない。
-But in preparation for the possibility I don't return, I'm getting my thanks over with.
+It doesn't hurt to say my thanks now, just on the off-chance I never make it back.
 }
 [sha:18089a994a3d3ca8ea4e0f39fb37770ec3872f23]{
 -- Page 156, Offset 29945.
@@ -117,5 +130,5 @@ It's half-past nine.
 [sha:0d96260f9f260e5e96ffb11a01d820c27c6e41e7]{
 -- Page 156, Offset 29947.
 -- 屋敷を出るにはちょうどいい時間だった。
-Now's a good time to leave my room.
+The perfect time to leave the mansion.
 }

@@ -221,7 +221,7 @@ At my feet...
 [sha:09c66d1b408004f02d793221337c41ec6db1f9b7]{
 -- Page 134, Offset 21659.
 -- 「い――――痛…………」
-"Ou――――ch..."
+"%{i}Ou――――ch%{/i}..."
 }
 [sha:389aa5b9d70031a037f4bbb21963ec857d928c19]{
 -- Page 134, Offset 21660.
@@ -348,11 +348,13 @@ Akiha's bloody, tear-streaked face flashes before my eyes.
 [sha:b8d11861d1f050f81781c37faf172e49cdfd90cb]{
 -- Page 139, Offset 21682. Mods: @k, @e.
 -- みーん、みんみん。
+// lint-off:LintDupedWord
 %{i}chiiiirp    chirp chirp%{/i}
 }
 [sha:b8d11861d1f050f81781c37faf172e49cdfd90cb]{
 -- Page 139, Offset 21683. Mods: @k, @e.
 -- みーん、みんみん。
+// lint-off:LintDupedWord
 %{i}chiiiirp    chirp chirp%{/i}
 }
 [sha:8bf2b2be5c504a787946f1863068bbdecfca0df9]{
@@ -369,7 +371,7 @@ The cries of the cicadas feel like needles trying to pierce a hole in my eardrum
 [sha:1ee7098e751b39d9a7aebe4662367a1416ca99fa]{
 -- Page 140, Offset 21686.
 -- 「あ――――ぐ」
-"Ah――――gh."
+"%{i}Ah――――gh%{/i}."
 }
 [sha:ffab3730a9b65ff85242a832539b58300a03d8f2]{
 -- Page 140, Offset 21687.

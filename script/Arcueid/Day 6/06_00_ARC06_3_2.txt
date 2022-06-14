@@ -235,18 +235,18 @@ I would have thought he'd be the type of person to look down on people for being
 [sha:50443da8531dd7479d3ded3098ee3f26975626f4]{
 -- Page 294, Offset 14629.
 -- 「私が？　あの使用人と？　……は。
-"Me? With that maid? ...Hah.
+"Me? With that maid? ...%{i}Hah%{/i}.
 }
 [sha:60bd56dece3787d5701abf52163fcde88cb10514]{
 -- Page 294, Offset 14630. Mods: @n.
 -- はは。ははは。
-Haha. Hahaha.
+%{i}Haha%{/i}. %{i}Hahaha%{/i}.
 }
 [sha:0246d81a55e4112a5a5a967010f540aab301bf38]{
 -- Page 294, Offset 14631. Glued. Mods: @x.
 -- ははははは！」
 // Leading space for glue
- HAHAHAHAHA!"
+ %{i}HAHAHAHAHA%{/i}!"
 }
 [sha:d356f97b0fd714ad53ab0e7a86dfadb440529137]{
 -- Page 295, Offset 14632.

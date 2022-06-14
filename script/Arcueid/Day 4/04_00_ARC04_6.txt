@@ -336,8 +336,7 @@ But you're a vampire too, aren't you?"
 [sha:fd159e9e69cc3fd11b0b1b75df619cef540f27d1]{
 -- Page 389, Offset 6640.
 -- 俺が言いたいのは、どうして<吸|・><血|・><鬼|・>であるおまえが<吸|・><血|・><鬼|・>を殺すのかって事だ。それ、おかしいだろ、理屈的に」
-// ruby dots <吸|・><血|・><鬼|・>であるおまえが<吸|・><血|・><鬼|・>
-What I'm trying to say is, why would a vampire like yourself be going out killing other vampires? That doesn't make any logical sense."
+What I'm trying to say is, why would a %{i}vampire%{/i} like yourself be going out killing %{i}other vampires%{/i}? That doesn't make any logical sense."
 }
 [sha:7e428da9e99f4f422721e84b96c2359a7751cc02]{
 -- Page 389, Offset 6641.
@@ -393,13 +392,12 @@ They don't have the same sense of fellowship that humans do."
 [sha:8121f5b63d5597133b082dff0098573b0bdfd64d]{
 -- Page 393, Offset 6651.
 -- 「ええ、わたしとは別種の吸血種。
-"Yeah, it's a different species of vampire to me.
+"Yeah, it's a different species of bloodsucker from me.
 }
 [sha:a579aa54775e0c3892f2eea4c1d812d6bc2eb729]{
 -- Page 393, Offset 6652.
 -- わたしが追いかけているのは<人|・><間|・>の吸血鬼だから、あなたたちが抱く<幻想|イメージ>とほぼ一緒よ。
-// ruby dots <人|・><間|・>
-The vampire I'm chasing is a Dead Apostle, so it's almost exactly the same as the image you have of vampires.
+The vampire I'm chasing is a %{i}Dead Apostle%{/i}, so it's almost exactly the same as the image you have of vampires.
 }
 [sha:20408284a9077eff72a5991d2ec089b639d1daca]{
 -- Page 393, Offset 6653.
@@ -429,7 +427,7 @@ In this way, their numbers increase and eventually, they turn an entire village 
 [sha:d36a3dad0ea22e9f83040ff5feb34c1f77130832]{
 -- Page 395, Offset 6658.
 -- 「ええ。この街に<潜|ひそ>んでいるのはそういう吸血鬼。
-"Yes. That's the kind of vampire that lurks in this town.
+"Yes. That's the kind of vampire that lurks in this city.
 }
 [sha:4388b41f45d599eb707253de835e335e2549d0be]{
 -- Page 395, Offset 6659.
@@ -464,7 +462,7 @@ So you're telling me that the reason you asked me to become your shield was so y
 [sha:d3addeac2a18345f9fb0ea2025fbe42057d72596]{
 -- Page 398, Offset 6665.
 -- あなたなんて嫌がっても盾にしてやる、逃げても<魔眼|くさり>で縛り付けてさんざん怖がらせて使い切ってやるって。
-I was planning to use you as a shield regardless. Even if you tried to run away, I would have bound you with my Mystic Eyes and used you through the power of overwhelming fear.
+I was planning to use you as a shield regardless. Even if you tried to run away, I would have bound you with my %{i}Mystic Eyes%{/i} and used you through the power of overwhelming fear.
 }
 [sha:a0589156f2e0973b21007b3165bccceaaf91a458]{
 -- Page 398, Offset 6666.
@@ -494,7 +492,7 @@ Okay, I'll have to make sure to remember that.
 [sha:a21df7e56cb456f6e7090850c040cf161f6e3ec4]{
 -- Page 400, Offset 6671.
 -- わたしね、志貴。あなたに殺されて復元するまでのあいだ、あなたは教会の人間だと思っていたの。
-You know, Shiki. From when I was killed by you up until the time I restored myself, I thought that you were a member of the Church.
+You know, Shiki. From when I was killed by you up until the time I restored myself, I thought that you were a member of the %{i}Church%{/i}.
 }
 [sha:ac1bda3e23e0fb30c4c98fae76d128cf080512c2]{
 -- Page 400, Offset 6672.
@@ -509,7 +507,7 @@ If that were the case, there was a chance that you knew the location of the enem
 [sha:0d68077f4b4e2502ce839a61c345c8e0924007c6]{
 -- Page 402, Offset 6674.
 -- 「……ええ、そもそもあの連中がこんな無神論者の国に代行者を派遣するわけがないし、そもそも<単独|ひとり>じゃ動かないものね。師匠と弟子の<二人組|ツーマンセル>があいつらの基本だったわ……」
-"...Yeah, there's no way they'd send an executor to an atheist country like this in the first place. Not to mention that they wouldn't be operating alone. Their policy is to always move in master-disciple pairs after all..."
+"...Yeah, there's no way they'd send an %{i}Executor%{/i} to an atheist country like this in the first place. Not to mention that they wouldn't be operating alone. Their policy is to always move in master-disciple pairs after all..."
 }
 [sha:43f0edc2cfc8d08a51ca0e514b5016afdb9123a8]{
 -- Page 403, Offset 6675.
@@ -764,10 +762,10 @@ But I...
 [sha:6558beb01c77c65d5677545f8ec0947ca31f3209]{
 -- Page 420, Offset 42606. Choice.
 -- ……酔狂はここまでだ。逃げよう。
- ...Enough with the madness. Let's run.
+ ...Enough with the madness. I'll run away.
 }
 [sha:9e997951a7440ffaea67a408ded056c0a376893b]{
 -- Page 420, Offset 42607. Choice.
 -- ……迷うのはここまでだ。残ろう。
- ...No more getting lost. Let's stay.
+ ...No more getting lost. I'll stay.
 }

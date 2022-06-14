@@ -144,7 +144,8 @@ Right now they're showing, uhh... a romance, a romance, and more romance.
 [sha:ae3abf5e9a1b80b351ac42a4867716d647cfa9e5]{
 -- Page 131, Offset 24594.
 -- 頭の先からつま先まで砂糖でできているのか、この映画館。
-What kind of overly saccharine movie theater is this.
+// This one reads better with a question mark
+What kind of overly saccharine movie theater is this?
 }
 [sha:28bf472b7144f1f5b7a25fb14c6d1e1a221af77b]{
 -- Page 132, Offset 24595.
@@ -156,13 +157,12 @@ What kind of overly saccharine movie theater is this.
 -- 「わたしはどれでもいいわ。なんか、どれも同じみたいだもの。退屈でも我慢する。これも乗りかかった船、でしょう？」
 "I'm fine with whatever. They all look the same to me.
  I'll put up with it, even if it's boring.
- In for a penny, in for a pound right?"
+ We've made our bed, so now we have to lie in it, right?"
 }
 [sha:f1a74d04be954bef1485678534cafd2d39a8711e]{
 -- Page 133, Offset 24597.
 -- どこかで聞いたフレーズを返された……ネットで事前調査していなかった俺のミスだ。
-// I think he's referring to 乗りかかった船, which he says to Arc in 04_00_ARC04_4_1
-// Nobody's gonna remember that unless we go back and change both instances to be a more quirky idiom.
+// Referring to 乗りかかった船, which he says to Arc in 04_00_ARC04_4_1
 I think I've heard that phrase somewhere before...
  This is all on me for not checking the showings online beforehand.
 }
@@ -349,12 +349,12 @@ Besides, I'm bad at that game. I get sad when I play it. That's the only thing I
 -- Page 147, Offset 24631.
 -- 「弱いんじゃなくて苦手なんだよ。っていうかつまんないだろ、言葉を繋げても。
 "I'm not unskilled, I'm just not good at it.
- Plus like, it's boring right? All you're doing is stringing words together.
+ Plus like, it's boring, right? All you're doing is stringing words together.
 }
 [sha:9b32945836432deafd2436ce8d551d0b0b9b9569]{
 -- Page 147, Offset 24632.
 -- ……いい、５分前だしそろそろ入ろう。これチケットな。中に入る時に見せればいい。券の半分を取られるけど、それが決まりなんだから怒ったりしちゃダメだぞ」
-...Whatever. The movie starts in five minutes, so we should head in. Here's your ticket. You just have to show it to them when we enter. They'll take half of it away, but that's just the procedure, so don't get upset about it okay?"
+...Whatever. The movie starts in five minutes, so we should head in. Here's your ticket. You just have to show it to them when we enter. They'll take half of it away, but that's just the procedure, so don't get upset about it, okay?"
 }
 [sha:0c6ffc06368f1cba6e6e57881feb1782841326ae]{
 -- Page 148, Offset 24633.
@@ -460,7 +460,7 @@ Fun and boring are subjective, but was %{i}that%{/i} really that fun?!
 -- Page 156, Offset 24652.
 -- そりゃあ知識としては知っていたけど、そんなの瑣末な空想でしかなかったみたい」
 I had some intel on what to expect, sure,
- but the real thing was far beyond anything I could possibly have imagined!"
+ but the real thing was far beyond anything I could have possibly imagined!"
 }
 [sha:2c073cc6c3eac695af58a12a5522128afc91c329]{
 -- Page 157, Offset 24653.
@@ -543,7 +543,8 @@ They're not showing them right now because they're out of season,
 [sha:3b749f3f6031cb740d1145afc4d1f85cffe4864f]{
 -- Page 163, Offset 24668.
 -- 「……わかりやすい感情表現をするんだな、アルクェイド」
-"...You really wear your emotions on your sleeve, don't you Arcueid."
+// Also works better this way
+"...You really wear your emotions on your sleeve, don't you, Arcueid?"
 }
 [sha:74ebc7b6dcd95b612e054de7b0b79fe0ec83d0e6]{
 -- Page 164, Offset 24669.
