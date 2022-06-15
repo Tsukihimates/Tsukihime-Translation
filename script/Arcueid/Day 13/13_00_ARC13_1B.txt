@@ -474,7 +474,7 @@ Going back to Roa―――has he been living at our school?"
 -- Page 115, Offset 31993.
 -- 「ロアの隠れ家は他にも複数あったようですが、現在、あの校舎を根城にしているのは間違いないようですね。
 "It seems he's used a number of places as his hideout in the past,
- but for the moment he's taken that school building to be his stronghold.
+ but for the moment, he's taken that school building to be his stronghold.
 }
 [sha:72d039bb22928df3f4e3b8739f3cb21997ff26f0]{
 -- Page 115, Offset 31994.
@@ -531,6 +531,7 @@ Roa is a reincarnating vampire. It's only natural that his appearance, character
 [sha:2a81be82906961c56d3b4f57182dde176aef28be]{
 -- Page 119, Offset 32004.
 -- 「いいですか遠野くん。ロアが転生先に選んだ肉体は、ロアとは別の人格・人間として育ちます。知性が十分に育たなければロアは己を発揮できませんから。
+// why is themselves used here when it's referring to Roa himself?
 "Listen to me, Tohno-kun.
  The body that Roa chooses to reincarnate into is raised as a human with their own personality and everything.
  Roa can't manifest themselves unless the host reaches a sufficient level of intellect.
@@ -565,7 +566,7 @@ And so, even after the new iteration of Roa awakens,
 -- Page 122, Offset 32010.
 -- 「半々の状態、といったところでしょうか。転生先となった遠野シキの意識は七年間<譫妄|せんもう>状態だった。
 "I'd say it's more like fifty-fifty.
- Tohno SHIKI, the target for the reincarnation, has been in a state of delirium for the past seven years.
+ Tohno SHIKI, the target for reincarnation, has been in a state of delirium for the past seven years.
 }
 [sha:ff09672f5eb789686f4e282d53be4cc077003e58]{
 -- Page 122, Offset 32011.
@@ -823,7 +824,7 @@ Actually, I should probably avoid the word 'monster'. She'd definitely get upset
 [sha:ba6cb5ccf5dea300d5004ed8816f9eab73c7e198]{
 -- Page 141, Offset 32058.
 -- 「……コホン。えー、人魚だろうと、結果は変わらない。それぐらい、俺はあいつそのものに惚れてるんです」
-"...Ahem. Uh, even if she was a mermaid, it wouldn't change anything.
+"...%{i}Ahem%{/i}. Uh, even if she was a mermaid, it wouldn't change anything.
  That's how deeply I've fallen in love with who she is."
 }
 [sha:9b44a4c586f7c0a9834bf98f5a5d81e4f560a09c]{
@@ -834,12 +835,12 @@ I look Senpai dead in the eyes and tell her how I feel.
 [sha:e2a8862da36f3e4bbf0d1828a3ab72d0e1265d53]{
 -- Page 142, Offset 32060.
 -- 先輩は頬に手をあてて、なぜか頬を赤らめたりしている。
-Senpai puts her hands to her cheeks. It seems she's blushing for some reason.
+She puts her hands to her cheeks. It seems she's blushing for some reason.
 }
 [sha:dce9f1b7c8d76aac0f21cb6e6f80b9b03994dfb2]{
 -- Page 143, Offset 32061. Mods: @n.
 -- 「……はあ。
-"...Sigh.
+"...%{i}Sigh%{/i}.
 }
 [sha:c9ed4f624861c0e9a06c14a3e173efa1b31cffc8]{
 -- Page 143, Offset 32062.
@@ -890,7 +891,7 @@ I'm not sure how much help I'll be in a fight with my body in its current state,
 [sha:391ef63065094136303bbcbdb1086b8d8f37c099]{
 -- Page 147, Offset 32071.
 -- 彼女は一度決壊した吸血衝動を抑えて活動している。その為に能力はさらに低下し、ロアの半分にも満たないでしょう。
-Right now she's struggling to hold back her vampiric urges after they already overcame her once.
+Right now, she's struggling to hold back her vampiric urges after they already overcame her once.
  As a result, her abilities have degraded even further, to the point where she's barely half as powerful as Roa.
 }
 [sha:65e53902e0ccb8af6d5e973f55c3dd349a94df9a]{
@@ -1577,7 +1578,7 @@ Senpai glances over toward the window.
 -- Page 197, Offset 32203.
 -- 「ロアより遠野くんの方を優先して来てたなんて彼女らしくないですけど。―――まあ、これでロアの方を優先しているようでしたら、わたしがトドメを刺しに行きますが」
 "But it really isn't like her to prioritize you over Roa...
- Well, I guess if she's now decided to go take care of Roa, I should go deliver the finishing blow."
+ Well, I guess if she's now decided to go take care of him, I should go deliver the finishing blow."
 }
 [sha:bda3bbe4c87be6e5f127d29975ee9715fa5314db]{
 -- Page 198, Offset 32204. Mods: @n.
@@ -1597,7 +1598,7 @@ Why did Arcueid come to my room...?!"
 [sha:a2a217c18902089efc304e85d5f0dc35958580e0]{
 -- Page 199, Offset 32207.
 -- わたしたちの話に聞き耳をたてていて、たったいまロアのところに行っちゃいましたけど」
-She spent some time eavesdropping on our conversation, and now she's just left to go face Roa."
+She spent some time eavesdropping on our conversation, and now she's just left to go face him."
 }
 [sha:ab955cc767f88112e3a52025bea24d6276ab1c7d]{
 -- Page 199, Offset 32208.
@@ -1612,7 +1613,7 @@ She spent some time eavesdropping on our conversation, and now she's just left t
 [offset:32210]{
 -- Page 200, Offset 32210. Glued. Mods: @k, @e.
 -- ……
-%{n}......
+%{n}...
 }
 [sha:7b20a493948ecebfaf961e5730c95c1a7423442d]{
 -- Page 200, Offset 32211. Glued. Mods: @x.
@@ -1632,7 +1633,7 @@ Yeah, I'm jealous, but at the same time, I feel sorry for her."
 [sha:db7fd97688b7b68d31b76624dc21aa1d39cf1a15]{
 -- Page 201, Offset 32214.
 -- けどアルクェイドは遠野くんを巻き込みたくない。
-But Arcueid doesn't want you to get mixed up in this.
+But she doesn't want you to get mixed up in this.
 }
 [sha:9b09db3fcbf1f760fb144bb50d567081c9a120d0]{
 -- Page 201, Offset 32215.
