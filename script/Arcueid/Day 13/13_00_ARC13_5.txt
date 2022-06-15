@@ -235,7 +235,7 @@ Dizziness grips me, and I slump to my knees on the floor.
 -- それでも―――もう起きあがる力さえないというのに、凝視する<も|・><の|・><が|・><あ|・><る|・>。
 // Flag: check what he's actually looking at
 However―――even if I no longer have the strength necessary to stand,
- I still have something I can fix my eyes on.
+ I still have %{i}something%{/i} I can fix my eyes on.
 }
 [sha:dccef6c5c7164b0f9b667556a5979c3e20020dbd]{
 -- Page 418, Offset 32862.
@@ -401,7 +401,7 @@ So long as he's in front of me, then it's fine.
 [sha:61432f1c51c319cd8b6fc2dbfa9b2ad95758739e]{
 -- Page 426, Offset 32891.
 -- ただ、<生|・><き|・><て|・><さ|・><え|・><い|・><れ|・><ば|・>、それでいい。
-As long as I'm still alive, I can make it work.
+%{i}As long as I'm still alive%{/i}, I can make it work.
 }
 [sha:73ca1afb4317d620d5c979fbc4efd1246fd17104]{
 -- Page 427, Offset 32892.

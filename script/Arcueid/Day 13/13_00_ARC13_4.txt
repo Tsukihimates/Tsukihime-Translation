@@ -182,7 +182,7 @@ Thick black lines snake across her entire body.
 -- Page 314, Offset 32533.
 -- 衰弱し、砕ける寸前の<躯|からだ>。
 // Foot in the grave to try and tie in the <躯|からだ> without using a word we also use for the Dead
-She seems utterly drained, and her body is the verge of collapse.
+She seems utterly drained, and her body is on the verge of collapse.
  It's like she already has one foot in the grave.
 }
 [sha:e1fd551c6179928bc6a0f63fdd09ba8eb5ac0a4c]{
@@ -243,7 +243,7 @@ The instant I met her gaze, my entire body was frozen solid, as though it had be
 [sha:d724caa919e48c93d7aadc86af520fecce190079]{
 -- Page 318, Offset 32545.
 -- 「フッ……冷たい女だ。死ぬ思いで駆けつけた仲間を魔眼で束縛するとは。
-"Hah... what a cold woman.
+"Hm... what a cold woman.
  To think you'd turn your Mystic Eyes on a companion running so desperately to your aid.
 }
 [sha:65e5ebd0ae9e2aad66b899a86ab11dc616ba1cd1]{
@@ -425,7 +425,7 @@ Arcueid's voice rings out across the walkway.
 [sha:9d0396a14b12571e967015ba119155f68d54d5fc]{
 -- Page 330, Offset 32578.
 -- まさに創造の権能だ。いかな魔術を極めようと、人間ではおまえたちには遠く及ばない」
-Truly, the Authority of Creation.
+Truly, the %{i}Authority of Creation%{/i}.
  No matter how much humans strive to master Magecraft,
  we will never manage to measure up to people like you."
 }
@@ -478,7 +478,7 @@ The air she's giving off feels incredibly dangerous,
 [sha:a307c8f4899094d595c55a5538988178795a1362]{
 -- Page 334, Offset 32587.
 -- 私は<そ|・><れ|・>を知っているが、おまえは知らない。
-While I understand that feeling, you do not.
+While I understand %{i}that%{/i} feeling, you do not.
 }
 [sha:aa508fec924a48f5641f36ca82196226d9d5ba38]{
 -- Page 334, Offset 32588.
@@ -505,7 +505,7 @@ The space around Arcueid begins to warp and distort more and more violently.
 [sha:6cdb71392d5406f17736748bee4ced6e2daecc44]{
 -- Page 335, Offset 32592.
 -- 今すぐにあいつを捕まえて、頬を叩いてでも、止めないと。
-I have to stop her right now, even if it means grabbing her, spinning her around and slapping her across the face.
+I have to stop her right now, even if it means grabbing her, spinning her around, and slapping her across the face.
 }
 [sha:78a243d28e7cc4bad6af8bbda91d0a3658c26087]{
 -- Page 335, Offset 32593.
@@ -683,7 +683,7 @@ I can't even begin to imagine the 'fear' that Roa must feel,
 [sha:62f65daa5f73f259028e84e1a5406ad25df772b2]{
 -- Page 345, Offset 32624.
 -- 「魔術基盤が―――エーテルが―――存在しない……!?
-"It's gone―――there's no Magical Foundation here―――or Ether...?!
+"It's gone―――there's no %{i}Magical Foundation%{/i} here―――or %{i}Ether%{/i}...?!
 }
 [sha:f4a10084478c1150c2b25cc94b09fc6bd7616100]{
 -- Page 345, Offset 32625.
@@ -760,7 +760,7 @@ With a look of pure contempt―――
 [sha:a4527be10913c208c8dd7b114f622e736f1d2922]{
 -- Page 349, Offset 32638.
 -- 彼女は、目の前の羽虫を、払うように消し去った。
-She eradicates the man as thought swatting an insect.
+She eradicates the man as though swatting an insect.
 }
 [sha:8cd95b1976e5e5e4f5b67090095a31758d590e9d]{
 -- Page 350, Offset 32639.
@@ -770,7 +770,7 @@ When I open my eyes, Roa's body is nowhere to be seen.
 [sha:da84b97f30ce421994cfefe3287c2d28a768a396]{
 -- Page 350, Offset 32640.
 -- 歪曲し、切断され、圧縮された。
-It was disfigured, torn to shreds, then flattened.
+It was disfigured, torn to shreds, and then flattened.
 }
 [sha:ab42bad39bb049fe0a27f209ca4f395a1ac8c76e]{
 -- Page 350, Offset 32641.
@@ -847,7 +847,7 @@ With each step they take, they begin to regain their shape.
 -- Page 355, Offset 32653.
 -- このように―――術者が滅びようと発動する自動詠唱は、近年において完成の域をみた”」
 Advancements such as this one―――
-Automatic Chanting, triggered just as the user is about to perish, is something that's been perfected in recent years."
+%{i}Automatic Incantation%{/i}, triggered just as the user is about to perish, is something that's been perfected in recent years."
 }
 [sha:d128416d04240819b70f8cbd7784b2bf3a219a66]{
 -- Page 356, Offset 32654.
@@ -998,7 +998,7 @@ Arcueid's Mystic Eyes must have lost their hold over me.
 [sha:7adc7ae58f00fcdf43e73a45bf6fd7231ed861b2]{
 -- Page 365, Offset 32681.
 -- そんな思考を振り払ってアルクェイドの体を抱きとめ―――
-Shaking off that line of thought, I take Arcueid's body in my arms―――
+Shaking off that line of thought, I take her body in my arms―――
 }
 [sha:f7554a5447213b044b922057241577b17553346e]{
 -- Page 366, Offset 32682.
@@ -1013,7 +1013,7 @@ Arcueid's body is frighteningly cold.
 [sha:f62c5c3d113d7b551e22520144d8f6912e1d5158]{
 -- Page 366, Offset 32684.
 -- かろうじて残っている熱は<蝋燭|ろうそく>の火に似ている。
-The heat she still manages to give off is barely that of candle's flame.
+The heat she still manages to give off is barely that of a candle's flame.
 }
 [sha:b11505c1421c779190bfc7eaa71307f9d3cc20da]{
 -- Page 367, Offset 32685.
