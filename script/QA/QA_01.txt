@@ -26,7 +26,7 @@ Welcome to "Teach me, Ciel-sensei!".%{n}
 [sha:cc86c2e84e7ec326d805dedf7a0261b93795a15b]{
 -- Page 4, Offset 42771.
 -- 教官のシエル（本編後、18歳想定）です。
-Instructor Ciel here.${n}(presumed to be 18 years old)
+Instructor Ciel here.%{n}(presumed to be 18 years old)
 }
 [sha:eeee9ba985c06f577449ab09a6c6b66911b99f49]{
 -- Page 5, Offset 42772.
@@ -265,7 +265,7 @@ Eh?
 -- Page 27, Offset 42816.
 -- （どの面下げて、という抗議）
 // "(as if going 'who are you to say' in objection)"
-(That's rich, coming from you.)
+ (That's rich, coming from you.)
 }
 [sha:e2d65fcc963f228d45180c6a8dafc0494e929d3a]{
 -- Page 28, Offset 42817.
@@ -276,7 +276,7 @@ Eh?
 -- Page 28, Offset 42818.
 -- （なんでしょうその反応、という驚き）
 // "(as if going 'what kind of reaction is that?' in surprise)"
-(What kind of reaction is that?)
+ (What kind of reaction is that?)
 }
 [sha:e2d65fcc963f228d45180c6a8dafc0494e929d3a]{
 -- Page 29, Offset 42819. Mods: @n.
@@ -287,5 +287,5 @@ Eh?
 -- Page 29, Offset 42820.
 -- （本気で言っているのか、という恐れ）
 // "(as if going 'wait, you're serious aren't you' in concern)" I'll leave the exact phrasing of these last 3 to the proofreaders, but it should give you an idea of what was missing from the initial translations
-(Wait, you're actually serious?)
+ (Wait, you're actually serious?)
 }
