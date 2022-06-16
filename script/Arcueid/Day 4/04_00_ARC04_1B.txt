@@ -297,12 +297,12 @@ She's lacking her usual bravado. She must be worried about my health, in her own
 [sha:1e6b2eedf850eb157c6f39717fc38771513bc728]{
 -- Page 50, Offset 5684.
 -- 「おはよう。体のほうは、まあ、それなりに調子いいよ」
-"Good morning. I'm feeling much better today."
+"Good morning. As for my body, well, it could certainly be worse."
 }
 [sha:4184489ebcf1ad6785d452277fd327d109f12d6f]{
 -- Page 50, Offset 5685.
 -- 挨拶を返して椅子に座る。
-I return the greeting and have a seat.
+I return her greeting and take a seat.
 }
 [sha:aa15fc1200f7a3aa344f1f38adc5acffafcc37b7]{
 -- Page 50, Offset 5686. Mods: @n.
@@ -322,12 +322,13 @@ Kohaku-san moves quickly.
 [sha:4d7b7dd667f617cb195152b12453a2604b407b14]{
 -- Page 51, Offset 5689.
 -- いったん廊下に出て西館奥の厨房に向かったのだろう。
-She goes into the hallway and heads to the kitchen at the end of the west wing.
+She steps back out into the hallway, no doubt headed fr the kitchen at the end of the west wing.
 }
 [sha:6e7514ec453b82f665432ac4a32974085884bf28]{
 -- Page 51, Offset 5690.
 -- 食堂には自分と、柄にもなく遠慮がちな秋葉と、壁際に控えている翡翠の三人となった。
-There are three of us in the dining room - me, the uncharacteristically reserved Akiha, and Hisui, who is standing by the wall.
+There are three of us in the dining room―――
+myself, an uncharacteristically reserved Akiha, and Hisui, who is standing by the wall.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 52, Offset 5691.
@@ -352,7 +353,7 @@ There are three of us in the dining room - me, the uncharacteristically reserved
 [sha:84068f22730942fccf62cf2564af248d8d657914]{
 -- Page 52, Offset 5695.
 -- 公園で倒れていたというのは本当なんですか？」
-Is it true that you collapsed in the park?"
+Is it true that you had collapsed in the park?"
 }
 [sha:c0f7d736eb6478632657e0fd2e40b1771a4fbc57]{
 -- Page 53, Offset 5696.
@@ -367,42 +368,49 @@ Is it true that you collapsed in the park?"
 [sha:406d13196d85801a0d125f2c615a4809d21a5996]{
 -- Page 54, Offset 5698.
 -- 兄さんは体が弱いんですから、危ないと感じたら屋敷に連絡をいれてください。すぐに迎えの者を行かせますから」
-You are physically weak, so if you feel like you are in any danger, please call the mansion. I will send someone to pick you up right away."
+You are physically weak, so if you ever feel like you are in any danger, please contact the mansion.
+ I will send someone to pick you up right away."
 }
 [sha:a6ecf959bdd8af711ca2e1c3abf546df33bdf5c7]{
 -- Page 55, Offset 5699.
 -- 「……あのな。小学生じゃないんだから、そんなのは必要ないよ。どんなに気分が悪くたって自分ひとりで帰ってこれる」
-"...You know what? I'm not in elementary school, so there's no need for that. I can get home by myself no matter how bad I feel."
+"...Oh come on. There's no need for all that, it's not like I'm still in elementary school.
+ Even if I feel terrible I can still make my own way home."
 }
 [sha:868e2ab6b365d24f49cf489661390babf99cd23a]{
 -- Page 55, Offset 5700.
 -- 「それでは兄さんはまだ子供なんですね。昨日はひとりで帰って来れなかったんですから」
-"Then you are still a child. After all, you did not come home by yourself yesterday."
+"Then by that reasoning you are still a child.
+ After all, you were unable to make it back here on your own yesterday."
 }
 [sha:22401633fcb4d5e813aabb196207be4d726f5931]{
 -- Page 56, Offset 5701.
 -- 「……昨日は特別だ。あんなコトは滅多にない。
-"...Yesterday was an exception. That kind of thing is rare.
+"...Yesterday was an exception. It's rare that it gets that bad.
 }
 [sha:369ddba446a730b0451014cd6cde9797f46dcdd6]{
 -- Page 56, Offset 5702.
 -- だいたいな、俺は慢性的な貧血持ちなだけで、体が弱いわけじゃない。いちいち秋葉に心配される筋合いはないよ。
-Besides, I'm just chronically anemic. That doesn't mean I'm weak. I don't need you to worry about me all the time.
+Also, I'm not some sort of invalid―――I just have chronic anemia.
+ There's no reason I should have to worry you with it every time.
 }
 [sha:c17cb251f4ac23a463b14346d295bdf416462533]{
 -- Page 56, Offset 5703.
 -- 昨日は単に、致命的に間が悪かっただけなんだ」
-I was just unfortunate to be in such a critical condition yesterday, that's all."
+// I think this is a case of him using 'fatally' just as an adj for 'bad timing'/'inopportune',
+// and then Akiha saying not to throw around words like that?
+I just happened to get deathly unlucky with the timing yesterday, that's all."
 }
 [sha:3b7135e3181cba4ca83aa520576ae33f02c37dcc]{
 -- Page 57, Offset 5704.
 -- 「っ、致命的だなんて、馬鹿な事は言わないでください！
-"Oh, critical condition? Do not say such nonsense!
+"Wha―――deathly? Please do not bandy such words about lightly!
 }
 [sha:c424a6bdac01d686557c3c3e0d694acdbde31308]{
 -- Page 57, Offset 5705.
 -- ご自分の体の事でしょう!?　屋敷に帰られたばかりだというのに、兄さんに死なれたら私はどうすればいいんです……！」
-You are talking about your own body, are you not!? You just returned to the mansion, what am I supposed to do if you were to die...?"
+You are talking about your own body, are you not!?
+ You only just returned to the mansion, what am I supposed to do if you were to die...?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 57, Offset 5706.
@@ -417,12 +425,12 @@ Akiha is seriously ticked off.
 [sha:bba9bf08597fa70fdd776278c1cebbd440116027]{
 -- Page 57, Offset 5708.
 -- その、ある種余裕のない怒りが、俺には意外だった。
-I'm surprised to see that kind of anger with no room for argument.
+I'm surprised to see her this uncompromisingly angry.
 }
 [sha:c728883a0500c0a8ac3ef6ff8f9d13e9ac8f23bf]{
 -- Page 58, Offset 5709.
 -- 「兄さんは軽率すぎます。
-"You are too careless.
+"You are too reckless.
 }
 [sha:bdbd4be6c3e0570df50311571d05f94c272852f4]{
 -- Page 58, Offset 5710.
@@ -432,27 +440,32 @@ Please take a little more care of yourself."
 [sha:d671ea7979fbab25b9a91f79139a531d17120e63]{
 -- Page 59, Offset 5711.
 -- 「いや、俺だってあまり無理はしてないよ。部活もやってないし、医者の言うことは全部守ってるし。これ以上<労|いたわ>れっていうんなら、どっかのサナトリウムにでも入るしかないんじゃないか？」
-"Well, I didn't do anything that unreasonable. I'm not doing any club activities and I'm following everything the doctor says. If you want me to take more care of myself, I guess I'll have to join a sanatorium or something."
+"I mean, it's not as though I'm doing anything that unreasonable.
+ I'm not a member of any clubs, and I always do as the doctor orders.
+ If you want me to take even %{i}more%{/i} care of myself,
+ I guess I'd have to admit myself to a sanatorium or something."
 }
 [sha:1daf647363fb5685bd4462b888f83d0920c8b0bd]{
 -- Page 60, Offset 5712.
 -- 「ええ、出来ることならそうしてしまいたいぐらいです。
-"Yes, if it were possible, I would like you to do that.
+"Yes, that's about the level of care I'd prefer if at all possible.
 }
 [sha:0a86f94da4e4ea4500d1e6edff2493fa7037e47c]{
 -- Page 60, Offset 5713.
 -- どこかの孤島でも買い取って、そこで反省していただくのも有りですね」
-We could also buy an isolated island somewhere and have you reflect on what you have done there."
+Perhaps I could buy an isolated island somewhere,
+ and send you there so you can reflect on what you've done."
 }
 [sha:6d56ed1d20f583e051a686feef498f6d9e181362]{
 -- Page 61, Offset 5714.
 -- むっと視線を逸らし、秋葉はさりげに恐い発言をした。
-Akiha sullenly averts her gaze and casually makes a scary remark.
+Akiha sullenly averts her gaze and offhandedly proposes something terrifying.
 }
 [sha:6e33532809a644be1c760f488e70f338d4dedc50]{
 -- Page 61, Offset 5715.
 -- 何が怖いって、秋葉にとって今のスケールの話が冗談ではないのが怖い。
-What's scary is that she wasn't joking about what she just said.
+What makes it terrifying is of course the fact that she's not joking.
+ She's more than capable of doing something like that.
 }
 [sha:70cbf50ba391a4b3c8fe44405772984f04d1d0d9]{
 -- Page 62, Offset 5716.
@@ -477,7 +490,7 @@ Having spoken her mind, it appears that Akiha is finished with her outburst.
 [sha:634aae4df8c4d1bc02c491beaa6927f13b21ba77]{
 -- Page 63, Offset 5720.
 -- 翡翠はと言うと、今の俺たちのやりとりを彫像のように見つめている。
-And as for Hisui, she's watching our current exchange with a statue-like gaze.
+As for Hisui, she simply stood by and watched our exchange, as still as a statue.
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 64, Offset 5721.
@@ -492,7 +505,7 @@ And as for Hisui, she's watching our current exchange with a statue-like gaze.
 [sha:8e26871a6ad8c83f408676c21d11f426c39454cd]{
 -- Page 64, Offset 5723. Mods: @k, @e.
 -- 食事が出来るまでまだ時間がありそうだし、ここは―――
-It looks like we still have some time before we can eat, so I will―――
+It looks like we still have some time before we can eat, so I'll―――
 }
 [sha:6ce579501f4b30fb71263408efcd65ac8453cdee]{
 -- Page 65, Offset 42601. Choice.
