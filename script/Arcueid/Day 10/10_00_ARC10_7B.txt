@@ -1,32 +1,37 @@
 [sha:01d636b7bd7bd14fae9d4a5963ae8849a46f7376]{
 -- Page 10022, Offset 26338.
 -- 夜の街を闇雲に走る。
-I run in the dark through the city.
+// 夜 dropped
+I run at random through the city.
 }
 [sha:7a36e17dedac4144b31f17ea2ef20d83e971a4d7]{
 -- Page 10022, Offset 26339.
 -- アルクェイドの姿は見当たらない。
-I can't find Arcueid anywhere.
+I can't spot Arcueid anywhere.
 }
 [sha:71dfe432f9690fbdea03c738861b76a28ad5f1d4]{
 -- Page 10022, Offset 26340.
 -- 街は広すぎて、何の手がかりもなしで人間ひとりを捜し当てるのには時間が足りない。
-The city is too big. There isn't enough time to locate her myself, running around aimlessly like this.
+The city is too big, and I have no clues to go on.
+ I don't have the time to run around checking every corner.
 }
 [sha:d9843a72281980e188a52c695575d602a96953f7]{
 -- Page 761, Offset 26341.
 -- ……的を<絞|しぼ>ろう。あれだけ目立つヤツだ、同じ区域にいれば遠目でも見つけられる。
-...I need to narrow down my options. That woman stands out heavily. If I'm in the same area, I'd be able to spot her from a mile away.
+...I need to narrow down the search area.
+ That woman sticks out like a sore thumb.
+ If I'm in the same neighborhood as her,
+ I'll be able to spot her from a mile away.
 }
 [sha:fa684a9c88ec7f54a584a797a38397126701b103]{
 -- Page 761, Offset 26342.
 -- アルクェイドの行き先を予想し、ヤマをかける。
-I'll make a prediction of her whereabouts and take a gamble.
+I'll bet everything on my best guess as to her whereabouts.
 }
 [sha:87a7af67908e5f01be76f45cd6036b9618e4604c]{
 -- Page 761, Offset 26343. Mods: @k, @e.
 -- あいつがいるとしたら、それは―――
-If I was her, I would go―――
+If I were her, I would go―――
 }
 [sha:a925ea8132d54f793f701d198cca7114dedcbc2b]{
 -- Page 762, Offset 42677. Choice.
@@ -41,5 +46,5 @@ If I was her, I would go―――
 [sha:7e21133bdce90546aca91b839629317b57147cae]{
 -- Page 762, Offset 42679. Choice.
 -- ……学校に戻っているかも？
- ...Maybe the school?
+ ...Back to the school?
 }

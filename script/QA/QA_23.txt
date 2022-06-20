@@ -26,7 +26,7 @@ As sad as it is, this is the final episode of
 [sha:3ee109d43f18457e9b8a045f61d5997309970451]{
 -- Page 256, Offset 43791.
 -- これで最終回。
-"Teach Me, Ciel Sensei!".
+'Teach Me, Ciel-Sensei!'.
 }
 [sha:add6b75377c27f2d6bcd20b71d2ff28cc91b9e5b]{
 -- Page 257, Offset 43792.
@@ -111,12 +111,12 @@ see it back in Ciel's hometown.
 [sha:823537cf8e5e2b5e7d45d431e9ae01094d5389b1]{
 -- Page 265, Offset 43808.
 -- …………。
-....
+......
 }
 [sha:c1669ecc12fa809d1dc4e61642ccf1d135edcdf6]{
 -- Page 266, Offset 43809.
 -- ………………ひとりで話してるのもニャんだかね。
-....It ain't the same when you're talking alone.
+.........It ain't the same when you're talking alone.
 }
 [sha:083e4efd4efbbd5aeb3e0b640e1e8e58114ae1e8]{
 -- Page 266, Offset 43810.
@@ -146,11 +146,13 @@ You want an ending where everyone is happy?
 [sha:b5128864732b71371ac77e49902f6e7925700d8b]{
 -- Page 269, Offset 43815.
 -- にゃっ。にゃっにゃっにゃっ。
+// lint-off:LintDupedWord
 Nyeh. Nyeh heh heh.
 }
 [sha:8db31970c98e83303687911f610a1bcc5d24e39d]{
 -- Page 269, Offset 43816.
 -- にゃっにゃっにゃっにゃっにゃっにゃっ！
+// lint-off:LintDupedWord
 Nyeh heh heh heh heh heh!
 }
 [sha:a4839ffaa73883671bf85257ed10c7dc157d97c9]{
@@ -171,7 +173,7 @@ You want to a see a different ending with a development
 [sha:71419bb453db6dcfdffabd8c5807e946abc72489]{
 -- Page 271, Offset 43820.
 -- “え、何これどうなってんの？”な展開を見たいアナタ。
-that'll make you go, "Huh? What's going on here?" right?
+that'll make you go, 'Huh? What's going on here?' right?
 }
 [sha:a1684fbedd4bdb379ff9c3c058cd6ae1f583f41f]{
 -- Page 272, Offset 43821.

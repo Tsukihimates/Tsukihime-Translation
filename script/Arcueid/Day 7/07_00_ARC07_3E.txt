@@ -76,7 +76,7 @@ It'd be pathetic, but... For now, I'll just hold my tongue and follow after her.
 [sha:a4bf20e36cd713f3b95cf51a5b542b53481d51bf]{
 -- Page 279, Offset 17253.
 -- カツカツカツ。
-Click. Clack. Click. Clack.
+%{i}Click%{/i}. %{i}Clack%{/i} %{i}Click%{/i}. %{i}Clack%{/i}.
 }
 [sha:1c04ec9b5fab622b68ff8a1fb0f5aaf5d20571e0]{
 -- Page 279, Offset 17254.
@@ -152,7 +152,7 @@ Arcueid's voice was cold, like it belonged to a completely different person.
 [offset:17267]{
 -- Page 285, Offset 17267.
 -- 「――――っ」
-"――――gh"
+"――――%{i}Gh%{/i}."
 }
 [sha:e2bf30a3e58899550c6db64c4d7a845158d1f31a]{
 -- Page 285, Offset 17268.
@@ -342,7 +342,7 @@ The 'lines' race across the entirety of his body.
 [offset:17302]{
 -- Page 297, Offset 17302.
 -- 「――――ぐっ」
-"――――Gh."
+"――――%{i}Gh%{/i}."
 }
 [sha:3168729009a35a130581dcbc6ad2410260e48273]{
 -- Page 297, Offset 17303.
@@ -474,7 +474,7 @@ She too has stepped out from under the illumination of the rusting streetlamps,
 [offset:17326]{
 -- Page 307, Offset 17326.
 -- ―――どくん。
-―――%{i}*ba-dump*%{/i}
+―――%{i}Ba-dump%{/i}.
 }
 [sha:9d81ba27e7a723461d5cfa302f6c28cba7db286d]{
 -- Page 307, Offset 17327.
@@ -506,7 +506,7 @@ Despite being at the center of this cacophony,
 -- Page 309, Offset 17332.
 -- ―――ドクン。
 // Note that this is katakana, prev dokun was hiragana
-―――%{i}*BA-DUMP*%{/i}
+―――%{i}BA-DUMP%{/i}.
 }
 [sha:a7b90f6ff0c3a47620f715b5234cbf490b4cf21a]{
 -- Page 309, Offset 17333.
@@ -527,7 +527,7 @@ I'll end up staring straight into the abyss,
 [sha:7a30b3c5ea33d37fac7441d6a37b334207d4bc75]{
 -- Page 310, Offset 17336.
 -- ―――ドクン。
-―――%{i}*BA-DUMP*%{/i}
+―――%{i}BA-DUMP%{/i}.
 }
 [sha:0c7f2f004bf9f249a20f03cd7ac24aa67b91503a]{
 -- Page 310, Offset 17337.
@@ -573,7 +573,7 @@ Everything abruptly freezes in place.
 -- ――――――ギ
 // I have no clue what actual on-mim to use here.
 // I would describe the game audio as arcing static.
-――――――%{i}*kzzrrt*%{/i}
+――――――%{i}Kzzrrt%{/i}.
 }
 [sha:c56712b1773646096b98c44b8edf51b9c6f99823]{
 -- Page 312, Offset 17345.
@@ -591,7 +591,7 @@ From somewhere near the limits of my perception,
 -- Page 313, Offset 17347.
 -- ――――――ゴ
 // Similarly, an arcing, crackling on-mim
-――――――%{i}*tsskst*%{/i}
+――――――%{i}Tsskst%{/i}.
 }
 [sha:57ad14fc657ee068ffcc2723d1dcb721ae20624a]{
 -- Page 313, Offset 17348.
@@ -606,7 +606,7 @@ and there's no way the sound should be able to reach me.
 [sha:82de8a45cb7bc55357853cfa251080bea7000e40]{
 -- Page 314, Offset 17350.
 -- ――――――ず、ぶ
-――――――%{i}*kshh*%{/i}
+――――――%{i}Kshh%{/i}.
 }
 [sha:7cb62d5742d3fec99d837edb0a137fb93737cdec]{
 -- Page 314, Offset 17351.
@@ -622,7 +622,7 @@ there's no question that these eyes could discern it.
 [offset:17353]{
 -- Page 315, Offset 17353.
 -- 「ぐ――――」
-"Gh――――"
+"%{i}Gh%{/i}――――"
 }
 [sha:d46b93b6849361b9b7218ff399c3ee9db15bf9c4]{
 -- Page 315, Offset 17354.
@@ -684,7 +684,7 @@ This is a place without danger,
 -- Page 319, Offset 17364.
 -- 「はあ――はあ、はあ―――」
 // check the rest of the script
-"*pant*――*pant*――*pant*―――"
+"%{i}Haa――haa――haa―――%{/i}"
 }
 [sha:8b9542a73fd34115e41609c56c7ef0af7d48d553]{
 -- Page 319, Offset 17365.
@@ -848,7 +848,7 @@ Your body is a wreck,
 [sha:ce96c850c64173d016bb43b7fa10bcf9c2786362]{
 -- Page 330, Offset 17395.
 -- 「……む。大人しく、してるつもり、なんだけどな」
-"...Hmph. I was... taking it easy... though."
+"...%{i}Hmph%{/i}. I was... taking it easy... though."
 }
 [sha:7f1f991909e368a1994d61b8c2a3a9dd5d637f17]{
 -- Page 330, Offset 17396.
@@ -870,7 +870,7 @@ I notice that I'm genuinely angry, and come to a realization.
 [sha:3e567c22df6503cab0fbe2f48f21a0f837a786c9]{
 -- Page 331, Offset 17399.
 -- やっぱり俺は、このどうしようもなくやっかいな女を、放っておけない。
-This woman truly is an unbelievable pain in the ass, but in the end I just can't leave her alone.
+This woman truly is an unbelievable pain in the ass, but in the end, I just can't leave her alone.
 }
 [sha:51c59285d6ffa66c62986346de45129659361ee3]{
 -- Page 332, Offset 17400.

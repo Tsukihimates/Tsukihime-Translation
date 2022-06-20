@@ -1,0 +1,20 @@
+diff --git a/allscr/retimed/allscr.mrg_0423.txt b/allscr/retimed/allscr.mrg_0423.txt
+--- allscr.mrg_0423.txt
++++ allscr.mrg_0423.txt
+@@ -7611,14 +7611,14 @@ _WKST(C847,eq,0);
+ _WKST(C859,eq,0);
+ _WNTY(0);
+ _ZM976ee($032787);
+-_WKAD(C847,1);
++_WKAD(C847,0);
+ _WTTM(400,1);
+ _WKAD(F823,1);
+ _WKST(C847,eq,0);
+ _WKST(C859,eq,0);
+ _WNTY(0);
+ _ZM976ef($032788);
+-_WKAD(C847,1);
++_WKAD(C847,0);
+ _CLO4(600);
+ _WTTM(600,1);
+ _STCH(13,img5007,442,232,1000,255,8294,,CC,,,,801,424,735,340,0,0);

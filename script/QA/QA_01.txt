@@ -21,12 +21,12 @@ Tohno-kun to the right ending.
 [sha:da4d163ffd8fb6e73e6561d08e38cac618e6343c]{
 -- Page 4, Offset 42770.
 -- 『教えて！　シエル先生』にようこそ。
-Welcome to "Teach me, Ciel-sensei!".%{n}
+Welcome to 'Teach Me, Ciel-Sensei!'.%{n}
 }
 [sha:cc86c2e84e7ec326d805dedf7a0261b93795a15b]{
 -- Page 4, Offset 42771.
 -- 教官のシエル（本編後、18歳想定）です。
-Instructor Ciel here.${n}(presumed to be 18 years old)
+Instructor Ciel here.%{n}(Presumed to be 18 years old)
 }
 [sha:eeee9ba985c06f577449ab09a6c6b66911b99f49]{
 -- Page 5, Offset 42772.
@@ -36,7 +36,7 @@ Seriously?%{n}
 [sha:13971fe097da96f4c0f5deeaece6923d46fe0674]{
 -- Page 5, Offset 42773.
 -- タイトルじゃ先生なのに教官とはこれいかに。
-How come you're an instructor when it says%{n}"sensei" in the title?
+How come you're an instructor when it says%{n}'sensei' in the title?
 }
 [sha:9aba7d529c9a836014fefe90c907e2a11f682047]{
 -- Page 6, Offset 42774.
@@ -89,7 +89,7 @@ Now, about the cause of death this time...
 [sha:07b034426cd633a35bde769eca18fde8c8b97820]{
 -- Page 11, Offset 42783.
 -- さっそく燃えてますな、メガネくん。
-You're already burning up, Glasses-kun.%{n}
+You're already burning up, four-eyes.%{n}
 }
 [sha:688db06d425bd219d47f6cff258805ed147e8277]{
 -- Page 11, Offset 42784.
@@ -119,12 +119,12 @@ you went out alone even though you were%{n}spotted.
 [sha:072e67a338a85f488f0fb39757a831e73279bdb4]{
 -- Page 14, Offset 42789.
 -- 「あんな脳天気な吸血鬼と一緒の部屋にいられるか、
-"There's no way I'm staying in a room with this brain-dead%{n}
+'There's no way I'm staying in a room with this brain-dead%{n}
 }
 [sha:7a8e53276229044217cb37ae24640ef60774f41a]{
 -- Page 14, Offset 42790.
 -- オレは実家に帰らせてもらう！」
-vampire, so I'm going back home!"
+vampire, so I'm going back home!'
 }
 [sha:fd3f209fb2941bb99844adc7992d37035377713e]{
 -- Page 15, Offset 42791.
@@ -265,7 +265,7 @@ Eh?
 -- Page 27, Offset 42816.
 -- （どの面下げて、という抗議）
 // "(as if going 'who are you to say' in objection)"
-(That's rich, coming from you.)
+ (That's rich, coming from you.)
 }
 [sha:e2d65fcc963f228d45180c6a8dafc0494e929d3a]{
 -- Page 28, Offset 42817.
@@ -276,7 +276,7 @@ Eh?
 -- Page 28, Offset 42818.
 -- （なんでしょうその反応、という驚き）
 // "(as if going 'what kind of reaction is that?' in surprise)"
-(What kind of reaction is that?)
+ (What kind of reaction is that?)
 }
 [sha:e2d65fcc963f228d45180c6a8dafc0494e929d3a]{
 -- Page 29, Offset 42819. Mods: @n.
@@ -287,5 +287,5 @@ Eh?
 -- Page 29, Offset 42820.
 -- （本気で言っているのか、という恐れ）
 // "(as if going 'wait, you're serious aren't you' in concern)" I'll leave the exact phrasing of these last 3 to the proofreaders, but it should give you an idea of what was missing from the initial translations
-(Wait, you're actually serious?)
+ (Wait, you're actually serious?)
 }

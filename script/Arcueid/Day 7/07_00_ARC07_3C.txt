@@ -13,7 +13,7 @@ That has to be the least self-aware complaint of all time.
 -- Page 208, Offset 17080.
 -- 「おまえこそ何のつもりだよ!?　真正面からうちの屋敷に来るなんて正気じゃないぞ、もしかして俺の生活をぶっ壊すつもりなのか、このばか女っ！」
 // Italics _I_, _my_
-"Have I lost my mind? What are you trying to pull here!?
+"Have %{i}I%{/i} lost %{i}my%{/i} mind? What are you trying to pull here!?
  Waltzing right up to the mansion like that isn't exactly sane behavior!
  Don't tell me you're intentionally trying to ruin my life, you stupid woman!"
 }
@@ -32,7 +32,7 @@ That has to be the least self-aware complaint of all time.
 [sha:dae7093803303ad9e3ee777f2e1fd5f5ae5e2603]{
 -- Page 209, Offset 17083.
 -- 「え―――あ、う？」
-"Eh? Ah... hmm?"
+"%{i}Eh%{/i}? %{i}Ah%{/i}... %{i}hmm%{/i}?"
 }
 [sha:56dff6d168e4a78dbb496c9ebc4030b7a49fc972]{
 -- Page 210, Offset 17084.
@@ -113,7 +113,7 @@ I'm begging you, please try to be a bit more discreet!
 [sha:615b6815debe7412918020aa99cb5f40c8e4376d]{
 -- Page 216, Offset 17098.
 -- ……ふう。
-...Phew.
+...%{i}Phew%{/i}.
 }
 [sha:9f0a7e70073f300ab36a7c235424c2904c10b7d5]{
 -- Page 216, Offset 17099.
