@@ -15,8 +15,8 @@ def cleanup_old_breaks(line):
 def check_for_punctuation(line):
     punctuation = ['.', ',', ';', ':']
     # is the last character punctuation?
-    if (location := line[-1]) in punctuation:
-        return location
+    if line[-1] in punctuation:
+        return len(line) - 1
 
     last_split = line.rindex(' ')
     if line[last_split - 1] in punctuation:
@@ -43,7 +43,6 @@ def break_up_line(line):
             new_line += (" " + word if len(new_line) > 0 else word)
             len_since_split += (len(word) + 1 if len(new_line) > 0 else len(word))
         else:
-            print(word, len_since_split)
             if (split_location := check_for_punctuation(new_line)) != -1:
                 new_line = new_line[:split_location] + "^" + new_line[split_location + 1:]
                 new_line += " " + word
