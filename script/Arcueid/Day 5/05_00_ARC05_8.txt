@@ -395,8 +395,8 @@ So basically, %{i}you killed her and took it for yourself%{/i}, didn't you?"
 [sha:3fa95e0e7297ade4f2d667f1250107ba8b990ebb]{
 -- Page 543, Offset 10058.
 -- 「……そうだ。おれは後継者ではない。ただの騎士だ。騎士だった。永遠など、おれには手に余るものだ」
+// maybe something else for 'station' but you get what I mean.
 "That's right... I am no Successor... I am simply a knight―――%{i}was%{/i} a knight... Eternity is something well beyond my station."
-//maybe something else for 'station' but you get what I mean.
 }
 [sha:ab32209397fb11b5f6c08eeab757d47b065d9575]{
 -- Page 544, Offset 10059.
@@ -544,8 +544,8 @@ A huge lance of otherworldly steel pulverizes her pure white dress.
 [sha:3e32e9391ed6dbf0003289d53fa2f37f1bb74dfb]{
 -- Page 554, Offset 10087.
 -- ……吹雪が視界を隠す。
+// doesn't need field of vision, its ugly
 The blizzard blocks my sight...
-//doesn't need field of vision, its ugly
 }
 [sha:97fbf9b44a59ec876702a4d9acbe2c35af2d4f0e]{
 -- Page 554, Offset 10088.
@@ -580,8 +580,8 @@ Nevertheless―――"
 [sha:bab9fb9ec24857013fd0d7db265e68fe82acd471]{
 -- Page 557, Offset 10094.
 -- アルクェイドは倒れたまま起き上がらない。
+// too literal
 Arcueid stays down, showing no signs of waking.
-//too literal
 }
 [sha:b8a353bb360e9790f38a84f638aa715409a46992]{
 -- Page 557, Offset 10095.
