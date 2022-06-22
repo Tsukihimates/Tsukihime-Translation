@@ -28,9 +28,8 @@ I'll ask her about their relationship in more detail.
 [sha:d7ef14ac084f5315e8174003c2a6ecfe615a2742]{
 -- Page 522, Offset 17867.
 -- 「お、さっすが人力だけでピラミッドを建てちゃう霊長類！　堅実かつ誠実ね。
-// Avoiding direct use of 'human' in 人力 since we're discussing 'primates'
 // What are we trying to get at with 堅実 vs/plus 誠実
-"Wow, just what I'd expect from the primates that constructed the pyramids with nothing but their own two hands!
+"Wow, just what I'd expect from the hominoids that constructed the pyramids with nothing but their human strength!
  So dependable and reliable.
 }
 [sha:6f0cc06427f508694a777737b19b6e2e5b356de3]{
@@ -42,6 +41,7 @@ Alright then, tonight let's crack open our textbooks for Intermediate Vampire St
 [sha:427263ed083b0f63148a6be1ababa8ed3d1926ce]{
 -- Page 523, Offset 17869.
 -- ……あんまり知りたくない課目だが、リクエストしたのは自分である。
+// :sacchincopium:
 ...It's not a course that I particularly want to take,
  but I was the one that signed myself up for it.
 }
@@ -70,23 +70,24 @@ I don't need to explain this any further, right?"
 [sha:216a8aa18fe008a042a6ccb9d42969f5d845baad]{
 -- Page 525, Offset 17874.
 -- 「ああ。城主と下僕、だろ。
-"Yeah. That's true of Castle Lords with their servants, right?
+"Yeah. That's true of Suzerains with their servants, right?
 }
 [sha:33c075ca6ab050b7e696a371e9a2387719f7dc0e]{
 -- Page 525, Offset 17875.
 -- 一人の支配者と、大勢の働き蟻……なんだよな？」
-One leader commanding a large number of worker ants... something along those lines?"
+// referencing offset 6913
+One leader commanding a large number of workers... something along those lines?"
 }
 [sha:26656eb44ea86b35b3ba7731b9ef5241012a7485]{
 -- Page 526, Offset 17876.
 -- 「ええ。その働き蟻にも種類があるわ。
-"Yeah. Those worker ants come in different varieties as well.
+"Yeah. Those workers come in different varieties as well.
 }
 [sha:27c41d2f6aef0fb5e0324f7d82fe05d9be517fd2]{
 -- Page 526, Offset 17877.
 -- 前にも話したけど、こういう階梯」
 // IT'S WHITEBOARD TIME FUCK MY LIFE!!!! ( ͡° ͜ʖ ͡°)
-We touched on this before, but here are the ranks."
+We touched on this before, but here are the Ranks."
 }
 [sha:0359e2d3816f1a461a5e7e3dab3b85db2c6ddca3]{
 -- Page 527, Offset 17878.
@@ -111,6 +112,8 @@ In short, they're cannon fodder.
 [sha:90f2b4f275e300ba728cf8508caacfe33971d0c9]{
 -- Page 528, Offset 17881.
 -- 「次にⅡ階梯、屍鬼。
+// This page is very close to overflow. Check in game if you
+// make any changes.
 "Next we have Rank II, %{i}Ghouls%{/i}.
 }
 [sha:08429e17d1bca333263af45197d488eee6a09236]{
@@ -122,20 +125,22 @@ Although they have a will, they're incapable of deliberate thought.
 [sha:91c253e94aad03d15afe268eeb59855800da6348]{
 -- Page 528, Offset 17883.
 -- 親の魔力で腐敗こそしないものの、中身は完全に崩壊している。
-The %{i}Magical Energy%{/i} of their sire prevents them from decomposing entirely,
+The magical energy of their sire prevents them from decomposing entirely,
  but they're still falling apart on the inside.
 }
 [sha:c9fb20781e8f16a315d2763a1cc8fe5bed8ae913]{
 -- Page 528, Offset 17884.
 -- 脳が腐り出しているから本能で血肉を求める分、Ⅰ階梯の死者より凶暴。あえていうなら兵士、かな。これも死者ね」
 Since their brains are in the process of rotting away, they are ruled by their instincts;
- as a result, they are far more ferocious than the rank I Dead.
+ as a result, they are far more ferocious than the Rank I Dead.
  If I had to give them a label, I'd say these are the rank and file.
  We also refer to these as Dead."
 }
 [sha:e26645a7f6f7b210f1826a906a67d7c6e984134a]{
 -- Page 529, Offset 17885.
 -- 「Ⅲ階梯、不死。
+// This page is very close to overflow. Check in game if you
+// make any changes.
 "Rank III, %{i}Undead%{/i}.
 }
 [sha:0d081964fa55bdbb4fb901d20b34d76965455931]{
@@ -176,8 +181,6 @@ That zombie... So even the Dead are split into different classes.
 [sha:e7acce95c6ab3d7b1791a2ba73e054c7b38be100]{
 -- Page 530, Offset 17892.
 -- 階梯が進めば進むほど、ただの死体から動く死体に向上していく訳だ。
-// Initially this was translated to imply that the dead can actually rise up the ranks, but I'm not sure that's how it works?
-// Need a lore nerd to confirm.
 The higher they rank on this scale, the more capable they are―――
 from corpses at the bottom all the way to the more mobile Dead at the top.
 }
@@ -204,7 +207,7 @@ This has got me wondering...
 [sha:0bef5f81b13d3a3c7e710ff39435ed7fe1668e45]{
 -- Page 532, Offset 17896.
 -- 問題は教会内部の<誰|・><が|・>これを広めたかなんだけど……ま、それはどうでもいっか」
-The real question is, %{i}who was it from the Church that spread this information%{/i}... Well, it doesn't really matter."
+The real question is, %{i}who was it from the Church that%{n}spread this information%{/i}... Well, it doesn't really matter."
 }
 [sha:468a12fb734e19c974fb2a28e497ec4aac4a2b62]{
 -- Page 533, Offset 17897.
@@ -226,15 +229,15 @@ Their physical abilities far outstrip those of a human,
 [sha:8830023c3b51ce2c7ed578f0eabefb6db081fb45]{
 -- Page 534, Offset 17900.
 -- 「Ⅵ階梯以上のモノが獲物を丁寧に、少しずつ吸血していくと、犠牲者はこの階梯の吸血鬼からスタートする。日光を浴びると貧血になる程度で、まだ焼かれはしない。
-"If a vampire of rank VI or above is careful to suck blood gradually from their prey,
- that victim will start out as a rank IV vampire.
+"If a vampire of Rank VI or above is careful to suck blood gradually from their prey,
+ that victim will start out as a Rank IV vampire.
  If a Nightkin is exposed to sunlight, they may become anemic,
  but it won't cause them to burn up.
 }
 [sha:aa25193e20aab04b45ad6017ed8479b2c96d666f]{
 -- Page 534, Offset 17901.
 -- 魔術世界において、“ヒト”と呼べるのはこの階梯までなんだとか」
-This is the final rank that people versed in Magecraft would still consider to be a 'person'."
+This is the final Rank that people versed in Magecraft would still consider to be a 'person'."
 }
 [sha:24fa4cba118c076b091792ccb427698605ff4946]{
 -- Page 535, Offset 17902.
@@ -251,7 +254,7 @@ This is the final rank that people versed in Magecraft would still consider to b
 [sha:dea6ea7cf3d88e26e6f33351a894f3d91445df85]{
 -- Page 535, Offset 17904.
 -- このⅣ階梯になれるのは千人中一人の割合」
-About one in a thousand of the Dead reach this rank."
+About one in a thousand of the Dead reach this Rank."
 }
 [sha:b1d47cae9321aa31b373aaa14e6a88fb1521b43d]{
 -- Page 536, Offset 17905.
@@ -276,6 +279,8 @@ These are upper knights: fully-fledged vampires."
 [sha:1814a1c21b7201f77cbdb580776b63113c631047]{
 -- Page 537, Offset 17908.
 -- 「で、最後のⅥ階梯、死徒。
+// This page is very close to overflow. Check in game if you
+// make any changes.
 "And finally, we have Rank VI, the %{i}Dead Apostle%{/i}.
 }
 [sha:12b01047f1be6488f0f701e08ed7a147e90f1187]{
@@ -283,7 +288,7 @@ These are upper knights: fully-fledged vampires."
 -- 完全に“吸血種”として自立。吸血・侵食によって子を作るコトもできるけど、Ⅵ階梯以上の子は作れない。
 // Used offspring for 子, not too sure on this change
 A completely independent blood-sucking species.
- Although they can create offspring through blood-sucking and invasion, they cannot create anything higher than rank VI.
+ Although they can create offspring through blood-sucking and invasion, they cannot create anything higher than Rank VI.
 }
 [sha:138aa8e486e05a88fcb3cc15ccb6dffa42aa7e00]{
 -- Page 537, Offset 17910.
@@ -294,9 +299,9 @@ I suppose that's the limit of an upstart.
 [sha:4ba45670e0e1da08983e36af1ebe8e2190efd1ac]{
 -- Page 537, Offset 17911.
 -- この街に巣くっている吸血鬼はこの階梯。“親”として下僕を作り、村を食い物にする災害よ」
-The vampire lurking in this city belongs in this rank.
- One that 'sires' offspring in the form of servants,
- a calamity that reduces a village to nothing more than a source of prey."
+The vampire lurking in this city belongs in this Rank.
+ One that 'sires' offspring in the form of servants.
+ A calamity that reduces a village to nothing more than a source of prey."
 }
 [sha:cc8af02c1e1c10c9219ce19b7d456a66f7b538b9]{
 -- Page 538, Offset 17912.
@@ -306,13 +311,13 @@ The vampire lurking in this city belongs in this rank.
 [sha:22e594e1da05e0bc3f9b7f4e8875a1f7513b5225]{
 -- Page 538, Offset 17913.
 -- 「ヴローヴはどの階梯だったんだ？」
-"Which rank would Vlov fall into?"
+"Which Rank would Vlov fall into?"
 }
 [sha:42cad13a2d9db4cf6141afcdf842ab5e13b0940f]{
 -- Page 538, Offset 17914.
 -- 「もちろんⅥ階梯、死徒よ。あいつの場合、そこから飛び級をしてしまったけど、それはまた別の時にでも」
 // 'そこから飛び級' as in he faked his way to a position _above_ that of a dead apostle (Ancestor)?
-"He would of course be rank VI, a Dead Apostle.
+"He would of course be Rank VI, a Dead Apostle.
  Technically, he actually managed to skip a few ranks beyond that one,
  but that's a story for another time."
 }
@@ -366,7 +371,7 @@ However, if at that time the Dead Apostle transfers some of their own blood in,
 [sha:6ed7aad1df1ff8b47dab5027478b23af3fe11ff3]{
 -- Page 541, Offset 17923.
 -- この階梯は、その呪いの深度を表したものなの」
-These ranks are a representation of the depth of those curses."
+These Ranks are a representation of the depth of those curses."
 }
 [sha:52878286900c6b98138b22dca2267a8057f3d208]{
 -- Page 542, Offset 17924. Mods: @n.
@@ -398,7 +403,7 @@ To produce a Rank I Dead,
 -- Page 543, Offset 17928. Mods: @n.
 -- けどⅡ階梯以上の吸血鬼を増やすには、犠牲者自身の才能……
 // Ellipsis dropped since these are glued and it just looks bad in EN
-But if you're trying to produce vampires of rank II and above,
+But if you're trying to produce vampires of Rank II and above,
  then things like latent ability
 }
 [sha:77947724587083301e0612c563200d664703b1d8]{
@@ -433,7 +438,7 @@ But if you're trying to produce vampires of rank II and above,
 -- でも、それだと上質の下僕とは呼べない。親基としては、自分の力だけで自立してもらわないと困るのよ。働き蟻を動かすたびに自分の時間を使っていたら、それこそ本末転倒でしょ？」
 But you can hardly call that a high-quality servant.
  For the parent vampire, servants that can't even fend for themselves would be a huge burden.
- Having to personally tend to each of your worker ants every time you wanted to have them do something
+ Having to personally tend to each of your workers every time you wanted to have them do something
  would be putting the cart before the horse, no?"
 }
 [offset:17934]{
@@ -544,12 +549,12 @@ The Dead that Arcueid took down earlier was nothing more than a 'servant',
 [sha:8c139c436d4285c7415ebdf7c3b1bb5956ef5866]{
 -- Page 552, Offset 17951.
 -- 「自分でも分からない、は階梯によるわね。
-"Whether they're aware or not would depend on their rank.
+"Whether they're aware or not would depend on their Rank.
 }
 [sha:c06cc98ccf51f55304c457ea093c167e5e796138]{
 -- Page 552, Offset 17952.
 -- Ⅰ階梯なら自動人形にすぎないけど、Ⅲ階梯なら脳は生きているし。彼等は自分がどういう生き物になったのかを理解した上で吸血鬼に従っている。自分から進んで人間たちを殺して、親基に血を送っているのよ」
-A Rank I Dead is nothing more than an %{i}automaton%{/i}, but a Rank III one still has a functioning brain.
+A Rank I Dead is nothing more than an %{i}automaton%{/i}, but a Rank III still has a functioning brain.
  They are able to comprehend what kind of creature they've become, yet continue to serve.
  They make the conscious choice to kill humans, and send the blood to their parent vampire."
 }
@@ -561,7 +566,7 @@ A Rank I Dead is nothing more than an %{i}automaton%{/i}, but a Rank III one sti
 [sha:01331fa59747c3524f1f3c5132551b72896fcb44]{
 -- Page 553, Offset 17954.
 -- いきなり殺されて、気がついたら動く死体にされてるんだ。そんなの、無理矢理やらされているに決まってる」
-These are people that were killed out of nowhere,
+These are people that were killed out of nowhere
  and then woke up to find that they'd been turned into moving corpses.
  They've obviously been forced into doing this against their will."
 }
@@ -646,7 +651,7 @@ We humans cannot live our lives so righteously,
 -- 死徒と呼ばれる吸血鬼は下僕たちに自由意思を与えている。いつか自分に逆らい、挑むように。ヴローヴもそうやって親を殺して死徒になった吸血鬼だもの」
 The vampires we call Dead Apostles grant their servants free will.
  It's as if they are inviting those underlings to turn against them, to challenge them.
- Vlov is a perfect example of this, a vampire who killed his sire and in doing so became a Dead Apostle."
+ Vlov is a perfect example of this: a vampire who killed his sire and in doing so became a Dead Apostle."
 }
 [sha:06aeccdd2d391a876cb157566c03c4a40b33ad97]{
 -- Page 559, Offset 17969.
@@ -832,7 +837,7 @@ and in doing so, lost all value in their life."
 -- Page 570, Offset 18001. Mods: @n.
 -- 「彼らは人間の真似ごとをして、自分を城主に見立てて勢力を拡げていくゲームを始めたわ
 "They came up with their own little game,
- mimicking humans by building empires of Castle Lords and expanding their influence
+ mimicking humans by building empires of Suzerains and expanding their influence
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 570, Offset 18002. Glued.
