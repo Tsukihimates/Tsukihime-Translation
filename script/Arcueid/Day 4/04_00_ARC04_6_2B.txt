@@ -122,7 +122,6 @@ However, their positions are not the same.
 -- Page 479, Offset 6883.
 -- アルクェイドはいま、致命的に弱っているからだ。
 Because at the moment, Arcueid is critically weakened.
-//might be irregular usage but sounds good.
 }
 [sha:0ebbe0c0ecdc883a7c3d794528df90cb0ab4139e]{
 -- Page 480, Offset 6884.
@@ -163,7 +162,6 @@ In that case, how would you describe the sort of 'vampire that has many allies'?
 -- Page 483, Offset 6891.
 -- ……ええっと、どうすれば簡単に説明できるかな……」
 Uh... What's the easiest way to explain this..."
-//this is how you say this
 }
 [sha:fe2e8afd729857b76cd9ccf1b67208e2e8781472]{
 -- Page 484, Offset 6892.
@@ -174,14 +172,13 @@ Arcueid casts her eyes around the room as she tries to think of something.
 [sha:6ab5044c42110b4a05ed1cc5b43526cc8f48669c]{
 -- Page 484, Offset 6893.
 -- どうも、あまり会話慣れしていないようだ。
-It seems like she's not used to talking to people.
 //instead of "like this", Shiki's observation here is actually quite literal. Arcueid barely has any experience talking at all.
+It seems like she's not used to talking to people.
 }
 [sha:a85eb91d2809321cf7204e347717d01ccc303315]{
 -- Page 485, Offset 6894.
 -- 「いいよ、難しいままで。話せる事なら何でもいいから話してくれ。
 "It's fine, you can do it the difficult way. Anything you can tell me would be useful, so just say what's on your mind.
-//to match the above
 }
 [sha:3f7bd1be05d3ec70f78351872498aaad43605b42]{
 -- Page 485, Offset 6895.
@@ -216,12 +213,12 @@ I don't really know what's going on, but I'll try to figure it out as best as I 
 [sha:d2973fdc54f05024dccc58691df42c00e1f319e7]{
 -- Page 488, Offset 6901.
 -- この“城主”は段階に分けて村や町を<侵|おか>していくわ」
-Suzerains invade towns and villages through a series of Stages."
+Suzerains invade towns and villages through a series of stages."
 }
 [sha:21c8fa10ae1f0f8e8e75151b88e0feddace6aad7]{
 -- Page 489, Offset 6902.
 -- 「まずは初手、進行１。
-"For starters, we have Stage 1.
+"For starters, we have stage 1.
 }
 [sha:3805177c078d16ef4cb896c92f529034cf51abf6]{
 -- Page 489, Offset 6903.
@@ -236,14 +233,14 @@ Humans that have their blood sucked by the vampire die and become puppets of the
 [sha:edaffa9f8bf44e96c0137a88efc16a60746acc0c]{
 -- Page 489, Offset 6905.
 -- ようは『人格の残った死体』ね。<死|し><徒|と>の<階梯|かいてい>でいうと<不死級|さんだんかいめ>の、上級の使い魔ってところ」
+//might be a bit awkward, but "a corpse with a personality" sounds like a corpse that's kinda funny and tells interesting jokes. 
+//put italics on 死徒の階梯 because its the first time the concept is referred to
 In other words, a 'corpse that retains its sense of self'. In %{i}Dead Apostle Rank%{/i} terms, these %{i}Undead%{/i} are the third lowest tier, about equal to a high-grade familiar."
-//might be a bit awkward, but "a corpse with a personality" sounds like a corpse that's kinda funny and tells interesting jokes. also got the 死徒の階梯 in there more consistently. also put the italics on it since its the first time people see the ranks
 }
 [sha:da7a14a59d46613455f829da8ed6d9dfe8864f16]{
 -- Page 490, Offset 6906. Mods: @n.
 -- よし、出だしから分からない……
 Great, she's only just gotten started and I'm already lost.
-//the 'just started' thing here is important, not sure why it was missing before.
 }
 [sha:6839b8ff8a632fe5fceac6d97eaa2a68c6723321]{
 -- Page 490, Offset 6907. Glued.
@@ -254,7 +251,6 @@ Great, she's only just gotten started and I'm already lost.
 -- Page 490, Offset 6908.
 -- だがこっちも眠って頭はスッキリしている。
 But at the very least, this clears up my drowsiness.
-//I think its more along the lines of "but I just woke up recently so my mind is totally on point", but I don't remember if this is the part where he's already slept?
 }
 [sha:be9d86c601050adaea70fb4df66e50a53f99ae5f]{
 -- Page 490, Offset 6909.
@@ -264,8 +260,7 @@ I'm just going to skip over the words I don't understand and ask about the parts
 [sha:c253d7e9a4d038adeecd51c266f09357897a5f96]{
 -- Page 491, Offset 6910. Mods: @n.
 -- 「……『人格の残った死体』……ようは、人間のまま吸血鬼になるってコト？
-"...A 'corpse with that retains its sense of self'... does that mean they are vampires that are still human?
-//same as previous instance
+"A 'corpse that retains its sense of self'... does that mean they are vampires that are still human?
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 491, Offset 6911. Glued.
@@ -275,12 +270,12 @@ I'm just going to skip over the words I don't understand and ask about the parts
 [sha:62d3a7fcb5fab9be15f854f311049458fc5a1f9a]{
 -- Page 491, Offset 6912.
 -- 「Ⅲ階梯じゃ吸血鬼とは言えないかな。
-"Though I guess I shouldn't call Rank IIIs vampires.
-//mistranslated, not sure how i feel about "Rank IIIs" but its understandable
+"Though I guess I shouldn't call Rank IIIs 'vampires'.
 }
 [sha:dfed276e25a246c540581aaf5b9f02f7cc854c0e]{
 -- Page 491, Offset 6913.
 -- 人間以上の体になったけど、まだ子を作る事はできない働きアリの司令塔、ぐらいと思って」
+//働きアリの司令塔 now rendered as "leader-class for the lower-ranked workers." for clarity. might need to be consistent across the other times this metaphor appears.
 Their bodies are superhuman, sure, but they can't create their own offspring. It's best to think of them as a sort of leader-class for the lower-ranked workers."
 }
 [sha:f288be8fc4e4751de6c421ecbd613c9327985a87]{
@@ -291,20 +286,17 @@ Their bodies are superhuman, sure, but they can't create their own offspring. It
 [sha:1c16a41e104a78c051b19f75ab908f4b28a7a606]{
 -- Page 492, Offset 6915.
 -- 「あれはもう一っこ下、Ⅱ階梯目の『屍鬼』。
-"Those things are one tier below. Rank II %{i}Ghouls%{/i}.
-//generally Rank should be captalized to emphasise its not just any ol' rank but the vampire ranks
+"Those things are one step below: Rank II %{i}Ghouls%{/i}.
 }
 [sha:053c212fcbc48a7d62a4832f66f1a6aa8099af43]{
 -- Page 492, Offset 6916.
 -- 人間への擬態もできない、命じられた事をこなすだけの労働力よ」
-They're basically just workers, and can't do much more than follow orders, let alone pass off as human."
-//i like this sentence structure better
+They're basically just workers who can't do much more than follow orders, let alone pass as human."
 }
 [sha:92d34aaf4a94847b13b90a47eb97e817f3569a64]{
 -- Page 493, Offset 6917.
 -- 興が乗ってきたのか、アルクェイドは吸血鬼たちの段階を図で説明しだした。
 Arcueid seems to have gotten really into it, and starts explaining the various vampire stages using a diagram.
-//avoid rank when its not 階梯. 
 }
 [sha:ac47351496e08b91dffe07a6a05072fe64c93169]{
 -- Page 493, Offset 6918.
@@ -319,13 +311,14 @@ This woman sure is strangely versatile...
 [sha:faa27cd46f2cee1f34d4d64a29e1bd8feb940b4a]{
 -- Page 494, Offset 6920.
 -- 日中は活動できないし、なにより“城主”の吸血鬼は活動するだけで目立つから。食糧の備蓄、勢力拡大は下僕たちに任せるの」
-Suzerains can't go out and about during the day since their sheer presence would draw attention. Instead, it is up to their underlings to stockpile 'food' and expand their influence."
-//added ' ' around food so people get its blood, i guess. also changed the first sentence a bit so its less awkward
+//added ' ' around food to signify that it's blood
+Suzerains can't go out and about during the day since their presence alone would draw attention. Instead, it is up to their underlings to stockpile 'food' and expand their influence."
+
 }
 [sha:8f05b8e48119bf9d1ef830720ec5f114c068bef5]{
 -- Page 495, Offset 6921.
 -- 「かくして、Ⅲ階梯より上の下僕たちは人間に擬態して、少しずつ他の人間たちを捕食していく。
-"In this way, underlings that are Rank III and above blend in with society, and gradually start preying on other humans.
+"In this way, Rank III underlings and above blend in with society and gradually start preying on other humans.
 }
 [sha:ac6970948d623a10c8304a3fd3e66fe24ccb37fb]{
 -- Page 495, Offset 6922.
@@ -355,8 +348,8 @@ I was hoping to find their coffin and kill them before that could happen, but I 
 [sha:3d7f322b4951491f5ed5ab4de1250b3e35357578]{
 -- Page 496, Offset 6927.
 -- 今回はよっぽど巧妙に隠れてるのか、気配さえ感じない」
-They didn't hide this well before... I can't even feel their presence."
-//今回 because its Roa again for Arcueid. still gotta be ambigious. they/their coming in handy!!!
+//今回 because its Roa again for Arcueid. Still gotta be ambigious. They/their coming in handy!
+They've never hidden themself this well before... I can't even feel their presence."
 }
 [sha:ec31fb6cbaa0de2f0a65e03997090a4383c0402f]{
 -- Page 497, Offset 6928.
@@ -366,13 +359,13 @@ They didn't hide this well before... I can't even feel their presence."
 [sha:c92e0e200c30ecab32746c2f003da315eaf8e1f9]{
 -- Page 497, Offset 6929.
 -- 今回は手がかりがない状態だから、仕方なく昼間から街を歩いて調べていたの。
-I didn't have any leads this time so I had no choice but to walk around the city at daytime to investigate.
+I didn't have any leads this time so I had no choice but to walk around the city during tne daytime to investigate.
 }
 [sha:6091424f265763e545ca40ba79947f66790ded9e]{
 -- Page 497, Offset 6930.
 -- そうしていたら、通りすがりの殺人鬼に襲われちゃって、まあたいへん」
+// 殺人鬼 really should just be murderer, no need to imply anything else. Might need to be consistent among many use cases.
 And as I was... this murderer happened by and killed me, what a pickle!"
-//pickles. also 殺人鬼 really should just be murderer, no need to imply anything else
 }
 [sha:40fdd59035bfda0eabfb93cde588c7e429c62bd2]{
 -- Page 498, Offset 6931.
@@ -383,7 +376,6 @@ She claps her hands together, smiling at me.
 -- Page 498, Offset 6932.
 -- 通りすがりの殺人鬼への当てつけであろう。たいへん居心地が悪い。
 It seems that she's taking a dig at said murderer. It doesn't feel great.
-//passing is just too mouthfully who cares
 }
 [sha:96cdfccc0cfac6b78ac5f353af1c80c04f3990e9]{
 -- Page 499, Offset 6933.
@@ -393,7 +385,7 @@ It seems that she's taking a dig at said murderer. It doesn't feel great.
 [sha:98a37765f50d51e2efeaa7d40a110f876fb733d9]{
 -- Page 499, Offset 6934.
 -- この街には人間を食い物にする化物が巣くっていて、アルクェイドはそれを退治しにきた。
-So, a monster who preys on humans has taken up nest in the city, and so you came here to exterminate it.
+So, a monster who preys on humans has built a nest in the city, and so you came here to exterminate it.
 }
 [sha:920e7e3bacaf46f03d1a348c585787b25cdd9069]{
 -- Page 499, Offset 6935.
@@ -428,14 +420,13 @@ No matter how great their superpowers; no matter their scale of existence――�
 [sha:8d353f7de78ba053912c46b7d7225215cfb74871]{
 -- Page 501, Offset 6941.
 -- 弱点が多い彼等は、決して表舞台に長居はしない。
+//Using spotlight here is might be the wrong translation, even if the "stage" metaphor is the same, it doesnt have the same implications.
 They have so many weaknesses that they can never stay above the surface for long.
-//spotlight seems a bit strange to word this, even if the "stage" metaphor is the same, it doesnt make the same implications
 }
 [sha:582a9aa215a8e7126bffb74d123c1c6b49751119]{
 -- Page 501, Offset 6942.
 -- だから、脆弱だけど弱点の少ない人間を使い魔にして、安全圏から血を集める。言ってしまうとリスク回避ね」
-That's why they stay in their safe zone, and collect blood by using humans as their familiars. You might be frail, but at least you lack weaknesses. Basically, they're just being risk averse."
-//hard sentence, might need more work
+That's why they stay in their safe zone and collect blood by using humans as their familiars. Humans might be frail, but at least they don't have many weaknesses. Basically, they're just being risk averse."
 }
 [sha:fb92805dd9e3ee1df67b6c60431c4943d0c4b2fe]{
 -- Page 502, Offset 6943.
@@ -465,20 +456,18 @@ They just have %{i}a lot%{/i} of enemies, I guess?"
 [sha:dbaaf8a8eeb37e067faad2ebbd1177ca35a8ae59]{
 -- Page 503, Offset 6948.
 -- 吸血鬼はね、人間に嫌われているの。人間の最大の武器は数と共有でしょう？
-You see... humans hate vampires. The greatest weapon humans have are their numbers, and how they cooperate.
-//passive voice doesnt always have to be followed
+You see... humans hate vampires. The greatest weapons humans have are their numbers, and how they cooperate.
 }
 [sha:e608871693d0f862815e627c90c20ce522a5151b]{
 -- Page 503, Offset 6949.
 -- いるのよ、世界には吸血鬼が事件を起こせば駆けつけてくる、吸血鬼を殺す事だけを目的とした<連中|ニンゲン>が」
 So yeah, there actually are these people who've made it their sole purpose to kill vampires, and... they tend to come running whenever a vampire incident occurs somewhere in the world."
-//it's a bit long but its got character
 }
 [sha:aac95f315358bff2479f8ab01ad62757d003e6ae]{
 -- Page 504, Offset 6950.
 -- 「とくに陰湿で執念深いのが教会……西欧を中心にした宗教の異端狩り。主の意思を人の手で代行する、なんてお題目から代行者と呼ばれているわ。
-"Most insidious and tenacious of all when it comes to this is the Church... heresy hunters from a religion based in Western Europe. They claim their purpose is to Execute the Lord's will by human hand, so naturally, they're called Executioners.
 //executioner punnery near the end <-- good practice in general, these kind of sentences with 代行 as related to 代行者 are plenty in number (or at least, they were in MBTL...)
+"Most insidious and tenacious of all when it comes to this is the Church... heresy hunters from a religion based in Western Europe. They claim their purpose is to Execute the Lord's will by human hand, so naturally, they're called Executioners.
 }
 [sha:b62999df6447735ab66cb7fc10bcf893a0ca46a3]{
 -- Page 504, Offset 6951.
@@ -513,8 +502,9 @@ Still...
 [sha:99094d8e6f805b67442163d69a5da8923fa97bd8]{
 -- Page 507, Offset 6957.
 -- 「……いったん隠れる……つまり、血をたくさん集めてしまえば隠れる必要はない？」
-"...'Lay low %{i}for a while%{/i}'... then does that mean there's no need for them to hide once they collect a lot of blood?"
 //italics on for a while to get the point across
+"...'Lay low %{i}for a while%{/i}'... then does that mean there's no need for them to hide once they collect a lot of blood?"
+
 }
 [sha:288b36e67048c37a4b6a6ee76963d7ed15d20fe2]{
 -- Page 508, Offset 6958.
@@ -524,12 +514,12 @@ Still...
 [sha:3cfffb4b6f92d36dfc9be4e1d58b5bad66900a9e]{
 -- Page 508, Offset 6959.
 -- 教会の代行者たちがやってこようと後の祭り。吸血鬼はその街で貯めた資産で暴虐のかぎりを尽くす。
-At that point, even if the Executors were to come it would be too late. The vampire would use the power they accumulated in that town to wreak as much havoc as they possibly could.
+At that point, even if the Executors were to come, it would be too late. The vampire would use the power they accumulated in that town to wreak as much havoc as they possibly could.
 }
 [sha:291cdaa611672ddc7d9ce7077702a9b696da6cdd]{
 -- Page 508, Offset 6960.
 -- そうして街を完全に食い物にした後、また新しい狩り場を求めて移動する」
-And then, once they have completely devoured the city, they would move on to find a new hunting ground."
+And then, once they have completely devoured the city, they move on to find a new hunting ground."
 }
 [sha:84cc05dcf1a8fc18939002e50c11935a061ac2e1]{
 -- Page 509, Offset 6961.
@@ -570,13 +560,11 @@ Even if she says that it's too late to save our city, there's no way I could jus
 -- Page 511, Offset 6968.
 -- それに、そもそも―――
 And besides―――
-//besides in the first place: Ew
 }
 [sha:92bcd42967ba99cd0f865cfc2260ace1f0139223]{
 -- Page 512, Offset 6969.
 -- 「……うん。やっぱり、俺には信じられない」
 "Yeah... I can't really believe any of this."
-//yappari here as "as i thought" is not right, its closer to "as you'd expect" but that sounds like ass so lets just make a sentence that does the same job
 }
 [sha:b208c0ec5bd42723146c99cd5959a088353589bc]{
 -- Page 512, Offset 6970.
@@ -591,7 +579,7 @@ And besides―――
 [sha:02b4c929ec5d1bdceb5598e3f72b649d0bf75e9d]{
 -- Page 513, Offset 6972.
 -- 「当たり前じゃない。その必要性がないんだもの」
-"Of course I'm not. Why would I ever lie?"
+"Of course I'm not. I have no use for lies."
 }
 [sha:f698e6058b19a2f01c4d1c5227400a4bf3256fd7]{
 -- Page 514, Offset 6973.
@@ -612,7 +600,6 @@ I know that you're not human... %{i}That%{/i} I'm confident of.
 -- Page 514, Offset 6976.
 -- でも、だからって吸血鬼とか言われても実感が湧かないんだ」
 But even so, they still don't feel all that real to me, intuitively speaking."
-//kind of a weird translation; still, might need more work
 }
 [sha:6ffeb7e05692674706fb9f92229e572bc210cd1d]{
 -- Page 515, Offset 6977.
@@ -632,14 +619,13 @@ The way you see vampires is extremely different from how I see them."
 [sha:ed0b3e48d6cd8bd99aeaa88cd5b80ca67a232ac7]{
 -- Page 516, Offset 6980.
 -- 俺は吸血鬼なんてものが本当にいるってコトより、吸血鬼がこんなヤツだなんて想像もしなかった。
-It's not a question about whether they're real or not, but more that I can't imagine what they're like.
-//this is nicer.
+It's not a question of whether they're real or not; it's more that I can't imagine what they're like.
 }
 [sha:a2e355822a4312dacb8a0a4deb110468f16b4664]{
 -- Page 516, Offset 6981.
 -- 旧いタイプとか言われてもお手上げだ。おまえとそいつらの違いも分からない」
+//"traditional class" harkens back to a line above, hence quotes.
 You say stuff like 'traditional class' and I already don't know where to begin. I don't even know the difference between you and them."
-//harkens back to a line above so should be save, also quote marks
 }
 [offset:5810]{
 -- Page 517, Offset 6982.
@@ -649,12 +635,12 @@ That's right...
 [sha:0e114c40c071cbab155bc7b417966a1f08597860]{
 -- Page 517, Offset 6983.
 -- 違いが分からないと、コイツとはこれ以上話をしてはいけない。コイツを理由なしで信頼してはいけない。
-I shouldn't even be talking to her if I don't know that difference, I can't just trust her for no reason.
+I shouldn't even be talking to her if I don't know that difference. I can't just trust her for no reason.
 }
 [sha:9df996dd0e518bf4b1b7ef62b9b628a00032e691]{
 -- Page 517, Offset 6984.
 -- だって、コイツがその“城主”の吸血鬼より、更に危険な生き物の可能性だってあるのだから。
-I mean, there is the possibility that she's actually more dangerous than that Suzerain vampire is.
+I mean, there is the possibility that she's actually more dangerous than that Suzerain vampire.
 }
 [sha:35e7ab6613563869b77aeacf3931a26447a1a307]{
 -- Page 518, Offset 6985.
@@ -695,13 +681,11 @@ Arcueid is proudly holding her finger aloft.
 -- Page 521, Offset 6992.
 -- だから基礎編。だいじょうぶ、先輩としてバシッと教えてあげるから」
 Hence: 'Vampire Fundamentals'. Don't worry, Senpai over here's gonna give you a quick lesson."
-//AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH /petrikow
 }
 [sha:f72bc38f7e61b6edcf6f9c36f2c44a8c113eabc2]{
 -- Page 522, Offset 6993.
 -- 誰が先輩か。……というか、もう基礎編とやらを始めてるよな、コイツ……。
-Senpai in what... Wait, she's already getting started with her whole 'Fundamentals' shtick.
-//a little bit unsure here, could also be: "Wait, didn't we already do the 'Fundamentals' just now?" or something
+Senpai in what... And besides, didn't this woman already go through the fundamentals before?
 }
 [sha:825dacf9d0c377c3a028aaa2257cc257ce9f4039]{
 -- Page 523, Offset 6994.
@@ -716,8 +700,8 @@ Senpai in what... Wait, she's already getting started with her whole 'Fundamenta
 [sha:937a35c8798a02529ceea4cbadf7603b6dcc6ee2]{
 -- Page 524, Offset 6996.
 -- いまいち信用できない返答だった。
-For some reason, I have a hard time believing that.
 //gotta emphasize that he's got a hard time believing she'll keep it short.
+For some reason, I have a hard time believing that.
 }
 [sha:a42c250ed39b3163dfb25ad23e75907c62a76a8c]{
 -- Page 524, Offset 6997.

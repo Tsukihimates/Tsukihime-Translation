@@ -257,7 +257,7 @@ I've got some questions I need to ask her as well, so I'll just talk with her fo
 [sha:8c2aa714e968a5e2f43ebb2eb4dff1e561256fb0]{
 -- Page 162, Offset 8981.
 -- 「……そうね。やっぱりそういう会話になるわよね、わたしと志貴の場合」
-"Sure, I guess. I guess that's exactly the kind of thing you'd wanna talk about, after what happened to us."
+"Sure... I guess I should've expected you'd wanna talk about that after what happened to us."
 }
 [sha:d2e807deacbd0a411ca6160ed3190f2dcc7bf877]{
 -- Page 163, Offset 8982.
@@ -308,14 +308,12 @@ As soon as I say that... Arcueid lets out an exaggerated sigh.
 [sha:ff4e00befb382741ba1f9fa9266f79646ee89965]{
 -- Page 167, Offset 8991.
 -- 「そりゃあね。誰かさんに殺されてしまったわたしは、あんな二流の死徒と“戦い”をするレベルまで落ちてるわよ。
-"Well, you see... Thanks to a certain someone killing me, I've dropped to a level where even going up against a second-rate Dead Apostle like that would qualify as a 'fight'.
+"Well, you see... Thanks to a certain %{i}someone%{/i} killing me, I've dropped to a level where even going up against a second-rate Dead Apostle like that would qualify as a 'fight'.
 }
 [sha:3c4547d0296d62653d409ecc60e044d29dfa16e6]{
 -- Page 167, Offset 8992.
 -- 今のわたしとヴローヴの<存|ス><在|ケ><規|ー><模|ル>を比べるなら、あっちの方がやや上ってところ」
-// Power ruby is 存在規模
-// can't we just get rid of this ruby? Just call it Lifescale... I really don't see the point. (P)
-If you were to compare my <power|L i f e s c a l e  > with Vlov's right now, he would be slightly stronger."
+If you were to compare my Lifescale with Vlov's right now, he would be slightly stronger."
 }
 [sha:41045d5ba5fe6c7e88b7e124daa508cf2c9b7928]{
 -- Page 168, Offset 8993.
@@ -336,7 +334,6 @@ So if you were in your normal condition, you would be able to defeat him somehow
 -- Page 169, Offset 8996.
 -- もう、誰のおかげでこんな屈辱に耐えていると思ってるの？　あんな祖になりたての見習い、ホントなら睨むだけでぺしゃんこにできるんだからねっ！」
 Geez... besides, who do you think is responsible for this humiliating situation in the first place? At my usual strength, I could crush that wannabe Ancestor just by glaring at him."
-//not seriously, but like "at my usual"
 }
 [sha:eafbd9efc6411fe4433f32d63d2977562f735602]{
 -- Page 170, Offset 8997.
@@ -357,19 +354,17 @@ Under our current predicament, what I want to know is whether Arcueid can defeat
 -- Page 171, Offset 9000. Mods: @k, @e.
 -- 「できないわ。今はヴローヴの方が上だもの。
 "I can't. Right now, Vlov's stronger than me.
-//feel free to ignore somehow it read better to me.
 }
 [sha:8489a69ae59ed52e219359bb20a2cbb6b59ba70e]{
 -- Page 171, Offset 9001. Glued. Mods: @x.
 -- 単純な性能で下回っているんだから、無策で戦えば殺されるわ」
-In performance alone, I'm below him; If I fought him straight up, I'd just get killed."
-//There was something here where 単純 tripped up the translation
+//単純 not as in "I'm simply weaker..." but "purely power-wise, I'm weaker right now". Arcueid is implying that she's got tricks up her sleeves!
+In terms of pure power, I've fallen below him. If I fought him straight up, I'd just get killed."
 }
 [sha:ab80c0435ece814fae6776f1689d71408d227714]{
 -- Page 171, Offset 9002.
 -- 「ず、ずいぶんきっぱりと言うんだな。さっきはあんなに怒ったクセに」
 "T-That's quite direct coming from you. You got so mad at me earlier for asking, too."
-//this makes more sense, and it's what he's implying.
 }
 [sha:692ecbc1fe4133f1aca8f5e783e2474f725ae654]{
 -- Page 172, Offset 9003.
@@ -389,5 +384,5 @@ When it comes to fighting, Arcueid has a very tough and thorough thought process
 [sha:4131c570569d51436169c047024548824278d29b]{
 -- Page 173, Offset 9006.
 -- その冷徹さを目の当たりにすると、今さらながら、こいつも吸血鬼なのだと再認識する。
-As I witness her cold-hearted nature right in front of me, once again I realize, thought a bit late, that she is most definitely a vampire.
+As I witness her cold-hearted nature right in front of me, once again I realize, perhaps a bit late, that she is most definitely a vampire.
 }
