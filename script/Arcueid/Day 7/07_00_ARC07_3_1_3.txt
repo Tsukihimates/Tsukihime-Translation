@@ -22,12 +22,12 @@ The Twenty-Seven Ancestors, was it?
 [sha:e7cb590a6fbb23d420bc0563aa36757bdc900e10]{
 -- Page 576, Offset 18017.
 -- 「あー、それ聞いちゃうかぁ、
-"Aha! Right, that's what you'd wanna ask.
+"Ah! You would ask that, wouldn't you?
 }
 [sha:7a98f77dd9d95f5634e9291f9a864c32051e14bb]{
 -- Page 576, Offset 18018.
 -- やっぱりそれ聞いちゃうかー！」
-Of course you'd wanna ask about that!"
+Of course you would wanna ask about that!"
 }
 [sha:3165c95ad73845a00c7fa8a6aef781d90ee195e2]{
 -- Page 577, Offset 18019. Mods: @k, @e.
@@ -202,8 +202,8 @@ However...
 [sha:b8d10bfdc2ce71ef517a559f409ac4fea8906b99]{
 -- Page 589, Offset 18049.
 -- 「そうよ。それがⅨ階梯、祖。
-// 'You're talking about' gives a weird impression.
-"That's right. These are Rank IX, %{i}Ancestors%{/i}.
+// so even though the Ancestors are usually called "the", in this context when they're introduced as a Rank, it's better kept in the same format as the other Ranks, which are all in plain plural.
+"Right. That's Rank IX, %{i}Ancestors%{/i}.
 }
 [sha:2d0250cc111051df0f330e123b58eaec160c6e7c]{
 -- Page 589, Offset 18050.
@@ -250,7 +250,7 @@ aristocrat vampires who are allowed to exercise their own will."
 [sha:2cab04c6c658d2b7b5b1eefbae089d19399d093e]{
 -- Page 592, Offset 18058.
 -- 上級死徒は親基である祖に絶対服従という訳じゃない。逆らう事だってできる」
-Greater Dead Apostles do not necessarily show absolute obedience toward their Ancestor sire.
+Greater Dead Apostles do not necessarily show absolute obedience toward the Ancestor that sired them.
  They can even oppose them if they wish."
 }
 [sha:45d60f010415a4ccb7d1416c12523adaf00dae74]{
@@ -263,8 +263,8 @@ Greater Dead Apostles do not necessarily show absolute obedience toward their An
 -- まあでも、祖を倒す事はほぼ不可能よ。同じ『自由』を得たとしても祖が生きた年月は膨大だもの。上級死徒では祖の存在規模を上回ることは難しい」
 // 存在規模 previously translated as <power/abilities|Lifescale>
 That said, taking down an Ancestor is practically impossible.
- Even if they've acquired the same 'freedoms', Ancestors have in comparison lived far longer.
- Greater Dead Apostles have a hard time surpassing the Lifescale of an Ancestor."
+ Even if Greater Dead Apostles have acquired the same 'freedoms', Ancestors have lived far longer;
+ they have a hard time surpassing their Lifescale."
 }
 [sha:e363661b60fb8f898fb8b6a4ebce9a8827709ed2]{
 -- Page 594, Offset 18061.
@@ -284,8 +284,8 @@ A prince or princess, so to speak.
 [sha:359e8127e4e45680fca40f46c7b45d226cb9422b]{
 -- Page 594, Offset 18064.
 -- 祖の中には吸血鬼ではないものを見初めて、いきなりこの階梯まで引き上げてしまうモノもいる」
-There are also a couple of Ancestors that have been smitten with some non-vampiric being,
- and promoted them all the way to this rank on the spot."
+There are also some Ancestors who get smitten with a non-vampiric being,
+ and promote them all the way to this Rank on the spot."
 }
 [sha:53480a5fa2f6be9fe4a67de2bbed7fbbf1ed9dfc]{
 -- Page 595, Offset 18065. Mods: @n.
@@ -500,7 +500,7 @@ That's not the sort of power that anything with human form should be able to obt
 // Reading 人間の延長 as "humans that have been extended (lives prolonged)",
 // not "an extension of humans (an offshoot in a phylogenetic tree)"
 // First clause dropped for flow, if we really think it's necessary will come back and try to fit it in naturally.
-No matter how long they may live, Dead Apostles are still nothing more than an extension of humanity, right?
+Regardless of their lifespan, Dead Apostles are still nothing more than an extension of humanity, right?
  And I mean, no matter how long-lived, a human wouldn't be able to pull off stuff like that.
 }
 [sha:2eae232a44622ecc70b78e06d824f336d50c2c1a]{
@@ -516,8 +516,8 @@ There's something more to these Ancestors, isn't there?"
 [sha:9af32fd6c3a17c4767ab56ae7f3dc92b50c987dd]{
 -- Page 608, Offset 18103.
 -- 祖を祖たらしめているのは、その血液の質」
-// 質 closer perhaps to 'nature'
-What makes an Ancestor an Ancestor is the quality of their blood."
+// 質 closer perhaps to 'nature' rather than 'quality' in this context. Idea Blood isn't quality per se, but rather a very specific thing. Hence why the lowly Vlov counted as an Ancestor despite his quality.
+What makes an Ancestor an Ancestor is the character of their blood."
 }
 [sha:bcd244d5a9d5e39874377c95be6b2920bf9fc605]{
 -- Page 609, Offset 18104.
@@ -529,7 +529,7 @@ What makes an Ancestor an Ancestor is the quality of their blood."
 -- Page 609, Offset 18105.
 -- それぞれ戴いた真理、渇きの根底となる世界観。
 The truths they have each been crowned;
- The worldviews that underpins their thirst;
+ The worldviews that underpin their thirst;
 }
 [sha:ded30ad443ac5e43d2d483b697e500c9c52eb5ad]{
 -- Page 609, Offset 18106.
@@ -571,7 +571,7 @@ Dead Apostles who inherit this blood ascend to Ancestor status,
 [sha:bc5fa867416ce51bd1013878fce989b8ab999946]{
 -- Page 611, Offset 18113.
 -- もっとも、原理血戒を動かすには千年クラスの土台がいるわ。数百年活動した程度の死徒が継承しても、その呪いで潰される」
-Although a millennium-class base is required in order to operate the Hemonomic Principle.
+That said, a millennium-class base is required in order to operate the Hemonomic Principle.
  So even if some random Dead Apostle that had only been active for a few hundred years inherited it, they'd be crushed by its curse."
 }
 [sha:e074d33328ffd4f6475b0573f543bfea32c02b3b]{
@@ -587,9 +587,9 @@ Although a millennium-class base is required in order to operate the Hemonomic P
 [sha:601c575a014f7a176e961bc5b894fc7a5827c162]{
 -- Page 612, Offset 18116.
 -- ……死徒としてはⅥ階梯クラスだったのに、なんであそこまで自我が残っていたのかしら……」
-// Vlov is _technically_ rank IX, but actually only really as capable as VI
-He was only at a Rank VI as far as Dead Apostles go,
- so I wonder how exactly he managed to maintain his sense of self so well...""
+// Vlov is _technically_ Rank IX, but actually only really as capable as VI
+He was only Rank VI as far as Dead Apostles go,
+ so I wonder how exactly he managed to maintain his sense of self so well..."
 }
 [sha:2c4ee014a377237aae50df1e1ee67fcb8ea2285a]{
 -- Page 613, Offset 18117.

@@ -6,7 +6,7 @@ I really ought to deepen my understanding of vampires...
 [sha:fdff4e030d18a82a8962a5676fd6181a33bb5718]{
 -- Page 10017, Offset 17863.
 -- 親基の吸血鬼と、下僕にあたる死者たち。
-Vampires sires, and the Dead they keep as underlings.
+Vampire sires, and the Dead they keep as underlings.
 }
 [sha:205b9ded6a8ea01baf5ca616bb12bdc526a32c25]{
 -- Page 10017, Offset 17864.
@@ -53,7 +53,7 @@ I'll stay quiet and listen to what Arcueid-sensei has to say.
 -- Page 524, Offset 17871.
 -- 「とは言っても、その発生から話すと長すぎるから、ここはわたしたちの敵……死徒に話を限定するわね。
 // the その in その発生 refers to the 発生 of わたしたちの敵, 死徒. She's trying to avoid talking about True Ancestors, who are the ones that birthed Dead Apostles.
-"I say that, but it would take way too long to explain everything from the start.
+"I say that, but it would take way too long to explain their whole history.
  For now, I'll limit the scope to our current enemy: the Dead Apostles.
 }
 [sha:0343c07ffd0de57546d0079cef52fdd8efe62d9e]{
@@ -75,6 +75,7 @@ I don't need to explain this any further, right?"
 [sha:33c075ca6ab050b7e696a371e9a2387719f7dc0e]{
 -- Page 525, Offset 17875.
 -- 一人の支配者と、大勢の働き蟻……なんだよな？」
+// referencing offset 6913
 // hate to use the word 'worker ant' like this, since it has more of a metaphorical use in Japanese
 One leader commanding a large number of workers... something along those lines?"
 }
@@ -107,8 +108,8 @@ These have no will of their own, and are merely puppets that follow their master
 -- ようは下級兵士ね。ただ血を吸われて、血を送られただけのモノ。わたしたちが死者と呼んでいるものの一つ」
 // the second sentence is talking about the Corpse itself, not the way the "transport" blood. It describes the process in which they're born, hence why I've added the "by the vampire" here for context. It could perhaps be improved.
 Basically just cannon fodder.
- Anything which've just had its blood sucked, and then had blood injected into it by the vampire.
- These are just one of the creatures we collectively refer to as the Dead."
+ They are just beings that have had their blood sucked and replaced with that of the vampire.
+ One of the type of creature we collectively refer to as the Dead."
 }
 [sha:90f2b4f275e300ba728cf8508caacfe33971d0c9]{
 -- Page 528, Offset 17881.
@@ -133,9 +134,9 @@ The magical energy of their sire prevents them from decomposing entirely,
 -- Page 528, Offset 17884.
 -- 脳が腐り出しているから本能で血肉を求める分、Ⅰ階梯の死者より凶暴。あえていうなら兵士、かな。これも死者ね」
 Since their brains are in the process of rotting away, they are ruled by their instincts;
- as a result, they are far more ferocious than the rank I Dead.
+ as a result, they are far more ferocious than the Rank I Dead.
  I guess you could call them the rank and file.
- These are also a part of the Dead."
+ Also a part of the Dead, by the way."
 }
 [sha:e26645a7f6f7b210f1826a906a67d7c6e984134a]{
 -- Page 529, Offset 17885.
@@ -162,12 +163,12 @@ Living corpses, the Undead.
 These are higher-ranking soldiers,
  whose brains have been completely reconstructed since their initial death.
  Sunlight doesn't faze them either.
- However, their true form can easily be exposed if they don't perform embalming on themselves.
+ However, their true form can easily be exposed if they don't take pains to keep themselves properly embalmed.
 }
 [sha:a685cec6f7cbcd08cf3d0ab241ce4dd92d6c6f9f]{
 -- Page 529, Offset 17889.
 -- 死者と呼ばれるカテゴリーはここまでね」
-These are all of what we call the Dead."
+And that's all for the the 'Dead' category."
 }
 [sha:5599af88891f6a10c967bbece2e2a2b0af4a0991]{
 -- Page 530, Offset 17890.
@@ -177,15 +178,15 @@ I see...
 [sha:7df695cf62f6207ecfc7682eaebc03e3d290fac0]{
 -- Page 530, Offset 17891.
 -- あのゾンビ……死者にもそんな段階があったのか。
-I guess there are tiers even to those zombies... these 'Dead'.
+I guess there are grades even to these zombies... these 'Dead'.
 }
 [sha:e7acce95c6ab3d7b1791a2ba73e054c7b38be100]{
 -- Page 530, Offset 17892.
 -- 階梯が進めば進むほど、ただの死体から動く死体に向上していく訳だ。
 // Initially this was translated to imply that the dead can actually rise up the ranks, but I'm not sure that's how it works?
 // Need a lore nerd to confirm.
-// I have arrived.
-So basically, the higher their Rank, the more they go from being an ordinary corpse, to one that can move.
+// Ranks are fluid between Rank II to Rank V (petrikow)
+So basically, the higher their rank, the more they develop from ordinary corpses, to ones that can take action.
 }
 [sha:6bfb143a19283ff452051b31b91ec432daba5fc1]{
 -- Page 530, Offset 17893.
@@ -205,11 +206,12 @@ This has got me wondering...
 -- Page 532, Offset 17895.
 -- 「お生憎様、こういうのはたいてい教会の仕事よ。便利だから使っていたら魔術世界の常識になっただけ。
 "Sorry to disappoint, but this terminology was the work of the Church.
- It's a handy set of terms, so people picked up on it and eventually it became a de facto standard in the world of Magecraft.
+ It's a handy set of terms, so people picked up on it and eventually it became a de facto standard in the Magecraft world.
 }
 [sha:0bef5f81b13d3a3c7e710ff39435ed7fe1668e45]{
 -- Page 532, Offset 17896.
 -- 問題は教会内部の<誰|・><が|・>これを広めたかなんだけど……ま、それはどうでもいっか」
+// Just for the record, I actually don't really understand what her implications here are, but it seems translated fine enough (petrikow)
 The real question is, %{i}who was it from the Church that%{n}spread this information%{/i}... Well, it doesn't really matter."
 }
 [sha:468a12fb734e19c974fb2a28e497ec4aac4a2b62]{
@@ -220,8 +222,7 @@ The real question is, %{i}who was it from the Church that%{n}spread this informa
 [sha:976f31b97e08c740c1793be22d01ee96431cdb5b]{
 -- Page 533, Offset 17898.
 -- 生前のパーソナリティを維持したまま、吸血鬼見習いとして活動する不死者。
-// cadet to tie in with Arcueid's military ranking metaphors
-These undead retain the personality they had when they were alive, and act as vampire cadets.
+These undead retain the personality they had when they were alive, and act as vampire apprentices.
 }
 [sha:3e9ab4f6152f0a8bcbeb92d840ab64f88dc009f0]{
 -- Page 533, Offset 17899.
@@ -241,12 +242,13 @@ Their physical abilities far outstrip those of a human,
 [sha:aa25193e20aab04b45ad6017ed8479b2c96d666f]{
 -- Page 534, Offset 17901.
 -- 魔術世界において、“ヒト”と呼べるのはこの階梯までなんだとか」
-This is the final Rank that people versed in Magecraft would still consider to be a 'person'."
+// I think 'versed in Magecraft gives the wrong impression. 魔術世界 is everyone who dabbles in the masquerade, essentially, not just those who "are versed in magecraft".
+In the Magecraft world, this is the final Rank that people would still consider to be a 'person'."
 }
 [sha:24fa4cba118c076b091792ccb427698605ff4946]{
 -- Page 535, Offset 17902.
 -- 「吸血鬼見習い……つまり、もう“死者”じゃない？」
-"Vampire cadets...
+"Vampire apprentices...
  so does that mean they're no longer classed as 'Dead'?"
 }
 [sha:feeae6f2b4f2de5a2b812f23503c11410f87aa66]{
@@ -298,7 +300,7 @@ Completely independent 'bloodsuckers'.
 -- 成り上がりものの限界ね。あえて言うなら城塞、かな。
 // 成り上がり can be both a 'person' and an 'action', in this case its the former (hence 成り上がり<<もの>>), important to note because later its used as an action.
 As an upstart, this is about as far you'll go.
- Analogy-wise, vampires of this rank are like a citadel unto themselves.
+ You could say that vampires of this rank are like a citadel unto themselves.
 }
 [sha:4ba45670e0e1da08983e36af1ebe8e2190efd1ac]{
 -- Page 537, Offset 17911.
@@ -310,7 +312,7 @@ The vampire lurking in this city belongs to this Rank.
 [sha:cc8af02c1e1c10c9219ce19b7d456a66f7b538b9]{
 -- Page 538, Offset 17912.
 -- 「以上が死徒における身分制度。何か気になった点はある？」
-"That's all for the Dead Apostle class system. Anything you wonder about in particular?"
+"That's all for the Dead Apostle class system. Anything else in particular you were wondering about?"
 }
 [sha:22e594e1da05e0bc3f9b7f4e8875a1f7513b5225]{
 -- Page 538, Offset 17913.
@@ -322,7 +324,7 @@ The vampire lurking in this city belongs to this Rank.
 -- 「もちろんⅥ階梯、死徒よ。あいつの場合、そこから飛び級をしてしまったけど、それはまた別の時にでも」
 // 'そこから飛び級' as in he faked his way to a position _above_ that of a dead apostle (Ancestor)?
 "He would of course be Rank VI, a Dead Apostle.
- Technically, he actually managed to skip a few ranks beyond that one,
+ Technically, he actually managed to skip a few Ranks beyond that one,
  but that's a story for another time."
 }
 [sha:34870e6187b81900093a73c015c402771f326e47]{
@@ -353,30 +355,30 @@ That's because of their biggest flaw... well, maybe it's just a peculiarity.
 -- Page 540, Offset 17919.
 -- 死徒に血を吸われた人間は誰もが吸血鬼になる訳じゃないし、死徒は誰をも吸血鬼にする訳でもない」
 Not everyone who has their blood sucked by a Dead Apostle is able to become a vampire,
- nor do Dead Apostles turn just about anyone into a vampire."
+ nor do Dead Apostles turn just anybody into a vampire."
 }
 [sha:f388dbc4418c8dcfdb27296f32cdea7c84531ad9]{
 -- Page 541, Offset 17920.
 -- 「下僕作りと食事は別。
-"Spawning underlings and eating are two different things.
+"Spawning underlings and feeding are two different things.
 }
 [sha:f5f2d36c00d202e6d8c0cba3e7b205ee398f7982]{
 -- Page 541, Offset 17921.
 -- 血を吸われただけなら、人間は人間として死ねるわ。
-Humans who only have their blood sucked simply die,
- never turning into a vampire.
+Humans who only have their blood sucked simply die without turning into vampires.
 }
 [sha:6eebcf96e8827c4ec79c7d5cfbc51468b604a959]{
 -- Page 541, Offset 17922.
 -- けれどその時、死徒の血を送られると人間は血に支配され、死亡する。その後に、吸血鬼として新生し、呪われていく。
-However, if when they do, the Dead Apostle instead transfers some of their own blood to the human,
+//呪われていく。 implies some kind of process, but I'm not sure how to incorporate it.
+But if the Dead Apostle instead transfers some of their own blood into the human,
  it will take control, and then kill them.
- Afterwards, they are reborn as vampires and become cursed.
+ Afterward, they are reborn as cursed vampires.
 }
 [sha:6ed7aad1df1ff8b47dab5027478b23af3fe11ff3]{
 -- Page 541, Offset 17923.
 -- この階梯は、その呪いの深度を表したものなの」
-These ranks are a representation of the depth of their curse."
+These Ranks are a representation of the depth of their curse."
 }
 [sha:52878286900c6b98138b22dca2267a8057f3d208]{
 -- Page 542, Offset 17924. Mods: @n.
@@ -395,14 +397,14 @@ These ranks are a representation of the depth of their curse."
 -- 「ええ。でも下僕を作るのだって簡単じゃないわ。吸血鬼は簡単に家族を増やせない。
 "Yeah.
  However, creating underlings isn't a walk in the park.
- It's not quite that easy for vampires to expand their family.
+ It's not quite that easy for vampires to expand their clans.
 }
 [sha:28461f086d76c2c48dcfc0ff6e75e0dffac8d1cc]{
 -- Page 543, Offset 17927.
 -- Ⅰ階梯の死者なら、殺した後に血を送ってむりやり兵士にしてしまえばいい。
 If it's just a Rank I Corpse they're after,
  they can forcibly turn people into their soldiers
- just by killing and then transferring their blood to them.
+ just by killing and then transferring their blood into them.
 }
 [sha:c72b842ae08612b4a68b50256e1db8298d204f5a]{
 -- Page 543, Offset 17928. Mods: @n.
@@ -415,7 +417,7 @@ But to increase the number of Rank II vampires and above,
 -- Page 543, Offset 17929. Glued.
 -- 適性が必要になってくる」
 // Leading space for glue
- and aptitude is necessary."
+ and aptitude become necessary."
 }
 [sha:2b904b15bd88c68d9e92f2a814710545b8b196d3]{
 -- Page 544, Offset 17930.
@@ -425,8 +427,8 @@ But to increase the number of Rank II vampires and above,
 [sha:fcaa72b383d7c6afe6a0d5cc0cf8ce3eb3759e4b]{
 -- Page 544, Offset 17931.
 -- 「吸血種の血に抗える免疫力……かな？」
-// this should be "bloodsucker blood" but even for me (lore-lover) that's too fucking ridiculous of a sentence.
-"Something like an immunity against vampiric blood, I guess?"
+// this should be "bloodsucker blood" but even for me (lore-lover) that's too fucking ridiculous of a sentence. 
+"Something like an immunity against bloodsuckers, I guess?"
 }
 [sha:3e0cc9a563c8493f5ba5d55e944838f81fcc88f5]{
 -- Page 545, Offset 17932.
@@ -443,7 +445,7 @@ But to increase the number of Rank II vampires and above,
 [sha:cb10e4eacc6b8940d3732f81f3620a53ab101c0b]{
 -- Page 545, Offset 17933.
 -- でも、それだと上質の下僕とは呼べない。親基としては、自分の力だけで自立してもらわないと困るのよ。働き蟻を動かすたびに自分の時間を使っていたら、それこそ本末転倒でしょ？」
-But you could hardly call that underling of much quality.
+But you could hardly call that a high-quality underling.
  Underlings that can't even fend for themselves would be a huge burden for the vampire sire.
  Having to personally tend to each of your workers every time you wanted to have them do something
  would be putting the cart before the horse, no?"
@@ -456,7 +458,7 @@ She's right.
 [sha:96217ab31726d99c22615fa6c0bc1ad3bb817866]{
 -- Page 546, Offset 17935.
 -- 親である吸血鬼は通常、棺に入って眠るという。
-Vampire that have sired a bunch of Dead usually spend most of their time sleeping in their coffins.
+Vampires that have sired a bunch of Dead usually spend most of their time sleeping in their coffins.
 }
 [sha:e6d75c9ab9aa0b53f30affdd4220954b64b9367d]{
 -- Page 546, Offset 17936.
@@ -480,7 +482,7 @@ As I understand it, vampires that have been alive for a long time aren't very fu
 -- Page 547, Offset 17939.
 -- その後は本人の生存力ね。吸血鬼の血に負けて絶命するか、これに打ち克って吸血鬼として新生するか。
 Past that, it's just a question if they can survive.
- Whether they lose to the vampire blood and lose their life,
+ Whether they lose to the vampire blood and perish,
  or overcome it and are reborn.
 }
 [sha:e075e89a28623b91ffa294c74b8b035f96b67a3b]{
@@ -534,7 +536,7 @@ People often say that vampires are like a pyramid scheme in this regard,
 [sha:8e302673de37f91cbcdbd854eb9b423930742e92]{
 -- Page 550, Offset 17947.
 -- そう簡単に家族は増やせない、とアルクェイドは言った。
-Arcueid said that it isn't so easy to grow one's family.
+Arcueid said that it isn't so easy for them to grow their clans.
 }
 [sha:eeb87c6c1d0d088269c308029f3f24a3439e6aed]{
 -- Page 550, Offset 17948.
@@ -755,7 +757,7 @@ Those that started off as vampires, and those that were once human but became va
 [sha:97f4a9008327a4a05b0507b9bfec921f166b15bd]{
 -- Page 563, Offset 17985.
 -- その、『人間から吸血鬼になった』ヤツらが、死徒ってコトなのか？」
-So... Dead Apostles are the kind that turned from humans to vampires?"
+So... by 'those that were once human' you mean the Dead Apostles, right?"
 }
 [sha:83f496bd7ebd1f0ea7c1c79d90e0cdd0e18caf99]{
 -- Page 564, Offset 17986.
@@ -766,12 +768,12 @@ So... Dead Apostles are the kind that turned from humans to vampires?"
 -- Page 564, Offset 17987.
 -- 魔術の果てに不老になったものか、真祖に血を吸われて下僕となったものとがいるわ」
 There are some who became immortal as a result of Magecraft,
- while others had their blood sucked by a True Ancestor and became their underling."
+ while others had their blood sucked by a True Ancestor and became their underlings."
 }
 [sha:53bf67edcc0bc288f75769918d9370bc7d635466]{
 -- Page 565, Offset 17988.
 -- 「……志貴、あなたはさっき殺した人間を使役するのが悪趣味だと言ったけど、それでもまだマシなほうなのよ。中にはもっと理解不能な遊びを考案する死徒もいるんだから」
-"Shiki... you said that it sickening for that man we killed earlier to be used like that,
+"Shiki... you said that it was sickening for that man we killed earlier to be used like that,
  but there are far worse fates out there.
  There are those among the Dead Apostles with even more unimaginable ways of amusing themselves."
 }
@@ -793,8 +795,8 @@ For Dead Apostles, entertainment is as important as breathing.
 [sha:9bd8f1fb5c1dd54a613dddd52312e3890f004c5e]{
 -- Page 566, Offset 17992.
 -- 人間という短命種でありながら、不完全ながらも不老不死に近付いた彼らにとって最大の敵は“退屈”だった。
-Humans are short-lived by nature;
- Even if they've only ever come close to imperfect immortality, their greatest foe is still boredom.
+// (人間という短命種でありながら、不完全ながらも不老不死に近付いた彼ら), so like "they who are both human (who are short-lived) + immortal (but imperfect immortals)" and then にとって最大の敵は“退屈”だった = for [previously described], their greatest enemy is boredom.
+While they were once short-lived humans, as they've come close to immortality, imperfect as it may be, their greatest foe has become that of boredom.
 }
 [sha:ee399f8c800062c097733ed5c0f1f6c0caee6dff]{
 -- Page 566, Offset 17993.
@@ -833,10 +835,9 @@ But because of that, their lives end up having no meaning at all.
 -- Page 568, Offset 17999.
 -- 自らを無価値と―――停止した生命と認識した知性体は、そこで存在の価値がなくなってしまう」
 // 体 -> being I guess?
-// remade quite dramatically
-Intelligents being that recognize the pointlessness―――
-and stagnation of their own lives,
-lose all point to their existence."
+Intelligents being that recognize the pointlessness
+ and stagnation of their own lives,
+ lose all point to their existence."
 }
 [sha:a131b6797f58f11fef7a6eaba9a3cf3a986f9967]{
 -- Page 569, Offset 18000.
