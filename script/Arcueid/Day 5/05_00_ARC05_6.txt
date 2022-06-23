@@ -1,12 +1,12 @@
 [sha:c5ff37ce2f849f3c421a59389203938b512db7f0]{
 -- Page 10013, Offset 9777.
 -- 「はっ、は―――！」
-"%{i}Ha, ha%{/i}―――!"
+"%{i}Haa―――haa%{/i}―――!"
 }
 [sha:30376c647412b8f914fccb601c571e6b9a46eee8]{
 -- Page 10013, Offset 9778.
 -- ビルから出ると、そこは瓦礫の山と化していた。
-As I leave the building, I see a pile of debris in front of me.
+I leave the building and find that a pile of rubble has formed.
 }
 [sha:5ac680993a2450fc00aad76288855b880f8798c3]{
 -- Page 10013, Offset 9779.
@@ -36,7 +36,8 @@ The rubble forms a slope that leads down to the foot of the pit.
 [sha:5f215d4d86f99f3f78c6d052e15dc46ee425e5ba]{
 -- Page 449, Offset 9784.
 -- 下から登る事は不可能だが、降りていく事なら俺の足でもできそうだ。
-Although it'd be impossible to climb up from the bottom, I should be able to slide down even with legs like mine.
+Although it'd be impossible to climb up from the bottom,
+ descending should be possible even with legs like mine.
 }
 [offset:9785]{
 -- Page 449, Offset 9785.
@@ -46,10 +47,9 @@ With that said―――
 [sha:2088cf598915647e9f272eff7c2dabc25c9a1c2d]{
 -- Page 450, Offset 42617. Choice.
 -- 下りていく。
- I should go down.
+ I should descend.
 }
 [sha:b41c1ff21fcca1ba3a833e886c8a4072737915f5]{
 -- Page 450, Offset 42618. Choice.
 -- 様子を見る。
  I should observe the situation.
-}
