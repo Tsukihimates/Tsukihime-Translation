@@ -1053,7 +1053,7 @@ The distance between us is getting smaller and smaller.
 [sha:d781d160e98364eb0da78bba45c51a0f87409f46]{
 -- Page 161, Offset 6013.
 -- 「……生き……返った？」
-"...Came back... to life?"
+"Came back... to life?"
 }
 [sha:4fae8fa64a1b29fddbeacaea0967d0d37e5e14ea]{
 -- Page 161, Offset 6014.
@@ -1251,32 +1251,36 @@ To put it simply, I'm a monster that lives off human blood."
 [sha:bb228238ea3dba2645d8f872e1df5b32d25b0430]{
 -- Page 173, Offset 6052.
 -- なにが良かったかって、吸血鬼という単語はそれなりに分かりやすい。
-What's good about it is that the word vampire is easy to understand in its own way.
+// Firstly needed here to connect with 次に/Secondly a couple lines down.
+Why is this good? Firstly, because the word 'vampire' is at least easy to understand.
 }
 [sha:098e10bfba2ed1fcb3b736f611c8afbf57ab49d5]{
 -- Page 174, Offset 6053.
 -- 俺だって知識として知っている。
-Even a person like me knows what a vampire is.
+Even I know a thing or two about them.
 }
 [sha:413f87ec61397d3a5db4f6eeb0ee25fe91371ba6]{
 -- Page 174, Offset 6054.
 -- 作り話とはいえ、吸血鬼という単語は<大衆的|ポピュラー>かつ有名だ。
-Even though it's a myth, the word 'vampire' is very well-known.
+They may be made-up, but the word 'vampire' is very well-known.
 }
 [sha:46f1ca4caa6ef81c52aa3b5fc28967e4c6a723bd]{
 -- Page 174, Offset 6055.
 -- 小説家ブラムストーカーの創作。西洋圏で<虚構|フィクション>として語られる、人間の姿をした“死なない”怪物。
-The concept was created by the novelist Bram Stoker. An immortal creature in human form, as depicted in the stories from the West.
+An immortal creature in human form.
+ The concept was created by the novelist Bram Stoker, and shows up in fiction from the West.
 }
 [sha:1fabe7efb8d59fde988c123795e749de80e54f55]{
 -- Page 175, Offset 6056.
 -- 次に、何より名称だけでその在り方が<窺|うかが>える。
+// Kinda falls flat in EN here. Not really sure what can be done about it.
 Secondly, and most importantly, the name alone gives you an idea of what they are.
 }
 [sha:a3621a5ed3f04fe89d726632096124ec0896a7ad]{
 -- Page 175, Offset 6057.
 -- 血を吸う鬼。鬼と名乗るからには、人間でないのは当たり前だ。
-A blood-sucking demon. Since she calls herself a demon, it's only natural that she is not human.
+A blood-sucking demon.
+ If she's referring to herself as a demon, then it obviously follows that she's not human.
 }
 [sha:8f3eaa97876724276e7792bc1f922ce1c78651d9]{
 -- Page 176, Offset 6058.
@@ -1286,32 +1290,33 @@ A blood-sucking demon. Since she calls herself a demon, it's only natural that s
 [sha:e1e1d29947fef7e0b6222e0bac0ff0d03283ab2c]{
 -- Page 176, Offset 6059.
 -- 口にして、あまりの突拍子のなさに笑いそうになった。
-It was so out of the blue that I almost laughed.
+It's so patently absurd that I almost burst out laughing.
 }
 [sha:c7fdc0ef5d61a0013d2d1b2c656087f205f0fc03]{
 -- Page 176, Offset 6060.
 -- この後すぐに殺される状況なのに、気が楽になる。
-Even though I'm going to be killed right after this, it made me feel better.
+Even though I'm going to be killed right after this, I feel a little more at ease.
 }
 [sha:2f3a6391c974e957667be10dd419f16a5eb01239]{
 -- Page 176, Offset 6061.
 -- なんというか、もうどうにでもなれという心境だ。
-I'm not sure why, but I feel like I don't care anymore.
+I guess I've reached the point where I just don't care anymore.
 }
 [sha:aa84542263a5f69b91112778eed855483f07053d]{
 -- Page 177, Offset 6062.
 -- そんな、何もかも投げ出した俺の無様な姿を、女は満足そうに見下ろしている。
-The woman looks down at me with a satisfied look, as if she's happy to see me in such a sorry state, having thrown everything away.
+As I lie here in a heap, having completely abandoned myself to my fate,
+ the woman looks down at me with a satisfied expression on her face.
 }
 [sha:af804cd3b5c5539c0e053993986bda1827a81f47]{
 -- Page 178, Offset 6063.
 -- ……でも、吸血鬼ってヤツは昼間は歩けないのが通説ではなかっただろうか？
-...But, I thought the common belief is that vampires can't walk in the sunlight.
+...Hold on, I thought the general consensus was that vampires can't be out and about during the day?
 }
 [sha:55426c05cee6ef3e723b550b11ea7a145fbc70e5]{
 -- Page 178, Offset 6064.
 -- まあ、今はそんなコト、本当に些細な問題だけど。
-Well, that's really a minor issue now.
+Well, I guess I have other things I should be worrying about right now.
 }
 [sha:b9e1c61b9cb8911ab4549a757f5f9c82e4e98828]{
 -- Page 179, Offset 6065.
@@ -1326,7 +1331,10 @@ What does a monster like you want from me?"
 [sha:394e30bda78b674aa811f4bf1cad7d461f427df6]{
 -- Page 180, Offset 6067.
 -- ヤケになって言い捨てる。
-I give in to despair and throw out those words.
+// Dictionaries keep saying 言い捨てる is like 'say over your shoulder' or
+// 'parting shot', but feels like that doesn't really make sense here, so
+// going with something more literal
+Giving into despair, I spit out those words.
 }
 [sha:ae69e90a5b422aef8bd7e5b8d14be88dd2e60c66]{
 -- Page 180, Offset 6068.
@@ -1336,32 +1344,33 @@ For some reason, the woman backs away.
 [sha:369320c5c0734b8c58e776366756e5bec242b119]{
 -- Page 180, Offset 6069.
 -- それも束の間で、すぐに両手を胸の前で組んで、むっとした眼差しを向けてくる。
-It was only for a moment, and she immediately folds her hands in front of her chest and gives me a scowl.
+Only for a moment though―――the next instant, she folds her hands in front of her chest and starts scowling sullenly at me.
 }
 [sha:e0fc8e7c40baa70f020277bc85859ec0efa01308]{
 -- Page 181, Offset 6070.
 -- 「驚いた。昨日、わたしに何をしたか忘れたの？
-"I'm surprised. Have you forgotten what you did to me yesterday?
+"I'm shocked. Did you already forget what you did to me yesterday?
 }
 [sha:74824a4bdba7c58bc59370468d6eb81df7e97b4e]{
 -- Page 181, Offset 6071.
 -- あなたは見ず知らずのわたしを、会った瞬間にバラバラに殺してくれたのよ。それで何の用だ、なんて、よっぽど手慣れているみたいね」
-You dismembered a complete stranger the moment you saw them. And yet here you are, acting like we're close and saying stuff like that."
+You dismembered me, a complete stranger, the moment you saw me.
+ And yet here you are, asking me what I want with you like you're totally used to this kind of thing."
 }
 [sha:a00d6864b646d66ec360a872c845750ca0e6cb21]{
 -- Page 182, Offset 6072.
 -- 女は怒っている……というより呆れているようだ。
-The woman seems to be more astonished than angry...
+The woman isn't really angry so much as astonished...
 }
 [sha:f0e77644d09e5f28e1146269c9ec4db7ebf4fdb4]{
 -- Page 182, Offset 6073.
 -- でも、今は俺だって同じ気分だ。
-But now I feel the same way.
+Though, I have to say I feel the same way right now.
 }
 [sha:f9f255e8626e36ac410f4d5779eb6fc33a63ddd3]{
 -- Page 182, Offset 6074.
 -- なにしろこの手で殺した女に、よくも殺してくれたわね、なんて恨み言を言われているんだから。
-After all, the woman I killed with my own hands is complaining to me about how I dared to kill her.
+I mean, the woman I killed with my own two hands is complaining to me about how I dared to kill her.
 }
 [sha:55597561aafe41db549fe0bf32b62e217a0e5991]{
 -- Page 183, Offset 6075.
@@ -1381,52 +1390,57 @@ I'm sorry, but I need you to shut up for a second."
 [sha:109c7f886808984f72292a1d9284428f8561a338]{
 -- Page 184, Offset 6078.
 -- というか、何かに当たり散らしたい。
-Or rather, I want to put the blame on something else.
+I say that, but I really just want to lash out at something.
 }
 [sha:e5d0333b2610a34a3d0665c5174972309c20c135]{
 -- Page 184, Offset 6079.
 -- そうでないと自決さえしかねない。
-Otherwise, I might even commit suicide.
+If I don't, I might go so far as to commit suicide.
 }
 [sha:3e6c60df10b7cfc6a264e61a3cb8b9a13507c987]{
 -- Page 185, Offset 6080.
 -- この期に及んで、運の悪さを思い知る。
-After all this time, I finally realize how bad my luck really is.
+After all this time, it finally sinks in just how bad my luck really is.
 }
 [sha:c8ed3d66c3180d5b50b27192ab47f0435796c7ee]{
 -- Page 185, Offset 6081.
 -- 理由もなく突然殺したくなった女がいて、
-There was a woman I suddenly felt like killing for no reason.
+I ran across a woman who I suddenly felt like killing for no reason―――
 }
 [sha:7494769bbf430d1eb43eec89b180175b6996870d]{
 -- Page 185, Offset 6082.
 -- そのまま勢いにまかせて殺してしまった。
-I let my impulses get the better of me and killed her.
+Then I let my impulses get the better of me, and actually killed her.
 }
 [sha:b2f3272d1a0c564736941d4265b7a13cd2e26de9]{
 -- Page 186, Offset 6083.
 -- そのあとの記憶が曖昧で、夢だったと目を背けていたらやっぱりホントのことで、加えて、殺した相手は人間じゃなかったときた。
-After that, my memory was vague, and I turned my back on it, thinking it was a dream, but it turned out to be true, and in addition, the person I killed was not human.
+// This page shown IFF you picked arc route choice
+After that my memories were a bit hazy so I wrote it all off as a dream,
+ except not only did it really happen,
+ but to top it all off the person I killed isn't even human.
 }
 [sha:3c2750d4493114959911b9c462f02fe15312eaa2]{
 -- Page 186, Offset 6084.
 -- 今まで自分の事を欠陥品だ、不適合だと言い含めてきたけど、この状況に比べたら俺はいたって<正常|マトモ>じゃないか……！
-I've always called myself defective and unfit, but compared to this situation, everything else can be called normal...
+I've always thought of myself as a misfit, as damaged goods,
+ but compared to this situation I'm downright normal...!
 }
 [sha:4be87e9afe9b60adf3579af76d565a2181f704e9]{
 -- Page 10008, Offset 6085. Mods: @n.
 -- そのあとさんざん悩んで自暴自棄になったけれど、
-After that, I went through a lot of trouble and despair.
+// This page shown IFF you picked ciel route choice
+After that, I was wracked by anguish and despair.
 }
 [sha:f74383ed4be3fc2eabe73dd52d632486ca33bf75]{
 -- Page 10008, Offset 6086. Mods: @n.
 -- とにかく自分なりの償いをとろうって決意してみれば、
-But then, when I decided to make amends in my own way...
+I finally decided that I'd make amends in my own way―――
 }
 [sha:45149f3cddc146277c242ae9a17408e4725d830b]{
 -- Page 10008, Offset 6087.
 -- 殺した相手が実は人間じゃなかったときた！
-I found out that the person I killed wasn't even human!
+Only to discover that the person I killed isn't even human!
 }
 [sha:9b921aaf6032f42a61a46a9a208343a3dee1aef4]{
 -- Page 10009, Offset 6088.
@@ -1441,17 +1455,17 @@ I can't help but laugh.
 [sha:de5a6a0d07aed93e0b971e4c56816009e61da975]{
 -- Page 10009, Offset 6090.
 -- ……けど、そう悪いことばかりじゃない。
-...But it's not all that bad.
+...Still, there's a silver lining to all this.
 }
 [sha:04b1dbbecabac4f96b963e025e97890a532c7880]{
 -- Page 189, Offset 6091.
 -- だって殺した相手が生き返っているんだから、俺は誰も殺してない事になる。
-Because the person I killed has come back to life, that means I didn't kill anyone.
+Since the person I killed has come back to life, it's like I never actually killed anyone.
 }
 [sha:fe27c023cd5dee010299f5cdbe1e951029b0a49e]{
 -- Page 189, Offset 6092.
 -- そりゃあ『殺した』という行為は残るけど、彼女はちゃんと生きている。
-The act of 'killing' remains, but she is alive.
+Well, I guess the act of 'killing' still remains, but she's alive at least.
 }
 [sha:bb6330ee35def0cc4d4973d91c5c2053e58defa0]{
 -- Page 189, Offset 6093.
@@ -1471,12 +1485,12 @@ Tohno Shiki can go back to his normal life from before.
 [sha:d5aee3e551d11f4ecebad8acc269e4382b2b56bd]{
 -- Page 191, Offset 6096.
 -- そのかわり、なんかとんでもないヤツに追い詰められてる訳だけど、人殺しになるよりは遥かにマシだ。
-But instead, I'm being hunted down by some monster... still, that's a lot better than being a murderer.
+Sure, I'm being hunted down by some monster, but I'll take that over being a murderer any day.
 }
 [sha:c069e2f2d761da93722ae83756e9bd90702f7b6c]{
 -- Page 191, Offset 6097.
 -- 悪運は悪運でも、とびっきりの悪運だろう。
-Bad luck is bad luck, but this is just a stroke of incredibly bad luck.
+Bad luck is bad luck, but this is %{i}exceptionally%{/i} bad luck.
 }
 [sha:3b9d3349c62afd3f3ab80f6dd7edc1e504c1db23]{
 -- Page 191, Offset 6098.
@@ -1486,7 +1500,7 @@ If this whole ridiculous story is true, then I'm not the only one who's crazy.
 [sha:f7a1bc971c6a186a0aacce2720ed9d7fe5a28274]{
 -- Page 192, Offset 6099.
 -- 「……いいよ、落ち着いた。
-"...Okay, I'm calm now.
+"...Okay, I've calmed down.
 }
 [sha:4f970720ef7fcf4607bc75512f0551a21b37f0fb]{
 -- Page 192, Offset 6100.
