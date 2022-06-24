@@ -45,7 +45,7 @@ The conflagration in front of the train station that claimed all those lives.
 [sha:019f3738514508fa85aefc5c69182574cb452545]{
 -- Page 140, Offset 20020.
 -- 吸血鬼に侵食された街。
-The invasion of this city by a vampire.
+The invasion of the city by a vampire.
 }
 [sha:d15c50235daff3f1105c8fc0f6280b0fcd9834d7]{
 -- Page 140, Offset 20021.
@@ -163,7 +163,8 @@ The face reflected in the glass breaks into a smile,
 [sha:aa14679dfdc74baf059844ec3d893188e72b85e3]{
 -- Page 149, Offset 20041.
 -- 「――――む」
-"――――%{i}Hmph%{/i}."
+// space so italics render nicely
+"―――― %{i}Hmph%{/i}."
 }
 [sha:fbd04641055bdbfdedbc50ed150708af3ec3fb73]{
 -- Page 149, Offset 20042.
@@ -186,7 +187,7 @@ It's not like I enjoy prowling around the city with Arcueid all night, so what t
 -- Page 150, Offset 20045.
 -- 授業に集中できていないにも程がある。
 I knew I was having a hard time concentrating on the lesson,
- but didn't think I was this far gone.
+ but I didn't think I was %{i}this%{/i} far gone.
 }
 [sha:a7994a1cf038b4f576c81887fe127433df781fc3]{
 -- Page 150, Offset 20046.
