@@ -8,7 +8,7 @@ It's past two o'clock now, so we decide to have a late lunch.
 -- ……アルクェイドといる以上、いつもより高めの店を選びたかったのだが、悲しいかな、こちらの財布事情はそこまで裕福ではなく、
 // Feels like this contradicts what the man himself said in 10_00_ARC10_3B but ok
 // Wording softened slightly to play with that previous statement
-...Since I'm here with Arcueid, I wanted to splurge and eat somewhere a little more expensive than I normally would.
+Since I'm here with Arcueid, I wanted to splurge and eat somewhere a little more expensive than I normally would.
  Alas, the contents of my wallet won't stretch %{i}quite%{/i} that far.
 }
 [sha:d337e1ee3b21edb9cd4570ad95dbe6f794ab3c11]{
@@ -86,7 +86,7 @@ The traditional Western image of a vampire, combined with Vlov's old-fashioned l
 -- Page 302, Offset 25018.
 -- 「んー、そういう<過程|プロセス>で適応してる訳じゃないけど、ともあれ人間の文明圏に入るのなら、それに即した常識は必要でしょう？
 "Hmm, that's not quite the process I use to acclimate.
- Either way, if I'm to blend in with the human bloc, I need to develop some baseline level of general knowledge, right?
+ Either way, if I'm to blend in with human civilization, I need to develop some baseline level of general knowledge, right?
 }
 [sha:b90a19e8e36defd7157d4ce6e2efe235aac0a053]{
 -- Page 302, Offset 25019.
@@ -97,7 +97,7 @@ That's why whenever I wake up, I spend some time learning about the current time
 [offset:25020]{
 -- Page 303, Offset 25020.
 -- 「……？」
-"...Hm?"
+"Hm...?"
 }
 [sha:98edeccfa6e4b38291b79ae4c265f9de2fec1e81]{
 -- Page 303, Offset 25021.
@@ -125,7 +125,7 @@ I don't know how many years it'll be before I wake up again,
 -- 「……ん、
 // lint-off:LintUnclosedQuotes
 // This line is actually on the next page.
-"...Hmm.
+"Hmm...
 }
 [sha:84e0d4ddb9d4f7f9ddfc6a4e2bba0e11d327fd2b]{
 -- Page 305, Offset 25026. Glued.
@@ -166,13 +166,13 @@ Even though I knew that people gathered here like this, I'd never experienced it
 [sha:e3bcbaa1d40844a96d0d0d63f5cc0e88b945e258]{
 -- Page 307, Offset 25032.
 -- 「でも、それは数値だけの話なのよね。
-"But that's just talking about numbers.
+"But that had only been in a numerical sense.
 }
 [sha:b2478d18b719c22dc758998adf58c4ebf2bbd585]{
 -- Page 307, Offset 25033.
 -- 情報だけの世界はそれはそれで<真|しん>だけど、受肉からの感覚は正しい理論より芯がある。
 // Kinda slid around which word triggers the しん/しん, not sure I love it still
-A world built only of information is 'real' in and of itself,
+Seeing the world as pure information is 'real' in and of itself,
  but the tangible 'reality' of lived experience has a pith to it that surpasses any theory,
  no matter how correct it may be on paper.
 }
@@ -184,8 +184,6 @@ This must be what they mean when they say experience outweighs theory.
 [sha:d3c2049bb5f785cff6e066f8b9c9642ac6ef0f84]{
 -- Page 307, Offset 25035.
 -- 何千億の単語を覚えていても、実際にやってみないと何も手に入らないんだなって」
-// Anki crunchers malding
-// :fujino:
 No matter how many billions of words you learn,
  you won't get anywhere if you don't start stringing them together yourself."
 }
@@ -209,7 +207,7 @@ Arcueid lets out a miserable sigh.
 [sha:8073135028d6a5ec635bf1ec629b95aa0de28aec]{
 -- Page 309, Offset 25039.
 -- ……まあ、ちょっと前までのわたしがそうなんだけど」
-...Well, I guess that included me up until recently."
+Well... I guess that included me up until recently."
 }
 [sha:40dcf5dc2c518e4175f3154eede69667774da25b]{
 -- Page 310, Offset 25040.
@@ -267,7 +265,7 @@ Especially not now that you've finally decided to talk about yourself.
 -- Page 313, Offset 25049.
 -- 「うん、知ってる。志貴ってわたしの話したいコトを、話したい時にちゃんと付き合ってくれるって。
 "Yeah, I know.
- I know that you're there for me when I have something I want to talk about, whenever I want to talk about it.
+ You're there for me when I have something I want to talk about, whenever I want to talk about it.
 }
 [sha:4313f89d7a0b1415104dd55a10a5c56dec2b0f83]{
 -- Page 313, Offset 25050.
@@ -287,7 +285,7 @@ I can't say this out loud, but her smile really isn't vampire-like at all.
 [sha:360576089921dcaa81eb0a76e139a3282e9ce29a]{
 -- Page 314, Offset 25053.
 -- ……それはそれとして、今までそんなに怒鳴り散らしてたかな、俺……。
-...Have I really been yelling at her that often?
+That said... have I really been yelling at her that often?
 }
 [sha:9cf5204c9c3009a382ad8c448765c24d6f8a4cba]{
 -- Page 315, Offset 25054. Mods: @n.
@@ -333,7 +331,6 @@ Besides, I like the way I am right now the best.
 [sha:292232190e80c7c67c1351c036d20ad5e9d8e7e9]{
 -- Page 318, Offset 25061.
 -- 笑顔で勇ましい事を言うと、またもきょろきょろと周囲を見渡してから、ぱくり、とハンバーガーを食べる。
-// ARC BURGER
 After making such a gallant statement with a smile,
  Arcueid once again furtively looks around her surroundings before sinking her teeth into her hamburger.
 }
@@ -388,7 +385,6 @@ She wipes her lips with a napkin.
 [sha:51e057f1555c39bf19ac889720160a5fcafffa6d]{
 -- Page 322, Offset 25071.
 -- 「いや、それで合ってる。合ってるけど、なんかヘンだ、おまえの場合。似合わないから食べるな」
-// logical
 "No, not at all.
  You're doing it right, but it feels kind of strange seeing %{i}you%{/i} do it.
  It just doesn't suit you, so you shouldn't eat it."
@@ -401,7 +397,6 @@ She wipes her lips with a napkin.
 [sha:d50a82b0c83dbb0049bb1bfefe43a4863f8c9200]{
 -- Page 323, Offset 25073.
 -- 「イメージの問題だよ。おまえみたいに口が小さいヤツにファーストフードは向かないんだな。大人しくポテトをかじってる分には問題ないから、俺の分もやる」
-// Shiki is such a dick lmao
 "It's an image problem.
  Fast food doesn't suit a person with a small mouth like yours.
  It's fine when you daintily nibble on the fries, so you can have mine as well."
@@ -441,7 +436,7 @@ The mysterious beauty from before has faded slightly,
 [sha:41fc78de6dbb5980efbe64854c0d0ed9828bfcb1]{
 -- Page 327, Offset 25080.
 -- ……しっかし、ハンバーガーを食べる吸血鬼というのはなんなんだろう。
-...But just what the hell is going on? A vampire eating a hamburger?
+But... just what the hell is going on? A vampire eating a hamburger?
 }
 [sha:9bee9e337b4b1ed8ba08ac29dacdbbec0a22e1c4]{
 -- Page 327, Offset 25081.
@@ -452,7 +447,7 @@ If a creature doesn't eat and receive the nutrients it needs to function,
 [sha:1c40dac0d99cb429dc3d6277d50ba42cf98afc32]{
 -- Page 328, Offset 25082.
 -- 以前、アルクェイドは血を吸わない、と言った。
-Arcueid said that she's never sucked blood before.
+Arcueid said before that she doesn't drink blood.
 }
 [sha:b111c2c7ae7c2936828d3bd5e067f362eb8847f8]{
 -- Page 328, Offset 25083.
@@ -462,7 +457,7 @@ Then... does that mean she derives sustenance from the same sorts of food that p
 [sha:b32f043405acccf81a69e112e8d014a245558e4e]{
 -- Page 329, Offset 25084.
 -- 「……なあ、アルクェイド」
-"...Hey, Arcueid."
+"Hey... Arcueid."
 }
 [sha:4ecbcb904506102ea5903304be773082a19e137a]{
 -- Page 329, Offset 25085.
@@ -499,12 +494,12 @@ Arcueid stares at me, eyes wide.
 [sha:a93afc722edbc0d1adf877d952a15d723a8224ac]{
 -- Page 332, Offset 25091.
 -- ……やっぱり、これは<不躾|ぶしつけ>な質問だったみたいだ。
-...Looks like it was an inappropriate question after all.
+Looks like it was an inappropriate question after all...
 }
 [sha:79fffa9d9b6cc81bdd53b4fc251096beb7b7130e]{
 -- Page 332, Offset 25092. Mods: @n.
 -- ほら、
-I mean,
+I mean look,
 }
 [sha:be554070ab8cd28c4ab38472db368241b80a77b9]{
 -- Page 332, Offset 25093. Glued. Mods: @n.
@@ -521,7 +516,7 @@ I mean,
 [sha:f9fa2bfbe7959d2594c50d348afd0c7f531fde60]{
 -- Page 333, Offset 25095.
 -- 「あのね、志貴。基本的にわたしは食事を摂らないんだ。
-"Listen, Shiki. Eating meals isn't something I do all that often.
+"Listen, Shiki. I don't actually %{i}need%{/i} to eat.
 }
 [sha:6f651c917bfb75e50bd8012a975e6732d481cf8b]{
 -- Page 333, Offset 25096.
@@ -539,7 +534,7 @@ It's true that consuming nutrients like this allows me to move under my own stre
 -- Page 334, Offset 25098.
 -- 食べないとイライラするけど、わたしはあんまり食事に重きを置いていないから、反転衝動に襲われる事は少ないよ」
 I get irritated when I don't eat, sure,
- but at the same time I don't place a lot of importance on food so that I don't get attacked by %{i}inversion impulses%{/i} as often."
+ but since I don't place a lot of importance on food, I don't get struck by %{i}inversion impulses%{/i} very often."
 }
 [sha:e3f50ecdba7d6814dd92d2daba54ca4a909b81dc]{
 -- Page 335, Offset 25099.
@@ -564,7 +559,7 @@ Thank goodness. I'm so glad that she's not like the other vampires that kill hum
 [sha:fc742972a105ed492f9c5b64d6059a7d1606909f]{
 -- Page 337, Offset 25103.
 -- ……まったく。アルクェイドも、
-...Geez. If Arcueid had been like:
+Geez... If Arcueid had been like:
 }
 [sha:b3ab29cc9b9853896de72f86d63618a0f1c687a6]{
 -- Page 337, Offset 25104.
@@ -594,9 +589,8 @@ Wouldn't that make you not a vampire?!"
 [sha:fa6e3ce98800d7a2f1ab2ef6ef1af3a7c42c80f8]{
 -- Page 339, Offset 25109.
 -- 栄養素より毒素が多いものを食べたいと思う時がある。たとえばこのハンバーガーね」
-// HARD-HITTING SOCIAL COMMENTARY
 There are times when you want to eat something that contains more poison than it does nutrients.
- Take this hamburger, for example."
+ Kinda like this hamburger you just ate."
 }
 [sha:c609c968268cda0b8dd80b4e2fd44e145bdfdbb4]{
 -- Page 340, Offset 25110.
@@ -623,7 +617,7 @@ Or maybe―――you had a deep-seated craving for this haphazardly-cooked,
 [sha:218c94cf278b0662b31e6a1b99356298daa8671c]{
 -- Page 341, Offset 25114.
 -- 「うん、それでいい。別に恥ずかしがる事はないんだよ？
-"Yeah, that's okay. There's nothing to be embarrassed about.
+"Yeah, that's okay. I don't think that's anything to be embarrassed about.
 }
 [sha:39a9f16c8f45c5b04c36d844ad7fe6e100a6a703]{
 -- Page 341, Offset 25115.
@@ -649,7 +643,7 @@ We're the same in that we both have cravings for things that we don't strictly n
 [sha:dd1b5483f47f842d056890eaaf9bffb5d451444b]{
 -- Page 343, Offset 25119. Mods: @n.
 -- 美味しいからものを食べる
-We eat things because they taste good
+You eat things because they taste good
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 343, Offset 25120. Glued.
@@ -659,14 +653,15 @@ We eat things because they taste good
 [sha:c15c1ec1ed0a103197cae65510950ce609b1b147]{
 -- Page 343, Offset 25121.
 -- 気持ちいいから交配をする。
-We mate because it feels good.
+You mate because it feels good.
 }
 [sha:cb932b5ce576a02e0d534b7c99d37d3d462a9792]{
 -- Page 343, Offset 25122.
 -- その究極があなたたち人間なんでしょうね。なんであれ快楽に繋げる事がより強い繁栄方法だと知っている。比較的弱い生命体がもっとも強い生存力を示した、この宇宙でも希有な例なんだから」
+//Arcueid doesn't mention the cosmos here for no reason. Nasu's 'schtick' is that humanity is aggressively, cosmically special.
 You human beings are the ultimate examples of this.
  You know that connecting things with pleasure is a more powerful tool for prosperity than any other.
- It's a rare example of a relatively weak species demonstrating an extremely strong capability to survive."
+ It's a cosmically rare example of a relatively weak species demonstrating the absolute strongest capability to survive."
 }
 [sha:854ea511adadfa55c873879cf2c5dcaac73c6e09]{
 -- Page 344, Offset 25123.
@@ -696,7 +691,6 @@ However―――
 [sha:dd2d30ebc879f20af0bbe9ede7d32fa1037636c2]{
 -- Page 345, Offset 25128.
 -- <人間|どうぶつ>は娯楽がなければ生きていけない、と言われているようなもので、人間として認めがたいというか……。
-// Hedonism is the only real philosophy, fight me
 I'm finding it a little hard to accept being told that humans can't live without chasing after pleasure...
 }
 [sha:2b741b38e1b9aa451532c93810bbd9d8f255fdc6]{
@@ -725,23 +719,25 @@ It's certainly something that the planet itself never thought of."
 [sha:6433ad2278c74a017e17800e9d66f5cecafb6092]{
 -- Page 347, Offset 25133.
 -- 真祖である吸血種―――わたしの場合は、そんな形而上の二次的利益を満たしてくれる最上級の食べ物が血液なの。
-For bloodsuckers of the True Ancestors type like myself, blood is the highest grade of food that can provide such secondary metaphysical benefits.
+For bloodsuckers of the True Ancestors type like myself, blood is the highest grade of food that provides such secondary metaphysical benefits.
 }
 [sha:65cf3c3d5c2f15652a37f63da5cdaddeaecc757a]{
 -- Page 347, Offset 25134.
 -- だから『活動する』という事だけを目的とするのなら、人間の血を摂る必要はまったくない」
-However, if all I'm aiming for is to be able to get around,
- then I have no need to take blood from humans at all."
+//no need to remove all of arc's "I'm a robot" metaphors, that's infringing on her character voice.
+However, if my only objective is to simply 'remain active',
+ then I have no need to consume human blood at all."
 }
 [sha:4ac139ea90583db533b56b6334d9f737da163a6c]{
 -- Page 348, Offset 25135. Mods: @n.
 -- 「……つまり、真祖という吸血鬼にとって、
-"...In other words, for vampires like True Ancestors,
+"In other words... for vampires like True Ancestors,
 }
 [sha:0be71673f4d3f4b8f9281f63b7896cf36c118fa7]{
 -- Page 348, Offset 25136. Glued.
 -- 精神的空腹を満たすのに一番適したものが血液だと……。
- blood is used more for satiating their %{i}spiritual%{/i} hunger than anything else...
+//bad, don't use spiritual for 精神
+ blood is used more for satiating our %{i}psychological%{/i} hunger than anything else...
 }
 [sha:139773e461050fc24e9b319c401c5b02d602f4ae]{
 -- Page 348, Offset 25137.
@@ -752,24 +748,23 @@ But you said that you hate sucking blood, right?
 -- Page 348, Offset 25138.
 -- あ。そうか、人間に食べ物の好き嫌いがあるように、アルクェイドは血の味が嫌いってワケだな！？」
 Ah, I got it!
- All humans have their own individual likes and dislikes when it comes to food―――
+ All humans have their individual likes and dislikes when it comes to food―――
 Could it be that you just hate the taste of blood?"
 }
 [sha:9df9f0612940ed4bed52907549314efd01067782]{
 -- Page 349, Offset 25139.
 -- 会心の閃きを口にする。
-I blurt out my satisfying revelation.
+Having hit upon a convincing revelation, I can't help but blurt it out.
 }
 [sha:019643faeef74e7ec3ccb1725d3b703bca8cee2b]{
 -- Page 349, Offset 25140.
 -- しかし、アルクェイドは辛そうに眉をひそめた。
-// Kinda hate 辛い
 However, Arcueid frowns as though something is weighing on her.
 }
 [sha:70840069c591988e9f870b8b707a9db6eeb858a9]{
 -- Page 350, Offset 25141. Mods: @n.
 -- 「……わからない。血の味なんて、
-"...I don't know. The taste of blood―――
+"I don't know... the taste of blood―――
 }
 [sha:efa0b575d1f603109767091dfd16cedd66c4dc99]{
 -- Page 350, Offset 25142. Glued.
@@ -779,7 +774,7 @@ is unknown to me."
 [offset:25143]{
 -- Page 350, Offset 25143.
 -- 「……？」
-"...Hm?"
+"Hm...?"
 }
 [sha:cd2463d9d6ab682606a757589e06d0483e4526b5]{
 -- Page 350, Offset 25144.
@@ -789,7 +784,7 @@ She doesn't know what blood tastes like...?
 [sha:76d67c354f480002545e6a9ef7d9112c35a703e6]{
 -- Page 351, Offset 25145.
 -- 「わたしは吸血種としては半人前だって言ったでしょう。血の味は知らない。それがどんなものなのか、まだわからない。
-"I told you before that I'm a failure as a bloodsucker, right?
+"I told you before that I'm a failure of a bloodsucker, right?
  I've never even tasted blood.
  I have no idea what it's like.
 }
@@ -850,7 +845,7 @@ I don't know. But... if there were other animals of lower intelligence, I would 
 [sha:a3b9d3b5b128c79e5521431db6c23db3f2595518]{
 -- Page 354, Offset 25156.
 -- だけど―――そうね、もしもわたしにヒトの知性や価値観がなかったら、ためらう事なく血を吸っていたかもしれない。
-But―――what if I didn't possess the same intelligence or value system as humans?
+But―――what if I didn't possess the same intelligence or values as humans?
  Maybe then I wouldn't hesitate to suck their blood.
 }
 [sha:01dc578b3c68ffc4365bf5605156a519841c6ecd]{
@@ -888,19 +883,19 @@ I'm here to kill a vampire who thinks like that.
 [sha:5d87cd2e739e55c00a7313961ff90c4323643c8b]{
 -- Page 355, Offset 25163.
 -- ……アルクェイドを、やつらと同類だと認める為にいるんじゃない。
-...I'm not here to deem her an accomplice to that thought process.
+I'm not here to deem her an accomplice to that thought process...
 }
 [sha:923481f35ac4543bb2e5404bd88ef9ceae26a1fe]{
 -- Page 356, Offset 25164.
 -- 「……そりゃあ生きるために他の生き物を食うのは自然の摂理だろう。けど、人間とおまえは似たようなモンじゃないか。同種を食べるのが禁忌なのも自然界のルールだろう。
-"...Well, it's true that the natural order of things is for animals to prey on each other to survive.
+"Well... it's true that the natural order of things is for animals to prey on each other to survive.
  But aren't you similar to humans?
  Don't the laws of nature also say it's taboo to eat your own kind?
 }
 [sha:4952f078f0f123610a1ddde207858aa8bd073986]{
 -- Page 356, Offset 25165.
 -- ……だから、そういう喩え話はやめてくれ。
-...That's why you should stop with those hypotheticals.
+That's why you should stop with those hypotheticals...
 }
 [sha:c91c009c12f2c027e4666a351b1a167743a9ce75]{
 -- Page 356, Offset 25166. Mods: @n.
@@ -926,7 +921,7 @@ You might not know where you're gonna end up,
 [sha:4ebacefa4f198e5db3d6ebfdab4e0ead5a8b4d6b]{
 -- Page 358, Offset 25170.
 -- イフ……もしも、か。
-...What-ifs, huh.
+What-ifs... huh.
 }
 [sha:0b76cd25aafd85cc0e89417d0a6f0eca80458d7c]{
 -- Page 358, Offset 25171.
@@ -957,7 +952,7 @@ Ah, do you need to go to the bathroom?"
 [sha:50b28450afc71ef641da61b8a23919ff2c681694]{
 -- Page 359, Offset 25176.
 -- 「……あのな。人が真面目に悩んでるっていうのに、よりにもよってソレか、おまえは」
-"...Come on. I'm weighed down by serious stuff here and that's where your mind goes?"
+"Come on... I'm weighed down by serious stuff here and that's where your mind goes?"
 }
 [sha:f11e0128cd3ad6435f30319692dbe2227c71d78f]{
 -- Page 360, Offset 25177.
@@ -967,18 +962,18 @@ I breathe out a sigh.
 [sha:af533e3d02985cbc9bbfcc10b8749c70124737d0]{
 -- Page 360, Offset 25178.
 -- ……でもまあ、その気楽さに救われた。
-...But I guess in a way I'm saved by her carefree attitude.
+But I guess in a way I'm saved by her carefree attitude.
 }
 [sha:97bbdcbc3dddd0fff238f3267c323724a12dffeb]{
 -- Page 360, Offset 25179.
 -- こっちがいくら深刻に考えたところで、血を吸うか吸わないかはアルクェイドにとってどうでもいい問題みたいだ。
-No matter how seriously I think about it,
- the question of whether to drink blood or not doesn't seem to bother Arcueid in the least.
+Regardless of how much thought I dedicate to it,
+ I get the impression that the question of whether she should drink blood or not doesn't weigh on Arcueid's mind at all.
 }
 [sha:5ed309f4776a80a391690ab6b3bc25272421aa16]{
 -- Page 361, Offset 25180.
 -- 「……そうだよな。俺には、関係のない話だった」
-"...That's right. I guess at the end of the day, it's none of my business."
+"That's right... I guess at the end of the day, it's none of my business."
 }
 [sha:1e3d67c134eb304aeefb594662a5b0643c566863]{
 -- Page 362, Offset 25181.
@@ -996,6 +991,7 @@ It's not fair to hide things from me, Shiki!"
 // うなる does seem to be the growling pre-hiss noise cats do based on
 // watching a bunch of jp cat vids. Reads a bit weird but oh well
 // むー shuffled around a bit
+// isn't this where her sprite gets cat ears? In that way: "Arcueid puffs up, once again appearing as though a cat."
 Arcueid is once again growling at me like an indignant cat.
 }
 [sha:723bc0dcc74c7400aaad4382c3acebca81bdc182]{
@@ -1048,7 +1044,7 @@ If you feel like you're in the dark, isn't that down to you not asking me any qu
 [sha:f435b097312186dfb160436e7f48457e2547c998]{
 -- Page 366, Offset 25193.
 -- ……痛いところを突かれた。
-...She hits me where it hurts.
+She hits me where it hurts...
 }
 [sha:07e4e8f19fdfb9f90e73d70b93b7a985cbfb2a9d]{
 -- Page 366, Offset 25194.
@@ -1091,7 +1087,7 @@ Well, she asked for it. I guess I'll start grilling her on things I'm still not 
 [sha:17c7f518bf0b3ee00c1a33f3904f3ed21670551c]{
 -- Page 370, Offset 25201.
 -- ……アルクェイドが意図的に語る事を避けていた本題。
-...Starting with the main question, the one she keeps avoiding.
+Starting with the main question... the one she keeps avoiding.
 }
 [sha:b089ceeda463f336f2ea10c55338995a434eead8]{
 -- Page 371, Offset 25202.
@@ -1151,7 +1147,7 @@ whether he's a man or a woman, or even if he's a child or an adult."
 -- 「……じゃあ、他の特徴は？
 // 04_00_ARC04_6_2C.txt 特徴 is translated as "characteristic", but I think
 // this is fine unless its a lore term.
-"...Well, what about his special traits?
+"Well... what about his special traits?
 }
 [sha:74c5cabe126a1a604b68474d56f483137ed55001]{
 -- Page 375, Offset 25213.
@@ -1172,7 +1168,7 @@ The enemy I'm after isn't that powerful of a Dead Apostle,
 [sha:64568f09fda0df41bdfe27a8936896c1689088bf]{
 -- Page 377, Offset 25216.
 -- 「……そうね。その幅広さがアイツの特徴と言えるかも。この街に“アイツ”の気配がある事しか、わたしには判らないわ」
-"...Yeah. I guess you could say that his adaptability is his special trait.
+"Yeah... I guess you could say that his adaptability is his special trait.
  All I can say for sure is that there are signs of him in this city."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -1198,7 +1194,7 @@ For example―――
 [sha:e588437fa9c8b129c87c6f1ba57c309d3c85bb9f]{
 -- Page 379, Offset 25221. Mods: @n.
 -- 「……まだ見つけていない以上、相手の特徴は判らない……
-"...So we won't know what his traits are until we find him...
+"So... we won't know what his traits are until we find him...
 }
 [sha:1dda0bd6cad6ede3d25dbdfcc189958eaf35a31f]{
 -- Page 379, Offset 25222. Glued.
@@ -1230,7 +1226,7 @@ Arcueid silently hangs her head.
 [sha:5887c5e8138e3e6e95b15a7d7aa3ff466825e374]{
 -- Page 380, Offset 25227.
 -- ……どうやら、何か事情があって俺に名前を教える事ができず、困っている……
-...It seems like she has some reason she can't tell me his name, and it's eating her up inside...
+It seems like she has some reason she can't tell me his name, and it's eating her up inside...
 }
 [sha:557678a8217524dbab959f9691b6f94a0783c13a]{
 -- Page 380, Offset 25228.
@@ -1303,7 +1299,7 @@ She looks like she's struggling to suppress the emotions raging within her.
 [sha:cc02386747b86bce54a9e42ee737c342739059ef]{
 -- Page 385, Offset 25241.
 -- 「……つまらない事を聞いて、悪かった。
-"...I'm sorry for asking you something stupid.
+"I'm sorry for asking you something stupid...
 }
 [sha:a29f2e4edf03ae504d9a740d0dd53948e27f98e4]{
 -- Page 385, Offset 25242.
@@ -1329,7 +1325,7 @@ Time passes, neither of us saying a word.
 [sha:cc1e926f8f78a4e303aef80c100a9db7f632cc24]{
 -- Page 388, Offset 25246.
 -- 「……ごめんなさい、志貴。
-"...I'm sorry, Shiki.
+"Sorry, Shiki.
 }
 [sha:ef662410697746c11bdb2cf1a138516048ad4fd1]{
 -- Page 388, Offset 25247.
@@ -1399,7 +1395,7 @@ This sort of food tastes pretty dire once it gets cold."
 [sha:b43f1d20f5d48635375401192fd4f187f253e5b7]{
 -- Page 394, Offset 25259.
 -- 「…………うん。
-"...Yeah.
+"Yeah...
 }
 [sha:e0f850edb58246a8ebccb55df154fb5baba28a18]{
 -- Page 394, Offset 25260.
@@ -1416,6 +1412,6 @@ The princess averts her gaze,
 [sha:814ca623e2de2dab1fc476a91eb5da0740416790]{
 -- Page 394, Offset 25262.
 -- ……今日はたまたま、たまたまハズレメニューだっただけですよ。美味しい時だってあるんですよ、バーガー。
-...I'm sure we just weren't feeling this menu today. That's all.
+I'm sure we just weren't feeling this menu today. That's all.
  I maintain that there are still times when a burger really hits the spot.
 }
