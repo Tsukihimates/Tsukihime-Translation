@@ -11,7 +11,7 @@ This time I should ask her something more in-depth.
 [sha:e43438af6544d6f66b171946a10f6a58e5b938b5]{
 -- Page 575, Offset 18015.
 -- 「さっきの死者じゃなくて、もっと危険なヤツ……
-"Instead of the Dead from earlier, let's talk about something more dangerous...
+"You mentioned some people more dangerous than the Dead from earlier...
 }
 [sha:68719ec17e5cac2a76cdd1299cf650ddc5e74293]{
 -- Page 575, Offset 18016.
@@ -22,12 +22,12 @@ The Twenty-Seven Ancestors, was it?
 [sha:e7cb590a6fbb23d420bc0563aa36757bdc900e10]{
 -- Page 576, Offset 18017.
 -- 「あー、それ聞いちゃうかぁ、
-"Ah! So that's what you wanted to know!
+"Ah! You would ask that, wouldn't you?
 }
 [sha:7a98f77dd9d95f5634e9291f9a864c32051e14bb]{
 -- Page 576, Offset 18018.
 -- やっぱりそれ聞いちゃうかー！」
-I knew you would ask that!"
+Of course you would wanna ask about that!"
 }
 [sha:3165c95ad73845a00c7fa8a6aef781d90ee195e2]{
 -- Page 577, Offset 18019. Mods: @k, @e.
@@ -65,7 +65,7 @@ She's so excited to get into it that I'm actually starting to get a little worri
 [sha:7740011b2416e6d73eb9cd1694e13df09c65f0f3]{
 -- Page 579, Offset 18025.
 -- でも、祖たちの話をするには、もうちょっと前知識が必要なのでぇ……」
-But in order to talk about Ancestors, we need to lay some groundwork first..."
+But in order to talk about the Ancestors, we need to lay some groundwork first..."
 }
 [sha:494686c24351bd92c15d3e5d3dfe8459c2f29935]{
 -- Page 580, Offset 18026.
@@ -113,13 +113,15 @@ Arcueid's the one I'd like to see take things a bit more seriously.
 [sha:4ae45272d0fd01b879be4fde0b493ce3034f47da]{
 -- Page 584, Offset 18034.
 -- 「人間から吸血鬼になったものを『死徒』と区分するけど、彼らにはその能力・限界に応じた段階がある。
-"Humans that turn into vampires are all classified as 'Dead Apostles',
- but are ranked within that class according to their individual abilities and limitations.
+// I want to make a delineation between just 段階 as a 'grading' concept and 階梯 as the term with capitals.
+"Humans that have turned into vampires are all classified as 'Dead Apostles',
+ however, depending on their individual abilities and limitations, they're graded differently.
 }
 [sha:81dcf4378833ebed1b7a877592bd2c8db5f731db]{
 -- Page 584, Offset 18035.
 -- これを階梯にして表したものがコレ」
-Here is a representation of those ranks."
+// see above comment
+We represent those grades with these Ranks here."
 }
 [sha:2748a5d5497bb0e96aa832770e7b8b8942e52524]{
 -- Page 585, Offset 18036.
@@ -153,14 +155,15 @@ And at last, we have Rank VI, a 'vampire' that is capable of creating their own 
 -- Page 586, Offset 18041.
 -- 吸血・侵食によって子を作って、自分が作ったグループの頂点……親基になれる。
 // Reordered a bit for flow
-They can become parent vampires by sucking people's blood and corrupting them,
+They spawn offspring by sucking people's blood and corrupting them,
  eventually coming to stand at the head of a group they themselves created.
 }
 [sha:babd10da710bb82315f3a599296b330e3e474c9d]{
 -- Page 586, Offset 18042.
 -- でもⅥ階梯以上の子は作れない。通常の吸血鬼なら、その“成り上がり”はここでストップね」
+// 成り上がり can be both a 'person' and an 'action', in this case its the latter
 However, they cannot create offspring higher than Rank VI.
- If the 'upstart' is just a regular vampire, then this is the end of the line for them."
+ For regular vampires, their ascent up the ladder ends here."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 587, Offset 18043.
@@ -181,8 +184,8 @@ Gather together all the slaves they've produced this way and you get a vampire '
 [sha:09947e43091d816b1ea75d5f7855d6c93a8bc53b]{
 -- Page 588, Offset 18046.
 -- 自分以上の“子供”は作れない、というのであれば、確かに階梯はそこで止まるだろう。
-If you can't create any children more powerful than yourself,
- then that would imply that the hierarchy of vampires caps out here.
+If they can't create any children more powerful than themselves,
+ then surely that would imply that the hierarchy of vampires caps out here.
 }
 [offset:18047]{
 -- Page 588, Offset 18047.
@@ -192,13 +195,15 @@ However...
 [sha:151b48044deb776835cddca22ad3679e13c97441]{
 -- Page 589, Offset 18048.
 -- 「ソレを生み出したものがいる……いや、死徒より上の立場の吸血鬼がいる、ってコトか」
+// regular added here for clarity, and to connect with the line a few above
 "But something originally sired them...
- So that means there must exist vampires that stand above the Dead Apostles, right?"
+ So that means there must exist vampires that stand above regular Dead Apostles, right?"
 }
 [sha:b8d10bfdc2ce71ef517a559f409ac4fea8906b99]{
 -- Page 589, Offset 18049.
 -- 「そうよ。それがⅨ階梯、祖。
-"That's right. You're talking about Rank IX, %{i}Ancestors%{/i}.
+// so even though the Ancestors are usually called "the", in this context when they're introduced as a Rank, it's better kept in the same format as the other Ranks, which are all in plain plural.
+"Right. That's Rank IX, %{i}Ancestors%{/i}.
 }
 [sha:2d0250cc111051df0f330e123b58eaec160c6e7c]{
 -- Page 589, Offset 18050.
@@ -208,33 +213,34 @@ There are twenty-seven of them, so we call them the %{i}Twenty-Seven Ancestors%{
 [sha:d169e55780657e438a4fc8cfa057d8f5c484008b]{
 -- Page 590, Offset 18051.
 -- 「前後するけど、Ⅶ階梯目が上級死徒。
-"I'm jumping around a bit here, but Rank VII are the %{i}Greater Dead Apostles%{/i}.
+"I'm jumping around a bit here, but Rank VII are %{i}Greater Dead Apostles%{/i}.
 }
 [sha:348faeee60a7ce4a41db73c662eda08e39bd919e]{
 -- Page 590, Offset 18052.
 -- Ⅵ階梯のモノが祖に認められ、更なる異能を与えられたもの。同じ呼び名でもその規模はⅥ階梯とは別物よ」
-This rank consists of those from Rank VI who were recognized by the Ancestors, and granted even more powers.
- They retain the same title, but their abilities are in a completely different league to those of a Rank VI."
+This Rank consists of those from Rank VI who were recognized by the Ancestors, and granted further powers.
+ They retain the same title, but their abilities are in a completely different league to those of Rank VI."
 }
 [sha:6389a2f843e38f99475dd545e62a0f09feff364a]{
 -- Page 591, Offset 18053.
 -- 「この階梯になると居るだけで地域を汚染する毒になる。
-"When one reaches this rank, they become a poison whose mere presence can contaminate the land.
+// don't like being literal with 'poison' here
+"Those who reach this Rank become a contaminant whose mere presence corrupts the land.
 }
 [sha:1232fa9f121c2a72c22f9c44b8fc043fb6b69b91]{
 -- Page 591, Offset 18054.
 -- 並の代行者じゃ太刀打ちできない異端であり、
-These vampires are heretics that your average Executor wouldn't even stand a chance against,
+These vampires are heretics that your average Executor wouldn't even stand a chance against―――
 }
 [sha:794d06828e2d89c0f332e18ad257b01bece1149a]{
 -- Page 591, Offset 18055.
 -- 貴族として自らの意志を許された吸血鬼」
-and are allowed to exercise their will as members of the aristocracy."
+Aristocrat vampires who are allowed to exercise their own will."
 }
 [sha:380db3e9d4998d29eec7bd92f286c56dbe5d3b33]{
 -- Page 591, Offset 18056.
 -- 「……？　自らの意志、というと？」
-"...Huh? What do you mean by 'exercise their will'?"
+"...Huh? What do you mean by 'their own will'?"
 }
 [sha:b153daae1e2e7e068f28df2696cc0bb2cf459292]{
 -- Page 592, Offset 18057.
@@ -244,7 +250,7 @@ and are allowed to exercise their will as members of the aristocracy."
 [sha:2cab04c6c658d2b7b5b1eefbae089d19399d093e]{
 -- Page 592, Offset 18058.
 -- 上級死徒は親基である祖に絶対服従という訳じゃない。逆らう事だってできる」
-Greater Dead Apostles do not necessarily show absolute obedience toward their parent Ancestor.
+Greater Dead Apostles do not necessarily show absolute obedience toward the Ancestor that sired them.
  They can even oppose them if they wish."
 }
 [sha:45d60f010415a4ccb7d1416c12523adaf00dae74]{
@@ -256,9 +262,9 @@ Greater Dead Apostles do not necessarily show absolute obedience toward their pa
 -- Page 593, Offset 18060.
 -- まあでも、祖を倒す事はほぼ不可能よ。同じ『自由』を得たとしても祖が生きた年月は膨大だもの。上級死徒では祖の存在規模を上回ることは難しい」
 // 存在規模 previously translated as <power/abilities|Lifescale>
-That said, taking down an Ancestor is no mean feat.
- Even if you acquire the same 'freedoms', the amount of time they've spent on this earth is colossal in comparison.
- It's difficult for a Greater Dead Apostle to surpass the <power|L i f e s c a l e   > of an Ancestor."
+That said, taking down an Ancestor is practically impossible.
+ Even if Greater Dead Apostles have acquired the same 'freedoms', Ancestors have lived far longer;
+ they have a hard time surpassing their Lifescale."
 }
 [sha:e363661b60fb8f898fb8b6a4ebce9a8827709ed2]{
 -- Page 594, Offset 18061.
@@ -268,7 +274,7 @@ That said, taking down an Ancestor is no mean feat.
 [sha:2271c8b1a3423336a5bd3be4af47e48fc6149579]{
 -- Page 594, Offset 18062.
 -- 祖が自分の後継に認めた、才能ある吸血鬼。
-A talented vampire that has been recognized by an Ancestor as a worthy heir.
+Talented vampires that have been recognized by an Ancestor as a worthy heir.
 }
 [sha:24ef639b5c629bfd21491b0fe9ec35526a78f504]{
 -- Page 594, Offset 18063.
@@ -278,8 +284,8 @@ A prince or princess, so to speak.
 [sha:359e8127e4e45680fca40f46c7b45d226cb9422b]{
 -- Page 594, Offset 18064.
 -- 祖の中には吸血鬼ではないものを見初めて、いきなりこの階梯まで引き上げてしまうモノもいる」
-There are also a couple of Ancestors that have fallen in love with non-vampiric beings at first sight,
- and promoted them all the way to this rank on the spot."
+There are also some Ancestors who get smitten with a non-vampiric being,
+ and promote them all the way to this Rank on the spot."
 }
 [sha:53480a5fa2f6be9fe4a67de2bbed7fbbf1ed9dfc]{
 -- Page 595, Offset 18065. Mods: @n.
@@ -300,7 +306,7 @@ I'm pretty sure I remember Arcueid mentioning she was royalty.
 [sha:af454b01e1169d0fd86246e2b8a40c19635ca2f9]{
 -- Page 596, Offset 18068.
 -- 「んー、中にはいるかもね、わたしに似た特性を持つように作られた死徒が」
-"Hmm, it's possible that somewhere out there is a Dead Apostle that was created in my image."
+"Hmm, maybe somewhere among them there is a Dead Apostle created with the same kind of attributes as me."
 }
 [sha:c32999919b1928b6f1959b4a29aa0bc925c20720]{
 -- Page 597, Offset 18069.
@@ -312,7 +318,8 @@ I'm pretty sure I remember Arcueid mentioning she was royalty.
 -- Page 597, Offset 18070.
 -- ま、わたしと彼らでは根本が違うから、どこまでいっても模造品にすぎないでしょうけど」
 // Arc: accept no substitutes
-That said, my origin is different to theirs,
+// don't use origin here like this, it could be confusing.
+That said, I am fundamentally different to them,
  so no matter how hard they try the best they'll ever manage is a pale imitation."
 }
 [sha:10d7fadfd04350f342be3d6ac6e883873013ca13]{
@@ -324,8 +331,9 @@ That said, my origin is different to theirs,
 -- Page 598, Offset 18072.
 -- そうね。基本的な蓄えだけで言えば、きっとヴローヴより優れている」
 // そうね said fairly succinctly, but can't think of a great equivalent phrase with that intonation.
+// the accumulation thing most probably talks about their "accumulation of time, blood, etc", things that denote how strong vampires get.
 How to put it.
- Even just in terms of their stockpiles of essential resources,
+ Just in terms of how much they've accumulated,
  they stand head and shoulders above Vlov."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -362,12 +370,13 @@ Did the desire to kill whip your blood into a frenzy, Mr. Murderer?"
 [sha:fb5defe4e1cb192bc34fafb119827210c9a035fc]{
 -- Page 600, Offset 18079.
 -- 人間の尺度で返答する。
-I respond in accordance with my human values.
+// rather than values, this is more something like 'human standards'
+I respond in the way a human should.
 }
 [sha:ae8707c32ad9f86b7afdd67d1020c676464b7b94]{
 -- Page 600, Offset 18080.
 -- 協力するとは決めたものの、このあたりきちんと主張しておきたい。人間にできない事はできないのである。
-I may have decided to help her out, but I want to make myself absolutely clear on this.
+I may have decided to help her out, but this is something I have to emphasize:
  There are some things that humans simply cannot do.
 }
 [sha:cac1f3e52ee9c8b06161bb5f5e7e0a420570b1f6]{
@@ -379,6 +388,7 @@ I may have decided to help her out, but I want to make myself absolutely clear o
 -- Page 601, Offset 18082.
 -- この二十七祖ってヤツらが、死徒の頂点でいいんだよな？」
 // Not sure I've seen ~でいい for clarification before? I guess it makes sense?
+// ^Above is correct
 These Twenty-Seven Ancestors represent the apex of the Dead Apostles, right?"
 }
 [sha:9a5a6992d57cb904fbf0bdd7018afc5d9a4007dd]{
@@ -386,15 +396,15 @@ These Twenty-Seven Ancestors represent the apex of the Dead Apostles, right?"
 -- 「そうよ。非常食の立場から抜け出し、まったく違うモノとして独立を勝ち取った古い死徒たち。
 // 非常食の立場 doesn't appear to be an idiom, so inclined to translate it literally
 // here in that that the ancestors were once the spare blood for someone else (TA?)
+// could use some work still, but this is preferrable.
 "Correct.
- They are the ones who long ago broke free from their role as emergency rations
- and gained independence as wholly different beings,
- the ancient Dead Apostles.
+ They're ancient Dead Apostles who once broke free from their role as emergency food,
+ winning their independence and establishing themselves as completely different beings.
 }
 [sha:4596583ad249ad622c2edead09bb4620e925ea4d]{
 -- Page 602, Offset 18084.
 -- 月から地上に落ちた真紅の染み。
-A crimson stain that dripped from the moon and fell upon the earth.
+Crimson stains that dripped from the moon and fell upon the earth.
 }
 [sha:acc54a5b16b34a3e9a288a905ba133fe67f8d6fc]{
 -- Page 602, Offset 18085.
@@ -402,7 +412,7 @@ A crimson stain that dripped from the moon and fell upon the earth.
 // Spent some time googling 世界を持つ, it does seem like a used phrase but with various implications, e.g. being off in your own little world, similar to EN.
 // 世界を持_った_ is a little weird tense-wise, are they no longer this way?
 // たち on 猛毒 used as basis for 'they', instead of being subjectless like the prev sentence.
-They are a deadly poison,
+They are extreme contaminants,
  each in possession of a world that will forever be at odds with any other.
 }
 [sha:dcf6e82457b5c58cddd25398f8a33ec8dc31181d]{
@@ -430,7 +440,7 @@ but those who were active before the Common Era are the 'old-timers',
 [sha:0e3937ff9f890642e2e92019e05cee13eec3069f]{
 -- Page 603, Offset 18090.
 -- 西暦以後から活動を始めたのが『新参』ね」
-and those who came after are the 'young blood'."
+and those who came after are the young blood."
 }
 [sha:de9a1fd98b47d4f6c77e164d156040d1ffc6e935]{
 -- Page 604, Offset 18091.
@@ -438,7 +448,7 @@ and those who came after are the 'young blood'."
 "Going back to Vlov as an example,
  over the span of the past hundred years he went from a Rank VI to Rank IX...
  He killed his parent Ancestor,
- and took their place as a new 'young blood' Ancestor."
+ and took their place as a new young blood Ancestor."
 }
 [sha:d8625ee29f01cab9d5bf202efdc4daa9fa87a5bc]{
 -- Page 605, Offset 18092.
@@ -462,7 +472,7 @@ That's great and all, but I'm not really concerned about the rules vampires are 
 [sha:f1d6cdbcb1d59e6fcc3123671134a29d2025ebe6]{
 -- Page 606, Offset 18095.
 -- 気になるのはあの異様な能力だ。
-What I really want to know more about is those strange abilities of his.
+What I really want to know more about are those strange abilities of his.
 }
 [sha:5e286df60e7226de59d04e69ee30020a1b645f2d]{
 -- Page 606, Offset 18096.
@@ -472,7 +482,7 @@ The curse that made his presence alone enough to smother the world around him in
 [sha:1533bbd065daa5c3b5b7a88487c55991aaffd6f5]{
 -- Page 606, Offset 18097.
 -- その寒さに耐える為だけにまき散らされた炎。
-The flames he spread just so he could bear that cold.
+The flames he spread just so he could bear that same cold.
 }
 [sha:e394f35e6b609be888851eec7680c8fd8e6d31c2]{
 -- Page 606, Offset 18098.
@@ -482,7 +492,7 @@ That's not the sort of power that anything with human form should be able to obt
 [sha:90d3db1ed7413721fa5c9bf5ebd21fd97b572246]{
 -- Page 607, Offset 18099.
 -- 「……わからないな。
-"...I don't get it.
+"I don't get it...
 }
 [sha:a2af17290ee9ae44c12df0b42176954e30558e2c]{
 -- Page 607, Offset 18100.
@@ -490,13 +500,13 @@ That's not the sort of power that anything with human form should be able to obt
 // Reading 人間の延長 as "humans that have been extended (lives prolonged)",
 // not "an extension of humans (an offshoot in a phylogenetic tree)"
 // First clause dropped for flow, if we really think it's necessary will come back and try to fit it in naturally.
-At the end of the day, Dead Apostles are just humans with extremely prolonged lives, right?
- But even a human who's been alive for eons wouldn't be able to pull off a feat like that.
+Regardless of their lifespan, Dead Apostles are still nothing more than an extension of humanity, right?
+ And I mean, no matter how long-lived, a human wouldn't be able to pull off stuff like that.
 }
 [sha:2eae232a44622ecc70b78e06d824f336d50c2c1a]{
 -- Page 607, Offset 18101.
 -- 祖っていうのは他に何かあるんじゃないのか？」
-Surely there's something else that goes into making an Ancestor?"
+There's something more to these Ancestors, isn't there?"
 }
 [sha:f784ee342b30a042521724b63fb3a7b1af229166]{
 -- Page 608, Offset 18102.
@@ -506,29 +516,30 @@ Surely there's something else that goes into making an Ancestor?"
 [sha:9af32fd6c3a17c4767ab56ae7f3dc92b50c987dd]{
 -- Page 608, Offset 18103.
 -- 祖を祖たらしめているのは、その血液の質」
-What makes an Ancestor an Ancestor is the quality of their blood."
+// 質 closer perhaps to 'nature' rather than 'quality' in this context. Idea Blood isn't quality per se, but rather a very specific thing. Hence why the lowly Vlov counted as an Ancestor despite his quality.
+What makes an Ancestor an Ancestor is the character of their blood."
 }
 [sha:bcd244d5a9d5e39874377c95be6b2920bf9fc605]{
 -- Page 609, Offset 18104.
 -- 「魂に刻まれてしまった大本の戒め。
 // 大本 foundation for TM Lore™
-"A foundational precept carved into the soul.
+"The foundational sanctions engraved onto their souls;
 }
 [sha:9a97080f59c6c85b4a94a31acf9dc537cf5801dd]{
 -- Page 609, Offset 18105.
 -- それぞれ戴いた真理、渇きの根底となる世界観。
-A truth that they each received,
- a worldview that underpins their thirst.
+The truths they have each been crowned;
+ The worldviews that underpin their thirst;
 }
 [sha:ded30ad443ac5e43d2d483b697e500c9c52eb5ad]{
 -- Page 609, Offset 18106.
 -- その血を巡らせるだけで惑星の物理法則を塗り替える特異点。
-The circulation of that blood alone is a singularity capable of rewriting the laws of physics on this planet.
+The singularities that paint over the planet's physical laws just by circulating their blood.
 }
 [sha:f7002143bfdc8ef2d267c7e28971f4348ffacd7a]{
 -- Page 609, Offset 18107.
 -- 原理血戒―――イデアブラッド」
-A %{i}Hemonomic Principle%{/i}―――%{i}Idea Blood%{/i}."
+The %{i}Hemonomic Principles%{/i}―――%{i}Idea Blood%{/i}."
 }
 [sha:5b4d0e434706ede06a7adb892e38b06f0026e3e0]{
 -- Page 610, Offset 18108.
@@ -554,14 +565,14 @@ That's what the bottomless 'rift' I saw nestled at that man's core must have bee
 [sha:5258ba7c68be9e1d8e2afbe0c4662ccaffa2405a]{
 -- Page 611, Offset 18112.
 -- この血を継承した死徒は、どんな階梯であろうと祖に成り上がる。
-A Dead Apostle who inherits that blood ascends to Ancestor status,
- regardless of the rank they held before.
+Dead Apostles who inherit this blood ascend to Ancestor status,
+ regardless of the Rank they held before.
 }
 [sha:bc5fa867416ce51bd1013878fce989b8ab999946]{
 -- Page 611, Offset 18113.
 -- もっとも、原理血戒を動かすには千年クラスの土台がいるわ。数百年活動した程度の死徒が継承しても、その呪いで潰される」
-However, it requires a millennium-class basis in order to command a Hemonomic Principle.
- If a Dead Apostle that had only been active for a few hundred years inherited that curse, they'd be crushed by it."
+That said, a millennium-class base is required in order to operate the Hemonomic Principle.
+ So even if some random Dead Apostle that had only been active for a few hundred years inherited it, they'd be crushed by its curse."
 }
 [sha:e074d33328ffd4f6475b0573f543bfea32c02b3b]{
 -- Page 611, Offset 18114.
@@ -571,14 +582,14 @@ However, it requires a millennium-class basis in order to command a Hemonomic Pr
 [sha:4fde2c2628b5601d767c29c05646c69e0838cc83]{
 -- Page 612, Offset 18115.
 -- 「そうなんだけど……今にして思うと、アイツ、ちゃんと耐えきっていたみたい。
-"Sure, but... now that I think about it, that guy looked like he was able to withstand it pretty well.
+"Sure, but... now that I think back on it, that guy looked like he was able to withstand it pretty well.
 }
 [sha:601c575a014f7a176e961bc5b894fc7a5827c162]{
 -- Page 612, Offset 18116.
 -- ……死徒としてはⅥ階梯クラスだったのに、なんであそこまで自我が残っていたのかしら……」
-// Vlov is _technically_ rank IX, but actually only really as capable as VI
-He was only in the same class as a Rank VI Dead Apostle,
- I'm not sure how he was able to retain as much of his ego as he did..."
+// Vlov is _technically_ Rank IX, but actually only really as capable as VI
+He was only Rank VI as far as Dead Apostles go,
+ so I wonder how exactly he managed to maintain his sense of self so well..."
 }
 [sha:2c4ee014a377237aae50df1e1ee67fcb8ea2285a]{
 -- Page 613, Offset 18117.
@@ -601,12 +612,13 @@ I'm not sure I want to hear the answer to this, but...
 -- Page 614, Offset 18120.
 -- 「あ、それは大丈夫。二十七祖は基本、敵同士だから。
 "Ah, you don't have to worry about that.
- The Twenty-Seven Ancestors are fundamentally at odds with each other.
+ The Twenty-Seven Ancestors are mostly at odds with one another.
 }
 [sha:67914a8456437c261eb5139b077df7839490941c]{
 -- Page 614, Offset 18121.
 -- こんな島国でヴローヴが消えたところで気にする祖はいないわ」
-There isn't a single Ancestor that would lose sleep over Vlov's disappearance in this island nation."
+// こんな島国で is trying to be dismissive, rather than descriptive.
+There isn't a single Ancestor that would lose sleep over Vlov disappearing on some faraway island."
 }
 [sha:ef5f0cbfde4651264b053d3a261e5dd924e14be7]{
 -- Page 615, Offset 18122.
@@ -621,7 +633,7 @@ There isn't a single Ancestor that would lose sleep over Vlov's disappearance in
 [sha:acb5b49a77dad097ddb65772fe7f6c1a285d40ce]{
 -- Page 615, Offset 18124.
 -- 古参の５匹……神代同盟に手を出さなければね。
-We'll be fine so long as we don't touch any of the five old-timers, the %{i}League of the Age of Gods%{/i}.
+We'll be fine so long as we don't mess with the five old-timers... the %{i}League of the Age of Gods%{/i}.
 }
 [sha:ca09fae5ed2114aabb41124fdb16247d7ad62ea0]{
 -- Page 615, Offset 18125.
@@ -632,7 +644,7 @@ That said, it's not as though each and every one of them has it out for humans,
 [sha:a032975dc854c46f8c1c111510704f358ff3ddfc]{
 -- Page 616, Offset 18126.
 -- 「『二十七祖』というのは在り方を示す呼称だから変わらないけど、実際にはえーと……残り二十一祖かな？
-"The phrase 'The Twenty-Seven Ancestors' is more a reference to the way things %{i}ought%{/i} to be than the way things %{i}are%{/i},
+"'The Twenty-Seven Ancestors' indicates the way they are, rather than their number.
  in reality there are, um... twenty-one Ancestors left, I think?
 }
 [sha:5eef67362fed41c73c50c6fc36cdd7b89135541f]{
@@ -643,7 +655,8 @@ There's the Principle Vlov inherited from Offenbaum,
 [sha:6257e74010e3359a2b029b03518c673ed107de24]{
 -- Page 616, Offset 18128. Mods: @n.
 -- 『実り』の原理、『城、即ち王国』の
-the Principle of 'Ripening', the Principles of 'Castle
+// 『城、即ち王国』 is ONE principle
+the Principle of 'Ripening', the Principle of 'Castle
 }
 [sha:f2341c69d210bb7b6fea3599a77cd2e548eb01eb]{
 -- Page 616, Offset 18129. Glued.
@@ -673,7 +686,7 @@ and the Principle of 'Four Limbs'..."
 [sha:356e6a35d464ffb753c366c20dac91c40dedaa33]{
 -- Page 617, Offset 18134.
 -- 教会はひとりの祖を封印するため、100年単位で準備しては実行していたけど、成功例はたったの二回。
-The time the Church dedicates to preparations for sealing a solitary Ancestor is denominated in centuries,
+The Church takes centuries to prepare and carry out the sealing of even just a single Ancestor,
  yet despite that, they've only pulled it off twice.
 }
 [sha:03016ee69a6a4c6a44ef099f4500cf6a1c33b8da]{
@@ -685,7 +698,7 @@ So? Are you starting to understand how amazing it is that you managed to defeat 
 [sha:aa3ec171b6e3f6bfe3c8615e96121fe8577096ce]{
 -- Page 618, Offset 18136.
 -- 「……まあ、ほとんどおまえのおかげだけどな。
-"...Well, most of it was thanks to you.
+"Well... most of it was thanks to you.
 }
 [sha:617fb39226ebc123eedd2ffe9cbc4f24fe3ee442]{
 -- Page 618, Offset 18137.
@@ -695,7 +708,7 @@ And amazing or not, my main takeaway is that I never want to do something like t
 [sha:7668bbe73a603f0a179bf492acfc1928f3d0fb92]{
 -- Page 618, Offset 18138.
 -- 「そこは安心して。この国にもう二十七祖はいないから」
-"You can rest easy there. None of the other Twenty-Seven Ancestors are in this country."
+"You can rest easy there. There aren't any of the Twenty-Seven Ancestors left in this country."
 }
 [sha:5455b9118f9cc30ede4788c53015e0955bc1d679]{
 -- Page 619, Offset 18139.

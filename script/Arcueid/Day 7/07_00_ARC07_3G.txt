@@ -30,7 +30,7 @@ I assume we just keep walking around the city searching for more Dead?"
 -- 「そうね。この街にいる死者を全滅させれば、親基の吸血鬼は出てこざるをえなくなるでしょうし。
 "Yeah.
  If we wipe out all the Dead in this city,
- then their parent vampire will have no choice but to come out of hiding.
+ then their vampire sire will have no choice but to come out of hiding.
 }
 [sha:59a321ec1c69d659012d6be25b1746fb4dcac460]{
 -- Page 429, Offset 17643.
@@ -45,7 +45,7 @@ Arcueid gives me a look, as if asking whether I'm really okay with it.
 [sha:78b0e62ccebdeae07ee123054cdb5e66581c8927]{
 -- Page 430, Offset 17645.
 -- 「いいもなにも、俺はアルクェイドに付き合うだけだ。餅は餅屋って言うし、専門家に従うよ」
-"You don't have to ask me, wherever you go I'll follow.
+"You don't have to ask me, wherever you go, I'll follow.
  You're the expert after all, so just tell me what to do."
 }
 [offset:17646]{
@@ -122,7 +122,7 @@ The number of Dead that will go out to feed on a given night is planned in advan
 [sha:7d9c4186797dc7b4c395327a5c2f2c8ae964062e]{
 -- Page 436, Offset 17658.
 -- 「親基の吸血鬼にしてみれば血液の採集は娯楽じゃなくて、生存するための必要作業、仕事だもの。ルーチンワークを良しとするのよ」
-"Well, think about it from the parent vampire's perspective.
+"Well, think about it from the vampire sire's perspective.
  They aren't just collecting blood for fun, it's a vital requirement for them to continue existing.
  It's work, so of course they'd value consistency and reliability."
 }
@@ -142,6 +142,8 @@ Since you've been out here thinning the herd,
 [sha:71883943066c948891798eda41d1c04c8a2989ea]{
 -- Page 438, Offset 17661.
 -- 「基本的には“出し渋る”方でしょうね。
+// does she say ほう or かた here? Depending on the answer this might be wrong.
+// she says ほう
 "This guy is stingy by nature, right?
 }
 [sha:73a9019e8aedb7e3e262aef83b7436511d00a438]{
@@ -152,13 +154,13 @@ However, as a vampire, he has no choice but to milk other people for their blood
 [sha:1a309e275f7aaedd1295042062adca34fc2895b6]{
 -- Page 438, Offset 17663.
 -- 親基はわたしに狙われていると判っていても、最低限の食料を得る為に死者を出すしかないってわけ」
-That's why even if he knows that I'm after him,
+That's why even if the sire knows that I'm after him,
  he still has to send his Dead out to gather the bare minimum for subsistence."
 }
 [sha:5599af88891f6a10c967bbece2e2a2b0af4a0991]{
 -- Page 439, Offset 17664.
 -- ……なるほど。
-...I see.
+I see...
 }
 [sha:52d736738802edcd699e965eec38b6abfac8abc4]{
 -- Page 439, Offset 17665.
@@ -168,7 +170,7 @@ Arcueid's modus operandi is to attack the enemy's supply lines.
 [sha:328d6486dda31834f4fa1472c070123510266eae]{
 -- Page 440, Offset 17666.
 -- この街のどこかで眠っている親を見つける事は困難だ。
-Working out where in the city the parent vampire is sleeping would be far too difficult.
+Working out where in the city the sire is sleeping would be far too difficult.
 }
 [sha:c5a1c6d2af46ff8c5c7e9decda0b2439e45d5059]{
 -- Page 440, Offset 17667.
@@ -179,8 +181,9 @@ So instead of searching for him, she plans to smoke him out.
 -- Page 440, Offset 17668.
 -- 生きていく為に必要な労働力・栄養源を断たれた親は、最終的に自ら行動せざるを得ない。
 // Wtf kind of grammatical construction is ・ supposed to represent
-Cut off from their labor force, and by extension the nourishment they need to keep on living,
- the parent vampire will eventually have no choice but to take action themselves.
+// it's essentially the Japanese equivalent of a /.
+Cut off from their workers, and by extension the nourishment they need to keep on living,
+ the sire will eventually have no choice but to take action themselves.
 }
 [sha:de44f784470017d530eb26b282d6956f515b60e1]{
 -- Page 441, Offset 17669.
@@ -318,6 +321,7 @@ It's nothing compared to the pain that Arcueid is dealing with right now.
 [sha:7c514e9d72467b1ca96fa94a15383a0b6ca48737]{
 -- Page 450, Offset 17694.
 -- それでカタがつくっていうんなら安いもんだ」
+// get it? get it???
 If doing so makes things easier, then it's a no-brainer."
 }
 [sha:b0021844b5ab46415ea25befd22aa4e658b7d51d]{
@@ -642,8 +646,8 @@ The death of things.
 [sha:3cad7ac871256e275b1c8e8982a196bda200db39]{
 -- Page 475, Offset 17751.
 -- 「すべての事象には大本になった原因、絶対の一がある。
-// Type moon lore experts, take the wheel, i am DONE. i am also DONE. I am only just beginning >:)
-"All events have a cause that becomes their foundation, an absolute first.
+// Type moon lore experts, take the wheel, i am DONE. i am also DONE. I am only just beginning >:) I'm like halfway
+"All events have a cause that becomes their foundation: an absolute first.
 }
 [sha:91a378903530dce68e2051c0deada9ff850506c7]{
 -- Page 475, Offset 17752.
@@ -697,6 +701,8 @@ To be connected to it would be to 'know' the end of all things.
 // Have fun fitting this in the page lmao
 // yk: if it doesn't fit, pls consult dr petrikow when changes are to be made)
 // Seems contradictory that having open 'circuits' != using 'magic circuits' but w/e
+// B: did we ever resolve this? Is this implying that there are circuits /other than/
+// magical circuits?
 The brains of higher animals possess the faculties of reception and transmission,
  but in nearly all humans those circuits are closed off to themselves.
  However, among them are those with latent potential - open circuits.
@@ -804,6 +810,7 @@ To use a metaphor, they're like blood vessels.
 -- Page 485, Offset 17777.
 -- 線が血管なら、点はその血管を生み出す何かだ。
 // This is a pretty shit metaphor, Shiki. Do better.
+// B: I really just want to emphasis how terrible this metaphor is. Like wtf??
 If the lines are blood vessels,
  then those points are something that gives rise to those blood vessels.
 }
