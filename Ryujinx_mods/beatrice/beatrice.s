@@ -4,8 +4,8 @@ nop
 end
 
 ; stop line feed
-0xc5a24
-b #0x4b4
+0xc5a28
+mov w8, #0x20
 end
 
 ; install trampoline
