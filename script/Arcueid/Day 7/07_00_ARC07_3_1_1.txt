@@ -272,6 +272,8 @@ Only about one in a thousand reach Rank IV."
 [sha:3666d438738954ea215553f8175ba1f552c34f13]{
 -- Page 536, Offset 17906.
 -- Ⅳ階梯の深度に加え、その血液に宿った呪いによって親基、あるいは個人に起因する異能を発揮できるようになる。
+// 深度 ('depth') clarified later to be 'curse depth', so I guess just 'power level'
+// Rendered here as "capabilities"
 // Retranslated: there were a lot of problems with this line: Ⅳ階梯の深度に加え、その血液に宿った呪いによって(親基、あるいは個人)に起因する異能を発揮できるようになる。 <-- brackets to see where how the clauses seperate.
 The vampiric curse runs so deep in Nightmares that on top of the capabilities of Rank IV vampires,
 they are also capable of manifesting powers that are either inherited from their sire or intrinsic to the individual themselves.
@@ -335,7 +337,7 @@ The vampire lurking in this city belongs to this Rank.
 -- 身分制度って言ったけど、それを決めるのは誰……いや、何だ？　吸血鬼は血を吸って仲間を増やすなら、どうしてこうも在り方が違うんだ？」
 // Italics what
 // それを決めるのは誰……いや、何だ？ if you are literal it becomes "what" but this is more a turn of phrase on how 決める is used, and is sometimes used similarily in English: "What decides that?", but in context being used together with "who" it makes it sound like he's like talking as if it's not a person, but a 'thing' that decides it. IMO
-You said that it was a class system, so who decides it? Or rather... {%i}how{%/i} is it decided?
+You said that it was a class system, so who decides it? Or rather... %{i}how%{/i} is it decided?
  If vampires only propagate themselves by sucking blood,
  how do you end up with so many different types?"
 }
