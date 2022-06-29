@@ -38,7 +38,7 @@ How on earth did you kill me?"
 -- Page 565, Offset 7091.
 -- ルーンやカバラあたりの秘術には抗体が出来ているから効かないし、抗体耐性が出来てない<神|も><秘|の>―――わたしがまだ経験した事のない魔術となると、この国の古神道と南米の秘宝ぐらいなものよ」
 My antibodies can render secret arts like Runes and Kabbalah useless,
- but they couldn't mount any resistance whatsoever against whatever %{i}Mystery%{/i} you used.
+ but they couldn't mount any resistance whatsoever against whatever %{i}Arcanum%{/i} you used.
  If we're talking about magecraft I haven't experienced before,
  it would have to either be either the ancient Shintoism of this country or the hidden treasures of South America."
 }
@@ -51,12 +51,12 @@ My antibodies can render secret arts like Runes and Kabbalah useless,
 -- Page 566, Offset 7093.
 -- 答えて志貴。あなた、どんな年代物の神秘で、わたしを再起不能にしてくれたの？」
 // could also use "vintage item" here instead of antique.
-Answer me, Shiki. What kind of %{i}Arcane%{/i} antique did you use to incapacitate me?"
+Answer me, Shiki. What kind of Arcane antique did you use to incapacitate me?"
 }
 [sha:d1c5df2a26571a1f707e084050a7ceca36306c4b]{
 -- Page 567, Offset 7094.
 -- 「いや、年代物の神秘って、何のことだ？」
-"Hold on, what do you mean when you say '%{i}Arcane%{/i} antique'?"
+"Hold on, what the heck is an 'Arcane antique'?"
 }
 [sha:4cf03d1db92c936c8c4120c2c7fce6540b37cc86]{
 -- Page 567, Offset 7095.
@@ -66,7 +66,7 @@ I can tell that Arcueid is being serious.
 [sha:4a1043d8cd7dfa9cfb3f49931f8bcc195078cc31]{
 -- Page 567, Offset 7096.
 -- が、俺にはまったく彼女の言わんとするものが分からない。
-But I don't understand what she's trying to say at all.
+But I don't understand a single thing she's just said.
 }
 [sha:54603b833cac38d488fd4a99c013112fc80047fe]{
 -- Page 568, Offset 7097.
@@ -76,18 +76,21 @@ But I don't understand what she's trying to say at all.
 [sha:efb0758a6b6cdfec746db1d4acc61afa4826beb4]{
 -- Page 568, Offset 7098.
 -- 歴史と想念を蓄えた触媒。
-Catalysts for storing history and ideas.
+Catalysts comprised of history and ideas.
 }
 [sha:5554ada94507d65870f7419c999c4ba59183b403]{
 -- Page 568, Offset 7099.
 -- この国にも神器ってあるんでしょう？　たいていは法杖や剣、宝石や仮面を使用する魔術礼装の事だけど――ねえ志貴、あなた本当にそっちの方面の人じゃないの？」
 // 神器 are highly tied to divinity, and rarely just 'generically' magical. Buddhist monks are basically super-wizards in Japanese fiction though.
-Even in this country there are those sacred artifacts, aren't there? Although they are mostly Buddhist staves, swords or jewels and masks used as %{i}Mystic Codes%{/i}――― Hey, Shiki, are you sure you're not someone that's involved with that sort of thing?"
+Even this country has some sacred artifacts, right?
+ I think they're mostly Buddhist staves, swords, or jewels and masks used as %{i}Mystic Codes%{/i} though.
+ Hey, Shiki―――are you %{i}sure%{/i} you're not someone that's into that sort of thing?"
 }
 [sha:08b9f3cfaa484b8c9f270e2eb94fd57549b4bee9]{
 -- Page 569, Offset 7100.
 -- 「そっち方面もなにも、俺はただの学生だって言ったじゃないか。知ってる事なんてなにもないよ」
-"I already told you, I'm just a regular student. I don't know anything about those kinds of things."
+"Absolutely not. Like I said, I'm just an ordinary student.
+ I have literally no clue what any of that is."
 }
 [sha:9617f3d27abdaa8a8a4c0d709457f10f09a72b4f]{
 -- Page 570, Offset 7101.
@@ -97,7 +100,7 @@ Even in this country there are those sacred artifacts, aren't there? Although th
 [sha:5109c160835a3483bb13a93973c1bcdca00db831]{
 -- Page 570, Offset 7102.
 -- ……志貴、わたしに隠していること、あるでしょ？」
-...Shiki, there's something that you're hiding from me, isn't there?"
+Shiki... there's something you're not telling me, isn't there?"
 }
 [sha:6b81057ec3eb669f37c3d74d98eaa644552b7ca3]{
 -- Page 571, Offset 7103.
@@ -107,37 +110,37 @@ Arcueid glares at me like an angry cat.
 [sha:bdefb8ef37d4cb2a323f7f8e6cf8ec029a8230da]{
 -- Page 571, Offset 7104.
 -- が、そんな目をされてもこっちには隠し事なんて―――
-But even if she looks at me like that, I have nothing to tell her―――――
+She can glare at me all she wants, but it's not like I'm hiding anything―――
 }
 [sha:0d102a587af2996cde94c4c4b34368a193fe65c1]{
 -- Page 571, Offset 7105.
 -- ―――あった。
-―――Wait, there is something.
+Wait... there is something.
 }
 [sha:b7aa4d40013897ea9f149e169d633001b80b5a6e]{
 -- Page 572, Offset 7106.
 -- 「……すまん、実を言うと一つあったっぽい。
-"...Sorry. To tell you the truth, there is one thing.
+"Sorry. To tell you the truth, there is one thing.
 }
 [sha:209c0d090882ac1cbdb3d779c5516721a9c5721c]{
 -- Page 572, Offset 7107.
 -- ………けど関係あるのかな、これ」
-......But I'm not sure if it's relevant here."
+But... I'm not sure if it's relevant here."
 }
 [sha:9e3a3d9774a6087546d5a7029649d5bd25e25a08]{
 -- Page 573, Offset 7108.
 -- アルクェイドはまだ睨んでいる。
-Arcueid continues to glare at me.
+Arcueid continues to glower at me.
 }
 [sha:86fa6c77f17cbb0d734dd408a037e80de65a36d5]{
 -- Page 573, Offset 7109.
 -- これは打ち明けないと収まらない流れだ。
-There's no way to get out of this without telling her everything.
+She isn't going to back down unless I tell her everything.
 }
 [sha:edc1137e036b1b509d519efb7a5139c8e9310800]{
 -- Page 574, Offset 7110.
 -- 「なんて言ったらいいのかな……俺さ、モノの切れる線が見えるんだよ」
-"I don't know how to explain it... but I can see lines in things that can be cut."
+"How do I put this... I can see lines along which things can be cut."
 }
 [sha:440b060294a0d253ec70f5166e823fbf36aadf8f]{
 -- Page 574, Offset 7111.
@@ -147,42 +150,48 @@ There's no way to get out of this without telling her everything.
 [sha:b33305b86b3630d37c17b2c730721d33d2ab7ec4]{
 -- Page 574, Offset 7112.
 -- だろうな。こんな話、普通は信じてはもらえない。
-I know, right? Normally, people wouldn't believe me even if I told them.
+That's about the reaction I'd expect.
+ Who'd believe something like that?
 }
 [sha:bf294f91b1853a5f7227388f66755b84677b4d77]{
 -- Page 574, Offset 7113.
 -- 事実、今までずっとそうだった。
-In fact, it has always been that way.
+// Is this 'people have always not believed it' or 'I have been able to see them' we think?
+// Leaning 'see them' since I assume he didn't tell anyone post-hospital
+// 'ずっと' softened from 'forever' since, well, it was only since he was 10
+Still, it's true that I've been able to see them for a long time now.
 }
 [sha:81c05dc09d862d01d9628ea05bc48308921b5326]{
 -- Page 575, Offset 7114.
 -- 「……それ、どういう意味？」
-"...What do you mean by that?"
+"What do you mean by that?"
 }
 [sha:5b3953513c5612e833c6cd7f47d025cbde6d8331]{
 -- Page 575, Offset 7115.
 -- が、アルクェイドは真剣に問い返してきた。
-Arcueid asks back in all seriousness.
+However, Arcueid's reply seems completely serious.
 }
 [sha:f0be73d761850b0a194d637070e1cb83ff86343a]{
 -- Page 576, Offset 7116.
 -- 「だからモノの切れる線が視えるんだよ、俺。
-"What I'm saying is that I can see the lines along which things can be cut.
+"I told you, I can see the lines along which things can be cut.
 }
 [sha:c4645bc4bd2dfdad9b4f66de562f61b344b80c8f]{
 -- Page 576, Offset 7117.
 -- 生き物とか地面とか、とりあえず触れられるものなら全部。亀裂みたいでさ、それに刃物を通すとあっさり切断できるんだけど……これ、意味あるか？」
-Whether it's a living thing or the earth's surface, as long as I can touch it, then it can be cut. It's like a crack, and if I run a blade through it, it will easily split into two... does this make any sense?"
+It doesn't matter if it's a living thing, the surface of the earth or anything in between―――if I can touch it, then I can cut it.
+ It's a bit like a crack, in that if I run a blade along it then I can easily split the thing in two... am I making any sense?"
 }
 [sha:7435446c9859166eb4ed9e7ff12dc103ad6aa0af]{
 -- Page 577, Offset 7118.
 -- 「鉄をナイフ程度で切れるのは便利だけど、別に好きなところが切れるわけじゃないんだ。線が視えてるところしか切れないから、日曜大工にも使えない。
-"It's convenient to be able to cut steel with a knife, but it doesn't mean that I can cut wherever I want. I can only cut areas where a line is visible, so I wouldn't be able to use it for things like carpentry.
+"It's pretty nifty to be able to cut steel with nothing more than a knife, but it's not like I can cut things however I want.
+ I can only cut along the lines that are already there, so it wouldn't be much use for DIY or anything like that.
 }
 [sha:d2e3904b68ce472561c0a942e46188c3298ce538]{
 -- Page 577, Offset 7119.
 -- おまえを切った時だって……その、ナイフなら女の肌ぐらい切れるだろ？」
-Like the time I sliced you... well, you can see how I could cut a woman's skin with a knife, right?"
+And the time I cut you... well, it makes sense that I'd be able to pierce a woman's skin with a knife, right?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 578, Offset 7120.
@@ -202,17 +211,17 @@ A chill runs down my spine.
 [sha:739b1e33010ab3872de68204b4b916e34ceb1555]{
 -- Page 578, Offset 7123.
 -- 真っ正面から、こちらの呼吸を止めるほどの、強い視線を向けられる。
-She stares at me head-on with such a strong gaze that I stop breathing.
+She's staring at me so intensely that I almost forget how to breathe.
 }
 [sha:8d2858b4b8e55e3645cdcd518eeed6480caf5b71]{
 -- Page 579, Offset 7124.
 -- 「そう。直死の魔眼なんて童話の中だけの話と思ってたけど、いるところにはいるものね。
-"I see. I thought the %{i}Mystic Eyes of Death Perception%{/i} were the stuff of fairy tales, but I guess they do exist.
+"I see. I thought the %{i}Mystic Eyes of Death Perception%{/i} were the stuff of fairy tales, but I guess really they do exist.
 }
 [sha:658564e232b0d93fda97a9faf0d6c0265fa39ff9]{
 -- Page 579, Offset 7125.
 -- あなたみたいな、突然変異の化物が」
-Mutated monsters like you, for example."
+Monstrous mutants like yourself, that is."
 }
 [sha:dd5d6b1cfcba5ddda870ced869dab688fc1f1fb2]{
 -- Page 580, Offset 7126.
@@ -222,7 +231,7 @@ Mutated monsters like you, for example."
 [sha:3654ff9063c0b3852fce8e997d9aba0d93c09ed2]{
 -- Page 580, Offset 7127.
 -- 「化物は化物でしょう。『モノの死を視る』魔眼なんて、わたしたちでさえ保有している者はいないんだから」
-"A monster is a monster. Even among vampires, there are none that possess the Mystic Eyes that can see the death of things."
+"A monster is a monster. There don't even exist any vampires who possess Mystic Eyes that can see the death of things."
 }
 [sha:1915c863113b668107e0ff75eab27719672ce685]{
 -- Page 581, Offset 7128.
@@ -232,7 +241,7 @@ Mutated monsters like you, for example."
 [sha:e1752d4fcd4861b21688d0283c67869375c4fa92]{
 -- Page 581, Offset 7129.
 -- 「それ以外のなんだっていうの？
-"What else could it be?
+"What else would you call it?
 }
 [sha:788586e5da2dae6bcfea4e6cb37b7e659af241c2]{
 -- Page 581, Offset 7130.
@@ -242,7 +251,7 @@ Shiki. Your eyes are forming a circuit with a place that no living thing should 
 [sha:7d1e9881a1bd09e0a00572cae32cf628305fc9de]{
 -- Page 581, Offset 7131.
 -- 「……いや、こうなったのは昔からだけど、生まれついてのものじゃない」
-"...No, they've been like this for a long time, but they're not innate."
+"No... They've been like this for a long time, but they're not innate."
 }
 [sha:d5badc4e4ddf7dead82ce951be937ba337385659]{
 -- Page 582, Offset 7132.
@@ -252,47 +261,52 @@ Shiki. Your eyes are forming a circuit with a place that no living thing should 
 [sha:624c8767c66ec1bbdbcc5b2bcfe1df8bad627f0f]{
 -- Page 582, Offset 7133.
 -- 「<吸|お><血|ま><鬼|え>じゃあるまいし、そう簡単に死ねるか。
-"I'm not like you, so it's not like I can just simply die.
+// Come back kinda reified, since well he _can_ just die
+"I'm not like you okay, I can't just die and come back.
 }
 [sha:891d5d38d31ad1db8479992c5d92e74b172f8742]{
 -- Page 582, Offset 7134.
 -- ……でもまあ、そうだよ。以前、事故で死にかけた。線が見えるようになったのはその後からだ」
-...But yes, I have. I almost died in an accident once. It was only after that incident that I began to see those lines."
+But yes... I have. I almost died in an accident once.
+ It was only after that incident that I began to see the lines."
 }
 [sha:51c337163f6d0552c4456e8354aba4b88b3f1b12]{
 -- Page 583, Offset 7135.
 -- 「ふぅん。潜在的な素質もあったんだろうけど、きっかけはそれでしょうね。……直死の魔眼、か。
-"Hmm. You must have had some sort of latent power, but I suppose that was the incident that awakened it... Mystic Eyes of Death Perception, huh.
+"Hmm. You must have had some sort of latent power, and the accident was what awakened it...
+ Mystic Eyes of Death Perception, huh.
 }
 [sha:c22c27e888cb5a976ec8371813c9ab01d70adf4f]{
 -- Page 583, Offset 7136.
 -- たしかにそれなら、間違いなくわたしを殺せるわ」
-If that's the case, then of course you'd be able to kill me."
+It all fits, you'd definitely be able to kill me if you have eyes like that."
 }
 [sha:795984a59b532fae5152dd000b01c880010c6c6c]{
 -- Page 584, Offset 7137.
 -- ふん、と不機嫌そうに鼻を鳴らして、アルクェイドは俺から視線を逸らした。
-%{i}Hmph%{/i}. Arcueid pouts and averts her gaze from me.
+%{i}Hmph%{/i}. Arcueid pouts and averts her gaze.
 }
 [sha:7b1794540b6aa82c3086e23d33f0fd5f9ac793e7]{
 -- Page 584, Offset 7138.
 -- 明らかな嫌悪を向けられたものの、あの眼でなくなったのは有難い。
-I'm grateful that she's no longer looking at me with visible disgust in her eyes.
+I'm glad she did. She'd been staring at me with visible disgust in her eyes.
 }
 [sha:48e557d35b549725c3ebede873d4ee7cef230d7b]{
 -- Page 585, Offset 7139.
 -- 「アルクェイド……おまえ、この線がなんだか知ってるのか？」
-"Arcueid... do you know what those lines are?"
+"Arcueid... do you know what these lines are?"
 }
 [sha:4874adaaf856a1e1e20885d56f7fbd21d6b1ab03]{
 -- Page 585, Offset 7140.
 -- 「実際に知覚できるあなたほどじゃないけど、知識としてなら説明できるわ」
-"I can't tell you what you're feeling as well as you can, but I can try to explain it based on my own knowledge."
+"I don't understand them as well as someone who can actually see them like you,
+ but I can fill you in on some of the theory."
 }
 [sha:73e00ae6f46c6f4e11ed01ef140d1d343b89ecb4]{
 -- Page 586, Offset 7141.
 -- 「あなたが見ているものはね、万物の結果、物の死に<易|やす>い箇所なのよ。もっと解りやすく言うのなら、あらゆる存在の死期……“死”そのものよ」
-"What you are seeing is the end of all things, the spots where things easily die. Or to put it more simply, the time in which all things end... otherwise known as 'death' itself."
+"What you are seeing is the inevitable end of all things, the points where things can easily die.
+ Put simply, you can see the final hour of anything that exists... 'death' itself."
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 586, Offset 7142.
