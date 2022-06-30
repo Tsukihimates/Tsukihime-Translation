@@ -46,12 +46,13 @@ My antibodies can render secret arts like Runes and Kabbalah useless, yet someho
 [sha:83a6fb4f1ea0647feda7120d38aef85214c6413c]{
 -- Page 566, Offset 7093.
 -- 答えて志貴。あなた、どんな年代物の神秘で、わたしを再起不能にしてくれたの？」
-Answer me, Shiki. What kind of %{i}Mystery%{/i} did you use to incapacitate me?"
+//could also use "vintage item" here instead of antique.
+Answer me, Shiki. What kind of %{i}Arcane%{/i} antique did you use to incapacitate me?"
 }
 [sha:d1c5df2a26571a1f707e084050a7ceca36306c4b]{
 -- Page 567, Offset 7094.
 -- 「いや、年代物の神秘って、何のことだ？」
-"Hold on, what do you mean when you say 'Mystery'?"
+"Hold on, what do you mean when you say '%{i}Arcane%{/i} antique'?"
 }
 [sha:4cf03d1db92c936c8c4120c2c7fce6540b37cc86]{
 -- Page 567, Offset 7095.
@@ -66,17 +67,18 @@ But I don't understand what she's trying to say at all.
 [sha:54603b833cac38d488fd4a99c013112fc80047fe]{
 -- Page 568, Offset 7097.
 -- 「だから<概念|がいねん>武装のことよ。
-"I'm talking about a %{i}Conceptual Weapon%{/i}.
+"I'm obviously talking about %{i}Conceptual Weapons%{/i}.
 }
 [sha:efb0758a6b6cdfec746db1d4acc61afa4826beb4]{
 -- Page 568, Offset 7098.
 -- 歴史と想念を蓄えた触媒。
-A catalyst for storing history and ideas.
+Catalysts for storing history and ideas.
 }
 [sha:5554ada94507d65870f7419c999c4ba59183b403]{
 -- Page 568, Offset 7099.
 -- この国にも神器ってあるんでしょう？　たいていは法杖や剣、宝石や仮面を使用する魔術礼装の事だけど――ねえ志貴、あなた本当にそっちの方面の人じゃないの？」
-There are magical artifacts in this country too, right? Although they are mostly Buddhist staves, swords or jewels and masks used as %{i}Mystic Codes%{/i}――― Hey, Shiki, are you sure you're not someone that's involved with that sort of thing?"
+// 神器 are highly tied to divinity, and rarely just 'generically' magical. Buddhist monks are basically super-wizards in Japanese fiction though.
+Even in this country there are those sacred artifacts, aren't there? Although they are mostly Buddhist staves, swords or jewels and masks used as %{i}Mystic Codes%{/i}――― Hey, Shiki, are you sure you're not someone that's involved with that sort of thing?"
 }
 [sha:08b9f3cfaa484b8c9f270e2eb94fd57549b4bee9]{
 -- Page 569, Offset 7100.
