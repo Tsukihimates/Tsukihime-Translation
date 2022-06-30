@@ -40,7 +40,7 @@ How on earth did you kill me?"
 My antibodies can render secret arts like Runes and Kabbalah useless,
  but they couldn't mount any resistance whatsoever against whatever %{i}Arcanum%{/i} you used.
  If we're talking about magecraft I haven't experienced before,
- it would have to either be either the ancient Shintoism of this country or the hidden treasures of South America."
+ it would have to be either the ancient Shintoism of this country or the hidden treasures of South America."
 }
 [sha:b362b3538cab1cf4a3f2e755bd1255a823859c06]{
 -- Page 566, Offset 7092.
@@ -82,9 +82,10 @@ Catalysts comprised of history and ideas.
 -- Page 568, Offset 7099.
 -- この国にも神器ってあるんでしょう？　たいていは法杖や剣、宝石や仮面を使用する魔術礼装の事だけど――ねえ志貴、あなた本当にそっちの方面の人じゃないの？」
 // 神器 are highly tied to divinity, and rarely just 'generically' magical. Buddhist monks are basically super-wizards in Japanese fiction though.
+// Forced linebreak to avoid weird textwrap
 Even this country has some sacred artifacts, right?
- I think they're mostly Buddhist staves, swords, or jewels and masks used as %{i}Mystic Codes%{/i} though.
- Hey, Shiki―――are you %{i}sure%{/i} you're not someone that's into that sort of thing?"
+ I think they're mostly Buddhist staves, swords, or jewels and masks used as %{i}Mystic Codes%{/i} though.%{n}
+Hey, Shiki―――are you %{i}sure%{/i} you're not someone that's into that sort of thing?"
 }
 [sha:08b9f3cfaa484b8c9f270e2eb94fd57549b4bee9]{
 -- Page 569, Offset 7100.
@@ -216,7 +217,7 @@ She's staring at me so intensely that I almost forget how to breathe.
 [sha:8d2858b4b8e55e3645cdcd518eeed6480caf5b71]{
 -- Page 579, Offset 7124.
 -- 「そう。直死の魔眼なんて童話の中だけの話と思ってたけど、いるところにはいるものね。
-"I see. I thought the %{i}Mystic Eyes of Death Perception%{/i} were the stuff of fairy tales, but I guess really they do exist.
+"I see. I thought the %{i}Mystic Eyes of Death Perception%{/i} were the stuff of fairy tales, but I guess they really do exist.
 }
 [sha:658564e232b0d93fda97a9faf0d6c0265fa39ff9]{
 -- Page 579, Offset 7125.
@@ -251,7 +252,7 @@ Shiki. Your eyes are forming a circuit with a place that no living thing should 
 [sha:7d1e9881a1bd09e0a00572cae32cf628305fc9de]{
 -- Page 581, Offset 7131.
 -- 「……いや、こうなったのは昔からだけど、生まれついてのものじゃない」
-"No... They've been like this for a long time, but they're not innate."
+"No... They've been like this for a long time, but I wasn't born with them."
 }
 [sha:d5badc4e4ddf7dead82ce951be937ba337385659]{
 -- Page 582, Offset 7132.
@@ -268,7 +269,7 @@ Shiki. Your eyes are forming a circuit with a place that no living thing should 
 -- Page 582, Offset 7134.
 -- ……でもまあ、そうだよ。以前、事故で死にかけた。線が見えるようになったのはその後からだ」
 But yes... I have. I almost died in an accident once.
- It was only after that incident that I began to see the lines."
+ It was only after that incident that I was able see the lines."
 }
 [sha:51c337163f6d0552c4456e8354aba4b88b3f1b12]{
 -- Page 583, Offset 7135.
@@ -322,27 +323,27 @@ That's...
 -- Page 587, Offset 7144.
 -- 微妙に違ってはいたが、この眼鏡をくれた先生が、子供だった俺に教えてくれた事に近かった。
 // Association of receiving the glasses changed to help flow
-...A little different from my understanding, but it's close to what Sensei taught me when I received these glasses from her as a child.
+A little different from my understanding, but it's close to what Sensei taught me when I received these glasses from her as a child.
 }
 [sha:b5198fa9673acec4f50067ed1e27a47f246b1269]{
 -- Page 588, Offset 7145.
 -- ……万物の結果。ものの未来。
-...The end of all things. The future of things.
+The end of all things. The future of an object.
 }
 [sha:a168faab18ca673eb9217fcad715abc25961a311]{
 -- Page 588, Offset 7146. Mods: @n.
 -- それを俺は、今まで意識せずに、
-Until now, without realizing it,
+Things that I've avoided being conscious of all this time,
 }
 [sha:f2b1bb836ae68486fed30caeb818ebd1ac8a29a0]{
 -- Page 588, Offset 7147.
 -- 努めて意識しないように―――
-I've been trying so hard not to be aware of this fact―――
+that I still try my hardest not to notice――
 }
 [sha:2fb0396419a5cb66a064db5dc0bc494e32c7987b]{
 -- Page 589, Offset 7148.
 -- 「……なに言ってんだ。俺が見てる線なんて、ただそこが切れるだけのものじゃないか」
-"...What are you talking about? These lines that I see, aren't they just things that I can cut?"
+"What are you saying... Aren't these lines I see just the places where things can be cut?"
 }
 [sha:df21a959fe1a4a3be1178bd73a5fa75702d0b912]{
 -- Page 590, Offset 7149.
@@ -352,7 +353,7 @@ I've been trying so hard not to be aware of this fact―――
 [sha:54016684e4602038ca1208ae699f32a7dca5d011]{
 -- Page 590, Offset 7150.
 -- いい、志貴？　ありとあらゆるものには終わりがある。
-Listen to me, Shiki. Every single thing in this world has an end.
+Listen up, Shiki. Every single thing in this world has an end.
 }
 [sha:9a312b9488ef19bec04dce331d4fe87e57e7f066]{
 -- Page 590, Offset 7151.
@@ -362,32 +363,38 @@ When exactly that time comes will vary, but there's an end nonetheless.
 [sha:ad911242c2de8a49bc63809c92cc20e0783805e4]{
 -- Page 590, Offset 7152.
 -- 死は到来するものではなく、誕生した瞬間に内包していて、いつか発現するものよ。それが原因と結果。因果律って言葉、聞いた事あるでしょう？」
-Death is not something that comes, it is something that is part of you from the moment you are born, and eventually manifests itself. It is simple cause and effect. You've heard of the law of causality, haven't you?"
+Death is not something that comes.
+ It's something that's a part of you from the moment you are born, and eventually manifests itself.
+ It's simple cause and effect.
+ You've heard of the law of causality, haven't you?"
 }
 [sha:31bb2d66a0b5863d9dd298d6981339fcc37783bc]{
 -- Page 591, Offset 7153.
 -- 「<こ|・><こ|・>にある以上、それは必ず消えなくてはいけない。原子の流動、エネルギーの約束事ね。たった一つの例外、ほんの小さな間違いも秩序は許容しない。
-"If we were to go by %{i}that%{/i}, everything that has a beginning must have an end. The flow of atoms, that's conservation of energy, right? The system will not tolerate a single irregularity; not even the smallest error.
+"Everything that has a beginning %{i}must%{/i} have an end.
+ Atoms just recirculate, it's conservation of energy right?
+ The system will not tolerate any discrepancies; not even the smallest error.
 }
 [sha:3e3862c1dba6948ef997a2b3243649588da09ffd]{
 -- Page 591, Offset 7154.
 -- だって、そんなものがあったら、この宇宙の前提が崩れてしまうんだもの。それこそ泡のように消えてしまうわ」
-I mean, if such a thing existed, the whole premise of this universe would collapse. It would pop like a bubble."
+I mean, if there were any imbalances, the premise this whole universe is based on would crumble.
+ The universe itself would disappear like a bubble popping."
 }
 [sha:f8fe0d4ad2addadc837bbbbee4bed53ad86c2fc1]{
 -- Page 592, Offset 7155.
 -- いや、だとしても。
-No, even if that's true.
+Okay, even if that were all true―――
 }
 [sha:cf910fc17bdb9a0cfd80f83d8923d7d3011bf74b]{
 -- Page 592, Offset 7156.
 -- 宇宙とか、さすがに見当違いの話ではないだろうか？
-Isn't talking about the death of the universe a bit over the top?
+It's talking about the death of the universe blowing things out of proportion a bit?
 }
 [sha:84da0403335decb184bfe569a5bb99f8b5b8c8d7]{
 -- Page 593, Offset 7157.
 -- 「見当違いじゃないっ！
-"It's not over the top at all!
+"I'm not blowing things out of proportion at all!
 }
 [sha:87590f6b6b36decc1f99caaf1c9275a36ef1eccf]{
 -- Page 593, Offset 7158.
@@ -407,17 +414,21 @@ I'm not kidding when I say that your eyes really are that bad!"
 [sha:aa086cf3af750f0a69b4cacb438d2d5cc91323c3]{
 -- Page 594, Offset 7161.
 -- どんなに長い寿命、どんなに強大な生命にだってこれはある。たとえ宇宙の寿命より長い寿命を持つ生命があるとしても、それは無限に生き続ける訳じゃない」
-Even the strongest and the longest life must abide by this rule. Even if there is someone that has a lifespan longer than that of the universe, it doesn't mean that they will keep on living forever."
+Nobody can escape this fate, no matter how long-lived they are or how mighty their existence.
+ Even if someone had a lifespan longer than that of the universe, that doesn't mean they'll go on living forever."
 }
 [sha:dd7deffcd1cae1fdeaf064ee524c03a04197f0f9]{
 -- Page 595, Offset 7162.
 -- 「この、定められた『消滅』が物の『死期』。
-"This pre-determined 'annihilation' is the 'death' of all things.
+// Arc uses 死期 a lot in this file, rendering it differently for clarity
+"This pre-determined 'annihilation' is the 'final hour' of all things.
 }
 [sha:5b4dc88cf235848145217b5cfbb8d46dc56314a0]{
 -- Page 595, Offset 7163.
 -- で、それは初めから在るわけだから、『死期』という概念を理解できる機能、それと回線が合っている脳髄と眼球があるのなら、目で視る事は不可能じゃない」
-Since it has always been there, if you have the power to understand the concept of 'death' and possess a Circuit bridging your brain and eyes, it is not impossible for you to see it."
+Since it's an intrinsic part of everything that exists,
+ if you have the power to understand the concept of this 'final hour' and possess a Circuit connecting your eyes to your brain,
+ it stands to reason that you'd be able to see it visually."
 }
 [sha:d839b5eb72c8615ef8924412dbbc30dc449b4e3a]{
 -- Page 596, Offset 7164.
@@ -432,7 +443,7 @@ If I were to theorize about it in human terms, I'd say that it's something resem
 [sha:7bedd776d10c38028ce750376d41c4c49db950f4]{
 -- Page 596, Offset 7166.
 -- それとも、その個体の死因を発現させる、遺伝子に用意された<自|テ><滅|ロ><装|メ><置|ア>的なスイッチかな」
-Or maybe it's more like a telomere, a self-destructive genetic switch, that manifests the cause of an individual's death."
+Or maybe it's more like a telomere, a self-destructive genetic switch that manifests the cause of an individual's death."
 }
 [sha:4bba28edaa87f124ebedb3dbd04d62260bf87ab1]{
 -- Page 597, Offset 7167.
@@ -442,12 +453,13 @@ Or maybe it's more like a telomere, a self-destructive genetic switch, that mani
 [sha:1b5a890c36ff064fc0bc26c8fed1219cd6100b36]{
 -- Page 597, Offset 7168.
 -- よくそんな状態で今まで生きてこれたものだわ。よっぽどあなたは心が穏やかなんでしょうね、志貴」
-I don't know how you've been able to live all this time in such a state. You must have had a very tranquil heart, Shiki."
+I'm shocked you've managed to make it this far if you can see things like that.
+ You must have had a very tranquil heart, Shiki."
 }
 [sha:3f27780644b21f52380a863472fbbb5df21d51c3]{
 -- Page 598, Offset 7169.
 -- アルクェイドは淡々と語る。
-Arcueid speaks plainly.
+Arcueid's statement is blunt.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 598, Offset 7170.
@@ -457,32 +469,33 @@ Arcueid speaks plainly.
 [sha:fb87f9345c0a46dfe832408ca55a4fbf7de1c41e]{
 -- Page 598, Offset 7171.
 -- 人の気も知らないで、冗談じゃない。
-To be this insensitive, it's beyond the point of being a joke...
+I can't believe that she's really %{i}this%{/i} insensitive.
 }
 [sha:ed46a7af8c6a8e9ad3c331b67523e531611037b2]{
 -- Page 598, Offset 7172.
 -- 俺はコイツの説明を理解しながら、なにひとつ同意したくなかった。
-While I do understand her explanation, I don't want to agree with any of it.
+Even though I understand her explanation, I don't want to acknowledge any part of it.
 }
 [sha:ec3e27012491103d68b997c638fb6abd3b13b378]{
 -- Page 599, Offset 7173.
 -- 「そんなものある筈がないし、まして見える訳がない」
-"There's no way something like that exists, much less that I would be able to see it."
+"There's no way something like that exists, and even if it did I wouldn't be able to see it."
 }
 [sha:f2b2b80ae326639f5ba9171b0cfcd892fdac87ef]{
 -- Page 600, Offset 7174.
 -- 「あなたには視えてるじゃない。
-"But you can see it.
+"But you %{i}can%{/i} see it.
 }
 [sha:03936a926b45c784ae41d222cadaffcdfb7b2b63]{
 -- Page 600, Offset 7175.
 -- 普通、生物は首を切ったら殺されるわ。これは切断したから停止した、という事よね。
-Normally, a creature would be killed if you cut off its head. It would stop moving since it was decapitated after all.
+Normally, a living thing will die if you cut off its head.
+ If you decapitate something, it naturally follows that it'll stop moving, right?
 }
 [sha:da663aea5b5a295f83c755c9c03852179b46071c]{
 -- Page 600, Offset 7176. Mods: @k, @e.
 -- 逆にいえば、首を切断できない生物は殺されないという事になる。
-Conversely, you would say that a creature that can't be decapitated is unkillable.
+Conversely, you could say that a creature that can't be decapitated is unkillable.
 }
 [sha:7a9900e0b3c0efda91a2296c8cf89b4d560367ad]{
 -- Page 600, Offset 7177. Glued. Mods: @x.
@@ -497,17 +510,20 @@ Conversely, you would say that a creature that can't be decapitated is unkillabl
 [sha:b4ba6e8483166b02e6d2a8fc91d2bac0589d26f0]{
 -- Page 601, Offset 7179.
 -- あらゆる外的要因を無効化するモノが相手でも、まず殺す。殺された相手はその後で『死んだ』状態になるんでしょうね。
-Even if you are dealing with an opponent that nullifies every external factor, first of all, kill them. An opponent that is killed must be in a 'dead' state afterward, right?
+// 外的要因 seems to be broadly used as just 'things that can kill you'
+Even if you're up against an opponent that can nullify anything that might be thrown at them, you can skip ahead and 'kill' them.
+ An opponent that's been killed has to be in a 'dead' state afterward, right?
 }
 [sha:e22d918d45888787b30b35813d4726094f60fba8]{
 -- Page 601, Offset 7180.
 -- 切断したから殺害できた、じゃない。
-It's not that you were able to kill them because you severed their head.
+// Head brought in as object for 切断 from above
+It's not like you killed them by cutting off their head.
 }
 [sha:1f51d3639ba2ad591e529dc510e58dd3d84ef148]{
 -- Page 601, Offset 7181.
 -- あなたの場合はモノを殺害したから、その結果として対象が切断される」
-In your case, you kill the thing, and thus, the object becomes severed as a result."
+Rather, you're able to kill them first, and then their head becomes severed as a result."
 }
 [sha:b9f57cbe8caf3427aaa3ce289caade4db8ab78f0]{
 -- Page 602, Offset 7182.
@@ -517,12 +533,14 @@ In your case, you kill the thing, and thus, the object becomes severed as a resu
 [sha:f09e5c9a1266320059a4be3e5723a066edb37b34]{
 -- Page 602, Offset 7183.
 -- 物が切れるだけの線って言うけど、その両目は今まで生まれてきたどんな異能より特異なものよ。
-You say that it's just a line that can be cut, but those two eyes are more unique than any other power that has ever existed until now.
+You say they're just lines where things can be cut,
+ but those eyes of yours are more unique than any other power that has ever existed up until now.
 }
 [sha:c0292e47da842cacabfe77f40a8d075ee22d3241]{
 -- Page 602, Offset 7184.
 -- あなたはね、志貴。あらゆるものを殺してしまう、死神みたいな目を持っているんだから」
-You know, Shiki. You have the ability to kill everything around you, it's as if you have the eyes of the Grim Reaper."
+You see, Shiki―――your eyes grant you the ability to kill everything around you.
+ It's as though you have the eyes of the Grim Reaper."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 603, Offset 7185.
@@ -532,22 +550,23 @@ You know, Shiki. You have the ability to kill everything around you, it's as if 
 [offset:7186]{
 -- Page 603, Offset 7186.
 -- ……そうだ。
-...It's true.
+She's right.
 }
 [sha:57c0ea42b651c36b1708aaebfa28d131c2cb4c35]{
 -- Page 603, Offset 7187.
 -- だから意識しないように、認めないように、今までやってきた。
-That's why I've been trying not to be aware of it, and not to acknowledge it until now.
+I've made it all this way by trying not to be aware of this, by not acknowledging it.
 }
 [sha:c57a0a89abe2fb70e0599f18cb8cd69612da74a1]{
 -- Page 604, Offset 7188.
 -- 本当はずっと前から分かっていた。
-The truth is that I've known this for a very long time.
+But the truth is that I've known this for a very long time.
 }
 [sha:96a2a41967ef213af07db892484aaaa044648c21]{
 -- Page 604, Offset 7189.
 -- アルクェイドの言う通り、この眼は、その命は、世界にとって何かの間違いでしかないのだと。
-Just like Arcueid said, these eyes and this life can't be anything but some kind of mistake in this world.
+Just as Arcueid said,
+ these eyes and this life can't be anything more than a mistake as far as the world is concerned.
 }
 [sha:c85a14703471b77a40db9575344f42a8a88a086c]{
 -- Page 605, Offset 7190.
@@ -557,7 +576,7 @@ Because ever since that day, I've been shown the end of the world.
 [sha:b422e40d61264d7e6ab12925405a380fe64b6b94]{
 -- Page 605, Offset 7191.
 -- あらゆるものが、一秒後には崩れる可能性を知らされていた。
-I've been shown the possibility that everything could fall apart in a second.
+I've been forced to grapple with the possibility that everything could fall apart at any second.
 }
 [sha:b76935a4ba2c242e0ea9e74d1ca7bcb288c3bcfd]{
 -- Page 605, Offset 7192.
@@ -572,12 +591,13 @@ Smothered by these portents of death.
 [sha:3dd9d799ff4094a1e2752deaadc0a625b700a9d4]{
 -- Page 606, Offset 7194.
 -- 「……じゃあ、なにか。
-"...But now what.
+"So... what.
 }
 [sha:aa4bed10106703bc3ca2e89d699997a5326eb1a0]{
 -- Page 606, Offset 7195.
 -- 俺はおまえだって殺せる事になるぞ。なんでも殺す、物騒なヤツなんだからな」
-Then that means I can kill even someone like you. I can kill anything, because I'm a dangerous guy after all."
+That means I can even kill someone like you.
+ After all, I'm a dangerous guy. I'll can kill anything."
 }
 [sha:fc3374ab37ebfd4f987b43c0e456b80720bc88a8]{
 -- Page 606, Offset 7196.
@@ -587,12 +607,12 @@ Then that means I can kill even someone like you. I can kill anything, because I
 [sha:52d25ead3b32bc753bd94f528e45c41fe8df0d3a]{
 -- Page 607, Offset 7197.
 -- アルクェイドは部屋の電気を消すと、窓際に移動した。
-Arcueid turns off the lights in the room and moves to the window.
+Arcueid turns off the lights in the room and walks over to the window.
 }
 [sha:49808b43a8f3180972fdbc5ab30227772ea62726]{
 -- Page 607, Offset 7198.
 -- カーテンが開かれる。
-The curtains are opened.
+She opens the curtains.
 }
 [sha:58b69dd5ba4a23c09532677bdf2901e4e42bad01]{
 -- Page 607, Offset 7199.
@@ -612,27 +632,27 @@ The moonlight streaming through the window casts the shadow of a pale figure.
 [sha:abc6dc0f44c7fa71fd28dafd1eb1d5fe96ffb495]{
 -- Page 608, Offset 7202.
 -- あ、もしかしてその眼鏡で視えないようにしてるの？」
-Oh, could those glasses be preventing you from seeing them?"
+Oh, could it be that you can't see them with those glasses on?"
 }
 [sha:ba990daf56a9fcaf35740aff843ebffd64e38a4d]{
 -- Page 609, Offset 7203.
 -- 「―――いいんだな」
-"―――It's okay, right?"
+"―――Are you sure about this?"
 }
 [sha:4127df4fe65215f8284381d79280a12e128185a2]{
 -- Page 609, Offset 7204.
 -- ……ありえない。
-...Impossible.
+There's no way...
 }
 [sha:9209766b5446abf76e9d3cd3bc9e8355e7d04851]{
 -- Page 609, Offset 7205.
 -- 今まで人前で外す事のなかった眼鏡に手をかける。
-I bring my hand up to take off my glasses, something I've never done in front of anyone else before.
+I place a hand on my glasses. I've never taken them off in front of anyone else before.
 }
 [sha:a1ff179c70072e1c036e40b32d7f48db4ee14b0e]{
 -- Page 610, Offset 7206.
 -- ……アルクェイドの告発を受けて、俺は<自|ヤ><棄|ケ>になっていたんだろう。
-...I guess I've fallen into despair after suffering Arcueid's indictments.
+I guess I've given in to despair after suffering Arcueid's indictments...
 }
 [sha:db6b70180a343966e0a1817c9a7e53c878d4f650]{
 -- Page 610, Offset 7207.
@@ -642,7 +662,7 @@ Spurred on by my violent feelings, I take off my glasses.
 [sha:feb49ff0c5634f354f8644dd7ae8e20223c9f4db]{
 -- Page 611, Offset 7208. Mods: @n.
 -- 部屋中に線が蠢き出す
-Lines start to wriggle around the room
+Lines squirm their way across the room
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 611, Offset 7209. Glued.
@@ -652,7 +672,8 @@ Lines start to wriggle around the room
 [sha:3fd83aeb0cfe296cf88fda355bae463e966c8f65]{
 -- Page 611, Offset 7210. Mods: @n.
 -- ……<視界|せかい>が、死の結末に満ちていく
- ...The world becomes full of the signs of death
+// brims with [the consummation/conclusion] that is death maybe more accurate but a mouthful
+The world brims with death
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 611, Offset 7211. Glued.
@@ -667,37 +688,38 @@ Lines start to wriggle around the room
 [offset:7213]{
 -- Page 612, Offset 7213. Glued. Mods: @x.
 -- え？」
-Eh?"
+Huh?"
 }
 [sha:010570ee168adaa64e924e0265e3c1ffb5c539ca]{
 -- Page 612, Offset 7214.
 -- それは、我が眼を疑いたくなるほどの、奇蹟だった。
-What stood before me was a miracle that made me doubt my own eyes.
+What I see before me is a miracle that makes me doubt my own eyes.
 }
 [sha:b0c599594237eae686fe0a4e1c44ab81a1c07d5a]{
 -- Page 613, Offset 7215.
 -- 窓の外には白い月。
-Outside the window was a white moon.
+A white moon hangs in the sky outside the window.
 }
 [sha:ec3132d6b3572db490bfcf59ecfb34905f1289ca]{
 -- Page 613, Offset 7216.
 -- 昼間は強い陽射しで視えにくい線は、
-The lines that were difficult to look at during the day in the blazing sun,
+The lines, which are hard to see under the harsh light of the sun―――
 }
 [sha:68933663f4763756e14b9a728befc45fa46d8749]{
 -- Page 613, Offset 7217.
 -- 微弱な月の明かりでは光ってさえ視えてしまう。
-can now be seen with ease under just the faint illumination of the moon.
+Are more than just visible under the faint illumination of the moon. They're almost radiant.
 }
 [offset:7218]{
 -- Page 614, Offset 7218.
 -- その中で。
-Among them.
+But among them―――
 }
 [sha:71806f4b26066382d7336032b1df45d4b5c9d5bb]{
 -- Page 614, Offset 7219.
 -- アルクェイドの体にある『線』は、ひどくか細く、意識を集中しなくては見えない程、不確かなものだった。
-The 'lines' on Arcueid's body were so thin and insubstantial that I could only see them if I were to squint my eyes and focus all of my attention on them. It was a peculiar sight to behold.
+The 'lines' on Arcueid's body are so thin and insubstantial that I can barely see them.
+ I have to squint my eyes and pay close attention to make them out at all.
 }
 [sha:7be7ff4cbc955cb349246ec4873f6f13f16e8f51]{
 -- Page 615, Offset 7220.
@@ -707,37 +729,42 @@ The 'lines' on Arcueid's body were so thin and insubstantial that I could only s
 [sha:ed7d5b63fdd494f9d62000d1a2137ed018dc9eba]{
 -- Page 616, Offset 7221.
 -- 「どう？　線はほとんど視えないでしょう？
-"What do you think? The lines are almost invisible, aren't they?
+"What do you see?
+ The lines must be almost invisible, right?
 }
 [sha:96ef3aed6c46d6e82dce065ae8cf9a7e754c6c53]{
 -- Page 616, Offset 7222.
 -- わたしね、夜は『死期』のない生き物なの。
-During the night, I am a creature without a fixed time of death.
+I'm a being whose 'final hour' doesn't exist at night.
 }
 [sha:57488310524e2140c198e001a453268950ae78d1]{
 -- Page 616, Offset 7223.
 -- だからあなたの眼でも殺すことは不可能でしょうね」
-So it would be almost impossible to kill me even with those eyes of yours."
+Because of that, you wouldn't be able to kill me, even with those eyes of yours."
 }
 [sha:e6637352d2186a0c4a26be5351195863b81c076e]{
 -- Page 617, Offset 7224.
 -- 「んー、それでもちょっとは視えちゃうのかなぁ。
-"Mmm, but even then, I suppose you might still catch a small glimpse.
+"Mmm, on second thought, I suppose you might still be able to catch a glimpse of them.
 }
 [sha:24622abce9fec857e6965fd0cbb19b2b18d5097d]{
 -- Page 617, Offset 7225.
 -- 夜は死なないわたしだけど、昼間は多少の死期ができてしまう。その弱点をつかれてわたしはあなたに殺された。あの時は大仕事の後だったし、即死耐性も落ちてたしね」
-Although I cannot die at night, it is still possible to kill me during the day. It's due to that weak point that I was killed by you. There is also the fact that I had just finished a big task, which made my resistance to instant death lower."
+Even though I can't be killed during the night, I still have a 'final hour' during the day.
+ That weak point is what allowed you to kill me earlier.
+ To make matters worse I'd also just finished a big job, so my resistance to instant death was lower than usual."
 }
 [sha:79c980c949f82cc5fe8a730619a0ea7f4b2a9f81]{
 -- Page 618, Offset 7226.
 -- 「結果、わたしはあなたに殺されて、この通り、夜でも『死期』ができるほど弱ってしまった。
-"As a result, I was killed by your hands, and as you can see, I've grown weak to the point where I can 'die', even at night.
+"At any rate, you ended up killing me,
+ and so as you can see I've ended up weak enough that I have a 'final hour' even at night.
 }
 [sha:8f12faabc990302832700279fbb1200c6489e540]{
 -- Page 618, Offset 7227.
 -- ようするに不老不死でなくなったワケだけど、志貴、わたしの体の線が切れる？」
-In other words, although I am no longer immortal, Shiki, would you be able to cut the lines on my body?"
+In other words, I'm not really immortal anymore, but―――
+Shiki, do you think you'd be able to cut the lines on my body?"
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 619, Offset 7228.
@@ -747,57 +774,59 @@ In other words, although I am no longer immortal, Shiki, would you be able to cu
 [sha:3e5ae5656f27c10b314425c66dbc8f435d5bfd7f]{
 -- Page 619, Offset 7229.
 -- ……どうだろう。
-...I wonder.
+I'm not so sure...
 }
 [sha:61fc0bb5dedb3b563378038fae7f5dc704ec26e5]{
 -- Page 619, Offset 7230.
 -- たしかに線があるんだから切れるとは思う。
-It's true that I can cut anything if a line exists.
+It's true that I can cut anything that has a line through it.
 }
 [sha:82906c820965dc8b38face42e9cfcb6e728e0917]{
 -- Page 619, Offset 7231.
 -- けれど、あの時のように鮮やかに、一秒もかけずに切断するのは出来そうにない。
-But I don't think I'll be able to cut them as deftly as I did back then in less than a second.
+Even so, I don't think I'd be able to cut them as deftly as I did back then,
+ running them through in under a second.
 }
 [sha:a91214e083fdc38ca021141bb3a7e2b62b0b8ce9]{
 -- Page 620, Offset 7232.
 -- 「……やりにくいと思う。線が見えたり見えなかったりするから、アルクェイドが眠ってでもいないかぎり、できない」
-"I think it will be hard to do... The lines keep appearing and disappearing, so I could only do it while you are asleep."
+"I think it'd be pretty hard...
+ The lines keep appearing and disappearing, so I probably couldn't do it unless you were asleep."
 }
 [sha:e672024f9ad3ea95cb30e83f3c6f77a96f79264e]{
 -- Page 621, Offset 7233.
 -- 「でしょう？　それがあなたの最大の欠点ね。
-"I know, right? That there is your biggest flaw.
+"Right? That right there is your biggest flaw.
 }
 [sha:8e444c1d3cfafacf39126f598227f5242cea6afc]{
 -- Page 621, Offset 7234.
 -- どんなに『死』が見えていようとも、その『線』を引くのは志貴自身の腕じゃないといけない。
-No matter how much you see 'death', it is meaningless if you can't reach those 'lines' with your own hands.
+It doesn't matter how well you can see 'death' unless you're able to reach those 'lines' with your own hands.
 }
 [sha:6ffdb4a079e17255cc966a7a74aabc6ef02af39a]{
 -- Page 621, Offset 7235.
 -- いくらわたしが弱ってるからって、志貴に捕まるほど運動能力は低下してないもの」
-No matter how weak I get, my physical ability will never fall to the point that you could catch me."
+I may be weak right now, but I'm far from being so feeble that you'd be able to catch me."
 }
 [sha:9a4f05181e13f0759018b35b80ecdbeb6eb8314c]{
 -- Page 622, Offset 7236.
 -- ……そっか。
-...I see.
+I see...
 }
 [sha:d3043b3492e436fc14aeb7b578046e18b38b3065]{
 -- Page 622, Offset 7237.
 -- 言われてみれば、俺はすばしっこく動きまわる動物には追いつけないし、捕まえられない。
-Now that she mentions it, I wouldn't be able to keep up with a fast-moving animal, much less catch it.
+As she says, there's no way I'd be able to keep up with a nimble animal, much less catch one.
 }
 [sha:481d1341050a22cfb4fb462ef09d3f5a2fa1463a]{
 -- Page 622, Offset 7238.
 -- 捕まえられない以上、線に触れる事もできない。
-If I can't even catch a target, then touching its lines would be out of the question.
+And I can't lay a finger on their lines if I can't even catch them in the first place.
 }
 [sha:f6655173f37c988981bdf3975f083bc5d15c09a0]{
 -- Page 623, Offset 7239.
 -- つまり、こんな『線』が見えていても、動くモノは殺せない。
-In other words, even if I can see these 'lines', it doesn't mean that I can kill a moving target.
+To sum it up, even if I can see these 'lines', it doesn't mean that I can kill a moving target.
 }
 [sha:1bafed35d1fe115beb4d101b3477b76556266d65]{
 -- Page 623, Offset 7240.
@@ -827,12 +856,12 @@ Aah, but even so――――
 [sha:b2115ed712e3b0c012912a28d0436218ea5c5309]{
 -- Page 625, Offset 7245.
 -- そんな当たり前の事がどうでも良くなるぐらいに、
-How can I give any thought to such ordinary concerns,
+There's no way I can spare any thought for such ordinary concerns.
 }
 [sha:2829988b0881b984a7a002cf32734f174e110378]{
 -- Page 625, Offset 7246.
 -- ありえないものを視ている。
-when I gaze at the unimaginable sight before me.
+Not with an unimaginable sight like this before me.
 }
 [sha:39d37be17f9acc74401180af6acd477bc35e97e7]{
 -- Page 626, Offset 7247.
@@ -842,17 +871,17 @@ A beautiful flower suffused with moonlight.
 [sha:99bcbd6189deca6906f757a3150ce0cc25ac042e]{
 -- Page 626, Offset 7248.
 -- ……そうだ。俺は永遠が欲しかった訳じゃない。
-...That's right. It's not that I want eternity.
+That's right... I don't want eternity or anything like that.
 }
 [sha:4dac3707576d80889c6c97f969d5529eac77df93]{
 -- Page 626, Offset 7249.
 -- ただ、こんな自分でも触れられるものがあると、
-I just wanted to live holding on to the hope.
+But, the thought of something in this world that even I can touch―――
 }
 [sha:37c3a218eabcd873a60ec5324ac5b9adaae2e8c4]{
 -- Page 626, Offset 7250.
 -- 希望を持って生きていたくて―――
-The hope that even a person like me could feel something―――
+I want to live holding onto that hope.
 }
 [sha:494ce6ff44458e5750f9d0cb0a2d6461c3ca48b3]{
 -- Page 627, Offset 7251.
@@ -862,12 +891,13 @@ The hope that even a person like me could feel something―――
 [sha:9f2ea96536a2b17bdcb2e1246b6a0e0febbdbd84]{
 -- Page 627, Offset 7252.
 -- ずきり、と頭痛が走った。
-I feel a headache coming on.
+I feel the sudden twinge of a headache.
 }
 [sha:ad578a70a479ff95aa4d81e4523a837595d0c90d]{
 -- Page 627, Offset 7253.
 -- 線を見ていると頭痛が起きる。眼鏡をかけて、奇蹟のような光景から、もとの視界に切り替える。
-Looking at all these lines gives me a headache. I put on my glasses, switching back from that miraculous spectacle to my ordinary vision.
+Looking at all these lines gives me a headache.
+ I put on my glasses, and the miraculous scene before me fades back to reality.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 628, Offset 7254.
@@ -877,17 +907,17 @@ Looking at all these lines gives me a headache. I put on my glasses, switching b
 [sha:c5e4a2c93efd4742e7472c7b4ac18f3ffc401334]{
 -- Page 628, Offset 7255.
 -- アルクェイドは不審げにこちらの様子を見つめている。
-Arcueid is staring at me with suspicion.
+Arcueid is eyeing me suspiciously.
 }
 [sha:6981c731e3f7dfd75df949de46a65dfbc58cda81]{
 -- Page 629, Offset 7256.
 -- 「……なんだよ。まだ何かあるのか」
-"...What is it? Is there something else you want to say?"
+"What...? Is there something else you want to say?"
 }
 [sha:76f1f576b6a0fc141649898331d7bc0618d70227]{
 -- Page 630, Offset 7257.
 -- 「ううん、そうじゃなくて。
-"No, it's not like that.
+"No, that's not it.
 }
 [sha:082f7efbd773777ca2e98b9cdc67f596b46ebc4d]{
 -- Page 630, Offset 7258.
@@ -897,32 +927,38 @@ Do you not see the lines if you wear those glasses?"
 [sha:e5b56d6e0ae081f462015f0a22ed9c6ddb7fc319]{
 -- Page 631, Offset 7259.
 -- 「……まあ、そうだけど。
-"...Well, yeah.
+"Ah... yeah.
 }
 [sha:7af0babadc7d0502c406f9e1bdf68d0f8bfcd74d]{
 -- Page 631, Offset 7260.
 -- 昔、俺の眼がこうなった時に出会った人がくれたんだ。
-They were given to me by a person I met a long time ago when my eyes became like this.
+They were given to me by someone I met a long time ago, back when my eyes first became like this.
 }
 [sha:7ab7bfbb85bc6cce45c6d2a29258b90f09cbe109]{
 -- Page 631, Offset 7261.
 -- 今じゃレンズだけしか使ってないけど、これのおかげでなんとか普通に生活が送れてるんだよ」
-Nowadays only the lenses are original, but thanks to these I'm somehow able to lead a normal life."
+Only the lenses are original at this point,
+ but it's thanks to these that I'm able to lead a normal life."
 }
 [sha:d644f63a6554038f056ffb5867aee1b1add5e440]{
 -- Page 632, Offset 7262.
 -- 「そっか、そうよね。
-"Is that so? I see.
+"I see, I guess that makes sense.
 }
 [sha:3455e5082f0aa2806a55bed5e684c06ded62f47a]{
 -- Page 632, Offset 7263.
 -- どんなに強い心があったって、死とずっと向き合っていたら発狂するか、眼球を潰すしかないものね」
-No matter how strong your mind is, you would go insane or gouge out your eyes if you had to look at death all the time."
+It doesn't matter how strong your mind is,
+ you'd eventually either go insane or gouge your eyes out if you had to look at death all the time."
 }
 [sha:97543b324f97f6baf724f0b91c9b9b2ce9e2af87]{
 -- Page 633, Offset 7264.
 -- 「……あのな。さっきから言いたい放題、物騒なことばっかり言いやがって。少しは遠慮してくれ。あと近い。止まれ。いいからそこで止まれ。止まらないと花瓶投げるぞ！」
-"...Look here. You've been spouting off about some disturbing stuff for a while now. At the very least give me a break. Also, you're close. Stop. Just stop right there. I'll throw a vase at you if you don't stop!"
+"Excuse me... You've been spouting off about some disturbing stuff for a while now.
+ Please just give me a break already.
+ Also, you're way too close.
+ Stop. Just stop right there.
+ I'll throw a vase at you if you don't stop!"
 }
 [sha:2302a33cd0c2baa090282fee31a49ab65fac9f02]{
 -- Page 634, Offset 7265.
@@ -937,7 +973,7 @@ However, my threat was entirely ineffective against the big cat in front of me, 
 [sha:171a45c0ad2fffa3b4babd5a9956b91f8ecb8e3f]{
 -- Page 635, Offset 7267.
 -- 「ね。それ、見せて」
-"Hey. Those glasses, let me see them."
+"Hey. Lemme see those for a sec."
 }
 [sha:c650c2e5db05d78f2aaf460eac25a8131ddd1f96]{
 -- Page 635, Offset 7268.
@@ -972,5 +1008,5 @@ I―――
 [sha:71b938ad3f107f1d23b62c54a730c8cec1c4e7bb]{
 -- Page 638, Offset 42609. Choice.
 -- ……いや、その手には乗らないぞ。
- ...No, I'm not handing them over.
+ Refuse... No way am I handing these over.
 }
