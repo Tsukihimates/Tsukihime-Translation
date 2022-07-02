@@ -6,7 +6,7 @@ A block of ice flies through the air.
 [sha:efbe3541a9d283afe5a7012bf6c796c0326b4250]{
 -- Page 10020, Offset 10261.
 -- 氷は槍と化し、弾丸となって俺の頭を撃ち抜きにくる。
-The ice forms a spear, a bullet fired to blow my brains out.
+The ice forms a spear, a missile fired to blow my brains out.
 }
 [sha:2137364e61652b5021e6e0278a226a2a07347df1]{
 -- Page 10020, Offset 10262.
@@ -21,7 +21,7 @@ Do I continue to hide it, or do I cast away my only weapon?
 [sha:dbc9727c1a53c00d01a05c67b6a58df70135eb78]{
 -- Page 10020, Offset 10264.
 -- その判断を無意識の内に決定する。
-I subconsciously make a decision.
+I make my decision subconsciously.
 }
 [sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
 -- Page 607, Offset 10265.
@@ -41,12 +41,13 @@ Fully immersed, I focus my eyes on the deadly weapon.
 [sha:57b651df29471a38447c517d0d3e0a7ca5ee1d4a]{
 -- Page 607, Offset 10268.
 -- あの線が“存在の死”だというのなら。
-If those lines represent the 'death of existence',
+If those lines represent the 'death of existence'―――
 }
 [sha:3d3cac62463ef196196b04e0d105395c3b7cc61c]{
 -- Page 607, Offset 10269.
 -- 槍という在り方を、撃ち出された慣性を、氷点下の結合を、俺の寸前で殺し切る……！
-then I will kill the form, the inertia, and the sub-zero bonds of the spear right in front of me...!
+then I will kill the form, the inertia,
+ and the sub-zero bonds of the spear right in front of me...!
 }
 [sha:9161b96ae1ca756f1547b7799704a58ec1eead98]{
 -- Page 608, Offset 10270.
@@ -56,12 +57,14 @@ Death grazes my temple.
 [sha:ba0ce40d643c75f3d41767d28f9dd87fbd0abad8]{
 -- Page 608, Offset 10271.
 -- 飛んでくる氷塊にナイフを合わせる。人間とて野生の獣。その程度の動体視力と反応速度は遙か昔に備わっている。
-I match my knife to the soaring icicles. A man is but a wild beast. We were equipped with such kinetic vision and reflexes a long time ago.
+I match my knife to the soaring icicles.
+ Man is but a wild beast.
+ We were equipped with such kinetic vision and reflexes long ago.
 }
 [sha:b369eb1df6e15ca5b92d0d601e0886e064372652]{
 -- Page 609, Offset 10272.
 -- 体がまだ満足に動くのなら、この程度の凶器は大きいだけの<礫|つぶて>と同じだ。
-If my body can still move adequately, then a weapon like this is no different than a giant pebble.
+If my body can still move adequately, then a weapon like this is no different from a giant pebble.
 }
 [sha:27221af05b9ff42bf73459f22ea9f2dce6054e6f]{
 -- Page 609, Offset 10273.
@@ -86,12 +89,13 @@ They tell me that he saw it.
 [sha:be7a11dfc2fdd6da709be7ab0942e830796a7edd]{
 -- Page 610, Offset 10277.
 -- 理由も理屈もどうでもいい。ただ、貴様を二度とそこから先には進ませない、と。
-They tell me that things like reason or logic don't matter. He simply won't let a bastard like me get close a second time.
+They tell me that things like reason and logic don't matter.
+ He simply won't let a bastard like me get close a second time.
 }
 [sha:90e735f10e319214627d5b4ef88f9e79091031b0]{
 -- Page 611, Offset 10278.
 -- これで完全に、俺は勝負手を失った。
-With that, I am completely out of moves.
+With that, I've lost my path to victory.
 }
 [sha:02ac5f6da9c85601f96f00fb1184d13ae9fc52c8]{
 -- Page 611, Offset 10279.
@@ -116,7 +120,7 @@ The only way to survive was to expose my hand here.
 [sha:94f2698f1cc3926d8b48640b3717e89d00a433e9]{
 -- Page 611, Offset 10283.
 -- だから、その代わりに得るものを、全霊で探すしかない。
-That's why I have to search with all my might for what I can get in return.
+That's why I have to search with my entire being for what I can get in return.
 }
 [offset:10284]{
 -- Page 612, Offset 10284.
@@ -131,17 +135,21 @@ I cut it down with the least amount of movement possible.
 [sha:79632ec6f4a700aa3f8a05e462cc6fde716ff296]{
 -- Page 612, Offset 10286.
 -- もう近寄る術はなくとも、限界まで<動力|たいりょく>を温存する。
-Even if there's no way to get close to him, I'll try to conserve as much energy as I can.
+Even if there's no way to get close to him,
+ I'll still try to conserve as much energy as I can.
 }
 [sha:c8eb6a766ad445e49656618083c32b76fcfdc875]{
 -- Page 613, Offset 10287.
 -- 活動限界まで残り２分。
+// B: hm, on line 10208 he doesn't even have 1 minute and now he has
+// 2? Can someone check this one and that line and tell me
+// what I'm missing?
 Two minutes left until I reach my limit.
 }
 [sha:b0c25acb6c68e14dc75eefd7fe0850005be88270]{
 -- Page 613, Offset 10288.
 -- ―――興奮が恐怖を駆逐する。
-―――The sense of excitement drives away my fear.
+―――The excitement drives away my fear.
 }
 [sha:44fd05b50e0ec64e8cc47e45e6b646a53732b565]{
 -- Page 613, Offset 10289.
@@ -171,32 +179,35 @@ There is a small gap in the icy barrage.
 [sha:8fbb55470fb22de79039802566eff8999bd652db]{
 -- Page 615, Offset 10294.
 -- ヤツは自身から溢れる寒波を一点に集中させ、より低温の渦を作り、
-The man concentrates the cold waves flooding out of himself into a single point, creating an even colder vortex.
+The man concentrates the cold waves flooding out of himself into a single point,
+ creating an even colder vortex.
 }
 [sha:7d625d9d4be47ebd4874f241fae7e6d08043584e]{
 -- Page 616, Offset 10295.
 -- 「“……惜しいが、ただ死ね。
-"...It's a shame, but die.
+"...It's a shame, but... die.
 }
 [sha:7b9a199eb523ca9a291bfc37667d345abf4704b6]{
 -- Page 616, Offset 10296.
 -- あまり、おれの胸を躍らせるな”」
-Don't go and make my heart pound like that."
+Don't go and... make my heart... pound like that."
 }
 [sha:603ec6af258754da2a112ac76303f7d2ceac9d36]{
 -- Page 616, Offset 10297.
 -- 凍った大気を滑る滑車のように、氷塊を撃ち出してくる……！
-Chunks of ice shoot toward me as though gliding down a zip line that cuts through the frozen atmosphere.
+Chunks of ice shoot toward me as though gliding down a zip line,
+ cutting through the frozen atmosphere.
 }
 [sha:daaed804d79ec2bc2c6836a120b140e6178d1b39]{
 -- Page 617, Offset 10298.
 -- 凶弾を斬り落とす。
-I slice through the murderous bullets.
+I slice through the assassin's bullets.
 }
 [sha:5b919c5a553ae5b5479e9570fa5d1d30d2935aca]{
 -- Page 617, Offset 10299.
 -- アルクェイドの前に立っているかぎり、撃ち出されたものはここで止めるしかない。
-As long as I'm standing in front of Arcueid, I have no choice but to stop the things that are being fired.
+As long as I'm standing in front of Arcueid,
+ I have no choice but to stop the objects that being fired in our direction.
 }
 [sha:aa212aeb8dc442b8b277b5ef5f5feacb81ec6272]{
 -- Page 618, Offset 10300.
@@ -206,7 +217,7 @@ At this range, it takes 1.5 seconds for the ice spears to reach me.
 [sha:e6f1f99da7dda05fb803ce9e4ac547a8a6ef289a]{
 -- Page 618, Offset 10301.
 -- 体が動くうちはこの状態を維持できる。
-I can keep this up for as long as my body moves.
+I can keep this up for as long as my can keep moving.
 }
 [sha:364edd23094434630d01d5e06329edd7438b18a3]{
 -- Page 618, Offset 10302.
@@ -221,12 +232,16 @@ Vlov hasn't taken a single step.
 [sha:c337cab86cbd9948cf2f0237906918b99af38af3]{
 -- Page 619, Offset 10304.
 -- なぜ動かないのか。俺が脅威だと察した以上、手を抜く理由はない。となると逆だ。飛び道具があるから動く必要がないのではなく、そもそもヤツは<あ|・><の|・><状|・><態|・>になると動けないのではないか、と仮説を立てる。
-Why is he not moving? If he thinks I'm a threat, then there's no reason to ease up. If anything, it should be the opposite. I predict that it's not because he doesn't need to move due to having projectiles, but rather that he can't move when he's in this state.
+Why is he not moving?
+ If he thinks I'm a threat, then there's no reason to ease up.
+ If anything, it should be the opposite.
+ I predict that it's not because he doesn't %{i}need%{/i} to move thanks to his projectiles, but rather that he %{i}can't%{/i} move when he's in this state.
 }
 [sha:3272ec29c17fa6e489af8c4d53a84fcded6ba1ab]{
 -- Page 620, Offset 10305.
 -- ヤツはアルクェイドに追い込まれ、血液という燃料を使い果たした。あの冷気は、死に瀕した怪物の、最後の自衛手段と見るべきだ。
-He was driven into a corner by Arcueid and ran out of the blood that fuels him. That cold air must be the final self-defense mechanism of a monster on the verge of death.
+He was driven into a corner by Arcueid and ran out of the blood that fuels him.
+ That cold air must be the final self-defense mechanism of a monster on the verge of death.
 }
 [sha:5dbf4a1eac6635edf0a2d9a53d68fe6a8a574582]{
 -- Page 621, Offset 10306.
@@ -241,7 +256,8 @@ The immobilized Vlov protects himself by deploying a curse in all directions.
 [sha:91bc5eb1efbc27374f185c5816bd273eda479a66]{
 -- Page 621, Offset 10308.
 -- 高温だろうと低温だろうと、生き物であればヤツに近寄るだけで絶命する。
-Regardless of whether it's hot or cold, any living thing that comes close to him will die.
+Regardless of whether it's hot or cold,
+ any living thing that comes close to him will die.
 }
 [sha:6bcdbd71d6b36a5bd1a732c7482f9c66dcb1ca63]{
 -- Page 622, Offset 10309.
@@ -251,22 +267,27 @@ You would freeze to death in two seconds if you got within ten meters of him.
 [sha:730cd12c4670d0fe2937138f0711e42e0b764633]{
 -- Page 622, Offset 10310.
 -- このままではいずれ俺も倒れる。雪山で遭難した人間が眠ってしまうのと同じだ。人の場合、体温が摂氏34度以下、あるいは摂氏43度以上で脳細胞が停止し、意識が消失してしまう。
-At this rate, I'll eventually fall as well. It's no different to how people struck by disaster in the snow-capped mountains eventually succumb to sleep. When a human's body temperature is below 34℃ or above 43℃, their brain cells shut down and they fall unconscious.
+// 遭難した人間 is "disaster-ed humans" but taking it closer to the meaning in
+// 「遭難信号」 and 「遭難救助隊」 to just be "trapped" in this context.
+At this rate, I'll eventually fall as well.
+ It's the same as humans trapped in the snow-capped mountains succumbing to sleep.
+ When a human's body temperature is below 34℃ or above 43℃, their brain cells shut down and they fall unconscious.
 }
 [sha:cf98ebe1016d917a0ac16c35b0ba0637d50b5484]{
 -- Page 623, Offset 10311.
 -- 個でなく全体を観察する。
-Rather than focusing only on Vlov, I observe his surroundings as well.
+Rather than focusing solely on Vlov, I observe his surroundings.
 }
 [sha:f08f1e1ff86841835851b035426366de1e085523]{
 -- Page 623, Offset 10312.
 -- 思考は挟まず、視た瞬間にナイフを自動的に滑らせる。
-Without interrupting my thoughts, I let the knife slide automatically the moment I see something.
+Without interrupting my thoughts,
+ I let the blade slide out automatically the moment I see something.
 }
 [sha:97e20a1dd483fabaa2b70f0f2e224868c853a4d8]{
 -- Page 624, Offset 10313.
 -- ―――その中で、先ほどの推測を修正する。
-―――During the process, I revise the conjecture that I had made earlier.
+―――From that train of thought, I revise the conjecture that I had made earlier.
 }
 [sha:709f77958adc7d5d35a50531938ab15b9e32fb33]{
 -- Page 624, Offset 10314.
@@ -281,17 +302,20 @@ But is the density really as uniform as I thought?
 [sha:8e1306ecf2feabf047d5ec00ae4ea2263ac86210]{
 -- Page 625, Offset 10316.
 -- 地表が最も低温だという事は、寒波の中にも温度差はある。強いか弱いかの基準ではあるが欠点は存在する。
-The fact that the floor is the coldest area means that there is a difference in temperature even within the cold wave. There's still the matter of whether the wave is wholly strong or weak, but importantly, it's not perfect.
+// re-check second sentence please.
+The fact that the floor is the coldest area means that there is a temperature gradient.
+ Whether it's fundamentally strong or weak, %{i}some%{/i} fault exists.
 }
 [sha:9fca662f98d48850c89c7660e4e43dffa9f494cd]{
 -- Page 625, Offset 10317.
 -- あれは全方位に向けた守りだが、全方位に対して無敵という訳ではなく―――
-It may protect him from all directions, but that doesn't mean it makes him invincible all around―――
+It may protect him from all directions,
+ but that doesn't mean his invulnerability is uniformly perfect―――
 }
 [sha:e758b16d1d39fc9c85ea8d61d543b04c4e96771a]{
 -- Page 626, Offset 10318.
 -- 「“……死の淵で主を守るか。勇ましいが、限界だ”」
-"...So you protect your master on the brink of death. How brave, but futile."
+"...So you protect your master on the brink of death. Your bravery is... futile."
 }
 [sha:4605e187bf6d1707578cc681a8089ab5696845d7]{
 -- Page 626, Offset 10319.
@@ -301,7 +325,8 @@ The long lance that struck down Arcueid is drawn from the shadows once again.
 [sha:facec4426913d6b6e204cb421a5825c33dc9f5e4]{
 -- Page 626, Offset 10320.
 -- それが呼び水になったのか、ヤツの背後にひときわ大きな樹氷が枝を張り―――
-Perhaps he was just warming up before, because behind him, a remarkably large ice tree sprouts branches―――
+Perhaps he was just warming up before, because behind him,
+ a great tree of ice sprouts branches―――
 }
 [sha:f2a291a4288802ab48a57b8a73ec1e1f093daa05]{
 -- Page 626, Offset 10321.
@@ -357,7 +382,7 @@ The total number of prey deployed is twenty-six.
 [sha:c13bb35012597a05647d36fd0a1edcd6bcb72bf0]{
 -- Page 628, Offset 10331.
 -- 何を先に斬り、何を見逃すかを平面図のまま凝視する。
-I continue to stare as I develop a strategy for what I should cut first and what I can avoid.
+I continue to stare as I develop a strategy for what to cut first and what to avoid.
 }
 [sha:7c603376b1563fe8819bd3a1f08d1a3317bdd25a]{
 -- Page 628, Offset 10332.
@@ -387,7 +412,7 @@ The wall of death looms before me.
 [sha:fb63a087c225a330840bc52c3367017288e03429]{
 -- Page 629, Offset 10337.
 -- だが見えた、いま、確かに同じものを視た。
-But I saw it. Just now, I saw the exact same thing that I've seen before.
+But I saw it. What I saw just now, I've seen it before.
 }
 [sha:e57b3b4356dfc68853dcbffe1d0a52d94eb412b9]{
 -- Page 629, Offset 10338.
@@ -437,7 +462,7 @@ The cells in my legs are being destroyed due to the ultra-low temperature.
 [sha:6ddfcd95418ccde8b4aa62d0aa792d05eadb82b3]{
 -- Page 630, Offset 10347.
 -- 指先がかじかむ。手足は思うように動かなくなる。
-My fingertips grow numb. My limbs do not move as I order them to.
+My fingertips grow numb. My limbs don't move as I want them to.
 }
 [sha:b9b1e8faa8ecf066f2d70a4006aeea0acbfa06a6]{
 -- Page 631, Offset 10348.
@@ -458,12 +483,14 @@ A losing battle with no chance for victory.
 [sha:fa11079e9152662a915480daabff5bc7cdeb5e41]{
 -- Page 631, Offset 10351.
 -- どのみちあと１分で殺される自分。
-A situation where I will die in a minute no matter what.
+A situation where I will die in a minute, no matter what.
 }
 [sha:d495ceb058d8c9d0dc854b584f0e6f362a68ae8d]{
 -- Page 631, Offset 10352.
 -- ヴローヴも、アルクェイドも、もしこの惨状を眺めている何者かがいても、誰もが俺の死を疑うまい。
-Neither Vlov, nor Arcueid, nor whoever else happens to watch this mess unfold will doubt my inevitable death.
+Neither Vlov,
+ nor Arcueid,
+ nor whoever else happens to watch this mess unfold, will doubt my inevitable death.
 }
 [sha:e44aef1cc159be7c23c0e512d5146abc7e7fb4ca]{
 -- Page 631, Offset 10353.
@@ -528,17 +555,18 @@ How is she unhurt after taking a direct hit to the face? This woman.
 [sha:0554d8c4671d60e1af4bcb6114ca662da20bb80c]{
 -- Page 635, Offset 10365.
 -- アイツがデタラメな生き物だと承知していたが、改めて絶句する。
-I knew that she was a ridiculous creature, but once again, I am amazed.
+I knew that she was a nonsensical creature, but once again, I'm speechless.
 }
 [sha:4eef21887f84d30cd06327ed25353c06b98508aa]{
 -- Page 635, Offset 10366.
 -- アルクェイドは片手を地面にめり込ませ、ショベルで地面をすくうように土塊を持ち上げた。
-Arcueid plunges her bare hand into the ground and lifts a chunk of earth as though scooping it up with a shovel.
+Arcueid plunges her bare hand into the ground and lifts a chunk of earth,
+ as though scooping it up with a shovel.
 }
 [sha:1c1bdb5141eefd033c545938ebc034ad05e4ed4f]{
 -- Page 636, Offset 10367.
 -- そのまま、痛いじゃない、と言わんばかりに岩盤をヴローヴめがけて投げつける。
-She then aims the bedrock at Vlov and throws it as if to say 'that doesn't hurt at all'.
+She then aims the bedrock at Vlov and throws it as if to say 'that didn't hurt at all'.
 }
 [sha:ec8e844cbcb560f41707db1a549b6878e278266a]{
 -- Page 637, Offset 10368.
@@ -553,7 +581,7 @@ Vlov is unharmed.
 [sha:a638100b4e48b4c2f7639d2abab2527a4269785b]{
 -- Page 637, Offset 10370.
 -- やはり単純な凶器でヤツを仕留める事はできない。
-As expected, you can't kill him with such a simple attack.
+No surprise, you can't kill him with such a simple attack.
 }
 [sha:c37e90ecc0a72f64a06cf93e10abe0247d64c58f]{
 -- Page 637, Offset 10371.
@@ -573,7 +601,9 @@ We have already come to a conclusion.
 [sha:5dee1b6ca2e954ccf0af6040b75de674621caa23]{
 -- Page 638, Offset 10374.
 -- 殺害方法は一つきり。俺の体が寒波で停止する前に近づければ、ヤツを確実に殺しうる。
-There is only one way to kill him. If I can get close enough before the cold wave stops my body, I can kill him with absolute certainty.
+There is only one way to kill him.
+ If I can get close enough before the cold wave stops my body,
+ I can kill him with absolute certainty.
 }
 [sha:ade9b476930fead95240b77a25c4d1dbcdc93096]{
 -- Page 639, Offset 10375.
@@ -583,12 +613,15 @@ But how?
 [sha:5448949f0794f69edc1d8793fb70880ee9d68ace]{
 -- Page 639, Offset 10376.
 -- この距離を２秒以内でゼロにするには、俺の脚では遅すぎる。もっと速い何かの助けがほしい。
-My legs are too slow to be able to close that distance within two seconds. I need the help of something faster.
+My legs are too slow to be able to close that distance in two seconds.
+ I need the help of something faster.
 }
 [sha:6eac26f99cc920c05575dd802cd78a370b83b19d]{
 -- Page 639, Offset 10377.
 -- より万全を期すのなら超低温の薄い部分からヤツの圏内に侵入したい。とてもじゃないが、<自|・><分|・><の|・><脚|・><な|・><ど|・><使|・><っ|・><て|・><は|・><い|・><ら|・><れ|・><な|・><い|・>。
-If we want to be more certain, I need to invade through the weakest section of his ultra-cold sphere. I cannot simply use my own legs for this.
+If we want to be more certain,
+ I need to invade through the weakest section of his ultra-cold sphere.
+ I cannot simply use my own legs for this.
 }
 [sha:6cb5d0910bec8940fa42dd7f6cf93de0cbdbca81]{
 -- Page 640, Offset 10378.
@@ -598,12 +631,12 @@ I will die for sure if I do nothing. I have no choice.
 [sha:3eaacdb34fdf16446d5003379a13ea6e278fa960]{
 -- Page 640, Offset 10379.
 -- 考慮するのは“自分にできるか”ではなく、
-It is not a matter of whether I can kill him.
+It is not a matter of %{i}if%{/i} I can kill him.
 }
 [sha:47c9ff593a8be3c02457ac862c1d3eaad3b51c0f]{
 -- Page 640, Offset 10380.
 -- “どの方法なら殺せるか”だ。
-It is a matter of how I can kill him.
+It is a matter of %{i}how%{/i} I can kill him.
 }
 [sha:55223c9ede27228eb3cf55feaa0065fd89abc45f]{
 -- Page 641, Offset 10381.
