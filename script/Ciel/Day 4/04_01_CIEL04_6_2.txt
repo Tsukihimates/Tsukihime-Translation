@@ -6,17 +6,18 @@
 [sha:388b18494161dd900f2c5a612319e5c916065e01]{
 -- Page 141, Offset 8531.
 -- 先生は言っていた。
-Sensei once told me.
+Sensei told me something once.
 }
 [sha:4ef74b5874174ae8ad5ad017c23111f7dfc4ea95]{
 -- Page 141, Offset 8532.
 -- ……聖人になれ、なんて事は言わない。
-...I'm not asking you to be a saint.
+// Match offset 451.
+'I'm not asking you to be a saint.
 }
 [sha:ca1c3ba175ac5ceb61349987e5688dfc0de1d060]{
 -- Page 141, Offset 8533.
 -- 君は君が正しいと思う大人になればいい、と。
-You can become the person you think is right, she said.
+You can be the person you think is right.'
 }
 [sha:22043edef71c3052e214b121cad4bd106289e760]{
 -- Page 142, Offset 8534.
@@ -26,32 +27,32 @@ I know I'm not thinking straight at the moment, but I can't betray her trust.
 [sha:bd42b2c95621a01e67c66b61389e8c2f4b31f855]{
 -- Page 143, Offset 8535.
 -- アルクェイドが人間じゃないとしても、こんな俺を信用してくれた。
-Even if Arcueid isn't human, she still believed in me.
+Arcueid may not be human, but she still believed in me.
 }
 [sha:a5eaea0248d834e9f87daec1059f64eed969d08d]{
 -- Page 143, Offset 8536.
 -- 決して許されない遠野志貴の罪を、笑顔で許すと言ってくれたんだ。
-She forgave my unforgivable sin with a smile on her face.
+She forgave Tohno Shiki's unforgivable sin with a smile on her face.
 }
 [sha:4abae63caa299c818bd3f5ec65f3dc7a8ecf9d33]{
 -- Page 143, Offset 8537.
 -- なら―――自分の命ぐらい笑って差し出すぐらいはしなくちゃ人間として恥ずかしい。
-If that's the case―――then I should be ashamed of myself as a human being if I don't return that smile as I offer up my own life.
+If she can do that―――then I should be ashamed of myself as a human being if I don't return that smile as I offer up my own life.
 }
 [sha:ba69e8ef9c6b9226a085f568dc5c131b54de4a20]{
 -- Page 144, Offset 8538.
 -- 「……馬鹿だな。
-"...I'm an idiot.
+"I'm an idiot...
 }
 [sha:80668cf7cfcc04f4be13115db1ef22b2f472af63]{
 -- Page 144, Offset 8539.
 -- 本当に、俺は馬鹿だった……！」
-I'm really an idiot...!"
+I really am an incredible idiot...!"
 }
 [sha:09ba46137fc46c3e83148f650a43e1b74a7b940c]{
 -- Page 145, Offset 8540.
 -- バチン、と両頬を叩いて反省する。
-With a smack, I slap myself on both cheeks and contemplate my next move.
+I smack myself sharply on the cheeks and contemplate my next move.
 }
 [sha:76e6fe1aa054127669787e69b11116cc43c9b347]{
 -- Page 145, Offset 8541.
@@ -66,7 +67,7 @@ I'm not going back to school or the mansion.
 [sha:532eb33d544cd3880ad8e65ee9ecf6b72dca9260]{
 -- Page 145, Offset 8543.
 -- 俺は振り返らず、もう一度ホテルへと走り出した。
-Without looking back, I run to the hotel once more.
+Without looking back, I start to run back towards the hotel.
 }
 [sha:21a26ae63ac1d9629890f9d17dda0e3d338f6718]{
 -- Page 146, Offset 8544.
@@ -81,12 +82,12 @@ I return to the hotel, just barely making it back before the sun sets.
 [sha:10a4d32bc2f58d01849d344bdd6a1d92ce6cee86]{
 -- Page 147, Offset 8546.
 -- そーっと足音を忍ばせて中に入る。
-I sneak back inside, silencing my footsteps.
+I sneak back inside, treading lightly so as not to make any noise.
 }
 [sha:1690b441f03dfa8d18c66564641a0ea3ad758680]{
 -- Page 147, Offset 8547.
 -- アルクェイドがまだ眠っていれば、とりあえず問題はない……ん……だけ、ど……。
-If Arcueid is still asleep, there should be no problems for... now... however...
+If Arcueid is still asleep, then I shouldn't run into any... problems...
 }
 [sha:96bdb5998d82727eb4d4eb10b3cba2336598cf8c]{
 -- Page 148, Offset 8548.
@@ -101,12 +102,12 @@ If Arcueid is still asleep, there should be no problems for... now... however...
 [sha:664736a6be9705c091d262053b4a7aa1cda75749]{
 -- Page 148, Offset 8550.
 -- この通り、彼女はすでに目を覚まして、ぷんぷんに怒っていらっしゃるのだった。
-As you can see, she is already awake and fuming with anger.
+As you can see, she's already awake and fuming with anger.
 }
 [sha:de6aa6fe68f6523708b5310e7cfd2b40307871e6]{
 -- Page 149, Offset 8551.
 -- 「志ぃ～～～～貴ぃ～～～～………！」
-"Shi～～～～ki～～～～......!"
+"Shi～～～～ki～～～～!"
 }
 [sha:0deed5fcf698b7eed202a77c9d8b64a4e6781ac2]{
 -- Page 149, Offset 8552.
@@ -116,7 +117,7 @@ As you can see, she is already awake and fuming with anger.
 [sha:d9b92fcdf95ad6332312348618750b9179f2d163]{
 -- Page 150, Offset 8553.
 -- まずい。コレほんとまずい。
-This is bad. This is really bad.
+This is bad. This is %{i}really%{/i} bad.
 }
 [sha:286cfe385134f987a482c479e17ed92dd736591b]{
 -- Page 150, Offset 8554.
@@ -131,7 +132,9 @@ The Arcueid before me now is the one that made such a fearsome scene in the alle
 [sha:100a0e733ac59588493f82eca790ec121a7c9d2c]{
 -- Page 151, Offset 8556.
 -- こっそり逃げ出した俺……ちゃんと戻ってきたけどネ！……に対して、どんな鉄槌を下すかもう考えるだに恐ろしい。下手するとホテルごと真っ二つだ。
-I may have surreptitiously run away... but I came back, didn't I! ...I shudder to think what sort of iron-fisted punishment I'm in for now. If she's not careful, the whole hotel will be split in half.
+I may have surreptitiously run away... but I came back, didn't I!
+ I shudder to think what sort of iron-fisted punishment I'm in for now...
+ If she isn't careful, she'll split the whole hotel in half.
 }
 [sha:c614390eede311e87ba765f666bd1f0c538fc31b]{
 -- Page 152, Offset 8557.
@@ -146,7 +149,7 @@ It's already too late to try and explain myself, but if I end up getting killed 
 [offset:8559]{
 -- Page 152, Offset 8559.
 -- ……と。
-...However.
+However...
 }
 [sha:06039666d699f2c3e8152ebcb88325e693f9e139]{
 -- Page 153, Offset 8560.
@@ -161,12 +164,12 @@ You should let me know before you go outside!"
 [sha:8e7a38b2d02737e8a7b1c3bf3c8ce0ad9fe8b4ff]{
 -- Page 154, Offset 8562.
 -- 「……あれ？……」
-"...Huh?..."
+"Huh...?"
 }
 [sha:603a5cd134be6517aa6d440546d4b34d18e89858]{
 -- Page 154, Offset 8563.
 -- なんか……想像と違う、ような？
-This... is a little different from what I had imagined.
+This... isn't how I expected things to go.
 }
 [sha:1722f6f045ad1727b4a25d6cb301cf37231003d2]{
 -- Page 155, Offset 8564.
@@ -186,32 +189,35 @@ Just where have you been all this time?"
 [sha:a7a14744e7f706ecb7d752dfbd477c541520d9f3]{
 -- Page 156, Offset 8567.
 -- たしかに、アルクェイドは怒っている。
-It's clear that Arcueid is angry.
+Arcueid is definitely angry.
 }
 [sha:bc5870670c5da9da073648e1f0527d33d9c861a4]{
 -- Page 156, Offset 8568.
 -- けど、それは俺に裏切られたと思ってのコトではないみたいだ。
-But it doesn't seem like she thinks I betrayed her.
+But it doesn't seem like her anger stems from thinking I betrayed her.
 }
 [sha:8b3e734a703e51d2c9b49c3661db53782f6a3d9c]{
 -- Page 157, Offset 8569.
 -- 「……いや、ちょっとホテルの外に出てたというか……」
-"...Well, I just stepped out of the hotel for a second, you know..."
+"Well... I just stepped out of the hotel for a second, you know..."
 }
 [sha:0efe7ce985ab6e7aa23158e1422c581115e3d3e7]{
 -- Page 157, Offset 8570.
 -- 「本気……？　使い魔に見つかった以上、志貴だって安全じゃないのよ。無闇に外に出ていって、またあの黒豹に襲われたらどうするつもりだったの？」
-"Are you serious...? Now that the familiars have found you, you're not safe anymore. If you recklessly go outside and get attacked by that black panther again, how exactly do you plan on dealing with it?"
+"Are you serious...?
+ Now that the familiars have found you, you're not safe anymore either.
+ If you go wandering around outside and get attacked by that black panther again,
+ how exactly do you plan on dealing with it?"
 }
 [sha:ddbe4df7a6e8a4bc07582cb54e6e3e7be3f0d5e9]{
 -- Page 158, Offset 8571.
 -- ……なんてコト、だろう。
-...I'm stunned.
+I'm stunned...
 }
 [sha:e23a171a23390c3ef998cedbcff01d97d0899269]{
 -- Page 158, Offset 8572.
 -- アルクェイドが怒っているのは俺がいなかったからじゃない。
-The reason Arcueid is angry isn't because I wasn't there.
+Arcueid isn't angry about the fact that I wasn't here.
 }
 [sha:73d3580d7fb86b7379b86e0d047b70843179bfdd]{
 -- Page 158, Offset 8573.
@@ -221,7 +227,7 @@ The thought that I might betray her and run away didn't even cross her mind.
 [sha:f4b6ffeb0ce8a9e2431392c99f2cae5446c0783e]{
 -- Page 159, Offset 8574.
 -- アルクェイドはただ、勝手に出歩いた俺が危険な目に遭わないかと心配して、こうして腹を立てていた。
-She's just angry because she's worried that I might be in danger if I selfishly wander around on my own.
+She's angry because she was worried about me putting myself in danger by blithely wandering around on my own.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 160, Offset 8575.
@@ -231,17 +237,17 @@ She's just angry because she's worried that I might be in danger if I selfishly 
 [sha:aab035bd6042c83ea6685c1c9c870c276589e959]{
 -- Page 160, Offset 8576.
 -- ……恥ずかしい。俺はあと少しで、こいつの心を踏みにじってしまうところだった。
-...I'm ashamed. I was so close to trampling on her good intentions.
+I'm ashamed... I was so close to trampling on her good intentions.
 }
 [sha:f0df21db7500f15dcfda48666a68c4e9061f29af]{
 -- Page 161, Offset 8577.
 -- 「ちょっと志貴、わたしの話聞いてる？」
-"Hey, Shiki, are you listening to me?"
+"Hey, Shiki, are you even listening to me?"
 }
 [sha:ddd0b4a4bc15e3c687c71c20b6afc181164d69f1]{
 -- Page 161, Offset 8578.
 -- 「……ああ、聞いてる。そうだな、俺が悪かった。
-"...Yeah, I'm listening. You're right, it was my fault.
+"Yeah... I'm listening. You're right, it was my fault.
 }
 [sha:9c9afbabcbbfeef88594e2a7d33e56778892180e]{
 -- Page 161, Offset 8579.
@@ -266,17 +272,20 @@ I bow my head sincerely.
 [sha:061493205e68de8ac295442dca3404837ece8763]{
 -- Page 163, Offset 8583.
 -- 「と、とにかく志貴は無防備すぎるわ。相手は吸血鬼なんだから、もっと気を引き締めるべきよ」
-"A-Anyway, you are too vulnerable. The enemy is a vampire; you've got to be more careful."
+"A-Anyway, you're way too vulnerable.
+ The enemy is a vampire; you've got to be more careful."
 }
 [sha:c9f49990e9088c67511020347dc2153b21a149de]{
 -- Page 164, Offset 8584.
 -- 「それともなに、もしかして破滅願望でもあるの？　自分から殺されにいくとか、わたしを怒らせるとか。
-"Or what, do you have a death wish or something? Are you trying to get yourself killed or to piss me off?
+"Or what, do you have a death wish or something? Are you trying to get yourself killed or just piss me off?
 }
 [sha:9f000e670a0e0ea78bc174242e26d760a69b1338]{
 -- Page 164, Offset 8585.
 -- そういうコトなら基底状態と励起状態をコンマで繰り返す、人間の言葉じゃ表現できないぐらいの極限空間にたたき込んであげましょうか？」
-If that's the case, I can jump from my ground state to an excited state at the drop of a hat. Would you like me to knock you into a spatial extreme that's beyond the limit of human comprehension?"
+// Awaiting confirmation on this guy
+If that's the case, would you like me to bat you into the sort of spatial extreme that can't even be described in human language?
+ The kind of space where there's nothing but a decimal point between the ground state and excited state?
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 165, Offset 8586.
@@ -296,7 +305,9 @@ She says something so terrifying in such a benevolent manner.
 [sha:7abbece4e23e04d07addbf82f46532aaa69a7422]{
 -- Page 167, Offset 8589.
 -- 「だいたい無防備なのはそっちだって同じだろ。……その、俺は一度はおまえを殺してるんだぞ？　そんな俺を見張り番にして眠るなんて、どうかしてる。
-"You were just as vulnerable yourself, you know. ...I mean, I've already killed you once, remember? It's crazy to sleep with me as your lookout.
+"Besides, you're the vulnerable one here, aren't you?
+ I mean... I've already killed you once, remember?
+ You've gotta be crazy to go to sleep with %{i}me%{/i} as your lookout.
 }
 [sha:7b34fda9ad8c5b4e6004ce482190d405721e223d]{
 -- Page 167, Offset 8590.
