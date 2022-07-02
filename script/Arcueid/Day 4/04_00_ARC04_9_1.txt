@@ -52,7 +52,8 @@ The only thing still lit is the bank of elevators at the end of the hall.
 [sha:fdc77549170accf84115e45ccc2cb96fbb28bcac]{
 -- Page 725, Offset 7511.
 -- 部屋にいた時より喉が痛む。俺を包む空気はやすりのようにざらついて、熱かった。
-My throat hurts even more than it did when I was in the room. The air surrounding me is hot and rough like sandpaper.
+My throat hurts even more than it did when I was in the room.
+ The air surrounding me is hot, and rough as sandpaper.
 }
 [sha:ba0c765493d224979cfa812d7f498b2f14564552]{
 -- Page 726, Offset 7512.
@@ -313,12 +314,12 @@ The inside of the box
 [sha:02c31437b06e656f8bc90f53869f286459ca7631]{
 -- Page 737, Offset 7562.
 -- あふれかえるほどの、
-    is awash with
+is awash with
 }
 [sha:988bc08317fa34c328a176ba1a971540b604f997]{
 -- Page 737, Offset 7563.
 -- 先ほどまで生きていたモノの肉が。
-        the flesh of the recently deceased.
+the flesh of the recently deceased.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 738, Offset 7564.
@@ -517,7 +518,7 @@ The dogs in the elevator notice my presence.
 [sha:5faf665834412811149b9bbf417c336934090844]{
 -- Page 748, Offset 7601.
 -- 気が付けば、下の階からの音は止んでいた。
-Having coming back to my senses, I realize that the noise from downstairs has ceased.
+Having come back to my senses, I realize that the noise from downstairs has ceased.
 }
 [sha:f036c9a9d905f0ae9f5b5ec5d5165566da636c9b]{
 -- Page 749, Offset 7602.
@@ -577,7 +578,7 @@ Its speed is incomparable to that of a human.
 [sha:530981955462e950c1f8b44d681510910ec40603]{
 -- Page 753, Offset 7613.
 -- 20メートル程度の廊下なんて、それこそ二秒とかからなかった。
-It took it less than two seconds to cross the twenty-meter hallway.
+It took less than two seconds for it to run the length of the twenty-meter hallway.
 }
 [sha:edcd875425d7b9cec50bacc63197baca472c75e6]{
 -- Page 754, Offset 7614.
@@ -652,7 +653,7 @@ I plunge my knife into the forehead of the black dog that had snapped at the nap
 [sha:7e85f7c1cca3a35993bc2f0c817f090630583251]{
 -- Page 757, Offset 7628.
 -- 牙が皮膚に触れた瞬間、頸動脈に食いこむ直前、自動的に、俺の腕は動いてくれた。
-The moment its fangs touched my skin, just before it bit into the carotid artery, my arm moved on its own.
+The moment its fangs touched my skin, just before it bit into my carotid artery, my arm moved on its own.
 }
 [sha:e2b2688be073db19418745364270a4074c64ab1e]{
 -- Page 758, Offset 7629.
@@ -756,7 +757,7 @@ Of course, the hand holding the knife is now also inside the dog's mouth.
 [offset:7648]{
 -- Page 766, Offset 7648.
 -- 「――――――あ」
-"――――――Ah."
+"――――――%{i}Ah%{/i}."
 }
 [sha:3ddcca3932a2ce26cf16a39b54f0d8b148a2f160]{
 -- Page 766, Offset 7649.
@@ -1072,7 +1073,7 @@ A hot, thick, nostalgic liquid.
 [sha:aa852d6a2d447ab30717f3629ed1b06f8712fc5e]{
 -- Page 782, Offset 7710.
 -- くらりと、意識がとんだ。
-I feel dizzy and faint.
+I feel dizzy and lightheaded.
 }
 [sha:e4936f54434ac1d50db14f62d8c532df4654688c]{
 -- Page 783, Offset 7711.
@@ -1194,7 +1195,7 @@ The hot red blood on my hands...
 -- Page 795, Offset 7734.
 -- 一度、人を殺しているじゃないか
 // Centered vertically by scripting, centered horizontally here too
-       Killed someone before, haven't you?
+       Killed someone once before, haven't you?
 }
 [sha:c2799c524bf4d4b4c6220a31389c74abf88e0834]{
 -- Page 796, Offset 7735.
@@ -1245,7 +1246,7 @@ The knife emerges from the back of the black dog's head.
 [sha:70e0049db50108582758a0cc3f4b2c0d637b0228]{
 -- Page 799, Offset 7744.
 -- 頭蓋を割り、皮をたやすく切断し、
-it splits its skill and easily slices through the skin.
+It splits its skull and easily slices through the skin.
 }
 [sha:440455953b68c5797fe6f867ffe6fcbd4efbe149]{
 -- Page 799, Offset 7745.
@@ -1270,7 +1271,7 @@ There's only one thing to do.
 [sha:d376d3971f222dd6e6b59365944b3e41d776e6d6]{
 -- Page 800, Offset 7749.
 -- もう片方の腕を伸ばす。血だらけの指からナイフを引き剥がして、左手でナイフを持ち直す。
-I reach out my other arm. I rip the knife from my bloody fingers and grasp it in my left hand.
+I reach out my other arm. I rip the knife from my bloody fingers and grasp it firmly in my left hand.
 }
 [sha:d51708c1f0993f0cf82c25a4a11a617bbafa6eea]{
 -- Page 800, Offset 7750.
@@ -1280,7 +1281,7 @@ The dog's whole body trembles in supplication.
 [sha:4c047069320bda2e81a4bc54003c294e7731e78a]{
 -- Page 800, Offset 7751.
 -- 謝罪の意を示すように牙から力は抜けていた。
-The dog loosens its fangs as if to apologize.
+It loosens its fangs, as if trying to apologize.
 }
 [sha:640401296ed3683a6fe86f3e7fe30e8cad1c3c56]{
 -- Page 800, Offset 7752. Mods: @n.
