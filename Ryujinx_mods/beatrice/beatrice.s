@@ -7,7 +7,7 @@ end
 0xc05cc
 nop
 end
-        
+
 ; stop line feed
 0xc5a24
 b #0x4b4
