@@ -500,6 +500,7 @@ Without any regard for shame or appearances,
 [sha:e36d3310ea398d7ffbee0a09778326e7cf8edd98]{
 -- Page 129, Offset 5905.
 -- 「はっ、はっ、はっ、はっ、はっ―――――！」
+// lint-off:LintDupedWord
 "%{i}Hah, hah, hah, ha%{/i}―――――!"
 }
 [sha:aef7487f292bb71e0e35fdc51a45ad0c083aefe6]{
@@ -571,6 +572,7 @@ That itself is more than enough reason for my frenzy.
 [sha:6e44077b27b0bf3a4736890f48ae9318bcbe1ee9]{
 -- Page 133, Offset 5919.
 -- 「はっ、はっ、はあ――――――！」
+// lint-off:LintDupedWord
 "%{i}Hah, hah, hah%{/i}――――――!"
 }
 [sha:1e7a44998afd5e3b188a92f9c71cc9d84eaa9d07]{
@@ -591,6 +593,7 @@ She's chasing me with footsteps as light as a feather.
 [sha:8cd192ff7d33575b6a110957b13b89c7ba6e2914]{
 -- Page 134, Offset 5923.
 -- 「はっ、はっ、はっ、はっ―――――！」
+// lint-off:LintDupedWord
 "%{i}Ha, ha, ha, ha%{/i}―――――!"
 }
 [sha:177e359776fee16a2649c3cd9d35f40d8c832c8a]{
@@ -617,6 +620,7 @@ So why is it, if I'm running as fast as I possibly can,
 [sha:2d7e36ac5951e79907f5872bd43e0387f3304745]{
 -- Page 135, Offset 5928.
 -- 「はっ、はっ、はっ、はっ――――」
+// lint-off:LintDupedWord
 "%{i}Ha, ha, ha, ha%{/i}――――"
 }
 [sha:1b745084d481b8ef45f0aef4978bbaad41d05740]{
@@ -648,6 +652,7 @@ She's like a ghost, burned into a rearview mirror.
 [sha:aabf21638d27e05202810285ed246fc93a23f3fb]{
 -- Page 136, Offset 5934.
 -- 「………はっ、はっ、はっ、はは、はははは」
+// lint-off:LintDupedWord
 "......%{i}Haha, haha, haha, hahahaha%{/i}."
 }
 [sha:028aefbaed358e7b620aeb242a16121cf550800d]{
