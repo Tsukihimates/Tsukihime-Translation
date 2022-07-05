@@ -1,6 +1,8 @@
 [sha:6a4ad8158d13c1c44b6bda2ba0c5075d72a55da7]{
 -- Page -1, Offset 12.
 -- もし、空が雲っていたのなら。
+// This whole file is one 'page' so the quote checker gets confused.
+// lint-off:LintUnclosedQuotes
 What if, the sky had been cloudy.
 }
 [sha:894329ed51deb533fd3c82fed12c93b297574eea]{
@@ -170,7 +172,9 @@ Some stray dog was barking its head off around eleven o'clock last night, didn't
 [sha:a9b83817915da3a5b148be8e8dd31989d74458b1]{
 -- Page -1, Offset 14668.
 -- と声をかけると、
--- TRANSLATION HERE
+// Disfavoured alternate of 14667
+// 「少し出てくる」と声をかけると、
+After announcing that―――
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page -1, Offset 15415.
@@ -180,12 +184,12 @@ Some stray dog was barking its head off around eleven o'clock last night, didn't
 [sha:465a73ea6f926ec4f0f6a2e551070ed01b132f5c]{
 -- Page -1, Offset 16947.
 -- ■
--- TRANSLATION HERE
+■
 }
 [sha:8235b7ace1a2de404da79ca29a2b50ba0857c7f7]{
 -- Page -1, Offset 17637.
 -- 屋敷を出てから２時間ほど経過した事になる。
--- TRANSLATION HERE
+It's been about two hours since I left the mansion.
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page -1, Offset 19007.
@@ -200,7 +204,7 @@ Some stray dog was barking its head off around eleven o'clock last night, didn't
 [sha:cdcd41e31722ec3f775394531c023cd9a6be02c4]{
 -- Page -1, Offset 22694.
 -- 存在。
--- TRANSLATION HERE
+Existence.
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page -1, Offset 22719.
@@ -210,22 +214,22 @@ Some stray dog was barking its head off around eleven o'clock last night, didn't
 [sha:712dfa01845d68a77e35510c6324237492aa8751]{
 -- Page -1, Offset 23430.
 -- 出ない。
--- TRANSLATION HERE
+It won't come out.
 }
 [sha:465a73ea6f926ec4f0f6a2e551070ed01b132f5c]{
 -- Page -1, Offset 24958.
 -- ■
--- TRANSLATION HERE
+■
 }
 [sha:465a73ea6f926ec4f0f6a2e551070ed01b132f5c]{
 -- Page -1, Offset 25401.
 -- ■
--- TRANSLATION HERE
+■
 }
 [sha:5c65c14d83a4dbe60b920225fdf03460faf48f8d]{
 -- Page -1, Offset 25659.
 -- これ以上は言わない。理由は聞かないよ」
--- TRANSLATION HERE
+I won't press any further. I won't ask your reasons.
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page -1, Offset 25747.
@@ -235,7 +239,7 @@ Some stray dog was barking its head off around eleven o'clock last night, didn't
 [sha:f34c5682cf625dc2d1ba308568d676252b86cf1a]{
 -- Page -1, Offset 26126.
 -- チッ」
--- TRANSLATION HERE
+%{i}Tsk%{/i}."
 }
 [sha:8b315c8c79fa7660b72b99447eab487f2e95c651]{
 -- Page -1, Offset 28384.
@@ -250,7 +254,7 @@ Some stray dog was barking its head off around eleven o'clock last night, didn't
 [sha:1549bf64053c45524ac08d48185372b187adb1ae]{
 -- Page -1, Offset 37851.
 -- 遅くする事しかできない。
--- TRANSLATION HERE
+All I can do is slow it down.
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page -1, Offset 41589.
