@@ -66,7 +66,9 @@ The one who smashed the third floor window and came tumbling inside is―――
 [sha:0f11569f373404bf4509036059950659fb50ba2e]{
 -- Page 80, Offset 30766.
 -- 「――――――<Ⅹ|デケム>」
-"――――――Decem."
+// do we want to bring back the X or chi or whatever here?
+// is it intended as a christogram?
+"――――――%{i}Decem.%{/i}"
 }
 [sha:37ee149c5039f60dd40242a584890bf864b301a4]{
 -- Page 81, Offset 30767.
@@ -248,7 +250,7 @@ Is that... Mario's voice coming out of a speaker...?
 [sha:d3ca6071239ed8302f51af585ed23f8cee803306]{
 -- Page 93, Offset 30801.
 -- 「何者だ。随分と<私|・>に気安いようだが」
-"Who might you be? You seem to be acting awfully friendly with %{i}me%{/i}."
+"Who might you be? You seem to be acting awfully friendly with me."
 }
 [sha:93cc4b8f616bb8b362bcf2a2c390de776e2922b8]{
 -- Page 93, Offset 30802.
@@ -547,7 +549,8 @@ I've been stabbed in the heart with a knife,
 [sha:549e16d6bbd873a1b57fb6a1de2cd77c2044c218]{
 -- Page 113, Offset 30857.
 -- だから、きっと、今回もまだ間に合う筈なんです……！」
-That's why this time, too, there's still a chance...!"
+// pause introduced to match pause in va
+That's why... there's still a chance this time around...!"
 }
 [sha:f718afd0ba12bfb7d5568dd28e9a3fa06ac8796d]{
 -- Page 114, Offset 30858.
@@ -562,7 +565,7 @@ That's why this time, too, there's still a chance...!"
 [sha:ad41a22305e2f6e47c6b456554eb39be101af4dd]{
 -- Page 114, Offset 30860.
 -- これ以上喋ると、本当に保たないじゃないですかっ！」
-You definitely won't make it if you keep yapping!"
+You definitely won't make it if you don't shut up!"
 }
 [sha:c767f338c3d95b1115e33f29d97e23d268bbbb81]{
 -- Page 115, Offset 30861.
