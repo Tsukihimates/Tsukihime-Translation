@@ -41,14 +41,14 @@ The only things I can be sure of are the pain all over my body,
 -- Page 716, Offset 10599.
 -- ……まったく幸いだ。おかげで痛覚も麻痺している。
 ...I really am fortunate.
- Thanks to that my sense of pain was numbed.
+ My sense of pain has been numbed as a result.
 }
 [sha:71bd54dd497802a9a2cfa62ff25d4d4158ba3a61]{
 -- Page 716, Offset 10600.
 -- 滑空中に踏み込んだ左足の痛みは平時なら耐えられるものじゃない。骨ごとノコギリで削られているようだ。そんな、目から火花が出るほどの痛みも、今はまともに感じない。
 The pain in my left foot,
  which I broke mid-air,
- would have been normally been unbearable.
+ would have been unbearable otherwise.
  It's as if every bone in my body is being hacked off.
  I can't even feel the pain that had me seeing sparks before.
 }
@@ -66,7 +66,7 @@ I don't mean to let the swear slip, but I can't help it.
 -- Page 718, Offset 10603.
 -- ……生き残った余韻なんて何もない。
 // ^... kept because he's flowing into a difficult train of thought.
-...Surviving didn't really leave any lasting impression.
+...I don't feel anything at having survived.
 }
 [sha:3235f27e2a2e7478a6b575a8c5c3dde6ecbfc970]{
 -- Page 718, Offset 10604.
@@ -126,7 +126,7 @@ To be honest, it feels like I'm dying. Even speaking is painful.
 -- Page 722, Offset 10614.
 -- けれどまだ生きている身分で、そんな弱音を吐くなんて、許される筈がない。
 But as someone who managed to make it out alive,
- I can't bring myself to whine about it.
+ it'd be unforgivable to whine about it.
 }
 [sha:347b06006f8a5f9b5838d95fcafb6cf828e6d20a]{
 -- Page 723, Offset 10615.
@@ -154,7 +154,7 @@ Arcueid seems satisfied, like she did her part.
 [sha:153d59464c622f6932f4bba7f38ee0cd1a84c0d6]{
 -- Page 724, Offset 10619.
 -- ……実際、ヴローヴを殺した事はそれだけ価値のある事なんだろう。俺にだってそれぐらいは分かる。
-Speaking practically, there must have been value in just having killed Vlov.
+Speaking practically, there must have been %{i}some%{/i} value in having killed Vlov.
  Even I know that much...
 }
 [offset:10620]{
@@ -497,7 +497,7 @@ I'm falling asleep, not dying.
 "Are you really sure you wanna do that?
  It's definitely gonna hurt.
  Do you really not need any healing?
- No doubt you're going to faint when you wake up."
+ You're gonna faint when you wake up, you know?"
 }
 [sha:98ded4feeb8f9ade3d88ad2a597f08552f531e5f]{
 -- Page 746, Offset 10683.
