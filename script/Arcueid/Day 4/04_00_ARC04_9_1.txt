@@ -278,6 +278,7 @@ The floor indicator stops moving.
 [sha:98a6e91ba73e5af20d4bae8e4750732687836151]{
 -- Page 735, Offset 7555.
 -- 箱が到着する。
+// are we still using cab for this? i thought we opted not to
 The cab arrives.
 }
 [sha:979c5abe885050446c9f8edce4df939e44d0421c]{
@@ -309,6 +310,7 @@ The small, iron box hangs agape.
 [sha:7dba6b00c979de7024176adaaa0bb3ba3aead616]{
 -- Page 737, Offset 7561.
 -- 箱のなかには、
+// i know it's intended damn that looks like a linebreak error
 The inside of the box
 }
 [sha:02c31437b06e656f8bc90f53869f286459ca7631]{
@@ -374,7 +376,7 @@ The two black dogs are the only living creatures.
 [sha:c112bbcc45771e02563b770e94a954f7d4e3d0c2]{
 -- Page 741, Offset 7574.
 -- 「あ―――、ぃ―――」
-"%{i}Ah―――, ah―――%{/i}"
+"%{i}Ah――― ah―――%{/i}"
 }
 [sha:6e3c42b6d587c94752ecca2f640d93944f9f2b31]{
 -- Page 741, Offset 7575.
@@ -498,6 +500,7 @@ Because if I did that―――I would also become one with the sea of red.
 [sha:a5176d999c95640e6eefbfec5bb0e155ba7326c5]{
 -- Page 747, Offset 7597.
 -- 「は―――ア。は。ア。は、」
+// also looks like an error
 "%{i}Ha―――a%{/i}. %{i}Ha%{/i}. %{i}Ah%{/i}. %{i}Ha, %{/i}"
 }
 [sha:6119045b4b4278360cf7330d24aee9ba95e8c50d]{
@@ -1028,7 +1031,7 @@ Stupid. I'm so stupid. I'm being so inconsistent that I should just let myself b
 [sha:795851d77d072770f0d46fa33ac3755188871686]{
 -- Page 780, Offset 7701.
 -- 殺さなければ殺される摂理において、
-In this world it's kill or be killed.
+In this world, it's kill or be killed.
 }
 [sha:a1cfa18d74300e8cb2919a8b9da132a657c42239]{
 -- Page 780, Offset 7702.
@@ -1093,7 +1096,7 @@ I can't kill something that's alive.'
 [sha:2a5b07032a3a193ad49746c6308c0fdbf3230ab4]{
 -- Page 783, Offset 7714.
 -- そういうおまえは、そんな犬畜生なんぞよりよっぽど大きな動物を殺している。
-You've already killed a much greater animal than that lowly beast.
+You've already killed a much greater animal than this lowly beast.
 }
 [offset:7715]{
 -- Page 784, Offset 7715.
