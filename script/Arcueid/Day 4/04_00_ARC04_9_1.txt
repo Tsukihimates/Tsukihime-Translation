@@ -278,7 +278,6 @@ The floor indicator stops moving.
 [sha:98a6e91ba73e5af20d4bae8e4750732687836151]{
 -- Page 735, Offset 7555.
 -- 箱が到着する。
-// are we still using cab for this? i thought we opted not to
 The cab arrives.
 }
 [sha:979c5abe885050446c9f8edce4df939e44d0421c]{
@@ -310,13 +309,12 @@ The small, iron box hangs agape.
 [sha:7dba6b00c979de7024176adaaa0bb3ba3aead616]{
 -- Page 737, Offset 7561.
 -- 箱のなかには、
-// i know it's intended damn that looks like a linebreak error
-The inside of the box
+The inside of the box...
 }
 [sha:02c31437b06e656f8bc90f53869f286459ca7631]{
 -- Page 737, Offset 7562.
 -- あふれかえるほどの、
-is awash with
+is awash with...
 }
 [sha:988bc08317fa34c328a176ba1a971540b604f997]{
 -- Page 737, Offset 7563.
@@ -500,8 +498,7 @@ Because if I did that―――I would also become one with the sea of red.
 [sha:a5176d999c95640e6eefbfec5bb0e155ba7326c5]{
 -- Page 747, Offset 7597.
 -- 「は―――ア。は。ア。は、」
-// also looks like an error
-"%{i}Ha―――a%{/i}. %{i}Ha%{/i}. %{i}Ah%{/i}. %{i}Ha, %{/i}"
+"%{i}Ha―――a%{/i}. %{i}Ha%{/i}. %{i}Ah%{/i}. %{i}Ha%{/i}."
 }
 [sha:6119045b4b4278360cf7330d24aee9ba95e8c50d]{
 -- Page 747, Offset 7598.
@@ -1096,7 +1093,7 @@ I can't kill something that's alive.'
 [sha:2a5b07032a3a193ad49746c6308c0fdbf3230ab4]{
 -- Page 783, Offset 7714.
 -- そういうおまえは、そんな犬畜生なんぞよりよっぽど大きな動物を殺している。
-You've already killed a much greater animal than this lowly beast.
+You've already killed a much greater animal than that lowly beast.
 }
 [offset:7715]{
 -- Page 784, Offset 7715.
