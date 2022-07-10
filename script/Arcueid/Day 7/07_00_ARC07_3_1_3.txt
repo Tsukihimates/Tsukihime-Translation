@@ -435,12 +435,12 @@ They each vary in the extent of their Lifescale,
 [sha:37b6576faaa0fdba9ec1394783ed454ffeac0cae]{
 -- Page 603, Offset 18089.
 -- 西暦以前から活動しているのが『古参』で、
-but those who were active before the Common Era are the 'old-timers',
+but those who were active before the Common Era are the %{i}old blood%{/i},
 }
 [sha:0e3937ff9f890642e2e92019e05cee13eec3069f]{
 -- Page 603, Offset 18090.
 -- 西暦以後から活動を始めたのが『新参』ね」
-and those who came after are the young blood."
+and those who came after are the %{i}young blood%{/i}."
 }
 [sha:de9a1fd98b47d4f6c77e164d156040d1ffc6e935]{
 -- Page 604, Offset 18091.
@@ -454,7 +454,7 @@ and those who came after are the young blood."
 -- Page 605, Offset 18092.
 -- 吸血鬼の尺度で言うと、ヴローヴはつい最近祖になった死徒である、と。
 From a vampire's perspective,
- Vlov was a Dead Apostle that had only recently become an Ancestor.
+ Vlov is a Dead Apostle that has only recently become an Ancestor.
 }
 [sha:c32d13e1d2ae514599603c7f8ef23f88801252b7]{
 -- Page 605, Offset 18093.
@@ -628,12 +628,13 @@ There isn't a single Ancestor that would lose sleep over Vlov disappearing on so
 [sha:bff4659a6b8a59bc5b6bd1d71f1f9b0d901e2f46]{
 -- Page 615, Offset 18123.
 -- 「ええ。協力関係にあるのは一部だけ。
-"Nope. Only a handful of them have formed alliances.
+//changed to avoid repetition of 'alliance'
+"Nope. Only a handful of them are in league with one another.
 }
 [sha:acb5b49a77dad097ddb65772fe7f6c1a285d40ce]{
 -- Page 615, Offset 18124.
 -- 古参の５匹……神代同盟に手を出さなければね。
-We'll be fine so long as we don't mess with the five old-timers... the %{i}League of the Age of Gods%{/i}.
+We'll be fine so long as we don't mess with the five old bloods of the %{i}Age of Gods Alliance%{/i}.
 }
 [sha:ca09fae5ed2114aabb41124fdb16247d7ad62ea0]{
 -- Page 615, Offset 18125.
