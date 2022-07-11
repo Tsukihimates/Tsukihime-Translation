@@ -6,7 +6,7 @@
 [sha:b9ffb48a4d1a0dcdceeaf6c4a2b6a2d99cfdb51b]{
 -- Page 10007, Offset 9202.
 -- お腹減ってるでしょ、志貴？　さっきのおかわり、いる？　新しいの作ってあげよっか？」
-You must be hungry, right, Shiki?
+You must be hungry, right Shiki?
  Do you want seconds of what I made earlier?
  Or shall I make you something else?"
 }
@@ -207,7 +207,6 @@ It would be futile to hold him down directly. Besides, I've never done it before
 [sha:7371bf30d3635da3426e39418d57415e9e5c5622]{
 -- Page 262, Offset 9241.
 -- 「鎖……？　鎖って、あの鎖か？」
-// can the lint be set to detect if both quotes are missing in voiced lines?
 "Chains? You mean like %{i}metal%{/i} chains?"
 }
 [sha:e350b8f192ebf07541ef8945d93e5dfaa655921b]{
