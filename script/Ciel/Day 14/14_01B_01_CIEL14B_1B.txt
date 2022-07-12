@@ -345,6 +345,7 @@ Every single thing is having their form seized as they slip away, entirely as if
 [sha:7c6ffb8bc6c128fe77eae1b84d00cca5bd0f2d91]{
 -- Page 62, Offset 38510.
 -- 俺の頭では理解できない現象を、ヤツは高らかに謳いあげる。
+// lint-off:LintPageOverflow
 She celebrates grandiosely of this phenomenon that I can't wrap my head around.
 }
 [sha:310d0f3e9a133d392d9a298d54f31fe01a582d44]{
@@ -430,6 +431,7 @@ Within it, her thoughts enters mine.
 [sha:282db1c091547ee2487d0eae1a0a027dfd7dda14]{
 -- Page 65, Offset 38527.
 -- “こんな屈辱は味わったことがない。
+// lint-off:LintPageOverflow
 'I've never felt such disgrace.
 }
 [sha:13a3fe38e10eec3cde7c39d12bc15e377dba282f]{
