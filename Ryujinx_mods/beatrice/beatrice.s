@@ -1,3 +1,8 @@
+; fix buggy line-feed
+0xc5a18
+mov x0, x9
+end
+
 ; cancel full-width extra spacing between lines.
 0xc05cc
 nop

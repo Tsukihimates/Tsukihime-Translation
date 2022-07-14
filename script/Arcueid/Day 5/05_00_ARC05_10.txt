@@ -1,7 +1,8 @@
 [sha:e25a91a4c8038ff33c5e0f17d40db71ccca911eb]{
 -- Page 10023, Offset 10592.
 -- 「つか―――れた」
-"I'm exhausted."
+// va is paused since Shiki is injured.
+"I'm... exhausted."
 }
 [sha:cfb4b53255e4fb331743a2ffefdde74bc8128e47]{
 -- Page 10023, Offset 10593.
@@ -11,7 +12,7 @@ I roll over onto my back.
 [sha:eab7c89dcebdf5103504217b41272dd8a6eb0628]{
 -- Page 10023, Offset 10594.
 -- 心肺機能が喜びの悲鳴をあげる。
-My heart and lungs scream with joy.
+My heart and lungs scream with relief.
 }
 [sha:7b3435a1fb98c90099d08d429e14db0be13c2554]{
 -- Page 10023, Offset 10595.
@@ -32,17 +33,24 @@ I'm not even sure if I'm still holding the knife.
 [sha:72dfe94f3d15499a23fb65824296f4b38e993c54]{
 -- Page 715, Offset 10598.
 -- 確かなものは全身の痛みと、気を緩めた途端、闇に落ちそうな意識だけ。
-The only things I can be sure of are the pain all over my body, and the fact that as soon as the tension was released my consciousness began to sink into the darkness.
+The only things I can be sure of are the pain all over my body,
+ and the fact that as soon as the tension was released,
+ my consciousness began to sink into the darkness.
 }
 [sha:86d048441ccef34081f90fc1e10cbaafde4295bf]{
 -- Page 716, Offset 10599.
 -- ……まったく幸いだ。おかげで痛覚も麻痺している。
-...I really am fortunate. My sense of pain has been numbed thanks to that.
+...I really am fortunate.
+ My sense of pain has been numbed as a result.
 }
 [sha:71bd54dd497802a9a2cfa62ff25d4d4158ba3a61]{
 -- Page 716, Offset 10600.
 -- 滑空中に踏み込んだ左足の痛みは平時なら耐えられるものじゃない。骨ごとノコギリで削られているようだ。そんな、目から火花が出るほどの痛みも、今はまともに感じない。
-The pain in my left foot, which I broke while gliding mid-air, would have been unbearable otherwise. It's as if every bone in my body is being sawed away. I can't even feel the pain that sparked from my eyes anymore.
+The pain in my left foot,
+ which I broke mid-air,
+ would have been unbearable otherwise.
+ It's as if every bone in my body is being hacked off.
+ I can't even feel the pain that had me seeing sparks before.
 }
 [sha:dcaf256da63f9262b2dbe8475a2ed0bde373a727]{
 -- Page 717, Offset 10601.
@@ -57,17 +65,19 @@ I don't mean to let the swear slip, but I can't help it.
 [sha:63573d09a12a49e578319c8fb83c7bb731a227a3]{
 -- Page 718, Offset 10603.
 -- ……生き残った余韻なんて何もない。
+// ^... kept because he's flowing into a difficult train of thought.
 ...I don't feel anything at having survived.
 }
 [sha:3235f27e2a2e7478a6b575a8c5c3dde6ecbfc970]{
 -- Page 718, Offset 10604.
 -- 偉業をなした自負もない。
-Nor any pride in accomplishing such a feat.
+And I'm not left with any pride after having accomplished such a feat.
 }
 [sha:8203041f1540b59f13cbc128c94ed5cb94b6344a]{
 -- Page 718, Offset 10605.
 -- こんなのは奇跡でも何でもない。俺はただ、何もかもが終わってしまった後に、自分の感情を叩きつけただけだった。
-This was nothing like a miracle. It was just me slapping my emotions together after everything that had happened.
+I can't even call it a miracle.
+ Now that the dust has settled, all I can do is slap my feelings together.
 }
 [sha:714df3a9d3f7eab5eea50276d64506f807afc44c]{
 -- Page 719, Offset 10606.
@@ -107,12 +117,13 @@ Arcueid wanders up to me as if nothing had happened.
 [sha:d4f520fbd328f3b7c63eba21a845824024e8d1ac]{
 -- Page 722, Offset 10613.
 -- 本当は死にそうだし、声をだすのも辛い。
-To be honest, it feels like I'm dying; even speaking is painful.
+To be honest, it feels like I'm dying. Even speaking is painful.
 }
 [sha:303b9782a13caf9131de0168c72ba6d777b07cc1]{
 -- Page 722, Offset 10614.
 -- けれどまだ生きている身分で、そんな弱音を吐くなんて、許される筈がない。
-But as someone who managed to make it out alive, I cannot allow myself to voice such feeble complaints.
+But as someone who managed to make it out alive,
+ it'd be unforgivable to whine about it.
 }
 [sha:347b06006f8a5f9b5838d95fcafb6cf828e6d20a]{
 -- Page 723, Offset 10615.
@@ -122,7 +133,8 @@ But as someone who managed to make it out alive, I cannot allow myself to voice 
 [sha:27b3d5cb3b5ce8644fdf3af1def0b8ceef15a3cc]{
 -- Page 723, Offset 10616.
 -- 新参とは言え、志貴は祖の<一角|ひとり>を殺したのよ？
-It might've been a %{i}Young Blood%{/i} that you killed, but it was still one of the Ancestors, you know?
+It might've been a %{i}young blood%{/i} that you killed,
+ but it was still one of the Ancestors, you know?
 }
 [sha:ed96c0bc8b506e103cd3408f4dba4965e7979230]{
 -- Page 723, Offset 10617.
@@ -132,12 +144,15 @@ You should be more proud of yourself."
 [sha:34b4c747495958b70fcad7367edd75e7bfc4718c]{
 -- Page 724, Offset 10618.
 -- アルクェイドは我が事のように喜んでいる。
-Arcueid looks as happy as can be.
+// B: interpreting 「我が事のよう」as self-satisfied pride like she
+// did the "hard" work
+Arcueid's chest is puffed out with something like vicarious pride.
 }
 [sha:153d59464c622f6932f4bba7f38ee0cd1a84c0d6]{
 -- Page 724, Offset 10619.
 -- ……実際、ヴローヴを殺した事はそれだけ価値のある事なんだろう。俺にだってそれぐらいは分かる。
-...Speaking practically, there must have been value in killing Vlov. Even I know that much.
+Speaking practically, there must have been %{i}some%{/i} value in having killed Vlov.
+ Even I know that much...
 }
 [offset:10620]{
 -- Page 724, Offset 10620.
@@ -152,7 +167,9 @@ But even so―――
 [sha:515f5cca7528d05ab2cd315bdad4ae8d95ced209]{
 -- Page 725, Offset 10622.
 -- あの氷河はどこまで街を侵したのか。少なくとも、ホテルの時以上の殺戮を、俺はまた看過して―――
-How far did that glacier encroach on the city? At the very least, the carnage was even worse than at the hotel, and yet I again turn a blind eye―――
+How far did that glacier encroach on the city?
+ At the very least, the carnage was even worse than at the hotel.
+ And yet, again I turn a blind eye―――
 }
 [sha:071bd4d9dbc169b6b72f22c404535e4aab4aa97e]{
 -- Page 725, Offset 10623.
@@ -162,7 +179,7 @@ How far did that glacier encroach on the city? At the very least, the carnage wa
 [sha:b764420fcc7a6561e326f3626248e81702852423]{
 -- Page 725, Offset 10624.
 -- ヴローヴの呪いなら、ぜんぶ私が防いでおいたんだし」
-If it's Vlov's curse you're worried about, I've got it all covered."
+If you're worried about Vlov's curse, I've got it all covered."
 }
 [sha:3a33cd978291facad1269713c68f06b46d933dbf]{
 -- Page 725, Offset 10625.
@@ -177,7 +194,8 @@ If it's Vlov's curse you're worried about, I've got it all covered."
 [sha:4817be599de407d812221b834882c315106bd023]{
 -- Page 726, Offset 10627.
 -- 体を起こそうと力をいれた途端、左足からの激痛でのたうち回った。
-As soon as I strain myself to sit up, I feel a sharp pain in my left leg that sends me sprawling.
+As soon as I strain myself to sit up,
+ I feel a sharp pain in my left leg that sends me sprawling.
 }
 [sha:21e734fd0d17b789c9c8ac09c08dd043b45e3dbc]{
 -- Page 727, Offset 10628.
@@ -187,7 +205,8 @@ As soon as I strain myself to sit up, I feel a sharp pain in my left leg that se
 [sha:53a0c3e9ae914bad8288e7bf7c8e906d20bdfb42]{
 -- Page 727, Offset 10629.
 -- 「ぐっ、っ……！　そ、それより、今の……説明、してくれ。
-"%{i}Agh%{/i}...! M-More importantly than that, I need you... to explain everything.
+"%{i}Agh%{/i}...! M-More importantly than that,
+ I need you... to explain everything.
 }
 [sha:f402f594a122b1e3ccf31af3a77e71c3c52bef73]{
 -- Page 727, Offset 10630.
@@ -197,12 +216,14 @@ Are they really not dead...?"
 [sha:a8be12f972c7dd35b9655a8e3d803c9188e45ba1]{
 -- Page 728, Offset 10631. Mods: @n.
 -- 「ええ。ヴローヴの原理が暴走した時、できる範囲を対流膜でコーティングしておいたの。
-"Yeah. When Vlov's Principle went out of control, I coated everything I could with a convective membrane.
+"Yeah. When Vlov's Principle went out of control,
+ I coated everything I could with a convective membrane.
 }
 [sha:066fd9accbdca16798e962543527ee69b31f8622]{
 -- Page 728, Offset 10632.
 -- 志貴がヴローヴを殺すのがあとちょっと遅かったらフォローできなかっただろうけど」
-If you had killed him even a little bit later, I wouldn't have been able to keep it up."
+If you had killed him even a little bit later,
+ I wouldn't have been able to keep it up."
 }
 [sha:801dcff261d24c3fc695d7bafe7c8de7358fb6bb]{
 -- Page 729, Offset 10633.
@@ -222,17 +243,20 @@ She made a strange, sudden stop before being hit by Vlov's lance.
 [sha:f734c8a2a2e251d317914d0f31399bc9a3769ce6]{
 -- Page 729, Offset 10636.
 -- あれは自身を守るものではなく、街を守るものだった……？
-Was that not to protect herself, but to protect the city...?
+Was that not to protect herself, but rather to protect the city...?
 }
 [sha:76e78a623980807b96aa5d774ffe16b80e016396]{
 -- Page 730, Offset 10637.
 -- ……いや、そうだ。考えてみれば、あの寒波が広がった後、俺が生きている事自体がおかしいんだ。
-...Yeah, that's right. If you think about it, it's strange that I'm still alive even after that cold wave had spread out.
+...Yeah, that's right.
+ If you think about it,
+ it's strange that I'm still alive even after that cold wave had spread out.
 }
 [sha:6af0f2a782d457a1b6bcccdc86947c2e5f094d65]{
 -- Page 730, Offset 10638.
 -- 俺があの超低温の中で呼吸ができたように、街の人達も無事だったに違いない。
-Just as I was able to breathe in those super cold temperatures, the people of the city must also have been safe.
+Just as I was able to breathe in those super cold temperatures,
+ the people of the city must have also been safe.
 }
 [sha:9e90f0f9af22e617cdd61cff69a69e6a167eabbe]{
 -- Page 730, Offset 10639.
@@ -247,12 +271,14 @@ That's why she was in such a mess.
 [sha:cebc44014de1e9e2aa661b0e6336731482add72a]{
 -- Page 731, Offset 10641.
 -- 俺が自分の事だけを考えていた時、こいつは、劣勢になると分かった上で、街全体を守ってくれた―――
-While I was only thinking of myself, she protected the entire city despite knowing that she would be at a disadvantage―――
+While I was only thinking of myself,
+ she protected the entire city,
+ despite knowing that it would put her at a disadvantage―――
 }
 [sha:f6f8b8cff51695b674c8c3378eb3b2d5f4b1d570]{
 -- Page 732, Offset 10642.
 -- 「ば―――なんでそんな事を!?
-"W―――Why would you do something like that?!
+"Y―――Why would you do something like that?!
 }
 [sha:66e0d098d8c78182e5eaa7d5fef6fd9c101c37fd]{
 -- Page 732, Offset 10643.
@@ -262,7 +288,8 @@ Didn't you say that you don't care about humans?!"
 [sha:1d8a730826f387261dc48ce437f6877d42baffe6]{
 -- Page 732, Offset 10644.
 -- 正体不明の怒りにかられて、目の前の脳天気に怒鳴り散らす。
-In a fit of unknown rage, I yell thoughtlessly at the carefree figure in front of me.
+In a fit of unidentifiable rage,
+ I yell thoughtlessly at the carefree figure in front of me.
 }
 [sha:b5546101f1b853e766dd70544fc83b5be7930989]{
 -- Page 732, Offset 10645.
@@ -272,7 +299,7 @@ Arcueid curiously raises and lowers her eyebrows, and then...
 [sha:abe5e2f38c97c8238d740afe178ab70427a080e3]{
 -- Page 733, Offset 10646.
 -- 「だって志貴が、そうしてほしいって言ったんだもん」
-"Well, that's because it was what you wanted."
+"Well, that's because it's what you said you wanted."
 }
 [sha:fbfb41a67dfe74a4f2509f921c7539271566c84f]{
 -- Page 733, Offset 10647.
@@ -303,7 +330,9 @@ When? Where? Maybe it was...
 [sha:5bfc085955cc8080ab609fb85654e24490d99a79]{
 -- Page 735, Offset 10652.
 -- ならいい。吸血鬼だろうと何だろうと、俺たちに手を出さないでいてくれるなら、それでいいんだ」
-In that case, it's fine. Whether you're a vampire or whatever else, as long as you don't lay a hand on any of us, it's okay."
+In that case, it's fine.
+ Whether you're a vampire or whatever else,
+ as long as you don't lay a hand on any of us, it's okay."
 }
 [sha:9b406307c20f9caa4a378bf24139f3c07080dd08]{
 -- Page 736, Offset 10653.
@@ -313,12 +342,13 @@ In that case, it's fine. Whether you're a vampire or whatever else, as long as y
 [sha:ba3fa0c211914bcaf84cfaefdedd414dd397e79d]{
 -- Page 736, Offset 10654.
 -- 『人間には手を出さないでくれ』
+// source text differs from the quote in 5_4.
 'If you don't lay a hand on any of us, it's okay.'
 }
 [sha:9d613a0be9080f050f7e93dfa981a0bd414b1cd2]{
 -- Page 736, Offset 10655.
 -- それを守ったのか？
-She did it because of that?
+She did it because of %{i}that%{/i}?
 }
 [sha:39fb1bdfdcb49bf86557183fe2d3d67209a73bab]{
 -- Page 736, Offset 10656.
@@ -359,7 +389,8 @@ With this, I think I can go to sleep now.
 [sha:23ca3c8552fafb818b74df4301fb7576563737d7]{
 -- Page 738, Offset 10663.
 -- さっきまで後悔しかなかった胸は、今は安堵に包まれている。
-My chest, which until just now had been filled with nothing but regret, is now swathed in relief.
+My chest, which until just now had been filled with nothing but regret,
+ is now swathed in relief.
 }
 [sha:c99656525a3c783d082b3c138f3a350aed28517c]{
 -- Page 738, Offset 10664.
@@ -374,13 +405,13 @@ I forget the pain in my legs and fall into a deep sleep.
 [sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
 -- Page 738, Offset 10666.
 -- ……と。
-...And then.
+And then...
 }
 [sha:4c9b47b9cd7c8c022e8651d37133746a56d785be]{
 -- Page 739, Offset 10667.
 -- ぱかん、とアルクェイドに頭をたたかれて、強引に意識を戻された。
 // The audio line is a bit comical, feel like bonk fits.
-I'm forcibly snapped back to reality by Arcueid bonking me on the head.
+Arcueid bonking me on the head forces me back to reality.
 }
 [sha:57868a0477e30aa68ebfedc31b7a624419be43c4]{
 -- Page 739, Offset 10668.
@@ -390,12 +421,15 @@ I'm forcibly snapped back to reality by Arcueid bonking me on the head.
 [sha:3876bdee5888d96f4a56c27ccd7d0b4cb2a85ba5]{
 -- Page 740, Offset 10669.
 -- 「だめ。そんな傷で眠っちゃったら、起きてからよけい苦しいでしょ？　眠るのは傷を塞いでから。その方が効率的よ」
-"You can't. If you fall asleep with a wound like that, it will be all the more painful when you wake up right? You should close the wound before you go to sleep. It'll be more efficient."
+"You can't. If you fall asleep with a wound like that,
+ it will be all the more painful when you wake up, right?
+ You should close your wounds before you go to sleep.
+ That'd be more efficient, you know?"
 }
 [sha:77ee0a65368797005807425f0d794074d9bf96e3]{
 -- Page 741, Offset 10670.
 -- ―――そりゃあまったくの正論だ。
-―――It's a flawless argument.
+―――I'll be damned if that's not a sound argument.
 }
 [sha:bf916598d0d6f2f8ec5cc23498fc2683830540fb]{
 -- Page 741, Offset 10671.
@@ -435,27 +469,32 @@ My consciousness fades.
 [sha:5a9279c2c34f374998a74b79cb1c658320e78a49]{
 -- Page 744, Offset 10678.
 -- アルクェイドが何事か騒いでいるけど、もう目を開ける力もない。
-Arcueid is making a fuss about something, but I don't have the strength to open my eyes anymore.
+Arcueid is making a fuss about something,
+ but I don't have the strength to open my eyes anymore.
 }
 [sha:2c3978a273358d267bab469cea982978e01f8243]{
 -- Page 745, Offset 10679.
 -- 「あ……ちょっと志貴、本当に眠っちゃうの……？」
-"Ah... hold on Shiki, are you really going to fall asleep...?"
+"Ah... hold on, Shiki, are you really gonna fall asleep...?"
 }
 [sha:b1014ea71b3b30218d8988dcd5725c9c2d2f23b5]{
 -- Page 745, Offset 10680.
 -- ……だから、眠いんだって。
-...I told you that I was sleepy.
+...I already told you I was sleepy.
 }
 [sha:850a1971e306a785961661de4eb3f532eb2ade55]{
 -- Page 745, Offset 10681.
 -- 死ぬ前に眠るから、朝になったらちゃんと起きるよ。
-I'm falling asleep, not dying. I'll be sure to wake up when morning comes.
+I'm falling asleep, not dying.
+ I'll be sure to wake up when morning comes.
 }
 [sha:4dc8bd0daa363633b7926369edf855f903cfc19d]{
 -- Page 746, Offset 10682.
 -- 「ほんとにほんと？　それ、きっと痛いよ？　治さなくていいの？　起きたら間違いなく失神するよ？」
-"Are you really going to? That's definitely going to hurt. Do you really not need any healing? I'm sure you'll faint when you wake up."
+"Are you really sure you wanna do that?
+ It's definitely gonna hurt.
+ Do you really not need any healing?
+ You're gonna faint when you wake up, you know?"
 }
 [sha:98ded4feeb8f9ade3d88ad2a597f08552f531e5f]{
 -- Page 746, Offset 10683.
@@ -465,12 +504,13 @@ I'm falling asleep, not dying. I'll be sure to wake up when morning comes.
 [sha:39105c9a00bfb0df69578d73cf6188047acec099]{
 -- Page 746, Offset 10684.
 -- 俺は眠るから、やりたかったらすきにしてくれ。
-I'm going to sleep, so if you want to do something then just do it.
+I'm going to sleep. If you want to do something then just do it.
 }
 [sha:22c1bb0260a457c0a2ab178df8a11e1f8d66b21a]{
 -- Page 747, Offset 10685.
 -- 「うん、そういうコトなら早く言ってくれれば良かったのに」
-"Ok, if that's the case then you should've told me that earlier."
+// unvoiced 'huh?' before text.
+"Huh...? If that's the case then you should've told me that earlier!"
 }
 [sha:ca2370f4baddc300b936f191aa2f05d3e5b5964f]{
 -- Page 747, Offset 10686.
@@ -480,7 +520,9 @@ After hearing that cheerful voice.
 [sha:d737280142da0651ddbcd9361bfe4af5ce923785]{
 -- Page 747, Offset 10687.
 -- 冷たい、今の自分の体より冷たい指先が、いたわるように肌に触れていくのを感じた。
-I feel cold fingertips, even colder than my frozen body, touch my skin in a caring manner.
+I feel cold fingertips,
+ colder than my frozen body,
+ touch my skin in a caring manner.
 }
 [sha:bc89ed427e964b4fef4924ef74e7bca3b133a6ab]{
 -- Page 747, Offset 10688.
@@ -525,7 +567,8 @@ What the hell are you―――"
 [sha:3acfa28df8271208f7befb7c4c54b1c8ad859b6a]{
 -- Page 750, Offset 10696.
 -- 何をしやがった、と言いかけたところで、すさまじい虚脱感に襲われた。
-Right as I was about to ask what she was doing, I was struck by a tremendous feeling of emptiness.
+Right as I was about to ask what she was doing,
+ I was struck by a tremendous feeling of despondency.
 }
 [sha:92ae5606cacd59f4f3ecc54b3512f09188534ffe]{
 -- Page 751, Offset 10697.
@@ -540,17 +583,19 @@ This time, my consciousness goes into a deep sleep without fighting back.
 [sha:58da2844c97a0f97f4c78f17c28ea5d28bea9b2f]{
 -- Page 752, Offset 10699.
 -- 「大丈夫、悪いモノじゃないわ。削げた肉の分だけならこれで塞がるわ。
-"It's okay, this stuff isn't bad. I'm just using it to plug up where your flesh has been gouged.
+"It's okay, this stuff isn't bad.
+ I'm just using it to plug up where your flesh has been gouged.
 }
 [sha:b08a318b773ac3cb42f70d12e0658d324802f680]{
 -- Page 752, Offset 10700.
 -- でも、骨ばっかりはちょっと無理かな。後でちゃんと人間の医者にかかりなさい」
-But I can't do much about the bones. You should definitely see a human doctor afterward."
+But I can't do much about the bones.
+ You should definitely see a human doctor later."
 }
 [sha:c883ab296fc44bafa516b68abe6a5f842db1ac54]{
 -- Page 752, Offset 10701.
 -- 冷たい指先が、離れていく。
-The cold fingertips are withdrawn.
+The cold fingertips withdraw.
 }
 [sha:971bf04634e4007fd519328041f5424463b0c2c6]{
 -- Page 753, Offset 10702.
@@ -565,12 +610,14 @@ The cold fingertips are withdrawn.
 [sha:f3fc9ba0d1df7126192264a5e63628db9cc480a8]{
 -- Page 753, Offset 10704.
 -- こんなに深い―――恐ろしくない眠りは、久しぶりだ。
-It's been a while since I've had such a deep sleep―――a sleep that wasn't so dreadful.
+It's been a while since I've had such a deep sleep―――
+a sleep that wasn't so dreadful.
 }
 [sha:fdf8fc22244033028216353b97db1e096acbd720]{
 -- Page 754, Offset 10705.
 -- 「しょうがないなあ。志貴の家って坂の上の屋敷でしょ？
-"It can't be helped. Your house is the mansion on top of that hill right?
+"Well, no surprise there.
+ Your house is the mansion on top of that hill, right?
 }
 [sha:e5a2127ed75b1e68bc2f478a560d5069a3f66e2c]{
 -- Page 754, Offset 10706.

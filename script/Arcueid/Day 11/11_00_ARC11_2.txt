@@ -41,7 +41,7 @@ And yet, I %{i}have%{/i} written them off simply because I never knew them.
 [sha:20fac4441c95224c8bd6876753811ccf40620471]{
 -- Page 45, Offset 29617.
 -- 結局のところ、直接手を下していないのなら、あらゆる罪は棚上げされる。
-In the end, if you didn't directly have a hand in it, all of that guilt can be shelved.
+As it turns out, you can shelve all that guilt if you had nothing to do with it.
 }
 [sha:acc78c3add0c4525e8a0bcfddd82590e85fef0a6]{
 -- Page 46, Offset 29618.
@@ -83,7 +83,7 @@ A chance to shed tears as you thank the departed for all their achievements,
 [sha:4b14229537bbe097c033cebd7b61245f38fbe082]{
 -- Page 47, Offset 29625.
 -- 悲しいから流す涙、悲しいから行う謝罪は、ただ自分のために行われる儀礼にすぎない。
-To cry or apologize simply because you are sad is nothing more than a self-serving formality.
+To cry and apologize out of sadness is nothing more than a self-serving formality.
 }
 [sha:adbd11cab7015331b44d6cb09758b033c5999a15]{
 -- Page 48, Offset 29626.
@@ -108,19 +108,20 @@ And yet, I can't stay away forever.
 [sha:63e336a2ae8a68622ff54d1fc17539d182c87424]{
 -- Page 49, Offset 29630.
 -- 悲しみはない筈だ。正義感もない筈だ。
-Probably not out of sadness. Probably not out of a sense of justice, either.
+I'm not supposed to feel sad. Nor am supposed to feel bad.
 }
 [sha:4621d30b7c353d06f6ac8f5e0a0caf71330ae48b]{
 -- Page 49, Offset 29631.
 -- 俺はつまるところ、己の命が惜しいだけの男の筈だ。
 // 惜しい is one of those bastards with two diametrically opposed meanings when translated
 // Based on some other TL examples, _命が惜しい_ specifically seems to tend towards (2): precious, dear, valuable
-At the end of the day, I'm merely a man clinging desperately to his own life.
+// changed to reflect the above
+At the end of the day, I'm supposed to be a man concerned with his own survival.
 }
 [sha:d2edb56b4036ff71eac77802c166462762a44e86]{
 -- Page 50, Offset 29632.
 -- なのに、これは違う、と思うものがある。
-Even so, I still feel like this is wrong.
+Even so, there's something about this that feels wrong.
 }
 [sha:1c16c893b7c41fe297b03993f10fd8ef2ec39ce2]{
 -- Page 50, Offset 29633.
@@ -196,14 +197,14 @@ Following her gaze,
 [sha:25167041b41723711b35f94783944ae9ede4646e]{
 -- Page 54, Offset 29645.
 -- 「……俺は、自分を確かめに来ただけなんだ。
-"...I just came to do some soul searching.
+"I just came to do some soul searching...
 }
 [sha:17cceb2593236637ad76d73ca29ae8ae905ac80e]{
 -- Page 54, Offset 29646.
 -- それももう、半分ぐらい答えは出た。結局、俺は」
 // Fairly liberal, literally more like 'in regards to that, I have only arrived at half an answer'
 // Referenced later in file
-Though, I've still only found half an answer.
+Though, I've still only found half the answer.
  In the end, I―――"
 }
 [sha:1d12134f54018d4071073a214117f78acd71ce8f]{
@@ -245,7 +246,8 @@ I felt it was the polite thing to do in this situation,
 [sha:302543b0b6c848d408a79f2b0b3535d36e6d57d3]{
 -- Page 56, Offset 29654.
 -- 「ロアを追うという事は、彼女を追うという事です。
-"To chase after Roa means to chase after that woman.
+// I'd rather just use "her" here if the alternative is "that woman", italics perhaps for emphasis.
+"To chase after Roa also means to chase after %{i}her%{/i}.
 }
 [sha:794e88827e5bd4c17e47e42f7b5df35e5142e1b0]{
 -- Page 56, Offset 29655.
@@ -262,7 +264,7 @@ Do you understand what that means?"
 [sha:47a531a5a7371dab709c01b8b231220ff210524a]{
 -- Page 57, Offset 29657.
 -- 「……分かっていませんね。
-"...It seems you don't understand after all.
+"It seems you don't understand after all...
 }
 [sha:e91583bfcfb816f9b8cabaa6b7811495fbca7f7e]{
 -- Page 57, Offset 29658.
@@ -272,37 +274,38 @@ Chasing that woman will only get you killed. You mustn't meet Arcueid Brunestud 
 [sha:df721272dbe5aa8f4ed4424a90126becaa658fef]{
 -- Page 57, Offset 29659.
 -- 「……それは、どうして？」
-"...And why is that?"
+"And... why is that?"
 }
 [sha:776dcd98f303f69bb408d0a3bbc1b0194cc87027]{
 -- Page 58, Offset 29660.
 -- 「一度でも吸血衝動に負けた真祖は、もう手遅れだからです。
 "If a True Ancestor succumbs to their vampiric urges even once,
- it's already over for them.
+ they're beyond saving.
 }
 [sha:a817bae5f462f57022cd5d66baef21c174a1aedc]{
 -- Page 58, Offset 29661.
 -- ……血を吸いたいという欲求は真祖にだってある。
-...Even a True Ancestor desires blood.
+Even True Ancestors desire blood...
 }
 [sha:6d3cdfcfc7055b3cf09d3b98c296cd13b9b952bb]{
 -- Page 58, Offset 29662.
 -- いえ、そもそも“人間の血を吸いたい”という欲求は真祖から人間にうつされたもの。
 No, that's not quite right.
- The desire to suck blood originated with them in the first place,
- and was only later passed on to humans.
+ The desire to suck human blood originated with them in the first place,
+ and was only later passed on to people.
 }
 [sha:3f4148ced680210b24786f771a7a7b442a9dd00f]{
 -- Page 58, Offset 29663.
 -- 死徒は所詮、人間のなれの果てにすぎない。わたしたち人間にとって正真正銘の怪物は、真祖と呼ばれる“始まりの吸血鬼”。彼女にとって貴方は、協力者である前に血液にすぎません」
-At the end of the day, Dead Apostles are no more than the ruins of what was once a human.
+// something about this long expression for なれの果て rubs me the wrong way. This is a tricky one to translate. I tend to phrase myself around it.
+At the end of the day, Dead Apostles are no more than the ruins of what was once human.
  The real monsters are the ones we call the True Ancestors, the 'first vampires'.
  She sees you more as a bloodbag than a collaborator."
 }
 [sha:be2a9924f611ff19dcfdd5aa25f6321872b87e7c]{
 -- Page 59, Offset 29664.
 -- 「始まりって……それは、どういう……？」
-"The first..? What do you mean..?"
+"The first...? What do you mean...?"
 }
 [sha:913bd32ce3af8c2cfbb391cfb5527aea26c4b6c9]{
 -- Page 60, Offset 29665.
@@ -313,7 +316,7 @@ At the end of the day, Dead Apostles are no more than the ruins of what was once
 -- Page 60, Offset 29666.
 -- 血を吸われた事で人間が吸血鬼化するのなら。その根源、大本にあたる“初めから吸血鬼だった存在”がいる事を。
 Humans only become vampires when their blood is sucked.
- So, it follows that there must exist beings that were vampires from the very beginning.
+ So, it follows that there must exist primordial beings that were vampires from the very beginning.
 }
 [sha:b9efd6ee2c331615e7450d32582865e7e221461f]{
 -- Page 60, Offset 29667.
@@ -324,7 +327,7 @@ Those bloodsuckers, which exist on their own evolutionary tree, are the True Anc
 -- Page 60, Offset 29668.
 -- 人間の血なんて必要なく、死徒たちと同等、いえそれ以上の超越能力をもつモノたち。
 Beings who do not require human blood to survive,
- and possess transcendental powers on par with―――no, surpassing those of the Dead Apostles.
+ and possess otherwordly powers on par with―――no, surpassing those of the Dead Apostles.
 }
 [sha:e18904c2fd8b8e67e3d2e7092e35b41c12de719d]{
 -- Page 60, Offset 29669.
@@ -334,7 +337,8 @@ Even among the True Ancestors, that woman is royalty.
 [sha:6657ef3afe994b1e10fe2c63f241c9496f34f5ad]{
 -- Page 60, Offset 29670.
 -- ……彼らには身分階級がありませんから王族、というのは正しくはありませんけど」
-...Though, vampires don't have a concept of social status,
+// vampires are a group bigger than just True Ancestors.
+Though, they don't really have the concept of social status,
  so calling her 'royalty' isn't really correct."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -350,7 +354,7 @@ Her explanation leaves me at something of a loss for words.
 [sha:467475dbf24fd3323223d4f78d32eb93073fceae]{
 -- Page 61, Offset 29673.
 -- ……驚いたな。
-...I'm surprised.
+I'm surprised...
 }
 [sha:e432742ea90f031dd90c02fb4b73efec811cbd01]{
 -- Page 61, Offset 29674.
@@ -360,13 +364,13 @@ I only said it because she felt so detached from the real world, but she really 
 [sha:3c36151974377c4cdfe1babb2693b6756d302373]{
 -- Page 62, Offset 29675.
 -- ……まったく。
-...Man.
+Man...
 }
 [sha:9846e5eaaf5e932bd51832f8097b7f7f9575ec01]{
 -- Page 62, Offset 29676.
 -- あんな、ばかみたいに明るくて、呆れるほど無鉄砲なお姫様とか、絵本の中にだっていやしないぞ。
-A disposition so sunny it's bordering on airheaded,
- a staggering disregard for common sense...
+With a disposition so sunny it borders on airheaded
+ and a staggering disregard for common sense...
  She's not exactly the sort of princess you'd see in a picture book.
 }
 [sha:3abd40a207855c69cb61a6102bc113218ecea8b3]{
@@ -387,8 +391,9 @@ They can get by just fine without drinking human blood.
 [sha:ce46b83b1b21acdbb427ee94d9481689e9e08db3]{
 -- Page 63, Offset 29680.
 -- けれど、その誕生にどんな間違いが起こったのか、彼らは唯一の欠点……不要な機能を持ってしまった。
-Who can say what went wrong.
- From the start, True Ancestors have possessed a single flaw... a single unnecessary function.
+// this first sentence is not so unimportant that it can simply be edited away. IT IS LORE-CRITICAL!
+However, perhaps something went wrong with their birth...
+ They came to possess one single flaw... one single unnecessary function.
 }
 [sha:90ca9dcde620c04db9efcd43268e0da246c549bf]{
 -- Page 63, Offset 29681.
@@ -416,24 +421,24 @@ Whether it's down to the sheer difference in Lifescale between us as species,
 [sha:72dfee490f2fbb1d3542f7d4a5031411c4eda03b]{
 -- Page 65, Offset 29685.
 -- ……仮に。血を吸う側の真祖が、それを望まなくとも」
-...Even if that's not what the True Ancestor who sucks their blood wants."
+Even if... that's not what the True Ancestor who sucks their blood wants."
 }
 [sha:22732ab682c2af31c4daf7562962da8c0d0e3f41]{
 -- Page 66, Offset 29686.
 -- 「………思い出した。死徒は自分の血を送る事で、人間を仲間にするんだっけ。逆に真祖ってヤツは、ただ血を吸うだけで人間を侵すって事ですか？」
-"...I remember now.
- If I've got it right, Dead Apostles 'turn' humans by sending their own blood into a person.
+"I remember now...
+ If I've got it right, Dead Apostles 'turn' humans by transferring their own blood into them.
  On the other hand, True Ancestors only need to suck a human's blood, right?"
 }
 [sha:6a6ce2162bc536273b498e1ca07ee677b0a44220]{
 -- Page 67, Offset 29687.
 -- 「ええ。そして問題は、彼らの吸血衝動には理由がない、という事です。理由がないから止めようがない。
-"Right. Thus, the problem is that there is no reason behind their vampiric urges. Because there's no reason, they can't be stopped.
+"Right. And the issue is that there is no reason behind their vampiric urges. In fact, their urges can't be stopped %{i}because%{/i} there's no reason for them.
 }
 [sha:24f421caff909044f7b67f2c29ee7818256cf090]{
 -- Page 67, Offset 29688.
 -- 真祖という完璧な生命が内包した欠点。
-Those otherwise perfect lifeforms called True Ancestors have a baked-in fault.
+These otherwise perfect lifeforms called True Ancestors contain a flaw within them.
 }
 [sha:9ea1effc041fc179ba6c1de405577a56b49aada5]{
 -- Page 67, Offset 29689.
@@ -444,24 +449,24 @@ Their 'sickness unto death', if you will.
 [sha:8e000d16dd27fa6d971fe70ba7e68aa814a05179]{
 -- Page 68, Offset 29690.
 -- 「それは理性で我慢をする、といったレベルの話ではありません。具体的、物理的に、彼らは持てるすべての力を使って、常に自分自身の欲求を封印している。
-"It's not just a matter of exercising self-restraint through reason.
+"It's not just a matter of exercising reasoned self-restraint.
  It takes concrete, physical effort―――every drop of power they have―――to keep that desire sealed away.
 }
 [sha:98a26d80207a9f506cab4e0d3ef3e9802871a999]{
 -- Page 68, Offset 29691.
 -- 強大な異能を自身に使う事で、彼らは吸血衝動を抑えている。けれどもし―――何等かの外的要因でその真祖の能力が低下してしまった場合、抑えていた吸血衝動がどうなるか、分かりますか？」
-By turning their own power on themselves, they're able to suppress their innate vampiric urges.
- However―――what do you think would happen to those urges if a True Ancestor's power were to suddenly deteriorate for reasons outside their control?"
+By turning their own extreme powers on themselves, they're able to suppress their innate vampiric urges.
+ However―――what do you think would happen to those urges they've held in so long if a True Ancestor's power were to suddenly deteriorate for reasons outside their control?"
 }
 [sha:9453c018624702a1e625eef1c737edeb63d9395c]{
 -- Page 69, Offset 29692.
 -- 何等かの外的要因で、自身の能力が低下した場合……？
-If something were to cause her power to deteriorate...?
+If something were to cause their power to deteriorate...?
 }
 [sha:888bf42feed51bb60df487d89b0768420a1174f7]{
 -- Page 69, Offset 29693.
 -- 例えば、深い傷を受けてその治療に力を使ったり。
-For instance... using her power to heal a grievous wound.
+For instance... using their power to heal a grievous wound.
 }
 [sha:d7c8801931fadd277a3e7d7fc0c3598554ebf45a]{
 -- Page 69, Offset 29694.
@@ -472,18 +477,19 @@ I once 'killed' Arcueid as thoroughly as it's possible to kill someone,
 [sha:db9322e8b697297a58b56b756726a699b4c182ef]{
 -- Page 70, Offset 29695.
 -- ……アルクェイドには10の力があるとしよう。
-Let's say that Arcueid has a power level of ten―――
+// numbers, keeping it as numbers so its easier to follow.
+Let's say that Arcueid has a total power of 10―――
 }
 [sha:0b27616f0ac49a373f4b24c4cba13983df2d7fff]{
 -- Page 70, Offset 29696.
 -- そのうちの７つぐらいを、彼女はずっと自分自身の抑制に対して使っていたとする。
-She probably has to use around seven of those points to keep her urges in check.
+She probably has to use around 7 of it to keep her urges in check.
 }
 [sha:a969309011930148c4227e52a850acce6f762596]{
 -- Page 70, Offset 29697.
 -- けれどもし10の力のうち５の力を失ってしまったら、残った５の力すべてを使っても、彼女は自分自身の欲求を殺せない。
-However, if her total power output were to drop from a ten to a five,
- even if she were to allocate all of it to suppressing her desires, it wouldn't be enough.
+However, if her total power were to drop from a 10 to a 5,
+ even if she were to allocate all of it to suppressing her desires, it still wouldn't be enough.
 }
 [sha:917d9bdfcb5700639074fa33f2a1c6aeb8c661b7]{
 -- Page 70, Offset 29698.
@@ -498,7 +504,7 @@ What was she cutting down on in order to get the energy to regenerate―――?
 [sha:297083d8fd6a5d447d744b6ff4a85c54bb6efe79]{
 -- Page 71, Offset 29700.
 -- 「……それで。その衝動とやらを抑えられなくなった真祖は、どうなるんですか？」
-"...Then what?
+"Then what...?
  If a True Ancestor is unable to suppress those urges, what becomes of them?"
 }
 [sha:fe5cabda24f035a5777b2d42bc3268ae5b5842c4]{
@@ -509,7 +515,8 @@ What was she cutting down on in order to get the energy to regenerate―――?
 [sha:ddc71dab440f3ecfc3351be36d27ded08ede125c]{
 -- Page 72, Offset 29702.
 -- 一度衝動に負けた真祖は、あとは堕ちていくだけです。
-Once they succumb to that urge, it's just a downward spiral.
+// since 堕ちた is used for the "fallen True Ancestors", this is clearly the intention with her phrasing. 'into depravity' because otherwise it sounds weird.
+Once they succumb to that urge, they'll just keep falling into depravity.
 }
 [sha:d4b08cbddb4acc3eff63ceee4c07496581bc3c2a]{
 -- Page 72, Offset 29703.
@@ -537,7 +544,7 @@ They become hedonistic monsters, who suck the blood of humans for nothing more t
 [sha:958396480f312eb71077bfdb112e3e272cc8e254]{
 -- Page 74, Offset 29707.
 -- ……昨夜のアルクェイドの姿がうかぶ。
-...I remember how Arcueid looked last night.
+I remember how Arcueid looked last night.
 }
 [sha:8c7fe5c61d26b2ea6a45dc22e72d8679996bc7fc]{
 -- Page 74, Offset 29708.
@@ -600,9 +607,9 @@ In preparation for the time when they become unable to withstand their urges, ea
 [sha:acc18640013c431912b9af90ed566f46076fd9b9]{
 -- Page 77, Offset 29719.
 -- 彼らはすでに死んでいる使徒。真祖たちに痛み止めとして生かされていた吸血鬼。それがこの街に巣くっている、死徒と区分される吸血鬼の始まりです」
-They're the dead disciples of a True Ancestor.
- Vampires kept alive to serve as painkillers.
- That's how the Dead Apostle that infests this town originally came into being."
+They're apostles long since subsumed by death.
+ Vampires kept alive to serve as the True Ancestors' painkillers.
+ This is how the vampires classified as Dead Apostles that now lurk in this city came to be."
 }
 [sha:ac35c9553b96f9709937659ddf826828582258bd]{
 -- Page 78, Offset 29720.
@@ -612,7 +619,7 @@ They're the dead disciples of a True Ancestor.
 [sha:3f6c62d7bb2293004a95160d013c036eaa03c214]{
 -- Page 78, Offset 29721.
 -- ……いえ、今まで必要がなかっただけですね。
-...Well, it's more like there wasn't a need until now.
+Well, it's more like there wasn't a need until now.
 }
 [sha:c6664881369eb3e5af1d223f2a12f4fa6448fdf6]{
 -- Page 78, Offset 29722.
@@ -682,7 +689,7 @@ That's far from perfect.
 -- Page 82, Offset 29734. Glued. Mods: @x.
 -- どれほどの力があろうと、その発生に致命的な<故障|エラー>がある―――
 // Leading space for glue
- No matter how strong they are, if they start off with that fatal flaw―――
+ No matter how strong they are, if there was such a fatal error in their creation―――
 }
 [sha:72d37d9bc7a73d256347dc29c64608d93f0fe54c]{
 -- Page 83, Offset 29735.
@@ -709,7 +716,7 @@ You see, she was already at her limit."
 [sha:5d631305fe85b050fba007113d99888b063f126c]{
 -- Page 84, Offset 29739.
 -- 「―――え？」
-"―――Eh?"
+"―――Huh?"
 }
 [sha:926b283344d04295fb40d2da72e36d465e3f37e2]{
 -- Page 85, Offset 29740.
@@ -727,7 +734,7 @@ Even if she's only been active for a fraction of that time,
 [sha:50cbf7d8232f3ca23ec5192f45d51cfaa317b528]{
 -- Page 85, Offset 29742.
 -- 長く彼女の中にわだかまった衝動は、じき彼女自身を食い破ります。むしろ今までよく保った方でしょう。
-Sooner or later, the urge that's been building within her all that time will swallow her whole.
+Sooner or later, the urges that have been lurking within her all that time will swallow her whole.
  It's honestly impressive that she's lasted this long.
 }
 [sha:3f8ef0eb3cf16c5ee44d205d92f8bd1cb17540bb]{
@@ -738,7 +745,7 @@ She is―――Arcueid is―――a being without a future."
 [sha:27ac4054cc0750d341abde28940db2cb37576279]{
 -- Page 86, Offset 29744.
 -- ―――どくん、と。
-―――%{i}Badump%{/i}.
+―――%{i}Ba-dump%{/i}.
 }
 [sha:21092be4ec235e4118fa144880f04c26163027f3]{
 -- Page 86, Offset 29745.
@@ -780,13 +787,14 @@ No matter how I think about it―――it doesn't make sense.
 [sha:d268fa4970f5f081394059dc0a0d633f7b281e7e]{
 -- Page 89, Offset 29752.
 -- 「……先輩の話は、筋が通らない。
-"I'm not sure I follow.
+// Shiki is desperate, he's not "clueless", he's trying to reason on his own here, not get a clarification from Ciel.
+"What you're saying... doesn't make sense.
 }
 [sha:09812eedc8e7931a657e3a346765c129c729bec4]{
 -- Page 89, Offset 29753.
 -- だってさ、もう自分がダメだって判っているヤツが、俺たちのためなんかに、吸血鬼を退治しに来る訳がない」
 I mean, if she knew her time was running out,
- I don't get why she came here to exterminate those vampires for our sake."
+ there'd be no reason for her to come exterminating vampires for us."
 }
 [sha:469cd274408ca6c7e52aefd95b8760e34d400fa1]{
 -- Page 90, Offset 29754.
@@ -807,11 +815,13 @@ I mean, if she knew her time was running out,
 [sha:bda309a06f37a00a3ce2e537552064a633cf9e51]{
 -- Page 91, Offset 29757.
 -- 彼女が生まれた十二世紀は、もっとも堕ちた真祖がはびこった時代です」
-The twelfth century, when she was born, was an era of fallen True Ancestors running rampant."
+// this is important lore, buddies.
+The twelfth century, when she was born, was the era in which fallen True Ancestors were at their most rampant."
 }
 [sha:b565f68f6e7a274050a79c770a574f9919aa2836]{
 -- Page 92, Offset 29758.
 -- 「真祖たちは堕ちた真祖も、その真祖が<徒|いたずら>に増やしていく死徒も放ってはおけなかった。
+// god I wish this <徒|いたずら> pun was possible to incorporate but its literally undoable.
 "The True Ancestors couldn't leave their fallen counterparts―――and the armies of Dead Apostles they'd sired―――alone.
 }
 [sha:100f40e1f487f98ff780b4b9c3598f2d7fddea29]{
@@ -835,7 +845,7 @@ That woman was like a missile;
 [offset:29762]{
 -- Page 94, Offset 29762.
 -- ―――どくん。
-―――%{i}Badump%{/i}.
+―――%{i}Ba-dump%{/i}.
 }
 [sha:22f63aeadd0daec5fbacd2ab209917fd54c8090d]{
 -- Page 94, Offset 29763.
@@ -856,12 +866,12 @@ She's so good-natured and compassionate that despite knowing and carrying her ow
 [sha:6252b0b695cd9fc3be2619b1aa4954c2ae3b9382]{
 -- Page 95, Offset 29766.
 -- 「いえ、兵器なんですよ。もともと彼女はそういった意味合いでのみ存在を許されていた。
-"No, she is a weapon. From the start, that was the only existence she was permitted to have.
+"No, she %{i}is%{/i} a weapon. That was the only condition under which she was allowed to live from the very start
 }
 [sha:b5ef5bac1b6787f91a3e7fdbac8f2620fc260c85]{
 -- Page 95, Offset 29767.
 -- ……ですから、この街に来てからの彼女はどうかしていたんでしょうね。あんなに話をする彼女を見たのは初めてです。
-...That's why I'm so puzzled by what's come over her since she's been here in this city.
+...That's why I'm so puzzled by what's come over her ever since she came to this city.
  I've never seen her talk so much before.
 }
 [sha:532bd3a5962897587ea1cf2a6f878d2b30eea811]{
@@ -877,12 +887,13 @@ She's never said so much as a word until now."
 [sha:4bdc9cd2427238a506b81ea9089cbead9fbf7f1d]{
 -- Page 96, Offset 29770.
 -- それこそ馬鹿げた話だ。
-This conversation is positively absurd.
+// not the conversation, 話 here isn't literal
+Now %{i}that's%{/i} absurd.
 }
 [sha:e8314c87bcba910485cac3b58125a63c7d0cc350]{
 -- Page 96, Offset 29771.
 -- あのお喋りではた迷惑なやつが、言葉を話さなかったとか、どの口で。
-I don't know how you could say that chatterbox never spoke.
+I don't know how you could possibly say that chatterbox never spoke.
 }
 [sha:b1147c6901b07d1c6a4a2ce9f01f6e711ae5f014]{
 -- Page 97, Offset 29772.
@@ -899,7 +910,7 @@ She's existed like that since antiquity―――for hundreds and hundreds of yea
 [offset:29774]{
 -- Page 98, Offset 29774.
 -- ―――どくん。
-―――%{i}Badump%{/i}.
+―――%{i}Ba-dump%{/i}.
 }
 [sha:f4cf8cabc6fdc5e5fdbce7aa8e1f81a1e41fed62]{
 -- Page 98, Offset 29775.
@@ -924,12 +935,12 @@ Images of scenery I could never have known,
 [sha:677e92dfe7f094e5ed7a6cc00b6e06b028685f18]{
 -- Page 99, Offset 29778.
 -- 山間に広がる最後の楽園。
-A final paradise, sprawled among the mountains.
+The final paradise, sprawled among the mountains.
 }
 [sha:62e43bd98536e70dc341b01ba02c5fe8e4b2b461]{
 -- Page 99, Offset 29779.
 -- 星の内海を思わせる黎明の原野。
-A dawn wilderness that calls to mind the %{i}Inner Sea of the Planet%{/i}.
+The wilderness of genesis, evocative of the %{i}Inner Sea of the Planet%{/i}.
 }
 [sha:8a0be3cbfe24468468ae6a66495c0286f331df79]{
 -- Page 99, Offset 29780.
@@ -939,8 +950,7 @@ The courtyard of the castle rooted within that domain.
 [sha:6b79db304a3e910596260c49d6a5f80da0e2db5b]{
 -- Page 99, Offset 29781.
 -- 咲きほこる白い花の海で、女は眠るように佇んでいる。
-// my wife
-A woman stands still amidst that sea of white blossoms, as though asleep.
+A woman is poised amidst that sea of white blossoms, as though asleep.
 }
 [sha:7c98729cc814433f70a9c89cdbbf30763d476772]{
 -- Page 100, Offset 29782.
@@ -999,12 +1009,12 @@ The joy of meeting someone's gaze―――
 [sha:4aa070700ac29b5379bf9a318602211e501be825]{
 -- Page 103, Offset 29792.
 -- 誰かと会話を交わす充実も、
-And the enrichment from exchanging conversation―――
+And the fulfillment felt from exchanging conversation―――
 }
 [sha:634eeba742443993805a44863a1dafd4aba21996]{
 -- Page 103, Offset 29793.
 -- はじめから与えられていなかった。
-From the beginning, she was given neither.
+She was never to be given either.
 }
 [sha:cd7689ecc7cb6a0e8a2d80686e57ffc82cb359e7]{
 -- Page 104, Offset 29794.
@@ -1025,24 +1035,24 @@ But, it's ironic: truly excessive power can bring misfortune. She was shunned ev
 -- Page 105, Offset 29797.
 -- 城を与えられていながら、彼女の世界は薄暗い地下室だけだった。だから、彼女に感情を与えてくれるモノはどこにもいなかった」
 Even though she had been bestowed a castle, her world was limited to a gloomy basement.
- And so, there was never any reason to endow her with the capacity for emotions."
+ And so, there was never anything there to grant her emotions."
 }
 [sha:71f1bc414100528fe52fd87fcb0a57a10190f848]{
 -- Page 106, Offset 29798.
 -- 「真祖たちは兵器の手入れをするように彼女を扱った。兵器に余分な機能は必要ないですから。
-"The True Ancestors dealt with her like they were maintaining a weapon.
+"The True Ancestors treated her as though they were maintaining a weapon.
  After all, there's no need to give a weapon extraneous features.
 }
 [sha:9728fe2a0058294b40a31b6836bbc3c4e9ea345f]{
 -- Page 106, Offset 29799.
 -- パンを焼く機能も、洗濯物を洗ってくれる機能も不要です。
-A weapon doesn't need the function to bake bread or do laundry.
+Weapons do not need the function of baking bread or doing laundry.
 }
 [sha:6f96132aefc18ae49793063697fa18cc2d190f94]{
 -- Page 106, Offset 29800.
 -- そんな余分なものを付属させるなら、もっと兵器らしい機能を付属させるでしょう？」
 If you were going to attach unnecessary features like that,
- you'd need to balance them out with more weapon-appropriate features, right?"
+ you might as well add more weapon-appropriate features instead, right?"
 }
 [sha:ad11e3d58a70cc9b9fbd97fc5bbd4ab20ca55980]{
 -- Page 107, Offset 29801.
@@ -1059,7 +1069,8 @@ She'd said that in a sing-song voice.
 [sha:84a5ad71e55bde8ffbe55d468e4561c0df72804a]{
 -- Page 108, Offset 29803.
 -- 今まで自分だけで決めてきたと、空虚な目をしていた理由がそれか。
-Until now, she'd made her decisions alone. So that's the reason for those hollow eyes, huh.
+// referencing Offset 25391.
+That's why her gaze had been so empty when she had said she always decided on things by herself.
 }
 [sha:9bde9c51ead326ced3a84e83e5798f0b3669c546]{
 -- Page 108, Offset 29804.
@@ -1069,7 +1080,7 @@ For her, other people had never been necessary. They didn't exist.
 [sha:6927b31dbd96293681cde39abe48756f3ccc32f7]{
 -- Page 108, Offset 29805.
 -- それが単に、知らなかっただけだとしても。
-Even if she simply didn't know that they did.
+Even if that was only because she didn't know about it.
 }
 [sha:cfd99877ea36f756c74449f7cb53b49a4c06c91c]{
 -- Page 109, Offset 29806.
@@ -1089,17 +1100,17 @@ Words and feelings didn't exist for her.
 [sha:e32918746dd3179640e1f6885f400d4a190d10d2]{
 -- Page 109, Offset 29809.
 -- 非人間である死徒より、もっと上の<怪物|モンスター>。
-A monster far surpassing even something so inhuman as a Dead Apostle.
+She's a monster on a higher level than even the inhuman Dead Apostles.
 }
 [sha:d64d27bb260820939f74962c7bb4560af3a71620]{
 -- Page 109, Offset 29810.
 -- 生きている意味も意義も、あの生き物には初めから存在しない」
-A living being for whom life never held any meaning or significance to begin with."
+There was never any meaning or significance to that being's life."
 }
 [sha:fe888201c6e073bdfc0f0b79d6b3b9b51c71b52e]{
 -- Page 110, Offset 29811.
 -- ……そうかもしれない。
-...That may be so.
+That may be so...
 }
 [sha:5b6a45b1dad784e0ff77fe2ebc6fd6c1145ca58a]{
 -- Page 110, Offset 29812.
@@ -1119,7 +1130,7 @@ That's why I came to the conclusion she'd always been like that.
 [sha:4dc639a6b57b25d7052c5e657beac626dacd2f66]{
 -- Page 111, Offset 29815.
 -- ……なんて残酷な勘違いだったのか。
-...What a cruel misunderstanding.
+What a cruel misunderstanding...
 }
 [sha:7b3ec749007c3c83196f712fd41589a3af386c77]{
 -- Page 111, Offset 29816.
@@ -1152,7 +1163,7 @@ In that classroom bathed in the light of the setting sun,
 -- Page 113, Offset 29821.
 -- 「アルクェイドは長く活動しているくせに、生きるという意味合いをわたしたちより知り得ていない。
 "Despite how long Arcueid has been around,
- she doesn't understand what it means to be alive any better than the rest of us.
+ she understands less about what it means to be alive than even we do.
 }
 [sha:77a4c2eeb8cb05a7f11a86e23a8f6588b7fdf3c7]{
 -- Page 113, Offset 29822.
@@ -1165,7 +1176,8 @@ If we only consider the time during which she's been permitted to mobilize,
 [sha:845fda95b3a26625355d454c9b069e5a4d21acb7]{
 -- Page 113, Offset 29823.
 -- 夢すら見ないようでは、そこに人間性など発生する筈がありません」
-There is no way that she could have developed anything resembling a human nature in such a dreamless sleep."
+// by the way, Arcueid actually does dream --in fact, she specifically remarks that she dreams the most out of all the True Ancestors. Stupid Ciel.
+There is no way that she could have developed anything resembling humanity in such a dreamless sleep."
 }
 [sha:0811e5ba5da35a94b7985c3bd90e9f345f4707c0]{
 -- Page 114, Offset 29824.
@@ -1181,7 +1193,7 @@ I find just talking like this to be pretty fun.'
 -- Page 115, Offset 29826.
 -- 「……そうして、堕ちた真祖をすべて処断した後、彼女が城から出る事はなくなりました。
 "And so, after passing judgment on all of the fallen True Ancestors,
- there was no longer a reason for her to leave her castle.
+ there was no longer any reason for her to leave her castle.
 }
 [sha:fda7e56dc144eadb223b3fcc142c99986391af7e]{
 -- Page 115, Offset 29827.
@@ -1199,10 +1211,10 @@ However, she was never able to become truly free.
 As for why―――as the result of a truly trivial misunderstanding,
  she massacred the other True Ancestors left in the castle."
 }
-[sha:d1c6b7f916227480889a3df9d70443103f26547f]{
+[offset:29830]{
 -- Page 116, Offset 29830.
 -- ……そうか。
-...I see.
+I see...
 }
 [sha:8be49cde1052edc69d74ef42adebc85585975dc9]{
 -- Page 116, Offset 29831.
@@ -1263,12 +1275,11 @@ Even now that the True Ancestors binding her are gone,
 [sha:12680a208967f5245d798a4e0de69557865e95bb]{
 -- Page 119, Offset 29841.
 -- 彼女にはそれ以外の楽しみがないのでしょう」
-You see, for her, there is no other pleasure."
+I presume there is nothing else she finds enjoyment in."
 }
 [sha:6d86034c6d9453987e9c7ee96d55bacd8760990a]{
 -- Page 120, Offset 29842.
 -- それは、うそだ。
-// oh yeah it is (´・ω・｀)
 That's a lie.
 }
 [sha:2ff05870185ac6d46a8c67331c5fcc7896409f74]{
@@ -1309,7 +1320,7 @@ The simple tranquility of the idle hours of the evening, all these things that w
 [sha:9c3620411f00fd384a6dbc14d322e1a71f53fcb6]{
 -- Page 123, Offset 29850.
 -- そういった些細な繰り返しが、あいつにとっては、今まで見た事もなかった喜びだった。
-She was happy because she had never experienced that trivial repetition up until now.
+She was happy because she had never experienced that trivial repetition of events up until now.
 }
 [sha:733d6bf90b55ee41acac2042926ed8b4eb152a2f]{
 -- Page 124, Offset 29851.
@@ -1337,17 +1348,17 @@ I simply can't stand that her past,
 -- Page 125, Offset 29855.
 -- ……本当に、俺は半分しか答えを見つけていなかった。
 // Callback earlier in the file, offset 29646.
-...I guess I never had found the other half of that answer before.
+I really had only ever found half the answer...
 }
 [sha:990c0c0d84352c4f69619e04f86c208d9d9d27c9]{
 -- Page 125, Offset 29856.
 -- やるべき事なんて一生わからない。
-I've spent my whole life not knowing what to do.
+I will never in my whole life understand what I %{i}should%{/i} do.
 }
 [sha:5475267ad16be7225ab51876f4988bf07129fd6c]{
 -- Page 125, Offset 29857.
 -- でもやりたい事だけは、今ようやく実感できた。
-But now, I've finally found something I want to do.
+But at least now, I've finally found something I %{i}want%{/i} to do.
 }
 [sha:0b989fa497f1a060b1c6f2928fd505d661bef06f]{
 -- Page 126, Offset 29858.
@@ -1357,7 +1368,8 @@ I don't want her to feel like she's lucky to experience these commonplace things
 [sha:308f763f96ddbe9598c4b1433f60243cee074a4b]{
 -- Page 126, Offset 29859.
 -- そんなもの、いつだって手に入るものだと感じるようにしてやれたのなら、それはどんなに――――
-If I made these experiences things that she felt were always within her grasp, then how much more――――
+// I'm making the assumption here that he's about to say それはどんなに幸せなことでしょう so "then just how wonderful would that be?"
+If I made these experiences things that she felt were always within her grasp, then just how――――
 }
 [sha:80de500c1daa6e77aa1ceed9d850c8cc68cedd73]{
 -- Page 127, Offset 29860.
@@ -1382,7 +1394,7 @@ I took a long detour, but thanks to that, I feel refreshed.
 [sha:74ddc7a6cec073be75f2ed802cbf7c1734f6a83d]{
 -- Page 128, Offset 29864.
 -- 「……わたしの話、聞いてました？」
-"...Were you even listening to me?"
+"Were you even listening to me...?"
 }
 [sha:91892d7ccab9dd687bc12d950a1d271c2caa4ca9]{
 -- Page 128, Offset 29865.
@@ -1403,7 +1415,7 @@ Senpai sighs and nods, not entirely satisfied.
 [sha:79a33db503e07597bc21643290aa64db3f72631f]{
 -- Page 129, Offset 29868.
 -- 「えっと、つまりですね、彼女は――――」
-"Um, so basically, that woman―――"
+"Um, so basically, she's―――"
 }
 [sha:af4e110c7cbbb94b934cee028884ba2527ce54f8]{
 -- Page 129, Offset 29869.
@@ -1414,7 +1426,7 @@ Senpai sighs and nods, not entirely satisfied.
 -- Page 129, Offset 29870.
 -- アルクェイドが何をしていようが、どんなにメチャクチャなヤツだろうが、もう、どうでもいいんです。
 It doesn't matter to me what Arcueid's up to,
- or how absurd of a person she is.
+ or how dangerous of a person she is.
 }
 [sha:b0097263068b572c751fb0cbdcad5de638bd3930]{
 -- Page 129, Offset 29871.
@@ -1432,10 +1444,10 @@ That's what I want to do right now.
 -- これ以上、あいつをひとりにはしておけない。
 I don't want her to be alone any more.
 }
-[sha:b3e335255e09062b9b9dcdf05161afd80d68e37d]{
+[offset:29874]{
 -- Page 131, Offset 29874.
 -- 「……そうですか。
-"...I see.
+"I see...
 }
 [sha:7af513bbdd16247ae92ee3ebc73d118506037d9f]{
 -- Page 131, Offset 29875.
@@ -1445,7 +1457,7 @@ Though, is that truly your burden to carry?"
 [sha:44da351efbceede4ae0f07ca2b6ed76f122c9bf4]{
 -- Page 132, Offset 29876.
 -- 実のところ、どんなに俺が訴えたところで、遠野志貴には何の責任もない。
-In truth, no matter how much I protest, none of this is actually Tohno Shiki's responsibility.
+In truth, no matter how much I want it to be, none of this is actually Tohno Shiki's responsibility.
 }
 [sha:d8e0493917dc48cb28f54ab1f22ad858b08e7d69]{
 -- Page 132, Offset 29877.
@@ -1460,7 +1472,7 @@ Take down the enemy that Arcueid came here to fight, and protect the city?
 [sha:0e013c71b6c749c329b1d6a36c1de68b7c02d47e]{
 -- Page 133, Offset 29879.
 -- そんなのはきれい事だ。こう正しく言い直せ。
-That's just whitewashing the truth. If she were to say it like it is, it would be more like―――
+That's just whitewashing the truth. You should just say it like it is―――
 }
 [sha:30009f59a3075ae84b6a294482d14bfca8bd8b4f]{
 -- Page 133, Offset 29880.
@@ -1513,13 +1525,13 @@ The thing she shortened her own lifespan to protect.
 -- Page 135, Offset 29889.
 -- 本来、何よりも優先するべき、自分たちの幸福の在処。
 The thing we naturally ought to prioritize above all else:
- the whereabouts of our own happiness.
+ knowing where we can find our own happiness.
 }
 [offset:29890]{
 -- Page 135, Offset 29890.
 -- “―――なんて、ろくでなし”
 // Unvoiced
-―――Honestly, what a fool I've been.
+'―――Honestly, what a fool I've been.'
 }
 [sha:269f0f82fba8e5a847f6cc862195910d4b3fb4e0]{
 -- Page 136, Offset 29891.
@@ -1529,7 +1541,7 @@ The thing we naturally ought to prioritize above all else:
 [sha:ec76c6dbd8889a48a4cc6c149dc5c1246e2e2fb5]{
 -- Page 136, Offset 29892.
 -- あいつが人間なんて気にしない吸血鬼だって言うのなら、俺は、吸血鬼なんて気にしない、殺人鬼でいい」
-If you're saying she's a vampire who doesn't care about humans, then you can call me a bloodthirsty killer who doesn't care about vampires."
+If you're saying she's a vampire who doesn't care about humans, then you can call me a bloodthirsty murderer who doesn't care about vampires."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 136, Offset 29893.
@@ -1539,12 +1551,12 @@ If you're saying she's a vampire who doesn't care about humans, then you can cal
 [sha:644c454d07bc5a31e9e673bcc63ba9e7ea00cb22]{
 -- Page 137, Offset 29894.
 -- まっとうな人間として間違った価値基準。
-A different standard of values than a decent human being.
+Values differing from those of a decent human being.
 }
 [sha:20460aecee09fef06eb0ca45da4b39b6df8b6374]{
 -- Page 137, Offset 29895.
 -- それがヴローヴやロアと同じ、人間として最低のものだと受け入れる。
-To humanity, I'm the same as Vlov or Roa. I accept that I'm the lowest of the low.
+I can accept that, to humanity, I'm the same as Vlov or Roa; the lowest of the low.
 }
 [sha:ca7d724657ec366369b7030fecd0c06a2d8d8fb7]{
 -- Page 137, Offset 29896.
@@ -1576,7 +1588,7 @@ I didn't realize that you were already such a lost cause."
 -- Page 139, Offset 29901.
 -- せっかくですからオマケの忠告です。一度吸血衝動を抑えられなかった真祖は立ち直れない。もし彼女が貴方の前に現れたとしたら、それは貴方の血を吸いに来た、という事です」
 Because I'm feeling generous, here's some free advice.
- A True Ancestor who succumbs to their vampiric urges once will never fully recover.
+ True Ancestors who have succumbed to their vampiric urges even once will never fully recover.
  If she shows herself to you again, it will be because she's come to suck your blood."
 }
 [sha:d282998920556dd81ff747521d42fcb5c9aa6e12]{
@@ -1587,13 +1599,12 @@ What Senpai says may be true for her.
 [sha:eb0416fca036d481bbba65108819ab4d82e2f4e2]{
 -- Page 140, Offset 29903.
 -- けど、それは俺とは違う真実だ。
-// BUILT DIFFERENT TOHNO SHIKI
 However, it's not true for me.
 }
 [sha:09e1a7774eab49588efea3e9a889677fae03cef5]{
 -- Page 141, Offset 29904.
 -- 「そんな事はないですよ。
-"There's no way.
+"That's not gonna happen.
 }
 [sha:400fa8f66e0dd32f271cc4814da9071f8da8eeb2]{
 -- Page 141, Offset 29905.
@@ -1675,7 +1686,7 @@ That too, will end here."
 [sha:09ddcce47a4dcd9b341a1a692e860ccb8f4d4a3d]{
 -- Page 147, Offset 29920.
 -- ……手向けの花が揺れている。
-...The flowers left in memory of the dead are swaying softly.
+The flowers left in memory of the dead are swaying softly...
 }
 [sha:3601bc87759b354adefb7d409ba068a73eeaacbb]{
 -- Page 147, Offset 29921.
