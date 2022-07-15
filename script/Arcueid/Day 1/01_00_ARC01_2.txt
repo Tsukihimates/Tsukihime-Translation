@@ -32,7 +32,7 @@ This year marks the fortieth anniversary of the old school's founding.
 -- Page 73, Offset 1345.
 -- 進学率はそこそこ、部活動はほどほど、校則はそれなりに自由な、ごく平均的な高等学校。
 It's a totally unremarkable high school with a moderate rate of advancement,
- passable extracurricular activities and reasonably lax school rules.
+ passable extracurricular activities, and reasonably lax school rules.
 }
 [sha:6c71c56b1f7e108741a1972ce05ec4938760ee45]{
 -- Page 74, Offset 1346.
@@ -84,12 +84,12 @@ The sky is bleak.
 -- 理由もなく、参列者の途絶えた葬式とか、<延々|えんえん>と続く<鯨幕|くじらまく>を想像する。
 // 鯨幕 is striped banner used at funerals
 I find myself imagining a funeral with no attendees,
- or a somber funerary curtain stretching on and on into the distance.
+ or a somber funerary curtain stretching on and on into the distance...
 }
 [sha:4c4713837382092a7ed63c910564ee5982dae440]{
 -- Page 77, Offset 1356.
 -- ……我ながら、暗い考えにため息をつく。
-...I sigh at my dark thoughts.
+I sigh at my dark thoughts.
 }
 [sha:c6f7a0325000b3c0cd6279136192e5ca9f1540ca]{
 -- Page 77, Offset 1357.
@@ -124,14 +124,12 @@ As I studiously dedicate myself to my prep work, the classroom begins to fill wi
 [sha:6d817444ab7bf8a14e1c094d96e3c574c773f274]{
 -- Page 79, Offset 1363. Mods: @k, @e.
 -- 「あー、あれか、ボランティア！
-"Oh, that's right, volunteers!"
+"Oh, that's right, volunteering!"
 }
 [sha:eeb8a3caea92938e633fb2e352764c3eacdd8e53]{
 -- Page 79, Offset 1364.
 -- でも今日だったっけ？　やば、おれサボったかも!?」
-// Reading サボったかも as "maybe I will end up having bunked off",
-// as in they didn't do an assignment on time, etc.
-"It's actually today? Shit, I haven't done it!"
+"Was that today? Shit, did I accidentally skip?!!"
 }
 [sha:ffd125999e1a7c0f809918a7de2b1880d0f3f304]{
 -- Page 80, Offset 1365.
@@ -141,8 +139,8 @@ The students in class 2-C get along better than most.
 [sha:8241fa2083ac8578d0b4be1bc1df4cfe0fc17a03]{
 -- Page 80, Offset 1366.
 -- 顔を見れば気軽に挨拶をかわし、それぞれの席に腰を下ろす。
-They great each other cheerfully the moment they see one another,
- before each sitting in their own chairs.
+They greet each other cheerfully as they see one another,
+ before taking their seats.
 }
 [sha:0139952e1ccd7d5317c6cd11bc5c9a47f56cd9d2]{
 -- Page 81, Offset 1367.
@@ -154,7 +152,7 @@ I have a chat with the students that have just come back from club activities.
 -- もう討論の余地もないほど消費された昨夜のネットニュースから、つい10分前に起きた学校の新情報までを、確認事項のように話し合う。
 We cover everything ranging from last night's news,
  which has been so thoroughly discussed there's barely anything left to say about it,
- to new information about the school that happened not ten minutes ago.
+ to school gossip that's less than ten minutes old.
 }
 [sha:720f05ef930d705073926308d77b2fe081d3a7f4]{
 -- Page 82, Offset 1369.
@@ -211,7 +209,7 @@ I know who it is without having to look.
 [sha:de805cfb4cd43e099fdb6bd0d7f8bfc43f6078a3]{
 -- Page 85, Offset 1379.
 -- 今朝も辛気くさい顔しやがって、まったくクソみたいなヤロウですねぇ！」
-Man, you look irritated this morning. You seriously look like shit!"
+Man, do you ever %{i}not%{/i} look like a downer? You really are a piece of shit!"
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 85, Offset 1380.
@@ -244,12 +242,12 @@ Someone went out of their way to see you this morning, and you won't even say he
 [sha:5a13177264e27c5bccb39873ab99ad320b23c9e7]{
 -- Page 87, Offset 1385.
 -- そもそもアリガトーとかないし。おまえのために学校に来てるワケじゃないし」
-Besides, I have no reason to thank you. I didn't come to school for you."
+Besides, I have no reason to thank you. I don't go to school for you."
 }
 [sha:30698c13546470d2771e04fca4d24aafb92ea29f]{
 -- Page 88, Offset 1386.
 -- 「なにい!?　バカ言うなよ、オレは遠野のために学校に来てるんだぞ！　そんなの不公平じゃんか！」
-"What? Don't be ridiculous! I came to school just for you! Isn't that unfair?!"
+"What? Don't be ridiculous! I only ever go to school for you! Isn't that unfair?!"
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 88, Offset 1387.
@@ -289,7 +287,7 @@ That's him, Inui Arihiko.
 [sha:06e01a155d27556f5baf140f7f15b9a9559b8684]{
 -- Page 90, Offset 1394.
 -- 「……まあいいか。朝から教室に来るのはいい事だ。
-"...Well, okay. At least you're doing something good by coming to class in the morning.
+"Well, okay. At least you're doing something good by coming to class in the morning.
 }
 [sha:d315b5072a490ff434a7e9167ccdb9900d6bc64b]{
 -- Page 90, Offset 1395.
@@ -336,7 +334,7 @@ That's your attitude toward your rival from middle school? Couldn't you be more 
 [sha:18e827041de06a47ffa4ad123da274d9ad67ca04]{
 -- Page 93, Offset 1403.
 -- 「……なんで俺とおまえがライバルなんだ。
-"...Why do you and I have to be rivals?
+"Why do you and I have to be rivals...?
 }
 [sha:ab21e41c6b0dbac905f53e9f7f16a1c0db557132]{
 -- Page 93, Offset 1404.
@@ -346,7 +344,7 @@ If you want to live an unprincipled life, find some like-minded people on the st
 [sha:f1de3fd9e9fa91a6459ee54680a5116458d025f1]{
 -- Page 93, Offset 1405.
 -- いや、中学からこっち総額一万円近い金額を貸したきり戻ってこないので、外敵と言えば間違いなく外敵だけど。
-No, I've lent him almost 10,000 yen since middle school and he hasn't given any of it back, so I can call him a foreign enemy at this point.
+No, I've lent him almost 10,000 yen since middle school and he hasn't given any of it back. That's not a rival anymore, that's just a normal enemy.
 }
 [sha:0375ca31c0134d836d05672fabfab5aa9e8881ba]{
 -- Page 94, Offset 1406.
@@ -356,12 +354,12 @@ No, I've lent him almost 10,000 yen since middle school and he hasn't given any 
 [sha:b1fe826d6affaa5bd2c730143dcfd3ced8b81738]{
 -- Page 94, Offset 1407.
 -- 他のヤツラには聖人君子みたいなヤツなのに、不公平じゃね？」
-You're like a saint to everyone else, isn't it unfair?"
+You're like a saint to everyone else, isn't that unfair?"
 }
 [sha:3a903b75d01aeec6ac4c02f6d85d3ba45ded5620]{
 -- Page 94, Offset 1408.
 -- 「なんだ、わかってるじゃないか。
-"What, didn't you already know?
+"See, you do get it.
 }
 [sha:cf6fa09a06ddd8f6e6ec6917fc3bbb341eda9d63]{
 -- Page 94, Offset 1409.
@@ -396,7 +394,7 @@ Although our interests and tastes are different, we're on the same wavelength so
 [sha:08de400ab4a1dee994b641556b74729e6a181e52]{
 -- Page 97, Offset 1415.
 -- 「……まあ、家から逃げてきた、はいいとして。
-"...Well, there's nothing really wrong about running away from home.
+"Anyway... I get you wanted to get away from home and all...
 }
 [sha:278c3eda168d2cfd6de23d60231995ad41ddcdda]{
 -- Page 97, Offset 1416. Mods: @k, @e.
@@ -432,7 +430,7 @@ He's certainly right, but when this guy says it, it makes me think that simply c
 [sha:5bd4b3c29347aa96320c2a347017a6816fdc6cf6]{
 -- Page 100, Offset 1422.
 -- 俺が聞きたいのは、なんで街に行かないかってコト。カラオケでも漫画喫茶でも、時間潰すならそっちのがいいんじゃない？」
-What I want to know is why don't you just go to the city?
+What I want to know is why you didn't just go to the city.
  Wouldn't karaoke or a manga cafe be a better way to kill time?"
 }
 [sha:0a5d099c663ae4ed3177eb575e9f15d21c8ae18f]{
@@ -458,7 +456,7 @@ Fighting my way around out there ain't free, I only show my face when I have the
 [sha:0ad0c58e631971a1893811fb558bef35dc420fb7]{
 -- Page 101, Offset 1427.
 -- 派手に出回ってる通り魔事件の話だよ。駅前のセンター街、夜になると警官も巡回しているしな」
-I'm talking about the random murder cases that have been causing a stir recently. There are even cops patrolling around the area in front of the station at night now."
+I'm talking about the spree killings that have been causing a stir recently. There are even cops patrolling around the area in front of the station at night now."
 }
 [sha:6a8cca53eba63e23d9b4ccb1a1b3245da70b93f5]{
 -- Page 101, Offset 1428.
@@ -492,19 +490,19 @@ If I recall correctly―――
 // In EN, the news tends to name the killer not the killings.
 // Modulated slightly here to match
 "What were they calling him again?
- I know it sounds like a really vulgar sales pitch.
+ Sounded like some kind of vulgar tabloid headline...
 }
 [sha:f0aaeaae4cc723b468aa9f7194340fcf22dbedd6]{
 -- Page 103, Offset 1434.
 -- 深夜の通り魔事件、だっけ」
-The Midnight Street Killer, right?"
+The Midnight Spree Killer, was it?"
 }
 [sha:7bc13a20c326adc218365910ef027666387d1985]{
 -- Page 104, Offset 1435.
 -- 「連続、猟奇、殺人事件な。被害者はたいてい若い女で、二日前に発見されたホトケさんで八人目。かつ、全員の喉元にバツの字の傷跡があるとかないとか」
 "A series of bizarre murders.
  The victims were usually young women, and the dead body they discovered two days ago was the eighth.
- All of them have cross-shaped wounds on their throats, too."
+ All of them had cross-shaped wounds on their throats, too."
 }
 [sha:31cf97f1e1a2ee7e89b3972af352eb7f96777aae]{
 -- Page 104, Offset 1436.
@@ -531,7 +529,7 @@ We must have been talking pretty loudly,
 [sha:449c0ed6322b5468211bdf0aef6ad65313afe869]{
 -- Page 107, Offset 1440.
 -- 「ああ、そうだったそうだった。現代の吸血鬼かっていう見だしだったもんな、アレ。
-"Ah, right, right. It was like a modern-day vampire attack, right?
+"Ah, right, right. The headlines were all like 'the Modern Vampire', that's it.
 }
 [sha:c2da0807155de5c3817f10d76d87eb3a2af76ba3]{
 -- Page 107, Offset 1441.
@@ -558,12 +556,12 @@ Oh, also, the trauma varies from person to person,
 [sha:652f2ead56737d53f691eb4d1f73bbe6087d8d4c]{
 -- Page 109, Offset 1445.
 -- 「そ、そんなコトないよ！
-"N-No, I don't!
+"N-Not really!
 }
 [sha:84135d2adf82cbe4586920d6913506796106812c]{
 -- Page 109, Offset 1446.
 -- この街で起きている事件なんだもん、ニュースを見てればイヤでも覚えちゃうことだと思う」
-It's a major case happening in our city after all, if you watch the news, you're bound to remember it!"
+This case is happening right in our city after all, if you watch the news, you're bound to remember it!"
 }
 [sha:46ea22644aaa92fc34e6c7d197ba0823690f2ff7]{
 -- Page 110, Offset 1447.
@@ -593,14 +591,14 @@ I'm surprised you're so reasonable. It's not like you to stay at home, scared of
 [sha:a3cc2c96e730ff4324b2dbc062fa27164297c186]{
 -- Page 112, Offset 1452.
 -- こっちはやる気がねえのにあっちだけやる気満々とか、不意打ちにも程がある。絶対にゴメンだね。オレはまだ人生棒に振りたくねえ」
-I barely have any will to fight, but they're probably out for blood.
- You also gotta worry about the possibility of a surprise attack.
+Having to contend with someone who's all out for blood while you're just minding your own business is not my idea of a fight.
+ That's just an ambush.
  Hell no to that. I ain't throwin' away my life just yet."
 }
 [sha:c441491176c0d0c3243636bf2ef56c1a994da137]{
 -- Page 112, Offset 1453.
 -- 「……ああ、そっか。そうだよな、狙われたらトコトンまで付き合うしかないってコトだもんな」
-"...Oh, I see. You're right, if you're targeted, you'll have to fight to the bitter end."
+"Oh... I see. You're right, if you're targeted, you'll have to fight to the bitter end."
 }
 [sha:b73bee05443114d522707ca972f70395c6315dd8]{
 -- Page 113, Offset 1454.
@@ -625,7 +623,7 @@ Why would I have to fight to the death?"
 [sha:9c6c5836c6ed44312dd59704cd350f19c7db24c3]{
 -- Page 114, Offset 1458.
 -- 実際の話、オレも殺人犯は気にしてねえ。ああいうのは、ほら、天災だろ？　出遭っちまう方に運が無い。
-Actually, I don't care about the murderer either.
+Though to be honest, I don't care about the murderer either.
  They're like a natural disaster, right?
  If you run into one, well, that's just the hand you've been dealt.
 }
@@ -637,7 +635,7 @@ My reason for not going out into the city is more practical. Lately, there've be
 [sha:b9980c8fe4e133461b213a53dc5162032ccf721a]{
 -- Page 115, Offset 1460.
 -- 北口駅前……オフィス街とは反対側の繁華街で、夜は交通量も人通りも多い、不夜城のような地域だ。
-In front of the north gate... that's downtown opposite the business district. At night it's bustling with lots of people and traffic.
+In front of the north gate... that's downtown opposite the business district. At night, it's bustling with lots of people and traffic.
 }
 [sha:50c940d0a4f9b3ea539f142a6c953a471c1af888]{
 -- Page 115, Offset 1461.
@@ -647,12 +645,12 @@ Arihiko also lives near the north gate, so if he's avoiding these 'new idiots', 
 [sha:404bd0dd930ad310f077a3852433d54abd8965d9]{
 -- Page 116, Offset 1462.
 -- 「遠野も聞いた事ねえか？
-"Haven't you heard of them?
+"Haven't you heard about it?
 }
 [sha:9e511dc4433891dd6ac8f5bef9d8e4cb33e62fc3]{
 -- Page 116, Offset 1463.
 -- “度胸試しのようなもの。秘密の入り口から地下道に入って、奥まで着ければ大金が手に入る”ってヤツ」
-It's like a test of courage. You go into an underground passage through a secret entrance, and if you make it to the end, you win a lot of money, or so they say."
+That thing that sounds kinda like a test of courage: go into an underground passage through a secret entrance, and if you make it to the end, you win a lot of money."
 }
 [sha:d16674c9a706b0c2aac0d15110287c50d0d601a5]{
 -- Page 117, Offset 1464.
@@ -719,7 +717,7 @@ It's nice of you to worry about me,
 [sha:327ff506c39d5fb4e848994d289145d9b1d429db]{
 -- Page 123, Offset 1476.
 -- 「あいよ。……っと、そうそう。今日の昼メシな、食堂でするからな。おどろきの特別ゲストをお呼びしているので、楽しみにしてやがれ」
-"Right. ...Oh, yeah. For today's lunch, I'll be in the cafeteria. I've invited a special guest to surprise you, so look forward to it."
+"Right... Oh, yeah. For today's lunch, I'll be in the cafeteria. I've invited a special guest to surprise you, so look forward to it."
 }
 [sha:5d9f09509f64e5ea7c1dba40410d34e3e57c28a4]{
 -- Page 124, Offset 1477.
@@ -862,7 +860,7 @@ It's something I'm used to, but I breathe in and wait for the words so that I do
 [sha:f82b5873ed05be7cfae40c9b9fa62fd6aa6d6841]{
 -- Page 133, Offset 1504.
 -- 「だからさ―――戸山、昨日死んだらしいよ」
-"You know... I heard Toyama died last night."
+"Like I said... Apparently Toyama died last night."
 }
 [sha:36825cc1c0c5425e514c2ebfa4070a8e4432d6c6]{
 -- Page 133, Offset 1505.
@@ -877,7 +875,7 @@ The rumors about Toyama-sensei didn't spread very far, and our morning classes e
 [sha:8dc8353890d22cfcc1d8fc1a19443d0eeabb5f71]{
 -- Page 135, Offset 1507.
 -- 昼休みに入り、教室は雑然としている。
-It's lunchtime, and the classroom is in chaos.
+It's lunchtime, and the classroom is bustling.
 }
 [sha:91f1e28063f3ff32974f877715cfd7d06ae25a2c]{
 -- Page 135, Offset 1508.
