@@ -615,7 +615,7 @@ He said that he would savor killing me.
 [sha:fed239ac4221949b210508e73dc508786161f80f]{
 -- Page 341, Offset 32612.
 -- 「……つまらない。口上はそれで終わりか、下郎」
-"How dull. Are you finally done blathering, serf?"
+"%{g}How dull. Are you finally done blathering, serf?%{/g}"
 }
 [sha:94d2e9848339c6724a8a6c56feadec339a7da740]{
 -- Page 341, Offset 32613.
@@ -812,9 +812,9 @@ The battle is not so easily won.
 // Ross:
 // 空を覆う is like "to blot out the sky", if she's covering up the (虚)空 is that
 // like she's the firmament blocking the view to heaven?
-"You truly are the lord of the mystical.
+"%{g}You truly are the lord of the mystical.
  The firmament that seals off the cosmos itself,
- something as yet beyond human comprehension."
+ something as yet beyond human comprehension.%{/g}"
 }
 [sha:3b3126bf83187d17ab3b3c4ae2407e8067007138]{
 -- Page 353, Offset 32648.
@@ -841,13 +841,13 @@ With each step they take, they begin to regain their shape.
 [sha:3390156567409f8fe1933f38bd9d89137fe2b76d]{
 -- Page 355, Offset 32652.
 -- 「“だが魔術の進歩とて、その<御業|みわざ>に負けてはいない。
-"Yet the advancements made by magecraft can overcome such divine deeds.
+"%{g}Yet the advancements made by magecraft can overcome such divine deeds.%{/g}
 }
 [sha:f9687be2ec063f4a09850a962cbf24cffe55cb96]{
 -- Page 355, Offset 32653.
 -- このように―――術者が滅びようと発動する自動詠唱は、近年において完成の域をみた”」
-Advancements such as this one―――
-%{i}Automatic Incantation%{/i}, triggered just as the user is about to perish, is something that's been perfected in recent years."
+%{g}Advancements such as this one―――
+Automatic Incantation, triggered just as the user is about to perish, is something that's been perfected in recent years.%{/g}"
 }
 [sha:d128416d04240819b70f8cbd7784b2bf3a219a66]{
 -- Page 356, Offset 32654.
@@ -867,31 +867,31 @@ Still on her knees, Arcueid no longer even bothers to lift her head.
 [sha:7081ea035634bcb5264f7907abbdb3d281849b2d]{
 -- Page 357, Offset 32657.
 -- 「“無意味だった。はじめから無意味だった。
-"It was meaningless. It has always been meaningless.
+"%{g}It was meaningless. It has always been meaningless.%{/g}
 }
 [sha:025b25b518165b9c03e5ead6cd54099e6e634653]{
 -- Page 357, Offset 32658.
 -- あなたの<航|た><海|び>は、八百年前から無意味だった。
-Your voyage through life has been meaningless ever since that day 800 years ago.
+%{g}Your voyage through life has been meaningless ever since that day 800 years ago.%{/g}
 }
 [sha:77ec969ddd78167ca59e14affe7d41f1d8edddaf]{
 -- Page 357, Offset 32659.
 -- 何故なら、私にとって肉体の死など通過儀礼にすぎず、
-Why? Because to me, the death of the flesh is little more than a rite of passage.
+%{g}Why? Because to me, the death of the flesh is little more than a rite of passage.%{/g}
 }
 [sha:7dd6e3c478779dbadaa9212835d883f9e69e3aac]{
 -- Page 357, Offset 32660.
 -- 仮にこの場でこの肉体が死滅しようとロアはまた人の世に孵ってくる。
-Even if my body were to be eradicated here, I would be reborn into the world of man once again.
+%{g}Even if my body were to be eradicated here, I would be reborn into the world of man once again.%{/g}
 }
 [sha:47e396f33aad1415ac02604ac81826bf07c45c9c]{
 -- Page 357, Offset 32661.
 -- 知るがいい。私こそ完全なる不老不死。私は知っている。死を。あの闇を。何十回とくぐり抜けたあの虚無を……！”」
 // 完全なる不老不死 should most probably reflect the conversation Shiki has with Mario about immortality.
-Know this well.
+%{g}Know this well.
  I am the perfection of immortality itself.
  I have fathomed death... its darkness.
- Over and over again have I overcome that nothingness...!"
+ Over and over again have I overcome that nothingness...!%{/g}"
 }
 [sha:547423f2eb8ccfd72704b8df7136834a1747edb8]{
 -- Page 358, Offset 32662.
