@@ -225,7 +225,7 @@ for all eternity,
 [sha:13bf4e9e999ba5c2632e8e563c7ea2f82960cd14]{
 -- Page 260, Offset 43234.
 -- シエル先生の相手はあの生物です。
- your partner will be that creature.
+ your partner will be that%{n}creature.
 }
 [sha:997950a5a39209d972e3515ba51732b6688c5c9c]{
 -- Page 261, Offset 43235.
@@ -235,7 +235,7 @@ Oh, is that so...
 [sha:4f0161dd7357f75c4500f951c46d34af64c5ed2c]{
 -- Page 261, Offset 43236.
 -- 地獄のような未来宣告、ありがとうございます……。
- Thanks for informing me of the hellish future I have in store...
+ Thanks for informing me of the hellish%{n}future I have in store...
 }
 [sha:97df352cda4d8e2531ad359f1d8d84b1bb6e8ddf]{
 -- Page 262, Offset 43237.
@@ -267,7 +267,7 @@ complaint
 [sha:98ade21ab393dff10228435ab33d15dd21aa0d24]{
 -- Page 264, Offset 43242.
 -- 私でさえ目を覆うほどの結末だったので、つい。
- Even I found myself having to look away near the end.
+ Even I found myself having to look away near%{n}the end.
 }
 [sha:06f83f15aab9186a8f85b8d738120f2ddcdf4679]{
 -- Page 265, Offset 43243.
