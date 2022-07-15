@@ -871,12 +871,12 @@ With the blade still hidden under his coat, he goes to take a step toward Arcuei
 -- Page 861, Offset 7947.
 -- 「“無礼者。豚でなければ<銘|な>を名乗れ。
 // Add text effect on þe olde english?
-"Insolent fool. If thou art not swine, speak'st thy name.
+"%{g}Insolent fool. If thou art not swine, speak'st thy name.%{/g}
 }
 [sha:02bc565b73d08094d15250c1beb9efc8bf02ae41]{
 -- Page 861, Offset 7948.
 -- それとも貴様の<親|・>は、最低限の<礼儀|ことば>も教えぬ形なしだったのか？”」
-Or wer't thy sire so lax in their duties that they neglected to teach thee the most fundamental of manners?"
+%{g}Or wer't thy sire so lax in their duties that they neglected to teach thee the most fundamental of manners?%{/g}"
 }
 [sha:783b92152d187f7ef60c1dda2d68c366412fcb4a]{
 -- Page 861, Offset 7949.

@@ -245,7 +245,8 @@ Monstrous mutants like yourself, for example."
 [sha:788586e5da2dae6bcfea4e6cb37b7e659af241c2]{
 -- Page 581, Offset 7130.
 -- 志貴。あなたの目は、生物として繋がってはいけない場所と回線が開いているんでしょうね。その目は生まれついてのものなの？」
-Shiki. Your eyes are forming a circuit with a place that no living thing should be connected to... Are those eyes something you were born with?"
+// Difficult sentence to make pleasant
+Shiki. Your eyes are receiving from a transmission line connected to a place no living being should be connected to... Are those eyes something you were born with?"
 }
 [sha:7d1e9881a1bd09e0a00572cae32cf628305fc9de]{
 -- Page 581, Offset 7131.
@@ -304,8 +305,8 @@ I'm glad she did. She'd been staring at me with visible disgust in her eyes.
 [sha:73e00ae6f46c6f4e11ed01ef140d1d343b89ecb4]{
 -- Page 586, Offset 7141.
 -- 「あなたが見ているものはね、万物の結果、物の死に<易|やす>い箇所なのよ。もっと解りやすく言うのなら、あらゆる存在の死期……“死”そのものよ」
-"What you're seeing is the inevitable end of all things, the points where things can easily die.
- Put simply, you can see the fated end of anything that exists... 'death' itself."
+"What you're seeing is the conclusion of all things, the points where things can easily die.
+ Put simply, you can see the fated end of all that exists... 'death' itself."
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 586, Offset 7142.
@@ -321,12 +322,12 @@ That's...
 -- Page 587, Offset 7144.
 -- 微妙に違ってはいたが、この眼鏡をくれた先生が、子供だった俺に教えてくれた事に近かった。
 // Association of receiving the glasses changed to help flow
-A little different from my understanding, but it's close to what Sensei taught me when I received these glasses from her as a child.
+It's subtly different, but close enough to what Sensei taught me when I received these glasses from her as a child.
 }
 [sha:b5198fa9673acec4f50067ed1e27a47f246b1269]{
 -- Page 588, Offset 7145.
 -- ……万物の結果。ものの未来。
-The end of all things. The future of things.
+The conclusion of all things――their future.
 }
 [sha:a168faab18ca673eb9217fcad715abc25961a311]{
 -- Page 588, Offset 7146. Mods: @n.
@@ -362,20 +363,21 @@ When exactly that time comes will vary, but there's an end nonetheless.
 -- Page 590, Offset 7152.
 -- 死は到来するものではなく、誕生した瞬間に内包していて、いつか発現するものよ。それが原因と結果。因果律って言葉、聞いた事あるでしょう？」
 Death is not something that comes.
- It's something that's a part of you from the moment you're born, and eventually manifests itself.
- It's simple cause and effect.
+ It's with you from the moment you're born, and eventually, it will manifest itself.
+ Simple cause and effect.
  You've heard of the law of causality, haven't you?"
 }
 [sha:31bb2d66a0b5863d9dd298d6981339fcc37783bc]{
 -- Page 591, Offset 7153.
 -- 「<こ|・><こ|・>にある以上、それは必ず消えなくてはいけない。原子の流動、エネルギーの約束事ね。たった一つの例外、ほんの小さな間違いも秩序は許容しない。
 "Everything that has a beginning %{i}must%{/i} have an end.
- Atoms just recirculate, it's conservation of energy, right?
+ Atoms just recirculate; it's conservation of energy right?
  The system will not tolerate any discrepancies; not even the smallest error.
 }
 [sha:3e3862c1dba6948ef997a2b3243649588da09ffd]{
 -- Page 591, Offset 7154.
 -- だって、そんなものがあったら、この宇宙の前提が崩れてしまうんだもの。それこそ泡のように消えてしまうわ」
+// そ泡のように is a very Japanese expression for things disappearing, so this could be localized to make more sense to English readers.
 I mean, if there were any imbalances, the premise this whole universe is based on would crumble.
  The universe itself would disappear like a bubble popping."
 }
@@ -407,26 +409,26 @@ I'm not kidding when I say that your eyes really are that bad!"
 [sha:d76c3b3073f73a30dcb5bccd8a97d22e37b1ee55]{
 -- Page 594, Offset 7160.
 -- 「いい？　消滅は万物に予め設計された決まりなの。
-"Listen. Everything in this world is predestined for extinction.
+"Listen. Everything in this world has its demise determined in advance.
 }
 [sha:aa086cf3af750f0a69b4cacb438d2d5cc91323c3]{
 -- Page 594, Offset 7161.
 -- どんなに長い寿命、どんなに強大な生命にだってこれはある。たとえ宇宙の寿命より長い寿命を持つ生命があるとしても、それは無限に生き続ける訳じゃない」
-Nobody can escape this fate, no matter how long-lived they are or how mighty their existence.
- Even if someone had a lifespan longer than that of the universe, that doesn't mean they'll go on living forever."
+This applies to everyone, no matter how long-lived they are or how mighty their existence.
+ Even if someone had a lifespan longer than that of the universe, that still doesn't mean they'd go on living forever."
 }
 [sha:dd7deffcd1cae1fdeaf064ee524c03a04197f0f9]{
 -- Page 595, Offset 7162.
 -- 「この、定められた『消滅』が物の『死期』。
 // Arc uses 死期 a lot in this file, rendering it differently for clarity
-"This pre-determined 'annihilation' is the 'fated end' of all things.
+"This predetermined 'demise' is the 'fated end' of all things.
 }
 [sha:5b4dc88cf235848145217b5cfbb8d46dc56314a0]{
 -- Page 595, Offset 7163.
 -- で、それは初めから在るわけだから、『死期』という概念を理解できる機能、それと回線が合っている脳髄と眼球があるのなら、目で視る事は不可能じゃない」
-Since it's an intrinsic part of everything that exists,
- if you have the power to understand the concept of this 'fated end' and possess a Circuit connecting your eyes to your brain,
- it stands to reason that you'd be able to see it visually."
+Since it's something that's there from inception,
+ if you have the capacity to understand this conceptual 'fated end', as well as eyes and a brain whose transmission lines are tuned in to it,
+ then it stands to reason that you'd be able to see it visually."
 }
 [sha:d839b5eb72c8615ef8924412dbbc30dc449b4e3a]{
 -- Page 596, Offset 7164.
@@ -446,7 +448,8 @@ Or maybe it's more like a telomere, a self-destructive genetic switch that manif
 [sha:4bba28edaa87f124ebedb3dbd04d62260bf87ab1]{
 -- Page 597, Offset 7167.
 -- 「とにかくあなたが視ているのは“モノの死に易い線”、死という結論そのものよ。
-"Anyway, what you're seeing are the 'seams of life', the embodiment of death itself.
+// No, he is not seeing life: this is important later
+"Anyway, what you're seeing is the finality of death itself: lines where things are prone to death.
 }
 [sha:1b5a890c36ff064fc0bc26c8fed1219cd6100b36]{
 -- Page 597, Offset 7168.
