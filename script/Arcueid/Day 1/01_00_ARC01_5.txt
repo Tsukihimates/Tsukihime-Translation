@@ -20,7 +20,7 @@ This entire hill overlooking the city is the property of the Tohno family.
 -- 敷地はうちの高校より広く、背後に広がる森まで含めば、その三倍にもなるだろう。
 The plot with the mansion on it alone is larger than my high school,
  and if you count the forest that spreads out behind it,
- it's probably three times as big.
+ it's probably three times bigger.
 }
 [sha:30b730bd31f28444eae7a1b59328de585c648ca7]{
 -- Page 244, Offset 1789.
@@ -35,7 +35,7 @@ The main gate, which serves as the entrance to the property, is closed and forbi
 [sha:6079833af31197fe97aff91efda4aef50224dee2]{
 -- Page 245, Offset 1791.
 -- 乗用車を通す門の横には、人間用の出入り口がある。
-Next to the bigger gate for cars, there is a doorway for people.
+Next to the bigger gate for cars, there's a doorway for people.
 }
 [sha:031e59e32e899c260207786e38910e8a59c03a87]{
 -- Page 245, Offset 1792.
@@ -50,7 +50,12 @@ Unlike a normal intercom, there is no ringing to be heard by the person who pres
 [sha:e3962fdec33a701c2f0dfa02a1eecf1b246f625d]{
 -- Page 246, Offset 1794.
 -- 数秒ほど待っていると、“お入りください”という機械音と共に、出入り口のロックが解除された。
-After a few seconds of waiting, the lock on the door releases and a prerecorded voice invites me to enter.
+// The sound here is actually a short machine beep and a click.
+// I think “お入りください”という機械音 is not literally a voice
+// saying to come in, but rather an inviting beep.
+After a few seconds of waiting,
+ the lock on the door releases and the intercom buzzes,
+ inviting me to enter.
 }
 [sha:852b3a0cb9a7bf40a5ec78cb42c431a362e34696]{
 -- Page 247, Offset 1795.
@@ -137,7 +142,8 @@ According to my father, the house was heavily renovated after the war.
 [sha:ab0756039f4f6f8c52cd3e6f35466cc29074234e]{
 -- Page 254, Offset 1811.
 -- 何百年以上も前からこの土地に在り続けた権力者の城。
-This is a castle for a powerful man. A man from a family who has been in this land for hundreds of years.
+This is a castle for a powerful man.
+ A man from a family that has been in this land for hundreds of years.
 }
 [sha:2ad2533d490754632599b9352cbdeaaca8116c3d]{
 -- Page 254, Offset 1812.
@@ -307,7 +313,8 @@ The girl in the apron presses her forefinger to her lips with a warning gesture,
 [sha:25f4a8a6ca87f4d0d99f64e44beb036ead2ace43]{
 -- Page 270, Offset 1845.
 -- どうやら本気で心配し、怒っているらしい。それでも微笑は絶やさず、少女は温かな雰囲気を崩さない。
-It would appear that she really did worry, and is now quite cross.
+// she's not even smiling wtf
+It would appear that she really did worry and is now quite cross.
  Even so, the smile remains on her face, and she still gives off a welcoming atmosphere.
 }
 [sha:07571617080c6612f843e7eb44982038b584ae88]{
