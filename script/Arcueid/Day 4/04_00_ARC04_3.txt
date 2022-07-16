@@ -275,7 +275,7 @@ The students around me are walking across to the other side.
 [sha:caa43dcee4639597a8ac324e12d4b842b1055fca]{
 -- Page 10007, Offset 5863.
 -- その中で、自分だけが立ち止まったまま呆然とする。
-I alone stand stock still amidst the crowd, too stunned to move.
+I alone stand stock-still amidst the crowd, too stunned to move.
 }
 [sha:7f26737efbab3de553ab186a49db48c26cda0e70]{
 -- Page 10007, Offset 5864.
@@ -500,6 +500,7 @@ Without any regard for shame or appearances,
 [sha:e36d3310ea398d7ffbee0a09778326e7cf8edd98]{
 -- Page 129, Offset 5905.
 -- 「はっ、はっ、はっ、はっ、はっ―――――！」
+// lint-off:LintDupedWord
 "%{i}Hah, hah, hah, ha%{/i}―――――!"
 }
 [sha:aef7487f292bb71e0e35fdc51a45ad0c083aefe6]{
@@ -571,6 +572,7 @@ That itself is more than enough reason for my frenzy.
 [sha:6e44077b27b0bf3a4736890f48ae9318bcbe1ee9]{
 -- Page 133, Offset 5919.
 -- 「はっ、はっ、はあ――――――！」
+// lint-off:LintDupedWord
 "%{i}Hah, hah, hah%{/i}――――――!"
 }
 [sha:1e7a44998afd5e3b188a92f9c71cc9d84eaa9d07]{
@@ -591,6 +593,7 @@ She's chasing me with footsteps as light as a feather.
 [sha:8cd192ff7d33575b6a110957b13b89c7ba6e2914]{
 -- Page 134, Offset 5923.
 -- 「はっ、はっ、はっ、はっ―――――！」
+// lint-off:LintDupedWord
 "%{i}Ha, ha, ha, ha%{/i}―――――!"
 }
 [sha:177e359776fee16a2649c3cd9d35f40d8c832c8a]{
@@ -617,6 +620,7 @@ So why is it, if I'm running as fast as I possibly can,
 [sha:2d7e36ac5951e79907f5872bd43e0387f3304745]{
 -- Page 135, Offset 5928.
 -- 「はっ、はっ、はっ、はっ――――」
+// lint-off:LintDupedWord
 "%{i}Ha, ha, ha, ha%{/i}――――"
 }
 [sha:1b745084d481b8ef45f0aef4978bbaad41d05740]{
@@ -648,6 +652,7 @@ She's like a ghost, burned into a rearview mirror.
 [sha:aabf21638d27e05202810285ed246fc93a23f3fb]{
 -- Page 136, Offset 5934.
 -- 「………はっ、はっ、はっ、はは、はははは」
+// lint-off:LintDupedWord
 "......%{i}Haha, haha, haha, hahahaha%{/i}."
 }
 [sha:028aefbaed358e7b620aeb242a16121cf550800d]{
@@ -719,7 +724,7 @@ It's just a fact that my life will end the moment I'm cornered.
 [sha:7c968244bf26f104680a09585037d7c88c0f1457]{
 -- Page 141, Offset 5948.
 -- 「あっ―――」
-"Ah..."
+"%{i}Ah%{/i}..."
 }
 [sha:71f147e38e0bade91f1dfad48c5f3626790bd58a]{
 -- Page 141, Offset 5949.
@@ -902,7 +907,7 @@ I don't know why she's making that face.
 [sha:01ae1df31ffadb456cf4d3443eb30d40e98870c2]{
 -- Page 149, Offset 5984.
 -- 女は笑顔のまま、無遠慮に、不用心に、この閉ざされた路地裏に入ってくる。
-Still smiling, the woman brazenly strolls into the dead end alleyway.
+Still smiling, the woman brazenly strolls into the dead-end alleyway.
 }
 [sha:06eff0172dd059a002e04511b928cf06f6c03e96]{
 -- Page 150, Offset 5985.
@@ -975,7 +980,7 @@ I frantically cast my eyes around my surroundings and am disgusted by my own stu
 [sha:e0f919db7d222fb6b08699531131c290c496a427]{
 -- Page 155, Offset 5998.
 -- こんなところに逃げこむなんて、自分から殺してくださいと言っているようなものじゃないか……！
-Fleeing to a place like this is like %{i}asking%{/i} to get killed...!
+Fleeing to a place like this is like %{i}asking%{/i} to be killed...!
 }
 [sha:ee90ef312c20f00cee071bde9ac2382dcb29a475]{
 -- Page 156, Offset 5999.
@@ -1190,7 +1195,7 @@ I mean, it all fits.
 -- Page 169, Offset 6040.
 -- この女が人間じゃないのなら、殺した筈なのに生きている事に、道理が通るかもしれないじゃないか。
 If this woman isn't human,
- then it isn't so far fetched that she could still be alive even after I killed her.
+ then it isn't so far-fetched that she could still be alive even after I killed her.
 }
 [sha:62ffeb40a6a845ae289ca8516bee1059411ead22]{
 -- Page 170, Offset 6041.
@@ -1417,13 +1422,13 @@ Then I let my impulses get the better of me, and actually killed her.
 // This page shown IFF F058 != LV00200 (Arc playthrough?)
 After that my memories were a bit hazy so I wrote it all off as a dream,
  except not only did it really happen,
- but to top it all off the person I killed isn't even human.
+ but to top it all off, the person I killed isn't even human.
 }
 [sha:3c2750d4493114959911b9c462f02fe15312eaa2]{
 -- Page 186, Offset 6084.
 -- 今まで自分の事を欠陥品だ、不適合だと言い含めてきたけど、この状況に比べたら俺はいたって<正常|マトモ>じゃないか……！
 I've always thought of myself as a misfit――as damaged goods.
- But compared to this situation I'm downright normal...!
+ But compared to this situation, I'm downright normal...!
 }
 [sha:4be87e9afe9b60adf3579af76d565a2181f704e9]{
 -- Page 10008, Offset 6085. Mods: @n.
@@ -1518,7 +1523,7 @@ You have something to say, don't you? Go ahead and get whatever complaints or gr
 // 居直る is like 'go on the offensive', I assume this is the same idea as
 // 6078-9 where he's getting angry so he doesn't have to dwell on what he did?
 "Sorry, I'm pretty riled up right now...
- If I don't act this way there's a good chance I'd kill myself instead."
+ If I don't act this way, there's a good chance I'd kill myself instead."
 }
 [sha:649617d27712d447aec05410b2c22e8a26502371]{
 -- Page 194, Offset 6103.
@@ -1562,7 +1567,7 @@ Her gaze is sharp, but there's no hostility in it.
 -- ……おかしいな。やられたらやり返すっていうのは、きっと世界で共通の法則だ。この女だって、俺を殺したくてウズウズしている筈なんだけど……？
 This is weird...
  I feel like most people would agree that if you get hit, you hit back.
- Shouldn't this woman by itching to kill me...?
+ Shouldn't this woman be itching to kill me...?
 }
 [sha:70416bec79591ae01fc33d63446624097c928954]{
 -- Page 197, Offset 6111.
@@ -1600,7 +1605,7 @@ The woman stares me dead in the eye.
 [sha:65d4cd85cbb1aa54aa69f95a8c0787272860c607]{
 -- Page 199, Offset 6117.
 -- 「……え？」
-"...Eh?"
+"...Huh?"
 }
 [sha:476acb5aa4de40b2a0fd03564832a48dc563cd87]{
 -- Page 200, Offset 6118.
@@ -1610,7 +1615,7 @@ I just stare vacantly at her for a moment, stunned.
 [sha:4f5d64f308b16ef5d0bdd1f6658c44a3ae67494b]{
 -- Page 200, Offset 6119.
 -- この女が、なにか、場違いな声を出したからだ。
-What she just said sounded like a complete non-sequitur.
+What she just said sounded like a complete non sequitur.
 }
 [sha:f901de8c7f072af720780e23bbaf36aaf683b52b]{
 -- Page 201, Offset 6120.
@@ -1709,7 +1714,7 @@ I should just keep on looking the other way,
 [sha:6d7bc1e908b22191812bd5ad29fe50d3345d8f4c]{
 -- Page 208, Offset 6138.
 -- 「――――――、―――」
-"―――――――――, ―――――"
+"――――――――――――――"
 }
 [sha:c01554de301efeed8d0c1f2d9a89f49ea7de59ec]{
 -- Page 209, Offset 6139.
@@ -1761,7 +1766,7 @@ The acts that I have performed―――
 [sha:69c6bbac309b56f43c230745c340b72d5ae5c117]{
 -- Page 211, Offset 6148.
 -- 目を背ける事だけは―――
-If there's one thing I must never do, it's look away from these.
+If there's one thing I must never do, it's to look away from these.
 }
 [sha:293c062da5e2eb46a65c5f37d2bbc1196fa01459]{
 -- Page 212, Offset 6149.
