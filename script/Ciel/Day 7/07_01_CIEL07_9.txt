@@ -466,7 +466,8 @@ Though he still held a child-like curiosity,
 [sha:5b4d6f5f799f68e9aa3b1e365bdc51f839950a05]{
 -- Page 681, Offset 16483.
 -- 社会のあらましを理解していた少年に不思議はなかった。
-The boy who had already grasped the abstractions of society found little mysterious.
+// lint-off:LinePageOverflow
+The boy who had already grasped the generalities of society found little mysterious.
 }
 [sha:a95259b7d979e17f178ea85974da9a5d4b888572]{
 -- Page 681, Offset 16484.
@@ -476,12 +477,12 @@ The rain, the clouds, even ghosts――all could be unraveled.
 [sha:5a98e86cbf0c41fb30b703636a0edd2a1d874ba0]{
 -- Page 681, Offset 16485.
 -- 少年にとって不思議とは、その時代では解明できないもの。
-The things that the boy found mysterious were the things impossible for the current era to unravel.
+What the boy found mysterious were the things impossible for the current era to unravel.
 }
 [sha:7833a2a3d8c16da4ba7635b9fa7be4df1ece2de6]{
 -- Page 681, Offset 16486.
 -- 誰もが“ただそこにあるもの”と受け流すもの。
-The things that everyone disregarded as that which simply was the way it was.
+Things that everyone disregarded as that which simply was the way it was.
 }
 [sha:3498b8232a7622e3c8eceb8981e576b2bae9c21c]{
 -- Page 681, Offset 16487.
@@ -492,7 +493,8 @@ These were the things that still captivated his child-like curiosity.
 [sha:632436cd51cc4d1102d3ed804570afda1a967a71]{
 -- Page 681, Offset 16488.
 -- 同じ年頃の少年たちが思う以上の、輝ける星だった。
-He found the stars ever more brilliant than the boys who were his peers.
+// very liberal
+Such as the brilliance of the stars, so ignored by his young peers.
 }
 [sha:9e90f0f9af22e617cdd61cff69a69e6a167eabbe]{
 -- Page 681, Offset 16489.
@@ -508,7 +510,7 @@ I still remember it to this day.
 [sha:9ceee1f22e22d8881f29c5956dd045ca1d8fe4c9]{
 -- Page 682, Offset 16491.
 -- 父の目を盗んで、一夜だけの旅に出たあの時間を。
-That time when I embarked on a single night's journey, behind my father's back.
+That one night I set out on a journey behind my father's back.
 }
 [sha:5715e9ccf41e046d0cbd9e184e0b7fc976f364a8]{
 -- Page 682, Offset 16492.
@@ -519,7 +521,7 @@ That time when I embarked on a single night's journey, behind my father's back.
 [sha:0a6ee567adefaf508790b7b42290f2a6147d71b9]{
 -- Page 682, Offset 16493.
 -- 何の支えもなく私を見つめていた、あの石の不思議さを。
-And of the mysteriousness of that stone watching me from up high, without anything to hold it aloft.
+And the mysteriousness of that stone watching me from up high, without anything to hold it aloft.
 }
 [sha:84931963a97bd148235813dea0dd09090f391331]{
 -- Page 683, Offset 16494.
@@ -539,7 +541,7 @@ What sort of purport did it have? What kind of mechanisms did it possess?
 [sha:7a34544665da36ab953f92f99adf6e71e54afc4e]{
 -- Page 683, Offset 16497.
 -- 手の届かないものに対する期待、興味、恐怖。
-This was the feeling of anticipation, of curiosity, of fear, toward something outside of one's grasp.
+Those were the feelings of anticipation, of curiosity, of fear, held toward something outside of one's grasp.
 }
 [sha:9fd9fe275591c47f4e17be1ba42f3d57d4e91b0e]{
 -- Page 683, Offset 16498.
@@ -549,7 +551,7 @@ All these were engraved in his heart as shining stars.
 [sha:c7983906284fff7604bcce923b052daba2addd9e]{
 -- Page 684, Offset 16499.
 -- 事の始まりにして原動力。
-This was there it all began――his driving force.
+This was where it all began――his driving force.
 }
 [sha:a126f98157c81d25707ec5414d9aa8cc9d72e0c8]{
 -- Page 684, Offset 16500.
@@ -569,13 +571,14 @@ But he would soon come to know...
 [sha:056e37f4148e891e141c7f634e1dd071fe924923]{
 -- Page 685, Offset 16503.
 -- 一生を費やすと決心した“あらまし”は、先人達によって解答にいきついていた事に。
+// あらまし comes up a few times and I've generally translated it as generality, but its a bit of an odd expression
 That the 'generality' he had determined to spend his life uncovering, had already been reached by his predecessors.
 }
 [sha:6541cc8213e57a25c1dc542f58c02a98789e36cf]{
 -- Page 686, Offset 16504.
 -- 神の家は弾圧の名の下にあらゆる知識を貯蔵していた。
 // in the name of oppression is a strange sentence so...
-The house of God had claimed the knowledge of everything and all, through means of oppression.
+The house of God had amassed the knowledge of everything and all, through means of oppression.
 }
 [sha:cfcbdc8f2dfb98aad5479f413997dd6b7ab6cee6]{
 -- Page 686, Offset 16505.
@@ -586,7 +589,7 @@ Mathematics, astronomy, geology, history, architecture, economics, medicine, agr
 [sha:6cad6679f1cfc39d6324e928b40a8d411ab3640d]{
 -- Page 686, Offset 16506.
 -- この時代の神の家こそ、あらゆる先端知識が集まり死蔵されていく世界最高の学府にして知の墓場だった。
-Indeed, the house of God had collected all leading theories and knowledge of the era, and then stored it away――the world's greatest academia, yet also the graveyard of wisdom.
+Indeed, the house of God had collected all leading theories and knowledge of the era, and then stored them away――the world's greatest academia, yet also the graveyard of wisdom.
 }
 [sha:5e89dc8354e310ec1e3d4b3ac830b32f0fdb82be]{
 -- Page 687, Offset 16507.
@@ -603,13 +606,12 @@ Man built civilization.
 -- 学者は星を読み、観測手段を考案し、空を飛ぶ手段に行き着く前に、宇宙の広さを推測する智慧を得ていた。
 Scholars read the stars,
  devised observational methods,
- and attained the knowledge of how to estimate the extent of the cosmos,
- before they could arrive at how to soar through the sky.
+ and attained the knowledge of how to estimate the extent of the cosmos――before they could even arrive at how to soar through the sky.
 }
 [sha:dd0af013ec366287b11b55035df4e369af29b119]{
 -- Page 687, Offset 16510.
 -- あの夜に見上げた『石』がなんなのか。
-What was that stone up above on that night?
+What was that stone he had seen up above on that night?
 }
 [sha:8f5a17ca6fbd9c598536b63f69900e115c9d683f]{
 -- Page 687, Offset 16511.
@@ -624,13 +626,12 @@ Nothing in this world escaped this pattern.
 [sha:e86610075013ae437d99b30ce7f46114680fee06]{
 -- Page 688, Offset 16513.
 -- あらゆる不思議は、既にその概要が解き明かされていた。
-All that was mysterious about the world had already had their general principles uncovered.
+Everything mysterious had already had its general principles uncovered.
 }
 [sha:e84286be0c61332416f68a02f8f5810bdd18af96]{
 -- Page 688, Offset 16514.
 -- 名も無い賢者はこう記していた。
-//Pretty sure Lagrange wrote this, and he's not quite nameless, but I could be incorrect. The quote doesn't seem to match entirely.
-There was a nameless philosopher who once wrote:
+There was a little-famed philosopher who once wrote:
 }
 [sha:100c009f202829e055577f2a512f0a6f47d3ec5d]{
 -- Page 688, Offset 16515.
@@ -661,12 +662,12 @@ It was fear, together with an inexpressible anger.
 -- Page 690, Offset 16520.
 -- “諦めていたからこそ許せたのだ”
 //very unsure about this line
-'I was because I had given up that I could overlook this.'
+'It was because I had given up that I could overlook this.'
 }
 [sha:e8e80efa73df82eac027a64783525ebe26b766b9]{
 -- Page 690, Offset 16521.
 -- “だがなんだ。これはなんだ。この結論はなんなのだ”
-'But what? What is this? What is this conclusion?'
+'But... what is this? What is with this conclusion?'
 }
 [sha:421b7cb0a53fccfbb0a216dc81778cd644424f96]{
 -- Page 690, Offset 16522.
@@ -733,12 +734,13 @@ There was still nothing 'eternal' to be found on Earth.
 [sha:165f874d1c1ab581b56211951d835dcca5b76e84]{
 -- Page 693, Offset 16534.
 -- 増え続け、変化し続けるのなら“完成”を待つしかないと。
-If everything kept expanding, kept changing, then he simply had to wait for it to 'complete'.
+So if everything kept expanding and changing, then he simply had to wait for it to 'complete'.
 }
 [sha:1fb58b303fd77448ef7eb89283765dd0f693828f]{
 -- Page 694, Offset 16535.
 -- 彼は階段を踏み外した。
-On his way up the stairs, he took the wrong path.
+// removed stairs here so it can be used next sentence
+On his way up, he took the wrong path.
 }
 [sha:5d2958059ae30dc1fe76dcf637dd8cdda615089c]{
 -- Page 694, Offset 16536.
@@ -748,7 +750,7 @@ He turned his back on the stairway to Heaven.
 [sha:c88bd9a6a59783c24354431015d040aa10260d9c]{
 -- Page 694, Offset 16537.
 -- 見たかったもの、求めたものは単純なもの。
-What he wanted to see――what he yearned for was simple.
+What he wanted to see and yearned for was simple.
 }
 [sha:d19ec63d0ece1a632d78a5fd48ef468fdfb93eda]{
 -- Page 694, Offset 16538.
@@ -773,12 +775,14 @@ But the man who had feared the infinitely expanding humanity, found his solution
 [sha:b4c3e764230baee58c336b47e98be4ac8278fa10]{
 -- Page 695, Offset 16542.
 -- 『……ふうん。まあ、ここらで足抜けするのも悪くない判断だよ。例の改革はともかく、<印刷技術|グーテンベルグ>の一般化が致命的だからな。しばらく荒れるだろ、<教|う><会|ち>も協会も。
-"Hmm... Well, breaking your ties with us now isn't a bad call. The rapid spread of the Gutenberg press has proven fatal, not to mention the reformation. It's gonna get rough for a while, both for us of the Church, and the Association.
+// lint-off:LinePageOverflow
+"Hmm... well, breaking your ties with us now isn't a bad call. The rapid spread of the Gutenberg press has proven critical, not to mention the whole reformation thing. It's gonna get rough for a while, both for us of the Church, and the Association.
 }
 [sha:d13105c554ffd15c0d1b754253e1cef65c34206f]{
 -- Page 695, Offset 16543.
 -- もっとも<魔術協会|あっち>の方はより大打撃だろうがね。大量印刷によってあらゆる迷信が駆逐される。神秘の屋台骨は派手に軋むだろうさ。
-Though of course, I suspect the Mages Association is going to take the heavier hit. Most superstitions will be eradicated thanks to mass printing. The foundational structure of the arcane will surely groan under the stress.
+Though of course, I suspect the Mages Association is going to take the heavier blow.
+ Most superstitions will be eradicated thanks to mass printing――the foundational structure of the arcane will surely groan under the stress.
 }
 [sha:de4a211a399d8dd48c6efd68377d860b2dafd2b0]{
 -- Page 695, Offset 16544.
@@ -816,8 +820,7 @@ So, do you intend to leave the Church tomorrow then?"
 -- 司教の席は望めない。ここまでで父の遺産はすべて使いきりましたしね。潮時だったんですよ、これが』
 // might style 'bishop' as 'prelate'
 I have no aspirations to become a bishop.
- I used up all of my father's fortune to come this far regardless.
- It was high time that I took my decision."
+ I used up all of my father's fortune to come this far regardless――it was high time that I took my decision."
 }
 [sha:c6056f56d9d2c246c5fda3a338718449b5405b92]{
 -- Page 698, Offset 16550.
@@ -847,8 +850,8 @@ Narbareck?"
 -- Page 699, Offset 16554.
 -- 『そうだな。あと百年もたてば新参の死徒が台頭してくる。そいつの相手をしても無駄骨だから無視してしまえ、と口伝にしよう』
 // 新参 not referring to the Ancestor sense of the word, so probably best not to use "young blood", but hey, it might fit anyway, I'll think about it.
-Hmm, I guess something like: 'in a century or so a new Dead Apostle's gonna enter the scene.
- Trying to fight him's just gonna be pointless, so leave him alone.'"
+"Hmm, I guess something like: 'in a century or so a new Dead Apostle's gonna enter the scene.
+ Trying to fight him is just gonna be pointless, so leave him alone.'"
 }
 [sha:580e3bea37dd37797328dd236054aee99e21d8b9]{
 -- Page 699, Offset 16555.
@@ -863,7 +866,7 @@ Hmm, I guess something like: 'in a century or so a new Dead Apostle's gonna ente
 "Hah, stop spouting nonsense.
  You'll have to start as a Corpse――even a once-in-a-decade genius like you will take at least a century.
  That's the kind of living hell their world is.
- We couldn't even being to imagine how terrible they have it.
+ We couldn't even begin to imagine how terrible they have it."
 }
 [sha:242c2e62f22a9bd2c4757d35b11edd44222611a9]{
 -- Page 700, Offset 16557.
