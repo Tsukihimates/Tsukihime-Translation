@@ -134,10 +134,11 @@ if he gets close, I'll skewer his 'death' in less time than it takes to draw a s
 "But still, it really is bright out tonight.
  We'll have a hard time sneaking in under the cover of darkness.%{n}
 }
-[sha:296153b5ac049cb48510eacb5052856468765762]{
+[offset:32339]{
 -- Page 244, Offset 32339. Glued. Mods: @x, @n.
 -- ……
-...
+// Fix for double-glue pessimal case
+%{n}......
 }
 [sha:730b39b2b7abce948cf036d62dc18157cf41c11f]{
 -- Page 244, Offset 32340. Glued.
