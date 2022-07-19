@@ -402,7 +402,8 @@ It was just that it had an extreme inclination in one direction.
 [sha:286f3f59e2d47db616ac74a14347296d6b337c6a]{
 -- Page 678, Offset 16471.
 -- 彼は人間のあらましより、世界のあらましにしか関心が持てなかった。
-He was only ever interested in the generality of the world, not that of people.
+// あらまし comes up a few times and I've generally translated it as conceptualization, but its a bit of an odd expression
+He was only ever interested in the conceptualization of the world, not that of people.
 }
 [sha:dd094d0a5c996772280f2529c06cda66bb153a86]{
 -- Page 678, Offset 16472.
@@ -413,7 +414,7 @@ In exchange for holding this interest toward the whole, he lacked the ability to
 [sha:0d425ffe49735841a0f30b3b939e658b3e55ded4]{
 -- Page 678, Offset 16473.
 -- 自身を高める向上心の代わりに、権力欲が欠けていた。
-In exchange for his capacity toward self-improvement, he lacked any ambitions of power.
+In exchange for his capacity of self-improvement, he lacked any ambitions of power.
 }
 [sha:3bece9adc5b2aded2c92ac80f643f70bde867ad0]{
 -- Page 678, Offset 16474.
@@ -466,8 +467,8 @@ Though he still held a child-like curiosity,
 [sha:5b4d6f5f799f68e9aa3b1e365bdc51f839950a05]{
 -- Page 681, Offset 16483.
 -- 社会のあらましを理解していた少年に不思議はなかった。
-lint-off:LinePageOverflow
-The boy who had already grasped the generalities of society found little mysterious.
+// lint-off:LintPageOverflow
+The boy who had already grasped the concepts of society found little mysterious.
 }
 [sha:a95259b7d979e17f178ea85974da9a5d4b888572]{
 -- Page 681, Offset 16484.
@@ -571,8 +572,7 @@ But he would soon come to know...
 [sha:056e37f4148e891e141c7f634e1dd071fe924923]{
 -- Page 685, Offset 16503.
 -- 一生を費やすと決心した“あらまし”は、先人達によって解答にいきついていた事に。
-// あらまし comes up a few times and I've generally translated it as generality, but its a bit of an odd expression
-That the 'generality' he had determined to spend his life uncovering, had already been reached by his predecessors.
+That the 'conceptualization' he had determined to spend his life uncovering, had already been reached by his predecessors.
 }
 [sha:6541cc8213e57a25c1dc542f58c02a98789e36cf]{
 -- Page 686, Offset 16504.
@@ -750,12 +750,12 @@ He turned his back on the stairway to Heaven.
 [sha:c88bd9a6a59783c24354431015d040aa10260d9c]{
 -- Page 694, Offset 16537.
 -- 見たかったもの、求めたものは単純なもの。
-What he wanted to see and yearned for was simple.
+What he yearned for and wanted to see was simple.
 }
 [sha:d19ec63d0ece1a632d78a5fd48ef468fdfb93eda]{
 -- Page 694, Offset 16538.
 -- 彼はすべてを知りたかった。
-He wanted to know everything.
+It was to know everything.
 }
 [sha:97aa8ba820703c439179858a8a6d4f24e0682d83]{
 -- Page 694, Offset 16539.
@@ -775,7 +775,7 @@ But the man who had feared the infinitely expanding humanity, found his solution
 [sha:b4c3e764230baee58c336b47e98be4ac8278fa10]{
 -- Page 695, Offset 16542.
 -- 『……ふうん。まあ、ここらで足抜けするのも悪くない判断だよ。例の改革はともかく、<印刷技術|グーテンベルグ>の一般化が致命的だからな。しばらく荒れるだろ、<教|う><会|ち>も協会も。
-lint-off:LinePageOverflow
+// lint-off:LintPageOverflow
 "Hmm... well, breaking your ties with us now isn't a bad call. The rapid spread of the Gutenberg press has proven critical, not to mention the whole reformation thing. It's gonna get rough for a while, both for us of the Church, and the Association.
 }
 [sha:d13105c554ffd15c0d1b754253e1cef65c34206f]{
@@ -795,8 +795,8 @@ Oh, I suppose that's why you'd go with this timing, since both of them will be s
 [sha:2d16ce91dd097daeb76621a1f4acf3da08e07609]{
 -- Page 696, Offset 16545.
 -- 『まさか。吸血鬼はただ歳老いにくく、死に<難|にく>いだけの種ですよ。永遠にはほど遠い。彼等はあくまで工程の一つにすぎません。まずは簡潔に自殺し、人間としての死をこなすだけです』
-"Of course not. Vampires are merely a species that age slowly and are hard to kill――far from eternal.
- They will ultimately serve as nothing more than one of my stepping stones.
+"Of course not. The species of vampires merely age slowly and are hard to kill――far from eternal.
+ They will serve as nothing more than one of my stepping stones.
  First I will have to perform a clean suicide so as to die a human death."
 }
 [sha:b0965ce967a2f09d50b5af4a96d8b06d8eadae9c]{
@@ -819,7 +819,7 @@ So, do you intend to leave the Church tomorrow then?"
 -- Page 697, Offset 16549.
 -- 司教の席は望めない。ここまでで父の遺産はすべて使いきりましたしね。潮時だったんですよ、これが』
 // might style 'bishop' as 'prelate'
-I have no aspirations to become a bishop.
+I have no aspirations of becoming a bishop.
  I used up all of my father's fortune to come this far regardless――it was high time that I took my decision."
 }
 [sha:c6056f56d9d2c246c5fda3a338718449b5405b92]{
