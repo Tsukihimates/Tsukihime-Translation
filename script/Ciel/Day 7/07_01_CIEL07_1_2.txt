@@ -1,7 +1,7 @@
 [sha:5f3ad6ee0410701b739a79eaee295a1a3942be3a]{
 -- Page 10004, Offset 15010.
 -- 購買で揚げパンを買おう。
-// 揚げパン is fried bread but it sounds weird so 
+// 揚げパン is fried bread but it sounds weird so I've left as just bread
 I'll buy some bread at the school store.
 }
 [sha:e95e5da395a377aa50290a3f7d8eaf24b2ea8dc2]{
@@ -12,7 +12,7 @@ The way I am today, I should be able to go for four of them.
 [sha:7fc0faa6c5edd2efa71b7264b93873e35aec0668]{
 -- Page 88, Offset 15012.
 -- 「今日は購買で済ませる。有彦も何かあるならついでに買ってくるけど？」
-"I'll get something from the school store. While I'm at it, I could get something for you too if you'd want.
+"I'll get something from the school store. While I'm at it, I could get something for you too if you'd want."
 }
 [sha:d5dd3f1a5fbd27fdeb31c5305e30ecbb98d814d7]{
 -- Page 88, Offset 15013.
@@ -47,7 +47,7 @@ If Senpai had heard about this she'd be all like:
 [sha:7b4959606c20fbdda79b7794e4cc2bf7e5f2cf96]{
 -- Page 90, Offset 15019. Mods: @n.
 -- 『なんたる不純
-You've sullied the curry!
+'You've sullied the curry!
 }
 [sha:6839b8ff8a632fe5fceac6d97eaa2a68c6723321]{
 -- Page 90, Offset 15020. Glued.
@@ -57,11 +57,12 @@ You've sullied the curry!
 [sha:02174398bd962d4d56c634c675b9bb5c5a3e58ee]{
 -- Page 90, Offset 15021.
 -- これはもう成敗する他ありませんね！』
- Now this calls for a harsh punishment, no doubt!"
+ Now this calls for a harsh punishment, no doubt!'
 }
 [sha:7b5bead6c4ec7cf3b2d918e04221b07753a27db2]{
 -- Page 90, Offset 15022. Mods: @n.
 -- とお怒りになるの
+// these lines are very annoying
 Oh, the anger she would unleash.
 }
 [sha:1f755ba38c69b90f7c43e1e4875824e8dd40df24]{
