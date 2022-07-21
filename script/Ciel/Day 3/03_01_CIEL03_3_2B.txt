@@ -27,7 +27,9 @@ A low droning hiss echoes in my ears.
 [sha:94823b2e96f953fa9db962b1239083e01152450d]{
 -- Page 129, Offset 5169.
 -- ざあ。ざあ。ざあ。
-%{i}Hissssssss%{/i}.
+// Pitter patter feels too discrete, but there's no great en equivalent for the
+// ザーーー of steady curtains of rain
+%{i}Fshhhhhhhh%{/i}.
 }
 [sha:5440d4a6cf248f4a2888b5655eeb2f30994ccda3]{
 -- Page 129, Offset 5170.
@@ -149,7 +151,7 @@ In my heart I still fear death,
 [sha:aefd2d0b8f749a4654f00ffc113ad7a52f422f1e]{
 -- Page 135, Offset 5192.
 -- ざあざあ、という雑音。
-A quiet, steady susurration.
+A soft, steady susurration.
 }
 [sha:bd88f3e6ab5150e47c629198be2cdf21ad56c522]{
 -- Page 135, Offset 5193.
@@ -176,7 +178,7 @@ Maybe... that'd be for the best.
 [sha:521bbed064003ae7ca3fb0a78bc176c8faacad1c]{
 -- Page 135, Offset 5197.
 -- 俺みたいな人殺しは、生きていても、どうせ。
-What good is a murderer like me alive, anyway.
+What good is a murderer like me alive, anyway?
 }
 [sha:b5e7df65b24ddc854d65773506287f40909b1ed9]{
 -- Page 136, Offset 5198.
@@ -211,7 +213,7 @@ Suddenly.
 [sha:a99120adfa87de1d4f2243e32beed895e895610a]{
 -- Page 137, Offset 5204.
 -- そんな名前を、呼ばれた気がした。
-I hear someone call out my name.
+I hear someone call my name.
 }
 [sha:7210839f45ef73b318e1583c83277cbf04b7aebe]{
 -- Page 138, Offset 5205.
@@ -226,27 +228,28 @@ I hear someone call out my name.
 [sha:27e37a8c85b1206f00e65a7bfd8b7ce33c39a21f]{
 -- Page 138, Offset 5207.
 -- そこには、もう何十年かぶりに思える、先輩の姿があった。
-There, for what feels like the first time in decades, I see Senpai.
+Standing there in front of me is Senpai.
+ It feels like decades have passed since I last saw her.
 }
 [sha:b42b59f4201018e2a8cd36d6a74c7fcd58e66932]{
 -- Page 139, Offset 5208.
 -- 「どうしたんですか、こんな雨の中で座りこんじゃって」
-"What's the matter with you? Sitting out here in the rain."
+"What on earth are you doing, sitting out here in the rain like this?"
 }
 [sha:0e301d3e42143623bfb82758c0854d9f9688dfa4]{
 -- Page 139, Offset 5209.
 -- 「…………あ、め」
-"............ Ah"
+"Rai...n?"
 }
 [sha:50d9adeb2ed881528570db93347e956531830a93]{
 -- Page 140, Offset 5210.
 -- ……そうか。さっきから響いていたノイズは、雨の音、だったのか。
- ...... I see. The sound I've been hearing was %{i}rain%{/i}.
+I see... So the noise echoing in my ears was the sound of rain falling.
 }
 [sha:4c0387155122fc02693e10932c2701528ea56328]{
 -- Page 140, Offset 5211.
 -- 寒い筈だ。見れば、体じゅう濡れて冷えきっている。
-No wonder I'm cold. My whole body has gotta be wet.
+No wonder I'm cold. I'm drenched to the bone.
 }
 [sha:f18d33ac23ee4ddb1bf83eda9101111b1c123626]{
 -- Page 141, Offset 5212.
@@ -261,17 +264,18 @@ You'll catch a cold out here without one."
 [sha:7f7172e5461fb48c7fdf705b552de4c010e79d55]{
 -- Page 142, Offset 5214.
 -- ……先輩の声は、異国の言葉のように聞こえた。
-...When I hear Senpai it sounds like she's speaking a foreign language.
+It almost sounds as if she's speaking a foreign language...
 }
 [sha:3b221e75dca1e1440e026eac72a18f27bdc4a250]{
 -- Page 142, Offset 5215.
 -- ほんの数時間前まで聞いていた声なのに、今はなんて―――遠くにある声なんだろう。
-It's a voice I heard only a few hours ago, but now it sounds so far away.
+It's only been a few hours since I last heard her voice,
+ but now it feels so incredibly distant.
 }
 [sha:21c1d021606a23beedfb56b57a29605e3b152fa3]{
 -- Page 143, Offset 5216.
 -- 「わたしの声、聞こえてます……？」
-"Can you... hear me...?"
+"Can you hear me...?"
 }
 [sha:2745d5930dedecbf2d6a56cb53968f9e36dd8f95]{
 -- Page 143, Offset 5217.
@@ -281,48 +285,49 @@ It's a voice I heard only a few hours ago, but now it sounds so far away.
 [sha:f78c978ad969c8526308333276674429f8156457]{
 -- Page 143, Offset 5218.
 -- 風邪ぐらいは、ひくべきなのかもしれません」
-Maybe I should catch a cold."
+Maybe catching a cold is just what I deserve."
 }
 [sha:9c72f1c6ee4dae9f2d45a03f96b6f1b38e274a7a]{
 -- Page 143, Offset 5219.
 -- 何も考えられずに、気持ちだけが喉を過ぎる。
-// please double-check
-Without thinking, raw emotions exit my mouth.
+Unable to think straight, I give voice my inner thoughts.
 }
 [sha:65de14b0ec2d422296f13f7768a446018156bef4]{
 -- Page 144, Offset 5220.
 -- 「だめですよ、いくら十月でも。こんな雨の中にいたら、風邪だけじゃすまな―――」
-"That won't do, even if it's just October. If you stay out in the rain like this, a cold could be the least of your worries..."
+"Don't be ridiculous.
+ It may only be October, but if you stay out in the rain like this, a cold could be the least of your worr―――"
 }
 [sha:afa1a9d6d5cdfa1779b6b9837eeb5b9c4ed7176b]{
 -- Page 145, Offset 5221.
 -- 先輩の手が、だらりと下がった俺の手を握る。
-Senpai grabs my hand, dangling limp at my side.
+Senpai grabs my hand, which had been dangling limply at my side.
 }
 [sha:231802fe6c7ad498ff40235395cf9f2baab8af2f]{
 -- Page 145, Offset 5222.
 -- ベンチに座ってうなだれた俺を気遣っての事だろう。
-She must be concerned about me, slumped over on a bench.
+She must be worried about me, sitting here slumped over on a bench like this.
 }
 [sha:c510cec5db5d5d1e6d475667344eb2ae6fa10e9a]{
 -- Page 146, Offset 5223.
 -- 「遠野くん、一体どのくらいこうしてたんですか……!?
-"How long have you been like this, Tohno-kun...!?
+"Tohno-kun... Just how long have you been out here?!
 }
 [sha:19c20d0e4e8d030e0bede050eada3718d4bd0e98]{
 -- Page 146, Offset 5224.
 -- 体、こんなに冷たくなってるじゃないですか！」
- Your body must be getting so cold!"
+Your body is absolutely freezing!"
 }
 [sha:62051e089eb4e55a8f21c321701ff45cfe5e888f]{
 -- Page 147, Offset 5225.
 -- 言うが早いか、先輩は俺の腕を掴んで、強引にベンチから立ち上がらせた。
-Senpai grabs my arm and forces me up from the bench.
+Before she's even finished speaking, Senpai has grabbed me by the arm and hoisted me off the bench.
 }
 [sha:7af64fa067a0dd2190c5ca3c5a763dfc376dc30c]{
 -- Page 148, Offset 5226.
 -- 「わたしの傘を貸しますから、すぐに家に帰って体を温めてください。本当に命にかかわります」
-"I'll lend you my umbrella, but you must go home and warm yourself at once. This is seriously a matter of life and death."
+"I'll lend you my umbrella, but you need go home and warm yourself up immediately.
+ This is seriously a matter of life and death."
 }
 [sha:b8a5a9adffd18ae0a5e3969fb3af700863d9b052]{
 -- Page 149, Offset 5227.
@@ -332,22 +337,26 @@ Senpai grabs my arm and forces me up from the bench.
 [sha:0dea5693cab2adc8aa0d1ca38e2bc05917b939ab]{
 -- Page 149, Offset 5228.
 -- ……そうか。だから一歩も動かなかったのか。
- ...... I see. That's why I've stayed perfectly still.
+I see... So that's why I couldn't even move.
 }
 [sha:38445e147fc4a82c94e9357c0f96b595da061a8b]{
 -- Page 149, Offset 5229.
 -- 何も考えられない、なんてコトさえ嘘だった。
- I was lying to myself when I said I wasn't thinking.
+// Referencing 5219.
+// A little unsure of exactly what's going on here - best I can make out he's
+// saying that actually he's totally capable of thinking, he just hasn't [out of fear]?
+I was lying to myself when I said I couldn't think straight.
 }
 [sha:0d72519dbf38b12672c3c6cdd9ab88ecda651630]{
 -- Page 149, Offset 5230.
 -- だってさっきからそうしたくて、俺は何もしなかった。
-But I wanted to believe in that lie, so I did nothing.
+I've wanted to this whole time, I just haven't.
 }
 [sha:9ed97a96f501d18294ddb07f8942b059db1489fd]{
 -- Page 150, Offset 5231.
 -- 「もうっ、しっかりしてください！　動けないなら、わたしからお家に連絡を入れましょうか？」
-"Hang on, please! If you can't move, why don't I call your house?"
+"Come on, get a hold of yourself!
+ If you aren't able to move, why don't I contact your family?"
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 150, Offset 5232.
@@ -357,7 +366,7 @@ But I wanted to believe in that lie, so I did nothing.
 [sha:ca9e97dcba4fb305f3cb4666ab16d6e2ffcc2b58]{
 -- Page 150, Offset 5233.
 -- それは、困る。
-No, that's no good.
+That... wouldn't go well.
 }
 [sha:3c195e5be762e6fc02257ae68c9c20f8a55316cd]{
 -- Page 151, Offset 5234.
@@ -367,7 +376,7 @@ I keep my head down.
 [sha:ffdc924adf7ae4c724c4cc0f62349552d5f46c7f]{
 -- Page 151, Offset 5235.
 -- 先輩の顔を見なくて済むまま、
-           Without looking Senpai in the face,
+Guiltily, without looking Senpai in the face―――
 }
 [sha:0b6d135ac157bb0602c4ee1176d0bef192ce2b2e]{
 -- Page 151, Offset 5236.
@@ -377,27 +386,27 @@ I shake my head, asking her not to.
 [sha:ccb6034f75a4bc0ad2c42bb8c6cf5b6211c01147]{
 -- Page 152, Offset 5237.
 -- 「……いいんです。俺は、家には帰れない。
-"'It's ...... okay. I can't go home.
+"...Don't bother. I can't go home.
 }
 [sha:f2cc628706f8be912b1f85ee269a66eb289616dd]{
 -- Page 152, Offset 5238.
 -- ……どこにも、行っていいところがない」
-......There's nowhere for me to go."
+I... don't have anywhere I can go."
 }
 [sha:8f37b60ff2a389ab22511cc9383cc907f26e65cc]{
 -- Page 153, Offset 5239.
 -- そうだ。
- That's right.
+That's right.
 }
 [sha:2c12482cdfbc32e9784c7784c21417fbf594595b]{
 -- Page 153, Offset 5240.
 -- こんな血だらけの体で家には帰れない。
- I can't go home with this bloody body.
+I can't go home covered head to toe in blood like this.
 }
 [sha:5cdfe3d38fe6d862edff0ead15f74644666c64f6]{
 -- Page 153, Offset 5241.
 -- もうどこにも―――俺には休んでいい場所なんて、あってはならない。
-There's no place for me to rest.
+There's no place for me anymore―――not even a place I can rest.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 154, Offset 5242.
@@ -412,17 +421,18 @@ A long silence.
 [sha:b2b9e4e9591a717e0447f10951130838ba6f52b4]{
 -- Page 154, Offset 5244.
 -- 先輩は無言で俺を見つめている。
-Senpai wordlessly stares at me.
+Senpai stares wordlessly at me.
 }
 [sha:175c8ea37ea584231c1673ff9901c332e50b09c7]{
 -- Page 155, Offset 5245.
 -- 「わかりました。わたしのアパートに行きましょう。遠野くんの家よりは近いですから、ちょうどいいです」
-"Okay. Let's go to my apartment then. It's closer than your house so it's perfect."
+"Alright. How about we head to my apartment then.
+ It's a lot closer than your house, so it should do nicely."
 }
 [sha:d760f9d10c456c94e46895a09e864def63b168fc]{
 -- Page 155, Offset 5246.
 -- 先輩はぐい、と俺の腕を引っ張っていく。
-She pulls me by the arm.
+She begins dragging me along by the arm.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 156, Offset 5247.
@@ -437,15 +447,17 @@ I can't shake her off.
 [sha:0b90233779a133f02021cd1b7d65b89e9e67b091]{
 -- Page 156, Offset 5249.
 -- 俺の体には何の熱量も残っていない。自分で立ち上がる事さえできなかったからだ。
-There was no heat left in my body. I don't even have the strength to stand up by myself.
+There's no warmth left in my body.
+ I didn't even have the strength to stand up by myself.
 }
 [sha:87de1907327612e77f1f12c5cfa2078b1508ad2e]{
 -- Page 157, Offset 5250.
 -- ……だから、だろうか。
-...... I wonder if that's why.
+I wonder if that's why...
 }
 [sha:0d685a38f577a15bb76457561ed8ac23fb64229a]{
 -- Page 157, Offset 5251.
 -- 冷えきった手を握る先輩の体温は、すべてが麻痺した感覚の中で、ただ一つ確かなものに感じられた。
-Among my numbed senses, the only thing that felt certain was the warmth of Senpai's hand.
+With my senses numbed by the cold,
+ the only thing that I could feel with certainty was the warmth of her hand clasped around mine.
 }
