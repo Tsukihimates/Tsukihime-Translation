@@ -1,17 +1,18 @@
 [sha:26822d63443e750991dbb8a44b47c431003e77fc]{
 -- Page 1, Offset 8195.
 -- 「―――ん」
-"...nghh"
+"...%{i}nghh%{/i}"
 }
 [sha:82134b55f56111ceb95ce4cda16a2703c205d5b3]{
 -- Page 1, Offset 8196.
 -- 淡い光で目が覚めた。
-I was awakened by a faint light.
+I'm woken by a faint light.
 }
 [sha:fe599f743fbc14658a6eae38a49d16e394523180]{
 -- Page 1, Offset 8197.
 -- 雨音はとうに止んでいる。空は曇って灰色に<煙|けぶ>っていたが、それでも目を覚ますには充分な光だった。
-The sound of rainfall had stopped. The sky was cloudy and gray, but the light was still enough to wake me up.
+The sound of the rain has finally stopped.
+ The sky is overcast and grey, but still bright enough to wake me up.
 }
 [sha:f131037131f489fd2885bd26f148454a4eef175b]{
 -- Page 2, Offset 8198.
@@ -26,27 +27,31 @@ The sound of rainfall had stopped. The sky was cloudy and gray, but the light wa
 [sha:4fd533bbec2ec18798cd781cd941c765585c8b3c]{
 -- Page 3, Offset 8200.
 -- 思い、出した。
-I... remember.
+I remember now...
 }
 [sha:9edebb913bce17fc4bffd8d6d301bc054db5c385]{
 -- Page 3, Offset 8201. Mods: @n.
 -- 昨夜は先輩にベッドを借りて、先輩の部屋に泊まったんだ。
-Last night, I stayed in Senpai's room and slept in her bed.
+I spent the night in Senpai's room, and slept in her bed.
 }
 [sha:9d3df005a4dee9d436e196e29a72d5edbf6639be]{
 -- Page 3, Offset 8202. Glued.
 -- 一晩あけて気持ちが楽になったのか、とたんに恥ずかしくなってベッドから跳ね起きた。
-Though my emotions have settled after a night of rest, I was assaulted by a sudden wave of embarrassment, so I jumped out of bed.
+// ~のか a little confusing here, interpreting as
+// "I guess my emotions must have relaxed(returned to normal) after a nights sleep, as I now feel embarrassment and...
+The night's rest must have been enough for my emotions to return to normal,
+ as I'm suddenly overcome by embarrassment and leap out of bed.
 }
 [sha:4d1c84c4130e32b44cad404ac2ad502f52cd3f3c]{
 -- Page 4, Offset 8203.
 -- 「おはようございます先輩っ！
-"Good morning, senpai!
+"Good morning, Senpai!
 }
 [sha:a1fba13e4a6d0f9ddcac5b7da95d49d7d4fb83e2]{
 -- Page 4, Offset 8204.
 -- 昨日はありがとうございました。色々お世話になっちゃって、その―――」
-Thanks a lot for yesterday. You did a lot for me――――"
+Thanks a lot for yesterday.
+ You really went out of your way for me, and, um―――"
 }
 [sha:ad081032557d69f9bbfeebeb856cb3dd25be0482]{
 -- Page 4, Offset 8205.
@@ -56,7 +61,8 @@ Thanks a lot for yesterday. You did a lot for me――――"
 [sha:bf1957b3a56494f464ee415fea7aa98a600a6290]{
 -- Page 5, Offset 8206.
 -- 慌てている俺と違って、先輩はいつもの笑顔だ。
-Unlike me, who was in a panic, Senpai had her usual smile.
+I'm a flustered mess,
+ but Senpai has the same smile on her face she always does.
 }
 [sha:fc787100ee983dcaa71b82b08f0c848fcd5f42a1]{
 -- Page 5, Offset 8207.
@@ -67,47 +73,50 @@ She really is in another league.
 [sha:ae61229e14676484e0e26b666838b4c46e63f1a8]{
 -- Page 5, Offset 8208.
 -- 先輩は俺なんかより、ずっと大人な人だった。
-She's much more mature than me.
+She's far more mature than I am.
 }
 [sha:601345cb60a6a87caca541c3044c0b57a59bb70b]{
 -- Page 6, Offset 8209.
 -- 「……じゃあ一つ借りですね。もし俺に返せる時があるのなら、その時は必ずお返しします」
-"...... Then I guess I owe you one. If it's ever possible to pay you back, then I promise I will."
+"Yeah, I guess I do owe you one...
+ I'll be sure to return the favor if I ever get the chance."
 }
 [sha:102b8863b5718abc00d78cf8346ea6d4ace176fe]{
 -- Page 7, Offset 8210.
 -- ……先の事は分からない。
-...I don't know what will happen in future.
+I don't know what the future holds...
 }
 [sha:12756d014ec2860c4fa234e0feaba1385398fa20]{
 -- Page 7, Offset 8211.
 -- それでも、もし幸運にも恩返しできる機会があるのなら、どんな些細な事でもいいから、この人の助けになりたいと思った。
-Still, if I'm fortunate enough to have the chance to pay her back, I want to help her in any way I can, no matter how trivial it may be.
+Still, if I'm ever lucky enough to have the chance to pay her back,
+ I want to do everything in my power to help her out, no matter how trifling that may be.
 }
 [sha:d496d6fddbc8e51cf9e6e7e270e557b14ff7ff8e]{
 -- Page 8, Offset 8212.
 -- 「……俺、そろそろ帰ります。雨もあがったし」
-"...... I'm going home now. The rain has stopped."
+"...I'd better head home soon. It's stopped raining, after all."
 }
-[sha:f8dafa52d7a8775094bfb21522c0116cf479f210]{
+[offset:8213]{
 -- Page 8, Offset 8213.
 -- 「あれ、そうなんですか？
-"Oh, is that so?
+"Huh, you are?
 }
 [sha:884e4b6c96dbef97938e778e38c81381f64031d0]{
 -- Page 8, Offset 8214.
 -- まだ朝の６時になったばかりですよ、遠野くん」
-It's only six in the morning, Tohno-kun."
+It's only just gone six o'clock you know, Tohno-kun."
 }
 [sha:27262ec2200dd63a62456812ff24221a5ab31dc9]{
 -- Page 9, Offset 8215.
 -- 「そうだけど、昨日は無断外泊しちゃったから。早めに屋敷に戻らないと秋葉になんて言われるか」
-"Yes, but I stayed out yesterday without permission. If I don't get back to the mansion as soon as possible, I don't know what Akiha will say."
+"That may be true, but last night I stayed out without permission.
+ I shudder to think what Akiha will have to say if I don't get back to the mansion pronto."
 }
 [sha:5e74542229e0ca3eb3c4427065af5253fc8eaa0c]{
 -- Page 10, Offset 8216.
 -- 「秋葉……ああ、妹さんのことですね。
-"Akiha...... Oh, you mean your sister.
+"Akiha... Oh, you mean your sister.
 }
 [sha:2d78ae29c4bebc0e873e4aa518fa4d2d33eee692]{
 -- Page 10, Offset 8217. Mods: @n.
@@ -117,57 +126,62 @@ I called her yesterday,
 [sha:2c1be3b828e7afb67448685aeb4646f4099d5bb5]{
 -- Page 10, Offset 8218. Glued.
 -- 大丈夫だと思いますよ」
-so I think you'll be fine."
+ so I think you're clear on that front."
 }
 [sha:f174c758f0197d0435e6f261f51c9f963500eaf5]{
 -- Page 10, Offset 8219.
 -- さらりと、先輩はとんでもない事を口走った。
-She just casually blurted out something outrageous.
+She just offhandedly mentioned something outrageous.
 }
 [sha:8c9fbcc945a172c11d951b94bbfd9d7068b52302]{
 -- Page 11, Offset 8220.
 -- 「……電話したって、先輩が、うちに？」
-"You called...... my family?"
+"Senpai... you called my family?"
 }
 [sha:13c46612f77a6c5eae790c59289c81209467c265]{
 -- Page 12, Offset 8221. Mods: @k, @e.
 -- 「はい。遠野くんがうちに泊まる事を伝えておかないと、ご家族の方たちが心配すると思って。
-"Yes. I thought your family would be worried if I didn't inform them you were staying at my place.
+"Yes. I thought your family would be worried if I didn't let them know you were spending the night at my place.
 }
 [sha:fb0c66e4ce23670627e6d3fd3016ae77f9a79021]{
 -- Page 12, Offset 8222. Glued. Mods: @x.
 -- ご迷惑でした？」
-I hope I didn't cause you any trouble."
+ Should I not have?"
 }
 [sha:71f5cd20678532f21ff35ecd137c0f39bc22cd05]{
 -- Page 12, Offset 8223.
 -- 「いや、それは――――――」
-"No...that's..."
+"Ah, well..."
 }
 [sha:c9090eab33a64c3c8fff72b5d0cb44f9a34757cd]{
 -- Page 13, Offset 8224.
 -- わなわなと震える喉。
-My throat quivered in fear.
+My voice is trembling with fear.
 }
 [sha:2fa4ca37b7c25482dbaf293a28079d556cf2abf7]{
 -- Page 13, Offset 8225.
 -- シエル先輩がうちに電話したっていう事は、つまり、同年代の女生徒が『遠野志貴はうちに泊まります』と、あのお厳しい当主様に伝えたという事だ。
-Then that means, a young woman; one around my age, told our strict family head I'd be staying at her place.
+Ciel-senpai called the mansion.
+ In other words, a female student the same age as me called up our totalitarian family head and told her that
+ 'Tohno Shiki is spending the night with me'.
 }
 [sha:2f148ee523e3f9335a9002c9d42a0ac0b318fa3d]{
 -- Page 14, Offset 8226.
 -- 「―――困る。それは、すごく困る。昨日とは違う意味で、死んだ方がマシかもしれない」
-"This is bad, very bad. In a different way than yesterday, I might as well be dead."
+"This is bad. This is %{i}really%{/i} bad.
+ I'd probably be better off dead, though for a different reason than I thought so yesterday."
 }
 [sha:30987b2cf9e819171ebae2ed9836e2eb3b1ea2b7]{
 -- Page 15, Offset 8227.
 -- 「……遠野くん……わたしの部屋に泊まったこと、そんなに嫌だったんですね」
-"...Tohno-kun... did you hate sleeping in my room that much?"
+"Tohno-kun... Did you really hate spending the night here that much?"
 }
 [sha:2e1e4f9a5ad33dba431ae27a8676c0df0882fde8]{
 -- Page 16, Offset 8228.
 -- 「あ、いや、そういう意味じゃなくてですね、うちの家は時代錯誤というか、とにかく決まりが厳格なんです。
-"Oh, no, I don't mean that. My family is kinda behind the times... anyway we have strict rules.
+"Ah, no, that's not what I meant―――
+it's just that my family is a little behind the times,
+ and we have some pretty strict rules, that's all.
 }
 [sha:9eb9a667e6db7cff4da93f40d0ba346917606f5c]{
 -- Page 16, Offset 8229.
@@ -177,7 +191,7 @@ It's not like I hate you or anything."
 [sha:5e5e2ce9526316d9b1933e0e135c58797872713c]{
 -- Page 17, Offset 8230.
 -- 「……いいです、言い訳なんかしなくても。
-"You don't have to make any excuses.
+"That's okay... you don't have to make any excuses.
 }
 [sha:e04f78ebd87653b0221334561c942e3b12964b0c]{
 -- Page 17, Offset 8231.
