@@ -1,30 +1,32 @@
 [sha:11ef384203a45af22bc96d42d37c240ed7d48cae]{
 -- Page 10002, Offset 8343.
 -- どれほど心境が複雑でも朝の様子は変わらない。
-// Some parts of this file is identical to 04_00_ARC04_3
-No matter how complicated my feelings are, the morning remains the same.
+// Some parts of this file are identical to 04_00_ARC04_3
+No matter how clouded my thoughts are, the morning still carries on around me.
 }
 [sha:5c3ea16c0085a29a26fb82056ab06e9b1c5fe796]{
 -- Page 10002, Offset 8344.
 -- 学校に近付くにつれ制服姿の生徒を見かけるようになってくる。
-As I approach the school, I start to see students in their school uniforms.
+// LintConsistency:5824
+As I approach the school, I see more and more people wearing school uniforms.
 }
 [sha:82df7203d4c98f804d5607d0f93e0cc471948738]{
 -- Page 73, Offset 8345.
 -- ……不意に踏み出す足が止まりそうになるのを、強がりで進ませる。
-// 強がりで can probably be better worded
-Suddenly, my footsteps almost come to a halt, but I press on to hide my weakness.
+My legs feel like they could suddenly stop at any moment,
+ but I put on a false sense of bravado and push on.
 }
 [sha:6425801f3ab688ad5b4047b282c78a95a5b46cdb]{
 -- Page 73, Offset 8346.
 -- 駅前をすぎて、学校に向かうまでの風景。
-After leaving behind the station, this is the scenery I see on my way to school.
+Passing the station, I take in the scenery along my route to school.
 }
 [sha:c834076cf4a37b7e2d16c7c8cd0de66308fab953]{
 -- Page 73, Offset 8347.
 -- 二年間馴染んだ通学路を歩いていく。
-// i think school is implied here
-I walk along the route that I've gotten familiar with over the past two years.
+// Action of walking slightly modulated for flow
+I've spent two years walking this route,
+ and I'm intimately familiar with it.
 }
 [sha:257d83f706a6956190e2b4b0f0e982103a7a4b2e]{
 -- Page 74, Offset 8348.
@@ -50,12 +52,15 @@ The path to the school is protected by a guardrail, and even now students are jo
 [sha:c17bae2fa94fb00d305e4572998667dc7966da29]{
 -- Page 75, Offset 8352.
 -- この時間、道の向かいの歩道にはうちの学校の生徒しかいない。
-At this time of the day, the only people on the sidewalk are students from our school.
+// LintConsistency:5833
+Excluding the students from my school,
+ there isn't anybody else on the sidewalk at this time of day.
 }
 [sha:51d216c682599f3b9f751bf58a78482d60287337]{
 -- Page 75, Offset 8353.
 -- いない筈だ。
-That is how it should have been.
+// LintConsistency:5834
+Or at least, there %{i}shouldn't%{/i} have been.
 }
 [sha:78247f935ed814b8d9d6a145c6537c2aeb6e828f]{
 -- Page 75, Offset 8354.
@@ -101,58 +106,65 @@ I've only seen her once, but there's no way I could mistake her for anyone else.
 [sha:5b79d594d001a89f3fec8c49b6fcdadc02008315]{
 -- Page 77, Offset 8362.
 -- けど、そんな筈はない。
-But, that shouldn't be possible.
+But, it can't be her.
 }
 [sha:89026ecee21838aca0c4664c9691c2ecf9882dbd]{
 -- Page 77, Offset 8363.
 -- だって彼女は、昨日俺の手で、あんなにもバラバラに散らばった。砕け散った。いくつもの肉片に成り下がった。
-After all, she was torn to pieces by my hands yesterday. Shattered. She was reduced to just a pile of flesh.
+// This has the same prefix as 5844, but finishes the thought
+Because yesterday, with my own two hands, I tore that woman to pieces.
+ I pulverized her.
+ I reduced her to nothing more than scraps of flesh.
 }
-[sha:60cccb2e8d7c0190950d216c6e3514e91daeefea]{
+[offset:8364]{
 -- Page 77, Offset 8364.
 -- なのに。
-And yet.
+So then how―――
 }
 [sha:dda3dc698442a42e3acdd2f8bf77001441e52119]{
 -- Page 77, Offset 8365.
 -- なのにどうして、／殺したはずの女が／アレが、あの美しい姿のまま生きている―――？
-And yet, why is /the woman that should have been killed/, still alive and so beautiful?
+// This slash seems to be like... false ruby? Like an alternate topic with アレ?
+// Do we think it's worth rubying 'that'?
+How is the woman I %{i}know%{/i} I killed standing there, alive and beautiful?
 }
 [sha:5cf1d941aac2d68dae1c3bed1983f041592620cd]{
 -- Page 79, Offset 8366.
 -- 「…………そりゃ、あ」
-// While playing the game, there's a big section here where the game will switch to Arc route files, from 04_00_ARC04_3 page16 to page107.
-"...That, ah"
+// While playing the game, there's a big section here where the game will
+// switch to Arc route files, from 04_00_ARC04_3 page 116 to page 207.
+"Well... of course I―――"
 }
 [sha:cf5da8cdf5275981d4c391cd96398dd26e217da0]{
 -- Page 79, Offset 8367.
 -- その続きを口にする事は、少しだけためらいがあった。
-I slightly hesitate to say the rest.
+Halfway through my answer, I find myself hesitating.
 }
 [sha:62b40ae4cfe6f2d9a4f701ee247636301c880fa5]{
 -- Page 80, Offset 8368.
 -- いいのか、と。
-Is that really okay?
+Is this... really okay?
 }
 [sha:8b8a57f343aa279a06b32cce3941bab664401dd2]{
 -- Page 80, Offset 8369.
 -- 俺は自分の凶行を認めはしたが、自分の罪をはっきりと言葉にはしていない。
-I've admitted to my crime, but I haven't clearly said what my sin was.
+I may have accepted that I've committed a crime,
+ but I still have yet to clearly state my sin out loud.
 }
 [sha:e010f49394752de1939d24c2da2e3963f48f013a]{
 -- Page 80, Offset 8370.
 -- それを口にすれば今までの生活に戻れなくなると、心の奥底で感じ取っていたからだ。
-Because I sensed deep down that if I said it, I would no longer be able to return to my previous life.
+That's because, deep in my heart, I understand that the moment I do I'll no longer be able to return to the life I led before.
 }
-[sha:173e02ef50255ed683c81ceba6d1cd5d5f1b1fd8]{
+[offset:8371]{
 -- Page 80, Offset 8371.
 -- けれど―――
-But―――――
+Even so―――
 }
 [sha:bd2bbb5c2351cfa4af00d2c0fb8482c8b2e816e6]{
 -- Page 81, Offset 8372.
 -- 「そりゃあ、なに？」
-"Well?"
+"Of course you... what?"
 }
 [sha:6d7bc1e908b22191812bd5ad29fe50d3345d8f4c]{
 -- Page 81, Offset 8373.
@@ -162,17 +174,18 @@ But―――――
 [sha:ae1a13ab9be39931955387a149eea784a007656f]{
 -- Page 82, Offset 8374.
 -- 舌がヒリヒリと乾く。
-My tongue tingles from dryness.
+My tongue is dry and tingling.
 }
 [sha:a803fa3fcd5944f71a11001be97e7e10957964ec]{
 -- Page 82, Offset 8375.
 -- それを言うな、と喉が痺れる。
-As if forbidding me from saying it, my throat goes numb.
+My throat has gone numb,
+ as though forbidding me to utter those words.
 }
-[sha:3e93528ad44c4d766d75875534007e1ea22f9664]{
+[offset:8376]{
 -- Page 83, Offset 8376.
 -- ……けれど、避けては通れない。
-But... I can't run away.
+Even so... I can't run away.
 }
 [sha:4186abf79a534a1b13a14f5cede3b6d3c2c804e9]{
 -- Page 83, Offset 8377.
@@ -182,7 +195,7 @@ This is something I %{i}must not%{/i} run away from.
 [sha:a93145cb2a87eff6c50eae89b1156ea4c283eb60]{
 -- Page 83, Offset 8378.
 -- そういう風に、信じてくれた人がいたはずだ。
-Someone who believed in me taught me this once.
+Someone who believed in me taught me that.
 }
 [sha:43e97cbe882963cf3e01589e5c217d59c6cf68b1]{
 -- Page 84, Offset 8379.
@@ -209,7 +222,8 @@ If there's one thing I must never do, it's to look away from these.
 [sha:171e4f7056d4cb441aeae5a07a6ee5523111ffa7]{
 -- Page 85, Offset 8383.
 -- 「……そりゃあ後悔してる。
-"...Yeah, I regret it.
+// LintConsistency:6149
+"...Of course I regret it.
 }
 [sha:3bef91196de1089d28734c572a95d5b5943f41a3]{
 -- Page 85, Offset 8384.
@@ -224,7 +238,7 @@ I confess as though it's being wrung out of me.
 [sha:083d77fa19ff98a6ddbcabbaccc2b27082cea924]{
 -- Page 85, Offset 8386.
 -- 昨夜、先輩の部屋で認めたように。
-The same way I confessed yesterday in Senpai's room.
+Just as I confessed in Senpai's room last night.
 }
 [sha:9323631bd07e5241788e241615f9fa36eb605894]{
 -- Page 86, Offset 8387.
@@ -239,17 +253,17 @@ Mercilessly, for no reason at all.
 [sha:a0dd5ee2f4229c7bc0b7c16d223d6dab9b678cef]{
 -- Page 86, Offset 8389.
 -- ただ自分の為だけに、この女を殺めた事を。
-Simply for my own sake, I killed this woman. I admit it.
+I thoughtlessly killed this woman for my own ends.
 }
 [sha:5f7ddf2192a201537aebe162a6da6de9fe53f0a8]{
 -- Page 87, Offset 8390.
 -- 「……その事を、後悔も反省もできる。
-"...I can regret and reflect on that.
+"I can regret and reflect on that...
 }
 [sha:f04e6c921a27a4080d4779cd138bac5081d1be3a]{
 -- Page 87, Offset 8391.
 -- ……できるのなら、」
-...That is if you allow me."
+If you'll let me, that is."
 }
 [sha:0f97b98eac1754eab313090ee9becb825999a774]{
 -- Page 87, Offset 8392.
@@ -264,7 +278,7 @@ If I'm allowed to take such an easy way out.
 [sha:c1c561548992c1b144190525da14c1bccb387408]{
 -- Page 88, Offset 8394.
 -- ……でも、それは意味のない事だ。
-...But doing that would be meaningless.
+...But doing so would be meaningless.
 }
 [sha:d098d357c2a176a11df761f330ebad3448ab9c6f]{
 -- Page 88, Offset 8395.
