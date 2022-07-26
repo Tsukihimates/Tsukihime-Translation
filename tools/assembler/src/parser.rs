@@ -34,7 +34,7 @@ pub fn parse_patch_file(filename: &str) -> io::Result<Vec<IpsEntry>> {
     let mut offset: u32 = 0;
     let mut patch_bytes = Vec::<u8>::new();
 
-    for l in buf_reader.lines() {
+    for (i, l) in buf_reader.lines().enumerate() {
         let mut line = l?;
         // skip comments
         if line.starts_with(';') { continue; }
@@ -75,8 +75,9 @@ pub fn parse_patch_file(filename: &str) -> io::Result<Vec<IpsEntry>> {
                     line = parse_call_statement(&line, offset + patch_bytes.len() as u32, false);
                 }
 
-                let assembled = engine.asm(line, 0)
-                    .expect("Failed to assemble");
+                let assembled = engine.asm(line.clone(), 0).expect(
+                    &format!("Failed to assemble `{}' on line {}", line, i)
+                );
 
                 // patch bytes is aggregated until new set is reached
                 // and then its cleared.
