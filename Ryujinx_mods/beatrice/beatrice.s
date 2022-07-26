@@ -56,22 +56,21 @@ end
 
 ;; kerning patch
 0x13bde8
-;; is current car 'I'?
+;; is current char 'I'?
 cmp w26, #0x49
-b.ne #0x14
+b.ne #0x1c
 
 ;; load offset for next bytes
 ;; x0 is loaded into 2 instructions after patch
 ;; so can be safely used as scratch.
-adrp x0, #0x19af000
-add x0, x0, #0xda8
+adrp x0, #0x19f8000
+add x0, x0, #0x7c7
 
 ;; peek first byte of strign
 ldrb w13, [x0]
 
 ;; is peek'd char "'"
-;; TODO: why 0x29 and not 0x27?
-cmp w13, #0x29
+cmp w13, #0x27
 b.ne #0x08
 
 ;; apply kerning value
@@ -79,27 +78,26 @@ fmov s8, #5.0
 nop
 end
 
-;; install post trampoline for next_char_as_utf32
-0x13deb0
-b #0x62f8
+;; install trampoline for capturing next character
+0x146374
+;; jumps to 0x1441a8 (save link for tail-call)
+bl #-0x21CC
 end
 
 ;; save the relevant bytes from the string into memory
-;; x27 has a lingering reference to the string pointer.
+;; x0 has string pointer (immutable)
+;; w13 seems safe as scratch TODO: true?
+;; x1 immediately overwritten, save as scratch.
 0x1441a8
 ;; capture next character
-;; lingering reference in x27
-;; x27 can also sometimes be NULL or 0x1, so account for that
-cmp x27, #0x10000
-b.lt #0x08
-ldrb w13, [x27, #0x01]
+;; string pointer in x0
+ldrb w13, [x0, #0x01]
 
 ;; store captured character
-adrp x1, #0x19af000
-add x1, x1, #0xda8
+adrp x1, #0x19f8000
+add x1, x1, #0x7c7
 strb w13, [x1]
 
-;; restore sp (overridden instruction)
-add sp, sp, #0x20
-ret
+;; replace original call (no link)
+br x8
 end
