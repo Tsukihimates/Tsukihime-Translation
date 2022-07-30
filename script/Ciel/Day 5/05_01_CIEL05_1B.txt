@@ -41,7 +41,7 @@ I somehow manage to keep my cool.
 -- Page 63, Offset 11026.
 -- 「……まあいいか。たしかに頭のゆるそうな女だったしな。
 "Well, whatever...
- That girl really was thick as a brick.
+ That girl sure wasn't the sharpest tool in the shed.
 }
 [sha:eee1233bf22a561d2156df0481f411e269f582b1]{
 -- Page 63, Offset 11027.
@@ -103,12 +103,12 @@ The pair follow me inside, and one of them presses the B1 button.
  Can you not see where it says 'B1'?
  That's where you'll be spending the night.
  When you come back, you'll be a guest of honor.
- We'll roll the red carpet for you."
+ We'll roll out the red carpet for you."
 }
 [sha:5e99a9669d581949cf2e82fea04bcaeacb4bd55a]{
 -- Page 68, Offset 11038.
 -- 「そうそう、すごーくカンタンでちゅからねー！　時間をつぶせばいいだけ、なぁーんにも怖いコトはありませーん！」
-"Yep yep, it's suuuper simple!
+"Yep yep, it's %{i}suuuper%{/i} simple!
  All you gotta do is stick around for a bit,
  and there's nothing scary down there at all, no sir!"
 }
@@ -127,7 +127,7 @@ The descent is taking a surprisingly long time...
 -- Page 69, Offset 11041.
 -- 体感距離にすると地下四階分はあっただろうか。
 // Struggling to come up with a colloquial version of vestibular system / 'human IMU'
-Based on my gut estimate, we must be about four floors below ground by now.
+If my gut's anything to go on, we must be about four floors below ground by now.
 }
 [sha:109dc3910013e3c23696e9426b0b3391607f1217]{
 -- Page 70, Offset 11042.
@@ -210,7 +210,7 @@ I must have fallen around five meters.
 -- Page 74, Offset 11057.
 -- 水面から顔を出して見上げると、エレベーターは停止したままだった。
 Once I get my head above water,
- I look up to find that the elevator is still hanging there, motionless.
+ I look up and see that the elevator is still hanging there, motionless.
 }
 [sha:77213278e2aca2886c41da0952cea15aa8a91a21]{
 -- Page 74, Offset 11058.
@@ -231,7 +231,7 @@ Ignoring him for the moment,
 [sha:e818c4fcc586c25a96bd94368cb38a76931e96ae]{
 -- Page 75, Offset 11061.
 -- 水はどろりと濁っており、つかっている事自体が危険な気がする。
-The water is thick and sludgy,
+The water is thick and turbid,
  and I get the sense that just being in it is dangerous.
 }
 [sha:33d6a705751cb82a93697dbf5d4dd61b83261ad3]{
@@ -264,7 +264,7 @@ Damn...
 [sha:9f1d53f69e3eeb0522708f817b568995a7e3ceb2]{
 -- Page 77, Offset 11067.
 -- 読み取れるのはここがそれなりに広い空間である事、周囲にはいくつもの小道が延びている事、靴の感触から地面は石である事ぐらい。
-As best I can tell, I'm in a decently large room, with a bunch of passageways leading off in all directions.
+As best I can tell, I'm in a fairly large room, with a bunch of passageways leading off in all directions.
  Judging by how the ground feels under my shoes, I'd also wager that the floor down here is made of stone.
 }
 [sha:6e61fadd8fa51229682040685691af805125450c]{
@@ -275,7 +275,7 @@ And of course, there's the stench that assails my nostrils.
 [sha:a3e7966ad81a969231af9160b292687efe949aa5]{
 -- Page 78, Offset 11069.
 -- 肉の腐った臭い。水の腐った臭い。糞尿の臭い。淀みに淀みきった、下水場の空気そのものだ。
-The smell of rotten flesh.
+The odor of rotten flesh.
  The smell of foul water.
  The reek of feces and urine.
  Stagnant and moribund, the atmosphere down here is that of a sewer.
@@ -314,33 +314,34 @@ Shielding my eyes from the light, I take a look around, and there―――
 [sha:7e92179f3605f1c96c91739e518b2aa4cad7434e]{
 -- Page 79, Offset 11076.
 -- もはや死人としか思えない者たちが、この広場に集まりだしていた。
-Gathering in the open space is a group of people, no, those are already no more than corpses.
+Pouring into the room are the figures of people that look like they've already been reduced to corpses.
 }
 [sha:972ca745113ea1879cb94bd6eeee4806b4983794]{
 -- Page 80, Offset 11077.
 -- 血走った目。こそげ落ちた筋肉。ズタズタの服装。
-Their eyes are bloodshot. Their flesh cut and torn apart. Their clothes in tatters.
+Their eyes are bloodshot.
+ Their flesh is grazed and peeling.
+ Their clothes hang in tatters.
 }
 [sha:32bb5a810471666f5d04a2494b9ee7ed524affb8]{
 -- Page 80, Offset 11078.
 -- 口からもれる嗚咽とも悲鳴ともつかない音。
-Sounds are coming from their mouths. Were they sobs? Or shrieks? I can't tell.
+I can't tell whether the sounds issuing from their mouths are sobs or shrieks.
 }
 [sha:fceeda4eed0dc7ccc4f22756438d7864e91234b7]{
 -- Page 80, Offset 11079.
 -- 路地裏で見た死人とそっくりな人影たち。
-Their shadows are exactly like those of the Dead I saw in the back alley.
+Seen in silhouette, they look exactly like the Dead I saw in that back alley.
 }
 [sha:6099a5d19950a9525a7cd0daf69c42abccef8bd9]{
 -- Page 80, Offset 11080.
 -- でも、あれは―――
-But, they are―――
+However, these people―――
 }
 [sha:37f5c676d6c279275917e7f663ecc199a49b2f51]{
 -- Page 81, Offset 11081.
 -- 「……人、だ」
-// i totally read this as Hu Man and took a good 10 seconds to piece it together
-"Hu... man."
+"They're human..."
 }
 [sha:c550705ebe17303efcdc65002d448c5818a60d4f]{
 -- Page 81, Offset 11082.
@@ -350,27 +351,29 @@ My mind freezes.
 [sha:44a9eeae1d91d26d08f09948ad862a2f1f4c12ca]{
 -- Page 81, Offset 11083.
 -- 集まってきた彼等の後ろに、一息遅れてやってくるモノたちを見て、どちらが“生きている”のかを理解する。
-Behind the group of people, just a step behind, I see %{i}them%{/i} approaching. With that, I understand which group is truly 'alive'.
+// 生きている tweaked a bit to reflect on 11076 better
+When I look behind the group of people and see the %{i}things%{/i} that are hot on their tail,
+ it's immediately clear who the real corpses are.
 }
 [sha:8aaf723d8f1eae69c6235db18b1f186a00b330e1]{
 -- Page 82, Offset 11084.
 -- 「逃げ―――！」
-"Run a―――!"
+"Run awa―――!"
 }
 [sha:5681b8c15a0fd183d0276eb717430d74acd70d16]{
 -- Page 82, Offset 11085.
 -- 声をあげても間に合わない。
-I raise my voice, but it's too late.
+I call out to them, but it's already too late.
 }
 [sha:40fb1d8bed41bb33619cf9d42c2b501cb8af230c]{
 -- Page 82, Offset 11086.
 -- 俺と彼等はプールをはさんで対岸にいる。
-I'm standing on the opposite side of the pool; across from them.
+I'm standing on the opposite bank, with the entire pool between me and them.
 }
 [sha:e43c683899f8b244fbb9e113d4c32d4321521a62]{
 -- Page 82, Offset 11087.
 -- 俺には、この水を数秒で渡るだけの体力はない。
-Crossing over would take only a few seconds, but I don't even have the strength for that.
+I don't have the strength necessary to cross it in the few seconds they have left.
 }
 [sha:5e4c5b8de81d7ba2c758e80b6ccb9cb1286c5aec]{
 -- Page 83, Offset 11088.
@@ -380,47 +383,52 @@ Crossing over would take only a few seconds, but I don't even have the strength 
 [sha:b1e3f85496f1551b703a3ec001c217c8937401b8]{
 -- Page 83, Offset 11089.
 -- 炸裂する絶望の声。
-A booming voice crying out in desperation.
+An eruption of voices crying out in desperation.
 }
 [sha:d71c4144827bae1b3874eb9b156c17537c10ddac]{
 -- Page 84, Offset 11090.
 -- あれは、人間だ。
-They're... human.
+They're people.
 }
 [sha:794023235d71bfac3d6e66d0ef5cf576e0108095]{
 -- Page 84, Offset 11091.
 -- 俺と同じようにここに落とされ、何日も経った後の人間だ。
-Like me, they were dropped here. That's what remains of those people days later.
+They're people who were dropped down here, same as I was,
+ and have spent who knows how many days in this place.
 }
 [sha:96aa540f505ee669752846a130b3797471ce73b1]{
 -- Page 84, Offset 11092.
 -- 彼等はエレベーターの音と光を見つけて、助けを乞うようにここに集まった。
-They heard the sound of the elevator and saw the light, and  gathered here to beg for help.
+When they heard the sound of the elevator and saw the light,
+ they gathered here to beg for help.
 }
 [sha:11da248e5ad35a21bb6ac3f5f31cb2fcdbf489ee]{
 -- Page 84, Offset 11093.
 -- ……獲物が、一箇所に集まったのだ。
-...Meaning, the prey were gathered in a single place.
+Which means... all the prey are now gathered in one place.
 }
 [sha:ba93ecdd4740e657b3ee1bc7dc9c14a7613fcdeb]{
 -- Page 85, Offset 11094.
 -- 「うひょー、すげえー！　クソども生きてますかぁー！
-"Waaa, incredible~! Are you still alive, you poor bastaaards?
+"Daamn, would you look at that!
+ You still alive down there, you poor bastards?
 }
 [sha:808ff489de86b47154708419b31ee2b030184085]{
 -- Page 85, Offset 11095.
 -- 生きてますねー！　ギャハハ、すっげえなにあれサイコー！　頭悪すぎて笑いとまんないんですけどぉ！」
-They're still alive! Hahaha, wow, that's just great! This is so stupid, I can't stop laughing!"
+You are, aren't ya!
+ %{i}Hahaha%{/i}, wow, what's with that!
+ You're so fucking dumb, you crack me up!"
 }
 [sha:89ea65e12165e15d39e001acf38989bee2db1d20]{
 -- Page 86, Offset 11096.
 -- エレベーターからの笑い声が<木霊|こだま>する。
-The laughing voice echoes from the elevator.
+His laughter echoes from the elevator.
 }
-[sha:75426afd71f3db5e11f0e45e7e6f8e649c85f93f]{
+[offset:11097]{
 -- Page 87, Offset 11097.
 -- 「――――――、ハ」
-"――――――%{i}Ha%{/i}."
+"――――――%{i}Gh%{/i}."
 }
 [sha:e397b69c8447f0e7e48018c01817075d20e67a27]{
 -- Page 87, Offset 11098.
@@ -435,7 +443,7 @@ I feel nauseous.
 [sha:550ed786ec9a0e14688be1e2f4c0d1a8811fc85f]{
 -- Page 87, Offset 11100.
 -- 足音が近づいてくる。
-The footsteps are approaching.
+The footsteps continue to draw closer.
 }
 [sha:d05e9348c09d0af46dee2786da7ff54771419838]{
 -- Page 87, Offset 11101.
@@ -445,7 +453,7 @@ My instincts are screaming that if I stay here, I'll be attacked.
 [sha:e2b285cbfee3d653a6b1c137c03a94e995a45ce9]{
 -- Page 88, Offset 11102.
 -- 「ハッ―――はぁ、は―――！」
-"Haa―――haa, haa―――!"
+"%{i}Haa―――haa, haa―――%{/i}!"
 }
 [sha:f664f408a0ed24d4512b930d960e42aea72a59e6]{
 -- Page 88, Offset 11103.
@@ -460,5 +468,5 @@ Even though I know that the only way out is the elevator five meters above me, I
 [sha:45ff7e55122760ff485c36d26380226791b71803]{
 -- Page 89, Offset 11105.
 -- 俺は無我夢中で目の前の<通路|くらやみ>に飛びこんでいた。
-Fully focused, I jump into the darkness in front of me.
+Delirious with terror, I plunge into the pitch black passageway in front of me.
 }
