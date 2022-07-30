@@ -1,7 +1,8 @@
 [sha:4ad2c2be087064a22fd91720fafea5049f96e5f7]{
 -- Page 10003, Offset 11106.
 -- 「はっ……はぁ……はぁ……は……！」
-"Haa... haa... haa... ha...!"
+// lint-off:LintDupedWord
+"%{i}Haa... haa... haa... ha...%{/i}!"
 }
 [sha:f9e25124c4910fd48a9e574136d97a849433ac6d]{
 -- Page 10003, Offset 11107.
@@ -11,37 +12,40 @@ My heart screams, telling me I can't run any further.
 [sha:bb2b6d70424bcf10419da3d41dd54fcc308bd188]{
 -- Page 10003, Offset 11108.
 -- 千切れそうだった両脚が無様に膝をつく。
-My battered legs give way and I fall to my knees.
+My legs feel like they're about to fall off,
+ and I collapse to the floor in a heap.
 }
 [sha:76d8dec8eda4a9bc714a608b2df6cec770aa3818]{
 -- Page 91, Offset 11109.
 -- 「は……ぁ、あ、は―――」
-"Haa... aa, haa―――"
+"%{i}Haa... aa, haa―%{/i}――"
 }
 [sha:8fda1654804f55cc60151bf15e98686e7f02db8b]{
 -- Page 91, Offset 11110.
 -- 背中を隙間だらけの壁に預ける。
-I rest my back against a wall covered with cracks.
+I rest my back against a wall that's riddled with cracks.
 }
 [sha:adff5e97b8a64350c09391cb6ab8b2e2e26b8fd4]{
 -- Page 91, Offset 11111.
 -- 顎をあげて、熱くなった肺の空気を流出させる。
-I lift my chin and exhale the heated air from my lungs.
+Tilting my head back, I expel the hot air from my lungs.
 }
 [sha:5e793a2b398b97b769d2e69c6ee3842c6391ff17]{
 -- Page 91, Offset 11112.
 -- ……そこまでしてようやく、すべての混乱から解放された。
-...Finally, I'm free from all the chaos.
+With that, I'm finally released from the panic that had gripped me.
 }
 [sha:a1f649caa2c8fa3d294af08985b5410498391d8b]{
 -- Page 92, Offset 11113.
 -- 「ぁ……ああ、あ―――」
-"Aaa, ahh, ah―――"
+"%{i}Aaa, ahh, ah%{/i}―――"
 }
 [sha:5ba8cf57bf1491d97b2936e195079ce1d0767e07]{
 -- Page 92, Offset 11114.
 -- なんだ。なんだ、あれは。なんだここは。
-What? What? What was what, what is this place?
+I have so many questions.
+ What was that?
+ What is this place?
 }
 [sha:6c7a9e11d841e1fe6dde93f455a154fa52058c64]{
 -- Page 92, Offset 11115.
@@ -51,17 +55,18 @@ The atmosphere is wet and slimy. It smells like oil, flesh, and blood.
 [sha:63786c0625035e27bb68c497ee4778b484739f92]{
 -- Page 92, Offset 11116.
 -- 壁にはテラテラとこびりついた動物脂。
-The wall gleams from the animal fat that's stuck to it.
+A glistening layer of animal fat is smeared across the walls.
 }
 [sha:7159a3b9fb00d3b29725b3a76150edf216675378]{
 -- Page 92, Offset 11117.
 -- 道は緩やかに下へ下へと傾斜している。さながら、地獄の底に落ちていくように。
-The path slopes gently downward. It's as if one were falling to the depths of hell.
+The path slopes gently downward.
+ It's as if it's sinking into the depths of hell itself.
 }
 [sha:b26bbb020dadcda4cba7ea65158ee703848c74d1]{
 -- Page 93, Offset 11118.
 -- 「はあ―――ぁ、は―――」
-"Haa――― ha―――"
+"%{i}Haa――― ha―――%{/i}"
 }
 [sha:9e6942e6af749e228b6a734670d75fe7b7a9cfa0]{
 -- Page 93, Offset 11119.
@@ -71,7 +76,7 @@ I strain my eyes in the darkness.
 [sha:bc241b96ebdf9ace9703a27e5df1b95527e4bcf6]{
 -- Page 93, Offset 11120.
 -- 背中を預けていたのは壁ではなく、頑丈な鉄格子だった。
-My back isn't resting on a wall, but against sturdy iron bars.
+The thing I'm resting against isn't a wall at all, but a set of sturdy iron bars.
 }
 [sha:c6da31178d92f8f7974e9306dc639c6cd098b048]{
 -- Page 94, Offset 11121.
@@ -81,18 +86,20 @@ Iron bars. In other words, this is a prison.
 [sha:293b2cc841ab8eb42f25c89f18994b26a4da3c46]{
 -- Page 94, Offset 11122.
 -- この、今は誰もいない通路から、牢屋の中に視線を移せば、
-As I shift my view from the currently empty passage to the inside of the prison, I see...
+Turning away from the currently empty passageway to look inside the prison, I see―――
 }
 [sha:2edb4464f6df252137ad63746db79143484bcb58]{
 -- Page 95, Offset 11123. Mods: @c, @c.
 -- １メートルほどの芋虫が
 // It should be rendered in black
-        A one-meter long caterpillar
+            A one-meter long caterpillar.
 }
 [sha:1e470e46340ec208af8384e251cadf218162feaf]{
 -- Page 96, Offset 11124.
 -- 逃げ出せないように<触覚|てあし>をもぎとられた、以前は生き物だった何かの肉片が、転がっている。
-Its limbs were torn off to prevent it from escaping. The lump of flesh that was once a living being rolls over.
+Lying there is a lump of flesh,
+ something that used to be a living being,
+ it's limbs torn off to prevent it from escaping.
 }
 [sha:501463c177ab2997bfa1ad8b157cc417cfda4c47]{
 -- Page 97, Offset 11125.
@@ -102,7 +109,7 @@ Its limbs were torn off to prevent it from escaping. The lump of flesh that was 
 [sha:7d86789d5c60d023b4dd614a059ec703f45e6e7f]{
 -- Page 97, Offset 11126.
 -- 鈍器で頭を殴られたような吐き気。
-I feel nauseous, like I got struck in the head with a blunt object.
+A wave of nausea comes crashing down on my head like a ton of bricks.
 }
 [sha:cfb06405e119f932531262384d7bd1e309aa4274]{
 -- Page 97, Offset 11127.
@@ -113,7 +120,9 @@ A red-hot lump rises up my throat.
 [sha:9fb17418f59b46eb10009c7d4bc76001cc4d79cd]{
 -- Page 98, Offset 11128.
 -- それはまずい。匂いをだすのはまずい。あの死人たちが集まってくる気がする。
-This is bad. I can't give off any scent. I have a feeling the Dead will come after me if I do.
+This is bad.
+ I can't do anything that would leave a smell.
+ I have a feeling the Dead will come after me if I do.
 }
 [sha:b05a065b402d4b615668fa684d355e9b60262d6f]{
 -- Page 98, Offset 11129.
@@ -135,37 +144,39 @@ As long as I stay here, it won't be enough.
 [sha:73467e085cb92d0bd2a0fb14391cb0baae26995f]{
 -- Page 99, Offset 11132.
 -- ここにいてはいけない。
-I shouldn't remain here.
+I can't stay here.
 }
 [sha:fc42a86e69a8a94d6d53087ef1316dcf16bf8be4]{
 -- Page 99, Offset 11133.
 -- この地獄を見続けてはいけない。
-I shouldn't keep looking at this hell.
+I can't keep looking at this hell.
 }
 [sha:045b47b82ea3847583071fead3f203bc63f272ad]{
 -- Page 99, Offset 11134.
 -- 精神か。倫理か。あるいは基底か。
-Is it the mind? Is it the morals? Or is it the foundation?
+Is it my mind? My morals? Or something more fundamental?
 }
 [sha:84580453476015de8836f2bda09d0c3c8a84b9b2]{
 -- Page 99, Offset 11135.
 -- ともかく、遠野志貴を構成する何かが壊れる。
-In any case, the parts that make up Tohno Shiki are breaking apart.
+Whatever it is, some part of what makes up Tohno Shiki has broken.
 }
 [sha:9de2c6b0eada5b565335ea6f9c5751703a80a0b6]{
 -- Page 99, Offset 11136.
 -- だから早く、一刻も早く逃げ出さないと。
-So I have to get out of here as soon as possible.
+That's why I have to get out of here as fast as I can.
 }
 [sha:70d90fd3a59f12048de5c87a6407038a8fca1f23]{
 -- Page 99, Offset 11137.
 -- エレベーターに戻って、なんとかしてあの二人組にとりいって、地上に戻してもらわないと―――
-I need to get back to the elevator, and somehow apologize to those two so that they'll take me back up―――
+I need to get back to the elevator,
+ buddy up to those two guys somehow,
+ and get back to the surface or I'll―――
 }
 [sha:9f1a333f915a40bc4d10586f40577a2799e167d4]{
 -- Page 100, Offset 11138.
 -- 「は――――――、ァ」
-"Ha――――――a"
+"%{i}Ha――――――agh%{/i}"
 }
 [sha:6a332081ff56a386118ce54c7c2f76d3c5c27a3e]{
 -- Page 100, Offset 11139.
@@ -175,7 +186,7 @@ I slam my head against the iron bars in anger.
 [sha:61775d325b1cd96cf258c64d9765ad04db73b3c1]{
 -- Page 100, Offset 11140.
 -- 人として正常な判断を、過剰な痛みで封殺する。
-With that much pain, I force out those thoughts, thoughts that anyone would consider normal.
+Making use of the excessive pain, I force those thoughts――the thoughts any normal person would have――from my mind.
 }
 [sha:522fb9d1f050228e7ffcd3acc50ad3b99b066370]{
 -- Page 100, Offset 11141.
@@ -185,104 +196,114 @@ I want to throw up. I want to throw up. I want to throw up.
 [sha:0382c2136e1063e4b5305e99eecf9c3982155e6f]{
 -- Page 100, Offset 11142.
 -- つくづく、自分の馬鹿さ加減に反吐がでる。
-I really want to vomit at my own stupidity.
+I desperately want to vomit at my own stupidity.
 }
 [sha:0e09c1857bd9b80df7030bddd63e6c0739002505]{
 -- Page 101, Offset 11143.
 -- 「……笑わせる。何が、覚悟だ」
-"...What a joke. Resolve? What resolve?"
+"What a joke...
+ Resolve? What resolve?"
 }
 [sha:25af9b17d3f6863703c35d2cea6ec8e1db7a3844]{
 -- Page 101, Offset 11144.
 -- 今も背筋を震わせる悪寒を、自分への罵倒で抑えつける。
-Even now, I suppress the shivers that run through my spine through sheer self-disgust.
+I suppress the shivers that even now run down my spine through sheer self-disgust.
 }
 [sha:a82f988e54d49c924b4999a20bbafe727b9da70a]{
 -- Page 101, Offset 11145.
 -- ……本当に頭にくる。
-I'll really go mad.
+...I'm seriously about to lose it.
 }
 [sha:07fd0fec5841cf4baf2ea839fd5af5151028084c]{
 -- Page 101, Offset 11146.
 -- 俺は覚悟なんて一つもできていなかった。
-I didn't have the resolve to do anything.
+I didn't have the resolve to do even a single thing.
 }
 [sha:7ce52658dd59662852068b86121aeb0d6f4ae451]{
 -- Page 101, Offset 11147.
 -- 吸血鬼は見過ごせない。一つでも多くの命を助ける。
-I can't overlook that vampire. I'll save as many people as possible.
+// Can't find an exact backref for this
+'I can't let that vampire go unchecked'. 'I'll save as many people as I can'.
 }
 [sha:66c42568a9492b2c63c9c95bb074f0306073d5ad]{
 -- Page 101, Offset 11148.
 -- そう語っておきながら、現実を目の当たりにした途端、泣きながら逃げ出した。
-It's what I said before, but the moment I saw this reality in front of me, I ran away crying.
+I may have talked a big game, but the moment I was confronted by this reality, I ran away crying.
 }
 [sha:e36103476bc26a2de80a246c47b50b358af34a5d]{
 -- Page 102, Offset 11149.
 -- 「ああ―――ああ、ああ……！」
-"Aaaa―――aaa, aaa...!"
+"%{i}Aaaa―――aaa, aaa...%{/i}!"
 }
 [sha:fd94c58d1c7e51c504852df3e5689908dfb25f94]{
 -- Page 102, Offset 11150.
 -- 情けなくて、悔しくて鉄格子を殴りつける。
-I strike the iron bars in shame and in frustration.
+I strike the iron bars in shame and frustration.
 }
 [sha:8ee779fe3a21a4465d5e72392d9ac35547cb27fe]{
 -- Page 102, Offset 11151.
 -- ざまあない。見ろ、なんて醜い。これが俺の本性だ。俺にあったのは正義感なんかじゃない。ただの優越感だった。魔眼という武器を持っている自分への思い上がりを、『覚悟』だなんて言い換えて……！
 // I think putting "Mystic Eyes" as ruby above weapon is pretty nice.
-How pitiful. See, how ugly I am. That's my real self. I don't have any sense of justice. That's just a feeling of superiority. 'Resolve' I said, but that's just a reflection of the vanity I felt for possessing that <weapon|M y s t i c  E y e s  >.
+How disgraceful.
+ Just look at how pitiful I really I am.
+ This is my true nature.
+ I wasn't driven by a sense of justice at all.
+ It was nothing more than a superiority complex.
+ What I called 'resolve' was only my own arrogance, rooted in my possession of this <weapon|M y s t i c  E y e s  >.
 }
 [sha:a9d97841a0dde8e33125d995aafdd75f32811822]{
 -- Page 103, Offset 11152.
 -- 「……、……、……！」
-"..., ..., ...!"
+"%{i}Gh, ah, hhg%{/i}!"
 }
 [sha:9678307fcf56edbed894555b3bb450bf0b4ba6b3]{
 -- Page 103, Offset 11153.
 -- 音を立てればアレがやってくる。
-If I make a sound, they will come.
+They'll come for me if I make any noise.
 }
 [sha:6d9366fa6aefba4959c280b523cee056ec300a54]{
 -- Page 103, Offset 11154.
 -- それが分かっていながら鉄格子に感情を叩きつけた。
-Thought I understand that, I keep on hitting the iron bars.
+Even though I understand that, I keep on beating my emotions out against the iron bars.
 }
 [sha:7b8d11182178ec6e9759987c8956841d3a879b7f]{
 -- Page 103, Offset 11155.
 -- ……ホテルで燃え尽きた命。
-...The lives burnt to ashes at the hotel.
+The lives burnt to ashes at the hotel...
 }
 [sha:41b78ceb638dd899f465365221bf01dd61dfe55b]{
 -- Page 103, Offset 11156.
 -- ……ひとりだけ助かった自分。
-...Me, the sole survivor.
+I was the only one to make it out alive...
 }
 [sha:9d4221a0eab7cf19d37269c90234e95175f2ba2c]{
 -- Page 103, Offset 11157.
 -- ……そして、そもそもの元凶である自分。
-...And me, the one who caused all of this in the first place.
+And I... am the one who caused all this in the first place.
 }
 [sha:e2e04a23378580f217f7dadbefebc5158dd71c60]{
 -- Page 104, Offset 11158.
 -- そんな罪悪感から逃れる為に、俺は、俺の有用性を証明したかったにすぎない。
-I only wanted to prove my usefulness so that I could escape the guilt.
+All my actions amount to is me trying to prove I can do something,
+ trying to escape that feeling of guilt.
 }
 [sha:900596071a9fa645356fb45d46c48aae706bf549]{
 -- Page 104, Offset 11159.
 -- アルクェイドが止めるのも聞かず、ただ“殺せる”手段があるからと得意ぶった。
-// Not sure about 得意ぶった
-I didn't listen to Arcueid's attempts to stop me. Because I had a way to 'kill him', I thought I could beat him.
+// Reading ～ぶる as behaving as though, acting like
+I was acting like hot shit because I thought I had a way to 'kill' him,
+ and didn't even listen to Arcueid's warning that I should stop.
 }
 [sha:fc381578d533f87eb3d10aa37250e8bdd83c17c8]{
 -- Page 104, Offset 11160.
 -- 俺は役に立つ人間だと。
-That I could be useful.
+I just wanted to be useful.
 }
 [sha:199d1aad8d62e0c6c9b38b58fc8d00a83f2c02af]{
 -- Page 104, Offset 11161.
 -- 俺は役に立てる人間だからどうか許してくださいと、無意識に願っていただけの餓鬼だったんだ―――
-That I could be useful, so she would forgive me. That was the childish wish I unconsciously had.
+I wanted to prove to her that I'm useful, and for her to forgive me―――
+I was unconsciously clinging to such a childish desire.
 }
 [sha:25c65fcc8eb74ec6cac03600089904ababf2ee89]{
 -- Page 105, Offset 11162.
