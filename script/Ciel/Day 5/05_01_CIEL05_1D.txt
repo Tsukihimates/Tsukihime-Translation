@@ -1,48 +1,54 @@
 [sha:d98b8590de1a88b7ebc7460819266e5a7ce03525]{
 -- Page 10004, Offset 11284.
 -- ……息を殺して様子を見る。
-...I stifle my breathing and take a look around me.
+I hold my breath and take stock of the situation.
 }
 [sha:1fbb05e896077e1921cc1d3267ee77bdf46a676c]{
 -- Page 10004, Offset 11285.
 -- 追いかけてくる足音は途絶えていた。
-// It's the sound of their footsteps actually
-I no longer hear the pursuing footsteps.
+I can't hear any footsteps coming after us anymore.
 }
 [sha:6a833ebfbd59acf4fe7d5314735679f0a5be5f9c]{
 -- Page 148, Offset 11286.
 -- あの死者たちの動きは人間なみだが、終始素早い訳じゃない。基本的には緩慢だ。
-The movements of the Dead are human-like, but it's not like they're on alert the entire time. Basically, they're sluggish.
+Those Dead may move like humans, but they aren't able to keep it up for long.
+ They're fundamentally sluggish by nature.
 }
 [sha:d4318ca06b78287c19036ca463721f6a66a380dc]{
 -- Page 148, Offset 11287.
 -- やつらは獲物を知覚した時だけ活動的になる。その範囲もそう広くない。せいぜい10メートル程だろう。
-They only move actively when they perceive their prey. Their range is not that wide, maybe ten meters at most.
+They only spring into action when they can perceive their prey,
+ and it seems like they can only sense things that are fairly close by.
+ Probably only ten meters or so at most.
 }
 [sha:70198b77071dae624924dd814aac8b54f349d16f]{
 -- Page 149, Offset 11288.
 -- ……知覚する方法が視力によるものなのか、聴覚によるものなのか、あるいは別の何かなのかは、アレになってみなければ判らない話ではあるが。
-...Whether they perceive by sight, hearing, or something else, I wouldn't know unless I turned into one.
+I don't know whether they perceive things based on sight, hearing, or something else entirely,
+ but I don't have a way to find out short of turning into one of them.
 }
 [sha:404c2e14df558975fa5e75bb1e16c9fb2848b12a]{
 -- Page 150, Offset 11289.
 -- 「……ふう。もういいよ先生。ごめんな、乱暴だった。
-"...Haa. It's all good now, Sensei. I'm sorry, I was too rough.
+"Phew...
+ All clear, Sensei.
+ Sorry for being rough with you.
 }
 [sha:e3e72fe6469fc75db27b491b2495043fc5ebb07b]{
 -- Page 150, Offset 11290.
 -- とりあえず落ち着いて。あいつら、もういないみたいだから」
-It seems like they're gone, so let's calm down for now."
+It seems like they're gone, so let's take a second to calm down."
 }
 [sha:0ec06c7fc0acd6512de344f0650051602b0e75e0]{
 -- Page 151, Offset 11291.
 -- ノエル先生から手を放して周囲の様子を<窺|うかが>う。
-I let go of Noel-sensei's hand and covertly examine my surroundings.
+I let go of Noel-sensei's hand and covertly examine our surroundings.
 }
 [sha:ca050028fddde94551d43ca372dfb0bfd5a5ed38]{
 -- Page 151, Offset 11292.
 -- こっちだって物陰で縮こまっていたかったが、今は平静を装って先生を安心させてあげたかった。
-I actually want to go and curl myself up somewhere safe, but I have to keep my composure if I want to reassure her.
+I'd wanted to run away and curl up somewhere safe,
+ but now I feel like I should keep my composure and try to reassure her as best I can.
 }
 [sha:a980aa5f58f9199943c60bcf385e0b1982dd3833]{
 -- Page 152, Offset 11293.
@@ -52,32 +58,47 @@ I actually want to go and curl myself up somewhere safe, but I have to keep my c
 [sha:c56589db8830109d259b250da6b80376b586ae68]{
 -- Page 152, Offset 11294.
 -- 「……とりあえずは、です。<こ|・><こ|・>にいるかぎり、安全はないと思います。俺も落とされたばっかりで訳が分からないけど……って、そうだ。先生はどうして、」
-"...More or less. As long as we're %{i}here%{/i}, I don't think we're truly safe. I just fell into this place too, so I don't understand what's happening... right, Sensei, why are you-"
+"Well... more or less.
+ I don't think we can be truly safe so long as we're in %{i}this%{/i} place.
+ I only just got dropped down here myself so I'm not really sure what's going on yet, but...
+ Oh, right, Sensei, what are you doing he―――"
 }
 [sha:f713f23804d34380bd14a3729560eedd5a99c7b0]{
 -- Page 153, Offset 11295.
 -- こんな場所にいるのか、と訊くより早く、壁に押しつけられていた。
-In such a place... I couldn't even finish my question before I was pinned to the wall.
+Before I can even finish my question, she pins me up against the wall.
 }
 [sha:9fc8335cc88883c9a5a7f61ab1d9c5392e2a4e20]{
 -- Page 154, Offset 11296.
 -- 「いやよ、どうして安全じゃないの!?　安全にしてよ！　わたしは生徒指導に来ただけ！　女の子限定のあやしいアルバイトなんて聞いたらほっとけないでしょう!?　残業なんてガラじゃなかったけど、たまたま、たまたま目の前でうちの子が連れていかれちゃったら放っておけないじゃない……！」
-"Noo, why isn't it safe?! Make it safe! I only came here for some student guidance! When I heard about a suspicious part-time job exclusively for girls, I had to get involved, right?! It's not in character for me to work overtime, but if by chance, just by chance, I saw a girl I was responsible for get taken away in front of me, I couldn't leave them be...!"
+// ガラ = 柄?
+"What do you mean? Why isn't it safe?! Make it safe!
+ I just came here to do my job as a student counselor!
+ What was I supposed to do when I heard about some suspicious part-time job exclusively for girls?!
+ I'm not the type to work overtime, but what if―――what if one of the girls I was responsible for got taken away under my nose,
+ how could you expect me to just ignore something like that...!?"
 }
 [sha:9dbc34ef3a4e0a87be97deed915352ddcc8e8624]{
 -- Page 155, Offset 11297.
 -- 「ちょっ、先生……！　落ち着いて、静かに、静かに！」
-"Wai... Sensei...! Calm down, not so loud, not so loud!"
+"Wai――― Sensei...! Calm down, not so loud, not so loud!"
 }
 [sha:de4d39140e046ca0a38917d359478314ae4bfaf9]{
 -- Page 156, Offset 11298.
 -- 「ねえどうして!?　おかしすぎる、意味わかんない！　どうしてデパートの地下にこんなところがあるの!?　どうして死体が動いているの!?　どうしてこんなものが今まで発見されなかったの!?　それに、それに、それに―――」
-"Hey why?! This is too ridiculous, nothing makes sense! Why is there a place like this below the department store?! Why are dead bodies moving?! Why hasn't anyone discovered this yet?! And, and, and―――"
+"Hey, why?!
+ This is too ridiculous, nothing makes any sense!
+ Why is there a place like this under the department store?!
+ Why are there dead bodies moving around?!
+ Why hasn't anyone discovered this yet?!
+ And, and, and―――"
 }
 [sha:f1a054322497e5ce1b1421451954e27f286dd613]{
 -- Page 157, Offset 11299.
 -- 「おかしい、おかしい、おかしい！
-"That's strange, that's strange, that's strange!
+"It doesn't make any sense,
+ it doesn't make any sense,
+ it doesn't make any sense!
 }
 [sha:ec0c07cfcdd7ab59d60b66ccdc426014a1085a36]{
 -- Page 157, Offset 11300.
@@ -87,13 +108,15 @@ Why are %{i}you%{/i} so calm...?!"
 [sha:6b9da94e458916dc624de1a2880338c64546d65c]{
 -- Page 158, Offset 11301.
 -- がん、と胸元を<拳骨|げんこつ>の底で叩かれる。
-// If anyone has a better idea of what 拳骨の底 is... lmao.... idfk
-Thud. She hits me on the chest with the base of her fist.
+// Reading 拳骨の底 as just distinguishing the 'flat' of the fist (effete, pleading)
+// from her socking him right in the gut. Elided since I think it's clear in EN.
+She beats her clenched fist against my chest with a thud.
 }
 [sha:24c60793a788d34277af056e1d443b17b66e8ed3]{
 -- Page 158, Offset 11302.
 -- ノエル先生は半狂乱になりながら、涙目で、そんな言葉を口にした。
-She says, half-crazed and with tears in her eyes.
+There are tears in Noel-sensei's eyes as she spoke those words,
+ and she seems like she's already half-mad.
 }
 [sha:20fb5f0b6e34a435fc55ce48a6dcaa3d5c0cae7f]{
 -- Page 159, Offset 11303.
@@ -103,17 +126,18 @@ She says, half-crazed and with tears in her eyes.
 [sha:b5843ebb6c8f5c0acc2668c32a0f83009d76f9eb]{
 -- Page 159, Offset 11304.
 -- 俺は初めから、吸血鬼の根城と知ってやってきたんだ、し、
-After all, I knew from the start that I would be going into a vampire's nest.
+That's because I knew going in that I was heading into a vampire's nest.
 }
 [sha:ed3158ade395ab361f8555f1e1b5f96e246c156a]{
 -- Page 160, Offset 11305.
 -- 「ねぇ、怖くないの!?　いっぱい、いっぱい死体の山！
-"Hey, aren't you afraid!? There's so many, a whole mountain of corpses!
+"Hey, aren't you afraid!?
+ There's mountains and mountains of corpses down here!
 }
 [sha:10135cdffbf934ceb25f446db6a0d546468680e8]{
 -- Page 160, Offset 11306.
 -- まっとうな人間なら正気でいられない！　慣れるコトなんて、できるハズがないじゃない……！」
-A %{i}normal%{/i} human would go insane! There's no way you could be used to seeing things like %{i}that%{/i}...!"
+Any %{i}normal%{/i} human would go insane! There's no way you could be used to seeing things like %{i}that%{/i}...!"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 161, Offset 11307.
@@ -123,37 +147,40 @@ A %{i}normal%{/i} human would go insane! There's no way you could be used to see
 [sha:dec1835ff5e14c27953e6be1d57fd7e8151acb0f]{
 -- Page 161, Offset 11308.
 -- 息が詰まる。
-I have trouble breathing.
+My breath catches in my throat.
 }
 [sha:f0ae687acf1a3f7af8909ce50cd4f8289cd5971a]{
 -- Page 161, Offset 11309.
 -- <女|ノエル>の泣き声は、<感情的|ヒステリック>でありながら、的確に俺の矛盾を指摘していた。
-Noel-sensei's crying voice, hysterical as it sounds, rightly points out the contradiction.
+Noel-sensei may be screaming hysterically,
+ but she's still incisively called out my abnormal behavior.
 }
 [sha:08c04cc9bc248389e164da91cbbcabc58dc1beac]{
 -- Page 162, Offset 11310.
 -- あり得ない空間。
-An impossible space.
+This is an unimaginable space.
 }
 [sha:695fe34d82a2bca1f4bc25c239843b03dca5ecac]{
 -- Page 162, Offset 11311.
 -- 蟻の巣のように張り巡らされた地下墓地。動く死体たち。
-An underground graveyard stretching out like an ant nest. Walking dead bodies.
+A sprawling underground graveyard that resembles some kind of ant nest.
+ Walking corpses.
 }
 [sha:e7ecfc86ec84d048d4dcb240896e9d4be95d58ac]{
 -- Page 162, Offset 11312.
 -- 生きながら食われた生存者。
-Survivors eaten alive.
+Survivors being eaten alive.
 }
 [sha:ed660e061f9709e9ab4f6b8ed3c47967cd98997b]{
 -- Page 162, Offset 11313.
 -- 牢屋の中には積み重なった死体の壁。
-A wall of corpses piled up inside the prison.
+Walls of corpses piled high inside the jail cells.
 }
 [sha:c3a75437c6aaf9a60e3cb20e6c53fb072c253315]{
 -- Page 163, Offset 11314.
 -- 見ろ。これが地獄だ。
-Look. This is hell.
+Take a look around.
+ This is hell.
 }
 [sha:e82e11b67957676708d76599a0335e02e0f33698]{
 -- Page 163, Offset 11315.
