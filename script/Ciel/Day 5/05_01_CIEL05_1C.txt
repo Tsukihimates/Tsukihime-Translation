@@ -99,7 +99,7 @@ Turning away from the currently empty passageway to look inside the prison, I se
 -- 逃げ出せないように<触覚|てあし>をもぎとられた、以前は生き物だった何かの肉片が、転がっている。
 Lying there is a lump of flesh,
  something that used to be a living being,
- it's limbs torn off to prevent it from escaping.
+ its limbs torn off to prevent it from escaping.
 }
 [sha:501463c177ab2997bfa1ad8b157cc417cfda4c47]{
 -- Page 97, Offset 11125.
@@ -109,7 +109,7 @@ Lying there is a lump of flesh,
 [sha:7d86789d5c60d023b4dd614a059ec703f45e6e7f]{
 -- Page 97, Offset 11126.
 -- 鈍器で頭を殴られたような吐き気。
-A wave of nausea comes crashing down on my head like a ton of bricks.
+A wave of nausea hits me like a ton of bricks.
 }
 [sha:cfb06405e119f932531262384d7bd1e309aa4274]{
 -- Page 97, Offset 11127.
@@ -249,12 +249,12 @@ How disgraceful.
  This is my true nature.
  I wasn't driven by a sense of justice at all.
  It was nothing more than a superiority complex.
- What I called 'resolve' was only my own arrogance, rooted in my possession of this <weapon|M y s t i c  E y e s  >.
+ What I called 'resolve' was only my own arrogance at being possession of this <weapon|M y s t i c  E y e s  >.
 }
 [sha:a9d97841a0dde8e33125d995aafdd75f32811822]{
 -- Page 103, Offset 11152.
 -- 「……、……、……！」
-"%{i}Gh, ah, hhg%{/i}!"
+"%{i}Gh, ah, ahh%{/i}!"
 }
 [sha:9678307fcf56edbed894555b3bb450bf0b4ba6b3]{
 -- Page 103, Offset 11153.
@@ -348,7 +348,7 @@ Now that I'm done beating myself up over it,
 [sha:cfc017c954d1b38c9948a5ba577fbfef11b2947e]{
 -- Page 108, Offset 11169.
 -- 「……そうだ。逃げ道はない。俺には、もう」
-"That's right... There's no running away now.
+"That's right... There's no running away.
  There's only one thing I can do now―――"
 }
 [sha:012a8537aadf49a528433b155087afa14eb2e94a]{
@@ -436,7 +436,7 @@ It's not something I really want to dwell on, but...
 [sha:127f6fbe9585bc500bcd92438c0175a393dd3a59]{
 -- Page 114, Offset 11185.
 -- 通路は延々と続いている。
-The passage seems to go on forever.
+The passage feels like it goes on forever.
 }
 [sha:950aaceb88af59d8554426cdb32857907ac1a47e]{
 -- Page 114, Offset 11186.
@@ -560,7 +560,7 @@ I put all of my strength into my petrified feet, and―――
 [sha:d78d1b822003d7e9ee00c4f4354c8668769cce39]{
 -- Page 121, Offset 11209.
 -- 決意と反応。どちらが先だったかは分からない。
-Was it a conscious decision, or instinct? I'm not sure which came first.
+Was it a conscious decision, or instinct? I'm not sure which acted quicker.
 }
 [sha:3e6d8bb98929f338fe74c4690c0ca93c5c8398e8]{
 -- Page 121, Offset 11210.
@@ -570,7 +570,7 @@ Only that my intuition won out over my fear.
 [sha:3b69e936e4e94ef7ae390a53acd93deee973b7ef]{
 -- Page 121, Offset 11211.
 -- 通路の奥から聞こえたのは女の<悲|こ><鳴|え>だ。
-That was a woman's scream coming from the end of the pathway.
+That was a woman's scream coming from the end of the passage.
 }
 [sha:f8d5fc2d07d60d3807dc760380ef489165932256]{
 -- Page 122, Offset 11212.
@@ -686,7 +686,7 @@ I don't have a way to save her other than to kill them.
 [sha:017b7b0f9b18a0be2c19496e053ba3115a3d4ec5]{
 -- Page 129, Offset 11234.
 -- 「っ……！！！！」
-"...!!!!"
+"%{i}Hiyah%{/i}...!!!!"
 }
 [sha:b52ef50fcfc1cceed683022b6fd9fa84d140dcc8]{
 -- Page 129, Offset 11235.
@@ -774,7 +774,7 @@ The Dead reaches out its remaining arm, as if to chase after its fleeing prey.
 [sha:3049bcfed60ddc06f5d8cd1193d13e070b37ea96]{
 -- Page 135, Offset 11251.
 -- その<爛|ただ>れた腕の線にナイフを通す。
-I slide my knife through the lines running down that festering arm.
+I slide my knife through the lines running down that festering limb.
 }
 [sha:5dcee8143b4d71278f0c9ff3b714fe450d9da44b]{
 -- Page 136, Offset 11252.
@@ -800,7 +800,7 @@ Clutching Noel-sensei's hand, I dive into the passageway that's right beside us.
 [sha:ba88024473f4c7ac6505a082cf5d26e1fb4df62e]{
 -- Page 137, Offset 11256.
 -- 「ひぃ……追いかけてくる、追いかけてくるぅ……！」
-"Eek... They're chasing us, they're chasing us...!"
+"%{i}Eek%{/i}... They're chasing us, they're chasing us...!"
 }
 [sha:6e750aa26c70da9cd402a4375dd3d88fd18e64bd]{
 -- Page 137, Offset 11257.
@@ -892,7 +892,7 @@ I'll buy you some later, so bear with it for now!"
 -- ノエル先生の横に並んで、左手で抱き寄せつつ、その口に指をつっこむ。口を塞いでしまうと息ができないので、あくまで喋らないようにする処置だ。
 // Methinks the Shiki doth protest too much
 Standing level with Noel-sensei,
- I wrap my left arm around her and pull her close to me before shoving a finger of my other hand into her mouth.
+ I wrap my left arm around her and pull her close to me before shoving one of the fingers on my other hand into her mouth.
  This is purely to stop her from yelling――if I'd covered her whole mouth with my hand she wouldn't have been able to breathe.
 }
 [sha:b11660020be53fe4d79ea1252aa6809a80ee3770]{
