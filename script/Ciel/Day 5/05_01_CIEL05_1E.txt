@@ -6,7 +6,10 @@ It's a scene my eyes can scarcely believe.
 [sha:d6fb978de9d4af65d3b9e2a509549cab4abd5825]{
 -- Page 199, Offset 11396.
 -- 高さ40メートルに及ぶドーム状の空洞。
-A dome-shaped cavity 40 meters high.
+// 'Dome' isn't really the word we'd use here based on the geometry.
+// This is a vaulted crypt if ever I saw one.
+// Have avoided specifically mentioning _crypt_ as it's much more anchoring though.
+A vaulted cavity some 40 meters high.
 }
 [sha:09335462e4bef478821f0cdd694d2f4f0678b603]{
 -- Page 199, Offset 11397.
@@ -28,12 +31,13 @@ Grey sunlight leaks in through a window-like hole in the center of the ceiling.
 [sha:b7ff5d0c148d525fe27f07f79e5b982d23cee301]{
 -- Page 200, Offset 11400.
 -- そして、陽光が降りそそぐ真下には一つの寝台があった。
+// Translating 寝台 as altar throughout this file to keep in line with sacrifice imagery
 And there, directly under the path of the falling sunlight, is a solitary altar.
 }
 [sha:52c8fe83f41da1e898ac7cdd494e092171f09bb3]{
 -- Page 200, Offset 11401.
 -- 石で出来た寝台には少女が倒れている。
-There's a girl lying on the stone altar.
+There's a girl lying on that stone slab.
 }
 [sha:c21e6c8e3a9b1ee060497398915c106fe38c3e1b]{
 -- Page 201, Offset 11402.
@@ -44,7 +48,7 @@ She's surrounded by a countless number of dead.
 -- Page 201, Offset 11403.
 -- ドームに集まっている死者はざっと数えても30体。
 // "countless" "roughly thirty" wtf nasu
-There must be at least thirty or so of them gathered in the dome.
+There must be at least thirty or so of them gathered in this vaulted room.
 }
 [sha:4c7c24995f21759b7df95f0a37c166f98b88e03b]{
 -- Page 201, Offset 11404.
@@ -54,7 +58,7 @@ They're all loitering around the altar, as though forming a ring around it.
 [sha:cfd2a3ee9792728f16fdad191de96cdda9497d46]{
 -- Page 202, Offset 11405.
 -- ……寝台に近づかないところを見ると、死者にとってあの寝台は特別な意味があるようだ。
-Since none of them are actually approaching the altar,
+Since none of them are actually approaching it,
  I'm guessing that it has some sort of significance to them.
 }
 [sha:054e2262de13ebd205ae2f71ed8d9beb65a9eb0d]{
@@ -72,19 +76,19 @@ Since none of them are actually approaching the altar,
 -- Page 204, Offset 11408.
 -- ドーム内には踏み入らず、通路に身を隠しながら中の様子を窺う。
 The two of us stay hidden in the corridor,
- taking in the situation inside the dome without actually stepping out into it.
+ taking in the situation inside the room without actually stepping out into it.
 }
 [sha:9066e17bc11882652014dc07208159da265de09a]{
 -- Page 204, Offset 11409.
 -- 死者たちは寝台に意識を向けていて、やってきた俺たちに気づきもしない。
 Since the Dead all have their attention focused on the altar,
- they didn't notice our arrival.
+ they haven't noticed our arrival.
 }
 [sha:44d92eee7a5d0eb4ce142b03c3585896a30435ff]{
 -- Page 204, Offset 11410.
 -- それだけが唯一の幸運だが、この状況は想定していなかった。
 That fact may represent a rare stroke of luck for us,
- but this situation is something I didn't expect at all.
+ but this situation is something I didn't see coming at all.
 }
 [sha:a8ffd0629dfd1b01ca3741176c71bccd8592d39e]{
 -- Page 205, Offset 11411.
@@ -179,7 +183,7 @@ There's a weapon in my hand.
 [sha:6e19909c15fe242e7aa6ab9eabea7f69dcd032f7]{
 -- Page 210, Offset 11427.
 -- 自分にできる範囲。それは逃げる事だけなのか。
-The limits of what I can accomplish.
+The limits of what I can accomplish...
  Is running away really all I can do?
 }
 [sha:3fa5b73d45a0310ca6c65048ab396e48ae7a2449]{
@@ -195,7 +199,7 @@ But that's not the same as being %{i}absolutely%{/i} impossible.
 [sha:749f7b69eee767baa0eddd8ef105b27ae5d55538]{
 -- Page 211, Offset 11430.
 -- どれほど僅かなものでも、まだ“助けられる”という可能性が残っている。
-There's still a possibility, no matter how slight, that she can be saved.
+There's still a chance, no matter how slight, that she can be saved.
 }
 [sha:47e0cb35f6540f5d743bfa9ad1897c87237b6065]{
 -- Page 212, Offset 11431.
@@ -217,7 +221,7 @@ There's still a possibility, no matter how slight, that she can be saved.
 [sha:34986f86b703775e11651591d8559c8616c34d58]{
 -- Page 214, Offset 11434.
 -- 迷いを殺しながらドームの中心を見据える。
-Fighting back my hesitation, I stare at the altar in the center of the dome.
+Fighting back my hesitation, I stare at the altar in the center of the vaulted room.
 }
 [sha:5b3583db84e097091b282ea2b6d2dc6d3ec9c443]{
 -- Page 214, Offset 11435.
@@ -387,7 +391,7 @@ I don't have the time to turn around.
 -- Page 226, Offset 11466.
 -- 寝台に眠らされた、見知らぬ女生徒を抱き起こす。
 // I think he's just lifting her _upright_ here rather than carrying her, based on the next line
-I prop up the body of the unfamiliar schoolgirl who has been laid to sleep on the altar.
+I prop up the body of the unfamiliar schoolgirl who has been lain to sleep on the altar.
 }
 [sha:442294158e2af81c47df260ee3ed8d6bd9b08176]{
 -- Page 226, Offset 11467.
@@ -489,7 +493,7 @@ In order to do that, I'll have to go on the offensive against these zombi――�
 [sha:394fd80f772a2d3b3869d68582047895599d3266]{
 -- Page 235, Offset 11486.
 -- 「もうっ、予定とは違う展開だけど仕方ないわねっ！
-"Sigh, this plan has gone completely off the rails, but whatever!
+"Geez, this plan has gone completely off the rails, but whatever!
 }
 [sha:bb41ea38521d62b0b4ce0ca19ce4c59f51818bb0]{
 -- Page 235, Offset 11487.
@@ -733,7 +737,7 @@ I let go of her hand.
 [sha:95564dbb085a99d5bcde1a44572855dd846869e0]{
 -- Page 255, Offset 11531.
 -- 今は下手に逃げるより<寝|こ><台|こ>に留まって、ノエル先生が死者たちを全滅させるのを待つべきだと判断する。
-I've decided it's probably a better idea to wait here and let Noel-sensei exterminate the Dead instead of trying to make a break for it.
+I've decided it's probably a better idea to wait here and let Noel-sensei exterminate the Dead than to try and make a break for it.
 }
 [sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
 -- Page 256, Offset 11532.
@@ -753,7 +757,7 @@ It's cold...
 [sha:927d94f543d22249501b117f09b77d7db3d46125]{
 -- Page 257, Offset 11535.
 -- 気のせいではなく、明らかに気温が下がっている。
-It's not just my imagination, the temperature down here has clearly dropped.
+It's not just my imagination either, the temperature down here has clearly dropped.
 }
 [sha:ad7ebdd084b25c26ca0d5edf7c1343d6e57901f2]{
 -- Page 257, Offset 11536.
