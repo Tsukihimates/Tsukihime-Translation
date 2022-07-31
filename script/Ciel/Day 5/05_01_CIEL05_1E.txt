@@ -286,7 +286,7 @@ I take off my glasses.
 [sha:39ee362c4b45491344798e8ac09a57b3503dc0b4]{
 -- Page 218, Offset 11447.
 -- 群がる死者の“死”を直視する。
-I look directly at the 'death' of the gathered Corpses.
+I look directly at the 'death' of the gathered corpses.
 }
 [sha:4dda3061774d26b1ea48296020daa926858f1545]{
 -- Page 219, Offset 11448.
@@ -323,17 +323,18 @@ I react instantaneously.
 [sha:0961653b717f37d50a0b9fa347eb8e46bf707066]{
 -- Page 221, Offset 11454.
 -- 俺は鳴り響く騒音と共に駆け出ていた。
-As soon as the sound started to reverberate, I break into a run.
+As the sound starts to reverberate through the room, I break into a run.
 }
 [sha:d5ba27db4f913e0061d0eeaab261a7827f38d4e4]{
 -- Page 222, Offset 11455.
 -- <死者|ゾンビ>どもが音の方向……俺たちのいる入り口に振り向くより早く、まず、障害になるモノを排除する。
-Before the zombies turn to the direction of the sound... to the entrance where we both are, quick, eliminate the obstacles.
+Before the zombies turn toward the source of the sound―――
+toward the entryway we're standing in front of, I'm going to eliminate the obstacles that stand in my way.
 }
 [sha:7c90b12dd54bd62571d2f52ef3f26a6f65b11ce3]{
 -- Page 222, Offset 11456.
 -- 排除しなくてはならない。
-I must eliminate them.
+I %{i}have%{/i} to eliminate them.
 }
 [sha:ab7e84b52c45a7f1ba773754f1a882253ff0e8c2]{
 -- Page 222, Offset 11457.
@@ -343,12 +344,12 @@ I don't have the luxury of moving safely from pillar to pillar anymore.
 [sha:0678a0788327f38713bfcd164b1b416874cae6d9]{
 -- Page 222, Offset 11458.
 -- 気付かれた以上、このまま一直線に、最短距離で寝台まで辿り着く―――！
-Since I've been noticed, I'll take the shortest route, a straight line, to the platform―――!
+Now that I've been noticed, I'm going to take the shortest route to the altar―――a straight line!
 }
 [sha:8cceab8eb1bd4a46fa629b3a770c72e50b1f5fdc]{
 -- Page 223, Offset 11459.
 -- 「っ、はぁ……！」
-"Haaa...!"
+"%{i}Haah, haah%{/i}...!"
 }
 [sha:0e431ec90150796947ca9d36e994cc9bcfe1c0e8]{
 -- Page 224, Offset 11460.
@@ -358,12 +359,13 @@ I take an extremely deep breath.
 [sha:82ff2bcef7f2b38dcf8549efc5eb6a2855f2fae7]{
 -- Page 224, Offset 11461.
 -- 全力で走りきった体を寝台に預ける。
-Having run as fast as I could, I rest my body against the platform.
+Having run as fast as I could, I rest my body against the altar.
 }
 [sha:0fc038acffed903f2775f47d3b2ec14631f47c97]{
 -- Page 224, Offset 11462.
 -- 自分の意思による明確な殺害行為。その嘔吐感をかみ砕く。
-It was a clear act of murder, done of my own volition. I hold back the urge to vomit.
+What I just did was a clear and premeditated act of murder.
+ I hold back the urge to vomit.
 }
 [sha:1fd0606fd76946b6f245aec2a0b7406cb4ab22eb]{
 -- Page 225, Offset 11463.
@@ -373,7 +375,8 @@ In a backhand grip, I hold the knife that sliced through their lines―――thr
 [sha:59fece67ad9fa0637d8af56b96da84babae8367b]{
 -- Page 225, Offset 11464.
 -- 背後には、いまさら侵入者を感知した死の群れの声が聞こえている。
-Behind me, I can hear voices coming from the group of Dead, who have finally noticed the intruders.
+The Dead gathered around have finally noticed our intrusion,
+ and I can hear their voices calling out behind me.
 }
 [sha:05ae8ffc1f54d22d3e39970251ed9eefa2854aac]{
 -- Page 226, Offset 11465.
@@ -383,12 +386,14 @@ I don't have the time to turn around.
 [sha:0ba71c7019d89892253a1c8413959f9b729bdaa9]{
 -- Page 226, Offset 11466.
 -- 寝台に眠らされた、見知らぬ女生徒を抱き起こす。
-I lift the unfamiliar school girl who was laid to sleep on the platform in my arms.
+// I think he's just lifting her _upright_ here rather than carrying her, based on the next line
+I prop up the body of the unfamiliar schoolgirl who has been laid to sleep on the altar.
 }
 [sha:442294158e2af81c47df260ee3ed8d6bd9b08176]{
 -- Page 226, Offset 11467.
 -- 乱暴だが叩いてでも目を覚ましてもらわないと、さすがにここから逃げられ―――
-It may be barbaric, but if she doesn't wake up even if I smack her, we'll never be able to escape from he―――
+What I'm about to do may be a little barbaric,
+ but if I don't giver her a slap and wake her up there's no way we'll be able to escape from―――
 }
 [sha:4f236c07d6dfff3e670a75261bfcd9db483303ab]{
 -- Page 227, Offset 11468.
@@ -398,17 +403,17 @@ It may be barbaric, but if she doesn't wake up even if I smack her, we'll never 
 [offset:11469]{
 -- Page 227, Offset 11469.
 -- 「はい？」
-"huh?"
+"You are?!"
 }
 [sha:1c3e5169d7db7a651e30cbf2a670b222dd1f2a1b]{
 -- Page 228, Offset 11470.
 -- 思わず、そんな声をあげてしまった。
-I unintentionally let out such an exclamation.
+I unconsciously let out a startled yelp.
 }
 [sha:53b047434f589db56f092af1411ce6d17bb45fd0]{
 -- Page 228, Offset 11471.
 -- 見覚えのないその女生徒は、俺が来る前から目を覚ましていたからだ。
-Because that unfamiliar schoolgirl woke up before I arrived.
+This unfamiliar schoolgirl was already awake before I got here.
 }
 [sha:9e106777fb18c5e1d63dc4d554079bb6c32b97a4]{
 -- Page 229, Offset 11472.
@@ -418,17 +423,17 @@ Because that unfamiliar schoolgirl woke up before I arrived.
 [sha:461a1eb291a87df928ee590a1f80ffe7ba87f670]{
 -- Page 229, Offset 11473.
 -- 「……だ、だいじょうぶ、ですけど……なんで……なんで、来ちゃったんですか……？」
-"...I'm fine... but, why... why did you come here...?"
+"I'm fine, but... why... why did you come here...?"
 }
 [sha:b23cf28f6180d53cf5081b56af1a8a8277ea6d64]{
 -- Page 230, Offset 11474.
 -- <辿々|たどたど>しい声で、不安げな眼で女生徒は見上げてくる。
-The schoolgirl says in a faltering voice, looking up with uneasiness in her eyes.
+The girl speaks in a faltering voice, and she's looking up at me with unease in her eyes.
 }
 [sha:e4ada52595adad852c89e3f9a94542619e2f4589]{
 -- Page 230, Offset 11475.
 -- 彼女に事態を説明する時間はない。
-I don't have the time to explain our situation.
+I don't have time to explain the situation to her.
 }
 [sha:f0ee671e4d253c6c92d427d26f4bb5dfc5a4573c]{
 -- Page 231, Offset 11476.
@@ -438,7 +443,7 @@ I don't have the time to explain our situation.
 [sha:04720011288984b0d5030ef69a65d7429225f6be]{
 -- Page 232, Offset 11477.
 -- 手を繋いで寝台から立ち上がらせる。
-I hold her hand and help her up the platform.
+I take her hand and help her up off the altar.
 }
 [sha:a428518eaa5a1289b78ec7654394775ba148455d]{
 -- Page 232, Offset 11478.
@@ -448,12 +453,12 @@ Good, it seems like she can walk on her own.
 [sha:892130ed577b74ec9ac3bfb524444b261e08e316]{
 -- Page 232, Offset 11479.
 -- 問題は、
-The problem is...
+The problem now is―――
 }
 [sha:8fe86e0159b5601567e56296cb36697451ae59c6]{
 -- Page 232, Offset 11480.
 -- この、周囲を取り囲む死体たちをどう突破するか。
-How do we get past all the dead bodies surrounding us?
+How do we break through the ring of corpses surrounding us?
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 233, Offset 11481.
@@ -463,12 +468,13 @@ How do we get past all the dead bodies surrounding us?
 [sha:97f39bc2b7c0195b564a661ebdb8f31487f00ec9]{
 -- Page 233, Offset 11482.
 -- 死者たちは寝台に近寄りたくないのか、寝台を取り囲みながらこちらの様子を見ている。
-I wonder if the Dead don't want to approach the bed; they look at us while circling the platform.
+I wonder if the Dead don't want to approach the altar for some reason.
+ They're just standing there, hemming us in as they keep an eye on us.
 }
 [sha:44029edd79a44ffa0c50b7ff8042e8d9ce2b5ead]{
 -- Page 234, Offset 11483.
 -- ……それもいつまで続くか。
-...How long will this last?
+How long will this last...?
 }
 [sha:7abaea840fd4ee6698c49f8ea5f7d71ad8cac58a]{
 -- Page 234, Offset 11484.
@@ -478,12 +484,12 @@ Staying here isn't safe. We don't have any other choice but to break through. I 
 [sha:99bf3495f39cb431b50c37ff3ef1b4f4b2ee1770]{
 -- Page 234, Offset 11485.
 -- その為には、俺の方から<死体|ゾンビ>たちに仕掛けなければ―――
-For that, I'll have to start with these zombi―――
+In order to do that, I'll have to go on the offensive against these zombi―――
 }
 [sha:394fd80f772a2d3b3869d68582047895599d3266]{
 -- Page 235, Offset 11486.
 -- 「もうっ、予定とは違う展開だけど仕方ないわねっ！
-"Ahh, this has gone completely off-the-wall, but fine!
+"Sigh, this plan has gone completely off the rails, but whatever!
 }
 [sha:bb41ea38521d62b0b4ce0ca19ce4c59f51818bb0]{
 -- Page 235, Offset 11487.
@@ -493,17 +499,18 @@ I'm at the end of my rope too!"
 [sha:4460d5862c784b0f763436b089199e8ce038bbf2]{
 -- Page 236, Offset 11488.
 -- ぼん、と派手な打撃音がした。
-Thump. A flashy attack.
+%{i}Wham%{/i}.
+ The thunderous sound of her strike echoes through the room.
 }
 [sha:b9d6a99cddddc6a332b83062590b7662b18f2f88]{
 -- Page 236, Offset 11489.
 -- ゴミ袋のように上空に跳ね上げられる人体。
-A body flew through the air like a trash bag.
+A body goes soaring through the air above like a sack of garbage.
 }
 [sha:7fd197b77c854f857d06d00f8cd7a65f32c0466a]{
 -- Page 236, Offset 11490.
 -- それが入り口近くにいた死者の一体である事を認めて、
-I recognize it as one of the zombies standing near the entrance.
+Realizing that it's one of the zombies that was standing by the entrance―――
 }
 [sha:e5825ed63787bd96f80045ee427b7a1ee314b4e8]{
 -- Page 237, Offset 11491.
@@ -513,23 +520,23 @@ I recognize it as one of the zombies standing near the entrance.
 [sha:7e80dabe185bdef1836ce9009aa5b04506da287a]{
 -- Page 237, Offset 11492.
 -- 先生と呼んでいた女性の、とんでもない姿を目の当たりにした。
-Before my very eyes is a preposterous sight; the outrageous figure of the woman I call teacher.
+// A little liberal, but a lot cleaner imo
+The woman I knew as my teacher has transformed into an outrageous sight before my very eyes.
 }
 [sha:9533d4fdd63cf6cfee57ceb605284418261798c5]{
 -- Page 238, Offset 11493.
 -- 「おとなしく潜入捜査やってれば調子に乗ってくれちゃって。
-// Need double check looks fine?
-"Just because I've gone undercover, they've gotten carried away!
+"Aah, I can't believe I got all carried away with my timid little undercover act.
 }
 [sha:349abc395f16e948e53ab9ea83d70211ecefe5ec]{
 -- Page 238, Offset 11494.
 -- っていうか、Ⅰ階梯程度の雑魚がわたしのお気に入りに手を出すなんて言語道だーん！」
-I mean, those Rank I small fry laying a hand on my favorite student, that's just absurd!"
+I mean, Rank I small fry trying to lay a hand on my favorite student? Not on my watch!"
 }
 [sha:0d9ec5c27f87c74c91e4d14bfddde331c56a98d1]{
 -- Page 239, Offset 11495.
 -- 「見てて志貴クン、スーパー懺悔タイムのはじまりだから！」
-"Look, Shiki-kun, Super Confession Time will begin shortly!"
+"Watch this, Shiki-kun. Super Confession Time starts now!"
 }
 [sha:c73486be69e22677d1c0cf7810d6a2e6ad1336b3]{
 -- Page 240, Offset 11496.
@@ -539,134 +546,144 @@ With a whoosh, she swings her long-handled weapon around like a whirlwind.
 [sha:2a1f315ae73f67fb1cd7889df28a0200007ffe05]{
 -- Page 240, Offset 11497.
 -- 先ほどまでの服装はどこにいったのか、シスターの修道服に身を包んだノエル先生は群がる死者たちを粉砕していく。
-Where did the clothes she was just wearing go? Noel-sensei, now dressed in a nun's habit, crushes the herd of zombies.
+What happened to the clothes she was wearing a second ago?
+ Noel-sensei, now dressed in a nun's habit, begins to rip and tear her way through the herd of zombies.
 }
 [sha:9a4817a90e9c06d5434bc362bb1674be4469beb7]{
 -- Page 241, Offset 11498.
 -- 「―――えぇぇえ!?」
-"―――Eeeeeh?!"
+"―――%{i}Whaaaaa%{/i}?!"
 }
 [sha:d0ead2dc7709c79bf03d03c944fbf132e531fe40]{
 -- Page 241, Offset 11499.
 -- 開いた口が塞がらない。
-My jaw drops in astonishment.
+My jaw is on the floor.
 }
 [sha:25a3bafefde40c97fa0c6eeff11e3ba642ae4423]{
 -- Page 241, Offset 11500.
 -- 長柄の武器を持ったシスターが、踊るように死者を蹴散らしていく。
-Wielding her long-handled weapon, the sister scatters the Dead around as if dancing.
+Her long-handled weapon in hand, the nun tramples the Dead as though dancing.
 }
 [sha:cefedc3f3e1be7900cab9444b2c5ef7d5b67f5ab]{
 -- Page 242, Offset 11501.
 -- 弾けた笑顔で、目を輝かせながら、修道服のスカートもバンバンひるがえして、時には投げキッスまで<披露|サービス>する、まさに年齢考えろ的な、それは決め決めのアクションだった。
-With a wide smile and sparkling eyes, she makes her skirt flutter about. She even turned up the fanservice by blowing kisses here and there. Those are deliberate acts that make me want to shout 'act your age!' at her.
+// Not able to find any refs for 決め決め but I guess deliberate makes sense?
+She has a wide smile on her face and a sparkle in her eyes.
+ The hem of her skirt is whipping this way and that,
+ and she's even upping the fanservice by blowing a cheeky kiss to the audience here and there.
+ Those are deliberate acts that make me want to shout 'act your age!' at her.
 }
 [sha:eb76623d50b267e74a5a22442cdeb6c2d8a0c3f1]{
 -- Page 243, Offset 11502.
 -- その活躍……いや悪目立ちで死者たちは寝台から離れ、新たな脅威であるノエル先生に向かって行く。
-// Not sure I understood the first part correctly, needs check
-The Dead conspicuously move away from the platform to face the new threat that is Noel-sensei.
+As a result of the scuffle―――no, the %{i}spectacle%{/i} unfolding around Noel-sensei,
+ the Dead turn away from the altar to face this new threat.
 }
 [sha:0ed755a244849bfcb33385dbd12581533e2c37a4]{
 -- Page 244, Offset 11503.
 -- 「ほら、志貴クンこっちこっち！　先生の後ろに隠れてて！」
-"There, Shiki-kun, this way, this way! Hide behind Sensei!"
+"Hey, Shiki-kun, this way, this way! Get yourself behind me!"
 }
 [sha:80075b5ee267908a440474d06bed2306ffa3e9fd]{
 -- Page 244, Offset 11504.
 -- そんな死者たちの動きを考慮せず、暴れ回るノエル先生。
-Noel-sensei is rampaging without taking the Dead's movementinto account.
+Noel-sensei is on a rampage, not even bothering to pay attention to the Dead's movements.
 }
 [sha:e0ad9a7f603c3104093d32f2c1337d53cffb7c8c]{
 -- Page 245, Offset 11505.
 -- ノエル先生は死者たちを蹴散らして寝台までやってきた。
-Noel-sensei arrives at the platform after smashing the dead bodies.
+After carving a path through the Dead, she arrives at the altar.
 }
 [sha:b80b62704753cb8a6e36275b5a74a78d17375de4]{
 -- Page 245, Offset 11506.
 -- 手にした凶器は２メートル近い、鋼鉄の槍だ。
-Her weapon is a spear made of steel, almost two meters long.
+The weapon clutched in her hand is some sort of steel spear, almost two meters long.
 }
 [sha:a9f163f0d47c5c3bca9ff0be52471652a6133802]{
 -- Page 245, Offset 11507.
 -- 先端には斧のような<刃|は>がついている。
-The tip of the spear has an axe-like part to it.
+Just below the tip of the spear is an axe-like blade.
 }
 [sha:a83c996d4d8f3e510e1e611522750a40b21e6f15]{
 -- Page 245, Offset 11508.
 -- <槍斧|ハルバード>、というヤツだろうか。
-This is probably what is called a halberd.
+I guess that makes this a halberd of some sort.
 }
 [sha:c57e95826751fdb960e638a09d918f00b505c01a]{
 -- Page 246, Offset 11509.
 -- 「ああ汚い、血と脂でべったりね。フレッシュゾンビってこれだから人気がないのよ。やっぱり蹴散らすならカラカラ鳴るスケルトンがサイコーよね？」
-"Aaaah that's disgusting, I've got blood and grease sticking everywhere. That's why everyone hates fresh zombies. Yup, nothing better than smashing up a rattling skeleton, right?"
+"Eww, yuck, it's all sticky with blood and grease.
+ This is why everyone hates fresh zombies.
+ If you're gonna go wild, you can't beat smashing up a bunch of dried-up skeletons can you?"
 }
 [sha:0ba8d01424910c6048b367ff6c37d7ef9acbe3fc]{
 -- Page 247, Offset 11510.
 -- ノエル先生はブン、とハルバードを一振りして、先端にこびりついた血肉を払う。
-Noel-sensei swings her halberd, in order to clear away the blood stuck on the tip.
+Noel-sensei gives her halberd a stout swing to flick off the flesh and blood clinging to the tip.
 }
 [sha:36cda31fbb4ba0f15d788dc10f0d852e6570057e]{
 -- Page 247, Offset 11511.
 -- ……本物の鉄だ。こうして見るだけでも、とても彼女の細腕で振り回せる重量じゃない。
-...It's real steel. But just looking at it, it's not something she should be able to swing around with her slender arms.
+That thing's made of solid steel...
+ Just looking at it, it doesn't seem like the sort of thing she should be able to swing around with those slender arms of hers.
 }
 [sha:0a7c342da7a1f0c224bef504bdbec0c91f8012fe]{
 -- Page 248, Offset 11512.
 -- 「あ、いや―――先生、一体何者ですか!?」
-"Ah, no―――Sensei, what in the world is that?!"
+"Ah, no―――Sensei, just who are you exactly?!"
 }
 [sha:8384e28fa2bdc188c02987c43e8d2e8cf22cc79f]{
 -- Page 248, Offset 11513. Mods: @k, @e.
 -- 「いいじゃない、細かいコトは♡
-"Hmmm isn't it fine? Don't sweat the small stuff ♡.
+"Relax, don't sweat the small stuff ♡
 }
 [sha:ddc8235d85810734cdd026b7afa011f10fbd73d0]{
 -- Page 248, Offset 11514. Glued. Mods: @x.
 -- 今は先生に甘えちゃって。わたし、こう見えて結構強いんだから！」
- For now just let Sensei spoil you. After all, I may not look it but I'm pretty strong!"
+ For now just let Sensei spoil you. I may not look it, but I'm pretty strong you know!"
 }
 [sha:6c46afc71e94df54a179d14d15c13ba727e1a855]{
 -- Page 249, Offset 11515.
 -- 何かが吹っ切れたような陽気さで、ノエル先生は死者たちの群れに突進する。
 // 吹っ切れる=reserves, hesitation, misgivings, doubt go away, disappear
-With a cheerfulness as if blowing all her hesitation away, Noel-sensei charges into the group of zombies.
+With the cheerfulness of someone who's cast their troubles to the wind,
+ Noel-sensei charges into the group of zombies.
 }
 [sha:bb1f71bf58e992735ebd5b83405fde01f3752642]{
 -- Page 250, Offset 11516.
 -- 次々と分断され、飛ぶ肉塊。
-Bodies cut in half one after the other, lumps of meat flying around.
+One by one they are sliced in half, their bodies sent flying.
 }
 [sha:57ee683c59cc97b2b030829588672951bdde0e0f]{
 -- Page 250, Offset 11517.
 -- 逃げ惑う死者には容赦なく鉄塊を振り落とし、
-Mercilessly swinging down her mass of iron on the fleeing Dead,
+// Black keys here, not spear
+She mercilessly looses great spikes of iron at the Dead that try to escape.
 }
 [sha:52ecf17fbaf6157c989e135bae4a07d7f85491bb]{
 -- Page 250, Offset 11518.
 -- 近寄ろうとする死者には細長い剣を投げつけ、これを串刺しにする。
-Throwing her long and narrow weapon at those trying to get close, skewering them.
+Her long spear darts out at any Dead that dare approach, skewering them.
 }
 [sha:7b5a697e75f8834d7089b30d6cc9825c3bb5774f]{
 -- Page 250, Offset 11519.
 -- その姿はどう見ても死者以上の“異常”だった。
-No matter how you look at it, she's even more of an 'abnormality' than the Dead.
+When it comes to being 'abnormal', she beats the Dead hands-down.
 }
 [sha:b1506eae041a3c98273fec348b774455be6be82a]{
 -- Page 251, Offset 11520.
 -- 「シスターは趣味じゃなかったんですか!?」
-"Wasn't being a sister just your hobby?!"
+"I thought being a nun was just your hobby?!"
 }
 [sha:0325c10597ed2713cd7c92b18b579bd1cda0ee6a]{
 -- Page 251, Offset 11521.
 -- 「ううん。趣味でやってるのは先生の方なの♡
-"Nah, teaching is the hobby ♡.
+"Nope. %{i}Teaching%{/i} is my hobby ♡
 }
 [sha:b75d2b73dd5c9c6f73eaf5c1b183dab4d8bbcb26]{
 -- Page 251, Offset 11522.
 -- いいからそこにいて、さくっとお掃除を済ませちゃうわ！」
-It's fine, just stay there, and I'll clean 'em up real quick!"
+Just sit tight for a sec, I'll clean 'em up real quick!"
 }
 [sha:5169ad456f3dd9257b1dc19ba3734986699ce0ef]{
 -- Page 252, Offset 11523.
@@ -676,22 +693,24 @@ I call out to stop her but she doesn't pay attention.
 [sha:733ea0d8782a572db2df72fc1dbb195d0d2ed1f4]{
 -- Page 252, Offset 11524.
 -- ノエル先生は手近にいる死者を蹴散らしながら、より多くの死者が集まっている空間に飛びこんでいく。
-Noel-sensei kicks around the zombies close to her and jumps to where even more are gathered.
+Scattering the Dead that are clustered around her,
+ Noel-sensei bounds away to a spot where even more of them are gathering.
 }
 [sha:319acabf002c8eb50cc9bb21248759ffb17da4ba]{
 -- Page 253, Offset 11525.
 -- 「……っと」
-"...%{i}Ugh%{/i}."
+"%{i}Tch%{/i}..."
 }
 [sha:e201ec629c868ca5478f6491d93738f8c02bee8e]{
 -- Page 253, Offset 11526.
 -- そこで、強く手を握られている事に気がついた。
-There, I realize that my hand is being held tightly.
+At that moment, I notice that my hand is being held tightly.
 }
 [sha:4414539d6fb466ff2f6b5fea90a1116a3189df24]{
 -- Page 253, Offset 11527.
 -- 寝台にいた女生徒だ。彼女は不安げに事の様子を見つめていた。
-It's the schoolgirl that was lying on the sleeping platform. She's looking uneasily at our current state of affairs.
+It's the schoolgirl who was lying on the altar.
+ She's staring apprehensively at what's going on around us.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 254, Offset 11528.
@@ -701,7 +720,10 @@ It's the schoolgirl that was lying on the sleeping platform. She's looking uneas
 [sha:333131d3d514a7c8323de2357dc8fde0edad5252]{
 -- Page 254, Offset 11529.
 -- 「ごめん、意味わかんないよな。俺もホントにわからないんだけど……うん、あの人は大丈夫だよ。ここにいるゾンビ全部より先生の方が強いと思う。今は動かない方がいい」
-"Sorry, I'm lost. I don't quite get it either... but she'll be fine. I think Sensei is stronger than all the zombies here. It'll be better to stay put."
+"Sorry, you're probably lost huh?
+ I don't understand what's going on either, but... yeah, she'll be okay.
+ I think Sensei is stronger than all the zombies here.
+ We should just stay put for now."
 }
 [sha:7598b57ca831f6e57edc0d2a16b91511f55c4666]{
 -- Page 255, Offset 11530.
@@ -711,58 +733,59 @@ I let go of her hand.
 [sha:95564dbb085a99d5bcde1a44572855dd846869e0]{
 -- Page 255, Offset 11531.
 -- 今は下手に逃げるより<寝|こ><台|こ>に留まって、ノエル先生が死者たちを全滅させるのを待つべきだと判断する。
-I conclude that it'd be better to remain here and wait for Noel-sensei to exterminate all the zombies, rather than clumsily trying to run away.
+I've decided it's probably a better idea to wait here and let Noel-sensei exterminate the Dead instead of trying to make a break for it.
 }
 [sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
 -- Page 256, Offset 11532.
 -- 「……？」
-"...?"
+"Huh...?"
 }
 [sha:16bc12ab78492520113785476bfee931e6c48f54]{
 -- Page 256, Offset 11533.
 -- ふと、背筋に悪寒が走った。
-Suddenly, I feel a chill running through my back.
+Suddenly, a chill runs down my spine.
 }
 [sha:00486cf20dc6052cc0b689f9bf0330414bbb5940]{
 -- Page 257, Offset 11534.
 -- ……寒い。
-...It's cold.
+It's cold...
 }
 [sha:927d94f543d22249501b117f09b77d7db3d46125]{
 -- Page 257, Offset 11535.
 -- 気のせいではなく、明らかに気温が下がっている。
-It's not my imagination, the temperature clearly dropped.
+It's not just my imagination, the temperature down here has clearly dropped.
 }
 [sha:ad7ebdd084b25c26ca0d5edf7c1343d6e57901f2]{
 -- Page 257, Offset 11536.
 -- 足元に目をやると床には霜が降り始めていた。
-Looking at my feet, the floor has begun to be covered in frost.
+Looking down at my feet, I can see frost starting to blanket the floor.
 }
 [sha:3b622e4e02f6131b2bbd757c46e1e8170d05c336]{
 -- Page 257, Offset 11537.
 -- その冷気に呼応するように、死者たちの動きが活発になる。アレは……まるで、何かに怯えている、ような。
-As if responding to the cold air, the Dead become agitated. They're... It's almost like they're afraid of something.
+As the air grows colder, the Dead also start to become more agitated.
+ It's almost as if... they're afraid of something.
 }
 [sha:ddb0ef69407446a7118365607ca079e06352f6f9]{
 -- Page 258, Offset 11538.
 -- 「――――――血だ」
-"――――――Blood."
+"――――――The blood."
 }
 [sha:652cfaa9ca0d656d1d1ee236655761cc415715f4]{
 -- Page 258, Offset 11539.
 -- 今になって気がついた。
-I just realized.
+I only just realized it.
 }
 [sha:3b2fd87bf0ab53a7644ad6f9cf2470347ecb5d13]{
 -- Page 258, Offset 11540.
 -- 粉砕された死者たちの血が、床の紋様に流れている。
 // Added engraved
-The blood from the crushed corpses was flowing down into a pattern engraved in the floor.
+But the blood from the pulverized corpses is oozing through the pattern engraved in the floor.
 }
 [sha:a96a832932be27f9374512e447cf42c5fc9436b2]{
 -- Page 258, Offset 11541.
 -- それは何かの儀式のように、<よ|・><く|・><な|・><い|・><モ|・><ノ|・>を呼び寄せている。
-Like some sort of ritual that would summon something %{i}unpleasant%{/i}.
+Like some sort of ritual to summon something %{i}terrible%{/i}.
 }
 [sha:911c9e9ac987f265998c1f29c7ad733f81f62795]{
 -- Page 259, Offset 11542.
@@ -772,7 +795,7 @@ Like some sort of ritual that would summon something %{i}unpleasant%{/i}.
 [sha:65d09680bb17b7f97c81b37ad3d2ca2c8ed6c60d]{
 -- Page 259, Offset 11543.
 -- 先生の名前を叫んだのは俺ではなく、俺の隣りにいる女生徒だった。
-The voice that called out to Sensei wasn't mine, but that of the female student next to me.
+It wasn't me who called out to Sensei, but the female student next to me.
 }
 [sha:de51cc59b711af91414b2ebfed2b9a51e97bbec8]{
 -- Page 259, Offset 11544.
@@ -782,30 +805,34 @@ But those words don't reach her.
 [sha:45d8181ab0867956672f92d601d0aa823b82df2c]{
 -- Page 259, Offset 11545.
 -- 修道服姿の女は、飛び散る血煙に酔いしれて、粉砕される死者たちしか見ていない―――
-The woman clothed like a nun, intoxicated by the blood spraying all over, only looks at the zombies she's pulverizing.
+The woman in nun's clothing,
+ intoxicated by the blood spraying everywhere,
+ is only paying attention to the Dead that she's pulverizing.
 }
 [sha:dd13a1f58a864e467ccfe6ff71553920867c5033]{
 -- Page 260, Offset 11546.
 -- 「未熟者、止まりなさい！　周囲に注意を！」
-"You novice, stop! Pay attention to your surroundings!"
+"Stop what you're doing, rookie!
+ Pay attention to your surroundings!"
 }
 [offset:11547]{
 -- Page 260, Offset 11547.
 -- 「え？」
-"Yes?"
+"Huh?"
 }
 [sha:98b10f7654d0aace967f76e863d84ce245551e02]{
 -- Page 261, Offset 11548.
 -- 女生徒の声にようやく気がつく<女|ノエル>。
-Noel-sensei finally notices the voice coming from the female student.
+The female student's voice finally makes it through to Noel-sensei.
 }
 [sha:a19bb40eb7c45dc9649dc266705f94558ef8ba8b]{
 -- Page 261, Offset 11549.
 -- その、死者たちにしか注意を払っていない無防備な体を、
-Because she's only focusing on the Dead, her body which is left defenseless,
+Because she's been focused on the Dead to the exclusion of all else, her body is left defenseless―――
 }
 [sha:d59ac0658f59b87e513f032181f69c133807aa01]{
 -- Page 261, Offset 11550.
 -- 通路の奥から噴き出した炎が、死者たちごと丸焼きにした。
-is engulfed and incinerated, along with the Dead, by the flames erupting from the inside of the passageway.
+And is engulfed by the flames erupting from the depths of the passageway,
+ incinerated along with the Dead around her.
 }
