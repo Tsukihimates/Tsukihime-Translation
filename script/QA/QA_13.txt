@@ -1,42 +1,45 @@
 [sha:a6e429cdf3c05524baa023ea98576a205056db5e]{
 -- Page 10000, Offset 43316.
 -- みなさ～～ん、こんにちは～～！
+// Evening used here based off the sunset tone of the CGs
 Gooood evening, everyone!
 }
 [sha:4f2f5fec843d3dee0a3d8e3dd89f0c5c657f4a3d]{
 -- Page 1, Offset 43317.
 -- 降り注ぐようなトラブルの中、
-Welcome to the ever so popular corner in which we cheer on
+Welcome to the ever popular corner where we%{n}
+cheer on
 }
 [sha:85697b77bbe5a00f5b78c056143fd5809c70e6c5]{
 -- Page 1, Offset 43318.
 -- 一生懸命な遠野くんを応援する人気コーナー、
-Tohno-kun as he tries his best despite his never-ending troubles,
+ Tohno-kun as he tries his best despite his never-ending troubles,
 }
 [sha:4b6e396aac530529aa5568cf3291f5b68f1f7d7e]{
 -- Page 2, Offset 43319.
 -- 『教えて！　シエル先生』、
-'Teach Me, Ciel-Sensei!'
+'Teach Me, Ciel-Sensei!'%{n}
 }
 [sha:91bc9cf2eafb0c2298b758d807b03f4c2ccc909a]{
 -- Page 2, Offset 43320.
 -- 待望の第２部、開始です！
-The much anticipated part two is about to begin!
+The long awaited part two begins now!
 }
 [sha:7e32227d793a2bc2fb0672d82d134ae153da2ac4]{
 -- Page 3, Offset 43321.
 -- 『月姫』もいよいよ後半戦。
-The second half of Tsukihime is finally here.
+Tsukihime is already half over.
 }
 [sha:a94865213255057e1be6bc0978c747b83a71f927]{
 -- Page 3, Offset 43322.
 -- いえ、ここからが本番と言っていいでしょう。
-No, this is where Tsukihime truly begins!
+No, I should say that this is where Tsukihime truly begins!
 }
 [sha:3e79e9332c4e304d34b98ac335c603dca934c6c6]{
 -- Page 4, Offset 43323.
 -- その熱中度・満足度はアルクェイドルートの
-I can promise you that the level of excitement and satisfaction
+I can promise you that the level of excitement%{n}
+and satisfaction
 }
 [sha:1a846d24764b463bd2a42dc1239be36ffcb4d22b]{
 -- Page 4, Offset 43324.
@@ -46,7 +49,7 @@ will be double, no, triple that of Arcueid's route!
 [sha:1020e3bf8bd3d46a7103e1fda1a601e9e18c08d4]{
 -- Page 5, Offset 43325.
 -- <目を覚ませ|ウェイクアップ>！
-Wake Up!
+Wake Up!%{n}
 }
 [sha:7f8622a257810bd26bc105de3d475507c4c18e57]{
 -- Page 5, Offset 43326.
@@ -61,17 +64,17 @@ Guwah!?
 [sha:ac86a299391d58efe5ad777a444198372ba8fd9b]{
 -- Page 7, Offset 43328.
 -- ん～～～、クリティカルコネクト。
-Mmm~~~, critical hit.
+Mmm~~~, critical hit.%{n}
 }
 [sha:82043bf390376ece7897cccd79a78cfba324f6f8]{
 -- Page 7, Offset 43329.
 -- こんな奇襲も躱せないとはガッカリです。
-I'm disappointed that you couldn't dodge such a surprise attack.
+I'm disappointed that you couldn't even dodge such a surprise attack.
 }
 [sha:82504f7fe6b3ff3517da6ca7f023c3fa2bc9a2ad]{
 -- Page 8, Offset 43330.
 -- 我が世の春が来た、とか思いましたか？
-Did you really think that your time to shine has come?
+Did you really think it was finally your time to shine?
 }
 [sha:051d1b2e1cec87e5ecc29775fdb56e483b6263d0]{
 -- Page 8, Offset 43331.
@@ -81,37 +84,39 @@ You're getting waay ahead of yourself, teacher.
 [sha:1249e1e13aa66218cfc7e66a8dbd9ee96af3c98a]{
 -- Page 9, Offset 43332.
 -- 何事も『いける！』と思った時こそ脆いんだよニャあ。
-It's times where you think 'I got this!' that you become weak nya.
+It's times when you think you've got it all in the bag that you're actually at your most vulnerable nya
 }
 [sha:15c60a6438b0842fa3f295b3f3301892f8f99d8c]{
 -- Page 9, Offset 43333.
 -- 足元がお留守っていうか。
-It's as if you've tied your own arms and legs.
+It's as if you've tied your own hands and feet.
 }
 [sha:12b10987cd7b79e50376e7968f768086777259a9]{
 -- Page 10, Offset 43334.
 -- みなさんもそのあたり、
-I'm sure you've all felt this exact
+I'm sure you've all experienced this exact phenomenon
 }
 [sha:92fc1b264f8f8b1a858f1bbe9f54b1b8725359c9]{
 -- Page 10, Offset 43335.
 -- ライブで痛感しているのではないでしょうか。
-phenomenon happen from your own eyes.
+ in your own lives.
 }
 [sha:cd1db384fe61889894c7f6523d78228dac522263]{
 -- Page 11, Offset 43336.
 -- 防寒対策なしで冬将軍ヴローヴに
-Just like the time when I approached General Vlov
+It's laughable to try and go up against
 }
 [sha:6c8cbb5509efadae7c8d8d7767dff2c639eb8c57]{
 -- Page 11, Offset 43337.
 -- 近づくなんてもってのほか。
-without any winter protection and so forth.
+ Glacial General Vlov without any cold weather gear.
 }
 [sha:bb1d0b2b17cb9283a9bb093284c8e0cc151a8024]{
 -- Page 12, Offset 43338.
 -- 敵はつねに超必ぶっぱしているような暴れキャラ。
-That enemy is a rampant character constantly firing off mad blows.
+// 殺技 = super special technique?
+// https://post.gamer2.jp/chouhitsu/
+That enemy is a rampant character, it feels like he's constantly unleashing new special moves.
 }
 [sha:3dca2c367784d903e7f5df8deacefd5b8df9b7af]{
 -- Page 12, Offset 43339.
@@ -121,22 +126,27 @@ Take one big hit and you're gone in no time!
 [sha:a37a4148f4cd68dee6dfc757a95ce92e518e0393]{
 -- Page 13, Offset 43340.
 -- 君よ、ネコのように気まぐれに戦え！
-You gotta fight on a whim just like a cat!
+// Funny cat later says 'I already told him that!' re: 'attack swiftly and retreat',
+// so I guess that's the meaning of 気まぐれ that's intended here. Not sure that any direct TLs of
+// whim, caprice, fickle, etc. are a great match here, so some liberty taken with an expression instead.
+You gotta fight like a cat: float like a butterfly, sting like a bee!
 }
 [sha:e5c7cae76c61c9a2f6b81df6376f915a0d0fc148]{
 -- Page 13, Offset 43341.
 -- クソが、対アリっした！
-Take that, you little shit!
+// This seems to be the JP equivalent of saying 'gg', used pretty much the same way.
+// https://wa3.i-3-i.info/word19138.html
+Make that bastard type 'gg'!
 }
 [sha:c55ef2bd3b9d0cddd7b49ee8f14b6a209015a4bf]{
 -- Page 14, Offset 43342.
 -- くっ……やってくれましたね、このネコ型生物……
-Kuh... you've really done it now, you feline creature...
+Kuh... you've really done it now, you feline-adjacent creature...
 }
 [sha:03214ed2b68c2765651f15975078ddf03ddb1632]{
 -- Page 14, Offset 43343.
 -- ですが、浮かれていたのは事実です。
-But you're right, I did let my guard down.
+Though I have to admit I did let my guard down.
 }
 [sha:d3d59429a81f7ad742355e04200a91fae9eeadb2]{
 -- Page 15, Offset 43344.
@@ -146,42 +156,43 @@ This is a new route with a new heroine
 [sha:47f116b28ad87a68ed1549147d2eb4707c3fe17f]{
 -- Page 15, Offset 43345.
 -- 始まるのですから、わたしも気を引き締めないと。
-from here on out, so I have to brace myself.
+ from here on out, so I have to brace myself as well.
 }
 [sha:1566bd3ca09244800a7b2132e29bd97ffed21858]{
 -- Page 16, Offset 43346.
 -- アタシの必殺ブローをくらって
-She got up within the count of ten
+She got up within the count of ten after%{n}
 }
 [sha:a2d789bc18e6c8bffeb70004e01cde04b3487e64]{
 -- Page 16, Offset 43347.
 -- テンカウント内に立ち上がりやがった……
-after taking a hit from my special move...
+taking a hit from my special move...
 }
 [sha:3f3e4d1719557bb5dab9a16ef919aa10b85f8e5a]{
 -- Page 17, Offset 43348.
 -- 今の、100均で売ってるお菓子の箱すら
-Nowadays, even a 100 yen box of candy
+These days that attack has the power to crush
 }
 [sha:960470c989dc4f7179b3d5b94ad77d2466ea2980]{
 -- Page 17, Offset 43349.
 -- 一撃でポシャる威力なんスけどね……
-can be crushed in a single blow...
+ even a 100 yen box of candy in a single blow...
 }
 [sha:a5d87a0b00e3c9d73346aa3416faa68f605540dd]{
 -- Page 18, Offset 43350.
 -- さて。ネコの戯言は聞き流して、
-Now then. I'd like to ignore this little cat's
+Now then. I'd like to ignore this little%{n}
+cat's
 }
 [sha:557c31e1c6c7bf00a89a3c3228148930502273d7]{
 -- Page 18, Offset 43351.
 -- 本題に入りたいと思います。
-nonsense and get down to business.
+ nonsense and get down to business.
 }
 [sha:edbd0d42fe658bf141aaed9298bf76571ff7d85b]{
 -- Page 19, Offset 43352.
 -- 今回の原因は自分の力を過信しすぎたコトですね。
-The cause this time was due to your overconfidence in your abilities.
+The cause this time was overconfidence in your own abilities.
 }
 [sha:e965cfa9b9e5ef1acb2d5d36de64111bc836f405]{
 -- Page 20, Offset 43353.
@@ -191,22 +202,22 @@ Tohno-kun is just an ordinary boy, so no matter
 [sha:33d588becf03684a1eb10bac3b10dfda360ae946]{
 -- Page 20, Offset 43354.
 -- どんなに調子が良くても危険地帯に長居はいけません。
-how well you are doing, you must not be in danger for too long.
+how well things seem to be going, you shouldn't stay in the danger zone for long.
 }
 [sha:284a0ca688b040e41aa5e624ada434461e4ba6fc]{
 -- Page 21, Offset 43355.
 -- 「いける！」と思った時こそ、
-It's times where you think 'I got this'
+It's times when you think you've got it all in the bag
 }
 [sha:7486b0d2744d0a767183e79cad24c4e3901002d0]{
 -- Page 21, Offset 43356.
 -- 相手だけでなく自分の状態も確認して、
-that you must observe your own condition.
+that you actually need to be wary of not just your opponent's condition but your own―――
 }
 [sha:d03d455cdd41241f49d60b6ce05ea9297e17b052]{
 -- Page 22, Offset 43357.
 -- 言ったよ。
-I said that.
+I said that.%{n}
 }
 [sha:907ffe65dd052641ca5a28a260cd70360a269594]{
 -- Page 22, Offset 43358.
@@ -221,37 +232,38 @@ I just said that exact same thing.
 [sha:d38edb573951d4346e910490afef32e2a14e876b]{
 -- Page 24, Offset 43360.
 -- たとえるなら、ヴローヴは見えない毒を
-To put it short, think of it as if
+To use an analogy,
 }
 [sha:8843772d7142348cc2c515e55f602156e21c061d]{
 -- Page 24, Offset 43361.
 -- まき散らしているようなもの。
-Vlov is spreading around an invisible poison.
+imagine that Vlov is emitting an invisible poison.
 }
 [sha:11eaf7bc9a8d8ce6d96d4fcf7f0c500301854751]{
 -- Page 25, Offset 43362.
 -- 炎はもちろん、低温もまた人体にとっては脅威です。
-Of course flames, as well as low temperatures, are threat to the human body.
+Flames are obviously a danger to the human body, but so too are low temperatures.
 }
 [sha:8d732f3ca3c40249fe659cde56095dbeb3767ea8]{
 -- Page 25, Offset 43363.
 -- ですので、つねにヒット＆アウェイをこころが、
-So you should always be weaving in and out...
+That's why you should always be weaving in and out...
 }
 [sha:d03d455cdd41241f49d60b6ce05ea9297e17b052]{
 -- Page 26, Offset 43364.
 -- 言ったよ。
-I said that.
+I said that.%{n}
 }
 [sha:27c1d660d139aa7053f850af9a891dcb937264cf]{
 -- Page 26, Offset 43365.
 -- それももうアタシが言ったよ。
-I also said that earlier.
+I said that earlier too.
 }
 [sha:6ba60f3e028f497832ac588d47ed394803f840d5]{
 -- Page 27, Offset 43366.
 -- 持ち上がるよ？
-I'm floating.
+// *teleports behind you*
+I'm floating.%{n}
 }
 [sha:b5d50543f08ab2320214a13ae9d5aa53915be6c4]{
 -- Page 27, Offset 43367.
@@ -266,15 +278,15 @@ That's right, just like this.
 [sha:8c4866f61461816d0cf27b67e1d58ca4a3d435ee]{
 -- Page 28, Offset 43369.
 -- 一撃いれたら、ぶっ飛ばして距離をとりましょう！
-If you ever take a hit, blast away and make some distance!
+If you ever take a hit, blast off and put some distance between you and him!
 }
 [sha:68d0cce076ff000b5909dedd8e28afcceab4c6ed]{
 -- Page 29, Offset 43370.
 -- ごっぱぁーーー！？
-Guwaaaaaah!?
+Guwaaaaaah!?%{n}
 }
 [sha:12fee443f1cb7f45dc1fd857f6e6e09fd2204c8b]{
 -- Page 29, Offset 43371.
 -- それができたら苦労はしないっつーのーーー！！！！
-I wouldn't have had trouble if I could do that!!!!
+I wouldn't have had any trouble if I could do that!!!!
 }
