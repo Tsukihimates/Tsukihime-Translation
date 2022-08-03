@@ -13,7 +13,7 @@ cheer on
 [sha:85697b77bbe5a00f5b78c056143fd5809c70e6c5]{
 -- Page 1, Offset 43318.
 -- 一生懸命な遠野くんを応援する人気コーナー、
- Tohno-kun as he tries his best%{n}
+ Tohno-kun as he tries his best,%{n}
 despite his never-ending troubles.
 }
 [sha:4b6e396aac530529aa5568cf3291f5b68f1f7d7e]{
@@ -85,14 +85,14 @@ to shine?
 [sha:051d1b2e1cec87e5ecc29775fdb56e483b6263d0]{
 -- Page 8, Offset 43331.
 -- そりゃあ浮かれすぎだぜティーチャー。
- You're getting waay ahead of%{n}
+ You're getting waaay ahead of%{n}
 yourself, teacher.
 }
 [sha:1249e1e13aa66218cfc7e66a8dbd9ee96af3c98a]{
 -- Page 9, Offset 43332.
 -- 何事も『いける！』と思った時こそ脆いんだよニャあ。
-It's times when you think you've got it all in the bag that%{n}
-you're actually at your most vulnerable nya.
+It's the times when you think you've got it all in the bag%{n}
+that you're actually at your most vulnerable nya.
 }
 [sha:15c60a6438b0842fa3f295b3f3301892f8f99d8c]{
 -- Page 9, Offset 43333.
@@ -124,7 +124,9 @@ weather gear.
 [sha:bb1d0b2b17cb9283a9bb093284c8e0cc151a8024]{
 -- Page 12, Offset 43338.
 -- 敵はつねに超必ぶっぱしているような暴れキャラ。
-// 殺技 = super special technique?
+// 超必 = super special technique?
+// Assuming that it's a contraction of 超必殺技, which is a fighting game term.
+// Fits with the usage of 対アリ later
 // https://post.gamer2.jp/chouhitsu/
 That enemy is a rampant character, it feels like he's%{n}
 constantly unleashing new special moves.
