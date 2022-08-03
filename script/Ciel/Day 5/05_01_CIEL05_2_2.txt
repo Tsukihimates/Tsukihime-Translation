@@ -1,18 +1,19 @@
 [sha:c18884031c30e28ca4f24a85346daca83bb03611]{
 -- Page 10011, Offset 11666.
 -- 「っ、ハ―――！」
-"Ugh, haaa―――!"
+"%{i}Ugh, haaa―%{/i}――!"
 }
 [sha:9fe832ca3aed495f45d9ca8a4b7052e3d9773a13]{
 -- Page 10011, Offset 11667.
 -- 呼吸を再開する。血液に酸素を取り入れる。
-I resume breathing. Oxygen is returning to my blood.
+I begin breathing again.
+ My blood starts to take in oxygen.
 }
 [sha:12390bbc668cdcd6c8725b65faf4a6843c22daf3]{
 -- Page 301, Offset 11668.
 -- 忘れるな。この吸血鬼は高温を放出していた筈だ。
 // Added waves
-Don't forget. He's releasing waves of high temperature.
+Don't forget. He's almost certainly radiating an intense heat.
 }
 [sha:5d627affc62e727131ef03ed06d79da4ce46208c]{
 -- Page 301, Offset 11669.
@@ -22,22 +23,22 @@ Any normal living being would be mortally wounded just by approaching him.
 [sha:a2e0c20d3dd6f43b31b79c1a64041dc784e49884]{
 -- Page 301, Offset 11670.
 -- それを俺はホテルで一度味わっている……！
-I already experienced that once at the hotel...!
+I already got a taste of that once back at the hotel...!
 }
-[sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
+[offset:11671]{
 -- Page 302, Offset 11671.
 -- 「……！」
-"...!"
+"%{i}Kh%{/i}...!"
 }
 [sha:20576809f678dc3a15a7fb338dea31ca00831a5b]{
 -- Page 302, Offset 11672.
 -- だが遅い。足首には燐光が灯っていた。
-But I'm too late. Phosphorescence lights up my ankle.
+But it's too late. Phosphorescence lights up my ankles.
 }
 [sha:1105d2b0c1de5429f4e7999c5eca220bbd3e5436]{
 -- Page 303, Offset 11673.
 -- 足首の感覚が失われている。
-I lose sensation in my ankles.
+I lose feeling in my ankles.
 }
 [sha:8061edf387610f20388d1783ef41347d4fc7c2e5]{
 -- Page 303, Offset 11674.
@@ -47,7 +48,7 @@ I lose sensation in my ankles.
 [sha:58a31b5571dd394dd90a76c98a6b10cd0a3e8b1b]{
 -- Page 303, Offset 11675.
 -- 全力で横に跳ぼうとするが、動かない。
-I try to jump sideways with all my might, but my body won't move.
+I try as hard as I can to jump to the side, but my body won't move.
 }
 [sha:f5002a45608974ff632ebb8e72b2c1f932cafdca]{
 -- Page 304, Offset 11676.
@@ -57,47 +58,53 @@ The creaking in my ankles earlier was a sign that my time has come.
 [sha:8be40670313c8e6cb5b0ce5cc498d8acd13dc476]{
 -- Page 304, Offset 11677.
 -- 高温による炎症ではないが、正体不明の痛みで全身の機能が低下している……！
-My bodily functions are deteriorating. Not from some irritation resulting from the high temperature, but rather from some unidentifiable ailment.
+My bodily functions are deteriorating.
+ Not from an inflammation caused by the high temperature, but rather from some unidentifiable ailment.
 }
 [sha:9d287e86b46ef6636e588ccb1e3b99d199af9b6e]{
 -- Page 305, Offset 11678.
 -- 顔をあげる。目前には血に濡れた外套。
-I look up. I see in front of me his blood-soaked coat.
+I look up. His blood-soaked coat is right in front of me.
 }
 [sha:b54b41454e30197beec4c2e514699a9808b233ef]{
 -- Page 305, Offset 11679.
 -- 吸血鬼の右腕が、俺の顔めがけて振り下ろされる。
-The vampire's right arm swings down, aiming at my face.
+The vampire swings his right arm down, aiming at my face.
 }
 [sha:57e70f45a82f540170756291858c6f98d70e9461]{
 -- Page 305, Offset 11680.
 -- ―――失敗した。
-―――I lost.
+―――I've lost.
 }
 [sha:68befa1d381f200e7144dbdcf9b0e6ebb5b8cfd9]{
 -- Page 305, Offset 11681.
 -- こんな単純な動作に対応できない。先ほどとなんら変わらない速度なのに体が重い。動かない。躱せない。これでは、頭を掴まれた瞬間、トマトのように潰される―――
-I can't do anything against such a simple attack. It isn't any faster than last time, but my body feels heavy. I can't move. I can't dodge. With this, the moment he grabs my head, I'll be crushed like a tomato―――
+I can't do anything against such a simple attack.
+ It isn't any faster than last time, but my body feels heavy.
+ I can't move. I can't dodge.
+ At this rate, I'll be crushed like a tomato the instant he grabs my head―――
 }
-[sha:ba95c48b8679cb998cfcdfd11affa6a64c91e080]{
+[offset:11682]{
 -- Page 306, Offset 11682.
 -- が。
-But.
+However.
 }
 [sha:21d4ba340ee56cfd3188a75c04dbc1562ea6ad0c]{
 -- Page 306, Offset 11683.
 -- 遠野志貴という<人頭果|じんとうか>の収穫は、横合いから炸裂した銃弾によって阻まれた。
-The harvest of the human-fruit head known as Tohno Shiki is interrupted by an exploding bullet coming from the side.
+// 人頭果 you bastard
+The harvesting of Tohno Shiki's ripe head is interrupted by a bullet launched explosively from somewhere off to the side.
 }
 [sha:6034fff80c4acb81a84c318ad4c028b2850b0446]{
 -- Page 307, Offset 11684.
 -- 今のは銃弾……それもロケット弾の<類|たぐい>だと思う。
-That was a bullet... maybe even some sort of rocket.
+That was a bullet just now... maybe even some sort of rocket.
 }
 [sha:170720f788fbdeffc5f78926ee890fed6849569c]{
 -- Page 307, Offset 11685.
 -- そうとしか思えない。そうでなければあの吸血鬼を、あんな、30メートル近く吹き飛ばすのなんて不可能だ。
-I could only assume so. Otherwise, it wouldn't be possible to blow away that vampire like that, almost over 30 meters.
+I can't think what else it could be.
+ What else could possibly have the power to blow that vampire back almost thirty meters?
 }
 [sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
 -- Page 308, Offset 11686.
@@ -112,7 +119,7 @@ Whatever that was, it saved me.
 [sha:3f74d58914b4dd204e1190cca3ce563e314fc5b3]{
 -- Page 308, Offset 11688.
 -- 今のうちに態勢を立て直して……
-Without delay, I regain my bearings.
+I try and regain my footing while I have the chance.
 }
 [sha:5a3269a212b3e2399b25962f128e66d4832f5aa5]{
 -- Page 309, Offset 11689.
@@ -122,18 +129,17 @@ It's no use, my legs still feel heavy...!
 [sha:866fe4131073c6f573014f4b79c7713eeab5aee6]{
 -- Page 309, Offset 11690.
 -- 熱で張り付いたように、床から靴が持ち上がらない。
-// Could be too technical a translation, open for alternatives for 熱で張り付いたように、床から靴が持ち上がらない。
-I can't lift my shoes off the floor, as if they were heat activated adhesives.
+I can't lift my shoes off the floor, it's as if they've been melted in place by the heat.
 }
 [sha:54c7e328af9f9786b2b43c586560bd281eb9e0f3]{
 -- Page 309, Offset 11691.
 -- 無理をさせた体も酸素が足りていない。
-My body isn't getting enough oxygen after all the strain I put on it.
+My body is still low on oxygen after all the strain I put on it.
 }
 [sha:0a3e4c5fe841fe67c3d8638091ae786038cfb746]{
 -- Page 309, Offset 11692.
 -- 俺はまだ一歩だって動けない。
-I can't even move a single step.
+I still can't manage to take even a single step.
 }
 [sha:81c0b43d5fb4267c658b56a1855e75023369e246]{
 -- Page 310, Offset 11693.
@@ -143,7 +149,9 @@ On the other hand.
 [sha:56fa07e130d3e7b10f3ee43f78f4df0e346d9e36]{
 -- Page 310, Offset 11694.
 -- 視界には、彼方に飛ばされながらも平然と立ち上がり、右腕をかざす吸血鬼の姿があった。
-Right there, in my field of view: even after having been blown away, the vampire gets up, holding his right arm over his head.
+In my field of view I can still see the figure of the vampire,
+ standing unruffled even after having been blown back toward the opposite wall,
+ his right arm outstretched in front of him.
 }
 [sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
 -- Page 311, Offset 11695.
@@ -153,7 +161,7 @@ Right there, in my field of view: even after having been blown away, the vampire
 [sha:08d5a91c8ae8609542c1227035570d3e0749d3c0]{
 -- Page 311, Offset 11696.
 -- 今度こそ終わりだ。
-This time for sure, it's over.
+This time it's game over for sure.
 }
 [sha:5ef76a4dbdcce6ee48037a71c6449696d352342b]{
 -- Page 311, Offset 11697.
@@ -183,22 +191,22 @@ Terrified of my impending incineration, I involuntarily shut my eyes.
 [sha:c16c3f88f13610df2520b5bfec1db0f87914ec84]{
 -- Page 313, Offset 11702.
 -- 目を開けると、そこにはあの女生徒が立っていた。
-As I open my eyes, I see that female student standing there.
+When I open my eyes, the female student is standing in front of me.
 }
 [sha:153a239c88149bcac90ff96e1555f47a5e6ef46d]{
 -- Page 313, Offset 11703.
 -- 吸血鬼から放たれた炎は彼女の前で止まっている。
-The flames unleashed by the vampire come to a halt in front of her.
+The flames unleashed by the vampire have come to a halt in front of her.
 }
 [sha:abecee28f6d36bae1c5c95b6f9dacd526dc33569]{
 -- Page 314, Offset 11704.
 -- いや、正確には弾かれている。
-No, more precisely, they're being repelled.
+Or rather, they're being repelled.
 }
 [sha:50a48eacc89a5e33cd6e8f2150abfa651651320e]{
 -- Page 314, Offset 11705.
 -- 噴出する炎の舌は見えない壁に弾かれ、俺にも彼女にも届いていない。
-The erupting tongues of the flame are repelled by an invisible wall, reaching neither me nor her.
+The tongues of flame that spew toward us are repelled by an invisible wall, reaching neither me nor her.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 315, Offset 11706.
@@ -218,7 +226,9 @@ I want to call out to her, but I can't abandon the collapsed Noel-sensei.
 [sha:3f22f2b9ac6b3bfa1f82540a30ed961ef604e1bd]{
 -- Page 316, Offset 11709.
 -- 「待って、動かないように。ノエル先生なら無事です。そのままでいれば目を覚まします」
-"Wait, don't move. Noel-sensei is safe. If you leave her be, she'll wake up."
+"Wait, don't move.
+ Noel-sensei is safe, if that's what you're worried about.
+ She'll wake up on her own if you leave her be."
 }
 [sha:afcc224cf8eb5748fb416f6df14cfd094143ed37]{
 -- Page 316, Offset 11710.
@@ -238,8 +248,8 @@ It wasn't on my mind earlier, but that voice―――
 [sha:a6a72c1fe5bff485e676f0d2ae2acdf2d83c2036]{
 -- Page 317, Offset 11713.
 -- 「……はあ。できれば最後の時まで秘密にしておきたかったんですけど」
-// ciel my beloved
-"...Haa, if possible, I would've wanted to keep it a secret until the very end."
+// Ciel my beloved
+"Sigh... I'd have liked to keep it a secret until the very end."
 }
 [sha:f4f964d4ae05c848bc4dea9e9f7c1dbef9b6a833]{
 -- Page 318, Offset 11714.
@@ -249,12 +259,13 @@ The female student briskly puts on her glasses.
 [sha:797102a47dc3eacaf068d431dce0a62bf5aea776]{
 -- Page 318, Offset 11715.
 -- それだけで、見覚えのなかった少女の雰囲気が一変した。
-Just with that, the unfamiliar girl's presence completely changes.
+That alone is enough to completely transform the unfamiliar girl's appearance.
 }
 [sha:de4ffe27606a1918f338490f377d931e3038b0f5]{
 -- Page 319, Offset 11716.
 -- ……いや、俺はこの女生徒の顔を正しく見ていなかっただけだ。漠然と“見知らぬ女の子”と決めつけていた気がする。
-...No, I just didn't take a proper look at her face. I think I just vaguely labeled her as 'an unfamiliar girl'.
+No... I just never actually took a proper look at her face.
+ I think I just absent-mindedly wrote her off as some stranger.
 }
 [sha:51af53de477685532a2faf298297eb9c414b82a2]{
 -- Page 320, Offset 11717.
@@ -264,7 +275,8 @@ Just with that, the unfamiliar girl's presence completely changes.
 [sha:7dc244650604e04047ac1451ac709eb99fcc2ca8]{
 -- Page 320, Offset 11718.
 -- 「何故、はこちらの台詞です。……まあ、こうなってしまった以上はどうでもいい問題ですが。
-"'Why', I should be the one asking you... Anyway, now that it's come to this, that question doesn't even matter.
+"'Why' is exactly the question I'd like to ask you.
+ Well... not that it matters now that it's come to this.
 }
 [sha:5601f7c9b19341a58e3b1d4ebfa2470c088d2f6a]{
 -- Page 320, Offset 11719.
@@ -279,47 +291,49 @@ Did you hear about Executors from that blonde True Ancestor?"
 [sha:9967784765c42556c9a2778e1f3440ea48c06a3a]{
 -- Page 321, Offset 11721.
 -- ……代行者。
-...Executors.
+Executors...
 }
 [sha:cd7ea84f98061c456bf149fa232c4f6b13d2049b]{
 -- Page 321, Offset 11722.
 -- 吸血鬼を殺す為に派遣される、教会の異端狩り。
-Dispatched to kill vampires, they are the Church's heretic hunters.
+They're the Church's heretic hunters, dispatched to kill vampires.
 }
 [sha:b84215b9e18fd15821071186a08f701e4be37e12]{
 -- Page 321, Offset 11723.
 -- それがシエル先輩だった……？
-That's who Ciel-senpai is...?
+Is that who Ciel-senpai is...?
 }
 [sha:5c2768a5ae9af253c15cc7d0fe6ec66767f4f48b]{
 -- Page 321, Offset 11724.
 -- じゃあノエル先生も……？
-Then Noel-sensei too...?
+Then, does that mean Noel-sensei is as well...?
 }
 [sha:c007b0d32d355a233a431b94d722bfe78f6c3e8c]{
 -- Page 322, Offset 11725.
 -- そういえばあいつも言ってた。
-Come to think of it, she also said that.
+Come to think of it, Arcueid mentioned something about this.
 }
 [sha:bfd25dc8b11741e399b7d283ff72b5b418bc227c]{
 -- Page 322, Offset 11726.
 -- “代行者は基本、師匠と弟子のツーマンセル”だって……！
-'Executors are, fundamentally, a two-man cell, one master and one disciple'...!
+// Backref 6674.
+She said their policy is always to move in master-disciple pairs...!
 }
 [sha:e4bbbf714c6af4b842e7ae8339a0d7bf06c5742f]{
 -- Page 323, Offset 11727.
 -- 「聞いているようですね。話が早くて助かります。
-"It seems she told you. Good, you're quick on the uptake.
+"It seems you have. Good, I don't need to explain then.
 }
 [sha:42588aacd9e6ad2cbaaecdcba2c6f3643ea610d3]{
 -- Page 323, Offset 11728.
 -- ……そういう事ですから、遠野くんはそのまま一歩も動かないように。後の処理は、先生に代わって私がします」
-...That's how it is, so Tohno-kun, please don't move an inch. Instead of Sensei, I'll take care of the rest."
+Well... that's the way it is, so please just stay put for the minute Tohno-kun.
+ I'll take care of the rest in Sensei's place."
 }
 [sha:420476df0253b600095f2c9d3e5c315a0e9f230b]{
 -- Page 324, Offset 11729.
 -- シエル先輩は俺から視線を切り、遠方の吸血鬼と向き合った。
-Ciel-senpai looks away from me and faces the vampire in the distance.
+Ciel-senpai turns away from me to face the vampire in the distance.
 }
 [sha:9781abe9e8184b81e9ecd686f73cc5a8ff17875b]{
 -- Page 324, Offset 11730.
@@ -329,22 +343,23 @@ Ciel-senpai looks away from me and faces the vampire in the distance.
 [sha:699b71e082043be72eb4293d1454847a279b44d9]{
 -- Page 324, Offset 11731.
 -- どうして先輩が、とも訊きたいし、
-I wanted to ask her 'why',
+I want to ask her %{i}why%{/i}.
 }
 [sha:ea116f02e0d13398b38c78f80b486a5ffa4f1dba]{
 -- Page 324, Offset 11732.
 -- 先輩にあの化け物を倒せるとも思えない。
-And I don't think Senpai can defeat that monster.
+I can't see how Senpai can possibly defeat that monster.
 }
 [sha:594c2e9e2cff7f3d8d870abaae18074c2b034e12]{
 -- Page 324, Offset 11733.
 -- ……それでも、たったいま助けられた事実が、俺の体を静止させている。
-...But, the fact that she just saved me forces my body still.
+Even so... the fact that she just saved me forces me to hold my tongue.
 }
 [sha:966b12bcc2f244d8c77fba44e9c228b4ea2597dc]{
 -- Page 325, Offset 11734.
 -- 「“……代行者か。教会の<狗|いぬ>らしく、鼻だけは利くとみえる”」
-"...An Executor? Like the dogs of the Church they are, it appears they have good noses, but nothing more."
+"An executor...?
+ It would appear you at least have a good nose, as befits a dog of the Church."
 }
 [sha:d40835c646afec54bd1c1af7a300bd391c22f76b]{
 -- Page 325, Offset 11735.
@@ -354,17 +369,21 @@ Vlov lowers his arm.
 [sha:6d63c1f58d8a57daa93479ad8f38e73dd934cbc7]{
 -- Page 325, Offset 11736.
 -- 炎の手が通じないと認めたのか、眼力だけで目前の敵と対峙する。
-Possibly recognizing that his hand of flames isn't working, he confronts the enemy before him by simply observing her.
+Possibly recognizing that his hand of flames isn't working,
+ he falls back to carefully observing the enemy before him.
 }
 [sha:6e33b6c147420267d2bd9dad029da6fbfa6855d9]{
 -- Page 326, Offset 11737.
 -- 「“……だが躾けはなっていない。このような僻地まで足を運ぶとは、飢えた獣そのものだ。代行者はいつから、騙し討ちを好むケモノになった？”」
-"...But you lack discipline. To make their way into such a remote place, that is the mark of a starving animal.When did the Executors become such foul-play-loving beasts?"
+// 飢えた獣 in the vein of 飢えたる犬は棒を恐れず?
+"...But you lack discipline.
+ You must be starving animals indeed to stray into a backwater such as this.
+ When did the executors become beasts that delighted in such foul play?"
 }
 [sha:53a6a17a74cc4918a6cd747d289e118c72773148]{
 -- Page 327, Offset 11738.
 -- 「飢えているのは貴方の方でしょう。
-"The one who's starving is you.
+"I believe you are the one who is starving here.
 }
 [sha:c842846b2286778ba249582141969f53e138af49]{
 -- Page 327, Offset 11739.
