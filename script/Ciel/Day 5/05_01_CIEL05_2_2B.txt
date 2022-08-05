@@ -1,57 +1,62 @@
 [sha:138e2a4cc45b23ff80f15b3ed96f42d8da1e8540]{
 -- Page 10012, Offset 11823.
 -- 吹き荒れる白い呪い。
-The white curse blows violently.
+His white curse blows violently.
 }
 [sha:773cca7d7bf4c0b1a41eaf7d7c91dff5ce201f63]{
 -- Page 10012, Offset 11824.
 -- その中心に、
-At its core―――
+// This page restructured so as to be less heinous in EN
+At its core is―――
 }
 [sha:d2722da1fd6935c1a85241d9b6c1eb5f83ec059d]{
 -- Page 10012, Offset 11825.
 -- 何か、
-something―――
+something.
 }
 [sha:e7786b1e704a3dcd4cceae123f2871f35f230820]{
 -- Page 10012, Offset 11826.
 -- 俺の眼を以てしても、
-even with %{i}my eyes%{/i}―――
+A dark pit.
 }
 [sha:6745e7b56783e9c9b84699f856d228ea5c647936]{
 -- Page 10012, Offset 11827.
 -- 底の見えない、
-I couldn't see the bottom of―――
+Even with %{i}my%{/i} eyes―――
 }
 [sha:1f10560383c24f35890e69b5a3ac8fc943d337fa]{
 -- Page 10012, Offset 11828.
 -- 暗い穴、が、
-%{i}that%{/i} dark hole.
+I can't see the bottom of it.
 }
 [sha:2a69e1eb1337b7d7cea2754ba716d7e663554210]{
 -- Page 361, Offset 11829.
 -- 「二十七祖……！　まさか成り立て……!?　そんな大物がどうして今、よりにもよってこの街に来るんですか……!?」
-"The Twenty-Seven Ancestors...! No way, he's one of them...!? Why is such a big name now, and of all places right here in this city...?!"
+"The Twenty-Seven Ancestors...!
+ You're saying he's one of %{i}them%{/i}...!?
+ Why did a heavyweight like him have to show up in this city now of all times...?!"
 }
 [sha:b488e5391ed3de2ad7ddd2fbc3c19d7254329869]{
 -- Page 362, Offset 11830.
 -- 吹雪の中で先輩が叫ぶ。
-Senpai shouts in the middle of the blizzard.
+Senpai shouts from within the middle of the blizzard.
 }
 [sha:5abbf58d6704c2d5ead54790e33dc5080b298d71]{
 -- Page 362, Offset 11831.
 -- 広間は完全に凍り付いていた。
-The large room is completely frozen.
+The entire room we stand in has been frozen solid.
 }
 [sha:ba6ebc89e21d38d5aaf228b9b139841129e7d49e]{
 -- Page 363, Offset 11832.
 -- ……血液を消耗させようとしたのが間違いだった。さっきの炎なんかより、こちらの方が何倍も<性|た><質|ち>が悪い。
-...Trying to exhaust his blood was a mistake. Compared to the flames from earlier, this is many times more vicious.
+// Callback line was actually _魔力_を消耗させます so kinda a mismatch but you da author
+We shouldn't have tried to make him waste all his blood.
+ This is far more vicious than the flames from earlier.
 }
 [sha:8ae34a3397bd02a5b83b7727347da304ec0c9f9b]{
 -- Page 364, Offset 11833.
 -- 先輩は失敗した。
-Senpai lost.
+Senpai messed up.
 }
 [sha:a649deb576e82546e8ed77c18bbd32d91b860e38]{
 -- Page 364, Offset 11834.
@@ -61,27 +66,30 @@ She shouldn't have exhausted that vampire.
 [sha:16c711fb6cbadda96abdd671a0ad6a0b7ad297dc]{
 -- Page 364, Offset 11835.
 -- ヤツは満腹の時にこそ、一気に倒す相手だったんだ……！
-On a full stomach, he's a foe that could be defeated in one go...!
+On a full stomach, he's a foe that needs to be cut down in one fell swoop...!
 }
 [sha:f4305c58a1036b68c69653a9d5e44a9782bc73de]{
 -- Page 365, Offset 11836.
 -- 「遠野くん、広間の外に！　ここにいると１分持ちません！」
-"Tohno-kun, go outside! You won't last a minute here!"
+"Tohno-kun, get out of this chamber! You won't last a minute in here!"
 }
 [sha:3854584738f5bc728a1cae4b1fce650f3bdbda24]{
 -- Page 365, Offset 11837.
 -- 「そ、そりゃ逃げるけど、先輩は!?」
-"W-Well, I'll run away, but what about you, Senpai!?"
+"I-I mean yeah, I'm outta here, but what about you, Senpai!?"
 }
 [sha:669fe9c5f80f360cab03ede87bff9966cc652daa]{
 -- Page 365, Offset 11838.
 -- 「っ……今の装備では祖の相手は……いえ、それでも日中のうちに倒しきらないと……！」
-"Tch... Facing an Ancestor with my current equipment... no, be that as it may, I have to defeat him while it's still daytime!"
+// The pregnant は…… kinda needs some help in EN imo
+"%{i}Tch%{/i}...
+ Facing an Ancestor with my current equipment is gonna be tough...
+ Still, be that as it may, I have to defeat him while it's still light out!"
 }
 [sha:f1aa922b83546e6c64a634bb35ef3c7f3004578c]{
 -- Page 366, Offset 11839.
 -- 白い嵐の中、先輩は走り出した。
-Inside the white storm, Senpai breaks into a run.
+Inside the white tempest, Senpai breaks into a run.
 }
 [sha:d004ce3975bf8ef3dbfda771b0e93f5e55aef796]{
 -- Page 366, Offset 11840.
@@ -91,27 +99,27 @@ Her target is that motionless vampire, Vlov.
 [sha:ff915af436d5020c73e2805dd9fa3af2e827839e]{
 -- Page 366, Offset 11841.
 -- ヤツも苦しいのか、先輩を睨む事さえできていない。
-Maybe it's because of the pain, but he couldn't even so much as glare at her.
+Seems like he must be hurting too, as he isn't even able to muster a glare in her direction.
 }
 [sha:144cec8bcde8e611be749a8b8bfe735c98848fae]{
 -- Page 367, Offset 11842.
 -- ……なら勝機はある。
-...If so, we have a chance at victory.
+If he is... then we have a chance.
 }
 [sha:3f9d0746e789e44af5295284f9120795838967cc]{
 -- Page 367, Offset 11843.
 -- 接近すれば。近寄れさえすれば、まだ勝ち目がある筈だ。
-If she can get close to him, or even just draw closer to him, she can still win.
+She just needs to get close. If she can get within range of him, we've still got a shot at wining.
 }
 [sha:224c74c9bbfe6ee2b8bcab75e07b6871e13f3e1f]{
 -- Page 368, Offset 11844.
 -- しかしヴローヴと先輩の距離は30メートル近い。
-However, the distance between Vlov and Senpai is around 30 meters.
+However, there's almost thirty meters separating Vlov from Senpai.
 }
 [sha:ddb2e5de43044e4f249f5df4d2e83ddc944e6ff2]{
 -- Page 368, Offset 11845.
 -- 加えて、ヴローヴの周囲には生き残っていた死者の群れ。
-In addition, he's surrounded by some of the surviving Dead.
+On top of that, he's surrounded by a swarm of the surviving Dead.
 }
 [sha:23b5897617553545d332cc77b419fd449841aee1]{
 -- Page 368, Offset 11846.
@@ -121,22 +129,23 @@ There's no way I could reach him.
 [sha:34f93df569a66450cf7a41e05ec93870807a90cf]{
 -- Page 368, Offset 11847.
 -- ノエル先生でもこの状況では難しいだろう。
-Even for Noel-sensei, this would be a difficult situation.
+I'm pretty sure even Noel-sensei would struggle in this situation.
 }
 [sha:badd6cfe36201009c0fe34a9b26369341364a708]{
 -- Page 369, Offset 11848.
 -- その逆境を、彼女は腕の一振りで<覆|くつがえ>した。
-She sweeps away such adversity in a single swing.
+She sweeps away such adversity with a single swing of her arm.
 }
 [sha:5fd29ffb37804f98c93adc5a7635f0abce37dc5c]{
 -- Page 369, Offset 11849.
 -- 細い針のような剣を五連射。
-Five consecutive shots of a blade, thin as a needle.
+She fires off five needle-thin blades in quick succession.
 }
 [sha:0a7c50bfba76fc0a4d648a32dc1215b2d96851c4]{
 -- Page 369, Offset 11850.
 -- 一息のうちに左右合わせて10体もの死者を串刺しにし、停止させ、そのただ中をすり抜け、立ち尽くすヴローヴへ肉薄する。
-In the blink of an eye, a total of ten zombies on both sides are skewered and brought to a halt. She quickly makes her way through them, closing in on the motionless Vlov.
+In the blink of an eye, at least ten of the Dead milling around Vlov are skewered and brought to a halt.
+ She slips right through that opening, closing in on the motionless figure of Vlov.
 }
 [sha:ce6f4a23e83e966a733fb682e22445006f56187c]{
 -- Page 370, Offset 11851.
@@ -147,7 +156,7 @@ In the blink of an eye, a total of ten zombies on both sides are skewered and br
 [sha:f1bb4386a4f63c65a3914dce1da8d41a9ba3759a]{
 -- Page 370, Offset 11852.
 -- 勝利を確信したのは俺か、先輩か。
-I wonder who's certain of victory, Senpai, or I.
+Is it me that's certain of victory? Or Senpai?
 }
 [sha:66243e4f2ee35ea222bb3b0cb83895d53bb9fb8f]{
 -- Page 370, Offset 11853.
@@ -157,18 +166,18 @@ Vlov snaps his fingers.
 [sha:f68b15fe66857993a225f508d7281c1db72e41bf]{
 -- Page 370, Offset 11854.
 -- 白い嵐の中、不釣り合いな反応があった。
-// Resulting fallout for 反応,
-The resulting fallout is ill-matched to the middle of this white storm.
+Within this white storm,
+ his action begets a truly disproportionate reaction.
 }
 [sha:2df95e1fd0186ce7e2835c08195a1a9bbc3ee399]{
 -- Page 371, Offset 11855.
 -- 先輩が停止させた死者たち。
-The Dead that Senpai brought to a halt.
+The Dead that Senpai brought to a halt―――
 }
 [sha:44477a6f828c12c8ba59490c02aca996199b5ec8]{
 -- Page 371, Offset 11856.
 -- その腹にたまったガスが、ヴローヴの合図に呼応して着火する。
-The gas contained in their stomach ignites in response to Vlov's signal.
+At Vlov's signal, the gas accumulated in their stomachs detonates.
 }
 [sha:69de06558581b8ff41d7d621733bb86a08b7cefa]{
 -- Page 372, Offset 11857.
@@ -178,42 +187,44 @@ The gas contained in their stomach ignites in response to Vlov's signal.
 [sha:2e697702d901c893b6d3db0c10a3342e0c15889e]{
 -- Page 372, Offset 11858.
 -- 吹雪と粉塵にまみれて先輩の姿が見えない。
-Covered by the blizzard and dust, Senpai is nowhere to be seen.
+Senpai is nowhere to be seen.
+ She's been completely obscured by the combination of the blizzard and dust.
 }
 [sha:4aacde28630304fbf43d04d6f6e230fc4ae0872b]{
 -- Page 372, Offset 11859.
 -- 最悪なことに、あの吸血鬼には自己保身というものがない。
-Even worse, that vampire has no sense of self-preservation.
+To make matters worse, that vampire has no sense of self-preservation.
 }
 [sha:2213a0e64232ca85ac9bf051ea87683e8231ada5]{
 -- Page 373, Offset 11860.
 -- 人体だけ燃やす炎でも、吹雪でもまだマシだった。
-Flames that only burn humans and that blizzard are one thing, but this is even worse.
+I'd take flames that only burn humans and blizzards over this any day.
 }
 [sha:fbc890e609e3d20183acc422d827b7a9ca6464bf]{
 -- Page 373, Offset 11861.
 -- 地下においてもっとも恐れるべきは崩落だ。天井を支える柱が吹き飛んでは、全員生き埋めになるしかない……！
-What should be feared the most underground is a cave-in. If the pillars supporting the ceiling are blown off, everyone will certainly be buried alive...!
+The most terrifying thing that can happen underground is a cave-in.
+ If the pillars supporting the ceiling get blown up, everyone here will be buried alive...!
 }
 [sha:37acfa87a236cef26e94de16ff50468c687082e2]{
 -- Page 374, Offset 11862.
 -- 広場は崩落していく。
-The cavity is collapsing.
+The chamber is collapsing.
 }
 [sha:a5825fc6fd92ff8e42d261d391feb1c5054989c5]{
 -- Page 374, Offset 11863.
 -- ヴローヴは何も考えていない。
-Vlov didn't think of anything.
+Vlov didn't think ahead at all.
 }
 [sha:e37dfb5c704c9f5862ef1eeaf748f3902cd9bc3d]{
 -- Page 374, Offset 11864.
 -- 自動的に、迫り来る外敵を攻撃しているだけ。
-He simply reflexively attacked the approaching enemy.
+All he did was reflexively attack the approaching enemy.
 }
 [sha:0910393091200b51229705eff18b376f913ded8d]{
 -- Page 375, Offset 11865.
 -- 考えろ。これが最後の行動だ。
-Think. This is my final move.
+Think. I've only got once chance to make a move.
 }
 [sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
 -- Page 375, Offset 11866. Mods: @k, @e.
