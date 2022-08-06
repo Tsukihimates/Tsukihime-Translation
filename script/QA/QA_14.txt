@@ -57,13 +57,14 @@ affection meter...
 -- Page 35, Offset 43382.
 -- なぜ人類は自分の事だけ棚にあげるのか。
 Why is it that humans are only blind to their%{n}
-own shortcomings?
+own shortcomings?%{n}
 }
 [sha:e2e5a5ee467d38f8d27c8c379f919ee57e2b79ec]{
 -- Page 35, Offset 43383.
 -- 壊れたクレーンかよ。
 // Like a crane game crane? Neco arc high-rise construction services?
- What are you, a broken crane?
+// Or is this connecting on 棚にあげる and now lost in translation?
+What are you, a broken crane?
 }
 [sha:876c578d30ed16de3ec3236578f91bc7a2e78948]{
 -- Page 36, Offset 43384.
@@ -99,13 +100,13 @@ mind that you're in just as much trouble as they are.
 [sha:7fd0810ba28845e4d53ac32616844d7d28a9c9b9]{
 -- Page 39, Offset 43390.
 -- 自分の安全を第一にしながら、
-Do as much as you can to help others, but make%{n}
+Do as much as you can to help others, but%{n}
 }
 [sha:f47688ea87e583b46f83d597ec26a80e70adf537]{
 -- Page 39, Offset 43391.
 -- 助けられる範囲で手を伸ばす―――
-sure that your own safety is your number%{n}
-one priority.
+make sure that your own safety is your%{n}
+number one priority.
 }
 [sha:e300e37edc36ac4b0f59304cdbf844ecabeabcb1]{
 -- Page 40, Offset 43392.
@@ -202,7 +203,7 @@ Nyeh heh heh.
 [sha:ba03f83e5e0eeaf0093cd4ed97071b435c0bb73f]{
 -- Page 50, Offset 43409.
 -- 参考までに訊くけど、もしこれでノエルと
-Just curious, but what would do you if this%{n}
+Just curious, but what would you do if this%{n}
 }
 [sha:7bba31ec5e77a9fec0cd7d2dcfcfd772aa38f859]{
 -- Page 50, Offset 43410.
@@ -239,7 +240,8 @@ lightly,
 [sha:edc17f9313f10d74a88879e5eb83f12327921c13]{
 -- Page 53, Offset 43416.
 -- ノエルさんには、ちょっと口では言えないものを♥
- but I'd be sure to arrange something unspeakable for Noel-san ♥
+ but I'd be sure to arrange something unspeakable%{n}
+for Noel-san ♥
 }
 [sha:81685db434e2545113695018cb554f31639a7367]{
 -- Page 54, Offset 43417.
