@@ -1,12 +1,12 @@
 [sha:d216c8020e0868f33200c15448edcf0df0a05822]{
 -- Page 10016, Offset 12026.
 -- ……気まずい。
-...This is awkward.
+This is awkward...
 }
 [sha:36b569e7dcb6aa40b43c9e1d7b6d4345a0b18b5a]{
 -- Page 10016, Offset 12027.
 -- 不可抗力とは言え、ノエル先生と抱き合っていたところをバッチリ見られてしまった。
-Act of God or no, she clearly saw Noel-sensei and I embracing each other.
+Act of God or not, she clearly saw Noel-sensei and I embracing each other.
 }
 [sha:b391a4f798d33d3e8882aa71155bb0268996c219]{
 -- Page 437, Offset 12028.
@@ -16,7 +16,7 @@ Act of God or no, she clearly saw Noel-sensei and I embracing each other.
 [sha:2e1c6783f232219e9812fd4bd1177e345dc46540]{
 -- Page 437, Offset 12029.
 -- 「ノエル先生は教会支部に連絡を。
-"Noel-sensei, go contact the local Church branch.
+"Noel-sensei, go contact the local branch of the Church.
 }
 [sha:98d732748e9b206a2e2240d5b466dd5c1210e326]{
 -- Page 437, Offset 12030.
@@ -26,37 +26,44 @@ I want to declare an Urban Suppression Action, will that be possible?"
 [sha:b4fff02d05e05d64284d93007c6ae84aec4c3f50]{
 -- Page 438, Offset 12031. Mods: @k, @e.
 -- 「んー、通るけど無意味じゃない？　この区域に代行者のストックはないもの。
-"Mmm, it should be, but isn't that meaningless? There aren't many Executors available in this area after all.
+"Hmm, it should be, but would it make a difference?
+ There aren't any Executors hanging around in this territory after all.
 }
 [sha:567fd31f93d070b910797318fa19379ddf3bd21f]{
 -- Page 438, Offset 12032. Glued. Mods: @x.
 -- 許可は下りるけど戦力増加は絶望的よ。やるならわたしたちだけになるわ」
- You'll get permission, but expecting an increase in our fighting strength is hopeless. When push comes to shove, the two of us will be on our own."
+ You'll get permission, but don't go expecting anyone to back us up in a fight.
+ When push comes to shove, the two of us will be on our own."
 }
 [sha:85d241671aed87c16b1664384539ba6355a0f2dd]{
 -- Page 439, Offset 12033.
 -- 「……そうですか。では報道規制、警察組織への牽制を申告してください。先生、それぐらいの人脈はありますよね？」
-"...I see. In that case, please arrange for restrictions on freedom of information and on police organizations. You have the network for that, don't you, Sensei?"
+"I see...
+ In that case, please arrange for a media blackout and a suspension of police activity.
+ You have some strings you can pull on for that, don't you Sensei?"
 }
 [sha:1ac378a16e2e01955b3f0ba8202a43f828326a3f]{
 -- Page 440, Offset 12034.
 -- 「はいはーい、任されましたー♪　こんな危ないところにいたくないし、ササッと手続きにいってきまーす！
-"Yes yes, leave it to me ♪. I don't want to be in such a dangerous place, so I'll get down to it right now!
+"Yes yes, leave it to me ♪
+ I don't want to hang around in the danger zone any longer than I have to, so I'll go take care of that right away!
 }
 [sha:561b813c83781993b5190b8986a09b72b6412074]{
 -- Page 440, Offset 12035.
 -- じゃあね志貴クンーー！　赤くなって、かっわいー♪」
-Bye-bye Shiki-kun! You're so cute when you're blushing ♪."
+// Broken to avoid awkward ♪" on new line alone
+Bye-bye Shiki-kun!%{n}
+You're so cute when you're blushing ♪"
 }
 [sha:f7fd7fb8acb719dc5fc56a30d81582101d9ead98]{
 -- Page 441, Offset 12036.
 -- 何が愉しいのか、ノエル先生はブンブンと手を振りながら跳び去っていった。
-With an amused look on her face, Noel-sensei waves her hand, making a whooshing sound as she jumps away.
+With an amused look on her face, Noel-sensei leaps away while vigorously waving back at us.
 }
 [sha:b188261c0936ea56c1300b95681f07b369e57a9d]{
 -- Page 441, Offset 12037.
 -- ……本当に、この傾斜になった瓦礫の山をびょんびょんと跳んでいった。
-...Seriously, she's bouncing her way up the mountain of debris.
+She's seriously bounding right up the side of that steep mountain of debris...
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 442, Offset 12038.
@@ -66,12 +73,12 @@ With an amused look on her face, Noel-sensei waves her hand, making a whooshing 
 [sha:d00a8dd07efc1c58ab44f8498432a97254d90886]{
 -- Page 442, Offset 12039.
 -- 一方、先輩は口を閉ざしたまま、ぱんぱん、と所在なげに制服についたホコリなどをはたいていた。
-On the other hand, Senpai silently and idly brushes away the dust on her uniform.
+Senpai, on the other hand, just stands there in silence, idly brushing away the dust that had settled on her uniform.
 }
 [sha:26a391f9cfe3d0b08d27da9d20a714bb647f9c4b]{
 -- Page 443, Offset 12040.
 -- ……この場において異常なのは先輩の方だ。
-...Actually, Senpai's the one acting weird here.
+To be honest... Senpai's the one who seems out of place here.
 }
 [sha:6c1cc4d192680a83985863287475fe186b0df945]{
 -- Page 443, Offset 12041.
@@ -86,78 +93,84 @@ I think I have the right to ask her who exactly she is.
 [sha:9e981e5d81d9e3c1280ed7c15d948e1993d4578e]{
 -- Page 444, Offset 12043.
 -- ……でも、何を言えばいいのか分からなかった。
-...But, I don't know what I should say.
+But... I don't know exactly what I should say.
 }
 [sha:a556a7a50f0b1895ac0f661da12456f2c9fc15f1]{
 -- Page 445, Offset 12044.
 -- 先輩は何者なんですか、とか、
-Something like, 'Who exactly are you?'
+'Just who are you?'
 }
 [sha:80e0dbdb60682a40ca23aa5d45fdfe5d1c97552c]{
 -- Page 445, Offset 12045.
--- 怪我はなかったんですか、とか、
-Or, 'Are you injured?'
+-- 怪我はなかったんですか、とか
+'Are you injured?'
 }
 [sha:987abaa80baeffc9de4a042381a4bebd30b621a6]{
 -- Page 445, Offset 12046.
 -- これからどうするんですか、とか、
-Or, 'What are you going to do from now on?'
+'What are you going to do now?'
 }
 [sha:a84bb67564002289041a3d33448e8862d4ae6983]{
 -- Page 445, Offset 12047.
 -- 先生とは何もなかったです、とか。
-Or, 'Nothing happened between me and Sensei'
+'Nothing happened between me and Sensei.'
 }
 [sha:1fbef179f0d2011e8746c7080293cc6dfc38be0e]{
 -- Page 445, Offset 12048.
 -- そんなありきたりの言葉が、どうしても口からでない。
-I couldn't speak out any of these common phrases.
+No matter how hard I try, I can't bring myself to say any of those obvious phrases.
 }
 [sha:d133ff8edb6fcc2e9cd61d64c84267fd9effecc7]{
 -- Page 446, Offset 12049.
 -- 空を見れば、もう夕暮れも終わりかけている。
-Looking at the sky, dusk is coming to an end.
+Judging by the sky, dusk is coming to an end.
 }
 [sha:189ad3fcf33e258a0e603e9feff0ef4b68a8828b]{
 -- Page 446, Offset 12050.
 -- 日没まであとわずか。
-The sun will completely set very soon.
+Not long now before sunset.
 }
 [sha:99d3c6738dfd0ee93c014d482eeb0622784fc029]{
 -- Page 446, Offset 12051.
 -- まわりのデパートから位置を逆算すると、この陥没した区間は中央公園があった区間だ。
-Moving back from the nearby department store, the section that collapsed includes the central park.
+Working backwards from where we're located with respect to the department stores,
+ the caved-in area we're standing in must have previously been the central park.
 }
 [sha:09faa386914b07cda753320d1a5d9aa8fe2d6007]{
 -- Page 447, Offset 12052.
 -- 瓦礫で埋まったクレーター。公園の地下にあんな広間があった事を、誰が信じてくれるだろう。
-A rubble-filled crater. Who would have thought that there would be such a large space under the park?
+A rubble-filled crater.
+ Who would have thought that there'd be a massive chamber like that under the park?
 }
 [sha:005fa2b9f9b1200d8dc1931df4525c527d54dcc2]{
 -- Page 448, Offset 12053.
 -- ここから仰ぎ見る地上には、すでにバリケードらしきものが設置されていた。
-Looking up at the surface, I can already see barricade-like things being installed.
+Looking up at the surface, I can see that some sort of barricade has already been installed.
 }
 [sha:6abdd8650c25151b375a829d3ed30427dd8461ca]{
 -- Page 448, Offset 12054.
 -- 陥没事故があったというのに野次馬の姿は見られない。これだけの大惨事だ。少なくとも報道ヘリの一つや二つは飛んでいるべきなのに、それもない。
-Even though there has been a cave-in, there are no onlookers. This is how big of a catastrophe this is. There should have been at the very least one or two news helicopters flying above, but there are none.
+Even though there's been a cave-in, I can't spot any rubberneckers.
+ This is a disaster on a massive scale.
+ I'd expect to see at least one or two news helicopters circling overhead, but there don't seem to be any of those either.
 }
 [sha:4358fd64e07f840fb2d1dbbd3fd1de37841d02cd]{
 -- Page 449, Offset 12055.
 -- 「報道はありませんよ。これはあくまで事故です。地下にたまったガス爆発という事で付近住民の避難も行われています。
-"There isn't anything to cover. This is purely an accident. We're also evacuating neighboring residents under the pretext of an underground gas explosion.
+"There isn't anything to cover.
+ This is nothing more than an accident.
+ We're also evacuating neighboring residents under the pretext of an underground gas explosion.
 }
 [sha:05c1958eb5b45b0f975ac243be766351d3a617e9]{
 -- Page 449, Offset 12056.
 -- ……この後に起こる事に関して準備が出来ているのは、私とこの周囲を封鎖した警察の人間、そして貴方だけです」
 // tling this literally reads kinda dumb imo
-...The only people who  %{i}truly%{/i} understand what's going on here are: me, the policemen who have cordoned off the area, and you."
+The only people who know what's %{i}really%{/i} going on here are me, the policeman who have cordoned off the area... and you."
 }
 [sha:4112dc60b4a7d813ea3fed5b647e05d1c2f6f9a1]{
 -- Page 450, Offset 12057. Mods: @n.
 -- 「……そうですか。あの地下の通路は？
-"...I see. What about the underground pathways?
+"I see... What about the underground passageways?
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 450, Offset 12058. Glued.
@@ -167,27 +180,31 @@ Even though there has been a cave-in, there are no onlookers. This is how big of
 [sha:d5081c3edd42983e3715ec230eb5e72377aa346f]{
 -- Page 450, Offset 12059.
 -- 「この崩落で潰れてしまいました。痕跡は発見されるでしょうが、無かった事にされるでしょうね」
-"Crushed when everything collapsed. They'll surely find some remains, but they'll probably just pretend nothing ever happened."
+"Crushed when everything collapsed.
+ I'm sure they'll find some some remains, but I doubt they'll think anything of it."
 }
 [sha:3c87fd74ceaf21e6a478e4b585ea60e826846dd2]{
 -- Page 450, Offset 12060.
 -- 「……それは、先輩たちがそう仕向けるんですか？」
-"...Is that what you and your group are pushing for?"
+"Is that because you guys are going to put pressure on them...?"
 }
 [sha:6bbb3f925724307e8ec9f1ba793bd29ba3b9301a]{
 -- Page 451, Offset 12061.
 -- 「いえ。あくまでこの国の警察の判断です。彼等もここに地下空洞があった事は調査するでしょう。ですがそれで終わりです。だって、死体を集めて血を抜く怪物がいるなんて、それこそ意味が分からない。
-"No. This is entirely a decision made by this country's police. They will probably also investigate why there was a cave down here, but it'll end at that. After all, who would imagine this was the work of a monster who collected corpses and drained them of their blood?
+"No.
+ That's entirely down to the police in this country.
+ I'm sure they'll uncover that there were underground passages down here, but they won't go any further.
+ I mean, who would believe that this was all the work of a monster who collected corpses and drained them for their blood?
 }
 [sha:89c72aedd7fd9ec20c9d59fc12e3f9e203d4d3bb]{
 -- Page 451, Offset 12062.
 -- ここで何十人もの行方不明者の遺体らしきものが発見された、でおしまいです」
-Once the dozens of bodies that seem to correspond to missing people are found, that will be the end."
+The report will simply state that remains corresponding to dozens of missing people were found, nothing more."
 }
 [sha:93765a2c757fe25d228cfb120e02379d66e05fc7]{
 -- Page 452, Offset 12063.
 -- 先輩の説明に、そうか、とだけ返答する。
-I could only simply acquiesce to Senpai's explanation.
+All I can do is nod dumbly at Senpai's explanation.
 }
 [sha:fb41cb719dd7260f27c0522ebc931afff9e51638]{
 -- Page 452, Offset 12064.
