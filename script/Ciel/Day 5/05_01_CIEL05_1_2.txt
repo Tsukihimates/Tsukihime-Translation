@@ -6,12 +6,12 @@ I calmly assess the situation.
 [sha:8ae1ca318567519473b5ce4689b7fcd043f05e69]{
 -- Page 287, Offset 11622.
 -- 『女が吸血鬼に血肉を吸われる。』
-'She will get her blood sucked by that vampire.'
+'Her blood will be sucked by that vampire.'
 }
 [sha:97a06f70585c9b3b1796fc501134bdadcad4602c]{
 -- Page 287, Offset 11623.
 -- それを俺は許容できない。目の当たりにするだけで意識が焼き切れそうになる。
-I can't allow that. Just imagining it sets my mind ablaze.
+I can't allow that. Just seeing what's in front of me right now is already enough to set my mind ablaze.
 }
 [sha:c6059133873dbcf37077c64d06169b536a9f0ecd]{
 -- Page 287, Offset 11624.
@@ -51,12 +51,13 @@ I'll exploit the fatal weak spot of a vampire feeding on its prey.
 [sha:9036af130fce412efb58cd485229299a8f5f0722]{
 -- Page 289, Offset 11631.
 -- ヒトであれ吸血鬼であれ、食事中は、暴力への対応力が低下する。
-Whether human or vampire, the ability to respond to an attack while feeding is reduced.
+Whether you're a human or a vampire,
+ you're not going to be able to fend off an attack as easily if you're in the middle of a meal.
 }
 [sha:278ed0d51321f1fd76157658be7e278211d803b0]{
 -- Page 290, Offset 11632.
 -- 「ひゃ―――あ！　ああ、あ―――ああぁあああ……！」
-"Ahhhh―――a! Aaaaaa, aaa―――ahhhh...!"
+"%{i}Ahhhh―――a! Aaaaaa, aaa―――ahhhh%{/i}...!"
 }
 [sha:2019b538a49f1dd1ec80ddad3d12be80c297ecbc]{
 -- Page 290, Offset 11633.
@@ -66,18 +67,18 @@ The woman's body convulses.
 [sha:ae220394383831a71293373526d155bace7244d2]{
 -- Page 290, Offset 11634.
 -- 絞り上げられる命の音。
-The sound of life being wrung out.
+The sound of her life being wrung out.
 }
 [sha:e410aef7a503e60fe04731175287048da5b7e955]{
 -- Page 290, Offset 11635.
 -- ごくごくと。
-Gulp gulp gulp.
+// lint-off:LintDupedWord
+%{i}Glug. Glug. Glug.%{/i}
 }
 [sha:8604ef6f6c0311c285c78de55622db6e908c57a6]{
 -- Page 290, Offset 11636.
 -- 汚らしく飲み下す音が、俺の<脳|みみ>にまで聞こえてくる。
-// This page is the same as 05_01_CIEL05_1_1
-The foul sound of him swallowing resonates in my ears and in my brain.
+The foul sound of him swallowing worms its way in through my ears and into my brain.
 }
 [sha:d26180eaab010a2897a0581f8652eaa9d5f2f9ab]{
 -- Page 291, Offset 11637.
