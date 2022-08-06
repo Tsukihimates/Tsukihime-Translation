@@ -40,13 +40,14 @@ I want to declare an Urban Suppression Action, will that be possible?"
 -- 「……そうですか。では報道規制、警察組織への牽制を申告してください。先生、それぐらいの人脈はありますよね？」
 "I see...
  In that case, please arrange for a media blackout and a suspension of police activity.
- You have some strings you can pull on for that, don't you Sensei?"
+ You have some strings you can pull on that front, don't you Sensei?"
 }
 [sha:1ac378a16e2e01955b3f0ba8202a43f828326a3f]{
 -- Page 440, Offset 12034.
 -- 「はいはーい、任されましたー♪　こんな危ないところにいたくないし、ササッと手続きにいってきまーす！
-"Yes yes, leave it to me ♪
- I don't want to hang around in the danger zone any longer than I have to, so I'll go take care of that right away!
+// Line broken to avoid weird sentence breaking with ♪
+"Yes yes, leave it to me ♪%{n}
+I don't want to hang around in the danger zone any longer than I have to, so I'll go take care of that right away!
 }
 [sha:561b813c83781993b5190b8986a09b72b6412074]{
 -- Page 440, Offset 12035.
@@ -157,6 +158,7 @@ Even though there's been a cave-in, I can't spot any rubberneckers.
 [sha:4358fd64e07f840fb2d1dbbd3fd1de37841d02cd]{
 -- Page 449, Offset 12055.
 -- 「報道はありませんよ。これはあくまで事故です。地下にたまったガス爆発という事で付近住民の避難も行われています。
+// バスガスバカハツ
 "There isn't anything to cover.
  This is nothing more than an accident.
  We're also evacuating neighboring residents under the pretext of an underground gas explosion.
@@ -165,7 +167,7 @@ Even though there's been a cave-in, I can't spot any rubberneckers.
 -- Page 449, Offset 12056.
 -- ……この後に起こる事に関して準備が出来ているのは、私とこの周囲を封鎖した警察の人間、そして貴方だけです」
 // tling this literally reads kinda dumb imo
-The only people who know what's %{i}really%{/i} going on here are me, the policeman who have cordoned off the area... and you."
+The only people who know what's %{i}really%{/i} going on here are me, the policemen who cordoned off the area... and you."
 }
 [sha:4112dc60b4a7d813ea3fed5b647e05d1c2f6f9a1]{
 -- Page 450, Offset 12057. Mods: @n.
@@ -239,7 +241,7 @@ So, thank you, Senpai. If you hadn't been there, I'd have ended up as just one m
 [sha:131a4c6e28f7cbf84d3b8e9eb165bb01307521f2]{
 -- Page 455, Offset 12070.
 -- 遠野くんが無事で、良かったです、けど」
-I'm just glad you're safe, Tohno-kun."
+I'm glad you're okay, Tohno-kun..."
 }
 [sha:854cbfecb8030666794cc68f9fa769ef351e6ddf]{
 -- Page 456, Offset 12071.
@@ -367,12 +369,12 @@ If I could erase my own memories, I'd definitely want to...
 [sha:cd8de717f82f36093c2f79ef0aaad9a88e5c7cbf]{
 -- Page 466, Offset 12094.
 -- でも、それはすべてが終わった後の話だ。
-But, that's only something I could do %{i}after%{/i} everything is over.
+But, that's something I could only do %{i}after%{/i} everything is over.
 }
 [sha:5cb61c81bd8bcab88a9f00ce39f3408443a2df52]{
 -- Page 466, Offset 12095.
 -- このまま何も知らず、自分だけ安全圏に逃げるなんてできるはずがない。
-There's no way I could just forget everything and escape to safety on my own.
+There's no way I could just forget about everything and escape to safety on my own.
 }
 [sha:102c63e4089eb5554de034960c3590995585b3fd]{
 -- Page 467, Offset 12096.
@@ -461,7 +463,7 @@ So saying, Senpai turns on her heel.
 [sha:5f5773fbf0c544e7f405251862730d310b2c64f8]{
 -- Page 473, Offset 12112.
 -- ノエル先生と同じように、こんな瓦礫の傾斜、ものともしないという足取りで。
-Like Noel-sensei, she strides up the steep mountain of rubble as through it were nothing.
+Like Noel-sensei, she strides across the steep mountain of rubble as through it were nothing.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 474, Offset 12113.
@@ -520,7 +522,7 @@ Until then, I'll let you off the hook.
 [sha:e343060ef2bbb2ee1144994ccac8fa6e1a59fdbb]{
 -- Page 478, Offset 12123. Glued. Mods: @x.
 -- 次に私の視界に入れば障害物として処理しますから、そのつもりで」
- Please be advised that the next time I see you,
+ Be advised that the next time I see you,
  I will consider you an obstacle, and deal with you accordingly."
 }
 [sha:fba54e2a8d4d36d4e400e20eb24ff9e530e5d169]{
@@ -589,7 +591,7 @@ Even I could tell that was a lie, Senpai."
 [sha:59f5ed5e309c7311d692d8cb34831ad81925f78b]{
 -- Page 484, Offset 12136.
 -- ……彼女はひとりでも戦う気だ。
-She intends to fight him, even if she does it alone.
+She intends to fight him, even if she has to do it alone.
 }
 [sha:473f598020d0f1eb0df1791be80be28bef7b0ae2]{
 -- Page 484, Offset 12137.
