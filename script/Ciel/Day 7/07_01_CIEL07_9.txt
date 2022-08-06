@@ -31,34 +31,35 @@ I take a deep breath and sit down on the bed.
 [sha:aa9855e8e03b5250545dec26c16b19f14cde5df6]{
 -- Page 660, Offset 16400.
 -- 歩き詰めで疲れきっていたのか、吸い込まれるようにベッドに倒れこむ。
-The bed almost swallows me as I collapse onto it. Maybe walking around so much has completely exhausted me.
+It almost swallows me whole as I collapse onto it. Maybe walking around so much has exhausted me.
 }
 [sha:21566794e94e4881d9aea8806a291f12282498c6]{
 -- Page 661, Offset 16401.
 -- アルクェイドとの約束。
-My promise with Arcueid.
+// LintConsistency:18243
+I made a promise with Arcueid...
 }
 [sha:fdb6253d1511847b8536134560ac7e3eb07ded27]{
 -- Page 661, Offset 16402.
 -- なんの因果か、再び厄介ごとに足を踏み入れた自分。
-I don't quite understand how it came to this, but it seems I've once again gotten involved in some kind of mess.
+// LintConsistency:18244
+By some twist of fate, it seems I've once again gotten myself involved in some kind of mess.
 }
 [sha:24567f548560da844d9c0b15b0e945d81f50165c]{
 -- Page 661, Offset 16403.
 -- 「……仕方ないよな。放っておけないんだから」
-// pretty similar to the last scene of ARC07
-"But what can I do? Can't exactly leave her on her own."
+// LintConsistency:18245
+"But what choice did I have? I couldn't just leave her on her own."
 }
 [sha:669de443de38b68d569f915d3cac0fdd003f6119]{
 -- Page 662, Offset 16404.
 -- それとも放っておきたくなかったのか。
-Or perhaps I didn't want her to do it alone.
+Or maybe―――
 }
 [sha:52e40e314fdd10f2f21403a6a3d3b217a413fc0a]{
 -- Page 662, Offset 16405.
 -- あの奇跡のように美しい、人間ではない生き物を。
-I didn't want to allow someone as miraculously beautiful as her,
- someone who isn't human, to have to.
+I didn't %{i}want%{/i} to leave that miraculously beautiful yet inhuman being alone...
 }
 [sha:956125f972827f97998d60d9a0375c8f18210c86]{
 -- Page 663, Offset 16406.
@@ -78,7 +79,7 @@ What was that?
 [sha:4639313f6979e8dc26f63db5393953b5afc9f278]{
 -- Page 663, Offset 16409.
 -- 今の頭痛はこれまでのものとは違う気がした。
-For some reason, it feels as though the headache just now was different from usual.
+For some reason, I feel like the headache just now was different from usual.
 }
 [sha:5179f99ff62e1342d7014f299e16e51ceb64bbcc]{
 -- Page 663, Offset 16410.
@@ -88,7 +89,8 @@ Not quite painful, but more like... shameful?
 [sha:39b07340a38ebe68c79043d24a0edb58bb2e0e42]{
 -- Page 663, Offset 16411.
 -- アイツを美しいと思ってはいけない、と、自分自身、愚かな自分を<咎|とが>めるような。
-Like I'm admonishing myself own foolish self for thinking that she was beautiful.
+// the use of both 自分自身 and 自分 here is to indicate subtly that there are two people inside of him now, so this could perhaps be worded better, but the idea here is important.
+Like my own self is admonishing me for foolishly thinking that she was beautiful.
 }
 [sha:639e2150f109ffe9d3375b1cc0179768b3250b63]{
 -- Page 664, Offset 16412.
@@ -123,12 +125,13 @@ I suppose I have too much to ponder.
 [sha:498d64b4658a64b17de311faadc931c5bb7a4c0c]{
 -- Page 665, Offset 16417.
 -- 色々なものが浮かんでくる。
-Various thoughts pop up in my mind.
+Various thoughts pop up in my head.
 }
 [sha:ac75f93fee54079239927a6d7c500f5a313c1528]{
 -- Page 665, Offset 16418.
 -- 目を閉じると思考が先鋭化するようだ。
-When I close my eyes, it almost feels like my thoughts grow more acute.
+// thoughts moved to previous sentence
+When I close my eyes, it almost feels like they grow more acute.
 }
 [sha:839983e88a58ac9ad0a3d7896bb17112ff08de67]{
 -- Page 665, Offset 16419.
@@ -138,35 +141,36 @@ I just woke up, so I can't go back to sleep immediately.
 [sha:d396bd205c801f5623153314ff1ca949fc1a8180]{
 -- Page 665, Offset 16420.
 -- 観念してベッドから起き上がる。
-I give on sleeping again, and heave myself out of bed.
+I give on falling asleep again, and heave myself out of bed.
 }
 [sha:aa15fe14c2bd0f999ff1a26f047fd8bbbc92fd5f]{
 -- Page 666, Offset 16421.
 -- こういう時は読書にかぎる。
-At these like these, nothing beats a bit of reading.
+At a time like this, nothing beats a bit of reading.
 }
 [sha:e376b8c824daa1040eef50069f9e43c59c554e5f]{
 -- Page 666, Offset 16422.
 -- 体調を崩さないよう上着を羽織り、荷物を漁る。
 // 体調を崩さないよう would be strange on its own, so I expanded it so there's more context.
 // Luggage here is interesting, since it's a "metaphorical" luggage possessed by Roa.
-I put on a shirt so my health doesn't get affected by the cold air, and then start going through my luggage.
+I put on a shirt just to make sure that my health doesn't deteriorate from the cold air, and then start rummaging through my luggage.
 }
 [sha:f992ed869f6f00ed9e7bdf27a0e8f94c91ccc69c]{
 -- Page 666, Offset 16423.
 -- あいにくお馴染みの本しかなかったが、どうせ暇つぶしだ、新鮮味は求めていない。
-Unfortunately these are all books I'm intimately familiar with. Still, I have time to kill, so I shouldn't be such a stickler about novelty.
+Unfortunately these are all books I'm intimately familiar with. Still, I have time to kill――I shouldn't be such a stickler about novelty.
 }
 [sha:21224c897076dfc372cb10c5970a932bc14b8b30]{
 -- Page 667, Offset 16424.
 -- 何度も目を通した本を片手に、隣室のサンルームに移動する。
 // There might be a better word for サンルーム (sun room)
-I take a book I've gone through many times and move over to the sun room.
+I pick up a book I've gone through many times and move over to the sun room.
 }
 [sha:3c54464f417951b30756e8023c20e9a023c9226c]{
 -- Page 667, Offset 16425.
 -- 読書用の部屋があるのは趣味がいい。
-Quite cultured that they have a room dedicated to reading.
+// added the last part for flow
+Quite cultured that there's a room dedicated to reading here in the mansion.
 }
 [sha:6777dd61d3618fb217b055e499a1c900f9a8c540]{
 -- Page 667, Offset 16426.
@@ -177,7 +181,7 @@ I sit down on a chair and start flipping through the pages of the book.
 -- Page 668, Offset 16427.
 -- 一番初めの感情は、むしろ<憐憫|れんびん>だった。
 // past tense from hereon
-The first feeling I got was actually that of pity.
+The first emotion I felt was actually that of pity.
 }
 [sha:5e23590a24e1bb72f544745ae3f074837fca66a5]{
 -- Page 668, Offset 16428.
@@ -187,23 +191,23 @@ Not anger, nor disappointment.
 [sha:46d3f48e2d337d5880e7c997744bd361df0e2ce1]{
 -- Page 668, Offset 16429.
 -- ただ、目に映るすべてのものが哀れに思えた。
-It just seemed to me that everything that my eyes took in was so pitiful.
+It just seemed to me that everything my eyes took in was so pitiful.
 }
 [sha:0174f2fe70cf8f005caf3d999636522f37a8698c]{
 -- Page 668, Offset 16430.
 -- （無論、最も哀れなのはこの身ではあるのだが）
 // Might not want to use parenthesis?
-(Naturally, the most pitiful of all was that of my own body.)
+(Naturally, I myself was the most pitiful of all.)
 }
 [sha:042c5511303b3e3695bfc169dd38b9c1d565ea56]{
 -- Page 669, Offset 16431.
 -- 十五世紀の終わりに彼は生まれた。
-He was born at the end of the 15th century.
+He was given life at the end of the 15th century.
 }
 [sha:61289a48111f5ae2b28e6abfbfea8c19197b41a8]{
 -- Page 669, Offset 16432.
 -- 裕福な家に生まれ、高級な教育を受け、心身共に健やかに成長した。
-Born into a wealthy family and receiving an expensive education, he grew up healthy both in mind and body.
+Born into a wealthy family and receiving an expensive education, he grew up healthy, both in mind and body.
 }
 [sha:ddfe593db1168ee688ea2bf5f836a6336d06f3b3]{
 -- Page 669, Offset 16433.
@@ -213,7 +217,7 @@ He understood what it meant to be good, and refused to overlook evil, never invo
 [sha:a6bedbe932dc5ef24c36638bd8bbe446b773768b]{
 -- Page 669, Offset 16434.
 -- 人々は彼を神童と敬い、自分たちの土地のさらなる発展を信じて疑わなかった。
-People revered him as a wonder child, unquestioningly believing he would make their land flourish.
+The populace revered him as a wonder child, unquestioningly believing he would make their lands flourish.
 }
 [sha:b05d378c4b4bf47a40f36bd1ffb3aa5f265e3202]{
 -- Page 670, Offset 16435.
@@ -224,12 +228,12 @@ However, he betrayed the expectations of his parents to inherit their estates, i
 -- Page 670, Offset 16436.
 -- 教会の堕落……権力者たちによる現世利益追求……がじき根に回り、果実が地に落ちる寸前だった頃の話である。
 // latter half of sentence could use some help
-This was back when the corruption of the church and the pursuit of worldly wealth by its potentates had began rearing its head―――just before its ugliness was revealed.
+This was back when the corruption of the church and the pursuit of secular wealth by its potentates had began rearing its head――just before its ugliness was fully revealed.
 }
 [sha:0fbfb8b5916acb59d22ea50666094fba2e36f72d]{
 -- Page 671, Offset 16437.
 -- 両親は残念がったが、彼が願うのなら喜んで送り出した。
-His parents were disappointed, but still happily sent him off as he desired.
+His parents were disappointed, but still happily sent him off according to his wishes.
 }
 [sha:f099cb298f5382aee3e75cc92a28a79e187085f2]{
 -- Page 671, Offset 16438.
@@ -244,12 +248,15 @@ Naturally...
 [sha:93d2f8aaf3c35817a760f3370b893575657b8aaa]{
 -- Page 671, Offset 16440.
 -- なんの後ろだてもない一名家の息子に、世界を変える事などできはしないのだが。
-There was never any chance that the son of a single family without any backing would change the world.
+There was never any chance that a single son from some noble family without any backing could change the world.
 }
 [sha:00395d7ea51309283f37a611fca2759925cd4976]{
 -- Page 672, Offset 16441.
 -- 彼は多くの街を通り過ぎ、多くの人々と知り合い、多くの事の成り立ちを目の当たりにし、どうあれ同じ結論に辿り着いた。
-He passed through many cities, came to know many people, and saw with his own eyes the start of many things, yet he always arrived to the same conclusion:
+// very long page, just at the limit
+He passed through many cities, came to know many people,
+ personally observed the start of many things,
+ yet always arrived at the same conclusion:
 }
 [sha:2fec6a814174fa6babe97c82149dea039d575704]{
 -- Page 672, Offset 16442.
@@ -259,7 +266,7 @@ He passed through many cities, came to know many people, and saw with his own ey
 [sha:312164555743f479b8e3593f0f9c3d1e08f7e0bf]{
 -- Page 672, Offset 16443.
 -- 主が地に蒔いたものの中でもっとも優れた生命だ。
-Among the children the Lord had planted into the earth, man was most excellent.
+Among the many children the Lord had sown unto the earth, man was the most excellent.
 }
 [sha:29171783f103cc9fc1526112fa983f51da6dfecc]{
 -- Page 672, Offset 16444.
@@ -269,7 +276,7 @@ Though this creature was so weak, so fragile, so tiresome and so hopeless, it wa
 [sha:133801cb38a5687ef6dc2cd372780214c08d578b]{
 -- Page 672, Offset 16445.
 -- “意味を求めずにはいられない”人間の<性|さが>に、主の意図を見いだしたのだ。
-The Lord's design was revealed through human nature――the dogged inability to live without meaning.
+The Lord's design was revealed through human nature――their dogged inability to live without seeking purpose.
 }
 [sha:46660182e45179b5a30b1555c638f64653b10237]{
 -- Page 673, Offset 16446.
@@ -279,12 +286,12 @@ He came to know new people daily.
 [sha:8a0656a17c388eb873407b0b72d000530d3ce6d1]{
 -- Page 673, Offset 16447.
 -- 都市に住む者。都市を訪れる者。どちらでもいい。
-Those who lived in the city――who came to visit the city――any he could find.
+Those who lived in the city, those who came to visit the city――any he could find.
 }
 [sha:b4c08d826af11a0809bd98d56ba05543e8f642a7]{
 -- Page 673, Offset 16448.
 -- 見知らぬ誰かと語り合い、その人生を知る事が彼の喜びだった。
-Exchanging words with strangers to get to know how they lived their life was his source of joy.
+To exchange words with strangers and getting to know how they lived their life was his source of joy.
 }
 [sha:57e1da833690c63ce7cbd486b77afcbd54bd9983]{
 -- Page 673, Offset 16449.
@@ -299,7 +306,7 @@ For sure, there was meaning to be found in even in the most trivial and unintere
 [sha:0cd797f41b224af95e10a751fa8dd98353bd6980]{
 -- Page 674, Offset 16451.
 -- 彼は多くの人間を識ろうと励んだ。
-He strove hard to understand many people.
+He strove hard to understand myriads of people.
 }
 [sha:6eeb05a99a65f4ba7b4816fb0a6516b6e4645173]{
 -- Page 674, Offset 16452.
@@ -314,7 +321,7 @@ His teachers scolded him: "Keep it to no more than a hundred, will you?"
 [sha:76e46915fbb1a8a5ff406caf61e69caf1313af43]{
 -- Page 674, Offset 16454.
 -- 司祭たちは“万人を知りなさい”とうそぶいた。
-The presbyters preached that: "You should try to know tens of thousand!"
+The presbyters preached to him: "You should try to know tens of thousand!"
 }
 [sha:075903ba6337ea89f79444701e734f5a7ad1247b]{
 -- Page 674, Offset 16455.
@@ -329,17 +336,17 @@ Just as his friend had said, by the time he had recorded the lives of over a tho
 [sha:5323f209345eb777f150aec53566736b41094657]{
 -- Page 675, Offset 16457.
 -- 面白みのない、何の見返りもない行為に心が折れたのではない。
-It's not that his will broke because he found the act uninteresting or unrewarding.
+Not because his will broke from finding the act uninteresting or unrewarding.
 }
 [sha:21f4081979bf5c21eab8d4d3b11643d7ad1283ce]{
 -- Page 675, Offset 16458.
 -- その逆である。
-It was the complete opposite.
+Rather, it was the complete opposite.
 }
 [sha:612aba7de10bd7fafb85445437a8019d36c58d7b]{
 -- Page 675, Offset 16459.
 -- 彼は人をもっと知りたかった。千や二千では足りない。もっともっと多くの真実を集めたかった。
-He wanted to know even more people――one or two thousand was just not enough. He had to collect more and more truths.
+He wanted to know even more people――one or two thousand was simply not enough. He had to collect more and more truths.
 }
 [sha:9e70338f3b1d0241e2a3c6891ba4dfae55aaf468]{
 -- Page 676, Offset 16460.
@@ -356,7 +363,7 @@ Overwhelmingly so.
 -- Page 676, Offset 16462.
 -- 仮に60年間生き続け毎日人々と語り合っても、この街の人間すら網羅できない。
 Even presuming he would to live for 60 years, all while talking to people every day,
- that would still not even be enough to encompass the people of the city.
+ that would still not be enough to encompass even just the people of the city.
 }
 [sha:c0c9583c77402ce677e5d96af9f55f7cfda5db2b]{
 -- Page 676, Offset 16463.
@@ -372,12 +379,12 @@ Oh, how lacking the span of life is!
 [sha:48ac336ccc7d0c4b97970f56cf154be1735732d3]{
 -- Page 677, Offset 16465.
 -- 思えば。
-Thinking about it...
+In retrospect,
 }
 [sha:a142d07c66322ca6e6369d73e81f2313ccad4377]{
 -- Page 677, Offset 16466.
 -- 彼には初めから個人としての幸福が欠如していた。
-Individual happiness had been absent in him from the very beginning.
+his individual happiness had been absent from the very beginning.
 }
 [sha:65a72f820bbf0ded2fbc5615ff122b63c68be2ef]{
 -- Page 677, Offset 16467.
@@ -392,7 +399,7 @@ He was a person of extremely average gifts.
 [sha:d9530cbaff335067998aaf2a9a7183d9821f8180]{
 -- Page 677, Offset 16469.
 -- 人間の能力を単純に数値化した場合、その合計値は身近な隣人と何も変わりはしなかっただろう。
-If one were to simply quantify his human talents, then the totality of that number would not differ from his neighbors in the slightest.
+If his human talents were wholly quantified, the totality of that number would not differ from his neighbors in the slightest.
 }
 [sha:261ed8d7bcddbd3a0137ec66f45b421e9732bb28]{
 -- Page 677, Offset 16470.
@@ -414,7 +421,7 @@ In exchange for holding this interest toward the whole, he lacked the ability to
 [sha:0d425ffe49735841a0f30b3b939e658b3e55ded4]{
 -- Page 678, Offset 16473.
 -- 自身を高める向上心の代わりに、権力欲が欠けていた。
-In exchange for his capacity of self-improvement, he lacked any ambitions of power.
+In exchange for his capacity for self-improvement, he lacked any ambitions of power.
 }
 [sha:3bece9adc5b2aded2c92ac80f643f70bde867ad0]{
 -- Page 678, Offset 16474.
@@ -434,7 +441,8 @@ But in spite of that, he was the most virtuous of all.
 [sha:c5471a66d1d9827f15d428f9bcc2791d46750d0d]{
 -- Page 679, Offset 16477.
 -- 人間の価値を愛し、善き人々の生活を愛し、誰よりも熱心な信仰を持っていた。
-He loved the virtues of humankind, loved the lives of good people, and held piety deeper than any other.
+// 人間の価値 here isn't literal value, but metaphorical value. Similar to when someone asks 人間には価値があるのか？ (Is there any point to humanity?)
+He loved the purpose of mankind, loved the lives of good people, and held piety deeper than any other.
 }
 [sha:4482ccc776959fd39fb3e8613bcb5fc19dadceb7]{
 -- Page 679, Offset 16478.
@@ -455,7 +463,7 @@ The wonder child who loved not the %{i}person%{/i}, but the %{i}human%{/i} was u
 [sha:9c18775c70cf69633a2c9c15f9658aeb82f59c55]{
 -- Page 680, Offset 16481.
 -- まだ幼い、子供の頃の話。
-One set before he had began studying other people.
+One set before he began studying other people.
 }
 [sha:079f1f0144cb98fc283acd65cda4c11cc3b9f00f]{
 -- Page 680, Offset 16482.
@@ -468,6 +476,7 @@ Though he still held a child-like curiosity,
 -- Page 681, Offset 16483.
 -- 社会のあらましを理解していた少年に不思議はなかった。
 // lint-off:LintPageOverflow
+// あらまし again, but just concept this time
 The boy who had already grasped the concepts of society found little mysterious.
 }
 [sha:a95259b7d979e17f178ea85974da9a5d4b888572]{
@@ -483,7 +492,8 @@ What the boy found mysterious were the things impossible for the current era to 
 [sha:7833a2a3d8c16da4ba7635b9fa7be4df1ece2de6]{
 -- Page 681, Offset 16486.
 -- 誰もが“ただそこにあるもの”と受け流すもの。
-Things that everyone disregarded as that which simply was the way it was.
+// maybe use plural here, but it didn't read as well
+That which everyone disregarded as simply being the way it was.
 }
 [sha:3498b8232a7622e3c8eceb8981e576b2bae9c21c]{
 -- Page 681, Offset 16487.
@@ -572,7 +582,7 @@ But he would soon come to know...
 [sha:056e37f4148e891e141c7f634e1dd071fe924923]{
 -- Page 685, Offset 16503.
 -- 一生を費やすと決心した“あらまし”は、先人達によって解答にいきついていた事に。
-That the 'conceptualization' he had determined to spend his life uncovering, had already been reached by his predecessors.
+That the 'conceptualization' he had determined to spend his life uncovering, had already been achieved by his predecessors.
 }
 [sha:6541cc8213e57a25c1dc542f58c02a98789e36cf]{
 -- Page 686, Offset 16504.
@@ -621,7 +631,7 @@ Even the answer to how the earth was governed had already been discovered.
 [sha:eb389a23513672cfae5c64f4bc9680b912a85fb3]{
 -- Page 688, Offset 16512.
 -- 万事がこの例に漏れなかった。
-Nothing in this world escaped this pattern.
+Nothing in creation broke this pattern.
 }
 [sha:e86610075013ae437d99b30ce7f46114680fee06]{
 -- Page 688, Offset 16513.
@@ -636,7 +646,7 @@ There was a little-famed philosopher who once wrote:
 [sha:100c009f202829e055577f2a512f0a6f47d3ec5d]{
 -- Page 688, Offset 16515.
 -- “この後の千年は、これらの証明をするだけの時代だろう”
-'These coming millennia will be an age that will merely entail proving these general principles.'
+'These coming millennia will be an age that will entail proving these general principles and nothing more.'
 }
 [sha:81d1ca379167f2d718a4f117ef79e90dcacb35be]{
 -- Page 689, Offset 16516.
@@ -692,7 +702,8 @@ Even though he had lived for sake of knowing everything, he would die in obscuri
 [sha:f400c431a1004fe9d12f21aca713491207d01e5a]{
 -- Page 691, Offset 16526.
 -- 彼は人間の意味を求めていながら、人生に意味などないと知らしめられた。
-He became cognizant to the fact that there was no meaning to his life, all while being someone who sought to uncover the meaning of humanity.
+He became cognizant to the fact that there was no purpose to life,
+ all while being someone who sought to uncover the purpose of humanity.
 }
 [sha:db87741a1b68a6a7e467ed5745812bee2a5314d3]{
 -- Page 691, Offset 16527.
@@ -714,12 +725,12 @@ Death, futility, the infinite expanse of the world――they were frightening.
 [sha:a9a8d92d3d681e1c4c6ead2fc849ef5bd9dd1c35]{
 -- Page 692, Offset 16530.
 -- 恐ろしいのは自らの消滅ではない。
-What he feared was not his own demise.
+But what he feared was not his own demise,
 }
 [sha:a94b19b2a5a6589cbfbea9d245f33a7c92b6b9c7]{
 -- Page 692, Offset 16531.
 -- 自らの<目|い><的|み>が砕け散るのが、こんなにも恐ろしいのだ。
-It was seeing his own purpose fall apart.
+it was seeing his own purpose fall apart.
 }
 [sha:191972a4b6c821b2d0b7f380c7e71bbfff8d50a1]{
 -- Page 693, Offset 16532.
@@ -729,6 +740,7 @@ He needed to alter his thinking.
 [sha:8f77bf8b5baeaf0e715d2d28e960559597d46094]{
 -- Page 693, Offset 16533.
 -- 地上にはいまだ“永遠”はなく。
+// 永遠 as 'eternal' in this file, 無限 as infinite
 There was still nothing 'eternal' to be found on Earth.
 }
 [sha:165f874d1c1ab581b56211951d835dcca5b76e84]{
@@ -739,13 +751,13 @@ So if everything kept expanding and changing, then he simply had to wait for it 
 [sha:1fb58b303fd77448ef7eb89283765dd0f693828f]{
 -- Page 694, Offset 16535.
 -- 彼は階段を踏み外した。
-// removed stairs here so it can be used next sentence
-On his way up, he took the wrong path.
+// using both stairway and ladder is weird in English, and in this case I think stairway is metaphorical while ladder is a Bible reference
+He went astray on his way up,
 }
 [sha:5d2958059ae30dc1fe76dcf637dd8cdda615089c]{
 -- Page 694, Offset 16536.
 -- 天にかけられた梯子に背を向けた。
-He turned his back on the stairway to Heaven.
+turning his back on the ladder reaching into Heaven.
 }
 [sha:c88bd9a6a59783c24354431015d040aa10260d9c]{
 -- Page 694, Offset 16537.
@@ -770,12 +782,13 @@ It's quite ironic.
 [sha:ff9084d428cea6b7187b8617eaa9583db7c21410]{
 -- Page 694, Offset 16541.
 -- 無限に広がる人間を恐怖した男が、その解決として、無限の時間を求めたのだ。
-But the man who had feared the infinitely expanding humanity, found his solution in the pursuit of infinite time.
+But the man who had so feared the infinitely expanding humanity, found his solution in the pursuit of infinite time.
 }
 [sha:b4c3e764230baee58c336b47e98be4ac8278fa10]{
 -- Page 695, Offset 16542.
 -- 『……ふうん。まあ、ここらで足抜けするのも悪くない判断だよ。例の改革はともかく、<印刷技術|グーテンベルグ>の一般化が致命的だからな。しばらく荒れるだろ、<教|う><会|ち>も協会も。
 // lint-off:LintPageOverflow
+// possibly the longest page in the game, needs desperate help
 "Hmm... well, breaking your ties with us now isn't a bad call. The rapid spread of the Gutenberg press has proven critical, not to mention the whole reformation thing. It's gonna get rough for a while, both for us of the Church, and the Association.
 }
 [sha:d13105c554ffd15c0d1b754253e1cef65c34206f]{
@@ -789,15 +802,15 @@ Though of course, I suspect the Mages Association is going to take the heavier b
 -- ああ、だから今なのか。どちらも庭掃除で手一杯。トチ狂った神童が真祖どもの城を目指したところですぐに追っ手は差し向けられん。まさに火事場泥棒だ。この隙に一番手近な永遠を手に入れようとするんだね、君は』
 // there is perhaps a better way of phrasing まさに火事場泥棒だ in English (currently: Talk about taking advantage of a bad situation)
 Oh, I suppose that's why you'd go with this timing, since both of them will be so preoccupied with their own internal affairs.
- Even if some mad wonder child was to set out for the True Ancestor's castle, they wouldn't be able to send someone after you at once.
+ Even if some mad wonder child was to set out for the True Ancestor's castle, they wouldn't be able to send someone after them immediately.
  Talk about taking advantage of a bad situation. You're gonna use this opportunity to acquire the kind of eternity closest at hand, aren't you?"
 }
 [sha:2d16ce91dd097daeb76621a1f4acf3da08e07609]{
 -- Page 696, Offset 16545.
 -- 『まさか。吸血鬼はただ歳老いにくく、死に<難|にく>いだけの種ですよ。永遠にはほど遠い。彼等はあくまで工程の一つにすぎません。まずは簡潔に自殺し、人間としての死をこなすだけです』
-"Of course not. The species of vampires merely age slowly and are hard to kill――far from eternal.
+"Of course not. The vampire species are merely hard to kill and slowly to age――far from eternal.
  They will serve as nothing more than one of my stepping stones.
- First I will have to perform a clean suicide so as to die a human death."
+ For now I will perform a clean suicide so as to die a human death."
 }
 [sha:b0965ce967a2f09d50b5af4a96d8b06d8eadae9c]{
 -- Page 696, Offset 16546.
@@ -812,20 +825,20 @@ So, do you intend to leave the Church tomorrow then?"
 [sha:1bd56eb56d2486e915413cf157e0eacfa726cfbc]{
 -- Page 697, Offset 16548.
 -- 『埋葬教室に関しては貴女に一任しますよ。
-// 埋葬教室 seems to be some kind of predecessor to the Burial Agency. Maybe translate as Burial Classroom?
-"I will leave the Burial Department in your care.
+// 埋葬教室 is the predecessor to the Burial Agency.
+"I will leave the Burial Classroom in your care.
 }
 [sha:0d811fda92a91909170b2fb711ee6a45535b9f5a]{
 -- Page 697, Offset 16549.
 -- 司教の席は望めない。ここまでで父の遺産はすべて使いきりましたしね。潮時だったんですよ、これが』
 // might style 'bishop' as 'prelate'
 I have no aspirations of becoming a bishop.
- I used up all of my father's fortune to come this far regardless――it was high time that I took my decision."
+ I've used up all of my father's fortune to come this far regardless――it was high time that I took my decision."
 }
 [sha:c6056f56d9d2c246c5fda3a338718449b5405b92]{
 -- Page 698, Offset 16550.
 -- 『かたや田舎豪族の息子、かたや<聖痕|スティグマ>があるだけの女。ともに司教までは上り詰められない同士、慰めあっていたのもおしまいだ。まあいいけどね。
-"On one hand, the son of some provincial magnate, on the other, a woman who has naught but the Stigma she bears.
+"On one side, the son of some provincial magnate, on the other, a woman who has naught but the Stigma she bears.
  Yet neither were ultimately able to rise to the position of bishop, instead finding solace in one another. The End. Well, whatever.
 }
 [sha:28e0daaf4967b2e941fb9d2fc1d7c0d55ff1c462]{
@@ -833,7 +846,7 @@ I have no aspirations of becoming a bishop.
 -- それで、君は自分の魔術理論を完成させるわけか。あたしはここから離れる気はないから、君に合わせて生きていく事はできんな。ま、幸いあたしは女だ。さっさと子供を産んで君の事を伝えるとしよう』
 So, you'll complete your Magecraft Theory, I take it?
  I don't have any intentions of leaving the Church, so I can't go down the same path as you.
- Well, fortunately I'm a woman.
+ Though, fortunately I'm a woman.
  Guess I'll get some kids real quick so I can tell them all about you."
 }
 [sha:c6076236a3ef0af6d0a0e3e297ba4121d8b89f8f]{
@@ -851,22 +864,21 @@ Narbareck?"
 -- 『そうだな。あと百年もたてば新参の死徒が台頭してくる。そいつの相手をしても無駄骨だから無視してしまえ、と口伝にしよう』
 // 新参 not referring to the Ancestor sense of the word, so probably best not to use "young blood", but hey, it might fit anyway, I'll think about it.
 "Hmm, I guess something like: 'in a century or so a new Dead Apostle's gonna enter the scene.
- Trying to fight him is just gonna be pointless, so leave him alone.'"
+ Trying to fight him is just gonna be pointless, so just leave him alone.'"
 }
 [sha:580e3bea37dd37797328dd236054aee99e21d8b9]{
 -- Page 699, Offset 16555.
 -- 『いえ、百年も待つ必要はありません。貴女が生きているうちには異端審問の対象になるでしょう。この身は最も優れた吸血種に成るのですから、10年もあれば十分です』
 "Not quite――they won't have to wait a century.
  I suspect I'll become a target for inquisition within your lifetime.
- My body will ascend to the highest grade a bloodsucker can attain, so ten years will prove plenty."
+ My body will attain the highest grade for a bloodsucker――ten years will prove plenty."
 }
 [sha:553c680eccd5200cb53f4848972ed68b96003891]{
 -- Page 700, Offset 16556.
 -- 『ハ、たわけたことを。死者からやり直すんだ、君が10年にひとりの天才であろうと百年はかかる。連中の世界はそれこそ地獄だ。苛烈さはあたしたちの比じゃないぞ』
 "Hah, stop spouting nonsense.
- You'll have to start as a Corpse――even a once-in-a-decade genius like you will take at least a century.
- That's the kind of living hell their world is.
- We couldn't even begin to imagine how terrible they have it."
+ You'll have to start over as a Corpse――even a once-in-a-decade genius like you would take at least a century.
+ Their world is practically living hell, the ruthlessness of which can't even begin to be compared to ours."
 }
 [sha:242c2e62f22a9bd2c4757d35b11edd44222611a9]{
 -- Page 700, Offset 16557.
@@ -881,7 +893,7 @@ However, if I was to become the foremost of bloodsuckers at outset, the rules of
 [sha:59ffdb3dcaa6bcff339ce11fd681d91903cd61a1]{
 -- Page 701, Offset 16559.
 -- 『……わからないな。どういうことだ、それは』
-"I don't understand. What does that mean?"
+"I don't understand. What do you mean?"
 }
 [sha:198ae52c45d829d275198d0385d3bb87ca4a8376]{
 -- Page 701, Offset 16560.
