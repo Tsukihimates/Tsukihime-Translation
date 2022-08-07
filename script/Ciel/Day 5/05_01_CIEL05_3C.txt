@@ -1,7 +1,7 @@
 [sha:28fd4c97128135e995684a11959984682fb4fa60]{
 -- Page 10017, Offset 12140.
 -- そーっと玄関の扉を開けて、アルクェイドの部屋に入る。
-I gently open the door and enter Arcueid's room.
+I gently open the door and creep back into Arcueid's room.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 10017, Offset 12141.
@@ -16,7 +16,8 @@ I gently open the door and enter Arcueid's room.
 [sha:7fdb3daff86273ab2f434336b6d6153cc7ad0244]{
 -- Page 486, Offset 12143.
 -- ちょっとだけ厄介な事に、アルクェイドは目を覚ましていた。俺がひとりでヴローヴを倒しに行った……と気がついているんだろうか、アレは。
-This is gonna be a bit troublesome, but Arcueid is awake. She probably figured out that I went out alone to fight Vlov.
+In an unfortunate turn of events, Arcueid is already awake.
+ I wonder if she's worked out that I left to try and take on Vlov by myself...
 }
 [sha:68cb988d08ab57dab9d6afd922930865d149649a]{
 -- Page 487, Offset 12144.
@@ -26,47 +27,58 @@ This is gonna be a bit troublesome, but Arcueid is awake. She probably figured o
 [sha:77ef4c8608c3783765ddaaefae5149950c514dda]{
 -- Page 488, Offset 12145.
 -- 「ええ、すっかり。いつもは睡眠中でも周囲への警戒に力を使うんだけど、今回は睡眠だけに専念したから戻りは早かったわ。……目を覚ました時、なんでそんな危険を冒したんだろうって反省したけど」
-"Yes. Much better. I always have to set aside energy to stay cautious of my surroundings when I'm sleeping, but this time, I could fully concentrate on just sleeping, so I recovered faster... After I woke up, I wondered why I took such a risk though."
+// Reading this as Shiki there -> safe sleep, Shiki not there -> ツンツン Arc
+"Yes. Much better.
+ I normally always have to set aside enough energy to remain aware of my surroundings even while I'm asleep,
+ but this time I was able to devote myself to simply resting, so I recovered faster...
+ Though, when I woke up, I had to ask myself why I thought it was a good idea to take that risk."
 }
 [sha:6bb6f3a59220dec41d9d95f31b2515a93f5d6bfb]{
 -- Page 489, Offset 12146.
 -- アルクェイドの声には棘がある。
-Arcueid's tone was scathing.
+Arcueid's tone is scathing.
 }
 [sha:2774b21f4dce6d52413401182cac3f0b220a6e05]{
 -- Page 489, Offset 12147.
 -- ……やっぱり怒ってるぞ、これ……。
-...As expected, she's angry...
+As expected, she's angry...
 }
 [sha:d9b616503281b5c2dc47a9e83bd045c0471f8365]{
 -- Page 490, Offset 12148.
 -- 「そ、そりゃ怒るよな……ごめん、アルクェイド。勝手に出歩いて、悪かった」
-"W-Well, of course you'd be angry after that... I apologize, Arcueid. I'm sorry that I walked out without permission."
+"Y-Yeah, it makes sense you'd be angry about that...
+ I'm sorry, Arcueid.
+ I shouldn't have gone wandering off without permission."
 }
 [sha:f1d10334f4aeb950360f14f9e0aebe6dbde23640]{
 -- Page 491, Offset 12149.
 -- 「悪くないわ。日中、志貴が何をしようと自由だもの。日没までに戻ってきてくれれば問題ないし。わたしも気にしてないし。想定以上に体力が戻って気分いいし。怒る理由がないじゃない」
-"You don't have to apologize. You're free to do whatever you want during the day, Shiki. It's fine as long as you come back before sunset. I don't mind either. My power came back quicker than I would have imagined, and I feel good. There's no reason for me to be angry."
+"You don't have to apologize.
+ You're free to do whatever you want during the day, Shiki.
+ So long as you're back before sunset, it doesn't matter what you get up to.
+ It doesn't bother me either.
+ My strength returned quicker than I expected, and I'm feeling pretty good.
+ There's no reason why I'd be angry."
 }
 [sha:3ba60d1f726536a031560b37de4ecd8345cb63a6]{
 -- Page 492, Offset 12150.
 -- むー、と喉を鳴らしながら断言するアルクェイド。
-Arcueid says with a growl.
+Arcueid states all this while sullenly growling at me.
 }
 [sha:43b16ffff54ca06ece611ccdb339d65309c91c47]{
 -- Page 492, Offset 12151.
 -- どこからどう見ても怒っている。
-No matter how you look at it, she's definitely angry.
+It's plain to see that she's actually angry.
 }
 [sha:c86498a79a438461da8425d19af436f61d8a5c7f]{
 -- Page 493, Offset 12152.
 -- 「……さすがにこれもウソと分かると言うか……
-"...Even I understand that you're lying...
+"It kinda sounds like you're lying though...
 }
 [sha:cd894413f3b6430867fe858bb492e9e08a2c8038]{
 -- Page 493, Offset 12153.
 -- いや、目に見えて不機嫌だぞ、おまえ」
-Err, you're clearly not in a good mood."
+No, you're %{i}clearly%{/i} not in a good mood."
 }
 [sha:49f1827fa3bc6eb9ce4b28e4c895c22078accbdf]{
 -- Page 494, Offset 12154.
@@ -76,7 +88,7 @@ Err, you're clearly not in a good mood."
 [sha:6514ca435494d70893bebb2107d232a94e433ee3]{
 -- Page 495, Offset 12155.
 -- ふんだ、と顔を逸らしてアルクェイドはベッドに倒れこんだ。
-With a hmph, Arcueid looks away and flops onto the bed.
+Pouting, Arcueid turns away and flops onto the bed.
 }
 [sha:4d0385e691b58b413ec253d74708cf2e18c46245]{
 -- Page 495, Offset 12156.
@@ -86,18 +98,20 @@ It seems like she doesn't know I snuck out to take Vlov out preemptively. Still,
 [sha:1d729fd142810813ae77dd3390d03e5128573470]{
 -- Page 496, Offset 12157.
 -- 「……寝起きの問題じゃないか？　実は低血圧だったとか」
-// im not too sure here, also i have no idea wtf the exact word is for this
-"...Are you groggy because you just woke up? Are you like hypotensive or something?"
+// Hypotension can make you pass out if you stand up too fast, but dunno about making you _angry_
+"Are you one of those people that has a hard time lying down and getting back up?
+ You don't secretly suffer from hypotension or anything do you?"
 }
 [sha:8945b714bc320f66a2c6624281606f4356c4e528]{
 -- Page 496, Offset 12158.
 -- 「そんなの人間だけの話！　わたし、寝起きは鮮明だし！」
-"Don't just list human problems! I woke up perfectly fine!"
+"Only humans get that! I wake up fresh as a daisy!"
 }
 [sha:fad5a54eb403df41c8bcdb044e5499935395fae2]{
 -- Page 497, Offset 12159.
 -- 「そうか。じゃあそのまま横になって気分を落ち着けてくれ。準備ができたら話がある」
-"I see. Well then, keep lying down on the bed and cool down. We'll talk when you're ready."
+"Is that right. Well, just lie there for a minute and cool your head.
+ I've got something to tell you when you're ready."
 }
 [sha:1749481ad9f816f5e2843f425dda57e2cc31f8f8]{
 -- Page 497, Offset 12160.
@@ -107,22 +121,23 @@ It seems like she doesn't know I snuck out to take Vlov out preemptively. Still,
 [sha:49f655341c5a73775cc73a794044f1a66e0f1b17]{
 -- Page 497, Offset 12161.
 -- ―――志貴が外に出た事に関係あるんでしょ」
-―――It's about what happened while you were out, right, Shiki?"
+―――It's about what happened while you were out, isn't it?"
 }
 [sha:2dfbacdfa8dc2da3bf533dbb9a0e3b13e1c0edb0]{
 -- Page 498, Offset 12162.
 -- 起き上がりこぼしのようにベッドから出るアルクェイド。
-Arcueid gets out of the bed like a roly-poly toy.
+Arcueid rolls out of bed and rights herself like a roly-poly toy.
 }
 [sha:83c650941c9feeb1407fedabcd702dca08efd23b]{
 -- Page 498, Offset 12163.
 -- 落ち着きこそないが、その声は鋭い。
-She hasn't calmed down for sure, but her words were keen.
+She definitely hasn't calmed down, but her voice is shrewd.
 }
 [sha:e91b2647aab66837418046208db86d6c67717f39]{
 -- Page 498, Offset 12164.
 -- “話がある”と言っただけで、この数時間の出来事を把握したようだ。
-She said 'Let's talk', but it seems she already grasped what happened during these last few hours.
+All I said was 'I've got something to tell you',
+ but it seems she's already guessed what happened over the past couple hours.
 }
 [sha:3a57df9a7a74edbfb36ff1bf30402cdbf54c2d8b]{
 -- Page 499, Offset 12165.
@@ -132,12 +147,14 @@ She said 'Let's talk', but it seems she already grasped what happened during the
 [sha:1a892b09d9029c82f8f9385eeb329a0be0c57628]{
 -- Page 499, Offset 12166.
 -- ……俺は今までヴローヴの根城に行ってた。おまえの忠告を無視してな。だから、俺が悪かったのは本当だよ」
-...I went to Vlov's stronghold. I ignored your warnings. So, for that, I'm really sorry."
+I've spent the whole day up until now in Vlov's stronghold...
+ I ignored your warnings.
+ That's why I meant it when I said I went off without your permission."
 }
 [sha:e809a64b89280cacf322a35f608802e030426a44]{
 -- Page 500, Offset 12167.
 -- 「……はあ。よく命があったものだわ。
-"...Haa. It's incredible that you're still alive.
+"Sigh... I'm amazed you're still alive.
 }
 [sha:77bdf3b2992d668330d4778a8222851b9113bb94]{
 -- Page 500, Offset 12168.
@@ -147,32 +164,35 @@ Well, I had a feeling this would happen."
 [sha:a0ee6224d9b86eac46f1e769347a30f2189c5f46]{
 -- Page 501, Offset 12169.
 -- やれやれと溜息をつくアルクェイド。
-'Oh dear', Arcueid sighs.
+'What am I going to do with you', Arcueid sighs.
 }
 [sha:0278a21d9f4ef60873146043c0b34485d5db8d11]{
 -- Page 501, Offset 12170.
 -- どうも、俺がひとりで無茶をした事は意外ではなかったらしい。
-Somehow, it seems like she expected that I would go and do something reckless.
+For whatever reason, she doesn't seem surprised that I went off and did something reckless.
 }
 [sha:c3d98cd6992e0657d80611ff54121cb7edec7f03]{
 -- Page 502, Offset 12171.
 -- 「……わかっていて俺の好きにさせてくれたのか？」
-"...So you knew, and you let me do as I wanted?"
+"So you knew, but you still let me do as I pleased...?"
 }
 [sha:aa879086308bf653a904b1574e5494b1afbafaa1]{
 -- Page 503, Offset 12172.
 -- 「本当に行くとは思っていなかったけどね。
-"I didn't think you'd actually go though.
+"I didn't think you'd actually go through with it.
 }
 [sha:fcced7653b32e8e79d31d205c7e3e5d69e1a8622]{
 -- Page 503, Offset 12173.
 -- 志貴は一度も“城攻めはしない”と言わなかった。だからその選択は志貴の中にあるんだろうなって。
-You never once said 'I won't attack his castle'. That's how I knew that possibility was on your mind, Shiki.
+You never once said 'I won't attack his castle'.
+ That's how I knew you were considering it, Shiki.
 }
 [sha:aed577d80b376039756afe9b1426307a22ca64c3]{
 -- Page 503, Offset 12174.
 -- 貴方、忘れ物は多いけど嘘は口にできないみたいだから」
-After all, you forget a lot of things but you don't seem to be able to tell a lie."
+// Got his number
+You're awfully forgetful when it comes to mentioning things,
+ but you don't seem to be able to tell an outright lie."
 }
 [sha:96bdb5998d82727eb4d4eb10b3cba2336598cf8c]{
 -- Page 504, Offset 12175.
@@ -187,7 +207,8 @@ For a moment, I'm stunned by how spot-on she is.
 [sha:d78c55f72c620bc05c0b6b50d66adcad1f7e0477]{
 -- Page 504, Offset 12177.
 -- 自分も意識していない自分の<本|く><質|せ>を言い当てられたようで、怖いような、恥ずかしいような……。
-It's as if she saw through my true nature, one I wasn't even aware of. That's kind of frightening, and kind of embarrassing...
+It's as if she saw through to my true nature, one even I wasn't aware of.
+ That's kind of frightening, and a little bit embarrassing...
 }
 [sha:de7e24432e7f0095790ae6ef0008cf62c2345b5a]{
 -- Page 505, Offset 12178.
@@ -197,32 +218,35 @@ It's as if she saw through my true nature, one I wasn't even aware of. That's ki
 [sha:242d4d26a956ed97196936da59773e99850e59c4]{
 -- Page 505, Offset 12179.
 -- ここからは包み隠さず話す。報告と思って聞いてくれ」
-I'll talk without hiding anything. Think of it as a report I'm giving you."
+From here on I'll talk without omitting anything.
+ Think of it as a report I'm giving you and listen closely."
 }
 [sha:2d7f348a2e20579c36121520e896eb77af4c2216]{
 -- Page 505, Offset 12180.
 -- 「ええ、どうぞ。せっかくの情報だもの、ありがたく拝聴させてもらいましょう」
-"Yes, go ahead. I'll gladly lend an ear to your precious information."
+"Yes, go ahead. Any new information is useful, so I'll gladly lend an ear."
 }
 [sha:cbfef5bcdd75a6acc927aee9feb9df30379a1f66]{
 -- Page 506, Offset 12181.
 -- ……そうして、俺は地下での体験を話して聞かせた。
-...And thus, I speak of my experience in that underground cave.
+And so, I tell her all about what happened to me underground.
 }
 [sha:1f355545cd47f9896eb8b14a4dc89d6c8aff311d]{
 -- Page 506, Offset 12182.
 -- デパートの地下に広がっていた通路。
-Of the corridors spreading under the department store.
+About the warren of passageways beneath the department store.
 }
 [sha:be15ceec869d2d13e6afa432561f5832d96971a7]{
 -- Page 506, Offset 12183.
 -- 死者の群れ。大広間。そこに現れたヴローヴ。
-Of the herd of zombies. Of the large hall. Of Vlov who appeared there.
+About the herd of zombies. About the large chamber. About how Vlov appeared there.
 }
 [sha:be393e88829db38d3f4dbfd5cd728cc2282d5635]{
 -- Page 506, Offset 12184.
 -- そこまでの説明は順調だった。アルクェイドも冷静に聞いてくれた。しかし……
-My recounting is proceeding well up to now. Arcueid is calmly listening. But...
+So far, my explanation has been proceeding smoothly.
+ Arcueid has been listening calmly.
+ However...
 }
 [sha:b023c68be2bd81b97f9726cc0535e3d9d3dde9b6]{
 -- Page 507, Offset 12185. Mods: @n.
@@ -237,12 +261,12 @@ My recounting is proceeding well up to now. Arcueid is calmly listening. But...
 [sha:6f7b8e5f79de95eea1f35457005b684ac220839e]{
 -- Page 508, Offset 12187.
 -- 先輩とノエル先生の話になると様子は一変した。
-That changes when I broach the subject of Senpai and Noel-sensei.
+That changes the instant I start to talk about Senpai and Noel-sensei.
 }
 [sha:8fabd1a57ee2ade0a217a2dd39a5e3b69c06d61c]{
 -- Page 508, Offset 12188.
 -- さっきまでの曖昧な不機嫌さとは違う。
-This is unlike the vague grumpiness from earlier.
+This isn't the same vague grumpiness from earlier.
 }
 [sha:76f7fdf7e450ffbafae801d2a4925739b4c785b8]{
 -- Page 508, Offset 12189.
@@ -252,32 +276,40 @@ Arcueid %{i}seriously%{/i} loathes Executors.
 [sha:8829bb5b5d678a37de3c0612e518a479686acdf2]{
 -- Page 509, Offset 12190.
 -- 「な、なんだよ。そこまで怒るような事か？　ヴローヴを倒す目的は同じだし、なにより、すっごく頼りになったんだぞ。先輩なんてヴローヴの火もへっちゃらだったし。
-"W-What? Is it something to get so angry over? I mean, they share our objective of defeating Vlov, and even more, they're incredibly reliable. Like Senpai made short work of Vlov's fire.
+"W-What?
+ Is it really worth getting so angry at them?
+ I mean, we share a common goal in that we both want to defeat Vlov, and on top of that, they've been incredibly reliable.
+ Senpai didn't even flinch in the face of Vlov's fire.
 }
 [sha:5425bdd250acadb89daee5038e3cf956ecd4227e]{
 -- Page 509, Offset 12191.
 -- ……もしかするとおまえと同じぐらい強いんじゃないかな、あの人」
-...She may even be as strong as you."
+// Dicing with death here boyo
+She may even be as strong as you are..."
 }
 [sha:467d373dee5f7b89a3076107c130401779c2df8d]{
 -- Page 510, Offset 12192.
 -- 「そ。よっぽど怖い思いをしたのね志貴。でも代行者なんかがわたしより強いとかありえないから。
-"Hmph. You must have been very scared, Shiki. But there is no Executor or whatnot that is stronger than me.
+"Hmph.
+ You must have been absolutely terrified, Shiki.
+ But there is no way in hell that some Executor is stronger than I am.
 }
 [sha:79d955e947d04c723c874f5fe141d4cb103b0272]{
 -- Page 510, Offset 12193.
 -- だいたい、ちっとも怒ってないし。ただ不快なだけよ。志貴だって食事中に害虫の話はされたくはないでしょう。
-In the first place, I wasn't angry. This is just a bit unpleasant. You wouldn't want to hear about cockroaches while you were eating, right?
+And besides, I'm not angry at all.
+ I just find them unpleasant.
+ I mean, you wouldn't want to hear about cockroaches while you were eating, would you?
 }
 [sha:67ce8fb653a568e01788146337a598d9608f1ccc]{
 -- Page 510, Offset 12194.
 -- いいから、あいつらの話はしないで」
-Enough, don't talk about them please."
+Whatever, don't bring them up again."
 }
 [sha:d16d56570a0bfe6e87c0aa350d57dfc66dd63629]{
 -- Page 511, Offset 12195.
 -- 「害虫って、なんだそれ。
-"'Cockroaches', that's just wrong.
+"'Cockroaches'? What's that supposed to mean?
 }
 [sha:59b28841ec60de337ec038f9051d938d1f337957]{
 -- Page 511, Offset 12196.
@@ -292,22 +324,24 @@ Senpai and Sensei are both good people, you know?! They've saved me so many time
 [sha:a7920d42595f052d599469558c0886035d542902]{
 -- Page 512, Offset 12198.
 -- わたしだって志貴を助けたのに！　頼りにされるのはわたしの方じゃないの!?」
-%{i}I've%{/i} helped you too! Isn't it %{i}me%{/i} you should be relying on instead?!"
+%{i}I've%{/i} saved you too you know!
+ Shouldn't you be relying on %{i}me%{/i} instead?!"
 }
 [sha:371c46301761a82988d04ad04fcb4b655112c9e4]{
 -- Page 512, Offset 12199.
 -- 「はあ!?」
-"Haaa!?"
+"Huh!?"
 }
 [sha:24325aba1c48c5a59af7f6d94513ec89bb7d8646]{
 -- Page 513, Offset 12200.
 -- ……あまりの反応につい絶句してしまった。
-...I was stupefied by her unexpected reaction.
+I'm mystified by her unexpected reaction...
 }
 [sha:241e546e41bc40f2a02c9224dc8314a42be3fd07]{
 -- Page 513, Offset 12201.
 -- そりゃあアルクェイドを頼りにはしているけど、先輩と比べられるコトでもないだろうに。
-Well, I'm relying on Arcueid too, but that's not comparable to Senpai.
+I mean, I'm obviously relying on Arcueid as well,
+ but nowhere near the same degree as I am on Senpai.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 514, Offset 12202.
@@ -322,42 +356,47 @@ Well, I'm relying on Arcueid too, but that's not comparable to Senpai.
 [sha:ee0d98b58c1a2d00b9f05547d8b1dba42ef25493]{
 -- Page 514, Offset 12204.
 -- ……なんか、妙に気まずい雰囲気になってしまった……。
-...The atmosphere is kinda awkward...
+The atmosphere has gotten strangely awkward...
 }
 [sha:ba2de2d744900b77c62e45051a09e567093642ae]{
 -- Page 514, Offset 12205.
 -- コホン、と咳払いをして強引に空気を切り替える。
-I clear my throat to forcibly change the mood.
+I clear my throat to forcibly clear the air.
 }
 [sha:d20132a482f50f79d7503e9e807cf726400bf4b9]{
 -- Page 515, Offset 12206.
 -- 「と、とにかくヴローヴは弱っている。
-"A-Anyway, Vlov is weakened.
+"A-Anyway, Vlov is weak at the moment.
 }
 [sha:472be5318039d3f9c86f31ba3ce98160c8c42355]{
 -- Page 515, Offset 12207.
 -- 今は土砂の下だけど、夜になれば這い出てくるとも言ってた。だから、その前に―――」
-For now, he's buried underground, but when the night falls he'll crawl out. So, before that happens, we must―――"
+Right now he's buried underground, but they said that when night falls he'll crawl his way out.
+ That's why, before that happens, we need to―――"
 }
 [sha:67264799181703ce1cd04e57c32b14ffeae430c7]{
 -- Page 516, Offset 12208.
 -- 「息の根を止める。ヴローヴが地上に出て血液を補充する前に倒そうって言うんでしょ。その作戦は正しいわ。人間の犠牲を出したくないっていう志貴の考えにも沿うモノだしね」
-"Kill him. Defeat Vlov before he emerges and replenishes his blood, that's what you want to say. It's a good plan. It also lines up with your wish not to have any human casualties."
+"Kill him.
+ We need to defeat Vlov before he claws his way to the surface and replenishes his blood,
+ that's what you were going to say, right?
+ It's a solid strategy.
+ It lines up perfectly with your goal of avoiding any more human casualties."
 }
 [sha:0fa70224c17b6f9224f0e8f8fd5fda52e3e6c7eb]{
 -- Page 517, Offset 12209.
 -- 「でもイヤ。倒しに行くなら志貴だけで行けば？」
-"But I won't. Will you go fight him if you're alone?"
+"But I refuse. If you want to go fight him, why not do it yourself?"
 }
 [sha:4ecfb018156fa869ecaba1cc49a488e8642ab1d6]{
 -- Page 518, Offset 12210.
 -- 「はあ!?　作戦として正しいんだろ!?
-"Haa!? But the plan is sound, isn't it?!
+"Whaa!? But you said it was a solid strategy?!
 }
 [sha:537bd1379999650b6512f02e7025fc0bb15b3823]{
 -- Page 518, Offset 12211.
 -- だいたい、いま自分を頼れって言ったじゃんか、おまえ！」
-And in the first place, wasn't it you who said I should rely on you?!"
+And hey, didn't you %{i}just%{/i} tell me to rely on you?!"
 }
 [sha:82c799a70ed9e32629b12cc11952592094114930]{
 -- Page 519, Offset 12212.
@@ -372,22 +411,25 @@ And in the first place, wasn't it you who said I should rely on you?!"
 [sha:8804f3568ecaefaf822911afe5a28f1f980b81e7]{
 -- Page 520, Offset 12214.
 -- 「効率の話よ。わたしがヴローヴと戦う気になっていたのは、わたし以外に倒せる相手がいなかったから。
-"It's a question of efficiency. I felt like fighting against Vlov because there wasn't anyone apart from me who could defeat him.
+"It's a question of efficiency.
+ I only felt like fighting Vlov because there wasn't anyone apart from me who could defeat him.
 }
 [sha:b4a46ddbf6fecbb69b08fa388b5aa13632e2d8c8]{
 -- Page 520, Offset 12215.
 -- けど代行者が始末するのなら、わたしが出張る必要はない。
-But if the Executors deal with him, I won't have to step out.
+But if the Executors deal with him, I don't have to go out of my way.
 }
 [sha:6c2068cb799673ca37978c88bab2cf4a5dff815d]{
 -- Page 520, Offset 12216.
 -- 力も温存しておきたいし、代行者の戦力をそぎ落とす事にもなる。ほら。手を貸す理由がまったくないじゃない」
-I'd like to conserve my strength, and this will also weaken the Executors' fighting strength. There you have it. There's really no reason for me to lend a hand."
+I'd like to conserve my strength, and this has the added benefit of weakening the Executors' fighting strength.
+ It's as simple as that.
+ There's really no reason for me to lend a hand."
 }
 [sha:fb8f138c90ce250a63122cbd7c9306077677bd49]{
 -- Page 521, Offset 12217.
 -- 「ぐ……筋が通ってる……」
-"Guh... That makes sense...!"
+"%{i}Guh%{/i}... That makes sense...!"
 }
 [sha:b4c4a626c4fc267a6749b7b08671e3d5107c15a4]{
 -- Page 521, Offset 12218.
@@ -397,57 +439,57 @@ I'd very much like to object, but looking at it from Arcueid's point of view, it
 [sha:4bebcad8964e1efa1482246e15fee5ae07cada50]{
 -- Page 522, Offset 12219.
 -- 先輩たちは吸血鬼狩りなんだ。
-After all, Senpai and those like her are vampire hunters.
+After all, Senpai and her associates are vampire hunters.
 }
 [sha:370e7c085a10f95e5a82dcfa33506593cc8a0c40]{
 -- Page 522, Offset 12220.
 -- アルクェイドにとっては敵……と言わないまでも、相容れない相手だろう。
-To Arcueid, they're enemies... Or if not, then at least irreconcilable opponents.
+To Arcueid, they're enemies... or at the very least, irreconcilable opponents.
 }
 [sha:d94ebbf9f0949ad6557c72bf0a08cd8bddf9b0b7]{
 -- Page 522, Offset 12221.
 -- なので自軍の力を消費するのは避け、相手の出方を窺うのは戦略として正しすぎる。
-Thus, avoiding exhausting one's resources and examining the opponent's moves is an extremely sound tactic.
+As such, conserving your own strength while keeping an eye on the opponent's moves is an extremely sound tactic.
 }
 [sha:38dea65f4099de8f609247061a8ee39f6b0879fe]{
 -- Page 523, Offset 12222.
 -- 「……じゃあ、どうあってもヴローヴとは戦ってくれないのか、おまえは」
-"...Then, you won't fight Vlov, no matter what?"
+"So... are you saying you won't fight Vlov, no matter what?"
 }
 [sha:5cd5427f4af05283426b497e2b2092cbe0cf45f5]{
 -- Page 524, Offset 12223.
 -- 口からもれた声は、驚くほど弱々しかった。
-The voice that came out of my mouth is surprisingly weak.
+The voice that dribbled out of my mouth is surprisingly feeble.
 }
 [sha:d47e0ed915709d9e81a47bcdc7948024dbf36469]{
 -- Page 524, Offset 12224.
 -- 俺は自分で思っていた以上に、アルクェイドを頼りにしていたみたいだ……。
-It looks like I was relying on Arcueid more than I thought I was...
+It seems like I've been relying on Arcueid more than I thought...
 }
 [sha:fa32f0a13be9da40cc18d41e2d35300042c490fa]{
 -- Page 525, Offset 12225.
 -- 「……ふーん。そういう顔、するんだ……」
-"...Hmmm. So that's the face you make..."
+"Hmmm... So that's the face you make..."
 }
 [sha:a9f0dd987ba8565906a9264c2ec0d5251ceef6f7]{
 -- Page 525, Offset 12226.
 -- ……いやでも、考えてみれば人間として当然と言うか、
-...But thinking about it, perhaps I should say that this is natural as a human being.
+Though... thinking about it, isn't that a natural thing to do as human being?
 }
 [sha:48bacd44ee95f6792430c6c942b0005652de2a49]{
 -- Page 525, Offset 12227.
 -- <吸血鬼|ヴローヴ>を俺ひとりでどうにかしよう、という発想自体が間違っていると言うか、
-Just imagining I could somehow do something against Vlov alone is delusional.
+I mean, the idea that I could do something about Vlov on my own is flat out delusional.
 }
 [sha:981ba06a244bba582fbe79ac26cd3fa253e7dea2]{
 -- Page 525, Offset 12228.
 -- 反則には反則をぶつければいい、の精神と言うか……。
-I intended to go in with a foul play begets foul play mindset...
+It makes sense that I'd want to fight fire with fire...
 }
 [sha:be7900ddde7c8c9e4524153e992fae0ec36eeaac]{
 -- Page 526, Offset 12229.
 -- 「まあ、どうしてもって言うなら、そうね。
-"Well, 'no matter what', huh?
+"Well, alright, if you insist.
 }
 [sha:9377c103283ba8cbaf389a69384b183e896924e1]{
 -- Page 526, Offset 12230.
@@ -462,7 +504,7 @@ I'll listen to your request, Shiki. So will you also listen to mine?"
 [sha:2915b4f908bfcf0caad81be7171af099cb4fdf97]{
 -- Page 527, Offset 12232.
 -- 「わたしが志貴のお願いを叶えてあげるんだから、志貴もわたしの言うことを一つきく。
-"I'm going to grant your wish, so you should listen to what I have to say.
+"I'm going to grant your wish, but in exchange you've got to listen to what I have to say.
 }
 [sha:fb3977b41faedd2a6524ce360671936bacccc4be]{
 -- Page 527, Offset 12233.
@@ -472,12 +514,12 @@ If you promise, then I'm not opposed to lending you my strength."
 [sha:fddef3127e987f27916612c03968fae5f9b6bbc9]{
 -- Page 528, Offset 12234.
 -- 「な……なんだって？」
-"W-What did... you say?"
+"W-What did you say...?"
 }
 [sha:548bd675314b08f3a16e4afa788217910b7c1bcb]{
 -- Page 528, Offset 12235.
 -- 思わず目を見張る、二度目のなんだってだった。
-Unintentionally widening my eyes in astonishment, I repeat myself a second time.
+I repeat myself a second time, my eyes wide in astonishment.
 }
 [sha:39421e3b935339b356681aab15565884b6d4c365]{
 -- Page 529, Offset 12236.
@@ -497,17 +539,17 @@ Her tone was a little light-hearted, but she's serious.
 [sha:42b3ff52b34c3f67e4761d5267b8681d23625eae]{
 -- Page 531, Offset 12239.
 -- ……これは気軽に頷ける事じゃない。
-...This isn't something I can readily consent to.
+This isn't something I can just agree to without thinking it through...
 }
 [sha:9713346b8fa2a6ee402cd081666b30a54395f97a]{
 -- Page 531, Offset 12240.
 -- 了解したが最後、どんな無理難題をふっかけられるか。
-Once I agree, I don't know what kind of unreasonable demand she'll spring on me.
+Who knows what kind of unreasonable demand she might spring on me after I agree.
 }
 [sha:af5b253c571e1f3ef2b87ed07b5731c42fd92a99]{
 -- Page 531, Offset 12241.
 -- こいつが人間の命をなんとも思っていないのは、これまでで充分に思い知っている。
-I've seen enough to completely comprehend that she's inconsiderate of human lives.
+It's already been made abundantly clear to me that she doesn't care one bit about human lives.
 }
 [sha:1014be25696232d5b231e23ebda2d50d2cf7d617]{
 -- Page 532, Offset 12242.
@@ -532,7 +574,7 @@ How did it come to this... I was the one who was helping her, but before I knew 
 [sha:88f4d05d1988513680516bb72efa1e928f55003c]{
 -- Page 534, Offset 12246.
 -- でも、これは仕方のない決断だ。ギブアンドテイクだ。
-But that's a choice I have to make. It's give-and-take.
+But I don't actually have a choice here. It's simple give and take.
 }
 [sha:2929d13086189d2369a5bfe569e2a50e5c88dbf5]{
 -- Page 534, Offset 12247.
@@ -542,12 +584,13 @@ I can't kill Vlov alone.
 [sha:82bb352f096bfd98496a4335790e954567525f60]{
 -- Page 534, Offset 12248.
 -- どんな手を使おうと、あのホテルの惨劇を繰り返す訳にはいかない。だから―――
-No matter what, I can't let the tragedy of what happened at the hotel repeat again. That's why―――
+And no matter what it takes, I can't allow a repeat of the tragedy that happened at the hotel.
+ That's why―――
 }
 [sha:054c650ad6be9cdd0ef2598f9524d7e5edfb28e8]{
 -- Page 535, Offset 12249.
 -- 「―――分かった。頼むアルクェイド。
-"―――I understand. Arcueid―――
+"I understand. Arcueid, I'm asking you―――
 }
 [sha:317bac0d754d742222df1541f5f8c089fab4c487]{
 -- Page 535, Offset 12250.
@@ -557,7 +600,7 @@ Please defeat Vlov."
 [sha:64cd82a301e27d78e900caf25e77c8a32fafc72f]{
 -- Page 536, Offset 12251.
 -- 「よーし、任せて！　そういう事ならすぐ行きましょう！」
-"Alright, leave it to me! Let's go!"
+"Alright, leave it to me! If that's what you want, let's do it right now!"
 }
 [sha:618077d63d065a40a09432a3a6cc76e33a3eb8d4]{
 -- Page 536, Offset 12252. Mods: @n.
@@ -572,7 +615,7 @@ Please defeat Vlov."
 [sha:4e3f0eb9491faffd416f869dfc6d4372a01e97e1]{
 -- Page 536, Offset 12254.
 -- すぐって、深夜になるのを待たないのか!?」
-What do mean 'now', aren't we waiting until later tonight?!"
+What do you mean 'now', aren't we waiting until later tonight?!"
 }
 [sha:ff7b28df3c557b459c16e4dc99b3c3017742d679]{
 -- Page 537, Offset 12255. Mods: @k, @e.
@@ -582,12 +625,12 @@ What do mean 'now', aren't we waiting until later tonight?!"
 [sha:1522f8d2f4b3568b3d04f6410273239105f15e0d]{
 -- Page 537, Offset 12256. Glued. Mods: @x.
 -- 先を越される前にやっつけちゃおう！」
- Let's do it now before they beat us to the punch!"
+ Let's polish him off before they beat us to the punch!"
 }
 [sha:05597c5dafa07ac103a1e5031b3ecce97a2c4fe6]{
 -- Page 538, Offset 12257.
 -- 「やっつけるって対策は!?」
-"Beat them to it?', so what's the plan?!"
+"Polish him off? How exactly?!"
 }
 [sha:ee5e87897a65d345fd5cd53140ec44fa7108196b]{
 -- Page 538, Offset 12258. Mods: @k, @e.
@@ -597,7 +640,8 @@ What do mean 'now', aren't we waiting until later tonight?!"
 [sha:68e9ae118d607c65d0fc9f8789cedd667ade078a]{
 -- Page 538, Offset 12259. Glued. Mods: @x.
 -- なら簡単よ。対策はできるし、わたしとしては相性的にそっちの方がやりやすいもの」
- Then it's easy. I can counter him. And in terms of compatibility, the former is more simple for me."
+ We shouldn't have any problems then.
+ I can prepare some countermeasures, and it's actually easier for me to deal with frost than fire."
 }
 [sha:542460201808f82df1ac80a262de50785dccce96]{
 -- Page 539, Offset 12260. Mods: @k, @e.
@@ -607,22 +651,22 @@ What do mean 'now', aren't we waiting until later tonight?!"
 [sha:3b369cd89869eb6c7ee97fe14d9a529001ac6ad0]{
 -- Page 539, Offset 12261. Glued. Mods: @x.
 -- だいじょうぶ、今のわたしと志貴なら、一息のうちに終わらせられるから！」
- Don't worry, you and I, we can end it in the blink of an eye!"
+ Relax, I'm well rested now, and with you by my side, we can finish him off in no time!"
 }
 [sha:4910f8dca7c60855b227cd07a5d0c946c9187193]{
 -- Page 540, Offset 12262.
 -- アルクェイドは俺の手を握ると、待ちきれないとばかりに走り出した。
-Arcueid grabs my hand, and starts to run as if she couldn't wait anymore.
+Arcueid grabs my hand and breaks into a run, it's as if she just can't wait any longer.
 }
 [sha:9cbe4e4316cb403689c6476b611a21ff6f82cbc0]{
 -- Page 541, Offset 12263.
 -- ……とんでもない<展|コ><開|ト>になってしまった……。
-...What an unbelievable turn of events...
+What an unbelievable turn of events...
 }
 [sha:c34ad9ae3464b38d92ab0c6ddc5409fa80606f9b]{
 -- Page 541, Offset 12264.
 -- こうなったらやるしかない。
-Now that it's come to this, I have no choice but to go along.
+Now that it's come to this, I have no choice but to follow through.
 }
 [sha:43b2529a75f80f13d26a71264eeded4969cc8fcd]{
 -- Page 541, Offset 12265.
@@ -632,10 +676,10 @@ The time is just past seven o'clock.
 [sha:42c63c40881c36c662838ce724967d04976b5de7]{
 -- Page 541, Offset 12266.
 -- ……この２時間で状況はどう変化しているのか。
-...I wonder how the situation evolved during these last two hours.
+I wonder how the situation has evolved over the last two hours...
 }
 [sha:416a38263a67d14c8773a992d55cb0dea0092b8f]{
 -- Page 541, Offset 12267.
 -- ヴローヴはまだ地中から出てきていない事を信じて、今はアルクェイドに賭けるしかない……！
-I have to believe that Vlov hasn't emerged from underground and bet on Arcueid...!
+I have no choice but to hope that Vlov has yet to emerge from underground, and pin all my hopes on Arcueid...!
 }
