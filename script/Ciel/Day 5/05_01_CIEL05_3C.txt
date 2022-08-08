@@ -29,7 +29,7 @@ In an unfortunate turn of events, Arcueid is already awake.
 -- 「ええ、すっかり。いつもは睡眠中でも周囲への警戒に力を使うんだけど、今回は睡眠だけに専念したから戻りは早かったわ。……目を覚ました時、なんでそんな危険を冒したんだろうって反省したけど」
 // Reading this as Shiki there -> safe sleep, Shiki not there -> ツンツン Arc
 "Yes. Much better.
- I normally always have to set aside enough energy to remain aware of my surroundings even while I'm asleep,
+ I normally have to set aside enough energy to remain aware of my surroundings even while I'm asleep,
  but this time I was able to devote myself to simply resting, so I recovered faster...
  Though, when I woke up, I had to ask myself why I thought it was a good idea to take that risk."
 }
@@ -150,12 +150,12 @@ All I said was 'I've got something to tell you',
 -- ……俺は今までヴローヴの根城に行ってた。おまえの忠告を無視してな。だから、俺が悪かったのは本当だよ」
 I've spent the whole day up until now in Vlov's stronghold...
  I ignored your warnings.
- That's why I meant it when I said I went off without your permission."
+ That's why I meant it when I said I'm sorry."
 }
 [sha:e809a64b89280cacf322a35f608802e030426a44]{
 -- Page 500, Offset 12167.
 -- 「……はあ。よく命があったものだわ。
-"Sigh... I'm amazed you're still alive.
+"%{i}Sigh%{/i}... I'm amazed you're still alive.
 }
 [sha:77bdf3b2992d668330d4778a8222851b9113bb94]{
 -- Page 500, Offset 12168.
@@ -592,7 +592,7 @@ And no matter what it takes, I can't allow a repeat of the tragedy that happened
 [sha:054c650ad6be9cdd0ef2598f9524d7e5edfb28e8]{
 -- Page 535, Offset 12249.
 -- 「―――分かった。頼むアルクェイド。
-"I understand. Arcueid, I'm asking you―――
+"I understand. Arcueid, this is my request―――
 }
 [sha:317bac0d754d742222df1541f5f8c089fab4c487]{
 -- Page 535, Offset 12250.
@@ -653,7 +653,7 @@ What do you mean 'now', aren't we waiting until later tonight?!"
 [sha:3b369cd89869eb6c7ee97fe14d9a529001ac6ad0]{
 -- Page 539, Offset 12261. Glued. Mods: @x.
 -- だいじょうぶ、今のわたしと志貴なら、一息のうちに終わらせられるから！」
- Relax, I'm well rested now, and with you by my side, we can finish him off in no time!"
+ Relax. I'm well rested now, and with you by my side, we can finish him off in no time!"
 }
 [sha:4910f8dca7c60855b227cd07a5d0c946c9187193]{
 -- Page 540, Offset 12262.
