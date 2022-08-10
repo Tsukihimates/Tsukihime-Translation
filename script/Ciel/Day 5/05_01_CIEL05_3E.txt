@@ -1,7 +1,8 @@
 [sha:be0a2d1a5850ef96cb5431a0b2508cedfdaf4607]{
 -- Page 10019, Offset 12354.
 -- 「はっ、はっ、はっ、は―――！」
-"Haa, haa, haa, haa―――!"
+// lint-off:LintDupedWord
+"%{i}Haa, haa, haa, haa%{/i}―――!"
 }
 [sha:40fdba053658094ebacb3a7e256356c072c20168]{
 -- Page 10019, Offset 12355.
@@ -11,12 +12,12 @@ I cut the lock on the door to the rooftop with my knife.
 [sha:92888b0b7d65010ad5303cbc079e1bd1b539dce2]{
 -- Page 10019, Offset 12356.
 -- しかし最上階にエレベーターらしきものは見当たらない。
-However, I can't find anything resembling an elevator on the top floor.
+However, I can't spot anything that looks like an elevator on the top floor.
 }
 [sha:620d272e0ad2fa21868ca38c928cecadb24af897]{
 -- Page 579, Offset 12357.
 -- “くそ、くそ、くそ、くそ……！”
-'Crap, crap, crap, crap...!'
+'Shit, shit, shit, shit...!'
 }
 [sha:e687d81b37de231b7b3c47813d836e8a65bde645]{
 -- Page 579, Offset 12358.
@@ -26,97 +27,101 @@ I dash down the stairs, relying on the emergency lights.
 [sha:c8fc791c305c04f3ed0506ca71b5d87a665a6a69]{
 -- Page 579, Offset 12359.
 -- 今からあの冷気の中に―――吸血鬼の暴威の<只中|ただなか>に下りようとしているのに、恐怖はなりを潜めていた。
-Even though I'm about to descend into that cold wave―――into the midst of that vampire's rampage, my fear has fallen silent.
+Even though I'm about to descend into the midst of that cold―――
+into the very heart of that vampire's cruel dominion―――
+my fear has fallen silent.
 }
 [sha:21c6b55858bccd6035c176fbdb73aeb0abb36ec7]{
 -- Page 579, Offset 12360.
 -- 理由は明白だ。俺はいま、とにかく、悔しくて悲しくて腹立たしい……！
-The reason is obvious. I'm currently frustrated, sad, and irritated...!
+The reason is obvious. Right now I'm frustrated, sad, and angry...!
 }
 [sha:30141edebacc5f4a499177b3f29be62223739d7d]{
 -- Page 580, Offset 12361.
 -- “アルクェイドのヤツ、何がおとなしく全滅してろ、だ……！”
-'That Arcueid, 'weeded out without at fuss', how can she says such...!'
+// Callback to 12342, おとなしく全滅するのが自然
+'I can't believe her. Who's supposed to just accept their annihilation...!'
 }
 [sha:be410b9a78d86bb321a936cc7f736cb72ddb5bcb]{
 -- Page 580, Offset 12362.
 -- 自分の勘違いっぷりに叫びたくなる。
-I feel like screaming at my own misunderstanding.
+I misunderstood her so badly I could almost scream.
 }
 [sha:2c374222960b0f0b156931a1029254adc0c3b491]{
 -- Page 580, Offset 12363.
 -- あいつはああいうヤツなんだ。
-So she's that kind of being.
+So %{i}that's%{/i} the kind of person she is.
 }
 [sha:41d0de3e2c1d1b5915363cfbf0cad82cf25565d6]{
 -- Page 580, Offset 12364.
 -- バカヤロウでもなければ悪人でもない。
-She's neither a fool nor a bad person.
+She's neither a fool nor a villain.
 }
 [sha:e70dd5c28b737ae56ad8f139546f68529b1a8763]{
 -- Page 580, Offset 12365.
 -- 俺たちとは違う価値観で動いている、人間ではない生き物なんだ。
-She's a non-human creature who operates on a completely different set of values than us,
+She simply isn't human, and operates on a fundamentally different set of values to the rest of us.
 }
 [sha:f01c3f8137ced2211ee2cdf83ec751f52b8c9934]{
 -- Page 580, Offset 12366.
 -- だから―――あいつに人間の常識なんてものを期待した、俺の方が馬鹿だった。
-That's why―――I was the fool for expecting her to have a human's common sense.
+%{i}I'm%{/i} the fool here―――for expecting her to act the same way a human would.
 }
 [sha:c8023926bf2476688982734cb90f0c3825a66213]{
 -- Page 581, Offset 12367.
 -- 「それでも―――期待したくて仕方がなかったんだよ、くそ！」
-"Still―――I wanted to hope she did, shit!"
+"Still―――can you fucking blame me for hoping she would?"
 }
 [sha:3e3bd4a6a700eb7bd5fecfd8e7f08f7c9914a9d2]{
 -- Page 581, Offset 12368.
 -- ……殺人者である遠野志貴を<赦|ゆる>してくれたからじゃない。
-...Wasn't she the one who forgave the murderer, Tohno Shiki?
+Wasn't she the one who forgave Tohno Shiki―――her murderer...?
 }
 [sha:280f70ff0d9053379cfea7bae342734d6d9b10f3]{
 -- Page 581, Offset 12369.
 -- 俺は、あいつを特別に思いたい。
-I wanted to think of her as special.
+I want to think of her as someone special.
 }
 [sha:8260caee97de0266523e59b256bde7067a6184f2]{
 -- Page 581, Offset 12370.
 -- あの嘘みたいに純粋に笑う女を、どうしても嫌いになれない。
-In spite of everything, I can't hate that woman, whose smile is pure beyond belief.
+In spite of everything, I simply can't bring myself to hate that woman and her unbelievably pure and genuine smile.
 }
 [sha:bd95a1093d4bc02e38c786b1b04b69fff095bc21]{
 -- Page 582, Offset 12371.
 -- もっともっと、今よりずっと、あいつの事をいいヤツだって思いたかっただけなのに―――！
-Even though I wanted to think of her as a good person so much, more than ever before―――!
+All I wanted was to keep believing, as fervently as I could, that she's a good person―――！
 }
 [sha:5d75329c862bca274637d6b3a01cb0a919434596]{
 -- Page 583, Offset 12372.
 -- 「はっ―――はっ、はっ、は―――！」
-"Haa―――Haa, haa, ha―――!"
+"%{i}Haa―――Haa, haa, ha―――%{/i}!"
 }
 [sha:0eb3ec88527d363316233e1164b7d5e52f3d8722]{
 -- Page 583, Offset 12373.
 -- でも、それも終わりだ。今はそんな感傷に浸っている場合じゃない。
-But it's already in the past. Now's not the time to wallow in sentimentality.
+But that's in the past now. This isn't the time to be wallowing in sentimentality.
 }
 [sha:93bef371bcfa0d655d66a4537af4d4ea127ac5b6]{
 -- Page 583, Offset 12374.
 -- 一刻も早く地上に降りる。
-I have to get to the ground below as soon as possible.
+I'm going to get down to ground level as fast as I possibly can.
 }
 [sha:6e5a204abaa4bc2e8447e6bf97238f1f0fdad1e4]{
 -- Page 583, Offset 12375.
 -- シエル先輩の安否を確かめる。
-I'll make sure that Ciel-senpai is safe.
+I'm going to make sure that Ciel-senpai is safe.
 }
 [sha:2014e9aca94dcb829cbabaed6e442853b6c85ee5]{
 -- Page 583, Offset 12376.
 -- その上で―――俺は、ヴローヴの『線』を断つ。
-And on top of that―――I will cut Vlov's 'lines'.
+And then after that―――I'm going to cut Vlov's 'lines'.
 }
 [sha:92659f6cc7b8ca509be303cd7909568a1a01984a]{
 -- Page 584, Offset 12377.
 -- エレベーターに辿り着いた。
-I reach the elevator.
+// Operating an elevator in what is arguably a disaster area generally considered a safety no-no
+I finally reach the elevator.
 }
 [sha:522da0cbb993ae1f6b5d9f10f3b0ba23cd07ef11]{
 -- Page 584, Offset 12378.
@@ -141,22 +146,24 @@ I take a deep breath. I check over my body... No issues. My entire body is funct
 [sha:e2b73dcdc401d09e23b911614bce649ab3b9cb9d]{
 -- Page 585, Offset 12382.
 -- 繰り返すが恐怖はない。
-I say this once again, but I'm not afraid.
+I know I'm repeating myself, but I'm not afraid.
 }
 [sha:a293d131427d0368604426f68c2f87592b84b087]{
 -- Page 585, Offset 12383.
 -- 人のカタチをしたモノを殺す事に<躊躇|ためら>いもない。
-I won't hesitate to kill beings shaped like humans.
+I won't hesitate to kill those things that look like humans.
 }
 [sha:d23cd9916fd1e041f67e462c3203ab86862c7f78]{
 -- Page 585, Offset 12384.
 -- そんな<初|う><心|ぶ>さは、あの地下道に捨ててきた。
-I threw away such innocence in the underground tunnels.
+// Look ma, all diacritics
+I rid myself of that naïveté down in those underground tunnels.
 }
-[sha:e66cb6436fc23802c7546cad84934d700fa8ab68]{
+[offset:12385]{
 -- Page 586, Offset 12385.
 -- 「は――――ア」
-"Haa――――a"
+// Audio here has more than a single pant
+"%{i}Haah, haah―――%{/i}"
 }
 [sha:81d91c71013b65eba3ed832c261b193699df1a9f]{
 -- Page 586, Offset 12386.
@@ -166,12 +173,14 @@ My breathing quickens.
 [sha:4b555ccaa7ef0b5dca0e3c1bc1ee9714796d4c51]{
 -- Page 586, Offset 12387.
 -- 心臓が、この体とは違うパーツみたいに、どくんどくんと浮き足立ってる。
-My heart is racing like it's a separate part of my body, thumping repeatedly.
+My heart is racing.
+ It's pounding so frantically that it's as though it isn't even part of my own body.
 }
 [sha:7a2fcb0ff2fd54f2c37ca82dc5fee13a7299a72e]{
 -- Page 587, Offset 12388.
 -- ……一階に到着した。
-I reach the first floor.
+// Stupid American 1-indexed floor counting system
+I arrive at the first floor.
 }
 [sha:e16b9543f4483e32fecc79038e15199423ef2942]{
 -- Page 587, Offset 12389.
@@ -181,52 +190,54 @@ I can't rely on Arcueid.
 [sha:8c2b9935f116fb96f616788bfb760caa3cb67410]{
 -- Page 587, Offset 12390.
 -- 俺はナイフを握り直して、冷気渦巻くクレーターに走り出した。
-I once again grasp my knife and run into the crater where the cold waves are swirling around.
+Adjusting my grip on my knife, I run toward the crater filled with swirling cold air.
 }
 [sha:d7b684c6d4fad011889dda8b489172256ab03b91]{
 -- Page 588, Offset 12391.
 -- 世界に空いた立方体の巨大な穴。
-A massive cubic hole in the world.
+A gigantic cube-shaped hole in the world.
 }
 [sha:5d68bdc091d61984a702b3390d4bb47fd00df6aa]{
 -- Page 588, Offset 12392.
 -- それが、目の前の<異|モ><物|ノ>への所感だった。
-That's my impression of the abnormality in front of me.
+That's my first impression of the bizarre object in front of me.
 }
 [sha:0aa1788852ea523bba8dd6a0e0ef9eab6b623b4d]{
 -- Page 589, Offset 12393.
 -- 一辺40メートルを超える透明の箱。
-A transparent box over 40 meters in length.
+A transparent box, over forty meters on each side.
 }
 [sha:66428ed6a1a3dea07edcee2c34ad10c39fc7fadc]{
 -- Page 589, Offset 12394.
 -- 材質はアクリルを思わせる。
-Its material is reminiscent of acrylic.
+Whatever material it's made of reminds me of acrylic.
 }
 [sha:61ae37d154f065e8173e8605cd16d2a2fd4e1bba]{
 -- Page 589, Offset 12395.
 -- 青黒く見えるのは壁の色ではなく、中に詰まったものがそう見せているのだ。
-The bluish black hue isn't the color of the wall, but comes from what is stuck inside.
+Its bluish-black appearance doesn't seem to stem from the color of the walls themselves, but from whatever is trapped inside.
 }
 [sha:ddfdf6fbe81dfc33c14ca2620d342d9ca92920d4]{
 -- Page 590, Offset 12396.
 -- 箱の中で吹き荒れる白い<礫|つぶて>。
-Small rocks are violently flung off all over the box.
+// Stones? Or _hail_stones? Not written that way but maybe you're supposed to make the connection
+White pebbles fly about wildly inside the box.
 }
 [sha:0985e5f4b54b254360c299c912edc9052256c092]{
 -- Page 590, Offset 12397.
 -- 牙のように連なる氷柱。
-A row of fang-like ice pillars.
+// Slightly extended for flow.
+Icicles are arranged in rows like the fangs of some great beast.
 }
 [sha:9d033c8fef6528330ca2fd8631865f3967c60685]{
 -- Page 590, Offset 12398.
 -- あの中には人智及ばぬ極寒の地獄が詰まっている。
-Inside is a hell of extreme cold beyond human comprehension.
+Inside of that box is a bitterly cold hellscape that defies human comprehension.
 }
 [sha:a170b89cec0729a4010e9a6ab3b75f19e332d57c]{
 -- Page 591, Offset 12399.
 -- これは箱ではない。檻だ。
-This isn't a box. It's a cage.
+This thing isn't a box at all. It's a cage.
 }
 [sha:314737ec3c199e73b2f4e611263ef078bcb77bf3]{
 -- Page 591, Offset 12400.
@@ -236,12 +247,12 @@ Something that shouldn't exist in this world.
 [sha:a0ed539660ddb74ceb3d3c7d23e99e36183d9b72]{
 -- Page 591, Offset 12401.
 -- 地上に解き放ってはいけないものを封じ込めた檻。
-A cage sealing a being that must not be released unto the surface.
+A cage built to imprison something that cannot be allowed to roam free on the surface.
 }
 [sha:84d8b00d4a01a30e0b0ff3caf88714ad7b893624]{
 -- Page 591, Offset 12402.
 -- その中に―――
-Inside is―――
+Inside it is―――
 }
 [sha:1a79a829649c2513b266f8d84b941103df699a91]{
 -- Page 592, Offset 12403.
@@ -251,82 +262,89 @@ Inside is―――
 [sha:e39be6df2811e1b12dbc15f4c1f164cb8158d771]{
 -- Page 592, Offset 12404.
 -- いる。この中にシエル先輩がいる。
-She's there. Ciel-senpai is inside there.
+She's there. Ciel-senpai is in there.
 }
 [sha:4881c7ff234912cbf48402a30f9833faec54b5d5]{
 -- Page 592, Offset 12405.
 -- 呼吸さえ凍る極寒の中。
-Inside that intense cold, where even breath freezes.
+In the midst of that intense cold, where even your breath is frozen solid.
 }
 [sha:f575afdcb146af48d6fe0399835ece33e9626361]{
 -- Page 592, Offset 12406.
 -- 彼女はたったひとり、あの吸血鬼と戦っていた。
-She's fighting against the vampire, all alone.
+She's fighting against that vampire all on her own.
 }
 [sha:9b001ac172889581d51d0a0c192c763fd15aa719]{
 -- Page 593, Offset 12407.
 -- マイナス100℃に迫る極寒。
-Extreme cold approaching -100℃.
+The intense cold approaches -100℃.
 }
 [sha:4e459c85d7fe6985da0efb02c3760bd39e6e3648]{
 -- Page 593, Offset 12408.
 -- この惑星の地表では起こりえない超低温。
-An extraordinarily low temperature that has never been reached on this planet's surface.
+// Added 'naturally' occur because we have made things _way_ colder than that on purpose
+A cryogenic temperature that could never occur naturally on the surface of this planet.
 }
 [sha:f337eaec63f7fa47b79a3ecdc25dd70c46aced09]{
 -- Page 593, Offset 12409.
 -- あらゆる動植物の生存を許さぬ冷気の中、二つの騎影が衝突する。
-In the midst of a cold that precludes the survival of all plants and animals, two knightly figures are clashing.
+Within that cold so intense that no plant or animal could survive,
+ two knightly figures clash with one another.
 }
 [sha:f1300f98c234c9ff59718654e4a8a63e94b7bc95]{
 -- Page 594, Offset 12410.
 -- 一騎は呪いの源、ヴローヴ・アルハンゲリ。
-One knight is the source of this curse, Vlov Arkhangel.
+The first knight is the source of this curse, Vlov Arkhangel.
 }
 [sha:ef472ed8e42fd712cb13f36154915c396ea2e69a]{
 -- Page 594, Offset 12411.
 -- 一騎は<拷問具|アーマー>に身を包んだ、少女の姿をした代行者。
-The other is a young female Executor clad in <armor|a n  i n s t r u m e n t  o f  t o r t u r e     >.
+// Armor padded to a phrase so the chungus ruby doesn't eclipse it so badly
+The other is a young female Executor clad in <a suit of armor|a n  i n s t r u m e n t  o f  t o r t u r e     >.
 }
 [sha:a64320d127cf3e1cbf3621c3fe403e89600eafe1]{
 -- Page 595, Offset 12412.
 -- 吹雪によって閉ざされた視界。
-My whole field of vision is blocked by the blizzard.
+Their field of vision is hemmed in by the blizzard.
 }
 [sha:2c7d44631d11ca091845c7774de6a6520e93cfe7]{
 -- Page 595, Offset 12413.
 -- 氷河によって波だつ足場。
-Footsteps wobbled by icy torrents.
+They struggle to keep their footing atop the glacier.
 }
 [sha:281454b173d78fb7f73da5693ad9f6352798dbff]{
 -- Page 595, Offset 12414.
 -- 呼吸さえ死に繋がる極限状態で、氷弾と弾丸がぶつかり合う。
-Ice projectiles and bullets are colliding in this extreme situation where even breathing can lead to death,
+Under these extreme conditions,
+ where even breathing in could spell death,
+ bullets butt heads against flying shards of ice.
 }
 [sha:6e4ca612be8521acdae0b6e478f448ea8694a102]{
 -- Page 595, Offset 12415.
 -- 両者の戦いが始まってから60分。
-It's been an hour since their battle has begun.
+It's been an hour since their battle began.
 }
 [sha:32bb027e039aaf9a4d15fb7947f83bf9cbcb49fe]{
 -- Page 595, Offset 12416.
 -- その戦闘時間自体が、既に一つの奇蹟だった。
-The duration of this fight itself is already a miracle.
+That it's lasted this long is already a miracle in itself.
 }
 [sha:1cdc7a9ca3e3d73cf76f521667c95826db9f09cd]{
 -- Page 596, Offset 12417.
 -- 7.62mmの火花を散らす投石機。
-A catapult making 7.62mm sparks fly.
+// Faux-metric value spotted
+// I guess this is a .30? Gun measurements make no damn sense (7.62mm < 8 < 9mm but actually bigger I guess)
+A catapult scattering showers of 7.62mm sparks.
 }
 [sha:7af8c353dfa79115ecc6fc9dcfa3e59a09196171]{
 -- Page 596, Offset 12418.
 -- 戦場において過剰火力と言われる大口径の弾丸が吸血鬼に放たれる。
-Great artillery, a sort you'd consider overkill on any normal battlefield, is fired at the vampire.
+The high-caliber shells being fired at the vampire are the sort that would be considered overkill on any ordinary battlefield.
 }
 [sha:565c4af608c011b3e40dc01003612e7db1884cea]{
 -- Page 597, Offset 12419.
 -- 8mm、9mmに代表される、兵士を負傷させ戦闘不能にする為の暴力ではない。
-Calibers like 8mm and 9mm represent a class only intended to take a soldier off the battlefield. This is something else entirely.
+Their destructive power is nothing like the 8mm or 9mm rounds designed to merely wound and incapacitate soldiers.
 }
 [sha:4c1517ae187de4f35e742dc50bcd1c00b3662c6c]{
 -- Page 597, Offset 12420.
@@ -341,7 +359,10 @@ Its name is '<Death through Immolation|B l a z e           >'.
 [sha:327e24358a02b9689254d0b44ac4df63ab6a8e4e]{
 -- Page 598, Offset 12422.
 -- 七つの死因を持つ聖典から分かれた、代行者シエルの専用礼装。
-This is the Mystic Code permitted only for use by the Executor Ciel, a branch of the scripture holding the Seven Causes of Death.
+// God is this entire route going to be full of chuuni BS like this
+// Someone check the lore on this
+One branch of the scriptures that hold the Seven Causes of Death,
+ it is a Mystic Code reserved for the exclusive use of Executor Ciel.
 }
 [sha:070cbd0321538037ee82c7fce5b315cdae3cfe29]{
 -- Page 599, Offset 12423.
