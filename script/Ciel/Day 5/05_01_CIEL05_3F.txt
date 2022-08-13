@@ -61,7 +61,7 @@ More importantly, what on earth is %{i}that%{/i}?!"
 -- Page 647, Offset 12571.
 -- 「どうって、見ての通り！　土地ごとヴローヴを封印したんだけど、ぜんぜん効かなかったの！
 "What is that...? Well, it's what it looks like!
- I sealed off the whole area with Vlov still inside, but it didn't work at all!
+ We sealed off the Vlov together with the rest of the crater, but it didn't work at all!
 }
 [sha:7a886f167417eb9f1a406254e7fc4f07ca8fced8]{
 -- Page 647, Offset 12572.
@@ -116,12 +116,13 @@ If he's imprisoned, surely there's no need for her to go in after him?!"
 -- 「あるわよ！　あの結界はヴローヴの汚染を抑えるもので、ヴローヴ本体を抑えるものじゃないわ！　誰かが中でヴローヴを仕留めないといけないの！」
 "No, there is!
  That barrier is only designed to contain Vlov's pollution, not to contain Vlov himself!
- Someone still needs to go in there and bring him down!"
+ Someone still needs to go in there and take him down!"
 }
 [sha:f53882bd1045ca5715bc009613d82646cc5a840d]{
 -- Page 652, Offset 12581.
 -- 「な―――じゃあヴローヴを倒さないかぎり、先輩は出てこないんですか!?」
-"Wha―――Then, does that mean that Senpai can't come back out unless she defeats him?!"
+"Wha―――%{n}
+Then, does that mean that Senpai can't come back out unless she defeats him?!"
 }
 [sha:1b5a916a59a68db6651bd4f252334f14ae6e9eea]{
 -- Page 653, Offset 12582.
@@ -179,7 +180,7 @@ Inside it, Senpai is fighting against that monster all on her own.
 [sha:a0afb3cbd8d1e55347ee9b98f872c771543a3ef6]{
 -- Page 657, Offset 12591.
 -- 「……勝ってる。先輩は、負けてない、のに……！」
-"She's winning... Senpai isn't losing, and yet...!"
+"She's winning... Senpai hasn't been defeated, but...!"
 }
 [sha:779520aed07d3c6decf2e423df18b8aa794d415a]{
 -- Page 657, Offset 12592.
@@ -208,7 +209,7 @@ If this were a level playing field...
 -- こんな箱なんて作らず、寒波が広がる事なんて気にせず、自分ひとりで戦っていれば、絶対に負けていないのに……！
 If only she didn't have to create this box,
  if only she didn't have to contain his creeping cold,
- if only she were able to fight him while only worrying about herself,
+ if only she were able to fight him without having to worry about anyone other than herself,
  there's no way she'd lose against him...!
 }
 [sha:ed2a195a6fabecaddb9df72f07d957ac420d0d29]{
@@ -234,17 +235,17 @@ Her body has sustained too many wounds.
 [sha:fde2c10ace027c9ebe021d795940f93b3ef9ce36]{
 -- Page 659, Offset 12601.
 -- もうシエル先輩だけでは、あの吸血鬼は倒せない。
-Ciel-senpai alone isn't able to defeat that vampire anymore.
+Ciel-senpai isn't able to defeat that vampire on her own anymore.
 }
 [sha:98c0b5018b1ddf64d0ee4052deeb110eb0621070]{
 -- Page 659, Offset 12602.
 -- あと一人……いや、あと一手、ほんの少しでいいから、先輩を後押しするものが必要だ。
-She needs some backing, just one person... no, just one hand, just a little bit will do.
+She needs some support, even if it's just one person... no, just one helping hand, just one extra push.
 }
 [sha:6f772319617a4830a89b4d3dd332d4b947675ddb]{
 -- Page 660, Offset 12603.
 -- 眼鏡を外す。境界ごと敵を見据える。
-I remove my glasses. I stare at the enemy and the barrier.
+I take off my glasses. I stare at the barrier, and the enemy inside it.
 }
 [sha:35ceccdf97945b1f65b32d979f9e11b686d538e9]{
 -- Page 660, Offset 12604.
@@ -259,23 +260,27 @@ Even though it'd be impossible for me to kill Vlov alone, I could at least becom
 [sha:9ff126e2a8dd5126770c4d9a45fc17bf9bf7ec90]{
 -- Page 661, Offset 12606.
 -- 無意識のうちに壁に伸ばした指先が一瞬で凍結する。
-The tip of the finger I unconsciously extended toward the wall is instantly frozen.
+The tip of the finger I unconsciously extended toward the wall freezes instantly.
 }
 [sha:0cc7a1e74508b8556cd6282f2e9556357f04457b]{
 -- Page 661, Offset 12607.
 -- ……ダメだ。中に入る訳にはいかない。
-...It won't work. There's no way I can get inside.
+It's no use... There's no way I can enter that space.
 }
 [sha:ad9e39c1fb21d74b2717491b61c3555509ae621f]{
 -- Page 662, Offset 12608.
 -- 地下でヴローヴに接近した事を思い出せ。
-Remember when you approached Vlov underground.
+Just think about what happened when I got close to Vlov back in the underground chamber.
 }
 [sha:cf470c8b4c28787d6ec9ca3cb556556c2c96ef0c]{
 -- Page 662, Offset 12609.
 -- 極寒において人間は満足に活動できない。血液が凍る。細胞が壊死する。なにより脳が死滅する。人間は、吸血鬼と対峙するにはあまりにも弱すぎる。
 // 壊死 Cells necrotize, undergo necrosis
-Humans can't function properly in extreme cold. Blood freezes. Cells die. Above all, the brain perishes. Humans are far too weak to stand up against vampires.
+Humans can't function properly in extreme cold.
+ Their blood freezes.
+ Their cells become necrotic.
+ But worst of all, their brains flatline.
+ Humans are far too weak to stand up against vampires.
 }
 [sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
 -- Page 663, Offset 12610.
@@ -285,7 +290,7 @@ Humans can't function properly in extreme cold. Blood freezes. Cells die. Above 
 [sha:542b41e29eb17ad07853d1dc3b82f0e75f27a942]{
 -- Page 663, Offset 12611.
 -- そして、もう何もかも手遅れだった。
-And, I was already too late.
+And to top it off, I'm already far too late.
 }
 [sha:8cfc61b5d26b2fc790a0f39d68c7f44465560a21]{
 -- Page 664, Offset 12612.
@@ -295,33 +300,35 @@ The shadows inside the blizzard overlap.
 [sha:ceaa3dcbecd9e291db58e604a7d4ee322d59efea]{
 -- Page 664, Offset 12613.
 -- 動きの鈍くなった甲冑の少女に向けて、
-A spear is thrust with tremendous power,
+The armored girl, her movements dulled, now stands in the crosshairs―――
 }
 [sha:39f8812f43f6aed8569e3fbfeb2b374ecceabb3a]{
 -- Page 664, Offset 12614.
 -- 渾身の槍が放たれる。
 // I reversed line 2 and line 3
-Toward the young girl clad in armor, whose movements have dulled.
+Of a lance, thrust with tremendous power.
 }
 [sha:9abc104ff52d09a793e87ee5ad7a16e5cecbc15a]{
 -- Page 664, Offset 12615.
 -- <磔|はりつけ>の罪人のように。
-Like a sinner hanging on a cross.
+Like a sinner nailed to a cross.
 }
 [sha:390e0f397e99c2b18cc08908ee06ecdf0fd594a8]{
 -- Page 664, Offset 12616.
 -- 先輩らしき影が、世界の<壁|はて>に叩きつけられる。
-The shadow resembling Senpai slams into the <extremity of the world|w a l l                >.
+The shadow resembling Senpai is dashed against the wall that seals off their world.
 }
 [sha:87cb1e475875f64cb465513e3a2eec7bb43c7d9c]{
 -- Page 665, Offset 12617.
 -- ―――先輩の終わりは、結界の終わりだ。
-―――Senpai's end is the end of this barrier.
+―――Senpai's demise also spells the end for the barrier.
 }
 [sha:8894cd2dc0ad274c37023e189311659d5882ce7f]{
 -- Page 665, Offset 12618.
 -- 「たたた、退避退避ーーー！　ああ、でも今からじゃ間に合わない！　私も氷漬けになっちゃうーーー！」
-"R-R-R-Retreat, retreat! Ahhh, but we won't make it in time now! I'm gonna be frozen in ice too!"
+"R-R-R-Retreat, retreat!
+ %{i}Ahhh%{/i}, but even if we start now we'll never make it in time!
+ I'm gonna get encased in ice too!"
 }
 [sha:8a78b5445384ecf354903a425ef06d03b296beee]{
 -- Page 665, Offset 12619.
@@ -336,38 +343,39 @@ The shadow resembling Senpai slams into the <extremity of the world|w a l l     
 [sha:9f0b98d054a04b319f2fbb35010c2fea41796742]{
 -- Page 666, Offset 12621.
 -- ―――風速160キロメートルの寒波が全てを凍結させる。
-―――Cold waves of up to 160km/h freeze everything.
+―――A cold front travelling at 160km/h freezes everything in its path.
 }
 [sha:6079ed26f4c0245b000fcdf99bf814ad5e0502a4]{
 -- Page 666, Offset 12622.
 -- ―――その中で、ゴミのように弾け飛ぶ先輩を見る。
-―――In the midst of it, I see Senpai bouncing around like a piece of trash.
+―――I catch sight of Senpai, swept up in the blast, being tossed about like a piece of trash.
 }
 [sha:6556770391687664bcf9f1f89de2cfec65efa956]{
 -- Page 666, Offset 12623.
 -- ―――俺はそれを、傍観する事しか、できなかった。
-―――I could do nothing but simply look.
+―――I can do nothing but look on.
 }
 [sha:d4e76169cef9d29345c3441c6c2fe774db920d8d]{
 -- Page 667, Offset 12624.
 -- 「……いや、違う……！」
-"...No, that's wrong...!"
+"No... that's wrong...!"
 }
 [sha:ea235d4046b2822d94dbddc1fa92a5a0ecc406d0]{
 -- Page 667, Offset 12625.
 -- まだ何も終わっていない。
-It's not yet over.
+This isn't over yet.
 }
 [sha:968dc31df376f1524b8292f1cc63d3c438bb618e]{
 -- Page 667, Offset 12626.
 -- 確かに周囲はマイナスの冷気に包まれている。
 // negative temperatures territory?
-Certainly, the cold air all around me is in negative temperatures.
+Sure, the area around me is blanketed by subzero temperatures.
 }
 [sha:57235cfc4ce24c0bf955cb799212b3580527c381]{
 -- Page 667, Offset 12627.
 -- けれど温かい。外気とは別に、体の内側から守られるような熱を感じる。
-But I'm warm. Different from the outside air, I feel a heat coming from inside my body like it's protecting me.
+But %{i}I'm%{/i} still warm.
+ I can feel a heat coming not from the surrounding air but from inside of me, almost like it's protecting me.
 }
 [sha:9cef1ad2918d113f954b4c95cce8ad68f4219411]{
 -- Page 668, Offset 12628.
@@ -377,17 +385,20 @@ I open my eyes and look up at the sky.
 [sha:595aa8be6bb6375a01bd7c950bc451122c457a65]{
 -- Page 668, Offset 12629.
 -- 街に寒波は届いていない。
-The cold waves aren't reaching the city.
+That wave of freezing temperatures didn't reach the city.
 }
 [sha:6b81fd4811e8fc276c8d80ce49cb6d46adde44d8]{
 -- Page 668, Offset 12630.
 -- 吹き荒ぶ冷気はこのクレーターの中だけに留まっている。
-The fiercely billowing cold waves are contained to this crater.
+The freezing tempest has been contained within this crater.
 }
 [sha:c2796e43e4905a5c77ca4211ff1b3aa11527be4c]{
 -- Page 669, Offset 12631.
 -- そして、遥か上空のビルの上には、心底からイヤそうな顔で手を掲げる、アルクェイドの姿があった。
-And far above, on top of a building, I see Arcueid with her hand raised and a look of utmost displeasure.
+And there,
+ atop a skyscraper towering in the distance,
+ her hand outstretched and a look of intense displeasure on her face,
+ is Arcueid.
 }
 [sha:89c77e3b9af61d7bc5c6401a2628e01b2d723a60]{
 -- Page 670, Offset 12632.
@@ -397,7 +408,7 @@ And far above, on top of a building, I see Arcueid with her hand raised and a lo
 [sha:8efa4f5ef5572d851a0b62d3ed102d6c4e817a6a]{
 -- Page 670, Offset 12633.
 -- 口元が嬉しさでほころんでしまう。
-I break into a wide smile from happiness.
+I'm so happy that I can't stop myself from cracking a smile.
 }
 [sha:bf27c5a49faac08deec20ccd0cb01dab90ab23ca]{
 -- Page 670, Offset 12634.
@@ -407,17 +418,20 @@ The ground is frozen and the temperature is below -40℃. Despite that, I'm stil
 [sha:a69d553e1e1f443296e811c58b7c9bd99579bed4]{
 -- Page 670, Offset 12635.
 -- 体感温度も零度に届くかどうか。これなら<人|お><間|れ>でも数分は活動できる……！
-The apparent temperature too may or may not have reached zero degree. If so, then even a human like me should be able to endure it a few minutes...!
+// Not 100% sure about the かどうか / これなら causation here
+The apparent temperature may yet reach zero degrees.
+ But before it does, even a human like me should be able to endure for a few minutes...!
 }
 [sha:e97593882280f80a21aba3f98d28de9b4f10d3e3]{
 -- Page 671, Offset 12636.
 -- きっとアルクェイドなりの精一杯の譲歩なんだろう。
-I'm sure this is the most she could concede, in her own way.
+I'm sure that this is Arcueid doing the best she can to make concessions.
 }
 [sha:3492009b97927ab826b228b28c11a89f22d20717]{
 -- Page 671, Offset 12637.
 -- シエル先輩に手は貸さないまでも、あいつは約束を守ってくれた。これがヴローヴへの牽制だとしても、街と俺たちを守ってくれたのだ。
-Even if she hasn't helped Ciel-senpai, she kept her promise. Because even though she simply contained Vlov, she still protected us and the city.
+She may not have directly helped Ciel-senpai, but she still kept her promise.
+ Even though this is all just to keep Vlov in check, she did it in such a way as to protect the city and all of us.
 }
 [sha:a7e54886f3b0ee2ca18b3f1812badae5fb6ad428]{
 -- Page 672, Offset 12638.
@@ -432,12 +446,12 @@ The rest is up to me.
 [sha:0e700d30b10e152200b0dc97f861a7fb36ff24bb]{
 -- Page 672, Offset 12640.
 -- 先輩を助ける。ヤツをここで仕留める。
-I'll save Senpai. I'll kill him right here.
+I'll save Senpai. I'll kill that bastard right here.
 }
 [sha:974f9c581346511617a01106e26bc359f821a991]{
 -- Page 672, Offset 12641.
 -- この状況において、その二つは同義だと直感する。
-Considering the situation, I sense that the two are synonymous.
+I feel that in this situation, the two are synonymous.
 }
 [sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
 -- Page 672, Offset 12642. Mods: @k, @e.
