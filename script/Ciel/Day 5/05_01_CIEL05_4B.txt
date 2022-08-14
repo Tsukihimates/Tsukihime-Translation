@@ -46,7 +46,7 @@ She releases her grip on my waist.
 [sha:ab401f12186aeb11db5341c1b91a5ea5c0f68073]{
 -- Page 734, Offset 12845.
 -- 背後で、何か重いものを拾い上げる音がする。
-Behind me, I hear the sound of something heavy being lifted up.
+Behind me, I hear the sound of something heavy being picked up.
 }
 [sha:f36bc643f89e5717b82322dec83814da6a3fcc8d]{
 -- Page 735, Offset 12846.
@@ -196,8 +196,8 @@ Which way will the scales tip for him?
 [sha:d815807c6324757a0a92a6506ca759d96f31f57e]{
 -- Page 743, Offset 12874.
 -- 地上を走る俺と、上空から援護する代行者。
-Will he go for me, running along the ground?
- Or for the Executor, covering me from above?
+Will he go for me, running along the ground?%{n}
+Or for the Executor, covering me from above?
 }
 [sha:b6a8c9e9473e49699db237566efc12db639d4e19]{
 -- Page 743, Offset 12875.
@@ -241,7 +241,8 @@ Petty emotions such as anger cannot command this intensity.
 [sha:bd3deccd6f4c60d72210d8674f3b4c80b22cf3aa]{
 -- Page 746, Offset 12881.
 -- ああ―――素晴らしいが、なんて愚か。
-%{i}Ahhh%{/i}―――How beautiful, but how foolish.
+%{i}Ahhh%{/i}―――%{n}
+How beautiful, but how foolish.
 }
 [sha:bcecc0b19ae1d3962c05b1022d61483b460cc0fc]{
 -- Page 746, Offset 12882.
@@ -365,7 +366,7 @@ Instead of destroying that vampire's vessel, I erased the fire that burned withi
 [sha:084e581666228a45521cbc76945a014d575e392b]{
 -- Page 753, Offset 12905.
 -- 失敗した―――あの輝きではなくヤツの死だけを視ていれば、例外なく“殺し”きれたものを―――！
-I failed―――If only I'd been looking at his death instead of that radiance, I would have 'killed' him for sure―――！
+I failed. If I'd been looking at his death instead of at that radiance, I'd have 'killed' him for sure―――！
 }
 [sha:f21f4f6d315477dd1d34789ea99858654cc61937]{
 -- Page 753, Offset 12906.
@@ -376,7 +377,7 @@ I failed―――If only I'd been looking at his death instead of that radiance,
 [sha:0400a1e625941729c851f4bb9440224eb375ba47]{
 -- Page 754, Offset 12907.
 -- その身を焦がす呪いから解放された吸血鬼。
-The vampire has been released from the curse scorching his body.
+The vampire has been released from the curse that scorched his body.
 }
 [sha:7189c23c7545342a5e795d7f74865a43e2c37f73]{
 -- Page 754, Offset 12908.
@@ -391,7 +392,7 @@ The man, who has returned to being a mere Dead Apostle, brandishes his claws.
 [sha:0162ad58a934b331358cf8c2a783feced31bee3d]{
 -- Page 756, Offset 12910.
 -- それをなぎ払う蛇腹の剣。
-The serpentine whip sword mows them down.
+The serpentine sword mows them down.
 }
 [sha:26246a90bc18c731b6e322babe43db045d75ce57]{
 -- Page 756, Offset 12911.
@@ -401,7 +402,7 @@ The gigantic telescoping sword latches onto the body of the vampire, almost like
 [sha:5fe6eaa73acf41ec7b552cc96f005ae29450c540]{
 -- Page 757, Offset 12912.
 -- 音をたてて回転する断罪刃。
-The sword of judgement makes a whirring noise as it spins.
+The sword of judgment makes a whirring noise as it spins.
 }
 [sha:f9f88b3119d2b94d368005679c52cf5a5a4c81ac]{
 -- Page 757, Offset 12913.
@@ -456,7 +457,7 @@ An inescapable death blow.
 [sha:c40d91510a4d469a10cfba42fb59eb4339a5d172]{
 -- Page 761, Offset 12923.
 -- あばら骨はおろか胴体ごと撃ち砕く衝撃を受けて、吸血鬼はなおその凶爪を伸ばす。
-The impact doesn't just shatter his ribs, it pulverizes his entire body.
+The impact doesn't just shatter his ribs, it pulverizes his entire torso.
  Even after taking such a hit, the vampire extends his claws once more.
 }
 [sha:c5fe655dc4bf241090f4c0fde9cad5ed5af80eb7]{
@@ -514,6 +515,6 @@ There is no forgiveness, there is no compassion.
 [sha:4bf27615c5b32c74ca742987f422f0e2371047bd]{
 -- Page 765, Offset 12934.
 -- その杭は罪人を<咎|とが>める鉄槌となって、この地上から吸血鬼の全存在を消滅させた。
-The stake becomes an iron hammer passing judgement upon the sinner,
+The stake becomes an iron hammer passing judgment upon the sinner,
  and eliminates all traces of the vampire from this earth.
 }
