@@ -16,7 +16,7 @@ The traffic restrictions and media blackout put in place by the Mobile Engineer 
 [sha:a9ecaf39b1da5f0d96d565004346d1648906b2ad]{
 -- Page 786, Offset 12988.
 -- 陥没の調査はおろか映像記録すら許可しない隠蔽処理。その指揮を執っているのは警察官でもなければ自衛官でもない。
-A cover-up operation that won't even allow video recordings of the cave-in, let alone an investigation.
+A cover-up operation that won't even allow any photographic evidence of the cave-in, let alone an investigation.
  The person in command isn't a police officer, nor are they a member of the Self-Defense Force.
 }
 [sha:865c0e5881d44e198f33e99d9415e4e2c9d26222]{
@@ -50,7 +50,7 @@ This has gotta be the biggest stink since that incident thirteen years ago, yeah
 -- 「俺に言われても困りますよ坊ちゃん。ハイテク国家とか言われてますけど、そんなのもう10年も前の話ですし？　技術も人間の程度も伸び悩んでるんスからこの国。愚痴……じゃなくて、お叱りは所轄の代行者にぶつけてください」
 "I wouldn't know what to say even if you asked me, young master.
  They call it a high-tech country, but in reality that was what, ten years ago now?
- This country has been stagnating, both in terms its technology and its people.
+ This country has been stagnating, both in terms of its technology and its people.
  Please direct your moaning... er, your %{i}reproaches%{/i} to the Executor in charge."
 }
 [sha:0231d344ce96084e22e73a8b29e04e1e9f268fb4]{
@@ -83,7 +83,7 @@ Some are a members of a search and rescue unit dispatched to the disaster site,
 -- Page 789, Offset 12999.
 -- 彼等は事故の真相を知らされないまま、この異様な現場の後処理に努めている。
 All of them are hard at work dealing with the aftermath of this abnormal disaster,
- even though they've been kept in the dark about the true nature of the accident.
+ though they've been kept in the dark about the true nature of the accident.
 }
 [sha:95d6b0f0a1dbc0f15cf904412d9a86848c0cf21f]{
 -- Page 790, Offset 13000.
@@ -136,7 +136,7 @@ I mean, even with a gag order, there's going to be leaks, right?"
 -- Page 795, Offset 13008.
 -- 「理由さえあればあとは力仕事だわな。何の為にうちのジジイが権力バラまいてると思ってやがる。押さえるのは<上|トップ>だけでいいんだよ。下っ端や真ん中が不審がっても関係ねえ。最後にまとめる人間が握りつぶせばそれでおしまいだ」
 "So long as we have a cover story, the rest is just a matter of legwork.
- Why do you think my old man's been doling out power left and right?
+ Why d'ya think my old man's been doling out power left and right?
  All you gotta do is put pressure on the guys at the top.
  Doesn't make a fat bit of difference if the small fry or middle men get suspicious.
  If the people in charge crush 'em, that'll be the end of it."
@@ -144,38 +144,55 @@ I mean, even with a gag order, there's going to be leaks, right?"
 [sha:6ea15e6faee1e6139fd1dc7d3d3a075c1d9a1735]{
 -- Page 796, Offset 13009. Mods: @k, @e.
 -- 「……はあ、そりゃあ辛い。そっかー、そういう風に闇に葬られてきたのかー。
-"...Haa, that's harsh. I see, so that's how it's going to be hushed up.
+"%{i}Sigh%{/i}... no mercy huh.
+ So that's how you plan on hushing it all up.
 }
 [sha:68e29f8b315c8e3e2ce21da1695e602aecf16ecb]{
 -- Page 796, Offset 13010. Glued. Mods: @x.
 -- 坊ちゃん、その歳でエリートコースまっしぐらッスね。家柄的な話プラス、精神的な話で。なんかこう、もっと年相応の遊び心とかないんですか？」
- Young master, at your age, you're going on the fast track at full speed. Speaking of your pedigree and mentality. I mean, don't you feel the desire to act a bit more like the other kids your age and go have some fun?"
+// I think canon is that he's 'adopted', right? So lineage/pedigree for 家柄
+// probably isn't the best, it's also something that can't be actively
+// improved, so it's not like he can be dedicating himself to it instead of
+// more 年相応の遊び. Rendering as social standing instead.
+// Mario grindset
+ You're still young but you're already gunning it for the fast track aren't you, young master?
+ Both in terms of your social status and your mindset.
+ I mean, don't you ever feel like acting like a kid and having some fun?"
 }
 [sha:6b5a46592fca4924d9eda81d955c113f1bc5c10d]{
 -- Page 797, Offset 13011.
 -- 「あるかンなもん。ガキってのは基本つまらねえもんだって忘れたのか30歳？　オラ、無駄話してねえで監督してきやがれ。ヤバめな証拠は隠滅しとけよ」
 // He says 30歳, thirty year-old. Just imagine that I thought about "30 year old boomer" for a second haha
-"No fucking way. Have you forgotten that brats are all dull, you 30-year-old-geezer? Quit it with your nonsense and go supervise. And make sure to destroy any dangerous evidence."
+"Absofucking%{i}lutely%{/i} not.
+ Have you forgotten how goddamn dull being a kid is, you thirty-year-old geezer?
+ Come on, quit spouting crap and go keep and eye on those fuckers.
+ And if you come across any dangerous evidence, torch it."
 }
 [sha:e84e94817169e354e0a426bb913baf775ca1075f]{
 -- Page 797, Offset 13012.
 -- 「へーい。上司の命令とあればよろこんでー」
-"Yeah. If those are my boss's orders, with pleasure."
+"Alrighty. If those are my orders, then with pleasure."
 }
 [sha:a5be56357297b2f26e024694d5b19b0989a57747]{
 -- Page 798, Offset 13013.
 -- 「……アレでもちっと緊張感があれば使えるんだがな。あの捨て鉢さはなんだ、若い頃に挫折でもしたのかカリウス？」
-"...If only he had some sense of urgency, then he'd be more useful. To be so low-spirited, did he break down when he was young or something? What do you think, Karius?"
+"...That guy would really come in handy if he had any fucking sense of urgency at all.
+ How'd he end up in such a sorry state...
+ He run into some kinda setback when he was young or what, Karius?"
 }
 [sha:c99b4827f10eb2502f08740495726839c3e10818]{
 -- Page 799, Offset 13014.
 -- 「私にはとんと。安藤の私生活に興味はありませんので。
-"I haven't the slightest idea. I don't have any interest in Andou's private life.
+"I haven't the slightest idea. Andou's private life holds no interest for me.
 }
 [sha:4d5e1406f183d7f3cc5b7de59cefb742bdfb0098]{
 -- Page 799, Offset 13015.
 -- ３年前、悪徳司祭の内部告発を決意したものの、最後の最後で金に目が眩んだ恋人に裏切られ、故郷を追われ、失意の果てに父方の祖国であるこの国に島流しになった、という事ぐらいしか。
-I only know that he decided to blow the whistle on a corrupt priest, but at the last minute, was betrayed by his lover who had been blinded by the promises of riches, was driven out from his hometown, and was, at the depths of despair, exiled to Japan, his paternal native country.
+All I know is that three years ago he decided to blow the whistle on a corrupt presbyter,
+ but was betrayed at the final hour by his lover, who had been blinded by greed,
+ after which he was driven from his hometown and then,
+ to finish off his tale of adversity,
+ was exiled to his father's homeland―――to this country.
 }
 [sha:d1e9a07047d02264a3ff29a68ebcf4695755fcba]{
 -- Page 799, Offset 13016.
@@ -185,7 +202,10 @@ Also, it seems that after paying back 30,000 yen to a bank last month, he took o
 [sha:a9c66661f2b2efb5267c52fe7fa2644c49776ff8]{
 -- Page 800, Offset 13017.
 -- 「………充分知ってるじゃねえか。まあ、仲がいいのはいいコトだ。当面オレの下はオマエとアンドーだけだからな。チームワーク磨いとけよ」
-"...You sure know a lot though. Anyway, it's good that you're getting along. Currently, Andou and you are my only subordinates after all. Improve your teamwork."
+"...What was that, his life story?
+ Whatever, glad you two are getting along.
+ You and Andou are the only subordinates I got right now.
+ Polish up your teamwork."
 }
 [sha:072555fa8677f6eeb960c7a7d75f51e17a89e730]{
 -- Page 800, Offset 13018.
@@ -195,12 +215,13 @@ Also, it seems that after paying back 30,000 yen to a bank last month, he took o
 [sha:86ab5589681722c0785d88688548ca23d652bc02]{
 -- Page 801, Offset 13019.
 -- 「おう、仲良くな。んじゃあそろそろ報告でも聞いとくか。
-"Yeah, get along well, okay? Well, it's time to hear the report then.
+"Yeah, get along well, okay?
+ Now then, 'bout time we here that report.
 }
 [sha:e4dd99a4baa0e0f2e4a0070129cbc7b03d7bb9c2]{
 -- Page 801, Offset 13020.
 -- あの使えない方の女、通していいぜ」
-You can let that useless woman through."
+You can let that waste of space though."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 802, Offset 13021.
@@ -215,22 +236,22 @@ A woman with a nervous look on her face appears.
 [sha:66d5a33c5a5fd6f76c8a5efaca8b8f9db441b855]{
 -- Page 802, Offset 13023.
 -- 代行者ノエル。事件の全容を知る数少ない人間である。
-Executor Noel. She is one of the few who know the full truth of the incident.
+Executor Noel. She's one of the few people who know all the details of what happened here.
 }
 [sha:be87980fa54da5276b71ac25cd658c9c4e70a77a]{
 -- Page 803, Offset 13024.
 -- 「本日付けで赴任した監督司祭代行、マーリオゥ・ジャッロ・ベスティーノだ。
-"I am Mario Gallo Bestino. As of today, I've been newly appointed as Supervising Acting Presbyter.
+"Name's Mario Gallo Bestino. As of today, I'm the new Supervising Acting Presbyter.
 }
 [sha:18655a5fa7f559b7f65daa3ac4e0ac190c558c04]{
 -- Page 803, Offset 13025.
 -- 顔合わせは初めてだよな、代行者ノエル？」
-It's the first time we've met, right, Executor Noel?"
+This is the first time we've met, right, Executor Noel?"
 }
 [sha:93dff7d1503327a44519102420422ec398960a50]{
 -- Page 803, Offset 13026.
 -- 「ベ……ベスティーノって、あのラウレンティス枢機卿の……ですか!?」
-"B-Bestino, you mean, as in 'Laurentis'...!?"
+"B-Bestino, you mean, as in Cardinal Laurentis...!?"
 }
 [sha:f4c30f84b247a76b3c054b96ef455b3383169d06]{
 -- Page 804, Offset 13027.
@@ -240,63 +261,73 @@ Her surprise is completely understandable.
 [sha:31f091e0264cd81b49c0468dee0b5ac17f103f55]{
 -- Page 804, Offset 13028.
 -- 少年の名は教会の人間にとって無視できない事柄だ。
-His name is not something that can be ignored by the people of the Church.
+The boy's name is not something that can be taken lightly by members of the Church.
 }
 [sha:65d444335f65ff1baaac58b8abb00a2e47e112cb]{
 -- Page 804, Offset 13029.
 -- 聖堂教会の頂点である法王と、
-The Pope, the pinnacle of the Holy Church.
+The Pope is the pinnacle of the Holy Church.
 }
 [sha:cf570b2b5da72eed3a990720850659578e49f0d1]{
 -- Page 804, Offset 13030.
 -- その法王を支える128人の枢機卿。
-As well as the 128 Cardinals assisting him.
+Assisting him are 128 cardinals.
 }
 [sha:3564f7b08ec911567734f56dc35c392a78c7b9a0]{
 -- Page 804, Offset 13031.
 -- 最高権力者たちの集まりである枢機卿の中でも最大の発言力を持ち、次代の法王は確実と言われているのがラウレンティス枢機卿であり、その孫がこの少年、マーリオゥなのである。
-Even among those who hold the highest positions of power, Cardinal Laurentis is said to be the most influential. He's the next in line to become pope. His grandson is Mario, this boy.
+Even among the cardinals, who are some of the most powerful figures in the Church,
+ Laurentis stands head and shoulders above the rest.
+ People say it's all but certain he'll be the next pope.
+ And this young boy is his grandson, Mario.
 }
 [sha:b3d5c55ad470ccc7e1736dc4fb1444325759a35b]{
 -- Page 805, Offset 13032.
 -- とはいえ、マーリオゥは実子ではない。枢機卿に妻帯は許されていないからだ。
-That being said, Mario isn't his legitimate family, as Cardinals are not allowed to marry.
+Though, that's not to say they're actually related.
+ Cardinals are not permitted to marry.
 }
 [sha:fc0942d8f95e412226158cf3de09112528978102]{
 -- Page 805, Offset 13033.
 -- 原則として彼等は養子をとり、育て、自らの後継者とする。
-As a general rule, they adopt children, raise them, and prepare them as successors.
+Instead, it's common practise for them to adopt children, raise them, and groom them to be their successors.
 }
 [sha:3c0a9f2a9bdfd8519494b0b4cb2ad7611813cde8]{
 -- Page 805, Offset 13034.
 -- 血族主義ではなく実力主義。
-// 血族主義 is actually not an real compound word, though readily understandably. DeepL proposed bloodocracy, which is pretty nice. I learned that the word nepotism actually find its roots in the practice of Cardinals appointing nephews to important positions, which is perfect here, except that nepotism today also works for friends. So blood nepotism.
-This isn't blood nepotism but meritocracy.
+// G: 血族主義 is actually not an real compound word, though readily understandable.
+// G: Bloodocracy sounds cool, but isn't really a word in EN.
+// G: I learned that the word nepotism actually find its roots in the practice of Cardinals appointing nephews to important positions, which is perfect here, except that nepotism today also works for friends.
+// R: Rendered as dynastocracy here, which is tenuously a word that's in use,
+// but is more arguable than hemocracy or whatever and keeps the common ~主義 nicely.
+It isn't a dynastocracy so much as a meritocracy.
 }
 [sha:81045cf5302fe2ac0f26da8fd12fcd50b8580de6]{
 -- Page 805, Offset 13035.
 -- より深い信仰、深い知識、深い道徳を持つものが神の家を支える柱として選ばれる。
-Only those who hold stronger faith, deeper knowledge, and firmer morals are chosen to serve as the pillars of the House of God.
+Only those who hold the strongest faith, deepest knowledge, and firmest morals are chosen to serve as the pillars of the House of God.
 }
-[sha:1748e24b16a5e79bdafda66974b2da9e9622b1c3]{
+[offset:13036]{
 -- Page 806, Offset 13036.
 -- ―――が。
-―――But.
+Except...
 }
 [sha:288eb83e3ca652440272e577e0056ca5975dc115]{
 -- Page 806, Offset 13037.
 -- ラウレンティス枢機卿には公然の秘密があった。
-Cardinal Laurentis had an open secret.
+There's an open secret regarding Cardinal Laurentis.
 }
 [sha:8356bb4e7555d24f131dab88fb10f9edff0beada]{
 -- Page 806, Offset 13038.
 -- 彼は多くの子を養子にし財産を分け与えたが、その息子たちの顔立ちはみな、ラウレンティス枢機卿に似通っていた。
-He adopted many children, handed them his fortune, but all of his sons closely resembled him.
+He may have adopted many children and divided his fortune among them,
+ but all of his sons bear an uncanny resemblance to the man himself.
 }
 [sha:a017c5e51470f4242d680cff4e2b74cf86f52ec8]{
 -- Page 807, Offset 13039.
 -- 女好きの枢機卿。金と権力で枢機卿の座についた俗物。
-The Cardinal is a lustful man, a vulgar person who became Cardinal because of his money and influence.
+The Cardinal is a lustful man.
+ A philistine who rose to the rank of Cardinal through his money and influence.
 }
 [sha:0773feae9e0a04c134706561ae92c3f0cba543ee]{
 -- Page 807, Offset 13040.
