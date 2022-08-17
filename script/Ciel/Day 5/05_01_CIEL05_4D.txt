@@ -340,7 +340,9 @@ This is the image that many of the faithful have of him.
 -- Page 808, Offset 13041.
 -- もっとも、ラウレンティス枢機卿を知る司祭たちは彼の真実を知っている。信仰心、思慮深さ、人間力。そのすべてが教会を支えるに相応しい人物だと。
 // I chose charisma for 人間力 but it could be a lot of other things
-Of course, the priests who know Cardinal Laurentis are aware of the truth. Piety, thoughtfulness, charisma. All of which makes him worthy of supporting the Church.
+Of course, the presbyters who know Cardinal Laurentis personally are aware of his true nature.
+ He is a man of piety, thoughtfulness, and charisma.
+ All qualities that make him worthy of supporting the Church.
 }
 [sha:6901cc7821320733d8ee47d508233ece504c4eec]{
 -- Page 808, Offset 13042.
@@ -350,47 +352,54 @@ His one and only flaw is his love of women.
 [sha:7681a7dac155c16dd2a8f721c5bfd49f646998bf]{
 -- Page 809, Offset 13043.
 -- その孫……あくまで表向きはだが……であるマーリオゥは、特にラウレンティス枢機卿から覚えがよく、遅咲きの後継者だと言われている。
-Mario... who is known to the public as his grandson, is said to be a late-blooming successor. He is held in high regard, particularly by Cardinal Laurentis.
+// Reading 遅咲き is late_comer_ (young out of his brothers) rather than late _bloomer_ (he seems to have bloomed very early)
+Cardinal Laurentis holds his grandson――ostensibly in name only――Mario in high regard,
+ and there are whispers that he's likely to come from behind to claim the title of successor.
 }
 [sha:beecb60f3a4432254c78b4b903bcfe187b543397]{
 -- Page 810, Offset 13044.
 -- ベスティーノという姓はラウレンティス枢機卿がまだ片田舎に住んでいた頃の旧姓である。20人を超える養子……いや、兄たちを差し置いて、この姓を与えられた少年がどれほど期待されているかなど、信徒であれば説明されるまでもない。
-The surname Bestino is the old family name of Cardinal Laurentis, back from where he was still living in the remote countryside. All the faithful know very well just how much is expected of the young boy who was granted this surname, over more than twenty other adopted sons... no, over more than twenty of his brothers.
+The surname Bestino is Cardinal Laurentis's old family name, a memento from when he was still living in the backwoods.
+ It's obvious to any member of the clergy just how high Laurentis's expectations must be for this boy,
+ if he bestowed his this surname after denying it to his other twenty adopted sons―――to the boy's twenty brothers.
 }
 [sha:7271f7746b3b84d8313830740a34462767a53317]{
 -- Page 811, Offset 13045.
 -- 表舞台から姿を隠し、隠居生活に入った権力者の秘蔵っ子。
-The treasured son of a powerful man who has hidden himself from the public eye and entered a life of seclusion.
+This boy is the favorite child of a powerful man,
+ a man who has hidden himself from the public eye to live out his retirement.
 }
 [sha:b6676c9fd4eee95bf377222651494006d05e8dbd]{
 -- Page 811, Offset 13046.
 -- それが目の前にいる少年だと知れば、ノエルのごとき一代行者が震え上がるのは当然と言えた。
-It's not surprising that a simple Executor like Noel would tremble at the sight of the boy.
+It's not surprising that a simple Executor like Noel would tremble at the sight of this boy.
 }
 [sha:624f264c69f4764185ebe25b54bb1cf3aca441d3]{
 -- Page 811, Offset 13047.
 -- ……だからこそ彼女は思う。
-...That's exactly why she's asking herself.
+Which is why she's asking herself...
 }
 [sha:22e2af0c45a6c9707cb5f1b1661821b73b98e48f]{
 -- Page 811, Offset 13048.
 -- 本国にいれば将来が約束されたエリート中のエリート。
-The elite amongst the elite who is assured a future in his home country.
+If this boy is a member of the elite, whose future would be handed to them in their home country―――
 }
 [sha:9d5e9ffe1d78b3dcd58089c561a42c82617705b5]{
 -- Page 811, Offset 13049.
 -- その<少年|マーリオゥ>が、なぜこんな島国に単身現れたのか……？
-Why has such a boy come to this island nation all alone...?
+Then why have they come to this island nation all on their own...?
 }
 [sha:b11fbab01fe64befba61f74935c259b95d047bd1]{
 -- Page 812, Offset 13050.
 -- 「で、でも……本当、に？」
-"B-But... Really?"
+"I-I mean... are you really...?"
 }
 [sha:c1d027f9c58f36a2d664674436646a6356ced878]{
 -- Page 812, Offset 13051.
 -- 「アン？　なんだ、免許証でも見せてほしいのか？　テメェ、オレがガキだからって舐めてんのか？」
-"Haa? You want me to show a license or something? You making fun of fun me 'cause I'm a kid?"
+"%{i}Huuuh%{/i}?
+ What, you wanna see a fucking certificate?
+ You making fun of fun me 'cause I'm a kid?"
 }
 [sha:72228f11e59023f886400f27ae70148af77715be]{
 -- Page 813, Offset 13052.
@@ -400,18 +409,21 @@ Why has such a boy come to this island nation all alone...?
 [sha:631c38f54c8d3a1c581e916c23c6d775739f496e]{
 -- Page 813, Offset 13053.
 -- で、でも……あの、枢機卿のお孫さんにしては、その……若すぎる……ような？」
-I-It's just... Umm, for the grandson of a Cardinal, you're... sort of... too young?"
+I-It's just... Umm, you seem... well... you know... too young to be the Cardinal's grandson?"
 }
 [sha:43363c4ec437aca7817ae62d2899e9443c768d5f]{
 -- Page 814, Offset 13054.
 -- 「そりゃあ若ぇだろ。ジジイが百歳超えてから愛人に産ませたガキだからな。今年で12だ、おそれいったか。しかもまだ弟がいるって話だ。
-"Sure, I'm young. I'm the child of a mistress the old man impregnated when he was more than a hundred years old. I'm twelve this year, surprised? And what's more, I even have some younger brothers.
+"You bet I'm goddamn young.
+ I'm the child of a mistress my old man knocked up when he was already over a hundred years old.
+ I'm twelve this year, ain't that fucking crazy?
+ Hell, I've even got some younger brothers!
 }
 [sha:038be432000cbdd7428b2090b7bb608915e5d1cf]{
 -- Page 814, Offset 13055.
 -- ……ったく、うちのジイ様は吸血鬼以上の絶倫だぜ」
 // 絶倫 is often used in a sexual manner, and considering the reaction just below, I prefer to use someone rather explicit.
-...Sheesh, our old man is even more of a stud than vampires."
+Christ... my old man's even more of a stud than most vampires."
 }
 [sha:dccc06c819437738963181f6bd25acc8e346a794]{
 -- Page 815, Offset 13056.
@@ -426,88 +438,97 @@ W-What are you saying...?!"
 [sha:2fd2d5f6505754f3f0e9d10eb1d93a852e72d45a]{
 -- Page 816, Offset 13058. Mods: @k, @e.
 -- 「ただのグチだ、聞き流せ。
-"Just grumbling, ignore it.
+"Just grumbling, forget it.
 }
 [sha:46f64fc807d10dbe03ade308d0aa44c10293ff20]{
 -- Page 816, Offset 13059. Glued. Mods: @x.
 -- テメェもそこまで信心深いってハラじゃねえだろ。無理して“らしい反応”してんじゃねえよ。
- And I know you aren't %{i}really%{/i} that pious. Don't force yourself to have a 'proper reaction'.
+ And I know you ain't %{i}really%{/i} that fucking pious.
+ Don't even bother with the fake pearl clutching.
 }
 [sha:393a942bc47aad7d5b8a048b28db5425f6e9083d]{
 -- Page 816, Offset 13060.
 -- んなコトより本題だ本題。コトの始まりには間に合わなかったが、最後のシメだけは見せてもらったぜ」
-'nyways, let's get down to business. I couldn't make it for the beginning, I only saw the very end."
+'Nuff about that, let's get down to business.
+ I couldn't make it for the opening act, I only saw the finale."
 }
 [sha:aafbfc7662ec3b271e1c0e01c27ff863485f8390]{
 -- Page 817, Offset 13061.
 -- 「あ―――は、はい。
-"Ah―――Ah, yes.
+"Ah―――O-Of course.
 }
 [sha:3f7231044eb691d7c6c2f208e59c03d138ab008b]{
 -- Page 817, Offset 13062.
 -- 事の始まりと言うと、どのあたりから……でしょうか？」
-By 'the beginning', when exactly was that... sir?"
+When you say 'opening act', which part was that exactly... sir?"
 }
 [sha:90dca1eeb69a2b3e5ea14bb2383ff3a59b9fe17e]{
 -- Page 818, Offset 13063.
 -- 「テメェが逃げ出したところからだ。いい判断だったな代行者ノエル？　おかげで命があるワケだ。三流は三流らしく、テメェの命を最優先ってなァ？
-"Around when your dumb ass ran away. That was a good decision, Executor Noel, huh? Thanks to that, you're still alive. A third-rate doing as third-rates do and prioritizing her own life, right?
+"It was the part where you turned tail and legged it, asshat.
+ Good thing you did too, right, Executor Noel?
+ I mean thanks to that you're still in one piece.
+ You can always trust a third rate piece of shit to give their life top priority, can't ya?
 }
 [sha:f58f44656ea28b85efab34432cd17d18ca153143]{
 -- Page 818, Offset 13064.
 -- 逃げ足だけは見所あるよ、オマエ。10年近く使い捨ての狗ころやってるヤツは筋金入ってやがる。オレが法王庁に帰り次第、テメェは首だ。修道院送りじゃねえぞ。ギロチン送りの方な」
 // 首を切る meaning to fire someone and to behead someone.
-The only thing you're good at is running away. Those who've served as disposable dogs for almost ten years should have some backbone. As soon as I return to the Vatican, I'll have your head. And I don't mean I'll send you to a monastery. I mean I'll send you to the guillotine."
+Only thing you're any goddamn good at is running away.
+ You'd think that after being a disposable attack dog for ten years you'd have grown a fucking backbone.
+ The second I get back to the Vatican I'm gonna have your head.
+ And I don't mean I'll send you to a monastery―――I mean I'll send you to the fucking guillotine."
 }
 [sha:9d63530f81ce490fd69d486daec2efd03f2ac721]{
 -- Page 819, Offset 13065.
 -- 「へ―――？」
-"Huuh―――?"
+"%{i}Huuh%{/i}―――?"
 }
 [sha:493e04c81a8e6f801e7cbbe92a0b86c0ddbea98f]{
 -- Page 819, Offset 13066.
 -- 突然の死の宣告に理解が追いつかない。
-Her thoughts couldn't keep up with the sudden death sentence.
+It takes her a moment to process that she's suddenly been handed a death sentence.
 }
 [sha:ef4b268f6af5d10168e9c8470d268ca34e59427c]{
 -- Page 819, Offset 13067.
 -- 女は数秒、自分の心臓が停止したかのような恐怖に打ちのめされ、
-For a few seconds, she was overwhelmed by a terror such that her heart seemed to stop.
+For a few seconds, she's so overwhelmed by terror that she wonders if her heart has stopped.
 }
 [sha:237d40bd1a385a30da2d069e330e9f0dedc254e1]{
 -- Page 820, Offset 13068.
 -- 「まま、待ってください……！
-"W-Wait please...!
+"W-Wait, please...!
 }
 [sha:0035d29a7e277d32693dcb03a336c1b0556f7dab]{
 -- Page 820, Offset 13069.
 -- あ、あの、あれには深い訳、が、ありまして―――！」
-T-There's a, umm, really good reason―――!"
+I, uh, I actually had a really good reason for doing that―――!"
 }
 [sha:c6b30b9307b9f21978bb0204034a8b85e4a11769]{
 -- Page 821, Offset 13070.
 -- 必死に、両膝を地面につけて弁解した。
-Desperate, she pleads and falls down on her knees.
+Desperate, she falls to her knees and tries to explain herself.
 }
 [sha:3ffde6fbfed691ac3423032e8a262289d648bb95]{
 -- Page 821, Offset 13071.
 -- 共闘者であるシエルを置き去りにしての逃亡。
-Fleeing and leaving behind her partner Ciel.
+She had abandoned her partner, Ciel, and fled.
 }
 [sha:4b27a655993f96cfa8dcb38015e594ac01c89535]{
 -- Page 821, Offset 13072.
 -- あれは自己保身から行った行為ではない。
-It wasn't a decision taken to save herself.
+But she didn't just do that to save her own skin.
 }
 [sha:3034e95f782984ff141f579572aaf4a4e2891f61]{
 -- Page 821, Offset 13073.
 -- あくまで応援を呼ぶため、本命である吸血鬼を殺すため、やむなく撤退したにすぎないと。
-She says that it was only so she could call for help. That in order to kill her true target, she had no choice but to retreat.
+She claims that she only fell back so she could go call for support.
+ That in order to go after the vampire that was her real target, she had no choice but to make a tactical retreat.
 }
 [sha:d95351f0a6020ad41cde278c08079d7b41ec619c]{
 -- Page 822, Offset 13074.
 -- 「―――ほう。本命ときたか。
-"―――Ohh. Your true target?
+"Oh? Your real target?
 }
 [sha:5bbbaad4d13e2324c68c3c60a98e6aca44b11df8]{
 -- Page 822, Offset 13075.
