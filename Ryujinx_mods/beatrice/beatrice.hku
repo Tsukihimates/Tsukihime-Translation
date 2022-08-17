@@ -1,4 +1,4 @@
-// build with: haiku -a aarch64 -l example/font.hku font.ips
+// build with: haiku -a aarch64 -l ./Ryujinx_mods/beatrice/beatrice.hku F4B3318D56031E4550EEDDCB12D28FFB78D8397E.ips
 
 // fix buggy line-feed
 instrs c5a18 4 {
