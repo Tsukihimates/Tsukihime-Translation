@@ -1,0 +1,57 @@
+// build with: haiku -a aarch64 -l example/font.hku font.ips
+
+// fix buggy line-feed
+instrs c5a18 4 {
+    mov x0, x9
+}
+
+// cancel full-width extra spacing between lines.
+instrs c05cc 4 {
+    nop
+}
+
+// stop line feed
+instrs c5a24 4 {
+    b #0x4b4
+}
+
+// install trampoline
+instrs be86c c {
+    !call #0xc4dd8
+    // skip old check logic
+    cmp w8, #0x00
+    beq #0x1fc
+}
+
+// utf32 in w0
+// result in w8 (gets overwritten by ldr immediately)
+// 0x00 is mode 0, 0x01 is mode 1.
+// sure hope this code is as unused as it seems!
+instrs c4dd8 30 {
+    cmp w0, #0x100
+    bgt #0x0C
+    // ascii
+    mov w8, #0x01
+    ret
+
+    cmp w0, #0xE000
+    blt #0x14
+    cmp w0, #0xF000
+    bgt #0x0C
+
+    mov w8, #0x01
+    ret
+    mov w8, #0x00
+    ret
+
+}
+
+// Enable recording video
+instrs fbf54 4 {
+    !jump #0x153920
+}
+
+// Enable taking screenshots
+instrs fbf68 4 {
+    !jump #0x153940
+}
