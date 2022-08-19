@@ -51,12 +51,12 @@ It's strange, but I feel as though it's been
 [sha:28d7d5b88975e47ad115ac6c52ce3250f1f32f36]{
 -- Page 40, Offset 13253.
 -- 秋葉はいかにも“私、怒っています”な視線を向けてくる。
-Akiha's definitely looking at with anger in her eyes.
+Akiha's definitely looking at me with anger in her eyes.
 }
 [sha:72f9be46abdd425ad2c558a627e1b512792e6b6b]{
 -- Page 40, Offset 13254.
 -- 刺々しさは既に最高潮だった。
-She's jumped straight to peak prickliness.
+She's already achieved peak prickliness.
 }
 [sha:3f213fe2beb3d3381fde4a326b1174514e1d396a]{
 -- Page 41, Offset 13255.
@@ -191,7 +191,7 @@ At that, the teacup that Akiha was holding fell onto the table.
 [sha:92b2608e1c7e2123781ef2ec230b40f282f32a80]{
 -- Page 50, Offset 13281.
 -- いや、意図的に落とした、という表現の方が正しかった。
-// LintConsistent:14078
+// LintConsistency:14078
 No, it's more accurate to say that she dropped it on purpose.
 }
 [sha:21cb5e69dce8b92120f89931cb8c358732cf7012]{
@@ -207,7 +207,7 @@ No, it's more accurate to say that she dropped it on purpose.
 [sha:cc12226b1bef68e28f590fad059098d285de8a79]{
 -- Page 52, Offset 13284.
 -- 翡翠が無言でこぼれた紅茶とか、欠けた……とても高級そうな……ティーカップを片付けていく。
-// LintConsistent:14082
+// LintConsistency:14082
 Hisui silently cleans up the spilled tea and the broken... very expensive looking... teacup.
 }
 [sha:b6dc4c9e37e509bceec46b2f32ebdb1d8804c20d]{
@@ -264,7 +264,6 @@ There's no way I can let her hear such a tale.
 [sha:f9d3d923295450f306b93c99b259db6729381c48]{
 -- Page 56, Offset 13295.
 -- 「……秋葉には余計な心配をさせて悪かったと思ってる。連絡を入れなかった事も謝る。だけど、話せない事は話せない」
-// LintConsistent:14094
 "It was wrong of me to cause you needless worry. I also apologize for not getting in touch. But even so, there are some things that I cannot talk about."
 }
 [sha:dd2ec178c011f0925723cebf6eaaf6935a3b1614]{
