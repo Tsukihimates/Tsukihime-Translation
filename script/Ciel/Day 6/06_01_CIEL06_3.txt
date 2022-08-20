@@ -65,19 +65,19 @@ Kohaku... is busy preparing breakfast, so why don't I call for Arach-sensei inst
 -- 「阿良句先生って……あの人を呼んでどうするんだよ。というか、いるの、あの博士？」
 "Arach-sensei...
  What are you calling her over here for?
- Also, wait, that doctor is hanging around here?"
+ Also, wait, that professor is hanging around here?"
 }
 [sha:6807cbe877f4a92fa48e3d771f8218b9f1774c69]{
 -- Page 124, Offset 13478.
 -- 「……兄さん。くれぐれも先生をハカセ、などと呼ばないように。調子に乗ってしばらく正気を失いますから」
-"Nii-san... I beseech you not to address that woman as 'doctor' or anything that resembles it.
+"Nii-san... I beseech you not to address that woman as 'professor' or anything that resembles it.
  It'll go straight to her head, and it'll take her quite some time to come back down to earth."
 }
 [sha:670a10deecaf9505a5f582a6a153ac9f20e1b96e]{
 -- Page 125, Offset 13479.
 -- 「阿良句先生は昨夜うちに泊まっていたんです。まだ帰っていないようだし、兄さんの体を診てもらいましょう。
 "Arach-sensei spent the night here.
- She hasn't left yer, so I may as well have her examine you, Nii-san.
+ She hasn't left yet, so I may as well have her examine you, Nii-san.
 }
 [sha:8cb74bf230ede658ee4ca14c88874947445531c4]{
 -- Page 125, Offset 13480.
@@ -130,7 +130,7 @@ She'll be here shortly, and all I'm going to have her do is take your temperatur
 -- Page 128, Offset 13489. Glued. Mods: @x.
 -- 解熱剤は……いえ、薬なら琥珀に頼んだ方がいいかしら……
  If you need anything prescribed for your fever she'll...
- no, on second thought, it might be better to have Kohaku take care of any medication.
+ No, on second thought, it might be better to have Kohaku take care of any medication.
 }
 [sha:7204d4fe4622f598749c5ea4ff858df1037fb469]{
 -- Page 128, Offset 13490.
@@ -178,8 +178,7 @@ I take all of my clothes off whenever I get a check-up."
 [sha:d2dcbf8edea18257fd99a26a73c684f7274207f6]{
 -- Page 131, Offset 13498.
 -- 「な―――全部って、つまり全裸ですか!?」
-"W-Wh―――%{n}
-When you say all of them, you mean... %{i}all%{/i} of them?!"
+"W-Wh―――When you say all of them, you mean... %{i}all%{/i} of them?!"
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 132, Offset 13499.
@@ -265,7 +264,7 @@ She must be in a good mood or something, as she's cutting across the courtyard w
 [sha:7dbeff1c790d874a270d1a6b15a2f886811e50c8]{
 -- Page 137, Offset 13514.
 -- ……あの中庭からやってくるという事は、楼閣とやらは屋敷の外にあるのだろうか……？
-If she's crossing the courtyard, then does that mean the pagoda is located away from the mansion...?"
+If she's crossing the courtyard, then does that mean the pagoda is located away from the mansion...?
 }
 [sha:0f47e994796114ea6d2b122e8e6960f80b072c9b]{
 -- Page 138, Offset 13515.
@@ -326,7 +325,7 @@ Instead of going around to the door, Arach-shi comes straight into the living ro
 -- Page 142, Offset 13524.
 -- などと言いながら、阿良句氏は俺の座るソファーまで歩み寄ってきた。
 As she continues to spout off like this,
- Arach-sensei walks up to the sofa I am sitting on.
+ Arach-sensei walks over to the sofa I'm sitting on.
 }
 [sha:170fab96bac36998cf4b58391b9cb79436e1b678]{
 -- Page 142, Offset 13525.
@@ -362,7 +361,7 @@ Or rather, I sure hope she isn't like this every morning.
 [sha:2214be03960493a576a9079e5aa6a667fe612d6e]{
 -- Page 144, Offset 13530. Glued. Mods: @x.
 -- ん？　上着だけ脱ぐ？　脈拍と心音だけ診てくれってコト？
-Hmm?
+ Hmm?
  You're only taking off your shirt?
  You just want me to take your pulse and check your heartbeat?
 }
@@ -399,8 +398,8 @@ Can she seriously tell how much pain I'm in simply by palpating me through my cl
 -- Page 146, Offset 13536.
 -- 志貴チャンが生まれる前から……は言いすぎか、志貴チャンがこーんな小さい時から人体診てるのよ？　ぶっちゃけ顔色見ただけで内臓のダメージまで判ったわよぅ」
 I've been examining people since before you were even born...
- well, maybe that's an exaggeration, but since you were suuuper little okay?
- Frankly, just looking at your complexion was enough to tell me just how badly damaged your internal organs are."
+ well, maybe that's an exaggeration, but since you were thiiis small, okay?
+ Frankly, simply looking at your complexion was enough to tell me just how badly damaged your internal organs are."
 }
 [sha:5b6be8f95dbb50db090defd20142809329338ba8]{
 -- Page 147, Offset 13537.
@@ -422,7 +421,7 @@ I've been examining people since before you were even born...
 // We think he's a boxers or briefs man
 "What don't you get?
  I'm telling you to strip down to those boxers.
- Matriarch-chan's already left the room right?
+ Matriarch-chan's already left the room, right?
  C'mon, nothing wrong with getting a little %{i}au naturel%{/i}.
  That's how I like it.
  Well, you can get totally naked instead if you'd prefer?"
@@ -457,7 +456,7 @@ I've been examining people since before you were even born...
 [sha:7689473276dd1d5155f922dbe925c1dbc6374ae9]{
 -- Page 149, Offset 13544. Mods: @n.
 -- 「って、いつの間にか脱げてる!?」
- "W-Wha... When did I get undressed!?"
+"W-Wha... When did I get undressed!?"
 }
 [sha:e9370eb6de628e513e94623c86770f8f7c1dfc6b]{
 -- Page 150, Offset 13545.
@@ -506,7 +505,7 @@ I guess she's actually an excellent doctor?
 [sha:cf46cb05c45fa34e712fd48a105d0643536f512b]{
 -- Page 152, Offset 13553. Glued. Mods: @x.
 -- なに？　ケンカの相手はひとりやふたりじゃなかったの？　というか刃物持ち出してない、相手？」
-What happened?
+ What happened?
  Were you fighting someone? Maybe two someones?
  And was your opponent using a knife or something?"
 }
@@ -558,7 +557,7 @@ Shiki-chan, the only part of you that's unharmed is your right hand...
  If someone else was injured, make sure to tell me, 'kay?
  If you're this beat up, then whoever was with you must have some nasty wounds too.
  And I mean, even shallow wounds can get infected.
- They could think they were completely fine while the poison slowly spreads, no?"
+ They could think they're completely fine while the poison slowly spreads, couldn't they?"
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 157, Offset 13562.
@@ -574,7 +573,7 @@ Her words make me think of Ciel-senpai,
 [sha:66cd43c07eb708792418a2d16263e6695ace2f56]{
 -- Page 157, Offset 13564.
 -- ……阿良句博士の言う通りだ。
-Professor Arach has hit the nail right on the head...
+Professor Arach hit the nail right on the head...
 }
 [sha:d18c16e27775f7d0dac37d2afc50c440a8e33678]{
 -- Page 157, Offset 13565.
@@ -603,7 +602,7 @@ That settles it, after breakfast it's time for some Ultra IV Time in your room!
 [sha:8cc305113c75d3c9b1323e8556b785cc7cf69741]{
 -- Page 158, Offset 13569.
 -- それじゃ、チャオー♪」
-Well then, ciaoー♪"
+Well then, ciao―――♪"
 }
 [sha:9e2a3e76f9e4d8877e8cff3fbe6d411d01b76a5e]{
 -- Page 159, Offset 13570.
