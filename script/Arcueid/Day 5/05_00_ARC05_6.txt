@@ -1,22 +1,22 @@
 [sha:c5ff37ce2f849f3c421a59389203938b512db7f0]{
 -- Page 10013, Offset 9777.
 -- 「はっ、は―――！」
-"%{i}Ha, ha%{/i}―――!"
+"%{i}Haa―――haa%{/i}―――!"
 }
 [sha:30376c647412b8f914fccb601c571e6b9a46eee8]{
 -- Page 10013, Offset 9778.
 -- ビルから出ると、そこは瓦礫の山と化していた。
-As I leave the building, I see a pile of debris in front of me.
+As I leave the building, I find that the area ahead of me has been reduced to rubble.
 }
 [sha:5ac680993a2450fc00aad76288855b880f8798c3]{
 -- Page 10013, Offset 9779.
 -- 身を<屈|かが>めながら進み、陥没した地面の直前で立ち止まる。
-I crouch down and advance, stopping just at the rim of the crater.
+I crouch down and advance, stopping just short of the rim of the crater.
 }
 [sha:7c82e6eebbe7cc2eda7321539e35f12db1c01f58]{
 -- Page 449, Offset 9780.
 -- いまや地下40メートルとなった窪地。
-The pit is now forty meters deep.
+The new crater is forty meters deep.
 }
 [sha:9d50ab0e1273024fc48faa22aff9d61e3aaaa9b8]{
 -- Page 449, Offset 9781.
@@ -31,12 +31,13 @@ But there's no trace of it anymore.
 [sha:72a6d7de359f22f752361e8486a255dfe714d68e]{
 -- Page 449, Offset 9783.
 -- 瓦礫はスロープ状の傾斜になって地下まで続いている。
-The rubble forms a slope that leads down to the foot of the pit.
+The rubble forms a slope leading down to the foot of the pit.
 }
 [sha:5f215d4d86f99f3f78c6d052e15dc46ee425e5ba]{
 -- Page 449, Offset 9784.
 -- 下から登る事は不可能だが、降りていく事なら俺の足でもできそうだ。
-Although it'd be impossible to climb up from the bottom, I should be able to slide down even with legs like mine.
+Although it'd be impossible to climb up from the bottom,
+ descending should be possible even with legs like mine.
 }
 [offset:9785]{
 -- Page 449, Offset 9785.
@@ -46,7 +47,7 @@ With that said―――
 [sha:2088cf598915647e9f272eff7c2dabc25c9a1c2d]{
 -- Page 450, Offset 42617. Choice.
 -- 下りていく。
- I should go down.
+ I should descend.
 }
 [sha:b41c1ff21fcca1ba3a833e886c8a4072737915f5]{
 -- Page 450, Offset 42618. Choice.

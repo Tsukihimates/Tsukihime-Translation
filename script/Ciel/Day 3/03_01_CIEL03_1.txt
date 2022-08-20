@@ -1,47 +1,50 @@
 [sha:071cb4df8d0556f37bf2acd4ae02a1b5417c7643]{
 -- Page 1, Offset 4852.
 -- 教室に入ると<ＨＲ|ホームルーム>が間近に迫っていた。
-When I enter the classroom, I find that homeroom is about to start.
+I make it to class with only a few minutes to spare before homeroom starts.
 }
 [sha:2b13f929a8eb40c848c237df3a721b4851e81d9a]{
 -- Page 1, Offset 4853.
 -- 慣れない道だったのでペース配分を間違えたのだろう。
-I wasn't used to the route, so I must have paced myself wrong.
+I'm not used to my new route yet, so I guess I didn't leave myself enough time.
 }
 [sha:6d00dc71bcca4185f381b831e68bdb3c4e384a44]{
 -- Page 1, Offset 4854.
 -- 朝の雑談時間も終わりにさしかかり、生徒の大部分は自分の机に座っている。
-The morning chatter is starting to dwindle, and most of the students are returning to their desks.
+The time for idle morning chatter is coming to a close,
+ and most of the students have returned to their desks.
 }
 [sha:9b7bb92d847a03d9182528e302cf627f5d7994df]{
 -- Page 2, Offset 4855.
 -- そんな状況で、
-In that situation,
+With this as a backdrop―――
 }
 [sha:76840eea3936d066cb72bb9327f299407ac6ea7b]{
 -- Page 2, Offset 4856.
 -- 「……はあ。ずいぶんと余裕のあるご到着ですねぇ」
-"...%{i}Sigh%{/i}, you sure arrived with a lot of time to spare, huh?"
+"...%{i}Sigh%{/i}. You sure arrived with plenty of time to spare, didn't you?"
 }
 [sha:cbdf5ca7aa68e1b6ae0d5a1d6e0431a9d5b22340]{
 -- Page 2, Offset 4857.
 -- 有彦は元気のない顔でうなだれ、自分の席に座ろうとしていた。……この男、今日は真面目に授業を受けるようだ。
-Arihiko is standing there with a dejected look on his face, about to take his seat. ...He actually seems to be taking class seriously today.
+Arihiko is about to take his seat, a dejected look on his face.
+ ...It seems like he actually plans on taking class seriously today.
 }
 [sha:28666e31c59b8e7728ec06b3ae441d83b6063663]{
 -- Page 3, Offset 4858. Mods: @k, @e.
 -- 「おはようさん。今朝は特にやる気がない……
-"Good morning. Not too motivated this morning I see...
+"Good morning. You don't seem all that motivated today―――
 }
 [sha:edeea4e75d58549298d8d0a73c6cb8d880a0864c]{
 -- Page 3, Offset 4859. Glued. Mods: @x.
 -- ワケじゃないのか。教室にいるんだから。なんだよ、体調崩したのか？」
- No, that can't be it. You made it to the classroom after all. What is it? You feeling unwell?"
+ No, I take that back. You're actually in class for once. What's wrong, you not feeling well?"
 }
 [sha:b10396c704f8fd0e073165dcc482cf5d22c314c2]{
 -- Page 4, Offset 4860.
 -- 「さっきまで元気でしたよ、ギンギンに。なにしろ先輩が遊びにきてくれたんだからな」
-"I was brimming with energy until a while ago. After all, Senpai came over to visit."
+"Oh, I was pretty energetic up until a few moments ago. Raring to go, even.
+ After all, Senpai had come to grace us with her presence."
 }
 [sha:1b3e1e4f3f589c64d19c21d163389da3da3b14a7]{
 -- Page 4, Offset 4861.
@@ -51,27 +54,33 @@ Arihiko is standing there with a dejected look on his face, about to take his se
 [sha:4cd9cb8e4e48a0622a534ce9a0957b6a1f443a1c]{
 -- Page 5, Offset 4862.
 -- 「そうだよ。けどぉ、誰かさんがいねえもんだから、いまいちノリが悪くて三年の教室に戻っちまったワケ。なんだって今朝にかぎって遅刻ギリギリなのよ、遠野？」
-"That's right. Buuut, given a certain someone wasn't here, she didn't quite seem to be in the mood anymore and went back to her classroom. Why's it that this, of %{i}all mornings%{/i}, is when you decide to show up at the very last minute?"
+"That's right.
+ Buuut, after she found out %{i}someone%{/i} wasn't here, she didn't seem to be in the mood anymore and went back to her own classroom.
+ Why'd you have to choose today of all days to show up at the last minute, Tohno?"
 }
 [sha:0a7da5dd3825556eef2f0cf218c6a7dca3c530bc]{
 -- Page 6, Offset 4863.
 -- そうだったのか……。俺だって先輩がいると知っていれば走ってでも駆けつけたのに。
-So that's what happened... if I knew that Senpai was waiting, I'd have come here running.
+So that's what happened... If I'd known Senpai was here, I'd have come running.
 }
 [sha:f63c27d865d23b73d3c0e8ddeb4cfa47ab4eb551]{
 -- Page 7, Offset 4864.
 -- 「そりゃあ申し訳ない。けど、縁があれば昼休みにでも会えるだろ。これっきりってワケじゃあるまいし」
-"Sorry about that. But there's always the possibility that we can meet up with her at lunch. It's not like that was our last chance."
+"Sorry about that.
+ Still, if we're lucky we might be able to meet up with her at lunch.
+ It's not like that was our last chance to ever see her again."
 }
 [sha:80eb7097d5361f9ee0c15a212e5cdf0fdb3a3a8e]{
 -- Page 7, Offset 4865. Mods: @n.
 -- 「あったりまえですよ。これが最後のチャンスだったら、
-"Yeah, well of course not. If this was our last chance,
+// Reflowed with next string around the period so that it doesn't linebreak weirdly.
+"Well of course it isn't.
 }
 [sha:032bf776c8f0827114d62d2bf27b71bf67922b41]{
 -- Page 7, Offset 4866.
 -- ショックで授業なんて受けてらんねぇって」
-I'd be much too traumatized to be in class."
+If that was the last chance I ever had to see her,
+ I'd be way too shocked to be sitting here in class."
 }
 [sha:e8638daeac5b0f06df6adf28a6334a8ac2627f91]{
 -- Page 8, Offset 4867.
@@ -81,7 +90,7 @@ Heading for my desk, I wave an indifferent 'oh, really' in his direction.
 [sha:47681427f8f32c944b3f540db405d3a75375d1d3]{
 -- Page 8, Offset 4868.
 -- 椅子に座ると同時にチャイムが鳴り、ノエル先生が教室に入って来る。
-As soon as I sit down, the bell rings and Noel-sensei enters the classroom.
+Right as I'm sitting down, the bell rings and Noel-sensei enters the classroom.
 }
 [sha:8da8a6b34034d85c080c3c964fc8bd18958545aa]{
 -- Page 9, Offset 4869.
@@ -96,12 +105,13 @@ I'm glad to see everyone's in good shape... Wait,
 [sha:ddb30d6abde7e7a0169bfb600399af46fa0e0e9b]{
 -- Page 9, Offset 4871. Glued. Mods: @x, @n.
 -- あらら、欠席者が二人もいるのね。季節の変わり目だし、
- oh no, looks like two students are out. Well, it is the change of season after all.
+ oh no, looks like two students are out.
+ Well, I suppose the seasons are changing.
 }
 [sha:a81d5a9837fbaffe6711e6183c6b6f423d8b03e9]{
 -- Page 9, Offset 4872.
 -- 油断して風邪でも引いちゃったのかしら？」
-I wonder if they got careless and caught a cold."
+I wonder if they got careless and caught a cold?"
 }
 [sha:c4e90bab632d053973c11bf9a8084876431bba85]{
 -- Page 10, Offset 4873.
@@ -116,12 +126,12 @@ One male student and one female student are absent.
 [sha:f3c6d2868155f554f7ea5efc8f516b94df9442d0]{
 -- Page 10, Offset 4875.
 -- あの二つの空席は誰の席だったか思い出そうとして、
-I try to remember who those two empty seats belong to,
+As I'm trying to remember who those two empty seats belong to―――
 }
 [sha:ae454f9c487fd0cc9c238b729b94cfaa2c5e3336]{
 -- Page 10, Offset 4876.
 -- 偶然、彼女と視線が合った。
-when, by chance, my eyes meet hers.
+I happen to make eye contact with her.
 }
 [sha:deed0238c1cc81636e3944de28540b80bb8b7ec4]{
 -- Page 11, Offset 4877.
@@ -131,10 +141,12 @@ when, by chance, my eyes meet hers.
 [sha:234e6b2a7c3ab970d1111a68ff6917d0a23b44b1]{
 -- Page 11, Offset 4878.
 -- あわてて視線を逸らす。
-I look away in panic.
+I look away, flustered.
 }
 [sha:fc3ddf34b6991bb65d3cfbe9e3a8cd33d5e27db5]{
 -- Page 11, Offset 4879.
 -- ……なんだろう。気のせいだとは思うけど、ノエル先生は俺を見ている時が多い気がする……。
-...I wonder. I'm sure it's just my imagination, but I feel like Noel-sensei has been looking at me a lot.
+...It's strange,
+ I'm sure it's just my imagination,
+ but it feels as though Noel-sensei spends a lot of time looking in my direction.
 }

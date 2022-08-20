@@ -39,13 +39,13 @@ def main():
 
     # Since we force all chars to single-width, we need to skew down the CJK
     # characters that we actually do use
-    for char in '℃♡♥―':
-        font.selection.select(("ranges", None), ord(char), ord(char))
-        apply_origin(
-            font,
-            lambda g: g.transform(psMat.scale(0.5, 1)),
-            post_scale=(0.5, 1.0)
-        )
+    # for char in '℃♡♥―':
+    #     font.selection.select(("ranges", None), ord(char), ord(char))
+    #     apply_origin(
+    #         font,
+    #         lambda g: g.transform(psMat.scale(0.5, 1)),
+    #         post_scale=(0.5, 1.0)
+    #     )
 
     # Copy the base ASCII range
     font.selection.select(("ranges", None), 0, 127)
@@ -56,7 +56,7 @@ def main():
     font.paste()
     apply_origin(
         font, lambda g: g.transform(psMat.compose(
-            psMat.scale(0.7, 1), psMat.skew(ITALIC_SKEW_RADS))))
+            psMat.scale(1, 1), psMat.skew(ITALIC_SKEW_RADS))))
 
     # Reversed
     font.selection.select(*pua_range(1))
@@ -68,7 +68,7 @@ def main():
     font.paste()
     apply_origin(
         font, lambda g: g.transform(psMat.compose(
-                psMat.skew(ITALIC_SKEW_RADS), psMat.scale(-0.7, 1))))
+                psMat.skew(ITALIC_SKEW_RADS), psMat.scale(-1, 1))))
 
     # Export
     font.generate(sys.argv[2])

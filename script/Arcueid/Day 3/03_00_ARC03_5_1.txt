@@ -1,12 +1,12 @@
 [sha:8ccdb5687d855724bd27c0292e82ca92f20fc7a6]{
 -- Page 10012, Offset 4659.
 -- ……こんなのは、悪いユメだ。
-...This is a bad dream.
+...This is just a bad dream.
 }
 [sha:b86d5a240045859dad9bb436921e4dd8d94c797e]{
 -- Page 10012, Offset 4660.
 -- けど、なんだってこう、血の匂いだけが、ひどくリアルなんだろう。
-But then why is the smell of blood so horribly real?
+But then, why is the smell of blood so horribly real?
 }
 [sha:162de3da54c2a6b273477cd86afe11b6d8af315c]{
 -- Page 248, Offset 4661.
@@ -36,12 +36,12 @@ Or that I didn't kill her?
 [sha:5c4195a3159f128ef828bcb6ae0330f97ed82515]{
 -- Page 249, Offset 4666.
 -- 『……だって、理由が、ない』
-"...But I had no reason to."
+"But... I didn't have any reason to."
 }
 [sha:9acb61064b2deb26eff933258d30714b53ec14a6]{
 -- Page 249, Offset 4667.
 -- いや、理由ならはっきりしている。
-No, I know exactly why.
+No, I know perfectly well what the reason was.
 }
 [sha:f085159a15cd18b7315e26fc58bc762669fa971f]{
 -- Page 249, Offset 4668.
@@ -61,23 +61,24 @@ Yes, I―――
 [sha:eec75a8dfaf5f7e828d23375dedb452b967b6ce3]{
 -- Page 250, Offset 4671.
 -- 遠野志貴は　あの女を　殺したい、と
-// indented in japanese
-    Tohno Shiki wanted to kill that woman.
+// Centered
+        Tohno Shiki wanted to kill that woman.
 }
 [sha:a6f25f0ff844106de9bc7755293673681717fc9e]{
 -- Page 251, Offset 4672.
 -- それが、あの時の俺の<中身|すべて>だった。
-That was all I could think about at the time.
+At the time, it was all I could think about.
 }
 [sha:69a63b5206307959a852621988681f5705b3f67a]{
 -- Page 251, Offset 4673.
 -- 頭の中がドロドロで、そのイメージを言葉にしようとしなかっただけ。
-I just didn't try to put that image into words because the inside of my head was mush.
+// Image feels like a false friend here
+I just didn't try to put that feeling into words because the inside of my head was mush.
 }
 [sha:1cd972118144ef9c156043c676e113628768191d]{
 -- Page 252, Offset 4674.
 -- 『ちが―――――う 』
-"A mis――――take."
+"It's not―――――true."
 }
 [sha:25efc41a5e612305c4adf7cda61719da02820aa8]{
 -- Page 252, Offset 4675.
@@ -92,7 +93,7 @@ The smell of blood is making me nauseous.
 [sha:398aedd87306bf86886c798b8db92523a74cc936]{
 -- Page 252, Offset 4677.
 -- 胃の中のものが、戻ってくる。
-Something in my stomach is coming back up.
+The contents of my stomach start to rise back up.
 }
 [sha:ab092de672ab908c7c0cecb98aa1572b920e09cb]{
 -- Page 253, Offset 4678.
@@ -107,12 +108,14 @@ The vermilion seeps into my eyeballs.
 [sha:4e037d1a40fc3e5d3ec8a0b4486dbdb8f0048fd4]{
 -- Page 253, Offset 4680.
 -- 脳を揺らすような眩暈。
-I feel dizzy like my brain is shaking.
+I feel dizzy, as though my brain itself is shaking.
 }
 [sha:c559b2d81fcc321ff9d70810cb18b05c8ddea422]{
 -- Page 253, Offset 4681.
 -- そのまま、赤い血の海にひざまずいた。
-Just like that, I fall to my knees in a sea of red blood.
+// そのまま reified
+Nauseous and lightheaded,
+ I fall to my knees in a sea of red blood.
 }
 [sha:de203363fd706634fa0168aa17b57230ddba7885]{
 -- Page 254, Offset 4682.
@@ -132,7 +135,7 @@ I throw up everything in my stomach.
 [sha:e64f864b6cd4359e4a333381743f29c55edd25e0]{
 -- Page 254, Offset 4685.
 -- 食い物も、胃液も、泣きながら吐き出した。
-Everything I ate, coated in gastric juices; I throw it all up and sob.
+Everything I ate, my gastric juices; I throw it all up and sob.
 }
 [sha:9864bba3fdcbca062dad0206628d860290379b63]{
 -- Page 255, Offset 4686.
@@ -142,7 +145,9 @@ There's nothing left in my stomach.
 [sha:92e540528c16126604851cf2c2eb35dd92f5c606]{
 -- Page 255, Offset 4687.
 -- なのに起きてしまった出来事をなかった事に、もとの日常に戻そうとするかのように、体は嘔吐を強制する。
-And yet my body threw up, like it was trying to reject what had happened from my very being. As if trying to return to my normal routine.
+// All my homies hate 日常
+And yet my body keeps on dry heaving, as though to reject everything that's happened here.
+ As if it's trying to somehow wipe this all away and return the world to normal.
 }
 [sha:eff1ee168a59f690115eaa4546b613c012c229c2]{
 -- Page 256, Offset 4688.
@@ -157,42 +162,43 @@ It hurts.
 [sha:cc9abf071161414d4635cb0cef2c90a0b19db9ee]{
 -- Page 256, Offset 4690.
 -- 内臓が焼けているみたいに、痛い。
-It hurts like my insides are burning.
+It stings, as though my insides are on fire.
 }
 [sha:9a194bb8f111ebe8ea1fbd948f00dd96d9149cf8]{
 -- Page 256, Offset 4691.
 -- 涙は止まらなくて、体はゴミのように地面に崩れ落ちた。
-I can't stop crying and my body crumples to the ground like a piece of discarded garbage.
+I can't stop crying, and my body crumples to the ground like a piece of discarded garbage.
 }
 [sha:a3dd1e729f518ae4361d8ec54ccea7a8ed4440f6]{
 -- Page 257, Offset 4692.
 -- べちゃりと、体が赤く染まる。
-My body is now stained in thick red.
+My body has been dyed a sticky red.
 }
 [sha:d8dfe794241f47048729145dead46c55a05e6ce3]{
 -- Page 257, Offset 4693.
 -- 痛くて赤くて、ユメを見ているようだった。
-It is painful and red, like watching a dream.
+There's so much pain, so much red, that I feel like I'm dreaming.
 }
 [sha:9e96a7470e061a635bf9baba9dcf2c9ee5ca90d5]{
 -- Page 258, Offset 4694.
 -- 涙が止まらない。
-The tears aren't stopping.
+My tears won't stop.
 }
 [sha:c7277e217c0dedbd53d060bd2af840d5be505ea2]{
 -- Page 258, Offset 4695.
 -- 人を殺したというコトが、ひどく悲しかった。
-I killed that woman... It's awfully sad.
+I'm distraught at the thought of having killed her.
 }
 [sha:32ef9203a6535fedf3f30797152dd66465cedc53]{
 -- Page 258, Offset 4696.
 -- ……いや、それは違う。
-...No, that's not it.
+No... that's not it.
 }
 [sha:37f16fc971da34f79b8abbec6eacf00c975cceb9]{
 -- Page 258, Offset 4697.
 -- 人形をバラすようにあっさりと、何の意味もなく、容赦なく殺してしまったコトが、悲しかった。
-As easily as dismembering a doll. Without meaning and without mercy, I killed her. I'm filled with sorrow.
+I'm distraught at the fact that I killed her as easily as if I were dismembering a doll.
+ Without meaning, without mercy.
 }
 [sha:2c9a7b38c8fd1a7b04e110bed0469e3a6c95e795]{
 -- Page 259, Offset 4698.
@@ -202,7 +208,7 @@ As easily as dismembering a doll. Without meaning and without mercy, I killed he
 [sha:adaea4944faf7b7e16ea0e668960d3938ce5753d]{
 -- Page 259, Offset 4699.
 -- どうしてこんな気持ちになっているのか、
-I don't know why I'm feeling this way,
+I don't know what came over me.
 }
 [sha:a3763e83fd8233625bf8b13f4b78bce7af006803]{
 -- Page 259, Offset 4700.
@@ -222,17 +228,17 @@ I don't understand why.
 [sha:7ed2512026b899a859374619f4218d0ca8287bc2]{
 -- Page 260, Offset 4703.
 -- 現実感がまるでないから。
-Because it doesn't feel real.
+It has to be. None of this feels real.
 }
 [sha:4ef6e012d37f8edc44bfe6a232ee0c8717367303]{
 -- Page 260, Offset 4704.
 -- ほら、いつもみたいに目眩がして、
-I mean, I feel dizzy like I always do.
+I mean, think about it. I had one of my usual dizzy spells, and then...
 }
 [sha:bfaca634e335d3175e214f6bf87e35557d0a1640]{
 -- Page 260, Offset 4705.
 -- その間に見ていたユメなんだ―――
-It's just a dream that I saw while I was―――
+All this is just a dream I saw while I was lightheaded―――
 }
 [sha:4f76d8b1b5b302955809c8e2905509f22b8a97f9]{
 -- Page 261, Offset 4706.
@@ -242,7 +248,7 @@ It's just a dream that I saw while I was―――
 [sha:7fec099781037b0d2b827ea3c70468fa2dd67b9e]{
 -- Page 261, Offset 4707.
 -- だいたい、どうしてナイフ一本で人間をあそこまでバラバラにできるっていうんだ。
-I mean, how can it be possible to tear a person apart like that with a single knife?
+I mean, how could it be possible to tear a person apart like that with nothing but a knife?
 }
 [sha:c5771a571221b008447b1585a91afe94e4869ac0]{
 -- Page 261, Offset 4708.
@@ -252,12 +258,13 @@ I've heard that it takes an entire day of hard work to dismember a single human 
 [sha:071ca558aaa05201a41ba3de09f06fe2a65b9689]{
 -- Page 262, Offset 4709.
 -- だから、こんなナイフ一本で出来る筈がない。
-So there's no way it can be done with just a knife like this.
+There's no way you could manage it with nothing more than a knife.
 }
 [sha:6b419ec259b33a24f1543de8a2d536a2a7d0d6af]{
 -- Page 262, Offset 4710.
 -- あの『線』なんて初めからなくって、自分が勝手に思いこんでいるだけの妄想で――――
-In the first place, there's no such thing as a 'line'; they're just a delusion that I came up with all on my own.
+Plus, those 'lines' aren't even real to begin with.
+ They're just a convenient delusion that I came up with――――
 }
 [sha:4f76d8b1b5b302955809c8e2905509f22b8a97f9]{
 -- Page 263, Offset 4711.
@@ -267,7 +274,7 @@ In the first place, there's no such thing as a 'line'; they're just a delusion t
 [sha:bceed0a6817de3687e59765128d366e4d747b0a5]{
 -- Page 263, Offset 4712.
 -- 胃液が唇からもれる。
-The gastric juice keeps dripping from my lips.
+Gastric juices drip from my lips.
 }
 [sha:9d96bae293753f0333679fe73174d1033af313fb]{
 -- Page 263, Offset 4713.
@@ -282,7 +289,8 @@ The gastric juices blend with the crimson.
 [sha:86b69a7f0de4bba578ef69467c5f31447e757c72]{
 -- Page 263, Offset 4715.
 -- 吐き出すものもないくせに胃が<蠕動|ぜんどう>するため、食道も喉も出血している。
-There is nothing to vomit, but my stomach contracts. My esophagus and throat are bleeding.
+My stomach contracts, even though there's nothing left in it anymore.
+ My esophagus and throat are bleeding.
 }
 [sha:e770cf955d04135fbd04805ea59821ec4f8f4b08]{
 -- Page 264, Offset 4716.
@@ -312,47 +320,47 @@ This isn't a dream; I'm just lying to myself.
 [sha:8ad7f53a5515cc586410ffd9a9e51c204d4cb30e]{
 -- Page 265, Offset 4721.
 -- そう、本当は理解している。
-Yes, I really do understand.
+Deep down, I understand that.
 }
 [sha:97d1fe7ce098be3d83dfbd2a8e7fb992afa7b1b5]{
 -- Page 265, Offset 4722.
 -- 欲情していた。この女性を見て興奮していた。
-I was lusting after her. I was excited to see this woman.
+I was lusting after her. Seeing that woman made me aroused.
 }
 [sha:5dc279efb1e66eff4e67eec2cbb389ae443677fd]{
 -- Page 266, Offset 4723.
 -- この目だってそうだ。
-It's the same with my eyes.
+The same goes for my eyes.
 }
 [sha:d750d58e05584ec6f5ea09ae74e661db4a20e276]{
 -- Page 266, Offset 4724.
 -- あの『線』が紙を切るようにモノを切断してしまうと分かっていたのなら。
-If I already understood that these 'lines' would let me cut through things like paper,
+I already understood that these 'lines' let me cut through things as easily as slicing paper.
 }
 [sha:835bf45bb5328af2f06fd26cd2adc68a63863190]{
 -- Page 266, Offset 4725.
 -- 遠野志貴は、人間だって簡単にバラしてしまうと理解していた筈なのに。
-then Tohno Shiki should have known that humans can be torn apart just as easily.
+Tohno Shiki should have known that humans could be torn apart just as easily.
 }
 [sha:0a0493252b546d2720ed8cf4ad169d14085c5e97]{
 -- Page 266, Offset 4726.
 -- 俺は、そんな事を考えもしないで、ただ無責任に暮らしてしまった。
-I... without even thinking about it, I had just been living irresponsibly.
+I'd been living irresponsibly, not even stopping to consider that possibility.
 }
 [sha:3ddd3378bdbc6937d432e2dd754213f44e8d5b99]{
 -- Page 267, Offset 4727.
 -- ……自分が、簡単に何かを殺してしまう危険な人間なら。
-...If I'm a dangerous person who can easily kill something,
+I can kill things so easily... I'm a dangerous human being.
 }
 [sha:9815145bb18c84e837728fc603d7d149f503f3c9]{
 -- Page 267, Offset 4728.
 -- 俺はこの目を潰すか、誰とも会わないような生活をするべきだったのに。
-I should have blinded myself or lived a life where I would never see another soul.
+I should have blinded myself, or endeavored to live a life where I'd never see another soul.
 }
 [sha:73b3875b7cc445b8f0994a620111a0f5b0219311]{
 -- Page 268, Offset 4729.
 -- 『……ごめん、先生』
-"...I'm sorry, Sensei."
+"I'm sorry, Sensei..."
 }
 [sha:b1349ab69a4aad594ac23e18eb78182a378ff50f]{
 -- Page 268, Offset 4730.
@@ -372,7 +380,7 @@ I couldn't even keep such a simple promise――――
 [sha:cef09a4cb5651072223edde1906db8df7755e7d2]{
 -- Page 269, Offset 4733.
 -- わからない。さっきまで湧きあがっていた衝動は、もう微塵も残っていない。
-I don't know. Not even a single atom of the impulses from earlier remains.
+I don't know. Not even a speck of the impulses that overcame me earlier remains.
 }
 [sha:8f5557d312f23b0c7189bd36bd3560bce84950e3]{
 -- Page 270, Offset 4734.
@@ -387,12 +395,12 @@ But at that time, I didn't even think about enduring or suppressing those though
 [sha:382bbc52a76ec16695ff17b0f5ec6b8bb65bcf23]{
 -- Page 270, Offset 4736.
 -- そんなコトを当たり前のように考えて、実行していた。
-I was thinking and doing things like that as a matter of course.
+I was thinking and acting as though such impulses were totally natural.
 }
-[offset:4737]{
+[sha:1f82d4bbbd969608403d51a0b56c65f9ade73f69]{
 -- Page 271, Offset 4737.
 -- ……なら答えは簡単だ。
-Then... the answer is simple.
+In which case... the answer is obvious.
 }
 [sha:e916bff46040c4338a2b0932069cdccf7ff6012e]{
 -- Page 271, Offset 4738.
@@ -412,5 +420,5 @@ Ever since the accident that should have killed me.
 [sha:5c260bd3218a6b0482d8cd54e0cb35e055e752c7]{
 -- Page 271, Offset 4741.
 -- 奇跡的に蘇生したその時から―――――――
-From the moment I miraculously survived―――――――
+From the moment I miraculously survived―――
 }

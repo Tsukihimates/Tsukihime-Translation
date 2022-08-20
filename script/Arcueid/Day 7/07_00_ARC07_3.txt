@@ -344,7 +344,8 @@ That's how she introduced herself."
 [sha:3fafd618cc53f6050456ccbc2b12def28e67f9c1]{
 -- Page 194, Offset 17048.
 -- 「ああ、うん、友人といえば、友人」
-"%{i}Ahh%{/i}, yeah, that's right, a friend."
+// va trails off at the end
+"%{i}Ahh%{/i}, yeah, that's right, a friend, a friend..."
 }
 [sha:8d0884e8a3abc8cd68c366aac183742f056e2c1b]{
 -- Page 195, Offset 17049.
@@ -370,7 +371,8 @@ My words devolve into a mumble.
 [sha:1a7b5d212c00255b0e767f76975c8d2ab1dd5357]{
 -- Page 196, Offset 17053.
 -- 「ふーん。友人、ねー。ふーん」
-"%{i}Heehh%{/i}. A friend, you say? %{i}Hmph%{/i}."
+// va is not pouting during last /arc noise/
+"%{i}Heehh%{/i}. A friend, you say? %{i}Hmm%{/i}."
 }
 [sha:4e7cd245024a3cc46aa95d8ceef25b9c257db5b5]{
 -- Page 196, Offset 17054.
@@ -395,12 +397,12 @@ Perhaps having grown tired of being ignored,
 -- Page 198, Offset 17057.
 -- くらっ。
 // EN just straight up doesn't use onomatopoeia like this.
-I feel giddy.
+I feel faint.
 }
 [sha:2690a1b90b64c56db03341f2b447b74ee9934072]{
 -- Page 198, Offset 17058.
 -- ああ、これが世間一般でいう目眩なのか。
-Aah, so this is what people mean by vertigo.
+Ah, so this is what people mean by vertigo.
 }
 [sha:01c813bafa2d416f4543f8ee737809732402715b]{
 -- Page 198, Offset 17059.

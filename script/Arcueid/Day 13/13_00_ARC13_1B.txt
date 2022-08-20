@@ -11,7 +11,7 @@ With Akiha gone, I finally have a chance to take stock of my current situation.
 [sha:860f9ca018deba45c21e946d80c4b9b5bff15913]{
 -- Page 82, Offset 31907.
 -- 時計は夜の10時を回ったばかり。
-It's just past 10PM.
+It's just past ten o'clock.
 }
 [sha:4b1203ecf13926204eb1bf5905a113c4d71ce08a]{
 -- Page 82, Offset 31908.
@@ -26,7 +26,7 @@ Barely four hours have passed since I was attacked at the school.
 [sha:f62f5099ed6e27677315429154bfcbbd2beb7e3c]{
 -- Page 83, Offset 31910.
 -- リモコンで動くロボットになったような気分だ。
-I feel like I've turned into a remote controlled robot.
+I feel like I've turned into a remote-controlled robot.
 }
 [sha:5c793bbaef1b439cddab5094fff1fb8a58346b59]{
 -- Page 83, Offset 31911.
@@ -62,7 +62,7 @@ I concentrate my efforts on trying to move just the pinky finger of my right han
 [sha:5d56169a60164d92731a9bce81c8545eed447d05]{
 -- Page 85, Offset 31917.
 -- 「っ―――――――、ぐっ」
-"―――――――, Gh."
+"―――――――%{i}Gh%{/i}."
 }
 [sha:27033c51face6f42da8527e4af4029691f8bb893]{
 -- Page 85, Offset 31918.
@@ -112,7 +112,7 @@ Next, as though rediscovering my sense of kinesthesia,
 [sha:7dab635dd0f21d207965612e42a1ebd1bc110a71]{
 -- Page 89, Offset 31926.
 -- 「はあ―――はあ――――はあ――――」
-"Hah―――hah――――hah――――"
+"%{i}Hah%{/i}―――%{i}hah%{/i}――――%{i}hah%{/i}――――"
 }
 [sha:3a17e7bc6d67218d025aa9de01f05ee097cc1873]{
 -- Page 89, Offset 31927.
@@ -133,7 +133,7 @@ It makes perfect sense that as my nerves begin to slowly regain their function,
 [sha:df3e1cd5390aabb3e5bccc50605b680cb35dad4f]{
 -- Page 91, Offset 31930.
 -- 「ぐっ………づ……！」
-"Gh... kh...!"
+"%{i}Gh%{/i}... %{i}kh%{/i}...!"
 }
 [sha:ff3416d12f751f6ae1898cb6005f8ed85e15c99c]{
 -- Page 91, Offset 31931.
@@ -153,7 +153,7 @@ But if I don't regain control of my body, I won't be able to leave this room.
 [sha:c4f4ce2e8d10178d47015eb789a7c976922b653c]{
 -- Page 92, Offset 31934.
 -- 部屋から出て、街に出て、学校に行って、
-I won't be able to get of here, head for the city, or make it to the school―――
+I won't be able to get out of here, head for the city, or make it to the school―――
 }
 [sha:b49a80071e02fd0fc57e6a8294d5f6ef9d32553d]{
 -- Page 92, Offset 31935.
@@ -163,7 +163,7 @@ I won't be able to catch Arcueid.
 [sha:ca5b319c2ca2a1e5bf20e3c4949b23a15522719d]{
 -- Page 93, Offset 31936.
 -- 「がっ―――――ぐっ………！」
-"Ga―――――kh...!"
+"%{i}Ga%{/i}―――――%{i}kh%{/i}...!"
 }
 [sha:19073f3787be72a4fbff323ee6a52b2de96882cb]{
 -- Page 93, Offset 31937.
@@ -433,13 +433,13 @@ Even though she's connected to Mario, it seems they're not particularly close.
 -- 「……はい。アレが今代のロアの転生体です。七年前に遠野くんの命を略奪した遠野シキ。……そのあたりの事情は秋葉さんに聞きました？」
 "...That's right. He's the host for the current reincarnation of Roa.
  The one who robbed you of your life seven years ago: Tohno SHIKI...
- Did Akiha fill you in on the details?"
+ Did Akiha-san fill you in on the details?"
 }
 [sha:8f833fa475195a7c2da80e81b93be66f460d80e3]{
 -- Page 112, Offset 31987.
 -- 「ああ、聞いた。……なんだ先輩、秋葉と仲良くなったの？　あいつ、先輩たちのこと嫌ってるみたいだったけど」
 "Yeah, she did.
- Senpai... are you getting along well with Akiha all of a sudden?
+ Senpai... are you getting along with Akiha all of a sudden?
  I got the impression that she despised you lot."
 }
 [sha:97fe75b5782b96c4c35bd8c6bce926ec66f02281]{
@@ -474,7 +474,7 @@ Going back to Roa―――has he been living at our school?"
 -- Page 115, Offset 31993.
 -- 「ロアの隠れ家は他にも複数あったようですが、現在、あの校舎を根城にしているのは間違いないようですね。
 "It seems he's used a number of places as his hideout in the past,
- but for the moment he's taken that school building to be his stronghold.
+ but for the moment, he's taken that school building to be his stronghold.
 }
 [sha:72d039bb22928df3f4e3b8739f3cb21997ff26f0]{
 -- Page 115, Offset 31994.
@@ -533,7 +533,7 @@ Roa is a reincarnating vampire. It's only natural that his appearance, character
 -- 「いいですか遠野くん。ロアが転生先に選んだ肉体は、ロアとは別の人格・人間として育ちます。知性が十分に育たなければロアは己を発揮できませんから。
 "Listen to me, Tohno-kun.
  The body that Roa chooses to reincarnate into is raised as a human with their own personality and everything.
- Roa can't manifest themselves unless the host reaches a sufficient level of intellect.
+ Roa can't manifest himself unless the host reaches a sufficient level of intellect.
 }
 [sha:730796e2ee6c02c8cae9ef0cd31225886196ed7a]{
 -- Page 119, Offset 32005.
@@ -548,7 +548,7 @@ It's only once that human has matured into an individual that Roa uses them as a
 [sha:fa10b8d7a50938b54a97b88e48aee1462420d688]{
 -- Page 120, Offset 32007.
 -- ロアの思想を依り代が受け継ぎ、新しいロアになる、と考えてください。
-Instead, it's more as though the idea of Roa takes root in the host, and gives rise to an whole new Roa.
+Instead, it's more as though the idea of Roa takes root in the host, and gives rise to a whole new Roa.
 }
 [sha:f666d0744416075c61acccacb06487a4dc37f491]{
 -- Page 120, Offset 32008.
@@ -588,7 +588,7 @@ This is the first time in Roa's history that something like this has happened."
 [sha:762ec46477bacae05e33a8ab31909e25562fca2f]{
 -- Page 123, Offset 32014.
 -- 厄介なのはその強迫観念に意思と歴史、積み重ねた魔道の知識があるという事」
-The problem is that obsession contains a will, a history, and an accumulated knowledge of magecraft."
+The problem is that obsession contains a will, a history, and an accumulated knowledge of wizardry."
 }
 [sha:830b66948017151f399243551f3876fd5cfcda6d]{
 -- Page 124, Offset 32015.
@@ -627,7 +627,7 @@ SHIKI's objective was to kill me? But why?"
 -- Page 126, Offset 32021.
 -- 「……そうですね。言いにくい事ですが、遠野シキにとって貴方は、自分を殺した人だからだと思います」
 "...That's a good question.
- I can't say for sure, but it seems that Tohno SHIKI thought you were the one who killed him."
+ I can't say for sure, but it seems that Tohno SHIKI thought %{i}you%{/i} were the one who killed %{i}him%{/i}."
 }
 [sha:4f6ad065a8f291b20025748f7b2ea2ca7c6f6ef3]{
 -- Page 126, Offset 32022.
@@ -715,7 +715,7 @@ Given all that, it makes sense for killing me to be the first thing he'd want to
 [sha:43f5d83c87cc84bcb96f108f1d7798832a6e2d1c]{
 -- Page 133, Offset 32038.
 -- そう、奪われたのはこっちだって同じこと。
-That's right. I had something taken away from me too.
+That's right. I had something taken away from me, too.
 }
 [sha:44e982e47acd56b2468f598c5af25f0729f274bc]{
 -- Page 133, Offset 32039.
@@ -773,8 +773,8 @@ But I'm afraid that concern is completely misplaced, Senpai.
 [sha:345f5d233e2e8dc17fb058c48833daf02fa64633]{
 -- Page 137, Offset 32049.
 -- 「まったく無い訳じゃないけど、それはただあるだけの話です。憎しみの他にも思うところはありますから。
-"I'd be lying if I said I didn't, but it doesn't really have any bearing on anything.
- I have other things on my mind than simply hate.
+"I'd be lying if I said I didn't, but that doesn't really have any bearing on anything.
+ I have other things on my mind than hate.
 }
 [sha:725088156a3d883872c5d3efbc9723ae46099bed]{
 -- Page 137, Offset 32050.
@@ -790,7 +790,7 @@ But even putting all that aside, I still can't leave Roa to his own devices.
 [sha:0384d287edc8f5c296e4964b7c934c88df127ff2]{
 -- Page 138, Offset 32052.
 -- ……そうだ。
-...That's right.
+That's right...
 }
 [sha:05745fde3f059213425860f6bae69dfdf801732d]{
 -- Page 138, Offset 32053.
@@ -823,7 +823,7 @@ Actually, I should probably avoid the word 'monster'. She'd definitely get upset
 [sha:ba6cb5ccf5dea300d5004ed8816f9eab73c7e198]{
 -- Page 141, Offset 32058.
 -- 「……コホン。えー、人魚だろうと、結果は変わらない。それぐらい、俺はあいつそのものに惚れてるんです」
-"...Ahem. Uh, even if she was a mermaid, it wouldn't change anything.
+"...%{i}Ahem%{/i}. Uh, even if she was a mermaid, it wouldn't change anything.
  That's how deeply I've fallen in love with who she is."
 }
 [sha:9b44a4c586f7c0a9834bf98f5a5d81e4f560a09c]{
@@ -834,12 +834,12 @@ I look Senpai dead in the eyes and tell her how I feel.
 [sha:e2a8862da36f3e4bbf0d1828a3ab72d0e1265d53]{
 -- Page 142, Offset 32060.
 -- 先輩は頬に手をあてて、なぜか頬を赤らめたりしている。
-Senpai puts her hands to her cheeks. It seems she's blushing for some reason.
+She puts her hands to her cheeks. It seems she's blushing for some reason.
 }
 [sha:dce9f1b7c8d76aac0f21cb6e6f80b9b03994dfb2]{
 -- Page 143, Offset 32061. Mods: @n.
 -- 「……はあ。
-"...Sigh.
+"...%{i}Sigh%{/i}.
 }
 [sha:c9ed4f624861c0e9a06c14a3e173efa1b31cffc8]{
 -- Page 143, Offset 32062.
@@ -890,8 +890,8 @@ I'm not sure how much help I'll be in a fight with my body in its current state,
 [sha:391ef63065094136303bbcbdb1086b8d8f37c099]{
 -- Page 147, Offset 32071.
 -- 彼女は一度決壊した吸血衝動を抑えて活動している。その為に能力はさらに低下し、ロアの半分にも満たないでしょう。
-Right now she's struggling to hold back her vampiric urges after they already overcame her once.
- As a result her abilities have degraded even further, to the point where she's barely half as powerful as Roa.
+Right now, she's struggling to hold back her vampiric urges after they already overcame her once.
+ As a result, her abilities have degraded even further, to the point where she's barely half as powerful as Roa.
 }
 [sha:65e53902e0ccb8af6d5e973f55c3dd349a94df9a]{
 -- Page 147, Offset 32072.
@@ -902,7 +902,7 @@ Your power is also less than half that of Roa's,
 [sha:bbb4ecc370e056d9d7e9a059b703d52ca565afe2]{
 -- Page 148, Offset 32073.
 -- 「……そもそも彼女は死にかかっています。
-"...Not to mention that she's already dying.
+"...Not to mention that she's already on the verge of death.
 }
 [sha:03c32f92615b8be3c618b96c69b5a2992075d986]{
 -- Page 148, Offset 32074.
@@ -917,12 +917,12 @@ Even though her abilities have weakened, she still continues to hold back her ur
 [sha:e20d6f049feb6d993f49acfb76c6bae248254589]{
 -- Page 149, Offset 32076.
 -- なんだ、それは。
-What the hell.
+What the hell?
 }
 [sha:fc37a321e85610a70915297d5b6fe895f7a92e93]{
 -- Page 149, Offset 32077.
 -- 死にかかってるって、なんで。
-What do you mean she's dying?
+What do you mean she's on the verge of death?
 }
 [sha:e077157273a99cb81f28b20828b26e08ddb8feac]{
 -- Page 149, Offset 32078.
@@ -948,7 +948,7 @@ That's why she will continue to drive herself closer and closer to death the lon
 [sha:695d3ecfb20cc652b371cb7bc437c791c81b27c3]{
 -- Page 150, Offset 32082.
 -- 「ふざ……ふざけるな、そんなのっ……！」
-"Don't... don't give me that crap...!"
+"Don't give me that... don't give me that crap...!"
 }
 [sha:33912a68725ed9bf266153c411a0a9b382794453]{
 -- Page 151, Offset 32083.
@@ -969,7 +969,7 @@ I don't even manage to brace for impact,
 [sha:33e1830b40c7a98053987dc4cad15d95e1e80c3f]{
 -- Page 152, Offset 32086.
 -- 「はっ―――ぐっ……！」
-"Ha―――kh...!"
+"%{i}Ha%{/i}―――%{i}kh%{/i}...!"
 }
 [sha:68ef216bbb99801b481bb39d660446f7a86cdea7]{
 -- Page 152, Offset 32087.
@@ -1037,7 +1037,7 @@ Life that brings movement to life.
 [sha:eaa6ce6bddc1f79b24506704c6c1b56dd0d06c01]{
 -- Page 157, Offset 32099.
 -- 「そうですね、厳密に言うと死ではありません。ガソリンがきれてしまったから動かなくなる、という事ですから。
-"Hmm, strictly speaking I wouldn't say that you're %{i}dead%{/i} without it.
+"Let's see. Strictly speaking, I wouldn't say that you're %{i}dead%{/i} without it.
  It's more like a vehicle that won't move anymore because it's run out of gas.
 }
 [sha:bab7d7c588d4cccdb58def67cd2fd51b0da8eb75]{
@@ -1073,7 +1073,7 @@ With a firm push, Senpai makes me take a seat on the bed.
 [sha:1268c6bbd3d8266ad3db9b0d0837768c32a9e451]{
 -- Page 161, Offset 32106.
 -- 「……は……あ」
-"...Hah...hah."
+"...%{i}Hah%{/i}...%{i}hah%{/i}."
 }
 [sha:495c8ace90125423d266458f7e786b2367bd92b2]{
 -- Page 161, Offset 32107.
@@ -1113,7 +1113,7 @@ If you're worried about Roa, he'll be taken care of in a few days."
 [sha:18b80606a95832077d7a6e7adfd3025076bcf61b]{
 -- Page 164, Offset 32114.
 -- 「ロアの転生体が特定できましたから、法王庁……えっと、わたしたちの本拠地ですけど、そこに要請が通ります。
-"Now that we've identified Roa's reincarnation, we can finally request assistance from the Vatican... uhh, our headquarters.
+"Now that we've identified Roa's host, we can finally request assistance from the Vatican... uhh, our headquarters.
 }
 [sha:8fb849d8df32dd370d35c876c237f54d67abaffb]{
 -- Page 164, Offset 32115.
@@ -1227,7 +1227,8 @@ Given that―――I'll take the initiative and go kill him to protect Arcueid.
 -- Page 172, Offset 32136.
 -- ……やっぱり分かりませんね。貴方がそこまで彼女にこだわる理由、聞かせてください。それを聞かせてくれるのなら、わたしはもう止めませんから」
 // Jealous much
-...I really don't understand you at all. I want you to tell me the reason why you're so obsessed with her.
+...I really don't understand you at all.
+ Could you please tell me the reason why you're so obsessed with her?
  If you do, I promise I won't get in your way."
 }
 [sha:7f80ee6e2ee9a09c030ebf6d90414108d9ba68f8]{
@@ -1305,7 +1306,7 @@ All this time, she was alone like an idiot.
 [sha:d12dbaecc96279840be46a81fa3a4993c8d615aa]{
 -- Page 177, Offset 32151.
 -- そんなのは寂しすぎるだろ。そんな意味のない人生、俺は許せない。だから―――」
-Isn't that just too sad? I can't allow such a meaningless life. That's why―――"
+Isn't that just too sad? I can't stand seeing someone live such a meaningless life. That's why―――"
 }
 [sha:095f2d46264d50a9f01833beb535d1e372cabc61]{
 -- Page 178, Offset 32152.
@@ -1431,7 +1432,7 @@ I know that, but I just can't accept it.
 [sha:cc275a89e0bca6ad77c705ef7e84a12a9bfc2712]{
 -- Page 186, Offset 32174.
 -- 「―――けど、ダメなんだ。
-"―――But I can't.
+"―――But, I can't.
 }
 [sha:400eccb3406533687c5574a4ac6ff9a11b82c5b1]{
 -- Page 186, Offset 32175.
@@ -1446,7 +1447,7 @@ I can't leave her to someone else, and I can't part ways with her like this.
 [sha:e2548916cfa0f9a373f0287fc90b458cc3575734]{
 -- Page 187, Offset 32177.
 -- だって、こんな人でなしの俺が。
-And now a monster like me―――
+And now a terrible person like me―――
 }
 [sha:9883a52e52f163e2d57a6c2c02a999f825c545f2]{
 -- Page 187, Offset 32178.
@@ -1456,7 +1457,7 @@ A person who gave up on everything, and died like a dog―――
 [sha:ac8d27eb5c9f22dc0374298f9938433f7c298454]{
 -- Page 187, Offset 32179.
 -- 今はこんなにも、欲深く求めている。
-Is asking for so much.
+is asking for so much.
 }
 [sha:6c8152dfb6b961d7c250e0909d996eaa3db4940a]{
 -- Page 188, Offset 32180.
@@ -1518,7 +1519,7 @@ Senpai breathes out a heavy sigh and shrugs her shoulders.
 [sha:ee90e74178dc2221df170d3ac7bef5a6d2c9fb6f]{
 -- Page 193, Offset 32191. Mods: @n.
 -- 「……はあ、
-"...Sigh.
+"...%{i}Sigh%{/i}.
 }
 [sha:1a10b394ff568d626b143394d2ccea35a54539e1]{
 -- Page 193, Offset 32192. Glued. Mods: @n.
@@ -1576,7 +1577,7 @@ Senpai glances over toward the window.
 -- Page 197, Offset 32203.
 -- 「ロアより遠野くんの方を優先して来てたなんて彼女らしくないですけど。―――まあ、これでロアの方を優先しているようでしたら、わたしがトドメを刺しに行きますが」
 "But it really isn't like her to prioritize you over Roa...
- Well, I guess if she's now decided to go take care of Roa I should go deliver the finishing blow."
+ Well, I guess if she's decided to go take care of him, I should go deliver the finishing blow."
 }
 [sha:bda3bbe4c87be6e5f127d29975ee9715fa5314db]{
 -- Page 198, Offset 32204. Mods: @n.
@@ -1596,7 +1597,7 @@ Why did Arcueid come to my room...?!"
 [sha:a2a217c18902089efc304e85d5f0dc35958580e0]{
 -- Page 199, Offset 32207.
 -- わたしたちの話に聞き耳をたてていて、たったいまロアのところに行っちゃいましたけど」
-She spent some time eavesdropping on our conversation, and now she's just left to go face Roa."
+She spent some time eavesdropping on our conversation, and now she's just left to go face him."
 }
 [sha:ab955cc767f88112e3a52025bea24d6276ab1c7d]{
 -- Page 199, Offset 32208.
@@ -1611,7 +1612,7 @@ She spent some time eavesdropping on our conversation, and now she's just left t
 [offset:32210]{
 -- Page 200, Offset 32210. Glued. Mods: @k, @e.
 -- ……
-%{n}......
+%{n}...
 }
 [sha:7b20a493948ecebfaf961e5730c95c1a7423442d]{
 -- Page 200, Offset 32211. Glued. Mods: @x.
@@ -1631,7 +1632,7 @@ Yeah, I'm jealous, but at the same time, I feel sorry for her."
 [sha:db7fd97688b7b68d31b76624dc21aa1d39cf1a15]{
 -- Page 201, Offset 32214.
 -- けどアルクェイドは遠野くんを巻き込みたくない。
-But Arcueid doesn't want you to get mixed up in this.
+But she doesn't want you to get mixed up in this.
 }
 [sha:9b09db3fcbf1f760fb144bb50d567081c9a120d0]{
 -- Page 201, Offset 32215.
@@ -1762,8 +1763,7 @@ Senpai lets out yet another sigh.
 [sha:0aaaecd43007734770ce6818e79eb2e80dd7034b]{
 -- Page 210, Offset 32240.
 -- わたしの失策でもありますし、乗りかかった船ですから。こうなったら終着までお付き合いします」
-This was a blunder on my part, so I guess I'd better see it through.
- Now that it's come to this, I'll take you to your destination."
+This was a blunder on my part, so I guess I'd better accompany you through to the end."
 }
 [sha:a4bdb170520c3e6fb3dcc8cf923e7d51ed7f3321]{
 -- Page 211, Offset 32241.
@@ -1778,7 +1778,7 @@ Senpai removes my hands from her collar and circles around to my side.
 [sha:bb93983ad220f0df3ac713777f64c684c1ad7151]{
 -- Page 212, Offset 32243.
 -- 「え―――？」
-"Eh―――?"
+"Huh―――?"
 }
 [sha:4085eae1577baec48e35cf7c3bf0679c8bfece10]{
 -- Page 213, Offset 32244.
@@ -1789,7 +1789,7 @@ I don't even get a chance to be surprised.
 -- Page 213, Offset 32245.
 -- 先輩はよっと声をあげて俺の体を抱きかかえる。
 // i fucking hate you よっと声をあげて
-With a %{i}hup%{/i}, Senpai hoists me off the bed.
+With a %{i}hup%{/i}, Senpai hoists me up off the bed.
 }
 [sha:1305c4ba272ea960f4eaf6827a4a55f4a30dada1]{
 -- Page 214, Offset 32246.
@@ -1800,7 +1800,7 @@ With a %{i}hup%{/i}, Senpai hoists me off the bed.
 [sha:19e9f656c34fdc03b8e6af9f4588cf5d72fcc6e4]{
 -- Page 214, Offset 32247.
 -- 「え―――はい、ちょっと、シエル先輩!?」
-"Eh―――right, wait, Ciel-senpai?!"
+"Huh―――right, wait, Ciel-senpai?!"
 }
 [sha:25d1ed42c66cf24dff4507cf7b074c8906ec51aa]{
 -- Page 215, Offset 32248.

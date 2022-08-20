@@ -1,17 +1,18 @@
 [sha:26822d63443e750991dbb8a44b47c431003e77fc]{
 -- Page 1, Offset 8195.
 -- 「―――ん」
-"....nghh"
+"...%{i}Nghh.%{/i}"
 }
 [sha:82134b55f56111ceb95ce4cda16a2703c205d5b3]{
 -- Page 1, Offset 8196.
 -- 淡い光で目が覚めた。
-I was awakened by a faint light.
+I'm woken by a faint light.
 }
 [sha:fe599f743fbc14658a6eae38a49d16e394523180]{
 -- Page 1, Offset 8197.
 -- 雨音はとうに止んでいる。空は曇って灰色に<煙|けぶ>っていたが、それでも目を覚ますには充分な光だった。
-The sound of rainfall had stopped. The sky was cloudy and gray, but the light was still enough to wake me up.
+The sound of the rain has finally stopped.
+ The sky is overcast and grey, but still bright enough to wake me up.
 }
 [sha:f131037131f489fd2885bd26f148454a4eef175b]{
 -- Page 2, Offset 8198.
@@ -21,32 +22,36 @@ The sound of rainfall had stopped. The sky was cloudy and gray, but the light wa
 [sha:2b3b9a02007b53a36feb265497c962512c59485c]{
 -- Page 2, Offset 8199.
 -- 「はい、おはよう先、ぱ……」
-"Yes, good morning Sen...pa....."
+"Yes, good morning Sen...pa..."
 }
 [sha:4fd533bbec2ec18798cd781cd941c765585c8b3c]{
 -- Page 3, Offset 8200.
 -- 思い、出した。
-I... remember.
+I remember now...
 }
 [sha:9edebb913bce17fc4bffd8d6d301bc054db5c385]{
 -- Page 3, Offset 8201. Mods: @n.
 -- 昨夜は先輩にベッドを借りて、先輩の部屋に泊まったんだ。
-Last night, I stayed in Senpai's room and slept in her bed.
+I spent the night in Senpai's room, and slept in her bed.
 }
 [sha:9d3df005a4dee9d436e196e29a72d5edbf6639be]{
 -- Page 3, Offset 8202. Glued.
 -- 一晩あけて気持ちが楽になったのか、とたんに恥ずかしくなってベッドから跳ね起きた。
-Though my emotions have settled after a night of rest, I was assaulted by a sudden wave of embarrassment, so I jumped out of bed.
+// ~のか a little confusing here, interpreting as
+// "I guess my emotions must have relaxed(returned to normal) after a nights sleep, as I now feel embarrassment and...
+ The night's rest must have been enough for my emotions to return to normal,
+ as I'm suddenly overcome by embarrassment and leap out of bed.
 }
 [sha:4d1c84c4130e32b44cad404ac2ad502f52cd3f3c]{
 -- Page 4, Offset 8203.
 -- 「おはようございます先輩っ！
-"Good morning, senpai!
+"Good morning, Senpai!
 }
 [sha:a1fba13e4a6d0f9ddcac5b7da95d49d7d4fb83e2]{
 -- Page 4, Offset 8204.
 -- 昨日はありがとうございました。色々お世話になっちゃって、その―――」
-Thanks a lot for yesterday. You did a lot for me――――"
+Thanks a lot for yesterday.
+ You really went out of your way for me, and, um―――"
 }
 [sha:ad081032557d69f9bbfeebeb856cb3dd25be0482]{
 -- Page 4, Offset 8205.
@@ -56,7 +61,8 @@ Thanks a lot for yesterday. You did a lot for me――――"
 [sha:bf1957b3a56494f464ee415fea7aa98a600a6290]{
 -- Page 5, Offset 8206.
 -- 慌てている俺と違って、先輩はいつもの笑顔だ。
-Unlike me, who was in a panic, Senpai had her usual smile.
+I'm a flustered mess,
+ but Senpai has the same smile on her face she always does.
 }
 [sha:fc787100ee983dcaa71b82b08f0c848fcd5f42a1]{
 -- Page 5, Offset 8207.
@@ -67,107 +73,116 @@ She really is in another league.
 [sha:ae61229e14676484e0e26b666838b4c46e63f1a8]{
 -- Page 5, Offset 8208.
 -- 先輩は俺なんかより、ずっと大人な人だった。
-She's much more mature than me.
+She's far more mature than I am.
 }
 [sha:601345cb60a6a87caca541c3044c0b57a59bb70b]{
 -- Page 6, Offset 8209.
 -- 「……じゃあ一つ借りですね。もし俺に返せる時があるのなら、その時は必ずお返しします」
-"...... Then I guess I owe you one. If it's ever possible to pay you back, then I promise I will."
+"Yeah, I guess I do owe you one...
+ I'll be sure to return the favor if I ever get the chance."
 }
 [sha:102b8863b5718abc00d78cf8346ea6d4ace176fe]{
 -- Page 7, Offset 8210.
 -- ……先の事は分からない。
-..... I don't know what will happen in future.
+I don't know what the future holds...
 }
 [sha:12756d014ec2860c4fa234e0feaba1385398fa20]{
 -- Page 7, Offset 8211.
 -- それでも、もし幸運にも恩返しできる機会があるのなら、どんな些細な事でもいいから、この人の助けになりたいと思った。
-Still, if I'm fortunate enough to have the chance to pay her back, I want to help her in any way I can, no matter how trivial it may be.
+Still, if I'm ever lucky enough to have the chance to pay her back,
+ I want to do everything in my power to help her out,
+ even if I can't be of all that much use.
 }
 [sha:d496d6fddbc8e51cf9e6e7e270e557b14ff7ff8e]{
 -- Page 8, Offset 8212.
 -- 「……俺、そろそろ帰ります。雨もあがったし」
-"...... I'm going home now. The rain has stopped."
+"...I'd better head home soon. It's stopped raining, after all."
 }
-[sha:f8dafa52d7a8775094bfb21522c0116cf479f210]{
+[offset:8213]{
 -- Page 8, Offset 8213.
 -- 「あれ、そうなんですか？
-"Oh, is that so?
+"Huh, are you sure?
 }
 [sha:884e4b6c96dbef97938e778e38c81381f64031d0]{
 -- Page 8, Offset 8214.
 -- まだ朝の６時になったばかりですよ、遠野くん」
-It's only six in the morning, Tohno-kun."
+It's only six o'clock you know, Tohno-kun."
 }
 [sha:27262ec2200dd63a62456812ff24221a5ab31dc9]{
 -- Page 9, Offset 8215.
 -- 「そうだけど、昨日は無断外泊しちゃったから。早めに屋敷に戻らないと秋葉になんて言われるか」
-"Yes, but I stayed out yesterday without permission. If I don't get back to the mansion as soon as possible, I don't know what Akiha will say."
+"That may be true, but last night I stayed out without permission.
+ I shudder to think what Akiha will have to say if I don't get back to the mansion pronto."
 }
 [sha:5e74542229e0ca3eb3c4427065af5253fc8eaa0c]{
 -- Page 10, Offset 8216.
 -- 「秋葉……ああ、妹さんのことですね。
-"Akiha...... Oh, you mean your sister.
+"Akiha... Oh, you mean your sister!
 }
 [sha:2d78ae29c4bebc0e873e4aa518fa4d2d33eee692]{
 -- Page 10, Offset 8217. Mods: @n.
 -- 昨日電話しておきましたから、そのあたりのお話は
-I called her yesterday,
+I gave her a call yesterday,
 }
 [sha:2c1be3b828e7afb67448685aeb4646f4099d5bb5]{
 -- Page 10, Offset 8218. Glued.
 -- 大丈夫だと思いますよ」
-so I think you'll be fine."
+ so I think you're clear on that front."
 }
 [sha:f174c758f0197d0435e6f261f51c9f963500eaf5]{
 -- Page 10, Offset 8219.
 -- さらりと、先輩はとんでもない事を口走った。
-She just casually blurted out something outrageous.
+She just offhandedly mentioned something outrageous.
 }
 [sha:8c9fbcc945a172c11d951b94bbfd9d7068b52302]{
 -- Page 11, Offset 8220.
 -- 「……電話したって、先輩が、うちに？」
-"You called...... my family?"
+"Senpai... you called my family?"
 }
 [sha:13c46612f77a6c5eae790c59289c81209467c265]{
 -- Page 12, Offset 8221. Mods: @k, @e.
 -- 「はい。遠野くんがうちに泊まる事を伝えておかないと、ご家族の方たちが心配すると思って。
-"Yes. I thought your family would be worried if I didn't inform them you were staying at my place.
+"Yes. I thought your family would be worried if I didn't let them know you were spending the night at my place.
 }
 [sha:fb0c66e4ce23670627e6d3fd3016ae77f9a79021]{
 -- Page 12, Offset 8222. Glued. Mods: @x.
 -- ご迷惑でした？」
-I hope I didn't cause you any trouble."
+ Should I not have?"
 }
 [sha:71f5cd20678532f21ff35ecd137c0f39bc22cd05]{
 -- Page 12, Offset 8223.
 -- 「いや、それは――――――」
-"No...that's....."
+"Ah, well..."
 }
 [sha:c9090eab33a64c3c8fff72b5d0cb44f9a34757cd]{
 -- Page 13, Offset 8224.
 -- わなわなと震える喉。
-My throat quivered in fear.
+My voice is trembling with fear.
 }
 [sha:2fa4ca37b7c25482dbaf293a28079d556cf2abf7]{
 -- Page 13, Offset 8225.
 -- シエル先輩がうちに電話したっていう事は、つまり、同年代の女生徒が『遠野志貴はうちに泊まります』と、あのお厳しい当主様に伝えたという事だ。
-Then that means, a young woman; one around my age, told our strict family head I'd be staying at her place.
+Ciel-senpai called the mansion.
+ In other words, a female student the same age as me called up our totalitarian family head and told her
+ 'Tohno Shiki is spending the night with me'.
 }
 [sha:2f148ee523e3f9335a9002c9d42a0ac0b318fa3d]{
 -- Page 14, Offset 8226.
 -- 「―――困る。それは、すごく困る。昨日とは違う意味で、死んだ方がマシかもしれない」
-"This is bad, very bad. In a different way than yesterday, I might as well be dead."
+"This is bad. This is %{i}really%{/i} bad.
+ I'd probably be better off dead, though for a different reason than I thought yesterday."
 }
 [sha:30987b2cf9e819171ebae2ed9836e2eb3b1ea2b7]{
 -- Page 15, Offset 8227.
 -- 「……遠野くん……わたしの部屋に泊まったこと、そんなに嫌だったんですね」
-"......Tohno-kun...... did you hate sleeping in my room that much?"
+"Tohno-kun... Did you really hate spending the night here that much?"
 }
 [sha:2e1e4f9a5ad33dba431ae27a8676c0df0882fde8]{
 -- Page 16, Offset 8228.
 -- 「あ、いや、そういう意味じゃなくてですね、うちの家は時代錯誤というか、とにかく決まりが厳格なんです。
-"Oh, no, I don't mean that. My family is kinda behind the times.. anyway we have strict rules.
+"Ah, no, that's not what I meant―――
+it's just that my family is a little behind the times,
+ and we have some pretty strict rules, that's all.
 }
 [sha:9eb9a667e6db7cff4da93f40d0ba346917606f5c]{
 -- Page 16, Offset 8229.
@@ -177,87 +192,101 @@ It's not like I hate you or anything."
 [sha:5e5e2ce9526316d9b1933e0e135c58797872713c]{
 -- Page 17, Offset 8230.
 -- 「……いいです、言い訳なんかしなくても。
-"You don't have to make any excuses.
+"That's okay... you don't have to make excuses.
 }
 [sha:e04f78ebd87653b0221334561c942e3b12964b0c]{
 -- Page 17, Offset 8231.
 -- わたし、やっぱりお節介でしたよね……あと夕ご飯、コンビニ弁当は女子力低すぎでしたよね……」
-I knew I was meddling....... Also, serving convenience store bentos for dinner isn't very feminine....."
+I overstepped my bounds, didn't I...?
+ Plus, serving convenience store food for dinner doesn't reflect well on me as a girl..."
 }
 [sha:2d7691391d38d406c865b0fdc0268984107cf52b]{
 -- Page 18, Offset 8232.
 -- 先輩は悲しそうに目をふせた。
-Senpai sadly closed her eyes.
+Senpai closes her eyes, crestfallen.
 }
 [sha:73b349eaa8b343e1beab5152c11c143dc00ded9c]{
 -- Page 18, Offset 8233.
 -- 俺にとって先輩は昨夜から特別な―――なんていうか、人間として尊敬するにあまりある―――人になっている。
-Since last night, she has become a very special person to me, someone I have a lot of respect for as a human being.
+After last night, she's become someone very special to me―――someone I have a lot of respect for as a human being.
 }
 [sha:8f1bc806d722a5a300f017280b177c0f7423002c]{
 -- Page 18, Offset 8234.
 -- そんな人に悲しげにされるとこっちが参ってしまう。
-When someone like that is sad, I feel hurt as well.
+I can't bear to see a person like that feeling sad.
 }
 [sha:d0849b43ffe6862a62058142b7d34abcf01af921]{
 -- Page 19, Offset 8235.
 -- 「本気で違います、お節介なんかじゃないです！
-"No, seriously, you're not meddling!
+"No, seriously, you didn't overstep anything!
 }
 [sha:4d4864542408202368d474251ddde4760bdaf255]{
 -- Page 19, Offset 8236.
 -- あの……俺は、本当に感謝しています。先輩が介抱してくれなかったら俺はまた間違えるところだったし、コンビニ弁当もアリだし、べ、ベッドは緊張したけどすぐ眠れたし！
-You see.....I'm really grateful. If it wasn't for you taking care of me, I would have made another mistake, and convenience store lunches are alright and I was nervous about using your bed, but I fell asleep right away!
+Um...
+ I really am grateful.
+ I would have ended up making an even bigger mistake if you hadn't taken care of me,
+ I think convenience store meals are totally fine,
+ a-and I was really nervous about sleeping in your bed, but I ended up falling asleep right away!
 }
 [sha:fca2292ca0435c180038601ac2081090fd1ddae5]{
 -- Page 19, Offset 8237.
 -- 今だってその、先輩の顔が見れて嬉しいし、気持ちがめちゃくちゃ楽になってるんですから！」
-Even now, I'm happy to see your face, and it makes me feel so much better!"
+Right now, you know,
+ I'm just happy to see your face,
+ it really puts me at ease, so...!"
 }
 [sha:2b47ac157c5b516103b0420eae765b57f39472e6]{
 -- Page 20, Offset 8238.
 -- とにかく思いついた感謝をまくしたてる。
-I just rattled off all the thanks I could think of.
+I just rattle off all the thanks I can think of.
 }
 [offset:8239]{
 -- Page 20, Offset 8239.
 -- ……と。
-――――――――――
+And then―――
 }
 [sha:d306710c4ea62c455445cd0b6d5a66d64a01db13]{
 -- Page 21, Offset 8240.
 -- 「はい、そうですね。遠野くんはいつもの調子に戻ってくれました。昨夜は何があったのかは知りませんけど、こうして元気になってくれて嬉しいです」
-"I see. You're back to normal. I don't know what happened last night, but I'm glad you're feeling better."
+"Ah, there we go.
+ Seems like you're all back to normal.
+ I don't know what happened last night, but I'm glad you're feeling better."
 }
 [sha:ddcac14bb15624eff7ce3fc16ead5f14ffe8f953]{
 -- Page 22, Offset 8241.
 -- さっきの悲しそうな顔はどこにいったのか、先輩はくすくすと笑っている。
-While I wonder where her sad face from earlier went, Senpai chuckles.
+Senpai chuckles softly while I try and work out where the sad face from earlier went.
 }
 [sha:55bfb17f3b59300f173c9fa43dcaeab4af4c6e28]{
 -- Page 23, Offset 8242.
 -- 「……シエル先輩？」
-"...... Ciel-senpai?"
+"Ciel-senpai...?"
 }
 [sha:6fd68861835f0d842397f3ab2204ce9e4b062d8c]{
 -- Page 23, Offset 8243.
 -- 「冗談ですよ。わたしだって遠野くんのお家に直接電話なんかしません。乾くんにお願いして、昨夜遠野くんは乾くんの家に泊まった、という電話をしてもらったんです」
-"I'm just kidding. Even I wouldn't directly call your family like that. I asked Inui-kun to call and tell them you were staying at his house."
+"I was just kidding.
+ Even I wouldn't contact your family directly like that.
+ I asked Inui-kun to call them and say you were spending the night at his house."
 }
 [sha:13d0159d75ec697842866edc8bdbaa662cd0fd5f]{
 -- Page 24, Offset 8244.
 -- 「良かった……それなら問題はないですけど、先輩、冗談きつすぎですよ。今のは本気で心臓が止まるかと思った」
-"Good... Then there's no problem. That joke was going too far though; I seriously thought my heart was gonna stop."
+"Oh thank god...
+ In that case we don't have a problem, but―――Senpai, even as a joke, that's taking things a bit too far.
+ I seriously thought my heart was about to stop."
 }
 [sha:bb0dbf8b6db76f7980a4965da3f369466f6d4915]{
 -- Page 25, Offset 8245.
 -- 「はい。わたし、わりといじわるなんです。
-"Yes. I'm a bit of a tease.
+"Yes. I'm afraid that I'm a bit of a tease.
 }
 [sha:852dc3341e555372483b2a673da5e02dbd4130ca]{
 -- Page 25, Offset 8246.
 -- ほら、好きな子っていじめたくなるじゃないですか。それといっしょです」
-You know, when you like a person you want to tease them, don't you? It's the same."
+You know, when you like someone you get the urge to bully them a little, don't you?
+ Same sort of idea."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 26, Offset 8247.
@@ -267,47 +296,53 @@ You know, when you like a person you want to tease them, don't you? It's the sam
 [sha:9c60f8fd2f17a54433161685513d2c55e7173a06]{
 -- Page 26, Offset 8248.
 -- 好きな子って、それは、その、
-Person you like.....
+When you like someone... wait, does that―――
 }
 [sha:ef04c4597112df92e250051833a8e44c6a350810]{
 -- Page 27, Offset 8249.
 -- 「でも、たしかにお家には早目に帰ったほうがいいですね。
-"But you really should go home soon.
+"But you're right, you really ought to be getting home.
 }
 [sha:e51985ca3232aae65342e20e6b1a02e51de1110a]{
 -- Page 27, Offset 8250.
 -- ええっと、ちょっと待ってください」
-Um, wait a minute."
+Um, hold on just a second."
 }
 [sha:19d4ecb8a032427307cb391352dd9daa7fcc427d]{
 -- Page 27, Offset 8251.
 -- 先輩はたたんだシャツを差し出してきた。
-Senpai held out a folded shirt to me.
+Senpai presents me with a folded shirt.
 }
 [sha:c950b99ff3a96b6acd9a540947e8cc9006826459]{
 -- Page 28, Offset 8252.
 -- 「はい、どうぞ。朝のうちに洗っておきました。上着の方は乾ききっていませんけど」
-"Here you go. I washed it in the morning, though the jacket isn't dry yet."
+"Here you go.
+ I gave it a wash earlier this morning.
+ I'm afraid your jacket isn't quite dry yet though."
 }
 [sha:e79f69d66dca4d2796f1d8c57179cfdd424174c2]{
 -- Page 28, Offset 8253.
 -- 「あ、そっか。……まいったな。何から何まで、本当にお世話になりっぱなしで」
-"Oh, I see.... I really am thankful for everything you've done."
+"Huh, you did?
+ Man... You really did think of everything, I'm well and truly in your debt now."
 }
 [sha:f17c5afcfe6ee2dfd67d360562cf254bb0291bbd]{
 -- Page 29, Offset 8254.
 -- 「いえ、これも役得です。弱気な遠野くんに頼ってもらえてラッキーでした」
-"No, it's just another bonus. I was lucky to have the wimpy Tohno-kun rely on me."
+"No, this was just another little perk.
+ It's really my lucky day to be relied on by timid Mr. Tohno-kun himself."
 }
 [sha:454da54ac8bff1ecde952338bf7b25fe477e7e50]{
 -- Page 30, Offset 8255.
 -- 俺に気を遣っての方便でも、今は素直に嬉しい。
-Even if she's just trying to console me, I honestly am happy right now.
+Even if this is just another means for her to take care of me,
+ I honestly am happy right now.
 }
 [sha:a125847e7a75542105f8b5337adfcab26f38ebdf]{
 -- Page 30, Offset 8256.
 -- 先輩から服を受け取って、脱衣所で着替えて、アパートの玄関に急ぐ。
-I got my clothes from Senpai, changed in the changing room, and hurried to the entrance of the apartment.
+// There's no damn way this 1K apartment has a 'changing room', this is almost certainly just the bathroom anteroom
+I take my clothes from Senpai, change in the bathroom, and rush over to the entryway.
 }
 [sha:15faee9e3a997e171841e9a6b80054023bd86db5]{
 -- Page 31, Offset 8257.
@@ -317,12 +352,15 @@ I got my clothes from Senpai, changed in the changing room, and hurried to the e
 [sha:6335222c6c9380258a0de49aa11de50b71992b75]{
 -- Page 31, Offset 8258.
 -- ……その、先輩。昨日は本当にありがとうございました。先輩が言っていた通り、俺に何ができるかは分からないけど……自分なりに償いってヤツを、真剣に考えます」
-......Senpai. Thank you very much for yesterday. As you said, I don't know how I can help you, but I will seriously think about...... making amends in my own way."
+Um, Senpai...
+ I just want to thank you again for yesterday.
+ Like you said, it's hard to know what I can do, but...
+ I'll be sure to think long and hard about how I can make amends in my own way."
 }
 [sha:7cc7ba5dd0c3ef8f7dbca446f73ddfae0f1e4bb7]{
 -- Page 32, Offset 8259.
 -- 「はい。それでは、学校でお会いしましょう」
-"Yes. I'll see you at school then."
+"Very good. Well then, I'll see you at school."
 }
 [sha:54403ff3177dc83d82edc8aaaa238053995e33ad]{
 -- Page 33, Offset 8260.
@@ -332,20 +370,22 @@ Senpai sends me off with a smile.
 [sha:4e89f418a00fbe5ccaebda6b6ec952d5096e2e7a]{
 -- Page 33, Offset 8261.
 -- ……その笑顔はもう二度と見られないかもしれない。
-...... I might never see that smile again.
+...I may never see that smile of hers again.
 }
 [sha:d9294c7a41e5f1f94bb6a18544ae5f7da79ea5bc]{
 -- Page 33, Offset 8262.
 -- 昨日、俺が殺してしまった女性の遺体はとっくに発見されて、今ごろ屋敷には警察が来ているかもしれないからだ。
-The body of the woman I killed yesterday must have been found by now, and the police may have arrived at the mansion.
+It's possible that the corpse of the woman I killed yesterday has already been found,
+ and the police are waiting for me at the mansion this very moment.
 }
 [sha:1a0780a0aea48ee3bf3f1dcd23d86468a9f4a5b4]{
 -- Page 34, Offset 8263.
 -- だからといって、もう逃げる事はできない。
-But that doesn't mean I can run away anymore.
+Either way, I can't run away anymore.
 }
 [sha:40922da5b5b94b9bf4888f7080b2aa43768bf5ef]{
 -- Page 34, Offset 8264.
 -- 今は先輩の笑顔に心からの感謝を告げて、遠野の屋敷への帰路についた。
-Now, grateful from the bottom of my heart for her smile, I begin to make my way back to the Tohno mansion.
+I thank Senpai from the bottom of my heart for that smile of hers,
+ and begin to make my way back to the Tohno mansion.
 }

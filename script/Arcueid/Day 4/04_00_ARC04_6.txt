@@ -1,12 +1,12 @@
 [sha:1f8b4ab15451832272d3d872655d8954139bc146]{
 -- Page 10016, Offset 6573.
 -- 「うん、わりといい部屋ね。
-"Yeah, it's a rather nice room.
+"Yeah, this is a pretty nice room.
 }
 [sha:1e9f4ce6657727267039b5841960a7963365c122]{
 -- Page 10016, Offset 6574.
 -- これなら一晩過ごしても文句ないかな」
-I wouldn't mind spending an entire night in here."
+I don't think anyone could complain about spending a night in here."
 }
 [sha:3a80f7e7b0201ba13a63987d5157c203237f93e3]{
 -- Page 365, Offset 6575.
@@ -21,7 +21,7 @@ Arcueid happily looks around the hotel room.
 [sha:3219aaf7b95bb48357fb7244fedefe703b55a234]{
 -- Page 365, Offset 6577.
 -- こっちはあまりの展開に言葉がない。
-I'm speechless at this turn of events.
+I'm left speechless by this turn of events.
 }
 [sha:ad40fbf195c003d9821134c8d14f29566acd9596]{
 -- Page 366, Offset 6578.
@@ -31,12 +31,13 @@ I'm speechless at this turn of events.
 [sha:375bde25afea0f09f909aaf8c6e8a092502ec567]{
 -- Page 366, Offset 6579.
 -- 「とりあえず移動するわ。
-"For now, let's get out of here.
+"Let's start by getting out of here.
 }
 [sha:d08107031da1d8dc0be16c377a9bfe2c0696c73b]{
 -- Page 366, Offset 6580.
 -- わたしの部屋は守りには向かないから……そうね、見晴らしのいい、高いところに行きましょうか」
-My room is not suitable for protection after all... That's right, we should go to a higher place with a better view."
+Let's see, my room probably isn't the best place to hole up...
+ Aha, how about we head somewhere that's higher up and has a better view?"
 }
 [sha:7cd0c5538b14d5cb9e6e53caea1e29eb1affd53b]{
 -- Page 367, Offset 6581.
@@ -46,12 +47,14 @@ And so, here we are.
 [sha:992064b4f09333ff07df9e2f06e1dde357740efb]{
 -- Page 367, Offset 6582.
 -- アルクェイドは大通りでタクシーを停め、となり町まで移動。
-Arcueid flagged down a taxi on the main street, and we took it to the next town over.
+Arcueid flagged down a taxi on the main street and we took it to the next town over.
 }
 [sha:6c00be0ef36570985b9e90a519a63b1f2efe50b0]{
 -- Page 367, Offset 6583.
 -- このあたりでも屈指の高級ホテルの一室にチェックイン……どころか、最上階フロアすべてを借り切った。驚きのセレブぶりだ。
-She checked into a room at one of the most expensive hotels in the area. Not only did she rent a room... but the entire top floor as well. It was like she was a celebrity.
+She checked us into a room at one of the most expensive hotels in the area.
+ Well, I say room―――she actually booked out the entire top floor.
+ It was like she's a celebrity.
 }
 [sha:03d42bedeb4e23f7d336b85865dec2a2a1317d99]{
 -- Page 368, Offset 6584.
@@ -66,17 +69,24 @@ Human architecture really is advancing at a remarkable pace.
 [sha:a505850f5bc5e718df7a0ab044e7379604e31f78]{
 -- Page 368, Offset 6586.
 -- こういうのなんて言うんだっけ？　<一髪千鈞|いっぱつせんきん>？　<日進月歩|にっしんげっぽ>？
-What do you call this kind of thing? 'Wringing water from a stone'? 'Rapid progress'?
+// 一髪千鈞 seems to be 'do something dangerous'.
+// Direct equiv seems like it would be 'hanging by a thread'
+// The first one doesn't make any sense here, we assume she's actually thinking of 一瀉千里
+// Translated here as a botched version of an appropriate idiom for that
+What's the phrase people use for this again?
+ '%{i}Petal%{/i} to the %{i}medal%{/i}'?
+ Or wait, was it 'Progress marches on'?
 }
 [sha:a5238b3124203be49f0f3301fadad0488195b7ec]{
 -- Page 368, Offset 6587.
 -- ま、どっちでもいっか！　ほら、見て見て志貴、さっきまでいた路地裏があんなにちっちゃくなってる！」
-Well, it doesn't really matter! Look over there, Shiki, the alleyway we were in just now has become so tiny!"
+Well, it doesn't really matter! Ooh, ooh, over there, Shiki! The alleyway we were just in is so tiny now!"
 }
 [sha:e475d6c2e3c957438197e961490d17ca8ffb6245]{
 -- Page 369, Offset 6588.
 -- 閉め切られたカーテンをわずかに開けて、アルクェイドは窓から見下ろす風景を楽しんでいる。
-With the drawn curtains slightly open, Arcueid is enjoying the view from the window.
+Arcueid has opened a small gap for herself in the curtains
+ and seems to be having fun looking at the scenery through the window.
 }
 [sha:896cc4955f196c876256958a21123539d45c857e]{
 -- Page 369, Offset 6589.
@@ -86,22 +96,26 @@ I am by no means in the mood for this.
 [sha:fc768a2018111c2da63fb2448fd2af51afc033e5]{
 -- Page 370, Offset 6590.
 -- ここはホテルの一部屋というより、ホテルの最上階に造られた砦のようだ。
-This place is more like a fortress built on the top floor of a hotel than a hotel room.
+This place isn't a hotel room so much as a fortress that happens to have been built on top of a hotel.
 }
 [sha:deba44dcb89c22e80d4db5640d5d33aa0f76f47e]{
 -- Page 370, Offset 6591.
 -- 日光を<遮|さえぎ>るカーテンも、部屋を飾る家具も、壁や扉の材質も、一般のものより数倍、豪華かつ頑丈だ。
-The curtains that block out the sunlight, the furniture that decorates the room, and the materials used for the walls and doors are several times more luxurious and sturdy than those of most hotels.
+The blackout curtains,
+ the furniture that decorates the room,
+ and even the materials used for the walls and doors are significantly more luxurious and sturdy than the ones you'd find in your average hotel.
 }
 [sha:0dcdaaf3b2a195b2d6cf5ac82153ed1759c9e83a]{
 -- Page 371, Offset 6592.
 -- 最上階を借り切っている以上、他の客はこのフロアにはやってこない。よく見れば、部屋には一階ロビーの様子を逐一映しているモニターすらあった。
-Since we're renting the top floor, no other guests will come up here. There's even a monitor in the room that displays the lobby on the first floor.
+Since we've rented out the entire top floor, no other guests will come up here.
+ This room even has a monitor that shows what's happening in the lobby on the first floor.
 }
 [sha:087f233f31ea2ca9a00dfa3c72407db580dfad37]{
 -- Page 371, Offset 6593.
 -- ……この部屋を使用する人種はそういう特権階級なのだと、改めて思い知る。
-...I realize once again that the people who use these kinds of rooms are from the privileged class.
+// The rich aren't human
+I'm struck once again by how the pedigreed people that use hotel rooms like this are like a totally different breed to the rest of us...
 }
 [sha:986be607843deff178834b27f5bd172f3e0bc930]{
 -- Page 372, Offset 6594. Mods: @k, @e.
@@ -116,17 +130,17 @@ Since we're renting the top floor, no other guests will come up here. There's ev
 [sha:0f1a47a49da5c58baddd34810b8519669fd25087]{
 -- Page 373, Offset 6596.
 -- 陽気に言いつつ、アルクェイドは窓から離れた。
-Arcueid says this cheerfully as she moves away from the window.
+Speaking cheerfully, Arcueid pulls away from the window.
 }
 [sha:dcb2aa40015c75f1e835bccad8666f9bde147373]{
 -- Page 373, Offset 6597.
 -- 見晴らしのいい場所と言っておいて、都市の俯瞰図はもう飽きたらしい。
-She said it was a great lookout spot, but it appears she is already tired of the birds-eye view of the city.
+She said it was a great lookout spot, but it appears she is already tired of the bird's-eye view of the city.
 }
 [sha:2d3ff54c4a2d420b2ca80bbee8eceb685d0f335c]{
 -- Page 374, Offset 6598.
 -- 「……アルクェイド。おまえ、なに考えてるんだ」
-"...Arcueid. What on earth are you thinking?"
+"Arcueid... What on earth are you thinking?"
 }
 [sha:1450c74159fc112eada6746cbae2de53aa872dda]{
 -- Page 374, Offset 6599.
@@ -191,7 +205,7 @@ I'm not sure what's so funny, but Arcueid is laughing.
 [sha:68d1d86f953154a56207aaeafd686c7116516629]{
 -- Page 378, Offset 6611.
 -- 一方、こっちはドアの間近に立ったまま、油断なく部屋の様子を観察する。
-Meanwhile, I'm standing in close proximity to the door, keeping my guard up as I survey the state of the room.
+Meanwhile, I'm standing right next to the door, still very much on edge, keeping a watchful eye over the entire room.
 }
 [sha:abe8a62afcd449c51334e193a1f8938c23dd8ebb]{
 -- Page 378, Offset 6612.
@@ -201,7 +215,9 @@ I'm the complete opposite of the relaxed Arcueid.
 [sha:46c55a52b391154dc55bc714d518ad56b0cdedd4]{
 -- Page 379, Offset 6613.
 -- 疲れきっていたので休みたいのは山々だが、いまソファーに腰を下ろしたらそれこそ深海まで沈んでしまいそうだ。
-I'm exhausted and desperately want to rest, but if I were to sit down on the sofa now, I would surely sink into a deep sea of sleep.
+I'm exhausted and desperately want to rest,
+ but if I were to sit down on the sofa now,
+ I can all but guarantee I'd be out like a light.
 }
 [sha:ead459093273aa589f5f1994bdd8f538534adfc7]{
 -- Page 379, Offset 6614.
@@ -211,7 +227,8 @@ No matter how desperate I get, I can't allow myself to become that defenseless.
 [sha:9dedea441f853dddee384b9dc23d2c656f0ba846]{
 -- Page 380, Offset 6615.
 -- 「志貴、なにか飲むー？　ここ、飲み物がたくさんあるみたい！」
-"Shiki, do you want something to drink? There seem to be a lot of drinks here!"
+"Shiki, do you want something to drink?
+ It looks like there's a whole bunch to choose from here!"
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 380, Offset 6616.
@@ -221,17 +238,18 @@ No matter how desperate I get, I can't allow myself to become that defenseless.
 [sha:e3ee9db11ae17af7ccd6dd36af96ab5d1493a84f]{
 -- Page 380, Offset 6617.
 -- 部屋に備え付けられたミニバーから脳天気な声がする。
-A carefree voice comes from the minibar in the room.
+I hear a carefree voice coming from over by the minibar.
 }
 [sha:44e766b6a69eb25cf0d23a8c479bb2903122871c]{
 -- Page 380, Offset 6618.
 -- ……アルクェイドが手に持っている瓶は、言うまでもなくアルコールの類いだった。
-...The bottle in Arcueid's hand is, needless to say, some sort of alcohol.
+Needless to say... the bottle in Arcueid's hand is some form of alcohol.
 }
 [sha:dc7c8d05d8520f9c61f3b587e7a8984d0cc59fc2]{
 -- Page 381, Offset 6619.
 -- 「あのな。未成年のクセに酒を勧め―――」
-"You know, I'm underage and you're offering me alco―――"
+// Reading this as _she_'s underage given Shiki's later thought
+"Look here. Why are you pushing alcohol when you're undera―――"
 }
 [sha:8dc6b45f8b639bb65b142d08235aafe9f4d5f7b7]{
 -- Page 381, Offset 6620.
@@ -241,22 +259,23 @@ I bite my tongue mid-sentence.
 [sha:979a895c65139017e143c34a479fa2075003681a]{
 -- Page 381, Offset 6621.
 -- あいつが未成年かどうか分からない。別に興味ないし聞く気もないが。
-I don't know if she's underage or not. It's no real concern of mine and I don't feel like asking.
+I'm not actually sure whether she's underage or not.
+ I don't care to know though, so I'm not about to ask.
 }
 [sha:fe5b29e9d5e112b1a058b5f0380ead87d4265ecc]{
 -- Page 382, Offset 6622.
 -- 「後で自分で選ぶからいい。それより―――」
-"I'll choose for myself later. More importantly―――"
+"I'll pick out something myself later. More importantly―――"
 }
 [sha:2e862d5864cdea4815a3018360a20b8b7a73372f]{
 -- Page 382, Offset 6623.
 -- どんなに疲れていても、面食らっていても、訊くべき事がある。
-No matter how tired or bewildered I am, there is a question I need to ask.
+No matter how tired or bewildered I am, there's something I have to clear up.
 }
 [sha:308310fb19eff03687e24a5724f214e32b29502d]{
 -- Page 383, Offset 6624.
 -- 目の前にいる女は何なのか。
-What is this woman in front of me?
+What %{i}is%{/i} this woman in front of me?
 }
 [sha:31b593d14ffdd0a39c7677304d4b788fc2f46301]{
 -- Page 383, Offset 6625.
@@ -266,22 +285,24 @@ In other words, how dangerous is the situation I'm in right now?
 [sha:4a2b87814c5f1d7d6d8788fba0357ea771c522b5]{
 -- Page 383, Offset 6626.
 -- それらが俺の常識にないものだとしても、出来る範囲で理解しないとおちおちソファーに座れもしない。
-Even if the answer defies common sense, if I don't try to understand things to the best of my ability, then I can't even sit peacefully on the couch.
+Even if the answer defies common sense,
+ I can't sit down and relax on the couch without first trying to understand things as best I can.
 }
 [sha:a021f43b643e41293d53acc113e42e4a8384aa49]{
 -- Page 384, Offset 6627.
 -- 「……それより、おまえに訊きたい事がある。
-"...More importantly, there's something that I need to ask you.
+"More importantly, there's something that I need to ask you.
 }
 [sha:cfa5ae8378f4af2c1aafc8afd8e79115d59a9380]{
 -- Page 384, Offset 6628.
 -- のんびり休むのはその後だ」
-After that, I can relax and rest."
+I can't sit back and relax until I do."
 }
 [sha:58d69c7bf83d8373e64ea7f5f4195df1c4f92c0a]{
 -- Page 385, Offset 6629.
 -- 「？　かまわないけど、どうしたの、急にかしこまって」
-"I don't mind, but what's the matter? You're so uptight all of a sudden."
+"Hm? I don't mind, but what's the matter?
+ You're acting very serious all of a sudden."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 385, Offset 6630.
@@ -291,12 +312,13 @@ After that, I can relax and rest."
 [sha:14960f7b9642a87d6c96cddb183624ef211b08a9]{
 -- Page 385, Offset 6631.
 -- かしこまるも何も、おまえの前で気を許した事はないんですけどぉ……いや、それはいいとして、
-Uptight? I've never once let my guard down in front of you... but enough about that.
+Well of course I seem serious, I haven't let my guard down for even a second since I ran into you...
+ Anyway, that aside―――
 }
 [sha:ddfeaab597eacfc455a7a2b0a8be2a7ce154d55d]{
 -- Page 386, Offset 6632. Mods: @n.
 -- 「真面目な話だよ。
-"I'm being serious here.
+"This is important.
 }
 [sha:fef9254f2791d82c8f2bafecfac3d42128daae96]{
 -- Page 386, Offset 6633.
@@ -306,7 +328,7 @@ At the end of the day, what are you really trying to accomplish?"
 [sha:2d9cf9174b3254488730aa26d572440469d95bc4]{
 -- Page 387, Offset 6634.
 -- 「わたし？　わたしは吸血鬼を追ってるだけよ。
-"Me? I'm just trying to go after a vampire.
+"Me? I'm just chasing after that vampire.
 }
 [sha:d9fea337c853b75f1b597c1fcd36e7c2fe97bf9d]{
 -- Page 387, Offset 6635.
@@ -316,7 +338,7 @@ Eliminating vampires is my duty after all."
 [sha:2b24113e28c2fc85a89817fa76b3a30ca0a885c4]{
 -- Page 387, Offset 6636.
 -- 「ああ、たしかにそんなコトを言ってた。
-"Yeah, you definitely did say that earlier.
+"Yeah, I seem to recall you saying that earlier.
 }
 [sha:d0ef3c54fd5c811a9c748ddf13cf509dbe8e7c21]{
 -- Page 387, Offset 6637.
@@ -331,7 +353,7 @@ But you're a vampire too, aren't you?"
 [sha:28f0cd3a9992c4683b5bdf56eee7257c5016a433]{
 -- Page 389, Offset 6639.
 -- 「いやっていうほど信じてるから安心しろ。
-"Don't worry, I believe you enough.
+"Relax, I don't like it but I believe you.
 }
 [sha:fd159e9e69cc3fd11b0b1b75df619cef540f27d1]{
 -- Page 389, Offset 6640.
@@ -341,63 +363,65 @@ What I'm trying to say is, why would a %{i}vampire%{/i} like yourself be going o
 [sha:7e428da9e99f4f422721e84b96c2359a7751cc02]{
 -- Page 389, Offset 6641.
 -- 「あら、志貴は同族同士で殺し合うのは嫌いなんだ？」
-"Oh, so you don't like it when members of the same group kill each other?"
+// Species here since 'group' is kinda generic, 'family' feels too small and 'race' is a bit fraught
+"Oh, so you don't like it when members of the same species kill each other?"
 }
 [sha:547d611fc48b779d2fc68e53f19282ca41689268]{
 -- Page 390, Offset 6642.
 -- 「同族じゃなくても願い下げだよ。
-"I wouldn't want them killing people outside that group either.
+"I'd prefer it if they didn't kill members of other species either.
 }
 [sha:925767fa02a1b49a14f196408bb630e2936f9381]{
 -- Page 390, Offset 6643.
 -- ……あのさ、吸血鬼は人間の血を吸う鬼なんだろ。なら殺す対象は人間であって、同じ吸血鬼じゃない。
-...But look, vampires are demons that suck the blood of humans, right? Then shouldn't your target be humans and not other vampires?
+But look... vampires are demons that suck the blood of humans, right? Then shouldn't your target be humans and not other vampires?
 }
 [sha:be20518cf0527aaa71795817d32eebab68c0a477]{
 -- Page 390, Offset 6644.
 -- おまえが殺すのは、その―――」
-What you're killing is, well―――"
+Wouldn't the people you kill be, you know―――"
 }
 [sha:ecf8d61073b52bef50bb0571ad57e784744f08ac]{
 -- Page 390, Offset 6645.
 -- 吸血対象である、人間になるんじゃないのか……？
-If the goal is to suck blood, wouldn't it make more sense to target humans...?
+If it's blood you're after, then wouldn't it make more sense to target humans...?
 }
 [sha:1ded88c12e9d76ce3494cf52ec45fea0b0532f32]{
 -- Page 391, Offset 6646.
 -- 「吸血行為と殺害行為は別物よ。
-"Sucking blood and killing are two different things.
+"The act of sucking blood and the act of killing are two different things.
 }
 [sha:4110dc13a96f4807a26687a1830885f254d192a1]{
 -- Page 391, Offset 6647.
 -- ま、それでも志貴の言いたい事は分かるわ。同じ種族同士、助けあうべきだっていうんでしょ？
-But still, I understand what you're getting at. You're saying that we should help each other because we are the same species, right?
+Still, I understand what you're getting at.
+ You're saying that we should help each other because we're the same species, right?
 }
 [sha:7af3c26d144f590afe10faca0883bb42cf7d6c5e]{
 -- Page 391, Offset 6648.
 -- けど、吸血鬼は同じ<大|お><源|や>から派生したモノであっても、それぞれ異なる進化を遂げた固有種のようなものだから。
-// Ruby space intentional
 However, even though vampires are all derived from the same greater <origin|p r o g e n i t o r  >, each one is a unique species that has evolved differently from all the others.
 }
 [sha:beba554b0f88d11edb4307bddcd64d4ddca158a1]{
 -- Page 391, Offset 6649.
 -- 人間でいうところの仲間意識は希薄なのよ」
-They don't have the same sense of fellowship that humans do."
+We don't have the same sense of fellowship that humans do."
 }
 [sha:56c59f665424fb76f6f56419c19a1787f3d41c7e]{
 -- Page 392, Offset 6650.
 -- 「……？　じゃあその、おまえが探している吸血鬼は、おまえとは違うっていうのか？」
-"...? You mean to say, the vampire that you're looking for is different from you?"
+"Huh...? So, does that mean the vampire that you're looking for is different from you?"
 }
 [sha:8121f5b63d5597133b082dff0098573b0bdfd64d]{
 -- Page 393, Offset 6651.
 -- 「ええ、わたしとは別種の吸血種。
-"Yeah, it's a different species of vampire to me.
+"Yeah, it's a different species of bloodsucker from me.
 }
 [sha:a579aa54775e0c3892f2eea4c1d812d6bc2eb729]{
 -- Page 393, Offset 6652.
 -- わたしが追いかけているのは<人|・><間|・>の吸血鬼だから、あなたたちが抱く<幻想|イメージ>とほぼ一緒よ。
-The vampire I'm chasing is a %{i}Dead Apostle%{/i}, so it's almost exactly the same as the image you have of vampires.
+The vampire I'm chasing is a %{i}Dead Apostle%{/i},
+ so they're more in line with the image you have of what a vampire is.
 }
 [sha:20408284a9077eff72a5991d2ec089b639d1daca]{
 -- Page 393, Offset 6653.
@@ -407,22 +431,26 @@ They suck human blood and convert the people they kill into familiars to gradual
 [sha:c37808dbb506e49b200daa5db4e2dbdb701ac32b]{
 -- Page 393, Offset 6654.
 -- 朝の死者、覚えてるでしょ？　アレが吸血鬼に殺された人間の末路。人間として死んだのに、まだ死にきれず生かされている<動く死人|リビングデッド>」
-You remember that burning Dead from this morning, right? That's what happens to people killed by vampires. Even though they are dead as humans, they cannot truly die and continue as the living dead."
+You remember those burning Dead from this morning, right?
+ That's what happens to people killed by vampires.
+ Even though they are dead as humans, they cannot truly die and continue as the living dead."
 }
 [sha:56ba66400b0d34fe3b8aa49f6a57b917dced8671]{
 -- Page 394, Offset 6655.
 -- 「……死んだのに、生かされている……」
-"...They're dead, but they're still alive..."
+"They're dead, but they're still alive..."
 }
 [sha:60533b3094e35070b882e8b2c4b8fbd3cc571a2e]{
 -- Page 394, Offset 6656.
 -- 路地裏に現れたあの死体……吸血鬼の物語では、血を吸われた人間は新しい吸血鬼になって人を襲うという。
-The corpse that appeared in the alleyway... According to the legends about vampires, people whose blood has been sucked become new vampires and attack people.
+The corpses that appeared in the alleyway...
+ According to the legends about vampires, people whose blood has been sucked become new vampires and attack people.
 }
 [sha:a7d04731ee57ac84c77ae53c02128f0b6536b7ca]{
 -- Page 394, Offset 6657.
 -- そうやって数を増やしていき、最後には村をまるごと死の土地にしてしまう……という事か。
-In this way, their numbers increase and eventually, they turn an entire village into a land of death... or so it goes.
+As they keep doing this and growing their numbers,
+ they eventually turn the entire village into a land of death... or so it goes.
 }
 [sha:d36a3dad0ea22e9f83040ff5feb34c1f77130832]{
 -- Page 395, Offset 6658.
@@ -432,7 +460,8 @@ In this way, their numbers increase and eventually, they turn an entire village 
 [sha:4388b41f45d599eb707253de835e335e2549d0be]{
 -- Page 395, Offset 6659.
 -- わたしは血を吸う事に執心はないし、彼等の<同類|なかま>でもない。だから、互いに殺し合う事に問題は発生しない」
-I'm not interested in sucking blood, and I'm not one of their kind. That's why I have no problem with killing these other vampires."
+I have no interest in sucking blood, and I'm no ally of theirs.
+ As such, I have no problem with killing these other vampires."
 }
 [sha:ada886f73098ce1502c3919a9bfd9b2f2c80c3a8]{
 -- Page 396, Offset 6660.
@@ -447,12 +476,12 @@ It appears that there are many different types of vampires.
 [sha:e91b42d04eebbdbc2e8d924e630e3046b9f98f64]{
 -- Page 397, Offset 6662.
 -- 「……今さらでゾッとするんだけど。
-"...I'm starting to feel a bit shaken after all this.
+"I'm starting to feel a bit shaken by all this...
 }
 [sha:5312f8fa16888613b2c64e1324089f0fd2599ceb]{
 -- Page 397, Offset 6663.
 -- そいつをやっつけるから俺に盾になれ、なんて事を言ってやがったのか、おまえ」
-So you're telling me that the reason you asked me to become your shield was so you could kill him."
+So you're telling me that the reason you told me to become your shield was so you could kill him."
 }
 [sha:8478cc07fc71a6d59d9b8865a6f6b7aa61c8b301]{
 -- Page 398, Offset 6664.
@@ -462,7 +491,8 @@ So you're telling me that the reason you asked me to become your shield was so y
 [sha:d3addeac2a18345f9fb0ea2025fbe42057d72596]{
 -- Page 398, Offset 6665.
 -- あなたなんて嫌がっても盾にしてやる、逃げても<魔眼|くさり>で縛り付けてさんざん怖がらせて使い切ってやるって。
-I was planning to use you as a shield regardless. Even if you tried to run away, I would have bound you with my %{i}Mystic Eyes%{/i} and used you through the power of overwhelming fear.
+I was planning on using you as a shield whether you liked it or not.
+ If you'd tried to run away, I would have bound you with my %{i}Mystic Eyes%{/i} and run you into the ground through the power of overwhelming fear.
 }
 [sha:a0589156f2e0973b21007b3165bccceaaf91a458]{
 -- Page 398, Offset 6666.
@@ -472,7 +502,7 @@ But as I was talking to you, I started to change my mind."
 [sha:36181556a69b04b221aeb1ae666da45dbf4572ad]{
 -- Page 399, Offset 6667.
 -- ……はじめから力ずく前提だったワケか。
-...So she was planning to use force from the beginning.
+So she was planning to use force from the beginning...
 }
 [sha:37203b3f98073a41e4dc01e027f12eb26a6ce992]{
 -- Page 399, Offset 6668.
@@ -482,47 +512,54 @@ Okay, I'll have to make sure to remember that.
 [sha:a24367a40a888a55c32fa735566386ddcdd5ef95]{
 -- Page 399, Offset 6669.
 -- 「気が変わったって、なんでだよ」
-"But why did you change your mind?"
+"You changed your mind? Why?"
 }
 [sha:ba80f46f5a3f2c303e91db71d87470dd5b4dc3d4]{
 -- Page 400, Offset 6670.
 -- 「んー、わたしの勘違いだったから。
-"Hmm, it's because I was wrong about you.
+"Hmm, I guess because I was wrong about you.
 }
 [sha:a21df7e56cb456f6e7090850c040cf161f6e3ec4]{
 -- Page 400, Offset 6671.
 -- わたしね、志貴。あなたに殺されて復元するまでのあいだ、あなたは教会の人間だと思っていたの。
-You know, Shiki. From when I was killed by you up until the time I restored myself, I thought that you were a member of the %{i}Church%{/i}.
+You know what, Shiki?
+ I spent the entire time between when you killed me and when I revived under the impression that you were a member of the %{i}Church%{/i}.
 }
 [sha:ac1bda3e23e0fb30c4c98fae76d128cf080512c2]{
 -- Page 400, Offset 6672.
 -- それなら敵の居場所を掴んでいる可能性もあるし、戦力としても期待できるなって」
-If that were the case, there was a chance that you knew the location of the enemy and could be counted on as a force to be reckoned with."
+If you %{i}had%{/i} been,
+ there was a chance you might have known where the enemy was,
+ and I'd have been able to count on you as a force to be reckoned with."
 }
 [sha:bb90602f0c61d1b02510ddf2525bf61adca0a788]{
 -- Page 401, Offset 6673.
 -- 「なのに志貴ったらまるっきり普通の人なんだもん。敵の棺の場所はおろか、吸血鬼の事をまるで知らないし」
-"But in the end, you were just a completely normal person. You didn't know anything about vampires, let alone where the enemy's coffin was."
+"But you ended up being a completely ordinary person.
+ You didn't even know the first thing about vampires, let alone the location of the enemy's coffin."
 }
 [sha:0d68077f4b4e2502ce839a61c345c8e0924007c6]{
 -- Page 402, Offset 6674.
 -- 「……ええ、そもそもあの連中がこんな無神論者の国に代行者を派遣するわけがないし、そもそも<単独|ひとり>じゃ動かないものね。師匠と弟子の<二人組|ツーマンセル>があいつらの基本だったわ……」
-"...Yeah, there's no way they'd send an %{i}Executor%{/i} to an atheist country like this in the first place. Not to mention that they wouldn't be operating alone. Their policy is to always move in master-disciple pairs after all..."
+"Yeah... there's no way they'd send an %{i}Executor%{/i} to an atheist country like this in the first place.
+ Not to mention that they wouldn't be operating alone.
+ Their policy is to always move in master-disciple pairs after all..."
 }
 [sha:43f0edc2cfc8d08a51ca0e514b5016afdb9123a8]{
 -- Page 403, Offset 6675.
 -- ぶつぶつと独り言を言うアルクェイド。
-Arcueid mumbles to herself.
+Arcueid is off mumbling to herself.
 }
 [sha:c31b366f56cf3280486e861b84cfc8765aa9821e]{
 -- Page 403, Offset 6676.
 -- 話が脱線して、こっちはいい感じで置いてけぼりだ。
-The conversation has been derailed, and I am left behind with a pleasant feeling.
+The conversation seems to have gone off the rails a bit,
+ but I'm just happy not to be the subject anymore.
 }
 [sha:4042195239f3e0067024aecf184b516090cb86d8]{
 -- Page 404, Offset 6677.
 -- 「とにかく、わたしの標的はあなたから『<元の獲物|きゅうけつき>』に戻ったってコト。
-"Anyway, it means that my target is no longer you but my 'original prey'.
+"All that to say, you're not the one I'm after anymore. I'm back to chasing after my original prey.
 }
 [sha:48c535f36627cad3537695cdaaa90fd7644d3d8f]{
 -- Page 404, Offset 6678.
@@ -532,12 +569,12 @@ Which is kind of a bummer, I guess."
 [sha:e17264988e174fe4c366ca108f08c628f5ed3175]{
 -- Page 405, Offset 6679.
 -- 弾むような声で物騒なコトを言いやがる。
-She says something disturbing in a lively voice.
+Her voice is sprightly, but her words are disturbing.
 }
 [sha:0216aac80832c79e22712401a38cfac7cb6b4625]{
 -- Page 405, Offset 6680.
 -- ……くそ。まだ俺に思うところがあるぞ、あの女。
-...Damn. She still has something against me, this woman.
+Damn... This woman still has it out for me, doesn't she?
 }
 [sha:38221985a2c42b91a51c6e67a701ce7b4ec0edcb]{
 -- Page 405, Offset 6681.
@@ -547,7 +584,7 @@ Even though it's natural for her to hate me after what I did, it's not good for 
 [sha:21ae4cb479e88ef207fed0f96887016d4f2179aa]{
 -- Page 405, Offset 6682.
 -- やはり俺が油断した瞬間、あっさり殺すつもり―――
-As I thought, she is going to kill me the moment I let my guard down―――
+Seems like she really is planning on killing me the moment I let my guard down―――
 }
 [sha:18c062f4bd5ba8c4c2c156addad8f3be3f0f2d59]{
 -- Page 406, Offset 6683.
@@ -567,12 +604,12 @@ And then,
 [sha:91b18c48b731adb279d48df631bbc1d027604b0c]{
 -- Page 406, Offset 6686. Glued. Mods: @n.
 -- と弾むような足取りでベッドまで移動すると、
- with a bounce in her step,
+ with a spring in her step,
 }
 [sha:9b25b7e9e32d87a3992778b4c3effce40c31d323]{
 -- Page 406, Offset 6687. Glued.
 -- ぼすん、と横になってしまった。
- she walks over to the bed and flops down on it.
+ she strolls over to the bed and flops down onto it.
 }
 [sha:620ef58e002785e27a48128a13223cbacaddc5cb]{
 -- Page 407, Offset 6688.
@@ -582,22 +619,23 @@ And then,
 [sha:696e8d045b926e6e58d300e1b5d4e5117b168a1b]{
 -- Page 407, Offset 6689.
 -- あ、志貴も今のうちに休んでおいた方がいいよ？　吸血鬼は昼間活動できないから、本格的に見張りをしてもらうのは夜になるんだし」
-Ah, Shiki, you should also get some rest while you can. Vampires can't be active during the day, so it'll be during the nighttime when I need you to be a full-on lookout."
+Ah, Shiki, you should also get some rest while you can.
+ Vampires can't be active during the day, so I don't need you to be on lookout until nightfall."
 }
 [sha:4def182aff281b45aca2277cf5c06d42941231f9]{
 -- Page 408, Offset 6690.
 -- 「……おまえ。いま、自分の存在を全面否定するようなコトを言ったって、分かってるか？」
-"...You. Do you understand that you've just said something that negates your entire existence?"
+"You... do understand that you've just said something that negates your entire existence, right?"
 }
 [sha:82f0dc98d69ee756c347d0eedb6c264736df4897]{
 -- Page 408, Offset 6691.
 -- 「わたしはいいの。
-"Don't worry about it.
+"It doesn't bother %{i}me%{/i}.
 }
 [sha:f69732b9b48999169b1973234ca113d2f260f334]{
 -- Page 408, Offset 6692.
 -- ―――っと、そろそろ限界みたい。それじゃおやすみなさい、志貴。日が沈んだら起こしてね」
-―――Oh, I think I've reached my limit. With that, good night Shiki. Wake me up when the sun goes down, okay?"
+―――Oh, I think I've reached my limit. Well then, good night, Shiki. Wake me up when the sun goes down, okay?"
 }
 [sha:2554923601de71cf9cf5fba29617baff580cba69]{
 -- Page 409, Offset 6693.
@@ -627,37 +665,37 @@ Unbelievable. She's really asleep...
 [sha:59522c5e4a4fa76c2dca737e02b61c6617293dda]{
 -- Page 410, Offset 6698.
 -- いつでも逃げられるようドアの<傍|そば>に立っていた俺が馬鹿みたいだ。
-I feel like an idiot for standing close to the door so that I could escape at any time.
+I feel like an idiot for spending the entire time hovering by the door in case I needed to make a run for it.
 }
 [sha:8ebb0c13cd5d0abec0b0d475f59de461ae400f23]{
 -- Page 411, Offset 6699.
 -- いいのかそれ。俺が言うコトじゃないけど、ホントにそれでいいのかこいつ？
-Is this okay? I know it's not for me to say, but is that woman really fine with this?
+Is this okay? I know it's not for me to say, but is she really fine with this?
 }
 [sha:f564060757a689706055ddd39ba7acbc3fc4081f]{
 -- Page 411, Offset 6700.
 -- こっちは<半|なか>ば無理やり連れてこられた状況なんだ。今なら楽勝で逃げられる。
-I'm in a situation where I've been brought here somewhat against my will. But now, I could easily make my escape.
+I was dragged here more or less against my will. I could easily make my escape right now.
 }
 [sha:8a9a7754f4c11fce98f231579d0b75a880cc41e4]{
 -- Page 412, Offset 6701.
 -- いや、そもそも、だ。
-No, to begin with,
+No, what's more―――
 }
 [sha:d155ccaf198022fa45ceb1ffbf3f5e8b8679b77e]{
 -- Page 412, Offset 6702.
 -- 俺にはもう、あの時のような衝動はないとしても、
-even though I don't have the same urges I had back then,
+Even though I don't have the same urges I had back then―――
 }
 [sha:fc0b1f96a9d2524dc784d929345b89bfa721bf9d]{
 -- Page 412, Offset 6703.
 -- 「……俺は一度、おまえを殺しているんだぞ……？」
-"...I've already killed you once, you know..."
+"I've already killed you once, you know..."
 }
 [sha:b22dbec322248f652d2d7fbbc51cc5fda5c6f4a0]{
 -- Page 412, Offset 6704.
 -- なのに、どうして眠ってしまえるのか、この女は。
-Despite this, how can she fall asleep so carelessly, this woman.
+How is this woman still able to fall asleep so carelessly?
 }
 [sha:8eaa978afc424a226a1e857f05b10c5b2c0e8cc7]{
 -- Page 413, Offset 6705.
@@ -672,12 +710,12 @@ I stare at Arcueid's face.
 [sha:c38ab41a702aff6f438ef9fb3b34471b6879f451]{
 -- Page 413, Offset 6707.
 -- ……ふくよかな胸が上下しているところを見ると、呼吸はしているようだ。
-Observing her well-rounded chest as it rises and falls, it would appear that she is breathing.
+Judging by the gentle rise and fall of her well-rounded chest, it seems she's still breathing.
 }
 [sha:c176751911a02f8761552fe69dfb1353b8f41d97]{
 -- Page 413, Offset 6708.
 -- ベッドに横たわった体はぴくりとも動かない。
-The body lying on the bed does not move a muscle.
+She lies on the bed, her body perfectly still.
 }
 [sha:c68d65378c262c56cdf8088d467fd2eebc31eb47]{
 -- Page 414, Offset 6709.
@@ -712,7 +750,7 @@ Her smooth and slender legs are stretched out across the bed.
 [sha:354e5f66d0e62fc4169ec2bb46b5084ac5e85676]{
 -- Page 415, Offset 6715.
 -- 清楚でありながら扇情的、なんて矛盾した言葉が浮かぶ。
-Demure yet sensual; such contradictory words come to my mind.
+Demure, yet sensual; such contradictory words come to my mind.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 416, Offset 6716.
@@ -732,12 +770,12 @@ I've only known her for a short time, and yet she trusts me, the person who brut
 [sha:30658237ab2419bcd761f2b0d5eea01eb6884056]{
 -- Page 417, Offset 6719.
 -- 「―――ばかだな、こいつ」
-"What an idiot, this woman."
+"She really is an idiot, isn't she?"
 }
 [sha:a3ceaf71602bb6f499db039598a18906ead34d3d]{
 -- Page 417, Offset 6720.
 -- ……うん、ちょっと心配になるぐらい、ばか正直だと思う。
-...Yeah, she's so stupidly honest it's enough to make you worry for her.
+Yeah... she's so stupidly honest it's enough to make you worry for her.
 }
 [sha:f5e8a5f1e1690b621584af12a454de534b6e12f9]{
 -- Page 418, Offset 6721.
@@ -762,10 +800,10 @@ But I...
 [sha:6558beb01c77c65d5677545f8ec0947ca31f3209]{
 -- Page 420, Offset 42606. Choice.
 -- ……酔狂はここまでだ。逃げよう。
- ...Enough with the madness. I'll run away.
+ ...Have had enough of this madness. I'll run away.
 }
 [sha:9e997951a7440ffaea67a408ded056c0a376893b]{
 -- Page 420, Offset 42607. Choice.
 -- ……迷うのはここまでだ。残ろう。
- ...No more getting lost. I'll stay.
+ ...Won't lose my way again. I'll stay.
 }

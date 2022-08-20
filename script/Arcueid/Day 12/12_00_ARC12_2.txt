@@ -78,7 +78,7 @@ As beautiful as a glass bas-relief.
 -- 鮮明すぎて空からこぼれ落ちてきそうな白貌。
 // こぼれ落ちる difficult to place here. Img search is like 'sand runs through your fingers'. 'petals scatter' imagery,
 // not clear if it's referencing like the light scattering down, or the moon being so vibrant it 'pops' in the night sky or what.
-A pure, white visage, so vivid it feels like it could spill from the sky at any moment.
+A pure, white visage. So vivid it feels like it could spill from the sky at any moment.
 }
 [sha:3b49baabae21c44edc27a3c948961b395433bc59]{
 -- Page 43, Offset 30611.
@@ -103,7 +103,7 @@ I saw a moon like this
 [sha:fd269993cc49d09c17c225b60a8d8fdebcb47b01]{
 -- Page 44, Offset 30615.
 -- ――――ぞくん。
-――――%{i}Badump%{/i}.
+――――%{i}Ba-dump%{/i}.
 }
 [sha:f56366c3791182387451583a2e793bd8d0b2c638]{
 -- Page 44, Offset 30616.
@@ -118,7 +118,7 @@ I feel a sudden pain from the scar on my chest.
 [sha:908c87f793517440516dd2873a26b226dea56e30]{
 -- Page 45, Offset 30618.
 -- ――――どくん。
-――――%{i}Badump%{/i}.
+――――%{i}Ba-dump%{/i}.
 }
 [sha:c7d7e1b4ed896d24a282d7f1367958e0c3686feb]{
 -- Page 45, Offset 30619.
@@ -247,7 +247,7 @@ The latent fear sending tremors through my entire body isn't coming from outside
 [sha:0279a72e294391588589335ac8422442946bd6e9]{
 -- Page 51, Offset 30643.
 -- 頭蓋を駆ける<閃|いた>み。
-A flash of pain shoots though my skull.
+A flash of pain shoots through my skull.
 }
 [sha:f5d83bd282ccb6fd64e4842787833560310f10bf]{
 -- Page 51, Offset 30644.
@@ -259,10 +259,10 @@ This pain, this sense of impending danger―――they feel rooted within my own
 -- 俺は―――遠野志貴は、あの人影にだけは、会ってはいけない気がしている――――
 I―――Tohno Shiki, have a feeling that I absolutely must not meet that person――――
 }
-[sha:670420aaa3cb10cfc520fd1f52aebab89524bae4]{
+[offset:30646]{
 -- Page 52, Offset 30646.
 -- 「―――、――――――」
-"―――,――――――"
+"―――――――――"
 }
 [sha:2797142b41ce2b4e8e15cc0308ea3fd2e60079d8]{
 -- Page 52, Offset 30647.
@@ -307,7 +307,7 @@ Yet at the same time, there is a 'point' at his core, pulsating ominously.
 [sha:4f1ec90c4c0cd6657497a60dfd38cc3536d141b9]{
 -- Page 53, Offset 30655.
 -- どくん、どくん、と、心臓のように<不死|せいめい>を<謳|うた>っている。
-It beats rhythmically, like a heart, as if proclaiming his immortality.
+It beats rhythmically, like a heart, as if proclaiming his life in undeath.
 }
 [sha:acbe7ff2ef813da99aa27419f9e632c393249499]{
 -- Page 54, Offset 30656.
@@ -414,17 +414,18 @@ I don't think I've ever heard something so viscerally repulsive before.
 [sha:f23d5072a1916c81a6fadfa3d46df665b38c0a22]{
 -- Page 58, Offset 30676.
 -- 「“本は片手に掴めるほど小さく、
-"A book so small, you could grasp it in one hand.
+"Books are small enough to grasp in one hand.
 }
 [sha:ec42bc937721a6c35ac56e991ebd3175cb9dfa8f]{
 -- Page 58, Offset 30677.
 -- 紙は年月に霞むほど<脆|もろ>い。
-Pages as muddled and vague as the passage of time itself.
+// I remember we discussed this line in the GPR, and I suggested the previous interpretation, but re-reading this scene I realize that it's actually talking generally. Just as the previous line. Suddenly it is much easier to make sense of.
+Their pages so brittle that they crumble with the passage of time.
 }
 [sha:8e0398493c958467244265f2a07d0598f047ecf4]{
 -- Page 58, Offset 30678.
 -- 水に濡れる。火に<炙|あぶ>られる。自らの手で切り捨てる。
-Soaked by water. Scorched by fire. Torn apart by one's own hands.
+Soaked by water. Scorched by fire. Discarded by one's own hand.
 }
 [sha:393a45881f7f0a00cc7d875756c09f8116c0cf01]{
 -- Page 58, Offset 30679.
@@ -434,7 +435,7 @@ Records of the past are mere illusions, perpetually being tampered with.
 [sha:8f7e7769ea1630abc8b0d80843bde69221a5d19e]{
 -- Page 58, Offset 30680.
 -- <然|しか>るに―――”」
-And yet―――"
+Nevertheless―――"
 }
 [sha:51b78d44636c1d73898e4b0ea1c56d7092317171]{
 -- Page 59, Offset 30681.
@@ -465,7 +466,7 @@ It prevents me from committing to the urge to kill him,
 [sha:aa2b2801191a6a9294989cf734e32210e8db9443]{
 -- Page 60, Offset 30686.
 -- 「“君という個人もまた、不出来なテクストにすぎない。
-"Even someone like you amounts to nothing more than a poorly written text.
+"Even you amount to nothing more than a poorly written text.
 }
 [sha:93549664554ac3174a998535b6d89d54dbc22eca]{
 -- Page 60, Offset 30687.
@@ -684,13 +685,13 @@ My body temperature is dropping.
 -- Page 70, Offset 30728.
 -- 「おまえ<が|・>殺された借り、たしかに返却した。もはや思い残す事もないだろう。
 // Reading these 2 lines as addressed to SHIKI not Shiki
-"It would appear that you have returned the favor of being killed.
- You must have no more regrets now.
+"With this, you have repaid him in kind for having killed you.
+ Surely you have no other regrets.
 }
 [sha:a4dde80636129b1aaaf2a0f4f685fde39d3c607c]{
 -- Page 70, Offset 30729.
 -- 焚書の時だ、遠野―――<四|シ><季|キ>」
-The time has come to put your book on the pyre, Tohno―――SHIKI."
+Time to put your book on the pyre, Tohno―――SHIKI."
 }
 [sha:f4bad20f12c37709ddae48285314cbb2e4973cf0]{
 -- Page 71, Offset 30730.
@@ -715,7 +716,7 @@ When I played in the gardens of the Tohno mansion, it was always myself, Akiha..
 [sha:fa6847e6718914ad43889a86a91191b4e153c23f]{
 -- Page 72, Offset 30734.
 -- いつだって―――いつだって<自|・><分|・><た|・><ち|・>は一緒だった。
-We were―――%{i}we%{/i} were inseparable.
+We were―――we were inseparable.
 }
 [sha:aa03ed8cf80599a6c2dadaaf98ae76e47766a730]{
 -- Page 72, Offset 30735.
@@ -758,7 +759,7 @@ The owner of this body, Tohno SHIKI, is no longer with us.
 [sha:beaef76eaa02e186c47a2af45d9bcb5ba203733e]{
 -- Page 74, Offset 30742.
 -- 男は語る。同じ響きでありながら、違う言葉の男の名を。
-The man speaks. Though our names may sound the same, their spelling differs.
+The man speaks. Though our names may sound the same, their spellings differ.
 }
 [sha:bcac0e041d35b565bd40058a0db6d087c078c076]{
 -- Page 74, Offset 30743.
@@ -795,7 +796,7 @@ The vampire that resurrected into this body. Adversary of the Princess.
 [sha:119192ce254b2512fc6524cfdececd05fda2ea40]{
 -- Page 75, Offset 30749.
 -- それも、今夜かぎりの異名だが」
-That, too, is a nickname reserved only for tonight."
+That, too, is a moniker reserved only for tonight."
 }
 [sha:048d3fedb728c87383f18cce110dc0280aea98e4]{
 -- Page 76, Offset 30750.

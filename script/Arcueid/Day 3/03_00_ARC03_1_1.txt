@@ -17,17 +17,19 @@ I decide to greet Akiha first.
 [sha:83b7e4e33b01a4c8ec7bf3387b5a299d4ef775ab]{
 -- Page 33, Offset 4019.
 -- 挨拶に覇気がみられませんが、昨夜はきちんと眠れましたか？　今にも倒れそうな顔をしていますが」
-That was a rather lackluster greeting, did you not sleep well last night? You look like you are on the verge of collapse."
+That was a rather lackluster greeting, did you not sleep well last night? You look like you're on the verge of collapse."
 }
 [sha:65d426a68f7b879e7458d5626b8652dbc8ebc6f7]{
 -- Page 34, Offset 4020.
 -- 「あいにく、これが地顔だよ。朝から覇気に満ちた挨拶とか、俺に期待しないでくれ」
-"Unfortunately, this is just my face. Don't expect me to greet you with such high spirits in the morning."
+"Unfortunately, this is just how I look.
+ Don't expect my greetings to be bursting with energy this early in the morning."
 }
 [sha:cef260a6768cbca8b9a3dd1ab228b375ef535ef9]{
 -- Page 34, Offset 4021.
 -- 昨夜の出来事はともかく、挨拶ひとつで人を夜更かしする不良少年と思わないでほしい。
-Regardless of what happened last night, I don't want my greetings to make people think that I'm some kind of delinquent, staying up late.
+Ignoring what happened last night for the moment,
+ I'd appreciate it if she didn't label me as a delinquent night owl off the back of a single greeting.
 }
 [sha:7be2439111963453ca51efae2035b7b2b20aefad]{
 -- Page 35, Offset 4022.
@@ -37,7 +39,8 @@ Regardless of what happened last night, I don't want my greetings to make people
 [sha:035e6b05974995c558cbb16041909115b305b8b0]{
 -- Page 35, Offset 4023.
 -- 朝食でしたら食堂でお出しいたしますので、いつでもお声がけくださいね」
-If you would like some breakfast, I can serve it in the dining room, so please feel free to ask me anytime."
+Breakfast is normally served in the dining room,
+ so please let me know when you'd like me to prepare some for you."
 }
 [sha:2b8ef8a9503058461a15ce88c744d6fdf66f37de]{
 -- Page 35, Offset 4024.
@@ -52,12 +55,15 @@ On the other hand, Kohaku-san has this soothing effect. She and Akiha are like..
 [sha:83856a3f813b04d1abcbd5baddeff405de00b82e]{
 -- Page 36, Offset 4026.
 -- でも、秋葉はもう済ませたのか？　見たところ食後のお茶みたいだけど」
-But have you finished already, Akiha? From the looks of it, you're having some post-breakfast tea."
+But have you eaten already, Akiha?
+ It looks like you've already moved on to some post-breakfast tea."
 }
 [sha:08f2d208b662a5e7492b72e00dbba27a7a0a82be]{
 -- Page 37, Offset 4027.
 -- 「当然です。兄さんがどんな時間に起床しようとかまいませんが、せめて朝食ぐらいは余裕をもって済ませてください。
-"Of course. I don't particularly care what time you wake up, but at least make sure you have enough time for breakfast.
+"Of course.
+ I don't care all that much what time you wake up,
+ but I would ask that you at least allow yourself enough time to have breakfast.
 }
 [sha:bc4f8a19fe4b9003eef176047d9f898bb4109a09]{
 -- Page 37, Offset 4028.
@@ -82,12 +88,14 @@ I resist the urge to say, 'No, seven o'clock is normal'. It's this household tha
 [sha:368088e5ad1d9e3167701f1cd8ea1d5a5d99f629]{
 -- Page 39, Offset 4032.
 -- 「……すみません、まいりました」
-"...I'm sorry, my mistake."
+// Interpreting as 降参
+// https://www.weblio.jp/content/%E3%81%BE%E3%81%84%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F
+"...Never mind, I surrender."
 }
 [sha:227610139f1c2332f3132aae0cb66c8e85adbcac]{
 -- Page 39, Offset 4033.
 -- 常人では考えもしない事を、さも“不思議な事ですか？”なんて顔で返されては毒気も抜ける。
-Despite saying something that would be unthinkable for a normal person, she is wearing an expression that says 'is that so strange?'. I can't help but be dumbfounded.
+Despite saying something that would be unthinkable for a normal person, she's wearing an expression that says 'is it really that bizarre?'. I can't help but be dumbfounded.
 }
 [sha:c5d2a032bfa850826a4e1eb707783cac5f7a4ecc]{
 -- Page 39, Offset 4034.
@@ -97,42 +105,45 @@ I've never heard such a perfect response.
 [sha:fe651b6efb480b700a4fa86216b11fb197d92c08]{
 -- Page 40, Offset 4035.
 -- 「？　まいりました、とは何に対してですか？」
-"What do you mean, your 'mistake'?"
+"What do you mean, you 'surrender'?"
 }
 [sha:7e4f3b7160f9050fc1a221d09d64abcb49153e5e]{
 -- Page 40, Offset 4036.
 -- 「いや、なんでも。……にしても、そんな早くに起きてどうするんだ？　遅刻対策か？」
-"No... never mind that, what are you doing up so early? Trying not to be late?"
+"Ah, nothing... Still, why do you get up so early? Trying not to be late?"
 }
 [sha:365c7e198ad56429f8e87c5d9ca03e184ead470b]{
 -- Page 41, Offset 4037.
 -- 「あのですね。よほどのトラブルがないかぎり、時間に遅れる、なんてコトはありません。
-"Listen here. Unless something very serious happens, I will not be late. That will never happen.
+"Listen here. I will %{i}never%{/i} be late. Not unless something has gone drastically wrong.
 }
 [sha:01d6a63afe5914dbc571d996bfd5ef80c9832ab0]{
 -- Page 41, Offset 4038.
 -- 兄さんの学校はここから徒歩で30分ほどなんでしょう？　そう遠くない場所なんですから、遅刻なんかしないでくださいね。恥ずかしいですから」
-Your school is about a half-hour walk from here, correct? It is not that far, so do not be late. It would be embarrassing if you were."
+Your school is about a half-hour walk from here, correct?
+ It isn't that far, so do try not to be late.
+ It would be embarrassing if you were."
 }
 [sha:1786ff2ec0494df8bc375a0344880fe596beed6d]{
 -- Page 42, Offset 4039.
 -- いやあ、棘があってチクチクする。
-Well, she's prickly as ever.
+Geez, she's prickly as ever.
 }
 [sha:f53ca4355a6801fd747406758c58e77257f66f67]{
 -- Page 42, Offset 4040.
 -- とはいえすべて正論なので、反論も浮かばない。
-Given that everything she said was right, I can't think of any objections.
+Unfortunately, everything she said was also right, so I can't come up with any objections.
 }
 [sha:692693231da8787f7af81f64f308a06896b02e1a]{
 -- Page 42, Offset 4041.
 -- 秋葉が遠野家の体面を気にするのは当然の、いや、当主として果たさなければならない責務な訳だし。
-It's natural for Akiha to be concerned about the reputation of the Tohno family, no, as the head of the family, she has to be.
+It's natural for Akiha to be concerned about the reputation of the Tohno family.
+ Rather, as the head of the family, she %{i}has%{/i} to be.
 }
 [sha:f15b2a66997e8dfa2aabda9e79229f37034e8b5e]{
 -- Page 43, Offset 4042.
 -- 「はいはい。成績はともかく遅刻はしないよう心がけるよ。
-"Yeah, yeah. Even though my grades are fine, I'll be mindful of the time.
+"Yeah, yeah. I'll do my best not to be late, but no promises about my grades.
 }
 [sha:56d7133501c2e0913f2fd2949b8437953e1d78bc]{
 -- Page 43, Offset 4043.
@@ -142,10 +153,12 @@ And about staying up late―――"
 [sha:6e4d1fb9c22ff166c79dcfb248b41532bfba0f1f]{
 -- Page 43, Offset 4044.
 -- そこまで口にして、昨夜の出来事を思い出した。
-As I said this, I remembered what happened last night.
+// lint-off:LintNameMisspellings
+Mid-sentence, I remember what happened last night.
 }
 [sha:24007b43f9c4a00e7c6584803dc5d2e98bba2fa0]{
 -- Page 43, Offset 4045.
 -- 夜更かしをする気はないが、寝不足になる外的要因があっては同じ事だ。
-I'm not the type to stay up late voluntarily, but if something keeps me up, it's no different.
+I'm not the type to stay up late,
+ but if something keeps me up all night then it's all the same in the end.
 }

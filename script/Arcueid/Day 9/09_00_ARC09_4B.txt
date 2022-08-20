@@ -23,12 +23,12 @@
 [sha:3df0c7ed48dd09fee1e299b1d48ffc79dfb1b249]{
 -- Page 195, Offset 21848.
 -- ここは　シキの　へやだ。
-This is    my room.
+This is    %{i}Shiki's%{/i}    room.
 }
 [sha:4730259b1a9549a97c4ce46cd20f431f075bf827]{
 -- Page 195, Offset 21849.
 -- ジブンは　ベッドのうえで　ねむっている　らしい。
-It seems I was    sleeping    in my    bed.
+It seems I was    asleep on    the bed.
 }
 [sha:e7968d9af6d652f5a336db6e0dcea81748300bf3]{
 -- Page 196, Offset 21850.
@@ -222,7 +222,7 @@ But with Hisui looking this despondent right in front of me,
 -- Page 211, Offset 21884.
 -- 「でも―――兄さんはあれからずっと気を失っていたんですよ？　10時間以上も昏睡しているなんて、今までなかったはずです。もし兄さんがあのまま目が覚めなかったら、私はどうすればいいんですか……！」
 "But―――you've been unconscious this whole time!
- You were comatose for over ten hours, nothing like that has ever happened before.
+ You were comatose for over ten hours! Nothing like that has ever happened before.
  Just what would I do if you stayed like that and never woke up, Nii-san...!"
 }
 [sha:ebad381e248fcb2789c9efcbfcd780b8deead63a]{
