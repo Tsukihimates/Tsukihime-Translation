@@ -82,7 +82,7 @@ Kohaku... is busy preparing breakfast, so why don't I call for Arach-sensei inst
 [sha:8cb74bf230ede658ee4ca14c88874947445531c4]{
 -- Page 125, Offset 13480.
 -- あの方、ああ見えて外科の医師でもあるんです。ここで暮らすのなら頻繁に会う人ですから、これを機に親睦を深めてください」
-She may not look it, but she's a doctor who specializes in surgery.
+She may not look like it, but she's a doctor who specializes in surgery.
  You'll run into her fairly often now that you're living here, so please take this opportunity to get to know her better."
 }
 [sha:fae17bf9e4bfc83d16cd9b6857240db3381d4a89]{
@@ -150,7 +150,6 @@ Nii-san? Is something the matter? You seem restless. Could it be that, even at y
 [sha:5711384d4b8dbbab7e11a4eb8815d58e70e21bdb]{
 -- Page 129, Offset 13493.
 -- 「苦手というかついて行けない系だろあの人は。だから、そういう話でもなくて」
-// "She's the kind of person that I find a little overwhelming"
 "I wouldn't say I'm uncomfortable around her, it's more like she's the type of person I just can't keep up with.
  But again, that's not the problem here."
 }
@@ -244,7 +243,9 @@ Akiha leaves the room.
 -- Page 136, Offset 13510.
 -- 良かった。会話の内容はどうあれ、秋葉に体の事を知られずに済みそうだ。
 // Annoying vague 会話の内容 to cover the three options for what he might have said to her
-That was close. I may have told her what I told her, but at least I managed to avoid her finding out about my injuries.
+That was close.
+ I couldn't avoid talking to her,
+ but at least I've managed to keep her in the dark about my injuries.
 }
 [sha:6adcc6488a6e4055a4cd49b4b590c5f482e95c7f]{
 -- Page 137, Offset 13511.
@@ -309,7 +310,7 @@ Instead of going around to the door, Arach-shi comes straight into the living ro
 // keeping it vague here since I assume it's more general in this usage.
 // Also, fucking what is going on
  But maybe that's the mark of a first-class survivor?
- We live in a world where you're as good as dead if you can't stay abreast of what's happening, right?
+ We live in a world where you're as good as dead if you can't keep up with what's happening, right?
  It doesn't matter how many lives you have,
  if you recklessly impregnate the feast in front of you you'll never make it, will you!
 }
@@ -318,13 +319,13 @@ Instead of going around to the door, Arach-shi comes straight into the living ro
 -- キャー、さっすが雑食動物、本能のようにヒニンしてるぅー！」
 // Assuming that ヒニン is intentionally kana to play on 否認
 // (deny, reject her advances, play hard to get) and 避妊 (contraception)
- %{i}Kyaaaa%{/i}, just what I'd expect from an omnivore,
- you've practically got an instinctual sense for contraception!"
+ %{i}Kyaaaa%{/i}, just what I'd expect from an omnivore!
+ You've practically got an instinctual sense for contraception!"
 }
 [sha:26363e83a167502b52058294b3246cda4b0185e3]{
 -- Page 142, Offset 13524.
 -- などと言いながら、阿良句氏は俺の座るソファーまで歩み寄ってきた。
-As she continues to spout off like this,
+As she continues to go on like this,
  Arach-sensei walks over to the sofa I'm sitting on.
 }
 [sha:170fab96bac36998cf4b58391b9cb79436e1b678]{
@@ -356,7 +357,7 @@ Or rather, I sure hope she isn't like this every morning.
 -- 「はーい、それじゃあ患部を出してねー。すぐ出してねー。ちょっとサワサワするわねー。
 "Okaaay, show me where it hurts.
  Hurry up and whip it out for meee.
- I'm going to get a little touchy okaaay?
+ I'm going to get a little touchy, okaaay?
 }
 [sha:2214be03960493a576a9079e5aa6a667fe612d6e]{
 -- Page 144, Offset 13530. Glued. Mods: @x.
@@ -451,7 +452,7 @@ I've been examining people since before you were even born...
 [sha:ca7beb15e3b240e1d63b170afa5ea5b69fee2bf4]{
 -- Page 149, Offset 13543. Glued. Mods: @x.
 -- だからぁ、今朝は特別にきっちり診てあげましょう！」
- Sooo, I'll give you a super special checkup today!"
+ Sooo, I'll give you a super special check-up today!"
 }
 [sha:7689473276dd1d5155f922dbe925c1dbc6374ae9]{
 -- Page 149, Offset 13544. Mods: @n.
@@ -499,7 +500,7 @@ I guess she's actually an excellent doctor?
 [sha:2459b82b28e3dfe308530fa529e792662144b1a1]{
 -- Page 152, Offset 13552. Mods: @k, @e.
 -- 「んー、でも器用にケガしたものねー。肩胛骨のあたりとか、ちょっとフツーじゃないかんじ。
-"Mmm, but you really seem like you got beat up by a professional, don't you?
+"Mmm, but you really seem like you got beaten up by a professional, don't you?
  I mean just look at what happened to your shoulder here, isn't that a bit unusual?
 }
 [sha:cf46cb05c45fa34e712fd48a105d0643536f512b]{
