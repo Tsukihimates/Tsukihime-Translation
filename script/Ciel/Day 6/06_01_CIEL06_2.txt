@@ -41,7 +41,7 @@ After all, I am partially to blame for the fact that you did not contact us."
 [sha:3ebf85f91ae52521d671a32e40643205a1067182]{
 -- Page 12008, Offset 13423. Glued. Mods: @x.
 -- あれがあれば、ずぼらな兄さんでも連絡ぐらいはしたのではありませんか？」
-If you'd had that, surely even a negligent brother such as yourself would have at least tried to contact me, don't you think?"
+ If you'd had that, surely even a negligent brother such as yourself would have at least tried to contact me, don't you think?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 103, Offset 13424.
@@ -95,7 +95,7 @@ Besides, you're the one that's actually the successor of the Tohno family. If yo
 [sha:e647bdc902b660ab925ec73c2e2b701206ec260d]{
 -- Page 106, Offset 13433.
 -- ……？
-...?
+Hmm...?
 }
 [sha:02cc68a87add0ec4944fcc2ba055d0b7cd92f8ca]{
 -- Page 106, Offset 13434.
@@ -110,7 +110,8 @@ Akiha has fallen silent for some reason.
 [sha:f2757ec719b34645db180bd0b79ba06c6026fda2]{
 -- Page 107, Offset 13436.
 -- 「……結構です。私を気遣う余裕があるのでしたら、ご自分の体調を気にしてください。
-"I am fine. If you can afford to think about me, please take better care of yourself instead.
+// LintConsistency:14272
+"I am fine. If you can afford to worry about me, please take better care of yourself instead.
 }
 [sha:11e263afe73cbacb4c43d91d7c4fa31bf82d58a1]{
 -- Page 107, Offset 13437.
@@ -173,7 +174,7 @@ However, all of that is now in the past.
 [sha:0023488c022998b43375131c4a415c708be7f102]{
 -- Page 112, Offset 13448. Mods: @n.
 -- 「そうなんですか？
-"So be it, I suppose.
+"Oh, is that so?
 }
 [sha:d91167bb923773e4ca15e1119145ead69fca21ea]{
 -- Page 112, Offset 13449. Glued. Mods: @x.
@@ -235,7 +236,8 @@ With a smile on my face, I unthinkingly let those words slip out.
 [sha:20533b1839bc8e3c80d19ac0d5cda76366d12257]{
 -- Page 116, Offset 13460.
 -- ともあれ、こんな弁明でも秋葉は認めてくれた。
-In any case, it seems that Akiha accepts it even with an explanation like that.
+// LintConsistency:14296
+It seems that this explanation was enough for Akiha.
 }
 [sha:de77e1da84e2102f61691728b476e9a4d79dab49]{
 -- Page 116, Offset 13461.
