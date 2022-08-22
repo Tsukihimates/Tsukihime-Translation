@@ -1,7 +1,8 @@
 [sha:be0a2d1a5850ef96cb5431a0b2508cedfdaf4607]{
 -- Page 10019, Offset 12354.
 -- 「はっ、はっ、はっ、は―――！」
-"Haa, haa, haa, haa―――!"
+// lint-off:LintDupedWord
+"%{i}Haa, haa, haa, haa%{/i}―――!"
 }
 [sha:40fdba053658094ebacb3a7e256356c072c20168]{
 -- Page 10019, Offset 12355.
@@ -11,12 +12,12 @@ I cut the lock on the door to the rooftop with my knife.
 [sha:92888b0b7d65010ad5303cbc079e1bd1b539dce2]{
 -- Page 10019, Offset 12356.
 -- しかし最上階にエレベーターらしきものは見当たらない。
-However, I can't find anything resembling an elevator on the top floor.
+However, I can't spot anything that looks like an elevator on the top floor.
 }
 [sha:620d272e0ad2fa21868ca38c928cecadb24af897]{
 -- Page 579, Offset 12357.
 -- “くそ、くそ、くそ、くそ……！”
-'Crap, crap, crap, crap...!'
+'Shit, shit, shit, shit...!'
 }
 [sha:e687d81b37de231b7b3c47813d836e8a65bde645]{
 -- Page 579, Offset 12358.
@@ -26,97 +27,101 @@ I dash down the stairs, relying on the emergency lights.
 [sha:c8fc791c305c04f3ed0506ca71b5d87a665a6a69]{
 -- Page 579, Offset 12359.
 -- 今からあの冷気の中に―――吸血鬼の暴威の<只中|ただなか>に下りようとしているのに、恐怖はなりを潜めていた。
-Even though I'm about to descend into that cold wave―――into the midst of that vampire's rampage, my fear has fallen silent.
+Even though I'm about to descend into the midst of that cold―――
+into the very heart of that vampire's cruel dominion―――
+fear has taken a back seat in my mind.
 }
 [sha:21c6b55858bccd6035c176fbdb73aeb0abb36ec7]{
 -- Page 579, Offset 12360.
 -- 理由は明白だ。俺はいま、とにかく、悔しくて悲しくて腹立たしい……！
-The reason is obvious. I'm currently frustrated, sad, and irritated...!
+The reason is obvious. Right now I feel frustration, sadness and anger instead...!
 }
 [sha:30141edebacc5f4a499177b3f29be62223739d7d]{
 -- Page 580, Offset 12361.
 -- “アルクェイドのヤツ、何がおとなしく全滅してろ、だ……！”
-'That Arcueid, 'weeded out without at fuss', how can she says such...!'
+// Callback to 12342, おとなしく全滅するのが自然
+'I can't believe her. Who's supposed to just accept their annihilation...!'
 }
 [sha:be410b9a78d86bb321a936cc7f736cb72ddb5bcb]{
 -- Page 580, Offset 12362.
 -- 自分の勘違いっぷりに叫びたくなる。
-I feel like screaming at my own misunderstanding.
+I misunderstood her so badly I could almost scream.
 }
 [sha:2c374222960b0f0b156931a1029254adc0c3b491]{
 -- Page 580, Offset 12363.
 -- あいつはああいうヤツなんだ。
-So she's that kind of being.
+So %{i}that's%{/i} the kind of person she is.
 }
 [sha:41d0de3e2c1d1b5915363cfbf0cad82cf25565d6]{
 -- Page 580, Offset 12364.
 -- バカヤロウでもなければ悪人でもない。
-She's neither a fool nor a bad person.
+She's neither a fool nor a villain.
 }
 [sha:e70dd5c28b737ae56ad8f139546f68529b1a8763]{
 -- Page 580, Offset 12365.
 -- 俺たちとは違う価値観で動いている、人間ではない生き物なんだ。
-She's a non-human creature who operates on a completely different set of values than us,
+She simply isn't human, and operates on a fundamentally different set of values to the rest of us.
 }
 [sha:f01c3f8137ced2211ee2cdf83ec751f52b8c9934]{
 -- Page 580, Offset 12366.
 -- だから―――あいつに人間の常識なんてものを期待した、俺の方が馬鹿だった。
-That's why―――I was the fool for expecting her to have a human's common sense.
+%{i}I'm%{/i} the fool here―――for expecting her to act the same way a human would.
 }
 [sha:c8023926bf2476688982734cb90f0c3825a66213]{
 -- Page 581, Offset 12367.
 -- 「それでも―――期待したくて仕方がなかったんだよ、くそ！」
-"Still―――I wanted to hope she did, shit!"
+"Still―――can you fucking blame me for hoping?"
 }
 [sha:3e3bd4a6a700eb7bd5fecfd8e7f08f7c9914a9d2]{
 -- Page 581, Offset 12368.
 -- ……殺人者である遠野志貴を<赦|ゆる>してくれたからじゃない。
-...Wasn't she the one who forgave the murderer, Tohno Shiki?
+Wasn't she the one who forgave Tohno Shiki―――her murderer...?
 }
 [sha:280f70ff0d9053379cfea7bae342734d6d9b10f3]{
 -- Page 581, Offset 12369.
 -- 俺は、あいつを特別に思いたい。
-I wanted to think of her as special.
+I want to think of her as someone special.
 }
 [sha:8260caee97de0266523e59b256bde7067a6184f2]{
 -- Page 581, Offset 12370.
 -- あの嘘みたいに純粋に笑う女を、どうしても嫌いになれない。
-In spite of everything, I can't hate that woman, whose smile is pure beyond belief.
+In spite of everything, I simply can't bring myself to hate that woman and her unbelievably pure and genuine smile.
 }
 [sha:bd95a1093d4bc02e38c786b1b04b69fff095bc21]{
 -- Page 582, Offset 12371.
 -- もっともっと、今よりずっと、あいつの事をいいヤツだって思いたかっただけなのに―――！
-Even though I wanted to think of her as a good person so much, more than ever before―――!
+All I wanted was to keep believing, as fervently as I could, that she's a good person―――!
 }
 [sha:5d75329c862bca274637d6b3a01cb0a919434596]{
 -- Page 583, Offset 12372.
 -- 「はっ―――はっ、はっ、は―――！」
-"Haa―――Haa, haa, ha―――!"
+"%{i}Haa―――haa, haa, ha―――%{/i}!"
 }
 [sha:0eb3ec88527d363316233e1164b7d5e52f3d8722]{
 -- Page 583, Offset 12373.
 -- でも、それも終わりだ。今はそんな感傷に浸っている場合じゃない。
-But it's already in the past. Now's not the time to wallow in sentimentality.
+But that's in the past now. This isn't the time to be wallowing in sentimentality.
 }
 [sha:93bef371bcfa0d655d66a4537af4d4ea127ac5b6]{
 -- Page 583, Offset 12374.
 -- 一刻も早く地上に降りる。
-I have to get to the ground below as soon as possible.
+I'm going to get down to ground level as fast as I possibly can.
 }
 [sha:6e5a204abaa4bc2e8447e6bf97238f1f0fdad1e4]{
 -- Page 583, Offset 12375.
 -- シエル先輩の安否を確かめる。
-I'll make sure that Ciel-senpai is safe.
+I'm going to make sure that Ciel-senpai is safe.
 }
 [sha:2014e9aca94dcb829cbabaed6e442853b6c85ee5]{
 -- Page 583, Offset 12376.
 -- その上で―――俺は、ヴローヴの『線』を断つ。
-And on top of that―――I will cut Vlov's 'lines'.
+And then after that―――I'm going to cut Vlov's 'lines'.
 }
 [sha:92659f6cc7b8ca509be303cd7909568a1a01984a]{
 -- Page 584, Offset 12377.
 -- エレベーターに辿り着いた。
-I reach the elevator.
+// Operating an elevator in what is arguably a disaster area generally considered a safety no-no
+I finally reach the elevator.
 }
 [sha:522da0cbb993ae1f6b5d9f10f3b0ba23cd07ef11]{
 -- Page 584, Offset 12378.
@@ -136,27 +141,29 @@ There was never any time to hesitate in the first place.
 [sha:a6f5f4f40f92c3f47b60e3b7e0005629d81e9912]{
 -- Page 584, Offset 12381.
 -- 深呼吸をする。身体のチェックをする。……問題ない。全身はきちんと動いている。
-I take a deep breath. I check over my body... No issues. My entire body is functioning properly.
+I take a deep breath. I give myself a once-over... No issues. My entire body is functioning properly.
 }
 [sha:e2b73dcdc401d09e23b911614bce649ab3b9cb9d]{
 -- Page 585, Offset 12382.
 -- 繰り返すが恐怖はない。
-I say this once again, but I'm not afraid.
+I know I'm repeating myself, but I'm not afraid.
 }
 [sha:a293d131427d0368604426f68c2f87592b84b087]{
 -- Page 585, Offset 12383.
 -- 人のカタチをしたモノを殺す事に<躊躇|ためら>いもない。
-I won't hesitate to kill beings shaped like humans.
+I won't hesitate to kill those things that look like humans.
 }
 [sha:d23cd9916fd1e041f67e462c3203ab86862c7f78]{
 -- Page 585, Offset 12384.
 -- そんな<初|う><心|ぶ>さは、あの地下道に捨ててきた。
-I threw away such innocence in the underground tunnels.
+// Look ma, all diacritics
+I rid myself of that naïveté down in those underground tunnels.
 }
-[sha:e66cb6436fc23802c7546cad84934d700fa8ab68]{
+[offset:12385]{
 -- Page 586, Offset 12385.
 -- 「は――――ア」
-"Haa――――a"
+// Audio here has more than a single pant
+"%{i}Haah, haah―――%{/i}"
 }
 [sha:81d91c71013b65eba3ed832c261b193699df1a9f]{
 -- Page 586, Offset 12386.
@@ -166,12 +173,14 @@ My breathing quickens.
 [sha:4b555ccaa7ef0b5dca0e3c1bc1ee9714796d4c51]{
 -- Page 586, Offset 12387.
 -- 心臓が、この体とは違うパーツみたいに、どくんどくんと浮き足立ってる。
-My heart is racing like it's a separate part of my body, thumping repeatedly.
+My heart is racing.
+ It's pounding so frantically that it's as though it isn't even part of my own body.
 }
 [sha:7a2fcb0ff2fd54f2c37ca82dc5fee13a7299a72e]{
 -- Page 587, Offset 12388.
 -- ……一階に到着した。
-I reach the first floor.
+// Stupid American 1-indexed floor counting system
+I arrive at the first floor.
 }
 [sha:e16b9543f4483e32fecc79038e15199423ef2942]{
 -- Page 587, Offset 12389.
@@ -181,52 +190,54 @@ I can't rely on Arcueid.
 [sha:8c2b9935f116fb96f616788bfb760caa3cb67410]{
 -- Page 587, Offset 12390.
 -- 俺はナイフを握り直して、冷気渦巻くクレーターに走り出した。
-I once again grasp my knife and run into the crater where the cold waves are swirling around.
+Adjusting my grip on my knife, I run toward the crater filled with swirling cold air.
 }
 [sha:d7b684c6d4fad011889dda8b489172256ab03b91]{
 -- Page 588, Offset 12391.
 -- 世界に空いた立方体の巨大な穴。
-A massive cubic hole in the world.
+A gigantic, cube-shaped hole in the world.
 }
 [sha:5d68bdc091d61984a702b3390d4bb47fd00df6aa]{
 -- Page 588, Offset 12392.
 -- それが、目の前の<異|モ><物|ノ>への所感だった。
-That's my impression of the abnormality in front of me.
+That's my first impression of the bizarre object in front of me.
 }
 [sha:0aa1788852ea523bba8dd6a0e0ef9eab6b623b4d]{
 -- Page 589, Offset 12393.
 -- 一辺40メートルを超える透明の箱。
-A transparent box over 40 meters in length.
+A transparent box, over forty meters on each side.
 }
 [sha:66428ed6a1a3dea07edcee2c34ad10c39fc7fadc]{
 -- Page 589, Offset 12394.
 -- 材質はアクリルを思わせる。
-Its material is reminiscent of acrylic.
+Whatever it's made of has an acrylic-like quality.
 }
 [sha:61ae37d154f065e8173e8605cd16d2a2fd4e1bba]{
 -- Page 589, Offset 12395.
 -- 青黒く見えるのは壁の色ではなく、中に詰まったものがそう見せているのだ。
-The bluish black hue isn't the color of the wall, but comes from what is stuck inside.
+Its bluish-black appearance doesn't seem to stem from the color of the walls themselves, but from whatever is trapped inside.
 }
 [sha:ddfdf6fbe81dfc33c14ca2620d342d9ca92920d4]{
 -- Page 590, Offset 12396.
 -- 箱の中で吹き荒れる白い<礫|つぶて>。
-Small rocks are violently flung off all over the box.
+// Stones? Or _hail_stones? Not written that way but maybe you're supposed to make the connection
+White pebbles fly about wildly inside the box.
 }
 [sha:0985e5f4b54b254360c299c912edc9052256c092]{
 -- Page 590, Offset 12397.
 -- 牙のように連なる氷柱。
-A row of fang-like ice pillars.
+// Slightly extended for flow.
+Icicles are arranged in rows like the fangs of some great beast.
 }
 [sha:9d033c8fef6528330ca2fd8631865f3967c60685]{
 -- Page 590, Offset 12398.
 -- あの中には人智及ばぬ極寒の地獄が詰まっている。
-Inside is a hell of extreme cold beyond human comprehension.
+Inside of that box is a bitterly cold hellscape that defies human comprehension.
 }
 [sha:a170b89cec0729a4010e9a6ab3b75f19e332d57c]{
 -- Page 591, Offset 12399.
 -- これは箱ではない。檻だ。
-This isn't a box. It's a cage.
+That thing isn't a box at all. It's a cage.
 }
 [sha:314737ec3c199e73b2f4e611263ef078bcb77bf3]{
 -- Page 591, Offset 12400.
@@ -236,12 +247,12 @@ Something that shouldn't exist in this world.
 [sha:a0ed539660ddb74ceb3d3c7d23e99e36183d9b72]{
 -- Page 591, Offset 12401.
 -- 地上に解き放ってはいけないものを封じ込めた檻。
-A cage sealing a being that must not be released unto the surface.
+A cage built to imprison a creature that cannot be allowed to roam free on the surface.
 }
 [sha:84d8b00d4a01a30e0b0ff3caf88714ad7b893624]{
 -- Page 591, Offset 12402.
 -- その中に―――
-Inside is―――
+Inside it is―――
 }
 [sha:1a79a829649c2513b266f8d84b941103df699a91]{
 -- Page 592, Offset 12403.
@@ -251,82 +262,91 @@ Inside is―――
 [sha:e39be6df2811e1b12dbc15f4c1f164cb8158d771]{
 -- Page 592, Offset 12404.
 -- いる。この中にシエル先輩がいる。
-She's there. Ciel-senpai is inside there.
+She's there. Ciel-senpai is in there.
 }
 [sha:4881c7ff234912cbf48402a30f9833faec54b5d5]{
 -- Page 592, Offset 12405.
 -- 呼吸さえ凍る極寒の中。
-Inside that intense cold, where even breath freezes.
+In the midst of that intense cold, where even one's breath is frozen solid.
 }
 [sha:f575afdcb146af48d6fe0399835ece33e9626361]{
 -- Page 592, Offset 12406.
 -- 彼女はたったひとり、あの吸血鬼と戦っていた。
-She's fighting against the vampire, all alone.
+She's fighting against that vampire all on her own.
 }
 [sha:9b001ac172889581d51d0a0c192c763fd15aa719]{
 -- Page 593, Offset 12407.
 -- マイナス100℃に迫る極寒。
-Extreme cold approaching -100℃.
+The intense cold approaches -100℃.
 }
 [sha:4e459c85d7fe6985da0efb02c3760bd39e6e3648]{
 -- Page 593, Offset 12408.
 -- この惑星の地表では起こりえない超低温。
-An extraordinarily low temperature that has never been reached on this planet's surface.
+// Added 'naturally' occur because we have made things _way_ colder than that on purpose
+A cryogenic temperature that could never occur naturally on the surface of this planet.
 }
 [sha:f337eaec63f7fa47b79a3ecdc25dd70c46aced09]{
 -- Page 593, Offset 12409.
 -- あらゆる動植物の生存を許さぬ冷気の中、二つの騎影が衝突する。
-In the midst of a cold that precludes the survival of all plants and animals, two knightly figures are clashing.
+Within that cold so intense that no plant or animal could survive,
+ two knightly figures clash with one another.
 }
 [sha:f1300f98c234c9ff59718654e4a8a63e94b7bc95]{
 -- Page 594, Offset 12410.
 -- 一騎は呪いの源、ヴローヴ・アルハンゲリ。
-One knight is the source of this curse, Vlov Arkhangel.
+The first knight is the source of this curse, Vlov Arkhangel.
 }
 [sha:ef472ed8e42fd712cb13f36154915c396ea2e69a]{
 -- Page 594, Offset 12411.
 -- 一騎は<拷問具|アーマー>に身を包んだ、少女の姿をした代行者。
-The other is a young female Executor clad in <armor|a n  i n s t r u m e n t  o f  t o r t u r e     >.
+// Armor padded to a phrase so the chungus ruby doesn't eclipse it so badly
+The other is a young female Executor clad in <a suit of armor|a n  i n s t r u m e n t  o f  t o r t u r e     >.
 }
 [sha:a64320d127cf3e1cbf3621c3fe403e89600eafe1]{
 -- Page 595, Offset 12412.
 -- 吹雪によって閉ざされた視界。
-My whole field of vision is blocked by the blizzard.
+Their field of vision is hemmed in by the blizzard.
 }
 [sha:2c7d44631d11ca091845c7774de6a6520e93cfe7]{
 -- Page 595, Offset 12413.
 -- 氷河によって波だつ足場。
-Footsteps wobbled by icy torrents.
+They struggle to keep their footing atop the frozen glacier.
 }
 [sha:281454b173d78fb7f73da5693ad9f6352798dbff]{
 -- Page 595, Offset 12414.
 -- 呼吸さえ死に繋がる極限状態で、氷弾と弾丸がぶつかり合う。
-Ice projectiles and bullets are colliding in this extreme situation where even breathing can lead to death,
+Under these extreme conditions,
+ where even breathing could spell death,
+ bullets go head to head against flying shards of ice.
 }
 [sha:6e4ca612be8521acdae0b6e478f448ea8694a102]{
 -- Page 595, Offset 12415.
 -- 両者の戦いが始まってから60分。
-It's been an hour since their battle has begun.
+It's been an hour since their battle began.
 }
 [sha:32bb027e039aaf9a4d15fb7947f83bf9cbcb49fe]{
 -- Page 595, Offset 12416.
 -- その戦闘時間自体が、既に一つの奇蹟だった。
-The duration of this fight itself is already a miracle.
+That it's lasted this long is already a miracle in itself.
 }
 [sha:1cdc7a9ca3e3d73cf76f521667c95826db9f09cd]{
 -- Page 596, Offset 12417.
 -- 7.62mmの火花を散らす投石機。
-A catapult making 7.62mm sparks fly.
+// Faux-metric value spotted
+// Localized to America units because otherwise 7.62mm < 8 < 9mm and that
+// kinda harms the comparison later for people that aren't from gun country
+A catapult scattering showers of .30 caliber sparks.
 }
 [sha:7af8c353dfa79115ecc6fc9dcfa3e59a09196171]{
 -- Page 596, Offset 12418.
 -- 戦場において過剰火力と言われる大口径の弾丸が吸血鬼に放たれる。
-Great artillery, a sort you'd consider overkill on any normal battlefield, is fired at the vampire.
+// Ok technically wiki says this is small-bore but 大 it is
+The high-caliber shells being fired at the vampire are the sort that would be considered overkill on any ordinary battlefield.
 }
 [sha:565c4af608c011b3e40dc01003612e7db1884cea]{
 -- Page 597, Offset 12419.
 -- 8mm、9mmに代表される、兵士を負傷させ戦闘不能にする為の暴力ではない。
-Calibers like 8mm and 9mm represent a class only intended to take a soldier off the battlefield. This is something else entirely.
+Their destructive power is nothing like the 8mm or 9mm rounds designed to merely wound and incapacitate soldiers.
 }
 [sha:4c1517ae187de4f35e742dc50bcd1c00b3662c6c]{
 -- Page 597, Offset 12420.
@@ -336,32 +356,37 @@ This is a modern anti-vampire weapon, made for the purpose of blowing away flesh
 [sha:412dbce3e1b5d23a83f909c67b33f671cc608ebe]{
 -- Page 598, Offset 12421.
 -- 名は『<焼死|ブレイズ>』。
-Its name is '<Death through Immolation|B l a z e           >'.
+Its name is '<Death by Immolation|B l a z e           >'.
 }
 [sha:327e24358a02b9689254d0b44ac4df63ab6a8e4e]{
 -- Page 598, Offset 12422.
 -- 七つの死因を持つ聖典から分かれた、代行者シエルの専用礼装。
-This is the Mystic Code permitted only for use by the Executor Ciel, a branch of the scripture holding the Seven Causes of Death.
+// God is this entire route going to be full of chuuni BS like this
+// Someone check the lore on this
+One branch of the scriptures that hold the Seven Causes of Death,
+ it is a Mystic Code reserved for the exclusive use of Executor Ciel.
 }
 [sha:070cbd0321538037ee82c7fce5b315cdae3cfe29]{
 -- Page 599, Offset 12423.
 -- だが。通常……十年クラスの死徒……なら根こそぎ挽肉にする銃弾の雨を以てしても、あの吸血鬼には届かない。
-However. Even the rain of bullets that would normally thoroughly make minced meat of a... decade-old Dead Apostle for example... doesn't reach that vampire.
+However.
+ Even though this rain of bullets would be enough to turn a run of the mill dead apostle――the kind whose lives are measured simply in decades――into mincemeat,
+ not a single one of them even reaches that vampire.
 }
 [sha:6813a8b050135a9d4acd23da31dcd81f8892f9db]{
 -- Page 599, Offset 12424.
 -- 銃弾には低温を。
-To the bullets answers the cold air.
+Her bullets are met by the cold.
 }
 [sha:b869e18edc4a19059e2decd0ee6a49a0d968038b]{
 -- Page 599, Offset 12425.
 -- 近代兵器には<惑星|しぜん>の暴威を。
-To the modern weapon answers the violence of the planet.
+Her modern weaponry is answered by the fury of <the planet|n a t u r e   >.
 }
 [sha:8a06dad0c4ee9aadfdfe6f13dd4b3eab87f159a7]{
 -- Page 599, Offset 12426.
 -- 両者の武装の在り方は、まさに文明と自然の対立である。
-Their armaments are truly a clash between civilization and nature.
+Their armaments perfectly embody the conflict between civilization and nature.
 }
 [sha:b2e9755976373b5ae1c8c4e3bf64974db68b602d]{
 -- Page 600, Offset 12427.
@@ -371,7 +396,7 @@ The vampire doesn't move.
 [sha:40b39a79db2aefdbbc8b5b3dde8272c6964c8e0f]{
 -- Page 600, Offset 12428.
 -- この極寒は彼の妄想が呼び起こした地獄だ。
-That incredible cold is a hell called forth by the delusions of his mind.
+This unbearable cold is a hell conjured by his own delusions.
 }
 [sha:ca95f8b3b73d326b8de86477a6087e9aa9667268]{
 -- Page 600, Offset 12429.
@@ -381,18 +406,18 @@ The delusion that 'without blood, one freezes to death'.
 [sha:872af5ec968a43279340c88f1c756a1c97aef63f]{
 -- Page 600, Offset 12430.
 -- それこそがヴローヴ・アルハンゲリを不死身たらしめる呪いである。
-It is precisely the curse that made Vlov Arkhangel into the undying being he is.
+It is this same curse that made Vlov Arkhangel into the undying being he is now.
 }
 [sha:50e8bcc138df2740b346067117a581d3e7565fa6]{
 -- Page 600, Offset 12431.
 -- <寒|・><さ|・><に|・><縛|・><ら|・><れ|・><る|・>呪いである以上、極寒状態のヴローヴは自由に踏み出す事ができない。
-// ruby dots <寒|・><さ|・><に|・><縛|・><ら|・><れ|・><る|・>
-As long as the curse binds him to the cold, he cannot move freely in this situation of extreme cold.
+But because that curse binds him to this cold,
+ in his frozen state he is unable to advance from where he stands.
 }
 [sha:3909390d54141991432f27d6949aeeb54f8a0dce]{
 -- Page 600, Offset 12432.
 -- 彼は血液という暖を取るまで、あのように地上を汚すだけの“毒”なのだ。
-Until he takes in the warmth of blood, he is no more than a 'poison' defiling the earth.
+Until he can obtain the warmth of blood, he is nothing more than a 'poison' that stains the earth.
 }
 [sha:ed0a78d3dca587463bce4d46c63bcd2a20676d4f]{
 -- Page 601, Offset 12433.
@@ -402,17 +427,17 @@ That being said―――
 [sha:97bb278befbadbca0038cd91451853cc0423279e]{
 -- Page 601, Offset 12434.
 -- その呪いは一つの都市を覆うほどではあるが、ここまでの低温状態は生み出さない。
-A curse that covers an area as large as a city cannot bring forth such a cold.
+Even though his curse is large enough to encompass a city, it isn't capable of bringing forth this intense cold.
 }
 [sha:689df84369a655bb5f6bce5d5f58b70ea4809527]{
 -- Page 601, Offset 12435.
 -- この状況は代行者の決断が招いたもの。
-This situation is a product of the Executors' will.
+The Executor is the one responsible for that.
 }
 [sha:919dc0b7e35eab143711e048444fb07c0ca3cfae]{
 -- Page 601, Offset 12436.
 -- 直径４キロにおよぶ吸血鬼の呪いを40メートル四方の箱に空間ごと圧縮し、封印した事による結果である。
-This is the result of sealing and compressing a vampiric curse extending over four kilometers in diameter in a forty meter wide box.
+This is the result of compressing a vampiric curse that extends for over four kilometers in every direction down to the size of a box forty meters on a side, and sealing it shut.
 }
 [sha:7fabb24164d3172a55b520eb2bedd50d2dc43820]{
 -- Page 602, Offset 12437.
@@ -422,42 +447,45 @@ In a sense, it could be said that this barrier is the body of the Executor herse
 [sha:db160aea9b48de217dc65e0c6e73ba66d9ec376a]{
 -- Page 602, Offset 12438.
 -- 少女は街を襲う寒波を、その体一つで受け止めているに等しかった。
-As though the girl, with her body alone, is enduring the cold waves assaulting the city.
+It's no different to her taking the full force of the cold wave that assaults the city all on her own.
 }
 [sha:843a925015f14efc8c1ff0df5d5d1d085e6591ab]{
 -- Page 603, Offset 12439.
 -- 少女を襲う低温はマイナス100℃では済まされまい。
-The cold temperatures assailing her don't stop at -100℃.
+The cold that assails her doesn't bottom out at -100℃.
 }
 [sha:2b47cb7f89c6b34b90e3685c3fefddfe4fbdd38f]{
 -- Page 603, Offset 12440.
 -- 局地的な低下はそれ以上はないとされるマイナス273℃にまで到達する。
-They reach local lows of -273℃, below which there is nothing.
+// Get this man a job in the superconductor industry
+The localized drop in temperatures has dipped all the way to -273℃, the absolute limit.
 }
 [sha:2accf2b2b4742fd2e6a02864a6c67a1f61493338]{
 -- Page 603, Offset 12441.
 -- 通常であれば一瞬で凍結する呪いの奔流。
-A cursed torrent that would ordinarily freeze anything in an instant.
+A torrential curse, in the face of which anything would ordinarily be frozen instantly.
 }
 [sha:fe2329a83992c06c83e48f9c5e425a16363a89cf]{
 -- Page 603, Offset 12442.
 -- それを防ぐのは少女の肉体に<締着|ていちゃく>した、鉛と鉄で組み上げられた拷問具である。
-Defending against this is the torture instrument of iron and lead; tightly secured to the girl's body.
+The girl's defense against that curse is the instrument of torture, forged from lead and iron, that's tightly secured to her body.
 }
 [sha:125f1332ce6567a74ddfc9901484eb0e2e420319]{
 -- Page 604, Offset 12443.
 -- 軋みをあげる鉄の甲冑。
-The creaking armor.
+The iron armor creaks.
 }
 [sha:41cc3f7720f7c8abc684fd83d13fcdd85c9cafde]{
 -- Page 604, Offset 12444.
 -- 吸血鬼の汚染が物理法則をねじ曲げるように、この甲冑も物理法則の外、概念によって編まれたものだ。
-Just as the vampire's taint is bending the laws of physics, this armor too, conceptually woven, dwells outside of physical laws.
+Just as the vampire's corruption bends the laws of physics,
+ so too is this armor woven from concepts that exist outside of those laws.
 }
 [sha:749ab8fc1d08a75f41398dc96f861c66be389554]{
 -- Page 605, Offset 12445.
 -- かつて<鉄の処女|アイアンメイデン>と呼ばれた<柩|ひつぎ>。
-It was once a coffin referred to as Iron Maiden.
+// https://www.youtube.com/watch?v=Kvqr366Op3k
+It was once a coffin referred to as an Iron Maiden.
 }
 [sha:ad6baa437105a25e5feaa0d4075b11162d648553]{
 -- Page 605, Offset 12446.
@@ -473,12 +501,13 @@ An instrument of death that pierces the person inside with countless spikes.
 -- Page 606, Offset 12448.
 -- 生き残るのなら魔女である。死するのなら人間である”
 // The word was 魔女
-If you survive, it means you are a witch. If you die, it means you were human.'
+If you survive, it means you're a witch. If you die, it means you were human.'
 }
 [sha:6359583c35e02f6110aa05ae67ad98e6f2d77104]{
 -- Page 607, Offset 12449.
 -- そのうたい文句のもと、多くの命を奪い、恐怖の対象として完成した暗黒時代の産物である。
-It was the product of the Dark Ages, perfected as an object of terror that stole the lives of numerous people on the basis of this saying.
+It was the product of the Dark Ages,
+ a symbol of terror that claimed an untold number of lives on the basis of that saying.
 }
 [sha:c3b20b2a7b609ac65fefa6ec3601ce7350c27bfc]{
 -- Page 608, Offset 12450.
@@ -488,17 +517,17 @@ It was the product of the Dark Ages, perfected as an object of terror that stole
 [sha:6109a4ad32783a8b8afc75a351ba864a88d7aa18]{
 -- Page 608, Offset 12451.
 -- 魔女であろうと人であろうと、選ばれてしまえば、死ぬまで自由になる日は来ないのだから”
-Because whether witch or human, the chosen will never know freedom until death beckons.'
+Whether witch or human, the chosen will never again know freedom until the release of death.'
 }
 [sha:d09910c5ff930a5cf63b3edcc6bab6be770333b7]{
 -- Page 609, Offset 12452.
 -- この柩に包まれたものは、自らの死を以てしか自由になれない。
-Those encased in this coffin may only attain freedom through their own death.
+Those encased in this coffin could only attain freedom through their own death.
 }
 [sha:423f7738e71a6f894fc4fd31435d6d45f6c27bc5]{
 -- Page 609, Offset 12453.
 -- その破綻した妄想の標的になったが最後、生け贄は死ぬまで閉じこめられる。
-Once they become the target of this failed delusion, the sacrifice is trapped until death.
+As soon as a victim become the target of this failed delusion, they were trapped inside it until they died.
 }
 [sha:0fcda15b31cf6fe59e8c558f37a55985cfdc5f16]{
 -- Page 610, Offset 12454.
@@ -508,27 +537,30 @@ A cursed iron dress.
 [sha:359bf6ad2405f3494c9a133d3aad12fca61cacc4]{
 -- Page 610, Offset 12455.
 -- 生け贄を苦しめるだけの概念武装。
-A Conceptual Weapon made only for the torment of the sacrifice.
+A Conceptual Weapon designed expressly to torment the victim.
 }
 [sha:8a470b6fd30746e2d476bb48e351b4d62fa91d2e]{
 -- Page 610, Offset 12456.
 -- だが。その特性を、彼女はむしろ良しと利用した。
-However, she instead uses that characteristic to her own advantage.
+However―――she instead uses that characteristic to her own advantage.
 }
 [sha:e7489ea2620b946674a395742ad390b645a062e9]{
 -- Page 611, Offset 12457.
 -- “使用者が死ぬまで<外|はず>す事はできない”
-'The wearer cannot take it off until death.'
+'The wearer cannot break free until they are already dead.'
 }
 [sha:82243eff0654402e095e257af8f12f47dc32ad16]{
 -- Page 611, Offset 12458.
 -- それは転じて、
-And conversely,
+And so, by extension―――
 }
 [sha:12b15b03b8229c7b948b6d9de53a709ad86f7089]{
 -- Page 611, Offset 12459.
 -- “使用者が死ぬまでは<外|こわ>れない”
-'The wearer cannot be <removed from it|b r o k e n    > until death.'
+// Difficult to encode this one nicely, but using 'break' here as the crux
+// that links the two lines. Hopefully clear enough with the clarification
+// on the next page.
+'The wearer cannot %{i}be broken%{/i} free until they are already dead.'
 }
 [sha:f8c5ac05fad6b6e4e992ff2822242ef2c1fa011f]{
 -- Page 611, Offset 12460.
@@ -538,68 +570,74 @@ This is the meaning of that characteristic.
 [sha:113a51f1f9d48bfa490fb65c0a3f725fe631407d]{
 -- Page 612, Offset 12461.
 -- 外部からの暴力死ではなく、内部での衰弱死のみが、この<柩|よろい>を破壊する。
-Only death from internal weakness, and not death from an external force, can break this coffin armor.
+No external forces can break through this armor.
+ It is a coffin that can only be opened by the slow and agonizing death of its inhabitant.
 }
 [sha:f41a6ed92b8dec4563c0df0ce799583ac8a1084e]{
 -- Page 613, Offset 12462.
 -- それは極寒だろうと同じ事。
-The same is probably true for this extreme cold.
+This extreme cold is no exception to that rule.
 }
 [sha:456a5c767ae35ee890b126c9feb8a1a18e5e73c9]{
 -- Page 613, Offset 12463.
 -- この守りの前にはいかなる劣悪環境も<頭|こうべ>を垂れる。なにしろ、その内部にまさる責め苦はないのだから。
-Any environment, no matter how terrible, will bend the knee to this protection. For there is no greater torment than the one within.
+Even the harshest environment has no choice but to bow its head in the face of this protection,
+ for there is no greater torment than the one contained within.
 }
 [sha:488311ae0582a54a8f7a9c1d54d5fd92dedd1730]{
 -- Page 614, Offset 12464.
 -- 故に、その名は拷問具・<純潔証明|ヴァージンペイン>。
-Its name is thus Torture Instrument: <Proof of Purity|V i r g i n  P a i n     >.
+It is for this reason that this instrument of torture bears the name <'Proof of Purity'|V i r g i n  P a i n     >.
 }
 [sha:02d25a11deaafd557c7dc43f94a4ca8cfdb2b94d]{
 -- Page 614, Offset 12465.
 -- 衰弱死、あるいは拷問死に起因する礼装。
-A Mystic Code originating in death by weakness, or death by torture.
+A Mystic Code rooted in death either from emaciation or by torture.
 }
 [sha:97a6ca1b80d5b029491b4a35f70b5c0c46baa185]{
 -- Page 614, Offset 12466.
 -- 使用者の魔力が尽きぬかぎり、死して魔女と証明されないかぎり、最低限の生命活動を保証する聖女の<潔|まも>り―――！
 // umineko reference or something also im about to kill myself
-As long as the user hasn't depleted her magical energy or isn't a dead and proven witch, the <purity|p r o t e c t i o n> of the Holy Maiden will provide the bare minimum needed to ensure survival―――!
+// It's a perfect closed (spiked) room
+As long as the user still has magical energy left in them,
+ and as long as they have yet to die and be revealed as a witch,
+ the <purity|p r o t e c t i o n   > of the Holy Maiden will guarantee that their vital functions continue to operate...!
 }
 [sha:7de3dbce1cf23043b2d2d25bcec5016cd19d7c2c]{
 -- Page 615, Offset 12467.
 -- 「“―――凄まじい<魔|オ><力|ド>の消費だ。
-"―――What a tremendous consumption of Od.
+"―――What tremendous consumption of Od.
 }
 [sha:fbb45edff0b937120a453b911097197223ca24ed]{
 -- Page 615, Offset 12468.
 -- 不死身という点でいえば死徒以上だな、女”」
-Speaking in terms of undying body, this is superior to that of a Dead Apostle, woman".
+As immortality goes, you surpass even a Dead Apostle, woman."
 }
 [sha:5ca3d3c31b6f483cd7ca81a0949db8ba5e17de67]{
 -- Page 616, Offset 12469.
 -- 白い闇に声が響く。
-A voice echoes within the white darkness.
+A voice echoes within the white oblivion.
 }
 [sha:241a3024b7641478768696e64c49480f5e4ff515]{
 -- Page 616, Offset 12470.
 -- 地上に現れてから終始無言だった吸血鬼は、寒さによる苛立ちではなく、敵対する女の強靭さによって、ようやく眼を開けたらしい。
-The vampire, who had been silent since he appeared on the surface, seems to have finally opened his eyes, not because he was irritated by the cold, but because of the tenacity of the woman opposing him.
+The vampire, who had been silent ever since he appeared on the surface, seems to have finally opened his eyes.
+ Not because of his irritation at the cold, but because of the tenacity of the woman who opposes him.
 }
 [sha:78d598064a9b8d76e98c609f618033cada56d28c]{
 -- Page 617, Offset 12471.
 -- 「“だが、それにも限度がある。
-"Yet, that too has its limit.
+"However... that too has its limit.
 }
 [sha:b2c69cab6b594dac98351d215d9c451ebc602f70]{
 -- Page 617, Offset 12472.
 -- 仮に、貴様が無限に死に続けられるとしても―――
-Even supposing you can continue infinitely dying―――
+Even supposing you can go on dying indefinitely―――
 }
 [sha:9a19d813b263be4752cedc57033f7d512b699d71]{
 -- Page 617, Offset 12473.
 -- 戦いは、相手を殺さねば収まらん”」
-A fight does not end until the opponent is killed."
+A fight... does not end until the opponent is killed."
 }
 [sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
 -- Page 618, Offset 12474.
@@ -609,62 +647,63 @@ A fight does not end until the opponent is killed."
 [sha:81be694e5272a223148b81e9a8c25ff7e74c21ef]{
 -- Page 618, Offset 12475.
 -- 吸血鬼の言葉通り、守りだけでは勝利はない。
-As the vampire said, there is no victory in defense alone.
+As the vampire says, one cannot win with defense alone.
 }
 [sha:26e6dc37f174f4a7a788ba819c026fcb88b56f6f]{
 -- Page 618, Offset 12476.
 -- 相手が凝縮された自然の暴威であるのなら、人の身である彼女に勝機はない。
-Against an opponent who can be said to embody the brutality of nature in a condensed form, she, as a mere human, has no chance of victory.
+Faced with an enemy who could be considered a distillation of the brutality of nature,
+ a mere human such as her doesn't stand a chance at victory.
 }
 [sha:cb044712009960e1cbe8034413eeeb2021e3a1f9]{
 -- Page 618, Offset 12477.
 -- 全方位、あらゆるものが彼女を殺す凶器だからだ。
-Because from every direction, everything is a weapon meant to kill her.
+Because every single thing around her, in all directions, is a weapon bent on killing her.
 }
 [sha:68b39053ff3148cfcf0e4a1378abc061cc15cb3b]{
 -- Page 619, Offset 12478.
 -- 殺到する氷槍によって全身が強打される。
-Her entire body is struck by the rushing spears of ice.
+A deluge of icy spears pummels her body.
 }
 [sha:886aa9a8367d7524a1f0e27f61322684880ba0cf]{
 -- Page 619, Offset 12479.
 -- 手にした銃器がはじき飛ばされる。
-The firearm in her hand is sent flying away.
+The firearm in her hand is sent flying.
 }
 [sha:3869716668e5fdd73d2b40e7906f081f6ed3b4b3]{
 -- Page 619, Offset 12480.
 -- 動けぬ敵を撃ち抜く為の兵器が、墓標のように大地に突き刺さる。
-The weapon meant to shoot down the opponent is stuck into the ground like a tombstone.
+The weapon designed to take out her immobile opponent is now stuck into the ground like a tombstone.
 }
 [sha:01061bcd1abc1b7a466db9001f74d7f48c2c58d0]{
 -- Page 620, Offset 12481.
 -- 「“さて―――唯一の武器を落としたな、代行者”」
-"Well then―――You've dropped your sole weapon, Executor"
+"Now then... It seems you've dropped your only weapon, Executor."
 }
 [sha:537ce3410d806d59974b43d9bcc666d10b02d73f]{
 -- Page 620, Offset 12482.
 -- それが決着だと言うかのように。
-As if to say that the outcome of the fight had been decided.
+He speaks as though the outcome of the fight has just been decided.
 }
 [sha:f0ca70a38347c9f4e9b7d2c8a1d69e8948f0bb88]{
 -- Page 621, Offset 12483. Mods: @k, @e.
 -- 「“拾いに走るがいい。
-"You can run to pick it up if you wish.
+"Run to retrieve it if you wish...
 }
 [sha:7029a560365906213abb052f2d67a088058aeebd]{
 -- Page 621, Offset 12484. Glued. Mods: @x.
 -- その背中を、おれの槍が撃ち砕く”」
- My spear will pierce you from behind."
+ But my lance... will run you through from behind."
 }
 [sha:1635445fee26bb8f49e24acdbaf9fe2590ab0314]{
 -- Page 621, Offset 12485.
 -- 吸血鬼も理解している。代行者の甲冑が特別製である事を。
-The vampire also understands. That the Executor's armor is special.
+The vampire also understands what it is that makes the Executor's armor special.
 }
 [sha:01bcc0c6b5576ff5e6703d91454232a6e2cbdf7b]{
 -- Page 621, Offset 12486.
 -- 破壊にはより強い概念、呪いが必要だという事も。
-And that to destroy it, an even stronger concept, an even stronger curse is needed.
+And he understands that to destroy it, an even stronger concept―――an even stronger curse is needed.
 }
 [sha:73fcd7167f34b6b19e8a17b525f0fd294f0b2d2f]{
 -- Page 622, Offset 12487.
@@ -674,28 +713,34 @@ The curse of extreme cold is nothing more than a physiological manifestation of 
 [sha:837f768b2323353506b97244eeadc7217330355d]{
 -- Page 622, Offset 12488.
 -- ただ生きているだけで振りまく呼吸のようなもの。そんなものではあの甲冑は砕けまい。
-As naturally as breathing, him simply existing causes the cold to pour forth. Such a thing won't be able to shatter that armor.
+Like the air he exhales, it's something he spews out simply by being alive.
+ Something like that won't be enough to shatter her armor.
 }
 [sha:87fe305f85aadf23b8ba826bf4a8f56d143651ee]{
 -- Page 622, Offset 12489.
 -- 『壊れない』という概念に守られているのなら、これと真逆の概念をぶつけて相殺するのみ。
-Protected by a Concept like 'Indestructible', it can only be offset by confronting it with the exact opposite Concept.
+Since it's protected by the concept of 'Indestructibility',
+ the only way to nullify it is to strike it with the inverse of that concept.
 }
 [sha:9ca5641a0d5a0803281a9a20147f4014754aba5d]{
 -- Page 623, Offset 12490.
 -- これも一つの<縁|えにし>。
 // stay night
-That too is fate.
+This too is fate.
 }
 [sha:5ca3a5aa5ffbb01c5744cd43b3b2abe9420fea8e]{
 -- Page 623, Offset 12491.
 -- 吸血鬼の手には砕けぬものなしと城主から<賜|たまわ>った、騎士の一振りが握られている。
-Within his hands, the vampire holds a spear. Bestowed upon him by his Suzerain, before which none can stand unbroken.
+In his hands, the vampire holds the knight's lance that was bestowed upon him by his Suzerain.
+ A lance before which none can stand unbroken.
 }
 [sha:703dc7b6732b68316282c073c35ee894e6e4b92e]{
 -- Page 624, Offset 12492.
 -- ヴローヴとて既に手負い。無駄打ちをする余力はない。
-Even Vlov is wounded. He doesn't have spare energy to waste with futile attacks.
+// Translating とて directly as 'even' here rubs me the wrong way in EN here.
+// It kinds sounds like a non-sequitur, and can also read a bit like like there are multiple wounded parties, rather than what I
+// read the intended meaning as (even someone of Vlov's abilities has not managed to weather her attacks unscathed)
+In truth, Vlov is wounded. He can't afford to waste energy on futile attacks.
 }
 [sha:3817ae65392344c0a3f34909e9682591b6b1a39a]{
 -- Page 624, Offset 12493.
@@ -705,32 +750,34 @@ To ensure that his killing blow lands, he knocked away his opponent's weapon.
 [sha:25a53cbda5eb64b7483ba36cb4792a354752810d]{
 -- Page 625, Offset 12494.
 -- 「―――よく言いましたね。動けぬカカシの分際で」
-"―――Well said. For someone reduced to being a mere paralyzed scarecrow."
+"Well said... for a paralyzed scarecrow."
 }
 [sha:971e2bd8dfbd98528c506b939becb823f3cfdc0a]{
 -- Page 625, Offset 12495.
 -- しかし、代行者は弾かれた銃器を振り返らなかった。
-But the Executor doesn't look back to her fallen weapon.
+But the Executor doesn't look back to her fallen firearm.
 }
 [sha:5f3e550136ab475954fcd399a1bf4bffd67ed6c6]{
 -- Page 625, Offset 12496.
 -- 確かにアレは主武装ではあるが、落としたところで問題ではない。
-It is indeed her main weapon, but losing it is not a problem.
+It may be her main weapon, but losing it doesn't pose a problem.
 }
 [sha:a7504bd10c7a489c932377cb800637bf756bf030]{
 -- Page 626, Offset 12497.
 -- むしろいつ<換|か>えるか、タイミングを計っていた。
-She is instead weighing when to replace it.
+In fact, she'd already been weighing up when to replace it.
 }
 [sha:9d9d4943e6f4ba07bdc8022bc86a9857ad3e30ed]{
 -- Page 626, Offset 12498.
 -- 極寒である為、機械化部分の多いアサルトライフルではいずれ不具合が生じる事も熟知していた。
-Because of the extreme cold, she knows very well that the assault rifle, with its minute machinery, would eventually malfunction.
+She knew that her assault rifle,
+ with all its mechanical moving pieces,
+ would eventually succumb to the cold and start to malfunction.
 }
 [sha:2d1830d634e14379764147f44ebf5fbd77faded3]{
 -- Page 626, Offset 12499.
 -- 代行者にとっても、本命は<こ|・><の|・><後|・>に呼び出す礼装である。
-As far as the executor is concerned, her true weapon of choice is the Mystic Code she'll call out later.
+Her %{i}true%{/i} weapon of choice is the Mystic Code she's about to call on now.
 }
 [sha:ab06425b867b5fef216a46c42a8f6500916b098a]{
 -- Page 627, Offset 12500.
@@ -740,43 +787,55 @@ As far as the executor is concerned, her true weapon of choice is the Mystic Cod
 [sha:25240e7102d864008042dae61ef55425b2ea8069]{
 -- Page 627, Offset 12501.
 -- 少女は自らに向けて詠唱する。
-The girl chants unto herself.
+The girl chants to herself.
 }
 [sha:bdcd145c5f7f1263009ebe4b74c81ce2549b2744]{
 -- Page 627, Offset 12502.
 -- 現状、銃器による制圧は不可能だと判断した。
-In her current state, she has come to the conclusion that she cannot overwhelm him with her firearm.
+Having evaluated the situation, she's come to the conclusion that she cannot overwhelm him with a firearm.
 }
 [sha:97b7d06f9cdbfeaab433dd4f07879cb6d87a843e]{
 -- Page 627, Offset 12503.
 -- であれば、<刃|は>を散らす白兵戦の時間になる……！
-If so, then the time has come to release her blade and fight at close quarters...!
+In which case, the time has come to cross blades and engage in hand-to-hand combat...!
 }
 [sha:d88db2d0964c9504473c31a41a89344e84ba2555]{
 -- Page 628, Offset 12504.
 -- 牙を<剥|む>く聖女の鉄槌。
-The iron hammer of the holy woman bares its fangs.
+// 聖女 was previously used to refer to the ferrous female and capitalized, I guess is this part of the same accoutrements?
+The iron hammer of the Holy Maiden bares its fangs.
 }
 [sha:018116cfba72d8f2e8000f81bcc40b26f1518658]{
 -- Page 628, Offset 12505.
 -- 少女に与えられたものは銃と甲冑だけではない。
-It isn't only the armor and the gun that are entrusted to the girl.
+The armor and the gun aren't the only things the girl has been entrusted with.
 }
 [sha:32801955e57056687c574801d44ec84b6ed84ecb]{
 -- Page 628, Offset 12506.
 -- <焼死|ブレイズ>。<病死|シック>。<出血死|ブレイド>。<衝突死|ブレイク>。<精|ロ><神|ス><死|ト>。<拷|ペ><問|イ><死|ン>。<断罪死|パニッシュ>。
-// I tried to fancy up some of the terms. I also changed sickness because of the Sick as ruby, not great to have that repetition. 精神死 gives me some "have no more mind" vibes, rather than "insane".
-<Death through Immolation|B l a z e         >. <Death through Disease|S i c k            >. <Death through Hemorrhage|B l a d e          >. <Death through Concussion|B r e a k           >. <Death through Dementia|L o s t        >. <Death through Torture|P a i n          >. <Death through Conviction|P u n i s h          >.
+// I tried to fancy up some of the terms.
+// I also changed sickness because of the Sick as ruby, not great to have that repetition.
+// 精神死 gives me some "have no more mind" vibes, rather than "insane".
+// 'Death by sick' sounds about as threatening as 'Death by tummy hurts :((('
+<Death by Immolation|B l a z e         >.
+ <Death by Disease|S i c k            >.
+ <Death by Hemorrhage|B l a d e          >.
+ <Death by Concussion|B r e a k           >.
+ <Death by Dementia|L o s t        >.
+ <Death by Torture|P a i n          >.
+ <Death by Condemnation|P u n i s h          >.
 }
 [sha:ee574b4829e96c569175612ab0cad610df7850a6]{
 -- Page 628, Offset 12507.
 -- 曰く、法が人に割り振った七つの死因。
-As told, the Seven Causes of Death are assigned to man by the law.
+// What law? Lore point?
+All told, they are the Seven Causes of Death bestowed upon man by the law.
 }
 [sha:329ab9e22d6bb3d398ee911a3d0735fbaea9dc02]{
 -- Page 628, Offset 12508.
 -- それを武器として結晶化したものが、彼女の持つ聖典である。
-The Scripture she possesses is those manifested into weapons.
+Each scripture she possesses is the embodiment of one of these causes,
+ given shape in the form of a weapon.
 }
 [sha:5480c6826fb3339134cd06c08a976caf9b4d82dd]{
 -- Page 629, Offset 12509.
@@ -791,42 +850,51 @@ With a bestial howl, the girl runs through the white hell.
 [sha:9aba9334f48f7cfa4d1d92b86464949ded7165ab]{
 -- Page 629, Offset 12511.
 -- 体内にこもった熱、加速する魔力を火のように排出する。
-The warmth contained inside her body and the accelerating magical energy are frantically discharged.
+Like a raging fire, she releases the heat and accelerating magical energy that have been accumulating in her body.
 }
 [sha:5798cac03f716b7eb7c8ceb7c59e8d0efdfcea08]{
 -- Page 629, Offset 12512.
 -- 氷河を踏み砕き、不動の吸血鬼に肉薄する。
-Treading and smashing through the ice torrent, she closes in on the immobile vampire.
+Plowing her way across the glacier, she closes in on the immobile vampire.
 }
 [sha:08da609d74de698c1d7a8c35ab0227ea4eb3c467]{
 -- Page 629, Offset 12513.
 -- 「“女――――――！”」
+// 女!
 "Woman――――――!"
 }
 [sha:69215a759893b795c3aa4ba90b34d1c7915f2b55]{
 -- Page 630, Offset 12514.
 -- 響き渡る<剣|てつ>の音。
-The sound of steel resonates.
+// SFX here sound mostly non-contact
+The sound of steel humming through the air.
 }
 [sha:b4ea4835e3574f629b3c1ec1ca46bfcbdb4d5137]{
 -- Page 630, Offset 12515.
 -- 少女が手にした物はあまりにも無骨な裁断機。
-Within her hand, the girl holds a very crude tool for cutting.
+In her hand, the girl holds a barbaric cleaver.
 }
 [sha:df9a4646d05b6a4a4c74323021ac27f3e547fe88]{
 -- Page 630, Offset 12516.
 -- ギロチンの刃を重ねた<百足|むかで>の如き<蛇腹|じゃばら><剣|けん>。
-A serpentine sword shaped like the trunk of a centipede, as though guillotine blades were stacked on top of each other.
+// 蛇腹剣 seems to be called a 'whip sword' in EN, a 'serpentine sword' seems to
+// conjure images of wavy blades instead of the telescoping / whipping thing.
+// However, later on in D5 there's some 文字通り business on 蛇, so I've kept
+// serpentine for 蛇腹 but in this instance called it a whip sword to establish
+// the connection in EN.
+A serpentine whip sword, like a centipede composed of stacked guillotine blades.
 }
 [sha:d100bfa55770c01c8df9ba58f1d22d0aee98144c]{
 -- Page 630, Offset 12517.
 -- 『<出血死|ブレイド>』の名を<戴|いただ>いた、圧し潰す為の巨大質量―――！
-A gigantic mass made to crush; granted the name of '<Death through Hemorrhage|B l a d e        >―――!
+A gigantic mass built for crushing, it bears the name '<Death by Hemorrhage|B l a d e        >―――!
 }
 [sha:5a7d3d63fe85eca60f88bfb0daf1ecbf80bdeaf0]{
 -- Page 631, Offset 12518.
 -- 胸を<抉|えぐ>る。腕を断つ。頭を割る。
-Gouging his chest. Severing his arms. Cutting his head.
+It gouges his chest.
+ It severs his arms.
+ It cracks open his skull.
 }
 [sha:c7e201beb3aaf47556d548ec0c4d06870f125575]{
 -- Page 631, Offset 12519.
@@ -836,57 +904,60 @@ The sword of the Executor mercilessly inflicts fatal wounds.
 [sha:a48952babd3f717acc1a9ded190b98635250086f]{
 -- Page 631, Offset 12520.
 -- だが勝敗は決しない。
-But that doesn't determine the outcome of the fight.
+But that's not enough to determine the outcome of this fight.
 }
 [sha:080fec376e115fc3d7bd8e48b8591e61fbe8914a]{
 -- Page 631, Offset 12521.
 -- 吸血鬼とは不死身の怪物。<た|・><だ|・><殺|・><す|・><だ|・><け|・>の損傷では瞬く間に復元する。
-A vampire is a monster with an undying body. An injury, that's %{i}only%{/i} enough to kill, can be healed in the blink of an eye.
+A vampire is a monster with an undying body.
+ An injury that's %{i}only%{/i} severe enough to kill can be healed in the blink of an eye.
 }
 [sha:50647b4c83f1bb85efff5a10157ad40c919ff7d0]{
 -- Page 632, Offset 12522.
 -- ヴローヴにとって、重いだけの剣戟は取るに足りぬ<涼風|すずかぜ>だ。
-To Vlov, a sword that has nothing to it but its weight is like an insignificant cold breeze.
+To Vlov, a sword that has nothing to it but its weight is little more than a gentle breeze.
 }
 [sha:7a100bb953e80a2b5594ed0cb2f40c7c9b01c506]{
 -- Page 632, Offset 12523.
 -- この瞬間では、まだ。
-For now.
+// Check me on this one
+At least, until now.
 }
 [sha:dc7fe9adaafa0c4f57b041d99b8e6eb688333c31]{
 -- Page 633, Offset 12524.
 -- 「“…………これ、は”」
-"This... is"
+"This... is..."
 }
 [sha:c2ac15e3eaa710fb52f25367ee3ffaa38edd4722]{
 -- Page 633, Offset 12525.
 -- 冷めきっていた瞳に熱がともる。
-Heat returns to his frozen pupils.
+Warmth stirs within his frozen pupils.
 }
 [sha:e39f791c24e95fd3cff0a08e0b8a6f20dd48d5ea]{
 -- Page 633, Offset 12526.
 -- 胸に、腕に、頭に入った裂傷が“まだ留まっている”事を看破し、吸血鬼はようやく目が覚めた。
-Sensing that the lacerations to his chest, arms, and head are 'still open', the vampire finally opens his eyes.
+Realizing that the lacerations to his chest, arms, and head are still open, the vampire finally comes to his senses.
 }
 [sha:a967d1c7be4fb7d6f8a5d492b7db4d679668c54d]{
 -- Page 634, Offset 12527.
 -- 怒りでも憎しみでもない。
-Not from anger, nor from hatred.
+Not out of anger, nor out of hatred.
 }
 [sha:17f07dd8a96086b3a46d01f043f031fc5c85c284]{
 -- Page 634, Offset 12528.
 -- とうの昔に凍り付いた、歓喜による目覚めである。
-He is awakening from joy, having been frozen for so long.
+After being frozen for so long, it is joy that finally awakens him.
 }
 [sha:720ec72029349ec6843e4d6de91d8f8ec984b9e6]{
 -- Page 635, Offset 12529.
 -- 「“人間の流儀はどこに置いてきた、女。
-"Where have you cast away your human ways, woman?
+"Whatever happened to your human techniques, woman?
 }
 [sha:84834b0f665701ac35057fa39385d4a8acfd8c84]{
 -- Page 635, Offset 12530.
 -- この剣筋は、死徒を殺す為に、死徒が編み出したものではないか？”」
-Isn't that a swordsmanship developed by a Dead Apostle, to kill Dead Apostles?"
+That school of swordsmanship...
+ It was devised to kill Dead Apostles, but was it not also devised %{i}by%{/i} Dead Apostles?"
 }
 [sha:902b4d50071a15718e21c3d035a0a6f7624a459f]{
 -- Page 635, Offset 12531.
@@ -906,18 +977,22 @@ But her fourth blow doesn't land.
 [sha:6e4afa387914301e11bf4cec49bf1c3cada6cbea]{
 -- Page 636, Offset 12534.
 -- 今まで寒さと放浪によって死んでいた吸血鬼の過去が、代行者の剣圧によって蘇生する。
-// 剣圧
-The vampire's dead past, which until now had wandered in the cold, is revived by the ferociousness of the executor's swordplay.
+// 寒さ and 放浪 lumped for flow
+The vampire's past,
+ long dead from his time spent wandering in the cold,
+ is revived by the ferociousness of the executor's swordplay.
 }
 [sha:0309955e8c14b69498d2d591b00e753a5726f5dd]{
 -- Page 636, Offset 12535.
 -- ただそこにあるだけだった<死徒|のろい>は、かつて王を落とした騎士の貌に変貌した。
-The <Dead Apostle|C u r s e      >, who was just standing there, metamorphoses into the figure of the knight who once felled his king.
+The <Dead Apostle|C u r s e      >,
+ who up until now had merely stood there listlessly,
+ metamorphoses into the figure of the knight who once felled his king.
 }
 [sha:b62d2e66c499e56b1a256e8800ba4f539ff1116a]{
 -- Page 637, Offset 12536.
 -- 「“―――なぜ知っている、という顔だな。
-"―――How do I know, your face says.
+"Judging by the look on your face, it seems you're wondering how I know.
 }
 [sha:ca163371ab8327c55fb457ea0db1f89f5021e4eb]{
 -- Page 637, Offset 12537.
@@ -927,37 +1002,50 @@ One of the Twenty-Seven Ancestors, Sword Monk Be'ze.
 [sha:c79a4a51ed1e33b62676c666cc1927d96f483b30]{
 -- Page 637, Offset 12538.
 -- おれも昔、一度だけ教えを受けた。
-Long ago, he taught me once as well.
+// Flag for better lore context if known
+He taught me too, long ago―――though only once.
 }
 [sha:d5330d43b162914ba5a8864273636f4187bcd5a9]{
 -- Page 637, Offset 12539.
 -- 時代を見るに―――そうか。おまえが、最後の門弟か”」
-Looking at the era―――I see. You are the last of his disciples then."
+// Seems like Ciel may have offed him, so reading this as 'his final disciple' rather than 'the last of his disciples'
+Based on the era―――I see. So %{i}you%{/i} were his final disciple?"
 }
 [sha:cd1866423b806039da120f8c935caa77f023e6e2]{
 -- Page 638, Offset 12540.
 -- 規格外の凶器が衝突する。
-The unorthodox weapons collide.
+The unorthodox weapons clash with each other.
 }
 [sha:46060e3c4b5e6cb0776a672dcd327ff371c65dfb]{
 -- Page 638, Offset 12541.
 -- かたや３メートルを超える氷塊の槍。
-On one hand, a spear of ice over three meters long.
+In one corner, a lance of ice over three meters long.
 }
 [sha:b7c0446b6ed9b2b45db84584602640ea315372e0]{
 -- Page 638, Offset 12542.
 -- かたや２メートルを超える複合可変の蛇腹剣。
-On the other, the composite-convertible serpentine sword over two meters long.
+// What the FUCK is a 複合可変
+// '断面はU型と箱型の結合の複合可変断面形式で'
+// https://www.honda.co.jp/factbook/auto/LEGEND/19870206/le87-015.html
+// In this context, some sort of hybrid between u-channel and box beam?
+// '低速域から高速域まで、力強いトルクを発揮する、複合可変吸気システム'
+// https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202002225713263263
+// Second one seems to be describing something like VLIM, but with _multiple_ moving pieces?
+// https://en.wikipedia.org/wiki/Variable-length_intake_manifold
+// I guess interpreting it as something that is a fusion of styles / techniques
+// or that alternates between two 'modes' - here whip + sword.
+In the other, a two-meter long hybrid between a whip and a sword.
 }
 [sha:aa95ac627da4e76b788aa29c2be88f2d6fd6383e]{
 -- Page 638, Offset 12543.
 -- 持ち上げて突き出す。
-Lifting and pushing out.
+Lifting it into the air and brandishing it at the opponent―――
 }
 [sha:c31b0f1b334122200820b13a81fd0c222ce68956]{
 -- Page 638, Offset 12544.
 -- 人の筋力ではそれのみが可能であろう重量を、両者は自在に操っている。
-That is the extent of a human's physical strength considering the weight of the weapons that the two are easily handling.
+That's about all an ordinary human would be able to do given the weight of those weapons,
+ but these two are manipulating them like they're nothing.
 }
 [sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
 -- Page 639, Offset 12545.
@@ -967,47 +1055,48 @@ That is the extent of a human's physical strength considering the weight of the 
 [sha:95a631a28c68a86244fb2aad09f0b361059a7b07]{
 -- Page 639, Offset 12546.
 -- 「“ハッ―――！”」
-"Haa―――!"
+"%{i}Ha%{/i}―――!"
 }
 [sha:01fa6033968faa1fc050655d332ca0f50a094a64]{
 -- Page 640, Offset 12547.
 -- 力量は互角。しかし優劣は明らかだ。
-Their abilities are evenly matched. But it is clear who is dominating.
+Their abilities are well matched. But it's clear who has the advantage.
 }
 [sha:c749bc1864c12c7c5f406d7dca9d0f6845ba0a03]{
 -- Page 640, Offset 12548.
 -- 少女の剣によって吸血鬼は目を覚ました。
-The vampire came to his senses thanks to the girl's sword.
+It was the girl's sword that snapped the vampire back to his senses.
 }
 [sha:e944d3fa216514163eee1ffb59880d99b5da5280]{
 -- Page 640, Offset 12549.
 -- 一方、少女の動きは時間と共に劣化していく。
-On the other hand, the girl's movements are getting weaker with time.
+However, her movements are only getting weaker as time drags on.
 }
 [sha:dd08ddc43f0ccf1778807b7104117de377d55f44]{
 -- Page 640, Offset 12550.
 -- この戦いは、初めから一方に不利が大きすぎた。
-From the beginning, one side was already heavily disadvantaged.
+From the very beginning of this battle, one side has been suffering from an insurmountable handicap.
 }
 [sha:37bd4b402f7468fefe805d96311f4b3793ee04ae]{
 -- Page 641, Offset 12551.
 -- 「“いいぞ。剣の腕は互角か、貴様が上だ。
-"Excellent. Your sword skills are equal, or even superior to mine.
+"Excellent... Your swordsmanship equals... nay, surpasses my own.
 }
 [sha:7f0def0d927cdc4fcbbcc1debf1733b86f8e5eb6]{
 -- Page 641, Offset 12552.
 -- だが人間である事が災いしたな。
-But being a human is your downfall.
+// Reworded, but all the good 人間-y words (humanity) have other baggage
+But you cannot surpass your limits as a human.
 }
 [sha:90ccf8b23ddf347f8d5fbfc994b27b6cf167d7ff]{
 -- Page 641, Offset 12553.
 -- この結界、果たしてあと何分保つ……？”」
-As expected, how many more minutes will this barrier last...?"
+Just how many more minutes will this barrier last, I wonder...?"
 }
 [sha:b2ff47b46caeaf8293bf1b87b548adf1adafdce4]{
 -- Page 642, Offset 12554.
 -- 吸血鬼の槍がうなりを上げる。
-The vampire's spear roars.
+The vampire's lance whistles through the air.
 }
 [sha:d6e6becd21ec7506572aed7352921e4e8ce2fbfd]{
 -- Page 642, Offset 12555.
@@ -1017,20 +1106,20 @@ The executor's sword repels it.
 [sha:ad9c3b95bdf10fb9e4a8dd008a343bc6f050773a]{
 -- Page 642, Offset 12556.
 -- 人智を超越した斬り合いはいつ果てるともなく続いていく。
-The sword fight beyond human comprehension continues without any sign of coming to an end.
+The sword fight that has long transcended human comprehension shows no sign of stopping.
 }
 [sha:c9eadf5a15d4aa5003760ae28a0768704c34c29c]{
 -- Page 642, Offset 12557.
 -- ……だが、決着の瞬間はすぐそこまで迫っている。
-...However, the moment of reckoning is fast approaching.
+However... the moment of reckoning is fast approaching.
 }
 [sha:b5a3fcd3a7ff9c59c57b96f7139b842bfaec7971]{
 -- Page 642, Offset 12558.
 -- 少女の四肢がわずかでもその性能を落とした時―――
-The moment the girl's limbs show even the slightest sign of weakness―――
+The instant the girl's limbs show even the slightest sign of weakness―――
 }
 [sha:421dcaf16d1c6b2ec451c5ab9a2dd3cc65eca366]{
 -- Page 642, Offset 12559.
 -- 騎士の槍は、全霊を以て敵の真芯を撃ち抜くだろう。
-The knight will thrust his spear through his opponent with his entire being.
+The knight will summon every ounce of power he has, and use it to run his enemy through with his lance.
 }
