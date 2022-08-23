@@ -7,7 +7,7 @@ Gooood evening, everyone!
 [sha:4f2f5fec843d3dee0a3d8e3dd89f0c5c657f4a3d]{
 -- Page 1, Offset 43317.
 -- 降り注ぐようなトラブルの中、
-Welcome to the ever popular corner where we%{n}
+Welcome to the ever-popular corner where we%{n}
 cheer on
 }
 [sha:85697b77bbe5a00f5b78c056143fd5809c70e6c5]{
@@ -19,7 +19,7 @@ despite his never-ending troubles.
 [sha:4b6e396aac530529aa5568cf3291f5b68f1f7d7e]{
 -- Page 2, Offset 43319.
 -- 『教えて！　シエル先生』、
-The long awaited part two of %{n}
+The long-awaited part two of%{n}
 }
 [sha:91bc9cf2eafb0c2298b758d807b03f4c2ccc909a]{
 -- Page 2, Offset 43320.
@@ -162,7 +162,7 @@ creature...
 [sha:03214ed2b68c2765651f15975078ddf03ddb1632]{
 -- Page 14, Offset 43343.
 -- ですが、浮かれていたのは事実です。
- Though I have to admit I let my guard down.
+ Though I have to admit, I let my guard down.
 }
 [sha:d3d59429a81f7ad742355e04200a91fae9eeadb2]{
 -- Page 15, Offset 43344.
@@ -228,8 +228,9 @@ zone for long.
 [sha:284a0ca688b040e41aa5e624ada434461e4ba6fc]{
 -- Page 21, Offset 43355.
 -- 「いける！」と思った時こそ、
-It's times when you think you've got it all%{n}
-in the bag
+// text overflow, might need a bigger speech bubble
+It's the times when you think you've got it%{n}
+all in the bag
 }
 [sha:7486b0d2744d0a767183e79cad24c4e3901002d0]{
 -- Page 21, Offset 43356.
