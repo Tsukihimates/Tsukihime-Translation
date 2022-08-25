@@ -2,7 +2,7 @@
 -- Page 10003, Offset 11106.
 -- 「はっ……はぁ……はぁ……は……！」
 // lint-off:LintDupedWord
-"%{i}Haa... haa... haa... ha...%{/i}!"
+"%{i}Haa%{/i}... %{i}haa%{/i}... %{i}haa%{/i}... %{i}ha%{/i}...!"
 }
 [sha:f9e25124c4910fd48a9e574136d97a849433ac6d]{
 -- Page 10003, Offset 11107.
@@ -18,7 +18,7 @@ My legs feel like they're about to fall off,
 [sha:76d8dec8eda4a9bc714a608b2df6cec770aa3818]{
 -- Page 91, Offset 11109.
 -- 「は……ぁ、あ、は―――」
-"%{i}Haa... aa, haa―%{/i}――"
+"%{i}Haa%{/i}... %{i}aa, haa%{/i}―――"
 }
 [sha:8fda1654804f55cc60151bf15e98686e7f02db8b]{
 -- Page 91, Offset 11110.
@@ -66,7 +66,7 @@ The path slopes gently downward.
 [sha:b26bbb020dadcda4cba7ea65158ee703848c74d1]{
 -- Page 93, Offset 11118.
 -- 「はあ―――ぁ、は―――」
-"%{i}Haa――― ha―――%{/i}"
+"%{i}Haa―――ah, ha―――%{/i}"
 }
 [sha:9e6942e6af749e228b6a734670d75fe7b7a9cfa0]{
 -- Page 93, Offset 11119.
@@ -176,7 +176,7 @@ I need to get back to the elevator,
 [sha:9f1a333f915a40bc4d10586f40577a2799e167d4]{
 -- Page 100, Offset 11138.
 -- 「は――――――、ァ」
-"%{i}Ha――――――agh%{/i}"
+"%{i}Ha――――――agh%{/i}."
 }
 [sha:6a332081ff56a386118ce54c7c2f76d3c5c27a3e]{
 -- Page 100, Offset 11139.
@@ -234,7 +234,7 @@ I may have talked a big game, but the moment I was confronted by this reality, I
 [sha:e36103476bc26a2de80a246c47b50b358af34a5d]{
 -- Page 102, Offset 11149.
 -- 「ああ―――ああ、ああ……！」
-"%{i}Aaaa―――aaa, aaa...%{/i}!"
+"%{i}Aaaa―――aaa, aaa%{/i}...!"
 }
 [sha:fd94c58d1c7e51c504852df3e5689908dfb25f94]{
 -- Page 102, Offset 11150.
@@ -250,7 +250,7 @@ How disgraceful.
  This is my true nature.
  I wasn't driven by a sense of justice at all.
  It was nothing more than a superiority complex.
- What I called 'resolve' was only my own arrogance from being possession of this <weapon|M y s t i c  E y e s  >.
+ What I called 'resolve' was only my own arrogance from being in possession of this <weapon|M y s t i c  E y e s  >.
 }
 [sha:a9d97841a0dde8e33125d995aafdd75f32811822]{
 -- Page 103, Offset 11152.
@@ -382,7 +382,7 @@ It may have been a rash decision that led me here,
 [sha:3d3d728cd6da339f0feab761a32c51ebd4a26a93]{
 -- Page 109, Offset 11175.
 -- そんなのは昨日の夜で終わっただろう、志貴」
-Last night was your final chance for that, Shiki."
+Last night was your last chance for that, Shiki."
 }
 [sha:ea2690e82ea35a08427a11987ce33917dd4d31c5]{
 -- Page 110, Offset 11176.
@@ -432,7 +432,7 @@ I can also see the residue left by flaming torches on the walls.
 -- Page 113, Offset 11184.
 -- ……考えたくはないが、ここに住んでいるモノは夜になると明かりをつける習慣があるらしい。
 It's not something I really want to dwell on, but...
- It seems that whatever lives down here is in the habit of lighting the place up at night.
+ it seems that whatever lives down here is in the habit of lighting the place up at night.
 }
 [sha:127f6fbe9585bc500bcd92438c0175a393dd3a59]{
 -- Page 114, Offset 11185.
@@ -576,7 +576,7 @@ That was a woman's scream coming from the end of the passage.
 [sha:f8d5fc2d07d60d3807dc760380ef489165932256]{
 -- Page 122, Offset 11212.
 -- 「ハ―――ハッ、ハ―――！」
-"%{i}Ha――― ha, ha―――%{/i}!"
+"%{i}Ha―――ha, ha―――%{/i}!"
 }
 [sha:b513f5905c9c7b2c5768a5f87ab4f6956995b55c]{
 -- Page 122, Offset 11213.
@@ -596,7 +596,7 @@ Glancing around, I get a handle on the space I'm in.
 [sha:92c11d62ea2b6c72f2bc7d262ff5942b274a79aa]{
 -- Page 123, Offset 11216.
 -- 大きさにして直径６メートル、高さ２メートル弱の大部屋。
-It's a large circular room, roughly six meters in diameter, and a just shy of two meters tall.
+It's a large, circular room, roughly six meters in diameter, and just shy of two meters tall.
 }
 [offset:11217]{
 -- Page 123, Offset 11217.
@@ -636,7 +636,7 @@ There's now only one meter separating the woma―――Noel-sensei from being ea
 [sha:ae7f99134f6d26693e95ba7306f2127b45fb6249]{
 -- Page 126, Offset 11224.
 -- 「っ―――、ァ―――！」
-"%{i}Ugh――― haa―――%{/i}!"
+"%{i}Ugh―――haa―――%{/i}!"
 }
 [sha:df2540201b48fb0a5b436f36e2ac885e3f24aecd]{
 -- Page 126, Offset 11225.
@@ -698,7 +698,7 @@ It swooped downward.
 -- Page 129, Offset 11236.
 -- 首を切断する筈のナイフは、墜落するように標的を変更した。
 // Added suddenly
-The knife that was supposed to cut their necks suddenly changed target and nose-dived.
+The knife that was supposed to cut their necks suddenly changed target and nosedived.
 }
 [sha:cbae92fe4678935be006b13e990ac7fe26d96e19]{
 -- Page 130, Offset 11237.
@@ -785,7 +785,7 @@ I slide my knife through the lines running down that festering limb.
 [sha:2ad1802aa80e9d9f7ca25a012426edbeca5dc964]{
 -- Page 136, Offset 11253.
 -- っていうかキミほんとに志貴クン!?　夢じゃなくて!?」
-Actually wait, are you seriously Shiki-kun!? I'm not dreaming, right!?"
+Actually wait, are you really Shiki-kun!? I'm not dreaming, right!?"
 }
 [sha:3199057317931624220975fd8baf7ba10e3e1174]{
 -- Page 136, Offset 11254.
@@ -894,7 +894,7 @@ I'll buy you some later, so bear with it for now!"
 // Methinks the Shiki doth protest too much
 Standing level with Noel-sensei,
  I wrap my left arm around her and pull her close to me before shoving one of the fingers on my other hand into her mouth.
- This is purely to stop her from yelling――if I'd covered her whole mouth with my hand she wouldn't have been able to breathe.
+ This is purely to stop her from yelling――if I'd covered her whole mouth with my hand, she wouldn't have been able to breathe.
 }
 [sha:b11660020be53fe4d79ea1252aa6809a80ee3770]{
 -- Page 144, Offset 11273.
@@ -944,7 +944,7 @@ Her teeth sink into the joint right behind my fingertip.
 [sha:78d516bf1b3c0b00f2f09a00186d58df86945e4d]{
 -- Page 145, Offset 11282.
 -- 「いつ、いつつ……！　叫びたいのはこっちです！　とにかく走って！」
-"Ow, ouch...!
+"%{i}Ow, ouch%{/i}...!
  I'm the one who wants to scream here, okay!
  Just run already!"
 }
