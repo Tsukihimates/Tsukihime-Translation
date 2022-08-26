@@ -14,12 +14,13 @@ I haven't been out to take a look at the gardens since I returned to the mansion
 [sha:8890c0dd2f3dcd013b54d1d8c216ec1b25ebe180]{
 -- Page 10008, Offset 13581.
 -- 七年前からどう変わっているのか様子を見に行こう。
+// LintConsistency:14541
 I should go see how much it's changed in the past seven years.
 }
 [sha:a1c22ef579629d2f7a9828e1a7bfe728d9939f56]{
 -- Page 10008, Offset 13582.
 -- ロビーまで出て、大階段の後ろにある出入り口から中庭に出られるはずだ。
-I leave the lobby and go through the door at the end of the grand stairway. If I'm not mistaken, it should lead to the courtyard.
+If I head down to the lobby, I should be able to get to the courtyard via the doorway behind the grand staircase.
 }
 [sha:4658195e2fafe9877288f974816939d58c317faf]{
 -- Page 164, Offset 13583.
@@ -54,12 +55,12 @@ She never went out into the garden by herself, this terrace marked the confines 
 [sha:619fc6b68d634611298f3dfc082af4237b14f665]{
 -- Page 165, Offset 13588.
 -- 「……そうだった。
-"...That's right.
+"That's right...
 }
 [sha:5df3cd8248c20890644adbc4b884db982fceada5]{
 -- Page 165, Offset 13589.
 -- よく庭から声をかけて、家庭教師の目を盗んだっけ」
- I'd always be calling out to her from the garden, behind her tutor's back."
+I'd always be calling out to her from the garden, behind her tutor's back."
 }
 [sha:2fc75917768596291a5e85a6b7badbc18ca4c74c]{
 -- Page 166, Offset 13590.
@@ -92,11 +93,14 @@ The garden looked endless in the eyes of a child,
 [sha:5c3bff6dc4f1803c36388b7292455f3db1870307]{
 -- Page 167, Offset 13595.
 -- 七年前に比べると花の数は減っているが、中庭の雰囲気は変わっていなかった。
-There are fewer flowers now than I remember there being seven years ago, but aside from that the ambience of the garden is largely unchanged.
+// LintConsistency:14554
+There are fewer flowers now than I remember there being seven years ago,
+ but aside from that the ambience of the garden is largely unchanged.
 }
 [sha:933a7bd30444f815978af19d631e7031a059c241]{
 -- Page 168, Offset 13596.
 -- ゆっくり、10分ほど歩いて<あずまや|ガゼボ>に着いた。
+// LintConsistency:14555
 After strolling around leisurely for about ten minutes, I arrive at the gazebo.
 }
 [sha:5506a7af6eff1a9f1306ac8d1c913b4beb68e68c]{
@@ -122,12 +126,13 @@ I'm still a little hobbled by my leg injury, so this is about as far as I'll go 
 [sha:c90f87d8e624413a034c8dfd3af44fba5d4f476d]{
 -- Page 169, Offset 13601.
 -- つくづく日本離れした屋敷だと想う。
-I really do think this mansion is totally out of place in Japan.
+This mansion really does stick out like a sore thumb here in Japan.
 }
 [sha:da27057a0ea34e0dce362191e4b49f92510f93b3]{
 -- Page 169, Offset 13602.
 -- 手すりに腰をかけて、広大な秋の庭を眺める。
-I lay my hand on the railing and gaze at the vast autumnal garden.
+// Sir there are _zero_ railings in this CG
+I perch myself on the railing and gaze out over the vast autumn garden.
 }
 [sha:e2298125f973cc6db9b201fd9ea97f2e44a53b0d]{
 -- Page 170, Offset 13603.
@@ -143,33 +148,34 @@ If you ask me, this scenery is much more befitting of Akiha, or―――
 [sha:b9775e37a1c0e64c48872eab544430793f1cca71]{
 -- Page 171, Offset 13605.
 -- 「……アイツと、シエル先輩ぐらいかな」
-"...Her and Ciel-senpai."
+"...Someone like her, or Ciel-senpai."
 }
 [sha:9bfcb9a0f277af8a79d7b64d8eea01d1e69ec626]{
 -- Page 171, Offset 13606.
 -- 呆れるぐらい華やかだった吸血鬼の女と、
-The astonishingly resplendent female vampire and...
+I can't help but think of that stunningly beautiful vampiress―――
 }
 [sha:da5675038312bf805469d1f4dec5582bdad6a977]{
 -- Page 171, Offset 13607.
 -- 勇ましい戦闘服に身を包んだ先輩を思い返す。
-the valiant, combat uniform-wearing Senpai come to mind.
+As well as Senpai, looking gallant in her combat uniform.
 }
 [sha:86f03bc1f14b1dfa5376d57e12983c9439ba7b8a]{
 -- Page 172, Offset 13608.
 -- ……あの後、二人はどうなったのか。
-...After the fight, I wonder what happened to those two.
+I wonder what happened to those two after the fight...
 }
 [sha:f085bab00522e6e787aa69cfa7706def9317d2b3]{
 -- Page 172, Offset 13609.
 -- アルクェイドは先輩を嫌っていたし、先輩も立場上アルクェイドとは相容れないだろうけど、何事もなく別れてくれていたら、と思う。
-// Not sure about that たら here
-Arcueid hates Senpai, and considering her position, Senpai probably has no choice but to be in conflict with Arcueid. If only they could part peacefully.
+It seems like Arcueid hates Senpai,
+ and based on her profession, Senpai probably wouldn't get along too well with Arcueid either.
+ I can only hope that they parted ways without incident.
 }
 [sha:b609d8517770f134f51ba0778d749ec353c6225f]{
 -- Page 173, Offset 13610.
 -- 「……馬鹿だな。なんでそんな心配をしてるんだ、俺」
-"...How stupid. Why I am so worried anyway?"
+"I'm such an idiot... What am I so worried about, anyway?"
 }
 [sha:33f1d3e25c84bc737451356f7e1415a51bdcebba]{
 -- Page 173, Offset 13611.
@@ -179,7 +185,8 @@ Everything's over.
 [sha:6caf85782f676c012993682439a862677bce0f1b]{
 -- Page 173, Offset 13612.
 -- シエル先輩の目的がヴローヴだった以上、彼女がこの街に残る理由はない。
-Since Ciel-senpai was only here for Vlov, she no longer has any reason to remain in this city.
+Ciel-senpai only came to this city to deal with Vlov,
+ so there's no reason for her to stick around anymore.
 }
 [sha:9e90f0f9af22e617cdd61cff69a69e6a167eabbe]{
 -- Page 174, Offset 13613. Mods: @n.
@@ -189,17 +196,17 @@ That's why―――
 [sha:4fe407cf8f9b736d9683544c38e41e026329651d]{
 -- Page 174, Offset 13614.
 -- こんなところで思い返しても、もう、何の意味もない。
-It's too late to be thinking back on these things; it's meaningless.
+It's no use being hung up on her like this.
 }
 [sha:36292adf647b33b457a9676a9df7c39bbe563448]{
 -- Page 175, Offset 13615.
 -- 「……そうだ、それでいいんだ。
-"...Right. It's fine as it is.
+"Yeah... Things are fine the way they are.
 }
 [sha:27c8595b6b74523e90c4b25cf98ac055311b4303]{
 -- Page 175, Offset 13616.
 -- もうあんな無茶をしなくていいんだから―――」
-I won't have to do such reckless things anymore so―――"
+I won't have to do anything that insane ever again, so I'm―――"
 }
 [sha:6fe0980ad2806200d3c6fb91b2c8ee637207cfd4]{
 -- Page 176, Offset 13617.
@@ -209,7 +216,7 @@ I close my mouth before I could finish my sentence.
 [sha:23256352b519f2f9374a7758c9edc46eb1c8021e]{
 -- Page 176, Offset 13618.
 -- 自分もだませない嘘を呟いても虚しいだけだ。
-Uttering a lie that can't even deceive myself would be futile.
+There's no point in uttering a lie that I can't even fool myself with.
 }
 [sha:2bfdc86d9eb3ac63c4481990b87825197a3c6782]{
 -- Page 176, Offset 13619.
@@ -224,7 +231,7 @@ My feelings of gratitude toward Senpai, as well as my hopes.
 [sha:8ef8bf55b9917a4d40ddc3cb2fcdb94ec941c292]{
 -- Page 177, Offset 13621.
 -- それはアルクェイドだって同じだ。
-It's the same for Arcueid.
+I feel the same way about Arcueid.
 }
 [sha:48a8515432980fb27a331072bf742ea91da7b8d6]{
 -- Page 177, Offset 13622.
@@ -234,12 +241,12 @@ That girl was nothing but trouble, but even so, it was... well, kinda fun to spe
 [sha:22ae8eda348d05c602f0e4eedcc1824dab5a8c2d]{
 -- Page 178, Offset 13623.
 -- 「……って、バカか俺は。
-"...Haah, what am I even saying.
+"...Geez, what am I thinking?
 }
 [sha:274b847b88a287d348e84f32bbb767ae8a0d886a]{
 -- Page 178, Offset 13624.
 -- 先輩はともかく、アイツはどうでもいいじゃないか」
-Senpai is one thing, but it doesn't matter what happens to Arcueid, right?"
+Senpai is one thing, but why should I care about Arcueid at all?"
 }
 [sha:da7e29a27b4dbf7077cae9615fd32b77877855b8]{
 -- Page 179, Offset 13625.
@@ -254,7 +261,7 @@ I don't want to go through something like that ever again.
 [sha:f5ddaa22e1a56c64ea1e2d24ce8ddb935af1f850]{
 -- Page 180, Offset 13627.
 -- ため息をついてガゼボを後にする。
-I breathe out a sigh and leave behind the gazebo.
+I breathe out a sigh and leave the gazebo behind me.
 }
 [sha:318e577e5383c14d5e3ad89578cf9dc720c98829]{
 -- Page 180, Offset 13628.
@@ -264,5 +271,5 @@ I kill some more time strolling around the courtyard as I make my way back.
 [sha:aa928305326b7c5346be1a0ede89f3df9b9ce7e0]{
 -- Page 180, Offset 13629.
 -- ……けれど。正体の分からない未練は、日が落ちた後も簡単には消えてくれなかった。
-...And yet. Even after the sun has set, this strange lingering attachment is not so easily forgotten.
+And yet... Even after the sun has set, this strange lingering attachment is not so easily forgotten.
 }
