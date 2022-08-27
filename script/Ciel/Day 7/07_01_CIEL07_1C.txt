@@ -13,12 +13,12 @@ Noel-sensei didn't even look in my direction once all through homeroom, or the l
 [sha:0230474a71e63036a1dcb565700f9024f6510843]{
 -- Page 74, Offset 14979.
 -- 「オース、何日かぶりですかね遠野クン！
-"'Sup! Long time no see, Tohno-kun!
+"'Sup! Been a few days, Tohno-kun!
 }
 [sha:eb3d781be3db55cb608cf58b02540414ebbfb738]{
 -- Page 74, Offset 14980. Mods: @k, @e.
 -- おおかた季節の変わり目で風邪でも引いた……
-You catch a cold to go with the change in seasons or something...
+You catch a cold to go with the change of seasons or something...
 }
 [sha:26c0b84dd656e52dabda663b2f4ca35fa4e3c89b]{
 -- Page 74, Offset 14981. Glued. Mods: @x.
@@ -87,12 +87,12 @@ then I'm counting on you to introduce her to me, alright?"
 [sha:6331c0e5e1cf4238e3ccc176d39188b3a9ebef98]{
 -- Page 79, Offset 14992.
 -- 「……なに。おまえ、そういうステレオタイプの年下、好きなの？」
-"What. Are you seriously into cliche young girls like that?"
+"What. Are you seriously into cliché young girls like that?"
 }
 [sha:8a0ebac5fa428ba0989493e060728a3ba384ccfd]{
 -- Page 79, Offset 14993.
 -- 「もち。姉貴しかいない男子高校生にとって、妹ってのはそれだけで最後の<幻想|ファンタズム>ですからね」
-"'Course. Little sisters like that are the ultimate fantasy for high-school boys like me who've only got lame-ass older sisters waiting for them at home."
+"'Course. Little sisters like that are the ultimate fantasy for high-school boys like me who've only got older sisters waiting for them at home."
 }
 [sha:efd1d3c51f3610508ea0c3738921629238110b73]{
 -- Page 80, Offset 14994.
@@ -106,9 +106,9 @@ then I'm counting on you to introduce her to me, alright?"
 [sha:79c94720d499d97e9da888741e84d2a62d43ab29]{
 -- Page 81, Offset 14995.
 -- マジカ、と喜ぶ親友を生温かく見守る。
-// 温かく見守る is watch over warmly, but in this instance it feels more
-// important to preserve the lukeness of it than the watching over
-I cast a lukewarm glance at my best friend, who can hardly believe his luck.
+// Feels important to me to preserve the _生_温かく見守る tweak here since 温かく見守る
+// is a fairly stock phrase
+I look warmly―――%{i}lukewarmly%{/i} on at my best friend, who can hardly believe his luck.
 }
 [sha:d568ee73600b48ec6c3a8317538e0b7f846174d1]{
 -- Page 81, Offset 14996.
@@ -154,7 +154,7 @@ I'll―――
 [sha:bc5e30b25d51412364b6ce7cb4c32d08388fef1d]{
 -- Page 84, Offset 42707. Choice.
 -- 購買でカレーパンを買い占めよう。
- Buy up all the curry bread at the school store.
+ Buy up on curry bread at the school store.
 }
 [sha:4e30f37c1d6cc6326c405a644161f573b3788548]{
 -- Page 84, Offset 42708. Choice.
