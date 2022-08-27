@@ -1,12 +1,13 @@
 [sha:249801ff07a83c478d8cd5a4f806d3fa3084ddb0]{
 -- Page 10023, Offset 12652.
 -- ヴローヴに注意を払いながら走る。
-I run while keeping my attention on Vlov.
+I run while keeping an eye on Vlov.
 }
 [sha:9f4c80c322a068ed9900c60c474e8f4e4d4b7e57]{
 -- Page 10023, Offset 12653.
 -- シエル先輩はクレーターの端、一段高く積もった瓦礫の山に飛ばされていた。
-Ciel-senpai is at the edge of the crater, having been blown away to an even taller pile of debris.
+Ciel-senpai has been blown all the way to the edge of the crater,
+ and is lying on top of one of the higher piles of debris around its perimeter.
 }
 [sha:5d2e1cd654704736fd41147e6764c1fd8ba2f1d3]{
 -- Page 677, Offset 12654.
@@ -21,17 +22,18 @@ I rush over and call out to her.
 [sha:965450248c4c3a57c0e5ac054ca6c45c5e624e28]{
 -- Page 677, Offset 12656.
 -- 擦り傷だらけだが大きな出血は見られない。
-She's covered in bruises, but I don't see any significant bleeding.
+She's covered in scrapes and bruises, but I don't see any significant bleeding.
 }
 [sha:79e529d7d72f198edec2197f6bda758c5d82a6c4]{
 -- Page 677, Offset 12657.
 -- 胸は鎧のようなものが外れて剥き出しになっている。
-The armor-like thing has come off, leaving her chest unprotected.
+The armor-like object she'd been wearing has come loose, exposing her torso.
 }
 [sha:eba039d077424a3aad9721ca5671ca05e44e1ddb]{
 -- Page 678, Offset 12658.
 -- 今まで微動だにしていなかった胸のカタチが、声をかけた事でびくん、と大きく震動した。
-Her chest, which until now hadn't shown the slightest sign of movement, convulses and trembles after I call out to her.
+Her chest, which up until now hasn't so much as twitched,
+ suddenly shudders violently after I call out to her.
 }
 [sha:ec5ede542931ccac5e642904e9a198eb5136bdb1]{
 -- Page 678, Offset 12659.
@@ -46,12 +48,13 @@ Thank goodness, she's still alive...!
 [sha:526a3528fe71493cea43e1e1457f7fd9bdfd900c]{
 -- Page 679, Offset 12661.
 -- 「んっ……あ……と……、……ん？」
-"%{i}Ugh%{/i}... A few minu... mor... Nhnn?"
+// 朝は弱いって話、ホントなんですね
+"%{i}Ugh%{/i}... Just... a few more... min... %{i}nhnn%{/i}?"
 }
 [sha:0432767c6de30d714449c7c9c7a9c6005178fdbf]{
 -- Page 680, Offset 12662.
 -- 先輩の容体を看ながら、視界の隅にヤツを捉える。
-While looking after Senpai, I catch sight of him at the corner of my eye.
+While I'm checking on Senpai's condition, I catch sight of Vlov out of the corner of my eye.
 }
 [sha:41e9b448ab3965a158cbf875011e06c7a657b488]{
 -- Page 680, Offset 12663.
@@ -61,27 +64,37 @@ While looking after Senpai, I catch sight of him at the corner of my eye.
 [sha:50cbc043b3291e295eacbfeed0e053f2b3f73d33]{
 -- Page 680, Offset 12664.
 -- 今まで決して動かなかったあの吸血鬼が、一歩ずつ、牛の歩みではあるが、こちらに向かって前進している……！
-The vampire remained unmoving before, but right now, one step at a time, slow but steady, he is advancing toward us...!
+He may only be moving at a snail's pace, but that vampire―――
+who hadn't moved from where he stood this entire time―――
+is now steadily advancing toward us...!
 }
 [sha:329efb232c1f07c31dad2fea35281ff9c614f0b3]{
 -- Page 681, Offset 12665.
 -- 先輩をここまで弾き飛ばした事で大型の槍は崩壊した。いまヤツが手にしているものは一回り小型の槍だ。
-The large spear that blew Senpai all the way here has crumbled. He's now holding a slightly smaller spear.
+The massive lance he used to blow Senpai all the way over here has crumbled.
+ The lance he's holding now is a little smaller than the one he had before.
 }
 [sha:52432d2e5db71e6b128d48e49bda632c8dbd8d6a]{
 -- Page 681, Offset 12666.
 -- 地下で俺が落とした左手は元に戻っているが、さきほどから使われていない。おそらくカタチだけ復元したものだ。あの左手は機能として死んでいる。
-His left hand that I cut off underground has regenerated. However, he hasn't used it since. Likely because it was only reconstructed for form's sake. His left hand is functionally dead.
+// This is in reference to offset 11602 -
+// 上等。その左腕を落とす。寄り道だが仕方がない。
+// Except there, he says left _arm_. Inclined to keep it as arm over hand.
+// Update: Ciel uses arm again later as well.
+His left arm, which I sliced off back when we were underground, has regenerated.
+ However, he hasn't used it at all since then.
+ He's probably only managed to reconstruct it in form only―――%{i}functionally%{/i}, that left arm is still dead.
 }
 [sha:35310469bbf145bfa00be9a4ec430b1a93a98d23]{
 -- Page 682, Offset 12667.
 -- ……以上の事から、ヤツにも余力はない。
-...From what I mentioned earlier, he doesn't have much strength left.
+Judging from all that, he can't have much strength left...
 }
 [sha:2c190c333374337582b9d34ac7b1ee53112cdba3]{
 -- Page 682, Offset 12668.
 -- だからこそ確実に、追い詰めた獲物にトドメを刺すため、無理を押して進軍を始めたのだ。
-That's exactly why he forced his body to press forward, in order to finish off his cornered prey.
+That must be why he's now forcing himself to march forward,
+ to come and finish off his cornered prey once and for all.
 }
 [sha:154292aa9b40cdf7b2538742176e68ac48bff3f5]{
 -- Page 683, Offset 12669.
@@ -106,47 +119,54 @@ That's exactly why he forced his body to press forward, in order to finish off h
 [sha:3baf657a54b115c58bf9fdd971c426c335b9b579]{
 -- Page 684, Offset 12673.
 -- 夢!?　夢じゃないですよね!?　バカなんですか貴方は!?　なんでホントに来てるんですか!?　あんなに、あんなに家に帰ってくださいってお願いしたじゃないですか!?」
-A dream?! I'm not dreaming, am I?! Are you an idiot!? Why did you actually come?! Even though I kept telling you to go home!"
+Is this a dream?!
+ I'm not dreaming, am I?!
+ Are you an idiot?!
+ Why did you actually come?!
+ Didn't I explicitly ask you, %{i}beg%{/i} you to go home?!"
 }
 [sha:710da3c4df5498dd26753a75b7ff6a8c4ba1657e]{
 -- Page 685, Offset 12674.
 -- 先輩は倒れたまま目を白黒させて俺を見る。
-Senpai, still sprawled on the pile of debris, looks at me in surprise.
+Still sprawled atop the pile of debris, Senpai stares at me in surprise.
 }
 [sha:b2213b598bbd2e3a6ffa8bee4485576e08a6f48d]{
 -- Page 685, Offset 12675.
 -- 先輩が怒るのはもっともだけど、今はそれどころじゃない。
-It's understandable that she's angry, but now's not the time for that.
+She's well within her rights to be angry, but now's not the time.
 }
 [sha:414e5779d2150cfef20bfee090c5588f585927cc]{
 -- Page 686, Offset 12676.
 -- 「怒るのは後！　ああもう、引っ張りますよ、いいですね!?
-"You can scold me later! Aaah enough, I'm gonna pull you out, okay?!
+"You can be mad at me later!
+ %{i}Ugh%{/i}, that does it, I'm gonna pull you out, okay?!
 }
 [sha:e48871a67c8b3d176541198ffe15491a8c86fe1b]{
 -- Page 686, Offset 12677.
 -- ―――ってうわ、重っ!?　先輩、すげえ重くないですか!?」
-―――W-Whoa, you're heav—?! Senpai, aren't you super heavy?!"
+// Reflowed for more natural EN
+―――W-Whoa, what the—?! Senpai, just how much do you weigh?!"
 }
 [sha:f2c6fed1702d9882cdaaf0298149cea869f4dc58]{
 -- Page 687, Offset 12678. Mods: @k, @e.
 -- 「遠野くんが非力なだけです、平均よりちょっとあるだけです！
-"You're just weak, I'm only slightly above average!
+"I'm only slightly above average. You're just weak, that's all!
 }
 [sha:795e209fe557826568d0b12eacadcaee60f400f1]{
 -- Page 687, Offset 12679. Glued. Mods: @x.
 -- いいから早く逃げて！　貴方は関係ありません、今ならまだ間に合うはずです！」
- Enough, just run away now! This doesn't concern you. If you go now, you should still be able to make it!"
+ Enough, just hurry up and get out of here!
+ This doesn't concern you, and if you run now, you should still be able to make it!"
 }
 [sha:d63b252cef16484fe9a2cb3e81a0662f8f0b377d]{
 -- Page 688, Offset 12680.
 -- 掴んだ手を払おうともがくシエル先輩。
-Ciel-senpai wriggles to swat away the hand gripping her.
+Ciel-senpai attempts to worm her way out of my grasp.
 }
 [sha:71a25d9994d1d7d95c06f8b3926b6ccdd459bdee]{
 -- Page 688, Offset 12681.
 -- その、俺の身を案じての忠告に、
-Her advice was given out of concern for me, and...
+In response to her admonishment, which comes from a place of concern for my wellbeing―――
 }
 [sha:73729a0b3c8838336b503421e9859531b67726b4]{
 -- Page 688, Offset 12682.
@@ -156,7 +176,7 @@ Her advice was given out of concern for me, and...
 [sha:7ef46de41725e3559e851e7bf93b9ea24e7368a5]{
 -- Page 688, Offset 12683.
 -- 今の自分にある、ありったけの気持ちで訊いた。
-I ask, filled with all the emotions I had in me.
+I pose a question that's loaded with all of the emotions I have in me.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 689, Offset 12684.
@@ -166,22 +186,22 @@ I ask, filled with all the emotions I had in me.
 [sha:85a12355e508e0b32afc0f65406a30f5b1a6959b]{
 -- Page 689, Offset 12685.
 -- そう。逃げたら助かるなんて嘘だ。
-Right. It would be a lie to say that I'd be saved if I escaped.
+Exactly. It would be a lie to say that I'll be saved if I run away.
 }
 [sha:9dde7304731b3d87a9cff621ceeebcb1427d5380]{
 -- Page 689, Offset 12686.
 -- 逃げるという選択自体が<負債|ぎせい>を<孕|はら>んでいる。
-The choice of running away itself carries <responsibility|s a c r i f i c e     >.
+The choice of running away itself carries with it a <responsibility|s a c r i f i c e      >.
 }
 [sha:ea2d63cf69c3ade91e30bda43a52240ceafc4673]{
 -- Page 689, Offset 12687.
 -- だいたい、ここで逃げても助かるのは一時だけだ。
-In the first place, running away from here will only spare me temporarily.
+Besides, even if I were to run away here, I'd just be buying time.
 }
 [sha:65f880ba76c575c3e45c8570f55590d075e9225f]{
 -- Page 689, Offset 12688.
 -- あの吸血鬼をここで仕留めないかぎり、何もかもが手遅れになる。
-If we don't take down that vampire right here, it will be too late.
+Everything will be for naught if we don't take that vampire down right here.
 }
 [sha:551548a654490e5702147fba3ad75900443af8ec]{
 -- Page 690, Offset 12689.
@@ -191,72 +211,79 @@ If we don't take down that vampire right here, it will be too late.
 [sha:d6f2ceb817a6c82e263d8884beff35787f98048c]{
 -- Page 690, Offset 12690.
 -- 「そうだろ、先輩。逃げても解決しない。戦うしかない。
-"That's how it is, Senpai. Running away won't solve anything. We have no choice but to fight.
+"That's how it is, Senpai. Running away won't solve anything. I have no choice but to fight.
 }
 [sha:ccec759741d025f0e0e6ee7405910cd9e1822f00]{
 -- Page 690, Offset 12691.
 -- ……さっき、みんなの為に先輩がそうしたように、」
-...Like when you fought for everyone's sake earlier."
+...Just as you fought for everyone's sake earlier."
 }
 [sha:adf1990707550bc0142f2f96395110a97c51f4ff]{
 -- Page 690, Offset 12692.
 -- あの夜。
-Or like that night.
+On that night...
 }
 [sha:a9e0c37b78a54527372f9ef3d9fd6aaca575da7f]{
 -- Page 690, Offset 12693.
 -- この人が俺に“救いはある”と言ってくれたように、
-When she told me that 'I could find salvation'.
+She said that I could still be saved. That's why―――
 }
 [sha:537cd0e169c0aefe11d40620c31e029fc722731c]{
 -- Page 690, Offset 12694.
 -- 「本当の意味で助かりたいのなら、怖くても、ここでアイツを殺さないと」
-"If I really want to survive, then I have to kill him here, no matter how scared I am."
+"If I want to be saved in the true sense of the word,
+ then even if I'm afraid, I need to kill him here."
 }
 [sha:5302c60b557de581d48c6726bfcfaf514ef5713b]{
 -- Page 691, Offset 12695.
 -- ……だって、俺にはそれしかできない。
-...I mean, that's the only thing I can do.
+After all... that's the only thing I %{i}can%{/i} do.
 }
 [sha:c6de9300509b70cad7711b422164b531bf1ae47d]{
 -- Page 691, Offset 12696.
 -- 短絡的に、殺す事しか能がない。
-Put simply, killing is all I'm able to do.
+Put simply, killing is all I'm capable of.
 }
 [sha:c94d5d8905adc1a9bdddf303e9a818ab78915a4f]{
 -- Page 691, Offset 12697.
 -- それでもいい。俺が人殺しである事の償いと、この戦いが無関係でも、それでいいんだ。
-That's fine too. Even if I'll have to atone for the fact that I'm a murderer, that this fight doesn't concern me, this is fine.
+But that's okay.
+ Even if this fight has nothing to do with me atoning for the fact that I'm a murderer, it's okay.
 }
 [sha:ee0330fc43aec8020f1c59b6ad0c0500f076ec01]{
 -- Page 691, Offset 12698.
 -- ……これが殺人鬼である事の証明にすぎなくとも。
-...Even if this only proves that I'm a bloodthirsty killer.
+Even if this only serves to prove that I'm a bloodthirsty killer...
 }
 [sha:e0c7a6e2c0e58f6ca80e3a740f35b0bb81a8ce2c]{
 -- Page 691, Offset 12699.
 -- この後にくるマイナスを殺せるのなら、俺は喜んで、もう一度ヤツの懐に飛びこんでやる。
-If I'm able to kill the negative temperatures coming from behind, then I'll gladly, once more, get closer and strike him at his weak point.
+// マイナス - approaching cold (literal)? Approaching bad time (figurative)?
+I'll happily get up close and personal with that bastard one more time if it means I can kill the cold that's bearing down on us.
 }
 [sha:b22b83954e63a1c8ef61012cf79ef404abc1c514]{
 -- Page 692, Offset 12700.
 -- 「とにかく任せて！　一緒にやらせてくれ、先輩！」
-"Anyway, leave it to me! Let me fight with you, Senpai!"
+"Look, just leave it to me!
+ Let me fight alongside you, Senpai!"
 }
 [sha:a3352d0adbc321aa9f0e268259ffba3dfce0baa9]{
 -- Page 692, Offset 12701. Mods: @k, @e.
 -- 「た、たしかに、遠野くんはヴローヴの腕を切り落としましたけど……
-"C-Certainly, you did cut down Vlov's arm but...
+"I-I mean, you did manage to cut off Vlov's arm, but...
 }
 [sha:f2c25bc706e546c9e070cee4ace4dc3311a9712c]{
 -- Page 692, Offset 12702. Glued. Mods: @x.
 -- い、いえ、ダメです！　だって理由がない！　貴方には、それだけの事をする理由がありません！」
- N-No, no! There's no reason to! There's no reason to go that far!"
+ N-No, absolutely not!
+ There's no reason for it!
+ There's no reason you should have to go that far!"
 }
 [sha:f21b93a1324495a42c4aa9dffef63d72d008667a]{
 -- Page 693, Offset 12703.
 -- それは俺の理由ではなく、この人が俺を酷使する為に必要な理由だった。
-The reason she speaks of isn't my reason to fight. What she needs is a reason to allow herself to exploit me.
+She's not talking about my reason to fight.
+ What she needs is a reason to allow herself to exploit me.
 }
 [sha:e682b270247b06f7a41a46126cf24224dfd04e5a]{
 -- Page 693, Offset 12704.
@@ -266,74 +293,92 @@ The reason she speaks of isn't my reason to fight. What she needs is a reason to
 [sha:25637782a181331449e92f908b725423e38d04d4]{
 -- Page 693, Offset 12705.
 -- この状況でも、まだ俺のようなろくでなしを、守るべきものに見てくれている―――
-Even in this situation, she's trying to protect a good-for-nothing like me―――
+Even in a situation like this, she sees a good-for-nothing like me as someone she needs to protect―――
 }
 [sha:d3c50616ea6da9e663427c612432ebb5794f147f]{
 -- Page 694, Offset 12706.
 -- 「それじゃあご褒美をください！
+// ( ͡° ͜ʖ ͡°)
 "In that case, reward me!
 }
 [sha:bb1140920e616baa445ba58141f1af60382d217b]{
 -- Page 694, Offset 12707.
 -- あいつをやっつける手助けをしたら、したら―――」
-If I assist you in defeating him, then, then―――"
+If I help you finish him off, then, then―――"
 }
 [sha:b51049c2b6d01037ada18758aa2068a3a3083bf5]{
 -- Page 695, Offset 12708.
 -- くそ、咄嗟にそれらしい報酬が浮かばない。
-Shit, I can't immediately come up with a relevant compensation.
+Shit, I can't come up with anything that would make a fitting prize right now.
 }
 [sha:483a3ff9ff9f27d3b7873842483aaa6cb5ca8a3b]{
 -- Page 695, Offset 12709.
 -- ご褒美？　そんなの、いま目の前にあるものしか思いつかない。
-A reward? I can only think of what's in front of me now.
+A reward? All I can think about is what's in front of me right now.
 }
 [sha:138263cd2c72adba5fc6374d82b2fc092b63b999]{
 -- Page 695, Offset 12710.
 -- 正直言うとさっきから興奮して仕方がない。健全な男子として、こんな瑞々しい肢体を見せられて欲情しない筈がない。
-Honestly, I've been incredibly aroused for quite a while. It's not surprising that a healthy boy like me feels desire when presented with such a succulent body.
+// Shiki don't be horny on the battlefield challenge (impossible)
+If I'm being honest, I've been incredibly aroused for a while now.
+ I can't help it―――what kind of healthy young man %{i}wouldn't%{/i} get a little hot under the collar when presented with such a voluptuous body?
 }
 [sha:d867cac7ee25be99dd5609c7e7fe9bb5c4345a44]{
 -- Page 696, Offset 12711.
 -- この体をどうしたいとか、そんなコトならいくらでも思い浮かぶ。でもきっと台無し、何もかも台無しだ。そもそもワンパンでおしまいだ。
-// I'm not sure I correctly understand そもそもワンパンでおしまいだ
-Thinking of what I'd do to that body, I can think of lots of things. But that'd destroy everything. Everything would be ruined. In the first place, I'll have one go, and it'll be over.
+// Does 'one pump chump' seriously transcend language barriers lmao
+// Also this page is TIGHT
+What would I like to do with that body?
+ I can think of all sorts of things.
+ But that'd only spoil it.
+ I'd ruin everything.
+ One brief moment of ecstasy, then nothing.
 }
 [sha:c7e3b18cd971ca79de05c1aae879f65dfa56819c]{
 -- Page 696, Offset 12712.
 -- となると控えめにメアド交換か？　フレンド登録か？　なんだそれバカらしい、いつでも出来るじゃないかまったくバカらしい本当にバカらしい！　でもおかしくて口元が緩んでしまう、うん、大層な理由よりこっちの方がずっといい。だって、俺はこの人が大好きだ。放っておけないからここにいるんだ。だから吸血鬼が迫ってくるこの状況でも、先輩との“この後”を考えるのは、何もおかしいコトじゃない……！
 // im going to kill myself
-Then, maybe something more tame like exchanging emails? Or a friend request? What am I thinking, how dumb, I can do that any time, how stupid, how absolutely idiotic! But strangely I find myself smiling, yes, it's surely better than finding some important reason. I love her. I'm here because I can't leave her be. That's why even though Vlov's coming, There's nothing strange in thinking about 'what's next' for us...
+// Man gets one glimpse under the armor and brain is _instantly_ turned to soup
+Then, something more tame, like exchanging emails?
+ Or a friend request?
+ What am I thinking―――that's dumb, I could already do that whenever, how stupid, how absolutely idiotic!
+ But strangely, I find myself smiling...
+ Yes, this is way better than some grandiose request.
+ I mean, I love her.
+ I'm here because I just can't leave her be.
+ That's why even though Vlov is bearing down on us,
+ there's nothing wrong with thinking about 'what's next' for us...!
 }
 [sha:85ab5ecf748cf14d2f1b2b356a407a2f19169922]{
 -- Page 697, Offset 12713.
 -- 「決まった！　今度、先輩の弁当を分けてください！　それで手を打ちます！　あ、もちろん手作りで！」
-"I've decided! Next, I want a bite of Senpai's bento! It's a deal! Ah, hand-made of course!"
+"I've decided! I'll have a bite of Senpai's bento! It's a deal! Ah, handmade of course!"
 }
 [sha:5abe031831090ae60dd8c000b1e8ae2b78127822]{
 -- Page 697, Offset 12714.
 -- 「は、はぁ!?　ででででもわたし、料理なんていっこぐらいしか作れません！」
-"Ha... haa!? B-B-B-But there's only one thing I can make!"
+"Wha―――Whaaa?! B-B-B-But, there's only one thing I know how to make!"
 }
 [sha:f3927b656e33ae5c1a04349e65d96aad1208245b]{
 -- Page 697, Offset 12715.
 -- 「うん、じゃあそれで！　取っておきっぽくていいですね！」
-"Hmm, then that one! It's nice to have a dish you really like!"
+"Great, I'll have some of that then!
+ I look forward to having some of whatever it is you like that much!"
 }
 [sha:bfb1dc7e68541154f1f74458c621012ae3765642]{
 -- Page 698, Offset 12716.
 -- 明確な作戦、効果的な奇策はない。
-There's no clear plan and no effective clever scheme.
+This isn't some brilliant master plan, nor do I have any clever tricks up my sleeve.
 }
 [sha:dccfc1bcedfb18e91165dd88fd376bb833da0e80]{
 -- Page 698, Offset 12717.
 -- 早口なのはこれ以上時間がないと判断しただけだ。
-I'm talking fast because I know there's not much time left.
+I'm just talking this fast because I know there's not much time left.
 }
 [sha:0ff58269e97acb2c4e8397fde81bec8aa7fa90bd]{
 -- Page 699, Offset 12718.
 -- 先輩から視線を切ってヤツに意識を集中する。
-I turn my eyes away from Senpai and focus on the vampire.
+I tear my eyes away from Senpai and turn to focus on the vampire.
 }
 [sha:1df3cdc41d3b6bc7636fb2f995fb3c0ba1ee47b7]{
 -- Page 699, Offset 12719.
@@ -343,7 +388,7 @@ From here on, I'll simply use my eyes for her sake.
 [sha:0cb279c8baf44a8089b5a1ba7ebd3899d1fa31b0]{
 -- Page 699, Offset 12720.
 -- ……そう決意した時、緊張で震える手を、後ろから握られた。
-...As I make up my mind, my hand, trembling from nervousness, is grabbed from behind.
+Just as I make up my mind, someone grasps my nervously trembling hand from behind.
 }
 [sha:b9b51dd2383455c0fd691537259673f4151f666d]{
 -- Page 700, Offset 12721.
@@ -353,7 +398,9 @@ From here on, I'll simply use my eyes for her sake.
 [sha:7fbfe825ccb5dc12111bafcfd459f1ea96249542]{
 -- Page 700, Offset 12722.
 -- 「…………二つ、必ず守ってください。吸血鬼の正面には立たないで。背後に回る事に専念する」
-"......There are two things that you must absolutely keep in mind. Don't stand directly in front of him. Concentrate on getting behind him."
+"...I have two things I want you to take to heart:
+ Don't stand directly in front of a vampire.
+ Concentrate on getting behind him."
 }
 [sha:bf354fa740aa9b68c0b2d982739f7490cc42d03e]{
 -- Page 700, Offset 12723.
@@ -363,7 +410,8 @@ From here on, I'll simply use my eyes for her sake.
 [sha:20ddbfd44ddf34aa09d228730ec43f0fa3d6d50a]{
 -- Page 701, Offset 12724.
 -- 「私の事は何があっても考えないように。もう言うまでもありませんが、鉄みたいに頑丈ですから」
-"I don't want you to think about me, whatever may happen to me. You've already seen it, but I'm as tough as iron."
+"No matter what happens, I don't want you to worry about me.
+ As you may have gathered, I'm as sturdy as iron."
 }
 [sha:c887194395425b84d8f061be9f7aea20760a9136]{
 -- Page 702, Offset 12725.
@@ -373,7 +421,7 @@ There was a hint of embarrassment and self-derision in her voice.
 [sha:7a3490c39da882947287aeefe981256a7e27d24f]{
 -- Page 702, Offset 12726.
 -- ……浮ついていた感情が仕舞われる。
-...My warm fluttering emotions vanish.
+My giddy emotions are brought back down to earth...
 }
 [sha:ec97688b2892b1479884e8aad216f89abca2ae08]{
 -- Page 702, Offset 12727.
@@ -383,6 +431,7 @@ I berate myself for having said such things to Senpai.
 [sha:1ca6d65c0a059642d8a51b3c8613f92fde75a764]{
 -- Page 702, Offset 12728.
 -- 頷いて先輩の手を放す。柔らかな感触が名残惜しい。
+// Down atrocious
 Nodding, I let go of her hand. I already miss her soft touch.
 }
 [sha:3d3e90191e688800997a7e27270beb45ba563d4d]{
@@ -393,7 +442,7 @@ I move away from Senpai.
 [sha:ed6a5b9477f541abb9ac601ccbeefc6be25a4df3]{
 -- Page 703, Offset 12730.
 -- 彼方から歩み寄る吸血鬼と対峙する。
-I face the approaching vampire coming from the other side.
+I confront the vampire approaching us from across the crater.
 }
 [sha:25ad60a75398f265b9b62e242c6fb80090d964b4]{
 -- Page 703, Offset 12731.
@@ -403,48 +452,50 @@ The massacre at the hotel. The hell of the catacombs.
 [sha:be29d2c20cf82ca03ce45ef79be37462482b654c]{
 -- Page 703, Offset 12732.
 -- それらの光景を思い返し、殺し合いの原動力にしようとする思考を止める。
-Recalling those scenes, I stop thinking about the reasons that led to this battle to the death.
+I put a stop to my thoughts,
+ which are trying to dredge up those memories as fuel for our upcoming battle to the death.
 }
 [sha:00dfa4e2cd8d80093eadc0ba3f97df0a8aa3a9ae]{
 -- Page 704, Offset 12733.
 -- 満足に活動できるのはせいぜい１分。
-My body will be able to operate at a satisfactory level for a minute at best.
+My body will only be able to operate properly for a minute at most.
 }
 [sha:3aad71a0bcc0c19206c2834eca9f82f01bfe708f]{
 -- Page 704, Offset 12734.
 -- その間、人間らしい感情はすべて捨てる。
-In the meantime, I will discard all human-like emotions.
+For that minute, I will discard all human-like emotions.
 }
 [sha:03313db7a3cc147ccbbfd472ab2e91df56c1242b]{
 -- Page 704, Offset 12735.
 -- 恐怖も高揚も後にする。
-I will leave behind both fear and exaltation.
+I will leave behind both fear and fervor.
 }
 [sha:a12f6c55a684dec94df13a13e7640b6d36f12513]{
 -- Page 704, Offset 12736.
 -- ―――今から。
-―――From now on.
+―――From this point on.
 }
 [sha:475eab51d17c5d8daf26bf4633226b5ae47516bb]{
 -- Page 704, Offset 12737.
 -- 俺は、死を視るだけの機械になる。
 // Now I am become Death, the destroyer of worlds
-    I have become a machine that solely sees death.
+I'll become a machine that does nothing but see death.
 }
 [sha:194b7e1fd53c0f897482cd3e194e66126eb32e5f]{
 -- Page 705, Offset 12738.
 -- 改めて思う。
-I think anew.
+// Reading this as 思う(3) to judge; to assess; to regard;
+I reexamine him anew.
 }
 [sha:37a3ef438a857f3195fe14e0823f09a6295b3d7a]{
 -- Page 705, Offset 12739.
 -- 強靭な命の輝きは、それこそ<瞬|またた>く星のようだと。
-The radiance of an unyielding life is just like that of a twinkling star.
+The radiance of his unyielding life is like that of a twinkling star.
 }
 [sha:3c55dca089bb7c23fd24e39dfac01fd07d379d42]{
 -- Page 706, Offset 12740.
 -- ……はじめて、ヤツと視線が合った。
-...For the first time, I meet his gaze.
+For the first time... I meet his gaze.
 }
 [sha:e745279a024c8ed3047d929976ac0114dbfcee23]{
 -- Page 706, Offset 12741.
@@ -454,22 +505,24 @@ Vlov is paying attention to me.
 [sha:a54c47ebb6cce67f04a8fbcd01c616906c77a186]{
 -- Page 706, Offset 12742.
 -- 地下での戦いで、ヤツは俺が“脆弱だが毒を持つ危険物”と理解した。故に無視する事はない。
-During the battle underground, he understood that I was 'a weak but dangerous poison'. He is, thus, paying me heed.
+During the battle underground, he realized that I'm a 'fragile but venomous threat'.
+ As such, he can't afford to ignore me.
 }
 [sha:094fd3c47ec77d03523df7da59e393ba8a897e33]{
 -- Page 706, Offset 12743.
 -- ふと、今なら会話が成立するかもしれない、なんて、人間的な希望が生まれもした。
-Suddenly, I feel a human-like hope that a dialogue may now be possible.
+Maybe now, it would be possible for us to establish a dialogue...
+ I'm suddenly struck by such a hopelessly human sentiment.
 }
 [sha:fd9a9a5b7114a44ac3110b4636c0b8f283166f4c]{
 -- Page 707, Offset 12744.
 -- だが相互理解は必要ない。
-But mutual understanding is not needed.
+But there's no need for us to understand one another.
 }
 [sha:f5806f4913ed8588bc4bc0ced77e2fe44e7eb524]{
 -- Page 707, Offset 12745.
 -- 俺はヤツを生き物と見なさない。
-I don't see him as a living being.
+I don't even see him as a living being.
 }
 [sha:eea7b9de11d71b897368985079947cb3a7eca17e]{
 -- Page 707, Offset 12746.
@@ -479,7 +532,7 @@ Similarly, he only sees me as an object.
 [sha:e660c744545d7dc9dd71a6acf6e6ed8e109dd866]{
 -- Page 707, Offset 12747.
 -- これ以上ないほど対等だ。
-We couldn't be on a more even footing.
+We're on exactly the same page.
 }
 [sha:3da5b01b899945314e1e621a4561036684ccae2b]{
 -- Page 707, Offset 12748.
@@ -489,7 +542,7 @@ We already understand each other plenty.
 [sha:ac8f75b7af010ab460c2cb7f8f068f6313cbf06a]{
 -- Page 708, Offset 12749.
 -- たった40メートルの間合いを走る。
-I run across the barely 40 meters separating us.
+I begin to sprint across the mere forty meters that separate us.
 }
 [sha:6df377f83eb88e2582915199f93ea5b35278ad2b]{
 -- Page 708, Offset 12750.
@@ -499,17 +552,18 @@ Our last tryst was all too short.
 [sha:fd36d1655669f4e9d455609b8d9486cb5aee86bb]{
 -- Page 708, Offset 12751.
 -- 時間にして４秒。呼吸にして２回の刹那。
-Four seconds. The instant of two breaths.
+Four seconds. Two short breaths.
 }
 [sha:0ff2dd6b554814d1cccac1bf657f3cbefd8eec1a]{
 -- Page 709, Offset 12752.
 -- 放たれた氷塊は俺を無視して過ぎていった。
-The ice blocks he shoots ignore me and pass by.
+The ice spears he fired breeze right past me.
 }
 [sha:3fd703ca180cc8486c7ae7a26aed2c3c5c34f94f]{
 -- Page 709, Offset 12753.
 -- 的確だ。ヤツは接近する俺より先に、疲労している先輩にトドメを刺した。
-Exactly. Before dealing with me, who is closing in, he chose to finish off the exhausted Senpai.
+It makes perfect sense.
+ Senpai is already exhausted, so he chose to finish her off before he has to contend with my approach.
 }
 [sha:4682c73059c95a3cedcc5ffc6a45fcea07be08ba]{
 -- Page 710, Offset 12754.
@@ -519,27 +573,27 @@ Exactly. Before dealing with me, who is closing in, he chose to finish off the e
 [sha:93cb5e88813839dd80d058219d28673da43e3347]{
 -- Page 710, Offset 12755.
 -- その余裕はない。歯を鳴らしてヤツの間合いに踏みこむ。
-I don't have that luxury. Gritting my teeth, I advance further toward him.
+I don't have that luxury. Gritting my teeth, I set foot within his reach.
 }
 [sha:5bff9381442e43350a85a57d7bbf0477636ae605]{
 -- Page 711, Offset 12756.
 -- ナイフと槍。
-Knife and spear.
+Knife and lance.
 }
 [sha:28b1799510d22099bdf1e307f38d19761dfda779]{
 -- Page 711, Offset 12757.
 -- 得物のリーチは比ぶべくもない。
-The range of the two weapons can't even be compared.
+You can't even compare the range of our weapons.
 }
 [sha:f2cafbe60e36c15b0318735ac1b1b6a7ee2df2af]{
 -- Page 711, Offset 12758.
 -- 俺がヤツの“線”を通すには、この初手をくぐり抜けなければならない。
-If I want to cut his lines, I'll have to slip through this first.
+If I want to cut his lines, I'll have to slip past his opening salvo first.
 }
 [sha:29fd7186c1c61c15c88e3225fd2df49f1db5fbc9]{
 -- Page 712, Offset 12759.
 -- 人間を超越した筋力で撃ち出される一撃。
-A blow dealt with a physical strength far above that of humans.
+A thrust propelled by physical strength far beyond what humans are capable of.
 }
 [sha:6de2f9c2918582b85ef7d8d76c7e7866bf2091e1]{
 -- Page 712, Offset 12760.
@@ -554,17 +608,19 @@ I don't know how, but that guy is no longer the vampire I knew.
 [sha:b42d820b917f475902e724c5822d5c1e14dd7ccc]{
 -- Page 713, Offset 12762.
 -- 眼に光がある。切っ先に合理と経験がある。あふれだす暴力に頼るだけだった愚鈍さが、その身体から抜け落ちている。
-Light has come back to his eyes. His sword tells of his rationality and experience. The dullness that relied only on overflowing brute force has left his body.
+There is a glint in his eyes.
+ His rationality and experience shine through in the point of his lance.
+ He has cast off the stupidity that caused him to rely on nothing but overwhelming brute strength.
 }
 [sha:03fba19c19ab441a43df39ed93ac1063df02e956]{
 -- Page 713, Offset 12763.
 -- つまり。
-In other words.
+In other words―――
 }
 [sha:b3370ca942b3425c520a61378f84e954eb1eae61]{
 -- Page 713, Offset 12764.
 -- 俺同様、生存に死力を尽くす、単純な生き物がここにいる。
-Here is simply a living creature desperately fighting for its survival, the same as me.
+He's just like me. He's simply a living creature desperately fighting for its own survival.
 }
 [sha:382b97ba4908b28f671007c108284180fd0d7df7]{
 -- Page 714, Offset 12765.
@@ -574,17 +630,17 @@ Here is simply a living creature desperately fighting for its survival, the same
 [sha:6d42f64570fc1d7b420dd4f1d8935f2422c39931]{
 -- Page 714, Offset 12766.
 -- もっとも。
-Of course.
+However.
 }
 [sha:5e30f326e48586d52364bc7c9b959cacc9e3bea2]{
 -- Page 714, Offset 12767.
 -- 俺の心臓を貫く一撃は、後方からの一撃で弾かれた。
-The blow, that is about to pierce my heart, is deflected by another one coming from behind me.
+His attack, which is about to pierce my heart, is deflected by a blow that comes from behind me.
 }
 [sha:9d2c9cb3ab0b55679b5c48da32e99cfd2f132e9a]{
 -- Page 715, Offset 12768.
 -- 俺たちが単一機能の生き物なら、あの女は才能の複合体だ。
-If we are single-function organisms, then she is a composite body of talents.
+If we're single-function organisms, then she's a cornucopia of talents.
 }
 [sha:48bf1a296d7219c07964f1f72868a58edfa7a922]{
 -- Page 715, Offset 12769.
@@ -594,32 +650,36 @@ Having put my faith in her, I instinctively know.
 [sha:b29788ebdd31388cc689323dddbbc03bcccc5c0f]{
 -- Page 715, Offset 12770.
 -- あの女の<性能|スペック>は、俺たちを重ねてもまだ上回ると。
-In terms of specs, that girl is ahead of both of us, even if we were put together.
+Even if you were to stack Vlov and me on top of each other,
+ we still wouldn't measure up to her in terms of raw ability.
 }
 [sha:3e36d94e189655d165488154020f5beadf14bdea]{
 -- Page 716, Offset 12771.
 -- そして、１分間の絶頂が始まった。
-And then, the one-minute climax began.
+// And here I thought we were done dunking on Mr. ワンパン
+And so, the one-minute climax begins.
 }
 [sha:194eada9cb71ed7aa4cf7f9d2a8050387815398f]{
 -- Page 716, Offset 12772.
 -- 正面から打ち合う女と吸血鬼。
-The vampire and the girl, exchanging blows head-on.
+The girl who exchanges blows with the vampire head-on.
 }
 [sha:3775ee6befbc0480e300e048a109bc92f99fa53e]{
 -- Page 716, Offset 12773.
 -- 背後に回る<小兵|こひょう>の一刺し。
-The small-bodied thorn going around the back.
+// Some liberty here with 'little soldier'
+The thorn that pricks at him from behind.
 }
 [sha:9fb8c97996e6271b88569a4d3b2bc23acf2cc17f]{
 -- Page 716, Offset 12774.
 -- 騎士は決して背中を見せず、二体の敵を視界に収めながら立ち回る。
-The knight moves about while keeping his two opponents in his field of vision and without ever exposing his back.
+Careful never to expose his back,
+ the knight twists and turns to keep his two opponents within his sight.
 }
 [sha:b1acff89cd33fe046994a24c9f976fd89ce0de33]{
 -- Page 717, Offset 12775.
 -- 踊るような刃の交わり。
-A dancing interplay of blades.
+A ballet of blades.
 }
 [sha:879d970a6787cdc84187404b700f33e52efaa6dc]{
 -- Page 717, Offset 12776.
@@ -629,28 +689,32 @@ Like a symphony played with the most superb of techniques.
 [sha:3c0e03dcb6d1ffa183ad48dbe29a5de1bf4dfbce]{
 -- Page 717, Offset 12777.
 -- 回転するギロチンの刃。その隙間をかいくぐるナイフの一撃。それらを同時に弾きながら、的確に<連携|れんだん>の急所を突く氷の槍。
-// Musical metaphor, 弾く also means playing the piano
-The revolving guillotine-blade. The strike of a knife slipping through its gaps. The ice spears, simultaneously brushing them off and precisely striking the weak point of their <coordination|p i a n o  f o u r  h a n d s  >.
+// Musical metaphor, 弾く also means playing the piano -> plink (to snipe, but also to play the keys)
+The whirling guillotine blades.
+ The strike of the knife that slips through the openings they create.
+ The ice spears that plink away each of them at the same time,
+ while also accurately needling at the weaknesses in their coordination.
 }
 [sha:38a4412af97057cee075583b957263580c50e987]{
 -- Page 718, Offset 12778.
 -- “ッ―――、ァ―――………！”
-'%{i}Ugh――― ah―――%{/i}!'
+// Pretty sure this is breathing sfx - I read it as breathing in/out, but 'hooh, haah' just sounds incredibly dumb
+'%{i}Haa―――haa―――%{/i}!'
 }
 [sha:71d3661158e690ed23095c7b9d19a1514563a6c0]{
 -- Page 718, Offset 12779.
 -- 急造でありながら俺たちの息は合っている。
-However improvised this is, we are working in sync.
+It may be a hasty arrangement, but we're perfectly in sync.
 }
 [sha:a25098ec915e515199c91e609608ef4fe0d19b3e]{
 -- Page 718, Offset 12780.
 -- 女は俺が陰になるように立ち回り、
-She is moving so that I can stay in her shadow.
+She's moving around so that I can stay in her shadow.
 }
 [sha:3850b7cb3f19e483a1236b88e18df81ec21c3d67]{
 -- Page 718, Offset 12781.
 -- 俺は女の可動範囲に入らないよう足を滑らせる。
-I am gliding so as not to be inside her range of movement.
+I'm shifting my feet around so as not to enter her range of motion.
 }
 [sha:12253b154f7ad0d3dd6ce9127eb223cd97036c9a]{
 -- Page 719, Offset 12782.
@@ -660,38 +724,38 @@ A neck and neck battle.
 [sha:fe37aaff8fdb793f83334666ba6dd62aff7ce1c4]{
 -- Page 719, Offset 12783.
 -- 際限なく上昇するボルテージ。
-The voltage rises without end.
+// Keeping the spirit of ボルテージ
+The tension is electric, and rising.
 }
 [sha:fd2ebc88d8cb23e7f459bcc13311510094ef3d00]{
 -- Page 719, Offset 12784.
 -- １秒ごとに凝縮していく集中。
-The focus heightens every passing second.
+With each passing second, our focus grows more intense.
 }
 [sha:8ce5a62492e21c6cc4e64cdfaeea8a5bf95adc64]{
 -- Page 719, Offset 12785.
 -- 俺にとって敵を殺すという事は、敵を<視|み>続けるという事。
-For me, killing the enemy means I have to continue keeping my sights on him.
+For me to kill an enemy, I have to keep my eyes locked onto them.
 }
 [sha:6b20f9382e25527cf1efb684b01024f1cc9387e7]{
 -- Page 720, Offset 12786.
 -- なんて目映い。
-How dazzling.
+It's so dazzling.
 }
 [sha:1ea84d30f4e8b29d70d0d03df419d2c54606e72b]{
 -- Page 720, Offset 12787.
 -- かつてここまで一つの“死”を視続けた事はない。
-I've never once until now kept looking at one single 'death'.
+I've never stared so hard at a single 'death' like this before.
 }
 [sha:4d2d297f435998dcd14eee2cde23c8aff57991b1]{
 -- Page 720, Offset 12788.
 -- ―――その果てに
-―――As a result.
+As a result―――
 }
 [sha:cde535209469dc2439a9c025dab81262659d1770]{
 -- Page 721, Offset 12789.
 -- <原理|ひかり>を<知覚|み>た。
-// looks bad with spaces lint-off:LintUnspacedRuby
-I <see the light|understand  his  principle>.
+I <understand his principle|s e e  t h e  l i g h t        >.
 }
 [sha:1565205c97f315fa08da387cf6b6b0ea086c4e12]{
 -- Page 721, Offset 12790.
@@ -701,7 +765,8 @@ A thing that can never be understood.
 [sha:8a08e98afb8cc6416cf044eba6980e1b71c27c67]{
 -- Page 721, Offset 12791.
 -- 言語、記録で理論を構築する思考形態では見えないはずの、光を見た。
-I see the light. The light that shouldn't be visible to a form of thought that contructs theories through record-keeping and language.
+A light that shouldn't be able to be perceived with the same patterns of thought that build theories through language and documentation.
+ But I see it.
 }
 [sha:deea10d94be1e7c0f7eb4f0e6a7141550c12b896]{
 -- Page 721, Offset 12792.
@@ -711,7 +776,7 @@ Death is the most fundamental basis shared by all of creation.
 [sha:61dc125e53a5d3c39ecf45c85cf1e1148032778e]{
 -- Page 721, Offset 12793.
 -- それを極点にして、知覚のピントが、あったのだ。
-With that as its extreme point, here lies the Focality of perception.
+At that singularity, there exists a focality of perception.
 }
 [sha:b6eaad309fb7ede4fc3933435807a4bb1db62a34]{
 -- Page 722, Offset 12794.
@@ -741,7 +806,7 @@ It was the memory of treason.
 [sha:71c24dfb0d6a3d6a0aca81ad5a8da3f87e9cd192]{
 -- Page 722, Offset 12799.
 -- 即ち、ひとりの騎士の結末だった。
-It was, in other words, the finality of a knight.
+It was, in other words, the fate of a knight.
 }
 [sha:e0881c7bc33742e94ad2c48c298d4490995571e4]{
 -- Page 723, Offset 12800.
@@ -751,32 +816,35 @@ He was falsely accused and forced to leave his country. He lost his homeland to 
 [sha:b8d710cc0eaefa8fadee3039f53f449ca379e6af]{
 -- Page 723, Offset 12801.
 -- 流刑の地はこの世の果てだった。
-He was exiled to this corner of the world.
+He was exiled to a forgotten corner of the world.
 }
 [sha:96227f7516047e3d5e6a4ff9e34373bed1530159]{
 -- Page 723, Offset 12802.
 -- 人の住めぬ極寒の海だった。
-It was an uninhabitable sea of freezing cold.
+To an ice-cold and uninhabitable sea.
 }
 [sha:9fdfe1ad51489bb9a002520a26247b25cd299957]{
 -- Page 723, Offset 12803.
 -- 絶海に置き去りにされ生き続けるしかなかった。
-Left behind in the most distant of seas, he had no choice but to continue living.
+Cast adrift on this distant sea, he had nothing left but to go on living.
 }
 [sha:1b98d14eb9df9ca0e4f12605d8f238f529d8f929]{
 -- Page 723, Offset 12804.
 -- 寒さしかなかった。
-There was only the cold.
+Nothing left but the cold.
 }
 [sha:cfebf0e07845538bedfe3e21fc3f727b9173e2c1]{
 -- Page 723, Offset 12805.
 -- 痛みしかなかった。
-There was only the pain.
+Nothing left but the pain.
 }
 [sha:f56404a232980e5f860e44aaa8a97acdea08b54e]{
 -- Page 723, Offset 12806.
 -- 朽ち果てた男を救ったものは、人間からも<死徒|なかま>からも逃げ出した、朽ち木のような女だった。
-What saved him from complete decay was a woman, like a rotting tree, who had run away from humans and <Dead Apostles|h e r  f e l l o w s    >.
+// 朽ち果てる and 朽ち木 carry similar 'fall into ruin', 'die in obscurity' meanings
+It was a woman who had run away from both humans and <Dead Apostles|h e r  f e l l o w s     >,
+ who was herself languishing in obscurity,
+ that saved him from crumbling completely.
 }
 [sha:270b14e6ddaf3024e1ead41d8115c7acb58c6bda]{
 -- Page 724, Offset 12807.
@@ -786,7 +854,10 @@ There was a brief spring.
 [sha:2591a7391c55c6448c9f5b65e3ef97b8421e5d42]{
 -- Page 724, Offset 12808.
 -- 男は雪原に咲く花を愛し、鳥を愛し、歌うように人を殺した。
-He loved the flowers blooming in the snowfield, loved the birds, and killed people as if to sing.
+He loved the flowers that bloomed in the snowfields,
+ he loved the birds,
+ and as though to sing their praises,
+ he killed people.
 }
 [sha:6a76b3e593c048ed63250d81c331de3ed2704d9e]{
 -- Page 724, Offset 12809.
@@ -796,7 +867,7 @@ He also acquired ten wives to console him.
 [sha:97a15cd067de6c0fa4e8b1c839f6c0695b654312]{
 -- Page 724, Offset 12810.
 -- 主君への忠誠も、決して溶けぬ氷壁と同義だった。
-His loyalty to his lord was like an ice wall that would never melt.
+His loyalty to his liege was like an ice wall that would never melt.
 }
 [sha:076ea2d5b777e66336c59afb30541c6fcb7bc89b]{
 -- Page 725, Offset 12811.
@@ -806,47 +877,51 @@ However, the pain carved into his soul could never be healed.
 [sha:f49f578ae8868927e5d581f64c0b4eb285bec253]{
 -- Page 725, Offset 12812.
 -- 寒さという名の乾きには抗えなかった。
-He could not resist the dryness they call 'coldness'.
+// 乾き short form dict entry is 'dryness', but it can also be parched / thirsty.
+// Rendering as thirst here, since I think that's consistent with the cold being a thirst for warmth (blood)
+He could not resist the thirst we call 'the cold'.
 }
 [sha:5114377c90e2c5bff9e5968a57afa12b88627f18]{
 -- Page 725, Offset 12813.
 -- 男は、寒さから逃れる為に、騎士である事を放棄した。
-He abandoned knighthood in order to escape the cold.
+To escape that cold, he abandoned his own knighthood.
 }
 [sha:8704a23524b509269ef07dcfdc6c4c0634e35e54]{
 -- Page 725, Offset 12814.
 -- <拐|かどわ>かされたとはいえ。
-Even though he was deceived.
+// Is this literal? If there's no lore point on this it feels more figurative to me (hostage to his desires)
+Even though he had been taken prisoner―――
 }
 [sha:759c237218199e7b8b6aa4657904bcdeaa2eb59a]{
 -- Page 725, Offset 12815.
 -- 唯一の陽差しを、自らの手で閉ざしたのだ。
-His only sunshine, he closed off with his own hands.
+He blocked off his only ray of sunshine with his own hands.
 }
 [sha:e71dc0086e611328c336b1abc720477decc34fdc]{
 -- Page 726, Offset 12816.
 -- それがこの男だ。
-That is what this man is.
+That is this man's nature.
 }
 [sha:744865aba7789116c39d45083f95bf8ecbd09246]{
 -- Page 726, Offset 12817.
 -- ヴローヴと<銘|な>を受けた吸血鬼だ。
-That is the vampire who received the name of Vlov.
+That is the vampire who bears the name Vlov.
 }
 [sha:40271ddac66e05b513cee6d2d7bb2555e0dc3a16]{
 -- Page 726, Offset 12818.
 -- その本質は寒さと裏切り、漂流と悔恨。
-His whole being is coldness and treason, drift and regret.
+His very essence consists of coldness and treason, of forsakenness and regret.
 }
 [sha:4e1f59e8f0679abbbaa153fc6b776840614c107c]{
 -- Page 727, Offset 12819.
 -- ああ―――これなら殺せる。
-Ahhh―――If so, then I can kill him.
+%{i}Ahhh%{/i}―――With this, I can kill him.
 }
 [sha:8ff8f7bcc000a44587277f258a67d0b9d714d4ce]{
 -- Page 727, Offset 12820.
 -- 言葉にできる原理なら、それは人間の範疇だ。
-If I can put his principle into words, then it is in the realm of humans.
+If I can put his principle into words,
+ then it exists within the realm of humans.
 }
 [sha:912338165ba2a81e5298fbf3d411e74130eb5b6d]{
 -- Page 727, Offset 12821.
@@ -856,28 +931,31 @@ Rejoice, vampire.
 [sha:4c59503d5a2d03c44fe6f66448ee4475093220c8]{
 -- Page 727, Offset 12822.
 -- 俺は今こそ、おまえを完全に殺してやれる。
-Right now, I can completely and utterly kill you.
+For as of this moment, I can completely and utterly kill you.
 }
 [sha:725f30a522714e5482131a0f1fb8e945a47d95e9]{
 -- Page 728, Offset 12823.
 -- 星の内海、ソラを覆う天蓋は謳う。
-// not ruby in jp, but sky might possibly be changed or rubied with cosmos, since sora is in katakana
-The Inner sea of the Planet, the canopy covering the <sky|c o s m o s  > applauds.
+// Translated consistently with offset 32647 - <虚|ソ><空|ラ>を覆う<天蓋|てんがい>よ
+The Inner Sea of the Planet,
+ the firmament that seals off the cosmos,
+ makes a proclamation.
 }
 [sha:cd35a9491a537d4b16a0ad23f741d202a80ecff3]{
 -- Page 728, Offset 12824.
 -- 祖に呪いあれ。
-Curse upon the Ancestors.
+A curse upon the Ancestors.
 }
 [sha:bf334d8300573aeb836258496ae56ad874fa4810]{
 -- Page 728, Offset 12825.
 -- 人の世に呪いあれ。
-Curse upon the world of Man.
+A curse upon the world of Man.
 }
 [sha:7016588f4c45da8e8ffac835de88a1f61ba6bc5d]{
 -- Page 728, Offset 12826.
 -- いまだ原理は定着せず。この星の<礎|いしずえ>はあまりに脆い。
-The principle has not yet taken hold. This planet's foundation is far too brittle.
+The Principle still has yet to take root.
+ This planet's foundation is far too brittle.
 }
 [sha:aba520a412339e7ce1a38c7198a3aecd16231d8f]{
 -- Page 729, Offset 12827.
@@ -887,19 +965,18 @@ The principle has not yet taken hold. This planet's foundation is far too brittl
 [sha:876479820bbfe40d5dcdfaa8e1652eb996f708e0]{
 -- Page 729, Offset 12828.
 -- 炎のような殺気に肌が焼かれる。
-My skin is burned by his flame-like bloodlust.
+His scorching bloodlust singes my skin.
 }
 [sha:3a8df27ddddb56d45787b68511dab4f64cf53e4d]{
 -- Page 729, Offset 12829.
 -- 接続しかかっていた意識が戻る。
-// Connect to what? I suppose to what was 'speaking' the previous page, but is also left vague.
-My consciousness, that was about to connect, returns.
+The link my consciousness had formed is severed, and I return to my senses.
 }
 [sha:bc1645fc4243eb6017cd1a832451ce08d0e46f80]{
 -- Page 730, Offset 12830.
 -- 「“おれの、何を視た…………！！！！！！！！！！！”」
 // Eleven !
-"What did you see, my......!!!!!!!!!!!"
+"What of mine did you see......!!!!!!!!!!!"
 }
 [sha:5ff5186c25640ca1fd23455c4e0a41abc0af7dd3]{
 -- Page 730, Offset 12831.
@@ -914,15 +991,18 @@ I hear a voice.
 [sha:e414f8761f639c92da9aa4d74463b9615193c1cf]{
 -- Page 731, Offset 12833.
 -- 視線を向けるだけの体力がない。
-I don't even have the strength to turn my gaze.
+I don't even have the strength to look over.
 }
 [sha:e2abd9a0333bc0537ba3001f5bb276837432be5a]{
 -- Page 731, Offset 12834.
 -- なんて不覚。夢中になりすぎた。酸素不足で目眩がする。
-What a blunder. I was far too entranced. The lack of oxygen is making me dizzy.
+This was a huge blunder.
+ I became far too entranced.
+ I'm so starved for oxygen that I feel faint.
 }
 [sha:581798fe854409424a820b3dbddafaee3ce2cdf4]{
 -- Page 731, Offset 12835.
 -- 俺は、先輩に振り向くどころか、いま目の前に迫る槍すら満足に<捉|とら>えられない……！
-Not only am I unable to look over to Senpai, but I can't even properly block the approaching spear...!
+Not being able to look over at Senpai is the least of my worries.
+ I'm struggling to even perceive the lance that's closing in on me...!
 }
