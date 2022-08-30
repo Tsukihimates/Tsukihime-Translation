@@ -1,8 +1,8 @@
 [sha:f71a926d4d14ff7f127153ff09c4c6a8e5c429c9]{
 -- Page 10012, Offset 15361.
 -- 「と。そういえば先輩、なんであの広場で眠ってたんですか？　もしかして油断して捕まってたとか？」
-"Oh. By the way, Senpai, why were you sleeping there at the central area?
- Don't tell me you got caught off guard and were captured?"
+"Oh. By the way, Senpai, why were you asleep in that underground chamber?
+ Don't tell me you got caught off guard and captured?"
 }
 [sha:116e20f8c9fbbd70eed2dd9136c5ada1ef490679]{
 -- Page 238, Offset 15362.
@@ -12,21 +12,19 @@
 [sha:e81733773c8a83079847ebfd3d5ce63f74614001]{
 -- Page 238, Offset 15363.
 -- あの寝台は特別な生け贄を送るものだったんです。
-// あの寝台 is the thing Ciel was resting on. Dictionaries will suggest "bed", but that doesn't really get well across what it was when you look at it. This is another term that's gonna need consistency checks I think. Regardless, I've rendered it as podium here, because that's what it looks like.
 // 生け贄を送る, here okuru is the normal verb used together with sacrifice, which would be to "offer a sacrifice" in English.
-That podium was for offering up special sacrifices.
+That altar was for offering up special sacrifices.
 }
 [sha:1263163ad6403ba41044b15b39167ee296643833]{
 -- Page 238, Offset 15364.
 -- だからわざと捕まって、親基がやってくる夜まで眠ったフリをしていたのに……」
 So I got caught on purpose,
- and pretended to sleep while waiting for the sire to show up at night.
- But then..."
+ and was pretending to be asleep while I waited for night to fall and the sire to show up, but instead..."
 }
 [sha:b54ceb22bba5f08f26073ec69a70de56f916f18a]{
 -- Page 239, Offset 15365.
 -- 「……あ……俺が邪魔しちゃった……んですね……」
-"Oh... and that's when I interfered, right..."
+"Oh... instead I showed up and got in the way, right..."
 }
 [sha:2b49c3c21bfefa8ea5f7fc86375270666f4f515f]{
 -- Page 239, Offset 15366.
@@ -37,20 +35,21 @@ I feel somewhat ashamed, reflecting on my actions.
 -- Page 240, Offset 15367.
 -- 「まったくです。ほんとに驚いたんですからね。
 // this is the exasperated confirmatory mattaku.
-"Right so. You know, I was really surprised.
+"You sure did.
+ It honestly took me completely by surprise.
 }
 [sha:6dad6d906152a7e899b435bc249353c68ac3df81]{
 -- Page 240, Offset 15368.
 -- お願いですから二度とあんな真似はしないように。助けられそうな他人より、助からなくてはいけない自分の命を考えてください。いいですね遠野くん」
 Please promise me you'll never do something like that ever again.
- You should consider your own life over saving complete stranger,
- especially when that might not be possible.
+ You need to prioritize your own life――something you %{i}must%{/i} protect――over that of a stranger,
+ whose life you only %{i}might%{/i} be able to save.
  Do you understand, Tohno-kun?"
 }
 [sha:38b123dccc1ce92ef92352cc245e749d53eee3dd]{
 -- Page 241, Offset 15369.
 -- もっともなお叱りに、はい、とうなだれて返答する。
-A most reasonable reprimand, to which I can only nod a silent yes.
+I hang my head in shame and nod in response to her stern scolding.
 }
 [sha:c8eeffb0f1eddac25a2171895e8b342529e083c9]{
 -- Page 241, Offset 15370.
@@ -60,11 +59,8 @@ There must've really been something wrong with me back then.
 [sha:de84eb5f48646185e1b5820eb41147a4b3abe893]{
 -- Page 241, Offset 15371.
 -- そりゃあ普段から血の気は少ない方だけど、極限状態に陥るとよけい脳に血が巡らなくなるのかもしれない。
-// the Japanese sentence starts out sound like he's going to deny the second part and then it doesn't... this might just be poor writing. I've tried rectifying it, but perhaps that was overly corrective of me.
-// 血の気は少ない was rendered before as having a pale complexion, but here it has to be a bit literal for the metaphor to make sense.
-Well, I am somewhat thin-blooded, what with the anemia and all,
- so maybe when I get put in an extreme situation,
- the blood doesn't flow all so well in my brain.
+Well, I guess I am a little short on blood even at the best of times,
+ so maybe when I end up in a stressful situation like that there's just not enough of it making it to my brain.
 }
 [sha:08f4ce6dc7fd876c1766d782091af2bef5e2f007]{
 -- Page 242, Offset 15372.
@@ -74,9 +70,9 @@ Well, I am somewhat thin-blooded, what with the anemia and all,
 [sha:08758fb3790b20b10364d797275a3de115d53a72]{
 -- Page 242, Offset 15373.
 -- なんだって遠野くんに死徒の寝床なんて教えたんでしょうか、彼女は。いえ、それだけじゃなくヴローヴと直接戦わせるなんて、遠野くんを殺す気だったとしか思えません」
-Why in the world did she teach you the location of the Dead Apostle's sleeping place, I wonder?
- No, not just that, she even made you fight against Vlov straight up.
- One could only presume she %{i}wanted%{/i} you to die."
+Why in the world did she tell you where that Dead Apostle was sleeping, I wonder?
+ Wait, and that's not all―――she even made you fight Vlov face to face.
+ One could only presume she %{i}wanted%{/i} to get you killed."
 }
 [offset:15374]{
 -- Page 243, Offset 15374.
@@ -86,8 +82,8 @@ Why in the world did she teach you the location of the Dead Apostle's sleeping p
 [sha:0850b2076c1d40f42eab9db6e42d025eea2ef7c2]{
 -- Page 243, Offset 15375.
 -- おかしな発言に顔をあげると、先輩はあさっての方角を見ながらプリプリと怒っていた。……さっきまでのクールさはどこにいったのか。
-I lift up my face at the odd statement to find Senpai looking the other way, steaming with anger.
- Where did her cool from before go off to?
+I look up at this odd remark to find Senpai staring off into the distance, positively fuming with anger.
+ Why's she suddenly lost her cool like this?
 }
 [sha:54b90f734a865a8a31b1fd592e02715166206129]{
 -- Page 244, Offset 15376.
@@ -98,7 +94,8 @@ I lift up my face at the odd statement to find Senpai looking the other way, ste
 [sha:56bc101ad4993ca7fbca9758b0405084526cae00]{
 -- Page 244, Offset 15377.
 -- 結果、遠野くんをあんな危険な目に遭わせるなんて、あの場で彼女をこらしめようと思ったぐらい、あたまにきました」
-As a result, she put you in a really dangerous situation. It makes me so mad I almost wish I'd have disciplined her right on the spot."
+As a result, she put you in a really dangerous situation.
+ It makes me so mad I almost wish I've given her a piece of my mind right then and there."
 }
 [sha:9c3927952401138490a79054ecdfcf1d273650e2]{
 -- Page 245, Offset 15378.
@@ -106,14 +103,14 @@ As a result, she put you in a really dangerous situation. It makes me so mad I a
 // 生身 here is hard to render, it essentially boils down to its usage in "生身の人間", so like "merely human", but that was hard to fit in and sounded unnatural.
 // 弱みに握られる is a phrase that implies someone has dirt on you, so in this case, that Shiki had no choice but to comply, hence the phrasing here.
 "And that goes for you too, Tohno-kun.
- Just because you've got a weapon capable of taking out vampires,
- doesn't mean you can fight completely as you are――what were you thinking?
- Or did she have some way of forcing you into it?"
+ It's all well and good that you have a weapon capable of taking out vampires,
+ but what on earth makes you think you stand a chance against them as an ordinary person?
+ Don't tell me she blackmailed you into it or something?"
 }
 [sha:639e7351d73dd1ac6da6ac56e6d2dbb4aea62bab]{
 -- Page 246, Offset 15379.
 -- 「あ、いえ……そんなコトは、ないんですけど……」
-"Ehm, no... that wasn't really the case, no..."
+"Oh, no... she didn't, but..."
 }
 [sha:9b4c3a0222efc5334cc134bb2e11b8f04e38785c]{
 -- Page 246, Offset 15380.
