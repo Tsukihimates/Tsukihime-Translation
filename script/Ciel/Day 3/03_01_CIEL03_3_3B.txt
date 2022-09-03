@@ -317,7 +317,7 @@ I've let Senpai see me at my worst again,
 -- Page 211, Offset 5398.
 -- 顔をあげると、そこにはいつもの先輩の姿がある。
 // Reading いつもの先輩 as no-lines Senpai
-Glancing up I see Senpai standing there,
+Glancing up, I see Senpai standing there,
  looking just as she always has.
 }
 [sha:0d73c4abc36b2c55563e5bf122fc7d0e85f1e783]{
@@ -419,7 +419,7 @@ A different kind of heartache.
 -- Page 219, Offset 5416.
 -- 先輩の気遣いに心が折れそうで、うつむいて息を吐く。
 My heart feels like it's about to break under the weight of Senpai's concern,
- so I look away and exhale deeply.
+ so I look away, and exhale deeply.
 }
 [sha:61d74fef8b6942825957af43428291010a69195f]{
 -- Page 220, Offset 5417.
@@ -435,7 +435,7 @@ I'm happy. I'm so happy that I'm on the verge of tears,
 [sha:daad88e7e3be803b7c3ccea6ec52ee245222c523]{
 -- Page 221, Offset 5419.
 -- 「はい？　なんですか、遠野くん？」
-"Yes? What is it, Tohno-kun?"
+"Hmm? What is it, Tohno-kun?"
 }
 [sha:03c047e4529033ad9c48efd86f45f5d29312808d]{
 -- Page 221, Offset 5420.
@@ -450,7 +450,7 @@ Even though I―――"
 [sha:5165b12894b16a2d98260d6432b963efe60290bf]{
 -- Page 221, Offset 5422.
 -- ―――俺は、人を殺してきたのに。
-―――Even though I've killed a person.
+―――Even though I killed someone.
 }
 [sha:f5edd860505affd9fb4ec16f7e84dd8a35202815]{
 -- Page 222, Offset 5423.
@@ -474,6 +474,7 @@ Even now, I'm trying to cling to Senpai for support.
 // Pretty sure this fragment is an alt start of the next sentence
 // あの罪を、なかった事にしようとしている
 // so dragging some of the structure up here so that it makes sense in EN
+// group pr check: としている
 As though I were free of sin.
 }
 [sha:3d2a252691795628db107a235575e83d39e63cf7]{
@@ -565,6 +566,8 @@ And to be frank, I don't really care."
 [sha:3181438b9c260520bfcb5e8e1d5296d959ed7c2a]{
 -- Page 231, Offset 5442.
 -- 「遠野くんは優しくされる資格がないって言いますけど、それは遠野くんだけの都合です。
+// group pr check: reasoning is wrong
+// suggestion: circumstances
 "You say that you don't deserve to be treated kindly,
  but that's just what suits your own reasoning.
 }
@@ -592,6 +595,7 @@ I'm not being nice to you for your sake, so please don't worry too much about it
 -- Page 233, Offset 5447. Glued. Mods: @x.
 -- その、ですね。わたしは、わたしが遠野くんに優しくしてあげたいから、こうしているんです。要するにわたしの趣味です。遠野くんの事情はあまり関係ありません。
 // TLing 事情 as echoing back to 都合
+// group pr check: same as above
 How do I explain...
  I'm doing this because I want to be nice to you.
  Put simply, it's my hobby.
@@ -663,7 +667,7 @@ She said that she would help Tohno Shiki, a person even %{i}I%{/i} couldn't trus
 -- Page 237, Offset 5459.
 -- たとえ俺が悪人であっても、助けたいから助けるのだと。
 She said that even if I were a bad person,
- she'd still help me simply because she wanted to.
+ she'd still help me, simply because she wanted to.
 }
 [sha:817636887a06b78b07a8041f27b4d3391287b00d]{
 -- Page 238, Offset 5460.

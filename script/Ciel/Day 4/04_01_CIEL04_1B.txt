@@ -21,12 +21,12 @@ As soon as I enter the lobby, I'm greeted with a smile.
 [sha:e8ca09aa6805c1508a5c5f68156550c9c0ed3b47]{
 -- Page 38, Offset 8269.
 -- 「た、ただいま。……あの、琥珀さん？」
-"I-I'm home... Um, Kohaku-san...?"
+"I-I'm home... Um, Kohaku-san..."
 }
 [sha:f3662b4db7282e2ad4bfecf39246c70f7180a67f]{
 -- Page 38, Offset 8270.
 -- 「ええ、朝ごはんですね？
-"Yes, you must be wondering about breakfast, right?
+"Right, you must be wondering about breakfast?
 }
 [sha:453d13b5b01b0d64c279fa5bf54bba06bec75ecf]{
 -- Page 38, Offset 8271.
@@ -132,7 +132,7 @@ There's a hint of reproach in her voice.
 [sha:22869f87d5bd573c1654a5c687c5d03c29bab08a]{
 -- Page 47, Offset 8290.
 -- 「ええ。兄さんが頻繁に外泊をされる方だとは知りませんでしたから。機嫌を損ねている、というよりは呆れているんです」
-"Quite. I didn't know that my brother was the type of person to frequently spend the night away from home.
+"Indeed. I didn't know that my brother was the type of person to frequently spend the night away from home.
  Though, I'm not angry so much as astounded."
 }
 [sha:99241676a770c24c515c90bced6249867e1240e3]{
@@ -336,7 +336,7 @@ Her pouting face is totally at odds with her harsh words...
 [sha:242522547323116d3d44f6306adfa643bd07e4e4]{
 -- Page 63, Offset 8324.
 -- 私、兄さんの心配なんてしてませんっ！」
-I am not worried about you in the slightest, Nii-san!"
+I am %{i}not%{/i} worried about you in the %{i}slightest%{/i}, Nii-san!"
 }
 [sha:f16a25e7a52961aebf7ba0f93251c35a11fcad2c]{
 -- Page 64, Offset 8325.
@@ -380,6 +380,7 @@ She hands me my bag, then hesitates slightly before opening her mouth to speak.
 [sha:20ca1e8a20691f2ab05a966e44d6991456f23cbe]{
 -- Page 67, Offset 8332.
 -- 「責めているのではありません。ただ、今朝の志貴さまはひどく無理をしているように見えます。
+// group pr check: pushing yourself/force yourself?
 "I do not mean to accuse you of anything.
  It's simply that you seem extremely exhausted this morning, Shiki-sama.
 }
