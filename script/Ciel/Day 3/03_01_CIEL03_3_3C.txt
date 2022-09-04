@@ -48,7 +48,7 @@ I was adamantly opposed to using her bed, but―――
 -- 「そうですよ？　あ、気にしないでください。あまり使ってませんから新品同様です。
 "Yes, and?
  Ah, no need to worry about that.
- I don't use it all that often, so it's practically as good as new.
+ I don't use it all that often, so it's practically good as new.
 }
 [sha:898d2c7735a1b39172f4713beda954dbce1ee808]{
 -- Page 246, Offset 5478. Glued. Mods: @x.
@@ -140,14 +140,12 @@ I'm at a loss as to where I should go from here, what I should do.
 -- Page 252, Offset 5494.
 -- ざあ、と。
 // Weird that EN only really has staccato rain onomatope
-%{i}Pitter patter%{/i}.
+The rain falls outside―――
 }
 [sha:edd81c492dd52729ba08c503eb6298c54718f84e]{
 -- Page 252, Offset 5495.
-// group pr check
-// suggestion: The rain falls outside. And the sound fills the apartment.
 -- 外からは雨の音が聞こえる。
-I can hear the sound of rain falling outside.
+And the sound fills the apartment.
 }
 [sha:47f5bbbd80f4c4cf034c723f23ded15a7a2b3c63]{
 -- Page 253, Offset 5496.
@@ -181,13 +179,12 @@ I can hear the sound of rain falling outside.
 -- Page 256, Offset 5501.
 -- 「―――――厭な、こと」
 // Tempted to reify forget here
-"What's... bothering me...?"
+"Forget... What's bothering me?"
 }
 [sha:fde17e7b8e444dd4044d2b27b47a7dc93b3efbe8]{
 -- Page 256, Offset 5502.
 -- ……ああ、それは無理だ。
-// group pr check: line sounds weird
-...Ahh, that's impossible.
+Ahh... That's impossible.
 }
 [sha:e32c4e9e038b7b1476da69943610cb945a26a891]{
 -- Page 256, Offset 5503.
@@ -332,7 +329,6 @@ As such, I believe that the only people who cannot be saved are those who are ut
 [sha:52517f878a6d74d6390c0dbca663c14e366a8c47]{
 -- Page 266, Offset 5528.
 -- 「はい。でも、遠野くんは償える人です。何をしてしまったかは知りませんけど、遠野くんは償える人ですよ。
-// group pr check
 "Yes.
  But you're someone who's able to atone for their actions.
  I don't know what you've done, but you can make amends, Tohno-kun.
@@ -434,16 +430,13 @@ But if this person says I can... I want to live my life as if it were so.
 -- Page 272, Offset 5545.
 -- 「あれだけの傷跡ということは、とても大きな事故だったんでしょう。爪跡というものは心を歪ませます。
 // 爪跡 explicitly different here, _maybe_ has more 'ravages', 'after-effects' connotations that pure 傷跡?
-// group pr check: "like that"
-"It must have been a very serious accident to leave you with a scar like that.
+"It must have been a very serious accident to leave you with such a nasty scar.
  Lingering effects of things like that distort the mind.
 }
 [sha:9a8755fb707baf7790f450418af95d5490ae965d]{
 -- Page 272, Offset 5546.
 -- あんなに大きな、しかもまだ消えない傷だなんて、ちょっと普通じゃないですよね」
-// group pr check: "like that"
-// suggestion: To receive such a large wound
-To receive a large wound like that――and for it to still be with you――is pretty rare, isn't it?"
+To receive such a large wound――and for it to still be with you――is pretty rare, isn't it?"
 }
 [sha:c892d5759e4cb8a41be5c135147ef069606cee84]{
 -- Page 273, Offset 5547.
