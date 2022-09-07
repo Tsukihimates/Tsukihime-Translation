@@ -18,7 +18,7 @@ It seems that I requested a set meal with croquettes.
 -- 揚げ物が今の胃に入るかな、なんてどうでもいい事を考える。
 I ask myself a nonsensical question, like whether a deep-fried food will agree with my stomach.
 }
-[sha:258087ab48282c578deaa779b2297b528e92bd5e]{
+[offset:258087ab48282c578deaa779b2297b528e92bd5e]{
 -- Page 94, Offset 27323.
 -- 食堂を見渡して適当な席を探す。
 I look over the cafeteria, searching for a suitable place to sit down.
@@ -66,12 +66,12 @@ She's really just like Senpai, even up to her food choices.
 [sha:3ffb5803354bb678b6e06770f0a954088cf38ac1]{
 -- Page 98, Offset 27332.
 -- 「――――――あ」
-"――――――%{i}Aagh%{/i}!"
+"――――――%{i}Aagh!%{/i}"
 }
 [sha:859609fab5f280673a40a581f4d0a87fa73a7147]{
 -- Page 98, Offset 27333.
 -- というより、何度見てもシエル先輩本人だった。
-No, it clearly %{i}is%{/i} Ciel-senpai, no matter how many times I check!
+No, it clearly %{i}is{/i} Ciel-senpai, no matter how many times I check!
 }
 [sha:d0e57f3ddf37c32c20247d5d6c31a940ca68e8a4]{
 -- Page 99, Offset 27334.
@@ -101,12 +101,12 @@ She's clearly avoiding me, but I'm not in a state of mind to let that deter me.
 [sha:f49b7b5905d8bd1d178e0d2edb13c66b41d808b9]{
 -- Page 100, Offset 27339.
 -- 「先輩、意味が分かりません！　どうしてこんなトコにいるんですか!?　おかしいでしょう、色々!?」
-"Senpai, I don't understand! Why are you in a place like this?! Isn't that weird, in many different aspects?!"
+"Senpai, I don't understand! Why are you in a place like this!? Isn't that weird, in many different aspects?!"
 }
 [sha:5620c6d9e3337bc4b74dff19c84536c1b165cbef]{
 -- Page 100, Offset 27340.
 -- 「なんでって、わたしはここの生徒です。お昼になったらごはんを食べないとダウンしちゃうじゃないですか」
-"Why? I %{i}am%{/i} of this school. I'll get sick if I don't eat when it's time for lunch, won't I?"
+"Why? I %{i}am{/i} of this school. I'll get sick if I don't eat when it's time for lunch, won't I?"
 }
 [sha:a9c9dbc8858d97ec2404a27d536c5e078c4b6da3]{
 -- Page 101, Offset 27341.
@@ -324,7 +324,7 @@ But right now, there's something I have to say that's even more important than j
 [sha:fc258765483137d723a74d7cdc7ee62e04d41fdc]{
 -- Page 118, Offset 27383.
 -- “それとも遠野くん。
-'Or are perhaps saying―――
+'Or are perhaps saying―――"
 }
 [sha:1dbe401a768541c2ce6f276c1dd884ff292b59cf]{
 -- Page 118, Offset 27384.
