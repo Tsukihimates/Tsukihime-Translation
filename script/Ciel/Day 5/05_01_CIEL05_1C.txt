@@ -50,7 +50,7 @@ I have so many questions.
 [sha:6c7a9e11d841e1fe6dde93f455a154fa52058c64]{
 -- Page 92, Offset 11115.
 -- 粘膜のような空気。油と肉と血の匂い。
-The atmosphere is wet and slimy. It smells like oil, flesh, and blood.
+The atmosphere is wet and slimy. It smells like fat, flesh, and blood.
 }
 [sha:63786c0625035e27bb68c497ee4778b484739f92]{
 -- Page 92, Offset 11116.
@@ -66,7 +66,7 @@ The path slopes gently downward.
 [sha:b26bbb020dadcda4cba7ea65158ee703848c74d1]{
 -- Page 93, Offset 11118.
 -- 「はあ―――ぁ、は―――」
-"%{i}Haa―――ah, ha―――%{/i}"
+"%{i}Haa―――haa―――%{/i}"
 }
 [sha:9e6942e6af749e228b6a734670d75fe7b7a9cfa0]{
 -- Page 93, Offset 11119.
@@ -122,7 +122,7 @@ A red-hot lump rises up my throat.
 -- それはまずい。匂いをだすのはまずい。あの死人たちが集まってくる気がする。
 This is bad.
  I can't do anything that would leave a smell.
- I have a feeling the Dead will come after me if I do.
+ I have a feeling those corpses will come after me if I do.
 }
 [sha:b05a065b402d4b615668fa684d355e9b60262d6f]{
 -- Page 98, Offset 11129.
@@ -244,13 +244,12 @@ I strike the iron bars in shame and frustration.
 [sha:8ee779fe3a21a4465d5e72392d9ac35547cb27fe]{
 -- Page 102, Offset 11151.
 -- ざまあない。見ろ、なんて醜い。これが俺の本性だ。俺にあったのは正義感なんかじゃない。ただの優越感だった。魔眼という武器を持っている自分への思い上がりを、『覚悟』だなんて言い換えて……！
-// I think putting "Mystic Eyes" as ruby above weapon is pretty nice.
 How disgraceful.
  Just look at how pitiful I really I am.
  This is my true nature.
  I wasn't driven by a sense of justice at all.
  It was nothing more than a superiority complex.
- What I called 'resolve' was only my own arrogance from being in possession of this <weapon|M y s t i c  E y e s  >.
+ What I called 'resolve' was only my own arrogance from being in possession of this weapon called Mystic Eyes.
 }
 [sha:a9d97841a0dde8e33125d995aafdd75f32811822]{
 -- Page 103, Offset 11152.
@@ -309,8 +308,8 @@ I was unconsciously clinging to such a childish desire.
 [sha:25c65fcc8eb74ec6cac03600089904ababf2ee89]{
 -- Page 105, Offset 11162.
 -- 「死ね。そんなガキ、もうここで死ねばいい……！」
-"Die already.
- An immature brat like me should just die right here...!"
+"Just die already.
+ A brat like me would be better off dead...!"
 }
 [sha:60982e1b7e46d2bc6977027a7be0899a40d99793]{
 -- Page 105, Offset 11163.
@@ -349,7 +348,7 @@ Now that I'm done beating myself up over it,
 [sha:cfc017c954d1b38c9948a5ba577fbfef11b2947e]{
 -- Page 108, Offset 11169.
 -- 「……そうだ。逃げ道はない。俺には、もう」
-"That's right... There's no running away.
+"That's right... There's no way out.
  There's only one thing I can do now―――"
 }
 [sha:012a8537aadf49a528433b155087afa14eb2e94a]{
@@ -463,7 +462,7 @@ In short, if I want to keep going down, I need to keep going forward.
 [sha:cee0b32604f1cbfef8ecc8b906bf0333cf87ed4b]{
 -- Page 115, Offset 11190.
 -- 「……この通路、何かのまわりを回ってるのか……？」
-"This passage... is it going in circles...?"
+"This passage... It feels like it's spiraling around something."
 }
 [sha:d36583ed1baaaea0e89a4cfa37d6ba1b3a9e3e33]{
 -- Page 115, Offset 11191.
@@ -501,7 +500,7 @@ I could have sworn I heard the sound of the wind just then.
 [sha:1773c6e6bec2e2f4f8bbe944134eb6939ec98e11]{
 -- Page 118, Offset 11197.
 -- 「いる……この先に、あの死人が、」
-"They're here... The Dead are just up ahead..."
+"They're here... Those corpses are just up ahead..."
 }
 [sha:04b0edbb3a4a7c327c2717eb05d4ae1551b7051f]{
 -- Page 118, Offset 11198.
@@ -551,6 +550,7 @@ I put all of my strength into my petrified feet, and―――
 [sha:9ecb2e786495780d548355b61e74757f781f2497]{
 -- Page 120, Offset 11207.
 -- 「ああもう、きもーーーーーーーい！」
+// add a smaller font effect when possible
 "Aaahhh, ew, disguuuuuuuuusting!"
 }
 [offset:11208]{
@@ -591,7 +591,7 @@ I emerge from the cramped passageway into an open area.
 [sha:9d6f920adf36db5c2a69cecf31bdf4443ea21ab3]{
 -- Page 122, Offset 11215.
 -- 視線を巡らし、即座に構造を把握する。
-Glancing around, I get a handle on the space I'm in.
+Glancing around, I immediately get a handle on the space I'm in.
 }
 [sha:92c11d62ea2b6c72f2bc7d262ff5942b274a79aa]{
 -- Page 123, Offset 11216.
@@ -606,7 +606,7 @@ And in it―――
 [sha:789ee51997da5fede5fb57bfb228ad6bc0ccafc9]{
 -- Page 123, Offset 11218.
 -- 死者たちに壁際まで追い込まれた、まだ生きている人間の姿があった。
-The figure of someone who's still alive, but has been driven up against the wall by the encroaching Dead.
+I can see someone who's still alive, but has been driven up against the wall by the encroaching Dead.
 }
 [sha:1785d92afb36b1241318244d88ce44b30812749a]{
 -- Page 124, Offset 11219.
@@ -729,7 +729,7 @@ Just how pathetic can I get...!
 [sha:39aa0b78e73532c70362021c1a896345215fe538]{
 -- Page 132, Offset 11242.
 -- 相手は怪物だから、死人だから“殺して”しまえる？
-'The enemies are monsters, they're Dead, I can 'kill' them no problem'?
+'The enemies are monsters, they're dead, I can 'kill' them no problem'?
 }
 [sha:caba2d4427a60756c2a563451b3b457e30197ee4]{
 -- Page 132, Offset 11243.
@@ -817,9 +817,10 @@ I run in order to shake them off.
 [sha:a30ab870f752de7538101be9b9445bbbf2e60745]{
 -- Page 138, Offset 11259.
 -- 走りながら嘔吐を堪える。ナイフを握る手に残った感触を必死に飲み下す。……死人の腕を切断しただけでこれだ。あの時首を切っていたのなら、俺はショックで動けなくなっていたかもしれない。
+// "arms" is correct, see offset 11237, 11250
 As I run, I hold back the urge to vomit.
  I desperately try not to think about the lingering sensation in the hand holding my knife...
- All this is the result of just cutting off the Dead's arms.
+ All this is the result of just cutting off the corpse's arms.
  If I'd actually decapitated it, I might've been too shocked to even move.
 }
 [sha:d76adef9c30fc2d5b0993c1d66c8ec206975a112]{
@@ -839,7 +840,7 @@ As I run, I hold back the urge to vomit.
 "It hurts, it hurts, it hurts...!
  Don't grip my hand so hard, no, grip it tighter!
  Drag me, I can't run anymore, I can't run anymore!
- Help me, help me, help me, help me!"
+ Save me, save me, save me, save me!"
 }
 [sha:eb8c69f2c873fa1a4bbc0fd14058c1047b698e04]{
 -- Page 141, Offset 11263.
