@@ -26,8 +26,8 @@ After saying this, Arcueid brings me out to the residential district.
 [sha:44df3ddf83679a9a6fe121a7c10e9e0b95719f8c]{
 -- Page 500, Offset 16000.
 -- 聞いたかぎりでは自由になった吸血鬼の方が危険だと思うのだが、それは俺たちが手を出さずとも代行者……シエル先輩たちが片付けているだろう、との事だ。
-//there's a bit of weird conflict between 聞いたかぎり and と思う
-//シエル先輩たち once again the plural, but it might not be necessary
+// there's a bit of weird conflict between 聞いたかぎり and と思う
+// シエル先輩たち once again the plural, but it might not be necessary
 As far as I've heard, it seems the freed vampires are more dangerous,
  but they'll be taken care of by the Executors――by Ciel's people,
  without us needing to do anything.
@@ -69,7 +69,7 @@ These probably exceed Rank IV if they've got that level of adaptability and savv
 [sha:3ef90baddbb0266f876dfdc44a6f2e61d311d63a]{
 -- Page 503, Offset 16007. Mods: @n.
 -- うん、
-//'but' to bring the conversation back.
+// 'but' to bring the conversation back.
 But yeah――
 }
 [sha:80ded0c99323848d41a6d39e4341b0840878d3c0]{
@@ -81,7 +81,7 @@ Probably not to the extent of Roa's community,
 [sha:dbb717827e4a032d0a735fcbd3ff1a43fe855621]{
 -- Page 503, Offset 16009.
 -- でも代行者がいるかぎり、そんなマネをしたらすぐに見つかって処理されるわ。だから代行者がいる以上、上級の死徒は中々尻尾をださないの。<代|ア><行|イ><者|ツ>らは死者狩りには便利だけど、同時に上級の死徒を警戒させる厄介者なのよ」
-//I think 上級の死徒 doesn't refer to Rank VII in this case, but rather just a generic "higher ranked Dead Apostles"
+// I think 上級の死徒 doesn't refer to Rank VII in this case, but rather just a generic "higher ranked Dead Apostles"
 But as long as the Executors are around,
  they'll be found and taken care of immediately if they do something like that.
  This is why higher Dead Apostles do not so readily show themselves.
@@ -97,7 +97,7 @@ I see...
 [sha:e7b1166fd6055fe39c19a0819e571d3a5c8b8ee5]{
 -- Page 504, Offset 16011.
 -- 先輩たちは吸血鬼たちにとって警察のようなものなんだ。
-//Removed the reference to Ciel just so it reads a bit better
+// Removed the reference to Ciel just so it reads a bit better
 For vampires, Executors are like the police.
 }
 [sha:dbfdcc63780c50e56d9158249b89a7c59ead53d5]{
@@ -108,7 +108,7 @@ Their mere presence is enough to crackdown on the sudden eruption of violence, a
 [sha:563795d85b1a454dff87d915e5894b9c4c9473fb]{
 -- Page 505, Offset 16013.
 -- ただし、それは抑止力にすぎない。吸血鬼という犯人を見つけ出すには地道な作業が必要になる。
-//抑止力 here is NOT the lore term.
+// 抑止力 here is NOT the lore term.
 However, that's nothing more than deterrence.
  In order to locate the criminals――vampires in this case――slow and steady effort is required.
 }
@@ -172,7 +172,7 @@ Arcueid pouts, seemingly disappointed.
 [sha:730ed2b835864576dae761aaaf6649266d863b52]{
 -- Page 511, Offset 16025.
 -- 「ええ。上手に隠されてたけど、そこはほら、繊細？かつ緻密？な捜査？で見つけちゃった」
-//the question marks are needed for the next joke, don't remove.
+// the question marks are needed for the next joke, don't remove.
 "Yeah. It was hidden fairly cleverly, but that's where my, uh, intricate? And detailed? Investigation? Allowed me find him."
 }
 [sha:aff495478993638258ca9c1c068daf75a4a26f45]{
@@ -203,7 +203,7 @@ Still... beneath the school? Even if that's over with thanks to Arcueid, it leav
 [sha:f23cf59e520ddc89987b18e81f612fe4c14ce8f0]{
 -- Page 514, Offset 16031.
 -- 「それはないと思うけど。本体が眠る棺は最後の隠れ家だから、その周辺で食事なんて摂らないわ。下手に血の匂いを残したら代行者に辿られてしまうでしょう？」
-//本体 as in relation to the rest of the 'vampire colony' I imagine.
+// 本体 as in relation to the rest of the 'vampire colony' I imagine.
 "I don't think so. The head vampire's final hiding place is the coffin in which it sleeps,
  so it would never feed in its surroundings.
  You know, because if it accidentally left the scent of blood around,
@@ -268,7 +268,7 @@ I'm about to comment that even vampires feel the cold, but then think back to th
 [sha:034e6dd3b18b47ce76010bc1f2ec71e9f95b366a]{
 -- Page 519, Offset 16042.
 -- アイツは人間より頑丈なだけで、傷つけば血も流すし痛みもする事を、俺は何度も見てきたじゃないか。
-//アイツは人間より頑丈なだけで is a truncation in the Japanese, which has to be worked out with context. I've already reversed it a bit.
+// アイツは人間より頑丈なだけで is a truncation in the Japanese, which has to be worked out with context. I've already reversed it a bit.
 I've seen her injured, spill blood, and feel pain, time and time again.
  Just because she's more durable than humans are doesn't mean that she wouldn't.
 }
@@ -301,7 +301,7 @@ Arcueid puts on my coat, spins around, almost dancing in front of me.
 [sha:1912702861769916e7a883da48e8152cfdfc27e9]{
 -- Page 523, Offset 16048.
 -- くしゃみなんかしていたクセにアルクェイドは元気いっぱいだ。生命力の塊というか、大輪の花というか。
-//大輪の花 shows up as a description for Arcueid three times in the script, so let's see to it that it's consistent.
+// 大輪の花 shows up as a description for Arcueid three times in the script, so let's see to it that it's consistent.
 For someone who just sneezed, Arcueid sure is full of energy.
  Like a bundle of life,
  or a beautiful flower.
@@ -309,7 +309,7 @@ For someone who just sneezed, Arcueid sure is full of energy.
 [sha:803eb7464907e1060b10617d613ba5b17d20f9e7]{
 -- Page 523, Offset 16049.
 -- とにかく、無心で眺めるのはあまりに毒だ。注意していないと見惚れてしまいかねない。
-//maybe there's a way to work in 毒 without it sounding ridiculous.
+// maybe there's a way to work in 毒 without it sounding ridiculous.
 Anyway, thoughtlessly staring at her is proving way too dangerous.
  If I'm not careful, I might even fall for her.
 }
@@ -326,7 +326,7 @@ I shake my head, diverting my sight away from her.
 [sha:24a8fadcbffc33dfaae43eda9db26f1700537c0a]{
 -- Page 524, Offset 16052.
 -- 高架線の下を抜ければ人通りの絶えた住宅地だ。
-//高架線 is the tunnel-like area they were talking in, I presume.
+// 高架線 is the tunnel-like area they were talking in, I presume.
 We come out through the underpass, arriving at a deserted residential district.
 }
 [sha:9be55bb196c26e5a809e4ab819814d9362705854]{
@@ -337,19 +337,19 @@ The vampire nest, so called by Arcueid, is now just around the corner.
 [sha:aa523c5fc0a0c0385a748bc8e09df48abba2a3dd]{
 -- Page 525, Offset 16054.
 -- ―――それは、住宅地のただ中にあった。
-//from hereon, there are many matching lines from ARC08_6B and ARC07_3G
+// from hereon, there are many matching lines from ARC08_6B and ARC07_3G
 ―――It was right in the middle of the residential area.
 }
 [sha:a59d31d2f8f47f2429589133fe0d4f8d9eae6f50]{
 -- Page 525, Offset 16055.
 -- ごく一般的な、何の変哲もない４階建てのマンション。
-//near duplicate of Offset 20547
+// near duplicate of Offset 20547
 An utterly unremarkable four-story apartment complex. Nothing unusual about it.
 }
 [sha:01e7d8114970c435f1bac120058ad9d5c569f058]{
 -- Page 525, Offset 16056.
 -- 部屋数は一フロアに四つほどで、その大半から灯りが漏れている。
-//duplicate of first part of Offset 20548
+// duplicate of first part of Offset 20548
 Every floor has around four units, most of which have lights on.
 }
 [sha:b67c33d4a4f739be4ab0737523561e7c9ca0f14e]{
@@ -380,20 +380,20 @@ Shiki, take off your glasses here, and look at the surroundings of that building
 [sha:fb80a06555008ef1a6829c8a4659f8d0fdf512fe]{
 -- Page 527, Offset 16062.
 -- わたしは『人間と人間じゃないもの』の気配を感じ取れる。
-//near duplicate of Offset 17676
+// near duplicate of Offset 17676
 I can sense the presence of human and non-human beings.
 }
 [sha:03f1676ce00273065e88423aaaff3f548d700d04]{
 -- Page 527, Offset 16063.
 -- 貴方は『生者と死者の違い』が視覚情報として読み取れる。
-//near duplicate of Offset 17677
-//死者 shouldn't be capitalized here (no 'the Dead'). /Petrikow
+// near duplicate of Offset 17677
+// 死者 shouldn't be capitalized here (no 'the Dead'). /Petrikow
 You can visually perceive the difference between the living and the dead.
 }
 [sha:c339af4aa786f95a7b4817abb94891ebbb35aba2]{
 -- Page 527, Offset 16064.
 -- 索敵方法は多いに越した事はないでしょう？
-//near duplicate of Offset 17678
+// near duplicate of Offset 17678
 It's not like we have many other ways of finding them, right?
 }
 [sha:ad2d99bf39fb0cfe5318e1a3054006de2fe7b3b3]{
@@ -411,7 +411,7 @@ This is a test in preparation for tomorrow as well.
 [sha:dcd919dce468dc76fb74f8bf1e85f4bb293f88a1]{
 -- Page 528, Offset 16067.
 -- アルクェイドの説明は納得できる。
-//near duplicate of Offset 17680 (only the punctuation at the start is different)
+// near duplicate of Offset 17680 (only the punctuation at the start is different)
 I understand what Arcueid is getting at.
 }
 [sha:13e148b8bd8fa88138207bce0cced46136f45da2]{
@@ -422,14 +422,14 @@ I was the one that said we should cooperate, so it's not like I can refuse.
 [sha:5f7d2654a4be29cffe31089cc515a6049945f599]{
 -- Page 529, Offset 16069.
 -- この眼鏡を貰ってからの七年間、裸眼で街を歩く事なんて一度もなかった。
-//sort of close to Offset 17687
+// sort of close to Offset 17687
 In the seven years since I've received these glasses,
  I haven't walked around town without them even once.
 }
 [sha:76db39c1cb27826d442f6a0cfcd3abc0f9e7401b]{
 -- Page 529, Offset 16070.
 -- そもそもモノを視るだけで頭痛が走るのに、その状態で街を、通り過ぎる人々を視たらどうなるのか、容易に想像できる。
-//very close to Offset 17688
+// very close to Offset 17688
 I mean, just seeing things with my glasses off is enough to give me a headache.
   It's easy to imagine what would happen to me if I were to go looking around the city and the people passing by without them.
 }
@@ -466,13 +466,13 @@ The weight on my brain makes me want to throw up.
 [sha:288cb2eeb24c94c839cdbbcd301f7ed91b122a9d]{
 -- Page 531, Offset 16077.
 -- ……ここは、おかしい。建物に走る線はごく平均的なものだが、何か、異様な寒々しさがある。
-//duplicate of Offset 20553 and 20554
+// duplicate of Offset 20553 and 20554
 This place is strange... The lines running along the building are much like usual, but there's something oddly chilling about them.
 }
 [sha:e1ce91d232c00a8645c82e0c122a744516522a75]{
 -- Page 532, Offset 16078.
 -- それは灯りのついている部屋から漏れる光の白々しさだったり、たった今マンションに戻ってきた女性の体に渦巻く、死の線の多さだった。
-//duplicate of Offset 20555 and 20556
+// duplicate of Offset 20555 and 20556
 Perhaps it was the brilliant white of the light leaking from the rooms,
  or maybe it was the woman just returning to the apartment,
  on whose body the lines of death drew a dense, whirling maelstrom.
@@ -496,7 +496,7 @@ A shutter has been lowered over the entrance.
 [sha:59156ac990d2739660127b57a0a55502f5022ca7]{
 -- Page 534, Offset 16082.
 -- 「このシャッター、人避けと消臭の結界がかかってる。
-//partial duplicate of Offset 20561
+// partial duplicate of Offset 20561
 "A Barrier has been erected over this shutter that both wards off people and masks the scent of the Dead inside.
 }
 [sha:f7278aba023d57362cff17e385ec97bd7bdaf41e]{
@@ -527,14 +527,14 @@ I thought she would pull it up in one go, but―――
 [sha:1cb9009e414623496ffadd3e1b1575e8ff20c4a4]{
 -- Page 536, Offset 16088.
 -- 「ええ。わたしより志貴が適任。無理矢理開けると警報が鳴るでしょ？」
-//near duplicate of Offset 20567 (ONE KANJI CHANGED TO HIRAGANA)
+// near duplicate of Offset 20567 (ONE KANJI CHANGED TO HIRAGANA)
 "Yeah. You're better suited to this task than I am.
  If I were to open it by force, I'd set off the alarm, wouldn't I?"
 }
 [sha:cefb0b1b59648c9e55577ed9a357ff5b14fe66af]{
 -- Page 537, Offset 16089.
 -- ……それはそうか。
-//near duplicate of Offset 20568, I've differentiated them in terms of register.
+// near duplicate of Offset 20568, I've differentiated them in terms of register.
 She does have a point...
 }
 [sha:ee1f3b956f460ef3ae3b3a172bf51fa8495466f0]{
@@ -637,7 +637,7 @@ I also cannot look back.
 [sha:2b64271c4313823551ff80a6b2112514a1330469]{
 -- Page 543, Offset 16109.
 -- <ヤ|・><ツ|・><ラ|・>から視線を切った瞬間、俺は無様な<生贄|くいもの>になる。
-//ruby cut.
+// ruby cut.
 As soon as I take my gaze away from %{i}them%{/i}, I will be reduced to an unsightly sacrifice.
 }
 [sha:3144ee796ea94bec2f98419c586eba265cedec87]{
@@ -712,8 +712,8 @@ My body moves before my consciousness can.
 [sha:b245d1754fbf8656e8faafa029a092d779c3704f]{
 -- Page 548, Offset 16123.
 -- わずかな戸惑いもなく解体する。血の匂いを、手触りのない肉の<断触|だんしょく>を記憶する。
-//ebin nasu pun <断触|だんしょく>
-//after this line, the visuals show Shiki remembering cutting Arcueid apart.
+// ebin nasu pun <断触|だんしょく>
+// after this line, the visuals show Shiki remembering cutting Arcueid apart.
 I commence the dismemberment without an inkling of hesitation.
  I recall the smell of blood――the warm cuts of her untouched flesh.
 }
@@ -741,7 +741,7 @@ Ah."
 [sha:dffbb166525176658ccc8b0c863b9932a2bbf2c4]{
 -- Page 549, Offset 16128.
 -- 呼吸を再開する。
-//this is after a fade to black, the zombies are dead
+// this is after a fade to black, the zombies are dead
 My breathing resumes.
 }
 [sha:d9479b1b18594b9a540f2905f02f36c75724763f]{
@@ -918,7 +918,7 @@ In that respect, you almost resemble me.
 [sha:59f9b1e1c02fa98fa253a08d7d3c56a0636c4fcd]{
 -- Page 563, Offset 16161.
 -- その言葉にどんな感情がこもっていたのか、俺には分からない。親愛や憧れ。あるいは慈愛すらあったのかもしれない。
-//the subtleties of 慈愛 might be possible to capture better.
+// the subtleties of 慈愛 might be possible to capture better.
 What emotions were in those words, I do not know.
  Affection and adoration?
  Or perhaps there even was even a hint of love in them?
@@ -967,7 +967,7 @@ Without realizing the heft of her statement, I respond with banter.
 [sha:ec505a0f5f286e8a9438035f85d809938a112112]{
 -- Page 566, Offset 16170. Glued. Mods: @x.
 -- わたし、いちおうお姫さまだよ？　玉の輿、乗ってみない？」
-//maybe find a less weight expression for 玉の輿、乗ってみない？ would need adjusting in this and the next line
+// maybe find a less weight expression for 玉の輿、乗ってみない？ would need adjusting in this and the next line
 Just so you know, I %{i}am%{/i} a princess.
  Wouldn't you wanna marry into riches?"
 }
@@ -1044,7 +1044,7 @@ I mean, it's not like the hunt for the Roa remnants is over,
 -- 「どうするんだアルクェイド。他に吸血鬼がいないとしても、ここはねぐらの一つなんだろ？　もしかしたら中に隠れているヤツがいるかもしれないし、念のために調べるか？」
 "What will you do, Arcueid?
  Even if there aren't any other vampires here,
- this is still one of their nests, isn't it? 
+ this is still one of their nests, isn't it?
  There might still be one of them hiding inside,
  so, wanna investigate just in case?"
 }
@@ -1114,7 +1114,7 @@ Arcueid smiles proudly.
 [sha:a6861dfb41cdf4f29fc8096d06c1678d87930f4c]{
 -- Page 579, Offset 16196.
 -- アルクェイドの手を取って走り出す。
-I grab Arcueid's hand and start running.	
+I grab Arcueid's hand and start running.
 }
 [sha:5f196aae5dc3ba79ab75af4557e684dc7cafd2cb]{
 -- Page 579, Offset 16197.
@@ -1130,7 +1130,7 @@ But, I'd really like her to do something about her lack of common sense.
 [sha:5ffa0d597ce45e1d3ac683cf20707efcd1f6eaa6]{
 -- Page 580, Offset 16199.
 -- 「なんで逃げるの!?　もう危険はなくなったのに!?」
-//https://youtu.be/6B7ToJoqGpg?t=49
+// https://youtu.be/6B7ToJoqGpg?t=49
 "Why are we running?! The danger has passed, you know?!"
 }
 [sha:364f43784a64ca01597dc7dbfa9f0c20032d3b56]{
