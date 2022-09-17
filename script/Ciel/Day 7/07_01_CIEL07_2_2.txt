@@ -212,7 +212,7 @@ So as thanks, she nuzzled up against me from behind...
 -- Page 297, Offset 15511. Glued.
 -- いや教師としてどうなんだそれはありがとうございます。
 // funny line, try to preserve the funny.
- Behavior that doesn't suit a teacher, but suits me just fine.
+ Behavior that doesn't suit a teacher, but that suits me just fine.
 }
 [sha:ed0353d105a5e5c8321a837c516c54a11d12269b]{
 -- Page 298, Offset 15512.
@@ -234,6 +234,7 @@ In the battle against Vlov, I made a brave retreat, didn't I?
 -- Page 298, Offset 15515. Glued. Mods: @x.
 -- って、今日のシフトまでバツいれちゃって～（涙）
 // （涙） <--- not sure what to do with this.
+// Ascii crying face? ;-; / T_T
  That's what she said to me right before crossing out my shift for today! %{i}Sniff%{/i}.
 }
 [sha:9928cba5728854b745d393180e1b7bdad918ee7d]{
@@ -266,9 +267,8 @@ Actually, this behavior doesn't suit me so well after all.
 -- さっきのは役得ではない。これはただの、一升瓶を持ってクダを巻くＯＬさんだった。
 // first sentence references Offset 15503, so see there why its rendered like this.
 // https://kotobank.jp/word/%E3%81%8F%E3%81%A0%E3%82%92%E5%B7%BB%E3%81%8F-483782
-// Good US equiv for slagging off? Bellyaching?
 Maybe I should've complained.
- She's just a single office lady, booze in hand, drunkenly slagging off her boss.
+ She's just a single office lady, booze in hand, drunkenly ranting and raving about her boss.
 }
 [sha:7e01731bd85208eb12df6fb61cf8401bffa13e77]{
 -- Page 300, Offset 15521.
@@ -285,7 +285,7 @@ Maybe I'd better just cut my losses and head to the tea ceremony room instead."
 [sha:7c6d80a193d716367a31e0470b3ef4c588a43bfe]{
 -- Page 301, Offset 15523.
 -- 「げ。そしてこのクールな対応。
-"Ugh. Talk about a tough crowd.
+"%{i}Ugh%{/i}. Talk about a tough crowd.
 }
 [sha:5f51e788330091c16fcb17e243567b57926eb931]{
 -- Page 301, Offset 15524.
@@ -463,7 +463,8 @@ I mean, I can't just watch on as people die, right?
 [sha:c4c614878b7b0178dec40d4996551a7098f8fa0c]{
 -- Page 311, Offset 15556.
 -- そりゃそこまで好きなワケじゃないですけど、自分の住んでる街ですから」
-This city may not be much to write home about, but it's still the place I call home, after all."
+This city may not be much to write home about,
+ but at the end of the day, it's still the place I call home."
 }
 [sha:82da59bdb7cc71ef875a0f90fb7b59f591cc7298]{
 -- Page 312, Offset 15557.
@@ -499,33 +500,40 @@ I just had a bit of a moment."
 [sha:a60ffb96880992090c3b1012601abc4a2de33a62]{
 -- Page 314, Offset 15563.
 -- ノエル先生はこちらに背を向けて顔を隠している。
-Noel turns her back to me as to hide her face.
+Noel has turned her back to me, and is hiding her face.
 }
 [sha:308054998144ed2d48cc24bd51a7100fc0533420]{
 -- Page 314, Offset 15564.
 -- でも声だけで何を思っているかは明白だ。
-But I can clearly hear from just her voice what she's thinking.
+Even so, her voice makes it pretty clear what's on her mind.
 }
 [sha:90b4ff2d00ad3365f9e24494de2e18c511cc7b1b]{
 -- Page 314, Offset 15565.
 -- 頭隠して尻隠さず、ということわざを教えてやりたい。
-// yeah, I dunno what idiom slots into here in English. The Japanese one is quite simple "Head hidden, ass exposed".
-I really want to teach her what it means to have one's back turned.
+// P: Yeah, I dunno what idiom slots into here in English. The Japanese one is quite simple "Head hidden, ass exposed".
+// R: My dictionary lists 'burying one's head in the sand', but I don't think that's really a match here.
+// R: Interpreted much more widely as pretending something bad isn't happening than about doing a bad job of concealing yourself.
+// R: Cat's out of the bag is _close_ but doesn't have the attempt to hide, and is awk in context.
+// R: Gone with this rendering instead which is a bit different but I think _kinda_ works in that she's doing something that has no effect
+I've the urge to inform her that there's no use closing the barn door after the horse has already bolted.
 }
 [sha:4daa7808fdce83b742477b8eb1ce7015745bcfdc]{
 -- Page 315, Offset 15566.
 -- 「ごめん、やっぱ無理、我慢できなーい！
-"Sorry, I really can't hold it in after all!
+"Sorry, I give up, I can't hold it in after all!
 }
 [sha:2fbebbdf1ad778fc1a0623d3468a86531fd00d3f]{
 -- Page 315, Offset 15567.
 -- 自分の住んでる街だから、って、もう、なんなのそれー！　信じられなーい！　かっわいーー！
-'This is still the city I live in'? How is that even real?! I can't believe it! You're sooo cute!
+'At the end of the day, it's still the place I call home'?
+ You've gotta be kidding me!
+ I can't believe it!
+ You're sooo cute!
 }
 [sha:9c329e9f533fa9653ab9b66bb2a7331ca01fc165]{
 -- Page 315, Offset 15568.
 -- 志貴クン、どこまでお人好しなのーー！」
-Shiki-kun, you sure are one good guy through and through!"
+Shiki-kun, just how sweet and innocent can you get?!"
 }
 [sha:26bfa3b16bcafeee14199797bc89bbc0afd9a537]{
 -- Page 316, Offset 15569.
@@ -545,19 +553,21 @@ Don't worry, just get through it! Then blush even harder!
 [sha:63482075336d6a4b0f6babe3668a1277197c8cff]{
 -- Page 317, Offset 15572.
 -- 一方、わたしはこれを肴に、今夜はパーティーとしゃれこむのでしたー！」
-// there is so much wordplay here I'm not sure if there is a good translation. 肴にする means to entertain oneself by making fun of someone, but it also means to have as a snack, hence why she comes up with party here. Then in the next sentence...
-Meanwhile I'll setup a party tonight so I can snack on this memory some more!"
+// P: There is so much wordplay here I'm not sure if there is a good translation. 肴にする means to entertain oneself by making fun of someone, but it also means to have as a snack, hence why she comes up with party here. Then in the next sentence...
+While you're doing that, I'm going to treat myself to a party tonight so that I can snack on this memory some more!"
 }
 [sha:411261074dc50fa09e19f3170ffaa0306d7f7d1f]{
 -- Page 317, Offset 15573.
 -- この疲れたＯＬ、お持ち帰りで楽しむ気だった。
-// Shiki comments on Noel's actions as "takeout", which is also slang for one-night stands.
-It seems this tired office lady is having takeout tonight.
+// P: Shiki comments on Noel's actions as "takeout", which is also slang for one-night stands.
+// R: I spent so goddamn long trawling slang archives for something perfect here,
+// R: but despite the incredible creativity on display very few of those euphemisms are fit for print / the context.
+Seems this worn out office lady plans on taking the fun back to her place.
 }
 [sha:4afdf15dfe9e593cd8e8011805c3b40104040b00]{
 -- Page 318, Offset 15574.
 -- 「あのですね、こっちは本気で、」
-"Please, I'm being serious."
+"Come on, I'm being serious―――"
 }
 [sha:4f894681c7ef86afb08cbcdd2c9903bb9965b308]{
 -- Page 318, Offset 15575.
@@ -572,13 +582,14 @@ And then, a sudden impact.
 [sha:1ceb9c29606746b2c83688038cbfbd86da2407d4]{
 -- Page 319, Offset 15577.
 -- ノエル先生は俺に駆け寄ると、そのまま<攫|さら>うように、駐輪場の壁に押しつけた。
-Noel rushes over to me, pushing me against the wall of the bicycle parking lot, almost as if abducting me.
+Noel rushes over to me and pins me against the wall of the bike shed,
+ as though she were about to abduct me here and now.
 }
 [sha:1f643230f2121c39b3c627b65a68f69418e01e3d]{
 -- Page 320, Offset 15578.
 -- 「ノエ―――」
 // lint-off:LintNameMisspellings
-"Noe—―"
+"Noe—――"
 }
 [sha:73540df316254e146ae1a46b3bfaf1e600452596]{
 -- Page 320, Offset 15579.
@@ -588,17 +599,17 @@ Noel rushes over to me, pushing me against the wall of the bicycle parking lot, 
 [sha:806c7e5241ea9acb693dd80d1fb8bf68af444ab8]{
 -- Page 320, Offset 15580.
 -- 彼女は俺の口を手で塞ぎながら、耳元で囁いた。
-She covers my mouth with her hand, while whispering into my ear.
+She whispers in my ear, her hand clamped over my mouth.
 }
 [sha:d8a730f7eebe19a124767eee489bcbb384a845e5]{
 -- Page 320, Offset 15581.
 -- ……複数の足音がする。
-I hear several distinct footsteps.
+I hear several distinct sets of footsteps.
 }
 [sha:0abe11bdafc28610fb4e2660181d0915168fc8d2]{
 -- Page 320, Offset 15582.
 -- 自転車で下校する生徒たちだった。
-They're coming from students about to leave school on their bikes.
+It's a group of students about to head home on their bikes.
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 321, Offset 15583.
@@ -608,34 +619,36 @@ They're coming from students about to leave school on their bikes.
 [sha:837f32254dced80fd6a66be836e88c5e98d71995]{
 -- Page 321, Offset 15584.
 -- ここは死角になっているのだろう。
-It seems this is a blind spot of sorts.
+We must be in some sort of blind spot here.
 }
 [sha:d0c366de92dbbb187bb82a8ad4161fe074a4cc51]{
 -- Page 321, Offset 15585.
 -- 俺たちがいる事は気づかれていない。
-They haven't noticed we're here.
+They haven't noticed us at all.
 }
 [sha:b292b801430c1fdff745d9d9c9f6fe65eec359bb]{
 -- Page 321, Offset 15586.
 -- 生徒たちは各々の自転車を取り出し、談話しながら正門へと移動していった。
-The students take out their respective bikes, and head toward the school gate, still engaged in conversation.
+The students take out their respective bikes and head off toward the school gate,
+ chatting all the while.
 }
 [sha:0fb7866feb04bf1d4f37e4a84483ea50b1a719dd]{
 -- Page 322, Offset 15587.
 -- 「……ノエル先生、あの」
-"Noel-sensei, uhm..."
+"Noel-sensei, um..."
 }
 [sha:c90682ab6bc853fcfdc0f0594f937c2a78006d7f]{
 -- Page 322, Offset 15588.
 -- もう隠れる必要はないので離れませんか、と言いたいんだけど、声がうわずって言葉にならなかった。
-'There's no need to hide anymore, so could you get off me' was what I'd wanted to say,
- but my voice cracks, and I don't manage to get it out.
+// Onore quotative
+I want to tell her that there's no need to hide anymore, and could she please get off me,
+ but my voice cracks and I just can't get the words out.
 }
 [sha:48dbb2444f232982c58f1139fa316a89657ce655]{
 -- Page 323, Offset 15589.
 -- だって体温も、鼓動も近い。
 // Maybe a bit lengthy.
-It's just――her warmth, even her the pulsations of her heart are both so close.
+I mean, her body heat, her heartbeat――they're so %{i}close%{/i}.
 }
 [sha:3ba86575ceb7b12231176b518ca3c6c0397b5af9]{
 -- Page 323, Offset 15590.
