@@ -143,6 +143,7 @@ and you're a goner!
 // Funny cat later says 'I already told him that!' re: 'attack swiftly and retreat',
 // so I guess that's the meaning of 気まぐれ that's intended here. Not sure that any direct TLs of
 // whim, caprice, fickle, etc. are a great match here, so some liberty taken with an expression instead.
+// group check pr: add something about button masher also memes
 You gotta fight like a cat: float like a%{n}
 butterfly, sting like a bee!%{n}
 }
@@ -178,6 +179,7 @@ so I have to brace myself as well.
 [sha:1566bd3ca09244800a7b2132e29bd97ffed21858]{
 -- Page 16, Offset 43346.
 -- アタシの必殺ブローをくらって
+// group pr check: something about brace myself
 She got up within the count of ten after%{n}
 }
 [sha:a2d789bc18e6c8bffeb70004e01cde04b3487e64]{
@@ -193,8 +195,8 @@ These days that attack has the power to crush%{n}
 [sha:960470c989dc4f7179b3d5b94ad77d2466ea2980]{
 -- Page 17, Offset 43349.
 -- 一撃でポシャる威力なんスけどね……
-even a 100 yen box of candy in a single%{n}
-blow...
+even a box of candy they sell at the%{n}
+dollar store in a single blow...
 }
 [sha:a5d87a0b00e3c9d73346aa3416faa68f605540dd]{
 -- Page 18, Offset 43350.
@@ -216,7 +218,7 @@ abilities.
 [sha:e965cfa9b9e5ef1acb2d5d36de64111bc836f405]{
 -- Page 20, Offset 43353.
 -- 遠野くんは普通の男の子なんですから、
-Tohno-kun is just an ordinary boy, so no matter
+You're just an ordinary boy, so no matter
 }
 [sha:33d588becf03684a1eb10bac3b10dfda360ae946]{
 -- Page 20, Offset 43354.
@@ -273,17 +275,17 @@ are low temperatures.
 -- Page 25, Offset 43363.
 -- ですので、つねにヒット＆アウェイをこころが、
  That's why you should always be%{n}
-weaving in and out...
+bobbing and weaving...
 }
 [sha:d03d455cdd41241f49d60b6ce05ea9297e17b052]{
 -- Page 26, Offset 43364.
 -- 言ったよ。
-I said that.%{n}
+I just said that.%{n}
 }
 [sha:27c1d660d139aa7053f850af9a891dcb937264cf]{
 -- Page 26, Offset 43365.
 -- それももうアタシが言ったよ。
-I said that earlier too.
+Yup, said that too.
 }
 [sha:6ba60f3e028f497832ac588d47ed394803f840d5]{
 -- Page 27, Offset 43366.
@@ -315,5 +317,6 @@ Guwaaaaaah?!%{n}
 [sha:12fee443f1cb7f45dc1fd857f6e6e09fd2204c8b]{
 -- Page 29, Offset 43371.
 -- それができたら苦労はしないっつーのーーー！！！！
+// group pr check: make the line dumber?
 I wouldn't have had any trouble if I could do that!!!!
 }

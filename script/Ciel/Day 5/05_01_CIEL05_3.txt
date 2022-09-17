@@ -49,7 +49,7 @@ My back hurts.
 [sha:f841f0034ca1396fdf5e182a9d97b41080102be2]{
 -- Page 392, Offset 11919.
 -- 「あ、気が付いちゃった？　ちぇっ、ざーんねん。もう少しこのままでもよかったんだけどなあ」
-"Oh, you're awake? %{i}Tch%{/i}, too baaad. It would've been nice to stay like this a bit longer."
+"Oh, you're awake? %{i}Tch%{/i}, toooo bad. It would've been nice to stay like this a bit longer."
 }
 [sha:e5825ed63787bd96f80045ee427b7a1ee314b4e8]{
 -- Page 392, Offset 11920.
@@ -127,7 +127,7 @@ And yet, I'm still alive, which means...
 -- Page 397, Offset 11933.
 -- 「もちろん。教会の代行者ですもの、これぐらいのピンチは三回もくぐり抜けてるわ」
 "Of course.
- I'm an Executor of the Church, you know.
+ I %{i}am%{/i} an Executor of the Church.
  I've gotten myself out of at least %{i}three%{/i} sticky situations like this in the past."
 }
 [sha:ee771d5ba4ebc9470c75fa4b4364bdce3742a788]{
@@ -177,6 +177,7 @@ Oh... then what about Ciel-senpai?"
 [sha:134866779fb40c366bffac5aa4dc2e092868a064]{
 -- Page 400, Offset 11942. Glued. Mods: @x.
 -- あの子も本職は代行者よ。目的は吸血鬼の殲滅。この任務が終われば次の任務先に向かう、さすらいの転校生ってワケ」
+// group pr check: あの子も本職は代行者よ she's also an executor or something along those lines
  She's also actually an Executor by trade.
  Her objective is to exterminate vampires.
  Once she's finished with this assignment, she'll head to the next one, kinda like a wandering transfer student."
@@ -437,7 +438,7 @@ Don't be so full of yourself.
 They're not even living beings anymore.
  They're monsters that use their Concept as a weapon.
  Curses that erode reality.
- They're like bugs in the world, glitches that upend the human laws of physics that have held firm for thousands of years."
+ They're like bugs in the world, glitches that disturb the human laws of physics that have held firm for thousands of years."
 }
 [sha:92cbbb11ade3d459f80a661acd213ad3a1d5414f]{
 -- Page 421, Offset 11989.
@@ -473,7 +474,7 @@ Do you get it?
 -- Page 422, Offset 11994.
 -- あの子は特別だから。きっちり対策をして装備を調えていたらいい勝負になってたんじゃない？　さっきは下調べのつもりだったから簡易装備しかなかったけど」
 That girl is special.
- Don't you think she'd be on even footing with him if she had a plan and the necessary equipment?
+ I guess she'd be on even footing with him if she had a plan and the necessary equipment.
  We were only here to do a preliminary investigation, so she's only got the essentials on her."
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
@@ -495,7 +496,7 @@ Then... if she had the right equipment, could she kill that monster?
 -- Page 424, Offset 11998.
 -- 「そういうワケなのでぇ、私たち凡人はこうして助けを待っていればいいの。これだって立派な仕事よ、志貴クン？」
 "That's why normal folks like us should just sit tight and wait to be rescued.
- Don't you think that's a fine job to have as well, Shiki-kun?"
+ Don't you think that's a noble task to have as well, Shiki-kun?"
 }
 [sha:253d246b463df58cd153f032fa46fa6ba2bcf520]{
 -- Page 424, Offset 11999. Mods: @n.
@@ -640,5 +641,5 @@ Standing there―――
 [sha:728e6307dc8b37e771a8429ffee63130cd08da2e]{
 -- Page 435, Offset 12025.
 -- 片手で何メートルもの岩盤を持ち上げ、俺たちを助け出してくれたシエル先輩の姿があった。
-Is the figure of Ciel-senpai, our rescuer, holding a several meter long boulder aloft with a single hand.
+Is the figure of Ciel-senpai, our rescuer, holding a boulder several meters in diameter aloft with a single hand.
 }

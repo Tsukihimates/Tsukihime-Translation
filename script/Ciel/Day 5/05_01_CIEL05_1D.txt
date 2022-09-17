@@ -60,7 +60,7 @@ I'd wanted to run away and curl up somewhere safe,
 -- 「……とりあえずは、です。<こ|・><こ|・>にいるかぎり、安全はないと思います。俺も落とされたばっかりで訳が分からないけど……って、そうだ。先生はどうして、」
 "Well... more or less.
  I don't think we can be truly safe so long as we're in %{i}this%{/i} place.
- I only just got dropped down here myself so I'm not really sure what's going on yet, but...
+ I only just got dropped down here myself, so I'm not really sure what's going on yet, but...
  Oh, right, Sensei, what are you doing he―――"
 }
 [sha:f713f23804d34380bd14a3729560eedd5a99c7b0]{
@@ -133,7 +133,7 @@ That's because I knew going in that I was heading into a vampire's nest.
 -- Page 160, Offset 11305.
 -- 「ねぇ、怖くないの!?　いっぱい、いっぱい死体の山！
 "Hey, aren't you afraid?!
- There's mountains and mountains of corpses down here!
+ There're mountains and mountains of corpses down here!
 }
 [sha:10135cdffbf934ceb25f446db6a0d546468680e8]{
 -- Page 160, Offset 11306.
@@ -431,7 +431,7 @@ What should I do?
 [sha:db84fde64dfeee8ef4e346b9e0b1d2b61ae6910d]{
 -- Page 180, Offset 11359.
 -- 何ができるのか。
-What can I do?
+What %{i}can%{/i} I do?
 }
 [sha:77b6cb1dabe7e2753a2554b52c18a7045144be08]{
 -- Page 180, Offset 11360.
