@@ -31,32 +31,34 @@ I'll sneak out of here once everyone's gone to bed,
 -- Page 399, Offset 15771.
 -- 「んー、ダージリンでしたら二番目より一番目の方が好まれると思いますよ？　味も香りも控えめで後に残りませんもの」
 // 二番目 and 一番目 here are the same concept as the first/second flush mentioned below, but I've left them distinct as in the original.
-"Hmm, I believe he'd appreciate Darjeeling more if it was the first picking rather than the second?
- Both the taste and the aroma is more subdued, without the same aftertaste."
+"Hmm, I believe he'd appreciate Darjeeling more if it were the first picking rather than the second?
+ Both the taste and the aroma are more subdued, and it doesn't linger as much on the tongue."
 }
 [sha:aa627694d00d3cda7f1b1af0bcec215053e3a1a2]{
 -- Page 400, Offset 15772.
 -- 「そうね、兄さんにはファーストフラッシュの方が合っているかも。私はセカンドフラッシュの方が好みだけど、たまには兄さんに合わせましょうか」
-"Quite, the first flush might be more to Nii-san's tastes.
- And while I prefer the second flush myself, we might as well adjust ourselves to Nii-san now and then."
+"As you say, the first flush might be more to Nii-san's tastes.
+ While I do prefer the second flush myself, I suppose it doesn't hurt to cater to Nii-san's palate once in a while."
 }
 [sha:8e96bd94ce7ab5d3fe586f4cff708a17adf0c612]{
 -- Page 401, Offset 15773.
 -- 「でも好みで選ぶのなら紅茶より日本茶の方がいいんじゃない？　日本茶好きは兄さんと琥珀で、私と翡翠が紅茶党かしら」
-// 日本茶 could almost be just 'green-tea' because that's what most people associate with Japanese teas, but stricly speaking it involves other things like mugi-cha and kelp-tea
-"Though if we are to select based on his preferences, wouldn't traditional Japanese tea be better than black tea?
- If Nii-san and Kohaku are Japanese tea enthusiasts, then me and Hisui are the black tea party, I suppose."
+// P: 日本茶 could almost be just 'green-tea' because that's what most people associate with Japanese teas, but stricly speaking it involves other things like mugi-cha and kelp-tea
+// R: I've changed this to green tea, because in a high class establishment like this I think we're almost certainly
+// R: talking about Tea (Sinensis) rather than tea (any old garbage in hot water)
+"Though if we were to select a tea based on his preferences, perhaps we ought to select a green tea instead?
+ If Nii-san and Kohaku are the green tea enthusiasts, I suppose Hisui and I represent the black tea contingent."
 }
 [sha:717b5d6e7effa343e5f032900a100f29591ea5aa]{
 -- Page 401, Offset 15774.
 -- 「いえいえ、翡翠ちゃんはお茶にはこだわりませんよ。
-"Not at all, Hisui-chan does not have any particular preferences when it comes to tea.
+"Not necessarily; Hisui-chan doesn't have any particular preferences when it comes to tea.
 }
 [sha:829f29c761f932d41f564a5878a295ea0dd058b5]{
 -- Page 401, Offset 15775.
 -- 神経質そうに見えますけど、こう見えてわりとず―――」
 // not sure what the ず that gets interrupted here is supposed to be, so I've sort of left it untranslated.
-She might appear fussy, but contrary to expectations she's a rather-"
+She might appear fussy, but contrary to expectations she's a rather―――"
 }
 [sha:48765159bb841d31e5f9c78ac1ec547ef037a137]{
 -- Page 401, Offset 15776.
@@ -66,33 +68,35 @@ She might appear fussy, but contrary to expectations she's a rather-"
 [sha:ec95b7d8d67da4d844fd343e1e7b0da9cfd857ff]{
 -- Page 402, Offset 15777.
 -- 「見た目通り好き嫌いのない鉄壁のメイドさんですから。
-"-steadfast maid without particular preference, just as you'd expect from her, you see.
+"―――steadfast maid with no particularly preferences, as you can plainly see.
 }
 [sha:495f6aba72b504d055d542131ee455cf78300479]{
 -- Page 402, Offset 15778.
 -- ほら、お掃除とかお裁縫とか、できない事ってないんですよ、志貴さん」
-I mean, whether its cleaning, sewing, or just about anything, there's nothing she can't do, Shiki-san."
+// Cooking not on the list :thinkies:
+I mean, there's nothing she can't do, be it cleaning, sewing, or just about anything else, Shiki-san."
 }
 [sha:629d4e25affca42c98084cb13749ff27e2216256]{
 -- Page 403, Offset 15779.
 -- 話に参加していなかったのに、琥珀さんは唐突に話を振ってきた。
-// not sure about 'cue', maybe there's a better expression that could be used here.
-Even though I'm not even part of the conversation, Kohaku suddenly gives me the cue to talk.
+Kohaku-san suddenly addresses me, even though I haven't been a part of the conversation so far.
 }
 [sha:3b90ffaf50e3dad5dc0b2ec5455e71c4c4204cae]{
 -- Page 404, Offset 15780.
 -- 「紅茶の話をしてたように思うけど、なんで翡翠の話に？」
-"It seemed to me you were talking about tea, so why the change to Hisui?"
+"I thought you were discussing black tea,
+ why are you talking to me about Hisui all of a sudden?"
 }
 [sha:9805955f41da12ffdbd90f5796ec2d474fe4ee98]{
 -- Page 404, Offset 15781.
 -- 「だって志貴さんは翡翠ちゃんと一緒ですから。翡翠ちゃんの神経質なところは知っているでしょう？」
-"Obviously because Shiki and Hisui are part of the same package. You know about Hisui's fussiness too, don't you?"
+"Because you spend so much time together with her, of course.
+ You've picked up on Hisui-chan's fussiness too, haven't you?"
 }
 [sha:004d4c3e6732b6451dbbaa5ddea3494e9a17ac53]{
 -- Page 405, Offset 15782. Mods: @n.
 -- 「いや、それは―――
-"No, it's-
+"No, that's――――
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 405, Offset 15783. Glued.
@@ -107,38 +111,43 @@ Even though I'm not even part of the conversation, Kohaku suddenly gives me the 
 [sha:62ed69274c26a2e51fb674e70b5c11c0285860cd]{
 -- Page 405, Offset 15785.
 -- 横目で盗み見た翡翠はどことなく緊張しているように見えた。
-Sneaking a glance at Hisui out of the corner of my eyes reveals her looking somewhat nervous.
+I sneak a glance at Hisui out of the corner of my eye, and notice she's looking somewhat nervous.
 }
 [sha:0916643550a65b84191c3eb76aeb8b2feb4fc155]{
 -- Page 406, Offset 15786.
 -- 「うーん、神経質とは違うような。きめ細かい仕事と神経質なのは別でしょ。俺がポカやってもすぐに片付けてくれるし、自分でも気付かない体調を指摘してくれるし。
-"Hmmm, I feel like fussy isn't quite right. Being meticulous in your work is not the same as being fussy, now is it?
- I mean, whenever I mess something up, she immediately takes care of it for me;
- whenever I'm unaware of my physical condition, she points it out for me;
+"Hmm, I feel like 'fussy' is the wrong word.
+ Being meticulous in your work isn't the same as being fussy, now is it?
+ I mean, whenever I mess something up she immediately takes care of it for me,
+ and when I'm feeling under the weather but haven't picked up on it yet she points it out for me.
 }
 [sha:ad4cc9b9d148aa75bde23d90627b5fdd0e9935b9]{
 -- Page 406, Offset 15787.
 -- あと夜遅くに帰っても誰かさんみたいに怒らないし。そういうのはおとなしい、優しい、と表現すべきだよ」
-And finally, whenever I come home late at night she doesn't get mad at me, unlike a certain somebody.
- That's more appropriately expressed as 'well-behaved' and 'kind', honestly."
+On top of that, she doesn't get mad at me when I get home late in the evening, unlike a certain somebody.
+ I think you'd call that 'well-behaved' and 'kind', if anything."
 }
 [sha:3f0770e07731e5b29d80edae77efcbe4092d511d]{
 -- Page 407, Offset 15788.
 -- 「兄さん。門限も守れない学生は糾弾されて然るべきだと思うのですが、私は間違っているかしら？」
-"Nii-san. I believe it proper that students who violate their curfew be condemned for it, or am I wrong?"
+// Final comma VA pause long enough to split imo
+"Nii-san.
+ I believe that it is only fitting that students who violate their curfew are reprimanded for it.
+ Am I mistaken?"
 }
 [sha:dc285b32d02bbe664331dc5361f39ea97ba7e123]{
 -- Page 408, Offset 15789.
 -- 「もちろん正しい。けど、いくらなんでも８時っていうのは早すぎないか？　子供じゃないんだから、この際10時ぐらいに決めなおそう」
 "You're right, of course.
- That said, no matter how you look at it, wouldn't you say eight o'clock is far too early?
- I'm not a kid, so why don't we take this opportunity and rearrange to be at least ten o'clock?"
+ That said, surely even you can agree that eight o'clock is way too early?
+ I'm not a kid, so why don't we take this opportunity to push that time back to ten o'clock?"
 }
 [sha:5607c58b6b7c2c725dc6cda47f9cf5229d60199d]{
 -- Page 409, Offset 15790.
 -- 「却下です。兄さんにはそんな時間まで外にいる理由はないでしょう。習い事をしている訳でも、部活動をしている訳でもないんですから」
-"Out of the question. Nii-san, you have no reasons to be outside at such times regardless.
- It's not as if you're out taking lessons or doing club activities, after all."
+"Out of the question.
+ You have no business being out that late, do you, Nii-san?
+ It's not as if you have any lessons to attend or club activities to participate in."
 }
 [sha:bc991f9f367c4d38704da922ff5f444a69ac0ba3]{
 -- Page 409, Offset 15791.
@@ -153,20 +162,21 @@ When she puts it like that, there's not much room for a rebuttal.
 [sha:3ad505acfea25a23a54abdcc2b4645bf0357bc69]{
 -- Page 410, Offset 15793.
 -- 俺のような自由人が家に帰ってこないのなら、その理由は遊び以外の何ものでもないからだ。
-If someone with as much free-time as I have isn't returning home early,
- then there can't be any other reason than that I'm out fooling around.
+If someone with as few commitments as myself isn't returning home early,
+ there isn't much they could be off doing other than fooling around.
 }
 [sha:50bef6066fc91e27d01e58fb70da6bcaf6ee1d7a]{
 -- Page 411, Offset 15794.
 -- 「もっとも、門限を守ればいい、という話ではありませんけど。これまでの自堕落ぶりを反省して早く帰ってきてくれたのは喜ばしいですが、その後が気になります。夕食から心ここにあらずという様子ですが、何かあったのですか？
-"Although, that doesn't mean all you have to do is follow the curfew.
- I am pleased that you've reflected on your self-indulgence up until now and returned home early, but I'm still concerned about what comes thereafter.
- You appear to have had your mind elsewhere ever since dinner――did something happen?"
+"Of course, adhering to the curfew isn't the only thing I expect of you.
+ I'm pleased that you've reflected on your self-indulgent behavior to date and returned home early,
+ but I'm still apprehensive about what you might do in future.
+ It seems as though your mind has been elsewhere ever since dinner――is something the matter?"
 }
 [sha:8e9f5f8ddc922b5bb11faddbb3baaa667ef1c810]{
 -- Page 411, Offset 15795.
 -- 例えば―――この後、何かご予定が入っているとか」
-Do you, for example... have some sort of plans after this?
+Do you, for example... have any plans after this?
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 412, Offset 15796.
@@ -177,23 +187,21 @@ Do you, for example... have some sort of plans after this?
 -- Page 412, Offset 15797.
 -- 思わず目が泳ぎそうになったが、すんでのところで持ちこたえた。
 // maybe could be improved in terms of wording for 目が泳ぎそうになった
-I'm this close to breaking eye-contact with her, but stop myself in the last moment.
+I'm this close to breaking eye contact with her, but stop myself at the last moment.
 }
 [sha:77277f27ece7ea91f635cd07fe7890689e5b98b4]{
 -- Page 413, Offset 15798.
 -- 秋葉のヤツ、なんて勘の良さか。そしてその<疑|ネ><惑|タ>をここぞというタイミングで切り出すとか、いつもの俺なら一刀両断に切られてボロをだしていたに違いない。
-// 一刀両断に切られて here has been dramatically shortened to "immediately", maybe there's a better way of expressing it, but being literal is obviously incorrect.
-How is Akiha %{i}this%{/i} perceptive?
- To think she'd bring out these kind of suspicions at this critical juncture――My usual self would've no doubt given myself away immediately.
+How is Akiha %{i}so%{/i} damn perceptive?!
+ She hit me with these allegations right at this critical juncture, too――ordinarily I'd have folded like a house of cards.
 }
 [sha:14e243e4996b9676e787b7df4cab084564458027]{
 -- Page 413, Offset 15799.
 -- しかし吸血鬼との戦い、今朝のシエル先輩との再会、とどめにアルクェイドの強襲を体験した俺に死角はない。
-However, my experiences with the vampire battle,
- the reunion with Ciel in the morning and,
- to top it all of,
- Arcueid's sudden ambush,
- has left my current self with no weak-spots.
+However, I've been through a lot――I fought with a vampire,
+ was reunited with Ciel-senpai this morning,
+ and even survived Arcueid's ambush.
+ I don't have any weak spots anymore.
 }
 [sha:7f70422aaf203e6c41d721a06665e1f6eedeb76c]{
 -- Page 414, Offset 15800.
