@@ -464,7 +464,7 @@ But that's not what Vlov would do.
 -- Page 465, Offset 15914.
 -- あいつは死体を燃やしてしまう。血を吸いはしたが、それも主立った殺害方法じゃなかった。
 // Near duplicate of Offset 17159 (only change is は to も!!!!!!!!!!!!!!!!)
-That guy burned corpses to a crisp. It's true that he did suck blood, but that was not the main way he killed people.
+That guy burned corpses to a crisp. It's true that he did suck blood, but that wasn't the main way he killed people.
 }
 [sha:4cc9de1a26e6581ab8a69b3a12913880901dc882]{
 -- Page 465, Offset 15915.
@@ -481,7 +481,7 @@ Then―――that means Vlov has no connection to the serial killings that have 
 [sha:e3999699509028a80e0fbb96524285b083e34a5c]{
 -- Page 467, Offset 15917.
 -- 「待ってくれ。じゃあ吸血殺人事件はなんなんだ？
-"Hold on. Then who is behind these vampire killings?
+"Hold on. Then who %{i}is%{/i} behind these vampire killings?
 }
 [sha:79283fad5696d71c36896a0bd8593bb9fb654c4c]{
 -- Page 467, Offset 15918.
@@ -499,63 +499,66 @@ Who on earth would go out of their way to do that?"
 -- Page 468, Offset 15920.
 -- この街に隠れていたのは『ロア』という名前の死徒よ。
 // Arcueid uses past-tense here because she killed Roa on Day 6, its mixed because well, he's no longer hiding, but he's not really dead, now is he?
-The Dead Apostle who was hiding in this city is named 'Roa'.
+The Dead Apostle who was hiding in this city is named Roa.
 }
 [sha:3413f5f51efeef618ce6c125e3e109b680d2797b]{
 -- Page 468, Offset 15921.
 -- 年月をかけて都市を侵食するタイプで、その特色は“転生する”こと。一つの都市を汚染した後、その命を終えて次の都市を食い物にする吸血鬼」
 // maybe 侵食 here should be more consistent with other use cases of the word.
 // moved the 吸血鬼 at the end to the beginning for less redundancy
-He's the type of vampire who eats away at cities gradually, over the course of years.
- He is characterized by being able to reincarnate――after corrupting one city, he'll end his life, before moving on to prey on another."
+He's the type of vampire who slowly eats away at cities over the course of many years.
+ His defining trait is reincarnation――once he's finished corrupting a city,
+ he'll end his life and move on to prey on the next one."
 }
 [sha:5b2b28099d134c44ee634154b1ab572e3348e59d]{
 -- Page 469, Offset 15922.
 -- アルクェイドの声には隠しようのない嫌悪が込められていた。
-There's a disgust in Arcueid's voice that she cannot conceal.
+There's an unmistakable note of disgust in Arcueid's voice.
 }
 [sha:ea7d59074211a417e62c22f2218d6b29b4606804]{
 -- Page 469, Offset 15923.
 -- ……一瞬、背筋が寒くなったのは、そんな彼女の声に気圧されたからだろう。
-For an instant, chills travel up my spine――her voice being like that is probably too much for me to take.
+Her voice is so overpowering that I feel a brief shiver run down my spine.
 }
 [sha:0a710b7c91f7e302674af09f916d980cadcfa26d]{
 -- Page 470, Offset 15924.
 -- 「転生って……あの、死んだら生まれ変わるって意味の、転生？」
-"Reincarnation... so like, being reborn after death――that reincarnation?"
+"Reincarnation... as in, dying and being reborn――that reincarnation?"
 }
 [sha:36660eec6af5623e2e09840e72b7ccd078b6edd1]{
 -- Page 470, Offset 15925.
 -- 正しくは<輪廻転生|りんねてんせい>、だったか。
-// 輪廻転生 could be samsara too, there are a few options here
-More properly known as the cyclic reincarnation, I think.
+I think the proper name for it is Samsara, or something like that.
 }
 [sha:fd90f7445864cf9ad38a7897cb6302c1f31d7e75]{
 -- Page 470, Offset 15926.
 -- 人は死んでも次の命に生まれ変わるだけで、魂は永遠に消え去らない、という仏教の概念だ。
-It's a Buddhist concept where death only entails being reborn into one's next life, with the soul being eternal.
+It's a Buddhist concept which states that when you die, you're simply reborn into your next life――the soul itself is eternal.
 }
 [sha:7de8cc77cb0e7e5c1cb348f418e7716a0fcf6990]{
 -- Page 471, Offset 15927.
 -- 「そう。殺されても次の命に生まれ変わる、人間を利用した不老不死の亜種。
-"Right. He's killed, and then reborn into his next life. It's a variant on immortality utilizing humans.
+"Precisely.
+ Even if he's killed, he just gets born again into his next life.
+ It's a variant of immortality that makes use of humans.
 }
 [sha:0a6f0ae0efde445182086c697e2a8d4e1e5d4fa3]{
 -- Page 471, Offset 15928.
 -- 転生は聖堂教会の教義にはないから、ロアは“いないもの”として扱われてきたわ」
 // why is Arcueid saying something so blatantly wrong...?
-Because reincarnation is not part of the Holy Church's dogma, to them, Roa is treated as someone who doesn't exist."
+Because reincarnation isn't a part of the Holy Church's dogma,
+ they just pretend as though he doesn't exist."
 }
 [sha:d8d972c5c576eadda6a74456ad462e3d90bc4a4b]{
 -- Page 472, Offset 15929.
 -- 「わたしはその<死|ロ><徒|ア>を殺すためにこの街にやってきた。
-"I came to the city to kill this Roa.
+"That same Roa is who I came to this city to kill.
 }
 [sha:062f8c769069660e4b6e673745243443bf9aa2fd]{
 -- Page 472, Offset 15930. Mods: @k, @e.
 -- ヴローヴが来た理由は……
 // identical to first part of Offset 17166
-The reason behind Vlov coming here is...
+As for why Vlov came here...
 }
 [sha:c34a115369ea8c223abf7b58275f81d093ec9176]{
 -- Page 472, Offset 15931. Glued. Mods: @x.
@@ -567,7 +570,7 @@ well, I'm no longer entirely sure.
 -- Page 472, Offset 15932.
 -- 名誉目当てでわたしを追いかけてきた祖かと思ったけど、ヴローヴにはそれだけの理性……死徒社会における協調性はなかったみたいだし」
 // near duplicate of Offset 17167
-I thought he was an Ancestor who came after me for the glory of it, but Vlov couldn't think all that rationally,
+I thought he was an Ancestor who came after me chasing glory, but Vlov couldn't think all that rationally,
  nor did he seem particularly well aligned with Dead Apostle society, either."
 }
 [sha:58361c1e1901b967ed3c2b31f48518f91a9e5ee7]{
@@ -580,7 +583,7 @@ I thought he was an Ancestor who came after me for the glory of it, but Vlov cou
 -- とにかくヴローヴとロアは別物よ。ヴローヴは正真正銘、この街の死都化とは無関係の第三者ってコト」
 // very reminiscent of Offset 17169.
 At any rate, Vlov and Roa are two different beings.
- Vlov was genuinely a unrelated third party when it comes to the Dead Apostle infection of this city."
+ Vlov genuinely had nothing to do with the rise of Dead Apostles infecting this city."
 }
 [sha:7db1beda072367ac5f89eba262d13d467f0b46ec]{
 -- Page 474, Offset 15935.
@@ -593,7 +596,7 @@ At any rate, Vlov and Roa are two different beings.
 // near duplicate of Offset 1717
 Vlov may have considered me his target,
  but I was never after him.
- My target was the 'serial killer' vampire that's in this city.
+ My target was always the 'serial killer' vampire that's in this city.
 }
 [sha:184689e630a36897c025ce76261fd9234e8132da]{
 -- Page 474, Offset 15937.
@@ -603,7 +606,7 @@ Shiki... I hate to ask, but did you really misunderstand something so incredibly
 [sha:aff06061948a413e9387df7a4a6402a75bc55ad8]{
 -- Page 475, Offset 15938.
 -- 「……あ、うん。勘違い、してた」
-"Uh, yeah. I, misunderstood."
+"Uh... yeah. I totally misunderstood."
 }
 [sha:53207be62bf12a01e9a08ba30a09979324ae8f2e]{
 -- Page 475, Offset 15939.
@@ -615,13 +618,13 @@ I somewhat awkwardly break eye contact with Arcueid.
 -- アルクェイドの目的が『吸血鬼殺し』だというから、完全に早とちりしていたようだ。
 // identical to first part of Offset 17176
 Because she said that killing vampires was her objective,
- it seems I immediately jumped to the wrong conclusion.
+ I immediately jumped to what seems to have been the wrong conclusion.
 }
 [sha:31d7d3483e35f3e44d24f8f25c5394fab3a6fabe]{
 -- Page 476, Offset 15941.
 -- 「それじゃあ、あの夜ヴローヴと殺し合ったのは無意味な事だったのか……？」
 // very reminiscent of Offset 17177
-"So like, you're telling me that killing Vlov that night was completely meaningless...?"
+"So then, you're telling me that killing Vlov that night was completely meaningless...?"
 }
 [sha:1e8cabb16bb16b0ec02288f8f7c68ae10f04fd0d]{
 -- Page 477, Offset 15942.
@@ -633,7 +636,7 @@ Because she said that killing vampires was her objective,
 -- Page 477, Offset 15943.
 -- ヴローヴが貴方たちにとって脅威だったのは事実だし、志貴はわたしの代わりに戦ってくれたんじゃない」
 // second part near identical to second part of Offset 17178
-It's fact that Vlov posed great threat to you people,
+It's a fact that Vlov posed a serious threat to you humans,
  and besides, you were the one who fought in my place, right?"
 }
 [sha:80577210e1430372926c43e4033c808a8f5c78e7]{
@@ -644,16 +647,15 @@ It's fact that Vlov posed great threat to you people,
 [sha:2b4790e3260c084a61a93d1badec06c4cc252433]{
 -- Page 478, Offset 15945.
 -- あの時の志貴はキレイだった。わたし、あんなに目が離せなかったのは初めてだった。
-You were so pretty back then.
- Never before have I found something so riveting to watch.
+You looked so beautiful back then.
+ It was the first time I'd ever watched something so riveting.
 }
 [sha:6bfbb53d83679d39da779182f8fdcc6a2e13d0cb]{
 -- Page 478, Offset 15946.
 -- ……まあ、だからこそアイツが視界に映るのが我慢ならなかったんだけど。目障りにも程があったわ」
 // 目障り actually works well as eyesore here, who wudda thought.
-But well,
- that just made it all the harder to endure having %{i}her%{/i} enter my vision.
- What a total eyesore."
+Though... that just made it all the more annoying to have %{i}her%{/i} skulking about in the background.
+ Talk about an eyesore."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 479, Offset 15947.
@@ -674,49 +676,50 @@ Still... she's right. What we accomplished wasn't in vain.
 [sha:a4a770947dea791a68a61b50cde9b7214af149cd]{
 -- Page 480, Offset 15950.
 -- ヴローヴが何者であれ、ヤツはあの時倒さなければならない災害だった。モノを“殺す”ことしか能の無い俺でも、あの時だけは確かに有益だったんだ。
-No matter Vlov's identity, he was a living disaster who had to be defeated.
- That incident was the one time that I――incompetent outside of my ability to 'kill' things――did something beneficial.
+It doesn't matter who Vlov was――he was a living disaster who had to be defeated.
+ Even if I'm someone who can't do anything other than 'kill' things,
+ I can at least say with certainty that I helped to achieve that goal.
 }
 [sha:4331ea3a297057a0f8ae8597d242f40636ed637f]{
 -- Page 481, Offset 15951.
 -- 「……いや、でも待て。
-"No... but wait.
+"Wait... hold up a second.
 }
 [sha:9929e4caef608df46f11d5173f7765849bb2c813]{
 -- Page 481, Offset 15952.
 -- じゃあ吸血鬼事件は何も解決してないってコトか!?　ロアってヤツはまだ生きているんだから！」
-Doesn't that mean the vampire killings aren't resolved in the slightest?!
- This Roa guy is still alive, after all!"
+Doesn't that mean we're back to square one with regard to the vampire killings?!
+ I mean, this Roa guy is still alive!"
 }
 [sha:f621687d806cf237528768f5c78d77c5132d349c]{
 -- Page 482, Offset 15953.
 -- 「ううん、それも問題なし。もう危険はないから安心して。ここからは後処理みたいなものだし」
-"Nope, that won't be an issue.
- There's no more danger, so you can rest easy.
- For hereon we'll basically be dealing with cleanup."
+"Nope, he won't be an issue.
+ That danger has passed, so you can rest easy.
+ Only thing we have to deal with from here on out is cleanup."
 }
 [sha:4d08bf02d0f7d4edacfce9d87fffc50c87e7eb9a]{
 -- Page 482, Offset 15954.
 -- 「後処理……？　ってことは……」
-"Cleanup...? Which means..."
+"Cleanup...? You mean..."
 }
 [sha:2e3faacdf6f1a0831613f9d8ce16e30dcc1b489c]{
 -- Page 482, Offset 15955.
 -- もしかして、とは思うけど……
-If my hunch is right...
+I think I can guess what's coming, but...
 }
 [sha:7c74a3cc7da124b3f98181298000b322d8a7c19a]{
 -- Page 483, Offset 15956.
 -- 「ええ、ロア本体はとっくに始末したわ。
-"Indeed, I already took care of Roa himself a while ago.
+"Yep, I already took care of Roa himself a while ago.
 }
 [sha:58fd92b5a64566909a68dcb0c3a99eea7856f1cd]{
 -- Page 483, Offset 15957.
 -- 言ったでしょ、志貴のおかげだって。ヴローヴに使う分の力が余ってたし、すぐに見つけてやっつけちゃった」
 // Roa's name added her for clarity.
 Remember what I said? It's all thanks to you.
- I had power left over that I had intended to use for Vlov,
- so I managed to discover Roa easily and take him out."
+ Since I didn't end up having to use any of my power against Vlov,
+ I had enough left to go hunt Roa down and take him out ahead of schedule."
 }
 [sha:3220f4d71a67a592ee39dc2a7f65f66f2ccc96e9]{
 -- Page 484, Offset 15958.
@@ -726,17 +729,17 @@ Remember what I said? It's all thanks to you.
 [sha:694c1048fcdc42840bd1baf3a6f5810461ed7537]{
 -- Page 484, Offset 15959.
 -- あっさりと、アルクェイドは事件解決を報告した。
-Arcueid nonchalantly reports the end of the killings.
+Arcueid nonchalantly reports the end of the serial killings.
 }
 [sha:ab3578a5c2fc65804647c5101d38a8f5334e68db]{
 -- Page 485, Offset 15960.
 -- 「そ、それは……街の人間として、助かる、けど」
-"G-Given... that I live here, I'm thankful, but――"
+"T-That's... Well, I guess I should say thanks as someone who lives here."
 }
 [sha:b2a54f3e75149cfbe1522021c2ab2aa01cf3f1f0]{
 -- Page 485, Offset 15961.
 -- イヤな予感が背中に走って、心臓がどくん、と脈打つ。
-A grim foreboding crawls up my spine, and I my heart gives off a loud pulsation.
+A feeling of foreboding crawls up my spine, and my heart throbs violently.
 }
 [sha:6e0ef3bd5375f8157fd78187e2177e655eb49d5b]{
 -- Page 486, Offset 15962.
@@ -748,50 +751,51 @@ A grim foreboding crawls up my spine, and I my heart gives off a loud pulsation.
 -- 前に話したでしょ、親基と下僕の関係。死者はみんな死体に戻っただろうけど、死徒にまで成ったのが数体残ってるみたいなの。
 I told you about this before, right?
  How sires and underlings are connected.
- The Dead have probably all went back to being mere cadavers,
- but it seems there are a few who managed to climb all the way to Dead Apostle still remaining.
+ The Dead have probably all gone back to being mere cadavers,
+ but it seems a couple of his underlings climbed far enough in the ranks to become Dead Apostles in their own right,
+ and are still hanging around.
 }
 [sha:e5e262e6daf6b4d5a6616228447b0e386f9a4f20]{
 -- Page 486, Offset 15964. Glued. Mods: @x.
 -- それでね、志貴」
-So with that said, Shiki."
+ So with that said, Shiki..."
 }
 [sha:7afc659f200416795db5c1ef27457a10c0ee049f]{
 -- Page 487, Offset 15965.
 -- アルクェイドは甘えた声で俺の名前を口にした。
-Arcueid calls my name with an almost sweet tenor.
+Arcueid calls my name in a wheedling tone.
 }
 [sha:d31b059ab9c682251682c75ea51fef62e4335238]{
 -- Page 487, Offset 15966.
 -- ……読めてきた。
-I saw this coming.
+...I can see where this is going.
 }
 [sha:aae64f95f55e6fb58a0ca7f4610b8a38b7ba0e23]{
 -- Page 487, Offset 15967.
 -- というか、読めてしまった。
 // well, well, しまった my old enemy.
-I hate that I saw it coming.
+I hate that I can see where this is going.
 }
 [sha:abe974b8a65a8ddd9de1e2d998bd698a77b5b6a2]{
 -- Page 487, Offset 15968.
 -- アルクェイドが俺を呼びつけたのは、つまり、
-Basically, the reason Arcueid called me out here is――
+Basically, the reason Arcueid called me out here is because―――
 }
 [sha:fd0499dc067d6e87fb31d4166182dbfddf5bd931]{
 -- Page 488, Offset 15969.
 -- 「ロアを倒すのに力を使っちゃったから疲れちゃって。
-"I'm tired from having to use all that power to defeat Roa.
+"I ended up using a bunch of my strength to defeat Roa, so I'm a little worn out.
 }
 [sha:509adc7cd20b12744f0ff7ca7788b7916d95d9f2]{
 -- Page 488, Offset 15970.
 -- 誰かがわたしと一緒に、死徒の後始末をしてくれたら助かるんだけどなあ」
-Oh, if only someone could take care of these Dead Apostles with together with me, I would sooo appreciate it."
+Oh, if only there were %{i}someone%{/i} out there who'd come to my aid and help me take care of these Dead Apostles..."
 }
 [sha:fb05a82b17f6f51a501a0e74f780221ad68c41d2]{
 -- Page 488, Offset 15971.
 -- 「う―――ぐ」
 // Yeah, I dunno. Listen to it in-game, its some sort of groan.
-"Ugh――err"
+"Wh―――%{i}Sigh%{/i}."
 }
 [sha:dbb058e7921629e885e179cf1f3aac006e2e3029]{
 -- Page 489, Offset 15972.
@@ -806,12 +810,12 @@ I do appreciate what Arcueid is doing.
 [sha:3f8cbc7ba24e004f005dd348fb0687e3efa530b4]{
 -- Page 489, Offset 15974.
 -- 街に残っている吸血鬼だって野放しにできない。
-The vampires who still remain in the city can't just be left alone.
+The vampires still in this city can't just be left to their own devices.
 }
 [sha:e740fc3a8a34463658193fe04d1bf750227e1068]{
 -- Page 490, Offset 15975.
 -- けど、だからといってコイツに手を貸すのは別問題だ。
-But still, that is a completely separate matter from me teaming up with her.
+Still, that doesn't mean I can just agree to help her on the spot.
 }
 [sha:f95255dd26c3c7f447e3e53d2aa3e5909a987a00]{
 -- Page 490, Offset 15976.
@@ -828,51 +832,51 @@ I've returned to my normal life.
 [sha:a245e3ece1a585d1e4b8039a91cd294c363f0878]{
 -- Page 491, Offset 15978.
 -- 吸血鬼とは関わらない。それは先輩とも約束した事だ。
-I'm not going to involve myself with vampires. I even promised Senpai that.
+I'm not going to get involved with vampires again.
+ I even promised Senpai I wouldn't.
 }
 [sha:9b69ab9f416cf054b3242b7b869779ab57112490]{
 -- Page 492, Offset 15979. Mods: @n.
 -- 「そっか。
-"Oooh well.
+"No dice huh.
 }
 [sha:85a60d0db8fb177e4a9875147e9c98c7794fed2b]{
 -- Page 492, Offset 15980. Glued.
 -- じゃあとっておきを言ってあげる。
-// could use some fine-tuning, but I think this way of phrasing it gets the best nuance.
-I've been holding back on saying this, but here goes.
+ Well, I wasn't going to bring it up, but...
 }
 [sha:7339f7c8d3b2afa6f742111ede081f9834992426]{
 -- Page 492, Offset 15981.
 -- “お願いだからヴローヴを倒してくれ”
 // reference to Offset 12250
-'Please defeat Vlov'
+'Please defeat Vlov for me.'
 }
 [sha:c732bc0a2b2fbb4f8c3e02f3348f7c9f29fe95c6]{
 -- Page 492, Offset 15982.
 -- これって誰の言葉だったかしら？」
-Oh, I wonder who was it that said these words?"
+Just who was it that said those words, I wonder?"
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 493, Offset 15983.
 -- 「………………」
 "........."
 }
-[offset:15984]{
+[sha:1dd0e0d519069a50030e989c736adbc5fafecc48]{
 -- Page 493, Offset 15984.
 -- それを言われると弱い。
-I can't fight back when she puts it like that.
+She's got me there.
 }
 [sha:2d4e6710425f9245fc5e9c0060981287862f8a2e]{
 -- Page 493, Offset 15985.
 -- アルクェイドはシエル先輩を見てヘソを曲げたものの、しっかり俺たちを助けてくれた。
-Arcueid might've gotten mightily upset after she spotted Ciel-senpai,
- but she still helped us out.
+Arcueid might've flipped out when she spotted Ciel-senpai,
+ but at the end of the day she still helped us.
 }
 [sha:5055e925368ac447d9b143f4ad33971b870db683]{
 -- Page 494, Offset 15986.
 -- あの時アルクェイドが寒波を防いでくれなかったら、俺だけじゃなく街全体が氷漬けになっていた。
-If back then, Arcueid hadn't redirected the cold wave,
- then not only me, but the whole city would've frozen over.
+If she hadn't been there to protect us against the cold wave,
+ I'm not the only one who'd have ended up as a popsicle―――the whole city would have been frozen solid.
 }
 [sha:67d6065ae15c99bb4a5507d9c7a00da2f7f05cf0]{
 -- Page 494, Offset 15987.
@@ -889,7 +893,7 @@ Which means――now it's time for me to hold up my end of the bargain.
 -- Page 495, Offset 15989.
 -- いいよ、俺も吸血鬼の排除には賛成だし。怖いのはイヤだけど、我慢して協力してやる」
 Why not. I fully endorse getting rid of the vampires anyway.
- It's scary, and I don't like that, but I'll bear with it and cooperate."
+ I'm absolutely terrified, and I can't say I enjoy that one bit, but I'll stick it out and work together with you."
 }
 [sha:56b15823c8156d54fdcf80677a492fb804d122db]{
 -- Page 496, Offset 15990.
@@ -904,14 +908,14 @@ I'm counting on you, Shiki! Let's fight together!"
 [sha:b6387fdece208d1e86a37b7e648715b190fcdb71]{
 -- Page 497, Offset 15992.
 -- 弾むような笑みを浮かべるアルクェイド。
-Arcueid brightens up into a full-faced smile.
+Arcueid is positively beaming.
 }
 [sha:fca4b6f43ea4ccff70a9b59678c75dba62979fe1]{
 -- Page 497, Offset 15993.
 -- ……頼りにするって、俺なんかいなくてもコイツひとりで充分だと思うけど……まあ、そう言ってくれるならやり甲斐はある。
-And who are you counting on, anyway...?
- I'm pretty sure she'd be totally fine without me.
- Though, her putting it like that does make it feel more worth doing.
+She's counting on me...?
+ I get the feeling that if I weren't here she'd be totally fine on her own.
+ Still, hearing her say that certainly does make it feel like something worth doing.
 }
 [sha:eb96cf94b4ae6e0a14ffada24a3cbf7b07e7814c]{
 -- Page 498, Offset 15994.
@@ -919,8 +923,8 @@ And who are you counting on, anyway...?
 // it might be good to include the 吸血鬼 part from the ruby construction as well, something like 'vampire when shortened to vamp'.
 // temptress that seduces men seems a bit redundant, maybe truncate to just 'seductress'?
 // まさにその通りだ。 could be translated in a million ways, so be creative.
-The word 'vamp' apparently also has the meaning of a temptress that seduces men.
- And that really rings true to me right now.
- Even if she hadn't brought up our promise,
- I could never refuse her with the way she smiled at me.
+I feel like there was another meaning to the word vampire...
+ Maybe that a 'vamp' can also refer to a temptress that seduces men.
+ I'd say that definition suits her to a tee.
+ Even if she hadn't brought up our promise, I could never have refused the way she smiled at me.
 }
