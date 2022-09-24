@@ -21,7 +21,8 @@ Tonight we'll set our sights on the first group, the ones who've hidden themselv
 [sha:aa1d2b46017507bdae4e085ada9d2f5dbea2aad3]{
 -- Page 500, Offset 15999.
 -- アルクェイドはそう言って俺を住宅街に連れ出した。
-After saying this, Arcueid leads me over to the residential district.
+// 連れ出す translated as initiating/ongoing here, since it's a while yet before they get there
+After saying this, Arcueid starts leading me toward the residential district.
 }
 [sha:44df3ddf83679a9a6fe121a7c10e9e0b95719f8c]{
 -- Page 500, Offset 16000.
@@ -40,7 +41,7 @@ Based on what I've heard so far,
 -- Page 501, Offset 16002.
 -- 次に危険度が高いのは住み家で休眠している集団ね。親基を倒すぐらいの外敵が現れた以上、群れていた方が安全と考える知能があるから」
 The next most dangerous are the ones that group up and lie dormant in their dens.
- That's because they've at least got the intelligence to realize that there's safety in numbers now that enemy powerful enough to defeat their sire has shown up."
+ That's because they've at least got the intelligence to realize that there's safety in numbers now that an enemy powerful enough to defeat their sire has shown up."
 }
 [sha:209d1085c208dc6154b8254f25ec545504f7750b]{
 -- Page 502, Offset 16003.
@@ -107,7 +108,7 @@ Just having them around is enough to crack down on spontaneous assaults,
 -- ただし、それは抑止力にすぎない。吸血鬼という犯人を見つけ出すには地道な作業が必要になる。
 // 抑止力 here is NOT the lore term.
 However, that's nothing more than deterrence.
- In order to locate the criminals――vampires in this case――slow and steady effort is required.
+ In order to locate the criminals――vampires, in this case――slow and steady effort is required.
 }
 [sha:25f9d3f50c2320ed3f65b2638ee4aac5f86120e9]{
 -- Page 506, Offset 16014.
@@ -200,7 +201,7 @@ Still... underneath the school?
 [sha:5425b0555ceb444dd52b53a23fdd6ffc6a3d265a]{
 -- Page 513, Offset 16030.
 -- 「……いや。親玉の住み家が学校の地下にあったのなら、うちの生徒たちが犠牲になっていたかもしれない」
-"It's just... if the head vampire was hiding out right under our school,
+"It's just... if the vampire boss was hiding out right under our school,
  then there's a chance that some of the students may have fallen victim to them."
 }
 [sha:f23cf59e520ddc89987b18e81f612fe4c14ce8f0]{
@@ -345,7 +346,7 @@ The place Arcueid referred to as a vampire's nest is now right around the corner
 -- Page 525, Offset 16054.
 -- ―――それは、住宅地のただ中にあった。
 // from hereon, there are many matching lines from ARC08_6B and ARC07_3G
-―――It was right in the middle of the residential area.
+―――It's right in the middle of the residential area.
 }
 [sha:a59d31d2f8f47f2429589133fe0d4f8d9eae6f50]{
 -- Page 525, Offset 16055.
@@ -378,7 +379,7 @@ Shiki, take off your glasses and have a good look at the area around that buildi
 [sha:40fbacbab297c4bab8710022dfd0a6adc268fe03]{
 -- Page 526, Offset 16060.
 -- 「眼鏡を外してって……なんで？」
-"Take off my glasses? Why...?"
+"Take off my glasses...? Why?"
 }
 [sha:2b660872b32cf8952e4b7bfcb8af2acf8bb582ea]{
 -- Page 527, Offset 16061.
@@ -474,7 +475,7 @@ I can see the lines.
 [sha:fb94bce9c607453b5d0c9a3c839ef7f20b4e4ebe]{
 -- Page 531, Offset 16076.
 -- 脳にかかる重みに吐きそうになる。
-The weight on my brain makes me want to throw up.
+The stress it puts on my brain makes me want to throw up.
 }
 [sha:288cb2eeb24c94c839cdbbcd301f7ed91b122a9d]{
 -- Page 531, Offset 16077.
@@ -612,7 +613,8 @@ There are for... no, five figures...!
 [sha:321d5234891cf8d46a7d436f863e5912d1e58203]{
 -- Page 541, Offset 16101. Glued. Mods: @x, @k, @e.
 -- いや、それより気付かれてる、あいつらやる気だぞアル……
- Actually, we've got a bigger problem here――we've been noticed, and they look like they're raring to go, Ar―――
+ Actually, we've got a bigger problem here――
+we've been noticed, and they look like they're spoiling for a fight, Ar―――
 }
 [sha:fc0331e668b97768248b926fdfdc250188126421]{
 -- Page 541, Offset 16102. Glued. Mods: @x.
@@ -637,142 +639,148 @@ Arcueid vanished while I was busy cutting the shutter.
 [sha:fa5a1a44ff39fa362803d4dbd28d3ebb98d37db7]{
 -- Page 543, Offset 16106.
 -- 気がついた時には、もう取り返しの付かない死地にいた。
-And before I know it, I stand irrevocably before the jaws of death.
+Without realizing it, I've wandered straight into the inescapable jaws of death.
 }
 [sha:33729d9fd9f470579e96f5db0bc477af35750688]{
 -- Page 543, Offset 16107.
 -- 一歩も下がれない。
-I cannot retreat even a single step.
+I can't retreat at all.
 }
 [sha:c5212cbe93b4073d7073d041fd4b77040f420216]{
 -- Page 543, Offset 16108.
 -- 振り返る事もできない。
-I also cannot look back.
+I can't even turn to look back.
 }
 [sha:2b64271c4313823551ff80a6b2112514a1330469]{
 -- Page 543, Offset 16109.
 -- <ヤ|・><ツ|・><ラ|・>から視線を切った瞬間、俺は無様な<生贄|くいもの>になる。
 // ruby cut.
-As soon as I take my gaze away from %{i}them%{/i}, I will be reduced to an unsightly sacrifice.
+The instant I take my gaze off %{i}them%{/i}, I'll be reduced to an unsightly sacrifice.
 }
 [sha:3144ee796ea94bec2f98419c586eba265cedec87]{
 -- Page 544, Offset 16110.
 -- 「は―――、ぁ」
-"Hahhh..."
+"%{i}Ugh%{/i}... %{i}ah%{/i}―――"
 }
 [sha:2fc6212fa6ad6da7c1d611633dc14331c39c9b25]{
 -- Page 544, Offset 16111.
 -- 視界が朱く断裂する。
-My vision ruptures into crimson.
+Something snaps, and my vision flashes crimson.
 }
 [sha:6622359a56aca4fe39b21c5574d482cc8c1a2c80]{
 -- Page 544, Offset 16112.
 -- 亀裂の走った鏡。散らばったパズルのピース。
-A broken mirror――the piece of a scattered puzzle.
+A broken mirror.
+ The scattered pieces of a puzzle.
 }
 [sha:be7f61c8e38c88e361eee2eaf611fc94297800bb]{
 -- Page 544, Offset 16113.
 -- のたうつ“死の線”が、眼球を通して、俺の脳に刻みつく。
-The writhing lines of death pass through my eyeballs, and carve themselves into my brain.
+The writhing lines of death pass through my eyeballs and carve themselves into my brain.
 }
 [sha:11985ebf77373c0bdd7b8ea344918de6a6f01867]{
 -- Page 545, Offset 16114.
 -- 「―――、ァ―――」
-"Ah―――"
+"%{i}Ah%{/i}―――"
 }
 [sha:5d961f469bf8ef16108e5a2ff5238d0b4e76bfa8]{
 -- Page 545, Offset 16115.
 -- 俺は完全に不能だった。恐怖がないだけで、何の対策も考えていなかった。
-There is nothing I can do.
- Just because I wasn't scared, didn't mean I could just go in without a plan.
+There's nothing I can do.
+ Because I wasn't afraid, I came in here without coming up with a plan first.
 }
 [sha:f6bd1670ddbf9f1731f59b44474d559061caa9db]{
 -- Page 545, Offset 16116.
 -- だから死ぬ。ここで死ぬ。あの半ば腐った死体の爪が、豆腐をべちゃつかせるように、俺の頭をすくい取る。
-Which is why I will die――here.
- The claws of those half-rotted corpses will scoop out the contents of my head, turning to it mush.
+I'm dead.
+ I'm going to die here.
+ The claws of those half-rotted corpses will scoop out the contents of my head as easily as they'd mutilate a block of tofu.
 }
-[sha:11985ebf77373c0bdd7b8ea344918de6a6f01867]{
+[offset:16117]{
 -- Page 546, Offset 16117.
 -- 「―――、ァ―――」
-"Ah―――"
+"%{i}Ah%{/i}――%{i}haah%{/i}―――"
 }
 [sha:68ee2c815a0579675d1c366af18104f2269832dd]{
 -- Page 546, Offset 16118.
 -- 俺は完全に不能だった。一度窮地を経験したぐらいで<驕|おご>った理性が、遠野志貴である事を放棄した。
-There is nothing I can do.
- My mind, conceited at having experienced this predicament just once, gives up on being Tohno Shiki.
+There's nothing I can do.
+ My sense of reason, which had grown conceited after making it out of a predicament once before, gives up on being Tohno Shiki.
 }
 [sha:7521c480d9dc4335133bf2b85a2bb234372fbdde]{
 -- Page 547, Offset 16119.
 -- 「は―――ハ」
-"Hahhh――hah"
+"%{i}Hahhh――hah%{/i}"
 }
 [offset:16120]{
 -- Page 547, Offset 16120.
 -- だから。
-Which is why―――
+With it gone―――
 }
 [sha:ab1fd004aa26c0959cbd7105c7f0df95474ea6d0]{
 -- Page 547, Offset 16121.
 -- その後に残ったものは、<寄|ツ><せ|ギ><集|ハ><め|ギ>の人間性からやっと解放された、剥き出しの<己|おのれ>だった。
-That which then remains is my bare self,
- finally released from the humanity it had cobbled together.
+// threadbare/patchwork reincluded here for ツギハギ to hearken back to 00_00
+All that remains is my bare self,
+ finally released from the threadbare patchwork of humanity it had cobbled together.
 }
 [sha:d93bfba124b581da2e0dd206815dfbfebcafa299]{
 -- Page 548, Offset 16122.
 -- 意識より先に体が走る。
-My body moves before my consciousness can.
+My body moves before my mind has a chance to catch up.
 }
 [sha:b245d1754fbf8656e8faafa029a092d779c3704f]{
 -- Page 548, Offset 16123.
 -- わずかな戸惑いもなく解体する。血の匂いを、手触りのない肉の<断触|だんしょく>を記憶する。
-// ebin nasu pun <断触|だんしょく>
-// after this line, the visuals show Shiki remembering cutting Arcueid apart.
-I commence the dismemberment without an inkling of hesitation.
- I recall the smell of blood――the warm cuts of her untouched flesh.
+// P: ebin nasu pun <断触|だんしょく>
+// P: after this line, the visuals show Shiki remembering cutting Arcueid apart.
+// R: Just to make sure I understand this, the pun is <feeling of cutting|warm colour>?
+// R: Where the warm colour is of course more blood?
+I don't even so much as hesitate as I dismantle them.
+ I recall the smell of blood, the feeling of slicing through her untouched flesh, and the warm color that spilled from it.
 }
 [sha:323e218f4192c765eb7922c3de353e5c0c43e3d3]{
 -- Page 548, Offset 16124.
 -- ―――その中で。
-And therein―――
+As I do―――
 }
 [sha:cdc566d6b9fabd4ed06b05b0bba33b9468e0139d]{
 -- Page 548, Offset 16125.
 -- 俺の頭は、都合よく忘れようとしていたあの光景を、味わうように繰り返していた。
-The sight which I had tried to conveniently forget is repeats within my head,
- almost as if I'm savoring it.
+My mind conjures images of that scene I had tried so hard to forget,
+ looping through them as though savoring them.
 }
 [sha:9119523335fa41bebb40ca78cd4474b492816ccf]{
 -- Page 549, Offset 16126. Mods: @k, @e.
 -- 「―――――、
 "―――――
 }
-[sha:82b63e085d28fb747d955dd57fe8cd1fe47efbcd]{
+[offset:16127]{
 -- Page 549, Offset 16127. Glued. Mods: @x.
 -- あ」
-Ah."
+%{i}Ah%{/i}."
 }
 [sha:dffbb166525176658ccc8b0c863b9932a2bbf2c4]{
 -- Page 549, Offset 16128.
 -- 呼吸を再開する。
 // this is after a fade to black, the zombies are dead
-My breathing resumes.
+I start to breathe again.
 }
 [sha:d9479b1b18594b9a540f2905f02f36c75724763f]{
 -- Page 549, Offset 16129.
 -- 切りつけるような頭痛で目眩から立ち直る。
-A splitting headache wakes me up from my dizziness.
+A splitting headache dispels my dizziness.
 }
 [sha:0ba495d9295aec45ae458191bf4c8c47a53643ff]{
 -- Page 550, Offset 16130.
 -- １分の後、俺の周囲には五体分の人間の手足が、ゴミのように散乱していた。
-One minute has passed, and around me the limbs of five bodies lie strewn about like garbage.
+One minute has passed, and the limbs of five bodies now lie strewn around me like garbage.
 }
 [sha:77e761bb0e5802ff388baa9411858aa8af0f99eb]{
 -- Page 551, Offset 16131.
 -- 「ふふ、見ちゃった。すごいんだ、本気になった志貴って」
-"Heheh, I saw. You're amazing when you get serious, Shiki."
+"%{i}Hehehe%{/i}, I was watching.
+ You're amazing when you get serious, Shiki."
 }
 [sha:8c9c3cbfd585a8a10f7941e392d84f1bfcd56499]{
 -- Page 551, Offset 16132.
@@ -782,7 +790,7 @@ One minute has passed, and around me the limbs of five bodies lie strewn about l
 [sha:0133a921cd65114d93ce87e582f40d6ed84cda7d]{
 -- Page 552, Offset 16133.
 -- 頭痛と微熱に目を<眩|くら>ませながら振り返る。
-I turn around, my eyes still hazy from the headache and a slight fever.
+I turn around, my eyes still clouded by the headache and a slight fever.
 }
 [sha:b2b54afd080c358e00177b4a921f83f6cc016079]{
 -- Page 552, Offset 16134.
@@ -792,46 +800,46 @@ All of a sudden, Arcueid is back, walking amidst the sea of blood.
 [sha:accd078b22c417d24b1f4c47a91e521e13ce511e]{
 -- Page 552, Offset 16135.
 -- 散乱した肉片はサラサラと灰になって風に散っていく。
-The scattered flesh turns to ash, which is then swept up by the wind.
+The scattered flesh crumbles into ash, and is swept away by the wind.
 }
 [sha:2075b2b0daa371c79ead281c5b05dc51c96d0a3c]{
 -- Page 552, Offset 16136.
 -- 残ったものはオイルのような血だまりだけ。
-Only the oily bloodstains remain.
+All that remains is the blood, pooling like so much oil.
 }
 [sha:68ce069a74cb34177e39baa8577bfd866236f180]{
 -- Page 553, Offset 16137.
 -- 「でも無茶は禁物よ。ほら、早く眼鏡をかけて。そのままだと倒れちゃうでしょう？」
-"But pushing yourself is bad for you.
- So hey, hurry up and put on your glasses.
- If you don't, you'll blackout, won't you?"
+"But don't go pushing yourself.
+ C'mon, hurry up and put those glasses back on.
+ You'll black out otherwise, won't you?"
 }
 [sha:44f3ac1328cc6f6b08eddc7e6e7dc57a80205b17]{
 -- Page 553, Offset 16138.
 -- 「あ……うん。そうだな、ありがとう」
-"Oh... yeah. That's right, thanks."
+"Oh... yeah. You're right, thanks."
 }
 [sha:742e87305ed11eb145c1776675d045c950c818fd]{
 -- Page 554, Offset 16139.
 -- 言われて眼鏡をかけて、ナイフをポケットに仕舞う。
-I put on my glasses as I'm told,
- before pocketing my knife.
+I do as I'm told and put on my glasses,
+ then slip my knife back into my pocket.
 }
 [sha:bf8ec2894e41cdfe9bd90af3f9e42232a1e2947d]{
 -- Page 554, Offset 16140.
 -- 血の匂いで気持ちは悪くなる一方だが、眼鏡をかけただけで頭痛はすっかり治まってくれた。
-While the smell of blood keeps getting worse,
- the headache settles down completely just by me putting on my glasses.
+I'm still feeling more and more nauseous from the smell of blood,
+ but at least my headache disappears the second I put on my glasses.
 }
 [sha:75cf1176baf7b487a463cf64cb278a40dc516f14]{
 -- Page 555, Offset 16141.
 -- 「はあ、死ぬかと思った……じゃなくて！
-"Hahh, I thought I was a goner... but more importantly!
+"%{i}Whew%{/i}, I thought I was a goner... but more importantly!
 }
 [sha:3dc5e8efe8cd1deb041e63eef08775b8713784d4]{
 -- Page 555, Offset 16142.
 -- 話が違うぞアルクェイド、なんだっていなくなるんだよ、おまえは！」
-This isn't what we discussed, Arcueid! Why'd you run off for, huh?!"
+This isn't what we discussed, Arcueid! What did you go running off for?!"
 }
 [sha:0f143e78342dd8430170b8dec7b7fee72a8773e7]{
 -- Page 556, Offset 16143.
@@ -844,28 +852,29 @@ This isn't what we discussed, Arcueid! Why'd you run off for, huh?!"
 [sha:dae45e90d91eb3382baee6e6e5f444daf4256694]{
 -- Page 556, Offset 16144.
 -- 「ぁ……いや、それは、そうだけど」
-"Ah... No, that's true, but――"
+"Ah... No, that's true, but―――"
 }
 [sha:95329e1aca4c12f570681cd7e521262f942c75c3]{
 -- Page 557, Offset 16145.
 -- もっともな意見に反論できない。
-I can't refute such a reasonable line of argument.
+I can't argue with an airtight argument like that.
 }
 [sha:e70359d99b1669716f9308261b7f5306e7f2a833]{
 -- Page 557, Offset 16146.
 -- 吸血鬼に関わるという事は、死の危険に飛びこむ事だ。それを一時でも忘れていた俺が悪い。
 To involve oneself with vampires means to steep oneself in mortal danger.
- If I forget about that for even a second, then that's my fault.
+ If I forget about that for even a second, then it's my own fault.
 }
 [sha:484c6f2e348af1d2a0dd8c653a9c50b7c7c22e28]{
 -- Page 558, Offset 16147.
 -- 「……たしかに、俺は気が抜けてた。それは認める。
-"True enough... I was out of it――that much I will admit.
+"True enough... I was out of it――that much I'll admit.
 }
 [sha:cae002f3dff24ec1fe21fac50f9c125e187f9f3b]{
 -- Page 558, Offset 16148.
 -- けど、それなら事前にそうと言ってくれ。おまえ、なんか意地が悪くなってないか？」
-Still, please tell me that beforehand? Or what, did you feel like being mean today or something?"
+Still, couldn't you at least have given me a heads-up?
+ Or what, did you feel like being mean today or something?"
 }
 [sha:338a1f27676f5f0aa7b662d96e3e6743acb9dcb4]{
 -- Page 559, Offset 16149.
@@ -876,22 +885,28 @@ Still, please tell me that beforehand? Or what, did you feel like being mean tod
 [sha:9eaa6f653a0e7a670da0b190c8b8dc6a1b926158]{
 -- Page 560, Offset 16150.
 -- 「……テストってそういう事かよ。
-"So that's what you meant by 'test'...
+"So that's what you meant by a 'test run'...
 }
 [sha:689a2ee49a0395f8541f37c63bf4a3a9bb495f8d]{
 -- Page 560, Offset 16151.
 -- はいはい、じゃあ結果はどうでしたか、お姫様」
-Alright, alright. So, how's the evaluation looking like, Your Majesty?"
+Alright, alright. So, how'd I do then, Your Majesty?"
 }
 [sha:0e00d6a60bf4061e0a5d9eb54ff89f170f06a18e]{
 -- Page 560, Offset 16152.
 -- 「うん、文句なし！　貴方の眼は破格の魔眼よ。その希少価値は言葉では言い表せないぐらい」
-"Oh, it was perfect! Your Mystic Eyes are out-of-this-world. I can scarcely express with words just how precious and valuable they are."
+"Oh, full marks!
+ Your Mystic Eyes are out of this world.
+ I can scarcely express with words just how rare and valuable they are."
 }
 [sha:a8f41c55973bd34eabdd8733d81c6151150debf0]{
 -- Page 561, Offset 16153.
 -- 「それは良かった。お眼鏡にかなって光栄ですとも」
-"Well, that's great. I'm honored to have lived up to your expectations."
+// Worth trying to mirror a pun on 眼鏡にかなう [glasses/discernment] here?
+// Glad my specs met your specs? Spectacles proved a fitting spectacle?
+// Honored that my eyes raised some eyebrows?
+"Well, that's great.
+ I'm honored to have lived up to your expectations."
 }
 [sha:73548bc68c73166055303f178b5ef55d8beb5909]{
 -- Page 561, Offset 16154.
@@ -901,29 +916,34 @@ I let out a sigh and reply.
 [sha:6283d10765f1fbc8f997eab7e56f9e844df877fa]{
 -- Page 561, Offset 16155.
 -- 無邪気に褒められてもこっちは素直に喜べない。
-Even her innocent praise is not enough for me to feel entirely happy.
+Even though her praise is honest,
+ I doesn't cheer me up at all.
 }
 [sha:61571e41f1baf0bf836207cc0267b55b5d687cf9]{
 -- Page 561, Offset 16156.
 -- 殺人の才能が認められるのは、おまえはろくでなしだ、と言われているようなものだからだ。
-Because having my murderous talents acknowledged is basically like being told that I'm an awful person.
+Being complimenting my on my murderous talents feels the same as being told that I'm an awful person.
 }
 [sha:942ebb596bfb992ec820d2d38679cc204c9735af]{
 -- Page 562, Offset 16157.
 -- 「でも、その眼と同じぐらい貴方自身もおかしな人ね。
-"Still, you yourself is almost just as much of a mystery as those eyes are.
+"Still, you yourself are just as much a mystery as those eyes are.
 }
 [sha:60cb2f6b43e56cb01230ce3a1f049b1f91c70ad9]{
 -- Page 562, Offset 16158.
 -- 直前まで逃げ腰だったのに、ナイフを握って、殺すと決めた途端、迷い無く死者を解体するんだもの。
-You were basically on the verge of running away right until you took your knife.
- Once you decided to kill, you dismembered those Dead without hesitation.
+You were ready to turn tail and run right up until the moment you took out your knife.
+ But once you decided to kill, you dismembered those Dead without hesitation.
 }
 [sha:9b8316937dc6a08e0f43f89e735ddeca6ca9888e]{
 -- Page 562, Offset 16159.
 -- そういうところ、わたしと似ているのかも。なのに人間よりも人間らしいなんて、すごく不思議」
-In that respect, you almost resemble me.
- Yet even so, it's super strange how you're almost more human-like than humans are."
+// 人間よりも人間らしい
+// More human than humans (class of his own) or more human than most humans (he's just a great guy)?
+// Leaning first since it's more tokubetsu
+You almost resemble me in that regard.
+ Yet despite that, you're more human than humans are.
+ I'm not sure what to make of that."
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 563, Offset 16160.
@@ -933,15 +953,16 @@ In that respect, you almost resemble me.
 [sha:59f9b1e1c02fa98fa253a08d7d3c56a0636c4fcd]{
 -- Page 563, Offset 16161.
 -- その言葉にどんな感情がこもっていたのか、俺には分からない。親愛や憧れ。あるいは慈愛すらあったのかもしれない。
-// the subtleties of 慈愛 might be possible to capture better.
+// P: The subtleties of 慈愛 might be possible to capture better.
+// R: Storge / philia probably too obscure. Tenderness? Benevolence?
 What emotions were in those words, I do not know.
- Affection and adoration?
+ Affection? Adoration?
  Or perhaps there even was even a hint of love in them?
 }
 [sha:53497cbf02db23447cde417fffeebcd8a5798c84]{
 -- Page 563, Offset 16162.
 -- ただあまりにも突然すぎて、何の言葉も返せなかっただけだ。
-But it's just so sudden that I am unable to respond.
+But it's just so sudden that I'm unable to respond.
 }
 [sha:c288e8e6e2437e998df42d246ee1170c3a237eac]{
 -- Page 564, Offset 16163.
@@ -952,39 +973,39 @@ But it's just so sudden that I am unable to respond.
 [sha:5215d7f4cba05da801724ef7f4b0fbdc82b11088]{
 -- Page 565, Offset 16164.
 -- アルクェイドは少しだけ離れて、振り向きながらそんな言葉を口にする。
-Arcueid puts a bit of distance between us as she speaks those words, looking back at me over her shoulder.
+Arcueid has put a bit of distance between us, and speaks those words while looking back at me over her shoulder.
 }
 [offset:16165]{
 -- Page 565, Offset 16165.
 -- 俺は、
-I――
+I―――
 }
 [sha:1d321b87cf854f9af069fdf420681c47ddfe1794]{
 -- Page 565, Offset 16166.
 -- 「あのなあ。行くってどこにだよ。
-"Listen here, where would we even go?
+"Don't be ridiculous, where would we even go?
 }
 [sha:0bf293ed8dd460e98abae7b0aed280dcec510c83]{
 -- Page 565, Offset 16167.
 -- まさか、おまえの故郷じゃないだろうな」
-Or are you gonna say its to your homeland?"
+Don't say something crazy like your homeland or whatever."
 }
 [sha:5b5009da4eb64f58e291dd0d1a714da5aac294b9]{
 -- Page 565, Offset 16168.
 -- その深刻さに気付かず、減らず口を返していた。
-Without realizing the heft of her statement, I respond with banter.
+Not realizing how earnest her question was, I respond with banter.
 }
 [sha:6bd6f0453a485af1738852e30221fa4ac0b5075b]{
 -- Page 566, Offset 16169. Mods: @k, @e.
 -- 「なにそのイヤそうな顔！
-"Why do you look so displeased!
+"What's with that look of disgust!
 }
 [sha:ec505a0f5f286e8a9438035f85d809938a112112]{
 -- Page 566, Offset 16170. Glued. Mods: @x.
 -- わたし、いちおうお姫さまだよ？　玉の輿、乗ってみない？」
 // maybe find a less weight expression for 玉の輿、乗ってみない？ would need adjusting in this and the next line
-Just so you know, I %{i}am%{/i} a princess.
- Wouldn't you wanna marry into riches?"
+ I'm a %{i}princess%{/i}, remember?
+ Wouldn't you like to marry into money?"
 }
 [sha:84b20f432568e8e206c30e6adb2ce04e36a73677]{
 -- Page 566, Offset 16171.
@@ -1000,31 +1021,31 @@ Just so you know, I %{i}am%{/i} a princess.
 [sha:029f43c598b10fb8c2d91f25aa478b74818b9fc4]{
 -- Page 568, Offset 16173.
 -- 文句を言うアルクェイドを適当になだめて、改めて地下駐車場を見回す。
-I somehow pacify the complaining Arcueid,
- after which I once again look around the underground parking lot.
+After I somehow manage to pacify Arcueid's petulant grumbling,
+ I take another look around at the underground parking lot.
 }
 [sha:c79b439c8a40af9411466addbe0d636bde0144c7]{
 -- Page 568, Offset 16174.
 -- ……他に吸血鬼がいそうな様子はない。
-It doesn't seem like there are any other vampires around.
+It doesn't seem like there are any other vampires here.
 }
 [sha:c2bb4ee91c4371e4b9ee690c097ab7f7c5082653]{
 -- Page 569, Offset 16175.
 -- ロアとやらが健在ならマンションの住人すべてが襲いかかってきたかもしれないが、今はこれだけだ。
-Had this Roa person still been alive and well, perhaps the whole apartment complex would've come attacking us,
- but for now, this is all there is.
+It's possible that if this Roa person had still been alive and well the entire apartment complex would have swarmed us,
+ but instead it seems like that was all of them.
 }
 [sha:bed2c3852e57fdfb8a9983adfd85d3a63d4dcfc0]{
 -- Page 569, Offset 16176.
 -- 他の住人たちは先輩の言うⅠ階梯からⅡ階梯までの、親基がいなければ死体に戻る下級死徒だったのだろう。
-The other residents were probably those Rank I and II that Senpai were talking about.
- Lower Dead Apostles that go back to just being corpses without a sire.
+The other residents must have been those Rank I and II Dead that Senpai was talking about.
+ Low tier Dead Apostles that go back to just being corpses without a sire.
 }
 [sha:81aa61f41bb0572af1608b2eba4a44994114434b]{
 -- Page 570, Offset 16177.
 -- 「……もうここには誰もいなそうだな。外に出ようアルクェイド。さすがに血の匂いがきつい」
-"Seems there's nobody around anymore.
- Let's get outside, Arcueid.
+"Doesn't look like there's anyone else around.
+ Let's get out of here, Arcueid.
  The scent of blood is honestly starting to get to me."
 }
 [sha:78d7fe6a70171020e86e2a471ddc63d9effe1598]{
@@ -1035,7 +1056,8 @@ I call out to Arcueid, and leave the garage.
 [sha:cfcf99e7f9d1207a2a39d0962e99805f7bd7bd11]{
 -- Page 571, Offset 16179.
 -- 何年も密閉されていた死者たちの暗闇は、これでようやく、外からの明かりに照らされる事になった。
-The long sealed away darkness of the Dead has finally become lit up by the light of the outside.
+With this, the seal has been broken.
+ Light from outside can finally illuminate the darkness of the Dead for the first time in who knows how many years.
 }
 [sha:ebdb57bd8fb67786bab44a62657c46d877c8df11]{
 -- Page 572, Offset 16180.
@@ -1050,28 +1072,28 @@ Though this job is over with, I don't feel much of a sense of achievement.
 [sha:fcf6964d430a0953cb2cf1a03477f99fdf36a13f]{
 -- Page 572, Offset 16182.
 -- これでロアの残党狩りが終わった訳でもないし、なにより、このマンションの処遇はどうしたものか。
-I mean, it's not like the hunt for the Roa remnants is over,
+I mean, it's not like the hunt for Roa's remaining offspring is over,
  and more importantly,
- how are we supposed to take care of this apartment complex?
+ what are we supposed to do about this apartment complex?
 }
 [sha:ea63268fd6a858f976271777d952dad7e9221248]{
 -- Page 573, Offset 16183.
 -- 「どうするんだアルクェイド。他に吸血鬼がいないとしても、ここはねぐらの一つなんだろ？　もしかしたら中に隠れているヤツがいるかもしれないし、念のために調べるか？」
-"What will you do, Arcueid?
- Even if there aren't any other vampires here,
- this is still one of their nests, isn't it?
- There might still be one of them hiding inside,
- so, wanna investigate just in case?"
+"What do we do now, Arcueid?
+ It doesn't seem like there are any more vampires here,
+ but this is still one of their nests, right?
+ There might be more of them hiding inside,
+ so should we investigate just to be on the safe side?"
 }
 [sha:8a4bb2ad5aadf0d0568ca219b67e5631a43f7ca1]{
 -- Page 574, Offset 16184.
 -- 「もちろん、しっかり後始末はするわ。
-"I'll take care of it, of course.
+"We make sure there are no loose ends, of course.
 }
 [sha:8d043d8d391b882dce2bb4ffbef1c806bc0ecc1d]{
 -- Page 574, Offset 16185.
 -- じゃ、志貴はちょっと離れてて」
-So, Shiki, get a bit of distance."
+Can you take a step back for a second, Shiki?"
 }
 [sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
 -- Page 575, Offset 16186.
@@ -1086,7 +1108,7 @@ Arcueid turns back to the apartment complex, and then raises her left hand in th
 [sha:2798911c7c475a0e62498ac47944cf980c8f1348]{
 -- Page 575, Offset 16188.
 -- 直後、
-And as soon as she does――
+As soon as she does―――
 }
 [sha:c28cec00ed00176f127e7d8fe2716e9ccd39c3d5]{
 -- Page 576, Offset 16189.
@@ -1096,14 +1118,14 @@ And as soon as she does――
 [sha:ba5e4b82c6229e2fb956aafcd6fca73f3d06297c]{
 -- Page 576, Offset 16190.
 -- ぐしゃり、と何かが潰れる音と共に、マンションは一瞬で倒壊した。見えない何かに、上から圧し潰されたケーキのように。
-Together with the sound of something being crushed, the apartment complex collapses.
- Almost like a cake being squashed from above by something invisible.
+I hear the sound of something being crushed, and the entire apartment complex collapses in the blink of an eye.
+ It's as if you'd flattened a cake from above using some invisible implement.
 }
 [sha:3709e8901cbda28bf7f139ca04fb002d260397ed]{
 -- Page 577, Offset 16191.
 -- 「どう？　志貴みたいな希少性はないけど、わたしだって凄いでしょう？」
 "How's that?
- I don't have the same rarity as you do,
+ I may not have as rare a talent as you,
  but I'm pretty amazing regardless, right?"
 }
 [sha:781336b5800acf9a8e7e641756867bd375fc893a]{
@@ -1119,7 +1141,8 @@ Arcueid smiles proudly.
 [sha:3efe0336f396461cf7b2dd4a83eb0d7f459f5f7b]{
 -- Page 578, Offset 16194.
 -- 「うんうん、見直してくれた？　というか、驚いた？」
-"Oh yeah, seeing me in a new light? Or I guess, surprised?"
+"I know, I know, you see me in a new light now, right?
+ Or rather, did I surprise you?"
 }
 [sha:8510a79ecd1321d5c4f707ffb8f43fdcfc0136ad]{
 -- Page 578, Offset 16195.
@@ -1140,7 +1163,7 @@ At this point, her powers no longer surprise me.
 [sha:94ac3ccbe5806b736781002e56d6bbcef2eacea7]{
 -- Page 579, Offset 16198.
 -- が、この常識の無さだけは勘弁してほしい。
-But, I'd really like her to do something about her lack of common sense.
+But I really wish she'd do something about her complete lack of common sense.
 }
 [sha:5ffa0d597ce45e1d3ac683cf20707efcd1f6eaa6]{
 -- Page 580, Offset 16199.
@@ -1151,27 +1174,27 @@ But, I'd really like her to do something about her lack of common sense.
 [sha:364f43784a64ca01597dc7dbfa9f0c20032d3b56]{
 -- Page 580, Offset 16200.
 -- 「あんな騒ぎを起こしたら人が集まってくるだろうっ!?
-"You realize people will come looking if you cause such a scene?!
+"You realize people are gonna come looking if you make a racket like that, right?!
 }
 [sha:8de85a2769b77b37e7feb8e53d999ffd3c405d6c]{
 -- Page 580, Offset 16201.
 -- ちょっとは考えろ、ばか女！」
-Use your head for a second, you stupid woman!"
+Stop and think for once, you dumbass!"
 }
 [sha:8a86ed22053b1851ad1b323637d8e588b9614a3d]{
 -- Page 581, Offset 16202. Mods: @k, @e.
 -- 「あ。うん、それはそうよね。
-"Oh, yeah. That's true."
+"Huh, yeah, you're right.
 }
 [sha:bd4070580c35b1330c45778cf310a9e0f7187feb]{
 -- Page 581, Offset 16203. Glued. Mods: @x.
 -- わたしったらうっかりさん？」
-Dear me, what an honest mistake."
+ Dear me, what an honest mistake."
 }
 [sha:1367aef12ae8155cda679608957d4803b2e0433a]{
 -- Page 581, Offset 16204.
 -- 「すごいな、分かっててやったのか！」
-"Wow, so you did it knowing full well the consequences!
+"Unbelievable, you knew damn well what you were doing!"
 }
 [sha:df549c26d65fec4b591e870f0f49b0ece539c7e5]{
 -- Page 581, Offset 16205.
@@ -1181,6 +1204,6 @@ She is just so needlessly hard to deal with.
 [sha:354af0907f86d6b8347c84033769750e26cd3bc6]{
 -- Page 581, Offset 16206.
 -- 俺たちは騒ぎを聞きつけて出てきた人混みに逆らって、<人気|ひとけ>のない公園に走った。
-We make our way the opposite direction of the crowd which has come gathering upon hearing of the commotion,
- running toward the deserted park.
+We run upstream against the crowds of people coming to see what all the fuss is about,
+ back in the direction of the deserted park.
 }
