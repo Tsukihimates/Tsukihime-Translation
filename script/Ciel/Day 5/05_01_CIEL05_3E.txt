@@ -40,7 +40,8 @@ The reason is obvious. Right now, I feel frustration, sadness, and anger instead
 -- Page 580, Offset 12361.
 -- “アルクェイドのヤツ、何がおとなしく全滅してろ、だ……！”
 // Callback to 12342, おとなしく全滅するのが自然
-'I can't believe her. Who's supposed to just accept their annihilation...?!'
+// Intentionally dropped quotes because we just don't do that
+I can't believe her. Who's supposed to just accept their annihilation...?!
 }
 [sha:be410b9a78d86bb321a936cc7f736cb72ddb5bcb]{
 -- Page 580, Offset 12362.
@@ -55,7 +56,7 @@ So %{i}that's%{/i} the kind of person she is.
 [sha:41d0de3e2c1d1b5915363cfbf0cad82cf25565d6]{
 -- Page 580, Offset 12364.
 -- バカヤロウでもなければ悪人でもない。
-She's neither a fool nor a villain.
+It's not like she's foolish or evil.
 }
 [sha:e70dd5c28b737ae56ad8f139546f68529b1a8763]{
 -- Page 580, Offset 12365.
@@ -272,7 +273,7 @@ In the midst of that intense cold, where even one's breath is frozen solid.
 [sha:f575afdcb146af48d6fe0399835ece33e9626361]{
 -- Page 592, Offset 12406.
 -- 彼女はたったひとり、あの吸血鬼と戦っていた。
-She's fighting against that vampire all on her own.
+She's been fighting against that vampire all on her own.
 }
 [sha:9b001ac172889581d51d0a0c192c763fd15aa719]{
 -- Page 593, Offset 12407.
@@ -362,9 +363,9 @@ Its name is '<Death by Immolation|B l a z e           >'.
 -- Page 598, Offset 12422.
 -- 七つの死因を持つ聖典から分かれた、代行者シエルの専用礼装。
 // God is this entire route going to be full of chuuni BS like this
-// Someone check the lore on this
-One branch of the scriptures that hold the Seven Causes of Death,
- it is a Mystic Code reserved for the exclusive use of Executor Ciel.
+// Flag: 専用礼装 translation as mystic code? Or something else?
+One excerpt from the Scripture that holds the Seven Causes of Death,
+ it is an outfit reserved for the exclusive use of Executor Ciel.
 }
 [sha:070cbd0321538037ee82c7fce5b315cdae3cfe29]{
 -- Page 599, Offset 12423.
@@ -527,7 +528,7 @@ Those encased in this coffin could only attain freedom through their own death.
 [sha:423f7738e71a6f894fc4fd31435d6d45f6c27bc5]{
 -- Page 609, Offset 12453.
 -- その破綻した妄想の標的になったが最後、生け贄は死ぬまで閉じこめられる。
-As soon as a victim become the target of this failed delusion, they were trapped inside it until they died.
+As soon as a victim became the target of this failed delusion, they were trapped inside it until they died.
 }
 [sha:0fcda15b31cf6fe59e8c558f37a55985cfdc5f16]{
 -- Page 610, Offset 12454.
@@ -565,7 +566,7 @@ And so, by extension―――
 [sha:f8c5ac05fad6b6e4e992ff2822242ef2c1fa011f]{
 -- Page 611, Offset 12460.
 -- 特性を意味する。
-This is the meaning of that characteristic.
+This is the meaning of that property.
 }
 [sha:113a51f1f9d48bfa490fb65c0a3f725fe631407d]{
 -- Page 612, Offset 12461.
@@ -703,7 +704,7 @@ The vampire also understands what it is that makes the Executor's armor special.
 [sha:01bcc0c6b5576ff5e6703d91454232a6e2cbdf7b]{
 -- Page 621, Offset 12486.
 -- 破壊にはより強い概念、呪いが必要だという事も。
-And he understands that to destroy it, an even stronger concept―――an even stronger curse is needed.
+And he understands that to destroy it, an even stronger concept――an even stronger curse is needed.
 }
 [sha:73fcd7167f34b6b19e8a17b525f0fd294f0b2d2f]{
 -- Page 622, Offset 12487.
@@ -765,7 +766,7 @@ It may be her main weapon, but losing it doesn't pose a problem.
 [sha:a7504bd10c7a489c932377cb800637bf756bf030]{
 -- Page 626, Offset 12497.
 -- むしろいつ<換|か>えるか、タイミングを計っていた。
-In fact, she'd already been weighing up when to replace it.
+In fact, she'd already been weighing up when to swap it out.
 }
 [sha:9d9d4943e6f4ba07bdc8022bc86a9857ad3e30ed]{
 -- Page 626, Offset 12498.
@@ -777,6 +778,7 @@ She knew that her assault rifle,
 [sha:2d1830d634e14379764147f44ebf5fbd77faded3]{
 -- Page 626, Offset 12499.
 -- 代行者にとっても、本命は<こ|・><の|・><後|・>に呼び出す礼装である。
+// Flag: mystic code for real?
 Her %{i}true%{/i} weapon of choice is the Mystic Code she's about to call on now.
 }
 [sha:ab06425b867b5fef216a46c42a8f6500916b098a]{
@@ -797,7 +799,7 @@ Having evaluated the situation, she's come to the conclusion that she cannot ove
 [sha:97b7d06f9cdbfeaab433dd4f07879cb6d87a843e]{
 -- Page 627, Offset 12503.
 -- であれば、<刃|は>を散らす白兵戦の時間になる……！
-In which case, the time has come to cross blades and engage in hand-to-hand combat...!
+In which case, the time has come to cross blades and engage in close combat...!
 }
 [sha:d88db2d0964c9504473c31a41a89344e84ba2555]{
 -- Page 628, Offset 12504.
@@ -821,7 +823,7 @@ The armor and the gun aren't the only things the girl has been entrusted with.
  <Death by Disease|S i c k            >.
  <Death by Hemorrhage|B l a d e          >.
  <Death by Concussion|B r e a k           >.
- <Death by Dementia|L o s t        >.
+ <Death by Insanity|L o s t        >.
  <Death by Torture|P a i n          >.
  <Death by Condemnation|P u n i s h          >.
 }
@@ -829,7 +831,7 @@ The armor and the gun aren't the only things the girl has been entrusted with.
 -- Page 628, Offset 12507.
 -- 曰く、法が人に割り振った七つの死因。
 // What law? Lore point?
-All told, they are the Seven Causes of Death bestowed upon man by the law.
+All told, they are the Seven Causes of Death bestowed upon man by canon law.
 }
 [sha:329ab9e22d6bb3d398ee911a3d0735fbaea9dc02]{
 -- Page 628, Offset 12508.
@@ -850,7 +852,7 @@ With a bestial howl, the girl runs through the white hell.
 [sha:9aba9334f48f7cfa4d1d92b86464949ded7165ab]{
 -- Page 629, Offset 12511.
 -- 体内にこもった熱、加速する魔力を火のように排出する。
-Like a raging fire, she releases the heat and accelerating magical energy that have been accumulating in her body.
+Like a raging fire, she releases the heat of the accelerating magical energy that has been accumulating in her body.
 }
 [sha:5798cac03f716b7eb7c8ceb7c59e8d0efdfcea08]{
 -- Page 629, Offset 12512.
@@ -987,7 +989,7 @@ The vampire's past,
 -- ただそこにあるだけだった<死徒|のろい>は、かつて王を落とした騎士の貌に変貌した。
 The <Dead Apostle|C u r s e      >,
  who up until now had merely stood there listlessly,
- metamorphoses into the figure of the knight who once felled his king.
+ morphs into the figure of the knight who once felled his lord.
 }
 [sha:b62d2e66c499e56b1a256e8800ba4f539ff1116a]{
 -- Page 637, Offset 12536.
@@ -1002,7 +1004,6 @@ One of the Twenty-Seven Ancestors, Sword Monk Be'ze.
 [sha:c79a4a51ed1e33b62676c666cc1927d96f483b30]{
 -- Page 637, Offset 12538.
 -- おれも昔、一度だけ教えを受けた。
-// Flag for better lore context if known
 He taught me too, long ago―――though only once.
 }
 [sha:d5330d43b162914ba5a8864273636f4187bcd5a9]{

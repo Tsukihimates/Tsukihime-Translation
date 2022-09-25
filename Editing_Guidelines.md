@@ -23,7 +23,9 @@ This is a <u>difficult exercise</u>. Whenever you're unsure of what to do with a
     remain as single quotes
     - > When I think about the time they said 'this is someone talking about 'that' thing', I blah blah
 - For 'lead in' or 'lead out' of sentences (e.g.  "―――Nii-san," or "this time―――"),
-  use CJK dashes not ASCII dashes, since the game will combine the unicode ones into a single solid line.
+  use 3 CJK dashes not ASCII dashes, since the game will combine the unicode ones into a single solid line.
+- Abruptly cut-off sentences should also use 3 CJK dashes (e.g. "What are you talking ab―――")A.
+- For in-sentence em-dashes, use 2 CJK dashes (e.g. "this tea――it's incredible!").
 - Do NOT use CJK space characters (u3000), as these render at a different width than normal ascii space characters
 - Do NOT use CJK ellipsis (…), it renders vertically justified. Replace with three ASCII dots.
 - When ruby text is used, YOU MUST playtest the changes and add spaces to justify the text correctly.
