@@ -1,37 +1,42 @@
 [sha:2af97680feb8b4ca40b10f16078b56ead2180618]{
 -- Page 10020, Offset 16394.
 -- 深夜零時過ぎ。屋敷の明かりは完全に消えている。
-It's past midnight. The lights in the mansion have completely darkened.
+It's after midnight.
+ There isn't a single light on inside the mansion.
 }
 [sha:b007e6655103866417f27ae2fc046d166f580db0]{
 -- Page 10020, Offset 16395.
 -- 玄関を迂回して西館の勝手口に回り、中に入る。
-I circumvent the main entrance, choosing instead to enter the mansion through the west wing backdoor.
+Instead of entering through the main door,
+ I slip around to the rear entrance of the west wing and make my way inside.
 }
 [sha:fe9b3b9e13b475ff2c91f1c8d9843b49e2cf6fe5]{
 -- Page 659, Offset 16396.
 -- 出かける時にこの勝手口を使ったのだが、幸運な事に鍵はかけ直されていなかった。
-I used this backdoor when I headed out, and fortunately, it's still unlocked.
+It's the same door I used when I left, and fortunately it's still unlocked.
 }
 [sha:dcd7b8b58908ed7ac232f6109d1822da6b34d4ab]{
 -- Page 659, Offset 16397.
 -- 西館に部屋のある翡翠や琥珀さんを起こさないように、抜き足で中へと入った。
-I sneak through the door, so as to not wake Hisui and Kohaku, whose rooms are in the west wing.
+// Reading 中へ more as 'towards the center' than 'inside' here, since he's already in the house based on CG
+I creep softly down the hall, careful not to wake Hisui or Kohaku-san, whose rooms are in the west wing.
 }
 [sha:d4a4b7363df031d5e871952393f0597dd15358ac]{
 -- Page 660, Offset 16398.
 -- 「―――ふう」
-"―――%{i}Haa%{/i}."
+"―――%{i}Whew%{/i}."
 }
 [sha:d454a009e96ff751331c1ddf3b0807fdd2c09e5b]{
 -- Page 660, Offset 16399.
 -- 一息ついてベッドに腰をかける。
-I take a deep breath and sit down on the bed.
+I take a deep breath and plop down onto the bed.
 }
 [sha:aa9855e8e03b5250545dec26c16b19f14cde5df6]{
 -- Page 660, Offset 16400.
 -- 歩き詰めで疲れきっていたのか、吸い込まれるようにベッドに倒れこむ。
-It almost swallows me whole as I collapse onto it. Maybe walking around so much has exhausted me.
+// 2 stage collapse here based on the CGs, 倒れこむ is after the 腰をかける
+I must be exhausted after all that walking,
+ because I immediately collapse as though the bed itself is sucking me in.
 }
 [sha:21566794e94e4881d9aea8806a291f12282498c6]{
 -- Page 661, Offset 16401.
@@ -69,33 +74,33 @@ I didn't %{i}want%{/i} to leave that miraculously beautiful yet inhuman being al
 [sha:ca1700799fabb7ba430b9b95988e6ec968651cc6]{
 -- Page 663, Offset 16407.
 -- 一瞬、針を刺すような頭痛があった。
-Momentarily, a sharp, piercing headache afflicts me.
+I'm struck by a sharp but fleeting headache.
 }
 [offset:16408]{
 -- Page 663, Offset 16408.
 -- ……なんだろう。
-What was that?
+What was that...?
 }
 [sha:4639313f6979e8dc26f63db5393953b5afc9f278]{
 -- Page 663, Offset 16409.
 -- 今の頭痛はこれまでのものとは違う気がした。
-For some reason, I feel like the headache just now was different from usual.
+It feels somehow different to the headaches I've had before.
 }
 [sha:5179f99ff62e1342d7014f299e16e51ceb64bbcc]{
 -- Page 663, Offset 16410.
 -- 苦痛ではなく後ろめたい、というか。
-Not quite painful, but more like... shameful?
+It wasn't painful so much as... shameful?
 }
 [sha:39b07340a38ebe68c79043d24a0edb58bb2e0e42]{
 -- Page 663, Offset 16411.
 -- アイツを美しいと思ってはいけない、と、自分自身、愚かな自分を<咎|とが>めるような。
 // the use of both 自分自身 and 自分 here is to indicate subtly that there are two people inside of him now, so this could perhaps be worded better, but the idea here is important.
-Like my own self is admonishing me for foolishly thinking that she was beautiful.
+As though my own self were admonishing me for foolishly thinking that she's beautiful.
 }
 [sha:639e2150f109ffe9d3375b1cc0179768b3250b63]{
 -- Page 664, Offset 16412.
 -- ……ゆっくりと目蓋を閉じる。
-Slowly, I close my eyes.
+Slowly but surely, my eyelids begin to droop.
 }
 [sha:0e30eadaf7b43ebdaebecc2709ff65072e27e5dd]{
 -- Page 664, Offset 16413.
@@ -107,41 +112,42 @@ I surrender myself to the enveloping hand of weariness,
 [sha:5111826b08d3fe7c83025ca79c9d42ef08a2c773]{
 -- Page 664, Offset 16414.
 -- 抗えない闇に落ちていく中、何が愚かなのかを追究しようとしたが、意識は千切れるように途絶えていった。
-I fall into the darkness without resistance.
- I try to reflect on what part of my thoughts I felt were foolish,
- but my consciousness tears and interrupts the process.
+As I fall into that overpowering darkness,
+ I attempt to reflect on just what part of my thoughts were foolish,
+ but am cut short as my consciousness is dashed to pieces.
 }
 [sha:70ab2b74a025a5963fc4a3a07cbe1f1e00e35cbf]{
 -- Page 665, Offset 16415.
 -- ……………………眠れない。
 // I wonder how this super long row of ellipsis should be conveyed.
+............%{n}
 I can't sleep...
 }
 [sha:d3d69370e0f78bcce13ff770a7e4d2dc7ee781c8]{
 -- Page 665, Offset 16416.
 -- 考えるべき事が多すぎるからだろう。
-I suppose I have too much to ponder.
+I must have too much on my mind.
 }
 [sha:498d64b4658a64b17de311faadc931c5bb7a4c0c]{
 -- Page 665, Offset 16417.
 -- 色々なものが浮かんでくる。
-Various thoughts pop up in my head.
+My brain is filled with a jumble of thoughts.
 }
 [sha:ac75f93fee54079239927a6d7c500f5a313c1528]{
 -- Page 665, Offset 16418.
 -- 目を閉じると思考が先鋭化するようだ。
 // thoughts moved to previous sentence
-When I close my eyes, it almost feels like they grow more acute.
+Whenever I close my eyes, it's as though they all suddenly come into focus.
 }
 [sha:839983e88a58ac9ad0a3d7896bb17112ff08de67]{
 -- Page 665, Offset 16419.
 -- 目覚めたからにはすぐには眠れない。
-I just woke up, so I can't go back to sleep immediately.
+I just woke up, so I won't be able to go back to sleep again right away.
 }
 [sha:d396bd205c801f5623153314ff1ca949fc1a8180]{
 -- Page 665, Offset 16420.
 -- 観念してベッドから起き上がる。
-I give on falling asleep again, and heave myself out of bed.
+I reluctantly heave myself out of bed.
 }
 [sha:aa15fe14c2bd0f999ff1a26f047fd8bbbc92fd5f]{
 -- Page 666, Offset 16421.
@@ -151,20 +157,24 @@ At a time like this, nothing beats a bit of reading.
 [sha:e376b8c824daa1040eef50069f9e43c59c554e5f]{
 -- Page 666, Offset 16422.
 -- 体調を崩さないよう上着を羽織り、荷物を漁る。
-// 体調を崩さないよう would be strange on its own, so I expanded it so there's more context.
-// Luggage here is interesting, since it's a "metaphorical" luggage possessed by Roa.
-I put on a shirt just to make sure that my health doesn't deteriorate from the cold air, and then start rummaging through my luggage.
+// P: 体調を崩さないよう would be strange on its own, so I expanded it so there's more context.
+// P: Luggage here is interesting, since it's a "metaphorical" luggage possessed by Roa.
+// R: Assuming 上着 is more of a jacket/robe than a shirt, since pretty sure Shiki has mentioned PJs in the past
+I put on a robe so that I don't catch a chill, and start rummaging through my luggage.
 }
 [sha:f992ed869f6f00ed9e7bdf27a0e8f94c91ccc69c]{
 -- Page 666, Offset 16423.
 -- あいにくお馴染みの本しかなかったが、どうせ暇つぶしだ、新鮮味は求めていない。
-Unfortunately these are all books I'm intimately familiar with. Still, I have time to kill――I shouldn't be such a stickler about novelty.
+Unfortunately, I've already read all these books well enough to know them by heart.
+ Oh well, I'm just trying to kill time here――I shouldn't be such a stickler about novelty.
 }
 [sha:21224c897076dfc372cb10c5970a932bc14b8b30]{
 -- Page 667, Offset 16424.
 -- 何度も目を通した本を片手に、隣室のサンルームに移動する。
-// There might be a better word for サンルーム (sun room)
-I pick up a book I've gone through many times and move over to the sun room.
+// P: There might be a better word for サンルーム (sun room)
+// R: I feel like an appropriate translation for the general idea of サンルーム would be
+// R: a conservatory, though it doesn't really fit with the CG here (it looks... pretty dark?)
+I pick up a well-thumbed book and head over to the conservatory.
 }
 [sha:3c54464f417951b30756e8023c20e9a023c9226c]{
 -- Page 667, Offset 16425.
@@ -191,54 +201,67 @@ Not anger, nor disappointment.
 [sha:46d3f48e2d337d5880e7c997744bd361df0e2ce1]{
 -- Page 668, Offset 16429.
 -- ただ、目に映るすべてのものが哀れに思えた。
-It just seemed to me that everything my eyes took in was so pitiful.
+Everything I laid eyes on just seemed so pitiful.
 }
 [sha:0174f2fe70cf8f005caf3d999636522f37a8698c]{
 -- Page 668, Offset 16430.
 -- （無論、最も哀れなのはこの身ではあるのだが）
-// Might not want to use parenthesis?
-(Naturally, I myself was the most pitiful of all.)
+// Parens dropped
+Naturally, I myself was the most pitiful of all.
 }
 [sha:042c5511303b3e3695bfc169dd38b9c1d565ea56]{
 -- Page 669, Offset 16431.
 -- 十五世紀の終わりに彼は生まれた。
-He was given life at the end of the 15th century.
+He was born at the end of the 15th century.
 }
 [sha:61289a48111f5ae2b28e6abfbfea8c19197b41a8]{
 -- Page 669, Offset 16432.
 -- 裕福な家に生まれ、高級な教育を受け、心身共に健やかに成長した。
-Born into a wealthy family and receiving an expensive education, he grew up healthy, both in mind and body.
+As a child of a wealthy family and the recipient of an expensive education,
+ he grew up healthy, both in mind and body.
 }
 [sha:ddfe593db1168ee688ea2bf5f836a6336d06f3b3]{
 -- Page 669, Offset 16433.
 -- 善行を理解し、悪徳を認めず、一切の罪に関わらず。
-He understood what it meant to be good, and refused to overlook evil, never involving himself in any sinfulness.
+He understood what it meant to be good,
+ and would not countenance evil,
+ no matter what form it took.
 }
 [sha:a6bedbe932dc5ef24c36638bd8bbe446b773768b]{
 -- Page 669, Offset 16434.
 -- 人々は彼を神童と敬い、自分たちの土地のさらなる発展を信じて疑わなかった。
-The populace revered him as a wonder child, unquestioningly believing he would make their lands flourish.
+// Assuming based on next line that 自分 is the family (take over the family estate / develop their lands)
+// rather than the general population?
+The populace revered him as a child prodigy,
+ and took it for granted that he would dedicate himself to further improving his family's land.
 }
 [sha:b05d378c4b4bf47a40f36bd1ffb3aa5f265e3202]{
 -- Page 670, Offset 16435.
 -- だが。彼は農園を継いでほしいという両親の希望を断り、神の家の門を目指した。
-However, he betrayed the expectations of his parents to inherit their estates, instead aspiring to become a man of the cloth.
+However, he defied his parents' wish that he inherit their estate,
+ aspiring instead to become a man of the cloth.
 }
 [sha:a7efbb5a3472e044a0ba95d23b6e32b920d0117e]{
 -- Page 670, Offset 16436.
 -- 教会の堕落……権力者たちによる現世利益追求……がじき根に回り、果実が地に落ちる寸前だった頃の話である。
-// latter half of sentence could use some help
-This was back when the corruption of the church and the pursuit of secular wealth by its potentates had began rearing its head――just before its ugliness was fully revealed.
+// Do we think 'the fruit had yet to fall to the ground' supposed to be
+// A: the consequences of their actions have not yet caught up with them or
+// B: the extent of the rot had yet to become fully known?
+// Depending on which, last sentence either what I have here or sth like
+// 'had already been festering for a while, but the consequences had not yet come home to roost.'
+At the time, the corruption within the church――
+the pursuit of worldly desires by its potentates――
+had already been festering for a while, but the true extent had yet to become widely known.
 }
 [sha:0fbfb8b5916acb59d22ea50666094fba2e36f72d]{
 -- Page 671, Offset 16437.
 -- 両親は残念がったが、彼が願うのなら喜んで送り出した。
-His parents were disappointed, but still happily sent him off according to his wishes.
+His parents were disappointed, but still happily sent him off in accordance with his wishes.
 }
 [sha:f099cb298f5382aee3e75cc92a28a79e187085f2]{
 -- Page 671, Offset 16438.
 -- 或いは、彼ならばこの国に蔓延した腐敗臭を払拭できるのではないかと。
-Or perhaps, they thought it possible that he would be the one to rid their country of the misfeasance that had come to fester in it.
+Perhaps they thought it possible that he would be the one to root out the stink of corruption that pervaded their country.
 }
 [sha:f0a9d41b8a0a184930641b13839634e5104de220]{
 -- Page 671, Offset 16439.
@@ -248,7 +271,7 @@ Naturally...
 [sha:93d2f8aaf3c35817a760f3370b893575657b8aaa]{
 -- Page 671, Offset 16440.
 -- なんの後ろだてもない一名家の息子に、世界を変える事などできはしないのだが。
-There was never any chance that a single son from some noble family without any backing could change the world.
+There was never any chance that the lone son of some noble family with no backers could change the world.
 }
 [sha:00395d7ea51309283f37a611fca2759925cd4976]{
 -- Page 672, Offset 16441.
@@ -261,7 +284,7 @@ He passed through many cities, came to know many people,
 [sha:2fec6a814174fa6babe97c82149dea039d575704]{
 -- Page 672, Offset 16442.
 -- <人|・><間|・><は|・><素|・><晴|・><ら|・><し|・><い|・>。
-%{i}Humans are wonderful.%{/i}
+%{i}Humans are wonderful%{/i}.
 }
 [sha:312164555743f479b8e3593f0f9c3d1e08f7e0bf]{
 -- Page 672, Offset 16443.
@@ -271,7 +294,7 @@ Among the many children the Lord had sown unto the earth, man was the most excel
 [sha:29171783f103cc9fc1526112fa983f51da6dfecc]{
 -- Page 672, Offset 16444.
 -- この、弱く、脆く、<五月蠅|やかまし>く、救いのない動物の唯一にして最大の美点。
-Though this creature was so weak, so fragile, so tiresome and so hopeless, it was still the most beautiful in all creation.
+This weak, fragile, tiresome, hopeless animal was nevertheless the most beautiful in all creation.
 }
 [sha:133801cb38a5687ef6dc2cd372780214c08d578b]{
 -- Page 672, Offset 16445.
@@ -281,12 +304,12 @@ The Lord's design was revealed through human nature――their dogged inability 
 [sha:46660182e45179b5a30b1555c638f64653b10237]{
 -- Page 673, Offset 16446.
 -- 彼は毎日のように人と知り合った。
-He came to know new people daily.
+He met with new people on a daily basis.
 }
 [sha:8a0656a17c388eb873407b0b72d000530d3ce6d1]{
 -- Page 673, Offset 16447.
 -- 都市に住む者。都市を訪れる者。どちらでもいい。
-Those who lived in the city, those who came to visit the city――any he could find.
+People who lived in the city, people who came to visit――anyone he could find.
 }
 [sha:b4c08d826af11a0809bd98d56ba05543e8f642a7]{
 -- Page 673, Offset 16448.
