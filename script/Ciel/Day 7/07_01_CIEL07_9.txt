@@ -7,7 +7,7 @@ It's after midnight.
 [sha:b007e6655103866417f27ae2fc046d166f580db0]{
 -- Page 10020, Offset 16395.
 -- 玄関を迂回して西館の勝手口に回り、中に入る。
-Instead of entering through the main door,
+Instead of entering through the front door,
  I slip around to the rear entrance of the west wing and make my way inside.
 }
 [sha:fe9b3b9e13b475ff2c91f1c8d9843b49e2cf6fe5]{
@@ -335,22 +335,22 @@ He strove to understand as many people as he could.
 -- Page 674, Offset 16452.
 -- 学友たちは“十人で充分だ”と彼を笑った。
 // Assuming the institution here is a clerical one?
-His friends at the seminary laughed at him: "Isn't ten people enough?"
+His friends at the seminary laughed at him: 'Isn't ten people enough?'
 }
 [sha:dbc6df9f9310979484bd53aa57e9112e0b10c897]{
 -- Page 674, Offset 16453.
 -- 教師たちは“百人に留めなさい”と彼をたしなめた。
-His teachers scolded him: "Keep it to no more than a hundred, will you?"
+His teachers scolded him: 'Keep it to no more than a hundred, will you?'
 }
 [sha:76e46915fbb1a8a5ff406caf61e69caf1313af43]{
 -- Page 674, Offset 16454.
 -- 司祭たちは“万人を知りなさい”とうそぶいた。
-The presbyters preached to him: "You should try to know tens of thousands!"
+The presbyters preached to him: 'You should try to know tens of thousands!'
 }
 [sha:075903ba6337ea89f79444701e734f5a7ad1247b]{
 -- Page 674, Offset 16455.
 -- 唯一、親友だけが“地獄の始まりだ”と先を予見した。
-Only his one trusted friend predicted what was in store for him: "That's a living hell you're bound for."
+Only his one trusted friend predicted what was in store for him: 'That's a living hell you're bound for.'
 }
 [sha:ba1c2c9e74c37fd0b39d5ee51550d8e77111c49d]{
 -- Page 675, Offset 16456.
@@ -426,8 +426,8 @@ He was a man of thoroughly unremarkable aptitude.
 [sha:d9530cbaff335067998aaf2a9a7183d9821f8180]{
 -- Page 677, Offset 16469.
 -- 人間の能力を単純に数値化した場合、その合計値は身近な隣人と何も変わりはしなかっただろう。
-If his talents as a human were to scored and tallied up,
- their sum would be no more impressive than any of his neighbors'.
+If his talents as a human were to be scored and tallied up,
+ their sum would be no more impressive than that of any of his neighbors.
 }
 [sha:261ed8d7bcddbd3a0137ec66f45b421e9732bb28]{
 -- Page 677, Offset 16470.
@@ -480,13 +480,13 @@ He loved mankind's ideals,
 -- Page 679, Offset 16478.
 -- たしかに彼では宗教世界を変える事はできなかっただろう。けれどその一要因にはなれた筈だ。
 It was obviously impossible for him to single-handedly change the face of religion,
- but he should have been able to at least be a small part of that change.
+ but he should have been able to at least become a small part of that change.
 }
 [sha:562b857155e1ae009eb35752c03865750c57dd54]{
 -- Page 679, Offset 16479.
 -- “人間”を愛しながら“人”は愛せない神童でも、<そ|・><の|・><時|・>が来るまで、彼は紛れもない聖者だったのだから。
 The prodigy who loved %{i}humanity%{/i} but could not love %{i}people%{/i} was undoubtedly a saint...
- at least until %{i}that moment%{/i} came.
+ at least until %{i}that%{/i} moment came.
 }
 [sha:7ac2372721ca79f95568ab239b3468620f7e82dd]{
 -- Page 680, Offset 16480.
@@ -531,13 +531,13 @@ Things whose existence everyone else took for granted.
 -- Page 681, Offset 16487.
 -- それこそが彼にとって最後の童心、
 // liberal, calls back to Offset 16482
-These were the things that still captivated his child-like curiosity―――
+It was these things that still captivated his child-like curiosity―――
 }
 [sha:632436cd51cc4d1102d3ed804570afda1a967a71]{
 -- Page 681, Offset 16488.
 -- 同じ年頃の少年たちが思う以上の、輝ける星だった。
 // very liberal
-Such as the brilliance of the stars, so ignored by his young peers.
+Things such as the brilliance of the stars, so ignored by his young peers.
 }
 [sha:9e90f0f9af22e617cdd61cff69a69e6a167eabbe]{
 -- Page 681, Offset 16489.
@@ -590,7 +590,7 @@ What were its aims?
 [sha:7a34544665da36ab953f92f99adf6e71e54afc4e]{
 -- Page 683, Offset 16497.
 -- 手の届かないものに対する期待、興味、恐怖。
-Those were the feelings of anticipation, of curiosity, of fear, held toward something outside of one's grasp.
+Those were the feelings of anticipation, of curiosity, of fear, held toward something beyond one's grasp.
 }
 [sha:9fd9fe275591c47f4e17be1ba42f3d57d4e91b0e]{
 -- Page 683, Offset 16498.
@@ -635,7 +635,7 @@ The house of God had already come into possession of vast quantities of informat
 -- 数学。天文。地層。歴史。建築。経済。医術。農耕。そして、後に科学となる錬金術。
 // 地層 isn't geology, but this seems like a mistake?
 Mathematics, astronomy, geology, history, architecture, economics, medicine, agriculture,
- and lastly the alchemy that would later become chemistry.
+ and finally the alchemy that would later become chemistry.
 }
 [sha:6cad6679f1cfc39d6324e928b40a8d411ab3640d]{
 -- Page 686, Offset 16506.
@@ -851,10 +851,11 @@ The man, who so feared the infinite expansion of humanity,
 -- 『……ふうん。まあ、ここらで足抜けするのも悪くない判断だよ。例の改革はともかく、<印刷技術|グーテンベルグ>の一般化が致命的だからな。しばらく荒れるだろ、<教|う><会|ち>も協会も。
 // Unvoiced
 // Possibly the longest page in the game, edit at your peril
+// Ruby used to cram more shit in, forgive me
 'Hmm... well, breaking ties with us now isn't a bad call.
  The rapid spread of the Gutenberg press is a real problem,
  to say nothing of the reformation.
- Gonna be a rough spell, both for us at Church and the Association.
+ Gonna be a rough time, both for <us|T h e   C h u r c h   > and the Association.
 }
 [sha:d13105c554ffd15c0d1b754253e1cef65c34206f]{
 -- Page 695, Offset 16543.
@@ -869,7 +870,7 @@ I imagine <they'll|T h e  M a g e s   A s s o c i a t i o n   > bear the brunt o
 Guess that explains you heading for the True Ancestor's castle now,
  while they've both got their hands too full to give chase.
  You're a real opportunist, huh.
- Gonna take this chance to try and nab the eternity that's closest at hand, aren't you?'
+ Gonna take this chance to try and nab the eternity that's closest at hand, are you?'
 }
 [sha:2d16ce91dd097daeb76621a1f4acf3da08e07609]{
 -- Page 696, Offset 16545.
@@ -901,7 +902,7 @@ So, do you intend to leave the Church tomorrow then?'
 -- 司教の席は望めない。ここまでで父の遺産はすべて使いきりましたしね。潮時だったんですよ、これが』
 // might style 'bishop' as 'prelate'
 I have no aspirations of becoming a bishop.
- I've burned through the entirety of my inheritance to make this far――it was high time I made my decision.'
+ I've burned through the entirety of my inheritance to make it this far――it was high time I made my decision.'
 }
 [sha:c6056f56d9d2c246c5fda3a338718449b5405b92]{
 -- Page 698, Offset 16550.
@@ -919,7 +920,7 @@ I have no aspirations of becoming a bishop.
 So then, you're still planning on finishing your Magecraft Theory, I take it?
  I have no intention of leaving the Church, so I can't go down the same path as you.
  Well, luckily for me, I'm a woman.
- Guess I'll pop some kids out real quick so I can tell them all about you.'
+ Guess I'll pop some kids out so I can tell them all about you.'
 }
 [sha:c6076236a3ef0af6d0a0e3e297ba4121d8b89f8f]{
 -- Page 698, Offset 16552. Mods: @n.
@@ -935,7 +936,7 @@ So then, you're still planning on finishing your Magecraft Theory, I take it?
 -- Page 699, Offset 16554.
 -- 『そうだな。あと百年もたてば新参の死徒が台頭してくる。そいつの相手をしても無駄骨だから無視してしまえ、と口伝にしよう』
 // 新参 not referring to the Ancestor sense of the word, so probably best not to use "young blood", but hey, it might fit anyway, I'll think about it.
-'Hmm, I guess something about how a new Dead Apostle's gonna make their debut in a century or so.
+'Hmm, I guess something about how a new Dead Apostle's gonna make his debut in a century or so?
  Make sure they understand that trying to fight him would be pointless, and they should just leave him alone.'
 }
 [sha:580e3bea37dd37797328dd236054aee99e21d8b9]{
@@ -949,8 +950,8 @@ So then, you're still planning on finishing your Magecraft Theory, I take it?
 -- Page 700, Offset 16556.
 -- 『ハ、たわけたことを。死者からやり直すんだ、君が10年にひとりの天才であろうと百年はかかる。連中の世界はそれこそ地獄だ。苛烈さはあたしたちの比じゃないぞ』
 'Hah, stop spouting nonsense.
- You'll have to start over as a Corpse――it'd take even once-in-a-decade genius like you a century at least.
- Their world is practically living hell, the ruthlessness of which can't even begin to be compared to ours.'
+ You'll have to start over as a Corpse――it'd take even once-in-a-decade genius like yourself a century at least.
+ Their world is practically a living hell, the ruthlessness of which can't even begin to be compared to ours.'
 }
 [sha:242c2e62f22a9bd2c4757d35b11edd44222611a9]{
 -- Page 700, Offset 16557.
