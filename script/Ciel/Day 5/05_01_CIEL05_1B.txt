@@ -35,7 +35,7 @@ I somehow manage to keep my cool.
 -- Page 62, Offset 11025.
 -- さっき捕まえた女……という事は、俺より先にこいつらと話して、捕まった誰かがいるという事だ。
 'That girl we snagged earlier'...
- That means that someone was here before me, talked to these guys, and was captured by them.
+ That means that someone was here before me, talked to these guys, and was captured.
 }
 [sha:5b44315555d9701a8dc3f9516f274d7bc7557d94]{
 -- Page 63, Offset 11026.
@@ -52,7 +52,7 @@ Alright then, you want a part-time job?
 [sha:ca917979117674940e9e79c143f01a128cb28beb]{
 -- Page 63, Offset 11028.
 -- 「ヒュー！　勇敢な挑戦者一名様、ごあんなーい！」
-"Yeehaw! One brave challenger, coming right up!"
+"Fuck yeah! One brave challenger, coming right up!"
 }
 [sha:13aee63e71a06f61c51bb9972940c88429ace488]{
 -- Page 64, Offset 11029.
@@ -64,7 +64,7 @@ The man named Haru pushes the button for the elevator.
 -- Page 65, Offset 11030.
 -- 「……っ」
 // This has 「」 but... I'm straining my ears here and I don't here any voices, just elevator SFX
-%{i}Rattle%{/i}.
+...
 }
 [sha:532fd82ebdc6567d91795a119346ed35584f24ff]{
 -- Page 65, Offset 11031.
@@ -132,7 +132,7 @@ If my gut's anything to go on, we must be about four floors below ground by now.
 [sha:109dc3910013e3c23696e9426b0b3391607f1217]{
 -- Page 70, Offset 11042.
 -- 「っ……!?」
-"%{i}Hnng%{/i}...!?"
+"%{i}Hnng%{/i}...?!"
 }
 [sha:d4e1d1d5274f74407051172cee4fdf67c35d0a64]{
 -- Page 70, Offset 11043.
@@ -159,7 +159,7 @@ Unable to bear the smell, I cover my nose with my hand.
 [sha:926f006f56902c162259c25e2731be92629aba3a]{
 -- Page 71, Offset 11047.
 -- 「はーい、エサ一匹追加でーーーーす！
-"Alright, fresh meat, come and get iiit!
+"Alright, fresh meat, comin' riiiiight up!
 }
 [sha:ef166692890a332b4f0f967253a5334773b435c0]{
 -- Page 71, Offset 11048.
@@ -242,7 +242,7 @@ After swimming about ten meters, I reach the shore.
 [sha:6acf4950810e3c7e245547cb89ccd6255de89532]{
 -- Page 76, Offset 11063.
 -- 「はぁ、はぁ、はぁ―――！」
-"%{i}Haa, haa, haa%{/i}―――"
+"%{i}Haa, haa, haa%{/i}―――!"
 }
 [sha:253af646347322056c765b5acd32ed5a8c573690]{
 -- Page 76, Offset 11064.
@@ -283,12 +283,12 @@ The odor of rotten flesh.
 [sha:fa5db2f8d30d9cb19f048193231bc9ad7a44e353]{
 -- Page 79, Offset 11070.
 -- “ぁ……ぁぁ、あああああ………”
-'%{i}Aa... aaa, AAAAAA...%{/i}'
+'%{i}Ah%{/i}... %{i}aaah, AAAAAAHHH%{/i}...'
 }
 [offset:11071]{
 -- Page 79, Offset 11071.
 -- 「……!?」
-"Huh...!?"
+"Huh...?!"
 }
 [sha:b1bb6bbe2bf060c4033f5a439dc077352b1ba46d]{
 -- Page 79, Offset 11072.
@@ -314,7 +314,7 @@ Shielding my eyes from the light, I take a look around, and there―――
 [sha:7e92179f3605f1c96c91739e518b2aa4cad7434e]{
 -- Page 79, Offset 11076.
 -- もはや死人としか思えない者たちが、この広場に集まりだしていた。
-Pouring into the room are the figures of people that look like they've already been reduced to corpses.
+Pouring into the chamber are the figures of people that look like they've already been reduced to corpses.
 }
 [sha:972ca745113ea1879cb94bd6eeee4806b4983794]{
 -- Page 80, Offset 11077.
@@ -331,7 +331,7 @@ I can't tell whether the sounds issuing from their mouths are sobs or shrieks.
 [sha:fceeda4eed0dc7ccc4f22756438d7864e91234b7]{
 -- Page 80, Offset 11079.
 -- 路地裏で見た死人とそっくりな人影たち。
-Seen in silhouette, they look exactly like the Dead I saw in that back alley.
+Seen in silhouette, they look exactly like those corpses I saw in that back alley.
 }
 [sha:6099a5d19950a9525a7cd0daf69c42abccef8bd9]{
 -- Page 80, Offset 11080.
@@ -383,7 +383,7 @@ I don't have the strength necessary to cross it in the few seconds they have lef
 [sha:b1e3f85496f1551b703a3ec001c217c8937401b8]{
 -- Page 83, Offset 11089.
 -- 炸裂する絶望の声。
-An eruption of voices crying out in desperation.
+An eruption of voices cry out in desperation.
 }
 [sha:d71c4144827bae1b3874eb9b156c17537c10ddac]{
 -- Page 84, Offset 11090.

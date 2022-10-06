@@ -49,12 +49,12 @@ My back hurts.
 [sha:f841f0034ca1396fdf5e182a9d97b41080102be2]{
 -- Page 392, Offset 11919.
 -- 「あ、気が付いちゃった？　ちぇっ、ざーんねん。もう少しこのままでもよかったんだけどなあ」
-"Oh, you're awake? %{i}Tch%{/i}, too baaad. It would've been nice to stay like this a bit longer."
+"Oh, you're awake? %{i}Tch%{/i}, toooo bad. It would've been nice to stay like this a bit longer."
 }
 [sha:e5825ed63787bd96f80045ee427b7a1ee314b4e8]{
 -- Page 392, Offset 11920.
 -- 「ノエル先生……!?」
-"Noel-sensei...!?"
+"Noel-sensei...?!"
 }
 [sha:c46ed1c8aa0d780a6d2baea7ef1012b852c014ae]{
 -- Page 393, Offset 11921.
@@ -71,7 +71,7 @@ I can hear Noel-sensei's voice coming from directly beneath me.
 -- Page 393, Offset 11923.
 -- めちゃくちゃ近い……というか、
 // lint-off:LintDupedWord
-We're really %{i}really%{/i} close...
+We're really, %{i}really%{/i} close...
 }
 [sha:62702507ccd8a7d8866cf8ed743e326d84a55aab]{
 -- Page 394, Offset 11924.
@@ -82,7 +82,7 @@ We're really %{i}really%{/i} close...
 -- Page 394, Offset 11925.
 -- あと脚、先生の脚が脚の隙間にですね!?」
 // I think that was the original meaning?
-And your legs, your legs are between my legs!?"
+And your legs, your legs are between my legs?!"
 }
 [sha:50941dc0c5c1aa61837408f38d3d378ba8c7b398]{
 -- Page 395, Offset 11926.
@@ -127,7 +127,7 @@ And yet, I'm still alive, which means...
 -- Page 397, Offset 11933.
 -- 「もちろん。教会の代行者ですもの、これぐらいのピンチは三回もくぐり抜けてるわ」
 "Of course.
- I'm an Executor of the Church you know,
+ I %{i}am%{/i} an Executor of the Church.
  I've gotten myself out of at least %{i}three%{/i} sticky situations like this in the past."
 }
 [sha:ee771d5ba4ebc9470c75fa4b4364bdce3742a788]{
@@ -156,7 +156,7 @@ She only started at our school three days ago.
 -- Page 399, Offset 11938.
 -- 「それは世を忍ぶ仮の姿ってヤツ？　ま、相手が相手だけに街の生活に溶け込んでいた方が便利なの」
 "Well, I guess you could call that my cover story?
- Given who our opponent is, it's useful to be able to blend in seamlessly with day to day life in the city."
+ Given who our opponent is, it's useful to be able to blend in seamlessly with day-to-day life in the city."
 }
 [sha:fbea4b31a515ab997aebcf769f0ab48d1bfaefa8]{
 -- Page 400, Offset 11939.
@@ -177,9 +177,9 @@ Oh... then what about Ciel-senpai?"
 [sha:134866779fb40c366bffac5aa4dc2e092868a064]{
 -- Page 400, Offset 11942. Glued. Mods: @x.
 -- あの子も本職は代行者よ。目的は吸血鬼の殲滅。この任務が終われば次の任務先に向かう、さすらいの転校生ってワケ」
- She's also actually an Executor by trade.
+ She's actually an Executor too.
  Her objective is to exterminate vampires.
- Once she's finished with this assignment she'll head to the next one, kinda like a wandering transfer student."
+ Once she's finished with this assignment, she'll head to the next one, kinda like a wandering transfer student."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 401, Offset 11943.
@@ -228,7 +228,7 @@ Except... that's precisely %{i}why%{/i}―――
 [sha:a402be636b62b8408e3f1e1871f56f519b114a67]{
 -- Page 404, Offset 11951.
 -- “目的は吸血鬼の殲滅”
-'Her objective is to exterminate vampires'
+'Her objective is to exterminate vampires.'
 }
 [sha:2478d5223067c955571f65644e38456c6c960202]{
 -- Page 404, Offset 11952.
@@ -261,7 +261,7 @@ Now's not the time for such thoughts.
 -- Page 406, Offset 11957.
 -- 「足りてます、大丈夫です。……あの、一人分の隙間ってことは、ここ、まだ土の中なんですか……？」
 "I'm fine, I've got enough air.
- Umm... you said you only carved out enough space for one person, so does that mean we're still buried under the rubble...?"
+ Um... you said you only carved out enough space for one person, so does that mean we're still buried under the rubble...?"
 }
 [sha:4044a7b23baac9a44159e76a269a8d46780997f1]{
 -- Page 407, Offset 11958.
@@ -273,8 +273,8 @@ Now's not the time for such thoughts.
 [sha:107832ea7f7bf7e00018f9f574f19db0c77550df]{
 -- Page 407, Offset 11959.
 -- どっちにしろわたしのおかげだから感謝してね？　この個人要塞、安くないんだから」
-Either way, you're alive thanks to me, so how about some gratitude okay?
- This personal fortress wasn't cheap you know!"
+Either way, you're alive thanks to me, so how about some gratitude, okay?
+ This personal fortress isn't cheap, you know!"
 }
 [sha:985c5de0efbde03b8d7a040566e38aaacdc48453]{
 -- Page 408, Offset 11960.
@@ -306,12 +306,12 @@ I sense that her body temperature has risen slightly for whatever reason.
 [sha:ce87450ab97be0cdd7049d4a68012543f0fc7a83]{
 -- Page 410, Offset 11965.
 -- 「……あの。それで、何がどうなったか分かりますか？」
-"Umm... Anyway, do you have any idea what happened?"
+"Umm... anyway, do you have any idea what happened?"
 }
 [sha:bafc9af0f8555bb295b8ecf461ac9ef19d711404]{
 -- Page 410, Offset 11966.
 -- 「何って、広場が崩れてみんな生き埋めになったんじゃない？
-"What do you mean, the room collapsed and everyone was buried alive, no?
+"What do you mean, the chamber collapsed and everyone was buried alive, no?
 }
 [sha:211400c584d69a97a75dfe11700d60fdec358d9d]{
 -- Page 410, Offset 11967.
@@ -323,7 +323,7 @@ The Dead have probably been crushed, but a Dead Apostle wouldn't die from someth
 [sha:ef5d6ed62942c6b57bb08b650eca8edbce5d43d8]{
 -- Page 410, Offset 11968.
 -- 「ヴローヴは死んでいない……じゃあ先輩は？」
-"Vlov isn't dead... What about Senpai?"
+"Vlov isn't dead... Then what about Senpai?"
 }
 [sha:a255690c6cedd00c0ce5b2f1c2c766c7fe2d5595]{
 -- Page 411, Offset 11969.
@@ -437,7 +437,7 @@ Don't be so full of yourself.
 They're not even living beings anymore.
  They're monsters that use their Concept as a weapon.
  Curses that erode reality.
- They're like bugs in the world, glitches that upend the human laws of physics that have held firm for thousands of years."
+ They're like bugs in the world, glitches that disturb the human laws of physics that have held firm for thousands of years."
 }
 [sha:92cbbb11ade3d459f80a661acd213ad3a1d5414f]{
 -- Page 421, Offset 11989.
@@ -462,7 +462,7 @@ Do you get it?
 [sha:b28b74ea35f0b541094a9dd05f5b541618620f9c]{
 -- Page 422, Offset 11992.
 -- 「っ……でもあの時、先輩は昼間のうちに倒すしかないって！」
-"%{i}Ugh%{/i}... But earlier, Senpai said she had no choice but to defeat him during the day!"
+"%{i}Ugh%{/i}... but earlier, Senpai said she had no choice but to defeat him during the day!"
 }
 [sha:5a8d06233527f9825b48369e483268d4cf596822]{
 -- Page 422, Offset 11993.
@@ -473,7 +473,7 @@ Do you get it?
 -- Page 422, Offset 11994.
 -- あの子は特別だから。きっちり対策をして装備を調えていたらいい勝負になってたんじゃない？　さっきは下調べのつもりだったから簡易装備しかなかったけど」
 That girl is special.
- Don't you think she'd be on even footing with him if she had a plan and the necessary equipment?
+ I guess she'd be on even footing with him if she had a plan and the necessary equipment.
  We were only here to do a preliminary investigation, so she's only got the essentials on her."
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
@@ -495,7 +495,7 @@ Then... if she had the right equipment, could she kill that monster?
 -- Page 424, Offset 11998.
 -- 「そういうワケなのでぇ、私たち凡人はこうして助けを待っていればいいの。これだって立派な仕事よ、志貴クン？」
 "That's why normal folks like us should just sit tight and wait to be rescued.
- Don't you think that's a fine job to have as well, Shiki-kun?"
+ Don't you think that's a noble task to have as well, Shiki-kun?"
 }
 [sha:253d246b463df58cd153f032fa46fa6ba2bcf520]{
 -- Page 424, Offset 11999. Mods: @n.
@@ -505,14 +505,14 @@ Then... if she had the right equipment, could she kill that monster?
 [sha:4b5b3a164fdea5dffb0e3f06db7650aa200d9988]{
 -- Page 424, Offset 12000.
 -- ひゃあ!?　ちょっ、上着のボタン、外れてるんですけどぉ！」
-W-Whoa!? W-Wait, did you unbutton my jacket?!"
+W-Whoa?! W-Wait, did you unbutton my jacket?!"
 }
 [sha:8f1dd114b377d50b487df94ebc595af4d6bc5904]{
 -- Page 425, Offset 12001.
 -- 「そりゃあ外してるわよ？　先生としてぇ、志貴クンが怪我してないか診てあげなくちゃいけないでしょう？　うふふ、役得役得♪」
-"Well yeah, why shouldn't I?
- As your teacher, it falls to me to make sure you're not injured, right Shiki-kun?
- %{i}Heehee...%{/i}
+"Well, why shouldn't I?
+ As your teacher, it falls to me to make sure you're not injured, right, Shiki-kun?
+ %{i}Heehee%{/i}...
  This job has its perks ♪"
 }
 [sha:a4172624ea48848ff8d105df137fbe775d32bf30]{
@@ -523,7 +523,7 @@ What perk is this?!
 [sha:c885af95034894fa75f1b675dcf5f5ff18e155ef]{
 -- Page 426, Offset 12003.
 -- ああいや、そんな話じゃなくて、ホントにまずい！
-Argh, who cares about that, this is really bad!
+%{i}Argh%{/i}, who cares about that, this is really bad!
 }
 [sha:d8b3c4e3b3d112b730d13de8a32fe1931fd7f5cb]{
 -- Page 426, Offset 12004.
@@ -589,7 +589,7 @@ I can hear her sweet voice calling to me from below.
 [sha:c887f4ca64705f318d718ec12bfb93fdd8f3c322]{
 -- Page 431, Offset 12015.
 -- ……それは今までのようにふざけたものではなく、熱のこもった、芯のある声だった。
-Her tone is different to before... It used to be light-hearted, but now it's earnest and passionate.
+Her tone is different from before... It used to be lighthearted, but now it's earnest and passionate.
 }
 [sha:85af3890ec570790117f46fa056a00f4cea19b6b]{
 -- Page 432, Offset 12016.
@@ -630,7 +630,7 @@ The weight bearing down on my back is lifted like a tatami mat being peeled back
 [sha:a6626f4ae8e7d9b708b40398ed7b4e303d8ac672]{
 -- Page 434, Offset 12023.
 -- それと、ついでに、どうでもいいですけど遠野くんも」
-I guess you as well Tohno-kun, not that I care or anything."
+I guess you as well, Tohno-kun, not that I care or anything."
 }
 [offset:12024]{
 -- Page 435, Offset 12024.
@@ -640,5 +640,5 @@ Standing there―――
 [sha:728e6307dc8b37e771a8429ffee63130cd08da2e]{
 -- Page 435, Offset 12025.
 -- 片手で何メートルもの岩盤を持ち上げ、俺たちを助け出してくれたシエル先輩の姿があった。
-Is the figure of Ciel-senpai, our rescuer, holding a several meter long boulder aloft with a single hand.
+Is the figure of Ciel-senpai, our rescuer, holding a boulder several meters in diameter aloft with a single hand.
 }

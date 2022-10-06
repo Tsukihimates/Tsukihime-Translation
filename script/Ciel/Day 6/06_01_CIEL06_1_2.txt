@@ -6,7 +6,8 @@ I guess I have no choice but to try and deceive her somehow.
 [sha:164e5c5e2bcb6d97b04fcdf556397af58c4256fb]{
 -- Page 10003, Offset 13319.
 -- そもそも吸血鬼の話なんか通じないだろうし、それなら出来るだけ嘘を言わない、かといって真実も言わない、という方針でいくしかない。
-Besides, she'd never believe me if I told her about vampires. I'd rather not lie to her, but it's not like I can tell her the truth either, so this is the only course of action left to me.
+There's no way she'd believe me if I started talking about vampires.
+ I'll have to just avoid telling her the truth, while also keeping the number of outright lies to a minimum.
 }
 [sha:a08fad88c7e939b55e7c0584146ede879e48f446]{
 -- Page 64, Offset 13320.
@@ -41,12 +42,14 @@ It's strange, but I feel as though it's been
 [sha:5690aeffb562374404a5276ea9814f695197d6a0]{
 -- Page 65, Offset 13326.
 -- うん、やっぱりね。
-Yeah, as expected.
+Yep, this is about what I expected.
 }
 [sha:4be116934dc8c9e4f40cd8325c4d70eca88f5b13]{
 -- Page 65, Offset 13327.
 -- 扉を開けたらボスが待っていましたよ。
-Opening the door, I find that the Boss is waiting for me.
+// Reading this as video game context boss, which is consistent with some of
+// the other versions of this scene (+50 DEF)
+As soon as I open the door, I find the final boss waiting for me.
 }
 [sha:8efc17709c49951109330dd7f47c1a51a0c0eb47]{
 -- Page 66, Offset 13328.
@@ -76,7 +79,8 @@ Her smile makes me want to hurriedly retreat to the safety of my bed.
 [sha:ca0572eb226db70b82bced2d76e10de3a3d16ce2]{
 -- Page 67, Offset 13333.
 -- 蛇に睨まれた蛙どころか、もう呑まれてしまった後っぽい。
-I'm like a frog that's being stared at by a snake, no, like one that's already been swallowed.
+// Same 蛇/蛙 localization as Arc route
+I'm not just a deer in the headlights, I'm already roadkill.
 }
 [sha:d437ef03513e62494a3b57d0714484bdcb3cb8d5]{
 -- Page 67, Offset 13334.
@@ -106,7 +110,7 @@ A single glare from Akiha was enough to dash my naïve thoughts of escape.
 [sha:dc69105b05d8883dd1d669297b42e1e78cf4c568]{
 -- Page 69, Offset 13339.
 -- 全身の痛みを我慢しつつソファーに腰を下ろす。
-I sit down on the sofa, holding back the pain running through my whole body.
+I sit down on the sofa, doing my best to endure the pain running through my entire body.
 }
 [sha:373c5ecd44290218da13910f2c801358b556696e]{
 -- Page 70, Offset 13340.
@@ -126,7 +130,7 @@ I sit down on the sofa, holding back the pain running through my whole body.
 [sha:84255c3b15e88d7018db00d48a81719184862361]{
 -- Page 71, Offset 13343. Mods: @k, @e.
 -- 「卑怯でしょう。そんな顔をされたら気がゆる―――
-"Of course it's unfair. If you make that face at me, I'll let my guard do――――
+"It's obviously unfair. If you make that face at me, I'll let my guard do――――
 }
 [sha:747723da481d261e0475d2588fe3e83ac82bb003]{
 -- Page 71, Offset 13344. Glued. Mods: @x.
@@ -151,12 +155,14 @@ As she eloquently makes her remarks, Akiha picks up her teacup.
 [sha:b07f966377995494c9293f3360cae75cc272cb53]{
 -- Page 72, Offset 13348.
 -- 聞かせていただけませんか、などと言っているものの、秋葉のそれは間違いなく命令だ。
-Although her words resembled a question, it was most definitely closer to an order.
+// LintConsistency:13274
+Though her sentence was phrased as a question, there's no mistaking the fact that it is actually an order.
 }
 [sha:fa0fd0095da17ed4aa7dc921f0c43022036ed073]{
 -- Page 73, Offset 13349.
 -- だが、兄としてそんなお話を聞かせてあげる訳にはいかない。秋葉に心配をかけるぐらいなら嫌われた方がマシだ。
-But as her older brother, I can't let her hear such a story. I would much rather have Akiha hate me than worry about me.
+// LintConsistency:13275
+But, as her older brother, I can't let her hear about what actually transpired. I would much rather have her hate me than worry about me.
 }
 [sha:248ff294591eb4498f00da10a9e697da68bfa495]{
 -- Page 74, Offset 13350.
@@ -171,7 +177,8 @@ But as her older brother, I can't let her hear such a story. I would much rather
 [sha:e94262f1a141a71baf20f3709fc0e4e5503515d7]{
 -- Page 74, Offset 13352.
 -- 「ちょっとした知り合いにばったり再会してさ、観光がしたいっていうから色々案内してたんだ」
-"I unexpectedly ran into a minor acquaintance who wanted to do some sightseeing, so I ended up showing them around."
+"I happened to bump into a minor acquaintance of mine,
+ and after they mentioned they wanted to do some sightseeing, I ended up showing them around."
 }
 [sha:eadb0f71e3c06411e91a41013a6432e8dc13b0f6]{
 -- Page 75, Offset 13353.
@@ -181,17 +188,23 @@ But as her older brother, I can't let her hear such a story. I would much rather
 [sha:8dc6f56686c12c23cb08f51187d905aa5b32dc9a]{
 -- Page 75, Offset 13354.
 -- 「そ、そう。最近知り合ったヤツなんだけど、一日だけでいいから観光名所を回りたいとか言い出して、気がつけば湾岸の埋め立て地あたりまで遠出したというか……」
-"Y-Yeah. I only met them recently, but they wanted to do some sightseeing around the famous places. Considering it was only for a day, they told me I should come along, and before I knew it, we had gone as far as the reclaimed land by the bay coast..."
+// 埋め立て地 can be either landfill (reclaimed land) or landfill (trash heap),
+// probably makes more sense that it's the former?
+"Y-Yeah. I only met them recently.
+ They said they just wanted to do a quick day trip around the major tourist attractions,
+ but before I knew it, we'd already made it as far as the reclaimed land over by the coast..."
 }
 [sha:3882ad42f801ba8bf07022b47f325fdb5249c2d7]{
 -- Page 76, Offset 13355.
 -- 「なるほど。久しぶりに会ったご友人に気軽に頼まれたぐらいで無断欠席および無断外泊をした、と。
-"I see. So you skipped school and stayed out without permission, all because you were nonchalantly asked to by a friend whom you haven't seen in a while.
+"I see. So a friend you haven't seen in a while casually asking you to go sightseeing with them is all it takes for you to blow off school and stay out without permission.
 }
 [sha:35c34940704b15f8d40c44032094f53c9e30ef85]{
 -- Page 76, Offset 13356.
 -- 先日の件といい、何の得にもならない人助けがお好きなんですね、兄さんは」
-Like what happened the other day, I see that you like to selflessly help other people, Nii-san."
+// I guess referring to the cover stor{y,ies} that Arihiko came up with at the end of d3?
+First what happened the other day, and now this...
+ You must really love selflessly helping other people, Nii-san."
 }
 [sha:ebc2003f9b8cd9f6db8421036431fe4a202b2f81]{
 -- Page 77, Offset 13357.
@@ -201,12 +214,12 @@ Akiha's gaze is ice cold.
 [sha:da54f55ffb4527996ae846bd64891751898952f5]{
 -- Page 77, Offset 13358.
 -- あれは怒りを通り越して呆れているのかもしれない。
-She may have been so angry that there's only exasperation left.
+I wonder if she's so mad that she's leapt straight past anger and landed on exasperation.
 }
 [sha:b8cbb12afb7ae0d479f4f58e3093979d4b64cbb9]{
 -- Page 77, Offset 13359.
 -- 実際、自分も今の説明はどうかと思います。
-Honestly, I'm doubting my own explanation too.
+If I'm being honest, I wouldn't believe my explanation either.
 }
 [sha:8eaa978afc424a226a1e857f05b10c5b2c0e8cc7]{
 -- Page 78, Offset 13360.
@@ -236,73 +249,80 @@ Honestly, I'm doubting my own explanation too.
 [sha:e1bae1f781e9b6a0419d5a8a3b64820a97bc93a3]{
 -- Page 80, Offset 13365.
 -- 秋葉は正面から見据えてくる。
-Akiha is looking directly at me.
+Akiha is staring me down.
 }
 [sha:7d504228f4648107d4fd4ce1ce6ff6e52db535a3]{
 -- Page 80, Offset 13366.
 -- “絶対に誤魔化されませんから”という意思がこれでもかと伝わってくる、末恐ろしい眼力だった。
-I could ominously perceive how strong her refusal to be deceived was.
+Her gaze is absolutely terrifying. It's crystal clear that she will not let herself be fooled.
 }
 [sha:72c5940b0f5f3c77dc4b829f421fc6291b6a63e4]{
 -- Page 81, Offset 13367.
 -- 「いや、どのような人物、と言われても、一言では説明できないというか……」
-"Ah, 'what kind of person' you ask me, but that's not something I can explain in a few words..."
+"Weeell, even if you ask me what kind of person they are, that's not the sort of thing I can sum up in one word..."
 }
 [sha:e732f934d891129eaddb5db6c78b344fe04609d9]{
 -- Page 81, Offset 13368.
 -- というか<人|・>物なのか、アイツ。
-// There was an emphasis on <人|・>物, but there's probably no way to reflect that.
-Anyway, can that woman even be considered a person?
+I mean, for starters, does that woman even %{i}count%{/i} as a person?
 }
 [sha:9d7f32e440855036d7c4474876d19058607375ba]{
 -- Page 82, Offset 13369.
 -- 「そう。言えない、という事は後ろめたい事がある、という事よ、兄さん」
-"I see. You won't tell. Meaning there must be something you feel guilty about, Nii-san."
+// Very nearly offset 14166
+"I see. If you cannot tell me, then there must be something you feel guilty about, Nii-san."
 }
 [sha:578770bb924e534b815acf7d690df6a60c273e6a]{
 -- Page 82, Offset 13370.
 -- 氷のような視線が突き刺さる。
-Her ice cold stare is piercing.
+Her ice-cold gaze bores into me.
 }
 [sha:8fa2239ff985f69f0db80f4eee76a62256c1930c]{
 -- Page 82, Offset 13371.
 -- 目を逸らすと余計追い詰められそうなので、負けじと秋葉の顔を見つめる。
-If I look away, I'll be pushed even further into a corner, so I undauntedly stare back at Akiha.
+I feel like I'll only be pushed even further into a corner if I look away,
+ so I resolutely stare back at her.
 }
 [sha:60963eda62a94abf1fb136e8d90f3cc7451c3104]{
 -- Page 83, Offset 13372.
 -- ……………いや、まったく関係ないけど。
-This is completely unrelated, but...
+...Not to go off on a tangent, but...
 }
 [sha:919212ce9e29adbd43ee82fb78a5727635037f61]{
 -- Page 83, Offset 13373.
 -- こう改めて見ると、秋葉には昔の面影がない。
-Looking at her once more, she has completely changed from when we were young.
+// Basically offset 14170
+Looking at her with fresh eyes like this, I come to realize how much Akiha has really changed.
 }
 [sha:52172707bcebfba487f1cd689a276b8367841750]{
 -- Page 83, Offset 13374.
 -- 凛と伸びた背筋、はっきりとした口調、ゆらぐ事のない瞳。
-She is standing straight, in a dignified manner, her words are clear, and her gaze unwavering.
+// Excerpt of 14172
+She has a dignified posture, a clear tone of voice, and eyes that never waver.
 }
 [sha:e77a69ad2b5f9ab121a9d9ba8ad30baa6d15a1d2]{
 -- Page 83, Offset 13375.
 -- 兄妹びいきの物差しはあれ、純粋に美人になったな、と妙に感動してしまう。
-Setting aside any bias toward her as my family, I'm strangely moved to see that she has become a truly beautiful woman―――
+I may be a little biased seeing as how I'm her brother, but she really has grown up to be a genuinely beautiful woman.
+ I can't help but feel strangely moved.
 }
 [sha:f642488644db35c5f7e28f8318b5163c50814461]{
 -- Page 84, Offset 13376.
 -- 「……うん。けど、それはそれとして、秋葉」
-"...Yeah. But, apart from that, Akiha"
+"Hmm... Anyway, ignoring that for a second, Akiha―――"
 }
 [sha:c107f6c3f4ba48fbee9c5412c83ce94138e3856c]{
 -- Page 84, Offset 13377.
 -- 「なんでしょう。もう少し説得力のある弁明を思いつきましたか？」
-"What it is? Have you come with a little more convincing excuse?"
+"What is it? Have you come up with a more convincing excuse?"
 }
 [sha:e6bbff2706024317b6d1242c133020fed9162d7c]{
 -- Page 85, Offset 13378.
 -- 「いや。おまえ、わりと<骨格|ガタイ>がいいんだな。細いのに硬そうで、滑らかな陶器みたいだ」
-"No. I was thinking that you have a nice body structure. Thin but also solid, like smooth porcelain."
+// Better than the eyebrow comment I guess
+// ガタイがいい is 'well built', 'brawny'
+"No. I was just thinking about how you have a pretty solid physique.
+ Slender but sturdy――like smooth porcelain."
 }
 [sha:96bdb5998d82727eb4d4eb10b3cba2336598cf8c]{
 -- Page 85, Offset 13379.
@@ -312,37 +332,41 @@ Setting aside any bias toward her as my family, I'm strangely moved to see that 
 [sha:e538d3c4e7f1b6c7066bb2329bac556151bf3e2c]{
 -- Page 85, Offset 13380.
 -- がたん、とテーブルが揺れる。
-Bump. The table shakes.
+%{i}Wham%{/i}. The table shakes.
 }
 [sha:7ae78287f8a6c566f1117936921f6f97b0e1c229]{
 -- Page 85, Offset 13381.
 -- 急に立ち上がった秋葉の足がひっかかったらしい。
-It looks like Akiha's legs caught on the table when she suddenly stood up.
+It seems like Akiha banged her shins against the table when she suddenly jumped to her feet.
 }
 [sha:a0e5b357d4a4f07e3e56542a513b782b7c39a0a1]{
 -- Page 86, Offset 13382.
 -- 「ガ、ガタイって何の話です!?　私の肉付きの話ですか!?」
-"W-What do you mean by 'body structure'!? Are you talking about my weight!?"
+"W-What exactly are you saying about my physique?!
+ Are you talking about my weight?!"
 }
 [sha:1ecde65e07ebef6c304c0d635064b63287332ea7]{
 -- Page 86, Offset 13383.
 -- 「？　いや、骨格の話なんだけど。肩口とか、着物が似合いそうだなって」
-"? No, I was talking about your bone structure. Like the top of your shoulders, or how your clothes look good on you."
+// Hard to encode the musing ~だなって without repeating 'just thinkin bout'
+"Huh? No, I mean your bone structure.
+ It just struck me that you have nice shoulders, and that your clothes really look good on you, that's all."
 }
 [sha:c2c05d234640365e47d9aa53a4311b2ba3c6b4f6]{
 -- Page 87, Offset 13384.
 -- 納得がいったのか、秋葉はしずしずとソファーに座り直した。
-Perhaps understanding what I meant, Akiha quietly sits back on the sofa.
+Perhaps understanding what I meant, Akiha quietly sits back down on the sofa.
 }
 [sha:806859f79209608a916d64883da4e862d94de0e3]{
 -- Page 88, Offset 13385.
 -- 「わかんないヤツだな。今の驚くところか？」
-"I really don't understand you. Did that surprise you just now?"
+"You're a strange one, aren't you?
+ Did that surprise you just now?"
 }
 [sha:1a36442e23a51b3ea4d8f68888189d2aa3a587d5]{
 -- Page 88, Offset 13386.
 -- 「―――驚くところです。話が繋がっていなかったでしょう」
-"—————I was surprised. It was entirely unconnected to what we were discussing."
+"―――It did. It was entirely unrelated to what we were discussing."
 }
 [sha:4a998cc88b9095997bc543ed6c992a17f59519f7]{
 -- Page 88, Offset 13387.
@@ -352,48 +376,51 @@ Akiha sighs and shrugs her shoulders.
 [sha:195aa9a02560247b4bdd989b242b23a98b952f3b]{
 -- Page 89, Offset 13388.
 -- 「……もういいわ。兄さんには真面目に答えようとする気がないようですから」
-"...Enough already. It appears that you won't give me a serious answer, Nii-san"
+"...Enough already. It would appear that you have no intention of answering me seriously."
 }
 [sha:55da30b04c9689d42c2d4f5368ad35a795fc277d]{
 -- Page 89, Offset 13389.
 -- 「そんなコトないぞ。そもそも、秋葉に嘘はつかないし」
-"That's not true. In the first place, I would never lie to you, Akiha."
+"That's not true at all. Look, I'd never lie to you, Akiha."
 }
 [sha:1b701d9795849319f07307b79d32f42931239ea1]{
 -- Page 89, Offset 13390.
 -- あ……なんか今、あちらの当主様は“舌を抜きますよ”みたいな顔をしている。
-Ah... Our family head is making a really scary face right now. Almost as if she was saying 'I'm going to pull your tongue out'.
+Hmm... is it just me or does the expression on our esteemed family head's face scream 'I'm going to pull your tongue out'?
 }
 [sha:08436010fd88c4c46025a6400bb10f61f87eea7d]{
 -- Page 90, Offset 13391.
 -- 「……そりゃ黙秘ぐらいはさせてもらうけど。
-"...I will remain silent though.
+"I mean... there %{i}are%{/i} some things I'd prefer not to talk about.
 }
 [sha:4d762bf33bc1ee694784756a7e9e3528cdd3fe89]{
 -- Page 90, Offset 13392.
 -- でも、誓って嘘は言わない。今回は説明しづらいコトだったんだよ」
-But I swear that I'm not lying to you. It's just that the current circumstances are a bit hard to explain."
+But, I swear that I'm not lying to you.
+ It's just that it would be a little difficult to explain what happened."
 }
 [sha:e11d2efa7575ed72764d59449d723be1ecacd0ee]{
 -- Page 90, Offset 13393.
 -- なので、ところどころ穴あきの、不審極まりない弁明になっていたが。
-That's why it ended up being an extremely questionable explanation, riddled with holes.
+That's why my explanation ended up being so full of holes, and came off sounding incredibly suspicious.
 }
 [sha:39b9e1cc06bbb52cf8b9542b7f7ea06578df4740]{
 -- Page 91, Offset 13394.
 -- 「……まったく。昔から誠実なんだか不誠実なんだか掴めない人なんですから、兄さんは」
-// I don't have the same interpretation of the sentence as Tumbling, needs further check. i think this is right?
-"...Goodness. Ever since we were little, I've never been able to tell whether you were sincere or not, Nii-san"
+// Basically 14184
+"Honestly... It's always been hard to tell whether you're being sincere or not."
 }
-[sha:fd3e2f244c8e47a6d96233e90e1f76fc233b207b]{
+[offset:13395]{
 -- Page 92, Offset 13395. Mods: @k, @e.
 -- 「？
-"?
+// Straight up isn't voiced at all
+"
 }
 [sha:4881e777701b90d25c3b8c6e20a31b3acd325731]{
 -- Page 92, Offset 13396. Glued. Mods: @x.
 -- 俺、子供のころの自分ってよく覚えてないんだけど」
- I don't remember much about how I was in the past though."
+// Trailing ~けど doesn't really play nice in en, so slid to front
+Really? I don't remember that much about the past."
 }
 [sha:d83e5b15391850af85ac232a062a2ef73cf8aeb0]{
 -- Page 92, Offset 13397.
@@ -403,5 +430,5 @@ That's why it ended up being an extremely questionable explanation, riddled with
 [sha:b406ff4eea577d13c6cf69320b0088cf9d3ef8eb]{
 -- Page 92, Offset 13398.
 -- どうせこうなると分かっているのに問い詰めるなんて、成長がないのかしら」
-To be asking such questions when I knew it was going to be like this, perhaps I haven't matured at all."
+Interrogating you like this, even when I knew how it was going to pan out... perhaps I haven't matured at all."
 }

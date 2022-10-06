@@ -60,7 +60,7 @@ I'd wanted to run away and curl up somewhere safe,
 -- 「……とりあえずは、です。<こ|・><こ|・>にいるかぎり、安全はないと思います。俺も落とされたばっかりで訳が分からないけど……って、そうだ。先生はどうして、」
 "Well... more or less.
  I don't think we can be truly safe so long as we're in %{i}this%{/i} place.
- I only just got dropped down here myself so I'm not really sure what's going on yet, but...
+ I only just got dropped down here myself, so I'm not really sure what's going on yet, but...
  Oh, right, Sensei, what are you doing he―――"
 }
 [sha:f713f23804d34380bd14a3729560eedd5a99c7b0]{
@@ -76,7 +76,7 @@ Before I can even finish my question, she pins me up against the wall.
  I just came here to do my job as a student counselor!
  What was I supposed to do when I heard about some suspicious part-time job exclusively for girls?!
  I'm not the type to work overtime, but what if―――what if one of the girls I was responsible for got taken away under my nose,
- how could you expect me to just ignore something like that...!?"
+ how could you expect me to just ignore something like that...?!"
 }
 [sha:9dbc34ef3a4e0a87be97deed915352ddcc8e8624]{
 -- Page 155, Offset 11297.
@@ -96,9 +96,10 @@ Before I can even finish my question, she pins me up against the wall.
 [sha:f1a054322497e5ce1b1421451954e27f286dd613]{
 -- Page 157, Offset 11299.
 -- 「おかしい、おかしい、おかしい！
-"It doesn't make any sense,
- it doesn't make any sense,
- it doesn't make any sense!
+// This feels really wordy with the JP/voice acting being so short. Maybe something like "it's insane", although insane is probably used enough as-is.
+"I don't get it,
+ I don't get it,
+ I don't get it!
 }
 [sha:ec0c07cfcdd7ab59d60b66ccdc426014a1085a36]{
 -- Page 157, Offset 11300.
@@ -116,7 +117,7 @@ She beats her clenched fist against my chest with a thud.
 -- Page 158, Offset 11302.
 -- ノエル先生は半狂乱になりながら、涙目で、そんな言葉を口にした。
 There were tears in Noel-sensei's eyes as she spoke those words,
- and she seems like she's already half-mad.
+ and she seems like she's already half-crazed.
 }
 [sha:20fb5f0b6e34a435fc55ce48a6dcaa3d5c0cae7f]{
 -- Page 159, Offset 11303.
@@ -131,8 +132,8 @@ That's because I knew going in that I was heading into a vampire's nest.
 [sha:ed3158ade395ab361f8555f1e1b5f96e246c156a]{
 -- Page 160, Offset 11305.
 -- 「ねぇ、怖くないの!?　いっぱい、いっぱい死体の山！
-"Hey, aren't you afraid!?
- There's mountains and mountains of corpses down here!
+"Hey, aren't you afraid?!
+ There are mountains and mountains of corpses down here!
 }
 [sha:10135cdffbf934ceb25f446db6a0d546468680e8]{
 -- Page 160, Offset 11306.
@@ -163,7 +164,7 @@ This is an unimaginable space.
 [sha:695fe34d82a2bca1f4bc25c239843b03dca5ecac]{
 -- Page 162, Offset 11311.
 -- 蟻の巣のように張り巡らされた地下墓地。動く死体たち。
-A sprawling underground graveyard that resembles some kind of ant nest.
+A sprawling network of catacombs that resembles some kind of ant nest.
  Corpses that walk around.
 }
 [sha:e7ecfc86ec84d048d4dcb240896e9d4be95d58ac]{
@@ -327,7 +328,7 @@ It seems she's stopped panicking, even if she herself hasn't noticed it yet.
 [sha:5bced643b8663e014b6f00f0f9037ebad9a05361]{
 -- Page 171, Offset 11340.
 -- 「う……で、でも、一人も二人も変わらないってば！
-"B-But, it doesn't make a difference whether there's one of us or two of us!
+"B-But, it doesn't make a difference whether there's one or two of us!
 }
 [sha:7ed829b1e906d08bb71d7407603d7c30c94255b5]{
 -- Page 171, Offset 11341.
@@ -359,7 +360,7 @@ Sensei, how exactly did you end up down here in the first place?"
 -- 「そ、それは……うちの制服の女の子がニット帽子の二人組と話してて……デパートに入っていって……立ち入り禁止の札を無視して八階にあがっていったから、なにしてるのって呼び止めたらエレベーターに入れられて……」
 "W-Well...
  I saw a girl wearing our school's uniform talking to a couple of guys wearing beanies...
- They went into the department store, ignored the no trespassing sign and went up to the eighth floor.
+ They went into the department store, ignored the 'no trespassing' sign, and went up to the eighth floor.
  When I called out to ask what they were doing, they shoved me into the elevator..."
 }
 [sha:ee3fb8ae3532fe255b90a74e0b99f47b6d36187f]{
@@ -430,7 +431,7 @@ What should I do?
 [sha:db84fde64dfeee8ef4e346b9e0b1d2b61ae6910d]{
 -- Page 180, Offset 11359.
 -- 何ができるのか。
-What can I do?
+What %{i}can%{/i} I do?
 }
 [sha:77b6cb1dabe7e2753a2554b52c18a7045144be08]{
 -- Page 180, Offset 11360.
@@ -440,7 +441,7 @@ What did I even come here to do in the first place?
 [sha:0657ad6a0af4d46bf135042d3d46d532e1188bbc]{
 -- Page 181, Offset 11361.
 -- 「―――その広場の場所は分かりますか？」
-"―――Do you remember where that large room was?"
+"―――Do you remember where that chamber was?"
 }
 [sha:430ffe2a132963cb4344d70cbb55681e31305083]{
 -- Page 182, Offset 11362.
@@ -481,12 +482,12 @@ I step away from Noel-sensei,
 -- Page 184, Offset 11368.
 -- いま彼女は“下”と言った。その広場とやらは、この通路の行き着く先にある可能性が高い。
 She said 'down' just a second ago.
- It sounds like there's a good chance I'll find that large room if I keep heading down this passage.
+ It sounds like there's a good chance I'll find that chamber if I keep heading down this passage.
 }
 [sha:4af48fafb1ff772df7a86cb5255abe62f941b83a]{
 -- Page 185, Offset 11369.
 -- 「い、行くの!?　わ、わたしは行かない、行かないわよ!?」
-"Y-You're going!? I-I won't go, I won't go, you hear me!?"
+"Y-You're going?! I-I won't go, I won't go, you hear me?!"
 }
 [sha:9f137f5108533ae79d7887c5280faf19fcbe867b]{
 -- Page 185, Offset 11370.
@@ -519,7 +520,7 @@ Here, use this."
 [sha:8192ee918ac233105dae9854a161335e4147838d]{
 -- Page 188, Offset 11375.
 -- せめてもの護身道具としてナイフを手渡す。
-I hand her my knife. It's not much, but she can use it for self-defence.
+I hand her my knife. It's not much, but she can use it for self-defense.
 }
 [sha:ba4483429a8d8759f57e34cf3b5f5437b5d111f1]{
 -- Page 188, Offset 11376.
@@ -530,7 +531,7 @@ Myself aside, I don't think anyone could fend off the dead with a single knife l
 [sha:2ea4d123b93881388a900b8825941600d55a7741]{
 -- Page 189, Offset 11377.
 -- 「う、うぇ!?　ナイフ、これただのナイフ!?　でででで、でも志貴クンはどうするの!?　他に武器、あるの!?」
-"E-Eek! A knife... is this just an ordinary knife!?
+"%{i}E-Eek%{/i}! A knife... is this just an ordinary knife?!
  B-B-B-B-But Shiki-kun, what about you?! Do you have another weapon?!"
 }
 [sha:ab8d3873eaeaee7ac33c21000b5224df86f7397d]{

@@ -2,7 +2,7 @@
 -- Page 10003, Offset 11106.
 -- 「はっ……はぁ……はぁ……は……！」
 // lint-off:LintDupedWord
-"%{i}Haa... haa... haa... ha...%{/i}!"
+"%{i}Haa%{/i}... %{i}haa%{/i}... %{i}haa%{/i}... %{i}ha%{/i}...!"
 }
 [sha:f9e25124c4910fd48a9e574136d97a849433ac6d]{
 -- Page 10003, Offset 11107.
@@ -18,7 +18,7 @@ My legs feel like they're about to fall off,
 [sha:76d8dec8eda4a9bc714a608b2df6cec770aa3818]{
 -- Page 91, Offset 11109.
 -- 「は……ぁ、あ、は―――」
-"%{i}Haa... aa, haa―%{/i}――"
+"%{i}Haa%{/i}... %{i}aa, haa%{/i}―――"
 }
 [sha:8fda1654804f55cc60151bf15e98686e7f02db8b]{
 -- Page 91, Offset 11110.
@@ -50,7 +50,7 @@ I have so many questions.
 [sha:6c7a9e11d841e1fe6dde93f455a154fa52058c64]{
 -- Page 92, Offset 11115.
 -- 粘膜のような空気。油と肉と血の匂い。
-The atmosphere is wet and slimy. It smells like oil, flesh, and blood.
+The atmosphere is wet and slimy. It smells like fat, flesh, and blood.
 }
 [sha:63786c0625035e27bb68c497ee4778b484739f92]{
 -- Page 92, Offset 11116.
@@ -66,7 +66,7 @@ The path slopes gently downward.
 [sha:b26bbb020dadcda4cba7ea65158ee703848c74d1]{
 -- Page 93, Offset 11118.
 -- 「はあ―――ぁ、は―――」
-"%{i}Haa――― ha―――%{/i}"
+"%{i}Haa―――haa―――%{/i}"
 }
 [sha:9e6942e6af749e228b6a734670d75fe7b7a9cfa0]{
 -- Page 93, Offset 11119.
@@ -122,7 +122,7 @@ A red-hot lump rises up my throat.
 -- それはまずい。匂いをだすのはまずい。あの死人たちが集まってくる気がする。
 This is bad.
  I can't do anything that would leave a smell.
- I have a feeling the Dead will come after me if I do.
+ I have a feeling those corpses will come after me if I do.
 }
 [sha:b05a065b402d4b615668fa684d355e9b60262d6f]{
 -- Page 98, Offset 11129.
@@ -176,7 +176,7 @@ I need to get back to the elevator,
 [sha:9f1a333f915a40bc4d10586f40577a2799e167d4]{
 -- Page 100, Offset 11138.
 -- 「は――――――、ァ」
-"%{i}Ha――――――agh%{/i}"
+"%{i}Ha――――――agh%{/i}."
 }
 [sha:6a332081ff56a386118ce54c7c2f76d3c5c27a3e]{
 -- Page 100, Offset 11139.
@@ -234,7 +234,7 @@ I may have talked a big game, but the moment I was confronted by this reality, I
 [sha:e36103476bc26a2de80a246c47b50b358af34a5d]{
 -- Page 102, Offset 11149.
 -- 「ああ―――ああ、ああ……！」
-"%{i}Aaaa―――aaa, aaa...%{/i}!"
+"%{i}Aaaa―――aaa, aaa%{/i}...!"
 }
 [sha:fd94c58d1c7e51c504852df3e5689908dfb25f94]{
 -- Page 102, Offset 11150.
@@ -244,13 +244,12 @@ I strike the iron bars in shame and frustration.
 [sha:8ee779fe3a21a4465d5e72392d9ac35547cb27fe]{
 -- Page 102, Offset 11151.
 -- ざまあない。見ろ、なんて醜い。これが俺の本性だ。俺にあったのは正義感なんかじゃない。ただの優越感だった。魔眼という武器を持っている自分への思い上がりを、『覚悟』だなんて言い換えて……！
-// I think putting "Mystic Eyes" as ruby above weapon is pretty nice.
 How disgraceful.
  Just look at how pitiful I really I am.
  This is my true nature.
  I wasn't driven by a sense of justice at all.
  It was nothing more than a superiority complex.
- What I called 'resolve' was only my own arrogance from being possession of this <weapon|M y s t i c  E y e s  >.
+ What I called 'resolve' was only my own arrogance from being in possession of this weapon called Mystic Eyes.
 }
 [sha:a9d97841a0dde8e33125d995aafdd75f32811822]{
 -- Page 103, Offset 11152.
@@ -309,8 +308,8 @@ I was unconsciously clinging to such a childish desire.
 [sha:25c65fcc8eb74ec6cac03600089904ababf2ee89]{
 -- Page 105, Offset 11162.
 -- 「死ね。そんなガキ、もうここで死ねばいい……！」
-"Die already.
- An immature brat like me should just die right here...!"
+"Just die already.
+ A brat like me would be better off dead...!"
 }
 [sha:60982e1b7e46d2bc6977027a7be0899a40d99793]{
 -- Page 105, Offset 11163.
@@ -349,7 +348,7 @@ Now that I'm done beating myself up over it,
 [sha:cfc017c954d1b38c9948a5ba577fbfef11b2947e]{
 -- Page 108, Offset 11169.
 -- 「……そうだ。逃げ道はない。俺には、もう」
-"That's right... There's no running away.
+"That's right... There's no way out.
  There's only one thing I can do now―――"
 }
 [sha:012a8537aadf49a528433b155087afa14eb2e94a]{
@@ -382,7 +381,7 @@ It may have been a rash decision that led me here,
 [sha:3d3d728cd6da339f0feab761a32c51ebd4a26a93]{
 -- Page 109, Offset 11175.
 -- そんなのは昨日の夜で終わっただろう、志貴」
-Last night was your final chance for that, Shiki."
+Last night was your last chance for that, Shiki."
 }
 [sha:ea2690e82ea35a08427a11987ce33917dd4d31c5]{
 -- Page 110, Offset 11176.
@@ -432,7 +431,7 @@ I can also see the residue left by flaming torches on the walls.
 -- Page 113, Offset 11184.
 -- ……考えたくはないが、ここに住んでいるモノは夜になると明かりをつける習慣があるらしい。
 It's not something I really want to dwell on, but...
- It seems that whatever lives down here is in the habit of lighting the place up at night.
+ it seems that whatever lives down here is in the habit of lighting the place up at night.
 }
 [sha:127f6fbe9585bc500bcd92438c0175a393dd3a59]{
 -- Page 114, Offset 11185.
@@ -463,7 +462,7 @@ In short, if I want to keep going down, I need to keep going forward.
 [sha:cee0b32604f1cbfef8ecc8b906bf0333cf87ed4b]{
 -- Page 115, Offset 11190.
 -- 「……この通路、何かのまわりを回ってるのか……？」
-"This passage... is it going in circles...?"
+"This passage... It feels like it's spiraling around something."
 }
 [sha:d36583ed1baaaea0e89a4cfa37d6ba1b3a9e3e33]{
 -- Page 115, Offset 11191.
@@ -501,7 +500,7 @@ I could have sworn I heard the sound of the wind just then.
 [sha:1773c6e6bec2e2f4f8bbe944134eb6939ec98e11]{
 -- Page 118, Offset 11197.
 -- 「いる……この先に、あの死人が、」
-"They're here... The Dead are just up ahead..."
+"They're here... Those corpses are just up ahead..."
 }
 [sha:04b0edbb3a4a7c327c2717eb05d4ae1551b7051f]{
 -- Page 118, Offset 11198.
@@ -551,6 +550,7 @@ I put all of my strength into my petrified feet, and―――
 [sha:9ecb2e786495780d548355b61e74757f781f2497]{
 -- Page 120, Offset 11207.
 -- 「ああもう、きもーーーーーーーい！」
+// add a smaller font effect when possible
 "Aaahhh, ew, disguuuuuuuuusting!"
 }
 [offset:11208]{
@@ -576,12 +576,12 @@ That was a woman's scream coming from the end of the passage.
 [sha:f8d5fc2d07d60d3807dc760380ef489165932256]{
 -- Page 122, Offset 11212.
 -- 「ハ―――ハッ、ハ―――！」
-"%{i}Ha――― ha, ha―――%{/i}!"
+"%{i}Ha―――ha, ha―――%{/i}!"
 }
 [sha:b513f5905c9c7b2c5768a5f87ab4f6956995b55c]{
 -- Page 122, Offset 11213.
 -- <脂|あぶら>で滑る地面を走る。
-I sprint across the floor that's slick with grease.
+I sprint across the floor that's slick with fat.
 }
 [sha:d254bcb493055959e1f0f27494fcb1914e2e8207]{
 -- Page 122, Offset 11214.
@@ -591,12 +591,12 @@ I emerge from the cramped passageway into an open area.
 [sha:9d6f920adf36db5c2a69cecf31bdf4443ea21ab3]{
 -- Page 122, Offset 11215.
 -- 視線を巡らし、即座に構造を把握する。
-Glancing around, I get a handle on the space I'm in.
+Glancing around, I immediately get a handle on the space I'm in.
 }
 [sha:92c11d62ea2b6c72f2bc7d262ff5942b274a79aa]{
 -- Page 123, Offset 11216.
 -- 大きさにして直径６メートル、高さ２メートル弱の大部屋。
-It's a large circular room, roughly six meters in diameter, and a just shy of two meters tall.
+It's a large, circular room, roughly six meters in diameter, and just shy of two meters tall.
 }
 [offset:11217]{
 -- Page 123, Offset 11217.
@@ -606,7 +606,7 @@ And in it―――
 [sha:789ee51997da5fede5fb57bfb228ad6bc0ccafc9]{
 -- Page 123, Offset 11218.
 -- 死者たちに壁際まで追い込まれた、まだ生きている人間の姿があった。
-The figure of someone who's still alive, but has been driven up against the wall by the encroaching Dead.
+I can see someone who's still alive, but has been driven up against the wall by the encroaching Dead.
 }
 [sha:1785d92afb36b1241318244d88ce44b30812749a]{
 -- Page 124, Offset 11219.
@@ -636,7 +636,7 @@ There's now only one meter separating the woma―――Noel-sensei from being ea
 [sha:ae7f99134f6d26693e95ba7306f2127b45fb6249]{
 -- Page 126, Offset 11224.
 -- 「っ―――、ァ―――！」
-"%{i}Ugh――― haa―――%{/i}!"
+"%{i}Ugh―――haa―――%{/i}!"
 }
 [sha:df2540201b48fb0a5b436f36e2ac885e3f24aecd]{
 -- Page 126, Offset 11225.
@@ -698,7 +698,7 @@ It swooped downward.
 -- Page 129, Offset 11236.
 -- 首を切断する筈のナイフは、墜落するように標的を変更した。
 // Added suddenly
-The knife that was supposed to cut their necks suddenly changed target and nose-dived.
+The knife that was supposed to cut their necks suddenly changed target and nosedived.
 }
 [sha:cbae92fe4678935be006b13e990ac7fe26d96e19]{
 -- Page 130, Offset 11237.
@@ -729,7 +729,7 @@ Just how pathetic can I get...!
 [sha:39aa0b78e73532c70362021c1a896345215fe538]{
 -- Page 132, Offset 11242.
 -- 相手は怪物だから、死人だから“殺して”しまえる？
-'The enemies are monsters, they're Dead, I can 'kill' them no problem'?
+'The enemies are monsters, they're dead, I can 'kill' them no problem'?
 }
 [sha:caba2d4427a60756c2a563451b3b457e30197ee4]{
 -- Page 132, Offset 11243.
@@ -754,7 +754,7 @@ I never imagined it would be so nauseating that it would dull the edge of my kni
 [sha:823362a07e6f40810b78b741c94eaef018a5e3f4]{
 -- Page 134, Offset 11247.
 -- 「うそ、志貴クン!?」
-"No way, Shiki-kun!?"
+"No way, Shiki-kun?!"
 }
 [sha:7851f7226db8afeda3184b981cc80769d5a255b8]{
 -- Page 134, Offset 11248.
@@ -780,12 +780,12 @@ I slide my knife through the lines running down that festering limb.
 [sha:5dcee8143b4d71278f0c9ff3b714fe450d9da44b]{
 -- Page 136, Offset 11252.
 -- 「え、ちょっ、今のなに!?　ナイフ!?　ナイフで切ったの!?
-"Huh, wai―, what was that? A knife? Are you cutting them with a knife!?
+"Huh, wai―, what was that? A knife? Are you cutting them with a knife?!
 }
 [sha:2ad1802aa80e9d9f7ca25a012426edbeca5dc964]{
 -- Page 136, Offset 11253.
 -- っていうかキミほんとに志貴クン!?　夢じゃなくて!?」
-Actually wait, are you seriously Shiki-kun!? I'm not dreaming, right!?"
+Actually wait, are you really Shiki-kun?! I'm not dreaming, right?!"
 }
 [sha:3199057317931624220975fd8baf7ba10e3e1174]{
 -- Page 136, Offset 11254.
@@ -817,9 +817,10 @@ I run in order to shake them off.
 [sha:a30ab870f752de7538101be9b9445bbbf2e60745]{
 -- Page 138, Offset 11259.
 -- 走りながら嘔吐を堪える。ナイフを握る手に残った感触を必死に飲み下す。……死人の腕を切断しただけでこれだ。あの時首を切っていたのなら、俺はショックで動けなくなっていたかもしれない。
+// "arms" is correct, see offset 11237, 11250
 As I run, I hold back the urge to vomit.
  I desperately try not to think about the lingering sensation in the hand holding my knife...
- All this is the result of just cutting off the Dead's arms.
+ All this is the result of just cutting off the corpse's arms.
  If I'd actually decapitated it, I might've been too shocked to even move.
 }
 [sha:d76adef9c30fc2d5b0993c1d66c8ec206975a112]{
@@ -839,7 +840,7 @@ As I run, I hold back the urge to vomit.
 "It hurts, it hurts, it hurts...!
  Don't grip my hand so hard, no, grip it tighter!
  Drag me, I can't run anymore, I can't run anymore!
- Help me, help me, help me, help me!"
+ Save me, save me, save me, save me!"
 }
 [sha:eb8c69f2c873fa1a4bbc0fd14058c1047b698e04]{
 -- Page 141, Offset 11263.
@@ -886,7 +887,7 @@ I'll buy you some later, so bear with it for now!"
 [sha:c297a8d910f04687975b6e70384957cdc1e28330]{
 -- Page 143, Offset 11271.
 -- 「うぶゃ!?」
-"%{i}Ummhmh%{/i}!?"
+"%{i}Ummhmh%{/i}?!"
 }
 [sha:9d66b300770b064b5b48c094c235e9cfd8079d39]{
 -- Page 144, Offset 11272.
@@ -894,7 +895,7 @@ I'll buy you some later, so bear with it for now!"
 // Methinks the Shiki doth protest too much
 Standing level with Noel-sensei,
  I wrap my left arm around her and pull her close to me before shoving one of the fingers on my other hand into her mouth.
- This is purely to stop her from yelling――if I'd covered her whole mouth with my hand she wouldn't have been able to breathe.
+ This is purely to stop her from yelling――if I'd covered her whole mouth with my hand, she wouldn't have been able to breathe.
 }
 [sha:b11660020be53fe4d79ea1252aa6809a80ee3770]{
 -- Page 144, Offset 11273.
@@ -911,20 +912,20 @@ Her teeth sink into the joint right behind my fingertip.
 -- 「……！
 "...!
 }
-[sha:296153b5ac049cb48510eacb5052856468765762]{
+[offset:11276]{
 -- Page 145, Offset 11276. Glued. Mods: @x, @n.
 -- ……
-...
+ ...
 }
 [sha:76f476cda4fe3e481152fd88146308864a5e076a]{
 -- Page 145, Offset 11277. Glued. Mods: @n.
 -- 、
 ,
 }
-[sha:296153b5ac049cb48510eacb5052856468765762]{
+[offset:11278]{
 -- Page 145, Offset 11278. Glued. Mods: @x, @n.
 -- ……
-...
+ ...
 }
 [sha:a28a86923221963c14a759ae9eef3b006de76854]{
 -- Page 145, Offset 11279. Glued. Mods: @n.
@@ -934,7 +935,7 @@ Her teeth sink into the joint right behind my fingertip.
 [sha:2486476b235d7d78a4029ec2b289b8455cba11d5]{
 -- Page 145, Offset 11280. Glued. Mods: @x, @n.
 -- ……………
- ........
+ .........
 }
 [sha:8a0efcc3eb01407d18f0eb4605cd1d221c4d08f2]{
 -- Page 145, Offset 11281. Glued.
@@ -944,7 +945,7 @@ Her teeth sink into the joint right behind my fingertip.
 [sha:78d516bf1b3c0b00f2f09a00186d58df86945e4d]{
 -- Page 145, Offset 11282.
 -- 「いつ、いつつ……！　叫びたいのはこっちです！　とにかく走って！」
-"Ow, ouch...!
+"%{i}Ow, ouch%{/i}...!
  I'm the one who wants to scream here, okay!
  Just run already!"
 }
