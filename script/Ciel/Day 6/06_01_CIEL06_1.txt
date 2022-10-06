@@ -6,12 +6,13 @@ The gentle rays of the sun dispel my sleepiness.
 [sha:9791eb49d3d095d6792cc8ee2df01d8286a392ed]{
 -- Page 1, Offset 13151.
 -- 目を閉じていても皮膚感覚だけで周囲の静けさは読み取れる。
+// LintConsistency:13923
 Though my eyes remain closed, I can feel the serenity of my surroundings seep into every pore.
 }
 [sha:c5234084fe49ece9fa58eb09a88dae45350f2621]{
 -- Page 1, Offset 13152.
 -- 空気は程よく冷たく、目覚めを促してくる。
-The air is moderately cool; just enough to urge me awake.
+There's a light chill in the air, just enough to help stir me awake.
 }
 [sha:b0001e3c3171a02f8705aad31acdac12c3fc83bd]{
 -- Page 1, Offset 13153.
@@ -21,27 +22,31 @@ Somehow, it feels like the sky today is clearer than it's ever been.
 [sha:6f4112ccd7b3c3b539371ded6d965a4d3d6bc60d]{
 -- Page 2, Offset 13154.
 -- 「…………ここは、」
-"...This is,"
+"This is..."
 }
 [sha:a2682251e8b17547aaf15ede41990f89f25e9279]{
 -- Page 2, Offset 13155.
 -- ベッドに横になっていて、枕元には眼鏡がある。
+// LintConsistency:13930
 I'm lying on the bed, and my glasses are on the nightstand.
 }
 [sha:ea3f7729a0ff17a11766a889910ef254fa94a7b9]{
 -- Page 2, Offset 13156.
 -- 周囲は極寒でもないし、背中を痛める瓦礫の感触もない。
-I no longer feel the extreme cold and the rubble hurting my back.
+My surroundings aren't bitterly cold, and I can't feel any rubble jabbing me in the back either.
 }
 [sha:efdb785171c8a4884eaca5b535dd7105e04632f5]{
 -- Page 2, Offset 13157.
 -- 目を覚ますと、そこは遠野邸の一室だった。
-When I open my eyes, I realize I'm in one of the Tohno mansion's rooms.
+When I open my eyes, I realize I'm in one of the rooms of the Tohno mansion.
 }
-[sha:d60c7b1ae3d22b9580e1496ab14eb718463a78ee]{
+[offset:13158]{
 -- Page 3, Offset 13158.
 -- 条件反射で眼鏡をかけ、視線を泳がせる。
-Acting on autopilot, I put them on and let my gaze wander.
+// Arc route doesn't have the extra lines between 'glasses are on the nightstand'
+// and 'I put them on', so we dropped the noun, but need to override and render it here.
+// Compare offset 13931.
+Acting on autopilot, I put on my glasses and let my gaze wander.
 }
 [sha:f4e31a48126e12343a0e703a8aea51334a7be7ae]{
 -- Page 3, Offset 13159. Mods: @n.
@@ -74,7 +79,7 @@ The sunlight streaming through the window is so pure that I can almost hear it c
 [sha:655526603038e14c7bbd405320bac29328feb114]{
 -- Page 5, Offset 13164.
 -- 「そうか、俺は」
-"Oh right, I..."
+"Oh, right, I..."
 }
 [sha:bedaf24f3cf8299fe2fb77f0e98c3ea719e6ab28]{
 -- Page 5, Offset 13165.
@@ -89,7 +94,11 @@ My thoughts are still foggy and my joints still ache, but I've somehow managed t
 [sha:50b68edd8762f7f17fb89f83b3a0bb675f21f2b7]{
 -- Page 6, Offset 13167.
 -- あの異常な出来事を、凄惨な地獄を見ておきながら、俺はこの朝を幸福なものとして感じられている。
-I've seen such abnormal things, and such a horrible hell, but I can feel that this morning is a blessed moment.
+// 良かった missing in this version of the scene, but pulled in here because I
+// feel you kind of need it as an anchor for the potential
+I'm thankful that even after bearing witness to that freakish event,
+ and the gruesome hell that went along with it,
+ I can happily enjoy a morning like this.
 }
 [sha:dd9f8aded9b2bfbaf6dd7036514c4e22ab85eb25]{
 -- Page 6, Offset 13168.
@@ -136,7 +145,7 @@ I look over, and see Hisui standing at attention in front of the door.
 [sha:3ac2d4ed81de3e729bfc00defef4eb3be5f18c2b]{
 -- Page 9, Offset 13176.
 -- 志貴さまが中々お気づきになられませんので、こちらから声をおかけしたのですが……」
-It seemed you were rather unaware of my presence, so I decided to call out to you, but..."
+It seemed you were entirely unaware of my presence, so I decided to call out to you, but..."
 }
 [sha:7c2f7950e627de25eaa1c1ad41be212352f654bb]{
 -- Page 10, Offset 13177.
@@ -157,7 +166,7 @@ My heart is still pounding...
 [sha:e5fe1321ef27b5547273d6849a12be9deed5e4c3]{
 -- Page 11, Offset 13180.
 -- 「……あれ？　まだ７時前だけど」
-"...Huh? But it's not even seven o'clock."
+"...Huh? But it isn't seven o'clock yet."
 }
 [sha:0df6d00aeda2865881f6a5b1f2f0bde62d0546b0]{
 -- Page 11, Offset 13181.
@@ -182,7 +191,7 @@ Akiha-sama wishes for you to explain to her what you have been up to these past 
 [sha:2932dc7ba7aedc503cd03508abe3a28f25920688]{
 -- Page 13, Offset 13185.
 -- 「……なんだって……？」
-「...What...?」
+"What did you just say...?"
 }
 [sha:5b7d8d05db2e49d0375c26a05edc662947ecd5ea]{
 -- Page 13, Offset 13186.
@@ -197,12 +206,13 @@ Those three cryptic words fly around inside my brain.
 [sha:746c752290f83469905518de92815163c2d9d502]{
 -- Page 14, Offset 13188.
 -- 思考を放棄したい誘惑に耐えながら、察すること10秒。
-Resisting the temptation to abandon my train of thought, I take ten seconds to piece things together.
+Resisting the temptation to abandon this train of thought, I take ten seconds to piece things together.
 }
 [sha:8d39d8369ea04082a441a2c956f9f0981fc07319]{
 -- Page 14, Offset 13189.
 -- ……どう考えても、この二日間の行動は弁明のしようがない。無断欠席。門限破り。おまけに音信不通ときた。
-...No matter how I look at it, explaining what happened these past two days would be meaningless. Absence without consent. Curfew violation. And to top it all off, a complete lack of communication.
+No matter how much I rack my brain, I can't explain what I was up to in the past two days...
+ Absence without official leave. Violation of curfew. And to top it off, a complete lack of communication.
 }
 [sha:fd15df4d87827f0b3bd0467eb9f60b32cebde3af]{
 -- Page 14, Offset 13190.
@@ -212,7 +222,7 @@ Akiha is scary enough when I don't come home before dusk. I shudder to think wha
 [sha:27937e420c451848df02430ca3a97af40a2dd488]{
 -- Page 15, Offset 13191.
 -- 「ま―――」
-"Cr————"
+"Cr———"
 }
 [sha:a5ba2a8ff7f3e4bb457ea930e510a3192c3a99a9]{
 -- Page 15, Offset 13192.
@@ -222,12 +232,14 @@ Crap. This is really bad. I'm up against a wall.
 [sha:28f609164014fb59e9e5140986056372f64d5a60]{
 -- Page 15, Offset 13193.
 -- 何が手詰まりって、この<事前準備|ブリーフィング>段階で秋葉を納得させる言い訳が思いつかない！
-What's the wall? The fact that I can't come up with an excuse beforehand!
+// Slight reframing of 事前準備段階 to read better
+What's the wall?
+ The fact that I've got precious little prep time, and I can't come up with any excuses that'll convince Akiha!
 }
 [sha:5f7adfa0bdec0a3fb3ac5fa8eef949a78d496b7e]{
 -- Page 16, Offset 13194.
 -- 「……あのさ、翡翠。
-"...Hey, Hisui.
+"Hey, Hisui...
 }
 [sha:dbf5964430e1983711d998c5bec4b96fbeb2d322]{
 -- Page 16, Offset 13195.
@@ -252,8 +264,9 @@ Okay. Hisui's tone also comes off as somewhat cold and dispassionate.
 [sha:d9aedf22fbe721110aeb365b34ed3bc9a324bb2f]{
 -- Page 18, Offset 13199.
 -- こんな事なら這ってでも戻っていれば―――這って、でも？
-// No 屋敷に
-It it was going to be like this, I should have returned even if I had to crawl—————Wait, crawl?
+// No 屋敷に compared to Arc ver
+If this is how it's going to be,
+ I should have made my way back even if it meant I had to crawl the entire———hold on, %{i}crawl%{/i}?
 }
 [sha:afe32248c5f5bf8541c6a32043ff017b63e58afa]{
 -- Page 19, Offset 13200.
@@ -263,52 +276,61 @@ It it was going to be like this, I should have returned even if I had to crawl�
 [sha:9c541dd3423358a87750d92e3689453c0369b8f9]{
 -- Page 19, Offset 13201.
 -- それ以前に、なんで部屋で眠ってるんだ、俺……？」
-Before that, why was I asleep in my room...?"
+Before we get to that, why was I asleep in my own room...?"
 }
 [sha:1e75860c5dd77a3139095ac0f889cc309187f026]{
 -- Page 20, Offset 13202.
 -- 「……いえ。志貴さまはお帰りになられた後、疲れているから、と自室でお休みになられたのですが……」
-"...No. After your return, you said you were tired and went to your room to rest, Shiki-sama."
+"...I don't understand.
+ After you returned, you said that you were exhausted and retired to your room to rest, Shiki-sama."
 }
 [sha:5df196402512fc6d32e9989fc90a6eca73f47744]{
 -- Page 21, Offset 13203.
 -- 「俺が？　自分の足で？　ここまで？」
-"I did? I walked? Until here?"
+"I did? On my own? All the way up here?"
 }
 [sha:e15cf9522107ea2edca5dad382d9c5a9d5aaaf9b]{
 -- Page 21, Offset 13204.
 -- 「はい。昨夜の10時過ぎにご帰宅なされたおり、出迎えた姉さんが“死ぬほど疲れている、起きるまで起こさないでほしい。と言っている”と伝言を承ったと」
-"Yes. You said to Nee-san, who went to welcome you, 'I'm so tired I could die. Please don't wake me until I get up', or so she told me."
+"Yes.
+ You returned a little after ten o'clock last night,
+ and Nee-san tells me that when she welcomed you home, you told her something to the effect of:
+ 'I'm so tired I could die. Please don't wake me before I get up on my own'."
 }
 [sha:d02df19280371366ba845a593a7ffb59b67d4540]{
 -- Page 22, Offset 13205.
 -- そんな覚えはない……んだけど、翡翠が嘘を言っているとも思えない。
-I don't remember any of that... But I don't think Hisui is lying either.
+I don't remember any of that... but I don't think Hisui is lying, either.
 }
 [sha:406aa177cd9d8bd64e75bf86bb8e38c42a041df7]{
 -- Page 22, Offset 13206.
 -- もしかするとシエル先輩が家まで送ってくれて、その後、自分の足で帰ってきたのかもしれない。あんな戦いの後だし、意識もはっきりしていなかったのだろう。
-It could be that Ciel-senpai brought me to the premises, and I walked the rest of the distance myself. After such a battle, I was probably barely conscious.
+It's possible that Ciel-senpai brought me back to the front of the mansion, and I managed to make it the rest of the way myself.
+ It makes sense that my mind would be a little hazy after a battle like that.
 }
 [sha:f9af2d5ef8b6ee9ab67e89830b481f5e6afbc78c]{
 -- Page 23, Offset 13207.
 -- 「いや、というか―――」
-"Ah, I mean————"
+"Except, hold on a second―――"
 }
 [sha:972d97e8f381bbaf162fdc7df51b42e75264b217]{
 -- Page 23, Offset 13208.
 -- 俺の記憶ははっきりと残っている。
-My memories are still clear.
+My memories are still perfectly clear.
 }
 [sha:38616d0f952339a34b9ccebd29c44304274f4b1c]{
 -- Page 23, Offset 13209.
 -- アルクェイドの事も、<吸血鬼|ヴローヴ>の事も、シエル先輩たちの事も覚えている。
-I remember Arcueid, the vampire Vlov, as well as Ciel-senpai and the others.
+I remember Arcueid, I remember the vampire named Vlov, and I still remember Ciel-senpai and the others.
 }
 [sha:a9af5b1d767998d4aeb32fb1368166860f848efd]{
 -- Page 24, Offset 13210.
 -- “この一日の記憶を消去する”
-'I will erase your memories of this day'
+// Backmatching on 12075.
+// ここ一日分の貴方の記憶を消します。
+// Though in terms of continuity it would probably make more sense for it to extend 12121.
+// 「その時、貴方の記憶を消去する事にしましょう。
+'I will erase your memories of the past day.'
 }
 [sha:a319f782427cf9193013f6b95aa075a32e618897]{
 -- Page 24, Offset 13211.
@@ -318,12 +340,12 @@ That's what Senpai said, but it seems like she's let me off the hook.
 [sha:aa03dd8e5ae07c59a460c98561dc8663e218cead]{
 -- Page 25, Offset 13212.
 -- ……まあ、それでも。
-...Ah, but still.
+Still, even if she has...
 }
 [sha:3d2025baa1d549575c8bf6a910169194455ed8e8]{
 -- Page 25, Offset 13213.
 -- 吸血鬼が消えた以上、先輩たちがこの街から立ち去った事だけは、変わらない事実なんだろうけど。
-That doesn't change the fact that now that the vampire's gone, Senpai and the others will leave this city.
+It doesn't change the fact that with the vampire gone, Senpai and the others will leave this city.
 }
 [sha:b849b1b95a5830565a3ea02b3e007287ea32a018]{
 -- Page 26, Offset 13214.
@@ -333,27 +355,29 @@ That doesn't change the fact that now that the vampire's gone, Senpai and the ot
 [sha:624bf456517ff14fc8f8431b85666d8d47cc7a98]{
 -- Page 26, Offset 13215.
 -- 「あ、いや、そうだった、思い出した。
-"Ah, no, I see. I remember now.
+"Ah, no, that was it. I remember now.
 }
 [sha:b574b21beb24603d93c9c9f65285ad3d9f45d47f]{
 -- Page 26, Offset 13216.
 -- すぐに行くから、秋葉には、その……できるだけ落ち着くように言っておいてくれると、嬉しいかな」
-I'll be there shortly, so if you could, well... ask Akiha to calm down as much as possible, I'd appreciate it very much."
+// Basically the same as offset 13985 but quotes are different
+I'll head down right away, so if you could, well... ask Akiha to calm down as much as possible, it'd be much appreciated..."
 }
 [sha:717cdee84fa4822d36ca4f251fa9762d4f6e2c13]{
 -- Page 27, Offset 13217.
 -- 「申し訳ありません。善処いたしますが、成果はほぼないものとお考えください」
-"I am deeply sorry. I will endeavor to the best of my abilities, but please keep in mind that it will bear almost no result."
+"I am deeply sorry. I will do my best to try and defuse the situation,
+ but please understand that it is unlikely to make any difference."
 }
 [sha:c51e9f5ffbac79de75415c4480cf183f49627d5f]{
 -- Page 28, Offset 13218.
 -- そ、そうか……翡翠や琥珀さんがフォローしてくれても変わらないぐらい事態はできあがっている模様。
-A-Ah, right... Even if Hisui and Kohaku back me up, what's done is done.
+I-I see... Looks like I'm in deep enough trouble that even having Hisui and Kohaku-san back me up won't save me.
 }
 [sha:d3ac0f0a3cc6fe784a5867a3104370746ef93f1a]{
 -- Page 28, Offset 13219.
 -- ……ともかく起きよう。
-...That being said, I should get up.
+Well... I may as well get up.
 }
 [sha:9c54892e29632dbf396c30200753ae8f99f5612a]{
 -- Page 28, Offset 13220.
@@ -363,7 +387,7 @@ It's no use staying in bed forever.
 [sha:946a7449945f80fd985fbd4a8e0969a524bca916]{
 -- Page 29, Offset 13221.
 -- 「―――と」
-"————Ugh"
+"————%{i}Ugh%{/i}."
 }
 [sha:ae682a18f02e00a613468c8e9391b7dd1835c2f2]{
 -- Page 29, Offset 13222.
@@ -373,32 +397,34 @@ As soon as I stand up, I'm struck by a slight dizziness.
 [sha:2a280313621e158b16a8482d250742133e88e791]{
 -- Page 30, Offset 13223.
 -- ……全身が痛い。
-...My whole body aches.
+My whole body aches...
 }
 [sha:4e0f56af71454c341eecabaa627f6883a0d96574]{
 -- Page 30, Offset 13224.
 -- 昨夜、ところどころに受けた傷のせいだろう。
-I guess that's thanks to all the wounds I got yesterday.
+I guess that's thanks to all the various wounds I got yesterday.
 }
 [sha:172dbc69f93d2b3e3bae03d09918bec0d47a2f2d]{
 -- Page 30, Offset 13225.
 -- 打撲と裂傷、それに無理な運動による筋肉痛。
-Bruises, lacerations, and sore muscles from excessive strain.
+I'm covered in bruises and lacerations,
+ and my muscles are sore from being pushed past their limits.
 }
 [sha:a371819882087f941e58d06e1af759050a16ba8a]{
 -- Page 30, Offset 13226.
 -- 動くたびに肌がひきつって、肉がじわりと燃えているような痛みが走る。
-Every time I move, my skin tenses up, and I feel a pain like my flesh is slowly burning.
+Every time I move, my skin tenses up and I feel a slow-burning pain permeate my flesh.
 }
 [sha:c7c4d69b99d4e96525ed9bf7762c87e5e7476414]{
 -- Page 31, Offset 13227.
 -- ……そうか。何に驚くべきかと言ったら、俺は自分が生きている事を驚くべきだった。
-...So that's how it is. If I were to ask myself what I should be surprised about, it would be the fact that I'm still alive.
+So that's how it is...
+ If you were to ask me what I'm most surprised about, it'd be the fact that I'm still alive.
 }
 [sha:506e102ee879cf2b8572dc95f1f0af4051aee2d2]{
 -- Page 31, Offset 13228.
 -- あれだけの無茶をしておいて、こうして朝を迎えられる事自体が不自然だというのに。
-After doing all those crazy things, of course greeting a morning like this feels unnatural.
+After doing all those crazy things, of course it feels unnatural to wake up to a morning like this one.
 }
 [sha:b849b1b95a5830565a3ea02b3e007287ea32a018]{
 -- Page 32, Offset 13229.
@@ -408,12 +434,14 @@ After doing all those crazy things, of course greeting a morning like this feels
 [sha:6e9bcd20ab911904d32cb6c30ee41c62f1689073]{
 -- Page 32, Offset 13230.
 -- 「ごめん、ちょっと立ち眩み。着替えたら行くから、翡翠は先に行っててくれ。大丈夫、すっぽかしたりしないから」
-"Sorry, I got a bit dizzy while standing up. I'm gonna go get changed, so please go ahead, Hisui. It's fine, I won't stand Akiha up."
+"Sorry, I just got a little light-headed from standing up.
+ I'm gonna go get changed, so please go ahead without me.
+ Don't worry, I won't stand Akiha up."
 }
 [sha:43fad90c20674a1922c4f8db96b39dc9b11a1344]{
 -- Page 32, Offset 13231.
 -- 「……はい。それではお待ちしております」
-"...Understood. I will wait for you then."
+"...Understood. I will be waiting for you."
 }
 [sha:20ad404af83113d4c0a76b41d5823ca8230f6f3f]{
 -- Page 33, Offset 13232.
@@ -423,20 +451,20 @@ Hisui bows deeply and leaves the room.
 [sha:15ec76169cf747eadc82f4af7556d20005f882cb]{
 -- Page 33, Offset 13233.
 -- 今日は日曜日、学校は休みだ。
-Today is Sunday, there's no school.
+Today is Sunday, so there's no school.
 }
 [sha:2153a9dda03d3369e05787b4a7d9764d8f9cf513]{
 -- Page 33, Offset 13234.
 -- 昨夜から着たままだった学生服を脱いで、私服に着替える。
-I take off the school uniform that I've been wearing since yesterday night and change into casual clothes.
+I take off the school uniform that I've been wearing since last night and change into some casual clothes.
 }
 [sha:bb7a9e0a912963a628786bba177d7564912656d2]{
 -- Page 34, Offset 13235.
 -- さて、気は重いがこれも自業自得だ。
-Well then, I really don't want to go, but I'm reaping what I sowed.
+Alright, I'm really not looking forward to this, but it's time for me to reap what I've sown.
 }
 [sha:06600d5e0b24347d583a2b06053b2b1cc1bde615]{
 -- Page 34, Offset 13236.
 -- 覚悟を決めて秋葉お嬢さまにお目通りするとしよう。
-I prepare myself for the worst and leave for an audience with Milady Akiha.
+I steel myself for the worst and head off for my audience with Lady Akiha.
 }

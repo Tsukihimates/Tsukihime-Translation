@@ -1,0 +1,39 @@
+diff --git a/allscr/retimed/allscr.mrg_0241.txt b/allscr/retimed/allscr.mrg_0241.txt
+--- allscr.mrg_0241.txt
++++ allscr.mrg_0241.txt
+@@ -2260,8 +2260,34 @@ _ZM55095($016542);
+ _WKAD(F823,1);
+ _WKST(C847,eq,0);
+ _WKST(C859,eq,0);
+-_WNTY(0);
++_WNTY(1);
+ _ZM55096($016543);
++_WKST(F823,eq,0);
++_WKST(F847,eq,0);
++_WKST(F848,eq,0);
++_WKST(F849,eq,0);
++_WKST(F850,eq,0);
++_WKST(F851,eq,0);
++_WKST(F852,eq,0);
++_WKST(F853,eq,0);
++_WKST(F854,eq,0);
++_WKST(F855,eq,0);
++_WKST(F856,eq,0);
++_WKST(F857,eq,0);
++_WKST(F858,eq,0);
++_WKST(F859,eq,0);
++_WKST(F860,eq,0);
++_WKST(F861,eq,0);
++_WKST(F862,eq,0);
++_WKST(F863,eq,0);
++_WKST(F864,eq,0);
++_WKST(F865,eq,0);
++_WKST(F866,eq,0);
++_WKST(F867,eq,0);
++_WKST(F868,eq,0);
++_WKST(F869,eq,0);
++_WNTY(0);
++_PGST(695);
+ _WKAD(F823,1);
+ _WKST(C847,eq,0);
+ _WKST(C859,eq,0);
