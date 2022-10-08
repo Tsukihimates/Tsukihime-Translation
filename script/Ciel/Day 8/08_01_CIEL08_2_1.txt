@@ -2,7 +2,8 @@
 -- Page 10007, Offset 18704.
 -- ……怪しい。あの購買部好き……というか特定のパン好き……の先輩が、わざわざ外にランチしに行くとは思えない。
 // god save me
-...Suspicious. My cafeteria-loving Senpai—well, %{i}bread%{/i}-loving Senpai—wouldn't go out of her way to eat lunch outside
+Suspicious... Senpai loves the school store too much——
+well, loves a certain type of %{i}bread%{/i} too much to go out of her way to leave school for lunch.
 }
 [sha:25602e2a6c002d27c6e9c4ba96d260a4a3904683]{
 -- Page 172, Offset 18705.
@@ -12,42 +13,46 @@ Could she be going to investigate the vampire nest she mentioned in the infirmar
 [sha:f856f9bbd976aaa06c1d6c9ca7fd0eb36eac3abe]{
 -- Page 172, Offset 18706.
 -- だとしたら放っておけない。先輩にいくつか確認したい事もある。
-If so, then I can't let her go alone. There are also a couple things I need to clear up with her.
+If she is, I can't let her do it alone.
+ I've also got a couple of things I'd like to clear up with her.
 }
 [sha:0737fee4a0a22f3fa05918b9cdd356fec5667bb5]{
 -- Page 173, Offset 18707.
 -- 「……それに、アルクェイドとの約束もあるし。吸血鬼のねぐらを事前に見つけられるなら、アイツだって喜ぶだろう」
-"...Besides, there's also my promise to Arcueid. If we manage to locate the nest beforehand, I'm sure she'll be happy."
+"I've got to think about the promise I made with Arcueid too.
+ I'm sure she'll be pleased if I can locate their nest ahead of time."
 }
 [sha:fee9d27a757fda0e74bba60b7a62bac386a668a8]{
 -- Page 174, Offset 18708.
 -- 元気な素振りを見せていたとはいえ、アイツも病み上がりのようなものだ。俺も少しは成果を出さないと立つ瀬がない。
-She may be putting on a brave face, but she's still recuperating. If I don't produce some results, I'll lose face.
+She puts on a brave face, but she's still recuperating herself.
+ It'd reflect poorly on me if I don't step up and produce some results on my own.
 }
 [sha:64c88412e4e27d014b6e4b02af903d40eed7b32e]{
 -- Page 174, Offset 18709.
 -- ……よし、先輩を追いかけよう。
-...Right. Let's follow Senpai.
+Alright... Time to follow Senpai.
 }
 [sha:cdc932d9f0710de1011ae328b878b9156eebcf87]{
 -- Page 174, Offset 18710.
 -- ちゃんと話しかければ先輩も無下にはしないだろう。
-I don't think she'll refuse me bluntly if I explain properly.
+I don't think she'll flat-out reject my help if I explain myself properly.
 }
 [sha:82c32a5d3fc69c3d4df97bf6925d5d64a7714010]{
 -- Page 175, Offset 18711.
 -- 急いで正門を出る。
-I hurriedly leave through the main gate.
+I rush out through the main gate.
 }
 [sha:7f289df940224765799e423fc2878336836fbb74]{
 -- Page 175, Offset 18712.
 -- こっちは全力で走って、先輩は普通に中庭を歩いていたものの、やはり距離の差があった。
-Though I was running at full speed while Senpai was walking at a normal pace, there was still the sort of distance one would expect between us.
+Senpai was walking across the courtyard at a pretty average pace,
+ but even though I sprinted after her at top speed there's still a fair bit of distance between us.
 }
 [offset:18713]{
 -- Page 176, Offset 18713. Mods: @n.
 -- 先輩は
-Senpai is...
+Senpai is
 }
 [sha:0819415b8baa31d472380275168d825499a8ea42]{
 -- Page 176, Offset 18714. Glued.
@@ -57,27 +62,28 @@ Senpai is...
 [sha:34e24dc3cf6b0e6b057bcd170e2ed93abda652fe]{
 -- Page 176, Offset 18715.
 -- いた、駅方面の通学路だ。
-There, on the road from the station to the school. She was headed in the direction of the station.
+Over there. She's headed down the road toward the station.
 }
 [sha:c42a43ed6e65e8c2bb04c17a65611790fcd67296]{
 -- Page 176, Offset 18716.
 -- あの後ろ姿、間違いない……！
-Even from behind, it's definitely her...!
+// Wonder what part of the 後ろ姿 is so distinctive
+I only saw her back, but it's definitely her...!
 }
 [sha:bbe4d5a2dd8acc2050e8b37c2f89e59ca72a5c54]{
 -- Page 177, Offset 18717.
 -- 「いや、間違いはないん、だけど……」
-"Ah, it is certainly her, but...
+"Okay, that's definitely her, but..."
 }
 [sha:219d51bfc5cec484e99d518a3d305f55085e6478]{
 -- Page 177, Offset 18718.
 -- なんか異様に歩くの早いぞ、あの人……!?
-Isn't she walking super fast?!"
+Is it just me, or is she walking insanely fast?!
 }
 [sha:c358c0aadf3a96f67a77b1e80de8bd93246b6c18]{
 -- Page 177, Offset 18719. Mods: @n.
 -- さりげなく目立たない細道に入っていくし、
-She nonchalantly walks into an inconspicuous narrow street.
+She nonchalantly ducks into an inconspicuous side street.
 }
 [sha:782b68358366f23a556dbf4bf750b3a626b2472a]{
 -- Page 177, Offset 18720.
@@ -87,42 +93,46 @@ If I don't hurry up, I'll lose her...!
 [sha:ac7505c1134df952b23a57c13811da5b4ab598c1]{
 -- Page 178, Offset 18721.
 -- 「はぁ……はぁ……はぁ……」
-"Haa... haa... haa..."
+"%{i}Haa%{/i}... %{i}haa%{/i}... %{i}haa%{/i}..."
 }
 [sha:8d62c552c2230917524cd2e05275e530ace3e67d]{
 -- Page 178, Offset 18722.
 -- 走りっぱなしだった足を止めて、乱れた呼吸を整える。
-After runnning nonstop for a while, I stop and steady my labored breathing.
+After running nonstop for a while, I stop for a second to catch my breath.
 }
 [sha:c956b2653bfced471c99981caaccdeaa41e383e8]{
 -- Page 178, Offset 18723.
 -- なんとか先輩の背中を追ったものの、南口駅前に出た途端、あっさりと見失ってしまった。
-I somehow managed to chase after her, but I completely lost sight of her the moment she exited the station's southern gate.
+I managed to keep up with her somehow, but then lost sight of her the moment we arrived at the plaza south of the station.
 }
 [sha:b9950dc1179d3ca2fe7c0f0c5d8c0856f7989891]{
 -- Page 179, Offset 18724.
 -- 時刻は午後１時前。オフィス街であるこちら側は北口ほどの人通りはない。昼食を済ませて職場に戻る会社員の姿がちらほらと見られるだけだ。
-It's shortly before one o'clock. This is the business district, so there isn't as much pdestrian traffic as the northern gate. All I'm seeing are some office workers returning to their workplaces after eating lunch.
+It's just before one o'clock.
+ This is the business district, so there isn't as much pedestrian traffic as there is on the north side of the station.
+ There's nobody here but the odd gaggle of office workers headed back from lunch.
 }
 [sha:d7a7dbddcff852c2d0792c94fcc19fec7bd6c4b6]{
 -- Page 180, Offset 18725.
 -- 「……結局、駅まで来たけど……」
-"...So in the end I followed her until the station..."
+"I managed to follow her all the way to the station, but..."
 }
 [sha:da162345d7509d3d58443e135bd867212b607d49]{
 -- Page 180, Offset 18726.
 -- 胸の上から心臓を押さえて、改めて周囲を見渡す。
-I clutch my chest and once again survey my surroundings.
+Placing a hand to my chest to calm my racing heart,
+ I take another look at my surroundings.
 }
 [sha:5ea213defee5cab2f3b866f3d33496510dab1477]{
 -- Page 180, Offset 18727.
 -- 交通量の多い北口駅前と違い、南口は見晴らしがいい。
-Contrary to the traffic-heavy northern gate, I have a good view of the southern gate.
+The south side of the station offers a pretty clear view,
+ unlike the north side which tends to be clogged with traffic.
 }
 [sha:caceced976f45ee5f33c7744864233ba54d9d96a]{
 -- Page 180, Offset 18728.
 -- 多少の距離はあっても先輩を見失うコトはない、とタカをくくっていたのが失敗だった。
-I thought I wouldn't lose sight of her even if there was some distance between us, but I was wrong.
+It was a mistake to think that I'd be able to stay on her trail even with a bit of distance between us.
 }
 [sha:9e983fc0b388ccbde306f6e16eb32ffa30672183]{
 -- Page 181, Offset 18729.
@@ -137,7 +147,7 @@ Or rather, I didn't get close enough to call out to her. I don't think she would
 [sha:9f4728dc64125192330841cc59274fc93c95c29a]{
 -- Page 182, Offset 18731.
 -- 「……急ぎすぎて、途中で追い越しちゃったかな……」
-"I went too fast and overtook her..."
+"I guess I went too fast and ended up overtaking her..."
 }
 [sha:7b4d04d4ebdbc47499de5adf4d38ccdafb687837]{
 -- Page 183, Offset 18732.
@@ -152,77 +162,86 @@ Or rather, I didn't get close enough to call out to her. I don't think she would
 [sha:9ae56d215975a91efbf0e7c4cb790e8ec056b677]{
 -- Page 184, Offset 18734.
 -- 「い、いつの間にこんな近くに!?
-"W-When did you get so close?!
+"W-Where did you come from all of a sudden?!
 }
 [sha:16c0f3ac6866aebbc1ca75a0a8eb0ac1ec32bd34]{
 -- Page 184, Offset 18735.
 -- さっきまであんなに離れてましたよね!?」
-You were so far away just a moment ago?!"
+Weren't you miles away just a moment ago?!"
 }
 [sha:d4af8381fb98c4ca3d6826e1c132827c9dd572ee]{
 -- Page 185, Offset 18736.
 -- 「あんなに、とは大げさかつ曖昧ですね。距離にして19メートル弱、ベースボールで言うところのピッチャーからキャッチャーまで離れていた、と正しく言ってほしいところです」
-"So far... That's exaggerated and vague at the same time. I would have preferred if you said that we were separated by slightly under nineteen meters, the distance between a pitcher and a catcher, to use a baseball analogy."
+"Miles away... That's both exaggerated and vague at the same time.
+ I'd like to point out that we were slightly less than nineteen meters apart,
+ or about the distance between a pitcher and catcher in baseball."
 }
 [sha:d9fffbe6f2475fc57daaeb0d87e3f9363af82332]{
 -- Page 186, Offset 18737.
 -- ……まずい。表情や台詞こそとぼけているものの、先輩の目は笑っていない。
-...Crap. Her expression and words make it look like she's playing along, but her eyes tell a different story.
+Crap... Her expression and banter makes it seem like she's playing along, but her eyes are dead serious.
 }
 [sha:8136884f2d7b85e452707201cdf66a88c94baf92]{
 -- Page 186, Offset 18738.
 -- それも当然だ。朝と保健室の一件があったばかりなのに、こんな尾行めいた事をされたらそりゃあ誰だって怒る。
-It's not surprising. On top of this morning's events in the infirmary, I tailed her too. It's only natural that she's angry.
+It's not surprising.
+ She's just caught me tailing her, and that's on top of this morning's incident in the infirmary.
+ Anyone would be angry after all that.
 }
 [sha:9b723d3f54596f6e962a5a129896ce6bf2d43ccf]{
 -- Page 187, Offset 18739.
 -- けど、こっちも遊び気分で追いかけて来た訳じゃない。
-But, I didn't follow her for some superficial reason.
+But it's not like I came chasing after her just for fun.
 }
 [sha:a5c44f929538a25d941f99feece586aafada27fd]{
 -- Page 187, Offset 18740.
 -- ここは強気で先輩を押し返さないと。
-Now, I have to confidently strike back.
+I need to seize this moment to confidently strike back.
 }
 [sha:6fe623a39b9e95c30cdda0bda98318629c1b8d34]{
 -- Page 188, Offset 18741.
 -- 「こ、こんにちは先輩。こんな時間に外で会うなんて奇遇だね」
-"G-Good day, Senpai. What a coincidence, meeting you here at this time of the day!"
+"G-Good afternoon, Senpai.
+ Funny seeing you here at this time of day!"
 }
 [sha:c0611e366bd6a6124b6240422cf868fd0948ded3]{
 -- Page 189, Offset 18742.
 -- 「ええ、奇遇ですね。わたしはこれから電車に乗って隣町まで行くんですが、遠野くんは？　早退して帰宅ですか？」
-"Yes, quite a coincidence. I will be taking the train to the neighboring town. What about you, Tohno-kun? Did you leave school early to head home?"
+"Quite the coincidence indeed.
+ I was just on my way to catch a train to the next town over.
+ What about you, Tohno-kun?
+ Are you heading home from school early?"
 }
 [sha:8cdb621712c96db942abdca97e7dbe59ca543f04]{
 -- Page 189, Offset 18743. Mods: @n.
 -- 「……いえ、帰るのは後です。
-"...No, I'll head home later.
+"No, I'll head home later.
 }
 [sha:ae9b006fff094346365e3752f9e62d31c48be5c9]{
 -- Page 189, Offset 18744.
 -- 俺も先輩と同じ電車に乗りますから」
-I'm getting on the same train as you, after all."
+ I'm getting on the same train as you, after all."
 }
 [sha:4f610e192431e1fd93679a2bd6bf589a2b7d22ed]{
 -- Page 190, Offset 18745.
 -- 「ほうほう。５時限目はボイコットですか？」
-"Oh? Are you boycotting fifth period then?"
+"Oho? Are you skipping fifth period then?"
 }
 [sha:9646a890131e72c4c989b85222f4c0261ba21ba8]{
 -- Page 190, Offset 18746.
 -- “いや、それ言ったら先輩だってボイコットですよ”と指摘したいのをぐっと堪える。ここで先輩に<発|タ><言|ー><権|ン>を渡してはいけない。
-I refrained from pointing out that she was boycotting too. I'm in control of this conversation, and I refuse to hand the reins over.
+I resist the urge to point out that she's just as guilty of cutting class.
+ I'm in control of this conversation, and I refuse to hand the reins over.
 }
 [sha:be7bc24722d5837f455051a3a0651b77f8953fd8]{
 -- Page 191, Offset 18747.
 -- 「さぼります。今は授業より、先輩が何処に行こうとしているのかが知りたいです」
-"I'm skipping school. Rather than staying in class, I want to know where you're going, Senpai."
+"I'm skipping school. I'm much more curious about wherever it is you're going than my classes, Senpai."
 }
 [sha:b3e335255e09062b9b9dcdf05161afd80d68e37d]{
 -- Page 192, Offset 18748.
 -- 「……そうですか。
-"...I see.
+"I see...
 }
 [sha:38665958bf488808bb842d6dec7d61bc607cd6de]{
 -- Page 192, Offset 18749.
@@ -237,27 +256,34 @@ Do you remember what I said in the infirmary?"
 [sha:fe7bf12ab7ddf62c83e3136e229b36fd9f68db73]{
 -- Page 192, Offset 18751.
 -- 緊張から<固唾|かたず>を呑む。
-I gulp my saliva down in nervousness.
+I swallow nervously.
 }
 [sha:55042e99b37cbc89c1a7eadf91f01d2cfca48b5d]{
 -- Page 192, Offset 18752.
 -- ここで下手な言葉を返せば、先輩は本気で俺を邪魔者として押しのけるだろう。最悪、保健室に逆戻りかもしれない。
-I need to choose my next words carefully. If I don't, Senpai will think I'm a nuisance and brush me aside. In the worst case, I may even end up back in the infirmary.
+I need to choose my next words carefully.
+ If I don't, Senpai will think I'm a nuisance and brush me aside.
+ If I really mess up, I might even end up back in the infirmary.
 }
 [sha:51e045206c4e088ee1435076dd174777a69efa7d]{
 -- Page 193, Offset 18753.
 -- 「これが最後です。わたしの行き先は貴方の想像通り、吸血鬼の調査です。危険ばかりで楽しい事なんてありません。おとなしく学校に戻って、」
-"I'll say it one last time. As you surmised, I'm going to investigate the vampires' whereabouts. It will be a perilous task devoid of any enjoyment. Be responsible and go back to schoo―――"
+"I'll say it one last time.
+ As you've surmised, I'm going to investigate the vampires' whereabouts.
+ It will be a perilous task devoid of any enjoyment.
+ Please behave yourself and go back to schoo―――"
 }
 [sha:b3fc3b58c110735a1979e0907a0efbf5957342e6]{
 -- Page 194, Offset 18754. Mods: @n.
 -- 「いやです、そんなの。
-"No. I won't do that.
+"No, I refuse.
 }
 [sha:ab3869841a149f290a81a6146e2df60af4faab0d]{
 -- Page 194, Offset 18755. Glued.
 -- 俺、吸血鬼に関わるなとは言われたけど、先輩に関わるなとは言われてませんから」
-You told me not to get involved with vampires. But you didn't tell me not to get involved with you."
+// Smooth
+ You told me not to get involved with vampires,
+ but you never told me not to get involved with you."
 }
 [sha:98fcc769bc58497c17b2c5b3119f866818f7af60]{
 -- Page 195, Offset 18756.
@@ -267,32 +293,37 @@ I stand my ground and stare right back at Senpai.
 [sha:5bc2c183d28ef9911244ad84df448bb59da588cc]{
 -- Page 195, Offset 18757.
 -- 思わず口からでた言葉だったけど、それで俺も自分の気持ちを再確認できた。
-I said those words in the spur of the moment, but they reaffirmed my feelings.
+I blurted out those words without thinking them through,
+ but saying them has helped me reaffirm my own feelings.
 }
 [sha:f6a7659924479e09f6687804cd742195bd223467]{
 -- Page 196, Offset 18758.
 -- 俺は吸血鬼の問題以上に、シエル先輩を気にかけている。
-Even more than the vampires, it's Ciel-senpai I'm concerned about.
+I'm much more worried about Ciel-senpai than I am about the problem posed by the vampires.
 }
 [sha:2276ca08e7d23f5c8930b9638548aaecdf3674c7]{
 -- Page 196, Offset 18759.
 -- ……この人がひとりで吸血鬼の調査なんかをしているのが、とにかく我慢ならなかったらしい。
-It seems like she can't restrain herself from investigating the vampires on her own.
+...I guess I just can't stand the thought of her going to investigate the vampires all on her own.
 }
 [sha:2268687fab35658808d7bdcaac6a19892308ee87]{
 -- Page 197, Offset 18760.
 -- 「……わたしに関わるという事は吸血鬼に関わるという事です。今のは詭弁にすぎません」
-"...Getting involved with me means getting involved with vampires. This is nothing more than a fallacious argument."
+"Getting involved with me means getting involved with vampires. This is nothing more than a fallacious argument."
 }
 [sha:5a1f033771fcff8ce545199c1b1505e5d9fe7be5]{
 -- Page 198, Offset 18761.
 -- 「それはずるい。学校の先輩であるシエル先輩と教会のシエル先輩は別枠でしょう。そうじゃなかったら先輩は俺の教室に来てないでしょ。だって教室に吸血鬼はいないんだし」
-"You're being unfair. The Ciel-senpai at school and the Executor Ciel-senpal aren't the same. If they were the same, you wouldn't have come to our classroom. There aren't any vampires in the classroom after all."
+// Or are there :roa:
+"You're being unfair.
+ The Ciel-senpai who's my upperclassman at school isn't the same as the Ciel-senpai who works for the Church.
+ If they were, you wouldn't have come to my classroom.
+ It's not like there are any vampires in there, are there?"
 }
 [sha:41a2b4628229f46cb62dd535112f1772275f192f]{
 -- Page 199, Offset 18762.
 -- 「それは……そうですが」
-"That... may be the case but―――"
+"That... may be true, but―――"
 }
 [sha:169723c9684fbf9e82ab3821a9fa1dc2d98cbb21]{
 -- Page 199, Offset 18763.
