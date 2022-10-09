@@ -3,7 +3,7 @@
 -- ……怪しい。あの購買部好き……というか特定のパン好き……の先輩が、わざわざ外にランチしに行くとは思えない。
 // god save me
 Suspicious... Senpai loves the school store too much——
-well, loves a certain type of %{i}bread%{/i} too much to go out of her way to leave school for lunch.
+well, loves a certain type of %{i}bread%{/i} too much to bother leaving school for lunch.
 }
 [sha:25602e2a6c002d27c6e9c4ba96d260a4a3904683]{
 -- Page 172, Offset 18705.
@@ -31,7 +31,7 @@ She puts on a brave face, but she's still recuperating herself.
 [sha:64c88412e4e27d014b6e4b02af903d40eed7b32e]{
 -- Page 174, Offset 18709.
 -- ……よし、先輩を追いかけよう。
-Alright... Time to follow Senpai.
+Alright... time to follow Senpai.
 }
 [sha:cdc932d9f0710de1011ae328b878b9156eebcf87]{
 -- Page 174, Offset 18710.
@@ -98,7 +98,7 @@ If I don't hurry up, I'll lose her...!
 [sha:8d62c552c2230917524cd2e05275e530ace3e67d]{
 -- Page 178, Offset 18722.
 -- 走りっぱなしだった足を止めて、乱れた呼吸を整える。
-After running nonstop for a while, I stop for a second to catch my breath.
+After running nonstop for a while, I pause for a second to catch my breath.
 }
 [sha:c956b2653bfced471c99981caaccdeaa41e383e8]{
 -- Page 178, Offset 18723.
@@ -152,7 +152,7 @@ Or rather, I didn't get close enough to call out to her. I don't think she would
 [sha:7b4d04d4ebdbc47499de5adf4d38ccdafb687837]{
 -- Page 183, Offset 18732.
 -- 「いえ、こういう場合は追い越しちゃったではなく待ち伏せされちゃった、というんですよ遠野くん」
-"No, you didn't overtake me. In this case I believe it'd be more apt to say you've been ambushed. "
+"No, you didn't overtake me. In this case I believe it'd be more apt to say you've been ambushed."
 }
 [sha:fbbb642253c95ae2707e4d5a79d3cceac28538b9]{
 -- Page 183, Offset 18733.
@@ -220,7 +220,7 @@ I need to seize this moment to confidently strike back.
 [sha:ae9b006fff094346365e3752f9e62d31c48be5c9]{
 -- Page 189, Offset 18744.
 -- 俺も先輩と同じ電車に乗りますから」
- I'm getting on the same train as you, after all."
+I'm getting on the same train you are, after all."
 }
 [sha:4f610e192431e1fd93679a2bd6bf589a2b7d22ed]{
 -- Page 190, Offset 18745.
@@ -269,7 +269,7 @@ I need to choose my next words carefully.
 -- Page 193, Offset 18753.
 -- 「これが最後です。わたしの行き先は貴方の想像通り、吸血鬼の調査です。危険ばかりで楽しい事なんてありません。おとなしく学校に戻って、」
 "I'll say it one last time.
- As you've surmised, I'm going to investigate the vampires' whereabouts.
+ As you've surmised, I'm going to investigate the vampire's whereabouts.
  It will be a perilous task devoid of any enjoyment.
  Please behave yourself and go back to schoo―――"
 }
@@ -283,7 +283,7 @@ I need to choose my next words carefully.
 -- 俺、吸血鬼に関わるなとは言われたけど、先輩に関わるなとは言われてませんから」
 // Smooth
  You told me not to get involved with vampires,
- but you never told me not to get involved with you."
+ but you never told me not to get involved with %{i}you%{/i}."
 }
 [sha:98fcc769bc58497c17b2c5b3119f866818f7af60]{
 -- Page 195, Offset 18756.
@@ -299,12 +299,12 @@ I blurted out those words without thinking them through,
 [sha:f6a7659924479e09f6687804cd742195bd223467]{
 -- Page 196, Offset 18758.
 -- 俺は吸血鬼の問題以上に、シエル先輩を気にかけている。
-I'm much more worried about Ciel-senpai than I am about the problem posed by the vampires.
+I'm much more worried about Ciel-senpai than I am about the problem posed by any vampires.
 }
 [sha:2276ca08e7d23f5c8930b9638548aaecdf3674c7]{
 -- Page 196, Offset 18759.
 -- ……この人がひとりで吸血鬼の調査なんかをしているのが、とにかく我慢ならなかったらしい。
-...I guess I just can't stand the thought of her going to investigate the vampires all on her own.
+...I guess I just can't stand the thought of her going to investigate them all on her own.
 }
 [sha:2268687fab35658808d7bdcaac6a19892308ee87]{
 -- Page 197, Offset 18760.
@@ -384,7 +384,7 @@ So, in other words, this means...
 -- Page 205, Offset 18772.
 -- 「はい。遠野くんに見つかってしまったわたしの落ち度というコトで、今日だけは特別です。付いてくるだけなら大目に見ます。……無鉄砲な後輩に、吸血鬼のねぐらがどんなものか知ってもらうのもマイナスではありませんし」
 "Yes.
- It was careless of me let myself get spotted, so I'll consider today a special exception.
+ It was careless of me to let myself get spotted, so I'll consider today a special exception.
  I'll let you come along with me, but no more than that.
  I suppose there's no harm in letting my reckless underclassman see just what a vampire nest is really like..."
 }
@@ -398,7 +398,7 @@ So, in other words, this means...
 -- 俺の気持ちが伝わったのか、シエル先輩はいつもの笑顔に戻ってくれた。やっぱり先輩はこうでなくては。
 I don't know if it's because my feelings got through to her or not,
  but Senpai is once again smiling like she usually does.
- Yeah, this is really the way things ought to be.
+ Yeah, this really does suit her best.
 }
 [sha:d3b273ce08d31fafdfd97eb2ad700fde018cbdde]{
 -- Page 207, Offset 18775.
@@ -420,7 +420,7 @@ Does she mean last night's run-in with Arcueid?
 [sha:65976e03f3e987a092e0d8bf65121b6d7a5867d4]{
 -- Page 208, Offset 18778.
 -- あれを持ちだされたら流石に弁明できないんだけど……
-If she brings that up, I don't have any way of talking myself out of it...
+If she brings that up, I don't have a good way to explain myself...
 }
 [sha:c4e18ef709ae7820e1c26ccfc4f79e3a722635dd]{
 -- Page 209, Offset 18779.
@@ -437,7 +437,7 @@ Your footsteps and presence stuck out like a sore thumb, it's like you were scre
 -- Page 209, Offset 18781.
 -- わたしだったから良かったものの、ノエル先生や死者相手にあんなコトをしたら翌朝には路地裏で目を覚ますコトになりますから、今後は注意するように！」
 You're lucky it was me you were dealing with.
- If you'd tried that on Noel-sensei or one of the Dead you've have woken up the next morning in a back alley,
+ If you'd tried that on Noel-sensei or one of the Dead you'd have woken up the next morning in a back alley,
  so please be a little more careful next time!"
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
@@ -476,7 +476,7 @@ I answer Senpai with a wry smile on my face.
 -- Page 211, Offset 18788.
 -- 多少スパルタなところはあれ、シエル先輩はとことん面倒見のいい人なのだった。
 She may be dauntingly severe in some ways,
- but Ciel-senpai really is a caring person to her core.
+ but Ciel-senpai really is a caring person at heart.
 }
 [sha:86f62ed4bd7bce0461336104e0817152950aa8cd]{
 -- Page 212, Offset 18789.
@@ -517,7 +517,7 @@ Deep in the heart of this industrial area, far removed from the residential dist
 [sha:ae8af08a1ca584c0bbf275d8da7a5b6c9aa4f2c4]{
 -- Page 213, Offset 18796.
 -- 「死徒のねぐらですよ。いえ、でした、と言うべきですね。
-"It's the vampires' nest. Or rather, it %{i}was%{/i}.
+"It's the vampire's nest. Or rather, it %{i}was%{/i}.
 }
 [sha:78615ed422d8a27688caf33b84ddcf8d0728a246]{
 -- Page 213, Offset 18797.
@@ -571,7 +571,7 @@ Even if it was,
 [sha:5f0fca297bec504fbd152832cdb11b748c2c8717]{
 -- Page 216, Offset 18806.
 -- 「念のため、中に入って汚染状況を確認します」
-"Just to be on the safe side,
+"Just to be safe,
  I'm going to go inside and check how contaminated it is."
 }
 [sha:1c9d7a4a214d5fd5cd1a764e963f0b8102f5473b]{
@@ -630,7 +630,7 @@ The spotless brilliance of that sky is enough to hurt my eyes.
 [sha:c8ac2c74d0dee7315c414e430495fd684cbb45f3]{
 -- Page 220, Offset 18816.
 -- 「ええ。病院は死徒にとって利用しやすく、また価値のある施設です。個人資産によるものなら尚更ですね」
-"Yes. Hospitals are accessible and valuable facilities to Dead Apostles.
+"Yes. Hospitals are easy facilities to make use of, and very valuable to Dead Apostles.
  Doubly so if they happen to be privately owned."
 }
 [sha:7d7a7a419bd3c60e472e2d88bcd2a9ae2aebb6c8]{
@@ -680,14 +680,14 @@ There are two types of vampires, and the one you're after is one of the Dead Apo
 [sha:d99cbc88bd8965a2e32dc7d7fcc41041d06c9f79]{
 -- Page 224, Offset 18825.
 -- 「詳しくは話せませんが、典型的な死徒ですよ。少しずつ街に浸透していき、勢力を伸ばしていくタイプです。ヴローヴ・アルハンゲリほど直接的な脅威ではありません」
-"I can't go into detail, but they're you're stereotypical Dead Apostle.
+"I can't go into detail, but they're your stereotypical Dead Apostle.
  They're the type that slowly infiltrates a city, spreading the tendrils of their influence.
  They represent a less direct threat than a vampire such a Vlov Arkhangel."
 }
 [sha:2d0af38397f85779bb3908d20c3c45786e59e4e1]{
 -- Page 225, Offset 18826.
 -- ……そうか。やっぱり先輩の目的もヴローヴではなかった。
-I see... Like I thought, Senpai's original object wasn't Vlov after all.
+I see... Like I thought, Senpai's original objective wasn't Vlov after all.
 }
 [sha:3985fbf4e581fff4cacbdf0840f3b8cdf44b1f99]{
 -- Page 225, Offset 18827.
@@ -789,7 +789,7 @@ Ciel-senpai starts talking to me, though it sounds like she's talking to herself
 -- ある日、自分が突然ホラー映画の主役になっていて、何の説明もなく悪役だと知らされて、開始１分からさんざん暴れて登場人物たちをみんな殺してしまったとします。１時間半、もうノンストップで。殺害人数は四桁を軽くオーバーです」
 That one day, someone suddenly finds themselves thrust into the leading role of a horror movie.
  Without any explanation, he's told he'll be playing the villain,
- and as soon as the movie starts, he'll begin slaughtering all the characters.
+ and as soon as the movie starts, he'll begin slaughtering all the other characters.
  Slaughtering them nonstop, for an hour and a half.
  By the time it ends, the final victim count is easily in the thousands."
 }
@@ -802,7 +802,7 @@ That one day, someone suddenly finds themselves thrust into the leading role of 
 [sha:08c7c8ae86d4cea15192d272775b60a8ee6acdc2]{
 -- Page 232, Offset 18848.
 -- 「たとえ話ですから最後まで聞いてください。
-"It's just a what-if, so please listen to me until the end.
+"It's just a what-if, so please hear me out.
 }
 [sha:319b95121507306322aff3d432ed89e101201a18]{
 -- Page 232, Offset 18849.
@@ -825,7 +825,7 @@ They've just slipped away, covered in blood, out from the end credits of the mov
 [sha:e144b2faee9548d5b297b8128660b5dbb4c1a57c]{
 -- Page 233, Offset 18852.
 -- “はじめまして誰かさん。映画の世界からやってきたものです。ああでも安心して、怖がらないで。私は台本通りに殺人鬼を演じただけ。それがまさか、終わった後に映画から追い出されるとは思ってもいなかった”」
-'Please to meet you, Mr. Stranger.
+'Pleased to meet you, Mr. Stranger.
  I've just come from the world of that movie.
  Oh, but don't worry, you've nothing to fear.
  I was simply playing the role of the killer in accordance with the script.
@@ -900,7 +900,7 @@ Senpai lets out a chuckle, and turns around with a self-deprecating smile on her
 -- Page 237, Offset 18865.
 -- 昨夜そういう内容のホラー映画を借りてしまって。あんまりにも真に迫っていたので、遠野くんにもホラーを分けてあげようかなと」
 That was the plot of a horror movie I rented last night.
-  It felt so incredibly real that I wanted to share that horror with you."
+ It felt so incredibly real that I wanted to share that horror with you."
 }
 [sha:70722b4ab998f0c55529b0adbe5e30869a5b0f7b]{
 -- Page 238, Offset 18866.
@@ -941,7 +941,7 @@ There―――
 -- Page 240, Offset 18872.
 -- 残念、いえ幸いな事に死徒の痕跡はなし。今回は完全にハズレでした」
 Unfortunately――no, %{i}fortunately%{/i}, there's no trace of the Dead Apostle.
- It looks like this place was a total dud."
+ It looks like this place was a total bust."
 }
 [sha:0dd629285c802fc5711edc19b1f37e2219a940af]{
 -- Page 241, Offset 18873.
