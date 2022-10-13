@@ -46,6 +46,7 @@ I feel bad about going behind Senpai's back, but there's something bigger at pla
 [sha:4f81f2654f452decb3547ccb587de9f669cfca6f]{
 -- Page 337, Offset 19098.
 -- 「よし、吸血鬼探しを始めよう。今夜は何処に行くんだ？」
+// Where we dropping boys
 "Alright, let's start looking for vampires.
  Where are we going tonight?"
 }
@@ -119,7 +120,7 @@ As soon as I commit myself to taking off my glasses,
 [sha:e81d5d59ff3e787f1d6cbe062c8370c78ec1bb2f]{
 -- Page 341, Offset 19111.
 -- まずは繁華街からだ。一体でも多く吸血鬼を暴きだし、解体しなくてはいけない。
-We'll start with the shopping district then go from there.
+We'll start with the shopping district and go from there.
  I have to root out and dismember as many vampires as I can.
 }
 [sha:11197acaf35588dd078ac0ff4a67bfc7f5b74b44]{
@@ -130,7 +131,7 @@ Alas, despite my eagerness, I end up with nothing to show for it.
 [sha:993ef2906ee7a6ede26cffd8971a0b730d805296]{
 -- Page 342, Offset 19113.
 -- 繁華街から路地裏、オフィス街、はては工場跡地にまで足を延ばしたものの、死者は一体も見つからない。
-We started at the shopping district,
+We went to the shopping district first,
  and from there we hit up the back alleys,
  the business district,
  and even the site of an old factory,
@@ -180,12 +181,12 @@ It's anticlimactic, but I'll take that over more casualties.
 [sha:b81ee5d8ffb878c3f0e24bd6f6d3bec5eb75e17e]{
 -- Page 346, Offset 19122.
 -- なにより―――アルクェイドと一緒に街を見て回る時間が増えるのは、純粋に喜ばしかった。
-And above all―――I'm genuinely happy that I get to spend more time patrolling the city with Arcueid.
+And above all――I'm genuinely happy that I get to spend more time patrolling the city with Arcueid.
 }
 [sha:0338fcc7678af9f1ea49314811b4a9a760a0bf41]{
 -- Page 347, Offset 19123.
 -- 「今夜はかんっぜんに無駄骨だったな。緊張して損した」
-"Man, tonight was a total waste of time. I got all tensed up for nothing."
+"Man, tonight was a total waste of time. I got all worked up for nothing."
 }
 [sha:b60847a0d1c3e4a1a788abbaffb87d5aa7b690d2]{
 -- Page 347, Offset 19124.
@@ -202,7 +203,7 @@ With each breath of the cool nighttime air,
 [sha:41ca3c832dc7a68bd3d3424d341311f22f214368]{
 -- Page 348, Offset 19126.
 -- おかげで少しずつではあるが、目眩と吐き気は治まってくれている。
-Thanks to that, my dizziness and the urge to vomit are subsiding, albeit slowly.
+Thanks to that, my dizziness and the urge to vomit are receding, albeit slowly.
 }
 [sha:4980d52dd99cd94713c68df409c8114c5bc121c2]{
 -- Page 349, Offset 19127. Mods: @n.
@@ -255,7 +256,7 @@ Or a long-captive prisoner celebrating their newfound freedom.
 [sha:f3c2edd81fe04098411a73530317eb0b55cb42e9]{
 -- Page 351, Offset 19136.
 -- 「…………まあ、元気なコトはいいコトだけど」
-"Well, I'm glad someone's enjoying herself at least..."
+"Well, I'm glad %{i}someone's%{/i} enjoying herself..."
 }
 [sha:5179f67f916168cd79ec1cdfa4e87462d3206796]{
 -- Page 351, Offset 19137. Mods: @n.
@@ -265,7 +266,7 @@ Despite my snide comments, my eyes are
 [sha:9d6b4cde607c74798b076f0cfc5cb31967fd2ed8]{
 -- Page 351, Offset 19138. Glued.
 -- アルクェイドを追ってしまう。
- are riveted to Arcueid.
+ riveted to Arcueid.
 }
 [sha:71605ebdd71f5223351bd8a77743006527e2f943]{
 -- Page 351, Offset 19139.
@@ -276,7 +277,7 @@ I've got to admit...
 -- Page 351, Offset 19140.
 -- 先輩への想いが親愛なら、アイツへの感情は愛情に近い。
 // Curry lovers stay losing
-If what I feel for Senpai is deep affection, then what I feel for Arcueid is close to love.
+If what I feel for Senpai is deep affection, then what I feel for Arcueid approaches love.
 }
 [sha:5e93aba56a110d32d08a3edca67d4b24f5ac3c8a]{
 -- Page 354, Offset 19141.
@@ -365,7 +366,7 @@ You were sneezing yesterday, right? You sure you didn't catch a cold?"
 [sha:1da86d6fdf2624d38539603fafabb5b39114b136]{
 -- Page 360, Offset 19157.
 -- もしかして、わたしのコトを心配してくれてる？」
-Wait, you're not worried about me, are you?"
+Wait, don't tell me you're worried about me?"
 }
 [sha:fbd1aaf16155e058f5e6dd1efa989e5035f17383]{
 -- Page 360, Offset 19158.
@@ -516,7 +517,9 @@ Listen, it doesn't matter if you're a True Ancestor or a Dead Apostle,
 [sha:743798164bb40e5bcda7386cb9511e21274997a2]{
 -- Page 373, Offset 19184.
 -- 以前、ホテルで説明された事だ。
-This was one of the things she explained back at the hotel.
+// Page is surprisingly tight because of a forced extra linebreak,
+// which makes lint think it's fine. Playtest if editing.
+She explained this before back at the hotel.
 }
 [sha:90ded1693dadde67217eddfdd6bb8ed76e9fb5b5]{
 -- Page 373, Offset 19185.
@@ -542,7 +545,7 @@ Apparently the main reason Dead Apostles act covertly is because they're terrifi
 -- Page 374, Offset 19189.
 -- 「吸血鬼の天敵、だろ。夜の巡回だってもともとは先輩の仕事なんだろうし。
 "They're a vampire's natural enemy, right?
- I mean, these nighttime patrols were originally Senpai's job."
+ I mean, these nighttime patrols were originally Senpai's job.
 }
 [sha:064437e6118244649990b3407d782718252b964a]{
 -- Page 374, Offset 19190.
@@ -630,7 +633,7 @@ Senpai is my upperclassman at school.
 [sha:dea8a0624a1ef53b4b155a9b34cce82d69e09dcd]{
 -- Page 381, Offset 19205.
 -- 「絶対にならない。わたしはアイツが嫌いだし、アイツもわたしを殺したがってるし。
-"That will never happen.
+"Absolutely not.
  I despise that woman, and she's got it out for me too.
 }
 [sha:051efd8db744d4be60a1b2a7dbb8b6d4004af964]{
@@ -680,7 +683,7 @@ Besides――even knowing who Ciel-senpai really is, I still think of her as my 
 -- Page 385, Offset 19214.
 -- あの人と一緒に昼食を食べたり、有彦と三人でバカな話をして盛り上がったり、茶道室で時間を過ごすのは楽しかった。
 I enjoyed having lunch with her,
- shooting the breeze together with her and Arihiko,
+ shooting the breeze with her and Arihiko,
  and passing the time in the tea ceremony room together.
 }
 [sha:57c655dc157c24d622535283a3e5ab9f4c92db15]{
@@ -691,7 +694,7 @@ That's right... I had so much fun―――
 [sha:82b8c3c27c5263fd57db10f9e193fb482b6ede82]{
 -- Page 385, Offset 19216.
 -- 先輩の正体なんて、知らないほうが良かったと思うぐらいに。
-That I almost wish I'd never found about about Senpai's true identity.
+That I almost wish I'd never found about Senpai's true identity.
 }
 [sha:07050dd3b6caddedfe4e415d68dc36b71a8086cf]{
 -- Page 386, Offset 19217. Mods: @n.
