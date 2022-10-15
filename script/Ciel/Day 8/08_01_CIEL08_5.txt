@@ -704,32 +704,40 @@ That's a lackey for you!
 -- Page 468, Offset 19437.
 -- 背後からの声を聞いて、シスターはあわてて槍を拾い上げた。
 // 槍 here but its probably referring to the same weapon
-Hearing a voice from behind, the sister hurriedly picks the halberd up.
+Hearing someone call out to her from behind,
+ the nun hurriedly picks her halberd back up.
 }
 [sha:96c2fe2dd4c8e3ce8724e268d8f111c089d152da]{
 -- Page 468, Offset 19438.
 -- 彼女は自分以下の敵の対処は抜群に巧いが、自分と同等以上のものにはめっぽう弱い。
-Though she excels in dealing with enemies weaker than her, she stands no chance against those of equal or greater power than her.
+Though she excels in dealing with enemies weaker than her,
+ she stands no chance against anyone as strong as, or stronger than, herself.
 }
 [sha:7c41bc3e70e08ac66e6b13d69a24105b730c4d8d]{
 -- Page 468, Offset 19439.
 -- つねに最悪のケースを想像して自分を追い詰めてしまう性格が、彼女に本来の実力を発揮させないからだ。
-Due to her always imagining the worst-case scenario and pushing her back against the wall, her personality prevents her from exhibiting her true power.
+She can't help but imagine the worst scenario that might occur,
+ and because of this personality trait she always backs her self into a corner,
+ preventing herself from achieving her true potential.
 }
 [sha:422f08de5fe9fd6a8585e02ca8d13758cc49da11]{
 -- Page 469, Offset 19440.
 -- この場合もそれに近い。
-What is happening now is akin to that.
+That's more or less exactly what's happening now.
 }
 [sha:26ad11e81448f356ba2c21ecf0ab0b9d0bdf32d6]{
 -- Page 469, Offset 19441.
 -- まだ相手を視認してさえいないのに、“自分が関与していなかった第三者が来た”という事だけで精神の均衡が崩れかけている。
-She hasn't even seen them yet, but the fact that an uninvolved outsider arrived has destroyed her mental fortitude.
+She hasn't even seen them yet,
+ but the mere thought of someone she doesn't know suddenly getting involved is enough to wreck her confidence.
 }
 [sha:264b0214b7ba4b7cc08034561c844bab9bb1836c]{
 -- Page 470, Offset 19442.
 -- 「あぁ？　あんだけの殺しをやっておいてなにブルってやがる。落ち着けよ牝豚。テメェにとっちゃ神に等しい上司さまだっつの」
-"Aaaah? Why the fuck are you cowering in your boots after killing all those fuckers? Calm down, bitch. It's me, your boss. I'm pretty much God to a fucker like you."
+// Peak mario line
+"Huh?
+ Why the hell are you shaking in your boots after you wasted all those fuckers?
+ Calm down bitch, it's me: your boss, aka your god."
 }
 [sha:cb90775557fe2793933374bc29b6feb6d4a4f6f6]{
 -- Page 470, Offset 19443.
@@ -739,89 +747,102 @@ She hasn't even seen them yet, but the fact that an uninvolved outsider arrived 
 [sha:08da32e6d979b256e282c67504eea1164703e51e]{
 -- Page 470, Offset 19444.
 -- ほっと肩を落として槍斧を下げるシスター。
-The sister drops her shoulders in relief and lowers her halberd.
+The nun's shoulders slump in relief, and she lowers her halberd.
 }
 [sha:d4c62892bb86b9c29473626af748c2d37d09f5ab]{
 -- Page 470, Offset 19445.
 -- が、緊張はいまだ解けない。彼女はこの状況が自分にとって危ういものである事を理解している。
-However, her nervousness remains. She understands that this is a precarious situation.
+She doesn't relax just yet though.
+ She understands that this is a precarious situation.
 }
 [sha:bbb615c13485783177e9e2763ff5c16d2162f3f7]{
 -- Page 471, Offset 19446.
 -- 「……これは正当な討伐です。ロアをいぶりだすには、まず<食|けつ><料|えき>を集める兵隊を根絶する必要が、」
-"...I am on a legitimate subjugative operation. To lure Roa out, we need to exterminate the foot soldiers who gather his nourishment, in other words, blood and―――"
+"This was... a totally legitimate subjugation operation.
+ To smoke Roa out, we need to first exterminate the foot soldiers who gather the blood that sustains him―――"
 }
 [sha:5a91fa09ca69f60bf0ca8fb64e21289793e23edb]{
 -- Page 471, Offset 19447.
 -- 「知ってるよ、いちいち弁明すんな。はじめっから見てたからな、<戦果|スコア>を報告しなくてもいい」
 // Not sure if 'score' is understandable enough. It also appears once more in this file
-"I know. You don't have to explain every little thing. I've been watching from the start, so there's no need to report the score."
+"Yeah yeah I get it, you don't hafta tell me.
+ I've been watching this game from the beginning, I already know the score."
 }
 [sha:7a11b1f03fdcbfe7a0dcbcd451bedc1e64bf0fc4]{
 -- Page 472, Offset 19448.
 -- 「だがまあ、ちょいとやり過ぎだな。
-"But eh, that was a bit much.
+"But man, you really went ham.
 }
 [sha:3e105f8a8b962c011d530e7616cda72b3ec42ff6]{
 -- Page 472, Offset 19449.
 -- 死徒どもに懺悔の機会なんぞを与えやがったのは見なかった事にする。代行者の殺し方はそれぞれだからな。
-I'll overlook the fact that you gave the Dead Apostles a chance at redemption. Each Executor has their own way of killing after all.
+I'll pretend I didn't see you offer those Dead Apostles a shot at redemption.
+ Each Executor's got their own particular flavor of murder after all.
 }
 [sha:8140564cea29305a68e6eb223b64c7de1cd3bd04]{
 -- Page 472, Offset 19450.
 -- 問題は死体の数だ。中にはまだ成りきれてない犠牲者もいたように見えたがねぇ」
-The problem lies with how many you killed. Looks like some of the victims weren't even completely transformed yet."
+What I can't ignore is how %{i}many%{/i} you killed.
+ Looked like some of 'em weren't even totally finished turnin' yet either."
 }
 [sha:85da08ccc3b60c3ece466eebec2a8c33b42f0617]{
 -- Page 473, Offset 19451.
 -- 「いいえ、アレは吸血鬼より始末が悪いものです。
-"No, they are even harder to deal with than vampires.
+"I stand by my actions. People like that are even more pernicious than vampires.
 }
 [sha:d84e637a4655d76b2a34bfa9613a01e9008b46e2]{
 -- Page 473, Offset 19452.
 -- あの少女は人間であるにもかかわらず、自分から奴等に協力して犠牲者を増やしていましたから。当然の末路です」
-That girl, despite being a human, chose to collaborate with them, increasing the number of victims. It was a foregone conclusion."
+Despite being human, she chose to work with them and was responsible for increasing the number of victims.
+ Her fate was already sealed."
 }
 [sha:8024e5426c21aef29fe7ad033eaac7838dfedd95]{
 -- Page 474, Offset 19453.
 -- 「ほう。チキンなテメェにしちゃあ冷徹な判断だ。吸血鬼に関わった人間は皆殺しってワケか。そいつは頼もしい」
-"Ooh? That's a cold-blooded decision for a coward like you. To kill every human involved with vampires, huh? That's one reliable method."
+"Oh yeah?
+ That's a pretty cold-blooded decision for a chicken-shit like you.
+ You're just gonna kill any human that gets involved with vampires, huh?
+ I mean hey, it's a reliable strategy."
 }
 [sha:98baae8744a5c52c88c062f9b9a12fbe2c98790e]{
 -- Page 474, Offset 19454.
 -- 「……何のご用でしょうか、司祭代行。
-"...If I may ask, why are you here, Acting Presbyter?
+"If I may ask... why are you here, Acting Presbyter?
 }
 [sha:63f566c56f8bf7e73c1565100670ca85b5a39ccd]{
 -- Page 474, Offset 19455.
 -- 定期連絡はしていますし、わたしの単独行動は許可されているのではないのですか？」
-I have maintained regular contact. Besides, am I not allowed to conduct operations on my own?"
+I have maintained regular contact, and I'm allowed to act independently, aren't I?"
 }
 [sha:80170603f29b66235da16b3d024429894db64f5e]{
 -- Page 475, Offset 19456.
 -- 「ああ、秘蹟会と埋葬機関は別管轄だ。テメェがシエルの相棒である以上、オレたちは対等<だ|・><っ|・><た|・>」
-"Ahh, the Sacrament Assembly and the Burial Agency are two separate jurisdictions. When you were Ciel's partner, we were on equal footing."
+"Yeah, the Sacrament Assembly and the Burial Agency are two separate jurisdictions.
+ As Ciel's partner, you and I %{i}were%{/i} on equal footing."
 }
 [sha:d81c448c2934caf8bb6ff0d8705e68388bc7d592]{
 -- Page 476, Offset 19457.
 -- 「だった……とは、どういう事でしょうか」
-"Were... What is that supposed to mean?"
+"What do you mean... %{i}were%{/i}...?"
 }
 [sha:fe61696957ee70801bc39b01791005ca8934503e]{
 -- Page 476, Offset 19458.
 -- 「代行者シエルはテメェとのコンビを解くとよ。できうるかぎり早くテメェを引き取れなんて言ってきやがった。
-"Executor Ciel broke off your partnership. She told me to take you in as soon as possible.
+"Executor Ciel's cutting you loose.
+ She told me to come pick your ass up as soon as I could.
 }
 [sha:62cb8dc79b182a4c9494ae6a0870d05f9a4fcdb6]{
 -- Page 476, Offset 19459.
 -- なんで、近いうちにテメェはオレの預かりだが……スコアも悪い、精神も不安定な不良物件を使うほどマヌケじゃねえ。
-// Again the 'score' thing
-So, you'll soon be under my custody... Shitty scores and mentally unstable, I'm not dumb enough to use such a crap product.
+// Again the 'score' thing. Not really worth calling back imo
+So, them's the breaks. You're my problem now, but... your performance sucks, and you've got more than a few screws loose.
+ I'm not dumb enough to use a gun that might go off in my face.
 }
 [sha:12b71e01ce2940729d4f0611369fa38aed159ef2]{
 -- Page 476, Offset 19460.
 -- この一件が終わり次第テメェは修道院送りだ。今のうちに身辺整理をしておけよ」
-As soon as the matter at hand is over, it's back to the monastery for ya. Get your affairs in order while you still have time."
+The second we're done dealing with shit here I'm carting you off to the monastery.
+ Get your affairs in order while you still have time."
 }
 [sha:153edb070e282e09a173538b25f446c81383252c]{
 -- Page 477, Offset 19461.
