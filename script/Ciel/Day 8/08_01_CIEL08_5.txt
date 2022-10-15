@@ -6,27 +6,33 @@ The raised mass of metal is swung down without a shred of hesitation.
 [sha:91d22d33572ee4774b64b0190883466df9d4bc34]{
 -- Page 10013, Offset 19320.
 -- もう何年も使い込まれ、いくら研いでも切れ味の戻らない中古品。
-A secondhand weapon that has been used for countless years. No matter how much it is whetted, its sharpness will never be restored.
+// Dunno the actual provenance her re: countless. Maybe just 'many' if it's too large an implication.
+A weapon that has passed through countless hands,
+ and is now so well-worn that it'd be impossible to sharpen no matter how much one tried to whet it.
 }
 [sha:fbee3d276a648f5f47d28a2e8b23fc999f162b9d]{
 -- Page 10013, Offset 19321.
 -- 鉄の先端には直径50センチ以上の刃物が付いている。
-A 50cm diameter blade is attached to the tip of the iron weapon.
+// 50cm _diameter_ for a blade is a bit weird. We're talking about Noel's halberd here,
+// so I assume this is referring to the axe-like blade that's more like 50cm _wide_ since it's not a cylinder.
+At the tip of this iron weapon is a wide blade, over fifty centimeters from edge to edge.
 }
 [sha:919d779b165aacd4e521b67267b610b1cd95e4b1]{
 -- Page 10013, Offset 19322.
 -- １トンの重さだけが刃を進ませる推進力だった。
-Its one-ton weight alone drives the blade forward.
+// Assuming this is metric tonne, not bogounits ton
+That blade, which weighs an entire tonne, is propelled by nothing but its own weight.
 }
 [sha:594a97e2f3c8c852d91fe3c59ae72de69201af44]{
 -- Page 10013, Offset 19323.
 -- ゴシャリ、と骨を砕く勢いだけは目を見張るものがある。
-Splash, that bone-crushing force is astonishing.
+%{i}Crunch%{/i}.
+ It's bone-crushing force is a sight to behold.
 }
 [sha:1c236f0363eebe3fc4d5e703d8d1ae345860f550]{
 -- Page 10013, Offset 19324.
 -- なまくらの<刃|は>は、その重量だけで、逃げ惑う獲物の頭蓋骨を叩き潰した。
-The dulled blade smashes through the skulls of its scampering prey with its weight alone.
+With all that weight behind it, the dull blade turns the skulls of it's scampering prey to mincemeat.
 }
 [sha:26bb657924e119435312f0681f7646077889dcba]{
 -- Page 427, Offset 19325.
@@ -36,7 +42,7 @@ The dulled blade smashes through the skulls of its scampering prey with its weig
 [sha:4a613224142a0c23f69d43b08bede15fb62796f4]{
 -- Page 427, Offset 19326.
 -- それを見て、誰もが疑問の声をあげ目を丸くした。
-Anyone bearing witness to it would stare in wonder and raise a voice of suspicion.
+Anyone would be incredulous after witnessing something like that with their own eyes.
 }
 [sha:4ae23b6bfef0c71882280dec508321c36e52aa50]{
 -- Page 427, Offset 19327.
@@ -46,43 +52,49 @@ What is happening?
 [sha:d52f4add27b9e8c85b930245030419f46d8ed13c]{
 -- Page 427, Offset 19328.
 -- 何が起こったのかを、彼等はまだ把握すら出来ていない。
-What just happened? They weren't even able to grasp that.
+What just happened?%{n}
+They still haven't been able to grasp the answer to either of those questions.
 }
 [sha:4ca2e058ef2ded2585021e95ec6317a361b31f22]{
 -- Page 428, Offset 19329.
 -- だってここは安全地帯だ。命の危険がある筈がない。
-This is a safety zone, after all. Their lives shouldn't be in peril.
+// Can't believe Noel would invade my safe space
+This is supposed to be a safe house, after all.
+ Their lives shouldn't be in peril here.
 }
 [sha:507d1e21a80f46448546d16ab64004e9e68c361f]{
 -- Page 428, Offset 19330.
 -- 吸血鬼にとって、街はもう安全ではない。
-To a vampire, the city isn't safe anymore.
+This city isn't safe for vampires anymore.
 }
 [sha:5b300d5ee4192a2896ca5421a65606285f790c7a]{
 -- Page 428, Offset 19331.
 -- 真祖の姫と代行者。二つの“処刑人”の手で、刻一刻と逃げ場はなくなっていく。
-Their two castigators, the Princess of the True Ancestors and the Executors. By their hands, each moment that passes is one fewer place of refuge.
+They're caught between the Princess of the True Ancestors and the Executors.
+ As their executioners close in on them from both sides, their chances of escape dwindle by the second.
 }
 [sha:6a7bc71371a68141cb3a7b5b57ce034c4f6252ff]{
 -- Page 428, Offset 19332.
 -- その前に条件次第で特別に新天地に逃がしてやる―――そんな取引に乗って集まった彼等の理性は緩みきっていたからだ。
-They accepted that deal―――to escape beforehand to a new land, under certain conditions―――and thus let their guard down.
+They'd all made a deal――
+that they'd be allowed to escape to a new land, so long as they upheld their side of the bargain――
+and had grown complacent as a result.
 }
 [sha:25a38dfabd386ef41a9c8f014991829079e13688]{
 -- Page 429, Offset 19333.
 -- 「あれ？　みんな反応わるいんじゃない？
-"Oh? That's not a very enthusiastic reception, is it?
+"Hmm? What's with the slack-jawed response?
 }
 [sha:977b46fb6afafe92d8c61abce17c597f22fc9497]{
 -- Page 429, Offset 19334.
 -- ここは蜘蛛の子みたいに逃げ回るところでしょ？」
-// Huh, Google tells me scutter is a Britishism
-Shouldn't you be scuttering around like little spiders?"
+Isn't this your cue to start skittering around like a bunch of baby spiders?"
 }
 [sha:ce9d236108bf4c9796972c47aa9631270495438b]{
 -- Page 430, Offset 19335.
 -- 凶器を手にしたシスター服の女が首をかしげる。
-Weapon in hand, the woman dressed in a habit tilts her head.
+Holding her weapon in one hand,
+ the woman dressed in a habit cocks her head to the side.
 }
 [sha:ba2f7df8a8154e1bfcf838166380a67f405b73c6]{
 -- Page 430, Offset 19336.
@@ -92,143 +104,174 @@ Surrounding her is an array of thirteen different faces.
 [sha:4535d22a976cc03148efcdd3b18f086010861c48]{
 -- Page 430, Offset 19337.
 -- みな、シスターを頼って集まった、哀れな<逃亡者|きゅうけつき>たちだった。
-They were all pitiable <runaways|v a m p i r e s> that had gathered here, believing in the words of the sister.
+Each and every one of them belongs to a pathetic <runaway|v a m p i r e   >,
+ who had gathered here because they believed the nun's words.
 }
 [sha:57a4619cc9a202751430b2a3aeb10e204f6e2448]{
 -- Page 431, Offset 19338. Mods: @k, @e.
 -- 「14人もいるから広い場所にしてあげたのに。
-"Even though I made sure to prepare a room wide enough for all fourteen of us.
+// There were 14 vampires total (one down), so 14 is vamps not 'us' here
+"I even went to the trouble of preparing a room big enough for all fourteen of you.
 }
 [sha:fcf35b775a3632f80378f3de8a4e0aa303ceae3f]{
 -- Page 431, Offset 19339.
 -- これじゃちょっと拍子抜け、かな？」
-That's a bit of a let-down, huh."
+This honestly feels like a bit of a letdown, y'know?"
 }
 [sha:8e8324b1b17abc5e16c69049f7850ffb2727f9ed]{
 -- Page 432, Offset 19340.
 -- むむ、とシスターは不満げに首をかしげる。
-The sister grumbles and tilts her head in dissatisfaction.
+// Body language changed to make a bit more sense in EN
+Grumbling, the nun shakes her head in disappointment.
 }
 [sha:704c4780d55f6314875fee320e2b453c4c4afda7]{
 -- Page 432, Offset 19341.
 -- 即興の作り話で釣ったにしては中々の成果だった。本国ならこうはいかない。一ヶ月ほどの時間をかけて広めた甘い汁でも、誘い出される獲物の数は２人か３人が限度だろう。
-Still, it was a rather excellent result for an improvised cover story. Back home, this wouldn't work at all. Even if she spent an entire month sprinkling delicious bait around, it'd only lure two or three of them in at most.
+Still, this is a pretty good turnout for a hoax she cobbled together on the fly.
+ Something like this would never have worked back where she came from.
+ She'd have be lucky to get two or three of them at most,
+ even if she spent an entire month carefully laying the bait.
 }
 [sha:f5675d4d669f2e07fb86f65ed419a541db2b7cc1]{
 -- Page 432, Offset 19342.
 -- それが14人も集まった。この国は都市構造だけでなく人間性まで<簡潔|イージー>で笑ってしまう。
-Fourteen people are gathered here. She laughs at how easy, not only the structure of the city, but even the nature of the humans in this country are.
+Instead, she managed to net fourteen of them.
+ It isn't just the urban fabric that's simple here, but the people themselves.
+ She can't help but laugh.
 }
 [sha:8fd4b484d471fd81dd91e66c6415545d11456c7f]{
 -- Page 433, Offset 19343.
 -- 「おっと、いま１匹潰れたからあと13匹よね。
 // 匹 is a counter for small animals
-"Whoops, I just smashed one, so that's thirteen of you creatures left.
+// Chains off offset 19338.
+"Whoops, I just squished one, so I guess that makes %{i}thirteen%{/i} of you animals.
 }
 [sha:ecd4e3db1bea82e1d7e754d4c000988262759a25]{
 -- Page 433, Offset 19344.
 -- んー、ゲンが悪いからもう１匹潰しておこっか」
-%{i}Ngh%{/i}, that's a bad omen. Let's smash another one then?"
+// ゲンが悪い as in 縁起が悪い, pretty sure this is because of unlucky 13
+Hmm, that's an unlucky number, guess I'd better squish another one."
 }
 [sha:f12f895647d790c8a844985384bfe8b7dcd108bf]{
 -- Page 434, Offset 19345.
 -- 振るわれる２メートルの凶器。
-She swings her two-meter weapon around.
+Her two-meter-long weapon swings through the air.
 }
 [sha:461aa79a20e6ad529b8cb60d35ce98cc848f586f]{
 -- Page 434, Offset 19346.
 -- 槍斧はなんの躊躇もなく、満足に動けなくなっていた若者の頭に滑り落ち、ボコン、と腐った<南瓜|かぼちゃ>を叩くような音を立てた。
-Without hesitation, the halberd falls upon the head of a young man, rendered unable to move properly, and crushes it with a popping sound reminiscent of that of a rotten pumpkin.
+// https://www.youtube.com/watch?v=4aeETEoNfOg
+In the blink of an eye, the halberd comes crashing down on the head of a young man who didn't move out of the way in time.
+ His skull splits with the same hollow %{i}thunk%{/i} of smashing a rotten pumpkin.
 }
 [sha:48ebedc9444f9848a650cf4a4d504ddda0bbd958]{
 -- Page 435, Offset 19347.
 -- “ひ―――ひぃぃいいいぃぃぃいい！！”
-'Haaaaaaaaaaaaaaaaaaaa!!'
+// Voiced
+"E-Eeeeeeek!!"
 }
 [sha:9fc4d1b6cf80b29683768c2997577f3a088b575f]{
 -- Page 435, Offset 19348.
 -- <人|・><間|・>の悲鳴があがる。
-The %{i}humans'%{/i} screams reverberate.
+A %{i}human%{/i} shriek rings out.
 }
 [sha:2fe104c1d219cc63421010a02c04a25dcdde9da3]{
 -- Page 435, Offset 19349.
 -- 集まった男女は大部分が二十代前半の若者だった。
-For the most part, the men and women gathered were in their early twenties.
+For the most part, the men and women gathered here are in their early twenties.
 }
 [sha:759bfdf6a5d68644539ff49e407307bc9c8f450e]{
 -- Page 435, Offset 19350.
 -- 血に染まった“今まで顔も知らなかった仲間”から、放射状に拡散していく。
-They were spread out radially from their blood-stained comrade, who they had never met until now.
+// Assuming it is the screaming that 拡散s from the center here
+The screaming ripples outward,
+ starting with those who were closest to their now blood-stained comrade,
+ who they'd never even met before tonight.
 }
 [sha:720d8dfb230f77f98ab5f5788b5a302721c36187]{
 -- Page 435, Offset 19351.
 -- その有様を満足げに眺めながら、シスターはゆっくりと足を踏み出した。
-Gazing with satisfaction at the scene, the sister slowly walks forward.
+Gazing with satisfaction at the scene, the nun slowly walks forward.
 }
 [sha:953ff55e847ef350db62ae0f360f0f965c1ae2b6]{
 -- Page 436, Offset 19352.
 -- 「あらあら。危機感のないいい子ちゃんばかりなのに、こういう時の反応はどこの国でも一緒なのね。
-"Oh my, you may very well be nice kids with no sense of danger, but at times like these, you're all the same, regardless of the country.
+"My oh my.
+ You may all be good little boys and girls with no sense of danger,
+ but it seems that the reaction at a time like this is the same no matter which country you're from.
 }
 [sha:ad8ac9d76e8917cabb1e238167af4f766fd3824f]{
 -- Page 436, Offset 19353.
 -- 真夜中の台所に集まったネズミみたい。電気がついた途端、我先にと逃げ出すんだけどぉ……ほら可哀想、こんな風にネズミ捕りに捕まって、あっさり踏みつぶされちゃうの♡」
-You're like kitchen rats in the dead of night. The instant the lights come on, you all scurry to save yourselves. Look, you poor thing, caught in a mousetrap and simply squashed by my foot ♡"
+You're like rats scampering around the kitchen in the dead of night.
+ The instant the lights come on, it's every man for themselves.
+ After all, if you get caught in a mousetrap like this poor soul, I'll crush you like a bug ♡"
 }
 [sha:47333a150b121f58543b38d1016f009cd63fa502]{
 -- Page 437, Offset 19354.
 -- 三度目の血しぶきが夜を濡らす。
-A third spurt of blood splashes through the night.
+A third spurt of blood spatters the night.
 }
 [sha:c776d24a8eae3adc8d8eb900e2854c34bcb60935]{
 -- Page 437, Offset 19355.
 -- 鉄塊は身近にいた若者のひとりに狙いを定め、脳天に向かって振り下ろされた。
-The lump of iron sets its sight on a nearby young man and is swung down on his head.
+// Agency lumped to be all spear
+The lump of iron sets it sights on a nearby young man, and plummets toward his head.
 }
 [sha:400beecb6899cc03fd843fca50369a1ccbe41196]{
 -- Page 437, Offset 19356.
 -- 今度のは威力が大きい。頭蓋は跡形もなくはじけ飛び、刃は首から胴体の中心にまで到達していた。
-This time, it was swung with force. His skull is blown off without a trace, and the blade sunk from his neck all the way to the center of his body.
+This time, it was swung with force.
+ His skull is smashed to smithereens but the blade keeps going,
+ plowing through his neck and finally coming to rest in the middle of his torso.
 }
 [sha:f65798af4a3ec8e0b6c949f92f667213cc507328]{
 -- Page 438, Offset 19357.
 -- 「はーい、注目ー。これからお姉さんが害獣駆除をするワケだけど、変な勘違いされるとイラッとくるのであらかじめ説明しておきますねー」
-"Attention please! Onee-san is gonna do some pest control, but I'll get pissed if you guys have any weird misunderstandings, so I'll give a heads-up."
+"%{i}Yoo-hoo%{/i}, attention please!
+ Onee-san is gonna do some pest control, but let me lay some ground rules first so you don't do anything stupid."
 }
 [sha:6e9e665aa9a96f83278a6ae59e412ce938acdc80]{
 -- Page 439, Offset 19358.
 -- 「まずはこの大部屋。結界を張ったので貴方たちは絶対に逃げられません。窓から出ると溶けるから注意してね。
-"First, about this large room. I erected a barrier, so it's absolutely impossible to escape. If you go through the windows, you'll melt, so do be careful.
+"First, about this room:
+ I've erected a Barrier around it, so it's impossible for you to escape.
+ If you try jumping out the window you'll melt, so be careful okay?
 }
 [sha:cbfcf1654b6bff5ac7e36accbd11c771db3e6a96]{
 -- Page 439, Offset 19359.
 -- 次にわたし。何があろうと一匹も見逃さないのでわたしに命乞いをしても意味はありません。
-Next, about me. No matter what happens, I won't let any of you creatures go, so begging for your lives is pointless.
+Second, about me:
+ Under no circumstanced will I let any of you vermin off the hook,
+ so don't waste your time begging me to spare you.
 }
 [sha:bf36496be40a68dca691197a54cd2a3a83202cbe]{
 -- Page 439, Offset 19360.
 -- 最後に貴方たち。助けを呼ぶ自由だけはあるので、助かりたかったらわたしにではなく神さまにお祈りしてください。
-Finally, about you guys. You have the freedom to beg for help, but if you do so, pray to God, not to me.
+Finally, about you guys:
+ You can beg for help all you like, but if you want to be saved don't pray to me――pray to god.
 }
 [sha:a883d6fde811e03ab5206bf2fc795d1a997f6f69]{
 -- Page 439, Offset 19361.
 -- 本当に神さまがいて、貴方たちにそれだけの価値があるのなら奇蹟が起きて逃げられるよう、世界は作られている筈です」
-If God really does exists, he'll bring about a world where a miracle happens, and you guys manage to escape, but only if he deems you worthy."
+If there really is a god, and you lot are actually worthy of being spared,
+ I'm sure he'll bring about some miracle and allow you to escape."
 }
 [sha:6d29a0ccc5cd2ae3555122c3f082aef70883d45d]{
 -- Page 440, Offset 19362.
 -- よっ、と肉塊から槍斧を引き抜く血まみれのシスター。
-The blood-smeared sister removes her halberd from the chunk of meat.
+With a heave, the blood-smeared nun dislodges her halberd from the pile of meat.
 }
 [sha:4c1258667a2da7fc1876ed784c30f46b884fdc8a]{
 -- Page 440, Offset 19363.
 -- かくして、若者たちの混乱は最高潮に達した。
-The mayhem of the youths thus reaches its apex.
+At this, the panic of the assembled youths reaches a fever pitch.
 }
 [sha:3396abee649718d40d1f740b16aef26bb0aa9681]{
 -- Page 440, Offset 19364.
 -- 彼らはシスターから離れようと四方の壁に走るが、その足がうまく動かない。
-They scramble in all directions trying to escape the sister, but their legs are unable to move adequately.
+They scramble in all directions trying to escape the nun,
+ but their legs are unsteady.
 }
 [sha:b7554adc56457ec56c78dd5121399cd9369bb2b4]{
 -- Page 441, Offset 19365.
@@ -238,28 +281,38 @@ An anti-vampire Barrier has already been erected here.
 [sha:bd6f328b0ef560178614b2a882e5e04372dc3ec7]{
 -- Page 441, Offset 19366.
 -- 本当の人間であれば何の効果もないが、階梯の低い死徒にとっては海の底にいるようなものだ。満足に走る事もできず、秒単位で身体が鈍化していく。
-It would have no effect on a real human, but to low-ranked vampires, it feels like being in the bottom of the ocean. Unable to run as they wish, their bodies are weakening by the second.
+It wouldn't have any effect on a real human,
+ but for a low-ranking dead apostle it feels like being stuck at the bottom of the ocean.
+ They can't even run away, and their bodies continue to weaken by the second.
 }
 [sha:74c4d341afe54476b94f82b1d1aa2fe5f2bc7353]{
 -- Page 442, Offset 19367.
 -- “なんで!?　指定額は用意しただろう!?　なんで逆に殺されるんだよ!?”
-'Why?! I paid the requested money, no?! Why I am the one being killed instead?!'
+// Voiced
+"Why?! I paid what you asked, didn't I?! Why are you killing me instead?!"
 }
 [sha:ee853c1073d0bbcb948c14f22113a1aae6b9dde9]{
 -- Page 442, Offset 19368.
 -- “やめ、やめて、頭はやめ―――脚も止めてよぉ！？
-'St-Stop, not the hea―――Please not my legs!
+// Voiced
+"S-Stop, not my hea――no, not my legs either?!
 }
 [sha:136cb04cbd6289860e2c8e5cc9060f3678730830]{
 -- Page 442, Offset 19369.
 -- いたい、なんでこんなに痛い、の!?　う、うそ、やめて、そこから引っ張られたらサカナみたいにまっぷたつになっちゃあああああああ！”
 // what the actual fuck
-It hurts, why does it hurt so mu...ch?! N-No, stop, if you pull me there I'll be cut in half like a fiiiiiiiiiiiiiiish!'
+// 二枚下ろし time. Tweaked to a nearby en expression
+// Voiced
+It hurts, why does it hurt so mu...ch?!
+ N-No, stop, if you pull on that you'll gut me like a fiiiiiiiiiiiiiiish!"
 }
 [sha:ad1eb0858e9689ae80b383572c1200656410807b]{
 -- Page 443, Offset 19370.
 -- “うそ……うそですよね先生……？　助けてくれるって……僕だけは助けてくれるっていったじゃないですか。いい子にしていれば見逃してくれるって……！”
-'No way... This can't be happening... Sensei, please help me... Didn't you say that I was the only one you'd spare? You said you'd let me off the hook if I was a good boy...!'
+// Voiced
+"No way... You're kidding, right, Sensei...?
+ You said you'd help me, right? That you'd at least spare %{i}me%{/i}?
+ You said you'd let me off the hook if I was a good boy...!"
 }
 [sha:55d6a3ef3ef476c6a45f375da86b7d4e943a0712]{
 -- Page 444, Offset 19371.
@@ -269,32 +322,39 @@ The smile hasn't faded from her face.
 [sha:cbda7178dd5580d00898dc1f2590615eb62d0d9a]{
 -- Page 444, Offset 19372.
 -- ねっとりと赤い糸を垂らす槍斧を持ち上げ、次の獲物の頭蓋骨に振り下ろす。
-She lifts her halberd, from which a sticky red thread hangs, and drops it down on the skull of her next prey.
+Sticky red threads cling to her halberd as she hoists it aloft again,
+ then brings it crashing down on the skull of her next target.
 }
 [sha:028e8b3efa481f0a94986b78ced5c72d8bb4259b]{
 -- Page 444, Offset 19373.
 -- 呼吸を乱しながら。
-Breathing heavily―――
+Her breathing is frenzied.
 }
 [sha:f4ff2fc67aff990d758e11f916786b821b095b85]{
 -- Page 444, Offset 19374.
 -- その一撃によって絞り出される悲鳴に興奮するように。
-As though excited by the shriek wrought out by that one blow.
+It's as though she's been driven wild with excitement by the scream that blow wrung from her victim.
 }
 [sha:ab0da22afcb9ca07e465d091d00f2359dabed977]{
 -- Page 445, Offset 19375.
 -- “早くドア開けなさいよ、殺されるじゃない……！
-'Quick, open the door or we'll be killed!
+// Voiced
+"Hurry up and get that door open or we're dead...!
 }
 [sha:2fbe8208fbcda01168968c462d2f4579c39f925e]{
 -- Page 445, Offset 19376.
 -- ああもうグズが、モタモタしてんじゃねえよ！　あんな女、外にさえ出ればカンタンに”
-Ahh you shithead, get a move on! If we get outside, we can easily deal with that woma―――'
+// VA is SCREECHING this one, give that extra a raise
+Ugh, get a fucking move on you slowpoke!
+ We can handle that bitch if we can just get out of here!"
 }
 [sha:0cc8cd6bd04bfc4a6da518356ac52368c332e158]{
 -- Page 445, Offset 19377.
 -- “い……いぃぃ、無理、無理ですぅ……！　ドアに触ると指が溶けて、いやあああ、肘、肘まで崩れちゃう、アタシ溶けちゃってますぅ！”
-'Haaaaa, I can't, I can't...! Just touching the door is making my fingers melt, noooo, my elbow, even my elbow is falling apart, I'm meltiiiing!'
+// [Wicked witch of the west voice]
+"%{i}Aghhh%{/i}, I can't, I can't...!
+ I touched the door and now my fingers are melting, noooo,
+ my elbow, my elbow's gone now too, I'm meltiiiing!"
 }
 [sha:2cabdf5a51a7341035a6fdf238cc444ce1a66e68]{
 -- Page 446, Offset 19378.
