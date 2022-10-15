@@ -359,33 +359,43 @@ Ugh, get a fucking move on you slowpoke!
 [sha:2cabdf5a51a7341035a6fdf238cc444ce1a66e68]{
 -- Page 446, Offset 19378.
 -- “ひぃ……やめ、やめて、たすけ―――助けて、助けて神さま、助けて……！”
-'Haa... stop, stop, help―――Help me, help me please God, help...!'
+"%{i}Eek%{/i}... stop, stop, help――Help me, help me please God, help...!"
 }
 [sha:000dc8425fcc6be3d2999e2479c8e12d081e1c1e]{
 -- Page 446, Offset 19379.
 -- “ひでぇ……祈ってたのに、ちゃんと神さまに手を合わせて祈ってたじゃねえか！　この人殺し……！　てめえのどこがシスターだ！”
-'How awful, even though I prayed! I folded my hands and I prayed to God the right way! You murderer! What the hell kind of sister even are you?!
+"How could you... I prayed!
+ I put my hand together and prayed like I was supposed to!
+ You murderer...!
+ How the fuck are you a nun?!"
 }
 [sha:6ef2a4885b461a5512a3c70e6ce5d72317203906]{
 -- Page 447, Offset 19380.
 -- 無防備な背中を切り裂き、目を血走らせてビチビチ動く背骨を抉り出そうとしたところでシスターは手を止めた。
-Tearing up the powerless youths from the back, the sister with bloodshot eyes, ready to gouge out their splish-splashing spines, suddenly stops.
+// That's a lot of descriptors in one sentence geez
+The nun with bloodshot eyes,
+ who was just about to slice open the youth's defenceless back and rip out their still dripping spine,
+ suddenly stops.
 }
 [sha:cb619c16a41932f3dba80154bed160bdfe6d9cb2]{
 -- Page 448, Offset 19381.
 -- 「キミ、いま妙なコト口走らなかった？
-"You there. You just said something strange, didn't you?
+"You there. What did you just say to me?
 }
 [sha:3391440f7d7035430039cc7628998586c7c13d1e]{
 -- Page 448, Offset 19382.
 -- 人殺し？　人殺しってなに？　アンタたちみたいな害獣を殺す事が人殺し？　今までさんざん人間を食い物にしてきたクセに、自分のコトを人間と思ってたの？」
-Murderer? Who's a murderer? Killing vermin like you is murder? Even though you've been mercilessly preying on humans, do you really still consider yourself one?"
+I'm a murderer?
+ Do you even know what murder means?
+ You seriously think killing vermin like you counts as murder?
+ That you can call yourself a human after you've preyed on so many of them yourself?"
 }
 [sha:fc47ed0d91912ea1225b950fbef8c6970a16d74a]{
 -- Page 448, Offset 19383.
 -- “ひぃ……ひぃいい、ぎぃぃいいいいいいい！？　やめ、やめて、すみませんごめんなさい、あやまります、あやまりますからああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ！”
 // Very important to have the same number of あ and a. Editors, do your job!
-'Haa...haaaaaa, gyarghhhhhhhhhh?! Sto, stop, I'm sorry, so sorry, I apologize, I apologize, so pleaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaase!'
+// Fucking had to go rewrite the text injector because of this line
+"Haa...haaaaaa, gyarghhhhhhhhhh?! Sto, stop, I'm sorry, so sorry, I apologize, I apologize, so pleaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaase!"
 }
 [sha:0b60a3a49cbbd1c602172f946c2d4dff0b475bd7]{
 -- Page 449, Offset 19384.
