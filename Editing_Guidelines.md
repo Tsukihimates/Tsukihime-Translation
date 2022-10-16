@@ -37,6 +37,7 @@ This is a <u>difficult exercise</u>. Whenever you're unsure of what to do with a
 - In all sentences, the word 'anyway' should be used instead of 'anyways'
 - All choices should be prefaced with a single space (e.g. `C:> Choice one`) so that choices beginning with ... are not merged with the choice numbering dots
 - All choice options should start with a capital letter
+- The general audience for this VN is expected to have at least passing familiarity with Japanese honorifics, and so common suffixes should be preserved. This includes -kun, -chan, -san, -sama and -sensei. Rarer honorifics, such as 氏, are to be localized as Mr. / Ms.
 
 ***
 
