@@ -75,7 +75,7 @@ Arach has many different designators. For consistency, use:
 阿良句医師 - Dr. Arach
 阿良句博士 - Prof. Arach
 阿良句女史 - Ms. Arach
-阿良句氏 - Arach-shi
+阿良句氏 - Ms. Arach (-shi is not a widely recognized honorific)
 
 
 ### Other characters
