@@ -1,12 +1,16 @@
 # Editing guidelines
 
-In this document, we define some semantic, syntaxic and and grammatic guidelines concerning the speech patterns of some *Tsukihime Remake* characters that Nasu wrote specifically to be *excentric*, be it in speech or behavior, compared to others. That's is why it is particularly important to try to convey as much as possible their quirks in english.
+This document provides an outline of some of the broad guidelines and
+specific rules to be followed when localizing the Tsukihime remake.
 
-The first general rule guiding your translation/editing should always be to try to convey meaning and atmosphere over exact structure. More precisely, you should always try to stick as close as possible to japanese for the structure of the sentence and the vocabulary used, unless a direct translation is not possible. This can be due in particular to unique idioms or references, to some vernacular grammatical or syntaxic element or to Nasu *unconventional*, to say the least, use of furigana/ruby. In this case, you must prioritize the precise meaning, feeling and emotion conveyed by the sentence over the exact same structure: when the player reads a sentence said by a fancy character, he should wonder **WHY** the character is saying it rather than **WHAT** the sentence means.
+As a general rule, the translated text should strive to retain all meaning
+present in the Japanese original, while still being rendered in such a way that
+it reads like natural English prose. These two goals are naturally in some
+tension, and finer decisions should be made on a case by case basis to ensure
+that tone, dramatic pacing of sentence structure, and other concerns are
+appropriate to the context at hand.
 
-This is a <u>difficult exercise</u>. Whenever you're unsure of what to do with a particularly complex sentence, the best course of action would be to collect as much raw information as possible from the Japanese sentence and then ask for help in the #editing channel, so the other editors can think together on how convey what should be <u>conveyed the best</u>.
-
-## General guidelines
+## Hard and fast rules
 
 - When a sentence starts with a 'stutter' (e.g. 「そ、そんなコト...」), then the
   duplicated translated sentence should keep case (e.g. N-No, that's not...).
@@ -39,9 +43,6 @@ This is a <u>difficult exercise</u>. Whenever you're unsure of what to do with a
 - All choice options should start with a capital letter
 - The general audience for this VN is expected to have at least passing familiarity with Japanese honorifics, and so common suffixes should be preserved. This includes -kun, -chan, -san, -sama and -sensei. Rarer honorifics, such as 氏, are to be localized as Mr. / Ms.
 
-***
-
-
 ## Specific characters
 
 ### Shiki(s)
@@ -55,13 +56,11 @@ When translating a particular reference to a Shiki, format the name accordingly:
 
 Noel tries to sound *young* and *appealing*, and at the same time a bit provocative, sometimes seducing. To convey this character, we will use a vocabular and grammar that can be sometimes a bit slangish or colloquial (e.g. "ain't", "Nah", etc.), we'll do heavy elision of words when necessary, but not too frequently (e.g. "y'know", etc.) and a bit provocative general tone.
 
-Once she switches personality (going for the *nun mode*) she will not use elisions at all.
-
 **<u>Sample sentence</u>**: "Huh? What's up with this atmosphere? Everyone suddenly froze up.. What's that, I'm a Basilisk woman? # Nah, the metaphor ain't clear, is it. Erm, in proper japanese, I'd be that TV haunting girl? But Sensei's name isn't Sadako y'know" (*filename 02_00_ARC02_1_1, page 6, line 2941*)
 
 ### Arihiko
 
-Arihiko is a thug, but he's the usual cliché of the goofy thug with a golden heart helping the protagonist. In order to convey this and not to overstep Noel's speech pattern, we will use in his lines funny or weird idioms/expressions (they can be a bit old for example, or he can have an off-beat style), but a the same time some cursing ("what the hell", etc.) and sometimes elisions.
+Arihiko is a thug, but he's the usual cliché of the goofy thug with a heart of gold helping the protagonist. In order to convey this and not to overstep Noel's speech pattern, we will use in his lines funny or weird idioms/expressions (they can be a bit old for example, or he can have an off-beat style), but a the same time some cursing ("what the hell", etc).
 
 **Sample sentence**: "Tohno's picking up chicks? What the hell is going on? I thought you weren't interested in 'em." (*original VN*)
 
@@ -77,36 +76,6 @@ Arach has many different designators. For consistency, use:
 阿良句博士 - Prof. Arach
 阿良句女史 - Ms. Arach
 阿良句氏 - Ms. Arach (-shi is not a widely recognized honorific)
-
-
-### Other characters
-
-Here are some general specificities for other characters
-
-## Contractions
-
-All characters use contractions. However, the frequency of use and general
-'tone' of each character is different. The following characters may be more
-prone to casual speech:
-
-- Shiki
-- Arcueid
-- Ciel
-- Mio
-- Saiki
-- Satsuki
-- All other students and teachers
-
-Whereas these characters may tend to speak more formally:
-
-- Akiha
-- Hisui
-- Vlov
-- Roa
-
-For these characters, it will really depend on the situation:
-
-- Kohaku
 
 ### Ruby/furigana/gloss
 
@@ -155,18 +124,7 @@ When ellipses are used at the beginning of a sentence, do not leave a space.
 
 ### Special Terms
 
-Vampire ranks:
-- 死者: The Dead. In Japanese, this is used to refer to both Rank I vampires,
-      and also the group containing all vampires in ranks I to III. When
-      translating this word in a context where the use is confusing, then use
-      'The Dead' to refer to the group, and 'Corpse' to return to Rank I
-      vampires.
-- 屍鬼: Ghoul
-- 不死: Undead
-- 夜属: Nightkin
-- 夜魔: Nightmare
-- 死徒: Dead Apostle
-
-Vampire husbandry related terms:
-- 親基: Usually parent vampire / parent.
-- 親: When used in quotes in the source text, 'Sire'
+The game contains a number of special terms that should be translated with care
+and consistency. A full dictionary of these terms, their context, and their
+capitalization rules can be found on the main
+[Tsukihimates website](https://tsukihimates.com/glossary/)
