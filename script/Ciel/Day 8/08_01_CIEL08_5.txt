@@ -992,7 +992,7 @@ Her behavior is extremely suspicious.
 -- Page 485, Offset 19485.
 -- ……司祭代行も彼女の経歴はご存じでしょう？　彼女は<十五|キャーンズ>です。なら、いま拘束すべきはわたしではなく……！」
 You're aware of her history, aren't you, Acting Presbyter?
- That woman is <Quinze|F i f t e e n   >!
+ That woman is <Quinze|F i f t e e n  >!
  %{i}I'm%{/i} not the one you should be trying to lock up right now...!"
 }
 [sha:a996577b91a2b37c4d3bbe65494567adc48eeba8]{
@@ -1012,7 +1012,7 @@ It's fine, she is who she is.
 [sha:954b120245eb75674201907dab229ffd855865cd]{
 -- Page 487, Offset 19488.
 -- 悪態しかつかない彼にとっては珍しい、大人びた声。
-For someone who was constantly swearing, his tone was surprisingly mature.
+For someone who's constantly swearing, his tone was surprisingly mature.
 }
 [sha:aad097e03db2edbf29dd0a30859846e9193d9243]{
 -- Page 487, Offset 19489.
@@ -1057,7 +1057,7 @@ After checking that the boy is definitely gone,
 -- Page 490, Offset 19495.
 -- 「なによあのガキ……！　なんなのよ言いたい放題！
 "What's with that brat...!
- Where does he get off, running his mouth like that!
+ Where does he get off, running his mouth like that?!
 }
 [sha:e30519101f5706e378c720977584f3e9c1ae0e94]{
 -- Page 490, Offset 19496.
@@ -1092,7 +1092,7 @@ Panting heavily, she releases her grip on the halberd.
 -- Page 491, Offset 19501.
 -- 力任せに暴れすぎた結果だ。もともと彼女には槍斧を振るうだけの筋力はない。槍斧に宿った『軽量化』の秘蹟を一撃ごとに使わなければ有効打にはなりえない。
 It's only natural she'd be exhausted after flailing it about as hard as she did.
- She doesn't actually possess the strength necessary to wield that halberd in the first place.
+ She doesn't actually possess the strength necessary to wield it in the first place.
  She'd never be able to hit anything with it if she didn't activate the sacrament of 'Weight Reduction' it carries for every swing.
 }
 [sha:c85589f9352950c9b173d08bdf7e41ed77cadc00]{
@@ -1143,7 +1143,7 @@ A nightmarish seizure takes hold of her.
 [sha:5d37e77bbde676249e90dea6f40fea9c7733adfb]{
 -- Page 495, Offset 19510.
 -- 「う、ぶっ……！　あ、ああ、あ……！」
-"%{i}Ugh,%{/i} %{i}urghh.%{/i}..! %{i}Aaah,%{/i} %{i}aaargh%{/i}!"
+"%{i}Ugh%{/i}, %{i}urghh%{/i}...! %{i}Aaah%{/i}, %{i}aaargh%{/i}!"
 }
 [sha:8f818c57b40c0f8c04ed020d50d33d44d2a3bc42]{
 -- Page 495, Offset 19511.
@@ -1191,7 +1191,7 @@ Maybe she doesn't even have that long, the weak-willed part of herself whimpers.
 -- Page 498, Offset 19519.
 -- 丸めた背中が張り裂けそうだ。
 // Reading this as the fabric on her back pulled taut / spine sticking through the skin
-She's curled up so tightly the it looks like her back's about to burst.
+She's curled up so tightly that it looks like her back's about to burst.
 }
 [sha:8a7aa20c4460180719f4438d0b72ed95f47539ee]{
 -- Page 498, Offset 19520.
@@ -1223,10 +1223,11 @@ If I do that, I'll be saved.
 [sha:2850eeecbc1975cef08d107a124df714ce343ad0]{
 -- Page 501, Offset 19525.
 -- 「……ええ、そうよノエル。わたしは代行者になった。この為に強くなった。あんなガキにも、あんな女にも、思い通りになんかさせるもんか―――」
+// Second person here since this is kinda a self-addressed pep talk
 "Yeah... that's right, Noel.
- I became an Executor.
- I became stronger for this.
- I'm not going to let some brat, or that woman, tell me what to do―――"
+ You became an Executor.
+ You became stronger for this.
+ You're not going to let some brat, or that woman, tell you what to do―――"
 }
 [sha:57eb3dcdbc995251705ddf5a7acb2fbb9e84ee77]{
 -- Page 501, Offset 19526.
@@ -1236,6 +1237,7 @@ She forces her cold, trembling body to stand up.
 [sha:73e63bac97a6d1636a96605e36a3439623ec226f]{
 -- Page 501, Offset 19527.
 -- シスターは口元にいびつな笑みを貼り付けたまま、腕力だけで槍斧を拾い上げ、一夜かぎりの処刑場を後にした。
+// One night slaughter kinda supposed to be a pun on one night stand, dunno how well it comes across
 A twisted smile plastered across her face,
  the nun lifts her halberd using nothing but her own brute strength and leaves the site of her one-night slaughter behind her.
 }
