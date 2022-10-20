@@ -71,7 +71,7 @@ Well, I guess I am a little short on blood even at the best of times,
 -- Page 242, Offset 15373.
 -- なんだって遠野くんに死徒の寝床なんて教えたんでしょうか、彼女は。いえ、それだけじゃなくヴローヴと直接戦わせるなんて、遠野くんを殺す気だったとしか思えません」
 Why in the world did she tell you where that Dead Apostle was sleeping, I wonder?
- Wait, and that's not all―――she even made you fight Vlov face to face.
+ Wait, and that's not all―――she even made you fight Vlov face-to-face.
  One can only assume she %{i}wanted%{/i} to get you killed."
 }
 [offset:15374]{
@@ -211,7 +211,7 @@ As such, you can't completely kill a vampire by ordinary external means――wit
 [sha:f3bec978a9353f0b46dfa3fffdc2a3bbe2d3e0c6]{
 -- Page 252, Offset 15396.
 -- 復元呪詛―――傷を治療する、ではなく破損した個所を元通りにしようとする時間の逆行。この呪詛を無効にする神秘を<概|がい><念|ねん><武装|ぶそう>と言うんです」
-The Hex of Restoration――it doesn't work by healing their wounds,
+The %{i}Hex of Restoration%{/i}――it doesn't work by healing their wounds,
  but by rewinding time to restore their damaged parts to how they used to be.
  Arcana that invalidate this hex are referred to as Conceptual Weapons."
 }
@@ -239,7 +239,7 @@ To put it in layman's terms, it'd be a 'magical weapon'."
 -- 「『元が人間の吸血鬼』には他により効果的な手段があるので使いませんが、『初めから人間ではない吸血種』を処理する時に使用する、言うなれば奥の手です。
 "We don't really use these against vampires who were originally human,
  since there are other effective ways of dealing with them.
- Instead we save them for when we need to dispatch bloodsuckers who were never human to begin with.
+ Instead, we save them for when we need to dispatch bloodsuckers who were never human to begin with.
  They're a trump card, if you will.
 }
 [sha:9e776f2297a2da3e08a4137f00648a4879dbec40]{
@@ -429,7 +429,7 @@ Oh, but―――"
 -- Page 269, Offset 15434.
 -- “すべてが終われば記憶を消す”
 // No exact backreference
-'Once everything is over I'll erase your memories.'
+'Once everything is over, I'll erase your memories.'
 }
 [sha:c7e85e8d15c58c817321c11cf1f30b0296e9d832]{
 -- Page 269, Offset 15435.
@@ -556,7 +556,7 @@ If I were to come across one of the remaining vampires attacking someone,
 -- Page 278, Offset 15457.
 -- 結構です、と笑って先輩は立ち上がった。
 // Such stunning sibilance
-Senpai says 'splendid', smiles and stands up.
+Senpai says 'splendid', smiles, and stands up.
 }
 [sha:4364766e4acb9956aea9720b0d4b0e7a634da9ba]{
 -- Page 278, Offset 15458.
@@ -567,7 +567,7 @@ It appears our chat has come to an end.
 -- Page 278, Offset 15459.
 -- 先輩は俺を悪夢から解放するように、和室の襖をあけて外に出るように促した。
 // Nightmare given context slightly so it doesn't sound like he hated being in a room with her
-Senpai slides open the door of the room and urges me outside,
+She slides open the door of the room and urges me outside,
  almost as if releasing me from the nightmare of the past few days.
 }
 [sha:0c9089c53186ea0e1fcbcd477356fea3c00c3ac6]{
