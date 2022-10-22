@@ -1,6 +1,8 @@
 [sha:8f92f1eb7e57f7ae5cf87f3b53d232037322b67c]{
 -- Page 10014, Offset 19528.
 -- ……午前零時。誰もが寝静まった深夜、遠野志貴の部屋にこっそり戻ってきた。
+// This file contains some sections spoken in Roa's voice (私) and others spoken in Ciel's (わたし).
+// Roa's lines are to be rendered fully in italics to differentiate. When Ciel refers to the other self, it should be in single quotes ('I', 'me')
 It's midnight... In the dead of night, while everyone else is asleep, I tiptoe back to my room.
 }
 [sha:977d5592a6ae315b18d2f4356da599c2444e2462]{
@@ -169,18 +171,17 @@ The impulses came without any warning,
 [sha:b53f45987bd42aedfb5e905fd59ff83a9dcacf3d]{
 -- Page 513, Offset 19559.
 -- わたしはいつも“気がつけば”そう思っていて、
-// Not 100% sure on this triplet here
-I'd always suddenly come to my senses while immersed in these thoughts.
+Whenever I came to my senses, the thoughts would always be there.
 }
 [sha:8e8fa898028518207dbd4be2257f573ff3bbc353]{
 -- Page 513, Offset 19560.
 -- あともう少しというところで自分の名前を思い出して、
-A few moments later, I'd suddenly remember my own name―――
+And just as I was about to act on them, I'd suddenly remember my own name.
 }
 [sha:d373bcc76f8c989eff13ce1e1adc6ccf24800e66]{
 -- Page 513, Offset 19561.
 -- 喉からでそうな悲鳴と泣き出しそうな顔を両手で覆って、その場から逃げ去った。
-And I'd run away as fast as I could, tears welling up in my eyes,
+When I did, I'd run away as fast as I could, tears welling up in my eyes,
  covering my face and the scream threatening to spill from my throat with both hands.
 }
 [sha:e38b907c0bcf0d4e27021dfbed0485b57e27bfb7]{
@@ -382,123 +383,167 @@ With their crimson blood still clinging to the corners of its mouth like lipstic
 [sha:9d0699c442430a26b510db61be4a99ffe42da218]{
 -- Page 526, Offset 19599.
 -- それはどんな偶然だったのか。
+%{i}
 Just how lucky can one get?
+%{/i}
 }
 [sha:e6dff578ed114ec8a361dbbbff7a12f5b8e4398d]{
 -- Page 526, Offset 19600.
 -- 本来、私が生まれ代わる<器|モノ>はあらかじめ定めたものだった。
 // From here, the 私 of Roa instead of the わたし of Ciel
 // Last part invented so that this reads a bit less awkwardly in EN
+%{i}
 Ordinarily, I decide on which vessel I will be reborn into in advance based on two criteria.
+%{/i}
 }
 [sha:35a8f5cbb3d4bc7be6da028a81f753d2e3b13914]{
 -- Page 526, Offset 19601.
 -- 第一に、その土地の権力者である事。
+%{i}
 Firstly, they should be in a local position of power.
+%{/i}
 }
 [sha:1ab75cbb09982121b51f881adbc47944b32cfb41]{
 -- Page 526, Offset 19602.
 -- 第二に、その一族が特殊な才能を有している事。
+%{i}
 Secondly, they should be from a family that possesses special talents.
+%{/i}
 }
 [sha:cc12efbc678b8cd1bb368e00d0f35128d32249c9]{
 -- Page 526, Offset 19603.
 -- 重要なのは第一条件で、第二条件は補足にすぎない。
+%{i}
 The first condition is the truly essential one, while the second is nothing more than a bonus.
+%{/i}
 }
 [sha:3db481d5afa4a9a6ff0bac1136f108d982c195e5]{
 -- Page 526, Offset 19604.
 -- 第一条件に見合った家柄を探しだし、移転先として設定しておくのが私の最初の仕事である。
+%{i}
 My first task is always to seek out a lineage that meets that condition, and establish them as a transfer destination.
+%{/i}
 }
 [sha:ca7bbf8c51d087cdaa6f95bd5ea6eb2524b8d112]{
 -- Page 527, Offset 19605.
 -- ……しかし前回の私はそれを決定しきる前に姫に討たれてしまった。私はやむを得ず急造の、占星術だけを頼りに不完全な転生を行った。
+%{i}
 Unfortunately, my previous incarnation was destroyed by the princess before I could make my final decision.
  As a result, I was forced to conduct a hasty and incomplete reincarnation, relying solely on astrology.
+%{/i}
 }
 [sha:f4ea722ead96b8c36cea0924fa42e7bc791e03d8]{
 -- Page 528, Offset 19606.
 -- その結果がこの体だ。私は社会的地位の低い、中流家庭の子供として生を享けてしまった。
+%{i}
 That was how I ended up with this body.
  The child of a middle class family of unremarkable social standing.
+%{/i}
 }
 [sha:90506025b4f3e8cf7a719fd638937bddbbe5bc43]{
 -- Page 528, Offset 19607.
 -- こうなると人間として街を掌握する事は難しい。いや、姫に見つかるまでの数年で権力を得る事は不可能に近いだろう。
+%{i}
 With this starting hand, it'd have been difficult to take control of the town as a human.
  Add in the fact that I only had a few years before the princess found me, and it seemed nearly impossible.
+%{/i}
 }
 [sha:5a6815b12264dbd85026d76078dd6b76749eed38]{
 -- Page 528, Offset 19608.
 -- だが私は悲観しなかった。
+%{i}
 But I did not lose heart.
+%{/i}
 }
 [sha:1058b94a5931a9cda13e1e611b5618a021746a36]{
 -- Page 528, Offset 19609.
 -- むしろ、体には閃光のような歓喜があった。
+%{i}
 On the contrary, I felt a flash of delight.
+%{/i}
 }
 [sha:93358a72caa1eb76da50f200e2438ab72f8e458b]{
 -- Page 529, Offset 19610.
 -- 私は『家柄』と『才能』を天秤にかけ、常に『家柄』を選んできた。
+%{i}
 When weighing whether to opt for lineage or talent, I had always chosen lineage.
+%{/i}
 }
 [sha:cf5b5ae2b25b665022940bde49d7f70cc39e7a88]{
 -- Page 529, Offset 19611.
 -- その結果、真に優れた肉体には出会わなかった。
+%{i}
 As a result, I had never come across a truly superior body.
+%{/i}
 }
 [sha:4c45fb9024e0f4c415c047c7995952576dbb488f]{
 -- Page 529, Offset 19612.
 -- だが今回は違う。この肉体が持つ魔術回路の強靭さ、その魔力生成量は凡百の魔術師を上回る。
+%{i}
 But this time was different.
  The strength of this body's Magic Circuits,
  and the amount of magical energy it was capable of producing,
  were head and shoulders above those of an ordinary mage.
+%{/i}
 }
 [sha:b8f2539826f6dd75e780ec950a5fa4781866a2e7]{
 -- Page 529, Offset 19613.
 -- 一流といわれる魔術師たちですら、この肉体の前では<塵芥|ちりあくた>に等しい劣化品だ。
+%{i}
 Even mages at the top of their field would look like rusted out clunkers when compared to this body.
+%{/i}
 }
 [sha:65689013038c196e2efa2a62d4cdcbbd8875294e]{
 -- Page 530, Offset 19614.
 -- 私は歴代の私の計算高さを<嗤|わら>った。
+%{i}
 I sneered at how materialistic my previous selves had been.
+%{/i}
 }
 [sha:9d45ffd18fc7b44f098c91442b3d7f08d49f92dc]{
 -- Page 530, Offset 19615.
 -- 条件は逆にするべきだったのだ。
+%{i}
 I'd had my priorities completely backwards.
+%{/i}
 }
 [sha:a106b89b86a175544a9b72f565a452e36021ca57]{
 -- Page 530, Offset 19616.
 -- 権力なぞ時間をかければ手に入る。
+%{i}
 Power and influence can be obtained with time.
+%{/i}
 }
 [sha:272f54ef5ee09e83ae7f1f97dca522f0f61fe5ba]{
 -- Page 530, Offset 19617.
 -- だが真に優れた肉体、生まれながらの宝石には、それこそ主の奇蹟でなければ出会えない。
+%{i}
 But a truly outstanding body, a natural born gem, is a miracle only the Lord can produce.
+%{/i}
 }
 [sha:41eaea0f3f668c605b6746d7a77ac5349ec2a587]{
 -- Page 530, Offset 19618.
 -- こと■回目の転生にして、私はようやく、その真実にたどり着いた。
+%{i}
 After reincarnating ■■ times, I had finally hit upon the truth.
+%{/i}
 }
 [sha:ea2d9bf95aa65d21c3dc460fb2c9dfe16902fe07]{
 -- Page 531, Offset 19619.
 -- 目覚めた私は、ごく自然に、水が地面を浸食していくように、ひそやかに街を死都に変えていった。
+%{i}
 After I'd awoken, I surreptitiously transformed this hamlet into a necropolis,
  as naturally as water slowly carves a path through the earth.
+%{/i}
 }
 [sha:9827f28c65da9d73ee2a6fa993ed63b3dab13448]{
 -- Page 531, Offset 19620.
 -- その手法は今までのような乱雑なものではなく、一度にあまり血を流さない穏やかなものだった。
-In contrast to the haphazard methods %{i}I'd%{/i} employed before,
- I did it very gently,
+%{i}
+In contrast to the haphazard methods I'd employed before,
+ my new self did it very gently,
  careful never to spill too much blood at once.
+%{/i}
 }
 [sha:3afb0a1f4788c4a3e1ecd41e7e6640ee6ca7fb36]{
 -- Page 532, Offset 19621.
@@ -533,34 +578,44 @@ I gaudily embellished it with jams, jellies, and meat.
 -- Page 533, Offset 19626.
 -- 私としては無駄な手間ではあったが、仕方がない。
 // 私 now
+%{i}
 It felt like a waste of time and effort to %{i}me%{/i}, but so be it.
+%{/i}
 }
 [sha:ab6c799b089b2104a53a01cba6ba2b2d85e9b6ad]{
 -- Page 533, Offset 19627.
 -- 転生した『私』という意識は、それ単体では存在できない。
+%{i}
 The reincarnated consciousness that constitutes 'me' cannot exist on its own.
+%{/i}
 }
 [sha:92f411334cbbfcf987acc7289d8fa00b81140d07]{
 -- Page 533, Offset 19628.
 -- 『私』は知識と方向性にすぎない。
+%{i}
 'I' am nothing more than knowledge and a directive.
+%{/i}
 }
 [sha:c4e1b1154d509f1d0b6fe4500babc65e61a5482b]{
 -- Page 533, Offset 19629.
 -- その代の私の『性格』は、その肉体が育成してきた人格や価値観を基準として再構成される。
+%{i}
 'My' personality is reconstituted with each generation,
  moulded by the character and values nurtured in the body of the host.
+%{/i}
 }
 [sha:f95d565aa31543fbe60435337463403789650b5f]{
 -- Page 533, Offset 19630.
 -- 肉体の所有者は『私』であっても、その思考手順、思考水準までは完全に変わりはしない。
+%{i}
 Even though 'I' become the owner of the body,
  its thought patterns and critical abilities do not change entirely.
+%{/i}
 }
 [sha:b83b9c7f7bf172a85655fc1bac56bb05e27dcb58]{
 -- Page 534, Offset 19631.
 -- つまり―――わたしの肉体は『私』という転生者のものだったけれど、意識はもとのわたしのままだった。
-// this わたし　私 stuff might be a bit too convoluted in en
+// Back to Ciel
 Which is to say: though my body may have belonged to the reincarnated 'me', my consciousness was still mine.
 }
 [sha:367a9245ed0966be7de7f2c99adbef5130e566db]{
@@ -683,12 +738,12 @@ The woman in white arrived alongside the crimson moon.
 [sha:88fdf23db34a0b74208cd8afcb54a86700f2da30]{
 -- Page 540, Offset 19655.
 -- わたしは知らない。
-I didn't recognize them.
+I didn't recognize her.
 }
 [sha:5be741aa7a0e31fdf2d949b656de59d290dc9af3]{
 -- Page 540, Offset 19656.
 -- けれど『私』はそれが誰であるか解っていた。
-But 'I' understood who they were.
+But 'I' understood who she was.
 }
 [sha:4848cd584b6a8c7e38ad3cd1a4fb1daf5729beca]{
 -- Page 541, Offset 19657.
