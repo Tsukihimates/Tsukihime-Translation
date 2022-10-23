@@ -1,18 +1,19 @@
 [sha:3883b15ca5b40563f97f709ad6f3677a05552b2d]{
 -- Page 10013, Offset 15474.
 -- 校舎裏に行こう。
-I'll go to the back of school.
+I'll go to the back of the school.
 }
 [sha:c38db07f95e52abd62b4b3a7b76243308cefa478]{
 -- Page 10013, Offset 15475.
 -- シエル先輩だと今朝のようにはぐらかされそうだし、ノエル先生は『説明役はわたし』と言っていた。
 // 『説明役はわたし』 references Offset 14952 in CIEL07_IB
-Ciel would probably evade my question like she did this morning, and Noel did say she's the one who does the explanations.
+Ciel-senpai would probably evade my questions like she did this morning,
+ and Noel-sensei did say she's the one who handles the explanations.
 }
 [sha:1032590a435f39c0f19288f67583694d36f1c39e]{
 -- Page 10013, Offset 15476.
 -- なら、彼女の方が聞きたい事もすんなり教えてくれるかもしれない。
-In which case, maybe she'll tell me about what I want to know quite readily.
+If that's true, maybe she'll be more forthcoming with some answers.
 }
 [sha:26e0c3ff14079a2d9f7aadf9f0e41916c6ae7d75]{
 -- Page 286, Offset 15477.
@@ -23,7 +24,8 @@ Sure, she might've turned out to have been a fake teacher, but she's still a cle
 -- Page 286, Offset 15478.
 -- 責任を持って、迷える子羊を導いてくれるはずだ。
 // 迷える子羊を導いて is this Christian metaphor about priests being shepherds, or whatever, so maybe there's a better expression.
-She will no doubt feel the responsibility of her role and provide guidance to this stray sheep.
+// Rendering 羊 as lamb instead of sheep since I think that's more idiomatic
+I'm sure she'll live up to the responsibilities of her role and provide guidance to this lost lamb.
 }
 [sha:2930e75270802721a85bb0f250f550a735d20bfe]{
 -- Page 287, Offset 15479.
@@ -33,13 +35,13 @@ She will no doubt feel the responsibility of her role and provide guidance to th
 [sha:5da85a5e826905043a100f2c153ee45d05127f57]{
 -- Page 287, Offset 15480.
 -- そもそも校舎裏というのがよくない。
-Besides, talking at the back of school was always stupid.
+Having a conversation out behind the school was a bad idea to begin with.
 }
 [sha:95e96856f2dbb65cf9c7cea9ebc92079393ef551]{
 -- Page 287, Offset 15481.
 -- そりゃあ人目はないけど、いつ他の生徒がやってくるか分からない場所だ。
-Sure, there aren't a lot of people here %{i}now%{/i},
- but you never know when other students are gonna turn up here.
+Sure, there's nobody else around %{i}now%{/i},
+ but other students could show up here at any time.
 }
 [sha:31c92bfe027530b26607f8e32350039ad68cf596]{
 -- Page 287, Offset 15482.
@@ -49,12 +51,12 @@ Maybe she was just pulling my leg?
 [sha:aa0e267ad22676f2c71fc6a6b09ce790595e5fba]{
 -- Page 287, Offset 15483.
 -- そうだよな、こんなところで吸血鬼の話なんか
-Must be, I mean who'd talk about vampires he――
+That must be it, I mean who'd talk about vampires in a place like―――
 }
 [sha:2223aa48922c5f1e49bddfb07be1a2e4041ccf0d]{
 -- Page 288, Offset 15484.
 -- 「だーれだ♥」
-"Guess who ♥!"
+"Guess who ♥"
 }
 [sha:e9991f969cd369ea96188a956553b9e36fbc8288]{
 -- Page 288, Offset 15485.
@@ -64,17 +66,25 @@ Someone covers my eyes from behind.
 [sha:03f5f7e1e68c352bc354cc966815f4e5c8ec4b67]{
 -- Page 289, Offset 15486.
 -- 「もーう、ぜんぜん危機感なくなーい？
-"Silly you, how can you be so totally oblivious to danger?
+"Geez, you've got no sense of danger, do you?
 }
 [sha:ed51e478dad55488fc29fb5629871ecd4343b378]{
 -- Page 289, Offset 15487.
 -- あんなのとやりあった後なのに、フツーここまで隙だらけになれるー？
-Or is it normal to become this wide open after doing battle with something like %{i}that%{/i}?
+// ~後 massaged slightly to better convey what I read as the meaning here, which is
+// 'geez, how could you let your guard down like this after you _just_ fought against vlov'
+I mean, it was only two days ago you fought that %{i}thing%{/i},
+ can you really go wandering around with your guard down this badly?
 }
 [sha:3f651385b7d8904144d66011061e9ce153f55e6e]{
 -- Page 289, Offset 15488.
 -- 志貴クンはぁ、どこまで牧歌的な羊さんなのかなー？」
-Oh, Shiki-kun, you sure are one pastoral little sheep, aren't you?"
+// Leaning more towards the idyll rendering of 牧歌的 than pastoral, since "just how pastoral of a lamb are you"
+// can read... weird? How sheep-related of a sheep are you? And I'm pretty sure she's angling more at his lack of
+// care and naïveté in a mild-derog manner. 'Provincial' doesn't quite fit.
+// Dewy-eyed? Green (inexperienced) for slightly pasture-ish connotation?
+// 羊 again translated as lamb here for more idiomatic jeezy creezy connection
+Oh, Shiki-kun, you're just such a naïve little lamb, aren't you?"
 }
 [sha:bccf0eee1783498db328e8e64018f28d52433893]{
 -- Page 290, Offset 15489.
@@ -85,18 +95,19 @@ My ears are being bombarded by whispers.
 -- Page 290, Offset 15490.
 -- こういう奇襲を受けるのならいくらでも牧場に住もう、と思わなくもなくもない。
 // 'all the time' is an addition that might not be necessary
-I'm almost starting to think it wouldn't be half-bad living on the pastures if it meant being ambushed like this all the time.
+// Is this a metaphor for being attacked by a wolf or something?
+I'm almost starting to think that it wouldn't be half-bad living in the pastures if it meant being ambushed like this all the time.
 }
 [sha:9e8d515502927b78a311aa0dedcc02e896986ea4]{
 -- Page 291, Offset 15491.
 -- 「……すみませんノエル先生。これ以上は、ちょっと」
-"Sorry, Noel-sensei. Any further and, you know."
+"Sorry, Noel-sensei. Any further and, you know..."
 }
 [sha:f6fd7ce0f4ea8111c842585f66e8d2db36a09f6c]{
 -- Page 291, Offset 15492.
 -- 理性的に耐えられそうにないので、なんとか真面目になってくれないでしょうか、と背中で申請してみる。
-Soon, my rational side will probably be unable to endure this,
- so I try requesting the presence behind me to please take things seriously.
+I probably won't be able to stay calm and rational under these conditions much longer,
+ so I try politely asking the presence behind me to take things a little more seriously.
 }
 [sha:f769ffd1350244f5b5b76b44b294090ed8c304bd]{
 -- Page 292, Offset 15493. Mods: @n.
@@ -106,12 +117,12 @@ Soon, my rational side will probably be unable to endure this,
 [sha:6e07211fa7459d09030d2f20eda198dbc344555f]{
 -- Page 292, Offset 15494. Glued.
 -- 耳まで真っ赤なコトで許しちゃう♥
-On account of your full-faced blush, I suppose I'll let you go ♥.
+ on account of your full-faced blush, I suppose I'll let you go ♥
 }
 [sha:cb00e765f5980a2428f189a84de04a55aca69a5d]{
 -- Page 292, Offset 15495.
 -- 今日は真面目なお話、だものね！」
-We're gonna be tackling serious stuff today, after all!"
+We're gonna be tackling some serious stuff today, after all!"
 }
 [sha:3c3f8d40f2f66f928a2006d487adaf111eeddf8b]{
 -- Page 293, Offset 15496.
@@ -122,13 +133,15 @@ My eyes are uncovered.
 [sha:59289a82bb22cbcc7841253bcc7b15b7fd32db5d]{
 -- Page 293, Offset 15497.
 -- こちらの背中に密着していたノエル先生は、悪びれた様子もなく、くるり、と俺の正面に現れた。
-Noel, who had been intimately pressed up against my back,
- spins around to face me, seeming none to bothered by her actions.
+Noel-sensei, who had been intimately pressed up against my back,
+ swoops around to stand in front of me,
+ seemingly unrepentant about her actions.
 }
 [sha:83efe3a485254467a09506ad0e2854dc78247fca]{
 -- Page 294, Offset 15498.
 -- 「時間通りね。もし来るとしたら、もっと遅れてくるかと思ってたのに」
-"Just on time. And here I thought you'd at least be late if you decided to turn up at all."
+"You're right on time.
+ And here I thought you'd at least be late if you even decided to turn up at all."
 }
 [sha:dc2d1ca72d1862076b3acf362265ed10beec95a8]{
 -- Page 294, Offset 15499.
@@ -138,29 +151,30 @@ Noel, who had been intimately pressed up against my back,
 [sha:c91e1a1550ea0c1f5681996d59b5fe284763ec0f]{
 -- Page 294, Offset 15500.
 -- それより、なぜ今のような奇襲を？」
-Though, more importantly, why'd you surprise me like that just now?"
+But never mind that, why'd you surprise me like that just now?"
 }
 [sha:3c56ed96421cc8e4b762e0b636dbbdec03f5618d]{
 -- Page 295, Offset 15501.
 -- 「ふふーん、青春っぽかったでしょ？
-"Heh-heh. It sure was in the spirit of adolescence, wasn't it?
+"%{i}Tee-hee%{/i}. It was in the spirit of adolescence, wasn't it?
 }
 [sha:b85ce328cddd77a1077630a16a8d07d0f8ff9fb1]{
 -- Page 295, Offset 15502.
 -- こういうの、一度やってみたかったのサ☆」
-I've just always wanted to do something like that ☆."
+I've just always wanted to do something like that ☆"
 }
 [sha:892609acc655520c2597889b1a2a14d26249429b]{
 -- Page 295, Offset 15503.
 -- 「……なら誰でもよかった、というコトですね。まあ、役得でしたけど」
 // 役得 here has been rendered to be more along intent. Like "I appreciate the bonus service though", maybe there's a better way
 // gets reference by Offset 15520 down below
-"Then anyone would do, right? Well, not like I'm gonna complain."
+"So anyone would have done as a recipient, huh?
+ Well, not like I'm gonna complain."
 }
 [sha:2f16e92904e14fbf2f3594b78419ebee0dc25ed7]{
 -- Page 296, Offset 15504.
 -- 「やってみたい、とやっちゃう、は違うわよ志貴クン。
-"'Want to do', and 'doing' are two different things, Shiki-kun.
+"'Wanting to do', and 'doing' are two different things, Shiki-kun.
 }
 [sha:949d468c626959233adf706cb791a64a2bb7165d]{
 -- Page 296, Offset 15505.
@@ -171,8 +185,9 @@ Being an adult means you don't fly into action unless you have a reason.
 [sha:e7196ebe6bd4ec6d0b5a33977cac8e3f06e6040f]{
 -- Page 296, Offset 15506.
 -- あの後シエルさんに聞いたけど、彼女にも誘われていたんでしょう？　その上で先生を選んでくれたコトへのお礼、だったんだけどなー」
-I only heard about this from Ciel-san after the fact, but you were invited by her too, right?
- So this was my thanks for you choosing to go with me regardless, you see?"
+I only heard about this from Ciel-san after the fact,
+ but she invited you to meet with her today as well, didn't she?
+ So, think of it as a kind of thank-you for choosing to come see me regardless, okay?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 297, Offset 15507.
@@ -182,7 +197,7 @@ I only heard about this from Ciel-san after the fact, but you were invited by he
 [sha:9d50e00edcb632af2fa35fe0b7d53056d70203ac]{
 -- Page 297, Offset 15508.
 -- ノエル先生もこの強制二択を知っていたようだ。
-It appears Noel knew about the dilemma forced upon me.
+It appears Noel-sensei knew about the dilemma forced upon me.
 }
 [sha:9a4f05181e13f0759018b35b80ecdbeb6eb8314c]{
 -- Page 297, Offset 15509.
@@ -192,13 +207,13 @@ I see...
 [sha:cc968de9f66236dac1982499b7ad5096592ada2c]{
 -- Page 297, Offset 15510. Mods: @n.
 -- それでお礼として後ろからむぎゅ～～っと……
-So as thanks, she hugged up against me from behind...
+So as thanks, she nuzzled up against me from behind...
 }
 [sha:d4f7f427bccc1f077a39a193980fd2e8f996b323]{
 -- Page 297, Offset 15511. Glued.
 -- いや教師としてどうなんだそれはありがとうございます。
 // funny line, try to preserve the funny.
-Unfit behavior coming from a teacher which I am very thankful for.
+ Behavior that doesn't really suit a teacher, but that suits me just fine.
 }
 [sha:ed0353d105a5e5c8321a837c516c54a11d12269b]{
 -- Page 298, Offset 15512.
@@ -220,19 +235,21 @@ In the battle against Vlov, I made a brave retreat, didn't I?
 -- Page 298, Offset 15515. Glued. Mods: @x.
 -- って、今日のシフトまでバツいれちゃって～（涙）
 // （涙） <--- not sure what to do with this.
-Is what she said, before crossing out my shift for today~ *sniff*
+// Ascii crying face? ;-; / T_T
+ That's what she said to me right before crossing out my shift for today! T_T
 }
 [sha:9928cba5728854b745d393180e1b7bdad918ee7d]{
 -- Page 298, Offset 15516. Mods: @k, @e.
 -- 先生から先生をとりあげようっていうの！？
-// tried to make it work with the joke and whatnot, but yeah, tricky.
-Is she trying to take away the sensei from my name?!"
+// I feel like this works a bit better if you reify the Noel.
+// Basically the inverse of the 'you put the x in y' pun
+What's she trying to do, take the -sensei out of Noel-sensei?!
 }
 [sha:0f5d7e1eb0df2adae6b025287533675f9d0c89b1]{
 -- Page 298, Offset 15517. Glued. Mods: @x.
 -- こんな楽な役職、他の<代行者|ヤツ>に譲ってたまるかーー！」
 // might wanna use the ruby here, but it doesn't add much.
-As if I'd ever give up this kind of cushy position to someone else!
+ Like I'd ever give up this kind of cushy position to someone else!"
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 299, Offset 15518.
@@ -242,30 +259,34 @@ As if I'd ever give up this kind of cushy position to someone else!
 [sha:9a660265cbaf3987ce82b4ee57bf8cf90c5f36f3]{
 -- Page 299, Offset 15519.
 -- いや、ありがとうの必要ないなコレ。
-Actually, I don't think I needed to thank her for anything.
+// Modified ありがとう to match referred sentence in 15502
+// Would rather change this than force 'thank' into the other just because I love the double meaning with 'suit'
+Actually, this behavior doesn't suit me so well after all.
 }
 [sha:e4df253f750d8c29b7bb56649cc13f6d249fe598]{
 -- Page 299, Offset 15520.
 -- さっきのは役得ではない。これはただの、一升瓶を持ってクダを巻くＯＬさんだった。
 // first sentence references Offset 15503, so see there why its rendered like this.
+// https://kotobank.jp/word/%E3%81%8F%E3%81%A0%E3%82%92%E5%B7%BB%E3%81%8F-483782
 Maybe I should've complained.
- She was just a single office lady,
- booze in hand, complaining about her boss all along.
+ She's just a single office lady, booze in hand, drunkenly ranting and raving about her boss.
 }
 [sha:7e01731bd85208eb12df6fb61cf8401bffa13e77]{
 -- Page 300, Offset 15521.
 -- 「ノエル先生。真面目な話をしに来たんですが。
-"Noel-sensei. I came here to talk about serious stuff, so...
+"Noel-sensei. I came here to have a serious conversation.
 }
 [sha:2346e6b4c5aa94819d2243346136697c45942544]{
 -- Page 300, Offset 15522.
 -- 今からでも茶道室に行っちゃいますよ」
-I think I'll just head on over to the tea ceremony room now."
+// Cut losses to kinda encode 今からでも
+// Translated more as a threat than an "I will" since I feel that's closer to the vibe
+Maybe I'd better just cut my losses and head to the tea ceremony room instead."
 }
 [sha:7c6d80a193d716367a31e0470b3ef4c588a43bfe]{
 -- Page 301, Offset 15523.
 -- 「げ。そしてこのクールな対応。
-"Ugh. Talk about a cool reception.
+"%{i}Ugh%{/i}. Talk about a cool reception.
 }
 [sha:5f51e788330091c16fcb17e243567b57926eb931]{
 -- Page 301, Offset 15524.
@@ -275,14 +296,14 @@ Yeah, yeah. I'll switch right on over to the usual intellectual Noel-sensei, why
 [sha:872ca462210ef3fe26456698866ba02621dffd00]{
 -- Page 301, Offset 15525.
 -- 本気で拗ねるノエル先生。
-Noel actually starts sulking.
+Noel-sensei actually starts sulking.
 }
 [sha:f58acd45d538ace996f7b064304bd03a3e39592b]{
 -- Page 301, Offset 15526.
 -- 察するにグチを言える相手がいないのだろう。日々ストレスがたまっているようだ。
 // 'about her job' inferred
 I imagine she doesn't have anyone else who'll listen to her complain about her job.
- She's probably built up a lot of stress from her daily work.
+ She must be pretty stressed after doing something like that day in and day out.
 }
 [sha:b55f911818dee2a7106882416c41f8b4b834175e]{
 -- Page 302, Offset 15527.
@@ -292,12 +313,15 @@ I imagine she doesn't have anyone else who'll listen to her complain about her j
 [sha:deb1dedca4b95de05b7d27298f9f38936dc01aa4]{
 -- Page 302, Offset 15528.
 -- あの日、どうしてキミはデパートの地下にいたのか……は別にいっか、たいした疑問じゃないし。
-Why were you down in the department store underground... is maybe a whatever-question.
+What were you doing down in the catacombs underneath that department store...
+ probably isn't really a question worth asking.
 }
 [sha:a12d6e69fc71bdd9aa256c4e9398597415bce66b]{
 -- Page 302, Offset 15529.
 -- キミが吸血鬼の仲間だった訳でもないし。わたしを助けようと一生懸命になってくれたしね♥」
-It's not like you were allied with the vampires. And you did put your life on the line to save me too ♥."
+// Interpretive 一生懸命
+It's not like you're buddy-buddy with any vampires.
+ And you %{i}did%{/i} put your life on the line to save me, too ♥"
 }
 [sha:230f712df07be147a6cbdcd1a52c2604d13b2c7d]{
 -- Page 303, Offset 15530.
@@ -307,50 +331,52 @@ It's not like you were allied with the vampires. And you did put your life on th
 [sha:f645782594404204db5a504fa8250705a07ad8dd]{
 -- Page 303, Offset 15531.
 -- どうして戻ってきたの？　シエルさんにいいとこ見せたかったとか？」
-Why'd you come back? Did you wanna show Ciel-san how cool you were?"
+Why'd you come back? Did you wanna show her how cool you were?"
 }
 [sha:451005029f529b3009d4e0e1965582b468bc796f]{
 -- Page 303, Offset 15532.
 -- 「……違います。あれは―――」
-"Not really... I just――"
+"That's not it... I just―――"
 }
 [sha:02f40e917d16ee8d0479c31501170015700fe336]{
 -- Page 304, Offset 15533.
 -- ただ、自分だけ逃げる事はできなかったからだ。
 // 自分だけ kinda worked out into what he's trying to say = 'save only myself'
-I just couldn't stand to run away and save only myself.
+I just couldn't stand to run away and only save myself.
 }
 [sha:6abfaaa203cf9ae8241fd13235c340084cbf1e9e]{
 -- Page 304, Offset 15534.
 -- 俺はアルクェイドと知り合った事、
-I explain how I became acquainted with Arcueid,
+I explain how I became acquainted with Arcueid.
 }
 [sha:9913d65e0cf0bbce19d6b92dc7175697d43cd899]{
 -- Page 304, Offset 15535.
 -- そしてアイツと協力してヴローヴを倒しにいった事を説明した。
-and how I was going to cooperate with her and go defeat Vlov.
+After that, I tell her how we agreed to cooperate and defeat Vlov.
 }
 [sha:2cc66f8561d7dea8bac0ba0e1c398228edcb16c7]{
 -- Page 305, Offset 15536.
 -- 「街が凍らなかったのは真祖が守ったからなんて……
-"So the reason the city didn't freeze over was because the True Ancestor protected it...
+"So the only reason the city didn't freeze over was because the True Ancestor protected it...
 }
 [sha:d5fe20ce31f2f992c2df477635f309790656b4f4]{
 -- Page 305, Offset 15537.
 -- 信じたくないけど、事実は事実、か。
-I don't want to believe that's the case, but fact is fact.
+I don't really want to believe it, but a fact's a fact.
 }
 [sha:2c00d47b0ff71283750a2735e0d0de6ba651fb53]{
 -- Page 305, Offset 15538.
 -- 実際、わたしも生きてるワケだし」
-I am actually alive, after all."
+Not like I can deny that I'm still alive."
 }
 [sha:f8f3d86a4be4a650b96369f02b731f954d777470]{
 -- Page 306, Offset 15539.
 -- 「はい。アイツ、シエル先輩を見た途端にへそを曲げたけど、この街を守る、という点では、全力で手を貸してくれたんです」
-// へそを曲げた here is a Japanese expression for getting upset, so maybe it could be spiced up a bit.
-"Yeah. Her mood soured as soon as she saw Ciel-senpai,
- but at least in terms of %{i}just%{/i} protecting the city, she helped out as well as she could."
+// へそを曲げた here is a Japanese expression for getting upset
+"Yeah.
+ She did flip out the second she caught sight of Ciel-senpai,
+ but when it came to protecting the city,
+ she was true to her word and helped me out to the best of her ability."
 }
 [sha:fe0ec399d4d4da28cf0c206c8bb6eef445362cb7]{
 -- Page 306, Offset 15540.
@@ -360,27 +386,29 @@ I am actually alive, after all."
 [sha:fdf20903e7c0304185d8b770fe86a54567f15296]{
 -- Page 306, Offset 15541.
 -- 真祖が人間に手を貸す事例も、なくはないっていうし」
-It's not like a True Ancestor helping humans has never happened before."
+It's not like this is the first time a True Ancestor has ever helped a human."
 }
 [sha:376033eed4fe6af8e00473baee422d484580339a]{
 -- Page 307, Offset 15542.
 -- 「それで、志貴クンはどうして協力したの？
+// Noel using 'it' and other non-person lang to refer to Arcueid intentional here and following
 "So, why'd you cooperate with it, Shiki-kun?
 }
 [sha:bf4917aa89723ccfe92d369afa636087eb088f2e]{
 -- Page 307, Offset 15543.
 -- 吸血鬼を殺す吸血鬼であろうと化け物は化け物でしょ？
-Even vampires who kill vampires are still monsters, right?
+Even vampires that kill other vampires are still monsters, right?
 }
 [sha:91fa7a89f35138c9d19719bedacdf409f61b553c]{
 -- Page 307, Offset 15544.
 -- 手を貸すとか、一緒に戦うとか、そもそも信頼するとか、人間としてありえないわよね？」
-All this 'helping out' and 'fighting together' stuff――even just 'trusting it'――is absurd coming from a human, y'know?"
+It's crazy for a person to go around helping one out,
+ or fighting together with one, or heck――even just %{i}trusting%{/i} one, y'know?"
 }
 [sha:2197f49a0b79927c645ff96f5eeaf9318b73ac36]{
 -- Page 308, Offset 15545.
 -- 「もしかして―――真祖に気に入られれば不老不死にしてもらえるとか思っちゃったクチ？」
-"Wait, could it be... you're saying you thought the True Ancestor would give you immortality if you managed to suck up to it?"
+"Wait, don't tell me――did you think the True Ancestor might grant you immortality if you managed to suck up to it enough?"
 }
 [sha:d9c7331f202974eedb4340112b07f64016cd7b04]{
 -- Page 309, Offset 15546. Mods: @k, @e.
@@ -395,57 +423,60 @@ Oh, right."
 [sha:259496799680f90f8b1d64739809e1f7de15cee9]{
 -- Page 309, Offset 15548.
 -- そんな考えもあるのか、と感心した。
-I suddenly realize such a line of thought is possible.
+I'd never realized you could think about it like that.
 }
 [sha:f18c4cb89bbfacc2fcc6e6176f0153ae2431e41a]{
 -- Page 310, Offset 15549.
 -- 吸血鬼は吸血鬼を作り出せる、とアルクェイドに説明されていたんだ。アイツも吸血鬼なんだから、そういう可能性を考慮する方が自然だったかもしれない。
-Arcueid explained that vampires produce other vampires. She's a vampire too, so considering a possibility like that might be quite natural.
+Arcueid had told me before that vampires can produce more vampires.
+ I guess it stands to reason one might consider the possibility.
 }
 [sha:a482fa158e178635d2b3d7608a90f97c915f76af]{
 -- Page 310, Offset 15550.
 -- でも、あの時はそんな考え微塵も浮かばなかったし、
-But that kind of thought didn't enter my mind for even a second.
+But that thought didn't even cross my mind at the time.
 }
 [sha:0246e67f4c04f44758e7713e6633ac7b89cf3bf3]{
 -- Page 310, Offset 15551.
 -- これからも、浮かぶ事はないだろう。
-And I bet I won't after this either.
+It probably won't ever again, either.
 }
 [sha:e8005ce87ed47486c3311542a649ebf016f74c94]{
 -- Page 311, Offset 15552.
 -- 「いや、そういう夢みたいな話はちょっと。
-"No, not really into that kinda wild fanciful stuff.
+"No, I'm not really into that kinda wild fanciful stuff.
 }
 [sha:d016255d90ab02afc07505cdd801289195f7e9c7]{
 -- Page 311, Offset 15553. Mods: @n.
 -- それよりヴローヴの方
-And more importantly, Vlov
+Besides, figuring out what to do about
 }
 [sha:31d040cc750c472667fede8477edc121f359c9f4]{
 -- Page 311, Offset 15554. Glued.
 -- が<大事|おおごと>だったし。
-was of greater concern.
+ Vlov was way more important.
 }
 [sha:89383eb2ec6ffc55b7423067a5113aed6c687977]{
 -- Page 311, Offset 15555.
 -- ……だって、見殺しにはできないでしょ。
-I mean, I can't just watch on as people die, right?
+// "Watch" or "look on" IMO
+I mean, I can't just look on as people die, right?
 }
 [sha:c4c614878b7b0178dec40d4996551a7098f8fa0c]{
 -- Page 311, Offset 15556.
 -- そりゃそこまで好きなワケじゃないですけど、自分の住んでる街ですから」
-Sure, it's not like I care for it all too much, but this is still the city I live in, after all."
+This city may not be much to write home about,
+ but at the end of the day, it's still the place I call home."
 }
 [sha:82da59bdb7cc71ef875a0f90fb7b59f591cc7298]{
 -- Page 312, Offset 15557.
 -- 街のみんなを守る、なんて大きな目的ではなく。
-I didn't really have this grand objective of protecting everyone in the city.
+It's not like I had some lofty goal of protecting everyone in this city.
 }
 [sha:5d62bf26345811c892d5d20f639b5f43df5afd88]{
 -- Page 312, Offset 15558.
 -- この街と、俺の知っている人たちの手前、逃げる事ができなかっただけだ。
-It's just, I couldn't run away from for the city, and everyone who lives in it.
+It's just that I couldn't turn around and desert it, and all the people I know who live here.
 }
 [sha:e2d77c4e0533981ef9be88246321416f1aab9014]{
 -- Page 313, Offset 15559.
@@ -471,33 +502,41 @@ I just had a bit of a moment."
 [sha:a60ffb96880992090c3b1012601abc4a2de33a62]{
 -- Page 314, Offset 15563.
 -- ノエル先生はこちらに背を向けて顔を隠している。
-Noel turns her back to me as to hide her face.
+Noel-sensei has turned her back to me, and is hiding her face.
 }
 [sha:308054998144ed2d48cc24bd51a7100fc0533420]{
 -- Page 314, Offset 15564.
 -- でも声だけで何を思っているかは明白だ。
-But I can clearly hear from just her voice what she's thinking.
+Even so, her voice makes it pretty clear what's on her mind.
 }
 [sha:90b4ff2d00ad3365f9e24494de2e18c511cc7b1b]{
 -- Page 314, Offset 15565.
 -- 頭隠して尻隠さず、ということわざを教えてやりたい。
-// yeah, I dunno what idiom slots into here in English. The Japanese one is quite simple "Head hidden, ass exposed".
-I really want to teach her what it means to have one's back turned.
+// P: Yeah, I dunno what idiom slots into here in English. The Japanese one is quite simple "Head hidden, ass exposed".
+// R: My dictionary lists 'burying one's head in the sand', but I don't think that's really a match here.
+// R: Interpreted much more widely as pretending something bad isn't happening than about doing a bad job of concealing yourself.
+// R: Cat's out of the bag is _close_ but doesn't have the attempt to hide, and is awk in context.
+// R: I think the closest you can get is closing the barn door after the horse has already bolted,
+// R: but at the end of the day we've decided to just scrap it.
+I've the urge to inform her that trying to hide it only makes it more obvious.
 }
 [sha:4daa7808fdce83b742477b8eb1ce7015745bcfdc]{
 -- Page 315, Offset 15566.
 -- 「ごめん、やっぱ無理、我慢できなーい！
-"Sorry, I really can't hold it in after all!
+"Sorry, I give up, I can't hold it in after all!
 }
 [sha:2fbebbdf1ad778fc1a0623d3468a86531fd00d3f]{
 -- Page 315, Offset 15567.
 -- 自分の住んでる街だから、って、もう、なんなのそれー！　信じられなーい！　かっわいーー！
-'This is still the city I live in'? How is that even real?! I can't believe it! You're sooo cute!
+'At the end of the day, it's still the place I call home'?
+ You've gotta be kidding me!
+ I can't believe it!
+ You're sooo adorable!
 }
 [sha:9c329e9f533fa9653ab9b66bb2a7331ca01fc165]{
 -- Page 315, Offset 15568.
 -- 志貴クン、どこまでお人好しなのーー！」
-Shiki-kun, you sure are one good guy through and through!"
+Shiki-kun, just how sweet and innocent can you get?!"
 }
 [sha:26bfa3b16bcafeee14199797bc89bbc0afd9a537]{
 -- Page 316, Offset 15569.
@@ -507,7 +546,7 @@ Shiki-kun, you sure are one good guy through and through!"
 [sha:57e13720f2005403bbe58225c8783063230a185a]{
 -- Page 317, Offset 15570.
 -- 「おっと、恥ずかしいとは思ってるのね！
-"Oh? So you %{i}do%{/i} think its embarrassing!
+"Oh? So you %{i}do%{/i} think it's embarrassing!
 }
 [sha:ced4b1a827ad1e67ceff2fb8fe4740244b3aa92a]{
 -- Page 317, Offset 15571.
@@ -517,19 +556,21 @@ Don't worry, just get through it! Then blush even harder!
 [sha:63482075336d6a4b0f6babe3668a1277197c8cff]{
 -- Page 317, Offset 15572.
 -- 一方、わたしはこれを肴に、今夜はパーティーとしゃれこむのでしたー！」
-// there is so much wordplay here I'm not sure if there is a good translation. 肴にする means to entertain oneself by making fun of someone, but it also means to have as a snack, hence why she comes up with party here. Then in the next sentence...
-Meanwhile I'll setup a party tonight so I can snack on this memory some more!"
+// P: There is so much wordplay here I'm not sure if there is a good translation. 肴にする means to entertain oneself by making fun of someone, but it also means to have as a snack, hence why she comes up with party here. Then in the next sentence...
+While you're doing that, I'm going to treat myself to a party tonight so that I can snack on this memory some more!"
 }
 [sha:411261074dc50fa09e19f3170ffaa0306d7f7d1f]{
 -- Page 317, Offset 15573.
 -- この疲れたＯＬ、お持ち帰りで楽しむ気だった。
-// Shiki comments on Noel's actions as "takeout", which is also slang for one-night stands.
-It seems this tired office lady is having takeout tonight.
+// P: Shiki comments on Noel's actions as "takeout", which is also slang for one-night stands.
+// R: I spent so goddamn long trawling slang archives for something perfect here,
+// R: but despite the incredible creativity on display very few of those euphemisms are fit for print / the context.
+Seems this worn-out office lady plans on taking the fun back to her place.
 }
 [sha:4afdf15dfe9e593cd8e8011805c3b40104040b00]{
 -- Page 318, Offset 15574.
 -- 「あのですね、こっちは本気で、」
-"Please, I'm being serious."
+"Come on, I'm being serious―――"
 }
 [sha:4f894681c7ef86afb08cbcdd2c9903bb9965b308]{
 -- Page 318, Offset 15575.
@@ -544,33 +585,34 @@ And then, a sudden impact.
 [sha:1ceb9c29606746b2c83688038cbfbd86da2407d4]{
 -- Page 319, Offset 15577.
 -- ノエル先生は俺に駆け寄ると、そのまま<攫|さら>うように、駐輪場の壁に押しつけた。
-Noel rushes over to me, pushing me against the wall of the bicycle parking lot, almost as if abducting me.
+Noel-sensei rushes over to me and pins me against the wall of the bike shed,
+ as though she were about to abduct me here and now.
 }
 [sha:1f643230f2121c39b3c627b65a68f69418e01e3d]{
 -- Page 320, Offset 15578.
 -- 「ノエ―――」
 // lint-off:LintNameMisspellings
-"Noe—―"
+"Noe—――"
 }
 [sha:73540df316254e146ae1a46b3bfaf1e600452596]{
 -- Page 320, Offset 15579.
 -- 「……静かに。ほら、分かるでしょう？」
-"Quiet... listen, see what I mean?"
+"Quiet... listen, can you hear it?"
 }
 [sha:806c7e5241ea9acb693dd80d1fb8bf68af444ab8]{
 -- Page 320, Offset 15580.
 -- 彼女は俺の口を手で塞ぎながら、耳元で囁いた。
-She covers my mouth with her hand, while whispering into my ear.
+She whispers in my ear, her hand clamped over my mouth.
 }
 [sha:d8a730f7eebe19a124767eee489bcbb384a845e5]{
 -- Page 320, Offset 15581.
 -- ……複数の足音がする。
-I hear several distinct footsteps.
+I hear several distinct sets of footsteps.
 }
 [sha:0abe11bdafc28610fb4e2660181d0915168fc8d2]{
 -- Page 320, Offset 15582.
 -- 自転車で下校する生徒たちだった。
-They're coming from students about to leave school on their bikes.
+It's a group of students about to head home on their bikes.
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 321, Offset 15583.
@@ -580,102 +622,110 @@ They're coming from students about to leave school on their bikes.
 [sha:837f32254dced80fd6a66be836e88c5e98d71995]{
 -- Page 321, Offset 15584.
 -- ここは死角になっているのだろう。
-It seems this is a blind spot of sorts.
+We must be in some sort of blind spot here.
 }
 [sha:d0c366de92dbbb187bb82a8ad4161fe074a4cc51]{
 -- Page 321, Offset 15585.
 -- 俺たちがいる事は気づかれていない。
-They haven't noticed we're here.
+They haven't noticed us at all.
 }
 [sha:b292b801430c1fdff745d9d9c9f6fe65eec359bb]{
 -- Page 321, Offset 15586.
 -- 生徒たちは各々の自転車を取り出し、談話しながら正門へと移動していった。
-The students take out their respective bikes, and head toward the school gate, still engaged in conversation.
+The students take out their respective bikes and head off toward the school gate,
+ chatting all the while.
 }
 [sha:0fb7866feb04bf1d4f37e4a84483ea50b1a719dd]{
 -- Page 322, Offset 15587.
 -- 「……ノエル先生、あの」
-"Noel-sensei, uhm..."
+"Noel-sensei, um..."
 }
 [sha:c90682ab6bc853fcfdc0f0594f937c2a78006d7f]{
 -- Page 322, Offset 15588.
 -- もう隠れる必要はないので離れませんか、と言いたいんだけど、声がうわずって言葉にならなかった。
-'There's no need to hide anymore, so could you get off me' was what I'd wanted to say,
- but my voice cracks, and I don't manage to get it out.
+// Onore quotative
+I want to tell her that there's no need to hide anymore, and could she please get off me,
+ but my voice cracks and I just can't get the words out.
 }
 [sha:48dbb2444f232982c58f1139fa316a89657ce655]{
 -- Page 323, Offset 15589.
 -- だって体温も、鼓動も近い。
 // Maybe a bit lengthy.
-It's just――her warmth, even her the pulsations of her heart are both so close.
+I mean, her body heat, her heartbeat――they're so %{i}close%{/i}.
 }
 [sha:3ba86575ceb7b12231176b518ca3c6c0397b5af9]{
 -- Page 323, Offset 15590.
 -- あの時、地下で生き埋めになった時、密着していた感触を否応なく思い出してしまう。
-I can't help but recall the sensation I felt at that time we were pressed against each other under the rubble.
+I can't help but be reminded of the sensation I felt back when we were pressed up against each other under the rubble.
 }
 [sha:cf6f20daa5fb950cf8bada77d84275068b0bd6ca]{
 -- Page 324, Offset 15591.
 -- 「……ふふ。吸血鬼は怖くないのに、こっちの方は怖いんだ。裕福そうで、優しそうで、お人好しで―――それでいて、人でなし。
 // given how often 人でなし comes up maybe its worth standardizing.
-"Hehe, for someone so fearless when up against vampires, you sure find this scary.
- Well-off, kind, goodhearted――but even so, a scumbag.
+// Not sure I agree on standardizing 人でなし, it's useful to be able to inflect the word to fit the context.
+// E.g. here, I'm assuming it's more about him feeling the frisk than him being an asshole?
+"%{i}Hehe%{/i}, for someone so fearless when up against vampires, you sure find this scary.
+ You're well-off, kind, goodhearted――but underneath all that, you're still a bad boy.
 }
 [sha:fe3a8d2564dfbb46d64770569b549f77faa91963]{
 -- Page 324, Offset 15592.
 -- 今まではお仕事だったけど……志貴クンのこと、本格的にリストに入れちゃおっかな」
-Up until now I've been treating this as my job but... maybe I should add little Shiki-kun to my list?"
+Up until now I've been trying to be professional, but...
+ maybe it's about time I added little Shiki-kun here to my list?"
 }
 [sha:bfa428651d2d74fc6f3c5f361fd79ce33b1c2c91]{
 -- Page 325, Offset 15593.
 -- この上なく甘いトーン。
-She says in the sweetest of tones.
+Her voice is incomparably sweet.
 }
 [sha:8f1aa7cc8c2091fd057d5860ce8b019b9652d39a]{
 -- Page 325, Offset 15594.
 -- 蕩けるような囁きなのに、何かが薄ら寒い。
-// kind of weird usage of 寒い, hence the usage of desolate.
-It's an enchanting whisper, yet somewhat desolate.
+// Reading 寒い as riffing off the 'melt' (-> warm) reading on 蕩ける
+It's a warm and enchanting whisper, but there's a faint cold edge to it.
 }
 [sha:3037373c4c6bc72ba12ebfa4b678da460e09753d]{
 -- Page 326, Offset 15595.
 -- 「……リストに入れるって、なんですか、それ」
-"Adding me to your list? What's that mean, exactly?"
+"Adding me to your list? What does that mean, exactly?"
 }
 [sha:ade496559e532232b2861c68e367e3a9c69207d6]{
 -- Page 326, Offset 15596. Mods: @n.
 -- 「予定表。わたしね、子供の頃からリストを作るのが趣味なの。
-"My itinerary. See, one of my hobbies since I was a kid has been making lists.
+"My itinerary. See, ever since I was a kid one of my hobbies has been making lists.
 }
 [sha:098dd3ceadb8c0ed604f8dde215c0c20e2864362]{
 -- Page 326, Offset 15597. Glued.
 -- やりたい事、やらない事、欲しいモノ、要らないモノ。そういうものを順序立ててメモっていくの」
-Want I want to do, what I don't want to do, things I need, things I don't need. I memo down stuff like this――put them in order."
+ What I want to do, what I don't want to do, things I need, things I don't need.
+ I jot things like that down and arrange them in order."
 }
 [sha:12722a77c6107793b27785c1a559f47c81c5391b]{
 -- Page 327, Offset 15598.
 -- 「授業中にイラッときたからお仕置きするリスト、
-"The list of people I'll punish if I get angry in class,
+"The list of people I'll punish for pissing me off during class.
 }
 [sha:361dda3896672b8082d887953803f3c2c9223fe8]{
 -- Page 327, Offset 15599.
 -- 親切にしてもらったから恩返しするリスト、
-The list of people who I'll repay for being kind to me,
+The list of people who I'll repay for being kind to me.
 }
 [sha:7a47e735c78530cef4ca2fefcde610a816fdfafe]{
 -- Page 327, Offset 15600.
 -- いやらしい教頭先生にブチかます社会的制裁リスト、エトセトラエトセトラ」
-The list of societal punishments I'd doll out on those disgusting teachers above me, et cetera, et cetera."
+// Is 社会的制裁 commonish parlance in JP? Fringe term in EN
+The list of social sanctions I'll dole out to that disgusting vice principal, et cetera, et cetera."
 }
 [sha:52dd8bcfbf5fb9ba217eb1171f9a67f78b828537]{
 -- Page 328, Offset 15601.
 -- 「そうやってスケジュールを消化していくの、すっごく楽しいの。
-"I find going through schedules like this is suuuper fun.
+// Schedule not really used this way in EN
+"I find it suuuuper fun to tally things up this way.
 }
 [sha:73efa23bd1192231f9ea21eb63b1695b182e82c3]{
 -- Page 328, Offset 15602.
 -- ストレス解消はぁ、溜めこんだ分だけ気持ちいいって分かるでしょう？」
-Stress relief gets sooo much more pleasurable the more you've stored it up, you get me?"
+It's so much more pleasurable to relieve your stress once you've got a lot of it pent up, don'tcha think?"
 }
 [sha:f732a863b9637adac44ebbdc0afd1aafbb928a1c]{
 -- Page 329, Offset 15603.
@@ -692,37 +742,41 @@ Which one am I on, specifically?"
 -- Page 330, Offset 15605.
 -- 「いじめたいリストの上の、おかしたいリスト♥
 // could alternatively be called the "wanna rape list" but uhm
-"The one right above my 'wanna tease list'――my 'wanna ravish list' ♥.
+"The one right above my 'wanna tease list'――my 'wanna ravish list' ♥
 }
 [sha:b50560bc99173229cfb9fbe79afc056967b83f6b]{
 -- Page 330, Offset 15606.
 -- アナタみたいに綺麗な子がグシャグシャに泣き崩れる瞬間とか、大好き。ああ、わたしは生きているって感じがして」
-The moment when pretty boys like you break down crying is something which I just looove. Ahh, it makes me feel alive."
+I just looove the moment when a pretty boy like you finally breaks down in tears. Ahh, it makes me feel alive."
 }
 [sha:48fed175158cbf823603405b017749023c59d189]{
 -- Page 331, Offset 15607.
 -- 首元にかかる熱い吐息。
-Her hot breath bears down on my neck.
+I can feel her hot breath brush against my neck.
 }
 [sha:ac39e6403b37929e778a947c32a8a1405a60fd0a]{
 -- Page 331, Offset 15608.
 -- 壁際に追い詰めた獲物を<舐|ねぶ>る、蛇のような。
-Like a snake licking the prey it has chased into a corner.
+// This action generally referred to as flick in EN
+It's like the tongue of a snake flicking against the prey it's chased into a corner.
 }
 [sha:2559f5b40aeedecc9d4c7b7fa1f3ff132a296a1e]{
 -- Page 332, Offset 15609.
 -- 「なーんて、冗談さ、冗談☆
-"Juuust kidding, honest ☆.
+"Juuust kidding, honest ☆
 }
 [sha:778b8c5ee28b48bfd3ca823e1b779d8f2b3bd2fa]{
 -- Page 332, Offset 15610.
 -- 青少年をからかうのはここまで。わたしそこまでサドっ気ないし～、まだ犯罪者になりたくないですし～」
-My teasing of the youth has gone on long enough. I'm not actually thaaat sadistically inclined. Also, don't wanna become a criminal quite yet."
+// > Yet
+// So you're saying there's a chance...
+My teasing of the youth has gone on long enough.
+ I'm not actually %{i}that%{/i} much of a sadist, and it's not like I wanna become a criminal quite yet."
 }
 [sha:eae190c18d08fff4b2963d7505cb20204d9fb796]{
 -- Page 333, Offset 15611.
 -- 壁から離れ、元の位置に戻るノエル先生。
-Noel distances herself from the wall, returning to her original position.
+Noel-sensei steps away from the wall, returning to where she stood before.
 }
 [sha:698f774b4a7547ee52ea8450e5188218fb594a5d]{
 -- Page 333, Offset 15612.
@@ -737,43 +791,44 @@ She's laughing lightheartedly, but it's hard to tell where the joke begins and w
 [sha:4d76f5410b27afbd013b1211d000fd97e70b93c6]{
 -- Page 334, Offset 15614.
 -- ……自分の街を守る、か。
-Protecting your own city, huh?
+Protecting the city you live in, huh?
 }
 [sha:e0284ab00cb271ae82b5bb24a45bd710c62636c8]{
 -- Page 334, Offset 15615.
 -- 笑うしかないくらい、いい理由よね、それ」
-I can't help but laugh at a good reason like that."
+It's such a good reason that I couldn't help but laugh."
 }
 [offset:15616]{
 -- Page 334, Offset 15616.
 -- ……と。
-Noel says,
+// Quotatiiiiiive
+......
 }
 [sha:aeb095647cf6e6c6f5f00d39f9976fd82ea62e46]{
 -- Page 334, Offset 15617.
 -- 一転して、ノエル先生は穏やかな声でそう言った。
 // I've kind of swapped around a bit with this and the above line
-changing moods completely, her voice gentle.
+Noel-sensei's tone of voice has changed completely, and is now quite gentle.
 }
 [sha:7f9d1941bc287702cb856e717324f949a64ad9ff]{
 -- Page 335, Offset 15618.
 -- 「あの……いい理由、でしたか？」
-"Uhm, that was a good reason?"
+"Um... you think that was a good reason?"
 }
 [sha:60917ce0921e00096818ce5ceb3b87a1e688e4c0]{
 -- Page 335, Offset 15619.
 -- 「うん♥
-Yeah ♥!
+"Yeah ♥
 }
 [sha:e00cc45c3b7bdb1688a51c425547e55199022768]{
 -- Page 335, Offset 15620.
 -- だからわたしも真剣に答えてあげる。
-So I'll answer you as earnestly as I can.
+So I'll be as up front with you as I can.
 }
 [sha:d47bec28d86c760461e0ac64019d8e15eb04f4a9]{
 -- Page 335, Offset 15621.
 -- わたしとシエルさんがまだ街に残っている理由が知りたいんでしょ？」
-You want to know why me and Ciel-san are still in the city, right?
+You want to know why Ciel-san and I are still in this city, right?"
 }
 [sha:b712e16d9c86db7a11a1010017d95d9b7eb770ac]{
 -- Page 336, Offset 15622.
@@ -783,23 +838,23 @@ We're finally getting to the matter at hand.
 [sha:d0627748b2a242b0b21948b2c4d1ea277ff6a9f0]{
 -- Page 336, Offset 15623.
 -- 俺は姿勢を正して、ノエル先生の説明に耳を傾けた。
-I straighten up, and listen carefully to what Noel has to say.
+I straighten up, and listen carefully to what Noel-sensei has to say.
 }
 [sha:0cba9923f5e3479d3297f265925943fcc67c9541]{
 -- Page 337, Offset 15624.
 -- 「確かにヴローヴは斃せたわ。でも吸血鬼退治はそれだけで終わりじゃないの。
-"It's true you did manage to defeat Vlov, but the vampire extermination doesn't end there.
+"It's true that you managed to defeat Vlov, but that doesn't mean we're finished exterminating vampires.
 }
 [sha:8a2ef7aa6826ba75acbb9f9ab3fe48cd6180d1d5]{
 -- Page 337, Offset 15625.
 -- 親基は死んでも、Ⅲ階梯より上の死徒は死にはしない。アイツらはアイツらで、親基に成り代わって街を食い物にしようとする。
-Even if their vampire sire is killed, Dead Apostles of Rank III and above don't die.
- They'll try and prey on the city in place of their sire on their own.
+Dead Apostles of Rank III and above don't die just because their vampire sire has been killed.
+ They'll still run around the city of their own accord, preying on people in place of their sire.
 }
 [sha:0a3052fb52ec0b69b486b6ec25b0ae1548b2c75c]{
 -- Page 337, Offset 15626.
 -- わたしとシエルさんはその処理の為に残っているの。
-Me and Ciel-san are still here to take care of them.
+Ciel-san and I have stayed behind to clean up those loose ends.
 }
 [sha:86ccdc78e6d02808da118581f84ba2945cf21776]{
 -- Page 337, Offset 15627.
@@ -809,7 +864,7 @@ Clean up――basically working overtime? Kind of?
 [sha:aa89d549ddf3d8a9db8ac8e9603337109c596160]{
 -- Page 337, Offset 15628.
 -- こんなドブさらい、やりたくないんだけどね～」
-Not that I %{i}want%{/i} to do that kind of grunt work."
+Can't say I particularly enjoy this kind of grunt work, though."
 }
 [sha:d1c6b7f916227480889a3df9d70443103f26547f]{
 -- Page 338, Offset 15629.
@@ -831,19 +886,21 @@ Noel-sensei and the others still have to go around the city rooting out any rema
 [sha:d02ab94c2f6c80849d27725a422588bbe5c92fac]{
 -- Page 339, Offset 15632.
 -- 「それはどのくらいかかるものなんですか？」
-"And how long is that going to take?"
+"About how long does something like that usually take?"
 }
 [sha:029eea184a460b0e1e925aac85f296ced069ba4f]{
 -- Page 339, Offset 15633.
 -- 「んー、あの地下墓地の規模から見るに、下手すると半年くらいかかるかも。
-"Hmm, given the scale of those catacombs, it might take up to half a year in the worst case scenario.
+"Hmm, based on how extensive those catacombs were,
+ I'd say it could take up to half a year if things don't go our way.
 }
 [sha:d801fc86956d576f4b5c2c6fccfeed337dccc17f]{
 -- Page 339, Offset 15634.
 -- シエルさんが頑張らなければ、だけど。あの子、ワーカーホリックだからさ～。明日する仕事も今日やっちゃうタイプなのよね～」
-// there might be a more natural English expression for "to do tomorrow's work today", but I can't think of it.
-Well, as long as Ciel-san doesn't go hard.
- She's a real workaholic, you see. She's the type of person to do tomorrow's work today, and all that."
+// Expression here fairly close to Benny Franks quote, so subbed
+Well, that's unless Ciel-san really goes to town.
+ She's a total workaholic, you see.
+ Never leave til tomorrow what you can do today, and all that."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 340, Offset 15635.
@@ -858,17 +915,19 @@ Without meaning to, I clench my fist.
 [sha:4e9ac67db543ab437bde54d1db791a1a44a3795a]{
 -- Page 340, Offset 15637.
 -- 吸血鬼への憤りではなく、個人的な歓びでだ。
-Not out of fury toward the vampires, but out of my own personal happiness.
+Not because I'm furious at the vampires,
+ but because I'm so happy about what this means for me.
 }
 [sha:1c0e57306166ee6f60444a5421fcd650b2e232e8]{
 -- Page 341, Offset 15638.
 -- ノエル先生の話が本当なら、シエル先輩はしばらく学校に残ってくれる事になる。
-If what Noel's says is true, then Ciel will stay at the school for a while.
+If what Noel-sensei says is true, then Ciel-senpai will be staying at our school for a while.
 }
 [sha:28dc7c4c3794f31fd854eb4da695bcde00353b42]{
 -- Page 341, Offset 15639.
 -- 問題は山積みではあるけれど、その事実が俺の胸を弾ませていた。
-There are tons of problems remaining, but that fact alone brings excitement into my heart.
+There may still be a mountain of problems remaining,
+ but that fact alone is enough to spark joy in my heart.
 }
 [sha:584354f9f8a396a708ade99886a0814d57a3ee57]{
 -- Page 342, Offset 15640.
@@ -889,37 +948,39 @@ Senpai said she'd erase my memory after Vlov was defeated..."
 [sha:b5d381434153e9dab503e123832fd743d0e75fb7]{
 -- Page 343, Offset 15643.
 -- ……あー、できちゃうかぁ。でも、さすがにもう遅いかな？　一日や二日なら『思い出せない記憶』があってもごまかせるけど、もう四日でしょ？
-Oh... I guess she could? But still, isn't it too late?
-You can sort of cover it up if there are one or two days of memories they can't remember, but four?
+Hmm... I guess she could? But still, isn't it a bit late at this point?
+ If you only erase one or two days, you can play it off as someone having just forgotten what happened, but %{i}four%{/i}?
 }
 [sha:c2f9a50cad35614f117cd81bb1ef0d7c9bb00819]{
 -- Page 343, Offset 15644.
 -- いま志貴クンから『吸血鬼に関する記憶』を消しちゃうと、それまでとこれからの食い違いで、余計に『何かあった』事が外部に知られるし」
 // this is one weird sentence.
-If one were to erase your memories concerning vampires now,
- the discrepancy between what's happened and what will happen would make it all the more obvious to the outside that something's happened."
+// Interpreting this is it being more obvious _to him_ that something fishy happened,
+// because he'd be like 'huh don't remember their being a big fuck-off pit in front of the department store'
+Even if someone were to erase all of your memories concerning vampires now,
+ so much has changed over the course of that time that it'd only make it %{i}more%{/i} obvious to you that something suspicious had happened."
 }
 [sha:9c532d8e9f197c6e7c2bcc68bc253e6d18b89ec3]{
 -- Page 344, Offset 15645.
 -- 「安心して、わたしがいるかぎり、シエルさんにそんな怖いコトはさせないから。
-// わたしがいるかぎり、シエルさんにそんな怖いコトはさせないから。 this construction some somehow doesn't work logically in English and I hate it, so there's a lot that can be improved here.
-"But don't worry, because with me around, you can count on Ciel not being allowed to do something so scary.
+"But relax, so long as I'm around, I won't let Ciel-san do anything scary like that.
 }
 [sha:6021de4f5a1ff3d51c057e9fe065eaae780c1ad1]{
 -- Page 344, Offset 15646.
 -- 志貴クンの理由は分かったし。アナタは、いたずらにわたしたちのコトを言いふらしたりしないでしょ？
-I know about your reasons now, too. You're not gonna go around frivolously telling everyone about us, right?
+I know about your reasons now, too.
+ You're not going to go running around blabbing about us to people, are you?
 }
 [sha:26d7984eb6d2dac49289dbf6bfe2891adcb7f8c2]{
 -- Page 344, Offset 15647.
 -- 頭をいじるとか、そんなの必要ナイナイ☆」
 // needlessly needless to capture the 必要ナイナイ
-Stuff like messing with your head's just sooo needlessly needless ☆."
+Going and messing with your head's just sooo needlessly needless ☆"
 }
 [sha:d516a40671dd537412f255aab1ec5d9222de7f1e]{
 -- Page 345, Offset 15648.
 -- そう言って、ノエル先生は俺から距離を取った。
-With that, Noel opens up some distance between us.
+With that, Noel-sensei begins to walk away.
 }
 [sha:de6bbb4535fe25bd9502dc2b0429ba80686f0dd5]{
 -- Page 345, Offset 15649.
@@ -929,17 +990,17 @@ It seems our conversation is over.
 [sha:0f0712adf050f1f7068381b3706250c12fd16781]{
 -- Page 346, Offset 15650.
 -- 「じゃあね。わたしとしては志貴クンが味方になってくれれば嬉しいけど、シエルさんは真面目だから。
-"Seeya. Personally I'd be happy with you becoming an ally, but Ciel-san is just so strict, you know.
+"See ya. Personally, I'd be happy with you becoming an ally, but Ciel-san is just so strict, you know.
 }
 [sha:ff0287fe0551b2064c33e6e39b1c80f6699791f9]{
 -- Page 346, Offset 15651.
 -- あの子に見つからないよう、できるだけおとなしく過ごしなさい」
-Try you best to take things as easy possible, without being found out by her."
+Do your best to behave so she doesn't find you, okay."
 }
 [sha:5fe75208e0f78a46d9892c12e3891a88a37ed853]{
 -- Page 347, Offset 15652.
 -- 「あ、でも個人的興味で相談に来るのは大歓迎♥
-"Oh, but I'd be all too happy to take you up on some personally motivated counseling sessions ♥.
+"Oh, but if you're interested in some %{i}personal%{/i} counseling sessions, I'd be happy to oblige ♥
 }
 [sha:6a2777ad76b5b10c6eb34deea81d6cc842bb06d5]{
 -- Page 347, Offset 15653.
@@ -949,17 +1010,20 @@ I %{i}am%{/i} a teacher, after all!"
 [sha:88e61ae77c0e483695f69075c1ebfb745b598e06]{
 -- Page 348, Offset 15654.
 -- 投げキッスをしてノエル先生は去って行った。
-Noel throws me a kiss, before leaving.
+Noel-sensei throws me a kiss as she heads off.
 }
 [sha:8a43e6204dd5ffc98e03c132090f283e75379fca]{
 -- Page 348, Offset 15655.
 -- どこまで本気だか分からないものの、あのテンションの高さは見習いたい。
-It's hard to tell just how serious she is about all this, but I at least find that energy of hers enviable.
+It's hard to tell just how serious she is about all this,
+ but I have to say I admire that energy of hers.
 }
 [sha:d6485c2b3a0cc0c7b4b302e873ff79d90243464f]{
 -- Page 349, Offset 15656.
 -- 日が沈む。今日はもうおしまいだが、明日になっても、学校にはシエル先輩がいる。
-The sun is setting. Things are about to conclude for the day, but even when I go to school tomorrow, Ciel's still going to be there.
+// Felt a bit clunky to include the 学校, and here _is_ 学校 currently in addition to it being more general
+The sun is setting.
+ Today may be almost over, but even after tomorrow arrives, Ciel-senpai will still be here.
 }
 [sha:a4aca9bda2a416d559aff0cb44a0d26e6d91e9f7]{
 -- Page 349, Offset 15657.

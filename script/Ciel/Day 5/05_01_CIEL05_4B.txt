@@ -31,7 +31,7 @@ Killing me is now the only thought in that vampire's mind.
 [sha:f907c05bcd0189eef81893831eaf914913705269]{
 -- Page 734, Offset 12842.
 -- 「先輩、放して、くれ」
-"Senpai... put me down... please."
+"Senpai... let me go... please."
 }
 [sha:7b42bc866e2ff0a4aefa14343b1a3a0000e271d3]{
 -- Page 734, Offset 12843.
@@ -83,7 +83,7 @@ At this rate, my brain will shut down from this headache long before I breathe m
 [sha:435fb04c2f386e6ba567ea32204d46faf253a9c6]{
 -- Page 737, Offset 12852.
 -- 「そうですか。では、<ま|・><だ|・><信|・><じ|・><て|・>いいんですね？」
-"I see. Then, I can still count on you, can't I?"
+"I see. Then, I %{i}can%{/i} still count on you, can't I?"
 }
 [sha:50ae098e2bb56eb507701a0ed8c0af31040b32cc]{
 -- Page 737, Offset 12853.
@@ -216,14 +216,14 @@ However―――
 -- だが、そのすべての直感を排斥して、ヤツは地を這う俺を選んだ。
 // Another instance of just _awkward_ state tagging in EN with 地を這う.
 // Really needs to be broken out into another thought or just dropped.
-However, in a complete rejection of his intuition, he chooses me instead――
+In a complete rejection of his intuition, he chooses me instead――
 the one creeping across the ground toward him.
 }
 [sha:918b45f9b3f613be97ef9f9a6b815b828461d7a7]{
 -- Page 744, Offset 12878.
 -- 激情に流れたのではない。本能という絶対命令を、意思の力で押し曲げた。
 This isn't a result of him being caught up in his own violent emotions.
- He has bent the absolute command of his intuition through sheer force of will.
+ He has bent the absolute command of his instincts through sheer force of will.
 }
 [sha:8e71847087c6eadbad09f84ce9ced36923c534a5]{
 -- Page 745, Offset 12879.
@@ -277,8 +277,8 @@ As if to show me the way―――
 [sha:ea258243fef18a7fb2ac628f3120d44d17cbca18]{
 -- Page 749, Offset 12888.
 -- 「“その遠吠えは　万里を手繰る―――！”」
-// There lore context to inform this, or just chuuni speak?
-"By the distant howl, may ten thousand miles come to naught―――!"
+// No lore context here, just chuuni speak
+"The howling... resonates across the beyond―――!"
 }
 [sha:25b340794377840e838f9affbb02f4c64198cfb1]{
 -- Page 749, Offset 12889.
@@ -319,8 +319,7 @@ My knife sinks into the vampire's chest with ease.
 [sha:15860d3978be4460c8ecca41029bbb9f899f3450]{
 -- Page 752, Offset 12896.
 -- 「づ―――あ、あああああああああああああああ！」
-// lint-off:LintNameMisspellings
-"%{i}Raa―――aaaaaaaaaaaaaaaaaaaa%{/i}!"
+"%{i}Raaaaaaaaaaaaaaaaaaaaaa%{/i}!"
 }
 [sha:2449441c37bd849f5e4d266142f04152f189267d]{
 -- Page 752, Offset 12897.
@@ -346,7 +345,7 @@ Pain, transmitted through the knife I stabbed into that 'point', floods into my 
 [sha:d24f95b699c9487012250849403d0ec33d279bd0]{
 -- Page 753, Offset 12901.
 -- 「“―――貴様は―――”」
-"―――You―――"
+"―――You bastard―――"
 }
 [sha:ac5208468f7013157f521c05b60b9f3943c4073e]{
 -- Page 753, Offset 12902.
@@ -462,7 +461,7 @@ The impact doesn't just shatter his ribs, it pulverizes his entire torso.
 [sha:c5fe655dc4bf241090f4c0fde9cad5ed5af80eb7]{
 -- Page 762, Offset 12924.
 -- 「“貴様―――そうか、貴様もか……！
-"You―――I see, you too...!
+"You bastard―――I see, you too...!
 }
 [sha:ab53e2de803ec7185d3d433a6246a27a01a260c0]{
 -- Page 762, Offset 12925.
@@ -493,12 +492,13 @@ Up to this point, there wasn't even so much as a trace of the deep-seated hatred
 -- Page 764, Offset 12930.
 -- “花は胸に―――<聖女の祈りを贖いに|クレアトゥーラ・デル・シエロ>！”」
 // Creature del Cielo, in French 'Creature du Ciel', means Heavenly Creatures. Which is also the IT/EN name of a film whose JP name is 乙女の祈り. How strange.
-'A flower to my bosom―――^<Redemption by the Prayer of the Holy Maiden|         C r e a t u r e  d e l  C i e l o>!"
+'A flower to my bosom―――%{n}
+<Redemption by the Prayer of the Holy Maiden|         C r e a t u r e  d e l  C i e l o>!"
 }
 [sha:06beaa9ec88fdd0b09e58353e69093ff0e86ee27]{
 -- Page 765, Offset 12931.
 -- 「“ha―――aaaaaaaaaaaaaaaaaaaaaaaaa！！！！”」
-"%{i}Aaaa―――aaaaaaaaaaaaaaaaaaaaaaaaa%{/i}!!!!"
+"%{i}Argh, aaaaaaaaaaaaaaaaaaaaaaaaa%{/i}!!!!"
 }
 [sha:89681afd4774da56fc9aac4811e7b870fb3a868f]{
 -- Page 765, Offset 12932.

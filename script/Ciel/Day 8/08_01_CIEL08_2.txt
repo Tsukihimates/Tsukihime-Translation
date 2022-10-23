@@ -6,17 +6,18 @@
 [sha:ed17dbf4f80205f1499b48f0f311c3048d19281b]{
 -- Page 10005, Offset 18666.
 -- 馬鹿げた発言は控えるように、代行者ノエル」
-Refrain yourself from making any more foolish statements, Executor Noel."
+Please refrain from making any more foolish remarks, Executor Noel."
 }
 [sha:8db781d34835c83b329935ed7fe01a2a215e67bc]{
 -- Page 157, Offset 18667.
 -- 俺が答えを返す間もなかった。
-I didn't even have the opportunity to answer.
+I didn't even get a chance to reply.
 }
 [sha:fd4758fe49af7073018a8b2819d334b8e775c37c]{
 -- Page 157, Offset 18668.
 -- 先輩は作った声ではない、心からの冷徹な声でノエル先生を戒めると、ドアに向かって歩き出した。
-Senpai wasn't overdoing it. she rebuked Noel-sensei in a genuinely scathing tone, after which she walked to the door.
+Senpai's tone of voice was no act.
+ She rebukes Noel-sensei with a genuinely scathing tone, and begins to head for the door.
 }
 [sha:2997a6be4ec0e7f7fee7e6abf9eae85232f733cf]{
 -- Page 158, Offset 18669.
@@ -26,99 +27,113 @@ Senpai wasn't overdoing it. she rebuked Noel-sensei in a genuinely scathing tone
 [sha:3623a0034c9aa8a74a96e695733693fbb1719087]{
 -- Page 158, Offset 18670.
 -- ノエル先生は自分の職務に専念してください。
-Please remain focused on your task, and only on your task, Noel-sensei.
+Noel-sensei, please remain focused on your task, and %{i}only%{/i} on your task.
 }
 [sha:87c975d14f0daa9c9a7c66b70ced47f7997de725]{
 -- Page 158, Offset 18671.
 -- 遠野くんは二度と吸血鬼に関わらない。
-Tohno-kun, you will never involve yourself with vampires again.
+Tohno-kun, you'd better not involve yourself with vampires ever again.
 }
 [sha:144bec0e3a149daa4a5b3817de4d97f9918b6cc8]{
 -- Page 158, Offset 18672.
 -- これは警告です。破った者には私から相応の処置があると覚悟するように」
-// I don't remember if Shiki made a promise or not. Change it if he hasn't made one. Also used punishment for 処置 but it could be better to use something more neutral if the phrasing permits it.
-I am warning you. Those who break their promise should be prepared to receive a fitting punishment from me."
+// G: I don't remember if Shiki made a promise or not. Change it if he hasn't made one. Also used punishment for 処置 but it could be better to use something more neutral if the phrasing permits it.
+// R: I'd say this is calling back to offsets 15452 through 15456, which is close enough to a promise.
+I'm warning you now.
+ Anyone who breaks a promise with me had better be prepared to receive a fitting punishment."
 }
 [sha:9a234e8402f5f0fb277457f84889fd66f57692fb]{
 -- Page 159, Offset 18673.
 -- 「怒られちゃった。やっぱり本音出すと怖いわねー、あの子。
-"Ah, I made her angry. As expected, she's scary when she lets her true feelings out.
+"Oopsie, I pissed her off.
+ That girl's a real menace when she bares her true feelings.
 }
 [sha:30d5fae9fba32fb19c586f4d5c560ea57873aaa8]{
 -- Page 159, Offset 18674.
 -- ……ま、そうでなくちゃ、わたしもやってらんないんだけど」
-...Well, if she wasn't, I wouldn't be able to do what I'm doing."
+Hmph... Well, at least it means I can get away with it as well."
 }
 [sha:2f8137b96ab5bc30eeedbfa5f60af8bb3ddd2ffe]{
 -- Page 160, Offset 18675.
 -- シエル先輩は保健室を後にしたが、ノエル先生は椅子に座ったままだ。
-Noel-sensei is sitting put on the chair, even after Ciel-senpai left the infirmary.
+Ciel-senpai has left the infirmary, but Noel-sensei hasn't budged from her chair.
 }
 [sha:9e281aa183b4a5460af2cb7a89dfbe46c84fea8f]{
 -- Page 160, Offset 18676.
 -- 俺は……良かった、もう手足の感覚がある。
-I... Great, I can now feel my hands and feet.
+As for me... great, I can feel my hands and feet again.
 }
 [sha:ead56752d7e96b923536c0af318c7031f21c3593]{
 -- Page 160, Offset 18677. Mods: @n.
 -- 深呼吸をしてから体を起こす
-I take a deep breath and pull myself up.
+I take a deep breath and pull myself upright
 }
-[offset:18678]{
+[sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 160, Offset 18678. Glued.
 -- 。
-// Took me a long time to translate that line
 .
 }
 [sha:7fd93f7c70229da32cf880d20dc0a883b9f5649d]{
 -- Page 160, Offset 18679.
 -- 時刻は午前11時前。この分なら４時限目には滑り込めそうだ。
-It's just before 11 o'clock. At this rate, it seems that I'll make it just in time for the fourth period.
+It's just before 11 o'clock.
+ At this rate, I should be able to make it back in time for fourth period.
 }
 [sha:347c6c1ec294695412726c17683a03f8959ae1d0]{
 -- Page 161, Offset 18680. Mods: @n.
 -- 「あら、志貴クンもう授業に戻るの？
-"Oh my, will you be returning to class, Shiki-kun?
+"Oh my, are you going back to class already, Shiki-kun?
 }
 [sha:f1069c360aab88442f032b33c380a7e0d74906ef]{
 -- Page 161, Offset 18681. Glued.
 -- 放課後まで休んでいくと思ったのに」
-I thought you'd be resting till the end of the day."
+ I assumed you'd spend the remainder of the day resting."
 }
 [sha:096a96789dca26f0897b63d7882a6d2404b20cbc]{
 -- Page 161, Offset 18682.
 -- 「そうしたいところですけど、体が動くなら授業にでますよ。いつ倒れるか分からないんだし、あんまり休めません」
-"I'd like to do that, but I'll go to class if my body allows it. And I don't know when I'll collapse next, so I can't really rest."
+"Well, I'd love to, but if I'm well enough to move, I'm well enough to go to class.
+ There's no way of knowing when I'll collapse next, so I can't let myself get complacent."
 }
 [sha:1f707ff0dddc348ccc93c26bc404fd2a38976c6d]{
 -- Page 162, Offset 18683.
 -- 「ふーん。可愛い顔なのに真面目なんだ。ますますキュンときちゃうかも。
-"Ohh? You've got a cute face, but you're also so earnest. I may be really falling for you.
+"Ohh?
+ You're pretty earnest behind that cute face of yours.
+ I might really be falling for you.
 }
 [sha:22d25686437cd18872e9c1d1de47e7ade01f34e2]{
 -- Page 162, Offset 18684.
 -- 先生ね、無理してるクセに平気そうにしている人って昔からタイプなんだ。あ、もちろん男の人限定で。女の場合はまた別の話だから」
-You know, I've always had a thing for people who try to look fine even though they're pushing themselves too hard. Ah, I'm talking about men only of course. It's a different story if it's a woman."
+You know, I've always had a thing for people who try to put on a brave face even when they're pushing themselves.
+ Oh, but that only goes for men, of course.
+ It's a totally different story if they're a woman."
 }
 [sha:412ab8a341c29ef259a337fc7fcf0848a65a655b]{
 -- Page 163, Offset 18685.
 -- なんて言いつつ、先生は空いているベッドに腰をかけた。
-While saying that, Sensei sits down on an empty bed.
+As she says this, Sensei takes a seat on one of the empty beds.
 }
 [sha:865df84dbcc6881cac9ef724e977e50e2d718e4d]{
 -- Page 163, Offset 18686.
 -- 悪ふざけで誘っている……のではなく、本当にベッドに横になるつもりらしい。
-It seems that she's not trying to tempt me as a joke, she really is going to lie down on the bed.
+I thought that this was more of her twisted sense of humor,
+ but it seems like she's seriously just planning on having a lie down.
 }
 [sha:4c47ec3d46b0ab8e37c995d7cab611938221e40b]{
 -- Page 164, Offset 18687.
 -- 「じゃ、善良な学生生活、しっかりねー♪
-"Well then, enjoy your virtuous student lifeー♪
+"Alright, run along and be a good little schoolboy then ♪
 }
 [sha:32f72bf8c59062933becc8691654ef6b504546bd]{
 -- Page 164, Offset 18688.
 -- 先生はもうちょっと休んでいくから。ちょっと風邪気味みたいなのよね。食欲もないしやる気もでないし。夏バテみたいなものかしら？」
-As for me, I'll just rest a little more. I think I may have caught a cold. I'm not hungry and I don't feel like doing anything. Something like when you're worn-out from the summer heat, maybe?"
+// Isn't it autumn?
+// 夏バテ seems like a kinda JP only concept. Summer blues is more psychological, and I can't think of a trite phrase for 'general summer feelsbad'
+I'm just gonna rest a little while longer.
+ I feel like I've come down with a bit of a cold, you see?
+ I've lost my appetite and I don't really feel like doing anything.
+ It's like I've got heatstroke or something."
 }
 [sha:98b2344f867bafda2ea853945420f29a439e0033]{
 -- Page 165, Offset 18689.
@@ -128,30 +143,36 @@ She closes the curtains surrounding the bed.
 [sha:7f4f8c0c9711e86fbc15dfd68db8e1de6a24f208]{
 -- Page 165, Offset 18690.
 -- ノエル先生は陽気に口笛などを吹きつつ横になってしまった。
-Noel-sensei lies down on the bed while merrily whistling a tune.
+Noel-sensei lies down while merrily whistling a tune.
 }
 [sha:a18de3ce03d78e31ef10e09f6c0cd0d17a47181a]{
 -- Page 166, Offset 18691.
 -- 「あの。俺が言える事じゃないけど、教師がそんな簡単に休んでいいんですか？」
-"Um. I know I'm not in the position to say this, but is it really okay for a teacher to be skipping work like that?"
+"Um... I know it's not my place to say, but is it really alright for a teacher to up and skip work like this?"
 }
 [sha:9b7fb23c7f632e5dbd0bd78ea99d376f693a5475]{
 -- Page 166, Offset 18692.
 -- 「ホント、キミが言えるコトじゃないわね。オトナだってさぼりたい時があるのよ。いいじゃない、自習の一つや二つ。わたしサンタクロースみたいなもんだし。ちょっと早いけど、子供たちにプレゼントをあげましょう！」
-"Yup, that's really not something for you to say. Even adults want to slack off sometimes. One or two sessions of self-study, that's not a big deal. I'll be like Santa Claus or something, giving presents to children! A bit early, I admit."
+"Yep, it's not your place to say that at all.
+ Even adults want to slack off sometimes.
+ C'mon, what's the harm in one or two lessons being self-study?
+ I'm just like Santa Claus, delivering presents to the children!
+ A bit early, I admit."
 }
 [sha:013786638a8d9093f503aa141c57b50c708091b6]{
 -- Page 167, Offset 18693.
 -- 妙な言い訳をして彼女は眠ってしまった。
-And with that strange excuse, she goes off to sleep.
+After giving that bizarre excuse, she falls asleep.
 }
 [sha:0765ca21886dbdd81f3b5ba834594aae0f8aca1a]{
 -- Page 167, Offset 18694.
 -- 起こすのも気が引けるし、こっちも急がないと４時限目に間に合わない。
-I'm reluctant to wake her up, and besides, I have to hurry up or I won't make it for fourth period.
+I'd feel awkward about waking her up,
+ and I've got to get going anyway if I want to make it in time for fourth period.
 }
 [sha:4f6125cef3d6f3fa6e7eaf4144fb195917cdc6a2]{
 -- Page 167, Offset 18695.
 -- 一応、薬箱から風邪薬を出してテーブルに置いてから、保健室を後にした。
-Just in case, I take out some cold medication from the medicine box, leaving it on the table, and then leave the infirmary.
+I take some cold medicine from the cabinet and place it on the table just in case,
+ then leave the infirmary.
 }

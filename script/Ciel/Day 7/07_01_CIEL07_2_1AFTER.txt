@@ -1,8 +1,8 @@
 [sha:f71a926d4d14ff7f127153ff09c4c6a8e5c429c9]{
 -- Page 10012, Offset 15361.
 -- 「と。そういえば先輩、なんであの広場で眠ってたんですか？　もしかして油断して捕まってたとか？」
-"Oh. By the way, Senpai, why were you sleeping there at the central area?
- Don't tell me you got caught off guard and were captured?"
+"Oh. By the way, Senpai, why were you asleep in that underground chamber?
+ Don't tell me you got caught off guard and captured?"
 }
 [sha:116e20f8c9fbbd70eed2dd9136c5ada1ef490679]{
 -- Page 238, Offset 15362.
@@ -12,21 +12,19 @@
 [sha:e81733773c8a83079847ebfd3d5ce63f74614001]{
 -- Page 238, Offset 15363.
 -- あの寝台は特別な生け贄を送るものだったんです。
-// あの寝台 is the thing Ciel was resting on. Dictionaries will suggest "bed", but that doesn't really get well across what it was when you look at it. This is another term that's gonna need consistency checks I think. Regardless, I've rendered it as podium here, because that's what it looks like.
 // 生け贄を送る, here okuru is the normal verb used together with sacrifice, which would be to "offer a sacrifice" in English.
-That podium was for offering up special sacrifices.
+That altar was for offering up special sacrifices.
 }
 [sha:1263163ad6403ba41044b15b39167ee296643833]{
 -- Page 238, Offset 15364.
 -- だからわざと捕まって、親基がやってくる夜まで眠ったフリをしていたのに……」
 So I got caught on purpose,
- and pretended to sleep while waiting for the sire to show up at night.
- But then..."
+ and was pretending to be asleep while I waited for night to fall and the sire to show up, but instead..."
 }
 [sha:b54ceb22bba5f08f26073ec69a70de56f916f18a]{
 -- Page 239, Offset 15365.
 -- 「……あ……俺が邪魔しちゃった……んですね……」
-"Oh... and that's when I interfered, right..."
+"Ah... Instead I showed up and got in the way, right..."
 }
 [sha:2b49c3c21bfefa8ea5f7fc86375270666f4f515f]{
 -- Page 239, Offset 15366.
@@ -37,20 +35,21 @@ I feel somewhat ashamed, reflecting on my actions.
 -- Page 240, Offset 15367.
 -- 「まったくです。ほんとに驚いたんですからね。
 // this is the exasperated confirmatory mattaku.
-"Right so. You know, I was really surprised.
+"You sure did.
+ It honestly took me completely by surprise.
 }
 [sha:6dad6d906152a7e899b435bc249353c68ac3df81]{
 -- Page 240, Offset 15368.
 -- お願いですから二度とあんな真似はしないように。助けられそうな他人より、助からなくてはいけない自分の命を考えてください。いいですね遠野くん」
 Please promise me you'll never do something like that ever again.
- You should consider your own life over saving complete stranger,
- especially when that might not be possible.
+ You need to prioritize your own life――something you %{i}must%{/i} protect――over that of a stranger,
+ whose life you only %{i}might%{/i} be able to save.
  Do you understand, Tohno-kun?"
 }
 [sha:38b123dccc1ce92ef92352cc245e749d53eee3dd]{
 -- Page 241, Offset 15369.
 -- もっともなお叱りに、はい、とうなだれて返答する。
-A most reasonable reprimand, to which I can only nod a silent yes.
+I hang my head in shame and nod in response to her stern scolding.
 }
 [sha:c8eeffb0f1eddac25a2171895e8b342529e083c9]{
 -- Page 241, Offset 15370.
@@ -60,11 +59,8 @@ There must've really been something wrong with me back then.
 [sha:de84eb5f48646185e1b5820eb41147a4b3abe893]{
 -- Page 241, Offset 15371.
 -- そりゃあ普段から血の気は少ない方だけど、極限状態に陥るとよけい脳に血が巡らなくなるのかもしれない。
-// the Japanese sentence starts out sound like he's going to deny the second part and then it doesn't... this might just be poor writing. I've tried rectifying it, but perhaps that was overly corrective of me.
-// 血の気は少ない was rendered before as having a pale complexion, but here it has to be a bit literal for the metaphor to make sense.
-Well, I am somewhat thin-blooded, what with the anemia and all,
- so maybe when I get put in an extreme situation,
- the blood doesn't flow all so well in my brain.
+Well, I guess I am a little short on blood even at the best of times,
+ so maybe when I end up in a stressful situation like that, there's just not enough of it making it to my brain.
 }
 [sha:08f4ce6dc7fd876c1766d782091af2bef5e2f007]{
 -- Page 242, Offset 15372.
@@ -74,9 +70,9 @@ Well, I am somewhat thin-blooded, what with the anemia and all,
 [sha:08758fb3790b20b10364d797275a3de115d53a72]{
 -- Page 242, Offset 15373.
 -- なんだって遠野くんに死徒の寝床なんて教えたんでしょうか、彼女は。いえ、それだけじゃなくヴローヴと直接戦わせるなんて、遠野くんを殺す気だったとしか思えません」
-Why in the world did she teach you the location of the Dead Apostle's sleeping place, I wonder?
- No, not just that, she even made you fight against Vlov straight up.
- One could only presume she %{i}wanted%{/i} you to die."
+Why in the world did she tell you where that Dead Apostle was sleeping, I wonder?
+ Wait, and that's not all―――she even made you fight Vlov face-to-face.
+ One can only assume she %{i}wanted%{/i} to get you killed."
 }
 [offset:15374]{
 -- Page 243, Offset 15374.
@@ -86,8 +82,8 @@ Why in the world did she teach you the location of the Dead Apostle's sleeping p
 [sha:0850b2076c1d40f42eab9db6e42d025eea2ef7c2]{
 -- Page 243, Offset 15375.
 -- おかしな発言に顔をあげると、先輩はあさっての方角を見ながらプリプリと怒っていた。……さっきまでのクールさはどこにいったのか。
-I lift up my face at the odd statement to find Senpai looking the other way, steaming with anger.
- Where did her cool from before go off to?
+I look up at this odd remark to find Senpai staring off into the distance, positively fuming with anger.
+ Why has she suddenly lost her cool like this?
 }
 [sha:54b90f734a865a8a31b1fd592e02715166206129]{
 -- Page 244, Offset 15376.
@@ -98,7 +94,8 @@ I lift up my face at the odd statement to find Senpai looking the other way, ste
 [sha:56bc101ad4993ca7fbca9758b0405084526cae00]{
 -- Page 244, Offset 15377.
 -- 結果、遠野くんをあんな危険な目に遭わせるなんて、あの場で彼女をこらしめようと思ったぐらい、あたまにきました」
-As a result, she put you in a really dangerous situation. It makes me so mad I almost wish I'd have disciplined her right on the spot."
+As a result, she put you in a really dangerous situation.
+ It makes me so mad that I almost wish I'd given her a piece of my mind right then and there."
 }
 [sha:9c3927952401138490a79054ecdfcf1d273650e2]{
 -- Page 245, Offset 15378.
@@ -106,19 +103,19 @@ As a result, she put you in a really dangerous situation. It makes me so mad I a
 // 生身 here is hard to render, it essentially boils down to its usage in "生身の人間", so like "merely human", but that was hard to fit in and sounded unnatural.
 // 弱みに握られる is a phrase that implies someone has dirt on you, so in this case, that Shiki had no choice but to comply, hence the phrasing here.
 "And that goes for you too, Tohno-kun.
- Just because you've got a weapon capable of taking out vampires,
- doesn't mean you can fight completely as you are――what were you thinking?
- Or did she have some way of forcing you into it?"
+ It's all well and good that you have a weapon capable of taking out vampires,
+ but what on earth makes you think you stand a chance against them as an ordinary person?
+ Don't tell me she blackmailed you into it or something?"
 }
 [sha:639e7351d73dd1ac6da6ac56e6d2dbb4aea62bab]{
 -- Page 246, Offset 15379.
 -- 「あ、いえ……そんなコトは、ないんですけど……」
-"Ehm, no... that wasn't really the case, no..."
+"Oh, no... she didn't, but..."
 }
 [sha:9b4c3a0222efc5334cc134bb2e11b8f04e38785c]{
 -- Page 246, Offset 15380.
 -- ……ますます立場がない。アイツを殺した責任から、なんて言える空気じゃないし、あの殺人を先輩に告白するだけの勇気がなかったのだ。
-My position is getting weaker and weaker.
+My position is getting weaker by the second.
  I don't think it would fly if I said that I did it out of a feeling of responsibility for having killed her.
  Besides, I don't have the courage to own up to that murder to Senpai anyway.
 }
@@ -135,32 +132,38 @@ My position is getting weaker and weaker.
 [sha:e2f111dcea86932296992198af84142917e771d4]{
 -- Page 247, Offset 15383.
 -- こんな時もぽやっとしてないでください！」
-Please don't go spacing out on me in situations like this!"
+// 'times like this' is an antipattern in my book, so adjusted for context.
+Please don't go spacing out on me while I'm talking to you!"
 }
 [sha:74fd0fb24b24adc965a39528cde92c59519e9fd6]{
 -- Page 248, Offset 15384.
 -- 「は、はい、聞いてますとも！
-"Y-yeah, I'm listening!
+"Y-Yeah, I'm listening!
 }
 [sha:597bc253b2a8a294a0f31accafc26b063b023dfa]{
 -- Page 248, Offset 15385.
 -- そ、それより先輩、吸血鬼を倒せる武器って、なに？」
-B-but putting that aside, what do you mean by 'weapon capable of taking out vampires'?"
+B-But step back a second Senpai,
+ what do you mean by a 'weapon capable of taking out vampires'?"
 }
 [sha:28fdb743f1cbef3d82d19e89e8b21b8a1477b99d]{
 -- Page 248, Offset 15386.
 -- 風向きが良くないので咄嗟に話を逸らす。
-Things weren't going my way, so on impulse, I steer the direction of our conversation elsewhere.
+I don't like the direction this conversation is going,
+ so I hastily try and change the topic.
 }
 [sha:739e914250ea586461769ce37e6aad55c27230d3]{
 -- Page 249, Offset 15387.
 -- 「なにって、遠野くんが持っていたナイフですけど」
-"What do you mean what? Obviously the knife you've got."
+// Pause added to match VA
+"What do I mean...?
+ I'm talking about that knife of yours..."
 }
 [sha:97aca505188ab41ec00690b3f38eeba49d6552f4]{
 -- Page 249, Offset 15388.
 -- おお。苦し紛れの質問で起死回生できたらしい。
-Wow, I slipped that question in by sheer desperation, but it seems to have given me a second chance at life.
+Wow, I threw that question out there in sheer desperation,
+ but it seems like I've managed to buy myself a new lease on life.
 }
 [sha:b82e32be77f3edd15f6c78c9e56db124977e57b7]{
 -- Page 250, Offset 15389.
@@ -170,25 +173,27 @@ Wow, I slipped that question in by sheer desperation, but it seems to have given
 [sha:88b7e4f9577a449d273ad468b8a2110beb878269]{
 -- Page 250, Offset 15390. Mods: @k, @e.
 -- 「そうですけど……
-"Right, but...
+"I am, but...
 }
 [sha:b187f8771cd16c51d9481e61bccccb17e7ceac98]{
 -- Page 250, Offset 15391. Glued. Mods: @x.
 -- そっか、彼女が教える筈がありませんよね。自分にとっても不利な事なんですから」
-Oh, of course she wouldn't tell you. That would go against her own interests, after all."
+ right, of course she wouldn't tell you.
+ That would go against her own interests, after all."
 }
 [sha:166211069900c0e59fd74a7b607350506fdfda4e]{
 -- Page 251, Offset 15392.
 -- 「えっとですね、吸血種は傷を受けても自動的に復元される生き物なんです。復元の強弱はあれ、これは吸血鬼……死徒たちが持つ種族的特性なので例外はありません。
-"So, here's how it is: bloodsuckers are beings that automatically restore any injuries they take.
- Though the strength of this restoration differs, this is a racial attribute of vampires――Dead Apostles――there are no exceptions.
+"So, here's the deal:
+ bloodsuckers are beings that can automatically restore themselves whenever they sustain an injury.
+ How well they can do so varies, but this is a racial attribute that all vampires――all Dead Apostles――possess, without exception.
 }
 [sha:ad30cbab8293856a531c406350d6240c445af468]{
 -- Page 251, Offset 15393.
 -- ですので、ありきたりの外的要因……通常の凶器では吸血鬼を殺しきれません。重火器ならともかく、遠野くんが使っていたナイフではとてもとても。そのナイフに、何か特別な力でもないかぎりは」
-Meaning, you cannot completely kill vampires by ordinary external means――by conventional weaponry.
- Maybe if you had some real heavy weaponry, but definitely not with the knife you were using.
- Well, as long as it didn't have some kind of special power."
+As such, you can't completely kill a vampire by ordinary external means――with conventional weaponry.
+ Maybe you'd have a chance if you brought some serious firepower, but definitely not with the knife you were using.
+ Not unless it had some kind of special power, anyway."
 }
 [sha:6a598a056ebb8022293c511cfc7564426175f385]{
 -- Page 252, Offset 15394.
@@ -198,18 +203,25 @@ Meaning, you cannot completely kill vampires by ordinary external means――by 
 [sha:3dff23caeca2f39848d0cadb6bd0d9f4467ccc08]{
 -- Page 252, Offset 15395.
 -- 「はい。吸血種を滅ぼすには彼等の復元速度を上回る攻撃か、復元そのものを無効にする要素が必要となります。
-"Indeed. In order to eradicate bloodsuckers, you either need an attack that exceeds the speed of their restoration,
- or some factor which allows you to ignore it altogether.
+"Indeed.
+ In order to eradicate a bloodsucker,
+ you either need to attack them faster than they can restore themselves,
+ or make use of some factor that sidesteps their restorative powers altogether.
 }
 [sha:f3bec978a9353f0b46dfa3fffdc2a3bbe2d3e0c6]{
 -- Page 252, Offset 15396.
 -- 復元呪詛―――傷を治療する、ではなく破損した個所を元通りにしようとする時間の逆行。この呪詛を無効にする神秘を<概|がい><念|ねん><武装|ぶそう>と言うんです」
-The Hex of Restoration――they do not heal their wounds, but instead try to return their damaged parts to normal by rewinding time. Arcana that invalidate this hex are what are known as Conceptual Weapons."
+The %{i}Hex of Restoration%{/i}――it doesn't work by healing their wounds,
+ but by rewinding time to restore their damaged parts to how they used to be.
+ Arcana that invalidate this hex are referred to as Conceptual Weapons."
 }
 [sha:4c7cf18ecf885d42b37b6ea1150a1a540e3924ad]{
 -- Page 253, Offset 15397.
 -- 「概念……何かの決まり事を武器にするって事ですか？」
-"Conceptual... so like, using some kind of guideline as a weapon?"
+// Difficult to make this make sense to someone who isn't TMbrained to begin with
+// Using a single word for 決まり事 kinda makes it sound like some other term.
+// This is rendered with my understanding of CW as 'enforcing a set of rules / truths on something'
+"Conceptual... so does that mean it's like using a set of rules as a weapon?"
 }
 [sha:4b4844d19518dfd0bd36972904d1181fdcb9cc05]{
 -- Page 253, Offset 15398.
@@ -220,27 +232,27 @@ The Hex of Restoration――they do not heal their wounds, but instead try to re
 -- Page 253, Offset 15399.
 -- 遠野くんたち風に言うと魔法の武器ですね」
 // colloquial usage of 魔法, so no caps.
-As you would put it: 'a magical weapon', I suppose."
+To put it in layman's terms, it'd be a 'magical weapon'."
 }
 [sha:7b52cb3ece4665220693a83d8a018fb9d6ca5e03]{
 -- Page 254, Offset 15400.
 -- 「『元が人間の吸血鬼』には他により効果的な手段があるので使いませんが、『初めから人間ではない吸血種』を処理する時に使用する、言うなれば奥の手です。
-"These are not really used against vampires who were originally human,
- as there are other effective means against them,
- but are rather used for times when one has to take care of bloodsuckers who weren't human to begin with.
- A trump card, so to speak.
+"We don't really use these against vampires who were originally human,
+ since there are other effective ways of dealing with them.
+ Instead, we save them for when we need to dispatch bloodsuckers who were never human to begin with.
+ They're a trump card, if you will.
 }
 [sha:9e776f2297a2da3e08a4137f00648a4879dbec40]{
 -- Page 254, Offset 15401.
 -- 遠野くんのナイフもその一つだと思います。大方、あの真祖が持ち出した対死徒用の武器なんでしょう？」
-I think your knife is one of these.
- If I had to guess,
- it's an anti-Dead Apostle weapon that True Ancestor brought with her, right?"
+I think your knife is one such instrument.
+ If I had to guess, I'd wager that it's some anti-Dead Apostle weapon that True Ancestor brought with her, right?"
 }
 [sha:6964b6a228abbfa38ad3f00c2fec3c09f0bda0d0]{
 -- Page 255, Offset 15402.
 -- 「い、いえ、あれは自前のナイフというか……親父の形見、みたいなものでして」
-"N-no, that's a knife brought on my own――kind of a keepsake from my father, actually."
+"N-No, it's actually a knife I brought to the table myself...
+ It's a keepsake from my father, of a sort."
 }
 [sha:5c260604cf8c6f9edc9f24a7b5e7305172d4cbd8]{
 -- Page 256, Offset 15403.
@@ -250,20 +262,23 @@ I think your knife is one of these.
 [sha:f037e7cea8208dc8d12acd03294b71496e7af210]{
 -- Page 256, Offset 15404. Mods: @k, @e.
 -- 遠野くんのお家、遠野家の家宝という事ですね？　歴史のある家には魔除けの品が伝わっています。日本の古い家系はそれこそ古代から続いてますから……
-So it's one of your――the Tohno family's heirlooms?
- There are items with maleficence-repelling properties handed down among families with long histories.
- Old Japanese lineages have after all continued on from ancient times...
+// First sentence a bit unwieldy if you try and hew too closely
+You're saying it's a Tohno family heirloom, right?
+ Families with long histories do sometimes have talismans like that which are handed down through the generations.
+ Old Japanese lineages can trace their roots all the way back to ancient times, after all...
 }
 [sha:c7c933ae4b402581a1a040bf9ff007b3df3ab535]{
 -- Page 256, Offset 15405. Glued. Mods: @x.
 -- あれ？
-Huh?
+ Huh?
 }
 [sha:83bfdb66f9d452c162f0d53b098456fddae86267]{
 -- Page 256, Offset 15406.
 -- ……でもヘンですね。遠野にあるとしたら魔を強めるものであって、退魔の祭具ではないような？」
 // and here begins the 魔 problem
-But that's odd. If there was such a thing among the Tohno, it kinda feels like it would be one that strengthened maleficence, not ritual implements against it?"
+That doesn't make any sense, though...
+ I'd have thought that if the Tohno family possessed any ritual implements like that,
+ they'd be the sort used to strengthen aberrations, not eradicate them..."
 }
 [sha:73d422e9adb7331c06e34d0e5ff6fcc881beefc6]{
 -- Page 257, Offset 15407.
@@ -273,12 +288,15 @@ Senpai continues muttering to herself.
 [sha:93e111b194abe06de20d60514c5ec54c746ee764]{
 -- Page 257, Offset 15408.
 -- どうも俺の眼の事はまったく知らないようだ。
-It appears that somehow she's completely unaware of my eyes.
+// Given the context, important to make sure this doesn't read like a poor TL of
+// 'she is oblivious to the fact that I'm still here [staring at her]'
+It seems she doesn't know anything about my eyes.
 }
 [sha:e5de9e60084cf509097d71e5c0e3a9ef8a9797ec]{
 -- Page 257, Offset 15409.
 -- ……ここで死の線について話してもこじれるだけだし、今は黙っておこう。それよりも……
-If I brought up the lines of death here, it would just make things more complicated, so I'll keep quiet about it for now. And besides――
+Bringing up the lines of death here would just complicate things, so I'll keep quiet about them for now.
+ And besides―――
 }
 [sha:c0ae7907b2ccd10a4d3a6aa5fa2579cb1c4df837]{
 -- Page 258, Offset 15410.
@@ -288,19 +306,19 @@ If I brought up the lines of death here, it would just make things more complica
 [sha:75b6cc6b5643e80abad796eeda358887c88bdc2c]{
 -- Page 258, Offset 15411.
 -- 「ええ、まあ。遠野家が古いお家である事ぐらいは。
-"Well, yeah――only as far as knowing that the Tohno family is old.
+"Well, only a little――just that the Tohno family goes back a long way.
 }
 [sha:6c5874ed38c8c26dd197c61b4f431add6486754c]{
 -- Page 258, Offset 15412.
 -- わたし、これでも教会の人間ですから、それぐらいの事前調査はこなしています」
-I may not look it, but I am from the Church. That level of pre-survey is the least I can do."
+I %{i}am%{/i} a member of the Church, remember. I've done my homework."
 }
 [sha:63b54f5fd4be39c6aa686836c998bdb38d02ef71]{
 -- Page 259, Offset 15413.
 -- 「案外多いんですよ、それが特別な力を持つ道具だと知らないで保管しているお金持ちって。形見なんでしょう、お父様の？　なら、それぐらいの逸品だったって事ですよ」
-"It's surprisingly common for the rich to keep equipment like that in storage, despite not knowing they hold special powers.
- You said it was a keepsake――your father's, right?
- Meaning that it was an item of that magnitude."
+"It's surprisingly common for the wealthy to hold onto such implements without knowing that they actually hold special powers.
+ You said it was a keepsake――from your father, right?
+ That makes it pretty likely it's a high-grade item like that."
 }
 [sha:10ac318085e8516eb7ebf490378561efcc496329]{
 -- Page 260, Offset 15414. Mods: @n.
@@ -311,39 +329,44 @@ I'll let her believe that for now.
 [sha:ce9f9cf5902c65ef1b3dbceb9215d8ec41635ffa]{
 -- Page 260, Offset 15416.
 -- ……でも、本当にそうだったらいいとも思う。
-Still, it'd be nice if that was really the case.
+Still... It'd be nice if that really were the case.
 }
 [sha:680dbc05e92c570afa55683b8b4aadc96ced9690]{
 -- Page 260, Offset 15417.
 -- 受け取った時は随分な形見分けだと思ったけど、あれが何かしら特別なものだったのなら、あの父親とも何らかの繋がりがあったのだと思えるからだ。
-When I received it, I thought it was an awful keepsake to be granted,
- but if it really was something special,
- that would make it likely that it had some kind of special connection with my father.
+When I received this knife, I remember thinking that it was an awful keepsake.
+ If it were actually something special,
+ I'd have been able to think of it as something that connected me with my father.
 }
 [sha:fb7c1bf13a6490bd0e6bfb0b6a468707d3e57398]{
 -- Page 261, Offset 15418.
 -- 「……コホン。ちょっと話がズレましたね。
-"%{i}Ahem.%{/i} We've gotten a little off-topic.
+"%{i}Ahem%{/i}. We've gotten a little off topic.
 }
 [sha:df19a9589b61837478c6e7612095cc8adb2a829d]{
 -- Page 261, Offset 15419.
 -- わたしの説明は以上です。遠野くんの方はどうですか？　あれから体に異常はありませんか？」
-That's all for my explanations. What about you? Nothing strange going on in your body?"
+That's all for my explanations.
+ What about you?
+ Anything out of the ordinary about your body recently?"
 }
 [sha:e1e17cfd92ffd3b295d1b6726d10bde77ff5a260]{
 -- Page 262, Offset 15420.
 -- 「俺ですか？　さすがにまだ全身筋肉痛ですけど、悪いところはありません。
-"Me? Naturally, every single muscle in my body is still aching, but it's not particularly bad.
+"Me? Well, it should come as no surprise that I'm still sore all over, but that's about it.
 }
 [sha:aa30e187aa1d9dddc6fa408a2c3617ecfd693dd5]{
 -- Page 262, Offset 15421.
 -- ……けど、ヴローヴにやられた肩の傷はちょっとヘンかな。あんなに深い傷だったのに、なんかもう塞がってるし」
-Still, that injury I got from Vlov on my shoulder is a bit odd. I mean, It was such a deep wound, and yet, it's already healed."
+Though, there's something a bit odd about the shoulder injury I got from Vlov.
+ I mean, it was a seriously deep wound, but it's already healed somehow."
 }
 [sha:815d6a09ea832e66326d5810a0a996f7663d8520]{
 -- Page 263, Offset 15422.
 -- 「あ、それはわたしです。ごめんなさい、勝手に治療してしまって……あの、ご迷惑でしたか？」
-"Oh, that was me. I'm sorry――healing you without asking. Uhm, does it bother you?"
+"Oh, that was me.
+ I'm sorry, I healed you without asking first...
+ Um, does that bother you?"
 }
 [sha:5f1c06213e5668d9d6ce3cb75c4224874445f7d0]{
 -- Page 263, Offset 15423.
@@ -353,22 +376,23 @@ Still, that injury I got from Vlov on my shoulder is a bit odd. I mean, It was s
 [sha:ed1bdcd9d71892ec17032d529182f5bd18baed56]{
 -- Page 264, Offset 15424.
 -- 「は、はい。次なんてないだろうけど、そう言ってもらえると助かります」
-"S-sure. There probably won't be a 'next time', but I appreciate you saying that."
+"S-Sure. There probably won't be a 'next time', but I appreciate you saying that."
 }
 [sha:1be217c92ca7fa27e822f460e03d955715d922fb]{
 -- Page 265, Offset 15425.
 -- ……助かっているのは俺の方だ。
-I'm the one who should be appreciative.
+I'm the one who should be appreciative here...
 }
 [sha:d665cd81c8c4c1c0a9c5d32d4f362e1caafbb6c4]{
 -- Page 265, Offset 15426.
 -- 先輩は俺の傷を治してくれたばかりか、その後の事まで心配してくれた。
-Not only did Senpai heal my injuries, she's even caring for me afterward too.
+Senpai didn't just heal my injuries,
+ she also kept an eye out for me afterward as well.
 }
 [sha:4002e8484f4a539cb99a9e3481dc5662a6a064af]{
 -- Page 266, Offset 15427.
 -- その先輩が“次はない”と口にした事で、俺もようやく感じ取った。
-And now that she's telling me there won't be a next time, I finally realize.
+When she tells me that there won't be a next time, it finally hits home.
 }
 [sha:814fa5c2d034ea1e84e9ac2edf1b73c96b881db8]{
 -- Page 266, Offset 15428.
@@ -393,8 +417,8 @@ You can leave the rest to us. Please just go back to your usual life, Tohno-kun.
 [sha:da59f45d4fcbc09e70f41f0ec10f78e26af2206e]{
 -- Page 268, Offset 15432.
 -- 「はい。……あれは悪い夢だったと思っておきます。先輩がいてくれる事が分かっただけでホッとしたし。
-// added 'still' for clarification
-"Sure... I'll just think of it as a bad dream I once had. I'm just relieved to know that you're still here for me, after all.
+"Sure... I'll just think of it as a bad dream I once had.
+ Plus, just knowing you're here for me is enough to set my mind at ease.
 }
 [offset:15433]{
 -- Page 268, Offset 15433.
@@ -404,17 +428,19 @@ Oh, but―――"
 [sha:80a7d2e75140581c88b81a07b8968231b3137f10]{
 -- Page 269, Offset 15434.
 -- “すべてが終われば記憶を消す”
-'Once everything is over I'll erase your memories'
+// No exact backreference
+'Once everything is over, I'll erase your memories.'
 }
 [sha:c7e85e8d15c58c817321c11cf1f30b0296e9d832]{
 -- Page 269, Offset 15435.
 -- あれは、もしかして今の状況ではないのだろうか……？
-Does that not perhaps indicate the current situation?
+// Refactored a bit
+You could say that everything is over now, so does that mean...?
 }
 [sha:11fcc1acb947c4854c7eb0e029c12a785f4268e3]{
 -- Page 270, Offset 15436.
 -- 「先輩、あの」
-"Senpai, uhm..."
+"Senpai, um..."
 }
 [sha:0849c65796a9e709b2c3efdd0c1e0a8c591f2cd6]{
 -- Page 270, Offset 15437.
@@ -424,12 +450,14 @@ Does that not perhaps indicate the current situation?
 [sha:d5a5561d417663bf4e2f2bbf0ec1ac79d07fbc44]{
 -- Page 270, Offset 15438.
 -- 「先輩たちは吸血鬼の秘密を守るんですよね。……じゃあ、やっぱり、この後俺の記憶を消すんですか……？」
-"Senpai, you and your people keep the vampires secret, right?  So... surely that means you'll erase my memories after this, right?"
+// ~たち reified
+"You and the rest of the Church try and keep vampires a secret, right?
+ So... are you going to erase my memories after all?"
 }
 [sha:b7950feb70274c1bc3374bd0ee1a9f76a49309dd]{
 -- Page 271, Offset 15439.
 -- 「おや。消してほしいんですか、遠野くんは？」
-"Oh my. Do you want me to erase them, Tohno-kun?"
+"Oh my. Do you %{i}want%{/i} me to erase them, Tohno-kun?"
 }
 [sha:40f3056e5f9d227265ca7d3a093bb3d4b69747ee]{
 -- Page 271, Offset 15440.
@@ -439,7 +467,7 @@ Does that not perhaps indicate the current situation?
 [sha:a46b5c8351c896c9dbbce784f974b5737b795cc9]{
 -- Page 271, Offset 15441.
 -- お願いします、消さないでくださいっ！」
-Please, I implore you not erase them!"
+Don't erase them, I implore you!"
 }
 [sha:a46a8f1586e07b298954a149f13b821ae2b55227]{
 -- Page 272, Offset 15442.
@@ -449,8 +477,8 @@ I would hate to forget Senpai like this.
 [sha:288e5252c854ee0b31c2c28e663e283b6688d4de]{
 -- Page 272, Offset 15443.
 -- 代わりに何をしてもいい。まずは誠心誠意お願いして見逃してもらえないか、と両手を畳につける。
-// there's a chance 代わりに isn't really needed here. So something more like "I would do anything [for that not to happen]" instead.
-I'd do anything in exchange. So first, I'll put my entire heart and soul into begging her to give me mercy.
+I'd do anything to keep these memories,
+ starting with prostrating myself on the tatami and earnestly begging her for mercy.
 }
 [sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
 -- Page 272, Offset 15444.
@@ -460,7 +488,9 @@ And then...
 [sha:80cfbadbd4667ea4e821e717c2396e88b4d842b5]{
 -- Page 273, Offset 15445.
 -- 「消しませんよ。というか、消せません。一日消したぐらいじゃもうどうしようもないですし。
-"I'm not going to erase them. Or actually: I can't erase them. It's pointless once I have to erase a whole day, honestly.
+"I'm not going to erase them.
+ Or rather, I %{i}can't%{/i} erase them.
+ It's pointless once I have to erase a whole day, honestly.
 }
 [sha:4cc1760ba7c15fc69fe42c27392745b8e73a4943]{
 -- Page 273, Offset 15446.
@@ -470,71 +500,75 @@ This conversation alone has really driven home that you're a trustworthy person.
 [sha:130c0351dae931c5a866c28a794d07258d3f2e6c]{
 -- Page 274, Offset 15447.
 -- 「それに、お願いするのはわたしの方です。
-"Also, I'm the one who should be imploring you here.
+"Plus, I'm the one with a favor to ask here.
 }
 [sha:fa6205a63999958f4af00ec2c64f1d3edc559d52]{
 -- Page 274, Offset 15448.
 -- どうかヴローヴの事は口外しないで、わたしとノエル先生の事も見逃してください。
-// show mercy might not be the entirely best expression here, but it's better than the more literal 'overlook' or such.
-Please don't tell anyone else about Vlov――please show me and Noel-sensei mercy.
+// Avoiding literal 見逃がす
+I humbly ask that you don't tell anyone else about Vlov,
+ and that you don't pry too deeply into matters regarding myself or Noel-sensei.
 }
 [sha:e48b3cf066d386c47c9e2e55461fe9ee6e97f98f]{
 -- Page 274, Offset 15449.
 -- それと……これが一番大事なコトですが、もう絶対に、危ない事はしないでくださいね」
-Also――and this is the most important part――please don't ever do something so dangerous again."
+Also――and this is most important of all――please don't ever do something so dangerous again."
 }
 [sha:743f7c8be3ae3fd7a6030c83dcd5015a2401d360]{
 -- Page 275, Offset 15450.
 -- 先輩は俺に頭を下げる。
 // the appeal part is an addition, but it might not be needed.
-Senpai appeals to me, lowering her head in a bow.
+Finishing her appeal, Senpai bows her head to me.
 }
 [sha:866ca37bf6aea56ae01a166919d624275bff0529]{
 -- Page 275, Offset 15451.
 -- 俺がいましようとした懇願なんかより、心のこもった一礼だった。
-It's a bow far more sincere than the pleading I was trying to do.
+Her bow is far more sincere than the pleading I had attempted earlier.
 }
 [sha:b7205bf6bc5e67cd7f2033897297a1b3708213a9]{
 -- Page 276, Offset 15452.
 -- 「……それは、もう吸血鬼とは関わるなってコト、ですか？」
-"Don't involve yourself with the vampires anymore, is what you're saying?"
+"So, you're telling me not to get involved with vampires again, is that it?"
 }
 [sha:d154a5940557a8482963a482c1e87fdb7caee145]{
 -- Page 276, Offset 15453.
 -- 「はい。だって遠野くん、怖いのイヤなんでしょう？」
-"Yes. I mean, you don't like scary things, am I wrong?"
+"Yes. I mean, you don't like scary things, do you, Tohno-kun?"
 }
 [sha:3fcf56fe3b798b52a2f2f6ec87ccf72e4d911216]{
 -- Page 277, Offset 15454.
 -- 「それはそうですけど……でも、もし……」
-"That sure is the case, but... if――"
+"Yeah, you're not wrong, but... if―――"
 }
 [sha:b9bb86c4c79439487e898f67a015c73a353db1a5]{
 -- Page 277, Offset 15455.
 -- 吸血鬼の残党が誰かを襲う場面に出くわしたら、俺は逃げ出す事だけはできないと思う。
-// if here to connect with previous line.
-If I happen upon the scene of some of the remaining vampires attacking someone, I don't think I'd be able to let it go by.
+// If here to connect with previous line.
+If I were to come across one of the remaining vampires attacking someone,
+ I don't think I'd be able to just turn and walk away.
 }
 [sha:9f7a5f0e164104327ccd25a129d165ad11d39225]{
 -- Page 278, Offset 15456.
 -- 「……いえ、努力します。自分からは関わりません」
-"No... I'll do my best. I'm not gonna involve myself on my own accord."
+"No... I'll do my best. I'm not gonna involve myself of my own accord."
 }
 [sha:923e1a2cb2c3412f6610fe9d4c82cc54c329c22b]{
 -- Page 278, Offset 15457.
 -- 結構です、と笑って先輩は立ち上がった。
-Senpai says 'splendid', smiles and stands up.
+// Such stunning sibilance
+Senpai says 'splendid', smiles, and stands up.
 }
 [sha:4364766e4acb9956aea9720b0d4b0e7a634da9ba]{
 -- Page 278, Offset 15458.
 -- 話はこれでおしまい、という事だろう。
-It appears our char has come to an end.
+It appears our chat has come to an end.
 }
 [sha:8fc2c666425c8a25c97818ab4bfe48475ecf3d2f]{
 -- Page 278, Offset 15459.
 -- 先輩は俺を悪夢から解放するように、和室の襖をあけて外に出るように促した。
-// might need to give some context in this sentence as to what nightmare he's referring to.
-Senpai slides open the door of the room, and urges me outside, almost as if releasing me from this nightmare.
+// Nightmare given context slightly so it doesn't sound like he hated being in a room with her
+She slides open the door of the room and urges me outside,
+ almost as if releasing me from the nightmare of the past few days.
 }
 [sha:0c9089c53186ea0e1fcbcd477356fea3c00c3ac6]{
 -- Page 279, Offset 15460.
@@ -549,29 +583,33 @@ Senpai slides open the door of the room, and urges me outside, almost as if rele
 [sha:730aa4e48ed732cbf5a6068c32b808cb9b3ff231]{
 -- Page 280, Offset 15462.
 -- 安心してください。遠野くんの平和は私がきっちり守りますから」
-And please don't worry, because I'll make sure to protect your peaceful life."
+You can rest easy―――I'll make sure to protect your peaceful life."
 }
-[sha:36d288b20e427dc2bcdf2eeb66f47992bc6c2270]{
+[offset:15463]{
 -- Page 281, Offset 15463.
 -- えっへん、と胸を張るシエル先輩。
-Ciel-senpai puffs out her chest, looking quite pleased with herself.
+Ciel-senpai proudly puffs out her chest.
 }
 [sha:f3bf537e0bdb46c607bbda743db45d2bf697f448]{
 -- Page 281, Offset 15464.
 -- ……その笑顔を見て再確認した。
-// I'd like this sentence merged with the next one.
-Looking upon that smile, I can once again reaffirm
+// This fragment has had to go through the blender a bit
+Seeing that smile again confirms something for me.
 }
 [sha:efc716abbccae19046f81fe4eba2920967a8cdaa]{
 -- Page 281, Offset 15465.
 -- 俺はシエル先輩が好きだけど、それ以上に、この人の笑顔を見られる事が嬉しくて仕方がないらしい。
-// 仕方がないらしい here is a bit difficult to render, but I've done my best
-that though I like Ciel, it seems, for some reason, what I find even more joyous is being able to see her smile.
+// 'but even so' for ~だけど / [それ以上に] kinda reads like he's about to lead into a negative,
+// whereas I read this more as 'I like Ciel, but there is something more fundamental at play'
+I like Ciel-senpai, so I may be biased,
+ but I simply can't help but be happy when I see that smile of hers.
 }
 [sha:d6ec6e094ffe42006f14243b715f4c19303c251c]{
 -- Page 281, Offset 15466.
 -- まだまだ訊きたい事、知りたい事はあったけど、今はそれが分かっただけで充分だ。
-There are still things I want to ask about, and get to know, but for now, just understanding this is enough for me.
+I still have plenty of things I want to ask her about,
+ and there's a lot I want to know,
+ but just understanding that fact is enough for me right now.
 }
 [sha:16c360bfa285c961613127fb52b9ab49911d1c19]{
 -- Page 282, Offset 15467.
@@ -581,31 +619,33 @@ The sun has almost set.
 [sha:566afe9eb019381dc5b848a643ac094ea624b826]{
 -- Page 282, Offset 15468.
 -- 失ったものは何もない。
-I have not lost a single thing.
+I haven't lost a single thing.
 }
 [sha:c83100999cb9c31219ddcca50e7b536175a2a353]{
 -- Page 282, Offset 15469.
 -- 先輩を思い続けた一日は、俺が見たかった彼女の笑顔で終わってくれた。
-The day which I spent entirely thinking about Senpai,
- she ends by showing me the smile I have been so eager to see.
+I spent all day thinking of Senpai,
+ and she's rewarded me by capping it off with the smile I'd been so eager to see.
 }
 [sha:8a4bb238945fe36aea380c436b053decb240ee20]{
 -- Page 283, Offset 15470.
 -- 「……あの。ところで、もし俺が先輩の秘密を誰かに話したらどうなるんでしょう？」
-"Uhm, by the way, what would happen if I told someone about your secret?"
+"Um... Just wondering, but what would happen if I %{i}did%{/i} tell someone about your secret?"
 }
 [sha:b5e66bd187fde3a1eb961e5a536ade29591e1faa]{
 -- Page 284, Offset 15471.
 -- 「それはもちろん、遠野くんが想像した通りの事をするだけです。痛いのが、もっと嫌いになっちゃうような」
-"Well, it would of course be exactly what you're imagining. I suppose you'd come to loathe pain even more."
+// Colour me intrigued
+"Well, it would of course be exactly what you're imagining.
+ The sort of thing that'd make you develop a whole new fear of pain."
 }
 [sha:1cdb3727116d837836673c05a9609b90865c7ce1]{
 -- Page 284, Offset 15472.
 -- 先輩は笑顔で恐ろしい返答をする。
-With a smile on her face, Senpai gives a terrifying reply.
+Senpai delivers this terrifying reply with a smile on her face.
 }
 [sha:15c83994ba3b744c67fc86fb80937c1442b31fc8]{
 -- Page 284, Offset 15473.
 -- ―――よし。先輩が代行者である事は、誰であろうと喋らないよう心がけよう。
-Alright! I'll endeavor to not tell a single soul about the fact that Senpai is an Executor.
+Note to self―――do not breathe a word to anyone about the fact that Senpai is an Executor.
 }

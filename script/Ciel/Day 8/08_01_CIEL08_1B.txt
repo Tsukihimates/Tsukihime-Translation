@@ -1,7 +1,8 @@
 [sha:3f12e9f63fc84207f1cb36e60902d11188c83e07]{
 -- Page 10001, Offset 18347.
 -- 朝食を済ませて居間に移動すると、とっくに朝食を済ませた秋葉の姿があった。
-After finishing breakfast, I head to the living room. There sits Akiha, who has long since finished eating breakfast.
+After finishing breakfast, I head to the living room.
+ There I find Akiha, who finished her own breakfast some time ago.
 }
 [sha:fe1d125e349ef784ef8493bdb997c34a41bcdefb]{
 -- Page 33, Offset 18348.
@@ -16,12 +17,16 @@ After finishing breakfast, I head to the living room. There sits Akiha, who has 
 [sha:fc615de623e53e5eabfc6a7de943dbb7880bfdf2]{
 -- Page 33, Offset 18350.
 -- 健康な学生らしい、余裕のある朝で何よりです」
-I am glad to see you taking your time this morning like a healthy student should."
+// Interpreting 余裕のある as in he has time to spare, he is not rushed, rather than that he is taking his time,
+// since this is the line of complaint she's taken before / later 時間はまだあるでしょう
+I am glad to see you ready with time to spare this morning,
+ as any healthy student should be."
 }
 [sha:91af3abeeb9d7c01596be42bf1a7c309b36cdd72]{
 -- Page 34, Offset 18351.
 -- 優雅にお茶を楽しんでいた当主様も今朝は見るからに上機嫌だ。何かいい事でもあったんだろう。
-The esteemed head of the family, who is most elegantly enjoying tea, seems to be in a good mood this morning. Something good must have happened.
+Our esteemed family head is in a visibly good mood as she elegantly savors her tea.
+ I wonder what's got her in such high spirits.
 }
 [sha:e63fa56f82535dc61209b4a517bf16784c053a79]{
 -- Page 35, Offset 18352.
@@ -36,58 +41,64 @@ You still have some time, right?"
 [sha:e17dad8f100186226f0a8582e1007048a8bbe323]{
 -- Page 36, Offset 18354.
 -- 「ああ、それじゃ普通のお茶を一杯」
-"Ah, then just a normal cup of tea."
+"Sure, I'll have a cup of regular tea then."
 }
 [sha:bf261f06e779e688c01781bc97747dd1a98bac12]{
 -- Page 36, Offset 18355.
 -- 「普通、などというお茶はないのですけどね。琥珀、兄さんにも一つ淹れてあげて。チョイスは貴女に任せるわ」
-"Normal, you say, but there exists no such tea. Kohaku, pour a cup for Nii-san. I'll leave the choice of tea up to you."
+"I don't believe there exists such as thing as 'regular' tea.
+ Kohaku, brew another cup for Nii-san.
+ I'll leave the choice of tea up to you."
 }
 [sha:b8a7da85acd40db69d37d2df287d6020d2058e4f]{
 -- Page 36, Offset 18356.
 -- 「かしこまりました。今朝の献立から考えますとほうじ茶などがよろしいかと」
-"Understood. Considering what was served this morning, something like hojicha should do well."
+"Understood. Considering what was on the menu this morning, I think a houjicha should pair nicely."
 }
 [sha:8bd7b42fdf8ef1192fe72a146c43eeac20dae1bb]{
 -- Page 37, Offset 18357.
 -- 琥珀さんは笑顔で厨房に向かった。
-Kohaku-san cheerfully heads toward the kitchen.
+Kohaku-san cheerfully heads for the kitchen.
 }
 [sha:bf787c1e0cad1c52c962cdc4b6c5cb2dd4ac3ea6]{
 -- Page 37, Offset 18358.
 -- こっちは秋葉の対面のソファーに座って、携帯端末でニュースサイトを流し見る。
 // 携帯端末, aka........ a phone.
-As for me, I sit on the sofa opposite to Akiha and scroll through some news sites on my phone.
+// Nah, Shiki rockin that palm pilot
+As for me, I sit down on the sofa opposite Akiha and scroll through some news sites on my phone.
 }
 [sha:dbd987e6cef66806cd4f32d4cb31ab3ff9c6a28d]{
 -- Page 38, Offset 18359.
 -- あいかわらず細かな話題にはこと欠かないものの、殺人事件のニュースはない。
-As usual, there's no shortage of trivial matters being covered, but there isn't any news about a murder.
+There's an endless stream of banal stories, as per usual,
+ but nothing new regarding the serial murders.
 }
 [sha:b8619037f93a4e4f95c39c097bade08e6308166c]{
 -- Page 38, Offset 18360.
 -- もう判りきっている事とはいえ、吸血鬼事件による新しい犠牲者は出ていない。
-Thought I already knew it, there really won't be any more vampire incident victims.
+I was fully aware there wouldn't be,
+ but looks like there are no new victims in the vampire incident.
 }
 [sha:573d23548b87690a577251aba39218766050d597]{
 -- Page 38, Offset 18361.
 -- それを確認して携帯をポケットにしまう、と……
-Having confirmed that, I put my phone back in my pocket and―
+Having confirmed that, I put my phone back in my pocket and―――
 }
 [sha:a24d6666f0a0b03b622bdb8b8c625085f728dace]{
 -- Page 39, Offset 18362.
 -- 当主様はマジマジと、不思議なものを見るような目で俺を見詰めているのだった。
-Our matriarch was staring at me as though she was looking at some strange creature.
+Our matriarch is gawking at me, as though she's just witnessed something unbelievable.
 }
 [sha:a23f425fdb5ff26dbd581bb268df761209a0db07]{
 -- Page 40, Offset 18363.
 -- 「な、なんだよ。携帯ぐらいはいいんだろ。いまだってニュースサイトをチェックしただけで」
-"W-What is it? I can use my phone, right? And I was just checking some news sites."
+"W-What? I %{i}can%{/i} use my phone, right? All I was doing is checking the news."
 }
 [sha:1342631d2415d9600c22f27cc50647dcb86d7b10]{
 -- Page 41, Offset 18364.
 -- 「別に怒ってはいません。すぐに仕舞ってくれましたし、朝のニュースぐらいは知っておくのは良い事ですから。
-"It's okay, I'm not angry. You put it down right away. Besides, keeping up with the morning news is a good thing.
+"Oh, I'm not angry or anything.
+ You only used it briefly, and it's good to be abreast of the morning news.
 }
 [sha:5d4530f16249228ed9a32d5134fd1511f35476c0]{
 -- Page 41, Offset 18365.
@@ -97,12 +108,14 @@ I was just surprised to see you operate such a thing with ease. It didn't fit th
 [sha:e1fd610b0d10eb575098a3824ce3bf86a5b37c9c]{
 -- Page 42, Offset 18366.
 -- 「……おまえの中でどんなイメージなんだよ俺は。
-"...What kind of image do you even have?
+"Just what image of me do you have in that head of yours...
 }
 [sha:cad2b01eaaf6af38fad0fd08ffa55fc4f669030d]{
 -- Page 42, Offset 18367.
 -- とはいえ、俺も使いこなしてはいないよ。今朝は気になる事があっただけで普段はあまり使わないし。話したい事や知りたい事があったら本人と直接話した方がいい」
-That being said, I'm no pro. I don't normally use it much, but there's something I was curious about this morning. If there's something I want to know or something I'd like to say, I'd much rather do it in person."
+That being said, I'm no pro.
+ I don't normally use it much, but there was something I was curious about this morning.
+ If I want to talk to someone or ask them something, I'd much rather do it in person."
 }
 [sha:13a35640aebfe87d25290fcea2f24adbf0342e30]{
 -- Page 43, Offset 18368.
@@ -113,22 +126,31 @@ That being said, I'm no pro. I don't normally use it much, but there's something
 -- Page 43, Offset 18369.
 -- 「そりゃあ時間の許す限りは。一行や二行の言葉のやりとりで分かるのは一行二行分のコトだけだし。連絡事項としては便利だけど、会話をするなら会って話した方が断然いい」
 // not only does this sound dumb but its also bullshit
-"Well yeah, if I have the time for it. By writing a one or two line message, only the message itself is conveyed. It's usefel for relaying information, but if I want to have a proper conversation it'd be much better to meet in person."
+// ok :b:oomer
+"Well, so long as I've got the time.
+ Texting someone a sentence or two can only ever convey a sentence or two worth of information.
+ It's fine for just giving someone a heads-up, but if you want to have a proper conversation it's way better to meet up and have a chat."
 }
 [sha:9773650c50ef78e8da3a86e73a6cdd024bfdb39f]{
 -- Page 44, Offset 18370.
 -- 「一部分しか表せない<連絡|システム>なのに、その一部分を見た人間はそれが相手の全部分だと錯覚する、という事ですね。
-"Though they are faced with a system of communication that only expresses one side, people incorrectly believe they've seen the whole picture―is what you're saying.
+// _相手_の全部分 kinda split across the comma
+"So you're saying that even though it's a method of communication through which people can only express a small part of themselves,
+ people reading it incorrectly believe they've seen the whole picture?
 }
 [sha:c2d184a596e18570386f6f8dba345a453f380f43]{
 -- Page 44, Offset 18371.
 -- たとえば、発信者は爪先しか見せていないのに、その爪が猫のものだっただけで全身まで猫だ、と決めつけるような。
-It's like seeing just the tips of an animal's toes, thinking they resemble those of a cat, and deciding the animal must be a cat.
+// On the internet, nobody knows you're a cat
+To give an analogy, it would be like seeing the tips of someone's toes,
+ thinking that their nails resemble the claws of a cat,
+ and so deciding that the rest of their body must also resemble that of a cat.
 }
 [sha:6272cfdd3adbf165436fabe1a0d1ee78e2545be2]{
 -- Page 44, Offset 18372.
 -- 私もその意見には賛成です。文字だけならいくらでも嘘をつけるのが人間ですし」
-I am in complete agreement. People can lie as much as they want with writings."
+I am in complete agreement.
+ People tend to think they can get away with lying as much as they like in written communications."
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 45, Offset 18373.
@@ -138,27 +160,31 @@ I am in complete agreement. People can lie as much as they want with writings."
 [sha:7efa3eaceb93667851f1f72547ce2a060793572d]{
 -- Page 45, Offset 18374.
 -- 当主さま。まことに言いづらいのですが、爪が猫のものだったら猫なんじゃないかな、その人。
-Dear Matriarch, though it pains me to say, someone with a cat's paws is, in fact, a cat.
+// If the paw fits
+My dear Matriarch... I hate to break it to you, but anyone with cat's paws is, in fact, a cat.
 }
 [sha:12d3b41d3ffacb20caf83212c3e5e1ac749b6952]{
 -- Page 46, Offset 18375.
 -- 「……まあ、そこまでは言ってないけど。
-"...Well, I wouldn't go that far.
+"Well, I wouldn't go that far...
 }
 [sha:e3214b65497c30ea3e3ae066784d3fc880f1ee4f]{
 -- Page 46, Offset 18376.
 -- 簡素な人間関係もそれはそれで便利だと思うよ。知り合う人ぜんぶに全身全霊で向き合ってたら体力が持たないし。
-I think relationships that are kept simple are also useful in their own way. It would be exhausting if I had to completely devote myself when talking to anyone I know.
+I think simple relationships are useful in their own way.
+ It'd be exhausting if I had to bare my heart to every single person I met.
 }
 [sha:b42136e15a7110c594f0275e63c1eace1d942eb4]{
 -- Page 46, Offset 18377.
 -- 色んなところに行けるようになって、いろんな人と知り合えるようになった以上、人間関係も最適化させないと潰れちまう……ってのは友人からの受け売りだけど」
-Because it means that you can go to various places and meet various people, you have to optimize your relationships or you'll be crushed. That's what a friend told me anyway."
+Once you've been all sorts of places and met with all sorts of people,
+ you have to start optimizing your relationships or you'll end up crushed.
+ That's what a good friend told me, at any rate."
 }
 [sha:9637c79df6be0a03013a43bff20a6038a54c643b]{
 -- Page 47, Offset 18378.
 -- もっとも、そう言う有彦自身、その風潮とは真逆に生きている人間だが。
-Although Arihiko, the one who said it to me, is someone who leads a life that goes completely against that trend.
+Although, Arihiko――the one who said that to me――lives his life in complete defiance of that same advice.
 }
 [sha:aa79a4ef673f683d296b9e69f16f4816211e5cf2]{
 -- Page 48, Offset 18379.
@@ -168,37 +194,40 @@ Although Arihiko, the one who said it to me, is someone who leads a life that go
 [sha:70331bd1441ed20b9befad35350e3c9800f049e5]{
 -- Page 48, Offset 18380.
 -- ―――もちろん、遠野家の長男におかしな遊びを教えていないかどうか、じっくりと詰問させていただくのを前提で」
-―――Of course, I reckon that I will be thoroughly questioning him on whether he's been putting mischievous thoughts into the eldest son of the Tohno family's head."
+―――So that I can use the opportunity to thoroughly interrogate him on whether he's been putting any mischievous ideas into the head of the eldest son of the Tohno family, of course."
 }
 [sha:104dcffdc8297eafbe238500093b809e7c625fb1]{
 -- Page 48, Offset 18381.
 -- ……今さら言うまでもないけど。怖いよね、うちの妹。
-Though it goes without saying... My little sister is scary.
+It should go without saying at this point, but...
+ My little sister sure is scary.
 }
 [sha:fd76d1adba6412e11e8a27588eec36ae7353c3a1]{
 -- Page 49, Offset 18382.
 -- 秋葉と雑談を交わしていると、琥珀さんがほうじ茶を運んできてくれた。
-As I was chatting with Akiha, Kohaku-san comes in, bringing the hojicha.
+While I was chatting with Akiha, Kohaku-san returned with the houjicha.
 }
 [sha:7a9be1ecd6a088b9b9f2f13e568526ffc3f445dc]{
 -- Page 49, Offset 18383.
 -- 渋みはあるものの清涼感のあるほうじ茶の熱さが、食後のけだるさを払拭してくれる。
-The heat of the hojicha, which is refreshing though astringent, dispels my after-meal languor.
+The heat of the houjicha, which is astringent, yet refreshing, dispels my after-meal lethargy.
 }
 [sha:6e8467aad1dc5b0cb00d8ef0410cc9a7466ff88b]{
 -- Page 50, Offset 18384.
 -- 秋葉は登校時間になったのか、音もなくソファーから立ち上がった。
-Akiha rises from the sofa without making a noise, maybe because it was time for her to go to school.
+It must be about time for Akiha to head to school,
+ as she silently stands up from the sofa.
 }
 [sha:503e1d219e0e89c1593ba19ec041f2b42154f155]{
 -- Page 51, Offset 18385.
 -- 「お先に失礼しますね兄さん。
-"I will be going ahead, Nii-san.
+"I'll be off then, Nii-san.
 }
 [sha:93779343902594080f603e71977269ecd4d50e5a]{
 -- Page 51, Offset 18386.
 -- 私は夕方まで帰れませんが、兄さんのご予定は？」
-I won't be coming back until the evening. What about you, Nii-san?"
+I won't be back until this evening.
+ Do you have any plans for the day, Nii-san?"
 }
 [sha:a06af1b0e9163257f239b0eb8c305537e0f437fe]{
 -- Page 51, Offset 18387.
@@ -208,42 +237,42 @@ I won't be coming back until the evening. What about you, Nii-san?"
 [sha:504107d2bf7dd76ca438657838e8ca6277798f98]{
 -- Page 52, Offset 18388.
 -- 何気ない一言に顔を上げる。
-I lift my head, startled by her nonchalant words.
+I look up, startled by her nonchalant words.
 }
 [sha:1b41a57bce737e70f40861b676d848f862178509]{
 -- Page 52, Offset 18389.
 -- “今日はどうするのですか？”と秋葉は言った。
-Akiha asked me what I was planning to do today.
+Akiha asked whether I had any plans for the day.
 }
 [sha:f609d2330f19a0434121a679c2956fee4838550c]{
 -- Page 53, Offset 18390.
 -- その、何の変哲もない言葉がなぜか心に刺さる。
-For some reason, those very ordinary words stuck out in my mind.
+For some reason, those very ordinary words struck a chord with me.
 }
 [sha:7b778af57cac7fb28fb8e8e1f93d9d37ed58f007]{
 -- Page 53, Offset 18391.
 -- “今日はどうするのか”と質問されたのに、
-Though I had been asked 'What will you do today?"
+All she asked was 'what will you do today?'
 }
 [sha:2d2985a5f8126860ed99190898d26e3afe20e6eb]{
 -- Page 53, Offset 18392.
 -- “おまえはこれから何をするのか”と問われた気がしたのだ。
-I had the impression that the question had been 'What are you going to do from now on?"
+But I felt as though she was really asking 'what will you do from now on?'
 }
 [sha:dd939d3ac4b1e9f693a2f6c65b5fd20180b8e02b]{
 -- Page 54, Offset 18393.
 -- 「いや、特に何もないよ。
-"Ah, nothing in particular.
+"Oh, nothing in particular.
 }
 [sha:fadf96fd1bd94f5ae3150a7fdc352c909904a3f5]{
 -- Page 54, Offset 18394.
 -- 学校にいって、終わったら帰ってくるだけだ」
-I'll go to school and then come back home."
+I'm just going to go to school, then come right back again after."
 }
 [sha:47551240924b8d2d66df30ebd8696963b9ab1661]{
 -- Page 54, Offset 18395.
 -- 「……ふうん。そんな事なら午後の予定はキャンセルしておけばよかった」
-"...Mmm. If I had known, I'd have cleared my schedule for the afternoon."
+"%{i}Hmph%{/i}... If I'd known, I'd have cleared my schedule for the afternoon."
 }
 [sha:55f31e3aec198a41f2b7ece29fd6b7c07fd353b1]{
 -- Page 54, Offset 18396.
@@ -258,32 +287,33 @@ Akiha grumbles in frustration.
 [sha:634e873723c4479667ea985d406fb2bb208325c7]{
 -- Page 55, Offset 18398.
 -- 「いえ、何でもありません。それではごきげんよう。兄さんも遅刻などしないでくださいね」
-"It is nothing. Have a good day, Nii-san, and please try not to be late."
+"It's nothing, never mind. Have a good day, Nii-san, and please try not to be late."
 }
 [sha:df8cb078bb227e686ca181ccc3ceacb8d5b5df09]{
 -- Page 56, Offset 18399.
 -- 秋葉は琥珀さんと共に居間を後にした。
-Akiha leaves the living room with Kohaku-san.
+Akiha leaves the living room along with Kohaku-san.
 }
 [sha:fed59a538f6286ce190a8148456458a542a352e1]{
 -- Page 56, Offset 18400.
 -- ひとりになって改めて自問する。
-Now alone, I question myself once again.
+Now alone, I once again ask myself what's next.
 }
 [sha:0407c17f5e1a7213790f1263121f4e46074f2825]{
 -- Page 56, Offset 18401.
 -- 昨日までの俺は“何をすべきか”ばかりで、“何をしたいのか”を考えてもいなかった。
-Until yesterday, I'd only been thinking about what I should do'. I'd never given thought to 'what I want to do'.
+Up until yesterday, I'd only ever asked myself what I %{i}should%{/i} do.
+ I didn't once stop to consider what I %{i}wanted%{/i} to do.
 }
 [sha:66b3226b95294db992128a2646841954134deba2]{
 -- Page 57, Offset 18402.
 -- 「……今の俺がしたい事……」
-"What I want to do now..."
+"What do I want to do now..."
 }
 [sha:12235f99073f4d88324d444356f00c36b87a714e]{
 -- Page 57, Offset 18403.
 -- 知ってしまった者の責任として、いま優先すべきは吸血鬼の後始末だ。
-As someone who is aware of what's happening, my priority should be to clean up the remaining vampires.
+As someone who's aware of what's happening, my priority should be to clean up the remaining vampires.
 }
 [sha:c1e1513fb30eba3057c675d9a28cf0bfa6dac905]{
 -- Page 58, Offset 18404.
@@ -298,7 +328,7 @@ Unsurprisingly, Senpai's face comes to mind.
 [sha:c440b6dbf714c32cebb1f7c2e4101c8cd93a994f]{
 -- Page 59, Offset 18406.
 -- 「……そりゃあ、シエル先輩の事は好きだけど」
-"...Well, I like Ciel-senpai after all."
+"Well, I do like Ciel-senpai after all..."
 }
 [sha:b6b3a6f0161ff484a41fc501a7cdae5c1b6245b2]{
 -- Page 59, Offset 18407.
@@ -308,7 +338,7 @@ I've been charmed by her, both as a member of the opposite sex and as a human be
 [sha:b7ed274c5f34f51f67c9aa8695561020ae859dbd]{
 -- Page 59, Offset 18408.
 -- もっと先輩の事を知りたいとも思うし、あの人の笑顔を見ていたいとも思う。
-I want to see her smile, I want to learn more about her.
+I want to learn more about her, and I also want to see her smile.
 }
 [offset:18409]{
 -- Page 60, Offset 18409.
@@ -318,22 +348,25 @@ But―――
 [sha:85ca9a608321c3013872bcde278966b01ab860ab]{
 -- Page 60, Offset 18410.
 -- そこまで先輩を慕っていながら、俺はアイツの事も放っておけないでいる。
-Although I adore Senpai, I can't leave Arcueid alone.
+As much as I adore Senpai, I just can't stop thinking about Arcueid.
 }
 [sha:d8de032aa11ee69e98933acf59468bd872d543e1]{
 -- Page 61, Offset 18411.
 -- 「……いや、違う。放っておけないのは吸血鬼の事だからだ。街から吸血鬼がいなくなれば、きっと」
-"...No, that's not it. What I can't leave alone is that vampire stuff. When all the vampires are gone, I'm sure―――"
+"No, that's not right...
+ It's the vampires still in this city that I can't stop thinking about.
+ Once we've cleared them all out, then I'm sure―――"
 }
 [sha:adb6a2278fb14415e6b2caeec30df25d49fcad9e]{
 -- Page 61, Offset 18412.
 -- きっと―――アルクェイドとの協力関係も終わってしまって、何の未練もなく、今まで通りの日常に戻れる筈だ。
-I'm sure―――that my partnership with Arcueid will end too, and without regret, I'll return to my usual life.
+I'm sure――that my partnership with Arcueid will come to an end,
+ and I'll return to the ordinary life I'd lived before without any lingering regrets.
 }
 [sha:973f852c1172e6656d9a28eeea61bfa4f6b65b7d]{
 -- Page 62, Offset 18413.
 -- 「そうだ。俺がしたい事なんてそれしかないじゃないか」
-"That's it. That's the only thing I want to do, right?"
+"That's right. Of course that's what I want to do."
 }
 [sha:04e3ea34bdd95bc86f4f118ac2a4baef8287fc61]{
 -- Page 62, Offset 18414.
@@ -348,25 +381,26 @@ The time is seven-thirty.
 [sha:f500d73590a2148796606414a1c6b80bd2a0d4e1]{
 -- Page 62, Offset 18416.
 -- そろそろ家を出ないと間に合わない。
-I have to leave soon or I won't make it in time.
+I'd better leave soon if I want to make it on time.
 }
 [sha:6c0c9e9c4c03dee2ba06c8f2f570cf0f0d409973]{
 -- Page 63, Offset 18417.
 -- 「……それはそれとして。
-"...That being said.
+"That being said...
 }
 [sha:c21ea503a983716d10a5b5cf3312700a404469df]{
 -- Page 63, Offset 18418.
 -- アルクェイドとの事は黙っているしかないんだよな……」
-I had no choice but to keep silent about Arcueid..."
+I'd better keep quiet about Arcueid."
 }
 [sha:95dc2b22837e969c83f4ad4253a366dff23c12d5]{
 -- Page 64, Offset 18419.
 -- 先輩とアイツが水と油なのは分かりきっているし。
-I clearly get that Senpai and her are like water and oil.
+I'm painfully aware that Arcueid and Senpai are like oil and water.
 }
 [sha:9ff9d38069567471cfd2b375d39c6d429f7d0b2a]{
 -- Page 64, Offset 18420.
 -- 隠し事をして気が引けるけど、事が終わるまで先輩には気付かれないようにしないと。
-I'm reluctant to keep it under wraps, but I'll have to try my best so that Senpai doesn't notice it until it's all over.
+I don't feel good about hiding things from Senpai,
+ but it'd be best if I try and avoid her noticing anything until after it's all over.
 }
