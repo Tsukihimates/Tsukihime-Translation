@@ -1,7 +1,7 @@
 [sha:8479c8bcf12e123358296a66eaa6c5928ce3a790]{
 -- Page 10004, Offset 22334.
 -- 「じゃあ、痛くて効かないものを」
-"Then, the one that hurts and isn't effective, please."
+"Alright, I'll have the one that hurts and isn't effective."
 }
 [sha:7c615c45aee80a4a59ffac852decc1fb96bd6239]{
 -- Page 10004, Offset 22335.
@@ -11,18 +11,21 @@ It's an injection that goes against the principle of 'good medicine tastes bitte
 [sha:a9878d320a0e3a0797ad5520b89c57e08b4bfebb]{
 -- Page 79, Offset 22336.
 -- 「え、ホント？　こっち、使っていいの？　こんなノンケの美少年に？
-"Huh, really? You want me to use this one? On you, a young dashing man who doesn't swing that way?
+"Wait, seriously?
+ You'll really let me use this one?
+ On a pretty boy like you who doesn't swing that way?
 }
 [sha:77f7b48e3a0c4b40788f28f9530bf9df57842882]{
 -- Page 79, Offset 22337. Mods: @n.
 -- うわやば、アタシもってる。間違いなく蠍座の女の<星辰|うんせい>きちゃってる。
+// Alright boys please form an orderly queue for screenshots
 My god, I'm in luck. This must be my fortune as a Scorpio woman!
 }
 [sha:66c072cfa35617ed0ab8554be26c09cd0b1fdd8b]{
 -- Page 79, Offset 22338. Glued. Mods: @n.
 -- 局地的な地震起こしちゃう。だってほら、もう体のバイブスマックスだし！
 // Arach...
-Localized tremors warning! Look, my body's already like a vibrator at max speed!
+ Localized tremors warning! Look, my body's already like a vibrator at max speed!
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 79, Offset 22339. Glued.
@@ -32,17 +35,20 @@ Localized tremors warning! Look, my body's already like a vibrator at max speed!
 [sha:74a1c69ad827e817ec9d084d23d21c632bd3fdd7]{
 -- Page 80, Offset 22340.
 -- 「……あー、でもさすがに当主チャンに悪いかぁ。
-"...Ah, but sure enough, I'd feel bad for Matriarch-chan.
+"Hmm, I'd feel bad for Matriarch-chan though...
 }
 [sha:60fc3f0a23a555f4d466c6fd8b489f4b63255780]{
 -- Page 80, Offset 22341.
 -- ん、やっぱりフツーのにしとかない？　予防接種は<大事|だいじ>だけど、アタシの場合、やりすぎると<大事|おおごと>になっちゃうしぃ。
-Mmm, should I do a normal injection after all? Vaccination is important, but in my case, if I overdo it, all hell will break loose.
+%{i}Hmph%{/i}, maybe I should do a normal injection after all?
+ Vaccines are critical, but if I'm the one doing them I've gotta be careful not to go supercritical.
 }
 [sha:e11d154bb871e57cf26b14ca319f3767497e640e]{
 -- Page 80, Offset 22342.
 -- ええ、そう。今ならまだ間に合うわ。気を落ち着けて、ボタンを外して、急いで選択をやり直して―――
-Yes, indeed. You still have time. Calm down, unfasten your buttons, and reconsider your options quickly―――
+Yes, that's right.
+ You've still got time to change your mind.
+ Calm down, unfasten those buttons, and reconsider your options quickly―――
 }
 [sha:140e99a1fa9805c74000a34f1490894bca2f03ac]{
 -- Page 80, Offset 22343. Mods: @n.
@@ -62,17 +68,17 @@ She was as fast as lightning.
 [sha:7f3eb1ba26a64861a15242869474e174b117014e]{
 -- Page 81, Offset 22346. Mods: @n.
 -- 消毒、
-Disinfecting.
+Disinfecting.%{n}
 }
 [sha:c935744d9d8c4d3f3e7225ca4f6a90fe31f77217]{
 -- Page 81, Offset 22347. Glued. Mods: @n.
 -- 挿入、
-Inserting.
+Inserting.%{n}
 }
 [sha:8a830bb39210872a80cac4c9e3d9ef9d98487a6b]{
 -- Page 81, Offset 22348. Glued. Mods: @n.
 -- 投薬、
-Administrating.
+Administering.%{n}
 }
 [sha:423862053ad7bb829a242ef3011e2e98a2fbe868]{
 -- Page 81, Offset 22349. Glued. Mods: @n.
@@ -82,47 +88,53 @@ Smiling.
 [sha:96c0be948a8eff2a931303e3f072002967f552b7]{
 -- Page 81, Offset 22350.
 -- 阿良句博士はおよそ10秒で予防接種を済ませると、
-Dr. Arach finishes up the vaccination in more or less ten seconds.
+Prof. Arach finishes the vaccination in about ten seconds.
 }
 [sha:194ce575f47358985d0ecdd3477226762d12b8a1]{
 -- Page 81, Offset 22351.
 -- その、使い捨ての注射器とは思えない、不思議なデザインの注射器をケースに仕舞い込んだ。
-She then takes the strangely designed syringe, which definitely doesn't look like a typical single-use one, and stores it in a case.
+She carefully puts the syringe she used back in its case.
+ It has a very strange design――it doesn't look anything like an ordinary disposable syringe.
 }
 [sha:36da15a73f3309aeaf5aff7df005fd69434d7513]{
 -- Page 82, Offset 22352.
 -- 「で、どう？　どうだった？
-"Well, how was it?
+"Well? How was it?
 }
 [sha:fc42b22b9b1b3a52714dc31c83d0ddad5f3e2961]{
 -- Page 82, Offset 22353.
 -- あまりの痛みに腰抜けちゃった？　志貴チャンのバージン奪っちゃった？
-Were you stunned by the pain? Did your virginity get snatched away?
+// Too much?
+Did the pain blow your back out?
+ Did your virginity get snatched away?
 }
 [sha:2e7b362bddd716a52c631da03488083a6b471175]{
 -- Page 82, Offset 22354.
 -- よちよち、ひとりで立てまちぇんかー？　ならそこのベッドまで連れて行ってあげまちゅねー？
-Good good, can you stand up by yourself? Should I help you to that bed over there?
+// I guess toddler speak for all the ~ち?
+Aww, can the widdle baby not stand up all by himself?
+ Do you need mommy to carry you over to that bed over there?
 }
 [sha:b29f764a63e00a1a515491834574241c121e70a3]{
 -- Page 82, Offset 22355. Mods: @k, @e.
 -- その後はぁ……悪いところを取り出す手術とかやっちゃう？
+// Bad parts feels very dumb but unsure if it can just be 'what ails you' or if it needs to carry deeper meaning
 After that... How about some surgery to extract your bad parts?
 }
 [sha:a8e1d5e57890489fe2744458571eec629d06259a]{
 -- Page 82, Offset 22356. Glued. Mods: @x.
 -- 麻酔なしの、ゴリッゴリのオペレーションになっちゃうけど！」
-Though without anesthesia, it's going to be a bold operation!"
+ I gotta warn you, it'll be a pretty rough operation without any anesthesia though!"
 }
 [sha:5146b88a049fa4bd50dd9d433707fb0686a06816]{
 -- Page 83, Offset 22357.
 -- わきわきと指を可動させながら手を伸ばす阿良句医師。
-Dr. Arach extends her arms, vigorously making her fingers twitch as though she was itching to grab me.
+Dr. Arach starts reaching for me, making vigorous grasping motions with her fingers.
 }
-[sha:5b6311dda21b05d73f66eedfbc53f5bd0426a653]{
+[offset:22358]{
 -- Page 83, Offset 22358.
 -- しかし、なんていうか、
-But, how should I put this?
+I kinda hate to break it to her, but...
 }
 [sha:24b8acee8355a36b216b8e2634d6d7dc3053b0af]{
 -- Page 83, Offset 22359. Mods: @n.
@@ -142,16 +154,18 @@ I was bracing for it, but the pain wasn't anything special.
 [sha:04499d0e0ccc69f417b75b1c6ae68b95ad53167c]{
 -- Page 83, Offset 22362.
 -- 痛いのは阿良句博士の言動だけである。
-On the contrary, the only thing that hurts is Dr. Arach's statements.
+The only painful thing here is the way Prof. Arach is acting.
 }
 [sha:6dba23cf918ec8a6fdfa6ffc4f597922ff0a128c]{
 -- Page 84, Offset 22363.
 -- 「うそぅ！？　あ、ホントだ、脈も瞳孔も異常なし！？
-"No way?! Ah, you're right! Your pulse and pupils are in normal condition?!
+"No way?! Ah, you're right!
+ Your pulse is normal and your pupils aren't dilated?!
 }
 [sha:51fe73ca09d1fe6a5bcadf6a1d88ae49edbc9688]{
 -- Page 84, Offset 22364.
 -- なーんてあったりまえだっつーの！　だって今のインフルエンザの予防接種じゃなくて、ただの栄養剤だから！　アタシ特製のビタミン剤を食らうといいのだわー！」
+// We know better than to ask what's inside
 Just kidding, that's totally normal! After all, that wasn't a flu shot, it was just a nutrient injection! It's my specially made vitamin supplement!"
 }
 [sha:75d1da864541e11ff9e6f159c7f13be5216d4cfe]{
@@ -162,12 +176,13 @@ Just kidding, that's totally normal! After all, that wasn't a flu shot, it was j
 [sha:0f978d88db68767527763e728e84972c9abd392e]{
 -- Page 85, Offset 22366.
 -- 「だって志貴チャン、ここの所精力的に活動してるんデショ？　なら体力はつけておかないと。
-"Shiki-chan, you've been going at it super energetically recently, right? If so, you need to build up your strength.
+"You've really been going all-out recently, haven't you, Shiki-chan?
+ You've got to make sure you keep your strength up.
 }
 [sha:dd4b8df6830a6e9021ac429a48d010239a76bcda]{
 -- Page 85, Offset 22367.
 -- どうせもう予防接種なんて間に合わないんだしぃ？」
-At this rate, a vaccine isn't going to be enough, you know?"
+Besides, it's already too late for a vaccine to do you any good, isn't it?"
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 86, Offset 22368.
@@ -182,12 +197,12 @@ She just said something strange.
 [sha:ae2d965f7327f0911d0538a02dc85ef3b34a3a52]{
 -- Page 86, Offset 22370.
 -- その真意を問いただそうとした時、
-Just as I was about to ask her what she really meant.
+Just as I'm about to ask her what she meant―――
 }
 [sha:0284f6cc313a747219e206c62e165e5527846e66]{
 -- Page 87, Offset 22371.
 -- 「ザンネン、時間切れ。次の子が来ちゃったわ」
-"Too bad, time's up. The next student just came in."
+"What a shame, time's up. The next student just came in."
 }
 [sha:bb93983ad220f0df3ac713777f64c684c1ad7151]{
 -- Page 87, Offset 22372.
@@ -202,12 +217,13 @@ I look at the clock in surprise.
 [sha:6d23e736d745b759306b49878c685a6777b3c5cf]{
 -- Page 88, Offset 22374.
 -- 椅子に座ってからもう７分近く経過していた。
-Almost seven minutes have passed since I sat on the chair.
+It's been seven minutes since I came in and sat down.
 }
 [sha:1839d1e126c60d54ffaeb31e0b88b15d992cb5b5]{
 -- Page 88, Offset 22375.
 -- 生徒ひとりに使える時間は平均３分。そりゃあ次の生徒が入ってくるだろう。
-On average, a single student stays for three minutes. It's no wonder that the next person came in.
+Each student only spends three minutes in here on average.
+ It's no wonder that the next person came in.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 89, Offset 22376.
@@ -217,22 +233,23 @@ On average, a single student stays for three minutes. It's no wonder that the ne
 [sha:35477cc9235c52ed56070ec8b5d57a8d937bed20]{
 -- Page 89, Offset 22377.
 -- 服を正して保健室を後にする。
-I straighten my uniform and leave the infirmary.
+I straighten my uniform and go to leave the infirmary.
 }
-[sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
+[offset:22378]{
 -- Page 89, Offset 22378.
 -- ……と。
-And then...
+As I do―――
 }
 [sha:11a06f44d97d1c249e5711055f0253ad624b1615]{
 -- Page 90, Offset 22379.
 -- 「それじゃあね、遠野志貴クン。
-"Well then, Shiki-kun.
+"See ya, Shiki-kun.
 }
 [sha:bea577afd9ee6fe9fd8b02e2343bccbfb094f60d]{
 -- Page 90, Offset 22380.
 -- どうなるか楽しみにしていたけど―――まあ、失敗する事にも意味はあるものねぇ？」
-I look forward to seeing what will happen next―――Well, it will be interesting even if it fails, no?"
+I was looking forward to seeing what would happen next, but...
+ Well, there's still lessons to be learned from failure, right?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 91, Offset 22381.
@@ -242,15 +259,16 @@ I look forward to seeing what will happen next―――Well, it will be interest
 [sha:d9da2dbc21b669c9f8e99289731e7dfdf7290dcd]{
 -- Page 91, Offset 22382.
 -- 妙な言葉に一瞬だけ振り返る。
-Hearing her ominous words, I turn around for just a second.
+I glance back over my shoulder at her curious words.
 }
 [sha:37d8e0c3928413b3dc01da813638a38393ba9047]{
 -- Page 91, Offset 22383.
 -- ……おそらく、いつもの皮肉だったのだろう。
-...It's probably just one of her usual sarcastic jabs.
+It's probably just one of her usual sarcastic jabs...
 }
 [sha:50b9860f7fc2fdd145d8fd35aa7600785ea0b70d]{
 -- Page 91, Offset 22384.
 -- 阿良句博士はカーテンの向こうで、その長い髪を蜘蛛のように揺らしていた。
-From the other side of the curtain, Dr. Arach's long hair seemed to be undulating like a spider.
+// LintConsistency:22333
+The shadow cast by Prof. Arach's long hair sprawls across the curtain like a spiderweb.
 }
