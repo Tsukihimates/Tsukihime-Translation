@@ -65,7 +65,7 @@ Senpai normally comes out to greet me, but I guess that's not the case today.
 [sha:50a674fe9cc7119a3797502fb605c41ac3855edb]{
 -- Page 98, Offset 22396.
 -- 中からシエル先輩の元気いっぱいな声が聞こえてくる。
-She responds from within in a particularly lively voice.
+She responds from within with a particularly lively voice.
 }
 [sha:409b975a7e5963d648094b70b98dac02c0d160d2]{
 -- Page 99, Offset 22397.
@@ -91,7 +91,7 @@ I step into the tea ceremony room certain that this is going to be the greatest 
 [sha:7c5a350486ca95e4ccc9fcf2c64aa5caefe630ef]{
 -- Page 101, Offset 22401.
 -- 「―――かちゃり？」
-"What was that click...?"
+"Wait, %{i}click%{/i}...?"
 }
 [sha:72e201f828bb2f206f00a514257ab132de423503]{
 -- Page 101, Offset 22402.
@@ -124,7 +124,7 @@ I look around the Japanese-style room.
 [sha:236f8f70deb56c552836c38545f61a6d410b978f]{
 -- Page 104, Offset 22407.
 -- 「先輩―――あの、それは」
-"Senpai―――Umm, is that..."
+"Senpai... um, is that..."
 }
 [sha:f4e55e2ee285c92544675672b63cc9e29b832d0f]{
 -- Page 104, Offset 22408.
@@ -222,7 +222,7 @@ Anyone would if they were in my shoes, confronted with both Senpai's smile and t
 [sha:9a85918f78b704c8fbf40813f0ab17ba87d3d0c5]{
 -- Page 111, Offset 22425.
 -- 「―――ところで、コレの事ですが」
-"By the way, this thing is―――"
+"By the way, about this thing here―――"
 }
 [sha:00c36687f3b6f2cdaa150cc4e6b2483f46548394]{
 -- Page 112, Offset 22426.
@@ -233,8 +233,8 @@ Ciel-senpai picks up her weapon with a practiced motion,
 [sha:7cc4b8dec75cfc2358c74e576c1310b6f6faca0b]{
 -- Page 112, Offset 22427.
 -- 何のかけ声もなしに持ち上げられる、パッと見ただけでも俺の体重の何倍もありそうな鉄塊。
-I can tell at a glance that that lump of iron is easily several times heavier than I am,
- and she didn't make so much as a sound as she hefted it.
+I can tell at a glance that this lump of iron is easily several times heavier than I am,
+ but she didn't make so much as a sound as she hefted it.
 }
 [sha:51a14131fcc979dafa95879cd9764135ea91c5ae]{
 -- Page 113, Offset 22428.
@@ -269,9 +269,9 @@ Obviously, I also sprinkle in the adjective 'super cool'.
 It works by shooting a massive stake out of this end here, which I use to punish lia――ahem, %{i}vampires%{/i}.
  It was originally powered by hydraulics,
  but since there was a risk it might break down in certain environments
- I rebuilt it to use the external pressure created by magical energy as its main energy source.
- I've already taken down three heavyweights with this thing,
- it's my most prized possession."
+ I rebuilt it so that it could be powered by external pressure created by magical energy instead.
+ I've already taken down three heavyweights with this thing.
+ It's my most prized possession."
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 116, Offset 22434.
@@ -346,16 +346,16 @@ She's right. Even a vampire would die
 [sha:efca23ad590de3893fed70d98350aae7489e8b66]{
 -- Page 120, Offset 22446.
 -- 問題は、その杭打ちの標的は、今回にかぎって俺ではないかという状況だった。
-The problem here is that this time, %{i}I'm%{/i} the one in its crosshairs.
+The problem here is that right now, %{i}I'm%{/i} the one in its crosshairs.
 }
 [sha:54e7598a829497d848e8e5cf7e6516d66ccecc8d]{
 -- Page 121, Offset 22447.
 -- 「他にもいくつか種類がありますが、それらは今の遠野くんには関係がないので紹介はできません。まことに残念ですが諦めてください」
 // 関係がない as in they aren't condemnation, the thing that's happening rn
-"I have a number of other instruments,
+"It has a number of other forms,
  but since they don't really apply to you in the same way right now,
  I'm afraid I can't show them to you.
- I am truly sorry, but please understand.
+ I am truly sorry, but please understand."
 }
 [sha:6d8e10d6784b32d8ef5c3a4b5abe3f5102575efc]{
 -- Page 122, Offset 22448.
@@ -365,8 +365,8 @@ The problem here is that this time, %{i}I'm%{/i} the one in its crosshairs.
 [sha:bad152fbece8f605b1a670dff96ac8a1b8c56c0d]{
 -- Page 122, Offset 22449.
 -- ……参考までに聞きますが、その銃……杭打ち機の他にはどんな無理難題があるんでしょう？」
-Just for reference, aside from than gun――pile bunker,
-  what other kind of outlandish ways do you have to kill people?"
+Just for reference, aside from this gun――pile bunker,
+ what other outlandish ways do you have of killing people?"
 }
 [sha:7fbc00c1b58bd2cf1ef317c2adcb3a49fa2027c7]{
 -- Page 123, Offset 22450.
@@ -413,7 +413,7 @@ I thought you might have something you'd like to say to me,
 [sha:931aca0eccbcc116684b5bd0e8da431a813a27e5]{
 -- Page 126, Offset 22458.
 -- よし、全力で謝ろう……！
-Okay, time to apologize with all my might!
+Okay, time to apologize as hard as I can!
 }
 [sha:35f201b99f6beb478f052907f09a4fa8f9aa7262]{
 -- Page 126, Offset 22459.
@@ -460,7 +460,7 @@ I can only pray that clemency for those who confess their sins is a principle sh
 -- Page 129, Offset 22466.
 -- 「ありませんでした。吸血鬼は慎重になってるみたいで、しばらくは膠着状態だろうって、アルクェイドが」
 "None whatsoever.
- Arcueid said that they're all on guard now, and we'll probably be stuck in a stalemate for a while."
+ Arcueid said that they're all on high alert now, and we'll probably be stuck in a stalemate for a while."
 }
 [sha:2ce2873a5386ca93007850c064401c8a523f8a8c]{
 -- Page 130, Offset 22467.
@@ -477,12 +477,12 @@ Well, never mind that.
 [sha:8992d67fc5a6e3252e29abbc6edd49e48bf15820]{
 -- Page 130, Offset 22469.
 -- それで、貴方の感想は？　吸血鬼と協力して得るものはありましたか？」
-What was your impression? Did you gain anything by cooperating with that vampire?"
+What were your impressions? Did you gain anything by cooperating with that vampire?"
 }
 [sha:6373bd92ec3b40a442c78c0c9c06aaa8d03a848d]{
 -- Page 131, Offset 22470.
 -- 「え……感想、ですか？」
-"Uh... my impression?"
+"Uh... my impressions?"
 }
 [sha:673457ca4a1bf446f3401ec1870ef83d1d7b65c5]{
 -- Page 131, Offset 22471.
@@ -549,7 +549,7 @@ I didn't want her to hate me, so I kept quiet about my promise to Arcueid.
 [sha:ce1c446e8255f5e244c08c0e18e3342d52eab8cf]{
 -- Page 137, Offset 22482.
 -- 「ですが、わたしが反省してほしいのはそこではありません。遠野くんはもっと自分の身体を大事にしてください。貴方はふつうの男の子なんです。わたしのような掃除屋とは違う。
-"However, that's not the thing I want to to reflect on today.
+"However, that's not the thing I want you to reflect on today.
  What I want is for you to take better care of yourself, Tohno-kun.
  After all, you're just an ordinary boy.
  You aren't an assassin like me.
@@ -605,7 +605,7 @@ My mind is a complete jumble of heartfelt regret and gratitude, and I can't even
 [sha:d36b46d0675d552a21da6a891c05178815449670]{
 -- Page 141, Offset 22492.
 -- 「……はあ。色々と言いたい事はありますが、そんな顔をされたら何も言えません」
-"%{i}Sigh%{/i}... There's a lot I want to say, but how can I when you look at me like that."
+"%{i}Sigh%{/i}... There's a lot I want to say, but how can I when you look at me like that?"
 }
 [sha:6255ab4be0248fa127db9588e86632fb201866ba]{
 -- Page 142, Offset 22493.
@@ -621,7 +621,7 @@ I can't deny that you didn't do it alone.
 [sha:0585b63cd1ea07a38590005567b30ba06eafa139]{
 -- Page 143, Offset 22495.
 -- 「あ……いや、あれは……トンチというか、言い訳というか、ですね」
-"Ah... Well, that was... Something I came up on the spot, just an excuse."
+"Ah... well, that was... something I came up on the spot, just an excuse."
 }
 [sha:a4ca7169cc98f7339aaf8d017637eabc6bdd2c21]{
 -- Page 144, Offset 22496.
@@ -647,7 +647,7 @@ I'm relieved...
 -- Page 145, Offset 22500.
 -- まだ話は終わってないけど、昨日の約束破りに関しては少しだけ許されたらしい。
 I'm sure this isn't the end of the conversation,
- but at she seems to have forgiven me a little for breaking my promise yesterday.
+ but she seems to have forgiven me at least a little for breaking my promise yesterday.
 }
 [sha:b57074470c310e8aa18ce84041a3333b9883f439]{
 -- Page 146, Offset 22501.
