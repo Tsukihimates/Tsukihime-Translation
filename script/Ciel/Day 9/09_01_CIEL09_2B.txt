@@ -107,7 +107,7 @@ I wanted her to tell me more about Arcueid and the other vampires anyway,
 -- Page 156, Offset 22528. Glued.
 -- ホモサピエンスの血液を糧とする異物を、わたしたち聖堂教会は吸血鬼と呼称しています」
 // Note that latin names must be italicized, genus must always be capitalized, and species must _not_ be capitalized
- we members of the Church refer to those who suck the blood of Paragons――of %{i}Homo sapiens%{/i} for nourishment as 'vampires'.
+ we members of the Church refer to those who suck the blood of Paragons――of %{i}Homo sapiens%{/i} for nourishment as 'vampires'."
 }
 [sha:768ccebdeb57765bc58ce004d7841aed3a402ffc]{
 -- Page 157, Offset 22529.
@@ -267,22 +267,25 @@ He has succeeded in using magecraft to emulate the cycle of Samsara.
 -- Page 169, Offset 22556.
 -- 殺しても殺せない……。
 // Please kill me me too
-He isn't killed even if he's slain...
+Even if he's killed, he cannot be slain...
 }
 [sha:2c3a546216665b07fc26e87cee3e8d85b83660a1]{
 -- Page 169, Offset 22557.
 -- たとえば、目の前にいる吸血鬼を殺して安心しても、そいつは次の世代の人間に生まれ変わってしまう、という事だ。
-Even if we're granted relief by killing the vampire that stands before us now, he'll simply be reborn inside another human in the following generation.
+In other words,
+ even if we grant ourself some relief by killing the vampire that's in front of us right now,
+ he'll just be born again as another human in the next generation.
 }
 [sha:37949955c985bade12129d503fc1e1ac88fadae2]{
 -- Page 170, Offset 22558.
 -- それは生命としての不死ではなく、存在としての不死に近い。
-This is closer to a deathlessness associated with existence, rather than one associated with life.
+It doesn't sound like he's deathless in that his %{i}life%{/i} never ends so much as that his %{i}existence%{/i} never does.
 }
 [sha:f8e2a16064ffb5037e6b4849aba0eeac6830eb3d]{
 -- Page 170, Offset 22559.
 -- 転生がどこまで汎用性のあるものかは不明だが、本気でロアという吸血鬼を消滅させたかったら、すべての人間を殺すしかないという理屈になってしまう―――
-It's unclear just how versatile reincarnation is, but, logically speaking, that'd mean eradicating the vampire called Roa for good would entail killing %{i}all mankind%{/i}.
+I'm not sure exactly how versatile reincarnation is,
+ but it sure seems like the only logical way to guarantee you eradicate the vampire named Roa for good would be to eradicate %{i}all mankind%{/i}.
 }
 [sha:060b29b55a01eb79648a943d4bcad5089496fb2d]{
 -- Page 171, Offset 22560.
@@ -292,52 +295,66 @@ It's unclear just how versatile reincarnation is, but, logically speaking, that'
 [sha:705ece0a3e3e31c49f0a6057b3e24e3d9492eae7]{
 -- Page 171, Offset 22561.
 -- 基本、ロアは存命している間に次の<肉体|じぶん>をあらかじめ決めておきます。これと定めた血筋の胎児にこれまでの自分の全情報を移植するんです」
-Essentially, Roa chooses his next vessel in advance, while he's still alive. He transplants all of his data into the fetus of the bloodline he has decided upon."
+The gist of it is that Roa uses the time while he's alive to preselect his next vessel.
+ Once he's made his decision,
+ he transplants all of the information that constitutes his self into the fetus belonging to his chosen bloodline."
 }
 [sha:6672e06258a8fbce1fc7be6f7aa55fa4be89be47]{
 -- Page 172, Offset 22562.
 -- 「ロアの情報はその胎児が成人、ないし自己としての知性を持つまで影を潜めています。
-"Roa's data is hidden until the fetus reaches adulthood or develops self-intelligence.
+// Similar to Arc 26197.
+// Subsequent lines also pretty similar to parts of arc 10_6
+"This information then lies dormant in the fetus until it either reaches adulthood or becomes intelligent in its own right.
 }
 [sha:9012adce68e4ab455b5c7c119697270e327f21e4]{
 -- Page 172, Offset 22563.
 -- そして転生体が“自分”を引き継ぐに相応しい知性を持った段階で、ロアという吸血鬼になってしまうんです」
-And once the host possesses enough intelligence to inherit his 'self', they become the vampire called Roa."
+Once the host develops sufficient intelligence to inherit his 'self', they become the vampire called Roa."
 }
 [sha:fecfc8dbbdc3724f2c5a3133d9510a57f96f2e58]{
 -- Page 173, Offset 22564.
 -- 「―――ちょっと待って先輩。
-"―――Wait a minute, Senpai.
+"Wait a minute, Senpai.
 }
 [sha:6167dc5088dfdefe99375b31f98cdc802fc05e9e]{
 -- Page 173, Offset 22565.
 -- 移植って、つまり赤ん坊が母親のお腹の中にいる時に手術みたいな事をするんですか……？」
-By 'transplant', do you mean that he does some sort of surgery on the baby while they're still in their mother's womb?"
+When you say 'transplant', do you mean to say that he's doing surgery on the while they're still in their mother's womb...?"
 }
 [sha:5dafef5331caf91c3985a52ce752bea56829adb5]{
 -- Page 174, Offset 22566.
 -- 「基本的にはそうです。移植は転生先の肉体が胎児の時に行われます。それは医学的な工程ではなく、自然のサイクルに近い工程です。
-"More or less. It occurs while the host is a fetus, and is more like a natural cycle than a medical process.
+// Page is too small for all this garbage, I've split it in half
+// lint-off:LintPageOverflow
+"You're in the right ballpark.
+ This transplantation does take place while the host is still a fetus,
+ but it isn't a medical procedure so much as a process that approximates the natural cycle.
 }
 [sha:e50aae64c07fb70cf8aabc0b2ab73dc97fa8bff4]{
 -- Page 174, Offset 22567.
 -- さきほど全情報と言いましたが、ようは魂という名の電波と思ってください。電波を発信するのも受信するのも人間の脳」
-I said that he transfers all of his data, but think of it like this: he transfers his soul as waves, and the human brain is the receiver and the transmitter."
+// Hmm yeah this is just as bullshit the second time
+I said a moment ago that he transfers all of the information that makes up his self,
+ but the key point here is to think of the soul like an electromagnetic wave,
+ with the brain acting as both transmitter and receiver."
 }
 [sha:a46528804e1b3564df4972da293d574b7910cb5e]{
 -- Page 174, Offset 22568.
 -- 「ロアはその肉体が死滅した際、魂を拡散させて次の肉体に転移します。転生先が決まっていればその肉体に。決まっていなければ一定条件を満たした胎児にランダムに。
-"When Roa dies, his soul diffuses and transfers to his next body. If he has already determined a new host, then he sends it to that body, if not, he chooses a random fetus that satisfies his conditions.
+// This line actually begins a new page.
+"The instant that Roa's body dies, he disperses his soul and transfers it to his next body.
+ If he's already decided on a new host, then that's where it goes.
+ If he hasn't yet, then it goes to a random fetus that satisfies his conditions.
 }
 [sha:19b830cf74955286ff0b70c5f390b24ee09fb171]{
 -- Page 174, Offset 22569. Mods: @n.
 -- ロアの優れたところは魂なんていう計測不能の形而上のものを定義し、
-Roa's genius was defining the immeasurable metaphysical concept that we call the soul―――
+Roa's genius was defining the unquantifiable metaphysical concept that we call the soul
 }
 [sha:aec2f6a2ea4d8110715def8c74c6b7683f4e7a4e]{
 -- Page 174, Offset 22570. Glued.
 -- 伝達可能なモノとして加工したことでしょう」
-and transforming it into something that can be transmitted."
+ and transforming it into something that can be transmitted."
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 175, Offset 22571.
