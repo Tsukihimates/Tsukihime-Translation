@@ -27,12 +27,14 @@ A slimy red sensation clings to every surface of my body.
 [sha:cf286986702d281fe4ce0dbd48d811bc146b5b6a]{
 -- Page 2, Offset 22143.
 -- よほど<魘|うな>されたのか大量の汗をかいている。
-I must have been having a terrible nightmare. I'm absolutely drenched in sweat.
+// 魘される modulated to avoid repetition in next line
+I must have been tossing and turning a lot in my sleep.
+ I'm absolutely drenched in sweat.
 }
 [sha:e19096a16bb03e9251cd494decf66915e5af1016]{
 -- Page 2, Offset 22144.
 -- ―――何か、良くない夢を、見たようだ。
-I feel like... I had a terrible dream.
+I feel like... I had a terrible nightmare.
 }
 [sha:e0cdfd17ef1fc9056baccd34a56dd20e3c37094f]{
 -- Page 3, Offset 22145.
@@ -47,7 +49,7 @@ I wipe the sweat from my brow and finally manage to calm down.
 [sha:392a00823de1d1a8561fc2469339a24f67e29692]{
 -- Page 4, Offset 22147.
 -- 眠る前に読んでいた本の影響だろうか。
-It must have been because I read that book before going to sleep.
+I wonder if it's because I read that book right before going to sleep?
 }
 [sha:14a12fe1910b5c8b2f226aeb2f72323c574a3399]{
 -- Page 4, Offset 22148.
@@ -76,7 +78,7 @@ I should stop thinking about it.
 [sha:1338a89d6fca7bc96ceabdde8ae4325846af33f0]{
 -- Page 5, Offset 22152.
 -- ……きっと今の夢は、深く考えてはいけないものだ。
-That dream I just saw definitely isn't something I should dwell too deeply on...
+That dream isn't the sort of thing I should dwell too deeply on...
 }
 [sha:9a9c1317e5029416bfadefd8fb1d56f0e76f316f]{
 -- Page 5, Offset 22153.
@@ -116,7 +118,7 @@ I've only just woken up,
 [sha:ab0d8a0d64f2cb61560a5950e4464b63db9a51bc]{
 -- Page 7, Offset 22158.
 -- 冷たい水で顔を洗って、落ち着いてから水を飲めば、喉の渇きも嘔吐感も治まる筈だ。
-If I splash some cold water on my face and then have a drink after I've calmed down a bit,
+If I splash some cold water on my face and have a drink after I've calmed down a bit,
  that ought to take care of both the nausea and my thirst.
 }
 [sha:ad82e57818e2cc83026472fe74dfd8d1b8aae5d3]{
@@ -159,7 +161,7 @@ I finally manage to finish buttoning up my uniform.
 -- Page 11, Offset 22166.
 -- お着替えを済ませたばかりですが、今日はお休みになられてはいかがでしょう？」
 I understand that you have just finished getting dressed,
- but have you considered taking the day off?"
+ but perhaps you ought to consider taking the day off?"
 }
 [sha:577c9f2d5106da3470573e9e3fd00e517ae437fd]{
 -- Page 11, Offset 22167.
@@ -184,7 +186,7 @@ I cut myself off before I can finish that sentence.
 [sha:5a73c7a38ce7483727efefda3184bec821d6ef24]{
 -- Page 13, Offset 22170.
 -- 「……コホン、なんでもない。
-"...%{i}Ahem%{/i}. Forget it.
+"%{i}Ahem%{/i}. Forget it.
 }
 [sha:8f53e1799250d100fad0b3269629550737420636]{
 -- Page 13, Offset 22171.
@@ -194,12 +196,12 @@ Anyway, why do you ask? Is something going on at the mansion today?"
 [sha:f654a4cce2d003ba2ac0ab26de14a6b0c2a40e8b]{
 -- Page 14, Offset 22172.
 -- 「いえ、志貴さまのお顔の色が、今朝は特に優れないように見えたので……」
-"No, it was simply that you happen to look particularly pale this morning, Shiki-sama..."
+"No, it was simply that you happened to look particularly pale this morning, Shiki-sama..."
 }
 [sha:64c7a325837e1a05e8b2c8bacde168c907d665ce]{
 -- Page 14, Offset 22173.
 -- 「ああ、それは大丈夫。ちょっと夢見が悪くて気分が悪かったんだ。それも顔を洗えば戻るから心配しないでくれ」
-"Ahh, don't read into that too much.
+"Yeah, but don't read into that too much.
  I'm just feeling a little groggy because I had a bad dream.
  I'm sure the color will return to my cheeks once I've washed my face, so no need to worry about me."
 }
@@ -273,7 +275,7 @@ I take the opportunity to inform her of the issue I just encountered.
 -- Page 20, Offset 22187.
 -- 「―――申し訳ありません。わたしの手違いで廃棄してしまいました。新しいものを用意していますので、志貴さまがお帰りになられる頃には戻っているかと」
 "My deepest apologies.
- It was irreparably damaged on account of my carelessness.
+ It had to be disposed of on account of my carelessness.
  A new one is being prepared.
  It should be in place by the time you return, Shiki-sama."
 }
@@ -348,7 +350,7 @@ It goes against everything I believe in,
 [sha:facd4c39a39d7eee612d3bc4f6bf5d2a98f0d81c]{
 -- Page 27, Offset 22200.
 -- 「お任せください、お薬でしたらわたしの領分ですもの！
-"Leave it to me, medicines are my specialty after all!
+"Leave it to me, medicine is my specialty after all!
 }
 [sha:9c5cdbfe9ad869838cba0e2a48904404044e0e40]{
 -- Page 27, Offset 22201.
@@ -510,7 +512,8 @@ The sun is shining so brightly overhead that I have to squint as I stare up at t
 [sha:551c352786a61af25fe9e9a86906976e90cf5815]{
 -- Page 37, Offset 22231.
 -- 深呼吸をして清涼な空気を肺に取りこむと、吐き気と頭痛は完全に消えてくれた。
-As I take a deep breath and fill my lungs with fresh air, my nausea and headache vanish completely.
+As I take a deep breath and fill my lungs with fresh air,
+ both my nausea and my headache vanish completely.
 }
 [sha:f9ce5868fc35cb6fca2580316e8cf556268e3a9a]{
 -- Page 38, Offset 22232.
