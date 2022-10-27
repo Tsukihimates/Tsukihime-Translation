@@ -12,7 +12,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: Hakanaou/deepLuna
-          ref: v5.42
+          ref: v5.43
           path: deepluna
       - name: Lint
         run: |
