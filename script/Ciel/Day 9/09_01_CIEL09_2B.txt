@@ -231,7 +231,7 @@ That said, Roa is a vampire who has managed to overcome even that hurdle."
 [sha:0995b4e0599c4785f6c2c5da84d5f01e90da0b1e]{
 -- Page 167, Offset 22550. Glued.
 -- 仏教用語ですから日本の方には馴染みはあると思うんですけど」
- It's a Buddhist concept, so I'd expect most people in Japan to have heard of it."
+ It's a Buddhist concept, so I'd expect most people in Japan to have at least heard of it."
 }
 [sha:9c29fb6d60d8a0dbf9bf4040fd27243ac9a39875]{
 -- Page 167, Offset 22551.
@@ -349,7 +349,7 @@ I said a moment ago that he transfers all of the information that makes up his s
 [sha:19b830cf74955286ff0b70c5f390b24ee09fb171]{
 -- Page 174, Offset 22569. Mods: @n.
 -- ロアの優れたところは魂なんていう計測不能の形而上のものを定義し、
-Roa's genius was pinning down the unquantifiable metaphysical concept that we call the soul
+Roa's genius lay in pinning down the unquantifiable metaphysical concept that we call the soul
 }
 [sha:aec2f6a2ea4d8110715def8c74c6b7683f4e7a4e]{
 -- Page 174, Offset 22570. Glued.
@@ -408,7 +408,7 @@ Roa became a Dead Apostle approximately eight hundred years ago.
 -- 「はい。彼女にとってロアは特別な吸血鬼ですから。……わたしにとってもロアは特別な吸血鬼なんですけど」
 "Yes.
  Roa is more than just an ordinary vampire to her...
- though, I'll admit he's more than just an ordinary vampire to me too."
+ though, I'll admit he's more than just an ordinary vampire to me, too."
 }
 [sha:4349f42b60b97eade2a4a446d695280f2ddf2dc3]{
 -- Page 179, Offset 22580.
@@ -502,7 +502,7 @@ If a Dead Apostle like Vlov is akin to a natural disaster that befalls civilisat
 [sha:742c107d667a1f9c8ccbfaf32c9316a5194dd6bb]{
 -- Page 184, Offset 22596.
 -- ロアのような死徒は人間社会に潜む病魔に近い。
-Then a Dead Apostle like Roa is more like a disease lurking below the surface of human society.
+Then a Dead Apostle like Roa is more like a disease festering below the surface of human society.
 }
 [sha:d4ef4bbb3a1dc5f46a25d723075099e9f94eb20e]{
 -- Page 185, Offset 22597.
@@ -656,7 +656,7 @@ Even though they were born as an ordinary human?"
 [sha:a954a0990bbd76a4f903e45ab777a0185ce5705a]{
 -- Page 196, Offset 22623.
 -- 「転生するのは人格ではなく魂ですから。
-"Yes――you see, it isn't his personality that reincarnates, but his soul.
+"Yes. You see, it isn't his personality that reincarnates, but his soul.
 }
 [sha:f409332b3cad47de067d3c7c14f1e4a342d5fd09]{
 -- Page 196, Offset 22624.
@@ -677,9 +677,11 @@ However―――"
 [sha:a2dafc77472f38319fe41ed72cd7844426cfa811]{
 -- Page 197, Offset 22627.
 -- 「それだけでは万全とは言えません。転生は完成された不老不死のシステムですが、立ち上がりに不安材料が多すぎる。
+// Reading 立ち上がり as 'starting again in a fresh body' rather than 'starting the process of reincarnation', since
+// 1. the process is very much started and 2. it makes more sense given the following statements about selecting his starting spawn
 "Such a system is hardly foolproof.
  Reincarnation may be a perfect strategy for achieving immortality,
- but there are a lot of hurdles to getting it up and running.
+ but there are a lot of hurdles to starting life anew over and over again.
 }
 [sha:dc76a4025ba1579b51fb533380d74ab354452195]{
 -- Page 197, Offset 22628.
@@ -779,7 +781,7 @@ It obviously goes without saying that he's my enemy, and a threat to the inhabit
 -- Page 204, Offset 22645.
 -- 彼女こそロアを上回る災害にして元凶。この街を吸血鬼の住み家にまで<貶|おとし>めたのは、他ならぬあの化け物です」
 She's far more responsible for this disaster than Roa is.
- In fact, that monster is the one responsible for this city being infested with vampires in the first place."
+ In fact, that monster is the one to blame for this city being infested with vampires in the first place."
 }
 [sha:3220f4d71a67a592ee39dc2a7f65f66f2ccc96e9]{
 -- Page 205, Offset 22646.
@@ -899,7 +901,7 @@ Eight hundred years ago, she made a single mistake.
 Dead Apostles may possess tremendous power,
  but at the end of the day they're nothing more than one step ahead of humanity.
  Because they've extended their lifespans,
- they've had the time to hone their own powers to the point where they've become 'super' powers.
+ they've had the time to develop their own powers to the point where they've become 'super' powers.
 }
 [sha:c5ca10b0bce0f0d8881f9ef7756d688fd4c396f9]{
 -- Page 212, Offset 22667.
@@ -1031,7 +1033,7 @@ You humans are simply still unaware of the pain and fury of this flowing lifefor
 -- Page 219, Offset 22685.
 -- “あ―――、あ”
 // Voiced, back to Shiki
-"Ah――Ah..."
+"%{i}Ah――Ah%{/i}..."
 }
 [sha:7b12ade45dc9c1ddc13b1b87e664f7a1a27ec0f9]{
 -- Page 219, Offset 22686.
@@ -1088,7 +1090,7 @@ It's that nature has endorsed humanity's view of what constitutes beauty.'
 -- Page 221, Offset 22693. Mods: @n.
 -- 「惑星、自然現象が自らの触覚として独立させた存在。
 "The planet, and all the natural phenomena that constitute it,
- has brought forth independent beings to embody their sense of touch.
+ has brought forth independent beings to embody its sense of touch.
 }
 [sha:1d4074c0d83b77a9561b1dadbfe734b7312763a6]{
 -- Page 221, Offset 22695.
@@ -1141,53 +1143,60 @@ Why would they be handicapped by design, unable to exist without feeding off of 
 [sha:8c757b38b4aca765aad4ed5e4241438ef885a303]{
 -- Page 223, Offset 22703.
 -- もともと自然の一部、いえ、この星そのものとリンクしている彼らの能力は、それこそ際限というものがないんです」
-From the outset, they have been linked to a part of nature, no, linked to the planet itself. There's no such thing as a limit on their power."
+Their abilities have always been a part of nature――no, it's more that they are inextricably linked to the planet itself.
+ As such, there is no limit to their power."
 }
 [sha:1cbc21bca665661e64ca304ad7956dd9a16d5b18]{
 -- Page 224, Offset 22704.
 -- 「教会の歴史の中でも真祖と戦った記録は数えるほどしかありません。
-"Even in the history of the Church, there are but a handful of encounters with True Ancestors that have been recorded.
+"Throughout the entire history of the Church,
+ there have been only a handful of documented encounters with the True Ancestors.
 }
 [sha:80c569a007266272b4361a20275f6a6db47e8f91]{
 -- Page 224, Offset 22705.
 -- <真祖|かれら>は世界そのものから力を引き上げる。<真祖|かれら>を倒すということは世界を倒すほどの概念武装が必要になります。
-True Ancestors derive their power from the world itself. To defeat them would require a Conceptual Weapon on a scale tantamount to defeating the world.
+True Ancestors derive their power from the world itself.
+ To defeat them would require a Conceptual Weapon powerful enough to bring about the end of the world.
 }
 [sha:3006f129c4eedb536c41138f92303980d714be29]{
 -- Page 224, Offset 22706.
 -- ……もちろん、そんな武装はありません。
-...Obviously, such a weapon does not exist.
+Obviously, such a weapon does not exist.
 }
 [sha:a8ff09349ccbaabd9cc5796af905faf2796bf35a]{
 -- Page 224, Offset 22707.
 -- ですから<真祖|かれら>には、外的要因による“死”を与える事ができない」
-In other words, it is impossible to inflict 'death' upon them through external means."
+// God I hate 外的要因
+As such, it is impossible for any external factors to bring about their 'death'."
 }
 [sha:757ce28f7052e1f44c63fe04823fab3e18af8dfe]{
 -- Page 225, Offset 22708.
 -- 「……さらにはこんな碑文も残されています。
-"...Finally, the following inscription has been preserved in our records:
+"Furthermore, the following inscription has been preserved in our records:
 }
 [sha:f7f89553f929e2d253652dc2374fc38183496e02]{
 -- Page 225, Offset 22709.
 -- “真祖を討つのであれば万全のまま討ってはならない。
-'To vanquish a True Ancestor is to vanquish them while enfeebled.
+'If you would strike at a True Ancestor, strike not when they are in their prime.
 }
 [sha:c25f32c951527c166d280f1ef3ab337f767d0996]{
 -- Page 225, Offset 22710.
 -- 死に瀕した真祖のみ葬るべし”と。
-// Mileage may vary on my attempt to spruce it up girl what (2)
-One must slay them whilst they knock on death's door.'
+Bury instead the True Ancestor with one foot already in the grave.'
 }
 [sha:aa2535aca9c7e9047ee7e5855d60e09a56dc9a1b]{
 -- Page 225, Offset 22711.
 -- 奇襲ぐらいでしか殺せない怪物だというのに、不意打ちを禁じているとか訳が分かりません」
+// A little confused by this. It kinda seems like the above lines are saying yeah dipshit, don't fight them head on?
+// Where's the 禁じている coming from?
+// Unless the subject of the above two lines is totally backwards - don't fight them when _you're_ are your prime,
+// only when _you_ have one foot in the grave can you drag them into it? But that definitely doesn't seem to jibe with (死に瀕した真祖)
 Even though they're monsters that can only be killed when taken by surprise, surprise attacks are forbidden. It doesn't make any sense."
 }
 [offset:22712]{
 -- Page 226, Offset 22712.
 -- あの夜。
-That night.
+That night―――
 }
 [sha:8d4fea55bb82b2e2f9966265923d602a22291fd7]{
 -- Page 226, Offset 22713.
@@ -1197,7 +1206,8 @@ That's what she said in the hotel room.
 [sha:e388edb8f2d5953b6d562c88ec1da7ad4452c250]{
 -- Page 226, Offset 22714.
 -- 遠野志貴が彼女と出遭ったのが『昼』ではなく『夜』であったのなら、たとえこの<眼|まなこ>を以てしても、彼女に死を視る事はできなかった、と。
-That if she and I hadn't met during daytime, but rather at night, I wouldn't have been able to %{i}see%{/i} her death, even with these eyes of mine.
+If she and I had met at night, instead of during the day,
+ even my eyes wouldn't have been able to %{i}see%{/i} her death.
 }
 [sha:03fba19c19ab441a43df39ed93ac1063df02e956]{
 -- Page 227, Offset 22715.
@@ -1207,17 +1217,17 @@ In other words―――
 [sha:a233471bd01a8f702036656f61e540d26e93263f]{
 -- Page 227, Offset 22716.
 -- それは、何があっても死なないという事。
-She wouldn't die, no matter what.
+It would be absolutely impossible for her to die.
 }
 [sha:1b9023982c212b4036bbb255bafef8085b34bc8c]{
 -- Page 227, Offset 22717.
 -- 死するが運命だからこそ転生を求めた男とは、真逆の在り方に他ならない。
-It's the exact opposite of the man who sought reincarnation precisely because he was fated to die.
+Her mode of existence is the polar opposite of the man who chased immortality because he was destined to die.
 }
 [sha:e94ae2d770124aafc22e3e8e4badb76cd2a6be21]{
 -- Page 228, Offset 22718. Mods: @n.
 -- 「いいですか、遠野くん。
-"Is it clear, Tohno-kun?
+"Do you understand now, Tohno-kun?
 }
 [sha:e898fb979d138d18776e377fb986070c08ed6cf9]{
 -- Page 228, Offset 22720.
@@ -1232,12 +1242,12 @@ She is absolutely not doing it for the sake of us humans."
 [sha:af5fba97a7f44654fb1d7af823f42918e9514614]{
 -- Page 229, Offset 22722.
 -- 「……なぜ彼女が弱っているのかは判りませんが、もし力が戻れば遠野くんの手を借りる必要なんてなくなります。
-"...I don't know why she's gotten weaker, but if she recovers her power, she won't be needing your help any longer.
+"I don't know why she's weak right now, but if she recovers her power, she won't be needing your help any longer.
 }
 [sha:a2634ce38366931a54da418597e930121a502633]{
 -- Page 229, Offset 22723.
 -- その時、彼女が遠野くんを無事に帰すと思いますか？」
-When that happens, do you think that she'll just let you go?"
+When that happens, do you think that she'll just let you walk away?"
 }
 [sha:0ebd6b4e290aca46749a5c36b55e53783a6d28a2]{
 -- Page 230, Offset 22724.
@@ -1252,7 +1262,7 @@ She's seriously worried about my life.
 [sha:6a0c1154df66c1f0faf3746d52b8925432195737]{
 -- Page 231, Offset 22726.
 -- 真剣に、アルクェイドは血を吸う化け物だと嫌悪している。
-She's seriously repulsed at Arcueid for being a blood-sucking monster.
+She's seriously repulsed by Arcueid, and considers her a blood-sucking monster.
 }
 [sha:2b4a90ad7e2fa536e6e000527ac46419a12dbfee]{
 -- Page 231, Offset 22727.
