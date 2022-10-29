@@ -32,7 +32,7 @@ The second I call out to her, Senpai abruptly stops talking.
 -- Page 67, Offset 18427.
 -- 「よっ、おはよーサン。時間ギリギリで登校とか、おまえさんもここ一番でついてないね。今朝はシエル先輩が遊びにきてくれたってのに」
 // Sentence merged because ~のに is just so awkward to encode standalone
-"Yo, 'mornin!
+"Yo, mornin'!
  You've got some bad luck, only showing up right before the bell on a day when Ciel-senpai decided to come pay us a visit."
 }
 [sha:1ca2e2f61973e7eb699da4f6ce70f3b1e69d2a24]{
@@ -117,7 +117,7 @@ Wait a minute... It couldn't be that she found out about me and Arcueid, could i
 [sha:250ba82b10ccb34e2e1195b2aed5f00556a1d6ec]{
 -- Page 74, Offset 18443.
 -- 「え、えっと、おはよう先輩。
-"U-Um, good morning Senpai.
+"U-Um, good morning, Senpai.
 }
 [sha:8384aed69cc1114bfd32ba64a975f426f2534b41]{
 -- Page 74, Offset 18444.
@@ -209,7 +209,7 @@ Arihiko and I shoot each other a glance, bewildered by her unreasonable attitude
 -- Page 82, Offset 18460. Glued. Mods: @x.
 -- よし、そういうコトなら力になりましょう！　遠野、しりとりしようぜ！」
  Alrighty, if that's how it is, lemme lend you a hand!
-  Tohno, let's play shiritori!"
+ Tohno, let's play shiritori!"
 }
 [sha:d64a723f26075d0f7453e225bee313e9a4d577ca]{
 -- Page 83, Offset 18461.
@@ -281,7 +281,7 @@ However...
 -- Page 89, Offset 18474.
 -- 「だっておまえバラさねえじゃん。先輩、朝から来てくれたのにおまえは一向にこないし、加えて何かしでかしたんならこれぐらいのリターンねぇとな」
 // I think バラさない here is like "squeal"?
-"Yeah but there was no way you were gonna.
+"Yeah, but there was no way you were gonna.
  I mean, Senpai's been here all morning, so where the hell were you?
  If you're guilty of anything else on top of that, this seems like fair penance to me."
 }
@@ -385,14 +385,14 @@ Having heard that preposterous story, Senpai timidly asks for confirmation.
 -- Page 97, Offset 18492.
 -- ……ああもう、だからつまらないって言ったんだバカ有彦。見ろ、先輩だって呆れてるだろ」
 // Arihimbo
-Ugh, I told you it'd be a boring story, dumbass.
+%{i}Ugh%{/i}, I told you it'd be a boring story, dumbass.
  Look, Senpai's totally fed up with this!"
 }
 [sha:6b27da7ef49139af1c668a9f37d314dcc896bad8]{
 -- Page 98, Offset 18493.
 -- 耐えきれなくなって話を逸らす。理由はどうあれ、しりとりに弱いというのはやはり恥ずかしい事だ。
 Unable to bear it anymore, I try and change the subject.
- Regardless of the reason, it's pretty embarrassing for your Achilles heel to be shiritori.
+ Regardless of the reason, it's pretty embarrassing for your Achilles' heel to be shiritori.
 }
 [sha:d8541e03638e9600623cf89f18a61edd81306c91]{
 -- Page 98, Offset 18494.
