@@ -1304,13 +1304,14 @@ Listen closely, Tohno-kun.
 [sha:64c8ad9a08a308dd6d8a2ff62bf93f69fe3e487e]{
 -- Page 234, Offset 22734.
 -- 「彼らは―――人間の血なんか吸わなくても生きていけるくせに、ただ吸いたいという吸血衝動だけで人間の血を吸って、人間を人間以外の怪物にしてしまうんです。
-"Even though they do not need blood to survive, they still suck blood simply for the fun of it.
- They feel a vampiric urge that drives them to drink it, transforming people into inhuman monsters.
+"Despite not %{i}needing%{/i} to suck human blood to survive,
+ they still do it just because they %{i}want%{/i} to――because of their vampiric urges――
+ and in doing so transform people into inhuman monsters.
 }
 [sha:fc4223d440a28ab5cb66449eca7009c595896129]{
 -- Page 234, Offset 22735.
 -- そんなモノの傍に、一般人である貴方を歩かせる訳にはいきません」
-I cannot allow an ordinary person like you to join forces with such a creature."
+I cannot allow an ordinary person like you to walk side-by-side with such a %{i}thing%{/i}."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 235, Offset 22736.
@@ -1341,7 +1342,7 @@ Do you finally understand how dangerous she is now?"
 [sha:67dcda2e6772bdbd62a2047521d113b36d1afc3a]{
 -- Page 236, Offset 22741.
 -- 「……はい。額面通りには、なんとか」
-"Yeah... I'll take your word for it, I guess."
+"Yeah... In theory, I guess."
 }
 [sha:e66703393b68fd8e36445bc800d43582e9efb139]{
 -- Page 237, Offset 22742.
@@ -1368,7 +1369,7 @@ I mean, Senpai doesn't know anything about Arcueid.
 [sha:42cb1b4dfd653ce597ce2fe376849a6068910ef0]{
 -- Page 237, Offset 22746.
 -- あいつがいいヤツなんだって、知らないクセに。
-She has no idea that she's actually a good person.
+She's only saying all this because she has no idea that Arcueid's actually a good person.
 }
 [sha:b87eda4c5ed5dacbbc234891a432a4d5612c3b3a]{
 -- Page 238, Offset 22747.
@@ -1411,7 +1412,7 @@ I get it.
 [sha:4872ea6c8d3b1e8072fc6824a4cfe6230cbfc25b]{
 -- Page 240, Offset 22754.
 -- 先輩が本気で俺を心配してくれているのは分かっている。
-I understand that Senpai really is worried for my sake.
+I get that Senpai really is worried for my sake.
 }
 [sha:002eea1b43f9c3a4c736d87e3663b0a4fd02e2d3]{
 -- Page 240, Offset 22755.
@@ -1480,7 +1481,8 @@ Even supposing that she herself isn't dangerous, the very fact that you're engag
 -- 「貴方は彼女とは違う。傷つけば死んでしまう、普通の人間です。……わたしが許せないのは、それが判っていながら遠野くんを戦わせている事です。
 // People die when they are ~killed~ wounded
 "You're not like her.
- You're an ordinary human, who'll die if they're wounded...
+ You're an ordinary human.
+ If you get injured, you could die.
  What I can't forgive is that even though she understands that, she still forces you to fight.
 }
 [sha:f4b43aca9a23f1823782d5d48d9f3eeb9defb016]{
@@ -1567,10 +1569,10 @@ I leap to my feet and yell at Senpai.
 [sha:28e2903cada5a8f7d7b62a22a5b9b48303be45c0]{
 -- Page 251, Offset 22783.
 -- 「ああ、そういうコトですか。なるほど、納得しました。どうしてアルクェイドが街を守ったのか。あれは貴方を騙すための布石だったんですね。ああやって“人間らしい”フリをすれば、遠野くんがころっと騙されるから」
-"Ahh, so that's how it is.
- I get it now.
- She protected the city as part of her ploy to trick you into treating her like a human, Tohno-kun,
- and it looks like you've bought it hook, line, and sinker!"
+"Ohh, I get it.
+ Of course, it makes perfect sense why she protected the city now.
+ It was all part of her ploy to trick you, Tohno-kun!
+ She knew that if she put on that whole human act you'd buy it hook, line, and sinker!"
 }
 [sha:a45788e49f05933be331f4cb77536320330a28da]{
 -- Page 252, Offset 22784.
@@ -1585,9 +1587,8 @@ I don't give a damn whether she was being serious or just trying to rile me up.
 [sha:d01136379096ad8f457455cf8bf12aac76236456]{
 -- Page 252, Offset 22786.
 -- 先輩にとってアルクェイドは倒すだけの吸血鬼で、そんなものを信じる俺は愚か者だと思っている。
-It's clear that either way,
- Senpai thinks Arcueid is nothing more than a vampire to be defeated,
- and that I'm a fool for trusting her.
+It's clear that Senpai thinks I'm a fool for trusting Arcueid either way,
+ and that Arcueid herself is nothing more than a vampire to be defeated.
 }
 [sha:49995e4ab7f9806145ef55e1a2452aac7ad17d18]{
 -- Page 253, Offset 22787.
@@ -1595,7 +1596,7 @@ It's clear that either way,
 // 2 dumb 2 lie
 "I'm not being deceived!
  As if she's even capable of lying in the first place.
- She's not a snake like you, Senpai!
+ She's not as tricky as you are, Senpai!
 }
 [sha:42c436afdaf915d0481278b6534ff4e9d1aa27c5]{
 -- Page 253, Offset 22788.
@@ -1609,20 +1610,20 @@ I believe what she said.
 -- 「あのですね。自分が何を言っているのか理解していますか？　社会を守る私たちより、自由気ままに動いては街を混乱に陥れる、あのはた迷惑な真祖を信じるって言ったんですよ？
 "Excuse me?
  Can you even hear yourself right now?
- She plunged this city into chaos on a whim.
- Did you seriously just tell me that you believe that devil-may-care True Ancestor over us,
+ If she keeps wandering around doing as she pleases she'll throw this city into chaos!
+ Did you seriously just tell me that you believe that pain-in-the-ass True Ancestor over us,
  the people who are actually working to %{i}protect%{/i} society?
 }
 [sha:0fe781b7dde00087e043c2a08653540eca0b99b4]{
 -- Page 254, Offset 22790.
 -- さすがにそれは聞き逃せません。っていうか、わたしをバカにしてるんですか!?」
-I'm sure I must have simply misheard you.
- Or are you actively trying to make fun of me?!"
+I'm not about to let that one slide.
+ God, are you %{i}trying%{/i} to piss me off?!"
 }
 [sha:c79dbe32287e9cec99c431b7f934aabd8847686b]{
 -- Page 255, Offset 22791.
 -- 「バカにしてるんじゃなくて、アルクェイドを信じるって言ってるだけでしょう!?
-"I'm not making fun of you, all I'm saying is that I trust Arcueid!
+"I'm not, all I'm saying is that I trust Arcueid!
 }
 [sha:7a6a0429c1c1b29cfa87db51653ce215621c86b3]{
 -- Page 255, Offset 22792.
@@ -1634,13 +1635,13 @@ Why don't you, of all people, understand me?!
 -- Page 256, Offset 22793.
 -- 「彼女と協力するのなんて死んでもお断りです。月を重しにして眠った方がまだマシですから」
 // A throwback to file 05_01_CIEL05_3D line 271 where Arcueid says あいつに手を貸すぐらいなら、太陽を抱いて眠ってもいいぐらい (I'd rather breathe my last while embracing the sun than help her)
-"I'd rather die than cooperate with her.
- I'd let the moon crush the life out of me before I stooped to that."
+"You'd have to kill me before I cooperate with her.
+ I'd rather sleep under the weight of the moon than stoop to that."
 }
 [sha:e1c0a489833a0e6a5b167f31704a998804c6dbd9]{
 -- Page 256, Offset 22794.
 -- む。なんか、どこかで聞いたような言い回しだった。
-Huh, that line feels a little familiar for some reason.
+Huh, that metaphor feels a little familiar for some reason.
 }
 [sha:c58cd3b9c9daa51dd687caadfd8a820abc68ab32]{
 -- Page 257, Offset 22795.
@@ -1651,27 +1652,27 @@ Huh, that line feels a little familiar for some reason.
 -- Page 257, Offset 22796.
 -- じゃあ俺も言わせてもらいます。アルクェイドを目の敵にする先輩はなんかぜんぜん先輩らしくありません。ヴローヴの方がマシってレベルで、不愉快です」
 Then let me give it to you straight.
- If you're going to treat Arcueid like an enemy, then you're not the upperclassman I thought I knew at all.
- You're one that disgusts me even more than Vlov did."
+ If you're going to treat Arcueid like an enemy, then you're not the Senpai I thought I knew at all.
+ You suck! Even Vlov doesn't suck as much as you!"
 }
 [sha:34ae43f6033f0e4be87d02b4a0d5263ad6c320e4]{
 -- Page 258, Offset 22797.
 -- 「ああそうですかっ！　わたしも同じぐらい不愉快です！
-"Oh really? What a coincidence, I feel the exact same way!
+"Oh really? What a coincidence, I think you suck too!
 }
 [sha:15af17188dced534624874f5921fd09118653a9d]{
 -- Page 258, Offset 22798.
 -- そんなに言うならアルクェイドに騙されて、いいように使われたらどうですか!?　そんな人を心配するのもバカらしいですから、わたし！」
 // Ok will do thanks
 If you're that desperate to be fooled and used by Arcueid, then please, by all means, go right ahead!
- I was an idiot for being worried about someone like you!"
+ I'd have to be an idiot to worry about someone like that!"
 }
 [sha:6f5617589ddc7db9962f210096835787ab525c09]{
 -- Page 259, Offset 22799.
 -- 「ああ、余計なお世話だよ！　今日から大手を振ってアイツとパトロールできて清々する！　アルクェイドの方が先輩より頼りになるし、強いし、いちいち小言も言わないし！」
-"Ahhh, mind your own business!
- Man, I'm going to be patrolling the city with a spring in my step starting today!
- Arcueid's more reliable than you, stronger than you, and doesn't take issue with every little thing I do!"
+"That's right, mind your own business!
+ Arcueid's more reliable than you, stronger than you, and doesn't take issue with every little thing I do!
+ Man, I'm going to be patrolling the city with a spring in my step starting today!"
 }
 [sha:9af8c0d3c656f061583dd7bc4612fc9c1ef64303]{
 -- Page 260, Offset 22800. Mods: @n.
@@ -1709,7 +1710,7 @@ Still fuming, I square my shoulders and march down the hall back to my classroom
 [sha:8a3688c25d6a1787d9daaf617143f1c70f52d373]{
 -- Page 263, Offset 22806.
 -- 「なんだよ、子供扱いして……！　先輩だって頑固じゃないか。アルクェイドを嫌うばっかりで、俺の話をぜんぜん―――」
-"How dare she treat me like a child!
+"Damnit, she's always patronizing me...!
  She's so damn stubborn.
  All she did was hate on Arcueid, she didn't even listen to what I had to say at―――"
 }
@@ -1772,7 +1773,8 @@ That's why, no matter how much it may weigh on my heart, I can't return to the t
 [sha:bc85371d14c35ec0ec7fec2e1c257a039e826339]{
 -- Page 268, Offset 22818. Glued. Mods: @x.
 -- ははあん。購買部の袋を持ってるってコトは、ろくなもん残ってなかったな？」
- Oh, I know. You're holding a bag from the school store, which means all the good stuff's sold out, eh?"
+ Oh, and you've got a bag from the school store too.
+ Aha, I see what's going on here――all the good stuff was sold out, eh?"
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 269, Offset 22819.
