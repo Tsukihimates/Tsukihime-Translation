@@ -157,7 +157,7 @@ I toss the saw on the ground.
 [sha:1215649ad6827851af021f0bebe26296e5e3b7a5]{
 -- Page 333, Offset 22990.
 -- 椅子に載ったソレの瞳孔が、光を見たかのように収束する。
-The pupils of the thing on the chair contract,
+The pupils of the thing in the chair contract,
  as though a light had been shone in its eyes.
 }
 [sha:e90dbd881e80e4a09204f399fcb8753ad58e63ae]{
@@ -180,7 +180,7 @@ I take off my glasses, and draw my knife.
 -- そのまま、<滑|なめ>るように、椅子に載った生き物の首を<切|はず>す。
 Then, with one fluid motion, I decapitate the creature sitting in the chair.
 }
-[sha:b77c91303812eb0bda36086426772422dc4b4d90]{
+[offset:22995]{
 -- Page 335, Offset 22995.
 -- 「え―――」
 "Wha―――"
@@ -188,7 +188,7 @@ Then, with one fluid motion, I decapitate the creature sitting in the chair.
 [sha:893037ffac09bcb98d91226bd8c383a246e58ad7]{
 -- Page 335, Offset 22996.
 -- 報復も鎮魂も、断罪も俺には不要に思えた。
-Revenge, closure for the deceased or passing judgement all feel like a waste of time.
+Revenge, closure for the deceased or passing judgment all feel like a waste of time.
 }
 [sha:7578af97d73b0afd5b668338242f4d1d986b7dd8]{
 -- Page 335, Offset 22997.
@@ -223,8 +223,9 @@ I hear the woman breathing behind me.
 [sha:fdb23d7a3519ceabcb377206b35d9e5b934daeaa]{
 -- Page 336, Offset 23003.
 -- 始めこそ俺の仕事への反感があったが、今は感嘆の熱がこもっている。
-It had started off filled with disgust at my handiwork,
- but is now almost feverish with admiration.
+// Loves her cute little 人でなし
+Her sighs had started off filled with disgust at my handiwork,
+ but are now almost feverish with admiration.
 }
 [sha:041ea06c96de55e3a4b420f7f95c5a029cff91ba]{
 -- Page 337, Offset 23004.
@@ -301,7 +302,7 @@ She's back to being the Noel that I know.
 [sha:598332bb116cde051bce91bedda609c59d77f244]{
 -- Page 342, Offset 23018.
 -- 「――――――、はあ―――」
-"%{i}Sigh%{/i}―――
+"%{i}Sigh%{/i}―――"
 }
 [sha:5c3bc86a794837012b81ef155ebf46131fc11d4b]{
 -- Page 342, Offset 23019.
