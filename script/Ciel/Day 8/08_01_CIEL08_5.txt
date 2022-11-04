@@ -288,7 +288,7 @@ An anti-vampire Barrier has already been erected here.
 -- Page 441, Offset 19366.
 -- 本当の人間であれば何の効果もないが、階梯の低い死徒にとっては海の底にいるようなものだ。満足に走る事もできず、秒単位で身体が鈍化していく。
 It wouldn't have any effect on a real human,
- but for a low-ranking Dead Apostle it feels like being stuck at the bottom of the ocean.
+ but for a low-ranking Dead Apostle, it feels like being stuck at the bottom of the ocean.
  Unable to even run away, their bodies continue to weaken by the second.
 }
 [sha:74c4d341afe54476b94f82b1d1aa2fe5f2bc7353]{
@@ -310,7 +310,7 @@ It wouldn't have any effect on a real human,
 // 二枚下ろし time. Tweaked to a nearby en expression
 // Voiced
 It hurts, why does it hurt so mu...ch?!
- N-No, stop, if you pull on that you'll gut me like a fiiiiiiiiiiiiiiish!"
+ N-No, stop, if you pull on that you'll gut me like a fiiiiiiish!"
 }
 [sha:ad1eb0858e9689ae80b383572c1200656410807b]{
 -- Page 443, Offset 19370.
@@ -351,7 +351,7 @@ The scream wrung from the victim of her blow seems to have driven her wild with 
 -- Page 445, Offset 19376.
 -- ああもうグズが、モタモタしてんじゃねえよ！　あんな女、外にさえ出ればカンタンに”
 // VA is SCREECHING this one, give that extra a raise
-Ugh, get a fucking move on you slowpoke!
+%{i}Ugh%{/i}, get a fucking move on, you slowpoke!
  We can handle that bitch if we can just get out of here!"
 }
 [sha:0cc8cd6bd04bfc4a6da518356ac52368c332e158]{
@@ -401,7 +401,8 @@ I'm a murderer?
 -- “ひぃ……ひぃいい、ぎぃぃいいいいいいい！？　やめ、やめて、すみませんごめんなさい、あやまります、あやまりますからああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ！”
 // Very important to have the same number of あ and a. Editors, do your job!
 // Fucking had to go rewrite the text injector because of this line
-"Haa...haaaaaa, gyarghhhhhhhhhh?! Sto, stop, I'm sorry, so sorry, I apologize, I apologize, so pleaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaase!"
+// you were 42 a's too many
+"Haa...haaaaaa, gyarghhhhhhhhhh?! Sto, stop, I'm sorry, so sorry, I apologize, I apologize, so pleaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaase!"
 }
 [sha:0b60a3a49cbbd1c602172f946c2d4dff0b475bd7]{
 -- Page 449, Offset 19384.
@@ -433,14 +434,14 @@ First, she uses a sacrament to restore his sense of pain.
 -- Page 451, Offset 19389. Mods: @n.
 -- 内臓の一つ一つを黒鍵で抉り取る。
 // This page is pretty tight. At least it's all glued so we don't lose as much to line accounting.
-One by one, she gouges out his organs with a black key.
+One by one, she gouges out his organs with a Black Key.
 }
 [sha:56dd665bbd801de43e7ab9de30eb48ff8c4ddeb1]{
 -- Page 451, Offset 19390. Glued. Mods: @n.
 -- もちろんそのたびに死に至る激痛が獲物を襲う。内臓をすべて消費した後は耳と鼻をそぎ落とす。変わり果てた自分の姿を見て獲物がモウ殺シテと嘆願する。
  Of course, each strike inflicts a lethal dose of pain.
  Once she's done with his organs, she rips off his nose and ears.
- When her preys sees what he's become, he begs her to just kill him.
+ When her prey sees what he's become, he begs her to just kill him.
 }
 [sha:e3048536b20af97e936beeb8bab957c582d1d408]{
 -- Page 451, Offset 19391. Glued. Mods: @n.
@@ -465,7 +466,7 @@ One by one, she gouges out his organs with a black key.
 -- Page 451, Offset 19394.
 -- コロシテ、コロシテ、コロシテ、と繰り返すだけの蓄音機が完成する。
 The product is a broken record,
- capable only of repeating the words '%{i}Kill me%{/i}. %{i}kill Me%{/i}. %{i}kill me%{/i}'.
+ capable only of repeating the words '%{i}Kill me%{/i}. %{i}Kill me%{/i}. %{i}Kill me%{/i}'.
 }
 [sha:84bd26874c4d10f9174c0438c9bd3ea92daf9f8f]{
 -- Page 452, Offset 19395.
@@ -537,7 +538,7 @@ They scream with every fiber of their beings,
 -- Page 456, Offset 19407.
 -- “帰る……今度こそちゃんとお家に帰るからぁ……助けてようお母さん……お母さん、お母さん、お母さ”
 // lint-off:LintNameMisspellings
-"I'll go back... I mean it this time, I'll go back... Help me mom... Mom... Mom... Mo―――"
+"I'll go back... I mean it this time, I'll go back... Help me, Mom... Mom... Mom... Mo―――"
 }
 [sha:0e37fd4241b0011518d9e9257c7aecf18df9670b]{
 -- Page 456, Offset 19408.
@@ -576,7 +577,7 @@ The lone survivor takes this opportunity to address a question to her defenseles
 -- “俺たちはただの雑兵だ。放っておいてもあと数日で餓死していた底辺の怪物だった。アンタみたいな掃除屋が、わざわざ手を出す必要のないクズだ。
 "We're just small fry.
  Bottom-tier monsters who'd have died of starvation if you'd simply ignored us for a few more days.
- A cleaner like you doesn't need to go out of her way to pick up trash like us.
+ An enforcer like you doesn't need to go out of her way to pick up trash like us.
 }
 [sha:02c06a17abc3774fdf39863093d050c8ee0208c1]{
 -- Page 459, Offset 19415.
@@ -636,7 +637,7 @@ I'm weak, so I only pick on those even weaker than me.
 [sha:40cb572eaeefe6acd13f4d0da6e76658857072e0]{
 -- Page 463, Offset 19425.
 -- 「そ。都合よくストレスをぶつけられる相手がほしかっただけよ。そんなの見て分かりなさいよ。
-"Yup. I just wanted some punching bags I could take my stress out on guilt free.
+"Yup. I just wanted some punching bags I could take my stress out on guilt-free.
  I mean, take a look around, isn't it obvious?
 }
 [sha:b78d98a0425826f0324c6c3d911927522f64e65f]{
@@ -692,7 +693,7 @@ It was an incredibly melancholy sigh,
 [sha:61f464aa7e550cc0c5351f7e9b386fc30add72d3]{
 -- Page 467, Offset 19434.
 -- 「ザコどもを纏めて処理か。
-"Saddled with rounding up the small-fry, eh?
+"Saddled with rounding up the small fry, eh?
 }
 [sha:2fd7b7bc87e49be4d214b12d56fb6d0176224202]{
 -- Page 467, Offset 19435.
@@ -822,7 +823,7 @@ I have maintained regular contact, and I'm allowed to act independently, aren't 
 [sha:80170603f29b66235da16b3d024429894db64f5e]{
 -- Page 475, Offset 19456.
 -- 「ああ、秘蹟会と埋葬機関は別管轄だ。テメェがシエルの相棒である以上、オレたちは対等<だ|・><っ|・><た|・>」
-"Yeah, the Sacrament Assemblies and the Burial Agency take care not to tread on each others' toes.
+"Yeah, the %{i}Sacrament Assemblies%{/i} and the Burial Agency take care not to tread on each others' toes.
  As Ciel's partner, you and I %{i}were%{/i} on equal footing."
 }
 [sha:d81c448c2934caf8bb6ff0d8705e68388bc7d592]{
@@ -846,7 +847,7 @@ So, them's the breaks. You're my problem now, but... your performance sucks, and
 [sha:12b71e01ce2940729d4f0611369fa38aed159ef2]{
 -- Page 476, Offset 19460.
 -- この一件が終わり次第テメェは修道院送りだ。今のうちに身辺整理をしておけよ」
-The second we're done dealing with shit here I'm carting you off to the monastery.
+The second we're done dealing with shit here, I'm carting you off to the monastery.
  Get your affairs in order while you still have time."
 }
 [sha:153edb070e282e09a173538b25f446c81383252c]{
@@ -996,7 +997,7 @@ Her behavior is extremely suspicious.
 -- Page 485, Offset 19485.
 -- ……司祭代行も彼女の経歴はご存じでしょう？　彼女は<十五|キャーンズ>です。なら、いま拘束すべきはわたしではなく……！」
 You're aware of her history, aren't you, Acting Presbyter?
- That woman is <Quinze|F i f t e e n  >!
+ That woman is <Quinze|F i f t e e n   >!
  %{i}I'm%{/i} not the one you should be trying to lock up right now...!"
 }
 [sha:a996577b91a2b37c4d3bbe65494567adc48eeba8]{
@@ -1060,7 +1061,7 @@ After checking that the boy is definitely gone,
 [sha:149f1984ce5e9c1ea15ca0e3902f6e54fd892361]{
 -- Page 490, Offset 19495.
 -- 「なによあのガキ……！　なんなのよ言いたい放題！
-"What's with that brat...!
+"What's with that brat...?!
  Where does he get off, running his mouth like that?!
 }
 [sha:e30519101f5706e378c720977584f3e9c1ae0e94]{
@@ -1097,7 +1098,7 @@ Panting heavily, she releases her grip on the halberd.
 -- 力任せに暴れすぎた結果だ。もともと彼女には槍斧を振るうだけの筋力はない。槍斧に宿った『軽量化』の秘蹟を一撃ごとに使わなければ有効打にはなりえない。
 It's only natural she'd be exhausted after flailing it about as hard as she did.
  She doesn't actually possess the strength necessary to wield it in the first place.
- She'd never be able to hit anything with it if she didn't activate the sacrament of 'Weight Reduction' it carries for every swing.
+ She'd never be able to hit anything with it if she didn't activate the sacrament of 'weight reduction' it carries for every swing.
 }
 [sha:c85589f9352950c9b173d08bdf7e41ed77cadc00]{
 -- Page 492, Offset 19502.
