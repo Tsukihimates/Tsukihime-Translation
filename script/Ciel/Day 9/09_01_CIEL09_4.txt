@@ -1,7 +1,7 @@
 [sha:0525b04eb892deb578497b2dcde896db3b530aff]{
 -- Page 10011, Offset 23104.
 -- ビルから出て、日の当たる路地裏に下りた。
-I leave the building, making my way down to a sunlit alley.
+I leave the building and climb down the stairs to a sunlit alley.
 }
 [sha:041f7b77355031c752e5ef7a1abf8ad500e1db8f]{
 -- Page 10011, Offset 23105.
@@ -156,7 +156,7 @@ The best course of action here is to bring the situation under control as quickl
 -- Page 385, Offset 23130.
 -- ……ま、それも演技なんでしょうけど。あの冷酷な悪魔が、たった数日で変わるはずがないんだし」
 Whatever, I guess it's all just part of her act.
- There's no way that cold-hearted monster would change over the course of a couple days."
+ There's no way that cold-hearted monster would change over the course of only a couple days."
 }
 [sha:e6e83563f85aae12be6f4a72f5c8d9cf2bf8ec52]{
 -- Page 386, Offset 23131.
@@ -245,7 +245,7 @@ Hmm...
 -- あの子がどんな人間なのか。どうせあの子は話さないだろうから、特別にわたしが教えてあげる」
 Like what kind of person she is, for example.
  She's never going to open up about it herself,
- so why don't I give you the inside scoop."
+ so why don't I give you the inside scoop?"
 }
 [sha:8f641714317425eff932b7a7b22dc1d717588e48]{
 -- Page 392, Offset 23147.
@@ -282,12 +282,13 @@ Noel-sensei begins to tell me about Senpai's past,
 "If any Executor managed to keep at it for over a decade, they'd be treated like some freakish anomaly.
  People would start speculating that they're sick in the head,
  or that they already turned into a vampire ages ago and are just hiding it.
- There's be all sorts of nasty gossip."
+ There'd be all sorts of nasty gossip."
 }
 [sha:b58d25282a68c940e559bcfa168601885007a411]{
 -- Page 396, Offset 23153.
 -- 「そんなひっどい職場で、あの子は何体もの吸血鬼を殺してきた。
-"Despite her hostile work environment,
+// Big VA emphasis on ひっっっどい
+"Despite her %{i}incredibly%{/i} hostile work environment,
  that woman has killed countless vampires.
 }
 [sha:f1aaf31c2aa39eb8bd09f335f933ab3e173933ca]{
@@ -311,7 +312,7 @@ However cunning a Dead Apostle may be, she always sniffs out their real body."
 [sha:25c7355d868557ca1ca088749ce4a282a0811814]{
 -- Page 397, Offset 23157.
 -- ……ま、それが出来たのはほんっと単純な理由なんだけど、それはまた後で話すとしましょう」
-Well, there's a pretty simple reason she's been able to pull it off, but I'll save that for another time."
+Well, there's a pretty simple reason she's been able to pull it off, but I'll get to that later."
 }
 [sha:b393c3e05e03dbaa36af39525a306fc100db3e38]{
 -- Page 398, Offset 23158.
@@ -362,7 +363,7 @@ Kinda like an extremely small private police force."
 -- 「埋葬機関は他の秘蹟会と連携を取る局長と、その局長に管理される七人の代行者で構成されている。
 // here we fucking go again
 // Fuck yeah I love reading about bureaucratic structures in my vampire novel
-"The Burial Agency is composed of the Agency Director, who coordinates with the other Sacramental Assemblies, and seven Executors supervised by the Agency Director.
+"The Burial Agency is composed of the Agency Director, who coordinates with the other Sacrament Assemblies, and seven Executors supervised by the Agency Director.
 }
 [sha:79f68deb361c3b17089b937cb9b66364e51a4856]{
 -- Page 401, Offset 23166.
@@ -376,7 +377,7 @@ There's actually another Executor held in reserve, so in total they have eight c
 -- Page 402, Offset 23167.
 -- 「局長ナルバレックを筆頭に集まった、それぞれが一つの秘蹟会に匹敵する聖人のなり損ない。
 "All of the people gathered under the leadership of Agency Director Narbareck are failed prospective saints,
- and every one of them would easily rival an entire Sacramental Assembly on their own.
+ and every one of them would easily rival an entire Sacrament Assembly on their own.
 }
 [sha:14512b5a7253c3bd2c725c04a89c9ecaa8deb980]{
 -- Page 402, Offset 23168.
@@ -391,7 +392,7 @@ Cardinal Noi Seonator Granfatima.
 -- 司祭アンドレイ・ゴッドビバーク。
 // The Lord's own makeshift tent.
 // The overlap with bivouac is from fr/de biwak, so if Russian (assuming based on Andrei) is anything
-// like German maybe this is more like Godbīvak (single syllable vak vs vou-ack)
+// like German maybe this is more like Godbivak (single syllable vak vs vou-ack)
 Presbyter Andrei Godbivouac.
 }
 [sha:f34c0e05651ebc95c6b15bc651a2a5f23ba82a63]{
@@ -441,7 +442,7 @@ Ever since she became an Executor,
 -- Page 404, Offset 23177.
 -- わたしが聞いた中で一番長かったのは、たった一人の死徒を殺すために一年間、その街の下水路に潜伏していたって話」
 From what I've heard, the longest she ever spent on a mission was an entire year.
- She spent the entire time hiding in the sewers under a city, all to take down just a single Dead Apostle."
+ She spent the whole time hiding in the sewers under a city, all to take down just a single Dead Apostle."
 }
 [sha:5a32e85694e87d419ebcee231e10784a0225eec8]{
 -- Page 405, Offset 23178.
@@ -453,7 +454,7 @@ From what I've heard, the longest she ever spent on a mission was an entire year
 -- で、あの子が選んだ手段は排水溝からの侵入と潜伏。下水路すら死徒にとっては血管みたいなものだったけど、その血管の中を流れる汚物にまでは感覚が届かなかったのね」
 That's why she chose to infiltrate the city through a culvert and hide herself in the sewers.
  Those pipes may have been like blood vessels to the Dead Apostle,
- but his senses didn't extend to the filth that drifted through those veins."
+ but their senses didn't extend to the filth that drifted through those veins."
 }
 [sha:8dccb5c60c32dd755d24a426edbb2338c6940e0e]{
 -- Page 406, Offset 23180.
@@ -468,7 +469,7 @@ That's why she chose to infiltrate the city through a culvert and hide herself i
 -- この国の整備された下水じゃない。汚物でつまったヨーロッパの下水路で、体を汚水にひたして、顔だけを水面に出してギリギリの呼吸をして、ただ機会を待ち続ける一年間！」
 // Wonder if she came into contact with the fatberg (rip)
 Those sewers weren't as well-maintained as the ones in this country.
- She spent an entire year biding her time with her body immersed in the effluent of some European sewer,
+ She spent an entire year biding her time with her body immersed in the effluent of some European city,
  only her face above water so that she could breathe,
  waiting for her chance to strike."
 }
@@ -482,7 +483,7 @@ Those sewers weren't as well-maintained as the ones in this country.
 -- Page 407, Offset 23183.
 -- 街を完全に支配下において、やってきた代行者も全員殺して、ようやく自由に闊歩できると安心しきった死徒が広場に踏み出した瞬間、下水口の網の下から一撃で即死よ？　蛇だってあの子の執念深さには尻尾を巻くわ」
 The Dead Apostle had taken complete control over the city,
- and killed each and every one of the Executors that had come after him.
+ and killed each and every one of the Executors that had come after them.
  They thought they were finally free to roam the city at their leisure,
  but then the instant they stepped out into the open for the first time they were killed by a single deadly strike that came out of a sewer grate.
  Even a snake would turn tail and flee at the sight of that woman's vindictiveness."
@@ -490,7 +491,7 @@ The Dead Apostle had taken complete control over the city,
 [sha:b2aefd3eb74f5bf09bdd1163c64b46ee53874a58]{
 -- Page 408, Offset 23184.
 -- 「……わたしと組むまで、あの子はずっとそんな調子だった。
-"That's how she'd lived her life, all the way up until the time we paired up.
+"That's how she lived her life, all the way up until the time we paired up.
 }
 [sha:589669f57faa5e8206ea87586df517431a67bcb1]{
 -- Page 408, Offset 23185.
@@ -565,7 +566,7 @@ I'm as normal as it gets.
 -- Page 413, Offset 23197.
 -- それでも人並みには頭が回ったから、司祭さまに取り入って、二年かけてやっと代行者になったの。それから……二年ぐらいたった後かな。あの子と知り合ったのは」
 Still, I'm no idiot, so I sucked up to one of the Presbyters and after two years they made me an Executor.
- After that... I'd say it was another two years before I met that woman."
+ After that... I'd say it was another two years or so before I met that woman."
 }
 [sha:cd795211c52b62a09fcf6c414ca18d15d6b8ed15]{
 -- Page 414, Offset 23198.
@@ -595,7 +596,7 @@ Wait. Time out.
 -- Page 415, Offset 23202.
 -- これまでの内容も違和感があったけど、今のは決定的すぎた。
 I felt like something was off before,
- but I've finally been able to put my finger on it.
+ but I've finally managed to put my finger on it.
 }
 [sha:1430a1f45c4339295b240d3760d8e7349eee4226]{
 -- Page 415, Offset 23203.
@@ -672,7 +673,7 @@ I can't tell if she's telling the truth or not.
 [sha:ab513c3a608fd4f2f96d5812c75adabd39ff51e1]{
 -- Page 419, Offset 23216.
 -- 「……そんな。それじゃ、まるで」
-"No way... It's almost like she's―――"
+"No way... If that's true, it's like―――"
 }
 [sha:27ccee8513776a664679bfa5e6115eb54ca41fc8]{
 -- Page 419, Offset 23217.
@@ -789,7 +790,7 @@ I don't care about what kind of person Senpai is, or if she's really immortal.
 [sha:57b35728166758c1f164602833f252f0c45ed3c1]{
 -- Page 428, Offset 23236.
 -- 「ふふ、今にも倒れちゃいそうね志貴クン。
-"Oh my, you look like you're going to fall over, Shiki-kun.
+"Oh my, you look like you're about to fall over, Shiki-kun.
 }
 [sha:6ff729f7fa3563b6f203fee96251cebe50bdc6c4]{
 -- Page 428, Offset 23237.
@@ -832,7 +833,7 @@ No.
 [sha:512cddb431024f2c4e65311f6f33c90927e2cb79]{
 -- Page 430, Offset 23244. Glued.
 -- それこそ嘘だ。
- %{i}That's%{/i} definitely a lie.
+ That's %{i}definitely%{/i} a lie.
 }
 [sha:4b69d4b9fb382ae85660ebffd45348f4c3634843]{
 -- Page 430, Offset 23245.
@@ -937,7 +938,7 @@ That time I met her on the train.
 [sha:b2de08d4276593e92e630f1f3152f4a6d7a9a20a]{
 -- Page 438, Offset 23264.
 -- 言われてみれば、先輩はいつからいた先輩だったんだろう。
-Now that she mentions it, when %{i}did%{/i} Senpai become my upperclassman?
+Now that she mentions it, when %{i}did%{/i} I start referring to her as Senpai?
 }
 [sha:ac87bba193ecc81bf616085491cb56a82b157fa5]{
 -- Page 438, Offset 23265.
@@ -1003,19 +1004,19 @@ As expected of Number Seven, I suppose."
 [sha:0fc2f80c3313caf7bfc6d157d6d3edc847d6c297]{
 -- Page 441, Offset 23276.
 -- 「それとも暗示だからこれだけの事ができたのかしら。
-"Or maybe she could pull it off because it %{i}was%{/i} just a suggestion.
+"Or maybe she could pull it off because it %{i}was%{/i} only a suggestion.
 }
 [sha:efa41aa3f9cb03fd5ebdecbefdb8a6277fa39a1f]{
 -- Page 441, Offset 23277.
 -- 暗示はしょせん暗示、印象の操作にすぎないものね。記憶そのものをいじる洗脳とは違うんだし。
-Suggestions are, after all, just that.
- It's just a way of managing people's impressions,
+Suggestions are just %{i}suggestions%{/i}, after all,
+ They're nothing more than a way of managing people's impressions,
  it's not the same as brainwashing people and actively tampering with their memories.
 }
 [sha:be44d22d163a67a0ae444defafd7424d88c41079]{
 -- Page 441, Offset 23278.
 -- 志貴クンたちはきっと“シエルを疑問に思わない”という事だけを刷りこまれていたんでしょうね」
-She probably just imprinted you and the other students with 'don't suspect Ciel' or something."
+She probably imprinted you and the other students with 'don't suspect Ciel' or something."
 }
 [sha:635d4097b7689bf3cb55baab983e12bbad39e879]{
 -- Page 442, Offset 23279.
@@ -1107,7 +1108,7 @@ I hear the sound of grass being trampled on.
 [sha:7a4149fdc8bd9103877cf7d347693f1604296af8]{
 -- Page 447, Offset 23295.
 -- ……うつむいていた顔を上げると、彼女はもう中庭の出口に移動していた。
-When I look up, she's already made to the exit from the courtyard.
+When I look up, she's already made it to the exit from the courtyard.
 }
 [sha:4d2abf3a7440c53b602e6bc24cd7a59f69a33192]{
 -- Page 448, Offset 23296.
@@ -1202,8 +1203,8 @@ I call out to stop her, but it's already too late.
 [sha:c2b676947ad141c41d23458dfbc9a41ed8d28ddf]{
 -- Page 454, Offset 23312.
 -- 俺を別世界に呼びこんだ女は、一方的に真実を語って笑顔で立ち去っていった。
-The woman who invited me out to here to this otherworldly place
- to tell me all about her version of the truth has disappeared with a smile on her face.
+The woman who invited me to this otherworldly place
+ to tell me all about her version of the truth has disappeared, a smile on her face.
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 455, Offset 23313.
