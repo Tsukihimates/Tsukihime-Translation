@@ -55,3 +55,44 @@ instrs fbf54 4 {
 instrs fbf68 4 {
     !jump #0x153940
 }
+
+// Save prev and current character in memory for kerning
+// clobbers a bunch of logic that experimentally seems to be
+// unimportant.
+instrs 13dea8 28 {
+       // load the base address I'm working with
+       adrp x8, #0xbc0000
+
+       // flip the char bit and store it in memory
+       ldr w0, [x8, #0xd44]
+       eor w0, w0, #0x04
+       str w0, [x8, #0xd44]
+
+       // add the xor'd char bit as memory offset
+       add x8, x8, x0
+
+       // original logic
+       ldur w0, [x29, #-4]
+
+       // store the char (note that +4/+0 offset already applied)
+       str w0, [x8, #0xd48]
+
+       // finish original logic
+       ldp x29, x30, [sp, #0x10]
+       add sp, sp, #0x20
+       ret
+}
+
+// old kern experiment
+instrs 13bde8 24 {
+       cmp w26, #0x41
+
+       b.ne #0x0c
+       fmov s8, #2.0
+       nop
+       nop
+       nop
+       nop
+       nop
+       nop
+}
