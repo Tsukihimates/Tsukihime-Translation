@@ -578,7 +578,7 @@ Still, I'm no idiot, so I sucked up to one of the Presbyters and after two years
 -- Page 414, Offset 23199.
 -- ほら、後は分かるでしょ？　同郷のよしみもあったし、わたしたちは晴れてチーム成立。それから五年、あの子の活躍のおかげでわたしはまだ生き延びてる」
 The rest is history, right?
- We shared a bond in that we were both from the same hometown, and became a team together.
+ We shared a bond in that we were both from the same hometown, so we officially became a team.
  It's been five years since then, and I'm still alive thanks to her efforts."
 }
 [sha:bb93983ad220f0df3ac713777f64c684c1ad7151]{
@@ -625,22 +625,27 @@ We've been master and student for the past five years."
 [sha:cbc80d114afe317f490399d5def73ea10e73ccdc]{
 -- Page 416, Offset 23208.
 -- 「でも、それじゃ―――」
-"But, that means that―――"
+"But, if that's true―――"
 }
 [sha:af73443abcddb3210f13f0792877c6b31a7d7166]{
 -- Page 416, Offset 23209.
 -- なんていうか、その―――
-That―――
+Or rather, that means―――
 }
 [sha:0af644c9c20811b245f9baf1b4d04b3070666958]{
 -- Page 417, Offset 23210.
 -- 「年齢が合わない、でしょ？
-"Her age doesn't line up, right?
+// Obviously I get that the plot demands it, but... doesn't her age add up fine here?
+// Joined burial agency at 13, five years pass so now she's 18 and in high school with Shiki?
+// I don't think I saw Noel assert anywhere that she and Ciel are the _same_ age.
+// I guess this is just generic surprise at master < apprentice
+"You're wondering why our relative ages don't line up, right?
 }
 [sha:7ade947d9fa6b00985fc95a8f47144abbb1dd10c]{
 -- Page 417, Offset 23211.
 -- 当然よ。あの人、<あ|・><の|・><時|・>から歳を取ってないの」
-Obviously. %{i}Since then%{/i}, she hasn't grown any older."
+Of course they don't.
+ She hasn't aged a day since %{i}that%{/i} happened."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 418, Offset 23212.
@@ -650,67 +655,80 @@ Obviously. %{i}Since then%{/i}, she hasn't grown any older."
 [sha:38ce62f2cef14673941f6972a26b7eaa9ab40725]{
 -- Page 418, Offset 23213.
 -- 視界が真っ暗になりそうな感覚に、足を踏ん張って堪える。
-My vision threatens to black out, but I square up and weather through.
+I feel like I'm about to black out,
+ but steady myself and push through.
 }
 [sha:e128f0fe15e12b629ff64d545c573a14bc337733]{
 -- Page 418, Offset 23214.
 -- 五年間変わっていない。
-She hasn't changed in the past five years.
+Ciel-senpai hasn't changed at all over the last five years.
 }
 [sha:02e095ad159886304f7fc7430d59051425fb7e1d]{
 -- Page 418, Offset 23215.
 -- それが真実なのか嘘なのか、五年間の何に驚いているのか、それすら判別がつかない。
-I can't tell if she's telling the truth or not. On top of that, I don't even know why the fact that five years have passed has me so dumbfounded.
+I can't tell if she's telling the truth or not.
+ I can't even tell why I'm so surprised to learn five years have passed.
 }
 [sha:ab513c3a608fd4f2f96d5812c75adabd39ff51e1]{
 -- Page 419, Offset 23216.
 -- 「……そんな。それじゃ、まるで」
-"...No way. That's almost like―――"
+"No way... It's almost like she's―――"
 }
 [sha:27ccee8513776a664679bfa5e6115eb54ca41fc8]{
 -- Page 419, Offset 23217.
 -- 「そ、吸血鬼と同じよね。でもあの子は吸血鬼とは違う。だって完全な不老不死なんだもの」
-"Yes, just like a vampire. But she's not the same as a vampire. After all, she's completely immortal."
+"Yep, it's like she's a vampire.
+ She isn't, though.
+ After all, she's completely immortal."
 }
 [sha:5376a79e1de2c4f2807238495b8d3066caaa59b9]{
 -- Page 420, Offset 23218.
 -- その断言に息が止まった。
-My breath hitches at her assertion.
+Her statement makes my breath catch in my throat.
 }
 [sha:20f2bb8cba26fc652fdb6a946c262c5fc585093a]{
 -- Page 420, Offset 23219.
 -- 完全な不老不死。それはおかしい。
-Completely immortal. Something's not right there.
+Completely immortal?
+ That can't be right.
 }
 [sha:0dba066bb0d47dfd42a5cb22c64e0ce636cf3548]{
 -- Page 420, Offset 23220.
 -- やっぱりノエル先生の言葉は嘘だ。だってそれは、不死身の吸血鬼たちでさえ到達していないものだ。
-Yeah, Noel-sensei's lying, after all. I mean, not even the vampires, who have undying bodies, have attained complete immortality.
+Noel-sensei must be pulling my leg after all.
+ I mean, vampires have undying bodies, but not even they have attained %{i}complete%{/i} immortality.
 }
 [sha:005d82e2f1ff06e898b2f6cbccef02bf77269b5a]{
 -- Page 421, Offset 23221.
 -- 「いいえ。あの子は本当に、何をやっても死なないのよ。
-"No. She won't die, no matter what.
+"I'm not kidding.
+ That woman won't die, no matter what you do to her.
 }
 [sha:56ed90b3af4fa66ad8d198e107b06eb3bb915ef6]{
 -- Page 421, Offset 23222.
 -- 殺しても蘇る。体が燃え尽きて灰になっても元通りになっている。何が起きてもあの姿のまま生き続ける」
-She'll revive even if she's killed. Her body will return to its original state even if it's been burned to ashes. Whatever happens, she'll continue to live on with the exact same appearance."
+Even if she's killed, she comes back to life.
+ Even if her body is reduced to ashes, it knits itself back into its original shape.
+ She'll go on living, looking just as she does now, regardless of what happens to her."
 }
 [sha:2a4887751220e70c454c93aba8df65f9b9930072]{
 -- Page 422, Offset 23223.
 -- 「あの子はね、分類的には吸血鬼なのよ。わたしたちと違って一つの命に縋っていない。だから死を怖がらず、目的を達成するまで永遠に走り続ける」
-"She's basically a categorical vampire. Unlike us, she doesn't have to cling to a single life. As such, she can keep running endlessly until she achieves her objective without ever having to fear death."
+"In that regard, she's basically a vampire.
+ Unlike the rest of us, she doesn't have to cling to her one shot at life.
+ Since she doesn't have any reason to fear death,
+ she can go on chasing her objective forever."
 }
 [sha:2eab07586a0cabefc164186f401314dcd5260547]{
 -- Page 423, Offset 23224.
 -- 「成功率１００パーセントの理由ってこういうコト。
-"That's the reason behind her 100% success rate.
+"This is the reason behind her 100% success rate.
 }
 [sha:56dd9bff82f6c28e26ee77f7d95898159966c375]{
 -- Page 423, Offset 23225.
 -- カンタンでしょ？　あの子に狙われた吸血鬼は、もう絶対に逃げられないんだから」
-It's simple, right? Any vampire she targets will never be able to escape her."
+It's simple, right?
+ Any vampire she targets can't run away from her forever."
 }
 [sha:890736d4033b6a2a641ff524c294094e74db04ef]{
 -- Page 424, Offset 23226.
@@ -720,12 +738,16 @@ It's simple, right? Any vampire she targets will never be able to escape her."
 [sha:9825f8bbcf4905115c9368c6c292a137b5ba7dce]{
 -- Page 424, Offset 23227.
 -- 「そ。私が弟子で、彼女が師匠よ。さっきのやり方だってあの人の真似事。いえ、あの人の手管はもっと凄惨かな。
-"Yes, I am the disciple and she's the master. The way I dealt with those guys a while ago was just an imitation of her methods. No, I suppose her schemes are even more gruesome than that.
+"Yup,
+ She's the master, and I'm her apprentice.
+ Even the way I disposed of those vampires back there was just me taking a page out of her book.
+ Though, on second thought, she generally does an even more gruesome job of it.
 }
 [sha:c8edc632cffc3ee307cc77934c699613bc7edcb3]{
 -- Page 424, Offset 23228.
 -- あの人、たいていの拷問は体験済みだから。やられるのも、やるのも、寒気がするほど上手なのよ」
-She's had experience with most kinds of torture. She's so adept at both torture and being tortured that it gives me the chills."
+She's already experienced plenty of torture firsthand, after all.
+ She's so adept at both dishing it out and taking it that it gives me the chills."
 }
 [sha:ff260764640ce6d7fbbcbc647155e490bad33faf]{
 -- Page 425, Offset 23229.
@@ -735,7 +757,8 @@ She's had experience with most kinds of torture. She's so adept at both torture 
 [sha:1a544b39769e8cf43e5e7d6f221cf70be64ca389]{
 -- Page 425, Offset 23230.
 -- 他人の<生|こ><命|と>をなんとも思っていない殺戮者。でも吸血鬼を殺してまわる分だけは、生きていていい権利がある」
-She's a butcher with no regard for other people's lives. Despite that, she's granted the right to live as long as she goes around killing vampires."
+She's a butcher with no regard for other people's lives.
+ She's only allowed to live so long as she goes around killing vampires."
 }
 [sha:d765029dd4bf1be313ed4e19dd79153afaaed004]{
 -- Page 426, Offset 23231.
@@ -750,17 +773,18 @@ That seems to be what she wanted me to hear most.
 [sha:b2354a10e94eaa9d15a077088b7fbe5b1cb6d416]{
 -- Page 426, Offset 23233.
 -- 胸を手でかきむしって、止まっていた呼吸を再開する。
-I dig my hands into my chest and start breathing again.
+I scratch at my chest with one hand, and start breathing again.
 }
 [sha:7694ec72d6a21ec51017a34e89be36e97b57d532]{
 -- Page 427, Offset 23234.
 -- ……俺はいま苛立っている。
-...I'm pissed off now.
+Right now, I feel... angry.
 }
 [sha:3271fc96d0b4805b9c62c92b69baa1b65aabd902]{
 -- Page 427, Offset 23235.
 -- 先輩がどんな人なのか、本当に不老不死なのかなんてどうでもいい。こうして今、ノエルの言葉に動揺している自分そのものに腹が立っている。
-I don't care about what kind of person Senpai is, or if she's really immortal. I'm pissed off at myself for being swayed by Noel's words.
+I don't care about what kind of person Senpai is, or if she's really immortal.
+ I'm just angry at myself for being shaken by Noel's words.
 }
 [sha:57b35728166758c1f164602833f252f0c45ed3c1]{
 -- Page 428, Offset 23236.
@@ -770,17 +794,19 @@ I don't care about what kind of person Senpai is, or if she's really immortal. I
 [sha:6ff729f7fa3563b6f203fee96251cebe50bdc6c4]{
 -- Page 428, Offset 23237.
 -- やっぱりショックだった？」
-That was shocking, right?"
+Let me guess, you're reeling from the shock?"
 }
 [sha:c0ea1298dd4e61b672fc5264498ef14ddc489663]{
 -- Page 428, Offset 23238.
 -- 「ええ、頭にくるぐらいショックです。
-"Yeah, so shocking that I'm getting mad.
+"Yeah, I'm so shocked that I'm about to lose it.
 }
 [sha:449cb62fa4411c0a069842915140c41cbda31742]{
 -- Page 428, Offset 23239.
 -- ……それより。なんだってこんなコトを話す気になったんですか、先生は。これも隠しておくべき事でしょう？」
-...Anyway, why'd you suddenly get in the mood to talk about all this stuff, Sensei? Shouldn't you be keeping it a secret instead?"
+That aside...
+ Why'd you suddenly decide to bring all this up, Sensei?
+ Shouldn't you be trying to keep it a secret as well?"
 }
 [sha:aef9f822a0160c300b2d954e2755cf80a2784a07]{
 -- Page 429, Offset 23240.
@@ -790,7 +816,8 @@ That was shocking, right?"
 [sha:6c9ef7049b02a197a4e10ef2bd8728050e640cee]{
 -- Page 429, Offset 23241.
 -- わたしが言うのもなんだけど、助けてもらったからってカンタンに心を許しちゃダメよ。あの人だってアナタを利用しているだけなんだから」
-It might not mean much coming from me, but you shouldn't trust her just because she saved you. She's only using you for her own benefit, after all."
+It might not mean much coming from me, but you shouldn't trust her just because she saved you.
+ She's only using you for her own benefit, you see."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 430, Offset 23242.
@@ -800,37 +827,40 @@ It might not mean much coming from me, but you shouldn't trust her just because 
 [sha:c12ba53ab2a04de8849634f7d0f688de59485a3a]{
 -- Page 430, Offset 23243. Mods: @n.
 -- 違う。
-That's wrong.
+No.
 }
 [sha:512cddb431024f2c4e65311f6f33c90927e2cb79]{
 -- Page 430, Offset 23244. Glued.
 -- それこそ嘘だ。
-That's most definitely a lie.
+ %{i}That's%{/i} definitely a lie.
 }
 [sha:4b69d4b9fb382ae85660ebffd45348f4c3634843]{
 -- Page 430, Offset 23245.
 -- 先輩が俺を利用した事なんて一度もない。
-Senpai has never used me, not even once.
+Senpai hasn't done a single thing that could be considered using me.
 }
 [sha:09e7ced1eca2ff2166430c697a1308a12da3ab28]{
 -- Page 431, Offset 23246.
 -- 協力を申し出たのは俺の方からだ。
-I'm the one who told her that we should cooperate.
+%{i}I'm%{/i} the one who suggested we cooperate.
 }
 [sha:6b76fd9412bd9c73b6534f57501962a6660de32a]{
 -- Page 431, Offset 23247.
 -- 先輩はいつも俺の事を気遣ってくれた。先輩の方から俺を誘ってきた事は、一度もなかったんだから。
-Senpai has always looked after me. She's never tried to tempt me, not even once.
+Senpai has always been looking out for me.
+ Not once has she asked me to do something herself.
 }
 [sha:f5c930252accb7c6bb030301d81825596aeabf38]{
 -- Page 432, Offset 23248.
 -- 「そ、そうなんだ。……ふーん。意外ねそれ。
-"I-Is that so? Oh, that's unexpected.
+// Classic mind reading
+"I-Is that so? Huh, that's unusual.
 }
 [sha:30a252a2f9ce9517f1f31015f0e9a9903566e896]{
 -- Page 432, Offset 23249.
 -- ま、まあ、仮にそうだとしても、始まりが不正なのは変わらないわ。志貴クン、あの人に暗示をかけられていた事さえ気づいてないんだから」
-W-Well, even if that's true, that doesn't change the fact that she was dishonest toward you in the beginning. Shiki-kun, you haven't even realized that she put you under a suggestion."
+W-Well, even if that's true, it doesn't change the fact that she's been dishonest with you from the start.
+ Shiki-kun, you didn't even realize that she used her powers of suggestion on you, did you?"
 }
 [sha:e3f1140af8e515062450effb769d390ff6d14f40]{
 -- Page 433, Offset 23250.
@@ -840,17 +870,19 @@ My mind freezes at her words.
 [sha:1ecaeff2e701b6fbe5a8ebe0972a293fa8074844]{
 -- Page 433, Offset 23251.
 -- 「暗示……？」
-"A suggestion...?"
+"Suggestion...?"
 }
 [sha:a85ffa0ad04a96a7655b7539012af05d764dc11e]{
 -- Page 433, Offset 23252.
 -- 今度こそ、目眩で視界が失われるかと思った。
-This time, I felt like I went blind from the dizziness.
+This time, I get so dizzy that I feel like I'm going blind.
 }
 [sha:a63ac628065ffb5a600d51f368d7527fa6b41655]{
 -- Page 434, Offset 23253.
 -- 「そうよ。あの人は“自分に好意を持つように”志貴クンを操っていた。嘘だと思うなら思い出してみなさい。
-"Exactly. She manipulated you so that you would 'feel goodwill toward her', Shiki-kun. If you think that's a lie, then try to remember.
+"That's right.
+ She planted the idea that you should 'feel goodwill toward her'.
+ If you think I'm lying, Shiki-kun, then just try to remember.
 }
 [sha:e9604bf02a52ef0888f0c4505fd911ca3665e05e]{
 -- Page 434, Offset 23254.
@@ -865,12 +897,12 @@ How long have you known Ciel? How did you end up calling her 'Senpai'?"
 [sha:d93d1dd6500f885c34cfccf802f3b8d3cf3c038e]{
 -- Page 435, Offset 23256.
 -- いつからって、そんなの思い出すまでもない。
-'How long'... That's obvious.
+How long have I known her? That's easy.
 }
 [sha:abe77df40dd50c89e86a0f8cac0af1cc6c3ca2d6]{
 -- Page 435, Offset 23257.
 -- 先輩は俺の学校の三年生で、俺は一年生の頃から―――
-Senpai is a third-year at our school, and I've known her since I was a first-year―――
+Senpai is a third-year student, and I've known her since I was a first-year―――
 }
 [sha:b462a9ceb67f83579553c005f4cf3272af4296dd]{
 -- Page 435, Offset 23258.
@@ -885,27 +917,27 @@ Senpai is a third-year at our school, and I've known her since I was a first-yea
 [sha:894d06f1c1899d847463382c6fa356f952faed46]{
 -- Page 436, Offset 23260.
 -- ……ない。まったくない。
-I don't have any. Not a single one.
+I don't remember. I don't remember %{i}anything%{/i}.
 }
 [sha:d43c108a4f043bf6ae9893cd0a222bde45266b39]{
 -- Page 436, Offset 23261.
 -- 先輩と過ごした学園生活の記憶がまったくない。
-I don't have any memories of spending time with Senpai at school.
+I can't recall a single memory of spending time with Senpai at school.
 }
 [sha:7b6c3c43ab5ea08ff7efd2396669eb1b623c32e1]{
 -- Page 437, Offset 23262.
 -- 俺が思い出せる最初の記憶は、
-The first thing I'm able to remember is―――
+The earliest thing I'm able to remember is―――
 }
 [sha:db2b0d42b98c677c9f6347fa05b5c2061d644fdd]{
 -- Page 437, Offset 23263.
 -- あの、電車で出会った時のものだった。
-That time I met her in the train.
+That time I met her on the train.
 }
 [sha:b2de08d4276593e92e630f1f3152f4a6d7a9a20a]{
 -- Page 438, Offset 23264.
 -- 言われてみれば、先輩はいつからいた先輩だったんだろう。
-Now that I think of it, when did Senpai even become my upperclassman?
+Now that she mentions it, when %{i}did%{/i} Senpai become my upperclassman?
 }
 [sha:ac87bba193ecc81bf616085491cb56a82b157fa5]{
 -- Page 438, Offset 23265.
@@ -915,47 +947,53 @@ I don't even know which class she's in.
 [sha:751dcf0fe0fcb276d34f123cc099bfd0f8385b29]{
 -- Page 438, Offset 23266.
 -- ―――ありがとうございました、遠野くん。
-―――Thank you very much, Tohno-kun.
+// Unadorned indirect speech, so quoted.
+'Thank you very much, Tohno-kun.'
 }
 [sha:4f99df38bb6a3bd651dd2a7858e842591007317d]{
 -- Page 438, Offset 23267.
 -- 先輩が笑顔でそう言うものだから。
-Because Senpai said those words with a smile on her face.
+She said those words with a smile on her face.
 }
 [sha:aa8222cae45f5bad8a0611233fee3c2334583af3]{
 -- Page 438, Offset 23268.
 -- 俺はあの人と、ずっと知り合いだった気がしただけ。
-I got the impression that I'd always known her.
+Because of that, I felt like I'd always known her.
 }
 [sha:36345c43a03907226d6fd7119d0e02e6ca75e9d9]{
 -- Page 439, Offset 23269.
 -- 「う――――そ」
-"No―――way."
+// Not actually spread apart in VA
+"No way..."
 }
 [sha:ecce677c9b595590235dc551021d299d22ba3049]{
 -- Page 439, Offset 23270.
 -- そもそも、一番の違和感は。
-To begin with, the biggest discrepancy...
+On top of that, there's something else...
 }
 [sha:ed8f38c5918fcdc9f9799ea98dbaa6e3fb0e9c69]{
 -- Page 439, Offset 23271.
 -- 先輩は当たり前のようにシエルと呼ばれていたけど、それ以外の名前を誰も口にしなかった。
-Everyone calls her Ciel like it's only natural, but no one has ever referred to her by any other name.
+Everyone calls her Ciel like it's totally normal,
+ but not once have I heard anyone call her by any other name.
 }
 [sha:a8dc1fe4c9b7e8594f0ab61e649f7a0f381868ee]{
 -- Page 439, Offset 23272.
 -- そんな名前に、どうして誰も疑問を持たなかったのか―――
-How come no ever suspected her when she has a name like that?
+How come nobody has ever wondered why she has a name like that...?
 }
 [sha:a88df403a5640b8a455569eb96fcb1a6736d1ae7]{
 -- Page 440, Offset 23273.
 -- 「ほらみなさい。わたしだって赴任して仰天したわ。
-"See? When I first transferred to the school, I was astonished.
+"See what I'm talking about?
+ When I transferred to the school I was stunned.
 }
 [sha:95192f1cc176443303e309f93bb8a5e10021b8d5]{
 -- Page 440, Offset 23274.
 -- いくら秘蹟に耐性のない一般人でも、百人二百人に暗示をかけるなんて並大抵の魔力量じゃないもの。
-Putting one or two hundred people under a suggestion, even if they're ordinary humans who don't have any resistance to Sacraments, isn't something that one can do with a run-of-the-mill magical reserve.
+Putting one or two hundred people under a suggestion,
+ even if those people are civilians with no real resistance to sacraments,
+ takes way more magical energy than an ordinary person could muster.
 }
 [sha:c236c081459ac311c2c6ac80c903621bcc925000]{
 -- Page 440, Offset 23275.
@@ -965,17 +1003,19 @@ As expected of Number Seven, I suppose."
 [sha:0fc2f80c3313caf7bfc6d157d6d3edc847d6c297]{
 -- Page 441, Offset 23276.
 -- 「それとも暗示だからこれだけの事ができたのかしら。
-"Or maybe she managed to do it precisely because it was a suggestion.
+"Or maybe she could pull it off because it %{i}was%{/i} just a suggestion.
 }
 [sha:efa41aa3f9cb03fd5ebdecbefdb8a6277fa39a1f]{
 -- Page 441, Offset 23277.
 -- 暗示はしょせん暗示、印象の操作にすぎないものね。記憶そのものをいじる洗脳とは違うんだし。
-Suggestions are, in the end, just that. It's nothing more than impression management, different from the brainwashing that involves directly tampering with memories.
+Suggestions are, after all, just that.
+ It's just a way of managing people's impressions,
+ it's not the same as brainwashing people and actively tampering with their memories.
 }
 [sha:be44d22d163a67a0ae444defafd7424d88c41079]{
 -- Page 441, Offset 23278.
 -- 志貴クンたちはきっと“シエルを疑問に思わない”という事だけを刷りこまれていたんでしょうね」
-I'm sure that you and the other students must've only been imbued with something like 'Don't doubt Ciel'."
+She probably just imprinted you and the other students with 'don't suspect Ciel' or something."
 }
 [sha:635d4097b7689bf3cb55baab983e12bbad39e879]{
 -- Page 442, Offset 23279.
@@ -985,12 +1025,13 @@ Ahh, I see.
 [sha:c7a78096589484c72cecd9b36b20063c73a824c6]{
 -- Page 442, Offset 23280.
 -- 俺だって初めは違和感があったけど、会うたびにそんな疑問は消えていった。
-At first, I felt uneasy too, but each time I met her, my suspicion lessened.
+I was a little uneasy when I first met her,
+ but with every encounter my suspicion lessened.
 }
 [sha:c88e6f5e592257ae98d34470681c3fd83f7b8da4]{
 -- Page 442, Offset 23281.
 -- “そこにいても、それが当然だと思うこと”
-'It's normal for her to be here.'
+She seemed like she fit in perfectly wherever she was.
 }
 [sha:b06f3c5faa4ec750d91e68fb210a3867f55c775a]{
 -- Page 442, Offset 23282.
@@ -1000,7 +1041,7 @@ That was Senpai's distinguishing trait.
 [offset:23283]{
 -- Page 443, Offset 23283.
 -- 「……でも、それは」
-"But, that―――"
+"Still, even so―――"
 }
 [sha:1d6598726699fb64033df9709501ee20b0c2933b]{
 -- Page 443, Offset 23284.
@@ -1010,7 +1051,7 @@ That doesn't mean that Senpai was deceiving me.
 [sha:cd4f0528258522edb62513de8efdb6f0bac5f4bb]{
 -- Page 443, Offset 23285.
 -- だってそれは、
-That just meant that―――
+She had a reason―――
 }
 [sha:de83f7a8121628b9b9d7d4a288fb79dbae556a5b]{
 -- Page 443, Offset 23286.
@@ -1020,12 +1061,16 @@ That just meant that―――
 [sha:6d5c85d8f1bdcca6ffacf59eb7f75b89c452f848]{
 -- Page 444, Offset 23287.
 -- 「ええ、一般生徒にはね。でも志貴クンはもう違う。あの地下を知った以上、暗示は解いてあげるべきだった。
-"That may be true for ordinary students, but you're different. She should've lifted the suggestion because you found out about that underground catacomb.
+"Sure, that makes sense for the other students.
+ But you're different, Shiki-kun.
+ She should've lifted the suggestion as soon as you found out about those underground catacombs.
 }
 [sha:8c535b7372ddf4ac53705262715e9f37fcecd88c]{
 -- Page 444, Offset 23288.
 -- それに、教えてあげるべき事を黙っている、というのは思いやりになるのかしら？　知られたら都合が悪いから黙っているだけじゃないの？」
-Besides, she's intentionally withholding information that you should know. Can you even call that being considerate? Doesn't that just mean she isn't telling you because it would be inconvenient for her if you found out?"
+On top of that, she's intentionally withholding information that you ought to know.
+ That isn't very considerate of her, now is it?
+ Doesn't it make it seem like she's just keeping quiet because it'd be inconvenient for her if you found out?"
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 445, Offset 23289.
@@ -1035,22 +1080,24 @@ Besides, she's intentionally withholding information that you should know. Can y
 [sha:0425fe2fce810e027ca21f08237de840d2c9fd5b]{
 -- Page 445, Offset 23290.
 -- ……悔しいが反論できない。
-I hate to say it, but I can't refute her.
+As painful as it is, I can't disprove any of this.
 }
 [sha:e6b6a8a88745943dc88846a90ee386b2638b4066]{
 -- Page 445, Offset 23291.
 -- 俺は彼女の言葉から逃げるように、うつむいて息を呑む事しかできなかった。
-I can only look down and heave, as though running away from her words.
+All I can do is look down at the floor and hold my breath,
+ as though I'm running away from her words.
 }
 [sha:f07cf9f33d18efb76d2f76deca4688a8de18aaa3]{
 -- Page 446, Offset 23292.
 -- 「これで分かったでしょ。あの人が良い子ちゃんに見えるのはぜんぶ演技なんだって。
-"You understand now, right? She may look like a good girl, but that's all an act.
+"You understand now, right? She may seem like a good girl, but it's all an act.
 }
 [sha:df7587b1c366302e73137c440c3ef5be2214ff6a]{
 -- Page 446, Offset 23293.
 -- ……ええ。演技でなかったら、今までの冷酷ぶりはなんだったっていうの」
-...Yeah, it has to be an act. If not, then why has she been behaving so ruthlessly all this time?"
+Yeah... it has to be.
+ If it isn't, then what the hell was all her violent behavior up to this point about?"
 }
 [sha:c00006e0cc04faba5bfe39a0008e6c8425d1cf31]{
 -- Page 447, Offset 23294.
@@ -1060,42 +1107,48 @@ I hear the sound of grass being trampled on.
 [sha:7a4149fdc8bd9103877cf7d347693f1604296af8]{
 -- Page 447, Offset 23295.
 -- ……うつむいていた顔を上げると、彼女はもう中庭の出口に移動していた。
-By the time I raised my head once more, she was already heading toward the exit of the courtyard.
+When I look up, she's already made to the exit from the courtyard.
 }
 [sha:4d2abf3a7440c53b602e6bc24cd7a59f69a33192]{
 -- Page 448, Offset 23296.
 -- 「話はこれでおしまいよ。
-"Well, that's all I have to say.
+"Well, that's all I had to say.
 }
 [sha:c80a5f1941919ad2ab2da4ce307509095b5ffddd]{
 -- Page 448, Offset 23297.
 -- そろそろあの人もここを見つけるだろうし、志貴クンと密会していたなんて知られたら、何をされるか分からないわ」
-I'm sure she'll discover this place soon, and if she finds out that we met up in secret, who knows what'll happen to me."
+I'm sure she'll discover this place soon,
+ and I can't imagine what she'd do to me if she found out about our little date."
 }
 [sha:4f85fcd183859a02a6b900833792aa4de988f319]{
 -- Page 449, Offset 23298.
 -- 「―――最悪、志貴クンとわたし、もう用済みだからって消されるかも。そもそも志貴クンは知っちゃいけないコトを沢山知っちゃったし？　なんであれ、証拠隠滅はしなくちゃねぇ？」
-"―――In the worst case, she'll get rid of both of us. We've already served our purpose, after all. Besides, you know lots of things that you shouldn't know, right? So you know, she has to destroy the evidence."
+"Worse case scenario, she might just get rid of both of us.
+ We've already served our purpose, after all.
+ On top of that, you know a lot of things you shouldn't now, right?
+ She'll have to make sure she destroys the evidence."
 }
 [sha:d450c43fb9d96245e96ef887a8c134880f2ab371]{
 -- Page 450, Offset 23299.
 -- 「しょ―――証拠隠滅って、何を」
-"D-Destroy the evidence, what―――"
+"D-Destroy the evidence?! What's she―――"
 }
 [sha:6984a4fb7c423fc45827dec9508333c7e45e044f]{
 -- Page 450, Offset 23300.
 -- 「さあ？　それはこれからの行動次第よ志貴クン。
-"Who knows? It will depend on what you do next, Shiki-kun.
+"Who knows?
+ It'll all depend on what you do next, Shiki-kun.
 }
 [sha:d2bd6ae130da8f42266e751e8b0fa5f705984856]{
 -- Page 450, Offset 23301.
 -- あの子の機嫌を損なわないよう、あの子に見逃してもらえるよう、せいぜい頑張ってみれば？
-Try your best not to spoil her mood and stay in her good graces, why don't you?
+Guess you'd better do all you can to stay in her good graces and hope she looks the other way, huh?
 }
 [sha:a56fe755c5434bf7f01ed4d6ee2af9d2fffcadee]{
 -- Page 450, Offset 23302.
 -- ま、仕事が全部終わった後は、いつも通り死人に口ナシってオチでしょうけど？」
-Well, what do they say again, that when all's said and done, dead men tell no tales?"
+Though, once this job is al done and dusted, who knows.
+ What's that phrase again? 'Dead men tell no tales'?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 451, Offset 23303.
@@ -1105,32 +1158,36 @@ Well, what do they say again, that when all's said and done, dead men tell no ta
 [sha:6dcbb6046a60b1528d754667dc53487c6dc26f66]{
 -- Page 451, Offset 23304.
 -- 怒りと抗議で全身が熱くなる。
-My whole body is boiling from anger and outrage.
+I'm seething with anger and indignation.
 }
 [sha:c00a2ea781ab1292eaa9aed8b0b06555f46ae640]{
 -- Page 451, Offset 23305.
 -- そんな結末はない。仮に秘密を守るとしても、先輩は俺の記憶を消すだけだと言った。
-It won't end up like that. Even if Senpai wants to protect her secrets, she told me she'd only get rid of my memories.
+That's not how this will end.
+ Even if Senpai does want to protect her secrets, she said she'd just erase my memories.
 }
 [sha:499781c0add97ae0a9b1cf39b67c8e587718f873]{
 -- Page 452, Offset 23306.
 -- ……けれど、その反面。
-...But, on the other hand.
+Though, that said...
 }
 [sha:3660b865e044f04756e9dd3b6dab244fa41f2e17]{
 -- Page 452, Offset 23307.
 -- 本当に“この一週間”だけを消すなんて事ができるのかと、疑問に思っている自分もいる。
-A part of me harbors doubt that she'll truly be able to erase only this week's memories.
+There's a part of me that wonders whether she really can just erase this one week's worth of memories.
 }
 [sha:30c4a19bb6aabcb2fa0186f0899a43bd848320bd]{
 -- Page 453, Offset 23308.
 -- 「そうそう、そういう顔してもらわないと危険を冒した甲斐がないわ。
-"Yup, seeing that look on your face makes all the risk I went through worth it.
+"Ooh, yes, that's just perfect.
+ Seeing that look on your face has made this well worth the risk.
 }
 [sha:d81266e50907697fc64bdd099f752170bb24fb0a]{
 -- Page 453, Offset 23309.
 -- それじゃあね志貴クン。今日の話をちゃあんと胸に留めて、わたしみたいに、何もかも台無しにされないよう気をつけて♡」
-Well then, Shiki-kun, make sure to take everything I told you today to heart, and don't let your guard down, unless you want to be like me and have everything come to nothing ♡"
+Alright, see ya Shiki-kun.
+ Make sure you take everything I told you today to heart.
+ Be careful not to ruin everything like I did ♡"
 }
 [sha:6dee0c5ef522cd6d77c5f40c7dd4e62885994b54]{
 -- Page 454, Offset 23310.
@@ -1145,7 +1202,8 @@ I call out to stop her, but it's already too late.
 [sha:c2b676947ad141c41d23458dfbc9a41ed8d28ddf]{
 -- Page 454, Offset 23312.
 -- 俺を別世界に呼びこんだ女は、一方的に真実を語って笑顔で立ち去っていった。
-The woman who invited me to a whole other world rattled on about her one-sided truth and left.
+The woman who invited me out to here to this otherworldly place
+ to tell me all about her version of the truth has disappeared with a smile on her face.
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 455, Offset 23313.
@@ -1155,10 +1213,12 @@ The woman who invited me to a whole other world rattled on about her one-sided t
 [sha:a930cd8cb96715810d3a101f2c2f74afc94c54c8]{
 -- Page 455, Offset 23314.
 -- ……頭蓋の空洞に、不安という名の蜘蛛が住み着いたようだ。
-As though a spider by the name of anxiety has taken up residence inside the cavity of my skull.
+I feel as though the spider of anxiety has taken up residence inside my skull...
 }
 [sha:1139b4a7ba01ba9de40680a8c0c02a39bc380d47]{
 -- Page 455, Offset 23315.
 -- 俺は頭の中の蜘蛛の巣を振り払って、赤く染まった廃工場を後にした。
-I shake off the cobwebs inside my head and leave the red-tinged, dilapidated factory behind.
+Shaking off the cobwebs it spun inside my mind,
+ I too take my leave of the abandoned factory,
+ now dyed a deep red by the setting sun.
 }
