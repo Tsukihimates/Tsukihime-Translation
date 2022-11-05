@@ -12,32 +12,41 @@ Noel-sensei suggested that we not speak of what happened in that room.
 [sha:872ba0780913513ef11aaf78ea301a484987165f]{
 -- Page 10012, Offset 23106.
 -- 外気を吸った瞬間、あれほど冷え切っていた感情が元の自分に戻っていた。
-As soon as I breathe in the fresh air, I feel my frigid emotions returning to their usual state.
+// These 3 lines only play if you took 3_1
+As I fill my lungs with fresh air,
+ I feel my frozen emotions start to thaw.
 }
 [sha:2f06b2d5ff34e5ed501dfe4df10e7ca110f62091]{
 -- Page 10012, Offset 23107.
 -- ……自分でも確かな理由はないのだが。
-I don't exactly know why, but―――
+I don't have a good explanation for what came over me.
 }
 [sha:e374a10aa8d12f3c79bf891c0ff251348e3b2688]{
 -- Page 10012, Offset 23108.
 -- あの工場内の空気が、マトモであろうとする理性を遮断していたのかもしれない。
-The ambiance of that factory may have cut me off from the rational side of me that's striving to be moral.
+I can only assume that the atmosphere in that factory somehow cut me off from the rational side of me that's striving to be moral.
 }
 [sha:7b225f2bd3d3efe1fee2d5022178bde05944a19f]{
 -- Page 10013, Offset 23109.
 -- 「死徒と戦うってコトがどんな事なのか、ちゃんと教えておこうと思って。
-"I figured I'd teach you what fighting against a Dead Apostle really means.
+"I figured I'd teach you what it's really like to fight a Dead Apostle.
 }
 [sha:f1e05171129e407b8f06ce82d9ef43de138b7621]{
 -- Page 10013, Offset 23110.
 -- ほら、保健室で志貴クン、シエルさんの意見に文句がありそうだったから。それでピンときたの。アナタはわたしと同じで、吸血鬼から街を守りたい人なんだって。
-After all, when we spoke at the infirmary, you seemed to have some reservations regarding Ciel-san's point of view, Shiki-kun. That's when it clicked. I realized that we're the same――we both want to protect this city from vampires.
+// Ciel's 意見 here presumably that he's not allowed to help them out
+// (offset 18665), since that's the only real thing they contend on in
+// 08_01_CIEL08_1E / 08_01_CIEL08_2. 'Opinion' or 'point of view'
+// might be misread as pertaining more to e.g. Arcueid as a vampire,
+// which isn't touched on in that scene.
+After all, you seemed to bristle when Ciel-san said you couldn't help us back in the infirmary.
+ That's when it clicked.
+ I realized that you're just like me――we both want to protect this city from vampires.
 }
 [sha:cff643fefa83142d7d9911e41089595d6f50e069]{
 -- Page 10013, Offset 23111.
 -- なら、お互いの<信|・><条|・>は知っておくべきじゃない？」
-As such, we should be aware of each other's beliefs, right?"
+As such, we should be aware of each other's guiding principles, right?"
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 378, Offset 23112.
@@ -47,42 +56,50 @@ As such, we should be aware of each other's beliefs, right?"
 [sha:cc867eefd730d750719829a523b63953ccad5042]{
 -- Page 378, Offset 23113.
 -- 吸血鬼から街を守る。
-To protect the city from vampires.
+Protecting the city from vampires...
 }
 [sha:11b18e2b27ef78d373955d07d256be4045bf27a7]{
 -- Page 378, Offset 23114.
 -- 優先順位はあれ、俺もその方針に異論はない。
-That should be the top priority. I'm in agreement with her there.
+// lint-off:LintDupedWord
+I'm in total agreement that that should be our top priority.
 }
 [sha:8fa4ce4812c1083196298f1e2e682444415d5535]{
 -- Page 378, Offset 23115.
 -- ……ただ、今の彼女には素直に賛同できない。先ほどの異常な光景がまだ頭に残っているせいだ。
-...However, I can't bring myself to wholeheartedly agree with her as she is right now, because that freakish scene I witnessed earlier is still weighing on my mind.
+But after witnessing that horrific scene, I can't bring myself to give her my full support.
 }
 [sha:8ce64c08450abd4d5399f0cb6c93dbbcf5c8d735]{
 -- Page 10014, Offset 23116.
 -- ただ、先ほどのように“無駄の多い”やり方に不安を覚えているだけだ。
-Her 'wasteful' methods, like those she used earlier, are only causing me unease.
+It just doesn't sit right with me to use such wasteful methods.
 }
 [sha:41363928c29d985baf16784d5dfb6bb06913a5fa]{
 -- Page 10015, Offset 23117.
 -- 「……俺の信条は単純ですよ。知ってしまったから無視できないし、先輩の助けになりたいだけです。
-"...My belief is simple. Now that I know what's happening, I can't just ignore it, and on top of that, I just want to help Senpai.
+"My guiding principle is simple...
+ Now that I know what's happening, I can't just look the other way.
+ All I want to do is be of help to Senpai.
 }
 [sha:cd31d12d2dee41e22218509ccd90a5626b3fadd0]{
 -- Page 10015, Offset 23118.
 -- それより、ノエル先生は反対しないんですか。シエル先輩は、一般人は吸血鬼には関わらせないと言っていました」
-That being said, shouldn't you be against this, Noel-sensei? Ciel-senpai said that civilians shouldn't get involved in all this vampire stuff."
+Also, shouldn't you be against this, Noel-sensei?
+ Ciel-senpai said that she wasn't going to let any civilians get mixed up in all this vampire stuff."
 }
 [sha:cd13751bf28f8c0e4ddeba676da846e69a05b337]{
 -- Page 381, Offset 23119.
 -- 「なんで？　吸血鬼を殺すのはいいコトだし、特別な力があるのなら人々の為に使うべきでしょ？
-"Why? Killing vampires is good, and you possess a special power. Don't you think that you ought to use it for the good of the people?
+"Why would I be?
+ I fully approve of killing vampires,
+ and if you've got a special power then shouldn't you use it for the good of the people?
 }
 [sha:c344f8baa18afcfbedb71de551207b4e32d2edd1]{
 -- Page 381, Offset 23120.
 -- 教会の代行者だからぁ、とか、普通の男子生徒だからぁ、とか、そんなの関係ないわ。わたしは志貴クンの勇気に拍手を送りたい気分だけど？」
-I'm not doing this because I'm an Executor of the Church, or because you're a normal student, or whatever. I just want to applaud your courage, Shiki-kun."
+I'm not saying any of this because I'm an Executor of the Church,
+ and it doesn't matter to me if you're just an ordinary student.
+ I simply want to applaud your courage, Shiki-kun, that's all."
 }
 [sha:d54bcd9d4b75f70ecd437a081259d104423b69f9]{
 -- Page 382, Offset 23121.
@@ -92,7 +109,8 @@ She clearly approves of my involvement.
 [sha:d0668b083392caeec39c587c0835f31045306a66]{
 -- Page 382, Offset 23122.
 -- 保健室の時にも思ったが、二人の方針は違うようだ。
-I already thought so back at the infirmary, but it seems like their principles are different.
+I saw some evidence of this already back in the infirmary,
+ but it seems like she really doesn't share the same principles as Ciel-sensei.
 }
 [sha:dac065a3821f5492514cb3db2f501ca201567434]{
 -- Page 383, Offset 23123.
@@ -107,17 +125,20 @@ Noel-sensei tells me that I should fight.
 [sha:276ce31d22380e2d1450046d050aff81525d898d]{
 -- Page 384, Offset 23125.
 -- ……ますます先輩に申し訳なくなった。
-...I have even more things to apologize to Senpai for now.
+It seems like I owe Senpai more than I thought...
 }
 [sha:639ded45494c417e894ef8c8645c03b97808483d]{
 -- Page 384, Offset 23126.
 -- こうして相反する意見がそろうと、どちらが人間として正しくて、どちらが俺を気遣ってくれていたのか、明確に分かってしまう。
-Between their conflicting opinions, it's evident that one of them is making the more humane decision and keeping my safety in mind.
+When presented with both of their conflicting perspectives,
+ it's clear as day which of them has made the right choice as a human being,
+ and which of them is worried about my safety.
 }
 [sha:da0930b1ce29b92747b04fa49af7269bf5b1aeee]{
 -- Page 385, Offset 23127. Mods: @n.
 -- 「それにしてもシエルさんにも困ったものね
-"Still, I'm annoyed by Ciel-san.
+// Period glued.
+"Still, I just don't know what to do about Ciel-san
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 385, Offset 23128. Glued.
@@ -127,47 +148,55 @@ Between their conflicting opinions, it's evident that one of them is making the 
 [sha:8d96e2cf5d1d01a8ddba9f0cb6d1f72864ce10ba]{
 -- Page 385, Offset 23129.
 -- 事態を一日でも早く収束させる事が最善の手段なのに、志貴クンの協力を拒んだり、優先度の低い調査を始めたり、気が緩んでるんじゃないかしら。
-Even though the best choice would've been to bring the situation under control as soon as possible, she rejected your help, and then started a low-priority investigation instead. Has she gotten careless or something?
+The best course of action here is to bring the situation under control as quickly as possible,
+ but instead she forbade you from helping and has gone off chasing low-priority investigations.
+ I wonder if she's lost her touch?
 }
 [sha:4778797faa65e06b700fc8cb14ad3b99f0ffa125]{
 -- Page 385, Offset 23130.
 -- ……ま、それも演技なんでしょうけど。あの冷酷な悪魔が、たった数日で変わるはずがないんだし」
-...Whatever, all of it is just her putting on a show, anyway. There's no way that cold-hearted monster could change over a few days."
+Whatever, I guess it's all just part of her act.
+ There's no way that cold-hearted monster would change over the course of a couple days."
 }
 [sha:e6e83563f85aae12be6f4a72f5c8d9cf2bf8ec52]{
 -- Page 386, Offset 23131.
 -- 「？　冷酷って、シエル先輩のどこが？」
-"Hm? Cold-hearted? How is Ciel-senpai cold-hearted?"
+// ? not voiced
+"Cold-hearted? Are we talking about the same Ciel-senpai?"
 }
 [sha:574a91c41127b69b04181b0393fcac81e6c0a9e8]{
 -- Page 386, Offset 23132.
 -- 言葉の内容はもちろん、ノエル先生の仕草にも気を取られるものがあった。
-I find myself intrigued by both her statements and her behavior.
+Both what she said, and the way she said it, have caught my attention.
 }
 [sha:41ae01e097b5b389bba16614c97d58849ed6cd3a]{
 -- Page 386, Offset 23133.
 -- ただの直感だけど、今の呟きにはこの人の真実が隠れていた気がする。
-It's just a hunch, but I have a feeling that the true Noel-sensei is hidden somewhere within those words she just muttered.
+It's only a hunch, but I feel like the words Noel-sensei just muttered hold some hint about her true nature.
 }
 [sha:72f3bda605aad460e05c956092458928d0bc4cc5]{
 -- Page 387, Offset 23134.
 -- 「ほら分かってない。あの子が誰にも優しい、底抜けの善人だとでも思っていたんでしょう。
-"God, you just don't understand. You think that she's a bottomless well of virtue who treats everyone kindly, don't you?
+"See, you don't even get it.
+ You think that she's a bottomless well of virtue who treats everyone kindly, don't you?
 }
 [sha:13780247cb17a274b0a9070428e4188b8b1f3789]{
 -- Page 387, Offset 23135.
 -- ほんっとバカらしい。アレはただの掃除屋で人間らしい感情なんてありっこないの」
-How completely idiotic. She's just an enforcer that will never harbor human emotions."
+What a load of bullshit.
+ She's just an enforcer, there's no way she'd ever harbor human emotions."
 }
 [sha:ad5d50d73da3235323e19b82b5d9fc24ab6c90f3]{
 -- Page 388, Offset 23136.
 -- 「いい、志貴クン。あの子の笑顔はぜんぶ作り物だから。
-"Listen, Shiki-kun. Her smile is entirely fake.
+"Are you listening, Shiki-kun?
+ That woman's smile is entirely fake.
 }
 [sha:e1e518418447d04855af4ea8f68bed7938b3ffec]{
 -- Page 388, Offset 23137.
 -- その方が仕事を進めやすいからそうしてるだけで、キミだって騙されているだけなのよ」
-She's only doing it to deceive you, because it'll make her duties easier."
+She only does it because it makes her job easier,
+ and you've just let yourself be taken in by it."
 }
 [sha:81aa684c2e67d3cc5974eb437f40b961c82f4464]{
 -- Page 389, Offset 23138. Mods: @n.
@@ -182,12 +211,13 @@ She's only doing it to deceive you, because it'll make her duties easier."
 [sha:98e1c141499755996002d4226b0cf22b74167776]{
 -- Page 389, Offset 23140.
 -- 思わず身を乗り出したものの、反論は口にできなかった。
-I ended up getting really engrossed in her statements, but I didn't manage to voice any objections.
+Despite listening to her with undivided attention,
+ I can't manage to come up with any objections.
 }
 [sha:7f965f50721d01ba3d5d5718fc0ffa719a8b1c57]{
 -- Page 389, Offset 23141.
 -- さっき先輩を怒らせた俺が、どの口で先輩を擁護するのか。
-How could I jump to Senpai's defense when I just angered her earlier?
+How am I supposed to jump to Senpai's defense when I angered her myself not that long ago?
 }
 [sha:d5045defd718691f27581a368eedfae36b7f3de1]{
 -- Page 390, Offset 23142.
@@ -197,12 +227,13 @@ How could I jump to Senpai's defense when I just angered her earlier?
 [sha:d50a3ff7c5c2533a0769ae25aef17ff3e7c7a7eb]{
 -- Page 390, Offset 23143. Mods: @n.
 -- ……ふうん。
-...Hmmm.
+Hmm...
 }
 [sha:8901d4c2c2998d7f995999220e1c41450a8ddf2d]{
 -- Page 390, Offset 23144. Glued.
 -- ちょっと脅かして様子を見るだけだったけど、そういうコトならわたしも踏みこんであげる」
-I just wanted to startle you and see how you'd react, but considering your reaction, I'll go straight to the point."
+ I'd only planned on giving you a surprise to gauge your reaction,
+ but if you've already twigged I may as well dive right in."
 }
 [sha:6e6973ccfe57181622eedffbfa9726cb57e60f08]{
 -- Page 391, Offset 23145.
@@ -212,42 +243,52 @@ I just wanted to startle you and see how you'd react, but considering your react
 [sha:0951a29b8780089ce952b2914c92ff405b606ff8]{
 -- Page 391, Offset 23146.
 -- あの子がどんな人間なのか。どうせあの子は話さないだろうから、特別にわたしが教えてあげる」
-Like what kind of person she is. She's never going to tell you anyway, so I'll make an exception and tell you myself."
+Like what kind of person she is, for example.
+ She's never going to open up about it herself,
+ so why don't I give you the inside scoop."
 }
 [sha:8f641714317425eff932b7a7b22dc1d717588e48]{
 -- Page 392, Offset 23147.
 -- ノエル先生の笑顔にはわずかな悪意が感じられた。
-I sense a hint of malice in Noel-sensei's smile.
+There's a hint of malice in Noel-sensei's smile.
 }
 [sha:b6247f54f008a657c2de6274b83f9ac2dd2e2bcd]{
 -- Page 392, Offset 23148.
 -- ……聞くべきじゃない、と自分を<戒|いまし>める気持ちと、先輩の事をもっと知りたいと焦る気持ちが混在する。
-I'm torn between cautioning myself not to listen to her and anxiously wanting to know more about Senpai.
+I'm conflicted...
+ I know that I shouldn't pry, but I'm also desperate to learn more about Senpai.
 }
 [sha:320041f316da68c8a5e9abcca0bc6ebc2cd3dde2]{
 -- Page 393, Offset 23149.
 -- ……結局、俺は話を止める事ができなかった。
-...In the end, I wasn't able to tell her to stop.
+In the end, I can't bring myself to stop her.
 }
 [sha:4d8ef16d7bd1601b4b611804021ed39e4e4e7a3d]{
 -- Page 393, Offset 23150.
 -- そんな俺の葛藤すら愉しむように、彼女は先輩の“これまで”を話し始めた。
-She then begins to talk about Senpai's past, as though relishing in my inner conflict.
+Noel-sensei begins to tell me about Senpai's past,
+ as though relishing my inner conflict.
 }
 [sha:3ca1e60afddc98bf55ba2399490a7bf9465636e0]{
 -- Page 394, Offset 23151.
 -- 「わたしたち代行者は二人一組が基本だけど、狩りの成功率は高くない。たいていどちらかが死ぬか、両方とも殺されて終わりって世界よ」
-"We Executors fundamentally work in pairs, but the success rate of our hunts isn't high. Most of the time, one member of the pair dies, but sometimes both of them die, and then it's all over. That's the world we live in."
+"It's common practice for Executors like us to work in pairs, but success rates on hunts are still low.
+ More often than not one of them ends up dead, though sometimes both wind up getting killed at once.
+ That's just the world we live in."
 }
 [sha:aea10c083f058da6440e312a46d7756dfc460d4e]{
 -- Page 395, Offset 23152.
 -- 「もし10年以上代行者をやってるヤツがいたら、ソイツはそれだけで立派な異常者として扱われる。心が壊れているか、とっくに吸血鬼化しているのに隠しているとか、まあ、色々陰口言われるワケ」
-If there were an Executor who's been active for over a decade, they would be treated as some sort of incredible anomaly. Some people would suspect that their mind's been broken, or they've been hiding the fact that they transformed into a vampire. Basically, there'd be all sorts of nasty gossip.
+"If any Executor managed to keep at it for over a decade, they'd be treated like some freakish anomaly.
+ People would start speculating that they're sick in the head,
+ or that they already turned into a vampire ages ago and are just hiding it.
+ There's be all sorts of nasty gossip."
 }
 [sha:b58d25282a68c940e559bcfa168601885007a411]{
 -- Page 396, Offset 23153.
 -- 「そんなひっどい職場で、あの子は何体もの吸血鬼を殺してきた。
-"Despite working in such terrible conditions, she's killed a great many vampires.
+"Despite her hostile work environment,
+ that woman has killed countless vampires.
 }
 [sha:f1aaf31c2aa39eb8bd09f335f933ab3e173933ca]{
 -- Page 396, Offset 23154.
