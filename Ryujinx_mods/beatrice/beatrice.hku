@@ -83,8 +83,29 @@ instrs 13dea8 28 {
        ret
 }
 
-// old kern experiment
+// basic discriminatory kern experiment
+// clobbers values in: x8
 instrs 13bde8 24 {
+       !jump #0x1441a8
+       nop
+       nop
+       nop
+       nop
+       nop
+       nop
+       nop
+       nop
+}
+
+instrs 1441a8 80 {
+       // load char bit and derive address for /prev/ char
+       adrp x19, #0xbc0000
+       ldr w8, [x19, #0xd44]
+       eor w8, w8, #0x04
+       add x8, x19, x8
+       ldr w8, [x8, #0xd44]
+
+       // compare orig char with 'A'
        cmp w26, #0x41
 
        b.ne #0x0c
@@ -93,6 +114,6 @@ instrs 13bde8 24 {
        nop
        nop
        nop
-       nop
-       nop
+       !jump #0x13bdec
+
 }
