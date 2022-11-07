@@ -1,17 +1,17 @@
 [sha:c1c4b325793518deb798fa772dc078b622e54336]{
 -- Page 10017, Offset 23361.
 -- もう一度アイツに会って自分の気持ちを確認しよう。
-I'll meet up with her again and confirm my feelings.
+I'll meet up with her one more time and take stock of how I really feel.
 }
 [sha:525abd859c889eadbfc342b79fc7a8e3092bede1]{
 -- Page 10017, Offset 23362.
 -- その結果、アルクェイドとの協力関係が無しになるのなら、それは仕方のない事だ。
-If it leads to the end of my partnership with Arcueid, then that'd truly be a shame, but that's just how it is.
+If that ends up spelling the end of my partnership with Arcueid, then so be it.
 }
 [offset:23363]{
 -- Page 475, Offset 23363.
 -- 「……そうだよな。
-"Yeah.
+"Yeah...
 }
 [sha:8d5aa72d2f49ecf3fff6bb165d7fa71d32c5e64f]{
 -- Page 475, Offset 23364.
@@ -21,17 +21,18 @@ The absolute worst thing I could do to her is leave her hanging."
 [sha:66c0aa47de55c138f927bcca135ed4d255c08ba7]{
 -- Page 476, Offset 23365.
 -- 身支度を整えて部屋の電気を落とす。
-I get ready to go outside and switch the lights of my room off.
+I get ready to head out and switch off the lights.
 }
 [sha:7562e5e19ee00ea0604c36a14f759e86373bb630]{
 -- Page 476, Offset 23366.
 -- ポケットの中のナイフを確認して、アルクェイドの待つ公園へ向かう事にした。
-I confirm that my knife is in my pocket, then I begin to head to the park where Arcueid awaits.
+After double-checking my knife is in my pocket,
+ I head off toward the park where Arcueid awaits.
 }
 [sha:191cb6dd55dc956549af3ec614db06de4a0ec048]{
 -- Page 477, Offset 23367.
 -- 誰に見とがめられる事なく正門を出た。
-I exit through the main entrance without anyone noticing me.
+I make it out the main gate without anyone noticing me.
 }
 [sha:a3d8d582de165e4bc06e6bd8510c48d0e3dc95dc]{
 -- Page 477, Offset 23368.
@@ -41,7 +42,12 @@ The road in front of the Tohno estate has never attracted much traffic, and I'm 
 [sha:0e3e1c9e44a9aacc2534a51b799776b83b375466]{
 -- Page 478, Offset 23369.
 -- 今夜は特に寂しい。通り魔殺人の影響で交通量は減り、眼下に見える住宅地も大部分の明かりが消えている。
-It's particularly quiet tonight. Traffic has gone down because of the serial killings, and most of the lights coming from the residential district down below have already been turned off.
+// 交通量 generalized a bit because
+// 1. we use traffic on the line above and
+// 2. I think it's more general than _car_ traffic (driving around with a serial killer on the loose probably fine?)
+It's particularly quiet tonight.
+ People don't go out as much because of the serial killings,
+ and most of the homes in the residential district down the hill have already turned out their lights.
 }
 [sha:beabaab17e6d80a6b82c175d3d14a545631c6b51]{
 -- Page 478, Offset 23370.
@@ -51,12 +57,15 @@ Even though it's only 10 o'clock, the silence is reminiscent of the dead of nigh
 [sha:08f6f9197953ecf412f2af45280eca469811133f]{
 -- Page 479, Offset 23371.
 -- 10月も下旬にさしかかって、風も冷たさを帯びはじめている。
-As October nears its end, the wind is beginning to feel chillier.
+We're nearing the end of October,
+ and there's a faint chill in the air.
 }
 [sha:5c21cc1f424f6b4f9f93929504ae952dce9b8efd]{
 -- Page 479, Offset 23372.
 -- じき秋も終わる。凍える冬が来る前に何もかも終わってくれればいいのに、なんて、重みのない願望を口にした。
-Autumn will soon end. I know it's an insignificant wish, but I hope everything comes to an end before the biting cold of winter arrives.
+// Bruh winter starts in late _December_
+Autumn will also be over before long.
+ I idly mutter to myself that it'd be nice if this all gets wrapped up before the biting cold of winter arrives.
 }
 [sha:f6dea11fe26376d3c80da727fa132ae0fec54103]{
 -- Page 480, Offset 23373.
@@ -66,48 +75,58 @@ I walk along the perimeter of the estate.
 [sha:d3f14d4cf9a64eb12fe0173966aec1fa64f56e41]{
 -- Page 480, Offset 23374.
 -- ここから坂道を下りれば住宅地だ。
-Downhill is the residential district.
+Down the hill from here is the residential district.
 }
 [sha:d815218e3c1d2797a43fc49108d94f06d82f2c69]{
 -- Page 481, Offset 23375.
 -- 学校に向かう時は住宅地から南西方向に舵を切って繁華街を目指す。繁華街を抜ければすぐに駅なので、そのまま反対側の南口に出て、10分間も歩けば学校だ。
-When I'm heading to school, I head southwest from there toward the shopping district. I make my way through, eventually reaching the station, and then I exit through the South Gate on the opposite side.
+When I'm heading to school, I head southwest from there toward the shopping district.
+ After I make my way past the shops I end up at the north side of the station, so I cut through there to get to the south plaza.
+ From there, it's only another ten minutes or so on foot.
 }
 [sha:0c7d33841e6b2f619c4226d90e5e8d6855932876]{
 -- Page 482, Offset 23376.
 -- 今夜の目的地は南口の公園なので、繁華街を抜ける必要はない。住宅地をそのまま南下して、街を二分する高架線を抜ければ南口公園だ。
 // I thought it slightly confusing at first but the Souya map in the materials clarifies the path he takes.
-I'm heading to the park by the South Gate tonight, so there's no need to go through the shopping district. I just have to head south from the residential district, then once I pass under the elevated railway that bisects the town, I'll arrive at the park.
+// https://i.imgur.com/7eSq9vc.jpg
+Tonight I'm heading to the park over on the south side of town, so there's no need to pass through the shopping district.
+ If I just head due south through the residential district, there's an underpass under the tracks that bisect the city.
+ From there it's a straight shot to the park.
 }
 [sha:d953ec79700aee260de972090e4fc63a2959b5a0]{
 -- Page 482, Offset 23377.
 -- 10時まであと15分弱。
-There's a little less than fifteen minutes remaining before the clock strikes 10 o'clock.
+I've got a little under fifteen minutes before 10 o'clock.
 }
 [sha:3596a656a91f8d3d237658e1de7767723080e79b]{
 -- Page 482, Offset 23378.
 -- 繁華街を通らないので暗い夜道になるが、今夜は最短距離で待ち合わせ場所に急ごう。
-I have to navigate through the unlit streets because I'm not passing through the shopping district, but tonight my priority is getting to my destination as soon as possible.
+Not going through the shopping district means I'll be sticking to the unlit backstreets of the city,
+ but I've got to take the shortest route tonight if I want to make it in time.
 }
-[sha:8b315c8c79fa7660b72b99447eab487f2e95c651]{
+[offset:23379]{
 -- Page 483, Offset 23379. Mods: @n.
 -- ……
-...
+// I swear if I had a nickel for every time this bastard has a line that's just ...と
+// Factored some of 23381 out into this worthless preamble
+As I walk
 }
 [offset:23380]{
 -- Page 483, Offset 23380. Glued.
 -- と。
-And then.
+―――
 }
 [sha:afaf18a05e36cce864b90bc9dff3e5ff3d0e96bb]{
 -- Page 483, Offset 23381.
 -- その途中、屋敷の塀に黒い人影が見えた。
-Along the way, I notice a shadowy figure by the walls surrounding the estate.
+I catch sight of a shadowy figure by the wall surrounding the estate.
 }
 [sha:978c104eca2947f330435b2036e7ea936da97de4]{
 -- Page 483, Offset 23382.
 -- こちらの道行きを邪魔する……というものではなく、見送るように壁によりかかっている、修道服を着た少女。
-It was a young girl clothed in a habit, with her back to the wall. Rather than trying to get in my way, it was more like she was seeing me off.
+It's a young woman wearing in a habit, leaning against the wall.
+ She doesn't look like she's here to get in my way...
+ it's more like she's seeing me off.
 }
 [sha:f000f6e255426325d4ce516864089f3cd3f7cd22]{
 -- Page 484, Offset 23383. Mods: @n.
@@ -117,7 +136,7 @@ It was a young girl clothed in a habit, with her back to the wall. Rather than t
 [sha:9a6eda3cdf4ef23105756d94351d582c252586c2]{
 -- Page 484, Offset 23384. Glued.
 -- こんな夜更けに何処に行く気ですか」
-Where are you planning to go at this hour?"
+ Where do you think you're going at this hour?"
 }
 [sha:96ccbb8832e33a3e70b196869469d7a76b28af8b]{
 -- Page 484, Offset 23385.
@@ -127,7 +146,7 @@ I come to a stop.
 [sha:5cc4a5fd3722148d46130dded71a0cdd9ca696a8]{
 -- Page 484, Offset 23386.
 -- 先輩の眼差しは冷たく、その声も感情のないものだった。
-Her gaze was cold, and her tone emotionless.
+Her gaze is cold, and there's no emotion in her voice.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 485, Offset 23387.
@@ -137,22 +156,25 @@ Her gaze was cold, and her tone emotionless.
 [sha:4955b5f4adb4445b41ca29f9521fb3cfe9a8d57c]{
 -- Page 485, Offset 23388.
 -- 明日、学校で探し出そうとしていた先輩の方から来てくれた。
-I intended on looking for her at school tomorrow, but she beat me to it.
+I'd planned on looking for her at school tomorrow,
+ but she's beaten me to it.
 }
 [sha:38968c4d5edc99c3beac486dafa52ea9e0d6d5f0]{
 -- Page 485, Offset 23389.
 -- ……そんな、願ってもない<機会|チャンス>なのに、俺は先輩の顔をまっすぐに見られない。
-...Even though I've been granted this once-in-a-lifetime opportunity, I can't even look Senpai in the eye.
+Even though I've been granted this perfect opportunity,
+ I can't bring my self to look her in the eye...
 }
 [sha:760af6f5dd5bd52c1015057aa899196e3bcf7258]{
 -- Page 486, Offset 23390.
 -- ……できるならすぐに謝って仲直りがしたい。
-If possible, I want to apologize and make up with her as soon as possible.
+I want to apologize and make up with her as soon as possible,
+ assuming she's willing.
 }
 [sha:85add729c6d173bfa56a44619c560cba60291903]{
 -- Page 486, Offset 23391.
--- けれど、それには果たすべき条件がある。
-But, there's something really important that I have to do before that can happen.
+-- けれど、それには果たすべき条件がある
+But before I can, there's something I have to settle once and for all:
 }
 [sha:3152bc545c162cc590ecbe30e4f3069e4567b49d]{
 -- Page 486, Offset 23392.
@@ -162,7 +184,7 @@ How do I feel about Arcueid?
 [sha:f2e1c89c61f531142bff52cf78c352dacbd16628]{
 -- Page 486, Offset 23393.
 -- それをハッキリさせないかぎり、先輩とは話せない。
-As long as I can't come up with a clear answer, I can't talk to Senpai.
+I can't talk to Senpai until I've got a clear answer to that question.
 }
 [sha:18d3a8f5d2583daa73cbcaea0dd9dbbe5488510f]{
 -- Page 487, Offset 23394.
@@ -172,12 +194,16 @@ As long as I can't come up with a clear answer, I can't talk to Senpai.
 [sha:267a21ffde3b0a9d4e0890e227e0cc6171119ed7]{
 -- Page 487, Offset 23395.
 -- 「言い訳は聞きません。今こうしている事自体が貴方の心情を表していますから」
-"No need for excuses. Your current actions speak for themselves."
+"Don't bother making excuses.
+ Your current actions speak for themselves."
 }
 [sha:81b8a5c2bca223e42037aeb22f2dda7709f16606]{
 -- Page 488, Offset 23396.
 -- 「まったく。あれだけ言ったのに彼女の所に行くって言うんですね、遠野くんは。そんなに吸血鬼がいいんですか？　ああ、もしや永遠の命とか、そんな甘い見返りを夢見ていますか？」
-"Seriously? Even after everything I told you, you're still going to see her, huh? Do you love vampires that much, Tohno-kun? Or are you fantasizing about being rewarded with eternal life perhaps?"
+"Unbelievable...
+ Even after everything I told you, you're still going to see her, aren't you Tohno-kun?
+ Do you simply love vampires that much?
+ Ah, or could it be that you've been suckered by the sweet temptation of eternal life?"
 }
 [sha:3220f4d71a67a592ee39dc2a7f65f66f2ccc96e9]{
 -- Page 488, Offset 23397.
@@ -187,23 +213,28 @@ As long as I can't come up with a clear answer, I can't talk to Senpai.
 [sha:4d77982aee2573503299a9dd7278e8b075749b0d]{
 -- Page 489, Offset 23398.
 -- それは先輩から出たとは思えない、あからさまな侮蔑だった。
-I would've never expected to hear such contempt from Senpai.
+I would've never expected to hear such unbridled contempt coming from Senpai.
 }
 [sha:c2ae807403365f4946378d835c8011acc3dde51b]{
 -- Page 489, Offset 23399.
 -- 永遠の命……吸血鬼に噛まれ、死徒になれば不老不死のような<状|モ><態|ノ>になれるかもしれない、という誘惑。
-The temptation of eternal life... in other words, if I got bitten by a vampire and became a Dead Apostle, I might be able to achieve some sort of immortality.
+The temptation of eternal life...
+ I guess she's referring to how if I get bitten by a vampire and become a Dead Apostle,
+ I might be able to achieve some sort of immortality.
 }
 [sha:e9d3ba8dfb73388fec265d6b0037b9d9710b1874]{
 -- Page 490, Offset 23400.
 -- でも、しょせん人間と変わらない。ものを食べなければ死ぬし、殺されれば死ぬ当たり前のモノだ。
 // I'll let the editors debate on that one...
-But, in the end, they're no different from humans. If they don't feed, they'll die. They're beings that will unmistakably perish if they're slain.
+// P-People... if they're killed...
+But at the end of the day, they're no different from humans.
+ They die if they don't eat, and it's not like they can't be killed.
 }
 [sha:93da4ec73bca68d547796668f2f7d457ab978af7]{
 -- Page 490, Offset 23401.
 -- そんなこと、これまでで充分に思い知っているし、そもそも俺は―――
-After everything I've been through, I've come to understand that fact in its entirety. And besides, I―――
+I've seen enough to know that all too well by now.
+ And besides, I―――
 }
 [sha:32bcaad5ccfdeaf1b04cc6beff64179df28a5e0f]{
 -- Page 491, Offset 23402.
@@ -213,17 +244,18 @@ After everything I've been through, I've come to understand that fact in its ent
 [sha:534f81ce11115b89fdce9d01b4a25b81cb83a084]{
 -- Page 491, Offset 23403.
 -- はい、そうですよ。丈夫な体になれるなら、俺、アルクェイドのモノになってもいいんです」
-Yes, that's right. If it granted me a sturier body, I wouldn't mind falling under Arcueid's control."
+So yeah, you got me.
+ I wouldn't mind becoming Arcueid's plaything if it meant I could acquire a stronger body."
 }
 [sha:015792aa81bd560d8af339bf9fcd521d49199c99]{
 -- Page 492, Offset 23404. Mods: @n.
 -- 「え―――
-"Wh―――
+"%{i}Wh%{/i}―――
 }
 [sha:2df310db762087dbc937294b417e6ec49a4e8378]{
 -- Page 492, Offset 23405. Glued.
 -- えぇぇえ!?」
-Whaaaaaaaaat?!"
+%{i}Whaaaaaaaaat%{/i}?!"
 }
 [sha:aa5ee022def6a8b0e6028d3797b6677f27c5fe2a]{
 -- Page 493, Offset 23406.
