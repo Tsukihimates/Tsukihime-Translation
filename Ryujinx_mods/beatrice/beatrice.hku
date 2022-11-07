@@ -106,16 +106,18 @@ instrs 1441a8 80 {
        ldr w8, [x9, #0xd48]
 
        // compare orig char with 'A'
-       cmp w26, #0x41
-
+       cmp w8, #0x41
+       b.ne #0x18
+       cmp w26, #0x57
        b.ne #0x0c
-       fmov s8, #2.0
+       fmov s8, #30.0
+       nop
+       nop
        nop
        nop
        nop
        nop
        !jump #0x13bdec
-
 }
 
 // experimental access to test ip-relative offset trouble
