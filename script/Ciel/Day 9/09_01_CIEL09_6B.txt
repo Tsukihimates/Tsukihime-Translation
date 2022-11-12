@@ -544,43 +544,51 @@ The lines between them form layers and layers of walls,
 [sha:b6e49aeab96e96f9f2085ac7cb96064855615215]{
 -- Page 641, Offset 23794.
 -- ―――ところでアルクェイド。魔術世界における生命の質量定義は知っていますね？」
-By the way, Arcueid... I take it that you're familiar with the definition of the mass of life in the world of magecraft, yes?"
+By the way, Arcueid...
+ You're familiar with the concept of the 'mass of life' as it's used in magecraft, I assume?"
 }
-[sha:0338a6a3e74eefb5d78b685ab9ca30b7d59dbb94]{
+[offset:23795]{
 -- Page 641, Offset 23795.
 -- 「！」
-"Hah!"
+// Ugh these suck
+"%{i}Wha――!%{/i}!"
 }
 [sha:9b187c2b506b2da031259e96b6799973ae00ce4f]{
 -- Page 642, Offset 23796.
 -- 「生命そのものが持つエネルギー生産量、もしくは質量を段階として定義したものです。
 // i dunno if this is right but it makes more sense in 英語
-"It's defined as the classification of life itself into different categories based on mass or energy produced.
+// ~~Using existences over lives because we later use information/gossip as examples, and they aren't alive but they do exist~~
+// Okay fuck I kept going and apparently information is alive but barriers aren't
+// Phrasing it as 'life of it's own', since information / rumors aren't alive but _can_ be said to have a life of their own
+"It's a scheme for classifying anything with a life of its own,
+ based on by its mass and the amount of energy they produce.
 }
 [sha:99f6b64dd12726c06ee9e1902a078be4cfc9c598]{
 -- Page 642, Offset 23797.
 -- その基準はシンプルで、<規模|おおきさ>と<重量|おもさ>とで計られます」
-The criteria are simple. It is measured in scale and in weight."
+The criteria are simple: how large is it, and how much does it weigh."
 }
 [sha:327b6f0b746ec201c73369e6e0ba0f77a98ee15f]{
 -- Page 643, Offset 23798.
 -- 「一番強いものが“小さくて重いもの”。
-"The strongest are 'small and heavy' beings.
+"'Small and heavy' things are the strongest.
 }
 [sha:33fd0a59cb4b3ea86a5ea91c01b5a883f5c021e4]{
 -- Page 643, Offset 23799.
 -- 二番目に強いものが“大きくて重いもの”。
-Second are 'large and heavy' beings.
+Second are things that are 'large and heavy'.
 }
 [sha:279cc0304cd05b41964e45640fe26f980efddbd1]{
 -- Page 643, Offset 23800.
 -- 三番目が“小さくて軽いもの”。これは人間ですね。
-Third are 'small and light' beings. Humans are here.
+In third place are the 'small and light' lives.
+ This is where humans fit in.
 }
 [sha:bdab442b997ba36b6219020ab57b48a77a1f9efe]{
 -- Page 643, Offset 23801.
 -- そして最後に“大きくて軽いもの”。これは情報や噂話、幽霊といった広範囲に拡がるものです」
-And finally, 'large and light' beings which spread out far and wide, such as information and rumors, or ghosts."
+Finally, we have everything that's 'large and light'.
+ This includes anything that spreads itself over a large distance, such as information, rumors, or ghosts."
 }
 [sha:c5c87d5d9ec812e0c5ed5e41ddd9f74979b64c40]{
 -- Page 644, Offset 23802.
@@ -590,12 +598,16 @@ And finally, 'large and light' beings which spread out far and wide, such as inf
 [sha:65d40559b918c5637360e6f8eda03da57d6bfeb2]{
 -- Page 644, Offset 23803.
 -- 「わたしの大聖堂は最大直径30キロメートルの隔絶空間。生命ではありませんが、“大きくて重いもの”です。
-"My cathedral is an isolated space with a maximum diameter of 30 kilometers. It doesn't count as a lifeform, but it does fall under "large and heavy".
+"My cathedral is an isolated space with a maximum diameter of 30 kilometers.
+ It isn't strictly alive, but it does fall under 'large and heavy'.
 }
 [sha:fafc9199eefc800eab9824838e50c2b968368e16]{
 -- Page 644, Offset 23804.
 -- これを極限まで圧縮すればどうなるか、試してみるのも一興だと思いませんか？　いくら凶暴な貴女でも抜け出すにはそれなりの時間が必要になる。……少なくとも１時間は、超高密度の監獄を味わってもらいましょう」
-What would happen if I compressed it as much as possible? Wouldn't it be rather entertaining if I tried? No matter how much of a brute you may be, it'll take you quite some time to get out of it. I'll have you savor the inside of this ultra-dense prison for an hour, at the very least."
+What do you think happen if I compressed it as much as possible?
+ Are you as eager to give it a go as I am?
+ No matter how much of a brute you may be, it'll take you quite some time to get out of it.
+ How about I give you a taste of this ultra-dense prison for oh... let's say an hour?"
 }
 [sha:140917916b17440d223dcac45e4f610cdc204b51]{
 -- Page 645, Offset 23805.
@@ -615,42 +627,52 @@ The Executor raises her arm.
 [sha:3921628377c02a4ceaf04e71ea208ff359ebf82d]{
 -- Page 645, Offset 23808.
 -- 彼女は光の大聖堂を組み上げ、宝箱のフタを閉めるように、その空間を圧縮する。
-She completes the construction of the cathedral of light, compressing the space as if closing the lid of a coffer.
+// I feel like 宝箱 maybe makes more sense as like a safe (designed for keepin shit in)
+// than a more generic treasure chest, but googling 宝箱 yields some real yar-har pirate shit
+She completes the construction of the cathedral of light,
+ and compresses the space as through slamming down the lid of a treasure chest.
 }
 [sha:41f54fec2ecb1877155d92a5efd48a1cb6a8327b]{
 -- Page 645, Offset 23809.
 -- ―――する筈、だった。
-Or so she tried.
+Or rather, she %{i}tried%{/i} to.
 }
 [sha:4b2b1d1f0c7c0d59c99012d33ec225178916a561]{
 -- Page 646, Offset 23810.
 -- 「ふざけるなぁぁあああああーーーーー！」
-"Don't screw with me――――――!"
+"Quit fucking around―――!"
 }
 [sha:2e9ce97cad43a8dbe544b625c2097bb72a640125]{
 -- Page 646, Offset 23811.
 -- 「な……―――ごぶっ……!?」
-"Wha... Kuh?!"
+"Wha... %{i}Kuh%{/i}?!"
 }
 [sha:20163960d1e184a28969f0fb9050f6fbdf0a62de]{
 -- Page 646, Offset 23812.
 -- 吹き荒れる青い奔流と、見えざる一撃によって吹き飛ぶシエル。
-Ciel is sent flying by an unseen blow in a rushing torrent of blue.
+// Doesn't look that blue to me here
+An unseen blow,
+ along with the raging torrent of blue that concealed it,
+ sends Ciel flying backwards.
 }
 [sha:93de4b250dbe8557e5c3014102dcf559a8c45269]{
 -- Page 646, Offset 23813.
 -- アルクェイドを閉じこめていた塔は無残に砕かれ、地面に乱立していた光の柱は一掃された。
-The tower that once bound Arcueid has been mercilessly destroyed, and the pillars of light that were lined up on the ground have all been swept away.
+The tower that had bound Arcueid has been ruthlessly obliterated,
+ and the pillars of light that had been dotted across the ground have all been swept away.
 }
 [sha:5e40d2c6fd1323d2c5f77c0e592394c1f06bb279]{
 -- Page 647, Offset 23814.
 -- 「なによそれ。閉じこめるとか封じこめるとか、まわりを守ることばっかり……！
-"What are you even doing? Locking me up and sealing me... All you're trying to do is protect the people around you!
+"What are you even doing?
+ Locking me up, trying to seal me...
+ The only thing you're thinking about is protecting your surroundings!
 }
 [sha:4560b04a6b487d8753369e05282acc5c71e8eeec]{
 -- Page 647, Offset 23815.
 -- これはわたしとの遊びでしょう？　なら、もっと本気になりなさいよね！」
-Weren't you and I supposed to be having some fun? Come on, why don't you give it your all?!"
+Weren't you and I supposed to be having some fun?
+ Come on, stop holding back already!"
 }
 [sha:0f2c70a3c04ff2d7be23f862c3707474a8e66d69]{
 -- Page 647, Offset 23816.
@@ -660,76 +682,89 @@ Weren't you and I supposed to be having some fun? Come on, why don't you give it
 [sha:a101a6e6b8a4ca6639adb49331e6ed226cf7a16e]{
 -- Page 648, Offset 23817.
 -- アルクェイドは苛立ちを踏み倒すように仇敵へと歩を進める。
-// I'm really unsure on that one
-As if to trample on the source of her irritation, Arcueid begins walking toward her sworn enemy.
+Arcueid stats walking toward her enemy,
+ as though she intends to stamp out the source of her frustration.
 }
 [sha:d9409eedcd69476368321ee96b66f96119a85305]{
 -- Page 648, Offset 23818.
 -- シエルに“本気になれ”と吸血鬼は糾弾した。
-The vampire lambasted Ciel, telling her to give it her all.
+The vampire disparaged Ciel, and demanded she stop holding back.
 }
 [sha:1b16b32af519ff3345c9d480b85c56ee0e02f735]{
 -- Page 648, Offset 23819.
 -- ……だが、それは大きな過ちだ。
-However, she was gravely mistaken.
+Except... she's misunderstood completely.
 }
 [sha:8f8e60ef28737e4ae896013687a6321a48642fd4]{
 -- Page 648, Offset 23820.
 -- 代行者は本気だった。現状の限られた装備内での話だったが、文字通り全力を尽くしたのだ。
-The Executor was giving it her all. Certainly, some allowances have to be made considering her limited arsenal, but she has quite literally pulled out all the stops.
+The Executor was already giving it her all.
+ Certainly, some allowances have to be made considering her limited arsenal, but she has quite literally pulled out all the stops.
 }
 [sha:1fc6ad925799eeab2b3d04ee4b7ebe172b529865]{
 -- Page 649, Offset 23821.
 -- そもそも真祖……アルクェイドを相手にするのなら、それは防戦でなければならない。ある理由から、攻撃的であっては攻める方が自滅してしまうからだ。
-In the first place, defense is the only course of action that should be considered when faced with a True Ancestor. Reason being, attempting to mount an offensive would simply resulut in the attacker's self-destruction.
+Besides, if you're going to fight a True Ancestor――
+or, more specifically, Arcueid――
+the only option is to take the defensive.
+ Trying to take the lead and go in for the attack would only doom you to certain death.
 }
 [sha:795d164a73edeb5e2e912046f167a4c7cc85b7d8]{
 -- Page 650, Offset 23822.
 -- アルクェイドを本気で撃退するには、“一撃”で彼女を殺せる装備が必要になる。
-To truly drive back Arcueid, a weapon that can kill her 'in a single strike' is required.
+In order to actually stand a chance against Arcueid,
+ you need a weapon that can kill her with a single strike.
 }
 [sha:ae3e4a0516b882053148f4d844b1e65dd8a57002]{
 -- Page 650, Offset 23823.
 -- 少なくともシエルはそう考える。
-At least, that is what Ciel believes.
+That's what Ciel believes, at any rate.
 }
 [sha:a7dfbd446e51cdecce9094f8f42a19d8448df670]{
 -- Page 651, Offset 23824.
 -- 今回はその余裕がなく、また、相手の状態があまりにも異常すぎた。
-This time, she does not currently possess the ability to do that, and her foe's behavior is much too erratic.
+Right now, she doesn't possess such a weapon.
+ On top of that, her foe's behavior is staggeringly unusual.
 }
 [sha:61e657e0330670b78e578352634d9bd5d69b3d8b]{
 -- Page 651, Offset 23825.
 -- もはや彼女に待つのはいたぶり尽くされた後の死しかない。
-All that awaits her now is death, after she's been thoroughly tormented.
+All that awaits her now is torture, followed by death.
 }
 [sha:b8c2235fd9faba86723ebb942d18d61b25225119]{
 -- Page 651, Offset 23826.
 -- その現実を見据えながらも、彼女の胸によぎったものは死への恐怖ではなかった。
-Faced with this truth, it is not the fear of death that fills her heart.
+Even with this fate staring her in the eye,
+ it isn't the fear of death that fills her heart.
 }
 [sha:054356fd3d8223f7e8907308c44267c6cfdaa3ef]{
 -- Page 652, Offset 23827.
 -- “―――こんな、ことって―――”
-'―――I can't―――'
+"I... can't―――"
 }
 [sha:c7688dbe3d67d39275351788b58b50b2ac56b525]{
 -- Page 652, Offset 23828.
 -- たった一撃で内臓のほとんどが壊死している。
-Almost all her inner organs are necrotizing from just a single blow.
+// Necrosis comes up a surprising amount, and feels a bit technical here. Can revert if people feel strongly.
+The single strike she took was enough for most of her organs to start shutting down.
 }
 [sha:6591951385ae9c7b085296b2a9a4bcd496cfed5f]{
 -- Page 652, Offset 23829.
 -- 意識を失うほどの激痛に耐えながら、代行者は歩み寄る吸血姫を凝視する。
-The Executor scrutinizes the approaching vampire while enduring a pain so intense that it threatens to knock her unconscious.
+Even as the excruciating pain threatens to knock her unconscious,
+ the Executor continues to stare at the approaching vampire princess.
 }
 [sha:5b71670527de4f6aaa35a8a2cbcf63c13651275d]{
 -- Page 653, Offset 23830.
 -- “―――信じられない。あの<真|バ><祖|カ>、本当に自分の感情で力を使っていませんか―――!?”
-'―――believe it. Is that stupid True Ancestor really using her power based on her emotions?!'
+// This phrasing to preserve 'emotions', 'feels like it' maybe too weak?
+"―――believe it.
+ Is that stupid True Ancestor really using her power just because her emotions have gotten the better of her?!"
 }
 [sha:2727015a1dca16e0df29ecf7edb06f64210269db]{
 -- Page 653, Offset 23831.
 -- それは数多くの死徒を殺し、ヴローヴを破った彼女にとってすら夢だと信じたい、最悪の現実だった。
-The absolute worst outcome has come to pass. Even Ciel, who has exterminated countless Dead Apostles and triumphed over Vlov, wishes this terrible reality was just a dream.
+To Ciel, who has exterminated countless Dead Apostles and even vanquished Vlov,
+ %{i}that%{/i} is the most unthinkable outcome of all,
+ one she wishes were nothing more than a bad dream.
 }
