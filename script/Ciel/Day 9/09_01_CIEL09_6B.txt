@@ -179,7 +179,7 @@ Every single one of the Black Keys loosed at Arcueid has been Plated.
 -- Page 622, Offset 23732.
 -- 剣の雨を一身に受けながら、吸血鬼は笑みを浮かべたまま代行者に肉薄する。
 // They're all coming horizontally here, so avoiding fall/rain wording
-Weathering the storm of blades as if it were merely a stiff breeze,
+Weathering the storm of blades as if it were nothing more than a stiff breeze,
  the vampire closes in on the Executor with a smile on her face.
 }
 [sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
@@ -269,7 +269,7 @@ Or rather, there aren't many %{i}ordinary%{/i} Executors that choose to.
 -- 前時代の武装と笑うなかれ。千年もの歴史は黒鍵に様々な<種|バ><類|リエ>を生み出した。
 Such tried and true weapons should not to be taken lightly.
  More than a thousand years have passed since their inception,
- and in that time all manner of specialized variants have been developed.
+ and in that time all manner of specialized versions have been developed.
 }
 [sha:367bc5b96f46653a2266c8c2a2dabed658850a68]{
 -- Page 627, Offset 23748.
@@ -280,7 +280,7 @@ This is one such variant: the Cremation Rite.
 -- Page 627, Offset 23749.
 -- 不浄なる<活きる屍体|リビングデッド>を焼き尽くす、摂氏五百度の炎の壁。
 A wall of flames that burns at five hundred degrees Celsius,
- reducing any foul living dead in its path to ashes in its wake.
+ capable of reducing any foul living corpse in its path to ashes in its wake.
 }
 [sha:6809046c4bdb3c5bf73c76e01619f0155e4a3f09]{
 -- Page 628, Offset 23750.
@@ -376,6 +376,7 @@ What happened to those weapons you used against Vlov?
 [sha:4072a2b1a691d94fc01633d0893347c4b5fd5f24]{
 -- Page 633, Offset 23766.
 -- 「勝手な、コトを―――」
+// Page has 2 forced linebreaks in it, as a result v tight / has to be playtested on change
 "Could you please stop―――"
 }
 [sha:3a9dbc7f765d360797477c593b56ad2ba0c5cf97]{
@@ -510,7 +511,7 @@ Give it up, Arcueid.
 [sha:aac92d5c695f1c856b1c3831a5700c73779f647a]{
 -- Page 639, Offset 23788.
 -- 「加えて、なによ。やっぱりあの武器を持ってくるの？」
-"Besides, what? Did you bring that weapon, after all?"
+"Besides, what? Did you bring that weapon after all?"
 }
 [sha:81cd2bbf193ec5a055a6b0d883c63ef8d2a20a9d]{
 -- Page 640, Offset 23789.
@@ -537,7 +538,7 @@ The lines between them form layers and layers of walls,
 [sha:c7186a1e8653f6043e2e817bee1963a07f36691d]{
 -- Page 641, Offset 23793.
 -- 「それは<大聖堂|ゴチックフォート>。ある祖から奪い取った原理を用いた結界です。本来は外界との遮断に用いますが、使い方によっては最大の武器にもなる。
-"This is my <cathedral|G o t h i c  F o r t   >, a barrier that makes use of the Principle I seized from a certain Ancestor.
+"This is my <cathedral|G o t h i c  F o r t     >, a barrier that makes use of the Principle I seized from a certain Ancestor.
  I normally just use it to create a space that's cut off from the outside world,
  but it can also be fashioned into an incredibly fearsome weapon.
 }
@@ -551,7 +552,7 @@ By the way, Arcueid...
 -- Page 641, Offset 23795.
 -- 「！」
 // Ugh these suck
-"%{i}Wha――!%{/i}!"
+"%{i}Wha―――%{/i}!"
 }
 [sha:9b187c2b506b2da031259e96b6799973ae00ce4f]{
 -- Page 642, Offset 23796.
@@ -561,7 +562,7 @@ By the way, Arcueid...
 // Okay fuck I kept going and apparently information is alive but barriers aren't
 // Phrasing it as 'life of it's own', since information / rumors aren't alive but _can_ be said to have a life of their own
 "It's a scheme for classifying anything with a life of its own,
- based on by its mass and the amount of energy they produce.
+ based on both its mass and the amount of energy it produces.
 }
 [sha:99f6b64dd12726c06ee9e1902a078be4cfc9c598]{
 -- Page 642, Offset 23797.
@@ -588,7 +589,7 @@ In third place are the 'small and light' lives.
 -- Page 643, Offset 23801.
 -- そして最後に“大きくて軽いもの”。これは情報や噂話、幽霊といった広範囲に拡がるものです」
 Finally, we have everything that's 'large and light'.
- This includes anything that spreads itself over a large distance, such as information, rumors, or ghosts."
+ This includes anything that spreads itself over a large area, such as information, rumors, or ghosts."
 }
 [sha:c5c87d5d9ec812e0c5ed5e41ddd9f74979b64c40]{
 -- Page 644, Offset 23802.
@@ -604,7 +605,7 @@ Finally, we have everything that's 'large and light'.
 [sha:fafc9199eefc800eab9824838e50c2b968368e16]{
 -- Page 644, Offset 23804.
 -- これを極限まで圧縮すればどうなるか、試してみるのも一興だと思いませんか？　いくら凶暴な貴女でも抜け出すにはそれなりの時間が必要になる。……少なくとも１時間は、超高密度の監獄を味わってもらいましょう」
-What do you think happen if I compressed it as much as possible?
+What do you think would happen if I compressed it as much as I could?
  Are you as eager to give it a go as I am?
  No matter how much of a brute you may be, it'll take you quite some time to get out of it.
  How about I give you a taste of this ultra-dense prison for oh... let's say an hour?"
@@ -617,7 +618,7 @@ What do you think happen if I compressed it as much as possible?
 [sha:144fdd2d5148ce7881ea8e06829201f1d2fcc5c6]{
 -- Page 645, Offset 23806.
 -- 「<原理血戒|イデアブラッド>22番―――クロムクレイ・ペタストラクチャ」
-"<Hemonomic Principle|I d e a  B l o o d> Number 22: Chromclay Petastructure"
+"<Hemonomic Principle|I d e a  B l o o d       > Number 22: Chromclay Petastructure"
 }
 [sha:0b3bf4f9649250bd15b2e4d923407bba15bce856]{
 -- Page 645, Offset 23807.
@@ -659,7 +660,7 @@ An unseen blow,
 -- Page 646, Offset 23813.
 -- アルクェイドを閉じこめていた塔は無残に砕かれ、地面に乱立していた光の柱は一掃された。
 The tower that had bound Arcueid has been ruthlessly obliterated,
- and the pillars of light that had been dotted across the ground have all been swept away.
+ and the pillars of light dotted across the ground have all been swept away.
 }
 [sha:5e40d2c6fd1323d2c5f77c0e592394c1f06bb279]{
 -- Page 647, Offset 23814.
@@ -682,7 +683,7 @@ Weren't you and I supposed to be having some fun?
 [sha:a101a6e6b8a4ca6639adb49331e6ed226cf7a16e]{
 -- Page 648, Offset 23817.
 -- アルクェイドは苛立ちを踏み倒すように仇敵へと歩を進める。
-Arcueid stats walking toward her enemy,
+Arcueid starts walking toward her enemy,
  as though she intends to stamp out the source of her frustration.
 }
 [sha:d9409eedcd69476368321ee96b66f96119a85305]{
@@ -766,5 +767,5 @@ Even as the excruciating pain threatens to knock her unconscious,
 -- それは数多くの死徒を殺し、ヴローヴを破った彼女にとってすら夢だと信じたい、最悪の現実だった。
 To Ciel, who has exterminated countless Dead Apostles and even vanquished Vlov,
  %{i}that%{/i} is the most unthinkable outcome of all,
- one she wishes were nothing more than a bad dream.
+ one she desperately wishes were nothing more than a bad dream.
 }
