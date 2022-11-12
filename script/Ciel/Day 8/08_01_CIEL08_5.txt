@@ -1,7 +1,8 @@
 [sha:4400d222c1c8e0e710f84a60a3c3486b4f3f5fef]{
 -- Page 10013, Offset 19319.
 -- 振り上げられた鉄の塊は、停止する事なく振り下ろされた。
-The raised mass of metal is swung down without a shred of hesitation.
+// Metal changed to steel for collocation
+The raised mass of steel is swung down without a shred of hesitation.
 }
 [sha:91d22d33572ee4774b64b0190883466df9d4bc34]{
 -- Page 10013, Offset 19320.
@@ -12,9 +13,10 @@ A beaten-up relic of a weapon that has been so worn down by years of use that it
 [sha:fbee3d276a648f5f47d28a2e8b23fc999f162b9d]{
 -- Page 10013, Offset 19321.
 -- 鉄の先端には直径50センチ以上の刃物が付いている。
+// Steel qualifier dropped because reified above
 // 50cm _diameter_ for a blade is a bit weird. We're talking about Noel's halberd here,
 // so I assume this is referring to the axe-like blade that's more like 50cm _wide_ since it's not a cylinder.
-At the tip of this iron weapon is a wide blade, over fifty centimeters from edge to edge.
+At the tip of this weapon is a wide blade, over fifty centimeters from edge to edge.
 }
 [sha:919d779b165aacd4e521b67267b610b1cd95e4b1]{
 -- Page 10013, Offset 19322.
@@ -70,8 +72,8 @@ The city has become far too dangerous for vampires.
 [sha:5b300d5ee4192a2896ca5421a65606285f790c7a]{
 -- Page 428, Offset 19331.
 -- 真祖の姫と代行者。二つの“処刑人”の手で、刻一刻と逃げ場はなくなっていく。
-They're caught between the Princess of the True Ancestors and the Executors.
- As their executioners close in on them from both sides, their chances of escape dwindle by the second.
+They're caught between the Princess of the True Ancestors on one side, and the Executors on the other.
+ As their executioners close in, their chances of escape dwindle by the second.
 }
 [sha:6a7bc71371a68141cb3a7b5b57ce034c4f6252ff]{
 -- Page 428, Offset 19332.
@@ -101,12 +103,12 @@ Holding her weapon in one hand,
 [sha:ba2f7df8a8154e1bfcf838166380a67f405b73c6]{
 -- Page 430, Offset 19336.
 -- 周りには13人もの人の顔。
-Surrounding her is an array of thirteen different faces.
+She's surrounded by a crowd of thirteen people.
 }
 [sha:4535d22a976cc03148efcdd3b18f086010861c48]{
 -- Page 430, Offset 19337.
 -- みな、シスターを頼って集まった、哀れな<逃亡者|きゅうけつき>たちだった。
-Each and every one of them belongs to a pathetic fugitive vampire,
+Each and every one of them a pathetic fugitive vampire,
  who had gathered here because they believed the nun's words.
 }
 [sha:57a4619cc9a202751430b2a3aeb10e204f6e2448]{
@@ -199,7 +201,7 @@ Gazing with satisfaction at the scene, the nun slowly walks forward.
 -- Page 436, Offset 19352.
 -- 「あらあら。危機感のないいい子ちゃんばかりなのに、こういう時の反応はどこの国でも一緒なのね。
 "My oh my.
- You may all be good little boys and girls with no sense of danger,
+ You may all be good little boys and girls, oblivious to danger,
  but it seems that the reaction at a time like this is the same no matter which country you're from.
 }
 [sha:ad8ac9d76e8917cabb1e238167af4f766fd3824f]{
@@ -295,7 +297,7 @@ It wouldn't have any effect on a real human,
 -- Page 442, Offset 19367.
 -- “なんで!?　指定額は用意しただろう!?　なんで逆に殺されるんだよ!?”
 // Voiced
-"Why?! I paid what you asked, didn't I?! Why are you killing me instead?!"
+"Why?! I paid what you asked, didn't I?! So why are you killing me?!"
 }
 [sha:ee853c1073d0bbcb948c14f22113a1aae6b9dde9]{
 -- Page 442, Offset 19368.
@@ -351,7 +353,8 @@ The scream wrung from the victim of her blow seems to have driven her wild with 
 -- Page 445, Offset 19376.
 -- ああもうグズが、モタモタしてんじゃねえよ！　あんな女、外にさえ出ればカンタンに”
 // VA is SCREECHING this one, give that extra a raise
-%{i}Ugh%{/i}, get a fucking move on, you slowpoke!
+// Play around with how to emphasize these nicely
+%{i}Ugh, get a fucking move on, you motherfucker%{/i}!
  We can handle that bitch if we can just get out of here!"
 }
 [sha:0cc8cd6bd04bfc4a6da518356ac52368c332e158]{
@@ -365,14 +368,15 @@ The scream wrung from the victim of her blow seems to have driven her wild with 
 [sha:2cabdf5a51a7341035a6fdf238cc444ce1a66e68]{
 -- Page 446, Offset 19378.
 -- “ひぃ……やめ、やめて、たすけ―――助けて、助けて神さま、助けて……！”
-"%{i}Eek%{/i}... stop, stop, help――Help me, help me please God, help...!"
+// lint-off:LintDupedWord
+"%{i}Eek... stop, stop, help%{/i}――Help me, help me please God, help...!"
 }
 [sha:000dc8425fcc6be3d2999e2479c8e12d081e1c1e]{
 -- Page 446, Offset 19379.
 -- “ひでぇ……祈ってたのに、ちゃんと神さまに手を合わせて祈ってたじゃねえか！　この人殺し……！　てめえのどこがシスターだ！”
 "How could you... I prayed!
  I put my hands together and prayed like I was supposed to!
- You murderer...!
+ You murderer!
  How the fuck are you a nun?!"
 }
 [sha:6ef2a4885b461a5512a3c70e6ce5d72317203906]{
@@ -399,10 +403,11 @@ I'm a murderer?
 [sha:fc47ed0d91912ea1225b950fbef8c6970a16d74a]{
 -- Page 448, Offset 19383.
 -- “ひぃ……ひぃいい、ぎぃぃいいいいいいい！？　やめ、やめて、すみませんごめんなさい、あやまります、あやまりますからああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ！”
-// Very important to have the same number of あ and a. Editors, do your job!
 // Fucking had to go rewrite the text injector because of this line
-// you were 42 a's too many
-"Haa...haaaaaa, gyarghhhhhhhhhh?! Sto, stop, I'm sorry, so sorry, I apologize, I apologize, so pleaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaase!"
+// Intentionally scrolls all the way off the page
+// lint-off:LintPageOverflow
+"%{i}Haa%{/i}...%{i}haaaaaa%{/i}, %{i}gyarghhhhhhhhhh%{/i}?! Sto, stop, I'm sorry, so sorry, I apologize, I apologize, so
+ pleaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
 }
 [sha:0b60a3a49cbbd1c602172f946c2d4dff0b475bd7]{
 -- Page 449, Offset 19384.
@@ -499,8 +504,8 @@ obliterates the broken record.
 -- Page 453, Offset 19400. Glued. Mods: @x.
 -- 安心してみんな。今ので満足しちゃったし、あなたたちは適当で済ませるから。手抜き作業でごめんなさいね」
  But don't worry, everyone.
- I've had my fill now, so I'll be sure to deal with the rest of you by the book.
- You'll have to excuse me for cutting some corners, though."
+ I've had my fill now, so I'm afraid I'm going to half-ass dealing with the rest of you.
+ You'll have to excuse me for cutting some corners."
 }
 [sha:9b43c70ad230851bd4deb3994239a9c6c7896487]{
 -- Page 454, Offset 19401.
@@ -527,7 +532,7 @@ They scream with every fiber of their beings,
 [sha:74ec8b06640c451c79f29369e73aa4ae0346bcd3]{
 -- Page 455, Offset 19405.
 -- “やだ、やだ、やだ、やだ……！　お願い、殺さないで、殺さないで、殺さないでください、神さま……！”
-"No, no, no, no...! Please, don't kill me, don't kill me, please don't kill me! Oh God...!"
+"No, no, no, no! Please, don't kill me, don't kill me, please don't kill me! Oh God...!"
 }
 [sha:70c0962097732b6caaa2a581abf9ad24b6b36320]{
 -- Page 455, Offset 19406.
@@ -545,7 +550,7 @@ They scream with every fiber of their beings,
 -- “待ってよ、アタシはまだ誰も食べてない！　昨日コイツらに襲われてまだ吸血鬼にもなってないのに、まだ一つもいい目にあってないのにこんなのってな……！”
 "Wait, I haven't eaten anyone yet!
  I wasn't even a vampire until these guys attacked me yesterday,
- I haven't had a chance to live it up yet, so why is this happening...!"
+ I haven't had a chance to live it up yet, so why is this happeni―――!"
 }
 [sha:a0469f51d9d078b87a930588e86c6eed53c590ef]{
 -- Page 457, Offset 19409.
@@ -582,7 +587,7 @@ The lone survivor takes this opportunity to address a question to her defenseles
 [sha:02c06a17abc3774fdf39863093d050c8ee0208c1]{
 -- Page 459, Offset 19415.
 -- なのにどうして、こんな……助けてやるなんて希望を持たせて殺しやがった!?
-So why... why are you killing us after you gave us false hope we'd be saved?!
+So then why... why would you give us false hope only to kill us?
 }
 [sha:1130df51fb837dcb0ed62d565262badf62fc9b76]{
 -- Page 459, Offset 19416.
@@ -599,8 +604,9 @@ The nun is taken aback by the vermin's unexpected outburst.
 [sha:769db74da79d9ece1ade7c7618ce836e4a91c222]{
 -- Page 460, Offset 19418.
 -- 彼女は本当に驚いた。獲物がこの期に及んで人間らしい崇高さを見せたから……ではない。
+// Better way to handle double-surprise?
 She's legitimately surprised.
- Is she surprised because her prey has, in his final moments, demonstrated an almost human nobility? No.
+ Is it because her prey has, in his final moments, demonstrated an almost human nobility? No.
 }
 [sha:9eecdca87ba75b45404ac00c02be924952667cc3]{
 -- Page 461, Offset 19419.
@@ -646,7 +652,7 @@ I'm weak, so I only pick on those even weaker than me.
 // Need to reify the cream -> 甘 sweet/naive a bit for EN
 %{i}Sigh%{/i}, I can't believe it.
  You guys really are rotten to the brain.
- Or is that skull of yours just filled with cream instead?
+ Or is that skull of yours just filled with whipped cream instead?
  It is, isn't it?
  It's because that grey matter of yours is so sweet and naïve that God didn't save you, y'know."
 }
@@ -722,9 +728,9 @@ Though she excels in dealing with enemies weaker than her,
 [sha:7c41bc3e70e08ac66e6b13d69a24105b730c4d8d]{
 -- Page 468, Offset 19439.
 -- つねに最悪のケースを想像して自分を追い詰めてしまう性格が、彼女に本来の実力を発揮させないからだ。
-She can't help but imagine the worst scenario that might occur,
- and because of this personality trait she always backs herself into a corner,
- preventing herself from achieving her true potential.
+She can't help but imagine the worst scenario,
+ and because of this personality trait she always puts herself down,
+ preventing her from achieving her true potential.
 }
 [sha:422f08de5fe9fd6a8585e02ca8d13758cc49da11]{
 -- Page 469, Offset 19440.
@@ -748,7 +754,7 @@ She hasn't even seen them yet,
 [sha:cb90775557fe2793933374bc29b6feb6d4a4f6f6]{
 -- Page 470, Offset 19443.
 -- 「マーリオゥ、司祭代行……？」
-"Acting Presbyter Mario...?"
+"Acting Presbyter... Mario?"
 }
 [sha:08da32e6d979b256e282c67504eea1164703e51e]{
 -- Page 470, Offset 19444.
@@ -783,7 +789,7 @@ She doesn't relax just yet, though.
 -- Page 472, Offset 19449.
 -- 死徒どもに懺悔の機会なんぞを与えやがったのは見なかった事にする。代行者の殺し方はそれぞれだからな。
 I'll pretend I didn't see you offer those Dead Apostles a shot at redemption.
- Each Executor's got their own particular flavor of murder, after all.
+ Each Executor's got their own particular flavor of murder, and all.
 }
 [sha:8140564cea29305a68e6eb223b64c7de1cd3bd04]{
 -- Page 472, Offset 19450.
@@ -818,7 +824,7 @@ That girl chose to work with them despite being human, making her responsible fo
 [sha:63f566c56f8bf7e73c1565100670ca85b5a39ccd]{
 -- Page 474, Offset 19455.
 -- 定期連絡はしていますし、わたしの単独行動は許可されているのではないのですか？」
-I have maintained regular contact, and I'm allowed to act independently, aren't I?"
+I have maintained regular contact, and I have permission to act independently, don't I?"
 }
 [sha:80170603f29b66235da16b3d024429894db64f5e]{
 -- Page 475, Offset 19456.
@@ -835,13 +841,13 @@ I have maintained regular contact, and I'm allowed to act independently, aren't 
 -- Page 476, Offset 19458.
 -- 「代行者シエルはテメェとのコンビを解くとよ。できうるかぎり早くテメェを引き取れなんて言ってきやがった。
 "Executor Ciel's cutting you loose.
- She told me to come pick your ass up as soon as I could.
+ Told me to come pick your ass up as soon as I could.
 }
 [sha:62cb8dc79b182a4c9494ae6a0870d05f9a4fcdb6]{
 -- Page 476, Offset 19459.
 -- なんで、近いうちにテメェはオレの預かりだが……スコアも悪い、精神も不安定な不良物件を使うほどマヌケじゃねえ。
 // Again the 'score' thing. Not really worth calling back imo
-So, them's the breaks. You're my problem now, but... your performance sucks, and you've got more than a few screws loose.
+So, them's the breaks. You're %{i}my%{/i} problem now, but... your performance sucks, and you've got more than a few screws loose.
  I'm not dumb enough to use a gun that might go off in my face.
 }
 [sha:12b71e01ce2940729d4f0611369fa38aed159ef2]{
@@ -864,15 +870,14 @@ An institution for those among the faithful who wish to withdraw from the earthl
 [sha:d0181ef4ae26873c138c9a9fd33826704e3c51fe]{
 -- Page 477, Offset 19463.
 -- 法王庁が世界でもっとも小さな国であるように、修道院もそれぞれが独立した閉鎖世界といっていい。
-// Assuming it is a singular Monastery
 Just as the Vatican constitutes the smallest country on earth,
- it could be said that the monastery represents an independent world in its own right,
+ it could be said that each monastery represents an independent world in its own right,
  sealed off from the rest of society.
 }
 [sha:5dcfcaf28685addb3815503e5075d151b796f15d]{
 -- Page 478, Offset 19464.
 -- 修道女はその後の一生を院内で完結させる事を誓約し、この完成された共同体の一員となる。
-Nuns who pledge to spend the remainder of their lives inside its walls become members of this perfected collective.
+Nuns who pledge to spend the remainder of their lives inside its walls become members of this self-contained collective.
 }
 [sha:7ccc13bf103c9085c4c29fbf8acb87ae28499ad3]{
 -- Page 478, Offset 19465.
@@ -902,7 +907,7 @@ Due to her peculiar circumstances, the only path not denied to Noel is that of a
 -- なので修道院での再教育は代行者としてのものになる。若い時分なら耐えられた過酷な鍛錬に、今の自分がついていけるとは、彼女にはとても思えない。
 As such, the re-education curriculum she would face at the monastery would be that of an Executor.
  While she'd been able to endure the harsh training once before in her youth,
- she knew there was no chance she'd be able to do so again as an adult.
+ she knows there was no chance she'd be able to do so again as an adult.
 }
 [sha:a8fb06843d1618cefca7e5ea80e6131be4ebe1da]{
 -- Page 481, Offset 19470.
@@ -996,7 +1001,7 @@ Her behavior is extremely suspicious.
 [sha:eaebff30976fb16df229b4f7cb25aa11d2563863]{
 -- Page 485, Offset 19485.
 -- ……司祭代行も彼女の経歴はご存じでしょう？　彼女は<十五|キャーンズ>です。なら、いま拘束すべきはわたしではなく……！」
-You're aware of her history, aren't you, Acting Presbyter?
+You are aware of her history, aren't you, Acting Presbyter?
  That woman is <Quinze|F i f t e e n   >!
  %{i}I'm%{/i} not the one you should be trying to lock up right now!"
 }
@@ -1012,7 +1017,7 @@ You're aware of her history, aren't you, Acting Presbyter?
 It's fine, she is who she is.
  Doesn't matter to her if she has to work alone or go against her superiors.
  She'll kill Roa no matter what it takes.
- It's the only thing she %{i}can%{/i} do, after all."
+ That's the only thing she cares about, after all."
 }
 [sha:954b120245eb75674201907dab229ffd855865cd]{
 -- Page 487, Offset 19488.
@@ -1061,13 +1066,13 @@ After checking that the boy is definitely gone,
 [sha:149f1984ce5e9c1ea15ca0e3902f6e54fd892361]{
 -- Page 490, Offset 19495.
 -- 「なによあのガキ……！　なんなのよ言いたい放題！
-"What's with that brat...?!
+"What's with that brat?!
  Where does he get off, running his mouth like that?!
 }
 [sha:e30519101f5706e378c720977584f3e9c1ae0e94]{
 -- Page 490, Offset 19496.
 -- 子供のクセに、大人を舐めるんじゃないっての……！」
-You're just a kid, don't you fucking dare talk to an adult like that...!"
+You're just a kid, don't you fucking dare talk to an adult like that!"
 }
 [sha:a040de332bee6ff309a23c7ffad4f0e22fbd14dc]{
 -- Page 490, Offset 19497.
@@ -1108,7 +1113,7 @@ But in her emotional frenzy, she swung it without using that sacrament even once
 [sha:d0ebccc004aafec21b0bdc83827468268c4b3a59]{
 -- Page 492, Offset 19503.
 -- 腕の筋肉が断裂していてもおかしくない自暴自棄に、女は乾いた笑いをこぼす。
-The woman smiles coldly at her own desperation.
+The woman smiles coldly at her own despair.
  It wouldn't be surprising if she'd shredded her own arm muscles while thrashing around like that.
 }
 [sha:b20066febdf823c42ef13d31c4b362f5a68e2169]{
@@ -1206,7 +1211,7 @@ She clamps a filthy hand over her mouth, holding back the 'thing' that threatens
 [sha:4988bcacbd4d6ec81682fcba417c1e06132309fe]{
 -- Page 499, Offset 19521.
 -- 「……だいじょうぶ、神さまは見てくれてる……アタシはいい子にしてたもの……きっと助けてもらえる……わたしは、何も悪いコトなんかしてない。だから―――」
-"It's okay... God is watching over me... I've been a good girl... I'll be saved, for sure... I haven't done anything bad. So―――"
+"It's okay... God is watching over me... I've been a good girl... He'll definitely save me, for sure... I haven't done anything bad. So―――"
 }
 [sha:c7b352d24526ff8da6a53e901f3e698b5a190d5b]{
 -- Page 500, Offset 19522. Mods: @c.
@@ -1232,7 +1237,7 @@ If I do that, I'll be saved.
 "Yeah... that's right, Noel.
  You became an Executor.
  You became stronger for this.
- You're not going to let some brat, or that woman, tell you what to do―――"
+ You're not going to let some brat, or that bitch, tell you what to do―――"
 }
 [sha:57eb3dcdbc995251705ddf5a7acb2fbb9e84ee77]{
 -- Page 501, Offset 19526.
