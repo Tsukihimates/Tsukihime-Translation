@@ -199,7 +199,9 @@ I was just trying to say that I like you!"
 [sha:7ba38aa2dafdf86e854a745563bde045bcdc99ed]{
 -- Page 706, Offset 23972. Glued. Mods: @x.
 -- せいぜい血を吸われないよう気をつけるコトね！」
- You'd better make sure nobody sucks your blood though, you hear me?!"
+// This is vaguer in the JP, but also more awkward in EN that way.
+// Given how this is circled back to later in the file, it feels safe to reify 'she' here.
+ You'd better make she doesn't suck your blood though, you hear me?!"
 }
 [sha:0d3fde401093eae5648083e4e37982c4c17e3aec]{
 -- Page 706, Offset 23973.
@@ -332,67 +334,76 @@ I didn't mean to put you in a tight spot."
 [sha:4810205cb5b2239903c7fad26b15fcab7a4a80e6]{
 -- Page 715, Offset 23997.
 -- 「？　さっきのって、アルクェイドの事？」
-"Eh? By earlier, do you mean with Arcueid?"
+// ? not voiced
+"By earlier, you mean with Arcueid?"
 }
 [sha:120fad8059e7df5978214f398d470e90a3a1cd54]{
 -- Page 716, Offset 23998.
 -- 「そ、そうじゃなくて、お屋敷から公園までのコト、とか。
-"N-No, I meant like all of the stuff that happened on the way to the park―――
+"N-No, I meant like all of the stuff that happened on the way from your house to the park.
 }
 [sha:4dcb2599d4306f00d3b14745690d798f3c1cb418]{
 -- Page 716, Offset 23999.
 -- ……昼間の茶道室のコト、とか」
-Or like, our argument in the tea ceremony room this afternoon."
+As well as... what happened in the tea ceremony room this afternoon."
 }
 [sha:59008bed95db5fb924342ca987dbe47c4640d837]{
 -- Page 717, Offset 24000.
 -- そんなコト、謝るのは俺の方だ。
-I'm the one who should be apologizing.
+No, that's something %{i}I%{/i} should be apologizing for.
 }
 [sha:6df1669b1530b91dffce0c65b84750f1bee58ff9]{
 -- Page 717, Offset 24001.
 -- けど、それを口にしても先輩はますますかしこまってしまうだろう。先輩が謝りたいと言っているのなら、素直に聞いてあげたい。
-Saying that to her would probably just make her feel even worse. Senpai's saying she wants to apologize, so the best thing I can do right now is hear her out.
+Though, if I said that out loud, it'd probably only make her feel even worse.
+ If Senpai wants to apologize, the best thing I can do is let her.
 }
 [sha:cbf55e79b85f2d9e9f279d31303abeee76f62c36]{
 -- Page 718, Offset 24002.
 -- ……それに。俺も先輩と和解できるのなら、こんなに嬉しいコトはない。
-Plus... Nothing would make me happier than being able to reconcile with Senpai.
+Plus... if this gives me a chance to patch things up with Senpai, then I couldn't be happier.
 }
 [sha:00794814fef4d588b659c42afc7e797fefdfa3ba]{
 -- Page 719, Offset 24003.
 -- 「うん、そうですね。じゃあケンカ両成敗ってコトで、仲直り、してください。明日になったら先輩に無視されるとか、考えるだけで怖いですから」
-"Hmm, how about this? Both of us are at fault, so can we please put this behind us? The mere thought of being ignored by you tomorrow scares me."
+// Assuming this is the indent of そうですね here, since he's talking about letting her apologize
+// Anyway time to kiss and make up
+"Alright, I accept your apology.
+ Sounds like we're both to blame here, so how about we agree to put all this behind us?
+ I don't think I could go on if I showed up at school tomorrow and you just ignored me."
 }
 [sha:08ecf8ffd53d3410d50fec7397b4823f581bf205]{
 -- Page 719, Offset 24004.
 -- 「そ、そうですか。そんなコトでいいなら、喜んで」
-"I-Is that so? In that case, I'll gladly... accept your offer."
+"I-Is that so?
+ If you're okay with it then yeah, I'd love to."
 }
 [sha:704b63cd748146f30afabad92de023bf2ac4c143]{
 -- Page 720, Offset 24005.
 -- 先輩は照れくさそうに身を縮ませると、どこからか眼鏡を取り出してかけ直した。
-Senpai huddles up in embarrassment before taking out a pair of glasses from who-knows-where and putting them on.
+// 身を縮まる is an awkward body lang in EN, so tweaked a bit
+Senpai spends a moment fidgeting in embarrassment,
+ then pulls out a pair of glasses from who-knows-where and puts them on.
 }
 [sha:7a293404624ec872e9a3b59d24f6150f63a078c4]{
 -- Page 721, Offset 24006.
 -- 「……と。それより先輩、体は大丈夫ですか？」
-"Phew... More importantly, Senpai, how are your injuries?"
+"Oh――more importantly, Senpai, how are your injuries?"
 }
 [sha:bcbd5c2ba2ac7aec1bfeefb698ebc561f9b7bb6c]{
 -- Page 721, Offset 24007.
 -- 一歩下がって先輩の体を確かめる。
-I take a step backward to check on Senpai's injuries.
+I take a step backward to get a clearer view of Senpai's body.
 }
 [sha:658a238d1167b661dd0ab721a52b060a3efe67ad]{
 -- Page 721, Offset 24008.
 -- さっきまで地面を血に染めていたぐらいだから、今すぐ傷の手当てをしない、と………
 She was gushing blood all over the place just a few minutes ago. I need to treat her wounds immediately or else―――
 }
-[sha:54861049f3a5299c3ccbcc9ef9d48b8adcf7e683]{
+[offset:24009]{
 -- Page 722, Offset 24009.
 -- 「あれ？」
-"Hm?"
+"Wait, where's...?"
 }
 [sha:e28ab1a6399b11c7589ff854759d570d28677744]{
 -- Page 722, Offset 24010.
@@ -402,7 +413,8 @@ The bloodstains have disappeared.
 [sha:529eafbaf08a48de1b0038104f9506367b677942]{
 -- Page 722, Offset 24011.
 -- レンガを濡らしていた血だまりだけではなく、赤く染まっていた修道服も元の色に戻っている。
-Aside from the blood that pooled up on the brick floor, the blood that once dyed her clothes in red has also disappeared, restoring it to its original color.
+Not only has the pool of blood on the floor vanished without a trace,
+ but there isn't so much as a red tint to be found anywhere on her clothes.
 }
 [sha:e4c4bef7297fc71331b9fa22f9dc1b785255b92b]{
 -- Page 723, Offset 24012.
@@ -412,8 +424,10 @@ Aside from the blood that pooled up on the brick floor, the blood that once dyed
 [sha:9932c7357baa502faefe1ca708e5b54ff7ea333d]{
 -- Page 723, Offset 24013.
 -- 「そっか、先輩はあれぐらいの傷、なんともないんでしたっけ。ヴローヴの時なんてもっと深い傷を受けてたし、並大抵のコトならアイツみたいにすぐに治って―――」
-// lint-off:LintNameMisspellings
-"Ah, I should've know that you could easily shrug off wounds like these. You took far more damage while fighting against Vlov, so I'm sure you'll recover from these run-of-the-mill injuries in no time, just like Arcuei―――"
+// I can see how you could read アイツ as Arcueid here, but I feel like Vlov is more likely?
+"Ah, I should've known that you could easily shrug off wounds like those.
+ You sustained way more grievous wounds during the fight with Vlov,
+ makes sense you'd be able to recover from some scrapes like that just as fast as he di―――"
 }
 [sha:c6c6b09bd162d950ff5aa2d5807b5dce2e0b7157]{
 -- Page 724, Offset 24014.
@@ -423,34 +437,36 @@ Aside from the blood that pooled up on the brick floor, the blood that once dyed
 [sha:b9c0528c19d5d71468d3500b73eaea8dc1b319a1]{
 -- Page 724, Offset 24015.
 -- 死の危険が去って、俺は気が緩んでいた。
-I let my guard down because the life-threatening danger has passed.
+Now that the threat of death is gone, I let myself get careless.
 }
 [sha:06f60dd4f5e5a93585b323f7e775eb51b6e46815]{
 -- Page 724, Offset 24016.
 -- 気が緩んでいたから、今まで無意識に避けてきた<事|コ><実|ト>に、触れてしまった。
-And once I did, I ended up touching upon the reality that I'd been unconsciously trying to avoid until now.
+Because of that, I inadvertently touched on an inconvenient truth that I'd been unconsciously trying to avoid.
 }
 [sha:b8c8e8d4fc3b180eb4563dc5ec0794ed35f95c26]{
 -- Page 725, Offset 24017.
 -- “吸血鬼と同じよね。だって完全な不老不死なんだもの”
-// See 09_01_CIEL09_4.txt
-'She's just like a vampire. After all, she's completely immortal.'
+// See 09_01_CIEL09_4 offset 23217.
+'It's like she's a vampire.
+ After all, she's a perfect immortal.'
 }
 [sha:a8aaaa2f1b86c957112f2e145189d39ba296443a]{
 -- Page 725, Offset 24018.
 -- “その女は貴方が思っているようなまっとうな人間じゃないから。血を吸われないよう気をつけるコトね”
 // See Offset 23966 and 23972 of this file
-'That woman isn't the prim and proper human you think she is. Try not to get your blood sucked, okay?'
+'That woman isn't the prim and proper human you think she is.
+ You'd better make she doesn't suck your blood though, you hear me?!'
 }
 [sha:6e3132deb3afd6b0d5a6229f7432a0bbba4c6223]{
 -- Page 726, Offset 24019.
 -- 頭をよぎった言葉を、意識の深いところに押しこめる。
-I banish the thoughts swarming my head to the deepest part of my consciousness.
+I banish those haunting words to the deepest recesses of my consciousness.
 }
-[sha:f97fa49a32fb6825d905567eb8cfed86d4c3062f]{
+[offset:24020]{
 -- Page 726, Offset 24020.
 -- けれど、
-But.
+But it's no use.
 }
 [sha:8c5f979dd823bed8806b15138d4796f88c1e58e1]{
 -- Page 726, Offset 24021.
@@ -460,32 +476,34 @@ The fact that I've gone silent speaks volumes.
 [sha:821dbb08e08f5895affb0fae086d67520b897510]{
 -- Page 727, Offset 24022.
 -- 「い、いや、でもアレだよな。アルクェイドのヤツもデタラメなコトばっかり言うよな。
-"A-Ah, but you know how Arcueid is, always saying silly things, haha.
+// haha
+"A-Ah, but you know how Arcueid is, she's always spouting nonsense, haha.
 }
 [sha:23a4aac1f4878fce50deb4cdfca9cf0275087ca2]{
 -- Page 727, Offset 24023.
 -- 先輩が俺の血を吸うなんて、そんなコト、絶対にありえないのに」
-Like saying that you'd suck my blood, even though, there's obviously no way that would ever happen."
+I mean, she said you'd suck my blood, but we both know there's no way that'd ever happen!"
 }
 [sha:eda7e0973e33d2a1dd004264bb4e98fcd4190887]{
 -- Page 728, Offset 24024.
 -- そう、そんな事は万に一つもありえない。
-Right, not even in a million years.
+Right, not in a million years.
 }
 [sha:a8ecdc5b142b146919c643829c0593bc04896b42]{
 -- Page 728, Offset 24025.
 -- だって先輩は昼間でも歩いていた。そりゃあアルクェイドも昼間に歩ける吸血鬼だけど、アイツでさえ昼間は弱くなる。
-After all, Senpai can walk in broad daylight. Well, the same goes for Arcueid, but even she gets weaker during the day.
+I mean come on, Senpai can walk around in broad daylight.
+ Okay, sure, Arcueid can too, but even she's weaker during the day.
 }
 [sha:0fc356d70cbe3359728a7d7af7243cffeaa86692]{
 -- Page 729, Offset 24026.
 -- その点、先輩は昼間も夜も変わらない。
-In that regard, Senpai remains unchanging regardless of the time of day.
+Senpai's just as strong during the day as she is at night.
 }
 [sha:d204dfd55e0d841f29fb0e01aebedec5e0862856]{
 -- Page 729, Offset 24027.
 -- そもそも先輩は教会側の人間だ。
-Besides, Senpai is from the Church.
+Besides, Senpai's a member of the Church.
 }
 [sha:0107c0be91e9a1bd41a73cf1161408ae68cdc872]{
 -- Page 729, Offset 24028.
@@ -496,7 +514,7 @@ It would be a contradiction for an organization that exterminates vampires to ha
 [sha:0ede75c4dc0b2716cbe8ac9087cb3b16a3652584]{
 -- Page 730, Offset 24029.
 -- 「取り繕わないでいいです。
-"You don't have to sugarcoat it.
+"No need to beat around the bush.
 }
 [sha:2f5027dcb63d892b85379c42485ebcc8c40a4d68]{
 -- Page 730, Offset 24030.
@@ -511,17 +529,20 @@ Noel-sensei told you about my body, didn't she?"
 [sha:0c39721533f1ce933d4237c7b30362e85cc1e57a]{
 -- Page 730, Offset 24032.
 -- ……はい、とは言えなかった。
-I couldn't admit it...
+I can't bring myself to admit it.
 }
 [sha:09152fe42bc14110dfee7a211efd734f3efecc7c]{
 -- Page 730, Offset 24033.
 -- シエル先輩を気遣っての事じゃない。俺は俺の為に、その事実から目を背けたかっただけ。
-It wasn't out of concern for Ciel-senpai. It was purely for my own sake――because I didn't want to face that reality with my own eyes.
+Not because I'm trying to avoid hurting Ciel-senpai,
+ but for purely selfish reasons――I just don't want to have to face that reality.
 }
 [sha:024d2d900452d8935ac534f147cb910e468f7669]{
 -- Page 731, Offset 24034.
 -- 「……ノエル先生のおかげで目が覚めました。
-"Noel-sensei opened your eyes to the truth...
+// I feel like it's either this or "I guess you have Noel-sensei to thank for...
+// but rendering it as a pure factual statement definitely felt a bit weird.
+"So it was Noel-sensei who opened your eyes to the truth...
 }
 [sha:08a1cbb9149cfd51108056072a2a7b887b1fc43e]{
 -- Page 731, Offset 24035.
@@ -531,7 +552,8 @@ Now, back to my earlier question, Tohno-kun.
 [sha:f483c1693fd0ce469546f96a94a614db77c2d824]{
 -- Page 731, Offset 24036.
 -- どうしてわたしを庇ったんですか。アルクェイドが本気で貴方を殺すつもりだったのは分かっていた筈なのに」
-Why did you protect me, even though you should've known that Arcueid was truly intending on killing you?"
+Why did you protect me?
+ You should have known full well that Arcueid really was intent on killing you."
 }
 [sha:6ee56b4e3a2173f8e6774a1619971e85c37bcc21]{
 -- Page 732, Offset 24037.
@@ -541,12 +563,15 @@ There isn't a speck of anything resembling emotion in Senpai's eyes.
 [sha:eca28ad8f753679334f357027675143030f78c56]{
 -- Page 732, Offset 24038.
 -- 俺の姿さえ見えていない、人形のように虚ろな目。
-Her empty eyes that aren't even looking at me are like that of a puppet.
+// lifeless eyes, black eyes, like a doll's eyes
+They're the hollow, lifeless eyes of a doll.
+ It's like they don't even see me.
 }
 [sha:363ecbf7c2ccb1b84a0304d0785fa23acea9269f]{
 -- Page 733, Offset 24039.
 -- 「……どうしてって。さっきも言ったでしょう。
-"Why, you ask? I already told you, didn't I?
+"Why did I protect you...?
+ I already told you, didn't I?
 }
 [sha:8ef4c94ea7cdbef547a07386f967364eb6e3f110]{
 -- Page 733, Offset 24040.
