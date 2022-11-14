@@ -588,7 +588,7 @@ The lone survivor takes this opportunity to address a question to her defenseles
 [sha:02c06a17abc3774fdf39863093d050c8ee0208c1]{
 -- Page 459, Offset 19415.
 -- なのにどうして、こんな……助けてやるなんて希望を持たせて殺しやがった!?
-So then why... why would you give us false hope only to kill us?
+So then why... why would you give us hope of salvation only to kill us?
 }
 [sha:1130df51fb837dcb0ed62d565262badf62fc9b76]{
 -- Page 459, Offset 19416.
@@ -605,7 +605,6 @@ The nun is taken aback by the vermin's unexpected outburst.
 [sha:769db74da79d9ece1ade7c7618ce836e4a91c222]{
 -- Page 460, Offset 19418.
 -- 彼女は本当に驚いた。獲物がこの期に及んで人間らしい崇高さを見せたから……ではない。
-// Better way to handle double-surprise?
 She's legitimately surprised.
  Is it because her prey has, in his final moments, demonstrated an almost human nobility? No.
 }
@@ -650,12 +649,13 @@ I'm weak, so I only pick on those even weaker than me.
 [sha:b78d98a0425826f0324c6c3d911927522f64e65f]{
 -- Page 463, Offset 19426.
 -- ……あーあ、最悪。貴方たちって脳まで腐ってるのね。もしかしてクリームでも詰まってる？　詰まってたのよね？　そんな甘ったるい考えだから、神さまは助けてくれなかったのよ」
-// Need to reify the cream -> 甘 sweet/naive a bit for EN
+// The cream -> 甘 sweet/naive isn't as good a pun in EN, so swapped to an alternate metaphor, where 甘ったるい -> stupid
 %{i}Sigh%{/i}, I can't believe it.
  You guys really are rotten to the brain.
- Or is that skull of yours just filled with whipped cream instead?
+ Or is that skull of yours just filled with lead?
  It is, isn't it?
- It's because that grey matter of yours is so sweet and naïve that God didn't save you, y'know."
+ Why else would you be so dense?
+ That's why God didn't save you, y'know."
 }
 [sha:933e65482b480bc1b8afe9e3e1864c91642afe46]{
 -- Page 464, Offset 19427.
@@ -750,7 +750,7 @@ She hasn't even seen them yet,
 // Peak mario line
 "Huh?
  Why the hell are you shaking in your boots after you whacked all those fuckers?
- Calm down bitch, it's me: your boss, aka your God."
+ Calm down fatass, it's me: your boss, aka your God."
 }
 [sha:cb90775557fe2793933374bc29b6feb6d4a4f6f6]{
 -- Page 470, Offset 19443.
@@ -854,7 +854,7 @@ So, them's the breaks. You're %{i}my%{/i} problem now, but... your performance s
 [sha:12b71e01ce2940729d4f0611369fa38aed159ef2]{
 -- Page 476, Offset 19460.
 -- この一件が終わり次第テメェは修道院送りだ。今のうちに身辺整理をしておけよ」
-The second we're done dealing with shit here, I'm carting you off to the monastery.
+The second we're done dealing with shit here, I'm carting you off to a monastery.
  Get your affairs in order while you still have time."
 }
 [sha:153edb070e282e09a173538b25f446c81383252c]{
