@@ -803,7 +803,7 @@ I hear a dull crunching as the blade rips through flesh and arteries.
 [sha:ef888d6112f0aea589571f948e0d5f7a59e57644]{
 -- Page 748, Offset 24081.
 -- 眼球に染みこんでくる、鮮やかな朱色があふれ出した。
-The vibrant crimson flows out and seeps into my eyeballs.
+The eruption of vibrant crimson seeps into my eyeballs.
 }
 [sha:ec50fecb26905d77fd2c52db24e4eb0b4d1d4a67]{
 -- Page 749, Offset 24082.
@@ -813,18 +813,22 @@ The vibrant crimson flows out and seeps into my eyeballs.
 [sha:6a612479229c61327a4ea206d17464d46e99e0ad]{
 -- Page 749, Offset 24083.
 -- どくどくと<零|こぼ>れていく。
-It gushes out like a torrent.
+// Styled closer to the CG
+It spurts out like a fountain.
 }
 [sha:f6d385132541734bd458ff29577f08e57d75f366]{
 -- Page 749, Offset 24084.
 -- 生命そのもののような鉄の匂い。
-An iron tang, tantamount to life itself.
+It's iron tang is tantamount to the smell of life itself.
 }
 [sha:4e3742d26ab2bf679321f9254175b9257403e6c2]{
 -- Page 749, Offset 24085.
 -- あまりにも目に痛い原色。美しい。視界も意識も奪うような鮮血が、だらだらと黒い修道服を染めていく。
 // あまりにも目に痛い原色。 :cry:
-The primary color is tormenting my eyes. How beautiful. As if depriving me of my sight and consciousness, the fresh blood stains her black habit.
+// That habit is clearly navy not black
+An eye-watering flood of primary color.
+ It's beautiful.
+ The fresh blood dribbles down, staining her black habit as it robs me of my sight and consciousness.
 }
 [sha:163e46075356ad334f9a1d5e063ddecaadb35384]{
 -- Page 750, Offset 24086.
@@ -834,17 +838,21 @@ Beneath her habit―――
 [sha:5d374adf9d01efba60b4c91f00694ed5cf6b9cca]{
 -- Page 750, Offset 24087.
 -- 先輩の白い裸体に流れていく色は、まとわりつく<蛇|くちなわ>のように、いっそう濃さを増している事だろう。
-Just like a serpent coiling around her, the blood is doubtlessly thickening as it trickles down Senpai's pale naked body.
+// Dunno which meaning of 濃い is intended, but both apply, so 2 for 1 deal
+That trickle of blood must be coiling itself around her pale naked figure like a serpent,
+ thickening and darkening as it does.
 }
 [sha:8d8f25ff0925c9b4f0f6085e3acc89f92eabf19a]{
 -- Page 751, Offset 24088.
 -- チッ、と指に血が飛び散ってきた。
-Splash. The blood scatters onto her fingers.
+// Pretty sure these are _his_ fingers, esp considering offset 24092.
+%{i}Splash%{/i}.
+ A spray of blood flecks my fingers.
 }
 [sha:16d27fb4c8d9facfd143b1c1041f1d1a4dcad780]{
 -- Page 751, Offset 24089.
 -- なにかに奪われていた心が、それで現実に戻ってきた。
-Upon seeing that, my mind, which had been completely enchanted by a certain something, snaps back to reality.
+When I see that, my distracted mind snaps back to reality.
 }
 [sha:3cda93fe1c5f6327a5cfbaeb5b433ddf54ed5f34]{
 -- Page 751, Offset 24090.
@@ -859,12 +867,12 @@ Senpai stands in front of me, drenched in blood.
 [sha:020d7f19b1705b06d487ddf5886fd0e4c1f5ebf4]{
 -- Page 752, Offset 24092.
 -- 返り血を拭いながら先輩に駆け寄る。
-I rush over to Senpai as she wipes off the blood spatters.
+I rush over to her, wiping the blood from my fingers.
 }
 [sha:2c06f62f96444e88f66f0f832b13cff995f96ae2]{
 -- Page 752, Offset 24093.
 -- 「あわてる必要はありません。……ほら、見てください」
-"There's no need to panic... See, please take a look."
+"There's no need to panic. Please, observe."
 }
 [sha:a3ddefd91a130ca7c2efc96c89b6dce566a5bad4]{
 -- Page 753, Offset 24094.
@@ -874,12 +882,12 @@ She removes the blade from the base of her pale neck.
 [sha:2a950625f283232b54ea1634c58989faef0cc40d]{
 -- Page 753, Offset 24095.
 -- ……先輩の傷は、とうに塞がっていた。
-The wound has already closed.
+The wound has already closed...
 }
 [sha:c59ccaeb2cee23647fd9e2ce277a83d89f7ce68c]{
 -- Page 753, Offset 24096.
 -- そればかりか、あれほど流れていた血液が消えていく。
-That's not all. All that blood she just shed has also disappaeared in its entirety.
+As if that wasn't enough, all the blood she just shed has disappeared completely.
 }
 [offset:24097]{
 -- Page 754, Offset 24097.
@@ -890,7 +898,9 @@ This is―――
 -- Page 754, Offset 24098.
 -- ヴローヴと同じかそれ以上の、蘇生や治癒という表現を超越した、異常な光景だった。
 // P: 超越 here is not the lore-term.
-This is a freakish sight――one that far outstrips the notions of healing or regeneration. It's at least on the same level, if not greater than Vlov's.
+This is a freakish spectacle.
+ It puts the concepts of healing and regeneration to shame.
+ It equals――no, surpasses Vlov's abilities.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 755, Offset 24099.
@@ -905,87 +915,94 @@ I'm speechless.
 [sha:060843161576c3506e75329738d28b11e244b94d]{
 -- Page 755, Offset 24101.
 -- 今の現象を前にして、先輩に言うべき言葉がどうしても見当たらない。
-After bearing witness to that phenomenon, I find myself completely tongue-tied.
+I have no idea what I should say to Senpai after bearing witness such a phenomenon.
 }
 [sha:ab704220f247f25f338510a49347cb5333a0c3ce]{
 -- Page 756, Offset 24102.
 -- 「……はい、この通りです。
-"Yes... It's just as you see.
+"There, now you know.
 }
 [sha:998631cce7fff2c6fafd55981b61ba0af2b3bdf4]{
 -- Page 756, Offset 24103.
 -- 出来る事なら、遠野くんには知られたくなかったですけど」
-Even though ideally, I would've preferred it if you never found out."
+Though, I'd have preferred it if you'd never had to find out."
 }
 [sha:a248bfa1e956ed55ce25c0a7bc0f106a70877ccf]{
 -- Page 757, Offset 24104.
 -- 先輩は寂しそうに笑った。
 Senpai gives me a forlorn smile.
 }
-[sha:708b624ecb453b05f34cc66630d10d2c4ed01a80]{
+[offset:24105]{
 -- Page 757, Offset 24105.
 -- 俺は。
-I'm...
+I...
 }
 [sha:badead0fa88527da78c3595643cb8135f94d3415]{
 -- Page 757, Offset 24106.
 -- その笑顔を前にしても、何を言っていいか分からない。
-No matter how much I look at that smile of hers, I still can't find the right words to say right now.
+Even when confronted by that smile,
+ I still can't find the right words to say to her right now.
 }
 [sha:aeb0ee55f41b145442fbfd889c71f1f75f6f52c3]{
 -- Page 758, Offset 24107.
 -- 「……だから、昼間の事は謝らなくていいんです。ぜんぶ正しかったんですから。
-"As I said, you don't have to apologize for what happened this afternoon. You were completely in the right, after all.
+"That's why I said you didn't have to apologize for what happened this afternoon.
+ After all, you were right.
 }
 [sha:b0f64061cc6622f950e60adc0dd5f831a11ffbef]{
 -- Page 758, Offset 24108.
 -- わたしは貴方の事を騙していました。あんなふうに怒られても、それは仕方のない事なんです」
-I deceived you. It goes without saying that you'd be mad."
+I'd been deceiving you. You had every right to get angry like that."
 }
 [sha:fde04f2fcd90c454ff77180de3b2532c62726485]{
 -- Page 759, Offset 24109.
 -- 「………………そんな、コトは」
-"That's..."
+// Enough of a pause between these two that it feels better to match with two EN fragments
+"That's... I don't..."
 }
 [sha:bb1a231daaeb8ed9c2437421fe9a2cd79058dc03]{
 -- Page 759, Offset 24110.
 -- ない、とどうして言えなかったのか。
-I can't bring myself to deny it.
+Why can't I bright myself to say it?
 }
 [sha:67176656176a75dd03a66ec6bdf65497266129ce]{
 -- Page 760, Offset 24111.
 -- 先輩がどんな人であれ、どんな体であれ―――たとえ、本当に何かの間違いで、吸血鬼なんだとしても。
-No matter what kind of person Senpai may be, no matter what kind of body she may have―――Even if, as the result of some kind of mistake, she really is a vampire...
+It doesn't matter to me what kind of person Senpai is, or what kind of body she has――
+it wouldn't even matter if she actually %{i}was%{/i} a vampire.
 }
 [sha:75e431e6dbbdd697b28025568b9b35113287522d]{
 -- Page 760, Offset 24112.
 -- それでも、俺にとって先輩は、大切な<女|ひと>である事は絶対だったのに。
-In spite of everything, the fact that I care about her dearly remains unchanged.
+Something like that would never be enough to change the fact that I care deeply for her.
 }
 [sha:442325671b9203badfb3d72588b408db024c2473]{
 -- Page 761, Offset 24113.
 -- 「……ほんとうは、もっと距離を取る予定だったんです。
-"The truth is... I didn't plan on getting close to you.
+"The truth is, I'd planned on keeping you at arms length.
 }
 [sha:67dee764df33b5affd0828d9bad40ef3316f63ca]{
 -- Page 761, Offset 24114.
 -- ただの顔見知りとか、それぐらいの。そうすれば貴方の方から話しかけてくる事も、こんな風に、嫌われる事もなかった。
-I wanted us to just be acquaintances, or something like that. That way, you wouldn't have approached me to strike up a conversation, and... things wouldn't have ended up like this. You wouldn't have ended up hating me.
+I wanted us to just be acquaintances, or something like that.
+ That way, you wouldn't have approached me to strike up a conversation, and things wouldn't have ended up like this.
+ You wouldn't have ended up hating me.
 }
 [sha:ebe6b4bf247a35603d8e44595d6c84a6382450db]{
 -- Page 761, Offset 24115.
 -- けど、いいんです。今までの事を後悔はしていません。
-But... it's fine. I don't regret the choices I've made.
+Well, it is what it is.
+ I don't regret the choices I've made.
 }
 [sha:85b537add29676fdb2d1ec8ff842294a26f1aef8]{
 -- Page 761, Offset 24116.
 -- 遠野くんがわたしとの思い出が楽しかったって。守りたかったと言ってくれて、嬉しかった」
-I was really happy when you said that being around me was fun, and that you wanted to protect me."
+I was really happy when you said that you enjoyed the time we spent together, and that you wanted to protect me."
 }
 [sha:1a6254c53e3cc8319b212c2665680359531356e9]{
 -- Page 762, Offset 24117.
 -- 「―――先、輩」
-"―――Sen... pai."
+"Sen...pai."
 }
 [sha:ef00719bc24dfa71b13696085ad9b7e3f60c2813]{
 -- Page 762, Offset 24118.
