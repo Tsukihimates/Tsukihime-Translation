@@ -1,0 +1,20 @@
+diff --git a/allscr/retimed/allscr.mrg_0317.txt b/allscr/retimed/allscr.mrg_0317.txt
+// Everything after the ,,,, is specifying the  width, height, ? ? ? ? of the overlay
+_STCH(5,img5007,292,101,1000,255,2766,,CC,,,,688,378,158,102,0,0);
+// Final parameter 5 says we're referenced to the tailing paramters of CH5
+// -54, 98 seem to be the x, y source of the crop region
+_STCH(6,aru_l_38_03_n01,-54,98,1000,255,2866,,CC,,,5);
+--- allscr.mrg_0317.txt
++++ allscr.mrg_0317.txt
+@@ -2864,9 +2864,9 @@ _STCC(4);
+ _STCC(0);
+ _STCP(1,2);
+ _FADS(1,0,0);
+-_STCH(5,img5007,292,101,1000,255,2766,,CC,,,,738,378,108,102,0,0);
++_STCH(5,img5007,292,101,1000,255,2766,,CC,,,,688,378,158,102,0,0);
+ _STRR(5,-3550);
+-_STCH(6,aru_l_38_03_n01,-54,98,1000,255,2866,,CC,,,5);
++_STCH(6,aru_l_38_03_n01,-41,98,1000,255,2866,,CC,,,5);
+ _STEC(6,50);
+ _STZ4(6,1000,1000,1000,1000,0,0,0);
+ _SOXY(6,-3,2,-3,2);
