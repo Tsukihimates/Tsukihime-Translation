@@ -3,7 +3,7 @@
 -- 「ノエル先生のさぼりグセは後で追及するとして。
 // Welcome to 126 pages of pure lore. Enjoy your stay.
 // ( ◉▂◉)
-"I'll be sure to conduct a thorough investigation into Noel-sensei's habit of slacking off later.
+"I'll be sure to conduct a thorough investigation into Noel-sensei's truancy later.
 }
 [sha:2d9f138a26e2a4ac86a13a2db43ded5831ca01b6]{
 -- Page 10006, Offset 22510.
@@ -198,7 +198,7 @@ However, he's far more troublesome to deal with than a vampire like Vlov.
 -- 「先輩。吸血鬼は不死身なんだから、死んでも生き返ってくるのは当たり前なんじゃないかな」
 // Using immortality for 不老不死, undying body for 不死身 (undying/undeath/deathless for 不死 and unaging for 不老), check for consistency
 "But Senpai...
- Vampires have undying bodies, so doesn't it make total sense for them to be able to come back to life even if they die?"
+ Vampires have undying bodies, so doesn't it make total sense for them to be able to come back to life, even if they die?"
 }
 [sha:e8651122cdb27004158304e90c5d22e951f6e7ba]{
 -- Page 165, Offset 22545.
@@ -272,7 +272,7 @@ Even if he's killed, he cannot be slain...
 -- Page 169, Offset 22557.
 -- たとえば、目の前にいる吸血鬼を殺して安心しても、そいつは次の世代の人間に生まれ変わってしまう、という事だ。
 In other words,
- even if we grant ourself some temporary relief by killing the vampire that's in front of us right now,
+ even if we grant ourselves some temporary relief by killing the vampire that's in front of us right now,
  he'll just be born again as another human in the next generation.
 }
 [sha:37949955c985bade12129d503fc1e1ac88fadae2]{
@@ -289,7 +289,7 @@ I'm not sure exactly how versatile reincarnation is,
 [sha:060b29b55a01eb79648a943d4bcad5089496fb2d]{
 -- Page 171, Offset 22560.
 -- 「もっとも、転生には制限があります。
-"That being said, there are limits to reincarnation.
+"That being said, there are restrictions on his reincarnation.
 }
 [sha:705ece0a3e3e31c49f0a6057b3e24e3d9492eae7]{
 -- Page 171, Offset 22561.
@@ -412,8 +412,8 @@ Roa became a Dead Apostle approximately eight hundred years ago.
 [sha:4349f42b60b97eade2a4a446d695280f2ddf2dc3]{
 -- Page 179, Offset 22580.
 -- 「真祖は死徒に関心を持たないものですが、アルクェイドは真祖の中で唯一、吸血鬼を殺す真祖でした。
-"The True Ancestors tend not to concern themselves much with the Dead Apostles.
- In fact, Arcueid is the only one among them who kills other vampires.
+"The True Ancestors tended not to concern themselves much with the Dead Apostles.
+ In fact, Arcueid was the only one among them who killed other vampires.
 }
 [sha:099f7854bd53d267b8a494373d91a1ccdab12d84]{
 -- Page 179, Offset 22581.
@@ -888,7 +888,7 @@ It's clear from the cold look in her eyes what she's about to say.
 -- 彼女は八百年前に一度だけ過ちを犯した。真祖の王族でありながら人間の司祭だったロアの甘言に乗り、杯に汲まれたロアの血を飲んでしまった」
 // Wait, secondhand drinking counts?
 Eight hundred years ago, she made a single mistake.
- Despite being a True Ancestor, a member of the royal family,
+ Despite being True Ancestor royalty,
  she fell for the sweet words of Roa, a human presbyter, and drank from a chalice filled with his blood."
 }
 [sha:47e4925b299ebe2a3ee7887639c8b777836d24c9]{
@@ -1097,7 +1097,7 @@ These beings are generally referred to as fairies or elementals.
 [sha:d95c3abbb853ec3a769625c355d22601f015a6ba]{
 -- Page 221, Offset 22696.
 -- 真祖というのはその一種族なんです。
-Once such species is the True Ancestors.
+The True Ancestors are one such species.
 }
 [sha:a4e98e707771f8d54f5adc2776dc756e44e7cff6]{
 -- Page 221, Offset 22697.
@@ -1153,7 +1153,7 @@ Their abilities have always been a part of nature――no, it's more that they a
 -- Page 224, Offset 22705.
 -- <真祖|かれら>は世界そのものから力を引き上げる。<真祖|かれら>を倒すということは世界を倒すほどの概念武装が必要になります。
 True Ancestors derive their power from the planet itself.
- Therefore, the only Conceptual Weapons capable of taking them down would be ones capable of taking down the entire world.
+ Therefore, the only Conceptual Weapons capable of taking them down would be those capable of taking down the entire world.
 }
 [sha:3006f129c4eedb536c41138f92303980d714be29]{
 -- Page 224, Offset 22706.
@@ -1184,10 +1184,6 @@ Bury instead the True Ancestor with one foot already in the grave.'
 [sha:aa2535aca9c7e9047ee7e5855d60e09a56dc9a1b]{
 -- Page 225, Offset 22711.
 -- 奇襲ぐらいでしか殺せない怪物だというのに、不意打ちを禁じているとか訳が分かりません」
-// A little confused by this. It kinda seems like the above lines are saying yeah dipshit, don't fight them head on?
-// Where's the 禁じている coming from?
-// Unless the subject of the above two lines is totally backwards - don't fight them when _you're_ are your prime,
-// only when _you_ have one foot in the grave can you drag them into it? But that definitely doesn't seem to jibe with (死に瀕した真祖)
 And yet, we've been forbidden from ambushing them,
  despite the fact that it's basically the only way these monsters can be killed.
  It doesn't make any sense."
@@ -1306,7 +1302,7 @@ Listen closely, Tohno-kun.
 -- 「彼らは―――人間の血なんか吸わなくても生きていけるくせに、ただ吸いたいという吸血衝動だけで人間の血を吸って、人間を人間以外の怪物にしてしまうんです。
 "Despite not %{i}needing%{/i} to suck human blood to survive,
  they still do it just because they %{i}want%{/i} to――because of their vampiric urges――
- and in doing so transform people into inhuman monsters.
+and in doing so transform people into inhuman monsters.
 }
 [sha:fc4223d440a28ab5cb66449eca7009c595896129]{
 -- Page 234, Offset 22735.
@@ -1379,7 +1375,7 @@ She's only saying all this because she has no idea that Arcueid's actually a goo
 [sha:e3849af6640a5766e08d0c7c635fc8218449fd2d]{
 -- Page 238, Offset 22748.
 -- 「……イヤです。アイツとの約束は破れない。
-"I refuse. I won't break my promise to Arcueid.
+"I refuse. I won't break my promise with Arcueid.
 }
 [sha:7195abe42d29db00fbf4a6b107d45af71b4cbeee]{
 -- Page 238, Offset 22749.
@@ -1636,7 +1632,7 @@ Why don't you, of all people, understand me?!
 -- Page 256, Offset 22793.
 -- 「彼女と協力するのなんて死んでもお断りです。月を重しにして眠った方がまだマシですから」
 // A throwback to file 05_01_CIEL05_3D line 271 where Arcueid says あいつに手を貸すぐらいなら、太陽を抱いて眠ってもいいぐらい (I'd rather breathe my last while embracing the sun than help her)
-"You'd have to kill me before I cooperate with her.
+"You'd have to kill me before I'd cooperate with her.
  I'd rather sleep under the weight of the moon than stoop to that."
 }
 [sha:e1c0a489833a0e6a5b167f31704a998804c6dbd9]{
@@ -1743,7 +1739,7 @@ I just flew off the handle when she started talking about Arcueid.
 [sha:4daf49641fed07b2166fcfe461540a4c4794ab1a]{
 -- Page 265, Offset 22812.
 -- 俺から謝ったりしないからな、もう……！」
-I swear I'll never apologize to her...!"
+I swear I'll never apologize to her!"
 }
 [sha:47e43a2533e3a07335fccb5689b615d8cc07797a]{
 -- Page 266, Offset 22813.

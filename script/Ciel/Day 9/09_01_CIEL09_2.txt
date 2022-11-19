@@ -27,7 +27,7 @@ The waiting hasn't managed to wear me down,
 -- Page 94, Offset 22389.
 -- 「……いや、まずは購買部だ。昼休みなんだから昼食を持っていかないと門前払いもありうるぞ……」
 "I can't be too hasty... I'll stop by the school store first.
- It's lunchtime, so if I don't bring some food with me, she might turn me away at the door..."
+ It's lunchtime, so she might slam the door in my face if I don't bring any food with me..."
 }
 [sha:c54b4ba0a3fa590b060aa14cc74f7091e8c86f21]{
 -- Page 95, Offset 22390.
@@ -108,7 +108,7 @@ Did they install new automatic locks on the doors today?
 [sha:caae6180637306093e2b170843716e19ad05f187]{
 -- Page 102, Offset 22404.
 -- 「いらっしゃい遠野くん。どうぞ、そこの座布団に座ってください。お茶も入ってますから」
-"Welcome, Tohno-kun. Please, help yourself to a seat. I've just poured us some tea."
+"Welcome, Tohno-kun. Please, take a seat. I've just poured us some tea."
 }
 [sha:da5af5575c2b7869d829cb7ca1814d6a99cf17a0]{
 -- Page 103, Offset 22405.
@@ -201,7 +201,7 @@ She makes the first move and cuts me off. Her timing is impeccable.
 [sha:234008f1065d93bc169656d61194061860260f9c]{
 -- Page 109, Offset 22421.
 -- しずしずと座布団に正座する。
-I slowly lower myself on the floor cushion, keeping my back as straight as possible.
+I slowly lower myself onto the floor cushion, keeping my back as straight as possible.
 }
 [sha:8b17131c7422683d49a69561f7be5ecbcbadb405]{
 -- Page 109, Offset 22422.
@@ -274,7 +274,7 @@ Obviously, I also sprinkle in the adjective 'super cool'.
 // 三体もの大物 being Be'ze/Einnashe/Chromclay
 It works by shooting a massive stake out of this end here, which I use to punish lia――ahem, %{i}vampires%{/i}.
  It was originally powered by hydraulics,
- but since there was a risk it could break down in certain environments,
+ but since there was a risk it could break down in extreme environments,
  I rebuilt it so that it could be powered by external pressure created by magical energy instead.
  I've already taken down three heavyweights with this thing.
  It's my most prized possession."
@@ -303,7 +303,7 @@ She visibly brightened up a little bit when I complimented her gun.
 [sha:edd2507a783bbce65a30aa56bebd8335326f1db0]{
 -- Page 117, Offset 22438.
 -- 「それはすごい。……えーと、わたしのってコトは先輩の手製なんでしょうか、このでっかいの」
-"That's amazing... You said it was yours, so does that you mean that you made this huge thing all by yourself?"
+"That's amazing... Uhh, you said it was yours, so does that you mean that you made this huge thing all by yourself?"
 }
 [sha:7839c8545d3bdbf142b0a476fdc7bd6319daaa54]{
 -- Page 118, Offset 22439.
@@ -376,7 +376,7 @@ Just for reference, aside from this gun――this pile bunker,
 -- 「そうですね。火あぶり、挽きつぶし、切り刻み、毒まぶし、痛めつけ、といったところでしょうか。
 // Only five here, I guess we dropped 拷問死 because it's something she does to herself?
 // I've kept the others kinda consistent with what I think they map to in offset 12506.
-"Hmm, let me see. I think just burning, bludgeoning, slicing, poisoning or mentally tormenting them?
+"Hmm, let me see. I think just burning, bludgeoning, slicing, poisoning, or mentally tormenting them?
 }
 [sha:4a0c267e03f8cec28898306e52d696aa612d554e]{
 -- Page 123, Offset 22451.
@@ -401,12 +401,12 @@ I'm toast...
 [sha:4c77ffd3f98098728ac65d845c922f6cd6099f1e]{
 -- Page 124, Offset 22455.
 -- もう疑いようがない。完全に、アルクェイドと夜に出歩いた事が知られている。
-There's no doubt about it. She knows that I went out with Arcueid last night.
+There's no doubt about it. She %{i}totally%{/i} knows that I went out with Arcueid last night.
 }
 [sha:c4f9f1407dae3a8105b664e5fcfef829e6460c44]{
 -- Page 125, Offset 22456.
 -- 「ところでお茶をどうぞ。喉の渇きは会話の乾きですよ。
-"Please, have some tea. A dry throat leads to a dry conversation, right?
+"Please, have some tea. A dry throat leads to dry conversation, right?
 }
 [sha:01a6508122fa575c24862976aa5f2e26e5c277c9]{
 -- Page 125, Offset 22457.
@@ -443,6 +443,7 @@ I can only pray that clemency for those who confess their sins is a principle sh
 [sha:4102ebad29fa787fa6e9beb5195f1d93073ea233]{
 -- Page 127, Offset 22463.
 -- 「ほう。昨夜のお話ですか。それは興味深い。静聴しますので遠慮なくどうぞ。懺悔だと思って」
+// At confessions?
 "Oh, this is about last night, is it?
  Quite intriguing. I'll listen along quietly, so feel free to speak your mind.
  Think of this as being at confessional."
@@ -689,7 +690,7 @@ She's out sick today, but I take it she was feeling just fine yesterday?"
 [sha:2949f533c50f5e04bb13a536d031e8181a29203f]{
 -- Page 148, Offset 22507.
 -- 先輩はノエル先生の欠勤を知らなかったらしい。
-It seems she doesn't know that Noel-sensei is absent today.
+It seems she didn't know that Noel-sensei is absent today.
 }
 [sha:92484f7cac97351bfbebd30baa510543ca24ff96]{
 -- Page 148, Offset 22508.
