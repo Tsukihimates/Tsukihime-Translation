@@ -41,7 +41,8 @@ My god, I'm in luck. This must be my fortune as a Scorpio woman!
 -- Page 80, Offset 22341.
 -- ん、やっぱりフツーのにしとかない？　予防接種は<大事|だいじ>だけど、アタシの場合、やりすぎると<大事|おおごと>になっちゃうしぃ。
 %{i}Hmph%{/i}, maybe I should do a normal injection after all?
- Vaccines are critical, but if I'm the one doing them I've gotta be careful not to go supercritical.
+ Vaccines are critical, but if I'm the one doing them,
+ %{i}I've%{/i} gotta be careful not to go supercritical.
 }
 [sha:e11d154bb871e57cf26b14ca319f3767497e640e]{
 -- Page 80, Offset 22342.
@@ -175,13 +176,14 @@ Just kidding, that's totally normal! After all, that wasn't a flu shot, it was j
 [sha:0f978d88db68767527763e728e84972c9abd392e]{
 -- Page 85, Offset 22366.
 -- 「だって志貴チャン、ここの所精力的に活動してるんデショ？　なら体力はつけておかないと。
+// More euphemistic
 "You've really been going all-out recently, haven't you, Shiki-chan?
  You've got to make sure you keep your strength up.
 }
 [sha:dd4b8df6830a6e9021ac429a48d010239a76bcda]{
 -- Page 85, Offset 22367.
 -- どうせもう予防接種なんて間に合わないんだしぃ？」
-Besides, it's already too late for a vaccine to do you any good, isn't it?"
+Besides, it's already too late for a vaccine to do %{i}you%{/i} any good, isn't it?"
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 86, Offset 22368.
@@ -248,7 +250,7 @@ As I do―――
 -- Page 90, Offset 22380.
 -- どうなるか楽しみにしていたけど―――まあ、失敗する事にも意味はあるものねぇ？」
 I was looking forward to seeing what would happen next, but...
- Well, there's still lessons to be learned from failure, right?"
+ Well, there are still lessons to be learned from failure, right?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 91, Offset 22381.
