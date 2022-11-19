@@ -7,7 +7,8 @@ I arrive at the school gate.
 -- Page 10004, Offset 27245.
 -- 屋敷から休まずに走りきったおかげで、時刻はまだ７時半にもなっていない。
 // He arrives at the time time as in the other choice where he stays at the mansion??
-It's not even 7:30 a.m., since I ran straight from the mansion without a break.
+// Missed the frame window on the konbini skip
+Since I ran the whole way here, I've managed to arrive before 7:30AM.
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 66, Offset 27246.
@@ -22,22 +23,23 @@ I wait for Senpai in front of the main gate.
 [sha:1984f5472f6ec7d894cb296deeab9b74e3d815c9]{
 -- Page 66, Offset 27248.
 -- ちらほらと登校してくる生徒たちに不審者を見る目で見られたが、そんな事はどうでもよかった。
-I'm being stared at with suspicion by the students making their way to school, but I couldn't care less about it.
+The small handful of students arriving at this hour throw suspicious glances my way, but I don't care.
 }
 [sha:e3e721207a226a2c8b412ece067032a8954ccb28]{
 -- Page 67, Offset 27249.
 -- 時刻は７時半を過ぎてしまった。
-It's now a little past 7:30 a.m.
+It's now a little past 7:30AM.
 }
 [sha:e9f7bff9b4fe749d920b59879eb05fa3fc7c3c8d]{
 -- Page 67, Offset 27250.
 -- 生徒の姿が目に見えて多くなる。
-I see more and more students coming.
+There are a lot more students now.
 }
 [sha:0bf1e2bcb6b24e177f60a28bb17ea7b930d61c98]{
 -- Page 67, Offset 27251.
 -- 部活動が禁止されている今、登校するにはこの時間がもっとも適している。
-Since club activities are forbidden, right now is around the best time to come to school.
+With club activities on hold,
+ this is about the time most people aim to arrive.
 }
 [sha:dd7ecfaffe86d075325a52f590ffa74ebc93a14d]{
 -- Page 68, Offset 27252.
@@ -52,7 +54,9 @@ I can't spot anyone that looks like Senpai in the crowd.
 [sha:5ca685429eddab92609a20706c48969559d77552]{
 -- Page 69, Offset 27254.
 -- ７時50分。
-7:50a.m.
+// The line below is _5_ minutes until the gates close, so
+// gonna call this one a typo.
+7:55AM.
 }
 [sha:88138fbb3b216ad5f8a56bcb85d6f28f493ca629]{
 -- Page 69, Offset 27255.
@@ -94,7 +98,7 @@ A chill runs down my spine.
 [sha:1224cfa2b9af0bf3b98428b89fe170935361e368]{
 -- Page 71, Offset 27262.
 -- ……気持ちが悪いのは。
-What's disgusting―――
+What's disgusting is―――
 }
 [sha:ad8fcfa718dfc6d9da3e574c46565295541d4296]{
 -- Page 71, Offset 27263.
@@ -161,5 +165,7 @@ I'm out of time... It won't do me anything good to stay here.
 [sha:c8ec24932d45ddaf2922792001f2af14566b53eb]{
 -- Page 75, Offset 27275.
 -- 俺は最後にもう一度通学路を振り返って、校舎へと足を向けた。
-I look upon the road leading to the school one last time before making my way to the courtyard.
+// LintConsistency:27231
+I spare one last look at the road leading up to the school,
+ then turn and make my way inside.
 }
