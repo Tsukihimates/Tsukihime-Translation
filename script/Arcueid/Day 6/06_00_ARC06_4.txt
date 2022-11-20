@@ -12,7 +12,7 @@ I returned to my room to loaf around for a bit, and the next thing I knew it was
 [sha:8b1d37d739489f4a7ad74fd0818f9770d3a89377]{
 -- Page 324, Offset 14719.
 -- 「……呆れた。いいかげん忘れろよ、俺……」
-"...Come on. Just hurry up and forget about her already..."
+"Come on. Just hurry up and forget about her already..."
 }
 [sha:8eb96edcaac6850c8b83e5e05378bd31dd22edb6]{
 -- Page 324, Offset 14720.
@@ -27,7 +27,7 @@ I know it's a common refrain that the sun sets early in autumn, but it really do
 [sha:49847425050c97af4bec9bfd613dfd2aa563f183]{
 -- Page 324, Offset 14722.
 -- ……時間の感覚を見失うほど、俺は、下らない物思いに耽っていたらしい。
-...I guess I was so absorbed in my insignificant thoughts that I lost track of time.
+I guess I was so absorbed in my insignificant thoughts that I lost track of time...
 }
 [sha:159daee16d84567a8970eb933ff97da50297febd]{
 -- Page 325, Offset 14723.
@@ -165,7 +165,7 @@ Perhaps as a result of having a light breakfast followed by a light lunch,
 -- Page 335, Offset 14744.
 -- ……それでも、今夜の<献立|メニュー>はやや目に痛い。
 // Replaced 目に痛い with EN set phrase
-...Though despite that, I'm finding tonight's menu a little difficult to stomach.
+Though despite that, I'm finding tonight's menu a little difficult to stomach.
 }
 [sha:dbf45b03b93a75bdc5ccb7f057db36dfb3042630]{
 -- Page 335, Offset 14745.
@@ -182,13 +182,13 @@ An unexpected murder. An impossible reunion. An unbelievable monster.
 [sha:7ed0fcc21c54df4a379806f95d9ef00b78a77334]{
 -- Page 336, Offset 14747.
 -- 多くの死に背中を押されて伸ばした指と、死の手触り。
-Weighed down by that heavy loss of life, their outstretched fingers―――the touch of death.
+Weighed down by that heavy loss of life, their outstretched fingers――the touch of death.
 }
 [sha:43f8a8faeb87a4f9fecf2ce2ef2e070077a4f8f2]{
 -- Page 336, Offset 14748.
 -- それと―――吸血鬼を倒せば、そうなると判りきっていた、当然の別れ。
-And finally―――
-what I knew would naturally follow after we defeated that vampire―――
+And finally――
+what I knew would naturally follow after we defeated that vampire――
 parting ways.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
@@ -376,7 +376,7 @@ Despite all the unbelievable things that have happened to me recently,
 [sha:5c818e8022afb390109ad5a92f9789370217e708]{
 -- Page 349, Offset 14782.
 -- 「……………いや。山積み、なんだけど」
-"...Well, I have a bunch of work I should be doing, but..."
+"Well, I have a bunch of work I should be doing, but..."
 }
 [sha:7af4f31e734790591c6c19ea2131c64a6f1f2c27]{
 -- Page 349, Offset 14783.
@@ -408,7 +408,7 @@ I give up, lie down on my bed, and stare aimlessly at the ceiling.
 [sha:98343f9d7370461681d7883719b0475a4fb45561]{
 -- Page 351, Offset 14788.
 -- ……大丈夫。こんなのは今夜までだ。
-...It's okay. Tonight will be the end of it.
+It's okay. Tonight will be the end of it.
 }
 [sha:0de74f7cabd3dcf3870ef2c34449aff91baab33b]{
 -- Page 351, Offset 14789.
@@ -442,7 +442,8 @@ In order to keep my memories at bay,
 [sha:f2108f451ef149219d0b0c1f863dfbb30a5a3491]{
 -- Page 352, Offset 14794.
 -- ……そうすれば、たいていの出来事は過去のものになる。
-...If I do that,
+// LintConsistency:13766
+If I do that,
  all of the events that have transpired will surely become nothing more than fragments of the past.
 }
 [sha:27a5a816b5091bb5ac36b7ae399849b36d89dd79]{
