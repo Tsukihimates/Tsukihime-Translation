@@ -266,6 +266,7 @@ What is this place?
 -- Page 308, Offset 9362.
 -- ―――粘膜のような空気。
 // Feels like this needs a property on which to compare 粘膜のような空気
+// lint-off:LintEmDashes
     ―――An atmosphere slick as a mucous membrane.
 }
 [sha:4766194ca9f09c72af40164772be70302ab8f167]{
@@ -276,6 +277,7 @@ What is this place?
 [sha:a0898a057c971dea9947b21f17f36374a4243bda]{
 -- Page 308, Offset 9364.
 -- ―――脂と肉と血の臭い。
+// lint-off:LintEmDashes
     ―――The stench of fat, flesh, and blood.
 }
 [sha:4766194ca9f09c72af40164772be70302ab8f167]{
@@ -286,6 +288,7 @@ What is this place?
 [sha:a5b5dde1021ff0d52849b3f3cdb0f7452410e57c]{
 -- Page 308, Offset 9366.
 -- ―――いくつもの鉄格子と、生きた死体。
+// lint-off:LintEmDashes
     ―――A myriad of prison bars and living corpses.
 }
 [sha:445bd2160ce78965fb73a0ea1a14237b3ce92f15]{
