@@ -88,7 +88,7 @@ The white beauty in front of him is swallowed completely.
 [sha:9c453a2810079dd648098657d6d38fc360da3040]{
 -- Page 522, Offset 9997.
 -- 「――――――、え？」
-"――――――Huh?"
+"―――Huh?"
 }
 [sha:450d505d3b264098698aa3d891e81cc28dc197e1]{
 -- Page 522, Offset 9998.
@@ -311,6 +311,7 @@ But before that, allow me to extend to you at least this courtesy."
 [sha:81dfc32aae41ec3d7ea19bdd24a21b8ce27ccf23]{
 -- Page 539, Offset 10041.
 -- 「“―――答えよ、矮小家畜の我が隷属。
+// lint-off:LintEmDashes
 "%{g}―――Heed me, mine enslaved and meagre chattel.%{/g}
 }
 [sha:39a5e235718761df3e6edcf770919a0e44ba26f9]{
@@ -346,6 +347,7 @@ After opening his eyes wide in surprise, Vlov replies.
 [sha:643554c4c0224ffe3d4c7cfaa58fb218719546b0]{
 -- Page 541, Offset 10048.
 -- 「“―――<謹|つつ>しんで<受|こ><領|た>えよう。
+// lint-off:LintEmDashes
 "%{g}―――I shall in respect then reply:%{/g}
 }
 [sha:053709fd85f06c48a63dafd0db8389962567c4e9]{
@@ -399,7 +401,7 @@ So basically, %{i}you killed her and took it for yourself%{/i}, didn't you?"
 -- Page 543, Offset 10058.
 -- 「……そうだ。おれは後継者ではない。ただの騎士だ。騎士だった。永遠など、おれには手に余るものだ」
 // maybe something else for 'station' but you get what I mean.
-"That's right... I am no Successor... I am simply a knight―――%{i}was%{/i} a knight... Eternity is something well beyond my station."
+"That's right... I am no Successor... I am simply a knight――%{i}was%{/i} a knight... Eternity is something well beyond my station."
 }
 [sha:ab32209397fb11b5f6c08eeab757d47b065d9575]{
 -- Page 544, Offset 10059.
