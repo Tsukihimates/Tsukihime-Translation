@@ -1,7 +1,7 @@
 [sha:514428714433e3b540f5ab97c50469f2cf721740]{
 -- Page 10010, Offset 4459.
 -- ……ぼんやりと駅前の雑踏を眺める。
-...I watch the crowd in front of the station in a daze.
+I watch the crowd in front of the station in a daze.
 }
 [sha:dab357b6b2f19472b8294dba0b224a6933729887]{
 -- Page 10010, Offset 4460.
@@ -74,7 +74,7 @@ Perhaps I'm feeling sentimental because of the light fever.
 [sha:b729cb27e5733a8479fd3f1325bdfc88422518e5]{
 -- Page 198, Offset 4473.
 -- 「……帰ろう」
-"...Time to go home."
+"Time to go home..."
 }
 [sha:990c3f0d772b8a28d7df477307d94eb1a73d2ab6]{
 -- Page 198, Offset 4474.
@@ -321,6 +321,7 @@ I vaguely understand now that the tightrope I tricked myself into walking has be
 [sha:1144e6c7b5152a206c1dec02f53ab9f24459bb7d]{
 -- Page 209, Offset 4515.
 -- 「はあ――――はあ―――――はあ――――」
+// lint-off:LintEmDashes
 "%{i}Haa――――haa―――――haa――――%{/i}"
 }
 [sha:9139551f0f900e178a6366f16c52202b5cc988c5]{
@@ -362,6 +363,7 @@ I hunt the figure of the <woman|p r e y  > in white.
 [sha:ce4cc096c8926934d1b1a3580f9437b4c1ca8989]{
 -- Page 210, Offset 4522.
 -- 「はあ――――はあ――――はあ――――」
+// lint-off:LintEmDashes
 "%{i}Haa――――haa――――haa――――%{/i}"
 }
 [sha:7f7495da9ecd4a2bc39e6af3017dc4e1e57ced1a]{
@@ -848,7 +850,7 @@ I slip into the room through the small gap.
 [sha:404aea1cfbda1e29d4923ef160842edd76b04020]{
 -- Page 231, Offset 4599.
 -- 「え――――」
-"Huh――――"
+"Huh―――"
 }
 [sha:3f043c9804d6fc4d5342a3b0ad153a2e04788f3b]{
 -- Page 231, Offset 4600.
@@ -1068,7 +1070,7 @@ The knife used to commit this murder is still clutched in my hand.
 [sha:9b2f73d82fa9b67321de256e3a8114311e16f659]{
 -- Page 239, Offset 4635.
 -- 『死ん―――でる』
-"She's―――dead."
+"She's――dead."
 }
 [sha:cca1fe65901f81e55e8086fb2d54a052efdb5530]{
 -- Page 239, Offset 4636.
@@ -1083,7 +1085,7 @@ She wouldn't be human if she were still alive after this.
 [sha:3d7a75c2a251e85e17b927b2864575bf0aaa555c]{
 -- Page 240, Offset 4638.
 -- 『なん―――で？』
-"Wh―――y?"
+"Wh――y?"
 }
 [sha:77b2d681ef46ce37927fdcf3c8e0b97602ef69ae]{
 -- Page 240, Offset 4639.
@@ -1103,7 +1105,7 @@ Did Tohno Shiki really cut this woman he didn't even know to pieces, with his ow
 [sha:20c4f628a0f046d6ac3a8c03af95453c90e32604]{
 -- Page 241, Offset 4642.
 -- 『俺が――――殺した？』
-"Did I―――kill her?"
+"Did I――kill her?"
 }
 [sha:a09fe751c73a9e34429a6a6891dd215b6214ef94]{
 -- Page 241, Offset 4643.
@@ -1146,7 +1148,7 @@ It makes it all the way to my feet.
 [sha:1fba76dafe3327ab49bf8f668cd92781295a1d4c]{
 -- Page 243, Offset 4649.
 -- 『………………あ』
-".........Ah."
+"Ah..."
 }
 [sha:908d9cc9b1199a9a7113086f5461bd4f6c7749fc]{
 -- Page 243, Offset 4650.
@@ -1202,5 +1204,5 @@ This must be―――
 [sha:abeaf9a59025fcdd9bc95fb0884adeb885d3d0cf]{
 -- Page 247, Offset 42600. Choice.
 -- ……いや、俺の起こした現実だ。
- ...No, this is a reality wrought by my own hands.
+ No... this is a reality wrought by my own hands.
 }

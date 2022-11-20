@@ -77,7 +77,7 @@ The echoes ricochet around inside.
 [sha:21ecc8799e7744ea65ed81ac33d90c2c8d9ac6b9]{
 -- Page 341, Offset 3505.
 -- 「……ああもう、やかましいっ！」
-"...Ah, enough, just shut up already!"
+"Ah, enough, just shut up already!"
 }
 [sha:eb4c0f58a45429a8056e907b95896731bd078dfa]{
 -- Page 341, Offset 3506.
@@ -112,12 +112,12 @@ I can hear the dog's howl coming from all the way outside the mansion.
 [sha:a292e5de234d5bf4f89259861e5bd46ca2667078]{
 -- Page 343, Offset 3512.
 -- ……このままじゃ眠れそうにない。
-...If this keeps up, I'm not gonna get any sleep.
+If this keeps up, I'm not gonna get any sleep.
 }
 [sha:543912c762a25ca2a9c8e51d5d0a22b5ee15d4b1]{
 -- Page 344, Offset 3513.
 -- 「……仕方がないか。
-"...I guess I gotta go check it out.
+"I guess I gotta go check it out...
 }
 [sha:47891210ab324154b0b8786d73080d23c76f9a10]{
 -- Page 344, Offset 3514.
@@ -167,12 +167,14 @@ Even the light from the streetlamps appears to have congealed, like paint drops 
 [sha:643cbaf83e3191f4677c9eef77a7f59d9f5c8bd4]{
 -- Page 348, Offset 3523.
 -- …………オーーーーーン…………
-............%{i}Awooooooo%{/i}............
+// lint-off:LintStartingEllipsis
+...%{i}Awooooooo%{/i}...
 }
 [sha:af0a09fef33240265f748acaef5b7d16157aaa16]{
 -- Page 348, Offset 3524.
 -- ……………………オーーーーーーー……………
-........................%{i}awoooo%{/i}...............
+// lint-off:LintStartingEllipsis
+......%{i}awoooo%{/i}......
 }
 [sha:5871ab835c12716e252055d9e64538d547e9a9dd]{
 -- Page 349, Offset 3525.
@@ -263,7 +265,7 @@ Warming my numb fingers with my breath, I walk in the direction of where the dog
 [offset:3542]{
 -- Page 353, Offset 3542.
 -- 「――――――え？」
-"――――――Huh?"
+"―――Huh?"
 }
 [sha:fbe958eb0b6ef9da87329104c91c785a07329237]{
 -- Page 353, Offset 3543.
@@ -441,7 +443,7 @@ All I see before me is the usual, quiet road.
 [offset:3577]{
 -- Page 361, Offset 3577.
 -- 「は――――あ」
-"%{i}Ha――――h%{/i}"
+"%{i}Ha――h%{/i}"
 }
 [sha:2fc09a5e72354aaab62e0589f6ab76c050b501c0]{
 -- Page 361, Offset 3578.
@@ -451,7 +453,7 @@ I breathe a sigh of relief, my lungs greedily taking in the air.
 [sha:4a7760ecbd196e61997387adbe901e91c323f336]{
 -- Page 361, Offset 3579.
 -- ……気がついていなかったが、正門を出てからこっち、まともに息をしていなかったようだ。
-...I didn't realize it, but I haven't been breathing properly since I left the main gate.
+I didn't realize it, but I haven't been breathing properly since I left the main gate.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 362, Offset 3580.
@@ -466,12 +468,12 @@ I don't hear them howling anymore.
 [sha:2d6a2372122b99e86abd52f7be548f16ff382bb0]{
 -- Page 362, Offset 3582.
 -- ……熱にうかされるように、幻を後にした。
-...I leave the illusory fever dream I just witnessed behind me.
+I leave the illusory fever dream I just witnessed behind me.
 }
 [sha:437976b4302400051ef05462ba0b00060d37d74d]{
 -- Page 363, Offset 3583.
 -- ……部屋に戻ってきた。
-...I'm back in my room.
+I'm back in my room.
 }
 [sha:afc8e1b0500ac0d3a540f73b971d726aa042f895]{
 -- Page 363, Offset 3584.
@@ -486,7 +488,7 @@ It seems like I was the only one who couldn't stand that dog's howling.
 [sha:19b2347f0996b48ae27a7bd26b102f439a3766b3]{
 -- Page 364, Offset 3586.
 -- 「―――――ぐ」
-"―――――%{i}Guh%{/i}."
+"―――%{i}Guh%{/i}."
 }
 [offset:3587]{
 -- Page 364, Offset 3587.
@@ -611,17 +613,17 @@ I manage to fall onto my bed.
 [sha:fa9c6bd5dec23a96ebf56159e0a9b90f014cd6e4]{
 -- Page 371, Offset 3611.
 -- ……そう、なら眠ってしまえばいい。見えている物を否定するには、それが一番てっとり早い方法だ。
-...Yeah, in that case, I should just go to sleep. It's the quickest way to deny what I've seen.
+Yeah... in that case, I should just go to sleep. It's the quickest way to deny what I've seen.
 }
 [sha:a31ffc0f0a0909c51d60382ec556afb3c57ce375]{
 -- Page 372, Offset 3612.
 -- ……体も思うように動かない。
-...I can't even move my body like I want to.
+My body won't even do as I tell it...
 }
 [sha:f61ece60f8b5a16771b841f92b3350faa527967b]{
 -- Page 372, Offset 3613.
 -- 今はこのまま死体のように。
-For now, I'm just going to stay like this, like a corpse.
+I'll just stay as I am, still as a corpse.
 }
 [sha:bcd3f2a8528aa6f55e34e24d355e98af582c1b5f]{
 -- Page 372, Offset 3614.

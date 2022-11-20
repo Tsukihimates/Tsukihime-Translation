@@ -55,7 +55,7 @@ She never went out into the garden by herself; this terrace marked the confines 
 -- Page 264, Offset 14548.
 -- 「……そうだった。よく庭から声をかけて、家庭教師の目を盗んだっけ」
 // 目を盗む is to do something stealthily, behind someone's back
-"...That's right. I'd always be calling out to her from the garden, behind her tutor's back."
+"That's right... I'd always be calling out to her from the garden, behind her tutor's back."
 }
 [sha:2fc75917768596291a5e85a6b7badbc18ca4c74c]{
 -- Page 265, Offset 14549.
@@ -171,12 +171,12 @@ Now that she's accomplished her goal of exterminating Vlov, there's no reason fo
 [sha:277cd2c93a1978c2abca2a4478c233684ea0cf9d]{
 -- Page 272, Offset 14570.
 -- だから―――こんなところで思い返しても、もう、何の意味もない。
-That's why―――it's no use being hung up on her like this.
+That's why――it's no use being hung up on her like this.
 }
 [sha:4dc9e005e4d3ac95e3de912cc6765db69bfb16b7]{
 -- Page 273, Offset 14571.
 -- 「……だよな。
-"...That's right.
+"That's right...
 }
 [sha:f30fc268c19bf71760fdd0be5c4252c431b68ed2]{
 -- Page 273, Offset 14572.
@@ -200,7 +200,7 @@ There's no point even uttering such a blatant lie.
 [sha:1028aaeae4b5ec78bd0a258eac8d249836de52d3]{
 -- Page 274, Offset 14575.
 -- ……そりゃあ、あいつと手が切れてせいせいするけど、それがいい事かは別問題だ。
-...It'll definitely be a lot less lively without her around,
+It'll definitely be a lot less lively without her around,
  but whether that's a good thing or not is hard to say.
 }
 [sha:2bfdc86d9eb3ac63c4481990b87825197a3c6782]{
@@ -221,7 +221,7 @@ That girl was nothing but trouble, but even so, it was... well, kinda fun to spe
 [sha:fb9438b7ec028696e485a90f3b91f44ba17fcb52]{
 -- Page 276, Offset 14579.
 -- 「……って、バカか俺は」
-"...Geez, what am I thinking."
+"Geez, what am I thinking..."
 }
 [sha:da7e29a27b4dbf7077cae9615fd32b77877855b8]{
 -- Page 276, Offset 14580.
@@ -256,10 +256,12 @@ I kill some more time strolling around the courtyard as I make my way back.
 [sha:83f5afe06c2e282bd9cacdd4a8924aeb0255a724]{
 -- Page 277, Offset 14586. Mods: @n.
 -- ……けれど。正体の分からない未練は、日が落ちた後も、
-And yet... Even after the sun has set, this strange lingering attachment...
+// These lines play immediately one after the other, so words shuffled
+// to manually linebreak them as a unit
+And yet... Even after the sun has set, this strange
 }
 [sha:ad88a5413fae3757da59f2e593f1fadccb379ab4]{
 -- Page 277, Offset 14587.
 -- 簡単には消えてくれなかった。
-...is not so easily forgotten.
+lingering attachment is not so easily forgotten.
 }
