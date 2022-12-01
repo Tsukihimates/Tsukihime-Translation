@@ -72,7 +72,7 @@ The bell rings, announcing the beginning of fifth period.
 -- Page 164, Offset 27512.
 -- こんな堂々と授業をさぼるのは初めてだ。なにしろ同じ学校内である。
 I've never been this bold about skipping class before.
- Not only that, but I'm skipping them while still %{i}in%{/i} school.
+ Not only that, but I'm skipping them while still %{i}at%{/i} school.
 }
 [sha:259a61e3164bfff9c5390427c8f97769e621771b]{
 -- Page 165, Offset 27513.
@@ -126,13 +126,13 @@ I―――
 [sha:f128663f716cffb0a46c02c67f2be8c9e28b0667]{
 -- Page 10016, Offset 42734. Choice.
 -- ……大聖堂ってなに？　と訊いてみる。
- Ask about what that 'Cathedral' thing was.
+ Ask what that 'Cathedral' thing was.
 }
 [sha:511bb62b03304dbfc12de93ce90d8af12672e10e]{
 -- Page 10016, Offset 42735. Choice.
 -- 黒鍵ってなに？　と訊いてみる。
 // Gated on F067 (10_4_2B?)
- Ask about what the Black Keys are.
+ Ask what the Black Keys are.
 }
 [sha:043a0aa1620e2dc7979445f062c2b99afda4af1d]{
 -- Page 10017, Offset 42736. Choice.
