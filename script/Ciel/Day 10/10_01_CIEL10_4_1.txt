@@ -110,24 +110,27 @@ And I had the impression that you also act a little reserved toward Noel-sensei.
 [sha:f5510d01d4881c29090a53d2c39fb29dc4d179c0]{
 -- Page 177, Offset 27541.
 -- 「ご安心を、それは遠野くんの杞憂ですので。
-"Rest assured, there is nothing to be worried about on that front Tohno-kun.
+"Rest assured, there is nothing to be worried about on that front, Tohno-kun.
 }
 [sha:536ca6e35f7c45923cd9afe17eeb7610f6f95a19]{
 -- Page 177, Offset 27542.
 -- わたしたちは代行者です。互いの役割に私情を持ち込みませんし、私生活には踏み込みません。
-We're Executors, after all. We don't bring personal feelings into our duties, nor do we pry into the others private lives.
+We're Executors, after all. We don't bring personal feelings into our duties, nor do we pry into each others private lives.
 }
 [sha:1551a84dfb10d0c760ad8be0ca539ff6708061c4]{
 -- Page 177, Offset 27543. Mods: @n.
 -- ノエル先生が何に興味を持ち、時間外なのに遠野くんに
-Noel-sensei may have strange tastes,
- take passes at you during her off hours,
+// Moved into the next line so that it doesn't break weirdly for no reason.
+// This line is @n so doesn't result in any super funky behaviour, just a space between grafs
+%{nothing}
 }
 [sha:16f18de60ff77303e19400c2d7dfb283af75091b]{
 -- Page 177, Offset 27544.
 -- ちょっかいをだしたり、職務のあとどれほど深酒をしていようと、咎めたりする事はないのです」
 // She's just like me fr
-and drink herself into a coma after work,
+Noel-sensei may have strange tastes,
+ take passes at you during her off hours,
+ and drink herself into a coma after work,
  but you'll definitely never see me criticize her for any of that, certainly not."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -149,7 +152,8 @@ Is Ciel-senpai... bad at making friends...?
 [sha:9cec6cbe9499dac97b87061ba79597448ab6d942]{
 -- Page 179, Offset 27548.
 -- 「じゃあ吸血鬼を退治する時以外、会ったりはしていない、と……それもそうか。
-"So the two of you don't meet up out unless you're exterminating vampires... Makes sense.
+"So the two of you don't meet up unless you're exterminating vampires...
+ That makes sense I suppose.
 }
 [sha:8346b7996dfc7623cbc4e9e38fa18a822c38cd03]{
 -- Page 179, Offset 27549.
@@ -191,7 +195,7 @@ That makes two dramatic reactions.
 [sha:8796bdf9a69358d98987b9e3c11d27fe1196f0b2]{
 -- Page 182, Offset 27556.
 -- どんな発言も笑顔で受け止める先輩とは思えない、驚愕の威嚇音だった。
-I'm used to seeing Senpai taking basically anything I say in stride,
+I'm used to seeing Senpai take basically anything I say in stride,
  but my comment elicited what sounds like almost hostile surprise.
 }
 [sha:2c899c4f836d99efff08ab751bd81883114014b5]{
@@ -210,7 +214,7 @@ I'm used to seeing Senpai taking basically anything I say in stride,
 -- ヤバイ。この話題、これ以上踏み込むと危険な気がする。後でノエル先生に背後から襲われかねない。
 // Noel-chan is a sweet girl, she'd never do that!
 Crap.
- I feel like digging any deeper on this topic is going to land me in trouble.
+ I feel like digging any deeper on this subject is going to land me in trouble.
  Noel-sensei might ambush me and break my kneecaps later.
 }
 [sha:85911a050bf3b7c9966e76190de56f16ef2273c3]{
