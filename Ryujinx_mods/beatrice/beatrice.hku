@@ -62,7 +62,7 @@ instrs 13de94 4 {
        !jump #0x144300
 }
 
-// x1 contains char **utf8
+// x1 contains char **utf8 (cave)
 instrs 144300 80 {
        // original instruction
        !call #0x1528C0
@@ -97,11 +97,11 @@ instrs 1441a8 80 {
        ldr x8, [x8]
 
        // compare orig char with 'A'
-       cmp w8, #0x41
-       b.ne #0x18
-       cmp w26, #0x57
-       b.ne #0x0c
-       fmov s8, #30.0
+       //cmp w8, #0x41
+       //b.ne #0x18
+       //cmp w26, #0x57
+       //b.ne #0x0c
+       //fmov s8, #30.0
        nop
        nop
        nop
