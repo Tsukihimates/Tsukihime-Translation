@@ -131,7 +131,7 @@ I don't really want to lie on the floor though...
 -- 壁に背中を預けてだらりと座り込んだ。
  Instead, I lean my back against the wall and slowly slump to a seated position.
 }
-[sha:5995a4aa1a6adf3b61d63927ddda978f0f3e4d3e]{
+[offset:27860]{
 -- Page 293, Offset 27860.
 -- 「――――――ふう」
 "―――%{i}Whew%{/i}."
@@ -605,7 +605,7 @@ Senpai is using her hand to take my temperature.
 [sha:e8874fc807f0c6f1e8cb2efdc5a3e3c1cffc2f45]{
 -- Page 324, Offset 27944.
 -- ああ、と眩しくて視界を細めた。
-It's so bright in here that I have to squint as I reply.
+I let out a soft sigh, blinded by the light streaming in.
 }
 [sha:5223c7ff1b7586d86074256ce03e122c11bd9dcd]{
 -- Page 324, Offset 27945.
@@ -621,27 +621,34 @@ I want her to be happy...
 [sha:7a92e7965a5bf7cb15731c2fa277a324b4528c3e]{
 -- Page 324, Offset 27947.
 -- アイツへの感情とは方向性の違うもの。俺が先輩に抱く気持ちは友愛や感謝に近い、相手の幸福を祈る愛情だった。
-My feelings for Senpai are of a different nature than what I feel for Arcueid. They're closer to comradeship, to gratitude, and to the tender affection with which one wishes for the other's happiness.
+I don't feel the same way about Senpai as I do about Arcueid.
+ When I think about her, the emotions I feel are closer to camaraderie or gratitude;
+ it's the sort of love that wishes for the other's happiness.
 }
 [sha:442783449495dc2e8cee2432e2a87bd02ea6eeb8]{
 -- Page 325, Offset 27948.
 -- 「―――そうですね。
-"Right―――
+"Is that right.
 }
 [sha:02ee3f588f6cddbcad20b9e3abe3020bb8664145]{
 -- Page 325, Offset 27949.
 -- それじゃあもしそういう時がきたら、先輩を頼ります」
-In that case, I'll be relying on you, Senpai, if such a time ever comes."
+Alright, if that time ever comes, I'll be counting on you Senpai."
 }
 [sha:e63387f2f1bf0695a0cda97f6f01637389d790a0]{
 -- Page 326, Offset 27950.
 -- 漏れかけた弱音を呑みこんで、強がりを返した。
-I swallowed up the complaint that almost spilled out, and instead put on a brave front.
+// On the fence about whether the 漏れかけた弱音 is the ああ a couple lines earlier,
+// or if it's more tying back to her saying she wanted to hear him complain -> actually I like that strength.
+// Leaning former.
+Stifling the sigh that leaked out a moment ago,
+ I reply with a false sense of bravado.
 }
 [sha:9c6746d50f702223141f7a4b4ace91afc11bf6ff]{
 -- Page 326, Offset 27951.
 -- 半ば横になっていた体を起こして、先輩の淹れてくれたお茶を飲む。少し冷めてしまっているのが残念だ。
-Rising up from my half slumped position, I take a sip from the tea that Senpai poured me. Unfortunately, it went a little cold.
+I pick myself up from my semi-supine position and take a sip of the tea Senpai prepared for me.
+ Unfortunately, it's gone a little cold.
 }
 [sha:cba4ad2a32029d8849e671827f64629f0ccd511f]{
 -- Page 327, Offset 27952.
@@ -661,68 +668,83 @@ Rising up from my half slumped position, I take a sip from the tea that Senpai p
 [sha:c80a43779b54ffac6afc091c8354cc0f8ac64140]{
 -- Page 328, Offset 27955.
 -- 考えてみたら俺はシエル先輩の事をなにも知らない。これまで何をしていたのかとか、どうして吸血鬼と戦う事になったのかとか、そういうの、教えてください」
-Thinking on it, I don't know anything about you. Could you tell me more about what you doing before, or about how you came to fight against vampires, this kind of thing?"
+Now that I think about it, I realize that I don't really know anything about you.
+ Can you tell me a little bit about your life up until this point, or how you ended up fighting vampires, or something along those lines?"
 }
 [sha:96df4a59292fb85343fa7be13b3a1257608e497c]{
 -- Page 329, Offset 27956.
 -- 「わ、わたしの事、ですか？
-"You're asking about... me?
+"Y-You want to hear about %{i}me%{/i}...?
 }
 [sha:5306f9d8e10b80b99e29086cec2e69af9dc3370b]{
 -- Page 329, Offset 27957.
 -- そんなの話してもつまらないというか、ホントにガッカリさせてしまうので話したくないというか……」
-I don't really want to... That kind of talk would be boring and it would make you sad for real..."
+I'd really rather not talk about myself...
+ It'd make for boring conversation,
+ and I'm certain you'd find my story depressing..."
 }
 [sha:40cd96e007c18d4130ad794a48a5e92968b36126]{
 -- Page 329, Offset 27958. Mods: @n.
 -- 「いいんです。話せる範囲で話してください。
-"It's fine. Please tell me what you're comfortable with.
+"Don't worry about that.
+ Please just tell me whatever it is you're comfortable saying.
 }
 [sha:fb101e010d9b09861918cdb3e7df28c96357be31]{
 -- Page 329, Offset 27959. Glued. Mods: @x.
 -- そうじゃないと自分を抑えられる自信がありません」
-// What is he talking about? Am I missing something or is he just shiki-ing?
-Otherwise, I'm not sure I'll be able to contain myself."
+// G: What is he talking about? Am I missing something or is he just shiki-ing?
+// R: Pretty sure this is just 'I can hardly contain myself I'm so desperate to learn more about you senpai UwU' Shiki-ing
+ I don't know if I'll be able to contain my curiosity if you don't."
 }
 [sha:5f77bf4923dbd94fe095391d2e52f3d91d8a6f8d]{
 -- Page 330, Offset 27960.
 -- 「そ、そうですか。……話せる範囲でいいなら、しますけど。せっかくの時間が、つまらないものになっちゃいますよ？」
-"I-Is that so? If you're fine with it, I'll tell you what I can... But now that we finally have a moment for ourselves, are you sure you want to make it all tedious?"
+"I-Is that so?
+ Well, if you really insist, I will, but...
+ It'll be boring, okay?
+ Free time is hard to come by, are you sure this is how you want to spend it?"
 }
 [sha:750f9a7e6fa04a644c137aa0530a8ec1c38f799b]{
 -- Page 330, Offset 27961.
 -- 是非、と先を促す。
-By all means, I spur her on.
+I certainly am. I motion for her to proceed.
 }
 [sha:dbeb75f90bb429ab9ddd490471ae77e300715571]{
 -- Page 330, Offset 27962.
 -- たとえ話題が重いものになっても、先輩の事なら何でも知りたい。
-I want to know more about her, no matter how heavy the topic could become.
+I want to know more about her,
+ even if that means that the conversation might start to get a little heavy.
 }
 [sha:2e6ba30b22f4f4f3c3ea3471c5f566b534332026]{
 -- Page 331, Offset 27963.
 -- 「とは言っても、本当に大した事はないんです。
-"I say this, but honestly, it's nothing incredible.
+"Well, having said all that, my past really isn't all that remarkable.
 }
 [sha:76c4998aa7f8aff4c5205d3b994b3d838ecd9ee5]{
 -- Page 331, Offset 27964.
 -- わたしはフランスのある地方都市の生まれで、お父さんはパン職人で、お母さんは日本人で。
-I was born in a medium-sized city; my dad was a baker; my mom was Japanese.
+// Didn't know 日本人 was an occupation
+I was born in a provincial town somewhere in France.
+ My father was a baker, and my mother was Japanese.
 }
 [sha:899dfdedf64a0942a8cad2d634dfe463b6b028a9]{
 -- Page 331, Offset 27965.
 -- 12歳の時に教会に入って、あとはずっと死徒を討伐する仕事をしていました。それと、今回みたいに学校に潜入調査するのは初めてです。勝手が違うので最初は戸惑いました」
-At the age of twelve, I joined the Church, and since then, my job has been to exterminate vampires. But, it's the first time I've gone on an undercover investigation at a school like right now. It was very different from what I'm used to, so I confused at the beginning."
+I joined the Church at the age of twelve,
+ and ever since then it's been my job to exterminate Dead Apostles.
+ Funnily enough, this is actually the first time I've ever infiltrated a school on a reconnaissance mission like this.
+ It's a pretty different environment to what I'm used to, so it took me a while to get my bearings."
 }
 [sha:95761770185d83ae46c221de0e071cc04d1ee322]{
 -- Page 332, Offset 27966.
 -- 「今回が初めて……。
-"Your first time...
+"This is your first time...?
 }
 [sha:df9f012fc7a0f44d419ddb11126df9ca220eab5f]{
 -- Page 332, Offset 27967.
 -- そ、そうですよね。吸血鬼を相手にするんだから、普通、学校に用はありませんよね」
-R-Right. Obviously, if you're taking on vampires, you don't need to go to school."
+R-Right, of course it is.
+ You don't really need to go to school if you've already got a job fighting vampires."
 }
 [sha:78dcc87f32327f9f24005d6447fbf84cca99128c]{
 -- Page 332, Offset 27968.
@@ -732,7 +754,8 @@ R-Right. Obviously, if you're taking on vampires, you don't need to go to school
 [sha:d207f1b5cc67511df178171bc3fddc29fbed5813]{
 -- Page 332, Offset 27969.
 -- いま何か、妙な事を口走らなかったか、俺？
-Wait, that was something strange to say, no?
+// Uh, I guess the 妙な事 is face value? That you can skip school if you're an Executor?
+Wait, isn't there something kinda off about what I just said?
 }
 [sha:df028e3d267fda9e339a41e9a4462938cfcc84de]{
 -- Page 333, Offset 27970.
@@ -742,22 +765,27 @@ Wait, that was something strange to say, no?
 [sha:fe8b26c07ea75df1b83316404da82aad755c338b]{
 -- Page 333, Offset 27971.
 -- あとは代行者になった理由ですが、これはわたしにその才能があったからです。せっかくの“死なない体”を使わないのは勿体ないですから」
-And if I became an Executor, it was because I had the talent for it. It would have been a waste not to make use of a unique body that won't die."
+As for why I became an Executor, it's because I already possessed a talent that made me a perfect fit for the job.
+ It would have been a waste not to make use of the fact that I have an undying body."
 }
 [sha:19d2abaa90977f3942bfd77aae063844b030fd5c]{
 -- Page 334, Offset 27972.
 -- 「死なない体が才能……？　……まあ、そう言えなくもないけど、先輩、生まれつきそういう体だったんですか？」
-"A body that won't die is... a talent? Well... I can't completely say the contrary. Senpai, were you born with this body?"
+"Having an undying body counts as a talent...?
+ Well, I guess I can't really argue that it isn't.
+ Was your body already like that when you were born, Senpai?"
 }
 [sha:8522a0964c4ce0419fcd146b18efb59b19925742]{
 -- Page 335, Offset 27973.
 -- 「いいえ、遠野くんと同じです。わたしも生まれつきこういう体をしていた訳ではありません。
-"No, I wasn't. Just like in your case, Tohno-kun, I too didn't have this body from birth.
+"No, I'm just like you, Tohno-kun.
+ I wasn't born with this ability either.
 }
 [sha:8a5bac40ee47e3c170bae6236ba50cc87ffc83b8]{
 -- Page 335, Offset 27974.
 -- 一度死にかけて……いえ、一度死んで、そこから生き返った人間なんです。なんか、そうしたら生き返るのがクセになっちゃいまして」
-I'm a human who almost died... no, who actually died once and then came back to life. And, it kind of turned into an habit, coming to back to life..."
+I'm just a human who almost died once... or rather, who %{i}did%{/i} die once but then came back to life.
+ After that, well, I guess I developed a bad habit of %{i}always%{/i} coming back to life."
 }
 [sha:05b62310bce4598e2252be81d2cda9b17a3201d6]{
 -- Page 336, Offset 27975.
@@ -767,27 +795,30 @@ I'm a human who almost died... no, who actually died once and then came back to 
 [sha:3ec0b7d772128d3adbcff9722ade5b9f5ffcd166]{
 -- Page 336, Offset 27976.
 -- 冗談のつもりなのか、先輩は苦笑まじりだ。
-Senpai says with a wry smile, as though she was telling a joke.
+Senpai has a wry smile on her face. Was that supposed to be a joke?
 }
 [sha:7e061b7dc3d4ffa3404a86cdb054583560432f4f]{
 -- Page 336, Offset 27977.
 -- でも今のは笑い話にできるコトじゃない。
-But that's not a laughing matter at all.
+It doesn't seem like a laughing matter to me at all.
 }
 [sha:ea863ab9a083f9b389a83594e364b79cee9fd424]{
 -- Page 337, Offset 27978.
 -- 「なんですかそれ。
-"What was that?
+"What's that supposed to mean?
 }
 [sha:983967ed5cc3d7eecb95fbe6c57fc9d1ff613e31]{
 -- Page 337, Offset 27979.
 -- 一度死んだって……もしかして、それは」
-That you died once... Does that mean―――"
+You said you died once... was that because, you know..."
 }
 [sha:83666662baa3450f8d48e706d394ee2f87ee7dc2]{
 -- Page 337, Offset 27980.
 -- 「はい。吸血鬼に殺されたんです。でもご存じの通り、わたしは何があっても元通りになる体質だったので、なんとか生き返れたんですよ」
-"Yes. I was killed by a vampire. But as you know, my body is able to return to its original state whatever happens, so I came back to life somehow."
+"Yes. I was killed by a vampire.
+ But, as you know,
+ regardless of what happens to me my body will always return to its original state,
+ so I came back to life somehow."
 }
 [sha:26cf02fd965e101d63a279c69a7381654b54185d]{
 -- Page 338, Offset 27981.
@@ -797,12 +828,13 @@ That you died once... Does that mean―――"
 [sha:6daf80727bb9d8b769607ba0628c677fa2d9adda]{
 -- Page 338, Offset 27982.
 -- 普通、死んだら生き返れないというか……」
-A normal person doesn't come back from death..."
+People don't normally come back to life after they've been killed..."
 }
 [sha:73cc5a0eaacc6139cad2d6041097cc9d1ec798df]{
 -- Page 338, Offset 27983.
 -- 「ですから、わたしは普通じゃなかったんです。それは遠野くんも見たでしょう？」
-"Once again, I wasn't normal. You saw it too, didn't you?"
+"As I've said, I wasn't exactly normal.
+ You've seen as much with your own eyes, haven't you?"
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 339, Offset 27984.
@@ -812,12 +844,12 @@ A normal person doesn't come back from death..."
 [sha:f8508f2203e366c9bfd2059267b3f57371ab27d0]{
 -- Page 339, Offset 27985.
 -- 確かに、先輩の不死身ぶりは何度か見ている。
-Certainly, I have seen Senpai's undying body at work many times before.
+It's true that I've had plenty of chances to notice that Senpai has an undying body.
 }
 [sha:7900f722637d7c8a7e6fc6b81dcff735353965fc]{
 -- Page 339, Offset 27986.
 -- ヴローヴとの戦いではまだそこまでじゃなかった。
-Against Vlov, it wasn't seem exactly 'undying'.
+Back when she was fighting against Vlov, it wasn't totally obvious.
 }
 [sha:82d3e6a04403b69ae504f8d94582078aca91e55f]{
 -- Page 339, Offset 27987.
@@ -827,7 +859,7 @@ But what she showed me after her fight with Arcueid was something even more 'imp
 [sha:f9778db23dae484306cd2c338d81f79b1a741d89]{
 -- Page 340, Offset 27988.
 -- 「でも、先輩は先輩です。普通じゃなくてもいいです。俺は今の先輩が大好きです」
-"But, you are who you are, Senpai. It's fine if you're not normal, I love you as you are, Senpai."
+"But, you are who you are, Senpai. It's fine if you're not normal. I love you just the way you are."
 }
 [sha:bf00040df4f45c9fc36e3e60ec4f936dac6e9bdf]{
 -- Page 341, Offset 27989.
@@ -837,21 +869,24 @@ But what she showed me after her fight with Arcueid was something even more 'imp
 [sha:9cbf4f78f9bfb52b54b0a9f0c519ca464f44cdeb]{
 -- Page 341, Offset 27990. Mods: @n.
 -- ……でも、ちょっと分かりません。こんな体、気味が悪いだけだと思います。
-But... I don't quite understand. I think this kind of body is simply repulsive.
+But... I don't quite understand.
+ I find this body of mine to be repulsive.
 }
 [sha:5a8d7428eeaa685afcb6d9bf86bdcbd06b225d8e]{
 -- Page 341, Offset 27991. Glued.
 -- わたし、遠野くんを怖がらせてばかりだと思ってました……」
-I thought it was only scaring you, Tohno-kun...!"
+ I thought it would have scared you away, Tohno-kun..."
 }
 [sha:33205088bba61428d72b9edfe9a78517b4504ffe]{
 -- Page 342, Offset 27992.
 -- 「―――あのですね。そんなの何度も言ってるでしょう。
-"Again? Excuse me, but I've said it time and time again.
+"Look... I've said this before, and I'll say it again.
 }
 [sha:d53303e3f6ee427a2128b51b5b73e29d20693491]{
 -- Page 342, Offset 27993.
 -- 異性として先輩が魅力的なのは言うまでもないし、吸血鬼と戦う先輩は格好いいです。
+// Ciel: I'm a freak... something that shouldn't exist... I repulse myself...
+// Shiki: Ok but have you considered that ur hot?
 You're very obviously attractive as a member of the opposite sex and you look so cool when you fight against vampires.
 }
 [sha:c57d03a1f9b4ec64cdbbeaac4195dbb66d75e4cf]{
