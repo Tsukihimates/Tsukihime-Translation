@@ -18,7 +18,7 @@ I ended up spending the entire afternoon here with Senpai.
 -- Page 356, Offset 28032.
 -- いったんお<家|うち>に戻りますか？　死者の探索は夜になってからの方が効率的ですし」
 Would you like to head home for a little while first?
- We'll be able to search for the Dead more efficiently if we start once it's already dark out."
+ We'll be able to search for the Dead more efficiently if we start after nightfall."
 }
 [sha:ce31d6dd8e17ffe3f565a7dfaa32305461677cc6]{
 -- Page 357, Offset 28033.
@@ -150,7 +150,7 @@ It's just that, you know..."
 -- Page 365, Offset 28056.
 -- ……考えたくない予想をしてしまって、先輩から目を逸らす。
 A future I'd rather not envision flashes before my eyes,
- and I look away from Senpai.
+ and I turn away from Senpai.
 }
 [sha:ff5fdf6d2830dbc1e044d6e1453d43a119aaa442]{
 -- Page 365, Offset 28057.
@@ -225,9 +225,7 @@ That Roa guy...
 [sha:bb85883757de08d7a8c56bd7b55b98f1adf134b1]{
 -- Page 370, Offset 28070.
 -- 空気が凍る。
-// Imi here is more "vibes destroyed, everyone in shock, friendly atmosphere gonzo"
-// but brainfarting on better phrase rn
-You could cut the atmosphere in here with a knife.
+All the warmth has drained from the room.
 }
 [sha:11a408b3468ccd247e5edab1658b17c05f242ec9]{
 -- Page 370, Offset 28071.
@@ -283,7 +281,7 @@ I don't doubt that she was telling the truth."
 [sha:c0b916c53e55d5fec7f6243fe608b968b4dd5762]{
 -- Page 373, Offset 28081.
 -- ……この目で見るまでは信じられない、という意味です。
-I meant more that I won't believe it until I've seen it with my very own eyes.
+I meant more that I won't believe it until I've seen it with my own eyes.
 }
 [sha:009839f38d8bd01363f0d9458e3236f73b75c124]{
 -- Page 373, Offset 28082.
@@ -300,12 +298,12 @@ Tohno-kun, did she mention anything else?"
 [sha:a44fb669d895900f2d8e323f039a6222af1eba9e]{
 -- Page 374, Offset 28084. Glued. Mods: @x, @n.
 -- なんてふざけたコトを言って
- I thought she was just pulling my le
+ I thought she was just pulling my le――
 }
 [offset:28085]{
 -- Page 374, Offset 28085. Glued. Mods: @k, @e.
 -- ―――
-――
+%{nothing}
 }
 [sha:6f32634bb935fd9c22240ca7090c9acbb1ae8af5]{
 -- Page 374, Offset 28086. Glued. Mods: @x, @n.
