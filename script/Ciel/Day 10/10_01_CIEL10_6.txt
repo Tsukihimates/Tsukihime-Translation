@@ -266,7 +266,7 @@ I can see that the wall she's pointing it at has been ripped apart,
 "Arcueid's handiwork.
  Nobody else would be foolish enough to do something like this down here."
 }
-[28284]{
+[offset:28284]{
 -- Page 434, Offset 28284.
 -- 「なるほど」
 "Yeah, that checks out."
@@ -494,12 +494,12 @@ She said that the Dead――vampires below Rank III――return to being corpses
 [sha:afcd1228562c43c85910fa2c2ae52a3fc25f8703]{
 -- Page 449, Offset 28326.
 -- 「で、でも、それは下級の死徒だけの話でしょう？
-"B-But, that's only the case for lower-ranked vampires, no?
+"B-But, that's only the case for lower-ranked vampires, right?
 }
 [sha:18c58fd8c24016ac51c2fd32063e20954cd112aa]{
 -- Page 449, Offset 28327.
 -- Ⅲ階梯より上の吸血鬼なら、ロアがいなくなっても自分の意思で行動するって」
-Vampires rank IV and above can act independently without Roa's presence, right?"
+If they were Rank IV or above, couldn't they still carry on even after Roa's left the picture?"
 }
 [sha:8f37b60ff2a389ab22511cc9383cc907f26e65cc]{
 -- Page 450, Offset 28328.
@@ -509,12 +509,14 @@ That's right.
 [sha:311b1aa8352964290b27216bcd804f98dc2509cf]{
 -- Page 450, Offset 28329.
 -- たとえばあの地下ガレージの吸血鬼たち。連中はⅢ階梯より上だった。ロアが死んでいたとしても、そこに矛盾はない。
-The vampires in that underground garage for instance. Those guys were above rank III. There's nothing contradictory, even if Roa's dead.
+Take the vampires in that underground garage, for instance.
+ They were definitely all above Rank III.
+ Everything can still be explained, even if Roa's dead.
 }
 [sha:0f3982fa9e2bdd5715ee9a3ba506e395e9eb4bb5]{
 -- Page 451, Offset 28330.
 -- 「……ニュースは、ありましたか？」
-"Was there... any report?"
+"The news... Have there been any reports?"
 }
 [sha:a06af1b0e9163257f239b0eb8c305537e0f437fe]{
 -- Page 451, Offset 28331.
@@ -524,87 +526,95 @@ The vampires in that underground garage for instance. Those guys were above rank
 [sha:52f6d4550d8c60becb5e6b2c9a1c745996345e74]{
 -- Page 452, Offset 28332.
 -- 「テレビでもネットでもいい。ここ数日で身元不明の遺体を発見した、というニュースはありましたか？
-"On TV or on the internet, it doesn't matter. Was there any report those last few days of unidentified corpses having been found?
+"It doesn't matter whether it was on TV or the internet.
+ Have you seen any reports in the past couple of days about unidentified corpses turning up?
 }
 [sha:8d96c8527ccd2979dd5db553096c9afa18e5346e]{
 -- Page 452, Offset 28333.
 -- ロア……親である死徒が消滅したのなら、その時点で隠蔽されていた事件が明るみになる。
-If Roa... if the sire, had vanished, all the cases that had up to now been hideen would have come to light.
+If Roa... if the sire really vanished, then all of the disappearances they've been covering up would have come to light.
 }
 [sha:2618b8ddcaae7ef48ee5ac3f0d8fd2f29788606b]{
 -- Page 452, Offset 28334.
 -- 死徒討伐において、<街|・><が|・><ま|・><だ|・><平|・><穏|・><で|・><あ|・><る|・><事|・>―――それ自体が何も解決していない証拠なんです……！」
-When exterminating Dead Apostles, %{i}for the city to still be at peace%{/i}―――That alone is proof that nothing's been solved...!"
+If you're exterminating Dead Apostles,
+ and the city %{i}continues to be peaceful%{/i},
+ that's actually proof that you've yet to accomplish anything...!"
 }
 [sha:129b1899806fbd52ea61f52c6260c3c97eb6e31b]{
 -- Page 453, Offset 28335.
 -- 「―――じゃ、じゃあ。
-"T-Then―――
+"T-Then...
 }
 [sha:f05056f7aa8b2a27c29d35eedd1102b798fc29d7]{
 -- Page 453, Offset 28336.
 -- そこにあるロアの遺体は偽物で、ロアのヤツは、」
-The dead corpse here isn't actually Roa's, and Roa is..."
+You mean that corpse over there is a fake, and Roa's actually―――"
 }
 [sha:1caf0c96251a488a4086a501245d2aa4fc8486d2]{
 -- Page 454, Offset 28337.
 -- 「そう。死徒ロアはまだこの街にいる。
-"Yes. Dead Apostle Roa is still in the city.
+"Yes. Dead Apostle Roa is still in this city.
 }
 [sha:05453c74abba5c913e537ed48f47b4fad57d10da]{
 -- Page 454, Offset 28338.
 -- いえ―――はじめからずっと同じ<器|からだ>にいたんじゃないかしら。ねえ、そう思わない、遠野志貴クン？」
-No... He's always been here, in the vessel he had since the very beginning, I imagine. Hmm, am I right, Tohno Shiki-kun?"
+In fact... I'd imagine he's actually been in the same body this entire time.
+ What do you think, am I right, Tohno Shiki-kun?"
 }
 [sha:64b9fe65b258b7725fc0416da320932e3ddddece]{
 -- Page 455, Offset 28339.
 -- 石室に女の声が響く。
-The woman's voice echoes through the stone room.
+A woman's voice echoes through the stone room.
 }
 [sha:e5e2c97e7e59ace356a8c44b544ce9d47fd1ca78]{
 -- Page 455, Offset 28340.
 -- 振り向けば、俺たちが入って来た入り口には修道服を着たノエル先生の姿があった。
-By looking over my shoulders, I would have seen Noel-sensei in her nun outfit standing by the entrance we should came through.
+When I turn around I see Noel-sensei, dressed in her habit, standing in the entrance we just came through.
 }
 [sha:eb0b542de35415f27a594bc5f1e130a671a85036]{
 -- Page 456, Offset 28341. Mods: @n.
 -- 「ふふふ。
-"Pffff.
+"%{i}Heehee%{/i}.
 }
 [sha:2f17e992bd69db98f1e6af3078da31b86f10e7a6]{
 -- Page 456, Offset 28342. Glued.
 -- 志貴クンを尾行していたらとんでもない場所に案内してもらっちゃった。それがロアの柩？　今の話じゃもう何の意味もないゴミ箱みたいだけど」
-I thought I would tail you, Shiki-kun, and you guided me to this crazy place. %{i}This%{/i} is Roa's coffin? Looks like a meaningless trash can to me now."
+ I was just tailing Shiki-kun, and would you look at this place you've led me to.
+ That's supposed to be Roa's coffin?
+ Based on what you've just said, it's more like a meaningless box of trash."
 }
 [sha:f7b281b0a56b496583207dfb86a10718edc5d6e4]{
 -- Page 456, Offset 28343.
 -- 槍斧を手にしたまま、女は石室に踏み入った。
-The woman enters the stone room with her halberd in hand.
+The woman enters the stone room, her halberd already in her hand.
 }
 [sha:78e0469f8bc675a3b1f192365da46bc5c7acfe41]{
 -- Page 457, Offset 28344.
 -- その不吉さに全身が警戒する。
-It was so ominous that my whole body was on edge.
+It's such a threatening sight that my whole body is on edge.
 }
 [sha:813663cc838dce35102f970800df4e6d46def7dc]{
 -- Page 457, Offset 28345.
 -- ……今の彼女を“先生”と呼ぶことは難しい。
-I can't see myself calling her `sensei` as she currently is.
+I can't see myself calling her 'sensei' at this point...
 }
 [sha:3af0f0918fcea66a159a2681598149ce8597328d]{
 -- Page 457, Offset 28346.
 -- 廃工場での惨劇が頭をよぎる。
-The gruesome tragedy at the abandoned factory flashes in my mind.
+The gruesome scene from the abandoned factory flashes across my mind.
 }
 [sha:18df008487ca7f9a1734fddea3d136e6c754e11e]{
 -- Page 458, Offset 28347.
 -- あからさまな作り笑い。隠そうともしない嫌悪と殺意。隙あらば凶器を振り下ろそうと<窺|うかが>う下卑た視線。
-A blatantly fake smile. An hostility and bloodlust not even barely veiled. Nasty eyes looking for the slightest opportunity to swing down her weapon.
+Her smile is blatantly fake.
+ She isn't even trying to disguise her hostility or thirst for blood,
+ and it feels like her lascivious gaze is on the lookout for any opportunity to bring her weapon crashing down.
 }
 [sha:9d56c15c26843e52b921f1abe1b6f3b814e53879]{
 -- Page 458, Offset 28348.
 -- いま、そのすべてが俺に向けられている。
-Right now, all of it is directed toward me.
+Right now, all of that attention is focused on me.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 459, Offset 28349.
@@ -614,42 +624,48 @@ Right now, all of it is directed toward me.
 [sha:00ad87144e7c78d266b34011cbcfe0ed9a46a1e7]{
 -- Page 459, Offset 28350.
 -- ノエルに気付かれないよう、袖の下にナイフを忍ばせる。
-I hide my knife under my sleeve, being careful not to be noticed by Noel.
+I tuck my knife into my sleeve,
+ careful to not let Noel notice as I do.
 }
 [sha:e984a24649645786a0d1ba6a86948a42fd4f42e6]{
 -- Page 459, Offset 28351.
 -- わずかに踵を浮かせて不意の襲撃に備える。
-I ever so slightly raise myself on tiptoe, preparing myself for an unexpected attack.
+Shifting my weight onto the balls of my feet,
+ I ready myself against a surprise attack.
 }
 [sha:4390ed3723389800f71a05c08d52e34ce25ccadb]{
 -- Page 459, Offset 28352.
 -- ―――そんな俺の様子を、女は愉しげに眺めている。
-The woman mirthfully looks on as I do so.
+Seeing me do this, the woman just looks at me with amusement.
 }
 [sha:a9afd3fbaf18ab8f0082e44dbf8b6c345d18e692]{
 -- Page 460, Offset 28353.
 -- 「でもさすがシエルさんね。
-"But well done indeed, Ciel-san.
+"I have to hand it to you, Ciel-san.
 }
 [sha:cc39e3777ae3a8a49c234408d5eda212b8219bf0]{
 -- Page 460, Offset 28354.
 -- こんな逃げ場のない場所に標的を誘き出すなんて、あいかわらず手際がいいわ。
-To have lured the target to such a inescapable place, I see your execution is as splendid as always.
+You managed to lure the target to an inescapable place like this...
+ Your acting skills really are top notch.
 }
 [sha:646fd004bac0f4c065ed35d23cd9a8552c44fcea]{
 -- Page 460, Offset 28355.
 -- ほら、早く始めましょう？　入り口はわたしが押さえておくから、貴女はそこの吸血鬼を殺してあげて」
-Now, isn't it time to begin already? I'll cover the exit, and I'll let you kill that vampire over there."
+Now, shouldn't we get started already?
+ I'll cover the exit, so killing the vampire over there is all you."
 }
 [sha:1570b68e28c58c2ceaaa110003135bea8746dd6e]{
 -- Page 461, Offset 28356.
 -- ノエルの呼びかけに、シエル先輩が反応する。
-Noel's call doesn't leave Ciel-senpai unaffected.
+Ciel-senpai flinches when Noel-sensei calls out to her.
 }
 [sha:d449126abcc4d332d94805c7e47cd286005181bc]{
 -- Page 461, Offset 28357.
 -- 先輩は弱々しく肩をせばめ、ゆっくりと―――痛ましいものを見るような目を俺に向けた。
-Senpai weakly slumps her shoulders, and slowly turns her eyes on me, as though looking at something pitiful.
+She weakly slumps her shoulders,
+ then slowly turns to face me,
+ a look of pity in her eyes.
 }
 [sha:5d631305fe85b050fba007113d99888b063f126c]{
 -- Page 462, Offset 28358.
@@ -659,37 +675,44 @@ Senpai weakly slumps her shoulders, and slowly turns her eyes on me, as though l
 [sha:ea54b824fc6f14e8a34a32eaf845ab4d04343186]{
 -- Page 462, Offset 28359.
 -- 頭が真っ白になる。
-My head goes blank.
+My mind goes blank.
 }
 [sha:146fdb6bde9ab59c10b73734a89516df15a099ae]{
 -- Page 462, Offset 28360.
 -- まったく話についていけない。理解しようとさえ思えない。
-I can't keep up with the conversation. I can't even begin to try to understand it.
+I can't follow this conversation at all.
+ I can't even %{i}begin%{/i} to try to understand it.
 }
 [sha:4cb617c81ffefc32d7389bb7fef7b209aaeea448]{
 -- Page 462, Offset 28361.
 -- いま、二人はどんな内容を口にしたっけ……？
-What did they say just now...?
+Just what on earth did they just say to each other...?
 }
 [sha:56b51c83008a471470ba6dc964ce2420c2b2c5f5]{
 -- Page 463, Offset 28362.
 -- 「まだ分かってないの？　それとも分かってない演技？
-"You still don't understand? Are you pretending not to understand?
+"You still don't get it? Or are you simply pretending not to understand?
 }
 [sha:f1dcd945d624b9be8cfb395483ad4f9b86eb9368]{
 -- Page 463, Offset 28363.
 -- まあどっちでもいいんだけど。物証も取れたし、今なら真祖もやってこないし、ようやく年貢の納め時よね」
-Oh well, it's all the same anyway. I have obtained proof, and that True Ancestor won't be coming this time. It's finally time to pay for your sins."
+Well, not that it matters.
+ We've got proof, and that True Ancestor isn't going to show up this time.
+ It's finally time for you to pay the piper."
 }
 [sha:972338891a8eea5d62568630491fa287f4d183c0]{
 -- Page 464, Offset 28364.
 -- 「こんな結果になっちゃったのは残念だけど、ま、八割方分かっていた事だから悲しくもないか。
-"It's too bad that it ended up like this, but I was 80% sure it would happen, so I guess I'm not too sad.
+"It's a shame things had to end this way, but, well,
+ I had a hunch this might be the case,
+ so I guess I'm not all that broken up about it.
 }
 [sha:2869ceb6411f921de5d1d0c3e548e8fb9dc99c17]{
 -- Page 464, Offset 28365.
 -- それじゃバイバイ。貴方の悪運もここまでよ、吸血鬼」
-This is goodbye. Your bad luck ends here, vampire."
+// 悪運 undeserved _good_ luck, not bad luck
+Alright, bye bye, vampire.
+ Your luck has finally run out."
 }
 [sha:0c845b039b2d2f64c1a048220bda7b8269bc5cc1]{
 -- Page 465, Offset 28366.
@@ -699,7 +722,7 @@ This is goodbye. Your bad luck ends here, vampire."
 [sha:c4940e6d7250dd691dfc437da06431ea89dcab45]{
 -- Page 465, Offset 28367.
 -- 言っているんだ、あの女は。
-―――is that woman even saying?
+What the hell is she talking about?
 }
 [sha:fc87f4fd44c83389874fbe400b7632244ea06cc0]{
 -- Page 465, Offset 28368. Mods: @n.
@@ -709,7 +732,7 @@ I don't understand. My legs feel weak.
 [sha:a541abc07e6d3512735445dbfd6beabd1d161f74]{
 -- Page 465, Offset 28369. Glued.
 -- 指先が震えて、忍ばせていたナイフを取り落としそうになる。
-My fingers are trembling so much that the knife that I hid away could have fallen.
+ My fingers are trembling so much that I almost drop the knife I hid up my sleeve.
 }
 [sha:cb38f7d021c9b34e1e407b53fa8e5806127812e2]{
 -- Page 466, Offset 28370.
@@ -719,27 +742,31 @@ My fingers are trembling so much that the knife that I hid away could have falle
 [sha:18b24f75780b128a6c5da5381d3c94a94a98ee29]{
 -- Page 466, Offset 28371.
 -- 知らずこぼれた声は、まるで助けを乞う罪人のようだった。
-I unknowingly call out to her in a manner reminiscent of a criminal begging for help.
+I reflexively call out to her,
+ but my voice sounds like that of a sinner begging for forgiveness.
 }
 [sha:08a27f200bb77b4af5756175fad47e331d26d7f3]{
 -- Page 467, Offset 28372.
 -- 先輩は気まずそうに俺から視線を逸らす。
-Senpai uneasily averts her eyes.
+Senpai awkwardly avoids meeting my gaze.
 }
 [sha:63ca257d941e4495b953624edcfe8659fe15bf47]{
 -- Page 467, Offset 28373.
 -- いま好き放題に妄言を垂れ流している<女|ノエル>の方が正しいと言うかのように。
-As though saying that the woman outrageously spouting off her delusions was right.
+It's like she's saying that the woman spouting all this nonsense is correct.
 }
 [sha:c56859bfa90c0e037d2ccb6d10a76f4ca3d2023b]{
 -- Page 468, Offset 28374.
 -- 「あのさあ。いつまでも被害者面しないでもらえないかなあ。
-"Now listen here, I'd appreciate you not playing the victim forever.
+"Come on, enough already.
+ How long are you going to pretend to be the victim here?
 }
 [sha:bb94b4215a369e31a221adee81d842df9e353001]{
 -- Page 468, Offset 28375.
--- この付近でロアの転生先に該当する家柄は遠野家だけ。その遠野家には長男と長女がいたけど、次の転生先は男子である事だけは判ってた。だから必然、キミが今代のロアなわけ。
-In this region, the only pedigree adequate to be considered for reincarnation for Roa is that of the Tohno family. There is a Tohno eldest son and a Tohno eldest daughter, but it is known that the next reincarnation is a boy. You are therefore, for certain, this generation's Roa.
+-- この付近でロアの転生先に該当する家柄は遠野家だけ。その遠野家には長男と長女がいたけど、次の転生先は男子である事だけは判ってた。だから必然、キミが今代のロアなわけ
+Only one family in this area meets Roa's requirements for reincarnation――the Tohnos.
+ The family has both a daughter and a son, but it's known for a fact that this reincarnation is male.
+ Therefore, by process of elimination, we can be sure that %{i}you%{/i} are this generation's Roa.
 }
 [sha:60c6cccadf489a6237a3870b8b783eeee42b5bed]{
 -- Page 468, Offset 28376.
@@ -754,92 +781,98 @@ Do I really have to spell it out for you to get it?"
 [sha:c921bf1516b4ffea358a112a7b50820224cf0f66]{
 -- Page 469, Offset 28378.
 -- 俺は吸血鬼なんかじゃないし、ロアなんてヤツも知らない！」
-I'm not a vampire or anything like that! I don't even know this Roa guy!"
+I'm not a vampire, and I don't even know the first thing about this Roa guy!"
 }
 [sha:60cbdf4a8c823bdb822786f8240d146572fce1fa]{
 -- Page 470, Offset 28379.
 -- あまりの暴言に全身の麻痺が取れた。
-It's such a ridiculous declaration that my body shook its numbness off.
+Her accusation is so absurd that it snaps me out of my paralysis.
 }
 [sha:1422c18912fa8ed50dd125cbb950bf254a6c06cf]{
 -- Page 470, Offset 28380.
 -- だって、身に覚えがないにも程がある。
-I mean, I have absolutely no memory of having done that.
+// lol
+I mean, I feel pretty sure I'd at least %{i}notice%{/i} if I were a vampire.
 }
 [sha:1dacdb9c927d24a1e47986f611dd9eb7d3b8b947]{
 -- Page 470, Offset 28381.
 -- 俺は吸血鬼を追っている側で、間違ってもアイツらの仲間じゃない……！
-I'm on the side of those who hunt vampires, I would never ever be one of them...!
+// Buddy you are at last one vampire's 仲間
+I've been working with the people who %{i}hunt%{/i} them,
+ there's absolutely no world in which I'm on their side...!
 }
 [sha:d597c65701286cdaa8d5ad050adff7cc6c42186e]{
 -- Page 471, Offset 28382.
 -- 「あれ……？　もしかしてホントに気付いてなかった？
-"Oh...? Have you really never noticed?
+"Huh...? Wait, have you seriously not realized it?
 }
 [sha:21189508fd0a198cd63a93360cd9411ecb277caa]{
 -- Page 471, Offset 28383. Mods: @k, @e.
 -- 志貴クンったら、そこまで見事にシエルさんと同じなワケ？
-Oh you, Shiki-kun... So you're beautifully taking after Ciel-san, up to the very end, then?
+Oh, Shiki-kun...
+ You've really taken after Ciel-san perfectly, haven't you?
 }
 [sha:49fb61e67525076d86cf11f255b90866ec80a687]{
 -- Page 471, Offset 28385.
 -- ……あっちゃあ。これはちょっと悪いコトしちゃったな……でも……でも……」
-Oh no... I think I did something bad... but... oh..."
+Oh man... I guess I really put my foot in it didn't I... but, well..."
 }
 [sha:35b7556b47a0ec7b864c3017fb88902890f88874]{
 -- Page 472, Offset 28386.
 -- 修道服の女はわずかに顔をうつむかせ、口元に手を当てた。
-The woman in the nun outfit ever so slightly hangs her head down, covering the corner of her mouth with her hand.
+The woman in the habit ducks her head slightly,
+ and covers her mouth with her hand.
 }
 [sha:1fd464b19bd8b2a4c5fcd97a4f34d32c124363d8]{
 -- Page 472, Offset 28387.
 -- その背中は小刻みに震えている。
-Her back is rattled by small spasms.
+Her back shivers and quakes softly.
 }
 [sha:98683b25bde82778ff699dd187686423cf22a49e]{
 -- Page 472, Offset 28388.
 -- 呼吸を止めて何かを堪えているらしい。
-She stopped breathing, as though trying to hold something in.
+She's holding her breath, as though trying to contain something.
 }
 [sha:c77a2c0c59fb7231392efb66cc618d7a401d2e1c]{
 -- Page 473, Offset 28389.
 -- 「ふふ……うふふ」
-"Hihi―――Hihihi"
+"%{i}Heh%{/i}―――%{i}Heheheh%{/i}"
 }
 [sha:91b59d3e29c124bdffad6120652a94198b711390]{
 -- Page 473, Offset 28390.
 -- ……塞がれた口の隙間から、気味の悪い音が聞こえる。
-A nasty sound slips out from between her closed lips.
+An unsettling sound slips out from between her closed lips.
 }
 [sha:3736bee75ea5cd45120ce6d8472284b57b700493]{
 -- Page 473, Offset 28391. Mods: @n.
 -- <女|ノエル>はもう我慢できないとばかりに口から手を離し、
-Noel removes her hand from her mouth as though announcing she couldn't take it anymore.
+Noel removes her hand from her mouth, as though announcing she can't hold it in anymore,
 }
 [sha:20cde28145a18f7459dd8c00ca293d76f6cc2b5b]{
 -- Page 473, Offset 28392. Glued.
 -- その顔を俺に向けた。
-She turns her head toward me.
+ and turns to face me.
 }
 [sha:5a2e6d1e762eb7ee19c2fa544b003ce6c8f600fc]{
 -- Page 474, Offset 28393.
 -- 「あははははははははは！
-"Ahahahahahahahaha!
+"%{i}Ahahahahahahahaha%{/i}!
 }
 [sha:03a83b0a8e2614f49a577da2e673eeca6efb6783]{
 -- Page 474, Offset 28394. Mods: @n.
 -- さいっこう、
-That's so good!
+Ohh, that's too rich!
 }
 [sha:e7dfbbe5bfd8878ac9cb0a4887ab6f02808147e5]{
 -- Page 474, Offset 28395. Glued.
 -- それでこそロアの生まれ変わりよね！
-That's exactly why you're Roa's reincarnation!
+ Just what you'd expect from Roa's reincarnation!
 }
 [sha:aa1417bb25c4ef61eeccc3a6e5c94e99d233bb81]{
 -- Page 474, Offset 28396.
 -- 最後まで自分が無実だなんて思いこんでるとか、無様すぎてワクワクしちゃう！」
-Being convinced up to the very end that you're innocent, that's so pathetic I'm getting all excited!"
+Totally convinced you're totally innocent right up until the very end!
+ Oh, it's so pathetic that I'm getting all excited!"
 }
 [sha:41fbcaf10c183fcc1d00dae6f81157811fc567f6]{
 -- Page 475, Offset 28397.
@@ -854,6 +887,7 @@ I tightly grasp my knife and glare at the woman.
 [sha:2fff0d8156994551153b7ebece7607dddb53b1e0]{
 -- Page 475, Offset 28399.
 -- 俺がロアの生まれ変わり……？
+// He may not be the smartest
 Roa's reincarnation... Me?
 }
 [sha:ad85affc06f5f6f52413fe15d712179c1cbb1dca]{
