@@ -2,82 +2,95 @@
 -- Page 10035, Offset 28780.
 -- 「は……ぁ……はあ、はあ、あ―――！」
 // I LOVE NOEL
-"Haa... Haa... Haa―――!"
+"%{i}Haa%{/i}... %{i}Haa%{/i}... %{i}Ah%{/i}... %{i}Aaauuuugghhhhh%{/i}―――!"
 }
 [sha:c1f76d0aa36725b9abb89c97f471deb853967b51]{
 -- Page 10035, Offset 28781.
 -- 原因不明のガス爆発により崩落した公園跡。
-The collapses remnants of the park, devastated by a gas explosion of unknown cause.
+Following a gas explosion of unknown cause,
+ this crater is all that's left of the park.
 }
 [sha:a1b0a553986a96c0d8d270dfee8f6537484ae972]{
 -- Page 10035, Offset 28782.
 -- 警察によって封鎖されたものの、事件当日以降は調査を打ちきられ、今では都市の死角となった瓦礫の山。
-The police have cordoned it off, but since they stopped their investigation the very next day following the incident, this mountain of rubble has now been reduced to an abandoned area inside the city.
+The police cordoned it off,
+ but their investigation has been on hold ever since,
+ leaving this mountain of rubble a blind spot nestled within the city.
 }
 [sha:0fc230ff25839ac8f7ad4596e7f719e82865e2b6]{
 -- Page 10035, Offset 28783. Mods: @n.
 -- その不毛の地に、
-On this barren land―――
+// Consolidated across @n
+Noel flees across this barren land, her breath coming
 }
 [sha:06482cb36db27c38766b6a53fcaa16ce6e79d0e8]{
 -- Page 10035, Offset 28784.
 -- <彼女|ノエル>は苦痛を吐き出しながら逃げこんでいた。
-Noel is scurrying away, breath laboring from agony.
+in short, painful bursts.
 }
 [sha:07a9ce55af03c709d1ed59ee4ee809f845bc630e]{
 -- Page 612, Offset 28785.
 -- 「ぁ、はあ……あ、づ……！　あぐ、ううぅうう……！！」
-"Uh... Haa, ah... gh...! Guh... Ughhhh...!"
+"%{i}Uh%{/i}... %{i}Haa%{/i}, %{i}ah%{/i}... %{i}gh%{/i}...! %{i}Guh%{/i}... %{i}Ughhhh%{/i}...!"
 }
 [sha:1be29f32b218e4096376c5baad8ac1548369374d]{
 -- Page 612, Offset 28786.
 -- 電撃で麻痺した片脚は満足に動かず、這ったまま瓦礫の坂を下りていく。
-She crawls down the pile of debris, as she can't fully make use of one of her legs, as if it were paralyzed.
+With one of her legs paralyzed from an electric shock and unable to move properly,
+ she crawls her way down the sloping rubble.
 }
 [sha:000605ecbd1a96d5377d31a2fb65e9fbf6da0d46]{
 -- Page 612, Offset 28787.
 -- 頬は泥で汚れ、修道服は破れ、右肩を抉った傷口は完全に壊死している。
-Her cheeks are smeared in mud, her nun clothes are in tatters, and the tissues in the gaping wound of her right shoulder have completely necrosed.
+// 'fully necrotic' -> gangrenous
+Her cheeks are smeared in mud,
+ her habit is in tatters,
+ and the gaping wound in her right shoulder has become gangrenous.
 }
 [sha:8f318316f148eb657ca197ac0b96dbfba67deeba]{
 -- Page 613, Offset 28788.
 -- その姿は<見窄|みすぼ>らしい事この上ない。
-Her current state is the epitome of wretchedness.
+She's the very picture of wretchedness.
 }
 [sha:04d4cb8929ca6219c2d67e9b34a24f06ca33dfad]{
 -- Page 613, Offset 28789.
 -- 事情を知る者なら下級の死徒、それも最低位の死者と判断するだろう。彼女がほんの数刻前まで代行者だったと話したところで信じる者はいない程に。
-People witnessing this scene would likely deem her a low-class Dead Apostle, or maybe even a Dead of the lowest rank. So wretched that they wouldn't believe you if you told them that, just a scant few moment earlier, she had been an Executor.
+Anyone who caught sight of her would surely think she's a low-ranking Dead Apostle,
+ possibly even one of the Dead, the lowest of the low.
+ She looks so downtrodden that if you told someone that mere hours earlier she'd been an Executor,
+ they wouldn't be able to believe it.
 }
 [sha:dce3f9e6baf9e7739633f787523fc96785ed5ede]{
 -- Page 614, Offset 28790.
 -- 「あ―――きゃあああ…………!?」
-"Ah――――Guhhhh...?!"
+"%{i}Ah%{/i}――――%{i}Auuuugghh%{/i}...?!"
 }
 [sha:9c250a32ba0eb4a8052ec3c46f49e54ae31fc980]{
 -- Page 614, Offset 28791.
 -- 運悪く積み上がった瓦礫のバランスを崩し、捨てられるゴミ袋のように最下層まで転がり落ちた。
-She tragically loses her balance over the pile of debris, tumbling down to the bottom like a garbage bag someone would fling away.
+She steps on an unfortunately placed piece of debris,
+ causing its fragile balance to collapse,
+ and sending her tumbling to the bottom like a garbage bag that's been tossed to the curb.
 }
 [sha:cb22c32ec5155d18b1a596ecf9ef640e0df1bcc4]{
 -- Page 615, Offset 28792.
 -- 「ひ、ぎ……！　いい、ぃ、い、い……！」
-"Guh... Gah...! Hiii, hiii...!"
+"%{i}Guh%{/i}... %{i}Gah%{/i}...! %{i}Hiii%{/i}, %{i}hiii%{/i}...!"
 }
 [sha:2bc0c6b26cf2ebaff4ce1bb30f0d8485b54c4719]{
 -- Page 615, Offset 28793.
 -- 喉からこみあげる悲鳴をかみ殺す。
-She stifles down the cries of anguish welling up from her throat.
+She stifles the scream threatening to spill from her mouth.
 }
 [sha:349c10655578e5475fc1ec3f0d7f6fbbfb10bb2d]{
 -- Page 615, Offset 28794.
 -- 追っ手はいないと分かっていても大声はあげられない。
-She keeps her voice down even though she knows that no one is following her.
+Even though she knows there's nobody coming after her, she won't let herself cry out.
 }
 [sha:b4e8c1696de7925f4609101c0684200ef618a8cb]{
 -- Page 615, Offset 28795.
 -- 彼女は様々なものから逃げてきたからだ。
-Because she has run away from many a thing.
+Because she's run away from all sorts of things.
 }
 [sha:77336bfb01624987f7194df6c1e8cc4fbbc25ea4]{
 -- Page 615, Offset 28796.
@@ -93,12 +106,12 @@ From the order to appear in front of the insolent Acting Presbyter.
 [sha:7a45fe35bfe2fdcd04d72812ea5e864a66f7cf08]{
 -- Page 615, Offset 28798.
 -- そして―――今も自分の喉を攻める、卑しい血の渇きから。
-And now―――from the voracious thirst for blood assailing her own throat.
+And now――from the voracious thirst for blood that burns in her throat.
 }
 [sha:1e6ee564f61cd5ba1d0de25d298bc72921a0a369]{
 -- Page 616, Offset 28799.
 -- 「治療……治療なんて、受けられるワケ、ないじゃない……」
-"Treatment... There's no chance in hell I would ever accept treatment..."
+"Treatment... There's no way in hell I could ever accept treatment..."
 }
 [sha:57d3d6ac8c55536efcd93dc0a51ef31799849ff0]{
 -- Page 616, Offset 28800.
@@ -108,27 +121,29 @@ She can't help but weep, unable to bear the pain in her shoulder.
 [sha:430016aa7433775e11c5d8dc681a1d8920dd5c50]{
 -- Page 616, Offset 28801.
 -- 教会の支部にまで行けば傷の治療は受けられる。だがそれだけは選べない。いま自分の身体を診られる事は、彼女にとって自殺と何も変わらない事だからだ。
-She could have her wounds cared for if she went to a branch office of the Church. But that is the one thing she absolutely must not do, for having her body as it currently is being inspected, would be tantamount to suicide for her.
+If she want to one of the Church's branch offices, she could receive treatment for her wounds.
+ But that's one thing she could never do.
+ If she were to have her body examined as it is now, it would be tantamount to suicide for her.
 }
 [sha:0710685cde45f51c3804673c9af4ffac7b9dd0a6]{
 -- Page 617, Offset 28802.
 -- 「ぁ―――ああ、はう、うぅぅう…………！」
-"Ah―――Ahhhh, argh, ugh...!"
+"%{i}Ah%{/i}―――%{i}Ahhhh%{/i}, %{i}argh%{/i}, %{i}ugh%{/i}...!"
 }
 [sha:0f4da8aa946accb7b522732ac4c062dc834a56fe]{
 -- Page 617, Offset 28803.
 -- 今にも腐ってもげ落ちそうな右肩の痛みと、
-The pain in her shoulder, like it could rot and fall off at any moment―――
+The pain in her shoulder is excruciating, like it could rot and fall off at any moment.
 }
 [sha:9418601dfa402938b6956e58e0d5f99cb6ecdc58]{
 -- Page 617, Offset 28804.
 -- 喉を燃やすような渇きが彼女の精神を侵していく。
-As well as this thirst, seemingly setting fire to her throat, are defiling her mind.
+It, together with her burning thirst, wreaks havoc with her mind.
 }
 [sha:959ba0513add3fe8f9d8db56bfaa8269a86c4a24]{
 -- Page 617, Offset 28805.
 -- マトモな人間なら痛みに耐える事しかできない状態。
-Considering the circumstances, a normal human wouldn't be able to withstand this pain.
+A normal human wouldn't even be able to withstand the pain she's in.
 }
 [sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
 -- Page 617, Offset 28806.
@@ -138,22 +153,23 @@ However...
 [sha:f4067eab1d71145074204c3cc29839530c09a339]{
 -- Page 617, Offset 28807.
 -- その極限において、彼女の思考を埋めるのは<あ|・><の|・><女|・>への憎しみだけだった。
-In this extreme situation, it is only the hatred she feels for %{i}her%{/i} that occupies her mind.
+Despite being pushed to her limits, the only thing that fills Noel's thoughts is hatred for %{i}her%{/i}.
 }
 [sha:762f614c723de84dbc78b65cf453442a93b24c8e]{
 -- Page 618, Offset 28808.
 -- 「なにあれ……なによあれ……なんなのよぉ……！」
-"What is this... Why... Why is this happening...!"
+"What the hell... Why... Why is this happening...!"
 }
 [sha:4c6f30b50ae67e7dfc60eecca1988035c0428096]{
 -- Page 618, Offset 28809.
 -- 唯一可動する左手で地面を殴りつける。
-She hits the ground with her left hand, the only one she can still move around.
+She strikes the ground with the one hand she's still able to move.
 }
 [sha:db682df90bb84ce352e7a5d8dc143f670bad8e02]{
 -- Page 618, Offset 28810.
 -- 血を吐くような悔しさの中、彼女は先ほどの戦いを思い返す。
-Beset by a frustration so strong she could have vomited blood, she recalls the battle that just took place.
+// 血を吐くよう more idiomatic than literal
+As she steeps in anguished frustration, she thinks back on the battle that just took place.
 }
 [sha:d0e4a6aecf842ab10cdc24850c14c4064d58b7f6]{
 -- Page 619, Offset 28811.
@@ -164,12 +180,15 @@ Beset by a frustration so strong she could have vomited blood, she recalls the b
 [sha:31d6e52dfe45d71e9074097f2a5ba95e32ab1911]{
 -- Page 619, Offset 28812.
 -- もとよりあの女と正面から戦って勝機があるとも思わなかった。だから、やるのなら初撃で決める。あの女を狙うと見せかけて、後ろにいる少年を仕留めればそれでいいと決めていた。
-She never thought that she could have a chance in a straight up fight against that woman. That's why she would have to end it in one opening strike it if ever happened. She decided she would pretend to aim the woman while in fact striking at the boy behind her.
+She knew she never stood a chance in a head-to-head battle against that woman.
+ That's why if she was going to fight, she had to settle it with the opening strike.
+ She decided that she'd pretend to aim for that woman,
+ while instead striking at the boy behind her.
 }
 [sha:8592cbe92800502efc51bc351695cec9bbfaec4d]{
 -- Page 619, Offset 28813.
 -- なのにそれすらできなかった。
-And yet, she wasn't even able to it.
+And yet, she wasn't even able to do that.
 }
 [sha:94ac3a0bd70d6c358a54a0712945a464f9141f29]{
 -- Page 620, Offset 28814.
@@ -179,37 +198,43 @@ And yet, she wasn't even able to it.
 [sha:0019dde2a4e81d6ef2a5c36e3e49a8710fa616dd]{
 -- Page 620, Offset 28815.
 -- 渾身の黒鍵連投は防がれた。
-The Black Keys that she threw with all her strength have been blocked.
+The Black Keys that she threw with all her strength had been blocked.
 }
 [sha:acc55bb141781268e670d40cfe7e9e187b42b1bf]{
 -- Page 620, Offset 28816.
 -- それは……本音を言えば通用してほしかった……予期していた事だった。
-To be perfectly honest... She wanted it to work... She expected it to work.
+To be perfectly honest... She'd wanted her plan to work. She'd expected it to work.
 }
 [sha:bd3582ca7ff512bc9010fe82df30e14b6b3c2dff]{
 -- Page 620, Offset 28817.
 -- けれど。次の本命こそが勝負の一撃だ、と移行する前に、もう勝負はついていた。
-Still. It's the thing she desired most next that would decide the outcome of the fight. But before she could move into position, it was already over.
+However, before she could land the blow she'd hoped would be her winning move,
+ the fight was already over.
 }
 [sha:b2773e3c69b55db5a40d322b9ea20dd9b848e392]{
 -- Page 621, Offset 28818.
 -- あの時。
-At that moment.
+In that moment...
 }
 [sha:9cc3a96bfd1f3f7ca277103c8dfb70045a3aa753]{
 -- Page 621, Offset 28819.
 -- 彼女の脳裏を占めたものは、自虐にも似た絶望だった。
-Despair verging on masochism was dominating her mind.
+Her mind was flooded with despair so intense it bordered on masochism.
 }
 [sha:85fd00fe942684eca48e517e8122d3b75fda1b4c]{
 -- Page 622, Offset 28820.
 -- “いつの間に？　モーションも何も見えなかった。実力差がある、なんてものじゃない。六年前から敵わないと分かっていて、それでも懸命に努力してきて、少しぐらい差は埋まってきたと信じていた。
-'When did she...? I didn't even see her move. It's not just a difference in strength. I knew I couldn't compete with her, but six years have passed during which I've given my everything, and I truly believed that the gap had narrowed a little.
+'When did she manage that...?
+ I didn't even see her move.
+ This isn't just a simple different in ability.
+ I knew that I was no match for her six years ago,
+ but I gave it my all in those intervening years,
+ and I truly believed I'd narrowed that gap at least a little.
 }
 [sha:9694ed1e192211a63bb1714ad30980adbc691a7c]{
 -- Page 622, Offset 28821.
 -- けど―――この差は、六年前よりもっと遠い。
-But―――The gap is even larger than it was six years ago.
+But... the gap is even bigger than it was six years ago.
 }
 [sha:32bc6e42c4a429b7bd7baca3d7eed98395b415cd]{
 -- Page 622, Offset 28822.
@@ -229,14 +254,14 @@ That's what she said. 'Sister'... The gall of that woman.
 [sha:2cd2c6300565450d93e45d9a0c3db2ab5c8623aa]{
 -- Page 623, Offset 28825.
 -- おまえはもう代行者ではない。自分の弟子でもない、と宣告したのだ。
-// Maybe indirect style would be better.
 // End of flashback.
-As though declaring: 'You aren't even an Executor anymore. Neither are you my disciple.'
+It's as though she were rejecting Noel――
+both as an Executor, and as her disciple.
 }
 [sha:ef99a7c35741ceb3806c13f969a00f74df2708ed]{
 -- Page 624, Offset 28826.
 -- 「ぁ―――、ぁぁ、あ―――」
-"Haa―――Haaaa―――"
+"%{i}Haa%{/i}――%{i}aah%{/i}, %{i}Haaaa%{/i}―――"
 }
 [sha:c9f7582fc9475bc48636af6dd95bf5d9e7d930c8]{
 -- Page 624, Offset 28827.
@@ -246,12 +271,13 @@ That's fine.
 [sha:89b52438a33f350996d909f47055a637ecde9741]{
 -- Page 624, Offset 28828.
 -- 自分が道を踏み外している事は承知している。
-She understands that she went off the wrong path.
+She knows that she's gone astray.
 }
 [sha:b4c1f8f97c99a330454af7dfae59a1805f02fa4c]{
 -- Page 624, Offset 28829.
 -- 遠野志貴の件がなくても、いずれこの日はやってきただろう。
-A day like this would surely have come somewhen, irrespective of the Tohno Shiki case.
+Even if it hadn't been for Tohno Shiki,
+ this day still would have come sooner or later.
 }
 [sha:35e528b15dd6e31bb6045e8c05fd65c0f89688ff]{
 -- Page 624, Offset 28830.
@@ -266,55 +292,61 @@ Still. Still. Still. Still―――
 [sha:b9f1b116a1640af021bc50bddbacdf66169c0983]{
 -- Page 625, Offset 28832.
 -- 「―――悔しい。悔しい、悔しい、悔しいぃぃぃぃ……！」
-"Fuck, fuck, fuck, fuck...!"
+"Fuck, fuck, fuck, %{i}fuck%{/i}...!"
 }
 [sha:f4f73e0208ee61ca4e441423bb22b437fb07eb08]{
 -- Page 625, Offset 28833.
 -- 絞り出される怨嗟の声。
-She lets out a strangled shout filled with deep resentment.
+She lets out a strangled cry of resentment.
 }
 [sha:014f7f703c5d706e9bccfde27ba81e8028bc6b10]{
 -- Page 625, Offset 28834.
 -- あんな姿はありえない。
 // I assume the 姿 is Ciel considering the next lines
-That was an absurd sight.
+She can't believe that woman's actions.
 }
 [sha:185b46f9c9dc5ca676f6ed299d6e74ed07886ff1]{
 -- Page 625, Offset 28835.
 -- あんな無様さは許されない。
-She'll never forgive such repulsiveness.
+She'll never forgive that unsightly display.
 }
 [sha:fbdf1361e935f7b66a5271b8c39feed2f1bd696f]{
 -- Page 625, Offset 28836.
 -- 弱さを剥き出しにし、今さら人間らしさを見せるなんて、そんな裏切りは、絶対に、絶対に許されない……！
-To expose her weakness and to flaunt her humanness at this stage... She'll never, ever forgive such treachery!
+To show her soft side and flaunt her humanness now, after all this...
+ She'll never, ever forgive such treachery!
 }
 [sha:63c2859f266817f762c58cb4d1cbb6562722d7fc]{
 -- Page 626, Offset 28837.
 -- <彼女|ノエル>は今までずっと堪えてきた。
 // Thinking about the past
-Noel had always endured, up to now.
+Noel had always been able to bear it up until now.
 }
 [sha:9bd8fd8e95ad26a7507dcbacafda2b555908cabb]{
 -- Page 626, Offset 28838.
 -- シエルの天才性を妬みながらも、心の中では自分より下の奴隷にすぎないと信じていたから、この六年間耐えられた。
 // Why isn't to jalouse more common?
-Though jealous of Ciel's genius, she braved through those six years in the inner belief that Ciel was nothing more than a slave, even lower than herself.
+She was jealous of Ciel's genius,
+ but she'd manage to get through those six years by clinging onto the belief that Ciel was nothing more than a slave,
+ someone even lower than herself.
 }
 [sha:9c7df8fa3d63c57fe9f9ae6dadbb6d720fec181a]{
 -- Page 626, Offset 28839.
 -- なのにアレはなんだ。
-And yet, what was %{i}that%{/i}?
+So then what the hell was %{i}that%{/i}?
 }
 [sha:ed8fd36bca22bd96d5be2d65e69e13ac744fd299]{
 -- Page 626, Offset 28840.
 -- “アレは英雄であり、もう人間ではない”。
-'%{i}That%{/i} is not a human anymore, %{i}that%{/i} is a hero.'
+// Unless I'm misunderstanding here, I think that doing these アレs as italics
+// thats as well confuses them with the above sentence in a way that harms clarity
+'That woman's a hero, she isn't even human anymore.'
 }
 [sha:6b6abf3cc554b6b88da39b356be9b132f5c56925]{
 -- Page 626, Offset 28841.
 -- そう納得していたから復讐心を棚上げできていた。
-I put my desire of vengeance on the back burner once I came to this realization.
+Once she'd been convinced of that idea,
+ she'd been able to put her desire for revenge on the back burner.
 }
 [sha:8b2991046b2a949546abb887a3d33b8e8eb13767]{
 -- Page 626, Offset 28842.
@@ -324,7 +356,9 @@ But, was it all a lie?
 [sha:c1f7846a9cfab2accec5e97e4c15734e4c518f6f]{
 -- Page 627, Offset 28843.
 -- 今までの非人間ぶりの方が演技で、心の中では幸福を求めていた、なんて人間的な苦しみを持っていたのなら、それは最大の裏切りだ。
-If that inhuman behavior had been an act, if she had been desiring happiness inside her heart, if she had experienced a suffering akin to that of humans, then that would be the single greatest treason possible.
+If that inhuman behavior of hers had been an act,
+ if she'd longed for happiness inside her heart,
+ if she'd experienced that all to human suffering――then that would be the ultimate betrayal.
 }
 [sha:3320950e184f859104e086dc80bcaf15f7d1975a]{
 -- Page 627, Offset 28844.
@@ -334,38 +368,43 @@ Atonement for what she did to Noel.
 [sha:854de0af56775cf808ac613412a5e7f989491419]{
 -- Page 627, Offset 28845.
 -- あの女が台無しにしたすべてへの贖罪。
-Atonement for everything that this woman has reduced to ashes.
+Atonement for everything that woman destroyed.
 }
 [sha:7c8532383bd5c9b1a58b30dd75ad0d51cb039a22]{
 -- Page 627, Offset 28846.
 -- それらを放棄して、心の底から笑うなど許されるのか。
-Can she be forgiven as she casts all of that away and laughs from the bottom of her heart?
+If that woman can cast it all aside and laughs from the bottom of her heart,
+ does she ever deserve to be forgiven?
 }
 [sha:123116b3f13598744c8623d345c4858e718e0a60]{
 -- Page 628, Offset 28847.
 -- あの女が許されていたのは、あの女が超人だからだ。
-That woman was forgiven because she exceeded human capabilities.
+That woman was only allowed to live because of her superhuman capabilities.
 }
 [sha:bfdabfd2462dd44ddf0ca06a229fa667f38a0ef4]{
 -- Page 628, Offset 28848.
 -- 人間ではないから過去の罪を不問にしてきた。
-The sins of her past went unquestioned because she wasn't human.
+Noel could overlook the sins she had committed because she wasn't human.
 }
 [sha:8f34f807f9880317a9424fcda2b28eb9742f7348]{
 -- Page 628, Offset 28849.
 -- だが、それが同じ人間にすぎないとしたら、絶対に許さない。
-But if she's in fact nothing more than a fellow human, then she absolutely cannot be forgiven.
+But if she %{i}is%{/i} human after all,
+ then she absolutely cannot be forgiven.
 }
 [sha:94a32f8dae74484b2b96ae132f8b0a0cfa5cea1e]{
 -- Page 628, Offset 28850.
 -- 罪には罰を。悪には報いを。非道には更なる非道を。
 // The full Bible verse. If too localised:"Punishment upon sin. Retribution upon evil. Even greater cruelty upon cruelty.
-Eye for eye, tooth for tooth, hand for hand, foot for foot, burn for burn, wound for wound, bruise for bruise.
+// Not sure how we got to the bible verse here, JP bible I could find for Exodus 21.24-25 is
+// もし女の目が傷ついたら、償いとして男の目を傷つけ、歯が折れたら歯を折る。手には手を、足には足を、
+// やけどにはやけどを、傷には傷を、むちにはむちをもって償わなければならない。
+Punishment upon sin. Retribution upon evil. Even greater cruelty upon cruelty.
 }
 [sha:a821f6c35d38a5e3bdcd4fa4a861dd5218719f87]{
 -- Page 628, Offset 28851.
 -- あの女の行為は、罰せられるべきものになる。
-That woman's deeds now have to be punished.
+That woman must now be punished for her deeds.
 }
 [sha:0f5596d79fd4d12d28edc20ddd0430cce4171998]{
 -- Page 629, Offset 28852.
@@ -385,18 +424,22 @@ Fuck, fuck, fuck, that's so frustrating! If only, if only I was stronger than he
 [sha:90dcd9ab77f085a52bd57a1e33f3dad246e512a1]{
 -- Page 630, Offset 28855.
 -- 天罰を与えてやれるのに。
-// Again, direct speech. Not super nice to be honest.
-'I would have been able to inflict God's retribution on her.'
+If she were, she'd be able to mete out divine punishment.
 }
 [sha:3ee7e9267e500951a34f89af62062b74a623fe57]{
 -- Page 630, Offset 28856.
 -- 鋼鉄の処女、戦うだけの機械人形に、身の程を思い知らせてやれるのに、と彼女は嘆いた。
-'I would have been able to put her in her place', Noel regretfully sighs, 'as the Iron Maiden, as a mechanical puppet good only for fighting'.
+// We'd all love to put thatcher in her place, get in line
+She laments that she cannot be the one to take that iron woman,
+ that wind up doll that does nothing but fight,
+ and put her in her place.
 }
 [sha:7c857bb1e78a3564734ed56c9f897f358f3b0c69]{
 -- Page 630, Offset 28857.
 -- 爪を剥がし、指の第一関節がとうになくなっている事に気付かないで、ひたすらに地面を掻き続ける。
-She continues to vigorously claw at the ground, paying no mind to the fact that her nails have been pulled off and the first knuckles of her fingers have been broken.
+She continues to vigorously claw at the ground,
+ heedless of the fact that her nails have been ripped out,
+ and the first centimeter of her fingers has already been ground away.
 }
 [sha:ac859cdd13441dc97b7b9e8eba95a1df5ac34d4d]{
 -- Page 631, Offset 28858.
@@ -406,32 +449,33 @@ She continues to vigorously claw at the ground, paying no mind to the fact that 
 [sha:f257b0da880dea878cde31b106e4c5dbd3285462]{
 -- Page 631, Offset 28859.
 -- どうか救いを。
-'Please, salvation'.
+She begs for salvation.
 }
 [sha:c6c9dd65f8e95e84886acaa249846f806e70884d]{
 -- Page 631, Offset 28860.
 -- わたしに救いを。
-'Salvation upon me'.
+Salvation for herself.
 }
 [sha:87324035a76cb23037d58123ada77a1d7a808520]{
 -- Page 631, Offset 28861.
 -- あの女にしかるべき結末を。
-'And a fitting end to that woman'.
+And for a fitting end to befall that woman.
 }
 [sha:862a6f403e262f22cc71e8d39001901274a5aed5]{
 -- Page 631, Offset 28862.
 -- 代行者だった女は一心不乱に呪い続ける。
-The woman that had once been an Executor is absorbed in her litany of curses.
+The woman that had once been an Executor dedicates herself wholeheartedly to her litany of curses.
 }
 [sha:b76bd8f3ed18ede4566dda4e775f75201829582e]{
 -- Page 631, Offset 28863.
 -- ……もとより祈りとは主そのものに捧げるもの。
-Originally, prayers are in dedication to the Lord...
+Of course, prayers are supposed to be dedications to the Lord...
 }
 [sha:4d69c3f6e394e099b1b15462a7dee0fcd77d028d]{
 -- Page 631, Offset 28864.
 -- 地上の出来事を、あまつさえ己を救わんが為に捧げるものではない事を、彼女はもう完全に失念していた。
-She has already completely forgotten that one does not pray about temporal matters, let alone to ask for one's own salvation.
+She has already completely forgotten that one does not pray about earthly matters,
+ and certainly not for one's own salvation.
 }
 [sha:584b697db8aa988b0f8f9c933e468571a7d80869]{
 -- Page 632, Offset 28865.
@@ -452,42 +496,45 @@ I think this wish will be very pleasurable!"
 [sha:95683283f6a5e0e2b19abc54b2cb10cbed3232dc]{
 -- Page 632, Offset 28868.
 -- 不意に現れた人間の気配に振り向く。
-She suddenly turns around in response to this human
+Sensing another human has suddenly appeared, she looks over her shoulder.
 }
 [sha:e67ca0ec8966388382c568e096f7d39217d8e7ba]{
 -- Page 632, Offset 28869.
 -- でも、その時には何もかもが遅かった。
-But it was already too late by then.
+But by that point, it was already too late.
 }
 [sha:f016521898593fa4441fe79c24a1a8ccf0004036]{
 -- Page 633, Offset 28870.
 -- 「はあい、こんばんは。こんなところに隠れ家を作ってるなんてイケナイ子ねぇ。
-"Yes, good evening. To be hiding in such a place, you naughty girl.
+"Yoo-hoo, good evening.
+ You must be a really naughty girl to have your hideout in a place like this.
 }
 [sha:01f6ca7c35be057a27787658f6539833d4012817]{
 -- Page 633, Offset 28871.
 -- ま、そのあたりはどうでもいいけどぉ。なぁに、ノエルちゃんは強くなれればそれでいいのぅ？」
-Well, it's not that much of a big deal anyway. Sooo, you want to become stronger, Noel-chan?"
+Well, not like it matters to me.
+ What did I hear you say, Noel-chan?
+ You want to get stronger, and you don't care how you do it?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 634, Offset 28872.
 -- 「――――――」
 "――――――"
 }
-[sha:027b8a7ef749ba90571a5f2965a292e7638db41e]{
+[offset:28873]{
 -- Page 634, Offset 28873.
 -- 理解が追いつかない。
-It's too much for me to understand.
+She can't get a handle on what's happening.
 }
 [sha:95c5ffd002dd9493999f64d4b700bf76e666f362]{
 -- Page 634, Offset 28874.
 -- マーリオゥ司祭代行の目から逃れるため、ここでキャンプしていたのは事実だ。
-It's true that I set up camp here to escape the Acting Presbyter's attention.
+It's true that she'd set up camp here to avoid the Acting Presbyter's prying eyes.
 }
 [sha:1c2bc9c9a874963ceb9f7d5ca0446168c285f3c1]{
 -- Page 634, Offset 28875.
 -- それは<あ|シ><の|エ><女|ル>にさえ知られていなかったのに、どうしてこの女は知っている？
-And if even Ciel doesn't know that, how come she knows it?
+Not even Ciel knows about this place, so how on earth does this woman?
 }
 [sha:5433b21af3ebe7c68f8ca5754aebddb775b7515d]{
 -- Page 635, Offset 28876.
