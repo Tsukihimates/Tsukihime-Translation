@@ -7,7 +7,7 @@ A hot summer day.
 -- Page 1, Offset 28972.
 -- 青い空と　大きな大きな入道雲。
 The blue sky.
- Large, large clouds towering above.
+ Large, towering cumulonimbus clouds.
 }
 [sha:c12e997c9c8593402cca860e0f4c8623cb0ab971]{
 -- Page 1, Offset 28973.
@@ -28,19 +28,19 @@ The cicada chorus.
 -- Page 2, Offset 28976. Mods: @k, @e.
 -- みーん　みんみん
 // lint-off:LintDupedWord
-%{i}chiiiirp    chirp chirp%{/i}
+%{i}Chiiiirp    chirp chirp.%{/i}
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 2, Offset 28977. Mods: @k, @e.
 -- みーん　みんみん
 // lint-off:LintDupedWord
-%{i}chiiiirp    chirp chirp%{/i}
+%{i}Chiiiirp    chirp chirp.%{/i}
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 2, Offset 28978. Mods: @k, @e.
 -- みーん　みんみん
 // lint-off:LintDupedWord
-%{i}chiiiirp    chirp chirp%{/i}
+%{i}Chiiiirp    chirp chirp.%{/i}
 }
 [sha:b3f9b00107c601ef6ca2942d5e779bde5483ac0c]{
 -- Page 2, Offset 28979.
@@ -121,7 +121,7 @@ No, that's not right.
 [sha:fd7d1170d7f2c482b7b9c4ca7c77c0cbac77c080]{
 -- Page 5, Offset 28994.
 -- この両手は、倒れている子供の血で赤いだけ。
-My hands are just stained red from the blood of the collapsed child.
+My hands are stained red %{i}with%{/i} the blood of the collapsed child.
 }
 [sha:5cf5b2cd7a28e578dbc25eca0ca4fc76251ff4c0]{
 -- Page 6, Offset 28995.
@@ -131,7 +131,7 @@ Which means...
 [sha:da4b36ab2c20a43e5df90ee04874cd37ed10b9c0]{
 -- Page 6, Offset 28996.
 -- ガキの時分から、人でなしの人殺しだった。
-I've been a wretched murderer since I was a kid.
+I've been a wretched murderer ever since I was a child.
 }
 [sha:0be0a14ad349bdf20f2438ac0c117024e0546167]{
 -- Page 7, Offset 28997.
@@ -152,7 +152,8 @@ In the heavens hangs the white face which seals off the cosmos.
 [sha:265905fdad7c17837f09caaedb8cb7d260ad7669]{
 -- Page 7, Offset 29000.
 -- 巡る星の<最中|さなか>には無垢純白の女がひとり。
-In the midst of the streaking stars stands a lone, unblemished woman.
+In the midst of the streaking stars stands a solitary woman,
+ pure as freshly fallen snow.
 }
 [sha:737eb7b2c2852958977b8752641ff0d6e65df510]{
 -- Page 8, Offset 29001.
@@ -162,7 +163,7 @@ She knows not words.
 [sha:817b5cb07b85702bc17f57f5d045f61322af2dc9]{
 -- Page 8, Offset 29002.
 -- 自己の意義も解せず。
-She grasps not her own significance.
+She grasps not the concept of self.
 }
 [sha:9f7a40cab4f37d63a1eca9c5da52b859f090b5fa]{
 -- Page 8, Offset 29003.
@@ -177,7 +178,7 @@ Drenched in blood, yet without wounds.
 [sha:8024a238b69af33538a8742eea255558fb87f0f9]{
 -- Page 8, Offset 29005.
 -- ドレスを濡らす朱は<同胞|はらから>どもの心血だけ。
-The sanguine that stains her dress is only ever the lifeblood of her brethren.
+It is only ever the lifeblood of her brethren that stains her dress scarlet.
 }
 [sha:b54f02afdc72543f0e1d4607bb1eabeb937ddb54]{
 -- Page 9, Offset 29006.
@@ -192,27 +193,28 @@ When she completes her task, she returns to the castle like a falling star, to b
 [sha:0726bc472df427ca1bc22650745aa97230753c9d]{
 -- Page 9, Offset 29008.
 -- 自身で起きる事さえできない眠りに落ちる。
-She falls into slumber, unable to even rouse herself from sleep.
+She sinks into a slumber so deep that even she cannot rouse herself from it.
 }
 [sha:4edf9b16d96fb6ad911f66ecc7a0237e1c622689]{
 -- Page 9, Offset 29009.
 -- ……白い女はその運命さえ知らず、ただ、遠い目で月を見上げている。
-Yet the woman in white is unaware of even that fate, merely gazing upon the Moon, her eyes set unto the distance.
+Yet the woman in white is not even aware of her fate.
+ She merely gazes up at the moon, her eyes distant.
 }
 [sha:924823c4f1b09c53931d1c10ea110abf31357898]{
 -- Page 10, Offset 29010.
 -- ―――そこに、永遠を見た、と思った。
-―――There, I think I see eternity.
+―――I thought I saw eternity there.
 }
 [sha:403ab1445139c70d0b3c52fd68e8056ebbbc7675]{
 -- Page 10, Offset 29011.
 -- 錯覚か。
-Perhaps it's my imagination.
+Could it have been my imagination?
 }
 [sha:77ee0576b2e68d30b8950e48d5ae6f899dc61b7b]{
 -- Page 10, Offset 29012.
 -- おそらくは錯覚だろう。
-I suspect it must be my imagination.
+I suspect it likely was.
 }
 [sha:173ac1b94593eecdd74711880ca02b2fcb844389]{
 -- Page 10, Offset 29013.
@@ -222,7 +224,7 @@ But it concerns me not――reality or illusion, it makes no difference.
 [sha:7a33552e90e6ea9123b015a560432d7eb6d04df6]{
 -- Page 10, Offset 29014.
 -- 網膜に焼きついた像はたとえ死のうと消え去らない。
-Even upon my death, will the vision seared into my retinas never fade:
+Even if I were to die, the vision seared into my retinas would never fade.
 }
 [sha:78071eb4fe7e3a30a9cfa26f0d00a0553f0f8f84]{
 -- Page 10, Offset 29015.
@@ -232,37 +234,37 @@ A flower of profound grace; the only mote of the shining stars which can be foun
 [sha:5063e78c261878ae5d57a1f8016a36874d760930]{
 -- Page 11, Offset 29016.
 -- その星を、摘み取ろうと考えた。
-I ought to pluck this star, I think to myself.
+I thought to myself that I ought pluck this star.
 }
 [sha:b612e4e9fea9320449e9957d64ee3419c40a4dc6]{
 -- Page 11, Offset 29017.
 -- 不滅なる者同士であれば、死が互いを分かつ事はない。
-If we are both to be imperishable, death will never do us part.
+Were we both to be imperishable, death would never do us part.
 }
 [sha:2b4f93ceea8127dfc614c4e016db5298c22c64d4]{
 -- Page 11, Offset 29018.
 -- 血で結ばれた<環|たまき>。
 // switched this and the below
-All I have to do is weave myself a destiny that will never end,
- no matter if I kill her, or she kills me.
+All I had to do was weave myself a destiny that would never end,
+ even if I killed her, or she killed me.
 }
 [sha:f0a433a6b3aff4b1a4b6be911bfdbe72e6e723af]{
 -- Page 11, Offset 29019.
 -- 殺すにしても殺されるにしても、決して終わる事のない業を結べばよいと。
-Like a loop woven from blood.
+A loop tied with blood.
 }
 [sha:e0c96a8d56142902a5488d2963161c1d561b0ddd]{
 -- Page 11, Offset 29020.
 -- ……地獄に落ちるのは当然だ。
-That I would sink to hell is natural.
+It is fitting that I should sink to hell...
 }
 [sha:e7e0450a70ed1043c9dbd51785d16938740c4ca3]{
 -- Page 11, Offset 29021.
 -- かつて無限を求めておきながら、私はその実、閉じた輪に身を落としたのだから。
 // reflect "loop" or whatever here with the same word as used 2 lines up.
 After all...
- even though I had once sought eternity,
- I had actually thrown myself into a closed loop.
+ even though I had sought eternity,
+ I had in fact trapped myself within a closed loop.
 }
 [sha:fb286836297b86f36a76f3443ba7b535d0f3d63b]{
 -- Page 12, Offset 29022.
@@ -277,12 +279,12 @@ I awaken from my long slumber.
 [sha:5b96e1a571cc61a0c854fe78fee24a0953dd1ec9]{
 -- Page 12, Offset 29024.
 -- ここが自分の部屋である事を視認して、眼鏡をかける。
-I put on my glasses to confirm that this is my own room.
+After satisfying myself that this is indeed my own room, I put on my glasses.
 }
 [sha:4a9b4cc222756ff1a9fd4faf064330b45b97059c]{
 -- Page 13, Offset 29025.
 -- 窓が開かれたままなのだろうか。
-Are the windows open perhaps?
+Did someone leave the window open...?
 }
 [sha:a88566258fcc684e8a92dac5b076a3ebc7cdbc7d]{
 -- Page 13, Offset 29026.
@@ -292,7 +294,7 @@ I can hear the chirping of birds coming from the garden.
 [sha:c7557d3a0a6bdfa33534cbf808d8a79bbbc38867]{
 -- Page 13, Offset 29027.
 -- ひんやりと冷たい風が頬にあたる。
-The cool breeze hits my cheeks.
+The cool breeze brushes against my cheeks
 }
 [sha:1e301ecc44cd76e321f094dbc81fccbac724a745]{
 -- Page 13, Offset 29028.
@@ -307,12 +309,14 @@ It's the gentle arrival of morning.
 [sha:f40f02d6512312f3f4f1495b4be2b7403f3613c0]{
 -- Page 14, Offset 29030.
 -- 寝床から起き上がり、時刻と曜日を確認する。
-I get up from my bed to check the time and date.
+// 'Checking the date and time' feels like such an accountant thing to do.
+// I'd roll this into checking a single thing imo.
+I get out of bed and check the clock.
 }
 [sha:2113a2e293299e2ae06061ef7d42e130dc14a6bb]{
 -- Page 14, Offset 29031.
 -- 午前７時前、金曜日。
-Seven in the morning, Friday.
+Seven o'clock in the morning, Friday.
 }
 [sha:398cfd207a8507fd47ff90a9d3e8a81d9996bdac]{
 -- Page 14, Offset 29032.
@@ -342,7 +346,7 @@ This isn't my usual anemia, but rather the discomfort of an empty stomach.
 [sha:e605a3d97b2f32373e7249d574486e8159cb05fd]{
 -- Page 15, Offset 29037.
 -- 腹のあたりに毒物があるようで、気持ちが悪い。
-It's sickening. It feels like there's venom in the pit of my stomach.
+It's sickening. It feels like there's poison in the pit of my stomach.
 }
 [sha:95abd47ce0d20bb09109f0470bbf6379e5c9e329]{
 -- Page 16, Offset 29038.
@@ -352,7 +356,7 @@ It's sickening. It feels like there's venom in the pit of my stomach.
 [sha:6425929fc809d8a63503b830a8eee018f0ede688]{
 -- Page 16, Offset 29039.
 -- 使用人が部屋に入ってくる。
-The servant enters my room.
+A servant enters my room.
 }
 [sha:0ea8b7b0c229e80c5397bb5592aa255242b63a61]{
 -- Page 16, Offset 29040.
@@ -382,8 +386,8 @@ For some reason...
 [sha:a1076a71fefa7e43861eefd3093a514c3d13529a]{
 -- Page 17, Offset 29045.
 -- そんな些細な仕草が癇にさわった。
-// probably her being surprised at him being up = gesture, that said, I think this could be phrased more clearly.
-That trivial gesture rubs me the wrong way.
+// probably her being surprised at him being up = 仕草
+That trifling reaction rubs me the wrong way.
 }
 [sha:800bbaa78f09866367eaba7b452008fc4a719b08]{
 -- Page 18, Offset 29046.
@@ -393,12 +397,12 @@ That trivial gesture rubs me the wrong way.
 [sha:3b3f0f0a513d309d50eeddefd6a776af3b7a76b1]{
 -- Page 18, Offset 29047.
 -- すぐに行くから出ていってくれ。着替えるんだ、これから」
-I'll be over soon, so get out. I'm gonna change."
+I'll be there in a minute, so get out. I'm gonna change."
 }
 [sha:f18d90e1026edaa413c9279ab3ff5bcefd255157]{
 -- Page 18, Offset 29048.
 -- 「……失礼いたしました。
-"...My apologies.
+"My apologies...
 }
 [sha:6b466a9ea3b21bea56b9c19a15a03bc2a0107d1e]{
 -- Page 18, Offset 29049.
@@ -408,12 +412,12 @@ In that case, I will await you in the dining hall."
 [sha:8fae4fc8a06c4e95108e0c81c63b58b94a652248]{
 -- Page 19, Offset 29050.
 -- 「……って。なにやってんだ、俺」
-"Wait, what am I even doing..."
+"Wait, what am I even doing...?"
 }
 [sha:fdb23c729f91c45a458cf13322ec2e0a9ba1294e]{
 -- Page 19, Offset 29051.
 -- 気分が悪いから<他|ひ><人|と>にあたるなんて、どうかしている。
-Lashing out at other people like this, there really must be something wrong with me.
+There must be something wrong with me if I'm lashing out at people just because I don't feel well.
 }
 [sha:e742a8be3dce08baca89bde57a443ea7589ff214]{
 -- Page 20, Offset 29052.
@@ -443,22 +447,24 @@ I don't think I'll be able to focus on class like this. That being said, that's 
 [sha:bf8ef8a1ed0b6e7d14e936d3369bd8b43d6be78c]{
 -- Page 21, Offset 29057.
 -- 吐き気が酷くて考えがまとまらないが、
-My nausea is so bad I can't even get my thoughts in order.
+My nausea is so bad I can't even think straight.
 }
 [sha:9765d6780ed11b2bb1cffd11be39592cf839bb45]{
 -- Page 21, Offset 29058.
 -- 学校でなければ起きない出来事があった筈だ。
-That said, I swear there's something happening at school that requires my presence.
+Even so, I could swear there's something happening at school that requires my presence.
 }
 [sha:62f8f6c53ea9728fc6a9fb69c0316748b5ed800a]{
 -- Page 21, Offset 29059.
 -- ゆっくり深呼吸をして胃の不快感を紛らわせる。
-I take a long deep breath to try and divert myself from the discomfort I feel in my stomach.
+I take a long deep breath to try and distract myself from the discomfort I feel in my stomach.
 }
 [sha:6a80f3e5fba811b16b66448030ce07b9da776f08]{
 -- Page 21, Offset 29060.
 -- 慢性的な……しかし不便だなこれは……眩暈を抑えこんで、自分の部屋を後にした。
 // the gaps here are weird, maybe I'll come back to them /Petri
+// Is this first bit supposed to be roa going "Damn this guy got chronic Anemia, send him back?"
+// In which case, maybe first bits italics? How clinical is 慢性的?
 Not going away, huh... this is really quite inconvenient... I suppress my dizziness and leave the room.
 }
 [sha:760f102c7daab4ee568f5f41ecd8b77452a7743c]{
@@ -479,9 +485,9 @@ It is plainly evident that the person who is already there is in a terrible mood
 [sha:42a603d1c89ea0dffcda8295e2a1ed445848eea2]{
 -- Page 23, Offset 29064.
 -- こちらが先に折れないかぎり態度は変えない、といわんばかりの刺々しさだ。今まで意識しないよう努めていたが、あれはあれで中々に愛らしい。薔薇は棘があってこそだ。
-// first sentence is quite liberal.
-// last sentence is also liberal to fit in the rose metaphor.
-The caustic sharpness of her attitude clearly displays her unwillingness to change unless I do first. I've been trying not to think about it too much, but that's actually quite charming in its own way. What would a rose be, were its thorns not sharp enough to cut oneself on them?
+It's abundantly clear from her prickly attitude that she doesn't intend to be the first to break the silence.
+ I'd been trying not to think about it too much, but it's actually quite charming, in it's own way.
+ What would a rose be without its thorns?
 }
 [sha:03f4a1c3dd5a618c291fc9080c9ef36d41616050]{
 -- Page 24, Offset 29065.
@@ -496,17 +502,18 @@ The caustic sharpness of her attitude clearly displays her unwillingness to chan
 [sha:2a1910689f710255b374c4ad079a9af24084778e]{
 -- Page 24, Offset 29067.
 -- 兄さんも今朝はそれなりですね。昨夜は夜更かしをしていたようですが」
-For once, you're quite early yourself, Nii-san. Didn't you stay up late last night?"
+You're up surprisingly early yourself, Nii-san.
+ I'd been under the impression you had been out late last night?"
 }
 [sha:7486a56be4d52c1ad871ba4cca9d94e48efe42ae]{
 -- Page 25, Offset 29068.
 -- ああ、それで怒っている風を装っていたのか。
-Oh, so that's why she was acting all upset.
+Ah, so that's why she's acting all upset.
 }
 [sha:5402a4760aaec2d05301e3f9557a876d4479b502]{
 -- Page 25, Offset 29069.
 -- 家の決まりを守らせる為の威圧。
-She puts on an intimidating air to guarantee that the rules of the house are followed.
+She's trying to scare me into following the rules of the house.
 }
 [sha:68199315bad7762fa7748ffd347b5b0f498c1c8d]{
 -- Page 25, Offset 29070.
@@ -521,7 +528,8 @@ Even though her behavior is unbefitting of a maiden, it undoubtedly befits her a
 [sha:9e91a2d43be3102e2978b5d23dac49aecf8073e4]{
 -- Page 26, Offset 29072.
 -- 今朝もだけど、ここのところ具合が悪くて。ちょっと公園で休んでいたんだ」
-Basically, I've been feeling pretty unwell recently――well――to this very moment. Anyway, I took a quick rest at the park yesterday."
+I've been feeling pretty unwell recently――including right now, actually.
+ I ended up resting in the park for a bit yesterday."
 }
 [sha:efcea905e8684a6cf4509912a55d3dd569690208]{
 -- Page 27, Offset 29073.
@@ -531,54 +539,54 @@ Basically, I've been feeling pretty unwell recently――well――to this very 
 [sha:94d381a0ddcc6615312f7c57df2813f2e70f1126]{
 -- Page 27, Offset 29074.
 -- ……それで。体の具合が悪い、というのはどのくらいなんですか？」
-But... when you say you are feeling unwell, just how unwell do you mean?"
+Well? When you say you're feeling unwell, just how unwell do you mean?"
 }
 [sha:73e9c851f2b865f9d4b4b52272f0da264c1077aa]{
 -- Page 28, Offset 29075.
 -- 「食欲がない程度だ。しばらくすれば良くなるから心配しないでいい。なに、ちゃんと栄養をとれば元に戻るさ」
-"About enough that I've lost my appetite.
- I'll be better in no time, so you don't have worry about it.
- Why, I'm sure I'll be back to normal once I get something proper to eat."
+"Bad enough that I've lost my appetite.
+ I'll be better in no time though, so no need to worry about me.
+ I mean, I'm sure I'll be back to normal once I get something proper to eat."
 }
 [sha:de73a88a27e8c6f39b39ee6bcdbc0d277c6a9c08]{
 -- Page 28, Offset 29076.
 -- 「……大丈夫なんですか？　顔色が悪いようですし、気分が優れないのでしたら今日はお休みになったほうが―――」
-// maybe get the interruption in here somehow on the last line?
-"Are you sure you're fine...?
+"Are you sure you're all right...?
  You do seem quite pale...
- If you're feeling down, you should take the day off―――"
+ If you aren't feeling well, perhaps you'd better take the day off to re―――"
 }
 [sha:f94710047654582607b5edb2f78226a16b323b80]{
 -- Page 29, Offset 29077.
 -- 「いいよ。明日から休みなんだし、今日ぐらいは乗り切るさ。いいから自分の事に気を遣いなさい。俺なんかよりおまえの方が毎日働いているんだから」
-// maybe line 3 is a bit too rude for intent.
 "I'm fine.
- Tomorrow's the weekend anyway――I'll make it through today at least.
- Please, you should look after yourself instead.
- After all, you work hard day in and day out, far more than someone like me."
+ I just have to make it through today, then it's the weekend.
+ And hey, you need to take care of yourself too.
+ You're out there working hard day in and day out, unlike me."
 }
 [sha:35227bd278c2a7258e92072231b29862a5eb32aa]{
 -- Page 30, Offset 29078.
 -- 「い、いえ、私は職務というか、当主としての義務というか」
-"N-Not exactly. That's just what my job, I mean duty as the family head entails..."
+"N-No, that's overstating things...
+ I am merely carrying out my duties...
+ fulfilling my responsibility as head of the family..."
 }
 [sha:1ec8ad66687f4f3e5f7253e00b231619b06d72f2]{
 -- Page 30, Offset 29079.
 -- 「義務で家計が回せるなら破産する家はないだろう。
-"Well, any family would go under if nobody took care of making the finances go around, right?
+"Well, if you could use a sense of duty to pay the bills then nobody would ever go bankrupt.
 }
 [sha:c4373a71b2b5bb18f8ef26e69af48db5fa80f7da]{
 -- Page 30, Offset 29080.
 -- 遠野の家を存続させる事がどれほどの大仕事か、部外者ながら分かってるつもりだよ。休みの日なら俺も力になれるから、何かあったら言ってくれ」
 I may be basically an outsider, but I do think I have a pretty good idea of how much work it is to keep the Tohno family afloat.
- I could help you out on the weekends, so tell me if you ever need something."
+ I could pitch in on the weekends if you want, so tell me if you ever need something."
 }
 [sha:1207fe0d8a49cdbf279183634d23d9552bb189bd]{
 -- Page 31, Offset 29081.
 -- 「に、兄さん……？　何かわる……いえ、善いものでも食べたんですか？　あ。それとも、何かとんでもない悪さをしたので、発覚する前に善行を積んで根回しをしているとか？」
-"N-Nii-san...? Did you eat something ba- no, something good?
- Oh. Perhaps you did something so bad,
- you feel as though you should do as much good as you can in preparation for when it comes to light? Or something?"
+"N-Nii-san...? Did you eat something ba――something good?
+ Ah... Could it be that you've done something so bad that you feel the need to perform a bunch of good deeds now,
+ to balance whatever it is out when it comes to light?"
 }
 [sha:833f3c6e3ba7cbcd8395f57f5e37aae05250578a]{
 -- Page 32, Offset 29082.
@@ -589,12 +597,13 @@ I may be basically an outsider, but I do think I have a pretty good idea of how 
 -- Page 32, Offset 29083.
 -- 昨日までは学校以外のコトで忙しかっただけで、今日からは心を入れ替えて遠野家の長男らしく努めるさ。
 Listen, I've just been really busy outside of school up until yesterday.
- From today onward I'll strive to do better and perform in my role as the eldest son of the Tohno family.
+ From today onward I'll strive to do better and live up to my position as the eldest son of the Tohno family.
 }
 [sha:d19759f231409c56a842fb19ee51c729b587d396]{
 -- Page 32, Offset 29084.
 -- ほら、のんびりしてる暇はないだろ？　時間、いいかげんやばいんじゃないか？」
-C'mon, we can't just be sitting around like this. Time's starting to run late, don't you think?"
+C'mon, we can't hang around like this all day.
+ You're cutting it a bit close for time, aren't you?"
 }
 [sha:fd9bc458afe3b6cd89e2e2af69e53575c529a2ef]{
 -- Page 33, Offset 29085.
@@ -624,7 +633,7 @@ Actually, Nii-san..."
 [sha:d2b117184eca5708a42d12cd6ff3b6c5cef47427]{
 -- Page 35, Offset 29090.
 -- 「先ほどの提案ですが、喜んで受けさせていただきます。
-"The proposal you brought up just now; I will gladly accept.
+"The proposal you brought up just now――I will gladly accept.
 }
 [sha:7ac05206347c01cdaabdb5b495f745b84ec94c6f]{
 -- Page 35, Offset 29091.
@@ -656,7 +665,7 @@ I am entranced by her dignified bearing.
 -- Page 36, Offset 29096.
 -- 我が事ながら自分が分からない。
 // these two lines are quite liberal, but closer to intent
-I know this is myself I'm talking about, but what have I even been doing?
+I'm starting to wonder if there might be something wrong with me.
 }
 [sha:8ef8b394990710ea7b2d9977750950b876c2e888]{
 -- Page 36, Offset 29097.
