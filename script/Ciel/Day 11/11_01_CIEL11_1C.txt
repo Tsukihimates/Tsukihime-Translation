@@ -11,12 +11,13 @@ Contrary to my expectations, all of my classes went by without anything of parti
 [sha:4d82702a4f4d7526a49ba04b4d5b3ecb22ba8d00]{
 -- Page 10002, Offset 29143.
 -- 昼休み、友人が言っていたコトは正しかったワケだ。
-Arihiko was right on the money when he said that at lunchtime.
+My friend was right on the money when he said that at lunchtime.
 }
 [sha:7103b9262db68ae75478d88ea1faa0253acd22bd]{
 -- Page 53, Offset 29144.
 -- 正門に向かう途中、気まぐれで校庭に足を向けた。
-On my way to the main gate, I decide on a whim to head toward the schoolyard.
+On my way to the main gate,
+ I make a spur of the moment decision to detour around the schoolyard.
 }
 [sha:37ea7e6c36c3ab2807279ef4ab1756f74a5c756f]{
 -- Page 53, Offset 29145.
@@ -26,22 +27,23 @@ I don't see anyone on the field.
 [sha:8ce3f405d140819c6e74a361ef94df03dc289285]{
 -- Page 53, Offset 29146.
 -- 部活動は禁止され、下校時間も過ぎたので、校舎に残っている生徒は皆無だ。
-Since club activities have been prohibited and classes have already ended, there are no more students inside the school building.
+Club activities have been put on hold and classes are over,
+ so everyone's already left school for the day.
 }
 [sha:13f58c69654d9737c4db4dc44005fb08fe77b73b]{
 -- Page 54, Offset 29147.
 -- 遠くの地平線に日が沈んでいく。
-The sun is setting on the distant horizon.
+The sun has begun to sink below the distant horizon.
 }
 [sha:044b343faa7afe76d1c988e04a2b6dd7ba13fba6]{
 -- Page 54, Offset 29148.
 -- こうやって、別段やる事もなく学校に残っている物好きは自分ぐらいしかいない。
-I'm the only one whimsical enough to loiter around the school despite having nothing in particular to do here.
+Seems I'm the only one weird enough to loiter around the school despite having nothing to do here.
 }
 [sha:679bdeae663be02b6baec2b07730a4f0df69f448]{
 -- Page 55, Offset 29149.
 -- 茜色に染まっていく学舎。
-The school building is taking on a dark red tinge.
+The school building is beginning to take on a red glow.
 }
 [sha:dbfed72935317dfce110cff7d561b795706bfd32]{
 -- Page 55, Offset 29150.
@@ -51,28 +53,32 @@ I don't want to see the sunset.
 [sha:8e035bd74d1fbfaee105027c01dfc50ce5a6e01e]{
 -- Page 55, Offset 29151.
 -- 床にべったりと付着した血液に見えて、ここ数日の出来事を思い返してしまいそうだ。
-It looks like blood that's stuck to the floor, and it reminds me of the things that happened in the past few days.
+It looks like blood that's splashed across the floor,
+ and it reminds me of the things that happened in the past few days.
 }
 [sha:5b983f26e2dae283be8ddc875a28625e1dba1621]{
 -- Page 56, Offset 29152.
 -- 赤いなにか。赤い街並み。赤い処理場。
-// Is 処理場 about the Noel scene where she 処理 the two vampires?
-The red something. The red streets. The red disposal factory.
+// ?: Is 処理場 about the Noel scene where she 処理 the two vampires?
+// R: Guessing this is _not_ Skiki's memories here, given the next line, so probably not? Diff kanji too
+The red object. The red streets. The red disposal factory.
 }
 [sha:084bfbce3e2ea4300afebcbb24bcc079c34052a0]{
 -- Page 56, Offset 29153.
 -- 石造りの礼拝堂に敷き詰められた、人肉で作られた<絨毯|カーペット>。
-A carpet made of human flesh, laid out on the stone chapel.
+The carpet of human flesh that blanketed the stone chapel.
 }
 [sha:5fb1cae8e99c2ad50ab6da15e1394e42f57d248e]{
 -- Page 56, Offset 29154.
 -- 新雪を踏むようなあの感触は、中々にクセになる。
-That feeling, like stepping on fresh snow, is quite addictive.
+// Assuming stepping on said carpet is the あの感触
+The feeling of walking across it was a little addictive,
+ like stepping on freshly fallen snow.
 }
 [sha:d4833b8f3e0598b6e57607111b8a2a26b76c2b88]{
 -- Page 57, Offset 29155.
 -- 「――――いた」
-"It hurts――――."
+"―――%{i}Ow%{/i}."
 }
 [sha:a8dcc29fd6ed97dc5fba9daf9d869f8fffe859aa]{
 -- Page 57, Offset 29156.
@@ -92,7 +98,7 @@ Even though I'm wearing my glasses, my head... hurts.
 [sha:827e05f5fdba0a34c828598e2bb9ab6378597123]{
 -- Page 58, Offset 29159.
 -- ずきりと。　　　　あたまが
-Throb.              My head.
+%{i}Throb%{/i}.                           My head.
 }
 [sha:3cbaf4f8ba4e0f1637a43caddc2213b9103d0574]{
 -- Page 58, Offset 29160.
@@ -102,7 +108,7 @@ Throb.              My head.
 [sha:0dcf01bc585beabc1affc0c3ea8a97fca53e17a7]{
 -- Page 58, Offset 29161.
 -- あたまが。
-                   My head.
+                        My head.
 }
 [sha:f9a5c1c8d6592a666c1d997f002d79fc8a84bb35]{
 -- Page 58, Offset 29162.
@@ -112,7 +118,7 @@ Throb.              My head.
 [sha:8cca5e5f7e5b23897721a7186ccf71f196b6300e]{
 -- Page 58, Offset 29163.
 -- ずきりと
-                       Throb.
+                                     %{i}Throb%{/i}.
 }
 [sha:9132da1e85f02dda16200bcc1070f401f2d3b3fa]{
 -- Page 58, Offset 29164.
@@ -122,22 +128,24 @@ Throb.              My head.
 [sha:c0dd20c41901c3ad83756368c8f9aeba48e53a7b]{
 -- Page 59, Offset 29165.
 -- 「はあ――――はあ――――は―――――」
-"Haa―――― Haa―――― Haa―――――"
+"%{i}Haa%{/i}――%{i}Haa%{/i}――%{i}Haaaa%{/i}―――"
 }
 [sha:26a99d6e593f3ba29e70de29469580e416dd0971]{
 -- Page 59, Offset 29166.
 -- 痛みは程なくして収まった。
-The pain subsides soon after.
+The pain soon dies down again.
 }
 [sha:0bd4d7d653e60ef25e4ede039a3bb91684f198cf]{
 -- Page 59, Offset 29167.
 -- 人気の無い時間で助かった。
-Fortunately, there's no one around at this hour.
+// 人気 kinda dropped here but it's hammered pretty good on the next line
+It's a good thing it happened when it did.
 }
 [sha:918e7201b59a8c59cf41ca1a0c05eb2d3cd26a29]{
 -- Page 59, Offset 29168.
 -- 誰か、誰でもいいので、誰かが近くにいたら、それだけで気は収まったのに、誰も近くにいないで助かった。
-If someone―――just about anybody would have sufficed―――had been near me―――I would have been satiated―――but thankfully no one's here.
+If someone――just about anybody would have sufficed――had been near me I'd have been satiated,
+ but thankfully there's nobody around at this hour.
 }
 [sha:a7764301d284764f283415929fb4afab595dde1a]{
 -- Page 60, Offset 29169.
@@ -152,7 +160,8 @@ I sigh, letting out a lungful of air.
 [sha:bc7c2b1b35236ccfc906861a4a65c1c28c00db38]{
 -- Page 60, Offset 29171.
 -- 俺は渇ききった喉に手を当てながら、真っ赤な校庭を後にした。
-I leave the red schoolyard, clutching my hand to my parched throat.
+I leave the blood-red schoolyard,
+ a hand clutched over my parched throat.
 }
 [sha:e5ad3245d04c331d6d179f37d8e7b809008ac307]{
 -- Page 61, Offset 29172.
@@ -162,7 +171,7 @@ I drag my limp body back home.
 [sha:0af0ae1be35590aee3182c19cc027ab3db96e1a2]{
 -- Page 61, Offset 29173.
 -- 朝から一向に手足の鈍さはとれない。
-The sluggishness in my limbs hasn't improved the slightest bit since this morning.
+The sluggishness feeling in my limbs that I woke up with hasn't improved at all.
 }
 [sha:57fa69d0c922f2612865bf63be83c1a689f5578c]{
 -- Page 61, Offset 29174.
@@ -172,7 +181,7 @@ I need a radical solution.
 [sha:18c8209e31a36a37d4b3185c06bbe5e34112fd5d]{
 -- Page 61, Offset 29175.
 -- これは早急に、今夜にでもアテを見つけないと話にならない。
-I need to find it as soon as possible. I need to find it tonight, or else.
+I need to come up with something fast. I need it tonight, or else.
 }
 [sha:465fed06b1bc213cf8dc99468b76ecef72bf3f0a]{
 -- Page 62, Offset 29176.
@@ -187,22 +196,27 @@ Hisui is working on something in the lobby.
 [sha:d4a6e87c6252439440a8db14dad464b84281ce19]{
 -- Page 62, Offset 29178.
 -- 模様替えだろうか、見なれない椅子をロビーに運んでいる。
-She's carrying an unfamiliar chair into the lobby, perhaps for redecoration.
+// Lobby kinda redundant with above
+I wonder if she's redecorating or something?
+ She's carrying an unfamiliar char.
 }
 [sha:80a3a43b9736ae1cb80c1134805e9c99bb62845e]{
 -- Page 63, Offset 29179.
 -- 使用人は俺に気がついたのか、トツトツと静かな足取りでやってきた。
-The maid must've noticed me, as she's silently walking in this direction.
+The maid must've noticed me,
+ as she's now walking over with quiet, shuffling footsteps.
 }
 [sha:f91de340671c280c8bd6a225d8c6ab9d244b7c40]{
 -- Page 63, Offset 29180.
 -- 危機感なく近寄ってくる小鳥を思わせる。
-It reminds me of a small bird drawing near without feeling any sense of danger.
+She reminds me of a small bird, drawing near while completely oblivious to danger.
 }
 [sha:7765ae63bae1cbab793b060468a3d9ceb67b8a56]{
 -- Page 63, Offset 29181.
 -- ……無防備すぎて溜息がでる。節度のある俺だからいいものの、心ない<猟師|ニンゲン>なら今ごろ撃ち抜いている。
-How vulnerable... I'm astonished. Luckily for her, I'm a man of restraint, but if I were a mindless <hunter|h u m a n>, I would have shot her down by now.
+She's so vulnerable that I can't help but sigh.
+ Luckily for her, I'm a man of restraint.
+ If I were a mindless <hunter|h u m a n   >, I'd have shot her down by now.
 }
 [sha:1e3661423c06c42e19fd9cf64f1cb5d2ff4705a4]{
 -- Page 64, Offset 29182.
@@ -212,17 +226,20 @@ How vulnerable... I'm astonished. Luckily for her, I'm a man of restraint, but i
 [sha:ece401c15e81fa407404deb873b276d023768768]{
 -- Page 64, Offset 29183.
 -- ……お帰りに気付かず、申し訳ありません」
-I am deeply sorry that I did not realize you were home..."
+I am deeply sorry that I did not notice your arrival."
 }
 [sha:85dbf27572794ad0fdb0a20e44568a7df6f41f35]{
 -- Page 64, Offset 29184.
 -- ……ますます酷い。そんな病的に白いうなじを、これみよがしに見せないでほしい。
-How unsightly can you get? Stop showing me that sickly, white nape of yours so brazenly.
+// I assume referring back to this morning with the ますます
+How much more unsightly can she get?
+ Stop flaunting that pallid neck of yours so brazenly.
 }
 [sha:e19a71b3572c32272b02921d7468a95515db9a28]{
 -- Page 65, Offset 29185.
 -- 「いいよ、たまにはそういう事もあるだろうし。それよりなに、模様替え？」
-"Don't worry about it. Stuff like that happens from time to time. Anyway, what are you doing? Redecoration?"
+"Don't worry about it. Stuff like that happens from time to time.
+ Anyway, what are you up to? Redecorating?"
 }
 [sha:e2177890a448ce7c042544eca3097b18a965b61d]{
 -- Page 65, Offset 29186.
@@ -232,12 +249,13 @@ How unsightly can you get? Stop showing me that sickly, white nape of yours so b
 [sha:676d43bc03ca363c20e8b62e4deb9df8edc08d0c]{
 -- Page 66, Offset 29187.
 -- 「そっか。琥珀さんはいる？」
-"I see. Is Kohaku-san here?"
+"I see. Is Kohaku-san around?"
 }
 [sha:cd92d87142b14f938a032802c4d7e8f8d0614006]{
 -- Page 66, Offset 29188.
 -- 「姉さんは外に出ているところです。ご用でしたら後ほど、お部屋の方に二人でうかがわせていただきますが……」
-"She's currently away. If you need us, we can come to your room later..."
+"She is away at the moment.
+ If you require anything, the two of us can report to your room when she returns."
 }
 [sha:b5512d8b61088c53ff6fc69190a6cb3a7378c8ea]{
 -- Page 67, Offset 29189.
@@ -247,7 +265,7 @@ How unsightly can you get? Stop showing me that sickly, white nape of yours so b
 [sha:bdbf7fb373808a8018876dc8fde262af07fb7391]{
 -- Page 67, Offset 29190.
 -- 喉が渇いてるんで食堂にあるお茶一式、使わせてもらっていいかな？」
-I'm thirsty, so can I use the tea set in the dining room?"
+I'm thirsty, is it alright if I use the tea set in the dining room?"
 }
 [sha:87cbee539a0c1a01f2fc2450b59bca78e105f2c2]{
 -- Page 67, Offset 29191. Mods: @n.
@@ -257,7 +275,7 @@ I'm thirsty, so can I use the tea set in the dining room?"
 [sha:ccf9b718cc0d6cad3b3383346d4abeff461a6268]{
 -- Page 67, Offset 29192.
 -- トレイに載っているものなら問題ないと思います」
-You may take the one that's on the tray."
+I believe you should be free to use the one on the tray."
 }
 [sha:fbaeb79d0825c1b6cc3bd69c90ff539f0fb553f8]{
 -- Page 68, Offset 29193.
@@ -267,52 +285,55 @@ You may take the one that's on the tray."
 [sha:07931c1de4fc9c345b0af8cf80459291b34bcfd4]{
 -- Page 68, Offset 29194.
 -- それじゃまた後で、と声をかけて食堂に向かった。
-I say goodbye to her and head for the cafeteria.
+I say goodbye to her and head for the dining room.
 }
 [sha:4f7c07be77c53c30af18532eaf683b10df7f68f8]{
 -- Page 69, Offset 29195.
 -- 喉を潤してロビーに戻る。
-I quench my thirst and then return to the lobby.
+// Time break
+Having quenched my thirst, I return to the lobby.
 }
 [sha:c02c1baf04217654308168db719e9328cc41992e]{
 -- Page 69, Offset 29196.
 -- トレイには緑茶のセットと軽いお茶請けがあったので、思いの外長いお茶の時間になってしまった。
-There was a selection of green tea and some light snacks on the tray, which made for a longer tea break than I had expected.
+There was a selection of green tea and some light snacks on the tray,
+ and so I ended up taking a longer tea break than I'd planned on.
 }
-[sha:0b3c551e5bf58dfd2c6b74f03ae48ed2aefe0ec4]{
+[offset:29197]{
 -- Page 69, Offset 29197.
 -- さて。
-Well then.
+Now then.
 }
 [sha:a9bcbbc2ecd3f83e81c3b6001460a9e70aecc172]{
 -- Page 69, Offset 29198.
 -- 家人たちもまだ帰ってきていないようだし、夕食まで自分の部屋に、
-Since the other residents aren't home yet, I'll stay in my room until dinnertime―――
+It seems that the other residents aren't home yet,
+ so I'll wait in my room until dinnerti―――
 }
 [sha:c0b0149f1eb28d06c5c01dce0764a13391656dc4]{
 -- Page 70, Offset 29199.
 -- 「痛っ」
-"Ouch!"
+"%{i}Ouch%{/i}!"
 }
 [sha:f1c589c693dea41663aac4d5573ec8df96f0c6c7]{
 -- Page 70, Offset 29200.
 -- 膝に痛みを覚えて視線を下げると、そこには先ほど使用人が運んでいた椅子があった。
-Feeling pain in my knee, I look down to find the chair that Hisui brought in.
+I look down at my smarting knee, and find the chair that maid had been carrying earlier.
 }
 [sha:64ea0750b5d4fcd5e3221741b458aae8bca0fde1]{
 -- Page 71, Offset 29201.
 -- 椅子は邪魔にならないように壁際に置かれていた。
-It's placed along the wall, to prevent it from getting in someone's way.
+She'd placed it along the wall, to prevent it from getting in anyone's way.
 }
 [sha:507c6a13187ad70b9a34ae199af8803af7b041c3]{
 -- Page 71, Offset 29202.
 -- きちんと前を見ていればぶつかる事のないものだ。
-If I had paid attention, I wouldn't have bumped into it.
+If I'd been paying attention, I wouldn't have bumped into it.
 }
 [sha:fba754a115edeec82dc4a42921c18e5725e79c13]{
 -- Page 71, Offset 29203.
 -- 「……まいったな。こんなのに気がつかないほど疲れてるのか」
-"Ah man... I must be really exhausted if I didn't even notice it."
+"Oh man... I must really be exhausted if I didn't even notice that."
 }
 [sha:f11e0128cd3ad6435f30319692dbe2227c71d78f]{
 -- Page 71, Offset 29204.
@@ -322,12 +343,15 @@ I breathe out a sigh.
 [sha:e019cbe6c0011ae28c7d80d66bdedb0978c6508a]{
 -- Page 72, Offset 29205.
 -- ロビーに椅子を置いても仕方がないだろう。
-There's no point in putting a chair in the lobby.
+There's no point in putting another chair in the lobby.
 }
 [sha:2090344807711b28dbbe3a880b3c971d61d281cd]{
 -- Page 72, Offset 29206.
 -- ロビーに椅子は有り余ってる。あるものを余計においてどうする。無駄に数が多いのは目障りだとなぜ分からない。まったくもってセンスがない。慎みがない。使い途がない。
-There are too many chairs in the lobby. What do they intend to do with these unnecessary things? Why don't they understand that too much is an eyesore? How absolutely tasteless. How arrogant. How useless.
+There are too many chairs in the lobby.
+ What is the point of having a surplus?
+ Do they not understand that it's an eyesore to have all these redundant objects?
+ How absolutely tasteless. How arrogant. How useless.
 }
 [sha:243414d0eb49e416562eb38459590f49c98c40d8]{
 -- Page 73, Offset 29207.
@@ -342,27 +366,28 @@ This was an avoidable pain.
 [sha:8a32ee5add951143ea8878bcc3651d5d83dee8b9]{
 -- Page 73, Offset 29209.
 -- 椅子さえなければ使わなかった感情だ。
-I wouldn't have manifested this feeling if not for that chair.
+I would not have to feel this way were it not for that chair.
 }
 [sha:0e1600d1406a63c4af20c58316e44f2c5b26db9c]{
 -- Page 73, Offset 29210.
 -- ケチがついた。
-How unlucky can I get.
+This is just my luck.
 }
 [sha:a820ddc1240ee16d793aa50eb5a7e1b7625e40aa]{
 -- Page 73, Offset 29211.
 -- せっかくの自由時間を、こんな、使用人ひとりの不始末で台無しにされるなんて―――
-I finally managed to find some time for myself, but it's all come to nothing because of a single maid's blunder.
+I finally have some time for myself,
+ only for it to be ruined by some maid's blunder.
 }
 [sha:4815b24158351a8d92ee82ffae03607fbba1f96f]{
 -- Page 74, Offset 29212.
 -- ごく自然に椅子を蹴りつけた。
-I very naturally kick the chair.
+I kick the chair. Who wouldn't?
 }
 [sha:e50e01a31e01f4dbcbf0c0dc22f8885325b9163f]{
 -- Page 74, Offset 29213.
 -- ずきん。
-Throb.
+%{i}Throb%{/i}.
 }
 [sha:7da3cccbe3c4127ac680205f884c82e4f61c5b69]{
 -- Page 74, Offset 29214.
@@ -372,37 +397,38 @@ Kicking the chair causes my leg to be assailed by even more unnecessary pain.
 [sha:32ddd317cc3829b6390a5ee67ddaad05eb5338b0]{
 -- Page 74, Offset 29215. Mods: @n.
 -- ずきん、
-Throb.
+%{i}Throb%{/i}.
 }
 [sha:64f33e17bb8312cd9c9cb536e5a347457da142b8]{
 -- Page 74, Offset 29216. Glued.
 -- ずきん。
-Throb.
+ %{i}Throb%{/i}.
 }
 [sha:32ddd317cc3829b6390a5ee67ddaad05eb5338b0]{
 -- Page 74, Offset 29217. Mods: @n.
 -- ずきん、
-Throb.
+%{i}Throb%{/i}.
 }
 [sha:3ed77a5bd93a8f768aeeb77977a433c5d2048a71]{
 -- Page 74, Offset 29218. Glued. Mods: @n.
 -- ずきん、
-Throb.
+ %{i}Throb%{/i}.
 }
 [sha:64f33e17bb8312cd9c9cb536e5a347457da142b8]{
 -- Page 74, Offset 29219. Glued.
 -- ずきん。
-Throb.
+ %{i}Throb%{/i}.
 }
 [sha:78fd7e929be9c50f2ffa801cfa32962523b897cd]{
 -- Page 74, Offset 29220.
 -- 「―――――――コイツ」
-"You fucking―――"
+// Monotone, abrupt cutoff.
+"You fucker."
 }
 [sha:41f782127b25b73126b99edb000ebb973f6f9394]{
 -- Page 74, Offset 29221.
 -- なんて、邪魔な、ヤツ。
-What a... nuisance.
+This thing is a nuisance.
 }
 [sha:2b1fa53953cbb758cb29d52b9f8e67727d36bf49]{
 -- Page 75, Offset 29222.
@@ -422,57 +448,57 @@ This chair.
 [sha:e3467847fe11e8ef6889fae41b5d454fa91dd64a]{
 -- Page 75, Offset 29225. Glued. Mods: @n.
 -- この椅子。
-This chair.
+ This chair.
 }
 [sha:e3467847fe11e8ef6889fae41b5d454fa91dd64a]{
 -- Page 75, Offset 29226. Glued. Mods: @n.
 -- この椅子。
-This chair.
+ This chair.
 }
 [sha:e3467847fe11e8ef6889fae41b5d454fa91dd64a]{
 -- Page 75, Offset 29227. Glued. Mods: @n.
 -- この椅子。
-This chair.
+ This chair.
 }
 [sha:e3467847fe11e8ef6889fae41b5d454fa91dd64a]{
 -- Page 75, Offset 29228. Glued. Mods: @n.
 -- この椅子。
-This chair.
+ This chair.
 }
 [sha:e3467847fe11e8ef6889fae41b5d454fa91dd64a]{
 -- Page 75, Offset 29229. Glued. Mods: @n.
 -- この椅子。
-This chair.
+ This chair.
 }
 [sha:e3467847fe11e8ef6889fae41b5d454fa91dd64a]{
 -- Page 75, Offset 29230. Glued. Mods: @n.
 -- この椅子。
-This chair.
+ This chair.
 }
 [sha:e3467847fe11e8ef6889fae41b5d454fa91dd64a]{
 -- Page 75, Offset 29231. Glued. Mods: @n.
 -- この椅子。
-This chair.
+ This chair.
 }
 [sha:e3467847fe11e8ef6889fae41b5d454fa91dd64a]{
 -- Page 75, Offset 29232. Glued. Mods: @n.
 -- この椅子。
-This chair.
+ This chair.
 }
 [sha:e3467847fe11e8ef6889fae41b5d454fa91dd64a]{
 -- Page 75, Offset 29233. Glued. Mods: @n.
 -- この椅子。
-This chair.
+ This chair.
 }
 [sha:e3467847fe11e8ef6889fae41b5d454fa91dd64a]{
 -- Page 75, Offset 29234. Glued. Mods: @n.
 -- この椅子。
-This chair.
+ This chair.
 }
 [sha:266c7c4c15d676969547f7b584b4cec3e741c151]{
 -- Page 75, Offset 29235. Glued.
 -- この椅子！
-This chair!
+ This chair!
 }
 [sha:2550ed96dd2a813e14c9a39c041986e4c94b7300]{
 -- Page 76, Offset 29236.
@@ -492,17 +518,18 @@ What's up? Why are you here all of a sudden?"
 [sha:8c4e4263f43b300b9fdcf99a7d667cf7272b2be0]{
 -- Page 77, Offset 29239.
 -- 言って、驚いた。
-As I say that, I'm met with surprise.
+As I greet her, I notice something odd.
 }
 [sha:c67a521ec0008461495a2dae25a4e722cd0061fb]{
 -- Page 77, Offset 29240.
 -- 呼吸が乱れている。喉がぜいぜいと喘いでいる。
-My breathing is all over the place. My throat is wheezing.
+I'm panting heavily. My throat is gasping for air.
 }
 [sha:b7ce1e15f82835c4db27f064d4341ea7e7ef956d]{
 -- Page 77, Offset 29241.
 -- まるで何十キロとマラソンをしてきたようだ。
-It's like I've just a marathon over tens of kilometers.
+// I mean a marathon is a fairly _specific_ number of km, just gonna simplify here
+It's like I've just run a marathon or something.
 }
 [sha:c06e888a3f67cc069f41b95062e7a74a05f83a27]{
 -- Page 78, Offset 29242.
@@ -512,7 +539,7 @@ It's like I've just a marathon over tens of kilometers.
 [sha:1b74b9c858fa5a49d09fc6a08b31fbe1e805fc24]{
 -- Page 78, Offset 29243.
 -- 顎をあげて呼吸の通りをよくする。
-I raise my chin to allow air to flow unimpeded.
+I tilt my head back so that I can breathe easier.
 }
 [sha:08eb74b032641a5c4c9cbde882103b8b259b2acf]{
 -- Page 79, Offset 29244.
@@ -522,6 +549,7 @@ I raise my chin to allow air to flow unimpeded.
 [sha:c9c19f081ba7d42704d7ca04935950072070dec6]{
 -- Page 80, Offset 29245.
 -- 「？　なにって、翡翠こそどうしたんだよ、そんな不安そうな顔して。なにかあったのか？」
+// ? not voiced.
 "What do you mean? I should be the one asking you that. You look so anxious, did something happen?"
 }
 [sha:132272720c3e604460bb42318704848ffda5441d]{
@@ -532,32 +560,33 @@ I raise my chin to allow air to flow unimpeded.
 [sha:394515eaed1beadbb1846db86d24b011721b277f]{
 -- Page 80, Offset 29247.
 -- 「何をしてるかって、俺は別に何も―――」
-"What I've done? I didn't do―――"
+"What I've done? I haven't really done anythi―――"
 }
-[sha:eff2fa596616de17572416997c17b19f095116bb]{
+[offset:29248]{
 -- Page 81, Offset 29248.
 -- 「くっ―――」
-"Crap―――"
+"%{i}Guh%{/i}―――"
 }
 [sha:25edb3bc6159c3634c5d15988eb6d0888751dbd6]{
 -- Page 81, Offset 29249.
 -- また頭痛がした。振り払うように頭を振って、足元にあるモノに気がついた。
-My head hurts again. I swing my head to shake it off and I notice something at my feet.
+Another headache.
+ As I shake my head to try and drive it off, I notice something at my feet.
 }
 [sha:2a7cdb06ce405fb7178b9678ccfe4d6d1c92173a]{
 -- Page 81, Offset 29250.
 -- そこには原形を留めていない、
-There, completely unreminiscent of its original form―――
+There, now completely unrecognizable―――
 }
 [sha:ef4070407e332333e0e408c320b58f0bda48bf4a]{
 -- Page 81, Offset 29251.
 -- 叩き壊された椅子の残骸が散らばっている。
-stands the remains of a smashed chair, scattered about.
+Are the strewn about remains of what used to be a chair.
 }
 [sha:2f14d44dcb5ac02e187373da40b4db9c3039b76e]{
 -- Page 82, Offset 29252.
 -- 「――――――え？」
-"――――――Huh?"
+"―――Huh?"
 }
 [sha:621b6aae64858d609eaade7715f31f611cd3cc81]{
 -- Page 82, Offset 29253.
@@ -577,7 +606,7 @@ My heart is pounding wildly.
 [sha:9b4bc6f23272b0a3c776771526903abed7b11012]{
 -- Page 83, Offset 29256.
 -- 「……はい。志貴さまが椅子を持って、床に何度も叩きつけた結果です」
-"Yes... This happened because you took the chair and repeatedly smashed it against the floor."
+"Yes... This is the result of you picking up the chair and repeatedly smashing it against the floor."
 }
 [sha:5e39ac1c787b40b37a29ae23c2484b704d915b72]{
 -- Page 83, Offset 29257.
@@ -587,22 +616,23 @@ My heart is pounding wildly.
 [sha:2f74c99d4494cb843e96f1a77d0c5e4e4b8eeeee]{
 -- Page 84, Offset 29258.
 -- 驚きで心臓が止まるかと思った。
-I'm so surprised that I feel like my heart has stopped.
+It comes as such a shock that I thought my heart would stop.
 }
 [sha:171b109bbd55f19e0c671a148b07a8b23ee47627]{
 -- Page 84, Offset 29259.
 -- 体温が急速に落ちていく。
-My body temperature drops rapidly.
+My body temperature plummets.
 }
 [sha:faca2468b93a37fa001a17205659a530064e69c2]{
 -- Page 84, Offset 29260.
 -- 頭の中が音をたてて凍っていく。
-I can hear the inside of my head freezing.
+I can hear the contents of my head creaking and groaning as they freeze.
 }
 [sha:5aac04a4f8daae2b60628eb1a367fbfeb5c08b51]{
 -- Page 84, Offset 29261.
 -- 呆然と自分の両手を見下ろす。そこには確かに椅子の脚を握り続けた跡がある。
-At a loss, I look down at my own hands. Certainly enough, there's a mark where I gripped the chair's leg.
+I look down at my hands, dumbstruck.
+ Sure enough, there are marks from where I'd gripped the legs of the chair.
 }
 [sha:c99506359ed5fead0219bb515dc0f6467f640ce8]{
 -- Page 85, Offset 29262.
@@ -627,12 +657,14 @@ Tohno Shiki wouldn't do this.
 [sha:7615c00b01a876ff7354b18cd5c7f5725b43e6c5]{
 -- Page 85, Offset 29266.
 -- そりゃあたしかに椅子に足をぶつけて、痛いなって思ったけど。なんでそんなコトぐらいで俺は、こんな子供みたいに、些細な怒りにまかせて物を壊したりしたんだろう……？
-Sure, I bumped my foot on the chair, and yeah, it kinda hurt. But why did I fly into such a petty, childish rage and destroy it over something as trivial as that...?
+Sure, I bumped my foot on the chair, and yeah, it kinda hurt.
+ But why did I fly into such a childish rage and destroy it over something so trifling...?
 }
 [sha:ef8bf4604bf164ffce7fd49e544f8ef2a9b140b7]{
 -- Page 86, Offset 29267.
 -- 「……志貴さま、ご気分が優れないのですか？
-"Shiki-sama, are you not feeling well?
+// Long pause, promoted
+"Shiki-sama... are you not feeling well?
 }
 [sha:81f363cbf0abd179d3faed7946c260660acff080]{
 -- Page 86, Offset 29268.
@@ -652,12 +684,12 @@ I know that look.
 [sha:a57af29f8977835e8a0ae9b2117c9f28d8766b5b]{
 -- Page 86, Offset 29271.
 -- 昔、病院で何度も見てきた目だ。
-I've seen those eyes many times in the past, when I was in the hospital.
+I saw those eyes many times, back when I was in the hospital.
 }
 [sha:430243fa2e7887f9b786af63366e70e27af85b24]{
 -- Page 86, Offset 29272.
 -- 俺を、遠野志貴を異物だと見つめる目だ。
-Those are eyes that stare at me, at Tohno Shiki, like I'm an anomaly.
+Eyes that stare at me――that stare at Tohno Shiki like he doesn't belong.
 }
 [sha:01bac5ae41088714fe8a27361eda2092c0b5218e]{
 -- Page 87, Offset 29273.
@@ -677,7 +709,7 @@ I pull away from the little bird.
 [sha:68e9465ddc9221d04d32abbbf9fc5bc2f5aeb37a]{
 -- Page 87, Offset 29276.
 -- 壊れた、俺の手によってバラバラになった椅子から離れる。
-Away from the broken, dismembered chair that I destroyed with my very own hands.
+Away from the broken chair that I smashed to pieces with these very hands.
 }
 [sha:60f4d999a7cb4092a5c4ac92acff3e4d9a1d7c82]{
 -- Page 88, Offset 29277.
@@ -687,7 +719,7 @@ Away from the broken, dismembered chair that I destroyed with my very own hands.
 [sha:928e006f356fd43df54b6d34438d39b6d884524b]{
 -- Page 88, Offset 29278.
 -- そんなに息を乱してはお体に障ります」
-Breathing so erratically will strain your body."
+Breathing erratically like that will strain your body."
 }
 [sha:511ce890c6f4c34037f5363c470c4ceb39f827cb]{
 -- Page 88, Offset 29279.
@@ -707,5 +739,6 @@ I run up the stairs, yelling.
 [sha:a134f7703912ddd8d1ebf6d6bc2d1342cac06082]{
 -- Page 89, Offset 29282.
 -- まるで逃げだしてるようだ、と他人事のように思いながら。
-'It's almost like I'm running away,' I think to myself as if it's someone else's problem.
+I muse that it's almost like I'm running away,
+ though for some reason it feels like it's all happening to someone else.
 }
