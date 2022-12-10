@@ -129,7 +129,7 @@ In order to keep my memories at bay,
 -- Page 235, Offset 13766.
 -- そうすれば、たいていの出来事はすべて過去のものになる。
 // LintConsistency:14794
-...If I do that,
+If I do that,
  all of the events that have transpired will surely become nothing more than fragments of the past.
 }
 [sha:27a5a816b5091bb5ac36b7ae399849b36d89dd79]{
@@ -195,6 +195,7 @@ I choose a suitable book from the bookshelf, flip through it until I find a fitt
 -- Page 239, Offset 13778.
 -- ―――『不老不死』―――
 // Considering all the play that comes afterwards about 不老不死 and its individual parts 不老 and 不死, it may be interesting to add a "Unaging and Undying" ruby here. There is also 不死身 for which I am still unsure about.
+// lint-off:LintEmDashes
 %{center}―――'Immortality'―――
 }
 [sha:f1f48a7ec7cc7da92da3cea26f0485f7836640b6]{
@@ -216,7 +217,7 @@ Even vampires, who do not age and can come back to life after being killed, are 
 [sha:94790926b604965fd9586e0e39bde66d0a7082a4]{
 -- Page 241, Offset 13782.
 -- 彼らは他者から血液を補充しなければ自身を保てない欠陥品だ。
-They are defective goods, unable to sustain their bodies without the blood of others.
+They are defective, unable to sustain their bodies without the blood of others.
 }
 [sha:76883aecfa17dd42a4207941b0b3f1270f61619d]{
 -- Page 241, Offset 13783.
@@ -228,7 +229,7 @@ with few exceptions, this means humans.
 -- Page 241, Offset 13784.
 -- 超越種と謳ってはいるが、それは進化ではなく退化だろう。
 // https://www.youtube.com/watch?v=5JdS-sSKsBc
-Despite being lauded as superior beings, they have not evolved so much as they have %{i}de%{/i}volved.
+Despite being lauded as transcendental beings, they have not evolved so much as they have %{i}de%{/i}volved.
 }
 [sha:22a627343eb88d378021efb6dc8f36e29eae6ec5]{
 -- Page 241, Offset 13785.
@@ -354,7 +355,7 @@ An immortality whose end is known from the very beginning.
 [sha:925fcf3f6bfabb26addeb2c7fa69fdb5f2bd771d]{
 -- Page 247, Offset 13807.
 -- これだから魔術師あがりの死徒は救いがたい。
-This is why Dead Apostles who started off as magi are beyond hope.
+That's why I can't stand you Dead Apostles who started off as mages.
 }
 [sha:44ccb4ed79d98c961a5902af831f26d853794c7f]{
 -- Page 247, Offset 13808.
@@ -372,7 +373,7 @@ However―――What you have proposed is a far cry from eternity, Serpent.'
 // Maybe observers with a capital. Not sure which term to use for 不変. It appears 4 times in the script, in contrast to 24 for 不死身 and 59 for 不老不死
 'No, it is eternity.
  I care not if I perish along with everyone else when the time of reckoning arrives.
- If there is nobody left to observe, then it would mean everything has become unchanging.
+ If there is nobody left to observe, then it would mean everything has achieved permanence.
  The eternity that I embody is temporary, it exists only until that moment comes.
 }
 [sha:6f4c734c29cf099c94cad02185cdb41434750939]{
@@ -443,12 +444,12 @@ I admit that I am also a little curious about what you've been up to in the Nort
 [sha:4c23e3d58ec835120e0227fd94aa438bf6c48124]{
 -- Page 252, Offset 13823.
 -- さて。それでは貴方の中の原理を、わずかですが現実に<零|こぼ>す神秘を教授いたしましょう。
-Now then. Allow me to teach you an arcanum for spilling――
-if only minutely—―
-the Principle you hold within you onto reality.
+Very well,
+ I shall teach you an arcanum that'll let you spill the Principle you hold within onto reality,
+ even if only slightly.
 }
 [sha:ed2ae5ed4dca523c35c9e287d935981668d26ec6]{
 -- Page 252, Offset 13824.
 -- その神代の御業をもって、貴方に捕えてほしいひとが―――』
-There is a person I want you to capture using that Age of God deed―――'
+There is someone I wish for you to capture with this rite from the Age of Gods.'
 }

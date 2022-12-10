@@ -56,7 +56,7 @@ Taking a deep breath, I power through the dizziness brought on by the sudden cha
 -- Page 547, Offset 12278.
 -- 「けど、確かにここなら公園を一望できる。次は事前に言ってくれればこっちも準備が……アルクェイド？」
 "But you're right, we can see the whole park from here.
- Next time you do something like that, give me a heads up first though so that I can prepare myse――― Arcueid?"
+ Next time you do something like that, give me a heads-up first though so that I can prepare myse――― Arcueid?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 548, Offset 12279.
@@ -199,7 +199,7 @@ As it recedes, a gigantic rectangular box comes into view amidst the debris.
 [sha:fad4c9c0141393eca9861fd279989aa65368ce98]{
 -- Page 558, Offset 12305.
 -- 「ふん。檻を作ってから１時間ってところかしら。急造の準備にしてはあがくじゃない、アイツ」
-"Hmph. I'd say they probably constructed that cage an hour or so ago.
+"%{i}Hmph%{/i}. I'd say they probably constructed that cage an hour or so ago.
  They sure worked hard to slap something like that together this quickly."
 }
 [sha:4260628172964326f7771439e7f1f7a2b8d6129d]{
@@ -282,7 +282,8 @@ Didn't you say you'd help even though the Executors are involved?!"
 [sha:a7171c3aa38918924c08487463cced748f5cc49d]{
 -- Page 564, Offset 12321. Glued. Mods: @x.
 -- あいつに手を貸すぐらいなら、太陽を抱いて眠ってもいいぐらい」
- I'd rather breathe my last while embracing the sun than help her."
+// Miror in 09_01_CIEL09_2 offset 22793.
+ I'd rather sleep in the bosom of the sun than help her."
 }
 [sha:0f142972720a0bd737152123ce461dac01f3ad76]{
 -- Page 565, Offset 12322.

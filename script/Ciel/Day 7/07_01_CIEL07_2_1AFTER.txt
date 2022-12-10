@@ -71,7 +71,7 @@ Well, I guess I am a little short on blood even at the best of times,
 -- Page 242, Offset 15373.
 -- なんだって遠野くんに死徒の寝床なんて教えたんでしょうか、彼女は。いえ、それだけじゃなくヴローヴと直接戦わせるなんて、遠野くんを殺す気だったとしか思えません」
 Why in the world did she tell you where that Dead Apostle was sleeping, I wonder?
- Wait, and that's not all―――she even made you fight Vlov face to face.
+ Wait, and that's not all―――she even made you fight Vlov face-to-face.
  One can only assume she %{i}wanted%{/i} to get you killed."
 }
 [offset:15374]{
@@ -186,7 +186,7 @@ Wow, I threw that question out there in sheer desperation,
 -- 「えっとですね、吸血種は傷を受けても自動的に復元される生き物なんです。復元の強弱はあれ、これは吸血鬼……死徒たちが持つ種族的特性なので例外はありません。
 "So, here's the deal:
  bloodsuckers are beings that can automatically restore themselves whenever they sustain an injury.
- How well they can do so varies, but this is a racial attribute that all vampires――all Dead Apostles――possess, without exception.
+ How well they can do so varies, but this is an attribute that all species of vampire――all Dead Apostles――possess, without exception.
 }
 [sha:ad30cbab8293856a531c406350d6240c445af468]{
 -- Page 251, Offset 15393.
@@ -211,7 +211,7 @@ As such, you can't completely kill a vampire by ordinary external means――wit
 [sha:f3bec978a9353f0b46dfa3fffdc2a3bbe2d3e0c6]{
 -- Page 252, Offset 15396.
 -- 復元呪詛―――傷を治療する、ではなく破損した個所を元通りにしようとする時間の逆行。この呪詛を無効にする神秘を<概|がい><念|ねん><武装|ぶそう>と言うんです」
-The Hex of Restoration――it doesn't work by healing their wounds,
+The %{i}Hex of Restoration%{/i}――it doesn't work by healing their wounds,
  but by rewinding time to restore their damaged parts to how they used to be.
  Arcana that invalidate this hex are referred to as Conceptual Weapons."
 }
@@ -239,14 +239,15 @@ To put it in layman's terms, it'd be a 'magical weapon'."
 -- 「『元が人間の吸血鬼』には他により効果的な手段があるので使いませんが、『初めから人間ではない吸血種』を処理する時に使用する、言うなれば奥の手です。
 "We don't really use these against vampires who were originally human,
  since there are other effective ways of dealing with them.
- Instead we save them for when we need to dispatch bloodsuckers who were never human to begin with.
+ Instead, we save them for when we need to dispatch bloodsuckers who were never human to begin with.
  They're a trump card, if you will.
 }
 [sha:9e776f2297a2da3e08a4137f00648a4879dbec40]{
 -- Page 254, Offset 15401.
 -- 遠野くんのナイフもその一つだと思います。大方、あの真祖が持ち出した対死徒用の武器なんでしょう？」
+// lint-off:LintDupedWord
 I think your knife is one such instrument.
- If I had to guess, I'd wager that it's some anti-Dead Apostle weapon that True Ancestor brought with her, right?"
+ If I had to guess, I'd wager that it's some anti-Dead Apostle weapon that that True Ancestor brought with her, right?"
 }
 [sha:6964b6a228abbfa38ad3f00c2fec3c09f0bda0d0]{
 -- Page 255, Offset 15402.
@@ -346,7 +347,7 @@ When I received this knife, I remember thinking that it was an awful keepsake.
 [sha:df19a9589b61837478c6e7612095cc8adb2a829d]{
 -- Page 261, Offset 15419.
 -- わたしの説明は以上です。遠野くんの方はどうですか？　あれから体に異常はありませんか？」
-That's all for my explanations.
+Alright, that's all I had.
  What about you?
  Anything out of the ordinary about your body recently?"
 }
@@ -429,7 +430,7 @@ Oh, but―――"
 -- Page 269, Offset 15434.
 -- “すべてが終われば記憶を消す”
 // No exact backreference
-'Once everything is over I'll erase your memories.'
+'Once everything is over, I'll erase your memories.'
 }
 [sha:c7e85e8d15c58c817321c11cf1f30b0296e9d832]{
 -- Page 269, Offset 15435.
@@ -462,7 +463,7 @@ You could say that everything is over now, so does that mean...?
 [sha:40f3056e5f9d227265ca7d3a093bb3d4b69747ee]{
 -- Page 271, Offset 15440.
 -- 「ワケないじゃないですかっ！
-"Why would I ever want that!
+"Why would I ever want that?!
 }
 [sha:a46b5c8351c896c9dbbce784f974b5737b795cc9]{
 -- Page 271, Offset 15441.
@@ -556,7 +557,7 @@ If I were to come across one of the remaining vampires attacking someone,
 -- Page 278, Offset 15457.
 -- 結構です、と笑って先輩は立ち上がった。
 // Such stunning sibilance
-Senpai says 'splendid', smiles and stands up.
+Senpai says 'splendid', smiles, and stands up.
 }
 [sha:4364766e4acb9956aea9720b0d4b0e7a634da9ba]{
 -- Page 278, Offset 15458.
@@ -567,7 +568,7 @@ It appears our chat has come to an end.
 -- Page 278, Offset 15459.
 -- 先輩は俺を悪夢から解放するように、和室の襖をあけて外に出るように促した。
 // Nightmare given context slightly so it doesn't sound like he hated being in a room with her
-Senpai slides open the door of the room and urges me outside,
+She slides open the door of the room and urges me outside,
  almost as if releasing me from the nightmare of the past few days.
 }
 [sha:0c9089c53186ea0e1fcbcd477356fea3c00c3ac6]{
@@ -636,7 +637,7 @@ I spent all day thinking of Senpai,
 -- Page 284, Offset 15471.
 -- 「それはもちろん、遠野くんが想像した通りの事をするだけです。痛いのが、もっと嫌いになっちゃうような」
 // Colour me intrigued
-"Well, it would of course be exactly what you're imagining.
+"Well, it would be exactly what you're imagining, of course.
  The sort of thing that'd make you develop a whole new fear of pain."
 }
 [sha:1cdb3727116d837836673c05a9609b90865c7ce1]{
@@ -647,5 +648,5 @@ Senpai delivers this terrifying reply with a smile on her face.
 [sha:15c83994ba3b744c67fc86fb80937c1442b31fc8]{
 -- Page 284, Offset 15473.
 -- ―――よし。先輩が代行者である事は、誰であろうと喋らないよう心がけよう。
-Note to self―――do not breathe a word to anyone about the fact that Senpai is an Executor.
+Note to self――do not breathe a word to anyone about the fact that Senpai is an Executor.
 }

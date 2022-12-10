@@ -1,17 +1,17 @@
 [sha:78f97bb29161d98eb148a817ad24324d765abf0d]{
 -- Page 10001, Offset 27151.
 -- 階段を下りてロビーに着いた。
-I go down the stairs and arrive at the lobby.
+I take the stairs down to the lobby.
 }
 [sha:ddb6a2fd9b467a1f4da5095ee0876f6e0296b660]{
 -- Page 10001, Offset 27152.
 -- 右手側には食堂に続く廊下。
-To my right is the hallway leading to the dining room.
+To my right is the hallway that leads to the dining room.
 }
 [sha:3695e32b8da1dfeb2ddcc21871f0c64fdc8ea862]{
 -- Page 10001, Offset 27153.
 -- 正面には外に通じている玄関がある。
-Straight ahead is the front door to go outside.
+Straight ahead is the front door of the mansion.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 34, Offset 27154.
@@ -21,30 +21,31 @@ Straight ahead is the front door to go outside.
 [sha:5d21c8cb37c6461f316d53a410a7a10010df096c]{
 -- Page 34, Offset 27155.
 -- わずかに気持ちが揺れた。
-I feel a little hesitant.
+I can't quite make up my mind.
 }
 [sha:65add7292a31cdeea6650c327be0b9a37f9cc862]{
 -- Page 34, Offset 27156.
 -- 食堂によって朝食をいただいて、まだ居間にいる秋葉に声をかけて朝を過ごすか。
-Should I take breakfast in the dining room and spend the rest of the morning talking with Akiha as she should still be in the living room?
+Akiha's probably still in the living room,
+ so should I stop to eat breakfast and pay her a visit?
 }
 [sha:95cac4453e40f7ef699b719f6e436dc27fdecbc6]{
 -- Page 34, Offset 27157.
 -- それとも、一刻も早く学校に行って先輩を探すべきか。
-Or should I not waste a second and to school as soon as possible to find Senpai?
+Or should I rush to school as fast as I can to find Senpai?
 }
-[sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
+[offset:27158]{
 -- Page 34, Offset 27158. Mods: @k, @e.
 -- 俺は―――
-I―――
+This morning I'll―――
 }
 [sha:2086af6007ad67a9493a3cb3454fc81fc7c1793b]{
 -- Page 35, Offset 42726. Choice.
 -- ……ちゃんとみんなに挨拶しよう。
- I should properly greet everyone.
+ Be sure to say hi to everyone before I leave.
 }
 [sha:2a39a0bf9537d291822051d63120234ead129e81]{
 -- Page 35, Offset 42727. Choice.
 -- ……いや、今朝だけは先輩を優先したい。
- No, I want to prioritize Senpai, this morning at least.
+ Make senpai my top priority.
 }

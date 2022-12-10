@@ -1,7 +1,8 @@
 [sha:b88212e01213db7185e3f86b351fd8d344e63ec4]{
 -- Page 10011, Offset 19229.
 -- ……あの雨の夜を思い出す。
-I recall that rainy night.
+// Standardized this pattern on ellipses on ~思い出す but not on his speech
+...I think back to that rainy night.
 }
 [sha:8b86795b9a5f58a15024fac971acdd392b7cec63]{
 -- Page 10011, Offset 19230.
@@ -11,22 +12,23 @@ After I killed Arcueid and selfishly resolved to die, she found me and brought m
 [sha:25dc6704b9fa723e976d7a4d4dd1637060a47e2a]{
 -- Page 10011, Offset 19231.
 -- 「……俺は、あの人に命を救われた」
-"...She saved me."
+"She saved my life."
 }
 [sha:065cf8960c3ba20306d93032c8a4a4c44f3f9edd]{
 -- Page 10011, Offset 19232.
 -- 「わたしだって何度も救ってるけど」
-"I've also saved you lots of times though."
+"I've saved you a bunch of times too though."
 }
 [sha:fc59ca7cebd7e452c5c609612a667422edd0b2dd]{
 -- Page 392, Offset 19233.
 -- ……ヴローヴとの戦いを思い出す。
-...I recall the fight against Vlov.
+...I think back to the fight against Vlov.
 }
 [sha:7cda2122aa5b06aaf63ad4fd66f4fb7baebcc698]{
 -- Page 392, Offset 19234.
 -- 極寒の地獄の中で、ただひとり戦っていた無償の正義を。
-I recall the unconditional righteousness fighting alone, in the midst of that hellish blizzard.
+I remember how she fought all alone in the midst of that hellish blizzard,
+ making the righteous choice even though she knew she'd never be rewarded for it.
 }
 [sha:7fe0b357e7e39e8d0661efd0385463ada7bd1616]{
 -- Page 392, Offset 19235.
@@ -36,12 +38,12 @@ I recall the unconditional righteousness fighting alone, in the midst of that he
 [sha:b38c09de4395953b5fcad4a71491321eb1e3f06f]{
 -- Page 392, Offset 19236.
 -- 「わたしだってめっちゃ守ってますけど？」
-"I also seriously protected it though."
+"Okay, but I protected it, like, so much more?"
 }
 [sha:c1f82f9c592b59c5a93c910c437726b611b91923]{
 -- Page 393, Offset 19237.
 -- ……カレーショップでの笑顔を思い出す。
-...I recall her smile in the curry shop.
+...I think back to the way she smiled back at the curry shop.
 }
 [sha:fd48a0e6c03dcf775302b1440d1d0498013feda5]{
 -- Page 393, Offset 19238.
@@ -51,17 +53,17 @@ She told me that it was fine to be afraid, to be worried. She―――
 [sha:316afd2fca6bd3d746dcc1556aaf8391a55c6544]{
 -- Page 393, Offset 19239.
 -- 「わたしだってお昼ご飯ぐらいおごれますけど？」
-"I've also treated you to lunch though."
+"I could treat you to lunch too though, you know?"
 }
 [sha:79c39bfa6037bd01e48b54b7113ccafcbcc79966]{
 -- Page 393, Offset 19240.
 -- 「だぁーーーー！！！！
-"Argh―――!!!!
+"%{i}Argh%{/i}―――!!!!
 }
 [sha:64fee0a5eda814c705d09ba18c56561a86f5378a]{
 -- Page 393, Offset 19241.
 -- ちょっと黙ってくれませんかね！？」
-Could you please shut up?!"
+Would you just shut up for a second?!"
 }
 [sha:3638be6715deb3ccd33d88876c28b5cce67f02ff]{
 -- Page 394, Offset 19242.
@@ -76,37 +78,39 @@ Have you finally started reading my mind?!"
 [sha:6442a78b7326722d2cef034a4a4157314ae5c8a0]{
 -- Page 395, Offset 19244.
 -- 「だ、だっていま、一緒にカレーショップがどうとか呟いてたから」
-"I-I mean, you were mumbling about going to a curry shop or something."
+"I-I mean, you were mumbling something about going to a curry shop together."
 }
 [sha:317c234b9695a1e69f608c682b580bad8fc57f04]{
 -- Page 395, Offset 19245.
 -- 「―――む」
-"―――Grrr"
+// Not sure what fits best here. VA sounds to me like an 'oh, dang, I let it slip / that explains it'
+"―――%{i}Urgh%{/i}."
 }
 [sha:32ce0eaaa0e03ad4b80e43ac8b262d6421387496]{
 -- Page 395, Offset 19246.
 -- しまった、声に出ていたか。
-Crap, did I let that slip out?
+Crap, was I thinking out loud?
 }
 [sha:edc9a54ff5f30b1a27628278d61d1fd487551481]{
 -- Page 396, Offset 19247.
 -- 「なによ、はっきりしない志貴が悪いんじゃないっ！
-"What? It's your fault for not saying it clearly!
+// Reading this as him not answering the original question clearly, rather than mumbling
+"Hey, you're the one who hasn't given me a clear answer!
 }
 [sha:a75faebc2aa1e6d62117a2826cb884243a46e412]{
 -- Page 396, Offset 19248.
 -- そんないかにもカッコイイ独り言で誤魔化されないからね、わたし！」
-I'm not one to be deceived by your really cool monologue!"
+You can't weasel your way out of it by going off on some cool monologue!"
 }
 [sha:ff46d42166afd6282846a6ffb145910e0be6a9cf]{
 -- Page 396, Offset 19249.
 -- 「カッコイイ独り言ってなんだ、ばか！
-"What do you mean, 'cool monologue', you idiot!
+"What do you mean 'cool monologue', you idiot?!
 }
 [sha:7806ee5014aff1fa3d65e38bff21050f860948ca]{
 -- Page 396, Offset 19250.
 -- おまえが邪魔しなけりゃ、今ごろはっきり答えてたよ！」
-If it wasn't for you butting in, I would've already answered you clearly!"
+You'd already have your answer by now if you didn't keep butting in!"
 }
 [sha:974582a161cebdf3592fdceafa174f3365762272]{
 -- Page 397, Offset 19251.
@@ -116,11 +120,12 @@ If it wasn't for you butting in, I would've already answered you clearly!"
 [sha:af41037e237fd45e076c4e7c9ce8106736f2c19b]{
 -- Page 397, Offset 19252.
 -- 「……まったく。
-"...God.
+"For crying out loud...
 }
 [sha:9468f4da07d54b9096c3b942fc2a9dde132901bd]{
 -- Page 397, Offset 19253.
 -- いいか。先輩は大切な人だ。あの人がいなかったら、俺はここにいなかった。だけど」
+// Anything that comes before the 'but' is bullshit, sorry
 Listen. Senpai is someone precious to me. If not for her, I wouldn't be here right now. But―――"
 }
 [sha:a8c6f04b4210442d7210eea7f7b1afc6fd8942bc]{
@@ -131,58 +136,63 @@ Listen. Senpai is someone precious to me. If not for her, I wouldn't be here rig
 [sha:04ad1c9d54ccda1b77d2ee4c3d4e3795702144cb]{
 -- Page 398, Offset 19255.
 -- 「尊敬と、好き嫌いは別の話だ。
-"Admiration is one thing, liking or disliking is another.
+"Respecting someone and liking someone are different things.
 }
 [sha:cc6eca1c8aa89bee523be1eaa55aca26eb9e334f]{
 -- Page 398, Offset 19256.
 -- ……敵味方の話をするなら、俺はおまえの方が、何倍も放っておけない」
-...If we're talking about enemies and allies, you're definitely the one I can't just leave be, by far."
+// Reading 敵味方の話 as him having to pick one as a 敵 and the other as his 味方
+// 何倍も has to be called back to later in the file, which constrains word choice here
+If you're going to force me to pick a side... I'm going to pick yours, by a wide margin."
 }
 [sha:d141998b31eab9152699e8f3e6188bc998422066]{
 -- Page 399, Offset 19257.
 -- ……言ってしまった……。
-...There, I said it...
+I can't believe I just said that...
 }
 [sha:4758526db835af61b307178f9780d78f2679daab]{
 -- Page 399, Offset 19258.
 -- でも、自分の気持ちを偽る事はできない。
-But I can't lie about my own feelings.
+But there's no way I can deny my own feelings.
 }
 [sha:c0d5ccb6142bdf65fffb491cc408c713db0f3566]{
 -- Page 399, Offset 19259.
 -- 今夜だってアルクェイドと街を歩いているだけで、裸眼の痛みに耐えられた。
-Just walking around town with Arcueid tonight made the pain in my eyes bearable.
+I mean, just having Arcueid with me tonight was enough to make the pain in my eyes bearable.
 }
 [sha:be62e5745057a30b4ffbabdfeb0fe42dda2b0a33]{
 -- Page 400, Offset 19260.
 -- 「何倍……何倍も……」
-"By far... by far..."
+"By a wide... margin..."
 }
 [sha:76317e8ea230162b5e7ca1b1aec48edfcc777772]{
 -- Page 400, Offset 19261.
 -- 遠野志貴はどうしてか、コイツと一緒にいるだけで何かに許された気がして、安心できる。
-For some reason, just being with her puts me at ease. It's as if I've been permitted peace of mind.
+For some reason, I feel like I'm allowed to be myself when I'm with her. I can actually relax.
 }
 [sha:9d937f54e7ef35cde493e036796a983a8b14e083]{
 -- Page 400, Offset 19262.
 -- 今だって油断すれば抱き寄せたくなってしまうぐらいだ。
-So much so that if I didn't restrain myself, I'd hug her right now.
+Though, right now, I might be a little %{i}too%{/i} relaxed.
+ I have to actively stop myself from embracing her.
 }
 [sha:012a1e9dbcd9abf8f5979ac761a9b816e3062478]{
 -- Page 400, Offset 19263.
 -- それはつまり、惚れた相手に抱く情欲に近いと思う。
-In other words, I think it's close to lusting after one's beloved.
+In short, what I feel is similar to the lust you'd feel toward your lover.
 }
 [sha:b6238f6c2159abb8fcb0dcb815916d12c1b7a528]{
 -- Page 401, Offset 19264. Mods: @n.
 -- 「ん～～～っ！
-"Mmmmm～～～!
+"%{i}Mmmmm%{/i}～～～!
 }
 [sha:d908134fea3581f0c415319edbfb104a28b853a6]{
 -- Page 401, Offset 19265. Glued. Mods: @x.
 -- ほわぁーーーーッ！」
-// ほわほわ apparently in the same vein as ふわふわ
-%{i}*fluffy fluffy*%{/i}"
+// G: ほわほわ apparently in the same vein as ふわふわ
+// R: I think this is the best EN onomatope for this 'it's too cute' noise, even if it does
+// R: make her sound like a 2010s tumblr user
+ %{i}Squeeee%{/i}!"
 }
 [sha:4fcbf19e080c4b3a835c61c6e7e8cc93b52cd0c1]{
 -- Page 401, Offset 19266.
@@ -192,12 +202,13 @@ In other words, I think it's close to lusting after one's beloved.
 [sha:e598750ae5d4ba4b9158eb218214c45ab60fc301]{
 -- Page 402, Offset 19267.
 -- アルクェイドは猫背になってぷるぷると背中を震わせたかと思うと、勢いよく空に向かって両手を挙げて、このような奇声をあげた。
-Arcueid hunches over her quivering back, vigorously thrusts her arms at the sky, and then lets out that strange noise.
+Arcueid had suddenly hunched over, her back quivering violently,
+ before abruptly thrusting both hands in the air and letting out this bizarre squeal.
 }
 [sha:c799658847b065cba8a8f6fef2db723bcdf83e98]{
 -- Page 403, Offset 19268.
 -- 「うん、アイツの<存|コ><在|ト>は許せないけど、今の言葉だけで大目に見てあげましょう！
-"Yup, I won't permit her existence, but because of what you just said, I'll let it go!
+"Alright, I hate her guts, but after hearing you say that, I think I can let her be!
 }
 [sha:34c8194773615e9ac3125701fea62565a4757e7b]{
 -- Page 403, Offset 19269.
@@ -212,37 +223,42 @@ I feel like my emotions are about to explode, so I'm going home!"
 [sha:6b8ca1261bd6c484ad5e2356865513a5b06adfe0]{
 -- Page 404, Offset 19271.
 -- というか、明日もここで待ち合わせでいいんだな!?」
-I mean, we're meeting here again tomorrow, right?"
+Hold on, we're meeting here again tomorrow, right?"
 }
 [sha:0087e8a0787a6714fb0dde642bb0eb02a8d1ee09]{
 -- Page 405, Offset 19272.
 -- 「もっちろん！
-"Of course!
+"Definitely!
 }
 [sha:1935186f77468c5c82b53b93487b9a0f011eead6]{
 -- Page 405, Offset 19273.
 -- 志貴の言う通り、明日はもっともっと、何倍も綺麗になって待ってるね！」
-As you said, I'll be waiting for you tomorrow, and I'll definitely be in my prettiest form yet, by far!"
+// Oof this 何倍も is kinda hard to work in as a callback while preserving EN flow in both lines
+// Reading the double meaning here as 'you're the one I can't leave a lone, by a wide margin' by Shiki
+// compared to I guess 'I'll be more beautiful than her, bu a wide margin!' by Arcueid
+I'll be waiting here tomorrow, and I'll be prettier than ever, by a wide margin! Just like you said!"
 }
 [sha:94ab4933354eeebdd56095f9310cee26a7d73b61]{
 -- Page 405, Offset 19274.
 -- 「いや、何倍もってそういう意味じゃ、」
-"No, that's not what I meant when I said 'by far'―――"
+"What? No, that's not what I meant by a wide―――"
 }
 [sha:d21d94e4182ae46c8e597b72129c7d3c0371fdf1]{
 -- Page 406, Offset 19275.
 -- 指摘する声も間に合わない。
-I don't even have the time to point that out.
+I don't even get to finish correcting her.
 }
 [sha:678e37acad2334234b227beef73e1e17e3615d1c]{
 -- Page 406, Offset 19276.
 -- アルクェイドはシュタターンと跳び去ってしまった。
-Arcueid chipperly jumps away.
+// We've clearly entered the シュターン era of sfx, this is similar to Ciel's rushing away
+// sound from the curry shop. I guess it's fast / whoosh?
+Arcueid took off like a shot.
 }
 [sha:cc926287529be39e63d7437506892dbdbb176f81]{
 -- Page 407, Offset 19277.
 -- 「……綺麗って。
-"...Prettiest, she says.
+"Prettier than ever...?
 }
 [sha:10cd5bcc3dea1bbaf1a02317b4a1cc77fcc5defb]{
 -- Page 407, Offset 19278.
@@ -252,22 +268,22 @@ I thought she didn't care about humans."
 [sha:c16ea9d871405216843dd4ec955946b8c0de0aec]{
 -- Page 408, Offset 19279.
 -- 吸血鬼のクセに、なんて決まり文句ももう言えない。
-'Even though she's a vampire'... I couldn't even finish that cliché comment.
+I guess I can't really make fun of her for not acting like a vampire the way I usually do.
 }
 [sha:ec4bbf4d52e591bbd1538dde0b6464794a1c9634]{
 -- Page 408, Offset 19280.
 -- 俺自身、その吸血鬼の笑顔ひとつで、顔を手で覆うほど赤面しているんだから。
-After all, the simple sight of that vampire's smile had me blushing so hard I had to cover my face up with my hands.
+After all, the mere sight of that vampire's smile made me blush so hard I had to bury my face in my hands.
 }
 [sha:9d616f52479c0f57bbc45f6d1e85544cd1928f47]{
 -- Page 409, Offset 19281.
 -- 「―――いや、ニマニマ笑ってる場合じゃない。
-"―――No, now's not the time to be grinning so much.
+"Alright, I can't just stand here grinning all night.
 }
 [sha:379f317cf70e1ea8f4938df8476134d6cb8a3030]{
 -- Page 409, Offset 19282.
 -- 俺も帰らないと」
-I should head back too."
+I'd better head home too."
 }
 [sha:4f6800bb51dd58ab251429def514d2e0795ff0ca]{
 -- Page 410, Offset 19283.

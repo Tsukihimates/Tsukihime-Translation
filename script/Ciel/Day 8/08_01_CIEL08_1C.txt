@@ -1,17 +1,17 @@
 [sha:ef94bff35d84ce190cab85298df869e633091803]{
 -- Page 10002, Offset 18421.
 -- ホームルーム10分前に教室に到着すると、俺の席で有彦とシエル先輩が和気藹々と談話していた。
-I arrive at the classroom ten minutes before homeroom, spotting Ciel-senpai and Arihiko happily chatting by my seat.
+I arrive at the classroom ten minutes before homeroom, and spot Ciel-senpai and Arihiko happily chatting away by my seat.
 }
 [sha:8d05c068d0b01cb49b17e5d7f9ef9ef64a364724]{
 -- Page 66, Offset 18422. Mods: @n.
 -- 「あれ、
-"Ah,
+"Huh?
 }
 [sha:1d6ffbcb7635d5fdd95d39291bf660e6f6b573a8]{
 -- Page 66, Offset 18423. Glued.
 -- シエル先輩？」
-Ciel-senpai?"
+ Ciel-senpai?"
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 66, Offset 18424.
@@ -26,33 +26,38 @@ Hmm...?
 [sha:172d0ec15eda6d12fbf900dbf512609e5582465a]{
 -- Page 66, Offset 18426.
 -- 声をかけた途端、先輩はピタリと話を止めてしまった。
-The moment I called out to her, Senpai immediately stopped talking.
+The second I call out to her, Senpai abruptly stops talking.
 }
 [sha:16ecc13e1757fa3d3f53abacbd862eb17ebf3550]{
 -- Page 67, Offset 18427.
 -- 「よっ、おはよーサン。時間ギリギリで登校とか、おまえさんもここ一番でついてないね。今朝はシエル先輩が遊びにきてくれたってのに」
-"Yo, hullo! Making it to school, but barely in time, you've got the worst luck here. Even though Ciel-senpai came to visit us this morning."
+// Sentence merged because ~のに is just so awkward to encode standalone
+"Yo, mornin'!
+ You've got some bad luck, only showing up right before the bell on a day when Ciel-senpai decided to come pay us a visit."
 }
 [sha:1ca2e2f61973e7eb699da4f6ce70f3b1e69d2a24]{
 -- Page 68, Offset 18428.
 -- 「あ、ああ。それは見れば分かるけど―――
-"Ah, well, I can see that―――
+"Y-Yeah, I can see she's here, but...
 }
 [sha:3e9a1d4f614c06ad74bbda4724b7b2347fe5c35e]{
 -- Page 68, Offset 18429.
 -- 先輩、なんか様子がおかしくない？」
-// Added today
-Senpai, aren't you a little odd today?"
+// Pretty sure this is addressed direct to Arihiko
+Don't you think Senpai's acting a little weird?"
 }
 [sha:7dcb05d800be33001d6736102be8edf7a7a82fa0]{
 -- Page 69, Offset 18430.
 -- 「はあ？　おかしいトコロなんてねえっての、いつもキュートなシエル先輩なめてんの？
-"Huh? She's not odd at all. Are you looking down on the always cute Ciel-senpai?
+// A bit of an interpretation for なめる, but it's one of those words that really doesn't directly translate imo.
+// Also considered 'are you talking smack about' but it felt a bit cartoonish
+"Huh? There's nothing weird about her.
+ What are you trying to imply about the impeccably cute Ciel-senpai?
 }
 [sha:e36b1eaf2991dfd6da7362a1229bd67d00ea72a1]{
 -- Page 69, Offset 18431. Mods: @k, @e.
 -- いまだってオレと遠野の昔話でもりあがって……
-We were getting riled up talking about some things that happened between you and me before...
+We were literally just having a grand old time talking about all the hijinks you and I used to―――
 }
 [sha:b294012fac0cf124ecdab2a16ce2ce32e402c9d1]{
 -- Page 69, Offset 18432. Glued. Mods: @x.
@@ -62,12 +67,12 @@ Huh?"
 [sha:84d64c8fc03dd716aa018b3e70321f03a31447e9]{
 -- Page 70, Offset 18433.
 -- 有彦も気がついたらしい。
-Arihiko seems to have noticed as well.
+Looks like Arihiko's noticed it too.
 }
 [sha:3a479438cce95274bc48f390e94047f7c8e007da]{
 -- Page 70, Offset 18434.
 -- あちらの方、目に見えて不機嫌なんですけど。
-That person over there was very clearly in a bad mood.
+The person across from us is very clearly in a bad mood.
 }
 [sha:8eaa978afc424a226a1e857f05b10c5b2c0e8cc7]{
 -- Page 71, Offset 18435.
@@ -77,22 +82,22 @@ That person over there was very clearly in a bad mood.
 [sha:a8ab16db34bc12892c4cc07d4f61f6df51fd4cfe]{
 -- Page 71, Offset 18436.
 -- 沈黙が重い。というか怖い。
-There was a heavy silence. A painful one even.
+The silence is crushing. Painfully so.
 }
 [sha:6f7913a11d01656b8ec8d7b5d994a09fcdfded05]{
 -- Page 71, Offset 18437.
 -- 有彦はこそこそと俺に近寄ると、小声で話しかけてきた。
-Arihiko subtly approaches and says to me in a hushed voice.
+Arihiko sidles closer to me and whispers in a hushed voice.
 }
 [sha:adafb7e7e7ba884a77bbbac9e59102dbebdff69f]{
 -- Page 72, Offset 18438.
 -- 「……おい。なんかしでかしたのか遠野。先輩、メチャクチャ不機嫌だぞ？　さっきまであんなに笑顔だったのに……！」
-"...Hey. Did you do something to her, Tohno? Senpai looks super pissed off. She was all smiles just a second ago!"
+"Hey... You do something, Tohno? Senpai looks %{i}super%{/i} pissed off. She was all smiles just a second ago!"
 }
 [sha:e2910f15025626f067048814bd2ba9c22ef25128]{
 -- Page 72, Offset 18439.
 -- 「……いや、俺は何もしてないっ！　おまえこそなんか失礼なコト言ったんじゃないのか……!?」
-"...No, I didn't do anything! You're the one who must have said something rude to her!"
+"No, of course not! What about you, you sure you didn't say something rude to her?!"
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 73, Offset 18440.
@@ -102,17 +107,17 @@ Arihiko subtly approaches and says to me in a hushed voice.
 [sha:7f698717ad0c287abd25278aec68a5854ef3729c]{
 -- Page 73, Offset 18441.
 -- 先輩はむすっと俺を見据えている。
-Senpai sullenly glares at me.
+Senpai is sullenly glaring at me.
 }
 [sha:449df74c64896d3c5e77fdfcd2cfa0ef3d644c12]{
 -- Page 73, Offset 18442.
 -- ……まさかとは思うけど……アルクェイドとのコトがバレてる……とかないよ、な？
-...It can't be but... Could it be that... she found out about me and Arcueid?
+Wait a minute... It couldn't be that she found out about me and Arcueid, could it?
 }
 [sha:250ba82b10ccb34e2e1195b2aed5f00556a1d6ec]{
 -- Page 74, Offset 18443.
 -- 「え、えっと、おはよう先輩。
-"U-Umm, good morning Senpai.
+"U-Um, good morning, Senpai.
 }
 [sha:8384aed69cc1114bfd32ba64a975f426f2534b41]{
 -- Page 74, Offset 18444.
@@ -122,17 +127,18 @@ You're standing next to my desk, so did you want to talk to me this morning?"
 [sha:997f15589078d633259e19a09173f6d10c128e20]{
 -- Page 75, Offset 18445.
 -- 「別に。遠野くんになんて微塵も関心はありません。
-"Not really. I don't have the slightest interest in you, Tohno-kun.
+"Not really. I have absolutely no interest in you whatsoever, Tohno-kun.
 }
 [sha:544158dfabe2a7c0d0776473a5f1cf1bcca49352]{
 -- Page 75, Offset 18446.
 -- ただ、ちょっと気になったので様子を見に来ただけです。よく貧血で倒れるとの事なので」
-I was a little worried, so I went to check on you. I heard that you collapse often because of your anemia."
+I was simply a little worried, so I came to check on you.
+ I've heard that you often collapse because of your anemia."
 }
 [sha:a02b431b664da4ba26584be0ce941a37a4408dc0]{
 -- Page 75, Offset 18447.
 -- 「あの、それ俺に用ですよね？」
-"Ah, so you came for me?"
+"Um, so you %{i}do%{/i} have some interest in me?"
 }
 [sha:f4f81bb9bfe9fb3f76e114f77b7ed2565445cd8f]{
 -- Page 76, Offset 18448.
@@ -142,27 +148,29 @@ Shoot, that was a knee-jerk reply.
 [sha:1f007ddc97813e9f303eef6b780b0ac29f4c883a]{
 -- Page 77, Offset 18449.
 -- 「見、見ようによってはそう言えないコトもありません。
-"W-Well, that's not exactly wrong.
+"I-I suppose one could look at it that way.
 }
 [sha:060dc768464030e4e06f2a480c736391170151c0]{
 -- Page 77, Offset 18450.
 -- まったく、朝から健康そうで結構ですね」
-Good grief, I see that you're in high spirits, even this early in the morning."
+Honestly, you seem just sickeningly healthy this morning."
 }
 [sha:96ab7d49b0b96e8b5905e390a44b1058c36220f8]{
 -- Page 78, Offset 18451.
 -- 先輩は気恥ずかしそうに眼鏡をいじりながら、丁寧な口調で、似合わない悪態などをついた。
-While bashfully playing with her glasses, Senpai gives me some uncharacteristic abuse in a courteous tone.
+While bashfully playing with her glasses, Senpai, in a polite tone, gives me some uncharacteristic abuse.
 }
 [sha:5acd52af730f21311b55b1d162ef291a16cd2079]{
 -- Page 79, Offset 18452.
 -- 「とにかく、わたしは乾くんと話しているのです。遠野くんに用はありませんから、教室の隅かロッカーの中にでも入って自己反省をしていてください」
-"Anyway, I was talking to Inui-kun. I don't have any business with you. You should go to the corner of the room or inside some locker and do some introspection."
+"Anyway, I was talking to Inui-kun.
+ I have no business with you.
+ Please go crawl off to the corner of the room or into a locker somewhere and do some introspection."
 }
 [sha:f123a4711ffab752b759e0b9f49cc4c0ecc73814]{
 -- Page 80, Offset 18453.
 -- キリッと表情を引き締め、クールに言い放つシエル先輩。
-Senpai declares calmly, with a stiff expression on her face.
+Senpai's words are cold, and her expression stiff and severe.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 80, Offset 18454.
@@ -177,32 +185,36 @@ Senpai declares calmly, with a stiff expression on her face.
 [sha:6ceabc4b89f8849fe8b4f1968be63be929966ee1]{
 -- Page 80, Offset 18456.
 -- あまりの無理しているオーラに、思わず顔を見合わせる俺と有彦だった。
-Bewildered by her unreasonable attitude, Arihiko and I instinctively look at each other.
+Arihiko and I shoot each other a glance, bewildered by her unreasonable attitude.
 }
 [sha:fd50f74a204c1943ba00515d91b7554dd12ab174]{
 -- Page 81, Offset 18457.
 -- 「つまりアレだ。理由は分からんが先輩は遠野をこらしめたいと。つーか土下座レベルで反省させたいと」
-"So that's it, huh? I don't know why, but Senpai wants to punish you. And it ain't no trifling matter. It's at the level that you should be prostrating yourself."
+"Alright, I get what's happening here.
+ I dunno why, but looks like Senpai wants to punish you.
+ And I mean %{i}really%{/i} punish, like she's gonna make you get down on your knees and beg for forgiveness."
 }
 [sha:3ef0056a2c544dfd1a854b304ae0fa5c234ae04c]{
 -- Page 82, Offset 18458.
 -- 「い、いえ、そこまでの話じゃないんですけど……」
-"N-no, I don't want you to go that far..."
+"N-No, I wasn't going to go that far..."
 }
 [sha:535c8e0942b2bfd632774f64e2c3ca1419a89068]{
 -- Page 82, Offset 18459.
 -- 「いや、そこまでの話と見た。コイツは人並の情がないんでよく地雷踏むからな。
-"No, it does have to go that far. That guy doesn't have the empathy that an average person has, so he always strikes a nerve.
+"Sure looked like you were about to.
+ Can't blame you, this guy's clueless when it comes to emotions so he always makes a mess of things.
 }
 [sha:b8220bcb193559bc27f1742bc303ea1ff9546fa4]{
 -- Page 82, Offset 18460. Glued. Mods: @x.
 -- よし、そういうコトなら力になりましょう！　遠野、しりとりしようぜ！」
-Okay, if so, then I'll lend you a hand! Tohno, let's play word chain!"
+ Alrighty, if that's how it is, lemme lend you a hand!
+ Tohno, let's play shiritori!"
 }
 [sha:d64a723f26075d0f7453e225bee313e9a4d577ca]{
 -- Page 83, Offset 18461.
 -- 「なんでしりとり!?」
-"Word chain, why?!"
+"Shiritori? Why?!"
 }
 [sha:5e8d2877ebe9b8f80ed0c159c12a21290382e996]{
 -- Page 83, Offset 18462.
@@ -222,12 +234,12 @@ Ciel-senpai meets my gaze, and then awkwardly looks away.
 [sha:1c47ca2e1cf2b7a4569c8e40ea479f74e34afdd6]{
 -- Page 85, Offset 18465.
 -- 「ど、どうしてしりとりなんでしょう。説明を求めます」
-"W-Why word chain? I need context."
+"W-Why shiritori? I need context."
 }
 [sha:3b46c253babf3adc0abcd1aa38fa6142df339d93]{
 -- Page 85, Offset 18466.
 -- 「いやあ。先輩、遠野の泣かせかた知ってる？」
-"Ahh Senpai, do you know how to make Tohno cry?"
+"Weeelll... Senpai, d'ya know how to make Tohno cry?"
 }
 [sha:e19198de951a31b68a2720bafabeba5e0b1e6adb]{
 -- Page 86, Offset 18467.
@@ -237,22 +249,23 @@ Ciel-senpai meets my gaze, and then awkwardly looks away.
 [sha:835418466c166eadafef654c4e389f48b60d6092]{
 -- Page 86, Offset 18468.
 -- 知りませんが、興味が湧いてきました。是非教えてください」
-I don't know, but I'm interested. Please, do tell me how."
+I don't, but I'm interested. Please, do tell."
 }
 [sha:37a3320f51325cf35c1df5ea4ae2f6085529b43a]{
 -- Page 87, Offset 18469.
 -- 「もちろん。ただし遠野と仲直りするのが条件っス。遠野の弱味を教えるってコトで手打ちにしてやってください」
-"Of course. But in exchange you'll have to make up with Tohno. I'll tell you his weak point, so please make peace with him."
+"Of course. But on one condition――you've gotta make up with Tohno.
+ I'm telling you his weak point in exchange, seems like a good deal to me."
 }
 [sha:f485a6a4f831e2ea0eb089d400565fe019dc5e78]{
 -- Page 88, Offset 18470.
 -- おおー、と感嘆の声をあげるシエル先輩。
-'Ohhhh', Ciel-senpai says admiringly.
+Ciel-senpai oohs and aahs excitedly.
 }
 [sha:dc820abfbbdd7e4388dfe15c56f047cb9a4b672c]{
 -- Page 88, Offset 18471.
 -- 恐るべき有彦、それだけで先輩の機嫌を直してしまった。
-How fearsome. Just like that, Arihiko has cheered Senpai righ back up.
+I've got to hand it to Arihiko, he's managed to cheer her right back up again.
 }
 [sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
 -- Page 88, Offset 18472.
@@ -262,22 +275,27 @@ However...
 [sha:3372298c0e26b47101cb613b38d651b5be82684a]{
 -- Page 88, Offset 18473.
 -- 「おまえ、それ言っていいの俺じゃないか、普通!?」
-"Hey, I should be the one saying that, no?!"
+"Hey, isn't that a deal for %{i}me%{/i} to offer?!"
 }
 [sha:3d9424254bc07d6e76b71d1ef40478441f75c765]{
 -- Page 89, Offset 18474.
 -- 「だっておまえバラさねえじゃん。先輩、朝から来てくれたのにおまえは一向にこないし、加えて何かしでかしたんならこれぐらいのリターンねぇとな」
-"You've been caught anyway. Even though Senpai came here this morning, you were nowhere to be seen. And with whatever you've done to her to boot, that's not an unreasonable reaction."
+// I think バラさない here is like "squeal"?
+"Yeah, but there was no way you were gonna.
+ I mean, Senpai's been here all morning, so where the hell were you?
+ If you're guilty of anything else on top of that, this seems like fair penance to me."
 }
 [sha:62eb04e7c685674b553fbb8fdb3395be624106b8]{
 -- Page 90, Offset 18475.
 -- 「いや、でも。だいたい面白い話じゃないだろ、それ」
-"No, but――― it's not a particularly interesting story anyway."
+"No, but―――look, it's not even an interesting story, anyway."
 }
 [sha:f051b76da70bdc7dd320f13ef410d1d015714286]{
 -- Page 90, Offset 18476.
 -- 「遠野くんは黙っていてください。さあ乾くん、ハリアップ。こうなったら話を聞くまでテコでも動きません」
-"Tohno-kun, you stay quiet. Now, Inui-kun, hurry up. Now that it's come to this, I won't budge until I hear the story."
+"Tohno-kun, you stay quiet.
+ Okay Inui-kun, hurry up.
+ Now that I know this much, I'm not leaving until I hear the details."
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 91, Offset 18477.
@@ -292,32 +310,39 @@ Three minutes until homeroom starts.
 [sha:062e1d7bab217e7d38331ebe94a3e46c95eecb75]{
 -- Page 91, Offset 18479.
 -- 先輩とノエル先生が教室で顔を合わせるのはすごく胃が痛くなりそうだし、これはもうホントにしょうがない……。
-It'd be really nerve-wracking if Noel-sensei and Senpai were to meet inside the classroom, so I guess there isn't much of a choice...
+I feel like Senpai and Noel-sensei butting heads in the classroom would be enough to give me an ulcer,
+ so I guess I've got no other choice...
 }
 [sha:3f66a66456f148cde2ac0cc36f7859888d137e6f]{
 -- Page 92, Offset 18480.
 -- 「それがですね。遠野、しりとりすると泣くんですよ。試しに１分続けてみると分かりますよ」
-"Well, word chain makes Tohno cry. Try it for a minute, and then you'll see."
+"Alright, without any further ado: Tohno cries whenever he plays shiritori.
+ Try it for a minute, you'll see what I mean."
 }
 [sha:0d0bd86293feda381fae4d9553584db01b23b57e]{
 -- Page 92, Offset 18481.
 -- 「え……ホントに？　しりとりって、あのしりとりですよね？　言葉尻を繋げていく」
-"Ohh... Really? Word chain, the word chain game? That one where you come up with a word that begins with the last letter of the previous word?"
+"Huh...? Really?
+ Shiritori as in the word chain game, right?
+ The one where you come up with a word that begins with the last letter of the previous word?"
 }
 [sha:743439133c14f85ffe0c96a170314acef9e4b6a2]{
 -- Page 93, Offset 18482. Mods: @k, @e.
 -- 「そうそう。もうボロボロ泣く。中学の頃、それを知らない女子どもがビックリしてさー！　なんか悲しい出来事でも思い出させちゃったのー!?　とか、
-"Yeah yeah. He'll cry like a baby. Some girls back in middle school were so surprised, they were like 'Did we remind you of something sad?!'
+"Yep, that's the one.
+ He'll cry like a baby.
+ Some girls back in middle school didn't know, and were so surprised when it happened.
+ They were like, 'did we remind you of something sad?!'
 }
 [sha:7d187e0c29138d495620c682f0b025624d1d6974]{
 -- Page 93, Offset 18483. Glued. Mods: @x.
 -- 無闇に大人気でオレは頭に来ましたけどね！」
-He was so popular, it pissed me off so much!"
+ It ended up making him super popular for no reason, I was so pissed!"
 }
 [sha:82f26dfd9fd3c7fb8cd70f6b6f1261a1d1d4b678]{
 -- Page 94, Offset 18484.
 -- “なんで？”と不思議そうに俺を見る先輩。
-'Why?', Senpai looks at me curiously.
+Senpai looks at me curiously, as though asking why.
 }
 [sha:925bae29cdaadb73a77bd92192cfd3c7929ab16d]{
 -- Page 94, Offset 18485.
@@ -327,72 +352,80 @@ I understand how she feels.
 [sha:d0a5528802dddce2ba69f579521ee4f65134298f]{
 -- Page 94, Offset 18486.
 -- しかし、人体というものは時としてよく分からない仕組みで動くものなのです。
-However, humans can be swayed in mysterious ways.
+But, the human body just behaves in mysterious ways sometimes.
 }
 [sha:be8f1594c88f372ac1217d7258640738c42c9062]{
 -- Page 95, Offset 18487.
 -- 「……その、繋がらない感じがイヤなんです。
-"...Umm, I don't like when things don't connect.
+"Um... I don't like it when things don't come together.
 }
 [sha:94d0a15621ff0334e76d830559d74dbe8bd5aee1]{
 -- Page 95, Offset 18488.
 -- 誰だってあるでしょ、理由はないけどダメなコトって。食べ物の好き嫌いと同じです」
-Other people are the same, I mean, having things they dislike for some unknown reason. It's the same as liking or disliking some food."
+We've all got things that just rub us the wrong way.
+ I mean, that goes for everyone, doesn't it?
+ It's the same as loving or hating a particular food."
 }
 [sha:131e59bbb3573957c5f3c5f398a761273ffc1cdf]{
 -- Page 96, Offset 18489.
 -- 「…………えっと、ホントに？」
-"...Uh, really?"
+"Um... so it's true?"
 }
 [sha:037320c90a56e2ebe7e1556445016d07aef2c001]{
 -- Page 96, Offset 18490.
 -- 突拍子もない話に、先輩は恐る恐る聞き返してくる。
-Senpai asks, after hearing such a preposterous story.
+Having heard that preposterous story, Senpai timidly asks for confirmation.
 }
 [sha:aa46a34f0f969fab2b53cf9ab0a1ef1da97f693b]{
 -- Page 97, Offset 18491.
 -- 「はい、ホントです。
-"Yes, really.
+"Yeah, it's true.
 }
 [sha:1e4f9c231f07bd9ea421dd89064bdf236ee517b2]{
 -- Page 97, Offset 18492.
 -- ……ああもう、だからつまらないって言ったんだバカ有彦。見ろ、先輩だって呆れてるだろ」
-...Argh, that's why I said it'd be a boring story, you idiot. Look, Senpai's fed up!"
+// Arihimbo
+%{i}Ugh%{/i}, I told you it'd be a boring story, dumbass.
+ Look, Senpai's totally fed up with this!"
 }
 [sha:6b27da7ef49139af1c668a9f37d314dcc896bad8]{
 -- Page 98, Offset 18493.
 -- 耐えきれなくなって話を逸らす。理由はどうあれ、しりとりに弱いというのはやはり恥ずかしい事だ。
-I couldn't bear it anymore, so I changed the subject. Regardless of the reason, being bad at word chain is pretty embarrassing.
+Unable to bear it anymore, I try and change the subject.
+ Regardless of the reason, it's pretty embarrassing for your Achilles' heel to be shiritori.
 }
 [sha:d8541e03638e9600623cf89f18a61edd81306c91]{
 -- Page 98, Offset 18494.
 -- ……が。先輩はそうは取らなかったようだ。
-...Nevertheless. Senpai doesn't seem to have the same opinion.
+Except... Senpai doesn't seem to share my opinion.
 }
 [sha:792eed9823aab137ed3ff74d7894336f9d4c5802]{
 -- Page 99, Offset 18495.
 -- 「いえ、呆れてなんかいませんよ。逆に感動しました。そんな秘密、遠野くんにもあったんですね」
-"No, I'm not fed up. On the contrary, I'm moved. So you had such a secret too, Tohno-kun."
+"No, I'm not fed up. On the contrary, it moved me.
+ So you were hiding a secret like that too, Tohno-kun."
 }
 [sha:fc207031bb5a23a6efde9185f011732115b4f89d]{
 -- Page 99, Offset 18496.
 -- 先輩は遠慮がちにそう口にすると、コホン、と咳払いをして場を仕切り直す。
-Senpai says in a reserved tone and, clearing her throat, regains her composure.
+After musing to herself, Senpai clears her throat and regains her composure.
 }
 [sha:8e608cfd8c6b5def62507f8595b44d7199f81665]{
 -- Page 100, Offset 18497.
 -- 「たいへん失礼しました。個人的な理由で遠野くんを糾弾したかったわたしですが、それも筋違いだと反省しました。
-"I'm very sorry. For some personal reasons, I wanted to condemn Tohno-kun, but it was unreasonable of me and I apologize for that.
+"I'm very sorry.
+ I'd wanted to take some personal issues out on Tohno-kun, but it was unreasonable of me and I apologize for that.
 }
 [sha:64b6c38cb788b5259b343ad0687e2b317edceab5]{
 -- Page 100, Offset 18498.
 -- 二度と教室に私情は持ち込まず、楽しい学園生活を送る事をここに誓いましょう！」
-I hereby swear to never bring my personal circumstances into this classroom again and to enjoy student life to its fullest!"
+I hereby swear to never bring my personal circumstances into this classroom again, and to enjoy student life to its fullest!"
 }
 [sha:bef91969f0a2c886eba71447f5de085e801eef61]{
 -- Page 101, Offset 18499.
 -- 機嫌を直してくれたのか、先輩はいつもの笑顔を俺に向けてくれた。
-Possibly back to high spirits, Senpai looks at me with her usual smiling face.
+Senpai is looking at me with her usual smile on her face.
+ I guess she's gotten over whatever was bothering her.
 }
 [sha:c6c0d547b0c46d20f9842d7ac47d9de27d08dadd]{
 -- Page 101, Offset 18500.
@@ -407,25 +440,28 @@ Our friendly chat with Senpai will have to wait until lunch break.
 [sha:2ae8e61da1c8b2c90cbc4baf95ca8d11e53e33c4]{
 -- Page 102, Offset 18502.
 -- 「おっと、時間ですね。
-"Oh my, already time to go.
+"Oh my, is it that time already?
 }
 [sha:e6673eea3b3bd51f63926680b94fc3084b4a82ef]{
 -- Page 102, Offset 18503.
 -- それでは乾くん、遠野くん、縁があればまた放課後に。乾くんもあんまりさぼっちゃダメですよ」
-Well then, Inui-kun, Tohno-kun. Maybe we'll see each other after class if our paths cross. And don't skip class too much, Inui-kun!"
+Well then, Inui-kun, Tohno-kun.
+ Maybe if we're lucky we'll run into each other again after school.
+ And don't skip too many classes, Inui-kun!"
 }
 [sha:14912ff1e8f00af6a8960715713425acfa439294]{
 -- Page 103, Offset 18504.
 -- 急いではいるものの自然な足取りで先輩は教室から退出していった。
-Senpai leaves our classroom in a brisk, though very natural pace.
+Senpai leaves our classroom at a brisk, but natural pace.
 }
 [sha:e18133c90ec73e1bce7b617ffda62c3fc9462e8c]{
 -- Page 103, Offset 18505.
 -- その背中に手を振る有彦。
-Arihiko waves his hand goodbye behind her.
+Arihiko waves her retreating figure goodbye.
 }
 [sha:b4809cb8da7016a30abbfecabe879a47c8521d40]{
 -- Page 103, Offset 18506.
 -- 先輩に注意された事もあり、今日は真面目に授業を受ける事にしたようだ。
-Since Senpai pointed it out, it seems like he doesn't have any plans to ditch class today.
+Seems like he's not planning on ditching class today,
+ probably in no small part due to Senpai's chiding.
 }

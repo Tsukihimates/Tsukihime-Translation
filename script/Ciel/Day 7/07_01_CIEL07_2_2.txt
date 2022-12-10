@@ -1,7 +1,7 @@
 [sha:3883b15ca5b40563f97f709ad6f3677a05552b2d]{
 -- Page 10013, Offset 15474.
 -- 校舎裏に行こう。
-I'll go to the back of school.
+I'll go to the back of the school.
 }
 [sha:c38db07f95e52abd62b4b3a7b76243308cefa478]{
 -- Page 10013, Offset 15475.
@@ -95,7 +95,8 @@ My ears are being bombarded by whispers.
 -- Page 290, Offset 15490.
 -- こういう奇襲を受けるのならいくらでも牧場に住もう、と思わなくもなくもない。
 // 'all the time' is an addition that might not be necessary
-I'm almost starting to think it wouldn't be half-bad living in the pastures if it meant being ambushed like this all the time.
+// Is this a metaphor for being attacked by a wolf or something?
+I'm almost starting to think that it wouldn't be half-bad living in the pastures if it meant being ambushed like this all the time.
 }
 [sha:9e8d515502927b78a311aa0dedcc02e896986ea4]{
 -- Page 291, Offset 15491.
@@ -132,7 +133,7 @@ My eyes are uncovered.
 [sha:59289a82bb22cbcc7841253bcc7b15b7fd32db5d]{
 -- Page 293, Offset 15497.
 -- こちらの背中に密着していたノエル先生は、悪びれた様子もなく、くるり、と俺の正面に現れた。
-Noel, who had been intimately pressed up against my back,
+Noel-sensei, who had been intimately pressed up against my back,
  swoops around to stand in front of me,
  seemingly unrepentant about her actions.
 }
@@ -155,7 +156,7 @@ But never mind that, why'd you surprise me like that just now?"
 [sha:3c56ed96421cc8e4b762e0b636dbbdec03f5618d]{
 -- Page 295, Offset 15501.
 -- 「ふふーん、青春っぽかったでしょ？
-"%{i}Tee-hee%{/i}. It was in the spirit of adolescence, wasn't it?
+"%{i}Tee-hee%{/i}. That was real adolescent of me, wasn't it?
 }
 [sha:b85ce328cddd77a1077630a16a8d07d0f8ff9fb1]{
 -- Page 295, Offset 15502.
@@ -242,13 +243,13 @@ In the battle against Vlov, I made a brave retreat, didn't I?
 -- 先生から先生をとりあげようっていうの！？
 // I feel like this works a bit better if you reify the Noel.
 // Basically the inverse of the 'you put the x in y' pun
-What's she trying to do, take the -sensei out of Noel-sensei?!"
+What's she trying to do, take the -sensei out of Noel-sensei?!
 }
 [sha:0f5d7e1eb0df2adae6b025287533675f9d0c89b1]{
 -- Page 298, Offset 15517. Glued. Mods: @x.
 -- こんな楽な役職、他の<代行者|ヤツ>に譲ってたまるかーー！」
 // might wanna use the ruby here, but it doesn't add much.
- Like I'd ever give up this kind of cushy position to someone else!
+ Like I'd ever give up this kind of cushy position to someone else!"
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 299, Offset 15518.
@@ -267,7 +268,7 @@ Actually, this behavior doesn't suit me so well after all.
 -- さっきのは役得ではない。これはただの、一升瓶を持ってクダを巻くＯＬさんだった。
 // first sentence references Offset 15503, so see there why its rendered like this.
 // https://kotobank.jp/word/%E3%81%8F%E3%81%A0%E3%82%92%E5%B7%BB%E3%81%8F-483782
-Maybe I should've complained.
+Maybe I %{i}should've%{/i} complained.
  She's just a single office lady, booze in hand, drunkenly ranting and raving about her boss.
 }
 [sha:7e01731bd85208eb12df6fb61cf8401bffa13e77]{
@@ -295,7 +296,7 @@ Yeah, yeah. I'll switch right on over to the usual intellectual Noel-sensei, why
 [sha:872ca462210ef3fe26456698866ba02621dffd00]{
 -- Page 301, Offset 15525.
 -- 本気で拗ねるノエル先生。
-Noel actually starts sulking.
+Noel-sensei actually starts sulking.
 }
 [sha:f58acd45d538ace996f7b064304bd03a3e39592b]{
 -- Page 301, Offset 15526.
@@ -330,7 +331,7 @@ It's not like you're buddy-buddy with any vampires.
 [sha:f645782594404204db5a504fa8250705a07ad8dd]{
 -- Page 303, Offset 15531.
 -- どうして戻ってきたの？　シエルさんにいいとこ見せたかったとか？」
-Why'd you come back? Did you wanna show Ciel-san how cool you were?"
+Why'd you come back? Did you wanna show her how cool you were?"
 }
 [sha:451005029f529b3009d4e0e1965582b468bc796f]{
 -- Page 303, Offset 15532.
@@ -458,7 +459,8 @@ Besides, figuring out what to do about
 [sha:89383eb2ec6ffc55b7423067a5113aed6c687977]{
 -- Page 311, Offset 15555.
 -- ……だって、見殺しにはできないでしょ。
-I mean, I can't just watch on as people die, right?
+// "Watch" or "look on" IMO
+I mean, I can't just look on as people die, right?
 }
 [sha:c4c614878b7b0178dec40d4996551a7098f8fa0c]{
 -- Page 311, Offset 15556.
@@ -500,7 +502,7 @@ I just had a bit of a moment."
 [sha:a60ffb96880992090c3b1012601abc4a2de33a62]{
 -- Page 314, Offset 15563.
 -- ノエル先生はこちらに背を向けて顔を隠している。
-Noel has turned her back to me, and is hiding her face.
+Noel-sensei has turned her back to me, and is hiding her face.
 }
 [sha:308054998144ed2d48cc24bd51a7100fc0533420]{
 -- Page 314, Offset 15564.
@@ -544,7 +546,7 @@ Shiki-kun, just how sweet and innocent can you get?!"
 [sha:57e13720f2005403bbe58225c8783063230a185a]{
 -- Page 317, Offset 15570.
 -- 「おっと、恥ずかしいとは思ってるのね！
-"Oh? So you %{i}do%{/i} think its embarrassing!
+"Oh? So you %{i}do%{/i} think it's embarrassing!
 }
 [sha:ced4b1a827ad1e67ceff2fb8fe4740244b3aa92a]{
 -- Page 317, Offset 15571.
@@ -563,7 +565,7 @@ While you're doing that, I'm going to treat myself to a party tonight so that I 
 // P: Shiki comments on Noel's actions as "takeout", which is also slang for one-night stands.
 // R: I spent so goddamn long trawling slang archives for something perfect here,
 // R: but despite the incredible creativity on display very few of those euphemisms are fit for print / the context.
-Seems this worn out office lady plans on taking the fun back to her place.
+Seems this worn-out office lady plans on taking the fun back to her place.
 }
 [sha:4afdf15dfe9e593cd8e8011805c3b40104040b00]{
 -- Page 318, Offset 15574.
@@ -573,7 +575,7 @@ Seems this worn out office lady plans on taking the fun back to her place.
 [sha:4f894681c7ef86afb08cbcdd2c9903bb9965b308]{
 -- Page 318, Offset 15575.
 -- 「―――うん。わたしも、ちょっと本気になったかも」
-"Right. I guess I got a bit serious too."
+"Right. I guess I got a bit serious, too."
 }
 [sha:1e7be9f74b8db60c63a22434f0fafd8077c3d13f]{
 -- Page 319, Offset 15576.
@@ -583,8 +585,8 @@ And then, a sudden impact.
 [sha:1ceb9c29606746b2c83688038cbfbd86da2407d4]{
 -- Page 319, Offset 15577.
 -- ノエル先生は俺に駆け寄ると、そのまま<攫|さら>うように、駐輪場の壁に押しつけた。
-Noel rushes over to me and pins me against the wall of the bike shed,
- as though she were about to abduct me here and now.
+Noel-sensei rushes over to me and pins me against the wall of the bike shed,
+ as though she were about to abduct me, here and now.
 }
 [sha:1f643230f2121c39b3c627b65a68f69418e01e3d]{
 -- Page 320, Offset 15578.
@@ -685,7 +687,7 @@ It's a warm and enchanting whisper, but there's a faint cold edge to it.
 [sha:3037373c4c6bc72ba12ebfa4b678da460e09753d]{
 -- Page 326, Offset 15595.
 -- 「……リストに入れるって、なんですか、それ」
-"Adding me to your list? What's that mean, exactly?"
+"Adding me to your list? What does that mean, exactly?"
 }
 [sha:ade496559e532232b2861c68e367e3a9c69207d6]{
 -- Page 326, Offset 15596. Mods: @n.
@@ -734,7 +736,7 @@ It's so much more pleasurable to relieve your stress once you've got a lot of it
 -- Page 329, Offset 15604.
 -- 俺の場合、具体的には？」
 // which list, obviously.
-Which one am I on, specifically?"
+Putting me on which list, specifically?"
 }
 [sha:55960b277b700165124fae0de3734a71719af492]{
 -- Page 330, Offset 15605.
@@ -761,7 +763,7 @@ It's like the tongue of a snake flicking against the prey it's chased into a cor
 [sha:2559f5b40aeedecc9d4c7b7fa1f3ff132a296a1e]{
 -- Page 332, Offset 15609.
 -- 「なーんて、冗談さ、冗談☆
-"Juuust kidding, honest ☆
+"Juuust kidding, promise ☆
 }
 [sha:778b8c5ee28b48bfd3ca823e1b779d8f2b3bd2fa]{
 -- Page 332, Offset 15610.
@@ -816,7 +818,7 @@ Noel-sensei's tone of voice has changed completely, and is now quite gentle.
 [sha:60917ce0921e00096818ce5ceb3b87a1e688e4c0]{
 -- Page 335, Offset 15619.
 -- 「うん♥
-Yeah ♥
+"Yeah ♥
 }
 [sha:e00cc45c3b7bdb1688a51c425547e55199022768]{
 -- Page 335, Offset 15620.
@@ -826,7 +828,7 @@ So I'll be as up front with you as I can.
 [sha:d47bec28d86c760461e0ac64019d8e15eb04f4a9]{
 -- Page 335, Offset 15621.
 -- わたしとシエルさんがまだ街に残っている理由が知りたいんでしょ？」
-You want to know why Ciel-san and I are still in this city, right?
+You want to know why Ciel-san and I are still in this city, right?"
 }
 [sha:b712e16d9c86db7a11a1010017d95d9b7eb770ac]{
 -- Page 336, Offset 15622.
@@ -846,7 +848,7 @@ I straighten up, and listen carefully to what Noel-sensei has to say.
 [sha:8a2ef7aa6826ba75acbb9f9ab3fe48cd6180d1d5]{
 -- Page 337, Offset 15625.
 -- 親基は死んでも、Ⅲ階梯より上の死徒は死にはしない。アイツらはアイツらで、親基に成り代わって街を食い物にしようとする。
-Dead Apostles of Rank III and above don't die just because their vampire sire has been killed.
+Dead Apostles of Rank III and above don't die just because their sire has been killed.
  They'll still run around the city of their own accord, preying on people in place of their sire.
 }
 [sha:0a3052fb52ec0b69b486b6ec25b0ae1548b2c75c]{
@@ -947,7 +949,7 @@ Senpai said she'd erase my memory after Vlov was defeated..."
 -- Page 343, Offset 15643.
 -- ……あー、できちゃうかぁ。でも、さすがにもう遅いかな？　一日や二日なら『思い出せない記憶』があってもごまかせるけど、もう四日でしょ？
 Hmm... I guess she could? But still, isn't it a bit late at this point?
- If you only erase one or two days you can play it off as someone having just forgotten what happened, but %{i}four%{/i}?
+ If you only erase one or two days, you can play it off as someone having just forgotten what happened, but %{i}four%{/i}?
 }
 [sha:c2f9a50cad35614f117cd81bb1ef0d7c9bb00819]{
 -- Page 343, Offset 15644.
@@ -961,7 +963,7 @@ Even if someone were to erase all of your memories concerning vampires now,
 [sha:9c532d8e9f197c6e7c2bcc68bc253e6d18b89ec3]{
 -- Page 344, Offset 15645.
 -- 「安心して、わたしがいるかぎり、シエルさんにそんな怖いコトはさせないから。
-"But relax, so long as I'm around I won't let Ciel do anything scary like that.
+"But relax, so long as I'm around, I won't let Ciel-san do anything scary like that.
 }
 [sha:6021de4f5a1ff3d51c057e9fe065eaae780c1ad1]{
 -- Page 344, Offset 15646.
@@ -988,7 +990,7 @@ It seems our conversation is over.
 [sha:0f0712adf050f1f7068381b3706250c12fd16781]{
 -- Page 346, Offset 15650.
 -- 「じゃあね。わたしとしては志貴クンが味方になってくれれば嬉しいけど、シエルさんは真面目だから。
-"Seeya. Personally I'd be happy with you becoming an ally, but Ciel-san is just so strict, you know.
+"See ya. Personally, I'd be happy with you becoming an ally, but Ciel-san is just so strict, you know.
 }
 [sha:ff0287fe0551b2064c33e6e39b1c80f6699791f9]{
 -- Page 346, Offset 15651.
@@ -998,7 +1000,7 @@ Do your best to behave so she doesn't find you, okay."
 [sha:5fe75208e0f78a46d9892c12e3891a88a37ed853]{
 -- Page 347, Offset 15652.
 -- 「あ、でも個人的興味で相談に来るのは大歓迎♥
-"Oh, but if you're interested in some %{i}personal%{/i} counseling sessions I'd be happy to oblige ♥
+"Oh, but if you're interested in some %{i}personal%{/i} counseling sessions, I'd be happy to oblige ♥
 }
 [sha:6a2777ad76b5b10c6eb34deea81d6cc842bb06d5]{
 -- Page 347, Offset 15653.
@@ -1008,7 +1010,7 @@ I %{i}am%{/i} a teacher, after all!"
 [sha:88e61ae77c0e483695f69075c1ebfb745b598e06]{
 -- Page 348, Offset 15654.
 -- 投げキッスをしてノエル先生は去って行った。
-Noel-sensei throws me a kiss as she heads off.
+Noel-sensei blows me a kiss as she heads off.
 }
 [sha:8a43e6204dd5ffc98e03c132090f283e75379fca]{
 -- Page 348, Offset 15655.

@@ -1,27 +1,27 @@
 [sha:9d58e94d8c2ee95d87c5e4b34ff16af8188a0aeb]{
 -- Page 10028, Offset 24148.
 -- ―――ズキン。
-%{i}THROB%{/i}
+%{i}THROB%{/i}.
 }
 [sha:26cc7c8282b83f57781ab7321cc5c21ee2079689]{
 -- Page 10028, Offset 24149.
 -- ―――ずきん。
-%{i}Throb%{/i}
+%{i}Throb%{/i}.
 }
 [sha:9d58e94d8c2ee95d87c5e4b34ff16af8188a0aeb]{
 -- Page 10028, Offset 24150.
 -- ―――ズキン。
-%{i}THROB%{/i}
+%{i}THROB%{/i}.
 }
 [sha:26cc7c8282b83f57781ab7321cc5c21ee2079689]{
 -- Page 10028, Offset 24151.
 -- ―――ずきん。
-%{i}Throb%{/i}
+%{i}Throb%{/i}.
 }
-[sha:c50a3ce3b61df1ad2fb0757ee78ae9e436b5911d]{
+[offset:24152]{
 -- Page 774, Offset 24152.
 -- ……ああ。
-Ah...
+Ahh...
 }
 [sha:74ded8b886cf48c1a4c620855bfa0321457799eb]{
 -- Page 774, Offset 24153.
@@ -31,11 +31,13 @@ I'm so tired...
 [sha:39c399a581384f9c0dbbcf57f95fd6e651abf373]{
 -- Page 775, Offset 24154.
 -- 頭痛の芽は群生する<茨|イバラ>になっていた。
-The buds of my headache sprout wildly, bearing thorns.
+// 芽 sideways slightly since it sounds a bit better in EN / isn't far off considering 芽 as a blastodisc
+My budding headache has sprouted into a thicket of thorns.
 }
 [sha:48631c81cad3e613ba915f2dc396e12a2b9f642b]{
 -- Page 775, Offset 24155.
 -- ギシギシ、ギチギチと音をたてて、<木|で><偶|く>の<脳|のう>を締め上げている。
+// Is 木偶の脳 supposed to be a pun on 木偶の坊?
 My wooden brain creaks and groans as I constrain it.
 }
 [sha:a4903b8232a99298fdaf3a927f66d684429dc619]{
@@ -46,39 +48,46 @@ My wooden brain creaks and groans as I constrain it.
 [sha:07260e73e04b2a8419a69a241f8f05dd4add6bd5]{
 -- Page 776, Offset 24157.
 -- 死ぬ思いでベッドに倒れこむ。
-I collapse in bed, almost ready to die.
+// 死ぬ思いで seems idiomatic
+// https://thesaurus.weblio.jp/content/%E6%AD%BB%E3%81%AC%E6%80%9D%E3%81%84%E3%81%A7
+I flop lifelessly onto the bed.
 }
 [sha:c5bd1b30985be09bba2e71354c6794808f898f6c]{
 -- Page 776, Offset 24158.
 -- ……背中からのしかかってくるように、忌まわしい暗闇がやってくる。
-A horrendous darkness creeps up along my back.
+An ominous darkness creeps up on me from behind.
 }
 [sha:ea974ff66119c0bac75aa167d752d4d7ac5bc749]{
 -- Page 776, Offset 24159.
 -- 思い浮かぶ顔は、朝見たものと変わらないのに。
 // Shiki sees Arcueid and Ciel's faces here.
-The faces that appear in my mind are the same as I saw them this morning...
+The faces that appear in my mind are the same ones I saw this morning...
 }
 [sha:14e8f90f92555e5e0d7702049c07891426ef77a4]{
 -- Page 776, Offset 24160.
 -- ……最後に残った思考で目を閉じる。
-With the last thinking I am capable of, I close my eyes.
+I use my last remaining ounce of consciousness to close my eyes.
 }
 [sha:c38750d53247d685ae86920aa5aa5536a7696977]{
 -- Page 776, Offset 24161.
 -- 今は何も考えずに、ただ<案|か><山|か><子|し>のように眠りたかった。
 // 案山子のように眠る is not a common expression, but literal translation seems odd (sleep like a scarecrow).
-For now I just want to stop thinking, and enjoy a still sleep.
+// Changed to statue, since it's similarly immobile and I think kinda works in EN?
+I don't want to think anymore right now,
+ just sleep like a statue.
 }
 [sha:38baf2f3a10c0c3cd40e8e93e6e462eddce28a89]{
 -- Page 777, Offset 24162.
 -- ―――この頃、昔の<自|コ><分|ト>を夢に見る。
-―――Recently, I've been dreaming of my former self.
+// Roa is talking now. Feels a bit overkill to put the entire rest of the file in italics?
+// There's no jumping back and forth, and the XIV CG should be familiar to readers by now
+Recently, I've been dreaming of my former self.
 }
 [sha:cffd0384e748ce63e52325963c2a3e3828a08467]{
 -- Page 777, Offset 24163.
 -- 人間、<代|とし>を重ねると思い出話が増えるというが、これもその一種だろうか。
-It's said humans reminisce more and more as they grow older. Perhaps this is one of those cases.
+They say humans reminisce more and more as they grow older.
+ It seems I'm no exception.
 }
 [sha:73b30b4f275317a56b6b7190da72861b374489e8]{
 -- Page 778, Offset 24164.
@@ -91,7 +100,7 @@ Techniques I will use hereafter,
 -- Page 778, Offset 24165.
 -- 必要なモノと不要なモノ。
 Things that I will need,
- and those that I will not.
+ and those I will not.
 }
 [sha:2a680ab745008fbccebace21a5757ce44790d112]{
 -- Page 778, Offset 24166.
@@ -102,8 +111,9 @@ My present self,
 [sha:b78707ae4dff686b9b9b89135d5f15faf984a3fb]{
 -- Page 778, Offset 24167.
 -- そういったものを整理しては、古いものを工房に置いていく。もう読む事のない回顧録を作っているようなものだ。
-To organize these things, I leave the older ones behind in my workshop,
- as though I'm writing a memoir that won't be read evermore.
+In order to organize all this,
+ I leave old things behind in my workshop,
+ as though writing a memoir that will never be read.
 }
 [sha:9ec6c1cb84480c025a1e09f684315a6b42262b0b]{
 -- Page 778, Offset 24168.
@@ -128,12 +138,12 @@ The avatar in white will soon arrive.
 [sha:dd63249b8bd504e7dc83f999e79c4ed41c8f9c42]{
 -- Page 779, Offset 24172.
 -- それで『この私』の人生はおしまいだ。
-And with that, my current life will end.
+When she does, my current life will end.
 }
 [sha:eaa58549df78a34fd9309fdbeb208b1834d16add]{
 -- Page 779, Offset 24173.
 -- 感慨らしきものはなかった。
-I have no strong feelings about it.
+I have no strong feelings about this fact.
 }
 [sha:c5455ae67f1382c8c2ded40d16bec7ecfd7e63cb]{
 -- Page 779, Offset 24174.
@@ -143,15 +153,15 @@ Humans die. This is the one fate which cannot be avoided.
 [sha:01ba063de7c1c418bcb89889ee58cafb64564c74]{
 -- Page 779, Offset 24175.
 -- 恐れているものがあるとすれば、それは目を覚ます時の感覚だ。終わりのない暗闇から這い出るような感覚。アレだけは、何度経験しても慣れない不快感だった。
-If I had to name one thing I do fear,
- then it would be the sensation of awakening; of crawling out of an unending darkness.
- No matter how many times I experience that discomfort,
- it remains the one thing I can never get used to.
+If there's one thing I do fear, it's the feeling I experience as I wake;
+ the sensation of crawling out of an unending darkness.
+ No matter how many times I experience it,
+ it remains the sole discomfort I can never get used to.
 }
 [sha:1cf92cca1a8b4c5c36cf73ec15767a5929b77374]{
 -- Page 780, Offset 24176.
 -- 私は過去にひたりながら、未来の航海図を思い描く。
-While wallowing in the past, I also set a course for the future.
+As I wallow in the past, I also plot a course for the future.
 }
 [sha:6f32e836bcc341f3f379ee286fb59d6d4eb97b01]{
 -- Page 780, Offset 24177.
@@ -161,30 +171,32 @@ This me has been a failure.
 [sha:88b784640689cdc47e657e5d5a6b68d025c5846e]{
 -- Page 780, Offset 24178.
 -- 生まれつき体が弱かった為、肉体の寿命を延ばす研究に没頭してしまった。不老という一つの成果には辿り着いたものの、結果は失敗に終わった。永遠の若さというのは、やはり肉体には備わらない。
-Due to being born with a weak body, I immersed myself in research on how to prolong the lifespan of the body.
- Though I achieved 'agelessness' as my one triumph, the overall result was nonetheless a failure.
- Eternal youth is not something the body can be endowed with, perhaps as should've been expected.
+The body I was born into was weak, and so I ended up distracted by research into how to prolong its lifespan.
+ While that did bear some fruit in the 'agelessness' I came across, the overall result was a failure.
+ As suspected, the physical body cannot be endowed with eternal youth.
 }
 [sha:48919e3c8056594266a5622f44782b2b70cfc204]{
 -- Page 781, Offset 24179.
 -- 次は何を拾い上げたものか。
-What do I pick out next?
+Where shall I focus my attention next?
 }
 [sha:9a7747b11a87a2b31ead6e872cf9417c192a60c8]{
 -- Page 781, Offset 24180.
 -- 研究半ばで終わった課題は山ほど残っている。
-A great amount of tasks whose research I have ended halfway still remain.
+// Just another guy with too many side projects
+I've left a great number of research topics half-finished.
 }
 [sha:2ae69e699507342f28abc510610c7af4a83b11ad]{
 -- Page 781, Offset 24181.
 -- 今回の『不老』は逆行、あるいは退化そのものだった。
-This current 'agelessness' turned out to be retrogression, or perhaps even deterioration itself.
+The 'agelessness' I investigated this time proved to be more akin to retrogression,
+ perhaps even outright deterioration.
 }
 [sha:e910a2dd6eeae1d79bf09eec2b81cce6e72fb325]{
 -- Page 781, Offset 24182.
 -- では次のテーマは『継承』にしてみよう。
 // chose to use topic for テーマ here, appears once again later, so change both if you want to change one
-Which means I should try making my next topic 'succession'.
+Perhaps my next topic should be 'succession' instead.
 }
 [sha:c7fba8597f90672b2504768f874ec08e0b98f4f1]{
 -- Page 781, Offset 24183.
@@ -206,25 +218,26 @@ Take for example Dead Apostles: they can impart their underlings with 'undeath',
 [sha:c1f380b5f8bc3a576f723bc96848bb70eab3b03c]{
 -- Page 782, Offset 24186.
 -- いや、そもそも死徒は生殖機能が失われている。
-No, wrong premise. Dead Apostles are deprived of their reproductive capacity by their very nature.
+No, Dead Apostles cannot pass on anything;
+ they are deprived of their reproductive capacity by their very nature.
 }
 [sha:294343feb41b95266799ffb1f1e735e3449a281c]{
 -- Page 782, Offset 24187.
 -- 彼等は情欲、性欲こそあるものの、子孫を作る事はできない。単一で長い寿命を得た彼等は、子供を作る機能を不要としてしまったのだ。
-Although they retain sexual desires, they cannot birth children.
- Since they have obtained an unnaturally long lifespan on the individual level,
- the feature of bearing children has been rendered unnecessary.
+Although they are no strangers to lust and sexual desire, they cannot birth children.
+ Since they have obtained unnaturally long lifespans as individual specimens,
+ they have lost the necessity for any reproductive function.
 }
 [sha:63d02b61877cd84a62885a72f85fe6d3df4fd448]{
 -- Page 783, Offset 24188.
 -- 死徒社会において、親族とは入念に手を入れた下僕を指す。
-In Dead Apostle society, family indicates carefully acquired underlings.
+In Dead Apostle society, 'family' is used to indicate one's carefully acquired underlings.
 }
 [sha:5fdc945d4c92e317a9b604eec8f5e097ff8f750d]{
 -- Page 783, Offset 24189.
 -- Ⅵ階梯以上の死徒が“息子、娘”として扱う死徒は、才能のある人間を養子にし、頃合いを見て人間から死徒に変貌させたものを言う。
-Those that Dead Apostles of Rank VI and above treat as their 'sons' and 'daughters' where once talented humans they'd adopted,
- and later turned into Dead Apostles when the time was right.
+Those that Dead Apostles of Rank VI and above treat as their 'sons' or 'daughters' were once humans;
+ adopted for their talents and later turned into Dead Apostles when the time was right.
 }
 [sha:1ae3a9ddcbe4cc5f63978411565f8df1f44aa636]{
 -- Page 783, Offset 24190.
@@ -235,18 +248,17 @@ There are clans that are related by blood in the real sense,
 [sha:5fb6c4cbb15a6ea8d54c97017b3ea34d1b420643]{
 -- Page 784, Offset 24191.
 -- 例えばロズィーアン卿。愛すべき娘たちと共に吸血鬼になった男。貴族主義の最後の希望。彼の派閥は死徒社会でも最大のものの一つとされ、その成功ぶり、その満ち足りた在り方は同じ祖たちからですら羨望の対象となっている。
-For example: Lord Rozay-en,
+One such example is Lord Rozay-en,
  a man who became a vampire together with his beloved daughters.
- The final hope for aristocratic rule.
+ He represents the last hope for aristocratic rule.
  His faction is said to be one of the largest within Dead Apostle society,
- and together with his many successes and comfortable lifestyle,
- he has become a target of envy, even for his fellow Ancestors.
+ and his successes together with his comfortable lifestyle are enough to make even his fellow Ancestors envious.
 }
 [sha:8c0f146f1f0e3d904aa4dbd3ea1053183dabedf2]{
 -- Page 785, Offset 24192.
 -- だが、そのロズィーアン卿の最大の悩みは“孫の顔が見られない”事だ。
-Yet the greatest source of distress for even the aforementioned Lord Rozay-en,
- is that he will never be able to see the faces of his grandchildren.
+Yet despite that,
+ Lord Rozay-en's greatest source of distress is that he will never be able to see the faces of his grandchildren.
 }
 [sha:4de1277b4708c3401dbf030644523303375f15ac]{
 -- Page 785, Offset 24193.
@@ -282,18 +294,19 @@ In short, Dead Apostles cannot birth Dead Apostle children.
 [sha:8c0662e11afa94b3df90cbcad4e52fa48a368c9d]{
 -- Page 786, Offset 24199.
 -- 死徒の呪い……祖にいたっては世界と対峙するほどの呪いは、それを保有する個体が消えれば消失してしまう。
-In the case of an Ancestor, the Dead Apostle curse can oppose even the world itself.
- Yet should the individual possessing it disappear, then so too would it.
+The Dead Apostle curse――
+which in the case of an Ancestor can oppose even the world itself――
+disappears if the individual possessing it perishes.
 }
 [sha:6931324461ff45568d02566b6cdf3e3ea448481f]{
 -- Page 786, Offset 24200.
 -- それは完全ではない。
-Which is far from perfect.
+That is far from perfect.
 }
 [sha:a700fb3e7af790d8974af7e81e18b6276527d1c3]{
 -- Page 786, Offset 24201.
 -- 完全でないのなら、私が立ち向かうべき問題だ。
-And as it is not, it is a problem I ought to tackle.
+As such, it is a problem I ought to tackle.
 }
 [sha:e00f75d373363feeeee7c8026027dbbccb5f1ea4]{
 -- Page 787, Offset 24202.
@@ -303,8 +316,8 @@ My next topic is decided.
 [sha:2371ca09b5c7b5eeec6ace62a65990350a6bbb5f]{
 -- Page 787, Offset 24203.
 -- 二十七祖が持つ呪い。それらを継承する異能を開発するとしよう。
-// 'succeed to' might be an odd way of expressing it, but its hard to do it with other words and still retain succeed
-I shall develop an ability to succeed to the curses possessed by the Twenty-Seven Dead Apostle Ancestors.
+// 'Succeed to' awkward, but necessary to avoid clashing with 遺産相続 later in the file
+I shall develop the ability to succeed to the curses possessed by the Twenty-Seven Dead Apostle Ancestors.
 }
 [sha:ff6b2ef429be6fa47b7b4f54260c90b16bb4f413]{
 -- Page 787, Offset 24204.
@@ -314,24 +327,26 @@ Naturally, Principles are one-of-a-kind.
 [sha:f916c1f26897feba91d5e32aa90736a520653845]{
 -- Page 787, Offset 24205.
 -- 模倣はできないし、複写してしまっては唯一性を失って弱体化する。
-They cannot be imitated or duplicated without them also losing their uniqueness; weakening them.
+They cannot be imitated,
+ and duplicating them would only serve to weaken them by destroying that uniqueness.
 }
 [sha:4fc11a55d952fddacc3a1dd73c57be330f0a0cf3]{
 -- Page 787, Offset 24206.
 -- だからこその『継承』だ。その原理をすべて自分の物にし、自分用に<再設定|デチューン>する技術を考案しよう。
-All the more why it has to be succession.
+This is why succession is the only answer.
  I shall devise a technique to make the whole Principle one's own,
  to detune it and reconfigure it for one's own use.
 }
 [sha:9c5f05f34573e5c4e772fa55691743ad94f10493]{
 -- Page 788, Offset 24207.
 -- 『XV　あらゆる呪い、負債の継承と、その利用』
-"XV - The Succession of All Curses and Dues, and their Usage."
+// Not voiced
+'XV - The Succession of All Curses and Dues, and their Usage'
 }
 [sha:da67d47d646bdef693081915e0c188db756f7bf2]{
 -- Page 788, Offset 24208.
 -- 『あるいは。自らの異能、運命力の強制的な譲渡』
-"Alternatively: The Forced Transfer of One's Own Abilities and Force of Fate."
+'Alternatively: The Forced Transfer of One's Own Abilities and Force of Fate'
 }
 [sha:3f66d9b4fdb6778822f4dee1b90f9ac7fb5a0a76]{
 -- Page 788, Offset 24209.
@@ -341,70 +356,70 @@ I label the efficacies of my next self.
 [sha:ae8cbdde34f42ed9fa4855c9eda0f3ca3f3bad3e]{
 -- Page 788, Offset 24210.
 -- 殺し、奪い、乱用する。
-Murder.
- Stealing.
- Misappropriation.
+To kill.
+ To steal.
+ To misappropriate.
 }
 [sha:5ace993493b3dfa8b3e1699f35f1315ceb38745d]{
 -- Page 788, Offset 24211.
 -- そう、まずは殺害が基本となる。
-Indeed, murder is to form its basis.
+Yes, murder shall serve as its foundation.
 }
 [sha:8e705325f106f48215cccc266de111fcc0aef9da]{
 -- Page 788, Offset 24212.
 -- 人間でいうところの遺産相続と思ってほしい。
-In human terms, it could be thought of like an inheritance.
+In human terms, this could be thought of in terms of an inheritance.
 }
 [sha:c56fa5fd72f921938d7e87c970328ba6043aa321]{
 -- Page 788, Offset 24213.
 -- ……言葉にするのはまことに無粋だが。どのような遺産であれ、受け継ぐ為には前所有者の死が必要不可欠だ。
 Putting it into words is quite tasteless, but...
- no matter what the inheritance may be,
- the previous owner's death is imperative for it to be passed on.
+ whatever form an inheritance may take,
+ it still necessitates the death of its previous owner.
 }
 [sha:d7a85a6c6827ec49cfe19a50aa92e1be7d748510]{
 -- Page 789, Offset 24214.
 -- 我ながら、遺産という表現は的確だ。
 Expressing it as an inheritance really is quite appropriate,
- If I do say so myself.
+ if I do say so myself.
 }
 [sha:25c618d6040fa385f63a4806e7662a3a20822b68]{
 -- Page 789, Offset 24215.
 -- 親からの相続なぞ手放しで喜べるものじゃない。
-There is little to find joy in when inheriting from one's parents.
+There is little joy to be found in receiving an inheritance from one's parents.
 }
 [sha:52d5c9b6f4d9e91d92ef4fd2912d9309c9fc5194]{
 -- Page 789, Offset 24216.
 -- その大半は頭を抱えるほどの借金が関の山だ。
-About all one can expect is for the majority of it to be a troubling amount of debt.
+The majority of them tend to be up to their ears in debt.
 }
 [sha:e0ae57020364dce5296806819c60d74dfaafa7f3]{
 -- Page 789, Offset 24217.
 -- 次の私は、そんな負債に耐えられる強い肉体を持ち得るだろうか？
-Will my next self come into possession of a body strong enough to bear such dues?
+Will my next self be in possession of a body strong enough to bear such dues?
 }
 [sha:0bf731d240eee65ca2fa37e3010ef03ce9a2a225]{
 -- Page 790, Offset 24218.
 -- ―――ああ、星が流れていく。
-―――Oh, the stars are streaking.
+Oh... the stars are falling.
 }
 [sha:0de16d68ee4fd63fe8d7e295fa4c1013165c360b]{
 -- Page 790, Offset 24219.
 -- 白い化身は去っていった。
-The avatar in white has left.
+The avatar in white has departed.
 }
 [sha:22413e7bd4a9e112149290a0d8bc2890caa39072]{
 -- Page 790, Offset 24220.
 -- 私は胴体がなく、手足は灰化し、残ったものはあと数秒で燃え尽きる<脳|かお>しかない。
-My torso is gone,
- my limbs have turned to ash,
- and all that remains is naught but my brain,
- which in a few seconds will burn up as well.
+My torso is gone.
+ My limbs have turned to ash.
+ All that remains of me is my brain,
+ and in a few seconds it too will be nothing but cinders.
 }
 [sha:6ec86d0f71037abe01560b6553bc1dab2e32d690]{
 -- Page 791, Offset 24221.
 -- 死の淵にありながら、私はもう一度自問する。
-Though I stand at the precipice of death,
+Teetering on the precipice of death,
  I once again ask myself a question.
 }
 [sha:288f984b11ae2efb28b2c3dd4b124d45aeeec080]{
@@ -430,13 +445,14 @@ I sought perfection.
 [sha:12fbf38104c8dd3136c613406b04cbd6ce0759a4]{
 -- Page 792, Offset 24226.
 -- では君の言う完全とは何かと、教会に残った古い友は問うた。
-My old friend who had remained in the Church had then asked me what the perfection I spoke of was.
+An old friend, who had remained with the church,
+ once asked what perfection meant to me.
 }
 [sha:aac8d370313a162c6d3b9a0cbaa3f1a29fecd189]{
 -- Page 792, Offset 24227.
 -- 古い友にとって、完全とは『全知全能の父』を表す言葉だった。当然だ。それが我々の教義でもある。
-For my friend, perfection had been a word used to express the omnipotent and omniscient Father.
- Obviously, since that had been what our doctrine decreed.
+To them, perfection had been a word used to represent the omnipotent and omniscient Father.
+ Of course it would; such was the doctrine we followed.
 }
 [sha:76fe5cf6717588b8844ce84975806c461bccfed7]{
 -- Page 792, Offset 24228.
@@ -447,7 +463,7 @@ The Church had fabricated permanence, and by propagating it, proved its omnipote
 -- Page 792, Offset 24229.
 -- この世界が広がり続ける事を知った上で、<宇|か><宙|み>は定住していると謳ったのだ。
 // important ruby for once.
-Even though they know that the world keeps expanding, they still insist that <the cosmos|G o d> is permanently fixed.
+Even though they know that the world keeps expanding, they still insist that <the cosmos|G o d       > is permanently fixed.
 }
 [sha:341c63ebb283515fe67bb49f8bf52ee2b1d214e8]{
 -- Page 793, Offset 24230.
@@ -458,27 +474,27 @@ But that's wrong. Completely wrong.
 -- Page 793, Offset 24231.
 -- 不変では<古|おそ>すぎる。
 // *that* permanence, because he then goes on to explain what 'real' permanence is.
-That permanence is too outdated.
+That permanence is woefully outdated.
 }
 [sha:de891460fecb02d97fee589ad1c2e4daddfd52ab]{
 -- Page 793, Offset 24232.
 -- 知覚、知識を更新するのは、常に『その時代』の人間だ。
-The humans of the %{i}current age%{/i} will always be the ones who update our knowledge and perception.
+Those who advance our knowledge and awareness will always be humans living in the %{i}present%{/i}.
 }
 [sha:5a70ec5f431b519370662ebcf25565ab0cccc0fd]{
 -- Page 793, Offset 24233.
 -- 『古い時代』で全能である事に何の価値があるだろう？
-What value is there in omnipotence from a %{i}former age%{/i}?
+What value is there in omnipotence of the %{i}past%{/i}?
 }
 [sha:66023521bd5da0397b524fcf565d48ea1f0ed3c5]{
 -- Page 794, Offset 24234.
 -- 完全とは在るものではなく、
-Perfection is not something which already is,
+Perfection cannot be something that exists.
 }
 [sha:c72a48b6b19f846c4513ec30445d4786fded1eaf]{
 -- Page 794, Offset 24235.
 -- 辿り着くべき場所でなくてはならない。
-it must be a place to reach.
+It has to be a place for us to reach.
 }
 [sha:d95f392f9d9c356b509f249c11d2101aa7753953]{
 -- Page 794, Offset 24236.
@@ -499,44 +515,44 @@ I want to arrive at that conclusion.
 [sha:3e7d76cc9e783db5a9b31dd5446926d44fbf36df]{
 -- Page 794, Offset 24239.
 -- その状態こそ、何も加わらず何も失われない不変のもの。
-That is the state which is truly one of permanence;
- onto which nothing can be added,
+That is the state of true permanence.
+ One onto which nothing can be added,
  and from which nothing can be taken away.
 }
 [sha:58d10834f468224ac8c90e93af1450d34353f0fa]{
 -- Page 794, Offset 24240.
 -- 即ち、この地上でただひとつ、永遠と呼ばれるものだ。
-Id est, the sole thing upon the surface of Earth that could be called eternal.
+Ergo, the sole thing upon this earth that could be referred to as eternal.
 }
 [sha:69c34225fe26c554d2874373a6f02607e4eddc95]{
 -- Page 795, Offset 24241.
 -- 祖と呼ばれる吸血鬼たちは永遠そのものを求めた。
-The vampires known as the Ancestors sought eternity itself.
+The vampires known as the Ancestors seek eternity itself.
 }
 [sha:826986510f900e76af78dd77452bbaf3db26c6b2]{
 -- Page 795, Offset 24242.
 -- 私は永遠に辿り着く手段を求めた。
-I, however, sought the means of %{i}reaching%{/i} eternity.
+I, however, seek the means of %{i}reaching%{/i} eternity.
 }
 [sha:f492a93276e4f46f7e84c52dd94df9e87e8412ac]{
 -- Page 795, Offset 24243.
 -- 彼等が私を異端と蔑むのも当然だ。
-So it's only natural that they hold my heresy in contempt.
+It's only natural that they hold my heresy in contempt.
 }
 [sha:bd6749c614f041252983d15c123c496d7bde34fe]{
 -- Page 795, Offset 24244.
 -- 根本からして、私と彼等は違う生き物なのだから。
-Because we are different kinds of beings, fundamentally speaking.
+We are, after all, fundamentally different beings.
 }
 [sha:fb04ee2333c09fbe3eba942ce31985058f6a0234]{
 -- Page 795, Offset 24245.
 -- 私の<航|み><路|ち>は間違ってはいない。決して。
-My voyage has not been a mistake. %{i}Never%{/i}.
+My voyage is not misguided. This I know.
 }
 [sha:a83d74beb05ecee73c92da3624b62dcb34186034]{
 -- Page 795, Offset 24246.
 -- たとえ、その手段が間違っているとしても。
-Even if my methods themselves are.
+Even if my methods themselves sometimes are.
 }
 [sha:12ebda1814f8040a13375a7df90089640fe6bbcc]{
 -- Page 796, Offset 24247.
@@ -547,7 +563,7 @@ Even if my methods themselves are.
 -- Page 796, Offset 24248.
 -- あの星の花が咲き誇る城に辿り着いた時、神学者である“私”は死んだ。
 // from this line onward, past tense. This is 'dream Roa' reminiscing about first meeting Arcueid.
-The Theologian I had been died when I reached the castle where flowers of the stars bloom.
+The theologian I had been died when I reached that castle, surrounded by flowers of the planet in full bloom.
 }
 [sha:8c93fc06ebf824c97d9a9fb8d05156ad6648a39e]{
 -- Page 796, Offset 24249.
@@ -557,27 +573,28 @@ Eternity was already there.
 [sha:950694fe8f8e1df0b62c9a704a5432ca66476347]{
 -- Page 796, Offset 24250.
 -- 否。永遠に留めておきたいと思ってしまったモノが、そこにあった。
-Nay; something I wanted to retain in eternity was there.
+Nay; something I wanted to %{i}retain%{/i} for eternity was there.
 }
 [sha:97caf271dfa47cc7c7f05479de93be7282733280]{
 -- Page 797, Offset 24251.
 -- 今でも―――何度この世から退場しようと、
-Even now――no matter how many times I may depart this world
+// Sentences shuffled to avoid break
+It doesn't matter how many times I depart this world.
 }
 [sha:ca750cf7e755ee7481920972c97d1c2afea8befa]{
 -- Page 797, Offset 24252.
 -- 身を切り裂くほどの憎悪と歓びが繰り返される。
-――does hatred and joy enough to tear my body into pieces recur within me.
+The hatred and joy I feel each time is still strong enough to tear my body to shreds.
 }
 [sha:bd89590c28da63ffcc97a69588f9c1484fd23409]{
 -- Page 797, Offset 24253.
 -- あの時。世界の全てを知る事と、あの女を知る事を、私は<秤|はかり>にかけてしまった。
-Back then, I put 'knowing all of the world' and 'knowing her' against each other on a scale.
+Back then, I weighed 'knowing all of the world' against 'knowing her'.
 }
 [sha:1dfbb2095dfa3f49e98982ba6c282b9c93a21368]{
 -- Page 797, Offset 24254.
 -- 神学者としての私は、あの瞬間に死んだのだ。
-And at that instant, the theologian within me died.
+In that instant, the theologian within me died.
 }
 [sha:51a35052f38a6187b325fdad3d37ebe64ba92603]{
 -- Page 798, Offset 24255.
@@ -587,12 +604,12 @@ That's why, my friend...
 [sha:227ad8b746cdcf2f205c99f18535038a1263af8a]{
 -- Page 798, Offset 24256.
 -- この忠告を、つね、魂に刻みつけ給え。
-Be sure to %{i}always%{/i} keep this warning engraved unto your soul:
+Be sure to carve this warning deep into your soul:
 }
 [sha:62ade737936de16d53ef51c036a77c6089147092]{
 -- Page 798, Offset 24257.
 -- ヒトの認識でホシの<光体|すがた>を観る事は罪深く。
-To gaze upon the Lightform of the planet with a human's perception is sinful beyond all.
+There is no greater sin than turning a human's gaze upon the Luminary of the planet.
 }
 [sha:ff754d7623a532ddb96ecd93cd536daf5bda306a]{
 -- Page 798, Offset 24258.

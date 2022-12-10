@@ -7,8 +7,8 @@ Dinner goes by without incident.
 -- Page 10015, Offset 15767.
 -- ７時前に帰宅した秋葉はいつになく上機嫌で、食後に場所を変えてお茶を楽しむ事になった。
 // Based on context, the _two_ of them have gone to the living room
-Akiha came home a little before 7 PM in uncharacteristically high spirits,
- and after dinner we retired to the living room to enjoy some tea.
+Akiha came home a little before seven o'clock in uncharacteristically high spirits,
+ and after dinner, we retired to the living room to enjoy some tea.
 }
 [sha:d38ace0e00c8c1c21495a5f74c78c9279aa8a27f]{
 -- Page 398, Offset 15768.
@@ -38,7 +38,7 @@ I'll sneak out of here once everyone's gone to bed,
 -- Page 400, Offset 15772.
 -- 「そうね、兄さんにはファーストフラッシュの方が合っているかも。私はセカンドフラッシュの方が好みだけど、たまには兄さんに合わせましょうか」
 "As you say, the first flush might be more to Nii-san's tastes.
- While I do prefer the second flush myself, I suppose it doesn't hurt to cater to Nii-san's palate once in a while."
+ While I do prefer the second flush myself, I suppose it doesn't hurt to cater to his palate once in a while."
 }
 [sha:8e96bd94ce7ab5d3fe586f4cff708a17adf0c612]{
 -- Page 401, Offset 15773.
@@ -96,7 +96,7 @@ Kohaku-san suddenly addresses me, even though I haven't been a part of the conve
 [sha:004d4c3e6732b6451dbbaa5ddea3494e9a17ac53]{
 -- Page 405, Offset 15782. Mods: @n.
 -- 「いや、それは―――
-"No, that's――――
+"No, that's―――
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 405, Offset 15783. Glued.
@@ -119,7 +119,7 @@ I sneak a glance at Hisui out of the corner of my eye, and notice she's looking 
 "Hmm, I feel like 'fussy' is the wrong word.
  Being meticulous in your work isn't the same as being fussy, now is it?
  I mean, whenever I mess something up she immediately takes care of it for me,
- and when I'm feeling under the weather but haven't picked up on it yet she points it out for me.
+ and when I'm feeling under the weather but haven't picked up on it yet, she points it out for me.
 }
 [sha:ad4cc9b9d148aa75bde23d90627b5fdd0e9935b9]{
 -- Page 406, Offset 15787.
@@ -152,7 +152,7 @@ On top of that, she doesn't get mad at me when I come home late in the evening, 
 [sha:bc991f9f367c4d38704da922ff5f444a69ac0ba3]{
 -- Page 409, Offset 15791.
 -- 「む」
-"Hmph."
+"%{i}Hmph%{/i}."
 }
 [sha:6a7201d0a6b0e263207785b126195d372a819506]{
 -- Page 410, Offset 15792.
@@ -170,13 +170,13 @@ If someone with as few commitments as myself isn't returning home early,
 -- 「もっとも、門限を守ればいい、という話ではありませんけど。これまでの自堕落ぶりを反省して早く帰ってきてくれたのは喜ばしいですが、その後が気になります。夕食から心ここにあらずという様子ですが、何かあったのですか？
 "Of course, adhering to the curfew isn't the only thing I expect of you.
  I'm pleased that you've reflected on your self-indulgent behavior to date and returned home early,
- but I'm still apprehensive about what you might do in future.
- It seems as though your mind has been elsewhere ever since dinner――is something the matter?"
+ but I'm still apprehensive about what you might do in the future.
+ It seems as though your mind has been elsewhere ever since dinner――is something the matter?
 }
 [sha:8e9f5f8ddc922b5bb11faddbb3baaa667ef1c810]{
 -- Page 411, Offset 15795.
 -- 例えば―――この後、何かご予定が入っているとか」
-Do you, for example... have any plans after this?
+Do you, for example... have any plans after this?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 412, Offset 15796.
@@ -187,7 +187,7 @@ Do you, for example... have any plans after this?
 -- Page 412, Offset 15797.
 -- 思わず目が泳ぎそうになったが、すんでのところで持ちこたえた。
 // maybe could be improved in terms of wording for 目が泳ぎそうになった
-I'm this close to breaking eye contact with her, but stop myself at the last moment.
+I'm %{i}this%{/i} close to breaking eye contact with her, but stop myself at the last moment.
 }
 [sha:77277f27ece7ea91f635cd07fe7890689e5b98b4]{
 -- Page 413, Offset 15798.
@@ -208,7 +208,7 @@ However, I've been through a lot――I fought with a vampire,
 -- 「この後は風呂に入るだけだけど、なんだ、先に入るのか？　それならそれでいいけど……って、そうか。この家、浴槽は二つあったな。秋葉は東館の方だったっけ」
 "I was just planning on having a bath after this, why, do you wanna go first?
  Fine by me, I guess... oh, that reminds me――this place has two bathtubs, doesn't it?
- You use the one in the east wing, right, Akiha?"
+ You use the one in the east wing, right?"
 }
 [sha:22f41b002ff2176d6641e8139e787d4d5b961ec2]{
 -- Page 414, Offset 15801.
@@ -302,7 +302,7 @@ The tea party winds up carrying on past eight o'clock,
 [sha:cfff91d5cf9f9c56ee32ecefc7ee14d79aa7d35e]{
 -- Page 423, Offset 15816.
 -- 「それでは、お休みなさいませ志貴さま」
-"Please excuse me, and goodnight, Shiki-sama."
+"I will be off then. Goodnight, Shiki-sama."
 }
 [sha:417413c359e4dcfbff049b7c0827fc667dd89571]{
 -- Page 423, Offset 15817.
@@ -345,7 +345,7 @@ I suppose she's still in the city for the same reason Senpai is.
 [sha:e8d9f73f2e9a154037d9777c5137f078e6135c81]{
 -- Page 425, Offset 15824.
 -- <吸血鬼|ヴローヴ>の残党を処理するまで吸血鬼退治は終わらない。
-The vampire extermination isn't complete until the last of Vlov's stragglers have been taken care of.
+The vampire extermination isn't complete until the last of Vlov's stragglers has been taken care of.
 }
 [sha:48f530f3ca970ad8fa123f42005b749c6de6764f]{
 -- Page 425, Offset 15825.
@@ -357,7 +357,7 @@ But then again...
 -- 「意外だな。先輩たちはともかく、アルクェイドがそこまでしてくれるなんて」
 // skipping たち here
 "This isn't what I'd expect from her.
- Senpai is one thing, but for Arcueid to go to this length..."
+ Senpai is one thing, but for Arcueid to go to these lengths..."
 }
 [sha:68f8cce24a871829e5f7678104b72d483244a229]{
 -- Page 427, Offset 15827.
@@ -373,7 +373,7 @@ I was expecting her to blow off dealing with the fallout, and yet, she's still h
 [sha:1319597d17bb41daed64175077fa157f66329095]{
 -- Page 427, Offset 15829.
 -- 思惑はどうあれ、結果的にこの街を守ってくれている。
-Whatever her intentions, at the end of the day she's still helping to protect this city.
+Whatever her intentions, at the end of the day, she's still helping to protect this city.
 }
 [sha:dce9f1b7c8d76aac0f21cb6e6f80b9b03994dfb2]{
 -- Page 428, Offset 15830. Mods: @n.

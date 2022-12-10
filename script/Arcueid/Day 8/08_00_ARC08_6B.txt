@@ -12,7 +12,7 @@ An utterly unremarkable four-story apartment complex. Nothing unusual about it.
 [sha:bc21ad3ee2cb81525ffca16e9bfe0ae16141a56a]{
 -- Page 352, Offset 20548.
 -- 部屋数は一フロアに四つほどで、その大半からは灯りが漏れている。住人たちはまだ眠っておらず、各々の時間を過ごしている。
-Every floor has around four units, most of which have lights on.
+Every floor has around four units, most of which have the lights on.
  The residents have yet to go to sleep, and are each passing the time in their own way.
 }
 [sha:dd5eaa14164c0996f73a96c1490187d2377ba4e8]{
@@ -23,7 +23,7 @@ Whether those activities are above board or not isn't something that people look
 [sha:902feaa15de01b9c7194b7ac0323bb4a9988042f]{
 -- Page 353, Offset 20550.
 -- 「――――――、っ――――――！」
-"%{i}Gh%{/i}――――――!"
+"%{i}Gh%{/i}―――!"
 }
 [sha:4a78e660f84c7914b78f44cfc26a0317b583a5be]{
 -- Page 353, Offset 20551.
@@ -38,7 +38,7 @@ The stress it puts on my brain makes me want to throw up.
 [sha:9f9216fbc1e32a746aaa1f02638aea302af04cea]{
 -- Page 354, Offset 20553.
 -- ……ここは、おかしい。
-...This place is strange.
+This place is strange...
 }
 [sha:35f6e20c7e8cda6ef30254b8f6c12170832bf04a]{
 -- Page 354, Offset 20554.
@@ -219,7 +219,7 @@ Don't worry, these Undead just got up, they're like insects to me. I'll finish t
 [sha:e277c5439364fa77adf34b3a1db2c23fdab84906]{
 -- Page 369, Offset 20587.
 -- 「――――――マジか」
-"――――――You're kidding me..."
+"―――You're kidding me..."
 }
 [sha:d690aa4ffd17a05fb478cb5543908bcefaa1afa7]{
 -- Page 369, Offset 20588.
@@ -387,7 +387,7 @@ At the heart of that bloodbath stands Arcueid,
 [sha:2c94658e0bf60262712e2abf91cea1a02a00e2dc]{
 -- Page 378, Offset 20618.
 -- ……あの馬鹿。どんな心境の変化かは知らないけど、無駄に力を使いすぎだ。
-...That idiot. I don't know what's come over her, but she wasted way too much energy.
+That idiot... I don't know what's come over her, but she wasted way too much energy.
 }
 [sha:76c41a531cf17533b26e72728abfdb03f497899d]{
 -- Page 378, Offset 20619.
@@ -428,7 +428,7 @@ I breathe out a sigh.
 [sha:9cff31add0be1f5b8e8f4fc8b4c8451b1d0fc0d2]{
 -- Page 382, Offset 20626.
 -- ……まったく、勘弁してほしい。
-...Geez, give me a break already.
+Geez, give me a break already.
 }
 [sha:6b4b187c587371c9d86af787ac48ab16e7dd03f6]{
 -- Page 382, Offset 20627.
@@ -439,7 +439,7 @@ To think that excessive violence was simply her trying to show off in front of m
 [sha:d678a8f00559ecd50ae1bd2138cce22579cf3e51]{
 -- Page 383, Offset 20628.
 -- 「……………まあ。
-"...I mean...
+"I mean...
 }
 [sha:c80e6b432b315b47290b5bad39434daf50c9f431]{
 -- Page 383, Offset 20629.
@@ -535,7 +535,7 @@ It carries the same scent as the Dead.
 -- Page 386, Offset 20646.
 -- だが人間性を、ホモサピエンスである事を放棄していた。
 However, it has renounced all trappings of humanity.
- It is not a member of Homo sapiens.
+ It is not a member of %{i}Homo sapiens%{/i}.
 }
 [sha:5d26c64401c88c7e8ebfc375b9b0a5a385c5cf04]{
 -- Page 386, Offset 20647.
@@ -672,18 +672,21 @@ I hear the click of a trigger being pulled in my skull.
 -- 隠れていた異形の死者。―――そういう事もある。
 // Doing some fuckery with the spacing here to split the call/response
 // These strings already use 2 lines, so may as well emphasize
+// lint-off:LintEmDashes
 A grotesque Dead hiding in wait.%{n}
                     ―――Things like that can happen.
 }
 [sha:9d1ea5e2336708fc60c57dcf6a1352d28ada8bc6]{
 -- Page 394, Offset 20671.
 -- 隠していた外皮の硬さ。―――そういう事もある。
+// lint-off:LintEmDashes
 The unanticipated hardness of its skin.%{n}
                     ―――Things like that can happen.
 }
 [sha:5e09e57f1f355bc8f9b376c454150a1c469d0f94]{
 -- Page 394, Offset 20672.
 -- 先ほどの死者たちとは種別の違う醜悪さ。そういう事もある。
+// lint-off:LintEmDashes
 Far more repugnant than the Dead that came before.%{n}
                     ―――Things like that can happen.
 }
@@ -701,6 +704,7 @@ Conceited enough to think it can kill Arcueid,
 [sha:fd50be08731adcf74df2cdd1b0259e325b38dbff]{
 -- Page 394, Offset 20675.
 -- ―――それは、ない。
+// lint-off:LintEmDashes
                     ―――That... can't happen.
 }
 [sha:fd914602ac184b51872a602bd12cc8396d7587e8]{
@@ -863,10 +867,10 @@ I did not hear any screams of agony as it died.
 Like a mechanical doll whose batteries had been removed,
  the grotesque Dead ceased all movement, and passed away.
 }
-[sha:9119523335fa41bebb40ca78cd4474b492816ccf]{
+[offset:20701]{
 -- Page 402, Offset 20701. Mods: @k, @e.
 -- 「―――――、
-"―――――
+"―――
 }
 [sha:82b63e085d28fb747d955dd57fe8cd1fe47efbcd]{
 -- Page 402, Offset 20702. Glued. Mods: @x.
@@ -935,7 +939,7 @@ I did not take any of Sensei's lessons into consideration.
 [sha:4e1ccedf7baf8629fa996eeab6311004fedfd90b]{
 -- Page 405, Offset 20714.
 -- 「はあ―――はあ―――はあ」
-"%{i}Ha―――ha―――ha%{/i}."
+"%{i}Ha――ha――ha%{/i}."
 }
 [sha:71046dcc33eea926bc25fbd30435fd6ee46b2683]{
 -- Page 405, Offset 20715.
@@ -946,7 +950,7 @@ Regret. Self-condemnation. Loathing. Disappointment.
 [sha:1f429fa4c6946acbb2716e9a82a87c0c48100e0e]{
 -- Page 406, Offset 20716.
 -- ……でもいい。それでもいい。
-...But that's okay. I can live with that.
+But that's okay. I can live with that.
 }
 [sha:c736e63e86bd295043e0f31f2f641e2e7897bd77]{
 -- Page 406, Offset 20717.
@@ -1015,7 +1019,7 @@ Arcueid's back is shaking heavily.
 [sha:c7f70ea4fbd7d7d96d8be56a9f35b4075ec79e91]{
 -- Page 410, Offset 20729.
 -- ……酷い。体中に浮かんだ汗といい尋常じゃない。
-...This is awful. It can't be good for her to be sweating out of every pore like this.
+This is awful... It can't be good for her to be sweating out of every pore like this.
 }
 [sha:6ba84d98aaa7002805851570220524dcd038813a]{
 -- Page 410, Offset 20730.
@@ -1026,7 +1030,7 @@ Thinking she might have sustained a wound on her chest,
 [sha:da6e98eb3ec2caeafb34d4e84aa41ea81724421f]{
 -- Page 411, Offset 20731.
 -- 「ぷっ―――ふふ、あはははは！　あははは！」
-"%{i}Pfft―――fufu, ahahahahaha%{/i}! %{i}Ahahaha%{/i}!"
+"%{i}Pfft――fufu, ahahahahaha%{/i}! %{i}Ahahaha%{/i}!"
 }
 [sha:7939ca42b79e07bdcf4c205987ff44dce78d2ff9]{
 -- Page 411, Offset 20732.
@@ -1102,7 +1106,7 @@ I would still be at fault no matter what I say, so I have no choice but to stay 
 [sha:3bffd14261f336d3935aa338441ce9807807e87f]{
 -- Page 416, Offset 20746.
 -- 「……はあ。はいはい、分かりました。俺が悪うございましたとも。
-"...%{i}Sigh%{/i}. Fine, I get it. I sincerely apologize for my actions.
+"%{i}Sigh%{/i}... Fine, I get it. I sincerely apologize for my actions.
 }
 [sha:dcf2cc27e996cef755ac17695a0c0d1ed29e8adb]{
 -- Page 416, Offset 20747.
@@ -1179,7 +1183,7 @@ I try and hide my blushing cheeks with my hands,
 [sha:bbb50f016c0c15c70679126ec0066c8f03c9f7d4]{
 -- Page 421, Offset 20761.
 -- 「――――――っ」
-"――――――Ah."
+"―――Ah."
 }
 [sha:447ff2cf5a293d863d02727e335b5dbe4575f915]{
 -- Page 421, Offset 20762.
@@ -1196,7 +1200,7 @@ And besides, what's with that face?
 [sha:3c4f3df1eb51adb849e39304b903425a3e97fac5]{
 -- Page 422, Offset 20763. Mods: @k, @e.
 -- 「…………よし、落ち着いた。
-"...Okay, I've calmed down.
+"Okay, I've calmed down.
 }
 [sha:c25381b40554212572aad614fa647facbe0610dd]{
 -- Page 422, Offset 20764.
@@ -1239,7 +1243,7 @@ I'm in a daze. Whatever Arcueid's saying goes right over my head.
 [sha:e4354776723e78ccee119a17dd4e190277830bfa]{
 -- Page 424, Offset 20771.
 -- ……でも仕方ないとも思う。
-...But I don't think there's anything I can do about it.
+But... I don't think there's anything I can do about it.
 }
 [sha:0024905b43d5ec8ceee49e1e84ea2ae86583fadb]{
 -- Page 424, Offset 20772.
@@ -1254,7 +1258,7 @@ This feeling, this headache, this heaviness in my limbs, it's all because of Arc
 [sha:ac3dbcb7d3447f8e26b088ab049930e9c68ab474]{
 -- Page 425, Offset 20774.
 -- 「……志貴？　ちょっと、大丈夫!?」
-"...Shiki? Hey, are you alright?!"
+"Shiki? Hey, are you alright?!"
 }
 [sha:fde58f1f4a33c597e3e99b5964d4983f156dc329]{
 -- Page 425, Offset 20775. Mods: @k, @e.
@@ -1269,12 +1273,12 @@ That Dead... was the enemy really that hard to look at?!"
 [sha:1509af4c3e7d2d699d3ffb36a48ca645ff9b414b]{
 -- Page 426, Offset 20777. Mods: @k, @e.
 -- 「……いや、そんなコトはなかったけど……けど……
-"...No, it isn't really anything like that... but...
+"No... it isn't really anything like that... but...
 }
 [sha:ecf978e6a0c97d27a5b4f187f2410089e954f711]{
 -- Page 426, Offset 20778.
 -- ……おまえ、なんか、近く、ない……？」
-...Aren't you, a bit too close...?"
+Aren't you... a bit too close...?"
 }
 [sha:e8eb421cd4978ce4d5b40bf58c35d177529e6385]{
 -- Page 426, Offset 20779.
