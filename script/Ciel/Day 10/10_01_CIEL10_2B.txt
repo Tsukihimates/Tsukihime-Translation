@@ -1,18 +1,18 @@
 [sha:354e14d270ea9cde3693aca0132a3bea26a9ad37]{
 -- Page 10008, Offset 27319.
 -- ……もうラッシュの時間は終わったのか、注文待ちの行列はできていなかった。
-I must have missed the lunch rush, as there's no line waiting to order.
+I must have missed the lunch rush, as there's nobody lined up waiting to order.
 }
 [sha:6b23d97a449af35817bcaecf1d83e655387bb6ac]{
 -- Page 10008, Offset 27320.
 -- 販売機で目に付いたメニューのボタンを押し、窓口の職員に渡してトレイを受け取る。
-I press the button on the vending machine for a dish that catches my eye,
+I press the button on the ordering machine for a dish that catches my eye,
  then exchange the ticket with the person behind the counter for a tray.
 }
 [sha:662daa484b4ea8781be988b72324f785139bba21]{
 -- Page 93, Offset 27321.
 -- 俺が頼んだのはコロッケ定食だったらしい。
-I guess I ordered the croquette set meal.
+It would seem I ordered the croquette set meal.
 }
 [sha:71544ae36fc6c49d1847fa0a213676b79fe6d23f]{
 -- Page 93, Offset 27322.
@@ -56,7 +56,7 @@ How out of it, you ask?
 -- 先輩に似た誰かはテーブルにつくと、いただきます、と丁寧に手を合わせてからうどんをつるつると食べ始めた。
 // Bone up the teeth
 The Senpai-lookalike sits down at her table,
- clasps her hands together to wish herself bon appétit,
+ rubs her hands in anticipation,
  then starts noisily slurping her udon noodles.
 }
 [sha:b77b232ab34200152170b1e3ef0db8f31611f1c6]{
@@ -210,7 +210,7 @@ In truth, I'd understood then and there that I'd never see her again.
 [sha:9212c40a8da955dda55a619a9709c3d12cc290f1]{
 -- Page 107, Offset 27356.
 -- しれっと。
-Without batting a eye―――
+Without batting an eye―――
 }
 [sha:4bcd787b58018c5db9abbdf17d3031e8c7da4249]{
 -- Page 107, Offset 27357.
@@ -225,7 +225,8 @@ She deadpans an absolutely laughable response.
 [sha:3454af935b1e53657ad3846b08d03e978ba42388]{
 -- Page 108, Offset 27359.
 -- あんなの、どう取ったって真剣な別れの言葉でしょう!?」
-Nobody goes around saying 'farewell' to people they're going to see again!"
+When you say it like %{i}that%{/i},
+ how am I supposed to interpret it as anything other than a %{i}permanent%{/i} farewell?
 }
 [sha:631cfcc8de553a1bf7c0001cac34400bc9136c5e]{
 -- Page 109, Offset 27360.
@@ -267,12 +268,12 @@ I didn't even want to suspect her of being a vampire.
 [sha:29c74227a1165648f19ae5271ed2649146f451f1]{
 -- Page 112, Offset 27367.
 -- 確かに先輩の体は俺たちとは違う。
-It's true that Senpai is built differently to the rest of us.
+It's true that Senpai's body is a little different.
 }
 [sha:dffbd2a09ccb9886e39140e7caa42c700682224b]{
 -- Page 112, Offset 27368.
 -- 死ぬような傷を負ってもすぐに治ってしまうのなら、それはアルクェイド同様、遥かに人間離れしている。
-She's able to immediately heal wounds that look lethal,
+She's able to immediately heal seemingly lethal wounds,
  meaning that she's just as far removed from being human as Arcueid is.
 }
 [sha:c50991bcb4f8c11386147e28e1cbc3bc3107d5ae]{
@@ -284,22 +285,22 @@ I can't deny that an ability like that is just what you'd expect from a vampire�
 [sha:996c9106c4137a52ec1eb0891687e9cf10ab7a8b]{
 -- Page 113, Offset 27370.
 -- ……けど、それでも。
-But, despite all that...
+But, even with all that said...
 }
 [sha:37ee1b740bb435de9cac48dced62222a3020f195]{
 -- Page 113, Offset 27371.
 -- 俺にとって、この人は大切な人なんだ。
-She's someone precious to me.
+She's still someone precious to me.
 }
 [sha:141453cd2229a9ee0bbf5beeaf8725045a9e5538]{
 -- Page 113, Offset 27372.
 -- たった半日間でも、先輩がいないと思っただけで現実が希薄に感じられた程に。
-The half a day I spent thinking she was gone was the most lifeless and empty I've ever felt.
+So precious that being away from her just for half a day was enough to make my life feel empty and pointless.
 }
 [sha:8a506e2d7dd22278ff8e3d9c0ad0413cfcff862d]{
 -- Page 114, Offset 27373.
 -- だから、そんな事は全然……というのは言い過ぎにしても、本当に気になっていない。
-It would be an exaggeration to say that I don't care about that stuff at all,
+It would be an exaggeration to say that I don't care about her true nature at all,
  but it definitely doesn't bother me.
 }
 [sha:bc58556ef84c7bc0ffc8ad535c83031a84f5e2b1]{
@@ -317,7 +318,7 @@ Even if Ciel-senpai is a similar sort of being to Arcueid,
 -- Page 115, Offset 27376.
 -- そもそもこれはわたしの日常ですから。遠野くんがなんと言おうが、好きにやるって決めたんです」
 This is how I've always lived, after all.
- Say what you will, Tohno-kun, but I've decided that I will do as I please."
+ I already decided that I'd follow my own heart, no matter what you might tell me.
 }
 [sha:cdd8d1585620720cc74075fd337c1308829f2302]{
 -- Page 116, Offset 27377.
@@ -327,13 +328,13 @@ Senpai vigorously wolfs down her curry udon.
 [sha:dca9874c66132ea08f213edabd9b5df0a286a96f]{
 -- Page 116, Offset 27378.
 -- ……心配になるほどのヤケ食いだった。
-The intensity of her stress-eating is honestly a little concerning...
+Eating her feelings like that can't be healthy...
 }
 [sha:97e986d419655281f3ea8ef8226edeea1e1b0fc0]{
 -- Page 116, Offset 27379.
 -- “文句があるなら言ってみなさい、でも言ったら絶交ですからね”と、意固地に曇った<表|か><情|お>が告げている。
 Her face is set in an incredibly stubborn expression,
- as though she's daring me to voice my complaints but simultaneously threatening to break up with me if I do.
+ as though she's daring me to voice my complaints but simultaneously threatening to cut all ties with me if I do.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 117, Offset 27380.
