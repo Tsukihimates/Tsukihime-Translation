@@ -4,7 +4,7 @@ just ends up hanging during the page transition. It's not clear what benefit
 the if even has?
 --- allscr.mrg_0513.txt
 +++ allscr.mrg_0513.txt
-@@ -1833,11 +1833,7 @@ _STRT(24,-1000,-1000,0,0);
+@@ -1833,12 +1833,7 @@ _STRT(24,-1000,-1000,0,0);
  _SNX2(24,-255);
  _SNX4(24,4,4);
  _STMA(24,23518);
@@ -13,6 +13,7 @@ the if even has?
 -_ZYb9500(LV00400);
 -_IFNX(,LV00500);
 -_SQK2(24,2,2,0,-1,0,0,0,0);
- _ZYb9700(LV00500);
+-_ZYb9700(LV00500);
  _STCH(25,img0401,7,-29,1000,255,162,,CC,2,2,);
  _STZ4(25,-1000,,-1000,,0,0,0);
+ _STRT(25,0,0,0,0);
