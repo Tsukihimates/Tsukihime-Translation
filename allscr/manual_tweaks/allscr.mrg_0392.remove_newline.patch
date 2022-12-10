@@ -1,0 +1,13 @@
+diff --git a/allscr/retimed/allscr.mrg_0392.txt b/allscr/retimed/allscr.mrg_0392.txt
+index d515ca55..bcc814c8 100644
+--- allscr.mrg_0392.txt
++++ allscr.mrg_0392.txt
+@@ -1619,7 +1619,7 @@ _WKST(C859,eq,0);
+ _WNTY(0);
+ _ZM8b541($029392);
+ _WKAD(C847,1);
+-_WKAD(F823,1);
++_WKAD(F823,0);
+ _WKST(C847,eq,0);
+ _WKST(C859,eq,0);
+ _WNTY(0);
