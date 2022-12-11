@@ -1,17 +1,19 @@
 [sha:f83a7acadb446820f9389112804983a7f328e29c]{
 -- Page 10008, Offset 31042.
 -- 「あー……でも先輩、茶道部については疑問があるというか、質問があるというか。
-"Ah... but Senpai, there's something I guess I don't really get about the tea ceremony club. I guess you could say I have a question.
+// 疑問/質問 kiiinda redundant in en
+"Ah... Senpai, there's actually something that's been bothering me about the tea ceremony club...
 }
 [sha:18aa7b2f44cc10ce01c789ade396068f6096e32f]{
 -- Page 10008, Offset 31043.
 -- 前に部員はいないって言ってましたけど、この学校、初めから茶道部そのものがないんじゃないですか？」
-You said before that there weren't any other members, but did the tea ceremony club even exist in the first place?"
+You mentioned before that there weren't any other members,
+ but did this school even have a tea ceremony club at all before you showed up?"
 }
 [sha:aa5ebec0d20c3793b2a88f207fc2ab9ba24dbb01]{
 -- Page 71, Offset 31044.
 -- 「……あの。もしかして本当になかった？
-"...Um. Don't tell me it really didn't?
+"Um... Should I take that as a 'no' then?
 }
 [sha:58c51c76f4c0bcbb5414dbfe5dbe1fe458634347]{
 -- Page 71, Offset 31045.
@@ -26,17 +28,21 @@ So you're telling me that you created the clubroom... no, that you made the scho
 [sha:6b61452063fa2ffd40589b2815fa9d10daa9cc44]{
 -- Page 72, Offset 31047.
 -- シエル先輩は窓の外に視線を移して、あからさまに話を逸らしにきた。
-Senpai shifts her gaze to the outside of the window and blatantly avoids the subject.
+Ciel-senpai's gaze wanders over to the window,
+ and she conspicuously avoids answering the question.
 }
 [sha:1ff392076e1a9d46b89e86df639ca9629b4fa9a1]{
 -- Page 73, Offset 31048.
 -- 「……いいけど、別に。どんな悪さをしても先輩は根っからの悪人じゃないし、誰にも迷惑はかけてないんだろうし。
-"...It's fine, really. No matter what bad deeds you commit, I know you're not a bad person at heart, and it's not like you're causing anyone trouble.
+"Well, I'm not gonna get hung up on it.
+ Regardless of whatever mischief you get up to,
+ I know you're not a bad person at heart,
+ and it's not like you're causing problems for anyone.
 }
 [sha:f52e64c368b913b13ad7514cd939f9051fb818ee]{
 -- Page 73, Offset 31049.
 -- でも先輩の暗示ってそんな事まで出来ちゃうんですか？」
-But are your suggestions so strong that they're even capable of doing things like that?"
+Still, are your powers of suggestion really strong enough to pull off something like that?"
 }
 [sha:bb8f4ede4b53ab5b0593b18e4d27ea7a7ab16a44]{
 -- Page 73, Offset 31050.
@@ -56,17 +62,17 @@ I stare at Ciel-senpai intently.
 [sha:3d3dce89f78b8566e7dc39346151f742186afa79]{
 -- Page 74, Offset 31053.
 -- 沈黙すること１分弱。
-A little less than a minute of complete silence.
+A little under a minute passes in complete silence.
 }
 [sha:7ade34ef0417c59af092ab6ad1cb36f85f60d8a3]{
 -- Page 75, Offset 31054.
 -- 「……わりとしつこいんですね、遠野くん」
-"...You're quite the persistent one, aren't you?"
+"You're quite the persistent one, aren't you, Tohno-kun?"
 }
 [sha:10180b17ca38380907946b84e867d51e5ff62780]{
 -- Page 75, Offset 31055.
 -- 「別に。先輩の目って青いんだなって、見てただけですよ」
-"Not really. I was just looking at your eyes, thinking about how they're blue."
+"Not really. I was just admiring how blue your eyes are, Senpai."
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 75, Offset 31056.
@@ -86,62 +92,65 @@ Senpai breathes a sigh as if admitting defeat.
 [sha:ff93167f4e3990973fd836e88c475fabea4a8a36]{
 -- Page 76, Offset 31059.
 -- 暗示とは物事の捉え方を変える、のではなく逸らす、というのが大前提なんです」
-The main premise behind suggestion isn't to change one's perspective, but rather to divert it."
+The basic premise of suggestion isn't to alter one's perspective, but rather to redirect it."
 }
 [sha:ac642d64d74d1666ac0c73fc460eb4e9a7293691]{
 -- Page 77, Offset 31060.
 -- 「わたしがいくら『遠野くんはカレーが大好き』と言い聞かせても、遠野くん本人がカレーが大嫌いならその暗示は成立しません」
-"Even if I suggest to you that you love curry, if you actually hate curry then it won't take effect."
+"No matter how much I try and suggest that you love curry,
+ if you actually hate curry then it will never take effect."
 }
 [sha:f8dafa52d7a8775094bfb21522c0116cf479f210]{
 -- Page 78, Offset 31061.
 -- 「あれ、そうなんですか？
-"Oh, is that so?
+"Huh, really?
 }
 [sha:7904d669695225b8e615b9ba70c50b7b7df52edd]{
 -- Page 78, Offset 31062.
 -- じゃあ本人が嫌がっている事は無効化される？」
-So it's nullified if the person in question hates that thing?"
+So you can't make someone do something they hate?"
 }
 [sha:3f8abdea7cc6d0581202f35b27ba1e3669ba9dff]{
 -- Page 79, Offset 31063.
 -- 「はい。まあ、それでも遠野くんにカレーを食べてもらう方法はいくらでもありますけどね。
-"Exactly. Although there are other methods I can employ to get you to eat curry.
+"Exactly. Well, that said, there %{i}are%{/i} other methods I could employ to get you to eat curry.
 }
 [sha:de23143c60b251c9d72f53cd6db6348f0585c093]{
 -- Page 79, Offset 31064.
 -- たとえば『大好きだから食べる』というのではなく『食べなければ死んでしまう』と暗示をかければ――」
-For example, instead of 'I love it, so I'll eat it', I can suggest something like, 'If I don't eat this, then I'll die'――"
+For example, instead of 'I love it, so I'll eat it', I could suggest something like, 'If I don't eat this, then I'll die'."
 }
 [sha:1a86263912f3cdc47bfd419db10d967e4f51d4d5]{
 -- Page 80, Offset 31065.
 -- 「ああ、なるほど。大嫌いでも食べるしかないですね。
-"Ah, that makes sense. Even if I hate it, I'd have no choice but to eat it.
+"Ah, I get it. Even if I hate it, I'd still have to eat it.
 }
 [sha:5a29305f0597bddd92184214fc4a8dc8a02b8304]{
 -- Page 80, Offset 31066.
 -- ……なんだ、やっぱりなんでも出来るじゃないですか、それ」
-...Well, that means you can pretty much do anything with it, after all."
+I mean, that kinda makes it sound like you %{i}can%{/i} make people do anything..."
 }
 [sha:e5624e5d04f28340c1ff5bd39085f59a88fc2d69]{
 -- Page 81, Offset 31067.
 -- 「だから何でもじゃありませんってば。
-"As I said, I can't %{i}do%{/i} anything.
+"Like I said, it isn't quite %{i}that%{/i} convenient.
 }
 [sha:082e28f02b2ad86586b39226b5e24aed5b153f25]{
 -- Page 81, Offset 31068.
 -- そういった意味の挿げ替えはとても難しいんです。きちんと舞台を整えて、よっぽど巧い<物語|ストーリー>を作らないとかかってくれません。
-It's extremely difficult to insert an idea into someone's head. I'd have to properly set the stage and weave up a clever story, otherwise it wouldn't work.
+It's extremely difficult to insert an idea into someone's head.
+ I have to carefully set the stage and weave a convincing story to go along with it, otherwise it won't work.
 }
 [sha:9e302f9307699487ea18b2d241ac6b6fe40ee29e]{
 -- Page 81, Offset 31069.
 -- 暗示にかかりにくい人も大勢いますし、わたしに出来ることなんて『わたしを疑問に思わない』という暗示ぐらいです」
-Many are also resistant to suggestion, and the most I can do to them is suggest that 'I'm not someone to be doubted'."
+A lot of people are also resistant to suggestion,
+ so the most I can do to them is suggest that 'I'm not someone to be doubted'."
 }
 [sha:91a2eef790e3776e56001494e7156ebe3096bfce]{
 -- Page 82, Offset 31070.
 -- ……ああ、それは前にノエル先生も言っていたっけ。
-...Ah, I think Noel-sensei mentioned something along those lines before.
+Ah, I think Noel-sensei mentioned something along those lines before.
 }
 [sha:1541379aaac6570b3f42ca7e4f86ea3cad86eaa1]{
 -- Page 82, Offset 31071.
@@ -151,27 +160,28 @@ She said that Ciel-senpai created an environment where none of the students woul
 [sha:9d8f0a603257ab377aa98024251f93e9c02d7054]{
 -- Page 82, Offset 31072.
 -- それがシエル先輩がかけていた暗示だ。
-That is all the result of Ciel-senpai's suggestion.
+That's the extent of Ciel-senpai's suggestion.
 }
 [sha:e580eab675df677a121c1c7de40d5d1d5df85699]{
 -- Page 83, Offset 31073.
 -- だから―――学校のみんながシエル先輩を頼るようになったのは暗示とは関係ない。
-So that means―――the fact that everyone in school has come to depend on her has nothing to do with her suggestions.
+In which case... the fact that everyone in school has come to depend on her has nothing to do with her suggestions.
 }
 [sha:c7c443e6ef2afde028c8dbbd3374e31120545886]{
 -- Page 83, Offset 31074.
 -- 単に、この人がみんなのピンチを何度も救ってくれたから、自然に今の立ち位置になったんだ。
-Simply put, she helped anyone out whenever they were in need and naturally attained her current status.
+All she did was help people out when they were in need, rightfully earning her current status.
 }
 [sha:2c3fdc2bb3aad109a84f5a5bef99b56443433d90]{
 -- Page 84, Offset 31075.
 -- 「っと、そろそろ時間ですね。
-"Oh, it looks like time is almost up.
+"Oh, it looks like we're almost out of time.
 }
 [sha:948b266e89264e8604dd090924dece8dfd1b036d]{
 -- Page 84, Offset 31076.
 -- また昼休みに来ますけど、体の方は大丈夫ですか？　今朝はずいぶんと顔色が悪いようですが」
-I'll swing by again at lunch, but are you going to be okay? You look rather unwell this morning."
+I'll swing by again at lunch, but are you going to be okay?
+ You're looking a little under the weather this morning."
 }
 [sha:d80256b3a0d5c0991bdd1f0f9747004de7648669]{
 -- Page 85, Offset 31077.
@@ -191,7 +201,7 @@ I'm feeling pretty good, so I don't see why she'd think that...
 [sha:2aced87ce923b8520d45efb2a22abc66634c9530]{
 -- Page 86, Offset 31080.
 -- 「大丈夫ですよ。ちょっと寝過ぎたのか、体がだるいだけで」
-"I'm fine. Maybe I'm just sluggish cause I slept a bit too long."
+"I'm fine. Maybe a little sluggish from how much I slept, but that's about it.
 }
 [sha:d9a01009e2b77767d3401e19f0b4179a51cef739]{
 -- Page 86, Offset 31081.
@@ -206,7 +216,8 @@ I'm feeling pretty good, so I don't see why she'd think that...
 [sha:b0f421644899db0be37469897759b23f7f2d77f7]{
 -- Page 86, Offset 31083.
 -- そもそも、少しぐらい痛くても眼鏡をかけていれば問題はありません」
-Besides, even if hurts a little, it's not an issue when I put on my glasses."
+Besides, even if hurts a little,
+ it doesn't pose a problem so long as I keep my glasses on.
 }
 [sha:b79d559d443159f97dac41cc501d52f45a272ad3]{
 -- Page 87, Offset 31084.
@@ -216,7 +227,9 @@ Besides, even if hurts a little, it's not an issue when I put on my glasses."
 [sha:caba2b5ef47d792942427fe94be81269f827c70e]{
 -- Page 87, Offset 31085.
 -- でも油断は禁物ですよ。事件は解決しましたが、何があるか分かりませんから。というワケで、携帯をだしてください」
-But you shouldn't let your guard down. We may have resolved the incident, but we don't know what else lies in store for us. Which reminds me, please give me your phone."
+But you shouldn't let your guard down.
+ The incident may be over, but you never know what might happen.
+ Which reminds me, please take out your phone."
 }
 [sha:102dca4ff9ef0c1130544fcfb867b90cacddca73]{
 -- Page 88, Offset 31086.
@@ -231,27 +244,29 @@ I grab my phone from my pocket.
 [sha:6f34407bc43626303628d8e8e77f9e4f563ddabd]{
 -- Page 88, Offset 31088.
 -- ……と。先輩も同じように携帯端末を取りだしていた。
-...Then, Senpai does the same, also retrieving her phone.
+Senpai takes hers out as well.
 }
 [sha:b77cca1d2d33a9b9cdaaf3eaf739dd64651edbf0]{
 -- Page 88, Offset 31089.
 -- これは―――まさか―――！
-Wait―――could this be―――?!
+// Mans finally getting some digits
+Wait――could this be―――?!
 }
 [sha:1939bb2dc9cf55335fafc63c2c4e25534b2b7e10]{
 -- Page 89, Offset 31090.
 -- 「はい、これがわたしのメールアドレスと電話番号です。
-"Right, here's my mail address and phone number.
+"Right, here's my email address and phone number.
 }
 [sha:2ec43ec4c2cc8ee0a9ca830a699552b614ab7a3d]{
 -- Page 89, Offset 31091.
 -- よかったら遠野くんのアドレスも教えてくれますか？　大事な話はメールや電話の方がいいと思います」
-If it's okay with you, could you give me your address? I think it'd be better to discuss important affairs through mail or call."
+If it's okay with you, could you give me yours as well?
+ I think it'd be better to discuss important affairs by text or over the phone."
 }
 [sha:10f86aaa8ea2bbd68d086eb824d6e673a811c05c]{
 -- Page 89, Offset 31092.
 -- 「あ―――はい、もちろん！
-"Ah―――right, of course!
+"Ah――yes, of course!
 }
 [sha:f3c2a1fcb37a07a5ebb889a9fada8f6d55183281]{
 -- Page 89, Offset 31093.
@@ -266,12 +281,14 @@ Unable to control my excitement, I hastily fumble around with my phone.
 [sha:eb0bcc884f4a0b942d520ddf7b65e1cb1f6b111e]{
 -- Page 90, Offset 31095.
 -- ……我ながら情けない。生まれつき小市民なせいか、突然の幸福にまったく対応できていない。
-...A pathetic display, if I do say so myself. Perhaps it's because I'm a born member of the lower middle class, but I have absolutely no idea how to deal with this sudden influx of happiness.
+I can't believe how pathetic I must look...
+ Perhaps it's because I'm a born member of the lower middle class,
+ but I have absolutely no idea how to deal with this sudden stroke of good fortune.
 }
 [sha:74e702fe8ebe606604d56a1e861efd45bbbda9ad]{
 -- Page 91, Offset 31096.
 -- 「はい、確かにいただきました。
-"Right, I've certainly received it.
+"Alright, it looks like it came through!
 }
 [sha:73cb90b57862c6eca72f33d7188d6d5018f1209c]{
 -- Page 91, Offset 31097.
@@ -281,7 +298,8 @@ Well then, if you see anything odd, please don't hesitate to reach out."
 [sha:de16c415e62513f8ba9349bb35b309d54647b2c9]{
 -- Page 92, Offset 31098.
 -- 先輩は笑顔でそう言って階段を下りていく。
-Saying that with a smile, Senpai descends the stairs.
+// 言って dropped because it's kinda cumbersome EN
+Senpai flashes me a smile and heads off down the stairs.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 92, Offset 31099.
@@ -291,10 +309,11 @@ Saying that with a smile, Senpai descends the stairs.
 [sha:5a98f9fe04f7c84637a35def540736b0b940b193]{
 -- Page 92, Offset 31100.
 -- その背中を見送り、余韻にひたること数分。
-For a few minutes, I bask in the afterglow of seeing her off.
+For a few minutes, I do nothing but bask in the afterglow of seeing her off.
 }
 [sha:b897e9f6bc2d3be0fca5cb385041affa97c1a8cd]{
 -- Page 92, Offset 31101.
 -- 嬉しさで立ち尽くしている間に２時限目開始のチャイムが鳴っていた。
-As I continue to stand stock still in joy, the bell signaling the beginning of second period rings.
+As I stand there frozen in place with joy,
+ the bell rings to signal the start of second period.
 }
