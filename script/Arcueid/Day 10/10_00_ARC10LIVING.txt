@@ -69,7 +69,9 @@ A moon so dazzling it snatches my breath away.
 [sha:1e5ff559f8a1d2d5ee1ce5a06fd4783af8fe4bb2]{
 -- Page 889, Offset 26843. Mods: @n.
 -- ……不思議
-...How curious
+// Final dot in ellipsis is glued
+// lint-off:LintEllipses
+How curious..
 }
 [offset:26844]{
 -- Page 889, Offset 26844. Glued.
@@ -142,7 +144,7 @@ I quickly reach for my glasses on the nightstand before the dizziness takes root
 [sha:f5f2e6a17f1f927b96dc1d75240fcb33a9fcc67b]{
 -- Page 894, Offset 26857.
 -- 「……いや、昨日の疲れがまだ残ってるだけ。すぐによくなるから、心配は無用だよ」
-"...No, I'm just still tired from yesterday. I'll be back on my feet soon, so there's no need to worry."
+"No, I'm just still tired from yesterday. I'll be back on my feet soon, so there's no need to worry."
 }
 [sha:e9888b670f8b981174ec4960ad1782af8094c57a]{
 -- Page 895, Offset 26858.
@@ -193,7 +195,7 @@ I stand up from the bed.
 [sha:1116de10a1a476a2f6d9f8a9e0e98dde03eaf11e]{
 -- Page 898, Offset 26867.
 -- 時刻は朝の７時前―――いつもより10分ほど早い。
-It's just before seven in the morning―――about ten minutes earlier than usual.
+It's just before seven in the morning――about ten minutes earlier than usual.
 }
 [sha:265a36a8a7f88846f0796e71b4076e3b266b6636]{
 -- Page 899, Offset 26868.
@@ -219,7 +221,7 @@ Hisui makes her customary bow, and quietly takes her leave...
 [sha:84549c4274ee5ab4aee8ffda085eb0f42f9cade5]{
 -- Page 900, Offset 26872.
 -- 「………………あの、志貴さま」
-"...Um, Shiki-sama?"
+"Um, Shiki-sama?"
 }
 [sha:da2dff9f1e26db31a1e5542929efa1c5bcd47f60]{
 -- Page 900, Offset 26873.
@@ -229,7 +231,7 @@ Hisui makes her customary bow, and quietly takes her leave...
 [sha:d99eb319af0dbb9923acb0d1d392babdf50a246f]{
 -- Page 901, Offset 26874.
 -- 「…………いえ。何でもありません。
-"...No. It's nothing.
+"No... It's nothing.
 }
 [sha:e68a348795e549cfe6f98383d287ec7fb7c50a74]{
 -- Page 901, Offset 26875.
@@ -416,7 +418,7 @@ My appetite just wasn't there today either.
 [sha:0e641c3bf6af87c08402a1440733411d601d47d7]{
 -- Page 913, Offset 26909.
 -- そのせいでたっぷり30分かけた、学生にしては悠長な朝食になってしまった。
-Because of that, I spent a full %{i}thirty minutes%{/i} picking at my breakfast―――an eternity for a student.
+Because of that, I spent a full %{i}thirty minutes%{/i} picking at my breakfast――an eternity for a student.
 }
 [sha:1aa2493b4014a42ae1e1803dec252aa22f56dbec]{
 -- Page 914, Offset 26910. Mods: @k, @e.
@@ -470,7 +472,7 @@ Kohaku-san stares at me in silence.
 [offset:26919]{
 -- Page 916, Offset 26919.
 -- ……なぜか。
-...I wonder why.
+I wonder why...
 }
 [sha:d31cc8160aadcac6f5a063c0900590d0ab6471f6]{
 -- Page 916, Offset 26920.
@@ -480,7 +482,7 @@ Her unwavering gaze reminds me of... a machine, I guess.
 [sha:de43977af66ef8a25c90ddc6f19063cd0bc8876a]{
 -- Page 917, Offset 26921.
 -- 「……琥珀さん？　俺の顔、何かついてます？」
-"...Kohaku-san? Is there something on my face?"
+"Kohaku-san...? Is there something on my face?"
 }
 [sha:ad60546df068796462ae9bae82edb4af0ed85356]{
 -- Page 917, Offset 26922.
@@ -539,7 +541,7 @@ But you mustn't push yourself too hard, okay?"
 [sha:6933500233e788524267f589e68320c2e18f3510]{
 -- Page 922, Offset 26932.
 -- 「……ですね。今日は早めに帰ってきて休みますから、それで大目に見てください」
-"...Alright. I'll come home early today to rest, so please let this slide."
+"Alright. I'll come home early today to rest, so please let this slide."
 }
 [sha:ecc44fdc7826f9df3ef7c2f2e8a9076e67d731ae]{
 -- Page 922, Offset 26933.
@@ -609,7 +611,7 @@ It's lunch break.
 -- Page 926, Offset 26945.
 -- 有彦は休みらしい。今日の欠席者は乾有彦と弓塚さつきの二名。有彦はともかく、弓塚の欠席が続いている事が気になった。
 It seems Arihiko is taking the day off.
- That makes two absentees today―――Inui Arihiko and Yumizuka Satsuki.
+ That makes two absentees today――Inui Arihiko and Yumizuka Satsuki.
  Arihiko is one thing, but Yumizuka's continued absence has me a little worried.
 }
 [sha:221287c73c710965f04a7a108c7b887896b92e70]{
@@ -620,7 +622,7 @@ I hope it's nothing serious, like a cold or something, but...
 [sha:9ed29702bf9e11d34d4b2bc5959ed3df5cf539ab]{
 -- Page 927, Offset 26947.
 -- ところで、昼休み、は何をすればいいんだっけ。
-...What am I supposed to do during my lunch break again?
+What am I supposed to do during my lunch break again?
 }
 [sha:9d8d60378902d6874fe25a27036a272f76fc212a]{
 -- Page 927, Offset 26948.
@@ -640,6 +642,7 @@ I hope it's nothing serious, like a cold or something, but...
 [sha:527638a3c6aed53affd4fe229024d75471ddedfc]{
 -- Page 927, Offset 26951.
 -- …………食事。
+// lint-off:LintStartingEllipsis
 ......Lunch.
 }
 [sha:17a328774128726674ff552fa8d50ab5f45bafc5]{
@@ -766,7 +769,7 @@ Even though I'm out cold,
 [sha:90250ebfe3af919ba478b4ecac22d180f9385e3c]{
 -- Page 934, Offset 26975.
 -- ……その後はお決まりの展開だった。
-...After that, it was business as usual.
+After that, it was business as usual.
 }
 [sha:7e97842fdf54657b3d120f161e6234982af22883]{
 -- Page 934, Offset 26976.
@@ -927,7 +930,7 @@ The servant props up Tohno Shiki's body before it can hit the floor.
 -- Page 944, Offset 27005. Mods: @c.
 -- 「……いや、大丈夫。まだ歩くぐらいはできる。
 // Not voiced. Also slightly faded text. New modcode here - @c
-'...No, it's okay. I can still walk at least.
+'No, it's okay... I can still walk at least.
 }
 [sha:6043d62a515b7402926c3f36f941b28c3265dc11]{
 -- Page 944, Offset 27006. Mods: @c.
@@ -973,7 +976,7 @@ After saying that, the servant grasps my cold hands.
 [sha:9e03a1c8c155ca6e3ea496c1efb09887b5a36cac]{
 -- Page 947, Offset 27014. Mods: @c.
 -- 「……そっか。じゃあ、遠慮なく」
-'...I see. In that case, I leave it to you.'
+'I see. In that case, I leave it to you.'
 }
 [sha:f5056b6ecc4c0558a46cbf691eab0ce88ee616a3]{
 -- Page 947, Offset 27015.
@@ -984,17 +987,17 @@ I obediently surrender to her sweet-sounding voice.
 -- Page 948, Offset 27016.
 -- ……頼られたい。頼りたい。
 // isn't this the ending to a dead kennedy's song
-...I want to be relied on. I want to rely on others.
+I want to be relied on... I want to rely on others.
 }
 [sha:fd075bca30d335ce01089ec996c889e8c719b615]{
 -- Page 948, Offset 27017.
 -- ……守られたい。守りたい。
-...I want to be protected. I want to protect others.
+I want to be protected... I want to protect others.
 }
 [sha:c60366cb1d5c65ab52526d821f8b19b3711ef060]{
 -- Page 948, Offset 27018.
 -- ……生かされたい。生かしたい。
-...I want to live. I want to let live.
+I want to live... I want to let live.
 }
 [sha:4af20e995a178eddfacade766db9f514c41bbc01]{
 -- Page 949, Offset 27019.
@@ -1024,7 +1027,7 @@ The servant leading me by the hand begins to climb the stairs.
 [sha:735f5a363b3a5c039858f98562bea325dc02c11e]{
 -- Page 950, Offset 27024.
 -- ……歩くだけで明暗／断絶する。
-...Simply walking is enough to make my vision flicker in and out.
+Simply walking is enough to make my vision flicker in and out.
 }
 [sha:99924f53fb00db754b7ab30d95206366e5958585]{
 -- Page 950, Offset 27025.
@@ -1035,7 +1038,7 @@ In my dazed state, all I can do is put one foot in front of the other,
 [sha:1ef8f8d9b57dcc46fef087bfcfe2cfb968676368]{
 -- Page 951, Offset 27026. Mods: @c.
 -- 「あ――――れ？」
-'――――Huh?'
+'―――Huh?'
 }
 [sha:e953b4681d28600517cb3e1a160601fb61475cb4]{
 -- Page 951, Offset 27027.
@@ -1076,14 +1079,14 @@ There's no response from the servant.
 [sha:4b7c04ff90a4e0909e41e4a46aebb8d7d726a0eb]{
 -- Page 952, Offset 27034.
 -- いや、そればかりか―――甘かった手の感触も、もう見慣れた筈の給仕服さえ、ない。
-No, that's not all―――
+No, that's not all――
 I no longer feel the sweet touch of her hands,
  nor is there any sign of the maid outfit I'm so used to seeing.
 }
 [sha:4b1d1ed7f94f468055214b160d309f9d95b31b38]{
 -- Page 953, Offset 27035. Mods: @c.
 -- 「……あれ……」
-'...Huh...'
+'Huh...'
 }
 [sha:456d1a0c3f116cfd4ec2c50d96aded708ceb79b0]{
 -- Page 953, Offset 27036.
