@@ -27,8 +27,9 @@ I don't know...
 [sha:7b114f45932999292efca5498a292cc6c86c2b67]{
 -- Page 2, Offset 27058.
 -- 理由はあった筈だし、経緯だってあった筈だ。
-I must have had some reason to;
- there must have been some story behind why I feel this way.
+// I think this is okay for unvoiced dialogue
+I must have had some reason to.
+ There must have been some story behind why I feel this way.
 }
 [sha:56ed2dc33bbfffc3c5e044b7c1ce9b4963b82c95]{
 -- Page 2, Offset 27059.
@@ -149,7 +150,8 @@ I'm greeted by the morning sunshine,
 -- Page 8, Offset 27081.
 -- どうかお気を確かに」
 // Reading this as snap out of it / don't fall back asleep
-Please do not fall back to sleep."
+// Reads better as "go back to sleep" or "fall back asleep"
+Please do not go back to sleep."
 }
 [sha:02d5edbc2c22c4d76b333552a1c93f9073f1352c]{
 -- Page 9, Offset 27082.
@@ -214,8 +216,9 @@ My head is still pounding, but it ought to clear up soon enough.
 [sha:e2196cf2c35cbefffb6747084998731f94e0beb8]{
 -- Page 14, Offset 27093.
 -- 「だいじょうぶ、頭痛はすぐに治まる。体調だって悪くないし、ここのところ調子はいい。考え事があって、ちょっと寝不足なだけなんだ」
+// Gramatically correct but mamma mia that's a lotta semicolons
 "It's just a headache, it won't last.
- Physically I'm fine; I've actually been feeling pretty good lately.
+ Physically I'm fine, and I've actually been feeling pretty good lately.
  I've just not been getting a lot of sleep; had a lot to think about."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -279,7 +282,7 @@ If you must go, I humbly ask that you not strain yourself too much."
 -- Page 17, Offset 27105.
 -- 翡翠は何か言いたそうな目のまま退室していった。
 Hisui leaves the room,
- though judging by the look in her eyes that wasn't all she wanted to say.
+ though judging by the look in her eyes, that wasn't all she wanted to say.
 }
 [sha:0ae9bf0550177a5f3b4ae4e185ee7fb359482b12]{
 -- Page 18, Offset 27106.
@@ -295,7 +298,7 @@ My splitting headache flares up again.
 -- Page 18, Offset 27108.
 -- 翡翠と話をしていた時は治まっていたクセに、一人になった途端にズキズキと痛みだす。
 It died down a bit while I was talking with Hisui,
- but the moment she left it came roaring right back.
+ but the moment she left, it came roaring right back.
 }
 [sha:262f624a0cf83ee5ff6bf89e0d12f0d4261fc3ea]{
 -- Page 19, Offset 27109.
