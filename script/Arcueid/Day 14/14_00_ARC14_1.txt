@@ -6,7 +6,7 @@
 [sha:3788db672ac8d13ca3973c8d7ee4f3b5799f6bb4]{
 -- Page 1, Offset 36749.
 -- ……聞き慣れた声がする。
-...I hear a familiar voice.
+I hear a familiar voice...
 }
 [sha:0bc95884911f92e3a3af180a4d1e226253349976]{
 -- Page 2, Offset 36750.
@@ -22,7 +22,7 @@ If you are late for a second time in as many days,
 [sha:a9185b9fd90c37c1f7f738c49e2ee5b1c94570e3]{
 -- Page 3, Offset 36752.
 -- ……切迫しているのか落ち着いているのか、なんとも判別しにくい声がする。
-...It's hard to tell whether there's a sense of urgency in her voice or not.
+It's hard to tell whether there's a sense of urgency in her voice or not...
 }
 [sha:16985cbc0832d25f6cd6585a3fdcdfc3706cbb86]{
 -- Page 4, Offset 36753.
@@ -38,12 +38,12 @@ This morning, you will once again be scolded by Akiha-sama.
 [sha:eb66952e40f549a64562cbe83157d62787a1fdcf]{
 -- Page 5, Offset 36755.
 -- ……いや、世にも恐ろしいまとめをしないでほしい……。
-...I'd really rather not hear any more of this profoundly terrifying schedule...
+I'd really rather not hear any more of this profoundly terrifying schedule...
 }
 [sha:a813a89b5ad41bd19009f1591f2cc92479e639e0]{
 -- Page 6, Offset 36756.
 -- 「……起きる。起きるから、ちょっと待って」
-"...I'm awake. I'll get up, so just hold on a sec."
+"I'm awake... I'll get up, so just hold on a sec."
 }
 [sha:792274e8b3a8281a020784f527dae09d33090b70]{
 -- Page 6, Offset 36757.
@@ -211,7 +211,7 @@ In the end, I still have a hole in my heart that I'll never be able to fill.
 [sha:f80733fbd23261bb2dfb0d882f0b4671057cc91d]{
 -- Page 19, Offset 36788.
 -- ……なんとか、耐えていけている。
-...I'm not sure how, but I'm able to endure.
+I'm not sure how, but I'm able to endure.
 }
 [sha:09d21ad3b43af126150e3eb42d74f1b504acc584]{
 -- Page 19, Offset 36789.
@@ -252,7 +252,7 @@ Even though I know it's pointless,
 [sha:575d1f5a263704bfa8da96d8424d884766163f72]{
 -- Page 22, Offset 36795.
 -- 「……はあ。秋も、じき終わりかな」
-"...%{i}Sigh%{/i}. Seems like autumn's almost over already."
+"%{i}Sigh%{/i}... Seems like autumn's almost over already."
 }
 [sha:41028d35e3df0339ec9863fc8251232bab4b9552]{
 -- Page 22, Offset 36796.
@@ -308,7 +308,7 @@ I've been waiting like this for a long time.
 [sha:a5ee2547fcc3cda97f152b7c2da1fbe9cc4527be]{
 -- Page 25, Offset 36806.
 -- 彼女との約束を覚えていて、それを忘れられないかぎり、この風景が消えるまで、ここで待ち続ける。
-And I'll keep waiting―――
+And I'll keep waiting――
 I'll sit here and watch the scenery outside fade away, day after day,
  until the day comes when I can no longer remember the promise that I made to her.
 }
@@ -344,7 +344,7 @@ I'm pretty sure she'd tilted her head at me in confusion.
 [sha:d8af075cd7c2454f4878f8cea03a4de8a600ce61]{
 -- Page 28, Offset 36812.
 -- ……言葉では、そんな事を口にして。
-...I remember saying something along those lines.
+I remember saying something along those lines...
 }
 [sha:95fb8e5d519c264878a641c9d6d6596c619a5b16]{
 -- Page 28, Offset 36813.
@@ -529,7 +529,7 @@ But somehow, I feel incredibly calm.
 -- Page 37, Offset 36848.
 -- 「……まいったなぁ。本当はそっと消えるつもりだったんだけど、志貴、いつまでも待ってるんだもん。
 // Vampirish goodbye
-"...I give up. I really %{i}was%{/i} planning on disappearing quietly, but you'd just keep waiting for me forever, Shiki.
+"I give up... I really %{i}was%{/i} planning on disappearing quietly, but you'd just keep waiting for me forever, Shiki.
 }
 [sha:f8af39b436c9087976543ebfa470e01de456ae6a]{
 -- Page 37, Offset 36849. Mods: @n.
@@ -549,7 +549,9 @@ She smiles softly, as though embarrassed.
 [sha:23fec8d54537b582c0317034be62c2af5e0c82f7]{
 -- Page 38, Offset 36852. Mods: @n.
 -- 「……そりゃあ、そうだよ
-"...Well, of course I did
+// Third . in ellipsis glued
+// lint-off:LintEllipses
+"Well, of course I did..
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 38, Offset 36853. Glued.
@@ -599,12 +601,12 @@ But either way, I have to thank her for granting my wish.
 [sha:60925a860056181130ac32680f02720dcd12140e]{
 -- Page 40, Offset 36862.
 -- 「……なんで？」
-"...Why?"
+"Why?"
 }
 [sha:ff55caa7e7166f58609840768377233e1a62701a]{
 -- Page 41, Offset 36863.
 -- ……自分でも驚く。
-...I'm surprised at myself.
+I'm surprised at myself...
 }
 [sha:29dce760ed17a3e0618043d4f0c0e43d993abb78]{
 -- Page 41, Offset 36864.
@@ -615,7 +617,7 @@ I was able to ask her that question in a truly gentle tone, with neither anger n
 [sha:dda876f4397334c591fce6696a6805b5033ba22e]{
 -- Page 42, Offset 36865.
 -- 「……うん。志貴にはわたしがロアを追いかけている理由を話してなかったよね。
-"...Well. I never told you the reason I was chasing Roa, did I?
+"Well... I never told you the reason I was chasing Roa, did I?
 }
 [sha:8c564dc22f334939ef9f9bcdecf30c8c3694bdcf]{
 -- Page 42, Offset 36866.
@@ -632,7 +634,7 @@ Um, the truth is...
 [sha:51346474b81a754c1ccac97d58f9a5f512ac7a75]{
 -- Page 43, Offset 36868.
 -- 「……それが、ロア？」
-"...And that man was Roa?"
+"And that man was Roa?"
 }
 [sha:876504be1e048a9791e4bace302c2871b6ec3374]{
 -- Page 43, Offset 36869.
@@ -650,10 +652,10 @@ But it turned out that it simply took a while for my urges to develop."
 -- 「その時まで……血に渇く時が来るまで、わたしは自分が吸血種である事さえ意識しなかった。
 "Until that happened... until I began to thirst for blood, I didn't even know that I was a bloodsucker.
 }
-[sha:9e90f0f9af22e617cdd61cff69a69e6a167eabbe]{
+[offset:36872]{
 -- Page 44, Offset 36872. Mods: @n.
 -- だから―――
-That's why―――
+That's why――
 }
 [sha:214cee8c8c8722d6bc2d1a4c605971aeab2a5cce]{
 -- Page 44, Offset 36873. Glued.
@@ -688,7 +690,7 @@ With just one mistake, I ended up destroying everyone.
 [sha:bb7df220c9343c2942bb7f55f9515463a5d4ff65]{
 -- Page 46, Offset 36879.
 -- ……だから二度と人の血は吸わない。
-...That's why I vowed never to drink blood again.
+That's why I vowed never to drink blood again...
 }
 [sha:8a653af5e8cc65b3e86b4220f857bc6daf7d0572]{
 -- Page 46, Offset 36880.
@@ -704,7 +706,7 @@ But True Ancestors that have tasted blood, even if only once,
 [sha:d56cf344fbe9a6ec0bab20b5ea33bd6df3afd133]{
 -- Page 47, Offset 36882. Mods: @n.
 -- 「……わたしがこうしていられるのはね、志貴がロアを完全に
-"...The only reason I can be here right now is because you
+"The only reason I can be here right now is because you
 }
 [sha:6ff66bdefcd520d60759c2c0c29edc5d6628e15b]{
 -- Page 47, Offset 36883. Glued.
@@ -715,7 +717,7 @@ But True Ancestors that have tasted blood, even if only once,
 -- Page 47, Offset 36884.
 -- 今まで何度あいつを消滅させても、消えるのは肉体だけで魂までは殺せなかった」
 No matter how many times I annihilated him,
- only his body would disappear―――I couldn't kill his soul."
+ only his body would disappear――I couldn't kill his soul."
 }
 [sha:74f142602b3a5585befa26197b0e2ab19dcd08cb]{
 -- Page 48, Offset 36885.
@@ -730,7 +732,7 @@ When you did, the power that he had stolen returned to me, and I was able to rev
 [sha:74a98d7aa3bddc9682609ab39ffa733a816dbc73]{
 -- Page 49, Offset 36887.
 -- 「―――そ――――な、コト」
-"―――T――――hat..."
+"―――T――hat..."
 }
 [sha:4c65abc6b36ad77d6fca57052d57a5adf5da9802]{
 -- Page 49, Offset 36888.
@@ -741,17 +743,17 @@ When you did, the power that he had stolen returned to me, and I was able to rev
 [sha:bfc707ea9f1d7a1d0f16a03c527dea53e3877699]{
 -- Page 49, Offset 36889.
 -- だから――――」
-That's why――――"
+That's why―――"
 }
 [sha:b06311d454ad8be938b2e90ccf1665670b14b320]{
 -- Page 50, Offset 36890.
 -- 「―――そんなコト―――どうでも、いい」
-"―――That―――doesn't matter."
+"―――That――doesn't matter."
 }
 [sha:c31ac456d1288c96100a040d44bb47c4634a7eab]{
 -- Page 50, Offset 36891.
 -- 「……志貴とは、もう会えない。
-"...I can't see you anymore.
+"I can't see you anymore.
 }
 [sha:efa5d47f74abd93ee26ae823dae0899f9c1a1ada]{
 -- Page 50, Offset 36892.
@@ -761,12 +763,12 @@ I'm sorry for breaking our promise."
 [sha:63e47f5b5de645bb206100221043080131b68e9d]{
 -- Page 50, Offset 36893.
 -- ……そんなコトは、どうでもいいんだ。
-...That doesn't matter anymore.
+That doesn't matter anymore...
 }
 [sha:377888d9e5ba6d6cd89926c59b349de60b0d956f]{
 -- Page 50, Offset 36894. Mods: @n.
 -- ただ俺は―――
-I just―――
+I just――
 }
 [sha:2aea910df870d8d66e4c005c3bf6f6fc00a4ef21]{
 -- Page 50, Offset 36895. Glued.
@@ -776,7 +778,7 @@ want you to stay by my side.
 [sha:d00c91cdd811d10ff2c2858edef65fb59a244051]{
 -- Page 51, Offset 36896.
 -- 「……約束、守れるよ」
-"...There's a way for you to keep that promise."
+"There's a way for you to keep that promise."
 }
 [sha:2e23bbf195857becaa4e7e888732281dbc5ea631]{
 -- Page 51, Offset 36897.
@@ -877,7 +879,7 @@ I wanted to stop her.
 [sha:94fe3354e2f98993f65cdca74c09a2ac0491560c]{
 -- Page 56, Offset 36916.
 -- ――――たとえ殺してでも、止めたかった。
-――――I wanted to stop her, even if it meant killing her.
+―――I wanted to stop her, even if it meant killing her.
 }
 [sha:8f57802413155ab778d2ce380299d9366b32e81a]{
 -- Page 56, Offset 36917.
@@ -907,7 +909,7 @@ My throat is trembling so much that I can't speak.
 [sha:f7bf1567dddabff3ba9c711c88091df5d8798492]{
 -- Page 58, Offset 36922.
 -- それでも―――お別れを、言わないと。
-Even so―――I have to say my goodbyes.
+Even so――I have to say my goodbyes.
 }
 [sha:f9cc505befe0040244962a831a1d3e0413f80f3b]{
 -- Page 58, Offset 36923.
@@ -922,7 +924,7 @@ I think I knew it was the proper way to send off someone that was dear to me.
 [sha:e35278022832500918d4d5bed2ad089d89524435]{
 -- Page 59, Offset 36925.
 -- 「……俺は、嘘つきだ」
-"...I'm a liar."
+"I'm a liar..."
 }
 [sha:0169a57c2ae2e1e747c46907e69a3ad275c54106]{
 -- Page 59, Offset 36926.
@@ -947,7 +949,7 @@ Even though I %{i}swore%{/i} that I would...
 [sha:d279e2b709c537cefc67201631e2b9888a1ecb2a]{
 -- Page 60, Offset 36930.
 -- 「……ううん、そんなコトない。
-"...No, you did.
+"No, you did.
 }
 [sha:12eb45932da7f495b5710cdcdabf24df55cfc178]{
 -- Page 60, Offset 36931.
@@ -990,7 +992,7 @@ For her to... I―――
 [sha:2b715fd0a1c115d6f3ea988021e7d865bc3a8c47]{
 -- Page 62, Offset 36938.
 -- 「……優しいね、志貴。
-"...You really are kind, aren't you, Shiki.
+"You really are kind, aren't you, Shiki.
 }
 [sha:38d28811ebae61706be50e63cae0c60cd205b3e8]{
 -- Page 62, Offset 36939.
@@ -1010,7 +1012,7 @@ I love your honesty, your recklessness, how you're only fussy toward me, and how
 [sha:6e3fd00ebbb21dc0b1d9f0fb33684f2d9684292b]{
 -- Page 63, Offset 36942. Glued. Mods: @x.
 -- だから、お願い。これからもずっと、そのままで生きていってね」
- So, please―――keep on living just the way you are."
+ So, please――keep on living just the way you are."
 }
 [sha:92acc7b12ae14de7fff513feeced79a21402947e]{
 -- Page 63, Offset 36943.
@@ -1050,7 +1052,7 @@ She was smiling right up until the end, so the least I can do is hold back my te
 [sha:dc5c2dc290a72f2bd8aeb5ff86f581fc49485c72]{
 -- Page 66, Offset 36950.
 -- 「………そっか。約束、守ったじゃないか、おまえ」
-"...I see. You kept your promise after all, didn't you?"
+"I see... You kept your promise after all, didn't you?"
 }
 [sha:23a0e1f7bc9e52952d15c80f75af20eb3ad6aec6]{
 -- Page 66, Offset 36951.
@@ -1067,7 +1069,7 @@ She made sure to keep the promise we'd made to meet here again,
 [sha:ee0bdd30cc74938278f8f04249fb286aa25b6ea7]{
 -- Page 67, Offset 36953.
 -- ……失ったものがあるけれど、これで、終わったんだ。
-...I may have lost something, but with this, everything is over.
+I may have lost something, but with this, everything is over.
 }
 [sha:6eed8207c7c25548ca9e923b483de2cc2aa5669b]{
 -- Page 67, Offset 36954.
@@ -1152,7 +1154,7 @@ I wanted to feel more of her warmth.
 [sha:e0f85177c7e4c4b4c4db5470cd030b52843a1849]{
 -- Page 69, Offset 36970.
 -- もっと――――もっと、あの笑顔を、見ていたかった。
-I wanted――――to see more of that smile.
+I wanted――to see more of that smile.
 }
 [sha:51d63c9088a4154f503d52d999d986058ef2fe60]{
 -- Page 70, Offset 36971.
@@ -1178,7 +1180,7 @@ She kept on smiling, right up until the end,
 [sha:80b429adfc370204881d0e73364e3ca5c1fbe56f]{
 -- Page 71, Offset 36975.
 -- 「……ばか……やろう……」
-"...You... idiot..."
+"You... idiot..."
 }
 [sha:c1d02aaa3dcd3ed0175aa372fbdb46cb34d525c2]{
 -- Page 71, Offset 36976.
@@ -1188,7 +1190,7 @@ That was her final wish.
 [sha:a84f7328abdbf94e8dfe559639a2f4a0ce43baf5]{
 -- Page 71, Offset 36977.
 -- ……俺の深層が、その実、死人そのものの空虚さであり。
-...In truth, deep down, I'm as hollow as a corpse.
+In truth, deep down, I'm as hollow as a corpse.
 }
 [sha:7281d1f7b4ba57df4adcc42f1f5125419959a27a]{
 -- Page 71, Offset 36978.
@@ -1198,7 +1200,7 @@ I know all too well that I'm a coward who simply bottles up all the fear he feel
 [sha:bbda6b9b55ae4b59ac30fe2703ae3f45588e5648]{
 -- Page 72, Offset 36979.
 -- どんなに、この不確かな生が辛くても―――今は誤魔化して誤魔化して、いつか思い出と振り返れる時まで、前向きに生きていってと、笑顔で言い残した。
-With a smile, she told me that no matter how difficult this precarious life may be―――
+With a smile, she told me that no matter how difficult this precarious life may be――
 right now I just have to convince myself that everything's fine and keep on moving forward,
  until the day comes when I can look back and reminisce about the past.
 }
@@ -1225,7 +1227,7 @@ Then I have no choice but to fulfill that wish of hers.
 [sha:17b38e91f743d512582c549491b668029b637897]{
 -- Page 74, Offset 36984.
 -- 「…………あ」
-"......Ah."
+"Ah..."
 }
 [sha:b2604829eefbbdba84bc328ece06bd22f9b90625]{
 -- Page 74, Offset 36985.
