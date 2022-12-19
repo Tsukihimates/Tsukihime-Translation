@@ -1,32 +1,35 @@
 [sha:1bb6231e53ceb1564a4faa9d413af9b2fe53509f]{
 -- Page 10019, Offset 27521.
 -- 今までなんとなく訊けなかった、ノエル先生との関係を訊いてみよう。
-I try my luck asking her about her relationship with Noel-sensei, something I've never enquired about until now for some reason.
+I've never really asked about her relationship with Noel-sensei,
+ so maybe now's a good time to get some insight on that.
 }
 [sha:f5988ccbfa19147f5c62e5b4b634c7bb691bf468]{
 -- Page 170, Offset 27522.
 -- 「シエル先輩とノエル先生って、仲がいいですよね。
-"You're such good friends, you and Noel-sensei.
+"You and Noel-sensei really seem to get along.
 }
 [sha:02022d53ae98e339efd40ef0b2d2bd4279598f52]{
 -- Page 170, Offset 27523.
 -- ノエル先生、シエル先輩のこといつも“すごい子だ”って褒めてましたよ」
-Noel-sensei is always heaping praises on you, saying how you're an incredible girl."
+// I checked and not once has she said “すごい子”
+She's always singing your praises and talking about what in incredible girl you are."
 }
-[sha:65448d0931938fea7c719e6ce600b3ac5edd2762]{
+[offset:27524]{
 -- Page 170, Offset 27524.
 -- 「え」
-"Huh?"
+"%{i}Wha%{/i}―――?!"
 }
 [sha:799d039dbe80b464e35ed7090b65f8cc912ee88e]{
 -- Page 171, Offset 27525.
 -- ものすごい声がした。
-That was an astonishing reaction.
+What a dramatic reaction.
 }
 [sha:fad3a056cbb01a032910bfb1c55f8ee663269e47]{
 -- Page 171, Offset 27526.
 -- いつも穏やかな先輩にあるまじき、全力の否定声だった。
-A full-strength denial, uttered in a tone wholly unsuited to how calm she usually is.
+// 'Denial', 'repudiation' for 否定 doesn't really map great onto the actual sounds she emits here imo
+The vehement disbelief in her voice is completely out of character for the ordinarily calm and collected Ciel-senpai.
 }
 [sha:6c19f3ffc635f025d15f1337322b12d2dfe99369]{
 -- Page 172, Offset 27527.
@@ -36,87 +39,99 @@ A full-strength denial, uttered in a tone wholly unsuited to how calm she usuall
 [sha:1dd374d8e7a3d8b93918d5b92883ef1c98563493]{
 -- Page 172, Offset 27528.
 -- あえてこの路線で話を進めてみる。
-Since I dared to venture on that path, I'll ask further.
+This seems like a potentially risky line of inquiry, but I continue anyway.
 }
 [sha:dc05d6f65014cfe649e766d1c0f68c714cbdd807]{
 -- Page 172, Offset 27529.
 -- 先輩は、
-Senpai―――
+// Did you REALLY need this fragment here buddy
+Senpai responds―――
 }
 [sha:a2de5acc38bf7141867982bd268870b6a4b9d0fe]{
 -- Page 173, Offset 27530.
 -- 「え、ええ。まあ。シスター・ノエルとは、もう何年もコンビを組んでいますから。
-"Ah, uh, well. It's true that Sister Noel has been my partner for many years.
+"A-Ah, well... It's true that Sister Noel has been my partner for many years.
 }
 [sha:506c99835d5c7a441ee43f129e0d3565f8d3e4d7]{
 -- Page 173, Offset 27531.
 -- あの……遠野くんにはそう見えているんですか？　あと、彼女がわたしを褒めていたんですか？　本当に？」
-Um... Does it look like this to you, Tohno-kun? And... She praised me? Really?"
+// I would have expected this 'Uhh is that really how it looks to you, buddy' to be more sarcastic, but the VA sounds kinda earnest?
+// Next line also kinda makes it sound like she's actually worried about it
+Um... is that really your honest impression, Tohno-kun?
+ And... you said she praised me? Is that true?"
 }
 [sha:c443d1e7e936f58d4dda730ee412f2971898fad8]{
 -- Page 174, Offset 27532.
 -- まるで叱られた子供のように、おそるおそる、そんな質問で返してきた。
-Senpai replies with a question of her own, very timidly, like a child who was being scolded.
+Senpai replies with a timid question of her own,
+ like she's a child that's just been scolded for something.
 }
 [sha:99b58a0195e14d4230d72273aab718cb17dfc2e1]{
 -- Page 174, Offset 27533.
 -- ……失敗したかもしれない。
-...I may have fumbled up.
+This may have been a bad call...
 }
 [sha:f5e11e2ebab27e782dff818b2e88a3ac0fb427e5]{
 -- Page 174, Offset 27534.
 -- これは、俺が感じているより根が深い問題のようだ。
-It appears to be a deeper-rooted problem than I expected.
+// Everyone here needs therapy
+It seems there's a lot more to unpack on this subject than I thought.
 }
 [sha:0cdb6ae4e8f151ed7e391b7b41cfb38fa98ad9ca]{
 -- Page 175, Offset 27535.
 -- 「すみません、ちょっと探りを入れました。
-"I'm sorry. I sticked my nose too far.
+"I'm sorry, I didn't mean to pry.
 }
 [sha:7c3aa7686b2d21763a16bb4a21f631e29a4b005d]{
 -- Page 175, Offset 27536. Mods: @n.
 -- 一見すると二人の仲はいいように見えますが、
-At first glance, it seems like you have a good relationship, but―――
+On the surface it looked like the two of you were on good terms, but...
 }
 [sha:10eab7eefaf8284bdaef00303c1f1eb0c4e9738e]{
 -- Page 175, Offset 27537. Mods: @n.
 -- ノエル先生はシエル先輩への敵愾心……
-If Noel-sensei feels enmity toward you...
+It seemed like Noel-sensei maybe had it out for you a little―――
 }
 [sha:cf4475e803ddbc7d4c7883a2ed709c20b7cdc2c2]{
 -- Page 175, Offset 27538. Mods: @n.
 -- というか、競争意識があって、
-And maybe, a spirit of competition―――
+Well, maybe it's more like she's being competitive―――
 }
 [sha:1a646a302b2ad84e09b7eae36bed32c2cad50df6]{
 -- Page 175, Offset 27539.
 -- シエル先輩は、ノエル先生にどことなく遠慮しているように見えます」
-Then, you somehow don't seem to indulge her, Ciel-senpai."
+And I had the impression that you also act a little reserved toward Noel-sensei."
 }
 [sha:1b524d9093947eccaec3e19b51b42a5ef27c9be6]{
 -- Page 176, Offset 27540.
 -- 「……もう。わたしとノエル先生が不仲ではないのか、と心配しての質問でしたか」
-"Goodness... Was your question motivated by a sense of worry that we were on bad terms?"
+"Goodness... So your question was out of concern that Noel-sensei and I are on bad terms with each other?"
 }
 [sha:f5510d01d4881c29090a53d2c39fb29dc4d179c0]{
 -- Page 177, Offset 27541.
 -- 「ご安心を、それは遠野くんの杞憂ですので。
-"Your fears are unfounded, you can rest easy, Tohno-kun.
+"Rest assured, there is nothing to be worried about on that front, Tohno-kun.
 }
 [sha:536ca6e35f7c45923cd9afe17eeb7610f6f95a19]{
 -- Page 177, Offset 27542.
 -- わたしたちは代行者です。互いの役割に私情を持ち込みませんし、私生活には踏み込みません。
-We are Executors after all. We don't bring personal feelings into our duties, nor do we pry into the other's private life.
+We're Executors, after all. We don't bring personal feelings into our duties, nor do we pry into each others private lives.
 }
 [sha:1551a84dfb10d0c760ad8be0ca539ff6708061c4]{
 -- Page 177, Offset 27543. Mods: @n.
 -- ノエル先生が何に興味を持ち、時間外なのに遠野くんに
-I won't criticize her, even if something tickles her fancy and Noel-sensei noses around you outside regular hours―――
+// Moved into the next line so that it doesn't break weirdly for no reason.
+// This line is @n so doesn't result in any super funky behaviour, just a space between grafs
+%{nothing}
 }
 [sha:16f18de60ff77303e19400c2d7dfb283af75091b]{
 -- Page 177, Offset 27544.
 -- ちょっかいをだしたり、職務のあとどれほど深酒をしていようと、咎めたりする事はないのです」
-Or even if she drinks herself silly after work."
+// She's just like me fr
+Noel-sensei may have strange tastes,
+ take passes at you during her off hours,
+ and drink herself into a coma after work,
+ but you'll definitely never see me criticize her for any of that, certainly not."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 178, Offset 27545.
@@ -126,57 +141,62 @@ Or even if she drinks herself silly after work."
 [sha:0d6e38998772153e7dccc84af60f8c72c9d90912]{
 -- Page 178, Offset 27546.
 -- それは不仲ではない、というより、なんの交友もない、というのではないだろうか？
-It seems less like a matter of being on bad terms, and more like there isn't any camaraderie between them, doesn't it?
+She's right, that doesn't make it sound like they're on bad terms.
+ It makes it sound like they don't interact %{i}at all%{/i}.
 }
 [sha:b5680e8541edf535c304d090e86b825fa94f0e04]{
 -- Page 178, Offset 27547.
 -- ……シエル先輩、友達作り下手なのかな……。
-...Is Ciel-senpai bad at making friends?
+Is Ciel-senpai... bad at making friends...?
 }
 [sha:9cec6cbe9499dac97b87061ba79597448ab6d942]{
 -- Page 179, Offset 27548.
 -- 「じゃあ吸血鬼を退治する時以外、会ったりはしていない、と……それもそうか。
-"Meaning that except when exterminating vampires, you don't meet at all... Makes sense.
+"So the two of you don't meet up unless you're exterminating vampires...
+ That makes sense, I suppose.
 }
 [sha:8346b7996dfc7623cbc4e9e38fa18a822c38cd03]{
 -- Page 179, Offset 27549.
 -- 歳も離れているし、趣味も違いそうだし、休日一緒に過ごしている二人を想像できないし」
-She's older than you and you don't have the same interests, I can't imagine the two of you being together on a free day."
+There's obviously the age gap, and I get the feeling you don't really share any interests,
+ so I guess I can't really picture you hanging out in your free time."
 }
 [sha:f29ce5a86bb3af7eb77893800f3526081640f6f7]{
 -- Page 180, Offset 27550.
 -- 「…………歳が離れている…………。
-"She's... older than me...
+"The... age gap...?
 }
 [sha:c799fe205cee2d844321c889459897b750e7703e]{
 -- Page 180, Offset 27551.
 -- 参考までに質問させてください。わたしくらいの子が、ノエル先生と一緒にいるのは不自然ですか？」
-Allow me to ask you a question just for information. Does it look strange that Noel-sensei partners with someone like me?"
+Purely out of curiosity――
+does it seem strange to you at all that someone my age is partnered with Noel-sensei?"
 }
 [sha:f9f967a2057a8f3158de7ed62cf417f02f73ba64]{
 -- Page 181, Offset 27552.
 -- 「まあ、教師と生徒の関係ですから。
-"Well, one is the teacher and the other is the student.
+"I mean, you're student and teacher, right?
 }
 [sha:670759126a4409620b45a900284346dd09a903fa]{
 -- Page 181, Offset 27553.
 -- ノエル先生、教師としては若いといっても25歳だし」
-Noel-sensei, though young for a teacher, is twenty-five years old."
+Noel-sensei's a bit young for a teacher, but she's still twenty-five."
 }
 [sha:283ee2efbd144ad7cf0517dc3a1fc2287fcb3c37]{
 -- Page 181, Offset 27554.
 -- 「ま゛？」
-"Wha...?"
+"%{i}Wha%{/i}―――?!"
 }
 [sha:7be08eb9bd0badc34ed7d7aab933c5d59aa65f3e]{
 -- Page 182, Offset 27555.
 -- 再度、ものすごい声がした。
-Once again, that was an astonishing reaction.
+That makes two dramatic reactions.
 }
 [sha:8796bdf9a69358d98987b9e3c11d27fe1196f0b2]{
 -- Page 182, Offset 27556.
 -- どんな発言も笑顔で受け止める先輩とは思えない、驚愕の威嚇音だった。
-A frightening sound of astonishment that I would never have expected to hear from Senpai, who normally takes in any kind of proclamation with a smile on her face.
+I'm used to seeing Senpai take basically anything I say in stride,
+ but it seems my comment has left her almost aggressively surprised.
 }
 [sha:2c899c4f836d99efff08ab751bd81883114014b5]{
 -- Page 183, Offset 27557.
@@ -186,16 +206,20 @@ A frightening sound of astonishment that I would never have expected to hear fro
 [sha:5ea6c7d9e2480693d82724dfbd36b42f02be4951]{
 -- Page 183, Offset 27558.
 -- 「……25歳って……潜入任務ですから、多少の偽装はするでしょうけど……シスター・ノエル……」
-"Twenty-five years old, she says... An undercover operation needs some degree of disguise, but... Sister Noel..."
+"Really, twenty-five years old...
+ I appreciate that an undercover mission calls for a disguise, but... Sister Noel..."
 }
 [sha:9dd05b658a3f1292044f0132336abe3f748a9830]{
 -- Page 184, Offset 27559.
 -- ヤバイ。この話題、これ以上踏み込むと危険な気がする。後でノエル先生に背後から襲われかねない。
 // Noel-chan is a sweet girl, she'd never do that!
-Crap. I fear that continuing on that topic any longer will be dangerous. Noel-sensei could very well assault me from behind later on.
+Crap.
+ I feel like digging any deeper on this subject is going to land me in trouble.
+ I might have to start watching my back around Noel-sensei.
 }
 [sha:85911a050bf3b7c9966e76190de56f16ef2273c3]{
 -- Page 184, Offset 27560.
 -- シエル先輩の味わい深い顔を見られた、という事で、他の質問をしよう。
-Subjected to Ciel-senpai's meaningful glare, I ask another question to change the subject.
+Ciel-senpai's looking at me with a pretty serious expression on her face...
+ Maybe I'd better ask another question to change the subject.
 }
