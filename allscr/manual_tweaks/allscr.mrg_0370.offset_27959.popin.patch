@@ -1,0 +1,13 @@
+diff --git a/allscr/retimed/allscr.mrg_0370.txt b/allscr/retimed/allscr.mrg_0370.txt
+index 4d72f117..ea5a9828 100644
+--- allscr.mrg_0370.txt
++++ allscr.mrg_0370.txt
+@@ -2810,7 +2810,7 @@ _STCC(38);
+ _MSAD(@k@e);
+ _VPLY(A00_10_01_0083_1,01049);
+ _WKST(C847,eq,63);
+-_WKAD(F823,1);
++_WKAD(F823,0);
+ _WKST(C847,eq,0);
+ _WKST(C859,eq,0);
+ _WNTY(1);
