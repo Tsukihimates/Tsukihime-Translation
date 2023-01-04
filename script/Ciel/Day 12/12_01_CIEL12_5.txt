@@ -426,6 +426,7 @@ That woman said something along the same lines.
 -- “それじゃバイバイ。貴方の悪運もここまでよ、■■■”
 // Ref offset 28365.
 // Again, ■■■ = 吸血鬼.
+// lint-off:LintDupedWord
 'Alright, bye bye now.
  Your luck has finally run out, ■■■■.'
 }
@@ -507,7 +508,7 @@ The sense of dread I felt this morning.
 }
 [sha:a2ad8b8f86eb36e2b9eac4eb50f48e1b52caa582]{
 -- Page 244, Offset 31586.
--- そもそも俺には、土曜と日曜の二日間、自分が何をしていたかの記憶がまるでない
+-- そもそも俺には、土曜と日曜の二日間、自分が何をしていたかの記憶がまるでない―――
 Now that I try and remember, I don't have a clue what it was I did all weekend―――
 }
 [sha:44cb5a055111b9b8a239f9dcc3c8daebc0b9f0a0]{
