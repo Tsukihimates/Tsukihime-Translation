@@ -56,7 +56,7 @@ Perhaps it's because my throat is dry, but my voice sounds as hoarse as an old m
 [sha:896555d24e35c5ef0dda6ab8286be2a473650247]{
 -- Page 213, Offset 31460.
 -- とてもじゃないが、自分の声とは思えない。
-I can't even recognize it as my own voice.
+I can't even recognize it as my own.
 }
 [sha:ab38a116530e76cd686e230c53312385eb9a27b7]{
 -- Page 214, Offset 31461.
@@ -165,7 +165,7 @@ Akiha leaves the room,
 [sha:2fd7209d0addd7d2fbd5be9ae9c30a4980aaf7ba]{
 -- Page 221, Offset 31480.
 -- ああ、イライラする。
-Ugh, I can't take this shit.
+Ugh, I can't stand this shit.
 }
 [sha:fdc9d679c0d76e29c6f199ebc4658a52e998bfbf]{
 -- Page 221, Offset 31481.
@@ -177,15 +177,14 @@ First there was Hisui's attitude, and now Akiha's looking at me with those worri
 -- Page 221, Offset 31482.
 -- こんなのはいつもの事だろう。
 // Assuming he's referring to his illness here
-This is the same sort of thing that happens all the time.
+This sort of thing happens to me all the time.
 }
 [sha:ec743c221ae9c33edec4c2e345ca3ae2ae8bd739]{
 -- Page 221, Offset 31483.
 -- 別に血を吐いてるとか血を吸ってるとか大怪我をしている訳じゃないんだから、放っておいてくれないのか。
-// Ordering of 吐/吸 changed because 'I'm vomiting or sucking blood' parses
-// more naturally as 'vomiting or (sucking blood)' than '(vomiting or sucking) blood',
-// whereas in 'sucking or vomiting up blood' the fragment 'sucking' is harder to misread as it's own complete action.
-It's not like I'm so severely wounded that I'm sucking or vomiting blood,
+// Aux up/down added to try and make it clear that both verbs apply to blood.
+// Vomiting a bit too easy to read as its own complete action.
+It's not like I'm so severely wounded that I'm vomiting up or sucking down blood,
  so why can't they just leave me in peace?
 }
 [sha:eff52057c1d7cfd8e9be6cae0bee254dbea05145]{
@@ -211,7 +210,7 @@ I'm well aware that my nerves are rotting away.
 [sha:73fdc38dc92ea35077f1c464aaeee08b4d8633ac]{
 -- Page 223, Offset 31488.
 -- 頭痛より息苦しさでみんな■してしまいたい。
-This suffocating feeling that's even worse than my headache makes me want to ■■■ everyone.
+This suffocating feeling that's even worse than my headache makes me want to ■■ everyone.
 }
 [sha:72716c1704fa406a53784229f0b1718b8aa80d09]{
 -- Page 223, Offset 31489.
