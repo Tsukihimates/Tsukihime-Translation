@@ -13,12 +13,12 @@ Ciel-senpai led the way over to this unremarkable corner of the city,
 -- Page 417, Offset 28238.
 -- 「先輩、あの下水道に入っていくんですか……？」
 // Does she just have a thing for sewers
-"Senpai, are you planning on entering that sewer...?"
+"Senpai, are we really going inside that sewer...?"
 }
 [sha:d2eb0956e97ecb127ff740bfd8c5a68afb29ed67]{
 -- Page 417, Offset 28239.
 -- 「そうですよ。あの横穴から中に入ります。
-"I am. I'll enter through that access tunnel over there.
+"Indeed we are. Through that access tunnel, in fact.
 }
 [sha:546dc28ef6c1dd8900acf0580bfd9104e042bfc1]{
 -- Page 417, Offset 28240.
@@ -34,7 +34,7 @@ That being said, watch your back and be aware of your surroundings.
 [sha:d91b40b1ed14962118223a8863ef1359234e6ac5]{
 -- Page 418, Offset 28242.
 -- そう言うなり、先輩は橋の上から水路まで下りてしまった。
-Once she's given me that piece of advice,
+As soon as she's done talking,
  Senpai jumps off the bridge and lands in the canal below.
 }
 [sha:7001ef7ee962be43ca6288ae979fcf6ded3ac4f7]{
@@ -45,28 +45,29 @@ Once she's given me that piece of advice,
 [sha:df71685f95d6a568be43e77679830b40d0ca4bdc]{
 -- Page 418, Offset 28244.
 -- ここで<怯|ひる>んでいては先輩においていかれる。
-I'll fall behind Senpai if I hesitate here.
+I'll fall behind Senpai If I just stand around dithering.
 }
 [sha:dfd330a008d919556df5c5653a2174a042956794]{
 -- Page 418, Offset 28245.
 -- 俺も覚悟を決めてフェンスを乗り越え、壁に作られた梯子を使って水路に下りた。
-I make up my mind,
+I muster up some courage,
  climb over the fence,
  and use the ladder built into the wall to climb down into the canal.
 }
 [sha:7254173d016f62381f9c44b66c306efdcd9e08c1]{
 -- Page 419, Offset 28246.
 -- 「……まだ太陽は昇っていますが、中に入れば陽差しも届きませんし、時間も経過するでしょう。
-// Uhh yeah assuming 時間も経過するでしょう is just "and it won't last anyyway"?
+// Uhh yeah assuming 時間も経過するでしょう is just "and it won't last anyway"?
 "There's still some daylight left,
- but that light won't reach us in there,
+ but it won't reach us in there,
  and the sun's already begun to set anyway.
 }
 [sha:02a431b93f7006e2efcf42f2702542a8f248163e]{
 -- Page 419, Offset 28247.
 -- 貴方はうしろから離れないように。異常を感じたらすぐに私の背中を叩くか、声で報せてください」
 Make sure that you stick close to me.
- If you sense anything might be wrong, please give me a tap on the back or say so out loud."
+ If you sense anything out of the ordinary,
+ please give me a tap on the back or say so out loud."
 }
 [sha:7679618737b4dc1e05cb64b79de07f20a6c4c525]{
 -- Page 420, Offset 28248.
@@ -81,25 +82,26 @@ I've got my knife, but..."
 [sha:9043afbd22882088a5ead2920d487c250493abff]{
 -- Page 421, Offset 28250.
 -- 「心配には及びません。黒鍵は必要数常備しています。
-"No need to worry. I have an appropriate number of Black Keys in reserve.
+"No need to worry.
+ I always have an appropriate number of Black Keys at the ready.
 }
 [sha:a03984b360b88a1aeb0a6806b5f5808566372c01]{
 -- Page 421, Offset 28251.
 -- 今回はあくまで調査ですから。ロアの柩を発見次第、撤退して準備を整えます。本格的な交戦はこの後です。
-This is strictly a survey mission.
+Our current mission is for reconnaissance purposes only.
  If we encounter Roa's coffin, we will immediately withdraw and make any necessary preparations.
  The real battle will come later.
 }
 [sha:990a13e1d51acb2875da935554404fbb4b590798]{
 -- Page 421, Offset 28252.
 -- 内部で明かりは使わないので、そのつもりで」
-I also do not plan on using any lights inside, so please bear that in mind."
+Please note that I also do not plan on using any lights once inside."
 }
 [sha:f2d04bd9ab98a5d4310663286714ed0016983180]{
 -- Page 422, Offset 28253.
 -- 「……そっか、吸血鬼に気付かれるもんな。
 // Buddy surely they've got better night vision than you do
-"Makes sense... that would just advertise our presence to any vampires.
+"makes sense... they'd only alert any vampires in there to our presence.
 }
 [sha:a1ce483eea201589409a169c4e5beb5527082193]{
 -- Page 422, Offset 28254.
@@ -115,8 +117,9 @@ The flashlight on my phone's out too, I take it?
 [sha:fea953dd620b63ea9c8c068163a6444ebdc3ceca]{
 -- Page 423, Offset 28256.
 -- 水路内は私が先導しますから、先ほど言ったようにとお……貴方は手を握っていてください」
+// Name -> 貴方 Japanese-ism makes no real sense in EN if kept
 I'll be leading the way once we're inside the sewers,
- so do as I mentioned a moment ago, Toh――so please take hold of my hand."
+ so please take hold of my hand."
 }
 [sha:e2819f1723d03e27d2ff7a6cf0b5d56935b1a217]{
 -- Page 424, Offset 28257.
@@ -165,7 +168,7 @@ The inside of the sewer is different from what I expected.
 [sha:a3ba76c7108d08e9af3002d55fd04ee97e504a3d]{
 -- Page 427, Offset 28265.
 -- 幅２メートルほどの水路の左右には人間が歩けるだけの道が作られていて、先に進む事自体はそう困難じゃない。
-Paths have been built on either side of the two-meter-wide canal running down the middle,
+Paths have been built on both sides of the two-meter-wide canal running down the middle,
  so it's actually not that difficult to make our way through.
 }
 [sha:1bbac31f61a56db3a6073f9af1d1f19d20d4cf3a]{
@@ -193,12 +196,12 @@ As Ciel-senpai said, these sewers are well maintained public infrastructure.
 It isn't the filth down here that's got me on edge anyway,
  but the ceaseless trickling sound of water,
  the echoing of our shoes,
- and the fact that I can't see my hand in front of my face.
+ and the impenetrably darkness ahead.
 }
 [sha:4c9155e87a1285a1a20a0b36b9d47b92218fc881]{
 -- Page 430, Offset 28270.
 -- ……学校の地下まで20分ほどだと先輩は言っていた。
-Senpai said it'd take about twenty minutes to get to the tunnels that run under the school...
+Senpai said it'd take about twenty minutes to get beneath our school...
 }
 [sha:ba15afda1ebf61d4e8ebc12ec95370a8cde83210]{
 -- Page 430, Offset 28271.
@@ -256,7 +259,7 @@ Senpai lets go of my hand and shines her flashlight across the wall.
 [sha:7833567637a2536c3829a65163713a64c3bf2598]{
 -- Page 432, Offset 28281.
 -- そこには乱暴に破壊された壁と、その奥に広がる空洞が見てとれた。
-I can see that the wall she's pointing it at has been ripped apart,
+The light reveals that a jagged hole has been punched right through it,
  and that there seems to be a cave on the other side.
 }
 [sha:0413e46685e9383fee37cd638707a7f6ed03bc60]{
@@ -268,7 +271,7 @@ I can see that the wall she's pointing it at has been ripped apart,
 -- Page 433, Offset 28283.
 -- 「アルクェイドの仕業ですね。こんなところでこんな事をするのは、あの考えなしだけでしょう」
 "Arcueid's handiwork.
- Nobody else would be foolish enough to do something like this down here."
+ Nobody else would be brainless enough to do something like this down here."
 }
 [offset:28284]{
 -- Page 434, Offset 28284.
@@ -283,7 +286,8 @@ I nod in agreement.
 [sha:6fb06e139687a3d8734d48cc58a8fad8c8be3716]{
 -- Page 434, Offset 28286.
 -- これがアイツ流の、繊細で緻密な調査なのだった。
-To Arcueid, this would constitute a careful and meticulous investigation.
+// Echoes 16025.
+To Arcueid, this would constitute a meticulous and detailed investigation.
 }
 [sha:7f35b951b5b27cf922b41de6071ad272d2d32fc0]{
 -- Page 435, Offset 28287.
@@ -293,8 +297,8 @@ To Arcueid, this would constitute a careful and meticulous investigation.
 [sha:2e24b7e4d00df88d49ab64876ead8b2898d91e3a]{
 -- Page 435, Offset 28288.
 -- 「……そのようですね。下水地図にはこんな場所に部屋はありませんでしたが。
-"It seems to be...
- I don't recall there being anything here on the map of the sewers.
+"So it appears...
+ There was nothing shown here on the map of the sewers, however.
 }
 [sha:c6fdfb6127e59d4e4fb193a9523e0edfa73efb73]{
 -- Page 435, Offset 28289.
@@ -375,7 +379,7 @@ I follow her to see what's inside.
 [sha:72a8a5e172b48aabf320c7dc9cabdfb3db014da1]{
 -- Page 439, Offset 28303.
 -- ……予想通りだ。
-No surprises there...
+As expected...
 }
 [sha:2094ddc288e5b8de18135a8575989c68a9b2ea84]{
 -- Page 439, Offset 28304.
@@ -390,12 +394,12 @@ I say dead body, but really all that remains are enough bones to suggest that so
 [sha:73b3de6279eb00d0c4c3eca40cb09131cdd29039]{
 -- Page 440, Offset 28306.
 -- あばら骨と思われる部分だけがかろうじて見て取れる。
-His ribs are the only vaguely recognizable thing left.
+Its ribs are the only vaguely recognizable thing left.
 }
 [sha:4f09f59cb9fb7c41e15ca1f065a7a29afa014179]{
 -- Page 440, Offset 28307.
 -- おそらく、一撃で心臓を引き抜かれたのだろう。
-His heart was most likely ripped out in a single blow.
+Its heart was most likely ripped out in a single blow.
 }
 [sha:1262a15bfe0915b414a2e7705099a89ee4b8fd39]{
 -- Page 441, Offset 28308.
@@ -446,13 +450,13 @@ Roa's already dead, isn't he? So, all's well that ends well, right?"
 [sha:f31adedbc841163af615f433ee1dfc0ab09ad765]{
 -- Page 445, Offset 28317.
 -- ……先輩が街にいる理由がなくなってしまうのは耐えがたいが、それは俺個人の欲求だ。
-It's hard to stomach that Senpai doesn't have a reason to stick around in this city anymore,
+I find it hard to stomach the fact that Senpai doesn't have a reason to stick around in this city anymore,
  but that's really only a me problem.
 }
 [sha:06c9ef07f30a5c92d0362ad11d45cb02a6ec3654]{
 -- Page 445, Offset 28318.
 -- 大局的に見てこれは最良の結果なのに、先輩は棺に手をついて、倒れそうな体を支えている。
-This is, broadly speaking, the best thing that could have happened.
+In the grand scheme of things, this is the best thing that could've happened.
  And yet, Senpai's leaning her hand on the coffin to try and stop herself from collapsing.
 }
 [sha:ce708d2eb9e16ee11856bb5f0247a9c075527271]{
@@ -460,7 +464,7 @@ This is, broadly speaking, the best thing that could have happened.
 -- 「……違うんです。ロアが死んでいる状況は、間違っている。これじゃ道理に合わない……！
 "This can't be right...
  Roa can't be dead.
- If he is, then nothing makes any sense...!
+ If he is, then nothing makes any sense!
 }
 [sha:d9fa777c5a813d5930b588b9014b85c72ecca784]{
 -- Page 446, Offset 28320.
@@ -472,18 +476,18 @@ If the body he's currently in dies, Roa reincarnates into his next host.
 [sha:1a13f063e2c306f56816553b47d2c0d6ec379167]{
 -- Page 447, Offset 28321.
 -- 「その街を汚染しているロアの転生体さえ消してしまえば、少なくとも街に根付いた下級の死徒は全滅する。
-"If the body Roa inhabits as he contaminates a city dies,
- then it should follow that all of the lower-ranking Dead Apostles that served him die out too.
+"If the reincarnation that contaminated this city died,
+ then it should follow that all of the lower-ranking Dead Apostles that served him would die out too.
 }
 [sha:d735b7b0de7cc57fee2e9d2ad5710e62d3873628]{
 -- Page 447, Offset 28322.
 -- だから―――もしこれが本当にロアの遺体なら、この街に<死|・><者|・><が|・><残|・><っ|・><て|・><い|・><る|・><筈|・><が|・><な|・><い|・>んです……！」
-Which means that if this were really Roa's corpse――%{i}there wouldn't be any Dead left in this city%{/i}...!"
+Which means that if this were really Roa's corpse――%{i}there wouldn't be any Dead left in the city%{/i}!"
 }
 [sha:b275324a479e3431271f4a499cb95d6f98e5c8d8]{
 -- Page 448, Offset 28323.
 -- アルクェイドから聞いた吸血鬼の階梯を思い出す。
-I think back to what Arcueid told me about the different ranks of vampire.
+I think back to what Arcueid told me about the vampire ranks.
 }
 [sha:c7e5a5b76d5ef06e55764ae9f612de3005348119]{
 -- Page 448, Offset 28324.
@@ -531,19 +535,19 @@ Take the vampires in that underground garage, for instance.
 -- Page 452, Offset 28332.
 -- 「テレビでもネットでもいい。ここ数日で身元不明の遺体を発見した、というニュースはありましたか？
 "It doesn't matter whether it was on TV or the internet.
- Have you seen any reports in the past couple of days about unidentified corpses turning up?
+ Has there been any news in the past couple of days about unidentified corpses turning up?
 }
 [sha:8d96c8527ccd2979dd5db553096c9afa18e5346e]{
 -- Page 452, Offset 28333.
 -- ロア……親である死徒が消滅したのなら、その時点で隠蔽されていた事件が明るみになる。
-If Roa... if the sire really vanished, then all of the disappearances they've been covering up should have come to light.
+If Roa... if the sire really perished, then all of the disappearances they've been covering up should have come to light.
 }
 [sha:2618b8ddcaae7ef48ee5ac3f0d8fd2f29788606b]{
 -- Page 452, Offset 28334.
 -- 死徒討伐において、<街|・><が|・><ま|・><だ|・><平|・><穏|・><で|・><あ|・><る|・><事|・>―――それ自体が何も解決していない証拠なんです……！」
 If you're exterminating Dead Apostles,
  and the city %{i}continues to be peaceful%{/i},
- that's actually proof that you've yet to accomplish anything...!"
+ that's actually proof that you've yet to accomplish anything!"
 }
 [sha:129b1899806fbd52ea61f52c6260c3c97eb6e31b]{
 -- Page 453, Offset 28335.
@@ -558,7 +562,7 @@ You mean that corpse over there is a fake, and Roa's actually―――"
 [sha:1caf0c96251a488a4086a501245d2aa4fc8486d2]{
 -- Page 454, Offset 28337.
 -- 「そう。死徒ロアはまだこの街にいる。
-"Yes. The Dead Apostle, Roa, is still in this city.
+"Yes. The Dead Apostle Roa is still in this city.
 }
 [sha:05453c74abba5c913e537ed48f47b4fad57d10da]{
 -- Page 454, Offset 28338.
@@ -574,7 +578,7 @@ A woman's voice echoes through the stone room.
 [sha:e5e2c97e7e59ace356a8c44b544ce9d47fd1ca78]{
 -- Page 455, Offset 28340.
 -- 振り向けば、俺たちが入って来た入り口には修道服を着たノエル先生の姿があった。
-When I turn around I see Noel-sensei, dressed in her habit, standing in the entrance we just came through.
+When I turn around, I see Noel-sensei, dressed in her habit, standing in the entrance we just came through.
 }
 [sha:eb0b542de35415f27a594bc5f1e130a671a85036]{
 -- Page 456, Offset 28341. Mods: @n.
@@ -584,9 +588,9 @@ When I turn around I see Noel-sensei, dressed in her habit, standing in the entr
 [sha:2f17e992bd69db98f1e6af3078da31b86f10e7a6]{
 -- Page 456, Offset 28342. Glued.
 -- 志貴クンを尾行していたらとんでもない場所に案内してもらっちゃった。それがロアの柩？　今の話じゃもう何の意味もないゴミ箱みたいだけど」
- I was just tailing Shiki-kun, and would you look at this place you've led me to.
- That's supposed to be Roa's coffin?
- Based on what you've just said, it's more like a meaningless box of trash."
+ Here I was tailing Shiki-kun when all of a sudden he leads me to a place like this.
+ That thing's Roa's coffin, is it?
+ Sounds like it's just an irrelevant box of bones at this point, though."
 }
 [sha:f7b281b0a56b496583207dfb86a10718edc5d6e4]{
 -- Page 456, Offset 28343.
@@ -611,14 +615,14 @@ The gruesome scene at the abandoned factory flashes across my mind.
 [sha:18df008487ca7f9a1734fddea3d136e6c754e11e]{
 -- Page 458, Offset 28347.
 -- あからさまな作り笑い。隠そうともしない嫌悪と殺意。隙あらば凶器を振り下ろそうと<窺|うかが>う下卑た視線。
-Her smile is blatantly fake.
- She isn't even trying to disguise her hostility or thirst for blood,
- and it feels like her lascivious gaze is on the lookout for any opportunity to bring her weapon crashing down.
+Her blatantly fake smile.
+ Her unabashed hatred and hostility.
+ Her vile gaze, always on the lookout for an opportunity to swing her weapon down on someone.
 }
 [sha:9d56c15c26843e52b921f1abe1b6f3b814e53879]{
 -- Page 458, Offset 28348.
 -- いま、そのすべてが俺に向けられている。
-Right now, all of that attention is focused on me.
+Right now, they're all trained squarely on me.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 459, Offset 28349.
@@ -634,7 +638,7 @@ I tuck my knife into my sleeve,
 [sha:e984a24649645786a0d1ba6a86948a42fd4f42e6]{
 -- Page 459, Offset 28351.
 -- わずかに踵を浮かせて不意の襲撃に備える。
-Shifting my weight onto the balls of my feet,
+Shifting my weight onto my feet,
  I ready myself against a surprise attack.
 }
 [sha:4390ed3723389800f71a05c08d52e34ce25ccadb]{
@@ -651,12 +655,12 @@ Seeing me do this, the woman just looks at me with amusement.
 -- Page 460, Offset 28354.
 -- こんな逃げ場のない場所に標的を誘き出すなんて、あいかわらず手際がいいわ。
 You managed to lure the target to an inescapable place like this...
- Your acting skills really are top notch.
+ Another stellar performance, as usual.
 }
 [sha:646fd004bac0f4c065ed35d23cd9a8552c44fcea]{
 -- Page 460, Offset 28355.
 -- ほら、早く始めましょう？　入り口はわたしが押さえておくから、貴女はそこの吸血鬼を殺してあげて」
-Now, shouldn't we get started already?
+Now, why don't we get started?
  I'll cover the exit, so killing the vampire over there is all you."
 }
 [sha:1570b68e28c58c2ceaaa110003135bea8746dd6e]{
@@ -695,7 +699,7 @@ What on earth did they just say to each other...?
 [sha:56b51c83008a471470ba6dc964ce2420c2b2c5f5]{
 -- Page 463, Offset 28362.
 -- 「まだ分かってないの？　それとも分かってない演技？
-"You still don't get it? Or are you simply pretending not to understand?
+"You still don't get it? Or are you just pretending not to?
 }
 [sha:f1dcd945d624b9be8cfb395483ad4f9b86eb9368]{
 -- Page 463, Offset 28363.
@@ -708,7 +712,7 @@ Well, not that it matters.
 -- Page 464, Offset 28364.
 -- 「こんな結果になっちゃったのは残念だけど、ま、八割方分かっていた事だから悲しくもないか。
 "It's a shame things had to end this way, but, well,
- I had a hunch this might be the case,
+ I was more or less certain this was the case,
  so I guess I'm not all that broken up about it.
 }
 [sha:2869ceb6411f921de5d1d0c3e548e8fb9dc99c17]{
@@ -758,12 +762,12 @@ Senpai awkwardly avoids meeting my gaze.
 [sha:63ca257d941e4495b953624edcfe8659fe15bf47]{
 -- Page 467, Offset 28373.
 -- いま好き放題に妄言を垂れ流している<女|ノエル>の方が正しいと言うかのように。
-It's like she's saying that the woman spouting all this nonsense is correct.
+It's as if she's saying that the woman spouting all this nonsense is correct.
 }
 [sha:c56859bfa90c0e037d2ccb6d10a76f4ca3d2023b]{
 -- Page 468, Offset 28374.
 -- 「あのさあ。いつまでも被害者面しないでもらえないかなあ。
-"Come on, enough already.
+"Oh, c'mon.
  How long are you going to pretend to be the victim here?
 }
 [sha:bb94b4215a369e31a221adee81d842df9e353001]{
