@@ -318,7 +318,8 @@ I'm fine, so just leave me alone!"
 [sha:2f505f7a75f541f96591ca7398722e2fd41ef98b]{
 -- Page 10008, Offset 33126.
 -- 部屋に―――中に入ってきたら、きっと取り返しのつかない事をしてしまう。
-If she enters the room―――if she comes inside, I'm sure I'll end up doing something irreversible.
+If she enters this room――if she comes inside,
+ I'm sure I'll end up doing something irreversible.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 18, Offset 33127.
@@ -328,7 +329,9 @@ If she enters the room―――if she comes inside, I'm sure I'll end up doing s
 [sha:9671b948758f9a675fb2c82e91afd0160b45aaae]{
 -- Page 18, Offset 33128.
 -- 沈黙のあと、■■の足音が聞こえた。
-After a brief silence, I hear the footsteps of ■■■.
+// Blanks are hisu/koha again.
+// Very convenient way to reuse lines!
+After a brief silence, I hear ■■■'s footsteps.
 }
 [sha:20b9206a047bb3e9c2166924fdc2ed06c447bce0]{
 -- Page 18, Offset 33129.
@@ -343,32 +346,36 @@ She quietly walks away from my room.
 [sha:12f5d89d20fd068a55f0f08ee09c2d8304528319]{
 -- Page 19, Offset 33131.
 -- これで安全だ。まわりに誰もいなければ誰を■■事もない。
-With this, I'm safe. As long as there's no one around, then there's no one to ■■.
+I'm safe now.
+ If there's nobody around, there's nobody for me to ■■.
 }
 [sha:588aae9b0a33ffb2090c149d8bbd3909dba0665a]{
 -- Page 19, Offset 33132.
 -- そう思ったら少し落ちついた。
-With that in mind, I calm down a little.
+That thought helps to calm me down.
 }
 [sha:10bf9ed9ff828261411f8f4e655a1135bf687ea0]{
 -- Page 19, Offset 33133.
 -- 気晴らし。気晴らしに、本でも読もうか。
-I need to relax. Maybe I should read a book to clear my mind.
+I need to take my mind off this.
+ Maybe I should read a book or something.
 }
 [sha:421c3929d153a11b2a799cb967ab1ddcc39b04b2]{
 -- Page 20, Offset 33134.
 -- 「……あれ？」
-"...Huh?"
+"Huh...?"
 }
 [sha:9ce45b2798b79b3cce91813bc53d819a54403153]{
 -- Page 20, Offset 33135.
 -- サンルームにあった本がない。
-The book that should have been in the sunroom is missing.
+The book is missing from the conservatory.
 }
 [sha:7ea13121fbcc6984237051fcc230aa36f477ee13]{
 -- Page 20, Offset 33136.
 -- 様々な国の言葉で書かれた伝記。誰かの旅路を綴った航海日誌。……満足に読める筈もなかったが、それでも気晴らしにはなる筈なのに。
-The biography written in various different languages. An account of someone's journey... It's not like I could read it properly, but it would've served as a good distraction.
+It was a biography written in various different languages.
+ An account of someone's journey...
+ It's not like I could read it properly, but it still would've served as a good distraction.
 }
 [sha:29988475a0419649924196091fbfca87cf9e13a9]{
 -- Page 20, Offset 33137.
@@ -393,12 +400,12 @@ I desperately try to remember what the cover looked like.
 [sha:1fac0df83e572814be20e455e5992ddc69882e6b]{
 -- Page 21, Offset 33141.
 -- どうしても思い出せない。
-But I can't recall for the life of me.
+But no matter how hard I try, I just can't picture it.
 }
 [sha:a03d00470185ed0c9b48608d29bced16aa35a3f7]{
 -- Page 22, Offset 33142.
 -- 「本……本……」
-"Book... book..."
+"The book... the book..."
 }
 [sha:bf9e37873a03c7f5c0223c68d0ac4192cdce5361]{
 -- Page 22, Offset 33143.
@@ -413,22 +420,31 @@ Why was a book like that even in my room in the first place?
 [sha:24e43c7a9d5419f092c17ee7c59d77b55e4f404b]{
 -- Page 22, Offset 33145.
 -- 題名もない。著名もない。どこで印刷されたものかも判らない。この世にある筈のない、長い長い<人間|じんせい>の物語。
-It didn't have a title. It's not well-known either. I don't even know where it was printed. That forever-long story of humankind shouldn't exist in this world.
+It didn't have a title.
+ It wasn't some bestseller.
+ I don't even know where it was printed.
+ It was the story of a life that was impossibly long.
 }
 [sha:a517d0c9f294efd3ef24bc9a1614f3d4e46bfa35]{
 -- Page 23, Offset 33146.
 -- 本棚を探す。テーブルにないのなら本棚に戻したのか。
-I'll search the bookshelf. If it isn't on the table, then it might be back on the bookshelf.
+I'll search the bookshelf.
+ If it isn't on the table, there's a chance it got put back on the shelf.
 }
 [sha:f65764522a51dbc40c95f145fafb9b041b8d165c]{
 -- Page 23, Offset 33147.
 -- 見つからない。では棚には空きがある筈だ。一冊かけているのなら当然だ。本棚に空きはない。背表紙の壁はぴったりと<聳|そび>えている。
-I can't find it. There should be a gap then. If something is missing, then there should be a gap between the books. There's no gap. The wall of book spines towers high, completely packed.
+I can't find it.
+ In which case, there should be a gap somewhere.
+ If a book is missing, there'd obviously be a space where it used to be.
+ But there isn't one.
+ The wall of book spines looms before me, its surface seamless.
 }
 [sha:b9e699e0c2b94515d6641732e0ac5430f57345b8]{
 -- Page 24, Offset 33148.
 -- だから知らない。あんな本を手にした記憶がない。
-That's why I'm confused. I have no memory of holding that book in my hands.
+I don't know anymore.
+ I can't even remember holding that book in my hands.
 }
 [sha:486eff2ed29846a4255d4b9152f9d23e539c3461]{
 -- Page 24, Offset 33149.
@@ -438,48 +454,53 @@ I don't know where that book is located.
 [sha:cc35ec7339fc4925905b4a49ca128356d8978d95]{
 -- Page 24, Offset 33150.
 -- そもそも―――そんなもの、本当にあったんだろうか。
-In the first place―――did that book even really exist?
+I don't even know... if that book even existed at all.
 }
 [sha:449c5b3bc7583f2e39ac66a7922f00bdfccb671c]{
 -- Page 25, Offset 33151.
 -- “……ね？　もし自分がそうなんだって<理|わ><解|か>った時は”
-'...So... If the time comes, and you realize you're the same as them...'
+// Quoting Noel, 23095.
+'That's why... If you ever find that you're the same as they are...'
 }
 [sha:7d1809fb39aae0b0d3bca1c0f9725227a1e42b9f]{
 -- Page 10009, Offset 33152.
 -- 「……うる、さい……」
-"...Shut up..."
+"Shut up..."
 }
 [sha:0335d4275e9b7f950d43718f8f727f9db668c0b4]{
 -- Page 10009, Offset 33153.
 -- ……耳障りな女の声を思い出す。
-...I recall her grating voice.
+I recall her grating voice.
 }
 [sha:f975086ef669ee3d94d43bff88952800fdc57e98]{
 -- Page 10009, Offset 33154.
 -- あの本。その内容。
-That book. Those contents.
+That book... Its contents...
 }
 [sha:d0acab01360ef0e56a3025b19082bf4e82428a76]{
 -- Page 10009, Offset 33155.
 -- いつも眠れなくて読んでいた本。
-The book I always read when I couldn't sleep.
+It was the book I always read when I couldn't sleep.
 }
 [sha:1dfd40be295c5114e7a573e2a9b39af939ecc503]{
 -- Page 10009, Offset 33156.
 -- でもそれは、眠っている時に、眠れないという夢を、見ていただけじゃ、なかったのか。
-But, could I have just been dreaming? Was I dreaming about not being able to sleep while I was already asleep?
+But, is there a chance it was just a dream?
+ That I was already asleep, dreaming about not being able to sleep?
 }
 [sha:710b742933b597ebcecdcd1ab349bf06fc143153]{
 -- Page 26, Offset 33157.
 -- “……で。自分から■んで。みっともなく泣き叫びながら、■にたくない、って謝りながら首を……”
 // i hate japanese
-'...ie. ■ by your own hands. Cry pathetically, screaming that you don't want to  ■ , then ■ your own head off while apologizing...'
+// Quoting Noel, 23096.
+'Then ■■.
+ ■■ yourself.
+ Beg for forgiveness, cry for mercy with tears streaming down your face, and then ■■ your throat.'
 }
 [sha:b643521493a4569781b09306b4a7ef93814c587e]{
 -- Page 10010, Offset 33158.
 -- ユメ―――ゆめ。
-A dream―――a dream.
+A dream... A dream...
 }
 [sha:fc25a1027600de839043468e55a15c12615bad7b]{
 -- Page 10010, Offset 33159.
@@ -489,7 +510,7 @@ But... I don't dream.
 [sha:67ae808cc2adf7bbc8b99e356c762685a4e86dd2]{
 -- Page 10010, Offset 33160.
 -- そもそも遠野志貴にあんな知識はない。
-In the first place, Tohno Shiki does not possess that kind of knowledge.
+On top of that, Tohno Shiki doesn't even possess that kind of knowledge.
 }
 [sha:a54b12c9efd32236566a5a27a1ce9502a1bed3d8]{
 -- Page 10010, Offset 33161.
@@ -504,12 +525,13 @@ Those dreams... weren't mine.
 [sha:8bdf73b781b5ca19ccc65b79e87bd02eb8b1aae3]{
 -- Page 27, Offset 33163.
 -- “……単に、キミ本人が気づいていないだけで……”
-'...It's simply that you haven't realized it yourself...'
+// Assuming this is a slightly modified backref to 28412.
+'You may not have realized it yet yourself...'
 }
 [sha:41dad96a8b38bf55a83ebb2a36d5d8da1d89ae22]{
 -- Page 27, Offset 33164.
 -- 「……だまれ。だまって……」
-"...Shut up. Be quiet..."
+"Shut up... Be quiet..."
 }
 [sha:5302ed30454c79ae95872e45fd838ab18db3e4e0]{
 -- Page 27, Offset 33165.
@@ -529,7 +551,8 @@ When did I start seeing dreams that belong to someone else?
 [sha:923210e8be7c1c2229fb0920d20fe9e8b5c2f29c]{
 -- Page 28, Offset 33168.
 -- “……本当はとっくの昔に死んでいる、気の狂った殺人鬼なんだから……！”
-'...You're really just a crazed murderer who's been dead for a long time...!'
+// Ok yup here's the rest of 28412.
+'...but the truth is you're nothing more than a long-dead psychotic murderer!'
 }
 [sha:19d85aa5c83562ae42a5fd5fb0b1ca7145782169]{
 -- Page 28, Offset 33169.
@@ -540,22 +563,26 @@ No, no, no...!
 [sha:0883a88e820642216ddc67512d4219604b7d1706]{
 -- Page 28, Offset 33170.
 -- 今は記憶が混濁しているだけだ。
-My memories are in a blur right now.
+My memories are just a little hazy right now, that's all.
 }
 [sha:7adc746c931e68e01c57fdc6627ef2947f1f574f]{
 -- Page 28, Offset 33171.
 -- アルクェイドが特別なだけだ。あの時は、ただ、自分の欲求を抑えきれなかっただけなんだ。
-Arcueid was a special case, that's all. That time, I just failed to suppress my own desires.
+Arcueid was an exception, nothing more.
+ Back then, I failed to suppress my own desires.
+ That's all there was to it.
 }
 [sha:0361f2ff722b17695bdf9196ff0eb884915fa7a8]{
 -- Page 29, Offset 33172.
 -- 俺はおかしくない。俺は狂っていない。
-I'm not abnormal. I'm not deranged.
+// Ok buddy
+I'm not abnormal. I'm not psychotic.
 }
 [sha:e5f698186c64e14af7a88d23ea95aaa1d0c7d86f]{
 -- Page 29, Offset 33173.
 -- せっかくシエル先輩が戻ってきてくれたのに、こんなコトで、イカレてなんかやるものか。
-How can I go crazy over something like this when Ciel-senpai has finally come back?
+I'm not about to let myself be driven crazy over something like this.
+ Not after Ciel-senpai came back into my life.
 }
 [sha:7a2f59734312b6bee099a39daef9e64f306cf6cb]{
 -- Page 30, Offset 33174.
