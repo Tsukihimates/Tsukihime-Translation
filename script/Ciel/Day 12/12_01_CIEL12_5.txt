@@ -6,7 +6,7 @@
 [sha:32cb5faeb3a869fe2956912039a98f613b8b3beb]{
 -- Page 10023, Offset 31493.
 -- 息苦しさで目が覚めてしまった。
-I start awake, feeling like I'm suffocating.
+I'm woken by the feeling that I'm being suffocated.
 }
 [sha:8700889a5d2258b35d56fecbe3153d8af31a902d]{
 -- Page 10023, Offset 31494.
@@ -60,7 +60,7 @@ I came at the wrong time.
 [sha:c81e9b3d161a84a51125f3894adbdfa8b251b487]{
 -- Page 225, Offset 31503.
 -- あと１時間早く出歩けば、もうすこし、えり好みというものが出来ただろうに。
-If I'd left out an hour earlier, I would've had more options to choose from.
+If I'd left an hour earlier, I would've had more options to choose from.
 }
 [sha:ecb24b30abb78637781d5609381b95e97e64d163]{
 -- Page 226, Offset 31504.
@@ -112,7 +112,7 @@ She has long hair.
 [sha:c1850d0e7b2080c9dc4bd2490e6cd40411e11554]{
 -- Page 227, Offset 31513.
 -- 顔は似ても似つかない。ただ、髪が気に入った。
-Her face doesn't really resemble Akiha's.
+Her face doesn't really look all that similar.
  I was just taken with her hair.
 }
 [sha:6565a74be9d85456187a9967ffb20126e4bedec6]{
@@ -163,8 +163,7 @@ Not bad at all.
 [sha:dc613e08ac39e1bb0248b693ad978bb970749845]{
 -- Page 229, Offset 31522.
 -- 俺はナイフを片手に握ったまま、その首筋に口を付けて、
-// This supposed to be a literal 口を付ける?
-// Feels weird for him to just slash her with the knife if he's Roamoding
+// Not a literal 口を付ける based on 31579.
 As I grip my knife with one hand, I savor the woman's neck, and then―――
 }
 [sha:3bfdf5101acffe361e48f234200cda11d2c21b9e]{
@@ -438,17 +437,20 @@ That woman said something along the same lines.
 [sha:05edf8c181fa34fa148647e4951305bdd385a797]{
 -- Page 242, Offset 31573.
 -- “いいかげん自覚したら？
-'Isn't it about time to wake up?
+// Quoting Noel, 28410.
+'Isn't it about time you faced up to the facts?
 }
 [sha:c3d2dc645b9327cbcd202c4d388e1d1a777edab0]{
 -- Page 242, Offset 31574.
 -- 貴方自身気がついていないだけで、本当はとっくの昔に死んでいる、気の狂った殺人鬼なんだって！”
-You may not realize it yourself, but you're really a crazed murderer who died long ago!'
+// Quoting Noel, 28412
+You may not have realized it yet yourself,
+ but the truth is you're nothing more than a long-dead deranged murderer!'
 }
 [sha:0d635036e0de2d489029c9700101e45d1daf40de]{
 -- Page 243, Offset 31575.
 -- 「―――違う。そんなの、ありえない」
-"―――You're wrong. There's no way that's true."
+"―――She's wrong. There's no way that's true."
 }
 [sha:cd705d6689b6e5d26e58b8de703e74e75701dd08]{
 -- Page 243, Offset 31576.
@@ -468,7 +470,7 @@ Why am I here, doing something like this?
 [sha:dcb6674be212eb1ec950f4b8025876f344577316]{
 -- Page 243, Offset 31579.
 -- こうして気がついた今も、どうしてナイフを女の首に当てているのか。
-Why am I holding my knife to this woman's neck, even though I've already come to my senses?
+I've come to my senses, so why is my knife still pressed against this woman's neck?
 }
 [sha:1c205dc6f48ad7dc59c3fb177cc13277e12cd700]{
 -- Page 243, Offset 31580.
@@ -478,7 +480,7 @@ Not only that, but―――
 [sha:7c830d6560dfab789dab8de72f5df7abe4f1a303]{
 -- Page 243, Offset 31581.
 -- 昨日の夜に味わった、血の光景はどうなっている？
-What happened to the bloody scene that I experienced last night?
+Just what was that blood-soaked spectacle that I got a taste of last night?
 }
 [sha:c270e0a6adab0f779a4d495df66e03651907ba40]{
 -- Page 244, Offset 31582.
@@ -488,37 +490,42 @@ What happened to the bloody scene that I experienced last night?
 [sha:a74cdd6cf02e7eb18a77e8764d21e81c80c54f8f]{
 -- Page 244, Offset 31583.
 -- 夢だ、そんなのは夢だ！　だって俺にはそんな記憶はない、日曜日に何をしたかなんて―――なん、て―――」
-A dream, it's all a dream! I mean, I don't remember any of it, about what happened on Sunday―――about―――"
+It's a dream, it's all just a dream!
+ I mean, I don't remember any of it,
+ I don't remember a damn thing I did on Sunday, not... a thing..."
 }
 [sha:5821e074ae77dea353977805dbbf9e75e3a4daf1]{
 -- Page 244, Offset 31584.
 -- ―――そこで、ようやく気がついた。
-―――At that moment, I finally realized.
+―――In that instant, it finally clicks.
 }
 [sha:02d34e7bf66ba7b3edbc720114f17edc125fc3d9]{
 -- Page 244, Offset 31585.
 -- 今朝の違和感。まるごと断絶している記憶。
-The sense of dread I felt this morning. The memories that feel entirely disconnected.
+The sense of dread I felt this morning.
+ The parts of my memory that are nothing but gaping voids.
 }
 [sha:a2ad8b8f86eb36e2b9eac4eb50f48e1b52caa582]{
 -- Page 244, Offset 31586.
--- そもそも俺には、土曜と日曜の二日間、自分が何をしていたかの記憶がまるでない―――
-In the first place, I don't have any memories of what I did on the weekend―――
+-- そもそも俺には、土曜と日曜の二日間、自分が何をしていたかの記憶がまるでない
+Now that I try and remember, I don't have a clue what it was I did all weekend―――
 }
 [sha:44cb5a055111b9b8a239f9dcc3c8daebc0b9f0a0]{
 -- Page 245, Offset 31587.
 -- 「あれ―――あれ、あれ、あれ―――？」
-"Huh―――what, huh―――?"
+"What――what, what, what―――?!"
 }
 [sha:15d32499185b0abbdfa3b856d32f7852c2fb07d8]{
 -- Page 245, Offset 31588.
 -- 必死に思い出す。土曜日はおぼろげに記憶がある。
-I frantically try to recall. I have a vague memory of Saturday.
+I frantically rack my brain. I can vaguely remember Saturday.
 }
 [sha:a02023579ce8dc8483e70eaa4fabd4a6ad22fd1a]{
 -- Page 245, Offset 31589.
 -- けど日曜日は空白だ。何もない。記憶がまるでない。
-But Sunday is a complete blank. There's nothing. It's completely missing.
+Sunday, however, is a complete blank.
+ There's nothing.
+ It's like it never happened.
 }
 [sha:71e4dfa1dad35e7ff89486c885f2d4d9786b7380]{
 -- Page 245, Offset 31590.
@@ -528,12 +535,13 @@ How long have I been―――
 [sha:b6d8157d36c4a7ceb5cfff7435a895b4b5190ef5]{
 -- Page 245, Offset 31591.
 -- “ロアの転生先になった人間はみんな自分を保ったまま、ある日あっさり変わるらしいですから”
-'It appears that every human who becomes Roa's next reincarnate retains their sense of self, until one day, they transform out of the blue.'
+// Quoting Noel, 28402.
+'They say all people who become Roa's hosts suddenly just, poof, become different, even as their sense of self remains intact.'
 }
 [sha:0704fc5613cc79e3a28c3adf5265574f6604c97b]{
 -- Page 245, Offset 31592.
 -- 遠野志貴ではない時間が出来ていた―――？
-living my life as someone who's not Tohno Shiki―――?
+―――living my life as someone who's not Tohno Shiki?
 }
 [sha:5838a0c80896f212b0ccad13868eb610c0471b20]{
 -- Page 246, Offset 31593.
@@ -543,12 +551,12 @@ living my life as someone who's not Tohno Shiki―――?
 [sha:cf6b9905fd1bb15281b7df083483ca73caa82d7b]{
 -- Page 246, Offset 31594.
 -- 女の目蓋が動いた。
-The woman's eyelids move.
+The woman's eyelids stir.
 }
 [sha:2fb9d57d1056c67a2b198a1e3241f40fb655b5e1]{
 -- Page 246, Offset 31595.
 -- 女の意識が覚める。
-She regains her consciousness.
+She starts to regain consciousness.
 }
 [sha:5cd224212ccab4c631399dadadb2ce8376ec0151]{
 -- Page 246, Offset 31596.
@@ -558,7 +566,10 @@ This is bad. This is really, really, really bad.
 [sha:718dbbd280a7ee5d290ca2f711fc8bb01e2db3b9]{
 -- Page 246, Offset 31597.
 -- 起きてしまえばもう取り返しはつかない。弁明はできない。証拠を隠滅するしかない。この女が動き出す前に確実にバラしておかないと、俺は―――
-Once she fully awakens, there'll be no turning back. I can't make excuses. I have no choice but to erase the evidence. If I don't make sure to tear her apart before she begins to move, I'll―――
+Once she wakes up there'll be no turning back.
+ I can't explain this away.
+ I have no choice but to destroy the evidence.
+ If I don't rip this woman to shreds before she gets up, I'll―――
 }
 [sha:87b67f22012053703b8ee267da475e116bb3d035]{
 -- Page 247, Offset 31598.
@@ -573,7 +584,7 @@ I move my knife.
 [sha:dfe170d6733aaeb3cd064ead6834f7bb545870d0]{
 -- Page 247, Offset 31600.
 -- 違う。
-                                                No.
+                                                    No.
 }
 [sha:6862deef426c162489b5e35243b00067f979b512]{
 -- Page 247, Offset 31601.
@@ -583,27 +594,27 @@ There's no need to look at her lines of death.
 [sha:5174d821e58ad64826de843f3b94af0c181f5fdf]{
 -- Page 247, Offset 31602.
 -- それだと、本当に。
-                                    If I do that―――
+                                     If I do that―――
 }
 [sha:38fdfe7d58a9903785b94ce621a59957b082013a]{
 -- Page 247, Offset 31603.
 -- 躊躇う意味がない。なぜならおまえは
-There's no need for hesitation. After all, you've―――
+There's no need for hesitation. After all...
 }
 [sha:5095383b2c4b1cfabcadd5bdca42ae819b13bf84]{
 -- Page 247, Offset 31604.
 -- 俺はこのまま、
-                               If I don't stop―――
+                                  If I don't stop―――
 }
 [sha:b7d5fb426bb9ddec473f2917dcfc4e8396b8cf20]{
 -- Page 247, Offset 31605.
 -- もう幾度となく、白い首筋を切断してきただろう？
-already cut through these pale necks so many times, haven't you?
+You've already sliced through plenty of pale necks, haven't you?
 }
 [sha:23eaaaff54d5e18ae6edbc82592f0693ce1844fa]{
 -- Page 247, Offset 31606.
 -- 畜生以下の生き物になる。
-                      I'll become a being even worse than a beast.
+           I'll become a being even worse than a beast.
 }
 [sha:f57db23b8a9ed63e726cd1a7efdf11ce36fdc883]{
 -- Page 248, Offset 31607.
@@ -613,7 +624,7 @@ My fingers have gone numb. I can no longer pull back or withdraw.
 [sha:cf43700f1f614ffa84d2f7fd13f13550de3a7038]{
 -- Page 248, Offset 31608.
 -- 「……だれ？」
-"...Who are you?"
+"Who are you...?"
 }
 [sha:3b253551765912d743e74b4363b9146986732f3f]{
 -- Page 248, Offset 31609.
@@ -628,12 +639,12 @@ She realizes that a knife is being held to her neck.
 [sha:429196b0ec414c8647d34d08dfeb0f40a655a216]{
 -- Page 248, Offset 31611.
 -- 「き―――」
-"Eek―――"
+"%{i}Eek%{/i}―――"
 }
 [sha:a168dcd72e5c3441baf5a22986e0a3ddb4a1d83f]{
 -- Page 248, Offset 31612.
 -- 「ああああああああああああ！」
-"AAAAAAAAAAAAAH!"
+"%{i}AAAAAAAAAAAAAH%{/i}!"
 }
 [sha:80f06ed86bb53d5938bdf1003da4b1fd5abeb7b1]{
 -- Page 249, Offset 31613.
@@ -643,17 +654,18 @@ The woman's screams are drowned out by my own.
 [sha:58674c9956f2a39bb17b0fa2c789db70ec21748e]{
 -- Page 249, Offset 31614.
 -- 叫んで。壊れたサイレンみたいに叫び続けて、気がつけば走っていた。
-I cry out. I continue to scream like a broken siren, and before I know it, I'm running away.
+I cry out.
+ I scream like a broken siren, and the next thing I know I'm already sprinting away.
 }
 [sha:22c25b543fecaabe1f2615f4e25ba5f6317d5e31]{
 -- Page 250, Offset 31615.
 -- 「はっ、はっ、はっ、はっ―――！」
-"Hah, hah, hah, hah―――!"
+"%{i}Hah%{/i}, %{i}hah%{/i}, %{i}hah%{/i}, %{i}hah%{/i}―――!"
 }
 [sha:fa185a0bb94a34d1bea01140c3672506686d0d83]{
 -- Page 250, Offset 31616.
 -- 指が震える。
-My fingers tremble.
+My fingers are trembling.
 }
 [sha:0d81fcab1d9aedf0a688186ec10f6974c52c51ec]{
 -- Page 250, Offset 31617.
@@ -663,22 +675,22 @@ My mind is completely blank.
 [sha:a8d10f76e77da9b0d7176a5804ebe300dd1bff61]{
 -- Page 250, Offset 31618.
 -- それでもかろうじて、あの女性にナイフを突き刺す前に走り出せた。
-But even so, I barely managed to run away before thrusting my knife into the woman.
+But the fact remains that I narrowly managed to run away before I thrust my knife into that woman.
 }
 [sha:917812d0dd9aefba9fec535dac82d85770a9ae32]{
 -- Page 250, Offset 31619.
 -- もし……もし彼女が俺より先に悲鳴を上げていたのなら。
-What if... what if she had screamed before I did?
+Though, what if... what if she had screamed before I did?
 }
 [sha:34cfb40d1494e48097e132f5259b12abbd39b7d3]{
 -- Page 250, Offset 31620.
 -- 俺は、あのまま――――
-If that had happened, I would have――――
+If she had, then I would have―――
 }
 [sha:19e792641bc7c4b7c618295b5da4d43af57dce5d]{
 -- Page 251, Offset 31621.
 -- 「はっ、はっ、はは、ははははは………！」
-"Ha, ha, haha, hahahahaha...!"
+"%{i}Ha%{/i}, %{i}ha%{/i}, %{i}haha%{/i}, %{i}hahahahaha%{/i}...!"
 }
 [sha:f86ecaa6a2502673d9bde24ec1e4d696a80a8b1e]{
 -- Page 251, Offset 31622.
@@ -693,12 +705,12 @@ Thinking about that scares me.
 [sha:0932d50d7f0aff150ccc9b44d93efcae0a1d8fdc]{
 -- Page 251, Offset 31624.
 -- 今まで体験してきたどんな恐怖より、これは恐い。
-This is more terrifying than anything I've ever experienced in the past.
+This is more terrifying than anything I've ever experienced before.
 }
 [sha:ddf03add155bbb919381925ea93bbdc4a546f3f2]{
 -- Page 252, Offset 31625.
 -- 「はっ、はっ、はっ……！」
-"Hah, hah, hah...!"
+"%{i}Hah%{/i}, %{i}hah%{/i}, %{i}hah%{/i}...!"
 }
 [sha:c305e3140f99e070245528f0375943d5c639c952]{
 -- Page 252, Offset 31626.
@@ -708,17 +720,17 @@ It's coming after me.
 [sha:7f669df92eaa083832ab9860c36d2ee38a0f8890]{
 -- Page 252, Offset 31627.
 -- 背中に覆い被さってる。
-It's hanging over my back.
+I can feel it hanging over me.
 }
 [sha:37e6489ad42151ee01bac5d3cebeaa0573c3a72f]{
 -- Page 252, Offset 31628.
 -- いくら逃げても―――自分の恐さから逃げられない。
-No matter how far I run―――I can't run away from my own fears.
+No matter how far I run, I'll never be able to escape my own fear.
 }
 [sha:26d1e29a13fc6aeb491057fd92f1b270bbd69ec8]{
 -- Page 253, Offset 31629.
 -- 「はっ、はっ、はあ！」
-"Hah, hah, haah!"
+"%{i}Hah%{/i}, %{i}hah%{/i}, %{i}haah%{/i}!"
 }
 [sha:b83dd246718cb8ae49ed8730db12f3505f5bd600]{
 -- Page 253, Offset 31630.
@@ -728,12 +740,13 @@ I dive into my room and lock the door.
 [sha:5acb08233ad168d0359da220abbb6a55ad9147c1]{
 -- Page 253, Offset 31631.
 -- 突起した金属片を掴んで回すだけなのに、ガチャガチャとから回る音だけがする。
-Even though all I need to do is grab that protruding piece of metal and twist it, all I hear are the futile sounds of clattering.
+Even though all I need to do is grab that protruding piece of metal and twist it,
+ my fingers scrabble uselessly against its surface.
 }
 [sha:dfb777ec709dca9f75c465e9a5cad0f0ca43df59]{
 -- Page 254, Offset 31632.
 -- 「……は……あう、ううう……！」
-"...Ha... ah, uuu...!"
+"%{i}Ha%{/i}... %{i}ah%{/i}, %{i}uuu%{/i}...!"
 }
 [sha:f86ecaa6a2502673d9bde24ec1e4d696a80a8b1e]{
 -- Page 254, Offset 31633.
@@ -743,22 +756,22 @@ I'm scared.
 [sha:21e9e2a00171bd2ec0c5b181e99aa37651af6805]{
 -- Page 254, Offset 31634.
 -- 早く鍵をかけないと部屋に入ってくる。
-If I don't lock the door quickly, it will come in.
+If I don't lock the door soon, it'll get in.
 }
 [sha:1a8ba620a90d12e7a62397ed56af8d37be5f6b99]{
 -- Page 254, Offset 31635.
 -- 得体のしれない何かが入ってくる。
-That unknown thing will come inside.
+That unknown thing will get inside.
 }
 [sha:0e9a747c68be20d9d56332f7149ef08e18e0d3a4]{
 -- Page 255, Offset 31636.
 -- 「ああ、あああ、あああ…………！」
-"Ah, aah, aaah......!"
+"%{i}Ah%{/i}, %{i}aah%{/i}, %{i}aaah%{/i}......!"
 }
 [sha:aee8af231a4fc4b1770a4661013b8ab840caed6a]{
 -- Page 255, Offset 31637.
 -- 鍵、鍵をかけないと。
-I... I need to lock it right now.
+Lock it... I need to lock it.
 }
 [sha:e7be35b38192c133d5bde045fb8e5d885ee816c7]{
 -- Page 255, Offset 31638.
@@ -783,22 +796,28 @@ I don't know.
 [sha:215359c9947768eae802552f5ede243afb5f90b7]{
 -- Page 255, Offset 31642.
 -- わからないまま、狂ったように鍵をかけ続ける。
-But until I do, I continue to try to lock the door like I've gone mad.
+Despite not knowing, I keep trying to lock the door like a man possessed.
 }
 [sha:a96b242be1f8db900df31ce443635a4dc7294a2a]{
 -- Page 256, Offset 31643. Mods: @n.
 -- 回っているのはドアノブだけだった。俺の指はノブを掴んだままどうしても離れてくれない。狂ったようにノブを回す。ガチャガチャガチャガチャ。耳障りな音が鼓膜から脳にどくどくと注ぎこまれる。ガチャガチャガチャ、
-The only thing that's turning is the doorknob. My fingers are still gripping the doorknob, refusing to let go. I turn it like I've lost my mind. Clatter, clatter, clatter. The harsh sounds gush into my brain through my eardrums. Clatter, clatter, clatter―――
+The only thing that's turning is the doorknob.
+ My fingers are still gripping the doorknob, refusing to let go.
+ I turn it over and over again like a madman.
+ %{i}Rattle%{/i}, %{i}rattle%{/i}, %{i}rattle%{/i}.
+ That grating sound beats against my eardrums and cascades into my brain.
+ %{i}Rattle%{/i}, %{i}rattle%{/i}, %{i}rattle%{/i}――
 }
 [sha:abcba1495da4aaef9c83b2a569090abf028c7adb]{
 -- Page 256, Offset 31644. Glued. Mods: @n.
 -- ザク。
- clack.
+// Sound of him stabbing himself, rather than the door finally latching
+%{i}stab%{/i}.
 }
 [sha:eb3bf15e30223b8dd214b308fe333af0ceec79d2]{
 -- Page 256, Offset 31645. Glued.
 -- 頭にきたもう一方の手で、ドアノブを掴んだ手首にナイフを刺した。
-Losing my temper, I stab my knife into the wrist of the hand that's gripping the doorknob with my other hand.
+ Losing my temper, I use my other hand to plunge my knife into the wrist of the hand still gripping the doorknob.
 }
 [sha:b0d20b6e7cd52f857c20c4fcd8c19835a18a37bc]{
 -- Page 257, Offset 31646.
@@ -808,22 +827,31 @@ The sounds have finally stopped.
 [sha:67e84742863de7244781cc3bac1f5526f889071e]{
 -- Page 257, Offset 31647.
 -- ぬるり。ぬるり。今度は滑って鍵をうまくつまめない。
-Squish. Squish. This time, I can't get a good grip on the lock because it's too slippery.
+%{i}Squish%{/i}.
+ %{i}Squish%{/i}.
+ This time, I can't get a good grip on the lock because it's too slippery.
 }
 [sha:44e43f692c352c1b093588dc377b8b16499d4b81]{
 -- Page 257, Offset 31648. Mods: @n.
 -- ぬるり。ぬるり。ぬるり。
-Squish. Squish. Squish.
+%{i}Squish%{/i}.
+ %{i}Squish%{/i}.
+ %{i}Squish%{/i}.
 }
 [sha:2d953bf6494a6fceb33f3bf0973999e59fc8ec44]{
 -- Page 257, Offset 31649. Glued.
 -- ぼきり。ぼきり。ぬるり。ぼきり。
- Splash. Splash. Squish. Splash.
+ %{i}Splash%{/i}.
+ %{i}Splash%{/i}.
+ %{i}Squish%{/i}.
+ %{i}Splash%{/i}.
 }
 [sha:36183dd2021a6796bd2dd0e414c5354c5c0fe6e8]{
 -- Page 257, Offset 31650.
 -- 三本目を折ったところで、もうダメだと思った。
-I thought it was over when I broke the third one.
+// I guess he's talking about his fingers here? 本?
+// Counter info kinda hard to tl without just saying it
+I thought I was out of options after I broke my third finger.
 }
 [sha:123c0c7a744842e0ad76a69d3e2b66a4867c5bb1]{
 -- Page 257, Offset 31651.
@@ -833,37 +861,45 @@ I knew that it was already over for me.
 [sha:bfc4758897fea66a29306c07efa0883453bde445]{
 -- Page 257, Offset 31652.
 -- でももう一方の手はどうしてもナイフを離してくれないので、このままでは永遠に鍵はかけられなかった。
-But my other hand just wouldn't let go of the knife, so I would never be able to lock the door like this.
+But my other hand just won't let go of the knife.
+ At this rate I'll never be able to lock the door.
 }
 [sha:740ed76eb5a410f20cf7648fbea830fcea82cd97]{
 -- Page 258, Offset 31653.
 -- 「は―――はあ、はあ、は…………！」
-"Hah―――hah, hah, ha......!"
+"%{i}Hah%{/i}――%{i}hah%{/i}, %{i}hah%{/i}, %{i}ha%{/i}...!"
 }
 [sha:2740e23aeda9d430a259c517e20f4087b9da22f7]{
 -- Page 258, Offset 31654. Mods: @n.
 -- 仕方ないので、手のひらにナイフを突き入れてちょうどいい差し込み口を作った。つくった！　嬉しくなって手のひらを鍵に当てる。
-At my wit's end, I thrust my knife into my palm and create a perfectly sized hole. I did it! I place my palm on the knob, filled with joy.
+At my wit's end, I thrust my knife into my palm and carve out an appropriately sized hole.
+ Perfect!
+ Delighted, I wrap my palm around the handle of the key.
 }
 [sha:d5ad3cb3ab1fa498ea68aba9ca9fc79bad66c134]{
 -- Page 258, Offset 31655. Glued. Mods: @n.
 -- ぬちゃり。肉の隙間に金属片がはまる。激痛に爆笑する。笑いすぎて口元が裂けるかと思った。痛みに笑いながら手首をひねる。ぬちゃ、
- Squish. The piece of metal fits into the gap of flesh. The intense pain causes me to burst into laughter. I laugh so hard that I feel like my mouth's been torn open. As I laugh through the pain, I twist my wrist. Squirm―――
+ %{i}Squish%{/i}.
+ The piece of metal slots neatly into the gap in my flesh.
+ The pain is so excruciating that I burst out laughing.
+ I laugh so hard I feel like my mouth's about to split open.
+ Laughing through the pain, I twist my wrist.
+ %{i}Squirm%{/i}――
 }
 [sha:3a465c0c93c2a40a8e8ebcfd306d7941faf61f3b]{
 -- Page 258, Offset 31656. Glued. Mods: @n.
 -- かち、ずるり。お見事です。
- click, slide. A brilliant display.
+%{i}click%{/i}, %{i}slide%{/i}. A brilliant display.
 }
 [sha:f387ccc4b0a249cc531eab09c68ae6fb555ff022]{
 -- Page 258, Offset 31657. Glued.
 -- ようやく鍵は回りました。
-I finally turned the lock.
+ I finally managed to lock the door.
 }
 [sha:ac032ff42adabfcc1a7f6ddeb45f1e42d3f20c6a]{
 -- Page 259, Offset 31658.
 -- 「は―――やった、やった―――！」
-"Ha―――I did it, I finally did it―――!"
+"%{i}Ha%{/i}, %{i}haha%{/i}――I did it, I finally did it―――!"
 }
 [sha:41865c70201cb075509559815e452c73600f9f49]{
 -- Page 259, Offset 31659.
@@ -873,7 +909,8 @@ I can't stop laughing.
 [sha:2c3f6b9011bb08536373e1b62e6fb6a7c231c9c0]{
 -- Page 259, Offset 31660.
 -- 喉が渇いたので食堂に行こうとドアに体当たりをする。
-Feeling thirsty, I hurl myself to the door to go to the dining room.
+I feel a little thirsty,
+ so I hurl myself at the door to try and get to the dining room.
 }
 [sha:8f2d1da3c678e39da9aeb612cf6cc48690b9ae2b]{
 -- Page 259, Offset 31661.
@@ -883,22 +920,24 @@ It won't open. It won't open. It won't open.
 [sha:a6cdedd589f61bd8da302893bd40f089bbd94488]{
 -- Page 259, Offset 31662. Mods: @n.
 -- 仕方がないので血まみれの手の平に口を付けて液体を飲んでみる。
-There's no way around it. I bring my bloody palm to my mouth and drink the fluid.
+There's no way around it.
+ I bring my bloody palm to my mouth and lap up the fluid.
 }
 [sha:bd65b2870e2e75882e287ff4b02926528e0bff76]{
 -- Page 259, Offset 31663. Glued.
 -- まったく美味くない。喉はまだ人間製なので、粘性の液体を飲み干すだけの強靭さがない。
- It's not tasty at all. My throat is still that of a human, so it's not tough enough to gulp down this viscous liquid.
+ It doesn't taste good at all.
+ My throat is still that of a human, so it's not tough enough to gulp down this viscous liquid.
 }
 [sha:6f149437c0866d41652012e7b2cd019f504d3b3d]{
 -- Page 260, Offset 31664.
 -- ふと、見知らぬ誰かと目が合った。
-Suddenly, my eyes meet with an unfamiliar person's.
+Suddenly, I lock eyes with a stranger.
 }
 [sha:0cd825b8c3a5617519da64ed2b34ac4658f79bfe]{
 -- Page 260, Offset 31665.
 -- 窓に映る男はこの上なく楽しそうでこの上なく哀れだった。
-The man reflected in the window looks like he is filled with incomparable joy, yet at the same time, he looks incomparably pitiful.
+The man reflected in the window looks incomparably happy, yet incomparably pitiful.
 }
 [sha:91daa1cba04fedc8bf7944ccc924d378d50f58cc]{
 -- Page 260, Offset 31666.
@@ -908,5 +947,5 @@ With that, I finally understand.
 [sha:f3cb7c24b650446cf6239e97e3f326292456a253]{
 -- Page 260, Offset 31667.
 -- <俺|おまえ>は、もう終わっているのだと。
-Understand that it's already over for <me|y o u   >.
+Understand that it's already over for <me|y o u  >.
 }
