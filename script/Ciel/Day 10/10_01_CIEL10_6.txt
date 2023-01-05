@@ -524,7 +524,7 @@ Take the vampires in that underground garage, for instance.
 [sha:0f3982fa9e2bdd5715ee9a3ba506e395e9eb4bb5]{
 -- Page 451, Offset 28330.
 -- 「……ニュースは、ありましたか？」
-"The news... Have there been any reports?"
+"The news... Did you see anything?"
 }
 [sha:a06af1b0e9163257f239b0eb8c305537e0f437fe]{
 -- Page 451, Offset 28331.
@@ -632,8 +632,7 @@ Right now, they're all trained squarely on me.
 [sha:00ad87144e7c78d266b34011cbcfe0ed9a46a1e7]{
 -- Page 459, Offset 28350.
 -- ノエルに気付かれないよう、袖の下にナイフを忍ばせる。
-I tuck my knife into my sleeve,
- careful not to let Noel notice as I do.
+I hide my knife behind my sleeve so that Noel doesn't notice I'm holding it.
 }
 [sha:e984a24649645786a0d1ba6a86948a42fd4f42e6]{
 -- Page 459, Offset 28351.
@@ -741,7 +740,7 @@ I don't understand. My legs feel weak.
 [sha:a541abc07e6d3512735445dbfd6beabd1d161f74]{
 -- Page 465, Offset 28369. Glued.
 -- 指先が震えて、忍ばせていたナイフを取り落としそうになる。
- My fingers are trembling so much that I almost drop the knife I hid up my sleeve.
+ My fingers are trembling so much that I almost drop my hidden knife.
 }
 [sha:cb38f7d021c9b34e1e407b53fa8e5806127812e2]{
 -- Page 466, Offset 28370.
@@ -774,7 +773,7 @@ It's as if she's saying that the woman spouting all this nonsense is correct.
 -- Page 468, Offset 28375.
 -- この付近でロアの転生先に該当する家柄は遠野家だけ。その遠野家には長男と長女がいたけど、次の転生先は男子である事だけは判ってた。だから必然、キミが今代のロアなわけ。
 Only one family in this area meets Roa's requirements for reincarnation――the Tohnos.
- The family has both a daughter and a son, but it's known for a fact that this reincarnation is male.
+ They have both a daughter and a son, but the only thing we knew for a fact was that the next reincarnation would be male.
  Therefore, by process of elimination, we can be sure that %{i}you%{/i} are this generation's Roa.
 }
 [sha:60c6cccadf489a6237a3870b8b783eeee42b5bed]{
@@ -806,7 +805,7 @@ I mean, I feel pretty sure I'd at least %{i}notice%{/i} if I were a vampire.
 [sha:1dacdb9c927d24a1e47986f611dd9eb7d3b8b947]{
 -- Page 470, Offset 28381.
 -- 俺は吸血鬼を追っている側で、間違ってもアイツらの仲間じゃない……！
-// Buddy you are at last one vampire's 仲間
+// Buddy, you are at least _one_ vampire's 仲間
 I've been working with the people who %{i}hunt%{/i} them,
  there's absolutely no world in which I'm on their side...!
 }
@@ -824,7 +823,7 @@ Oh, Shiki-kun...
 [sha:49fb61e67525076d86cf11f255b90866ec80a687]{
 -- Page 471, Offset 28385.
 -- ……あっちゃあ。これはちょっと悪いコトしちゃったな……でも……でも……」
-Oh man... I guess I really put my foot in it didn't I... but, well..."
+Whoopsie daisy... I guess I really put my foot in it didn't I... but, well..."
 }
 [sha:35b7556b47a0ec7b864c3017fb88902890f88874]{
 -- Page 472, Offset 28386.
@@ -835,7 +834,7 @@ The woman in the habit ducks her head slightly,
 [sha:1fd464b19bd8b2a4c5fcd97a4f34d32c124363d8]{
 -- Page 472, Offset 28387.
 -- その背中は小刻みに震えている。
-Her back shivers and quakes softly.
+Her back is quivering softly.
 }
 [sha:98683b25bde82778ff699dd187686423cf22a49e]{
 -- Page 472, Offset 28388.
@@ -870,7 +869,7 @@ Noel removes her hand from her mouth, as though announcing she can't hold it in 
 [sha:03a83b0a8e2614f49a577da2e673eeca6efb6783]{
 -- Page 474, Offset 28394. Mods: @n.
 -- さいっこう、
-Ohh, that's too rich!
+Ohh, I love it!
 }
 [sha:e7dfbbe5bfd8878ac9cb0a4887ab6f02808147e5]{
 -- Page 474, Offset 28395. Glued.
@@ -906,7 +905,7 @@ I tightly grasp my knife and glare at the woman.
 No way.
  That's absolutely impossible.
  Where's the proof?
- Even if that's supposed to be a joke, it still makes me sick to my stomach.
+ I don't know if she's joking or what, but if she is then she's got a sick sense of humor.
 }
 [sha:4e105988caac255e21850acacc7a3ac582745614]{
 -- Page 476, Offset 28401.
@@ -916,8 +915,9 @@ No way.
 [sha:3cc16c4bce1d29fe3c9b70ed89a9f495a5d438fd]{
 -- Page 476, Offset 28402.
 -- でもそういうものらしいよ？　ロアの転生先になった人間はみんな自分を保ったまま、ある日あっさり変わるんだって。
-But I hear that's how it works, you know?
- The humans that go on to host Roa all keep their sense of self until one day, poof, they change.
+But apparently that's just how it goes, y'know?
+ They say all the people who become Roa's hosts suddenly just, %{i}poof%{/i}, become different,
+ even as their sense of self remains intact.
 }
 [sha:19e6b2893a794b1ad76b197c6538ae8248466f69]{
 -- Page 476, Offset 28403.
@@ -937,10 +937,9 @@ What about that ability of yours that lets you pick people apart with just a kni
 [sha:f3e863dc33df879dfdc0a2dd253fc8013ff5429b]{
 -- Page 477, Offset 28406.
 -- 常人ばなれした判断力は？　いくら吸血鬼だからって、人間だったものをあっさり殺してしまえる価値観はマトモだと言えるのかしら？」
-// Reading 判断力 as judgement (values)
-Your morals are a far cry from those of an ordinary person too, aren't they?
- If you can easily kill something that used to be human just because it's turned into a vampire,
- can you seriously say you have ordinary human values with a straight face?"
+// 判断力 about how he stayed calm down in the catacombs
+And what about your superhuman composure?
+ Sure, they might be vampires, but are you really gonna tell me it's normal to not have any problem killing something that used to be human?"
 }
 [sha:749253a3198501a6223d1b48f740555a3b2f0a71]{
 -- Page 478, Offset 28407.
@@ -950,7 +949,7 @@ Your morals are a far cry from those of an ordinary person too, aren't they?
 [sha:261023b8b282ccead1a3273e7d4e9033f6ed733a]{
 -- Page 478, Offset 28408.
 -- 目の奥で赤い火花が散る。
-Red fireworks burst in my eye sockets.
+Red fireworks blossom behind my retinas.
 }
 [sha:766414eb6c0bde90fe0487aaacbfecd0eface1fc]{
 -- Page 478, Offset 28409.
@@ -971,8 +970,9 @@ no, killing people's the only thing you're even good at.
 [sha:a080ff08c4503fad11a1998c6857baf104c58c10]{
 -- Page 479, Offset 28412.
 -- 貴方自身が気がついていないだけで、本当はとっくの昔に死んでいる、気の狂った殺人鬼なんだって！」
+// Echoed in 12_5 offset 31574
 You may not have realized it yet yourself,
- but the truth is you're nothing more than a long-dead deranged murderer!"
+ but the truth is you're nothing more than a long-dead psychotic murderer!"
 }
 [offset:28413]{
 -- Page 480, Offset 28413.
@@ -1078,12 +1078,12 @@ Should I dodge it? Should I parry it?
 [sha:5563864bc39fe7fbf0d209dbd3a83d9d5adf9002]{
 -- Page 484, Offset 28432.
 -- 思考は冴えきっているのに判断ができない。
-My thoughts are clear, but I can't make a decision.
+Even though my thoughts are clear, I still can't decide.
 }
 [sha:c463485d24aa07a13608d74698702ce7b7b5e505]{
 -- Page 484, Offset 28433.
 -- だって躱すという事は、自分が狙われているという事だ。
-Because dodging it would be like admitting that she targeted me.
+Because dodging it would mean accepting that I'm a target for them.
 }
 [sha:1fc188ceee4579e408f0b6e490e9fcb7927ab42f]{
 -- Page 484, Offset 28434.
@@ -1094,13 +1094,13 @@ And that would be crazy. It wouldn't make any sense.
 -- Page 484, Offset 28435.
 -- 俺は吸血鬼でも何でもない。狙われる筈がない。だから、これを躱す必要はない。
 I'm not a vampire or anything like that.
- So there's no way she'd target me.
+ So there's no way I'd be their target.
  Therefore, there's no need for me to dodge anything.
 }
 [sha:1b9e2736011942ec26fe85e539b4d55d7f61af7a]{
 -- Page 484, Offset 28436.
 -- そんな倒錯した考えに縛られて、動けない。
-I stand frozen in place, fettered by my perverse logic.
+I stand frozen in place, fettered by my own twisted logic.
 }
 [sha:c338c491ba760367acdaf81ef0dd3ba4f22fcf4b]{
 -- Page 485, Offset 28437.
@@ -1140,13 +1140,13 @@ Senpai steps in front of me, putting her face to face with Noel.
 [sha:4558efb8affacbc0090ee1c3f33eb7162e4119b6]{
 -- Page 488, Offset 28444.
 -- 「……下がりなさい、代行者ノエル。
-"Stand down, Sister Noel.
+"Stand down, Executor Noel.
 }
 [sha:06eadb8fe7971d5cd7f2de09a153e111d07de4fa]{
 -- Page 488, Offset 28445.
 -- 彼がロアである確証はとれていません。今はロアの消滅の確認を先にすべきです」
 We do not have any definite proof that he is Roa.
- We must first confirm whether Roa has truly disappeared."
+ We are obliged to first establish whether or not Roa has truly disappeared."
 }
 [sha:98293a2ae92904f7e3dd66741951536d9f156498]{
 -- Page 489, Offset 28446.
@@ -1156,14 +1156,14 @@ We do not have any definite proof that he is Roa.
 [sha:acf0653d28c1960f2f731b2061196b3cd7102969]{
 -- Page 489, Offset 28447.
 -- 確証なんて十分すぎるほど取れたでしょう。もうこの街に、彼以外のロア候補はいないって、」
-We've got more than enough proof!
- I'm telling you, there isn't anyone else left in this city that could have been chosen by Roa...!"
+Don't we have more than enough proof already?!
+ I mean, there isn't anyone else left in this city that could have been chosen by Roa...!"
 }
 [sha:e980b8e7a62b25d276717924327437580307bdbb]{
 -- Page 490, Offset 28448.
 -- 「早計すぎます。……それに、彼はまだ何の罪も犯していない。無実の者を殺めることは、許されません」
 "That's a premature conclusion.
- And... he still has yet to commit any sins.
+ Besides... he's yet to commit any wrongdoing.
  I will not tolerate the murder of an innocent person."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -1184,12 +1184,13 @@ The woman staring vacantly at Senpai has just given herself a slap across the ch
 [sha:9860c673eb4bb27fb8926f894cb90c97d44de5b9]{
 -- Page 491, Offset 28452.
 -- 顔の半分を手のひらで覆いながら、<女|ノエル>は先輩から視線を外さない。
-With her palm still resting on her face, the woman doesn't take her eyes off Senpai.
+Even with her palm still resting on her face, the woman doesn't take her eyes off Senpai.
 }
 [sha:4a1471b985071266709d1fb607ebeebcc820a24f]{
 -- Page 491, Offset 28453.
 -- 顔を覆った手は頬だけでなく、<女|ノエル>の顔全体を覆った。五本の指が、グシャグシャと顔を揉みしだいていく。
-Her hand doesn't just cover her cheek but that entire side of her face,
+Her cheek isn't the only thing obscured by her hand.
+ It's spread across her whole face,
  her fingers messily kneading and scrunching up her skin.
 }
 [sha:67d48ffba5603e02239a4f3471a4714b44ccb969]{
@@ -1223,8 +1224,8 @@ Ciel-senpai just looks at her, a pained expression on her face.
 [sha:58bbff2e05ba965dd5f928faca50b5e7bddd662c]{
 -- Page 493, Offset 28459.
 -- 今まで！　さんざん！　疑わしきは罰してきたクセに！　なんでコイツだけ見逃してやるっていうのよぉ！」
-We've always, %{i}always%{/i}, considered people guilty until proven innocent!
- Why the hell are you giving this guy a free pass?!"
+You've always, %{i}always%{/i}, considered people guilty until proven innocent!
+ Why the hell does %{i}he%{/i} suddenly get a free pass?!"
 }
 [sha:d9b8c279637bd1f8968dc5ca3988ae6042f2f935]{
 -- Page 494, Offset 28460.
@@ -1239,9 +1240,9 @@ I'm the only one she sees.
 [sha:d4c2cc17abe074ccd04bdfdfdb28fb88c59fba6b]{
 -- Page 494, Offset 28462.
 -- 先輩を無視し、塞いでいた入り口さえ放棄して、槍を振り下ろして俺を両断する。
-She ignores Senpai,
- gives up on standing guard in front of the exit,
- and swings her halberd down to cleave me in two.
+Paying no attention to Senpai,
+ she gives up her position in front of the exit so she can spring forward,
+ swing her halberd down, and cleave me in two.
 }
 [sha:f1209d4bf0d0ae4384e7536e5609ccf88d057083]{
 -- Page 495, Offset 28463.
@@ -1256,7 +1257,7 @@ She slipped past Senpai only to be promptly kicked in the side and sent flying i
 [sha:dcf509ed43cec98f2911d8b1426e91a37fbc952c]{
 -- Page 496, Offset 28465.
 -- 「シエ、ル……！」
-"Ci...el!"
+"Ci――el!"
 }
 [sha:7a58a6ff676f3e9490886157a7abf55ee1123edb]{
 -- Page 496, Offset 28466.
@@ -1275,7 +1276,7 @@ Her hands are empty.
 -- 「落ち着きなさい代行者ノエル。貴方の行動は明らかな戒律違反です。先ほどの暴挙は見逃しますから、今は」
 // 戒律 seems to only be used here. Particular translation?
 "Please calm down, Executor Noel.
- Your actions are in clear violation of the precepts.
+ Your actions are in clear violation of our precepts.
  I will overlook your violent outburst just now, but I need you to―――"
 }
 [sha:128bf85c436a74102b5a3c7447629f5f224366d7]{
@@ -1286,7 +1287,7 @@ Her hands are empty.
 [sha:6f90f8b5e8eae8230450c068ed233dcb3cb0fcee]{
 -- Page 498, Offset 28470.
 -- ……それは決定的な決裂だった。
-She suddenly cuts off mid-sentence.
+What just occurred has marked a conclusive schism between the two.
 }
 [sha:6ee089ad8b5d56cf22faba93474d9593874f4c35]{
 -- Page 498, Offset 28471.
@@ -1328,7 +1329,7 @@ Even if we suppose that he really is Roa's target,
 -- Page 501, Offset 28477.
 -- 「ないわよ！　転生先に選ばれた時点で終わりって、もう結論が出てるじゃない！　いえ、そもそも助ける理由がないわ。
 "There isn't!
- It was over the moment he was chosen!
+ It was over the moment he was chosen as a host!
  His fate is already sealed!
  Besides, why should we even help him in the first place?
 }
@@ -1355,24 +1356,26 @@ Strength fades from Senpai's body.
 [sha:52d993d5e00e064c4535ddc42a687d778f2cb07a]{
 -- Page 502, Offset 28481.
 -- ……それがどれほど許されない事なのか、おそらく、<あ|ノ><の|エ><女|ル>は知っている。
-// Not 100% sure which 事 we're talking about here
-That woman probably knows just how unforgivable this is...
+// 事 here is probably 年相応の少女の姿に戻ってしまっている
+// Sort of a long story, but Ciel essentially acts tougher than she is because she sees that as her way of redeeming herself.
+There's a good chance that Noel recognizes just how sinful a display that really is.
 }
 [sha:27f98e3c7e9dc7eacfa3ad3223fc3dd30785f107]{
 -- Page 503, Offset 28482. Mods: @k, @e.
 -- 「は。惚れた相手は別だってワケ？　すっごい。愛らしすぎて泣けてくる。ねぇ、もしかしてアンタもワタシもバカじゃないの？
 "%{i}Hmph%{/i}.
  So the guy you're sweet on gets special treatment, does he?
- Wow.
- It's so adorable I could cry.
- Hey, have you ever wondered that maybe you and I are both idiots?
+ %{i}Wow%{/i}.
+ It's so sweet I could cry.
+ Hey, have you ever wondered that maybe %{i}both%{/i} of us are idiots?
 }
 [sha:aa37fa967a89ee0d7c80f7a7f729b212a3e8ffb1]{
 -- Page 503, Offset 28483. Glued. Mods: @x.
 -- いいえ、違うのよね。もしかしなくても、はじめからワタシだけがバカだったワケ？」
+// Noel's thinks she's an idiot for believing that Ciel could redeem herself by sacrificing her life for the Church.
  Ah, who am I kidding.
- There's no need to wonder at all,
- I've been the idiot all along, haven't I?"
+ The answer to that's obvious.
+ There's only ever been one idiot here, and it's %{i}me%{/i}, isn't it?!"
 }
 [sha:b22236b972cbf76f525d1a6d6c12f169c1a1daf0]{
 -- Page 504, Offset 28484.
@@ -1382,7 +1385,7 @@ With bloodshot eyes, the woman grips a Black Key in her hand.
 [sha:e79c1f9f5b810708c59291ac4ff8c45d8ec674f4]{
 -- Page 504, Offset 28485.
 -- その視線の先にあるものは、既に遠野志貴ではなかった。
-Her eyes aren't locked on Tohno Shiki anymore.
+Her eyes aren't locked on me anymore.
 }
 [sha:2cea4efa085243d2e9fd64d3546121caf7b3d88f]{
 -- Page 505, Offset 28486.
@@ -1407,17 +1410,17 @@ Ciel deflects them with a swing of her right arm.
 [sha:20dce442948b61ce32d82c792477825fe69337ae]{
 -- Page 506, Offset 28490.
 -- 「それなら……！」
-"How about this...!"
+"How about this!"
 }
 [sha:13049cc3a92e08e728348513c05d8f5f11bb478f]{
 -- Page 506, Offset 28491.
 -- 実力差がある事を<女|ノエル>は承知している。
-The woman knows that she can't measure up to Ciel in terms of strength.
+The woman is well aware just how outmatched she is.
 }
 [sha:8450ab9187821df1b46459ea69cf344b50ad311e]{
 -- Page 506, Offset 28492.
 -- 左手を限界まで酷使して放った黒鍵三本は<囮|おとり>にすぎない。
-The three Black Keys she launched by pushing her left hand to its very limit are nothing more than diversion.
+The three Black Keys she launched by pushing her left hand to its very limit are nothing more than a diversion.
 }
 [sha:20ccbf2be6325a1935abcdcf054dae064aff9580]{
 -- Page 506, Offset 28493.
@@ -1427,8 +1430,8 @@ The brunt of her attack is actually the Cremation Rite concealed in her right ha
 [sha:99f6d83ace72252bf9d647127af3df571aa82fa8]{
 -- Page 506, Offset 28494.
 -- これを呆然と立ち尽くしている第三者―――俺に向けて放つ事が、<女|ノエル>の全身全霊の秘策だった。
-Her secret plan was to unleash it on me while I stood around in a daze,
- and she committed to it wholeheartedly.
+She had put her everything into this last, desperate gambit,
+ hoping to unleash the Black Key on me while I stood around in a daze.
 }
 [sha:4c91c9d9f572186989d6ee26abeaa30688e2876d]{
 -- Page 507, Offset 28495.
@@ -1438,7 +1441,7 @@ Her secret plan was to unleash it on me while I stood around in a daze,
 [sha:7b956eb6a50f632dcfedaed309eb4f2c4f2395ad]{
 -- Page 507, Offset 28496.
 -- ……だが、その秘策は実行すらされなかった。
-Except, she doesn't even get a chance to carry out the second part of her plan.
+Except, she never even got a chance to carry it out.
 }
 [sha:aba7f14c6a9b1ac1c865b8836b70c458f1fac491]{
 -- Page 507, Offset 28497.
@@ -1477,7 +1480,7 @@ The weapon, designed to subdue rather than eliminate,
 [sha:78d75bc55f40e543790172d4c5e7ceced2c848d8]{
 -- Page 509, Offset 28503.
 -- 満足に立ち上がれず、よつんばいになってシエル先輩を睨みつけるノエル。
-Unable to stay standing, Noel collapses to all fours and glares up at Ciel-senpai.
+Unable to stay on her feet, Noel collapses to all fours and glares up at Ciel-senpai.
 }
 [sha:5cb96adc271ab3ebe0757d2eb2c2a7056d537db5]{
 -- Page 509, Offset 28504.
@@ -1535,7 +1538,7 @@ She trembles with fear, her lips frantically mouthing 'please don't kill me'.
 // I assume it's not yet night, so 今夜の件 is something she was on the hook for later?
 You are excused from the matter later tonight on account of your injury.
  Please return to the branch office to receive medical care.
- You will not be able to heal that arm yourself.
+ You will not be able to heal that arm by yourself.
  Once you've recovered, be sure to follow Acting Presbyter Mario's orders."
 }
 [sha:6c5368c221f69d3c63292839b931330a93bfd8f0]{
