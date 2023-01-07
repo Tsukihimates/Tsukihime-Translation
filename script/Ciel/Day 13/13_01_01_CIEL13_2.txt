@@ -44,7 +44,7 @@ I put all my strength into trying to stop them.
 [sha:f44aba091fb7f641412d9cfe264a2b028027259e]{
 -- Page 78, Offset 33351.
 -- なのに、それは勢いを増すだけだった。
-And yet, it only serves to fan the flames of my vigor.
+And yet, it only serves to fuel their advance.
 }
 [sha:44ed96bd4ef76120deae5db88bbc066c1d81b0df]{
 -- Page 79, Offset 33352.
@@ -225,7 +225,7 @@ I've gone mad.
 [sha:755477f8a8bdef395df098d5d6722ae3641a62c4]{
 -- Page 87, Offset 33385.
 -- もう、再生不能なぐらい、狂っている。
-I've gone completely and incurably mad.
+I've gone completely and irreversibly mad.
 }
 [sha:5f7d5bda397703d1ba2d2d7a5bfd8d9b52b9f6a9]{
 -- Page 87, Offset 33386.
@@ -264,9 +264,10 @@ I need her succulent flesh.
 -- 喉に、歯を、つきたてて―――
 I plunge... my teeth... into her throat―――
 }
-[sha:3f451fddaadb67ca97da294e959e46a55790a60a]{
+[offset:33393]{
 -- Page 89, Offset 33393.
 -- 「――――はは」
+// This page through the next scripting comment only play on Normal(?) route
 "――――%{i}Heh%{/i}."
 }
 [sha:c0f73790cab2f02590b7245203e92e2683485193]{
@@ -343,28 +344,30 @@ If I don't lock myself away in an isolated cage,
 [offset:33408]{
 -- Page 10025, Offset 33408.
 -- だが。
-// The rest of the file only plays True end I guess
+// The rest of the file only plays on True(?) end route.
 However.
 }
 [sha:9a174628deaddc4821d0f6f3c0c4b4313c3a0cf3]{
 -- Page 10025, Offset 33409.
 -- その前に、カリッ、と音がした。
-Before that can happen, I hear a creak.
+Before I can go through with it, I hear a rasping sound.
 }
 [sha:8cbc0a6b7b92481e79cf2669374672fcfec23fd2]{
 -- Page 10025, Offset 33410.
 -- 床を爪が掻いた音。
-The sound of nails scratching the floor.
+The sound of fingernails scratching the floor.
 }
 [sha:05f5846835026e0167d40ce93d1cf5be684a45f0]{
 -- Page 10025, Offset 33411.
 -- それが血にまみれた■■さんの指から聞こえたものと気付いて顔をあげる。
-Realizing that the sound is coming from the fingers of ■■-san, who is soaked in blood, I raise my head.
+// Getting both 血にまみれた applying to Kohaku _and_ the fingertips as the originator is kinda clumsy in EN.
+// The finger part should be pretty clear based on prev line.
+I look up, realizing that the sound is coming from the blood-soaked figure of ■■■-san.
 }
 [sha:6117edaaed6e1075c994170aafa8324e5c842094]{
 -- Page 10025, Offset 33412.
 -- ―――ああ、神さまに感謝したい。
-―――Ah, I want to thank the Lord.
+This is nothing short of a miracle.
 }
 [sha:9326c2efec722e8f1df2e260fd9b5c9532e9ae95]{
 -- Page 10025, Offset 33413.
@@ -379,22 +382,24 @@ I'm so glad that she's still alive―――
 [sha:fbb155b38d0ec30cd7384c989e8cd95d5245b384]{
 -- Page 93, Offset 33415.
 -- ソレは折れた骨のまま、ガクン、と顔をあげた。
-With her bones still broken, she swiftly raises her head.
+Its head snaps up, broken bones grinding in protest.
 }
 [sha:1835faa52a5ab3af3d25e419eafc808747eb64e9]{
 -- Page 93, Offset 33416.
 -- 青白い肌。生気の欠けた<眼|まなこ>。呼吸をしない口。
+// Kohaku jumpscare
 Pale skin. Lifeless eyes. An unbreathing mouth.
 }
 [offset:33417]{
 -- Page 93, Offset 33417.
 -- そこには。
-This thing in front of me.
+This thing in front of me...
 }
 [sha:d3a071d5a1f15f592c0df8604bad068fd6d1620c]{
 -- Page 93, Offset 33418.
 -- 生きていないのに、活きようとしている肉塊が、
-Even though it's already dead, this lump of flesh is pretending to be alive, and―――
+It's dead.
+ And yet, in a grotesque parody of life, it moves―――
 }
 [sha:4787e512b13e026cc56b17010c5a232a1d942f05]{
 -- Page 94, Offset 33419.
@@ -404,17 +409,19 @@ Even though it's already dead, this lump of flesh is pretending to be alive, and
 [sha:b5c5c04f329ab00a006689e35a5574dac03dd509]{
 -- Page 94, Offset 33420.
 -- 自分でも聞き取れない叫び声を上げて走る。
-I let out a scream that even I can't comprehend before running away.
+Deaf to my own scream, I break into a run.
 }
 [sha:1b1cbc3ce605c8419fc27c1ba5a4828ed784c520]{
 -- Page 94, Offset 33421.
 -- 今までまったく気がつかなかった景色の中を走る。
-I continue running in the midst of the scenery that I completely failed to take in until moments ago.
+I run through a world I'd failed to recognize up until now.
 }
 [sha:cf0b86ba43604431d21a9848727c296a9cfa8c97]{
 -- Page 94, Offset 33422.
 -- 廊下には隠しようもないほどの血の匂い。血の匂い。
-The conspicous smell of blood that's drifting throughout the corridor. This bloody stench.
+// Duplicated 血の匂い sounds kinda dumb in EN imo
+The hallway is permeated with the unmistakable stench of blood.
+ A dull, iron tang.
 }
 [sha:b1fb3a0036f3b9b6c457fe1ed849ad54b6660d96]{
 -- Page 94, Offset 33423.
@@ -429,37 +436,38 @@ This tragic scene unfolded one, no, two days ago.
 [sha:99d59bb185b36a4440e390ba9ccb4aed3851d481]{
 -- Page 95, Offset 33425.
 -- 「■■―――！」
-"■■―――!"
+// 秋葉
+"■■■―――!"
 }
 [sha:d84d92dd54d8cc25cb127fedab95867f24be2980]{
 -- Page 95, Offset 33426.
 -- 二階のロビーを過ぎて、西館の執務室に飛びこむ。
-Passing through the second floor lobby, I crash into the office on the west wing.
+I barrel across the second floor of the lobby and burst into the office in the west wing.
 }
 [sha:80a6f11bb28d181c85c651ab9f9232f49b97cfc1]{
 -- Page 95, Offset 33427.
 -- ここなら■■がいると思ったのだ。
-I thought that ■■ would be here.
+I thought that ■■■ would be here.
 }
 [sha:4ccd98e8b9714fa3ccb297f780ba94798bbf93fc]{
 -- Page 95, Offset 33428.
 -- ■■なら俺を殺してくれると思ったのだ。
-I thought that ■■ would be capable of killing me.
+I thought that ■■■ would be capable of killing me.
 }
 [offset:33429]{
 -- Page 95, Offset 33429.
 -- なのに、
-And yet―――
+But instead―――
 }
 [sha:676f4e439d8517aa2c0a548da1808072f9d5f064]{
 -- Page 96, Offset 33430.
 -- そこは俺の部屋以上に変容しており、
-what lies before me is a room even more disfigured than my own―――
+I find a room even more unrecognizable than my own―――
 }
 [sha:c9067e55fbd26d519755b6641093aa989649b3f5]{
 -- Page 96, Offset 33431.
 -- 豪奢な机の陰には、死後二日は経過した、■■と■■の体が散乱していた。
-and behind the extravagant desk, ■■ and ■■'s two-day-old corpses were strewn about.
+And behind the extravagant desk, the spreadeagled two-day-old corpses of ■■■ and ■■■.
 }
 [sha:3f451fddaadb67ca97da294e959e46a55790a60a]{
 -- Page 97, Offset 33432.
@@ -509,12 +517,12 @@ I need to get out.
 [sha:482b3ce31d8c49e91f50486be0b1e170a014b958]{
 -- Page 98, Offset 33441.
 -- このままだと生き返った■■さんと鉢合わせる。
-If I stay here, I'll end up running into the revived ■■-san.
+If I stay here, I'll end up running into the reanimated ■■■-san.
 }
 [sha:e2d068ad458d9f51db8da78af9d19aa1d0b26488]{
 -- Page 98, Offset 33442.
 -- もうそうなったら自我を保てる筈がない。
-If that happens, then there's no way my ego will remain intact.
+A shock like that would be enough to shatter what remains of my sense of self.
 }
 [sha:bb9f593293c6008e9dc4e5b9077c14f800d942ff]{
 -- Page 99, Offset 33443.
@@ -524,15 +532,16 @@ If that happens, then there's no way my ego will remain intact.
 [sha:74bb95aaf1d416a1abe86867514f9fe722d68abd]{
 -- Page 99, Offset 33444.
 -- もたつく足を走らせる。
-I run away sluggishly.
+I force my sluggish legs onward.
 }
 [sha:653f2a96d8dfb67903a32c30b975451d7c66ed43]{
 -- Page 99, Offset 33445.
 -- 俺は取り返しのつかない喪失感に打たれながら、
-As I'm struck by an irreversible sense of loss―――
+// Flopped with below
+As I run away from the now uninhabited Tohno mansion―――
 }
 [sha:5b2097e160653e9aaa02d3a9f4942339d82de3dc]{
 -- Page 99, Offset 33446.
 -- もう誰も居ない遠野邸を飛び出した。
-I run away from the now uninhabited Tohno mansion.
+I'm struck by the sense that I've lost something I can never again regain.
 }
