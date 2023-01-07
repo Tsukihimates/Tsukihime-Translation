@@ -1,58 +1,61 @@
 [sha:e0c3661c07da9d97a69b023e26db095182fdce9a]{
 -- Page 10026, Offset 33447.
 -- ―――獣のように屋敷の外に出る。
-             ―――Like a beast, I go out of the mansion.
+            ―――I flee the mansion like a wild beast.
 }
 [sha:2c9b8937a659d9d3e5287efbf0d014ba17aa21cc]{
 -- Page 10026, Offset 33448.
 -- 皮膚感覚の異常発達か、それとも聴覚の鋭敏化か。
-Perhaps it's the abnormal growth of my cutaneous sensations, or maybe it's the sharpening of my hearing senses.
+Has my skin somehow become more sensitive?
+ Or is it my hearing that's grown sharper?
 }
 [sha:f21f59c8cde36ce4c81461f5238324bcdec71207]{
 -- Page 10026, Offset 33449.
 -- ―――耳鳴りが脳を串刺しにする。
-             ―――The ringing in my ears is skewering my brain.
+        ―――The ringing in my ears stabs at my brain.
 }
 [sha:4552b1ad4860b9959fe688a44f62e105dca74e0d]{
 -- Page 10026, Offset 33450. Mods: @n.
 -- 視界には誰もいないのに。
-Even though there's no one in sight.
+Even though there's nobody in sight...
 }
 [sha:de1fa023992e74d6edb9fce89371c66f017e141f]{
 -- Page 10026, Offset 33451.
 -- 乱立する建物から、<夥|おびただ>しいまでの人の気配が読み取れる。
-I can sense a vast number of people by the cluster of buildings.
+I can sense the presence of countless people flooding out from the sea of buildings below me.
 }
 [sha:f2c8519c35c5a52bd7fc8654c003efae7e083354]{
 -- Page 102, Offset 33452.
 -- 「はあ―――はあ―――――」
-"Hah―――hah―――――"
+"%{i}Hah%{/i}――%{i}hah%{/i}―――"
 }
 [sha:2238446e323a37cbffd14e07975fd9e94015b9ac]{
 -- Page 102, Offset 33453.
 -- こんなに人が／溢れかえる藪蚊のように／密集したところにいると、また堪えきれなくなる。
 // just put the ／ in more or less the same position as jp for now
+// Presumably these are intrusive Roa thoughts. Italics?
 If I stay around these people／that are swarming around like mosquitoes／I'll end up losing control again.
 }
 [sha:55274a3a4f99b370d3e72c3593204c44efc87c87]{
 -- Page 103, Offset 33454.
 -- 誰もいないところ。
-A place with no one around.
+Somewhere with nobody around.
 }
 [sha:cc4a1b050be76830ade0e88706661ecb304337d3]{
 -- Page 103, Offset 33455.
 -- 何の間違いも起こらないところ。
-A place where mistakes can't occur.
+Somewhere where I can't make any mistakes.
 }
 [sha:ba6550fed452ec3fe1a008d49b003da18954ed67]{
 -- Page 103, Offset 33456.
 -- まだ<意識|ジブン>があるうちに、誰にも迷惑のかからない場所に逃げこまないと―――
-While I still have a hold of myself, I must flee to a place where I won't be able to hurt anyone―――
+While I'm still myself,
+ I have to escape to a place where I won't be able to hurt anyone―――
 }
 [sha:2fa74e50e37971b1b3c19c9667db1e5c95913076]{
 -- Page 104, Offset 33457.
 -- 「……はあ……はあ………」
-"...Hah... hah..."
+"%{i}Hah%{/i}... %{i}hah%{/i}..."
 }
 [sha:cb4418d27f2fc83007b49d1e72e393b085e20e0e]{
 -- Page 104, Offset 33458.
@@ -67,17 +70,21 @@ A recreational area built in the heart of the business district.
 [sha:65c60eca888ee07e7724d92d7e7e890729b1bb53]{
 -- Page 104, Offset 33460.
 -- 日中は人の姿が見られるが、夜になれば<人気|ひとけ>の絶える都市の死角。
-It's populated during the day, but when night falls it bcomes a deserted blind spot of the city.
+People use it during the day, but once night falls it empties out and becomes a blind spot in the city.
 }
 [sha:997c077afd14ca34d67db1cd947f582a4633e663]{
 -- Page 105, Offset 33461.
 -- 墓地のように静まりかえった公園は、しかし、人の気配で溢れていた。
-Even though the park itself is as silent as the grave, it's still brimming with signs of life.
+// 気配 suucks
+But even though the park itself is as silent as the grave,
+ it's still swamped with the overwhelming %{i}presence%{/i} of people.
 }
 [sha:5525120bf401fc1e586fc5565ce5271d8ea69ec0]{
 -- Page 105, Offset 33462.
 -- 誰かの息遣いか、耳障りな話し声が、真綿のように全身を締め上げる。
-Their breathing and their grating voices are slowly breaking me down.
+// Presumably this is supposed to hearken to 真綿で首を絞める
+Each person's breathing, each grating voice,
+ is another stone around my neck.
 }
 [sha:66f57ac9d1bf9ac73c7ae8cadf7a2318d028d443]{
 -- Page 106, Offset 33463.
@@ -87,12 +94,14 @@ I can't believe it.
 [sha:b2735d088ac7ddceb922614cb7834b4e1f1e5461]{
 -- Page 106, Offset 33464.
 -- 駅前から200メートル以上離れているのに、繁華街の喧騒が手に取るように判る。
-Even though I'm over 200 meters away from the station, I can clearly distinguish the commotion from downtown.
+Even though I'm over two hundred meters from the station,
+ I can hear the hustle and bustle of downtown as though I'm standing right in the center of it all.
 }
 [sha:a5637f5953fbcb6e5d06f597a78dc087162f009f]{
 -- Page 106, Offset 33465.
 -- 遠くに見える住宅地の窓明かりはあんなにも小さいのに、目が眩むほど明るい。
-Even though the distant lights from the windows in the residential district are so faint, they're still bright enough to make me dizzy.
+Even though the lights in the windows of the residential district are so far away that they're little more than pinpricks,
+ they're still bright enough to make my head spin.
 }
 [sha:9978d2c97279a74274f80ead938c69aa64969c5b]{
 -- Page 107, Offset 33466.
@@ -102,32 +111,38 @@ Even though the distant lights from the windows in the residential district are 
 [sha:2d51b3f1c548395d02105352692933173afea51e]{
 -- Page 107, Offset 33467.
 -- 額を片手で掴み、頭痛を<堪|こら>える。
-I clench my forehead with one of my hands in order to make te headache more tolerable.
+I clench one hand over my forehead to try and suppress my headache.
 }
 [sha:c71408764bb6e595a3cb1b9da520b3ae28a0b4ee]{
 -- Page 107, Offset 33468.
 -- ……これほど密集した街の中で、人間の気配がまったくない場所なんてある訳がなかった。
-...There isn't a single place within this crowded city that's completely devoid of human life.
+In a city this crowded, no corner is completely free from the presence of human life...
 }
 [sha:b3be2f671dc8d76eedcc89f8f0def2f911004c8e]{
 -- Page 107, Offset 33469.
 -- 本当の意味で一人になる事なんて、文明の発達した街じゃもう不可能なコトだった。
-It's impossible for one to be truly alone in a city within which civilization is so developed.
+It's impossible for one to be truly alone in a city that has reached this stage of civilization.
 }
 [sha:c11d27941c9660cf5091be7b49e702a3b6fd0be2]{
 -- Page 108, Offset 33470.
 -- 「ぁ――――あ」
-"A――――ah."
+"%{i}A%{/i}――%{i}ah%{/i}."
 }
 [sha:17f4cd69b7828b154114ce47090f6acebd58a554]{
 -- Page 108, Offset 33471.
 -- そうだ。観念して周りを見ろ。
-That's right. Look around you and see.
+// Intrusive thoughts here in italics?
+Don't believe me? Just look around you.
 }
 [sha:504aa8e0f0c184f22bf511687adcde1b387e434e]{
 -- Page 108, Offset 33472.
 -- ちょっと歩くだけで獲物なんていくらでも手に入るじゃないか。なにしろこれだけの数だ。ひとりやふたり間引いたところで全体に影響はない。むしろ余分なものを削いでほしいと誰もが無意識に願っている。これは掃除だ。ゴミ拾いと何が違う。
-If you just walk a little, you can get your hands on as much prey as you desire. Look at how many of them there are. Subtracting one or two from the pile will barely make any difference. Rather, I'm sure everyone's unconsciously hoping for the fat to be trimmed. This is cleaning. How is it any different from collecting garbage?
+All they prey you could ever want is mere footsteps away.
+ Look at them all.
+ Picking off one or two of them won't change anything.
+ Honestly, they're all subconsciously wishing for someone to come along and trim the fat anyway.
+ It's simply tidying up.
+ No different to taking out the garbage.
 }
 [offset:33473]{
 -- Page 109, Offset 33473.
@@ -142,7 +157,9 @@ My head hurts.
 [sha:af8dedb5bd409b707c62327300fa0c5bcc248e0a]{
 -- Page 109, Offset 33475.
 -- <俺|ひと>の頭の中で臆面もなく騒がないでほしい。ただでさえ頭が痛くて倒れそうなのに、こんなに五月蠅いと自分から目を閉じてしまいかねない。
-Can you please stop brazenly kicking up a fuss inside my head? I already feel like I'm going to pass out because of this headache, so if things are this noisy then I might just end up willingly closing my eyes.
+Can you please stop brazenly kicking up a fuss inside my head?
+ I'm already on the verge of passing out because of this headache,
+ so if you don't pack it in I might just close my eyes and be done with it on purpose.
 }
 [sha:31258328a433139751c9295e8b7fb0ece5a58166]{
 -- Page 110, Offset 33476.
