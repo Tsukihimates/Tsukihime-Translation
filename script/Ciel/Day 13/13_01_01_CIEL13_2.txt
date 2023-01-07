@@ -17,7 +17,7 @@ As a ■■■■, I craved the blood of humans so badly I couldn't stand it.
 [sha:a224e350c5352b33abf5aa619b200d92c98167b2]{
 -- Page 77, Offset 33346.
 -- 『―――、あ』
-'Ah―――'
+'%{i}Ah%{/i}―――'
 }
 [sha:1a2d29e5e1b06d86a6587a6205fd0186055c2e65]{
 -- Page 77, Offset 33347.
@@ -33,7 +33,7 @@ And yet, it only serves to do the opposite.
 [sha:159e9cbf8e1ac4adaa3d19c199576e7c881a029c]{
 -- Page 78, Offset 33349.
 -- 『―――、ああ』
-'Ahh―――'
+'%{i}Ahh%{/i}―――'
 }
 [sha:b3da1ac8a7096227f7ba66a9ad6fed72eaa2c91a]{
 -- Page 78, Offset 33350.
@@ -49,7 +49,7 @@ And yet, it only serves to fuel their advance.
 [sha:44ed96bd4ef76120deae5db88bbc066c1d81b0df]{
 -- Page 79, Offset 33352.
 -- 『―――、あああ』
-'Ahhh―――'
+'%{i}Ahhh%{/i}―――'
 }
 [sha:566d0f464ab0fdf0b892857c711f12932fc98265]{
 -- Page 79, Offset 33353.
@@ -101,17 +101,17 @@ Helplessly, I watch as my left arm darts out―――
 [sha:e6d18c3fa07481237a0b420677033eb82693a2df]{
 -- Page 81, Offset 33361. Mods: @n.
 -- 『―――ああ、
-'Aah,
+'%{i}Aah%{/i},
 }
 [sha:13995ebbe8fdc4f498ca86ac64f519dde09b33c9]{
 -- Page 81, Offset 33362. Glued. Mods: @n.
 -- ああ、
- aah,
+ %{i}aah%{/i},
 }
 [sha:c355d0ed4ec5b9ae3c7592d6b2013419dfdbe701]{
 -- Page 81, Offset 33363. Glued. Mods: @k, @e.
 -- あああ……！』
- aaah―――!'
+ %{i}aaah%{/i}―――!'
 }
 [sha:fda49d87a98042d448fe6f38f1d222335250f526]{
 -- Page 81, Offset 33364.
@@ -146,6 +146,8 @@ I've found something that wasn't there until a moment ago.
 [sha:97010bd13c193045bfa03beca2b8270b48bab723]{
 -- Page 83, Offset 33370.
 -- その理屈は分からない。今は考えたくない。
+// Kinda unclear on what exactly その理屈 is getting at.
+// He didn't _want_ to find them before or something, implication with 考えたくない?
 I don't know how they could have gotten here.
  I don't want to think about it right now.
 }
@@ -204,7 +206,7 @@ My hands hang limp; the left dripping blood, the right smeared with it from tryi
 [sha:391d2c987c670085bb838f97d80dd66745ab1599]{
 -- Page 86, Offset 33381.
 -- 噛みちぎった筈の舌が、痛みと共に治っていく。
-The tongue I know I bit off is back, along with the pain.
+The tongue I know I bit off is back, and with it the pain.
 }
 [sha:7c7c2e3e92b5dd9ab27399dd92590dd156c28b25]{
 -- Page 86, Offset 33382.
@@ -355,7 +357,7 @@ Before I can go through with it, I hear a rasping sound.
 [sha:8cbc0a6b7b92481e79cf2669374672fcfec23fd2]{
 -- Page 10025, Offset 33410.
 -- 床を爪が掻いた音。
-The sound of fingernails scratching the floor.
+The sound of fingernails scratching at the floor.
 }
 [sha:05f5846835026e0167d40ce93d1cf5be684a45f0]{
 -- Page 10025, Offset 33411.
@@ -414,14 +416,14 @@ Deaf to my own scream, I break into a run.
 [sha:1b1cbc3ce605c8419fc27c1ba5a4828ed784c520]{
 -- Page 94, Offset 33421.
 -- 今までまったく気がつかなかった景色の中を走る。
-I run through a world I'd failed to recognize up until now.
+I run through a reality I'd been blind to up until now.
 }
 [sha:cf0b86ba43604431d21a9848727c296a9cfa8c97]{
 -- Page 94, Offset 33422.
 -- 廊下には隠しようもないほどの血の匂い。血の匂い。
 // Duplicated 血の匂い sounds kinda dumb in EN imo
-The hallway is permeated with the unmistakable stench of blood.
- A dull, iron tang.
+The hallway is soaked with the unmistakable stench of blood.
+ A dull, iron, tang.
 }
 [sha:b1fb3a0036f3b9b6c457fe1ed849ad54b6660d96]{
 -- Page 94, Offset 33423.
