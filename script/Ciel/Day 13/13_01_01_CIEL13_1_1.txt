@@ -161,7 +161,7 @@ Ah...
 [sha:ae9afce478d9c203ceef347fb4b844e528c7f96e]{
 -- Page 61, Offset 33289.
 -- なるほど、と、俺ではないオレが嗤っている。
-The %{i}me%{/i} who isn't me snickers. They understand now.
+The %{i}me%{/i} who isn't me snickers. It's clear now.
 }
 [sha:f1f19029bd96a684f0f06cbaf1828c7492daaf0a]{
 -- Page 61, Offset 33290.
@@ -173,7 +173,7 @@ This woman is accustomed to nursing the sick.
 -- 相手を注意しながらも叱らず、慈しみの笑顔で優しく歩み寄ってくる。今までさぞ人皮を被ったケダモノの相手をしてきたのだろう。
 She approaches me gently, a tender smile on her face,
  cautious of me without acting as though I'm something to be feared.
- It's clear this isn't the first time she's dealt with a monster cloaked in human skin.
+ It's clear that this isn't the first time she's dealt with a monster cloaked in human skin.
 }
 [sha:9c12815011dd40321d87b2f179a91364b31c0593]{
 -- Page 62, Offset 33292.
@@ -264,9 +264,8 @@ My words had the opposite effect.
 // Also looks a bit cleaner to me to use ruby over / here imo.
 Relived,
  ■■■ <brings|%{i}o f f e r s%{/i}   >
- her <face|%{i}v i s a g e%{/i}   >
- over to where <my|%{i}m y%{/i}   >
- <body|%{i}c o r p s e%{/i}   >
+ her <face|%{i}v i s a g e%{/i}  >
+ over to where <my body|%{i}m y   c o r p s e%{/i}   >
  lies cowering on the bed.
 }
 [sha:88f16d75314247e46bb52e3b269dfb953fdc38e2]{
@@ -274,7 +273,7 @@ Relived,
 -- ぽん、と白い指がおレの肩に触れた。
 // Uhh is this supposed to be おれ, オレ or an intentional splice?
 // Assuming it's intentional, doing a double my here with ruby
-Her white fingers brush against <my|%{i}m y%{/i}  > shoulder.
+Her white fingers brush against <my|%{i}m y%{/i} > shoulder.
 }
 [sha:86b79166f59c71b6def28be659c3d21d32d490ea]{
 -- Page 65, Offset 33310.
