@@ -349,7 +349,6 @@ But the thing that's really out of place here is the lump of iron clutched in th
 -- ヴローヴとの戦い―――この人が<本|・><気|・>で何かを殺す時にしか使わなかった、１メートル以上の刃を持つ巨大な銃。
 It's a weapon she didn't even bring out in her fight against Vlov――in a fight against someone she %{i}seriously%{/i} intended to kill.
  A colossal gun, with a bayonet that easily measures over a meter.
-
 }
 [sha:f0dd4a6a183c39fe5dad0df55f71db7a3d60ca20]{
 -- Page 149, Offset 33614.
@@ -370,23 +369,27 @@ Even if %{i}I%{/i} have never seen it before,
 [sha:a00d4662b122daefb47409ebcf3109085cb05d18]{
 -- Page 150, Offset 33617.
 -- 聖堂教会が人為的に作りあげた奇跡の具現。
-A miraculous incarnation, artificially created by the Holy Church.
+A miracle made manifest, artificially created by the Holy Church.
 }
 [sha:0832a2d6199806b478c6db9c5d70f7ca6e19cbb6]{
 -- Page 150, Offset 33618.
 -- 今を<遡|さかのぼ>ること千年前、いまだ地上に残っていた稀少な幻想種をおびき寄せ、呼び水となった少女ごと<竈|かまど>にくべ神鉄を錬成し、教典として組み上げた概念武装。
 // what the fuck did i just read
-It was forged a thousand years ago, when few phantasmal species still roamed the surface of the earth. A certain phantasmal species was lured in, and it was cast into the hearth along with the girl who served as its bait. It was then tempered into divine iron, eventually becoming a conceptual weapon structured as a scripture.
+It was forged a thousand years ago, in a time when phantasmal species still roamed the surface of the earth.
+ They used a young girl to lure in one of these rare beasts,
+ then cast the both of them into a furnace and used the flames to temper a divine iron,
+ which was eventually worked into a Conceptual Weapon that was compiled into the scriptures.
 }
 [sha:d200e9198b3c1388b0bd435755eff3f7006bd28c]{
 -- Page 151, Offset 33619.
 -- そこには人間が背負うであろう死の要因があまねく記され、神鉄はその固有震動でこれを戒める洗礼を詠唱し続ける。
-The causes of death that may befall a human are inscribed into it, while the divine iron's natural oscillation chants a baptism that admonishes them.
+It's surface has been covered with inscriptions of the causes of death that may befall humans,
+ and the divine iron's resonant frequency emits a constant aria of baptism that rebukes them.
 }
 [sha:04ea828d456b6c27b8e22f757b34bd706d597242]{
 -- Page 151, Offset 33620.
 -- <詠|うた>う教典は数あれど、これほど対“延命”に特化した教典はないだろう。
-There are many scriptures that are chanted, but none are as effective against the 'prolonging of life' as this one is.
+There are many scriptures that chant, but none so effective against the 'prolonging of life' as this one.
 }
 [sha:801f90179e8508753225557ec7f8ceca6ccfa1e8]{
 -- Page 152, Offset 33621.
@@ -396,17 +399,17 @@ It is known as the Seventh Holy Scripture.
 [sha:aa2e4d2bede4c6336de3e7d93f05e3ae82439d78]{
 -- Page 152, Offset 33622. Mods: @n.
 -- 聖堂教会が主の威光を示す為に作りあげ、
-A sacred relic created by the Holy Church to demonstrate the power of the Lord―――
+A sacred relic created by the Holy Church to demonstrate the power of the Lord.
 }
 [sha:bf6426c87cf2294359b819885a847f65e7ed014b]{
 -- Page 152, Offset 33623.
 -- 長く使い手不在だった門外不出の聖遺物―――
-but instead, it sat unused for a long, long time due to the lack of a wielder―――
+However, it say idle for many years for want of someone to wield it―――
 }
 [sha:d7fc6d091b16b276984e27e5610c9bae3992acee]{
 -- Page 153, Offset 33624.
 -- 「先―――輩？」
-"Sen―――pai?"
+"Sen――pai?"
 }
 [sha:c8f4c211f925688a42ec665f731b1e1176b84c86]{
 -- Page 153, Offset 33625.
@@ -421,7 +424,7 @@ Her gaze remains cold.
 [sha:e226be863118fca2628bebe362b498c639c85bf6]{
 -- Page 153, Offset 33627.
 -- 先輩は、同じように冷たい声でそう言った。
-In addition, her voice as she speaks those words is just as cold.
+There's no trace of warmth in her voice, either.
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 154, Offset 33628.
@@ -441,7 +444,7 @@ It happened for no reason whatsoever.
 [sha:9a11e9cfbaca751e4ee1008f10d97748112bc65d]{
 -- Page 154, Offset 33631.
 -- いや、本能と理性が総動員で警告を発し、思わず先輩から跳び退いた。
-No, my instincts and reason have mobilized and sounded the alarm, which is what caused me to reflexively jump away from Senpai.
+No, that's not right――I reflexively jumped away from Senpai because both my instincts and reason have flown onto high alert.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 155, Offset 33632.
@@ -451,22 +454,27 @@ No, my instincts and reason have mobilized and sounded the alarm, which is what 
 [sha:30c6ad8f6ede634e881d032c0322d4d9f912d004]{
 -- Page 155, Offset 33633.
 -- 先輩は固く口を閉ざしたまま、また一歩、不吉な凶器を持って近寄ってくる。
-With her mouth still sealed shut, she takes another step, approaching me with her omnious weapon in hand.
+Her lips still pressed into a firm line, she takes another step forward,
+ approaching me with her ominous weapon in hand.
 }
 [sha:8ae7782c0fbe3d92157c33e2ccee7798df8543e7]{
 -- Page 155, Offset 33634.
 -- ―――その動作に吐き気がする。
-―――Looking at her is making my nausea well up.
+―――I feel nauseous at her advance.
 }
 [sha:bf45c77eef48e4f2d7444a9d6cdddbb80191ceaf]{
 -- Page 156, Offset 33635.
 -- あの武器は怖い。見ているだけで自分の優位性を見失って泣きそうになる。この体は生物として上等なものに変わろうとしているのに、それがあの武器の前では真逆に働く。
-That weapon is terrifying. Simply looking at it is causing me lose my sense of superiority, making me want to burst into tears. My body is on the verge of transforming into a superior being, but right now, as I stand before that weapon, that fact is working against me.
+That weapon is terrifying.
+ I feel like I'm about to break down crying.
+ Simply looking at it is enough to make my lose sight of my own superiority.
+ Even though my body is striving to rebuild itself into something greater,
+ in the face of that weapon my transformation only works against me.
 }
 [sha:32791db7f60b52b401b942e188b20f6f15dc99be]{
 -- Page 156, Offset 33636.
 -- ……だが真に恐ろしいのは、先輩の、なにげなく踏み出した一歩の方だ。
-...But what's truly terrifying is how calmly she's approaching me.
+But more terrifying than her weapon is the way she's calmly striding toward me....
 }
 [sha:350293664df8cf17f34160fb17400be24b970dbb]{
 -- Page 157, Offset 33637.
@@ -481,17 +489,19 @@ If I make one wrong move while trying to escape...
 [sha:b8b1de09d382d4d9a18c89582ef4db46db7b8d78]{
 -- Page 157, Offset 33639.
 -- このまま背中を向けて走り出せば、自分の心臓がアレで貫かれ、転生もかなわぬまま消滅するのが理解できる。
-If I turn my back to her and try to run away, that thing will pierce through my heart, and I'll be annihilated without being able to reincarnate.
+If I turn my back to her and try to run away,
+ that thing will pierce my heart,
+ and I'll be annihilated without being able to reincarnate.
 }
 [sha:f657bf8bf15f238a42870f2d70f960336cd07e4c]{
 -- Page 158, Offset 33640.
 -- 「―――なんで。俺は、ただ―――」
-"―――But why? I just―――"
+"Why...? All I... wanted―――"
 }
 [sha:e63baed6629c0f65e3ccb065db68e892e48b2f03]{
 -- Page 158, Offset 33641.
 -- ただ、先輩に会いたかっただけなのに。
-I just wanted to see her.
+All I wanted was to see her.
 }
 [sha:9b140a63782f878154d77fc39a0cbe22e50cf9be]{
 -- Page 159, Offset 33642.
@@ -501,47 +511,48 @@ I just wanted to see her.
 [sha:6444522b109bfdfb79fdc58b854650d4add57855]{
 -- Page 160, Offset 33643.
 -- ざっ、と。
-Step.
+%{i}Tap%{/i}.
 }
 [sha:da7b48a42e288f490dbc3cff13acd36113aab4ea]{
 -- Page 160, Offset 33644.
 -- もう一歩、無造作に近づいてくる。
-Again, she takes another step, approaching me casually.
+She sidles forward another step.
 }
 [sha:25383aa3011782845dd49775074617d5793e67bc]{
 -- Page 160, Offset 33645.
 -- その姿はまるで―――
-She looks just like―――
+The way she's approaching me―――
 }
 [sha:1ce298610a3dcfc60b8780786a547d57d594e081]{
 -- Page 161, Offset 33646.
 -- 「―――おかしいよ先輩。
-"―――This isn't right, Senpai.
+"I don't get it, Senpai.
 }
 [sha:2e232932d5a1efa6922eb49c83504419b188301e]{
 -- Page 161, Offset 33647.
 -- それじゃあまるで―――俺を、殺そうと、しているみたいじゃないか」
-Doesn't this look just like―――you're trying to kill me?"
+The way you're approaching me――it makes it look like... you plan on killing me?"
 }
 [sha:956125f972827f97998d60d9a0375c8f18210c86]{
 -- Page 162, Offset 33648.
 -- 「―――――」
 "―――――"
 }
-[sha:68a938c0eaed172db6b8953cba8d5faa7e319dae]{
+[offset:33649]{
 -- Page 162, Offset 33649.
 -- 返答はない。
-There's no answer.
+She doesn't answer.
 }
 [sha:c3726eeb9bf120f3988125113d72c0e0997a6db6]{
 -- Page 162, Offset 33650.
 -- 女はただ、俺のカラダのどこを狙えば確実に仕留められるのかを測っている。
-Instead, all she does is calculate which part of my body to aim for to ensure my death.
+All she does is size up which part of my body she should aim for to ensure my death.
 }
-[sha:1a6254c53e3cc8319b212c2665680359531356e9]{
+[offset:33651]{
 -- Page 163, Offset 33651.
 -- 「―――先、輩」
-"Sen...pai."
+// VA doesn't actually pause in the middle much here
+"Senpai..."
 }
 [sha:9a7b589e710e4b64e89b9ca1e096c6c9a6604efa]{
 -- Page 163, Offset 33652.
@@ -551,42 +562,45 @@ She's serious.
 [sha:0d41371da5b23dc3416a513bb039210f8b84573f]{
 -- Page 163, Offset 33653.
 -- この人は、本気で、俺を殺すつもりだ。
-She's seriously intending on killing me.
+She's seriously intent on killing me.
 }
 [sha:de8a33e305a0cb46c6d0c87c1d9508adbf4943c3]{
 -- Page 164, Offset 33654.
 -- ―――ギッ。
-―――Gh.
+―――%{i}Gh%{/i}.
 }
 [sha:1769fe7c6807035a583ec85663571f091d0f9a3e]{
 -- Page 164, Offset 33655.
 -- 殺される運命を感じとって、神経が軋みをあげる。
-Realizing that I'm destined to be killed, my nerves creak.
+My nerves start squealing,
+ sensing that I'm about to be killed,
 }
 [sha:e1d53e623ea93b40274a7a12e95b3b3199a801dd]{
 -- Page 165, Offset 33656.
 -- びりびりと悲鳴をあげる首の<脊髄|うしろ>。自律神経がゴムのように引き伸ばされる。
-My spinal cord is letting out a rattling shriek, and my autonomic nerves are stretching like rubber.
+// Assuming ゴムのように引き伸ばされる is like 'being stretched thin' or something because otherwise the man makes no damn sense
+My spinal cord lets out a rattling shriek.
+ My autonomic nerves are stretched almost to their breaking point.
 }
 [sha:f5c7b73c33aac60d93b083c5446a621c3f286719]{
 -- Page 165, Offset 33657.
 -- けど―――そんな死の恐れより、俺は。
-But―――what's weighing on me most isn't the fear of death. It's that―――
+But it isn't the fear of death that weighs heaviest on me―――
 }
 [sha:175ae3fa0ccf6393776b23a580f932df656ab1f4]{
 -- Page 165, Offset 33658.
 -- この人がどうしてそんなコトを言うのか、本当に、信じられなかった。
-I honestly can't believe she would ever say something so horrible.
+It's that I honestly can't believe she would ever say something so horrible.
 }
 [sha:3727e13041de1f8be5b103c9ec0695dbbce1e2cd]{
 -- Page 166, Offset 33659.
 -- 「――――なん、で？」
 "――――Why?"
 }
-[sha:4c7797b405c774a7e9e7b5211cf8eae1c1ab2040]{
+[offset:33660]{
 -- Page 166, Offset 33660.
 -- わからない。
-I don't know.
+I don't understand.
 }
 [sha:8dc8193ea4631fd6db1a8f5b179ffa4266214838]{
 -- Page 166, Offset 33661.
