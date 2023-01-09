@@ -51,7 +51,7 @@ There's a great place not far from here."
 [sha:563a5335b956c76fc82d9745052832d3907e2d31]{
 -- Page 250, Offset 18896.
 -- 「あ――――え？」
-"Ah――――Huh?"
+"Ah――huh?"
 }
 [sha:e820a9796081b5a6c2d511a25d77916af9ce16ed]{
 -- Page 251, Offset 18897.
@@ -597,7 +597,7 @@ Nevertheless, it seems like my feelings of gratitude got across.
 -- Page 293, Offset 18997.
 -- 「あー……でも、先輩の足手まといになってるのは変わりませんね。相手はもう死んでいる、相容れない敵だって分かっているのに、割り切れない」
 // Thought about 相容れない敵 for a bit. Settled on the mutually exclusive vibe as easiest to get across succinctly.
-"Ah―――But that doesn't change the fact that I'll only be slowing you down.
+"Ah――but that doesn't change the fact that I'll only be slowing you down.
  I know that the enemy is already dead,
  and that in this fight it's either us or them,
  but I can't bring myself to think like that."
@@ -634,7 +634,7 @@ I have to harden my heart. I can't let myself be this conflicted when I come fac
 [sha:c55e793c5408f67717c4ea8d3c887b95420e537e]{
 -- Page 297, Offset 19003.
 -- 「……失礼しました。
-"...My apologies.
+"My apologies.
 }
 [sha:b337e2bb8f59c34f6a8f249da182f83234916114]{
 -- Page 297, Offset 19004. Mods: @k, @e.
@@ -952,6 +952,7 @@ Before I can even think of stopping her,
 [sha:7c49e4f7547a88776b97c3be6b18fb91c1e7cb74]{
 -- Page 321, Offset 19060.
 -- ……と思ったら戻ってきた。
+// lint-off:LintStartingEllipsis
 ...And then comes right back in again.
 }
 [sha:646b47c9148875ad20b3d328baba294c2b7be14b]{
