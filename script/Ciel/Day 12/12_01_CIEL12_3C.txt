@@ -1,12 +1,16 @@
 [sha:cee2398691bd12b88a08d14753a09116dc865e72]{
 -- Page 10010, Offset 31209.
 -- さらに５分。
-Five minutes later.
+That's another five minutes gone.
 }
 [sha:6ddb69a91f202ea565af84eaf3666412ce37df36]{
 -- Page 10010, Offset 31210.
 -- 家に辿り着くだけなら20分でこなせたが、これから出かける支度をして、坂道を下りて駅前まで行くにはどう急いでもプラス20分はかかってしまう。
-It took me twenty minutes just to get home, but no matter how fast I go, it'll take at least another twenty minutes to get ready and run down the hill to the station.
+It took me twenty minutes just to get home.
+ Even if I pull out all the stops,
+ I don't see any world in which I can get ready,
+ run back down the hill,
+ and make it to the station in less than another twenty minutes.
 }
 [sha:9c85b72d1e18d9df9801c350f1d24d52854d2de9]{
 -- Page 10010, Offset 31211.
@@ -16,7 +20,7 @@ Senpai must've decided on that ridiculous schedule knowing full well that my hou
 [sha:c46101ec3cd0bf8335a85df26211eaa735374546]{
 -- Page 134, Offset 31212.
 -- 「……ああもう！
-"...Oh come on!
+"Ugh, gimme a break!
 }
 [sha:7d1c661a7adeb4fdae404549144508620187da2c]{
 -- Page 134, Offset 31213.
@@ -31,72 +35,81 @@ I rush into the lobby and finally come to a halt.
 [sha:70de143fcfe3632ce028299cbe1394f9751f92b2]{
 -- Page 135, Offset 31215.
 -- ぜいぜいと肩で息をして心臓を落ち着ける。
-I try to calm down my labored breathing and frantic heart.
+Panting heavily, I calm my racing heart.
 }
 [sha:35ac40b38af6158dc69acd3d43017d4f1574e000]{
 -- Page 135, Offset 31216.
 -- 家の中で走りまわるのはマナー違反だし、休憩がてらここからは早歩きに切り替えよう。
-Running inside the mansion would be a breach of etiquette, so I'll take a breather and switch to a brisk walk instead.
+I'd better slow to a brisk walk from here,
+ both because running inside the mansion would be a breach of etiquette,
+ and to give myself a chance to catch my breath.
 }
 [sha:34c0ce4fbea0b2c72e62a3a8851cd5a33fd714a5]{
 -- Page 136, Offset 31217.
 -- 「あら志貴さん。今日はお早いお帰りなんですね」
-"Well, if it isn't Shiki-san. You sure are early today, huh."
+// This page only if you've scared Hisui off I guess
+// _IF__(F069,eq,0,LV00500) -> jumps to Hisui version
+"Oh my, if it isn't Shiki-san.
+ You're home rather early today, aren't you?"
 }
 [sha:62bd5d86f52c4ff0a465cd39df1d50533f8d9cba]{
 -- Page 136, Offset 31218.
 -- 「ただいま琥珀さん。ちょっと急いでるから、また後で！」
-"I'm back, Kohaku-san. I'm in a hurry, so we'll catch up later!"
+"I'm back, Kohaku-san. Gotta run, I'll catch you later!"
 }
 [sha:d2dbcb65ed857cdfb4e5054c8de33a3d9b1ad006]{
 -- Page 136, Offset 31219.
 -- 食堂から顔をだした琥珀さんに挨拶をして階段を上る。
-I greet Kohaku-san, who turned up from the dining room, then begin making my way up the stairs.
+I greet Kohaku-san,
+ who had poked her head out from the dining room,
+ then begin making my way up the stairs.
 }
 [sha:19c437989fafc65e2400e0a0a4f4584c4448526e]{
 -- Page 10011, Offset 31220.
 -- 「志貴さま？　お帰りになられたのですか？」
-"Shiki-sama? Have you already returned?"
+"Shiki-sama? Have you been back long?"
 }
 [sha:643ef34ef8367959593d296f92f1a443f8586e11]{
 -- Page 10011, Offset 31221.
 -- 「ただいま、いま帰ってきた。
-"I'm back. I just got here.
+"Hey Hisui! I just got home.
 }
 [sha:998d398ef7dd3874ec8e4e1254469ae7f27c0a4b]{
 -- Page 10011, Offset 31222.
 -- すぐに出かけるから昼飯は用意しなくていいよー！」
-I'll be leaving immediately, so I won't be needing lunch!"
+I'm headed right back out again, so no lunch for me thanks!"
 }
 [sha:be84159be657e47ff070b40e6e231b784003c28b]{
 -- Page 138, Offset 31223.
 -- 居間から出てきた翡翠に挨拶をして階段を上る。
-I greet Hisui, who came from the living room, then begin making my way up the stairs.
+I greet Hisui,
+ who has just come out of the living room,
+ then begin making my way up the stairs.
 }
 [sha:a9b51d36300b57e1669ec34563dbc7700e07678e]{
 -- Page 10012, Offset 31224.
 -- ―――――ずきん。
-―――――Crash.
+―――%{i}Throb%{/i}.
 }
 [sha:f4f31350215a4fffb87f19aeaa0ae726b969e439]{
 -- Page 10012, Offset 31225.
 -- 「――――――え」
-"――――――Huh?"
+"Wha―――"
 }
 [sha:a9b51d36300b57e1669ec34563dbc7700e07678e]{
 -- Page 10012, Offset 31226.
 -- ―――――ずきん。
-―――――Crash.
+―――%{i}Throb%{/i}.
 }
 [sha:d42fd18dcb413c3038eb639d87516b0a3301d2f3]{
 -- Page 10012, Offset 31227.
 -- いきなり、何の前触れもなく。
-Suddenly, without any warning.
+Suddenly, without any warning―――
 }
 [sha:a9b51d36300b57e1669ec34563dbc7700e07678e]{
 -- Page 10012, Offset 31228.
 -- ―――――ずきん。
-―――――Crash.
+―――%{i}Throb%{/i}.
 }
 [sha:1190d47dc46167cb2d898c3f74fa985fb360f06f]{
 -- Page 140, Offset 31229.
@@ -106,57 +119,64 @@ My vision is dyed a deep red.
 [sha:eb4acf4ea5b349d7453a694769be6f44f449ebb6]{
 -- Page 141, Offset 31230.
 -- 「志貴さん……!?」
+// Kohaku flag.
+// _IF__(F069,eq,0,LV00900); -> _GOTO(LBL_013); (Page 10013)
 "Shiki-san...?!"
 }
 [sha:3f6490c8aad05fe5edf97c6fc1e4ec20a52004b1]{
 -- Page 141, Offset 31231.
 -- ……琥珀さんの声が聞こえる。
-...I hear Kohaku-san's voice.
+I hear Kohaku-san's voice...
 }
 [sha:a7a8c48e30d6057c32343e9c4a26e04eb4435bc3]{
 -- Page 141, Offset 31232.
 -- あわてて駆け寄ってくる足音。……いつもほがらかな彼女とは思えないほど、素早い身のこなし。
-I hear her footsteps as she frantically rushes over...... You wouldn't guess from her normally laid-back demeanor, but she's quite quick on her feet.
+Her hurried footsteps echo through the lobby.
+ She's surprisingly quick on her feet for someone with such a calm and sunny disposition...
 }
 [sha:fc62aa89e10c2c619984d1b2b422f140be11832c]{
 -- Page 142, Offset 31233.
 -- 「志貴さん、体をまるめて！　頭を打たないように！」
-"Shiki-san, curl up your body! Try not to hit your head!"
+"Shiki-san, curl up into a ball!
+ Try not to hit your head!"
 }
 [sha:fcb3a2444b7d49c4c939e50c182a0f1f6fff6c8f]{
 -- Page 142, Offset 31234.
 -- 遠くで声がして、無意識のうちに背中を丸めた。
-Hearing a voice in the distance, I involuntarily curl my back.
+At the faraway voice's urging,
+ I subconsciously hunch my shoulders.
 }
 [sha:74754b7cf8105c370fbdca958654b36e206056c6]{
 -- Page 143, Offset 31235.
 -- ……背中が硬いものの上を滑っていく。
-...My back slips on top of a hard surface.
+My back slides across something hard...
 }
 [sha:71db1e854ac816c38492fb2bc2e0c292ed964c25]{
 -- Page 143, Offset 31236.
 -- 幸い、そちらの痛みはなかった。
-Fortunately, I don't feel any pain coming from there.
+Fortunately, it doesn't hurt at all.
 }
 [sha:52ce5d185cfdab108fdefcf88297e884253ce879]{
 -- Page 143, Offset 31237.
 -- ただ、頭蓋が砕け散るような痛みがあるだけ。
-Only the skull-crushing pain remains.
+Nothing exists but the crushing pain inside my skull.
 }
 [sha:0aa437d13ab84fd6a4e062c1d891dda597da417f]{
 -- Page 10013, Offset 31238.
 -- 「志貴さま!?」
+// Jump target for Hisui version
 "Shiki-sama?!"
 }
 [sha:4571524de910ba754eab6c30786a90111c3ea304]{
 -- Page 10013, Offset 31239.
 -- ……翡翠の声が聞こえる。
-...I hear Hisui's voice.
+I hear Hisui's voice...
 }
 [sha:c30806208ac2cd3b761602f90e4729bd1a42c61c]{
 -- Page 10013, Offset 31240.
 -- 重く絨毯を踏みしだく足音。……翡翠とは思えないぐらい、慌てている。
-I hear her footsteps as she treads heavily on the carpet...... I wouldn't have ever imagined that she could be this stricken with panic.
+Her feet pound against the carpet.
+ I didn't know she could get this worked up...
 }
 [sha:2d245292cba386cd6fcf2f7199b628faa86fc3c7]{
 -- Page 145, Offset 31241.
@@ -166,37 +186,41 @@ I hear her footsteps as she treads heavily on the carpet...... I wouldn't have e
 [sha:eac1fced0cd951a7838b2973251a4a1e57ad8b61]{
 -- Page 145, Offset 31242.
 -- 耳元で声がする。翡翠の姿は見えない。
-I hear her voice close to my ears. I can't see her.
+My ears pick up a voice right next to me, but I can't see Hisui at all.
 }
 [sha:52ce5d185cfdab108fdefcf88297e884253ce879]{
 -- Page 145, Offset 31243.
 -- ただ、頭蓋が砕け散るような痛みがあるだけ。
-Only the skull-crushing pain remains.
+Nothing exists but the crushing pain inside my skull.
 }
 [sha:dd72b6af60152895c6b11b84dd84b5a186db7549]{
 -- Page 146, Offset 31244.
 -- 「落ちついて翡翠ちゃん。階段から落ちた怪我は軽い打撲だけよ。お医者さまを呼ぶほどのものじゃないわ。
-"Calm down, Hisui-chan. It's just a minor concussion from falling down the stairs. There's no need to call a doctor over.
+"Calm down, Hisui-chan.
+ The only injuries he sustained falling down the stairs are some light bruises.
+ There's no need to call for a doctor.
 }
 [sha:e217d665b1001d64cc6edb90ca90f4174a598b5f]{
 -- Page 146, Offset 31245.
 -- ……それより危ないのは体の熱です。階段を踏み外したのも熱のせいでしょうから、すぐにベッドの用意をして」
-...What we really should be worried about is his fever. It may be the reason why he lost his footing, so prepare the bed at once."
+What we really need to worry about is his fever...
+ It may be the reason he lost his footing in the first place,
+ so prepare the bed for him at once."
 }
 [sha:286f35f6b1f374c966f7460a5ef2222300ac0b58]{
 -- Page 147, Offset 31246.
 -- 「……はい。姉さん、この事は秋葉さまには……」
-"...Right. Nee-san, should I inform Akiha-sama about..."
+"Understood. Nee-san, should I inform Akiha-sama about..."
 }
 [sha:2c2a3e89d0c11bb55231f38aff030e2ededbe89c]{
 -- Page 147, Offset 31247.
 -- 「このまま大事がなければお報せする必要はありません。
-"As long as the situation doesn't escalate further, there will be no need to inform her.
+"Provided his condition doesn't worsen, there should be no need to inform her.
 }
 [sha:57cfa5942e0454b80f1c1019638ed3f1efc4a0cf]{
 -- Page 147, Offset 31248.
 -- 解熱剤はわたしの部屋にあるから、お願い」
-I have a stock of antipyretics in my room, so if you could please."
+I have a collection of antipyretics in my room, would you mind?"
 }
 [sha:93fce2252d1f48823aac266de7df267e082f6599]{
 -- Page 148, Offset 31249.
@@ -206,37 +230,45 @@ The sound of Hisui's footsteps fades into the distance.
 [sha:423d44f4cdd4dc718585b069dd0e857484738789]{
 -- Page 10014, Offset 31250.
 -- 「志貴さん、気がつかれました？」
-"Shiki-san, are you awake now?"
+"Shiki-san, can you hear me?"
 }
 [sha:a6198073748b51440ecc8f8cd6fb663dd3b92b69]{
 -- Page 10014, Offset 31251.
 -- 「……琥珀……さん？」
-"...Kohaku... san?"
+"Kohaku... san?"
 }
 [sha:d7fb5c30910fa057f7c16ea55807c2436caaba7b]{
 -- Page 150, Offset 31252.
 -- 「はい。志貴さん、階段から転がってきたんですよ。背中を軽く打ってしまわれましたが、幸い大事はありません。
-"That's right. You fell down the stairs, you know. You ended up lightly hitting your back, but luckily, it's nothing too serious.
+"That's right.
+ You've just taken a bit of a tumble down the stairs.
+ You bumped your back a little on the way down, but thankfully nothing too serious.
 }
 [sha:40bea403dfa6f85c44e8af39f19428e364687ec8]{
 -- Page 150, Offset 31253.
 -- ですが熱がおありのようですね。お出かけの予定かと存じますが、どうか今日はこのままお休みください」
-But it seems like you have a fever. I understand that you had plans to go out, but I strongly suggest that you take the day off."
+However, it seems that you are running a fever.
+ I understand that you had plans to go out,
+ but I strongly suggest that you take the rest of the day off."
 }
 [sha:598212b99d678e353e603bb3c58c7142f2689762]{
 -- Page 151, Offset 31254.
 -- 琥珀さんは俺の肩に手をやって、なんとか立たせてくれた。
-Kohaku-san places her hands on my shoulders, somehow managing to prop me up.
+Kohaku-san places a hand on my shoulder, steadying me as I pick myself up.
 }
 [sha:a6f8bff5cbab61e61eb5758e8425a41d3b710415]{
 -- Page 151, Offset 31255.
 -- 「いや……大丈夫、休まなくてもすぐ治まります。ここまで全力で走ったから息があがってるだけで―――」
-"No... I'm fine. Even if I don't rest, I'll recover right away. This only happened because I ran out of breath sprinting all the way here at full speed―――"
+"No... I'm fine.
+ It'll clear up soon even if I don't rest.
+ I ran all the way here from school, so I'm just a little out of breath―――"
 }
 [sha:c76d73a3a6420fff2bea4f0bf8a9138ba84811fb]{
 -- Page 152, Offset 31256.
 -- 「いけません！　そんな青い顔をして何を仰っているんですか。志貴さんのお体を看る者として、これ以上の無茶はさせられません！」
-"I can't allow that! What are you saying? Do you know just how pale you are right now? As someone who's responsible for your wellbeing, I will not allow any more reckless behavior!"
+"I can't allow that!
+ There's no way you would say that if you could see just how pale you look right now!
+ As someone responsible for your well-being, I will not allow any more reckless behavior!"
 }
 [sha:9a3b7eb97212403c0c064490655b79f0506dbb5a]{
 -- Page 153, Offset 31257.
@@ -246,17 +278,19 @@ Kohaku-san places her hands on my shoulders, somehow managing to prop me up.
 [sha:b8c8c40b60b44b74368dcc8941783d6820b68392]{
 -- Page 153, Offset 31258. Mods: @k, @e.
 -- 「お断りの連絡でしたら引き受けます。
-"I'll inform them of your absence.
+"I will inform them that you are unable to attend.
 }
 [sha:faf7bb63d3fbc50d2ebff14a928aa94bc5b3d89a]{
 -- Page 153, Offset 31259. Glued. Mods: @x.
 -- あんまり無茶するようでしたらお注射の出番ですからっ……！」
-If you insist on continuing to push yourself, I'll have to bring out the injections...!"
+// Where do I sign up
+ If you insist on continuing to push yourself,
+ I'll be forced to administer an injection!"
 }
 [sha:996db98be78f1cd16988ec17231dc90c060bddcc]{
 -- Page 153, Offset 31260.
 -- ……琥珀さんは俺を引き止めようと立ちはだかっている。
-...Kohaku-san stands in my way, trying to hold me back.
+Kohaku-san has placed herself squarely between me and the door.
 }
 [sha:0e55252e3a7bda6d01cc66d691485e3ed341a90d]{
 -- Page 154, Offset 31261.
@@ -271,10 +305,10 @@ I think―――
 [sha:02f66ba0392e4d7d72e433e7cb15fb0ec2b45647]{
 -- Page 154, Offset 42744. Choice.
 -- ……琥珀さんは邪魔だ。
- ...Kohaku-san is a nuisance.
+ Kohaku-san is a nuisance.
 }
 [sha:c2d170ebd115632fc9f28886e195afbb1b9ed335]{
 -- Page 154, Offset 42745. Choice.
 -- ……琥珀さんの言う通りだ。
- ...Kohaku-san is right.
+ Kohaku-san is right.
 }
