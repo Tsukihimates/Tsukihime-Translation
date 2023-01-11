@@ -36,12 +36,13 @@ it another two or three times.
 [sha:c447cad0aea1cea913ebbd2f9b0ca3ad9a81a011]{
 -- Page 102, Offset 43504.
 -- ちょっとコンビニに行くくらいの気持ちで
-You'll be able to walk off a dead end
+You'll be able to walk off a dead end like%{n}
 }
 [sha:deada6a99989965f313e4d412b41560ddc596057]{
 -- Page 102, Offset 43505.
 -- デッドエンドを迎えていただければ。
-like it's a trip to the convenience store in no time.
+it's a trip to the convenience store in%{n}
+no time.
 }
 [sha:78e325398bebf9f376df1aea36b6017c543f0239]{
 -- Page 103, Offset 43506.
@@ -61,28 +62,32 @@ If you're going to retreat,
 [sha:c472d1fd8f164a0100cf345664b7a44d7cf13ee4]{
 -- Page 104, Offset 43509.
 -- 崩しておきましょう。
-you need to knock your opponent off-balance first.
+ you need to%{n}
+knock your opponent off-balance first.
 }
 [sha:96abd947a1aa6e5d7a3ded279ee0c67832d62d21]{
 -- Page 105, Offset 43510.
 -- ガラ空きの背中なんてただの的ですから。
 // A bit loosey goosey but hey this is QA
-Leaving yourself wide open just paints a target on your back.
+Leaving yourself wide open just paints a%{n}
+target on your back.
 }
 [sha:e86020b449333bcffc7fd639978349d47639fda1]{
 -- Page 105, Offset 43511.
 -- スピードで負けているなら尚更です。
-Especially when you can't hope to compete on speed.
+ Especially when you%{n}
+can't hope to compete on speed.
 }
 [sha:c1d75a78d4842a38b2e896a7fd4122858ea1f299]{
 -- Page 106, Offset 43512.
 -- 戦闘経験は相手の方が圧倒的に上なので、
-Your opponent has far more combat experience than you.
+Your opponent has far more combat experience%{n}than you.
 }
 [sha:ccab5b930e98baa02f1ca7e23950df7df8512d47]{
 -- Page 106, Offset 43513.
 -- ここは奇抜な発想―――
-You need to either think outside the box―――
+ You need to either think outside%{n}
+the box―――
 }
 [sha:44791e53ac76c4576dcfd36fe5cf5b71ffdf8979]{
 -- Page 107, Offset 43514.
@@ -107,7 +112,8 @@ Yeesh, look at that power gap.
 [sha:ae1c015ee72a9c35230cca6f0f14098d999fd687]{
 -- Page 109, Offset 43518.
 -- 言ってんなこのインド。
-This indophile's advocating some seriously wishful thinking.
+ This indophile%{n}
+is advocating some seriously wishful thinking.
 }
 [sha:aa5a6d675d554292825029444dfcf89eba327a74]{
 -- Page 110, Offset 43519.
