@@ -32,6 +32,7 @@ where all will be explained to the perplexed Tohno-kun!
 [offset:43458]{
 -- Page 76, Offset 43458.
 -- …………。
+// lint-off:LintStartingEllipsis
 ......%{n}
 }
 [sha:823537cf8e5e2b5e7d45d431e9ae01094d5389b1]{
@@ -74,6 +75,7 @@ okay?
 [offset:43466]{
 -- Page 81, Offset 43466.
 -- …………。
+// lint-off:LintStartingEllipsis
 ......%{n}
 }
 [sha:823537cf8e5e2b5e7d45d431e9ae01094d5389b1]{
@@ -173,6 +175,7 @@ protected the city.
 [sha:5671c31bb88f3403675143a6d7efd1dae4edfc0f]{
 -- Page 90, Offset 43484.
 -- 遠野くんが心の底から
+// lint-off:LintEmDashes
 If you really believe it to be true―――%{n}
 }
 [sha:58b078d6f278232ac4df11f7aebbe57eb47be80d]{
@@ -224,6 +227,7 @@ We gotta make sure we choose Arcueid!
 [sha:9eb3e0b1bc5371aa5c51779d5cd289b3dceed839]{
 -- Page 95, Offset 43494.
 -- ――数時間後――
+// lint-off:LintEmDashes
 ――Several hours later――
 }
 [sha:e941d89b9f637816f5366d160e36569033efe040]{
