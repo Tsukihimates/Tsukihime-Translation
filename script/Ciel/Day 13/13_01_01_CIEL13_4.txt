@@ -42,7 +42,8 @@ I trip over myself and collapse sprawling onto the ground.
 [sha:aefcb49442ad6ae8d1d1537a68f50b9a2de04434]{
 -- Page 312, Offset 34102.
 -- 背中の傷はもう元通りのクセに、左手と左肩の傷はそのままだ。やはりあの杭打ち機は特別な武器らしい。
-The wound on my back has already healed, but the same can't be said for the wounds on my left arm and shoulder. It seems like that pile bunker really is some sort of special weapon.
+The wound on my back has already healed, but the same can't be said for the gaping holes in my left arm and shoulder.
+ It seems like that pile bunker really is some sort of special weapon.
 }
 [sha:f87140311a9d1f86cbde2fe85d984017a877600b]{
 -- Page 313, Offset 34103.
@@ -273,7 +274,7 @@ Even now, I can confidently say that it was right for us to meet.
 [sha:5576fd0bf23382e8431f8a334353e2b845b2807b]{
 -- Page 324, Offset 34145.
 -- 俺は、生きてちゃいけない人間だったみたいだ」
-It seems like I'm someone who shouldn't be allowed to live."
+It seems like I was someone who shouldn't have been allowed to live after all."
 }
 [sha:e06b917a262963172f7168b1eb148f3231326b25]{
 -- Page 325, Offset 34146.
@@ -365,7 +366,9 @@ With this, my work is over.
 [sha:67572bb2ca78c173762453967d5bff076d0b02e6]{
 -- Page 330, Offset 34162.
 -- ああ。けど、真実だってあったのかもしれない。
-Ah. But... maybe there was a hint of truth in her words after all.
+// Assuming this is a 'yeah [she sure is a liar]' for ああ
+She's a liar, but...
+ maybe there was a hint of truth in her words after all.
 }
 [sha:3031223e2747a74e6fff683545901191b08813c1]{
 -- Page 330, Offset 34163.
@@ -375,32 +378,38 @@ I mean, even though she's been deceiving me all this time, she's never―――
 [sha:a33e6fdd9fb63d00c11c3d9a00b9314f57249668]{
 -- Page 331, Offset 34164.
 -- “……うん。今までありがとうございました。
-'...Yeah. Thank you for everything until now.
+// Quoting 28668.
+'Yes... Thank you for everything.
 }
 [sha:15d3e4980969b8dbdb7e963fa7fcd22ae741176b]{
 -- Page 331, Offset 34165.
 -- わたし、こんなに嬉しかったの久しぶりです。ですから、最後に握手しましょう”
-It's been a while since I've been this happy. As such, we should do a final handshake.'
+// Quoting 28669.
+It's been a long time since I last felt this happy.
+ So, let's shake hands one last time.'
 }
 [sha:4afc00318c0203e1391f49ae0a4785127751afcf]{
 -- Page 332, Offset 34166.
 -- 「………おお、うそつき」
-"...You're such a... huge liar."
+"You're such a... huge liar."
 }
 [sha:1a5f7eb352e83210cdd00cf254a3ca641e85f9e7]{
 -- Page 332, Offset 34167.
 -- ただの一度も。あの人は、俺に嘘はつかなかった。
-She's never spoken any lies. Not even once.
+// Modulated here because it doesn't read well for him to say 'she's a liar' 4 times then say 'but she didn't lie :)"
+―――She's never said anything that wasn't true. Not even once.
 }
 [sha:2d6914616e3a6221ee49e30d9c5f7b88e18f665f]{
 -- Page 333, Offset 34168.
 -- “わたしがいなくなっても乾くんと仲良くしてくださいね。
-'Even when I'm gone, I hope you still get along with Inui-kun.
+// Partial quote 28674.
+'Please stay good friends with Inui-kun even after I'm gone, okay?
 }
 [sha:67aa7467d1c86f0e7d189e0db3b18668cddcc76a]{
 -- Page 333, Offset 34169.
 -- わたし、遠野くんと乾くんみたいな学生になりたかった”
-I've always wanted to be a student like the two of you.'
+// Quoting 28675.
+I wish I could have been the kind of student you two are.'
 }
 [sha:8eaa978afc424a226a1e857f05b10c5b2c0e8cc7]{
 -- Page 334, Offset 34170.
@@ -410,22 +419,24 @@ I've always wanted to be a student like the two of you.'
 [sha:0365d4fa364ac94327121fc30b1bcd0f90a0d9cc]{
 -- Page 334, Offset 34171.
 -- でも、あの人自体が嘘だった。
-Even then, her very existence is built on lies.
+Even so, her very existence is built on lies.
 }
 [sha:c2347e0e639baaeda27b34d5c29eaf28a6038610]{
 -- Page 334, Offset 34172.
 -- あの笑顔が本当の嘘とは俺には思えない。
-I can't bring myself to believe that her smile was nothing more than a lie.
+// lint-off:LintDupedWord
+I can't bring myself to believe that that smile of hers was fake.
 }
 [sha:921dbdbf4bd78c915c35179b09dedb969a7e071f]{
 -- Page 334, Offset 34173.
 -- けど、現実なんてこんなもんだ。
-But this is how reality really is.
+But, well, reality isn't always pleasant.
 }
 [sha:dc1c7cb286ef052fc1e5cf6eb638a429e37cd6cc]{
 -- Page 334, Offset 34174.
 -- ……シエル先輩という役柄が嘘で、俺を殺す為に傍にいてくれただけ。
-She deceived me by pretending to be my upperclassman, and she only stayed by my side so that she could eventually kill me...
+The character named Ciel-senpai was all an act,
+ a means to get close to me so that she could eventually kill me...
 }
 [sha:14652688080b0a9bb9d01128ae5d4df141766a13]{
 -- Page 335, Offset 34175.
@@ -440,38 +451,39 @@ She never genuinely granted me forgiveness.
 [sha:45fc3047e8a95e1b1a943856f2b69491cd867e5f]{
 -- Page 335, Offset 34177.
 -- 俺がダメになっていた時に助けてくれたのも。
-The same goes for the time she saved me when I was at my lowest.
+Even the time she helped me when I was at my lowest―――
 }
 [sha:3c88a2fc3cabe87cf8b03c343ad011d7d9cf8768]{
 -- Page 335, Offset 34178.
 -- 休み時間に二人で意味もなく過ごしたことも。
-Even the times we spent aimessly messing around during our breaks.
+Even when we hung out killing time together outside of class―――
 }
 [sha:686f7f14623397437358299bc1c388cd0f2471c7]{
 -- Page 335, Offset 34179.
 -- 全部、俺がロアかどうかを確かめていただけだった。
-She only did all that so she could confirm whether or not I was Roa.
+It was all just her trying to confirm whether or not I was Roa.
 }
 [sha:78092ef03d6d362725ee5c02253e4490dbe40458]{
 -- Page 336, Offset 34180.
 -- ぎり、と歯が軋んだ。
+// This and next kinda fudged so it isn't just repetitive in EN
 I grit my teeth.
 }
 [sha:ede7e14ba369e0da5b64d0b02a006d44417abe22]{
 -- Page 336, Offset 34181.
 -- 奥歯を強くかみ締める。
-I clench down hard on my molars.
+My molars groan under the pressure.
 }
 [sha:d62adc7bc26344a0528b68b9bbc557fb3e8b17b0]{
 -- Page 336, Offset 34182.
 -- 「……ちく、しょう」
-"...Damn it."
+"Damn it..."
 }
 [sha:9ffa9d26fc7f54a620eab225c3babd116d42566d]{
 -- Page 336, Offset 34183.
 -- 悔しくて壁を掻く。
-// im literally always doing this
-I scratch at the wall in frustration.
+// I'm literally always doing this
+I claw at the wall in frustration.
 }
 [sha:a5e4bd5cd816752b5905f4eb01affb521307fc0e]{
 -- Page 336, Offset 34184.
@@ -481,27 +493,27 @@ That's right. I was deceived.
 [sha:3d9ed2acbadc678798659e331b137ba2a4ab0ed4]{
 -- Page 336, Offset 34185.
 -- あの人はすべて計算ずくで自分に近づいてきた。
-She already had everything planned out from the moment she first approached me.
+She had it all planned out before she even approached me.
 }
 [sha:e2d76aacfc951ffad4e2924762f530c0647f201b]{
 -- Page 337, Offset 34186.
 -- 「……それなのに」
-"But still..."
+"But even so..."
 }
 [sha:71b8c101a5c3293362f7f2fdfc81a732b0fc68ea]{
 -- Page 337, Offset 34187.
 -- 悲しくて壁を掻く。
-I scratch at the wall in sorrow.
+I claw at the wall in sorrow.
 }
-[sha:c50a3ce3b61df1ad2fb0757ee78ae9e436b5911d]{
+[offset:34188]{
 -- Page 337, Offset 34188.
 -- ……ああ。
-Ah...
+Yeah...
 }
 [sha:8c9731b2dc534a3c659a7c45a66ceccfabcec95d]{
 -- Page 337, Offset 34189.
 -- けれど、それでも――――
-Even then――――
+Even despite all that, I――――
 }
 [sha:97fa1c817a7858b42e48a54fba126245f72f2cda]{
 -- Page 337, Offset 34190.
@@ -516,7 +528,7 @@ There's no way I could ever hate her.
 [sha:96b2ce6b906637eac30280bf16f261ae01e7db74]{
 -- Page 338, Offset 34192.
 -- あの人にとって真実でなくても、俺は楽しかった。
-Even if it was nothing but a mere lie to her, I still had lots of fun.
+Even if it was all an act for her, I still had lots of fun.
 }
 [sha:18afd909c0bd8e7cc1ea03d35198f45382b635af]{
 -- Page 338, Offset 34193.
@@ -526,98 +538,106 @@ That alone is the undeniable truth.
 [sha:81c548f1fdfcf667bef2c91e15c1ce1c58bb5afc]{
 -- Page 338, Offset 34194.
 -- 先輩と出会って二週間にも満たない時間だったけど、本当に―――あんなに生きていて嬉しかった事は、なかったんだ。
-It hasn't even been two weeks since we first met, but even then―――this is the happiest I've been in my entire life.
+It hasn't even been two weeks since we first met, but even then――this is the happiest I've been in my entire life.
 }
 [sha:e0d22961b8f0925898857d2687e90a6e97705f17]{
 -- Page 339, Offset 34195.
 -- 「……ちく、しょう――――」
-"...God, damnit――――"
+"God... damnit―――"
 }
 [sha:75fd6c2cf65ade8b98facfe6c36d3efaaf401d16]{
 -- Page 339, Offset 34196.
 -- でも、それは俺だけの幻想だった。
-But... those were all just my one-sided misapprehensions.
+Except... I was living in a fantasy.
 }
 [sha:075ddf0ceb2ebc30e85f7ad5c9446d96d56823eb]{
 -- Page 339, Offset 34197.
 -- ……目を閉じてしまいそうだ。
-...I feel like my eyes are about to close.
+My eyelids are beginning to droop...
 }
 [sha:4b127649f44905758c81ba73600650924323c036]{
 -- Page 339, Offset 34198.
 -- 憎しみでも怒りでもなく、ただ悔しくて、こんなにも胸が痛んでいる。
-I don't feel any hatred or anger. All I feel is regret and the excruciating pain in my chest.
+I feel no hatred, no anger;
+ only a regret so intense it ties my stomach into knots.
 }
 [sha:4828faac957540f24fc1dcefbe8e6364a14ac37e]{
 -- Page 340, Offset 34199.
 -- 視界が滲んでいく。
-My vision is getting blurry.
+My vision is starting to blur.
 }
 [sha:85882482b1a30e16bb4cea7e964b874ee0614d7e]{
 -- Page 340, Offset 34200.
 -- 頭上には煌々と輝く白い月。
-The dazzling white moon shines high in the sky.
+Far above me, the moon gleams a radiant white.
 }
 [sha:156b017468b7e11872dc6bbde9df130027d77972]{
 -- Page 340, Offset 34201.
 -- 灰色の瓦礫で埋まった静かの海。
-A tranquil sea, surrounded by grey rubble.
+// Assuming this is filled -> comprised of for 埋まる
+Below, a tranquil sea of grey rubble.
 }
 [sha:e4d3106bc7695e30a54f06e95c41dc6e719eca99]{
 -- Page 340, Offset 34202.
 -- ゆらゆらと揺らいでいる。
-The moon is swaying and wavering.
+Everything is swaying and flickering.
 }
 [sha:4c11e69126bba185ae381bea6fb514f2cc1a84fb]{
 -- Page 340, Offset 34203.
 -- 何もかも偽りで、近づけば消えてしまう幻。
-With everything veiled in lies, it's an illusion that vanishes when you try to approach it.
+It's all just lies; an illusion that vanishes when you try and get too close.
 }
 [sha:99593aeee6019fa1d1feff11f3c09ffd0feaa731]{
 -- Page 340, Offset 34204.
 -- それは一つの、掴みようのない蜃気楼のようだった。
-It's just like a lone mirage that remains out of my reach.
+A mirage that will forever remain out of reach.
 }
 [sha:e8bca9edde6d470caab5ca5e784aafb0a5f76c3b]{
 -- Page 341, Offset 34205.
 -- かつん、かつん。
-%{i}Step%{/i}. %{i}Step%{/i}.
+%{i}Tap%{/i}. %{i}Tap%{/i}.
 }
 [sha:5957b026b133dac97f93c39e4cb8857aa4ea2e58]{
 -- Page 341, Offset 34206.
 -- 海の底で乾いた足音が響きだした。
 // fuck yeah nasu 'dry' is definitely a very good descriptor for footsteps
-The sound of dry footsteps echoes throughout the bottom of the sea.
+// he uses it _constantly_. I get what he means but yeah
+The rasping sound of footsteps echoes across the ocean floor.
 }
 [sha:d252f673316cca02fa057d487903f1f852b4bd9b]{
 -- Page 341, Offset 34207.
 -- 月光を背に、荒涼とした大地に伸びる断罪者の影。
-As the moon shines behind her, the adjudicator's shadow is cast upon the desolate ground.
+// Sorry weblio, I don't think 断罪者 means 'Tetragrammaton Labyrinth'
+// https://ejje.weblio.jp/content/%E6%96%AD%E7%BD%AA%E8%80%85
+// Word doesn't seem to be used elsewhere, dunno if it's supposed to be a term or not
+With the moon at her back,
+ the adjudicator casts a long shadow across the desolate ground.
 }
 [sha:f3d2d5caf159731f824f7715a918aa7d3e2baf51]{
 -- Page 342, Offset 34208.
 -- ……間違いなくこれでおしまい。
-...There's no doubt that this is the end.
+There's no doubt that this is the end...
 }
 [sha:dc6f2ecc97d847a605670bb6e18a756e5430e44a]{
 -- Page 342, Offset 34209.
 -- ……彼女がもうすぐやってくる。
-...She'll arrive here at any moment now.
+She'll reach me any moment now.
 }
 [sha:74a7b0dd9e2bdadf2b0c3203c008de6bd9ff0e39]{
 -- Page 342, Offset 34210.
 -- 色々あったけど結論は出せた。
-A lot has happened along the way, but now we've finally reached the conclusion.
+// I assume it's the situation that's been concluded, rather than him reaching a conclusion about something?
+It's been a wild ride, but we've reached the end of the line.
 }
 [sha:47c40c82f7a5905bffdd4a2ff190708eb1c6c4e6]{
 -- Page 342, Offset 34211.
 -- まあ、そういう事なら、
-Well, if that's how it is, then―――
+Well, if this is it, then―――
 }
-[sha:dfd942049567186b02b0debc4b281f63795ffbf1]{
+[offset:34212]{
 -- Page 343, Offset 34212. Mods: @k, @e.
 -- 「――――
-"――――
+"―――
 }
 [sha:ce70487f43c4c4d8136ed371b0ad24754aae32ea]{
 -- Page 343, Offset 34213. Glued. Mods: @x.
@@ -627,34 +647,46 @@ Shall I kill her?"
 [sha:12e5a91d69cf347fd20fe6f78098ff85846d1d70]{
 -- Page 343, Offset 34214.
 -- 深呼吸の後、口から出た俺の声は別人のようだった。
-After taking a deep breath, an unfamiliar voice comes out of my mouth.
+// It's still actually his voice here on the VA
+I take a deep breath,
+ and when I speak again the voice that comes out of my mouth is not my own.
 }
 [sha:bdd675d65aa468e2964e334e94b57007d836bc52]{
 -- Page 343, Offset 34215.
 -- 死にたくないのならバラせ。
-If you don't want to die, then tear her apart.
+// As in an earlier file, バラせ sorta inflects the means more than the intent, so translated as just kill here
+If you don't want to die, then kill her.
 }
 [sha:cc7b30b4b0b93a4dc614cbf3e9ed2ef0a4c0c0d4]{
 -- Page 343, Offset 34216.
 -- 自分が間違っていないと思うのならバラせ。
-If you think that you're not in the wrong, then tear her apart.
+If you think that you're not in the wrong, then kill her.
 }
 [sha:45466937d56601b2d8881715af274a950d449568]{
 -- Page 343, Offset 34217.
 -- いいからバラせ。バラせ。バラせ、バラせ、バラせ、バラせ、バラせ、バラせ、バラ、バラバラ、バラバラバラバラバラバラバラバラ――――――
 // thumbs up emoji
-Hurry up and tear her apart already. Tear her apart. Tear her apart, tear her apart, tear her apart, tear her apart, tear her apart, tear her apart, tear, tear, teartearteartearteartearteartear――――――
+Hurry up and kill her already.
+ Kill her,
+ kill her,
+ kill her,
+ kill her,
+ kill her,
+ kill her,
+ kill her,
+ kill,
+ killkill,
+ killkillkillkillkillkillkillkill―――
 }
 [sha:910e5c24149a1b8d427e065ebffb4490b741ad04]{
 -- Page 344, Offset 34218.
 -- 「――――――、はあ」
-// this line is after a post-coital transition. Maybe Shiki is lighting a cig.
 "―――%{i}Haah%{/i}."
 }
 [sha:6bb757763c92f9770461fccbf5539f45972cb1e0]{
 -- Page 344, Offset 34219.
 -- ……本当に、俺はここまでみたいだ。
-...It seems that this really is the end for me.
+It seems like this really is the end for me...
 }
 [sha:36904d076151b4c5438af074b92422c2f7a5dc9d]{
 -- Page 344, Offset 34220.
@@ -664,17 +696,17 @@ My thoughts are starting to get all scrambled up again.
 [sha:c65f7ea6741f536332ea41f69071c2434f00a7d0]{
 -- Page 344, Offset 34221.
 -- それでも俺は死にたくない。
-But still, I don't want to die.
+But the point stands... I don't want to die.
 }
 [sha:78b9408f0725f4c80d583fe80b4b315263c0e3a0]{
 -- Page 344, Offset 34222.
 -- 死にたくないのなら、やる事は一つだけ。
-If I don't want to die, then there's only one thing left to do.
+And if I don't want to die, then there's only one thing left to do.
 }
 [sha:e8bca9edde6d470caab5ca5e784aafb0a5f76c3b]{
 -- Page 345, Offset 34223.
 -- かつん、かつん。
-%{i}Step%{/i}. %{i}Step%{/i}.
+%{i}Tap%{/i}. %{i}Tap%{/i}.
 }
 [sha:bb3f53755fa91cbf5716b5d760e08df80e86b0ad]{
 -- Page 345, Offset 34224.
@@ -684,17 +716,18 @@ Her footsteps are getting louder.
 [sha:310ab00fcfdce918c05ecb5b082afa5f76d96be8]{
 -- Page 345, Offset 34225.
 -- 終わりの時間はすぐそこまでやってきている。
-The time of the end will soon be upon me.
+My final moments draw closer and closer.
 }
 [sha:369080e1154a212d2b23e25c4eec650174d0b7d2]{
 -- Page 346, Offset 34226.
 -- “―――眼鏡、外さないんですか”
+// Unvoiced
 '―――Aren't you going to take off your glasses?'
 }
 [sha:18edfed2fa8ff544473e9899fcbf7c3b429fffdd]{
 -- Page 346, Offset 34227.
 -- それが何を意味するか理解していながら、彼女は言った。
-She said that while knowing exactly what those words implied.
+She asks me even though she knows what those words imply.
 }
 [sha:24f42a69fcf92b01b70da69a10d10f242be54616]{
 -- Page 346, Offset 34228. Mods: @k, @e.
@@ -704,10 +737,10 @@ In that case, I―――
 [sha:8b8d4e540472027d193f3359b62e2dfb5b87210f]{
 -- Page 346, Offset 42750. Choice.
 -- ……眼鏡を外す。
- ...Will take off my glasses.
+ Will take off my glasses.
 }
 [sha:cc3f2529b61f952a70ad60d10d722462cc4a0b44]{
 -- Page 346, Offset 42751. Choice.
 -- ……眼鏡は外さない。
- ...Won't take off my glasses.
+ Won't take off my glasses.
 }
