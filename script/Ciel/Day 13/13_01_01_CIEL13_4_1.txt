@@ -1,7 +1,10 @@
 [sha:9e4b9e7c8d74d1d57196f4ebeee8b6d5c95cc0c8]{
 -- Page 10032, Offset 34269.
 -- ……頭の中で、最後の撃鉄が落ちた。
-...The final hammer strikes within my head.
+// Is this the 最後の撃鉄 in that there have been multiple, or in that
+// this is the one that _sets off_ the end? This metaphor hasn't been
+// introduced before this, so assuming it's the second.
+The firing hammer inside my head falls, and sets the end in motion.
 }
 [sha:a8c346803668da82353fd4ef019d7208c707b956]{
 -- Page 10032, Offset 34270. Mods: @n.
@@ -21,7 +24,7 @@
 [sha:0328cb372c946c8f441dc4a79eeabdb764f9b1dd]{
 -- Page 10032, Offset 34273.
 -- <遠野志貴|じぶん>の無いまま、俺を信じていた家族を殺した。
-While I wasn't myself, I killed my family even though they trusted me.
+While I wasn't myself, I killed the family that trusted me.
 }
 [sha:7bde7f2f71eafde0c9913106ab1e460ccb015963]{
 -- Page 10032, Offset 34274.
@@ -36,12 +39,13 @@ In that case―――
 [sha:c3e2ab6065c7f3b176173089480edf1664ff81aa]{
 -- Page 359, Offset 34276.
 -- ―――すべて。
-―――All of it.
+// Non-killer entrypoint
+―――It can all go.
 }
 [sha:5f8a1e47fe51b4bd17a507854721a8195b7ece49]{
 -- Page 359, Offset 34277.
 -- 幻になってしまえば、いい。
-It doesn't matter if all of it becomes an illusion.
+If it all becomes nothing more than an illusion, that's fine.
 }
 [sha:735d233df48e13cda1fd79ff08fcb40fdd085946]{
 -- Page 360, Offset 34278.
@@ -51,12 +55,12 @@ I grip my knife firmly and stand up.
 [sha:142d69a4f76b9903fa0c71c12fc96145ae8ebf06]{
 -- Page 360, Offset 34279.
 -- 足音が大きくなっていく。
-Her footsteps are getting louder.
+The sound of footsteps grows louder and louder.
 }
 [sha:82d3b62a73d1be00e3cc78ae2ceb4b3e8386ff43]{
 -- Page 360, Offset 34280.
 -- 敵が近づいてくる確かな気配。
-It's a clear sign that the enemy is approaching.
+A sure sign that the enemy is approaching.
 }
 [sha:b7e78ef0766a6f1829eb237accaeb73f9d449e70]{
 -- Page 360, Offset 34281.
@@ -66,7 +70,9 @@ With every step, I hear the voice of 'someone' echoing inside my head.
 [sha:8af6ec2ec97e9e04125246d280d6036cffb738e4]{
 -- Page 360, Offset 34282.
 -- バラせ　バラせ　バラせ　バラせ　バラせ
-Tear her apart Tear her apart Tear her apart Tear her apart Tear her apart
+%{i}
+kill her   kill her   kill her   kill her   kill her
+%{/i}
 }
 [sha:0ae9bf0550177a5f3b4ae4e185ee7fb359482b12]{
 -- Page 361, Offset 34283.
@@ -76,22 +82,30 @@ Tear her apart Tear her apart Tear her apart Tear her apart Tear her apart
 [sha:8af6ec2ec97e9e04125246d280d6036cffb738e4]{
 -- Page 361, Offset 34284.
 -- バラせ　バラせ　バラせ　バラせ　バラせ
-Tear her apart Tear her apart Tear her apart Tear her apart Tear her apart
+%{i}
+kill her   kill her   kill her   kill her   kill her
+%{/i}
 }
 [sha:8af6ec2ec97e9e04125246d280d6036cffb738e4]{
 -- Page 361, Offset 34285.
 -- バラせ　バラせ　バラせ　バラせ　バラせ
-Tear her apart Tear her apart Tear her apart Tear her apart Tear her apart
+%{i}
+kill her   kill her   kill her   kill her   kill her
+%{/i}
 }
 [sha:8af6ec2ec97e9e04125246d280d6036cffb738e4]{
 -- Page 361, Offset 34286.
 -- バラせ　バラせ　バラせ　バラせ　バラせ
-Tear her apart Tear her apart Tear her apart Tear her apart Tear her apart
+%{i}
+kill her   kill her   kill her   kill her   kill her
+%{/i}
 }
 [sha:04edfc51717fae25a2fffc33623c9f378e2748e1]{
 -- Page 361, Offset 34287.
 -- バラせ　バラせ　バラせ　バラ――――
-Tear her apart Tear her apart Tear her apart Tear――――
+%{i}
+kill her   kill her   kill her   kill her   kill―――
+%{/i}
 }
 [sha:1fa367e1225fe37913be02dda5790655712e00cf]{
 -- Page 361, Offset 34288. Mods: @n.
@@ -106,7 +120,8 @@ Tear her apart Tear her apart Tear her apart Tear――――
 [sha:f3cfc7da5c14cf68c0c8b580cd342bf3456c4b60]{
 -- Page 361, Offset 34290.
 -- 強く意思を保って、頭の中を黙らせた。
-Asserting my own will resolutely, I forcefully silence the voice inside my head.
+Keeping a strong grip on myself,
+ I forcefully silence the voice inside my head.
 }
 [sha:cc8aea4fb2d86418a6756a1e6f552255269a4546]{
 -- Page 362, Offset 34291.
@@ -116,17 +131,21 @@ Asserting my own will resolutely, I forcefully silence the voice inside my head.
 [sha:6fc6422d7ab59a11b5b8c4e9de4977513100d244]{
 -- Page 362, Offset 34292.
 -- バ――――
-Tear――――
+%{i}
+Kill―――
+%{/i}
 }
 [sha:9dcb42b0701b4c5a114d48b09c4a2fe49f2e7898]{
 -- Page 362, Offset 34293.
 -- 「オマエに指図される謂われはない」
-"I'm not doing this because you told me to."
+"I have no need to take orders from you."
 }
 [sha:e318b591819bd60f472a5195e256552449b9ad83]{
 -- Page 362, Offset 34294.
 -- ラ――――
-her――――
+%{i}
+her―――
+%{/i}
 }
 [sha:103475a9c9a8c0ee8038cbee8526389660e9d9f9]{
 -- Page 362, Offset 34295.
@@ -136,7 +155,9 @@ her――――
 [sha:ecccd9127d34a1814bcd52fdf8a75548760d4142]{
 -- Page 362, Offset 34296.
 -- せ――――
-apart――――
+%{i}
+now―――
+%{/i}
 }
 [sha:0e1bf0036ee92371e468c06734e76d4be38642ea]{
 -- Page 362, Offset 34297.
@@ -156,12 +177,13 @@ The voice disappears completely.
 [sha:8dfe2b8e332df0b8c1a46b0043168dc0f75485d3]{
 -- Page 363, Offset 34300.
 -- かつん、という足音と、伸びてくる影。
-Along with the sound of her footsteps comes her looming shadow.
+The footsteps shuffle to a halt,
+ and a shadow falls across the floor.
 }
 [sha:b1006b14adbe2faa9fa8a1f00ab22805ff68f71b]{
 -- Page 363, Offset 34301.
 -- ―――代行者が、俺の前に現れた。
-―――The Executor appears before my eyes.
+―――The Executor has appeared before me.
 }
 [sha:16cd54b66d7cd1c56b2f2c0fee321bf8da674689]{
 -- Page 364, Offset 34302.
@@ -176,12 +198,13 @@ For some reason, she sounds somewhat relieved.
 [sha:3430d1a97edf72d03804a82f62a69b116d80e97b]{
 -- Page 365, Offset 34304. Mods: @n.
 -- 「良かった。これでお互いに罪はありません。
-"That's good. With this, neither of us will have to bear any sin.
+"I'm glad. This way, neither of us will be guilty of sin.
 }
 [sha:be4616049925acb52ce36b7ac9f2a64f5c5c0046]{
 -- Page 365, Offset 34305.
 -- 互いに殺し合うという条件なら、私たちの罪は相殺されます。あとは、生き残った者に罰が残るだけです」
-Now that we're both trying to kill each other, our sins will balance each other out. In the end, all that will remain is penance for the survivor."
+If both of us are trying to kill the other, then our sins will cancel each other out.
+ All that will remain in the wake is penance for the survivor."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 366, Offset 34306. Mods: @n.
@@ -196,7 +219,9 @@ To kill one's sin through their own death.
 [sha:85bd63c1d3da56712f269fb7fe71e684d5ae4d9f]{
 -- Page 366, Offset 34308.
 -- それは、俺には理解できない世界の話だ。
-Her words speak of a world that I'm incapable of comprehending.
+// Interpreting as 'words that fit a world [lifestyle] that I cannot comprehend',
+// where the world is the one that Ciel et al belong to, as referenced before.
+That concepts stems from a world that is alien to me.
 }
 [sha:2bfb44afb76418368aa3427b556b8b505abc37d7]{
 -- Page 367, Offset 34309.
@@ -206,32 +231,33 @@ Her words speak of a world that I'm incapable of comprehending.
 [sha:9a5e4f8763149281081a7a64ff339a6a0d3db069]{
 -- Page 367, Offset 34310.
 -- 「ええ。果たす事のできる代償行為を罰といいます。
-"Yes. The word 'penance' refers to an act of reparation that can be fulfilled.
+"Yes. Penance is by definition an act of restitution that is within one's power to perform.
 }
 [sha:bdc16caa419ea5742b1834d886c1d97effb89ed5]{
 -- Page 367, Offset 34311.
 -- 消えさってくれないものは罪だけです。
-The only thing that can't be erased is the sin itself.
+The only thing that cannot be erased is the sin itself.
 }
 [sha:63419ca45c758f74c562f70e51d752808537f0e1]{
 -- Page 367, Offset 34312. Mods: @k, @e.
 -- ですから―――
-That's why―――
+That's why――
 }
 [sha:0030edf6e451c2ab16e9bdf2060e993633e88d35]{
 -- Page 367, Offset 34313. Glued. Mods: @x.
 -- そんなもの、いまさら背負いたくはないでしょう？」
-neither of us wants to shoulder that burden after all this time, right?"
+// Assuming this is only referring to him here (you don't want to have to carry that sin -> lemme kill ya)
+I'm sure you don't want to have to shoulder that burden anymore, do you?"
 }
 [sha:54f66f638bd2b1ab5635f58b513e8f4ea9274796]{
 -- Page 368, Offset 34314.
 -- 一歩、彼女は踏みこんでくる。
-She takes a single step.
+She takes a step forward.
 }
 [sha:82c3eae86053161a147333c782a33ab6e2de0238]{
 -- Page 369, Offset 34315.
 -- 「―――それじゃあ、ここで先輩を殺す事は、罪じゃないのか」
-"―――In that case, would killing you not be a sin?"
+"―――In that case, would killing you not count as a sin?"
 }
 [sha:8b649222e9aefed6b446ae43ae1fe5f14ee0914d]{
 -- Page 369, Offset 34316.
@@ -256,12 +282,12 @@ Another step.
 [sha:93ddf9b55ac4fe7efe806ec6ef4b7df09ab0b85c]{
 -- Page 370, Offset 34320.
 -- ……よくはない。
-...I don't agree with that.
+I don't agree with that...
 }
 [sha:28b1d588c14ef2b6bb1e5a2a217eeb4aa53f0984]{
 -- Page 370, Offset 34321.
 -- それは、ぜんぜん、これっぽっちもよくはない。
-I don't agree with that in the slightest.
+I don't agree with that at all. Not one iota. Not one jot.
 }
 [sha:809c70acca7634731e8c2f9c54bb8806e9dc695a]{
 -- Page 371, Offset 34322. Mods: @n.
@@ -272,22 +298,24 @@ I don't agree with that in the slightest.
 [sha:ec465b5fb48ddcd7f5d8be504b3b0af8a0f5cc6c]{
 -- Page 371, Offset 34323. Glued.
 -- 確かに俺は殺されようとしていて、
-It's true that she's trying to kill me―――
+// Flipped with below for better echo in 34326.
+It's true that I harbor the intent to kill―――
 }
 [sha:342b17e963428d82ff4dc02f20b57e42a9262470]{
 -- Page 371, Offset 34324.
 -- 自分の命を守るために殺し返そうとしている。
-and in return, I'm trying to kill her in order to ensure my own survival.
+But it's only because I'm about to be killed,
+ and need to fight back to ensure my own survival.
 }
 [sha:94a04163211fe3f36406b6dd40882053f8ce3d28]{
 -- Page 371, Offset 34325.
 -- でも、彼女はそうじゃない。
-However, the same can't be said for her.
+The same cannot be said for her.
 }
 [sha:b46a61d63c6402d3f41ccdcf3713f136cad423f7]{
 -- Page 371, Offset 34326.
 -- 彼女は初めから片思いの殺人意思を持ってやってきた。
-From the very beginning, she came here with the one-sided intention of murdering me.
+She intended to kill me from the moment she arrived.
 }
 [sha:6d45ff7c26bf5a6a107816c8edb2b31d3cae79ba]{
 -- Page 371, Offset 34327.
@@ -312,17 +340,17 @@ The final step.
 [sha:25ad8212be426c8fd428156447179c3244a9b3fe]{
 -- Page 372, Offset 34331.
 -- 銃剣の切っ先が俺の心臓に向けられる。
-She points the bayonet directly at my heart.
+The tip of the spike takes aim at my heart.
 }
-[sha:dfa98750b4574ed35a6697561473363a47a742df]{
+[offset:34332]{
 -- Page 372, Offset 34332.
 -- その前に。
-But before that.
+But before it can make contact―――
 }
 [sha:5e45c40a40d7d3037a65dc047c897cdc5aab6db4]{
 -- Page 372, Offset 34333.
 -- ただ無造作に前に乗り出して、彼女の右肺の『点』を狙った。
-I lean forward haphazardly and aim for the 'point' on her right lung.
+I artlessly stumble forward and take aim at the 'point' on her right lung.
 }
 [sha:787b79c41570cc1ca818bd3ea0fb841135f537ee]{
 -- Page 373, Offset 34334.
@@ -332,7 +360,7 @@ I lean forward haphazardly and aim for the 'point' on her right lung.
 [sha:0a436513a3c590b0ebc3ace5c63d0d0159bf81cb]{
 -- Page 373, Offset 34335.
 -- ナイフの間合いに踏みこむより先に、彼女の銃剣が俺の心臓を貫くのは道理だ。
-By all rights, her bayonet should've pierced my heart long before she stepped within range of my knife.
+By all rights, her spike should've pierced my heart long before she stepped within range of my knife.
 }
 [sha:e552a633c9e966d2e4bfe376e0bb4a3b857767cd]{
 -- Page 374, Offset 34336.
@@ -342,7 +370,9 @@ That's why... I'm surprised.
 [sha:b3a8c4cedab4772d1cd73aced6a15514c62dd213]{
 -- Page 374, Offset 34337.
 -- 銃剣をかわして、トン、とあっけなく彼女の『点』を刺せた<結|こ><末|と>に。
-Surprised that I was able to dodge the bayonet before immediately stabbing her 'point'.
+// あっけなく good feeling to convey but hard to do succinctly. Not sure this is best.
+Surprised that I was able to dodge that spike,
+ and sink my knife into her 'point' with an unassuming %{i}thump%{/i}.
 }
 [sha:c7704c7cc32ec86ce9dc845bd4876c0547b25ed5]{
 -- Page 375, Offset 34338.
