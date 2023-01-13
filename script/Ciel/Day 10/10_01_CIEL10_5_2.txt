@@ -216,7 +216,7 @@ It's the voice of a woman I know...
 [sha:720ed823226be254be915ab2f068d1f79cd8c386]{
 -- Page 394, Offset 28151.
 -- 「――――、――――――？」
-"――――, ―――――?"
+"―――, ―――?"
 }
 [sha:2a9ff20ea054e1cb79fd6c7f9f5397474bf431c4]{
 -- Page 394, Offset 28152.
@@ -341,6 +341,7 @@ It must already be far too late for me.
 [sha:52674466ffe8424badb7312cfcf5fec05c59e077]{
 -- Page 401, Offset 28174.
 -- 「―――、―――……！！！！」
+// lint-off:LintEmDashes
 "―――, ―――...!!!!"
 }
 [sha:941856608fd1c19a7efe315441eef9136371ef88]{
@@ -449,6 +450,7 @@ If Ciel-san had found the coffin before me, your trial might've been a little mo
 [sha:4f36cb44d717ebc3ff1389ce0bc9b7b348d64c6b]{
 -- Page 406, Offset 28194.
 -- 「―――、―――、――――――」
+// lint-off:LintEmDashes
 "―――,―――,――――――"
 }
 [sha:3a4ce34e67aaa3b54c184e3ab135f149176560f7]{
