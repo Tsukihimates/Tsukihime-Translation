@@ -390,7 +390,7 @@ She says that, but... now I'm just as confused as she is.
 }
 [sha:4385753f25794bcff9112b9a6fbaef022d5b546b]{
 -- Page 409, Offset 34456.
--- けれど、どうしても俺には
+-- けれど、どうしても俺には――――
 Even if she denies it, I can't help but think―――
 }
 [sha:bdadb18b9b308c73771971e96b5db37f9faa3ffb]{
@@ -432,7 +432,7 @@ Only now that things have come to this am I able to see through her lies...
 -- 「―――――――」
 "―――――――"
 }
-[sha:68a938c0eaed172db6b8953cba8d5faa7e319dae]{
+[offset:34464]{
 -- Page 413, Offset 34464.
 -- 返答はない。
 She doesn't answer.
@@ -572,7 +572,8 @@ The lump of iron creaks as she presses it against my chest.
 [sha:e50668a3a2fb034770c96175884aac19acb26d75]{
 -- Page 422, Offset 34489.
 -- ほんの少し。爪の先ぐらいだけ、銃口が胸にえぐりこむ。
-The spike breaks the skin.
+// Notably doesn't actually break the skin here, that happens on offset 34546.
+The spike digs into my skin.
  It's a shallow cut, no deeper than the tip of a fingernail.
 }
 [sha:106a0af6ee9178658921d31e2403b231e2f259a8]{
@@ -660,67 +661,74 @@ My fingers are trembling uncontrollably.
 [sha:d3762f0f09df26d49748ac975ab04c166cbce50b]{
 -- Page 427, Offset 34506.
 -- 分かっている。ここで殺される<結|コ><末|ト>が一番いい方法なんだと分かっているクセに、ただ、恐かった。
-I know. I know that letting myself be killed would be for the best, but even then, I'm scared.
+I know it's for the best.
+ I know the best way to end it all is to let her kill me here, but even so... I'm scared.
 }
 [sha:7a1bc7341a695e38d8e581b5de252095ef3a9c0c]{
 -- Page 428, Offset 34507.
 -- ――――はあ。はあ。はあ。
-――――Hah. Hah. Hah.
+――――%{i}Haa%{i}. %{i}Haa%{/i}. %{i}Haa%{/i}.
 }
 [sha:9972b307caad29e7267de67cc78d8f101aa2d8cd]{
 -- Page 428, Offset 34508.
 -- 漏れそうになる呼吸を必死に圧し留める。
-I desperately try to prevent my breath from leaking out.
+I desperately fight to keep my breathing calm.
 }
 [sha:c73f66e149864fc8fc890f54c090d0d78d017863]{
 -- Page 428, Offset 34509.
 -- 先輩があと10センチも手を前に突き出せば、俺はただの肉片になってしまう。
-If she thrusts her weapon another ten centimeters into me, I'll be reduced to nothing more than a lump of flesh.
+If she thrusts her weapon forward ten centimeters, I'll be reduced to nothing more than a lump of flesh.
 }
 [sha:726bafa22414f26712a6af4dca2dbfd953588a3b]{
 -- Page 429, Offset 34510.
 -- ……気を抜けば正気を失う自分。
-...I'll end up losing my mind if I don't stay focused.
+If I don't stay focused I'll end up going insane...
 }
 [sha:1f37764e47376c14fbb38d9ac4fbe0aad9fa2dbc]{
 -- Page 429, Offset 34511.
 -- 感度を増した五感。即死ではない傷なら治ってしまう体。
-Heightened sensitivity on all five senses. A body that can regenerate from any injury that does not lead to instant death.
+My senses have been sharpened beyond belief.
+ My body can regenerate from anything short of total annihilation.
 }
 [sha:d6a7f44bc8ea41f8f7fbca70c6ae2c485e9afb5f]{
 -- Page 429, Offset 34512.
 -- そのすべてが人間として手遅れである事を示している。
-These are all signs that I'm already past the point of no return as a human being.
+Both are signs that I'm already well past the point of no return as a human being.
 }
 [sha:44241e8c78af63417cc4b4a1074aa55594ca981f]{
 -- Page 429, Offset 34513.
 -- だから覚悟するしかないのに、本当は恐くて恐くて震えているココロも、たぶん跡形もなく消えてしまう。
-That's why even though I need to accept it, my heart that's cowering in fear will probably also vanish without a trace.
+// I guess he's saying he needs to accept that he will lose the capability to feel fear in his heart
+// _because he's turning into a vampire_? Otherwise not sure what he's getting at here.
+That's why I have no choice but to accept what's about to happen――
+ because this heart, the one that's racing in fear, is surely destined to disappear without a trace.
 }
 [sha:2a9fa6028e676b782b56404b9278a4c904470ccd]{
 -- Page 430, Offset 34514.
 -- ――――はあ、はあ、はあ、はあ。
-――――Hah, hah, hah, hah.
+――――%{i}Haa%{/i}, %{i}haa%{/i}, %{i}haa%{/i}, %{i}haa%{/i}.
 }
 [sha:9fa4fc7ef447fd6c5fb5489168291b5ec1984028]{
 -- Page 430, Offset 34515.
 -- ただ必死に、口を閉じて受け入れようと努力した。
-I desperately try to shut my mouth and stop resisting.
+I desperately clamp my mouth shut and try to prepare for what's about to happen.
 }
 [sha:140ea9848bdb53ebe7f40411fad96d22fcb34ee8]{
 -- Page 430, Offset 34516.
 -- 胸を刺されれば痛いだろう。
-Being stabbed in the chest must be painful.
+Getting stabbed in the chest is bound to hurt.
 }
 [sha:19748eab4356663ec85fdcbc45bd4aaee5c8af2b]{
 -- Page 430, Offset 34517.
 -- 今こうして恐怖している自分が、怖がる事さえできなくなるのは恐怖以上の何かだろう。
-Even though I'm dreadfully frightened right now, I can't even express any fear. This must mean that what I'm feeling right now is something even more terrible than fear.
+// I guess the 恐怖以上の何か is his desire to be stay strong for Senpai?
+But as afraid as I am, there's something preventing me from showing it.
+ Something even stronger than fear itself.
 }
 [sha:20858d9c08b13a104eee04a22c97efb04abeae3a]{
 -- Page 431, Offset 34518.
 -- 「っ―――――ぁ」
-"―――――ah."
+"%{i}Kh%{/i}――%{i}ah%{/i}."
 }
 [sha:c4652218ded9dad92afce7beabd1d8261f5cec77]{
 -- Page 431, Offset 34519.
@@ -730,17 +738,17 @@ Sweat beads on my forehead.
 [sha:5bc6877e3b83b79a9b7905b89e8936303d2aba24]{
 -- Page 431, Offset 34520.
 -- それでも、声はあげたくなかった。
-But still, I don't want to speak.
+Even so, I will not cry out.
 }
 [sha:4e2460a200e8eef718137133290d6b7e6eb237bf]{
 -- Page 431, Offset 34521.
 -- 静かに、潔く果てる事ができたのなら。
-If I can just muster my courage and silently let everything come to an end―――
+If I can stay silent and resolute right up until the end―――
 }
 [sha:dd24cef4788be68b6f38488074712fea298a1858]{
 -- Page 431, Offset 34522.
 -- 先輩は罪悪感なんて抱かずにいられる筈だ。
-then Senpai won't have to be plagued with guilt.
+Then Senpai shouldn't have to feel any guilt.
 }
 [sha:4dd615e0f2a8c599d06fd1814490d5f43e04ec24]{
 -- Page 432, Offset 34523.
@@ -750,37 +758,40 @@ then Senpai won't have to be plagued with guilt.
 [sha:2b50c720ce5b6174a66b0b6477e1ecccdf92ee5a]{
 -- Page 432, Offset 34524.
 -- 息を呑む音がする。
-I hear a gasp.
+// Only actual SFX I can hear here is a clank.
+// Something like 'gasp' too surprised for this imo, 'gulp' too comical
+I hear someone exhale.
 }
 [sha:3aa800a7da0073626388adc7d53253d723f8a73e]{
 -- Page 432, Offset 34525.
 -- 「どうして―――――」
-"Why―――――"
+"How―――"
 }
 [sha:29785b5ff20bcadc12ab43f6b910fe23158cbfc1]{
 -- Page 432, Offset 34526.
 -- 搾りだすような声。
-A strained voice.
+Her voice sounds strained.
 }
 [sha:0e015212006f0ba293cdf6f2659d25d4006d075d]{
 -- Page 432, Offset 34527.
 -- 「どうして、そんな」
-"Why are you... so..."
+"How... can you..."
 }
 [sha:fa36a5fb9455121656aa7adec370f76492828246]{
 -- Page 432, Offset 34528.
 -- 胸に突きつけられた剣が震えている。
-The bayonet that's been thrust into my chest is trembling.
+The spike that's been thrust into my chest is trembling.
 }
 [sha:2f7f76b6e2b6b635a7ad95ba811441bfc3c28ecc]{
 -- Page 432, Offset 34529.
 -- 「わたしを恨まないで、いられるんですか」
-"Why... do you not hate me?"
+"How can you not hate me?"
 }
 [sha:89b57dcf293619f9f61e3ca410e8e0cd3eebbece]{
 -- Page 432, Offset 34530.
 -- ……違う。震えているのは、先輩の声だった。
-...No. What's trembling is Senpai's voice.
+No, that's not right...
+ It's Senpai's voice that's trembling.
 }
 [sha:e0ec8ac8dd527a91217a94930deed2f6b6336738]{
 -- Page 433, Offset 34531.
@@ -790,57 +801,64 @@ The bayonet that's been thrust into my chest is trembling.
 [sha:9fa01da08215b4c81e35381602e66dc50c1016be]{
 -- Page 433, Offset 34532.
 -- 騙して、裏切って、こうして残酷に追い詰めているのに、なんでそんな穏やかな顔をしてるんですか、貴方は……！」
-I deceived and betrayed you, and now I'm mercilessly hunting you down, so why do you look so calm...?!"
+I deceived you,
+ I betrayed you,
+ and I mercilessly hunted you down and cornered you, so why...
+ why do you look so damn calm...?!"
 }
 [sha:7681e1cde97a02affdc16442862bb6628a642580]{
 -- Page 434, Offset 34533.
 -- かつん、と。
-%{i}Step%{/i}.
+%{i}Tap%{/i}.
 }
 [sha:050a317b0980e715260cbbd947fc55e181dbc5ae]{
 -- Page 434, Offset 34534.
 -- 銃口はそのままで、先輩は俺に踏みこんできた。
-With the bayonet still lodged in my chest, Senpai takes another step forward.
+Without moving her weapon, Senpai takes another step forward.
 }
 [sha:faffb8f71f1ec09fd02255b700ade7290a8e964c]{
 -- Page 435, Offset 34535.
 -- 「答えなさい……！　わたしは貴方を殺すんです。貴方の都合なんて関係なく、ただ一方的に殺そうとしているんです……！
-"Answer me...! I'm going to kill you――murder you with no regard for your well-being whatsoever...!
+"Answer me...!
+ I'm going to kill you.
+ I'm going to kill you whether you like it or not, just to satisfy my own ends...!
 }
 [sha:24a83e481f51427cc3103b8fd2ab813e24c3cedc]{
 -- Page 435, Offset 34536.
 -- ならせめて、わたしを恨まないと貴方は報われないじゃないですか……！」
-There's nothing to gain by not hating me!"
+What could you possibly have to gain by not hating me?!"
 }
 [sha:594ee44995ebc3c08c220a929eeb7b1fb68b24ef]{
 -- Page 436, Offset 34537.
 -- 火のついた激しさで、先輩は問い詰めてくる。
-Senpai questions me in a fiery rage.
+Anger burns in Senpai's voice as she demands an answer.
 }
 [sha:4ee15b822ffe0235e987c0e76d6b8654248d42e4]{
 -- Page 436, Offset 34538.
 -- ……やだな。せっかく恐いのを堪えているのに、ここで声をあげたら感情が<堰|せき>をきりそうだ。
-...How bothersome. I finally managed to keep my fear in check, but if I raise my voice now then my emotions might burst forth.
+What a mess...
+ I was just about able to keep my fear in check,
+ but if I answer her now I won't be able to stop my emotions from pouring out.
 }
 [sha:ff89968a7ac2df7db3c151312c80ae4128bcd814]{
 -- Page 437, Offset 34539.
 -- 「それとも本当に馬鹿なんですか貴方は……！
-"Or could it be that you really are an idiot...?!
+"Or could it be that you really %{i}are%{/i} an idiot...?!
 }
 [sha:44c6337e8dfa5b79252b396dd8fcbd8bf7262228]{
 -- Page 437, Offset 34540.
 -- わたしは、貴方を汚らわしい吸血鬼として処理するんです！
-I'm going to exterminate you like I would a filthy vampire!
+I'm going to exterminate you like the filthy vampire that you are!
 }
 [sha:09a809bfb7b4cc767c01555cd6a259c13bafadac]{
 -- Page 437, Offset 34541.
 -- なのに、どうして―――」
-And yet, why―――"
+So tell me, why―――"
 }
 [sha:b252d920bb198d4caa80f33b275cdebaf67e4a1b]{
 -- Page 437, Offset 34542.
 -- ……もう。どうしてって、それはさっき言ったのに。
-...Come on. I already told you why.
+Come on... I already told you why.
 }
 [sha:3bc03e6357692f5d43ceec2effb9a7c36a752462]{
 -- Page 437, Offset 34543.
@@ -855,47 +873,51 @@ And yet, why―――"
 [sha:aae12dd5fb08109f1393f6775c5457fdbacbaa04]{
 -- Page 438, Offset 34545.
 -- ズッ、と。
-Splash.
+%{i}Stab%{/i}.
 }
 [sha:b16302e8f1829577643cff899f90cca2d48c135f]{
 -- Page 438, Offset 34546.
 -- 剣の切っ先が胸に食い込む。皮膚を裂いたのか、ぬらり、と生ぬるい血が流れていった。
-She drives the bayonet even deeper into my chest. Fresh blood is dripping from the wound, which must mean that she broke the skin.
+She drives the spike even deeper into my chest.
+ Fresh blood starts dripping from the wound... she must have broken the skin.
 }
 [sha:03ed4ac9fb99eacc36170539cabee9f8e9aef08c]{
 -- Page 439, Offset 34547.
 -- 「ぎ、ぁ………！！！！」
-"Gh, ah......!!!!"
+"%{i}Gh%{/i}, %{i}ah%{/i}...!!!!"
 }
 [sha:42b6322b7be410a03de32f7555ff8ce8e7d7959a]{
 -- Page 439, Offset 34548.
 -- 全身の肉という肉、骨という骨の芯に、火花が走る。
-Sparks run down every single piece of flesh and marrow within my body.
+Sparks race through every ounce of my flesh, through every sliver of my bones.
 }
 [sha:43c737f0459d285d2d92ee8dfb38b1cb8bfd59ed]{
 -- Page 439, Offset 34549.
 -- 今までのどんな頭痛さえ足元に及ばない激痛。
-The pain is so intense that the headaches I've experienced in the past can't even hold a candle to it.
+The pain is so intense that it puts every headache I've ever experienced to shame.
 }
 [sha:9e8ba0afd443e983a3ba1905754bf4ef464ded6e]{
 -- Page 439, Offset 34550.
 -- 傷自体はそう深くはない。ただ第七聖典という凶器が体内に侵入しただけで、意識がバラバラと砕けていく。
-The wound isn't even that deep. It's just that even the slightest perforation by the weapon known as the Seventh Holy Scripture is enough to cause my mind to shatter into pieces.
+The wound isn't even that deep.
+ Simply having the weapon known as the Seventh Holy Scripture pierce my body at all is enough to shatter my mind to pieces.
 }
 [sha:c86428ccd6ef26028203214b1053decf8c7325a3]{
 -- Page 440, Offset 34551.
 -- 「あ――――ぁ、あ………っ！」
-"Ah――――ah, a......!"
+"%{i}Ah%{/i}――%{i}ah%{/i}, %{i}a%{/i}......!"
 }
 [sha:ff3ab19c15aebe330edb86c767045da5c771a754]{
 -- Page 440, Offset 34552.
 -- 「痛いでしょう。本来なら無痛で消してあげられるのに、こうしてわざと貴方を苦しめているんです。
-"It hurts, right? I would've normally given you a painless death, but right now I'm tormenting you on purpose.
+"It hurts, doesn't it?
+ Ordinarily I'd have granted you a painless death, but right now I'm tormenting you on purpose.
 }
 [sha:0203d4187e395f278b05a0b9ccf6f2682825f7db]{
 -- Page 440, Offset 34553.
 -- ……今まで貴方に付き合わされた分、こうでもして楽しまないと帳尻が合いませんから」
-...After all, I have to enjoy myself to make up for all the times I've kept you company until now."
+I was forced to spend all that time in your company,
+ so it's only fair I should get to have some fun now to balance it out."
 }
 [sha:3099363b25912977920d84d0c9bd8ae2d4e3cccb]{
 -- Page 441, Offset 34554.
