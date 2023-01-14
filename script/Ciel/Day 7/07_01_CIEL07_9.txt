@@ -119,6 +119,7 @@ As I fall into that overpowering darkness,
 -- Page 665, Offset 16415.
 -- ……………………眠れない。
 // I wonder how this super long row of ellipsis should be conveyed.
+// lint-off:LintStartingEllipsis
 ............%{n}
 I can't sleep...
 }
