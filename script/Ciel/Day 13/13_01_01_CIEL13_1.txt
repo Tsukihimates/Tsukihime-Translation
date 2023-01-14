@@ -31,7 +31,7 @@ The room echoes with the panting of a wild animal.
 [sha:e988e3cd1da065fb4c1f55e38f32644759f07fe2]{
 -- Page 3, Offset 33072.
 -- 一睡も出来ないまま朝を迎えていた。
-Unable to get even a wink of sleep, I greet the morning.
+Morning arrives, but I haven't had so much as a wink of sleep.
 }
 [sha:0fca88ceb648565fd87476c5b0bc2152398654b4]{
 -- Page 4, Offset 33073.
@@ -51,12 +51,12 @@ I can't find them.
 [sha:32ed9ac7eba88c07238f455ddd461b1e84eeebe2]{
 -- Page 4, Offset 33076.
 -- 大切なモノなのに見つからない。
-Even though they're so precious to me, I can't find them.
+I can't find them even through they're so precious to me.
 }
 [sha:517214c96e03c8f37b4b911860146811f835f694]{
 -- Page 4, Offset 33077.
 -- 大切なモノほど見つからない。
-I can't find the thing that I hold dear.
+I can't find them because they're so precious to me.
 }
 [sha:c55d31670582c0380f4b7363e320c71e045124f8]{
 -- Page 4, Offset 33078.
@@ -116,18 +116,22 @@ It's repulsive.
 [sha:72e2e9111fbdb75ee545d581c5e8246ba849dc45]{
 -- Page 7, Offset 33089.
 -- 終わりが定められていながら、限界が見えていながら、際限なく増え続け生き続ける意味が分からない。
-What reason is there to keep on living, endlessly racking up the years,
- when my fate is already decided, and my own limits plainly visible?
+// About human life in general
+// 見えている should be both obvious (apparent) and visible (eyes)
+I don't understand what purpose there is in continuing to live, in continuing to reproduce,
+ when the end has already been decided, and the conclusion can be so plainly seen.
 }
 [sha:3f64ad09344cc23efeb1a83abc58635f1839a4d5]{
 -- Page 7, Offset 33090.
 -- 不始末すぎて無様すぎる。見えているモノが全て不気味に見えてしまう。
-I'm so incomplete that it's pathetic. Everything reflected in my eyes looks ominous.
+It's so beyond inadequate that it's beyond unappealing.
+ Everything reflected in my eyes comes off as eerie.
 }
 [sha:8e01ff965d0ead9fcdb92ca4e3daff9182d1b6a2]{
 -- Page 8, Offset 33091.
 -- かといって目を閉じれば、思い出すのは人を殺した時の感触だけだ。
-And yet, when I close my eyes, all I can remember is the sensation of murder.
+Yet at the same time, if I close them,
+ I can do nothing but remember how it felt when I killed her.
 }
 [sha:10ecd2e0f5e50e00b6bdde00bf076a4f814384d0]{
 -- Page 8, Offset 33092.
@@ -142,15 +146,15 @@ Becoming one with tender, pulsating flesh.
 [sha:7912f3589446c595e0fac751242aa85453d158ec]{
 -- Page 8, Offset 33094.
 -- 知性持つ高等動物にとって障害になるほどの精神損傷。舌を噛み切りたくなるほどのおぞましい感触。もうこれ以上はないのだと絶望するほどの行き止まり。アレを知ってしまえば元の位置になど戻れない。
-Felt by a being of higher intelligence, it inflicts an almost crippling blow upon the soul.
+To a being of higher intelligence, the feeling inflicts an almost crippling blow upon the soul.
  A sensation so repulsive it makes you want to bite off your own tongue.
- A dead end that leads to despair at the thought that there exists nothing greater.
+ A dead end so laden with despair at the thought that there exists nothing greater.
  For someone who has had a taste of it, there is no going back.
 }
 [sha:38b29f8876aba4580217285d7ca8cedff9d85026]{
 -- Page 9, Offset 33095.
 -- とりわけ始末の悪いことに、俺の場合はきっかけの相手が最悪なまでに最高だった。
-To make matters worse, the person I murdered happened to be the best of the worst.
+To make matters even worse――the one I murdered was so perfect it was appalling.
 }
 [sha:5a75f93bf99816ab2080dd31fa854e54f1b83093]{
 -- Page 9, Offset 33096.
@@ -160,15 +164,12 @@ The excitement I felt when I dismembered Arcueid's body into seventeen pieces ha
 [sha:d196b0313efd605861cb304ff05532189c2550a3]{
 -- Page 10, Offset 33097.
 -- あの美しい<肢体|からだ>を。
-The pleasure of dismantling her body―――
+The pleasure of dismantling that beautiful body―――
 }
 [sha:82b6381c4ea70a02bc2db7baf4bebaf5a258bdca]{
 -- Page 10, Offset 33098.
 -- 人間の器でありながら、ヒトを遥かに凌駕した強靭な命をザックザクに切断した時の快感は終わっていた。
-Of tearing to shreds a lifeform who,
- despite assuming human form,
- possessed power incomparable to that of a human――
-was over in the blink of an eye.
+Of picking apart a lifeform who possessed power incommensurate with her human form――ended me.
 }
 [sha:d96b2e4510ab297967bd8a7ab4c2392255d1a1f6]{
 -- Page 10, Offset 33099.
@@ -183,7 +184,7 @@ I can say with certainty that it wasn't that woman who died back then――it wa
 [sha:1ffcf495e5355f72413e52697f5feafff3410e22]{
 -- Page 11, Offset 33101.
 -- 健常のものを壊したくて、
-I want to destroy the sane.
+I want to break the able-bodied.
 }
 [sha:c2d94b375232cf1aefdbe8665171a0a740646590]{
 -- Page 11, Offset 33102.
@@ -210,7 +211,7 @@ My body is so riled up that I feel like I'm about to lose my mind.
 -- Page 10001, Offset 33106.
 -- 「志貴さま、起きていらっしゃるのですか……？」
 // This page IFF Hisui flag
-"Shiki-sama, are you awake...?"
+"Shiki-sama, are you awake by any chance...?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 10002, Offset 33107.
@@ -258,7 +259,7 @@ Unlock the door and let ■■■ inside?
 [sha:6c858b8c8145682d9041cbab522f1744a641a302]{
 -- Page 15, Offset 33115.
 -- ―――冗談じゃない。
-―――You're kidding, right?
+―――No way in hell.
 }
 [sha:88df20de620bb6c1993825ca6e9d376130000319]{
 -- Page 15, Offset 33116.
@@ -274,19 +275,19 @@ I'm already at my wits end.
 [sha:14dffafb9706a12e989e8f75a7121e5cef56bd4e]{
 -- Page 15, Offset 33118.
 -- だっていうのに、あんな、
-That's why...
+And now you're telling me...
 }
 [sha:1bedfdfdd48142dfbe97c764a1f208b8152602bd]{
 -- Page 10006, Offset 33119.
 -- 簡単に■れそうなモノに入られたら、それこそ―――
 // Hisui page
 // Flash of her neck here, so guessing ■れそう is 壊れそう or something. Blanks spaced to match 'fragile'
-If I let something so ■■■■ looking inside, I'd almost certainly―――
+That I should let something so ■■■■ looking inside?
 }
 [sha:652dd4a49590293828d48eeb2657fcc22cf0e579]{
 -- Page 16, Offset 33120.
 -- 「―――うるさい！　俺にかまうな！」
-"―――Shut up! Leave me alone!"
+"―――Shut up! Go away!"
 }
 [sha:c3b10a6c9b5563ed2c443d056035d584457663a2]{
 -- Page 16, Offset 33121.
@@ -336,7 +337,7 @@ After a brief silence, I hear ■■■'s footsteps.
 [sha:20b9206a047bb3e9c2166924fdc2ed06c447bce0]{
 -- Page 18, Offset 33129.
 -- 静かに、俺の部屋の前から遠ざかっていく。
-She quietly walks away from my room.
+She quietly retreats from the door to my room.
 }
 [sha:5302ed30454c79ae95872e45fd838ab18db3e4e0]{
 -- Page 19, Offset 33130.
@@ -374,9 +375,9 @@ The book is missing from the conservatory.
 [sha:7ea13121fbcc6984237051fcc230aa36f477ee13]{
 -- Page 20, Offset 33136.
 -- 様々な国の言葉で書かれた伝記。誰かの旅路を綴った航海日誌。……満足に読める筈もなかったが、それでも気晴らしにはなる筈なのに。
-It was a biography written in various different languages.
- An account of someone's journey...
- It's not like I could read it properly, but it still would've served as a good distraction.
+It was a biography written in all kinds of different languages.
+ An account of someone's voyage through life...
+ It's not like I'd be able to read it properly, but it still would've served as a good distraction.
 }
 [sha:29988475a0419649924196091fbfca87cf9e13a9]{
 -- Page 20, Offset 33137.
@@ -424,7 +425,7 @@ Why was a book like that even in my room in the first place?
 It didn't have a title.
  It wasn't some bestseller.
  I don't even know where it was printed.
- It was the story of a life that was impossibly long.
+ It was the story of a life that was impossibly, unbelievably, inconceivably long.
 }
 [sha:a517d0c9f294efd3ef24bc9a1614f3d4e46bfa35]{
 -- Page 23, Offset 33146.
@@ -439,7 +440,7 @@ I can't find it.
  In which case, there should be a gap somewhere.
  If a book is missing, there'd obviously be a space where it used to be.
  But there isn't one.
- A flawless wall of book spines towers before me.
+ A seamless wall of book spines towers before me.
 }
 [sha:b9e699e0c2b94515d6641732e0ac5430f57345b8]{
 -- Page 24, Offset 33148.
@@ -450,7 +451,7 @@ I don't know anymore.
 [sha:486eff2ed29846a4255d4b9152f9d23e539c3461]{
 -- Page 24, Offset 33149.
 -- あんな本がどこにあったのかも知らない。
-I don't know where I might have left it.
+I don't know where I might have picked it up.
 }
 [sha:cc35ec7339fc4925905b4a49ca128356d8978d95]{
 -- Page 24, Offset 33150.
@@ -501,7 +502,7 @@ But, is there a chance it was just a dream?
 [sha:b643521493a4569781b09306b4a7ef93814c587e]{
 -- Page 10010, Offset 33158.
 -- ユメ―――ゆめ。
-A dream... A dream...
+A dream... %{i}A dream%{/i}...
 }
 [sha:fc25a1027600de839043468e55a15c12615bad7b]{
 -- Page 10010, Offset 33159.
@@ -547,7 +548,8 @@ In that case, what were they?
 [sha:5bb50af21025005442d5c70f4f551fd0c3fb22e2]{
 -- Page 27, Offset 33167.
 -- 俺はいったい何処から、自分ではないヤツの夢を見るようになっていた。
-When did I start seeing dreams that belong to someone else?
+When did I become like this?
+ When the hell did I start seeing dreams that belong to %{i}someone else%{/i}?
 }
 [sha:923210e8be7c1c2229fb0920d20fe9e8b5c2f29c]{
 -- Page 28, Offset 33168.
@@ -559,7 +561,7 @@ When did I start seeing dreams that belong to someone else?
 -- Page 28, Offset 33169.
 -- 違う。違う。違う……！
 // https://www.youtube.com/watch?v=cIFtz7bPuUk
-No, no, no...!
+No. No. NO!
 }
 [sha:0883a88e820642216ddc67512d4219604b7d1706]{
 -- Page 28, Offset 33170.
@@ -570,7 +572,7 @@ My memories are just a little hazy right now, that's all.
 -- Page 28, Offset 33171.
 -- アルクェイドが特別なだけだ。あの時は、ただ、自分の欲求を抑えきれなかっただけなんだ。
 Arcueid was an exception, nothing more.
- Back then, I failed to suppress my own desires.
+ Back then, I simply failed to suppress my own desires.
  That's all there was to it.
 }
 [sha:0361f2ff722b17695bdf9196ff0eb884915fa7a8]{
@@ -582,7 +584,7 @@ I'm not abnormal. I'm not psychotic.
 [sha:e5f698186c64e14af7a88d23ea95aaa1d0c7d86f]{
 -- Page 29, Offset 33173.
 -- せっかくシエル先輩が戻ってきてくれたのに、こんなコトで、イカレてなんかやるものか。
-I'm not about to let myself be driven crazy over something like this.
+There's no way I can let myself be driven crazy over something like this...
  Not after Ciel-senpai came back into my life.
 }
 [sha:7a2f59734312b6bee099a39daef9e64f306cf6cb]{
@@ -601,7 +603,7 @@ They say all the people who become Roa's hosts maintain their sense of self, unt
 -- Page 30, Offset 33176.
 -- ある日あっさり―――”
 // Quoting Noel, 28402
-They just, %{i}poof%{/i}, become different.'
+They just, %{i}poof%{/i}―――'
 }
 [sha:968b0c3ee7f4cce58104e74982109b44541c0c86]{
 -- Page 30, Offset 33177.
@@ -642,7 +644,7 @@ My throat... It's so dry that I feel like I'm about to go insane.
 [sha:3f524323b5b22fe099832089bb9429b3b5c9b063]{
 -- Page 10011, Offset 33184.
 -- なにをしていらっしゃるんですか、志貴さま!?」
-What's happening, Shiki-sama?!"
+What is the matter, Shiki-sama?!"
 }
 [sha:f6a8be2dff1b4efe1120773eb9bc028fbbedc102]{
 -- Page 10012, Offset 33185.
@@ -657,35 +659,37 @@ I don't have the presence of mind to answer her.
 [sha:6e4fe9935e6dd2732af1766503a8bea9fb919feb]{
 -- Page 10012, Offset 33187.
 -- コトバ。自分のコトバを、思い出せない。
-Words... I can't even remember how to speak.
+// Fragmentary nature of this page doesn't come across easily in EN.
+// This is maybe a bit over the top, but it's on theme
+Words... I can' t ev en rem e mb er ho w  to sp ea k
 }
 [sha:df08e0d89cade43b45a4fe28a801f8597f3116d6]{
 -- Page 33, Offset 33188.
 -- 頭に浮かぶのは。
-My mind can only picture one thing―――
+T h e re 's on l y  on e th in g  on  m y  m in d
 }
 [sha:d2734b7a893e327d8c43f356d19f5115dc24cb52]{
 -- Page 33, Offset 33189.
 -- 頭に、浮かぶのは。
-My mind can only picture... one thing―――
+Th er e 's   o nl y  on e  t hi ng   o n  m y mi n d
 }
 [sha:85f280371538dcbf9e7839d7a09d172bc86d2ec7]{
 -- Page 10014, Offset 33190.
 -- こみ上げる衝動のままに。
-// reordered for flow
-The sight of myself―――
+S o me o ne   y ie l di n g  t o   th e ir   ur g e s
 }
 [sha:1c8b26b22185b48a71befe794e82eae3108eab0c]{
 -- Page 10016, Offset 33191.
 -- 生き物を、■したくて、■したくて
 // Interpreting 鳴らす here as his throat 'banging the drum' of killing/drinking whatever.
 // Not doing a more direct TL for fear of it coming across like he's actually yelling.
-Throat burning with the desire to ■■■ and ■■■―――
+ th ei r   t h ro at   b u rn ing  w it h  t he%{n}
+d es ire   to ■■■ a nd ■■■―――
 }
 [sha:0c2886587d22cf846d68649e2ef7d73181691290]{
 -- Page 10016, Offset 33192.
 -- 喉を鳴らしている、自分の姿だけ。
-As I yield to my surging impulses.
+That someone is me.
 }
 [sha:402a2ccc928c8f611faabb3a21b807d9ab3e0d24]{
 -- Page 34, Offset 33193.
@@ -716,28 +720,28 @@ So that's how it is...
 [sha:e3be751749701df3423480b5dbb1dafbe39731a1]{
 -- Page 35, Offset 33198.
 -- 俺の意思を残したまま狂わせようとする衝動。
-An impulse that drives me mad while keeping my will intact.
+It's an urge that drives you mad while keeping your will intact.
 }
 [sha:e3d371906450c4846b7cebcbb3f6bbfa9e6061a3]{
 -- Page 35, Offset 33199.
 -- 人格や記憶は残したまま、目的―――欲求だけが少しずつ上書きされていく。
-It leaves my personality and memory untouched,
- while slowly overwriting my intentions――my desires.
+It leaves your personality and memory untouched,
+ while slowly overwriting your purpose――your desires.
 }
 [sha:d61f4f4b63d43ebb0f1a013d987ab49f3524cad0]{
 -- Page 35, Offset 33200.
 -- 自分という意識を残したまま、違うものに変化していく恐怖。
-I'm filled with the fear of remaining fully conscious as I transform into something else entirely.
+It is the horror of being transformed into something else while fully conscious of yourself.
 }
 [sha:16a0f1f2ce38cd27590d174e4e0b5bad6a549117]{
 -- Page 35, Offset 33201.
 -- これが。
-This must be...
+Is this it?
 }
 [sha:a4d0dfbd8844cdba86a68095bc89075acc20d8ab]{
 -- Page 35, Offset 33202.
 -- これがロアなのか。
-This must be Roa.
+Is this Roa?
 }
 [sha:25e3b48315ed94d86b799230987db22c941fec8c]{
 -- Page 36, Offset 33203.
@@ -767,9 +771,9 @@ That dream was the memory of the Roa before me.
 [sha:3913a280d5058ab61b18419315d0e0edf6b83a97]{
 -- Page 37, Offset 33208.
 -- 部屋に閉じこもって、そのあげくに両親を殺して、自分の住んでいた街を吸血鬼だらけにしてしまった、見知らぬ誰かの、最後の記憶。
-The final memories of an unfamiliar someone――
-someone who walled themselves up in their room,
- but in the end still killed their parents and transformed their hometown into a city infested with vampires.
+The final memories of someone I don't know――
+someone who walled themselves up in their room――
+someone who eventually ended up killing their parents and transforming their hometown into a town infested with vampires.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 38, Offset 33209.
@@ -779,7 +783,7 @@ someone who walled themselves up in their room,
 [sha:081e061b6766e7f8b0153cac61a93affb27c4848]{
 -- Page 38, Offset 33210.
 -- ……手段がない。
-There's no way out...
+There's nothing I can do...
 }
 [sha:db482298044c8dfa8928f6641fbbc40793fc895e]{
 -- Page 38, Offset 33211.
@@ -799,13 +803,13 @@ That dream made it clear to me.
 [sha:2890f504add2cd990cc81ab08636f3346363e599]{
 -- Page 39, Offset 33214.
 -- 前の<転生先|ヤツ>の気持ちを経験として理解する。
-Now that I've experienced the feelings of the previous vessel, I understand.
+Now that I've experienced the feelings of the previous incarnation, I understand.
 }
 [sha:d22ac954e552b7d1fc59e0dfa5587168411277a9]{
 -- Page 39, Offset 33215.
 -- 俺が死んだところで死ぬのは俺のイシだけで、残ったロアのイシがこの体を完全に操るだろう。
-If I killed myself, the only thing to die would be my own will.
- Roa would remain, now in full control of the body I ceded to him.
+If I killed myself, my will would be the only thing that died.
+ Roa's will would remain, now in full control of the body I ceded to him.
 }
 [sha:7755f1f66800e97a56e8c85322af1d6ceab95e52]{
 -- Page 39, Offset 33216.
