@@ -1,7 +1,7 @@
 [sha:9d023f37aa78fefef32a72722d21fd9d92bbcbb4]{
 -- Page 10034, Offset 34383.
 -- なら―――どうするっていうんだ、俺は。
-Then―――what should I do?
+Then――what %{i}should%{/i} I do?
 }
 [sha:8e39a4c0fc02e53af927f8d80ebebeb613f72fdf]{
 -- Page 10034, Offset 34384.
@@ -11,47 +11,49 @@ Then―――what should I do?
 [sha:41014532b9f62efb0952798b567e8bbea2f50632]{
 -- Page 10034, Offset 34385.
 -- <痙攣|けいれん>する指で眼鏡の<蔓|つる>に触れる。
-I touch the frame of my glasses with my trembling fingers.
+My trembling fingers brush against the frame of my glasses.
 }
 [sha:96c8bf1983400d69685fa23c5cf4b198f952d305]{
 -- Page 387, Offset 34386.
 -- 「……できるわけないだろ、そんなマネ―――！」
-"...There's no way I can do something like that―――!"
+"No, there's no way I could do something like that―――!"
 }
 [sha:5858d322a9c9adbb0319dc5966efc9c93b4c0c90]{
 -- Page 387, Offset 34387.
 -- 激情に任せて手にしたモノを放り投げた。
-In a fit of rage, I end up throwing away the object in my hand.
+Overcome by emotion, I cast off the object in my hand.
 }
 [sha:f142cc2ebb96b1378181c6acc95a43a36116ea79]{
 -- Page 387, Offset 34388.
 -- 自分自身に殺意を覚えた結果だ。
-This is what my intention of killing myself has led to.
+I acted this way because I've hammered into myself that I have to die.
 }
 [sha:c7b09d94da4253ebdfc6998b51cbfc4dd96f079b]{
 -- Page 387, Offset 34389.
 -- カラン、カラン、と硬い物が暗い夜に転がっていく。
-The hard object rolls through the dead of night.
+The hard object clatters across the floor and disappears into the night.
 }
 [sha:f8bbdcc2df87681eecba7c9d3649a160a36c95fb]{
 -- Page 388, Offset 34390.
 -- ……線など見えない。
-...I don't see any lines.
+I don't see any lines...
 }
 [sha:2679c779f5918948fa0039ca6591547c88119f36]{
 -- Page 388, Offset 34391.
 -- 放り投げたものは、持っていたナイフだ。
-What I threw away was my knife.
+The object I hurled away from me was the knife that had been clutched in my hand.
 }
 [sha:ddda5b999aaca2f2e3db566ebba66b49acf48482]{
 -- Page 388, Offset 34392.
 -- 眼鏡は外さない。……絶対に、外さない。
-I won't take off my glasses... I will never take them off no matter what.
+I won't take off my glasses...
+ I won't take them off no matter what.
 }
 [sha:c203290801faa15aa9f33257046ca2200b24acb3]{
 -- Page 388, Offset 34393.
 -- ただ、俺はもう自信がないから、ナイフを遠くに投げただけだ。持っていればきっと、俺は自分が死ぬよりイヤな事をしてしまう。
-I threw my knife far away for the sole reason that I can't trust myself with it anymore. If I kept carrying it around, I'm sure I would've been met with a fate worse than death.
+I threw my knife far away for the sole reason that I can't trust myself with it anymore.
+ If I kept hold of it, I'm sure I would have done something far worse than simply dying.
 }
 [sha:f0dd4a6a183c39fe5dad0df55f71db7a3d60ca20]{
 -- Page 389, Offset 34394.
@@ -61,32 +63,34 @@ I threw my knife far away for the sole reason that I can't trust myself with it 
 [sha:f9be0fd62f9e94e306b1c551ac5ee1e9d7a3b173]{
 -- Page 389, Offset 34395.
 -- そうして、彼女がやってきた。
-And so she appears.
+She's finally arrived.
 }
 [sha:faf0170f4dd066b060e5e8cdfdbff9c77a789f0e]{
 -- Page 389, Offset 34396.
 -- 感情のない瞳も、不吉な凶器も、何ひとつ変わっていない。
-Her emotionless eyes and ominous weapon remain the same as ever.
+Nothing about her has changed.
+ Her eyes remain emotionless, and she still carries her menacing weapon.
 }
 [sha:303a32a902afab385b83c27a50c18b35e28c61d2]{
 -- Page 390, Offset 34397.
 -- 彼女は、座り込んだ俺の前で足を止めた。
-She stops in front of me as I sit on the ground.
+// He's like half-sitting here based on his actions in _4
+She stops just short of where I lie sprawled against the wall.
 }
-[sha:252473a8b86cf5f57ec2966edaa34e0e4acaca43]{
+[offset:34398]{
 -- Page 390, Offset 34398.
 -- ……どうしてだろう。
-I wonder why...
+What's she doing...
 }
 [sha:f8153c2e21df7a0fb094deb2690dbbf6cc84d55b]{
 -- Page 390, Offset 34399.
 -- トドメを刺そうとしてこない。
-Why hasn't she finished me off yet?
+Why isn't she coming to finish me off?
 }
 [sha:53e666b2cd3997766153643b052fcd7b632ac5fe]{
 -- Page 390, Offset 34400.
 -- 俺たちはぼんやりと見つめ合うだけだった。
-We're simply staring at each other aimlessly.
+We're just staring blankly at each other.
 }
 [sha:9a6892d97c2f5d121cda559b9c5ac164731fb9a9]{
 -- Page 391, Offset 34401.
@@ -101,12 +105,14 @@ She points the tip of her weapon at my chest.
 [sha:1e2c6ece2343d2a5c596c80f496d73e9f255f201]{
 -- Page 391, Offset 34403.
 -- 「どうして眼鏡を外さなかったんです。どうして―――ただの一度も、わたしと戦おうとしなかったんです」
-"Why won't you take off your glasses? Why―――do you always refuse to stand your ground and fight me?"
+"Why won't you take off your glasses?
+ Why do you always refuse to stand your ground and fight me?"
 }
 [sha:105d6bd59d7e7d0e85bd8b6c8ae34ae9e71affe0]{
 -- Page 392, Offset 34404.
 -- 「……どうしてって、不思議でも何でもない」
-"...Why, you ask? There's no mystery to it."
+"You want to know why...?
+ I don't have a big complicated reason or anything."
 }
 [sha:2a98cb4bdf87112e641f382d4d7544b4b84a6f1b]{
 -- Page 392, Offset 34405.
@@ -116,32 +122,36 @@ The thought just never crossed my mind.
 [sha:6395524a2480de020de40884ad7d12a5455bbd1b]{
 -- Page 392, Offset 34406.
 -- 「そんな酷いこと、先輩にはできないだろ」
-"I could never bring myself to do something that cruel to you, Senpai."
+"I probably just couldn't bring myself to do something that cruel to you, Senpai."
 }
 [sha:6d6d95913c5f95a4eea44265032ff9822a410b42]{
 -- Page 393, Offset 34407.
 -- 「………愚かにも、ほどがある。
-"...How stupid can you get?
+"Just how stupid can you get?
 }
 [sha:1abecfbf2ed7918099cc9bdebc3c5a109d9b3e69]{
 -- Page 393, Offset 34408.
 -- わたしは貴方を殺すんですよ。わたしは貴方の先輩なんかじゃない。すべて嘘だったって、あれだけ言ってまだ分からないんですか、貴方は……！」
-I'm trying to kill you, you know? I am not your Senpai or anything like that. How many times do I have to tell you that it was all a lie before you finally understand?!"
+I am here to kill you.
+ I am not your upperclassman, or anything else for that matter.
+ How many times do I have to tell you it was all a lie before you finally understand?!"
 }
 [sha:82890a1c90a0a6c66b9fef92fbb156e3de1e35e2]{
 -- Page 394, Offset 34409.
 -- 罵倒する声。
-She's berating me.
+Her voice is scathing.
 }
 [sha:6c6a6a7203ff3ffe34e7d7c065e73a1f2ad64b7d]{
 -- Page 394, Offset 34410.
 -- 冷静な顔のまま、手足が震えるほどの怒りと苛立ち。
-While her expression remains composed, she's filled with so much anger and irritation that her limbs are trembling.
+Despite maintaining a calm expression,
+ her extremities are trembling with anger and irritation.
 }
 [sha:2d958cb0aaf28646195786ad9bc59ad864ce8cca]{
 -- Page 395, Offset 34411.
 -- 「……知ってる。先輩は、ずっと俺を騙してきた。
-"...I know. You've been deceiving me this entire time.
+"Yeah, I know...
+ I know you've been deceiving me this whole time.
 }
 [sha:b781e7a8c6550a750c16e3fb20250426c0813b17]{
 -- Page 395, Offset 34412.
@@ -151,17 +161,20 @@ I know that the person known as Ciel-senpai never truly existed in the first pla
 [sha:55d473a33717f32fdf8253799cd56f66b6508c10]{
 -- Page 395, Offset 34413.
 -- 「分かっているんなら、どうして……！」
-"If you already know, then why...?!"
+"If you know that, then why...?!"
 }
 [sha:e458725b1a0127117fd10b601af3d99ea35378a4]{
 -- Page 396, Offset 34414.
 -- 「……いいんだ。先輩が嘘でも、関係ない。
-"...It's fine. Even if the person I know as Senpai is just a lie, it doesn't matter to me.
+"I don't mind...
+ Even if it was a lie, it doesn't matter.
 }
 [sha:aedfe6ca52e46a23d0a6a8979f0d360cc34dffbc]{
 -- Page 396, Offset 34415.
 -- 俺は、すごく楽しかった。先輩と過ごした時間は、先輩にとってはどうでもいい時間だったかもしれないけど、俺にとっては大切だった」
-I had a lot of fun. You may think nothing of it, but I cherish the time we spent together dearly."
+I just had so much fun.
+ I don't know if the time we spent together meant anything to you,
+ but it was incredibly precious to me."
 }
 [sha:0384d287edc8f5c296e4964b7c934c88df127ff2]{
 -- Page 397, Offset 34416.
@@ -171,22 +184,22 @@ That's right...
 [sha:e49f758b5079be250104615da13c7d5f3ebc17a1]{
 -- Page 397, Offset 34417.
 -- アレは本来、俺には手に入らないものだった。
-It really should've been out of my reach.
+By all rights, something like that should have been beyond my reach.
 }
 [sha:008c0d08107b1b737c95f8f3e866a854145764c1]{
 -- Page 397, Offset 34418.
 -- <未来|し>を恐れるだけの俺には見る事のできなかったもの。
-A sight that I'd never laid my eyes upon when all I did was live in fear of the <future|d e a t h>.
+Something that I, with my eyes clouded by fear of the <the future|d e a t h  >, should never have been able to behold.
 }
 [sha:2d67b5ca2a4fa16617eba2d73de9f6f1e93b62f5]{
 -- Page 397, Offset 34419.
 -- 気付かないうちに見限っていた、何でもない光景だ。
-A commonplace scenery that I'd unconsciously given up on.
+The sort of prosaic scenery I'd unconsciously given up on.
 }
 [sha:929dbf24ad1445fe5d9fcb07cfd8f18c2343033e]{
 -- Page 398, Offset 34420.
 -- ……だから、いいんだ。
-...That's why, it's fine.
+That's why... I don't mind.
 }
 [sha:3f7dea1cd000f4bb24cabd25beed3ac4d10cdbd7]{
 -- Page 398, Offset 34421.
@@ -196,12 +209,13 @@ Even if everything was a lie to her―――
 [sha:d25207335fd098d3aa22c925844dc23bdbe08804]{
 -- Page 398, Offset 34422.
 -- 俺がそれに救われていたのは真実なんだし。
-the fact that her lie saved me remains.
+The fact that her lie saved me remains.
 }
 [sha:fe3237ea0c95e714b765f03eebbb11534082090c]{
 -- Page 399, Offset 34423.
 -- 「―――だから、いいんだ」
-"―――That's why, it's fine."
+// いいんだ counter off the fucking charts
+"―――That's why... I don't mind."
 }
 [sha:2224659a6725dc7f449777d3ba335cb03ca899ca]{
 -- Page 399, Offset 34424.
@@ -211,12 +225,13 @@ These past two weeks were really fun.
 [sha:60d2f74f8ca8ec78d8fdfedd86995079747e6cce]{
 -- Page 399, Offset 34425.
 -- けどここで先輩を憎めば、それさえも亡くなってしまう。
-But if I ended up hating Senpai, even the time we spent together would be rendered meaningless.
+If I were to start hating Senpai now,
+ it would render the time we spent together meaningless.
 }
 [sha:b1ed00fc49000516d2699946d7a4dc38d0992e02]{
 -- Page 399, Offset 34426.
 -- 先輩にとってそれが嘘だったのなら、せめてあとの半分。
-Even if it was only a lie to her, that's only her half of the story.
+Even if it was nothing more than a lie to her, that's only one half of the story.
 }
 [sha:03b2a1b19eea8d3e314f80858cebeb3842a52b78]{
 -- Page 399, Offset 34427.
@@ -226,47 +241,51 @@ I want the other half――my half――to remain genuine until the very end.
 [sha:0db9e2248c8ee50a0a4c76a7469c35520e231126]{
 -- Page 399, Offset 34428.
 -- ……自分の命と引き換えにするにしては、滑稽な望みだと分かっていても。
-...I understand that giving up my own life in exchange for that wish is foolish.
+I understand that this foolish wish will cost me my life...
+ but even that is a price I'd gladly pay.
 }
 [sha:fbca2377cb3ec797924f82b412490fdd2404a1d0]{
 -- Page 400, Offset 34429.
 -- 「―――そんなコト。そんなコトのために、命を投げ捨てるんですか。望みは。貴方の望みというのは、その程度のものなんですか」
-"―――That's it? You're telling me you're going to throw away your life away for something like that? Is your desire truly... that meager?"
+"―――That's it?
+ You're really going to throw your life away over something like that?
+ Is that all...?
+ Is that really all you wish for?"
 }
 [sha:d2ddc5b03c30d69f749013f63690ce5d0dc5397f]{
 -- Page 400, Offset 34430.
 -- 「……そっか。やっぱり小さい、かな」
-"...You're right. I guess I was thinking a little small."
+"You're right... Maybe I should have dreamed bigger."
 }
 [sha:c91138d706b0263f7816fad6ea88ff8b935ed726]{
 -- Page 401, Offset 34431.
 -- ……でもまあ、今はそれが二番目ぐらいに大切なんだ。
-...Even then, that wish is the second most important thing to me right now.
+That said... it's probably still the second most important thing to me right now.
 }
 [sha:5b69cc4e543fca2d5a136b8e65959583c71a6009]{
 -- Page 401, Offset 34432.
 -- それ以外の望みなんて、どうあっても一つしか思いつかない。
-I can only think of one other wish aside from that.
+I can only think of one thing in the world I'd want more than that wish.
 }
 [sha:a78efd6f4fb7eb5653afdb607b89491f2fa66167]{
 -- Page 402, Offset 34433.
 -- 「―――わたし、色々な人を見てきましたけど」
-"―――I've come across all sorts of people in my life."
+"―――I've met an awful lot of people in my life."
 }
 [sha:cde0d1f377e21554b76bfb3d4f4df43cf1e470eb]{
 -- Page 402, Offset 34434.
 -- 一歩、踏み込んで。
-She takes a single step.
+She takes a step closer.
 }
 [sha:11bad82d800d836b57372ca676bedfb70b3678aa]{
 -- Page 402, Offset 34435.
 -- 「貴方ほど馬鹿な人は、初めてでした」
-"But I've never met someone as stupid as you."
+"But I've never met anyone as stupid as you."
 }
 [sha:b4a5cf2b0954c0868705d811ca80966d23faf061]{
 -- Page 402, Offset 34436.
 -- 先輩は銃口を俺の心臓に当てた。
-She pushes the muzzle up against my heart.
+She presses the tip of her weapon up against my heart.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 403, Offset 34437.
@@ -278,10 +297,10 @@ She pushes the muzzle up against my heart.
 -- 「――――――」
 "――――――"
 }
-[sha:252473a8b86cf5f57ec2966edaa34e0e4acaca43]{
+[offset:34439]{
 -- Page 403, Offset 34439.
 -- ……どうしてだろう。
-I wonder why...
+I don't get it...
 }
 [sha:c3cb3be02371cc2f96d651a68af7457f29837201]{
 -- Page 403, Offset 34440.
@@ -291,27 +310,30 @@ Why isn't she pulling the trigger?
 [sha:19a537d92d13e141eca341bb3ca88b3542d185b7]{
 -- Page 403, Offset 34441.
 -- 俺を見つめてくる目は虚ろだ。
-Her eyes that gaze upon me seem empty.
+Her eyes seem oddly empty as she gazes down at me.
 }
 [sha:28602ce521fda2d07dbf50afc62eb614033a9b2b]{
 -- Page 404, Offset 34442.
 -- 先輩が時折見せる、感情のない瞳。それは、この人が冷酷な人という訳じゃなくて。
-Every once in a while, she has this emotionless look in her eyes, but that doesn't mean that Senpai is a cold-hearted person.
+This isn't the first time I've seen this emotionless look in her eyes.
+ That's not to say she's cold-hearted, or anything like that.
 }
 [sha:fca1470e8b6e8f19fa109e88f161cedd81131ae3]{
 -- Page 404, Offset 34443.
 -- 最後の最後の<局面|ライン>で自分自身を騙せないから、結局、自分の感情を殺しているだけ。
-It's just that she's incapable of deceiving herself until the very end, so all she can do is suppress her own emotions instead.
+It's just that, try as she might, she's incapable of truly believing the lies she tells herself.
+ Casting off her emotions is her only means of escape.
 }
 [sha:51d196d6461aa629cb98b26eeaa13174094ebd5e]{
 -- Page 405, Offset 34444.
 -- 先輩の言う通り……俺は本当に馬鹿だ。
-It's just as she said... I really am a fool.
+Senpai was right... I really am an idiot.
 }
 [sha:1df988560abdf0a7d76d319a416b9beaca3227d3]{
 -- Page 405, Offset 34445.
 -- この目をする時、先輩はいつも―――俺ではなく、自分自身を騙していたんだと、やっと気付いた。
-I've finally realized――whenever Senpai has that look in her eyes, she isn't trying to deceive me――she's trying to deceive herself.
+I've only just realized that whenever she gets that look in her eyes,
+ it isn't because she's trying to deceive me――it's because she's trying to deceive herself.
 }
 [sha:2dd695ecc6a0474ed7463f45635852af375f46e1]{
 -- Page 406, Offset 34446.
@@ -321,17 +343,18 @@ I've finally realized――whenever Senpai has that look in her eyes, she isn't 
 [sha:0efeb88e4ab4402c31c20a625044fbb8ededcc57]{
 -- Page 406, Offset 34447.
 -- 「……そうですか。懺悔なんてないけど、一つだけ、訊いていいかな」
-"...Right. I don't have anything to confess, but can I ask you a question?"
+"Oh, okay... I don't have anything to confess, but can I ask you a question?"
 }
 [sha:ae7aee1fd3a277022131cb87885c5702c30a437f]{
 -- Page 407, Offset 34448.
 -- 「―――はい。手短にお願いします」
-"―――Certainly. But please keep it short."
+"―――You may. But please keep it short."
 }
 [sha:c08338cd1b9f0d0b6a12aaffe0321ce16783de1d]{
 -- Page 407, Offset 34449.
 -- 「……うん、すぐ済む。どうして先輩は、そんなに泣きそうな顔をしてるのかなって、思って」
-"...Yeah, I will. I was just wondering... why do you look like you're about to cry?"
+"Yeah, I will.
+ I just wanted to know... why you look like you're about to cry?"
 }
 [sha:f0dd4a6a183c39fe5dad0df55f71db7a3d60ca20]{
 -- Page 408, Offset 34450.
@@ -341,47 +364,51 @@ I've finally realized――whenever Senpai has that look in her eyes, she isn't 
 [sha:5210cabc10034b381d48eddc8eedeede646d2f8e]{
 -- Page 408, Offset 34451.
 -- びくり、と。
-All of a sudden.
+%{i}Twitch%{/i}.
 }
 [sha:100210b6abb6f0e2899ffa5c17eb45e6212014f2]{
 -- Page 408, Offset 34452.
 -- 彼女の体が震えた気がした。
-I think she just trembled.
+I think she just trembled slightly.
 }
 [sha:fa7ba491b5d9c2ee79e161b5e0214c12af7f93c4]{
 -- Page 409, Offset 34453.
 -- 「―――わたしは、泣いてなんて、いません」
-"―――I don't feel like crying at all."
+"―――I'm not crying at all. Don't be absurd."
 }
 [sha:906130cab257f1f8ab4dd547acd7aae9dffa3929]{
 -- Page 409, Offset 34454.
 -- 断言する先輩の顔は冷酷そのものだ。
-As she makes that declaration, Senpai's face is devoid of any emotion.
+Senpai replies with a studiedly ruthless expression on her face.
 }
 [sha:ac6cf9ad73bae1cf020c4df62e740a9e80012d9f]{
 -- Page 409, Offset 34455.
 -- ……そう言われると、こっちもつい首をかしげてしまう。
-...Even I'm at a loss after hearing her say that.
+// Is this こっちも supposed to be he's also taken aback/surprised (the びくり),
+// or that he's now also confused the same way she's 'confused' by his statement?
+She says that, but... now I'm just as confused as she is.
 }
 [sha:4385753f25794bcff9112b9a6fbaef022d5b546b]{
 -- Page 409, Offset 34456.
--- けれど、どうしても俺には――――
-But even so, I can't help but think――――
+-- けれど、どうしても俺には
+Even if she denies it, I can't help but think―――
 }
 [sha:bdadb18b9b308c73771971e96b5db37f9faa3ffb]{
 -- Page 410, Offset 34457.
 -- 「……泣きそうな顔に、見える。どうしてか、わからないけど」
-"...You look like you're about to cry. I don't really know why though."
+"You look like you're about to cry to me...
+ I don't really know why, though."
 }
 [sha:f85c082325b4551f36f9970024ecb5cb059a117b]{
 -- Page 410, Offset 34458.
 -- 「それは貴方の錯覚です。わたしは何も感じていませんから」
-"You're imagining things. After all, I do not possess any emotions."
+"You're imagining things. I feel no emotions, you see."
 }
 [sha:6f8866fc49b4f90d3091f73ad01b3358f9beeeea]{
 -- Page 411, Offset 34459.
 -- 「わたしにある感情は、人間として死にたいというものだけです。それ以外の感情なんて、ない」
-"The only thing I feel is the desire to die as a human. There's nothing else apart from that."
+"There is nothing in my heart but the desire to die as a human.
+ I have no need for anything else."
 }
 [sha:95f43bda6e8cc09483054445dceb894723d6c86a]{
 -- Page 412, Offset 34460.
@@ -391,12 +418,14 @@ That's so... sad.
 [sha:07eea14e3babd84451283f9273a391e9c0591340]{
 -- Page 412, Offset 34461.
 -- こんな時に、それが嘘だと分かってしまうのは、皮肉すぎる。
-At a time like this, I'm finally able to see through her lies. How ironic.
+Only now that things have come to this am I able to see through her lies...
+ The irony is crushing.
 }
 [sha:b7b35791f18e1a1a2752c305d04e05a1c88e995e]{
 -- Page 413, Offset 34462.
 -- 「……ひどいな。最後まで、先輩は俺に嘘をつくのか」
-"...How awful. Do you intend on lying to me until the very end, Senpai?"
+"I can't believe it...
+ Do you really plan on lying to me right up until the very end, Senpai?"
 }
 [sha:f0dd4a6a183c39fe5dad0df55f71db7a3d60ca20]{
 -- Page 413, Offset 34463.
@@ -406,52 +435,58 @@ At a time like this, I'm finally able to see through her lies. How ironic.
 [sha:68a938c0eaed172db6b8953cba8d5faa7e319dae]{
 -- Page 413, Offset 34464.
 -- 返答はない。
-There's no answer.
+She doesn't answer.
 }
 [sha:f417c9d90a852cbaa37487186c9fa1669775b646]{
 -- Page 413, Offset 34465.
 -- 凍りついたように、先輩は動かない。
-Senpai is completely frozen in place.
+Senpai is motionless, as though frozen in place.
 }
 [sha:2822fb04328a9dff68430a13b7bad1f62c3b8160]{
 -- Page 414, Offset 34466.
 -- 「―――貴方こそ、嘘をついてる。ここでわたしに殺されることが望みなんて、思ってはいないでしょう」
-"―――The same could be said for you. You don't truly wish to die by my hands, do you?"
+"―――I could say the same to you.
+ You don't actually want to die here by my hand, do you?"
 }
 [sha:c862719f578dfa33067b244238ea14e06c307a6e]{
 -- Page 414, Offset 34467.
 -- 「……当然だろ、そんなの。死んだら何もないじゃないか。一応経験があるから、それぐらいは分かってる。
-"...Of course not. If I die, then that'll be the end for me. I've already experienced it once, so I know that much.
+"Of course I don't...
+ There's nothing waiting for you if you die.
+ I've already experienced it once, so I know that much for a fact.
 }
 [sha:cd2c01c649b99f5e4b705d5b210bb132b2d3d5f1]{
 -- Page 414, Offset 34468.
 -- ……本音を言えば生きていたい。けど、ただ生きているのは、もうダメらしくて」
-...To be honest, I want to live. But... even living on seems hopeless right now."
+To be honest, I want to live.
+ It's just that... I'd have nothing left worth living for."
 }
 [sha:fe95392cb3c5305c8ab0fd3b476810ceddace311]{
 -- Page 415, Offset 34469.
 -- ……そう、ダメだ。
-...That's right. It's hopeless.
+Yeah... there'd be nothing left.
 }
 [sha:5f3a2fd936bb8fce0046a9013af8b8aeec314f80]{
 -- Page 415, Offset 34470.
 -- もしここでなんとか生き延びても、その先には何もない。
-Even if I somehow managed to get out of this alive, there'd be nothing left for me afterward.
+Even if I somehow managed to make it out of this alive,
+ there'd be no future for me.
 }
 [sha:a2930a9c5859374cb9af1487b20eeae4f1bc2805]{
 -- Page 415, Offset 34471.
 -- 遠野志貴なんていう人間もいなくなって、この人が経験したあの惨状を繰り返す。
-The person known as Tohno Shiki would disappear, and then I would go on to repeat the same atrocities that Senpai once experienced.
+The human named Tohno Shiki would disappear,
+ and I'd go on to repeat the same atrocities that Senpai has already experienced.
 }
 [sha:e6a87614997058d8b8f89d5bb895463b8f8f808a]{
 -- Page 416, Offset 34472.
 -- けど、そんな事より。
-But more importantly.
+But, something even more important would also disappear.
 }
 [sha:9d000bbc8104c1407c22bbe34513bb0063e516e3]{
 -- Page 416, Offset 34473.
 -- そこにはもう先輩がいない。
-That'd mean Senpai would no longer be around.
+In that world, Senpai would be gone.
 }
 [sha:77c69c43d2d60ac0bac8c68be6d3e761eb0a42ea]{
 -- Page 416, Offset 34474.
@@ -462,77 +497,83 @@ A life like that wouldn't be worth living.
 [sha:edecb1646231014b6294a560a380ce9f87ed9987]{
 -- Page 417, Offset 34475.
 -- 「……今まで、すごく楽しかったんだ、先輩。有彦と俺と先輩でバカな話をしている時は、悪くなかった。ただの休み時間でも、先輩が来てくれるだけで夢みたいに、楽しかった」
-"...It's been a lot of fun, Senpai. The stupid conversations we had with Arihiko... they weren't bad at all. Even during the breaks, the fact that you were there... made it so much fun that... I could hardly believe I wasn't dreaming."
+"It's been a lot of fun, Senpai...
+ I can't say I minded hanging out with you and Arihiko.
+ Even though it was nothing more than a break between classes,
+ having you there made it so much fun that I could hardly believe I wasn't dreaming..."
 }
 [sha:5a6d152ece70f8e13fc933cee27c705938ccb990]{
 -- Page 417, Offset 34476.
 -- ……だから、それが今の俺の<欲求|もくてき>だ。
-...That's why, that's what my greatest desire is.
+That's why, right now, I could wish for nothing greater...
 }
 [sha:b4d8a415870a6309ebbc589e64600caaf2cfd883]{
 -- Page 417, Offset 34477.
 -- もう叶う事はないとしても、
-It may never be granted, but―――
+That wish may never be granted, but―――
 }
 [sha:317ce87210323c2a1d75b59d1ef75f6c8a575f45]{
 -- Page 418, Offset 34478.
 -- 「……うん。俺はずっと、あのままの時間が続いてほしかった」
-"...Yeah. I wish that the time we spent together could've gone on forever."
+"Yeah... I wish the time we spent together could've gone on forever."
 }
 [sha:219aff2a83ea749acd2241d753c77ac072d29b9b]{
 -- Page 419, Offset 34479.
 -- そう口にした瞬間、ひどく心が落ち着いた。
-The moment I put it into words, my heart becomes incredibly calm.
+The moment I put that wish into words, my heart becomes incredibly calm.
 }
 [sha:4a2848d64ab681c0fbb1bdfa55841a0112da7fb4]{
 -- Page 419, Offset 34480.
 -- 届かない幻でもいい。
-It doesn't matter if it's just an unreachable illusion.
+I don't care if it's just an unobtainable illusion.
 }
 [sha:617a8ee65f2a2b646135a5bfe63ca53e8ff7f620]{
 -- Page 419, Offset 34481.
 -- 初めから存在しなかった蜃気楼でもかまわない。
-I don't care if it's just a mirage that never truly existed in the first place.
+// He did it! He said the chapter title!
+I don't even care if I'm chasing a mirage that never truly existed in the first place.
 }
 [sha:3b95986fa53ec1cc6bd37f18adf4afdc763eac2f]{
 -- Page 419, Offset 34482.
 -- むしろ幻だったからこそ、先輩と過ごした時間が、こんなにも愛しく感じられる。
-Rather, it's precisely because it's an illusion that the time we spent together is so dear to me.
+If anything, it's %{i}because%{/i} it was an illusion that the time we spent together is so dear to me.
 }
 [sha:5cd8e809ee8b57764e6b761cbb8d0ceb6a469d93]{
 -- Page 420, Offset 34483.
 -- どのみち俺は助からない。
-I can't be saved no matter what.
+No matter what happens, I cannot be saved.
 }
 [sha:e1d1edfc1f5b97296dee1c255bd1c7478a80d41a]{
 -- Page 420, Offset 34484.
 -- それなら―――あのゆめを夢みたままでいられるなら、それはどんなに――――
-In that case―――if I can keep seeing that dream until the end, then that'd be――――
+In which case――
+if I can at least keep on seeing that dream right up until the end, that'd be―――
 }
 [sha:21346fe8ce9e38fb4926a38903d7731b01878c87]{
 -- Page 421, Offset 34485.
 -- 「な―――んて」
-"―――H...how."
+"―――H-How..."
 }
 [sha:0536437225680262e643046908298a0e1e4a6372]{
 -- Page 421, Offset 34486.
 -- 愚か、と呟いて。
-'Foolish', she murmurs.
+'Stupid', she murmurs.
 }
 [sha:0b0393aa4c83e1e7d03b0c9961176db2486277b8]{
 -- Page 421, Offset 34487.
 -- 先輩はわずかに銃口を動かした。
-The muzzle moves slightly.
+She adjusts the position of her weapon slightly.
 }
 [sha:3ccc909a9d23cbe7ff2e8ce18880547e9c4e5ea3]{
 -- Page 421, Offset 34488.
 -- ギチッ、と音をたてて鉄塊が胸を圧迫する。
-With a clank, she pushes the lump of iron into my chest.
+The lump of iron creaks as she presses it against my chest.
 }
 [sha:e50668a3a2fb034770c96175884aac19acb26d75]{
 -- Page 422, Offset 34489.
 -- ほんの少し。爪の先ぐらいだけ、銃口が胸にえぐりこむ。
-The muzzles gouges into my chest. It only pierced through me ever so slightly, around the depth of the tip of a fingernail.
+The spike breaks the skin.
+ It's a shallow cut, no deeper than the tip of a fingernail.
 }
 [sha:106a0af6ee9178658921d31e2403b231e2f259a8]{
 -- Page 422, Offset 34490.
@@ -542,7 +583,7 @@ Just a little more.
 [sha:598a47e550a7811f77f53a87e8500cb801706b63]{
 -- Page 422, Offset 34491.
 -- 彼女が一歩踏み込むだけで終わる。
-Just one more step, and it'll all be over.
+If she takes one final step, it'll all be over.
 }
 [sha:7210839f45ef73b318e1583c83277cbf04b7aebe]{
 -- Page 423, Offset 34492.
@@ -562,22 +603,23 @@ Weapon still in hand, she's staring at me with those emotionless eyes.
 [sha:b18ffd958015981b4046f6e090bf45f9eaeb6570]{
 -- Page 423, Offset 34495.
 -- ぎり、と。先輩は、苦しそうに、唇を噛んだ。
-She bites her lips in anguish.
+She's biting her lip in anguish.
 }
-[sha:c43fa65a4dda086dc9ebf895468b840c0ade65a8]{
+[offset:34496]{
 -- Page 424, Offset 34496.
 -- 「………そっか」
-"...I see."
+"Of course..."
 }
 [sha:e3b0bc3a66035b5feb0a6789317dd67f5b9e5129]{
 -- Page 424, Offset 34497.
 -- ……俺に見られていてはやりづらいだろう。
-...It must be difficult to do it while I'm looking at her.
+It must be difficult for her to do it while I'm watching her.
 }
 [sha:b6873661491c03d9ec3dff1fce90575b6a3f15e5]{
 -- Page 424, Offset 34498.
 -- これ以上、この人のこんな、泣き出しそうな顔を見ていたくなかったコトもあるし。
-Not to mention, I can't bear to see her on the verge of tears any longer.
+On top of that...
+ I don't think I can bear to see her on the verge of tears any longer.
 }
 [sha:8ab650f76ee4b87682e66bacd52c65ddab06fa2e]{
 -- Page 425, Offset 34499.
@@ -592,12 +634,13 @@ I close my eyes, and accept my fate.
 [sha:2fc58fe6057cee27e1380799e0a9ffbdcd1069df]{
 -- Page 426, Offset 34501.
 -- ―――どくん、と心臓が震える。
-―――My heart trembles with a thump.
+―――My heart is pounding violently.
 }
 [sha:2c9bd3f284c0f193aa16bfcaaf0c827f72ffae59]{
 -- Page 426, Offset 34502.
 -- 覚悟している筈なのに、吐き気と寒気は消えてくれなかった。
-Even though I've already steeled myself, the nausea and chills refuse to disappear.
+I thought I'd come to terms with it,
+ but my nausea and chills refuse to disappear.
 }
 [sha:4dd615e0f2a8c599d06fd1814490d5f43e04ec24]{
 -- Page 427, Offset 34503.
