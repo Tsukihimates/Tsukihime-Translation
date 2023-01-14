@@ -17,7 +17,8 @@ after
 [sha:f84fd291bb08e2d72b42283fffe20a22ad45d33e]{
 -- Page 113, Offset 43524.
 -- 一息ついた後の口直しコーナー、
- your discovery that endings such as this also exist.
+ your discovery that endings such as%{n}
+this also exist.
 }
 [sha:5a1ae1fa6d39c9839073c3a252df90012fcd7d70]{
 -- Page 114, Offset 43525.
@@ -33,13 +34,12 @@ I am your commentator, Eco-Arc.
 -- Page 115, Offset 43527.
 -- <隅|コーナー>に咲く一輪の花、
 And I am the flower that blooms%{n}
-in the corner,
+in the corner:
 }
 [sha:ff51fc07ae23eecb72f925ce1855969836a60dc2]{
 -- Page 115, Offset 43528.
 -- ネコアルクでお送りします。
- otherwise known%{n}
-as Neco-Arc.
+ Neco-Arc.
 }
 [sha:b22dcc7526d79e4bf0a1e10733926494125f770c]{
 -- Page 116, Offset 43529.
@@ -88,49 +88,54 @@ meet yourself?
 // My take on this whole bit is that neco arc is saying
 // "lol you're me, that's weird, isn't that not supposed to be possible (世界のルール)"?
 // Not at all confident on this whole exchange.
-So we must be related some other way.
+ So we must be related some%{n}
+other way.
 }
 [sha:1214442470ffa44830ec49917818478980e0f8c7]{
 -- Page 120, Offset 43537.
 -- そーゆー世界のルール？　みたいなの？
-I mean, that's one of the rules of the world, right?
+I mean, that's one of the rules of the world,%{n}
+right?
 }
 [sha:955deda0fc507f2c56d9eb1bb3fd72d37890d5fd]{
 -- Page 120, Offset 43538.
 -- 気軽に破るのは止めた方がいいよ？
-We better not break it that casually, should we?
+ We better not break it that casually,%{n}
+should we?
 }
 [sha:1bc6f0927559839339824aceac78aed39bd38229]{
 -- Page 121, Offset 43539.
 -- 同感です。ですから、私たちは
-I agree. As such, that must mean
+I agree. As such, that must mean our%{n}
 }
 [sha:56e32218632677abbc274011f49907d9f14cb707]{
 -- Page 121, Offset 43540.
 -- そういうモノではない、という事ですね。
- our relationship is not what you described it to be.
+relationship is not what you described%{n}
+it to be.
 }
 [sha:78e6367ec0d4d16e9b2ceeba1e2d76a08fdae52b]{
 -- Page 122, Offset 43541.
 -- 時間もありませんので、
-We do not have much time, so perhaps
+We do not have much time, so perhaps you%{n}
 }
 [sha:6eacf6c5abfd1f9a2a42a0b76dfc16668b9ade4d]{
 -- Page 122, Offset 43542.
 -- 今回の死因について解説をお願いします。
- you could begin explaining what caused this death.
+could begin explaining what caused this death.
 }
 [sha:85d876049a4994a0f858759edc173bae9d6d56c9]{
 -- Page 123, Offset 43543.
 -- うーん、下手に茶々いれると
 // Assuming this is an 'if we touch we'll annihilate' rules of the world thing
 // in the same vein as above
-Hmm, but I get the sense that if I mess with her
+Hmm, but I get the sense that if I mess%{n}
 }
 [sha:ccde253fa43353b0a8077f46c90a78a3162015f3]{
 -- Page 123, Offset 43544.
 -- この世から消滅しそうなエクサトン。
- an exaton of matter will be annihilated...
+with her, an exaton of matter will be%{n}
+annihilated...
 }
 [sha:06fcd1db90e96d184f69252391f41697426ddf63]{
 -- Page 124, Offset 43545.
@@ -151,12 +156,14 @@ Well, whatever,
 [sha:70864b433f8fd2cb8d762ac67292e858f7427901]{
 -- Page 125, Offset 43548.
 -- 手を打ちますね。
- I'll just consider her one of my possibilities and move on.
+ I'll just file this away as one of my%{n}
+possibilities and move on.
 }
 [sha:2bdb3a5503d846374d12120e7f5dd0107bb7904a]{
 -- Page 126, Offset 43549.
 -- えー、今回のメガネくんの死因はズバリ、
-You see, what caused four-eye's death this time was,
+Alright, what caused four-eye's death this%{n}
+time was,
 }
 [sha:5ab37f6c59ec8f8b9d992bcc33278dbacc948c9d]{
 -- Page 126, Offset 43550.
@@ -166,17 +173,18 @@ You see, what caused four-eye's death this time was,
 [sha:d515bea15e2098246a40bfa65b738eb324e7f014]{
 -- Page 127, Offset 43551.
 -- 眼鏡キャラが眼鏡を外していかんだろー、という、
-It's just like they always say,
+It's just like they always say:%{n}
 }
 [sha:82c6698f36f01008496c32bb7e536579480295e4]{
 -- Page 127, Offset 43552.
 -- まことに寓話的な教訓ですな。
- a glasses character must never take off their glasses!
+A glasses character must never take off their glasses!
 }
 [sha:da8466495133000e27167caca978922a307cf78e]{
 -- Page 128, Offset 43553.
 -- なんで眼鏡外すと死ぬのかは
-As for why taking them off results in death,
+As for why you die when you take%{n}
+them off,
 }
 [sha:a67261d273cb259a31fd928a085a6a934e6b1cc7]{
 -- Page 128, Offset 43554.
@@ -186,47 +194,53 @@ As for why taking them off results in death,
 [sha:729c3ca80a1d6f154e6aa3f8d19d4d9f0a44bd0c]{
 -- Page 129, Offset 43555.
 -- 選択肢が『眼鏡を外す』しか選べない方も
-It would appear there are some players who are not
+It would appear there are some players who%{n}
 }
 [sha:e5ca89d5423fb65fa76581f6eb49d8856e069b51]{
 -- Page 129, Offset 43556.
 -- いるようですが。
- given the option of keeping their glasses on.
+are not given the option of keeping their%{n}
+glasses on.
 }
 [sha:03cd1a3816fc2c9fae76a3baa32aa9f0c96c273d]{
 -- Page 130, Offset 43557.
 -- んー、その場合はこれまでの行動に
-Hmm, in that case, there must've been something
+Hmm, in that case, there must've been%{n}
 }
 [sha:0f7b9b1899399a8ff4fd39903fd3a88024c0454a]{
 -- Page 130, Offset 43558.
 -- 問題があったんじゃニャい？
- wrong with the way you've been acting until meow?
+something wrong with the way they've been%{n}
+acting until meow?
 }
 [sha:06fc44d39405af36238b4be2f5206c31905709f6]{
 -- Page 131, Offset 43559.
 -- ヤバイのは吸血鬼だけじゃにゃく、
-Vampires aren't the only thing you gotta look out for.
+Vampires aren't the only thing you gotta look%{n}
+out for.
 }
 [sha:16859698e9de14d478f9696c6801a42287c4dd41]{
 -- Page 131, Offset 43560.
 -- メガネ君の心の在り方も瀬戸際ってコト。
- Four-eyes here could snap at any moment.
+ Four-eyes here could snap at any%{n}
+moment.
 }
 [sha:38e1a30e0e2e16d05a7cda8dda7d8885df0fc6fc]{
 -- Page 132, Offset 43561.
 -- 一度<本|い><性|し>に躓くと、
-If he stumbles on his true nature even once,
+If he stumbles on his true nature even once,%{n}
 }
 [sha:855d9b49c4fcc91eea790a63b5582a89845f48b7]{
 -- Page 132, Offset 43562.
 -- あれよあれよと元に戻っちゃうワケで。
- you'll just be forced to watch as he regresses before your eyes.
+you'll just be forced to watch as he regresses%{n}
+before your eyes.
 }
 [sha:3ad290d6b76e9c0d70de42e6f677ba3f2ee3cbbe]{
 -- Page 133, Offset 43563.
 -- 『中立・善』と『中立・悪』の綱渡り、
-You could say he's walking a tightrope between
+You could say he's walking a tightrope%{n}
+between
 }
 [sha:cc5e6db8f370156de94211fc83774334853262b3]{
 -- Page 133, Offset 43564.
@@ -236,7 +250,8 @@ You could say he's walking a tightrope between
 [sha:39ac312830bc9128b3a6df17e807d547f644efde]{
 -- Page 134, Offset 43565.
 -- この先に進めない方は９日目の行動を改めてください。
-If you are unable to proceed, please change your behavior on the ninth day.
+If you are unable to proceed, please change your behavior%{n}
+on the ninth day.
 }
 [sha:1a4e41fd428dafcdcf44698996f8b47c88b84231]{
 -- Page 134, Offset 43566.
@@ -251,12 +266,14 @@ If his mental state deteriorates,
 [sha:6afe570dc8cb65903c526785183e8650a5d10251]{
 -- Page 135, Offset 43568.
 -- 13日目以降の遠野邸の出来事が変わってしまいます。
- it will affect what occurs at the Tohno residence on the 13th day.
+ it will affect what%{n}
+occurs at the Tohno residence on the 13th day.
 }
 [sha:6de085ccecf2954c323003f1cc86f1659b4f55f7]{
 -- Page 136, Offset 43569.
 -- 制御できなくなった衝動が、
-Uncontrollable urges can lead to undesirable tragedies,
+Uncontrollable urges can lead to%{n}
+undesirable tragedies,
 }
 [sha:380602709819129c5d8e1bab94bf23f1c45ac4c3]{
 -- Page 136, Offset 43570.
@@ -272,7 +289,8 @@ For real?
 -- Page 137, Offset 43572.
 -- フローチャートをカンペするアタシ。
 // カンペ as in like crib sheet I assume
- Lemme just scrub through the flowchart real quick...
+ Lemme just scrub through the%{n}
+flowchart real quick...
 }
 [sha:9de86467db46f8768f5c6eb33f78d810e60df6d7]{
 -- Page 138, Offset 43573.
@@ -284,7 +302,8 @@ Whoa, you're right!
 -- 解説が具体的すぎて目が<二色|ツートン>になる。
 // Explanation so good it gives you heterochromia?!
 // I can only assume this is an expression in the same vein as 目が点になる, but I can't find any reference to it.
- I'm almost blinded by how clear that explanation was.
+ I'm almost blinded by how%{n}
+clear that explanation was.
 }
 [sha:72958122f5701ae9083d87387227c11ee9db6e61]{
 -- Page 139, Offset 43575.
@@ -294,7 +313,8 @@ I'm a little scared to ask how you know all that,
 [sha:9b227d722b9c88d48306dced5dcd774a57ec7ebf]{
 -- Page 139, Offset 43576.
 -- その高い知性、youやっぱりアタシじゃ～ん☆
- but you must really be me if you're that smart ☆
+ but you%{n}
+must really be me if you're that smart ☆
 }
 [sha:ffec46ce814c8f3f0c221f35ae1b738f6bd8aedd]{
 -- Page 140, Offset 43577.
@@ -304,5 +324,6 @@ That was 'Teach Me, Ciel-Sensei!'.
 [sha:1029651cb6ce79b7dc881aa2bc8e49e8544ea750]{
 -- Page 141, Offset 43578.
 -- 塩対応にも程がにゃい！？
-Meow can you give me the cold shoulder like that?!
+Meow can you give me the cold%{n}
+shoulder like that?!
 }
