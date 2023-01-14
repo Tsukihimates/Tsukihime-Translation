@@ -48,7 +48,7 @@ It's after midnight.
 [sha:b0838e62aba9a7462f00584bc1ef6da127117538]{
 -- Page 225, Offset 31501.
 -- 屋敷の廊下に人影はなく、誰ともすれ違わないし、誰の無防備な背中も見つけられない。
-There isn't another soul to be seen in the hallways of the mansion.
+There isn't a soul to be seen in the hallways of the mansion.
  There's nobody passing by.
  No defenseless backs to be found.
 }
@@ -70,7 +70,7 @@ There's a dragging sound as I walk.
 [sha:dcc81ca334c451962bb43ed2d7ea53fb13c7c9e7]{
 -- Page 226, Offset 31505.
 -- ずるずると音をたてているのは、
-That sound...
+That dragging sound...
 }
 [sha:1e4f33b8b5514618835195197b9f8f38972d3228]{
 -- Page 226, Offset 31506.
@@ -339,7 +339,7 @@ I mean, when have I even so much as %{i}thought%{/i} about doing something like 
 [sha:793a5b68cf96d8b944807f2ec7b4af41400f1d49]{
 -- Page 238, Offset 31556.
 -- 見ず知らずの女を襲って、そのしなやかな体に走る幾条もの線にナイフを走らせ、手足を解体して赤い、あかい血を見たいだなんて、少しも――――少しも？
-I've never wanted to attack an unfamiliar woman,
+I've never wanted to attack a woman I've never met,
  run my knife along the lines that criss-cross her supple flesh,
  and tear her limb from limb so that I can see her deep red blood――have I?
 }
@@ -627,7 +627,7 @@ You've already sliced through plenty of pale necks, haven't you?
 [sha:23eaaaff54d5e18ae6edbc82592f0693ce1844fa]{
 -- Page 247, Offset 31606.
 -- 畜生以下の生き物になる。
-           I'll become a being even worse than a beast.
+          It'll mean I truly am nothing more than scum.
 }
 [sha:f57db23b8a9ed63e726cd1a7efdf11ce36fdc883]{
 -- Page 248, Offset 31607.
@@ -770,7 +770,7 @@ I'm scared.
 [sha:21e9e2a00171bd2ec0c5b181e99aa37651af6805]{
 -- Page 254, Offset 31634.
 -- 早く鍵をかけないと部屋に入ってくる。
-If I don't lock the door soon, it'll get in.
+If I don't lock the door soon, it will get inside.
 }
 [sha:1a8ba620a90d12e7a62397ed56af8d37be5f6b99]{
 -- Page 254, Offset 31635.
@@ -870,6 +870,7 @@ After breaking my third finger, I lose all hope.
 [sha:123c0c7a744842e0ad76a69d3e2b66a4867c5bb1]{
 -- Page 257, Offset 31651.
 -- 俺はもうダメだと分かった。
+// This ダメだ is pulling double duty (door's busted, he's busted)
 There's no hope for me anymore.
 }
 [sha:bfc4758897fea66a29306c07efa0883453bde445]{
