@@ -1,0 +1,25 @@
+diff --git a/allscr/retimed/allscr.mrg_0512.txt b/allscr/retimed/allscr.mrg_0512.txt
+Not sure what exactly is going on here, but the edited scripting to fix the
+newlines causes this QA scene to freeze on this conditional.
+We see the LV00*00 flags come up a lot, but it's not clear how exactly they get
+set.
+
+It's also just not clear what the point of this conditional even is - examining
+the difference between these renderings, one of them has a slightly fucked up
+nose, but that's it? Why would you sometimes show a fucked up nose?
+--- allscr.mrg_0512.txt
++++ allscr.mrg_0512.txt
+@@ -1229,12 +1229,7 @@ _PGST(71);
+ _CLO3();
+ _SEPL(15,0,WOH_SE05059,,`001:800,,`017:80);
+ _STMA(23,23481);
+-_IFP4(,LV00400);
+-_STCH(36,img5007,442,232,1000,255,6214,,CC,,,,1620,440,120,70,0,0);
+-_ZYb9000(LV00400);
+-_IFNX(,LV00500);
+ _STCH(36,img5007,442,232,1000,255,6214,,CC,,,,1620,440,120,70,1,0);
+-_ZYb9200(LV00500);
+ _STRR(36,-1591);
+ _STCH(37,sie_a_90_03_n14,-5,229,1000,255,6326,,CC,,,36);
+ _SOXY(37,-3,1,-1,0);
+

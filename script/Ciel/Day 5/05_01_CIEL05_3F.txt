@@ -121,6 +121,7 @@ If he's imprisoned, surely there's no need for her to go in after him?!"
 [sha:f53882bd1045ca5715bc009613d82646cc5a840d]{
 -- Page 652, Offset 12581.
 -- 「な―――じゃあヴローヴを倒さないかぎり、先輩は出てこないんですか!?」
+// lint-off:LintEmDashes
 "Wha―――%{n}
 Then, does that mean that Senpai can't come back out unless she defeats him?!"
 }
@@ -215,7 +216,7 @@ If only she didn't have to create this box,
 [sha:ed2a195a6fabecaddb9df72f07d957ac420d0d29]{
 -- Page 659, Offset 12597.
 -- 「…………っ！」
-"......%{i}Ugh%{/i}!"
+"%{i}Ugh%{/i}...!"
 }
 [sha:60926c09e105a13dcffc44c8c5a66dda75638903]{
 -- Page 659, Offset 12598.
