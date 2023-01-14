@@ -177,7 +177,7 @@ I take off all my clothes whenever I get a checkup."
 [sha:d2dcbf8edea18257fd99a26a73c684f7274207f6]{
 -- Page 131, Offset 13498.
 -- 「な―――全部って、つまり全裸ですか!?」
-"W-Wh―――When you say all of them, you mean... %{i}all%{/i} of them?!"
+"W-Wh――When you say all of them, you mean... %{i}all%{/i} of them?!"
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 132, Offset 13499.
@@ -603,6 +603,7 @@ That settles it. After breakfast, it's time for some Ultra IV Time in your room!
 [sha:8cc305113c75d3c9b1323e8556b785cc7cf69741]{
 -- Page 158, Offset 13569.
 -- それじゃ、チャオー♪」
+// lint-off:LintEmDashes
 Well then, ciao―――♪"
 }
 [sha:9e2a3e76f9e4d8877e8cff3fbe6d411d01b76a5e]{
