@@ -22,13 +22,13 @@ Entertaining the idea of eating food is a mistake in itself.
 [sha:26e056b49c9022e232d4337562fd1b171f49fd6f]{
 -- Page 52, Offset 33263.
 -- なにしろ直接的すぎる。
-It's much too direct.
+It's just too direct.
 }
 [sha:5c3aa84bd17d9c8bc28d64fa9b16347616608b8d]{
 -- Page 52, Offset 33264. Glued. Mods: @x.
 -- 魅力的すぎて負けそうになる。乾ききった喉が、毟り続けた思考が、休息を求めてしまう。
- It's so enticing that I feel myself beginning to waver.
- My parched throat and tattered thoughts cry out for relief.
+ The thought's so enticing that I'd end up wavering.
+ My parched throat and tattered thoughts are crying out for relief.
 }
 [sha:8dc63cbcdfff685e8843fbeae49027f602be4a7d]{
 -- Page 52, Offset 33265.
@@ -64,8 +64,8 @@ I have to hold this back, somehow.
 [sha:7e19acb0d6a0e27e29b502cc7f43f3e0c2546529]{
 -- Page 55, Offset 33271.
 -- ■■は笑顔のまま、そこらじゅうズタズタに裂かれた部屋を見て驚いている。
-Even when suddenly confronted with a room that has been thoroughly ripped to shreds,
- the smile doesn't fade from ■■■'s face.
+With an unfaltering smile,
+ ■■■ expresses surprise as she surveys the wreckage of my room.
 }
 [sha:9f6036e0af82b6c8c4bb8460ef1864f369c39747]{
 -- Page 56, Offset 33272.
@@ -75,17 +75,17 @@ Even when suddenly confronted with a room that has been thoroughly ripped to shr
 [sha:0073b766608b9313a0fd3a3017ea7b024323a094]{
 -- Page 56, Offset 33273.
 -- 恐れを知らない可憐な顔立ち。
-Elegant features that show no trace of fear.
+Her elegant features show no trace of fear.
 }
 [sha:5371b0534b74193d96f1806cd5716210ae9bb1f2]{
 -- Page 56, Offset 33274.
 -- 俺をまったく警戒していない、無防備すぎる姿。
-A defenseless figure that doesn't recognize me a threat.
+Her defenceless figure doesn't recognize me as a threat.
 }
 [sha:4b7e922d9119c835fb48f06c521e3a004c863f28]{
 -- Page 56, Offset 33275.
 -- 男を蕩かす為だけに磨かれたような、生々しくも瑞々しい、極上の白い肌。
-Skin pale as fine porcelain,
+Her skin is as pale as fine porcelain,
  youthful and pristine,
  as though intentionally designed to melt the hearts of men.
 }
@@ -130,12 +130,13 @@ I can't hold back. If I don't hold back...
 [sha:45235be846ab4636c30651f6a5dfdbd928e69f89]{
 -- Page 59, Offset 33283.
 -- この信頼を。この博愛を。
-Her trust... Her kindness...
+Her trust... Her benevolence...
 }
 [sha:ae87785ce23b6ea8e343459f513faf36aff28708]{
 -- Page 59, Offset 33284.
 -- 善いものとまだ感じられているのなら、俺は、自分を殺してでも、自分の殻に閉じこもって―――
-If I'm still capable of feeling such pleasant things, then I should confine myself in my own shell, even if it means I have to kill myself―――
+If I'm still able to think of those qualities as virtues,
+ then I should confine myself in my own shell, even if it means I have to kill myself―――
 }
 [sha:735d6057388066c2d961fce375e909b0e9774b83]{
 -- Page 60, Offset 33285.
@@ -150,8 +151,8 @@ And yet.
 [sha:fd8241c5d7533f3cd043a8a83f5a8394aecbc587]{
 -- Page 60, Offset 33287.
 -- ■■は笑顔のまま、ベッドの上に丸まった俺に近づいてくる。
-■■■ draws closer to where I'm curled up on the bed,
- a smile still on her face.
+With an unfaltering smile,
+ ■■■ draws closer to where I'm curled up on the bed.
 }
 [sha:c50a3ce3b61df1ad2fb0757ee78ae9e436b5911d]{
 -- Page 61, Offset 33288.
@@ -271,9 +272,8 @@ Relived,
 [sha:88f16d75314247e46bb52e3b269dfb953fdc38e2]{
 -- Page 65, Offset 33309.
 -- ぽん、と白い指がおレの肩に触れた。
-// Uhh is this supposed to be おれ, オレ or an intentional splice?
-// Assuming it's intentional, doing a double my here with ruby
-Her white fingers brush against <my|%{i}m y%{/i} > shoulder.
+// Presumably intentional おレ splice
+Her white fingers brush against m%{i}y%{/i} shoulder.
 }
 [sha:86b79166f59c71b6def28be659c3d21d32d490ea]{
 -- Page 65, Offset 33310.
