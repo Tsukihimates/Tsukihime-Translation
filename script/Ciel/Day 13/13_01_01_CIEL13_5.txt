@@ -78,8 +78,8 @@ There may be a smile on her face,
 [sha:b00c101cfffd766393ef55c3d50666b7ddb4dbee]{
 -- Page 516, Offset 34768.
 -- 態度こそ余裕に満ちているが、その全身からドブ川並に濁った殺気を放っている。
-She may seem carefree,
- but every pore on her body is oozing a bloodthirsty aura that's as thick and turbid as the contents of a gutter.
+Despite the carefree attitude,
+ every pore on her body is oozing a bloodthirsty aura that's as thick and turbid as the contents of a gutter.
 }
 [sha:34f26aa34b8c2536b619d9798abe6db8973972f1]{
 -- Page 517, Offset 34769.
@@ -118,7 +118,7 @@ She addressed Ciel-senpai by name...
 [sha:0ce57fe32f9de04f877f98e64b361886adac2744]{
 -- Page 519, Offset 34775.
 -- 「!?　ノエルって、ノエル先生!?」
-"Noel?! You mean that's Noel-sensei?!"
+"Noel?! %{i}That's%{/i} Noel-sensei?!"
 }
 [sha:cb37059987552db74cb4b24e15f3ca4b7a65d4ef]{
 -- Page 520, Offset 34776.
@@ -154,10 +154,10 @@ Did you recognize me?
 -- この顔は13年前のあの日の、14歳の頃のわたしだもの」
 After all, this is how I looked on that day thirteen years ago, back when I was just fourteen."
 }
-[sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
+[offset:34782]{
 -- Page 523, Offset 34782.
 -- 「っ……！」
-"%{i}Ugh%{/i}!"
+"%{i}Ah%{/i}!"
 }
 [sha:187ff62fe7f754962d1f58f173176cc86d321c67]{
 -- Page 523, Offset 34783.
@@ -217,12 +217,15 @@ Despite being skewered right through her chest, left arm, and right leg,
 [sha:7a153573814ce729e632699124ee4cd83ad9f9ce]{
 -- Page 526, Offset 34793.
 -- ロアが消滅しないかぎり死なない体。
-She will not die unless Roa is annihilated.
+Her body will not die unless Roa is annihilated.
 }
 [sha:30c2b98292e30485804c004fa486bd8f1cfb10b4]{
 -- Page 526, Offset 34794.
 -- それに加えて、目の前の吸血鬼―――吸血鬼を処罰する同僚でありながら吸血鬼化し、既に多くの人間を犠牲にしたノエルへの敵意が、その闘志を燃やしている。
-On top of that, there's also the vampire standing before us, Noel. Despite once being a fellow exterminator of vampires, she has since joined their ranks and sacrificed a multitude of people. Senpai's hostility toward Noel only serves to fan the flames of her fighting spirit.
+Paired with that body is a burning will to fight,
+ the flames of which have only been fanned higher by the appearance of the vampire before us――Noel.
+ Even though she was once Senpai's partner in exterminating vampires,
+ this woman has transformed into one herself, and has already spilled the blood of untold victims.
 }
 [sha:b69c6156c74ddcde0d79e5d79218280098a85df4]{
 -- Page 527, Offset 34795.
@@ -232,92 +235,115 @@ On top of that, there's also the vampire standing before us, Noel. Despite once 
 [sha:591396b5d03f55105f5192b621eb2b55daaa8dae]{
 -- Page 527, Offset 34796.
 -- はじめは加減が判らなくて殺しちゃったり壊しちゃったりしたけど、今はこの通り、一つの群れの先生役」
-I had a hard time controlling myself at first, so I ended up killing and breaking a few of them, but as you can see, I now serve as a bona fide teacher to this swarm."
+I had a hard time controlling myself at first,
+ so I ended up killing and breaking a few of them,
+ but as you can see, I now serve as a bona fide teacher to my little flock."
 }
 [sha:99514dd597a309db061ac8f6beaaeed33c897f10]{
 -- Page 528, Offset 34797.
 -- 「なってみればカンタンよね、吸血鬼の生活なんて。軽く心をいじって抜け殻にしてあげれば、健気で憐れな『働き蟻』が一匹できるんだもの。
-"It's easy once you've become one. Living as a vampire, that is. If you just tamper with their minds a little bit and turn them into empty shells, you'll end up with some brave and pitiful worker ants.
+// Not 100% sure whether this first line here is referring to herself (Damn this vampire shit easy once you get into it)
+// or her Dead (They live a nice simple life, no thoughts head empty). Leaning second because otherwise it feels like a weird
+// transition to the second part of the line here?
+"They live a nice simple life, you know.
+ Once they're vampires, I mean.
+ I just make a few quick little tweaks to their minds,
+ turn them into empty shells, and voila:
+ one more brave and pitiable little worker ant for my collection.
 }
 [sha:0166be78d1bc39e27ed7e4bd3f11840984de8f84]{
 -- Page 528, Offset 34798.
 -- しかも<奇跡|ギフト>のオマケ付き。人間一匹の血を吸うだけで力も寿命も延びるなんて、チートすぎて笑っちゃうわ！」
-It even comes bundled with a miraculous gift! Who knew that you could increase your power and lifespan by simply sucking the blood of a single human! It's such an easy cheat that it makes me laugh!"
+// got that vampire idkfa iddqd
+That's not even the only fun little miracle I can perform!
+ Just sucking the blood of one measly human is enough to increase my power and extend my lifespan!
+ It's hilarious, it feels like I've got a cheat code!"
 }
 [sha:c44b8b9beeee05ab9151a72e0bca62e0a4cab281]{
 -- Page 529, Offset 34799.
 -- ……死者の数はまだ増えていく。
-...The number of Dead continues to grow.
+More and more Dead keep showing up...
 }
 [sha:9448248db2bad31ec2d2ee02a6567d22d1967bb1]{
 -- Page 529, Offset 34800.
 -- 数分を待たず、俺たちは完全に包囲されてしまった。
-In the span of mere minutes, we've been completely surrounded on all sides.
+It hasn't even been three minutes,
+ and we're already completely surrounded.
 }
 [sha:c8428ca1e014bb7733bc5e3802ae7c9234320db3]{
 -- Page 530, Offset 34801.
 -- 「……よく分かりました。
-"...I get it now.
+"I see what's happening here.
 }
 [sha:99800349fca552922262cabc15c33b68f68c8b4b]{
 -- Page 530, Offset 34802.
 -- 経緯はどうあれ、貴女は吸血鬼になった。吸血鬼として生き延びる為に、<代|わ><行|た><者|し>を殺しに来たのですね」
-Regardless of how it happened, the fact is that you've become a vampire. As such, in order to live on, you've come to dispose of me, an Executor."
+Regardless of how it happened, the fact is that you've become a vampire.
+ As such, in order to keep yourself alive, you've come to kill the remaining Executor: me."
 }
 [sha:1ebf3f801fcdbeee89b89881e96cd588337bfaf1]{
 -- Page 531, Offset 34803.
 -- 痛みに顔を<歪|ゆが>ませる事なく、先輩は胸を貫いていた凶器を引き抜く。
-Without a single trace of her face contorting in pain, Senpai pulls the iron fence out of her chest.
+Senpai doesn't so much as flinch as she rips the iron spire out of her chest.
 }
 [sha:feeb27fc1743e47f3191296aabd54d451f6aa593]{
 -- Page 531, Offset 34804.
 -- その横顔は―――さっきまで散々見てきた、涙する一歩手前の、代行者としての顔だ。
-Just like a while ago, she has that same look on her face again―――the look of an Executor on the verge of tears.
+She has that look in her eyes again――the same one I've seen time and again at this point.
+ The look of an Executor who's on the verge of tears.
 }
 [sha:a5abc9eb9464faae94f0220ee871858d67e4ec29]{
 -- Page 532, Offset 34805.
 -- ……戦いが始まる。
-...The battle is about to begin.
+The battle is about to begin...
 }
 [sha:5304f37c8f7f1a63a0b31ef7e7f068a7b94d249d]{
 -- Page 532, Offset 34806.
 -- いや、単純明快な“討伐”が始まる。
-No, simply put, it's the 'subjugation' that's about to begin.
+No, let's call it what it is――the %{i}subjugation%{/i} is about to begin.
 }
 [sha:12ff12c38cbc265bde7f38dca02a02039d655f00]{
 -- Page 533, Offset 34807.
 -- シエル先輩とノエルの実力差は明らかだ。
-The difference in abilities between Ciel-senpai and Noel is evident.
+The difference in ability between Ciel-senpai and Noel is night and day.
 }
 [sha:6cb6f0ced91d612234410d3060bf78d4c62a99a2]{
 -- Page 533, Offset 34808.
 -- ノエルの体を覆う呪いの規模は、人間を遥かに凌駕している。以前の彼女から10倍や20倍では利かない性能の向上だろう。
-The curse surrounding Noel's body far surpasses that of a human being. She's gotten so much stronger that even if her abilities from when she was human were multiplied ten or twentyfold, her past self would be no match for the current her.
+With the curse enveloping her body, Noel far surpasses an ordinary human.
+ She's at least ten times, if not twenty times, stronger than she was before.
 }
 [sha:3019243606c614518503498daed2485d444fff0e]{
 -- Page 534, Offset 34809.
 -- しかし、それでもシエル先輩の地力の方が勝っている。
-Even then, Ciel-senpai's abilities are still superior.
+// Hot lore on Ciel-senpai's <地力|ちりょく>??
+But despite her newfound strength, she still cannot measure up to Ciel-senpai.
 }
 [sha:70f8c510e52eceec085fc46b9ff38e7f3cfbe47c]{
 -- Page 534, Offset 34810.
 -- 加えて対吸血鬼に特化した第七聖典。
-On top of that, she also has the Seventh Holy Scripture, a weapon that specializes in exterminating vampires.
+Not to mention that Senpai has the Seventh Holy Scripture,
+ a weapon that specializes in exterminating vampires.
 }
 [sha:432360d45f989c1c2b96c6800c759966e626ceb1]{
 -- Page 534, Offset 34811.
 -- Ⅵ階梯―――平民出の死徒として最上級の怪物になったところで、戦いになればノエルは敗北する。
-Even if she's a Rank VI―――a monster of the highest caliber as far as average Dead Apostles are concerned, she has no chance of winning in a straight-up fight.
+Even though she's reached Rank VI――
+even though she's become as powerful as any ignoble Dead Apostle can――
+if the two of them were to fight, it would be her loss.
 }
 [sha:677d394e984cc3213e83956d4367b3e8d82b1764]{
 -- Page 535, Offset 34812.
 -- 「ま、そうなるわよね。アナタにとって吸血鬼は<誰|・><で|・><あ|・><れ|・>殺すもの。そうでなくちゃ許されない。
-"Well, that's just how it is. In your eyes, vampires are just beings that must be killed, no matter who they are. I wouldn't accept anything else from you.
+"Well, that's just how it is.
+ In your eyes, vampires are just beings that must be killed, %{i}no matter who they are%{/i}.
+ I wouldn't accept anything else from you.
 }
 [sha:8b943890be5e376e008d164bc820c1635bec1011]{
 -- Page 535, Offset 34813.
 -- でも、ねぇ？　それならわたしより先に、殺すべき相手がいるんじゃないかしら？」
-But you know... in that case, isn't there someone else you should be killing first?"
+But you know...
+ in that case, isn't there someone you should kill before you set your sights on me?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 536, Offset 34814.
@@ -332,32 +358,40 @@ Senpai stops in her tracks.
 [sha:4946c76723043d455d6e6c2bd5e71a8835720730]{
 -- Page 536, Offset 34816.
 -- 戦いになれば事は終わる。
-It'll mean the end of Noel if she chooses to fight.
+If it comes down to a fight, Noel will lose.
 }
 [sha:3578ba31b39b4c48e400cde86e5e0a54c13767b0]{
 -- Page 536, Offset 34817.
 -- それを俺以上に理解している<少女|ノエル>は、戦いになる前に、<彼女|シエル>の心を砕きにきた。
-Understanding that fact even better than I do, Noel chooses to break her spirit before the fight even begins.
+She knows that better than anyone,
+ and so she's trying to break Senpai's spirit before the battle can even begin.
 }
 [sha:41d5073cc5132325b873c90e90adb945a64957c9]{
 -- Page 537, Offset 34818.
 -- 「わたしが吸血鬼かどうかなんて、今は些細な問題でしょう？
-"Wouldn't you say that the matter of whether I'm a vampire or not is unimportant right now?
+"Whether I'm a vampire or not doesn't really matter right now, does it?
 }
 [sha:7b4e0189f4a47e49becf0b698e19c7a2ebb8941a]{
 -- Page 537, Offset 34819.
 -- ねえシエル先輩？　わたしたち、よく語り合いましたよね。この命は復讐の為に。ロアを殺す為なら何でもするって」
-Right, Ciel-senpai? We've spoken about this time and time again, haven't we? That the purpose of our lives is revenge. That we would do anything in order to kill Roa."
+Don't you remember, Ciel-senpai?
+ We used to talk about this all the time, didn't we?
+ About how we lived only for revenge.
+ How we'd do whatever it took in order to kill Roa."
 }
 [sha:1555de2f7356a6a09a0e8ac62cc55f17b1db71a1]{
 -- Page 538, Offset 34820.
 -- 「だから、見て？　わたしはその誓いを守ったわ。
-"See? I'm keeping our promise.
+"So, don't you see?
+ I'm just keeping our promise.
 }
 [sha:39307996c92706f711e9aa85480d6b77277b1256]{
 -- Page 538, Offset 34821.
 -- アナタがやってくれないから、わたしは<自|・><分|・><か|・><ら|・><こ|・><う|・><な|・><っ|・><た|・>。ひとりじゃ何もできないわたしは、ロアを殺す為に、<大|・><嫌|・><い|・><な|・><吸|・><血|・><鬼|・><に|・><生|・><ま|・><れ|・><変|・><わ|・><る|・><し|・><か|・><な|・><か|・><っ|・><た|・><の|・><よ|・>」
-It's because you refused to do it yourself that I became like this of my own volition. I, who couldn't do anything on my own, had no other choice but to be reborn as the very thing I hate, all for the sake of killing Roa."
+// Holy ・
+It's because %{i}you%{/i} wouldn't follow through with it that I did this to myself.
+ I was powerless to do anything on my own,
+ so in order to kill Roa I had no choice but to %{i}become what I hate%{/i}, and be reborn as a vampire."
 }
 [sha:508fe7c33d14a2645fc219e634ded3f6bd009409]{
 -- Page 539, Offset 34822.
@@ -367,7 +401,9 @@ It's because you refused to do it yourself that I became like this of my own vol
 [sha:a526a6b131125e7e1354bf5f6d01eef449278a70]{
 -- Page 539, Offset 34823.
 -- 「そう、ぜーんぶアナタのせい。アナタがいつまでも腑抜けてるからこうなった。
-"That's right. It's all because of you. It's because you're such a coward that I became like this.
+"That's right.
+ It's %{i}alllll%{/i} because of you.
+ It's because you're such a coward that I ended up like this.
 }
 [sha:c71e98324df85073e1216380b7c39da7b0a900f9]{
 -- Page 539, Offset 34824.
@@ -377,7 +413,8 @@ Come on. It's your turn now. Hurry up. Hurry up and kill him.
 [sha:c3c2b28d30812912aeb4fe70b59bf65174646560]{
 -- Page 539, Offset 34825.
 -- そこの坊やを、アナタの手で八つ裂きにしてみせて」
-Show me how you'll tear him apart with your very own hands."
+// Always tickled by how 坊や sounds the same
+Let me see you tear that boy apart with your own hands."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 540, Offset 34826.
@@ -387,7 +424,7 @@ Show me how you'll tear him apart with your very own hands."
 [sha:9c6c8960938868467644b551ae1cc961c1708c0a]{
 -- Page 540, Offset 34827.
 -- ……状況は一瞬で逆転した。
-...The situation is completely reversed in an instant.
+The tables were turned on us in an instant...
 }
 [sha:fd29656c8c54102a7d61686c647d588cdd965152]{
 -- Page 540, Offset 34828.
@@ -397,22 +434,22 @@ Senpai is frozen in place. The fighting spirit she displayed earlier has vanishe
 [sha:4420afefe0f52be446d38e0e541296043e57966c]{
 -- Page 541, Offset 34829.
 -- ……ショックによる呼吸障害。
-...She's having trouble breathing from the shock.
+She's so shocked she can barely even breathe...
 }
 [sha:8677cd825cbbcb506523fddcbb6784fcda3efb82]{
 -- Page 541, Offset 34830.
 -- 先輩は俺とノエルを視界に収めながら、ぜいぜいと喉を震わせる。
-With her gaze still locked on both Noel and me, Senpai's throat wheezes and trembles.
+Gasping for air, she stands there with her gaze split between Noel and me.
 }
 [sha:9b18dd1ebddbc162bb5d3e7538ad8989b4e14791]{
 -- Page 542, Offset 34831.
 -- 「あは―――あはは、あはははははははははははは！」
-"Aha―――ahaha, ahahahahahahahahaha!"
+"%{i}Aha%{/i}――%{i}ahaha%{/i}, %{i}ahahahahahahahahaha%{/i}!"
 }
 [sha:f3fcf583064f21d1396ada290abed71192657b4d]{
 -- Page 543, Offset 34832.
 -- 「そう。できないの。やっぱり。やっぱりウソだったのね！
-"I see. You can't do it. I knew it. You really are a liar!
+"I see. You can't do it. I knew it. I knew you were a liar!
 }
 [sha:d8617c407f2fa2f80393fa6f2104ce0c1acb7f18]{
 -- Page 543, Offset 34833.
