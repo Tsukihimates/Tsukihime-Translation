@@ -317,7 +317,7 @@ With the curse enveloping her body, Noel far surpasses an ordinary human.
 -- Page 534, Offset 34809.
 -- しかし、それでもシエル先輩の地力の方が勝っている。
 // Hot lore on Ciel-senpai's <地力|ちりょく>??
-But despite her newfound strength, she still cannot measure up to Ciel-senpai.
+But despite her newfound strength, she still can't measure up to Ciel-senpai.
 }
 [sha:70f8c510e52eceec085fc46b9ff38e7f3cfbe47c]{
 -- Page 534, Offset 34810.
@@ -375,7 +375,7 @@ She knows that better than anyone,
 -- Page 537, Offset 34819.
 -- ねえシエル先輩？　わたしたち、よく語り合いましたよね。この命は復讐の為に。ロアを殺す為なら何でもするって」
 Don't you remember, Ciel-senpai?
- We used to talk about this all the time, didn't we?
+ We used to talk about it all the time, didn't we?
  About how we lived only for revenge.
  How we'd do whatever it took in order to kill Roa."
 }
@@ -454,17 +454,23 @@ Gasping for air, she stands there with her gaze split between Noel and me.
 [sha:d8617c407f2fa2f80393fa6f2104ce0c1acb7f18]{
 -- Page 543, Offset 34833.
 -- 何もかもウソ！　あの涙も<懺悔|ざんげ>も<悔恨|かいこん>もみーんなウソっぱちだった！」
-Everything about you is a lie! Everything down to your tears, your confessions, and even your regrets! All of them are nothing but lies!"
+Everything about you is a lie!
+ Your tears, your confessions, your repentance, they're all nothing but lies, lies, lies!"
 }
 [sha:11ab2a0db17ed007899bee3bfc467b2fda060492]{
 -- Page 544, Offset 34834.
 -- 「そんなアナタがわたしを殺す？　恥知らずにも程があるわ！　誰よりも薄汚い犬畜生……！　オマエなんか、あの時死んでいればよかった！　生きていること自体、許されるハズがないんだから！」
-"And despite that, you're here trying to kill me? How shameless can you get! You filthy mongrel...! If only you had died that day! After all, you don't even deserve to be alive!"
+"And now %{i}you%{/i} have the nerve to kill me?
+ How fucking shameless can you get!
+ You're a rotten, stinking piece of shit!
+ I wish you'd fucking died back then!
+ You don't even deserve to be alive!"
 }
 [sha:7d71c55f207c7116e10c2d5a429355a33e170d21]{
 -- Page 545, Offset 34835.
 -- 降りそそぐ罵倒は呪いのようだ。
-She continues hurling abuse at Senpai as though cursing her.
+// Assuming this is more like 'incantation' for 呪い / emphasizing the continuity
+She continues hurling a steady stream of abuse at Senpai.
 }
 [sha:b99ed8cb33f34e2c17612562b14e5a632d3ad391]{
 -- Page 545, Offset 34836.
@@ -474,7 +480,7 @@ I have absolutely no idea what happened between them.
 [sha:5862687b465f7069a9dac2b994ae14cc992a900a]{
 -- Page 545, Offset 34837.
 -- だがこれ以上、あの吸血鬼の言い分を聞くことは我慢ならない。
-But I can't put up with any more of this vampire's ramblings.
+But I can't put up with any more of this vampire's ranting.
 }
 [sha:1071633cf07f8f9a1e44cc5a3969ccb2d9f192ec]{
 -- Page 546, Offset 34838.
@@ -484,7 +490,7 @@ But I can't put up with any more of this vampire's ramblings.
 [sha:72c321d9214e58962e8996d52051045466745837]{
 -- Page 546, Offset 34839.
 -- アイツは吸血鬼です、周りをよく見てください！」
-She's a vampire. Take a good look around you!"
+She's a vampire! Come on and snap out of it already!"
 }
 [sha:358795a5737add40babee34302b76232cd58a567]{
 -- Page 546, Offset 34840.
@@ -494,62 +500,77 @@ She's a vampire. Take a good look around you!"
 [sha:74994a5259b2f62f1bb6754c5dd93ff4de555344]{
 -- Page 547, Offset 34841.
 -- 先輩の前に出てノエルの視線を受け止める。
-I step in front of Senpai and take the brunt of Noel's gaze.
+I step in front of Senpai, putting myself between her and Noel's gaze.
 }
 [sha:14e12110b885a61781de52c3c838a7bf37570142]{
 -- Page 547, Offset 34842.
 -- 右手でナイフを構え、頭上の敵を睨む。
-Holding my knife in my right hand, I glare at the enemy standing overhead.
+Holding my knife in my right hand, I glare up at the enemy.
 }
 [sha:5f562220ff4fa3eacedf6272994da8b7bbed885f]{
 -- Page 547, Offset 34843.
 -- 左手はまだ満足に動かないが、体力はかつてないほど溢れている。自慢できる事じゃないが、吸血鬼化の恩恵があるのはアイツだけじゃない……！
-I can't move my left hand properly yet, but I'm feeling stronger than ever before. It's really not something I should be boasting about, but she's not the only one who's been blessed with the body of a vampire...!
+I can't move my left hand properly yet, but I'm feeling stronger than ever before.
+ It's really not something I should be boasting about,
+ but she's not the only one here reaping the benefits of turning into vampire...!
 }
 [sha:a9a4fbeca33a0a679a7b1efcbaf3d29eefac2286]{
 -- Page 548, Offset 34844.
 -- 「あら、まだ志貴クンが残ってるんだ。てっきりロアに飲まれたと思ったのに、健気にがんばるのね。
-"Oh, I didn't know you were still here. I was convinced that you'd already been swallowed up by Roa, but it seems like you're still holding on.
+"Oh, I didn't realize you were still with us, Shiki-kun.
+ I'd assumed you'd already been swallowed up by Roa,
+ but it seems like you're still hanging in there.
 }
 [sha:cefc45102dd998df6bd6ca9dbaca39736d97c456]{
 -- Page 548, Offset 34845.
 -- キミには恨みはないし、できるだけ楽に殺してあげようと思っていたんだけど……」
-I don't have anything against you, so I was thinking about giving you a swift and painless death..."
+I don't have anything against you,
+ so I was planning on giving you a swift and painless death, but..."
 }
 [sha:2ad98a3b686a0583181f3f83adcb6731cb8db483]{
 -- Page 549, Offset 34846.
 -- 「気が変わったわ。そいつを庇っただけでイラっときちゃった。アナタにも生き地獄を味わってもらおうかしら」
-"I've changed my mind though. Seeing you defend her like that pisses me off. Maybe I should make your life a living hell too."
+// ~わ localized as ♡, which I feel is on-brand
+"I've changed my mind ♡%{n}
+Seeing you defend her like that pisses me off.
+ Maybe I should make your life a living hell too."
 }
 [sha:59593dca82ded2b99df7b8294819aede95a427de]{
 -- Page 549, Offset 34847.
 -- ……そうかよ。頭にきてるのはお互い様だ。
-...You're pissed off, huh. I guess that makes two of us.
+She's pissed off, is she?
+ Well that makes two of us.
 }
 [sha:53b5d08cc2e23392d1256c54de97e52c2e5025ff]{
 -- Page 550, Offset 34848.
 -- 「アンタが先輩をよく思っていなかったのも、根が卑しい事も知っていたけどさ。まさか、ここまで先輩を怖がってるとは思わなかったよ」
-"I already knew that you didn't think highly of Senpai, and that you're rotten to the core. Even then, I didn't think that you were this afraid of her."
+// 根が卑しい apparently a 人の性質が後ろ向きで、正々堂々としていないさま
+"I already knew that you didn't think highly of Senpai,
+ and that you've got a petty and spiteful mind, but...
+ I didn't realize you were %{i}this%{/i} afraid of her."
 }
 [sha:10a5db5623f7e2c46a9c3911a460233b7e81dbc1]{
 -- Page 550, Offset 34849.
 -- 「―――へえ。それ、どういう意味なのか教えてもらえる？」
-"―――Huh. And what exactly do you mean by that?"
+"Oh? And what exactly do you mean by that?"
 }
 [sha:29256ceb0303f82aff6817d950368afd1b5c3d96]{
 -- Page 551, Offset 34850.
 -- 「分かっている事をいちいち訊くな。戦うのが怖いからベラベラ喋って矛先を惑わしやがって。
-"Don't ask me questions you already know the answer to. You're scared of fighting, so you keep blabbering on in an attempt to distract us.
+"Don't even try playing dumb.
+ You're terrified of fighting, so you keep running your mouth to try and throw us off.
 }
 [sha:3bdd5c8133934133e2a40141c99c4dff66b4f399]{
 -- Page 551, Offset 34851.
 -- ……だいたいアンタの目的は俺だろう。ロアを殺したいんなら俺を狙え。吸血鬼に成り下がったアンタに、先輩を責める資格はない」
-...And besides, shouldn't you be going after me? If you want to kill Roa, then I should be your target. You have no right to condemn Senpai when you've fallen from grace and transformed into a vampire yourself."
+Besides, aren't %{i}I%{/i} the one you should be going after here?
+ If you want to kill Roa, then I'm your guy.
+ A degenerate vampire like you has no right to condemn Senpai!"
 }
 [sha:b145a8f36188732079a2313f4e0105d383a5c040]{
 -- Page 552, Offset 34852.
 -- 「吸血鬼に成り下がったわたしに、責める資格はない？」
-"I have no right to condemn her because I've fallen from grace and transformed into a vampire?"
+"A degenerate vampire like me has no right to condemn her?"
 }
 [sha:29b5e87a077bfe7f9cfe0ce108a6b6b658eae070]{
 -- Page 552, Offset 34853.
@@ -559,22 +580,25 @@ I don't have anything against you, so I was thinking about giving you a swift an
 [sha:f4b51fdfe5936cae0b8b570f039a1fd2333c4d0d]{
 -- Page 552, Offset 34854.
 -- ……俺は何を間違ったのか。
-...Was I wrong about something?
+Did I misunderstand something...?
 }
 [sha:a219bd809c277b7ab7c7aa09c06f20841190064c]{
 -- Page 553, Offset 34855.
 -- 少女の姿をした吸血鬼は、心から憎い俺と先輩に、心底からの笑みを向けた。
-The vampire who has assumed a girl's form smiles sincerely at her two detested foes, Senpai and me.
+// Dunno if the 心から / 心底から is supposed to come through but here we go
+The vampire that looks like a little girl grins wholeheartedly as she stares at Senpai and me, enemies she wholeheartedly despises.
 }
 [sha:44eed3c8022ae9d625129de0c6dd40f71589b4c5]{
 -- Page 553, Offset 34856.
 -- 我が意を得たりとばかりに、悪魔が哄笑するように。
-She cackles like a demon, as if to say that's exactly what she thought.
+Realizing it's just as she suspected,
+ she starts cackling like a demon.
 }
 [sha:99a708a123443237a19cd9daee2d00e5e8100aaa]{
 -- Page 554, Offset 34857.
 -- 「ああ、そう―――知らないんだ。
-"Oh, I see―――you don't know.
+// Goes from 悪魔が哄笑 to stone cold real fast huh
+"Oh, I see――you don't know.
 }
 [sha:fffd67ea2cf8b4b734d5b91022514ca7f265b08a]{
 -- Page 554, Offset 34858.
@@ -590,12 +614,13 @@ You have absolutely no idea what that woman has done."
 [sha:ac3cab883f49d78c97acc5b48d769917590c70fa]{
 -- Page 555, Offset 34860.
 -- 凍り付いていた先輩の顔があがる。
-Still frozen in place, Senpai raises her head.
+Senpai looks up, still frozen in place.
 }
 [sha:7970d1d597ba4dedb0446c8504063a39ad711585]{
 -- Page 555, Offset 34861.
 -- それだけは言わないで、と懇願する。それを満足げに見下ろして、
-She begs Noel not to say it. Noel looks down on her in satisfaction, and then―――
+She's begging Noel not to continue.
+ Noel looks down on her, relishing the expression on her face, and then―――
 }
 [sha:a03632cba863dbad271094c1c55eb1abe05b57eb]{
 -- Page 556, Offset 34862.
@@ -605,32 +630,33 @@ She begs Noel not to say it. Noel looks down on her in satisfaction, and then―
 [sha:d443548bfc36de3c6596c5e927e2b90238d65185]{
 -- Page 556, Offset 34863.
 -- 戦うのが怖いなんて笑わせるわ。だって戦う必要なんてないんだもの」
-You think I'm afraid to fight? Don't make me laugh. After all, there isn't even any need to fight."
+You think I'm afraid to fight? Don't make me laugh.
+ I just don't even %{i}need%{/i} to fight."
 }
 [sha:b8c9de748fa7f64b20c5b2e6f8bea8a649c5256a]{
 -- Page 557, Offset 34864.
 -- 「人間を壊すコトがどれほど造作もないコトか、身をもって教えてあげる。
-"I'll give you a firsthand demonstration of how easy it is to destroy a human.
+"Allow me to let you experience firsthand just how easily a human can break.
 }
 [sha:871fbe3e38e86e7e30265c3ea029f7437e44d67a]{
 -- Page 557, Offset 34865.
 -- さあ―――わたしの眼の中にいらしてくださる？」
-Now then―――would you be so kind as to enter within my eyes?"
+Now then――would you be so kind as to to step inside my eyes?"
 }
 [sha:6cc4a0cfb241329522ee4707cb59412cbed18542]{
 -- Page 558, Offset 34866.
 -- 一瞬の不明。
-A moment of uncertainty.
+I don't know what just happened.
 }
 [sha:28d7f6019ed24cf8fb0f27e0955d5f63805d2951]{
 -- Page 558, Offset 34867.
 -- 俺はソレと目を合わせてもいないし、
-I didn't make eye contact with her―――
+I didn't look into her eyes―――
 }
 [sha:bd6175fddbe61c41cfb07763b01cebd35b70cf16]{
 -- Page 558, Offset 34868.
 -- 何らかの攻撃を受けたのでもない。
-and she didn't try to attack me in any shape or form either.
+She didn't strictly speaking 'attack' me either.
 }
 [sha:d59c403d248ff027c9d2028e8454128af4534d82]{
 -- Page 558, Offset 34869.
@@ -640,12 +666,13 @@ and she didn't try to attack me in any shape or form either.
 [sha:12eb0868edde57adea7ef63ddb5357a3e566ee67]{
 -- Page 558, Offset 34870.
 -- ただあの眼が咲き乱れただけ。
-It's just that those eyes of hers came into full bloom.
+Those eyes of hers just suddenly bloomed.
 }
 [sha:5860d4b68b71b48af8f4e23e04024625d027ebb9]{
 -- Page 558, Offset 34871.
 -- それだけで認識は占有され、俺の世界は一変していた。
-That alone is enough to seize my whole cognition, transforming my world into a completely different one.
+That alone was enough to snare my consciousness,
+ and turn my entire world on its head.
 }
 [sha:3220f4d71a67a592ee39dc2a7f65f66f2ccc96e9]{
 -- Page 559, Offset 34872.
@@ -655,12 +682,12 @@ That alone is enough to seize my whole cognition, transforming my world into a c
 [sha:94736d1808104282158862a8e1c4ad65ff819caa]{
 -- Page 559, Offset 34873.
 -- 見渡すかぎりの薔薇、薔薇、薔薇。
-All I see around me are roses, roses, and more roses.
+All I can see is roses, roses, and more roses.
 }
 [sha:11fa08d17d52fac0173e7aa2ca2cc127ba2c5b80]{
 -- Page 559, Offset 34874.
 -- 世界はむせ返るほどの薔薇の香りに支配された。
-The overbearing scent of roses dominates the entire world.
+Their cloying scent has brought the world to its knees.
 }
 [sha:f2dc760a92e9e539a32b751095f014ad741290c2]{
 -- Page 559, Offset 34875.
@@ -675,7 +702,9 @@ As I stand in the midst of it all, I can't help but feel like I'm a puny insect 
 [sha:e15f49c63af5e194432d80571da834f6ba12ee37]{
 -- Page 560, Offset 34877.
 -- 『“ようこそ、歓迎いたしますわ、名も知れぬお客様。
-"Welcome. Come right this way, unfamiliar guest of mine.
+// Assuming this is nameless instead of unknown? She knows him?
+// I mean, he does have a name too, but he's also two dudes rn? I dunno.
+"Welcome. Come right this way, my nameless guest.
 }
 [sha:5dcd5b3b30d080401d002b25767dcf1ce1ba103a]{
 -- Page 560, Offset 34878.
@@ -685,22 +714,24 @@ Welcome to the garden of pleasure and corruption.
 [sha:397996d2f6ceb9223de5496bb7c4e69a53b14fe1]{
 -- Page 560, Offset 34879.
 -- この地上に存在する魔眼の中で最も美しく
-Revered as the most beautiful―――
+Of all the Mystic Eyes that exist on this earth,
+ this is said to be the most beautiful―――
 }
 [sha:c2e2a48e4b910aa397d75402933dbcfffed2f658]{
 -- Page 560, Offset 34880.
 -- 最も醜悪と謳われた、<薔薇姫|ロズィーアン>の原理血戒”』
-and most unsightly Mystic Eyes of this Earth, Hemonomic Principle Rozay-en."
+And the most hideous: Hemonomic Principle Rozay-en."
 }
 [sha:f48d5e43b20948847e713198bcd32ba0a89aaa71]{
 -- Page 561, Offset 34881.
 -- 花を散らす風が囁く。
-The wind whispers as petals flutter in the air.
+Petals scatter on the whispering wind.
 }
 [sha:ff43cc1a5d0d00dbf616f27b3a962785fc19f7ab]{
 -- Page 561, Offset 34882.
 -- あまりの色彩に目が潰れる。
-The overabundant colors rob me of my sight.
+// Like the list time we saw あまりの色彩, he's kinda talking about one particular color
+The avalanche of red robs me of my sight.
 }
 [sha:ed7723990d67760e0eeff7ebc866a166a4ecfc33]{
 -- Page 561, Offset 34883.
@@ -710,12 +741,12 @@ The fragrance of the roses violates my sense of smell.
 [sha:829460537205f1e833b857e6164310f5b92369ac]{
 -- Page 561, Offset 34884.
 -- 境界が解らない。
-The boundaries are unclear.
+I can't tell where anything begins or ends.
 }
 [sha:dbc4a7726e7b745224132628c53afb3360f008d5]{
 -- Page 561, Offset 34885.
 -- この世界では、五感すべてが<魔薬|まやく>によって侵されていく。
-All five of my senses are taken over by the narcotics of this world.
+All five of my senses are being ravaged by the narcotics of this world.
 }
 [sha:0f163b72205e4694444c8c232d5a46bce7e35c34]{
 -- Page 562, Offset 34886.
@@ -725,17 +756,20 @@ All five of my senses are taken over by the narcotics of this world.
 [sha:a28ae7df4e100f9e5af1ecc5fb158ffda05c7cb3]{
 -- Page 562, Offset 34887.
 -- 囚われた者には背徳を。
-May corruption befall upon our prisoner.
+May corruption fall upon our prisoner.
 }
 [sha:3da409a18553d5b88222018537c5cfb214dfc58e]{
 -- Page 562, Offset 34888.
 -- 遊覧腐爛のツギハギモザイク、
-A cobbled mosaic of decaying panoramas.
+// This doesn't feel quite right because I'd expect it to be more like a 'sightseeing rot' or something but what the hell would that even mean
+// Wild guess but is this 遊覧 supposed to be interpreted as pleasure somehow? As in 遊覧船 -> pleasure cruise? Kinda grasping at straws.
+A patchwork mosaic of putrefying panoramas.
 }
 [sha:edb1f81fdd9883e3a823e9f96f06b2fc94f822f4]{
 -- Page 562, Offset 34889.
 -- 一夜ばかりの幻も　終わらぬものなら不治の<恋|どく>。
-Even a single night of illusion     is an incurable <poison|l o v e> without end.
+If a one night of fantasy never ends...
+ it becomes an incurable <poison|l o v e   >.
 }
 [sha:729316a1cc4125287f325fae975772ec37da2fca]{
 -- Page 562, Offset 34890. Mods: @k, @e.
@@ -745,7 +779,7 @@ Take my hand―――
 [sha:e16360f5cb1aff6172cd412f693326b7bc98fa9e]{
 -- Page 562, Offset 34891.
 -- 夢の狭間に参りましょう―――』
-and come forth into the crevasse that lies between dreams―――"
+And let us slip into the cracks between dreams―――"
 }
 [sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
 -- Page 563, Offset 34892.
@@ -755,15 +789,18 @@ and come forth into the crevasse that lies between dreams―――"
 [sha:b26ac63c218e0f6da87cf3e9b11cac985bbbaa46]{
 -- Page 563, Offset 34893.
 -- 危険を察して走り出したが、一面の赤色で自分がどこにいるのか、自分が何なのかさえ判別できない。
-Sensing danger, I try to run, but in the face of complete red, I'm unable to discern where I am, or even what I am.
+Sensing danger, I try to run,
+ but the red is so all-encompassing that I can't tell where I am,
+ or even %{i}what%{/i} I am.
 }
 [sha:721b7a1f54c4f1a07d9824135e19f051d87ad554]{
 -- Page 564, Offset 34894.
 -- 手足も意識も一面の薔薇に飲みこまれていく。
-My limbs and consciousness are being consumed by the wall of roses.
+My limbs and consciousness are being swallowed by the sea of roses.
 }
 [sha:73f1406ef4ec43e4bbb215c04258e737c994bf64]{
 -- Page 565, Offset 34895.
 -- 俺は自分の名前さえ見つけられない記上の登場人物になって、何処とも知れぬ<頁|ページ>に落ちていった。
-Becoming a character within a book where I can't even find my own name, I find myself falling into a page unknown.
+I become a character in a book where I can't even find my own name,
+ and tumble at random into one of its pages.
 }
