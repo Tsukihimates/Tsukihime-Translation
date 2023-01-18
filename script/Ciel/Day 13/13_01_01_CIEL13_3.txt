@@ -33,8 +33,10 @@ I can sense the presence of countless people flooding out from the sea of buildi
 -- Page 102, Offset 33453.
 -- こんなに人が／溢れかえる藪蚊のように／密集したところにいると、また堪えきれなくなる。
 // just put the ／ in more or less the same position as jp for now
-// Presumably these are intrusive Roa thoughts. Italics?
-If I stay around these people／that are swarming around like mosquitoes／I'll end up losing control again.
+// Presumably these are intrusive Roa thoughts
+If I stay around these people／
+%{i}that are swarming around like mosquitoes%{/i}
+／I'll end up losing control again.
 }
 [sha:55274a3a4f99b370d3e72c3593204c44efc87c87]{
 -- Page 103, Offset 33454.
@@ -116,12 +118,12 @@ I clench one hand over my forehead to try and suppress my headache.
 [sha:c71408764bb6e595a3cb1b9da520b3ae28a0b4ee]{
 -- Page 107, Offset 33468.
 -- ……これほど密集した街の中で、人間の気配がまったくない場所なんてある訳がなかった。
-In a city this crowded, no corner is completely free from the presence of human life...
+How did I ever think there'd be a place completely free from the presence of human life in a city this crowded?
 }
 [sha:b3be2f671dc8d76eedcc89f8f0def2f911004c8e]{
 -- Page 107, Offset 33469.
 -- 本当の意味で一人になる事なんて、文明の発達した街じゃもう不可能なコトだった。
-It's impossible for one to be truly alone in a city that has reached this stage of civilization.
+It's impossible to be truly alone in a city that has reached this stage of civilization.
 }
 [sha:c11d27941c9660cf5091be7b49e702a3b6fd0be2]{
 -- Page 108, Offset 33470.
@@ -131,18 +133,23 @@ It's impossible for one to be truly alone in a city that has reached this stage 
 [sha:17f4cd69b7828b154114ce47090f6acebd58a554]{
 -- Page 108, Offset 33471.
 -- そうだ。観念して周りを見ろ。
-// Intrusive thoughts here in italics?
+// Roa thoughts in italics
+%{i}
 Don't believe me? Just look around you.
+%{/i}
 }
 [sha:504aa8e0f0c184f22bf511687adcde1b387e434e]{
 -- Page 108, Offset 33472.
 -- ちょっと歩くだけで獲物なんていくらでも手に入るじゃないか。なにしろこれだけの数だ。ひとりやふたり間引いたところで全体に影響はない。むしろ余分なものを削いでほしいと誰もが無意識に願っている。これは掃除だ。ゴミ拾いと何が違う。
+// Roa thoughts in italics
+%{i}
 All the prey you could ever want is mere footsteps away.
  Look at them all.
  Picking off one or two of them won't change anything.
  Honestly, they're all subconsciously wishing for someone to come along and trim the fat anyway.
  It's simply tidying up.
  No different to taking out the garbage.
+%{/i}
 }
 [offset:33473]{
 -- Page 109, Offset 33473.
@@ -157,9 +164,9 @@ My head hurts.
 [sha:af8dedb5bd409b707c62327300fa0c5bcc248e0a]{
 -- Page 109, Offset 33475.
 -- <俺|ひと>の頭の中で臆面もなく騒がないでほしい。ただでさえ頭が痛くて倒れそうなのに、こんなに五月蠅いと自分から目を閉じてしまいかねない。
-Can you please have some respect and stop kicking up a fuss inside my head?
- I'm already on the verge of passing out because of this headache,
- so if you don't pack it in I might just close my eyes and be done with it on purpose.
+Can you quit making that goddamn racket inside my head already?
+ I'm on the verge of passing out because of this headache as it is,
+ so if you don't shut up I might just give up and close my eyes on purpose.
 }
 [sha:31258328a433139751c9295e8b7fb0ece5a58166]{
 -- Page 110, Offset 33476.
@@ -169,7 +176,7 @@ Can you please have some respect and stop kicking up a fuss inside my head?
 [sha:9f268dc1a4dfb18bb069a36b551b29a4bc5165e7]{
 -- Page 110, Offset 33477.
 -- それはまずい。目を閉じれば眠ってしまう。なにしろ一日まるまる眠っていない。心も体も眠りたがっている。眠ってしまえば今度こそ目覚めないと分かっている。
-No, I can't do that.
+No, that's a bad idea.
  It's been a full day since I last slept.
  My body and mind are both desperate for rest.
  If I closed my eyes, I'd be asleep in a heartbeat.
@@ -178,7 +185,7 @@ No, I can't do that.
 [sha:7d70591b19385636bcc0f3784b298ccdab1e2ba0]{
 -- Page 110, Offset 33478.
 -- 目覚めたとしても、それは自分ではない何者かだ。
-Or rather, even if I did wake up, it'd be as someone else.
+And even on the off-chance I did wake up, it'd be as someone else.
 }
 [sha:eabd22ceadcfdd9fc3ad73cc1cf68e66b38a441e]{
 -- Page 110, Offset 33479. Mods: @n.
@@ -246,28 +253,29 @@ Someone has to keep an eye on me to make sure I don't fall asleep or lose my min
 [sha:0fbea1ea6e3d6473fd4ee37f60afbf53284f7607]{
 -- Page 113, Offset 33491.
 -- こんな自分を見せたくなかったが、もうそんな余裕はない。
-I don't want her to see me like this,
+I didn't want her to see me like this,
  but now's not the time to be worried about appearances.
 }
 [sha:5d386acdfeada378b107bd7a7d9b9f1f85c34805]{
 -- Page 113, Offset 33492.
 -- それに、そうだ―――何かあったら相談していいと、先輩は言ってくれたじゃないか。
-Plus, now that I think about it――Senpai told me that I should turn to her if anything were to happen.
+Also, right, yeah――she told me that I should turn to her if anything were to happen.
 }
 [sha:66ac8fdca848d194c57b07f2edbab09260e89913]{
 -- Page 114, Offset 33493.
 -- 最後の希望に縋ってポケットから携帯端末を取り出す。
-Clutching at this last ray of hope, I take out my phone.
+Desperately holding on to this last glimmer of hope,
+ I take out my phone.
 }
 [sha:11204021311cf632e3589e2f4b153141f3b1e6c9]{
 -- Page 114, Offset 33494.
 -- ……俺の体は誰にも治せない。
-Nobody can undo what's happened to my body...
+Nobody can cure my condition...
 }
 [sha:db08b3d990e41df962cbcf9265f59883bf20db94]{
 -- Page 114, Offset 33495.
 -- いくらシエル先輩だって、俺の中身までは治せない。先輩に連絡したところで、あの人を困らせるだけだと分かっている。
-Even Ciel-senpai, as amazing as she is, can't fix what's wrong with me.
+Not even Ciel-senpai, as amazing is she may be.
  I know that reaching out will only cause problems for her.
 }
 [sha:3159a3ab2cd9a468bd481a374544ecbf8181656d]{
@@ -283,7 +291,7 @@ I want to hear her voice.
 [sha:989a8239aa1387b0b1313403cd9a61aa2e73501e]{
 -- Page 115, Offset 33498.
 -- シエル先輩がいてくれるなら、俺はまだ遠野志貴で居続けられる―――
-If she comes here, then I can still continue to exist as Tohno Shiki―――
+If she comes here, then I can still keep on being Tohno Shiki―――
 }
 [sha:f901d56fb0f339d539b0e2f592056b884a2b8e00]{
 -- Page 116, Offset 33499.
@@ -328,7 +336,7 @@ Right now, her voice feels really warm.
 // :french_ciel:
 "Hello?
  %{i}Qu'est-ce qui'l y a%{/i}?
- Don't tell me that you rang me by mistake...
+ Don't tell me that you pocked-dialed me...
 }
 [sha:c85d07791e25009684494a1b24cd314e78f6f33f]{
 -- Page 118, Offset 33507.
@@ -455,7 +463,7 @@ Done for? What exactly is done for?"
 [sha:e930538f4af0014c717326840f9038fe5ed1a066]{
 -- Page 125, Offset 33531.
 -- それもとびきり質が悪い。
-On top of that, my true nature is unspeakably vile.
+And an exceptionally vile one, at that.
 }
 [sha:c6b1d74e4a634ef07571ae9cde8cd83f3546a13b]{
 -- Page 125, Offset 33532.
@@ -466,20 +474,21 @@ Even now, if I were to let my mind wander,
 [sha:bf7755a1218b6baeff3a6268ffdb6569d1ea8424]{
 -- Page 125, Offset 33533.
 -- 他の誰でもなく、身近な人々の血が見たいと思っている時点で、俺の本性は根底からして腐っている。
-The moment I wanted to see the blood of not just some stranger,
+As far as I'm concerned,
+ the fact that I want to see the blood of not just some stranger,
  but of the people that are nearest and dearest to me,
- I was already rotten to my core.
+ means I'm already rotten to my core.
 }
 [sha:c2dc37851da5cfa06b6c48936b34327265c9e319]{
 -- Page 126, Offset 33534.
 -- 「……どうすればいいんだろう。俺、自殺なんてできない。自分で自分を殺すなんて、そんな手段、教わった事がない」
-"What should I do? I... can't kill myself.
- I was never taught how to take my life with my own hands."
+"What should I do? I... can't commit suicide.
+ Nobody ever taught me how I was supposed to... to kill myself."
 }
 [sha:06b3db688f5e8f926f47ee0fda3bf00fde3056d5]{
 -- Page 126, Offset 33535.
 -- 「……その必要はありません。今どこにいるんですか」
-"There is no need for that. Where are you right now?"
+"You won't need to do that. Where are you right now?"
 }
 [sha:a200f4e9b5b38e1b5cfded9284c1070f797555ae]{
 -- Page 126, Offset 33536.
@@ -509,7 +518,7 @@ Please make your way to the ruins of the department store where we fought Vlov.
 -- Page 128, Offset 33540.
 -- 「遠野くんならバリケードの隙間を切って中に入れるでしょう。先に忍び込んで、地下で待っていてください」
 "You should be able to cut yourself an opening in the barricade to sneak inside.
- Please go on ahead and wait for me underground."
+ Please go on ahead and wait for me down there."
 }
 [sha:5273499e1ad5333bcd34592f858bb67020c18858]{
 -- Page 128, Offset 33541.
