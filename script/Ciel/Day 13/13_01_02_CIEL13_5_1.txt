@@ -56,8 +56,9 @@ Noel licks her lips as she watches me charge at her,
 [sha:c98bf68e4a3baeefe08fdc5c2474f6343aa6c588]{
 -- Page 5, Offset 35229.
 -- 「あ、ゴメーン！　今はわたしの方が若いんだった☆
-"Oops, silly me!
- I forgot I'm actually younger than you now ☆
+// Forced linebreak otherwise the ☆ renders on its own awkwardly
+"Oops, silly me!%{n}
+I forgot I'm actually younger than you now ☆
 }
 [sha:fe286acdc6960ada6fa967e872ffa8ff038bdd7a]{
 -- Page 5, Offset 35230.
@@ -378,7 +379,7 @@ I got to see a treasured happy memory from your childhood that even you yourself
 [sha:b889ee1e976c08fc132c96fb01818d61697d0e78]{
 -- Page 20, Offset 35288.
 -- 「ひ、ぎ、ぃ―――…………！」
-"%{i}Hii%{/i}, %{i}gii%{/i}, %{i}ii%{/i}―――%{i}aaah%{/i}...!"
+"%{i}Hii%{/i}, %{i}gii%{/i}, %{i}ii%{/i}――%{i}aaah%{/i}...!"
 }
 [sha:fb02c2c266c4e53a07a580c2d5d6afa471e3b503]{
 -- Page 21, Offset 35289.
@@ -388,7 +389,7 @@ Each spear she yanks out sends a searing pain through my skull.
 [sha:f7051ea6278e1d8b7e48c7e018eba4b88cd076b3]{
 -- Page 21, Offset 35290.
 -- それはいい。すぐに戻る。
-But that's okay. I'll recover in no time.
+But that's okay. I'll recover from that in no time.
 }
 [sha:deb8cd6a4c7994902157b2524f45c1f797169305]{
 -- Page 21, Offset 35291.
@@ -431,7 +432,9 @@ After all,
 [sha:697d01d1bfa283c12901c96c8dedd9e13e7ef30b]{
 -- Page 23, Offset 35298.
 -- ……最後の槍が引き抜かれる。
-She pulls out the final spear...
+// Leading ellipsis are kinda a theme on this page, not sure it works if they're just moved to the end.
+// I say we either keep them at the front this time, or selectively trim a couple as below.
+She pulls out the final spear.
 }
 [sha:957b69418501bb023a956ae62f572bdf02ff1f9e]{
 -- Page 23, Offset 35299.
@@ -441,7 +444,7 @@ I don't have enough blood...
 [sha:fdf12b13a3fd3ef497ad0d170646c7796f71cb1c]{
 -- Page 23, Offset 35300.
 -- ……できる事はもう少ない。
-There isn't much that I can do at this point...
+There isn't much that I can do at this point.
 }
 [sha:66602aebbc01b689b5b60e56cd6f4f4d6153a9ae]{
 -- Page 23, Offset 35301.
@@ -640,7 +643,7 @@ Was Roa protecting my body because I'm his host?
 [sha:12343a3afb831ceed1e9e37d4c5105cbedc3012f]{
 -- Page 34, Offset 35336.
 -- そうとしか考えられない。
-I can't think of any other possibility.
+I can't think of any other explanation.
 }
 [sha:3ae9e5c77dc2d778961997dc91c96774cf0ad8da]{
 -- Page 34, Offset 35337.
@@ -691,7 +694,8 @@ I'm not completely out of the woods yet,
 [sha:ffbc88acf34a806f7f5ae33df6cc42a475388cdf]{
 -- Page 37, Offset 35346.
 -- どこからか響いてきたノエルの声に、とっさに身構える。
-Hearing Noel's voice coming from somewhere, I immediately stand guard.
+Hearing Noel's voice coming from somewhere,
+ I immediately go on the defensive.
 }
 [sha:ba5af625dfc8502e08eaa23d92189595831021aa]{
 -- Page 37, Offset 35347.
@@ -701,7 +705,7 @@ But I don't see her anywhere.
 [sha:f7873ac6b66111bbbe55a13bab5da7a6329a4e65]{
 -- Page 37, Offset 35348.
 -- 気配も感じない。
-I can't sense her presence either.
+I can't sense her presence, either.
 }
 [sha:12de8f9a6f15f4252e134181d9ea943cfde43973]{
 -- Page 37, Offset 35349.
@@ -738,7 +742,7 @@ Unnerved, I raise my voice.
 -- Page 39, Offset 35355.
 -- 「えー。何処ってまだわからない？
 "Whaaat?
- You mean you still haven't realized where you are?"
+ You mean you still haven't realized where you are?
 }
 [sha:f0b17641bd93e5a35b0407de415c4cd204b9d21a]{
 -- Page 39, Offset 35356.
@@ -902,7 +906,7 @@ Her voice reverberates through the darkness.
 [sha:138b9c39a7662f8b1226b36d177a50baaa3f8d3a]{
 -- Page 48, Offset 35386.
 -- ヤツの姿も気配もないのは当然だ。
-No wouldn't I couldn't see or sense her.
+No wonder I couldn't see or sense her.
 }
 [sha:2a97920bdce66b3fd07d1cbf1b3aac4285f2bf77]{
 -- Page 48, Offset 35387.
@@ -948,7 +952,7 @@ The wounded body of Tohno Shiki slowly staggers to its feet.
 -- Page 50, Offset 35394.
 -- ソレはニタリと笑うと、死者のような緩慢な足取りで、シエル先輩に向かって歩き出した。
 With a smirk on its face,
- it begins to stumble towards Ciel-senpai,
+ it begins to stumble toward Ciel-senpai,
  walking with the same shambling gait as one of the Dead.
 }
 [offset:35395]{
@@ -976,7 +980,7 @@ And in front of him――
 [sha:7a4d92aa8ff9c7e3ffc8e788cfb29e6f214fd9f1]{
 -- Page 52, Offset 35399. Glued.
 -- もう動く事のない先輩が、
-Is the motionless figure of Senpai.
+is the motionless figure of Senpai.
 }
 [sha:463c64e4ef86d117130856e933a3ccacc7839e94]{
 -- Page 53, Offset 35400. Mods: @n.
@@ -1131,7 +1135,7 @@ That much was made clear to me in that hellish nightmare I witnessed.
 [sha:0e587b4a8a2f7a8433e94f6a631c3e35bd60ca12]{
 -- Page 61, Offset 35428.
 -- 「あ―――ああ、ああああ―――」
-"%{i}Ah%{i}――%{i}aah%{i}, %{i}aaaah%{i}―――"
+"%{i}Ah%{/i}――%{i}aah%{/i}, %{i}aaaah%{/i}―――"
 }
 [sha:23c1f02a43b2752bb2413ac7d3f2ce7bf9d961f8]{
 -- Page 61, Offset 35429.
@@ -1195,7 +1199,7 @@ Slowly but surely,
 [sha:4b648f5deb3dcfd8eb4c7391d227cd3642007761]{
 -- Page 64, Offset 35439.
 -- それでもまだ心が壊れなかったら―――」
-And if you're heart still isn't broken after that―――"
+And if your heart still isn't broken after that―――"
 }
 [sha:16969b622614acb7201242d470f9638ff136ea3f]{
 -- Page 65, Offset 35440.
