@@ -220,7 +220,7 @@ Just one more step, and I'll be able to―――
 -- Page 13, Offset 35260.
 -- 「―――どうしてそう、わたしの癇に障るのかなぁ！」
 // Oddly excited VA, so went for a double entendre here
-"―――Ooh, why is it you know just how to push my buttons?!"
+"―――Ooh, why is it you know %{i}just%{/i} how to push my buttons?!"
 }
 [sha:c65f2b48da679ec5f8efd346002bdf81d1e3ac1c]{
 -- Page 13, Offset 35261.
@@ -373,7 +373,7 @@ I can feel it far more intensely than I ever did as a human―――!
 [sha:23450cf5c191f8988710e175f7d41df280c32f6f]{
 -- Page 20, Offset 35287.
 -- 志貴クン本人も忘れている、とっても楽しい、子供時代の大切な思い出をね？」
-I got to see a treasured happy memory from your child that even you yourself have forgotten, you know?"
+I got to see a treasured happy memory from your childhood that even you yourself have forgotten, you know?"
 }
 [sha:b889ee1e976c08fc132c96fb01818d61697d0e78]{
 -- Page 20, Offset 35288.
@@ -403,17 +403,20 @@ If I keep bleeding out, I'll end up becoming even weaker than a human.
 [sha:cdea0f24c4d5d99e6334c9fe5152703c366be6e1]{
 -- Page 22, Offset 35293.
 -- 「それを見て分かったの。
-"And when I saw it, that's when I realized.
+"And when I saw it, I just knew.
 }
 [sha:09825d4dd54ffee5339c707bb5d9278437fc5cbd]{
 -- Page 22, Offset 35294.
 -- キミは今の光景を無視できない。
-Realized that you couldn't possibly ignore what was unfolding before your eyes.
+// Is 光景 here supposed to be Ciel? Or the vision(?) of the girl?
+I knew you wouldn't be able to ignore a scene like that.
 }
 [sha:0941a67fc1b220db03d23f33cbb554b718cbdf9e]{
 -- Page 22, Offset 35295. Mods: @n.
 -- もうどうしようもないほど手遅れで、救いがなくて、可哀想な生き物だってコトがね！
-And that you're a pathetic creature who is far too late to do anything, and will never be granted salvation!
+After all,
+ you're the sort of pathetic creature that's already lost your last chance,
+ and can never be saved!
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 22, Offset 35296. Glued.
@@ -423,42 +426,42 @@ And that you're a pathetic creature who is far too late to do anything, and will
 [sha:12f794b5f554c107420e56351519ded64df426a3]{
 -- Page 22, Offset 35297.
 -- 「ぐぁ、ぁああぁああ―――！！！」
-"Gah, aaaaAAAH―――!!!"
+"%{i}Gah%{/i}, %{i}aaaaAAAH%{/i}―――!!!"
 }
 [sha:697d01d1bfa283c12901c96c8dedd9e13e7ef30b]{
 -- Page 23, Offset 35298.
 -- ……最後の槍が引き抜かれる。
-...She pulls out the final spear.
+She pulls out the final spear...
 }
 [sha:957b69418501bb023a956ae62f572bdf02ff1f9e]{
 -- Page 23, Offset 35299.
 -- ……血液が足りない。
-...I don't have enough blood.
+I don't have enough blood...
 }
 [sha:fdf12b13a3fd3ef497ad0d170646c7796f71cb1c]{
 -- Page 23, Offset 35300.
 -- ……できる事はもう少ない。
-...There isn't much that I can do at this point.
+There isn't much that I can do at this point...
 }
 [sha:66602aebbc01b689b5b60e56cd6f4f4d6153a9ae]{
 -- Page 23, Offset 35301.
 -- ……ナイフはまだ握られている。
-...I'm still clutching the knife in my hand.
+I'm still clutching the knife in my hand...
 }
 [sha:46df2f58a9dab4a5250fc8ef33ed83e63a1e437a]{
 -- Page 23, Offset 35302.
 -- ……あと20センチ。
-...Just twenty more centimeters.
+Twenty centimeters...
 }
 [sha:88da6d4825a3c4e1e187ca2610a474e366841bfa]{
 -- Page 23, Offset 35303.
 -- ……それだけの距離、吸血鬼が頭を下げれば、まだ、
-...If she lowers her head by twenty more centimeters, then I can still...
+If she lowers her head just twenty centimeters, I can still―――
 }
 [sha:be6fddbc860aab1ebf08ac9c1bfb1b54d5e0d8b5]{
 -- Page 24, Offset 35304.
 -- 「……趣味が、悪い、ぜ……
-"...Your tastes... are pretty... messed up...
+"You've got... some fucked up... tastes...
 }
 [sha:725ce177305b64a25924c35da00b0782aed03356]{
 -- Page 24, Offset 35305.
@@ -468,27 +471,27 @@ If you're going to kill me... then just... do it."
 [sha:6046f1fe8549513d57a68a699c70b5c1d936696f]{
 -- Page 25, Offset 35306.
 -- 顔をあげて、ノエルを挑発する。
-I raise my head and attempt to provoke her.
+I look up at Noel, and attempt to provoke her.
 }
 [sha:d94b5ebf9b086da69782f75f025b0971ae0a0eb2]{
 -- Page 25, Offset 35307.
 -- 俺にできるのはこれくらいだ。
-This is the best I can do right now.
+This is all I can manage right now.
 }
 [sha:30045760f228303f4399c7c7dbc8afd392fc9223]{
 -- Page 26, Offset 35308.
 -- もう他のものは見ない。
-I can't see anything else anymore.
+I don't look at anything else.
 }
 [sha:b19a5037b3833eeb16b6e29fc11bc45b9486f529]{
 -- Page 26, Offset 35309.
 -- 余分な景色に意識は割かない。
-I don't have enough energy to observe my surroundings.
+I don't have energy to waste observing my surroundings.
 }
 [sha:40cecd4a7761e33dffb6274a6c1de217a03d4b4d]{
 -- Page 26, Offset 35310.
 -- ……残った最後の一振り。
-...All that's left is one final swing.
+I've only got one final swing left in me...
 }
 [sha:1d1e74c171da011ed99264a57162dda30862b4f4]{
 -- Page 26, Offset 35311.
@@ -498,42 +501,51 @@ I'll focus everything on this woman.
 [sha:611573f3b93350b725e7c67152ea140be2cb1223]{
 -- Page 27, Offset 35312.
 -- 「わたしの趣味が悪い？
-"My tastes are messed up?
+"My tastes are fucked up?
 }
 [sha:18b4e98a1b20dc9703367a884a26da61e05f7ba7]{
 -- Page 27, Offset 35313.
 -- そんなの知ってたでしょ？
+// This version of the page only if you talked to Noel after school instead of Ciel on d7, I guess
 But you already knew that, didn't you?
 }
 [sha:ce75263fc5807fa4d0aef250bc5816298454db0a]{
 -- Page 27, Offset 35314.
 -- 言ったじゃない、キミは特別。犯したいレベルだって。……ふふ。こっちの望みも叶っちゃった」
-I told you that you were special, didn't I? So special that I wanted to violate you... Fufu. And now, it seems like that wish has also come true."
+// Used ravish for 'いじめたいリスト' back on offset 15605, so using same verb here
+I already tell you you're special, remember?
+ So special that I want to ravish you...
+ %{i}Teehee%{/i}.
+ Looks like my wish has come true ♡"
 }
 [sha:611573f3b93350b725e7c67152ea140be2cb1223]{
 -- Page 10001, Offset 35315.
 -- 「わたしの趣味が悪い？
-"My tastes are messed up?
+"My tastes are fucked up?
 }
 [sha:a8b2a549f223eae5321647bf0e52838dd5475011]{
 -- Page 10001, Offset 35316.
 -- ……ふふ。ふふふ。うふふふふふふふ……！
-...Fufu. Fufufu. Ufufufufufufu...!
+// Senpai enjoyer page
+%{i}Ahaha%{/i}...
+ %{i}Hahaha%{/i}.
+ %{i}Ahahahahahahaha...!%{/i}
 }
 [sha:becb47a6e2254ea67889c41c7b270191a9ee2e90]{
 -- Page 10001, Offset 35317.
 -- そうね、ここからが本番だもの！　身も心もメチャクチャに犯してあげる！」
-You're right. I'm just getting started! I'll defile your body and mind until there's nothing left!"
+You're right. I'm just getting started!
+ I'm going to ravish your body and mind until there's nothing left!"
 }
 [sha:c36accb6e1513d2c6c91752f25c8ef92add38727]{
 -- Page 10002, Offset 35318.
 -- 笑いながら、吸血鬼が敗者の顔を覗き込む。
-As she smiles, the vampires peers into the face of her vanquished foe.
+Cackling, the vampire stoops down to savor the expression of her vanquished foe.
 }
 [sha:05f47c78d5a3a80ec2f7967e50e2a726326cdd60]{
 -- Page 10002, Offset 35319.
 -- 勝ち誇った笑みが下りてくる。
-She gazes down at me with a triumphant smile.
+Her triumphant smile comes within reach.
 }
 [sha:812b293f654b795a802f8ac9930997bff4b81679]{
 -- Page 10002, Offset 35320.
@@ -548,28 +560,32 @@ She gazes down at me with a triumphant smile.
 [sha:8cce94b74f7e8b4572ca3e91bfb6dd1c2513ee46]{
 -- Page 30, Offset 35322.
 -- 何の歪みもなく、ストン、とまっすぐに落ちる首。
-With a thud, her head falls straight down.
+// I localize this to drops like a rock and then of course in the next line Nasu interjects with
+// AcTuAlLy It LoOkEd LiKe A pErSiMmOn
+Her head plummets straight down, and hits the ground with a thud.
 }
 [sha:d4e5443f5e48c86592ecde48cdec89b97ef79136]{
 -- Page 30, Offset 35323.
 -- 熟れて落ちる柿を連想する。
 // apparently persimmons fall from the tree before theyre fully ripened. the more you know
-It reminds me of a ripening persimmon falling from a tree.
+// only if the fruit isn't properly fertilized (parthenocarpy) / the tree is under stress.
+// anyway, fuyu > hachiya >>> aizome
+It reminds me of a ripe persimmon falling off a tree.
 }
 [sha:5099f6dc77136020cd82463989ef52a2970788a8]{
 -- Page 31, Offset 35324.
 -- ……相手がノエルで助かった。
-...Thankfully, everything worked out because my opponent was Noel.
+I was lucky my opponent was Noel...
 }
 [sha:493a854ac9582b82cdd9230d4036c958e36e0b02]{
 -- Page 31, Offset 35325.
 -- 出血で薄れていく意識の中。
-Within my consciousness, fading from excessive blood loss.
+My consciousness is beginning to fade from the blood loss.
 }
 [sha:8577986d101c775e1d65248f394fb2be45655d74]{
 -- Page 31, Offset 35326.
 -- 俺はナイフと共に、意識を闇に落としていった。
-I sink into the darkness, together with my knife.
+Still clutching my knife, I sink into the darkness.
 }
 [sha:5d631305fe85b050fba007113d99888b063f126c]{
 -- Page 32, Offset 35327.
@@ -579,7 +595,10 @@ I sink into the darkness, together with my knife.
 [sha:ed85db55a4e00a881277dbc363f227b88047af4b]{
 -- Page 32, Offset 35328.
 -- 暗闇で声を上げる。
-I raise my voice within the darkness.
+// What the fuck is the word for a surprised noise in English?
+// Do we even have one? It's not quite a yelp, or an exclamation.
+// I guess we mostly encode with the verb - blurt out in surprise?
+My surprise echoes in the darkness.
 }
 [sha:be3016ba2e6ff929bd45cd396ea17030976b8f2a]{
 -- Page 32, Offset 35329.
@@ -594,17 +613,18 @@ I'm still conscious even after using up the last of my strength.
 [sha:53d19458c4c25b0f36ba50f448b5e48975f12592]{
 -- Page 33, Offset 35331.
 -- いや、あるどころか元気いっぱいだ。
-No. On the contrary, I'm brimming with energy.
+No, I'm not just conscious――I'm brimming with energy.
 }
 [sha:cbf4163ee3f001ac40f36bd6f02ab186331a6b8b]{
 -- Page 33, Offset 35332.
 -- 自分の体を確認する。
-I examine my own body.
+I take stock of my body.
 }
 [sha:d5d7615c2c3e2d6ad04fe9f61ae06d96d212213c]{
 -- Page 33, Offset 35333.
 -- 鉄の槍に串刺しにされた跡はあるが、傷は完全に塞がっている。
-There are marks where I was skewered by the iron spears, but the wounds have already closed completely.
+There are some marks where I was skewered by the iron spears,
+ but the wounds themselves have already closed completely.
 }
 [sha:df796413b7628bb1568671112c114708bee1f38f]{
 -- Page 34, Offset 35334.
@@ -614,7 +634,8 @@ There are marks where I was skewered by the iron spears, but the wounds have alr
 [sha:f448b2a6addc44d81e0c135b9c2bd0e72b4cced4]{
 -- Page 34, Offset 35335.
 -- 転生体であるロアが、俺の体を守ったのか？
-Was the reincarnating Roa protecting my body?
+// 転生体 feels a bit funky here, isn't Shiki the 転生_体_? We usually translate it as host, etc.
+Was Roa protecting my body because I'm his host?
 }
 [sha:12343a3afb831ceed1e9e37d4c5105cbedc3012f]{
 -- Page 34, Offset 35336.
@@ -629,12 +650,12 @@ In a sense, he and I are one in body and soul.
 [sha:95a20d92521d41ef98ef69062e2b3c906127cf28]{
 -- Page 34, Offset 35338.
 -- 自らを守る為、瀕死だった俺に手を貸した―――？
-Did he lend me a hand when I was on the brink of death so he could protect himself―――?
+Did he save me from the brink of death in order to protect himself―――?
 }
 [sha:c81c5ee19b21d6fc7c1a01d89858da0b98293cbb]{
 -- Page 35, Offset 35339.
 -- 「……でも、それなら」
-"But if he really did..."
+"But if that's what happened..."
 }
 [sha:a1db455c87aa518bf7ea834bf162b984fd4637a2]{
 -- Page 35, Offset 35340.
@@ -644,22 +665,23 @@ Then it all makes sense.
 [sha:4f08e76396271438cc6722feec209fd097c5ecb3]{
 -- Page 35, Offset 35341.
 -- 問題は解決していないが、とりあえずの窮地はしのげたという事だ。
-It doesn't mean that the problem's completely resolved now, but I managed to escape from my current predicament.
+I'm not completely out of the woods yet,
+ but at least that's one problem out of the way.
 }
 [sha:12e624aa74782c97b18a1eeac3890ad3be17bc80]{
 -- Page 36, Offset 35342.
 -- 「……ぷ。
-"...Pfft.
+"%{i}Pfft%{/i}.
 }
 [sha:090e52b192d4ebb42704f8924a2ad468582b96da]{
 -- Page 36, Offset 35343.
 -- ぷぷ、あははははははははは！」
-Pfft, ahahahahahahahahaha!"
+%{i}Pfft%{/i}, %{i}ahahahahahahahahaha%{/i}!"
 }
 [sha:ebaf8208eb8bc60665326cea30825cca739c452e]{
 -- Page 36, Offset 35344. Mods: @n.
 -- 「っ、ノエル！
-"Tsk, Noel!
+"%{i}Tsk%{/i}, Noel!
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 36, Offset 35345. Glued.
@@ -684,22 +706,23 @@ I can't sense her presence either.
 [sha:12de8f9a6f15f4252e134181d9ea943cfde43973]{
 -- Page 37, Offset 35349.
 -- いや、そもそも―――ここは、どうしてこんなに暗いんだ？
-But more importantly―――why is this place so dark?
+No, first things first――why is this place so %{i}dark%{/i}?
 }
 [sha:049399f663da4eb9c2ed8c3f73edd3dfbbaebeca]{
 -- Page 38, Offset 35350.
 -- 「ロアのおかげか……？　とか、おっかしーぃ！
-"You really thought Roa protected you...? How hilarious!
+"You really thought Roa saved you?
+ Oh, that's rich!
 }
 [sha:f59b8f6daa0c69a5d27033831831930a71b60dfd]{
 -- Page 38, Offset 35351.
 -- あんなヤツ、わたしが許すワケないじゃない。
-There's no way I would put up with a guy like him.
+There's no way I'd put up with a guy like him.
 }
 [sha:74d8bdde50064b11b9e336283e6b9f0fa4a234fe]{
 -- Page 38, Offset 35352.
 -- ここにいるのはアナタだけよ、志貴クン」
-The only one here is you, Shiki-kun."
+The only one here is %{i}you%{/i}, Shiki-kun."
 }
 [sha:ea6c377e596528ec8eb8f6a9306a5fa1b5aaa052]{
 -- Page 38, Offset 35353.
@@ -709,37 +732,40 @@ The only one here is you, Shiki-kun."
 [sha:917e82dd67c2b25a2f1dfe9611ad86926c629a2c]{
 -- Page 38, Offset 35354.
 -- 不安から声をあげる。
-I raise my voice in unease.
+Unnerved, I raise my voice.
 }
 [sha:b2204aaa195c2c4424016507aa9fe13b3ec5c279]{
 -- Page 39, Offset 35355.
 -- 「えー。何処ってまだわからない？
-"Ehh? You mean you still don't know where you are?
+"Whaaat?
+ You mean you still haven't realized where you are?"
 }
 [sha:f0b17641bd93e5a35b0407de415c4cd204b9d21a]{
 -- Page 39, Offset 35356.
 -- もー、仕方ないなぁ。はい、特別サービスね？」
-Oh well, what can you do? Here, how about I give you a special service?"
+Man, you really are hopeless.
+ Here, why don't I make it obvious for you?"
 }
 [sha:fdacd752ebfca6a28d76627425b37bb7c3dfef50]{
 -- Page 40, Offset 35357.
 -- 視界に広がっているのは、元の瓦礫の広場だった。
-The only thing in my sight is the field of rubble from earlier.
+// Tunnel vision simulator 2023
+Suddenly, the field of rubble from earlier spreads out before me.
 }
 [sha:959dee06fdb1a6303a84dd10a4f96bf6c5fbfb0b]{
 -- Page 40, Offset 35358.
 -- 死者の群れと、
-The swarm of Dead―――
+I can see the swarm of the Dead―――
 }
 [sha:13bba4de519638367aadee1079134c912a73f78e]{
 -- Page 40, Offset 35359.
 -- 串刺しにされたままのシエル先輩と、
-Ciel-senpai, who has been skewered―――
+The skewered figure of Ciel-senpai―――
 }
 [sha:1999869868b1f43ef6e5da38cf5766c538a0934f]{
 -- Page 40, Offset 35360.
 -- 地面に膝を突いた俺がいる。
-and me, kneeling down on the ground.
+And my own collapsed figure, kneeling on the ground.
 }
 [sha:dcccd6677db6242a7fc612a6ec67086ac050819a]{
 -- Page 40, Offset 35361.
@@ -754,12 +780,14 @@ Wait, hold on.
 [sha:943aea8f559afc87d5fb5f162312e675db5bcf3c]{
 -- Page 41, Offset 35363.
 -- なにかおかしい。この景色は何か。
-Something's wrong. Something about this sight is off.
+Something's off. This isn't right.
 }
 [sha:889d976fef0cc670db05b12464b1cb8884b28a49]{
 -- Page 42, Offset 35364.
 -- 「―――なんだ。なんだこれ。なんだこれ―――！」
-"―――What the. What is this? What is this―――?!"
+"What the hell...
+ What the hell is this?
+ What the hell is going on―――?!"
 }
 [sha:bdd80b951b55458ac83a67bdf7c7b438ebf8e0fc]{
 -- Page 42, Offset 35365.
@@ -769,17 +797,17 @@ I start running over to Senpai.
 [sha:11fcf6d12db84a9c1f443cdf71087217b0ca09f4]{
 -- Page 42, Offset 35366.
 -- 何も変わらない。
-Nothing has changed.
+Nothing changes.
 }
 [sha:4f0d7e4c9dcd509531a2eda103320a2732a27422]{
 -- Page 42, Offset 35367.
 -- 視界は何も変わらない。
-Everything in my sight remains as is.
+Everything in sight stays right where it is.
 }
 [sha:16f4324c5dc3f929575109e807f76246f699a806]{
 -- Page 43, Offset 35368.
 -- かわりに、ドン、と何かにぶつかった。
-Instead, I slam into something with a thud.
+Instead, I slam headfirst into something.
 }
 [sha:0c3c33dcc9927c98c394101dd85d558cf9dd47c8]{
 -- Page 43, Offset 35369.
@@ -789,47 +817,50 @@ There's a transparent wall in front of me.
 [sha:ac26804e56bd02134c761a1879891e531ebb8a76]{
 -- Page 43, Offset 35370.
 -- 決して破壊できない、逃げだせない、世界の果てのような壁。
-A wall that cannot be broken or traversed, as though signifying the edge of the world.
+// Flat earth confirmed?!
+A wall that cannot be destroyed or circumvented.
+ A wall that may as well be the edge of the world.
 }
 [sha:e8b11dc44a15b682fad1f713734d417f8f9ac6ec]{
 -- Page 44, Offset 35371.
 -- 右手を振りかぶるがナイフはない。
-I hold out my right hand, but my knife isn't there.
+I brandish my right hand, but my knife is gone.
 }
 [sha:02b950092f3bcf75bdde3960f7ff7d95f6931209]{
 -- Page 44, Offset 35372.
 -- そもそも死の線が何一つ視えていない。
-In the first place, I don't even see a single line of death.
+In fact, the lines of death are gone too.
 }
 [sha:ff624b646dadbdacb4728a71da7d21a4f0809440]{
 -- Page 44, Offset 35373.
 -- 胸の傷もない。
-The scar on my chest has disappeared too.
+The scar on my chest is gone.
 }
 [sha:117a60365f5e528a6658d97329952b8f3a2a66c4]{
 -- Page 44, Offset 35374.
 -- 頭痛もない。貧血もない。
-No headaches. No anemia.
+Headaches, gone.
+ Anemia, gone.
 }
 [sha:06ddf9252ce37be348dbbead05138734df7fd429]{
 -- Page 44, Offset 35375.
 -- それと、あのおぞましい、ロアの吸血衝動が存在しない。
-On top of that, I don't feel Roa's repulsive vampiric urge.
+Even the repulsive vampiric urge I felt from Roa is completely gone.
 }
 [sha:a5bc76aaaf96c59fc3d363c32254b352f1fc68bd]{
 -- Page 45, Offset 35376.
 -- 「―――夢。
-"―――Dream.
+"―――A dream...
 }
 [sha:233708f3476e2cae55632dc6e12e47830eeed067]{
 -- Page 45, Offset 35377.
 -- 夢だ。これは夢だ。でも、」
-A dream. This must be a dream. But..."
+This is a dream. I'm dreaming. But..."
 }
 [sha:402a4b23ea01ea149d50e412ee8b4ef779d9c83a]{
 -- Page 45, Offset 35378.
 -- 起きている、という実感がある。
-It feels as though I'm fully awake.
+All my senses are telling me I'm awake.
 }
 [sha:17ad9d77e9cb26fa0e3cc671bbec7d5e5eb074b8]{
 -- Page 45, Offset 35379.
@@ -839,7 +870,7 @@ I know for a fact that this is reality.
 [sha:8d4aa3fe28688e8a5c0edd1a17389719547da31e]{
 -- Page 46, Offset 35380.
 -- ……この感覚はさっき、イヤというほど味わった。
-...I already experienced the full breadth of this terrible sensation a few moments ago.
+It's the same thing I got a sickening taste of only a few minutes ago―――
 }
 [sha:d6d17bbd87be10dd59f8f7e9f1441de8b1055d88]{
 -- Page 46, Offset 35381.
@@ -859,27 +890,30 @@ Which means I'm―――
 [sha:40313638a227b56eeeecdc730dff19c69e5e6934]{
 -- Page 47, Offset 35384.
 -- アナタの<精神|トラウマ>、いただいちゃった♥」
-I've gobbled up that trauma of yours ♥"
+// トラウマ nonsensical enough on its own that I think this ruby deserves to stay
+I've gobbled up that <soul|t r a u m a   > of yours ♥"
 }
 [sha:a12aa2f6960ca125102d8dcd7573585ec1e1e82d]{
 -- Page 48, Offset 35385.
 -- 響き渡る女の声。
-Her voice echoes.
+// Verb kinda weird with no obj imo, reified
+Her voice reverberates through the darkness.
 }
 [sha:138b9c39a7662f8b1226b36d177a50baaa3f8d3a]{
 -- Page 48, Offset 35386.
 -- ヤツの姿も気配もないのは当然だ。
-No wonder I could neither see nor sense her.
+No wouldn't I couldn't see or sense her.
 }
 [sha:2a97920bdce66b3fd07d1cbf1b3aac4285f2bf77]{
 -- Page 48, Offset 35387.
 -- 俺は今、精神だけがあの女に囚われている。
-Right now, the only part of me that she's taken captive is my mind.
+// だけ kinda odd here in EN
+Right now, my mind is being held captive by that woman.
 }
 [sha:0273792ca813d31b05c46f6a5323883754f5e092]{
 -- Page 49, Offset 35388.
 -- 「アナタの方からわたしを熱心に見てくれたでしょう？
-"You were the one who was looking at me so passionately, no?
+"You were staring into my eyes so passionately, remember?
 }
 [sha:6a10f9f2d4789d0a3c87d721db4f6965436c5e33]{
 -- Page 49, Offset 35389.
@@ -889,52 +923,60 @@ Thanks to that, I was able to imprison you within my Mystic Eyes of Roses again.
 [sha:499ead5fce98c0e54b0f5cefd3b084f14bd7404d]{
 -- Page 49, Offset 35390.
 -- さっきはわたしの記憶だったけどぉ、今度は魔眼そのものに<精神|なかみ>をずきゅゅゅゅゅゅうん！
-Back then, you were inside my memories, but this time, you've gone inside my eye itself, like zukyuuuuuuuuun!
+// ずきゅうん seems to be like a kiss / heart eyes / swoon kinda sound?
+// Goddamn onomatopoeia
+Back then, you were inside my memories,
+ but this time, I've sucked you straight into my eyes themselves!
+ Ooh, it was love at first %{i}sight%{/i}!
 }
 [sha:d9d1d96aaa30545248be66fac225d73811836bf1]{
 -- Page 49, Offset 35391.
 -- かくして志貴クンの精神はこっち側に！
-And thus, your mind has been brought over to this side!
+So you see, your soul has been trapped in here!
 }
 [sha:252f32e5287dc80d8e2083482a36939a11c2b209]{
 -- Page 49, Offset 35392.
 -- 外に遺された肉体には、言うまでもなく―――」
-As for your body, which is still outside, you can probably imagine―――"
+As for the body you left behind, well, you can probably imagine―――"
 }
 [sha:8b07f3ce792d9bef3a15b21736022da981eb5117]{
 -- Page 50, Offset 35393.
 -- のそり、と傷ついた遠野志貴が立ち上がる。
-Tohno Shiki's wounded body begins to slowly rise up.
+The wounded body of Tohno Shiki slowly staggers to its feet.
 }
 [sha:3f699fcb24c67ee339939b1acd96d84cc1a1f6b1]{
 -- Page 50, Offset 35394.
 -- ソレはニタリと笑うと、死者のような緩慢な足取りで、シエル先輩に向かって歩き出した。
-In a sluggish gait reminiscent of the Dead, he walks toward Ciel-senpai with a smirk on his face.
+With a smirk on its face,
+ it begins to stumble towards Ciel-senpai,
+ walking with the same shambling gait as one of the Dead.
 }
 [offset:35395]{
 -- Page 51, Offset 35395.
 -- 「ま―――」
-"No————"
+"No———"
 }
 [sha:f9839c1099e60b84692df54086e98a6e8b807ea0]{
 -- Page 51, Offset 35396.
 -- 「当然。志貴クンがこっちにいるんだから、あっちにいるのはロアだけよね？」
-"But of course. You're the only one here, so isn't it obvious that Roa would remain on the other side?"
+"What did you expect?
+ If you're in here, the only one left in that body is Roa, right?"
 }
 [sha:20e35451e3995322f3f675271674dc2b2ebc3715]{
 -- Page 52, Offset 35397.
 -- 遠野志貴が歩いていく。俺を置いて歩いていく。
-Tohno Shiki continues to walk. He walks while leaving me behind.
+Tohno Shiki continues to walk.
+ He's walking away without me.
 }
 [sha:53ac2c210fccaf8033ad89e2b794be8a3ebabfc9]{
 -- Page 52, Offset 35398. Mods: @n.
 -- その先には、
-Meanwhile, over in that direction―――
+And in front of him――
 }
 [sha:7a4d92aa8ff9c7e3ffc8e788cfb29e6f214fd9f1]{
 -- Page 52, Offset 35399. Glued.
 -- もう動く事のない先輩が、
-Senpai is there, unable to move any longer.
+Is the motionless figure of Senpai.
 }
 [sha:463c64e4ef86d117130856e933a3ccacc7839e94]{
 -- Page 53, Offset 35400. Mods: @n.
@@ -944,7 +986,7 @@ Senpai is there, unable to move any longer.
 [sha:4f7da301aa23b98b2e61fd51505bffca573aaae1]{
 -- Page 53, Offset 35401. Glued.
 -- やめろーーー！
- stop————!
+ stop———!
 }
 [sha:2a6b44251ba344b4493a334a9ba422a9081d4dae]{
 -- Page 53, Offset 35402.
@@ -955,22 +997,25 @@ Please, Senpai, you need to get out of there―――!"
 -- Page 53, Offset 35403.
 -- 眼球の壁を叩く。
 // what a line
-I strike at the walls of her eyeballs.
+// balls to the wall? No, walls of the balls
+I hammer at the surface of her eyeballs.
 }
 [sha:7def4d76ee05a110c1d067608f056d969f643b28]{
 -- Page 53, Offset 35404.
 -- 壁は震えるどころか、打撃音さえしなかった。
-Not only is the wall refusing to budge, I can't even hear the sound of my fists striking them.
+But the wall before me doesn't budge.
+ It doesn't even make any noise as I beat my fists against it.
 }
 [sha:6d7b6030052437b7509ecb13a3c30dd4cdefd441]{
 -- Page 54, Offset 35405.
 -- 「見て見て、ほらちゃんと見て！
-"Hey, come on, take a good look!
+"Hey, come on, you're gonna miss the good bit!
 }
 [sha:2ef9cc43f6b110361fe9647b65bfe7ea180b301c]{
 -- Page 54, Offset 35406.
 -- あの女は志貴クンの手で八つ裂きにされて、ロアに全てを奪われるの！
-That woman is being torn limb from limb by Shiki-kun, and Roa is going to take everything she ever cared about from her!
+That woman's going to be torn limb from limb by Shiki-kun,
+ and Roa is going to steal everything she ever cared about from her!
 }
 [sha:3ff22423ff359ab8b5e2f4212f329a3ffcd5f009]{
 -- Page 54, Offset 35407.
@@ -980,7 +1025,7 @@ What do you think? Pretty decent punchline, right?"
 [sha:53b269b12e486bf20de87f9707f9d5374536eac6]{
 -- Page 54, Offset 35408.
 -- 耳を塞ぎたくなるような、甘い笑い声が響く。
-Her laugh is so joyful that it makes me want to plug my ears.
+Her sickly sweet laugh makes me want to plug my ears.
 }
 [sha:3a2eb6295bac43aa2b1279dbafdcc02316c79b7e]{
 -- Page 55, Offset 35409.
@@ -990,7 +1035,9 @@ Her laugh is so joyful that it makes me want to plug my ears.
 [sha:4e114d7e84d2b1c4a1e518d0832541bd000d3860]{
 -- Page 55, Offset 35410.
 -- 出せ、出せ……！　チクショウ、出せ……！」
-Let me out. Let me out...! Damn it, let me out...!"
+Let me out.
+ Let me out!
+ Let me out, goddamn it...!"
 }
 [sha:a98fc03cc1f02a2679f4d88657d008b59e56fd02]{
 -- Page 56, Offset 35411.
@@ -1000,7 +1047,7 @@ The dissection begins right before my eyes.
 [sha:894316ebd99a83fc6c672771b3f6bb3945bf7969]{
 -- Page 56, Offset 35412.
 -- ナイフはなめらかに先輩の肉を捌いていく。
-The knife cuts smoothly through Senpai's flesh.
+His knife cuts smoothly through Senpai's flesh.
 }
 [sha:f3a06bfa14192d00c7c832b52b13dfd6cc7d6df2]{
 -- Page 56, Offset 35413.
@@ -1010,12 +1057,12 @@ Carefully. Slowly.
 [sha:6e6d0a38d0378f23be456095b17f0d578d8d13b5]{
 -- Page 56, Offset 35414.
 -- 獲物の苦痛を、味わうように。
-As if relishing in the anguish of his prey.
+As if he's relishing in the anguish of his prey.
 }
 [sha:9282a6a12851e9a1ea9e1ade8b4345804cd18566]{
 -- Page 57, Offset 35415.
 -- 「ああああああああ！
-"AAAAAAAAAAH!
+"%{i}AAAAAAAAAAH%{/i}!
 }
 [sha:5660f49ba1f6d67e1b188508d80e13501f7fa503]{
 -- Page 57, Offset 35416.
@@ -1030,27 +1077,28 @@ I'm begging you, let me out of here, Noel-sensei...!"
 [sha:0412e6585a28640942942c647180dac8abc66596]{
 -- Page 58, Offset 35418.
 -- 精神だけになっても傷はつくのか。
-So I can still feel pain, even though only my mind has been transported here, huh.
+Even though I'm a disembodied spirit,
+ I guess I can still feel pain.
 }
 [sha:9187fad82b7cd522743b43b5e595eb77e03652d6]{
 -- Page 58, Offset 35419.
 -- 壁を叩く腕は拳の根本から折れていた。
-The arm I was using to bang on the wall is broken from the fist up.
+The arm I was using to bang on the wall has snapped at the wrist.
 }
 [sha:281b9ffcee798814bafbb63192e0f048f3acdc48]{
 -- Page 58, Offset 35420.
 -- それでも壁を叩き続けずにはいられない。
-And yet I can't help but continue banging on the wall.
+Even so, I can't stop myself from pounding it against the wall.
 }
 [sha:1d10058f683e83a262fcc3e102aefb36be8fc293]{
 -- Page 58, Offset 35421.
 -- いま<目|・><の|・><前|・>で起きている惨劇を、どうか止めてくださいと縋るしかない。
-I can do nothing but beg for her to stop the tragedy unfolding before my eyes.
+All I can do is beg her to stop the slaughter unfolding before my eyes.
 }
 [sha:429b290c1dbf7d5aa83e592192f620c575d3ce15]{
 -- Page 59, Offset 35422. Mods: @n.
 -- 「――――ああ、たまんない
-"――――Ah, I can't get enough of this
+"―――Ah, I can't get enough of this
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 59, Offset 35423. Glued.
@@ -1060,32 +1108,36 @@ I can do nothing but beg for her to stop the tragedy unfolding before my eyes.
 [sha:947805c00df1e836985f9094090a35f7ca3d6436]{
 -- Page 59, Offset 35424.
 -- これが吸血鬼の愉しみ……魂を陵辱するって、こういうコトなんだぁ……」
-So this is a vampire's pleasure... This is what it means to utterly degrade a soul."
+So this is what vampires do for fun...
+ This is how it feels to utterly violate a soul..."
 }
 [sha:2444c570c68a6c39719ffd9777609330af9220d3]{
 -- Page 60, Offset 35425.
 -- 陶酔する声が響く。
-Her voice is filled with overflowing ecstasy.
+Her voice is dripping with ecstasy.
 }
 [sha:f173eefb699e7fc5a23113843d8e5112ca254d79]{
 -- Page 60, Offset 35426.
 -- どれほど縋っても、何を捧げても、吸血鬼は俺の願いを聞き届けない。
-No matter how much I beg, or what I offer in return, the vampire refuses to grant my wish.
+No matter how much I beg,
+ no matter what I offer her in return,
+ this vampire will never grant my wish.
 }
 [sha:8031407e2cd2263e48182fb8898f4257a4459f9b]{
 -- Page 60, Offset 35427.
 -- それは、あの悪夢の中で思い知った事実だった。
-I've finally realized that I'm within a terrible nightmare.
+That much was made clear to me in that hellish nightmare I witnessed.
 }
 [sha:0e587b4a8a2f7a8433e94f6a631c3e35bd60ca12]{
 -- Page 61, Offset 35428.
 -- 「あ―――ああ、ああああ―――」
-"Ah―――aah, aaaah―――"
+"%{i}Ah%{i}――%{i}aah%{i}, %{i}aaaah%{i}―――"
 }
 [sha:23c1f02a43b2752bb2413ac7d3f2ce7bf9d961f8]{
 -- Page 61, Offset 35429.
 -- 無力さに泣き崩れる。
-Realizing my own helplessness, I break down and start crying.
+Overwhelmed by my own helplessness,
+ I break down in tears.
 }
 [sha:d58f7464cef5b9f94a0cd528395c0496e1b8f776]{
 -- Page 61, Offset 35430.
@@ -1095,57 +1147,66 @@ There isn't a single thing that I can do―――
 [sha:ebd64d62295a0aac9361aa98ee3d988161be6d88]{
 -- Page 62, Offset 35431.
 -- 「いいえ。そんなに自分を下げちゃダメよー？
-"No. There's no need to be depracating yourself so much, you know?
+"Nuh-uh.
+ Don't go selling yourself short, okay?
 }
 [sha:d733d2cb538c92cf1cb91bbc0000c3f9c2985dc3]{
 -- Page 62, Offset 35432.
 -- だって、わたしに飼われているかぎり、できること、やるべきことは沢山あるんだから」
-Because as long as you're my pet, there are lots of other things that you can and should be doing."
+See, as long as you're my pet,
+ I've got all sorts of things you can and %{i}should%{/i} be doing."
 }
 [sha:8de7de265f8a040a52ac0ca4e7dda0d42f1dbe44]{
 -- Page 63, Offset 35433.
 -- 「アナタには自分の<過去|トラウマ>を見せてあげる。
-"I'll let you witness your own trauma.
+"I'm going to let you re-live all your past traumas.
 }
 [sha:3b17b17a355635bc6d49f16b91814a609375d218]{
 -- Page 63, Offset 35434.
 -- 任せて、同じ展開なんてさせないから。
-Leave it to me! I won't let the same thing happen twice, after all!
+// I guess as in "Don't worry! I'll make it even worse!"?
+And don't worry, I'll be sure to spice it up to keep things interesting!
 }
 [sha:99a24ff093990d6d8e7b5613d1cb35451235ca86]{
 -- Page 63, Offset 35435.
 -- 犠牲者がひとりだったら、次はふたりに。
-If there was a single victim before, then this time, I'll make it two.
+If there was a single victim before,
+ then this time there'll be two.
 }
 [sha:f26e418b52bc44d4638d80e0b9b14242d2abc364]{
 -- Page 63, Offset 35436.
 -- 指を一本失うなら、次は二本に。
-If you lose one finger, then next time, it'll be two.
+If you lost one finger before,
+ then this time you'll lose two.
 }
 [sha:954e160821529104cac0da8c01e8aadd7615698c]{
 -- Page 63, Offset 35437.
 -- 思い出すだけで心が削られる思い出を、少しずつ少しずつ、より悲惨な<過|も><去|の>に変えていって―――」
-Slowly but surely, I'll take those memories that tear at your heart, and turn them into something even more miserable―――"
+Slowly but surely,
+ I'll take all those painful memories that tear at your heart,
+ and warp them into something even more miserable―――"
 }
 [sha:f98e30c6187edbe0c59102a6cb7010dd38e36eac]{
 -- Page 64, Offset 35438.
 -- 「ひとかけらの救いもない“思い出”になったら、それが本物なんだって、アナタの過去に組み込むの。
-"Once it turns into a memory devoid of even the slightest trace of hope, only then does it meld with your past, becoming the real thing.
+"Once I've stripped every last shred of hope from these 'memories',
+ I'll merge them back into your past, and they'll become your new reality.
 }
 [sha:4b648f5deb3dcfd8eb4c7391d227cd3642007761]{
 -- Page 64, Offset 35439.
 -- それでもまだ心が壊れなかったら―――」
-But if your heart still isn't broken by then―――"
+And if you're heart still isn't broken after that―――"
 }
 [sha:16969b622614acb7201242d470f9638ff136ea3f]{
 -- Page 65, Offset 35440.
 -- 「その時はもっと酷い地獄を用意してあげる。
-"I'll make sure to prepare an even more excruciating hell for you.
+"Well, I'll just have to prepare an even more excruciating hell for you.
 }
 [sha:f031b1b1a43bbdb038f21a6b4f3935d42fec49ab]{
 -- Page 65, Offset 35441.
 -- 愉しみね、わたしの愉快な暇つぶしさん？」
-Isn't this exciting? You and I are going to be spending lots of time together, little play thing of mine."
+Aren't you excited?
+ We're going to be spending a lot of quality time together, my little plaything."
 }
 [sha:2db1cc76107fd6c49444a63a929f7d7d26f16a05]{
 -- Page 66, Offset 35442.
