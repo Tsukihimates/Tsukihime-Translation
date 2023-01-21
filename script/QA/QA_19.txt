@@ -50,7 +50,8 @@ absolutely meowvellous.
 [sha:cc83888b6aad3bcb622174c5c5c608b8738620ba]{
 -- Page 146, Offset 43588.
 -- プロの仕事っつーか。
- Is she a pro or something?
+ Is she a pro or %{n}
+something?
 }
 [sha:15258dccdc933944a2904a593ff9e8392897db49]{
 -- Page 147, Offset 43589.
@@ -132,12 +133,12 @@ trump card against Tohno Shiki.
 [sha:dd007e5f563fa9f5a8301078c0a077b69673aafc]{
 -- Page 155, Offset 43604.
 -- なるほどなー。ライバルの<バーガー屋|ショップ>が９割引するなら
-Ah, I get it. If your competitor starts offering a 9%%{n}
+Ah, I get it. If your competitor starts offering a%{n}
 }
 [sha:1f3c8a30b7d53b4a685eba6c86e061fa5e94a4b3]{
 -- Page 155, Offset 43605.
 -- うちも９割引するしかないじゃん、みたいな。
-discount, then you have no choice but to start%{n}
+9% discount, then you have no choice but to start%{n}
 offering one too.
 }
 [sha:4b16a00235aba78e78b971d85c84813504919bfc]{
