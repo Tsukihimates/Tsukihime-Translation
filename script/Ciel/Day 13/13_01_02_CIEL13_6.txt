@@ -1,7 +1,16 @@
 [sha:35e663a70578eb51b405f3b41331a4bcf414fc88]{
 -- Page 10004, Offset 35555.
 -- 瓦礫の谷間から抜け出して、陥没した大地の中心に戻る。
-I slip out of the valley of rubble and return to the center of the collapse.
+// 谷間 has come up a couple times now -
+// The geometry of this place is kinda weirdly described. 谷間 makes me assume
+// it's below grade of the main pit zone, but doesn't make sense to me how that
+// would work if it's on the outskirts, which seems likely based on the fact
+// it has the more intact bits of the old depaato?
+// Maybe it's just more figurative, in that the still-structural bits provide
+// some recessed hidey holes for stashing bodies in? Seems like 谷間 _can_ be
+// read along the lines of 'blind spot', which seems a more apt interpretation
+// here as best I can tell?
+I slip out from the cover of the ruined buildings and return to the center of the collapse.
 }
 [sha:578eda33bf6ecbaa8e41030895077ac50f65e0bb]{
 -- Page 10004, Offset 35556.
@@ -31,7 +40,7 @@ Have you given up? Or have you come to beg for your life?
 [sha:1a9c5cb778b74e005e683ab22457ef536dedc91b]{
 -- Page 104, Offset 35561.
 -- どっちにしろ、楽しいウサギ狩りはここまでかしら？」
-Regardless, it seems like this is the end for our exciting little rabbit hunt."
+Either way, I suppose this is the end of our exciting little rabbit hunt?"
 }
 [sha:09325ea21a74622fbb5570e7aa7971106694c277]{
 -- Page 104, Offset 35562.
@@ -41,17 +50,20 @@ There's no way she'd ever let that happen.
 [sha:ae7f6a771c31996af267497a3ab849cefcc9f6fc]{
 -- Page 105, Offset 35563.
 -- 周囲を鉄柵で封鎖し、吸血鬼はトン、と軽い足取りで地上に降りてきた。
-Barricading the surrounding area with her iron fences, she descends gently onto the ground.
+After cutting off any means of escape with her iron fences,
+ the vampire alights softly on the ground.
 }
 [sha:45f5e5e079901bc16249504655d01d09c410349a]{
 -- Page 105, Offset 35564.
 -- 俺と同じ視点。―――今の俺が踏み込めば２秒で到達できる、目と鼻の先の荒れ地に。
- We're standing at the same altitude. ―――With my current abilities, I can close the distance between us and make it to that wasteland in two seconds.
+We're standing on even footing now.
+ With my current abilities, I could cross this wasteland and reach her in about two seconds.
 }
 [sha:06082e274d4dd99700023fa4debb29b51fdc80dc]{
 -- Page 106, Offset 35565.
 -- 「うんうん、お荷物は暗がりに落としてきたのね。
-"I see. You dropped off your luggage in the darkness, didn't you?
+"I see, I see.
+ You dropped off your luggage somewhere in the shadows, didn't you?
 }
 [sha:ac82ce446e9062f2620101460caa23686899b357]{
 -- Page 106, Offset 35566.
@@ -66,7 +78,7 @@ Very good. I'm glad you made the right choice. I guess that means you've still g
 [sha:ee4360e6e8f928a3cc3b8f218a0a200284f80236]{
 -- Page 107, Offset 35568.
 -- 身構えながら相手の隙をうかがう。
-I search for an opening while preparing myself.
+I stay on my toes as I watch for an opening.
 }
 [sha:2830547984152599ec09a0824ebd67d0664864a0]{
 -- Page 107, Offset 35569.
@@ -76,52 +88,64 @@ The battle has already begun. She may be speaking in a friendly tone, but her wo
 [sha:77d3866ddd3a8c3b89db781b947cc5b2fd4f70ec]{
 -- Page 108, Offset 35570.
 -- 吸血鬼を見据えながら、横目で周囲を確認する。
-While focusing on the vampire, I confirm my surroundings through my peripheral vision.
+Without taking my eyes off the vampire,
+ I quickly take stock of my surroundings.
 }
 [sha:faef05fcd59fb140fa6cf586796c95bbc471950d]{
 -- Page 108, Offset 35571.
 -- 俺の移動に追いつけたのはノエルだけだ。死者の群れはこちらを目指しているが、到着まであと数分かかるだろう。
-Noel was the only one who could keep up with my movements. The swarm of Dead is heading in our direction, but I should have another few minutes before they arrive.
+Noel was the only one who could keep up with me.
+ The swarm of Dead is headed this way, but it'll probably take them a few minutes to get here.
 }
 [sha:38783111a711c00658fba1148f8664e820b0f936]{
 -- Page 109, Offset 35572.
 -- まわりに打ち込まれた凶器は１メートル間隔で突き刺さり、鉄柵となって俺を取り囲んでいる。
-The spears in the ground have been plunged one meter apart from each other, creating an iron fence that's enclosing me.
+The spears hemming me in have been driven into the earth at one meter intervals,
+ creating a circular iron fence.
 }
 [sha:0747dc944618adb453d8812e433d0973c81c60cf]{
 -- Page 109, Offset 35573.
 -- 大きさにして直径40メートル近い円形の囲いだ。
-The round enclosure has a diameter of roughly forty meters.
+The enclosed area has a diameter of about forty meters.
 }
 [sha:e0639a742e9c2e0f5ed4107c198a143e3ea8b3b6]{
 -- Page 110, Offset 35574.
 -- ……跳び越せない事はないが、鋭敏化した五感がそれは罠だと告げている。
-...I should be able to jump over them, but my heightened senses are telling me that it's a trap.
+I could easily jump over them, but...
+ my sharpened senses are telling me they're a trap.
 }
 [sha:267a7cfd79d5e2feb4af766db0ee4c26c56f999b]{
 -- Page 110, Offset 35575.
 -- たとえば音波妨害。先ほどの魔眼ほどではないにせよ、脳を揺らされれば思考と平衡感覚が狂わされる。
-For example, those obstructive sound waves. They aren't on the level of her Mystic Eyes, but it'll disrupt my sense of balance if they jolt my brain.
+// Vampire Havana syndrome
+Probably something to do with sonic interference.
+ Even if it isn't as bad as her Mystic Eyes,
+ I'm sure it'd still be enough to scramble my thoughts and knock me off-balance.
 }
 [sha:988683329599d2215ed6d60aad5b276436338528]{
 -- Page 110, Offset 35576.
 -- そうなれば俺はただの<的|マト>だ。あっさり心臓を串刺しにされてしまう。
-If that happens, then I'd be easy pickings for her. She'd skewer my heart in an instant.
+If that happened, I'd be a sitting duck.
+ She'd skewer my heart in an instant.
 }
 [sha:d0056ac339cc1cd25c8f7ac9583249bdccd26b67]{
 -- Page 111, Offset 35577.
 -- おそらく、これがあの凶器の本来の用途なんだろう。
-Perhaps that's the true purpose of her deadly weapon.
+// As in あの凶器 is the spires, and they're more intended for confining than kabobing?
+There's a good chance this is the intended purpose of those spires.
 }
 [sha:735917d1da1dbe011c9745f7ac575f318f5938af]{
 -- Page 111, Offset 35578.
 -- ノエルの根底にあるのは『軟禁の責め苦』だ。
-Basically, the idea of 'torture through confinement' lies at the core of Noel's being.
+Noel's worldview is rooted in the idea of 'torture through confinement'.
 }
 [sha:2a745c1d730e4bba2d08d95ec2ac790607a39ddc]{
 -- Page 112, Offset 35579.
--- ある程度の広さを持つ牢獄に閉じこめられ、緩やかな地獄を見せつけられた事が<異能|のろい>の原型になっている。
-The concept of being locked up in a narrow prison, only to be shown a gentle hell has served as a prototype for her <abillity| c u r s e>.
+-- ある程度の広さを持つ牢獄に閉じこめられ、緩やかな地獄を見せつけられた事が<異能|のろい>の原型になっている。j
+// Is this 緩やかな地獄 supposed to be a gentle hell? Or a gentle _descent_ into hell? 緩やか is attached to the noun,
+// but does that make sense in context?
+Her <ability| c u r s e   > is modelled on the idea of being locked in a relatively spacious prison,
+ only for it to gradually warp into a vision of hell.
 }
 [sha:0e739276739b287524e1631881e5121c92c7aff9]{
 -- Page 112, Offset 35580.
@@ -131,17 +155,21 @@ The only way to escape this circle is to eliminate her, the source of it all.
 [sha:21d8a1bde480a94590046539d7b434021d380ad4]{
 -- Page 113, Offset 35581.
 -- 「あら、怖い怖い。眼鏡をとったってコトはぁ、わたしを殺す気になったってコトよね？」
-"Oh my, how scary. If you're taking off your glasses, then that must mean that you're going to try to kill me, doesn't it?"
+"Ooh, I'm quaking in my boots.
+ If you're taking off your glasses,
+ then that means you've decided to try and kill me, doesn't it?"
 }
 [sha:7ef5374467badaa1e0ff8689e7d3b25d8f2660c2]{
 -- Page 114, Offset 35582.
 -- ―――これで、後は殺し合うだけになった。
-―――Now all that's left is to fight her to the death.
+―――From here on out, this is a fight to the death.
 }
 [sha:d52af8812ebb84060ebf5e25e5f1666910e036d3]{
 -- Page 114, Offset 35583.
 -- わずかな判断ミス、わずかな運の差で俺は殺される。
-Even the slightest mishap or error in judgment will lead to my certain death.
+If I make a single mistake,
+ or luck just isn't on my side,
+ I'll be killed.
 }
 [sha:8f3eb69a512efd94c21773a42ba94d06f3af9cc4]{
 -- Page 114, Offset 35584.
@@ -151,17 +179,19 @@ Am I afraid...?
 [sha:23286a8ca3571bdcb736152dfcb1c4de10064e50]{
 -- Page 114, Offset 35585.
 -- 恐ろしいとも。ヴローヴと向かい合った時でさえ、ここまでは怖くなかった。
-Perhaps I am. Even when I fought Vlov, I didn't feel this terrified.
+Of course I am.
+ I'm even more afraid of her than I was of Vlov.
 }
 [sha:051838054fdb26b23eea27b8e9ca6ce9e55c3830]{
 -- Page 115, Offset 35586.
 -- 互いの戦力差だけでなく、あの少女の内情を見てしまった。
-It's not just because of our difference in strength, but also because I've seen what it's like within her mind.
+It isn't just the difference in strength that terrifies me――it's that I've seen what's going on inside her mind.
 }
 [sha:8caeae86b0a5bc7dccc06157801c827d8aaeeacd]{
 -- Page 115, Offset 35587.
 -- 俺はあの吸血鬼を根本から憎む事はできず、それは明確な敗因に繋がるだろう。
-I can't bring myself to truly despise her, and that'd normally lead to my certain defeat.
+I can't bring myself to truly despise her,
+ and under normal conditions that would spell certain defeat for me.
 }
 [sha:e07805e61ffda0e4afe2a0598410e1f451253f81]{
 -- Page 115, Offset 35588.
@@ -176,17 +206,22 @@ Noel holds a single deadly weapon in her hand.
 [sha:7fd153d675f8e254ae95f4173826da7995c19f80]{
 -- Page 116, Offset 35590.
 -- ……これまでさんざん撃ち込んできた鉄串だ。その気になれば複数操れるだろうに、今は一本で十分だと笑っている。
-...It's one of those iron skewers she's been firing at me the entire time. If she so pleased, she'd be able to use several at the same time, but right now she's smiling at me as though saying that one is enough.
+It's one of those skewers she's been firing at me this entire time.
+ If she wanted to she could probably wield several at the same time,
+ but the smile on her face seems to say that one is enough.
 }
 [sha:3467e9c0f44800bab5450e53b33cdc980353beff]{
 -- Page 117, Offset 35591.
 -- 「知ってるわ。キュウソネコを噛む、でしょ？
-"I get it. 'A cornered rat will bite a cat', right?
+"Ah, I've got it!
+ 'Despair makes cowards courageous', right?
 }
 [sha:0bb0fb99b5686b35febfcf77ddffe4a8461cefac]{
 -- Page 117, Offset 35592.
 -- あ、それはダメか、わたし負けちゃうもの。えーと、この場合はシチュウに活ありってヤツ？　ま、どっちでもいっか。
-Ah, wait, that one implies that I'm going to lose. Hmm... perhaps 'searching for an oasis in the desert' would be more apt? Well, who cares.
+Oh, hold on, that would imply that I'm going to lose.
+ Hmm... maybe 'searching for an oasis in the desert' would be more apt?
+ Well, who cares.
 }
 [sha:77640816ab302dd7eabee29c0c1b5e1b2bc0c2c8]{
 -- Page 117, Offset 35593.
@@ -196,72 +231,91 @@ The real question is... how do I wipe that confident look right off your face?"
 [sha:a407b30c017cc3204b6419950704232c8c85fc19]{
 -- Page 118, Offset 35594.
 -- ……来る。武器の有利不利、身体能力の差はどうあれ、受けるのは二回が限界だ。
-...She's coming. Regardless of the disadvantages and advantages of our respective weapons, and the difference in our strengths, the fact of the matter is that I can only take two hits at most.
+She's coming...
+ Regardless of how our weapons stack up,
+ or how different our physical abilities are,
+ one fact remains: I can only to take two hits at most.
 }
 [sha:ebf28153f2ba6da3f73c72029ff3075b9fc6be41]{
 -- Page 119, Offset 35595.
 -- 俺はナイフを順手に握り、重心を<両踵|かかと>に預け、
-I clench my knife with an overhand grip and shift my center of gravity toward my heels.
+// Found this amusing reference for JP names of grip styles (nsfw)
+// https://twitter.com/moon_right007/status/1238794255482511361
+// Knife weirdos seem to generally agree that this is a hammer grip
+// (assuming he's got his thumb wrapped around his hand properly.
+Clenching my knife in a forward hammer grip,
+ I shift my center of gravity backwards―――
 }
 [sha:902b82a0bf53dcf15a4d74ba7cfcc5fce349c1be]{
 -- Page 119, Offset 35596.
 -- 「うん、まあ体罰が妥当よね。そんなナイフでどこまで持ち堪えられるか、先生が試してあげる……！」
-"Yeah, corporal punishment is only natural here. Let's see how long you can keep holding on to that knife of yours...!"
+"Yeah, I think corporal punishment fits the bill.
+ Let's see how long you can keep holding on to that knife of yours...!"
 }
 [sha:2e336b3252498cc27207782400aa9835f4181ffa]{
 -- Page 119, Offset 35597.
 -- 力まず、気を緩めず、倒れるように後方に身を流した。
-Without straining or relaxing my attention, I sweep backward as if I were falling.
+// Continuation of 35595.
+―――And without putting any strength into my movement,
+ or taking my eyes off Noel for a second,
+ I let my body teeter backwards as if I were falling over.
 }
 [sha:096dfb8e006e7e3396668c4a97c901d9c5a9adc9]{
 -- Page 120, Offset 35598.
 -- ブリッジに近い姿勢で、飛びこんできたノエルごと凶器をやり過ごす。
-Assuming a posture akin to a bridge, I let Noel slip right over me.
+With my body arched over backwards like a bridge,
+ Noel and her weapon sail right over top of me.
 }
 [sha:7f18621da5654ffbd6949df400f6551dc1d3f118]{
 -- Page 120, Offset 35599.
 -- 心臓を貫こうとする串の切っ先が鼻の先をかすめる。
-The tip of the skewer, which was aimed at my heart, grazes the edge of my nose.
+Her skewer, which had been aimed at my heart, grazes the tip of my nose instead.
 }
 [sha:5bb280ea1ec1af2140837199f371d98076f16f0d]{
 -- Page 120, Offset 35600.
 -- こわばったノエルの口元が見える。
-I can see Noel's lips stiffening up.
+I can see that her mouth is set in a grim line.
 }
 [sha:b4f7abf16490ea78eefb9a81a6e5ae29e7ff958c]{
 -- Page 121, Offset 35601.
 -- 目の前には無防備に“線”をさらけだした女の腹。
-The line on her abdomen is right in front of me, completely unprotected.
+The line on her bare, defenseless stomach is right in front of me.
 }
 [sha:25e8c30590e4f8e44421831fb11198216d749acf]{
 -- Page 121, Offset 35602.
 -- 俺は下に回りこんだ状態で、その線に狙いを定め、
-I choose to target that line from below...
+Still bent over backwards, I take aim at that line, and―――
 }
 [offset:35603]{
 -- Page 122, Offset 35603.
 -- 「っ……！」
-"...!"
+"%{i}Gah%{/i}...!"
 }
 [sha:327b47a1c09e89600cea16ee1afe1937023e4a4b]{
 -- Page 122, Offset 35604.
 -- 串を持ったノエルの肘を躱しきれず、次の瞬間には無様に弾き飛ばされていた。
-Unable to avoid the elbow of the arm holding the skewer, the next thing I know, I'm pathetically blown away.
+// Uhh assuming this is (串を持ったノエル)の肘 not 串を持った(ノエルの肘)?
+// You can't hold a skewer with your elbow
+// Slightly massaged on top of that since "The skewer-wielding Noel's elbow" is a strained construction in EN
+I was able to avoid Noel's skewer, but I couldn't dodge her elbow.
+ I'm sent flying head over heels before I even know exactly what hit me.
 }
 [offset:35605]{
 -- Page 123, Offset 35605.
 -- 「い、っ……！」
-"Ow...!"
+"%{i}Ow%{/i}...!"
 }
 [sha:84e29cd556e81579581e13389de7880fae3f9709]{
 -- Page 123, Offset 35606.
 -- 背中から地面に落ち、何度か回転して勢いを流す。
-I fall on my back before rolling a couple of times to break my momentum.
+I hit the ground back-first, rolling a couple times to blunt the impact.
 }
 [sha:2ee3634cdd2a6504c03cd04d0eaaa8a1576a6300]{
 -- Page 123, Offset 35607.
 -- 失敗した。吸血鬼化しているのはノエルだけじゃない。自分の動きが<想定|イメージ>より早すぎて、こっちから肩を当てにいくカタチになった。
-I messed up. I didn't fail solely because Noel has transformed into a vampire. I was moving even faster than I calculated, causing me to target her shoulder instead.
+I fucked up.
+ Noel isn't the only one that's turned into a vampire here.
+ My own movements are faster than I'm used to, so I ended up hitting her on the shoulder instead.
 }
 [sha:84b86b01b87317fd9d60363712dee8fd55afdb91]{
 -- Page 124, Offset 35608.
@@ -271,83 +325,108 @@ As a result, I only managed to graze her before ending up like this.
 [sha:6694b5503d7e7893b4ba31fbc8792035f3d7e838]{
 -- Page 124, Offset 35609.
 -- あの小さな体でも小型トラック並の馬力がある。反省しろ。凶器さえ躱せばいいという訳じゃない。
-Even though her body is tiny, she has the horsepower of a small truck. I need to rethink my course of action. I can't beat her just by simply dodging her weapon.
+She may be small, but she hits like a truck.
+ I need to rethink my approach.
+ That spear isn't the only thing I need to watch out for here.
 }
 [sha:0b5ea9659dcf37e8b8caba9133de8a1e40c6a22d]{
 -- Page 125, Offset 35610. Mods: @k, @e.
 -- 「すごい、マタドールみたい！　それともウツセミの術？
 // soooo first result is that 空蝉の術 is an ff11 忍法 which is literally just "Utsusemi" in the localization
-"Amazing! You're just like a matador! Or was that one of those ninja techniques?
+// Looks like this Yugioh card was localized as 'art of decoy' https://www.torecado.com/?pid=146296805
+// Generally seems like decoy / substitution is the right idea based off https://www.weblio.jp/content/%E7%A9%BA%E8%9D%89%E3%81%AE%E8%A1%93
+"Amazing!
+ It's like you're a matador!
+ Or did you master one of those ninja decoy techniques?
 }
 [sha:275d6b2413e57ce366bb0bc830a0fdc1ce98baef]{
 -- Page 125, Offset 35611. Glued. Mods: @x.
 -- ううん、違うわよね、主役はわたしなんだもの。せいぜい目障りなカトンボってところかしら？
-No, that's not right. I'm the star, after all. You're an irritating fly at best, I suppose.
+// Assuming 蚊蜻蛉 is derog colloq use here? Skinny gangly guy?
+ No, that's giving you too much credit.
+ %{i}I'm%{/i} the star here, after all.
+ You're just a gangly looking extra, aren't you?
 }
 [sha:ad900d141a4a2f478408d05b5ce71f4a67130701]{
 -- Page 125, Offset 35612.
 -- どっちにしろ面白い、素敵よ志貴クン！　今ので当たらないのなら、次はもっと少し強くいってあげる……！」
-Regardless, it's amusing all the same. That was beautiful, Shiki-kun. I couldn't hit you just now, so I'll make sure to hit you even harder this time...!"
+Either way, what a thrill!
+ That was beautiful, Shiki-kun.
+ If that attack wasn't enough to get you,
+ I'll just have to %{i}really%{/i} put my back into this next one...!"
 }
 [sha:966c228bb7fa56202084f118d3096e99bcdb5dff]{
 -- Page 126, Offset 35613.
 -- 一方、敵も似たような状況だった。
-On the other hand, it seems that the enemy is in a similar position.
+On the plus side, it seems like my opponent's in a similar position.
 }
 [sha:a750c5d77a6fb37b5df8ea589936eafafec96b3f]{
 -- Page 126, Offset 35614.
 -- 今のはノエルにとっても全力での突進だった。
-That previous assault was as fast as she could go.
+She put all the power she had behind that assault.
 }
 [sha:a488aa4e783f69f030334dac1fd3ab67ae99d1cb]{
 -- Page 127, Offset 35615.
 -- それ以外なんの<予備策|フォロー>も考えていない愚直な攻撃。躱されたあとも勢いを殺せず、鉄柵にぶつかる事でようやく止まっていた。
-It was a simple attack with no follow-up whatsoever. Even after I dodged it, I couldn't kill my momentum, so I only stopped when I crashed into the iron fence.
+It was a blind charge with no thought for what might happen afterward.
+ She wasn't even able to stop herself after I dodged it, and slammed head first into her own fence.
 }
 [sha:a9c3b323ce5e974c0e346d1cbbf3bce3f4b495e7]{
 -- Page 127, Offset 35616.
 -- 力を持て余している……いや、アレは楽しんでいるとしか思えない。
-She can't handle all of that power properly... No, it's probably because she was enjoying herself.
+She can't handle all of that power properly...
+ No, that's not it――she's just enjoying herself too much.
 }
 [sha:6ae137a15fc241ccdd764320e467c6c64b54a95c]{
 -- Page 128, Offset 35617.
 -- とはいえ、こっちも相手を笑えない。
-Still, this is no laughing matter for me either.
+Still, that doesn't mean this'll be easy.
 }
 [sha:01185b8843245d7f8da622e5884045d5a9314df6]{
 -- Page 128, Offset 35618.
 -- 肘に弾き飛ばされただけで右肩の骨が粉砕した。
-Even though she only hit me with her elbow, the bones on my right shoulder have been pulverized.
+Just being hit by her elbow was enough to shatter the bones in my right shoulder.
 }
 [sha:60016993b7824479e25f41e68c62812b11d2f5f9]{
 -- Page 129, Offset 35619.
 -- 焼くような痛みは傷の痛みではなく、傷を治す痛みだ。
-This scorching pain isn't coming from the wound itself, but rather because my body is trying to heal it.
+This burning pain isn't from having my shoulder pulverized,
+ but from having my shoulder knit itself back together again.
 }
 [sha:4b55aafb4150b19ba462d1176ea8d5c3df7e46c3]{
 -- Page 129, Offset 35620.
 -- 見なくても分かる。いま肩の内側では、砕け散った骨をヒルのような筋肉が集め、包み、強引に“元に戻して”いる。
-I can tell without even looking. Within my shoulder, the muscles are congealing around the broken bones like a swarm of leeches, wrapping around them and forcefully restoring them back to their original state.
+I can tell what's happening without even looking.
+ Inside my shoulder,
+ my muscles are latching onto to the broken bones like a swarm of leeches,
+ coiling around them,
+ and wrenching them back into place.
 }
 [sha:32c5d726da3d21413fcc23464385a5f3953960d9]{
 -- Page 130, Offset 35621.
 -- 「―――なあ。さっきから、気になってたんだけど」
-"―――Hey. There's something I've been curious about for a while."
+"―――Hey. There's something I've been wondering."
 }
 [sha:9dd92c8a25c02385949641037a508f8d7d1452db]{
 -- Page 130, Offset 35622.
 -- 数秒でいい。せめて肩が繋がるまで時間を稼ぎたい。
-A few seconds will do. I need to buy enough time for my shoulder to reconnect at the very least.
+I need to buy some time while my shoulder heals.
+ A few seconds is all I need.
 }
 [sha:082507380dfadaec8531e3a0c33da8e073028407]{
 -- Page 131, Offset 35623.
 -- 「なに？　わたしの魅力にまいっちゃった？　年下の先生って興奮しちゃう？」
-"What is it? Have you been captivated by my charms? Are you getting excited from looking at a teacher who's younger than you?"
+"What is it?
+ Are you heartbroken by my good looks?
+ Hot around the collar at the thought of a teacher that's younger than you?"
 }
 [sha:b8ac4ef4f3703b03935f67549a39ecc4b897cf0a]{
 -- Page 131, Offset 35624.
 -- 「……そりゃあ、別の意味でまいってるけど」
-"...Well, I guess I am captivated, in a completely different sense."
+// I'm assuming that Noel uses まいる as "to be madly in love",
+// and the contrast here is that Shiki is using it more like まいったー
+// in that he feels bad for her (expounded on in 35628)?
+"Well, I guess I'm heartbroken, but in a completely different sense."
 }
 [sha:115d3e909de66fcd1d894e4efe3614fa34aabca7]{
 -- Page 132, Offset 35625.
@@ -358,17 +437,26 @@ One could argue that a Dead Apostle is an 'upgraded lifeform'.
 -- Page 132, Offset 35626.
 -- 吸血鬼になる事でその身体の最適解ともいえる美貌を得る事もあるし、人間以上の快楽を与える名器にもなり得る。
 // nasu really had to write about hitting the vampussy didnt he
-Upon becoming a vampire, one's body morphs into the most beautiful form it can possibly take, creating a masterpiece that is more pleasurable than any human being.
+// > 名器 (めいき) (n) [...] (3) (vulg) excellent vagina; formidable vulva;
+// FORMIDABLE
+// So is it canon that vampires have to be hot?
+Upon becoming a vampire,
+ one's body doesn't just morph into the most beautiful form it can possibly take.
+ It becomes an erotic work of art,
+ an instrument of pleasure to which ordinary humans cannot even compare.
 }
 [sha:dbe6d620a0e7129b2ffc6d42f89ed5d3fd44d001]{
 -- Page 133, Offset 35627.
 -- 彼女の場合、美の最適状態があの外見年齢という事。
-In her case, her most beautiful form is a body of that age.
+In her case, her 'most beautiful form' is this youthful seeming body.
 }
 [sha:2fa09da737a82d5b7945a73e331f79e985cc8042]{
 -- Page 133, Offset 35628.
 -- 未成熟な時期が最適となっている時点で、動物として哀しいものを感じないでもない。
-As an animal, it's hard not to feel sad for her when her optimal form is that juvenile body.
+// Assuming this is a "dang, never got to grow up" kinda thing?
+// Best years happened early?
+This immature, undeveloped version of her represents her prime――
+as an animal, it's hard not to feel sorry for her.
 }
 [sha:e669b681d845a462c802d6bc2f44d5aabc14404f]{
 -- Page 134, Offset 35629.
@@ -378,7 +466,9 @@ As an animal, it's hard not to feel sad for her when her optimal form is that ju
 [sha:acd305a5205ffbb870a88db02657a0b26398b0b9]{
 -- Page 134, Offset 35630.
 -- アンタがロアを憎む理由は分かった。でもいいのか、こんな方法で。俺を殺してもロアは死なないぞ」
-I understand why you despise Roa, but are you really okay with this? Even if you kill me, Roa won't die."
+I understand why you despise Roa.
+ But do you really want to go through with this?
+ He won't die if you kill me, you know."
 }
 [sha:c10a47ce001f6e5f10aef804acf6b9451a9cbce2]{
 -- Page 135, Offset 35631.
@@ -388,17 +478,22 @@ Roa is a reincarnating soul.
 [sha:98a9596303e612e74a060977d9e8f146fd40e892]{
 -- Page 135, Offset 35632.
 -- 俺を殺したところでロアは死なない。ロアを殺したいのなら第七聖典による洗礼か、過程を問わず“死”の結果だけを与えるものでなくてはいけない。
-Even if she kills me, his soul won't die. In order to truly kill Roa, you'd need to baptize him with the Seventh Holy Scripture, or use some other method that only results in the outcome of 'death', regardless of the process.
+Even if she kills me, his soul won't die.
+ In order to truly kill Roa,
+ you'd need to either baptize him with the Seventh Holy Scripture,
+ or use some other method that leaves him no way out other than 'death'.
 }
 [sha:4f038a3f539a252bbfda18f9c7cad92b64ad5694]{
 -- Page 136, Offset 35633.
 -- 「ええ、その通り。頭のいい命乞いね。
-"Yeah, you're right. You're pretty smart for a beggar.
+"Yeah, you're right.
+ That's a pretty clever way to beg for your life.
 }
 [sha:16cf1aec4915f6f9027a64d5f632a54a4ed38643]{
 -- Page 136, Offset 35634.
 -- 確かにアナタをメチャクチャにしたところでロアには何のダメージもないわ。わたしの復讐は果たされない」
-No matter how badly I ravage your body, Roa will get out completely scot-free. I won't be able to exact my revenge like that."
+Like you said, no matter how much I rough you up, it won't affect Roa one bit.
+ I can't exact my revenge on him like this."
 }
 [sha:7610a835b568257702dc95332530b08372a2e397]{
 -- Page 136, Offset 35635.
@@ -408,12 +503,15 @@ No matter how badly I ravage your body, Roa will get out completely scot-free. I
 [sha:dd3389eb1e1eb28fb12519e53a742b31af27971e]{
 -- Page 137, Offset 35636.
 -- 「うん。でもいいの、そんなの。ロアへの復讐なんて今さらなんの意味もないと思わない？
-"Yeah, but who cares? I mean, don't you think it's meaningless to try and take revenge on Roa after all this time?
+"Hmph.
+ Because who cares?
+ What good is there in trying to get revenge on Roa now, after all this time?
 }
 [sha:6fb5b8e4ac372aec3c4d853af4b33bbe050c9048]{
 -- Page 137, Offset 35637.
 -- ロアを殺せば誰かに褒めてもらえるワケでもないんだし。そういう良い子チャンごっこはあの女にお似合いでしょう？」
-It's not like anyone would praise me for kliling him anyway. Wouldn't pretending to be a good girl make me the same as that woman?"
+It's not like anyone would praise me for killing him anyway.
+ That sort of goody-two-shoes act is more up that woman's alley, don't you think?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 138, Offset 35638.
@@ -423,7 +521,7 @@ It's not like anyone would praise me for kliling him anyway. Wouldn't pretending
 [sha:1d30787ea1ae511f75e0108fda00a249d25a8143]{
 -- Page 138, Offset 35639.
 -- その台詞を聞いても驚きはなかった。
-I expected that she would say that.
+I figured she'd say something like that.
 }
 [sha:344a7d860b04c6084f0aac99ade131aab404ba20]{
 -- Page 138, Offset 35640.
@@ -433,43 +531,55 @@ I realized how her mind works long ago.
 [sha:452dd14e95a5d26ef7b5f5d11182a8ffada7e817]{
 -- Page 138, Offset 35641.
 -- 右肩は……よし、もう骨が出来ている。
-My right shoulder... Great. It seems my bones have finally been fixed.
+How's my right shoulder doing...
+ Great. Seems like my bones have already healed.
 }
 [sha:3c3156aa026737b559ce163e9ac243277ebaed1f]{
 -- Page 139, Offset 35642.
 -- 「やだ、ビックリさせちゃった？
-"Oh no, did I surprise you?
+"Oopsie, did that come as a surprise?
 }
 [sha:01eb4648b437722c1a2fc1e569849994c9e633ab]{
 -- Page 139, Offset 35643.
 -- そう、わたしはロアの転生体を殺したいだけ。アナタを殺して気持ち良くなりたいだけ。あの女を殺して気持ち良くなりたいだけなの……！」
-That's right. I just want to kill Roa's reincarnate. I just want to kill you and make myself feel good. All I want is to kill that woman and feel good about it...!"
+That's right――
+I just want to kill Roa's reincarnation.
+ I just want to kill you because it'll feel good!
+ I just want to kill that woman because it'll feel good...!"
 }
 [sha:2dd2ecce27eeb7a38f4d269e0eb341e59cd19db5]{
 -- Page 140, Offset 35644.
 -- 「その後のコトは、またその時に考えればいいと思わない？
-"And then I can just think about what to do afterward when the time comes, right?
+"I can just think about what comes next when the time comes, right?
 }
 [sha:32d093e592fce4a48838db0607d7e2a063096e02]{
 -- Page 140, Offset 35645.
 -- だってせっかく吸血鬼になったんだもの！　後先を考えてガマンするなんて、そんなの、人間らしいにも程がある！」
-I mean, I am a vampire after all! Thinking about consequences and restraining myself are things only a human would do!"
+I mean, I'm a vampire, aren't I!
+ Thinking about the consequences and exercising restraint are things for %{i}humans%{/i} to worry about!"
 }
 [sha:59314d406a78fa264507dc611e7a4a4d08da2c83]{
 -- Page 141, Offset 35646.
 -- 「……矛盾してる。ロアを殺さないと先輩は死ねないのに」
-"...But that doesn't make sense. If you don't kill Roa, then Senpai won't die either."
+"Your plan is flawed.
+ If you don't kill Roa, then Senpai won't die either."
 }
 [sha:a221a0d351b6944bbfc82b20c434faf6c9e506d2]{
 -- Page 141, Offset 35647.
 -- 「馬鹿じゃないの？　アレは生き返るだけで死なない訳じゃないでしょ。殺せばちゃんと死ぬのよ、あの人は」
 // ahhhh shit
-"Are you stupid? The fact that she comes back to life doesn't mean that she can't die. Just like anyone else, she'll die if you kill her."
+"Are you stupid?
+ Just because she can come back to life doesn't mean she can't die.
+ She'll die if you kill her, same as anyone else."
 }
 [sha:c0257ad9efedf06fbe5f563183e1df32197fa262]{
 -- Page 142, Offset 35648.
 -- 「だから、ね？　ずっと殺し続けておけばいい。たとえば濃硫酸のプールに浸しておくとかどう？　生き返っても即死する状況にしておけば、あの子は永遠に生き返るけど“生きていない”事になるでしょう？」
-"So here's my plan. I'll keep on killing her forever. For instance, how about I drown her in a pool of sulfuric acid? If she continues dying the very moment she revives, then that'd be the same as not being alive in the first place, right?"
+"You get where I'm going, right?
+ I can just keep on killing her forever.
+ What do you think about immersing her in a pool of sulfuric acid?
+ If I set it up so that she keeps on dying again as soon as she revives,
+ it's kinda like she isn't even alive at all, don't you think?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 143, Offset 35649.
@@ -484,7 +594,8 @@ I bought more than enough time.
 [sha:45538d22c822040c9d65f3756bc82d5c55224d31]{
 -- Page 143, Offset 35651.
 -- 右肩は完治した。頭痛がするのは血液を使ったからだ。
-My right shoulder is completely healed. The reason for my headache is because I've used up too much blood.
+My right shoulder is completely healed.
+ I've got a headache, but only because I've used too much blood.
 }
 [sha:2ae205a0de3ae5e99e86dc977d4d6ef6e9113948]{
 -- Page 144, Offset 35652.
@@ -494,98 +605,112 @@ The fact of the matter is that I'm awfully calm right now.
 [sha:48cef7a445c8d7b5bd457ea66e9c9ce8832afbf7]{
 -- Page 144, Offset 35653.
 -- その証拠に、鉄柵の周りには死者たちが集まってきているコトも把握している。
-As a testament to that, I can even tell that the Dead are gathering around the iron fence.
+So calm that it hasn't escaped my notice that the Dead are starting to gather around the iron fence.
 }
 [sha:53c5bc86f5044523755f38f3c161120e499c7fa6]{
 -- Page 144, Offset 35654.
 -- だから、頭痛を押し殺して最後の質問だってできる。
-That's why I'm able to stifle my headache and ask my final question.
+// だから because he's calm or because the Dead are getting kinda close?
+And so, I'm able to stifle my headache and ask my final question.
 }
 [sha:80a6bf184e170e2cc45cf992c9130694afb3619a]{
 -- Page 145, Offset 35655.
 -- 「ノエル先生。これが貴女との最後の会話でしょうけど」
 // boys in the dover moment
-"Noel-sensei. This might be the <final chance|s a i g o> I get to speak with you."
+"Noel-sensei.
+ This will probably be my last conversation with you."
 }
 [sha:db916fbf48b576bc507fbe6baf05a5d7f63bb725]{
 -- Page 145, Offset 35656.
 -- 「最期、の間違いよ志貴クン。日本語は正しくね？」
-"Don't you mean your <'final moment'|s a i g o>, Shiki-kun? Isn't your Japanese a bit off?"
+"Did you misspeak, Shiki-kun?
+ I think you meant to say that these will be your last %{i}words%{/i}."
 }
 [sha:50794bd0bbf2d02ce95f960425b548ed2ed97807]{
 -- Page 145, Offset 35657.
 -- 「……むざむざ殺される気はありません。それでも、貴女が俺だけを殺すというのなら、筋は通っています」
-"...I don't plan on going down without a fight. Still, I would understand if you were only intent on killing me."
+"I don't plan on going down without a fight.
+ Still... I can understand why you'd want to kill %{i}me%{/i}, but..."
 }
 [sha:01d164df5a2af6d60ca4fd4c1b263b702980e52c]{
 -- Page 146, Offset 35658.
 -- 「へえ。だからシエルは見逃せっていうの？　本気？
-"Huh. So you're saying I should let Ciel go? Are you serious?
+"Oh? Are you trying to tell me I should let Ciel go? Are you serious?
 }
 [sha:ef2675c2b16342756229c485ba81aa0d90ec39d5]{
 -- Page 146, Offset 35659.
 -- でも無理。無理だから。というか志貴クンの命なんてどうでもいいし？　先にアナタを殺しておけばアイツはもっと苦しむでしょう？
-No. Absolutely not. It's not like I even give a damn about your life. It's just that killing you first will make her suffer even more.
+No. Absolutely not.
+ You realize I don't actually give a damn whether you live or die, right?
+ But if I kill you first, it'll make her suffer even more, see?
 }
 [sha:8c7d9b211a82ecc64d8aa8665389aa07d9a72d79]{
 -- Page 146, Offset 35660.
 -- 分かる？　アナタはただの前菜なの。わたしにとってメインディッシュはあの女の処刑ってまだ分かんない？」
-Do you get it now? You're simply an appetizer. Don't you understand that I'm saving that woman's execution for the main dish?"
+Don't you get it?
+ You're nothing but an appetizer.
+ How have you not grasped that the main course is going to be that woman's execution?"
 }
 [sha:5a7439d5e8ea1d9a7494935e91bab3fa3c8328f1]{
 -- Page 147, Offset 35661.
 -- 「――――――そうか」
-"――――――I see."
+"―――I see."
 }
 [sha:a90db6c2550d335757b1342e069802e4a72379c5]{
 -- Page 147, Offset 35662.
 -- これでもう会話はなくなった。
-With that, there's nothing left for us to talk about.
+There's nothing left to discuss.
 }
 [sha:c7c9fd71b24f76aef477a6aaef253112e24ef9d8]{
 -- Page 147, Offset 35663.
 -- 礼拝堂で震えていた少女の姿を、思い返す事も、なくなった。
-I can no longer think back to the sight of the girl trembling within the chapel.
+I can no longer picture the image of a girl cowering inside the church.
 }
 [sha:1d14105c2ff921dc20ec25695cfbf4447eb437f6]{
 -- Page 147, Offset 35664.
 -- ここで倒れられない理由も明確になった。
-It also becomes clear why I musn't let myself fall here.
+But I can picture the reason why I cannot fall here.
 }
 [sha:025e5f1dc171c36a945b2955aacdb9a49a3a88f9]{
 -- Page 147, Offset 35665.
 -- 俺はかろうじてあった<同情心|にんげんらしさ>を切り捨てて、
-I cast away the final remnants of compassion and humanity that barely remain.
+I cast aside the last shreds of compassion and sympathy I still had.
 }
 [sha:05d75bcd3c10c83db1e1033e60dff61f002af1e0]{
 -- Page 147, Offset 35666.
 -- 「訊いた俺が馬鹿だった―――！」
-"I was stupid to have asked that―――!"
+"I shouldn't have bothered to ask―――!"
 }
 [sha:3d6f9f7ff80bbed850681a47a144f6a9341d6e3a]{
 -- Page 147, Offset 35667.
 -- こめかみの頭痛を噛み潰して、二度目の接触を試みた。
-Bearing with the pain in my temples by gritting my teeth, I attempt to make contact for the second time.
+Gritting my teeth to distract from the pain in my temple,
+ I attempt to make contact for the second time.
 }
 [sha:064fafe68c4d7a82d8f4cf09154e58387450929b]{
 -- Page 148, Offset 35668.
 -- 距離にして<三間|６メートル>。踏み込みは二足で事足りる。
+// Daddy long legs with the 3m stride
 She's six meters away. I should be able to close the distance in two steps.
 }
 [sha:c71b5800fd846a81e8b32e3d65886897e147a00f]{
 -- Page 148, Offset 35669.
 -- 一足。こちらを迎え撃とうと構えるノエルの右手と、地面を踏みしめる右足のつま先を確認する。
-The first step. I check Noel's right hand, which she intends on using to intercept me, and the tip of her right foot, which is firmly planted on the ground.
+One step.
+ I glance at Noel's right hand, which is poised to intercept me,
+ and tip of her right foot, which is firmly planted on the ground.
 }
 [sha:c778f65aee2d351f92e94377bfa556a666f0e063]{
 -- Page 148, Offset 35670.
 -- 右手に構えた武器を突き出すのなら軸足は左になる。右足に力が入るという事は、
-If she's thrusting her weapon with her right hand, then her left foot would act as the pivot. But if she puts her strength into her right foot...
+If she was going to thrust with her right hand, she'd want to use her left foot as a pivot.
+ But if she's using her right foot instead, then that means...
 }
 [sha:4caf6f044b12c5636d52c13bf90e4b80dd0c666e]{
 -- Page 149, Offset 35671.
 -- 二足。敵の間合いに入った。
-The second step. I've entered within range of the enemy.
+Two steps.
+ I've entered within range of the enemy.
 }
 [sha:0b9637d3b0454d3028a2b165cb20bbee9c14da67]{
 -- Page 149, Offset 35672.
@@ -595,27 +720,32 @@ My weapon's reach is inferior compared to hers.
 [sha:9cf1a745da91ed8e7d3f04a7cf74f12fd2cce3ae]{
 -- Page 149, Offset 35673.
 -- まずはこの一撃をかいくぐらなければ<蠢|うごめ>く線を切断できない。
-For starters, if I don't slip past her first attack, then I won't be able to sever that squriming line.
+If I can't slip past her opening attack,
+ I won't get a chance to sever that squirming line.
 }
 [sha:b1111a067246a3c05eba990952970a2b6e2bfc6f]{
 -- Page 150, Offset 35674.
 -- 俺は直前で急停止して、心臓めがけて突き出された凶器を躱して今度こそ、
-I stop immediately before she thrusts her weapon at my heart, evading her attack, and then―――
+I'll stop just short of her,
+ dodge the skewer aimed at my heart,
+ and then―――
 }
 [sha:9a41d9278a98110777bfd56e338ad1f05bf27db9]{
 -- Page 150, Offset 35675.
 -- 「なーんて、<真|マ><剣|ジ>で付き合ってあげると思っちゃった？」
-"Yeah right. Did you really think that I would go along with that?"
+"Yeah right.
+ Did you seriously think I'd let that happen?"
 }
 [sha:effc41bfc3ab7127f36ce2a332d966107b439e31]{
 -- Page 151, Offset 35676.
 -- ピン、と。
-Bam.
+%{i}Flick%{/i}.
 }
 [sha:b1ddd12f17edc433c182da25c50e8a22a361d802]{
 -- Page 151, Offset 35677.
 -- 中指だけの最小の攻撃で横腹を弾かれ、鉄柵まで吹っ飛ばされた。
-Using the bare minimum amount of force, she repels me with her middle finger alone, striking my flank and blowing me all the way back to the iron fence.
+Her counterattack consists of nothing but a flick of the middle finger.
+ It hits me squarely in the side, sending me flying all the way back to the iron fence.
 }
 [sha:0f04a986bd8cc96f4834d74d2dc17979d5bed862]{
 -- Page 152, Offset 35678.
@@ -625,22 +755,24 @@ Using the bare minimum amount of force, she repels me with her middle finger alo
 [sha:b800317f3b276359a1908da68453cfa6a5dd5a4d]{
 -- Page 152, Offset 35679.
 -- 背中から鉄柵に衝突する。
-My back collides with the iron fence.
+I slam back-first into the iron fence.
 }
 [sha:0a3c52de4870b4310020ebe5ee8be09f154967c7]{
 -- Page 152, Offset 35680.
 -- 横腹の感覚がない。横隔膜の損傷で呼吸が出来ない。
-My sides have gone numb. I can't breathe because of the damage to my diaphragm.
+I've lost all feeling where she hit me.
+ My diaphragm is so damaged I can't even breathe.
 }
 [sha:6fc76620e7c9f390f4b7c40d7e4afc4af6204021]{
 -- Page 152, Offset 35681.
 -- 加えてこの音。
-Not to mention this noise.
+And then there's the noise―――
 }
 [sha:c007db18213045892ac023a548dfdb8e7cfb0cbd]{
 -- Page 152, Offset 35682.
 -- 鉄柵に触れた途端、脳をかき回す音に襲われる。
-The moment I crash into the iron fence, the assault of noise makes my brain start churning.
+The moment I came into contact with the iron fence,
+ I was bombarded with a noise that threatens to turn my brain to mush.
 }
 [sha:18c797b30d16b26ee3eebd218f830ca8b52d9e1e]{
 -- Page 153, Offset 35683.
