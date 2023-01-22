@@ -413,6 +413,8 @@ But everything feels heavy, like I'm at the bottom of the ocean.
 [sha:919f0a5bcf49e493ff1947ffd1ebf50f85c509bf]{
 -- Page 360, Offset 3571.
 -- 『[zap00][zap00][zap00][zap00][zap00][zap00][zap00][zap00]』
+// Needs a no_break pragma otherwise we try and linebreak in the middle of the final command segment
+%{no_break}
 [zap00][zap00][zap00][zap00][zap00][zap00][zap00][zap00]
 }
 [sha:4a3ec6d0c86bb647dde3269d0b89bbf961fea432]{
