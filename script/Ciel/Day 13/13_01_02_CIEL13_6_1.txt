@@ -42,7 +42,7 @@ Even as she struggles to understand what happened to her,
 -- Page 166, Offset 35724.
 -- <死徒|ノエル>に命を奪われ、尊厳を手繰られ、死してなお活動していた彼らも、次々と地に伏していく。
 The people who had been robbed of their lives and dignity by Noel,
- and forced to serve even after their death,
+ and forced to serve her even after their death,
  collapse to the ground one after another.
 }
 [sha:7b7ce02f0ce420ce1496af60058833484eb0cee7]{
@@ -64,7 +64,7 @@ Ciel-senpai is the only one who stays motionless,
 [sha:795c544044eba3325261dca9b0e70b3b32243899]{
 -- Page 168, Offset 35728.
 -- 「先輩。済ませましたよ、先輩」
-"Senpai. It's all over now, Senpai."
+"Senpai. I took care of it, Senpai."
 }
 [sha:9e6899f170b71ccc63c624c8d5068771d4e6b58e]{
 -- Page 168, Offset 35729.
@@ -109,7 +109,7 @@ Hopefully she wakes up before dawn.
 [sha:b0ee532484c631eddf0ab7d7400997add8852735]{
 -- Page 169, Offset 35737.
 -- 俺もまだ吸血鬼化ははんぶんくらいだし。
-I'm still only a half vampire at the moment, though.
+I'm still only a half-vampire at the moment, though.
 }
 [sha:b28376ebad9ce27329c8754657938cfc6b86b4da]{
 -- Page 169, Offset 35738.
@@ -131,22 +131,22 @@ I'm pretty sure I wouldn't be incinerated even if the sun did rise on me.
 -- …………………………ああ、そうか。
 // lint-off:LintStartingEllipsis
 .........%{n}%{n}
-Oh... so that's how it is.
+Oh... right.
 }
 [sha:3e9b563549e6f4d36f50786d7f467f0dccc81a96]{
 -- Page 170, Offset 35742.
 -- ちょっとまちがっちゃったかな。
-I may have made a slight miscalculation.
+I guess I messed this one up.
 }
 [sha:f5c686f8976457b9e10ac639fa102989c9de7ac9]{
 -- Page 170, Offset 35743.
 -- 先輩にはいくらでもじカんがあるけど、
-Even though Senpai has all the time in the world―――
+Senpai may have all the time in the world―――
 }
 [sha:d35da2face35546014d9c864d23b64b28717bf55]{
 -- Page 170, Offset 35744.
 -- 俺は、わりとそうでもなかったんだっけ。
-I don't think I can say the same for me.
+But the same can't really be said for me, huh.
 }
 [sha:a02532d092da06cdbf8b3a04324c090119472bd9]{
 -- Page 171, Offset 35745.
@@ -162,7 +162,8 @@ I gaze at Senpai's face as she sits on the ground with her hands around her knee
 [sha:690f9638e355b2ad27ffb991e5254635795ebf37]{
 -- Page 171, Offset 35747.
 -- かわいい。美人だ。なんかもうぜんぶ愛せる。
-How adorable. She's beautiful. I love everything about her so, so much.
+She's adorable——a real beauty.
+ I love everything about her so, so much.
 }
 [sha:3c9e1bbc6805b4790e588ebfdc24b7f02c7662dc]{
 -- Page 171, Offset 35748.
@@ -173,28 +174,29 @@ And so, even in a situation like this,
 [sha:fbcd6430f78038d614fdd8725ce835f0a4fcfcf7]{
 -- Page 172, Offset 35749.
 -- に時間が経っていた。
-Two hours have passed.
+// Text gets intermittently fucky from here through the end.
+// All-hiragana sentences as all lowercase no punct, random thrown-in katakana get stilted caps
+two   hours have passed
 }
 [sha:cc5c7ed2d440c10a0a22da6e1b4324224ba753f7]{
 -- Page 172, Offset 35750.
 -- うごくものは、
-She still hasn't―――
+nothing moves
 }
 [sha:2807d2bbb6f1997c573e11293e18f20ee56f78e0]{
 -- Page 172, Offset 35751.
 -- うごいたものはなにもなかった。
-She still hasn't moved an inch.
+nothing has moved
 }
 [sha:0c5d6cd56e3539df8748beb5dd770b973b197d4e]{
 -- Page 172, Offset 35752. Mods: @n.
 -- でもとくにいろんは
-To be honest,
+but i dont really
 }
 [sha:51989d42df5a2ed9836f905bc2abb56aa32e00b7]{
 -- Page 172, Offset 35753. Glued.
 -- ナい。
-// な/ナ here.
- staying like this doesn't really bother %{i}m%{/i}e.
+ca   R e
 }
 [sha:91cd33425d774815bf561f196f19d6d514335a41]{
 -- Page 172, Offset 35754.
@@ -204,30 +206,31 @@ Even as a statue, Senpai is still beautiful.
 [sha:dce6d85906f3ae518b8441002dac60297cdeac2a]{
 -- Page 173, Offset 35755.
 -- 反面、俺の方はよろしくない。
-On the other hand, I'm in terrible shape.
+I, on the other hand, am in terrible shape.
 }
 [sha:706ffa8626df04f8ab8c15ff036b82759c7c5f31]{
 -- Page 173, Offset 35756.
 -- 頭痛はどんどんヒドくなって、ズキリとくるたび、視界があカくかわっていく。
 // ヒドく, あカく
-My headache is steadily getting %{i}wo%{/i}rse,
+My headache is steadily getting w O  Rs e,
  and every time it ramps up,
- the world around me grows red%{i}der%{/i}.
+ the world around me g ro　Ws　re d　De R.
 }
 [sha:4bb17b3478aa984223c33d06a93280970df88495]{
 -- Page 173, Offset 35757. Mods: @n.
 -- そういえば、そもそもておくれなんだった、
-I try remarking to Senpai that, now that I think about it,
+oh yeah it was already too late for me ages ago%{n}
 }
 [sha:614f11ee6929f328e39a24c7dc11c2c447570a11]{
 -- Page 173, Offset 35758. Glued.
 -- と口にだしてみる。
- it was already too late for me ages ago.
+I try telling that to Senpai as well.
 }
 [sha:d7ab08d47f736ee9674306588d6c9ba41f9cbdef]{
 -- Page 173, Offset 35759.
 -- 先輩からの返しはない。ちょっとさみしい。
-She doesn't answer. That makes me a bit sad.
+She doesn't answer.%{n}
+it feels a bit lonely
 }
 [sha:3623880010c02c4c327b1dcf582ff9f5d3164ee4]{
 -- Page 173, Offset 35760.
@@ -237,7 +240,10 @@ Even so, simply having her by my side is enough to fill me with happiness.
 [sha:f9a993e7a3396fb4dbdf5d5bd49747ad6be3878b]{
 -- Page 174, Offset 35761.
 -- 吸血鬼をたおせば、そのきゅうけつきのあくじは消える、とふつーはおもう。おもうよな？
-If you kill a vampire, it makes sense that it would undo all the crimes they've committed, right? Don't you think?
+If you kill a vampire
+   it makes sense that it would undo all the crimes theyve committed right
+   youd think that
+   right
 }
 [sha:be3f4770604840cebc04fbb8d062bc0c9032ca7b]{
 -- Page 174, Offset 35762.
@@ -247,23 +253,23 @@ If you kill a vampire, it makes sense that it would undo all the crimes they've 
 [sha:e99ab16dc0104a3f5cb56974bc3d7d8d15a32743]{
 -- Page 174, Offset 35763.
 -- せんぱいはそう言って笑った気がした。
-I felt as though Senpai had laughed and replied to me.
+I felt as though s enP   ai had laughed and replied to me.
 }
 [sha:5e9b87d8d75c0770d7d9f7869b76c2588830d4d6]{
 -- Page 174, Offset 35764.
 -- そうなのである。
-I guess she's right.
+she is most right
 }
 [sha:8e1645f827ed8818a2ab5ef230806ad49b409ead]{
 -- Page 174, Offset 35765.
 -- そいつをたおせばすべてもとどおりなんて、そんな都合のいいはなしはない。
-There's no way it would be that simple.
- Defeating her isn't going to magically put everything back the way it was.
+theres no way it would be that simple　
+   defeating her isnt going to magically put everything Back the way it was
 }
 [sha:bda3fa47f81a1a81bbb6f2cc1786103eb88f7e57]{
 -- Page 174, Offset 35766.
 -- あったら、せんぱいはとっくに、ロアをころしてかいほうされているんだから。
-If that's how it worked, then Senpai would have liberated herself by killing Roa long ago.
+if thats how it worked senpai would have liberated herself by killing roa long ago
 }
 [sha:a89ad74b32115920e9bcc1196fe6cf1d1b4a1871]{
 -- Page 175, Offset 35767.
@@ -273,84 +279,84 @@ I still have some time left...
 [sha:b4448ad71f5869946711d3ce1227536fa7a340fd]{
 -- Page 175, Offset 35768.
 -- やしきのことをかんがえようとおもった。
-I think about the people back at the mansion.
+i think about the people back at the mansion
 }
 [sha:f26f3eb65170732a81dfe0a43945bceac8d3745e]{
 -- Page 175, Offset 35769.
 -- あきは、ひすい、こはくさん。
-Akiha, Hisui, Kohaku-san.
+akiha   hisui   kohaku-san.
 }
 [sha:88c9d974f35dfc56fbab99c984ed286cdbd354c8]{
 -- Page 175, Offset 35770.
 -- おれがいなくてもしあわせにすごしてほしい。
-I hope they can still live happily even after I'm gone.
+i hope they can still live happily even after im gone
 }
 [sha:e7ebb06482a1a2755b939d1c8edf2ce8dc3c48ad]{
 -- Page 175, Offset 35771.
 -- いや、おれがいないほうがしあわせかな？
-Actually, they might be even happier without me...
+actually they might be even happier without me
 }
 [sha:473fbd50c13c0b4cde7c0f492e727724323f17e8]{
 -- Page 176, Offset 35772.
 -- お姫さまのこともかんがえる。
-I think about the princess too.
+i think about the Princess too.
 }
 [sha:7f6b2955519cb5e7b54dd721eb1c86081728ae30]{
 -- Page 176, Offset 35773.
 -- もっとちがう出逢いだったらどうなっていただろう。
-I wonder how things would have turned out if we had met under different circumstances.
+i wonder how things wouldve turned out if we had Met differently
 }
 [sha:b40b56cb4c8cc9b548eba25041c3762b08c58e5d]{
 -- Page 176, Offset 35774.
 -- まじぼれしてたかな。してたかもな。
-Was I in love with her? Yeah... I suppose I was.
+i really was in love i guess　 yeah i guess so
 }
 [sha:517f5b69cbfe1c471959948dfa10fb1bb461c2c3]{
 -- Page 176, Offset 35775.
 -- でも、こんかいはそうじゃなかった。
-But I guess it just wasn't meant to be this time around.
+but it just wasnt meant to be this time
 }
 [sha:cb2c30c6b24ad94e73e308d810c1f2fe2573782e]{
 -- Page 176, Offset 35776.
 -- あいつがもんどうむようでハッピーになって、おれもこころのそこからわらえる“もしも”を、かみさま、どうかよろしくおねがいします。
-What if she were to become truly happy...
- What if I were able to smile with her from the bottom of my heart...
- Please, God... let those 'what-if's come true somehow.
+what if she was practically forced to be happy
+   what if i could laugh with her from the bottom of my heart
+   please god grant me that what if
 }
 [sha:95c3a270853ef8321522a765c321df5bda3439fd]{
 -- Page 177, Offset 35777.
 -- ―――ああ。
-―――%{i}Ahh%{/i}.
+―――%{i}ahh%{/i}
 }
 [sha:022d6489f9b47604441e8951872e789053eff670]{
 -- Page 177, Offset 35778.
 -- それにしても、頭がいたい。
-I can't believe how much my head hurts.
+i cant believe how much my Head hurts.
 }
 [sha:f3d4e77f10c1fd4dbd45427eb63c8fcfd77a9acf]{
 -- Page 178, Offset 35779.
 -- いたすぎて、となりにいるびじょがみられないぜ。
-It hurts so much that I can't even see the beautiful woman beside me.
+it hurts so much that i cant even see the beautiful woman beside me
 }
 [sha:60c624d0f57096ab3b3124b0d23e19f18ce5bcc9]{
 -- Page 178, Offset 35780.
 -- ごめんな、せんぱい。
-I'm sorry, Senpai.
+im sorry senpai
 }
 [sha:b12dfd5cff60830a53bea6ca9977e60476dfa602]{
 -- Page 178, Offset 35781.
 -- のえるせんせいとは、せんぱいがカタをつけなくちゃいけないって、じつはわりときづいてました。
-To be honest, I knew full well that you should've been the one to settle the score with Noel-sensei.
+to be honest i knew that you shouldve been the one to settle the score with noel-sensei
 }
 [sha:cb79b8c9251e1fea72ca1cc9ea7ea5ed61a513a9]{
 -- Page 179, Offset 35782.
 -- でも、それはとても、つらいので。
-But it would've been far too painful.
+but that wouldve been far too painful
 }
 [sha:efcf609890eaa3132bd98b72a7093891446736d8]{
 -- Page 179, Offset 35783.
 -- 貴女にとって、とても辛い事なので。
-It would've been far too painful for you.
+Far too painful for you.
 }
 [sha:9eb0df4440b538ee80c07583a86c6a833e97881c]{
 -- Page 179, Offset 35784.
@@ -360,19 +366,17 @@ That's why I selfishly decided to take over.
 [sha:82c63731440f468408c4b15f8c5ee6ec752503c4]{
 -- Page 180, Offset 35785.
 -- もういいかげん、いたすぎてつらいので、ここでおれはおしまいです。
-It's beginning to hurt so badly that I don't think I can hold on for much longer.
+it hurts so much that i cant stand it so   this is where i end
 }
 [sha:e9acdd2430ca50c7a9c7715ba132e937d2dfe785]{
 -- Page 180, Offset 35786.
 -- そのまえに、もうひとり、わるいヤツをたいじします。
-But before I go... there's one more evildoer that I need to eliminate.
+but before i go theres one more evildoer that i need to eliminate
 }
 [sha:f0087fbe04a9c756927779f493f112bccee5802a]{
 -- Page 180, Offset 35787.
 -- 目がさめたとき、ほめてくれるとうれしいです。
-When you finally do wake up...
- if you praise me for what I'm about to do...
- I'd like that.
+i hope youll praise me for this when you finally wake up　
 }
 [sha:8a6e8d97812fcb6423486711fa107f149611fc2f]{
 -- Page 180, Offset 35788.
