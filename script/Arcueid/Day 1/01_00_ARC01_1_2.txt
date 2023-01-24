@@ -12,12 +12,13 @@ Why is she riding the train this early in the morning?
 -- Page 45, Offset 1268.
 -- 「でもどうしたんですか？
 // from this point the file is similar to 01_01_CIEL01_1_3 refer to that while editing
-"But why?
+"Is something the matter?
 }
 [sha:9b6de15ac9276d0588cca9bb04bf0219884c9754]{
 -- Page 45, Offset 1269.
 -- 先輩、部活やってませんよね。こんな時間に登校なんて」
-Senpai, you're not a member of any clubs. Why are you heading to school this early?"
+You aren't in any clubs, right Senpai?
+ Why are you heading to school this early?"
 }
 [sha:98450903a33176da0ab46671ff6329a7ff8ba09f]{
 -- Page 46, Offset 1270.
@@ -37,12 +38,13 @@ That's what I was doing until just now."
 [sha:62e909ac036e45d42a7be6ad6590524af3865f8b]{
 -- Page 47, Offset 1273.
 -- 言われて、ああ、と合点が行った。
-As she says that, I let out an 'Ah' as everything slides into place.
+// Mildly reformulated, but the interjected 'ah' kinda jank in EN
+Aha. That explanation makes total sense.
 }
 [sha:2f94cd978caa190bc82c289c8bd47007f46eb9d6]{
 -- Page 47, Offset 1274.
 -- この先輩はいつだって、誰かのために<奔走|ほんそう>している人なのだ。
-Senpai's the type that's always working hard for other people's sake.
+Senpai's the type of person that's always working hard for the sake of others.
 }
 [sha:cea55f354bd88e58862c6d139fda17e8fe94c0cb]{
 -- Page 48, Offset 1275.
@@ -84,12 +86,12 @@ Wait... Her face, her smell, and so many other things are so close that I'm not 
 [sha:c4c693eb19535d18b527284a2f20a83fcc08453c]{
 -- Page 51, Offset 1282.
 -- 「い、いえ、そういうワケじゃなくてですね、もし折りたたみ式の箒とか熊手とかなら、珍しいなと……」
-"No, no, it's not that, I just thought that if you have a foldable broom or a rake, that would be unusual..."
+"N-No, that's not it, I just thought that if you had a foldable broom or a rake, that would be unusual..."
 }
 [sha:dc0378842c72e084cb0a3a2f8bf1e19205e50919]{
 -- Page 52, Offset 1283.
 -- 「ほうほう。わたしの万能<高枝|たかえだ>切り<鋏|ばさみ>も見たいと。
-"%{i}Hoh hoh%{/i}, I see you also want to see my all-purpose long-range pruning shears.
+"I see, I see. You also want to see my all-purpose long-range pruning shears, do you?
 }
 [sha:c954dad85579d23ac1b90486a6fff49e6923d9b4]{
 -- Page 52, Offset 1284.
@@ -234,12 +236,12 @@ I was laughing too loud, I guess."
 [sha:bba78143101f62aa92a739b1b777c129511965e5]{
 -- Page 62, Offset 1311.
 -- それきり会話はなくなった。
-After that, the conversation ends.
+After that, the conversation peters out.
 }
 [sha:82ac2eee23aebcd9859de316fc60667770f9818c]{
 -- Page 62, Offset 1312.
 -- さっきまでの気さくな雰囲気が嘘のようだ。
-It's as though the friendly atmosphere we had experienced up until now had been a lie.
+It's like the friendly atmosphere we had experienced up until now had been a lie.
 }
 [sha:46d7d5848bf8f2622ffde7a204965ddfcae7a044]{
 -- Page 62, Offset 1313.
@@ -269,7 +271,9 @@ The station is quiet now, but in an hour, it will be full of people and cars.
 [sha:163330c721df26e9c84ae2bca994216e5dceae5d]{
 -- Page 64, Offset 1318.
 -- 「今朝も交通量が少なめですね。最近、街の目覚めが遅い気がします。みなさん夜更かしなんでしょうかねー」
-"There's not much traffic this morning either. It seems like the city is waking up late these days. I wonder if everyone is staying up late."
+"There's not much traffic this morning either.
+ It feels like the city is slow to wake up lately.
+ I wonder if everyone is staying up late."
 }
 [sha:0bb206542d2448e5d59407f587d52eca7014009b]{
 -- Page 64, Offset 1319.
@@ -289,12 +293,14 @@ Senpai says something strange while carrying her heavy luggage.
 [sha:eb78dcc874b9139ceef5749d13a1acdac44fba0c]{
 -- Page 66, Offset 1322.
 -- では、と笑顔で手を振って先輩は走り去った。
-And so, waving her hand with a smile, Senpai runs off.
+Senpai smiles and waves back at me as she runs off.
 }
 [sha:f6449ffcdfa7c721ccbc40468836b6863dbb4283]{
 -- Page 66, Offset 1323.
 -- ばびゅーん、なんて擬音が似合いそうな、それはそれは軽快かつ高速の駆け足だった。
-It's such a light and fast run that an onomatopoeic %{i}boing%{/i} would be appropriate.
+// ばびゅーん kinda a leap/jump onomatope I assume.
+// This sounds kinda painfully J->E if we force the onomatopoeia, so tempted to localize harder instead.
+She's so fast and light on her feet that she reminds me of a frolicking gazelle.
 }
 [sha:0ae0330ac391e82876f7a84b2eeb80ce2a586e11]{
 -- Page 66, Offset 1324.
@@ -319,7 +325,7 @@ The girl from earlier comes out of the ticket gate.
 [sha:aeea341a4f511ffb4fc82893cb9794ad836f4034]{
 -- Page 68, Offset 1328.
 -- 少女は早足でこちらの横を通り過ぎながら、
-She walks past me at a fast pace―――
+She brushes past me at a fast pace―――
 }
 [sha:2312efc803496c6f3bc2bc9ebab75a263aafd952]{
 -- Page 68, Offset 1329.
@@ -329,7 +335,7 @@ She walks past me at a fast pace―――
 [sha:9bd788662c2c2518e836e7367611497c26c8ac33]{
 -- Page 68, Offset 1330.
 -- なんて、強烈なダメ出しを残していった。
-―――and leaves behind some scathing criticism.
+―――And leaves behind some scathing criticism.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 69, Offset 1331.
@@ -359,7 +365,7 @@ I may have unintentionally said something that made people uncomfortable.
 [sha:daa99793a6b42cedd9d1703eb763e09a7aa4e96f]{
 -- Page 71, Offset 1336.
 -- まあ、それを差し引いたとしても、
-Well, even if you take that into account,
+Well, even if you take that into account...
 }
 [sha:134f70ea9a4ba4b1de8a6c8d565a77056fd294de]{
 -- Page 71, Offset 1337.
@@ -369,5 +375,6 @@ Well, even if you take that into account,
 [sha:d52e59a52750dbcb21c8affe8856f4ae5a3f3612]{
 -- Page 71, Offset 1338.
 -- すれ違いざまに批評を述べるなんて、まるで辻斬りみたいじゃないか。
-To give so harsh a critique while simply passing by, she's like a samurai casually executing a peasant.
+I can't believe she'd dish out a comment like that while simply passing by...
+ She was like a samurai casually executing a peasant.
 }
