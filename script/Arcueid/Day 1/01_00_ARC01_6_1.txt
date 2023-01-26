@@ -41,7 +41,7 @@ On the other side of the garden, there are more woods, and if I'm not mistaken�
 [sha:46a00b3a7597c7e0479ca6dcf774335c1f73ba09]{
 -- Page 310, Offset 1942.
 -- 「おや。戻る前に立ち寄ったのだが、先客がいたとはね」
-"Oh. I thought I'd stop by before leaving, but I didn't know we had a prior guest."
+"Oh? I thought I'd stop by before leaving, but I didn't know we had a prior guest."
 }
 [sha:63dcc2872e5a5260a905214451b76ca656e32ba0]{
 -- Page 310, Offset 1943.
@@ -51,12 +51,12 @@ I gasp and turn around at the sudden voice.
 [sha:e243edf4e436cc1a8cd71d67ae540e59b6959b3d]{
 -- Page 310, Offset 1944.
 -- ロビーに通じる廊下側の扉の前には、
-In front of the door to the hallway that connects to the lobby,
+There, in front of the door leading back to the lobby――
 }
 [sha:6c12d68cda0231afb278d64fdd6d0c0f8a34b51e]{
 -- Page 310, Offset 1945.
 -- あまりにも奇怪な、黒一色の人物が立っていた。
-there is an all-black figure, far too strange to be real.
+Stands an all-black figure almost too strange to be believed.
 }
 [sha:6fe671943072d9b74f6adf5f1af4ecdcf93a0f6e]{
 -- Page 311, Offset 1946. Mods: @k, @e.
@@ -131,12 +131,14 @@ No, more importantly――this person is, how should I say it―――
 [sha:34402e54d973d5844c6ed8293c7f375ca9bf7df0]{
 -- Page 315, Offset 1960.
 -- 私は事故で顔を焼いてしまってね。ずいぶん前から、こうでもしないと出歩けない体になっている。日の光は特に厳しい。
-I burned my face in an accident. For a long time now, I haven't been able to go outside without wearing them. Sunlight is especially harsh.
+I burned my face in an accident.
+ For a long time now, I haven't been able to go outside without this get-up.
+ Sunlight is especially harsh.
 }
 [sha:93c9c32631ac37a52f52131c23c73284b87dc999]{
 -- Page 315, Offset 1961.
 -- 秋葉にも<煙|けむ>たがられているが、こればかりは仕方のない事だ。彼女にも責任の一端はある事だしね」
-Akiha also dislikes me, but %{i}c'est la vie%{/i}. She is also partly responsible for this, you know."
+Akiha also dislikes it, but %{i}c'est la vie%{/i}. She is also partly responsible for this, you know."
 }
 [sha:1072354ae16bef11b618b14685ac07b5bb6d5fae]{
 -- Page 316, Offset 1962.
@@ -156,7 +158,8 @@ It's a gesture of one born with natural dignity... a casual elegance.
 [sha:5d668018b743b50f94dd57887d63dce0ba6c61a3]{
 -- Page 317, Offset 1965.
 -- 「しかし。まあ、よくも帰ってこられたものだ」
-"However. My, how dare you return just like that."
+// No real VA pause between しかし / まあ
+"But I must say... how dare you return just like that."
 }
 [sha:65d4cd85cbb1aa54aa69f95a8c0787272860c607]{
 -- Page 317, Offset 1966.
@@ -186,7 +189,8 @@ Do you not feel ashamed of yourself?"
 [sha:2891ace90c6a1b2729ae6a70d321b0b7b16f5379]{
 -- Page 319, Offset 1971.
 -- 思わず立ち上がろうとした足を押しとどめて、ソファーに深く背中を預けた。
-About to impulsively stand up, I check myself, leaning back deeply into the sofa.
+I almost leap to my feet,
+ but check myself and lean back into the sofa instead.
 }
 [sha:4ce14ca35c16af41152215ac5264c4683b810b68]{
 -- Page 319, Offset 1972.
@@ -196,7 +200,7 @@ There's obvious contempt and provocation in Saiki's eyes, but there's no point i
 [sha:5c70c1b035fb521ae29d32d05c62f392ed07253a]{
 -- Page 320, Offset 1973.
 -- 「おや。反論はないのかな？」
-"Oh. Don't you have any objections?"
+"Oh? Don't you have any objections?"
 }
 [sha:298925eba0a6567684f8c437fa060c694a92aec5]{
 -- Page 320, Offset 1974.
@@ -211,7 +215,8 @@ But don't you think it's shameful for you to use words like 'deserted' and 'inve
 [sha:80e124d071e722f0739663576487e2c1b2f7123b]{
 -- Page 321, Offset 1976.
 -- 「家族の話だからこそ、的確な言葉を選んだんだがね。
-"I chose those words precisely because we were talking about family.
+// LintConsistency:2047
+"I chose those words precisely %{i}because%{/i} we were talking about family.
 }
 [sha:cbb9a6b7030f9a46afaa2983c8afd2cc58ab3079]{
 -- Page 321, Offset 1977.
@@ -271,7 +276,7 @@ Ah, the last thing I want to do is spoil your homecoming with my gloomy appearan
 [sha:0e6c21f3c5b67b93cf14b14b291b518e7fac74dd]{
 -- Page 326, Offset 1988.
 -- 黒い包帯の男……斎木業人は口元に皮肉げな笑みを浮かべたまま、居間から退室していった。
-The man with the black bandages... leaves the living room with an ironic smile on his face.
+The man with the black bandages――Saiki Gouto leaves the living room with a cynical smile on his face.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 327, Offset 1989.
@@ -346,12 +351,12 @@ I head upstairs via the main staircase in the center of the lobby.
 [sha:55d2fdde2f2c54090aca4c76e6717a777117b8f0]{
 -- Page 334, Offset 2003.
 -- 執務室……それは遠野家の中心と同義だ。
-That office... could be called the heart of the Tohno family.
+Her office... In some ways, you could call it the heart of the Tohno family.
 }
 [sha:d86f339e06a06f754ffe3a357d10e103621645e9]{
 -- Page 334, Offset 2004.
 -- 子供の頃は入れなかった、槙久の当主としての私室。
-It was Tohno Makihisa's private room as the head of the family, which I was not allowed to enter as a child.
+It was Tohno Makihisa's private room as the head of the family, and I wasn't allowed to enter as a child.
 }
 [sha:bfd2925960de3d530a12540903b81a39e126c68d]{
 -- Page 334, Offset 2005.
