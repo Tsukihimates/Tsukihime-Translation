@@ -136,9 +136,10 @@ Eight o'clock curfew? In this day and age? And even worse, I need someone's perm
 -- 報告によると兄さんの成績は中の中だそうですね。
 From what I have been told, your grades are completely average, are they not?
 }
-[sha:8b315c8c79fa7660b72b99447eab487f2e95c651]{
+[offset:2448]{
 -- Page 508, Offset 2448. Mods: @k, @e.
 -- ……
+// Becomes a leading ellipsis when glued, so removed
 %{nothing}
 }
 [sha:5aab2ff6f6fbc56ba3f08b4172472428e9c71a9f]{
