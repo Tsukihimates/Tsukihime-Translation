@@ -11,7 +11,7 @@ I open and close the front door as quietly as I can and discreetly enter the lob
 [sha:36baff2ff91c6b908aa351ab605294a20a978bfd]{
 -- Page 200, Offset 3129.
 -- 時刻は午後８時、１分前。
-The time was eight o'clock, one minute ago.
+It's eight o'clock... or was, one minute ago.
 }
 [sha:7e0da10f8520a1a348b40b799ab8e6655afdc7a5]{
 -- Page 200, Offset 3130.
@@ -33,13 +33,14 @@ It was fine on the way to school because it was downhill, but I forgot that it w
 [sha:ba5bf8efa25c7e6a149e2494f04bb098814f1095]{
 -- Page 201, Offset 3133.
 -- お疲れとは存じますが、お部屋に戻る前に執務室においでください。―――秋葉さまから、お話があるとの事です」
-I know you are tired, but before you return to your room, please come to the office.%{n}
+I know you are tired, but before you return to your room, please stop by the office.%{n}
 Akiha-sama would like to have a word with you."
 }
 [sha:b561532a34303758eee67be7aaee1296cdd9c73a]{
 -- Page 202, Offset 3134.
 -- 「う、ぐっ……し、執務室、ですか」
-"%{i}Ugh%{/i}... the office, is it?"
+// Slightly tweaked, but more natural English
+"%{i}Ugh%{/i}... She does, does she?"
 }
 [sha:aba577e04a0fd5e502f0cf4ff02e0fa986caf493]{
 -- Page 202, Offset 3135.
@@ -186,12 +187,12 @@ After all, she came back incredibly early, believing that you'd listen to what y
 [sha:752c7f13d21b4e063b31c0a3c9c31d598aa868ca]{
 -- Page 212, Offset 3162. Mods: @k, @e.
 -- 「そんなの決まって……
-"Well obviously that's...
+"Well, who else could I mean but――
 }
 [sha:4e2db81cb5051e0f0cddb93d965f1fd9dbb53c9c]{
 -- Page 212, Offset 3163. Glued. Mods: @x.
 -- い、いえ、なんでもございません。
- n-no, you know what, never mind.
+a-ah, you know what, never mind.
 }
 [sha:22eef55a75babcd70e820cde8a96fa4418bcf167]{
 -- Page 212, Offset 3164.
@@ -206,7 +207,7 @@ As such, I have prepared a light meal for you in your room.
 [sha:8aab2bbf04a773d57dc242f8f1010acf6f881a41]{
 -- Page 212, Offset 3166.
 -- おにぎりとお味噌汁という簡単なものですが」
-Although it's just a rice ball and some miso soup."
+Although it's just rice balls and some miso soup."
 }
 [sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
 -- Page 213, Offset 3167.
@@ -216,7 +217,7 @@ Although it's just a rice ball and some miso soup."
 [sha:e01b4f55e1ccaf526b82578eebeb43b313a28ab5]{
 -- Page 213, Offset 3168.
 -- なんて気が利くお手伝いさんなんだろうか……！
-What a thoughtful maid she is!
+She's such an incredibly thoughtful maid!
 }
 [sha:f4a240008b961bd74f126e8feca554a4bf012671]{
 -- Page 213, Offset 3169.
@@ -331,12 +332,12 @@ Rice balls, huh... Kohaku-san made them, so they must be pretty tasty...
 [sha:bce05e7df31a8a6607f543bd0d1866229261f90b]{
 -- Page 221, Offset 3190.
 -- 琥珀さん特製のおにぎりを平らげ、
-I'd wolfed down the rice balls specially made by Kohaku-san.
+The first thing I did after I got back was wolf down the rice balls that Kohaku-san made for me.
 }
 [sha:e12599aead6b1aaabd670285250387572e35880b]{
 -- Page 221, Offset 3191.
 -- 翡翠にお風呂の時間だと告げられ、
-After that, Hisui came by to tell me that the bath was ready.
+When I'd finished, Hisui came by to tell me that the bath was ready.
 }
 [sha:3761de96626972f6b6b4a7c3245795a935861a95]{
 -- Page 221, Offset 3192.
