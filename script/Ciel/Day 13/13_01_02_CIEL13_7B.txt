@@ -416,12 +416,12 @@ I will never be forgiven.
 [sha:1f9f83298e1144059d059f198655c9ee9784149c]{
 -- Page 253, Offset 36004.
 -- そんなの当たり前だ。あなたは絶対に許されない。
-Isn't that obvious? There's no way that'd ever happen.
+Well of course not. There's no way you ever would be.
 }
 [sha:88a4563743745c678293b70c9134bdc3415fab11]{
 -- Page 253, Offset 36005.
 -- 何よりあなた本人が、自分を許すことを認めない』
-More than anyone else, you would never allow yourself to be forgiven."
+Not when you're the one who will never allow yourself to be forgiven."
 }
 [sha:c1ea6f305d682d7d60885369dafd57dbcfb541dc]{
 -- Page 254, Offset 36006.
@@ -431,12 +431,12 @@ More than anyone else, you would never allow yourself to be forgiven."
 [sha:a098ab7e658360d45ae4374f166ef47481646bbc]{
 -- Page 254, Offset 36007.
 -- その声はすぐ近くから。
-I hear someone's voice coming from right beside me.
+Their voice sounds so close.
 }
 [sha:02b7f0a2cfbf6f4173dd1973a1f4dcda15bd4e2d]{
 -- Page 254, Offset 36008.
 -- ここにはもういない誰かが、全霊をこめて、わたしに残した言葉だった。
-These are the heartfelt words left behind by someone who is no longer here.
+These are the heartfelt words left for me by someone who is no longer here.
 }
 [sha:c12bdb4b90639c5986633870b1344c00f80dbfc2]{
 -- Page 255, Offset 36009.
@@ -446,7 +446,9 @@ But it's just as he says.
 [sha:f2d882c81f47e44fa7d592431a23ee8cb19c313c]{
 -- Page 255, Offset 36010.
 -- 一生<赦|ゆる>しはない。一生<贖|あがな>えない。
-I won't be pardoned for as long as I live. No matter how long I live, I won't be able to atone for my sins.
+// Kinda long for 一生 but the alternative is basically drop it and let 'never' do the lifting instead.
+No matter how long I live, I will never be pardoned.
+ No matter how long I live, I can never atone.
 }
 [sha:d58c84faeedad15b524aa564f67698ba12423254]{
 -- Page 255, Offset 36011.
@@ -456,47 +458,52 @@ I can't make amends for the sins I committed in the past.
 [sha:1560dc3afcb7cca7bf7fd59b7f60009ca87e153d]{
 -- Page 255, Offset 36012.
 -- だから、このまま―――
-That's why I should stay here and―――
+That's why I should just stay here, and―――
 }
 [sha:73075189b750e2ebf408e468a5023f7b66a6e2f7]{
 -- Page 256, Offset 36013.
 -- 『違いますよ。あなたが許さないと誓ったのは過去じゃなくて、この先の行いでしょう？
-"That's not right. The thing you swore you would never turn a blind eye to wasn't the past, it was the future, right?
+// Assuming 許さない in the context of この先の行 is more like "not forgive herself if her future actions were lacking"?
+"That's not right.
+ You didn't vow that you would never forgive yourself for the past.
+ You swore that you would never back down from the future, right?
 }
 [sha:76609481ad169411290b50128111ab86f7504b20]{
 -- Page 256, Offset 36014.
 -- 何をしても結果は同じなら。
-If the outcome won't change no matter what...
+// Based on prev past/future distinction, assuming this 結果 is what _already_ happened dans le incident Français?
+Even if nothing you do can change what happened...
 }
 [sha:502086560221bee8b4f91510babebf19ec9f2a6a]{
 -- Page 256, Offset 36015.
 -- 何をしても失われたものは戻らないのなら。
-If the things you've lost won't come back no matter what...
+Even if nothing you do can bring back what what's been lost...
 }
 [sha:9d9f772cfa5b490e0599e99fa655c4df344bd6e4]{
 -- Page 256, Offset 36016.
 -- せめて、一つでも多くの『善いこと』をやって死なないと』
-Then at the very least, you should do as much 'good' as you can for the rest of your life."
+You've still got to use what remains of your life to do as much good as possible."
 }
 [sha:ce4327240075327720da4242dcf6ddc560105d81]{
 -- Page 257, Offset 36017.
 -- “ぁ……あ、あ……あぁ、あ―――”
-"Ah... ah, ah... ah, a―――"
+"%{i}Ah%{/i}... %{i}ah%{/i}, %{i}ah%{/i}... %{i}ah%{/i}, %{i}a%{/i}―――"
 }
 [sha:060edbf46600e454bfe7ee6385d0d544d711a5dd]{
 -- Page 257, Offset 36018.
 -- みっともなくぐずぐずと泣いている。
-I disgracefully burst into tears.
+I start weeping uncontrollably.
 }
 [sha:1e1271d3065ac56200fb83a235d0da10d807ba22]{
 -- Page 257, Offset 36019.
 -- 誰かの厳しい叱責があまりにも的を射ていて、自分の愚かさに胸が裂ける。
-His stern reproach hits so close to home that my own foolishness causes my heart to break.
+His stern reproach hits so close to home that my heart breaks under the weight of my own foolishness.
 }
 [sha:5b3cff8bf6e5b4de737a65333358fc60b2bb0759]{
 -- Page 258, Offset 36020.
 -- ……それは分かってる。分かっているのです。その為に今まで生きてきたのです。
-...I know. I know that already. That's why I've lived on for all this time.
+I know... I know that already.
+ That's why I've kept on living all this time.
 }
 [sha:54c9320533c5de2a5ba0fecc191dff00e34a7430]{
 -- Page 258, Offset 36021.
@@ -506,7 +513,7 @@ But... do I even have the right to do that?
 [sha:5b582d51fd9e446a8867caa336dc9ccaaae35c6d]{
 -- Page 258, Offset 36022.
 -- 多くの命を奪ったわたしは、善き人々の生活に触れる事さえ、
-Does someone who has taken as many lives as me even deserve to touch the lives of the innocent people―――
+Does someone who has taken as many lives as me even deserve to touch the lives of innocent people?
 }
 [sha:a9539e998a62a1f820105100974c173171a4e3b1]{
 -- Page 259, Offset 36023.
@@ -516,32 +523,36 @@ Does someone who has taken as many lives as me even deserve to touch the lives o
 [sha:3932fad82c38ad4fefab7982a2d10c6274ec8971]{
 -- Page 259, Offset 36024.
 -- 嗚咽が止まらない。自らの醜さと弱さを思い知る。
-I can't stop crying. I've come face-to-face with my own vulnerability and ugliness.
+I can't stop crying. I know that I'm weak and disgraceful.
 }
 [sha:5f57cff8509c67af6a687dbd3ff10b7313a16bc4]{
 -- Page 259, Offset 36025.
 -- わたしは地上でもっとも汚れた生き物で、誰であろうと、わたしを弾劾する資格がある。
-Anyone has the right to denounce me as the filthiest being in the world, no matter who they are.
+Everyone on earth has the right to denounce me as the most loathsome creature there is.
 }
 [sha:2442eaedc99ad6ff00944bd7c0bfad127568c99f]{
 -- Page 259, Offset 36026.
 -- なのに。そんなわたしを、力強く抱きとめる腕があった。
-And yet, someone out there's still willing to hold a person like me tight.
+And yet... There's still someone out there willing to hold a person like me tight.
 }
 [sha:88364c715fd5b060811f697c1c3703730c0e682a]{
 -- Page 260, Offset 36027.
 -- 『あなたは言った。死なない体だから、体が強いから罪に耐えられた。自分と同じ体なら誰でも耐えられたと。
-"You said it yourself. You body can't die, so you were able to withstand your sins because of that. You said that anyone would be able to do the same if they had a body like yours.
+// Ref 28023.
+"You told me once... that it was because you had a body that couldn't die.
+ That it was because your body was strong that you could withstand the weight of your sins,
+ and that anyone could do the same if they had a body like yours.
 }
 [sha:40106217612e7a8a39da56695eed4b28f5c5f8d2]{
 -- Page 260, Offset 36028.
 -- でも、それは違う。ぜったいに違うんです。
-But, you're wrong. You're absolutely wrong.
+But, you're wrong. Dead wrong.
 }
 [sha:e9317ad2d332891840498d4726f177526ebfb1d8]{
 -- Page 260, Offset 36029.
 -- 体が強いからじゃない。あなたは始まりから心が強かった。そういう<善|つよ>い心があったから、罪を背負い続けられた。
-You weren't able to withstand it because of your strong body――you were able to withstand it because you've always had a strong heart. That good heart of yours is what allowed you to live on while shouldering those sins.
+It wasn't because you had a strong body――it's because you've always had a strong heart.
+ That good heart of yours is what allowed you to live on while shouldering those sins.
 }
 [sha:68b7988b84e67691d3809135fd9daacfa623c2ea]{
 -- Page 260, Offset 36030.
@@ -561,22 +572,25 @@ He said it was a light that anyone would be proud of.
 [sha:dddd802a1188b51a862a238529f439c9d616ea9d]{
 -- Page 261, Offset 36033.
 -- どれほどの罪を背負うとも、善良な心を持ち、育み、これを捨てる事をしなかったのなら。
-He said that no matter how heavy the sins I bear may be, if I've held onto, fostered, and sustained a virtuous heart―――
+That no matter how heavy the sins I bear may be,
+ if I maintain that virtuous heart――
+ if I nurture it, and never cast it aside―――
 }
 [sha:4083dd00eee4e21c99f572ee9df24479d54a961f]{
 -- Page 261, Offset 36034.
 -- あなたの贖罪は、決して無意味ではなかったと。
-then my atonement was not meaningless by any means.
+Then my atonement will not have been meaningless.
 }
 [sha:a666754143afeea1a57d0a4c89478bfc40d95a67]{
 -- Page 262, Offset 36035.
 -- ……どうしようもないほどの悲しみを隠して。
-...Hiding away the sadness that he couldn't help but feel.
+// This page shuffled around a bit since this sentence is kinda awk on its own
+He spoke while doing his best to hide his crushing sadness...
 }
 [sha:2645263dd34937778d1df3bf0ebbcaffffe519bd]{
 -- Page 262, Offset 36036.
 -- 彼は、自分がほしくてほしくてたまらなかったものを、諦めるようにそう言った。
-He speaks to me as though he's given up on something he so desperately wanted.
+As if he'd given up on something that he had desperately, desperately wished for.
 }
 [sha:bde85ea6a81e80b762d850aeac0388a320cbd614]{
 -- Page 263, Offset 36037.
