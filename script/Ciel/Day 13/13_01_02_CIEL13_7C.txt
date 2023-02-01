@@ -16,42 +16,55 @@ I'm the one you're really after, right, Noel?"
 [sha:15cf4a154842d34107ed31b10802473e88ce0729]{
 -- Page 278, Offset 36099.
 -- 柱の上に現れたシエル先輩はノエルを見据えている。
-Ciel-senpai gazes at Noel from the top of the pillar.
+Ciel-senpai stands atop a pillar, her attention fixed on Noel.
 }
 [sha:9e37f827efc28d2a0304f8c01b1348953fc37ce5]{
 -- Page 278, Offset 36100.
 -- それでいい。地上にいる俺に視線を向ける必要はない。
-Good. There's no need for her to look down in my direction.
+As it should be.
+ There's no need for her to look down in my direction.
 }
 [sha:0868d1ffbe3fe07fde86de888bf24b4f8585bad4]{
 -- Page 279, Offset 36101.
 -- 先輩の体は万全で、傷一つない。それだけ見て取れれば俺からかける言葉もない。
-Senpai's body is in tip-top shape, without even a single scratch. If I can tell that much just by looking, then there's no need for me to call out to her.
+Senpai's body is in tip-top shape.
+ There's isn't so much as a scratch on her.
+ Now that I've satisfied myself of that, there's nothing more for me to say.
 }
 [sha:4d0b27c9d8ddefb15b3a36278ecfa9d3c215a66d]{
 -- Page 279, Offset 36102.
 -- 俺の役目は終わった。ここからは先輩と、あの少女の戦いになる。
-My job here is done. All that's left is for her and Senpai to fight it out.
+My job here is done.
+ From here on out, this fight is between Senpai and that girl.
 }
 [sha:fd49a2fde3ae85813c33ee8e8aa54716e89cf9ef]{
 -- Page 280, Offset 36103.
 -- 「ハ。さっきまでメソメソ泣いていたクセに、戻ってきた途端に上から目線とか笑えるわ。
-"Heh. How amusing. You were wailing like a baby a few moments ago, but you're already looking down on me the second you get back.
+"%{i}Heh%{/i}.
+ You're seriously going to act all high and mighty when you were blubbering like a baby mere moments ago?
+ You crack me up.
 }
 [sha:74d5af2f255b2f368b6489bf0bbb306d8c4751ea]{
 -- Page 280, Offset 36104.
 -- なに？　もしかしていじめられるのがクセになっちゃった？　もう一度、わたしの眼に魅入られたいの？」
-What's wrong? Could it be that you're starting to enjoy being tormented? Did you come back so that I could enchant you with my eyes again?"
+// クセ used again here, but not sure if it's an intentional pattern / even possible to encode in EN
+Or what?
+ Could it be you've started to enjoy being tormented?
+ Are you just begging to be enchanted by my eyes again?"
 }
 [sha:5b25a7320c53ff4c4236146e8bfd5a9e44fa3e7f]{
 -- Page 281, Offset 36105.
 -- 「そうですね。ソレがどんな仕組みの魔眼なのか興味はありますから、使っていただく分には益があります。
-"You're right. I'm curious about how those Mystic Eyes of yours work, so you'd be doing me a favor by using them again.
+"I suppose you could say that.
+ I am curious how those Mystic Eyes of yours work,
+ so you'd certainly be doing me a favor by using them again.
 }
 [sha:92aa70af13131f5c76c77b3526f0357d113bf760]{
 -- Page 281, Offset 36106.
 -- でも止めておいた方がいいですよ。貴女の魔力量ではその魔眼は多用できない。もう一度使えば貴女は自壊します。
-I'd advise against it though. You can't use those Mystic Eyes repeatedly with your current magical capacity. You'll end up self-destructing if you use them again.
+That said, I wouldn't recommend it.
+ You don't have the magical energy required to use those them repeatedly.
+ You'll end up self-destructing if you try and use them again.
 }
 [sha:084ddfa383af0509a5fd60bf1d8d10fbe01d1392]{
 -- Page 281, Offset 36107.
@@ -66,27 +79,35 @@ And more importantly―――"
 [sha:1cb8c02256484217f633ce5d3d4ddc3eb5c79fed]{
 -- Page 282, Offset 36109.
 -- 魔力はより強い魔力に洗い流される。どこの祖の<模造品|レプリカ>かは知りませんが、分かっていればこの通りです」
-Magical energy can be swept away by an even greater source of magical energy. I don't know which Ancestor you're replicating, but as you can see, I have this."
+// Confused by this second sentence. I parse it as
+// I don't know what ancestor's replica it is, but if I[?] knew, things would go like this?
+// But that doesn't make much sense, since she's clearly doing what she's doing regardless of not knowing
+// Manolo's line here makes sense in EN, but I don't see how we got there.
+Magical energy can be swept away by an even greater source of magical energy.
+ I don't know which Ancestor you're replicating, but as you can see, I have this."
 }
 [sha:6adfef2457b45035728cd3dcf7b297d29620a617]{
 -- Page 283, Offset 36110.
 -- シエル先輩の右手の甲が輝いている。
-The back of Ciel-senpai's right hand shines.
+An intense glow is emanating from the back of Ciel-senpai's right hand.
 }
 [sha:c6e3c74513d84efef459ab36f00f151ed5d64ef2]{
 -- Page 283, Offset 36111.
 -- 吸血鬼になりかけている影響か、二人の間で渦巻く魔力が可視化される。
-Perhaps it's because I'm on the verge of becoming a vampire, but I can see a whirlpool of magical energy swirling in between them.
+I'm actually able to see the vortex of magical energy swirling in the space between them,
+ no doubt thanks to the fact that I'm on the verge of becoming a vampire.
 }
 [sha:9b819d1d01b642e8e01c152f37441565a608fb6e]{
 -- Page 284, Offset 36112.
 -- ノエルの魔眼からは茨のような呪いが放たれ、先輩を包もうとしている。
-Noel's Mystic Eyes release a thorn-like curse that attempts to envelop Senpai's body.
+Thorn-like curses sprout from Noel's mystic eyes,
+ and attempt to entwine themselves around Senpai's body.
 }
 [sha:ab1ab058fb3061e919338d010121c154b65ffcfe]{
 -- Page 284, Offset 36113.
 -- が、茨は先輩の体に触れた瞬間に崩れていく。あの右手に埋め込まれた呪いの質量が、ノエルの魔眼を圧倒している。
-However, the thorns crumble the moment they touch Senpai's body. The mass of the curse buried in her right hand is enough to overwhelm Noel's Mystic Eyes.
+But the moment those thorns touch her body, they crumble into dust.
+ The mass of the curse embedded in her right hand is enough to completely overwhelm Noel's Mystic Eyes.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 285, Offset 36114.
@@ -101,7 +122,7 @@ I've seen that radiance before.
 [sha:28a0c43df76d95385212d2ecc3d5ade99f2f8766]{
 -- Page 285, Offset 36116.
 -- ヴローヴの胸の奥、呪いの中心に輝いていたモノだ。
-It's the same as the curse that shined inside Vlov's chest.
+It's the same one that shone at the heart of the curse within Vlov's chest.
 }
 [sha:3a0ed30ba58749a1aea011fa644c38acba0c8a95]{
 -- Page 286, Offset 36117.
@@ -111,42 +132,52 @@ It's the same as the curse that shined inside Vlov's chest.
 [sha:e9876982dbda91704c5a31943116940e50ca2d6a]{
 -- Page 286, Offset 36118.
 -- やだやだ、そんなにセンパイ面したいんですか、シエル先輩？　これみよがしに昔の勲章をみせびらかすとか、代行者としても吸血鬼としても上だって言いたいの？」
-Come on, do you seriously want to be seen as my superior that badly, Ciel-senpai? I mean, you're flaunting all your old medals and stuff. Are you trying to say that you're a better Executor and vampire than I am?"
+Come on, do you seriously want to be seen as my superior that badly, Ciel-senpai?
+ I mean, you're flaunting all your old medals and stuff.
+ What, are you trying to say you're both a better Executor and a better vampire than I am?"
 }
 [sha:159c64554721e20dd4228f4a02aff78ff180dcba]{
 -- Page 287, Offset 36119. Mods: @n.
 -- 「え？
 "Huh?
 }
-[sha:296153b5ac049cb48510eacb5052856468765762]{
+[offset:36120]{
 -- Page 287, Offset 36120. Glued. Mods: @k, @e.
 -- ……
-...
+%{s}
 }
 [sha:86b3fddec397e2bacd12f6154f9fdcd8b4c22426]{
 -- Page 287, Offset 36121. Glued. Mods: @x.
 -- あの。そんなコト、いちいち言わなくちゃ伝わらないレベルでしたか」
-Um. Do you really have to spell everything out just to get your point across?"
+Oh... I'm sorry.
+ I didn't realize you needed me to spell it out for you."
 }
 [sha:6331ccb7f9309ccae4cceee93d216eed47aeda5a]{
 -- Page 288, Offset 36122.
 -- 「いつもの辛辣さが戻ってきたじゃない。でも、いまさらやる気になっても手遅れだから。
-"It seems like you're just as harsh as ever. Even if you've finally decided to fight, it doesn't matter, though; it's too late.
+"Seems like you're back to your usual caustic self.
+ Not that it matters.
+ You may be all fired up, but you've already missed your chance to fight back.
 }
 [sha:b370df81386f8dfee7cbedc10ca41ecf832f6dd0]{
 -- Page 288, Offset 36123.
 -- 冷静になって下を見下ろしたら？　志貴クンはわたしの指先一つで死者どもの食い物になる。もうアナタが何をやってもあの子は助けられない。
-How about you cool off and try looking down? I can turn Shiki-kun into food for the Dead with just a single finger. No matter what you do, you won't be able to save him anymore.
+Why don't you cool your head and take a look below you?
+ All I have to do is snap my fingers and Shiki-kun here gets turned into dinner for the Dead.
+ There's nothing you can do to save him at this point.
 }
 [sha:82de84138188a8943d3beb4d38107a663ae7e03b]{
 -- Page 288, Offset 36124.
 -- それがイヤなら、おとなしくわたしの魔眼に」
-If you don't want him to die, then play nice and let me enchant you with my Mystic Eyes."
+// The VA here sounds cut off? There's no ――― on the JP though
+If you don't want him to die,
+ then be a good girl and look into my―――"
 }
 [sha:bada448b76cce12d89de037fad6fbbb9aab92779]{
 -- Page 289, Offset 36125.
 -- 「失礼。そちらなら当然、真っ先に終わらせました」
-"Pardon me. If that's what you're talking about, then it's already been taken care of."
+"Sorry to interrupt.
+ I'm afraid that's already been taken care of."
 }
 [sha:e647bdc902b660ab925ec73c2e2b701206ec260d]{
 -- Page 290, Offset 36126.
@@ -156,32 +187,36 @@ Hmm...?
 [sha:701bd2c134a5d0f27e6338e25fc48434a2b93115]{
 -- Page 290, Offset 36127.
 -- 一瞬、先輩がこっちに視線を送ってきた。
-For a split second, Senpai passes a glance at my direction.
+Senpai flashes a split-second glance in my direction.
 }
 [sha:6e20831569f8364f4af6925f704627124427ad33]{
 -- Page 290, Offset 36128.
 -- 何かを伝えようとしたのだろうけど、まるで意図が掴めない。柱の上に立つ先輩を注意深く見上げるしかない。
-I can tell that she's trying to tell me something, but I can't tell what. All I can do is keep a close eye on Senpai as she stands on the pillar.
+I can tell that she's trying to tell me something, but I have no idea what.
+ All I can do is continue to keep a close eye on Senpai as she stands atop the pillar.
 }
 [sha:323079d35f4cf21940913eb7c89a57b50fd2ea55]{
 -- Page 291, Offset 36129.
 -- ……待て。
-...Wait.
+Hold on...
 }
 [sha:2835a5bfeca5a1a5384a12c746d6e7887a81b03e]{
 -- Page 291, Offset 36130.
 -- 夜空に星の光ではない光点が増えていく。
-Those bright spots glimmering in the night sky aren't stars, and they're growing in number.
+Those bright spots glimmering in the night sky aren't stars,
+ and they're multiplying rapidly.
 }
 [sha:da7d4211f8c071064cdbc16da18dfceb42a9bbce]{
 -- Page 291, Offset 36131.
 -- 十や二十ではきかない震動が伝わってくる。
-This tremor means that there are definitely more than ten or twenty of them.
+// 震動 presumably referring to the combined airplane cabin hum / high speed whoosh SFX currently playing,
+// nothing on the ground is actually shaking pre-impact
+It's clear from the mounting rumble in the distance that there's more than just ten or twenty of them.
 }
 [sha:cd4ab6dfa4b59052ba83d9af9f97ab0dc852c9e2]{
 -- Page 291, Offset 36132.
 -- これは―――間違いなく、先輩の黒鍵だ……！
-There's no doubt about it―――those are Senpai's Black Keys...!
+There's no doubt about it――those are Senpai's Black Keys!
 }
 [sha:5ea167d9b4364d55e534afbb09183e1a8a06bdd7]{
 -- Page 292, Offset 36133.
