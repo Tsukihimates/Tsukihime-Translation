@@ -80,7 +80,7 @@ And more importantly―――"
 -- Page 282, Offset 36109.
 -- 魔力はより強い魔力に洗い流される。どこの祖の<模造品|レプリカ>かは知りませんが、分かっていればこの通りです」
 // Confused by this second sentence. I parse it as
-// I don't know what ancestor's replica it is, but if I[?] knew, things would go like this?
+// I don't know what ancestor's replica it is, but if I'd[?] known, things would go like this?
 // But that doesn't make much sense, since she's clearly doing what she's doing regardless of not knowing
 // Manolo's line here makes sense in EN, but I don't see how we got there.
 Magical energy can be swept away by an even greater source of magical energy.
@@ -100,13 +100,13 @@ I'm actually able to see the vortex of magical energy swirling in the space betw
 [sha:9b819d1d01b642e8e01c152f37441565a608fb6e]{
 -- Page 284, Offset 36112.
 -- ノエルの魔眼からは茨のような呪いが放たれ、先輩を包もうとしている。
-Thorn-like curses sprout from Noel's mystic eyes,
+Thorn-like curses sprout from Noel's Mystic Eyes,
  and attempt to entwine themselves around Senpai's body.
 }
 [sha:ab1ab058fb3061e919338d010121c154b65ffcfe]{
 -- Page 284, Offset 36113.
 -- が、茨は先輩の体に触れた瞬間に崩れていく。あの右手に埋め込まれた呪いの質量が、ノエルの魔眼を圧倒している。
-But the moment those thorns touch her body, they crumble into dust.
+But the moment those thorns touch her, they crumble into dust.
  The mass of the curse embedded in her right hand is enough to completely overwhelm Noel's Mystic Eyes.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
@@ -187,7 +187,7 @@ Hmm...?
 [sha:701bd2c134a5d0f27e6338e25fc48434a2b93115]{
 -- Page 290, Offset 36127.
 -- 一瞬、先輩がこっちに視線を送ってきた。
-Senpai flashes a split-second glance in my direction.
+Senpai flashes a glance in my direction.
 }
 [sha:6e20831569f8364f4af6925f704627124427ad33]{
 -- Page 290, Offset 36128.
@@ -226,12 +226,13 @@ There's no doubt about it――those are Senpai's Black Keys!
 [sha:b8ca308ddadef0d41cbecb84299397b2324c1efe]{
 -- Page 292, Offset 36134.
 -- 唖然とした声は俺とノエルのものだろう。
-It must've only been Noel and I who exclaimed in shock.
+That shout of surprise must have been equal parts Noel's and my own.
 }
 [sha:024a43daa4983317652fc7b273e153282463d62b]{
 -- Page 292, Offset 36135.
 -- 空から降りそそいだ黒鍵は一体も逃す事なく、円陣を組んでいた死者たちを跡形もなく消滅させた。
-The rain of Black Keys falling from the sky completely annihilates the ring of Dead without even leaving so much as a trace behind.
+Not a trace remains of the Dead that had encircled me.
+ The Black Keys raining from the sky annihilated each and every one.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 293, Offset 36136.
@@ -241,17 +242,22 @@ The rain of Black Keys falling from the sky completely annihilates the ring of D
 [sha:f1e6072ca57fe9dcc1b3a57036da19273188fcca]{
 -- Page 293, Offset 36137.
 -- ノエルは殺意に満ちた目で俺を―――すべての手勢が消え去った地上を見つめ、切り捨てた。
-With eyes full of murderous intent, Noel stares at me, and at her razed troops, electing to abandon us.
+// Assuming 切り捨てる here is like "write it off"
+Eyes burning with murderous intent,
+ Noel takes one look at where I stand――at the battlefield that has been wiped clean of her troops,
+ and then turns her attention away.
 }
 [sha:5d7967c5d065659cececfcc2f1f429fa99378ceb]{
 -- Page 293, Offset 36138.
 -- 殺す対象である俺を完全に視界と意識から切り離した。
-She removes me, her target, from her own sight and consciousness.
+Even though I'm the one she wants to kill,
+ she puts me out of sight and out of mind.
 }
 [sha:92838c6d7fd6c6d5953eb51c054fbe15b1294704]{
 -- Page 294, Offset 36139.
 -- 当然だ。俺だって同じ立場ならそうしている。
-Of course she would. I would've done the same if I were in her position.
+Her actions make total sense.
+ I'd have done the same if I were in her shoes.
 }
 [sha:db9a4f5528a9026d8ac150491569551bffde3aa1]{
 -- Page 294, Offset 36140.
@@ -261,47 +267,66 @@ After all, she can no longer afford to make even the slightest mistake.
 [sha:22dc1b22c9950b186226385048f4a2a9bac44a52]{
 -- Page 294, Offset 36141.
 -- 実力差は明白になり、戦いの目的は切り替わった。
-The difference in their strengths has become apparent, causing her to change her course of action entirely.
+With the difference in strength now painfully clear,
+ the battle takes on new meaning.
 }
 [sha:89b7fad7ba762864f03ae8431e60f6f8dfdc142e]{
 -- Page 295, Offset 36142.
 -- これより数分。
-A few minutes pass.
+// Is this like これより三役? As in, the third bout / next few minutes are special/critical?
+// Feels off for this to be a measure of time passing based on ctx
+Everything will be decided in the next few minutes.
 }
 [sha:10fd62309196f9eca9b6b6f0cdd9c930bf52c294]{
 -- Page 295, Offset 36143.
 -- あの吸血鬼は『殺す為』ではなく『生き残る為』に、己の全存在を懸けなくてはならない。
-The vampire has no choice but to put her entire life on the line. Not in order to 'kill', but in order to 'survive'.
+That vampire has no choice but to put her entire life on the line.
+ Not in order to kill, but to simply try and survive.
 }
 [sha:155e9581c633293276ed1c6329bc93531edecc0f]{
 -- Page 296, Offset 36144.
 -- 「私の今までの戦い、今までの贖罪はすべて嘘だったと言いましたね、ノエル」
-"You said that all of the battles I've fought, and everything I've done in order to atone have been lies. Isn't that right, Noel?"
+"You said that all the battles I have fought,
+ and all the attempts I have made to atone,
+ are nothing but lies,
+ didn't you, Noel?"
 }
 [sha:0ebedf4b4f6a5b6777b3db3228a735fc608617a7]{
 -- Page 296, Offset 36145.
 -- 「言ったわ。何度だって言ってあげる。アナタは嘘つきで、ホントのコトなんて何一つなかったんだって」
-"I did. And I'll say it again. You're a liar, and you've never ever spoken the truth, not even once."
+// Slightly nonliteral with final sentence here to try and get it to make more sense as it
+// flows into the next two lines.
+"I did. And I'll say it again.
+ You're a liar.
+ There isn't an honest bone in your body."
 }
 [sha:9896cf76635c63cf739a1c5799d3ec79308698c5]{
 -- Page 297, Offset 36146.
 -- 「……そうですね。私の心は嘘にまみれています。
-"...I guess so. My heart is shrouded in lies after all.
+"You're right.
+ My heart has been muddied by lies.
 }
 [sha:17e468988df4ed149a5dfc546ded5657d7b9a881]{
 -- Page 297, Offset 36147.
 -- けれど消えないものもある。遠野志貴を助けたいという気持ちも、贖罪の名のもとに殺してきた犠牲者たちも、犯してしまった過去の罪も、決して消えない私の真実です」
-But there are also things that won't disappear. The desire to save Tohno Shiki, the victims I've killed under the guise of atonement, and the sins I've commited in the past, are all truths that will never go away."
+// 消えない a bit liberal since I assume this is still the same thread of logic (this is inverting 心は嘘にまみれ)
+But there are some things that cannot be obscured.
+ My desire to save Tohno Shiki,
+ the victims I've killed under the guise of atonement,
+ and the sins I've committed in my past are all indelible truths."
 }
 [sha:26fe74883a627a8bfb2dd21f43ae07ebc985e174]{
 -- Page 298, Offset 36148.
 -- 「私は、それを認めます。これから私が侵す命、私が残す憎しみをすべて自分の罪だと認めます。
-"I'll accept it all. All of the lives I'll harm, and all of the hatred that remains will become part of my sins.
+"I will accept those truths.
+ All of the lives that I destroy,
+ and all of the hatred I leave in my wake,
+ will be my sins to bear.
 }
 [sha:41082d45a5e72e52b1408b2e2710ce74ebfc668b]{
 -- Page 298, Offset 36149.
 -- 貴女が私を殺す事を、正当なものだと受け入れます」
-I'll also admit that you have every right to kill a person like me."
+You would be entirely justified in killing a person like me."
 }
 [sha:e136c93fd3a903c5e68ebd5e5075823b7778a75e]{
 -- Page 299, Offset 36150.
@@ -316,32 +341,39 @@ So what if you accept it? Are you implying that you're in the right just because
 [sha:c546f08069ccbc8d9d1700dcb5d72069aef89a27]{
 -- Page 300, Offset 36152.
 -- ノエルの背後に鉄の壁が形成される。
-Iron walls form behind Noel's back.
+// Going with singular because each strip is pretty small, so the sum is the 'wall'
+// Also reifying spears since it makes more sense with the next sentence. Ordinary walls don't have pointy bits.
+A wall of iron spears forms behind Noel.
 }
 [sha:32366ea948b410d4b1b5ebd4b3ac97472f70ab30]{
 -- Page 300, Offset 36153.
 -- 敵に向けて切っ先を並べる様は、それこそ吸血鬼の牙のようだ。
-The way they line up with their tips pointed at the enemy makes them appear like the fangs of a vampire.
+With their sharp tips all lined up facing their enemy,
+ they almost look like a vampire's fangs.
 }
 [sha:cd4c53cbec66561e027e9289f0661c06bee6b1ed]{
 -- Page 301, Offset 36154.
 -- 「いえ。善か悪かで言えばわたしは悪でしょう。
-"No. If we're talking about good and evil, then I would be the evil one.
+"No. If we're talking about good and evil, then I am certainly evil.
 }
 [sha:5bceab7d75e809a00678e54cec2e368ac582841a]{
 -- Page 301, Offset 36155.
 -- ですが、悪だから<善|よ>き生き方を望んではいけないかと言うのなら、それは間違いでした。
-But if you're trying to say that I can't wish to live a virtuous life because I'm evil, then that's where you're wrong.
+But if you're trying to say that I can't wish to live a virtuous life because I'm evil, then you're mistaken.
 }
 [sha:c370e29ccca56eb3e084a9131dba3d2ca1922be4]{
 -- Page 301, Offset 36156.
 -- ……だって。人間の善悪と人生の善悪は、哀しいほど違うものなんですから」
-...After all, the benchmarks of living a good or evil life are so far detached from humanity's concepts of good and evil that it's sad."
+After all...
+ The measure of what makes a human good or evil is so divorced from what makes a life good or evil that it beggars belief."
 }
 [sha:614c986511fbf37a8aa1382528cc99cf60760035]{
 -- Page 302, Offset 36157.
 -- 「私のせいだ、と復讐に走る貴女の言い分は間違いであり、正しい。ロアの転生を止めるという私の使命感も間違いであり、正しい。いま、私たちは同じ境界に立っている」
-"It's wrong for you to blame me and seek revenge, but it's also correct. It's wrong for me to feel a sense of duty to eliminate Roa's reincarnation, but it's also correct. Right now, we're both standing on the same boundary."
+// 彼らの境界？？
+"It's wrong for you to blame me and seek revenge, but it's also right.
+ It's wrong for me to feel a sense of duty to end Roa's reincarnation, but it's also right.
+ Right now, we're both standing on the same boundary."
 }
 [sha:a8c6186c71fd9a617cc5ea727258f5579eba36e2]{
 -- Page 303, Offset 36158.
@@ -351,22 +383,25 @@ The same boundary.
 [sha:f1826a5a462174665bddb35b5d457765ea5b52ad]{
 -- Page 303, Offset 36159.
 -- 善悪の狭間にいる同じ罪人だと彼女は言った。
-She's saying that they're both sinners standing on the border between good and evil.
+// Balance based TL instead of the more literal 'gray area' here to play nicely with 36161.
+She's saying that they're both sinners,
+ teetering atop the line that separates good from evil.
 }
 [sha:463f69d0668f45057a88818d78b2a63859505f05]{
 -- Page 303, Offset 36160.
 -- この状況において、私たちは対等だと。
-In a situation like this, they're both considered equal.
+And that under those circumstances, the two of them are equals.
 }
 [sha:9dfae8f49b507eb02ffdc57e5fbf0c8215e43f74]{
 -- Page 304, Offset 36161.
 -- 「なら、あとの<秤|はかり>は力で示すしかない。
-"In that case, all that's left is to tip the scales with our own power.
+// Reading あとの秤 as like tip them _to get a conclusion_, collapse the waveform
+"Thus, to decide who is right and who is wrong, we must tip the scales with our own hands.
 }
 [sha:3460b99f6757519fe390ee925bbd0ead4395aa5f]{
 -- Page 304, Offset 36162.
 -- 互いが間違いであるのなら―――それぞれの正しさは、互いの強さでしか量れない」
-If we're both wrong――then our justness can only be measured through our strength."
+And if we are both in the wrong――then only our strength can serve to prove us right."
 }
 [sha:90cd69ad75c4378f145481b260ee7d9101648c14]{
 -- Page 305, Offset 36163.
@@ -376,47 +411,53 @@ The Seventh Holy Scripture activates.
 [sha:6e68059e16ee92db2500d72dd3bb55593ae063cd]{
 -- Page 305, Offset 36164.
 -- 今のが最後の言葉だと彼女の目が告げている。
-Her eyes signal that she has no more words to say.
+It's clear from the look in her eyes that she has nothing more to say.
 }
 [sha:4096eba7367c62f63c512fa576a08c1d87bd29ea]{
 -- Page 306, Offset 36165.
 -- 「なにそれ。結局、強い方が正しいっていうワケ？
-"Are you serious? In the end, doesn't that just mean that whoever is stronger is correct?
+"Are you serious?
+ Doesn't what you're saying boil down to just 'might makes right'?
 }
 [sha:d06eb78327efd8768ff22472a31a57256eb0453c]{
 -- Page 306, Offset 36166.
 -- ―――ああ、ほんとに信じられない。最後の最後までむかつく女」
-―――Ah, I can't believe it. Even until the end, you're as irritating as ever."
+―――Ugh, I can't believe it.
+ You sure know how to piss me off right up until the very end."
 }
 [sha:4886bb93ff8bf4bfba444fdd131602a4cf585cd6]{
 -- Page 307, Offset 36167.
 -- それは違う。
-That's not true.
+That's not it.
 }
 [sha:1004a07878da66877fa63a50dc09c076fd4787c9]{
 -- Page 307, Offset 36168.
 -- 強い方が正しいのではなく、己の強さで正しさを証明するしかない、と彼女は言ったのだ。
-She isn't saying that whoever is stronger is correct, she's saying that the only way to prove your righteousness is with your own strength.
+// Feels like we're splitting some pretty small hairs here
+She isn't saying that the stronger of them is automatically in the right――
+she's saying that they have to use their strength to demonstrate their righteousness.
 }
 [sha:e68bb8d1d24224a3d24fa0adf62d27b62dd8ea3f]{
 -- Page 307, Offset 36169.
 -- “……この期に及んでも、ごめんなさいと謝れなくて、ごめんなさい”と。
-'...I know it's late, but I'm sorry for never apologizing to you until now.'
+'I know it's late, but... I'm sorry for not apologizing to you before.'
 }
 [sha:c1107b2ac116728bd4ee5eabafb79ec70ca0cabd]{
 -- Page 307, Offset 36170.
 -- その気持ちは、最後まであの少女には伝わらなかった。
-Even until the very end, her feelings never got across to the girl.
+In the end, her feelings never reached that girl.
 }
 [sha:eea9303b733711697ed77f36102d170f16a0ccfa]{
 -- Page 308, Offset 36171.
 -- 「開きなおりやがって―――それが不公平なんだって、何度も何度も言ってるじゃない……！」
-"There you go again, getting on your high horse―――I told you over and over again that it's unfair, didn't I...?!"
+"There you go again, getting on your high horse――I told you over and over again that it's unfair, didn't I...?!"
 }
 [sha:15461675b0dc043da1e250be41111f75d8d8b39f]{
 -- Page 309, Offset 36172.
 -- 放たれる聖夜の鐘。
 // Behoyo (bells of the holy night)
+// French incident happened on Christmas eve (聖夜), right? Is this supposed to be a reference?
+// Also there isn't even a bell SFX here smdh
 The bells of the holy night are released.
 }
 [sha:5afa37b513c049e6d4d9e123e22b444b8c738be6]{
