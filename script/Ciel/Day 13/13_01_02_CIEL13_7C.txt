@@ -423,7 +423,7 @@ It's clear from the look in her eyes that she has nothing more to say.
 -- Page 306, Offset 36166.
 -- ―――ああ、ほんとに信じられない。最後の最後までむかつく女」
 ―――Ugh, I can't believe it.
- It's this late in the game and you're still finding new ways to piss me off."
+ It's this late in the game and you're %{i}still%{/i} finding new ways to piss me off."
 }
 [sha:4886bb93ff8bf4bfba444fdd131602a4cf585cd6]{
 -- Page 307, Offset 36167.
@@ -479,7 +479,7 @@ And she couldn't save the girl.
 [sha:8399483617801b27747b29bc435383264a1c6039]{
 -- Page 310, Offset 36176.
 -- もう殺し合う事しかできない、両者の激突が始まった。
-With no options left but to fight to the death,
+With no option left but to fight to the death,
  the two begin their battle in earnest.
 }
 [sha:ba55591ccd88d64e1ed9fba7d62939aca012b7ea]{
@@ -539,7 +539,7 @@ Before she even has time to react,
 -- 銃剣を槍の壁で防いだものの、壁は粉砕され、大きく後方に弾き飛ばされた。
 // Pretty sure I've been translating 銃剣 as 'stake' or similar, since I don't think Seven
 // has the sort of secondary blade one would think of as a 'bayonet', just the
-// main pointy bit for stabbing vampires
+// main pointy bit for pile bunkering
 Noel forms a wall of spears to try and protect herself from the oncoming stake,
  but it completely bulldozes her defences and sends her flying backwards.
 }
@@ -574,68 +574,86 @@ Noel tries her best to keep moving despite the fact that she's about to burst in
 [sha:7bfa64d85d334ccb93318ad32f022ff3213b917a]{
 -- Page 316, Offset 36193.
 -- 分かっていた。これぐらいは分かっていた。なにしろ相手は人間以上の怪物ではない。怪物の中の怪物だ。先ほどの哀れな吸血鬼モドキとは違う。戦いになれば簡単には勝利できない。そんな事、初めから分かっていたのに―――！
-She knew. She already knew from the start. After all, her opponent isn't just a monster that's beyond human. She's a monster even among other monsters. She's nothing like the pathetic vampire wannabe she fought earlier. There's simply no way she could ever win in a fight. She understood that from the very beginning, and yet―――!
+// Rhymes with Arc as a 怪物にとっての怪物 in 04_00_ARC04_4_1B
+// Assuming 吸血鬼モドキ is Shiki
+// Using 'that woman' / otherwise avoiding plain pronoun for Ciel just to try and lessen confusion
+She knew.
+ She knew this would happen.
+ After all, her opponent isn't a monster that's beyond human.
+ That woman is a monster even among other monsters.
+ A different beast entirely to the vampire wannabe she was fighting a moment ago.
+ She knew from the start that if it came to a fight, there was no clear path toward victory, and yet―――!
 }
 [sha:edcab4e54d22ef9498110b7e2838aed9774fd3e7]{
 -- Page 317, Offset 36194.
 -- 「ちくしょう―――ちくしょう、ちくしょう、ちくしょう！」
-"Shit――shit, shit, shit!"
+"Shit――shit, %{i}shit%{/i}, %{i}SHIT%{/i}!"
 }
 [sha:c03881c422cf97e7ae8da7b226f3b6cae80799cc]{
 -- Page 317, Offset 36195.
 -- 一撃ごとに圧されていく。
-With every attack, she's pushed even further into a corner.
+Each attack drives her further and further into a corner.
 }
 [sha:70bbb177156a60ee3fecd0d4f21c80bb50724299]{
 -- Page 317, Offset 36196.
 -- 一撃ごとに削られていく。
-With every attack, she's being whittled away.
+Each attack chips away more and more of her defences.
 }
 [sha:3478bde3d61270c2d62349ac4c66d1e5c34169f1]{
 -- Page 317, Offset 36197.
 -- こんなの、あと数回も耐えられない。
-At this rate, she'll only be able to withstand a couple more attacks.
+She can't withstand many more hits like this.
 }
 [sha:f40f5ac40b8856fb03b4ef2bfe06957b9c2a0f6e]{
 -- Page 317, Offset 36198.
 -- だからここで殺す。この瞬間に殺す。すべての余力を注ぎこんで、この一息で殺し切る―――
-That's why she has to kill her now. She'll kill her right now. She'll use all of her remaining power in an attempt to kill her in a single blow―――
+She has to kill her right here.
+ She has to kill her right now.
+ She has to gather all of her remaining strength behind one last desperate attack―――
 }
 [sha:9702ae98d7c95f0f4a87f3887e9f56cac2e2cd3c]{
 -- Page 318, Offset 36199.
 -- 「ふざけんな！　死ね、死ね、死ねぇぇえええ！」
-"Don't mess with me! Die, die, diiiiiie!"
+"You piece of shit!
+ Die, die, diiiiiie!"
 }
 [sha:aeb6bd4ba2cc1619984bc26a7200449579216606]{
 -- Page 318, Offset 36200.
 -- 全身の血液を一滴のこらず捧げ尽くす。
-She exhausts every single drop of blood in her body.
+She exhausts every last drop of blood left in her body.
 }
 [sha:37af2b6e29dd08c52dc01b4176bd2c21f39fd634]{
 -- Page 318, Offset 36201.
 -- 撃ち出せる凶器はすべて吐き出した。
-With that, she spews forth every single weapon she has at her disposal.
+With it, she unleashes every last weapon she can muster.
 }
 [sha:3fc1e45d54e52878076ba4f123d2d39d7085a9cd]{
 -- Page 318, Offset 36202.
 -- けれど絶望を見せつけられた。
-But all it did was bring her despair out in the open.
+But all she did was reveal how desperate she is.
 }
 [sha:2cb4771db9a4c3d6f100a11efaa5a4ce3aedea58]{
 -- Page 318, Offset 36203.
 -- 代行者は止まらない。傷さえつかない。
-The Executor doesn't stop. She doesn't even have a single scratch on her body.
+The Executor isn't stopping.
+ She isn't even injured.
 }
 [sha:0249286c0736311212c6b6e695552511805ae477]{
 -- Page 318, Offset 36204.
 -- 反撃の糸口なんて―――勝てる要素なんて、これっぽっちも見当たらない……！
-There's no opening for her to mount a counterattack――nor is there even the slightest path to victory...!
+There's no opening for her to mount a counterattack,
+ no road that leads to victory――nothing!
 }
 [sha:2f2279f63d660bb94d02603f558e000ced6a4c3d]{
 -- Page 319, Offset 36205.
 -- 「なによ……なによ、なによ、なによ……！　一本ぐらい刺さってよ、少しぐらい痛がってよ……！　かすり傷さえ負わないとか、こんなのあんまりにも酷すぎる……！　わたしのが正しいのに、わたしのが正義なのに負けちゃうの!?
 // https://www.youtube.com/watch?v=VM3uXu1Dq4c
-"Why... why, why, why...! At least let one of them pierce you! Show me that you're feeling even the slightest bit of pain...! To think that you don't even have a single scratch on you... that's too cruel...! You're telling me I'm losing even though I'm right, even though I'm on the side of justice?!
+"Why... why, why, why...!
+ Just let at least %{i}one%{/i} of them pierce you!
+ Just let me see you feel at least a %{i}tiny%{/i} bit of pain!
+ You bastard... how can you not even have a scratch on you!
+ How can I be losing when I'm the one who's in the right,
+ when I'm the one with justice on their side?!
 }
 [sha:a561a6ff18d252bfad7a1f1b93db1fc67e4f11e6]{
 -- Page 319, Offset 36206.
@@ -645,7 +663,8 @@ I knew it, there really is no God!
 [sha:2f89361fd931eb4bbf76f86cf98cb44398ef5ff7]{
 -- Page 319, Offset 36207.
 -- わたしは、ただ……！」
-I just...!"
+// Duped up a bit so that it matches the two-beat VA
+I just... I just―――!"
 }
 [sha:6cd468df4922012ac342f6b0a561850113d6e5cf]{
 -- Page 320, Offset 36208.
@@ -660,42 +679,47 @@ The girl who fell from grace and became a vampire screams with bloodshot eyes.
 [sha:b5ece7f2fad0be15c32f9e4f447fe693eee2c9d5]{
 -- Page 320, Offset 36210.
 -- その訴えを彼女は真っ向から切り捨てた。
-She completely disregarded her own pleas.
+// Inferring 彼女 as Ciel here based on the visuals?
+// Literally and figuratively striking down her appeal
+Her opponent flatly rejects her appeal.
 }
 [sha:d74d4e639d8e3c9cbcd9f054a99bfcf9c425c8bb]{
 -- Page 321, Offset 36211.
 -- 吸血鬼ロアへの復讐。
-Her revenge against the vampire, Roa.
+She desired revenge against the vampire named Roa.
 }
 [sha:f45eb03744c80b580a89c9ee6ebc25e901ad48ec]{
 -- Page 321, Offset 36212.
 -- 殺された街の人々への<弔|とむら>いだけなら少女は正しかった。
-If she had simply mourned for the townspeople that were killed, then she would've been just in doing so.
+If she had been motivated by the desire to lay the souls of the townspeople to rest,
+ it would have been a just cause.
 }
 [sha:e535c831f80544a92c6f981ddedcdb7d71758484]{
 -- Page 321, Offset 36213.
 -- けれどノエルの心には個人的な快楽があった。
-But there was a sense of pleasure deep within Noel's heart.
+But instead, Noel was driven by her own desires.
 }
 [sha:801484d25eacba1aff88c1b3883a185fd8a710bd]{
 -- Page 321, Offset 36214.
 -- 死徒への暴力。犠牲者たちへの個人的な制裁。
-The violence against Dead Apostles. Her personal retribution toward their victims.
+She tortured Dead Apostles.
+ She exacted her own unique punishments on their victims.
 }
 [sha:3db4be79e93e922cfcbe31014f424fe521f9dbae]{
 -- Page 321, Offset 36215.
 -- そして悦びから殺しに殺した50人の命。
-And the fifty lives she took with delight.
+She killed fifty people just so she could savor the act of killing.
 }
 [sha:76351151635f0af1c4901c2de682f7bf68a6bbb4]{
 -- Page 321, Offset 36216.
 -- 自分の目的の為に、多くの事を正当化してきた。
-She justified many things in order to fulfill her own goals.
+She justified all sorts of things to herself in order to fulfill her own goals.
 }
 [sha:2c6cb14b5353bce42fbdd29993780fda6e32f1b3]{
 -- Page 321, Offset 36217.
 -- その行為は、決して正義とは呼べないものだ。
-Such acts couldn't be called justice by any means.
+// Assuming this pairs with the 正義 in 36205
+But such acts cannot be considered justice.
 }
 [sha:7b001863f604070ca4dc1f4edabb0cc0293769f8]{
 -- Page 322, Offset 36218.
@@ -715,7 +739,7 @@ Using her skill with the halberd that she cultivated while she was a human, she 
 [sha:c5e7359e17c61142520dbed7d7057636cb06cc22]{
 -- Page 324, Offset 36221.
 -- 皮肉な事に、彼女たちにとってそれは慣れ親しんだ打ち合いだった。
-Ironically, it was an exchange of blows that they were both  extremely familiar with.
+Ironically, it was an exchange of blows that they were both extremely familiar with.
 }
 [sha:a975e20de414114927e00bbb48b42632338d5382]{
 -- Page 324, Offset 36222.
