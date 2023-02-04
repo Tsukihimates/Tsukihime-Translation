@@ -6,33 +6,42 @@
 [sha:14c0f6b6a6c56f07fe9c04b6156ad515093755de]{
 -- Page 10003, Offset 22319.
 -- 「えぇ～？　志貴チャンったら遊びがな～い！
-"Ohhh~? You're no fun, Shiki-chan~!
+"%{i}Awwww%{/i}! You're no fun, Shiki-chan!
 }
 [sha:652c71b4ee9d91a0817e4e4327c922f93cc65869]{
 -- Page 10003, Offset 22320.
 -- でも仕方ないか、患者さんの決断は絶対厳守がアタシのプライドだし。はーい、ちょっとチクッとするけど我慢してねぇ？」
-I'll do as you say though. I pride myself on absolutely respecting my patient's decisions after all. It's going to tingle a little but I don't think it'll hurt, okayyy?"
+I'll do as you say though.
+ After all, I make it a point of pride that I respect my patient's decisions no matter what.
+ Alrighty, you may feel a prick but it won't hurt okayyy?"
 }
 [sha:11949ca2e4be161002d1a0b508945c9cd53340e3]{
 -- Page 73, Offset 22321.
 -- 阿良句博士は不満げではあったものの、その手際は見事なものだった。
-However unsatisfied Dr. Arach seems to be, her skills are truly splendid.
+Prof. Arach seems a little put out by my decision,
+ but she still carries out her work with remarkable deftness.
 }
 [sha:0f2e4f2359719039598ce76c7984454063ac6023]{
 -- Page 74, Offset 22322.
 -- 「ウフフ、注射慣れしてるでしょ？　ほら、アタシ博士だけどナース服も大好きですし？　メスの感触も痺れちゃうけど、お注射のドクドク注入しちゃう感じとかたまらないじゃない？
-// I imagine that there's also a pun between メス scalpel and メス・雌
-"Hoho, I see that you're used to injections. Hey, I may be a doctor but I also love nurse outfits! Of course, the sensation of the scalpel is pleasurable, but the feeling of the syringe penetrating deep inside is out of this world, don't you think?
+// I imagine this is an intentional pun between メス scalpel and メス・雌, especially given the context
+// Can't think of any way to tie these neatly in EN, so just rubied
+"%{i}Hoho%{/i}, I see that you're used to injections.
+ Hey, I may be a doctor but I also love to play nurse sometimes too, y'know?
+ I feel a tingle at the touch of a <scalpel|w o m a n   >,
+ but the feeling of a syringe penetrating deep inside is out of this world,
+ don't you think?
 }
 [sha:580cff0a23b79e15755a5a9ee40dcd6c149dfe7a]{
 -- Page 74, Offset 22323.
 -- ―――って、無言で席を立つとか志貴チャンひどくない!?」
-―――Argh, getting up without even saying a word, you're so cruel, Shiki-chan!"
+―――%{i}Argh%{/i}, getting up without even saying a word, you're so cruel, Shiki-chan!"
 }
 [sha:519a110ec7bce3f9e572f8a126cd11a0de7c03c1]{
 -- Page 75, Offset 22324.
 -- 「いや、後がつかえてますから。雑談はまた次の機会に」
-"Listen, I've got places to be, so please keep the small talk for next time."
+"Listen, there's somebody after me.
+ We can catch up all you want next time."
 }
 [sha:129753383057e6f1e33c8135e8d2f8cebc07e477]{
 -- Page 75, Offset 22325.
@@ -42,23 +51,25 @@ I do feel bad, but if I keep chatting with her, second period will end.
 [sha:35477cc9235c52ed56070ec8b5d57a8d937bed20]{
 -- Page 75, Offset 22326.
 -- 服を正して保健室を後にする。
-I straighten my uniform and leave the infirmary.
+I straighten my uniform and go to leave the infirmary.
 }
-[sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
+[offset:22327]{
 -- Page 75, Offset 22327.
 -- ……と。
-And then...
+As I do―――
 }
 [sha:0a4a919c360c0348c747a009f71b5a40ad8a9dd1]{
 -- Page 76, Offset 22328.
 -- 「アタシも仕事が入ってるから次の機会とかないんだけどね。ま、そのあたりはいっか、志貴チャンとは関係ないし。
-"I'll be busy with work, so there won't be a next time. Well, anyway, it's got nothing to do with you, Shiki-chan.
+"I've got my hands full with work all of a sudden too, so there won't be a next time.
+ Well, anyway, it's got nothing to do with you, Shiki-chan.
 }
 [sha:4220d6b7b9b70f3075acbaf46dcb115029bb0461]{
 -- Page 76, Offset 22329.
 -- たしかに後はつかえてるしぃ？　楽しい日々はもうおしまい、ぬっるい休憩はいい加減ここまでかもねぇ？」
 // ぬっるい休憩 is a strange combination.
-You said you had 'places to be', right? Your days of amusement are already over, so isn't it finally time to put an end to your tepid slumber?"
+You said there's %{i}someone coming after you%{/i}, right?
+ Your days of amusement are already over, so isn't it finally time to put an end to your listless slumber?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 77, Offset 22330.
@@ -68,15 +79,21 @@ You said you had 'places to be', right? Your days of amusement are already over,
 [sha:639a062f4263cc337fc8d0616cba2952542c5d00]{
 -- Page 77, Offset 22331.
 -- 不吉な言葉に一瞬だけ振り返る。
-Hearing her ominous words, I turn around for just a second.
+I glance back over my shoulder at her ominous words.
 }
 [sha:37d8e0c3928413b3dc01da813638a38393ba9047]{
 -- Page 77, Offset 22332.
 -- ……おそらく、いつもの皮肉だったのだろう。
-...It's probably just one of her usual sarcastic jabs.
+It's probably just one of her usual sarcastic jabs...
 }
 [sha:a8ee3483a4e9cc5989a3fce276c404f5401ffa59]{
 -- Page 77, Offset 22333.
 -- 阿良句博士はカーテンの向こうで、その長い髪を蜘蛛の巣のように揺らしていた。
-From the other side of the curtain, Dr. Arach's long hair seemed to be undulating like a spiderweb.
+// Googling around, this seems like a spider action that's not really captured in English,
+// where they'll flail around bizarrely like they're glitching out
+// https://www.youtube.com/watch?v=SP5c_MEs9mo
+// wait, wrong vid
+// https://youtu.be/RfDDb5M27t8?t=100
+// Been fairly liberal with this as a result
+The shadow cast by Prof. Arach's long hair sprawls across the curtain like a spiderweb.
 }

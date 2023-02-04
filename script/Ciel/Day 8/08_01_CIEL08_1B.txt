@@ -25,8 +25,9 @@ I am glad to see you ready with time to spare this morning,
 [sha:91af3abeeb9d7c01596be42bf1a7c309b36cdd72]{
 -- Page 34, Offset 18351.
 -- 優雅にお茶を楽しんでいた当主様も今朝は見るからに上機嫌だ。何かいい事でもあったんだろう。
+// optional
 Our esteemed family head is in a visibly good mood as she elegantly savors her tea.
- I wonder what's got her in such high spirits.
+ I wonder what's got her in such high spirits?
 }
 [sha:e63fa56f82535dc61209b4a517bf16784c053a79]{
 -- Page 35, Offset 18352.
@@ -46,7 +47,7 @@ You still have some time, right?"
 [sha:bf261f06e779e688c01781bc97747dd1a98bac12]{
 -- Page 36, Offset 18355.
 -- 「普通、などというお茶はないのですけどね。琥珀、兄さんにも一つ淹れてあげて。チョイスは貴女に任せるわ」
-"I don't believe there exists such as thing as 'regular' tea.
+"I don't believe there exists such a thing as 'regular' tea.
  Kohaku, brew another cup for Nii-san.
  I'll leave the choice of tea up to you."
 }
@@ -129,7 +130,7 @@ That being said, I'm no pro.
 // ok :b:oomer
 "Well, so long as I've got the time.
  Texting someone a sentence or two can only ever convey a sentence or two worth of information.
- It's fine for just giving someone a heads-up, but if you want to have a proper conversation it's way better to meet up and have a chat."
+ It's fine for just giving someone a heads-up, but if you want to have a proper conversation, it's way better to meet up and have a chat."
 }
 [sha:9773650c50ef78e8da3a86e73a6cdd024bfdb39f]{
 -- Page 44, Offset 18370.
@@ -161,7 +162,7 @@ I am in complete agreement.
 -- Page 45, Offset 18374.
 -- 当主さま。まことに言いづらいのですが、爪が猫のものだったら猫なんじゃないかな、その人。
 // If the paw fits
-My dear Matriarch... I hate to break it to you, but anyone with cat's paws is, in fact, a cat.
+My dear Matriarch... I hate to break it to you, but anyone with cat paws is, in fact, a cat.
 }
 [sha:12d3b41d3ffacb20caf83212c3e5e1ac749b6952]{
 -- Page 46, Offset 18375.
@@ -178,7 +179,7 @@ I think simple relationships are useful in their own way.
 -- Page 46, Offset 18377.
 -- 色んなところに行けるようになって、いろんな人と知り合えるようになった以上、人間関係も最適化させないと潰れちまう……ってのは友人からの受け売りだけど」
 Once you've been all sorts of places and met with all sorts of people,
- you have to start optimizing your relationships or you'll end up crushed.
+ you have to start optimizing your relationships or you'll end up burning yourself out.
  That's what a good friend told me, at any rate."
 }
 [sha:9637c79df6be0a03013a43bff20a6038a54c643b]{
@@ -200,7 +201,7 @@ Although, Arihiko――the one who said that to me――lives his life in comple
 -- Page 48, Offset 18381.
 -- ……今さら言うまでもないけど。怖いよね、うちの妹。
 It should go without saying at this point, but...
- My little sister sure is scary.
+ my little sister sure is scary.
 }
 [sha:fd76d1adba6412e11e8a27588eec36ae7353c3a1]{
 -- Page 49, Offset 18382.
@@ -227,7 +228,7 @@ It must be about time for Akiha to head to school,
 -- Page 51, Offset 18386.
 -- 私は夕方まで帰れませんが、兄さんのご予定は？」
 I won't be back until this evening.
- Do you have any plans for the day, Nii-san?"
+ Do you have any plans for the day?"
 }
 [sha:a06af1b0e9163257f239b0eb8c305537e0f437fe]{
 -- Page 51, Offset 18387.
@@ -272,6 +273,7 @@ I'm just going to go to school, then come right back again after."
 [sha:47551240924b8d2d66df30ebd8696963b9ab1661]{
 -- Page 54, Offset 18395.
 -- 「……ふうん。そんな事なら午後の予定はキャンセルしておけばよかった」
+// Whispered if we want to mess with the font
 "%{i}Hmph%{/i}... If I'd known, I'd have cleared my schedule for the afternoon."
 }
 [sha:55f31e3aec198a41f2b7ece29fd6b7c07fd353b1]{
@@ -313,7 +315,7 @@ Up until yesterday, I'd only ever asked myself what I %{i}should%{/i} do.
 [sha:12235f99073f4d88324d444356f00c36b87a714e]{
 -- Page 57, Offset 18403.
 -- 知ってしまった者の責任として、いま優先すべきは吸血鬼の後始末だ。
-As someone who's aware of what's happening, my priority should be to clean up the remaining vampires.
+As someone who's all too aware of what's happening in the city, my priority should be to clean up the remaining vampires.
 }
 [sha:c1e1513fb30eba3057c675d9a28cf0bfa6dac905]{
 -- Page 58, Offset 18404.
@@ -376,7 +378,7 @@ Now convinced, I stand up from the sofa.
 [sha:38021f55a71778179e0b145e6cd8f65b754b0af5]{
 -- Page 62, Offset 18415.
 -- 時刻は７時半。
-The time is seven-thirty.
+The time is 7:30.
 }
 [sha:f500d73590a2148796606414a1c6b80bd2a0d4e1]{
 -- Page 62, Offset 18416.

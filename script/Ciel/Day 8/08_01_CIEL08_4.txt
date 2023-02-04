@@ -109,13 +109,13 @@ Oh, but if at any point it becomes truly unbearable, make sure you stop right aw
 -- Page 341, Offset 19109.
 -- アルクェイドに<促|うなが>されて夜の街に向かう。
 // 夜の街, my old nemesis
-With Arcueid leading the charge, we set off for the city.
+With Arcueid leading the charge, we set off into the night.
 }
 [sha:fed41ddcfebea965ae18c94be6c7ed02d03b7fe3]{
 -- Page 341, Offset 19110.
 -- 眼鏡を外す覚悟を決めると、不思議とやる気が湧いてきた。
 As soon as I commit myself to taking off my glasses,
- I feel a strange sense of enthusiasm well up inside me.
+ I feel a strange sense of enthusiasm well up inside of me.
 }
 [sha:e81d5d59ff3e787f1d6cbe062c8370c78ec1bb2f]{
 -- Page 341, Offset 19111.
@@ -171,7 +171,7 @@ To live is to take risks. That applies to all of us.
 -- Page 345, Offset 19120.
 -- ヤツラが外に出てくるのが先か、俺たちが気を緩めるのが先か。しばらくはこんな根比べが続くのだろう。
 What will come first? Will they show themselves, or will we let our guard down?
- This endurance contest will probably drag on for a while.
+ This battle of endurance will probably drag on for a while.
 }
 [sha:816415fa400e2acfd29640d39ab668673dd48db5]{
 -- Page 345, Offset 19121.
@@ -213,7 +213,7 @@ Thanks to that, my dizziness and nausea are receding, albeit slowly.
 [sha:9b795c284c7e14c7b6a924a997cd5e5555d746a0]{
 -- Page 349, Offset 19128. Glued.
 -- でもわたしは楽しかったわ。志貴はあいかわらず文句ばっかりだったけど、無駄なコトがこんなに面白いなんて知らなかった。
- I still had fun though.
+ I still had fun, though.
  You spent the whole time complaining as usual,
  but I had no idea that doing such pointless stuff could be so fun.
 }
@@ -294,7 +294,7 @@ I recognize how foolish I am.
 [sha:4a0bba8b3831946ac5b1f0a5b2fda2de8bd469e0]{
 -- Page 355, Offset 19143.
 -- 先輩の助けになりたいと思いながら、先輩の敵である吸血鬼に焦がれているなんて。
-I want to help Senpai, but at the same time I'm yearning for a vampire――for her enemy.
+I want to help Senpai, but at the same time, I'm yearning for a vampire――for her enemy.
 }
 [sha:380d2d535b7b2363ca4d244664ec0c3024e840ed]{
 -- Page 355, Offset 19144.
@@ -371,7 +371,7 @@ Wait, don't tell me you're worried about me?"
 [sha:fbd1aaf16155e058f5e6dd1efa989e5035f17383]{
 -- Page 360, Offset 19158.
 -- アルクェイドは身を屈めて、ベンチに座った俺の顔を覗きこんでくる。
-Arcueid stops in front of the bench, leans over and peers into my face.
+Arcueid stops in front of the bench, leans over, and peers into my face.
 }
 [sha:1e8dfd06664b8110fa9669599752d6b97baedcf8]{
 -- Page 361, Offset 19159.
@@ -397,12 +397,12 @@ Her proximity and feminine scent are almost enough to send me over the edge.
 // im not too sure about this one but either but "more than human" doesnt make sense
 What happened yesterday is something else.
  I guess it probably had something to do with the fact I was altering the way my body operates?
- You see, when I'm not in battle, I try and make myself more human to match you."
+ You see, when I'm not in battle, I try to make myself more human to match you."
 }
 [sha:3ce53ee0880f34c6546da57dbb7fdf80a61ef78b]{
 -- Page 363, Offset 19163.
 -- 「は……？　人間よりって、なんで？」
-"Huh...? Why would you try and make yourself more human?"
+"Huh...? Why would you try to make yourself more human?"
 }
 [sha:2769af6b735a16e60df5eb3237ddd3b814ee2b84]{
 -- Page 363, Offset 19164.
@@ -428,13 +428,13 @@ She's like a dancing, fluttering butterfly.
 -- Page 365, Offset 19168.
 -- 吸血鬼は風邪を引かないって先輩も言ってたし」
 // 10 haunting photos taken moments before disaster
-Senpai also said it'd be impossible for a vampire to catch one."
+I mean, Senpai also said it'd be impossible for a vampire to catch one."
 }
 [sha:4cff4364f9ea316dd2a701570cf708e7df0e8cb3]{
 -- Page 366, Offset 19169.
 -- 人間よりになっている、という無駄な行為には危険なものを感じたが、彼女が順調に回復しているのなら結構だ。
 I feel like there's something dangerous about her going to such pointless lengths to become more human,
- but if she's recovering well then I'll just let it lie.
+ but if she's recovering well, then I'll just let it lie.
 }
 [sha:b96c0a98db2a4d19b862ce2c18c3a6565523be67]{
 -- Page 366, Offset 19170.
@@ -444,7 +444,7 @@ Relieved, I look up and―――
 [sha:c1f8366acb634bd8e17ec47eafea95f659d119eb]{
 -- Page 367, Offset 19171.
 -- 「先輩ってあの女のこと？」
-"By 'senpai', you mean that girl?"
+"By 'senpai', you mean %{i}that%{/i} girl?"
 }
 [sha:31f1939154f5b591d791c6f339f950e243351da8]{
 -- Page 367, Offset 19172.
@@ -460,7 +460,7 @@ Arcueid's scowling face is right in front of me, even closer than it was earlier
 -- Page 368, Offset 19174.
 -- 「な、なんだよいきなり。あ、あの女って、誰さ」
 "W-What's gotten into you all of a sudden?
- What do you mean 'that girl'?"
+ What do you mean '%{i}that%{/i} girl'?"
 }
 [sha:ce1d927ee0b0ea5f59307cccced83050aa7939df]{
 -- Page 369, Offset 19175.
@@ -529,7 +529,7 @@ They're a group created for the sole purpose of exterminating vampires.
 [sha:ea331764bf78f35bd11ab3cdad7ed4ab4a7e146b]{
 -- Page 373, Offset 19186.
 -- 主の御名において主の教えを代行する異端狩り。
-Heretic hunters who execute the Lord's teachings in His name.
+Heresy hunters who execute the Lord's teachings in His name.
 }
 [sha:70645a8be47c8eb702b310ea8700717d2da834b9]{
 -- Page 373, Offset 19187.
@@ -556,12 +556,13 @@ Wait... Hold on, what does this make you?
 [sha:9a195bd1ad3bbe6d588aa5560dfd65a9fd6e2c76]{
 -- Page 375, Offset 19191.
 -- 「それを言うなら、わたしは吸血鬼にとっての天罰よ。
-"Hmm, I guess I'd say that to other vampires I'm more like the wrath of god.
+// God intentionally lowercase, it's a generic god not the Christian God
+"Hmm, I guess I'd say that to other vampires, I'm more like the wrath of god.
 }
 [sha:f6cffee3c941543522cecbd1da2796c824cb369e]{
 -- Page 375, Offset 19192.
 -- ……まあいいわ。代行者なんて虫みたいなものだし、連中がどんなに出てきても関係ない。でもアイツだけは別」
-Ugh, whatever.
+%{i}Ugh%{/i}, whatever.
  Most Executors are just a bunch of cockroaches; I don't care how many of them there are crawling around.
  But that woman's an exception."
 }
@@ -579,7 +580,7 @@ It's like she doesn't even want to say Ciel's name.
 -- Page 376, Offset 19195.
 -- ……まいったな。仲が悪いだろうとは気付いていたものの、ここまでとは思わなかった。
 What a mess...
- I knew they didn't get along, but I had no idea it was this bad.
+ I knew they didn't get along, but I had no idea it was %{i}this%{/i} bad.
 }
 [sha:c5ade797b9c774a093353f1ea68a4fbd3e375804]{
 -- Page 377, Offset 19196.
@@ -600,7 +601,7 @@ What a mess...
 -- Page 378, Offset 19199.
 -- わたし、志貴のコトはなんだってイイんだけどアイツだけはダメ。貴方の気持ちがアイツに向くだけで許せない」
 // Literally 気持ちが向く feelings turn towards her
-I don't mind what you get up to Shiki, but only if it doesn't involve her.
+I don't mind what you get up to Shiki, as long as it doesn't involve her.
  If you start developing feelings for her, I won't forgive you."
 }
 [sha:a9bbf4475716414857a613839d034ed985377b40]{
@@ -627,7 +628,7 @@ She's seriously out for blood right now!
 -- Page 380, Offset 19204.
 -- 先輩は俺の学校の先輩だ。いつも世話になってるし、ヴローヴの時だって助けてくれた。アルクェイドだって、先輩と一度話せば仲良く、」
 Senpai is my upperclassman at school.
- She's always helping me out, and she saved me when we were fighting against Vlov.
+ She's always helping me out, and she even saved me when we were fighting against Vlov.
  I'm sure even you'd take a liking to her if you tried talking to―――"
 }
 [sha:dea8a0624a1ef53b4b155a9b34cce82d69e09dcd]{
@@ -699,7 +700,7 @@ That I almost wish I'd never found about Senpai's true identity.
 [sha:07050dd3b6caddedfe4e415d68dc36b71a8086cf]{
 -- Page 386, Offset 19217. Mods: @n.
 -- 「……ふうん、
-"Hmph...
+"%{i}Hmph%{/i}...
 }
 [sha:7fed7e8d5e2ee7d88a4ccf8e2ddb73c5d1706179]{
 -- Page 386, Offset 19218. Glued.
@@ -724,7 +725,7 @@ Her question drips with hostility and reproach.
 [sha:1949a0a1048e22003877a109ecb6d6b64913579c]{
 -- Page 388, Offset 19222.
 -- ……アルクェイドにとって、シエル先輩はどうしても許せない敵らしい。
-It's as if Ciel-senpai is Arcueid's sworn enemy.
+I guess Ciel-senpai is Arcueid's sworn enemy...
 }
 [sha:40392aedb1d39a513b7876252c01c97887857f45]{
 -- Page 388, Offset 19223.

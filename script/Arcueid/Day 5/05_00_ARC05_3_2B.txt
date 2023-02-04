@@ -344,7 +344,7 @@ We're not talking about how to avoid death, we're talking about how to kill."
 [sha:bd546e0ee6cdd4ef53df24292632ba52173233ad]{
 -- Page 274, Offset 9268.
 -- 「それは―――そうだけど」
-"Well that's―――true I guess."
+"Well that's――true, I guess."
 }
 [sha:85ec5798a507b739b423e7c3ce4eb756ea76900b]{
 -- Page 274, Offset 9269.
@@ -409,7 +409,7 @@ It's just like she said. While I leisurely waste my time cutting off his limbs, 
 [sha:2d4a63f472e8da84fe0af81b3d4dcac8d3e19386]{
 -- Page 279, Offset 9281.
 -- その時にわたしたち―――いえ、わたしと志貴であいつを、これ以上ないっていうカタチで『殺す』の。
-When that time comes, we―――no, you and I must both go in with the intent to completely massacre him.
+When that time comes, we――no, you and I must both go in with the intent to completely massacre him.
 }
 [sha:e4c7c04b610f0bdf43e85dc3ea2359c17b6f88ea]{
 -- Page 279, Offset 9282.
@@ -486,6 +486,7 @@ If we stay in this apartment, it'll just be a repeat of what happened at the hot
 -- Page 284, Offset 9296. Glued. Mods: @x.
 -- ……それでも通りかかってしまう人がいたのなら、それは純粋に、その人に運がなかっただけの話でしょう」
 // Bumped to newline since leading ― after period looks a bit whack
+// lint-off:LintEmDashes
 %{n}―――And if there do happen to be people passing by, then that's just their own bad luck."
 }
 [sha:b1f9fc2d04b329b16f7d5dc7719a5ed408bbc300]{

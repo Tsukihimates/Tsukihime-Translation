@@ -52,7 +52,7 @@ His body is on the verge of collapse, but he drags himself up and over the heaps
 [sha:0e19e542338f99caeba6aefc1ab08a04b8ec940d]{
 -- Page 450, Offset 32972.
 -- 「“ァ―――ア、アァア…………”」
-"%{i}A―――ah, aaa%{/i}..."
+"%{i}A――ah, aaa%{/i}..."
 }
 [sha:2b59833f5e0d8bad5fa4fa018557c08b587e4492]{
 -- Page 450, Offset 32973.
@@ -78,7 +78,7 @@ His life force is truly something to be admired.
 [sha:16e2f4957ef3acd6c006a48720bd90bd450b89fa]{
 -- Page 452, Offset 32977.
 -- 「“―――なんだ、今のは”」
-"What the hell―――was that?"
+"What the hell... was that?"
 }
 [sha:4366f74b4470f44817762d68d2e01c511321e0d2]{
 -- Page 452, Offset 32978.
@@ -121,7 +121,7 @@ His eyes are so brimming with hatred that it feels as though it could all come s
 [sha:e8efc2efab75f29605768b442007bac0295c3906]{
 -- Page 455, Offset 32985.
 -- 「“化け物め―――化け物め、化け物め、化け物め……！”」
-"You monster―――you monster, you monster, you monster...!"
+"You monster――you monster, you monster, you monster...!"
 }
 [sha:45675be39e79e07aa8d13686affadd465d3702ae]{
 -- Page 455, Offset 32986.
@@ -195,6 +195,7 @@ He understands this feeling better than most people.
 [sha:1826277751b53e130abb5bb59d56892b18e6a313]{
 -- Page 459, Offset 32999.
 -- 「―――今度は、帰って来られない」
+// lint-off:LintEmDashes
          "―――This time, you won't come back."
 }
 [sha:30f552523fc42df8e39341f1c8474b0e7688c3a7]{
@@ -261,12 +262,12 @@ If I was this prepared to turn into a cripple, I should have killed Roa much soo
 [sha:6001c9f396315cf6a1be1104e3409e8c874cffcb]{
 -- Page 463, Offset 33012.
 -- それならあいつだって、
-Because if I had, then she would...
+Because if I had...
 }
 [sha:dfdc3b6caa6256a1fe575c9fe8118ac8aed46dca]{
 -- Page 463, Offset 33013.
 -- あんなコトには、ならないまま――――
-still be alive right now――――
+Then still be alive right now―――
 }
 [sha:df852f2b858b429aa14d3cc4091cb0a688aa46a8]{
 -- Page 464, Offset 33014.
@@ -286,7 +287,7 @@ I feel a pain in my ankle.
 [sha:497bf4073389fa4f3f6f752421efc75e1b572195]{
 -- Page 464, Offset 33017.
 -- 振り返れば、そこには――――
-When I look back, I see――――
+When I look back, I see―――
 }
 [sha:c57d45b449501bd2725f5b574b2f68c4784fbe47]{
 -- Page 465, Offset 33018.
@@ -296,7 +297,7 @@ A monster, crawling using only his right arm.
 [sha:a3b86affa09821c558c5a7d60aef93269f4f8b1a]{
 -- Page 466, Offset 33019.
 -- 「キッ、キキ、キサ、マ―――――」
-"Y-Y-Y...You―――――"
+"Y-Y-Y...You―――"
 }
 [sha:54da876d03ad5f7a6f504468d132b9039b57e6b5]{
 -- Page 466, Offset 33020.
@@ -306,7 +307,7 @@ He slowly drags himself on top of my fallen body.
 [sha:d0cd9a2c2f6456b80a266868e020e52ab7f127ac]{
 -- Page 466, Offset 33021.
 -- 「消絵、消江る、ワタ、、、シが、キエ、留――――」
-"I...i ...i'm ... , f... Fa... faD――――"
+"I...i ...i'm ... , f... Fa... faD―――"
 }
 [sha:c2098954d087b014b02d9156b8c889dacc6d248c]{
 -- Page 466, Offset 33022.
@@ -316,7 +317,7 @@ He wraps his blood-soaked arm around my neck.
 [sha:f52339799de95974ab70f9c69d7aef8b7411137f]{
 -- Page 467, Offset 33023.
 -- 「ナにヲ、ナニヲ、シタ―――キエル、ナゼ、ドウ、ヤッ、テ、ワタ死を、殺シ、シシ死死し死し死、たた、たた、たたたたタたたタたた――――」
-"Wha... DiD... yOu―――I'm, faDing, how, dId, YoU, Ki, kikiKIkiKikI, kiLL, m-m, m-m-m-m-m-m-me――――"
+"Wha... DiD... yOu――I'm, faDing, how, dId, YoU, Ki, kikiKIkiKikI, kiLL, m-m, m-m-m-m-m-m-me―――"
 }
 [sha:262be395c25d18bd8813731d332f3935e0dad354]{
 -- Page 467, Offset 33024.
@@ -341,7 +342,7 @@ Plunge into my throat.
 [sha:46973e4dfca35b02dd5e94654f89bbfee632472c]{
 -- Page 469, Offset 33028.
 -- 「あ―――――」
-"Ah―――――――"
+"Ah―――"
 }
 [sha:aa97ea5701f6f59551ed11fc009eeccd4cf11d02]{
 -- Page 469, Offset 33029.
@@ -408,7 +409,7 @@ Senpai places her hands on her hips as she bosses me around.
 [sha:6d778b95534515677904ff5357967f8f41bca2f7]{
 -- Page 473, Offset 33041.
 -- ……ほんと、ずるい。
-...That's really unfair.
+That's really unfair...
 }
 [sha:b0247b4cc160d5a39d5c354efc8e2cf99eef041e]{
 -- Page 473, Offset 33042.
@@ -419,7 +420,7 @@ Just when I thought I'd never be able to smile again,
 [sha:c83af51bccd6730f6c05cc4cf1ff3d43dec69947]{
 -- Page 474, Offset 33043.
 -- 「……先輩。それ、詭弁だよ」
-"...Senpai. That's sophistry."
+"Senpai... That's sophistry."
 }
 [sha:4a9bc5b1057aa75933cfa5b8a8698baad3d5cd54]{
 -- Page 474, Offset 33044.
@@ -446,8 +447,8 @@ They remind me a lot of what that woman said to me,
 [sha:678158c8a1d4b29a157a299c8e2dd8c23a8086a9]{
 -- Page 476, Offset 33048.
 -- 「……そう、だね。……なんとなく―――どこか救いが、残っているのかも、しれないなら」
-"...I guess you're right.
- I feel like―――there might still be a chance at salvation out there yet."
+"I guess you're right...
+ I feel like――somehow, there might still be a chance at salvation out there."
 }
 [sha:3038dc101bcd7a4b0d548d8e38dd37d81414a2c2]{
 -- Page 476, Offset 33049.
@@ -457,7 +458,7 @@ Something like that really would be wonderful.
 [sha:74948008495761ef7348e6aac0c192e207bd5654]{
 -- Page 477, Offset 33050.
 -- 「……って、今は体の問題が先でした！
-"...Ah, but right now your body takes top priority!
+"Ah, but right now your body takes top priority!
 }
 [sha:c13b6c23c2af1583f7d3b02cab87550662d4fe47]{
 -- Page 477, Offset 33051.
@@ -488,12 +489,12 @@ My brain signals that it can't take any more, and that it needs to rest.
 -- Page 479, Offset 33056.
 -- 「……くん……遠野…………ってば……！」
 // The VA audibly says his full name twice here
-"...Tohno-kun... Tohno-kun...... hey...!"
+"Tohno-kun... Tohno-kun...... hey...!"
 }
 [sha:6a6465dd02b3f2f9070a142699dfe263a3409b44]{
 -- Page 479, Offset 33057.
 -- ……段々と遠くなる。
-...It gradually grows further away.
+It gradually grows further away...
 }
 [sha:8b5f83771902a9c4b8448bcc0316574d73cd4456]{
 -- Page 479, Offset 33058.
@@ -518,7 +519,7 @@ It all slips away like a receding fever.
 [sha:d9da4fdbf167bd7cd74c3bb5d29089d1e769c3c3]{
 -- Page 480, Offset 33062.
 -- ……こんな月を、いつか、見上げ続けた記憶がある。
-...I have a memory of staring up at this same moon long ago.
+I have a memory of staring up at this same moon long ago...
 }
 [sha:875d08bd8bf6f8daccb0019aa93d78af42488752]{
 -- Page 480, Offset 33063.

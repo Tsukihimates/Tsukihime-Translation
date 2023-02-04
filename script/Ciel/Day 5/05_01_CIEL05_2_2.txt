@@ -182,6 +182,7 @@ Terrified of my impending incineration, I reflexively shut my eyes.
 [sha:e29cb5664b4deb2ae3f17f471ad613dd5c8f7410]{
 -- Page 312, Offset 11700.
 -- …………………………、熱く、ない？
+// lint-off:LintStartingEllipsis
 ...............The heat... never comes?
 }
 [sha:bc7db91891550b2366d4ed700f18d38030bb75b7]{
@@ -511,7 +512,7 @@ I came to this repulsive city to escape both the pain that rends my body, and th
 [sha:17f418e7bc180e69ccb6b37dc10becd647674e5c]{
 -- Page 336, Offset 11760.
 -- ……先輩の言葉をヴローヴはどう受け止めたのか。
-...I wonder what Vlov thinks of Senpai's words.
+I wonder what Vlov thinks of Senpai's words...
 }
 [sha:ae3ac0c8dc2b6fef23e296b6124d9195939fc44b]{
 -- Page 336, Offset 11761.
@@ -780,7 +781,7 @@ The same thing happened back at the hotel.
 [sha:1a79a829649c2513b266f8d84b941103df699a91]{
 -- Page 356, Offset 11809.
 -- 「先輩……！」
-"Senpai...!"
+"Senpai!"
 }
 [sha:cf1df5d65cb66decc162d44ecea42ce1a85fdf68]{
 -- Page 356, Offset 11810.
@@ -795,7 +796,7 @@ It seems that she too has noticed the change in the situation... and her own err
 [sha:3f194aee95fb7a8813409f5f78eeee506c97f21a]{
 -- Page 357, Offset 11812.
 -- 「“―――――――――寒い”」
-"―――――――――So %{i}cold%{/i}."
+"―――So %{i}cold%{/i}."
 }
 [sha:17c8cdd03bd0898b241b78ae626a1f9074164bdb]{
 -- Page 357, Offset 11813.
@@ -841,7 +842,7 @@ Arcueid said he's one of the Ancestors!"
 [sha:763792400ef164566b0b394e187c679d5d4cd063]{
 -- Page 359, Offset 11821.
 -- 「“――――――ここは、寒い”」
-"――――――It's so... cold here!"
+"―――It's so... cold here!"
 }
 [sha:352be90ab95afdb2026f06a468aac3fc6e7b4090]{
 -- Page 359, Offset 11822.

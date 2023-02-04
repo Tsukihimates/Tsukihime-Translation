@@ -31,7 +31,7 @@ Arcueid's eyes are closed.
 [sha:6bd48513f9c9609a530834841d54e5c605c3880f]{
 -- Page 938, Offset 8155.
 -- その姿は、先ほどの月下の美しさ―――いや、力強さを思わせる。
-Seeing her, I'm reminded of how beautiful―――no, how %{i}powerful%{/i} she looked under the moonlight earlier.
+Seeing her, I'm reminded of how beautiful――no, how %{i}powerful%{/i} she looked under the moonlight earlier.
 }
 [sha:c35225c034bf15dac1695a63e9dafd85b78f9229]{
 -- Page 938, Offset 8156.
@@ -56,6 +56,7 @@ She must have regained at least some of her strength by now.
 [sha:6062dea2137e18ed5c1cfb881ea8dec01b4f8e00]{
 -- Page 939, Offset 8160.
 -- …………………………熱い。
+// lint-off:LintStartingEllipsis
 ...............It's hot.
 }
 [sha:24d9118f78348b2963e06cc4659e31df2c8d24cc]{
@@ -160,7 +161,7 @@ I hear the sound of the door being broken down,
 [sha:78a458b3e699d1c89aa7f0d671f6c706a2d2b869]{
 -- Page 946, Offset 8180.
 -- 「――――！」
-"――――!"
+"―――!"
 }
 [sha:50ddcfe09a0de229fbaf1d9b929ffc85071f3576]{
 -- Page 946, Offset 8181.
@@ -195,7 +196,7 @@ An inescapable quantity of fire floods into the room, completely filling it from
 [sha:2b9b89168009ed54870a49b7de384c3811ae3566]{
 -- Page 948, Offset 8187.
 -- 「ア―――アア、ア―――」
-"%{i}Ah―――――aah, ah―――――――――――――%{/i}"
+"%{i}Ah――aah, ah%{/i}―――"
 }
 [sha:6adc8ecf7ed0fe252cedf40af66cee10cb218caf]{
 -- Page 948, Offset 8188.

@@ -121,6 +121,7 @@ If he's imprisoned, surely there's no need for her to go in after him?!"
 [sha:f53882bd1045ca5715bc009613d82646cc5a840d]{
 -- Page 652, Offset 12581.
 -- 「な―――じゃあヴローヴを倒さないかぎり、先輩は出てこないんですか!?」
+// lint-off:LintEmDashes
 "Wha―――%{n}
 Then, does that mean that Senpai can't come back out unless she defeats him?!"
 }
@@ -208,14 +209,14 @@ If this were a level playing field...
 -- Page 658, Offset 12596.
 -- こんな箱なんて作らず、寒波が広がる事なんて気にせず、自分ひとりで戦っていれば、絶対に負けていないのに……！
 If only she didn't have to create this box,
- if only she didn't have to contain his creeping cold,
+ if only she didn't have to contain his billowing cold,
  if only she were able to fight him without having to worry about anyone other than herself,
  there's no way she'd lose against him...!
 }
 [sha:ed2a195a6fabecaddb9df72f07d957ac420d0d29]{
 -- Page 659, Offset 12597.
 -- 「…………っ！」
-"......%{i}Ugh%{/i}!"
+"%{i}Ugh%{/i}...!"
 }
 [sha:60926c09e105a13dcffc44c8c5a66dda75638903]{
 -- Page 659, Offset 12598.
@@ -343,7 +344,7 @@ The shadow resembling Senpai is dashed against the wall that seals off their wor
 [sha:9f0b98d054a04b319f2fbb35010c2fea41796742]{
 -- Page 666, Offset 12621.
 -- ―――風速160キロメートルの寒波が全てを凍結させる。
-―――A cold front traveling at 160 km/h freezes everything in its path.
+―――A billowing cold front traveling at 160 km/h freezes everything in its path.
 }
 [sha:6079ed26f4c0245b000fcdf99bf814ad5e0502a4]{
 -- Page 666, Offset 12622.
@@ -385,7 +386,7 @@ I open my eyes and look up at the sky.
 [sha:595aa8be6bb6375a01bd7c950bc451122c457a65]{
 -- Page 668, Offset 12629.
 -- 街に寒波は届いていない。
-That wave of freezing temperatures didn't reach the city.
+The billowing cold didn't reach the city.
 }
 [sha:6b81fd4811e8fc276c8d80ce49cb6d46adde44d8]{
 -- Page 668, Offset 12630.

@@ -32,7 +32,7 @@ A hot summer day.
 -- Page 2, Offset 21298.
 -- 青い空と　大きな大きな入道雲。
 The blue sky.
- Large, large clouds towering above.
+ Huge, towering thunderheads on the horizon.
 }
 [sha:6b8550d39143b009bfebfa38e6af0aea971a58d4]{
 -- Page 2, Offset 21299.
@@ -53,19 +53,19 @@ The cicada chorus.
 -- Page 3, Offset 21302. Mods: @k, @e.
 -- みーん　みんみん
 // lint-off:LintDupedWord
-%{i}chiiiirp    chirp chirp%{/i}
+%{i}Chiiiirp    chirp chirp.%{/i}
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 3, Offset 21303. Mods: @k, @e.
 -- みーん　みんみん
 // lint-off:LintDupedWord
-%{i}chiiiirp    chirp chirp%{/i}
+%{i}Chiiiirp    chirp chirp.%{/i}
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 3, Offset 21304. Mods: @k, @e.
 -- みーん　みんみん
 // lint-off:LintDupedWord
-%{i}chiiiirp    chirp chirp%{/i}
+%{i}Chiiiirp    chirp chirp.%{/i}
 }
 [sha:e68aca0d69305b2ebbd41cccf4a7080935cf636d]{
 -- Page 3, Offset 21305.
@@ -166,7 +166,7 @@ My hands are red. Red with the blood of the living being collapsed in a heap on 
 [sha:cc89877db10b4a86937fe75eec65206ad16243f0]{
 -- Page 6, Offset 21324.
 -- 「■■―――――！」
-"■■―――――!"
+"■■―――!"
 }
 [sha:822c8e7d86088958378b8d76d608aaed962dfc70]{
 -- Page 6, Offset 21325.
@@ -182,7 +182,7 @@ As they realize what they're looking at,
 [sha:8471e2ae173e01d897de6d5191381839f230f365]{
 -- Page 7, Offset 21327.
 -- 「なんて事だ―――――」
-"What have you done―――――"
+"What have you done―――"
 }
 [sha:1c6d9f3b3eaa01cbba7a3e64348889cb145634b4]{
 -- Page 7, Offset 21328.
@@ -207,7 +207,7 @@ I'm left all alone, staring vacantly up into the summer sky above.
 [sha:335621dd001afd868d96a59b1015bbbcf68f01fa]{
 -- Page 8, Offset 21332.
 -- 「おまえが殺したのか――――」
-"Were you the one that killed him――――"
+"Were you the one that killed him―――"
 }
 [sha:a551722d637091c92c5e1cb8610e6d147eb59e28]{
 -- Page 8, Offset 21333.

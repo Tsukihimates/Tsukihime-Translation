@@ -1,7 +1,7 @@
 [sha:a2440ba2f6408925a3fe2a94605e5b4a658dfc7e]{
 -- Page 10024, Offset 12836.
 -- 「っ―――、は……！」
-"%{i}Ugh―――haa%{/i}...!"
+"%{i}Ugh――haa%{/i}...!"
 }
 [sha:4f4014de27adc4ad864bbcc61380d7c68c689efd]{
 -- Page 10024, Offset 12837.
@@ -88,7 +88,7 @@ At this rate, my brain will shut down from this headache long before I breathe m
 [sha:50ae098e2bb56eb507701a0ed8c0af31040b32cc]{
 -- Page 737, Offset 12853.
 -- 「――――――もちろん。ここからが本番です」
-"――――――Of course. The real show starts now."
+"―――Of course. The real show starts now."
 }
 [sha:7c761d4d7d6cfcd59576e1c216d092e0659532a7]{
 -- Page 737, Offset 12854.
@@ -241,6 +241,7 @@ Petty emotions such as anger cannot command this intensity.
 [sha:bd3deccd6f4c60d72210d8674f3b4c80b22cf3aa]{
 -- Page 746, Offset 12881.
 -- ああ―――素晴らしいが、なんて愚か。
+// lint-off:LintEmDashes
 %{i}Ahhh%{/i}―――%{n}
 How beautiful, but how foolish.
 }
@@ -461,7 +462,7 @@ The impact doesn't just shatter his ribs, it pulverizes his entire torso.
 [sha:c5fe655dc4bf241090f4c0fde9cad5ed5af80eb7]{
 -- Page 762, Offset 12924.
 -- 「“貴様―――そうか、貴様もか……！
-"You bastard―――I see, you too...!
+"You bastard――I see, you too...!
 }
 [sha:ab53e2de803ec7185d3d433a6246a27a01a260c0]{
 -- Page 762, Offset 12925.
@@ -492,6 +493,7 @@ Up to this point, there wasn't even so much as a trace of the deep-seated hatred
 -- Page 764, Offset 12930.
 -- “花は胸に―――<聖女の祈りを贖いに|クレアトゥーラ・デル・シエロ>！”」
 // Creature del Cielo, in French 'Creature du Ciel', means Heavenly Creatures. Which is also the IT/EN name of a film whose JP name is 乙女の祈り. How strange.
+// lint-off:LintEmDashes
 'A flower to my bosom―――%{n}
 <Redemption by the Prayer of the Holy Maiden|         C r e a t u r e  d e l  C i e l o>!"
 }
