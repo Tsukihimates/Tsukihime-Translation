@@ -164,17 +164,17 @@ I hold out my right hand and wait for Senpai's answer.
 [sha:6eb68c8b8eaf9eb499fe7d12463d2ef0a10c595c]{
 -- Page 482, Offset 36648.
 -- これぐらいしないと本当の事を言ってくれないと思ったからだ。
-// I guess he's talking about the hand?
-// Is she like a dog? He wants shake?
-I feel like if I don't make her shake on it,
- I won't get a truthful answer.
+// Is he talking about the hand or the words?
+I feel like if I don't make myself this clear,
+ I won't get an honest answer.
 }
 [sha:5259a7c4f9684b0db0e31398e4f74e29ecb5289c]{
 -- Page 483, Offset 36649.
 -- 「……しょうのない後輩ですね。
 // translators found dead in a ditch, trace amount of 後輩 detected in their systems
 // 困る、仕様がない, 日常、後輩... not even once
-"Just what am I supposed to do with you...
+// VA has a sigh before the line starts
+"%{i}Sigh%{/i}... Just what am I supposed to do with you.
 }
 [sha:cc5dd576701a0371e82a8745a2a00c964a78e10e]{
 -- Page 483, Offset 36650.
@@ -208,7 +208,7 @@ we simply savor the feeling of connectedness that stems from our gently overlapp
 -- Page 485, Offset 36655.
 -- こ、これからは恋人同士なワケですし」
 // Match TL for 恋人 in 36534
-I-I guess that makes us lovers, doesn't it."
+I-I guess this makes us lovers, doesn't it."
 }
 [sha:b42097789b2bd3d60aa867c5b390e0344a791271]{
 -- Page 486, Offset 36656.
@@ -235,12 +235,12 @@ She flashes me the most mischievous smile I've ever seen,
 [sha:79a28d10164b6721d2d01a26619bac6e13ad1bbe]{
 -- Page 489, Offset 36660.
 -- ……でも、ようやく元に戻れた。
-She's finally back to normal...
+She's back to normal at last...
 }
 [sha:e406aca2445cf1853991d4813c19b6a24bead745]{
 -- Page 489, Offset 36661.
 -- 俺と先輩の間にはもう何のわだかまりもない。
-There's no longer any ill will between us.
+We've finally cleared the air between us.
 }
 [sha:23d787c804441284fe7d7ed9edde507f328c24ce]{
 -- Page 489, Offset 36662.
@@ -287,7 +287,7 @@ It looks like it's just struck midnight.
 [sha:dcc5edc49dd149ba1ac32f0b0a3c8ef326dc0e12]{
 -- Page 492, Offset 36670.
 -- 「もうこんな時間だったんだ……」
-"It's already gotten this late..."
+"I didn't realize it was already this late..."
 }
 [sha:115b83f937c9dbb5593c2b2dc6bd42132298c832]{
 -- Page 492, Offset 36671.
@@ -329,18 +329,19 @@ Here I go―――
 -- Page 495, Offset 36678.
 -- 「先輩、ベッドを使いましょう！」^@t「遠野くん、ベッドにどうぞ！」
 // Is this どうぞ supposed to imply sharing or not sharing?
+// @t gets munged into the sentence by the linter, so need to lint-off:LintNameMisspellings
 "Senpai, let's share the bed!"%{n}
 @t"Tohno-kun, the bed is all yours!"
 }
 [sha:37a552925aa130a3349d430b94270c7883f63ba6]{
 -- Page 496, Offset 36679.
 -- ……カッチカッチ、と秒針の音が響く。
-The ticking of the clock is deafening in the silence...
+The ticking of the clock is deafening...
 }
 [sha:09fc5d25e5ccca24b2ef241b77814d6b0db6abc3]{
 -- Page 496, Offset 36680.
 -- 恥ずかしくて先輩の顔が直視できないけど、それ以上に今の先輩の顔は愛らしすぎた。
-I'm so embarrassed that I can't look her in the eye,
+I'm so embarrassed that I can't even look her in the eye,
  but at the same time,
  the face she's making is so adorable I can't look away.
 }
