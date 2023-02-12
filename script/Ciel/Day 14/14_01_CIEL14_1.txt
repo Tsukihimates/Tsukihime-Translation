@@ -333,7 +333,7 @@ It makes me think of the sort of hammer you'd use to crack the shell of a crab.
 -- Page 18, Offset 37064.
 -- 「……待て、待ってくれ。死ぬ。それは、さすがに」
 "Stop, just stop will you...
- I'll die..
+ I'll die.
  I'll seriously... die..."
 }
 [sha:c23214fdb5fdc5bbc5cd7edb24c36edbac5dbc27]{
@@ -723,6 +723,7 @@ And yet, on the spur of the moment―――
 [sha:143324a34824e29ffac604871af573b324e645c4]{
 -- Page 39, Offset 37135.
 -- 何の理由もなく、金色の月が見たくなった。
+// lint-off:LintEmDashes
 For no real reason at all―――%{n}
 I wanted to see the golden moon.
 }
