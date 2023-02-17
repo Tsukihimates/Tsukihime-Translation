@@ -643,9 +643,8 @@ One, two, three, four strikes.
 -- Page 181, Offset 37548.
 -- 五撃目にはもう、俺には防ぐ手段がなくなっていた。
 // There are only 4 sfx events in the prev line, and none following this line,
-// so reading the first knockdown as the 5th strike
-After taking five of those hits,
- I'm completely out of ways to defend myself.
+// so assuming this as 'before the 5th attack even comes'
+It doesn't even take five hits before I'm completely out of ways to defend myself.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 182, Offset 37549.
@@ -668,7 +667,7 @@ Even if I hadn't taken any damage from that fall a second ago,
 -- Page 183, Offset 37552.
 -- 弾むような声とは裏腹に、アルクェイドには一切の油断も、遊びもなかった。
 Her tone may be playful, but she isn't messing around at all.
- Her offence has been completely devoid of openings.
+ Her offense has been completely devoid of openings.
 }
 [sha:454898fa7e184a432d5ec7cf9e13db67c0f45182]{
 -- Page 183, Offset 37553.
@@ -685,7 +684,7 @@ From the moment she appeared before me,
 -- Page 184, Offset 37555.
 -- 俺は自分のスペックも確認できず、敵の真剣さも測れていなかった。
 // Assuming first bit is that he didn't get a chance to test drive his vampowers
-I didn't even have a chance to get a handle on my own specs,
+I didn't even have a chance to get a handle on my new abilities,
  and I failed to realize just how serious she really was.
 }
 [sha:a5f93639df0fff4776635f4196a2fecea35b8f8d]{
@@ -704,7 +703,7 @@ In my unprepared state,
 [sha:de5a34d6e4e843ee6b8533a937c44a635c2053b0]{
 -- Page 185, Offset 37558.
 -- ガン、と後頭部が石畳に衝突する。
-I hear a crack as the back of my head slams into the stone pavement.
+I hear a crack as the back of my head slams into the stonework.
 }
 [sha:727adb4c1df27027d07155dcf2d00d1b05b2abfd]{
 -- Page 185, Offset 37559.
@@ -736,7 +735,7 @@ Arcueid stares at me in silence, not moving from her position on top of me.
 -- ……完全に勝負ありだ。馬乗りになられた場合、同程度の重さでは相手を押しのけられない。そもそも力勝負じゃはじめから勝てっこない。
 A decisive victory...
  If you weigh the same as your opponent, it's impossible to dislodge them from a mounted position.
- Though, even if I could, a battle of strength would be over before it even started.
+ Though, even if I could, a battle of strength between us would be over before it even started.
 }
 [sha:eb9f09353f4b4c8215ec7b3113fa2fe64025b656]{
 -- Page 188, Offset 37565.
@@ -853,7 +852,7 @@ You said you wouldn't kill me, but as long as I'm alive, then Roa will be too."
 [sha:938bdfbeb901dedc96887ddfd96dba016b844647]{
 -- Page 196, Offset 37586.
 -- ……そうね、だから貴方を見逃してあげてもよかった」
-Yeah... With him this weak, I could probably have just left you alone as well."
+Yeah... with him this weak, I could probably have just left you alone as well."
 }
 [sha:ea9a25de5d21a35dd44c1a7d9f6d0417a9222701]{
 -- Page 197, Offset 37587.
