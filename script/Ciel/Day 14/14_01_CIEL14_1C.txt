@@ -147,12 +147,12 @@ I somehow manage to land on my feet, and hold up my knife.
 -- 窮地に陥っても状況は変わらない。いくら凝視してもアルクェイドの体には『線』一つ視えない。
 // Kinda weird construction on this first clause? 'Even if you get into a predicament, it won't help you'?
 My situation hasn't improved at all.
- No matter how much I stare at Arcueid's body, I can't spot so much as a single line.
+ No matter how intensely I scrutinize Arcueid's body, I can't spot so much as a single line.
 }
 [sha:1b33f76678222c222ae7490b2cff5682d4fa8cbc]{
 -- Page 151, Offset 37460.
 -- 「は――――あ、あ」
-"%{i}Gah%{/i}――%{i}ah%{/i}, %{i}ah%{/i}"
+"%{i}Gah%{/i}――%{i}ah%{/i}, %{i}ah%{/i}."
 }
 [sha:4489656b75af1288795bd767c1447b2f43279e38]{
 -- Page 151, Offset 37461.
@@ -208,7 +208,7 @@ As I wheeze and struggle to catch my breath, I manage to take in oxygen.
 [sha:f28ece69aa8f1d207fb7c43312cbb80ec75b1a5c]{
 -- Page 154, Offset 37470.
 -- 吸血鬼になっても血液を十全に活かすには酸素が必要だなんて、知らなかった。
-I didn't realize that even after I turned into a vampire I'd still need oxygen to make full use of my blood.
+I didn't realize that even after I turned into a vampire, I'd still need oxygen to make full use of my blood.
 }
 [sha:e6bd806ff1cdc45abbd35feb0d55bb10aa94bc7f]{
 -- Page 155, Offset 37471.
@@ -233,13 +233,13 @@ I'd definitely be able to kill Roa if I did so.
 [sha:38e4db3ad10c557e5cafd27a5e5af0955dca477c]{
 -- Page 156, Offset 37475.
 -- アルクェイドもシエル先輩も、ヤツの呪縛から解放される。
-It'd also free Arcueid and Ciel-senpai from his curse if I did.
+I'd also free Arcueid and Ciel-senpai from his curse.
 }
 [sha:7ba8d1019a4b6b5cc46b1090b36573301d735947]{
 -- Page 157, Offset 37476.
 -- ただし、それは前例のない試みだ。
 // Reading this as "haven't done this experiment before" / can't do a dry run
-However, I'd be gambling on getting it right the first time.
+However, I'd be gambling on getting it right first time.
 }
 [sha:f5de749812383567cc3a21072c8e3f897701d07f]{
 -- Page 157, Offset 37477.
@@ -253,7 +253,7 @@ Assuming I can see it, would I be able to accurately cut that line?
 }
 [offset:37479]{
 -- Page 157, Offset 37479.
--- いや、そもそも―
+-- いや、そもそも―――
 And besides, there's a bigger problem―――
 }
 [sha:c180c6fa2777380bf0a72108cd790fd4d5fec0ae]{
@@ -277,7 +277,7 @@ As I catch my breath, I get my feelings of anger and frustration off my chest.
 -- Page 159, Offset 37483.
 -- ……でも、それだけの強さ、か。
 // Callback to 37467.
-Still... If I had that kind of strength, huh?
+Still... 'If I had that kind of strength', huh?
 }
 [sha:49ce4cb6f56e02da1433669752df0f533a9700a7]{
 -- Page 159, Offset 37484.
@@ -344,7 +344,7 @@ It sounded more like she was trying to hint at something incredibly important to
 -- 魂を失った肉体は存在指針を無くして停止してしまうけど、それはあくまで二次的な結果。
 // 存在指針 only comes up once
 // 停止 needs to match 37488 to make it clear this is calling back
-A body that has lost its soul not longer has a guiding principle for its existence, and stops moving.
+A body that has lost its soul no longer has a guiding principle for its existence, and stops moving.
  However, that's little more than an incidental detail.
 }
 [sha:7116eee02a526e356bd289bfc1dcea3a58040161]{
@@ -404,7 +404,7 @@ I may not be able to keep up with her,
 [sha:6e32adcc80654f007ab76d8920366741e6eadad7]{
 -- Page 166, Offset 37505.
 -- その姿を視認できなくなった瞬間、俺は無駄と理解しつつもナイフを振るっていた。
-The instant I lost visual contact with her,
+The instant she blinked out of sight,
  I started to swing my knife,
  even though I knew it was probably futile.
 }
@@ -532,52 +532,54 @@ But even if he warns me now, it's no use.
 [sha:6733f6c2b1b7ef4f9bc0aa50aa35fd26261ee92f]{
 -- Page 175, Offset 37527.
 -- アルクェイドの一振りは視界を埋める壁そのもの。
-Arcueid's swing is like a wall that covers my entire vision.
+Arcueid's swing is a wall that extends as far as the eye can see.
 }
 [sha:0c10f27072d45850a896b319261789edec28bf99]{
 -- Page 175, Offset 37528.
 -- 後ろにも左右にも逃げられない。
-I can't run behind or to the sides.
+I can't retreat from it, and I can't escape to either side.
 }
 [sha:2a15b7427f4872d8a89ab8c55abf79c1e02bcce4]{
 -- Page 175, Offset 37529.
 -- 逃げ場があるとすれば、それは―――
-If there's any place I could run to, it would be―――
+If there's one direction I can run, it's―――
 }
 [offset:37530]{
 -- Page 176, Offset 37530.
 -- 「うわあ！？」
-"Uwah?!"
+"%{i}Uwah%{/i}?!"
 }
 [sha:a19875d867ab5bcfbc401fd0996497adf690fdc5]{
 -- Page 176, Offset 37531.
 -- 上しかない、と思った途端、両足は地面を蹴っていた。
-As soon as I realize that I have no choice but to go up, my legs kick up from the ground.
+The instant I realize the only way out is up,
+ my legs are already kicking off from the ground.
 }
 [sha:73872a8b0e2becac390d2774f5d9e3c7fe4e3abf]{
 -- Page 176, Offset 37532.
 -- その行為に声をあげて取り乱してしまった。
-I raise my voice as a result of that act, and become disordered.
+I'm so caught off guard by my own reaction that I let out a yelp of surprise.
 }
 [sha:8c821a1693299047486ff554aa89debd9025d5dd]{
 -- Page 177, Offset 37533.
 -- 高いなんてもんじゃない。
-I'm not that high up.
+I'm pretty damn high up.
 }
 [sha:e2b4ad79ed32129449eec9fbb0fc3d80118b930c]{
 -- Page 177, Offset 37534.
 -- 眼下に公園の噴水が一望できる。
-I can still see the water fountain of the park from below my eyes.
+Looking down, I have a panoramic view of the park fountain.
 }
 [sha:c9e30101af9aede6440c369319525b89a8156386]{
 -- Page 177, Offset 37535.
 -- 10メートル以上の高さを、いま、俺は自分の脚で飛び上がったのか……!?
-Did I really just fly up over a height of ten meters with my very own legs just now...?!
+Did I seriously just jump ten meters in the air using nothing but my own two legs?!
 }
 [sha:be61acc3306549dddacc73cdfd4c4e17408e4600]{
 -- Page 178, Offset 37536.
 -- 「いや吸血鬼すごいな！？」
-"Man, vampires are incredible!"
+// 'Vampires are OP' --Shiki
+"Holy shit, vampires are incredible!"
 }
 [sha:0e5d0e567ba90bc5b860e77af45e4cd78a560088]{
 -- Page 178, Offset 37537.
@@ -587,27 +589,28 @@ Did I really just fly up over a height of ten meters with my very own legs just 
 [sha:51c8aacabf650128bb97c8c56776d4ea82595b42]{
 -- Page 178, Offset 37538.
 -- 真上からかけられた声に驚く間もなかった。
-I didn't even have time to be surprised by the voice coming from overhead.
+I don't even have time to be surprised by the voice coming from above me.
 }
 [sha:d3a0a13e6845a606e6b2ddaf5e2ef6539e676515]{
 -- Page 179, Offset 37539.
 -- 「ガ―――！」
-"Gah―――!"
+"%{i}Gah%{/i}―――!"
 }
 [sha:5cf8914b91ca8c8ee659aad050bb49a75d636b09]{
 -- Page 179, Offset 37540.
 -- 容赦のない一撃で地面に叩きつけられる。
-Her relentless attack drives me down to the ground.
+Her ruthless attack sends me crashing back down to the ground.
 }
 [sha:10bc34101c9486321bbdd214e9746796a52be023]{
 -- Page 179, Offset 37541.
 -- アルクェイドは今度こそ、これが本命、と見せつけるように、俺の胸に大振りのパンチを叩きつけた。
-This time, she strikes me with a strong punch to the chest, as if to say that this is the real deal.
+She struck me square in the chest this time,
+ as though she were showing off what she's really capable of.
 }
 [sha:211dd2395b7f980b5d9e0e90f918c337adf3919d]{
 -- Page 179, Offset 37542.
 -- 結果、俺は背中から地面に落下し、そして、
-As a result, I fall to the ground on my back, and then...
+As a result I slam into the ground back-first, and then―――
 }
 [sha:096fdb9d2a377c7fabe66a9408d3e67a81176d67]{
 -- Page 180, Offset 37543. Mods: @n.
@@ -617,17 +620,19 @@ As a result, I fall to the ground on my back, and then...
 [sha:adbf1d023afea2109e55271ecd898af6fbfae3a1]{
 -- Page 180, Offset 37544.
 -- 「くっ……！」
-"Kh...!"
+"%{i}Kh%{/i}...!"
 }
 [sha:7b6ac22fdc50a6e88fd07a23faf2cdf877d252e6]{
 -- Page 180, Offset 37545.
 -- 地面に落ちた無様なズタ袋に追い打ちがかけられる。
-She chases after the unsightly carry bag dropped on the ground.
+// 無様なズタ袋 is uhhh pretty awkward to work with
+Even after sending me sprawling on the ground like a discarded sack,
+ she wastes no time in delivering her followup.
 }
 [sha:66a4f32284920b443eb955092b60231a5184e98a]{
 -- Page 181, Offset 37546.
 -- 先ほどの連撃より更に重い。
-Her attacks are even heavier then the consecutive attacks from before.
+Her attacks are hitting even harder than they did before.
 }
 [sha:72401a0f29ab4f583352c394fe2ae5b9e34b0f02]{
 -- Page 181, Offset 37547.
@@ -637,7 +642,10 @@ One, two, three, four strikes.
 [sha:3ba15b748722bf49bb2c7544870027b6e590bfcd]{
 -- Page 181, Offset 37548.
 -- 五撃目にはもう、俺には防ぐ手段がなくなっていた。
-After the fifth strike, I've already lost any means of defending myself.
+// There are only 4 sfx events in the prev line, and none following this line,
+// so reading the first knockdown as the 5th strike
+After taking five of those hits,
+ I'm completely out of ways to defend myself.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 182, Offset 37549.
@@ -647,62 +655,71 @@ After the fifth strike, I've already lost any means of defending myself.
 [sha:f3d29215899c6df0ee4c0f88e483323ea29550f0]{
 -- Page 182, Offset 37550.
 -- 当然だ。馬鹿なのは俺だけだった。
-That's only natural. The only foolish one here was me.
+It's only to be expected.
+ I was the fool here.
 }
 [sha:b72ef8a4ebff9a5cdc25ea40638926f2dbf2c656]{
 -- Page 182, Offset 37551.
 -- 俺に今の落下のダメージがなくとも、アルクェイドの攻撃を防げる筈がなかった。
-Even if I hadn't taken damage from the fall just now, there was no way I could defend myself against Arcueid's attacks.
+Even if I hadn't taken any damage from that fall a second ago,
+ there's no way I would have been able to block Arcueid's attacks.
 }
 [sha:d58761fff3fb4eabd9904b167098021fa2fe0460]{
 -- Page 183, Offset 37552.
 -- 弾むような声とは裏腹に、アルクェイドには一切の油断も、遊びもなかった。
-Contrary to her lively voice, Arcueid showed no sign of carelessness or playing around.
+Her tone may be playful, but she isn't messing around at all.
+ Her offence has been completely devoid of openings.
 }
 [sha:454898fa7e184a432d5ec7cf9e13db67c0f45182]{
 -- Page 183, Offset 37553.
 -- コイツは真剣だった。
-This person is serious.
+She's dead serious.
 }
 [sha:15766dbb7be0f93c6f7a70fcb409f53911bf3fd1]{
 -- Page 183, Offset 37554.
 -- 俺の前に現れてからずっと、これ以上ないほど気を張っていた。
-Ever since she appeared before my eyes, she was completely ready for everything that was about to take place.
+From the moment she appeared before me,
+ she was ready for everything that was about to unfold.
 }
 [sha:9a3be6bfe1692600856dd615bb3fef4151bdb088]{
 -- Page 184, Offset 37555.
 -- 俺は自分のスペックも確認できず、敵の真剣さも測れていなかった。
-I couldn't confirm my own specs, and I couldn't measure her level of seriousness either.
+// Assuming first bit is that he didn't get a chance to test drive his vampowers
+I didn't even have a chance to get a handle on my own specs,
+ and I failed to realize just how serious she really was.
 }
 [sha:a5f93639df0fff4776635f4196a2fecea35b8f8d]{
 -- Page 184, Offset 37556.
 -- そんな状態で、こんな、むき出しの感情をぶつけてきている白い吸血姫相手に、勝てる道理は無かったのだ。
-In a situation like this, there was no chance of winning against a white vampire princess who wore her bare emotions on her sleeve.
+// Assuming 状態 is _his_ state of unpreparedness, not the general circumstances
+In my unprepared state,
+ I never stood a chance against this vampire princess in white,
+ and the raw fury of her unbridled emotions.
 }
-[sha:fa08b1044900b8268cd279df0730b708430394f2]{
+[offset:37557]{
 -- Page 185, Offset 37557.
 -- 「ぐっ――――！」
-"%{i}Ghh%{/i}―――!"
+"%{i}Gah%{/i}―――!"
 }
 [sha:de5a34d6e4e843ee6b8533a937c44a635c2053b0]{
 -- Page 185, Offset 37558.
 -- ガン、と後頭部が石畳に衝突する。
-With a thud, the back of my head crashes into the stone pavement.
+I hear a crack as the back of my head slams into the stone pavement.
 }
 [sha:727adb4c1df27027d07155dcf2d00d1b05b2abfd]{
 -- Page 185, Offset 37559.
 -- 両肩にはアルクェイドの体重がかかっている。
-Arcueid's weight hangs over both my shoulders.
+I can feel Arcueid's weight pressing my shoulders against the ground.
 }
 [sha:7366834ce0964dd520b6e4b5d6d7acca46d8ed24]{
 -- Page 186, Offset 37560.
 -- 倒された。
-I'm pinned down.
+I've been knocked flat.
 }
 [sha:8042deea94482ec95d60d524b277918b5581a2f6]{
 -- Page 186, Offset 37561.
 -- 一瞬で、反応する時間さえなく、アルクェイドに押さえつけられてしまった。
-In an instant, Arcueid holds me down without giving me time to respond.
+Arcueid pinned me down before I could even blink, let alone react.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 187, Offset 37562.
@@ -712,17 +729,19 @@ In an instant, Arcueid holds me down without giving me time to respond.
 [sha:f526c3726b9016f7d0be61cd6f08b7a980ec34f3]{
 -- Page 187, Offset 37563.
 -- アルクェイドは俺にのしかかったまま、無言で睨みつけてくる。
-She stares at me in silence while leaning over me.
+Arcueid stares at me in silence, not moving from her position on top of me.
 }
 [sha:a89267dca08f141561ace2be7ebb01091843c4cc]{
 -- Page 188, Offset 37564.
 -- ……完全に勝負ありだ。馬乗りになられた場合、同程度の重さでは相手を押しのけられない。そもそも力勝負じゃはじめから勝てっこない。
-...The victor has been decided. In a mounted position, you cannot push away an opponent with the same weight as you. Not to mention that I couldn't win in a game of strength from the start.
+A decisive victory...
+ If you weigh the same as your opponent, it's impossible to dislodge them from a mounted position.
+ Though, even if I could, a battle of strength would be over before it even started.
 }
 [sha:eb9f09353f4b4c8215ec7b3113fa2fe64025b656]{
 -- Page 188, Offset 37565.
 -- あとはあの爪で、首を無残に引き千切られて終わりだろう。
-All that's left now is for her to finish it by tearing off my head with her claw in cold-blood.
+All that's left is for her to end it all by mercilessly ripping my head from my shoulders with her claws.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 189, Offset 37566.
@@ -732,22 +751,24 @@ All that's left now is for her to finish it by tearing off my head with her claw
 [sha:58f88f222c15ba73a5e9f3493faac7979bd5fc12]{
 -- Page 189, Offset 37567.
 -- だが終わりはやってこなかった。
-But it still isn't over.
+But that end doesn't come.
 }
 [sha:cca58f907f00ed8f36d6d6e9655cebd84be0d95f]{
 -- Page 189, Offset 37568.
 -- 今すぐロアを―――俺を殺せるというのに、アルクェイドは口を閉ざしている。
-Despite saying that was going to kill Roa―――to kill me, Arcueid continues to keep her mouth shut.
+Even though she's in a position to kill Roa――to kill me,
+ Arcueid continues to keep her mouth shut.
 }
 [sha:ea2d2b72df78eb62b2133a6f41a356af99182651]{
 -- Page 190, Offset 37569.
 -- ……張り詰めた糸のような、
-...Like a thread that stretches,
+// Reorganized across the break for EN flow
+The silence stretches on, like a thread drawn tight―――
 }
 [sha:40a1af363807ddce63bc5dd0220b91665a725fc3]{
 -- Page 190, Offset 37570.
 -- 青ざめた月のような、狂おしい静寂。
-the maddening silence ensues like a pale moon.
+Or a moon grown pale.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 191, Offset 37571.
@@ -757,52 +778,56 @@ the maddening silence ensues like a pale moon.
 [sha:16e85017bc959316df9f25aa85b23d298a2f7304]{
 -- Page 191, Offset 37572.
 -- ああ、と我知らずに息を呑む。
-Without realizing it, I catch my own breath.
+I realize that I've been subconsciously holding my breath.
 }
 [sha:0ebcb3ea19e3f3e8bdf2d7f3e7ae482850d40f08]{
 -- Page 191, Offset 37573.
 -- こんなに間近。
-She's so close.
+She's so close...
 }
 [sha:afe744f4e99d1e6288d944f853deebc9aa0f19b0]{
 -- Page 191, Offset 37574.
 -- 相手の息づかいが自分のものに思える。
-It feels like her breath is becoming my own.
+I can feel her breathing as though it were my own.
 }
 [sha:1374a7633ec40b53c556eb8bb8656fc4930c0263]{
 -- Page 191, Offset 37575.
 -- 抱き合う寸前まで近づきながら、俺たちの距離は、地上と月ほど離れている。
-Although we're close to the point where we're almost embracing each other, the distance between us is as far as the Earth and the Moon.
+Even though we're so close that we're almost embracing each other,
+ we're as far apart as the Earth and the Moon.
 }
 [sha:12f82237af11729a726e7d223120ad37fa31a878]{
 -- Page 192, Offset 37576.
 -- 「……なんだよ。もういいだろ、ひと思いに始末しろよ。
-"...What? It's fine, so just finish it already.
+"What...? It's fine, just get it over with already.
 }
 [sha:2e63c6c2dd584914e1d236ab6bd54d2a4ccf755d]{
 -- Page 192, Offset 37577.
 -- 殺した後で血を吸って、ゾンビにでもなんでもしろ」
-Go ahead and kill me and suck my blood, then turn me into a zombie or whatever."
+Kill me and then suck my blood and turn me into your zombie or whatever."
 }
 [sha:8967f70117ffa3db9f247db4b29b7ec2b5c0f18d]{
 -- Page 192, Offset 37578.
 -- ……正直、コイツのそんな顔を見ているのは、辛すぎる。
-...To be honest, it's far too painful to see her face like this.
+If I'm being honest...
+ I can't stand to see her look like this.
 }
 [sha:23e602836f643015854a69016644fe88048ec5d6]{
 -- Page 193, Offset 37579.
 -- 「……命乞いはしないの？　前言撤回とか、まだ受け付けてもいいんだけど。
-"...Aren't you going to beg for your life? You could take back what you said, or take my offer even now.
+"Aren't you going to beg for your life?
+ You can still take back what you said, and accept my offer.
 }
 [sha:160c53657b4a111b6b4c8bd957910b66199bb40b]{
 -- Page 193, Offset 37580.
 -- 殺したら血を吸うしかなくなるわ。貴方が自分から私と契約するのなら、血のやりとりなんてしなくて済む」
-If I kill you, then I won't be able to drink your blood. If you make a contract with me, then we can end this without exchanging blood."
+If I kill you, then I'll have to suck your blood.
+ But if you make a contract with me, then we can end this without exchanging blood."
 }
 [sha:0745f1bf7500af6e8775f2bebb80227754f7e2c7]{
 -- Page 194, Offset 37581.
 -- 「……そっか。血を吸うのが怖いんだっけ、おまえ」
-"...I see. So you're afraid of sucking blood, aren't you?"
+"That's right... You're afraid of sucking blood, aren't you?"
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 194, Offset 37582.
@@ -812,67 +837,77 @@ If I kill you, then I won't be able to drink your blood. If you make a contract 
 [sha:2af51cafd1b12586aa11979f05a313c03fc5470d]{
 -- Page 195, Offset 37583.
 -- 「……それはいいけどさ。俺がおまえに従うと仮定して、ロアをどうするつもりなんだ。
-"...There's nothing wrong with that. Even if I were to follow what you said, what do you plan to do about Roa?
+"There's nothing wrong with that...
+ Let's say I do agree. What are you going to do about Roa?
 }
 [sha:2bd37f673f005df87b72ecd51ab4aedfa680728d]{
 -- Page 195, Offset 37584.
 -- おまえは俺を殺さないっていうけど、俺が生きているかぎりロアは生き続けるんだぞ」
-You said that you wouldn't kill me, but as long as I'm alive, then Roa will continue living as well."
+You said you wouldn't kill me, but as long as I'm alive, then Roa will be too."
 }
 [sha:2eb2fa805e716c63573b4d190153bee9d792b220]{
 -- Page 196, Offset 37585.
 -- 「希薄になったロアは放っておいてもかまわないわ。
-"I don't mind leaving Roa alone if he's weak.
+"I don't mind leaving Roa alone now that he's been diluted.
 }
 [sha:938bdfbeb901dedc96887ddfd96dba016b844647]{
 -- Page 196, Offset 37586.
 -- ……そうね、だから貴方を見逃してあげてもよかった」
-...Yeah. That's why I should have let you go as well."
+Yeah... With him this weak, I could probably have just left you alone as well."
 }
 [sha:ea9a25de5d21a35dd44c1a7d9f6d0417a9222701]{
 -- Page 197, Offset 37587.
 -- 「なんだ。遠慮しないで見逃せよ。俺なんかにかまってないでさ、早く故郷に帰ってパパを安心させてやれ」
-"What's up with that? Then you should just let me go. You shouldn't bother with me, and just go back home and not worry your father."
+"Oh, well why didn't you say so.
+ By all means, leave me alone then.
+ Just forget about me and head on back to your hometown before your father starts to worry where you've gone."
 }
 [sha:67be57bf1d15664eed7c2b7eeda59547958651b3]{
 -- Page 198, Offset 37588.
 -- 「でもね。もともと自分の力なんだから取り戻そうとするのは当然でしょう？
-"But you know what? That power does belong to me after all, so it's only natural that I take it back, right?
+"But you see... It's my power, so it's only natural that I should want to take it back, right?
 }
 [sha:4e420c24f2fc8620559cdb987d68bafd22327fcb]{
 -- Page 198, Offset 37589.
 -- それに、なにより―――」
-And besides, more than anything―――"
+And, there's something I want even more―――"
 }
 [sha:8171de4b8996b8e79754ad031512aff74ec328da]{
 -- Page 198, Offset 37590.
 -- ぎり、と。
-She holds me tighter.
+Her grip tightens.
 }
 [sha:007615076231cb114efe67c47f87dc00ac3b9284]{
 -- Page 198, Offset 37591.
 -- 両肩にかかる体重が、重くなる。
-The weight on my shoulders grow heavier.
+The weight on my shoulders grows heavier.
 }
 [sha:a2f449b6be8d7e576b5914af9b8380f60f7e2d79]{
 -- Page 199, Offset 37592.
 -- 「……わたしは貴方を殺してロアを眠らせるより、このまま志貴を取りこみたい。殺して無くしてしまうより、もっと一緒に過ごしたい。前みたいに、志貴の声を聞いていたい」
-"...Rather than killing you and letting Roa sleep, I want to take you the way you are now. Rather than killing you and losing you, I want to spend more time with you. I want to hear your voice just like before."
+"Instead of killing you and forcing Roa to sleep,
+ I want to capture you as you are.
+ Instead of killing you and losing you,
+ I want to spend more time together.
+ I want to hear you talk with me like you used to."
 }
 [sha:2692630d9091660bee7b0391af7291084845ccdd]{
 -- Page 199, Offset 37593.
 -- だから殺さない、と紅い瞳が訴えてくる。
-That's why she won't kill me, she says with those red eyes.
+Her red eyes tell me that's why she won't kill me.
 }
 [sha:b66fa9e43ecd6a0b64a8bf24684ad12fe4d900f4]{
 -- Page 200, Offset 37594.
 -- 「信じられないけど、私は貴方が好き。大好き。だから助けてあげる。血も吸わないし、志貴の嫌がることは決してしない」
-"It's hard to believe, but I like you. I love you. That's why I'll save you. I won't suck your blood, and I'll never bring myself to hate you."
+"It's hard to believe, but I like you.
+ I love you.
+ That's why I'll save you.
+ I won't suck your blood, and I swear I won't do anything to make you mad."
 }
 [sha:0dc384292424ee26a5fccc0863a1202d08dd91a5]{
 -- Page 200, Offset 37595.
 -- だから言うことを聞いて、と紅い瞳が語ってくる。
-That's why I should do what she says, she pleads with those red eyes.
+Her red eyes beg me to listen to what she has to say.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 201, Offset 37596.
@@ -882,35 +917,35 @@ That's why I should do what she says, she pleads with those red eyes.
 [sha:bd0c14999ea90322a690365a0822828aa550d585]{
 -- Page 201, Offset 37597.
 -- ……今のは間違いなくアルクェイドの本心だ。
-...Right now, there's no doubt that those were her true feelings.
+I have no doubt that that's really how she feels...
 }
 [sha:1bc3c369620aae780d455616f1fc2308d1dd1b2a]{
 -- Page 201, Offset 37598.
 -- アルクェイドは嘘をつかない。
-Arcueid wouldn't tell a lie.
+Arcueid wouldn't lie.
 }
 [sha:79efaa914c0ab6ba82c6185684f2a2997a12f71c]{
 -- Page 201, Offset 37599.
 -- コイツは本当に純粋で、自分の気持ちに正直なだけなんだ。
-This person is truly pure, so she can only be honest about her own feelings.
+She's too genuine; she's simply being honest about her feelings.
 }
 [sha:5cb3ef0746e03bb0300f9fd1cd58ac231b23cac4]{
 -- Page 202, Offset 37600.
 -- ……なら、俺は。
-...That's why...
+In which case, if I...
 }
 [sha:1712ccd71706ebb0f615ca2f9fe930d4d2ea6630]{
 -- Page 202, Offset 37601. Mods: @k, @e.
 -- 俺の正直な気持ちは―――
-If I were to be honest about my own feelings, I―――
+If I were to be honest about my feelings too, I―――
 }
 [sha:58a8ebe21ba68005f5f85031379d0d7260b721b2]{
 -- Page 204, Offset 42758. Choice.
 -- ……アルクェイドには従えない。
- ...Can't do as Arcueid says.
+ Can't agree to Arcueid's proposal...
 }
 [sha:6191905b1c5e1b767c57859fcb03a07a6a49f81b]{
 -- Page 204, Offset 42759. Choice.
 -- ……アルクェイドを、嫌いにはなれない。
- ...I can't get myself to hate Arcueid.
+ Can't get myself to hate Arcueid...
 }
