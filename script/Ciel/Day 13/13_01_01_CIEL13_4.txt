@@ -12,7 +12,7 @@ I run.
 -- Page 10030, Offset 34096.
 -- 何も考えずに、ただ、何かから逃げたくて走り続けた。
 My mind is blank.
- I'm propelled only by the primal fear of running from something.
+ I'm propelled by nothing but the primal urge to escape.
 }
 [sha:40d19db4972e124dc1f0dd0de76620b0dad03d3f]{
 -- Page 311, Offset 34097.
@@ -43,7 +43,7 @@ I trip over myself and collapse sprawling onto the ground.
 -- Page 312, Offset 34102.
 -- 背中の傷はもう元通りのクセに、左手と左肩の傷はそのままだ。やはりあの杭打ち機は特別な武器らしい。
 The wound on my back has already healed, but the same can't be said for the gaping holes in my left arm and shoulder.
- It seems like that pile bunker really is some sort of special weapon.
+ It seems like there's something peculiar about that pile bunker.
 }
 [sha:f87140311a9d1f86cbde2fe85d984017a877600b]{
 -- Page 313, Offset 34103.
@@ -161,7 +161,7 @@ But that turned out to be someone else;
 -- Page 320, Offset 34124.
 -- ……それはそれでいい。悲しいけど悲しいだけだ。
 // It do be like that sometimes --Shiki
-Still, it is what it is...
+But what does it matter?
  It's tragic, but that's all there is to it.
 }
 [sha:37ab48579b2d730190d8894f5f3c0ecf7f813b36]{
@@ -201,7 +201,9 @@ There is only a single, solitary moon in the night sky.
 [sha:c8e82fba90af890cc54cee0b59b439498ad00559]{
 -- Page 321, Offset 34131.
 -- すごく、不思議だ。
-It's awfully strange.
+// Same descr as in 07_01_CIEL07_9 offset 16493, and this whole page
+// mirrors 94 - 96 in the prologue
+It's so mysterious...
 }
 [sha:374896c9c590bc5d41b1841d83539fb413eaa8cd]{
 -- Page 321, Offset 34132.
@@ -236,8 +238,8 @@ Am I really about to fade away without even knowing the first thing about myself
 [sha:4ce726787c5fe9dd466f8e89cc361d1b24e6d884]{
 -- Page 322, Offset 34138.
 -- なにもかもぼんやりしていて、馬鹿げてる。
-// Not 100% on ぼんやり here. I guess aimless/careless? Like the world is random and uncaring?
-It's all so circumstantial that it's absurd.
+// He himself being ぼんやり here we think
+My whole existence is so vague and uncertain that's it's absurd.
 }
 [sha:02708a0422e3509a80def022d4dea2f5d4dc9e03]{
 -- Page 323, Offset 34139.
@@ -396,8 +398,7 @@ It's been a long time since I last felt this happy.
 [sha:1a5f7eb352e83210cdd00cf254a3ca641e85f9e7]{
 -- Page 332, Offset 34167.
 -- ただの一度も。あの人は、俺に嘘はつかなかった。
-// Modulated here because it doesn't read well for him to say 'she's a liar' 4 times then say 'but she didn't lie :)"
-―――She's never said anything that wasn't true. Not even once.
+―――But she's never lied to %{i}me%{/i}. Not even once.
 }
 [sha:2d6914616e3a6221ee49e30d9c5f7b88e18f665f]{
 -- Page 333, Offset 34168.
@@ -424,8 +425,7 @@ Even so, her very existence is built on lies.
 [sha:c2347e0e639baaeda27b34d5c29eaf28a6038610]{
 -- Page 334, Offset 34172.
 -- あの笑顔が本当の嘘とは俺には思えない。
-// lint-off:LintDupedWord
-I can't bring myself to believe that that smile of hers was fake.
+I can't bring myself to believe that that smile of hers was also a lie.
 }
 [sha:921dbdbf4bd78c915c35179b09dedb969a7e071f]{
 -- Page 334, Offset 34173.
@@ -446,7 +446,7 @@ I was tricked.
 [sha:b1745337889f41f14e8c854785a2bf42e7125bcc]{
 -- Page 335, Offset 34176.
 -- あの人は俺を許してなんていなかった。
-She never genuinely granted me forgiveness.
+She never genuinely opened herself up to me.
 }
 [sha:45fc3047e8a95e1b1a943856f2b69491cd867e5f]{
 -- Page 335, Offset 34177.
@@ -488,12 +488,12 @@ I claw at the wall in frustration.
 [sha:a5e4bd5cd816752b5905f4eb01affb521307fc0e]{
 -- Page 336, Offset 34184.
 -- そう、騙されていた。
-That's right. I was deceived.
+That's right. I was tricked.
 }
 [sha:3d9ed2acbadc678798659e331b137ba2a4ab0ed4]{
 -- Page 336, Offset 34185.
 -- あの人はすべて計算ずくで自分に近づいてきた。
-She had it all planned out before she even approached me.
+She only ever got close to me as a means to an end.
 }
 [sha:e2d76aacfc951ffad4e2924762f530c0647f201b]{
 -- Page 337, Offset 34186.
@@ -523,7 +523,7 @@ Even despite all that, I――――
 [sha:b6713f463b431c49929ec845d32ce402ceb21e2c]{
 -- Page 338, Offset 34191.
 -- 憎める筈がない。
-There's no way I could ever hate her.
+How could I ever hate her?
 }
 [sha:96b2ce6b906637eac30280bf16f261ae01e7db74]{
 -- Page 338, Offset 34192.
@@ -610,7 +610,7 @@ The rasping sound of footsteps echoes across the ocean floor.
 // Sorry weblio, I don't think 断罪者 means 'Tetragrammaton Labyrinth'
 // https://ejje.weblio.jp/content/%E6%96%AD%E7%BD%AA%E8%80%85
 // Word doesn't seem to be used elsewhere, dunno if it's supposed to be a term or not
-With the moon at her back,
+Backlit by moonlight,
  the adjudicator casts a long shadow across the desolate ground.
 }
 [sha:f3d2d5caf159731f824f7715a918aa7d3e2baf51]{
@@ -626,8 +626,7 @@ She'll reach me any moment now.
 [sha:74a7b0dd9e2bdadf2b0c3203c008de6bd9ff0e39]{
 -- Page 342, Offset 34210.
 -- 色々あったけど結論は出せた。
-// I assume it's the situation that's been concluded, rather than him reaching a conclusion about something?
-It's been a wild ride, but we've reached the end of the line.
+It's been a wild ride, but I've made up my mind.
 }
 [sha:47c40c82f7a5905bffdd4a2ff190708eb1c6c4e6]{
 -- Page 342, Offset 34211.
@@ -728,7 +727,7 @@ My final moments draw closer and closer.
 [sha:18edfed2fa8ff544473e9899fcbf7c3b429fffdd]{
 -- Page 346, Offset 34227.
 -- それが何を意味するか理解していながら、彼女は言った。
-She asks me even though she knows what those words imply.
+She asked me that even though she knew what those words imply.
 }
 [sha:24f42a69fcf92b01b70da69a10d10f242be54616]{
 -- Page 346, Offset 34228. Mods: @k, @e.
