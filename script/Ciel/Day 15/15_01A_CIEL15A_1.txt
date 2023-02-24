@@ -1,37 +1,42 @@
 [sha:23efd2333ff0a8d445b077290f2bafa49ef31468]{
 -- Page 1, Offset 41383.
 -- 絶好の散歩日和だった。
-It was a perfect day for a walk.
+It's a perfect day for a walk.
 }
 [sha:b85c4ce6433480652c3e11d31511946a184c556a]{
 -- Page 1, Offset 41384.
 -- 空はどこまでも澄み渡り、太陽は山脈の遥か向こうにあって<燦然|さんぜん>と輝いている。
-The skies were perfectly clear, and the sun was shining brilliantly from far beyond the mountain range.
+There isn't a cloud in sight,
+ and the sun is shining brilliantly from far beyond the mountain range.
 }
 [sha:603cbe53848ac9d532c5275af7c78ff798d039d1]{
 -- Page 1, Offset 41385.
 -- こういう空を<碧天|へきてん>と言うらしい。
-It seemed this is what was known as an azure sky.
+// Slightly weird construction, 碧空 seems more normal?
+I suppose it's what you'd describe as an azure sky.
 }
 [sha:1557cf1dbdbe68eae45cae3791906e2ff76ce233]{
 -- Page 2, Offset 41386.
 -- いつもの広場で足を止めてベンチに座る。
-I stop by the usual plaza and sit on a bench.
+I stop at the familiar plaza and sit down on a bench.
 }
 [sha:aea4239948c40f1c12b2362ea82b7d55d648ecbd]{
 -- Page 2, Offset 41387.
 -- 真後ろのベンチには先客がいて、黙々と本を読んでいる。
-A person is sitting in the bench right behind me, silently reading away at a book.
+Someone's already sitting on the bench right behind mine,
+ silently engrossed in a book.
 }
 [sha:5f6e528037f54d8152a2aa0d37a2a610b82b0cf3]{
 -- Page 2, Offset 41388.
 -- その様があまりにも自然だったので風景と見間違えた。
-His appearance was so natural that I mistook him as part of the scenery.
+He looked so natural that I mistook him for part of the scenery.
 }
 [sha:3538c0e462bdf774e74869ed4ba3686d4c8604c7]{
 -- Page 2, Offset 41389.
 -- 神父服を着た男は、まるで何百年もそうしているかのように、終わりのない頁をめくっている。
-The man wearing a priest's cassock turns over the pages without end, as if he's been doing so for hundreds of year.
+// 神父服 only shows up in D15 by the look of it.
+The man wearing a priest's cassock keeps on steadily turning the page,
+ as though he's been repeating that motion for hundreds of years.
 }
 [sha:7319f7a05c594a411ce635bdef4c6d54bdc5e987]{
 -- Page 3, Offset 41390.
@@ -41,32 +46,41 @@ The man wearing a priest's cassock turns over the pages without end, as if he's 
 [sha:860ebf67cceda33f22cfe2721380bf0b538ed145]{
 -- Page 3, Offset 41391.
 -- ともあれ、こんな空の下で出会ったのだ。
-And so, this marks our little encounter under the deep, blue sky.
+Thus begins our encounter beneath that azure sky.
 }
 [sha:4949cfc8010847b6a79514f561f580e7939a91f9]{
 -- Page 3, Offset 41392.
 -- 挨拶をするのが人間らしい礼儀というものだろう。
-I'm sure a greeting like this is considered to be proper human etiquette.
+After all, it's only polite to greet another person.
 }
 [sha:4625245ac059b8c92802ffdc81c499bab4bf3235]{
 -- Page 4, Offset 41393.
 -- 「ええ、良い天気です。晴れた日は陽差しが強すぎて眼が疲れるのが困りものですが、太陽の匂いはやはりいい。部屋にこもっていると忘れがちな、万人に平等に与えられた自然の恩恵というヤツですね」
-"Yes, it truly is. The sun on such a clear day may be too strong that it tires my eyes, but I do admit its aura is rather pleasant. It is a blessing of nature given equally to all, which can be easily forgotten when staying inside one's own room."
+// Feels like but does not actually match 00_00's offset 145.
+// I feel like 太陽の匂い isn't as much of a thing in EN, esp since googling
+// the EN phrase nets me a tweet by someone confused by it in an anime.
+// Adjusted to be about fresh air instead, assuming this is still autumn/winter
+// Also did I just get told to touch grass
+"Yes, it really is.
+ On such clear days the sun is so strong that it strains my eyes,
+ but I do admit that the fresh crisp air is rather pleasant.
+ It's easy to forget that such gifts of nature are free for anyone to enjoy if you spend too much time cooped up in your room."
 }
 [sha:f943c5fe5eca858c0e3791f53c6be0a6874dd9ac]{
 -- Page 5, Offset 41394.
 -- 苦笑しながら頁をめくる神父。
-The priest turns the page as he puts on a wry smile.
+The priest smiles wryly as he turns the page.
 }
 [sha:ee6dbd75a56a3d46fba5b0d170c7e19cacdbcc9c]{
 -- Page 5, Offset 41395.
 -- これ以上ないというほど冷酷な声だったが、その語り口は柔らかく、人間的な魅力に溢れていた。
-His voice couldn't be any more cold, and yet the way he spoke was soft and filled with human-like charm.
+His voice couldn't have sounded any colder,
+ and yet there was a gentle charisma to the way he spoke.
 }
 [sha:017ad304f62b3d224232145a0de2f3afc1a6b17c]{
 -- Page 6, Offset 41396.
 -- しかし不思議な事に、どれほど観察しても顔が見えない。
-But what's strange is that no matter how much I look, I can't seem to catch a glimpse of his face.
+It's strange, but... try as I might, I can't seem to catch a glimpse of his face.
 }
 [sha:c4617a02f7e2a7b5a56eebaff5b122a9c80066bb]{
 -- Page 6, Offset 41397.
@@ -76,7 +90,7 @@ I wonder what kind of person he is.
 [sha:ace65ead0fd9cb9adc4bf799d04605900bde9a85]{
 -- Page 6, Offset 41398.
 -- はじめの彼がどんな顔立ちをしていたのかが判別できない。
-I can't distinguish what he used to look like in his original form.
+I can't tell how he must have looked back in his original incarnation.
 }
 [sha:eaee898ef36fede9688ca492e6d19b9aafb43ddc]{
 -- Page 6, Offset 41399.
@@ -86,32 +100,35 @@ It's like looking at a photo that's out of focus.
 [sha:c40ab897b9960c9474f6324d342a30c0e4df0dbd]{
 -- Page 7, Offset 41400.
 -- 「じゃあ、これから例の城に？」
-"So I guess you'll go back to the castle after this?"
+"So, it's back to the castle again after this?"
 }
 [sha:6d5084f1cd360dc1680f39a36aaf77140c97e467]{
 -- Page 7, Offset 41401.
 -- なんとなくそんな気がして話しかける。
-For some reason or another, I say those words thinking that was the case.
+I just had a feeling that's where he was headed.
 }
 [sha:4b8a36245dc412542269f8ddc5987524181bce59]{
 -- Page 7, Offset 41402.
 -- 神父は照れくさそうに頷いた。
-The priest nods in awkward fashion.
+The priest nods, embarrassed.
 }
 [sha:75417575462e5dc24d9b0dce4c205e21cdf3dc7b]{
 -- Page 8, Offset 41403.
 -- 「どうして転生なんかを？　一個体として生き続けた方が簡単だし、なにより人に迷惑をかけないでしょうに」
-"But why reincarnation? It would be easier to focus on prolonging life as an individual, and most of all, you wouldn't be causing trouble for others."
+"Why reincarnation, anyway?
+ It'd be a lot easier to focus on prolonging your life as an individual,
+ and more importantly, you wouldn't go around causing problems for other people."
 }
 [sha:ea8d17dc2b1c9fa380773a76ea57682a8d32dbdf]{
 -- Page 8, Offset 41404.
 -- 「それでは限界に辿り着くからですよ。
-"But then eventually, you would reach a limit.
+"Because if I did that, I'd eventually reach a limit.
 }
 [sha:9ca633bdeef7b3e483e3430092658b32e9776ddd]{
 -- Page 8, Offset 41405.
 -- 人間の知覚、全能への道には果てがない。どれほどの超越者になろうと上には上がいる」
-There is no end to human perception and the path to omnipotence. No matter how transcendental you become, there will always be something even greater."
+There is no upper bound to human perception――no end to the path toward omnipotence.
+ No matter how transcendental you become, there will always be someone yet further along."
 }
 [sha:29d20b6d0a74117c45f3abdcc6e468e830448794]{
 -- Page 9, Offset 41406.
@@ -121,102 +138,114 @@ There is no end to human perception and the path to omnipotence. No matter how t
 [sha:43f640cd26d9ee795e88900b2222671001704ead]{
 -- Page 9, Offset 41407.
 -- 永遠なるものの背中に手をかけようと試みた。
-I tried to place my hand on the back of an immortal being.
+// 背中に手をかける supposed to be an idiom of any sort? I don't see anything so guess it's just weird?
+I attempted to place my hand on the back of an immortal being.
 }
 [sha:e383a48fab95251216a4f19cec548b9af1aeec72]{
 -- Page 9, Offset 41408.
 -- であれば、己に支払えるものは全て支払うべきでしょう。
-As such, it would only be natural for me to pay with everything I have.
+To achieve such a goal,
+ it is only natural I should have pay with everything I have.
 }
 [sha:dc3d129bfd622e52db167c0f1aaa93a51953a652]{
 -- Page 9, Offset 41409.
 -- <個|い><人|ち>を捨て<歴史|じゅう>を得る。
-Abandoning individuality to acquire history.
+Discarding one to draw ten.
+ Abandoning my individuality to acquire history.
 }
 [sha:46f4af66c395a14dddad03961c539c9b4d39572d]{
 -- Page 9, Offset 41410.
 -- 初期衝動を薪にし、自分自身を灰にしても、私だったものが目指した“人間の意味”を、証明すると決めたのです」
-I decided to use my earliest desires as fuel. To prove the 'meaning of humanity' that I had set out to grasp, even if it meant being reduced to ashes."
+I decided burn the desires that I had held to fuel my search for the 'meaning of humanity' that my old self had set out to grasp,
+ even if it meant that I myself would be reduced to ashes."
 }
 [sha:12ce93ed29128649ae9d89b133fabe4cb476abee]{
 -- Page 10, Offset 41411.
 -- 彼の言う“人間の意味”とは何なのか、自分には分からない。
-I don't understand what he means by the 'meaning of humanity'.
+I don't know for sure what he means by the 'meaning of humanity'.
 }
 [sha:a8e5886014bfc4864e42757722249a823e1c37a6]{
 -- Page 10, Offset 41412.
 -- ただ、それはそう崇高なものではなく。
-All I knew was that it wasn't something as grand as it sounds.
+But, I know that it isn't as grand as it sounds.
 }
 [sha:b4f92ca6020d150c0a3ebfee273189456b8cbb91]{
 -- Page 10, Offset 41413.
 -- “世界の果ては、
-'The end of the world,
+'What will they be like―――
 }
 [sha:29216b6f1c6d9e50f0e1454c0f9968bfa7cac339]{
 -- Page 10, Offset 41414.
 -- <人間|わたしたち>の<先端|みらい>は、どのようなものなのか”
-and the future of humanity. I wonder what it looks like?'
+What will be the fate of this world?
+ What does our future――does humanity's climax hold?'
 }
 [sha:1fb73c0284f82c6ebcba15d898b04dcb8da9a159]{
 -- Page 10, Offset 41415.
 -- 誰もが幼い日に感じ、忘れ去る憧憬を、いつまでも持ち続けた結果だった。
-It was a result of forever holding on to a forgotten sense of longing. A longing that every child had once thought.
+It's the result of him latching on to that sense of longing that everyone feels and forgets in their youth.
 }
 [sha:e9b58947e01e2cde71ba2b2ab0ca53cb90bdcb42]{
 -- Page 11, Offset 41416.
 -- 風が出てきたらしい。
-It's starting to get windy.
+The wind is starting to pick up.
 }
 [sha:f0ebe2943de058d2f145a38828057ed405364fd3]{
 -- Page 11, Offset 41417.
 -- 空には雲がかかり、広場には灰色の陽差し。
-The clouds hang over the skies, switching the sunlight in the plaza to gray.
+Clouds have begun to gather above us,
+ casting a grey shadow over the plaza.
 }
 [sha:40fe2c945c0c6f4e9f2f53d1d0d686dda7f25449]{
 -- Page 11, Offset 41418.
 -- 神父服の男がどんな<表|か><情|お>をしているのか、やはり読み取れない。
-Of course, I couldn't figure out what kind of face the man in priest's cossack was making.
+// 神父服の feels a little clumsy here. Maybe we just shorted it to priest?
+As I expected, I can't tell what kind of expression is on the priest's face.
 }
 [sha:04e002a0cba9f082ede545a80fdef18dd185f440]{
 -- Page 12, Offset 41419.
 -- 「天気が崩れてきましたね。俺は帰りますけど、貴方は？」
-"It looks like the weather is getting worse. I'm going back home, but what about you?"
+"Looks like the weather's getting worse.
+ I'm headed back home, but what about you?"
 }
 [sha:2b8b776140cfca621f0adf8de3ce9909d17c8028]{
 -- Page 12, Offset 41420.
 -- 「私に帰り道はありません。片道切符というヤツです。それも、ここで終点のようですが」
-"There is no home for me to go to. I am man walking a one-way path. Not to mention this appears to be my final stop."
+"I have no home to return to.
+ I bought myself a one-way ticket,
+ and as it turns out, this is my final stop."
 }
 [sha:901a1b42513f59440beb8b49db7763e2687707d5]{
 -- Page 13, Offset 41421.
 -- 声に悲嘆の色は見られなかった。
-There was no sign of anguish in his voice.
+I can't detect any sadness in his voice.
 }
 [sha:e9d5fc1b0f71e9f1c8aa36ec39bed136c0cbfe5a]{
 -- Page 13, Offset 41422.
 -- 男は満足も、失望もしていないようだ。
-It doesn't seem like the man was satisfied or even dissapointed.
+He seems neither satisfied nor disappointed.
 }
 [sha:55fae34da95b8aa06c37f4c202a44a32f80b726f]{
 -- Page 13, Offset 41423.
 -- 日が陰り始める。
-The day begins to cloud.
+The sun is starting to set.
 }
 [sha:a71b5aef20eff11159c06aafa66eed062b5a7554]{
 -- Page 13, Offset 41424.
 -- じき夕暮れ。俺はベンチを立って帰路につく。
-It will soon be evening. I stand up from the bench and make my way home.
+Dusk is around the corner.
+ I stand up from the bench and start to make my way home.
 }
 [sha:50ad72383661525495792661bb1a1a108f5b6bb1]{
 -- Page 13, Offset 41425.
 -- 振り返る気は起きなかったし、その必要もない。
-I don't have any desire to look back, and there's no need for it.
+I don't feel like looking back,
+ nor do I have any need to.
 }
 [sha:29979e016b8605a2fd56ab6154ec8e2dce32a3e9]{
 -- Page 14, Offset 41426.
 -- 「ですが一つ、言葉を残しましょう」
-"But allow me to leave behind a few words."
+"But allow me to leave you with a few words."
 }
 [sha:34e6143abef79c855ff9455530137c8f8a1ccdeb]{
 -- Page 15, Offset 41427.
@@ -236,77 +265,83 @@ However―――
 [sha:453b7666e87685da2820b5a5fdbe05c8cb69b9b1]{
 -- Page 15, Offset 41430.
 -- ありえない事とは、まだ誰も成し遂げていない、という事でもある」
-You could also say that an impossible thing is something that has yet to be accomplished."
+You could say that anything impossible is simply something that has yet to be accomplished."
 }
 [sha:5229fe5541d7e2865ab5fb365e2b0ea4d54820ec]{
 -- Page 16, Offset 41431.
 -- 「もし君が未踏の航路に旅立つのなら忘れない事です。
-"If you ever find yourself embarking on an unknown path, then remember this.
+// 航路 only shows up here and on this route's D14. Not the same as what we've considered his voyage.
+// Previously translated as 'course'.
+"If you ever find yourself charting a course through parts unknown,
+ then remember this:
 }
 [sha:0cc27fd0afba752df9f4ade3a829e66c832545c1]{
 -- Page 16, Offset 41432.
 -- この世界に起こりえない事はありません。
-There is no such thing in this world that cannot occur.
+Nothing in this world is absolutely impossible.
 }
 [sha:9ff361e5dba7148ae2222278a1783422d6bf4f2d]{
 -- Page 16, Offset 41433.
 -- アナタの人生において、己の全てを支払う好機に出逢えるのなら。
-If there is ever a chance in your life where you can pay with everything you have,
+// Reference 41408.
+If in your life you have a chance to pay with everything you have―――
 }
 [sha:0082d7c4decc0130b11671c9cf5fd7ba7a38d044]{
 -- Page 16, Offset 41434.
 -- どんな闇の中であろうと虹をかけるくらいはできるでしょう」
-then you would be able to build a rainbow, no matter how dark it may be."
+Then I'm sure you can create a rainbow no matter how dark it may be."
 }
 [sha:d35a5fa84d6a381b9a53bff1e5498cf6f3911c58]{
 -- Page 17, Offset 41435.
 -- 神父服の男はもういない。
-The man in priest's cossack is no longer present.
+The man in the priest's cassock has disappeared.
 }
 [sha:a391ac0e2c954dae24478d68561ddf0ebfa0453a]{
 -- Page 17, Offset 41436.
 -- ベンチに置かれた一冊の古びた本。
-A single old-looking book is placed on the bench.
+The well-worn book has been placed on the bench.
 }
 [sha:ca083d5bed1ec928654854e5b8f422328f8dad52]{
 -- Page 17, Offset 41437.
 -- それはパラパラと頁を風に散らしながら、<痕跡|こんせき>を残す事なく、この世の果てに飛んでいった。
-As the pages flap away by the wind and scatter, it soars to the ends of this world without a single trace left behind.
+The pages flutter as they catch the wind and scatter to the ends of the earth,
+ leaving not a single trace behind.
 }
 [sha:b12fe2ad1aa1004e4e3b411ea6a39ebe78c104f8]{
 -- Page 18, Offset 41438.
 -- 目を覚ますと、そこは懐かしい匂いのする病室だった。
-When I wake up, I find myself inside a hospital room with a familiar scent.
+When I wake up, I'm greeted by the familiar scent of a hospital room.
 }
 [sha:5adaf492a33e36abda3e9f67a62b476e12c37897]{
 -- Page 19, Offset 41439.
 -- 「…………生き、てる」
-"I'm... alive."
+"I'm... alive..."
 }
 [sha:ae1dab4daad3016cac873c4a6003f3c8f88d2a5b]{
 -- Page 19, Offset 41440.
 -- 呼吸に合わせて胸が上下する。
-My chests rises and falls in line with my breathing.
+My chests rises and falls in time with my breathing.
 }
 [sha:88027085ae1d591179489b58af8a80fd958865e1]{
 -- Page 19, Offset 41441.
 -- 開かれた窓から気持ちのいい風がそよいでいる。
-A nice breeze flows in from the open window.
+// Page kinda echoes 00_00 offsets around 109
+A refreshing breeze blows through the open window.
 }
 [sha:fd80cc0960334dbccc9b33b4547e7695b184abd8]{
 -- Page 19, Offset 41442.
 -- 黄色のカーテンが風になびいている。
-The yellow curtains flutter with the wind.
+The yellow curtains are fluttering in the wind.
 }
 [sha:7c3abc8912e98bbd63c5a4336d3d4aa400f43253]{
 -- Page 19, Offset 41443.
 -- 外は目を奪われるほどの鮮やかな青空で、
-Outside, there is a brilliant and captivating blue sky,
+The sky outside is a captivatingly brilliant blue―――
 }
 [sha:826726a1fe0ecb8be2a198ae1934db53e34d49fb]{
 -- Page 19, Offset 41444.
 -- 気温は春先のように暖かだった。
-and a warmth like the beginning of spring.
+And it's as warm as a balmy day in early spring.
 }
 [sha:797765ac64180e12eb659c0b1611c8834b0fe282]{
 -- Page 20, Offset 41445.
@@ -316,7 +351,8 @@ and a warmth like the beginning of spring.
 [sha:8ea11382b83bbc761fcd8384b3bf46f5f3c78fb5]{
 -- Page 20, Offset 41446.
 -- 呆然と呟いて、きょろきょろとあたりを見渡した。
-Muttering in a daze, I look around my surroundings restlessly.
+Muttering dumbfoundedly to myself,
+ I look around at my surroundings.
 }
 [sha:c0e29ae68e0b0dc93dfdee5151fe0f7cbaa6f68c]{
 -- Page 20, Offset 41447.
@@ -326,37 +362,39 @@ There's no one else in the room.
 [sha:0fbcb9d42aec274ace4d5d39c01ddc6fbdc600f3]{
 -- Page 20, Offset 41448.
 -- 俺はベッドに横になっていて、右腕には点滴の針が刺さっている。
-I'm lying down on a bed with an IV drip sticking into my right arm.
+I'm lying down on the bed,
+ and there's an IV drip sticking into my right arm.
 }
 [sha:d9277266867fba1c4be4017f7c422fe8261ce965]{
 -- Page 20, Offset 41449.
 -- 胸には包帯があって――――
-There is a bandage in my chest―――
+There's a bandage on my chest―――
 }
 [sha:49fcf8cdd06bcdafa81a33874fe8d447252f9f87]{
 -- Page 21, Offset 41450.
 -- 点滴の針を外して、胸の包帯を剥ぐ。
-I remove the IV drip and tear off the bandage.
+I remove the IV and peel off the bandage.
 }
 [sha:ec25ff8703c440e09a100a30f8001f1e7f28c7ff]{
 -- Page 21, Offset 41451.
 -- 包帯の下にはこれといって異常は見られなかった。
-There wasn't anything particularly odd or abnormal underneath the bandage.
+There isn't anything particularly unusual underneath the bandage.
 }
 [sha:146068dc64d1bf0df221c93eb28897e7a6b68ce0]{
 -- Page 21, Offset 41452.
 -- あるのは自分の胸だけで、傷痕はおろか染み一つない。
-There was only my own chest, and not a single sign of any scar.
+There's only my own chest.
+ I don't even see any blemishes, let alone scars.
 }
 [sha:52a64721fe45a7735bb067c96baaa04f8a6ea256]{
 -- Page 21, Offset 41453.
 -- ……かすかに首をかしげる。
-I tilt my head slightly in confusion.
+I tilt my head slightly in confusion...
 }
 [sha:2dc94e200249c0319fb62b3ebd6dc55d84f109e2]{
 -- Page 21, Offset 41454.
 -- 俺は、胸に包帯を巻くような怪我を、したんだろうか。
-Did I... do something about wound beneath the bandage?
+Did I have a wound that required my chest being bandaged?
 }
 [sha:956125f972827f97998d60d9a0375c8f18210c86]{
 -- Page 22, Offset 41455.
@@ -366,12 +404,12 @@ Did I... do something about wound beneath the bandage?
 [sha:bf2ec80d7c7c9f3bbdc98bcffd560da6d6ec2301]{
 -- Page 22, Offset 41456.
 -- 開けっぱなしのドアの向こう。
-On the other side of the half-open door.
+On the other side of the half-open door―――
 }
 [sha:4c5dad1f73c8f83b9c3fb10d1545a2a3bb55548d]{
 -- Page 22, Offset 41457.
 -- 誰もいない廊下で、見知らぬ子供が病室を覗いていた。
-There is an unfamiliar child looking into the room from the empty corridor.
+An unfamiliar child is peering into my room from the otherwise empty corridor.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 23, Offset 41458.
@@ -591,7 +629,7 @@ It was no use, so they contacted the Tohno household and brought you to the hosp
 [sha:cad6e8229b6dfc605fddaad608ae1c75cd5faf42]{
 -- Page 39, Offset 41501.
 -- 「一ヶ月も昏睡状態って―――それって、普通」
-"A coma for a month―――Wouldn't that normally be..."
+"A coma for a month――Wouldn't that normally be..."
 }
 [sha:191f60e0b6df4833ad928626a30ecad22435ffba]{
 -- Page 39, Offset 41502.
@@ -951,7 +989,7 @@ That bare scar on his chest is somewhat―――
 [sha:d665e0ef332d48a4a4b831379925b3c1ddd5b84e]{
 -- Page 62, Offset 41573.
 -- 「えっと―――琥珀、さん？」
-"Um―――Kohaku-san?"
+"Um――Kohaku-san?"
 }
 [sha:79a9d620dbbad8d167aa5ab7701328a3ca29c7eb]{
 -- Page 62, Offset 41574.
@@ -1216,7 +1254,7 @@ All I know is that seeing her smile made me incredibly sad.
 [sha:e47fd8f6dda553563c9eeed6fce7de516a93c585]{
 -- Page 80, Offset 41627.
 -- 「あ―――うん、おはよう、先輩」
-"Ah―――right. Good morning, Senpai."
+"Ah――right. Good morning, Senpai."
 }
 [sha:9ff7c92d004a7da7646cb7087756cb4a88aa3ca1]{
 -- Page 80, Offset 41628.
@@ -1446,7 +1484,7 @@ Something that could be taken as an endearing what-if scenario.
 [sha:f253a906fdeff4cc1492b19951d3af66d05077dc]{
 -- Page 100, Offset 41673.
 -- 「そう―――それは、良かった、けど」
-"I see―――That's great, but..."
+"I see――That's great, but..."
 }
 [sha:4f605d717557aaaf8b5bc75bd3e8d011b9f53d51]{
 -- Page 100, Offset 41674.
@@ -1701,7 +1739,7 @@ As I say that, my eyes become filled with tears.
 [sha:f67242ba0d76c58992e31b00b6db9ad25fa1bc17]{
 -- Page 114, Offset 41724.
 -- そうすれば―――このまま幸せな時間が、誰も傷つくことのない一日が続いていただろうから。
-That way―――I could have continued living out this joyful day where no one gets hurt.
+That way――I could have continued living out this joyful day where no one gets hurt.
 }
 [sha:d45c26812854ccf29c59e3f14338d9e67a237b7c]{
 -- Page 115, Offset 41725.
@@ -1781,7 +1819,7 @@ A time void of sadness like no other.
 [sha:411823caf75a148b40078cfec62d921fad3f7940]{
 -- Page 119, Offset 41740.
 -- でも―――今回ぐらいは、見逃してくれても良かったのに」
-But―――it would have been nice if you had overlooked things just this once."
+But――it would have been nice if you had overlooked things just this once."
 }
 [sha:048d42ce0b60ea7425c9c553484cefa20328959a]{
 -- Page 120, Offset 41741.
@@ -2411,7 +2449,7 @@ Even if it's bringing a dead person back to life, well, it's absurd, but isn't t
 [sha:818ae8fe5380888a4071b8e60c631ad71c84e280]{
 -- Page 155, Offset 41867.
 -- でもさあ―――オタク、間違いなく人生棒に振るぜ？」
-But still―――Otaku, you'll definitely be wasting your life."
+But still――Otaku, you'll definitely be wasting your life."
 }
 [sha:d3c8987836701b569eab14fcfcaca4233493c19a]{
 -- Page 156, Offset 41868.
@@ -2791,7 +2829,7 @@ On that night, I took an oath as I looked up at the sky.
 [sha:4e3ff48527813e5f663b7a42eadc17c530d85dca]{
 -- Page 180, Offset 41943.
 -- だから―――どんな手を尽くしても、必ず、この命を彼女に返す。
-That's why―――no matter what I have to do, I'll definitely give this life back to her.
+That's why――no matter what I have to do, I'll definitely give this life back to her.
 }
 [sha:478e4bb465b0478c7e12cf165be6ea9a228c6009]{
 -- Page 180, Offset 41944.
