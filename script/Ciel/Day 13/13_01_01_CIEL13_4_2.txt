@@ -1383,12 +1383,14 @@ After that, I was granted this unsightly perception
 [sha:02708a0422e3509a80def022d4dea2f5d4dc9e03]{
 -- Page 473, Offset 34659.
 -- 死の見える世界。
-A world where death can be seen.
+A world where I can see death.
 }
 [sha:a3412dc9418dd4a1ebff8f56bc117c01f8c9971c]{
 -- Page 473, Offset 34660.
 -- 死が視える世界。
-A world where I can see death.
+// Opting for consistency in pattern across this and 13_4
+// LintConsistency:34140
+Where I can perceive it.
 }
 [sha:c3d2a6c2b0ca71530e2c74410dcfa7de37206c13]{
 -- Page 473, Offset 34661.
