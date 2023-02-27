@@ -36,7 +36,7 @@ I pant heavily as I try and calm my racing heart and mind.
 [sha:d1cc14b7433de02c2f93b3be7d34b872654f2dc3]{
 -- Page 42, Offset 38448.
 -- 今は数秒でも休息を取らないと走れない。
-It's going to take me a few seconds before I've caught my breath and can run again.
+It's going to take me a few seconds before I've caught my breath and can run away.
 }
 [sha:d8e03c011ffaccd12cde7bd1664fc1a663bb160c]{
 -- Page 42, Offset 38449.
@@ -103,7 +103,7 @@ It's like an entire sea of blood has spilled from Arcueid―――
 [sha:fadcfeecd23cd085f3f8ce02fb42f7f2df30ebf3]{
 -- Page 46, Offset 38460.
 -- 世界そのものに出来た、孔のような傷に見えた。
-Almost like a wound had been gouged into the world itself.
+Almost as if a wound had been gouged into the world itself.
 }
 [sha:2cbe213ebf440e9da72058050a8c16f36848b1cc]{
 -- Page 47, Offset 38461.
@@ -134,12 +134,12 @@ The dull glint reflecting off a pool of blood...
 [sha:101a26964a9eee9697dd78af5ad33ca368672177]{
 -- Page 48, Offset 38466.
 -- ―――殺して。
-―――I killed her.
+Did I―――
 }
 [sha:735f14e38e2c54a39559c409cb313936886c9c4f]{
 -- Page 48, Offset 38467.
 -- 殺してしまったのか、俺は。
-Did I... seriously just kill her?
+Did I seriously just kill her?
 }
 [sha:fb4d3e04e6434e9c85a64bd493dd3679e4c909d2]{
 -- Page 48, Offset 38468.
@@ -316,7 +316,7 @@ Her crimson blood continues to flow...
 -- Page 57, Offset 38498.
 -- 静かに、彼女の体が地面から離れていく。
 // Still not standing, just torso up I guess (as per cg)
-making a sound, she lifts her body up off of the floor.
+Without making a sound, she lifts her body up off of the floor.
 }
 [sha:8cbfc1da209bcae7266c5aaabe7a6a977054a6d4]{
 -- Page 58, Offset 38499.
@@ -389,18 +389,16 @@ The man in my head extols this inscrutable phenomenon.
 [sha:310d0f3e9a133d392d9a298d54f31fe01a582d44]{
 -- Page 62, Offset 38511.
 -- “これこそは真祖の力。星の触覚として地表を思うままに作り変える空想具現化。
-// Under Roa assumption, italicised
 // Similar to what he says when reincarnated as SHIKI in 32577.
-%{i}
+// Was going to italicize all this Roa text, but it fucks up the engine
+// somehow to have this much italics on a page (thinks they're doublewide chars still?)
 'This is the power of a True Ancestor.
- As the planets sense of touch,
- their Marble Phantasm allows them to rewrite the planet's surface as easily as thinking it.
-%{/i}
+ As the planet's sense of touch,
+ her Marble Phantasm allows her to rewrite the planet's surface as easily as thinking it.
 }
 [sha:5b1fe55ccccb786518bd08b3e6fe08942148ec27]{
 -- Page 62, Offset 38512.
 -- もうこの街はおしまいだ。この領域はおしまいだ。建物も生き物も変換される。四次元から二次元に潰されて呑み込まれる。事象変換から事象収納。その後に来るものはおまえたちを見限って移り変わった星の内海。讃えよ。畏れよ。跪き死に備えよ。さあ―――あともう一押しで、<お|・><ま|・><え|・><の|・><世|・><界|・><が|・><裏|・><返|・><る|・><ぞ|・>！”
-%{i}
 This city is already done for.
  This entire region is done for.
  Both man and matter will be changed.
@@ -411,7 +409,6 @@ This city is already done for.
  Fear it.
  Kneel and embrace your death.
  Come――just one more push and your world shall turn inside out!'
-%{/i}
 }
 [sha:90fd714f7d010aef683042a5e455aa482d3f0e3d]{
 -- Page 63, Offset 38513.
@@ -513,7 +510,7 @@ Never have I experienced such humiliation.
 -- 志貴にこの身を焦がすほどの憤怒をぶつけ、叩きつける時がどれほど気持ちのよい事か想像もつかない。きっと愉しい。すごく愉しい。世界を引き替えにしてもいいぐらい愉しいに決まっている。嬉しい。嬉しい。嬉しい。もう我慢しない。もう見逃さない。もうこれ以上待ちきれない。四肢を引き千切って肋骨をあばいて臓物をよじり出して、助けをこう喉を踏み潰して頭蓋を切開して脳を地面に塗りたくるその瞬間―――――！”
 // Having an exceedingly normal one
 // 身を焦がす is normally burning (with love), so I guess keep that contrast with 憤怒?
-I can scarcely imagine the pleasure I'll derive from crushing Shiki with this furious love.
+I can scarcely imagine the pleasure I'll derive from crushing Shiki with the fury of love.
  I'm sure it'll be fun.
  Incredibly fun.
  So fun that I'll happily trade the world for it.
@@ -574,7 +571,7 @@ I have to run.
 -- Page 67, Offset 38539.
 -- どこでもいい、早くここから離れないと、殺される。
 It doesn't matter where, I just need to get out of here.
- If I don't, I'll be killed.
+ I'll be killed if I don't.
 }
 [sha:77addf2e1b87acb92be9ada1bc7e90606ea230e7]{
 -- Page 68, Offset 38540.
@@ -794,7 +791,7 @@ Suddenly, an enormous wall appears in front of us.
 -- Page 80, Offset 38578.
 -- それはどう見ても中世の城の壁面で、俺たちは空を跳躍している最中で、もう衝突するしか選択肢は存在しなかった。
 Crazy at it sounds, there's no denying that it's the outer wall of some medieval castle,
- and because we're mid-jump, there's also nothing we can do to stop ourselves from careening straight into it.
+ and because we're mid-jump, there's nothing we can do to stop ourselves from careening straight into it.
 }
 [sha:bb7703aaeb1c508b7db656a428b79cf339aba6af]{
 -- Page 81, Offset 38579.
@@ -805,7 +802,7 @@ Crazy at it sounds, there's no denying that it's the outer wall of some medieval
 [sha:5e8ea3684adaf855f5c808fbd2ec85b420d2ea21]{
 -- Page 82, Offset 38580.
 -- 先輩は俺の腕を掴んだまま、出現した壁を蹴りつけた。
-Senpai grabs me by the arm and slams her heel into newly-formed wall.
+Senpai grabs me by the arm and slams heel-first into the newly-formed wall.
 }
 [sha:b57f862ae903a0fb8c99cb05c09feac5ffd449da]{
 -- Page 82, Offset 38581.
@@ -851,7 +848,7 @@ We need to hurry...
 -- 外皮を失い、その中身も消失し、輪郭だけになったビル街。
 The shell of the downtown area is stripped away,
  its contents drained,
- leaving nothing but the outline of where it used to be.
+ leaving nothing but the outline of what used to be.
 }
 [sha:0686b2a69b04d77b438600233a62448c8d040d6d]{
 -- Page 85, Offset 38589.
