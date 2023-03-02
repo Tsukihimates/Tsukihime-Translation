@@ -1,7 +1,7 @@
 [sha:8b3e89981fbe26b1352a03c0ec39c38830fc1edb]{
 -- Page 10037, Offset 35165.
 -- 「―――ぁ、ぐ……………！！」
-"―――%{i}Ah%{/i}, %{i}gh%{/i}...!!"
+"―――%{i}Ah%{/i}, %{i}gh%{/i}!!"
 }
 [sha:b0968f887184077b0b562c6cccf410809dbaf373]{
 -- Page 10037, Offset 35166.
@@ -9,15 +9,15 @@
 Even as I'm buffeted by an intense nausea,
  I somehow manage to stay on my feet.
 }
-[sha:f8b2d368c3b6ba5bf7fb1a7e3cac010853198cd3]{
+[offset:35167]{
 -- Page 661, Offset 35167.
 -- 「…………！」
-"......!"
+"%{i}Ugh%{/i}!"
 }
 [sha:8ad26485b56cf50ea80dce740e49782b00fcfd51]{
 -- Page 661, Offset 35168.
 -- <酩酊|めいてい>状態の頭を左手で押さえつける。
-My head is swimming, but I steady it with my left hand.
+My head is reeling, but I steady it with my left hand.
 }
 [sha:0507f424537fbe2762f1d85efc6975a119f77df2]{
 -- Page 661, Offset 35169.
@@ -43,7 +43,7 @@ Even though you're just a lowly human, you managed to escape my eyes...?"
 [sha:314b151b4af8a9ad9625c3f3f74a357ddd820e1a]{
 -- Page 663, Offset 35173.
 -- 止まっていた心臓が、心肺機能が再稼働する。
-My stopped heart begins pumping blood once more.
+My stopped heart resumes its cardiac activities.
 }
 [sha:474a2941cf990c6f92065b284603b9e5777645a1]{
 -- Page 663, Offset 35174.
@@ -82,17 +82,18 @@ But to me, it felt like I'd been in there for over six days,
 [sha:2bba772b67c8908c2b0c7129f818c93247d6f70e]{
 -- Page 666, Offset 35180.
 -- 「あっと、そっか。ただの人間じゃなかったんだ。
-"Ah, of course. I forgot you're not just a lowly human anymore.
+"Oh, but of course——you're %{i}not%{/i} just a lowly human anymore.
 }
 [sha:78a5689ba3502c0e32e9aab945d6474b0b0a3b3e]{
 -- Page 666, Offset 35181.
 -- 今じゃ志貴クンは半分吸血鬼、死ぬような目にあっても生き延びるんだっけ。
-You're half-vampire now, so it stands to reason that you'd be able to survive an experience akin to death.
+You're half-vampire now, so I guess what would ordinarily kill you no longer does?
 }
 [sha:34addebbe24d3d749b3b1f1d545bf097a6cf0cac]{
 -- Page 666, Offset 35182.
 -- ―――ほんと、生き汚いにも程があるわ。ロアの精神ごと“夢の中で”殺せると思ったのに」
-―――Ugh, you really are such a disgusting creature. And here I thought I'd be able to kill Roa's mind from within the dream."
+―――Ugh, you persistent little cockroach.
+ And here I thought I'd be able to kill both you and Roa in the dream."
 }
 [sha:e461f3ff77fa3862b6aeda1ff2535eb89a629f5b]{
 -- Page 667, Offset 35183.
@@ -104,9 +105,9 @@ The person dwelling in the corner of my mind issues a retort to the voice in the
 -- ああ、まったくだ。<本|・><物|・>の『薔薇の魔眼』ならソレも可能だっただろう。付け焼き刃ではこの程度の嫌がらせでしかない。
 // Roa thoughts, obviously
 %{i}
-You're right, of course.
- Had you possessed the %{/i}real%{i} Mystic Eyes of Roses, I'm sure you'd have had a chance.
- However, those cheap knock-offs of yours will only serve to irritate me.
+Yes, unquestionably.
+ Had you possessed the %{/i}real%{i} Mystic Eyes of Roses, then you might have succeeded at that.
+ However, this mere facsimile could do no more than irritate me.
 %{/i}
 }
 [sha:92aa1455ddefd1772ea7256b5d819c259e7106c1]{
@@ -118,23 +119,23 @@ You're right, of course.
 [sha:343ebee34f5696bb6f38f75b3e2a64227b4edf24]{
 -- Page 668, Offset 35186.
 -- そうよね、もう一度あの出来事を体験させてあげたんですもの。
-Not that I'm surprised.
- I made her live through what she did all over again, after all.
+And why would she? I let her live through what she did all over again, after all.
 }
 [sha:5121b785acd02d92cdf5962d1b8ff5dcf59df927]{
 -- Page 668, Offset 35187.
 -- ロアに乗っ取られて心が死んで、真祖に殺されて体も死んだ。ひとりひとりの死に様も教えてあげた。今ごろは記憶の中でひとりぼっち。二度と目覚めないのではないかしら？」
 // Assuming Ciel was doing the 教えてあげる here?
 // ひとりひとり should match what was used in 13_5B
-Her mind died when Roa took over, and her body died when the True Ancestor killed her.
- She herself killed people in all sorts of new and exciting ways, one after another.
- She's all alone with those memories right now.
- I don't think she'll ever wake up again, do you?"
+How her mind died when Roa took over.
+ How her body died when the True Ancestor killed her.
+ How she killed all those people, one after another.
+ She's all alone with her memories right about now.
+ Why, who knows——she may never wake up ever again."
 }
 [sha:9833d9612a4553630e91553f703ea054af43964b]{
 -- Page 669, Offset 35188.
 -- 「シエル先輩……！」
-"Ciel-senpai...!"
+"Ciel-senpai!"
 }
 [sha:b037535410f1c83f7648e7588d7c5c8a305acaf3]{
 -- Page 669, Offset 35189.
@@ -157,23 +158,23 @@ I call her name,
 [sha:de6bb856f923e6de842f55af27b4e11a8ee1f4e7]{
 -- Page 670, Offset 35192.
 -- 「無駄よ。わたしの魔眼から自力で抜け出したのはアナタだけ。
-"It's useless. You're the only one who was able to break out of my Mystic Eyes.
+"Not gonna work. You're the only one who was able to break out of my Mystic Eyes.
 }
 [sha:ff29d38f8ca3148a6de9e243d49cd3be002d36df]{
 -- Page 670, Offset 35193.
 -- そいつはもう目覚めないわ。だって心が死んでいるもの！
-She won't wake up ever again. After all, her mind is completely dead!
+She won't wake up ever again. I mean, her mind %{i}is%{/i} dead, you know!
 }
 [sha:f8e9c7373b5d6dc654de0714bcb0f2ab7f301f3c]{
 -- Page 670, Offset 35194.
 -- 見せつけられた罪に耐えきれず、自分から覚醒を拒否した大罪人。卑怯で下劣な肉人形なんだから！」
-She's such a profligate sinner that she can't bear the weight of her own sins, and won't even let herself wake up!
- In the end, she's nothing more than a cowardly and vile meat puppet!"
+She's so unable to face the mountain of sins she's committed that she won't even %{i}let%{/i} herself wake up.
+ A cowardly, despicable, lifelike little doll, that's all she is!
 }
 [sha:96457ae90661b461bb3b612270a37f08f01fc2d3]{
 -- Page 671, Offset 35195.
 -- 「先輩、シエル先輩……！」
-"Senpai, Ciel-senpai...!"
+"Senpai, Ciel-senpai!"
 }
 [sha:596480e4e518ca8bd3595bdadd9e5e3545455f17]{
 -- Page 671, Offset 35196.
@@ -204,20 +205,19 @@ Whenever she hears her own name,
 [sha:42cb57ddad86a05a52752e216140a8f9c8a84941]{
 -- Page 672, Offset 35201. Mods: @k, @e.
 -- 「諦めの悪いひとね。
-"You just don't know when to quit, do you?
+"You stubborn little thing, you.
 }
 [sha:05c43e81f58b2bc610a4ad90e59d6f25341c89d4]{
 -- Page 672, Offset 35202. Glued. Mods: @x.
 -- ああ、生きて出てこれたのも、その往生際の悪さがあったから？
- Ah, but maybe it's that same stubbornness of yours that helped you survive my Mystic Eyes?
+ Ah, but maybe it's that same stubbornness which helped you survive my Mystic Eyes?
 }
 [sha:519ff7d9610ddb7e0d43bd32e1bc88ea1881a35e]{
 -- Page 672, Offset 35203.
 -- でも無駄な努力よ。どうあってもアナタは助からない。命乞いをきく耳もないし、逃がすのなんて絶対にない。
 It still won't save you, though.
  No matter what happens, your fate is sealed.
- I won't let you off the hook even if you beg for mercy,
- and you don't stand a snowball's chance in hell of escaping.
+ Beg for mercy all you want, I'm %{i}never%{/i} letting you out of here alive.
 }
 [sha:1d01ecb52a490995bf968c8005dcf061e4cd64c4]{
 -- Page 672, Offset 35204.
@@ -228,12 +228,12 @@ You're going to die right here,
 [sha:774df2bb727afb9b7cb9a725f93aadcbf4286f78]{
 -- Page 673, Offset 35205.
 -- 「あ。でもその前に、せっかくだから聞いておこっと。
-"Ah. But before we begin, there's something I want to ask you.
+"Ah, but before we begin, I may as well ask.
 }
 [sha:4a779d45089e18efddaedc1f16bede9a620ed32e]{
 -- Page 673, Offset 35206.
 -- これって<希|レ><少|ア>かつ一度きりの美味しい機会だし」
-I mean, this is the sort of delectable opportunity you only get once in a lifetime, after all."
+I mean, this kind of delectable opportunity comes only once a lifetime.
 }
 [sha:8efd6f283e63555874a67c6ce881f304f077630b]{
 -- Page 674, Offset 35207.
@@ -249,11 +249,8 @@ I mean, this is the sort of delectable opportunity you only get once in a lifeti
 [sha:cadc7244bb26014f51ab33caaf471443b1420989]{
 -- Page 674, Offset 35208.
 -- っていうか、そいつがどのくらい最悪でわたしがどのくらい正しいか分かってくれた？　心の底から謝って、二人仲良くわたしに殺されたくなったかしら……！」
-More importantly,
- did you realize how deplorable she truly is?
- Did you realize that I've been in the right all this time?
- Did you finally decide it's time to beg for forgiveness,
- and let me kill the two of you right here and now?"
+Or like, did you realize how awful she truly is, and how in the right I am?
+ Did it make you feel like apologizing to me, and letting me kill the both of you right here?!"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 675, Offset 35209.
