@@ -266,37 +266,46 @@ I fight back the urge to argue.
 [sha:ee70318d044bb045c8dae6578febc5dc4410044f]{
 -- Page 104, Offset 38636.
 -- ……先輩の意見は正しい。先ほど流れてきたアイツのイメージを思い返す。
-Senpai is right. I think back on the flowing image of her from before.
+// Merge of 37789/37790 from normal route
+What Senpai said was correct...
+ I think back on the image of Arcueid I'd seen a little while ago.
 }
 [sha:3f8fcd7202b6659ea407f16f27f3bd67961a6607]{
 -- Page 104, Offset 38637.
 -- ……アレはもう俺を殺す事しか考えられない生き物だ。
-...She's a creature that can only think about killing me.
+// Same as 37791 save for a comma
+// LintConsistency:37791
+At this point, killing me is the only thing on her mind...
 }
 [sha:05d0f5c35b543975e664b51421fe91ee9202d12e]{
 -- Page 104, Offset 38638.
 -- 話し合いの余地は、あの公園でとっくに使い果たしている。
-Any room for discussion was tossed away long ago in that park.
+// Final る is a た in normal ver
+// LintConsistency:37792
+Any chance we had of talking things out passed long ago in the park.
 }
 [sha:2484eada0bda2ccac1486b69f538e0626bff24fa]{
 -- Page 105, Offset 38639.
 -- そして事態はもう俺だけの問題じゃない。
-And now this isn't a problem that affects only myself.
+This isn't just my problem anymore, either.
 }
 [sha:2569fc0acc1a87aec23774a9024cdb85c986ca7c]{
 -- Page 105, Offset 38640.
 -- この街が消えるか戻るかの瀬戸際にまでなっている。
-It's now become a critical matter that will decide the fate of this city.
+The fate of the entire city now hangs in the balance.
 }
 [sha:0313277b64ffd514d47b47dfd4bd8ef3e127ba33]{
 -- Page 106, Offset 38641.
 -- アイツは俺に殺された事でああなった。
-She turned out like that because I killed her.
+She flew off the handle like that because I killed her.
 }
 [sha:b295f0d59a252fc7f88d12285b4ebb8710d51bc9]{
 -- Page 106, Offset 38642.
 -- なら……考えたくもない選択だけど、俺さえアイツに殺されれば、少なくともシエル先輩とこの街は―――
-In that case... Although it's a decision that shouldn't warrant even a thought, if I were to be killed by her, then at the very least, Ciel-senpai and this city will―――
+In which case...
+ I don't really enjoy the prospect,
+ but if she kills me,
+ then at least Ciel-senpai and the city will―――
 }
 [sha:481906cc852254ea2c1a2aa40d21475fc8001c98]{
 -- Page 107, Offset 38643.
@@ -306,72 +315,93 @@ In that case... Although it's a decision that shouldn't warrant even a thought, 
 [sha:994931e2cffd0967d764259d156816bd5c9f2531]{
 -- Page 107, Offset 38644.
 -- 「ほあっ!?」
-"Hwah?!"
+// Is that the 教えて！シエル先輩 SFX?
+"%{i}Hwah%{/i}?!"
 }
 [sha:4a0b1a21eedc53af89d8096bdebec8d9ef69f1c9]{
 -- Page 107, Offset 38645.
 -- いま、右の肩胛骨を絶妙な力加減で叩かれた！　ツボを押されたみたいでちょっと気持ちいい。
-Just now, she hit me using her right shoulder blade with the perfect amount of force! It bounced off me with a boing that it honestly felt kind of good.
+She just bopped me on the right shoulder with almost divine finesse!
+ I actually feel a lot better; it's like she hit a pressure point or something.
 }
 [sha:36bde453a451a7b36263ba62ce5a7aaf702589f0]{
 -- Page 108, Offset 38646.
 -- 「おかしな事は考えないように。真祖がああなったのは自業自得ですし、貴方に責任はありません」
-"Please refrain from having strange thoughts. That True Ancestor only turned out like that out of her own doing, and none of it is your responsibility."
+// I mean he do a _little_
+"Don't even think about it.
+ It's her own fault that she has ended up like this.
+ You bear no responsibility for all this."
 }
 [sha:57d1abcc1194e04b031b1824f9f16b9ed93a40fa]{
 -- Page 109, Offset 38647.
 -- 「……彼女はいずれ吸血衝動に負ける事が確定していた。それが何年か早まって、たまたまこの街で起きただけの話です。
-"...It was only a matter of time before she gave in to her vampiric impulses. It just so happens that it occured right here in this city a few years early.
+"It was always only a matter of time before she gave in to her vampiric urges.
+ We simply got unlucky that it happened a few years earlier than expected, and in this city.
 }
 [sha:d6367ab80336c0cdfe14abcb304bca3fedaa1bcc]{
 -- Page 109, Offset 38648.
 -- アレは悪魔の見えざる<賽子|ダイス>のようなもの。<人|・><間|・>であるわたしたちは巻きこまれた後、最善を尽くすしかないんです」
-That thing is like an invisible dice of the devil. Once humans like us are caught up in it, we have no choice but to fight to the best of our ability."
+// Assuming the idea here is that each encounter with her is a roll of the dice, and snake eyes = 吸血衝動に負ける
+It was always up to the roll of the devil's invisible dice.
+ Any humans like us that have gotten involved have no choice for all they're worth."
 }
 [sha:1c3b3319c60b0bd742f87e59ceb288a62f7c9061]{
 -- Page 110, Offset 38649.
 -- 言って、先輩は東の空を睨み付けた。
-Saying that, Senpai glares at the skies to the east.
+So saying, Senpai stares off into the eastern sky.
 }
 [sha:10415b65b9f6d10b9c09278a18c468f3b8b46c5d]{
 -- Page 110, Offset 38650.
 -- 「……でも、やっぱりこうなる運命だったのかも、ですね。
-"...But I guess you could call this a part of fate.
+"Still... I suppose that you could say this is fate after all.
 }
 [sha:57b44fcff4f5cbf4f1b7770a8be620016d7965cd]{
 -- Page 110, Offset 38651.
 -- 遠野くんを守るためには、彼女と決着をつけなくちゃいけなかった」
-In order to protect you, there was no way around a dispute against her."
+// Basically offset 37797.
+I would have had to deal with her sooner or later in order to protect you anyway."
 }
 [sha:cfc4a322cef6724facb9d7f96c9336ee9aa423f2]{
 -- Page 111, Offset 38652.
 -- 「彼女が活動していると、その下僕であるロアの意思も活性化するんです。遠野くんの中のロアを抑えるには、まず彼女を眠らせるか、追い返す必要があった。
-"As long as she's active, the will of her servant, Roa, will also be invigorated. If we want to control Roa inside of you, we first have to put her to sleep or drive her away.
+// Combined 37801/37802.
+"Whenever she is awake and active,
+ the will of her underling, Roa,
+ also becomes invigorated.
+ In order to suppress the Roa inside of you,
+ we must first either put her to sleep or drive her away.
 }
 [sha:23db914a9dd15de1eedc12b85fa56ee06095cc4d]{
 -- Page 111, Offset 38653.
 -- ですから、ここで彼女を倒すのは一石二鳥です」
-That's why taking her down here would be killing two birds with one stone."
+// Combined 37803/37804.
+For that reason,
+ taking her down here would be killing two birds with one stone."
 }
 [sha:56d8dca3cb50afcb1d0694417ee985d72c44d399]{
 -- Page 111, Offset 38654.
 -- 先輩は俺の腕を引いて校舎へと走り出した。
-Senpai pulls my arm and begins running to the school building.
+// Same bones as 37796.
+Senpai grabs my arm and starts running toward the school building.
 }
 [sha:240eac0d8ebf2ebe3110b63186c247034d74c508]{
 -- Page 112, Offset 38655.
 -- 「遠野くんは校舎に待機していてください。彼女と戦うのはわたしの役割ですから」
-"You should wait here in this building. It's my job to fight against her."
+"Tohno-kun, please stay here out of the way.
+ It is my duty to fight her."
 }
 [sha:9529d71b1e0a8b96aec9c1850c05290fc3e1dc0f]{
 -- Page 112, Offset 38656.
 -- 「ま、待ってください……！　先輩こそここで隠れていてください！　アイツとは、俺がケリをつけますから！」
-"H-Hold on a minute...! You should be the one hiding here! I'll be the one to settle things with her!"
+"W-Wait, what?!
+ No, %{i}you%{/i} go hide somewhere.
+ %{i}I'll%{/i} go and settle things with her!"
 }
 [sha:860d586ccf2bc153a78daaf1caf66794d8220904]{
 -- Page 113, Offset 38657.
 -- 「……遠野くん。わたし、怒りますよ」
-"...Tohno-kun. You're making me angry."
+// LintConsistency:37817
+"Tohno-kun. You're making me angry."
 }
 [sha:acf6130278ea1ede15a2693ab50b20ef31fefc31]{
 -- Page 113, Offset 38658.
@@ -430,10 +460,11 @@ When it comes to slaying vampires, there's no one that comes even close."
 // Was gonna just translate this as 'puffs out her chest confidently' but the graphics do narrow in on the hand, so oh well
 Senpai confidently raises her clenched fist in the air.
 }
-[sha:eaae8f23f88538651f9a6caa116071dca12e1245]{
+[offset:38668]{
 -- Page 117, Offset 38668.
 -- ……けど。
-...But still.
+// LintConsistency:37829
+But even as she does...
 }
 [sha:f6d2b419fbd4e2178acdde557730528c3e8e3a43]{
 -- Page 117, Offset 38669.
