@@ -1,0 +1,16 @@
+diff --git a/allscr/retimed/allscr.mrg_0466.txt b/allscr/retimed/allscr.mrg_0466.txt
+--- allscr.mrg_0466.txt
++++ allscr.mrg_0466.txt
+@@ -169,8 +169,11 @@ _ZMa8b07($038599);
+ _WKAD(F823,1);
+ _WKST(C847,eq,0);
+ _WKST(C859,eq,0);
+-_WNTY(0);
++_WNTY(1);
+ _ZMa8b08($038600);
++_WKST(F823,eq,0);
++_WNTY(0);
++_PGST(89);
+ _WKAD(F823,1);
+ _WKST(C847,eq,0);
+ _WKST(C859,eq,0);
