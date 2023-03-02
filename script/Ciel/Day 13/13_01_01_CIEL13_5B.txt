@@ -832,7 +832,7 @@ Or by being beaten and shot by a neighbor after being mistaken for a corpse.
 [sha:d4a854e82e61863f767214639c14e84476f32eb9]{
 -- Page 616, Offset 35040.
 -- 壁に挟まれてジュースになったりするよりは上等な末路だと思った。だって夢見るような死に様で、わたしも殺されるのならこの方法がいいと思ったぐらい。
-Or by being squeezed into a juice by the moving walls.
+Or by being squeezed into juice by the moving walls.
  At least, if I was going to be killed anyway, I'd rather die like that; like I'm dreaming.
 }
 [sha:58c40d9748b5b1789779013920995bc4f2a89db6]{
@@ -889,7 +889,7 @@ Even without looking closely I could tell they were still human,
 -- Page 619, Offset 35050.
 -- あきらかに動物の声ではない、機械のような昆虫の声が“人間だったモノたち”に愛を説く。
 It didn't sound like the voice of a living creature at all.
- The inspect spoke like a robot, preaching its love to the beings who were once human.
+ The insect spoke like a robot, preaching its love to the beings who were once human.
 }
 [sha:25328ae7ef9760d5a47aa614a74ad04e0c7f523a]{
 -- Page 620, Offset 35051.
@@ -919,8 +919,7 @@ Its eight enormously long legs shimmered as it crawled.
 [sha:9835b09e7edaec0d7ad3030fd4885a894b33f758]{
 -- Page 621, Offset 35056.
 -- ピアノの鍵盤を叩く指のように、めまぐるしくも美しい<舞曲|タランテラ>。
-They were like fingers working the keys of a piano,
- performing a beautiful yet hectic tarantella.
+They were like fingers working the keys of a piano――a beautiful yet hectic tarantella.
 }
 [sha:e15665bc01d68422b76d43cc9412bbea881f0a3e]{
 -- Page 622, Offset 35057.
@@ -1179,8 +1178,8 @@ Screaming;
  let's all work together now, together now, and wear down this wall, this tall, tall wall;
  %{i}scratch%{/i}, %{i}scratch%{/i}, %{i}scratch%{/i};
  %{i}rip%{/i}, %{i}rip%{/i}, %{i}rip%{/i};
- even if your nails fall off:
- %{i}squish%{/i}, %{i}squish%{/i}, %{i}squish%{/i};
+ even if your nails fall off;
+ %{i}squish%{/i}, %{i}squish%{/i}, %{i}squish%{/i}.
 }
 [sha:8215a4b0b6ba4b54ac5bd5725d27960820ea3873]{
 -- Page 636, Offset 35102.
@@ -1260,6 +1259,8 @@ One after another, we were all painstakingly, yet indifferently, ■■■ by he
 -- Page 642, Offset 35113.
 -- ……いちじかんにひとりぐらいのペースだったから、たぶん、みっかぐらいたったあとのはなしです。
 // i love hiragana!
+// All Noel sentences from here until she starts speaking like a real person again
+// rendered in all lowercase, no punctuation.
 shed been going at a pace of around one person an hour
  so by this point it must have been around three days since she began
 }
@@ -1448,6 +1449,7 @@ But I had to say    those words were a bit unnecessary.
 [sha:e452b2d2829c423b573e97af2ce7b2c6396dd168]{
 -- Page 654, Offset 35146.
 -- ……悲鳴をあげながら食べられている。
+// As of this page, Noel is back in kanji-land
 He screamed as he was eaten alive...
 }
 [sha:768481d207bbafa16d803bc1d99c49a9bde5d7ea]{
@@ -1460,7 +1462,6 @@ In the end...
 [sha:6b9fd7984e4a42a1a5faadb45e2e92a6d4cfef4b]{
 -- Page 654, Offset 35148.
 -- 先に声をあげていた彼が、よってたかって食べられました。
-// Back in kanji land thank god
 Since he was the first to call out, he was the one to be swarmed and devoured.
 }
 [sha:760ee5ac8f005416153420080c57de8beafa6f71]{
@@ -1504,7 +1505,8 @@ I understood everything.
 [sha:95503091f0f0a3dc7051f814ee853c906b8755e2]{
 -- Page 657, Offset 35156.
 -- 壊れ、幼かった私でさえ進化の目を開かされる。
-Even a young and broken girl like me understood the concept of evolution.
+// lint-off:LintDupedWord
+Even a young and broken girl like me had had her eyes opened to the %{i}evolution%{/i}.
 }
 [sha:15c19624c220eb9ba4da30928da3170ddb642e16]{
 -- Page 657, Offset 35157.
