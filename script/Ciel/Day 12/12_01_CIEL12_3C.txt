@@ -121,7 +121,7 @@ My vision is dyed a deep red.
 -- 「志貴さん……!?」
 // Kohaku flag.
 // _IF__(F069,eq,0,LV00900); -> _GOTO(LBL_013); (Page 10013)
-"Shiki-san...?!"
+"Shiki-san?!"
 }
 [sha:3f6490c8aad05fe5edf97c6fc1e4ec20a52004b1]{
 -- Page 141, Offset 31231.
