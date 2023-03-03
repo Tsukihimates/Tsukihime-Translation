@@ -97,7 +97,7 @@ A signal that is not my own flashes across the backs of my eye sockets.
 -- ……くそ。外だけでも手に負えないってのに、いよいよ中までおかしくなってきやがった。
 Shit...
  I could barely handle everything happening on the outside,
- and now I'm starting to go crazy on the inside too.
+ and now I'm starting to go crazy on the inside too?
 }
 [sha:2b80c0bb5380c336266ab960b5608022d17fe29b]{
 -- Page 91, Offset 38607.
@@ -132,7 +132,7 @@ Senpai lets go of my hand and turns to look back at the city.
 -- Page 94, Offset 38612.
 -- 「この土地は彼女の望む環境になる為に、いったん更地に戻されたようなものです。残ったのは街の残像だけ。現れている城壁は彼女が作りあげているものでしょう。
 "It's as if this land has been returned to a blank slate in order to create the environment she desires.
- This afterimage is all the remains of the city.
+ This afterimage is all that remains of the city.
  The castle walls that appeared are presumably of her own making.
 }
 [sha:de7a7f0e18ba845199cc8a99c5f90818a7d5f226]{
@@ -189,7 +189,7 @@ But one thing is clear to me――we can't just let her carry on like this.
 -- Page 98, Offset 38622.
 -- 「はい。あの城が完成する前に真祖を排除できなければ、この街は消え去ります」
 // Put a quarter in the mind reading jar
-"Correct. If we don't eliminate that True Ancestor before she completes that castle, then this city will disappear."
+"Indeed. If we don't eliminate that True Ancestor before she completes that castle, then this city will disappear."
 }
 [sha:8f0c88f0740504e3f4fbb6f45609cf4baec5320c]{
 -- Page 98, Offset 38623.
@@ -330,7 +330,7 @@ She just bopped me on the right shoulder with almost divine finesse!
 // I mean he do a _little_
 "Don't even think about it.
  It's her own fault that she has ended up like this.
- You bear no responsibility for all this."
+ You bear no responsibility for what happened."
 }
 [sha:57d1abcc1194e04b031b1824f9f16b9ed93a40fa]{
 -- Page 109, Offset 38647.
@@ -343,7 +343,7 @@ She just bopped me on the right shoulder with almost divine finesse!
 -- アレは悪魔の見えざる<賽子|ダイス>のようなもの。<人|・><間|・>であるわたしたちは巻きこまれた後、最善を尽くすしかないんです」
 // Assuming the idea here is that each encounter with her is a roll of the dice, and snake eyes = 吸血衝動に負ける
 It was always up to the roll of the devil's invisible dice.
- Any humans like us that have gotten involved have no choice for all they're worth."
+ Any humans like us that have gotten involved have no choice but to fight for all they're worth."
 }
 [sha:1c3b3319c60b0bd742f87e59ceb288a62f7c9061]{
 -- Page 110, Offset 38649.
@@ -353,7 +353,7 @@ So saying, Senpai stares off into the eastern sky.
 [sha:10415b65b9f6d10b9c09278a18c468f3b8b46c5d]{
 -- Page 110, Offset 38650.
 -- 「……でも、やっぱりこうなる運命だったのかも、ですね。
-"Still... I suppose that you could say this is fate after all.
+"Still... I suppose you could say this is fate after all.
 }
 [sha:57b44fcff4f5cbf4f1b7770a8be620016d7965cd]{
 -- Page 110, Offset 38651.
@@ -451,7 +451,7 @@ So please, I'm begging you――don't get yourself killed in a place like this."
 [sha:47ab6a803f5a4059afdfeb69039e35b34bc81ed5]{
 -- Page 116, Offset 38666. Glued. Mods: @x.
 -- こと吸血鬼退治なら、わたしの右にでる者はいないのです」
-When it comes to slaying vampires, there's no one that comes even close."
+ When it comes to slaying vampires, there's no one that comes even close."
 }
 [sha:e535647a8b70ccf5de4c305a08445d91e5b94ba9]{
 -- Page 117, Offset 38667.
@@ -479,17 +479,18 @@ Is she afraid?
 [sha:234ea7bdaef2bd5350470e1fc7384b2bf32b3025]{
 -- Page 118, Offset 38671.
 -- 今まで何十もの吸血鬼を退治してきた先輩でも。
-Even for someone who slayed dozens of vampires up until now.
+// Echo 38665
+Even as someone who's killed who knows how many vampires?
 }
 [sha:5dbbaf588b2d8d08194e9666df48f5b169c60b1d]{
 -- Page 118, Offset 38672.
 -- いや、退治してきた先輩だからこそ、今のアルクェイドがどれほど危険な相手か理解してしまえるのか。
-No, it's because she's slain so much that she's able to recognize how much of a threat Arcueid really is.
+No――it's %{i}because%{/i} she's slain so many vampires that she's able to recognize just how much of a threat Arcueid really is.
 }
 [sha:8e41facfd4b53b4a87e84733f3b4b2b6e903c88c]{
 -- Page 119, Offset 38673.
 -- ……だめだ。俺はそれでも―――。
-...I can't. Even with everything she says, I―――
+I can't do it... Despite what she says―――
 }
 [sha:39ea55e6a6562457767cbd5485f75f1f729a9094]{
 -- Page 119, Offset 38674.
@@ -558,7 +559,9 @@ A procedure capable of killing Roa without losing you... doesn't exist."
 [sha:77765cb7ceb51994d648210122b1802013679243]{
 -- Page 124, Offset 38686.
 -- それは、まあ、仕方ない、よな。そんな、何事も都合良く片付く筈はないの、だし。
-Well, that... can't be helped, I guess. It's not like this could be taken care of so easily.
+// Merged version of 37845 + 6
+That's... well... I guess that's just the way it is.
+ I had a feeling this wouldn't be over so easily.
 }
 [sha:6086b3946f8c17fb7ad40e9614e420cadbac93f0]{
 -- Page 125, Offset 38687.
@@ -578,7 +581,12 @@ Don't cry, you don't have anything to apologize for."
 [sha:288f809b7f5d94272dd7d0339b1816580dce38c7]{
 -- Page 126, Offset 38689.
 -- 「いいえ……！　わたし、わたしがもっとしっかりしていれば、ロアを追う事ばかり考えず、もっと他の道を探していれば、違う可能性だってあった筈なんです……！」
-"No...! If... if I had been better, I wouldn't have only thought about driving out Roa, and if I had searched for other paths, I could have found other ways...!"
+// LintConsistency:37849
+"But I do!
+ If I... if I had only been more thorough,
+ if I hadn't just chased after Roa single-mindedly,
+ if I'd searched out other avenues,
+ I probably could have found a way!"
 }
 [sha:c01ec219c25a66e00edaaae41849ad4a9d8abcac]{
 -- Page 127, Offset 38690.
@@ -605,7 +613,8 @@ I don't want to see Senpai cry.
 [sha:4199c12981a44beb59b4c196b56e78b650973d45]{
 -- Page 128, Offset 38694.
 -- 見たくないから、見えないように彼女を抱きしめた。
-I don't want to see it, so I embrace her to avoid seeing it.
+// LintConsistency:37855
+I don't want to see her cry, so instead, I embrace her.
 }
 [sha:3557be241af62425963c96651cc40d409fb37cef]{
 -- Page 129, Offset 38695.
@@ -652,7 +661,7 @@ You aren't being selfish at all, Senpai.
 [sha:2f1e64423112a9d077865ecac72c5bbe1b101573]{
 -- Page 132, Offset 38702.
 -- 先輩と向き合えて冷静になって、さっきのアルクェイドの指摘を思い出せた。
-Composing myself as I come face to face with Senpai, I remember back to what Arcueid pointed out.
+As I look at Senpai's face, I compose myself and think back on the glue Arcueid gave me.
 }
 [sha:5f49317f728d94bee6fd76708f2b677724228bad]{
 -- Page 132, Offset 38703.
@@ -714,22 +723,26 @@ Let's just leave it at a hug for now instead."
 [sha:fe1c51f4c74c83a9db010f0e5a6498f2b7a38bc7]{
 -- Page 136, Offset 38713.
 -- 「はい、信じています。
-"Right, I'll count on that.
+"Of course, I have no doubt.
 }
 [sha:0108c8f83e0ab10268b01232a504680700cc94ed]{
 -- Page 136, Offset 38714.
 -- あ、でも、その必要はないですよ。ほんとに今日は切り札があるんです。以前のようにはいきません。
-Ah, but that won't be necessary. Because today I have a trump card up my sleeve. It won't be the same as last time.
+Ah, you really won't need to, though.
+ I really do have an ace up my sleeve today.
+ I won't let this be a repeat of last time.
 }
 [sha:3acbc3af9e255000fc7afc4a3cbcdc85fdca7051]{
 -- Page 136, Offset 38715.
 -- ―――希望でも強がりでもなく、アルクェイドは倒しきります。だから、問題はその後です」
-―――I'm not bluffing or saying this out of hope. I'm fully intending on taking down Arcueid. That's why we need to think about what happens afterward."
+This isn't a bluff or wishful thinking――I fully intend to take Arcueid down.
+ The real problem is what happens after I do."
 }
 [sha:5cb526c997f383f4972bbeaaddf6c1a5a40d7db8]{
 -- Page 137, Offset 38716.
 -- 「アルクェイドが消えれば、ロアは全力で貴方の体を支配しにくる。……その時、わたしには何もできないけど、お願いします。わたしが戻ってくるまで、どうか遠野くんのままでいてください」
-"When Arcueid disappears, Roa will dominate your body in full force... Once that happens, although I can't do anything, I'm begging you. Find a way to keep hold of yourself until I return."
+"Once Arcueid is gone, Roa will use all his strength to try and take over your body...
+ When that happens, there won't be anything I can do, but... please――find a way to stay yourself until I return."
 }
 [sha:9a4f05181e13f0759018b35b80ecdbeb6eb8314c]{
 -- Page 138, Offset 38717.
@@ -739,17 +752,18 @@ I see...
 [sha:4c2426db6b327a1be80ab73ee8c6a522ba716a14]{
 -- Page 138, Offset 38718.
 -- 先輩にとってアルクェイドは強敵であっても恐怖ではないんだ。この人にとって一番怖いものは、俺がこのまま消える事だけらしい。
-Arcueid may be a powerful enemy to Senpai, but she's not afraid of her. The thing she's most afraid of is the fact I may disappear like this.
+Arcueid may be a formidable opponent, but Senpai isn't afraid of her.
+ It appears she's actually afraid of the thought that I might disappear.
 }
 [sha:fac78a6c0eaa944efb6666d18032db08cc457b1f]{
 -- Page 139, Offset 38719.
 -- 「凄いな、先輩は。
-"You're amazing, Senpai.
+"Color me impressed, Senpai.
 }
 [sha:aa0fc5e78c02178d788ebd40694489130c5321ab]{
 -- Page 139, Offset 38720.
 -- この状況で勝利宣言とか、どんだけ自信があるんですか」
-When did you get so confident that you could declare victory in this situation?"
+You must be seriously confident if you're already declaring victory."
 }
 [sha:27c1a5753a145f09dc07bc30171d8f33d81a9ca8]{
 -- Page 140, Offset 38721.
@@ -759,22 +773,25 @@ When did you get so confident that you could declare victory in this situation?"
 [sha:992d10ee8e0fcc5ad2d3e4cc59f9772c7220fc3c]{
 -- Page 140, Offset 38722.
 -- 「もちろん。おかげで安心できました。
-"I know. Thanks to that, I'm able to feel at ease.
+"Yeah, I know.
+ I feel a lot safer thanks to you.
 }
 [sha:4700720c09cdfa6b337cc4ad07879f207909c8b6]{
 -- Page 140, Offset 38723.
 -- 大丈夫、ロアには負けないって言ったでしょう。俺が勝てないのは先輩だけです」
-It's okay. I told you that I won't lose to Roa, didn't I? The only one I can't beat is you."
+And don't worry――I told you I wouldn't lose to Roa, didn't I?
+ The only person I can't win against is you."
 }
 [sha:e97cfef119c8bdaf71be234c702c611afe2a5aa4]{
 -- Page 141, Offset 38724.
 -- ありったけの信頼をこめて、笑って送り出す。
-Mustering up all the faith that I have, I pass over a smile.
+I give her a farewell smile laden with all the trust I feel.
 }
 [sha:f2674f2ed5eab02086938dc2faee541d5f955ff6]{
 -- Page 141, Offset 38725.
 -- 先輩は無言で頷いて、階段に向かって走り出して、思い出したように立ち止まった。
-Senpai nods in silence, runs toward the stairs, and stops as if suddenly remembering something.
+Senpai nods silently, starts running off toward the stairs,
+ then suddenly stops as though she's just remembered something.
 }
 [sha:5e801d302798f8ba23e7c9ebb3f03981dbcaa90a]{
 -- Page 142, Offset 38726.
@@ -789,7 +806,10 @@ Senpai nods in silence, runs toward the stairs, and stops as if suddenly remembe
 [sha:2e7a60de43208b1f3873046462c2f8017de2502d]{
 -- Page 143, Offset 38728.
 -- 「はい。……その、明日になったら街に遊びに行きましょう。乾くんと三人で、この前のやり直しをするんです」
-"Yes... Um, we should go out to the city and play tomorrow. Just as we planned with Inui-kun and the two of us."
+// Merged version of 37878/37879/37880
+Yes.
+ Um... once everything is over, we should go enjoy ourselves in the city together.
+ We can invite Inui-kun and do a re-take of the plans we made before."
 }
 [sha:aa133d8fb2bbbc2c3954eb561f6f45b908e5f30b]{
 -- Page 144, Offset 38729.
@@ -831,45 +851,49 @@ Senpai's hand brushes against mine.
 [sha:0aae74c6d51799a9108f36c3804a40b5d53b898d]{
 -- Page 145, Offset 38736.
 -- ぶんぶん、と元気よく振って、離した。
-After a vigorous handshake, we finally part ways.
+After a firm handshake, we pull apart.
 }
 [sha:204f83ab7bde645ecffd26f672c8093079cfaeed]{
 -- Page 146, Offset 38737.
 -- 「遠野くんは校舎から出ないように。
-"Try not to go out of the building this time.
+"Please don't leave the school building.
 }
 [sha:cbd5771269a08ec3b2d2cb0a7d72c0f9649655a6]{
 -- Page 146, Offset 38738.
 -- あ、でも危険だと判断したら、校庭か体育館に移動してください」
-Ah, but if you think you're in danger, then please move to either the school yard or the gym."
+Ah, unless you think you're in danger,
+ in which case please evacuate to either the schoolyard or the gym."
 }
 [sha:d1e607bec1aeddf47516bfe02b96d28660a2744f]{
 -- Page 147, Offset 38739.
 -- 青い後ろ姿が階段を駆け上がっていく。
-Her blue figure runs off toward the stairs.
+Her blue figure disappears up the stairs.
 }
 [sha:cced75ff595d48b289febbe8a5430595f9e4904d]{
 -- Page 147, Offset 38740.
 -- 先輩は今度こそ行ってしまった。
-With that, Senpai is gone for good.
+// As opposed to the false start a couple lines up I guess
+She actually went and left this time.
 }
 [sha:ed5d171477f87a3655854ea752c82fc11520d49a]{
 -- Page 148, Offset 38741.
 -- ―――遠く、今はもう変わり果てた市街地から地響きが聞こえてくる。
-―――Far off in the distance, I hear rumblings coming from the urban area that's already completely changed.
+// 地響き seems to be like subterranean/earth related, so rendering as low-pitched
+―――Far off in the distance,
+ I hear a low-pitched rumble emanating from the now unrecognizable city.
 }
 [sha:8c09898a0437f1845cb0ba8578672150173f59a0]{
 -- Page 148, Offset 38742.
 -- それは大気の軋む音、世界の悲鳴だ。
-It is the sound of the creaking atmosphere; the cries of the world.
+It is the sound of the atmosphere creaking――of the world crying out.
 }
 [sha:700131f68cf03c575895aa2ed6505e5a079e4f94]{
 -- Page 148, Offset 38743.
 -- 天変地異そのものと言える白い吸血姫。
-A white vampire princess that is the very definition of a cataclysm.
+The vampire princess in white is the very definition of a cataclysm.
 }
 [sha:95fd45ceac324f6344ae5d34232f1218e04f996b]{
 -- Page 148, Offset 38744.
 -- それを正面から打倒する為、彼女は戦場へ赴いた。
-In order to defeat it head-on, Senpai heads toward the battlefield.
+In order to face and defeat her, Senpai rushes headlong toward the battlefield.
 }
