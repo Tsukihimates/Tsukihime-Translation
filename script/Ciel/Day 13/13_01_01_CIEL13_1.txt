@@ -555,6 +555,7 @@ When did I become like this?
 -- Page 28, Offset 33168.
 -- “……本当はとっくの昔に死んでいる、気の狂った殺人鬼なんだから……！”
 // Ok yup here's the rest of 28412.
+// lint-off:LintStartingEllipsis
 '...but the truth is you're nothing more than a long-dead psychotic murderer!'
 }
 [sha:19d85aa5c83562ae42a5fd5fb0b1ca7145782169]{
@@ -694,7 +695,7 @@ That someone is me.
 [sha:402a2ccc928c8f611faabb3a21b807d9ab3e0d24]{
 -- Page 34, Offset 33193.
 -- 「うわあああ――――！！！！！！！」
-"%{i}UWAAAAAH%{/i}――――!!!!!!"
+"%{i}UWAAAAAH%{/i}―――!!!"
 }
 [sha:a9450f48b98cee8230915d748932758269cdd089]{
 -- Page 34, Offset 33194.
