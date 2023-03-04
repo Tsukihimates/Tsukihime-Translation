@@ -6,8 +6,7 @@
 [sha:cc48f477b2c8662d6e5e68e1a0b6e334a1703092]{
 -- Page 10003, Offset 35445.
 -- 死者たちに囲まれている以上、普通の人間なら生きては出られない。
-If a normal human is surrounded by the Dead like this,
- they don't stand a chance of escaping with their life.
+Any normal person surrounded by the Dead like this wouldn't stand a chance of escaping with their life.
 }
 [sha:fe2562d0d0d0c119faac5eadd7ba3fa8f8ea1d63]{
 -- Page 10003, Offset 35446.
@@ -17,13 +16,13 @@ If I went up against them alone, then they would simply grab my limbs and devour
 [sha:74577f212f15db20fd327ab784f3134150dd1f24]{
 -- Page 68, Offset 35447.
 -- だが俺はもう普通じゃない。
-Except, I'm not a normal human anymore.
+Except, I'm not a normal anymore.
 }
 [sha:5dd52cc637ec1423356604bb520755527c05967c]{
 -- Page 68, Offset 35448.
 -- 血を口にしていないだけで、半分以上おかしな<体|コト>に成っている。
 Even though I haven't drunk any blood yet,
- my body is already halfway through transforming into something different.
+ my body is already halfway through transforming into something else altogether.
 }
 [sha:f6befbfdb96303d329d37f4a97fbc0d37e46b15b]{
 -- Page 69, Offset 35449.
@@ -76,18 +75,18 @@ I steal a glance over my shoulder.
 -- Page 72, Offset 35458.
 -- 赤い吸血鬼は満足げに笑っていた。
 // That is not the colour red! There are four lights!
-The vampire in pink is smiling in satisfaction.
+The vampire in fuchsia is smiling in satisfaction.
 }
 [sha:6f72878c991e6f8ffde2eb1d1f3eef6575b68b2f]{
 -- Page 72, Offset 35459.
 -- “そうでなくては面白くない”と、嗜虐心をむき出しにして。
-She isn't even trying to hide her sadistic desires.
- The look on her face all but screams that it wouldn't be any fun if we didn't try and escape.
+Her sadism is on full display,
+ as if she'd been eagerly anticipating this hunt.
 }
 [sha:2ceabcfbae0441854ad01ee1acd16ee6ea664382]{
 -- Page 73, Offset 35460.
 -- 「走るぞ、先輩……！」
-"We're running, Senpai...!"
+"We're running, Senpai!"
 }
 [sha:ca037557cac9b27f6fd59af49541597d1f4c82ba]{
 -- Page 73, Offset 35461.
@@ -95,10 +94,10 @@ She isn't even trying to hide her sadistic desires.
 Adjusting my grip on Senpai,
  I start sprinting across the rubble.
 }
-[sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
+[offset:35462]{
 -- Page 73, Offset 35462.
 -- 「……！」
-"...!"
+"%{i}Rgh%{/i}!"
 }
 [sha:40f1609fffe5d523e16b2e1802069ea392a02ccc]{
 -- Page 73, Offset 35463.
@@ -109,34 +108,45 @@ The second I kick off the ground, a weapon grazes my thigh.
 -- Page 74, Offset 35464.
 -- 「“愉しい狩りの始まりね。ああ―――ほんとう、夢みたい。
 // The most dangerous game: Shiki
-"I can't believe the hunt is finally on.
+// Bellspeak, italics
+"%{i}
+The thrill of the hunt begins!
  Ah... this really is a dream come true.
+%{/i}
 }
 [sha:89438892f51c43c1d86a6a3e9094fef3ab34ef9e]{
 -- Page 74, Offset 35465.
 -- ずっとこうしたかった。ずっとこの時を待ち続けたの！
+%{i}
 I've always longed for this. I've waited so long for this moment!
+%{/i}
 }
 [sha:6b21e6ec5f3c08fca32d4b973564d87b6cd77b9d]{
 -- Page 74, Offset 35466.
 -- 最高、ありがとうって言ってあげる！　期待通りの反応で嬉しいわ、お人好しの人殺しさん！”」
-Oh, it's perfect!
- You've reacted %{i}exactly%{/i} how I predicted you would!
- I can't believe how easy you are to read, Mr. Murderer!"
+%{i}
+Oh, it's perfect, thank you!
+ You've reacted %{/i}exactly%{i} how I predicted you would!
+ I can't believe how easy you are to read, my lovely little murderer!
+%{/i}
+"
 }
 [sha:4768b7be7570ead98510f519a730d39fbb0d2237]{
 -- Page 75, Offset 35467.
 -- 耳元で<鐘|こえ>が響く。
-I hear her voice ringing in my ears, but I also hear... bells?
+Her bell-borne voice rings in my ears.
 }
 [sha:c9affb1177a8ee52e8b638020f3b68293ab8a0ba]{
 -- Page 75, Offset 35468.
 -- ……落盤地帯全体に響く鐘と、俺に向けて放たれた指向性の音波。鐘の音はここの構造を把握する為の<探|ソ><知|ナ><波|ー>だろう。
-// Is her voice the 指向性の音波 here? The chimes are explicitly broad
 // Echolocation very on theme for bat boys
-The entire pit is filled with the ringing of the bells,
- and her voice is another sound wave that's directed straight at me...
- She must be using their echoes as a kind of sonar to map the terrain.
+// Roa talking here, kinda need to add a new intro sentence to set things up
+%{i}
+That phenomenon is a product of two things.
+ The bells ringing throughout the entirety of the pit,
+ together with a directed sound wave aimed squarely at you.
+ She is most likely using the echoes of the bells as a sonar to map the terrain.
+%{/i}
 }
 [sha:c8f57d30861d6adb60d882e0c8ad75831f244c1e]{
 -- Page 75, Offset 35469.
@@ -149,9 +159,7 @@ When Dead Apostles reach Rank VI, they gain their own superpower.
 [sha:132778334f470d2c9b9a3444554a4e6fbd508318]{
 -- Page 76, Offset 35470.
 -- 「知ったことか、馬鹿……！」
-// I guess if he's telling Roa to pack it in, part if not all of the prev page should be Roa voice.
-// Final one seems most factual, so assuming that's him
-"You think I give a shit, dumbass...?!"
+"You think I give a shit, dumbass?!"
 }
 [sha:1fefc465bb24801eec3ab6ca3c4d7a7f9975af3d]{
 -- Page 76, Offset 35471.
@@ -167,7 +175,7 @@ I don't have time to sit around listening to his musings right now.
 [sha:61d3bf119357761ef85f4e9b019d7720e85e95b7]{
 -- Page 77, Offset 35473.
 -- 「はあ……はあ……はあ……！」
-"%{i}Hah%{/i}... %{i}hah%{/i}... %{i}hah%{/i}...!"
+"%{i}Hah%{/i}... %{i}hah%{/i}... %{i}hah%{/i}!"
 }
 [sha:e93efebd992b1326f334530a4dae881c753756f6]{
 -- Page 77, Offset 35474.
@@ -220,7 +228,7 @@ That's right...
 [sha:7fea645be75566c80a858bfc4cdb6f0444e64891]{
 -- Page 79, Offset 35483.
 -- 彼女が復讐をかかげる経緯には何の異論も挟めない。
-I can't blame her for wanting revenge.
+I can't blame her at all for swearing to take revenge.
 }
 [sha:2e6effe39f4cd3de800ab120f115da98844ceca5]{
 -- Page 79, Offset 35484.
@@ -235,7 +243,7 @@ As the sole 'human' survivor of that tragedy, she has every right to take reveng
 [sha:18b18f73ee232f58b53730664e84f87e18600f6e]{
 -- Page 80, Offset 35486.
 -- 「“ほら、急がないとヤキトリ串みたいになっちゃうぞ？
-"Come on, if you don't hurry up you're gonna end up looking like a piece of yakitori, you know?
+"C'mon, hurry up, or you'll end up as yakitori, y'know?
 }
 [sha:7b750d08cbefd89ec7944df22bc4a4f7042585f6]{
 -- Page 80, Offset 35487.
@@ -250,7 +258,7 @@ How about I start with your legs?
 [sha:7b361e9e39b455e41d54274994355fa55e326749]{
 -- Page 81, Offset 35488.
 -- 背後に鉄の雨が降っている。
-Iron spires fall like rain behind me.
+Steel rains down behind me.
 }
 [sha:f158f7f4a9f761ef57d45ca7e5cc2265535ca73f]{
 -- Page 81, Offset 35489.
@@ -284,7 +292,7 @@ That vampire wants to witness me make that choice,
 [sha:2e944ecce09bba1b5fafe7249ea4c59be2847107]{
 -- Page 84, Offset 35494.
 -- 「は、あ……！」
-"%{i}Hah%{/i}, %{i}ah%{/i}...!"
+"%{i}Hah%{/i}, %{i}ah%{/i}!"
 }
 [sha:14869f89b0e564d94f2169a2e9a0ff89d31e402c]{
 -- Page 84, Offset 35495.
@@ -294,7 +302,7 @@ But it doesn't matter. None of that matters right now.
 [sha:3a24e51d945b11ced5f14bd42e21688073b6af1e]{
 -- Page 84, Offset 35496.
 -- 俺の頭の中は渦巻いた怒りでどうかしそうだ。
-There's so much rage swirling around my head that it's threatening to drive me insane.
+There's so much rage swirling around my head that I don't know what I might do.
 }
 [sha:1c9f77d1e57045b32e464a2851a35da5f9c27a45]{
 -- Page 85, Offset 35497.
@@ -315,7 +323,7 @@ I knew nothing about the girl who created that hell,
 [sha:9465d3b8481358d4cd9ed2fbdfb014fdee5f0503]{
 -- Page 86, Offset 35500.
 -- 「くそ……くそ、くそ……！」
-"Shit, shit, shit...!"
+"Shit, shit, shit!"
 }
 [sha:aebdac48064d15d82e7afaa17ac5393ca23ceb65]{
 -- Page 86, Offset 35501.
@@ -335,7 +343,7 @@ I didn't even realize what she meant on the few occasions she did speak about he
 [sha:ecc8effe47618f21b605872e37c1373e122ed108]{
 -- Page 86, Offset 35504.
 -- ロアの転生先になった人生。
-She was still alive after she turned into Roa.
+About the life she'd had after turning into Roa.
 }
 [sha:2e3c720a1cf3f34792bbbeed8fcf00d24249ffc7]{
 -- Page 86, Offset 35505.
@@ -368,14 +376,13 @@ I didn't even stop to think about what that was like for her.
 -- Page 88, Offset 35509.
 -- ふざけてる。なんの悪夢だそれは。
 What a sick fucking joke.
- That's worse than a nightmare.
+ How nightmarish must that have been?
 }
 [sha:b87c60042bc367c4fb9f3d5b41d61777d6811274]{
 -- Page 88, Offset 35510.
 -- 今の俺と同じ、自分の意思が残ったままロアの行為を見続けて、ロアとしてアルクェイドに殺された。
-Just like me, her will remained intact.
- She was forced to watch all the atrocities Roa committed,
- and was killed alongside him by Arcueid.
+Just like me, her will remained intact as she was forced to watch all the atrocities Roa committed,
+ all the way up until she was killed alongside him by Arcueid.
 }
 [sha:be49722dc34e1fda35eb05b471200daf7259213c]{
 -- Page 88, Offset 35511.
@@ -398,11 +405,11 @@ They killed her as many times as she had killed others.
 [sha:9bd0612e3830bd5a9792eb679a7bfbe970cc558b]{
 -- Page 89, Offset 35514.
 -- 生きたまま、人間でありながら不死身の<物|モ><体|ノ>として扱われた。
-Even though she was still alive――even though she was still human――they treated her as nothing more than an immortal specimen.
+Even though she was still alive――even though she was still human――they treated her as nothing more than an undying specimen.
 }
 [sha:b4ab74cd94711e050298f7943588795554cd89bb]{
 -- Page 89, Offset 35515.
--- それだけの贖罪をして、まだ
+-- それだけの贖罪をして、まだ―――
 But despite all that penitence,
  all that pain, she still can't―――
 }
@@ -431,17 +438,17 @@ But despite all that penitence,
 [sha:279ea281309630512580bbb9d6f98df25c0a356c]{
 -- Page 91, Offset 35519.
 -- 「ふざけ、やがって……！」
-"Don't give me that crap...!"
+"Don't... don't give me that shit!"
 }
 [sha:82d45c77625db138b546fc41faf2862d54a6e234]{
 -- Page 91, Offset 35520.
 -- 人間として死にたい、だって？
-She said she wants to die as a human.
+She wants to die as a human, does she?
 }
 [sha:d53fb3fe782e2580cdc16ccedf27997cc18d3af4]{
 -- Page 91, Offset 35521.
 -- それは何もかも忘れて楽になりたい、なんて救いですらなかった。
-Is that so that she can finally forget everything and be at peace?
+Is that so she can finally forget everything and be at peace?
  Of course not. Even that salvation is denied to her.
 }
 [sha:0a5568bd2d4a5aeb520352e0c54cc6eab12c1b79]{
@@ -460,7 +467,7 @@ She believes there's only one way she can atone for her sins:
 [sha:0207e53e6b78cb7d21d0d4f4c9f79dbe955e2888]{
 -- Page 93, Offset 35524.
 -- 「っ、は―――は、ぁ……！」
-"%{i}Tch%{/i}, %{i}hah%{/i}――%{i}hah%{/i}, %{i}ah%{/i}...!"
+"%{i}Tch%{/i}, %{i}hah%{/i}――%{i}hah%{/i}, %{i}ah%{/i}!"
 }
 [sha:d1f86622e981df7031ccad9d85f458025ac256c3]{
 -- Page 93, Offset 35525.
@@ -470,7 +477,7 @@ I don't have it.
 [sha:02e791302e572e86c6c1b07d7fd9840a815588e8]{
 -- Page 93, Offset 35526.
 -- やっぱり、俺にはそんな強さはないです先輩。
-As I thought, I don't have that kind of strength at all, Senpai.
+As I thought, I don't have that kind of strength, Senpai.
 }
 [sha:8375d76f9b88827ef66fe0271b5ac950398500d6]{
 -- Page 93, Offset 35527.
@@ -480,7 +487,7 @@ All I have is my uncontrollable anger.
 [sha:c7aba4f90800e47cda3ff24a218533927f3000bf]{
 -- Page 93, Offset 35528.
 -- シエル先輩がどれだけ重い荷物を背負っていたのか分かっていなかった、自分自身への怒りだけ。
-Anger at myself, for not realizing the weight of the burden she carries on her shoulders.
+Anger at myself for not realizing the weight of the burden she carries on her shoulders.
 }
 [sha:bfa071606b06c23e7c15717b36cf3e7ff9c10578]{
 -- Page 93, Offset 35529.
@@ -490,12 +497,12 @@ Ah, but―――
 [sha:e28f9c82f5077ef25532eead6ad08033c4ea2041]{
 -- Page 94, Offset 35530.
 -- 「“ふーん。まだそんな体力が残っていたんだ。
-"Hmm. I didn't think you had that much energy left in you.
+"Hmmmm... so you still had some energy left in you.
 }
 [sha:021302cc05d126543b8b8ea845b80131d82bd18e]{
 -- Page 94, Offset 35531.
 -- 志貴クンひとりならとっくに地上に逃げられたのにね。いったいいつまで、そんなガラクタを背負ってるつもり？”」
-If you were on your own, you could've made it back to the surface by now.
+On your own, you could've made it back to the surface by now.
  How long do you plan on lugging that hunk of junk around?"
 }
 [sha:1c2ced55a8053b17b278e771b9c289131eb14521]{
@@ -511,8 +518,8 @@ I'm glad that you decided to spare me.
 [sha:50670b4d0779ef35912b93e532d62d54ffba2896]{
 -- Page 95, Offset 35534.
 -- たとえロアを見逃したとしても、貴女をあのままひとりにしなくて、本当に良かった。
-I'm glad that I decided to stay by your side...
- even if it meant overlooking Roa for the moment.
+I'm honestly so glad that I didn't have to leave you alone,
+ even if it meant letting Roa live for the moment.
 }
 [sha:5ad8e4e74339f86b4bd4c51b54fed9296537acf7]{
 -- Page 96, Offset 35535.
@@ -528,7 +535,7 @@ She isn't coming after me.
 [sha:595cb431d6f1b661e32a479d674472167248cee7]{
 -- Page 96, Offset 35537.
 -- ……やっぱり。あの吸血鬼はまだ未熟だ。
-I knew it... She's still an amateur.
+I knew it... She's still really inexperienced.
 }
 [sha:a908c66ac22a7e06e7e76ae99e8ea99129251ecd]{
 -- Page 97, Offset 35538.
@@ -566,7 +573,7 @@ Because of her undying body, she's already suffered so much...
 [sha:cfe003789be217b35977dab82c04f998daa59ac9]{
 -- Page 99, Offset 35544.
 -- こんな事で―――あの吸血鬼の魔眼なんかで倒れる訳がない。きっとすぐに目を覚まして、俺の前に現れてくれる。
-That's why there's no way she's going to lose now――not to something as pathetic as that vampire's Mystic Eyes.
+And that's why there's no way she's going to lose now――not to something as pathetic as that vampire's Mystic Eyes.
  She's going to wake up and come back to me any minute now, I just know it.
 }
 [sha:4d7339457499af2865488e2bc94d5a56f61f77fb]{
@@ -594,7 +601,7 @@ I embrace Senpai's motionless body.
 -- 藍色の髪を撫でながら名前を呼びかけて、今の自分にある精一杯の言葉を伝える。
 // Hold the fuck up, we're just going to casually acknowledge it's blue?
 // You tried to claim she was brunette not three files ago you damn hack
-Calling her name as I brush her blue hair,
+Calling her name as I stroke her blue hair,
  I try as best I can to put everything I'm feeling right now into words.
 }
 [sha:7db17f4111c5f98c8133dc522bc7972d11791e08]{
