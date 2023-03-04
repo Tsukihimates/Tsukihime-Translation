@@ -203,7 +203,7 @@ For some reason, she sounds almost relieved.
 [sha:be4616049925acb52ce36b7ac9f2a64f5c5c0046]{
 -- Page 365, Offset 34305.
 -- 互いに殺し合うという条件なら、私たちの罪は相殺されます。あとは、生き残った者に罰が残るだけです」
-If both of us are trying to kill the other, then our sins will cancel each other out.
+If both of us are trying to kill the other, then our sins will cancel themselves out.
  All that will remain in the wake is penance for the survivor."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -214,7 +214,8 @@ If both of us are trying to kill the other, then our sins will cancel each other
 [sha:941c85f939c76cc7d8d3f3ad539938ce1706fb28]{
 -- Page 366, Offset 34307.
 -- 自身の死を以て罪を殺す。
-To kill one's sin through one's own death.
+// Possibly linking back to 相殺されます given the inclusion of 殺 in 相殺
+To cancel out one's sin through one's own death.
 }
 [sha:85bd63c1d3da56712f269fb7fe71e684d5ae4d9f]{
 -- Page 366, Offset 34308.
@@ -291,7 +292,7 @@ I don't agree with that at all. Not one bit.
 }
 [offset:34322]{
 -- Page 371, Offset 34322. Mods: @n.
--- 
+--
 // This line intentionally left blank
 %{nothing}
 }
@@ -340,7 +341,7 @@ She takes one final step.
 [sha:25ad8212be426c8fd428156447179c3244a9b3fe]{
 -- Page 372, Offset 34331.
 -- 銃剣の切っ先が俺の心臓に向けられる。
-The tip of the bayonet takes aim at my heart.
+The tip of her gun takes aim at my heart.
 }
 [offset:34332]{
 -- Page 372, Offset 34332.
@@ -360,18 +361,18 @@ I artlessly stumble forward and take aim at the 'point' on her right lung.
 [sha:0a436513a3c590b0ebc3ace5c63d0d0159bf81cb]{
 -- Page 373, Offset 34335.
 -- ナイフの間合いに踏みこむより先に、彼女の銃剣が俺の心臓を貫くのは道理だ。
-By all rights, her bayonet should've pierced my heart long before she stepped within range of my knife.
+By all rights, her gun should've pierced my heart long before she stepped within range of my knife.
 }
 [sha:e552a633c9e966d2e4bfe376e0bb4a3b857767cd]{
 -- Page 374, Offset 34336.
 -- だから、驚いた。
-That's why... I'm surprised.
+Which is why... I'm surprised.
 }
 [sha:b3a8c4cedab4772d1cd73aced6a15514c62dd213]{
 -- Page 374, Offset 34337.
 -- 銃剣をかわして、トン、とあっけなく彼女の『点』を刺せた<結|こ><末|と>に。
 // あっけなく good feeling to convey but hard to do succinctly. Not sure this is best.
-Surprised that I was able to dodge that bayonet,
+Surprised that I was able to dodge it,
  and sink my knife into her 'point' with an unassuming %{i}thump%{/i}.
 }
 [sha:c7704c7cc32ec86ce9dc845bd4876c0547b25ed5]{
@@ -408,7 +409,7 @@ Her voice is faint;
 [sha:75c74b91a5ccbfecb2c0e41461f347751a7aff01]{
 -- Page 376, Offset 34344.
 -- 泣くような声をあげて、彼女は最後の力をふりしぼって、俺の胸に、銃剣をつきたてた。
-Sounding as though she's on the brink of tears, she musters the last of her strength and thrusts the bayonet through my chest.
+Sounding as though she's on the brink of tears, she musters the last of her strength and thrusts her gun against my chest.
 }
 [sha:5da89f61b3477d9544c8631ab49c93f3f44968ed]{
 -- Page 377, Offset 34345.
@@ -478,7 +479,7 @@ I probably won't last much longer now that my blood's stopped flowing.
 [sha:72e0a26d064fd545e9fdd429eded9d33f647a506]{
 -- Page 380, Offset 34358.
 -- あの銃剣で刺された瞬間。
-The moment that bayonet pierced me―――
+The moment that gun pierced me―――
 }
 [sha:2477ab7c035d73f986b5d5b07c84a5e80e12ae27]{
 -- Page 380, Offset 34359.
@@ -526,7 +527,7 @@ Did she think that would serve as some measure of penance?
 [sha:17441d9ee4ac5439937e86c00b0734847e17d245]{
 -- Page 381, Offset 34367.
 -- ―――バカげてる。
-―――How ridiculous.
+―――Ridiculous.
 }
 [sha:c7cb1501e8f8650fad04a18cef73389c29b2d315]{
 -- Page 381, Offset 34368.
@@ -545,7 +546,7 @@ An act like that... it carries no meaning at all.
 // "Can't believe that bitch didn't apologize to me before she died"
 // instead of
 // "Damn wish she had at least done that so she could rest easy"
-There's something sad about the fact that she died without apologizing...
+There's something sad about the fact that she died without apologizing first...
 }
 [sha:b13c185ec2fe4e5c9a771ebf2ece6b5a58b189fe]{
 -- Page 382, Offset 34371.
@@ -560,12 +561,14 @@ Or was she incapable of saying such a simple word...?
 [sha:af4b8125aef7e1c183908f12d07c2e023912bdb6]{
 -- Page 383, Offset 34373.
 -- 謝って償える事ではないと分かっていたから、彼女は最後まで謝らなかった。
-She knew that she couldn't atone for her sins by apologizing, so she refused to apologize until the very end.
+She knew that she couldn't atone for her sins by apologizing,
+ so she refused to do it all.
 }
 [sha:23a03c76a1b18a76110b6f856ec5c2a2cacd7014]{
 -- Page 383, Offset 34374.
 -- その決意。そこまで追いこんだのが自分だという事が、俺にはどうしようもなく―――
 // dont really know what to do with 俺にはどうしようもなく
+// What did he mean by this
 What determination...
  The fact that I was the one who drove her to this makes me feel hopelessly―――
 }
