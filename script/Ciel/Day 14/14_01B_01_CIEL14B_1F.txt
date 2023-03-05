@@ -237,7 +237,9 @@ In the space of the second it took Senpai to nock her next arrow,
 [sha:5ad7fa8f1c37a6626b898a2afe431fe5b50110e8]{
 -- Page 257, Offset 39114.
 -- 「でも相打ちだ、負けてない……！」
-"But it's a draw. She hasn't lost!"
+// Don't love using 'tie' here since it still sounds _settled_,
+// when really it's more like they've each got one blow off / still even / dead heat
+"But they're one-all, she hasn't lost!
 }
 [sha:8e8b139b773d29808a623a393971389c2e4d347b]{
 -- Page 257, Offset 39115.
@@ -247,67 +249,80 @@ And so, the fight between the two switched over to hand-to-hand combat.
 [sha:395f8fc511e7d032f02f5f1461b00c103562d3f8]{
 -- Page 257, Offset 39116.
 -- 先輩はライフルと杭打ち機を最大限に使用し、街を闊歩するアルクェイドを押しとどめている。
-Senpai uses her rifle and pile-driver to its fullest to hold back against Arcueid who struts across the city.
+// I think the prev scene mentioned 2 small arms, so pluralizing ライフル here
+Senpai brings the full force of her rifles and pile bunker to bear in an attempt to halt Arcueid's swaggering advance.
 }
 [sha:235ce473b21eb019f59dac1f7c286c4422859e0c]{
 -- Page 258, Offset 39117.
 -- ……それは現実時間では１分足らずの、
-...In reality, it all took place in less than a minute.
+In reality, it only lasted a minute―――
 }
 [sha:457413e28168616c6ded324c41f0f8c9a592341f]{
 -- Page 258, Offset 39118.
 -- けれど俺の体感時間では１時間にも相当する攻防だった。
-But in my view, it was a clash that seemed to last an hour.
+But to me, it felt like their battle stretched on for an hour.
 }
 [sha:a3e1af86147e653fdf3b75b774e29af1fd7b69e1]{
 -- Page 259, Offset 39119.
 -- 先輩は全力で戦っている。
-Senpai is fighting with all her strength.
+Senpai is fighting as hard as she can.
 }
 [sha:d7c5b740ab702e4a877318eedbed04245ff106ad]{
 -- Page 259, Offset 39120.
 -- ヴローヴとの戦いが準備運動にさえ思える肉体酷使は、文字通り死力を尽くしてのものだろう。
-Her physical exertion, which makes even her fight against Vlov look like a warm-up, is to the point that it could be described as a literal fight to the death.
+The way she's pushing the limits of her body makes the fight against Vlov look like nothing but a warm-up.
+ It's like she's literally fighting as though her life depends on it.
 }
 [sha:ff0025fdb9da9359a81220ce19199d2b6eef3c59]{
 -- Page 260, Offset 39121.
 -- ……なのに、止められない。
-...And yet she doesn't stop.
+And yet, it isn't enough...
 }
 [sha:3c30984e0a78e205d70ad9b0de501d5540c33a7d]{
 -- Page 260, Offset 39122.
 -- シエル先輩が自身の肉体を壊しながら行う猛攻を、アルクェイドは気にも留めずに歩いている。
-While Ciel-senpai is destroying her own body to perform her fierce attack, Arcueid on the other hand, is walking without a care in the world.
+Even though Ciel-senpai's assault is so ferocious that it's tearing her own body apart,
+ Arcueid just walks on without a care in the world.
 }
 [sha:37bf5101bb98add36fe011dd87baf36460cf3919]{
 -- Page 261, Offset 39123.
 -- 血を吐くような、骨を砕くような一秒が続く。
-A second of blood-spilling and bone-crushing persists.
+// Assuming this is like "each second that passes is as excruciating as having blood spilled, or bone broken, and they DO continue to pass"
+Seconds as painful as spilled blood or broken bone tick mercilessly by.
 }
 [sha:493d68b9c3494161d9293f75fbb88220d28c2ab7]{
 -- Page 261, Offset 39124.
 -- 掃射されるアサルトライフル、同時展開される魔術式、相打ち覚悟の蛇腹剣。
-She strafes with her assault rifle while simultaneously deploying magecraft formulas and clashing with her galient sword.
+// 蛇腹剣 initially introduced as 'serpentine whip sword' in 12516.
+Senpai strafes Arcueid with her assault rifle,
+ simultaneously deploys various Magecraft Formulae,
+ and has her serpentine whip sword held ready to engage.
 }
 [sha:efc9e13af21a29ff6250cb60a75f3a516ce2c5ed]{
 -- Page 261, Offset 39125.
 -- そのすべてが、
-All of her attacks...
+All of these attacks―――
 }
 [sha:deb79f7c9ce41aeff45057a4f5a1e473c801fb5b]{
 -- Page 262, Offset 39126.
 -- アイツが、片腕一本を振るうだけで帳消しにされてしまう。
-...Gets canceled out by a single swing of her arm.
+―――Are rendered moot by a single swing of Arcueid's arm.
 }
 [sha:5e946fb94d5938d43abb5b8293890886202ab65f]{
 -- Page 263, Offset 39127.
 -- “その失望は間違っている。ここは感動する場面だ。
-'That disappointment of yours is misplaced. This is a scene worthy of praise.
+// Roa actually got a voice now
+%{i}
+"That disappointment of yours is misplaced.
+ You should look upon this display with awe.
+%{/i}
 }
 [sha:8084980b6c5f418a590e7f0f972a57f567b6636c]{
 -- Page 263, Offset 39128.
 -- 今の姫君に腕を振るわせるとは、称賛にあまりある”
-As of now, it is absolutely commendable to allow the princess to display her abilities here.'
+%{i}
+She deserves no faint praise for managing to force the current Princess to raise her hand against her."
+%{/i}
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 264, Offset 39129.
@@ -317,7 +332,7 @@ As of now, it is absolutely commendable to allow the princess to display her abi
 [sha:8a9fa15dd381b5403b375f7abfc64640c07e91bc]{
 -- Page 264, Offset 39130.
 -- 突然の声に思考が止まる。
-The sudden voice interrupts my own thoughts.
+A voice suddenly interrupts my thoughts.
 }
 [sha:2210d5d0c3212284fd41732521b42f84759697ff]{
 -- Page 264, Offset 39131.
@@ -327,42 +342,43 @@ There's no one around me.
 [sha:9e0fb5026add0807911423353d45b836fca9fb05]{
 -- Page 264, Offset 39132.
 -- 簡略化された街では喧噪もノイズもない。
-There isn't any noise coming from the abstracted city either.
+There's no hubbub or other noise coming from the abstracted city either.
 }
 [sha:76baa16bf6fa05acda3aea99a9010b6f6bc7ec80]{
 -- Page 264, Offset 39133.
 -- そもそも、この声が何であるか考えるまでもない。
-Then again, there's no need to guess where this voice is coming from.
+Not that I ever had any need to guess where this voice is coming from.
 }
 [sha:117989d8d59b9b0823143f978f39aa32849deffb]{
 -- Page 264, Offset 39134. Mods: @n.
 -- 俺の脳にのみ走る信号であるのなら、
-If it's a signal that runs only to my brain,
+// Manually linebroken across @n
+If it's a signal that only exists within my own brain,
 }
 [sha:f92d45744c128d2efe4c78b8f3a163c87bb591e2]{
 -- Page 264, Offset 39135.
 -- それは、ヤツの意識に他ならない。
-then it can be none other than that guy's consciousness.
+then the only thing it can be is that guy's consciousness.
 }
 [sha:e2bbf4e9673eeec95d98168c6462b502820ec8f3]{
 -- Page 265, Offset 39136. Mods: @n.
 -- 問題は、それが今になって“明確な<言|こ><葉|え>”になった事だ。
-The problem is the fact that it's now turned into a voice that I can hear clearly.
+The problem is that by now it's grown into a voice I can clearly hear.
 }
 [sha:93ffb39579ba601244885938ea7370da1acc7e25]{
 -- Page 265, Offset 39137.
 -- ……いや、それとも。
-...No.
+No... On second thought―――
 }
 [sha:447c92508c6eb3be5cb191f8c1a72d1598a03c1d]{
 -- Page 265, Offset 39138.
 -- いよいよその時が来た、と捉えるべきか。
-Perhaps something like this was only inevitable.
+I probably should have assumed this time would come.
 }
 [sha:a0cc57e5f95f74387902d00e064cc3afb049ceba]{
 -- Page 266, Offset 39139.
 -- こんなヤツを相手にしている場合じゃない。
-This isn't the time to be concerned about that guy.
+Now isn't the time to concern myself with him.
 }
 [sha:692de5fe1588ada501859f236b6749b78de0d550]{
 -- Page 266, Offset 39140.
@@ -372,70 +388,82 @@ Senpai can't move anymore.
 [sha:4d1cffcbdebc1d306ba8850f0d50bab7a0b3be82]{
 -- Page 266, Offset 39141.
 -- あんな、街のカタチを変える一撃を何度も何度も打ち込まれて、いくら死なないからって、アレじゃ原形さえ留めない……！
-Regardless of whether she's immortal, after receiving a blow that's enough to change the shape of the city over and over again, she won't be able get out of this intact...!
+She may make a big deal about how she can't die,
+ but if she keeps taking hits so large they change the face of the city around her,
+ there's no way she's getting out of this in one piece!
 }
 [sha:bb68ace324dc72dc9cd87a67069e94457843e7fc]{
 -- Page 267, Offset 39142.
 -- “―――素晴らしい。こんな奇跡が、起こりえるのか”
+// Roa, voiced
+%{i}
 "―――Incredible. To think that a miracle like this could occur."
+%{/i}
 }
 [sha:200f88c2cedfe5a4a5b1489459ea985f71dac7b0]{
 -- Page 268, Offset 39143.
 -- 「なにが素晴らしいんだ……！
-"What's so incredible about this...?!
+"What's so incredible about this?!
 }
 [sha:2d5a41247e4f5dda21cd98a29e03ef44c3731d6e]{
 -- Page 268, Offset 39144.
 -- いいかげん黙ってろ、おまえに先輩の何が分かる……！」
-Just shut up already! What the hell do you know about Senpai...?!"
+Just shut up already!
+ You don't understand the first thing about Senpai!"
 }
 [sha:606f993960e627ef8a370d0de08e8c86b5bbeca1]{
 -- Page 269, Offset 39145.
 -- 混濁した自分自身の妄想に怒鳴りつける。
-I shout at the delusions of my own disordered self.
+I yell at the delusion present in my own chaotic consciousness.
 }
 [sha:a5bdc744649ae60a2234275080342745125b4808]{
 -- Page 269, Offset 39146.
 -- 先輩がどれほど苦しもうとコイツには関係のない話だ。
-Whether Senpai is in pain or not has nothing to do with this guy.
+This guy doesn't care at all about how much Senpai suffers.
 }
 [sha:80bd76e8f3d2db8380d11a1f0836f49738748506]{
 -- Page 269, Offset 39147.
 -- だがヤツは、そんな俺に向けて、真剣な感情を返してきた。
-And yet he turns to face someone like me with a stern expression.
+And yet, his reply to me comes in all earnestness.
 }
 [sha:6f2669a0c6dcc25e06f881552d656e0e6d5affb9]{
 -- Page 270, Offset 39148.
 -- “状況を把握していないのはそちらの方だ。
-"The one who doesn't understand anything is you.
+%{i}
+"It is you who does not understand.
+%{/i}
 }
 [sha:f40beed8ffd956e006459d50855ee0dea35950e9]{
 -- Page 270, Offset 39149.
 -- あの<宙|ソラ>を見るがいい”
-Take a closer look at the sky."
+%{i}
+You would do well to look to the sky."
+%{/i}
 }
 [sha:08a97eb0a8bb02958edf7bc0a510fdaae3cf577c]{
 -- Page 271, Offset 39150.
 -- 「……そら？」
-"...The sky?"
+"The sky...?"
 }
 [sha:241592c227c8df9204bb9f3ac172efde90698b8a]{
 -- Page 271, Offset 39151.
 -- 俺ではない自分の声に促されて、暗黒の空を見上げる。
-Prompted by the voice that isn't my own, I look up at the dark sky.
+Prompted by a voice that is mine but not my own,
+ I look up at the night sky.
 }
 [sha:ca66e1e559c597cfcf3b747e59035a811af48d38]{
 -- Page 271, Offset 39152.
 -- 「―――なんだ、あれ」
-"―――What the hell is that?"
+"What the hell... is %{i}that%{/i}?"
 }
 [sha:90abb64d1a2a2e263506916952b83ce0187dce6d]{
 -- Page 271, Offset 39153.
 -- 遥か上空50キロメートル、成層圏に輝く車輪。
-A shining arc far up in the stratosphere, fifty kilometers above ground.
+Fifty kilometers above the ground,
+ a glittering arc has formed amid the stratosphere.
 }
 [sha:82c93409812ba6ea8a79755835da267b845d0414]{
 -- Page 271, Offset 39154.
 -- 太陽光を受けて燃え盛る<車|ほ><輪|し>の連なりは、断頭台の刃のようだった。
-A row of stars blazing with sunlight like the blade of a guillotine.
+The row of stars, blazing bright as sunlight, look like the blade of a guillotine.
 }
