@@ -6,27 +6,28 @@
 [sha:130b5206f203d7841085164a16a192f8e186731b]{
 -- Page 10006, Offset 39073.
 -- ひとりになってから数分が過ぎた。
-A few minutes have passed since I became alone.
+I've been all alone for a few minutes now.
 }
 [sha:fbf1f811d99ad8ee04295dff39d232836b0f3843]{
 -- Page 10006, Offset 39074.
 -- 俺はナイフを手にして、深呼吸を繰り返している。
-I hold the knife in my hand and continue repeating the same deep breaths.
+Knife in hand, I slowly take deep breaths in and out.
 }
 [sha:16deccffd72f2e3861b196b21d42f365ae110112]{
 -- Page 10006, Offset 39075.
 -- 微弱な頭痛と、この後にやってくる結末に備えている。
-I prepare myself for the faint headaches and for the consequences that will come afterward.
+I steel myself against my faint headache,
+ and for the conclusion that is soon to come.
 }
 [sha:0d7edfda3d9e506effeb22f8c68a07a6b3cd210e]{
 -- Page 244, Offset 39076.
 -- ……シエル先輩の事は信頼している。
-...I put my faith in Ciel-senpai.
+I have faith in Ciel-senpai...
 }
 [sha:e911201a4820ef62c807d0ad7b6b07a7602fd478]{
 -- Page 244, Offset 39077.
 -- あの人が守るといってくれたのなら、絶対に守ってくれる。
-If she tells me that she will protect me, then she will keep her word no matter what.
+If she says she'll protect me, I know she won't go back on her word.
 }
 [sha:bcf017a9f818c7c3bc4b7a10b83c7df27cce6a5b]{
 -- Page 244, Offset 39078.
@@ -52,22 +53,23 @@ Right now, I need to be planning ahead at least a little.
 [sha:ba9702c8de5adea75f7f1fa2f2d95cb5353820b5]{
 -- Page 245, Offset 39082.
 -- ここで待機するにしても、やれる事はある筈だ。
-Even if I stay here, there must be something that I can do.
+Even if I've been told to stand by here,
+ there must still be something I can do.
 }
 [sha:b8c34fb8982ccdaa2cf45fb1a9a82f807f80e063]{
 -- Page 246, Offset 39083.
 -- 思い立って階段に向かう。
-After making up my mind, I head toward the stairs.
+Having made up my mind, I head for the stairs.
 }
 [sha:82dd0697602104c745685a4eba07b9c932755894]{
 -- Page 246, Offset 39084.
 -- 外で何が起きているのか、校舎の中では知りようがない。
-I can't see what's happening outside if I'm inside the building like this.
+I won't be able to tell what's going on out there if I'm inside the school building.
 }
 [sha:50299b95f455181c4da5713751596cd9e47d301e]{
 -- Page 246, Offset 39085.
 -- 屋上に出れば街の様子ぐらいは見て取れる筈だ。
-If I go out to the rooftop, I should be able to at least grasp the situation of the city.
+If I head out on the roof I should at least be able to get the gist of what's happening in the city.
 }
 [sha:7f130a4cf1416d8ba5e03ecd2732b9d30862358a]{
 -- Page 247, Offset 39086.
@@ -77,47 +79,61 @@ If I go out to the rooftop, I should be able to at least grasp the situation of 
 [sha:fc27640184a9eaa943e6b711eb5f580368688182]{
 -- Page 247, Offset 39087.
 -- ……オマエとの決着はその後だ、ロア」
-...We can settle things afterward, Roa."
+I'll deal with you after she does, Roa."
 }
 [sha:fa65bff625489321ff79b3cae2fbb390aa82b3a9]{
 -- Page 248, Offset 39088.
 -- その時、俺は成功率の低い綱渡りをする事になる。
-When that time comes, I'll have to cross over a tightrope with a limited chance of success.
+// Basically 37910 + その時、
+When that time comes,
+ I'll have to walk a tightrope where the odds are not in my favor.
 }
 [sha:b409785521ba831653448ee89755a09b8cfe6511]{
 -- Page 248, Offset 39089.
 -- 生き残れる保証はないし、“そんな方法”でいいのかすら自信はない。
-There's no guarantee that I'll make it out alive, and there's no telling whether that 'method' will even work.
+// More or less 37911
+There's no guarantee that I'll make it out alive,
+ and not even confident that that method will even work at all.
 }
 [sha:959c93782202ff89a7913080674e635b89612a05]{
 -- Page 248, Offset 39090.
 -- それでも、俺にはその可能性しか残っていない。
-But still, that's the only chance I have.
+Be that as it may,
+ it's the only choice I have.
 }
 [sha:1307ac89be988199bbfbfd0fe60330bb0284cfca]{
 -- Page 249, Offset 39091.
 -- “―――その力が、君に有るという事”
-'―――That is the power I have.'
+// You guessed it, it's a reference to 00_00 (offset 447).
+// Imperfect quote though
+// LintConsistency:37913
+'The fact that you have that power―――'
 }
 [sha:c7217631b4cebb6c36be9acf3e0ad0784e9f7fae]{
 -- Page 249, Offset 39092.
 -- それには何かしらの意味があって、この力を必要とする時が来ると教えてくれた人がいた。
-There was a person who once told me that there was meaning behind that, and that one day, there would be a time I would need to use this power.
+   そこには何かしらの意味があって、この力を必要とする時がくると教えてくれた人がいる
+// Keep phrasing from 447/8 if possible.
+// LintConsistency:37914
+Someone once told me that there must be some sort of meaning behind it,
+ and that there would be a time in my future where I'd need to put it to use.
 }
 [sha:21037ec26fe2794dfc480d3f27f0a0716860a2ae]{
 -- Page 250, Offset 39093.
 -- 「……ああ、そうだった。なら今がその時だ。
-"...Yeah, that's right. Then I'm sure that time is now.
+"Yeah, I remember...
+ Now must be that time.
 }
 [sha:18b6e20691506e5c68fc60470fbdaf0249eaf4ac]{
 -- Page 250, Offset 39094.
 -- きっとこれが俺の役割だったんですよ、先生」
-I'm sure that this is my role in life, Sensei."
+// LintConsistency:37916
+I'm sure that this is my role to play, Sensei."
 }
 [sha:7c0ae480b1f2643d3e5a91b90938ffe9492706cd]{
 -- Page 251, Offset 39095.
 -- ……恐れを呑みこんで覚悟を決める。
-...I swallow down my fears and prepare for the worst.
+I swallow my fear and ready myself for what's to come.
 }
 [sha:8150b0afd1b3d15d721dc9ea7b2ed3cbd3b013c7]{
 -- Page 251, Offset 39096.
@@ -127,32 +143,37 @@ This knife is for that purpose.
 [sha:80931e919dea32014c153779235592b7602565e9]{
 -- Page 251, Offset 39097.
 -- 俺は今までの時間と、自分を支えてくれた人々に一時の<感謝|さよなら>をして、屋上に通じる扉を開けた。
-I say my short goodbyes to the time I've spent until now and to all the people who've supported me thus far, before opening the door to the rooftop.
+I briefly express my thanks――and farewells――for the life that I have lived,
+ and for the people who have supported me,
+ then open the door to the roof.
 }
 [sha:9df71ed338665c8855a94a38d47b0ca24a5fcff7]{
 -- Page 252, Offset 39098.
 -- 屋上に出る。
-I go out to the rooftop.
+I step out onto the rooftop.
 }
 [sha:5d9646690239dfcd18aa621fbe6affbbf4626aa9]{
 -- Page 252, Offset 39099.
 -- 街からの喧噪は途絶えている。
-The hustle and bustle of the city have come to a stop.
+The hustle and bustle of the city has been halted.
 }
 [sha:ea30fc4a37ce41731492c6c24bf012fc96565811]{
 -- Page 252, Offset 39100.
 -- 風も止んでおり、世界は完全に無音だ。
-The wind has stopped blowing, and the world turned completely silent.
+The wind has ceased to blow,
+ and the world is now utterly silent.
 }
 [sha:5a7c9e8604af8e5e5ab7768d4e84ff8697d6b28e]{
 -- Page 253, Offset 39101.
 -- <装|い><飾|み>を奪われ、そのカタチだけになったビルは墓標のように見えた。
-Stripped of all its meaning, the buildings appear like gravestones that only retain its shape.
+The buildings, stripped of all meaning,
+ are now nothing but shapes――like a skyline of gravestones.
 }
 [sha:591ceaea25caed58aacf1410db9e3eb7061911d8]{
 -- Page 253, Offset 39102.
 -- <学|こ><校|こ>から１キロほど離れたオフィス街……中央公園のあるあたりに変化はない。
-In the business district one kilometer away from here... there is no change in the area around the central park.
+I don't see any change to the office district a kilometer away...
+ to the area around the central part.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 254, Offset 39103.
@@ -162,17 +183,18 @@ In the business district one kilometer away from here... there is no change in t
 [sha:e342dc41eedb4e1fca0ee346e92e9bdae9a4a2f2]{
 -- Page 254, Offset 39104.
 -- 戦いはまだ始まっていないのか、もう終わってしまったのか。
-Has the battle not yet begun? Or has it already been decided?
+Has the battle yet to begin? Or has it already been decided?
 }
 [sha:b6d84dcdd5a8419b803f40501d2c6c97eede3ce1]{
 -- Page 254, Offset 39105.
 -- 夜中、吸血鬼の視力は何倍にも上がっている。
-In the dead of night, the eyesight of a vampire is amplified many-fold.
+During the night, a vampire's eyesight improves dramatically.
 }
 [sha:db4824d7c82310a6fc325f8ce684f79a496c99e1]{
 -- Page 254, Offset 39106.
 -- 焦点を<絞|しぼ>れば公園の様子は無理でも、あの付近の様子ぐらいは把握―――
-Although the park is out of the question, if I narrow my focus, I can at least grasp the condition of its surroundings―――
+While the park itself may be out of the question,
+ if I squint, I should at least be able to make out its surroundings―――
 }
 [sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
 -- Page 255, Offset 39107.
@@ -187,17 +209,19 @@ A flash of light illuminates the city.
 [sha:cf88fd88559c0ad33bcbbf391dcc403f8ff3eddc]{
 -- Page 255, Offset 39109.
 -- 仕掛けたのはシエル先輩からだ。
-The one who initiated the fight was Ciel.
+Ciel has cast the first blow.
 }
 [sha:afb769b39c47e08690ba97cc0523e8e293d32378]{
 -- Page 255, Offset 39110.
 -- 長距離からの狙撃。一射目は隙を作るための<頭部撃ち|ヘッドショット>。
-A long-range sniping atack. A headshot designed to create an opening through the first shot.
+She's sniping at her target from a distance.
+ Her opening move is a headshot to create herself an opening.
 }
 [sha:2635b4f437898ec4293d9cfc82c49d9ba8cc29d8]{
 -- Page 255, Offset 39111.
 -- 次の二射目で胴体を撃ち抜こうとした瞬間、先輩が陣取っていたビルの屋上で爆発が起きた。
-The moment Senpai prepares to shoot the second shot for the body, an explosion occurs on the roof of the building where she stands.
+The moment Senpai is about to fire her second shot to pierce Arcueid's body,
+ there's an explosion on top of the building where she'd taken up position.
 }
 [sha:4776ecea844fc20d76fe89875d86e3ef5e4b0fc1]{
 -- Page 256, Offset 39112.
@@ -207,12 +231,13 @@ It was Arcueid's counterattack.
 [sha:efe3eaa4e08f4b4cd04af7942a36645d2896a1c7]{
 -- Page 256, Offset 39113.
 -- アイツは先輩が矢をつがえる一秒の間に、一瞬でビルの屋上に移動しやがった……！
-In the second that it took for Senpai to ready her next arrow, Arcueid traveled to the rooftop in an instant...!
+In the space of the second it took Senpai to nock her next arrow,
+ she rocketed all the way up to the top of the building!
 }
 [sha:5ad7fa8f1c37a6626b898a2afe431fe5b50110e8]{
 -- Page 257, Offset 39114.
 -- 「でも相打ちだ、負けてない……！」
-"But it's a draw. She hasn't lost...!"
+"But it's a draw. She hasn't lost!"
 }
 [sha:8e8b139b773d29808a623a393971389c2e4d347b]{
 -- Page 257, Offset 39115.
