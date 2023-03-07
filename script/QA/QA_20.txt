@@ -194,14 +194,14 @@ differently.
 [sha:b1e50d9377fcf4fe78607690a53cbff1382f2b26]{
 -- Page 186, Offset 43659.
 -- 簡単にボス倒せそうだけど、
-Might've seemed easy to beat the boss back there,
+// Need to keep these to 2 dialog box lines so they don't get clobbered by the overlay
+Might've seemed easy to beat the boss back there, but you%{n}
 }
 [sha:f6dbecc19104921c94d3d5105fddddd2c2b71368]{
 -- Page 186, Offset 43660.
 -- 空気読んでガンマすればいいだけだからニャー。
 // Overlay image: 'Correct spelling: Bide'
- but you've gotta watch%{n}
-which way the wind is blowing and bribe your time.
+gotta watch how the wind is blowing, and bribe your time.
 }
 [sha:66063b516ff7efc28c73cff6ed7f68f02d095cad]{
 -- Page 187, Offset 43661.
