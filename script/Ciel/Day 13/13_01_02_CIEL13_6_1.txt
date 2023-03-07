@@ -2,8 +2,8 @@
 -- Page 10005, Offset 35717.
 -- 地面に転がっていく、手鞠のような丸いもの。
 // Unless we think there are actually important themes of value with 手鞠 here,
-// opting to just localize as some other ball. Using medicine ball for weight/size equivalence.
-Her head tumbles to the floor like a medicine ball.
+// opting to just localize as some other ball.
+Her head tumbles to the floor like a football.
 }
 [sha:3557346de5d27413a00962d786b1e66d02e16748]{
 -- Page 10005, Offset 35718.
@@ -130,7 +130,7 @@ I'm pretty sure I wouldn't be incinerated even if the sun did rise on me.
 -- Page 170, Offset 35741.
 -- …………………………ああ、そうか。
 // lint-off:LintStartingEllipsis
-.........%{n}%{n}
+............%{n}%{n}
 Oh... right.
 }
 [sha:3e9b563549e6f4d36f50786d7f467f0dccc81a96]{
@@ -196,12 +196,13 @@ but i dont really
 [sha:51989d42df5a2ed9836f905bc2abb56aa32e00b7]{
 -- Page 172, Offset 35753. Glued.
 -- ナい。
-ca   R e
+ ca   R e
 }
 [sha:91cd33425d774815bf561f196f19d6d514335a41]{
 -- Page 172, Offset 35754.
 -- 彫像になっても先輩はかわいい。
-Even as a statue, Senpai is still beautiful.
+// Forced newline to separate from kanamode
+%{n}Even as a statue, Senpai is still beautiful.
 }
 [sha:dce6d85906f3ae518b8441002dac60297cdeac2a]{
 -- Page 173, Offset 35755.
@@ -214,7 +215,7 @@ I, on the other hand, am in terrible shape.
 // ヒドく, あカく
 My headache is steadily getting w O  Rs e,
  and every time it ramps up,
- the world around me g ro　Ws　re d　De R.
+ the world around me g ro  Ws  re d  De R.
 }
 [sha:4bb17b3478aa984223c33d06a93280970df88495]{
 -- Page 173, Offset 35757. Mods: @n.
@@ -263,13 +264,14 @@ she is most right
 [sha:8e1645f827ed8818a2ab5ef230806ad49b409ead]{
 -- Page 174, Offset 35765.
 -- そいつをたおせばすべてもとどおりなんて、そんな都合のいいはなしはない。
-theres no way it would be that simple　
+theres no way it would be that simple
    defeating her isnt going to magically put everything Back the way it was
 }
 [sha:bda3fa47f81a1a81bbb6f2cc1786103eb88f7e57]{
 -- Page 174, Offset 35766.
 -- あったら、せんぱいはとっくに、ロアをころしてかいほうされているんだから。
-if thats how it worked senpai would have liberated herself by killing roa long ago
+// lint-off:LintNameMisspellings
+if thats how it worked senpai would have liberated herself by killing roa ages ago
 }
 [sha:a89ad74b32115920e9bcc1196fe6cf1d1b4a1871]{
 -- Page 175, Offset 35767.
@@ -284,7 +286,8 @@ i think about the people back at the mansion
 [sha:f26f3eb65170732a81dfe0a43945bceac8d3745e]{
 -- Page 175, Offset 35769.
 -- あきは、ひすい、こはくさん。
-akiha   hisui   kohaku-san.
+// lint-off:LintNameMisspellings
+akiha   hisui   kohaku-san
 }
 [sha:88c9d974f35dfc56fbab99c984ed286cdbd354c8]{
 -- Page 175, Offset 35770.
@@ -299,7 +302,7 @@ actually they might be even happier without me
 [sha:473fbd50c13c0b4cde7c0f492e727724323f17e8]{
 -- Page 176, Offset 35772.
 -- お姫さまのこともかんがえる。
-i think about the Princess too.
+i think about the Princess too
 }
 [sha:7f6b2955519cb5e7b54dd721eb1c86081728ae30]{
 -- Page 176, Offset 35773.
@@ -309,7 +312,7 @@ i wonder how things wouldve turned out if we had Met differently
 [sha:b40b56cb4c8cc9b548eba25041c3762b08c58e5d]{
 -- Page 176, Offset 35774.
 -- まじぼれしてたかな。してたかもな。
-i really was in love i guess　 yeah i guess so
+i really was in love i guess   yeah i guess so
 }
 [sha:517f5b69cbfe1c471959948dfa10fb1bb461c2c3]{
 -- Page 176, Offset 35775.
@@ -323,7 +326,7 @@ what if she was practically forced to be happy
    what if i could laugh with her from the bottom of my heart
    please god grant me that what if
 }
-[sha:95c3a270853ef8321522a765c321df5bda3439fd]{
+[offset:35777]{
 -- Page 177, Offset 35777.
 -- ―――ああ。
 ―――%{i}ahh%{/i}
@@ -331,7 +334,7 @@ what if she was practically forced to be happy
 [sha:022d6489f9b47604441e8951872e789053eff670]{
 -- Page 177, Offset 35778.
 -- それにしても、頭がいたい。
-i cant believe how much my Head hurts.
+i cant believe how much my Head hurts
 }
 [sha:f3d4e77f10c1fd4dbd45427eb63c8fcfd77a9acf]{
 -- Page 178, Offset 35779.
@@ -346,7 +349,8 @@ im sorry senpai
 [sha:b12dfd5cff60830a53bea6ca9977e60476dfa602]{
 -- Page 178, Offset 35781.
 -- のえるせんせいとは、せんぱいがカタをつけなくちゃいけないって、じつはわりときづいてました。
-to be honest i knew that you shouldve been the one to settle the score with noel-sensei
+// lint-off:LintNameMisspellings
+to be honest i knew that you shouldve been the one to settle the score with noel sensei
 }
 [sha:cb79b8c9251e1fea72ca1cc9ea7ea5ed61a513a9]{
 -- Page 179, Offset 35782.
@@ -376,7 +380,7 @@ but before i go theres one more evildoer that i need to eliminate
 [sha:f0087fbe04a9c756927779f493f112bccee5802a]{
 -- Page 180, Offset 35787.
 -- 目がさめたとき、ほめてくれるとうれしいです。
-i hope youll praise me for this when you finally wake up　
+i hope youll praise me for this when you finally wake up
 }
 [sha:8a6e8d97812fcb6423486711fa107f149611fc2f]{
 -- Page 180, Offset 35788.
