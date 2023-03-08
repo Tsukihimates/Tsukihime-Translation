@@ -762,14 +762,15 @@ Her experience tells her that Ciel isn't lying;
 [sha:512a1ed8d6426726d0d1ff116b6d31e3f8396b84]{
 -- Page 319, Offset 39288.
 -- で、そんなご大層な武器はどこにあるの？　もしかしてその杭打ち機、戦車にでも変形するの？」
-So, where is this grand weapon of yours exactly? Is that pile bunker of yours going to transform into a tank or something?"
+So, where is this grand weapon of yours exactly?
+ Is that pile bunker going to transform into a tank or something?"
 }
 [sha:14ecfc98d7dec655f31c91959cd7e46aa2392cc6]{
 -- Page 320, Offset 39289.
 -- 「まさか。武器なんて必要ありません。貴女を殺すのは貴女自身ですよ、アルクェイド」
 "Goodness no.
  I don't need a weapon.
- The one who'll be killing you is yourself, Arcueid."
+ The one who'll be killing you is %{i}you%{/i}, Arcueid."
 }
 [sha:c17ee0625796526a296bae729b44eb95656f5153]{
 -- Page 320, Offset 39290.
@@ -951,7 +952,7 @@ Her body begins to rise, as if to push back against the wall of light.
 [sha:cc9edd5c77f8dc7d5532088394272bc39ae47d8f]{
 -- Page 331, Offset 39322.
 -- ですから、トドメを刺すのは貴女の仕事です」
-That's why it's your job to deliver the finishing blow."
+That's why it's %{i}your%{/i} job to deliver the finishing blow."
 }
 [sha:5d631305fe85b050fba007113d99888b063f126c]{
 -- Page 331, Offset 39323.
@@ -1049,13 +1050,13 @@ taught her all about it.
 -- けれどこの形式での消滅は知らない。未知のものは恐ろしい。いや、違う。正確には知っている。そうなればどうなるか、彼女は無意識で恐れている。
 But she has never known this kind of annihilation.
  She's filled by that fear of the unknown.
- No, that's not right.
- In truth, she does know.
+ No, that's not right――in truth, she does know.
  Deep inside her mind, she fears what will happen if she is destroyed.
 }
 [sha:5743f1ca76df36abb051302980aa20f0f1267357]{
 -- Page 337, Offset 39340. Mods: @n.
 -- 「や、め―――それ、こわい。きっといたくて、
+// Manually linebroken across @n
 "Stop... it... I'm... scared. It'll definitely
 }
 [sha:397e1f43b09bd3b7cdae71c1d58ad192154a32f9]{
