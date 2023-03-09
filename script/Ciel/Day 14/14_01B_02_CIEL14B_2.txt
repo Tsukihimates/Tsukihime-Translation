@@ -1,22 +1,25 @@
 [sha:460681f5a8ce4efccc141c4318a64d8bc910d27a]{
 -- Page 10000, Offset 39347.
 -- 「ハァ……ハァ……ハ―――ア」
-"Hah... hah... ha―――h"
+"%{i}Hah%{/i}... %{i}hah%{/i}... %{i}ha%{/i}――%{i}ah%{/i}"
 }
 [sha:a92c0ea682427d9a6070562a7bfec201858628ed]{
 -- Page 10000, Offset 39348.
 -- 全身で呼吸をしながら、シエルは倒れようとする自身の体を押しとどめた。
-As Ciel breathes with her entire body, she holds her body back from the brink of collapse.
+Ciel, her body on the brink of collapse, steadies herself as she struggles to catch her breath.
 }
 [sha:c27f418549587bad650e811d374c2dd5559ac609]{
 -- Page 10000, Offset 39349.
 -- ここで座りこんでしまったら立ち上がれない。本当にすべてを使いきったからだ。
-If she takes a seat now, she won't be able to get back up. After all, she truly used up everything that she had.
+If she were to sit down now, she wouldn't be able to get back up.
+ She really did use up everything she had.
 }
 [sha:b013b690b3349fc23392350aae85d4841f6f1f03]{
 -- Page 1, Offset 39350.
 -- 体力、精神力、魔力は言うに及ばず、秘匿していたヴローヴの原理血戒も、３年かけて溜め込んだ<断頭台|カルヴァリア>の為の血液も、この戦いで出し尽くした。
-Not to mention her stamina, willpower, magical energy, the concealed Hemonomic Principle of Vlov, and the three years worth of blood she saved to use Calvaria were all exhausted during the battle.
+Naturally, that includes her stamina, willpower, and magical energy,
+ but this battle also cost her Vlov's Hemonomic Principle, which she'd secretly been holding on to,
+ as well as the blood she'd been saving up over the past three years to power Calvaria.
 }
 [sha:5baa62c7ca59bda84beb0284b3258dd59541fb76]{
 -- Page 2, Offset 39351.
@@ -26,72 +29,89 @@ Ciel has run out of strength.
 [sha:803059a59bbd9dcea45dee489380938ff254bf7a]{
 -- Page 2, Offset 39352.
 -- 通常であればここで倒れてしまいたいが、今はまだ、あと少しだけ走らなければならない理由があった。
-Under normal circumstances, she would have fallen by now, but there was a reason she still needed to run for a little longer.
+Under normal circumstances, she'd love nothing more than to just collapse,
+ but there's a reason she has to keep on running just a little longer.
 }
 [sha:bb56678e058f5848f117350bb027961aada842f3]{
 -- Page 3, Offset 39353.
--- 「学校―――学校に、急がない、と―――」
-"The school―――I have... to go back... to the school―――"
+-- 「学校―――学校に、急がない、と
+"The school――I need... to get back there... immediately―――"
 }
 [sha:ab42e4125e0d74f2b778aba852c587c383963c55]{
 -- Page 3, Offset 39354.
 -- 休む事はできない。
-This wasn't the time to rest.
+She can't afford to rest.
 }
 [sha:12b6841442e047dba0fcfb1b8ac175f03d43666e]{
 -- Page 3, Offset 39355.
 -- けれど１分、１分だけでも立ち止まらないと走る事さえできない自分を、シエルは苦渋の<表|か><情|お>で受け入れる。
-But with a bitter expression, Ciel understood that she won't even be able to run without standing still for a good minute at the very least.
+But despite that,
+ Ciel reluctantly accepts that if she doesn't stand still for a minute――
+just one minute――
+she won't even be able to run.
 }
 [sha:37eb40d774044961a18dda0a068e4b6c741154a9]{
 -- Page 4, Offset 39356.
 -- 「はぁ……はぁ……は……」
-"Hah... hah... ha..."
+"%{i}Hah%{/i}... %{i}hah%{/i}... %{i}ha%{/i}..."
 }
 [sha:dc4df8a13823eb30dd8909a20cd9642d38b265e0]{
 -- Page 4, Offset 39357.
 -- 心臓は悲鳴をあげているが、肺が膨張し、収縮するごとに全身が歓喜する。ミリ単位で筋肉繊維が繋がっていき、血液に酸素が送りこまれる。
-Although her heart screams, her entire body feels joy each time her lungs expands and contracts. Her muscle fibers connect millimter by millimter, and oxygen pumps into her blood.
+// Assuming the 心臓の悲鳴 is metaphorical
+Although her heart is screaming at her, the rest of her body rejoices every time her lungs expand and contract.
+ Her muscle fibers knit themselves back together millimeter by millimeter,
+ and oxygen slowly but steadily diffuses into her blood.
 }
 [sha:90fc2f1d0b59a433469cee4822d5043bfe10c3c0]{
 -- Page 4, Offset 39358.
 -- 肩を激しく上下させながら、シエルは自分が生き残っている事をようやく実感した。
-As her shoulders rises and falls with great intensity, she finally realizes that she is indeed alive and kicking.
+// 肩を上下させる localized
+As her chest rises and falls with each laboured breath,
+ it finally hits her that she's still alive.
 }
 [sha:d1f7208c87ab11736ca41dcb7bb0293769974a21]{
 -- Page 5, Offset 39359.
 -- 「はは……やった、やってやりました、こんちくしょう……！」
-"Haha... I did it, I actually did it. Take that...!"
+// Dare we add... profanity?
+// Feel like we can't go overboard for Ciel though
+"%{i}Haha%{/i}... I did it... I actually did it! Take that, you bitch!"
 }
 [sha:40f90e323a0a0646052b2c6911ff648cd7e3f5a3]{
 -- Page 5, Offset 39360.
 -- 断頭台が落ち、何事もなかったかのように“元の形”に戻った街の上で、シエルは自分の無謀さを笑い飛ばす。
-Ciel laughs at her own recklessness after having dropped the guillotine and returning the city to its 'original form' as if nothing had happened.
+Standing amid the city,
+ which has gone right back to it's 'original form' after the guillotine dropped,
+ Ciel laughs at her own recklessness.
 }
 [sha:779168a28f1bf671cf3d01c0ad3d6d3c668fc99f]{
 -- Page 6, Offset 39361.
 -- この王手まで辿り着いた。
-She had finally reached her goal.
+// Technically just check, not mate, but less clear of an idiom without it imo
+She has finally pulled off a checkmate.
 }
 [sha:e739be3eb97f6536aa29aaf4741cec50e1c29319]{
 -- Page 6, Offset 39362.
 -- 誰も為し得なかった、『真祖の王族の撃退』に成功した。
-She succeeded in 'Repelling the True Ancestor Royalty', which no one had been able to accomplish.
+She has successfully repelled True Ancestor royalty,
+ a feat nobody else could have accomplished.
 }
 [sha:cbb4c5a1fd57d46891660b8edb5f86e4e7d49dfe]{
 -- Page 6, Offset 39363.
 -- 疲れきっていた胸に充足感が湧き上がる。
-A feeling of self-satisfaction fills up her exhausted heart.
+A sense of accomplishment wells up within her exhausted heart.
 }
 [sha:97a11acd1e3cb4816d89efe61ea52a6ae7e770e5]{
 -- Page 6, Offset 39364.
 -- 比較的平和主義者なシエルであっても、この<戦闘記録|バトルレコード>はとんでもない偉業だった。
-Even for a relatively passive person like Ciel, a battle record like this was an extraordinary accomplishment.
+Even for Ciel,
+ someone who's more of a pacifist all things considered,
+ a battle record like this constitutes something to write home about.
 }
 [sha:3aa1b72437ec006c0f02822c307bc6b80ad9762b]{
 -- Page 6, Offset 39365.
 -- もし目の前に志貴がいれば、喜びから抱きついてしまうぐらいに。
-If Shiki had been there to witness it, she would have immediately hugged him out of joy.
+If Shiki had been there, she'd probably have hugged him out of joy.
 }
 [sha:83144220ea914e566639a1c86f9e9ad3cefba103]{
 -- Page 7, Offset 39366.
@@ -101,22 +121,25 @@ If Shiki had been there to witness it, she would have immediately hugged him out
 [sha:c1cd032358063b7dcda6ec14350094444135d1c7]{
 -- Page 7, Offset 39367.
 -- 世界は内側に<裏返|うらがえ>ろうとしたが、これで正しく外側に切り返す。
-The world may have inverted, but with this, it will return back to the outside like normal.
+The world may have been about to turn itself inside out,
+ but with this, everything has been restored to its right place.
 }
 [sha:4ad0bd4a5d63e51d7e4223986dc1c0ec54f49f39]{
 -- Page 7, Offset 39368.
 -- 事象収納の原因だったアルクェイドが消えたのだから、すぐに元に戻る筈だ。
-The cause of the Event Storage, Arcueid, was wiped away, so things should go back to where it was soon enough.
+Since Arcueid――the cause of the Event Storage――has disappeared,
+ it makes sense to her that things should soon return to normal.
 }
 [sha:84461dbce2b81e4e948ccc142594246892044c93]{
 -- Page 8, Offset 39369.
 -- ……だが、彼女はまだ気付かない。
-...But she still hadn't realized.
+However... there's something she has yet to notice.
 }
 [sha:6343dd5079f2f4359b856605ce4bf19bbc165f41]{
 -- Page 8, Offset 39370.
 -- 街中に出現していた白亜の城の断片。それが粒子化し、主に還っていくように大地に収束している事に。
-The fragments of the chalk castle reduces itself to particles and gathers back to its source on the land.
+The fragments of the white-walled castle that had appeared throughout the city have turned into particles,
+ and are beginning to converge on the Earth as though returning to their master.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 9, Offset 39371.
@@ -126,12 +149,14 @@ The fragments of the chalk castle reduces itself to particles and gathers back t
 [sha:4bd12e816d7de45b8e9234240456962f5d410f33]{
 -- Page 9, Offset 39372.
 -- 地響きが聞こえた気がした。
-She hears the sounds of rumbling coming from somewhere.
+She could swear she just heard a rumble emanating from deep within the earth.
 }
 [sha:86be1a55a663b48ec88e9682f3733a2eb68a44e8]{
 -- Page 9, Offset 39373.
 -- 硬い硬い、決して外してはいけない錠が壊れる音がした。
-A sound of a cold, hard lock breaking that should never have been removed.
+The sound of a cold, hard padlock――
+one that must never be removed――
+breaking.
 }
 [sha:bf800e7de226ea5bd7ff624eece3a3a328e4e5b4]{
 -- Page 10, Offset 39374.
@@ -141,37 +166,47 @@ The earth shakes. The atmosphere rumbles.
 [sha:06abc87603b6c0dd1d80b07954cd982ad17875e1]{
 -- Page 10, Offset 39375.
 -- 今まで観測された事のない魔力濃度。
-A concentration of magical energy like never seen before.
+The concentration of magical energy is utterly unprecedented.
 }
 [sha:359eed2acf97e335c8b61028d849cd2faf4bb60b]{
 -- Page 10, Offset 39376.
 -- 取りこんだ事象の熱量が極点にまで凝縮していく。
-The heat of the newfound phenomenon condenses to its peak.
+// 極点 lore term
+The heat of this novel phenomenon is condensing down to a single focality.
 }
 [sha:b6510739f09f863c347ef12be9fb99340681305d]{
 -- Page 11, Offset 39377.
 -- それは、言ってみれば原理の種だった。
-In a matter of speaking, it is a type of Principle.
+In a sense, it is the seed of a Principle.
 }
 [sha:37f4616ea0c8cbf5176b0dae501a688936215e64]{
 -- Page 11, Offset 39378.
 -- 10のマイナス35乗メートルの極点に圧縮された、この領域の全情報。
-All the information in this area is compressed into a single point of 10⁻³⁵ meters in diameter.
+// You know shit is getting serious when you drop some EXPONENTS
+// Credit though for getting the Planck length correct though, unless that's just coincidence
+// Game doesn't support any kind of normal exponent rendering (naturally) so added a custom glyph for ^-35
+// 極点 -> focality
+All of the information in this area has been compressed down to a single focality measuring just 10%{e_35} meters in diameter.
 }
 [sha:ad11066ff572807f9b39832d3884b8bd696f13bd]{
 -- Page 11, Offset 39379.
 -- 星の内海、概念次元にあるかぎりは何の異常も呼び起こさない天体の卵。
-The Inner-sea of the Planet; a Celestial Egg that raises no abnormalities for as long at it's within a conceptual dimension.
+// E G G
+The Inner-sea of the Planet;
+ a Celestial Egg that induces no abnormalities so long at it remains within the conceptual dimension.
 }
 [sha:1ffaec3647d06e88585b30fdba23eb06d82a1302]{
 -- Page 11, Offset 39380.
 -- だが、それが物質として出現してしまった時、膨大なエネルギーは極点では抑えきれなくなり、急速に膨張する。
-But once it manifests as matter, the vast amount of energy cannot be contained at its peak and rapidly expands.
+But as soon as it manifests in the physical world,
+ its boundless energy becomes unstable,
+ and rapidly expands from that focality.
 }
 [sha:2f71e4556b19b6f14e734c1f9b39d263342548a7]{
 -- Page 12, Offset 39381.
 -- 天文学において<膨張現象|インフレーション>と呼ばれる、
-In astronomy terms, it is something known as Inflation.
+// Tweaking this to be 'big bang' for the same reasons I did in 1G
+In astronomy, such an event is referred to as a Big Bang.
 }
 [sha:a88d7fd7790f8d90ac03c23453b6f2888d9c3451]{
 -- Page 12, Offset 39382.
@@ -181,17 +216,19 @@ A phenomenon that marks the start of a universe.
 [sha:fc0d63a951bd924305f13f34e2fdb4d8285b816a]{
 -- Page 12, Offset 39383.
 -- 極小ではあるがそれに類似したモノが、この領域で起きようとしている―――！
-Although miniscule in scale, something very similar is about to begin right here in this region―――!
+// 領域 kinda sucks, so unless we try and formalize it, munging it to just be the city
+Something similar, though on a much smaller scale, is about to take place in this very city―――!
 }
 [sha:cc594881505b2f74d04772e8c3f9345a6ca64634]{
 -- Page 13, Offset 39384.
 -- 「“aa―――aaa―――aaaaa”」
-"aa―――aaa―――aaaaa"
+// Very faint aspiration
+"%{i}ah%{/i}... %{i}aah%{/i}... %{i}aahhh%{/i}..."
 }
 [sha:cde410b6599fdae7ce87dc97bdaf7cb9c801b669]{
 -- Page 14, Offset 39385.
 -- 「そん、な―――」
-"No way―――"
+"No... way―――"
 }
 [sha:7e12b1b5fa1f9e2244eb9350e8d4468be00e0e9e]{
 -- Page 14, Offset 39386.
@@ -201,22 +238,23 @@ It's as if the sun had fallen.
 [sha:ddd6de1ebc3cb0f2e31306d2b8df028030874392]{
 -- Page 14, Offset 39387.
 -- それは硬く、柔らかく、冷たく、温かな光だった。
-It was a light that was hard, soft, cold, and hot at the same time.
+It was a light that was hard, soft, cold, and hot all at the same time.
 }
 [sha:68ae08388d4ff08aeb07c4e5cd3731bbeff94e1f]{
 -- Page 14, Offset 39388.
 -- 物質化した神話の<容器|すがた>。
-A materialized vessel of a myth.
+The vessel of a myth made manifest.
 }
 [sha:9af1f12555d1ee93352089b46e5f87529ecee290]{
 -- Page 14, Offset 39389.
 -- 理性を壊され、狂気さえ壊された彼女が立ち返った原初の一。
-The Original One, to which she returned back to after her reason, and even her madness were destroyed.
+The Original One,
+ to which she returned after her reason, along with her madness, were destroyed.
 }
 [sha:b05a7f01c2b602ed69523c9749a68ba37723949d]{
 -- Page 15, Offset 39390.
 -- 「“aa―――aaア―――アha、aaaaaaaaa―――”」
-"aa―――aaa―――aha, aaaaaaaa―――"
+"%{i}aa%{/i}... %{i}aaA%{/i}... %{i}Aha%{/i}... %{i}ahahaha%{/i}..."
 }
 [sha:237d69403955087417919ce0b2b17866caa65daf]{
 -- Page 16, Offset 39391.
@@ -231,7 +269,7 @@ The manifestation ritual is complete.
 [sha:f836fa7ce17a6ebbe33f0b4ddf92e19239d6e929]{
 -- Page 16, Offset 39393.
 -- 指向性のないエネルギーが、一つのイメージの下、人間にも理解できる現象に変わっていく。
-The directionless energy is transformed into a phenomenon that even humans can comprehend under a single image.
+The directionless energy transforms into a phenomenon that even humans can comprehend at a glance.
 }
 [sha:f21ec41372c7f8e14d31fce2f1ff702c741acbee]{
 -- Page 17, Offset 39394.
@@ -241,12 +279,13 @@ The directionless energy is transformed into a phenomenon that even humans can c
 [sha:593ff8159566ab5d72e20faa4d8ba16666587694]{
 -- Page 17, Offset 39395.
 -- さっきまでのは、まだ正常だった、なんて」
-You're telling me that wasn't her full strength back then?"
+You're telling me... that wasn't her full strength back then?"
 }
 [sha:098ec1b28b35f3241dba3e24c301d84231318c89]{
 -- Page 18, Offset 39396.
 -- 太陽のままならまだ良かったのに、とシエルは思った。
-Ciel thought to herself that it would have been great if only her opponent had remained as something like the sun.
+// Referring to 39386?
+Ciel wishes to herself that her opponent had remained as something akin to the sun.
 }
 [sha:cdfcdaf50ddf6934e8a0cd65566167100a75a163]{
 -- Page 18, Offset 39397.
@@ -256,32 +295,37 @@ The highest being that humans can understand is none other than God himself―�
 [sha:d25ce95a9282c058b236ad24af12f0e23bfe92aa]{
 -- Page 18, Offset 39398.
 -- 顕れた化身は、もう生命と呼べない“何か”だった。
-But this 'thing' is a materialized avatar that could no longer be considered a part of existence.
+But this manifestation of the avatar is something entirely divorced from the concept of 'life'.
 }
 [sha:8271da6691febe6e398e2d238a3e6f8defaf8f1d]{
 -- Page 19, Offset 39399.
 -- 「あれだけ見境をなくしていて、まだ暴走していなかったんですか、貴女は……!?」
-"Even with how indiscriminate you were, you're telling me that you were still holding back your true power...?!"
+// 暴走 supposed to be 'fallen' here or just 'stirring up a REAL shitstorm'?
+"Are you seriously saying that even after that indiscriminate display,
+ you %{i}still%{/i} haven't actually fallen?!"
 }
 [sha:e46b3bbd0ff8911d09299a79ebcd4bca1b08f836]{
 -- Page 20, Offset 39400.
 -- その威容を前にして、代行者は為す術なく立ち<竦|すく>んでいる。
-In the face of this majestic beauty, the Executor couldn't help but watch in awe.
+The Executor is petrified by awe in the face of this majestic sight.
 }
 [sha:d435d05d39769c9ff0875b24f8a087d37657e748]{
 -- Page 20, Offset 39401.
 -- 戦意など湧きようがない。
-There is no semblance of fighting spirit.
+There isn't any fight left in her at all.
 }
 [sha:7c28804324efe678c471717c378e7be4d404644b]{
 -- Page 20, Offset 39402.
 -- 体力も尽き、戦術も使い果たし、最後の武器である闘志すら吹き飛ばされた。
-Her stamina is drained, her battle plans have been exhausted, and even her will to fight has been blown away.
+Her stamina is drained,
+ she's out of strategies,
+ and even her final weapon――her will to fight――has been blown away.
 }
 [sha:3e202dd0563e259f9d67d4cdb09a7e9b1613d2a6]{
 -- Page 20, Offset 39403.
 -- その聡明さ故に、彼女は、この現象を正しく理解してしまったのだから。
-As a consequence of her wisdom, she is able to fully perceive the phenomenon in front of her.
+Thanks to her knowledge,
+ she is able to correctly intuit what the phenomenon before her truly is.
 }
 [sha:3d0e41b03fa0ab2abc201ac9e2d8dd35eff02702]{
 -- Page 21, Offset 39404.
@@ -291,155 +335,175 @@ As a consequence of her wisdom, she is able to fully perceive the phenomenon in 
 [sha:dcda7a3c36a3a7492308c42a1b07f894a5ecb850]{
 -- Page 21, Offset 39405.
 -- 危険を察したが、手足は凍りついたように動かない。
-Although she sensed the danger, her legs are stiff and unable to move.
+Even though she can sense the danger,
+ her limbs are frozen in place.
 }
 [sha:5d245c13ae04f79bc66b0878e3802291c80fa27d]{
 -- Page 21, Offset 39406.
 -- それがこの現象の持つ魔眼―――その視界に入った時点で知性あるものは喪心する―――である事を、シエルは誰に教えられる事なく理解した。
-It is the result of this phenomenon's Mystic Eyes―――An intelligent being becomes petrified the moment it enters its field of vision―――Ciel understood that without needing anyone to explain it to her.
+Ciel can tell that it's the result of this phenomenon's Mystic Eyes――
+that they're capable of petrifying any intelligent beings that come within their purview――
+without having to be told.
 }
 [sha:23e489f387c9b1aa76b41a969b36d32a5045f416]{
 -- Page 22, Offset 39407.
 -- そも、教会とは、宗教とは、<こ|・><の|・><よ|・><う|・><な|・><も|・><の|・>に隷属する為に生まれた知的活動の<行き止まり|ゴ　ー　ル>。
-For starters, churches and religions were born in order to reach the goal of being subordinated by such a being.
+After all,
+ the Church and other organized religions are all intellectual dead-ends with the goal of being subordinated by a %{i}being%{/i} such as this.
 }
 [sha:f9e19f6adbabb47fdc874c5a03beff2617fbf17a]{
 -- Page 22, Offset 39408.
 -- その教えを力にしてきた彼女に、抗える道理はない。
-For someone like her who derived strength from such teachings, there was no reason to resist.
+For someone like her, who derives her strength from those teachings, there is no reason to resist.
 }
 [sha:65d7303d44b737c5d8bb365e7e9219de04157b8f]{
 -- Page 23, Offset 39409.
 -- 「だめ―――はな、れ、ない、と―――」
-"No―――I have to go―――"
+"No――I... have... to... go―――"
 }
 [sha:79cce85b9fed0ffc5ac87cb3bc24afefc712d991]{
 -- Page 23, Offset 39410.
 -- シエルは思考放棄の喪心に陥りつつも、歯を食いしばって、ヒトとしての意識を保とうと努力した。
-Despite Ciel falling into a state of abandoned thought, she grits her teeth, desperately trying to hold on to her consciousness as a human being.
+Even as she begins to slip into a stultifying stupor,
+ Ciel grits her teeth and strives as hard as she can to cling to her consciousness as a human being,
 }
 [sha:817967b422991cabe2b13c5933618bbf676ea7cb]{
 -- Page 24, Offset 39411.
 -- だが、もう何もかも手遅れだ。
-But it was far too late for any of that.
+But at this point, it's too late to resist.
 }
 [sha:781a8c80649e260ccf2f18ef8e6a58f407564d71]{
 -- Page 24, Offset 39412.
 -- “動くもの”は、ソレに見つめられるだけで精神を固定され、肉体を束縛され、生命活動を掌握される。
-Anything that moves will have their mind frozen, their body shackled, and their activities seized from just a simple gaze.
+Simply being subject to their gaze is enough to freeze the mind,
+ shackle the body,
+ and wrap an iron grip around the vital activities of anything that moves.
 }
 [sha:88db19a050439f28ff73e9e4048966d4f6b97c0b]{
 -- Page 24, Offset 39413.
 -- そもそも、その小さな命はとっくに、
-Not to mention her tiny lifeform has already...
+// Snipping this and shuffling some of it across the gap to 39415.
+And besides―――
 }
 [sha:d816d2048ddded96a6e4f7768ef8b97017810c2d]{
 -- Page 25, Offset 39414.
 -- 「っ、ァ―――！」
-"Kh, ah―――!"
+"%{i}Kh%{/i}, %{i}ah%{/i}―――!"
 }
 [sha:2b5295a9bfc7403252dbbb6ffbb2b4fde5c3987a]{
 -- Page 25, Offset 39415.
 -- “彼女”の手に、囚われていたのだから。
-She had already been caught by 'her' hand.
+That tiny lifeform has already been plucked by 'her' hand.
 }
 [sha:35fbea86350e2add0a4d9dae3803218d7d2bb81d]{
 -- Page 26, Offset 39416.
 -- 肉を焼く高温に包まれ、シエルの口から苦痛がもれる。
-Ciel's flesh is burned by its extreme heat, and agony escapes from her lips.
+A scream of agony escapes Ciel's lips as her flesh is burned by the extreme heat.
 }
 [sha:564d506d025255f1bbca2c537023e31cea94dd20]{
 -- Page 26, Offset 39417.
 -- 「ァ―――ア、あぐ、っ………！」
-"Ah―――ah, agh, kh...!"
+"%{i}Ah%{/i}――%{i}ah%{/i}, %{i}agh%{/i}, %{i}kh%{/i}...!"
 }
 [sha:b7de0d1f56422badee3df8fedc894098809ee122]{
 -- Page 26, Offset 39418.
 -- 苦痛は高温から重圧に。
-The pain comes from the extreme temperatures down to the heavy pressure.
+An agony of everything from extreme pressure to extreme temperature.
 }
 [sha:413c03b059507fada65c79276c164a8d0d5de9e0]{
 -- Page 26, Offset 39419.
 -- 光は質量を持つ柱と化してシエルを拘束し、圧迫し、握りしめる。
-The light transformed into a pillar of mass that restricts, pressures, and grasps Ciel.
+The light transforms into a tangible pillar that restrains and pressures Ciel with its vice-like grip.
 }
 [sha:f99ed956a701968b389fc33c743db07d0c80a3d4]{
 -- Page 27, Offset 39420.
 -- 「“つかまえた。
-"I caught you.
+"Gotcha.
 }
 [sha:f1af7d2e7839372ecc7fa8720a599b1985da4cf2]{
 -- Page 27, Offset 39421.
 -- さわってみると柔らかいのね、ニンゲンって”」
-A human being really is soft, isn't it?"
+Humans really are soft, aren't they?"
 }
 [sha:5090f6375ee0ae2eb0466a17a3207fd8a9526f32]{
 -- Page 28, Offset 39422.
 -- 「アル……クェイド……！」
-"Ar... cueid...!"
+"Ar... cueid!"
 }
 [sha:54e18b25c9df31182318a599e49bb450efd50502]{
 -- Page 28, Offset 39423.
 -- 必死にもがき、抵抗しても拘束は解けない。一ミリも押し返せない。
-Struggling frantically, she is unable to release herself from the restraint. She cannot push back by even a single millimter.
+Ciel isn't able to slip from her restraints, no matter how hard she struggles to resist.
+ They don't even budge so much as a millimeter.
 }
 [sha:470cc342e490a81f8be3317386c89faa2c9321df]{
 -- Page 29, Offset 39424.
 -- シエルを閉じこめたまま光の檻は上昇していく。
-As she is restrained, the cage of light rises.
+With Ciel trapped in its clutches,
+ the cage of light begins to rise.
 }
 [sha:1646c347e1619d2618535c9c321f836fa0585774]{
 -- Page 29, Offset 39425.
 -- 街灯を越え、ビルを越え、中空に停止する。
-It travels past the street lights and the buildings before stopping at the sky.
+It rises past the streetlights,
+ then the buildings,
+ and finally comes to a stop in the sky.
 }
 [sha:ed61515a05506c4ac8ce090df27c0e57ac639a19]{
 -- Page 29, Offset 39426.
 -- ……その、完全に囚われた状態で、外界を見ずともシエルは状況を把握した。
-...Even without looking outside, Ciel understands that she is completely surrounded.
+Still imprisoned,
+ Ciel grasps where she is without even looking at the world around her.
 }
 [sha:571cd946262b41f8bc48b067f44699d95f1b37eb]{
 -- Page 30, Offset 39427.
 -- 地表は収納され、空は完全に、赤い天蓋で閉ざされた。
-The earth's surface is stowed away, and a red canopy closes over the skies in its entirety.
+The earth's surface is stowed away,
+ and a red firmament seals off the entire sky.
 }
 [sha:903e70ee68dc77cbb26e8eecf9a6c3c706017a84]{
 -- Page 30, Offset 39428.
 -- 地中から立ち上がる光の巨人。
-A gigantic being of light stands in the middle of it all.
+A gigantic being of light is rising out of the ground.
 }
 [sha:c7d778846bb42775fe3ae29c24303bd1cfcb9505]{
 -- Page 30, Offset 39429.
 -- ソレは真祖という<規|カ><格|ラ>を見失い、<顕現|そんざい>方法が暴走しただけの力の具現であり―――
-It is the embodiment of power that had lost sight of its shell as a True Ancestor, whose manifestation methods had simply gone berserk―――
+// Maybe this should link with 39399?
+It is something that has lost sight of its guiding light as a True Ancestor――
+a manifestation of raw power that exists for no other purpose than to run wild.
 }
 [sha:fc4b0ec059e51e6e54cc455db563f3896945a59d]{
 -- Page 31, Offset 39430.
 -- 「“ほら―――だから言ったでしょう、シエル？
-"See――Didn't I tell you this, Ciel?
+"I warned, you, didn't I, Ciel?
 }
 [sha:2765e407ab42daf900358b17d697eadc593c9464]{
 -- Page 31, Offset 39431.
 -- やめないと、怖いコトになっちゃうって”」
-That if you don't stop, things would become scary."
+// I don't see any other instances of 怖い on d14 that would match?
+That things would get a little hairy if you didn't stop."
 }
 [sha:f01c6c26e3bad0142a4f6f7519410d7b96842700]{
 -- Page 32, Offset 39432.
 -- 唯一彼女の領域ではなかった、<宙|ソラ>を覆う声がする。
-The only thing outside her domain raises a voice that covers the skies.
+A voice fills the air,
+ the one space that is not part of her domain.
 }
 [sha:137b75480304813e216a2ed78723a6e267e898c0]{
 -- Page 32, Offset 39433.
 -- 脱出しようともがいていた体が、恐怖と絶望で停止する。
-The body that struggled to break free is stopped by the fear and hopelessness.
+The body that had been struggling to break free slumps,
+ stilled by a combination of fear and helplessness.
 }
 [sha:265ce63153ee95fd05c64e9047a61b64d5d13e9c]{
 -- Page 32, Offset 39434.
 -- ……当然だ。人は神に決して敵わない。
-...Of course she stopped. A human being is no match for a God.
+Of course it did...
+ A human being is no match for a God.
 }
 [sha:4a2db60cc895f54af7e6d74ad6f9bbf5c1c11153]{
 -- Page 32, Offset 39435.
 -- それは皮肉にもシエル自身が口にした、絶対的な事実だった。
-Ironic as it is, even that is an absolute truth that Ciel herself preaches of.
+Ironically, such was the doctrine that Ciel herself had preached of.
 }
