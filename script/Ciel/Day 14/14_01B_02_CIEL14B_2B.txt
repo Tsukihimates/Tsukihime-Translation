@@ -506,56 +506,59 @@ Arcueid Brunestud is a 'small and heavy' existence.
 [sha:1786bfae68b866ea7b939e322af6309ac20534db]{
 -- Page 55, Offset 39522. Mods: @n.
 -- アレは活動する際、その出力を
-// Roa loves to linebreak all over the damn place but I am not having it
-// Manually aligned across @n
-Whenever she is active, her powers are always
+// I swear if Roa keeps pulling this linebreak garbage
+%{i}
+Whenever she is active her powers are restricted―――
+%{/i}
 }
 [sha:9fd0700bda2a34180239718ccb3c00bf7a6da863]{
 -- Page 55, Offset 39523. Mods: @n.
 -- “常に相手より一段階上のものに制限する”が、
-restricted such that they remain one step above those
+%{i}
+Locked in such that they are always one step above those of her opponent.
+%{/i}
 }
 [sha:9b180edcf6cf88d9a03c1744350b7cb36b974860]{
 -- Page 55, Offset 39524.
 -- それは万能の表れではない。ただの枷だ』
-of her opponent. But that is no display of omnipotence――it is a muzzle."
+%{i}
+But that is no display of omnipotence――it is a muzzle."
+%{/i}
 }
 [sha:6cd7ec400087b238e34b1e5c1225eeb468e0f66d]{
 -- Page 56, Offset 39525. Mods: @k, @e.
 -- 『彼女から肉体という制限がなくなり、
 // Same for these 3
 %{i}
-"If she loses the body that serves to keep her in
+"If she loses the body that serves to keep her in check―――
 %{/i}
 }
 [sha:64ba1b59d2c4ced91125ce496c91f14f9a07ecdb]{
 -- Page 56, Offset 39526. Mods: @k, @e.
 -- かつ、その精神活動が衰えていない場合、
 %{i}
-check, and her mental activity has not deteriorated,
+And if her mental activity has not deteriorated―――
 %{/i}
 }
 [sha:feb01d101832fe8bbe3acb14a22de5f152bc628c]{
 -- Page 56, Offset 39527.
 -- 力の制御はされなくなる。
 %{i}
-she will cease to be able to control her own power.
+Then she will cease to be able to control her own power.
 %{/i}
 }
 [sha:b9d33680f1c9389cc787a3c579d18ab49860f0ab]{
 -- Page 56, Offset 39528. Mods: @k, @e.
 -- 肉体に秘められていた魔力は拡散し、
-// Another @n duo
 %{i}
-The magical energy she had stored within her body
+The magical energy she had stored within her body would scatter―――
 %{/i}
 }
 [sha:90f92d531366230d08b752773c616455c3e41cef]{
 -- Page 56, Offset 39529.
 -- 地表から引き出すエネルギーに制限はかけられなくなる』
 %{i}
-would scatter,
- and there would be no limit to the amount of energy she could draw from the earth."
+And there would be no limit to the amount of energy she could draw from the earth."
 %{/i}
 }
 [sha:8001ddfd33a02ab50ba3749d71385af3173445cd]{
@@ -568,47 +571,64 @@ would scatter,
 [sha:b208c72223c82cc25cd9c0af0f88f07e7a541f99]{
 -- Page 57, Offset 39531. Mods: @k, @e.
 -- 本来は星の内部に留まっている、
-The 'soul' which is normally stored within a planet,
+%{i}
+The 'soul' that ordinarily resides within the planet―――
+%{/i}
 }
 [sha:34b043cbf46e94ec78568be62a288212a7d0ca8c]{
 -- Page 57, Offset 39532. Mods: @k, @e.
 -- 長く天体を運営する為の“魂”を地表に漏らす、
-and is responsible for operating a celestial body for a long period of time,
+%{i}
+And is responsible for long term operation of the celestial body―――
+%{/i}
 }
 [sha:36691454c0212e990dfd3d64bb48b4c6216be262]{
 -- Page 57, Offset 39533.
 -- あってはならないシステム障害。
-is leaked onto the surface, causing a system failure that shouldn't happen.
+%{i}
+Instead leaks out onto the surface, resulting in a system failure that ought never be allowed to occur.
+%{/i}
 }
 [sha:62506db564de55c77dbcff8a9279e424f1a5ce12]{
 -- Page 57, Offset 39534. Mods: @k, @e.
 -- そうだな。分かりやすく言えば、自然による
-That's right. If I were to put it in simple terms,
+%{i}
+Yes... Simply put:
+%{/i}
 }
 [sha:f8ae0a9439ce2b0d75942a964a53f9a54805aadd]{
 -- Page 57, Offset 39535.
 -- 消費文明への自浄作用……いや、報復機構と思えばいい」
-think of it as a self-purifying effect on consumer civilization through nature... No, as a retribution mechanism."
+%{i}
+It is one of nature's self-correction mechanisms against a consumer civilization...
+ Or rather, a retribution mechanism."
+%{/i}
 }
 [sha:e30f96c1294cafd0081ab48c5007fd2505a2cc2c]{
 -- Page 58, Offset 39536.
 -- 「――――――つまり、その」
-"――――――So in other words, um..."
+"―――So in other words, it's, uh..."
 }
 [sha:cdc15dfda02c403d052a17992855d4c1f9352fa0]{
 -- Page 58, Offset 39537.
 -- 『謝罪する。おまえの知性レベルを考慮していなかった。
+%{i}
 "My apologies. I didn't take your level of intelligence into account.
+%{/i}
 }
 [sha:a0b628765887e09b39792c87edc9a7e1a8068430]{
 -- Page 58, Offset 39538. Mods: @k, @e.
 -- ようは暴走して魔力を垂れ流している、
-In short, wild magical energy is being discharged,
+%{i}
+In short, she is running out of control and overflowing with magical energy―――
+%{/i}
 }
 [sha:4058c9b0d34a54135ee460069fe83cbac143eaeb]{
 -- Page 58, Offset 39539.
 -- 手の付けられないクソッタレな状態、という事だ』
-creating a shitty situation that cannot be controlled."
+%{i}
+An uncontrollable shitstorm, if you will."
+%{/i}
 }
 [sha:fb0a263d4983b057e72e0216272146f5c04f62a6]{
 -- Page 59, Offset 39540.
@@ -618,32 +638,38 @@ creating a shitty situation that cannot be controlled."
 [sha:2b98c6fce956386a1c26dad6df492ced6e3fbb75]{
 -- Page 59, Offset 39541.
 -- そんなの見れば分かるけどな！」
-I can understand that much just from looking!"
+And hey, I can tell that much just by looking at it!"
 }
 [sha:19c54618671fbbb9e287ad57d830d6ef3d0e2b75]{
 -- Page 59, Offset 39542.
 -- そうだ。問題はアルクェイドだけじゃない。
-That's right. The problem isn't just Arcueid.
+Besides, Arcueid isn't the only problem here.
 }
 [sha:26288d60ccc4d5d5a5d68b18cef6309bc5023bae]{
 -- Page 59, Offset 39543.
 -- あの光の中で、シエル先輩はどうなっている―――！？
-What's happening to Ciel-senpai inside of that light―――?!
+What's happening to Ciel-senpai inside that light―――?!
 }
 [sha:df18f8d8a6caa660eb1690d12ff709517a7d32eb]{
 -- Page 60, Offset 39544.
 -- 『まっとうな生き物であれば生きてはいまい。
+%{i}
 "If she were a normal creature, she wouldn't be alive.
+%{/i}
 }
 [sha:3a6809d7947e59b66cdaf58d7535190e640318c7]{
 -- Page 60, Offset 39545.
 -- だがあの女は私がいるかぎり不滅だ。
+%{i}
 But that woman is immortal for as long as I exist.
+%{/i}
 }
 [sha:7866dbe06996d15772370f5ce119cf3a8dc6e7fc]{
 -- Page 60, Offset 39546.
 -- 今も死にながら生きている状況だと考察できる』
-Even now, she is considered alive even while she is dead."
+%{i}
+Even now, as she is dying, you could say she is still alive."
+%{/i}
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 61, Offset 39547.
@@ -653,95 +679,108 @@ Even now, she is considered alive even while she is dead."
 [sha:d984f5f7f7e4df7f95e1416a6a7dedceefcff10e]{
 -- Page 61, Offset 39548.
 -- 理解する前に両脚が動いていた。
-I move my legs before I could fully comprehend what he said.
+My legs are already moving before I'm done processing what he just said.
 }
 [sha:865da27edea72b2d76d2ee47d80630f728893d73]{
 -- Page 61, Offset 39549.
 -- 弾けるように屋上から走り出す。
-I start running away from the rooftop as if I'm being fired away.
+I start running across the rooftop like I've been fired from a gun.
 }
 [sha:30998b27c5e611f8649c9bbee97d9ed0e88674c9]{
 -- Page 62, Offset 39550.
 -- 講釈を聞くのは後でいい。
-I can listen to his explanations later.
+I'll listen to his lecture later.
 }
 [sha:4207560844d3e1ebe8f450d9453617cb79c34892]{
 -- Page 62, Offset 39551.
 -- アレがどんなものなのか分からず、
-Even though I don't know what that thing really is,
+I don't know what that thing is―――
 }
 [sha:930abc1a018fc298677bfcedb6e6e9498caa4730]{
 -- Page 62, Offset 39552.
 -- ただ見ているだけで全身が震えているとしても、
-and as my body trembles from just looking at it,
+And my whole body trembles just looking at it―――
 }
 [sha:8ba6421f3057fedbf0ceb876ec6723879a5f5fd3]{
 -- Page 62, Offset 39553.
 -- ここで立ち惚けている場合じゃない……！
-I can't just stand here and watch...!
+But there's no way in hell I'm going to just stand here and watch!
 }
 [sha:06ce868854a4d01e174c9bb1d8f5349b331623c5]{
 -- Page 63, Offset 39554.
 -- 『あの状態の姫君に近づくのか。
-"So you're approaching the princess even in a situation like this.
+%{i}
+"So you intend to approach the Princess despite her current state.
+%{/i}
 }
 [sha:a454c255e420b0129fe1daecb8421d1de855afa6]{
 -- Page 63, Offset 39555. Mods: @k, @e.
 -- では、同じ思考回路を使うものとして
-Then as someone who shares the same thought process as you,
+%{i}
+Then, as someone who shares the same thought process as you―――
+%{/i}
 }
 [sha:0716fa745ebae2dbd9522f4c8e4afe68c2cea213]{
 -- Page 63, Offset 39556.
 -- 忠告はしておこう。
-allow me to provide words of caution.
+%{i}
+Allow me to offer some advice.
+%{/i}
 }
 [sha:b7b8deae5a62ec6ada0a9fcb0b0257d23287eb98]{
 -- Page 63, Offset 39557.
 -- ―――もしや、と思ってはいたが。
-―――I've been thinking about this for a while.
+%{i}
+I'm sure this isn't the case, but...
+%{/i}
 }
 [sha:493d41496e8bca963e9749c57abb1da8116652a2]{
 -- Page 63, Offset 39558.
 -- おまえ、自殺が趣味だったのか？』
-But is suicide some kind of hobby of yours?"
+// Got em
+%{i}
+Is suicide a hobby of yours or something?"
+%{/i}
 }
 [sha:d54ab1deb3be5b5aedac784e0517cde0a6a90310]{
 -- Page 63, Offset 39559.
 -- 「余計なお世話だ、16回も死んでるヤツは黙ってろ！」
-"That's none of your concern. A guy like you who's died sixteen times should shut their mouth!"
+"That's pretty rich coming from the guy who's died sixteen times!"
 }
 [sha:5aa5a9067e9679b75725c14b717d8a9f24072c35]{
 -- Page 64, Offset 39560.
 -- 姿のない隣人に言い返して、屋上から飛び降りる。
-I talk back to the person next to me without an appearance and jump down the rooftop.
+I fire a retort at my invisible counterpart and launch myself off the roof.
 }
 [sha:716a2645dda3795a2a4ee08a6f28f08fd8dafb33]{
 -- Page 64, Offset 39561.
 -- この高さから着地しても体には何の支障もない。
-Even landing from such a height doesn't harm my body in any form.
+Even falling from that height doesn't pose a problem for my body.
 }
 [sha:0a9ba388d94266f9f114ae44b95d1c34091d821b]{
 -- Page 64, Offset 39562.
 -- ……おぞましい。
-...How disgusting.
+Disgusting...
 }
 [sha:db34aec59b458392498b81696abe7e9874831177]{
 -- Page 64, Offset 39563.
 -- まっとうな生命から外れてしまった気持ちの悪さに吐き気がする。
-I feel nauseous from realizing I'm far removed from being normal lifeform.
+I feel sick at how freakishly far removed I am from any ordinary lifeform.
 }
 [sha:eec057ac205c7d3c7946628e5f1371d40fe2800b]{
 -- Page 65, Offset 39564.
 -- だが、今はこの嫌悪感も受け入れる。
-But right now, I'll accept those feelings of disgust.
+But right now, I'll take those feelings of disgust.
 }
 [sha:e7a6a253f706c402186bdaba8003dd5a5a263fcf]{
 -- Page 65, Offset 39565.
 -- 頭の隅にいる<他|ロ><人|ア>も、吸血鬼に成ろうとしている<身体|じぶん>も、死を視る<己|こ>の異常も、すべて有効活用する。
-I'll make the most out of everything, including Roa in the corner of my mind, the fact that I'm turning into a vampire, and my disorder that allows me to see death.
+The intruder lurking in the corner of my mind,
+ the fact that my body is turning into that of a vampire,
+ the abnormality that allows me to see death――I'll take them all, and put them to use.
 }
 [sha:c4ccfef69eb9c0fdcd81876d363d78bfdafd27f6]{
 -- Page 65, Offset 39566.
 -- 今から俺は、そうしなければどうにもならないモノから、シエル先輩を取り返すんだから―――！
-After all, it allows me to take Ciel-senpai back from something that I wouldn't have been able to otherwise―――!
+I have to, if I want to stand any chance of taking Ciel-senpai back from that %{i}thing%{/i}―――!
 }
