@@ -165,7 +165,7 @@ This man is the only person I can talk to.
 [sha:8c32c1062e641d733d814f49e3cbe3e0185dfa56]{
 -- Page 576, Offset 34923.
 -- せっかくのクリスマスなのに、街で一番の<ケーキ屋|パティスリー>が閉まっているなんて、ちょっとがっかりだな」
-It's a real shame that the best pâtisserie in town isn't open,
+It's a real shame that the best <pâtisserie|c a k e   s h o p   >  in town isn't open,
  especially since it's the Christmas season."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -181,8 +181,8 @@ Hearing him say that ruins my mood a bit too.
 [sha:a57e7df766636946f4888bd3ec68418616764386]{
 -- Page 577, Offset 34926.
 -- 最近は<ケ|ガ><ー|ト><キ|ー>も始めたので彼は勘違いしているが、メインストリートの端にあるアルルカンは老舗の<パン屋|ブーランジェリー>だ。
-They branched out into gâteaux recently, which explains his confusion,
- but the shop at the end of the road named Arlequin is actually a long-established boulangerie.
+They branched out into <gâteaux|c a k e   > recently, which explains his confusion,
+ but the shop at the end of the road named Arlequin is actually a long-established <boulangerie|b a k e r y   >.
 }
 [sha:ca2f2c195b440d021fe61c1889a34b22083196f3]{
 -- Page 577, Offset 34927.
@@ -230,7 +230,7 @@ I mean, I always see her chatting away with him oh-so-happily on the main street
 "Then again, Arlequin isn't the only place that's been out of sorts recently.
  It feels like there's something off about the whole town.
  There have been a lot more disturbing incidents as of late,
- and it's eerily quiet at night, don't you think?
+ and it's eerily quiet out at night, don't you think?
 }
 [sha:b77af1cfdda16b8b7b3bf5d0fbf5b9366c477149]{
 -- Page 581, Offset 34935.
@@ -249,6 +249,8 @@ After finishing his coffee, he says his farewells and leaves for the church.
 [sha:ba5b40a619ee5f9dcb8d12d9d684c1993ace719b]{
 -- Page 582, Offset 34937.
 -- もうじきクリスマスだから、と早足で、わたしに手を振りながら。
+// He's just saying 'almost christmas', not rushing because it's christmas
+// May need to edit above
 He waves at me as he goes, rushing a little because it's almost Christmas.
 }
 [sha:4ccdb94abe2568574d52479b124a0ba9e7adf24c]{
@@ -277,7 +279,7 @@ Feeling a little lonely, I stare at his retreating back and at the children play
 -- それがわたしと、わたしの町が生きていた頃の、最後の記憶。
 // This is present-now Noel voice, so italicizing it just to distinguish from past-now Noel voice
 %{i}
-That's my final memory from back when I still lived, and my hometown still existed.
+That is my final memory from back when my city was still alive.
 %{/i}
 }
 [sha:f0a47d574c2f870caef800c387cfebce1a00267e]{
@@ -434,7 +436,7 @@ The next thing I know, I can't even breathe properly anymore.
 // I guess this is all just a "you are now breathing and blinking manually" except more serious
 It's as if my heart,
  something ostensibly able to operate independently of my thoughts,
- has been taken over by my mind and dashed to pieces.
+ is being dragged along with my brain, and has ruptured.
 }
 [sha:3719264b7f3d9278d40f0009b7e7167970d603f5]{
 -- Page 594, Offset 34970.
@@ -581,7 +583,7 @@ I'd been watching them from a distance because I was scared,
 -- Page 603, Offset 34994.
 -- そう思って物陰から出ようとした時、ぐい、と、肩口を乱暴に掴まれた。
 But the moment I'm about to step out of the shadows,
- someone violently grabs my shoulder.
+ someone roughly grabs my shoulder.
 }
 [sha:4023650eb6d842565dd7a8a3486c3a0140194dd8]{
 -- Page 604, Offset 34995.
@@ -613,7 +615,7 @@ But why? If we join them we might be able to get out of here together.
 [sha:01c8c5458fb6a0ccbc5bb7e487ec3621c305cf87]{
 -- Page 605, Offset 35000.
 -- 「……うん。それはそうなんだけど……」
-"Yeah... You're right, but..."
+"Yeah, you're right, but..."
 }
 [sha:71028045214b71daf1b9f797839f55565f24b3b6]{
 -- Page 605, Offset 35001.
@@ -719,6 +721,7 @@ That wall... What's it about to do? What's it %{i}doing%{/i}?
 [sha:f854d7701f03873ce8f9a4e2a3488f7bfc6d4b05]{
 -- Page 610, Offset 35020.
 -- 「早く、早く俺を上にあげろ！　上げてくれよ！」
+// Maybe change this? Trying to get upsies over the wall
 "Come on, hurry up and give me a hand up already! Help me, will you?!"
 }
 [sha:4da759f9df9466924897aea1247def437673b441]{
@@ -737,7 +740,7 @@ That wall... What's it about to do? What's it %{i}doing%{/i}?
 [sha:f05aca20e9d5674c8824e1098aa63d88b376c419]{
 -- Page 610, Offset 35023.
 -- 「うそ―――いやぁぁあああああああああ！」
-"No――%{i}NOOooOOOOOOO%{/i}!"
+"No――%{i}NOOooOOOOOoooOOOOoooOOOOOO%{/i}!"
 }
 [sha:6617a057d1886aefdfcd323dde324b8d02bd4254]{
 -- Page 611, Offset 35024.
@@ -1067,15 +1070,16 @@ In that moment, we become nothing more than her playthings.
 [sha:eecf343e63b8129376003be10c95d7f0c9c3c6d1]{
 -- Page 630, Offset 35082.
 -- 礼拝堂には血のプールがあった。
-There is a pool of blood inside the church.
-}
-[sha:2fdfe7f98cb6cf76345c41ab415cea3a35746b8d]{
--- Page 630, Offset 35083.
--- べこん。音をたてて礼拝堂の床がへこんで、わたしたちでは逃げ出せない飼育穴ができあがった。
+// Flopped with below to handle tensing better
 // 'Breeding pit' sounds way too horny for what's intended here, methinks
 There's a bang,
  and the entire floor of the church suddenly gives way,
  creating an inescapable animal pen.
+}
+[sha:2fdfe7f98cb6cf76345c41ab415cea3a35746b8d]{
+-- Page 630, Offset 35083.
+-- べこん。音をたてて礼拝堂の床がへこんで、わたしたちでは逃げ出せない飼育穴ができあがった。
+There was a pool of blood beneath our feet.
 }
 [sha:691384099c933282739d468cf9275d7620f3ee97]{
 -- Page 631, Offset 35084.
@@ -1287,7 +1291,7 @@ the last few that have slipped into the creases
 [sha:cad80d1b5e35f5bd7efd357c125657045e032d98]{
 -- Page 643, Offset 35117.
 -- ふと、こえをききました。
-suddenly I hear a voice
+suddenly i hear a voice
 }
 [sha:24ba01e7a7b6bc4a83aa5e24fbe94c4870dd21cb]{
 -- Page 643, Offset 35118.
@@ -1327,7 +1331,7 @@ but his eyes are different compared to everyone else
 [sha:a093e39eb95381ef474a87c92418eaad0affae67]{
 -- Page 645, Offset 35123.
 -- そのこういは、だれかをたすけようと願うのは、とてもニンゲンらしいと、おもったのです。
-i think that his kindness and his desire to help others is very human
+i think that his kindness and his desire to help others are very human
 }
 [sha:af86d64165ba8b923ea970eaa0c67b7aef3306af]{
 -- Page 646, Offset 35124.
@@ -1442,17 +1446,17 @@ even the best people can change drastically when push comes to shove
 [offset:35144]{
 -- Page 653, Offset 35144.
 -- ……うん。
-yeah...
+// As of this page, Noel is back in kanji-land
+Yeah...
 }
 [sha:b5326ff7c2dab0f683bc95aa618fa82655cb08fa]{
 -- Page 653, Offset 35145.
 -- でもその一言は　余計だったなあ。
-but i have to say    those words were a bit unnecessary.
+But I have to say    those words were a bit unnecessary.
 }
 [sha:e452b2d2829c423b573e97af2ce7b2c6396dd168]{
 -- Page 654, Offset 35146.
 -- ……悲鳴をあげながら食べられている。
-// As of this page, Noel is back in kanji-land
 He screams as he's eaten alive...
 }
 [sha:768481d207bbafa16d803bc1d99c49a9bde5d7ea]{
@@ -1470,7 +1474,7 @@ Since he was the first to call out, he was the one to be swarmed and devoured.
 [sha:760ee5ac8f005416153420080c57de8beafa6f71]{
 -- Page 655, Offset 35149.
 -- わたしは広場に捨てられたまま、骨だけになっていく彼と、変わり果てた町をみあげて、みあげて―――
-I lie in the town square where I've fallen after being shoved,
+I lie discarded in the town square,
  watching as he is reduced to bones while looking up, and up and up;
  seeing with my own two eyes―――
 }
