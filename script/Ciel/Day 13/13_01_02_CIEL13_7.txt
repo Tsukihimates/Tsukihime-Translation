@@ -14,8 +14,7 @@ I mow down dozens upon dozens of the Dead.
 -- 吸血鬼の体は大したものだ。なにしろ数分なら呼吸ができなくても意識が飛ばない。精度こそ落ちるものの体も動く。
 A vampire's body really is something.
  I couldn't breathe for a few solid minutes, but I still didn't pass out.
- I'm even able to keep moving around,
- though my motions are a little clumsier than they were before.
+ My body is also moving, even if not as smoothly as before.
 }
 [sha:69894abe274488e80747180a2a9811e0bdea61a8]{
 -- Page 201, Offset 35841.
@@ -58,18 +57,19 @@ My headache isn't bothering me anymore.
 [sha:aad3827b1b79c8c1715f2a17aa529ab6b04ddd34]{
 -- Page 204, Offset 35847.
 -- ―――でもいける、まだ戦える。
-―――But I can still move. I can still fight.
+―――But I can still do this. I can still fight.
 }
 [sha:d74298c2d4702d5a88064e7700414db702d38b64]{
 -- Page 204, Offset 35848.
 -- うまくすればすべての死者を片付けて、あの吸血鬼をもう一度引きずり下ろせる可能性が、
-If things go according to plan, I'll be able to clean up the rest of the Dead, and then I'll knock that vampire right off her perch―――
+If all goes well, I'll be able to clean up the rest of the Dead,
+ and then I'll have a chance to knock that vampire right off her perch―――
 }
 [sha:03faa911183ebf91b7aefae2490c68a5e758293c]{
 -- Page 205, Offset 35849.
 -- 「いい顔ね。終わりが見えてきて生き返ったって感じ？
-"Ooh, I love that expression.
- Are you feeling rejuvenated because you think the end is in sight?
+"Ooh, I %{i}love%{/i} that expression.
+ Feeling the life come back to you now that the end's in sight, I guess?
 }
 [sha:9ed1abd420b569eac4745d09a3e94c997e30ce3b]{
 -- Page 205, Offset 35850.
@@ -128,7 +128,7 @@ The will to fight I had so desperately clung to begins to slip from my grasp.
 [sha:c51caf660479c982dd9c03ab2c4821837390091f]{
 -- Page 208, Offset 35859.
 -- 中隊分……つまり百人以上、増えやがったのか。
-A whole battalion... in other words, there's over a hundred of them now.
+A whole battalion... in other words, there's over a hundred of the damn things now.
 }
 [sha:569d10b878570cb33ff68de8c6b482c365e71451]{
 -- Page 208, Offset 35860.
@@ -138,7 +138,7 @@ And that number's only going to keep going up.
 [sha:2565264799b057a97883f15b300ab0237b197995]{
 -- Page 209, Offset 35861.
 -- もう楽になってしまえ、と囁く声がする。
-'Give me a break already', I mutter.
+There's a voice in my head telling me to just give in already.
 }
 [sha:810c3b67e0463da40f3d09632003d450a184cba3]{
 -- Page 209, Offset 35862.
@@ -165,7 +165,8 @@ What a joke.
 [sha:62c75bbfa284cb07c9f9f87c14adaa3c26f11937]{
 -- Page 210, Offset 35866.
 -- 恐怖はない、なんて理由だけじゃ、一時の気の迷いさえ起こらない……！
-As if I could ever deceive myself with a reason as simple as that...!
+There'd be nothing to be afraid of?
+ As if I'd ever waver for a reason like that!
 }
 [sha:4adfc6484753e0685537988fe5ef4b5dfb21a578]{
 -- Page 211, Offset 35867.
@@ -211,7 +212,7 @@ She's eagerly waiting for me to throw in the towel.
 [sha:4b8a7e5182b37aef0b2b0a110ea3f2d727bfea42]{
 -- Page 214, Offset 35875.
 -- 「驚いた、それで50体目よ志貴クン。
-"I'm impressed. That's fifty kills now, Shiki-kun.
+"I'm astounded. That's fifty kills now, Shiki-kun.
 }
 [sha:670210cf9f07cfd2b56a25927d19624fbb7042be]{
 -- Page 214, Offset 35876.
@@ -224,7 +225,7 @@ But you must be getting pretty tired, right?
 -- 「そもそも何の為に戦うの？　もうロアに乗っ取られるって分かっているんでしょう？　どのみちアナタは消えるんだから、もう楽になったら？」
 "I mean, what are you even fighting for?
  You do realize that Roa's going to take over eventually anyway, right?
- You're going to disappear either way, so why bother drawing things out?"
+ You're going to disappear either way, so not just give in already?"
 }
 [sha:b672d7682f69df8dbe6bde08358091cf77d2d455]{
 -- Page 216, Offset 35878.
@@ -240,13 +241,12 @@ I'm actually getting a kick out of the endless stream of the Dead,
 [sha:be0f43e0cffc99963aa4604e93bf02c9e91588be]{
 -- Page 216, Offset 35880.
 -- そもそもいいかげんにしてほしいのはこっちの台詞だ。
-// Not the actual いいかげん link, but works better with how things are currently TLd
-Besides, I'm the one who should be telling %{i}her%{/i} to stop drawing things out.
+So yeah, I %{i}am%{/i} getting pretty tired of this, but not in the way she thinks.
 }
 [sha:1b8ebb1db8028c9a95ee13a3083c24c97464bdff]{
 -- Page 216, Offset 35881.
 -- 俺を殺したかったら真剣になるしかないと分かってほしい。
-If she really wants to kill me,
+If she wants to %{i}actually%{/i} kill me,
  she's got to start taking things more seriously.
 }
 [sha:eec1a4c1276686d865487f13f9827089181f1483]{
@@ -259,7 +259,7 @@ If she really wants to kill me,
 -- ねえどうして？　死にたくないから戦うの？　でもアナタはもうすぐ消えるじゃない！　なのにどうして諦めないの!?
 Hey, why are you doing this?
  Are you fighting because you don't want to die?
- You're going to disappear anyway, remember!
+ You're going to disappear soon anyway, remember!
  So why won't you just give up already?!
 }
 [sha:5e7568ec6276961d064072f63feb5f731ffabe26]{
@@ -267,13 +267,13 @@ Hey, why are you doing this?
 -- 目障りなの。むかつくの。見ていられないの……！」
 You're a pain in the ass.
  You piss me off.
- Just looking at you makes me sick...!"
+ Just looking at you makes me sick!"
 }
 [sha:1d7157c2833ed36b47dbb0b6e70540a31b668d71]{
 -- Page 218, Offset 35885.
 -- 「ほら、さっさと死ね虫ケラ……！　あの時のわたしみたいに、何もかも投げ出せって言ってるの……！」
 "Come on, just die already, you worm!
- Just do what I did and give up on everything...!"
+ Just do what I did and give up on everything!"
 }
 [sha:d98ced8037699777248f7a30dded369fafa4d242]{
 -- Page 219, Offset 35886.
@@ -283,7 +283,7 @@ Sensing a projectile approaching from above, I leap backward.
 [sha:6454bf627624afb9425aec532baea7e9b0c27043]{
 -- Page 219, Offset 35887.
 -- ただ投げつけただけの串が、俺の足元に突き刺さる。
-But the skewer that she just hurled at me still pierces my foot.
+The skewer she just hurled at me in frustration embeds itself in the ground at my feet.
 }
 [sha:9d8cd827b5dd79249b89500ed77e78c5571f6cc2]{
 -- Page 219, Offset 35888.
@@ -293,7 +293,7 @@ The vampire stares down at it with a dazed look on her face.
 [sha:40b1b938454f58064b9ce88411fec548aaa69e57]{
 -- Page 219, Offset 35889.
 -- 自分の手で、自分の<誇り|プライド>を台無しにしたかのように。
-She looks like she just trampled all over her own pride.
+Almost as if she'd just trampled all over her own pride.
 }
 [sha:d60dde0f07fd6f8a8a8399c6bf889880e72bc2e6]{
 -- Page 220, Offset 35890.
@@ -311,7 +311,7 @@ Even though I stand at death's door,
 -- 「……何がおかしいのよ。先に頭の方がいかれちゃった？　諦めないのは脳が腐って、もうゾンビになってるからなワケ？」
 "What the fuck are you laughing about?
  Did your mind end up breaking first?
- You wouldn't give up because your brain had already rotted away and turned you into a zombie, is that it?"
+ You wouldn't give up because your brain had already rotted away and turned you into a zombie; is that it?"
 }
 [sha:50cff93d297b566cd7ff74bf92ba2da8e680d662]{
 -- Page 221, Offset 35893.
@@ -332,7 +332,7 @@ Even I'm not sure how much of my own sanity remains,
 -- 俺は死にたくないから足掻いてるんじゃない。シエル先輩がいるから立っているだけだ。アンタが何をしようが知った事か」
 I'm not struggling because I don't want to die.
  I'm only standing my ground because Ciel-senpai is here.
- The truth is that I really couldn't care less about you at all."
+ I don't give a shit about whatever it is you're up to."
 }
 [sha:c4cfed3076b04ebce9d54050348b0ee891ae30cd]{
 -- Page 222, Offset 35896.
@@ -363,8 +363,8 @@ But that's okay. No matter what she throws my way, I'll definitely overcome it.
 -- Page 223, Offset 35901.
 -- そんなコトより、ここでこいつを口にしないと、俺の<原|こ><動|こ><力|ろ>が消えそうだ。
 More importantly,
- If I don't say what's on my mind now,
- I feel like my <motivation|e m o t i o n s   > will dry up.
+ If I don't say what I'm thinking now,
+ I feel like I'll lose my <motivation|m i n d   >.
 }
 [sha:94416f8409f6bf691090eb7f3b10618fc14cad91]{
 -- Page 224, Offset 35902.
@@ -391,8 +391,8 @@ That's right, I said it! Take that!
 -- Page 225, Offset 35906. Glued. Mods: @x.
 -- 拷問って、苦しめるだけが答えじゃないのね。命を奪うコト。未来を奪うコトそのものが責め苦になるヤツも、いるワケ」
  Inflicting pain isn't the only form of torture, you know?
- Taking away one's life.
- Taking away one's future.
+ Taking away someone's life.
+ Taking away someone's future.
  Those are also forms of torture."
 }
 [sha:ad7421d1f9037f08ada23582de310e37398056e2]{
@@ -411,7 +411,7 @@ Rows upon rows of skewers fan out behind Noel.
 [sha:ff0e6addb9058f5aa76de3fedf0c9916891714c5]{
 -- Page 227, Offset 35909.
 -- 「いいわ。それならさっさと殺してあげる。
-"Alright then. In that case, I'll kill you right now.
+"Sure. In that case, I'll kill you right now.
 }
 [sha:bdf356edf4f9354d5ccb0266abd30716b5fb19d0]{
 -- Page 227, Offset 35910.
@@ -441,7 +441,7 @@ The legs that leapt back from danger earlier now refuse to move.
 -- Page 229, Offset 35914.
 -- 駄目だ。これはどうあがこうと避けられない……！
 There wouldn't be any point.
- I can't avoid it, no matter what I do...!
+ I can't avoid it, no matter what I do!
 }
 [sha:b2edb46ea5465e0f74d6a5a4a92ca858fdcf697e]{
 -- Page 230, Offset 35915.
@@ -451,7 +451,7 @@ However.
 [sha:6e9fc0f78cd6ed1ce2582c9be45ec0f751693400]{
 -- Page 230, Offset 35916.
 -- 降りそそぐ鉄の雨は、横合いから放たれた鉄の砲弾によって弾かれた。
-The downpour of iron rain is deflected by a metal shell that comes flying in from the side.
+The downpour of steel is deflected by a metal missile that comes flying in from the side.
 }
 [sha:b9ce0ba39c1766e2066d09a71a1a1c3a5e705ad5]{
 -- Page 230, Offset 35917.
@@ -492,7 +492,7 @@ There's a woman standing on top of a partially destroyed pillar.
 [sha:1f16f7cbbdae66ed64c835bc553458452e3389f8]{
 -- Page 233, Offset 35924.
 -- 月光を背に、<毅然|きぜん>と吸血鬼を見据える瞳。
-Backlit by the moon, she glares resolutely at the vampire.
+Backlit by moonlight, she glares resolutely at the vampire.
 }
 [sha:39d137d1131a4bc383e9a936708996b17217649a]{
 -- Page 233, Offset 35925.
