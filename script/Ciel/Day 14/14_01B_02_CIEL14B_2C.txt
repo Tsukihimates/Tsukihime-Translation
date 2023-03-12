@@ -175,7 +175,7 @@ Basically, if I want to get closer to that light,
 [sha:578ab3eaf9f652beb748ba77b28cbc1f95fc1067]{
 -- Page 74, Offset 39595.
 -- なんだ今の、アイツの爪か！？　狙われた！？」
-"The hell was that?
+The hell was that?
  One of her claws?!
  Is she attacking me?!"
 }
@@ -184,7 +184,7 @@ Basically, if I want to get closer to that light,
 -- 『いや。ここはまだ光体の視界の外だ。
 %{i}
 "No. This area remains beyond the Luminary's sight.
-%{i}
+%{/i}
 }
 [sha:400e77290c201e5f3f20ac2094350fd5f87b1df4]{
 -- Page 74, Offset 39597.
@@ -193,14 +193,14 @@ Basically, if I want to get closer to that light,
 // https://jyotidesign.jimdofree.com/2014/08/30/%E8%A1%A8%E5%B1%A4%E6%84%8F%E8%AD%98-%E3%81%A8-%E6%B7%B1%E5%B1%A4%E6%84%8F%E8%AD%98-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/
 %{i}
 Beyond her conscious thought.
-%{i}
+%{/i}
 }
 [sha:f1d3d586266266c113dd189963229f29e69b3a68]{
 -- Page 74, Offset 39598.
 -- 我々は彼女に意識されてもいない』
 %{i}
 She is not even aware of our existence."
-%{i}
+%{/i}
 }
 [sha:baf92135066b24aba486d0db8a9b2f1a0200c37d]{
 -- Page 75, Offset 39599.
