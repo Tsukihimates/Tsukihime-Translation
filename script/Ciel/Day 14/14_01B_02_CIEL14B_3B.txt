@@ -7,7 +7,7 @@ I use a shorter building as a stepping stone to leap to a taller one.
 -- Page 10006, Offset 39790.
 -- ビルの屋上を走り、ビルとビルの間、30メートル近い距離をジャンプして渡っていく。
 After running along the length of the roof,
- I jump across the distance to the next roof over――a distance of thirty meters.
+ I jump across to the next roof over――a distance of thirty meters.
 }
 [sha:05a78e5433a3a8cc908ea6c350217a310011d979]{
 -- Page 131, Offset 39791.
@@ -75,7 +75,7 @@ Even so, there's no doubt I'm getting closer.
 [sha:c45c30d5f1e05deaa76b94a745aa71f04a5e3cbe]{
 -- Page 135, Offset 39802.
 -- 次のビルに跳び移って前に進むほど、吹き荒れる風圧は強くなっている。この分なら、あと２分ほどであのデカブツに接近できる―――！
-The gusts of wind get more and more violent with each building I cross over.
+The gusts of wind are getting more and more violent with each building I cross over.
  At this rate, I should reach that Goliath in another two minutes!
 }
 [sha:07efaa4686fe4f24517bfafd2da8f3dd46f88edc]{
@@ -129,7 +129,7 @@ If you're so smart, what happens if I sneak up behind her and she suddenly turns
 -- Page 138, Offset 39810.
 -- 『愚かだが、もっともな質問だ。
 %{i}
-"A foolish question, but valid nevertheless.
+"A foolish question, but valid nonetheless.
 %{/i}
 }
 [sha:0880001266eac763be072c0a7e346799c33a74c6]{
@@ -179,7 +179,7 @@ Well that helps.
 [sha:3b2cb673f4f1d1912d8ba9949ee9b127604e4f9a]{
 -- Page 139, Offset 39817.
 -- 死ぬ思いで近づいても歩いて逃げられた、なんて事になったら俺の体力が持たない。
-If I'd risked my life to get close only for them to wander off,
+If I'd risked my life to get close only for her to wander off,
  I'd probably have given up on the spot.
 }
 [sha:0eb3e57ab8871b243b1b4011e5a3bb1033e2015d]{
@@ -319,7 +319,7 @@ Or at least, it didn't speak in a human tongue, and it wasn't transmitted via so
 [sha:61bd21245b9291520b957df79fb49e1733c4fc0d]{
 -- Page 149, Offset 39842.
 -- ソレは巨大な手で、指で、捕まえた■■をいたぶっていた。
-With its enormous hands and fingers, it torments the captured figure of ■■.
+With its enormous hands and fingers, that thing torments the captured figure of ■■.
 }
 [sha:fdc0f79c2da0874b8f835ac77ed5982f39289d52]{
 -- Page 150, Offset 39843.
@@ -418,6 +418,7 @@ Seeing her resist with all her strength―――
 [sha:e00c8204673a5d1ddd1dfdae0f7033823c7d30ab]{
 -- Page 155, Offset 39859.
 -- 理性が潰れる。
+// Second half of 39857.
 ―――Shatters my sense of reason.
 }
 [sha:1208c3f96114d550929158898be944a8298a8f57]{
@@ -495,47 +496,52 @@ Oh, this is so fun, Ciel!
 [sha:248903f8c3cb0528a6ede14ef7bb1f9f3799c434]{
 -- Page 160, Offset 39873.
 -- 世界を震わせる<呼|こ><吸|え>が響く。
-A voice reverberates that makes the entire world tremble.
+The world trembles at her booming voice.
 }
 [sha:bcddf231c5c4040af237439d1927d060d619ea14]{
 -- Page 160, Offset 39874.
 -- 屈辱と情けなさに歯ぎしりをする。
-I grind my own teeth from the humiliation and sense of helplessness.
+I helplessly grind my teeth in humiliation.
 }
 [sha:aa3854c564e9039c9104a8af651f92d8870dc886]{
 -- Page 160, Offset 39875.
 -- ここまで露骨に飛び出しても、怒りの声をあげても、アイツは俺に振り向きさえしない……！
-Even though I jumped out into the open and raised my voice in anger, she doesn't even bother to turn around and look at me...!
+Even though I jumped out into the open and yelled at her in anger,
+ she hasn't so much as turned to look at me!
 }
 [sha:c37d1816cae32486a5ee2cee85aa09c8342c7641]{
 -- Page 161, Offset 39876.
 -- 『前』
+%{i}
 "Look ahead."
+%{/i}
 }
-[sha:0338a6a3e74eefb5d78b685ab9ca30b7d59dbb94]{
+[offset:39877]{
 -- Page 161, Offset 39877.
 -- 「！」
-"Hah!"
+"%{i}Gh%{/i}!"
 }
 [sha:506aeeacbc593f2d649f255a44e02f6a2ba39dc9]{
 -- Page 161, Offset 39878.
 -- ロアの忠告で茹だっていた思考が冷却される。
-Roa's warning cools down my boiling head.
+Roa's warning pours cold water on my boiling thoughts.
 }
 [sha:08621304b188fafabbb1ef5e380f1c0117167616]{
 -- Page 162, Offset 39879.
 -- それは、今までの自動迎撃とは次元の違う、強大な大気の壁だった。
-It was a mighty atmospheric wall that was in a different league from the automatic interceptions up until now.
+That thing is a massive wall of air,
+ a completely different beast to the reflexive counter-attacks I've been dealing with up til now.
 }
 [sha:9054c9e0ae8f39e5f294c6bc29bdb2a30dd71dfa]{
 -- Page 162, Offset 39880.
 -- まともに狙われれば避ける事のできない嵐。
-A tempest that couldn't have been avoided had it aimed directly at me.
+If that tempest were aimed directly at me, there'd be no way I could avoid it.
 }
 [sha:e011a1d2736c2f590ba74a61ad37f48d1042b04f]{
 -- Page 162, Offset 39881.
 -- それが光体の足元から上空まで、竜巻のように吹き上がっている。
-It blows upward like a tornado from the base of the Luminary up to the sky.
+It gusts around the Luminary like a tornado,
+ stretching from the base of her feet all the way up into the sky.
 }
 [sha:eba373ddeff192ddfdbfd146ee7ab9a93d81d09b]{
 -- Page 163, Offset 39882. Mods: @k, @e.
@@ -550,47 +556,51 @@ I'm forced to retreat.
 [sha:eb3e82131b6a5a5c180b4d39a25ade99d08cd448]{
 -- Page 163, Offset 39884.
 -- 真横からあの巨人に近づくのは自殺行為だ。
-Trying to get close to that giant from the side is an act of suicide.
+It would be suicidal to try and approach that giant from this angle.
 }
 [sha:8a803cf1ad16b400fa9c45e2e7650d0beadcbcbe]{
 -- Page 164, Offset 39885.
 -- アイツはまだ俺に気付いていないが、もし横を向かれたら一巻の終わりだ。
-Although she hasn't noticed me yet, if she ever turns to look to her side, it would be over.
+She hasn't noticed me yet, but if she turned to look to her side, it'd be game over.
 }
 [sha:f0f0914d226943f5f8cf3c0062fa23add0e4fe9b]{
 -- Page 164, Offset 39886.
 -- 俺の意識と体は塗り固められるように静止し、
-My consciousness and body would have stood still as if it had been hardened,
+My body and mind would be locked in place, as though encased in cement―――
 }
 [sha:dbebdaea1073b91036df80e0049560b160d1b596]{
 -- Page 164, Offset 39887.
 -- 俺を視認した巨人は、嵐の渦を容赦なく見舞ってくるだろう。
-and the giant that spotted me would have mercilessly sent the whirling tempest to welcome me.
+And having spotted me, that giant would send that merciless tempest to welcome me.
 }
 [sha:4ab946435c55177eab5ebd7b4bbe486fbf4f3f3d]{
 -- Page 165, Offset 39888.
 -- 「あいつ―――あいつ……！」
-"Arcueid―――you bastard...!"
+"Arcueid... you bastard!"
 }
 [sha:baea19790ef383311c3c775385a01af2bf920353]{
 -- Page 165, Offset 39889.
 -- 当初の予定通り背後に回り込むしかない。
-I have no choice but to go around her rear as I planned originally.
+I have no choice but to circle around behind her as originally planned.
 }
 [sha:50b8a327df7b97c4145bb2b11d2a3f76ba2e0279]{
 -- Page 166, Offset 39890.
 -- ……だがどうする。
-...But what do I do?
+But then what...?
 }
 [sha:cd4a8857592df814b671d6de330b38bbf698eafd]{
 -- Page 166, Offset 39891.
 -- アイツには死が視えない。それはいい。もとから視えない相手だ。いまさら驚くに値しない。
-I can't see death on her. That's fine. I couldn't see it on her from the start. There's no reason to be surprised.
+I can't see any death on her.
+ That's fine though――I couldn't see it on her in the first place.
+ It isn't something to be surprised about now.
 }
 [sha:d527dca70775aa4bdc8400a5a59fe3dc3a80e9d4]{
 -- Page 167, Offset 39892.
 -- 問題はあの状態だ。ただでさえデタラメだったアイツが、更にデタラメ度を増している。
-The problem is this situation. She was already a ridiculous creature from before, but now she's become even more ridiculous.
+// Man this would be easier if Shiki could just say she's OP
+The real problem is what she's transformed into.
+ She's always defined common sense, but this is just outrageous.
 }
 [sha:32bfeca70af8cecac1796a03fe524d871126fd04]{
 -- Page 167, Offset 39893.
@@ -600,137 +610,173 @@ A monster that Senpai is completely helpless against.
 [sha:bd9142ab96dc378d86164e464ffbde539034191d]{
 -- Page 167, Offset 39894.
 -- そんな相手から、どうすれば先輩を取り戻せるのか―――
-How on earth can I take Senpai back from an opponent like that―――
+How the hell am I supposed to take Senpai back from an opponent like that―――
 }
 [sha:f4c8b9e7301fe5a37def201a22c463edfc6da22a]{
 -- Page 168, Offset 39895.
 -- 『逆だ。アレは一段階弱くなった。
-"That's backwards. She's become weaker than before.
+%{i}
+"You have it backwards.
+ She's weaker than before.
+%{/i}
 }
 [sha:ccd53d6b8aab839ecc2caebb33b85ef232f1bbce]{
 -- Page 168, Offset 39896.
 -- “小さく重いもの”が“大きく重いもの”になっている。
-She went from being a 'small, but heavy being' to a 'large and heavy being'.
+// Match terms with 09_01_CIEL09_6B 23797+
+%{i}
+She went from being 'small and heavy' to 'large and heavy'.
+%{/i}
 }
 [sha:3be26fb8974717c267bd2904be09b71eb954a033]{
 -- Page 168, Offset 39897.
 -- 自己の感情に溺れ、生命の質量定義を一段階下げたのだ。
-She indulged herself in her own emotions and lowered the definition of her life mass.
+// Matching phrasing to 09_01_CIEL09_6B offset 23794 for 生命の質量定義
+%{i}
+By indulging in her own emotions,
+ she has lowered her 'mass of life' by one rank.
+%{/i}
 }
 [sha:c99b799b08b91addab6c9efa509838422f9229e2]{
 -- Page 168, Offset 39898.
 -- 千年の恋も冷めかねない』
+%{i}
 It's possible even her love of a thousand years has turned cold."
+%{/i}
 }
 [sha:a95c1307be5ab579e49703de6628f83a308b0907]{
 -- Page 169, Offset 39899.
 -- 「弱くなっている……？　あれで？」
-"She's gotten weaker...? Really?"
+// I guess あれで is more like "even though she looks like that?" but that's a bit long
+"She's gotten weaker? Seriously?"
 }
 [sha:9f44039a8867e42f027617aeff74e62c354a8c25]{
 -- Page 169, Offset 39900.
 -- 『出力はあがろうと、欠点が多くなればそれは弱体化だよ。
-"If the number of flaws increase as the output is raised, then it would be considered weakening.
+%{i}
+"Even if the output power rises,
+ if the number of flaws increases,
+ then she has weakened.
+%{/i}
 }
 [sha:aec103a2f7d151a4d5e6bbe1b73bb010b3593da2]{
 -- Page 169, Offset 39901.
 -- エレイシアには失望した。
-I am disappointed in Elisia.
+%{i}
+I am disappointed in Elesia.
+%{/i}
 }
 [sha:817d35810b7edf815bae2862e0c2a8733ae60ea6]{
 -- Page 169, Offset 39902.
 -- 大魔術だけで十分だったものを、必要以上に壊すとは。
-She destroyed Arcueid more than necessary when Grand Magecraft alone was more than enough.
+%{i}
+She destroyed Arcueid more than was necessary.
+ Grand magecraft alone would have sufficed.
+%{/i}
 }
 [sha:6fdf226cb10d41fcfc3e1825d0535c3d7df8c8a5]{
 -- Page 169, Offset 39903.
 -- あれほどの術式を展開しておいて下手糞にも程がある。
-That was far too pathetic for someone who had developed all those formulas.
+// Magecraft Formula is marked as caps so also capitalizing Formula here
+%{i}
+A pathetic display for someone who had developed so many Formulas.
+%{/i}
 }
 [sha:9b1a537d782219a9ba35f5052d616e9a53790e2e]{
 -- Page 169, Offset 39904.
 -- 私なら、もっと上手く使ったものを』
-If it had been me, I would have used them more adequately."
+%{i}
+Were it me, I would have applied them more skilfully."
+%{/i}
 }
 [sha:3b185790914033a93725d11d2942068b47d57534]{
 -- Page 170, Offset 39905.
 -- 「アルクェイドばかりか先輩にまでダメ出しか！
-"You're critisizing not only Arcueid, but even Senpai!
+"Not happy just criticizing Arcueid, are you!
 }
 [sha:ee301956d2e13f8b31ed4cdb30ac9f055b02c39e]{
 -- Page 170, Offset 39906.
 -- とにかく、勝ち目はあるんだな、アレ！」
-In any case, we have a chance of winning, right?!"
+Anyway, you're saying we have a chance at winning, right?!"
 }
 [sha:4de36d7a9bd035c07781c269bb177ac93769be0b]{
 -- Page 170, Offset 39907.
 -- 『…………』
+%{i}
 "......"
+%{i}
 }
 [sha:25a0a6f401a740cd9acc01497018eb44c082edbc]{
 -- Page 170, Offset 39908.
 -- ロアは答えない。それは<ロア|わたし>の目的ではない、と黙秘している。
-Roa doesn't respond. He keeps silent, indicating that winning isn't his objective.
+Roa doesn't respond.
+ His silence seems to say that he doesn't share my objective.
 }
 [sha:918a29ee0e4366dda44dafb6ea3c25e109b47f21]{
 -- Page 171, Offset 39909.
 -- まあいい。今は速度をあげるだけだ。
-Fine. I'll just have to fasten my pace.
+Well, whatever.
+ I just need to get a move on.
 }
 [sha:d06d4569f4b42399f8dbfdb08b82614e337f7420]{
 -- Page 171, Offset 39910.
 -- アイツが執拗にシエル先輩を責めている時間を、有効に使ってやる。
-I'll make good use of this time that he wastes over stubbornly criticizing Ciel-senpai.
+// Comes hot on the heels of Roa also talking shit, but assuming this one's Arcueid again
+I'll put the time she's wasting on torturing Senpai to good use.
 }
 [sha:dc4aa67a7b8934290eea054655f241c94241a5c8]{
 -- Page 171, Offset 39911.
 -- 俺たちが目に入らないほど先輩が憎いというのなら、その報いを物理的に返してやる……！
-If she hates Senpai so much that she won't even look at us, then I'll just have to return the favor in person...!
+If she hates Senpai so much that she doesn't even notice us,
+ then I'll just have to dish out retribution in person!
 }
 [sha:4d41971a45b68a9d0f62743d5ded8c4db6fe4d41]{
 -- Page 172, Offset 39912.
 -- 「“ねえ。まだ希望があると思っているの？
-"Hey, do you still think you have some sort of hope?
+"Hey, you aren't still holding out hope, are you?
 }
 [sha:4db7d0a4102dde12e0d3048286e70629591d6866]{
 -- Page 172, Offset 39913.
 -- まさか、アイツが助けに来るとか期待してる？”」
-Don't tell me you're waiting for him to rescue you."
+Don't tell me you're waiting for him to come rescue you."
 }
 [sha:a46c7d9cc998e52e5e1c755d7a19a02b8a486abc]{
 -- Page 173, Offset 39914.
 -- 視界の片隅、再び遠ざかっていく巨人の声がする。
-In the corner of my vision, I hear the far-reaching voice of the giant once again.
+I hear the giant's voice.
+ Out of the corner of me eye, I can see she's getting farther away again.
 }
 [sha:33411529160a63f1727c67e6e2c40704df1050b4]{
 -- Page 173, Offset 39915.
 -- 指先に捕らえた女に親友のように話しかけ、
-She talks to the woman she trapped using her fingertips as if she was a close friend...
+She's talking to the woman trapped between her fingertips as though they were close friends.
 }
 [sha:3d9cb4f453c8e2020e70193b973a58760e6c4d89]{
 -- Page 173, Offset 39916.
 -- 「っ！」
-"Kh!"
+"%{i}Kh%{/i}!"
 }
 [sha:e73a656494acad9d0dbd1e1fda76be33af8de552]{
 -- Page 173, Offset 39917.
 -- 同時に、俺の体めがけて大気の爪が振るわれる。
-At the same time, the atmospheric claws swing at my body.
+As she speaks, another one of the atmospheric claws takes a swipe at me.
 }
 [sha:939f084c8d247f941a9d072f31c76b102b86c74e]{
 -- Page 174, Offset 39918.
 -- ただ吹き荒れるだけの、大雑把な異常気流。
-It was simply an abnormal air current that blew violently over me without precision.
+These air currents may be fierce,
+ but they're not exactly accurate.
 }
 [sha:c0b5b8d077f08e12f7ceb9f43233d1752700c1ff]{
 -- Page 174, Offset 39919.
 -- たとえアイツの認識外にあっても、ここでは侵入者は自動的に排除される。
-Even if I'm outside of her awareness, she automatically eliminates any intruders in the area.
+Even though she isn't aware of me,
+ her subconscious still works to eliminate intruders from her domain.
 }
 [sha:ef2c2212438ca15fa3d84b693facb510bdc08b9c]{
 -- Page 175, Offset 39920.
 -- 「“ふーん。……ふーん。
-"Hmm... hmm.
+"%{i}Hmm%{/i}... %{i}hmm%{/i}.
 }
 [sha:c901e2aac8454b17cc1b84598d4f4a0044109b65]{
 -- Page 175, Offset 39921.
@@ -740,12 +786,14 @@ I don't get it. What's so good about him anyway?"
 [sha:817863cbfbb20cae5724f467cc93798247b7f5db]{
 -- Page 176, Offset 39922.
 -- 遠ざかる。遠ざかる。
-Move. Move further away.
+// Interpreting this as him telling himself to stay back?
+// He's not trying to retreat exactly
+Don't rush in. Don't rush in.
 }
 [sha:e44b6dadf9df944bdbd57f91585ede24e5258dd8]{
 -- Page 176, Offset 39923.
 -- 今は神経を集中させて、目的地まで走り抜ける。
-Concentrate my nerves and run toward my destination.
+Right now I just need to stay focused and run toward my destination.
 }
 [sha:ee492253bdf052cf87035ae1ac1757f2805bb243]{
 -- Page 177, Offset 39924.
@@ -760,47 +808,52 @@ He even pretends to be a good person despite not keeping his promises."
 [sha:9ab9a7a8160793a5b1f722be4daca1af435f0f5a]{
 -- Page 178, Offset 39926.
 -- ……苛烈さを増していく大気の爪。
-...The intensity of the atmospheric claws increases.
+The atmospheric claws are getting more and more intense...
 }
 [sha:eaa6ef13676246cbb69ac95c86e69161fbe39235]{
 -- Page 178, Offset 39927.
 -- 背後を衝くとはいえ光体の至近距離だ。
-Although it only grazes through my rear, it's coming from point-blank range of the Luminary.
+Even though I'm sneaking up behind her, I'm still getting pretty damn close to the Luminary.
 }
 [sha:f3bbaf92dde53f98d7b5ccd3c07db2ab01925a06]{
 -- Page 178, Offset 39928.
 -- そりゃあさっきより気流の乱れが激しくなるのは当然だろう、けど―――
-Of course it's only natural that the air currents would lash around fiercer than before, but―――
+So, it makes sense that the air currents would lash out more fiercely than they did before, but―――
 }
 [sha:e15f058ccd12dfe99723666b0e5460566b83151f]{
 -- Page 179, Offset 39929.
 -- 「“アイツに比べたら蜥蜴の方がまだ誠実だわ。
-"Even a lizard would be more sincere compared to him.
+"Even a lizard would be more trustworthy than he is.
 }
 [sha:0da4fa1b079ded6c691be3f29b31816dd6094543]{
 -- Page 179, Offset 39930.
 -- あの声も嫌い。仕草も嫌い。顔も嫌い。ぜんぶ嫌い！”」
-I hate his voice. His manners. His face. I hate everything about him!"
+// ツンツン
+I hate his voice.
+ I hate his mannerisms.
+ I hate his face.
+ I hate everything about him!"
 }
 [sha:2630f8554846f45470ef71631053a2bb27c8a262]{
 -- Page 180, Offset 39931.
 -- いや、でも、だな。
-Well, even if you say that...
+// Continued in 39939.
+Okay, hold on now...
 }
 [sha:4feb79fac91c4e586600917da4c2e62015ebfa28]{
 -- Page 181, Offset 39932.
 -- 「“言っておくけど、あんなヤツには何もできないから。
-"Just so you know, that guy can't do anything.
+"Just so you know, that guy's totally useless.
 }
 [sha:3b670336682864f6af8ff113578cd96ed85ea08f]{
 -- Page 181, Offset 39933.
 -- できても遠くから悪口を言うだけよ”」
-Even if he could, he would only talk bad about me from afar."
+The only thing he could possibly be good for is badmouthing me from a distance."
 }
 [sha:cc1ef873d9392e5b867ee060b48cf0b7b15225ca]{
 -- Page 182, Offset 39934.
 -- 「“それとも、そんな勇気もないかしら。
-"Or maybe he just isn't that brave after all.
+"Or maybe he doesn't even have the courage to do that.
 }
 [sha:1ef604f1a346f82dfab0bd5a51bf890caa2effd5]{
 -- Page 182, Offset 39935.
@@ -810,57 +863,62 @@ Yeah, all he ever does is make excuses.
 [sha:8e864146f7c1249a6ece72ad9d7301bfac0786fa]{
 -- Page 182, Offset 39936. Mods: @n.
 -- 僕は甘い仕草で初対面の女を解体する事しかできない、
-He's just the absolute worst child-faced cunning murderer
+He's just a lowly, no-good, crook;
 }
 [sha:15dbf0d3df0658b895e6087e03ac5dd1bd8d0144]{
 -- Page 182, Offset 39937.
 -- 最低最悪の、ズルくて童顔な殺人鬼だって！”」
-who only knows how to dismember a woman he's never met with a sweet look!"
+A baby-faced murderer who doesn't know how to do anything other than dismember women he meets for the first time with a smile on his face!"
 }
 [sha:fb45abe0d79b5868dfd2fa81f0dfe5eda85e9d43]{
 -- Page 183, Offset 39938.
 -- 「おおぉおおおお……！？」
-"Uoooooohhh...?!"
+"%{i}Whhooooaoaaah%{/i}?!"
 }
 [sha:4ea62478b83604141185fbbaa4d8a97212ced1d5]{
 -- Page 183, Offset 39939.
 -- アイツ、とっくに気付いているクセに無視してるだけだろ、これ！？
-That woman... surely she must have already noticed me and was just ignoring me this whole time!
+// Continued thought from 39931.
+Has she known I was here all along,
+ and is just ignoring me on purpose?!
 }
 [sha:f02931e624d15cbcd83d261cabf7b8123f8cfc3c]{
 -- Page 184, Offset 39940.
 -- 「着いた……！」
-"I made it...!"
+"I made it!"
 }
 [sha:738c22eeeb60e940e2545c5791d98bc25e7250c1]{
 -- Page 184, Offset 39941.
 -- 目測距離、10メートル。
-A distance of ten meters according to my eye.
+Distance: ten meters.
 }
 [sha:2741021ba6dcfd0441d84d211fd9839e34ba3b1d]{
 -- Page 184, Offset 39942.
 -- ビルの屋上に手足をついて体勢を整える。
-I place my hands and feet on the rooftop and prepare my stance.
+I drop down on all fours on the rooftop and get in position.
 }
 [sha:9d7e81f85f96d76c6ea3ca8b77ca4c7f894e8568]{
 -- Page 184, Offset 39943.
 -- 光体の足元からの上昇気流は凄まじく、姿勢を低くしていないと空に舞い上げられかねない。
-The air current rising up from the base of the Luminary is terrifying, and if I don't lower my posture, then I could very well be sent flying through the air.
+A staggering quantity of air is blasting upward from around the feet of the Luminary.
+ If I don't stay low to the ground, I might get launched into the sky.
 }
 [sha:56a0ade1df10ee87e84b686cee25fe08161271dc]{
 -- Page 185, Offset 39944.
 -- 「“本当に同情するわシエル。運が悪いにも程がある。
-"I truly feel sorry for you, Ciel. You can only be so unlucky.
+"I really do feel sorry for you, Ciel.
+ There ought to be a limit to bad luck.
 }
 [sha:9de3a1379be98644e2cc33faca15fd9456e7916e]{
 -- Page 185, Offset 39945. Mods: @n.
 -- あんなヤツを助けたりしなければ、
-If you hadn't rescued that guy,
+If you hadn't rescued that guy―――
 }
 [sha:ca16e6ec75ddbfbf6009a5fad5d0ca272b33773a]{
 -- Page 185, Offset 39946.
 -- 貴女はもっと楽に死ねたのに、ね！”」
-you would have been able to die in peace, right?!"
+// Fairly forceful ね in VA
+You'd have been able to die in peace, %{i}right%{/i}?!"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 186, Offset 39947.
@@ -870,57 +928,67 @@ you would have been able to die in peace, right?!"
 [sha:bf8dbba0b12a7bc0c41884adb74aa2f73e916852]{
 -- Page 186, Offset 39948.
 -- いろいろ我慢の限界だ。
-I've just about run out of patience at this point.
+I've just about had it at this point.
 }
 [sha:311ae97d0403228a2977aef7d8d7c7f5e78748dd]{
 -- Page 186, Offset 39949.
 -- 今のアイツがどれほど怪物じみた存在かなんて知った事か。
-I don't care about how much of a monster that thing really is.
+I don't care how much of a monster that thing is.
 }
 [sha:d1a177941d3c2fc581a4aba377f6a41265352e28]{
 -- Page 186, Offset 39950.
 -- ここからの最適解なんて考えていられるか。
-Do you really expect me to think of the most optimal solution like this?
+How the hell am I supposed to sit here and plan things out?
 }
 [sha:04bdeb2dd16082f56e61b19b0eec1e5e5a42cc02]{
 -- Page 186, Offset 39951.
 -- もう一秒の猶予も与えてやるものか。
-There's no way I could stand by and wait for even another second.
+I'm not going to let this go on for another second longer.
 }
 [sha:a09e7612412f086b6468a419ceef71f28faf8484]{
 -- Page 187, Offset 39952.
 -- そもそも―――惚れた女を目の前でバラされて、頭が沸騰しないヤツがいるものか……！
-And besides―――is there anyone who wouldn't seethe after seeing the one they love be crushed before their very eyes...?!
+I mean――who %{i}wouldn't%{/i} see red after watching the person they love get torn apart in front of them?!
 }
 [sha:5250fcd9655b65f75493d978531c3bdff1a9fbdc]{
 -- Page 188, Offset 39953.
 -- 『仰角22度。目測距離７メートル、歪曲距離40メートル。
-"Elevation angle: 22 degrees. Visual distance: 7 meters. Perverted distance: 40 meters.
+// Keeping these as numbers because this is a 'scientific' context
+%{i}
+"Elevation angle: 22 degrees.
+ Visual distance: 7 meters.
+ Warped distance: 40 meters.
+%{/i}
 }
 [sha:2a21e68626f81bcb5eb4846e7aceb00d18f797cd]{
 -- Page 188, Offset 39954.
 -- ここであれば接触まで０．８秒』
-From this position you can reach her in 0.8 seconds."
+%{i}
+From here, you can reach her in 0.8 seconds."
+%{i}
 }
 [sha:ef34ef4b90c36f4af5b0b763eadf6985f2bbe959]{
 -- Page 188, Offset 39955.
 -- 両手を地面から離して体を起こす。
-I take my hands away from the ground and raise my body.
+I push myself off the ground with both hands.
 }
 [sha:371282bd5f24a8caf406673579f600db39484226]{
 -- Page 188, Offset 39956.
 -- 両脚に血液を集中させる。
-I pump blood into my legs.
+I pump blood into both legs.
 }
 [sha:5872004a9eb920320bed2f9e10a350c718dd4ab1]{
 -- Page 188, Offset 39957.
 -- 一度の呼吸で全身に酸素を循環させる。
-Through a single breath, I circulate oxygen around my entire body.
+With a single breath,
+ I circulate oxygen around my entire body.
 }
 [sha:fdb77925b05a3d4ce3b8b9763e949a06a8889cce]{
 -- Page 188, Offset 39958.
 -- 『理想的なアプローチだ』
+%{i}
 "An ideal approach."
+%{/i}
 }
 [sha:1efd45282dd35df651db0ca51f8c5d59d232dd51]{
 -- Page 189, Offset 39959.
@@ -940,5 +1008,6 @@ There's only one thing I'm aiming for.
 [sha:835ac65e3d3807bcffddb73b3e68881ddafa2233]{
 -- Page 189, Offset 39962.
 -- 臆面もなく見せつけやがる、白い巨腕を解体する！
-How dare she act so audaciously! I'll tear that massive white arm of hers into pieces!
+How dare she flaunt her cruelty like that!
+ I'll pick that massive white arm of hers apart!
 }
