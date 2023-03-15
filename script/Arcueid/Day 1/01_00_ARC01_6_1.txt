@@ -6,7 +6,7 @@ No, I'll wait here.
 [sha:2720dac4e73fe644ce3b0bb5eed2fd304112d3df]{
 -- Page 10020, Offset 1935.
 -- 帰ってきたばかりで歩き回るのはさすがに落ち着きがない。
-Walking around right after coming back wouldn't help me calm down.
+Walking around right after coming back is just going to give me the jitters.
 }
 [sha:8d78fa0f2e2eb6d2b53fb980828221d39bc894e4]{
 -- Page 10020, Offset 1936.
@@ -86,7 +86,8 @@ For whatever reason, he's covered in black bandages; not only on his hands but a
 [sha:49cb6e6e9bc266a197ffa571ae616223331f5d73]{
 -- Page 312, Offset 1951.
 -- それこそ、推理小説に出てくる怪人のように。
-It makes him look like a suspicious person in a mystery novel.
+// Reference to 怪人二十面相 from Ranpo's novel series
+It makes him look like the central villain of the archetypical mystery novel.
 }
 [sha:ac4c2f30b67610ec00aeec80f360f531b7f47f3e]{
 -- Page 313, Offset 1952.
@@ -126,14 +127,14 @@ No, more importantly――this person is, how should I say it―――
 [sha:39be5be5cd44cdd909817ece900a369c359af270]{
 -- Page 315, Offset 1959.
 -- 「かまわんよ、奇異の視線には慣れている。
-"It's alright, I'm used to being looked at strangely.
+"It's alright, I'm used to people looking at me like I'm a freak.
 }
 [sha:34402e54d973d5844c6ed8293c7f375ca9bf7df0]{
 -- Page 315, Offset 1960.
 -- 私は事故で顔を焼いてしまってね。ずいぶん前から、こうでもしないと出歩けない体になっている。日の光は特に厳しい。
 I burned my face in an accident.
  For a long time now, I haven't been able to go outside without this get-up.
- Sunlight is especially harsh.
+ Sunlight is especially harsh on me.
 }
 [sha:93c9c32631ac37a52f52131c23c73284b87dc999]{
 -- Page 315, Offset 1961.
@@ -159,7 +160,7 @@ It's a gesture of one born with natural dignity... a casual elegance.
 -- Page 317, Offset 1965.
 -- 「しかし。まあ、よくも帰ってこられたものだ」
 // No real VA pause between しかし / まあ
-"But I must say... how dare you return just like that."
+"But I must say... rather impudent to just return like this."
 }
 [sha:65d4cd85cbb1aa54aa69f95a8c0787272860c607]{
 -- Page 317, Offset 1966.
@@ -200,7 +201,7 @@ There's obvious contempt and provocation in Saiki's eyes, but there's no point i
 [sha:5c70c1b035fb521ae29d32d05c62f392ed07253a]{
 -- Page 320, Offset 1973.
 -- 「おや。反論はないのかな？」
-"Oh? Don't you have any objections?"
+"Oh? Nothing to say in your defence?"
 }
 [sha:298925eba0a6567684f8c437fa060c694a92aec5]{
 -- Page 320, Offset 1974.
@@ -210,7 +211,7 @@ There's obvious contempt and provocation in Saiki's eyes, but there's no point i
 [sha:326489dd9d447b85b0c90d0c30ec5f6ad8b4f196]{
 -- Page 320, Offset 1975.
 -- でも、脱落者とか投資とか、家族の話にそんな言葉を使う貴方こそ、恥ずかしいとは思わないんですか？」
-But don't you think it's shameful for you to use words like 'deserted' and 'investment' when talking about family?"
+But do %{i}you%{/i} not feel ashamed of yourself for using words like 'deserted' and 'investment' when talking about family?"
 }
 [sha:80e124d071e722f0739663576487e2c1b2f7123b]{
 -- Page 321, Offset 1976.
@@ -221,7 +222,9 @@ But don't you think it's shameful for you to use words like 'deserted' and 'inve
 [sha:cbb9a6b7030f9a46afaa2983c8afd2cc58ab3079]{
 -- Page 321, Offset 1977.
 -- 養育は一族の将来への投資だ。<市井|しせい>の人間はともかく、選ばれた血筋、尊い家系において、個人の自由は存在しない。
-Raising a child is an investment in the family's future. Setting aside the commoners, humans don't have the freedom to pick their bloodline or nobility.
+Raising a child is an investment in the family's future.
+ Personal freedom isn't something which exists among we of nobler blood,
+ even if it is something commoners have.
 }
 [sha:6b2a5f609d6b6bec1c5156b3d68f68c7c1d74476]{
 -- Page 321, Offset 1978.
@@ -231,7 +234,9 @@ Freedom... no, egotism would describe it better. These are rights that you can o
 [sha:9de26150b17193c0e8b973935a85adaa1e856f34]{
 -- Page 322, Offset 1979.
 -- 「君は遠野の子でありながら、それを理解していなかった。秋葉とは似ても似つかぬ三流だ。まあ、一度地に落ちていながら帰ってくる厚顔さだけは、一流と言えなくもないがね」
-"You are a son of the Tohno family, but you didn't understand that. Unlike Akiha, you're third-rate. Well, your nerve is first-rate seeing as how you came back here after falling so low."
+"You are a son of the Tohno family, but you didn't understand that.
+ While similar to Akiha at first glance, you're really sub-par.
+ Well, your nerve is up to par at least, seeing as how you came back here after falling so low."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 323, Offset 1980.
@@ -256,7 +261,7 @@ An outsider...?
 [sha:30c3b9e3c2f1fcdbbb179374b89fed128efe7a06]{
 -- Page 324, Offset 1984.
 -- それじゃあ分家の人間じゃないのか、この男は。
-Then this man isn't from a branch of our family?
+Then this man isn't from one of our branch families?
 }
 [sha:8715a1ed1b3ac95a7014e4dc292e9bafdde32dc9]{
 -- Page 325, Offset 1985.
@@ -306,7 +311,7 @@ After exactly ten minutes have elapsed, the girl returns.
 [sha:84777d26ea5469b8110f4f24c01f0945bfb41d74]{
 -- Page 330, Offset 1994.
 -- 「……？　志貴さま、何かお気に障る事でもありました？」
-"Hm? Shiki-sama, is there something wrong?"
+"Hm? Shiki-sama, is there something troubling you?"
 }
 [sha:673845fc6a2b2f778fb49793fa4789187b6ef82a]{
 -- Page 330, Offset 1995.
@@ -341,7 +346,7 @@ She gives me a shy smile, which makes me feel warm as well.
 [sha:c28d440b0235abf79c73e41a19d256a5777bffb3]{
 -- Page 333, Offset 2001.
 -- お待たせいたしました。秋葉さまのご用事がお済みになりましたので、執務室においでください」
-Sorry to keep you waiting. Since Akiha-sama has finished her business, please come to her office."
+Sorry to keep you waiting. Since Akiha-sama has finished her business, please follow me to her office."
 }
 [sha:58f7408882fbc2e6bd061c37327e47896b4b003b]{
 -- Page 334, Offset 2002.
@@ -356,7 +361,8 @@ Her office... In some ways, you could call it the heart of the Tohno family.
 [sha:d86f339e06a06f754ffe3a357d10e103621645e9]{
 -- Page 334, Offset 2004.
 -- 子供の頃は入れなかった、槙久の当主としての私室。
-It was Tohno Makihisa's private room as the head of the family, and I wasn't allowed to enter as a child.
+It was Tohno Makihisa's private room in his capacity as family head,
+ and I wasn't allowed to enter as a child.
 }
 [sha:bfd2925960de3d530a12540903b81a39e126c68d]{
 -- Page 334, Offset 2005.
