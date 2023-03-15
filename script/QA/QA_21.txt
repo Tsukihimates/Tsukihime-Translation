@@ -6,17 +6,18 @@ Yikes...
 [sha:7d48a5d3a8f8b2d58cdc340271f4aad56f35ffff]{
 -- Page 10000, Offset 43683.
 -- さすがに冗談を挟める状況ではありませんね……
- It's hard to crack jokes about a situation like that.
+ It's hard to crack jokes about a situation like%{n}
+that.
 }
 [sha:c660fa7dda98c4124b83266a2f6b34f0a9d24d28]{
 -- Page 199, Offset 43684.
 -- ここからは遊びなし、
-No more messing around.
+No more messing around.%{n}
 }
 [sha:786e105ef2decd8687379ed2ed706e91be0c909b]{
 -- Page 199, Offset 43685.
 -- 迅速なＱ＆Ａを行いましょう。
- Let's begin the Q&A immediately.
+Let's begin the Q&A immediately.
 }
 [sha:872e2a5ea40b422bd8c28b97679eae9f213d6e42]{
 -- Page 200, Offset 43686.
@@ -41,22 +42,24 @@ No matter how beautiful that heroine may be,%{n}
 [sha:a257dcf2d6d1e3e241b61192c9da40695d29c47d]{
 -- Page 202, Offset 43690.
 -- いくら美少女でも見過ごせねえ……
-I cannot overlook her out-of-character outburst...
+I cannot overlook her out-of-character%{n}
+outburst...
 }
 [sha:cbbe84d7b561bfad8d5e503aa624b2b57a56898b]{
 -- Page 203, Offset 43691.
 -- アタシへの風評被害も鑑みて、
-I'll do my best to sweep it under the rug,
+I'll do my best to sweep it under the rug,%{n}
 }
 [sha:6c1d9e5980438fdbd12c9e8947cea167d1707328]{
 -- Page 203, Offset 43692.
 -- 全力でなかったコトにしてやる、ぜ！
- and prevent any injuries to my reputation!
+and prevent any injuries to my reputation!
 }
 [sha:80218d4ff6e82c966a00e2cd1bb52fa60a09b3b1]{
 -- Page 204, Offset 43693.
 -- はい、アナタへの被害は皆無とは思いますが
-Right. I'm pretty sure you weren't the one who got injured here,
+Right. I'm pretty sure you weren't the one who got injured%{n}
+here,
 }
 [sha:0dc759c0bad2ecbdbc7278dfb13081d62816889e]{
 -- Page 204, Offset 43694.
@@ -71,12 +74,15 @@ What we have here is a two-choice dead end.
 [sha:811ee30f0c7256fcd025c35fc575f25702bac387]{
 -- Page 205, Offset 43696.
 -- 速やかに直前の選択肢からリトライしていただければ。
-You would do best to quickly go back to the previous choice and try again.
+ You would do%{n}
+best to quickly go back to the previous choice and try%{n}
+again.
 }
 [sha:8e38a100b20208c2c69bedee015c12f2d3223bd0]{
 -- Page 206, Offset 43697.
 -- 一刻も早く捕らわれの先輩を助けたい、という
-I'm glad that you want to save your captured Senpai as quickly as possible,
+I'm glad that you want to save your captured Senpai as%{n}
+quickly as possible,
 }
 [sha:01fdc74ccf6ab40044f7a8d815783cee5c1f63a7]{
 -- Page 206, Offset 43698.
@@ -86,22 +92,26 @@ I'm glad that you want to save your captured Senpai as quickly as possible,
 [sha:d1b53d0ca882ed8616c7cbc7a4c6e2e096740e7d]{
 -- Page 207, Offset 43699.
 -- あーんな反則級のアルクェイドを
-In that state, Arcueid is so overpowered it's practically against the rules,
+In that state, Arcueid is so overpowered%{n}
+it's practically cheating,
 }
 [sha:d5d95b13ec5ec9b41b1c5eab97d630d5c3cb4b4a]{
 -- Page 207, Offset 43700.
 -- 正面から相手にしてはいけません。
- so you can't face her head-on.
+ so you can't face%{n}
+her head-on.
 }
 [sha:3017dfbb8e23b0c8ba142aebdbf033b407060f76]{
 -- Page 208, Offset 43701.
 -- 『光体』は一手間違えれば即・デッドな存在です。
-If you make one wrong move when fighting that 'Luminary', it will result in instant death.
+If you make one wrong move when fighting that 'Luminary',%{n}
+it will result in instant death.
 }
 [sha:74da768ec8b8b8d97805f7b56b12f5999eaa6314]{
 -- Page 208, Offset 43702.
 -- ともかく自分の命優先でお願いします！
- Your own life should always be your first priority!
+ Your own life should always%{n}
+be your first priority!
 }
 [offset:43703]{
 -- Page 209, Offset 43703.
@@ -123,15 +133,15 @@ If you make one wrong move when fighting that 'Luminary', it will result in inst
 -- ――――――。
 ......
 }
-[sha:e2d65fcc963f228d45180c6a8dafc0494e929d3a]{
+[offset:43707]{
 -- Page 211, Offset 43707.
 -- え。
-Huh?
+Huh?%{n}
 }
 [sha:9a2b258cb18816e2206016a243207cfcfb69a371]{
 -- Page 211, Offset 43708.
 -- ちょっ、なにやってるんですかアナタ！？
- W-What the hell do you think you're doing?!
+W-What the hell do you think you're doing?!
 }
 [sha:6be6ec2f14d848368565942cb597e055c554a4ca]{
 -- Page 212, Offset 43709.
@@ -141,7 +151,7 @@ I see... this cat... this speed...
 [sha:927af5b96c3dbedfde6bd4aa700dda25b9ded40a]{
 -- Page 212, Offset 43710.
 -- あんまり意味のないＱ＆Ａコーナーとは……！
- this completely pointless Q&A corner...
+ this completely%{n}pointless Q&A corner...
 }
 [sha:bfd921d7c8514093797fbfb21c0b774609c40413]{
 -- Page 213, Offset 43711. Mods: @n.
