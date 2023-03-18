@@ -116,8 +116,9 @@ The enclosed area has a diameter of about forty meters.
 [sha:e0639a742e9c2e0f5ed4107c198a143e3ea8b3b6]{
 -- Page 110, Offset 35574.
 -- ……跳び越せない事はないが、鋭敏化した五感がそれは罠だと告げている。
+// lint-off:LintDupedWord
 I could easily jump over it, but...
- my sharpened senses are telling me that would be falling for her trap.
+ my sharpened senses are telling me that that would be falling for her trap.
 }
 [sha:267a7cfd79d5e2feb4af766db0ee4c26c56f999b]{
 -- Page 110, Offset 35575.
@@ -136,7 +137,7 @@ If that happened, I'd be a sitting duck.
 [sha:d0056ac339cc1cd25c8f7ac9583249bdccd26b67]{
 -- Page 111, Offset 35577.
 -- おそらく、これがあの凶器の本来の用途なんだろう。
-There's a good chance this is the intended purpose of that weapon of hers.
+There's a good chance this is the intended purpose of that weapon.
 }
 [sha:735917d1da1dbe011c9745f7ac575f318f5938af]{
 -- Page 111, Offset 35578.
@@ -159,7 +160,7 @@ The only way to escape this circle is to eliminate its creator: Noel.
 [sha:21d8a1bde480a94590046539d7b434021d380ad4]{
 -- Page 113, Offset 35581.
 -- 「あら、怖い怖い。眼鏡をとったってコトはぁ、わたしを殺す気になったってコトよね？」
-"Oh no, I'm soooo scared.
+"Oh no, I'm %{i}soooo%{/i} scared.
  If you're taking off your glasses,
  then that means you've decided to try and kill me, doesn't it?"
 }
@@ -206,13 +207,13 @@ But I can't afford to lose. I will not fall here.
 [sha:f682342cd3bf7c0d3c1b208f376bc728d813f109]{
 -- Page 116, Offset 35589.
 -- ノエルの手には一本の凶器が握られている。
-Noel holds a single deadly weapon in her hand.
+Noel holds one of her instruments of murder in her hand.
 }
 [sha:7fd153d675f8e254ae95f4173826da7995c19f80]{
 -- Page 116, Offset 35590.
 -- ……これまでさんざん撃ち込んできた鉄串だ。その気になれば複数操れるだろうに、今は一本で十分だと笑っている。
 It's one of those skewers she's been firing at me this entire time.
- If she wanted to, she could probably wield several at the same time,
+ If she wanted to, she could probably wield several at once,
  but the smile on her face seems to say that one is enough.
 }
 [sha:3467e9c0f44800bab5450e53b33cdc980353beff]{
@@ -554,7 +555,7 @@ I just want to kill Roa's reincarnation.
 [sha:2dd2ecce27eeb7a38f4d269e0eb341e59cd19db5]{
 -- Page 140, Offset 35644.
 -- 「その後のコトは、またその時に考えればいいと思わない？
-"I can just think about what to do after that when the time comes, can't I?
+"I can think about what to do after that when the time comes, can't I?
 }
 [sha:32d093e592fce4a48838db0607d7e2a063096e02]{
 -- Page 140, Offset 35645.
@@ -653,7 +654,7 @@ No. Absolutely not.
 -- 分かる？　アナタはただの前菜なの。わたしにとってメインディッシュはあの女の処刑ってまだ分かんない？」
 Got it?
  You're nothing but an appetizer.
- How have you not grasped that the main course is going to be that woman's execution?"
+ How have you not grasped that the main course is going to be %{i}her%{/i} execution, not yours?"
 }
 [sha:5a7439d5e8ea1d9a7494935e91bab3fa3c8328f1]{
 -- Page 147, Offset 35661.
@@ -765,7 +766,7 @@ I slam back-first into the iron fence.
 -- Page 152, Offset 35680.
 -- 横腹の感覚がない。横隔膜の損傷で呼吸が出来ない。
 I've lost all feeling where she hit me.
- My diaphragm is so damaged I can't even breathe.
+ My diaphragm is so damaged that I can't even breathe.
 }
 [sha:6fc76620e7c9f390f4b7c40d7e4afc4af6204021]{
 -- Page 152, Offset 35681.
@@ -823,13 +824,13 @@ The vampire stands alone in the dead center of the circle,
 -- Page 155, Offset 35691.
 -- 「これが吸血鬼の体なのね！　イメージ通りに体が動いて、イメージ以上の力に満ちている……！
 "So this is the body of a vampire!
- it moves just like I hoped it would,
+ It moves just like I hoped it would,
  but I never could have imagined this %{i}power%{/i}!
 }
 [sha:c5c467ecaceaaf16a0a4dddc5cb32b6187ee8112]{
 -- Page 155, Offset 35692.
 -- わたし、ずっと疑問だった！　どうして吸血鬼たちはあんなに偉そうで、ドイツもコイツも人間を虫ケラ扱いするのかって！　でも、その理由が分かっちゃった！」
-I %{i}always%{/i} wondered about it!
+I %{i}always%{/i} wondered!
  Why do vampires act soooo high and mighty――why do they all treat humans like insects?
  But now, I finally get it!"
 }
@@ -938,7 +939,8 @@ She won't get me a third time.
 [sha:f21a2251c727e53d74930f7156e644af97f72a79]{
 -- Page 161, Offset 35712.
 -- 多少速度はあがっていても、この吸血鬼の上限はもう見えた。
-Even though she's moving slightly faster than before, I can already see her limits.
+Even though she's moving slightly faster than before,
+ I've already deduced what she's capable of.
 }
 [sha:56c8c6d109cd49819701233a786a4a517f1cf906]{
 -- Page 162, Offset 35713.
