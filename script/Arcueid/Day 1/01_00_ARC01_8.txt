@@ -234,9 +234,9 @@ This room doesn't feel familiar at all, but maybe that's what happens when you'v
 [sha:d23fd92f81a4111af0c621a00ff01bd284bb9c14]{
 -- Page 462, Offset 2336.
 -- 「けど、やっぱり落ち着かないな。今朝まで四畳半の部屋で暮らしてたからさ、高級ホテルに泊まりに来たみたいだ」
-// 四畳半の部屋 is about 80 square feet in freedom units assuming 1.8x0.9m tatami
+// 四畳半の部屋 isn't about the exact size so much as it being an _ordinary_ size
 "It's going to take some getting used to, though.
- The room I was living in up until this morning was only eighty square feet,
+ The room I was living in up until this morning was a pretty ordinary size,
  so it feels like I've come to stay at a fancy hotel."
 }
 [sha:b0f3aa30633f1539ba6b25f5f4c1bd8906500ec4]{
@@ -323,7 +323,7 @@ Inside my bag there's just my textbooks,
 [sha:e39a08414350eb05a597c4feda9ba117922820d9]{
 -- Page 469, Offset 2352.
 -- こんな立派な部屋だけで十分だ」
-A nice room like this is more than enough."
+A room this nice is more than enough."
 }
 [offset:2353]{
 -- Page 469, Offset 2353.
@@ -374,12 +374,12 @@ Normally I'd be in the living room watching TV or messing around on my phone,
 [sha:e85cf96e202043c9f6db15960fb40f3b52f1959d]{
 -- Page 473, Offset 2362.
 -- この屋敷にテレビとか、通信回線とかあるの？」
-Does this mansion have a television or Wi-Fi?"
+Does this mansion have a TV or Wi-Fi?"
 }
 [sha:a4fa88ac71d29b6b52b5f7f2d6760e7927c1f74c]{
 -- Page 474, Offset 2363.
 -- 「テレビと、通信回線……ですか？」
-"A television or Wi-Fi...?"
+"A TV or Wi-Fi...?"
 }
 [sha:cbac59d3114951e69c5be5a640166f2f088916dd]{
 -- Page 475, Offset 2364.
@@ -607,7 +607,8 @@ When you say 'Nee-san', do you mean Kohaku-san by any chance?"
 [sha:92703f27cf4ea8f53065fca46dc2f90d1f5b44ef]{
 -- Page 492, Offset 2408.
 -- 「はい。現在、このお屋敷で働かせていただいている者は、わたしと姉さんの二人きりです」
-"Yes. Nee-san and I are currently the only two people working in this mansion."
+"Yes.
+ Nee-san and I are currently the only two people who have been granted the honor of working in this mansion."
 }
 [sha:a30d5a15a1b85048a6c9b8d95bf4f6105da89ab8]{
 -- Page 493, Offset 2409.
@@ -623,7 +624,7 @@ Compared to the girl in the kimono, who was smiling the whole time,
 [sha:0f1704b20f5a691b819b035850a518001248c431]{
 -- Page 494, Offset 2411.
 -- 「そっか。あの人ならたしかにバラエティー番組を観てそうなキャラクターだ」
-"I see. She definitely looks like the kind of person who would watch a variety show."
+"I see. She definitely looks like the kind of person who would watch variety TV."
 }
 [sha:801e22ccec489628652c22c82943479744632cdf]{
 -- Page 494, Offset 2412.
