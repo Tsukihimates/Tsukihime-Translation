@@ -1,12 +1,13 @@
 [sha:b19aa91a78883ca51b60804caf200da077d8db68]{
 -- Page 10000, Offset 43712.
 -- こんにちは。『教えて！　シエル先生』、
-Good evening. This is 'Teach Me, Ciel-Sensei!'.
+Greetings.
 }
 [sha:3243da3de4f4f95706ee3230c1ca24df5b987d9b]{
 -- Page 10000, Offset 43713.
 -- 代理のエコアルクです。
-I am the substitute, Eco-Arc.
+ I am Eco-Arc, your substitute%{n}
+for 'Teach Me, Ciel-Sensei!'.
 }
 [sha:648ca3ce477c4f275dd35330d8636f0d9d9f0819]{
 -- Page 215, Offset 43714.
@@ -16,27 +17,31 @@ I was not originally meant to appear in this ending,
 [sha:1f91881ea409c707101d6a362233151a828a4daa]{
 -- Page 215, Offset 43715.
 -- シエル先生もネコも吹き飛んでしまったので。
-but it seems that both Ciel-sensei and Neco-Arc were blown away.
+ but%{n}
+it seems that both Ciel-sensei and Neco-Arc have been%{n}
+blown away.
 }
 [sha:60d0201e50a35e3748ff11e8df0aeda5ada63e8a]{
 -- Page 216, Offset 43716.
 -- 今回のエンドも直前からやり直せばいい、
-This time it is also an instant death from two choices,
+This is another instant-death dead end that can%{n}
+be avoided
 }
 [sha:c4624e386b9c6d826eb1ed44c5d09e92a8e0f835]{
 -- Page 216, Offset 43717.
 -- 即死系二択です。
-so please return to the previous choice.
+ by returning to the choice you made immediately prior.
 }
 [sha:4db106c8bd5d9a16d86c9cdf434e1cab9af3dba2]{
 -- Page 217, Offset 43718.
 -- あの現象は一秒でも早く終わらせたいので、
-I want that phenomenon to end as soon as possible,
+I want that phenomenon to end as soon as possible, so%{n}
 }
 [sha:c42f4ff1ab2b1519fc532b2ae2c884a631384f8c]{
 -- Page 217, Offset 43719.
 -- このコーナーはスキップして本編に戻ってください。
-so please skip this section and go back to the main story.
+please skip this corner and return directly to the%{n}
+main story,
 }
 [sha:823537cf8e5e2b5e7d45d431e9ae01094d5389b1]{
 -- Page 218, Offset 43720.
@@ -51,102 +56,113 @@ so please skip this section and go back to the main story.
 [sha:88ee7f5790af597026f82ebac65f5710436a523c]{
 -- Page 220, Offset 43722.
 -- ……スキップ、しないのですね。
-You're not going to skip, are you?
+You're not going to skip, are you?%{n}
 }
 [sha:3b2a98af60b54025dd7707d1df8735d855973cfb]{
 -- Page 220, Offset 43723.
 -- 仕方ありません。
-I guess it can't be helped.
+I guess there's nothing for it then.
 }
 [sha:0770a568503716c1f91d8052630e6a854470cc84]{
 -- Page 221, Offset 43724.
 -- このコーナーも今回で最後ですから。
-This is the final corner after all.
+This is the final corner, after all.%{n}
 }
 [sha:44376fb2588142d163fb875ee68756e502871030]{
 -- Page 221, Offset 43725.
 -- 少しだけ、サービスします。
-I suppose I can provide a little service.
+I suppose I can throw in something for your%{n}
+trouble.
 }
 [sha:28a2d7227a1d4c528e70577adafae943444011d8]{
 -- Page 222, Offset 43726.
 -- あれが『光体』……この街に現れた
-This is a 'Luminary'... a form of Arcueid
+The thing that has appeared in this city is%{n}
+a 'Luminary'...
 }
 [sha:318ee2662686d280362c69a8a4d86dad2a6fd8e9]{
 -- Page 222, Offset 43727.
 -- アルクェイドが暴走した姿です。
-that appeared in this city and went out of control.
+ A form Arcueid took after spiraling out of control.
 }
 [sha:01511d384b6135fc7a992b297d350cebd65af025]{
 -- Page 223, Offset 43728.
 -- 『光体』は惑星初期化のシステムですが、
-A 'Luminary' is supposed to be a planetary initialization
+A 'Luminary' is supposed to serve as a%{n}
+planetary initialization system,
 }
 [sha:2f8aa7d6cb211fa12eb842f202ad5c36f4f0963e]{
 -- Page 223, Offset 43729.
 -- これはもうそう呼べません。
-system, but now we can not call it that anymore.
+ but we can hardly call it that anymore.
 }
 [sha:bb51df21f239be2bcc31cb538546c9af4771609f]{
 -- Page 224, Offset 43730.
 -- ふられたから暴走するとか、
-After getting rejected and becoming beserk, it has simply
+It's simply a love-obsessed monster that's%{n}
+gone berserk after being rejected.
 }
 [sha:f841ccf013f6e5675812e86990b9c0913be6183b]{
 -- Page 224, Offset 43731.
 -- ただの恋愛怪獣ですよね。まったくもう。
-become a love obsessed monster. You got to be kidding me.
+ What a disgrace.
 }
 [sha:ccb24c724e374c8debd8f9a325786ff12758c8bd]{
 -- Page 225, Offset 43732.
 -- ……言葉が乱れました。忘れてください。
-...Please forget that last part. My words got mixed up.
+I misspoke...
+ Please forget that last part.
 }
 [sha:3e433ec5ce32d1cec645beb35aefe15089d105d1]{
 -- Page 226, Offset 43733.
 -- 全長ですが、
-In terms of it's length,
+As for its size,
 }
 [sha:05ced053a15ef23ad1785ff3b726977352904be6]{
 -- Page 226, Offset 43734.
 -- システム発生時は200メートル級。
-the generated system spans 200 meters.
+ at time of instantiation%{n}
+it spanned two hundred meters.
 }
 [sha:b68c5ddfd37c2ec894bb26affdf0ea60183e7f8b]{
 -- Page 227, Offset 43735.
 -- 顕現時はまだ安定していないので見た目の
-Because the period of manifestation was unstable, it
+Since it isn't stable immediately after it manifests,
 }
 [sha:1e8779c7867e6e7c7e912a4ab0338e22e0517891]{
 -- Page 227, Offset 43736.
 -- 規模が大きいかわり、当たり判定がありません。
-continues to grow indefinitely instead of covering a large area.
+// noclip on
+ it%{n}
+appears large but doesn't actually have a hitbox.
 }
 [sha:15a7173b7646dff0d6132cff2cbc07c95c28c228]{
 -- Page 228, Offset 43737.
 -- ビルをすり抜けて膨れ上がっているのも
-That is the reason why it is expanding through the
+This is why it has continued to grow%{n}
+through
 }
 [sha:bd9f9a670507717872b938dc4a64b4290cd78e8c]{
 -- Page 228, Offset 43738.
 -- そのためです。
-buildings as well.
+ the buildings as well.
 }
 [sha:83e4b627c7288fa8eb8247b26a8e1a30bb1e85a9]{
 -- Page 229, Offset 43739.
 -- 安定時になると全長は100メートル級で固定。
-When stabilized, the total length is fixed at 100 meters.
+Once stabilized, the total size is fixed at one hundred%{n}
+meters.
 }
 [sha:e1e1036f44ed6177267cd40a667a69e5a6bbfd33]{
 -- Page 229, Offset 43740.
 -- これは周囲の文明レベルに合わせてのものです。
-This is to match the level of civilization around us.
+ This is to match the level of civilization surrounding it.
 }
 [sha:26cbc82fcfe7aa36c1bc190915014a27bb64870e]{
 -- Page 230, Offset 43741.
 -- 体積……体重は計測できません。
-It is impossible... to measure it's volume and weight.
+Its volume and weight... are impossible to%{n}
+measure.
 }
 [sha:3105bea6fffcb2501ce3e5e95fe30e3ac5d106e8]{
 -- Page 231, Offset 43742.
