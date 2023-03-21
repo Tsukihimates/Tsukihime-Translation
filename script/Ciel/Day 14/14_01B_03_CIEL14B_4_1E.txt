@@ -6,77 +6,88 @@
 [sha:1e7258af118416d82c34c0398b9df83a303ef022]{
 -- Page 10004, Offset 40562.
 -- 体の周りで動き回っていた虫が力尽きた事を知覚して、彼女は満足げに微笑んだ。
-Realizing that the insect running around her surroundings had run out of strength, she smiles in satisfaction.
+Sensing that the insect scuttling around the periphery of her body has run out of strength,
+ she smiles in satisfaction.
 }
 [sha:072af7738fc862fe80a7ce0a485d6e685c1ef14b]{
 -- Page 10004, Offset 40563.
 -- 虫は風に巻かれる度に鳴き声をあげていたが、小さすぎて彼女の耳には届かなかった。
-The insect had cried out every time it was caught by the wind, but its voice was so small that it didnt reach her ears.
+The insect had cried out every time it was buffeted by the raging winds,
+ but it was too small for its voice to reach her ears.
 }
 [sha:70be17473e6b0fd4c1973306099c8d7c5290965a]{
 -- Page 106, Offset 40564.
 -- そこに不満を覚えないでもないが、今の彼女には声も言葉も必要ない。
-Although there was still dissatisfaction in her mind, there was no need for her to hear his voice.
+Although she's a little disappointed that she didn't get to savor it,
+ in her current state she doesn't need to hear his voice.
 }
 [sha:933a164a433482ce2dfdd67c60039a1eb84fa8e3]{
 -- Page 106, Offset 40565.
 -- この領域にいる生き物が何を感じ、何を思っているかなど、意識せずとも伝わってくるからだ。
-After all, she can understand what every creature in her territory feels and thinks without realizing it.
+After all,
+ the thoughts and feelings of every single creature within her domain is subconsciously transmitted straight to her.
 }
 [sha:18bd700413807f1c874f976470f439125e961602]{
 -- Page 107, Offset 40566.
 -- 「“はじめからその程度。
-"That's how it was from the very beginning.
+"It was always going to end this way.
 }
 [sha:202db7a2dc8d6bfe59c9675f5be84626fafaf2d4]{
 -- Page 107, Offset 40567.
 -- 分かっていないのは貴女の方だったじゃない”」
-You're the one who doesn't seem to understand."
+// Mirroring 40366 back at her
+%{i}You're%{/i} the one who doesn't seem to understand that."
 }
 [sha:f9bdaef1b35b5b28d8e9126fddb8f987bcc4c8c7]{
 -- Page 108, Offset 40568.
 -- 指先の虜囚に<呼|こ><吸|え>を向ける。
-She turns her voice to the prisoner at her fingertips.
+// 'Breath' important to preserve here?
+She addresses the prisoner held captive between her fingertips.
 }
 [sha:1f5c38aa96890f796b1213ef710186bf53aca109]{
 -- Page 108, Offset 40569.
 -- 反応はない。先ほどの『指圧』がよほど堪えたらしい。
-No response. It seems that the pressure from her fingers from earlier was too much for her to handle.
+There's no response.
+ It seems the 'massage' she gave her earlier was a little too much.
 }
 [sha:e045f2efbf90b557594095b3b2ef87b3f7fb2fd9]{
 -- Page 108, Offset 40570.
 -- 挽き肉状態から蘇生しているものの、脳はまだ回復していないようだ。
-Although she continues to ressurect from her minced meat condition, her brain still hadn't fully recovered yet.
+Even though her body has restored itself after being turned into mincemeat,
+ it seems her mind has yet to recover.
 }
 [sha:9a3b3f788a508061726747bac5d4e92b9bd0b182]{
 -- Page 109, Offset 40571.
 -- その不甲斐なさに嘆息して、彼女は左手を持ち上げ、手首を返した。
-Sighing at her worthlessness, she raises her left hand and turns over her wrist.
+Sighing at how worthless these scraps are,
+ she holds out her left hand, fingers pointed at the earth.
 }
 [sha:a537fb03ab2c82d2a05f9d3b5306385aff7e6260]{
 -- Page 109, Offset 40572.
 -- それは、今まで指に乗せていたモノを、ゴミ箱に棄てるような仕草だった。
-It was an act of discarding the thing on her fingers up until now like throwing away garbage.
+It's the sort of gesture one would use when throwing out a piece of garbage clutched in their fingers.
 }
 [sha:73026653fdc388f8788c9f952f7280ff76f53180]{
 -- Page 110, Offset 40573.
 -- 「“―――もういいわ。ここでお別れね、シエル。
-"―――That's enough. This is where we say goodbye, Ciel.
+"―――I've had enough. This is goodbye, Ciel.
 }
 [sha:d500af2b2fba6a311da483cd6e9a79da8b3a134c]{
 -- Page 110, Offset 40574.
 -- いつか気が向いたら、そこから出してあげる”」
-If you ever feel like it, I'll let you out of here."
+Maybe if I feel like it someday I'll let you of there."
 }
 [sha:c6d601c7ec9d6c725b192dbde2fab54c76b39f8b]{
 -- Page 111, Offset 40575.
 -- それは彼女にとっては意趣返しでもあり、思い上がった代行者への懲罰でもあった。
-In her eyes, it was both an act out of revenge and punishment for the arrogant Executor.
+To her, that act serves as both revenge and punishment for the arrogant Executor.
 }
 [sha:49b3c1e277977cfc086b4ae60bf12a25fe3cc5b6]{
 -- Page 111, Offset 40576.
 -- 代行者は言った。彼の事を理解していない、と。
-The Executor who told her that she didn't know anything about him.
+// Again, match phrasing from 40366
+She can't believe the Executor would say something like that.
+ That she didn't understand him at all.
 }
 [sha:715321980499d989e16426feb3bf06b49b6f5ffd]{
 -- Page 112, Offset 40577.
@@ -86,101 +97,125 @@ What a joke.
 [sha:5ec740bdfed41894f93e2bcaa1fcc9ab80fd373d]{
 -- Page 112, Offset 40578.
 -- 分かっていないのはシエルの方だ。彼女ほどあの生き物を理解しているものはいない。なにしろ今も知覚している。心音も体温も脈拍も免疫も、骨も髪も舌も喉も器官も、泣き言も悪態も怒りも悔しさも把握している。すべて自分の掌の上だ。判らない事など何もない。
-The one who didn't know anything was Ciel. No one understood that creature better than her. She can perceive him even now. She understands his heartbeat, his tempertaure, his pulse, his immunity, his bones, his hair, his tongue, his throat, his organs, his whining, his bad attitude, his anger, his pain, all of it. Everything is on top of her palm. There's nothing she doesn't understand.
+// Translating run on sentences with ands for もs / pauses at commas like the JP
+%{i}Ciel%{/i} is the one who doesn't understand.
+ Nobody out there understands him better than she does.
+ I mean, she can sense him even now.
+ She understands his heartbeat and his body temperature and his pulse and his immune system,
+ his bones and his hair and his tongue and his throat and his organs,
+ his complaints and his bad attitude and his anger and his frustration,
+ all of it.
+ She holds it all in the palm of her hand.
+ There's nothing about him she doesn't understand.
 }
 [sha:b49be33b04b91f3dd1e86a7b8e79057a74c83507]{
 -- Page 113, Offset 40579.
 -- 「“そう。だからこれでおしまい。
-"Yeah. That's why this is the end.
+"Yeah. That's why I know this is the end.
 }
 [sha:c5190ce662551c5b574c9e8b403751ce94d53719]{
 -- Page 113, Offset 40580.
 -- もう一歩も動けないもの、アイツ”」
-That guy can't move even a single step."
+// Slightly tweak, but pretty sure he was all fours at the end of the last file
+// and a literal tl just doesn't sound great here
+That guy isn't getting up again."
 }
 [sha:7859a50ec036ab25093ad04d3154c01b37f8b43f]{
 -- Page 114, Offset 40581.
 -- 地上80メートルの高さから棄てられる代行者。
-The Executor is thrown away from a height of eighty meters above ground.
+The Executor is discarded from a height of eighty meters.
 }
 [sha:35790793c69cfa5ba7f109b8ef23b7f77269a664]{
 -- Page 114, Offset 40582.
 -- 通常であれば、数秒後に地面に激突し、無惨な死体となるだろう。
-Under normal circumstances, she would crash into the ground in a matter of seconds and turn into a miserable corpse.
+Under normal circumstances,
+ she'd crash into the ground a few seconds later,
+ nothing left of her but a tragic corpse.
 }
 [sha:7ffbe65ff0a5590e37cc09ebd40ae7779b64fb1e]{
 -- Page 114, Offset 40583.
 -- だが彼女の足元には事象を収納する大渦が口を開けている。
-But the massive vortex storing events beneath her feet has its mouth wide open.
+But at the feet of the Luminary is a vortex that stores events,
+ its maw wide open.
 }
 [sha:b9c009933b0943bfefbbfc63e66c5c7251d806dc]{
 -- Page 115, Offset 40584.
 -- 代行者は地面に砕かれる事がない代わりに、一切の自由を奪われた“平面の事象”に変換され、永遠に苦しみ続ける事になる。その結末を救うものはどこにも存在しない。
-Instead of getting smashed by the ground, the Executor will be transformed by the 'surface event' that snatches away all freedom and continue to suffer for all of eternity.
+// Banished to the goddamn phantom zone
+Instead of being dashed to pieces against the ground,
+ the Executor will be transformed into a 'planar event',
+ deprived of their freedom,
+ and forced to suffer for all eternity.
+ A fate which offers no chance at salvation.
 }
 [sha:423038222e88962090cf18eeffa158544709d964]{
 -- Page 116, Offset 40585.
 -- 光体となった彼女の予測は絶対である。
-A prediction coming from a Luminary like herself is absolute.
+Now that she has become a Luminary,
+ her predictions are absolute.
 }
 [sha:5cf047bcc574c60cab5dd6bc1b06f9f7c3b22214]{
 -- Page 116, Offset 40586.
 -- 代行者シエルの運命は、
-The fate of Executor Ciel...
+The fate of Executor Ciel―――
 }
 [sha:0c94c2c0f1239d741266b1bd32f80917e4185466]{
 -- Page 116, Offset 40587.
 -- あの人間……否、転生者ロアの行動は、
-The actions of that human... no, of Roa's reincarnation,
+The actions of that human――no, of Roa's reincarnation―――
 }
 [sha:ec772953449ee3743b05318c7e73954f2e724c68]{
 -- Page 116, Offset 40588.
 -- 彼女の思うままでなければならない。
-must be persecuted to her heart's will.
+They are all destined to occur as she wills it.
 }
 [sha:21652fae76fe1a32551860d9fb35bdf485cc48f3]{
 -- Page 117, Offset 40589. Mods: @n.
 -- そう。
-That's right.
+That's right―――
 }
 [sha:9446b5ab9abd601c6978aa1bfe7f933668e0267a]{
 -- Page 117, Offset 40590.
 -- 全能者が予測を外す事はあってはならない。
-The prediction of the almighty can never be wrong.
+The predictions of the Almighty can never be wrong.
 }
 [sha:c926c70f616035a8994e1b8ee216e0405f951ae1]{
 -- Page 117, Offset 40591.
 -- それだけの能力、それだけの知覚を持っているのだ。
-That's the kind of ability and perception that she possesses.
+That's just how powerful she is.
+ How all-encompassing her perception is.
 }
 [sha:b59a60f105e6c84258e129feb3e563c61c8439b9]{
 -- Page 117, Offset 40592.
 -- もし外す事があれば、それは世界への侮辱であり、自身の無能さを証明する事に他ならない。
-If that prediction happens to be wrong, then it would be an insult to the world and be nothing but proof of her own incompetence.
+If her predictions were to be incorrect,
+ it would be an insult to the world itself;
+ nothing short of irrefutable proof of her own incompetence.
 }
-[sha:ee4882edb7558238ce45737a587685707e65cda4]{
+[offset:40593]{
 -- Page 117, Offset 40593.
 -- なので。
-But despite that...
+And yet―――
 }
 [sha:afe17b147716bb3344fe9851c60a2ae39b1671ef]{
 -- Page 118, Offset 40594. Mods: @n.
 -- 「“え―――
-"Eh―――
+"Huh―――
 }
 [sha:fd0584bbb6c191474866bc4a04f55175c945b598]{
 -- Page 118, Offset 40595. Glued.
 -- えぇぇええ！？”」
-eeeeeh?!"
+whaaaaaa?!"
 }
 [sha:2ebbb7f08403e350b121c7ca0d78b9d83b8485b4]{
 -- Page 118, Offset 40596.
 -- いま目の前で起きている展開は、彼女にとって、光体にまで変革した自分の立場を忘れるほどの衝撃だった。
-The development that unfolded before her eyes was a shock which made her completely forget her own position as a Luminary.
+The events that just transpired before her eyes come as such a shock that she completely forgets she's become a Luminary.
 }
 [sha:df813cfab6bcde855ce1f291f5048f9e2ef5f961]{
 -- Page 119, Offset 40597.
 -- ビルの壁に張り付いた後、脚に全血液を凝縮しての超・跳躍。
+// Shiki executing a perfect BLJ
 After clinging to the walls of the building, I condense all the blood into my legs and perform a massive leap.
 }
 [sha:91b6aaf27041f53823cca9283f72ee32455fb427]{
