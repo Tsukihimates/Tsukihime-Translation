@@ -1,32 +1,37 @@
 [sha:57319a9f248ff9ebf054c59c9e28797d210b4b7e]{
 -- Page 10007, Offset 40858.
 -- 『10秒、体力の回復に専念しろ。
-"Ten seconds, concentrate everything on recovering your strength.
+"Take ten seconds and concentrate on recovering your strength.
 }
 [sha:66dc010ecf77de199bbcabce62d776e5ddd092d9]{
 -- Page 10007, Offset 40859.
 -- それがおまえに残された、砂時計の最後の砂だ』
-That is the last remaining sand in your hourglass."
+// Kinda makes it sound like he dies in 10s or something.
+// Tempted to conjure 'spare' or something here.
+That time is the last of the sand that remains in your hourglass."
 }
 [sha:60c2c64962739854b83aea161e912f16d9135f58]{
 -- Page 206, Offset 40860.
 -- ロアに言われるまでもない。
-He didn't need to go so far as to say that.
+I don't need Roa to tell me that.
 }
 [sha:d31a50722164c7f1c6e68a2e5ace5f8c53792b8c]{
 -- Page 206, Offset 40861.
 -- 新記録に挑むスプリンター。
-A sprint challenging to set a new record.
+I'm a sprinter looking to set a new world record.
 }
 [sha:8644f875e5a28e0565b34b4b35edea902e17c28a]{
 -- Page 206, Offset 40862.
 -- 酷使に酷使を続け、幾度となく瀕死を迎え、その度、人間とかけ離れた作りになった身体を俯瞰する。
-To continue exploiting my body as I've done before, walking on the verge of death countless times, and each and every time, looking down on my body that had been turn beyond human.
+I look down at my body, which I've kept on heaping abuse onto.
+ I've skirted death countless times at this point,
+ and have only grown less and less human with each of those encounters.
 }
 [sha:ef48bdfb0b7a6d78862f94a7bd396307cccfe608]{
 -- Page 206, Offset 40863.
 -- ……正真正銘、吸血鬼として／人間として、これが最後の挑戦になる。
-...In all seriousness, this would be my final challenge as a vampire/human.
+It is nothing short of the truth to say that this will be my final act of defiance,
+ as both a human %{i}and%{/i} a vampire.
 }
 [sha:670420aaa3cb10cfc520fd1f52aebab89524bae4]{
 -- Page 207, Offset 40864.
@@ -36,132 +41,167 @@ To continue exploiting my body as I've done before, walking on the verge of deat
 [sha:8ed2e9e3b0fa8181d1a9f53b55bda0713b5eeba6]{
 -- Page 207, Offset 40865.
 -- 運命を懸ける間際の、10秒の深呼吸。
-A deep breath of ten seconds right before putting my fate on the line.
+Before I surrender myself to fate,
+ I take ten seconds to draw a long, deep breath.
 }
 [sha:fa890f049bc747331fdca6973dc4f44c9fc6bf22]{
 -- Page 208, Offset 40866.
 -- １秒。酸素吸引による血液の活性化。断線しまくっていた筋肉繊維を、硬化しきっていた血管を、ほぐし、繋ぎ合わせる。
-One second. Activate my blood through inhaling oxygen. Unravel and connect the muscle fibers that had been torn and the blood vessels that had been stiff.
+// ほぐし、繋ぎ合う applies to both, but a little awkward in EN
+One.%{n}
+I rejuvenate my blood by inhaling fresh oxygen.
+ I relax my stiffened arteries and knit my shredded muscle tissue back together.
 }
 [sha:190d7b728565ff9d800582adda1f290444872cf3]{
 -- Page 209, Offset 40867.
 -- ２秒。<身体|なかみ>の修理に神経を集中させる一方、光体までの距離を測る。
-Two seconds. Focus my nerves on repairing my insides while measuring my distance to the Luminary.
+Two.%{n}
+As I focus my nerves on repairing the damage to my body,
+ I estimate the distance between me and the Luminary.
 }
 [sha:093c1412888d1eb0689235e745628d8d3ac58337]{
 -- Page 210, Offset 40868.
 -- ３秒。最短距離は目測で400メートル。実移動距離は４キロメートル。
-Three seconds. The shortest distance by sight is 400 meters. The true traveling distance is four kilometers.
+Three.%{n}
+By eye, it looks like she's four hundred meters away.
+ On foot, I'll actually have to cover about four kilometers.
 }
 [sha:0483286304d824faa0223804f0523b28fc30172a]{
 -- Page 211, Offset 40869.
 -- ４秒。光体への到達まで１分。その１分間の体力を取り戻すのに、最低限、10秒の補給が必要だった。
-Four seconds. One minute to reach the Luminary. A bare minimum of ten seconds of replenishment required to recover a minute's worth of strength.
+Four.%{n}
+It will take me one minute to reach the Luminary.
+ In order to regain that minute's worth of stamina, I had to rest for at least ten seconds.
 }
 [sha:01de85316e97552b1d210cf48f75696364e74976]{
 -- Page 212, Offset 40870.
 -- ５秒。逸る気持ちを抑えて呼吸に専念する。こうしている今も巨人は校舎に向かっている。
-Five seconds. Suppress my excitement and focus on breathing. Even now, the giant is heading toward the school building.
+Five.%{n}
+Even now, the giant is making her way toward the school.
+ Still I suppress the urge to run after her, and focus on my breathing.
 }
 [sha:9b203b11664b94e6540b04dd0a5779342b4c2339]{
 -- Page 213, Offset 40871.
 -- ６秒。こうしている今も、光体は破滅に向かって歩いている。
-Six seconds. Even now, the Luminary is walking toward its own destruction.
+Six.%{n}
+Even now, the Luminary is closing in on her destination.
 }
 [sha:907d52f065c71526ac2bb0b3e5c2feffe42dfeeb]{
 -- Page 214, Offset 40872.
 -- ７秒。アイツが今までのように徹底して俺を無視しようが、意識しようが、その妨害は今までの比ではないだろう。
-Seven seconds. Whether she completely ignores me as she did until now, or whether she'll be aware, her obstructions will be on a completely another level.
+Seven.%{n}
+I don't know if she'll completely ignore me like she did before,
+ or face me directly,
+ but either way,
+ her opposition is going to be the fiercest it's ever been.
 }
 [sha:0570af4c6a205c734ced0e0c672b007937a69a08]{
 -- Page 215, Offset 40873.
 -- ８秒。その事実に肉体が硬直する。
-Eight seconds. My body turns stiff from that fact.
+Eight.%{n}
+The mere thought of it makes my blood run cold.
 }
 [sha:b7bd169825ba95e0e38550d723527c5d04711280]{
 -- Page 216, Offset 40874.
 -- ９秒。その価値があるのか。あの女は、愛しい女を後回しにしてまで、命を差し出す意味があるのかと。
-Nine seconds. Is there any point to this? To go so far as to put the woman I love on the side and risk my life for that woman?
+Nine.%{n}
+Is what I'm doing worth it?
+ Is there any meaning in putting my life on the line for that woman,
+ especially when it means putting the woman I love to one side?
 }
 [sha:06391602612093168a4298a90d1867b23fe5aea3]{
 -- Page 217, Offset 40875.
 -- ―――10秒。
-―――Ten seconds.
+―――Ten.
 }
 [sha:b7481c5bff77276878610881baa67eacfbd0d4b9]{
 -- Page 217, Offset 40876.
 -- 考えるまでもない。
-It's not even worth thinking about.
+That question isn't even worth considering.
 }
 [sha:60877393ef81bdb05dcdf52b60fa65a775911c4d]{
 -- Page 217, Offset 40877.
 -- あらゆる思考を切断し、最後の追撃を開始した。
-I cut off each and every thought and begin my final pursuit.
+I banish all thoughts from my mind,
+ and begin my final pursuit.
 }
 [sha:a617574379db9c0032d5a9df530e6c0c921d6b54]{
 -- Page 218, Offset 40878.
 -- 巨人はビルの森を闊歩し、
-The giant strolls through the forest of buildings,
+The giant strolls through the forest of buildings.
 }
 [sha:5dd78526087ef005d9b08f9862ec3c51ceb53d4c]{
 -- Page 218, Offset 40879.
 -- 俺はビルの谷間を跳ねていく。
-while I leap through the valley of buildings.
+I bound across the valleys between those buildings.
 }
 [sha:91781a8626da7533880a5df368288ed375aeb67b]{
 -- Page 219, Offset 40880.
 -- 光体に近づく事は容易である。
-Getting close to the Luminary is a simple task.
+Getting close to the Luminary is easy.
 }
 [sha:e74ad8904fc585c14c54b08b7002853dd032fc27]{
 -- Page 219, Offset 40881.
 -- 事象収納によって吸い込まれていくビルは、光体に接近しようとする俺の速度を速めてくれる。背中を押す追い風のようなものだ。
-The buildings being sucked in by the Event Storage speeds up my attempt to approach the Luminary. It's as if a tailwind had pushed my back forward.
+Since buildings I'm jumping off of are being sucked in by her Event Storage,
+ they're helping accelerate me toward her.
+It's like I have a tailwind at my back.
 }
 [sha:98ebb34673ceaf7258b952deddffbe2c4ad7e5d1]{
 -- Page 220, Offset 40882.
 -- 光体の背中が近づいてくる。
-The back of the Luminary is getting closer.
+I'm closing in on the back of the Luminary.
 }
 [sha:46e6089303d0c8d6e785d687fc22c200e0c666f8]{
 -- Page 220, Offset 40883.
 -- 迂回する事も、逃げる事もしない。
-I won't run or take a detour.
+I'm not going to run away or try to play it safe.
 }
 [sha:d01ada6e3bda55c8c231dbb85c0608a4436ae9e2]{
 -- Page 220, Offset 40884.
 -- まっすぐに、その白い<躯|からだ>を視界に収める。
-I set my sights straight ahead to that white body.
+// 'body in white' not really gonna work here
+My sights are locked on her white body,
+ and I'm making a beeline straight for her.
 }
 [sha:3ccf2360a71af05bf0cb0639fcd95cbe690b3d5d]{
 -- Page 220, Offset 40885.
 -- 俺の左手には、アイツにとってまち針以下のナイフが今も握られている。
-Even now, I'm holding on to the knife in my left hand that is nothing more than a marking pin in her eyes.
+Even though it's little more than a thumbtack to her,
+ my knife is still gripped in my left hand.
 }
-[sha:783b92152d187f7ef60c1dda2d68c366412fcb4a]{
+[offset:40886]{
 -- Page 221, Offset 40886.
 -- 「“――――――”」
+// This page is different based on your affection (I assume)
+// _IF__(F081,ge,7,LV00500);
+// This version is the F081 <= 7 version (mild hrmph)
+// Audio track A10_14_01B_0098_0
 "――――――"
 }
-[sha:783b92152d187f7ef60c1dda2d68c366412fcb4a]{
+[offset:40887]{
 -- Page 10008, Offset 40887.
 -- 「“――――――”」
-"――――――"
+// This page is the F081 > 7 version (しつこい！)
+// Audio track A10_14_01B_0098_1
+"Ugh, you're so persistent!"
 }
 [sha:b0c5a837c81946a69f8a873cb62b8a038dc10b21]{
 -- Page 10009, Offset 40888.
 -- 繰り出される大気の爪。
-The claws of air get unleashed.
+The claws of air are unleashed.
 }
 [sha:fe33e047d44ccc85263c8300c236f314782fd716]{
 -- Page 10009, Offset 40889.
 -- 今さらながら、その巨大さは爪というよりは掌だった。
-Even after everything that had happened, its enormous size was closer to a palm than a claw.
+It's a bit late to correct myself now,
+ but it's really more like the size of a whole hand than a single claw.
 }
 [sha:09616e0614baef7fff7eb9d25d4a0b9776641d35]{
 -- Page 222, Offset 40890.
 -- 周りを飛ぶ小虫を指先で払ったのではなく、ムキになって乱暴に繰り出された平手打ちだったのかもしれない。
-Perhaps it was more like a slap sent out in a violent manner out of irritation rather than a finger brushing off an insect flying around.
+Instead of shooing away an insect with the tip of your finger,
+ it's more like violently trying to swat it with your palm.
 }
 [sha:5edb009f33a543912caef465c6a797d910b69571]{
 -- Page 223, Offset 40891.
