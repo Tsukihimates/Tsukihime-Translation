@@ -47,12 +47,14 @@ Homeroom is starting!"
 [sha:c737aceb11ad640bde49b24314249a0df81fb9bf]{
 -- Page 128, Offset 2935.
 -- ざわついた空気が一瞬で沈静する。
-The buzz in the air instantly calms down.
+The lively atmosphere in the room instantly settles down.
 }
 [sha:1962bb5a647535e7c29941a4938e3ba75f644f72]{
 -- Page 128, Offset 2936.
 -- 教室に入ってきたその教師は今まで見た事のない、というかどう見ても日本人ではない、それどころか大学生にしか見えない、予想外の人物だった。
-The teacher who walked into the classroom is someone I have never seen before. She definitely isn't Japanese, and she looks like a university student. What an unexpected visitor.
+The teacher who walked into the classroom is someone I've never seen before.
+ I mean, she's clearly not even Japanese, and she looks more like a university student than a teacher.
+ Not who you'd expect at all.
 }
 [sha:d27304b3f89844260eeae49c21c06d83548683d1]{
 -- Page 129, Offset 2937.
@@ -67,19 +69,19 @@ Everyone froze up all of a sudden...
 [sha:010805953290f968cda34eef36f68f6a3fedd41a]{
 -- Page 129, Offset 2939. Mods: @k, @e.
 -- なに、私ったら<毒|バ><蛇|ジ>系女子？
-What am I, a basilisk woman?
+Like, what? Am I some kind of basilisk?
 }
 [sha:f92e10d49b6c09cde904e407b6e7c377e395fa5a]{
 -- Page 129, Offset 2940. Glued. Mods: @x.
 -- あ、いけない、ちょっと喩えがマイナーよね。えーと、日本風に言うと<心筋梗塞|リング>系女子？　でも先生、名前はサダコじゃないんだけど」
  Oh wait, that metaphor is a bit obscure, isn't it?
  Erm, in Japanese terms, maybe something like the girl from %{i}The Ring%{/i}?
- But Sensei's name isn't Sadako, you know."
+ But your new teacher's name isn't Sadako, you know."
 }
 [sha:4c54b3ee94f60701ac686b6da36392a0b1235e3d]{
 -- Page 130, Offset 2941.
 -- その喩えも既に古いのでは？　と眉をしかめる。
-I frown. Isn't that metaphor already a bit dated?
+I frown. Isn't that reference %{i}also%{/i} a bit dated?
 }
 [sha:d72e641e9c3cdf44671b926351f9ef4a20299e4e]{
 -- Page 130, Offset 2942.
@@ -125,32 +127,36 @@ It was the sound of the boys as they unconsciously rose from their chairs after 
 [sha:c3d032ee17d271eefad40812391bf523ab4847d5]{
 -- Page 133, Offset 2950.
 -- かくいう自分も、ちょっとだけ見入ってしまった。
-I have to admit that I'm a little taken in as well.
+Even I have to admit I'm a little taken in as well.
 }
 [sha:e99b707666f03d19baf197114fd470772bbfc3bb]{
 -- Page 134, Offset 2951.
 -- ノエル先生は目を見張るような美人ではないが、
-It's not like she's strikingly beautiful.
+It's not like she's %{i}exceptionally%{/i} beautiful or anything.
 }
 [sha:2915b6990f4c0f54ca470d9b60d8b75424fa60d6]{
 -- Page 134, Offset 2952.
 -- その分手が届く範囲の憧れというか、
-But it sorta feels like she's within our reach.
+But because of that there's this, like,
+ sense that she's still within our reach that gets your hopes up.
 }
 [sha:835bbd53c112aea717625e429c3f64a27ab901e5]{
 -- Page 134, Offset 2953.
 -- ちょっとだけ年上のお姉さんというか、
-Or maybe she has the aura of a mature woman.
+Maybe it's because she's only %{i}slightly%{/i} older than us...
 }
 [sha:e352e328c24afe2b8e570f788d653c3c39a6b936]{
 -- Page 134, Offset 2954.
 -- 言葉にはできない魅力で満ちているというか、
-Or maybe she's filled with a charm that can't be put into words.
+But she's just overflowing with some kind of indescribable charm.
 }
 [sha:e756816dcbf4bf714932b89d09146be2fadff806]{
 -- Page 134, Offset 2955.
 -- とにかく、一目で男子高校生の憧れを刺激する、ふわふわしたホイップのような何かがあった。
-All that to say: she has this quality, like that of a fluffy meringue, that can stir up the desires of the high school boys the moment they lay eyes on her.
+Basically,
+ what I'm getting it is that she has this %{i}something%{/i} to her,
+ similar to a fluffy meringue,
+ which is enough to stir up the desires of any high school boy.
 }
 [sha:f49fef525554792719f77a717f0ba38a65811b01]{
 -- Page 135, Offset 2956.
@@ -170,7 +176,7 @@ All that to say: she has this quality, like that of a fluffy meringue, that can 
 [sha:609d0fd64e266a474d01996042b28a91800122e4]{
 -- Page 135, Offset 2959.
 -- 「つーか好きな高校生のタイプは誰ですか！？」
-"Or rather, what's your favorite type of high school student?!"
+"Actually, what's your favorite kind of high school student?!"
 }
 [sha:450b13aa00f99d2f0ad03f328bab339be7266254]{
 -- Page 136, Offset 2960.
@@ -185,12 +191,8 @@ These topics are usually discussed in an anonymous forum, but the guys who were 
 [sha:39b14d37edf36143f2df4792583580c28fe9be5a]{
 -- Page 137, Offset 2962.
 -- 女子たちは“男子サイテー”と冷めきった視線を向けてくるが、熱に浮かされた彼らにとって、見飽きたクラスメイトからの軽蔑なんてどうでもいい問題らしい。
-// feverish as in frenzied, in a trance, crazy about (Noel). I modified 見飽きる to
-// "fed up being in the same room", I just couldn't word it well enough with
-// "getting sick of looking (at them)", the whole sentence was just so awkward.
-The girls stare at them coldly with a gaze that says 'boys are pathetic'.
- But the feverish boys couldn't care less about the scorn of their classmates,
- who are getting fed up with even being in the same room as them.
+The girls stare at them coldly with a gaze that says 'boys are pathetic',
+ but the feverish boys couldn't care less about the scorn of their fed-up classmates.
 }
 [sha:e9bcb3c2ddc9df9b8aa020b382b74d09de443b24]{
 -- Page 138, Offset 2963.
@@ -207,7 +209,8 @@ The girls stare at them coldly with a gaze that says 'boys are pathetic'.
 [sha:8a99bf585742f9f9ba1c33978b72316270d7420d]{
 -- Page 138, Offset 2964.
 -- えー、年齢はどうせ女子のみなさんが暴いちゃうだろうから言っちゃうと25歳、住まいは二駅となりの賃貸マンション、好きなタイプはオトナな頭の文系男子、趣味は日曜教会でお手伝いをしています。となり街の教会だから、興味があったらお祈りにきてくれると先生嬉しいな」
-Hmm, the girls would probably expose my age anyway, so let's just say I'm twenty-five years old.
+Hmm, the girls would probably expose my age anyway,
+ so I'll just come out and say I'm twenty-five years old.
  I live in a rented apartment two stops away by train,
  and my favorite type of man is the mature, artistic type.
  My hobby is helping out at the church on Sundays.
@@ -224,12 +227,14 @@ Hmm, the girls would probably expose my age anyway, so let's just say I'm twenty
 [sha:fb8be75553dd2ed6a848adf59e7b8ac8f70027da]{
 -- Page 139, Offset 2966.
 -- 「ええ。私の国じゃそう珍しい事じゃありません。まあ、まだまだボランティアレベルで、悩める子羊の告白を解決してあげてるだけですけど」
-"Yep. It's not that uncommon in my country. Well, I'm still a volunteer though, just trying to resolve the confessions of troubled lambs, you know."
+"Yep. It's not that uncommon in my country.
+ Well, I'm still a volunteer though.
+ Just trying to sort out the confessions of lost little lambs, y'know?"
 }
 [sha:39bff8b6c7a1e798053f936add58e8ce3c3eb283]{
 -- Page 140, Offset 2967.
 -- 「おお……おおおお……」
-"%{i}Oh... oooh%{/i}..."
+"%{i}Oh%{/i}... %{i}oooh%{/i}..."
 }
 [sha:9f7d25107b4fcf7d590c704e0e2e055f73b193be]{
 -- Page 140, Offset 2968.
@@ -249,27 +254,27 @@ Meanwhile, the girls are silently fiddling with their phones.
 [sha:fb12896191a380a00a43f03c0cb4bf2bba23a16c]{
 -- Page 141, Offset 2971.
 -- こちらもさりげなく生徒専用の匿名掲示板をチェックする。
-I casually check the anonymous bulletin board for students.
+I casually check our anonymous bulletin board for students.
 }
 [sha:1d7e07e22012456b2014cac213b4bc6738eec314]{
 -- Page 142, Offset 2972.
 -- 『なにあれ、男子バカすぎなんですけどー』
-'What's with that, boys are so stupid...'
+'Like, what? God, boys are SO stupid.'
 }
 [sha:6a323bffc38a413b68beead29c098519a9900bcd]{
 -- Page 142, Offset 2973.
 -- 『そんなに美人かアレ？』
-'Is she really that pretty?'
+'Is she THAT pretty? Srsly?'
 }
 [sha:89530099b3e63a3a024e0ca5403481f8d11b899c]{
 -- Page 142, Offset 2974.
 -- 『フランス人のハーフとかよそでやってくんないかなあ』
-'I wonder if she's half French or something'
+'I mean please go be half-french somewhere else, hello?'
 }
 [sha:c3a878b55b2805d7e460bb220454c47639b37880]{
 -- Page 142, Offset 2975.
 -- 『っていうか、あのオンナもちょっと露骨じゃねえ？』
-'I mean, isn't she a bit shameless?'
+'I mean like honestly isn't she being like WAY too forward?'
 }
 [sha:d616a38ec57abb37c15f8674e529daa0660dfc08]{
 -- Page 143, Offset 2976.
@@ -279,22 +284,23 @@ There you have it...
 [sha:12b8e1ec11779587cc2876c0549582e6301f5b43]{
 -- Page 143, Offset 2977.
 -- 掲示板にはあからさまな陰口が書き込まれていく。
-There's a lot of negative talk on the board.
+The girls are unabashedly posting some real nasty stuff on the forum.
 }
 [sha:fdc9a7dc2679c51f7f79a03febeb3d3aba702b52]{
 -- Page 144, Offset 2978.
 -- かくして、クラス内は『男子』『女子』という単純な派閥に分かれる不思議空間と化してしまった。
-Thus, the class has become a mysterious space divided into simple factions of 'boys' and 'girls'.
+And so our class morphed into a strange dimension where people are divided by the simple criteria of 'girl' or 'boy'.
 }
 [sha:c50cb9bffd711d92ef67801b02fc181054628108]{
 -- Page 144, Offset 2979.
 -- 即ち、『男子サイテー』『女子ウルセー』と罵り合う、中学生もかくやという原始時代である。
-In other words, we have gone back to the primitive age of middle school students cursing each other, saying stuff like 'boys are terrible' and 'girls are annoying'.
+In other words, we've returned to the stone age of middle school,
+ where girls and boys argue by hurling childish insults like 'boys are jerks' and 'girls are annoying'.
 }
 [sha:5d66e8256fa7dfb9aef70217b329ebf802fed16a]{
 -- Page 145, Offset 2980.
 -- そんな様子をほんわかとした笑顔で眺め、
-She observes the situation with a soft smile.
+Noel-sensei watches it all unfold, a soft smile on her face.
 }
 [sha:82027402c8b3273cd5dfa9a8d79a2cb000716019]{
 -- Page 145, Offset 2981.
@@ -304,14 +310,14 @@ She observes the situation with a soft smile.
 [sha:244d054a7a10883a645d8517b9054f2d8342abb3]{
 -- Page 145, Offset 2982.
 -- スレスレの発言をする新任教師。
-The new teacher makes a scathing remark.
+Our new teacher makes a questionable remark.
 }
 [sha:14b099cd3af1738f27b90860ff3c45fc16fefbac]{
 -- Page 146, Offset 2983.
 -- 教室の空気についていけず、視線を逸らすと弓塚と目が合った。弓塚もこの空気に乗り遅れたのか、俺と同じように所在なさげである。
 The atmosphere in the classroom is starting to be a bit much for me, so I look away.
  As I do, I make eye contact with Yumizuka.
- She must not be feeling it either, she looks as bored as I am.
+ She must not be feeling it either, because she looks as bored as I am.
 }
 [sha:ecf4225269c506a521cc52c12a94913733f3cedb]{
 -- Page 146, Offset 2984.
