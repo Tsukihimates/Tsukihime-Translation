@@ -11,12 +11,12 @@ The back of my neck feels strangely hot... It's becoming swollen and numb.
 [sha:543352fc739fcbda0fcd57f1fea80ba0d554d894]{
 -- Page 10013, Offset 3067.
 -- そのせいだろうか。どこに向かう予定だったのか見失っている気がする。
-I wonder if that's the reason... I feel like I've lost track of where I was going.
+I wonder... Maybe that's the reason why I feel like I've lost track of where I was going.
 }
 [sha:6f8c930ddc61fc2c5d3d20f135f302294ee608ab]{
 -- Page 181, Offset 3068.
 -- 夜は漏れ出した水のように街を<覆|おお>っている。
-The night spreads itself over the city like spilled water.
+The night spills across the city like leaking water.
 }
 [sha:af3436fea66287abfc050717514affb8d3f62f13]{
 -- Page 181, Offset 3069.
@@ -81,7 +81,7 @@ It's less a street than it is a blind spot between the buildings.
 [sha:8c8412cbb2f8b3ff10a36c6f21f4807a86961aa2]{
 -- Page 184, Offset 3081.
 -- 周囲に人影はない。
-There's nobody else here.
+There are no people here.
 }
 [sha:1e5be9b3a58deb9a8526b67d47654f93c71ac3b0]{
 -- Page 184, Offset 3082.
@@ -96,7 +96,7 @@ No signs of life.
 [sha:b19ff96946357cfe2e86d2fa99e6b499194a2fa2]{
 -- Page 184, Offset 3084.
 -- ただ、<あ|・><の|・><奥|・>から、ガサガサと音がするだけ。
-There's only――a rustling sound, emanating from deep within.
+There's only――a rustling sound, emanating from deep within the alley.
 }
 [sha:4f7ec850b3dac4847c62d4396dbf9940aee82141]{
 -- Page 185, Offset 3085.
@@ -112,12 +112,13 @@ The superfluous trappings of modern civilization,
 [sha:0bb8f5878c1df74c973c808547160a1ffe84c679]{
 -- Page 185, Offset 3087.
 -- 眩しいので通り過ぎる。
-They're too dazzling, so I put them behind me.
+They're %{i}too%{/i} dazzling,
+ so I walk past them.
 }
 [sha:933dc681f3e7b5c3d53f93b9d2ffec8ba1aed865]{
 -- Page 185, Offset 3088.
 -- もっと暗い、夜に相応しい闇に足を向ける。
-I proceed into the gloomier, more fitting, darkness of the night.
+I proceed into the gloomier, more fitting, darkness of night.
 }
 [sha:f179038b0fcef4c7fd75ec5947db0d657ff0d43a]{
 -- Page 186, Offset 3089.
@@ -147,14 +148,14 @@ If I open it and go deep enough, I'm sure I'll find―――
 [sha:23d79d846930ca0f0d1d25a3729972ab608e3766]{
 -- Page 188, Offset 3094.
 -- 呼び止められて足が止まった。
-I stop in my tracks.
+Someone stops me in my tracks.
 }
 [sha:47e84079871e98cd6bcd1aad2964f4ad46699d10]{
 -- Page 188, Offset 3095.
 -- 軽い火花のような目眩で目が覚めた。
-// Reading 軽い火花のよう as like a light version of 目から火が出る?
-I've returned to my senses,
- but I'm still slightly dizzy.
+// 軽い火花のよう fairly common metaphor for dizziness in JP
+I'm still slightly dizzy,
+ but I've returned to my senses,
 }
 [sha:27414b622bfd52d0d3e8c6cc975df6274400946d]{
 -- Page 188, Offset 3096.
@@ -164,7 +165,7 @@ I don't know what's going on...
 [sha:dd54237ca21c2065e05193c9187f5b0be4a8609a]{
 -- Page 188, Offset 3097.
 -- なんでこんな場所に来て、
-Why did I come to this place?
+Why did I come here?
 }
 [sha:729e93fb675a3d2bc3487a98d7986b1b96aae905]{
 -- Page 188, Offset 3098.
@@ -209,7 +210,7 @@ She inserts the hundred yen into the vending machine and presses the button.
 [sha:e67e1a2780b5c588ba0c2dae7e8c96b8c5f79ad0]{
 -- Page 191, Offset 3106.
 -- 女の子は落ちてきた缶を取り出すと、
-The girl takes out the can that the machine dropped.
+The girl picks up the can spat out by the machine.
 }
 [sha:156b389a2671bbfe9367b399a9b2151d01df68eb]{
 -- Page 191, Offset 3107.
@@ -219,7 +220,8 @@ She frowns, looking disappointed.
 [sha:690fc8e2fbd5139a99777c7ed170985902e24bcf]{
 -- Page 192, Offset 3108.
 -- 「こんな時間に散歩とか、<暢気|のんき>ですね。
-"You must be rather carefree to be taking a walk at this time of night.
+"Walking around at this hour?
+ You sure are carefree.
 }
 [sha:05c4107fdd0b3ec69c078a86db85ac5d447d9241]{
 -- Page 192, Offset 3109.
@@ -249,7 +251,7 @@ Panicking, I start to dash out of the alleyway.
 [offset:3114]{
 -- Page 194, Offset 3114.
 -- ―――と。
-―――And then.
+But then―――
 }
 [sha:5e801d302798f8ba23e7c9ebb3f03981dbcaa90a]{
 -- Page 194, Offset 3115.
@@ -309,7 +311,7 @@ I need to get a move on too. I break into a run.
 [sha:6eed12b6cef0fb84347e6a9810e45fe224f108d5]{
 -- Page 198, Offset 3126.
 -- 一日目から門限を破るなんて兄貴として、いや人間としてダメすぎる。当主様のカミナリが落ちる前に、なんとしても屋敷に戻らなければ……！
-Failing to make it back by curfew from day one would be disastrous,
+Failing to make it back by curfew on day one would be disastrous,
  not just as an older brother, but as a human being.
  No matter what it takes, I need to get back to the mansion before the family head's lightning strikes me down!
 }
