@@ -1,83 +1,84 @@
 [sha:2de173f2278fcbb1f80b83d2ae8db263ac004064]{
 -- Page 10010, Offset 35926.
 -- 日々が終わる地獄を見た。
-I witnessed a hell where our everyday lives came to an end.
+I witnessed a hell in which my ordinary life came to an end.
 }
 [sha:f58f5568334319e0657c924a1c2ceece4f2cd5c4]{
 -- Page 10010, Offset 35927.
 -- “やめて”
-                                    "Stop."
+%{justify_right}"Stop."
 }
 [sha:2827c059119fab74ec4a57d7274b4211d0364ebe]{
 -- Page 10010, Offset 35928.
 -- 親が子供を殺す地獄を見た。
-I witnessed a hell where parents killed their own children.
+I witnessed a hell in which parents killed their own children.
 }
 [sha:62058aef2bd26b36ab7f870a5601b535e3cb79d2]{
 -- Page 10010, Offset 35929.
 -- “やめてください”
-                             "Please stop."
+%{justify_right}"Please stop."
 }
 [sha:2ee3a37149510ea0030d35c76ac67f4deba43bb3]{
 -- Page 10010, Offset 35930.
 -- 子供が親を殺す地獄を見た。
-I witnessed a hell where children killed their own parents.
+I witnessed a hell in which children killed their own parents.
 }
 [sha:b0c4517bd1b96e10259e18b259006cb9ee02d2fc]{
 -- Page 10010, Offset 35931.
 -- “お願い”
-                                     "Please."
+%{justify_right}"Please."
 }
 [sha:bb7005458f38cb68e8bb453e45225e5562b90492]{
 -- Page 10010, Offset 35932.
 -- 誰も彼もを分け隔てなく殺す地獄を見た。
-I witnessed a hell where everyone was killed indiscriminately.
+I witnessed a hell in which everyone was slaughtered indiscriminately.
 }
 [sha:b1584a999f505e1149b2c154fa9d5447b4854642]{
 -- Page 10010, Offset 35933.
 -- “やめて、やめてやめてやめてやめて……！”
 // lint-off:LintDupedWord
-          "Stop, stop stop stop stop...!"
+%{justify_right}"Stop, stop stop stop stop...!"
 }
 [sha:1f5b10f405950060f68b28dd50be514cb3e70a72]{
 -- Page 235, Offset 35934.
 -- ただの一度の制止もできず。
-It didn't stop for even a single moment.
+There was nothing I could do to stop it.
 }
 [sha:c9735d940a36d052006608ebee26748ec9093cb4]{
 -- Page 235, Offset 35935.
 -- それらすべて、わたしが引き起こした地獄を見た。
-I witnessed a hell where everything was caused by me.
+// それらすべて -> the acts of hell
+I witnessed a hell in which absolutely everything was caused by me.
 }
 [sha:490331d99381d57d1047afad778ae97d06ddf98a]{
 -- Page 236, Offset 35936.
 -- 手を止めたくても止められなかった。
-I couldn't stop myself even if I wanted to.
+Even though I wanted to stop myself, I could not.
 }
 [sha:5f6c2452a1892bdd9fd2ad52fff0fd4822317f4c]{
 -- Page 236, Offset 35937.
 -- 目を塞ぎたくても塞げなかった。
-I couldn't close my eyes even if I wanted to.
+Even though I wanted to close my eyes, I could not.
 }
 [sha:643b66e076669a91d3ca7677edd05e96d9149126]{
 -- Page 236, Offset 35938.
 -- 口を閉じたくても閉じられなかった。
-I couldn't shut my mouth even if I wanted to.
+Even though I wanted to shut my mouth, I could not.
 }
 [sha:04c34d867a4b2f14580f5cd01433a9fce3f4ea2f]{
 -- Page 236, Offset 35939.
 -- 殺したくても。
-I couldn't kill myself.
+Even though I wanted to kill―――
 }
 [sha:2b9128a48be8505a22c50b99a23e55c20bdf24be]{
 -- Page 236, Offset 35940.
 -- 自分を殺したくても、殺せなかった。
-I couldn't kill myself, even if I wanted to.
+Even though I wanted to kill myself... I could not.
 }
 [sha:37132343fd09ae22ab8ddf2b55cec746051ccbb3]{
 -- Page 237, Offset 35941.
 -- わたしは悪趣味な機械だった。
-I was an awfully twisted machine.
+I had been a sick and twisted machine.
 }
 [sha:55a0414b20bf035ae6cf8a5061a6950ececaa886]{
 -- Page 237, Offset 35942.
@@ -87,17 +88,19 @@ A wine press whose sole purpose was to collect blood.
 [sha:5eef0d60cb185df10545193dc8f229313ba784e4]{
 -- Page 237, Offset 35943.
 -- いや、機械に申し訳がない。
-No, I don't deserve to even be compared to a machine.
+No, such a comparison would be unfair to machines.
 }
 [sha:913c95416c7caaa2128bfaeedcff2dad0d679afc]{
 -- Page 237, Offset 35944.
 -- 機械にはあんな余分はない。悲鳴を聞きたいからとか反応がみたいからとか、そんな目的で作業工程は増やさない。
-A machine wouldn't go that far. A machine wouldn't increase its workload for the sole reason of wanting to witness their reactions and screams.
+Machines would never exhibit such excess.
+ Machines would never develop additional functionality just to hear people scream;
+ just to see how they would react.
 }
 [sha:2aed03d3d947004567e09082dd3dc54081183fc8]{
 -- Page 238, Offset 35945.
 -- わたしはとっくに人間じゃなかった。
-I lost whatever humanity I had left long ago.
+I had long ceased to be human.
 }
 [sha:40bf0ebc2ef330d8727297cab6f0656538d85c36]{
 -- Page 238, Offset 35946.
@@ -107,27 +110,29 @@ I was a creature who didn't have the right to even pretend to be human.
 [sha:c369d4bcc6a51f22d3061668899d1a00ea6f29d4]{
 -- Page 238, Offset 35947.
 -- 罪があろうがなかろうが、生まれてはいけない素材だった。
-Regardless of whether the sin is mine to bear or not, the fact remains that I should've never been born in the first place.
+// 素材 as in she was the raw materials that allowed Roa to materialize
+Regardless of whether the sin was mine to bear or not,
+ as someone who made it possible, I should never have been born at all.
 }
 [sha:181c97a083dc5da0d3b56fc1a10aa2e04bae7f12]{
 -- Page 238, Offset 35948.
 -- 誰もがそう口にしたし、誰の言葉も正しかった。
-Anyone would've said the same, and they'd have been right to say it.
+That's what everyone said, and they were right.
 }
 [sha:5662aaf0369170a2860f52b076d7d01e2097b58f]{
 -- Page 238, Offset 35949.
 -- わたしなんかが、生きていていい理由はなかった。
-Someone like me had no reason to even live on.
+There was no reason someone like me deserved to go on living.
 }
 [sha:ff46b11c856d4c3766280399b02a7d51f4cb7d4b]{
 -- Page 239, Offset 35950.
 -- せめて一日で終わってほしかった。
-At the very least, I hoped that it'd all be over in a single day.
+I had hoped that it would at least be over in a night.
 }
 [sha:1a26ebb5d292420cb6df12a6439488a1df0e9de2]{
 -- Page 239, Offset 35951.
 -- でも夜は明けなかった。
-But the night never came to an end.
+Yet daybreak never came.
 }
 [sha:8849a724e99b5a75f60679014c355cfc8368cbff]{
 -- Page 239, Offset 35952.
@@ -137,7 +142,11 @@ The ritual was close to succeeding.
 [sha:5f516ebec5a098d0b3d10c3945b5924152b9d132]{
 -- Page 240, Offset 35953.
 -- アルクェイドはわたしの手に落ち、あと少しで彼女を丸呑みにできるところだった。
-Arcueid would have fallen under my control, and then I would have swallowed her whole.
+// Dunno the finer points here on what operations the ritual entails exactly.
+// Might be a better loc for 丸呑み based on exactly what he planned to do.
+Arcueid had fallen into my clutches,
+ and with a little more time,
+ I would have been able to swallow her whole.
 }
 [sha:3c024bcb18c136bc32fda2bd7f648b73251879ef]{
 -- Page 240, Offset 35954.
@@ -148,7 +157,8 @@ And yet―――
 -- Page 240, Offset 35955.
 -- 呼ばれもしないのに現れた六人目が、あっさり天秤をひっくり返した。
 // Who is 六人目??? BEATO?!?!?!?!?!
-a sixth person appeared uninvited and tipped the scales with ease.
+An uninvited sixth person had appeared,
+ and easily tipped the scales.
 }
 [sha:0d21283006bf0d8c0eef0644bc3dd6a0f47a1f7d]{
 -- Page 241, Offset 35956.
@@ -163,52 +173,54 @@ At long last, I was finally killed.
 [sha:a571d37ae476db2d78e5f06d631f8921ebdd4d89]{
 -- Page 241, Offset 35958.
 -- どうせならもっと早く殺してほしかった。
-If that's how it's going to be, then she should've just killed me sooner.
+If it was always going to happen, I wish it had happened sooner.
 }
 [sha:992f9c6c0971b5e9a7ab2b46bff2f973009dc2b9]{
 -- Page 241, Offset 35959.
 -- わたしだった<物|も><体|の>はわたしが殺してきた人々と同じように、無造作に道に捨てられた。
-The body that was once mine was haphazardly thrown out onto the street, just like the corpses of the people I killed.
+The body that had once been mine was unceremoniously dumped on the street,
+ just as I had discarded the corpses of the people I myself had killed.
 }
 [sha:de93e34957c329e8a155c71abad14b3344c9826e]{
 -- Page 242, Offset 35960.
 -- その後に何があったのかは、目を閉じたわたしには知り得ない結末だった。
-What happened after that was a conclusion that I, who had already departed from the world of the living, could no longer bear witness to.
+Having already departed from the world of the living,
+ I had no means of knowing whatever happened after that.
 }
 [sha:2ffbaeb537d280c2c23d2bbf21e27e3df1616c65]{
 -- Page 242, Offset 35961.
 -- わたしはようやく暗い暗い死に埋没した。
-Finally, I was buried in the deep, dark embrace of death.
+I had finally sunk into the deep, dark embrace of death.
 }
 [sha:e308620aa760c94be84b0b3a63cdd005788c6205]{
 -- Page 243, Offset 35962.
 -- ……そうだ、これでいい。
-...Yeah, this is fine.
+Yeah... I was relieved.
 }
 [sha:4b56406fefb2cb4d899a9430102d809017cc7689]{
 -- Page 243, Offset 35963.
 -- もう目を覚ます事もない。
-I'll never wake up again.
+I'd never wake up again.
 }
 [sha:e6725d6079917439f1031393225a4d0536ed9c30]{
 -- Page 243, Offset 35964.
 -- もう毎晩、繰り返し思い出す事もない。
-I won't have to remember everything over and over again every night anymore.
+I wouldn't have to relive those memories night after night anymore.
 }
 [sha:e67ce042c7202306dab4491176d50224074eb2d9]{
 -- Page 243, Offset 35965.
 -- わたしはずっと、こうして死んだままでいればいい。
-I should just stay dead until the end of time.
+I wanted to just stay there in death's embrace forever.
 }
 [sha:7fe126e3251358a070f9fb7c67d6f845ff318dcf]{
 -- Page 244, Offset 35966.
 -- ……でも、眠っていても忘れられない。
-...But even when I'm asleep, I still can't forget.
+But even as I slept... I still couldn't forget.
 }
 [sha:bd160d7c9302db9117b0638270769505af09817a]{
 -- Page 244, Offset 35967.
 -- あの時の記憶を忘れていい筈がない。
-There's no way I'd ever be able to forget about what happened back then.
+I had no right to ever forget what happened back then.
 }
 [sha:75960055a9d72b2fa7188d8a413f6cb1449a8656]{
 -- Page 244, Offset 35968.
@@ -218,7 +230,7 @@ That's why I fought.
 [sha:347e2bf46bf30e592de23810b2184d0a9e76f2ca]{
 -- Page 244, Offset 35969.
 -- 少しでも人々の役に立てればと願った。
-I hoped that I could be of help to the people, even if only in the slightest.
+I wanted to do whatever I could to help people.
 }
 [sha:5ab19d40a41a2cc70846face5ac155e70d1330ec]{
 -- Page 244, Offset 35970.
@@ -238,12 +250,12 @@ What a naïve wish that was.
 [sha:81c268ca391927acfc48d2d8d467b6616d5a49ef]{
 -- Page 245, Offset 35973.
 -- わたしは周りを傷付けただけだった。
-All I ever did was hurt the people around me.
+All I did was hurt the people around me.
 }
 [sha:2d9e7d8b8f0682b0de261ee910312dcd12e9909f]{
 -- Page 245, Offset 35974.
 -- 彼女の魂を汚しただけだった。
-All I ever did was taint her soul.
+All I did was taint her soul.
 }
 [sha:287c2a2fca692b1e45839acdb83486a7ce9e8d1e]{
 -- Page 246, Offset 35975.
@@ -253,7 +265,7 @@ I'm sorry. I'm sorry. I'm sorry.
 [sha:699a6ae79cd08d5639df570fcbd9b82670b538a3]{
 -- Page 246, Offset 35976.
 -- 思い上がってごめんなさい。
-I'm sorry for being so conceited.
+I'm sorry for thinking too highly of myself.
 }
 [sha:64c2cae4428add43a0c52bad20ec736e803c12ce]{
 -- Page 246, Offset 35977.
@@ -273,37 +285,40 @@ These past six years were all for nothing.
 [sha:0951f6fabbd11681220fdffdde5eb0989999f5e1]{
 -- Page 247, Offset 35980.
 -- わたしはとっくにわたしではなくなっていて、ただ生きているだけの肉にすぎなくなっていて。
-I already lost myself long ago. Now I'm no more than a lump of flesh that just so happens to be alive.
+I ceased being my own person long ago.
+ I'm nothing more than a collection of human flesh that just so happens to be alive.
 }
 [sha:9f9a0335113f6273507836351862cb560107677e]{
 -- Page 247, Offset 35981.
 -- このまま自分を殺し続けて只の肉塊に成り下がるのが一番いいんだと理解しました。
-I understand. The best thing I can do now is to keep killing myself and remain the mere lump of flesh that I am.
+// I guess 只の肉塊 as in a _non_ living 肉, compared to 生きているだけの肉 from prev line?
+I should just keep on killing myself until that collection of flesh no longer lives.
+ That's clear to me now.
 }
 [sha:a0961337510aa57bbfa5a39d1e16277ca621b3b5]{
 -- Page 247, Offset 35982.
 -- 本当に、ごめんなさい。
-I'm so sorry.
+I'm so, so, sorry.
 }
 [sha:73364a8fa1070a70fd4448cf7da811ce61a5e858]{
 -- Page 247, Offset 35983.
 -- こんなわたしが何かを救えるだなんて、思ってさえいけなかった。
-I should've never even let the thought that I could save something so much as cross my mind.
+I should never have dared to even %{i}think%{/i} that someone like me could save %{i}anyone%{/i}.
 }
 [sha:728c3546da4cbbc05b6a72a6c611ae7b5d4faf0b]{
 -- Page 248, Offset 35984.
 -- “ぁ――――――”
-"Ah――――――"
+"Ah―――"
 }
 [sha:ec613bd22214f22a4e9db34e7af75c1e263f07c1]{
 -- Page 248, Offset 35985.
 -- なのに、どうして。
-And yet―――
+So then, why―――
 }
 [sha:16d823d579b1809048b224d3820cd6cb2c4d7cbd]{
 -- Page 248, Offset 35986.
 -- わたしの頭を、温かな手で撫でてくれる人がいるんだろう？
-why is there someone here, gently stroking my head with his warm hand?
+Why is there someone here, gently stroking my head with his warm hand?
 }
 [sha:d1c6b7f916227480889a3df9d70443103f26547f]{
 -- Page 249, Offset 35987.
@@ -318,22 +333,29 @@ Someone's still fighting out there.
 [sha:3e2d0643779920ab24fa726e4529cdbe8b60c6ce]{
 -- Page 249, Offset 35989.
 -- わたしなんかを背負っている。
-He's carrying someone like me on his back.
+// 'Someone like me' is a potentially vexing parse in EN as a TL here, so slightly altered
+He's carrying %{i}me%{/i},
+ someone so worthless,
+ on his back.
 }
 [sha:ee0189695d47472edcab27acf0b9be5332248cbf]{
 -- Page 249, Offset 35990.
 -- 見捨てずにシエルという名前を呼びかけ続けている。
-He's still calling the name 'Ciel' without ever giving up.
+He hasn't given up on me, and keeps on calling my name: Ciel, Ciel, Ciel.
 }
 [sha:f201f3317b4bd436f921e888b22c74c898f63ac1]{
 -- Page 249, Offset 35991.
 -- 密着した胸に、冷たく変わりきった体温が伝わってくる。
-He's holding his chest close to mine and sharing his warmth with me.
+// Pretty sure its mentioned in prev files that Shiki's body temp is lowered, right?
+// She's feeling _his_ 冷たく変わりきった体温 while shes on his back / has her chest pressed against him?
+// Assuming that this is in the same moment as the 背負っている
+With my chest pressed against his back,
+ I can feel how cold his body has become.
 }
 [sha:9e3f1b1a0c9ca79c6c078204b479884e0da436c1]{
 -- Page 250, Offset 35992.
 -- ……やめてほしい。
-...Please stop.
+Please stop...
 }
 [sha:b4c8b9e17c9aeb94e753b18cc7ac14aee0fac078]{
 -- Page 250, Offset 35993.
@@ -343,17 +365,26 @@ Just leave me behind already.
 [sha:82e7871e733df41fee3d4ad24cd36d27ed47235d]{
 -- Page 250, Offset 35994.
 -- こんな風に自分を必要としてくれる人もいる。
-There's someone who needs me right now.
+// Ugh this one feels awkward to encode all the minutia on.
+// Not sure I'm 100% correct here, but thought process is that
+// 0. 人 is Shiki here, hence that
+// 1. こんな風に referring to the way in which Shiki needs her
+// 2. くれる -> gratefulness, inflected onto 必要 -> cherish?
+// 3. _も_いる -> shock that he does?
+I can't believe there exists someone who would cherish me like this.
 }
 [sha:7c40c7b350a987d1282e7fff6631a94ab866b2c1]{
 -- Page 250, Offset 35995.
 -- たぶん、今まで他にもそういう人はいてくれた。
-I'm sure there were many others before who needed me as well.
+// Parents I assume based on interpretation above?
+I'm sure there used to be others who did too.
 }
 [sha:ab8e0d8ce88f994ffc12383d5fc3f788aaae5a6c]{
 -- Page 251, Offset 35996.
 -- けれど、それでも戦えない。もう耐えられない。もう思い出したくない。
-But even so, I can't fight. I can't handle it anymore. I don't want to remember it anymore.
+But even so, I can't fight.
+ I can't handle it anymore.
+ I've wanted to be free of it for so long.
 }
 [sha:30bfd1c3aaadb3e964969d95629cd1f8c49cfef9]{
 -- Page 251, Offset 35997.
@@ -363,7 +394,8 @@ It hurts. I've been bearing with the pain for so long. I've wanted to be free fo
 [sha:2130d3a27571e3fa1a1e36f759e5b53e22ced284]{
 -- Page 251, Offset 35998.
 -- わたしは強くなんかなくて、立ち止まるのが怖かっただけで、いつ壊れてもおかしくなかった。
-I was never strong. It's just that I was afraid of what'd happen if I stopped running, so it's only natural that I'd eventually break.
+I was never strong, I was just too afraid to ever stop running.
+ I was afraid that I could break down at any moment.
 }
 [sha:317ed9c3784783a5abdae06740298b02f8cb304e]{
 -- Page 252, Offset 35999.
@@ -378,27 +410,27 @@ After all, no matter how many vampires I defeat―――
 [sha:b460976c420ddde98544b8186db5b4ae848ec349]{
 -- Page 252, Offset 36001.
 -- どんなに誰かを助けても、
-or how many people I save―――
+No matter how many people I save―――
 }
 [sha:f24756457367bf3347ffac65a4cadd8c5e28cc07]{
 -- Page 252, Offset 36002.
 -- わたしが許される時はこないのだから。
-there will never come a time where I will be forgiven.
+I will never be forgiven.
 }
 [sha:eee5a6cff924edc12e9b803b514d3ebad34a90a5]{
 -- Page 253, Offset 36003.
 -- 『自分は許されないだって……？
-"You won't be forgiven, you say...?
+"What, you won't be forgiven?
 }
 [sha:1f9f83298e1144059d059f198655c9ee9784149c]{
 -- Page 253, Offset 36004.
 -- そんなの当たり前だ。あなたは絶対に許されない。
-Isn't that obvious? There's no way that'd ever happen.
+Of course you won't. How could you ever be?
 }
 [sha:88a4563743745c678293b70c9134bdc3415fab11]{
 -- Page 253, Offset 36005.
 -- 何よりあなた本人が、自分を許すことを認めない』
-More than anyone else, you would never allow yourself to be forgiven."
+Not when you're the one who won't allow yourself forgiveness."
 }
 [sha:c1ea6f305d682d7d60885369dafd57dbcfb541dc]{
 -- Page 254, Offset 36006.
@@ -408,22 +440,23 @@ More than anyone else, you would never allow yourself to be forgiven."
 [sha:a098ab7e658360d45ae4374f166ef47481646bbc]{
 -- Page 254, Offset 36007.
 -- その声はすぐ近くから。
-I hear someone's voice coming from right beside me.
+His voice sounds so close.
 }
 [sha:02b7f0a2cfbf6f4173dd1973a1f4dcda15bd4e2d]{
 -- Page 254, Offset 36008.
 -- ここにはもういない誰かが、全霊をこめて、わたしに残した言葉だった。
-These are the heartfelt words left behind by someone who is no longer here.
+These are the heartfelt words left for me by someone who is no longer here.
 }
 [sha:c12bdb4b90639c5986633870b1344c00f80dbfc2]{
 -- Page 255, Offset 36009.
 -- でも彼の言う通りだ。
-But it's just as he says.
+But he's right.
 }
 [sha:f2d882c81f47e44fa7d592431a23ee8cb19c313c]{
 -- Page 255, Offset 36010.
 -- 一生<赦|ゆる>しはない。一生<贖|あがな>えない。
-I won't be pardoned for as long as I live. No matter how long I live, I won't be able to atone for my sins.
+I will never know forgiveness
+ I will never know atonement.
 }
 [sha:d58c84faeedad15b524aa564f67698ba12423254]{
 -- Page 255, Offset 36011.
@@ -433,47 +466,52 @@ I can't make amends for the sins I committed in the past.
 [sha:1560dc3afcb7cca7bf7fd59b7f60009ca87e153d]{
 -- Page 255, Offset 36012.
 -- だから、このまま―――
-That's why I should stay here and―――
+That's why I should just stay here, and―――
 }
 [sha:73075189b750e2ebf408e468a5023f7b66a6e2f7]{
 -- Page 256, Offset 36013.
 -- 『違いますよ。あなたが許さないと誓ったのは過去じゃなくて、この先の行いでしょう？
-"That's not right. The thing you swore you would never turn a blind eye to wasn't the past, it was the future, right?
+// Assuming 許さない in the context of この先の行 is more like "not forgive herself if her future actions were lacking"?
+"That's not right.
+ What you swore couldn't be forgiven wasn't your past,
+ it was for your future actions to not reflect it.
 }
 [sha:76609481ad169411290b50128111ab86f7504b20]{
 -- Page 256, Offset 36014.
 -- 何をしても結果は同じなら。
-If the outcome won't change no matter what...
+// Based on prev past/future distinction, assuming this 結果 is what _already_ happened dans le incident Français?
+Even if nothing you do can change what happened...
 }
 [sha:502086560221bee8b4f91510babebf19ec9f2a6a]{
 -- Page 256, Offset 36015.
 -- 何をしても失われたものは戻らないのなら。
-If the things you've lost won't come back no matter what...
+Even if nothing you do can bring back what what's been lost...
 }
 [sha:9d9f772cfa5b490e0599e99fa655c4df344bd6e4]{
 -- Page 256, Offset 36016.
 -- せめて、一つでも多くの『善いこと』をやって死なないと』
-Then at the very least, you should do as much 'good' as you can for the rest of your life."
+You've still got to use what remains of your life to do as much good as possible."
 }
 [sha:ce4327240075327720da4242dcf6ddc560105d81]{
 -- Page 257, Offset 36017.
 -- “ぁ……あ、あ……あぁ、あ―――”
-"Ah... ah, ah... ah, a―――"
+"%{i}Ah%{/i}... %{i}ah%{/i}, %{i}ah%{/i}... %{i}ah%{/i}, %{i}a%{/i}―――"
 }
 [sha:060edbf46600e454bfe7ee6385d0d544d711a5dd]{
 -- Page 257, Offset 36018.
 -- みっともなくぐずぐずと泣いている。
-I disgracefully burst into tears.
+I sob. Uncontrollably and immodestly.
 }
 [sha:1e1271d3065ac56200fb83a235d0da10d807ba22]{
 -- Page 257, Offset 36019.
 -- 誰かの厳しい叱責があまりにも的を射ていて、自分の愚かさに胸が裂ける。
-His stern reproach hits so close to home that my own foolishness causes my heart to break.
+His stern reproach hits so close to home that my heart breaks under the weight of my own foolishness.
 }
 [sha:5b3cff8bf6e5b4de737a65333358fc60b2bb0759]{
 -- Page 258, Offset 36020.
 -- ……それは分かってる。分かっているのです。その為に今まで生きてきたのです。
-...I know. I know that already. That's why I've lived on for all this time.
+I know... I know that already.
+ That's what I've lived for all this time.
 }
 [sha:54c9320533c5de2a5ba0fecc191dff00e34a7430]{
 -- Page 258, Offset 36021.
@@ -483,7 +521,7 @@ But... do I even have the right to do that?
 [sha:5b582d51fd9e446a8867caa336dc9ccaaae35c6d]{
 -- Page 258, Offset 36022.
 -- 多くの命を奪ったわたしは、善き人々の生活に触れる事さえ、
-Does someone who has taken as many lives as me even deserve to touch the lives of the innocent people―――
+Does someone who has taken as many lives as me even deserve to touch the lives of innocent people?
 }
 [sha:a9539e998a62a1f820105100974c173171a4e3b1]{
 -- Page 259, Offset 36023.
@@ -493,77 +531,87 @@ Does someone who has taken as many lives as me even deserve to touch the lives o
 [sha:3932fad82c38ad4fefab7982a2d10c6274ec8971]{
 -- Page 259, Offset 36024.
 -- 嗚咽が止まらない。自らの醜さと弱さを思い知る。
-I can't stop crying. I've come face-to-face with my own vulnerability and ugliness.
+I can't stop crying. I know that I'm weak and disgraceful.
 }
 [sha:5f57cff8509c67af6a687dbd3ff10b7313a16bc4]{
 -- Page 259, Offset 36025.
 -- わたしは地上でもっとも汚れた生き物で、誰であろうと、わたしを弾劾する資格がある。
-Anyone has the right to denounce me as the filthiest being in the world, no matter who they are.
+Everyone on Earth has the right to denounce me as the most loathsome being of all.
 }
 [sha:2442eaedc99ad6ff00944bd7c0bfad127568c99f]{
 -- Page 259, Offset 36026.
 -- なのに。そんなわたしを、力強く抱きとめる腕があった。
-And yet, someone out there's still willing to hold a person like me tight.
+And yet... There's still someone out there willing to embrace someone as loathsome as me.
 }
 [sha:88364c715fd5b060811f697c1c3703730c0e682a]{
 -- Page 260, Offset 36027.
 -- 『あなたは言った。死なない体だから、体が強いから罪に耐えられた。自分と同じ体なら誰でも耐えられたと。
-"You said it yourself. You body can't die, so you were able to withstand your sins because of that. You said that anyone would be able to do the same if they had a body like yours.
+// Ref 28023.
+"You told me once... that it was because you had a body that couldn't die.
+ That it was because your body was strong that you could withstand the weight of your sins,
+ and that anyone could do the same if they had a body like yours.
 }
 [sha:40106217612e7a8a39da56695eed4b28f5c5f8d2]{
 -- Page 260, Offset 36028.
 -- でも、それは違う。ぜったいに違うんです。
-But, you're wrong. You're absolutely wrong.
+But, you're wrong. Dead wrong.
 }
 [sha:e9317ad2d332891840498d4726f177526ebfb1d8]{
 -- Page 260, Offset 36029.
 -- 体が強いからじゃない。あなたは始まりから心が強かった。そういう<善|つよ>い心があったから、罪を背負い続けられた。
-You weren't able to withstand it because of your strong body――you were able to withstand it because you've always had a strong heart. That good heart of yours is what allowed you to live on while shouldering those sins.
+It wasn't because you had a strong body――it's because you've always had a strong heart.
+ That good heart of yours is what allowed you to live on while shouldering those sins.
 }
 [sha:68b7988b84e67691d3809135fd9daacfa623c2ea]{
 -- Page 260, Offset 36030.
 -- それは―――』
-That's―――"
+And that's―――"
 }
 [sha:b53a97a34306283069adb75a8d0b7c245ee34391]{
 -- Page 261, Offset 36031.
 -- それは自分には無いものだと彼は語った。
-'Something I don't have', he says.
+// Entire page just shifted into indirect quote to avoid he said she said bs
+'That's something I don't have.
 }
 [sha:2e9e306e9c59d094f1ee02662c6f8250592f3985]{
 -- Page 261, Offset 36032.
 -- 万人に誇れるあなたの光だと。
-He said it was a light that anyone would be proud of.
+It's a ray of light that anyone would be proud of.
 }
 [sha:dddd802a1188b51a862a238529f439c9d616ea9d]{
 -- Page 261, Offset 36033.
 -- どれほどの罪を背負うとも、善良な心を持ち、育み、これを捨てる事をしなかったのなら。
-He said that no matter how heavy the sins I bear may be, if I've held onto, fostered, and sustained a virtuous heart―――
+No matter how heavy the sins you bear may be,
+ if you uphold that virtuous heart――if you nurture it, and never cast it aside―――
 }
 [sha:4083dd00eee4e21c99f572ee9df24479d54a961f]{
 -- Page 261, Offset 36034.
 -- あなたの贖罪は、決して無意味ではなかったと。
-then my atonement was not meaningless by any means.
+Then your atonement could never have been meaningless.'
 }
 [sha:a666754143afeea1a57d0a4c89478bfc40d95a67]{
 -- Page 262, Offset 36035.
 -- ……どうしようもないほどの悲しみを隠して。
-...Hiding away the sadness that he couldn't help but feel.
+// This page shuffled around a bit since this sentence is kinda awk on its own
+He said all of that while obscuring his own unbearable sadness.
 }
 [sha:2645263dd34937778d1df3bf0ebbcaffffe519bd]{
 -- Page 262, Offset 36036.
 -- 彼は、自分がほしくてほしくてたまらなかったものを、諦めるようにそう言った。
-He speaks to me as though he's given up on something he so desperately wanted.
+He had sounded as if he'd given up on something that he had desperately, desperately wished for.
 }
 [sha:bde85ea6a81e80b762d850aeac0388a320cbd614]{
 -- Page 263, Offset 36037.
 -- 『俺はどうしようもない人間で、実のところ、感謝する事はたくさんあったけど、楽しいと思える時はなかったんです。
-"I'm a hopeless person, and even though there are lots of things I'm thankful for, I've never really felt like life was fun.
+"I'm a hopeless person.
+ The truth is that even though I have a lot of things to be thankful for,
+ I never really felt like life was fun.
 }
 [sha:903be7d48eaafd444a7764aa6207b737f11fa569]{
 -- Page 263, Offset 36038.
 -- でもあなたがいてくれた。
-But then you came along.
+// Long VA pause after でも
+But... I did have you.
 }
 [sha:ca7c762d643a4df63c74ebd030faedfde70a8967]{
 -- Page 263, Offset 36039.
@@ -573,27 +621,28 @@ Having you by my side filled me with joy. Seeing your smile filled me with joy. 
 [sha:050d05a72ba574389a9f4e6a9e22e016f3cf4dac]{
 -- Page 264, Offset 36040. Mods: @k, @e.
 -- 『あなたの道に付き添っていく。
-"I will follow you along the way.
+"I will walk alongside you on your journey.
 }
 [sha:48e50cba9aa7062081731a2a006f8732bab076df]{
 -- Page 264, Offset 36041. Mods: @k, @e.
 -- あなたが許される日は来ないと分かっていても。
-Even though I know the day that you will be forgiven will never come.
+I know that there will never come a day when you are forgiven, and yet―――
 }
 [sha:248fcb1a2c1bc4b59d37211c4a0c47119ea1922d]{
 -- Page 264, Offset 36042. Mods: @k, @e.
 -- あなたが自らを許せる日が来ることを願って、ずっと一緒に歩いていく。
-I'll always walk alongside you, hoping that a day will come when you finally learn to forgive yourself.
+But I will always be by your side,
+ hoping that a day will come when you finally learn to forgive yourself.
 }
 [sha:691ed12fde92d3c4b653908caa4a7ffb99a70501]{
 -- Page 264, Offset 36043. Mods: @k, @e.
 -- だから―――厳しいけど、力尽きるまで戦うのを止めないで』
-That's why―――I know it's hard, but please keep fighting until the very end."
+So――I know it's hard, but please keep on fighting until the very end."
 }
 [sha:c40446c849bf7be830639afaee7bd517e5730efd]{
 -- Page 264, Offset 36044.
 -- 抱きとめられていた感触が失われる。
-The feeling of being held in someone's arms vanishes.
+The feeling of his embrace fades.
 }
 [sha:634ec8359388d4dfb42fc89266f622e22ea8f8f9]{
 -- Page 264, Offset 36045.
@@ -608,12 +657,13 @@ Even though he's in the midst of losing himself, he smiles bashfully, placing hi
 [sha:d9fcf1e9a703f3c7d9e979cf3cd32572129081de]{
 -- Page 265, Offset 36047.
 -- 「“なんて見当違いの信頼でしょう。
-"That faith of his is rather misplaced.
+"His faith in me couldn't be more misplaced.
 }
 [sha:64e413de61e5a97bce7332b16fff0e2bf62df8d4]{
 -- Page 265, Offset 36048.
 -- 私が始まりから<善|つよ>かった？　まったくバカらしい。
-He's saying I was strong from the start? How ridiculous.
+// Echo 36029.
+I've always had a strong heart? How utterly ridiculous.
 }
 [sha:99a385fe2665336a64449bbeb5989e1519bb103b]{
 -- Page 265, Offset 36049.
@@ -623,12 +673,12 @@ You weren't able to kill yourself.
 [sha:f99046bac2b8b2c1a3bb96d82bd34e32c2d1adfd]{
 -- Page 265, Offset 36050.
 -- 自分の命可愛さにみんなを見殺しにした。
-You let everyone else die so that you could live.
+You let everyone else die for the sake of your own precious little life.
 }
 [sha:1340b0883249d38226196e13986dff3fa3249327]{
 -- Page 265, Offset 36051.
 -- この世でもっともありきたりな利己主義という悪心。
-The most widespread evil in this world: selfishness.
+And what is the most banal evil in this world? Selfishness.
 }
 [sha:a19d11f80c1013bd337b7746c4e91c14ea635866]{
 -- Page 265, Offset 36052.
@@ -638,27 +688,31 @@ That is our true nature, is it not?"
 [sha:c3af701d4a7c3a721d1b03c967ab669a4e5601c7]{
 -- Page 266, Offset 36053.
 -- 嗚咽を止める。
-I stop crying.
+I dry my tears.
 }
 [sha:7626ad2d6fecbf26ace3154bab9a2b0bb11bfa87]{
 -- Page 266, Offset 36054.
 -- 鉛にまで落ちていた<鈍|おも>い体に血を巡らせる。
-Blood circulates throughout my heavy body that's become dull like lead.
+Blood begins to course through my leaden, lifeless limbs.
 }
 [sha:8f7bbc2ee6ea9cd2b402d7dad75dd623665c9589]{
 -- Page 266, Offset 36055.
 -- “あ―――、ぐっ―――！”
-"Ah―――gh―――!"
+"%{i}Ah%{/i}――%{i}gh%{/i}―――!"
 }
 [sha:cbccec719e7c67c5c8b14008afad6b4851d75e43]{
 -- Page 266, Offset 36056.
 -- 痛い。すごく痛い。数えきれないぐらい生き返ってきたけど、この痛みだけは何度味わってもガマンできない。
-It hurts. It hurts so much. I've come back to life more times than I can count, but this pain alone is something I can't handle no matter how many times I experience it.
+It hurts.
+ It hurts so much.
+ I've come back to life more times than I can count,
+ but the pain is still just as unbearable as it was when I felt it for the first time.
 }
 [sha:f8d18d297c1978d4d652fcca2bc2eb078f479645]{
 -- Page 267, Offset 36057.
 -- 本当に―――わたしは、謝ってばかりだ。
-It's true―――I really am nothing but apologies.
+// lint-off:LintDupedWord
+I really do do nothing but apologize, don't I?
 }
 [sha:16a11cc97dcd9e9bac078beaad41a5761aaa79ac]{
 -- Page 267, Offset 36058.
@@ -673,18 +727,18 @@ I'm sorry, body of mine. I know I've messed everything up again, but I need you 
 [sha:2b9bf0ce6fedef10c31dbaa2e6ac400cddadb20c]{
 -- Page 268, Offset 36060.
 -- ロアという吸血鬼は契機にすぎない。
-The vampire known as Roa was merely an opportunity for it to present itself.
+The vampire known as Roa simply served as the catalyst.
 }
 [sha:8fe7a3c87e48b8c038a8b5cb7881391f23f050e1]{
 -- Page 268, Offset 36061.
 -- 私は優れた肉体を持って生まれてしまった。
-I happened to be born with an exceptional body.
+I had the dubious fortune to be born with an exceptional body.
 }
 [sha:ab85e13082a759c9e9b893ee19c4b57c575ea434]{
 -- Page 268, Offset 36062.
 -- いずれ周囲との軋轢は起こっていた。
 // just kept singular 'I' because of preceding line here, but really no idea if this should be 'i', 'you', or 'we'
-Eventually, there was a conflict between me and my surroundings.
+Conflict was bound to arise between me and my surroundings.
 }
 [sha:93371c14f7737c018aaaed1823c841c85f644a6c]{
 -- Page 268, Offset 36063.
@@ -694,7 +748,7 @@ It just so happened that the conflict manifested in that form.
 [sha:06f45ada7f58962232e97a215ee2e7661adcd8a5]{
 -- Page 268, Offset 36064.
 -- 私はどうあれ、きっと、多くの罪を犯していた。
-Regardless, there's no doubt that the sins I have committed are innumerable.
+I would surely have committed many a sin regardless.
 }
 [sha:84b1b48d0d2a8832143ebe440c65fc085c7787e5]{
 -- Page 268, Offset 36065.
@@ -704,32 +758,37 @@ I was destined to be stoned by the masses."
 [sha:44cbef96e628b663c45e413995d86c6c85db52ef]{
 -- Page 269, Offset 36066.
 -- “こ、の―――！”
-"You, little―――!"
+"Damn... %{i}it%{/i}!"
 }
 [sha:2f1a234f1eb39f2531e514582418169e261a10ce]{
 -- Page 269, Offset 36067.
 -- 力ずくで、バリバリと背中の皮を剥がす。
-With all my might, I tear away the skin on my back.
+I blindly claw as hard as I can at the skin on my back.
 }
 [sha:4a2ae88c5d348abf81849c21bc5206dc64f93e9e]{
 -- Page 269, Offset 36068.
 -- 暗闇に癒着してしまった背中だ、これぐらいはしようがない。
-My back is fused with the darkness. There's no other way but this.
+The darkness has wormed its way deep into my back.
+ This alone won't be enough to tear it free.
 }
 [sha:413ab37f6b13a319aad3cca5136a02578144cbe7]{
 -- Page 269, Offset 36069.
 -- でも、だって、ほら。今も、遠くから音が聞こえる。
-But, I mean, look. Even now, I can still hear the distant sounds.
+But, listen, can you hear it?
+ Even now, I can hear those distant sounds.
 }
 [sha:cc3ec670224c989b55cfa6a96b9a8e3bc9fcb60b]{
 -- Page 269, Offset 36070.
 -- 今もひとりでわたしを信じて、抗っている音が聞こえる。
-He stlil believes in me, and I can hear him fighting out there.
+The sounds of someone who still believes in me,
+ fighting for my sake.
 }
 [sha:17dd71534ae01f2a8f53ab1cec6f382eef4996a4]{
 -- Page 269, Offset 36071.
 -- あの信頼に応える為なら、皮はおろか骨まで剥がされてしまってもいい。
-If it means that I can respond to his faith in me, then I don't care if I have to tear my skin, or even my bones apart.
+I would gladly tear my own flesh off,
+ down to the very bone,
+ if it meant that I could live up to the faith he's placed in me.
 }
 [sha:a08f27769bbe126a75bb1f061909f0c52526e820]{
 -- Page 270, Offset 36072.
@@ -739,13 +798,13 @@ If it means that I can respond to his faith in me, then I don't care if I have t
 [sha:55537ea68ac60c2140a1787d0e4d1c54e776dbea]{
 -- Page 270, Offset 36073.
 -- まだ希望を見るの？　まだ罪を認めないの？
-Do you still choose to see hope? Do you still refuse to admit to your sins?
+Why do you still hope?
+ Why do you still refuse to accept your sins?
 }
 [sha:b969408a2926b311b26c64fb0ec9ee24209999ec]{
 -- Page 270, Offset 36074.
 -- 私は絶対に救われない。
-// man this stuff is annoying, just kept it as written in jp for now
-I can't be saved no matter what.
+I can never be saved.
 }
 [sha:6817cb7b167a63f5381d9d3caa1400d1b05f2994]{
 -- Page 270, Offset 36075.
@@ -755,92 +814,101 @@ Even as an Executor, you're nothing but a victim.
 [sha:d9ffc7375696817d541a30bd1853d66aa1304fb4]{
 -- Page 270, Offset 36076.
 -- 私たちには救われる奇跡も、生きている理由も、
-There's no miracle that will save us, no reason for us to live―――
+There's no miracle that will save us――
+no reason for us to live―――
 }
 [sha:17ed38c7b5ab4c99d87cdf34739b3352274e3005]{
 -- Page 270, Offset 36077.
 -- 愛される価値もない。そうでしょう、エレイシア？”」
-and no right for us to be loved. Isn't that right, Elesia?"
+And no part of us that deserves to be loved.
+ Isn't that right, Elesia?"
 }
 [sha:a0da66b61442473e85e878f93005168d6b0661af]{
 -- Page 271, Offset 36078.
 -- ……そう、確かにわたしには愛される価値はない。
-...That's right. I don't deserve to be loved.
+That's right... I don't deserve to be loved.
 }
 [sha:dab896e49f72bb98fc533dbe159056f5a12f85cf]{
 -- Page 271, Offset 36079.
 -- でも奇跡を見た。たったいま、なにより尊いものを見た。
-But I saw a miracle. Just now, I saw something more precious than anything else.
+But I just witnessed a miracle.
+ Mere moments ago, I witnessed the most precious thing of all.
 }
 [sha:2aac37d0a09a82aaade710545df14337fbbe9321]{
 -- Page 271, Offset 36080.
 -- 彼には何もない。幼い頃から奪われるだけの人生だった。
-It was nothing to him. It was simply a life that was taken away during his childhood.
+He is no-one.
+ Ever since he was a child, his life has been stolen from him, over and over again.
 }
 [sha:d28071453e68c844c2249e20a4fbc9fbf7ca7d82]{
 -- Page 271, Offset 36081.
 -- 彼本人、奪われすぎて何があったのか、それがどういう事なのかすら気づく事さえ奪われている。
-He lost so much that even questions such as what had happened, or what it all meant, were taken away as well.
+So much has been taken from him that he no longer has the ability to notice what he has lost, or how he lost it.
 }
 [sha:f765111b03fe008f25e28b28283435aec2195097]{
 -- Page 271, Offset 36082.
 -- だから、何よりもまず自分の人生を、自分の幸せを取り返さないといけない人だったのに。
-That's why he should've sought to take back his own life and happiness before anything else.
+As someone who has lost so much,
+ his overriding goal should have been to take back his own life; his own happiness.
 }
 [sha:79796cf8690aa286af8c71e12fc75068a353fd69]{
 -- Page 272, Offset 36083.
 -- そんな人が、<自分|わたし>の為に願うと言ってくれた。
-Despite that, he told me that his wish was for my sake.
+// Ref 36039. for 俺は先輩のために、生きていきたいと思ったんです
+And yet, he told me that he wanted to live for %{i}my%{/i} sake.
 }
 [sha:99d804bc71f685ba416acc5f635a1f67fd3ecf74]{
 -- Page 272, Offset 36084.
 -- それだけの強さを持った人が、わたしなんかを選んでくれた。
-Even though he possesses such strength, he still chose someone like me.
+Even though he possesses such strength of heart, he still chose someone like me.
 }
 [sha:c1e5d3ed0bd6d3d581eb18e314ce62fdc272cc1f]{
 -- Page 272, Offset 36085.
 -- なら―――わたしも、その価値を示さないと。
-If that's the case―――then I have to prove my worth as well.
+In which case――I have to prove that I deserve it.
 }
 [sha:71364d0ab9e397ceea1beab9599b31d42d65f931]{
 -- Page 272, Offset 36086.
 -- それだけが、自分に残された意義だと思い出した。
-I remember that is the only meaning I have left.
+I realize now that doing so is the one thing that still gives me meaning.
 }
 [sha:8835c4b4677f617b3a5eb26568d1d569ee368f5d]{
 -- Page 273, Offset 36087.
 -- 「“………………そう”」
-".........I see."
+"I see..."
 }
 [sha:e3d7783cf124f9756bd1da2b8e1bef5fdf8ed324]{
 -- Page 274, Offset 36088.
 -- “ぁ―――、く、あ―――………！”
-"Ah―――kh, ah―――!"
+"%{i}Ah%{/i}――%{i}kh%{/i}, %{i}aghh%{/i}―――!"
 }
 [sha:c1c0d174b7135112f399d372c198acedc4c8f18e]{
 -- Page 274, Offset 36089.
 -- 暗闇から手を伸ばす。
-I reach out from the darkness.
+I stretch out my hand, grasping for a way out of the darkness.
 }
 [sha:699330d3e511e589ec002f7a3a228a62ee4db86a]{
 -- Page 274, Offset 36090.
 -- 体に力は戻らない。心は今も弱いままだ。わたしはずっと、こんな迷いを抱き続ける。
-Strength won't return to my body, and even now, my mind is still weak. I will continue harboring these doubts for the rest of my life.
+Strength won't return to my body.
+ Even now, my mind is still weak.
+ I will continue harboring these doubts for the rest of my life.
 }
 [sha:b0922df9ed2e84c0caeb9313addbd399136c120c]{
 -- Page 275, Offset 36091.
 -- うん、それでも立たないと。
-Yeah. But even so, I have to get up.
+Yeah... But even so, I have to get up.
 }
 [sha:68ff93bafbe9c34c7f94efe0e4b076bfc51574ff]{
 -- Page 275, Offset 36092.
 -- この命は過去を嘆く為ではなく、もう一度―――
-My life isn't meant for grieving the past, but to―――
+My life isn't to be spent mourning the past,
+ but to once again―――
 }
 [sha:dc4c50bc6324a92db5bc0ec16747082af25a40cb]{
 -- Page 275, Offset 36093.
 -- “ああ、あ、あ―――！”
-"Aah, ah, ah―――!"
+"%{i}AHHH%{/i}, %{i}AARGHH%{/i}, %{i}UUGHAAHHHH%{/i}―――!"
 }
 [sha:4d61eceb4f63af5220c12c5710d19d3907592615]{
 -- Page 275, Offset 36094.
@@ -850,5 +918,5 @@ No. No matter how many times I fall, as long as there's someone out there prayin
 [sha:6e8aec394525266fed30b83fa22ee2b325c35c11]{
 -- Page 276, Offset 36095.
 -- 「“………………この、偽善者”」
-".........You hypocrite."
+"You... %{i}hypocrite%{/i}."
 }
