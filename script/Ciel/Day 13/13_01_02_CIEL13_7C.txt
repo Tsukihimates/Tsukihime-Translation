@@ -1,12 +1,12 @@
 [sha:b7fdf498f743567d730ac58ac71a49abde93f89b]{
 -- Page 10011, Offset 36096.
 -- 「吸血鬼になっても甘い狙いですね。
-"Even after becoming a vampire, you're still as naïve as ever.
+"Even after becoming a vampire, you still only go after easy targets.
 }
 [sha:c6663a8768f321c660eb779b53066e04369fc443]{
 -- Page 10011, Offset 36097.
 -- 貴女の本命は私でしょう、ノエル」
-I'm the one you're really after, aren't I, Noel?"
+I'm your real enemy, aren't I, Noel?"
 }
 [offset:36098]{
 -- Page 10011, Offset 36098.
@@ -27,7 +27,7 @@ As it should be.
 [sha:0868d1ffbe3fe07fde86de888bf24b4f8585bad4]{
 -- Page 279, Offset 36101.
 -- 先輩の体は万全で、傷一つない。それだけ見て取れれば俺からかける言葉もない。
-Senpai's body is in tip-top shape.
+Senpai's in perfect condition.
  There's isn't so much as a scratch on her.
  Now that I've satisfied myself of that, there's nothing more for me to say.
 }
@@ -41,8 +41,8 @@ My job here is done.
 -- Page 280, Offset 36103.
 -- 「ハ。さっきまでメソメソ泣いていたクセに、戻ってきた途端に上から目線とか笑えるわ。
 "%{i}Heh%{/i}.
+ Are you kidding me?
  You're seriously going to act all high and mighty when you were blubbering like a baby mere moments ago?
- You crack me up.
 }
 [sha:74d5af2f255b2f368b6489bf0bbb306d8c4751ea]{
 -- Page 280, Offset 36104.
@@ -173,10 +173,11 @@ If you don't want him to die,
 -- 「失礼。そちらなら当然、真っ先に終わらせました」
 "Sorry to interrupt, but I'm afraid that's already been taken care of."
 }
-[sha:e647bdc902b660ab925ec73c2e2b701206ec260d]{
+[offset:36126]{
 -- Page 290, Offset 36126.
 -- ……？
-Hmm...?
+// This line sucks, animation is Noel looking confused, voilà
+Noel looks confused.
 }
 [sha:701bd2c134a5d0f27e6338e25fc48434a2b93115]{
 -- Page 290, Offset 36127.
@@ -505,7 +506,7 @@ When it comes to long-distance combat, Noel's superiority is unshakeable.
 [sha:65d6e84c34b2b59ecfb4edd759a3b9d2db021d69]{
 -- Page 312, Offset 36181.
 -- それが、『人間離れした怪物』程度の話であれば。
-At least, it would be against a monster that's %{i}merely%{/i} inhuman.
+Or at least, it would be against a monster that's %{i}merely%{/i} inhuman.
 }
 [offset:36182]{
 -- Page 313, Offset 36182.
@@ -632,7 +633,7 @@ But all it did was reveal the hopelessness of her situation.
 -- Page 318, Offset 36203.
 -- 代行者は止まらない。傷さえつかない。
 The Executor isn't stopping.
- She isn't even injured.
+ She's totally unscathed.
 }
 [sha:0249286c0736311212c6b6e695552511805ae477]{
 -- Page 318, Offset 36204.
@@ -1030,7 +1031,7 @@ Why would you inject something like that, Noel!"
 [sha:cbdf0595b5364ed870336bf6b562ee7228b06449]{
 -- Page 343, Offset 36273.
 -- それは、燃え尽きる前の蝋燭だった。
-Before us was the last flickering flames of a candle.
+Her frenzied attacks are the last flickering flames of a dying candle.
 }
 [sha:2616740199aab21e0307f248ee25aa4c4d4dece2]{
 -- Page 343, Offset 36274.
@@ -1083,7 +1084,7 @@ Ciel brings the barrel of her pile bunker around to face the focality that serve
 [sha:963cb7870776963888914d785f9b7c59f75e90ac]{
 -- Page 346, Offset 36282.
 -- 魂の咆哮とも言える少女の一刺し。
-The girl's single thrust could be seen as the roar of her soul.
+Noel's desperate thrust is the roar of her soul.
 }
 [sha:9ca18d42de70a0895ed6fecaf1114332f51034b7]{
 -- Page 346, Offset 36283.
@@ -1105,7 +1106,7 @@ The pile bunker punches straight through the girl's chest.
 [sha:061481b3f974c3d30eed7da95c7067391b88542a]{
 -- Page 347, Offset 36286.
 -- カラン、と鉄の槍が地面に落ちる。
-Her iron spear clanks as it hits the ground.
+With a clank, her iron spear falls to the ground.
 }
 [sha:41792ebfa6ea71ca2bb7a77433209e899e526fe5]{
 -- Page 347, Offset 36287.
