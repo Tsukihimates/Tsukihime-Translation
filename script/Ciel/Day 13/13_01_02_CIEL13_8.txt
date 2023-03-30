@@ -1,15 +1,10 @@
 [sha:59766cf6af5729d434d771498eafd99a21a6c19b]{
 -- Page 10017, Offset 36620.
 -- 「でもほら、くぐってきた修羅場が違いますもんね。先輩は吸血鬼退治のプロフェッショナルなワケだし。
-// Popping the stack a bit here after the short choice interlude to go back
-// to cheering her up, so needs a bit of a refocusing intro
-// Not 100% sure on this 修羅場 bit. It parses to me as like
-// (types of battlefields you are used to) (are different/inapproprrate) (excuse) (right)?
-// So, I guess "Your usual approach to battle just happened to be awkward in this case?"
-// Looks like it can also be read as (col) difficulties (in a love relationship), dunno if that's intentional subtext here
-"Uh, anyway, you should cut yourself some slack.
- I mean, you're a professional vampire slayer, right?
- You can't blame yourself for sticking to your script.
+// Kind of a stock-phrase: http://moe-maxim.com/kuguttashuraba-kazugachigau/
+// Not usually seen in this form, though.
+Uh, but anyway, you've been through much worse than me, right?
+ And you're a professional when it comes to vampire slaying.
 }
 [sha:355726359685d91d83519b7960b3e9a424c94aec]{
 -- Page 10017, Offset 36621.
@@ -88,7 +83,7 @@ I'm not the kind of person that you thought I was, so why are you still being so
 [sha:978137b83061dbf01bfb992d32a59d37bd82a314]{
 -- Page 477, Offset 36635.
 -- ……そんな資格、わたしにはありはしないのに」
-I don't... deserve to be treated so kindly."
+I don't... deserve that at all."
 }
 [sha:1b2dcca414b24a315a3b9b3c0010bbf2f73d874a]{
 -- Page 478, Offset 36636.
@@ -99,7 +94,8 @@ I don't... deserve to be treated so kindly."
 -- Page 478, Offset 36637.
 -- でも、そんなものは必要ないって笑い飛ばしてくれたのは先輩です」
 // Referring to 03_01_CIEL03_3_3B offset around offset 5442.
-But when I told you that, you laughed it off and said it didn't matter."
+But when I said that,
+ weren't %{i}you%{/i} the one who laughed it off and told me it didn't matter?"
 }
 [sha:a661ff1c89c2c6e4189633b8a6cef0ff9705469b]{
 -- Page 479, Offset 36638.
@@ -111,7 +107,7 @@ In fact, it happened right here, in this very room.
 -- アルクェイドを殺してしまって、自殺ぐらいしか考えつかなかった俺を救ってくれたのは、この人だけだった。
 After I'd killed Arcueid,
  and all I could think about was taking my own life,
- she was the one who stepped in and saved me.
+ the one who saved me was none other than her.
 }
 [sha:6952b3c795661cb9d4147103267753984f98edac]{
 -- Page 480, Offset 36640.
@@ -134,7 +130,7 @@ It doesn't matter to me what kind of person you are.
 [sha:13a495568021f654b01ce9ea81784b5d31748ab5]{
 -- Page 480, Offset 36643.
 -- 先輩と―――シエルとずっと一緒にいたいから、幸せになってほしいんです」
-Senpai――Ciel, I want to stay with you forever.
+Senpai――no, Ciel――I want to stay with you forever.
  I want to make you happy."
 }
 [sha:e0488be6be12856511710e83f67bf59b2414f2f7]{
@@ -153,7 +149,7 @@ Senpai――Ciel, I want to stay with you forever.
 -- ……だから、ほら。先輩にとっては迷惑だろうけど、たちの悪い後輩に捕まったと思って、いいかげん降参してください」
 // Echoes what she said to him in 5453.
 So, come on.
- I'm sure this is a nuisance for you,
+ You might not like it,
  but please just resign yourself to the fact that you've been caught by your wicked underclassman."
 }
 [sha:a7b9f5b7bbe4ddc98ede908892048c1c4c355b15]{
@@ -164,7 +160,6 @@ I hold out my right hand and wait for Senpai's answer.
 [sha:6eb68c8b8eaf9eb499fe7d12463d2ef0a10c595c]{
 -- Page 482, Offset 36648.
 -- これぐらいしないと本当の事を言ってくれないと思ったからだ。
-// Is he talking about the hand or the words?
 I feel like if I don't make myself this clear,
  I won't get an honest answer.
 }
@@ -179,8 +174,8 @@ I feel like if I don't make myself this clear,
 [sha:cc5dd576701a0371e82a8745a2a00c964a78e10e]{
 -- Page 483, Offset 36650.
 -- 聞いているこっちの方が恥ずかしくなるなんて、想定外もいいところです。そんなコトを言われたら、完全降伏するしかないじゃないですか」
-I didn't expect it to be this embarrassing to be on the receiving end, but it's a pleasant surprise.
- After hearing you say something like that, I don't think I have any option but to surrender."
+I didn't expect hearing you say all that embarrassing stuff to make %{i}me%{/i} embarrassed, but it's not the worst feeling.
+ I don't think I have any option now but to surrender."
 }
 [sha:4287d087202bf0303c85e9abd5eacfb312899ada]{
 -- Page 484, Offset 36651.
@@ -191,8 +186,9 @@ Senpai lays her hand on mine.
 -- Page 484, Offset 36652.
 -- 握り合うものではなく、指に指を重ねただけの、ささやかな繋がり。
 // NO BUSINESS??
+// More like a light front of hand 'about to kiss the ring' pose than a full finger interlock
 We don't hold hands with one another――
-we simply savor the feeling of connectedness that stems from our gently overlapping fingers.
+we simply savor the feeling of connectedness that stems from her fingers draped across mine.
 }
 [sha:e444190463741533476730f4fba6363f608c530b]{
 -- Page 485, Offset 36653.
@@ -213,8 +209,7 @@ I-I guess this makes us lovers, doesn't it."
 [sha:b42097789b2bd3d60aa867c5b390e0344a791271]{
 -- Page 486, Offset 36656.
 -- 先輩はつっかえながらそんなコトを言うと、差し出した手を引っ込めて、上目遣いで俺の目の前まで近づいて、
-Senpai stutters as she says those words.
- She then withdraws her hand, leans in close, and says―――
+Stuttering, Senpai withdraws her hand, before quickly leaning in close to say―――
 }
 [sha:45eb04391093bcfbe6e672ca26cb297b42df40c8]{
 -- Page 487, Offset 36657.
@@ -240,7 +235,7 @@ She's back to normal at last...
 [sha:e406aca2445cf1853991d4813c19b6a24bead745]{
 -- Page 489, Offset 36661.
 -- 俺と先輩の間にはもう何のわだかまりもない。
-We've finally cleared the air between us.
+We have finally stripped away all that stood between us.
 }
 [sha:23d787c804441284fe7d7ed9edde507f328c24ce]{
 -- Page 489, Offset 36662.
@@ -251,7 +246,7 @@ My heart feels light and carefree,
 [sha:bc898ccf63a882ea2e3fa1f0e511f7f01791d25c]{
 -- Page 489, Offset 36663.
 -- それは本当に嬉しい。嬉しいんだけど……
-I'm truly happy about that. I'm happy, but...
+And that %{i}does%{/i} make me happy; it really does, but...
 }
 [sha:8eaa978afc424a226a1e857f05b10c5b2c0e8cc7]{
 -- Page 490, Offset 36664.
@@ -307,12 +302,12 @@ It looks like it's just struck midnight.
 [sha:d45c9b8b745a01194e119a2e4ce66796b1322a1f]{
 -- Page 493, Offset 36674.
 -- 口ごもりながら見つめ合う。
-Neither of us wants to break the silence.
+Neither of us knows what to say to break the silence.
 }
 [sha:e631a6e0f7fd57998ec3699c0a6f30ceb41a4d3c]{
 -- Page 494, Offset 36675.
 -- ええい、これじゃ埒が明かない。時間がないんだ、ここで素直にならなくてどうする！
-Oh come on, we aren't going to make any progress at this rate.
+Oh come on, this isn't getting us anywhere.
  The night will be over if I keep dithering, I need to just come out with it!
 }
 [sha:de01584422a6413fe1ec972473634cd82a5e0d5d]{
@@ -387,7 +382,8 @@ Seeing her act like that is so adorable that I can't help but smile.
 [sha:4dbf80af9a7ba5ab97c458dae79410919d696f47]{
 -- Page 499, Offset 36688.
 -- 俺はロアという爆弾を抱えているのに、今は不安にさえ思わない。我ながら即物的にも程がある。
-Even though there's a ticking time bomb called Roa inside of me, I don't even feel anxious right now.
+Even though I have the ticking time bomb of Roa inside of me,
+ I don't even feel anxious right now.
  I'm honestly shocked at my ability to compartmentalize.
 }
 [sha:c979baecd49bb38201c9a96ba32840e851aaf187]{
@@ -398,8 +394,7 @@ Still... I think I can afford to forget about him, at least for right now.
 [sha:984bbae9de980d8f4755467892ef4a25fe43b589]{
 -- Page 500, Offset 36690.
 -- 今まで何度も失ったと思わされてきたひとが、本当に俺の傍にいてくれる。
-Even though I thought I'd lost her multiple times,
- she's finally said she'll stay by my side.
+The person I thought I had lost so many times has finally decided to stay by my side.
 }
 [sha:b660a102d17e55e4e27a094e975701181c4adbe7]{
 -- Page 500, Offset 36691.
@@ -419,12 +414,12 @@ Back then, I didn't embrace her out of love. I did it because she seemed so terr
 [sha:0c900e14e0f7ea6012b6b127641705ddfd22a9a8]{
 -- Page 502, Offset 36694.
 -- けど今は違う。
-But things are different now.
+But now is different.
 }
 [sha:2fee099f8438c3621f3b747aa6bc85d02999286d]{
 -- Page 502, Offset 36695.
 -- 今はただ愛しい。
-In this moment, there's nothing but love in my heart.
+Now, all I feel is love.
 }
 [sha:c9b2c0ade37a3b87d76c041312e131e34cfb92bc]{
 -- Page 502, Offset 36696.
