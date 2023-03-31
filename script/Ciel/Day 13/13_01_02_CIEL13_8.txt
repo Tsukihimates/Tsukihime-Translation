@@ -167,6 +167,7 @@ I feel like if I don't make myself this clear,
 -- Page 483, Offset 36649.
 -- 「……しょうのない後輩ですね。
 // translators found dead in a ditch, trace amount of 後輩 detected in their systems
+// Were we removing all of these?
 // 困る、仕様がない, 日常、後輩... not even once
 // VA has a sigh before the line starts
 "%{i}Sigh%{/i}... Just what am I supposed to do with you.
@@ -174,7 +175,7 @@ I feel like if I don't make myself this clear,
 [sha:cc5dd576701a0371e82a8745a2a00c964a78e10e]{
 -- Page 483, Offset 36650.
 -- 聞いているこっちの方が恥ずかしくなるなんて、想定外もいいところです。そんなコトを言われたら、完全降伏するしかないじゃないですか」
-I didn't expect hearing you say all that embarrassing stuff to make %{i}me%{/i} embarrassed, but it's not the worst feeling.
+I didn't expect hearing you say all that embarrassing stuff would make %{i}me%{/i} embarrassed, but it's not the worst feeling.
  I don't think I have any option now but to surrender."
 }
 [sha:4287d087202bf0303c85e9abd5eacfb312899ada]{
@@ -204,7 +205,7 @@ we simply savor the feeling of connectedness that stems from her fingers draped 
 -- Page 485, Offset 36655.
 -- こ、これからは恋人同士なワケですし」
 // Match TL for 恋人 in 36534
-I-I guess this makes us lovers, doesn't it."
+I-I guess this makes us lovers, doesn't it?"
 }
 [sha:b42097789b2bd3d60aa867c5b390e0344a791271]{
 -- Page 486, Offset 36656.
@@ -338,7 +339,7 @@ The ticking of the clock is deafening...
 -- 恥ずかしくて先輩の顔が直視できないけど、それ以上に今の先輩の顔は愛らしすぎた。
 I'm so embarrassed that I can't even look her in the eye,
  but at the same time,
- the face she's making is so adorable I can't look away.
+ the face she's making is so adorable that I can't look away.
 }
 [sha:ccf554d5b948263cb635837c66d6416bf031dfd2]{
 -- Page 497, Offset 36681.
