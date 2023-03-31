@@ -484,10 +484,10 @@ If the elevator stopped at the first floor of the basement,
 -- 俺はもう何層か下の階に来ているはずだ。
  then by now I must already be several floors deeper.
 }
-[sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
+[offset:11195]{
 -- Page 117, Offset 11195.
 -- 「―――！」
-"―――!"
+"Huh?!"
 }
 [sha:968ca74d23b8452959c27bfc666d1243011fbe85]{
 -- Page 117, Offset 11196.
@@ -611,7 +611,7 @@ I can see someone who's still alive, but has been driven up against the wall by 
 [sha:1785d92afb36b1241318244d88ce44b30812749a]{
 -- Page 124, Offset 11219.
 -- 「キャアアアァァァァアア！！！！」
-"%{i}Kyaaaaaaaaaaaa%{/i}!!!"
+"%{i}Eeeeeeek%{/i}!"
 }
 [sha:a22feb2a2201643642fc382056a201c7a31319d3]{
 -- Page 125, Offset 11220.
@@ -687,7 +687,7 @@ I don't have a way to save her other than to kill them.
 [sha:017b7b0f9b18a0be2c19496e053ba3115a3d4ec5]{
 -- Page 129, Offset 11234.
 -- 「っ……！！！！」
-"%{i}Hiyah%{/i}!!!!"
+"%{i}Argh%{/i}!!!!"
 }
 [sha:b52ef50fcfc1cceed683022b6fd9fa84d140dcc8]{
 -- Page 129, Offset 11235.
@@ -910,12 +910,12 @@ Her teeth sink into the joint right behind my fingertip.
 [sha:58086bf47add25f107175c2eb504db96923da08f]{
 -- Page 145, Offset 11275. Mods: @n.
 -- 「……！
-"!
+"%{i}Mrmh%{/i}!
 }
 [offset:11276]{
 -- Page 145, Offset 11276. Glued. Mods: @x, @n.
 -- ……
- ...
+ %{i}Mrgh%{/i}——%{i}mrm%{/i}
 }
 [sha:76f476cda4fe3e481152fd88146308864a5e076a]{
 -- Page 145, Offset 11277. Glued. Mods: @n.
@@ -925,7 +925,7 @@ Her teeth sink into the joint right behind my fingertip.
 [offset:11278]{
 -- Page 145, Offset 11278. Glued. Mods: @x, @n.
 -- ……
- ...
+ %{i}mmhhrr%{/i}
 }
 [sha:a28a86923221963c14a759ae9eef3b006de76854]{
 -- Page 145, Offset 11279. Glued. Mods: @n.
@@ -935,17 +935,17 @@ Her teeth sink into the joint right behind my fingertip.
 [sha:2486476b235d7d78a4029ec2b289b8455cba11d5]{
 -- Page 145, Offset 11280. Glued. Mods: @x, @n.
 -- ……………
- .........
+ %{i}Chomp%{/i}
 }
 [sha:8a0efcc3eb01407d18f0eb4605cd1d221c4d08f2]{
 -- Page 145, Offset 11281. Glued.
 -- ！！！」
-!!!"
+!"
 }
 [sha:78d516bf1b3c0b00f2f09a00186d58df86945e4d]{
 -- Page 145, Offset 11282.
 -- 「いつ、いつつ……！　叫びたいのはこっちです！　とにかく走って！」
-"%{i}Ow, ouch%{/i}!
+"%{i}Ow%{/i}, %{i}ouch%{/i}!
  I'm the one who wants to scream here, okay!
  Just run already!"
 }
