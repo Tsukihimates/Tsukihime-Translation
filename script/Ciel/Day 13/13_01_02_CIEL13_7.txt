@@ -14,7 +14,7 @@ I mow down dozens upon dozens of the Dead.
 -- 吸血鬼の体は大したものだ。なにしろ数分なら呼吸ができなくても意識が飛ばない。精度こそ落ちるものの体も動く。
 A vampire's body really is something.
  I couldn't breathe for a few solid minutes, but I still didn't pass out.
- My body is also moving, even if not as smoothly as before.
+ My body is also still moving, even if not as smoothly as before.
 }
 [sha:69894abe274488e80747180a2a9811e0bdea61a8]{
 -- Page 201, Offset 35841.
@@ -27,7 +27,7 @@ The blood I've lost is being rapidly replenished by my bone marrow.
 -- もっとも左腕は完治せず、死者たちの爪で致命傷を受け続ける以上、出血量と生成量はイーブンか、下回るかだったが。
 That said,
  since my left arm isn't fully healed yet,
- and the Dead keep landing lethal blows on me with their claws,
+ and the Dead keep inflicting life-threatening injuries on me with their claws,
  I'm losing blood about as fast――if not faster――than I'm gaining it.
 }
 [sha:9f7765a4fd9b206502180606516b826d184de87e]{
@@ -68,7 +68,7 @@ If all goes well, I'll be able to clean up the rest of the Dead,
 [sha:03faa911183ebf91b7aefae2490c68a5e758293c]{
 -- Page 205, Offset 35849.
 -- 「いい顔ね。終わりが見えてきて生き返ったって感じ？
-"Ooh, I %{i}love%{/i} that expression.
+"%{i}What%{/i} an expression.
  Feeling the life come back to you now that the end's in sight, I guess?
 }
 [sha:9ed1abd420b569eac4745d09a3e94c997e30ce3b]{
@@ -88,7 +88,7 @@ The funeral bells ring.
 [sha:6ad3f5b96e2ac2a27aaed0421ce248e350849fc1]{
 -- Page 206, Offset 35852.
 -- この乱戦が始まってからもうどのくらい経過したのか。
-I wonder how long I've already been fighting for at this point.
+I wonder how long I've been fighting for at this point.
 }
 [sha:b9794d6843b08e2380c7ff106b92ffcbb9823ddf]{
 -- Page 206, Offset 35853.
@@ -143,7 +143,7 @@ There's a voice in my head telling me to just give in already.
 [sha:810c3b67e0463da40f3d09632003d450a184cba3]{
 -- Page 209, Offset 35862.
 -- 吸血鬼な分たちが悪い。だって損傷による痛みはあまりない。痛いのは“治ろう”とする行為だけだ。
-The fact I'm part vampire is honestly making this worse.
+The fact that I'm part vampire is honestly making this worse.
  See, the injuries themselves aren't actually all that painful――it's my body repairing itself that %{i}really%{/i} hurts.
 }
 [sha:b15ccb479aadbcdfaeda917629bdee689b5a941d]{
@@ -160,7 +160,7 @@ If I were to give up now, there'd be nothing to be afraid of.
 -- Page 210, Offset 35865.
 -- なんだそれ。まったくもって笑い話だ。
 What a joke.
- What the hell am I thinking.
+ What the hell am I thinking?
 }
 [sha:62c75bbfa284cb07c9f9f87c14adaa3c26f11937]{
 -- Page 210, Offset 35866.
@@ -225,7 +225,7 @@ But you must be getting pretty tired, right?
 -- 「そもそも何の為に戦うの？　もうロアに乗っ取られるって分かっているんでしょう？　どのみちアナタは消えるんだから、もう楽になったら？」
 "I mean, what are you even fighting for?
  You do realize that Roa's going to take over eventually anyway, right?
- You're going to disappear either way, so not just give in already?"
+ You're going to disappear either way, so why not just give in already?"
 }
 [sha:b672d7682f69df8dbe6bde08358091cf77d2d455]{
 -- Page 216, Offset 35878.
@@ -265,14 +265,14 @@ Hey, why are you doing this?
 [sha:5e7568ec6276961d064072f63feb5f731ffabe26]{
 -- Page 217, Offset 35884.
 -- 目障りなの。むかつくの。見ていられないの……！」
-You're a pain in the ass.
+You disgust me.
  You piss me off.
  Just looking at you makes me sick!"
 }
 [sha:1d7157c2833ed36b47dbb0b6e70540a31b668d71]{
 -- Page 218, Offset 35885.
 -- 「ほら、さっさと死ね虫ケラ……！　あの時のわたしみたいに、何もかも投げ出せって言ってるの……！」
-"Come on, just die already, you worm!
+"Come on, just die already, you cockroach!
  Just do what I did and give up on everything!"
 }
 [sha:d98ced8037699777248f7a30dded369fafa4d242]{
@@ -416,16 +416,17 @@ Rows upon rows of skewers fan out behind Noel.
 [sha:bdf356edf4f9354d5ccb0266abd30716b5fb19d0]{
 -- Page 227, Offset 35910.
 -- あの女への見せしめに、隙間なく埋まって死ね！」
-I'll show that woman I'm serious by turning you into a pincushion! %{i}Die%{/i}!"
+I'll show her I'm serious by turning you into a pincushion! %{i}Die%{/i}!"
 }
-[sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
+[offset:35911]{
 -- Page 227, Offset 35911.
 -- 「―――！」
-"―――!"
+"%{i}Grgh%{/i}!"
 }
 [sha:a6991b02ce03b2d693570be5cfb603633382ec14]{
 -- Page 228, Offset 35912.
 -- 串は横に連なり、一つの鉄柵になっていた。それを何重にも重ねて放たれた。線ではなく面としての掃射。死者たちを巻きこむ絨毯爆撃。
+// Maybe combine clauses?
 The skewers have been strung together, creating one gigantic iron fence.
  That fence has then been doubled back on itself over and over again,
  until it isn't just a line of daggers but an entire plane of them.
@@ -435,7 +436,7 @@ The skewers have been strung together, creating one gigantic iron fence.
 [sha:43cc20d6b9491ad37046b02337128d3d5e7d339b]{
 -- Page 229, Offset 35913.
 -- 避けようと反応した足が停止する。
-The legs that leapt back from danger earlier now refuse to move.
+My legs that leapt back from danger earlier now refuse to move.
 }
 [sha:b4da205dc4e3d71aee315b216829ed24e0b21a89]{
 -- Page 229, Offset 35914.
@@ -466,7 +467,7 @@ There's no doubt about it―――
 [offset:35919]{
 -- Page 231, Offset 35919.
 -- 「！」
-"Ah!"
+"%{i}Ah%{/i}!"
 }
 [sha:dd3cd9e4ea2b76f47cd15c629e3b7b6e00605713]{
 -- Page 231, Offset 35920.
@@ -487,7 +488,7 @@ Retracing the path the Black Key took, I look to its source.
 [sha:79e6babe3f73bcde9d4b9e8fd9a796253c911832]{
 -- Page 232, Offset 35923.
 -- 彼女は半壊した柱の上に。
-There's a woman standing on top of a partially destroyed pillar.
+There, atop a partially destroyed pillar, stands a woman.
 }
 [sha:1f16f7cbbdae66ed64c835bc553458452e3389f8]{
 -- Page 233, Offset 35924.
