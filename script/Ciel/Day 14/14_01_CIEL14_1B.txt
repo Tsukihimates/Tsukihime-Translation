@@ -36,8 +36,8 @@ It makes it look like ruins that've been dead for thousands of years.
 [sha:bd5933294c7d3be7dbf543efd77d7b35df6318be]{
 -- Page 41, Offset 37143.
 -- そんな幻視に<眩|まど>わされながら歩く。
-// 惑わす?
-I walk on through these disorienting hallucinations.
+// まどわす probably has the double meaning of him being spurred on by something to walk toward Arcueid
+I walk on, bewitched by these disorienting hallucinations.
 }
 [sha:f47f027605564780e03a0ef38e7aa705293b69c5]{
 -- Page 41, Offset 37144.
@@ -47,34 +47,36 @@ The golden moon shines brightly overhead.
 [sha:8daf70eb9d3316629641b7bd3799056a1736bd06]{
 -- Page 41, Offset 37145.
 -- 月の光の恩恵だろうか。
-I wonder if the moonlight is a blessing?
+// Yoinked some of next sentence to connect more clearly.
+Perhaps thanks to the moonlight, the headache that had previously plagued me is now gone.
 }
 [sha:1027a99291b2f65637c475ff0d9cfea71e8a56da]{
 -- Page 41, Offset 37146.
 -- あれだけあった頭痛は消え、今は海の底にいるように、穏やかだ。
-The headache that had plagued me has disappeared.
- It's so calm it feels like I'm at the bottom of the ocean.
+It's so calm it feels like I'm at the bottom of the ocean.
 }
 [sha:c035cd8595723cfceea73e59d57bcbbdd9080ef1]{
 -- Page 42, Offset 37147.
 -- ……そうして、この場所に辿り着いた。
 // Slightly tweaked そうして here
-After a time, I arrive at my destination...
+// The この場所 is to signify that he he's a bit out of it despite sort of knowing where he has ended up.
+After a time, I arrive %{i}here%{/i}...
 }
 [sha:9e35a2c67505de0e792a5be95bbb2907042cddeb]{
 -- Page 42, Offset 37148.
 -- 引き寄せられていたのか、誘われていたのか。
-Perhaps I was drawn toward it, or maybe it lured me in.
+Was I the one drawn toward it?
+ Or did it lure me in?
 }
 [sha:4d9572250b3bcbba0255852c6869c59314f2fc81]{
 -- Page 42, Offset 37149.
 -- どうあれ同じ結末だ。
-Either way, the result is the same.
+Either way, the outcome remains the same.
 }
 [sha:eac395902086d411e76abaf74d53e16bf3a0d3ad]{
 -- Page 43, Offset 37150.
 -- <皎皎|こうこう>と照らされた石の広場。
-An illuminated stone plaza.
+The stone plaza is bathed in moonlight.
 }
 [sha:e5db2a850a19fb26f1d8c30a939fcb2315aea5a8]{
 -- Page 43, Offset 37151.
@@ -100,13 +102,13 @@ The city fades away, leaving the two of us in a world of our own.
 [sha:2ad08c0d8fa3a4557100413a2d115dcff6a49dba]{
 -- Page 44, Offset 37155.
 -- 太陽の明かりほど眩しい月下。
-The moon shines as dazzlingly as if it were the sun.
+There, the moonlight is as luminous as the sun's rays.
 }
 [sha:67023aaec5722fab77eaf9fb3c712008d3c2655a]{
 -- Page 45, Offset 37156.
 -- 「こんばんは、わたしの素敵な殺人鬼さん。
 // Only other use of 殺人鬼さん in 07_00_ARC07_3_1_3 18077.
-"Good evening, my darling Mr. Murderer.
+"Good evening, my lovely little murderer.
 }
 [sha:3248b16a0c4d4c67b5bcf50b135ac9f6385bb7d8]{
 -- Page 45, Offset 37157.
@@ -116,8 +118,7 @@ It's been a while since we last met like this."
 [sha:ed32bf5b33ef7a890f09b0082e9a81191ed30534]{
 -- Page 45, Offset 37158.
 -- そこには夢で何度も出会った、アルクェイドという名の吸血姫の姿があった。
-Before me stands the figure of Arcueid,
- the vampire princess I've met time and time again in my dreams.
+Before me stands the vampire princess I've met time and time again in my dreams——Arcueid.
 }
 [sha:f0d50325c7f3cca84d27f39aed62ac2dcf06fe1d]{
 -- Page 46, Offset 37159.
@@ -127,7 +128,8 @@ This is no headache-induced optical illusion...
 [sha:05519595d484102daaac30c7ff3e2595db7014a1]{
 -- Page 46, Offset 37160.
 -- 容姿は何一つ変わらないのに、アルクェイドのカタチは変化していた。
-Even though her appearance hasn't changed at all, something about her is different.
+// カタチ is a Nasuism, preserved
+Even though her appearance hasn't changed at all, something about her form is different.
 }
 [sha:4fed54b45a23b24c47d8836e9b3f78f72f8653f4]{
 -- Page 47, Offset 37161.
@@ -172,17 +174,19 @@ Arcueid smiles with delight.
 [sha:a693c606d9572431155423fe4b5a39ed1c1515bf]{
 -- Page 49, Offset 37169.
 -- その仕草はかつてないほど優雅で恐ろしい。
-Her gesture is so much more elegant than before that it's frightening.
+Her bearing is elegant and frightening,
+ both to degrees hitherto unseen.
 }
 [sha:dff83249185585d039a4b5d8e675ef20b378a1d1]{
 -- Page 49, Offset 37170.
 -- 占いの花びらを摘むような可憐さに見えて、
-It's the sweet smile of a someone telling their fortune by plucking the petals off a flower―――
+The innocent charm of a maiden plucking the petals from a flower,
+ wondering if he loves me or he loves me not―――
 }
 [sha:c0c337f71f5065e755918d1587782e80e1445a15]{
 -- Page 49, Offset 37171.
 -- 戯れに捕まえた虫の羽を千切る残酷さにも見える。
-Yet also the cruel smile of someone amusing themselves by tearing the wings off a captive insect.
+Yet also the needless cruelty of a child amusing themselves by tearing the wings off of a captive insect.
 }
 [sha:9849787859d8b539a81c557b14fcc08ec7d9cc90]{
 -- Page 50, Offset 37172.
@@ -207,13 +211,13 @@ My instincts are screaming warnings at me.
 [sha:2107efd9407cff2a4ef19122f004bd5ef81155f3]{
 -- Page 51, Offset 37176.
 -- アイツはロアを探し、殺す為に残っている。
-She stuck around so that she could find――and kill――Roa.
+The only reason she's stuck around is to find――and kill――Roa.
 }
 [sha:5d713b4276bb273363e5f1287c07642a5a88cfe1]{
 -- Page 52, Offset 37177.
 -- 即ち―――俺の中にロアがいると知られれば、アイツにとって俺は殺すべき対象になってしまう。
 In other words――if she realizes that Roa is inside of me,
- I'll turn into a target for her to eliminate.
+ then all of a sudden %{i}I'll%{/i} be the one she's here to kill.
 }
 [sha:db71c66676816134c0ed7b84dfd412d79ade5131]{
 -- Page 53, Offset 37178.
@@ -223,7 +227,7 @@ In other words――if she realizes that Roa is inside of me,
 [sha:f3c3b03bc47501036e102a689d34f756187760cf]{
 -- Page 53, Offset 37179.
 -- 死者の後始末だって先輩がやってくれるんだし、おまえがこの街に残る理由はもうないんじゃないか」
-Senpai's going to take care of mopping up the last of the Dead,
+Senpai's going to mop up the last of the Dead,
  so I don't see why you'd have any reason to stick around."
 }
 [sha:341418f2acdc113221e284bd112ef5bd92d0ab2b]{
@@ -240,7 +244,7 @@ All I'm doing is repeating something she told me...
 [sha:7a0b24d86663157eb6c465f7fbb961c87a58476e]{
 -- Page 55, Offset 37182.
 -- 「ええ。柩にいたロアは殺したわ。
-"Yeah. I killed the Roa that was inside the coffin.
+"Yeah. I killed the Roa inside the coffin.
 }
 [sha:740fe9b79290398e1160a7a7c22059b1e726d6af]{
 -- Page 55, Offset 37183.
@@ -257,28 +261,29 @@ But that doesn't mean I killed Roa himself.
 [sha:c58ebbfea4aacd6e0bd1d0adc4f336530e6e8479]{
 -- Page 56, Offset 37185.
 -- 「その事情が変わったの。
-"Things have changed.
+"That's no longer the case.
 }
 [sha:9d01002b5cd68e89c38ad14aa3bb6f539e708c97]{
 -- Page 56, Offset 37186.
 -- 運がいい事に10年以上も待つ必要はなくなった。
 Thanks to a brilliant stroke of luck,
- there's no longer a need for me to wait another ten long years.
+ there's now no need for me to wait another ten long years.
 }
 [sha:23ebafe98ec2f7a893ca84e87606bcd30c3b7c39]{
 -- Page 56, Offset 37187.
 -- だって―――ロアは依然、わたしの目の前にいるんだもの」
 You see... Roa is still right here, before my very eyes."
 }
-[sha:622d6566af10d03e45c83a28c2cabbc04436d5a2]{
+[offset:37188]{
 -- Page 57, Offset 37188.
 -- そう言って。
-As she says that―――
+And with those words―――
 }
 [sha:0c8334baa93e069e67063d0844ffe252f7a12d23]{
 -- Page 57, Offset 37189.
 -- アルクェイドは無造作に、紅い瞳を向けてきた。
-Arcueid casually locks her red eyes with mine.
+// 無造作 dropped
+Arcueid locks her red eyes with mine.
 }
 [sha:10e53a9f241065aabe12f5913776ec09bce2c915]{
 -- Page 58, Offset 37190.
@@ -301,7 +306,7 @@ Sweat breaks out all over my body.
 -- Page 58, Offset 37193.
 -- 自分たちとは本質的に違う生き物を前にした事で、遠野志貴の現実が溶けていく。
 Faced with a being of a fundamentally different nature,
- Tohno Shiki's reality begins to melt away.
+ my reality begins to melt away.
 }
 [sha:4e39575c15f1e8977e5d5c493333367568bb48f5]{
 -- Page 59, Offset 37194.
@@ -316,25 +321,24 @@ My throat won't move.
 [sha:c1316b36bd9b1c3dadd79c6e302f5e00074e62f9]{
 -- Page 59, Offset 37196.
 -- そんな余分な真似をすれば、次の瞬間、この首が千切られて転がる予感が、全身を縛って離れない。
-My body is completely frozen in place,
- trapped by the premonition that if I make even the slightest move,
- my head will be ripped clean off my shoulders.
+I remain frozen in place,
+ paralyzed by the intuition that if I do anything so pointless as breathe then my head will be ripped clean off my shoulders.
 }
 [sha:5b4b358548dd95f6da63de672daa45e0c60bc2c4]{
 -- Page 60, Offset 37197.
 -- 人間であるうちは、無知である時はまだ良かった。
-If I'd still been human――if I'd still been ignorant, I'd have been fine.
+If I'd still been human――if I'd still been ignorant, this wouldn't be as bad.
 }
 [sha:83e08e4d6b034c9c112688a2c6843c6330752cbd]{
 -- Page 60, Offset 37198.
 -- だが今はもう駄目だ。
-But as I am now, it's no use.
+But now, there's nothing I can do.
 }
 [sha:9b193021a25ed63452ae3a4a1ecdcfed31d28917]{
 -- Page 60, Offset 37199.
 -- 吸血鬼化した五感が正確に現状を把握してしまう。
 With my senses sharpened by my transformation into a vampire,
- I can understand the current situation whether I want to or not.
+ I can tell exactly how much peril I'm currently in.
 }
 [sha:94525b344ae52011cdd9c9bca6ffab6dab4b1981]{
 -- Page 61, Offset 37200.
@@ -344,15 +348,15 @@ I can't win... I can't even run.
 [sha:4723f608235b60bc3b4adaae1daa31afaf806b01]{
 -- Page 61, Offset 37201.
 -- 吸血鬼としての階梯が違いすぎる。もし戦いになるのなら、それは文字通り、蟻が象に挑むようなものなのだ。
-As vampires, we're Ranks apart.
+She so outclasses me as a vampire that it's not even funny.
  If I were to fight her now, it would be like an ant trying to take on an elephant.
 }
 [sha:fef587b8e8648af41926f5ef3c6954d16f2e1b5d]{
 -- Page 62, Offset 37202.
 -- 「ばかな志貴。あんな女に肩入れしなければ、そんな目にあわなかったのにね」
-"You were a fool, Shiki.
- If only you hadn't cast your lot in with that woman,
- you wouldn't be suffering like you are now."
+"Silly you, Shiki.
+ If only you hadn't taken her side,
+ you wouldn't have gone through all that suffering."
 }
 [sha:1a67a2a13994ca19149a00e586759f9139367161]{
 -- Page 62, Offset 37203.
@@ -362,10 +366,10 @@ Arcueid still hasn't moved...
 [sha:6e181aaa369e79ddc8476358a95f46c613b59d72]{
 -- Page 62, Offset 37204.
 -- 余裕の表れ……じゃない。アイツにとってこれは確認にすぎない。
-// Not sure about this one at all.
-Is this my chance...?
+// Basically: Is it because of how confident she is [that I don't stand a chance against her, so she's showing off how unconcerned she is about me making a move]?
+Is it because she thinks I don't stand a chance?
  No...
- She's just watching and waiting to see what I do.
+ There's just something she still wants to confirm.
 }
 [sha:8bee5374e36b64b5a962439c0fc7fe404f457cab]{
 -- Page 63, Offset 37205.
@@ -377,8 +381,8 @@ Is this my chance...?
 -- Page 63, Offset 37206.
 -- 「物は言い様ね。信じた人間に殺されかけたり、吸血鬼になった女に殺されかけたりしたのが充実？」
 "That's certainly one way of putting it.
- Do you really find it fulfilling to be killed by a human you trusted,
- or exciting to be killed be a woman who turned into a vampire?"
+ Do you really find it fulfilling to almost be killed by someone you trusted,
+ or by that woman who turned into a vampire?"
 }
 [sha:b61f6f9a476c0c282a0d343c441f353a49adc9d9]{
 -- Page 64, Offset 37207.
@@ -419,7 +423,7 @@ Arcueid and Ciel-senpai...
 [sha:97d25bbd7ff6ccb530b2c11edbaf5e35d6d4a4d7]{
 -- Page 66, Offset 37214.
 -- この二人はどうあっても反発し合う関係だ。
-They have the sort of relationship where they can't help butting heads.
+Their relationship will always cause them to come into conflict.
 }
 [sha:0af0ba9c20330ec17c016d04847627176292581a]{
 -- Page 67, Offset 37215.
@@ -471,7 +475,7 @@ With the smile of someone picking flowers in the garden of heaven,
 [sha:ce40d89d6728adb0d88ad04fced45f83898f39a4]{
 -- Page 70, Offset 37224.
 -- ……はっきりと目が覚めた。
-I'm wide awake now...
+I'm wide awake now.
 }
 [sha:15396031602295e9ce454f66924f5ee8561be353]{
 -- Page 70, Offset 37225.
@@ -518,14 +522,14 @@ Why did I just prove her point?
 [sha:1ba16a5438e34c72c872d259f071a9cd9d4389dd]{
 -- Page 74, Offset 37232.
 -- 「相変わらずおかしなひとね。
-"You really are a weirdo, aren't you?
+"Peculiar as always, aren't you?
 }
 [sha:971aa05d334783ab1b8c066f02c405d282fc0c00]{
 -- Page 74, Offset 37233.
 -- 殺人鬼じゃないって言い張るのに、私だけは特別なの？　それとも嘘つきなのかしら？」
 You keep insisting that you're not a murderer,
  but also that I'm an exception somehow?
- Are you sure you aren't just a liar?"
+ Could it be I'm simply dealing with a liar?"
 }
 [sha:fe9ccc2a823fd37384fa2ad556f96ed576e551e1]{
 -- Page 75, Offset 37234.
@@ -567,29 +571,29 @@ I see...
 -- Page 77, Offset 37240.
 -- 思えば、自分を殺しかねない頭痛はあの時から始まった。
 Thinking back on it,
- that's about when I started getting the headaches that felt like they could kill me.
+ that's about when I started getting these almost lethally painful headaches.
 }
 [sha:ec0cd6621951a104ce346ac6723eaad865a9649e]{
 -- Page 77, Offset 37241.
 -- 既に俺に転移していたロアは、俺がアルクェイドに心を許す度に反発してやがったのか。
 Roa had already transferred into me at that point,
- so that must have been him lashing out every time I let my guard down around Arcueid.
+ so that must have been him lashing out whenever I grew closer to Arcueid.
 }
 [sha:56829aaefea281ee221943880fbe4548524ad607]{
 -- Page 78, Offset 37242.
 -- 「……そうかよ。じゃあアレか。死者狩りはもののついでで、本命は俺の監視だったのか」
-"I get it...
- So that's what you were really up to, right?
- Hunting the Dead was just a sideshow,
- your real goal was to keep me under observation?"
+"Alright, I get it.
+ So then, what?
+ You were just hunting the Dead on the side,
+ and your real goal was to monitor me?"
 }
 [sha:87fb18853e06c82485ad93b62677bb35142d68f8]{
 -- Page 78, Offset 37243.
 -- 「？　……あ、そっか。そういうコトになるのね、志貴から見ると。観察って意味じゃ合ってるから、それでいっか」
 // ? actually voiced
-"Hm? Ah, right...
+"Hm...? Ah, right.
  I guess it makes sense you'd see it that way.
- Observation certainly fits, so yeah, let's call it that."
+ In the sense that I was observing you, sure——that works."
 }
 [sha:cb6ab8b54d988a75f1d4fe1d9a6acebfc277f64d]{
 -- Page 79, Offset 37244.
@@ -600,7 +604,8 @@ Roa had already transferred into me at that point,
 -- Page 79, Offset 37245.
 -- ロアはここにきて法則を変えた。次の時代に移るのではなく、この時代に留まって“永続”しようとした。
 Roa changed his rules after he came here.
- Instead of moving on to the next generation, he chose to stay in this era and become 'permanent'.
+ Instead of moving on to the next generation,
+ he chose to try and permanently remain in this era.
 }
 [sha:f84133ca721ea1654d09f2e3098e400b436349d8]{
 -- Page 79, Offset 37246.
@@ -633,7 +638,8 @@ Inside my head―――
 [sha:062e9fa78e1e4ac187c18f6c5750279a56197f0b]{
 -- Page 80, Offset 37251.
 -- ロアという吸血鬼が、活性化しようとしている。
-The vampire called Roa begins to stir.
+// People know he's a vampire, etc.
+Roa begins to stir.
 }
 [sha:805a64e6829421bb4cece309111911b6b3231443]{
 -- Page 81, Offset 37252.
@@ -695,45 +701,44 @@ Every time Arcueid says his name,
 [sha:a89445e5807e88a26be3b8ca992e9199b217ff16]{
 -- Page 84, Offset 37263.
 -- 人跡未踏の星の深淵。
-// Uhh is there a lore term for 星の深淵?
-The abyss of an unexplored planet.
+// Nasuisms abound
+In the abyss of the planet, by humanity untread———
 }
 [sha:dc8dc79e3841dd47e4af548d6c693dfba77dd93b]{
 -- Page 84, Offset 37264.
 -- 月の花が咲き乱れる山間の古城。
-An old castle nestled in the mountains,
- in which the flowers of the moon bloom profusely.
+Nestled among the mountains lies the ancient castle where the flowers of the moon bloom.
 }
 [sha:7cf8400b423b30175fb02ad6d7d00a1614078d76]{
 -- Page 84, Offset 37265.
 -- 地上からもっとも高く、
 // Shuffling between this line and next
-There, trapped within the deep Inner Sea high above the planet's surface―――
+There, furthest above the surface, is the deepest inner sea of all―――
 }
 [sha:58539beff8baed658a03ff7c3fffe1743e70a683]{
 -- Page 84, Offset 37266.
 -- もっとも深い内海に囚われていた女の姿。
-Is the figure of a woman.
+And trapped within it, the figure of a woman.
 }
 [sha:51a6532c46666c907c52ba2cc9d5c802479141bd]{
 -- Page 84, Offset 37267.
 -- それだけが、記憶に成り果てた男の魂に焼きついている。
-That is the only thing that remains burned into the soul of the man who has become nothing but a memory.
+That is all that this mere memory of a man has seared into his soul.
 }
 [sha:1578114698438b9a5d36261c6c36a67965387621]{
 -- Page 85, Offset 37268.
 -- ……悔しいが、それは俺には解らない永遠の断片だった。
-It's frustrating, but... that fragment of eternity is something I cannot understand.
+As frustrating as it is, that fragment of eternity is something I cannot understand.
 }
 [sha:5c3a96257ff915f85dcd5ec7614369a9a29da3e3]{
 -- Page 85, Offset 37269.
 -- 真祖である彼女は自らの意味も教えられず、
-The woman was taught nothing of her own existence as a True Ancestor.
+She was a True Ancestor who was never taught her own significance.
 }
 [sha:e6cf2f02e03636054a153a54b093b11bb43e8e8e]{
 -- Page 85, Offset 37270.
 -- 堕ちた真祖たちを狩る道具として扱われていた。
-She was treated as a tool, used to hunt down other True Ancestors that had fallen.
+She was treated as a tool for hunting down the fallen True Ancestors.
 }
 [sha:c8ddd576fd46e43b81cb86a1f7c8f57e9c42301f]{
 -- Page 85, Offset 37271.
@@ -755,22 +760,22 @@ Within that garden of flowers in full bloom,
 [sha:ff1b6256650d5e18625e0265c3446780f19faf3b]{
 -- Page 86, Offset 37274.
 -- その姿を、男は、美しいと感じた。
-The man felt that figure was beautiful.
+The man had felt that her figure was beautiful.
 }
 [sha:594d35a4c2e8b2689382e9f798a38ea76788f906]{
 -- Page 86, Offset 37275.
 -- 生まれて初めて。
-He had never felt this way before.
+For the first time in his life―――
 }
 [sha:07a1b9c6af686572aac6d38d60cd10051c4ee894]{
 -- Page 86, Offset 37276.
 -- おそらく、いや、生涯にただ一度のみ。
-He would likely, no, %{i}definitely%{/i} never feel this way again.
+For what would likely be the %{i}only%{/i} time in his life―――
 }
 [sha:8a52b894376320320cba3bfd2a33632b4e184e3b]{
 -- Page 86, Offset 37277.
 -- ミハイル・ロア・バルダムヨォンは、その白い姿に恋をした。
-Michael Roa Valdamjong... had fallen in love with that white figure.
+Michael Roa Valdamjong fell in love as he gazed upon that figure in white.
 }
 [sha:4dd615e0f2a8c599d06fd1814490d5f43e04ec24]{
 -- Page 87, Offset 37278.
@@ -813,8 +818,8 @@ A memory that will not dim or fade no matter how many reincarnations pass.
 // Full interpretation being:
 // The memory is the result of something that is ubiquitous; something ordinary;
 // and yet something that is the answer to life itself [love?], and it turned this theologian's life upside down
-It is something ubiquitous, something ordinary, and yet at the same time, it is the answer to life itself――
-and it turned this theologian's world on its head.
+It is what turned the theologian's world on its head——
+the ubiquitous and banal answer to life.
 }
 [sha:d1c6b7f916227480889a3df9d70443103f26547f]{
 -- Page 90, Offset 37285.
@@ -829,30 +834,30 @@ So that's why he hated Arcueid.
 [sha:982c406ae3bc9337f886eb00e973c0162c0f9166]{
 -- Page 90, Offset 37287.
 -- 憎むしかなかったのか。
-He couldn't help but hate her.
+Perhaps he couldn't help but hate her.
 }
 [sha:416649f91ce39ea95231f11e3b723c38dbc481da]{
 -- Page 90, Offset 37288.
 -- 自分から純粋さを奪った女。
-That woman took his purity from him.
+She had taken his purity from him.
 }
 [sha:8bbec885359c472605ea5a55f7f3df052fc57388]{
 -- Page 90, Offset 37289.
 -- たった一瞬。ただ一度見ただけで心を奪われてしまった自分。
-It happened in an instant.
- Just one look was enough to enthrall his heart.
+All it took was a glance.
+ He had taken just a single look at her, and had his heart stolen.
 }
 [sha:9edd6dae07048f8ea3a59757d60ab01d9d88caf5]{
 -- Page 90, Offset 37290.
 -- 挑むべき命題が無意味だと悟らせた花。
 // Reading 挑む here as to attempt; to go after (a prize, record, etc.); since as 'challenge' it doesn't really make sense?
 // Also assuming the 命題 itself is his method for eternity, since he uses the same word back in 06_01_CIEL06_6
-A flower that made him realize the meaninglessness of the thesis he sought to prove.
+She was the flower that had showed him how meaningless the thesis he pursued was.
 }
 [sha:b4cf5469ddd0e470f25c85f66fb9bfe90c635098]{
 -- Page 90, Offset 37291.
 -- その存在、白い吸血姫の全てが憎かったのか。
-I wonder if he hated everything about that existence... that vampire princess in white.
+Perhaps he hated everything about the existence of that vampire princess in white.
 }
 [sha:dce032c421bf31e6ecad6d2a288999cd276dbc4c]{
 -- Page 91, Offset 37292.
@@ -862,7 +867,7 @@ A lifetime of purpose spilled from his palm like sand.
 [sha:ecb561ddeaa80483dec74830d7284220a84ff6f6]{
 -- Page 91, Offset 37293.
 -- その呆気なさ、脆弱さに<憤|いきどお>ったのはロア自身だ。
-It was Roa himself who resented the precariousness and the short-lived nature of it all.
+The resentment over how precarious and short-lived it had been was nobody's but his own.
 }
 [sha:5a733499557912b045e3e79d8390587593eae0fd]{
 -- Page 91, Offset 37294.
@@ -873,12 +878,12 @@ It was Roa himself who resented the precariousness and the short-lived nature of
 -- Page 91, Offset 37295.
 -- その信念が、矜持が、敵対以外を選ばせなかった。
 His conviction, along with his pride,
- would not let him choose any path other than hostility.
+ would not let him choose any path other than animosity.
 }
 [sha:64194093bf87378afd260fb8362b8051d21f2c68]{
 -- Page 91, Offset 37296.
 -- この憎い敵を打倒し、<貶|おとし>める事でしか、かつての自分を取り戻す方法はないと信じたのだ。
-He believed that the only way to regain his former self was to defeat the object of his hatred, and drag them through the mud.
+He believed that the only way to regain his former self was to defeat and desecrate the object of his hatred.
 }
 [sha:d9152bf1fb57b4c4c3f451957975fd7a11d2ad2b]{
 -- Page 92, Offset 37297. Mods: @n.
@@ -894,19 +899,19 @@ But it was a mistake as a human being.
 [sha:99e4e219a8fd6ce8a1be6d018ca671c01aeb45a1]{
 -- Page 92, Offset 37299.
 -- 『不老不死になる為』に最も優れた真祖の<下僕|しもべ>になろうとした男は、
-The man who had sought to become the underling of the most superior True Ancestor in order to become immortal―――
+The man who had sought to become the underling of the greatest True Ancestor in order to become immortal―――
 }
 [sha:c996e55607410bc9a3b1b98f1a03eb4b5dc581d2]{
 -- Page 92, Offset 37300.
 -- 『最も優れた吸血種を陥れる為』に不老不死になった。
-Instead became immortal in order to ensnare the most superior of bloodsuckers.
+Instead became immortal in order to ensnare the greatest bloodsucker.
 }
 [sha:396c1a851574351c0a5411c8effd202af9fac9c3]{
 -- Page 93, Offset 37301.
 -- ロアは己が吸血種だという事を知らないアルクェイドを<拐|かどわ>かし、自分の血を吸わせ、魂を結びつけた。
-Roa kidnapped Arcueid,
+Roa deceived Arcueid,
  who didn't even know that she was a bloodsucker herself,
- and made her suck his blood, binding their souls together.
+ and made her drink his blood, binding their souls together.
 }
 [sha:a2df8113b09e32f65155ddca03433bdeef542bc0]{
 -- Page 93, Offset 37302.
@@ -917,10 +922,10 @@ The man who had become Arcueid's Dead Apostle gave free reign to the powers gran
 [sha:29250c695e34a34273cf2687a3086e943058c7d7]{
 -- Page 94, Offset 37303.
 -- そうなるようヤツはアルクェイドを追いつめ、転生という不老不死に到達しながら、<寿命|リミット>をアルクェイドの手に委ねた。
-// I assume 寿命をアルクェイドの手に委ねた is like "entrusted her with deciding the end to his lifespan by murdering him"?
-After his transformation he chased Arcueid down,
- and at the same time as he attained immortality through reincarnation,
- he entrusted her with determining the limits of his lifespan.
+In order to achieve this,
+ he had tracked Arcueid down,
+ attained immortality through reincarnation,
+ and at the same time entrusted her with control over his lifespan.
 }
 [sha:19e2700fba95531bc5f4b0cf0293c8f06a55a205]{
 -- Page 95, Offset 37304.
@@ -931,8 +936,8 @@ I wonder why he didn't understand...
 -- Page 95, Offset 37305.
 -- 十何回と転生してはアルクェイドを待ち続ける憎しみ。
 Even after reincarnating dozens of times,
- he still waits for Arcueid,
- clinging to his hatred.
+ in his hatred,
+ he still continues to wait for her.
 }
 [sha:60ba88a13ed8a9bdf7819d7e07ff98c262f76650]{
 -- Page 95, Offset 37306.
@@ -942,57 +947,56 @@ Except, it isn't hatred at all.
 [sha:470a472906c0affadaf7bcd279efec865d87f567]{
 -- Page 95, Offset 37307.
 -- ひたすらに命題を究明し続けた男は、人間らしい感情を知らなかった。
-The man who devoted himself single-mindedly to his thesis had never known human emotions.
+This man who had so single-mindedly devoted himself to his thesis had never known human emotions.
 }
 [sha:b06f75f0410c3b2d28adb68df24cc4cccda20469]{
 -- Page 95, Offset 37308.
 -- 自分の行く道を変えるほど、他者の事を思うこと。
-He thought so much about someone else that he changed the path he walked.
+What it meant to care so strongly for another that you stray from your course.
 }
 [sha:4033459a7acf86a782a2230e8aad30ca6f0e7a97]{
 -- Page 95, Offset 37309.
 -- 確かにそれは憎悪に似ているが、憎しみにまみれた人間は、そこまで他者を信じられない。
-It's true that it bears a resemblance to hatred,
- but a human who was truly steeped in hate wouldn't trust another person to the degree he did.
+It may bear a resemblance to hatred,
+ but a human who was truly steeped in hate wouldn't believe in another person to the degree he did.
 }
 [sha:744b52ec9ae24754ce8fc2251aed243ff897d6c1]{
 -- Page 96, Offset 37310.
 -- ロアはアルクェイドを信じた。
-Roa believed in Arcueid.
+And Roa %{i}did%{/i} believe in Arcueid.
 }
 [sha:618aaab10e4d2ea07f085f6e1bb1611b918b5793]{
 -- Page 96, Offset 37311.
 -- 彼女ならば幾たびも自分を追い、憎み、殺し、永遠まで導いてくれるだろうと。
 He believed that she would be the one to chase him,
- despise him, and kill him as many times as it takes,
- guiding him through all of eternity.
+ hate him, and kill him as many times as it takes,
+ and guide him to eternity.
 }
 [sha:726eb0f836343c869f6fabf63b3140e0f685c6ae]{
 -- Page 96, Offset 37312.
 -- それが果たされない望みだと理解した上で、ヤツはこの航路に乗りだした。
-He embarked on this journey despite knowing it was a wish that could never be fulfilled.
+He had embarked on this voyage despite knowing it was a wish that could never be fulfilled.
 }
 [sha:7f6ac2929fb553893e3e6ca700fe30bd3ac54310]{
 -- Page 97, Offset 37313.
 -- 無限に続く旅路。
-An endless voyage.
+// 続く when used with roads or paths and stuff of that nature usually means "leads". "ローマへ続く道" = "the road leading to Rome".
+An endless journey toward infinity.
 }
 [sha:11d97fb15ea10e8c477deb1a021e84ebc08fc943]{
 -- Page 97, Offset 37314.
 -- 自身が摩耗し、消え去り、
-A soul that will keep on drifting―――
+Yet even if he is worn down, fades, or turns into another concept altogether―――
 }
 [sha:512cf8dd5f33f74fd0a2dcb6a2ccb561d9c809c8]{
 -- Page 97, Offset 37315.
 -- 何か他の<概|モ><念|ノ>になっても続く魂の漂流。
-Even if its self is worn away,
- even if it fades,
- even if it's reduced to nothing more than a concept.
+His soul will continue to drift on.
 }
 [sha:51f60fb5014c9f910bf53adf280171dccd6af70e]{
 -- Page 97, Offset 37316.
 -- それがミハイル・ロア・バルダムヨォンの選んだ結末。
-That is the end that Michael Roa Valdamjong chose.
+%{i}That%{/i} is the fate chosen by Micheal Roa Valdamjong.
 }
 [sha:f3bfc9e1d75f69dd619c69a6209490103b7a96dc]{
 -- Page 97, Offset 37317. Mods: @n.
@@ -1008,14 +1012,13 @@ he felt was love.
 [sha:7a4f99bf11839161fd13cde26f4334f4fd3a3c5b]{
 -- Page 98, Offset 37319.
 -- 一瞬。いや、長い間。
-It only lasted an instant.
- No――it lasted a long time.
+For an instant――no, for a long, long time―――
 }
 [sha:caa1b9bdfd5b17f29bef29923f603e0100eea078]{
 -- Page 98, Offset 37320.
 -- 全ての元凶、転生して『<最|い><新|ま>』に在り続けようとした男の、夢を見ていた。
-I saw a dream of the man behind it all;
- the one who turned to reincarnation to try to continue to exist in the 'present'.
+I dreamed of the man behind everything;
+ the man who tried to remain forever in the present through reincarnation.
 }
 [sha:88f6d86b79887ca0852f70bab6472f251728a287]{
 -- Page 99, Offset 37321.
@@ -1052,10 +1055,10 @@ A naïve fantasy pops into my head...
 [sha:f478e454d688abce2e94a438dc007edf0acd894b]{
 -- Page 101, Offset 37327.
 -- 「余裕ね。考える時間をあげたのに、そんな無駄なコトに使うなんて。逃げる算段はしないの？　それともとっくに観念して、わたしに首を差し出すつもりなの、志貴？」
-"You're rather laid back about all this.
+"You sure are composed.
  I gave you time to think, and this is how you spend it?
- Aren't you going to try to run?
- Or have you already given up, and intend to present your neck to me on a silver platter, Shiki?"
+ Not even going to try and hatch a plan to escape?
+ Or have you already given up, and intend to present your head to me on a silver platter, Shiki?"
 }
 [sha:1e99383aa6da4b3639c758c5fcd82187a25326f9]{
 -- Page 101, Offset 37328.
@@ -1097,23 +1100,24 @@ Ciel will return.
 [sha:2692e7e65e134fad54a00c956beda49a03a4ab1d]{
 -- Page 104, Offset 37335.
 -- だからそれまで。
-That's why until she does...
+And so, until she does...
 }
 [sha:9b8ee175771c3feb7900ee4f93c24239f325f25b]{
 -- Page 104, Offset 37336.
 -- ここで、アルクェイドに殺される訳にはいかない。
-I can't allow myself to be killed by Arcueid.
+I can't allow Arcueid to kill me.
 }
 [sha:f02bbcb6670772e77f509c00b2a9e5e7ea26c969]{
 -- Page 105, Offset 37337.
 -- 「―――やっぱり。志貴はそうでなくちゃ。
-"―――I knew it. That's so like you, Shiki.
+"That's it――%{i}that's%{/i} the Shiki %{i}I%{/i} know.
 }
 [sha:01be8f4e9cc388384a8c093bf4e494c635600e3f]{
 -- Page 105, Offset 37338.
 -- 貴方はどんな時でも強がりを言っていた。自分の状態を把握した上で、できもしない事を達成する為に、本気で自分の命を使っていた」
-No matter what situation you end up in, you always put on a brave front.
- Once you've grasped where you stand, you'll seriously wager your own life to accomplish things that ought to be impossible."
+Whatever happened, you always put on a brave front.
+ You'd wager your life to achieve things you shouldn't be able to,
+ even while fully aware of how bad your situation was."
 }
 [sha:30c2e25dc657d4d59e471d860bb64f24cfd16bc3]{
 -- Page 106, Offset 37339.
@@ -1135,13 +1139,13 @@ Arcueid's voice has become more cheerful.
 [sha:f2126dc62509be44f230aea3861d00b29430210d]{
 -- Page 107, Offset 37342.
 -- 敵意不在の殺意。
-Her bloodlust doesn't contain any real hostility.
+Her bloodlust now lacks any real animosity.
 }
 [sha:de4db7601bfeecab3726dd922790de2bd6bc1939]{
 -- Page 107, Offset 37343.
 -- 俺を殺すと決めただけで本気になっていない……というより、会話を楽しんでいる節がある。
-Is it that she's decided to kill me, but isn't serious about following through...?
- No, it's more like she's just enjoying our conversation.
+I don't think she isn't serious about killing me now that she's decided to do it...
+ I think it's more that she's just enjoying our conversation.
 }
 [sha:acdbd34512a2b442adea89c75bbe08df4e3b55fc]{
 -- Page 108, Offset 37344.
@@ -1151,7 +1155,7 @@ Now that I think about it, this place is precious to us...
 [sha:3204a3e8720f12c169e300ffd206657bdb6aea62]{
 -- Page 108, Offset 37345.
 -- 協力を約束して、お互いを待った場所。
-It's where we promised to cooperate, and where we'd wait for each other.
+It's where we promised to work together, and where we'd wait for each other.
 }
 [sha:f49e83d3e285fbda592703fa4586cb04eef850fa]{
 -- Page 108, Offset 37346.
@@ -1167,13 +1171,13 @@ In which case... there may still be a chance we can talk this out.
 [sha:85d7249d50c02f1b33563bfc3b27bb9bd66134c6]{
 -- Page 109, Offset 37348.
 -- アイツを納得させられれば、このまま朝を迎える事だって夢じゃない。
-If I'm able to convince her,
+If I'm able to persuade her,
  then living to see the sunrise might not be a pipe dream after all...
 }
 [sha:39fd25c6e4483267ffbcf5a0a25a0b152fd123d7]{
 -- Page 110, Offset 37349.
 -- 「……そりゃありがたい。そこまで信じてるんならもう放っておいてくれ。
-"I appreciate the vote of confidence...
+"I appreciate the vote of confidence.
  If you believe in me that much, then you should just leave me alone.
 }
 [sha:c93ad7543699e9d466a54d2679f7924b675a1570]{
@@ -1186,7 +1190,7 @@ I'll take care of Roa myself.
 [sha:60dd7e01638b744bccb482d228d9817c84512e85]{
 -- Page 110, Offset 37351.
 -- だから、おまえはこのまま―――」
-That's why you should just―――"
+So you see, you can just―――"
 }
 [sha:985f7b3fa14018063cb6ebf07c5775d31c2cd597]{
 -- Page 111, Offset 37352.
@@ -1197,28 +1201,26 @@ That's why you should just―――"
 [sha:54c3f8e4c7630004f5f81fa336f6fa5ca92f40a7]{
 -- Page 111, Offset 37353.
 -- 志貴がアテにしているのは教会の連中でしょう？　あいつらにロアを封印されるのはお断りよ」
-You're counting on the people at the church, right?
+You're counting on those Church people, aren't you?
  I'm afraid I can't let them seal Roa."
 }
 [sha:f78354e1137096f555d299cbe5921c6121fecd01]{
 -- Page 112, Offset 37354.
 -- 「ロアを処分するのは自分の力を取り戻す為でもある。だから、ね。ロアを内包した人間は、わたしの手で始末をつけないと意味がないわ」
 "Part of the reason I'm out to deal with Roa is to take back my own power.
- You get it, right?
- It won't work unless I'm the one to put an end to the human that serves as a vessel for Roa."
+ So, you know, if I don't take care of the person possessed by Roa myself, there's no point."
 }
 [sha:456a650a348ec5f0cfd360ea927fdbcbee500164]{
 -- Page 113, Offset 37355.
 -- 「バカ、それだって意味がないぞ。ロアの転生体を殺したところでヤツは生き続ける。おまえがヤツに与えちまった血だって戻らな―――」
 "It wouldn't work anyway, you dumbass.
  Even if you kill Roa's reincarnation, Roa himself will still be alive.
- It's not like the blood you gave him is going to come ba―――"
+ It's not like you're gonna get back the blood you gave―――"
 }
 [sha:ce706e77324efdbf2daa7beeab44e1000767fd75]{
 -- Page 113, Offset 37356.
 -- 「―――わたしが与えた血が、何？」
-// Reading this as "what blood" I guess? As in, It Doesn't Exist Okay?
-"―――What do you mean, the blood I gave him?"
+"―――What did you say... about blood?"
 }
 [sha:873d03cb724b51be40bddb79a47aca3905b74201]{
 -- Page 114, Offset 37357.
@@ -1233,13 +1235,13 @@ Every muscle in my body tenses up.
 [sha:cd334ef3978d5f53c52f6963144706eb987867a5]{
 -- Page 114, Offset 37359.
 -- 肉体から意識が弾き出されて、コントロール不能になった感覚を味わった。
-I feel like my consciousness has been jettisoned from my body,
- and it's no longer under my control.
+I feel like my consciousness has been jettisoned,
+ leaving my body with nobody at the helm.
 }
 [sha:3af92e5ebb6248b83d267600a0e62cb7e87279f7]{
 -- Page 114, Offset 37360.
 -- ……今のは、まずい。
-This... is bad...
+This is real bad...
 }
 [sha:770955d306ce54725a209531c984716b292fc97d]{
 -- Page 114, Offset 37361.
@@ -1249,7 +1251,7 @@ I touched a nerve that I absolutely should not have touched.
 [sha:66c1ea3183d0da0a94713013f9a86055d7baf290]{
 -- Page 115, Offset 37362.
 -- 「……ロアに取られた力だって、戻らないだろう」
-"It's not like the power Roa took from you is going to come back..."
+"―――It's not like you're gonna get back the power Roa took from you."
 }
 [sha:db61f10b92c6a37e3604cd0bd8adbfb83b6b76ad]{
 -- Page 115, Offset 37363.
@@ -1269,7 +1271,7 @@ It may only be for ten years or so, but it's still enough to calm me down.
 -- 人間だって自分の小指を他人に使われたらイヤでしょう？　それと同じよ」
 // Uhh 使う _how_ here exactly? Like fiddle with it (attached)? Steal it and play with it? Take psychic control of it?
 I mean, a human would hate it if someone else started controlling their pinky finger, right?
- It's the same idea."
+ Same thing."
 }
 [sha:d1c6b7f916227480889a3df9d70443103f26547f]{
 -- Page 116, Offset 37366.
@@ -1279,29 +1281,30 @@ I see...
 [sha:ad0494ba7df8ef523057f66d62065d363a8fe814]{
 -- Page 116, Offset 37367.
 -- ロアの転生体を殺したところでアルクェイドとロアの主従関係は解約されない。
-Killing Roa's reincarnation isn't enough to break the master-servant relationship between him and Arcueid.
+Obviously, killing Roa's reincarnation isn't enough to break the master-servant relationship between him and Arcueid―――
 }
 [sha:9224be408de875cde0a06e72543ebe9d6446fae9]{
 -- Page 117, Offset 37368.
 -- けどロアが胎児に転生し、目覚めるまでは契約は一時的に無効になる。
-However, until Roa next reincarnates into a fetus, matures, and wakes up again,
- the contract is temporarily on hold.
+However, until Roa's reincarnation awakens once more,
+ it %{i}does%{/i} temporarily put their covenant on hold.
 }
 [sha:7eea193b64e4a3c1a0b67575b597973de0996e6d]{
 -- Page 117, Offset 37369.
 -- だからアルクェイドはロアが“目覚めない”と見つけられず、一時的な解決として転生体を殺すしかなかった。
 That's why Arcueid isn't able to find Roa before he awakens,
- and why she has no choice but to kill his reincarnations as a temporary solution to her problem.
+ and why she has no choice but to kill his reincarnations,
+ even if only as a temporary solution.
 }
 [sha:a037aba55e4406f3e4f3f63cc6e72f2da5ca4fc1]{
 -- Page 118, Offset 37370.
 -- それは今も例外じゃない。
-And that's exactly what she's doing now.
+And I'm no exception.
 }
 [sha:490f32cce7e3b53ce3c8ceef7b2fba99b2259222]{
 -- Page 118, Offset 37371.
 -- アイツは自分の力を使わせない為、ロアの転生体を生かしてはおけないんだ。
-If she wants to prevent Roa from using her powers, she can't let his reincarnation live.
+If she wants to prevent Roa from using her power, she can't let his reincarnation live.
 }
 [sha:1a44baf0487d0a35297db00eb6058101e4443e11]{
 -- Page 118, Offset 37372.
@@ -1312,12 +1315,12 @@ It's not a permanent solution; only a temporary band-aid.
 -- Page 119, Offset 37373.
 -- 「――――そうかよ。それじゃどうしても―――」
 "Is that right...
- So then, you're going to do it―――"
+ So then, you're really going to do it―――"
 }
 [sha:659e99a42b10bfab6ce79a92e73e1179ae37ae77]{
 -- Page 119, Offset 37374.
 -- 俺を、殺すっていうのかアルクェイド。
-You're going to kill me, aren't you, Arcueid?
+You're seriously going to kill me, aren't you, Arcueid?
 }
 [sha:7659b2da7c7bfc0e8d6d4f8d3d8700db788057b2]{
 -- Page 120, Offset 37375.
@@ -1328,14 +1331,14 @@ You're going to kill me, aren't you, Arcueid?
 -- Page 120, Offset 37376.
 -- 貴方の中にいるロアの波動は弱々しいわ。きっとあいつは胎児から始めないと、その人間に成り代われない。
 // P H Y S I C S
-The intensity of Roa's wavelength within you is very weak.
+Roa's wavelength is very faint inside of you.
  I'm almost certain that if he isn't a part of someone from the time that they're a fetus,
  then he isn't able to take over completely.
 }
 [sha:18d139881308f2a9ec91f6db7c10f294395c46cf]{
 -- Page 120, Offset 37377.
 -- わたしに転生体を潰されて、なんとか貴方の中に転移したのはいいけど、それが限界。ロアと貴方は意識こそ融けあうものの、完全に上書きされる事はない」
-He was able to transfer himself into you after I crushed his reincarnation, but that's all he was able to do.
+He was able to transfer himself into you after I took out his reincarnation, but that's all he was able to do.
  Even though Roa's consciousness has fused with yours, he wasn't able to overwrite it completely."
 }
 [sha:6d27cd3d731d033675af606c79ec8911c5c40658]{
@@ -1355,10 +1358,10 @@ He was able to transfer himself into you after I crushed his reincarnation, but 
 In which case, there's no need for me to kill you.
  As long as the power Roa stole from me operates according to my will, that's enough."
 }
-[sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
+[offset:37381]{
 -- Page 122, Offset 37381.
 -- 「……？」
-"Huh...?"
+"Hm?"
 }
 [sha:8639d64a1f21c6a03744953dce81cfe68860f41a]{
 -- Page 122, Offset 37382.
@@ -1374,7 +1377,7 @@ So then why is she here in front of me?
 -- Page 122, Offset 37384. Mods: @n.
 -- どうしてそんな―――
 // Manually linebroken across @n
-Why is she looking at me with that――uneasy,
+Why is she looking at me with that――threatening,
 }
 [sha:83715b910211d153bdb378422a61243f0eabb0d0]{
 -- Page 122, Offset 37385.
@@ -1426,13 +1429,14 @@ I clench my teeth to try and hold back the tears welling up in my eyes.
 [sha:4dfb3f7725bdd506e24c6421ec27c41517eaa1c7]{
 -- Page 126, Offset 37394.
 -- ……話は終わりだ。終わってしまった。
-Our conversation is over...
- We've hit the end of the road.
+// 終わりだ > 終わってしまった is like an exaggeration, or whatever
+Our conversation is over――well and truly over.
 }
 [sha:9b7e252024c780dfb338233ea85978edc11712ee]{
 -- Page 126, Offset 37395.
 -- それを言われたら、もう道は一つしかない。
-Now that she's said that, there's only one path left to follow.
+// Dropping それを言われたら
+There's only one way forward now.
 }
 [sha:c33ef972fc01625ee237c5268cbfdd02051fb615]{
 -- Page 126, Offset 37396.
@@ -1442,18 +1446,17 @@ I accept that she and I... will never again smile together like we used to.
 [sha:339942ed546d26f63e33a8988f273694d03f8871]{
 -- Page 127, Offset 37397.
 -- 「わたし、本気だから。返事を聞かせて」
-"I'm being serious here. What's your answer?"
+"I'm serious about this. What's your answer?"
 }
 [sha:75a17d14045b100301540cb6f957174666b44c9f]{
 -- Page 127, Offset 37398.
 -- アルクェイドの声には、あってはならない事だが、かすかな緊張があった。
-There's something faintly off about Arcueid's voice...
- She shouldn't have any reason to sound tense.
+Arcueid's voice is vaguely tense, as unthinkable as that is.
 }
 [sha:5eb4f97eed61422b4487af811c01095e211d3b96]{
 -- Page 128, Offset 37399.
 -- 今までとは比べ物にならない頭痛。
-This headache is unlike any that came before.
+I'm struck by a headache unlike any other.
 }
 [sha:9e57a654c6bb83636c230f34fbb9b53ac6a2fb70]{
 -- Page 128, Offset 37400.
@@ -1485,9 +1488,9 @@ You'll turn into something that can only live in the world of the night,
 [sha:b2b43175c49af9f9741f7290eac3283c842ca3e0]{
 -- Page 129, Offset 37405.
 -- そのままじゃ貴方は大なり小なり自分が失われるんだから、考えるまでもないと思うけど」
-If you carry on like this,
- you're guaranteed to lose at least some amount of yourself,
- so I wouldn't expect you to need much time to think it over."
+If you don't,
+ you're guaranteed to lose at least some of yourself,
+ so personally I think it's a no-brainer."
 }
 [sha:58313bba2fbd4c1f5f395afbb7f4cc3b6f061935]{
 -- Page 130, Offset 37406.
@@ -1529,8 +1532,9 @@ Roa is furious.
 [sha:8c381ccf9b567e7364b523f8fc737dea6919661c]{
 -- Page 132, Offset 37413.
 -- 騙されるな。あの女はおまえを人形にするつもりだ、と暴れている。
-He's screaming inside my head, warning me not to be fooled by her.
- Telling me that she means to turn me into a puppet.
+He's screaming inside my head,
+ warning me not to be fooled by her,
+ that she means to turn me into a puppet.
 }
 [sha:1e9b2349d270ab0f8dcefadd07be6a326d2aa44e]{
 -- Page 133, Offset 37414.
@@ -1556,7 +1560,7 @@ She's gone completely off the rails...
 [sha:bef2a69e3ef2ca2ea2b227eca454e8019da3fba5]{
 -- Page 134, Offset 37418.
 -- そんなアイツが言う方法が人間にとって<正常|マトモ>とは思えない。
-There's no way what she's proposing is in any way reasonable for a human to do.
+Whatever method she's suggesting, I doubt it's something a human would consider acceptable.
 }
 [sha:0e169c91370377d3d8f8af554cd4aff1be6db49a]{
 -- Page 135, Offset 37419.
@@ -1592,7 +1596,7 @@ I extend the blade, and hold out in front of me at eye level.
 [sha:fa1b46fec8ec11cfc515a2a9f3f742f6f7b1467e]{
 -- Page 138, Offset 37425.
 -- 「そっか。仕方ないな、なら力ずくね」
-"I see. That's too bad, I guess I'll have to use force."
+"Huh, Oh well. By force it is, then."
 }
 [sha:ea81d0e9d9b581a2eb3abb8bab41e654a10e6288]{
 -- Page 138, Offset 37426.
@@ -1607,13 +1611,13 @@ Her footsteps echo loudly.
 [sha:d172412af3185311426e2d9b77fe7116d14e09a3]{
 -- Page 139, Offset 37428.
 -- 一度、お返しをしてあげなくっちゃって思ってたんだ」
-I was thinking that I ought to return the favor."
+I was thinking I should return the favor at some point."
 }
 [sha:f710d4a1fd20fc994a6cbc10b2663d6d3de25f2f]{
 -- Page 140, Offset 37429.
 -- 突風と共に白い影が<迫|せま>ってくる。
-The white figure shoots toward me,
- plowing a gust of wind before her.
+A white blur shoots toward me,
+  plowing a gust of wind in front of it.
 }
 [sha:ab7c5491b15b6092dc0099532bc389473439e7d3]{
 -- Page 140, Offset 37430.
