@@ -321,7 +321,7 @@ So then, why―――
 -- わたしの頭を、温かな手で撫でてくれる人がいるんだろう？
 Why is there someone here, gently stroking my head with his warm hand?
 }
-[sha:d1c6b7f916227480889a3df9d70443103f26547f]{
+[offset:35987]{
 -- Page 249, Offset 35987.
 -- ……そうか。
 // Souka sucks
@@ -961,6 +961,6 @@ No. No matter how many times I fall, as long as there's someone out there prayin
 -- Page 276, Offset 36095.
 -- 「“………………この、偽善者”」
 %{i}
-"You... %{\i}hypocrite%{i}."
+"You... %{/i}hypocrite%{i}."
 %{/i}
 }
