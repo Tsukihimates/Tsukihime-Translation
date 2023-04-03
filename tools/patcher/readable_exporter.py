@@ -88,6 +88,7 @@ class ReadableExporter:
                 ret += f"sha:{sha}: {entries}, "
             for offset, entries in self.entries_by_offset.items():
                 ret += f"offset:{offset}: {entries}, "
+            ret += ")"
             return ret
 
         def any_conflicts(self):
