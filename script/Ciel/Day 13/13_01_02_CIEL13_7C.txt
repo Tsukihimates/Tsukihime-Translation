@@ -176,7 +176,7 @@ If you don't want him to die,
 [offset:36126]{
 -- Page 290, Offset 36126.
 -- ……？
-// This line sucks, animation is Noel looking confused, voilà
+// This concerns both Noel (on-screen, looking confused) and Shiki (not sure what Ciel is doing)
 What's going on...?
 }
 [sha:701bd2c134a5d0f27e6338e25fc48434a2b93115]{
@@ -364,8 +364,8 @@ After all, what makes a human good or evil is %{i}tragically%{/i} different from
 -- Page 302, Offset 36157.
 -- 「私のせいだ、と復讐に走る貴女の言い分は間違いであり、正しい。ロアの転生を止めるという私の使命感も間違いであり、正しい。いま、私たちは同じ境界に立っている」
 // 彼らの境界？？
-"It is wrong for you to blame me and seek revenge, but it is also right.
- It is wrong for me to feel it is my duty to end Roa's cycle of reincarnation, but it is also right.
+"It's wrong for you to blame me and seek revenge, but it's also right.
+ It's wrong for me to feel it's my duty to end Roa's cycle of reincarnation, but it's also right.
  In this moment, we both occupy the same boundary."
 }
 [sha:a8c6186c71fd9a617cc5ea727258f5579eba36e2]{
@@ -443,7 +443,7 @@ she's saying that they now have no other option but to demonstrate their righteo
 [sha:c1107b2ac116728bd4ee5eabafb79ec70ca0cabd]{
 -- Page 307, Offset 36170.
 -- その気持ちは、最後まであの少女には伝わらなかった。
-But even those feelings are never to reach that girl.
+But those feelings are never to reach that girl.
 }
 [sha:eea9303b733711697ed77f36102d170f16a0ccfa]{
 -- Page 308, Offset 36171.
@@ -645,11 +645,11 @@ There's no opening for her to mount a counterattack,
 -- Page 319, Offset 36205.
 -- 「なによ……なによ、なによ、なによ……！　一本ぐらい刺さってよ、少しぐらい痛がってよ……！　かすり傷さえ負わないとか、こんなのあんまりにも酷すぎる……！　わたしのが正しいのに、わたしのが正義なのに負けちゃうの!?
 // https://www.youtube.com/watch?v=VM3uXu1Dq4c
-// Change 'you bastard'?
 "Why... why, %{i}why%{/i}, %{i}WHY%{/i}!
  At least let %{i}one%{/i} of them hit you!
  At least make it %{i}look%{/i} like it hurts!
- You bastard... how can you not even have a scratch on you!
+ You're not even gonna let me %{i}graze%{/i} you?!
+ What the fuck is wrong with you?!
  Are you telling me that even though I'm in the right——even though justice is on my side——%{i}I'm%{/i} going to lose?!
 }
 [sha:a561a6ff18d252bfad7a1f1b93db1fc67e4f11e6]{
@@ -1007,7 +1007,7 @@ But that doesn't mean it was all for nothing.
 -- Page 340, Offset 36268.
 -- 戦える。これで、あの女と戦える―――！
 She can fight now.
- With this, she finally stands a chance against that woman―――!
+ With this, she finally stands a chance against her―――!
 }
 [sha:f679ab68c899d645398e6e2f34f7c065a679a5b8]{
 -- Page 341, Offset 36269.
@@ -1048,17 +1048,15 @@ The girl lashes out over and over again in a blind rage,
 // Lotta のに here and next sentence.
 // Can't immediately come up with something that keeps them all perfectly the same,
 // but this has a pretty readable pattern at least
-// If you had just?
-// Restructure to try and better encode the なら / のに
 "Why? Why?!
- You could have kept up the act forever!
- You could have stayed the way you were, stayed inhuman, and even I would have forgiven you!
+ You could have just kept up the act!
+ I could have forgiven you if you had stayed an inhuman monster!
 }
 [sha:2eaa84fb3cc2f1bb44bab7138f0726a478dc3e51]{
 -- Page 344, Offset 36276.
 -- 吸血鬼を狩るだけの、戦うだけの<機関|エンジン>なら良かったのに！　―――本当に、心から尊敬していたのに！」
-You could have stayed a machine that did nothing but hunt vampires and fight!
- I had always――I had always respected you from the bottom of my heart!"
+You could have just stayed a machine that did nothing but hunt vampires and fight!
+ I could have admired you from the bottom of my heart if you had!"
 }
 [sha:947f19b8fd8a24c6429cc18d5d9538f23fcaac87]{
 -- Page 345, Offset 36277.
@@ -1090,14 +1088,15 @@ Ciel brings the barrel of her pile bunker around to face the focality that serve
 -- Page 346, Offset 36282.
 -- 魂の咆哮とも言える少女の一刺し。
 // Better encode feelings behind the thrust, here and below
-Noel puts her entire soul behind that desperate thrust.
+Noel has put her entire soul behind that desperate thrust,
+ and while Ciel feels a desire to just submit and take it head-on―――
 }
 [sha:9ca18d42de70a0895ed6fecaf1114332f51034b7]{
 -- Page 346, Offset 36283.
 -- それを甘んじて受けたいと想う<情|じょう>ごと、彼女は敵を粉砕した。
-Ciel takes aim at her enemy,
- and at her own desire to just submit and take the thrust head-on,
- and blows both of them apart.
+She instead takes aim at her enemy,
+ along with those feelings of self-loathing,
+ and blows them both apart.
 }
 [sha:3f44784efc10c21664904a63dbe398b383fe2705]{
 -- Page 347, Offset 36284.
