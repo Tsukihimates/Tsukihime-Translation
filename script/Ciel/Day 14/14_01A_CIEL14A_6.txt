@@ -1,7 +1,7 @@
 [sha:b359e8c21335c211994bd2ce791c5de5861d0f68]{
 -- Page 10005, Offset 38245.
 -- 「ご――――ぼ」
-"Ga――――h"
+"%{i}Guh%{/i}――%{i}ah%{/i}."
 }
 [sha:cc2edcd49c0cb60dddaab6d47824df3891a2962a]{
 -- Page 10005, Offset 38246.
@@ -11,37 +11,42 @@ My bleeding won't stop.
 [sha:3f405edfe24a4f4f721a6dbe40691513be0a7a84]{
 -- Page 10005, Offset 38247.
 -- 息を吸おうとすると、ポンプのように口から血の塊が吐き出される。
-When I try to breathe, a clot of blood vomits out of my mouth like a pump.
+// Pump -> fountain, both kinda water-feature-esque.
+When I try and breathe,
+ coagulated blood gushes out of my mouth like a fountain.
 }
 [sha:49b01ea4b93ae3846067259cb1d7150b146a53b1]{
 -- Page 210, Offset 38248.
 -- ……意識が、途絶える。
-...My consciousness is coming to an end.
+My consciousness... is fading...
 }
 [sha:01ca1ee9fd6a36d55eb5d41190fd77c942ecdb54]{
 -- Page 210, Offset 38249.
 -- アルクェイドがもう少しお淑やかだったら良かったのに。
-It would have been nice if Arcueid had been a little more gentle.
+// He says this to her on D7 (15881), may be worth keeping em all the same
+If only Arcueid had acted a little more ladylike...
 }
 [sha:9383e041e7569eb166f42ea1f7a8ab6768a46dc0]{
 -- Page 210, Offset 38250.
 -- こんな、胸に大穴を開けられたら、吸血鬼になりかけの半端な俺じゃ助からない。
-With such a large hole in my chest, even an incomplete vampire like myself can't be saved.
+There's no coming back from having a hole this big ripped through your chest,
+ or at least not for someone like me, who's only a half-vampire.
 }
-[sha:bbb50f016c0c15c70679126ec0066c8f03c9f7d4]{
+[offset:38251]{
 -- Page 211, Offset 38251.
 -- 「――――――っ」
-"―――Ah."
+"―――%{i}Ghuah%{/i}!"
 }
 [sha:8e658547bc3caa2e34f731892ee5a8fdfd2a5be6]{
 -- Page 211, Offset 38252.
 -- どくん、と振動する。
-With a thump, I tremor.
+A tremor runs through my body.
 }
 [sha:8b21f2bca8402a3b21e8d098b6b9424bcc5e45b2]{
 -- Page 211, Offset 38253.
 -- 心臓からの震えじゃない。心臓はもうとっくに止まっている。
-The trembling isn't coming from my heart. It already stopped working long ago.
+It isn't the feeling of my heart beating.
+ It stopped pumping long ago.
 }
 [sha:c231830473a79a5af05d33eaa6e78c9d2c479388]{
 -- Page 212, Offset 38254.
@@ -51,32 +56,34 @@ It's coming from my head.
 [sha:0dcacc6e86806dc5acee3755f7df377c8fa53324]{
 -- Page 212, Offset 38255.
 -- アルクェイドを追い返すために脳を酷使したせいだろう。
-It must be because I overused my brain in order to drive away Arcueid.
+This is probably all because I overworked my brain to drive Arcueid away.
 }
 [sha:d83f2ee9c51a1e2c43e5dd947efa13fb8efbcf0d]{
 -- Page 212, Offset 38256.
 -- 俺―――遠野志貴というモノが段々と削れていって、ロアの意思が強くなってきている。
-I―――Tohno Shiki, am slowly being erased, while Roa's will is continuing to get stronger.
+I――the entity of Tohno Shiki――am being slowly whittled away,
+ while Roa's will keeps growing stronger.
 }
 [sha:7260e71b6555a565e0f93b027b2fe1255918aab1]{
 -- Page 213, Offset 38257.
 -- ……この体は、じき停止する。
-...Soon, this body will reach an end.
+It won't be long before this body stops moving...
 }
 [sha:c9f92a0a44e41652ad6c6fbded70d78c7731e0ae]{
 -- Page 213, Offset 38258.
 -- その後に俺まで亡くなってしまえば、この体はロアのモノだ。
-If I end up dying afterward, then this body will belong to Roa.
+If I die when it does, then it'll belong to Roa.
 }
 [sha:354cd6e7acfb897c3d43b2153e18a7f3ab841ed0]{
 -- Page 213, Offset 38259.
 -- 俺では助からないこの傷も、吸血鬼であるロアなら蘇生させる事ができるだろう。
-I'm sure that a vampire like him would be able to regenerate this wound that I'm not able to fix.
+Even if this wound is fatal for me,
+ I'm sure that a vampire like him would have no trouble reviving from it.
 }
 [sha:af39bdba4ec2b56f2a06a36c1835582fdee9f242]{
 -- Page 213, Offset 38260.
 -- そうなってしまえば―――俺は、先輩と同じ過ちを繰り返す事になる。
-If that were to happen―――then I would end up repeating the same mistakes as Senpai.
+In which case, I'd end up repeating the same mistakes Senpai once did.
 }
 [sha:cb5a1aacf4c7790115df5bd47c23144c75536337]{
 -- Page 214, Offset 38261.
@@ -86,57 +93,62 @@ If that were to happen―――then I would end up repeating the same mistakes a
 [sha:e232aa16840b13cacad74742c4777b90b2f95c19]{
 -- Page 214, Offset 38262.
 -- それが罪深い自己弁護だと分かっていても、口にせずにはいられなかった。
-Even though I know how sinful it is to make such an excuse, I couldn't help but say those words.
+// Link to 38274
+I know it's sinful for me to try and apologize now,
+ but I feel like I have to say it.
 }
 [sha:22d51a51a6591ced4c26a36f492e6472457ce373]{
 -- Page 214, Offset 38263.
 -- どくん、という躍動。
-Thump.
+Another tremor courses through me.
 }
 [sha:59ed791115b493553c4129ecfa67eca23effef20]{
 -- Page 214, Offset 38264.
 -- 本当に、意識が、保てなくなっている。
-I really won't be able to stay awake like this.
+I really... won't be able to hold on... much longer...
 }
-[sha:09a33cef0307c218ec57c5678826eb40e6e7c15c]{
+[offset:38265]{
 -- Page 215, Offset 38265. Mods: @n.
 -- その前に―――
-But before that―――
+Before I pass out completely,
 }
 [sha:e38ad48b5b830bc5f7f7284a1f509d469f1840c0]{
 -- Page 215, Offset 38266. Glued.
 -- 俺は、自分の体を直視した。
-I take a good, hard look at my own body.
+ I take a good, hard look at my own body.
 }
 [sha:4f609e00249ead03c71a32aa8a4f74890504b474]{
 -- Page 215, Offset 38267.
 -- 我が胸の古傷にその『点』は存在する。
-There is a 'point' within the scar in my chest.
+There is a 'point' within the scar on my chest.
 }
 [sha:0db202d6598f284abe82ed3f5d6be78abda1bb46]{
 -- Page 215, Offset 38268.
 -- 俺と―――ロアの死ともいうべき『点』が。
-―――A point that spells the death of both me and Roa.
+A point that spells death for me――and for Roa.
 }
 [sha:8b6d8393d93ee77595067cd6a8f443f5c29e181a]{
 -- Page 216, Offset 38269. Mods: @n.
 -- ―――遠野くん、言ったじゃないですか
-―――Tohno-kun, you've said this before, haven't you
+// Half of 37823
+'Tohno-kun, you told me before
 }
-[sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
+[offset:38270]{
 -- Page 216, Offset 38270. Glued.
 -- 。
-.
+―――
 }
 [sha:b9d3866ac9e904281c7720313041fd803f4c2c2e]{
 -- Page 216, Offset 38271.
 -- わたしを幸せにしてくれるって。
-That you would make me happy.
+// Other half of 37823
+That you would make me happy, right?
 }
 [sha:8afd8b7dc09a944cee2d78975093660ac8ee8c03]{
 -- Page 216, Offset 38272.
 -- なら、お願いですからこんなところで死なないでください。
-In that case, I'm begging you, don't get yourself killed in a place like this.
+// Match 37824
+So please, I'm begging you――don't get yourself killed in a place like this.'
 }
 [sha:f0dd4a6a183c39fe5dad0df55f71db7a3d60ca20]{
 -- Page 217, Offset 38273.
@@ -146,22 +158,25 @@ In that case, I'm begging you, don't get yourself killed in a place like this.
 [sha:676172f669c68c91209f138422e362e9beaff459]{
 -- Page 217, Offset 38274.
 -- だから、謝るしかない。
-That's why I have no choice but to apologize.
+// Echo 38262.
+And that's why I feel like I have to apologize.
 }
 [sha:7a7dd5ead8629f3f97e4a4859bb1d21c476efa1d]{
 -- Page 217, Offset 38275.
 -- 色々な事をしてあげたくて、けど結局は何一つ叶えられなかったというのなら。
-I wanted to do so many things for you. But in the end, I wasn't able to grant even a single wish.
+Even though I wanted to do so many things for her,
+ in the end,
+ I couldn't even grant that one wish.
 }
 [sha:76f73ff03352b8f3ec57ab164febb1f05f918a86]{
 -- Page 217, Offset 38276.
 -- せめて、最後に。
-So at the very least...
+If nothing else―――
 }
 [sha:9a4cba27fd70bbd8d1d0ef9c4a1271f1a074ecd4]{
 -- Page 217, Offset 38277.
 -- 彼女を、こんなつまらない因縁から解放するぐらい、こなさないと。
-I want to set her free from this worthless fate.
+I've got to at least set her free from this worthless fate.
 }
 [sha:92eb9c74ab9c6b3c1662b9deec0ee7db62edb52c]{
 -- Page 218, Offset 38278.
@@ -171,17 +186,17 @@ I want to set her free from this worthless fate.
 [sha:6190ec843277c870b966f232d6b5addba3b5fe22]{
 -- Page 218, Offset 38279.
 -- 大きく息をはいて、ナイフを胸に突きつける。
-I take a deep breath and aim the knife toward my chest.
+I take a deep breath, and level the knife at my chest.
 }
 [sha:138ac7b8aedc3aa6b4d71c9f0199282a16580eba]{
 -- Page 218, Offset 38280.
 -- ナイフの先にあるものは『点』だ。
-The 'point' lies in front of the tip of my knife.
+The tip of the blade is resting against that 'point'.
 }
 [sha:1647d1f52899f2d039b6cc8af92ea3a986945b20]{
 -- Page 218, Offset 38281.
 -- あとは、力をいれるだけ。
-All that's left is to apply some force.
+All that's left is to give it a push.
 }
 [sha:74575516ddf1147b8ce6282575e8ffe9b054e5fd]{
 -- Page 218, Offset 38282.
@@ -191,37 +206,42 @@ That's it.
 [sha:02b3f5dc9822e14acb9c672358885874770a039d]{
 -- Page 219, Offset 38283.
 -- ―――――ヤメロ。
-―――――Stop.
+// Roa voice one assumes
+―――%{i}Stop%{/i}.
 }
 [sha:2ec460d107642770ac918908d6321eb50d142ba6]{
 -- Page 219, Offset 38284.
 -- ……声が聞こえる。
-...I hear a voice.
+I hear a voice...
 }
 [sha:57c05c1b91df4dd995b0b58bc2b1ea6108753191]{
 -- Page 219, Offset 38285.
 -- おそらくは幻聴だろう。
-It's probably an auditory hallucination.
+But I'm probably just imagining it.
 }
 [sha:5e6744a16cb8823e61c277ff8029b63cd3c6b857]{
 -- Page 220, Offset 38286.
 -- “…………遠野くん…………！”
-"......Tohno-kun......!"
+// Damn were they having a 2 for 1 on ellipses?
+"Tohno-kun!"
 }
 [sha:8ac516106feb6e3d74c374e8e7689a3ca3602dad]{
 -- Page 220, Offset 38287.
 -- 泣き叫ぶような声が届く。
-I hear a shout in the distance.
+I hear a desperate shout in the distance.
 }
 [sha:3948653efb3be87d115299f4d4efeb0ac4c4868e]{
 -- Page 220, Offset 38288.
 -- 見れば、傷の塞がった彼女が、俺に向かって走ってきている。
-When I look where it's coming from, it's Senpai running toward me with her wounds fully healed.
+When I look toward the source,
+ I see her rushing toward me,
+ her wounds fully healed.
 }
 [sha:02b3f5dc9822e14acb9c672358885874770a039d]{
 -- Page 221, Offset 38289.
 -- ―――――ヤメロ。
-―――――Stop.
+// Roa voice one assumes
+―――%{i}Stop%{/i}.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 221, Offset 38290.
@@ -231,22 +251,24 @@ When I look where it's coming from, it's Senpai running toward me with her wound
 [sha:04672fb278e8165c10f856858f85cffdff7d7d92]{
 -- Page 221, Offset 38291.
 -- ……顔を見れば決意が鈍る。
-...My resolve will weaken if I see her face.
+I'll lose my nerve if I see her face...
 }
 [sha:721d471f0cf3fddfe6c914d08d4cf3a2f8a2ea22]{
 -- Page 221, Offset 38292.
 -- きっと、申し訳なくて、ナイフを持つ力が無くなる。
-As a result, I'm sure I'll feel guilty and lose strength in holding the knife.
+I know I'll feel too guilty to thrust my knife.
 }
 [sha:0ece556b6d6833156aeeb33c613dbbd6d88f8381]{
 -- Page 221, Offset 38293.
 -- だから、彼女がやってくる前に。
-That's why before she reaches me...
+So, before she reaches me―――
 }
 [sha:f85b38c7ca02e52f05e79298d6a1ac4864db756e]{
 -- Page 222, Offset 38294. Mods: @n.
 -- ナイフを持つ手に力を入れた
-I put pressure into the hand holding the knife
+// This sentence kinda sucks because literally it's very awkward in EN,
+// but I also want to try and preserve at least some of the roundaboutness (no actual stab words)
+I give the knife in my hand a gentle push
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 222, Offset 38295. Glued.
@@ -256,7 +278,8 @@ I put pressure into the hand holding the knife
 [sha:767aff02d7c453b588aa835c668895b73b34b9d4]{
 -- Page 222, Offset 38296.
 -- スウ、と音もなく感触さえなく、ナイフの刃が体に透る。
-Quietly, and without feeling, the blade passes through my body.
+It doesn't make a sound.
+ I don't even feel it as the blade sinks into my body.
 }
 [sha:733241b6638265f0c33c2a69888c37b15e8a6147]{
 -- Page 222, Offset 38297. Mods: @n.
@@ -276,19 +299,20 @@ That's it.
 [sha:41b84ad6e73a841dd384178791f52f21c19b8f3e]{
 -- Page 223, Offset 38300.
 -- もう何年も前に落ちたことのある、
-I sink into the deep, deep darkness,
+// Flopped
+I sink into the deep, deep, darkness―――
 }
 [sha:9908e81ca9b0a8b032a2bc69a3e60732eb1d4050]{
 -- Page 223, Offset 38301.
 -- 深い深い闇へと落ちていけた。
-that I once fell into many years ago.
+Just as I once did many years ago.
 }
 [sha:56d0ce0ab477ef658e8f0b73896ab973757e4f08]{
 -- Page 224, Offset 38302.
 -- “遠野くん、遠野くん……！”
-"Tohno-kun, Tohno-kun...!"
+"Tohno-kun, Tohno-kun!"
 }
-[sha:7a2096a0636cd53e87541ba2f2c3d3e51fd426f0]{
+[offset:38303]{
 -- Page 224, Offset 38303.
 -- ―――声が、聞こえる。
 ―――I hear... a voice...
@@ -296,42 +320,42 @@ that I once fell into many years ago.
 [sha:251039b21b5b273657905dcc2c37971846383b51]{
 -- Page 225, Offset 38304.
 -- “遠野くん、そんな……どうして……！”
-"Tohno-kun, why... did you..."
+"Tohno-kun, you... why?!"
 }
 [sha:c4c016c5db11b57b23daf601946ef1c78833f978]{
 -- Page 225, Offset 38305.
 -- ―――ほら。やっぱり思ったとおり。
-―――Come on. It's just as I thought.
+―――See. I knew this would happen.
 }
 [sha:c2edc2c9c30535527724f08311bbeb72a05e8ca0]{
 -- Page 226, Offset 38306.
 -- “……やだ。こんなの、わたしはイヤです……！”
-"...No. I don't want this...!"
+"No... Not——not like this!"
 }
 [sha:790b66df06c0fa3f434286115be0edf4c28dd9ce]{
 -- Page 226, Offset 38307.
 -- ―――こんなふうに、泣きじゃくる声を聞けば。
-―――If I hear her crying like this...
+―――I knew that if I heard her crying like this...
 }
 [sha:4e30d80f4b56bfec0a3a25de4920440b030d4762]{
 -- Page 227, Offset 38308.
 -- “どうして……!?
-"Why...?!
+"Why?!
 }
 [sha:4b6f2c42f0acca1f80fc7c01f0c78620df1092fa]{
 -- Page 227, Offset 38309.
 -- 死なないって、死なないって言ったのに……！”
-You said... you said that you wouldn't get yourself killed...!"
+You said... you said that you wouldn't get yourself killed!"
 }
 [sha:781b8c9a2b7f0d5caf035becd01e6a8f861ce4f1]{
 -- Page 227, Offset 38310. Mods: @n.
 -- ―――きっと、
-―――Then I'm sure
+―――Then I'd definitely...
 }
 [sha:71c19591df7333c1711174e02766fddba8d519c7]{
 -- Page 227, Offset 38311. Glued. Mods: @n.
 -- 後悔すると、
- I would end up
+ end up...
 }
 [sha:1801657fc52948ee80cb73a16170f1b3620901c7]{
 -- Page 227, Offset 38312. Glued.
