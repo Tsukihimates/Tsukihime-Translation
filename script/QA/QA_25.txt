@@ -1,27 +1,29 @@
 [sha:4fbdadbd17be66630b0e81033901217522371581]{
 -- Page 12011, Offset 43899.
 -- あれ？　また誰か来たよシエル？
-Huh? Hey, there's someone here Ciel.
+Huh? Hey, there's someone here again Ciel.%{n}
 }
 [sha:a30008936a387d9eda5d1eb535a1842948a3253a]{
 -- Page 12011, Offset 43900.
 -- デッドエンドもバッドエンドも起きてニャいよ？
-There hasn't been any dead end or bad end either.
+// Dead end + bad end a bit redundant imo
+That's weird, it's not like there was a dead end or anything.
 }
 [sha:7634725b65f91513cf9b90ff724939f1e7bb92b1]{
 -- Page 317, Offset 43901.
--- なんと―――！
-Oh my!
+-- なんと
+Oh my!%{n}
 }
 [sha:d83a6b80014d41f5eedb50470eca745a5059deb5]{
 -- Page 317, Offset 43902.
 -- 素晴らしい、ここまで辿り着いたのですね！
-It's outstanding that you've made it this far!
+// It has taken some time to get here let me tell you
+I can't believe you've made it all the way here!
 }
 [sha:f331ca9e560e5f6e868b3d0e0e612278005df9eb]{
 -- Page 318, Offset 43903.
 -- 『教えて！　シエル先生』
-Congratulations on fully completing
+Congratulations on fully completing%{n}
 }
 [sha:5c02b1c6ba70073f6c9f6c150d5c6af03e0634cb]{
 -- Page 318, Offset 43904.
@@ -31,167 +33,197 @@ Congratulations on fully completing
 [sha:d6231b7d21ac190896fb97f27dac036612a6429a]{
 -- Page 319, Offset 43905.
 -- ここは本編とはまったく関わりのない欄外の余白。
-This is an extra bit that has nothing to do with the main story.
+// > 欄外の余白
+// EXTREMELY margined
+This is an isolated corner that exists completely outside the main story.
 }
 [sha:e21be349a41f3fa7b7ee7b9430f8298b9b496a8e]{
 -- Page 320, Offset 43906.
 -- すべてのエンドを見たプレイヤーだけが迷い込む、
-Only players who have seen all the endings
+Only players who have seen all of the endings can find their way
 }
 [sha:c50443cab21b3abc937b93bda88ff780752d14d4]{
 -- Page 320, Offset 43907.
 -- 束の間の“未来”の世界。
-can wander into the brief world of the 'future'.
+ to this fleeting glimpse at the world of the future.
 }
 [sha:70c3c9c6ccfb769127499810509b38f20374dc28]{
 -- Page 321, Offset 43908.
 -- 本編を網羅したアナタであればご存じでしょう。
-If you've read the original work, you know what I'm talking about.
+If you've read the original work,
+ then I'm sure you know what I'm referring to.
 }
 [sha:83c0e7146d9d2afd63c389ce5992e6cbb0e505b0]{
 -- Page 322, Offset 43909.
 -- 『アルクェイド・ブリュンスタッドの物語』と、
-The story of Arcueid Brunestud and
+The respective stories of Ciel and Arcueid Brunestud
 }
 [sha:6a2c9a18acf541fe4a29aea62257c2e4821549dd]{
 -- Page 322, Offset 43910.
 -- 『シエルの物語』は一旦の幕を下ろしました。
-the story of Ciel have come to an end.
+ have come to a close.
 }
 [sha:1892ae228d1c5a97f5ea77a2a517b2d84c3c674f]{
 -- Page 323, Offset 43911.
 -- ですが、『遠野志貴の物語』は
-However, the story of Tohno Shiki still
+However, some aspects of Tohno Shiki's story%{n}
 }
 [sha:dc631e6dd529020911c0a4dca25062990247d482]{
 -- Page 323, Offset 43912.
 -- まだ幾つかの未明を残しています。
-leaves several unanswered questions.
+still remain clouded in mystery.
 }
 [sha:ecf383fbe6d8deac22db07e7a627dd9d02fda141]{
 -- Page 324, Offset 43913.
 -- 今作は『外からやってきた者たち』と繰り広げられた、
-This game was focused on the developments from 'Those who came
+This game centered around 'Those who came from outside',
 }
 [sha:b2b4d2017e4a8a4902b62d4f29815b9eae9bb06e]{
 -- Page 324, Offset 43914.
 -- 『今』を語る伝奇アクションでした。
-from the outside'. An action romance story.
+ an action romance story centering on the 'now'.
 }
 [sha:e79964b60c25dbe738529eb801c1d6ab5b9aaee0]{
 -- Page 325, Offset 43915.
 -- その次に来るものは『内に棲む者たち』との確執……
-What comes next is a feud with 'Those who dwell within'...
+What comes next will be a clash with 'Those who dwell within',
 }
 [sha:4f642ec3e3c129ff24d4070c5585b518a9e45cb0]{
 -- Page 325, Offset 43916.
 -- 『過去』を語る伝奇ミステリーのようです。
-which seems to be a mystery romance story about the 'past'.
+ a mystery romance story that revolves around the 'past'.
 }
 [sha:cf9de80ffea25eef38f8929a456b5e3f0b8990de]{
 -- Page 326, Offset 43917.
 -- ―――遠野邸に隠された真実。
-...The truth behind the Tohno mansion.
+The buried truth of the Tohno mansion.%{n}
 }
 [sha:789e5813d4d7812a3007c337a1a253eb9dc7b115]{
 -- Page 326, Offset 43918.
 -- ―――もう一つの吸血鬼事件。
-...A completely different vampire case.
+An entirely unrelated vampire incident.
 }
 [sha:67252256a2589c6b736663b37ddc9877e39bcda8]{
 -- Page 327, Offset 43919.
 -- ―――決壊する死の思い出。
-...A memory of collapse and death.
+Inundation with the recollections of death.%{n}
 }
 [sha:293183708dc08598244b36782378445bdbd60b7c]{
 -- Page 327, Offset 43920.
 -- ―――夏の記憶と、或る窓際の光景。
-...A memory of summer, a certain view of a window.
+Memories of summer,
+ and the view from a particular window.
 }
 [sha:7e66a7ab5b60322535f79ae1d7421ff231dd716b]{
 -- Page 328, Offset 43921.
 -- 夜はまだ終わりません。
-The night is far from over.
+The night is still far from over.
 }
 [sha:60664f6a6a1d8a9c5049b92d3a8f65594c711c85]{
 -- Page 328, Offset 43922.
 -- ここでは、その一端をお見せします。
-And now, here is a glimpse of what's to come.
+ And now, I will show you a glimpse of what's to come.
 }
 [sha:8d152fecd7e8886ece38137977ca9b66d46cc9b7]{
 -- Page 329, Offset 43923.
 -- では……短い映像ですが、
-Now... as short as it may be,
+Without further ado...
 }
 [sha:c80c4db008bf1245fd9f4ff9f8170e29b0939d1a]{
 -- Page 329, Offset 43924.
 -- 予告編をお楽しみください。
-please enjoy the trailer of the next game.
+// Here's all the trailer image text.
+// Need to be kept pretty short and consistent to fit.
+// img2623: ―――そういう事も、あったかもしれないね
+// Perhaps there was such a tale―――
+// (TM Presents)
+// (Hisui reveal)
+// img2624: たとえば、日影の中で遊ぶような
+// One in which you played in the shade.
+// img2624_11_11: blurred version of img2624
+// (Kohaku reveal)
+// img2627: たとえば、日向の夢を語るような
+// One in which you dreamed in the sun.
+// (Imouto reveal)
+// img2628: たとえば、紅場の刻に沈むような
+// One in which you were steeped in crimson.
+// (Sunset over mansion)
+// img2625: 記憶の底にある、忘れじの物語
+// An indelible story, lodged deep in your memory.
+// img2625_11_11: blurred version of img2625
+// (Title card)
+// (Yumizuka jumpscare)
+// img2626: 。。。あるいは。彼女の名を、呼ぶような
+// Or perhaps... one in which you called her name.
+ Please enjoy this trailer for the next game.
 }
 [sha:d9b7dcc6825b9943b4b54757223597a10cbbe205]{
 -- Page 330, Offset 43925.
 -- おお……インモラル……
-Ah... immoral...
+Ooh... immoral...
 }
 [sha:947786b379ce06c154b65a9c085e29e358cd45da]{
 -- Page 330, Offset 43926.
 -- あまりにも、インモラル……！
-How overly immoral!
+It's so immoral!
 }
 [sha:2951aa46090f22e51ffb00b8d44c8170384cbf5f]{
 -- Page 331, Offset 43927.
 -- 『日本の洋館』って味わい深いんだよにゃー。
-Japanese Western-style homes have quite a rich flavor nya.
+Western-style mansions in Japan have such a meowvellously rich flavor.
 }
 [sha:edbc95b234891d62178f13051d17ad9afc9b0670]{
 -- Page 332, Offset 43928.
 -- 欧州の洋館は“その土地に当然あるもの”だけど、
-Western-style homes in Europe feel natural in that area,
+When you see them in Europe it's just par for the course,
 }
 [sha:3af6421919b1568565f5632e477bfb70fab9df26]{
 -- Page 332, Offset 43929.
 -- 日本の洋館は“その土地に本来ないもの”でしょ？
-but Western-style homes in Japan feel somewhat out of place, right?
+ but when you see them in Japan they feel like something special and unique, right?
 }
 [sha:914108eba17d36c7969eb097d9168970ebc31f0c]{
 -- Page 333, Offset 43930.
 -- にゃんで、『日本にある洋館』はそれだけで俗世と
-That is why Western-style homes in Japan are a world apart
+That's purrcisely why I feel like Western-style homes in Japan
 }
 [sha:bcae54c56890022e1eaf06234279bdb92c3f202d]{
 -- Page 333, Offset 43931.
 -- 隔絶した異界ではにゃいか、とアタシは思うワケ。
-from this mundane world. Or that's what I think.
+ are like their own separate little fantasy worlds.
 }
 [sha:d00a62e43f9f329be97f24ea6f93f500729b4a81]{
 -- Page 334, Offset 43932.
 -- どう？　イケてない？
-What do you think? Ain't that cool?
+Whaddaya think? Cool huh?
 }
 [sha:09ea56c5da1d949bcfcef7e48c72cfa9d0ccfe09]{
 -- Page 334, Offset 43933.
 -- ま、<アタシの王国|キャッツビレッジ>ほどじゃあにゃいんだけど！
-Well, not as cool as my kingdom (cat village) though.
+// This supposed to match melty?
+Well, not as cool as <my kingdom|G r e a t   C a t ' s   V i l l a g e   > though.
 }
 [sha:9fb696fb78a18ceef7595f3afefc6ecdad1a766a]{
 -- Page 335, Offset 43934.
 -- そうですね。街とは違う時間、街とは違うルールが
-That's right. I agree with you in the sense that it is a
+You make a good point.
 }
 [sha:999301fc427e2b688ad2e73c97b1cf5ee39785fa]{
 -- Page 335, Offset 43935.
 -- 支配する世界、という意味では同意します。
-world governed by a different time and rules than the city.
+ I agree that it is a world locked in a different era,
+ and governed by different rules,
+ than the city in which it resides.
 }
 [sha:390baf44a222761f3c39108a5fbe4c309ba0bd5f]{
 -- Page 336, Offset 43936.
 -- 舞台を遠野邸に移した『月姫』は
-With the stage being moved to the Tohno mansion, the
+With the Tohno mansion as a stage,
 }
 [sha:353264206e2e9da7e44ab20618773005b0f77069]{
 -- Page 336, Offset 43937.
 -- これまでとは違った展開を見せるでしょう。
-story of 'Tsukihime' will take an entirely different turn.
+ the story of 'Tsukihime' will develop in entirely new and different ways.
 }
 [sha:6623bcb798c4020d989fbb7f49c0c7a891124f44]{
 -- Page 337, Offset 43938.
@@ -201,17 +233,17 @@ However, there will be some things that won't change.
 [sha:bd03abd2d05bc48a3e0f4b1ef8957e57c1a98975]{
 -- Page 337, Offset 43939.
 -- それはもちろん……
-That is, of course...
+ Of course, I'm referring to―――
 }
 [sha:c96d01fda96d223919faa63c931b3222635757ab]{
 -- Page 338, Offset 43940.
 -- 油断すれば即デッド。
-If you're not careful, instant death.
+If you put a foot wrong, you're dead!
 }
 [sha:8ba452f7fc4e3d935beca811e75ad04729034cd2]{
 -- Page 338, Offset 43941.
 -- 屋敷の中だろうとまだまだ酷い目にあってもらう！
-Even from inside the mansion, you can still experience a bitter end!
+ Even inside the mansion, you can still meet a sticky end!
 }
 [sha:ae6ab570e75216f0eb7af5bc2a999bf9bae3b7be]{
 -- Page 339, Offset 43942.
