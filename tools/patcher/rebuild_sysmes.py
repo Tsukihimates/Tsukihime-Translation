@@ -178,7 +178,6 @@ def rebuild_sysmes(old_sysmes_path, translation_path, new_sysmes_path):
         if sha not in translations_by_sha:
             raise Exception(f"Failed to find translation for sha {sha}: '{jp}'")
         en_text = translations_by_sha[sha].formatted_text()
-        print(en_text)
         en_strings.append(en_text)
 
     # Alright, time to start rebuilding the EN version.
