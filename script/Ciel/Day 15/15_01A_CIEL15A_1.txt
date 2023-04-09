@@ -13,13 +13,11 @@ There isn't a cloud in sight,
 -- Page 1, Offset 41385.
 -- こういう空を<碧天|へきてん>と言うらしい。
 // Slightly weird construction, 碧空 seems more normal?
-// probably better to use a more familiar expression.
 I suppose this weather is what you'd describe as nothing but blue skies.
 }
 [sha:1557cf1dbdbe68eae45cae3791906e2ff76ce233]{
 -- Page 2, Offset 41386.
 -- いつもの広場で足を止めてベンチに座る。
-//'familiar' doesn't quite capture it.
 I stop at the plaza I frequent, and sit down on a bench.
 }
 [sha:aea4239948c40f1c12b2362ea82b7d55d648ecbd]{
@@ -38,7 +36,7 @@ He looked so natural that I mistook him for part of the scenery.
 -- 神父服を着た男は、まるで何百年もそうしているかのように、終わりのない頁をめくっている。
 // 神父服 only shows up in D15 by the look of it.
 The cassock-clad man keeps on steadily turning the unending pages,
- as if he's been repeating that motion for hundreds of years.
+ almost as if he's been repeating that motion for hundreds of years.
 }
 [sha:7319f7a05c594a411ce635bdef4c6d54bdc5e987]{
 -- Page 3, Offset 41390.
@@ -55,7 +53,7 @@ Here, beneath the blue skies, we meet for the first time.
 -- Page 3, Offset 41392.
 -- 挨拶をするのが人間らしい礼儀というものだろう。
 //also awkward in present tense, and it sort of is an explanation of the previous spoken line, so I've tried to also link it to the previous.
-Somehow, I'd felt like a greeting had been proper.
+Somehow, I'd felt like a greeting was proper.
 }
 [sha:4625245ac059b8c92802ffdc81c499bab4bf3235]{
 -- Page 4, Offset 41393.
@@ -66,7 +64,7 @@ Somehow, I'd felt like a greeting had been proper.
 // Adjusted to be about fresh air instead, assuming this is still autumn/winter
 // Also did I just get told to touch grass
 "Yes, it really is.
- I don't like that the strong sunlight on clear days such as these strain my eyes,
+ On such clear days the sun is so strong that it puts an unpleasant strain on my eyes,
  but I do admit that the crisp fresh air is rather pleasant.
  It's easy to forget that such gifts of nature are free for anyone to enjoy when one spends too much time cooped up inside."
 }
@@ -95,7 +93,6 @@ I wonder what kind of person he is?
 [sha:ace65ead0fd9cb9adc4bf799d04605900bde9a85]{
 -- Page 6, Offset 41398.
 -- はじめの彼がどんな顔立ちをしていたのかが判別できない。
-//this goes for both of them
 Whatever features his first self had can no longer be distinguished.
 }
 [sha:eaee898ef36fede9688ca492e6d19b9aafb43ddc]{
@@ -122,7 +119,7 @@ The priest nods, embarrassed.
 -- Page 8, Offset 41403.
 -- 「どうして転生なんかを？　一個体として生き続けた方が簡単だし、なにより人に迷惑をかけないでしょうに」
 "Why reincarnation, anyway?
- It'd be a lot easier to to prolong your own individual life,
+ It'd be a lot easier to prolong your own individual life,
  and more importantly, you wouldn't cause problems for anyone else."
 }
 [sha:ea8d17dc2b1c9fa380773a76ea57682a8d32dbdf]{
@@ -167,9 +164,9 @@ Discarding one to draw ten.
 //this sentence is kinda abstract, to say the least
 //I've tried to be quite exact at the expense of "readability" because of the above quality
 I had resolved to prove what humanity's meaning was——
-that which I had tried to reach when I was still me,
- even if it meant putting my initial impetus to the flame,
- and reducing myself to ash.
+that which I had tried to reach when I was still me——
+even if it meant putting my initial impetus to the flame,
+ and reducing myself to ash."
 }
 [sha:12ce93ed29128649ae9d89b133fabe4cb476abee]{
 -- Page 10, Offset 41411.
@@ -208,8 +205,6 @@ The wind is starting to pick up.
 [sha:f0ebe2943de058d2f145a38828057ed405364fd3]{
 -- Page 11, Offset 41417.
 -- 空には雲がかかり、広場には灰色の陽差し。
-//grey = UK
-//gray = US
 Clouds have begun to gather above us,
  casting a gray shadow over the plaza.
 }
@@ -217,7 +212,7 @@ Clouds have begun to gather above us,
 -- Page 11, Offset 41418.
 -- 神父服の男がどんな<表|か><情|お>をしているのか、やはり読み取れない。
 // 神父服の feels a little clumsy here. Maybe we just shorted it to priest?
-I really can't tell what kind of expression is on the priest's face, still.
+I still really can't tell what kind of expression is on the priest's face.
 }
 [sha:04e002a0cba9f082ede545a80fdef18dd185f440]{
 -- Page 12, Offset 41419.
@@ -311,7 +306,7 @@ Then I'm sure you'll be able to create a rainbow no matter how dark it may be."
 [sha:d35a5fa84d6a381b9a53bff1e5498cf6f3911c58]{
 -- Page 17, Offset 41435.
 -- 神父服の男はもういない。
-The cassock-clad man has disappeared.
+The cassock-clad man is gone.
 }
 [sha:a391ac0e2c954dae24478d68561ddf0ebfa0453a]{
 -- Page 17, Offset 41436.
@@ -384,7 +379,7 @@ I'm lying in bed with an IV drip sticking into my right arm.
 [sha:d9277266867fba1c4be4017f7c422fe8261ce965]{
 -- Page 20, Offset 41449.
 -- 胸には包帯があって――――
-Around my chest is a bandage―――
+There's a bandage wrapped around my chest―――
 }
 [sha:49fcf8cdd06bcdafa81a33874fe8d447252f9f87]{
 -- Page 21, Offset 41450.
@@ -400,7 +395,7 @@ There isn't anything particularly unusual underneath it.
 -- Page 21, Offset 41452.
 -- あるのは自分の胸だけで、傷痕はおろか染み一つない。
 No scars.
- Nor any blemishes at all.
+ Not even any blemishes.
  Just my normal chest.
  }
 [sha:52a64721fe45a7735bb067c96baaa04f8a6ea256]{
@@ -411,7 +406,7 @@ I tilt my head slightly in confusion...
 [sha:2dc94e200249c0319fb62b3ebd6dc55d84f109e2]{
 -- Page 21, Offset 41454.
 -- 俺は、胸に包帯を巻くような怪我を、したんだろうか。
-Was my chest really wounded so bad that it needed bandages?
+Was my chest really wounded so badly that it needed bandages?
 }
 [sha:956125f972827f97998d60d9a0375c8f18210c86]{
 -- Page 22, Offset 41455.
@@ -518,7 +513,7 @@ The doctors must've told you what happened, right?
 [sha:4b7c9b16f2c15cb99d932a5e02cfeb52abcf7544]{
 -- Page 28, Offset 41474.
 -- 呆れた風に言って、有彦は椅子に座った。
-Arihiko sounds a dumbfounded as he sits down.
+Arihiko sounds dumbfounded as he sits down.
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 29, Offset 41475.
@@ -607,7 +602,7 @@ They found you in a heap on the school's athletics field."
 -- Page 34, Offset 41490.
 -- 言われてみると心当たりがあるような、ないような。
 //kinda want the tone to be a bit more in line
-Now that he mentions it, that does kind of ring a bell, but also, not really?
+What he's saying does kinda ring a bell, but also, not really?
 }
 [sha:3827a9e606351d9a3a37b19cd9429e19cd3afda6]{
 -- Page 35, Offset 41491.
@@ -666,7 +661,7 @@ Thinking it was just the usual anemia,
 [sha:d89d6b5a2b0fbc1da7387225d2f96b0cb6ef38b8]{
 -- Page 38, Offset 41500.
 -- 仕方ないんで遠野んちに連絡して、そのまま病院に担ぎ込まれたんだよ。それから一ヶ月近く、おまえさんは昏睡状態だったんだぜ？」
-About all they could do was contact the Tohno mansion who had you brought straight to the hospital.
+About all they could do was contact the Tohno mansion, who had you brought straight to the hospital.
  Since then, you've been lying here in a coma for a solid month."
 }
 [sha:cad6e8229b6dfc605fddaad608ae1c75cd5faf42]{
@@ -688,7 +683,7 @@ About all they could do was contact the Tohno mansion who had you brought straig
 When you woke up yesterday and were like
  'Yo, Arihiko, I'm starving, give me some food'
  I thought my heart was gonna stop.
- Almost passed your heart problems right over to me, dude."
+ I swear it was like you tagged me with your heart problems or something, dude."
 }
 [sha:a45d422d1e08de6018e081fdea14de5ffa260400]{
 -- Page 39, Offset 41504.
@@ -700,7 +695,7 @@ Arihiko laughs. It's hard to tell whether he's joking or not.
 -- 「ま、遠野はいつくたばってもおかしくないヤツだったからな。オレは半ば悟りの心境でずっとオネムだろうと思ってた分、余計にびっくりしたのだ」
 "Well, not like you'd have surprised anyone by dropping dead.
  Half of me thought you'd really stay a sleeping beauty forever,
- so it was a big surprise to me."
+ so it came as a real shock to me."
 }
 [sha:a5e167bac5840233dbbc9b38f59a29588f0c4a26]{
 -- Page 41, Offset 41506.
@@ -773,7 +768,7 @@ And she hasn't developed a relationship with you at all, either..."
 [sha:f86a236205271986dd074ce74bd0ab892c0ca5fb]{
 -- Page 45, Offset 41518.
 -- 「ねえ、なんでそういうコトだけ明確に分かるのおまえ？」
-"Hey, why is %{i}that%{/i} the one thing you actually %{i}can%{/i} tell right away?"
+"Hey, why is that the one thing you actually %{i}can%{/i} tell right away?"
 }
 [sha:d51ca7f779de803f4a1b6b3090a0d03599b06af0]{
 -- Page 46, Offset 41519.
@@ -922,7 +917,7 @@ I feel light-headed.
 -- Page 54, Offset 41545.
 -- 一ヶ月の記憶の欠落と、体がまったく動いてくれない所為だろうか。
 It's probably because there's a whole month I have no memory of,
- combined with me not moving at all during that time.
+ combined with me not having moved at all during that time.
 }
 [sha:1683fb65bc7951b460f7e82a3a2c3e8ad1c66528]{
 -- Page 55, Offset 41546.
@@ -978,9 +973,9 @@ I return to the mansion the following day.
 [sha:3c7da2420a0ed270d324d5d300e4485c423c856e]{
 -- Page 57, Offset 41556.
 -- 長く眠っていたせいか、ようやく帰ってきたというのに、これが初めての訪問のように思えた。
-Maybe this is just because I was asleep for so long,
+Maybe it's just because I was asleep for so long,
  but even though I've finally returned home,
- it almost feels like the first time.
+ it almost feels like it's my first time here.
 }
 [sha:be213fea4eb36e6599b773015f0d826e9854c598]{
 -- Page 58, Offset 41557.
@@ -1007,7 +1002,7 @@ What do you know...
 [sha:307def57147fbde830297b3c5d70a09d93abe2f9]{
 -- Page 58, Offset 41561.
 -- 森の中に、こんな和風の屋敷があったなんて。
-Who'd have thought there'd be a traditional mansion like this in the middle of the forest.
+Who'd have thought there'd be such a traditionally Japanese building in the middle of the forest.
 }
 [sha:902b4d50071a15718e21c3d035a0a6f7624a459f]{
 -- Page 59, Offset 41562.
