@@ -6,6 +6,88 @@ import struct
 
 from readable_exporter import ReadableExporter
 
+class SysmesString:
+
+    FLOWCHART_WIDTH = 33
+
+    def __init__(self, text, is_flowchart_title=False,
+                 is_flowchart_descr=False):
+        self._text = text
+        self._is_flowchart_title = is_flowchart_title
+        self._is_flowchart_descr = is_flowchart_descr
+
+    def __repr__(self):
+        return f"SysmesString({self._text})"
+
+    def formatted_text(self):
+        # If this is a flowchart title, just assert that it's not too long
+        if self._is_flowchart_title:
+            assert len(self._text) <= self.FLOWCHART_WIDTH, \
+                f"Title too long: {self._text}"
+            return self._text
+
+        # If this is a flowchart descr, run a full linebreak process
+        if self._is_flowchart_descr:
+            return self.linebreak_text(self._text, self.FLOWCHART_WIDTH)
+
+        # Else, return string as-is
+        return self._text
+
+    @classmethod
+    def linebreak_text(cls, text, cols):
+        # First, if the text already has preprogrammed breaks, split those up
+        # so we respect them
+        lines = text.split('^')
+        linebroken_lines = []
+        for line in lines:
+            words = line.split(' ')
+            current_line = ''
+            for word in words:
+                # Can we append to the current line?
+                if not current_line:
+                    current_line = word
+                elif len(current_line) + 1 + len(word) < cls.FLOWCHART_WIDTH:
+                    current_line += ' ' + word
+                else:
+                    # If not, push back and start a new line
+                    linebroken_lines.append(current_line)
+                    current_line = word
+
+            # If we have an incomplete line, append it now
+            linebroken_lines.append(current_line)
+
+        # Linebroken lines should now have a series of short lines, join them
+        # all with carets
+        return '^'.join(linebroken_lines)
+
+    @staticmethod
+    def diff_has_flag(diff, flag):
+        if not diff.comment:
+            return False
+        return flag in diff.comment
+
+    @classmethod
+    def parse(cls, diff_entry):
+        is_flowchart_title = cls.diff_has_flag(diff_entry, '@flowchart_title')
+        is_flowchart_descr = cls.diff_has_flag(diff_entry, '@flowchart_desc')
+        return cls(
+            diff_entry.en_text,
+            is_flowchart_title=is_flowchart_title,
+            is_flowchart_descr=is_flowchart_descr
+        )
+
+
+def load_translated_strings(translation_path):
+    # Load the EN version of the strings as a Readable diff
+    translation_diff = ReadableExporter.import_text(translation_path)
+
+    # For each string, parse control codes and make a map of sha:SysmesString
+    strings_by_sha = {}
+    for sha, entry_group in translation_diff.entries_by_sha.items():
+        strings_by_sha[sha] = SysmesString.parse(entry_group.entries[0])
+
+    return strings_by_sha
+
 
 def rebuild_sysmes(old_sysmes_path, translation_path, new_sysmes_path):
     # Read the packed binary of the old sysmes text
@@ -13,7 +95,7 @@ def rebuild_sysmes(old_sysmes_path, translation_path, new_sysmes_path):
         old_data = sysmes.read()
 
     # Load the EN version of the strings as a Readable diff
-    translation_diff = ReadableExporter.import_text(translation_path)
+    translations_by_sha = load_translated_strings(translation_path)
 
     # output of new sysmes here
     new_sysmes = open(new_sysmes_path, 'wb')
@@ -64,10 +146,10 @@ def rebuild_sysmes(old_sysmes_path, translation_path, new_sysmes_path):
     en_strings = []
     for jp in jp_strings:
         sha = hashlib.sha1(jp.encode('utf-8')).hexdigest()
-        if sha not in translation_diff.entries_by_sha:
+        if sha not in translations_by_sha:
             raise Exception(f"Failed to find translation for sha {sha}: '{jp}'")
-        entry_group = translation_diff.entries_by_sha[sha]
-        en_text = entry_group.entries[0].en_text
+        en_text = translations_by_sha[sha].formatted_text()
+        print(en_text)
         en_strings.append(en_text)
 
     # Alright, time to start rebuilding the EN version.
