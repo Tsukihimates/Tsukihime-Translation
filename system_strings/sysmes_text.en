@@ -4343,7 +4343,10 @@ I can't betray her trust.
 }
 [sha:599c3215fab55f620b1d84ba0bd6c926656a8b34]{
 -- 病巣は地上に現れた。^炎の河が堰を切って流れ始める。^煮えたぎるような豚の叫。
-The lesions appear on the ground.^The river of flame begins to flow^through the dam. The screams of^boiling pigs.
+// @flowchart_descr
+Fissures form in the ground.
+ The river of flame breaks its banks and gushes forth.
+ The air is filled with the squeals of pigs being boiled alive.
 }
 [sha:01d2a7252bd340cfc7c64c51893f57239210a1d3]{
 -- やっとの思いでホテルを離れ、^マンションへと辿り着いた。^今はアルクェイドを休ませよう。
@@ -4353,11 +4356,15 @@ We arrive at Arcueid's apartment after finally leaving the hotel behind us.
 }
 [sha:2bce2d9675bb14bd67edf5da6bd791efd7f5f37c]{
 -- ようやく終わった。^持てる全てを使い切った身体は、^深い眠りへと落ちていく。
-It's finally over. After^exhausting everything that I^have, I fall into a deep sleep.
+// @flowchart_descr
+It's finally over.
+ After exhausting everything that I have, I fall into a deep sleep.
 }
 [sha:befc4ce081129010a3b984ffc6a3aedeb4ba06cd]{
 -- ヴローヴの消滅から数時間後。^その汚染された土地で――
-A few hours after Vlov's demise.^In that contaminated land――
+// @flowchart_descr
+A few hours have passed since Vlov's demise.
+ Atop that contaminated land――
 }
 [sha:a8d425ef7d3a1d6ded7ef09ef9189b4903fffbb2]{
 -- アルクェイドの無事を確認した。^人間ではないと分かっていても、^その笑顔に安堵してしまう。
