@@ -32,7 +32,7 @@ class SysmesString:
     def formatted_text(self):
         # If this is a flowchart title, just assert that it's not too long
         if self._is_flowchart_title:
-            assert len(self._text) <= self.FLOWCHART_WIDTH, \
+            assert self.unicode_aware_len(self._text) <= self.FLOWCHART_WIDTH, \
                 f"Title too long: {self._text}"
             return self._text
 
@@ -43,20 +43,39 @@ class SysmesString:
         # Else, return string as-is
         return self._text
 
+    @staticmethod
+    def unicode_aware_len(string):
+        # Any non-ASCII character takes up 2 spaces instead of one.
+        length = 0
+        for c in string:
+            # PUA codes are treated as single-width
+            if ord(c) >= 0xE000:
+                length += 1
+            # All non-EASCII is double-wide
+            elif ord(c) > 256:
+                length += 2
+            else:
+                length += 1
+
+        return length
+
     @classmethod
     def linebreak_text(cls, text, cols):
         # First, if the text already has preprogrammed breaks, split those up
-        # so we respect them
-        lines = text.split('^')
+        # so we respect them. Also remove any \n characters, since those are
+        # only used for human convenience.
+        lines = text.replace('\n', '').split('^')
         linebroken_lines = []
         for line in lines:
             words = line.split(' ')
             current_line = ''
             for word in words:
                 # Can we append to the current line?
+                cur_line_len = cls.unicode_aware_len(current_line)
+                word_len = cls.unicode_aware_len(word)
                 if not current_line:
                     current_line = word
-                elif len(current_line) + 1 + len(word) < cls.FLOWCHART_WIDTH:
+                elif cur_line_len + 1 + word_len < cls.FLOWCHART_WIDTH:
                     current_line += ' ' + word
                 else:
                     # If not, push back and start a new line
