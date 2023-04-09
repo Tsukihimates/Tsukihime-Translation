@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import argparse
 import hashlib
 import sys
 import struct
@@ -18,6 +19,15 @@ class SysmesString:
 
     def __repr__(self):
         return f"SysmesString({self._text})"
+
+    def raw_text(self):
+        return self._text
+
+    def is_flowchart_title(self):
+        return self._is_flowchart_title
+
+    def is_flowchart_descr(self):
+        return self._is_flowchart_descr
 
     def formatted_text(self):
         # If this is a flowchart title, just assert that it's not too long
@@ -175,12 +185,74 @@ def rebuild_sysmes(old_sysmes_path, translation_path, new_sysmes_path):
     new_sysmes.close()
 
 
-def main():
-    rebuild_sysmes(
-        sys.argv[1],
-        sys.argv[2],
-        sys.argv[3]
+def lint_sysmes(translation_path):
+    translations_by_sha = load_translated_strings(translation_path)
+    lint_ok = True
+    for sha, string in translations_by_sha.items():
+        if string.is_flowchart_title():
+            if len(string.raw_text()) > SysmesString.FLOWCHART_WIDTH:
+                print(f"Flowchart title too long: '{string.raw_text()}'")
+                lint_ok = False
+
+    if not lint_ok:
+        sys.exit(1)
+
+
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description="Sysmes CLI"
     )
+
+    # Everything needs to know this
+    parser.add_argument(
+        '--translation',
+        dest='translation_path',
+        action='store',
+        help="Path to the translated strings"
+    )
+
+    # Inject args
+    parser.add_argument(
+        '--inject',
+        dest='do_inject',
+        action='store_true',
+        help="Inject the current translation mrg"
+    )
+    parser.add_argument(
+        '--base-mrg',
+        dest='base_mrg_path',
+        action='store',
+        help="Path to base sysmes mrg",
+    )
+    parser.add_argument(
+        '--inject-output',
+        dest='inject_output',
+        action='store',
+        help="Where to write the translated mrg"
+    )
+
+    # Lint args
+    parser.add_argument(
+        '--lint',
+        dest='do_lint',
+        action='store_true',
+        help='Assert that the translated strings are valid'
+    )
+
+    return parser.parse_args(sys.argv[1:])
+
+
+def main():
+    args = parse_args()
+    if args.do_lint:
+        lint_sysmes(args.translation_path)
+
+    if args.do_inject:
+        rebuild_sysmes(
+            args.base_mrg_path,
+            args.translation_path,
+            args.inject_output
+        )
 
 
 if __name__ == '__main__':
