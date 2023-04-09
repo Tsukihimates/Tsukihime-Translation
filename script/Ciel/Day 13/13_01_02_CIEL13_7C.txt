@@ -49,7 +49,7 @@ My job here is done.
 -- なに？　もしかしていじめられるのがクセになっちゃった？　もう一度、わたしの眼に魅入られたいの？」
 Or what?
  Could it be you've started to enjoy being tormented?
- Are you just begging to be enchanted by my eyes again?"
+ Are you just %{i}begging%{/i} to be enchanted by my eyes again?"
 }
 [sha:5b25a7320c53ff4c4236146e8bfd5a9e44fa3e7f]{
 -- Page 281, Offset 36105.
@@ -176,8 +176,8 @@ If you don't want him to die,
 [offset:36126]{
 -- Page 290, Offset 36126.
 -- ……？
-// This line sucks, animation is Noel looking confused, voilà
-Noel looks confused.
+// This concerns both Noel (on-screen, looking confused) and Shiki (not sure what Ciel is doing)
+What's going on...?
 }
 [sha:701bd2c134a5d0f27e6338e25fc48434a2b93115]{
 -- Page 290, Offset 36127.
@@ -246,7 +246,7 @@ and then quickly elects to disregard it.
 [sha:5d7967c5d065659cececfcc2f1f429fa99378ceb]{
 -- Page 293, Offset 36138.
 -- 殺す対象である俺を完全に視界と意識から切り離した。
-Even though I'm the one she should want to kill,
+Even though %{i}I'm%{/i} the one she should want to kill,
  she puts me out of sight and out of mind.
 }
 [sha:92838c6d7fd6c6d5953eb51c054fbe15b1294704]{
@@ -269,8 +269,7 @@ With the difference in strength between them now painfully clear,
 [sha:89b7fad7ba762864f03ae8431e60f6f8dfdc142e]{
 -- Page 295, Offset 36142.
 -- これより数分。
-// Reading this like これより三役, as in, the third bout / next few minutes are special/critical
-The next few minutes are critical―――
+For the next few minutes―――
 }
 [sha:10fd62309196f9eca9b6b6f0cdd9c930bf52c294]{
 -- Page 295, Offset 36143.
@@ -299,7 +298,7 @@ not to kill, but just to survive.
 -- Page 297, Offset 36146.
 -- 「……そうですね。私の心は嘘にまみれています。
 "You're right.
- My heart has been muddied by lies.
+ My heart is still muddied by lies.
 }
 [sha:17e468988df4ed149a5dfc546ded5657d7b9a881]{
 -- Page 297, Offset 36147.
@@ -359,14 +358,14 @@ But if you're trying to say that I can't wish to live a virtuous life because I'
 [sha:c370e29ccca56eb3e084a9131dba3d2ca1922be4]{
 -- Page 301, Offset 36156.
 -- ……だって。人間の善悪と人生の善悪は、哀しいほど違うものなんですから」
-After all, what makes a human good or evil is tragically different from what makes their life good or evil."
+After all, what makes a human good or evil is %{i}tragically%{/i} different from what makes their life good or evil."
 }
 [sha:614c986511fbf37a8aa1382528cc99cf60760035]{
 -- Page 302, Offset 36157.
 -- 「私のせいだ、と復讐に走る貴女の言い分は間違いであり、正しい。ロアの転生を止めるという私の使命感も間違いであり、正しい。いま、私たちは同じ境界に立っている」
 // 彼らの境界？？
-"It's just as wrong for you to blame me and seek revenge as it is right.
- It's just as wrong for me to feel the duty of needing to end Roa's reincarnating as it is right.
+"It's wrong for you to blame me and seek revenge, but it's also right.
+ It's wrong for me to feel it's my duty to end Roa's cycle of reincarnation, but it's also right.
  In this moment, we both occupy the same boundary."
 }
 [sha:a8c6186c71fd9a617cc5ea727258f5579eba36e2]{
@@ -379,7 +378,7 @@ In other words...
 -- Page 303, Offset 36159.
 -- 善悪の狭間にいる同じ罪人だと彼女は言った。
 // Balance based TL instead of the more literal 'gray area' here to play nicely with 36161.
-She's saying that they're both sinners,
+She's saying that they're %{i}both%{/i} sinners,
  teetering atop the line that separates good from evil.
 }
 [sha:463f69d0668f45057a88818d78b2a63859505f05]{
@@ -444,7 +443,7 @@ she's saying that they now have no other option but to demonstrate their righteo
 [sha:c1107b2ac116728bd4ee5eabafb79ec70ca0cabd]{
 -- Page 307, Offset 36170.
 -- その気持ちは、最後まであの少女には伝わらなかった。
-But even those feelings were never to reach that girl.
+But those feelings are never to reach that girl.
 }
 [sha:eea9303b733711697ed77f36102d170f16a0ccfa]{
 -- Page 308, Offset 36171.
@@ -475,7 +474,7 @@ The girl couldn't forgive her―――
 [sha:a719478ab0c43f67445cddf230fe3870b5350455]{
 -- Page 310, Offset 36175.
 -- 彼女は少女を救う事ができない。
-And nether could she save the girl.
+And neither could she save the girl.
 }
 [sha:8399483617801b27747b29bc435383264a1c6039]{
 -- Page 310, Offset 36176.
@@ -486,7 +485,7 @@ With no option left but to fight to the death,
 [sha:ba55591ccd88d64e1ed9fba7d62939aca012b7ea]{
 -- Page 311, Offset 36177.
 -- 次々と放たれ、流星と化して敵を撃つノエルの槍。
-Noel fires off so many spears in quick succession that they form a shower of deadly shooting stars.
+Noel's volley of spears shoots toward her enemy like a meteor storm.
 }
 [sha:1f12c2bc1f153099bed87a5a607df375db57a5c0]{
 -- Page 311, Offset 36178.
@@ -501,7 +500,7 @@ There's still a healthy distance between them.
 [sha:0420b7443c07738d71a98272d31ee61a0818cca1]{
 -- Page 312, Offset 36180.
 -- 遠距離での戦いなら<彼女|ノエル>の優位は揺るがない。
-When it comes to long-distance combat, Noel's superiority is unshakeable.
+When it comes to long-range combat, Noel's superiority is unshakeable.
 }
 [sha:65d6e84c34b2b59ecfb4edd759a3b9d2db021d69]{
 -- Page 312, Offset 36181.
@@ -557,7 +556,7 @@ Noel's well of magical energy is already beginning to run dry.
 // https://youtu.be/jj8gAhAHuV8?t=47
 The juggernaut she's up against,
  on the other hand,
- has barely scratched the surface of her magical energy reserves.
+ has barely even scratched the surface of her magical energy reserves.
 }
 [sha:5dd6f48c6b4d26321ee056162476e3a7559edc4f]{
 -- Page 316, Offset 36191.
@@ -611,7 +610,7 @@ She has to kill her right here.
 [sha:9702ae98d7c95f0f4a87f3887e9f56cac2e2cd3c]{
 -- Page 318, Offset 36199.
 -- 「ふざけんな！　死ね、死ね、死ねぇぇえええ！」
-"You piece of shit!
+"Fuck off already!
  Die, die, DIIIIIIE!"
 }
 [sha:aeb6bd4ba2cc1619984bc26a7200449579216606]{
@@ -627,7 +626,7 @@ With it, she unleashes all of the weapons she can muster.
 [sha:3fc1e45d54e52878076ba4f123d2d39d7085a9cd]{
 -- Page 318, Offset 36202.
 -- けれど絶望を見せつけられた。
-But all it did was reveal the hopelessness of her situation.
+But all it does is reveal the hopelessness of her situation.
 }
 [sha:2cb4771db9a4c3d6f100a11efaa5a4ce3aedea58]{
 -- Page 318, Offset 36203.
@@ -648,7 +647,8 @@ There's no opening for her to mount a counterattack,
 "Why... why, %{i}why%{/i}, %{i}WHY%{/i}!
  At least let %{i}one%{/i} of them hit you!
  At least make it %{i}look%{/i} like it hurts!
- You bastard... how can you not even have a scratch on you!
+ You're not even gonna let me %{i}graze%{/i} you?!
+ What the fuck is wrong with you?!
  Are you telling me that even though I'm in the right——even though justice is on my side——%{i}I'm%{/i} going to lose?!
 }
 [sha:a561a6ff18d252bfad7a1f1b93db1fc67e4f11e6]{
@@ -689,7 +689,7 @@ She had sought revenge against Roa.
 [sha:f45eb03744c80b580a89c9ee6ebc25e901ad48ec]{
 -- Page 321, Offset 36212.
 -- 殺された街の人々への<弔|とむら>いだけなら少女は正しかった。
-Had she done it to lay the souls of the townspeople to rest,
+If it had been to lay the souls of the townspeople to rest,
  it would have been a just cause.
 }
 [sha:e535c831f80544a92c6f981ddedcdb7d71758484]{
@@ -766,7 +766,7 @@ Sure, I admit it: I never gave a shit about Roa!
 [sha:ec4c725020219648054315506bd17fadf423a5de]{
 -- Page 326, Offset 36226.
 -- 「わたしは、わたしの町を食いモノにしたアンタを、殺したかっただけなんだ―――！」
-"All——All I ever wanted was to kill the person who devoured my whole town——%{i}TO KILL YOU%{/i}!"
+"All——%{i}All%{/i} I ever wanted was to kill the person who devoured my whole town——%{i}TO KILL YOU%{/i}!"
 }
 [sha:f6165cab0474ffca1deb9399209b59d924bdebf0]{
 -- Page 327, Offset 36227.
@@ -834,16 +834,16 @@ The Executor coldly approaches the immobilized vampire.
 -- Page 332, Offset 36238.
 -- 「吸血鬼になった事ではなく、吸血鬼として行動した事。それが貴女の間違いです。
 "Your mistake wasn't in becoming a vampire.
- It was in deciding to act like one.
+ It was in deciding to %{i}act%{/i} like one.
 }
 [sha:405681f6dbe806663460a7e84ac2050d0b2a973b]{
 -- Page 332, Offset 36239.
 -- 死徒ノエル。弱き人々を守護する聖霊と父の名において、貴女への刑を代行します」
 // I always thought it was Father / Son/ Holy Ghost but apparently holy spirit is more common?
 Dead Apostle Noel.
- By the power vested in my by the Father and the Holy Spirit,
+ By the power vested in me by the Father and the Holy Spirit,
  protectors of the weak,
- I will now sentence you for your sins."
+ I will now execute you for your sins."
 }
 [sha:013e50bd57b525cdf4936945f217cc2f994851fd]{
 -- Page 332, Offset 36240.
@@ -913,12 +913,12 @@ So then, why did it have to happen %{i}now%{/i}?
 -- Page 336, Offset 36252.
 -- ―――そうだ。
 // Ciel bawling CG flashback
-―――That's right.
+―――Right.
 }
 [sha:b86e972c430477ed3f83c2ed934e33e6429cdaa3]{
 -- Page 336, Offset 36253.
 -- 決まってる。
-Isn't it obvious?
+It's obvious.
 }
 [sha:1b76cb8592988048146cf3204b7e810d96bb85e8]{
 -- Page 336, Offset 36254.
@@ -962,8 +962,10 @@ Here, I'll give you one extra dose, on the house!
 [sha:836753594415c7d08e1f1e2e560a354f80ea720f]{
 -- Page 337, Offset 36261. Glued. Mods: @x.
 -- あ、でもこれはシャレだから、追加で射つのは止めときなさいねぇ？　今ですら破裂寸前なんだもの。もう一つ上を目指すなんて、ほんと、一瞬で融けちゃうから！”
-// One last mint wafer
- Ah, this one packs a real punch though,
+// What the fuck is she saying about it being シャレ?
+// Even the JP natives aren't sure
+ Ah,
+ this one's just a little gag of mine though,
  so I wouldn't recommend shooting up any more than you already have, okay?
  As things stand you're %{i}thiiis%{/i} close to your breaking point.
  If you start gunning for the next Rank up, it really will melt your face off!"
@@ -987,7 +989,7 @@ Within her, a star bursts to life, quickly exploding into a galaxy.
 [sha:4d116961db8c71a8e0b5de1105a1d451ff1961c3]{
 -- Page 339, Offset 36265.
 -- そう錯覚するほどの内部変革。
-Or at least, you'd be forgiven for thinking it had if you were watching her transformation.
+Or at least, you'd be forgiven for thinking so if you were watching her transformation.
 }
 [sha:2a71413bebbbcde572688cd8f0c2094e991e0e27]{
 -- Page 339, Offset 36266.
@@ -1003,8 +1005,8 @@ But that doesn't mean it was all for nothing.
 [sha:d72d587949071617b34389c791d6390912dd9bb7]{
 -- Page 340, Offset 36268.
 -- 戦える。これで、あの女と戦える―――！
-She can fight.
- With this, she finally stands a chance against that woman―――!
+She can fight now.
+ With this, she finally stands a chance against her―――!
 }
 [sha:f679ab68c899d645398e6e2f34f7c065a679a5b8]{
 -- Page 341, Offset 36269.
@@ -1014,7 +1016,7 @@ She can fight.
 [sha:703adbf773be7a314de8607cbd02783c97272636]{
 -- Page 341, Offset 36270.
 -- そんなものを射ちこむなんて、ノエル……！」
-Why would you inject something like that, Noel!"
+Why would you inject something like that, Noel?!"
 }
 [sha:f6b50730f0807adc38b872ff2327ed860dd4d6da]{
 -- Page 341, Offset 36271.
@@ -1025,7 +1027,7 @@ Why would you inject something like that, Noel!"
 -- Page 342, Offset 36272.
 -- 「痛い、痛い、痛い……！　助けて、シエル助けて、うるさい、おまえなんかに助けられるか！　こんな、ひどい、いたい、どうして、どうして！」
 "It hurts, it hurts, it hurts!
- Help me, Ciel, help m――shut up, as if I'd ever beg you for help!
+ Help me, Ciel, help m――shut up, as if I'd ever beg %{i}you%{/i} for help!
  It――it hurts! So much! Why?! Why?!"
 }
 [sha:cbdf0595b5364ed870336bf6b562ee7228b06449]{
@@ -1046,14 +1048,14 @@ The girl lashes out over and over again in a blind rage,
 // Can't immediately come up with something that keeps them all perfectly the same,
 // but this has a pretty readable pattern at least
 "Why? Why?!
- You could have kept up the act forever!
- You could have stayed the way you were, stayed inhuman, and even I would have forgiven you!
+ You could have just kept up the act!
+ I could have forgiven you if you had stayed an inhuman monster!
 }
 [sha:2eaa84fb3cc2f1bb44bab7138f0726a478dc3e51]{
 -- Page 344, Offset 36276.
 -- 吸血鬼を狩るだけの、戦うだけの<機関|エンジン>なら良かったのに！　―――本当に、心から尊敬していたのに！」
-You could have stayed a machine that did nothing but hunt vampires and fight!
- I had always――I had always respected you from the bottom of my heart!"
+You could have just stayed a machine that did nothing but hunt vampires and fight!
+ I could have admired you from the bottom of my heart if you had!"
 }
 [sha:947f19b8fd8a24c6429cc18d5d9538f23fcaac87]{
 -- Page 345, Offset 36277.
@@ -1084,14 +1086,16 @@ Ciel brings the barrel of her pile bunker around to face the focality that serve
 [sha:963cb7870776963888914d785f9b7c59f75e90ac]{
 -- Page 346, Offset 36282.
 -- 魂の咆哮とも言える少女の一刺し。
-Noel's desperate thrust is the roar of her soul.
+// Better encode feelings behind the thrust, here and below
+Noel has put her entire soul behind that desperate thrust,
+ and while Ciel feels a desire to just submit and take it head-on―――
 }
 [sha:9ca18d42de70a0895ed6fecaf1114332f51034b7]{
 -- Page 346, Offset 36283.
 -- それを甘んじて受けたいと想う<情|じょう>ごと、彼女は敵を粉砕した。
-Ciel takes aim at her enemy,
- and at her own desire to just submit and take the thrust head-on,
- and blows both of them apart.
+She instead takes aim at her enemy,
+ along with those feelings of self-loathing,
+ and blows them both apart.
 }
 [sha:3f44784efc10c21664904a63dbe398b383fe2705]{
 -- Page 347, Offset 36284.
@@ -1117,7 +1121,7 @@ The girl's bloodstained hands grope at nothing.
 [sha:a4024bad476fca3d800dfbef5764fddd21f51865]{
 -- Page 347, Offset 36288.
 -- 目の前にある、最後まで届かなかった誰かに向けて。
-She reaches out toward person in front of her;
+She reaches out toward the person in front of her;
  toward the person she never managed to reach.
 }
 [sha:40c885dd7ca924caebc26ce1762c59598092926a]{
@@ -1161,5 +1165,5 @@ Even as her body continues to disintegrate, and her consciousness begins to dim�
 [sha:c6b7864f76584bc55411ddeedf6d1df07c5c7089]{
 -- Page 349, Offset 36296.
 -- 13年前に言えなかった、最後の願いを口にした。
-She gives voice to the last wishes she wasn't able to say thirteen years ago.
+She finally gives voice to the last wishes she wasn't able to say thirteen years ago.
 }
