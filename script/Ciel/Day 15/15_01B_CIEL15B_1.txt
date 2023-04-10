@@ -13,12 +13,12 @@ There isn't a cloud in sight,
 -- Page 1, Offset 41966.
 -- こういう空を<碧天|へきてん>と言うらしい。
 // Slightly weird construction, 碧空 seems more normal?
-I suppose it's what you'd describe as an azure sky.
+I suppose this weather is what you'd describe as nothing but blue skies.
 }
 [sha:8305772d1715d380a009f2193f1532af620be279]{
 -- Page 2, Offset 41967.
 -- 俺はいつもの広場で足を止めてベンチに座った。
-I stop by the usual plaza and sit on a bench.
+I stop at the plaza I frequent, and sit down on a bench.
 }
 [sha:aea4239948c40f1c12b2362ea82b7d55d648ecbd]{
 -- Page 2, Offset 41968.
@@ -35,8 +35,8 @@ He looked so natural that I mistook him for part of the scenery.
 -- Page 2, Offset 41970.
 -- 神父服を着た男は、まるで何百年もそうしているかのように、終わりのない頁をめくっている。
 // 神父服 only shows up in D15 by the look of it.
-The man wearing a priest's cassock keeps on steadily turning the page,
- as though he's been repeating that motion for hundreds of years.
+The cassock-clad man keeps on steadily turning the unending pages,
+ almost as if he's been repeating that motion for hundreds of years.
 }
 [sha:7319f7a05c594a411ce635bdef4c6d54bdc5e987]{
 -- Page 3, Offset 41971.
@@ -46,12 +46,14 @@ The man wearing a priest's cassock keeps on steadily turning the page,
 [sha:860ebf67cceda33f22cfe2721380bf0b538ed145]{
 -- Page 3, Offset 41972.
 -- ともあれ、こんな空の下で出会ったのだ。
-Thus begins our encounter beneath that azure sky.
+//kind of an awkward line when writing in present tense, so it might need some additional (and rather extensive) changes.
+Here, beneath the blue skies, we meet for the first time.
 }
 [sha:4949cfc8010847b6a79514f561f580e7939a91f9]{
 -- Page 3, Offset 41973.
 -- 挨拶をするのが人間らしい礼儀というものだろう。
-After all, it's only polite to greet another person.
+//also awkward in present tense, and it sort of is an explanation of the previous spoken line, so I've tried to also link it to the previous.
+Somehow, I'd felt like a greeting was proper.
 }
 [sha:4625245ac059b8c92802ffdc81c499bab4bf3235]{
 -- Page 4, Offset 41974.
@@ -62,9 +64,9 @@ After all, it's only polite to greet another person.
 // Adjusted to be about fresh air instead, assuming this is still autumn/winter
 // Also did I just get told to touch grass
 "Yes, it really is.
- On such clear days the sun is so strong that it strains my eyes,
+ On such clear days the sun is so strong that it puts an unpleasant strain on my eyes,
  but I do admit that the crisp fresh air is rather pleasant.
- It's easy to forget that such gifts of nature are free for anyone to enjoy if you spend too much time cooped up in your room."
+ It's easy to forget that such gifts of nature are free for anyone to enjoy when one spends too much time cooped up inside."
 }
 [sha:f943c5fe5eca858c0e3791f53c6be0a6874dd9ac]{
 -- Page 5, Offset 41975.
@@ -74,8 +76,9 @@ The priest smiles wryly as he turns the page.
 [sha:ee6dbd75a56a3d46fba5b0d170c7e19cacdbcc9c]{
 -- Page 5, Offset 41976.
 -- これ以上ないというほど冷酷な声だったが、その語り口は柔らかく、人間的な魅力に溢れていた。
+//人間的 is the more important word here
 His voice couldn't have sounded any colder,
- and yet there was a gentle charisma to the way he spoke.
+ and yet there had been an alluring touch of gentle, common humanity to the way he spoke.
 }
 [sha:017ad304f62b3d224232145a0de2f3afc1a6b17c]{
 -- Page 6, Offset 41977.
@@ -85,12 +88,12 @@ It's strange, but... try as I might, I can't seem to catch a glimpse of his face
 [sha:c4617a02f7e2a7b5a56eebaff5b122a9c80066bb]{
 -- Page 6, Offset 41978.
 -- 彼がどのような人間なのか。
-I wonder what kind of person he is.
+I wonder what kind of person he is?
 }
 [sha:ace65ead0fd9cb9adc4bf799d04605900bde9a85]{
 -- Page 6, Offset 41979.
 -- はじめの彼がどんな顔立ちをしていたのかが判別できない。
-I can't tell how he must have looked back in his original incarnation.
+Whatever features his first self had can no longer be distinguished.
 }
 [sha:eaee898ef36fede9688ca492e6d19b9aafb43ddc]{
 -- Page 6, Offset 41980.
@@ -116,8 +119,8 @@ The priest nods, embarrassed.
 -- Page 8, Offset 41984.
 -- 「どうして転生なんかを？　一個体として生き続けた方が簡単だし、なにより人に迷惑をかけないでしょうに」
 "Why reincarnation, anyway?
- It'd be a lot easier to focus on prolonging your life as an individual,
- and more importantly, you wouldn't go around causing problems for other people."
+ It'd be a lot easier to prolong your own individual life,
+ and more importantly, you wouldn't cause problems for anyone else."
 }
 [sha:ea8d17dc2b1c9fa380773a76ea57682a8d32dbdf]{
 -- Page 8, Offset 41985.
@@ -250,13 +253,13 @@ The wind is starting to pick up.
 -- Page 15, Offset 42010.
 -- 空には雲がかかり、広場には灰色の陽差し。
 Clouds have begun to gather above us,
- casting a grey shadow over the plaza.
+ casting a gray shadow over the plaza.
 }
 [sha:40fe2c945c0c6f4e9f2f53d1d0d686dda7f25449]{
 -- Page 15, Offset 42011.
 -- 神父服の男がどんな<表|か><情|お>をしているのか、やはり読み取れない。
 // 神父服の feels a little clumsy here. Maybe we just shorted it to priest?
-As I expected, I can't tell what kind of expression is on the priest's face.
+I still really can't tell what kind of expression is on the priest's face.
 }
 [sha:04e002a0cba9f082ede545a80fdef18dd185f440]{
 -- Page 16, Offset 42012.
@@ -267,14 +270,14 @@ As I expected, I can't tell what kind of expression is on the priest's face.
 [sha:2b8b776140cfca621f0adf8de3ce9909d17c8028]{
 -- Page 16, Offset 42013.
 -- 「私に帰り道はありません。片道切符というヤツです。それも、ここで終点のようですが」
-"I have no home to return to.
- I bought myself a one-way ticket,
+"I have nowhere to return to.
+ I'm on a one-way ticket,
  and as it turns out, this is my final stop."
 }
 [sha:901a1b42513f59440beb8b49db7763e2687707d5]{
 -- Page 16, Offset 42014.
 -- 声に悲嘆の色は見られなかった。
-I can't detect any sadness in his voice.
+There is no sadness apparent in his voice.
 }
 [sha:e9d5fc1b0f71e9f1c8aa36ec39bed136c0cbfe5a]{
 -- Page 16, Offset 42015.
@@ -346,12 +349,12 @@ You simply wish for things to be the way you want; truly a bitter enemy if I say
 [sha:d35a5fa84d6a381b9a53bff1e5498cf6f3911c58]{
 -- Page 21, Offset 42028.
 -- 神父服の男はもういない。
-The man in the priest's cassock has disappeared.
+The cassock-clad man is gone.
 }
 [sha:a391ac0e2c954dae24478d68561ddf0ebfa0453a]{
 -- Page 21, Offset 42029.
 -- ベンチに置かれた一冊の古びた本。
-The well-worn book is all that remains on the bench.
+His well-worn book is all that remains on the bench.
 }
 [sha:ca083d5bed1ec928654854e5b8f422328f8dad52]{
 -- Page 21, Offset 42030.
