@@ -5658,7 +5658,9 @@ I can't bring myself to hate^her... But that's also why I^can't overlook this mi
 }
 [sha:a70175c37f41533f0429f8865407501b3537970d]{
 -- 教会支部から帰還するシエル。^総耶の異変を感知し、^急ぐ彼女の前に―――
-Ciel returns from her visit to^the Church's branch office.^Sensing the abnormality that^has taken hold of Souya, she^rushes back only to find―――
+// @flowchart_descr
+Ciel returns from her visit to the Church's local branch.
+ Sensing the abnormality that has taken hold of Souya, she rushes back only to find――
 }
 [sha:28e64ada02911a412f11c77b418c70b9a574f3ff]{
 -- 真祖の王族、撃退――^だが、余力の尽きた彼女は、^異変にまだ気付けずにいた。
