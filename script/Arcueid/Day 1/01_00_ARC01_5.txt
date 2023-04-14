@@ -65,7 +65,7 @@ After a few seconds of waiting,
 [sha:ef271c9bb089642730530766072b0a89b34623e3]{
 -- Page 248, Offset 1796.
 -- 重い扉を開けて敷地内に入る。石の門を抜ける。
-I open the heavy door and enter the premises, passing through the stone gate.
+I open the heavy door, pass through the stone gate, and set foot on the Tohno estate.
 }
 [sha:1ccbf5bab72d0a3c671a2c6b83580f931bbea62d]{
 -- Page 248, Offset 1797.
@@ -75,12 +75,12 @@ The door locks tightly behind me with a satisfying clunk.
 [sha:4b1028eeedf8b366eac09713266d275c9888f4d8]{
 -- Page 249, Offset 1798.
 -- 正門を過ぎると、なだらかなスロープの道が奥へ奥へと伸びていた。
-After passing through the main gate, a gently sloping path leads deeper and deeper into the forest.
+Beyond the main gate, a gently sloping path leads into the depths of the forest.
 }
 [sha:52a81e2d729904cab8e22864a0d5a6728c6fb899]{
 -- Page 249, Offset 1799.
 -- 高い木々に囲まれた道はトンネルを思わせる。
-Surrounded by tall trees, the path gives me the impression of a tunnel.
+Tall trees hem in the path, making it feel like a tunnel.
 }
 [sha:e58bbbbcb64b3cfedd5c019005c3a22bc399de16]{
 -- Page 249, Offset 1800.
@@ -95,7 +95,7 @@ It extends due east, then after about forty meters makes a hard left turn to the
 [sha:2b7e498eebe958b51a1da6b76356ffc2adc0e35d]{
 -- Page 250, Offset 1802.
 -- 一歩進むごと、<彩|いろ>づくように記憶が蘇る。
-Memories come flooding back with each step; it's like they're being colored in.
+With each step I take, my memories gradually start to regain their luster.
 }
 [sha:8a5a522ef179f7e712ea897468bfa8f6ae7e5845]{
 -- Page 250, Offset 1803.
@@ -120,7 +120,8 @@ At this corner, you turn north――to the left――and there it is.
 [sha:0a10f8923715acfd88f9cd935b945f988204ddc0]{
 -- Page 252, Offset 1807.
 -- 白亜の壁を思わせる、遠野の屋敷が<聳|そび>えている。
-The Tohno mansion, towering high, like a great wall of chalk.
+// 白亜の壁 is a collocation in Japanese that expresses some unbelievably "above the mundane" place.
+The Tohno mansion, towering high, like some imposing castle.
 }
 [sha:dedd976b233823eda79192aa80e31dda96843faf]{
 -- Page 252, Offset 1808.
@@ -148,7 +149,7 @@ This is a castle for a powerful man.
 [sha:2ad2533d490754632599b9352cbdeaaca8116c3d]{
 -- Page 254, Offset 1812.
 -- 槙久……いや、遠野に連なる人々にとって、この屋敷は聖域そのものだ。
-For Makihisa... no, for all members of the Tohno family, this mansion is a sanctuary.
+To Makihisa... no, to all members of the Tohno family, this mansion is practically sacred.
 }
 [sha:2eb703131cfe8ef1d385230b8e47fb6dee544cfe]{
 -- Page 255, Offset 1813.
@@ -168,8 +169,9 @@ They must have considered living here to be very prestigious.
 [sha:f34aa7efcbd3e63f64ebbd455e578032a68278ea]{
 -- Page 256, Offset 1816.
 -- ……ほんと、馬鹿げている。特権階級という響きにどうしても馴染めない自分にとっては“豪勢な屋敷”にすぎないのだが。
-Can't say I get it though.
- I'm not familiar with the values of the upper class, so for me, it's just a 'luxurious mansion'.
+What a bunch of nonsense...
+ I'm not familiar with the values of the upper class,
+ so as far as I'm concerned it's just a 'luxurious mansion'.
 }
 [sha:b1a554a328313d87c1edaf93cba4a32d1bce3fea]{
 -- Page 257, Offset 1817.
@@ -194,7 +196,7 @@ I shake off my nervousness and push the doorbell.
 [sha:774e41ae7a9829555f33809255a9bd28c16444f2]{
 -- Page 258, Offset 1821.
 -- ピンポーン、といった親しみのある音はしない。
-There's no familiar %{i}ding-dong%{/i} sound.
+The familiar ring that would usually follow never comes.
 }
 [sha:8f5aab6a28b61c2c89d8433243b2f307d9505521]{
 -- Page 259, Offset 1822.
@@ -255,7 +257,7 @@ I stand there motionless, across from the person who came to greet me――a gir
 [sha:e5acd8f97442a60c4717b0acc6a9c6a3c6fde771]{
 -- Page 265, Offset 1833.
 -- 日が落ちてもいらっしゃらないようでしたら、こちらからお迎えに向かうところでした」
-If you had not made it here before sundown, I would have come to get you."
+If you hadn't arrived before dark, I would have left to come find you."
 }
 [sha:106fad0ecbd98dee29fbc431896c1fb8ff3b7877]{
 -- Page 265, Offset 1834.
@@ -290,7 +292,7 @@ The girl tilts her head gently as if puzzled by my confused attitude.
 [sha:5feca18cc1454dc6dfc4997c8e2e292040ad3c76]{
 -- Page 268, Offset 1840.
 -- 「志貴さま、ですよね？」
-"You are Shiki-sama, right?"
+"You %{i}are%{/i} Shiki-sama, right?"
 }
 [sha:5a3051b2f74ed613e8e54c47a84c557d7de9faeb]{
 -- Page 268, Offset 1841.
@@ -300,12 +302,12 @@ The girl tilts her head gently as if puzzled by my confused attitude.
 [sha:a2a9ceed7ec867c2eb2d9f97d9b6b07e6e56fbac]{
 -- Page 269, Offset 1842.
 -- 「ですよね？　もう、脅かさないでください。
-"You are, right? Oh, please do not scare me like that.
+"You are, right? Oh, please don't scare me like that!
 }
 [sha:603bcfce7122f507383934f733a5afdf815a831e]{
 -- Page 269, Offset 1843.
 -- わたし、また間違えてしまったのかと恐くなってしまったじゃないですか」
-I was afraid I made a mistake again."
+You had me terrified that I might have gotten the wrong person!"
 }
 [sha:249049484827b8f10d5af1c58c02588740856a3d]{
 -- Page 270, Offset 1844.
@@ -322,17 +324,18 @@ It would appear that she really did worry and is now quite cross.
 [sha:07571617080c6612f843e7eb44982038b584ae88]{
 -- Page 271, Offset 1846.
 -- ……着物にエプロン。
-She's wearing an apron over her kimono...
+This kimono and apron combo...
 }
 [sha:db746d08a7825a3b5f2623711e9abe235a00ebfa]{
 -- Page 271, Offset 1847.
 -- こうやって出迎えにきてくれて、俺のことを“さま”付けで呼ぶ。
-She's come to greet me and refers to me with a '-sama'.
+Together with the way she came to greet me,
+ and how she addresses me as '-sama'...
 }
 [sha:968a2d7935a5edbdcacf1268210a3b9a75414372]{
 -- Page 271, Offset 1848.
 -- では、この子は――――
-So, this girl is―――
+Right, this girl must be―――
 }
 [sha:d3ef5c06e9d998be8f50e27e8f18c0026ba7e957]{
 -- Page 272, Offset 1849.

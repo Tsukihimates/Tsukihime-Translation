@@ -1,17 +1,17 @@
 [sha:536e7bee555db50ecfff4ed51ee25fb87d9cc192]{
 -- Page 10000, Offset 37602.
 -- 「……お願いだから逆らわないで。私に貴方を殺させないで」
-"...I'm begging you, don't defy me. Don't make me have to kill you."
+"I'm begging you, don't defy me. Don't make me have to kill you."
 }
 [sha:4356e07472646777d42319e4a7abdcb7e6e0e8bc]{
 -- Page 1, Offset 37603.
 -- 懇願するような声が<囁|ささや>かれる。
-She whispers out in a plea-like voice.
+Her pleading voice is little more than a whimper.
 }
 [sha:a367c9d778431cb3dd57f11caaeff3d2e2ff27bb]{
 -- Page 1, Offset 37604.
 -- ……けど、聞けない。
-...But I can't listen to her.
+But... I can't do as she says.
 }
 [sha:6fdffb9de6269567970e7156c822c1a2c1cff1cf]{
 -- Page 1, Offset 37605.
@@ -21,62 +21,65 @@ I can no longer be together with Arcueid.
 [sha:ee0c7915f55071dbded303c280602325a455cd4d]{
 -- Page 1, Offset 37606.
 -- それは人間社会の倫理に照らし合わせた答えではなく、
-It's not an answer I came to through the morals of human society,
+Not because that's the morally correct decision in the eyes of society―――
 }
 [sha:1fb47f1997eda31009a8aee7f133f50303319529]{
 -- Page 1, Offset 37607.
 -- 男として単純な気持ちだった。
-but through my straightforward feelings as a man.
+But because that's what my own simple feelings as a man are telling me to do.
 }
 [sha:ea48ca2c2d9d1adf89868a97a566026309fea69b]{
 -- Page 2, Offset 37608.
 -- 俺は根本的に人間を知らず、
-I'm simply a hopeless bastard living his final days,
+I am someone who fundamentally does not understand people―――
 }
 [sha:4bd03751367efbdbab82d11aed48ded73e9b057a]{
 -- Page 2, Offset 37609.
 -- 生と死の境界も曖昧で、
-unable to understand humans deep down,
+Someone to whom the boundary between life and death was always blurred―――
 }
 [sha:efcf486a41cd779ba236bf3de7d47d103d713754]{
 -- Page 2, Offset 37610.
 -- 末路は間違いなく、ろくでもない人でなしだ。
-blurring between the boundary of life and death.
+// Everybody's favourite ろくでなし
+Someone fated to be nothing but repugnant human filth.
 }
 [sha:cf67a9a53c7c7cefbf053ca7db4bfb2c963cf786]{
 -- Page 2, Offset 37611.
 -- そんな俺を“よく頑張った”と褒めてくれた人がいた。
-There was a person who praised me for 'doing my best'.
+// Can't find any great candidates for this to be referencing.
+// It flashes Ciel's table, so I assumed it would be in 3_3C or thereabouts, but nothing stands out.
+And yet, even someone like me had a person who would praise them for doing their best.
 }
 [sha:f48a7792ebf6d47d42d1391147f7433a6e20df3f]{
 -- Page 2, Offset 37612.
 -- そんな俺にも、やるべき事があると教えてくれた人がいた。
-There was someone who taught me that even a person like myself had things they must do.
+Even someone like me had a person to teach them that I still had things left to accomplish.
 }
 [sha:7e82b946ad393f9be4b77e1e12023e8557f331ae]{
 -- Page 2, Offset 37613.
 -- ……本当に、嘘のような話だけど。
-...It really seemed hard to believe at the time.
+I can hardly even believe it myself...
 }
 [sha:e481fed7eba106aeb6ff46d70a3c9894857b9e5a]{
 -- Page 2, Offset 37614.
 -- 今の俺には、自分より大切な人がいる。
-But right now, there is someone I value more dearly than myself.
+But right now, I have someone I value more than my own life.
 }
 [sha:0d4898c497e1af6b4e2ecfcf7c11a1d1126b20e4]{
 -- Page 3, Offset 37615. Mods: @k, @e.
 -- 「――――――、
 "―――
 }
-[sha:579251ec90a817b49ef70d7a9542948dd69e9463]{
+[offset:37616]{
 -- Page 3, Offset 37616. Glued. Mods: @x.
 -- はあ」
-%{i}Hah%{/i}."
+%{i}Sigh%{/i}."
 }
 [sha:0f5467ee7608b698584df0902e6fc002ebd96c6b]{
 -- Page 3, Offset 37617.
 -- 深く。覚悟を決めて息を吸う。
-Resolving myself, I let out a deep breath.
+Preparing myself for the worst, I let out a deep breath.
 }
 [sha:2be3630ccb583954cc9dcd5787ee59685348c58b]{
 -- Page 3, Offset 37618.
@@ -86,12 +89,12 @@ Resolving myself, I let out a deep breath.
 [sha:6eb82bb4f9fd92f1113480fc744c4bc6a454599b]{
 -- Page 3, Offset 37619.
 -- アルクェイドの目がかすかに歪む。
-Arcueid's eyes slants ever so slightly.
+Arcueid's eyelids quiver ever so slightly.
 }
 [sha:d5de0d5bd3c44de2baf2dc6a46201b5bee0a430b]{
 -- Page 3, Offset 37620.
 -- もう分かっているだろう、俺の返答を止めるように。
-As if to stop me from giving an answer that's already clear.
+It's like she already knows what I'm about to say, and wishes I wouldn't.
 }
 [sha:23bb27c65e58701a980242d9e8145fca0097f889]{
 -- Page 4, Offset 37621.
@@ -106,17 +109,20 @@ As if to stop me from giving an answer that's already clear.
 [sha:08a1a2c2a23c9acc406b1773978f48985d2ddaa8]{
 -- Page 4, Offset 37623.
 -- ……思ってもいなかった。この完璧な女の目が、胸の痛みで<陰|かげ>る事があるなんて。
-...How unexpected. To think that the eyes of this flawless woman could be so clouded by the pain in her chest.
+I didn't expect this...
+ To think that the eyes of this flawless woman could be so clouded by the pain in her chest.
 }
 [sha:f510d74102ed12f8f0bec55c30c710b7dd52259e]{
 -- Page 5, Offset 37624.
 -- もし俺が、自分さえ騙せるぐらい嘘が上手かったのなら、コイツにそんな顔はさせなかっただろう。
-If I had been a good enough liar to fool even myself, then maybe she wouldn't be making such a face.
+// look everyone, it's a Theme!
+// Structure matched to 00_00 (offset 466)
+Perhaps if I'd been able to tell lies that even I myself could believe, she wouldn't be making this face.
 }
 [sha:b8a7c5aaf88d5ec67d5720fd8a99345d4de8cc18]{
 -- Page 5, Offset 37625.
 -- いや、だとしても、
-No, but even then...
+No... even if I could―――
 }
 [sha:d3b45a1c092866da877afd1578535440d3e23666]{
 -- Page 6, Offset 37626.
@@ -126,57 +132,65 @@ No, but even then...
 [sha:8e9614011020f381bde8382fe1440d81d508ce86]{
 -- Page 6, Offset 37627.
 -- 「当たり前だろ。今のおまえはロアと同じだ」
-"That's obvious. Because right now, you're the same as Roa."
+"That's obvious. Right now, you're the same as Roa."
 }
 [sha:ddd200027cf58951dcc277df5b04a5cf923e5b43]{
 -- Page 6, Offset 37628.
 -- 俺にとって、永遠に思えた女は、あの路地裏でどうしようもない殺人鬼に笑いかけてきた女であり、
-Because the woman who I always knew, is someone who couldn't help but smile at a killer in the back alley.
+// Pairs with 37630 across the pagebreak
+// 永遠に思えた女 someone/something you'd thought would always stay the same
+// どうしようもない here is, well, it's more along the lines of "awful". "beyond saving" being a close metaphor.
+I thought she would always be the woman who had smiled at her irredeemable killer in that back alley―――
 }
 [sha:529b92054321c48f31392c47b51f8506a2bc7684]{
 -- Page 6, Offset 37629.
 -- 「だから、<吸|・><血|・><鬼|・>には従わない」
-"That's why I can't obey a vampire."
+"And there's no way... I can do what a %{i}vampire%{/i} says!"
 }
 [sha:8aa8b9ea80ea2931fd14e5b0bea303e46a6a707a]{
 -- Page 7, Offset 37630.
 -- 今のアルクェイドを、あの時のアルクェイドと同一に考える事を、なにより、俺自身が許さない。
-More than anything, I can't allow myself to think of Arcueid now as the same as Arcueid from before.
+// Lead-in added here to try and make connection more obvious across the pagebreak
+―――If there's one thing I absolutely cannot do...
+ it is to think of the Arcueid before me now and the Arcueid from back then as the same person.
 }
 [sha:228454fc1e7a94052319a86b5656d6af024fea3e]{
 -- Page 8, Offset 37631.
 -- 無駄と知りながらナイフを振るう。
-I swing my knife, even as I know it's futile.
+Even though I know it's futile, I swing my knife.
 }
 [sha:028f34a155653877fa0d02c321ba6ff88dc78145]{
 -- Page 8, Offset 37632.
 -- 殺意の欠けた、しかし渾身の一撃は、アルクェイドの首筋でピタリと停止する。
-My killing intent has waned, but with a single strike using all my strength, I stop Arcueid completely through her neck.
+It's a halfhearted swing, but I still put all my strength behind it.
+ Despite that, my knife comes to a dead stop against her neck.
 }
 [sha:1087baf137f36a87bcd27b6466184b6aaad77ec7]{
 -- Page 8, Offset 37633.
 -- 俺が止めたのではなく、コイツの首の皮一枚すら斬れず、止まったにすぎない。
-It's not because I stopped her, but that she simply stopped moving without having a single piece of her neck sliced off.
+I didn't stop myself on purpose――
+Not because I stopped it myself,
+ but because I simply couldn't so much as nick the skin of her neck.
 }
 [sha:135f8401759ef6302a3b93a2c4079d32e0114396]{
 -- Page 9, Offset 37634.
 -- 「―――やめて。なんで、なんで―――」
-"―――Stop it. Why? Why―――"
+"―――Stop. Why? Why―――"
 }
 [sha:783a26292c98a4aaa1911cfcc6cd4ce420714561]{
 -- Page 9, Offset 37635.
 -- 白い美貌が悲しみに歪む。
-Her beautiful white face turns to sadness.
+Her pale and beautiful face is twisted by sorrow.
 }
 [sha:92c1357c66ffcc840ac8648617270bdb286fc2ba]{
 -- Page 9, Offset 37636.
 -- 今の返答はコイツにとって最大最悪の侮辱であり、
-In her eyes, my answer was the greatest insult she could possibly imagine.
+To her, the answer I just gave is the greatest insult she could possibly imagine.
 }
 [sha:55f0747f376ab27fd95975a9b15163a85e34b9e7]{
 -- Page 10, Offset 37637.
 -- 「―――違う。違うもの、違うから……！
-"―――No. You're wrong. We're not the same...!
+"―――No. You're wrong... You're wrong!
 }
 [sha:687769947c1e62905cb546109cef9a47ec79fd4c]{
 -- Page 10, Offset 37638.
@@ -186,32 +200,34 @@ Stop it. Take it back. I'm not the same as him.
 [sha:fdd8275fa203f76cb2822ad9dae3fff66ced1279]{
 -- Page 10, Offset 37639.
 -- いくら志貴でも、そんな言葉―――」
-Even if you're Shiki, what you said is―――"
+// Awkward to get いくら志貴でも concise in en
+I can't overlook that, even coming from you―――"
 }
 [sha:8d4e70b97143b99f3be91c7591a32f6ae6ca66a1]{
 -- Page 11, Offset 37640.
 -- ―――自分への怒りで、頭痛がする。
-―――A headache emerges from my own rage.
+―――All the rage directed at me gives me a headache.
 }
 [sha:8fd708e69875ba9955e81c4fd565eee1e2218b3a]{
 -- Page 11, Offset 37641.
 -- アルクェイドの首筋に変化が起きた。
-Something changes on Arcueid's neck.
+Something's changed about Arcueid's neck.
 }
 [sha:bbba27d14d3f8179b47cf0943a624b137f46a7c4]{
 -- Page 11, Offset 37642.
 -- それはほんのわずかな濃度の死の線であり、
-It's a line of death of the slightest degree,
+There, ever so faintly, is a line of death.
 }
 [sha:c657b6afceac38fd3fddef73d50f08f3f5460e6b]{
 -- Page 11, Offset 37643.
 -- 黄金の月の下のコイツが、そんなものを持ってしまうほど、今の言葉は残酷な罵倒だったと思い知る。
-making me realize what I just said was so cruel that it made even this person possess such a thing under the golden moon.
+I realize just how deeply my words must have cut her,
+ if even beneath this golden moon she now bears such a line.
 }
-[sha:9c6931108f2f29e26b8663cc1d7f3904e7f09500]{
+[offset:37644]{
 -- Page 11, Offset 37644.
 -- それでも―――
-But still―――
+But even so―――
 }
 [sha:c617429a1f5ffc086e7d3b1201a648fc02d5b0bd]{
 -- Page 12, Offset 37645.
@@ -221,15 +237,15 @@ But still―――
 [sha:c2ea5c7b39270d15ca8de37ebd91f2f4d0f91998]{
 -- Page 12, Offset 37646.
 -- いいから、頭冷やして出直してこい……！」
-That's enough. Come back after you cool off your head...!"
+Enough——we can talk after you cool your head!"
 }
 [sha:0ba4bc2c7e3498c87f4b7f8949f2d80475903cec]{
 -- Page 13, Offset 37647.
 -- その涙に付け入るように。
-As if take advantage of her distress,
+As if taking advantage of her tears―――
 }
 [sha:c4aae63ab8f450ab46266a69212b9fa6b72edc60]{
 -- Page 13, Offset 37648.
 -- 俺は、彼女の『線』をかっ切っていた。
-I cut through the 'line' of the woman.
+I slice through her line.
 }
