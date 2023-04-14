@@ -103,13 +103,13 @@ There's no doubt about it.
 -- Page 814, Offset 7798.
 -- エレベーターホールの階段から、生存者が息をきらして駆け上がってくる……！
 // Lady, running _up_ is not the direction to go when there's a fire
-A survivor is breathlessly running up the stairs next to the elevators...!
+A survivor is breathlessly running up the stairs next to the elevators!
 }
 [sha:343aa8e899f335cf64dfe0ea72f44135fe5a86c8]{
 -- Page 815, Offset 7799.
 -- 「は、はぁ、は……やった、ここ燃えてない……！」
 "%{i}Ha, ha, ha%{/i}...
- Oh thank goodness, this floor isn't on fire...!"
+ Oh thank goodness, this floor isn't on fire!"
 }
 [sha:e7123f241bdfa2e8c687e4ade8ed38d40e2c59a1]{
 -- Page 815, Offset 7800.
@@ -139,7 +139,7 @@ Noticing my presence in the hallway, the woman begins to run once again.
 [sha:db1bd9187a48af0ff5da478196583db8a985539b]{
 -- Page 817, Offset 7805.
 -- 「やった、助かった……！　わたし、助かった……！」
-"Thank goodness, I'm saved...! I'm finally saved...!"
+"Thank goodness, I'm saved! I'm finally saved!"
 }
 [sha:16e597f6449f212161ea8aae0919097c1fc786ce]{
 -- Page 817, Offset 7806.
@@ -500,7 +500,7 @@ It shines conspicuously at his core, like a jewel―――
 [sha:472f95ee67d3190d7a80f7503ebd15d7fc8e77a9]{
 -- Page 836, Offset 7876.
 -- 「っづ……！」
-"%{i}Gh%{/i}...!"
+"%{i}Gh%{/i}!"
 }
 [sha:22610d021e2aa29c7c73cd867c054be51ca3bf5a]{
 -- Page 836, Offset 7877.
@@ -591,10 +591,10 @@ His eyes are different.
  An ugly and ungainly being that's driven by nothing but his impulses, cast about on the waves of his own abnormality.
 %{n}A bastard just like me―――
 }
-[sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
+[offset:7893]{
 -- Page 841, Offset 7893.
 -- 「……！」
-"...!"
+"%{i}Ah%{/i}... %{i}gh%{/i}!"
 }
 [sha:b70a870809166b783021eb3de40c34f21c6c3d37]{
 -- Page 841, Offset 7894.
@@ -784,7 +784,7 @@ You're telling me... that even a person like Arcueid can get burned by a direct 
 -- 死の線が極端に少ない、死からもっとも遠い女を、致死に追いこむほどの高温だとでも……!?
 // Omits the 死の線が極端に少ない
 Are these flames hot enough that they'd prove fatal even to her,
- the woman furthest away from death...?!
+ the woman furthest away from death?!
 }
 [sha:72b5ae5a66195ec4a13faeaa85d58bb60dc730eb]{
 -- Page 855, Offset 7931.
@@ -1030,7 +1030,7 @@ Princess of the True Ancestors. That heart of yours, shall be mine."
 [sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
 -- Page 871, Offset 7978.
 -- 「……！」
-"...!"
+"!"
 }
 [sha:8cce493ebdadd950eb14171833493a3d23d98f4a]{
 -- Page 871, Offset 7979.
@@ -1127,7 +1127,7 @@ He walks over to the elevators as if nothing had happened, boards one with the s
 [sha:4917c480103ae9ca2ea7389b8afa0d8c0f4cf74a]{
 -- Page 878, Offset 7997.
 -- もう、これっぽっちもワケがわからない……！
-I don't understand what's going on at all anymore...!
+I don't understand what's going on at all anymore!
 }
 [sha:c6e33401a77d4b416fb82add39f72874a399fc8c]{
 -- Page 878, Offset 7998.
@@ -1258,12 +1258,12 @@ I feel the weight of her body as I catch her in my arms.
 [sha:e2e5d0d1c18cb914f75b59fd5dafcdff315195b6]{
 -- Page 888, Offset 8023.
 -- 勝手に死なれたら、俺は本当に、おまえに何を返せばいいのか分からなくなるじゃないか……！
-If you die on me right now, I %{i}really%{/i} won't know how to respond...!
+If you die on me right now, I %{i}really%{/i} won't know how to respond!
 }
 [sha:a02dd6eadebd5e7855684f2088b134376b22b4c0]{
 -- Page 889, Offset 8024.
 -- 「駄目だ、起きろアルクェイド……！」
-"No, you can't. Wake up, Arcueid...!"
+"No, you can't. Wake up, Arcueid!"
 }
 [sha:37dceedd737cc5fb6b22d09267b54e001d4eee27]{
 -- Page 889, Offset 8025.

@@ -1,17 +1,17 @@
 [sha:58c1a818b323b2dc19c61411487ee2cdd3c7e1fa]{
 -- Page 10031, Offset 34229.
 -- とっさに、後方に跳んでいた。
-I jump toward my rear immediately.
+I immediately leap backwards.
 }
 [sha:8f557992b8a0936445db35b251cf31f3bd15a024]{
 -- Page 347, Offset 34230.
 -- 危機を感じて後ろに跳び退く。
-Feeling threatened, I jump to the back.
+Feeling threatened, I hastily retreat from Senpai.
 }
 [sha:58eedea38a7acde86198f9d5e0c3d86484f5e1bd]{
 -- Page 347, Offset 34231.
 -- それだけで先輩との距離は何メートルも離れていた。
-From that alone, I manage to put a few meters between us.
+My jump managed to put at least a couple of meters between the two of us.
 }
 [sha:598f59221fc773a9daecfa8d368d65b74df12da3]{
 -- Page 348, Offset 34232.
@@ -26,47 +26,53 @@ But I'm the only one taken by surprise.
 [sha:477c8b54f68acb00298bb7f109c7cbb241afb0a4]{
 -- Page 348, Offset 34234.
 -- 先輩は銃剣を構えたまま、無表情で追ってくる。
-Remaining unperturbed, Senpai chases after me, bayonet in hand.
+Senpai doesn't bat an eyelid at my sudden retreat,
+ and pounces after me with bayonet at the ready.
 }
 [sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
 -- Page 349, Offset 34235.
 -- 「っ……！」
-"%{i}Ugh%{/i}...!"
+"%{i}Ugh%{/i}!"
 }
 [sha:a5e202da217d996f09a8a6a4944ef5f75a49d256]{
 -- Page 349, Offset 34236.
 -- そのまま陥没地帯の端、地上に続く崖へと走り出した。
-I run toward the edge of the collapsed zone――to the cliff that leads to the surface.
+I sprint toward the edge of the pit――toward the cliff that leads to the surface.
 }
 [sha:e5ce96b30ef62aba87fc8fe79a22b91c5768e653]{
 -- Page 349, Offset 34237.
 -- 自分の体が恐ろしいまでに軽い。
-My body is so light that it frightens me.
+My body feels terrifyingly light.
 }
 [sha:b60f743145bab639e9304410da02638ba6b27f59]{
 -- Page 349, Offset 34238.
 -- 風を切るように体が走る。
-I rush forward like a gust of wind.
+I'm running like the wind.
 }
 [sha:f1d7903d97e2842997f273c4047e3a27ec87ac81]{
 -- Page 349, Offset 34239.
 -- これなら何であろうと、追いつかれる事はない……！
-With this, there's nothing that can catch up to me...!
+Nothing can catch me if I'm going this fast!
 }
 [offset:34240]{
 -- Page 350, Offset 34240.
 -- ――――と。
-――――But then...
+Suddenly―――
 }
 [sha:f732a99aedabfa02a19cdc87d44a4008997ef715]{
 -- Page 350, Offset 34241.
 -- 脳から筋肉への停止信号も無く、道を塞ぐ障害も無く、慣性すら無く、体が止まっていた。
-My body is brought to a complete standstill by something that I can't put a finger on. I didn't voluntarily stop moving my muscles, nor did I run into an obstacle; I'm certain that it wasn't because of inertia either.
+// Wtf is he trying to say by inertia? That there was no external force that acted on him?
+// That he didn't run into something? Or is it something weird like "There wasn't even any [conservation] of inertia"?
+Even though my brain hasn't stopped sending signals to my muscles――
+even though there's nothing blocking my path――
+even though nothing acted directly on my body――
+I'm brought to a dead stop.
 }
 [sha:074173fd7430ee13942da59786d06ee77a14817e]{
 -- Page 350, Offset 34242.
 -- 前に出ようとしても足があがらない。
-Even if I try to push them forward, I can't lift my legs.
+I try and lift my feet to take another step forward, but I can't.
 }
 [sha:ce4abde31428fd299c1bf555b8f3c11d7af59c8c]{
 -- Page 350, Offset 34243.
@@ -76,12 +82,12 @@ I can't twist them to the sides either.
 [sha:bf46147e3c13604eb68c3224279caffcd1ff6000]{
 -- Page 350, Offset 34244.
 -- 両足が、地面に張り付いて離れない……！
-My legs have been completely fastened to the ground...!
+My feet are completely glued to the ground!
 }
 [sha:91ddc775a65a0eed8f877188344116ff542d7a78]{
 -- Page 351, Offset 34245.
 -- 「―――――な」
-"―――――Wha..."
+"Wha―――"
 }
 [sha:850ac544c584cdabdecb35a1739f1f873f83f975]{
 -- Page 351, Offset 34246.
@@ -91,111 +97,120 @@ I look over my shoulder.
 [sha:cb217593b7ff3a652a8045c81e95ad6fda0f52f3]{
 -- Page 351, Offset 34247.
 -- すぐ後ろの地面に、あの黒鍵が刺さっている。
-Right behind me, there's a Black Key that's been thrust into the ground.
+There's a Black Key sticking out of the ground just behind me.
 }
 [sha:9060d5ee6bb98b8e22b7a5462ffb91dbad2f66f8]{
 -- Page 351, Offset 34248.
 -- 黒鍵は俺の影を刺していて、それが原因で両足は地面から離れないようだった。
-The Black Key is pinning my shadow down, and it seems like that's the reason why my legs are stuck in place.
+And there, pinned beneath it, is my shadow.
+ It seems like that's the reason my feet are frozen in place.
 }
 [sha:3b889b2a226ed0aff8999b95a1ef16fa40b90cf9]{
 -- Page 352, Offset 34249.
 -- 「こ……の……！」
-"You...!"
+"You!"
 }
 [sha:91cfc68b911c35b67f3cc4268e1a31e86c5caa94]{
 -- Page 352, Offset 34250.
 -- 両足に力を込める。
-I pour my strength into my legs.
+I strain my legs as hard as I can.
 }
 [sha:0a519b9b38e0b125980dc7b47ab6fe259805ae56]{
 -- Page 352, Offset 34251.
 -- しかし、１ミリも動かない。
-However, they don't budge even a single milimeter.
+Try as I might, they don't budge so much as a millimeter.
 }
 [sha:51575846a60b816efe0530c5d1752e1caadc270a]{
 -- Page 352, Offset 34252.
 -- トラバサミにかかった犬の姿が脳裏に浮かぶ。
-The image of a dog caught in a steel trap comes to mind.
+// Slight tampering with the 脳裏に浮かぶ but ehh it's the idea
+I feel like a dog caught in a bear trap.
 }
 [offset:34253]{
 -- Page 352, Offset 34253.
 -- そこへ、
-Over there in the distance―――
+And then―――
 }
 [sha:9adecb9fe985bd272b3468d6adec7745f222c7f9]{
 -- Page 353, Offset 34254.
 -- 「浅はかですね。逃げるにしても、もう少し上手いやり方があったでしょうに」
-"How foolish. If you're going to run, then you should at least come up with a better escape plan."
+"A disappointing display.
+ If you were going to run, then surely there was a better way you could have done it."
 }
 [sha:aad06eea8c3cdfc19d019d481664194d2c3b63d6]{
 -- Page 353, Offset 34255.
 -- “弓”の異名をとる代行者が現れた。
-The Executor known as the 'Bow' appears before me.
+The Executor codenamed 'Bow' appears before me.
 }
 [sha:68ff6429413aec83978735970cfb92886d138660]{
 -- Page 354, Offset 34256.
 -- 「先―――輩」
-"Sen―――pai."
+"Sen――pai."
 }
 [sha:5058e534624024a4f527b61500a6848b9aeea710]{
 -- Page 354, Offset 34257.
 -- 「体まで吸血鬼化している貴方を、外に出す訳にはいきません。ここで、その魂を断罪します」
-"Your body has already transformed into that of a vampire's, so I cannot afford to let you roam freely. Now, I shall rain down judgment upon your soul."
+"Your body has already transformed into that of a vampire's, so I cannot afford to let you roam freely.
+ Now, I shall bring judgment upon your soul."
 }
 [sha:c146d7d1a8ae2b563b392af84bb50a3b31a1526e]{
 -- Page 355, Offset 34258.
 -- 鎌首をもたげる杭打ち機。
-The head of the pile bunker gets raised.
+// 鎌首をもたげる is usually used when something is being threatening without actually moving in for an attack; intimidation.
+The pile bunker sizes me up.
 }
 [sha:4d7658f21c4dbf231ea5359e8296153cb6d16db6]{
 -- Page 355, Offset 34259.
 -- ……獲物を刺激しないという配慮か。
-...Perhaps in an attempt to refrain from agitating her prey―――
+A predator careful not to startle its prey...
 }
 [sha:5da185bfe42d420299a7e6c88afaf5ee2bb128df]{
 -- Page 355, Offset 34260.
 -- ゆらりと、代行者の姿はこの視界から消失し、
-in one fell swoop, the Executor vanishes from my sight, and―――
+In one smooth motion, the Executor vanishes from my sight.
 }
 [sha:a441accd3bc5800686174426084756dfed3d75fc]{
 -- Page 356, Offset 34261.
 -- 「―――さようなら。せめて、これで―――」
-"―――Farewell. At the very least―――"
+// Feels like I need the target here to make the gist of the JP clear, seems like a safe bet.
+"―――Farewell. At least with this, you―――"
 }
 [sha:35c7b34999402967e4ab5ec898d7eff18ec76225]{
 -- Page 356, Offset 34262.
 -- 小さな、聞き取れないほど小さな声で呟いて。
-With a mutter too faint to make out.
+She whispers to herself in a voice so faint I can hardly hear it.
 }
 [sha:cc98b0577e74e52fa0be3a70a8f7f7cb2e380665]{
 -- Page 356, Offset 34263.
 -- 彼女は切っ先を吸血鬼の心臓に押し当てて、弾劾の引き鉄を引いた。
-She pushes the tip against the vampire's heart before pulling the trigger of denunciation.
+Jamming the tip of her weapon against the vampire's heart,
+ she pulls the trigger that heralds its denunciation.
 }
 [sha:45f7702a61282a1e467d65a1bd709f560da38516]{
 -- Page 357, Offset 34264. Mods: @n.
 -- 教会の鐘を思わせる、体内で反響する炸裂音。
-Explosions reverberate within my body like church bells ringing.
+The sound of an explosion reverberates through my body like the peal of church bells.
 }
 [sha:42dca569379e8178b8c0149bafa2e9ceb56a6ec4]{
 -- Page 357, Offset 34265.
 -- 「ご―――ふ」
-"Ga―――ah."
+"%{i}Gugh%{/i}―――"
 }
 [sha:4d9b1312c8948108816f438263280ea0b9ef46e9]{
 -- Page 357, Offset 34266.
 -- 逆流した血液が口からあふれだす。
-The blood that I regurgitated pours out of my mouth.
+Blood spurts violently out of my mouth.
 }
 [sha:6fb71c964ae7c5797d55fb42d5fbd31039556204]{
 -- Page 357, Offset 34267.
 -- 脳髄の中心が炸裂するような閃光のあと。
-After a flash of light that feels like it caused the center of my brain to rupture.
+I see a flash of light, as if the core of my brain had gone critical.
 }
 [sha:f61d39b9bad73695a11e96a435abce8eaf363447]{
 -- Page 357, Offset 34268.
 -- 消えていく自分のなか、バラバラと散っていく、古い本のような魂を、見た。
-// not sure how the lore works for this one, but *my* soul might be wrong?
-From within my fading self, I catch a glimpse of my soul――it's reminiscent of a worn-out book whose tattered pages have been strewn about.
+// ~のあと yoinked down here
+As I fade away together with the glow,
+ I catch sight of a soul,
+ unravelling and scattering to the wind like the pages of a worn out book.
 }
