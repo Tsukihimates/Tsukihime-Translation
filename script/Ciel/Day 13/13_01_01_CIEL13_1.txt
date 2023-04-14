@@ -76,7 +76,7 @@ The nausea is much too intense for me to handle, so I begin slashing at everythi
 [sha:096fae1167cd1bbb95519912ef22df44aaf1e7e9]{
 -- Page 5, Offset 33081.
 -- 気持ちが少しだけ楽になる。
-I feel a little bit better now.
+It makes me feel a bit better.
 }
 [sha:aa0465459698521a1a10b20f976662043c2bbb1c]{
 -- Page 5, Offset 33082.
@@ -154,7 +154,7 @@ To a being of higher intelligence, the feeling inflicts an almost crippling blow
 [sha:38b29f8876aba4580217285d7ca8cedff9d85026]{
 -- Page 9, Offset 33095.
 -- とりわけ始末の悪いことに、俺の場合はきっかけの相手が最悪なまでに最高だった。
-To make matters even worse――the one I murdered was so perfect it was appalling.
+To make matters even worse――the one I murdered was so perfect, it was appalling.
 }
 [sha:5a75f93bf99816ab2080dd31fa854e54f1b83093]{
 -- Page 9, Offset 33096.
@@ -205,13 +205,13 @@ My body is so riled up that I feel like I'm about to lose my mind.
 -- Page 12, Offset 33105.
 -- 「おや志貴さん、起きていらっしゃいます……？」
 // This page IFF Kohaku flag
-"Oh, Shiki-san? Are you already awake...?"
+"Oh, Shiki-san? Are you already awake?"
 }
 [sha:0348dc11be4aa27f31f3bf85c74cad11d38dda3d]{
 -- Page 10001, Offset 33106.
 -- 「志貴さま、起きていらっしゃるのですか……？」
 // This page IFF Hisui flag
-"Shiki-sama, are you awake by any chance...?"
+"Shiki-sama, are you awake by any chance?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 10002, Offset 33107.
@@ -298,13 +298,13 @@ I yell in the direction of the door.
 -- Page 16, Offset 33122.
 -- 「……志貴さん？　もしかして、頭痛が悪化しています？」
 // Koha page
-"Shiki-san...? Could it be that your headache has gotten worse?"
+"Shiki-san? Could it be that your headache has gotten worse?"
 }
 [sha:45bd9bc95e673d7f0164a755a3e9f5b7d5cc7b6d]{
 -- Page 10007, Offset 33123.
 -- 「……志貴さま？　体調が優れないのですか？」
 // Hisui page
-"Shiki-sama...? Are you not feeling well?"
+"Shiki-sama? Are you not feeling well?"
 }
 [sha:9bc5e777276e3229863e1d59fb122e4f71d5702c]{
 -- Page 10008, Offset 33124.
@@ -359,13 +359,13 @@ That thought helps to calm me down.
 [sha:10bf9ed9ff828261411f8f4e655a1135bf687ea0]{
 -- Page 19, Offset 33133.
 -- 気晴らし。気晴らしに、本でも読もうか。
-I need to take my mind off this.
- Maybe I should read a book or something.
+I need a distraction.
+ Something, a book, maybe, to take my mind off all this.
 }
 [sha:421c3929d153a11b2a799cb967ab1ddcc39b04b2]{
 -- Page 20, Offset 33134.
 -- 「……あれ？」
-"Huh...?"
+"Huh?"
 }
 [sha:9ce45b2798b79b3cce91813bc53d819a54403153]{
 -- Page 20, Offset 33135.
@@ -517,7 +517,7 @@ On top of that, Tohno Shiki doesn't even possess that kind of knowledge.
 [sha:a54b12c9efd32236566a5a27a1ce9502a1bed3d8]{
 -- Page 10010, Offset 33161.
 -- あんな夢を見る材料がない。
-I don't have the materials that would form the foundation of those dreams.
+I don't have the building blocks needed to form such dreams.
 }
 [sha:1bef1720a3df9cca623cfec28fe52f3e8a9a1f74]{
 -- Page 10010, Offset 33162.
@@ -555,6 +555,7 @@ When did I become like this?
 -- Page 28, Offset 33168.
 -- “……本当はとっくの昔に死んでいる、気の狂った殺人鬼なんだから……！”
 // Ok yup here's the rest of 28412.
+// lint-off:LintStartingEllipsis
 '...but the truth is you're nothing more than a long-dead psychotic murderer!'
 }
 [sha:19d85aa5c83562ae42a5fd5fb0b1ca7145782169]{
@@ -579,12 +580,12 @@ Arcueid was an exception, nothing more.
 -- Page 29, Offset 33172.
 -- 俺はおかしくない。俺は狂っていない。
 // Ok buddy
-I'm not abnormal. I'm not psychotic.
+I'm not crazy. I'm not psychotic.
 }
 [sha:e5f698186c64e14af7a88d23ea95aaa1d0c7d86f]{
 -- Page 29, Offset 33173.
 -- せっかくシエル先輩が戻ってきてくれたのに、こんなコトで、イカレてなんかやるものか。
-There's no way in hell I'm going to let myself be driven crazy over something like this...
+There's no way in hell I'm going to let myself be driven mad over something like this...
  Not after Ciel-senpai came back into my life.
 }
 [sha:7a2f59734312b6bee099a39daef9e64f306cf6cb]{
@@ -639,7 +640,7 @@ My throat... It's so dry that I feel like I'm about to go insane.
 [sha:b2dda3f054070aefe68ea0ee4d4d3f31211ea587]{
 -- Page 10011, Offset 33183.
 -- 「志貴さま……！
-"Shiki-sama...!
+"Shiki-sama!
 }
 [sha:3f524323b5b22fe099832089bb9429b3b5c9b063]{
 -- Page 10011, Offset 33184.
@@ -694,7 +695,7 @@ That someone is me.
 [sha:402a2ccc928c8f611faabb3a21b807d9ab3e0d24]{
 -- Page 34, Offset 33193.
 -- 「うわあああ――――！！！！！！！」
-"%{i}UWAAAAAH%{/i}――――!!!!!!"
+"%{i}RRRRRAAAGGHHH%{/i}!!!"
 }
 [sha:a9450f48b98cee8230915d748932758269cdd089]{
 -- Page 34, Offset 33194.
@@ -773,7 +774,7 @@ That dream was the memory of the Roa before me.
 -- 部屋に閉じこもって、そのあげくに両親を殺して、自分の住んでいた街を吸血鬼だらけにしてしまった、見知らぬ誰かの、最後の記憶。
 The final memories of someone I don't know――
 someone who walled themselves up in their room――
-someone who eventually ended up killing their parents and transforming their hometown into a town infested with vampires.
+someone who eventually ended up killing their parents and transforming their hometown into one infested with vampires.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 38, Offset 33209.
@@ -809,7 +810,7 @@ Now that I've experienced the feelings of the previous incarnation, I understand
 -- Page 39, Offset 33215.
 -- 俺が死んだところで死ぬのは俺のイシだけで、残ったロアのイシがこの体を完全に操るだろう。
 If I killed myself, my will would be the only thing that died.
- Roa's will would remain, now in full control of the body I ceded to him.
+ Roa's will would remain, now in full control of the body I had ceded to him.
 }
 [sha:7755f1f66800e97a56e8c85322af1d6ceab95e52]{
 -- Page 39, Offset 33216.
@@ -834,7 +835,7 @@ I can hear a woman's voice over the sound of someone banging on the door.
 [sha:cc0f4f473b5171cca557a770363f1cee19d230ae]{
 -- Page 10018, Offset 33220.
 -- ……聞き慣れた声は、どこか知らない異国のコトバのように聞こえた。
-It's a familiar voice, but it sounds like it's speaking in some foreign language...
+It's a familiar voice, but it sounds like she's speaking in some foreign language...
 }
 [sha:caadb885a38bee7d84937bd5470cad303437e8d0]{
 -- Page 41, Offset 33221.
@@ -849,5 +850,5 @@ It's only a wall. One flimsy wall is all that stands between us.
 [sha:f57de78bb1121dc45414e3ded861b85a3b842cae]{
 -- Page 41, Offset 33223.
 -- 今はそれが、もう月と<地|ほ><球|し>の間ぐらい、遠く離れて聞こえていた。
-But right now, they sound as though they're calling to me across the expanse that separates the Earth from the moon.
+But right now, they sound as though they're calling to me across the expanse that separates the Earth from the Moon.
 }

@@ -6,7 +6,7 @@ Still... I'm curious.
 [sha:ab7c5e9423a056f331fa683a16ebb387f03d6400]{
 -- Page 11, Offset 523.
 -- 肩にかけたバッグより、ふと視界に入ってしまった両脚に目がいってしまう。
-More than the bag on her shoulder, I find my eyes drawn to the pair of legs that have slipped into view.
+It isn't the bag on her shoulder that's caught my eye, though――it's the pair of legs that have slipped into view.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 12, Offset 524.
@@ -51,17 +51,18 @@ I heard through the grapevine that at the physical fitness test the other day, s
 [sha:3fb119fd9c7cefd11c2198f275315c090e9f663d]{
 -- Page 15, Offset 532.
 -- 「あのですね、顔が近いというか、その、持ち上げた手の動きが、ですね」
-"Ummm, you know, your face is very close to my... and the movement of your hands..."
+"Um, you know, your face is very close to my... and the movement of your hands..."
 }
 [sha:1b73abde064a7d016b850296d47fac1d1242011f]{
 -- Page 15, Offset 533.
 -- 「すみません。いま真剣な話をしているところなので」
-"I'm sorry. I'm in the middle of a serious conversation."
+// 話 not really literal here imo
+"I'm sorry. This matter is of the utmost importance."
 }
 [sha:3d2be7f674997836ee1b00a10287b105ed039f6d]{
 -- Page 15, Offset 534.
 -- 「は、はあ。真剣、ですか」
-"I-I see. A 'serious conversation', is it?"
+"I-I see... Of the utmost importance, you say..."
 }
 [sha:c1525e940ead793c1e78c430e5452a4646f1d384]{
 -- Page 16, Offset 535.
@@ -76,7 +77,7 @@ Even if I were to somehow obtain the secret of speed itself, there's no way I co
 [sha:c644691cd518c5251e504d6450176124fe8310e9]{
 -- Page 17, Offset 537.
 -- 「あ、いえ、でもですね、何が真剣なのかさっぱり話が見えないというか！」
-"Ah, no, but you see, I have absolutely no idea what you're so serious about!"
+"Ah, no, but you see, I have absolutely no idea %{i}what%{/i} is so important!"
 }
 [sha:667dea372b5327d6853165b84fb007af8b152553]{
 -- Page 17, Offset 538.
@@ -121,7 +122,7 @@ Something just hit you on the head?!"
 [sha:0a1ea8b88d278daa15108b5ba3f7dcfa50cf3d9e]{
 -- Page 20, Offset 546.
 -- 側頭部の痛みをこらえつつ、座席に落ちたモノを手に取る。
-With the side of my head still smarting from the impact, I pick up the object that had fallen onto the seat.
+With the side of my head still smarting from the impact, I pick up the object that has fallen onto the seat.
 }
 [sha:8c61f728a2c3e34616b46279b5a058146656dca6]{
 -- Page 20, Offset 547.
@@ -171,7 +172,7 @@ We stare at each other, reeling from what just happened.
 [sha:7e68b173bb00a3f420e4cafc33ab7446b66ed6e1]{
 -- Page 24, Offset 556.
 -- ともあれ、俺は正気に戻った。
-Anyway, I come back to my senses.
+After a moment's confusion, I come back to my senses.
 }
 [sha:85efaecfb9dc989da481fef75aa28d3b2f357e54]{
 -- Page 24, Offset 557.
@@ -187,7 +188,9 @@ I clear my throat to break the tension.
 -- Page 25, Offset 559.
 -- それよりどうしたんですか？　先輩、部活やってませんよね。こんな時間に登校なんて」
 // similar to 01_00_ARC01_1_2 at this point refer to that file when editing
-More importantly, is something the matter? Senpai, you're not a member of any clubs. Why are you heading to school this early?"
+More importantly, is something the matter?
+ You aren't in any clubs, right Senpai?
+ Why are you heading to school this early?"
 }
 [sha:98450903a33176da0ab46671ff6329a7ff8ba09f]{
 -- Page 26, Offset 560.
@@ -202,7 +205,8 @@ You see, the student council asked for volunteers to pick up trash in the park, 
 [sha:62e909ac036e45d42a7be6ad6590524af3865f8b]{
 -- Page 27, Offset 562.
 -- 言われて、ああ、と合点が行った。
-As she says that, I let out an 'Ah' as everything slides into place.
+// Mildly reformulated, but the interjected 'ah' kinda jank in EN
+Aha. That explanation makes total sense.
 }
 [sha:45c043f83d873c2a5b526a19ee2df85343c56381]{
 -- Page 27, Offset 563.
@@ -249,12 +253,14 @@ Wait... her face, her body, and so many other things are so close that I'm not e
 [sha:c4c693eb19535d18b527284a2f20a83fcc08453c]{
 -- Page 32, Offset 571.
 -- 「い、いえ、そういうワケじゃなくてですね、もし折りたたみ式の箒とか熊手とかなら、珍しいなと……」
-"No, no, it's not that, I just thought that if you have a foldable broom or a rake, that would be unusual..."
+"N-No, that's not it, I just thought that if you had a foldable broom or a rake, that would be unusual..."
 }
 [sha:9c02819d3c7fa796ebb806cf79a8db6deaf39dd2]{
 -- Page 33, Offset 572.
 -- 「ほうほう。わたしの万能<高枝|たかえだ>切り<鋏|ばさみ>も見たいと。よろしい。それでしたら放課後、いつもの茶道部に来てください。貴方なら大歓迎です」
-"%{i}Hoh hoh%{/i}, I see you also want to see my all-purpose long-range pruning shears. Very well. In that case, come by the tea ceremony club after school. You're more than welcome."
+"I see, I see. You also want to see my all-purpose long-range pruning shears, do you?
+ Very well. In that case, come by the tea ceremony club after school.
+ You're more than welcome."
 }
 [sha:506aa919b2d2b5f46f672d95b135f11ba0a6a60c]{
 -- Page 34, Offset 573.
@@ -396,12 +402,12 @@ I was laughing too loud, I guess."
 [sha:bba78143101f62aa92a739b1b777c129511965e5]{
 -- Page 44, Offset 600.
 -- それきり会話はなくなった。
-After that, the conversation ends.
+After that, the conversation peters out.
 }
 [sha:82ac2eee23aebcd9859de316fc60667770f9818c]{
 -- Page 44, Offset 601.
 -- さっきまでの気さくな雰囲気が嘘のようだ。
-It's as though the friendly atmosphere we had experienced up until now had been a lie.
+It's like the friendly atmosphere we had experienced up until now had been a lie.
 }
 [sha:46d7d5848bf8f2622ffde7a204965ddfcae7a044]{
 -- Page 44, Offset 602.
@@ -431,7 +437,9 @@ The station is quiet now, but in an hour, it will be full of people and cars.
 [sha:163330c721df26e9c84ae2bca994216e5dceae5d]{
 -- Page 46, Offset 607.
 -- 「今朝も交通量が少なめですね。最近、街の目覚めが遅い気がします。みなさん夜更かしなんでしょうかねー」
-"There's not much traffic this morning either. It seems like the city is waking up late these days. I wonder if everyone is staying up late."
+"There's not much traffic this morning either.
+ It feels like the city is slow to wake up lately.
+ I wonder if everyone is staying up late."
 }
 [sha:0bb206542d2448e5d59407f587d52eca7014009b]{
 -- Page 46, Offset 608.
@@ -451,12 +459,14 @@ Senpai says something strange while carrying her heavy luggage.
 [sha:eb78dcc874b9139ceef5749d13a1acdac44fba0c]{
 -- Page 48, Offset 611.
 -- では、と笑顔で手を振って先輩は走り去った。
-And so, waving her hand with a smile, Senpai runs off.
+Senpai smiles and waves back at me as she runs off.
 }
 [sha:f6449ffcdfa7c721ccbc40468836b6863dbb4283]{
 -- Page 48, Offset 612.
 -- ばびゅーん、なんて擬音が似合いそうな、それはそれは軽快かつ高速の駆け足だった。
-It's such a light and fast run that an onomatopoeic %{i}boing%{/i} would be appropriate.
+// ばびゅーん kinda a leap/jump onomatope I assume.
+// This sounds kinda painfully J->E if we force the onomatopoeia, so tempted to localize harder instead.
+She's so fast and light on her feet that she reminds me of a frolicking gazelle.
 }
 [sha:3078c583e754768754722519269c195cc751b254]{
 -- Page 49, Offset 613.
@@ -481,7 +491,7 @@ The girl from earlier comes out of the ticket gate.
 [sha:aeea341a4f511ffb4fc82893cb9794ad836f4034]{
 -- Page 50, Offset 617.
 -- 少女は早足でこちらの横を通り過ぎながら、
-She walks past me at a fast pace―――
+She brushes past me at a fast pace―――
 }
 [sha:6b4e21cf8db0205bae6b80faf96385e32a540f05]{
 -- Page 51, Offset 618.
@@ -496,5 +506,5 @@ Don't you feel embarrassed to be acting like that in public?"
 [sha:9bd788662c2c2518e836e7367611497c26c8ac33]{
 -- Page 51, Offset 620.
 -- なんて、強烈なダメ出しを残していった。
-―――and leaves behind some scathing criticism.
+―――And leaves behind some scathing criticism.
 }
