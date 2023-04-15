@@ -222,7 +222,7 @@ In other words――if she realizes that Roa is inside of me,
 [sha:db71c66676816134c0ed7b84dfd412d79ade5131]{
 -- Page 53, Offset 37178.
 -- 「……ロアはもう死んだって言ったのはおまえだろ。
-"Weren't you the one who told me that Roa is already dead?
+"Weren't you the one who told me that Roa's already dead?
 }
 [sha:f3c3b03bc47501036e102a689d34f756187760cf]{
 -- Page 53, Offset 37179.
@@ -337,7 +337,7 @@ But now, there's nothing I can do.
 [sha:9b193021a25ed63452ae3a4a1ecdcfed31d28917]{
 -- Page 60, Offset 37199.
 -- 吸血鬼化した五感が正確に現状を把握してしまう。
-With my senses sharpened by my transformation into a vampire,
+With my senses sharpened by my vampirization,
  I can tell exactly how much peril I'm currently in.
 }
 [sha:94525b344ae52011cdd9c9bca6ffab6dab4b1981]{
@@ -408,7 +408,7 @@ I figured that might be why...
 -- Page 65, Offset 37211.
 -- シエル先輩を庇った事は、アイツにとってそれほどの事だった。……それも仕方のない事だ。
 I guess she really took my decision to help Ciel-senpai personally.
- Well... there's not much I can do about it now.
+ Well, there's not much I can do about it now.
 }
 [sha:399367b0b13c7367c6f1a662c68d21b8f99f1b9b]{
 -- Page 66, Offset 37212.
@@ -547,6 +547,7 @@ And besides, aren't %{i}you%{/i} the liar here?
 -- Page 76, Offset 37236.
 -- 「ええ、もちろん。ロアはわたしが死徒にしたヤツだもの。奪われた自分の力がどこで脈づいているかなんて、簡単に感じ取れる。
 // 脈 tweaked slightly
+// Clarify that the pulsing is of used power, not of existence
 "Why, of course.
  I'm the one who made Roa a Dead Apostle, after all.
  It's easy for me to trace the ripples made by my stolen power.
@@ -555,17 +556,17 @@ And besides, aren't %{i}you%{/i} the liar here?
 -- Page 76, Offset 37237.
 -- 覚えてる？　志貴がわたしに協力すると言ってくれた夜、死者の食堂を壊した後のこと」
 Do you remember what happened the night you said you'd cooperate with me,
- after I'd destroyed the Dead's feasting ground?"
+ after I'd destroyed the Dead's feeding ground?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 77, Offset 37238.
 -- 「――――――」
 "――――――"
 }
-[sha:d1c6b7f916227480889a3df9d70443103f26547f]{
+[offset:37239]{
 -- Page 77, Offset 37239.
 -- ……そうか。
-I see...
+Oh yeah...
 }
 [sha:3333b67da81029d65792f6d02ade8823fdbc559f]{
 -- Page 77, Offset 37240.
@@ -576,6 +577,7 @@ Thinking back on it,
 [sha:ec0cd6621951a104ce346ac6723eaad865a9649e]{
 -- Page 77, Offset 37241.
 -- 既に俺に転移していたロアは、俺がアルクェイドに心を許す度に反発してやがったのか。
+// Maybe cuss this one up, he's being pissy
 Roa had already transferred into me at that point,
  so that must have been him lashing out whenever I grew closer to Arcueid.
 }
@@ -591,7 +593,7 @@ Roa had already transferred into me at that point,
 -- Page 78, Offset 37243.
 -- 「？　……あ、そっか。そういうコトになるのね、志貴から見ると。観察って意味じゃ合ってるから、それでいっか」
 // ? actually voiced
-"Hm...? Ah, right.
+"Hm? Ah, right.
  I guess it makes sense you'd see it that way.
  In the sense that I was observing you, sure——that works."
 }
@@ -702,7 +704,7 @@ Every time Arcueid says his name,
 -- Page 84, Offset 37263.
 -- 人跡未踏の星の深淵。
 // Nasuisms abound
-In the abyss of the planet, by humanity untread———
+In the abyss of the planet, by humanity untrod———
 }
 [sha:dc8dc79e3841dd47e4af548d6c693dfba77dd93b]{
 -- Page 84, Offset 37264.
@@ -718,7 +720,7 @@ There, furthest above the surface, is the deepest inner sea of all―――
 [sha:58539beff8baed658a03ff7c3fffe1743e70a683]{
 -- Page 84, Offset 37266.
 -- もっとも深い内海に囚われていた女の姿。
-And trapped within it, the figure of a woman.
+And trapped within t, the figure of a woman.
 }
 [sha:51a6532c46666c907c52ba2cc9d5c802479141bd]{
 -- Page 84, Offset 37267.
@@ -748,8 +750,9 @@ She knew not words, nor life, nor time.
 [sha:81217682769c38647e5eb5daadb5eac2fd1c3064]{
 -- Page 85, Offset 37272.
 -- 頭上には空を塞ぐ天蓋。
-// See offsets 82, 12823, 32646.
-The firmament seals off the cosmos overhead.
+// See offsets 82, 12823, 32646,
+// except this one doesn't have the ruby construction, so keeping it as just 'sky'
+The firmament seals off the sky overhead.
 }
 [sha:dc26547544a592ea5d59ced3969ac61a8d4420aa]{
 -- Page 85, Offset 37273.
@@ -821,10 +824,10 @@ A memory that will not dim or fade no matter how many reincarnations pass.
 It is what turned the theologian's world on its head——
 the ubiquitous and banal answer to life.
 }
-[sha:d1c6b7f916227480889a3df9d70443103f26547f]{
+[offset:37285]{
 -- Page 90, Offset 37285.
 -- ……そうか。
-I see...
+I get it now...
 }
 [sha:a47d1175aa8a069bb126b423eaf0732a1de0bb40]{
 -- Page 90, Offset 37286.
@@ -894,7 +897,7 @@ It was not a mistake in the eyes of the world―――
 [sha:4a34dab91674c171ba7e88d1fe231deb732d3738]{
 -- Page 92, Offset 37298.
 -- 人としては間違えた選択だった。
-But it was a mistake as a human.
+But it was a mistake as a human being.
 }
 [sha:99e4e219a8fd6ce8a1be6d018ca671c01aeb45a1]{
 -- Page 92, Offset 37299.
@@ -909,8 +912,8 @@ Instead became immortal in order to ensnare the greatest bloodsucker.
 [sha:396c1a851574351c0a5411c8effd202af9fac9c3]{
 -- Page 93, Offset 37301.
 -- ロアは己が吸血種だという事を知らないアルクェイドを<拐|かどわ>かし、自分の血を吸わせ、魂を結びつけた。
-Roa deceived Arcueid,
- who didn't even know that she was a bloodsucker herself,
+Roa had deceived Arcueid,
+ who wasn't even aware that she was a bloodsucker herself,
  and made her drink his blood, binding their souls together.
 }
 [sha:a2df8113b09e32f65155ddca03433bdeef542bc0]{
@@ -930,7 +933,7 @@ In order to achieve this,
 [sha:19e2700fba95531bc5f4b0cf0293c8f06a55a205]{
 -- Page 95, Offset 37304.
 -- ……なんで、わからなかったのか。
-I wonder why he didn't understand...
+How was it that he didn't understand?
 }
 [sha:4367920a478ec3d456353c4d4986c8c674d30461]{
 -- Page 95, Offset 37305.
@@ -947,7 +950,7 @@ Except, it isn't hatred at all.
 [sha:470a472906c0affadaf7bcd279efec865d87f567]{
 -- Page 95, Offset 37307.
 -- ひたすらに命題を究明し続けた男は、人間らしい感情を知らなかった。
-This man who had so single-mindedly devoted himself to his thesis had never known human emotions.
+This man who had so single-mindedly devoted himself to his thesis had never known human emotions―――
 }
 [sha:b06f75f0410c3b2d28adb68df24cc4cccda20469]{
 -- Page 95, Offset 37308.
@@ -1115,14 +1118,14 @@ I can't allow Arcueid to kill me.
 [sha:01be8f4e9cc388384a8c093bf4e494c635600e3f]{
 -- Page 105, Offset 37338.
 -- 貴方はどんな時でも強がりを言っていた。自分の状態を把握した上で、できもしない事を達成する為に、本気で自分の命を使っていた」
-Whatever happened, you always put on a brave front.
+No matter what happened, you always put on a brave front.
  You'd wager your life to achieve things you shouldn't be able to,
  even while fully aware of how bad your situation was."
 }
 [sha:30c2e25dc657d4d59e471d860bb64f24cfd16bc3]{
 -- Page 106, Offset 37339.
 -- 「……うん。だからわたしも確信していたわ。
-"Yeah... That's why I believed in you too.
+"Yeah... Seeing that made me believe in you too.
 }
 [sha:61b85e49f9dfb421ad7add852f05dbfa6145f12b]{
 -- Page 106, Offset 37340.
@@ -1144,7 +1147,7 @@ Her bloodlust now lacks any real animosity.
 [sha:de4db7601bfeecab3726dd922790de2bd6bc1939]{
 -- Page 107, Offset 37343.
 -- 俺を殺すと決めただけで本気になっていない……というより、会話を楽しんでいる節がある。
-I don't think she isn't serious about killing me now that she's decided to do it...
+It's not that she isn't serious about killing me――she's definitely committed to that.
  I think it's more that she's just enjoying our conversation.
 }
 [sha:acdbd34512a2b442adea89c75bbe08df4e3b55fc]{
@@ -1161,7 +1164,7 @@ It's where we promised to work together, and where we'd wait for each other.
 -- Page 108, Offset 37346.
 -- だからアイツも俺も最後の一線を越えていない。この思い出を壊したくないと思っている。
 That's why neither of us have crossed the final line.
- We don't want to destroy those memories.
+ We don't want to sully those memories.
 }
 [sha:b45ce15e5b58dc86a6f8abf6ac3638eca8c0f2a4]{
 -- Page 109, Offset 37347.
@@ -1220,6 +1223,7 @@ You're counting on those Church people, aren't you?
 [sha:ce706e77324efdbf2daa7beeab44e1000767fd75]{
 -- Page 113, Offset 37356.
 -- 「―――わたしが与えた血が、何？」
+// Maybe change emphasis?
 "―――What did you say... about blood?"
 }
 [sha:873d03cb724b51be40bddb79a47aca3905b74201]{
@@ -1259,7 +1263,7 @@ I touched a nerve that I really shouldn't have.
 "Maybe not all of it.
  But sealing and reincarnation are two different things.
  If you seal him now, he'll still be holding on to the power he stole from me,
- but if he's killed and reincarnates, then he stops being able to draw on my power.
+ but if he's killed and reincarnates, then he's unable to draw on my power.
 }
 [sha:7cf42e317dcf10115d0e57033584ba27fb0251b1]{
 -- Page 115, Offset 37364.
@@ -1274,10 +1278,10 @@ It may only be for ten years or so,
 I mean, a human would hate it if someone else started controlling their pinky finger, right?
  Same thing."
 }
-[sha:d1c6b7f916227480889a3df9d70443103f26547f]{
+[offset:37366]{
 -- Page 116, Offset 37366.
 -- ……そうか。
-I see...
+Right...
 }
 [sha:ad0494ba7df8ef523057f66d62065d363a8fe814]{
 -- Page 116, Offset 37367.
@@ -1315,13 +1319,13 @@ It's not a permanent solution; only a temporary band-aid.
 [sha:7f7dd8b317484e10ab61d07e2d22a21997865c1f]{
 -- Page 119, Offset 37373.
 -- 「――――そうかよ。それじゃどうしても―――」
-"Is that right...
- So then, you're really going to do it―――"
+"I get it...
+ So that's it then?
 }
 [sha:659e99a42b10bfab6ce79a92e73e1179ae37ae77]{
 -- Page 119, Offset 37374.
 -- 俺を、殺すっていうのかアルクェイド。
-You're seriously going to kill me, aren't you, Arcueid?
+You're going to kill me, Arcueid?
 }
 [sha:7659b2da7c7bfc0e8d6d4f8d3d8700db788057b2]{
 -- Page 120, Offset 37375.
@@ -1332,7 +1336,8 @@ You're seriously going to kill me, aren't you, Arcueid?
 -- Page 120, Offset 37376.
 -- 貴方の中にいるロアの波動は弱々しいわ。きっとあいつは胎児から始めないと、その人間に成り代われない。
 // P H Y S I C S
-Roa's wavelength is very faint inside of you.
+// 'Wavelength intensity' kinda wrong, changed to something related to his transmission
+Roa's signal is very faint inside of you.
  I'm almost certain that if he isn't a part of someone from the time that they're a fetus,
  then he isn't able to take over completely.
 }
@@ -1473,7 +1478,7 @@ Is it anger born out of despair,
 [sha:8a04f6cb977543e48137293f66eb822629ad3c54]{
 -- Page 129, Offset 37402.
 -- 「わたしの下僕になるのならロアの侵食は止めてあげる。
-"If you become my underling, then I'll stop Roa from encroaching on you.
+"If you become my underling, then I'll stop Roa from corrupting you further.
 }
 [sha:f8915c000ba6d6addee5b845b601bdee3a7e5765]{
 -- Page 129, Offset 37403.
@@ -1618,7 +1623,7 @@ I was thinking I should return the favor at some point."
 -- Page 140, Offset 37429.
 -- 突風と共に白い影が<迫|せま>ってくる。
 A white blur shoots toward me,
-  plowing a gust of wind in front of it.
+ plowing a gust of wind in front of it.
 }
 [sha:ab7c5491b15b6092dc0099532bc389473439e7d3]{
 -- Page 140, Offset 37430.
