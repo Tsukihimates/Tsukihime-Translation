@@ -6,18 +6,18 @@
 [sha:130b5206f203d7841085164a16a192f8e186731b]{
 -- Page 10006, Offset 39073.
 -- ひとりになってから数分が過ぎた。
-I've been all alone for a few minutes now.
+It's been a few minutes since she left me here.
 }
 [sha:fbf1f811d99ad8ee04295dff39d232836b0f3843]{
 -- Page 10006, Offset 39074.
 -- 俺はナイフを手にして、深呼吸を繰り返している。
-Knife in hand, I slowly take deep breaths in and out.
+Readying my knife, I take a few deep breaths.
 }
 [sha:16deccffd72f2e3861b196b21d42f365ae110112]{
 -- Page 10006, Offset 39075.
 -- 微弱な頭痛と、この後にやってくる結末に備えている。
-I brace myself against my faint headache,
- and for the conclusion that is soon to come.
+I'm bracing myself against my light headache,
+ and the fate that soon awaits me.
 }
 [sha:0d7edfda3d9e506effeb22f8c68a07a6b3cd210e]{
 -- Page 244, Offset 39076.
@@ -69,7 +69,7 @@ I won't be able to tell what's going on out there if I'm inside the school build
 [sha:50299b95f455181c4da5713751596cd9e47d301e]{
 -- Page 246, Offset 39085.
 -- 屋上に出れば街の様子ぐらいは見て取れる筈だ。
-If I head out on the roof I should at least be able to get the gist of what's happening in the city.
+If I head out on the roof, I should at least be able to get the gist of what's happening in the city.
 }
 [sha:7f130a4cf1416d8ba5e03ecd2732b9d30862358a]{
 -- Page 247, Offset 39086.
@@ -79,43 +79,40 @@ If I head out on the roof I should at least be able to get the gist of what's ha
 [sha:fc27640184a9eaa943e6b711eb5f580368688182]{
 -- Page 247, Offset 39087.
 -- ……オマエとの決着はその後だ、ロア」
-I'll deal with you after she does, Roa."
+// Pretty much 37908.
+Settling the score with you will have to wait until after, Roa."
 }
 [sha:fa65bff625489321ff79b3cae2fbb390aa82b3a9]{
 -- Page 248, Offset 39088.
 -- その時、俺は成功率の低い綱渡りをする事になる。
 // Basically 37910 + その時、
 When that time comes,
- I'll have to walk a tightrope where the odds are not in my favor.
+ it'll be time for me to roll the dice on an incredibly risky gamble.
 }
 [sha:b409785521ba831653448ee89755a09b8cfe6511]{
 -- Page 248, Offset 39089.
 -- 生き残れる保証はないし、“そんな方法”でいいのかすら自信はない。
 // More or less 37911
-There's no guarantee that I'll make it out alive,
- and I'm not all that confident that it'll even work at all.
+There's no guarantee that I'll make it out alive.
+ Hell, I don't know if that method will even work.
 }
 [sha:959c93782202ff89a7913080674e635b89612a05]{
 -- Page 248, Offset 39090.
 -- それでも、俺にはその可能性しか残っていない。
-But be that as it may,
- it's the only choice I have.
+But be that as it may, it's the only option I have left.
 }
 [sha:1307ac89be988199bbfbfd0fe60330bb0284cfca]{
 -- Page 249, Offset 39091.
 -- “―――その力が、君に有るという事”
-// You guessed it, it's a reference to 00_00 (offset 447).
-// Imperfect quote though
 // LintConsistency:37913
-―――'The fact that you have that power...'
+Somebody once told me―――
 }
 [sha:c7217631b4cebb6c36be9acf3e0ad0784e9f7fae]{
 -- Page 249, Offset 39092.
 -- それには何かしらの意味があって、この力を必要とする時が来ると教えてくれた人がいた。
-// Keep phrasing from 447/8 if possible.
 // LintConsistency:37914
-Someone once told me that there must be some sort of meaning behind it,
- and that there would be a time in my future where I'd need to put it to use.
+'―――The fact that you have those eyes must have some kind of meaning...
+ there will be a time in your future when you'll need them.'
 }
 [sha:21037ec26fe2794dfc480d3f27f0a0716860a2ae]{
 -- Page 250, Offset 39093.
@@ -137,7 +134,7 @@ I swallow my fear and ready myself for what's to come.
 [sha:8150b0afd1b3d15d721dc9ea7b2ed3cbd3b013c7]{
 -- Page 251, Offset 39096.
 -- このナイフはその為に。
-This knife is for that purpose.
+My knife is for that purpose.
 }
 [sha:80931e919dea32014c153779235592b7602565e9]{
 -- Page 251, Offset 39097.
@@ -170,8 +167,8 @@ The buildings――stripped of all meaning and reduced to mere shapes――remin
 [sha:591ceaea25caed58aacf1410db9e3eb7061911d8]{
 -- Page 253, Offset 39102.
 -- <学|こ><校|こ>から１キロほど離れたオフィス街……中央公園のあるあたりに変化はない。
-I don't see any change to the office district a kilometer away...
- to the area around the central part.
+The office district――where the park is located――is only about a kilometer away,
+ but I can't detect anything unusual happening.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 254, Offset 39103.
@@ -193,12 +190,12 @@ During the night, a vampire's eyesight improves dramatically.
 -- Page 254, Offset 39106.
 -- 焦点を<絞|しぼ>れば公園の様子は無理でも、あの付近の様子ぐらいは把握―――
 While the park itself may be out of the question,
- if I squint, I should at least be able to make out its surroundings―――
+ if I squint, I should at least be able to make out its surroundi―――
 }
-[sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
+[offset:39107]{
 -- Page 255, Offset 39107.
 -- 「―――！」
-"―――!"
+"%{i}Ngh%{/i}!"
 }
 [sha:bc07766a0cd4d6228814bf9dabd3be3f5d351ed0]{
 -- Page 255, Offset 39108.
@@ -214,13 +211,13 @@ Ciel has cast the first blow.
 -- Page 255, Offset 39110.
 -- 長距離からの狙撃。一射目は隙を作るための<頭部撃ち|ヘッドショット>。
 She's sniping at her target from a distance.
- Her opening move is a headshot to create herself an opening.
+ Her first shot is to the head, to try and open her opponent up.
 }
 [sha:2635b4f437898ec4293d9cfc82c49d9ba8cc29d8]{
 -- Page 255, Offset 39111.
 -- 次の二射目で胴体を撃ち抜こうとした瞬間、先輩が陣取っていたビルの屋上で爆発が起きた。
 The moment Senpai is about to fire her second shot to pierce Arcueid's body,
- there's an explosion on top of the building where she'sstaken up position.
+ there's an explosion on top of the building where she's taken up position.
 }
 [sha:4776ecea844fc20d76fe89875d86e3ef5e4b0fc1]{
 -- Page 256, Offset 39112.
@@ -231,14 +228,14 @@ It was Arcueid's counterattack.
 -- Page 256, Offset 39113.
 -- アイツは先輩が矢をつがえる一秒の間に、一瞬でビルの屋上に移動しやがった……！
 In the space of the second it took Senpai to nock her next arrow,
- she rocketed all the way up to the top of the building!
+ she rocketed all the way to the top of the whole damn building!
 }
 [sha:5ad7fa8f1c37a6626b898a2afe431fe5b50110e8]{
 -- Page 257, Offset 39114.
 -- 「でも相打ちだ、負けてない……！」
 // Don't love using 'tie' here since it still sounds _settled_,
 // when really it's more like they've each got one blow off / still even / dead heat
-"But they're still one for one,
+"But they're still one for one;
  she hasn't lost yet!"
 }
 [sha:8e8b139b773d29808a623a393971389c2e4d347b]{
@@ -249,8 +246,7 @@ And so, the fight between the two switches over to hand-to-hand combat.
 [sha:395f8fc511e7d032f02f5f1461b00c103562d3f8]{
 -- Page 257, Offset 39116.
 -- 先輩はライフルと杭打ち機を最大限に使用し、街を闊歩するアルクェイドを押しとどめている。
-// I think the prev scene mentioned 2 small arms, so pluralizing ライフル here
-Senpai brings the full force of her rifles and pile bunker to bear in an attempt to halt Arcueid's swaggering advance.
+Senpai brings the full force of her rifle and pile bunker to bear in an attempt to halt Arcueid's swaggering advance.
 }
 [sha:235ce473b21eb019f59dac1f7c286c4422859e0c]{
 -- Page 258, Offset 39117.
@@ -271,7 +267,7 @@ Senpai is fighting as hard as she can.
 -- Page 259, Offset 39120.
 -- ヴローヴとの戦いが準備運動にさえ思える肉体酷使は、文字通り死力を尽くしてのものだろう。
 The way she's pushing the limits of her body makes the fight against Vlov look like nothing but a warm-up.
- It's like she's literally fighting as though her life depends on it.
+ She's literally fighting like her life depends on it.
 }
 [sha:ff0025fdb9da9359a81220ce19199d2b6eef3c59]{
 -- Page 260, Offset 39121.
@@ -287,8 +283,7 @@ Even though Ciel-senpai's assault is so ferocious that it's tearing her own body
 [sha:37bf5101bb98add36fe011dd87baf36460cf3919]{
 -- Page 261, Offset 39123.
 -- 血を吐くような、骨を砕くような一秒が続く。
-// Assuming this is like "each second that passes is as excruciating as having blood spilled, or bone broken, and they DO continue to pass"
-Seconds as painful as spilled blood or broken bone tick mercilessly by.
+The blood-rending――almost bone-breaking moment in time stretches on.
 }
 [sha:493d68b9c3494161d9293f75fbb88220d28c2ab7]{
 -- Page 261, Offset 39124.
@@ -313,15 +308,15 @@ All of these attacks―――
 -- “その失望は間違っている。ここは感動する場面だ。
 // Roa actually got a voice now
 %{i}
-"That disappointment of yours is misplaced.
- You should look upon this display with awe.
+"Your feelings of hopelessness are misplaced.
+ This is where you are supposed to be impressed.
 %{/i}
 }
 [sha:8084980b6c5f418a590e7f0f972a57f567b6636c]{
 -- Page 263, Offset 39128.
 -- 今の姫君に腕を振るわせるとは、称賛にあまりある”
 %{i}
-She deserves no faint praise for managing to force the current Princess to raise her hand against her."
+She deserves no faint praise for managing to display such strength when up against the current Princess."
 %{/i}
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -332,7 +327,7 @@ She deserves no faint praise for managing to force the current Princess to raise
 [sha:8a9fa15dd381b5403b375f7abfc64640c07e91bc]{
 -- Page 264, Offset 39130.
 -- 突然の声に思考が止まる。
-A voice suddenly interrupts my thoughts.
+The sudden voice halts my train of thought.
 }
 [sha:2210d5d0c3212284fd41732521b42f84759697ff]{
 -- Page 264, Offset 39131.
@@ -342,28 +337,28 @@ There's no one around me.
 [sha:9e0fb5026add0807911423353d45b836fca9fb05]{
 -- Page 264, Offset 39132.
 -- 簡略化された街では喧噪もノイズもない。
-There's no hubbub or other noise coming from the abstracted city, either.
+There's no hubbub or other noise coming from the simplified city, either.
 }
 [sha:76baa16bf6fa05acda3aea99a9010b6f6bc7ec80]{
 -- Page 264, Offset 39133.
 -- そもそも、この声が何であるか考えるまでもない。
-Not that I ever had any need to guess where this voice is coming from.
+Not that there was ever any question as to whose voice this is.
 }
 [sha:117989d8d59b9b0823143f978f39aa32849deffb]{
 -- Page 264, Offset 39134. Mods: @n.
 -- 俺の脳にのみ走る信号であるのなら、
 // Manually linebroken across @n
-If it's a signal that only exists within my own brain,
+If it's a signal transmitted solely within my own
 }
 [sha:f92d45744c128d2efe4c78b8f3a163c87bb591e2]{
 -- Page 264, Offset 39135.
 -- それは、ヤツの意識に他ならない。
-then the only thing it can be is that guy's consciousness.
+brain, then it can't be anything other than guy's consciousness.
 }
 [sha:e2bbf4e9673eeec95d98168c6462b502820ec8f3]{
 -- Page 265, Offset 39136. Mods: @n.
 -- 問題は、それが今になって“明確な<言|こ><葉|え>”になった事だ。
-The problem is that by now it's grown into a voice I can clearly hear.
+The issue is more that it's now grown into a voice I can actually hear.
 }
 [sha:93ffb39579ba601244885938ea7370da1acc7e25]{
 -- Page 265, Offset 39137.
@@ -378,7 +373,7 @@ I probably should have assumed this time would come.
 [sha:a0cc57e5f95f74387902d00e064cc3afb049ceba]{
 -- Page 266, Offset 39139.
 -- こんなヤツを相手にしている場合じゃない。
-Now isn't the time to concern myself with him.
+Whatever, I don't have time to deal with him right now.
 }
 [sha:692de5fe1588ada501859f236b6749b78de0d550]{
 -- Page 266, Offset 39140.
@@ -409,28 +404,28 @@ She may make a big deal about how she can't die,
 -- Page 268, Offset 39144.
 -- いいかげん黙ってろ、おまえに先輩の何が分かる……！」
 Just shut up already!
- You don't understand the first thing about Senpai!"
+ You don't know the first thing about Senpai!"
 }
 [sha:606f993960e627ef8a370d0de08e8c86b5bbeca1]{
 -- Page 269, Offset 39145.
 -- 混濁した自分自身の妄想に怒鳴りつける。
-I yell at the delusion that lurks in my own chaotic consciousness.
+I yell at the phantasmal voice that lurks in my own chaotic consciousness.
 }
 [sha:a5bdc744649ae60a2234275080342745125b4808]{
 -- Page 269, Offset 39146.
 -- 先輩がどれほど苦しもうとコイツには関係のない話だ。
-This guy doesn't care at all about how much Senpai suffers.
+This asshole doesn't care at all about how much Senpai might suffer.
 }
 [sha:80bd76e8f3d2db8380d11a1f0836f49738748506]{
 -- Page 269, Offset 39147.
 -- だがヤツは、そんな俺に向けて、真剣な感情を返してきた。
-And yet, his reply to me comes in all earnestness.
+Unexpectedly, his reply to me comes in all earnestness.
 }
 [sha:6f2669a0c6dcc25e06f881552d656e0e6d5affb9]{
 -- Page 270, Offset 39148.
 -- “状況を把握していないのはそちらの方だ。
 %{i}
-"It is you who does not understand.
+"I'm afraid it is you who does not comprehend the situation.
 %{/i}
 }
 [sha:f40beed8ffd956e006459d50855ee0dea35950e9]{
@@ -454,7 +449,7 @@ Prompted by a voice that is mine but not my own,
 [sha:ca66e1e559c597cfcf3b747e59035a811af48d38]{
 -- Page 271, Offset 39152.
 -- 「―――なんだ、あれ」
-"What the hell... is %{i}that%{/i}?"
+"What... is %{i}that%{/i}?"
 }
 [sha:90abb64d1a2a2e263506916952b83ce0187dce6d]{
 -- Page 271, Offset 39153.
@@ -465,5 +460,7 @@ Fifty kilometers above the ground,
 [sha:82c93409812ba6ea8a79755835da267b845d0414]{
 -- Page 271, Offset 39154.
 -- 太陽光を受けて燃え盛る<車|ほ><輪|し>の連なりは、断頭台の刃のようだった。
-The row of stars, blazing bright as sunlight, look like the blade of a guillotine.
+The row of <stars|w h e e l s   >,
+ blazing bright as sunlight,
+ look almost like the blade of a guillotine.
 }
