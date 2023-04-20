@@ -156,7 +156,7 @@ My situation hasn't improved at all.
 [sha:1b33f76678222c222ae7490b2cff5682d4fa8cbc]{
 -- Page 151, Offset 37460.
 -- 「は――――あ、あ」
-"%{i}Gah%{/i}――%{i}ah%{/i}, %{i}ah%{/i}."
+"%{i}Gah%{/i}――%{i}haah%{/i}... %{i}haah%{/i}."
 }
 [sha:4489656b75af1288795bd767c1447b2f43279e38]{
 -- Page 151, Offset 37461.
@@ -196,7 +196,7 @@ Damnit...
 -- Page 153, Offset 37467.
 -- 「本当に強情ね。それだけの強さがあるんなら、さっさとロアを殺してしまえばよかったのに」
 // Needs to be a fairly literal 強さ here since this gets riffed on later in the file
-"You really are stubborn, aren't you.
+"You really are stubborn, aren't you?
  If you had that kind of strength, you should have just killed Roa and been done with it."
 }
 [sha:32e58e014ab92de413b177d7986cb02edbdddb6e]{
@@ -269,9 +269,9 @@ And besides―――
 [sha:73e58d18ec81284b7cefdf31a57b8354d6949a48]{
 -- Page 158, Offset 37481.
 -- 死にたくないから、生き物として弱いから、俺はこんなところまで、きちまったんだろ」
-But because I'm afraid――
-because I'm a weak creature――
-I've let things get this far."
+But %{i}because%{/i} I'm afraid――
+%{i}because%{/i} I'm a weak being――
+I've managed to survive this far."
 }
 [sha:854eb8efbe2f88f2f87c9e0112e152b36e6a9a0d]{
 -- Page 159, Offset 37482.
@@ -341,7 +341,7 @@ It sounded more like she was trying to hint at something incredibly important fo
 [sha:fbbcfa735e301690d6f2140b49ae4f8edbf746b5]{
 -- Page 163, Offset 37493.
 -- 「貴方がその眼をもう一段階深く理解すれば、魂だけを仕留める事だって出来る。
-"If you took your understanding of your eyes to the next level,
+"If you took your understanding of those eyes to the next level,
  you'd be able to kill a soul directly.
 }
 [sha:7d482e4d599b432b594dfc726927b9e3ffe9c16b]{
@@ -548,7 +548,7 @@ I can't retreat backward, or to the side.
 [sha:2a15b7427f4872d8a89ab8c55abf79c1e02bcce4]{
 -- Page 175, Offset 37529.
 -- 逃げ場があるとすれば、それは―――
-If there's somewhere I can retreat, it's―――
+There's only one direction I can go, and that's―――
 }
 [offset:37530]{
 -- Page 176, Offset 37530.
@@ -632,7 +632,7 @@ As a result, I slam into the ground back-first, and then―――
 -- Page 180, Offset 37545.
 -- 地面に落ちた無様なズタ袋に追い打ちがかけられる。
 // 無様なズタ袋 is uhhh pretty awkward to work with
-Even after sending me sprawling on the ground like a discarded sack,
+Even after sending me sprawling on the ground like some discarded luggage,
  she wastes no time in delivering her followup.
 }
 [sha:66a4f32284920b443eb955092b60231a5184e98a]{
@@ -660,8 +660,8 @@ It doesn't even take five hits before I'm completely out of ways to defend mysel
 [sha:f3d29215899c6df0ee4c0f88e483323ea29550f0]{
 -- Page 182, Offset 37550.
 -- 当然だ。馬鹿なのは俺だけだった。
-It's only to be expected.
- I was the fool here.
+What did I expect?
+ I'm the idiot here.
 }
 [sha:b72ef8a4ebff9a5cdc25ea40638926f2dbf2c656]{
 -- Page 182, Offset 37551.
@@ -697,8 +697,9 @@ I didn't even have a chance to get a handle on my new abilities,
 -- Page 184, Offset 37556.
 -- そんな状態で、こんな、むき出しの感情をぶつけてきている白い吸血姫相手に、勝てる道理は無かったのだ。
 // Assuming 状態 is _his_ state of unpreparedness, not the general circumstances
+// Replace all of the 吸血_姫_?
 In my unprepared state,
- I never stood a chance against this vampire princess in white,
+ I never stood a chance against this vampiress in white,
  and the raw fury of her unbridled emotions.
 }
 [offset:37557]{
@@ -804,7 +805,7 @@ Even though we're so close that we're almost embracing each other,
 [sha:12f82237af11729a726e7d223120ad37fa31a878]{
 -- Page 192, Offset 37576.
 -- 「……なんだよ。もういいだろ、ひと思いに始末しろよ。
-"What? It's fine, just get it over with already.
+"Come on. What are you waiting for? Just get it over with already.
 }
 [sha:2e63c6c2dd584914e1d236ab6bd54d2a4ccf755d]{
 -- Page 192, Offset 37577.
@@ -904,13 +905,13 @@ Her red eyes tell me that's why she's not going to kill me.
 -- 「信じられないけど、私は貴方が好き。大好き。だから助けてあげる。血も吸わないし、志貴の嫌がることは決してしない」
 "It's hard to believe, but I like you.
  I love you.
- That's why I'll save you.
+ So I'm going to save you.
  I won't suck your blood, and I won't make you do anything you don't want."
 }
 [sha:0dc384292424ee26a5fccc0863a1202d08dd91a5]{
 -- Page 200, Offset 37595.
 -- だから言うことを聞いて、と紅い瞳が語ってくる。
-Her red eyes beg me to listen to what she has to say.
+Her red eyes beg me to just do as she says.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 201, Offset 37596.
