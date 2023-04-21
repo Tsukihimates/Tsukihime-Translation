@@ -1,31 +1,29 @@
 [sha:54c2f06468f136622bb48c8853ab971baeb274ca]{
 -- Page 10002, Offset 39567.
 -- 学校の敷地から出た時点で、世界はもう俺の知っているものではなかった。
-By the time I leave the school grounds,
- the world has transformed into something completely unrecognizable.
+As soon as I leave the school grounds,
+ the world becomes something completely unrecognizable.
 }
 [sha:912ec8aa09bd479bbb82edc6f8e05f187c73e6b6]{
 -- Page 10002, Offset 39568.
 -- 上空には強い風のうねり。
-A fierce wind is building in the sky.
+Fierce gusts of wind dance in the sky above.
 }
 [sha:74b9731816806f5afceb8e13a8cd1ef7597388f3]{
 -- Page 10002, Offset 39569.
 -- 嵐の予兆を思わせる気圧の乱れ。
-Wild swings in the atmospheric pressure herald an oncoming storm.
+The atmospheric pressure is fluctuating wildly, as though a storm was coming.
 }
 [sha:f838ec033124b94e13c44a1331827f8b2d94066b]{
 -- Page 10002, Offset 39570.
 -- 肌に触れる大気は瑞々しく、まるで熱帯夜にいるようだ。
-// Not sure exactly what he means by 瑞々しい here.
-// I guess 'electric'? In that it's high strung, lively? 'Juicy', 'fresh' don't seem right here.
-The air that brushes against my skin is hot and electric,
- like it's a sweltering night in the tropics.
+// みずみず as in actually just "watery", "humid"
+The air brushing against my skin is hot and humid as a night in the tropics.
 }
 [sha:2777807975781cfefc65eba3f372c7e44c78e355]{
 -- Page 67, Offset 39571.
 -- その異常についての考察を止めて、光の中心を目指す。
-I put this abnormality out of my mind,
+I put the atmospheric anomalies out of mind,
  and set my sights on the center of the light.
 }
 [sha:ce3bd5d821b1cd93710a90620d6cde886d44bbc3]{
@@ -33,20 +31,20 @@ I put this abnormality out of my mind,
 -- 未知のものは怖ろしい。せめてアレがなんであるかの予測ぐらいは立てたいが、ひりひりと焦げる肌が、そんな時間はない事を感じ取っている。
 The fear of the unknown is real.
  I'd have liked to at least take a guess as to what that thing really is,
- but the prickling sensation of my skin burning tells me I don't have the time for that.
+ but the blistering sensation of my skin burning tells me I don't have the time for that.
 }
 [sha:04a1fb5e0206e60c425431e0d62dd9933f934ec7]{
 -- Page 68, Offset 39573.
 -- 『このまま無策で突撃する気とは。凄いな』
 %{i}
-"You intend to charge straight in without a plan? How bold."
+"You intend to charge straight in without a plan? Bold."
 %{/i}
 }
 [sha:37185986188eb3bbd28418a469b35cd1b9ad6e1f]{
 -- Page 68, Offset 39574.
 -- 「無策で悪いか！　何をするにしろ、まずは近寄らないと話にならないだろう！？」
-"So what if I do!
- I have to get in close no matter what I end up doing, right?!"
+"So what if I do?!
+ Even if I had a plan I'd still have to get close, right?!"
 }
 [sha:0c3faff30848cdffc5c4eb98809144c4761e0d07]{
 -- Page 69, Offset 39575. Mods: @k, @e.
@@ -59,7 +57,7 @@ The fear of the unknown is real.
 -- Page 69, Offset 39576.
 -- 光体まで目測で800メートル。
 %{i}
-Eight hundred meters separate you from the Luminary.
+I estimate eight hundred meters separate you from the Luminary.
 %{/i}
 }
 [sha:6c4d0ededa6e0001725eaaa98294daf5b2602bd3]{
@@ -73,7 +71,7 @@ As you are now, you could cover that distance in a single minute.
 -- Page 69, Offset 39578.
 -- 既に１分は走っている事について、何か質問は？』
 %{i}
-So have you not pondered how it is you've been running for over a minute already?"
+Given that, doesn't the fact that you've been running for over a minute puzzle you?"
 %{/i}
 }
 [sha:3220f4d71a67a592ee39dc2a7f65f66f2ccc96e9]{
@@ -89,49 +87,47 @@ Now that Roa's pointed it out, I see the issue.
 [sha:d917aa3d52ed68b809819895975b299beb828279]{
 -- Page 70, Offset 39581.
 -- 実際の街の広さと、今の街の広さは違っている……!?
-The size of the city no longer matches reality?!
+The size of the city... no longer matches reality?!
 }
 [sha:fa48e4a2b63f08c1b2868f4053718d6eb37afce0]{
 -- Page 71, Offset 39582. Mods: @k, @e.
 -- 『光体化の影響だ。事象収納によってこの街は
 %{i}
-"A side effect of her transformation into a Luminary.
+"It's because of her Luminarification.
 %{/i}
 }
 [sha:bb08be2d3b3b4e4d6e30fa47bf8d3ea7e7b40676]{
 -- Page 71, Offset 39583.
 -- 不確定の世界になりつつある。
 %{i}
-Due to her Event Storage, this city is turning into a world of uncertainty.
+Due to her Event Storage, this city is steadily turning into a world of uncertainty.
 %{/i}
 }
 [sha:df55093f1c95208425051e2f1476566ad8dc08c3]{
 -- Page 71, Offset 39584.
 -- 世界の中心にして最奥である彼女に近寄る事は困難だ。
 %{i}
-As she is the very center of this world,
- it will be difficult to approach her.
+As its central depths, approaching her is difficult.
 %{/i}
 }
 [sha:1b73f95fa3402621025b1256f0465244c5bc8f77]{
 -- Page 71, Offset 39585. Mods: @k, @e.
 -- 世界そのものが彼女を尊重し、
 %{i}
-The very world itself respects her―――
+Out of respect, the very world distances itself from her―――
 %{/i}
 }
 [sha:872c92bf7d4ed89cc0d7a6606802dfed7f1551fe]{
 -- Page 71, Offset 39586.
 -- 彼方に遠ざけようとしているのだろう』
 %{i}
-I believe it is trying to keep you away from her."
+Retreating toward the beyond, or so I presume."
 %{/i}
 }
 [sha:572a56c4b3d1a853c9ae49d558aacb28dd6cafb8]{
 -- Page 71, Offset 39587.
 -- 「ああもう、言い方！」
-// Maybe that should be Japanese? I dunno
-"Oh come on, in English, please!"
+"Oh come on, what the hell does that mean?!"
 }
 [sha:b7c158cc9259e220399268c15519bbe5a2dc47a8]{
 -- Page 71, Offset 39588.
@@ -189,10 +185,8 @@ The hell was that?
 [sha:400e77290c201e5f3f20ac2094350fd5f87b1df4]{
 -- Page 74, Offset 39597.
 -- 表層意識ですらない。
-// Kinda weird, interpretation informed by
-// https://jyotidesign.jimdofree.com/2014/08/30/%E8%A1%A8%E5%B1%A4%E6%84%8F%E8%AD%98-%E3%81%A8-%E6%B7%B1%E5%B1%A4%E6%84%8F%E8%AD%98-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/
 %{i}
-Beyond her conscious thought.
+This isn't even her surface consciousness.
 %{/i}
 }
 [sha:f1d3d586266266c113dd189963229f29e69b3a68]{
@@ -222,8 +216,7 @@ I'm glad to hear it,
 [sha:d74c9362b3123ec77e04b40fde0ba997f0682f52]{
 -- Page 75, Offset 39602.
 -- 以前の俺であれば躱す事もできず体を二つに分けられていた風圧は、この世界においては自然現象にすぎないという事だ。
-// lint-off:LintDupedWord
-It basically implies that that wind pressure,
+It basically implies that the wind pressure,
  which would have sliced me in two if I weren't half-vampire,
  is an unremarkable natural phenomenon in this world.
 }
@@ -235,12 +228,12 @@ It basically implies that that wind pressure,
 [sha:89a321d4d7448331cd5add9f96712ca7423c4bc6]{
 -- Page 76, Offset 39604.
 -- ただ踏み入るだけで、生命の危機に陥る。
-I'm taking my life in my hands just by setting foot in her domain.
+I'm risking my life just by setting foot in her domain.
 }
 [sha:7e61cc062f5ac08edb9c58443e51ecbfc072875c]{
 -- Page 76, Offset 39605.
 -- 激流に巻きこまれ、木っ端微塵になる憐れな人形のように。
-Like I'm a pitiful doll that's been swept up in a raging river and torn to pieces.
+As if I'm a pitiful doll being swept up in a raging river and torn to pieces.
 }
 [sha:604a21e061dc5d795211919f4d1789e4f75861c5]{
 -- Page 77, Offset 39606.
@@ -274,7 +267,7 @@ The closer you get to the Luminary, the greater the danger.
 -- Page 77, Offset 39610.
 -- 並の死徒であればここが限界だと忠告しておく』
 %{i}
-I will say now that if you are an unremarkable Dead Apostle, you will go no further."
+Let me warn you: this is as far as the average Dead Apostle gets."
 %{/i}
 }
 [sha:4014532e7344aa2c01b449851fa020dcc116b81c]{
@@ -289,7 +282,7 @@ I will say now that if you are an unremarkable Dead Apostle, you will go no furt
 -- Page 78, Offset 39612.
 -- 領域侵犯には至っていない。
 %{i}
-We still have yet to violate her territory.
+We have yet to intrude on her domain.
 %{/i}
 }
 [sha:23ba141a37c47b5098b49f9c421aa83e548f0faa]{
@@ -302,7 +295,7 @@ However――if you decide to advance any further..."
 [sha:5a78df426a6e65315902a29ce6779a2e42a01b45]{
 -- Page 79, Offset 39614.
 -- 本格的に対処される、という事か。
-Then that's when she'll deal with me in earnest, huh?
+Then that's when she'll deal with me in earnest.
 }
 [sha:dece492745fef86bd1d34fb0f2c346e33db3a3be]{
 -- Page 79, Offset 39615.
