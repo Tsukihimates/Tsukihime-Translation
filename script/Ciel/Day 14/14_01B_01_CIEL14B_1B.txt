@@ -394,8 +394,6 @@ The man in my head extols this inscrutable phenomenon.
 -- Page 62, Offset 38511.
 -- “これこそは真祖の力。星の触覚として地表を思うままに作り変える空想具現化。
 // Similar to what he says when reincarnated as SHIKI in 32577.
-// Was going to italicize all this Roa text, but it fucks up the engine
-// somehow to have this much italics on a page (thinks they're doublewide chars still?)
 %{i}
 This is the power of a True Ancestor.
  As the planet's sense of touch,
@@ -405,7 +403,7 @@ This is the power of a True Ancestor.
 [sha:5b1fe55ccccb786518bd08b3e6fe08942148ec27]{
 -- Page 62, Offset 38512.
 -- もうこの街はおしまいだ。この領域はおしまいだ。建物も生き物も変換される。四次元から二次元に潰されて呑み込まれる。事象変換から事象収納。その後に来るものはおまえたちを見限って移り変わった星の内海。讃えよ。畏れよ。跪き死に備えよ。さあ―――あともう一押しで、<お|・><ま|・><え|・><の|・><世|・><界|・><が|・><裏|・><返|・><る|・><ぞ|・>！”
-// Push this to a second page
+// Moved to new page
 %{i}
 This city is already done for.
  This entire region is done for.
@@ -422,7 +420,6 @@ This city is already done for.
 [sha:90fd714f7d010aef683042a5e455aa482d3f0e3d]{
 -- Page 63, Offset 38513.
 -- 「アル―――クェイド」
-// Delete forced linebreak
 "Ar――cueid."
 }
 [sha:04d1535208e1f2bf29b305082ed88649b90379f2]{
