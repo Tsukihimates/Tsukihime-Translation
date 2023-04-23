@@ -2364,7 +2364,7 @@ How shall I spend my afternoon?
 -- 中庭を散歩してみよう。
 // Reference 42632.
 // @flowchart_title
-I walk around the courtyard
+I walk around the gardens
 }
 [sha:127756691d8da4a83482bf06bd603d5dba9f8829]{
 -- 館内を観覧してみよう。
@@ -4736,7 +4736,7 @@ Two hours have already passed since Vlov's demise.
 [sha:571743a1551889624f42684e127a70bc8a5794d3]{
 -- 自室のベッドで目覚めた。^傷は深く歩くのも辛い。^でも、命を繋ぐ事が出来たのだ。
 // @flowchart_descr
-I wake up in mu own bed.
+I wake up in my own bed.
  My wounds are deep, and I can barely walk.
  But at least I made it out alive.
 }
@@ -4802,7 +4802,7 @@ I've finished lunch, and it's now the afternoon.
 -- 庭を散歩する事にした。^戻ってから庭園には出ていない。^七年ぶりに様子を見に行こう。
 // Reference 14539.
 // @flowchart_descr
-I decide to go for a stroll around the yard.
+I decide to go for a stroll around the gardens.
  I haven't seen it since I came back.
  I wonder what's changed over the past seven years?
 }
@@ -4868,7 +4868,7 @@ My medical exam ends without incident.
 [sha:3f21e9c8b524385641911b42e8d2f797a50e32f1]{
 -- 七年ぶりに庭を歩きながら、^ここ数日の出来事を思う。^あれから二人はどうなったのか。
 // @flowchart_descr
-As I wander through the gardens for the first time in seven years, I think pack on the events of the last few days.
+As I wander through the gardens for the first time in seven years, I think back on the events of the last few days.
  I wonder what those two are up to now?
 }
 [sha:b499e565f6814b0b745550b7471405240b8f5861]{
@@ -4899,8 +4899,8 @@ Even when I close my eyes, I can still see Senpai.
 [sha:fc88a4a9a50e0f8e21b7425ce1e8a52c09ffa52e]{
 -- ロアという名の男は死んだ。^この街を脅かす者はもういない。^――いない、筈だった。
 // @flowchart_descr
-The man named Roa is dead.
- With that, the city is free of threat.
+The man named Roa is dead.^
+With that, the city is free of threat.
  Or at least... it should have been.
 }
 [sha:912135b47057525b05418fe8d9e95164945a3a7c]{
