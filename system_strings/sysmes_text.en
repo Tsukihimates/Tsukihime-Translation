@@ -4953,87 +4953,136 @@ With that, the city is free of threat.
 }
 [sha:912135b47057525b05418fe8d9e95164945a3a7c]{
 -- 吸血鬼殺人はもう起こらない。^すべては平穏な日常に。
-There will be no more vampire^murders. Our lives will be^peaceful once more.
+// @flowchart_descr
+There won't be any more vampire murders.
+ We can all return to our ordinary, peaceful lives.
 }
 [sha:72ce2d855bf0cb192c08cab8342628433d8fb88b]{
 -- 正門前に白い女の姿はない。^「あちら側」に戻った彼女とは、^二度と交わる事はないのだろう。
-There's no sign of the woman in^white at the main gate. She has^returned to her own world, and I^will probably never meet her^again.
+// @flowchart_descr
+There's no woman in white waiting for me at the main gate.
+ She has returned to her world, and I will never cross paths with her again.
 }
 [sha:4561c3a1554f83c59ee011ee53b27c26218c9027]{
 -- 新たな吸血殺人のニュースが。^事件は終わってはいない……？
-More vampire murders have been^reported. Is this case not yet^over...?
+// @flowchart_descr
+There's been news of another vampire murder.
+ Is this case not actually over yet?
 }
 [sha:620a6842d5edf06ca69f64ab2be2b7503d03b896]{
 -- ヴローヴは死んだ筈だ。^残る吸血鬼はただ一人だけ。^アルクェイドを捜さなければ。
-Vlov is supposed to be dead.^Only one other vampire remains.^I must find Arcueid.
+// @flowchart_descr
+Vlov's definitely dead.
+ There's only one other vampire I know of in this city.
+ I need to find Arcueid.
 }
 [sha:1817891b0115f17d8edce65404dc70a7b67e1d70]{
 -- 屋敷に戻ってきた。^落ち着いて整理してみれば、^何か思い出せる事もあるだろう。
-I'm back at the mansion. If^I calm down and organize my^thoughts, I may be able to^remember something.
+// @flowchart_descr
+I've arrived back at the mansion.
+ If I calm down and think through what I know, I might be able to remember something.
 }
 [sha:b218dc9244dec573cc0acf627d104e2f88e6bb0d]{
 -- アイツとはすれ違いで出会った。^偶然に頼らないのであれば、^勘と足を使って探すしかない。
-The first time I met her was^in passing. If I can't rely on^chance, I'll have to rely on my^intuition and search for her on^foot.
+// @flowchart_descr
+It was only by chance that I met her the first time.
+ I can't count on being so lucky again――I'll have to rely on my intuition and my legs to track her down.
 }
 [sha:87ba6b5ea1baffef5f2a19e3f6293e0b54625d15]{
 -- いつまでも子供扱いは良くない。^話せば分かってくれる筈だ。^ここはむしろ堂々と中に入ろう。
-I can't keep treating her like^a little kid forever. If I talk^to her, we should be able to come^to an understanding. Rather, I^should make a bold entrance.
+// @flowchart_descr
+I can't keep thinking of her like a little kid forever.
+ I'm sure she'll understand if I tell her what's going on.
+ I should walk in there like I have nothing to hide.
 }
 [sha:58b1516608dbddb40d13399d7d31f83ad0d3be92]{
 -- 大人も逃げ出す迫力がすごい。^冷静なようですが、当主様は^めっちゃ大人げないのである。
-Her ability to make even adults^cower in fear is amazing. Though^she may seem calm, the family^head is still really immature.
+// @flowchart_descr
+Her ability to make even adults cower in fear is amazing.
+ She may act composed, but she's actually still seriously immature.
 }
 [sha:0927230c21fb2e4cac057f283360643b48cfc127]{
 -- 居間からは異様な気配がする。^現れた翡翠は無表情のままで、^来客がある事を告げてきた……。
-I feel a strange atmosphere^emanating from the living room.^Hisui appears, and stoically^informs me that I have a^visitor...
+// @flowchart_descr
+I feel a strange atmosphere emanating from the living room.
+ Hisui appears, and stoically informs me that I have a visitor...
 }
 [sha:a99791ed1bba7f36014f61431c1ce34fab49e482]{
 -- 必死の思いで屋敷を脱出した。^後の事を考えると恐ろしいが、^今はこの女に話を聞かなければ。
-I've made my desperate escape^from the mansion. I shudder to^think what's in store for me^later, but I need to talk to^this woman now.
+// @flowchart_descr
+In desperation, I escape from the mansion.
+ I shudder to think what's in store for me later,
+ but right now I need to clear some things up with this woman.
 }
 [sha:436e64dc6947ba249cda94eb5a1ed82f16a6d52b]{
 -- 吸血鬼事件について^アルクェイドを問い詰める。^真相はあまりにも単純だった。
-I question Arcueid about the^vampire incidents. The truth^is much too simple.
+// @flowchart_descr
+I confront Arcueid about the vampire incidents.
+ The truth proves painfully simple.
 }
 [sha:eeb32f4d3bdf9486e744f07ff3132798a206d0da]{
 -- 不死を狩るアルクェイド。^死徒によって汚染された街の^状況を改めて知らされるが……。
-Arcueid hunts the Undead.^I am once again struck by the^state of the city, infected by^the Dead Apostles...
+// @flowchart_descr
+Arcueid hunts the Undead.
+ It's driven home to me just how deep the Dead Apostles have wormed their way into the city...
 }
 [sha:09c033f62179624b9d27e1c164890ffa9cddf217]{
 -- 人間としてどうかと思うが、^もうどうしようもないので^アルクェイドに協力を申し出る。
-I know a human shouldn't^think like this, but I can't^help but offer to cooperate^with Arcueid———
+// @flowchart_descr
+I know this probably isn't the right call as a human being,
+ but I don't know what else I can do,
+ so I offer to cooperate with Arcueid.
 }
 [sha:7770710e1959069626b4eb62e6f525c145f7fb77]{
 -- 夜の探索を始めよう。^アルクェイドの提案を受け入れ、^眼鏡を外したまま街に出るが――
-We're starting our nighttime^investigation. I take Arcueid's^suggestion and head out into the^city without my glasses on.
+// @flowchart_descr
+It's time to commence our nighttime investigation.
+ At Arcueid's suggestion, I take off my glasses before heading out in to the city.
 }
 [sha:81df8297b7034c80dd2845cb86d2313d5b6efcbf]{
 -- もう少し話をしていこう。^吸血鬼退治をすると決めた以上、^まだ知らない事が多すぎる。
-I'll talk to her a little more.^I've decided to help her^exterminate vampires, but there's^too much I still don't know.
+// @flowchart_descr
+I'll talk with her a little longer.
+ I've committed to helping her exterminate vampires, but there's still a lot I don't know.
 }
 [sha:b139cdb0c2e01af955af51133e7d8a1e4c8f1988]{
 -- やはり吸血鬼の知識が必要だ。^吸血鬼と、下僕の死者たち。^関係性を詳しく聞いておこう。
-I need to know more about^vampires, as well as the Dead^that serve them. I'll ask her^to explain how they relate to^each other.
+// @flowchart_descr
+I need to flesh out my understanding of vampires.
+ I'll ask her more about the relationship between vampires and the Dead that serve them.
 }
 [sha:9e33c186859d93157ced4669ae51a6400c683270]{
 -- 吸血鬼の事はホテルで聞いた。^さらに踏み込んだ質問……^二十七祖とは何なのだろう。
-I heard about vampires at^the hotel, so I'll ask a more^in-depth question... Who are^the Twenty-Seven Ancestors?
+// @flowchart_descr
+I already heard the basics about vampires back at the hotel.
+ It's time to dig deeper...
+ Who are the twenty-seven Ancestors?
 }
 [sha:6f37a5a17427f6b1e3ffbf70d841d7588f73ee3f]{
 -- これは絶好のチャンスだ。^さりげに気になっていた事……^あのドレスをもう一度。
-This is the perfect chance. I'll^ask about what's been on my mind^——could you show me that dress^again?
+// @flowchart_descr
+This is the perfect chance.
+ I'll casually bring up the one thing that's been top of mind: that dress of hers.
 }
 [sha:0dee2d7dc315fefe66c78eaac407a7d5520cdfa5]{
 -- 時刻は約束の零時を回っていた。^今夜の探索はここまでだ。^次の約束をして、今は別れよう。
-It's past midnight; the time we^promised to adjourn. We'll end^our search here for tonight.^Making another promise, we part^ways.
+// @flowchart_descr
+It's already past midnight; the time we'd promised to adjourn.
+ We'll end our search here for tonight.
+ Promising to meet again, we part for the time being.
 }
 [sha:3c3359c18e1e9e513e84516a37b2023446a0bc3b]{
 -- 日付は変わってしまった。^明日の約束を交わして、^それぞれの居場所へと戻ろう。
-It's already tomorrow. Making a^promise to meet again, we return^to our homes.
+// @flowchart_descr
+It's already tomorrow.
+ Promising to meet again tomorrow, we return to our respective homes.
 }
 [sha:7302be177e06ca787f94291eee78ce958e5e382d]{
 -- 忍び込むように帰宅した。^なぜ彼女に手を貸しているのか。^今は何も考えずに、眠る。
-I sneak back into the mansion.^Why am I helping her? I won't^think about that right now.^It's time to sleep.
+// @flowchart_descr
+I sneak back into the mansion.
+ Why am I helping her?
+ I'm not going to dwell on it right now. I need sleep.
 }
 [sha:d57235e3436eb47b284f64fcfeaa0d606fdc0b58]{
 -- 今朝は驚くほどに体調がいい。^健康すぎて不安になるほどだ。^けれど、何かが物足りない……。
