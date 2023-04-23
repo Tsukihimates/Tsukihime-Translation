@@ -2305,83 +2305,118 @@ Clean-up Crew
 }
 [sha:ffb72a762eb8497d77f5cf2674a3e1feff6fbc94]{
 -- 六日目・朝。
+// @flowchart_title
 6th day ― Morning
 }
 [sha:1693642317818b0d076ab773239f161cc356c24a]{
 -- 一切の望みを捨てよ。
-Abandoning all hope.
+// @flowchart_title
+Abandoning All Hope
 }
 [sha:65a08d7f151f2845e411eed735cc6454e300e569]{
 -- 素直に謝る。
-I apologize sincerely.
+// Reference 42624
+// @flowchart_title
+I apologize sincerely
 }
 [sha:78715c3cb2a95a83e454b5560d3ddc45c8b294ed]{
 -- なんとか誤魔化す。
-I try to fool her.
+// Reference 42625
+// @flowchart_title
+I try to fool her
 }
 [sha:31050d1a884e274c5357182e650665ffb2c7af2f]{
 -- 本当のことを話す。
-I tell her the truth.
+// Reference 42626
+// @flowchart_title
+I tell her the truth
 }
 [sha:87d993f8a3e85a01157b559e1dfc787f074d86dd]{
 -- 秋葉ちゃんに優しくする会
+// @flowchart_title
 Chatting with Akiha-chan
 }
 [sha:9b740bc455c8d628aa27e93a94e210659daa5498]{
 -- 琥珀さんに看てもらう。
-Have Kohaku-san take care of me.
+// Reference 42627.
+// @flowchart_title
+Have Kohaku-san take care of me
 }
 [sha:07f2871e5374be9280ae9fa9bbb024ca9b308b76]{
 -- 阿良句博士に看てもらう。
-Have Prof. Arach take care of me.
+// Reference 42628.
+// @flowchart_title
+Have Prof. Arach take care of me
 }
 [sha:a6cf7e138a6c2dab821d90ad7cf43649fe86df3a]{
 -- 阿良句博士の異常な愛情
-Prof. Arach's Bizarre Affection
+// Try to keep the 異常/愛情 rhyme in some way? Alliterated instead.
+// @flowchart_title
+Prof. Arach's Abnormal Affection
 }
 [sha:bf9470443cc46f45c3ff70d82dfe02cf2d84e44e]{
 -- 午後をどう過ごそう。
-How should I spend my afternoon?
+// Reference 14538.
+// @flowchart_title
+How shall I spend my afternoon?
 }
 [sha:07560e392141f014fedd9c706bb9a5c4e28bb0ac]{
 -- 中庭を散歩してみよう。
-Take a walk around the courtyard.
+// Reference 42632.
+// @flowchart_title
+I walk around the courtyard
 }
 [sha:127756691d8da4a83482bf06bd603d5dba9f8829]{
 -- 館内を観覧してみよう。
-Wander the halls of the mansion.
+// Reference 42633.
+// @flowchart_title
+I wander the halls of the mansion
 }
 [sha:d86b2c33c9a3470916c675f4eb73e4e5ebed768c]{
 -- ちょっと街にまで出てみよう。
-Take a quick trip into the city.
+// Reference 42634.
+// @flowchart_title
+I take a quick trip into the city
 }
 [sha:7ca507164699f94a56a3da77bd355e18f11d2f39]{
 -- 休日の終わりに。
-My day off draws to a close.
+// @flowchart_title
+My day off draws to a close
 }
 [sha:002528b99970c8ca21dd29c4dcde3f03e7d1e822]{
 -- 飛び込め！三途の川
+// I remember Ben wanting to keep the JP here, though I would personally
+// opt to make this 'Diving into the River Styx' or something.
+// @flowchart_title
 Jump in! The Sanzu River
 }
 [sha:02b04d81ab9d82523a9bc6709829959b6de04aed]{
 -- 秋葉の説得に成功した。
-I've managed to convince Akiha.
+// @flowchart_title
+I've managed to convince Akiha
 }
 [sha:439a3a678d18789cb0d52c0a03aef023bb8d34c6]{
 -- 阿良句博士の普通の診察
-A Regular Exam with Prof. Arach
+// Tempted to drop 博士 for additional arach alliteration action
+// @flowchart_title
+An Average Prof. Arach Assessment
 }
 [sha:243960cb8f7967e65ac9726cdb7a9ea82b666c7d]{
 -- 先輩のアパートに行ってみようか？
-Go to Senpai's apartment.
+// Reference 42705.
+// @flowchart_title
+I go visit Senpai's apartment
 }
 [sha:e8a4c44ef1190ec0cf46a680aaa87ca2541f8dde]{
 -- 不老不死
+// @flowchart_title
 Immortality
 }
 [sha:aa6754a2c5a28d305719d3967f98ca06d53d5c09]{
 -- ある吸血鬼の死。
-The Death of A Vampire.
+// (Roa)
+// @flowchart_title
+The Death of a Certain Vampire
 }
 [sha:db99ca1077625ff8b088596fd8e3105730327cd6]{
 -- 七日目・朝
