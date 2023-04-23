@@ -2419,171 +2419,220 @@ The Death of a Vampire
 }
 [sha:db99ca1077625ff8b088596fd8e3105730327cd6]{
 -- 七日目・朝
+// @flowchart_title
 7th day ― Morning
 }
 [sha:08e39441365704e51a1540c5aa241144019e7310]{
 -- それぞれの日常へ。
-Falling back into a routine.
+// As in, world of humans/vampires, as expounded by descr
+// @flowchart_title
+Each to their own lives
 }
 [sha:ba542844472fe2c990653469507fc50c4fd6f9eb]{
 -- オーメン
+// @flowchart_title
 Omen
 }
 [sha:f0cc7f1f9bb5ff1098cc7bf2081f82a762505efc]{
 -- 彼女の足跡
-Her Footprints
+// @flowchart_title
+Following Her Footprints
 }
 [sha:de642a35786a574cc0ff77747903f4ff80c43e81]{
 -- いったん屋敷に戻って整理しよう。
-Return, reassess the situation.
+// @flowchart_title
+I return to reassess what I know
 }
 [sha:05ef703f05ddafef6db8d1d09b246216a28147d9]{
 -- いや、諦めずに街を回ろう。
-Not give up, keep searching.
+// @flowchart_title
+I won't give up; I keep searching
 }
 [sha:6549fd6806767358c566541968bc5a4873741155]{
 -- まさか、子供じゃあるまいし。
-No way, she's not a child.
+// @flowchart_title
+No way, she's not a child
 }
 [sha:ab28f69382a07fa0c0c95bafab266bea1a523a60]{
 -- まさか、大人じゃあるまいし。
-Yes way, she's not that mature.
+// @flowchart_title
+Yes way, she's not that mature
 }
 [sha:48cb0eaccafac9433a167f08141cffea9ae5584d]{
 -- 僕の家は戦場だった。
-My house is a battlefield.
-}
+// @flowchart_title
+My home is now a battlefield
+
 [sha:c5004b825695edc921448a626276b8f105aa4b51]{
 -- 遠野志貴は逃げ出した。
-Tohno Shiki has fled.
+// @flowchart_title
+Tohno Shiki has fled
 }
 [sha:f206bff84aad04fe7e30304c54f436d3db5c4dac]{
 -- 追及と誤解
-Pursuit and Misunderstanding
+// @flowchart_title
+Questioning and False Assumptions
 }
 [sha:4e2a165ff3304d278a02b77f707f8e0e9cdede59]{
 -- 吸血鬼殺人事件
+// @flowchart_title
 Vampire Murder Case
 }
 [sha:7414eeaad2094091b59af0d61ccdb35bcac58a3c]{
 -- 輝ける夢のような
+// @flowchart_title
 Like A Sparkling Dream
 }
 [sha:59ed52d4bcc5ed467410fae8c4debfeef1ef8e42]{
 -- ラクガキの街
+// @flowchart_title
 The City of Lines
 }
 [sha:23ae05d96ba4a46a4699f31ad4a46f462b4aa4e8]{
 -- もう少しアルクェイドと話をする。
-Talk with Arcueid a little more.
+// @flowchart_title
+I talk with Arcueid a little more
 }
 [sha:4b945d44ed7dc2d5e4483a36bdacfd79e69cbecc]{
 -- 吸血鬼について詳しく知りたい。
-More details regarding vampires.
+// @flowchart_title
+I need more details on vampires
 }
 [sha:ca7fa233d5acc8e5cd42d517f2f6d04c13a49bcd]{
 -- ……二十七祖ってなんだ？
-...Who are the 27 Ancestors?
+// @flowchart_title
+Who are the 27 Ancestors?
 }
 [sha:d117c4c294d6d26eadd99c08aafa2503778d1033]{
 -- ……ヴローヴ戦の戦闘服について
-...Arcueid's combat dress
+// @flowchart_title
+So about that combat dress...
 }
 [sha:e46dd4d0324cb1e9d4491abb2fa42cf9064ba001]{
 -- ……確かに、そろそろ帰らないと。
-...I'd better get going.
+// @flowchart_title
+Yeah... I'd better get going
 }
 [sha:7d0495dc9e660c26db9aff1cdbd08906a0905f11]{
 -- またあした。
-See you tomorrow.
+// @flowchart_title
+See you again tomorrow
 }
 [sha:cd7945a3d02128b9bd95af3e3bb44f04488ddb99]{
 -- 深夜の帰宅。
-Returning home at midnight.
+// Why don't we have a cute verb for this
+// @flowchart_title
+Returning home at midnight
 }
 [sha:77f786b28143b5bcf68fa72915c9045a07f367f9]{
 -- 七日目・朝。
+// Same as arc version but with... a period
+// @flowchart_title
 7th day ― Morning
 }
 [sha:e46ccb7304344b3c31100b2bfd60dde8f2b2a5f9]{
 -- 新しい日常へ。
-To A New Life.
+// @flowchart_title
+Toward A New Life
 }
 [sha:6dfe26c3d8b9a4fede0488292e8dd8e8f3e74abf]{
 -- ランチタイム
+// @flowchart_title
 Lunchtime
 }
 [sha:16fb62726bef4a233aa3994171e6b061970ec11d]{
 -- カロリーの高い定食を頼もう。
-Ordering the high-calorie special
+// Reference 42706.
+// @flowchart_title
+Calorific cafeteria food calls me
 }
 [sha:1480357ec5f02e8fb336dcb90e1e329b204174dd]{
 -- 購買でカレーパンを買い占めよう。
-Buying up all the curry buns.
+// Reference 42707.
+// @flowchart_title
+Buying up all the curry buns
 }
 [sha:e15c3efcff727e4853fdd0debcff049f396cbaba]{
 -- お弁当のアテがあったような……？
+// Reference 42708.
+// @flowchart_title
 Doesn't someone owe me a bento?
 }
 [sha:af275f32b849286b26d3d52f1cf6ce35cc26b35d]{
 -- 健全な男子ですもの。
-Honest Feelings of A Healthy Boy.
+// @flowchart_title
+Honest Feelings of A Healthy Boy
 }
 [sha:9f324189cda34108d67b8ea31876025156294806]{
 -- どっちの代行者？
+// @flowchart_title
 Which Executor?
 }
 [sha:329e2a2e10b9374e82adbb68cf2f48269d729949]{
 -- 茶道室に行く。
-I head to the tea ceremony room.
+// @flowchart_title
+I head to the tea ceremony room
 }
 [sha:8df62ce7ea4dde84eea6835273b20aca2a2c193e]{
 -- 気のきかない男。
-A Tasteless Man.
+// @flowchart_title
+A Tasteless Man
 }
 [sha:69df711fcb959ee4be0514fa275eafd3c4d150c3]{
 -- これまでと、これから。
-The Past, and the Future.
+// @flowchart_title
+The Past, and the Future
 }
 [sha:cb3e2837c296ade914fd0276ce1de879d236dc72]{
 -- 気がきく男。
-A Tasteful Man.
+// @flowchart_title
+A Tasteful Man
 }
 [sha:b6895c9abfcc45e81b733f983485d063c648bdd6]{
 -- 放課後の茶道室
+// @flowchart_title
 After School Tea Ceremony Room
 }
 [sha:6827fd048363d327fe5efeba39862606419669ac]{
 -- 校舎裏に行く。
-I head behind the school.
+// @flowchart_title
+I head behind the school
 }
 [sha:5630c404f1d8a642345dcd1c8478a7578ebb0a31]{
 -- 屋敷に帰ろう。
-Time to head on home.
+// @flowchart_title
+Time to head on home
 }
 [sha:42c0cb40d516c39533a693a4b4ab853e36ecc1f8]{
 -- （表向き）和やかなお茶会
+// @flowchart_title
 An (Ostensibly) Calm Tea Party
 }
 [sha:c8641470f3ad49c2f4fe93427963bf81d6d9777c]{
 -- アルクェイドのお願い。
-Arcueid's Request.
+// @flowchart_title
+Arcueid's Request
 }
 [sha:d28386373c7239b686cea479328e11c35e08ecc5]{
 -- 夜回り吸血鬼
+// @flowchart_title
 The Vampire of the Night Watch
 }
 [sha:d0cf311eca8009adc750fdd0742219b836c6a6dc]{
 -- 代行者たち
+// @flowchart_title
 The Executors
 }
 [sha:680095d76d0bcfc3241bfded30960b478290414a]{
 -- 魔眼の代償
+// @flowchart_title
 The Price of Mystic Eyes
 }
 [sha:bac9f1f983f02296d1905eb356f1ebd5f9684080]{
 -- 憐憫
-Mercy
+// Context 16427.
+// @flowchart_title
+Pity
 }
 [sha:de615c2f415bb7580205ef170dc2dc0fe866ec3a]{
 -- 八日目・朝
