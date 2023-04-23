@@ -5693,7 +5693,10 @@ The Luminary appears.
 }
 [sha:845a606d6f3bc629c1d912a9184adf2182bc3cae]{
 -- 圏内に入る。光体を垣間見る。^立ち上がる100メートルの巨影。^それは、具現化した悪夢だった。
-As I enter her domain, I catch^a glimpse of the Luminary. A^giant figure over a hundred^meters tall. A nightmare that^has spilled over into reality.
+// @flowchart_descr
+As I enter her zone of influence,
+ I catch a glimpse of the Luminary,
+ a giant figure standing over a hundred meters tall――a nightmare made manifest.
 }
 [sha:8c9402954a2f0a2da88e0950368a444e1520c3c6]{
 -- 形骸化したビル群の谷を^駆け、光体に接近する。^見つかれば即、死。
