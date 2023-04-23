@@ -2642,170 +2642,224 @@ Pity
 }
 [sha:de615c2f415bb7580205ef170dc2dc0fe866ec3a]{
 -- 八日目・朝
+// @flowchart_title
 8th day ― Morning
 }
 [sha:aa51a28e49dd78b8ff771b6745e048e001553c5c]{
 -- 秋葉様リターンズ
-Akiha-sama Returns
+// This isn't really a return (she didn't go anywhere) so much as 'a reprise of her role from last night' (see 19740)
+// @flowchart_title
+Akiha-sama Reprise
 }
 [sha:01d664c6e3645da85a11bbee01f094a93113c0ed]{
 -- ひたすら陽気に挨拶をする。
-Greet her cheerfully.
+// @flowchart_title
+I greet her cheerfully
 }
 [sha:ef5267e044ed372daf815e87fd1bcab57246999e]{
 -- そろそろと挨拶をする。
-Greet her quietly.
+// @flowchart_title
+I greet her quietly.
 }
 [sha:527f44e04dda3a0a7f711ec55e62844db180ad70]{
 -- とにかく謝るほかになく。
-I had better start apologizing.
+// @flowchart_title
+I had better start apologizing
 }
 [sha:f3260af575eefd68ea22e3878d4a3ef0702ee7d8]{
 -- 愚兄死すべし。
-Foolish brothers ought to die.
+// See 19812.
+// @flowchart_title
+A Foolish Brother Ought to Die
 }
 [sha:01ebd9f868fb7f92ccc84c377b425a8c1f821abf]{
 -- 軽薄不審ポリスメン
+// @flowchart_title
 Sleazy Policemen
 }
 [sha:70060bd4f5b0d1cb7b97ee139f89d7f6dfaa37b5]{
 -- 用件を尋ねてみる。
-I'll ask what he wants.
+// @flowchart_title
+I'll ask what he wants
 }
 [sha:6c1bb30a3b2685325511767d4621f351f1c823fb]{
 -- 無視する。
-I'll ignore them.
+// @flowchart_title
+I'll ignore them
 }
 [sha:02756ead979aba2a12a643655ae836e3122a1551]{
 -- 日常は淀みなく。
-Slipping back into a routine.
+// @flowchart_title
+Slipping back into a routine
 }
 [sha:b6ed873f6e4ca963379bc9d0d6866665aa6a4b7e]{
 -- 全力で迎撃する。
-Do my utmost to intercept her.
+// See 42649
+// @flowchart_title
+I do my utmost to intercept her
 }
 [sha:6b1390935a5e2e04967ab4e7319fa71b2a6e2cf0]{
 -- 全力で授業に集中する。
-Try to focus on the lesson.
+// See 42650
+// @flowchart_title
+I do my utmost to focus on class
 }
 [sha:0ecffce1b0409453e22c10951d6d5df009895b8d]{
 -- 全力で無視する。
-Do my utmost to ignore her.
+// See 42651
+// @flowchart_title
+I do my utmost to ignore her
 }
 [sha:a68ed01973a68c423035b81c15f13802a715c281]{
 -- 有彦に話を聞こう。
-I'll ask Arihiko about it.
+// @flowchart_title
+Maybe Arihiko knows something?
 }
 [sha:5bb1a07978b5baf78f9c7de2ca401d9b135d664a]{
 -- 廃病院とやらに行ってみようか？
-Go to the abandoned hospital?
+// @flowchart_title
+I'll survey the derelict hospital
 }
 [sha:d1db799a253d662bc442306628e44f238dd51530]{
 -- 夜に備えて屋敷に戻ろう。
-I should go home and prepare.
+// @flowchart_title
+I'll go home and prep for tonight
 }
 [sha:8488c91f1d1b9f2ee96bb11f602b38a5461d8e3d]{
 -- 屋敷に帰ってきた。
-Back at the mansion.
+// @flowchart_title
+I've arrived back at the mansion
 }
 [sha:705d1e2214d281af4c9a5cda89f5ac83c9b7e3da]{
 -- ……正直に話す。
-I tell her the truth.
+// @flowchart_title
+I tell her the truth
 }
 [sha:8e21fa057d19d6cbdb41babd38bf4087a334bdef]{
 -- ……嘘をついて誤魔化す。
-I lie and try to fool her.
+// @flowchart_title
+I lie and try to fool her
 }
 [sha:2b199117ce8c8a5789214d11b9b9c6f677ee5b51]{
 -- 夜の公園に向かう。
-Heading to the park at night.
+// @flowchart_title
+Heading to the park at night
 }
 [sha:d8272d941a60c9fc66fdf11be2bb65b8e6761708]{
 -- 巣窟
-Nest.
+// This kanji is never used in the main game but we generally TL this as nest
+// @flowchart_title
+Nest
 }
 [sha:071b37548abb0b8991efa5bc7a9cfe27c13f2726]{
 -- 公園にて。
-At the park.
+// @flowchart_title
+Back at the Park
 }
 [sha:7d48c552f499b6c313d8aea4b9f3c88d1077cede]{
 -- 裏口を探そう。
-Searching for the back door.
+// @flowchart_title
+I search for the back door
 }
 [sha:4a2a29ea30172e196336a23f493a7c3660ad4795]{
 -- エンカウンター
+// @flowchart_title
 Encounter
 }
 [sha:ebaa7f7ba40093d958c17c39c852a440286f1b51]{
 -- ……警戒して身構える。
-...Stay cautious but alert.
+// See 42656.
+// @flowchart_title
+I stay cautious but alert
 }
 [sha:eac1d92c2a75db2995659fa08783c0768a85e29e]{
 -- 路上に眠る
-Passing out in the street
+// @flowchart_title
+Sleeping in the Street
 }
 [sha:b96b7d467ded6e8f53c813ce6f0e9cb345102c7f]{
 -- ……敵として相対する。
-...Confront her as an enemy.
+// See 42657.
+// @flowchart_title
+I confront her as an enemy
 }
 [sha:6d5d66acae31ae8e7f2b83c3c83e263953a7e299]{
 -- 八日目・朝。
+// Once more, the Ciel version has a period for no reason
+// @flowchart_title
 8th day ― Morning
 }
 [sha:f35724811ac8423151cc790dd5db513682f31d60]{
 -- 今後のご予定は。
+// @flowchart_title
 What's the plan from here?
 }
 [sha:cec3316f2003a6dfb71013fd0d230dd19bbe1dbf]{
 -- 遠野志貴の泣かせ方
-The bane of my existence
+// @flowchart_title
+How to make Tohno Shiki cry
 }
 [sha:f1a21765a3a56ee4d3085d82e6a040df2c890d58]{
 -- 浅はかな夢
+// @flowchart_title
 Shallow, fleeting dream
 }
 [sha:8e12bb4046a638da0cb5627270f5c03737aef897]{
 -- シエルとノエル
+// @flowchart_title
 Ciel and Noel
 }
 [sha:deef7cfb65e465106e92408e6ed1c1409ddea0ad]{
 -- 先輩は保健室を去った。
-Senpai leaves the infirmary.
+// @flowchart_title
+Senpai leaves the infirmary
 }
 [sha:6e4ec901b025d077455a3d84808463d8309e4b7c]{
 -- シエルの不審な行動
-What's she up to? I'll follow her
+// @flowchart_title
+Ciel's Suspicious Behaviour
 }
 [sha:998f0cff972f6d9f70e51fbce8604bf5ed6eb28f]{
 -- 気になる。先輩を追いかけよう。
-I'm curious, I'll follow Senpai.
+// @flowchart_title
+I'm curious――I'll tail Senpai
 }
 [sha:6ad85ef8a4db1f95a85d811dcffb6dd10dd6e50b]{
 -- 戻りましょう、先輩。
-Let's head back, Senpai.
+// @flowchart_title
+Let's head back, Senpai
 }
 [sha:12e5dc420f697002d88de17faa55956ec6c075b7]{
 -- シエルさん、インドですよ。
-Ciel-san in India.
+// Gently altered
+// @flowchart_title
+Ciel-san the Indophile
 }
 [sha:623ab1b1d022c714525fc52761bf6e0d72c24110]{
 -- 嘘は言ってない。
-Technically, I wasn't lying.
+// @flowchart_title
+Technically, I wasn't lying
 }
 [sha:6aa03c40b4cde62a924fd797fc6abbea3427e6f3]{
 -- アルクェイドの方がほっとけない。
-Can't stop thinking about Arcueid
+// See 42716.
+// @flowchart_title
+It's Arcueid who occupies my mind
 }
 [sha:08c8148e2dc7f43088d56e144e7c9786baad08e4]{
 -- あの人は、大切な先輩だ。
-That person is my dear Senpai.
+// See 42717.
+// @flowchart_title
+That woman is my precious Senpai
 }
 [sha:63723cf392874d3f91961a5a765745664e123120]{
 -- 主に祈りは届きませり
+// @flowchart_title
 The lord has heard your prayer
 }
 [sha:524b2bd53e2605a96fc40105e65663a2bf437223]{
 -- 1989年
+// @flowchart_title
 1989
 }
 [sha:c2479fce35cd2a39243cda1f501e2c87363b6aad]{
@@ -5228,111 +5282,172 @@ Try as I might, I can't get to sleep.
 }
 [sha:2b77f86ae03879be861fadaac2b11d72f98b1456]{
 -- 懐かしい夢から目を覚ます。^いつもの朝、いつもの時間。^だが、翡翠の姿が見当たらない。
-I wake up from a nostalgic^dream. An ordinary morning^at an ordinary hour. But I^can't find Hisui.
+// @flowchart_descr
+I awake from a nostalgic dream.
+ It's an ordinary morning, at the ordinary hour.
+ But, Hisui is nowhere to be seen.
 }
 [sha:2ee4b66e920ec03626c9cf1c4fa3e03f7e9d92fe]{
 -- 昨夜の出来事を思い返す。^居間には秋葉が待っている。^生き延びる未来が見えない。
-I recall last night's incident.^Akiha is waiting in the living^room. I'm unable to envision a^future where I emerge from this^alive.
+// @flowchart_descr
+I think back on last night's incident.
+ Akiha is waiting for me in the living room.
+ I don't see a world in which I get out of this alive.
 }
 [sha:ff254dba3b85eda3bed23514d712fbbddfe80d3d]{
 -- 緊迫した空気を変えよう。^いつもの調子では助からない。^ここはフランクに行くべきだ。
-I've got to dispel this tense^atmosphere. I can't approach^this normally, so I'll proceed^candidly.
+// @flowchart_descr
+I need to do something about this tense atmosphere.
+ My usual approach isn't going to cut it here.
+ It's time for some radical candor.
 }
 [sha:bf286f384b005c018c4112270f5f5f723905d954]{
 -- 下手な事は言えない。^ここは静かに語りかける事で、^反省の態度を示しておこう。
-I can't say something impudent^here. I should gently address^the situation while showing my^willingness to cooperate and^repent.
+// @flowchart_descr
+I need to avoid saying anything imprudent.
+ I should avoid bringing it up directly, while still showing my willingness to cooperate and repent.
 }
 [sha:2dd63f66e3912c743eef5e898af2acd64772a7ec]{
 -- もはや言い逃れしようがない。^とにかく全速全開で謝って、^怒涛の勢いで押し切るのだ。
-There's no way I can talk my^way out of this. I'll go with^a full-speed, full-throttle^apology, and vigorously cut^her off.
+// @flowchart_descr
+I'm in too deep to talk my way out of this.
+ Time to go in all guns apologizing, and just push through.
 }
 [sha:0529e271f4779d9336d886e68b6447c06b79e20a]{
 -- そこに座れと死刑宣告が下る。^もはや抵抗は無意味だ。^観念して話をしますね。
-If I sit there, I will surely^be executed. Resistance is^futile. I resign myself and^begin to talk.
+// @flowchart_descr
+If I sit down, I'll be resigning myself to the gallows.
+ Resistance is futile at this point.
+ I resign myself and begin to talk.
 }
 [sha:12ea03db60b41c2d5112ed689067dee649abf79b]{
 -- 緊張感のない男性に^話しかけられる^これ本当に刑事……？
-This laid-back guy just started^talking to me. Is this guy^really a police officer...?
+// @flowchart_descr
+This laid-back guy just started talking to me out of nowhere.
+ Is he seriously a detective...?
 }
 [sha:3a7abea0a5679a856028a2ba22251b25aacc8a7e]{
 -- 相手の目的が分からない以上、^こちらも対応のしようがない。^まずは探りを入れてみよう。
-I can't deal with them^effectively if I don't even^know what it is they're after.^I should find out more about^their intentions.
+// @flowchart_descr
+I can't deal with them effectively if I don't even know what it is they're after.
+ I should find out more about their intentions.
 }
 [sha:dc453806ff261b98302bf901a9a9394025926b30]{
 -- ここ数日の行動は不審がすぎる。^下手に相手をするのは避けて、^この場から離れよう……。
-There's too much I don't^understand about the events^of the past few days. I should^get away from here instead of^carelessly engaging.
+// @flowchart_descr
+My behavior has been way too suspicious these past few days.
+ Better to avoid engaging with them, so that I avoid making any careless mistakes...
 }
 [sha:71a3ff201e87fe75783a24114155b073da2b09e4]{
 -- 授業にもまるで身が入らない。^ふと、窓の外に視線をやると、^そこにはなんと……。
-I can't concentrate on the^lesson at all. I casually^glance out the window, and^am shocked to discover...
+// @flowchart_descr
+I can't concentrate on the lesson at all.
+ When I casually glance out the window, I'm shocked to discover――
 }
 [sha:f37f6bafc6aa4844a6ac1e686bc685a3edd02162]{
 -- 全速力で中庭に向かおう。^何かトラブルが起きる前に、^どこかに連れ出さないと……！
-I head to the courtyard at full^speed. I need to lure her away^before she gets the chance to^cause any mischief...!
+// @flowchart_descr
+I sprint for the courtyard at full speed.
+ I need to lure her away before she has a chance to cause any mischief!
 }
 [sha:f6679068b7037cc22e601619faef5e343c39b7be]{
 -- 自分に出来る事は何もない。^授業に集中しよう。^奇跡よ、起これ。
-There's nothing I can do. I'll^concentrate on the lesson. I^need a miracle to happen right^now.
+// @flowchart_descr
+There's nothing I can do.
+ I'll just focus on class and pray for a miracle.
 }
 [sha:d9db1a4242cee5da55ef4ed4da46df0d136af23f]{
 -- 何も見なかった。^ここは寝た振りでやりすごそう。^授業が終わるまで残り20分……！
-I didn't see anything. I'll just^pretend to sleep and wait for it^to pass. Only twenty minutes^until class ends...!
+// @flowchart_descr
+I didn't see anything.
+ I'll just pretend to be asleep and wait it out.
+ Only twenty minutes left until class ends!
 }
 [sha:b3b36f617b4129b62e9c18f16ca4d5e7676b7d29]{
 -- 昼休みになると有彦が出てきた。^街で何か変わった事はないか、^聞いてみるのもいいだろう。
-Once lunch break comes around,^Arihiko shows up. I might as well^ask him if there's been anything^unusual happening in town.
+// @flowchart_descr
+Arihiko turns up just in time for lunch.
+ I guess I may as well ask him if he knows of anything unusual happening in town.
 }
 [sha:819d6cc03e487ca525b230d1bd57aeb49bcad688]{
 -- 有彦に聞いた廃病院が気になる。^夜までは時間もあるのだし、^少しだけ調べておこう。
-I'm curious about the abandoned^hospital Arihiko told me about.^I'm free until nighttime, so I^might as well go check it out^for a bit.
+// @flowchart_descr
+The abandoned hospital Arihiko mentioned has piqued my interest.
+ I don't have anything to do between now and this evening, so I might as well go check it out.
 }
 [sha:2e8dc4ef7a0154362c0d5b1cb3c18948ee79b7b6]{
 -- 有彦の話は気になったが、^今回の事とは関係がないだろう。^屋敷に帰って体力を温存しよう。
-I'm curious about what Arihiko^was talking about, but I doubt^it's related to the current case.^I'll head back to the mansion and^preserve my strength.
+// @flowchart_descr
+I'm curious about the hospital Arihiko mentioned, but I doubt it's related to the case at hand.
+ I'll conserve my energy and just head back to the mansion.
 }
 [sha:ef45119f0f67dc24d9af8d84577b69488b30ef52]{
 -- 日没前に屋敷へと帰ってきた。^秋葉と話をしておきたかったが、^まだ帰ってきていなかった。
-I return to the mansion before^sunset. I wanted to talk to^Akiha, but she hasn't returned^home yet.
+// @flowchart_descr
+I've made it back to the mansion before sunset.
+ I'd wanted to chat with Akiha, but it seems like she isn't home yet.
 }
 [sha:7032a800eaa97e6b8d0e56f351e9f7ede6776fec]{
 -- 翡翠に隠し通す事はできない。^せめて夜は留守にする事だけは、^正直に伝えておく。
-There's no way I'd be able to^deceive Hisui. I'll at least^be upfront about me leaving^the house at night.
+// @flowchart_descr
+There's no way I'd be able to fool Hisui.
+ I'll at least be honest about the fact that I'm sneaking out of the house tonight.
 }
 [sha:bf7645c1785786ef8b9b3d505a7dc58abb765a16]{
 -- やはり本当の事は言えない。^翡翠には悪いが、^ここは誤魔化すしかない。
-There's no way I could tell her^the truth. I feel bad for doing^this to Hisui, but I'll have^to deceive her.
+// @flowchart_descr
+There's no way I can tell her the truth.
+ I feel bad about doing this to Hisui, but I have to lie to her.
 }
 [sha:f0be1faeffce760a9ee26bcdca53237eaf8539bf]{
 -- 消灯時間になった。^アルクェイドを待たせている。^部屋を出て、約束の公園に。
-It's after lights-out. I'm^keeping Arcueid waiting. I^leave my room and head to^the park where we promised^to meet.
+// @flowchart_descr
+It's after lights-out.
+ I'm keeping Arcueid waiting.
+ I leave my room, and head for the park where we promised to meet.
 }
 [sha:d455177e2e7123e04f64d12e4da7e95e7420417f]{
 -- 吸血鬼のコミュニティ。^そのアパートは、^住宅地のただ中にあった。
-The apartment complex housing the^community of vampires was right^in the middle of the residential^area.
+// @flowchart_descr
+The apartment complex housing a whole colony of vampires was located square in the heart of a residential area.
 }
 [sha:ebdb42978fe6fcc49ce2852a130b9d1a09279613]{
 -- 公園に戻って体を休める。^直死の魔眼とは何かを^語るアルクェイド。
-We've returned to the park and^I'm resting. Arcueid tells me^about the Mystic Eyes of Death^Perception.
+// @flowchart_descr
+We've returned to the park, and I'm resting.
+ Arcueid tells me all about the Mystic Eyes of Death Perception.
 }
 [sha:ee0bb99df622dc38e41fbc41130f2270acce45fb]{
 -- 施錠のシステムが変わったのか、^屋敷の正門は閉ざされていた。^裏口を探して中に入ろう……。
-I can't get past the mansion's^main gate, I wonder if they^changed the locks on me. I'll^have to search for the back^door and enter from there...
+// @flowchart_descr
+I can't get past the main gate of the mansion.
+ I wonder if they changed the locks on me...
+ I'll try and find a back door, and get in that way.
 }
 [sha:dcfd1227a2bb15076490e560ca5e700d253341e7]{
 -- 屋敷への帰路につく。^一つの歯車が、^音も無く。
-On the way home. A single cog^vanishes without a sound.
+// @flowchart_descr
+I make my way back to the mansion.
+ A solitary cog vanishes without a sound.
 }
 [sha:211f0b01ba06e756d592d4b1ec2e01d620e57c23]{
 -- どう見てもノエル先生、だが、^どこかおかしい。^思わず身構えるが―――
-That's undeniably Noel-sensei,^but something's off.^I reflexively put myself on^guard――
+// @flowchart_descr
+That's Noel-sensei alright, but something's off.
+ I reflexively put myself on guard――
 }
 [sha:79074227f93c98e8a22bc53919b04e13ed486fd3]{
 -- 長い夜、体力の限界。^部屋まで意識が持たず、^路上で意識を失った。
-It's been a long night. I'm^at my limit. Unable to remain^conscious long enough to make^it back to my room, I pass out^in the street.
+// @flowchart_descr
+It's been a long night, and I'm completely spent.
+ Unable to stay conscious long enough to make it back to my room, I pass out in the street.
 }
 [sha:3790d8d88c96f0a815b2039d776ae3e06fa5d16c]{
 -- 敵意も殺意もあからさまだ。^彼女は敵だと認識する。^あえて誘い込み、そして……。
-I feel her blatant animosity^and bloodlust. I recognize^her as an enemy. I'll lure her^in, and then...
+// @flowchart_descr
+Her animosity and bloodlust are plain as day.
+ She's definitely an enemy.
+ I'll lure her in, and then...
 }
 [sha:f41e27c139d3bc6547ad6152372198ebd406998e]{
 -- 翡翠の声で目を覚ました。^彼女は夜中に抜け出している事に^気付いているようだが……。
