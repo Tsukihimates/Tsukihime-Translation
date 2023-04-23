@@ -1004,10 +1004,10 @@ What do you know...
 -- 森の中に、こんな和風の屋敷があったなんて。
 Who'd have thought there'd be such a traditionally Japanese building in the middle of the forest.
 }
-[sha:902b4d50071a15718e21c3d035a0a6f7624a459f]{
+[offset:41562]{
 -- Page 59, Offset 41562.
 -- 「――――――！」
-"―――!"
+"%{i}Hnh?!%{/i}"
 }
 [sha:38905b4ff13b5d0527b7ce785c67cdda6eab0f55]{
 -- Page 59, Offset 41563.
@@ -1037,7 +1037,7 @@ I wonder if he's lost?
 [sha:095383376c87a43c80b8682c2d48b82d92ac8cf5]{
 -- Page 60, Offset 41568.
 -- 子供はどこか浮世離れしていて、それこそ幽霊かなにかのようだ。
-He almost seems like he's not from this world, or that he's a ghost or something.
+It feels like he's not from this world, almost as if he's a ghost or something.
 }
 [sha:62357486b4fd5a64eefa2b0cba810981b727009d]{
 -- Page 61, Offset 41569.
@@ -1079,13 +1079,13 @@ Even though this person is clearly Kohaku-san,
 [sha:979e7474ee12606f2a6a104e55f311a880ee4559]{
 -- Page 63, Offset 41576.
 -- 玄関で待っていたんですけど、志貴さんったら森の方に歩いていってしまうんですもの。わたし、なんか驚いちゃいました」
-I was waiting for you in the entrance hall, but then you went wandering off toward the forest all of a sudden.
+I was waiting for you in the entrance hall, but then you just went wandering off toward the forest all of a sudden.
  I'll admit, I was a little surprised."
 }
 [sha:46d89f572fe3841fb609c8746c15b91ac52ee865]{
 -- Page 64, Offset 41577.
 -- 琥珀さんはいつも通り、こっちが嬉しくなるような笑顔をつくっている。
-Kohaku-san gives me one of those smiles that never fail to make me happy.
+Kohaku-san's face bears her usual, infectious smile.
 }
 [sha:904f4bf838eee79fcd0268850be004e9a8638d44]{
 -- Page 65, Offset 41578.
@@ -1095,7 +1095,7 @@ Kohaku-san gives me one of those smiles that never fail to make me happy.
 [sha:7ec3400b6f1e4dd1ee09f96ec3f63bab08ab6bc1]{
 -- Page 65, Offset 41579.
 -- 琥珀さん、さっきの子はどこの子？」
-Kohaku-san, who was that child just now?"
+Kohaku-san, who was that kid just now?"
 }
 [sha:d33638e615a34418777595be465521be744a25f0]{
 -- Page 66, Offset 41580.
@@ -1105,7 +1105,7 @@ Kohaku-san, who was that child just now?"
 [sha:7e65cc8705210e95248db6b95796ed745cf9b41a]{
 -- Page 66, Offset 41581.
 -- 彼女は子供の姿を見なかったみたいだ。
-It seems like she didn't catch sight of them.
+It seems like she didn't catch sight of him.
 }
 [sha:7e4dee1428225be53c6e62fe0702cac8696ab830]{
 -- Page 67, Offset 41582.
@@ -1121,9 +1121,9 @@ Let's head back to the mansion.
 [sha:a83f509923f125c88aa6831e232292ba0c1ffa9f]{
 -- Page 68, Offset 41584.
 -- 「ええ、秋葉さまは何もおっしゃりませんけど、今朝はずっと執務室でぐるぐると歩きまわっていらっしゃるんです。きっと志貴さんのお帰りを今か今かとお待ちしているんですよ」
-"Yes, Akiha-sama hasn't said anything,
- but she's spent the entire morning anxiously pacing around her office.
- I'm sure she's eagerly waiting for you to arrive."
+"Yes, Akiha-sama hasn't explicitly said anything about you,
+ but she's spent the entire morning anxiously pacing around her office,
+ so I'm sure she's eagerly waiting for you to arrive."
 }
 [sha:381659287dfb39a14ae8b2f50c5dfc3546ed1fb5]{
 -- Page 69, Offset 41585.
@@ -1151,31 +1151,31 @@ As we leave―――
 [sha:f136fb778eaa21a8b0449de160dd0542bbf784b6]{
 -- Page 70, Offset 41590.
 -- 後ろ髪を引かれて、もう一度だけ和風の建物を振り返る。
-I look back one last time at the Japanese-style building, as though reluctant to go.
+I take one last look at the building, as if reluctant leave it behind.
 }
 [sha:f16ec02bd81eb667c4f36c07de0d935ed8371358]{
 -- Page 70, Offset 41591.
 -- ……幻だろうか。
-I wonder if I'm just seeing things...
+Perhaps I'm just seeing things—――
 }
 [sha:964ee27665b14312524c4473c481b9eea46620ac]{
 -- Page 70, Offset 41592.
 -- 子供はじっと、何か言いたそうな目をして、走り去っていく俺の背中を見つめていた。
-The child is staring at me as I leave,
+But the child is staring at me as I leave,
  a look in his eyes that makes it seem like he had something he wanted to say.
 }
 [sha:6f0a065e2001a6781a31c27e8cc1ff79ef7e0461]{
 -- Page 71, Offset 41593.
 -- 旅客機が危なげなく滑走路に着陸するように、遠野志貴はもとの生活に戻っていた。
-Like an airplane landing safely on a runway, Tohno Shiki returns to his ordinary life.
+Like an airplane landing safely on the runway, Tohno Shiki returns to his ordinary life.
 }
 [sha:b7ce5e03eb6dfcc91cbafaccc94d85c54e2f8ccf]{
 -- Page 71, Offset 41594.
 -- 屋敷に帰って、秋葉に小言を言われて、朝になったら翡翠に起こされて、琥珀さんの朝食をいただいて屋敷を出る。
 I go back to the mansion,
- get scolded by Akiha,
+ get chided at by Akiha,
  and in the morning,
- I'm woken up by Hisui and served breakfast by Kohaku-san before leaving the mansion once more.
+ I'm awoken by Hisui and served breakfast by Kohaku-san before leaving the mansion once more.
 }
 [sha:a295675731cc362276b87201ca621093a0d85a41]{
 -- Page 72, Offset 41595.
@@ -1185,18 +1185,18 @@ I go back to the mansion,
 [sha:7c1d777bd7a0e52e8ba4d540953037e29510246d]{
 -- Page 72, Offset 41596.
 -- 理由もなく悲しい。
-For no reason I can discern, I feel sad.
+For no discernible reason, I feel sad.
 }
 [sha:fae4a44cb81b60f9141084393e7ea3b4c4ec3e0b]{
 -- Page 72, Offset 41597.
 -- ただこうしているだけで泣いてしまいそうなほど、悲しい。
-So sad that could burst into tears just standing here.
+So sad that it's almost enough to drive me to tears.
 }
 [sha:c3b1555c58587d6b5bc249773e54983fd943ac96]{
 -- Page 72, Offset 41598.
 -- その理由を思い出せないまま、普段と何も変わらない、平穏な学校に到着した。
 Still unable to remember why it is I feel this way,
- I arrive at the peaceful school grounds, where everything is just as it was.
+ I arrive at the peaceful school grounds, where everything is the way it's always been.
 }
 [sha:66f08b6e550e380be2c7f360d9ec27070ec6a5c6]{
 -- Page 73, Offset 41599. Mods: @n.
@@ -1206,24 +1206,23 @@ Still unable to remember why it is I feel this way,
 [sha:a562cb4a826fa7930b61374bc592be76a15d65a5]{
 -- Page 73, Offset 41600. Glued.
 -- もう学校に来ていいんだ、おまえ」
- So you're already well enough to come to school, huh."
+ Already well enough to come to school, eh?"
 }
 [sha:45e60b9a5eef90b5f2428ca5971629ca8b8000d2]{
 -- Page 73, Offset 41601.
 -- 気軽に声をかけてくる有彦。
-Arihiko greets me casually.
+Arihiko gives me a casual greeting.
 }
 [sha:3d894f09b8749677e63202924631f33d50de2690]{
 -- Page 74, Offset 41602.
 -- 「あとしばらくはリハビリだって聞いたけどな。
-"I thought I'd heard you'd be in rehab for a while though.
+"Thought I heard you'd be in rehab for a while.
 }
 [sha:ffaf7fc0f8b2200d44f6e5f846b73556e74a31d4]{
 -- Page 74, Offset 41603.
 -- そっか、そんなに無理して学校に来るっていう事は、やっぱりそういうコトですか」
-Oh, I get it...
- %{i}That's%{/i} why you're forcing yourself to come to school.
- Yeah, that's gotta be it."
+Ohhh...
+ If you're that intent on forcing yourself to school, it can only mean one thing, right?"
 }
 [sha:7dd0843935fac796772cf8dae708b7994eebfe92]{
 -- Page 74, Offset 41604.
@@ -1233,28 +1232,28 @@ Arihiko chuckles knowingly to himself.
 [sha:97269fc04e4ce4b6f1e0e66fc8db6970d00f4904]{
 -- Page 75, Offset 41605. Mods: @k, @e.
 -- 「そうだよなあ、
-"Yeah,
+"I getcha, I getcha.
 }
 [sha:89e8de705e11cda3ac91d5179b7948ea0f0c9a30]{
 -- Page 75, Offset 41606. Glued. Mods: @x.
 -- あと二ヶ月ちょいで卒業式だもんな。一緒にいられるのもあと少しってワケだ」
- there's only two months left until graduation, huh.
- You don't have much time left to spend together."
+ Only two months left 'til graduation, after all.
+ Don't got much time left to spend together, do you?"
 }
-[sha:e647bdc902b660ab925ec73c2e2b701206ec260d]{
+[offset:41607]{
 -- Page 75, Offset 41607.
 -- ……？
-Hmm...?
+Hmm?
 }
 [sha:b1394a5067d342435db50dd2d9eef63721c99736]{
 -- Page 75, Offset 41608.
 -- 「……わからないな。一緒にいられるって、誰とだよ」
-"What do you mean... Spend together with who?"
+"What do you mean? Time left together with who?"
 }
 [sha:5d2793c6c3ef7a246edd22866ad8b78895f36cea]{
 -- Page 76, Offset 41609.
 -- 「誰とって、そりゃあおまえ――――」
-"What do you mean 'who'? I'm talking about―――"
+"Whaddya mean 'who'? I'm talking about―――"
 }
 [sha:b01c8a84c0f2eb3f3166dc0603638c8650e1ff98]{
 -- Page 76, Offset 41610.
@@ -1269,7 +1268,7 @@ Arihiko cuts off mid-sentence.
 [sha:9faad644c03fdb8abf169c82d5c5fac13714d60f]{
 -- Page 77, Offset 41612.
 -- たっ、たっ、たっ、という軽快な足音が聞こえてくる。
-I hear the gentle patter of light footsteps.
+I hear the gentle patter of light footsteps coming toward me.
 }
 [sha:ef144e22405304b4a4383b9863552763119ee3b3]{
 -- Page 77, Offset 41613. Mods: @n.
@@ -1309,7 +1308,7 @@ I recall the name of the person I'd been unable to remember ever since I woke up
 [sha:1a6254c53e3cc8319b212c2665680359531356e9]{
 -- Page 79, Offset 41620.
 -- 「―――先、輩」
-"Sen...pai."
+"Sen――pai."
 }
 [sha:dec1835ff5e14c27953e6be1d57fd7e8151acb0f]{
 -- Page 79, Offset 41621.
@@ -1324,22 +1323,23 @@ I wipe away the tears welling up in my eyes as inconspicuously as I can.
 [sha:9612995cca6039c1ecd4c1247655022b4eab23b8]{
 -- Page 79, Offset 41623.
 -- ……何故だろう。
-I wonder why...
+//Needs clarity in EN
+How come I'm feeling like this?
 }
 [sha:b941e12efcf7da94e0cebf5149bb9807ce5233c6]{
 -- Page 79, Offset 41624.
 -- 本当に、理由が分からないのだけど。
-I really don't understand the reason.
+I really don't understand what the reason could be.
 }
 [sha:dd4749450098aba0ca68d60ab91416e8c5bfcf1e]{
 -- Page 79, Offset 41625.
 -- いまはただ、その笑顔が、悲しかった。
-All I know is that seeing her smile made me incredibly sad.
+All I know is that seeing her smile made me terribly sad.
 }
 [sha:ecd8dd80b7e09436a5f9c469c095b0d59ff8c20c]{
 -- Page 80, Offset 41626.
 -- 「遠野くん？　おはようございます、ですよ？」
-"Tohno-kun? Aren't you going to greet me?"
+"Tohno-kun? No good morning for me?"
 }
 [sha:e47fd8f6dda553563c9eeed6fce7de516a93c585]{
 -- Page 80, Offset 41627.
@@ -1354,33 +1354,32 @@ I clumsily fumble my way through a greeting.
 [sha:a42b5c9809bad103d0ba4ac1ee511fa539ede4ef]{
 -- Page 80, Offset 41629.
 -- 先輩はどこか納得いかないような顔で首をかしげた。
-Senpai tilts her head to the side, as though puzzled by something.
+Senpai tilts her head to the side, seeming vaguely concerned.
 }
 [sha:300c43b1e96ddcb2ec2b7096d888e7d92ca75261]{
 -- Page 81, Offset 41630.
 -- 「もうっ、せっかく退院できたのに元気がないです。
-"Geez, even though you're finally out of the hospital, you're not looking well at all.
+"Geez, you're finally out of the hospital, but you don't seem much better for it.
 }
 [sha:a5d53fde4977a631604ccc5ac46b65a92d667862]{
 -- Page 81, Offset 41631.
 -- わたし、元通りになった遠野くんに会えると聞いて楽しみにしてたのに」
-// Presumably 楽しみに is hitting the town
-When I heard you were back to normal again, I got all excited in anticipation."
+I'd gotten all excited to meet you again when I heard you were back to normal, too."
 }
 [sha:147bab90dab3331c3ce2fd72b40c0c80fd835f40]{
 -- Page 81, Offset 41632.
 -- 「楽しみにしてた……？」
-"Excited in anticipation...?"
+"Excited... why?"
 }
 [sha:9e2ecf6d1ef5ecb2f17feb1b30b86f1c20b90c0c]{
 -- Page 82, Offset 41633.
 -- どうしてか、思い出せない。
-I can't seem to remember what it is she's looking forward to.
+For some reason I just can't remember.
 }
 [sha:8853e16baca25b8f7e4af79aa0ce3485097e8443]{
 -- Page 82, Offset 41634.
 -- 何があったのか。
-Is there something I've forgotten about?
+There's something I'm forgetting.
 }
 [sha:fdd604fc94ca615ec66cf25f4e889750fbe608fe]{
 -- Page 82, Offset 41635.
@@ -1390,21 +1389,18 @@ I feel like I've shared something incredibly important with this person, but I c
 [sha:aa246d8beb48d01a046133acaa677b2c6b264355]{
 -- Page 83, Offset 41636.
 -- 覚えている事と言えば、この人は三年の先輩で、どうしてか俺と有彦と気が合って、昼休みに三人で過ごしていた事ぐらいしか、思い出せない。
-As for what I can remember...
- This person is a third year student――my upperclassman,
- gets along with Arihiko and me for some reason,
- and used to have lunch with us, but...
- that's all.
+What I %{i}do%{/i} remember is that this person is a third year student who gets along with Arihiko and me enough that we often eat lunch together,
+ but that's about it.
 }
-[sha:0384d287edc8f5c296e4964b7c934c88df127ff2]{
+[offset:41637]{
 -- Page 84, Offset 41637.
 -- ……そうだ。
-That's right...
+Yeah...
 }
 [sha:7fd7b9ad51ebc9f0ef4bca70adc46bc063b92903]{
 -- Page 84, Offset 41638.
 -- 他のことは思い出せない。
-I can't remember anything else other than that.
+I really can't remember anything outside of that.
 }
 [sha:300be11db5e7c6d05b1aa4911d28323c0fc7aff3]{
 -- Page 84, Offset 41639.
@@ -1434,7 +1430,7 @@ Senpai stares at me, a displeased look on her face.
 [sha:5edc30a3157f6a00989331e1abc330d8303eadab]{
 -- Page 85, Offset 41644.
 -- 大切な、約束―――
-      A promise that I hold dear―――
+      A promise dear to me―――
 }
 [sha:623c2ee6660d853f5098fea8646b9872b4fdd160]{
 -- Page 86, Offset 41645.
@@ -1466,27 +1462,29 @@ Because of that, none of those other things mattered to me anymore.
 [sha:126f11cc7408363b05bfdb6de3b6cfb0743d52c9]{
 -- Page 89, Offset 41650. Mods: @k, @e.
 -- 「いや、今度こそ忘れていいぞ遠野。
-"No, it's okay if you forget, Tohno.
+"Actually, go right ahead and forget, Tohno.
 }
 [sha:95a34296efeba79a3e80742f348200e081e72418]{
 -- Page 89, Offset 41651. Glued. Mods: @x.
 -- その時こそオレはキメにかかるからな」
- If that happens, then you can leave the rest to me."
+ Then I'll finally get a chance to make a move."
 }
 [sha:16c205e5b24175c2e8f4147ef31a3d4edf19903f]{
 -- Page 89, Offset 41652.
 -- ……いつか聞いたような事を有彦は繰り返す。
-Arihiko repeats a line that he heard somewhere...
+//Shiki is probably getting deja vu from 31198
+//Arihiko's words strike me with deja vu. 
+I could swear I've heard Arihiko say something like that before...
 }
 [sha:ceab794b92f9c3ca46387baaf3b446d5a71efa67]{
 -- Page 90, Offset 41653.
 -- 「だめですっ！　こんな機会は滅多にないんですから、今回だけは三人で行かないと！」
-"That won't do! An opportunity like this is incredibly rare, so it has to be the three of us!"
+"No way! An opportunity like this is incredibly rare, so it has to be the three of us!"
 }
 [sha:af4d3008692e273b96c776affdbcaed5c1ebc597]{
 -- Page 90, Offset 41654.
 -- むっ、と先輩は珍しく怒っている。
-Senpai pouts. It's not often you see her angry.
+Senpai pouts in a rare display of anger.
 }
 [sha:8dd2e4e74398c9226e84ad74c25032fa2357a823]{
 -- Page 91, Offset 41655.
@@ -1503,7 +1501,7 @@ Senpai pouts. It's not often you see her angry.
 [sha:27e02881a7c6a03b597b0c91d4c6601a30906f26]{
 -- Page 93, Offset 41657.
 -- 「あ。そっか、先輩って、たしか―――」
-"Ah. That's right, aren't you―――"
+"Oh. Right, aren't you―――"
 }
 [sha:23f5877e4100dec12f88dfa85b3c618ce8d0ebd1]{
 -- Page 93, Offset 41658.
@@ -1523,7 +1521,9 @@ I don't understand what Senpai's trying to say.
 [sha:b383304fa6de1abaf8ea0d60502e3cc09f47ca1e]{
 -- Page 94, Offset 41661.
 -- 一人前のケーキ職人になるのが夢でしたから」
-After all, it's my dream to become a pâtissier."
+//Oui
+//Don't need the diacritic since this is an English loanword, and ENGLISH HATES DIACRITICS
+After all, it's my dream to become a patissier."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 94, Offset 41662.
@@ -1548,42 +1548,43 @@ It's so utterly ridiculous that my vision flashes white.
 [sha:cb1e5c5bcb2140f16a93448c5ababe63ab5cc21a]{
 -- Page 96, Offset 41666.
 -- 「ええ、残りますよ。わたしの家はこの街にあるんですから、あちらに永住するコトなんてないです。お父さんをいつまでも一人にしておけないですし。
-"Yes, that's right.
- My home is located here, so I won't be going abroad permanently.
- It's not like I can leave my father on his own forever, either.
+"Yes, I'll still be around.
+ My home is here in this city, so I won't be going abroad permanently.
+ And I can't exactly leave my dad on his own forever, either.
 }
 [sha:7d90bbd002623a7f63c4dbf3f19ffaea62570877]{
 -- Page 96, Offset 41667.
 -- ただお弟子にとってくれる職人さんは厳しい方ですから、少なくとも三年は帰ってこれないでしょうけど……」
-However, the pâtissier who's taking me on an apprentice is very strict,
+However, the patissier who's taking me on an apprentice is very strict,
  so I probably won't be able to come back for least three years or so..."
 }
 [sha:6763248464cb236fc0c4ec0135f2c15960633c9e]{
 -- Page 97, Offset 41668.
 -- ――――――――、は？
-―――Huh?
+―――Wait, what?
 }
 [sha:1ce7ec9e279fdcfaca44193b99d098d39726001d]{
 -- Page 98, Offset 41669.
 -- 「けど、子供のころから憧れていたコトですから。
-"But, this is something I've dreamed of ever since I was a child.
+"Still, this is something I've dreamed of ever since I was a child.
 }
 [sha:6096bf474fab7f4a5d61a6b974eacc8ca113e28f]{
 -- Page 98, Offset 41670.
 -- わたしが住み込みで働かせていただくお店はですね、王室ご用達の職人さんのお店なんです。普通はお弟子をとってくれないんですけど、筋はいいからすぐに来なさい、なんて内定までいただいちゃいました」
-The store I'll be boarding at is actually owned by a pâtissier who serves as a purveyor for the royal family.
- They don't normally take apprentices, but they made me an offer because they thought I have talent."
+//Is she going to England and not France?
+The store I'll be boarding at is actually owned by a patissier who serves as a purveyor for the royal family.
+ They don't normally take apprentices,
+ but apparently they think I might be a natural or something because they wanted me to come and start right away."
 }
 [sha:99126dee75acebfcb52b4f74f1e32a4bb8beaa46]{
 -- Page 99, Offset 41671.
 -- 先輩は嬉しそうに、聞いたこともない、
-With a pleased look on her face,
- Senpai tells me something I've never heard before―――
+ Senpai happily tells me about her future plans―――
 }
 [sha:cf8b93a577f491c78b0786c35efb86da91254aeb]{
 -- Page 99, Offset 41672.
 -- 温かな<未来|もしも>の話をしてくれる。
-A rosy what-if scenario for the future.
+Some hopeful what-if that I've never heard of before.
 }
 [sha:f253a906fdeff4cc1492b19951d3af66d05077dc]{
 -- Page 100, Offset 41673.
@@ -1594,12 +1595,13 @@ A rosy what-if scenario for the future.
 -- Page 100, Offset 41674.
 -- やめてほしい、と。
 // Assuming this is 4th(?) wall breaking, he's seeing through it, not him objecting to her pastry plans
-But could you knock it off already?
+// Should work somewhat for both, that's the point.
+But could you not do this?
 }
 [sha:c5a4a6e2852d9f4e43c8d62eec94e42d15f9c657]{
 -- Page 100, Offset 41675.
 -- それ以上はやめてほしい、と漏れそうな<懇|こ><願|え>を堪える。
-I cut myself off before I can beg her to stop, to not say any more.
+I cut myself off before I can beg her to stop——to not say any more.
 }
 [sha:e0c4c56133638e3be429772681fde01bb3cb0242]{
 -- Page 101, Offset 41676. Mods: @n.
@@ -1626,7 +1628,7 @@ Senpai gives me a shy glance,
 -- Page 102, Offset 41680.
 -- 遠野くんは情にほだされやすいところがありますから、ホントは連れて行きたいぐらいなんですけどねー」
 You're the type of person to let their emotions get the better of them,
- so I honestly debated whether I could bring you along with me."
+ so I honestly even debated bringing you along with me."
 }
 [sha:b7805242b212ef9d51e6f226233ba37bd9edf8ec]{
 -- Page 102, Offset 41681.
@@ -1636,7 +1638,7 @@ Senpai lets out an adorable sigh.
 [sha:0ba6a916b6a23ef716c5d13ef6d0bbef7c5a52aa]{
 -- Page 103, Offset 41682.
 -- 「けどそういうワケにもいきませんよね。
-"But there's no way I could do that, is there.
+"But there's no way I could do that, is there?
 }
 [sha:e5fb76f6035ac6c62457b80d232cc8ca4da229bf]{
 -- Page 103, Offset 41683.
@@ -1649,12 +1651,12 @@ You're still a student after all,
 -- Page 103, Offset 41684.
 -- ですから今回は遠野くんを信じて、三年間だけ離れる事にしたんです」
 // Just cranking the SHIT out of the bloom filter
-So I'll just believe in you, and leave you alone for three short years."
+So I've decided to put my faith in you, and commit to spending the next three years apart."
 }
-[sha:d1c6b7f916227480889a3df9d70443103f26547f]{
+[offset:41685]{
 -- Page 104, Offset 41685.
 -- ……そうか。
-I see...
+Right...
 }
 [sha:1c5cbbc5e999054eac4c7cc8229bc15712d1978b]{
 -- Page 104, Offset 41686.
@@ -1664,19 +1666,20 @@ Senpai believed in me.
 [sha:44280325135f1faa31d44ad01f18b32a227d19c5]{
 -- Page 104, Offset 41687.
 -- 俺がこの後もちゃんとやっていける事を。
-She believed that I'd continue do the right thing going forward.
+//She wanted him to live, etc.
+She believed that I'd be able to keep on going.
 }
 [offset:41688]{
 -- Page 104, Offset 41688.
 -- その結果が、
-Because of that―――
+And because of that―――
 }
 [sha:c7328cd9dd49fdffb82c502aa75a1536d95303cf]{
 -- Page 105, Offset 41689.
 -- 「そういう訳ですので、三人で遊びに行けるのは今回が最後かもしれないんです。ですから今度こそ、ちゃんとした思い出を作らせてください」
 "So there you have it;
  this might be the last chance the three of us get to go have fun together.
- That's why we have to make sure we make some wonderful memories this time."
+ As such, we have to make some wonderful memories together to make up for lost time."
 }
 [sha:483cc9cca64cec4823a0be94e438bc1f15bb641a]{
 -- Page 105, Offset 41690.
@@ -1697,22 +1700,22 @@ The center of my chest squirms like it's about to burst.
 -- Page 107, Offset 41693.
 -- 「遠野くん？　どうしました、胸なんか押さえちゃって。
 // Slightly tweaked 押す but just 'pushing' kinda odd in en
-"Tohno-kun? What's wrong? You're rubbing your chest with your hand.
+"Tohno-kun? What's wrong? Why are you holding your chest like that?
 }
 [sha:8189562b4a27326541bb330e78f6e155f612c4a6]{
 -- Page 107, Offset 41694.
 -- もう傷なんて何処にもないのに」
-It's not like you have any injuries anymore."
+There aren't any wounds left, are there?"
 }
 [sha:040591a42e87f0d6bc05c3c751e4b0926e43871a]{
 -- Page 107, Offset 41695.
 -- 「―――ですよね。
-"―――You're right.
+"―――Right, yeah.
 }
 [sha:caa62549abb30728c2d4d9d5a60c1f86e32deb90]{
 -- Page 107, Offset 41696.
 -- 傷跡なんて、ない方がいいに決まっている」
-Of course it's better if there's no scar."
+I'm obviously better off without the scar."
 }
 [sha:93d5cd167adc44d9892e17899cb88bd11bab06e6]{
 -- Page 107, Offset 41697.
@@ -1722,7 +1725,7 @@ I'm overwhelmed by sadness.
 [sha:75d89c013f0e238fc8f944c64184e32d99d5d88f]{
 -- Page 107, Offset 41698.
 -- そういう幸せを、この人は願ってくれたのだ。
-This person wished for this happiness for my sake.
+Because that's the sort of happiness she wanted for me.
 }
 [sha:fdf808b8b6c1a9562c8fdd9f21e0e49ef63c10b5]{
 -- Page 108, Offset 41699.
@@ -1732,7 +1735,7 @@ The bell rings.
 [sha:58f66f41bb2094a45bc113b017290869887dd693]{
 -- Page 108, Offset 41700.
 -- じき朝のホームルームだ。
-It's almost time for the morning homeroom.
+It's almost time for morning homeroom.
 }
 [sha:79236e26380b391c4a9e1c30144a36736708687e]{
 -- Page 109, Offset 41701.
@@ -1742,7 +1745,7 @@ It's almost time for the morning homeroom.
 [sha:3a7669501759ae4bdf995bc9ea9078faac42d568]{
 -- Page 109, Offset 41702.
 -- またお昼休みに、お邪魔しに行きますね！」
-I'll see you again at lunch!"
+I hope you don't mind me showing up again at lunch!"
 }
 [sha:8958d4f2ce98dad05b3ed004dc8f13e7c88819c1]{
 -- Page 109, Offset 41703.
@@ -1752,12 +1755,13 @@ Senpai turns to leave.
 [sha:5448d5e33e4cbc094fb707017a569878f6dfae95]{
 -- Page 109, Offset 41704.
 -- その背中を、
-Her back―――
+//Man, this just doesn't not work in EN, so we'll have to got for full intent here.
+She's leaving―――
 }
 [offset:41705]{
 -- Page 109, Offset 41705.
 -- その背中に、
-I need to tell that back―――
+She's leaving %{i}me%{/i}―――
 }
 [sha:f6576bc96e1903c1db6e5bb21a33e5e2af6c9c69]{
 -- Page 109, Offset 41706.
@@ -1767,7 +1771,8 @@ I need to tell her farewell.
 [sha:eb519a9f15dd48cfd7f046d3ac670596a74bd70a]{
 -- Page 110, Offset 41707.
 -- 「先輩のお父さんって、どんな人だったんですか」
-"Senpai, what kind of person is your father?"
+//tense very intended
+"Senpai, what was your father like?"
 }
 [sha:6801587842c58a9e5033aa7687e79aaf032d794d]{
 -- Page 110, Offset 41708.
@@ -1777,8 +1782,8 @@ I need to tell her farewell.
 [sha:a83636d80cbe07b3937374a9002d81c808197ea0]{
 -- Page 110, Offset 41709.
 -- わたしの家は小さなパン屋さんをやっていて、前に買いに来てくれたじゃないですか。お父さん、遠野くんのこと愉快な青年だって気に入ってくれましたし」
-My house is actually a small bakery, and you used to come shop there, remember?
- My father took a liking to you because he thought you were a pleasant young man."
+Our house is actually a small bakery, and you've even been there shopping, remember?
+ My dad actually took quite the liking to you. 'Pleasant young fellow', or whatever he said."
 }
 [sha:26405310c921e52d800f736aea227ab21f46ec4a]{
 -- Page 111, Offset 41710.
@@ -1788,7 +1793,7 @@ My house is actually a small bakery, and you used to come shop there, remember?
 [sha:dbc9d39b3f08b97ebd66df6ea7572ee2ec54d727]{
 -- Page 111, Offset 41711.
 -- ……ああ。そういう事も、ありえたのかもしれない。
-Yeah... I guess that's something else that could have been.
+Yeah... I suppose that could have happened, someplace, somewhere.
 }
 [sha:eb8a1f5d4ce1179a95007e17a428905717dc25dc]{
 -- Page 111, Offset 41712. Mods: @n.
@@ -1798,17 +1803,17 @@ Yeah... I guess that's something else that could have been.
 [sha:b1c7ff776f1869bea06ef3e49b4aefd1d61fecd1]{
 -- Page 111, Offset 41713. Glued.
 -- でも、違うんだ。
-But, it isn't true.
+But it didn't.
 }
 [sha:b64221a40a1c0e78e3caf370fd355fdda74d8dce]{
 -- Page 111, Offset 41714.
 -- 先輩。あなたのお父さんが、生きている筈は、なくて。
-Senpai... There's no way your father could still be alive.
+Senpai, your father couldn't possibly be alive.
 }
 [sha:ca3347dac5f7a8049995e495cf50fbc0972585e5]{
 -- Page 111, Offset 41715.
 -- 俺が、こんな風に、生きている筈は、なくて。
-Just as... there's no way that %{i}I%{/i} can be alive in this state.
+Just as I couldn't possibly be alive right now either.
 }
 [sha:a320fd5bf91495ae5e90320fb8f06e572fe7fdd5]{
 -- Page 112, Offset 41716.
@@ -1828,61 +1833,61 @@ Warmth rapidly fades from my surroundings.
 [sha:9b60dbd6a7aeac12d7f19628a8eab97986c3003e]{
 -- Page 113, Offset 41719.
 -- 「気付いちゃったんですか、遠野くん？」
-"You've realized, haven't you, Tohno-kun?"
+"So you've noticed, Tohno-kun."
 }
 [sha:e41caad7df3301bf14695a7f1208b85a153cf665]{
 -- Page 113, Offset 41720.
 -- どこか物悲しい声で、そんな事を聞いてくる。
-She asks me that with sadness in her voice.
+There's a hint of sadness in her voice.
 }
 [sha:90cabe50b8ea544abba19b1ae640154e7561a720]{
 -- Page 114, Offset 41721.
 -- 「――――――ああ、気がついた」
-"―――Yeah... I've realized."
+"―――Yeah... I have."
 }
 [sha:a00af220cd9d2d21e4ab017a88a4e20c1726b6a5]{
 -- Page 114, Offset 41722.
 -- 言って、瞳が涙で<滲|にじ>んだ。
-As I answer her, my eyes fill with tears.
+My eyes fill with tears at my own words.
 }
 [sha:9c60229a6f2b4db86df8cb81dfe555c777e2ff06]{
 -- Page 114, Offset 41723.
 -- ―――気がつかなければよかった。
-―――It would have been nice if I hadn't noticed.
+―――I shouldn't have noticed.
 }
 [sha:f67242ba0d76c58992e31b00b6db9ad25fa1bc17]{
 -- Page 114, Offset 41724.
 -- そうすれば―――このまま幸せな時間が、誰も傷つくことのない一日が続いていただろうから。
-If I hadn't, I could have kept on living out this blissful day;
- one on which nobody gets hurt.
+Because then this beautiful moment――
+this wonderful day without any troubles would surely have kept on going.
 }
 [sha:d45c26812854ccf29c59e3f14338d9e67a237b7c]{
 -- Page 115, Offset 41725.
 -- 「すごいですね。普通、気がつかないものなんですよ、こういうのって。おかしな所とか辻褄が合わない所とか、そんな都合の悪い事はみんな無視しちゃうのに」
 "I'm surprised.
  People don't normally notice when this happens to them.
- Even if some things are strange or inconsistent, they all choose to just look the other way."
+ Even if some things are strange or out-of-place, most choose to just look the other way."
 }
 [sha:36e1c3279c10d76ed3590fca68cf436670e39ff7]{
 -- Page 115, Offset 41726.
 -- 「―――そうだね。少しぐらいおかしくても、それが幸せであるのなら、無視すれば良かった」
 "―――Yeah, you're right.
- Even if it was a little strange, if it made me happy, maybe I should have just looked past it."
+ Maybe I should've just ignored the odd inconsistencies if it meant that I could keep on being this happy."
 }
 [sha:36c620d0073610521009c08f0766e2d6db51ad64]{
 -- Page 116, Offset 41727.
 -- 「そうですよ。そんな事にさえ嘘をつけないなんて、ほんと、正直なんですから」
-"Exactly. The fact that you wouldn't even lie to yourself about that shows just how honest you really are."
+"Exactly. To think you can't lie to yourself even about something like that. You really are honest to a fault."
 }
 [sha:aabfd76a59f17796feabd51f16128dba438989f3]{
 -- Page 116, Offset 41728.
 -- ……先輩は。
-Senpai says―――
+Senpai―――
 }
 [sha:fee28e3e2cc5ccc3143827ab7ae16ec00a90457e]{
 -- Page 116, Offset 41729.
 -- 先輩に似た彼女は、本当に悲しそうに、そんな言葉を口にした。
-The person who %{i}looks%{/i} like Senpai says those words with true sadness in her eyes.
+No, the person who %{i}looks%{/i} like Senpai says those words with true sadness in her eyes.
 }
 [sha:7210839f45ef73b318e1583c83277cbf04b7aebe]{
 -- Page 117, Offset 41730.
@@ -1892,38 +1897,38 @@ The person who %{i}looks%{/i} like Senpai says those words with true sadness in 
 [sha:dab67995be362a07b5b0f1eaac7c4f85c7d6ce01]{
 -- Page 117, Offset 41731.
 -- ひどく、彼女に申し訳がなくなって、後悔で胸が締め付けられた。
-I feel so sorry for her that it breaks my heart.
+I feel so sorry――so regretful――for doing this to her, that it almost breaks my heart.
 }
 [sha:3f0dc4cc6f82ad351385c67c93b3b2bcf733024e]{
 -- Page 118, Offset 41732.
 -- でも仕方がないじゃないか。
-But there really was no way around it.
+But how could I not have noticed?
 }
 [sha:f9ec2ca62166ac27bed28bed049d3f50ca5033ae]{
 -- Page 118, Offset 41733.
 -- 以前のままの学園生活。
-The same old school life from before.
+My same old student life from before.
 }
 [sha:9d1c9b998dc2984e56f49d70966d5b621a4710f2]{
 -- Page 118, Offset 41734.
 -- この街に住んでいたかのようなシエル先輩。
-A version of Ciel-senpai who had always lived in this city.
+Ciel-senpai seeming as if she'd always lived here.
 }
 [sha:e425f5eab991211527f81d1d96c3cb7da8f9f771]{
 -- Page 118, Offset 41735.
 -- 七年前の胸の傷痕のない遠野志貴。
-A Tohno Shiki without the scar on his chest from the events of seven years ago.
+Me without the scar on my chest I got seven years prior.
 }
 [sha:c55e22dafaa56b5c0c806e79cbe1f273102aa15d]{
 -- Page 118, Offset 41736.
 -- ……悲しいことは何一つない、今までに似た時間。
-A moment in time untouched by sadness...
- just the way it used to be.
+A moment in time untouched by sadness――
+much the way it used to be.
 }
 [sha:c6d0613925ba025a0bd58e064b0f00efb5a72948]{
 -- Page 118, Offset 41737.
 -- ―――それが、あんまりにも幸福だから。
-―――Such bliss was too much for me to handle.
+―――Such happiness was too much for me to handle.
 }
 [sha:534231d020b2772dfa145315a672431bac3acf33]{
 -- Page 118, Offset 41738.
@@ -1934,26 +1939,26 @@ And so... I realized this was all a dream.
 -- Page 119, Offset 41739.
 -- 「遠野くんはいつもそうですよね。些細な事は見逃してくれるクセに、本当に見逃してほしい事だけは気がついてしまう。それが遠野くんのいいところなのかもしれません。
 "This is just like you, you know.
- You never quibble about the little things,
- but as soon as there's something I really wish you'd overlook,
- you notice it immediately.
+ For how easily you overlook the small things,
+ you sure are quick to pick up on the things I %{i}really%{/i} wish you wouldn't.
  Then again, maybe that's just one of the things I like about you.
 }
 [sha:411823caf75a148b40078cfec62d921fad3f7940]{
 -- Page 119, Offset 41740.
 -- でも―――今回ぐらいは、見逃してくれても良かったのに」
-Still――it would have been nice if you had overlooked things, just this once."
+Still――it would've been nice if you had hadn't picked up on it, just this once."
 }
 [sha:048d42ce0b60ea7425c9c553484cefa20328959a]{
 -- Page 120, Offset 41741.
 -- ……恨み事になっていない。
-She isn't saying this out of resentment...
+There's no actual bitterness to her words.
 }
 [sha:453d3f94bca6dfaef14bb2f80bda81625156f52a]{
 -- Page 120, Offset 41742.
 -- そんな笑顔で言われても、ぜんぜん、恨み事に聞こえない。
-Even with that smile on her face,
- there isn't a hint of resentment in her voice.
+//When Ciel is mad and smiles she uses the 'eyes closed' sprite, and that's not the one used here.
+//Is this just a mistake?
+How could there be, when she says them with such a warm smile on her face?
 }
 [sha:ef88f572f75a5383b206a9b7f289473f72cadb46]{
 -- Page 121, Offset 41743.
@@ -1963,29 +1968,31 @@ Even with that smile on her face,
 [sha:fe98f41174767f0f72e15adf7b7d4cd6d9fbe7c5]{
 -- Page 121, Offset 41744.
 -- あ、消えるのはこちらだけなので心配はいりませんよ。
-Ah, but don't worry――I'm the only one who's going to disappear.
+Oh, but don't worry――I'm the only one who's going to disappear.
 }
 [sha:55d8f0271f7d5093c8a3281651bb57d8df500197]{
 -- Page 121, Offset 41745. Mods: @n.
 -- 事情とか、そういうのを説明できなくてごめんなさい。だって、そうすると遠野くんを
 I'm sorry that I can't explain everything to you.
- But if I did,
+ Because if I did,
 }
 [sha:b80697b3239dc67e32f0f81a854731f2b8e3d619]{
 -- Page 121, Offset 41746. Glued.
 -- 泣かしてしまいそうなので。
- I'd only end up making you cry.
+ I'd probably only end up making you cry.
 }
 [sha:36fc13390764dfe1fb0c3399fc6e47c7fac49c86]{
 -- Page 121, Offset 41747.
 -- それは良くない、と茶道室で怒られちゃいましたからね。どうぞ、安心して目を覚ましてください」
-And I can't have you scolding me again for that like you did before in the tea ceremony room, can I.
- So please, go ahead and relax, and open your eyes."
+//reference to conversation around 27759 on Day 10
+//安心して目を覚ましてください as in, "wake from the dream".
+And you told me in the tea ceremony room to not do that, after all.
+ So please, don't worry; go ahead and awaken."
 }
 [sha:f086ba69df1abdd69890e65e046ecc9a3b1ef045]{
 -- Page 122, Offset 41748.
 -- 「……どう、して」
-"Why...?"
+"W-Why...?"
 }
 [sha:d59abaf4dac822cd40f7edde41e8daab6d8af693]{
 -- Page 122, Offset 41749.
@@ -2016,22 +2023,23 @@ As a result, she returned to being human.
 [sha:99bcee35408633d299e2360d24df2bfc91729039]{
 -- Page 123, Offset 41754.
 -- そう。人間らしく、自分の意志で、自分の欲しいもののために、生きていく自由を得たのです」
-That's right...
- She obtained the freedom to live as a human,
- on her own terms,
- and for the sake of her own desires."
+Yes...
+ She obtained the freedom to live by her own free will,
+ and for the sake of her own desires, like a human should."
 }
 [sha:e4c7c9c6869b73a9296cfa9faa9d0fb1eaf822b5]{
 -- Page 124, Offset 41755.
 -- 「まったく強欲ですよね。そうなった途端、どうしても、<彼女|わたし>には欲しいものが出来てしまって。
-"It truly is greedy, isn't it? As soon as that happened,
+"It truly is greedy, isn't it?
+ As soon as that happened,
  she... %{i}I%{/i} immediately had something I wanted no matter what.
 }
 [sha:7f5eb909a9d1dc0598babd72f1128ed28968a944]{
 -- Page 124, Offset 41756.
 -- ロアの知識も悪いものだけではありませんね。<15|キャーンズ>の秘蹟が、こんな事に役立つとは」
-Roa's knowledge isn't all bad.
- In this case, the sacrament of <15|q u i n z e> was just what I needed."
+//Maybe put back the 15 above Quinze instead, if needed.
+Roa's knowledge isn't all bad, I suppose.
+ In this case, the Sacrament of Quinze was just what I needed."
 }
 [sha:f7289aba0739ada5364dbc066045195bfb705517]{
 -- Page 125, Offset 41757.
@@ -2041,17 +2049,20 @@ Roa's knowledge isn't all bad.
 [sha:0f5cb34b1e4334bd105816b0a60d50a406e74119]{
 -- Page 125, Offset 41758.
 -- 「はい。色々と考えたんですけど………
-"Yeah. I thought about that a lot...
+//she's kind of ignoring him.
+"You see, I thought about a bunch of solutions.
 }
 [sha:5ce4d411b3304cbbff1049fe0c3e3c1a57543326]{
 -- Page 125, Offset 41759.
 -- ひとりを生かす為には、ひとり分の命が必要でしょう？」
-But in the end, it takes one person's life to allow another to live, right?"
+But ultimately,
+ for a single person to come back to life,
+ you need a single person's worth of life, right?"
 }
 [sha:c88f3ce3d8ec35be1220f1f6378381ad8150ad47]{
 -- Page 125, Offset 41760.
 -- 「だから、どうして……！」
-"But why?!"
+"I asked %{i}why%{/i}!"
 }
 [sha:729dc5fbd42af075abecd773992f4eb99c049c0a]{
 -- Page 126, Offset 41761.
@@ -2067,19 +2078,19 @@ So now, it's my turn to give you something back."
 [sha:2c877503add5770def939be1f44dffe72a9998ef]{
 -- Page 126, Offset 41763.
 -- 「―――いらない。いらなかった。そんなものより、俺は」
-"―――I don't want it.
- I never wanted this.
- What I really want, is..."
+"I don't want it.
+ And I never did.
+ What I actually wanted was―――"
 }
 [sha:d8485e1c5cb614f8d4f2e2b2fc92b8270530cded]{
 -- Page 127, Offset 41764.
 -- さっきのような出来事を。
-What I really want is what she showed me a moment ago.
+What I actually wanted was what she showed me a moment ago.
 }
 [sha:078ac6392a527a1b0dcaa5c3a30fe301f027cb3f]{
 -- Page 127, Offset 41765.
 -- なんでもない、ただ誰かと笑い合える日々の繰り返しを、
-To live each ordinary day as it comes, able to laugh together with someone...
+To live each unremarkable day as it comes, and to have someone to share a smile with...
 }
 [sha:5df918b61333aec7a810dadcc0bb39f3da27c65f]{
 -- Page 128, Offset 41766.
@@ -2089,58 +2100,59 @@ She seemed so happy as she spun that fantasy.
 [sha:7f8afa16661db8b3c3494c313000668062fc9b42]{
 -- Page 128, Offset 41767.
 -- イヤな事も苦しかった事もなくて、
-A world without anything unpleasant or painful―――
+A world without troubles or pain―――
 }
 [sha:c71bf8abe56f5e9e0319e6d8d3e90c1da5ffa528]{
 -- Page 128, Offset 41768.
 -- 新鮮な出来事も悲しい出来事も平凡で、それなりに輝かしい毎日。
 Where everything that happens,
- whether novel or sad,
- is perfectly ordinary...
- Where every day is brilliant in it's own special way.
+ whether unfamiliar or sad,
+ is perfectly ordinary――
+where every day is brilliant in it's own special way.
 }
 [sha:4c05c8c10e407a34e755819d04c62d373bee8eea]{
 -- Page 128, Offset 41769.
 -- それが。そんな、ありふれた、ものが。
-Those days...
- Those utterly ordinary days were―――
+//Nasu literally doesn't completely a sentence 3 lines in a row.
+//Sadly these HAVE to go together to work out
+If those days――
+those utterly ordinary days―――
 }
 [sha:99f98ab86e73b01b601aebaa503478d80d8d00bd]{
 -- Page 129, Offset 41770.
 -- 「―――先輩にとって、かけがえのない、夢だったのなら」
-"―――To you, they were a precious, irreplaceable dream..."
+"―――If they were a priceless dream to you, then..."
 }
 [sha:e34b93378f306b33b1ad7ae3342efc911e0b050e]{
 -- Page 129, Offset 41771.
 -- 俺が何にも代えて、守らなくてはいけなかったものは、
-Something that I should have protected, whatever the cost―――
+What I should've protected, no matter the cost, was―――
 }
 [sha:205cb6a81fd337c65583904e84c1e02eebcda9de]{
 -- Page 130, Offset 41772.
 -- 「そうですね。この夢は、彼女がずっと忘れていて、ずっと欲しかったものでした。
 "I suppose you're right.
- This dream is something she had always wanted, but had long forgotten.
+ This dream is something she had always wanted, yet long forgotten.
 }
 [sha:d86defdcb358247a7928a333bc2109222317fe6f]{
 -- Page 130, Offset 41773.
 -- でも―――」
-But then again―――"
+But even so―――"
 }
 [sha:bfa0767f465960a1d5066d510f4ac0551ef8d5d1]{
 -- Page 130, Offset 41774.
 -- やめてほしい。やめてください。もう終わってしまった事だとしても、どうか、お願いだから、
-Stop. Please stop. Even if it's already over, I'm begging you, please...
+Stop, please, stop. Even if it's already over, I'm begging you, please...
 }
 [sha:b221938e87a4d7e837cfbd5b031f1ea2b7bd85b0]{
 -- Page 130, Offset 41775.
 -- 「この先に待つどんな贖罪より、どんな救いより。
-"But there was something I wanted more than atonement;
- more than any salvation that might be waiting for me.
+"There was something I wanted more than any salvation or atonement that was in store for me.
 }
 [sha:f170d2e999cd7affa34b745c6ca6fe7914759757]{
 -- Page 130, Offset 41776.
 -- わたしは、あなたの幸福が、ほしいのです」
-The one thing I wanted most... was for you to be happy."
+And that... was for you to be happy."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 131, Offset 41777.
@@ -2150,7 +2162,8 @@ The one thing I wanted most... was for you to be happy."
 [sha:96a66b41a09f108645f20b6524575f2de1afc184]{
 -- Page 131, Offset 41778.
 -- 罰のように目を覚ます。
-I wake up like it's some form of punishment.
+//Tonally doesn't work
+My awakening feels like a punishment.
 }
 [sha:8d6d7cec256815f8093bd169ddab8d36ab4d2fc8]{
 -- Page 131, Offset 41779.
@@ -2165,7 +2178,7 @@ I'm lying down on the ground, looking up.
 [sha:0dc10349d6f7cb280325c2ceb094658117187538]{
 -- Page 131, Offset 41781.
 -- 頭の位置には誰かの膝が枕代わりにおかれている。
-My head is resting on someone's lap.
+My head has been propped up on somebody's lap.
 }
 [sha:2efbb881f6a01068c4794c390665be0d4fe07446]{
 -- Page 132, Offset 41782.
@@ -2195,22 +2208,22 @@ Tohno Shiki's body is in perfect health.
 [sha:dd1e1947e7effa5f99b4231ea1bfcb14c910a067]{
 -- Page 134, Offset 41787.
 -- ……そして、言うまでもなく。
-And so, it goes without saying...
+And so, needless to say...
 }
 [sha:b6e2b5f3e7cff760bd37f4ff69f84a1c2bae8c40]{
 -- Page 134, Offset 41788.
 -- 人間に戻った以上、死から目覚める事はない。
-Since, as a human, it's impossible for me to have come back from the dead―――
+Now that I am human again, I cannot return from the dead―――
 }
 [sha:eef0a44adf5270b3c9e55c123403ee827fd69847]{
 -- Page 134, Offset 41789.
 -- あるとすれば、それは、何か、大きな代償が、あったからで。
-The fact that I have means that someone has paid the ultimate price in return.
+So the fact that I have means that someone has paid the ultimate price in return.
 }
 [sha:1a6254c53e3cc8319b212c2665680359531356e9]{
 -- Page 135, Offset 41790.
 -- 「―――先、輩」
-"Sen...pai."
+"Sen――pai."
 }
 [sha:0577a68dda9b178c651d7b3e1b434b85b065b345]{
 -- Page 135, Offset 41791.
@@ -2232,12 +2245,12 @@ I trace the path her tears took down her cheeks with my finger.
 -- 呼吸も、身じろぎも、返答もない。
 I feel no breath.
  No movement.
- No reply.
+ No response.
 }
 [sha:c3a093d1c2c50b87afdfe013f35e562056e9e3f3]{
 -- Page 135, Offset 41795.
 -- それはとても静かな、穏やかな死相だった。
-An incredibly quiet, peaceful, repose.
+An incredibly quiet and peaceful, eternal repose.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 136, Offset 41796.
@@ -2252,28 +2265,28 @@ I don't know the details. I don't know how she did it.
 [sha:22333e76822fe1bc676474de6aaf61dadab41a06]{
 -- Page 136, Offset 41798.
 -- ただ、結果だけは分かる。
-All I know is the result.
+All I know is the outcome.
 }
 [sha:6cceb26681ae513bc10c63e754a72c1e0e1df379]{
 -- Page 136, Offset 41799.
 -- ひとりの男が死んだ。
-A man had died.
+a single man had died.
 }
 [sha:973c4325dd2353f24fa7cc2dc10993fa7cb9103c]{
 -- Page 136, Offset 41800.
 -- その命を補填する為に、ひとりの女が死んだ。
-To compensate for his life,
- a woman died.
+So to compensate for his life,
+ a single woman died for him.
 }
 [sha:e652a94dc6d289efabe3e5dd6d666cef8e05aa8d]{
 -- Page 136, Offset 41801.
 -- これはただ、それだけの話だ。
-That's all there was to it.
+That's all there is to it.
 }
 [sha:db8bddeefe20c1d52416a637d04b640329995c37]{
 -- Page 137, Offset 41802. Mods: @n.
 -- 「――――――、ぅ
-"――――――
+"%{i}Hngh%{/i}―――
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 137, Offset 41803. Glued.
@@ -2288,7 +2301,7 @@ It isn't gratitude that fills my heart, or the simple feeling of being alive.
 [sha:df8143c5089df9d90733cd6d3c7fc38321e7d825]{
 -- Page 137, Offset 41805.
 -- 眼から、喉からあふれるものは、子供のような慟哭だった。
-What leaks from my eyes and throat is nothing more than the wailing of a child.
+What spills from my eyes and throat is nothing more than the wailing of a child.
 }
 [sha:5ed8bd80dbb2108e913bddc255cb602f959adc94]{
 -- Page 137, Offset 41806.
@@ -2305,10 +2318,10 @@ I begged her to stop, to not leave me behind, and yet...
 -- 自らの未来を差し出す選択を彼女はした。
 She made the decision to sacrifice her own future.
 }
-[sha:670420aaa3cb10cfc520fd1f52aebab89524bae4]{
+[offset:41809]{
 -- Page 138, Offset 41809.
 -- 「―――、――――――」
-"―――――――――"
+"%{i}Gh%{/i}――%{i}ngh%{/i}...%{i}hngh%{/i}"
 }
 [sha:73c6fc006b5f49a0ef55824f360f380aa0866650]{
 -- Page 138, Offset 41810.
@@ -2320,19 +2333,19 @@ She made the decision to sacrifice her own future.
 -- Page 138, Offset 41811.
 -- こ、これからは恋人同士なワケですし”
 // Reference 36655
-I-I guess this makes us lovers, doesn't it.'
+I-I guess this makes us lovers, doesn't it?'
 }
 [sha:f13342ce48589968a467131435243993e4fa771a]{
 -- Page 138, Offset 41812.
 -- 知ってる。きっと先輩は諦めなかった。だから、
 I know.
  I know you'd never give up.
- That's why―――
+ And because of that―――
 }
 [sha:ffb32ba3210cc36cb9004fb959f64cb9c9e6259b]{
 -- Page 139, Offset 41813. Mods: @n.
 -- 「うぅ、あ―――」
-"%{i}Uu%{/i}, %{i}ah%{/i}―――"
+"%{i}Ughn%{/i}――%{i}hic%{/i}! %{i}Ngh%{/i}..."
 }
 [sha:e66e8d876f124f8848b0de2c075e049f3db9589a]{
 -- Page 139, Offset 41815.
@@ -2349,7 +2362,7 @@ You see... I love you ten times――no, a hundred times more than you love me, 
 [sha:14ca226dbca5e51ccdcd8b814658edb8862b5f52]{
 -- Page 139, Offset 41817.
 -- だから、最後まで俺を救う道を、諦めなかった。
-That's why you never gave up on finding a way to save me.
+Because of that, you never gave up on finding a way to save me.
 }
 [sha:62f6c6952942f5b0d71a32381231d44985f39864]{
 -- Page 140, Offset 41818.
@@ -2369,12 +2382,12 @@ She also wished for me to be happy.
 [sha:2e36c85e05e54f81fc76e39d73842465cd33c4f6]{
 -- Page 141, Offset 41821.
 -- 「……う、ぐ……、ああ、ああぁああ…………！」
-"%{i}Uu%{/i}... %{i}gh%{/i}... %{i}aah%{/i}, %{i}aaaaah%{/i}...!"
+"%{i}Ughn%{/i}――%{i}kh%{/i}... %{i}Nngh%{/i}... %{i}Nnngh%{/i}!"
 }
 [sha:99bcb3b6805a25518de357dcfaaf39cd4dc7ae3f]{
 -- Page 141, Offset 41822.
 -- 胸を裂くような後悔と悔しさがあふれ出す。
-My chest is so full of pain and regret that it feels like it's about to burst.
+My heart-rending feelings of pain and regret come spilling out.
 }
 [sha:49570dfb8abac93b9223cc9537aa4ed8944f54ef]{
 -- Page 141, Offset 41823.
@@ -2395,13 +2408,13 @@ All of them are washed away by my tears.
 [sha:aca5bede064fd8dbd78cc56678186d8455b6ed78]{
 -- Page 141, Offset 41826.
 -- それがこの出来事の、最後の記憶になった。
-That will be my final memory of this whole affair.
+Those will be my final memories of this whole affair.
 }
 [sha:1bca5ff12dbcad1da629efd4ad123f2a9b8566d7]{
 -- Page 142, Offset 41827.
 -- もう取り戻せない、愛しいひとの姿を見納めする。
-I take my last look at the person I loved,
- and who will never again return.
+//見納め as in, "I STOP looking"
+I turn my eyes away from my beloved, who will never again return.
 }
 [sha:e2dfa65ddc7c67df988c2bf6889f70170bbee00f]{
 -- Page 142, Offset 41828.
@@ -2412,7 +2425,7 @@ I continue gazing up at the night sky until the moon is out of sight,
 [sha:bd972d9b87d2c3fa2842d2939aa16f796a6db36d]{
 -- Page 142, Offset 41829.
 -- 夜に、虹が見える筈もないというのに。
-Even though I know it's impossible to witness a rainbow in the night...
+Even though I know it's impossible to witness a rainbow in the night.
 }
 [sha:a7ab830554646b44b3a04e5c6cb74ec9839ddc14]{
 -- Page 143, Offset 41830. Mods: @k, @e.
