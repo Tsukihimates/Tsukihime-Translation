@@ -5451,63 +5451,101 @@ Her animosity and bloodlust are plain as day.
 }
 [sha:f41e27c139d3bc6547ad6152372198ebd406998e]{
 -- 翡翠の声で目を覚ました。^彼女は夜中に抜け出している事に^気付いているようだが……。
-翡翠の声で目を覚ました。^彼女は夜中に抜け出している事に^気付いているようだが……。
+// @flowchart_descr
+I wake up at the sound of Hisui's voice.
+ It seems like she noticed I slipped out in the middle of the night...
 }
 [sha:b75229868e2ccdd035064eb7325f0f806303c3e0]{
 -- 秋葉との会話で、つい自問する。^思い浮かぶのは彼女達の顔。^自分がしたい事は何なのだろう。
-秋葉との会話で、つい自問する。^思い浮かぶのは彼女達の顔。^自分がしたい事は何なのだろう。
+// @flowchart_descr
+During my chat with Akiha, she asks me a question.
+ Their faces are the first things that come to mind.
+ Just what is it that I want to do?
 }
 [sha:efb15041e87f52abf049a546fcd77d1984296192]{
 -- 教室に着くとシエル先輩がいた。^不機嫌な様子が見て取れる。^原因はアルクェイド、だろうか。
-教室に着くとシエル先輩がいた。^不機嫌な様子が見て取れる。^原因はアルクェイド、だろうか。
+// @flowchart_descr
+When I arrive at my classroom, I find that Ciel-senpai is already there.
+ She's clearly in a bad mood.
+ No doubt Arcueid is to blame.
 }
 [sha:ec05ccddc9a6629f463ee86a4c90a6fc03963a6b]{
 -- 貧血が意識を途切れさせる。^暗闇に落ちたその先で、^血の匂いのする夢を見ていた――
-貧血が意識を途切れさせる。^暗闇に落ちたその先で、^血の匂いのする夢を見ていた――
+// @flowchart_descr
+Anemia serves to sever my consciousness.
+ Having tumbled into the darkness, I witness a dream that reeks of blood――
 }
 [sha:cd498e34e83ad90165339d8ee7ff12de1939fa6b]{
 -- 保健室で目を覚ました。^カーテンの向こうから、^誰かの話し声が聞こえてくる……。
-保健室で目を覚ました。^カーテンの向こうから、^誰かの話し声が聞こえてくる……。
+// @flowchart_descr
+I wake up in the infirmary.
+ I can hear someone chattering away on the other side of the curtain.
 }
 [sha:05fff38535de1c7ad5f041188bc531a3905ef824]{
 -- ……などと答える前に、^あっさりと却下されてしまった。^警告を残して先輩は去って行く。
-……などと答える前に、^あっさりと却下されてしまった。^警告を残して先輩は去って行く。
+// @flowchart_descr
+I'm shot down before I can even make a proposal.
+ After issuing me a warning, Senpai leaves the infirmary.
 }
 [sha:1adba3007e861b608cd55f7f9e4e9127e2ee0d85]{
 -- 午前の授業は終わった。^昼食はひとりで済ませようか、^それとも先輩の所に行こうか。
-午前の授業は終わった。^昼食はひとりで済ませようか、^それとも先輩の所に行こうか。
+// @flowchart_descr
+Classes are over for the morning.
+ Should I eat lunch alone, or go meet up with Senpai?
 }
 [sha:28b30c821bf8771166405e549ec313d8c7fba48d]{
 -- 先輩が購買部に行かずに^外出するとか……^何かあるに違いない……。
-先輩が購買部に行かずに^外出するとか……^何かあるに違いない……。
+// @flowchart_descr
+Senpai's headed for the school gate instead of the school store...
+ Something must be afoot.
 }
 [sha:d17f679c546eabf9d19a5404d78be7af84707880]{
 -- 所以不明の病院跡。^とどまる理由がない。^出るべきだと提案した。
-所以不明の病院跡。^とどまる理由がない。^出るべきだと提案した。
+// @flowchart_descr
+We've combed through the ruins of the mysterious dilapidated hospital.
+ There's no reason for us to stick around.
+ I suggest we leave.
 }
 [sha:7f2db77a11ad71b88e820771812b6a595d41dd02]{
 -- 時刻は午後３時。^そういえば昼食を抜いていた。^どこかで食べていこうか……？
-時刻は午後３時。^そういえば昼食を抜いていた。^どこかで食べていこうか……？
+// @flowchart_descr
+It's 3 o'clock in the afternoon.
+ Oh yeah, I skipped lunch...
+ Shall we go eat somewhere?
 }
 [sha:6f9a97811615b83bd93615d44b432c2adf9ce8ed]{
 -- 先輩を騙すようで心苦しいが、^約束はこちらが先だった。^今夜も吸血鬼探しを始めよう。
-先輩を騙すようで心苦しいが、^約束はこちらが先だった。^今夜も吸血鬼探しを始めよう。
+// @flowchart_descr
+I feel bad about deceiving Senpai, but I'd made a promise with Arcueid first.
+ It's time to go vampire hunting again tonight.
 }
 [sha:17ab07ba2b39bd7374d23100802992e4b5730f5d]{
 -- あの人に命を救われた。^あの人に街を守ってもらった。^でも、それとは別の話として……。
-あの人に命を救われた。^あの人に街を守ってもらった。^でも、それとは別の話として……。
+// あの人 both Ciel here, not arc.
+// 別の話 presumably referring to 尊敬と、好き嫌いは別の話だ。
+// @flowchart_descr
+Ciel was the one who saved my life.
+ Ciel was the one who protected the city.
+ But, respecting someone and liking someone are different things――
 }
 [sha:88175b0fe432b14cdf205da594131dc198e7f51f]{
 -- アルクェイドもほっとけないが、^シエル先輩も大切なひとだ。^敵とは思いたくはない。
-アルクェイドもほっとけないが、^シエル先輩も大切なひとだ。^敵とは思いたくはない。
+// @flowchart_descr
+Even if I can't bring myself to forget about Arcueid, Ciel-senpai is still precious to me.
+ I don't want to think of her as an enemy.
 }
 [sha:121cfd40ba2f123b361f2f3700ffd30cfde2c73f]{
 -- 新天地を求め集まった若者達。^振り降ろされた凶器は容赦なく、^彼らの体を圧し潰してゆく―――
-新天地を求め集まった若者達。^振り降ろされた凶器は容赦なく、^彼らの体を圧し潰してゆく―――
+// @flowchart_descr
+The youths had gathered at the promise of a brave new world.
+ But the weapon swung down upon them mercilessly shatters their bodies.
 }
 [sha:d95d42ad6e3f9b08454d758533d7eb01a447a61b]{
 -- まるで寝付く事ができない。^今夜も本を手に取った。^読んでいれば眠気も来るだろう。
-まるで寝付く事ができない。^今夜も本を手に取った。^読んでいれば眠気も来るだろう。
+// @flowchart_descr
+It's like I've completely forgotten how to sleep.
+ I pick up the book where I left off.
+ I'm sure I'll doze off if I start reading.
 }
 [sha:b0ba77308d778edbf1dc600932fe4c5862c1428e]{
 -- 何もかもがあり得ない事ばかりで^頭が上手く働いてくれない。^思い返すとしたら、それは……。
