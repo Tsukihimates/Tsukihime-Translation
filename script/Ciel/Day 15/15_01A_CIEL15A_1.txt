@@ -2463,12 +2463,13 @@ After spending my final night in this country,
 -- 呼び鈴ぐらい待ってろっつーの。色々と決断早いんじゃないのぉ？　そんなに生き急いでどうすんのよ、ガキのクセに」
 At least wait for me to come up and ring the bell first.
  Aren't you kinda jumping the gun here?
- What's a kid like you in such a hurry for anyway."
+ In more ways than one.
+ What's a kid like you feeling so rushed for anyway?"
 }
 [sha:bce8dc284b966f844cbcc98f53d6724c1b710c58]{
 -- Page 145, Offset 41837.
 -- アパートの外にはいつもの黒塗の高級車と、ボディガード役の二人の姿があった。
-Outside the apartment is the familiar blacked out sedan and two bodyguards.
+Outside the apartment is the familiar blacked out sedan with its two bodyguards.
 }
 [sha:6abe691eeb0d8a1f23593271c3dda6c54553905f]{
 -- Page 146, Offset 41838.
@@ -2484,14 +2485,14 @@ It would appear you are ready...
 [sha:7958dbb50eaff6809cfd974b1feed7ba187ed2ff]{
 -- Page 146, Offset 41840.
 -- 今さらだが確認しよう。本当にいいのか。取りやめるのならまだ間に合うが」
-It's a little late for me to ask, but――Is this really what you want?
- There is still time to back out if you so wish."
+It's a little late for me to ask, but――is this really what you want?
+ You can still back out if you so wish."
 }
 [sha:5e574fad088ffc2499db1560468d0112b49b373b]{
 -- Page 147, Offset 41841.
 -- 「なんだよその気遣い。ほんっと今さらですよカリウス君。
-"What are you being so considerate for?
- It's more than a %{i}little%{/i} late for that, don't you think, Karius-kun?
+"What's with the thoughtfulness?
+ More than a %{i}little%{/i} late for that, don'tcha think, Karius-kun?
 }
 [sha:c3b8726e8c4ea658c2aa31f61af8f6ce3d4ac1af]{
 -- Page 147, Offset 41842.
@@ -2501,45 +2502,47 @@ It's a little late for me to ask, but――Is this really what you want?
 // 2. Karius never opens he damn eyes
 // 3. 覚悟ガンギマリ -> Something along the lines of "do or die commitment"? https://www.youtube.com/watch?v=TDsBwqsklAk
 // 4. I guess the bad dreams are the other thing that would compel him to go?
-Besides, this guy's got the balls to go through with it.
- Maybe if you opened your eyes for once you'd be able to see that.
- He's either got some borderline insane determination,
- or he's been having terrible dreams every night."
+'Sides, really think he's the kinda guy to wuss out?
+ Don't the look in his eyes make that dead clear?
+ When someone's got this kinda bonkers resolve,
+ gotta ask yourself what goddamn nightmares are hauntin' em."
 }
 [sha:b7434dc41f4409b8ab645e39869257e066e8f1b2]{
 -- Page 148, Offset 41843.
 -- 銀髪の男性、カリウス氏と、
-The man with silver hair is Karius-shi.
+//Pretty sure we nuked -shi
+//If not, we should. Nobody gets it.
+The silver-haired man is Karius.
 }
 [sha:039d02b5f0a56e1d06e4f1f76efc1b7400c39e0a]{
 -- Page 148, Offset 41844.
 -- 日本人と思われる男性、安藤氏。
-The one who looks like he might be Japanese is Andou-shi.
+The Japanese looking one is Andou.
 }
 [sha:6bfc1254811d954dc713b3d22b8ed6de4c36a638]{
 -- Page 148, Offset 41845.
 -- この二人は聖堂教会の構成員、との事だ。
-These two are members of the Holy Church.
+Apparently these two are members of the Holy Church.
 }
 [sha:6815ee00420f030887e2a843401fd1547010f0ab]{
 -- Page 148, Offset 41846.
 -- 代行者ではなく、あくまで信徒として教会に所属しているらしい。
-As best I can tell they aren't executors, just ordinary followers of the Church.
+As best I can tell they aren't Executors, just ordinary followers belonging to the Church.
 }
 [sha:c1063765b89d54e9687c955280638a6dd709db9b]{
 -- Page 148, Offset 41847.
 -- 安藤氏は警視庁の刑事であり、
-Andou-shi is a detective at the Metropolitan Police Department.
+Andou is a detective at the Metropolitan Police Department.
 }
 [sha:5b07bfa05209ecc9ab14abac0d04b836a5c94eeb]{
 -- Page 148, Offset 41848.
 -- カリウス氏は<本国|イタリア>では判事であるとか。
-Karius is a judge back in the Church's home country of Italy.
+Karius is an Italian judiciary.
 }
 [sha:4ea3c894cf71855f02deab996dff281431a16184]{
 -- Page 149, Offset 41849.
 -- この二人と知り合ったのは、一年半前のあの夜の後だ。
-I met these two on that night, one and a half years ago.
+I met these two one and a half years ago, on that fateful night.
 }
 [sha:2d2733824bf70983c3acf847aa9234f376da25a6]{
 -- Page 149, Offset 41850.
@@ -2561,8 +2564,8 @@ They were armed with pistols and batons, and informed me they were there to coll
 [sha:41a9dfa354aa7716634850f359056ef04aa7738a]{
 -- Page 151, Offset 41853.
 -- こいつはトップランクの吸血鬼狩りだったが、同時にとんでもねえ金喰い虫だったからな。血の一滴、骨の一本まで教会の<財|も><産|の>にするに決まってんじゃねえか」
-She was a top-tier vampire hunter, but she also racked up one hell of a lot of expenses.
- You'd better believe that every drop of blood and bone in her body is property of the Church."
+Was a top-tier vampire hunter, but also racked up one helluva lotta expenses, see.
+ You'd better goddamn believe that every drop of blood, and every last bone in her body is Church property."
 }
 [sha:066c9459a05405cb74c9b6e1050a2332fbcc5383]{
 -- Page 151, Offset 41854.
@@ -2572,18 +2575,20 @@ When I heard him talk about her like that, I almost took off my glasses, but...
 [sha:2a0ab2d6ba5c9c5034e390b631cb25928a39d2ef]{
 -- Page 152, Offset 41855.
 -- 「だいたいな、オレが引き取らなきゃ埋葬機関に送られる。
-"Besides, if I don't take her, then they'll ship her off to the Burial Agency.
+"'Sides, if I don't take her, she'd be headed straight to the Burial Agency.
 }
 [sha:08808f56d20a90954e882444122d24a668207304]{
 -- Page 152, Offset 41856.
 -- あそこに送られたらそれこそ陵辱恥辱のオンパレードだ。
-If she ends up there it'll just be one indignity after the other.
+And if she ends up there it'll just be one indignity after the other.
 }
 [sha:ce51244931997f0d7d786a4c7972261afb6fa273]{
 -- Page 152, Offset 41857.
 -- 腐らないよう、安らかに眠れるよう、金かけて保存してやる分だけオレの方がマシって話だよ」
-If you want to stop her from rotting and let her rest in peace,
- you should just let me front the cost to preserve her."
+What I'm saying's that if you wanna stop her from rotting,
+ and let her rest in peace,
+ you're better off leaving her with me,
+ given I'll preserve her――all expenses covered."
 }
 [sha:4e84282ab51c5f26520ed2d207ed1c60151e1fcd]{
 -- Page 152, Offset 41858.
@@ -2594,7 +2599,7 @@ I could sense a genuine respect for her in their boss's words.
 -- Page 153, Offset 41859.
 -- 信頼できる人間と思った訳じゃない。それでも他に<縋|すが>る<藁|わら>はなく、俺はこの人物に、自分の望みを叩きつけた。
 I didn't think he could be trusted, or anything.
- I just didn't have any other straws I could clutch at,
+ I just didn't have any other straws I could grasp at,
  so I entrusted all my hopes with him.
 }
 [sha:ea2d5aa70ec26016b7936951f9944a283f773fde]{
@@ -2605,43 +2610,45 @@ I didn't think he could be trusted, or anything.
 [sha:2e6fd49de98a63c351eef8ccdc7d03cfa79f2d9f]{
 -- Page 154, Offset 41861.
 -- なんだそりゃ。テメェ、まだロアのクソ意識が残ってんのか？」
-Are you fuckin' serious right now?
- You still got Roa rattling around in your brain or something?"
+You fuckin' serious?
+ Still got Roa rattlin' around in your brain or something?"
 }
 [sha:7376439498948252b4923a94c85a92d597252ff0]{
 -- Page 154, Offset 41862.
 -- 教会に興味も関心もない。
-I don't care about the Church itself.
+I don't care the slightest about the Church itself.
 }
 [sha:c5a4a2c3e313b79845d6c90945f96edf214f7dc0]{
 -- Page 154, Offset 41863.
 -- 俺の目的は一つだけで、それを叶える方法が、今のところ教会……というか、この人物の下で働く道しかないと直感しただけだ。
-There's only one thing I want, but right now, I need to work for the Church to get it...
- Or rather, I feel like I need to work for this person.
+It's just that I have a feeling that the only way forward for me involves working under the Church――
+or more accurately――
+under this person if I want to find the method by which I am to achieve my true, actual goal.
 }
 [sha:8b104a4be032786cca0370cfec2b765c38601f53]{
 -- Page 155, Offset 41864.
 -- 「はあーん。なるほどねぇ。確かにそりゃあ坊ちゃんのご機嫌取るしかねえわ。
-"Aha, I see.
- Yeah, that's definitely not the way to get into the young master's good books.
+"Hmmm, makes sense, I guess.
+ True enough, if that's whatcha want, getting cozy with the young master's 'bout all you can do.
 }
 [sha:5c563cedba1020f3e9a6511f3b459f96b2f44c80]{
 -- Page 155, Offset 41865.
 -- 枢機卿は数いれど、非公認で天使の書庫を開けられるのはラウレンティス枢機卿ぐらいですし？
-There are a bunch of Cardinals,
- but only Cardinal Laurentis can open the Angel's Archives unofficially, right?
+There's tons of Cardinals,
+ but probably the only one who can open the Angel's Archives without permission gotta be Laurentis, yeah?
 }
 [sha:788579954725d9b6316fcbe73f2a99cf32e83f37]{
 -- Page 155, Offset 41866.
 -- 死人を生き返らせたいとか、ま、バカげた話だけどいいんじゃない？　若いうちはそういう夢見ても。
 I mean, trying to bring someone back from the dead is absurd, but hey, what's the harm?
- It's good to dream a little while you're still young.
+ Gotta dream big when you're still young and all that.
 }
 [sha:818ae8fe5380888a4071b8e60c631ad71c84e280]{
 -- Page 155, Offset 41867.
 -- でもさあ―――オタク、間違いなく人生棒に振るぜ？」
 // Assuming this is just also a dig at his glasses
-But still――you're gonna be wasting your life, four-eyes."
+// Just a pronoun
+But hey――you'll be throwin' your life to the wayside, y'know?"
 }
 [sha:d3c8987836701b569eab14fcfcaca4233493c19a]{
 -- Page 156, Offset 41868.
@@ -2651,28 +2658,28 @@ But still――you're gonna be wasting your life, four-eyes."
 [sha:ab2381f7027abd2037dbb5a62eaf0b3a345ebf9f]{
 -- Page 156, Offset 41869. Mods: @n.
 -- 教会の深部に足を踏み入れる機会は
-There has not been an opportunity for anyone to set foot within the depths
+The opportunity for you to set foot within the depths
 }
 [sha:ad76a28f246c1194048cf8277d1f5894a9ab8557]{
 -- Page 156, Offset 41870. Glued.
 -- 何十年かけても訪れず、
- of the church for decades.
+ of the church could take decades to arrive.
 }
 [sha:7aa3efe65d62b390aa95eaca049f5e4485c2ccc8]{
 -- Page 156, Offset 41871.
 -- その機会に恵まれたとしても、死者を蘇らす秘蹟はない。
-Even if such an opportunity were to arise, you would find no sacraments that can resurrect the dead.
+And even if such an opportunity were to arise,
+ you would find no sacraments that can resurrect the dead inside.
 }
 [sha:bef179933c27fed256645a5d500ab2da64578250]{
 -- Page 156, Offset 41872.
 -- それを承知の上で我々の社会に組するのか。
-With that in mind, do you still plan on stepping into our society?
+With that in mind, do you still plan on stepping into our world?
 }
 [sha:64c755be6d60f606b040164582b1c1286d7c1312]{
 -- Page 156, Offset 41873.
 -- ―――捨てる必要のない、追われる必要もない、豊かな故郷がありながら」
-You come from an excellent hometown.
- You have no need to throw it all away, or pursue anything greater."
+Despite having a home that you needn't either abandon or oust yourself from?"
 }
 [sha:a97b8c4456cc8eb34569ba8f20da01dd48308bed]{
 -- Page 157, Offset 41874. Mods: @n.
@@ -2703,35 +2710,35 @@ Someone who has no intention to ever contribute to the Tohno family would be not
 -- Page 158, Offset 41879. Mods: @n.
 -- 「そうなんだぁ。
 // God damnit we aren't free of this madwoman?
-"Aww, really?
+"Aww, wwweally?
 }
 [sha:58a9a0cc96f87643cddfd3ae943a7240f2a1dad7]{
 -- Page 158, Offset 41880. Glued.
 -- 志貴チャンもいなくなっちゃうんだぁ。
- So you won't be around anymore either, huh.
+ So we'll be losing you toooo?
 }
 [sha:5d7cdf2b8e71b26645a097665d0372efe62ff0e3]{
 -- Page 158, Offset 41881. Mods: @n.
 -- あーあ、つまんなくなってきたナー。アタシもクモ隠れしちゃおっかなー
-Geez, things are going to get real boring.
- Maybe I'd better scuttle off like a spider too
+Booey-hooey, everything's getting so boooring.
+ Maybe lil me better skitter off to my hiding webs too
 }
 [sha:2d7da5ea47a98e96731c9ed1a9468d3502c6b178]{
 -- Page 158, Offset 41882. Glued.
 -- ！」
-!"
+?"
 }
 [sha:c35234765d411cba04aa5e479acae22cf58e2d54]{
 -- Page 159, Offset 41883. Mods: @k, @e.
 -- 「あ、でもイタリアに行くんでしょ？　偶然よねぇ、アタシの知り合いもそっちにいるのだわ。<本|・><当|・><に|・><行|・><き|・><詰|・><ま|・><っ|・><た|・><ら|・>ここに連絡してみるといいかもぉ。
-"Ooh, you're going to Italy, right?
- That's funny, I have an acquaintance who lives there too.
- If you're ever %{i}at the end of your rope%{/i}, maybe you should hit her up?
+"Oh, but Italy was it, right?
+ Funny, I %{i}just%{/i} happen to have an acquaintance who lives there too.
+ If you're ever %{i}at the end of your rope%{/i}, maybe you'd best hit her up?
 }
 [sha:4fbf90c0032d874b4494b55bee216c2dd61c1bf9]{
 -- Page 159, Offset 41884. Glued. Mods: @x, @k, @e.
 -- 志貴チャンみたいな悩める青少年が大好物っていう、博愛主義のモンスターみたいなオバサンがいたりいなかったりするからぁ！
- There may or may not be a philanthropic monster of an old lady who fancies troubled young men like you!
+ See, there may or may not be a philanthropic monster of an old lady there who fancies troubled young men like you!
 }
 [sha:fdca2067f3397efcbc959436dd4a86bc81057927]{
 -- Page 159, Offset 41885. Glued. Mods: @x.
@@ -2741,62 +2748,62 @@ Geez, things are going to get real boring.
 [sha:5978a5ff81be26e2ef1aa1b860215a57fc40f5e9]{
 -- Page 160, Offset 41886.
 -- 「高校はまっとうに卒業するぅ？
-"You wanna finish high school?
+"You %{i}seriously%{/i} wanna finish goddamn high school?
 }
 [sha:b0da08a98bef0250945d57346c00f222b7481d7d]{
 -- Page 160, Offset 41887. Mods: @n.
 -- なんでそんなぬるい…………
-Why the fuck would you...
+Sentimental shit like that...
 }
 [sha:cff627a42370f8cde6e447dd589e9af17b299fe9]{
 -- Page 160, Offset 41888. Glued.
 -- ああいや、そうだな。
- Ah, yeah, that's right.
+ Actually, guess I get it.
 }
 [sha:dfe8f592311558d441209c5cf8200b4f955b4eda]{
 -- Page 160, Offset 41889.
 -- それがアイツの望みだった。そりゃあ、ツレとしてきっちり味わっておかねえと、それこそ合わせる顔がない」
-That's what she wanted, isn't it.
- I guess you'd be too ashamed to meet her if you didn't at least do that."
+That's what she wanted for you.
+ Wouldn't be able to look her in the eyes if you didn't at least do that."
 }
 [sha:90e4644400cc6764b5d16cb38d619a479ba88faf]{
 -- Page 161, Offset 41890.
 -- 「いいぜ、二年待ってやる。その間はアンドーとカリウスに訓練つけてもらえ。日本語だけじゃ話にならねえからな。西欧圏の語学と常識、<教|う><会|ち>と<死徒|あっち>の知識も教えてやるよ。
-"Fine, I'll wait two years.
+"Sure, I'll wait two years.
  In the meantime, get yourself trained up by Andou and Karius.
- You aren't gonna be able to get by only knowing Japanese.
+ Ain't gonna get by knowing only Japanese.
  They'll teach you the languages and sensibilities of the West,
- along with some bits here and there about the church and Dead Apostles.
+ along with some bits here and there 'bout the Church and Dead Apostles.
 }
 [sha:6379f74e88ba6d583134fbd56a7d1da4c0570653]{
 -- Page 161, Offset 41891.
 -- もちろん<只|ロハ>じゃねえ。かけた金は出世返しってな。向こうについたらせいぜいオレの為に働いてもらうぜ。
-Of course, I ain't running a charity here.
- I expect to see a return on that investment.
- I'm gonna work you to the bone once we get over there.
+'Course, I ain't runnin' a charity here.
+ Expect to see a return on that investment.
+ I'm gonna work you to the bone once you've come over.
 }
 [sha:e92d341fe49b75c0e96bce186679f714876fd795]{
 -- Page 161, Offset 41892.
 -- 安心しろ、テメェがどれほど落ちぶれようと、仕事と居場所だけは回してやる」
-But rest assured, no matter how hard you fall, I'll always give you work and a place to stay."
+No worries though, no matter how low you fall, I'll always give you work and a place to stay."
 }
 [sha:44b14bfb29889e1c84ed8d1e7fc1fc7f8aad2d5e]{
 -- Page 162, Offset 41893.
 -- 「オレの見立てじゃテメェの体と<精神|こころ>が持つのは10年だ。
-"Best I can tell, you've only got another ten years or so left on that body of yours.
+"Best I can tell, you've only got another ten years or so left 'til your body and mind fails you.
 }
 [sha:09e3b78685a529ecebf7b31485aa5960df4e15fe]{
 -- Page 162, Offset 41894.
 -- 時間はねえぞ？　それまでに目的の小指一本分ぐらいは叶えとけ。
-That ain't a lot of time, you know?
- You'd better try and get at least one thing ticked off your list before you go.
+Ain't a lot of time, you know?
+ Better try and get at least one thing ticked off the list before you go.
 }
 [sha:092f66dc0aeb3cec13a1d966bafc43da184ca802]{
 -- Page 162, Offset 41895.
 -- オレとテメェがこうして会うのは<日|こ><本|こ>だけだ。本国に渡れば二度とは会わねえ。オレの弟を紹介する事ぐらいはあるかもだが」
-We'll only meet like this here in Japan.
- You won't see me again after I leave for Italy.
- I might introduce you to my little brother, though."
+Two of us meeting like this is Japan-only.
+ Won't be seeing me again once I leave for home.
+ Might introduce you to my little brother, though."
 }
 [sha:077dce9577d9a78db3a17ab51a2452a38d29b092]{
 -- Page 163, Offset 41896.
@@ -2806,14 +2813,14 @@ With that, Senpai's boss left Japan.
 [sha:173239854980f3e5d533341e426665f764e9914f]{
 -- Page 163, Offset 41897.
 -- 「ところで。昔、アンタの兄貴が先輩に助けられたって話、本当なのか？」
-"That reminds me. Is it really true that your older brother was rescued by Senpai a long time ago?"
+"That reminds me. Is it really true that your older brother was rescued by Senpai in the past?"
 }
 [sha:8be2ba659579d4e8c87a55fd541aec1894ce4701]{
 -- Page 164, Offset 41898.
 -- 「ああ？　そんな一銭にもならねぇ嘘を言ってどうすんだよ、アホウ。そうでもなけりゃあの女にもテメェにも目をかける理由がねえだろ。
-"Huh?
- The hell would I gain from telling some two-bit lie about that?
- If she hadn't I wouldn't have any damn reason to have my eyes on either of you.
+"Fuck you say?
+ The hell'd I gain from telling some two-bit lie 'bout that?
+ Hadn't she, I wouldn't have any damn reason to look after either of you.
 }
 [sha:623d708122c912444bc9cc690cc9263a021d3d41]{
 -- Page 164, Offset 41899.
@@ -2824,36 +2831,36 @@ Ya see, the Laurentis family doesn't forget a grudge,
 [sha:3e46c08958959b4b2621f0e9dba06ce6f0f9acba]{
 -- Page 164, Offset 41900.
 -- あのクソ兄貴が“優先して協力しろ”なんて言うぐらいだ。よっぽどすげえ貸しを作ったのさ、あの女は」
-My dumb fuckin brother said 'Please prioritize our cooperation', or some garbage.
- That woman sure did him one hell of a favor."
+Was enough that my dumb fuck brother told me to 'put priority on working with her', or some garbage.
+ She did him one hell of a favor, that's for sure"
 }
 [sha:a3b399aacadb4272192869364967621f7b00f6c9]{
 -- Page 165, Offset 41901.
 -- 「だからさ。それ、本当に兄貴の話？」
-"Like I said. Is this %{i}really%{/i} your older brother you're talking about?"
+"What I was getting at was... is this %{i}really%{/i} your older brother you're talking about?"
 }
 [sha:1ef879356a53d852db27bd210e0c77033dc6b36c]{
 -- Page 165, Offset 41902.
 -- 「―――は。勘が良くて、かつ口が堅いのが一流ってな。
 "―――Heh.
- Y'know, you gotta have a good head on your shoulders,
- but you also gotta know when to keep your damn mouth shut.
+ Y'know, real pros don't just got good intuition,
+ they know when to keep their mouth shut too.
 }
 [sha:7a4cd45255df5aa4a0f8ecf1c71341fa92acb8f8]{
 -- Page 165, Offset 41903.
 -- 生き残りたかったら覚えとけ、クソガキ」
-You'd better fuckin remember that if you wanna survive, kid."
+Better fuckin' remember that if you wanna survive, you lil shit."
 }
 [sha:620db3a41b7a348130d4404784c0a68f3f947b23]{
 -- Page 166, Offset 41904.
 -- 「んじゃ車回すぞー。荷物はトランクでよろしく」
-"Alright, I'm gonna pull the car around.
+"Alright, gonna get the car going!
  Go ahead and stick your luggage in the trunk."
 }
 [sha:d28b52f368caef9bed5de2ac82cb71e218bbc0c3]{
 -- Page 166, Offset 41905.
 -- 安藤氏が高級車のエンジンをスタートさせる。
-Andou-shi starts the engine of the luxury car.
+Andou starts the engine of the luxury car.
 }
 [sha:bd93b83d9fbba8a585505c0d3e34fe1c68ba0981]{
 -- Page 166, Offset 41906.
@@ -2874,22 +2881,22 @@ While it is not my place to pry,
 [sha:66a0c2d5c3ff20c245ddd744595471d400fdb750]{
 -- Page 168, Offset 41909.
 -- 「君の行動原理は自己達成による希望か。
-"Is your guiding principle hope born of self-fulfillment?
+"Is what drives you a hope born of self-fulfillment?
 }
 [sha:74589bb19fb1f2e20f30f3436698fca4a5664bbf]{
 -- Page 168, Offset 41910.
 -- それとも、彼女を救えなかった贖罪か」
-Or atonement for having been unable to save her?"
+Or is it atonement for having been unable to save her?"
 }
 [sha:fb94b412d97d81c22a2501e95ef1e49fbafd6157]{
 -- Page 169, Offset 41911.
 -- カリウス氏は安藤氏と違って、あらゆる事に私情を挟まない人物だった。
-Unlike Andou-shi, Karius-shi is a man who kept his personal feelings from getting in the way.
+Unlike Andou, Karius is a man who keeps his personal feelings from getting in the way.
 }
 [sha:272a5ffb081724532a61bab229eccc0fa565b922]{
 -- Page 169, Offset 41912.
 -- あの『上司』に命じられていたから俺の教育係をしていただけで、遠野志貴の人生やら価値観に微塵も関心は持っていないと思っていたが……。
-I thought he was only acting as my instructor because his boss ordered him to,
+I had thought he was only acting as my instructor because his boss ordered him to,
  and that he didn't have even the slightest interest in me or my sense of values, but...
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
@@ -2905,18 +2912,18 @@ I thought he was only acting as my instructor because his boss ordered him to,
 [sha:dd9b66d7d054411c999e350c8f6b9b4a33d8d16b]{
 -- Page 170, Offset 41915.
 -- それは俺の印象にすぎなかったようだ。
-I guess my first impressions were shallow after all.
+I guess that was just my own preconception.
 }
 [sha:e9d5fa7392c1f5f6a656895ba8cadb40456c3987]{
 -- Page 170, Offset 41916.
 -- 彼は何事にも慎重で、真剣で、生真面目な人物だった。
-He's actually a prudent man, who approaches everything with diligence and sincerity.
+He's actually a scrupulous man, who approaches everything with diligence and sincerity.
 }
 [sha:1bbf1067d6836411b64fe4ca1d0a33e6a9dab210]{
 -- Page 171, Offset 41917.
 -- そんな人物が一年以上も他人と付き合ってきたんだ。関心を持ち、親近感を持たない筈がない。
 Someone like that spent a whole year in the company of someone else.
- Of course he'd start to take an interest, or feel a sense of affinity, as a result.
+ Of course he'd start to take interest and feel some kinship as a result.
 }
 [sha:d91076a18acff0b9a748e4387aa2acaecd6d5a13]{
 -- Page 171, Offset 41918.
@@ -2928,7 +2935,7 @@ Geez, I really am immature...
 -- Page 172, Offset 41919.
 -- 「贖罪じゃないですよ。自棄になってる訳でも、死にたい訳でもありません。
 "I'm not doing this to atone.
- It's not like I've given in to despair or want to die either.
+ Nor am I just doing it out of desperation, or some death-wish.
 }
 [sha:4bb2574d3a149e3a7eb862ff2340c1c7bbfc4308]{
 -- Page 172, Offset 41920.
@@ -2958,7 +2965,7 @@ Would you not consider that an act of atonement?"
 [sha:14efcd8e7829aa6f9f35d31964a001b312a70a61]{
 -- Page 174, Offset 41924.
 -- ……確かに、それを言われるとうまく言い返せない。
-It's true that when he puts it like that, I can't really argue.
+When he puts it like that, there's not much I can say back.
 }
 [sha:ab3271b18da29bbda706f945bd78f32cbf7c828a]{
 -- Page 174, Offset 41925.
@@ -2989,8 +2996,8 @@ But I was wrong.
 [sha:5935281853df340a641db1a8f4c2ef6e4a39d057]{
 -- Page 176, Offset 41930.
 -- 俺は、どんなに無様で、どんなに酷い人間になるとしても、彼女の傍にいて、彼女に助けられながら、生きていくべきだった。
-No matter how low I sunk,
- no matter how terrible of a human being I became,
+No matter how low I would have to sink,
+ no matter how terrible of a human being I would have to become,
  I should have stayed by her side,
  accepted her help,
  and continued to live on.
@@ -2998,7 +3005,7 @@ No matter how low I sunk,
 [sha:9340f93e3eafafa09e41e88451d9a6382bfb293e]{
 -- Page 177, Offset 41931.
 -- ……だから。
-That's why...
+As such...
 }
 [sha:228031233210d08d3aa0742f0e88549ee1162030]{
 -- Page 177, Offset 41932.
@@ -3025,7 +3032,7 @@ Just as Senpai had wished for,
 [sha:c9f3a22df2040e3dd5c55be08e4e1cf3558354f8]{
 -- Page 178, Offset 41936.
 -- そんな俺に、先輩は多くのものをくれたんです」
-In spite of that, Senpai did so much for me."
+Yet in spite of that, Senpai did so much for me."
 }
 [sha:c7087cb6e824182d55d423a7cfd64bbe5a76430f]{
 -- Page 179, Offset 41937.
@@ -3036,12 +3043,12 @@ That's right. I won't throw away this happiness.
 -- Page 179, Offset 41938.
 -- 捨てられないまま、俺は俺にできる最高の成果を―――
 I'll hold on tight to it,
- and do everything in my power to achieve the best possible outcome―――
+ and achieve the best that I can conceivably achieve―――
 }
 [sha:7c592acaf100de3e91c700bcf0e96b03597c5c48]{
 -- Page 179, Offset 41939.
 -- 本来の遠野志貴の人生では考えられもしない奇蹟に辿り着く。
-To achieve things that I could only dream of in my previous life.
+Achieve the sort of miracle that I could only dream of in my previous life.
 }
 [sha:5dfc435c7060905ce350368575efe970c724a77c]{
 -- Page 179, Offset 41940.
@@ -3052,8 +3059,7 @@ If something is impossible, that just means it has yet to be accomplished.
 [sha:a03cf8086b7bd25d98535a0ce9e0d81c9f9f9500]{
 -- Page 179, Offset 41941.
 -- あの夜、夜空を見上げながらそう誓った。
-As I gazed up at the sky that night,
- I swore that oath.
+That is the oath I swore as I gazed up at the sky that night.
 }
 [sha:510b1256681946f357699beb04d1813c5c8048e2]{
 -- Page 180, Offset 41942.
@@ -3063,7 +3069,7 @@ As I gazed up at the sky that night,
 [sha:4e3ff48527813e5f663b7a42eadc17c530d85dca]{
 -- Page 180, Offset 41943.
 -- だから―――どんな手を尽くしても、必ず、この命を彼女に返す。
-That's why, no matter what I have to do, I'll definitely give this life back to her.
+So... no matter what I have to do, I'll definitely give my life back to her.
 }
 [sha:478e4bb465b0478c7e12cf165be6ea9a228c6009]{
 -- Page 180, Offset 41944.
@@ -3073,24 +3079,24 @@ That is what I'm going to dedicate the rest of my life to."
 [sha:0a31e280d6e743345575351d90808257270c28d9]{
 -- Page 181, Offset 41945.
 -- それがどんなものになるかは分からない。
-I don't know where exactly this path will lead me.
+I don't know what that will give me.
 }
 [sha:eb30a083718321d3df326e243b9590bb4f9bea78]{
 -- Page 181, Offset 41946.
 -- ただの名誉か、価値か、自己満足か。
-Will it simply be honor? Worth? Self-satisfaction?
+Simple glory? Purpose? Gratification?
 }
 [sha:5cd75c1aaa9212bd205b76405b165584e66aeecf]{
 -- Page 181, Offset 41947.
 -- それでも俺は彼方を目指さないと。彼女が救った命は、それだけの事をするのだと示す為に。
-Even so, I have to look to the horizon.
- I have to prove that the life she saved is able to do just that.
+Regardless, I have to look to the horizon.
+ If only to prove that the life she saved is able to do just that.
 }
 [sha:f2cc092d3a8905f0534802e8ba7832e91e6179c5]{
 -- Page 182, Offset 41948.
 -- 「……そうか。賛同できる立場ではないが、君の旅立ちが善いものである事を祈ろう。
 "I see.
- As someone in my position, I cannot approve, but I wish you the best on your journey.
+ It is not my place to endorse you, but I wish you the best on your journey.
 }
 [sha:caea88a28c7d34a5834e35b560f9cb842f06afc2]{
 -- Page 182, Offset 41949.
@@ -3100,12 +3106,12 @@ Shiki. Although we have spent an entire year together, I did not regret any of i
 [sha:3c41230d4544ff295ef693f346a728580cd7f1da]{
 -- Page 183, Offset 41950.
 -- それはカリウス氏にとって特上の応援だったのだろう。
-I wonder if that's his way of showing his heartfelt support.
+I suppose that was his most heartfelt way of showing support.
 }
 [sha:b559c491a621ebe4d80de33694a09077a60a9f2f]{
 -- Page 183, Offset 41951.
 -- 彼は高級車の助手席のドアを開け、その席に座った。
-Karius-shi opens the passenger side door and gets in.
+Karius opens the passenger side door and gets in.
 }
 [sha:1dcfe4f0ebc129b1ed20f72a56dcbd9e9f22b67d]{
 -- Page 183, Offset 41952.
@@ -3115,12 +3121,12 @@ I'm sure he won't say another word all the way to the airport.
 [sha:674098395e4b2e1524579e83a59205d26a840e5c]{
 -- Page 184, Offset 41953.
 -- 「おーい、早く後ろに乗ってくれませんかねー？
-"Oi, can you hurry up and get in already?
+"Heeey, can you hurry up and get in already?
 }
 [sha:a2aa471c3cd7a8c3bedfc09ce9998dd5a792869c]{
 -- Page 184, Offset 41954.
 -- フライトまで二時間ないんですけどぉ！」
-There's only two hours until the flight you know!"
+Only two hours until the flight, I'll have you know!"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 184, Offset 41955.
@@ -3130,7 +3136,7 @@ There's only two hours until the flight you know!"
 [sha:2c3d8bbd46850b70b497c34815fdf6bfc7c050be]{
 -- Page 185, Offset 41956. Mods: @n.
 -- 安藤氏に急かされて後部座席のドアを開け、中に乗り込む
-At Andou-shi's urging, I open the rear door of the car and get inside
+At Andou's urging, I open the rear door of the car and get inside
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 185, Offset 41957. Glued.
@@ -3140,7 +3146,7 @@ At Andou-shi's urging, I open the rear door of the car and get inside
 [sha:66dac0f93c2471e5e92d256b4609b7490916a7fc]{
 -- Page 185, Offset 41958.
 -- 高級車の後部座席の座り心地の良さにちょっと驚いて、ひとり苦笑する。
-Surprised at how comfortable the back set of a luxury car is,
+Surprised at how comfortable the back set of the luxury car is,
  I allow myself a wry smile.
 }
 [sha:3708fba97604831051847441084daf5d71511838]{
@@ -3159,7 +3165,7 @@ Although I'm anxious, I leave Japan behind with a clear mind.
 -- Page 186, Offset 41961.
 -- ほんの数日間だけだったけれど、あの人と過ごした総耶の街並みを見納める。
 I watch the Souya skyline as it passes by.
- This is the city where I spent time with that person, even if it was only a few days.
+ This is the city where I'd spent my time with her, even if it was only a few days.
 }
 [sha:13a12252dbdb6e4a230fef85b6bf79f2fc706c8b]{
 -- Page 186, Offset 41962.
