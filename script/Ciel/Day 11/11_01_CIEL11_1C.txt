@@ -18,7 +18,7 @@ It seems my friend's quip was accurate.
 -- Page 53, Offset 29144.
 -- 正門に向かう途中、気まぐれで校庭に足を向けた。
 On my way to the main gate,
- I make a spur of the moment decision to detour around the schoolyard.
+ I make a spur-of-the-moment decision to detour around the schoolyard.
 }
 [sha:37ea7e6c36c3ab2807279ef4ab1756f74a5c756f]{
 -- Page 53, Offset 29145.
@@ -319,7 +319,8 @@ It seems that the other residents aren't home yet,
 [sha:f1c589c693dea41663aac4d5573ec8df96f0c6c7]{
 -- Page 70, Offset 29200.
 -- 膝に痛みを覚えて視線を下げると、そこには先ほど使用人が運んでいた椅子があった。
-I look down at my smarting knee, and find the chair that maid had been carrying earlier.
+// lint-off:LintDupedWord
+I look down at my smarting knee, and find the chair that that maid had been carrying earlier.
 }
 [sha:64ea0750b5d4fcd5e3221741b458aae8bca0fde1]{
 -- Page 71, Offset 29201.
