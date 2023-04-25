@@ -1,16 +1,19 @@
 [sha:91b4e3f378c1bbe2f4bcb4bfba691ea78398ef0b]{
 -- Page 10003, Offset 39618.
 -- 「邪魔すんな、黙ってろ……！」
-"Just shut up and don't get in my way...!"
+"Just shut up and don't get in my way!"
 }
 [sha:1b3a3b3665422c69d21ea3b03c66ec1d75c2afc7]{
 -- Page 10003, Offset 39619.
 -- 死地である事は承知している。
-I'm well aware that this is a dangerous place.
+I'm well aware that this place is a deathtrap.
 }
 [sha:a78aa8505acd0a69156b56b1e7927c313e682cd0]{
 -- Page 10003, Offset 39620.
 -- だがこの距離は先輩が命がけで守ってくれたものだ。
+// Unclear what he's trying to say here.
+// She risked her life so he could get close feels wrong, because, well, she wouldn't want that.
+// She risked her life so that he could get away makes more sense, but he's not _doing_ that.
 But this distance is something that Senpai risked her life to protect.
 }
 [sha:b49592b6039286f2a1eec9dbe0a9afb9cf253ed9]{
@@ -21,20 +24,28 @@ There's no way I could run away at this point.
 [sha:7d9601ff8fc8f6b1c2629d61a5a2b5d5634a79b6]{
 -- Page 80, Offset 39622.
 -- 『そうか。では、じき彼女の圏内に入る。
-"I see. Then we will soon be entering her sphere.
+%{i}
+"I see. In that case, we shall soon enter her zone of influence.
+%{/i}
 }
 [sha:bc14a127af53a515005af2ad3d72be36d7b62397]{
 -- Page 80, Offset 39623.
 -- 意識を強く保つ事だ。
-You should protect your consciousness at all cost.
+%{i}
+You must retain your consciousness at all costs.
+%{/i}
 }
 [sha:8daaefe9f0e40b85bd104b2ef3798a670d5c3b19]{
 -- Page 80, Offset 39624.
 -- アレがなぜ我々には光にしか見えないのか。
-As for why we can only see light from here,
+%{i}
+As for why we can only discern it as light from here―――
+%{/i}
 }
 [sha:4212aca0adc0f0e9385287eba35933de70936de6]{
 -- Page 80, Offset 39625.
 -- その理由があと100メートルほどで明らかになる』
-that question shall be answered in another hundred meters."
+%{i}
+That question shall be answered in another hundred meters."
+%{/i}
 }

@@ -1,62 +1,78 @@
 [sha:54c2f06468f136622bb48c8853ab971baeb274ca]{
 -- Page 10002, Offset 39567.
 -- 学校の敷地から出た時点で、世界はもう俺の知っているものではなかった。
-The moment I leave the school grounds, the world is no longer the same.
+As soon as I leave the school grounds,
+ the world becomes something completely unrecognizable.
 }
 [sha:912ec8aa09bd479bbb82edc6f8e05f187c73e6b6]{
 -- Page 10002, Offset 39568.
 -- 上空には強い風のうねり。
-A strong wind swells from above.
+Fierce gusts of wind dance in the sky above.
 }
 [sha:74b9731816806f5afceb8e13a8cd1ef7597388f3]{
 -- Page 10002, Offset 39569.
 -- 嵐の予兆を思わせる気圧の乱れ。
-Disruptions in the atmospheric pressure indicates the beginning of a storm.
+The atmospheric pressure is fluctuating wildly, as though a storm was coming.
 }
 [sha:f838ec033124b94e13c44a1331827f8b2d94066b]{
 -- Page 10002, Offset 39570.
 -- 肌に触れる大気は瑞々しく、まるで熱帯夜にいるようだ。
-The air feels fresh as it hits my whole skin as if it were a sweltering night.
+// みずみず as in actually just "watery", "humid"
+The air brushing against my skin is hot and humid as a night in the tropics.
 }
 [sha:2777807975781cfefc65eba3f372c7e44c78e355]{
 -- Page 67, Offset 39571.
 -- その異常についての考察を止めて、光の中心を目指す。
-I stop thinking about this abnormality and head toward the center of the light.
+I put the atmospheric anomalies out of mind,
+ and set my sights on the center of the light.
 }
 [sha:ce3bd5d821b1cd93710a90620d6cde886d44bbc3]{
 -- Page 67, Offset 39572.
 -- 未知のものは怖ろしい。せめてアレがなんであるかの予測ぐらいは立てたいが、ひりひりと焦げる肌が、そんな時間はない事を感じ取っている。
-The unknown is terrifying. I would have liked to at least take a guess about what that thing really is, but my burning skin tells me that I don't have time for that.
+The fear of the unknown is real.
+ I'd have liked to at least take a guess as to what that thing really is,
+ but the blistering sensation of my skin burning tells me I don't have the time for that.
 }
 [sha:04a1fb5e0206e60c425431e0d62dd9933f934ec7]{
 -- Page 68, Offset 39573.
 -- 『このまま無策で突撃する気とは。凄いな』
-"I'm amazed that you're going in without any plan."
+%{i}
+"You intend to charge straight in without a plan? Bold."
+%{/i}
 }
 [sha:37185986188eb3bbd28418a469b35cd1b9ad6e1f]{
 -- Page 68, Offset 39574.
 -- 「無策で悪いか！　何をするにしろ、まずは近寄らないと話にならないだろう！？」
-"Is that really so bad?! No matter what I decide to do, I have to get close first, right?!"
+"So what if I do?!
+ Even if I had a plan I'd still have to get close, right?!"
 }
 [sha:0c3faff30848cdffc5c4eb98809144c4761e0d07]{
 -- Page 69, Offset 39575. Mods: @k, @e.
 -- 『最短距離で直進するのなら、
-"If you travel in a straight line,
+%{i}
+"If you were to travel as the crow flies―――
+%{/i}
 }
 [sha:8be63c4e78bc6f5af0a89a58b57f5856f81fc738]{
 -- Page 69, Offset 39576.
 -- 光体まで目測で800メートル。
-the distance to the Luminary is 800 meters.
+%{i}
+I estimate eight hundred meters separate you from the Luminary.
+%{/i}
 }
 [sha:6c4d0ededa6e0001725eaaa98294daf5b2602bd3]{
 -- Page 69, Offset 39577. Mods: @k, @e.
 -- 今のおまえなら１分とかからない距離だが、
-In your current condition, it would take you less than a minute to reach her,
+%{i}
+As you are now, you could cover that distance in a single minute.
+%{/i}
 }
 [sha:fbbd8c90a677de0f82265d7036f52fb2ffd2041c]{
 -- Page 69, Offset 39578.
 -- 既に１分は走っている事について、何か質問は？』
-but have you wondered why you haven't after running for over a full minute?"
+%{i}
+Given that, doesn't the fact that you've been running for over a minute puzzle you?"
+%{/i}
 }
 [sha:3220f4d71a67a592ee39dc2a7f65f66f2ccc96e9]{
 -- Page 70, Offset 39579.
@@ -66,47 +82,59 @@ but have you wondered why you haven't after running for over a full minute?"
 [sha:99dcd8240ef93dd8fbe0a91a706320905f4dcc1b]{
 -- Page 70, Offset 39580.
 -- ロアに指摘されて状況を把握する。
-I understand the situation now after Roa points it out.
+Now that Roa's pointed it out, I see the issue.
 }
 [sha:d917aa3d52ed68b809819895975b299beb828279]{
 -- Page 70, Offset 39581.
 -- 実際の街の広さと、今の街の広さは違っている……!?
-That means the current size of the city is different from that of reality...?!
+The size of the city... no longer matches reality?!
 }
 [sha:fa48e4a2b63f08c1b2868f4053718d6eb37afce0]{
 -- Page 71, Offset 39582. Mods: @k, @e.
 -- 『光体化の影響だ。事象収納によってこの街は
-"It is an effect of her Luminarification. Due to the Event Storage,
+%{i}
+"It's because of her Luminarification.
+%{/i}
 }
 [sha:bb08be2d3b3b4e4d6e30fa47bf8d3ea7e7b40676]{
 -- Page 71, Offset 39583.
 -- 不確定の世界になりつつある。
-the city has turned into a world of uncertainty.
+%{i}
+Due to her Event Storage, this city is steadily turning into a world of uncertainty.
+%{/i}
 }
 [sha:df55093f1c95208425051e2f1476566ad8dc08c3]{
 -- Page 71, Offset 39584.
 -- 世界の中心にして最奥である彼女に近寄る事は困難だ。
-It would be difficult to approach her who is at the very center of this world.
+%{i}
+As its central depths, approaching her is difficult.
+%{/i}
 }
 [sha:1b73f95fa3402621025b1256f0465244c5bc8f77]{
 -- Page 71, Offset 39585. Mods: @k, @e.
 -- 世界そのものが彼女を尊重し、
-The very world itself respects her,
+%{i}
+Out of respect, the very world distances itself from her―――
+%{/i}
 }
 [sha:872c92bf7d4ed89cc0d7a6606802dfed7f1551fe]{
 -- Page 71, Offset 39586.
 -- 彼方に遠ざけようとしているのだろう』
-and as such, it would attempt to distance you away from her."
+%{i}
+Retreating toward the beyond, or so I presume."
+%{/i}
 }
 [sha:572a56c4b3d1a853c9ae49d558aacb28dd6cafb8]{
 -- Page 71, Offset 39587.
 -- 「ああもう、言い方！」
-"Geez, could you explain it in simple terms?!"
+"Oh come on, what the hell does that mean?!"
 }
 [sha:b7c158cc9259e220399268c15519bbe5a2dc47a8]{
 -- Page 71, Offset 39588.
 -- 『ベルトコンベアーだ』
-"Think of it as a conveyor belt."
+%{i}
+"It's a conveyor belt."
+%{/i}
 }
 [sha:1e094f4a0c7e54a9b3dad8d07f54fcadea494895]{
 -- Page 72, Offset 39589.
@@ -116,47 +144,57 @@ Shit, that really is easier to understand!
 [sha:ba553203ce897971752e4a462c45998ec12d4418]{
 -- Page 72, Offset 39590.
 -- つまり、何もしなくてもアルクェイドとシエル先輩は離れていく、という事だ。
-In other words, it means that even if I stand still, Arcueid and Ciel-senpai would grow further apart from me.
+In other words, if I just stand still, Arcueid and Ciel-senpai will continue to get further and further away.
 }
 [sha:9e6df65726534969c0248bcac9bf20ca7e8d089c]{
 -- Page 73, Offset 39591.
 -- 街の形、大きさは変わらないのに“伸びていく”という理屈は分からないが、ロアの説明は的を射ていた。
-Even though the size of the city hasn't changed, although I don't know the theory behind this 'expanding effect', Roa's explanation is completely on the mark.
+I don't get how the city is able to 'expand' without changing size or shape,
+ but Roa's explanation is right on the mark.
 }
 [sha:bcbb96fdbdbf2c8dc5990c391856ae7c6c764df7]{
 -- Page 73, Offset 39592. Mods: @n.
 -- あの光に近づきたければ、街が拡がるより早い速度で近寄らなければならない、という事で―――
-If I want to get closer to that light, I have to travel faster than the rate at which the city expands―――
+Basically, if I want to get closer to that light,
+ I have to travel faster than the city is expandi――
 }
 [sha:9427c8bebd50422f92f661aa5fac6f20877e6213]{
 -- Page 73, Offset 39593. Glued.
 -- つあ！？
-Uwah?!
+%{i}whoa%{/i}?!
 }
 [sha:f0f0caa134799e85bc0ed056be82d023f1fb98ec]{
 -- Page 74, Offset 39594.
 -- 「っぶな……！
-"Pwah...!
+"%{i}Yow%{/i}!
 }
 [sha:578ab3eaf9f652beb748ba77b28cbc1f95fc1067]{
 -- Page 74, Offset 39595.
 -- なんだ今の、アイツの爪か！？　狙われた！？」
-What was that? Was that her claw?! Is she attacking me?!"
+The hell was that?
+ One of her claws?!
+ Is she attacking me?!"
 }
 [sha:2de5a29bea5e6bb2f0854e8b6a9a3576c86a456f]{
 -- Page 74, Offset 39596.
 -- 『いや。ここはまだ光体の視界の外だ。
-"No. This area is still outside the visual field of the Luminary.
+%{i}
+"No. This area remains beyond the Luminary's sight.
+%{/i}
 }
 [sha:400e77290c201e5f3f20ac2094350fd5f87b1df4]{
 -- Page 74, Offset 39597.
 -- 表層意識ですらない。
-It is not even within her outer layer of consciousness.
+%{i}
+This isn't even her surface consciousness.
+%{/i}
 }
 [sha:f1d3d586266266c113dd189963229f29e69b3a68]{
 -- Page 74, Offset 39598.
 -- 我々は彼女に意識されてもいない』
+%{i}
 She is not even aware of our existence."
+%{/i}
 }
 [sha:baf92135066b24aba486d0db8a9b2f1a0200c37d]{
 -- Page 75, Offset 39599.
@@ -171,82 +209,103 @@ Is he saying that Arcueid hasn't found us yet?
 [sha:f59d108d5909b29872ad07f4cf216ac514175db1]{
 -- Page 75, Offset 39601.
 -- それは助かるが、同時に怖ろしい事実でもある。
-That's good to hear, but at the same time, that's also a terrifying reality.
+I'm glad to hear it,
+ but at the same time,
+ that's a terrifying notion.
 }
 [sha:d74c9362b3123ec77e04b40fde0ba997f0682f52]{
 -- Page 75, Offset 39602.
 -- 以前の俺であれば躱す事もできず体を二つに分けられていた風圧は、この世界においては自然現象にすぎないという事だ。
-That wind pressure, which I wouldn't have been able to avoid and split me into two had I been my previous self, is nothing more than a natural phenomenon in this world.
+It basically implies that the wind pressure,
+ which would have sliced me in two if I weren't half-vampire,
+ is an unremarkable natural phenomenon in this world.
 }
 [sha:9bf9207e620c370d068b379025a00663a9b4ac22]{
 -- Page 76, Offset 39603.
 -- 「明確な攻撃の意図がなくても―――」
-"Even if she doesn't have a clear intention to attack―――"
+"Even if she isn't consciously trying to attack―――"
 }
 [sha:89a321d4d7448331cd5add9f96712ca7423c4bc6]{
 -- Page 76, Offset 39604.
 -- ただ踏み入るだけで、生命の危機に陥る。
-I put my life at risk by simply stepping in her region.
+I'm risking my life just by setting foot in her domain.
 }
 [sha:7e61cc062f5ac08edb9c58443e51ecbfc072875c]{
 -- Page 76, Offset 39605.
 -- 激流に巻きこまれ、木っ端微塵になる憐れな人形のように。
-Like a pitiful doll consumed by a raging stream and broken up into pieces.
+As if I'm a pitiful doll being swept up in a raging river and torn to pieces.
 }
 [sha:604a21e061dc5d795211919f4d1789e4f75861c5]{
 -- Page 77, Offset 39606.
 -- 『嵐に近づくとはそういう事だ。
+%{i}
 "That is what it means to approach a storm.
+%{/i}
 }
 [sha:65b64c7a0c50341a0008dbabf6870db0ff04f09b]{
 -- Page 77, Offset 39607.
 -- おまえの目に光体は“脅威”として映っているのだろう？
-The Luminary is a 'threat' in your eyes, is it not?
+%{i}
+You see the Luminary as a 'threat', do you not?
+%{/i}
 }
 [sha:81c291b4859f7c8c9b476bf92f43be2158d9fa9e]{
 -- Page 77, Offset 39608.
 -- それは正しい。
-That would be correct.
+%{i}
+You are right to do so.
+%{/i}
 }
 [sha:c75d4e2ed3b06a9343f94e5ff27bba43e97e0488]{
 -- Page 77, Offset 39609.
 -- 光体に近寄れば近寄るほど危険は増していく。
+%{i}
 The closer you get to the Luminary, the greater the danger.
+%{/i}
 }
 [sha:100fbf6f6fbafb2975803420ab546ce9e36d7c4e]{
 -- Page 77, Offset 39610.
 -- 並の死徒であればここが限界だと忠告しておく』
-An average Dead Apostle would reach their limit at this point."
+%{i}
+Let me warn you: this is as far as the average Dead Apostle gets."
+%{/i}
 }
 [sha:4014532e7344aa2c01b449851fa020dcc116b81c]{
 -- Page 78, Offset 39611.
 -- 『ここはまだ彼女の意識の外、いわば圏外だ。
-"This area is still outside her consciousness, or her scope so to speak.
+%{i}
+"Up to this point we have been outside her consciousness;
+ out of range, so to speak.
+%{/i}
 }
 [sha:199367097506749c1567f86624af5ce6a0f0fcd6]{
 -- Page 78, Offset 39612.
 -- 領域侵犯には至っていない。
-We still have yet to violate her territory.
+%{i}
+We have yet to intrude on her domain.
+%{/i}
 }
 [sha:23ba141a37c47b5098b49f9c421aa83e548f0faa]{
 -- Page 78, Offset 39613.
 -- だが―――これ以上接近するという事は』
-However―――if you decide to move any closer..."
+%{i}
+However――if you decide to advance any further..."
+%{/i}
 }
 [sha:5a78df426a6e65315902a29ce6779a2e42a01b45]{
 -- Page 79, Offset 39614.
 -- 本格的に対処される、という事か。
-Then that's when she'll really deal with me, right?
+Then that's when she'll deal with me in earnest.
 }
 [sha:dece492745fef86bd1d34fb0f2c346e33db3a3be]{
 -- Page 79, Offset 39615.
 -- 行くか、戻るか。
-Will I go? Or will I fall back?
+Do I advance? Or retreat?
 }
 [sha:92723d0cce912e0808e50d17023f08fa1c5610e7]{
 -- Page 79, Offset 39616.
 -- ここが最後の分岐点だ、とロアは告げている。
-Roa informs me that this is the final turning point.
+Roa tells me that this is my last chance to turn back.
 }
 [sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
 -- Page 79, Offset 39617. Mods: @k, @e.
@@ -256,10 +315,10 @@ I―――
 [sha:0cadd3ff10d1c5f472cc522f054bd77f289553d0]{
 -- Page 79, Offset 42760. Choice.
 -- それがどうした、黙ってろ。
- So what? Just keep your mouth shut.
+ So what if it is? Just shut up already.
 }
 [sha:abbc45e777cecd84ed163df4169b591f53fa07c8]{
 -- Page 79, Offset 42761. Choice.
 -- じゃあ、どうしろって言うんだ。
- Fine, then what should I do?
+ Alright, then what %{i}should%{/i} I do?
 }

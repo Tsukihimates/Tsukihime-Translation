@@ -3189,7 +3189,8 @@ Moon Wilderness.
 }
 [sha:dde5aecaaeefdac2ea934226b1985f1bb0f8875b]{
 -- 吸血姫のキス
-I Kiss the Vampire Princess
+// @flowchart_title
+I Kiss the Vampiress
 }
 [sha:522d23adb664f3efaf270b31b32563b33653fc3a]{
 -- 直死の魔眼
@@ -3406,7 +3407,8 @@ Crimson Air
 }
 [sha:a3fee7a16735e308229a874398a9cd8d867a5093]{
 -- 蟻のあがき
-Struggle of the ants
+// @flowchart_title
+Ant's Futile Struggle
 }
 [sha:4b349a35a197f1d635128d8feef20e2c2260eb52]{
 -- 諦めない。
@@ -5692,7 +5694,10 @@ The Luminary appears.
 }
 [sha:845a606d6f3bc629c1d912a9184adf2182bc3cae]{
 -- 圏内に入る。光体を垣間見る。^立ち上がる100メートルの巨影。^それは、具現化した悪夢だった。
-圏内に入る。光体を垣間見る。^立ち上がる100メートルの巨影。^それは、具現化した悪夢だった。
+// @flowchart_descr
+As I enter her zone of influence,
+ I catch a glimpse of the Luminary,
+ a giant figure standing over a hundred meters tall――a nightmare made manifest.
 }
 [sha:8c9402954a2f0a2da88e0950368a444e1520c3c6]{
 -- 形骸化したビル群の谷を^駆け、光体に接近する。^見つかれば即、死。
@@ -5752,6 +5757,7 @@ The Luminary appears.
 }
 [sha:b6452bee286dcdb6c6e45350f29822b66c4911f1]{
 -- 吸血姫との和解と別離。^けれど、星の光で焼けた体は、^もう保たなかった。
+// Be sure to tl 吸血姫 as vampiress
 吸血姫との和解と別離。^けれど、星の光で焼けた体は、^もう保たなかった。
 }
 [sha:10d6c3f49e50556e0524542a0731f28254403ca1]{
