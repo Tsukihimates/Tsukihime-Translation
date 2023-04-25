@@ -35,7 +35,7 @@ I may not have been able to injure Arcueid,
 -- 前腕に刃は通らなかったが、可動部である節はどうか。
 // Either one of 可動部である or the repeated 節 has to go
 I wasn't able to cut through her forearm,
- but maybe I'll have better luck if I target part of her that can move?
+ but maybe I'll have better luck if I target the parts of her that can move?
 }
 [sha:cee4a6586c561a7338f84a74f061fdce340b857d]{
 -- Page 198, Offset 39993.
@@ -53,17 +53,17 @@ Clutching my knife between my teeth,
 -- Page 199, Offset 39995.
 -- 光体の表面は熱くはあったが肌を焼く程の熱量ではなく、また、確かな質感があった。
 The surface of the Luminary is hot, but not hot enough that it burns my skin.
- There's also a distinct texture to it.
+ It's also definitely solid―――
 }
 [sha:7f75727fd58d5bd6dfdf12605542f98d21711f2e]{
 -- Page 199, Offset 39996.
 -- きちんと物質として存在している。
-There's no doubt that this thing really is corporeal.
+This thing's a real, material, being.
 }
 [sha:0d9118d86ec52295667d952fac96c87105a0e88f]{
 -- Page 200, Offset 39997.
 -- 遠くからランドマークとして見ていた時は生命とは思えなかったが、こうして指先で直に触れてみると印象が違ってくる。
-I didn't really think of it as a living thing when I saw it looming in the distance,
+I didn't really think of it as a living thing when I saw it as a landmark in the distance,
  but now that I've laid hands on it directly my impressions are a little different.
 }
 [sha:b0a46bf31c172efd46286c49926c5b831f04fbac]{
@@ -74,9 +74,8 @@ It feels like I'm touching a hard rock and flowing water at the same time.
 [sha:f5fb466a92d448db12a653bd50b562157a5065b3]{
 -- Page 201, Offset 39999.
 -- 光体の肌は確かに硬くはあるのだが、それは岩の硬さではなく、滑らかで心地いいものだった。
-The Luminary's skin is hard, sure,
- but not quite as hard as a rock,
- and it feels pleasantly smooth.
+The Luminary's skin %{i}is%{/i} hard, just not in the same way stone is.
+ It's smoother, and more pleasant.
 }
 [sha:0b19d65e57c9eecc23c8ccdfca63a1158569bc69]{
 -- Page 201, Offset 40000.
@@ -177,7 +176,7 @@ Not only does it fail to penetrate her skin,
 [sha:606aa2997a4936ed351792e9b6891f7975a0ba05]{
 -- Page 207, Offset 40018.
 -- 『“肘なら脆いはず、なんて笑わせないで。
-"You thought my elbow was a weak point? Don't make me laugh.
+"You thought my elbow was a weak point? Please.
 }
 [sha:8daca244495ebc66914e19b152e6008589cc5e5e]{
 -- Page 207, Offset 40019.
@@ -192,7 +191,7 @@ Did you not even realize that simple fact?"
 [sha:6c567d3539d424a006b9b8047a4acb5f8e5f9223]{
 -- Page 208, Offset 40021.
 -- 『“おつかれさま。
-"You've put on quite the show.
+"You never fail to amaze.
 }
 [sha:4f8873bb53134863a99c3066bee9d312749d8a43]{
 -- Page 208, Offset 40022. Mods: @n.
@@ -212,14 +211,14 @@ Is it fun? Crawling around on someone else's skin?"
 [sha:83effc4725ee799941eba65e370084a986900641]{
 -- Page 209, Offset 40025.
 -- 問答無用の“思考”を叩きつけられる。
-My mind is battered by a 'thought' that I'm powerless to resist.
+My mind is battered by her overpowering 'thoughts'.
 }
 [sha:4720cc9474c868bc5841b5d34de72592f832997b]{
 -- Page 209, Offset 40026.
 -- テレパシー……精神感応による意思疎通ができない人間でも、その圧倒的な思考密度の前には『話が分かる』。
-Telepathy...
- In the face of such overwhelming density of thought,
- even humans――creatures who cannot communicate telepathically――would be able to understand her words.
+In the face of such overwhelming density of thought, even humans――
+creatures who cannot communicate telepathically――
+would be able to understand her words.
 }
 [sha:b1539226170bb79f1ec643c8f83caf9c0133e5cc]{
 -- Page 210, Offset 40027.
@@ -244,7 +243,7 @@ And have you fall down to my feet?"
 [sha:095d34a10b7e42938233fcafff2b35209b100e4d]{
 -- Page 211, Offset 40031.
 -- 「っ、う…………！」
-"%{i}Gh%{/i}, %{i}ugh%{/i}!"
+"%{i}Gh%{/i}――%{i}ugh%{/i}!"
 }
 [sha:9b7f3cedd61acd9bb5644f7f9d64d8217f812df9]{
 -- Page 211, Offset 40032. Mods: @n.
@@ -265,7 +264,7 @@ Ciel-senpai wasn't just being tortured physically,
 [sha:fa6c605e2615150b1b686bd6541fd88eff5e2f22]{
 -- Page 212, Offset 40035.
 -- 「って、うわあ……！」
-"%{i}Kh%{/i}, %{i}whoa%{/i}!"
+"%{i}Whoa%{/i}!"
 }
 [sha:855d27e8109c907c8ee6a7e09084addcd9970ca8]{
 -- Page 212, Offset 40036.
@@ -286,7 +285,7 @@ Do you really think you can afford to be worried about others?"
 [sha:2d7a0bfbb52cb5de8c3674aa5ddc110a95b3daa0]{
 -- Page 213, Offset 40039.
 -- <嘲|あざけ>りとも、苛立ちとも取れない思考が届く。
-A thought that isn't exactly ridicule or irritation reaches me.
+A thought that's not entirely ridicule or irritation reaches me.
 }
 [sha:7beea0e4e0d9c1c95f939780d3a9a9eaeafd9894]{
 -- Page 213, Offset 40040.
@@ -302,7 +301,7 @@ Now that she's spotted me,
 [sha:c0e3cdc9359cefb2f0a8d3064260df047f1b838e]{
 -- Page 214, Offset 40042.
 -- 『“させない”』
-"I won't let you."
+"Not on my watch."
 }
 [offset:40043]{
 -- Page 214, Offset 40043.
@@ -313,7 +312,7 @@ Now that she's spotted me,
 -- Page 214, Offset 40044.
 -- 体が動かない。脳からの信号は活きている。筋肉は自由に動く。なのに位置がまったく変化しない。
 My body won't move.
- My brain is still sending signals.
+ My brain is still transmitting orders.
  My muscles are still free to move.
  And yet, I don't budge from where I stand.
 }
@@ -326,17 +325,18 @@ I'm putting all my strength into trying to run,
 [sha:58bc83d3b071dd1cddfdb21429c2f3b72a0d4173]{
 -- Page 215, Offset 40046.
 -- 『“ここまできて逃げられると思ったの？
-"Did you seriously think you could run away after coming all the way here?
+"Did you seriously think I'd let you go after all that?
 }
 [sha:dc000d8af2c8af426e8df2910a886bf8ea4d9cef]{
 -- Page 215, Offset 40047. Mods: @n.
 -- わたしの視界に入らないうちは
-I was simply kind enough to overlook you while you were out of sight―――
+// Manually linebroken across @n
+I was just kind enough to overlook you so long as you
 }
 [sha:3ab5fee32f7125e1d3f6c1e63790ce0024608d11]{
 -- Page 215, Offset 40048.
 -- 見逃していただけよ、おちびさん”』
-My diminutive little human."
+stayed out of sight, my lovely lilliputian."
 }
 [sha:9a6a3b1d7255ccbf2150839c8444a793937d20a1]{
 -- Page 216, Offset 40049.
@@ -382,7 +382,7 @@ It's like my body's been sewn into the atmosphere,
 [sha:481bec44499edc5ab481094276faa6af0e426fe6]{
 -- Page 218, Offset 40056.
 -- 目に見えるものでないと分からないんだっけ。
-You can't understand what you can't see.
+You can't understand what you can't see, can you now?
 }
 [sha:78738d9e60c51ff5a86b76d2962e809413475f59]{
 -- Page 218, Offset 40057.
@@ -397,17 +397,18 @@ If that's the case―――"
 [sha:3381ac7a87873264a464d925f1e099ac9bc54d83]{
 -- Page 219, Offset 40059. Mods: @n.
 -- 当方、あいにくランドマークですので、
-I'm afraid that I'm nothing more than a landmark, however.
+// Page linebroken across @n
+Sadly I'm nothing more than a landmark, however, so I'm
 }
 [sha:5ebc3ed9f335635212785029e5680336072a16dc]{
 -- Page 219, Offset 40060. Mods: @n.
 -- 繊細な力加減も、
-So I'm afraid that I won't be able to control my strength―――
+afraid I that I won't be able to control my strength,
 }
 [sha:c91ffe3528310e89f47879afeeb9432ca0b2ec16]{
 -- Page 219, Offset 40061.
 -- お客様への気遣いもいたしませんが”』
-Or grant proper consideration to my guests."
+or grant proper consideration to my guests."
 }
 [sha:f9077837b3f93ddd10aba0cfb0f2bc6966a10062]{
 -- Page 220, Offset 40062.
@@ -447,17 +448,17 @@ It's just that you people are so small.
 [sha:942dd4dc073166d506452c323c1f90d271c89715]{
 -- Page 221, Offset 40069.
 -- いまだに重力に縛られた生命圏。
-A biosphere that even now remains bound by gravity.
+All of the life still bound by gravity―――
 }
 [sha:9cf07e9e932090cd55f3bff1ac473026c60de758]{
 -- Page 221, Offset 40070.
 -- <惑|ほ><星|し>の上っ面にあるだけの文明圏。
-A civilization that only exists atop the planet's surface.
+All civilization atop the planet's surface―――
 }
 [sha:ba38eea2f67b0fff359267224088cf3f684496de]{
 -- Page 221, Offset 40071.
 -- ここで根こそぎ仕舞ってあげる”』
-Allow me to tear it out, roots and all."
+Allow my to store every last bit of it away."
 }
 [sha:1eaad64823bfb4a285673275bfe59141cd91894a]{
 -- Page 222, Offset 40072.
@@ -467,7 +468,7 @@ Allow me to tear it out, roots and all."
 [sha:469e867ac35c544af3ea483f97646e39ee6dab97]{
 -- Page 222, Offset 40073.
 -- わたしの棚には入れてあげない。
-I won't do you the honor of placing you on a shelf.
+You won't be going in my storage.
 }
 [sha:de987cc47fe5a767d3a869498b64b5367d9f4e12]{
 -- Page 222, Offset 40074. Mods: @n.
@@ -477,28 +478,29 @@ After all―――
 [sha:3ad1c205541118cb846657c40f7f8d8e198385d1]{
 -- Page 222, Offset 40075.
 -- 本気で刃向かってきたんだもの”』
-You went so far as to earnestly defy me."
+You went so far as to %{i}actually%{/i} defy me."
 }
 [sha:cfc15c5995d4e9ab4478c36469740476d03bbd7e]{
 -- Page 223, Offset 40076. Mods: @n.
 -- 『“自分の小ささも
-// Linebreaks are more like... suggestions...
-"I do find it cute―――
+// Manually linebroken across @n
+"It really is cute how you don't seem to realize just
 }
 [sha:6dfc6da956ff1073ba703de47915c48f011361a0]{
 -- Page 223, Offset 40077.
 -- 把握できないところは可愛いけど―――
-The way you don't realize just how small you really are―――
+how small you actually are.
 }
 [sha:6555950d569c7465df0eeeec321c1860b9d7becd]{
 -- Page 223, Offset 40078. Mods: @n.
 -- 虫のように低脳なら、
-But if you're as feeble-minded as an insect...
+// Manually linebroken across @n
+But given that you're as feeble-minded as an insect, I
 }
 [sha:d4d065f32d3bf1b90f7115f8b2fb5a2fdf3462d8]{
 -- Page 223, Offset 40079.
 -- そういうものとして扱ってもいいわよね？”』
-Then surely it's okay for me to treat you like one?"
+suppose I might as well treat you like one."
 }
 [sha:b02e61dbb13502fc596a17c1e240ea7093725234]{
 -- Page 224, Offset 40080.
@@ -508,8 +510,7 @@ Then surely it's okay for me to treat you like one?"
 [sha:6f24fc19f29719ba2a9f1068116dafb28952adb4]{
 -- Page 224, Offset 40081.
 -- 抵抗の余地のない、圧倒的な力を前にした時、恐怖は働かない事を知る。
-Faced with such overwhelming strength that all resistance is utterly futile,
- I realize that my ability to feel fear has broken.
+I learn firsthand that fear ceases to function in the face of power so overwhelming that resistance is hopelessly futile.
 }
 [sha:869bf77b42a7fba490a9bc6f8fc2a71108654a1c]{
 -- Page 224, Offset 40082.
