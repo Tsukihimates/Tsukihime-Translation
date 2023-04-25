@@ -28,6 +28,7 @@ PNG_TEMP_DIR = '.allpaccg_dds'
 
 # Source dir with game CG images to replace
 GAMECG_TEXTURES_DIR = '../../images/en_gamecg/allpaccg_textures'
+GAMECG_RAW_DIR = '../../images/en_gamecg/allpaccg_raw'
 
 # External texture replacement program
 REPLACER = 'bntx_replace/bntx_replace.py'
@@ -259,6 +260,21 @@ def main():
             candidate_files[0]
         ]
         mrg_replace_args += replace_args
+
+    # Also replace any raw files
+    raw_files = {}
+    for entry in os.scandir(GAMECG_RAW_DIR):
+        if entry.is_file():
+            raw_files[entry.name] = entry.path
+
+    for entry in mrg_entries.values():
+        if entry.name in raw_files:
+            print(f"Replacing raw file {entry.name}")
+            replace_args = [
+                '-i%d' % entry.index, raw_files[entry.name]
+            ]
+            mrg_replace_args += replace_args
+
 
     print("Packing new MRG...")
     subprocess.run(mrg_replace_args)

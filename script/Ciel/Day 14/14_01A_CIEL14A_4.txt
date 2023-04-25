@@ -96,7 +96,7 @@ Together we'll be able to prevail against Arcueid,
 -- 「…………なんだそりゃ。仲人役の神父か、アイツは」
 // 仲人 is the person who ordains a marriage.
 "What am I even thinking?
- Is Arcueid supposed to be the officiant at our wedding or something?"
+ Is Arcueid supposed to be the priest at our wedding or something?"
 }
 [sha:c036b1346f98d10a2bb7c074bdc95e4ab1abae91]{
 -- Page 105, Offset 37907.
@@ -133,15 +133,15 @@ But... it's the only option left.
 [sha:56c51e27925ecdf28cd4a502cc562fe9b240d355]{
 -- Page 107, Offset 37913.
 -- ―――その力が、君に有るという事。
-// Quoting offset 447 but it's a kinda awkward part of the sentence in EN
-―――'The fact that you have that power...'
+// None of this is voiced, so shuffling a bit for EN
+Somebody once told me―――
 }
 [sha:72b9d3ce8e56134b15f4289a95c28b5d110359a9]{
 -- Page 107, Offset 37914.
 -- そこには何かしらの意味があって、俺の未来にこの力を必要とする時がくると教えてくれた人がいる。
-// Paraphrasing 448
-Someone once told me that there must be some sort of meaning behind it,
- and that there would be a time in my future where I'd need to put it to use.
+// Paraphrasing 447/8
+'―――The fact that you have those eyes must have some kind of meaning...
+ there will be a time in your future when you'll need them.'
 }
 [sha:fe7899f5539c08e253d39a7d8fb600f0e309eb57]{
 -- Page 108, Offset 37915.
@@ -163,10 +163,10 @@ I've made up my mind...
 -- 後はシエル先輩とアルクェイドの戦いを―――
 All that's left now is to wait for the battle between Ciel-senpai and Arcueid to―――
 }
-[sha:94d2e9848339c6724a8a6c56feadec339a7da740]{
+[offset:37919]{
 -- Page 109, Offset 37919.
 -- 「―――！？」
-"―――?!"
+"%{i}Whoa%{/i}?!"
 }
 [sha:16c2d78ce91b1f4a0f9b2c53ee32751a825f59ec]{
 -- Page 109, Offset 37920.
@@ -747,7 +747,7 @@ True Ancestors, who are extensions of nature itself, can draw as much energy as 
 -- だから死なない。寿命がない。限界というものがない。
 And so, she can't die.
  She doesn't have a lifespan.
- There is no limit to her existence.
+ She has no limits.
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 142, Offset 38025.
@@ -906,7 +906,7 @@ I jump out of the window facing onto the schoolyard before Arcueid can even star
 [sha:8dc7c35d81b8a874668b39e31b94de30dde889e4]{
 -- Page 150, Offset 38054.
 -- 「ハァ、ハ―――！」
-"%{i}Hah%{/i}, %{i}hah%{/i}―――!"
+"%{i}Hah%{/i}, %{i}hah%{/i}, %{i}hah%{/i}―――!"
 }
 [sha:8e0234d9d88f4b6dd7dcfe2ab15f32393d016c58]{
 -- Page 150, Offset 38055.
@@ -936,7 +936,7 @@ Arcueid may be fast, but I'm not exactly running at human speed either.
 [sha:74d60b380758fb6cffa266d5932e834ce86fdf16]{
 -- Page 150, Offset 38060.
 -- 今度ばかりは俺が先をとる―――！
-Just this once, I'm going to beat her to it―――!
+For once, I'm going to outpace her―――!
 }
 [offset:38061]{
 -- Page 151, Offset 38061.
@@ -983,14 +983,14 @@ With a single strike, I sever the thread of life.
 [sha:cd657c3d4254c5b23d835447749735516c2f1ff9]{
 -- Page 152, Offset 38069.
 -- すべての基盤。アルクェイドと繋がっている『星の活力』の供給源である自然を、この一帯だけ殺害する。
-I kill the bedrock that underlies everything.
+I kill the substrate that underlies everything.
  I kill all of the nature in this region,
  the source that supplied Arcueid with the 'planet's force of life'.
 }
 [sha:57f474c3351bedddf18e6cfd99a4e3c06816a8e6]{
 -- Page 153, Offset 38070. Mods: @n.
 -- 「考えたわね、志貴！
-"You've thought this through, Shiki!
+"Good call, Shiki!
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 153, Offset 38071. Glued.
@@ -1042,5 +1042,5 @@ But before I even have the chance to get fired up by this newfound possibility�
 [sha:2e56a55e80a23d7818c7551b81c5fddc0f5ab0dc]{
 -- Page 155, Offset 38080.
 -- 己の口から吹き出した血に、目の前が染まっていた。
-The world before my eyes is tinted red by the blood gushing from my own mouth.
+―――The world before my eyes is tinted red by the blood gushing from my own mouth.
 }

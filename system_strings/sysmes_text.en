@@ -3189,7 +3189,8 @@ Moon Wilderness.
 }
 [sha:dde5aecaaeefdac2ea934226b1985f1bb0f8875b]{
 -- 吸血姫のキス
-I Kiss the Vampire Princess
+// @flowchart_title
+I Kiss the Vampiress
 }
 [sha:522d23adb664f3efaf270b31b32563b33653fc3a]{
 -- 直死の魔眼
@@ -3381,7 +3382,8 @@ Krake III
 }
 [sha:dde21c8d06db01c6097cb032978193dc876d8b39]{
 -- 白亜の雪
-Snow of chalk
+// @flowchart_title
+Snow of Marble
 }
 [sha:4ed04871dc81e0275078f1cbb15c61a5c553b56c]{
 -- 顕現
@@ -3405,7 +3407,8 @@ Crimson Air
 }
 [sha:a3fee7a16735e308229a874398a9cd8d867a5093]{
 -- 蟻のあがき
-Struggle of the ants
+// @flowchart_title
+Ant's Futile Struggle
 }
 [sha:4b349a35a197f1d635128d8feef20e2c2260eb52]{
 -- 諦めない。
@@ -5642,19 +5645,22 @@ Arcueid reveals her true power.^The two of us withdraw to the^school, and prepar
 }
 [sha:672cdb4904185359fd8b1f30738b33c7fb68b3ea]{
 -- 第七聖典による狙撃を^敢行するシエル。^渾身の一射は、はたして。
-第七聖典による狙撃を^敢行するシエル。^渾身の一射は、はたして。
+Ciel uses the Seventh Scripture^to snipe her target. Her first^shot, with all her strength^behind it, goes as expected.
 }
 [sha:14bff6ca7cbc7552d9313f4d39e210febb6c17e8]{
 -- 街が熔け、消える。^これは自分と志貴だけの世界。^なのに邪魔者が混ざっている――
-街が熔け、消える。^これは自分と志貴だけの世界。^なのに邪魔者が混ざっている――
+The city melts away and^vanishes. A world for just^Shiki and me. And yet, an^intruder has entered the mix.
 }
 [sha:203ae576ab40b4d5904b38b6fad776fd57a72777]{
 -- 校舎の屋上へと駆け上がる。^夜を照らす閃光の中、^内から語りかける声を聞く。
-校舎の屋上へと駆け上がる。^夜を照らす閃光の中、^内から語りかける声を聞く。
+I rush up to the roof of the^school. As a flash of light^illuminates the city, I listen^to the voice inside my head.
 }
 [sha:e0e22a7f7ff19b9f9182de198745261c252afa05]{
 -- 完全武装シエル、対、^真祖アルクェイド。^勝利の星はどちらに輝く。
-完全武装シエル、対、^真祖アルクェイド。^勝利の星はどちらに輝く。
+// Melty reference
+// @flowchart_descr
+Fully-Armed Ciel versus True Ancestor Arcueid.
+ On who will the star of victory shine?
 }
 [sha:a70175c37f41533f0429f8865407501b3537970d]{
 -- 教会支部から帰還するシエル。^総耶の異変を感知し、^急ぐ彼女の前に―――
@@ -5664,11 +5670,15 @@ Ciel returns from her visit to the Church's local branch.
 }
 [sha:28e64ada02911a412f11c77b418c70b9a574f3ff]{
 -- 真祖の王族、撃退――^だが、余力の尽きた彼女は、^異変にまだ気付けずにいた。
-真祖の王族、撃退――^だが、余力の尽きた彼女は、^異変にまだ気付けずにいた。
+// @flowchart_descr
+The True Ancestor royal has been repelled...
+ But the exhausted Executor has yet to notice the abnormality that is about to occur.
 }
 [sha:8eb442889ddd0cbc38c808c30eb3e25fb8d7a7e2]{
 -- 光体出現。^シエルを救う為、^志貴は人智及ばぬ圏内へ。
-光体出現。^シエルを救う為、^志貴は人智及ばぬ圏内へ。
+// @flowchart_descr
+The Luminary appears.
+ In order to save Ciel, Shiki advances into the humanly incomprehensible zone of influence.
 }
 [sha:609ef1fe27daee7a4eecdb58c41f3538a8a0af75]{
 -- ロアの声に逆らうように、^光の中心を目指す。^それは自殺行為に他ならない。
@@ -5684,7 +5694,10 @@ Ciel returns from her visit to the Church's local branch.
 }
 [sha:845a606d6f3bc629c1d912a9184adf2182bc3cae]{
 -- 圏内に入る。光体を垣間見る。^立ち上がる100メートルの巨影。^それは、具現化した悪夢だった。
-圏内に入る。光体を垣間見る。^立ち上がる100メートルの巨影。^それは、具現化した悪夢だった。
+// @flowchart_descr
+As I enter her zone of influence,
+ I catch a glimpse of the Luminary,
+ a giant figure standing over a hundred meters tall――a nightmare made manifest.
 }
 [sha:8c9402954a2f0a2da88e0950368a444e1520c3c6]{
 -- 形骸化したビル群の谷を^駆け、光体に接近する。^見つかれば即、死。
@@ -5744,6 +5757,7 @@ Ciel returns from her visit to the Church's local branch.
 }
 [sha:b6452bee286dcdb6c6e45350f29822b66c4911f1]{
 -- 吸血姫との和解と別離。^けれど、星の光で焼けた体は、^もう保たなかった。
+// Be sure to tl 吸血姫 as vampiress
 吸血姫との和解と別離。^けれど、星の光で焼けた体は、^もう保たなかった。
 }
 [sha:10d6c3f49e50556e0524542a0731f28254403ca1]{
