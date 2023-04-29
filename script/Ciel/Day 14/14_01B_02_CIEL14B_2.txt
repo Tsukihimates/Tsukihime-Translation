@@ -281,7 +281,7 @@ In accordance with Arcueid's mental image,
 [sha:593ff8159566ab5d72e20faa4d8ba16666587694]{
 -- Page 17, Offset 39395.
 -- さっきまでのは、まだ正常だった、なんて」
-You're telling me... she was actually %{i}stable%{/i} before this?
+You're telling me... she was actually %{i}stable%{/i} before this?"
 }
 [sha:098ec1b28b35f3241dba3e24c301d84231318c89]{
 -- Page 18, Offset 39396.
@@ -489,13 +489,15 @@ It is no more than an incarnation of power whose means of <manifestation|e x i s
 -- 「“ほら―――だから言ったでしょう、シエル？
 %{i}
 "I warned you, didn't I, Ciel?
+%{/i}
 }
 [sha:2765e407ab42daf900358b17d697eadc593c9464]{
 -- Page 31, Offset 39431.
 -- やめないと、怖いコトになっちゃうって”」
 // Referencing 39340, needs to key on 怖い
-That something terrifying would happen if you didn't stop."
 %{i}
+That something terrifying would happen if you didn't stop."
+%{/i}
 }
 [sha:f01c6c26e3bad0142a4f6f7519410d7b96842700]{
 -- Page 32, Offset 39432.
