@@ -5820,107 +5820,171 @@ I can't break my promise with^Arcueid. I have to somehow slip^away behind their 
 }
 [sha:8c092a9f7a6f5a13dc44cd79e75af0d1d0c13daf]{
 -- 終わりには理由がある。^されど、己が過去を知らぬ^ものに知る由もなく。
-The end never comes without^reason. Nevertheless, those who^do not know their own pasts have^no way of knowing.
+// @flowchart_descr
+The end never comes without reason.
+ But those who do now know their own pasts may never grasp it.
 }
 [sha:74519ccaf43854fb549ef462414aebf3c115b636]{
 -- 清々しい朝に目を覚ました。^―――いや、ちょっと。^これどういうコト？
-I awaken to a refreshing morning.^――Wait, what the hell is this?
+// Ref 24271.
+// @flowchart_descr
+I awake to a brisk morning.^
+Wait, what the hell is going on?!
 }
 [sha:88a085dca2385f20c315a12b6be11a37d126dec3]{
 -- 一晩中待たせた責任もある。^こうなったら今日は一日、^アルクェイドに付き合おう。
-I'm to blame for keeping Arcueid^waiting all night. Now that it's^come to this, I'll have to spend^the whole day with her.
+// @flowchart_descr
+I stood Arcueid up and kept her waiting all night.
+ I'll have to make up for it by spending the whole day with her today.
 }
 [sha:17f8516cccd053ab6b7bf1cc3beb723c4d3a4730]{
 -- どうして怒っていたのか。^そりゃあ、アルクェイドが^わがまま……だからかな？
-Why were you so angry? Well,^that's because you're selfish...^I guess?
+// Reference 24439.
+// @flowchart_descr
+Why were you so angry?^
+Well, it's because you're selfish at heart, right?
 }
 [sha:e2e8d883888a60df07df4c2b2dc7fd6c139a284b]{
 -- そりゃあアルクェイドにとって^自分を殺した^にっくき復讐の相手だし……。
-Well, isn't it because you want^revenge on me for killing you...
+// @flowchart_descr
+I mean, I killed you, right?
+ Makes sense you'd want to take revenge on me.
 }
 [sha:152359e4ba89bfcfc06c14916be028bc50509f0b]{
 -- まったくもって^こっちが訊きたい。^吸血鬼だから……とか？
-To be honest, I'd like to know^that myself. Because you're a^vampire... or something?
+// @flowchart_descr
+How on earth am I supposed to know?
+ Maybe because you're a vampire or something?
 }
 [sha:ea23b93b38ea407833cae9ee02d8cd2a09b325e2]{
 -- まずは屋敷から離れよう。^遊び場らしきものなど、^ここには何もない。
-First, let's leave the^mansion. There's nowhere^to enjoy ourselves here.
+// Cribbed from 10_00_ARC10_3, it's short
+// @flowchart_descr
+The first order of business is to get away from the Tohno mansion.
+ There's no way I'd be able to keep Arcueid entertained here for long.
 }
 [sha:995bbbadd5ee4ee05f6ab5e1fffb787f6b8c3b11]{
 -- アルクェイドが楽しめそうな^駅の方面に向か……え、^何をしてんのこのお姫さま？
-In order to entertain Arcueid,^we head to the direction of the^station... Wait, what's Her^Majesty up to now?
+// @flowchart_descr
+I can probably find some way to entertain her over by the station, so let's head there――
+wait, what's Her Majesty up to now?!
 }
 [sha:039461b82dad863edf209e5b4a2f26ff173daad5]{
 -- 映画が定番だろう。面白みが^ないとか言わないでほしい。^定番こそ王道である。
-Going to the movies is a bit^standard, but don't go calling^it boring. It's the best choice;^it's the standard for a reason.
+// @flowchart_descr
+A movie is standard fare, right?
+ And don't go calling it a boring choice - it's the standard for a reason.
 }
 [sha:4e823839fb14bd2740f7bc46cb90721e3aed1632]{
 -- 我ながら正気だろうか。^だがこの選択に間違いはない。^大いなる野望を実現させるのだ。
-I wonder if I'm even sane. But^this is the right choice, there's^no doubt about it, I must fulfill^my overwhelming desire.
+// @flowchart_descr
+Am I crazy? Maybe.
+ But my choice is sound.
+ It's time to make my dream a reality.
 }
 [sha:70955daf365f1841cc8b594d1be3c80bed0f3ca0]{
 -- さいわい、今日は天気もいい。^アルクェイドを連れて、^日中の公園へとやってきた。
-Fortunately, today's weather^is great. I decide to bring^her along to the park.
+// @flowchart_descr
+Luckily, it's the perfect weather for a walk.
+ I'll take Arcueid for a stroll around the park.
 }
 [sha:85cffadfc965b051d74cbf1620c117501a7feeab]{
 -- 彼女の話。^食べ物の話。^その、敵の話。
-Talking about her.^Talking about food.^And... talking about the enemy.
+// @flowchart_descr
+Talking about her.^
+Talking about food.^
+And... talking about the enemy.
 }
 [sha:b7943b70375ca5fb276ea6afe7467d1b3a7d30f3]{
 -- アルクェイドにせがまれて、^自分の通う学校へとやってきた。^一体どういうつもりなのか……。
-After being pestered by Arcueid,^we ended up at my school. What^on earth is she planning to do...
+// @flowchart_descr
+After being bullied into it by Arcueid, we arrive at my school.
+ Just what on earth is she after...
 }
 [sha:9910159d5935a29fa6e5f9a33a94fc5377d202f3]{
 -- 彼女とした、^“もしも”のはなし。
-Talking about 'what-ifs'.
+// This is 10_00_ARC10_5B but they don't say もしも once!
+// Probably more about the promising to meet again
+// @flowchart_descr
+What if... She and I...
 }
 [sha:6fb219a4e40b583af851b6590d70b033edf7f19f]{
 -- アルクェイドと公園に来た。^探索を始めるには、まだ早い。^ただ、時間が過ぎるのを待つ。
-I arrived at the park, together^with Arcueid. It's too early to^begin our search, so we wait as^time passes by.
+// @flowchart_descr
+Arcueid and I arrive at the park.
+ It's still too early to begin our search for vampires,
+ so we simply wait for time to pass.
 }
 [sha:09011d0af4968748fe304d6ec205518fb8f1fd1b]{
 -- 試そうか、と彼女は言った。^その吐息が首筋に迫る。^言い知れぬ恐怖に、自分は――
-'Test it out', she said. Her^breath approaches my nape. In^the face of this inexplicable^fear, I――
+// See 25810, 25857,
+// @flowchart_descr
+'How about we test it out?'^^
+I can feel her hot breath on my neck.
+ Filled with a primordial fear, I――
 }
 [sha:9769718b1306dcf607714856085aa00183070cba]{
 -- 悪ふざけ、で良かったのに。^アルクェイドは謝罪を口にして、^目の前から跳び去った。
-Even though it was supposed to^be a joke, Arcueid apologizes^and leaps away.
+// Ref 26075.
+// @flowchart_descr
+If only it were just a bad joke.
+ Arcueid apologizes, and leaps away into the darkness of the night.
 }
 [sha:565dd33219c59d83b75e676e0d8867eeb8835a5d]{
 -- 聖堂教会の司祭は語る。^アルクェイドの“敵”の正体と^その目的を。
-The Presbyter from the Holy^Church speaks about her enemy's^true form, and his purpose.
+// @flowchart_descr
+The Presbyter from the Holy Church addresses me.
+ Just who is Arcueid's enemy, and what is his goal?
 }
 [sha:727145f7a51dec1540585e6887352a4d25a2beca]{
 -- もう余計な無駄道は踏めない。^アルクェイドを追うため、^夜の街へと走り出した。
-I can't afford to waste any more^time. I rush into the nighttime^city to chase after Arcueid.
+// @flowchart_descr
+I can't afford to waste any more time.
+ I sprint off into the city to search for Arcueid.
 }
 [sha:35552a6ab6c67a24498e271670192787c420e6f4]{
 -- アルクェイドは見つからない。^あいつがいるとすれば――
-I can't find Arcueid. If she was^here, she'd be――
+// @flowchart_descr
+I can't find Arcueid.
+ If she's anywhere in the city, it's――
 }
 [sha:b4869e121caba93e6c97d3029015bb5ce0d79c08]{
 -- 彼女の部屋に行こう。^今夜は死者を探す事も諦めて、^部屋に戻っているかもしれない。
-I'll go to her room. She might^have given up on searching for^the Dead tonight and gone back^to her room.
+// @flowchart_descr
+I'll try her apartment.
+ There's a chance she's given up on hunting the Dead for the night and gone back home.
 }
 [sha:5d2cc3484e27767bd1e03b42b181913c8722d85b]{
 -- 部屋に戻ったとは思えない。^向かうのなら、今は誰も^やってこない場所―――
-I don't think she went back^to her room. If she was to go^somewhere, it'd be a place^no one would go to――
+// @flowchart_descr
+She wouldn't go back to her room.
+ Instead, she'd want to go somewhere nobody else would go――
 }
 [sha:b26e974d8c018232063e53c5bdad030957e80789]{
 -- 眼鏡を外し、夜の街を行く。^彼女の死だけは視えない。^それが手掛かりになると信じて。
-I remove my glasses and head^into the night. She's the only^one whose death I can't see.^I believe that'll help me find^her.
+// @flowchart_descr
+I take off my glasses and plunge into the night.
+ She is the only one whose death I cannot see.
+ I have to trust that that will help me find her.
 }
 [sha:73aff6fe964683251d63e2477f9b5570ab471030]{
 -- 夜の学校には人気がない。^アルクェイドはもしかしたら、^ここに来ているのかもしれない。
-There isn't anyone at school^during nighttime. There's a^possibility Arcueid could've^gone there.
+// @flowchart_descr
+The school is totally deserted during the night.
+ Maybe Arcueid went there?
 }
 [sha:a2be6d67152e7c45817383d74a64ffbd978cc9fa]{
 -- 介錯の牙が別れを告げる。^欲望は、^宿命をより強く補強した。
-The fangs of beheading bid^farewell. All the more is my^fate reinforced by my desires.
+// 介錯 kinda difficult cultural context to encode
+// @flowchart_descr
+Fangs spare me the agony of death.
+ All the more is my fate reinforced by my desires.
 }
 [sha:15323e31ae59925db2fdfd7b10e5bb01fcd520db]{
 -- アルクェイドを泣かせるような^真似は、二度とできない。^この脳が焼き切れても―――
-I will never do anything that^will make Arcueid cry ever again.^Even if my brain burns out――
+// @flowchart_descr
+I will never do anything that will make Arcueid cry again.
+ Even if my brain burns out――
 }
 [sha:96f07839e5554b23b5797904fb107fbceea36cd0]{
 -- 夢を見ていた。^夢の中でも目を覚ましても、^昨夜の別れが頭から離れない。
