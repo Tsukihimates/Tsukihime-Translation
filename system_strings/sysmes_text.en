@@ -3435,7 +3435,7 @@ I'll see this through to the end
 [sha:95019f1e403dc0bfd40253839e38f670f6f42fce]{
 -- ｉｆ
 // @flowchart_title
-if
+If
 }
 [sha:cfcb0bf408942dd4aa7a7b74d9e068ec0c8793cb]{
 -- 最後の晩餐
@@ -6437,8 +6437,9 @@ I was dreaming...
 }
 [sha:f31abfd68b14549fee4cf80832e5cb05cc7aa8da]{
 -- 眠りから覚醒する。^体の調子はいいとは言えないが、^日常に支障はないだろう。
+// Same bones as the Roa bad end later today
 // @flowchart_descr
-I wake from my slumber.
+I wake up.
  I can't say I'm feeling great, but it shouldn't be enough to stop me going about my day.
 }
 [sha:64f4395f86480c7331f9bbb86deba36225c418c4]{
@@ -6474,6 +6475,7 @@ My body is desperately pleading for food.
 }
 [sha:ce0b30415acc1ba7f567ff310d32cb57f2d0dc5d]{
 -- 永い眠りから覚醒する。^器の性能はいいとは言えないが、^活動に支障はないだろう。
+// Same bones as first file of the day
 // @flowchart_descr
 I awake from my interminable slumber.
  This vessel's abilities leave much to be desired,
