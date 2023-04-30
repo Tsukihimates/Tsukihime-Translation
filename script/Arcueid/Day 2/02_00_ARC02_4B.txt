@@ -203,7 +203,7 @@ a-ah, you know what, never mind.
 -- Page 212, Offset 3164.
 -- コホン。それはともかくとして、夕食抜きは使用人として見過ごせません。
 %{i}Ahem%{/i}.
- In any case, as a servant, I cannot overlook the fact that you have not have dinner.
+ In any case, as a maid, I cannot overlook the fact that you have not have dinner.
 }
 [sha:58f99892df1823cd9472710fcfa56d2827aa588d]{
 -- Page 212, Offset 3165.
@@ -215,10 +215,11 @@ As such, I have prepared a light meal for you in your room.
 -- おにぎりとお味噌汁という簡単なものですが」
 Although it's just rice balls and some miso soup."
 }
-[sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
+[offset:3167]{
 -- Page 213, Offset 3167.
 -- 「……！」
-"!"
+// Straight up doesn't even have an audio track level unvoiced
+Ah!
 }
 [sha:e01b4f55e1ccaf526b82578eebeb43b313a28ab5]{
 -- Page 213, Offset 3168.
