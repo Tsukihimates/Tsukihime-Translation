@@ -3037,218 +3037,304 @@ The proof of undeath
 }
 [sha:271f53a07645ea35112f89fa70ec1b65bea0abe2]{
 -- 眩病月
+// @flowchart_title
 Blacked Out Moon
 }
 [sha:0f33893a6a5f43530d2d835b271f26f520e5fbc9]{
 -- 十日目・朝
+// @flowchart_title
 10th day ― Morning
 }
 [sha:245f256f4f3cb6cb46be3e3194ffd048dedb7ae6]{
 -- アルクェイドに付き合う。
-Going out with Arcueid.
+// @flowchart_title
+A date with Arcueid
 }
 [sha:2292e6bd780648824bd21dd3ea7dfd089e94e4a1]{
 -- わがままだから
-Because you're selfish.
+// Ref 42669
+// @flowchart_title
+Because you're selfish
 }
 [sha:b6aeb3f4c7096f10dc33df19a1ea24658411980b]{
 -- 俺に復讐したいから
-Because you want to take revenge.
+// Ref 42670
+// @flowchart_title
+Because you want revenge on me
 }
 [sha:359248cad483b05562f8b426872c075553ca974d]{
 -- 吸血鬼だから
-Because you're a vampire.
+// Ref 42671
+// @flowchart_title
+Because you're a vampire
 }
 [sha:8f9ed330c96c6081df36aa51e7ca34a6b9a59680]{
 -- アルクェイドと二人で。
-All alone with Arcueid.
+// @flowchart_title
+Just me and Arcueid
 }
 [sha:ba2e867d58dc7eb690f986a84773810fb6b94c92]{
 -- いざお出かけ
-Let's go!
+// Pulling from 24501.
+// @flowchart_title
+Going on a trip ♪
 }
 [sha:88d86da66005d238e34140d3f2dffc5534d7d3ab]{
 -- 定番だけど映画館はどうだろう。
-Movie theater though it's cliché
+// See 42672.
+// @flowchart_title
+It's cliché, but maybe a movie?
 }
 [sha:c14267f4f8ff9c6a012481a3f82a452d888b98ab]{
 -- やはり陰鬱とした路地裏だろう。
-Gloomy back alley, of course.
+// See 42673
+// @flowchart_title
+The gloomy back alley, of course
 }
 [sha:5add291e27c1dd76c5089ebbf86bc4df824e235f]{
 -- 天気もいいし公園を散歩しよう。
-Park. Great weather for a walk.
+// This has to be hella crushed to fit. Just going to push some of it into the description.
+// See 42674
+// @flowchart_title
+How about a stroll in the park
 }
 [sha:bed2b5ed4ba8e3a2f4c70fe288bbfbc5bc89e06e]{
 -- フードコート・プリンセス
+// @flowchart_title
 Food Court Princess
 }
 [sha:bc56305acb7f5d3a3dbb2ac6890779d1d4590427]{
 -- 学校までやってきた。
-Going to school.
+// @flowchart_title
+Grudging School Visit
 }
 [sha:9cc03b81e2cdb89d7803cf2ebd61c13606b48433]{
 -- 面影に日は落ちて
-Sun has fallen on our vestiges
+// @flowchart_title
+Sunset Silhouette
 }
 [sha:d40d55775d75e1d56f4e616f4fb828e9337dcaa7]{
 -- 夜が更けていく。
-Night is falling.
+// @flowchart_title
+Night is falling
 }
 [sha:a39c9caa39e2f887312ffa2861cd59b975cc3ad2]{
 -- 吸血鬼だから。
-Because I'm a vampire.
+// Awkward one for pronouns. This phrase doesn't come up at all in 10_00_ARC10_5D.
+// @flowchart_title
+Because she's a vampire
 }
 [sha:4530984c485c277a98a2adfa78fd511af72afc17]{
 -- ミステイク
+// @flowchart_title
 Mistake
 }
 [sha:efbfbad2f78561f9e1162f567c561b27972d6c5a]{
 -- 情けは人のためならず
+// @flowchart_title
 One good turn deserves another
 }
 [sha:6a2f12c2ab26b9f1da237beb877ad36e2e5b7bef]{
 -- アルクェイドを追って。
-Chasing after Arcueid.
+// @flowchart_title
+I chase after Arcueid
 }
 [sha:898d03763e6add78d930b92a060230ed265ff2a0]{
 -- 夜の街へ。
-To the city at night.
+// We dropped 夜 in the file (10_00_ARC10_7B) and you know what, I'm going to do it again
+// @flowchart_title
+Combing the City
 }
 [sha:44b37fc9f4dfcece9345b8e7632ff83241eff2d9]{
 -- アルクェイドのマンションだ。
-Back to her apartment.
+// @flowchart_title
+She'd go to her apartment
 }
 [sha:1bc75f1a6b941440699d9fb1c79fe6d20bf59b63]{
 -- ……繁華街の、路地裏だ。
-...To a downtown back alley.
+// @flowchart_title
+She'd go to a back alley downtown
 }
 [sha:7a3e1e97340d11f4ede5dc679c047e3400f0f4e5]{
 -- 死の中で生を視る。
-Seeing life in the midst of death
+// @flowchart_title
+Searching for life amidst death
 }
 [sha:4c7ced10aed299b83a2ce9d417e3a0aa2ba3b096]{
 -- ……学校に戻っているかも？
-...Maybe the school?
+// @flowchart_title
+Maybe she'd go to the school?
 }
 [sha:0dfa18df796ae66f3ded281768baca0ba1033e5f]{
 -- 七つ、刀を研ぎ澄まし
-Blades, of seven keened
+// This is the nanaya mode dead end.
+// There's a ruby'd Nanatsu-Yoru in the scene, so going to keep that literal rather than parlay it into Nanaya or something
+// @flowchart_title
+Nanatsu, sharpen thy blade
 }
 [sha:f64ae1833e8cbc3fca3fd45e84722c380d5c256b]{
 -- 嫌がることは、できない。
-Can't get myself to hate her.
+// @flowchart_title
+I can't get myself to hate her
 }
 [sha:102a1c620a5d48961eb3e4bc353652be03c15dea]{
 -- 10日目・朝。
+// @flowchart_title
 10th day ― Morning
 }
 [sha:03a6d505c64ff9d92c19be7888d705e966aaee20]{
 -- 揺らぐ気持ち
-Trembling feeling
+// See 27155
+// @flowchart_title
+I can't make up my mind
 }
 [sha:8bcc4ad0f6e977f628de56934315396a1dddb6e1]{
 -- ……ちゃんとみんなに挨拶しよう。
-I should greet everyone properly.
+// Ref 42726.
+// @flowchart_title
+I should say hi to everyone first
 }
 [sha:4180d66a1d881b45e1e07dd7c68475f48ea9d552]{
 -- 今朝だけは先輩を優先したい。
-Today, I'll put Senpai first
+// Ref 42727.
+// @flowchart_title
+I'll make Senpai my top priority
 }
 [sha:c9a11973fa373e1c3c345684d707dcf4f0f5b2d7]{
 -- シエルを待ちながら。
-Waiting for Ciel.
+// @flowchart_title
+Waiting for Ciel
 }
 [sha:b92fee99f78dcea9c610bf0f0458fcf11c0cba68]{
 -- 待ち人来たらず
-No sign of who I'm waiting for.
+// @flowchart_title
+No sign of who I'm waiting for
 }
 [sha:1615a6a8d999b59ca72300e719ecf0cebd73a4f7]{
 -- 食堂エンカウント
+// @flowchart_title
 Dining hall encounter
 }
 [sha:b608319a7ebad62c50b9177d35ffbb07c81298fc]{
 -- シエル先輩は先輩ですよ。
-Ciel-senpai is Senpai.
+// Ref 42728.
+// @flowchart_title
+Ciel-senpai will always be Senpai
 }
 [sha:0febbcfd0e7d7ad87a2ca2e8a261f82b42d5295f]{
 -- シエル先輩は可愛いですよ。
-Ciel-senpai is adorable.
+// Ref 42729.
+// @flowchart_title
+Ciel-senpai is cute
 }
 [sha:82a63256b10fc834ce221d8a841fa75f62bbe6e6]{
 -- 先輩はカレーマニアですよね。
-Ciel-senpai is a curry fanatic.
+// Ref 42730.
+// @flowchart_title
+Ciel-senpai really loves curry
 }
 [sha:cd9969e66bd7bcf7e5d378faa537462c763c35e4]{
 -- 想いを口に。
-I speak my mind
+// @flowchart_title
+Feelings into Words
 }
 [sha:cb75a14eb1cf2aabce9a18017030e4e59e8a1954]{
 -- 話の続きを。
-When to resume our conversation?
+// Reference 27454
+// @flowchart_title
+Can I afford to put this off?
 }
 [sha:3dac10cc4af6e336ceee5f4c7c1724d0ad73caa0]{
 -- 話は放課後にすればいいし。
-We'll continue after school.
+// Ref 42731.
+// @flowchart_title
+It can wait until after school
 }
 [sha:119f1d39bc7c98dadec3e37d44325438daca87c5]{
 -- 今こそきちんと話すべきだ。
-We ought to continue now.
+// Ref 42732.
+// @flowchart_title
+We need to discuss this now
 }
 [sha:2c60a17eec89ff18db835249c32dc98b8d43f8c4]{
 -- ノエル先生との関係を訊いてみる。
+// Ref 42733.
+// @flowchart_title
 How's her relationship with Noel?
 }
 [sha:7bbc76039a5129553357a667be42cae50980f732]{
 -- 大聖堂ってなに？　と訊いてみる。
+// Ref 42734.
+// @flowchart_title
 What is a 'Cathedral'?
 }
 [sha:9f10312828131ceb84c5eef3284a7bf4cccf4b8a]{
 -- 黒鍵ってなに？　と訊いてみる
-What are the 'black keys'?
+// Ref 42735.
+// @flowchart_title
+What are Black Keys?
 }
 [sha:4d6f01f14cd893b9f6fe22d0c084c47cddac059f]{
 -- ＳＴＹＬＥ
+// Ref 42736.
+// @flowchart_title
 ＳＴＹＬＥ
 }
 [sha:6cd003ef1163d0cd0eed3c7d567fd5c555de39c4]{
 -- アルクェイドの事なんですが……
-About Arcueid...
+// Ref 42737, but tweaked for brevity
+// @flowchart_title
+So... About Arcueid...
 }
 [sha:78be953cd7757056da47fdb4890744756c0b2dfb]{
 -- ジンジャーとミルクティー
-Ginger and milk tea
+// @flowchart_title
+Ginger Milk Tea
 }
 [sha:2d5fa1f2ca3b6d3a8e9d5ff0b3819c9707f46a1b]{
 -- ロアの生死。
-The life and death of Roa.
+// @flowchart_title
+The life and death of Roa
 }
 [sha:86e31d2965e1e54887fba3abdfd89d68af2f3d76]{
 -- 先輩だけに行かせられない。
-I can't let Senpai go alone.
+// Ref 42738.
+// @flowchart_title
+I can't let Senpai go alone
 }
 [sha:95dd5c4004dae5ed422d7a1b2340b6b2039a62ea]{
 -- 自分は足手まといだ。
+// Ref 42739.
+// @flowchart_title
 I'd just be a burden
 }
 [sha:78fa0369541d2d6e56a14fa4ccc7fee3c86ebe01]{
 -- 先生には報せないんですか？
+// Ref 42740.
+// @flowchart_title
 Shouldn't we tell Noel-sensei?
 }
 [sha:aa9915d72a25d5382b116f0ef245599856458e93]{
 -- ロアの棺。
-Roa's coffin.
+// @flowchart_title
+Roa's Coffin
 }
 [sha:fc0ac3d14aac0fbb28acf5003c3c1869052cc6c2]{
 -- 転生の果て
-The limits of reincarnation
+// Context of file (10_01_CIEL10_7) is more that _this_ Roa is gone, not like
+// the cycle of reincarnation is broken or anything
+// @flowchart_title
+End of a Reincarnate
 }
 [sha:41bab726eb93608f3fcade2efa3530ab499e2281]{
 -- 明日から。
-Tomorrow is a fresh start.
+// @flowchart_title
+Tomorrow is a fresh start
 }
 [sha:6e41e14883374d4702a3adbdac62d63b0aafcec1]{
 -- ボックス
+// https://www.youtube.com/watch?v=lHpHxLZReiI
+// @flowchart_title
 Box
 }
 [sha:b6f66a46444cee5ae0fb74e11bd8a9d5268a44b8]{
