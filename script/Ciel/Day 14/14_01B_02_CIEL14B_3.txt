@@ -133,28 +133,30 @@ How could %{i}that%{/i} have materialized in a human city?
 -- 遠くから拝礼する者には『怖ろしい、理解できないもの』
 // This man has the WORST linebreaks
 %{i}
-To those who worship it from afar―――
+To those who worship it from afar,
 %{/i}
 }
 [sha:93d776e10a2bece6ca7e430d0d04d317d9501169]{
 -- Page 97, Offset 39683. Mods: @k, @e.
 -- という印象を与え、
+%{force_glue}
 %{i}
-It will appear to be terrifying and unknowable.
+ it will appear to be terrifying and unknowable.
 %{/i}
 }
 [sha:27db9dd6682f192a5e9c5174c63dd8dcd07a2df5]{
 -- Page 97, Offset 39684. Mods: @k, @e.
 -- 近くまで拝礼する者には『美しい、理解出来るもの』
 %{i}
-To those who worship it from up close―――
+To those who worship it from up close,
 %{/i}
 }
 [sha:34048a8697c1316df140e93811f454a67c77a8af]{
 -- Page 97, Offset 39685.
 -- という印象を与える。
+%{force_glue}
 %{i}
-It will appear to be beautiful and knowable.
+ it will appear to be beautiful and knowable.
 %{/i}
 }
 [sha:e6b0a68d16497faed433eb480d4ad595e3be2094]{
@@ -209,28 +211,30 @@ So does that mean this giant is even taller than %{i}that%{/i}?
 -- Page 100, Offset 39694. Mods: @k, @e.
 -- 肉体という壁がない為、その有り余る魔力量のまま
 %{i}
-Without a body to contain it, her magical energy diffuses―――
+Without a body to contain it, her magical energy diffuses,
 %{/i}
 }
 [sha:71fbd94ee9e3fc6a992d116e3b3d5dac7eb8c6df]{
 -- Page 100, Offset 39695.
 -- “彼女が思い描く自身のイメージ”が投影・拡散されている。
+%{force_glue}
 %{i}
-Projecting an image of what she imagines herself to be.
+ projecting an image of what she imagines herself to be.
 %{/i}
 }
 [sha:c2d7fcf645adcf8bd29a0f81c06b25495d8e938b]{
 -- Page 100, Offset 39696. Mods: @k, @e.
 -- あれは既に、おまえの知る
 %{i}
-By this point―――
+By this point,
 %{/i}
 }
 [sha:5a2fa92a77dbe6680101c3703e9ef41964d7a356]{
 -- Page 100, Offset 39697.
 -- アルクェイド・ブリュンスタッドとは別のものだ』
+%{force_glue}
 %{i}
-That thing is no longer the same Arcueid Brunestud that you knew."
+ that thing is no longer the same Arcueid Brunestud that you knew."
 %{/i}
 }
 [sha:d6034e763e0bb848a6f3d4c334f7e32d4d7dc06a]{
@@ -678,28 +682,30 @@ If I emulate how Arcueid did it back then―――
 -- Page 127, Offset 39775. Mods: @k, @e.
 -- 『吸血種として活動するほどに、
 %{i}
-"The more you act as a vampire―――
+"The more you act as a vampire,
 %{/i}
 }
 [sha:c107f7011f3f06862a5fd21c88737277e9b15c35]{
 -- Page 127, Offset 39776.
 -- 遠野志貴の肉体は変化していく。
+%{force_glue}
 %{i}
-The more your body transforms.
+ the more your body transforms.
 %{/i}
 }
 [sha:30f304d432c001b5a83102a9d3d3186ccb3e3ece]{
 -- Page 127, Offset 39777. Mods: @k, @e.
 -- 仮に私の魂を殺せたとしても、
 %{i}
-Even if you somehow manage to kill my soul―――
+Even if you somehow manage to kill my soul,
 %{/i}
 }
 [sha:e9f86da208379786390c909a27b381600c08d081]{
 -- Page 127, Offset 39778.
 -- 変化しきった体は人間には戻れない』
+%{force_glue}
 %{i}
-Your transformed body will never return to being human."
+ your transformed body will never return to being human."
 %{/i}
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
