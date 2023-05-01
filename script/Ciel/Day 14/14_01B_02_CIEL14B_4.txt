@@ -228,14 +228,15 @@ They have no need to either eliminate or cause the decline of humanity.
 -- Page 260, Offset 40197. Mods: @k, @e.
 -- 彼女はただ、周りを強くする事で相対的に、
 %{i}
-By simply making the world around her stronger―――
+By simply making the world around her stronger,
 %{/i}
 }
 [sha:ae285fcc2f6b98184e480f77cdf594acea857d4a]{
 -- Page 260, Offset 40198.
 -- 文明を矮小化させている』
+%{force_glue}
 %{i}
-She makes civilization puny by comparison."
+ she makes civilization puny by comparison."
 %{/i}
 }
 [sha:be71742bf1e92a17c392bb430ca1daf7970d7224]{
@@ -408,14 +409,15 @@ Those are some bold words for someone who's been aware of me the whole time!
 -- Page 271, Offset 40228. Mods: @n.
 -- ピョンピョン跳びはねるだけの小虫より、
 %{i}
-Why would I pay any attention to some tiny insect hopping around―――
+Why would I pay any attention to some tiny insect hopping around down there
 %{/i}
 }
 [sha:c6916cd7cd9518c3ecba38277624a0f7a1aa12fa]{
 -- Page 271, Offset 40229.
 -- こっちのオモチャをいじった方が楽しいでしょう？”」
+%{force_glue}
 %{i}
-When I'm having so much fun playing with my new toy?"
+ when I'm having so much fun playing with my new toy?"
 %{/i}
 }
 [sha:f97ac4234f9719bb2ba9cf57eb206f8b6aaa2aa5]{
@@ -467,7 +469,7 @@ But big-mouthed humans like you need to be put in their place."
 [sha:0eda183e83ce33bac4cd100d9f7707e9e73803b7]{
 -- Page 274, Offset 40237.
 -- 大地が揺れる。
-The earth shakes.
+The earth rumbles.
 }
 [sha:b32b6dd0c414d0b6f4d8a03c2f83d3fa3b04096f]{
 -- Page 274, Offset 40238.
