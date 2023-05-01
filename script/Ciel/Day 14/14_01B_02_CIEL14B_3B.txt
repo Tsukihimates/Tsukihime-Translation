@@ -162,14 +162,15 @@ Though established as a lifeform,
 -- Page 138, Offset 39814. Mods: @k, @e.
 -- 多少の微調整、変貌はするだろうが、
 %{i}
-It may perform some fine tuning or change its appearance―――
+It may perform some fine tuning, or change its appearance,
 %{/i}
 }
 [sha:e3217fdc98830874572e4707c21f167f4917a3c5]{
 -- Page 138, Offset 39815.
 -- あの位置から移動する事はない』
+%{force_glue}
 %{i}
-But it won't move from that spot."
+ but it won't move from that spot."
 %{/i}
 }
 [sha:f8484940619971230a04c241c4972a0c4ccdc4e1]{
@@ -267,14 +268,15 @@ Just as I'm starting to feel confident that I'll make it there in one piece―�
 -- Page 146, Offset 39832. Mods: @k, @e.
 -- 姫君は指先の獲物に夢中で、
 %{i}
-The Princess is so obsessed with the prey in her fingertips―――
+The Princess is so obsessed with the prey in her fingertips
 %{/i}
 }
 [sha:a7fad1408c9f82b4604652a2a6729a8f0542bec8]{
 -- Page 146, Offset 39833.
 -- 我々に気がついていない』
+%{force_glue}
 %{i}
-That she hasn't even noticed us."
+ that she hasn't even noticed us."
 %{/i}
 }
 [sha:5d631305fe85b050fba007113d99888b063f126c]{
