@@ -79,7 +79,7 @@ H-Huh? My body just suddenly―――?!
 %{i}
 "I'm speechless.
  I never imagined you'd just reveal yourself to me.
-%{i}
+%{/i}
 }
 [sha:42629af222224ab888225ddbd3fbab60f1c55885]{
 -- Page 344, Offset 41247. Mods: @n.
@@ -281,7 +281,7 @@ Don't be shy. We're friends, after all."
 %{force_glue}
 %{i}
  but the fact remains that you stabbed me with your knife."
-%{i}
+%{/i}
 }
 [sha:4ad6fed35f534d2a6637c15aaefe1cc07805369c]{
 -- Page 358, Offset 41282. Mods: @n.
@@ -289,7 +289,7 @@ Don't be shy. We're friends, after all."
 // splitting
 %{i}
 "You called me rude names, too,
-%{i}
+%{/i}
 }
 [sha:5460b7384fd4710b30ad93c174d9f453fb9169ca]{
 -- Page 358, Offset 41283.
@@ -298,7 +298,7 @@ Don't be shy. We're friends, after all."
 %{force_glue}
 %{i}
  like 'landmark' and 'Goliath'."
-%{i}
+%{/i}
 }
 [sha:94e5a258ceca25ec75532001ce7947d2b0c6487c]{
 -- Page 359, Offset 41284. Mods: @n.
@@ -306,7 +306,7 @@ Don't be shy. We're friends, after all."
 // the sentences
 %{i}
 "I think it's only fair that you make up for it
-%{i}
+%{/i}
 }
 [sha:cb7820e705dc1dc5a267a65e5be4eed310c6c2fa]{
 -- Page 359, Offset 41285.
@@ -315,7 +315,7 @@ Don't be shy. We're friends, after all."
 %{force_glue}
 %{i}
  with that tiny body of yours."
-%{i}
+%{/i}
 }
 [sha:246b38ffe1df074fff5edde6cf9bdff82b995553]{
 -- Page 360, Offset 41286.
@@ -359,7 +359,7 @@ Even though I know it's futile,
 -- Page 364, Offset 41293.
 -- 『“ふふ……ふふふ……あはははは！
 %{i}
-"Heh.... hehehe... ahahahaha!
+"Heh... hehehe... ahahahaha!
 %{/i}
 }
 [sha:62d8711886716d17734c7bc55c2c6048e53e20fc]{
