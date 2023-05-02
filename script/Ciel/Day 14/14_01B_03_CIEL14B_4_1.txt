@@ -8,7 +8,7 @@ Trying to fight her head-on is out of the question.
 -- もう一度ビルの屋上に上がっても解決策はないし、相手はこっちを『見る』だけで捕まえられる。
 Even if I climbed back up on top of the buildings,
  I don't have a plan to take her out,
- and she can snare me just by 'looking' at me.
+ and she can ensnare me just by 'looking' at me.
 }
 [sha:98e20fb22bcffe4774726ce66614135967a8d78b]{
 -- Page 1, Offset 40247.
@@ -34,7 +34,9 @@ If I keep myself hidden among these roots,
 [sha:a146926b592b1d0a132b34f43ca14031360177ba]{
 -- Page 2, Offset 40251.
 -- 『“へえ。それはそれで面白いけど”』
-"%{i}Hmm%{/i}. Well would you look at that."
+%{i}
+"Hmm. Well, would you look at that."
+%{/i}
 }
 [sha:cf7baa62c6e16c53df9719160149073838aa0a09]{
 -- Page 3, Offset 40252.
@@ -44,18 +46,23 @@ A gleeful voice rings out over the surface.
 [sha:5c11b6b5e99ad26aadf094ad20e800476d47a166]{
 -- Page 3, Offset 40253.
 -- 巨人は悪あがきを続ける侵入者に視線を向ける事もなく、それでいて、その顛末を予想して<嘲笑|わらう>ように、
-The giant doesn't even turn to look at the intruder still struggling in vain below her.
+The giant doesn't even turn to look at the continued futile struggle of the intruder below her.
  But despite that, as though mocking the outcome she knows is coming―――
 }
 [sha:0b4c382c83d384e286cde5c1d3231601a8272f82]{
 -- Page 4, Offset 40254. Mods: @n.
 -- 『“アナタは、息をしないでも
-"Were you always that kind of creature?
+// Manually linebroken across @n
+%{i}
+"And here I thought you were the sort of being that
+%{/i}
 }
 [sha:c11830ec83ee86eb0ad03ae5c9b1eda800528a7a]{
 -- Page 4, Offset 40255.
 -- 生きていられる生き物だった？”』
-One that can live without needing to breathe?"
+%{i}
+couldn't live without breathing.
+%{/i}
 }
 [sha:bf5f8b6d28c3336329ec0206f6e78969e23f743f]{
 -- Page 4, Offset 40256.
@@ -66,18 +73,18 @@ She informs me of the end that awaits me a few minutes from now.
 [sha:1c20a2964f5d5cf1de2af9d7d005b9ed390292e5]{
 -- Page 5, Offset 40257. Mods: @n.
 -- 「ふっ
-"%{i}Kh%{/i}
+"%{i}Grgh%{/i}
 }
 [sha:3a9773f9daa810288f636f1e50a3bf4007127efc]{
 -- Page 5, Offset 40258. Glued.
 -- ―――、う、っ―――……！」
-――%{i}ugh%{/i}―――!"
+――%{i}ghh%{/i}――%{i}ghahh%{/i}!"
 }
 [sha:1cf05b06e762c4739a66f435608ed583275781ed]{
 -- Page 5, Offset 40259.
 -- アルクェイドの言う通り、地上は動物が暮らせる環境ではなくなっていた。
-It's just as Arcueid says.
- The earth is no longer an environment in which animals can survive.
+As Arcueid says,
+ the earth is no longer an environment in which animals can survive.
 }
 [sha:c2fe5c4aceb974e9ff76e6822d1c21072876b3c0]{
 -- Page 5, Offset 40260.
@@ -90,14 +97,13 @@ It's already over 40℃,
 [sha:0bba3f350b7f0a190eec964481a4168cdced0047]{
 -- Page 6, Offset 40261.
 -- そしてなにより、満足に息ができない。
-But most pressingly, I can't breathe properly.
+But more pressingly, I can't breathe properly.
 }
 [sha:2daea3b34e23f9b7e0565842c33cb5823a517f1b]{
 -- Page 6, Offset 40262.
 -- ここでは光合成ができないのか、植物も呼吸をする為に酸素を大量消費するばかりで、大型の動物に分け与えられる酸素が無いのだ。
-I don't know if photosynthesis simply isn't possible down here,
- or if the plants just consume a lot of oxygen as part of respiration,
- but there's none left to share with the larger animals.
+Maybe photosynthesis simply isn't possible down here,
+ or maybe the plants just consume so much oxygen that there isn't any left to share with larger animals.
 }
 [sha:ba2f15cb42f1cba7f00686a64d3864cf2840ea39]{
 -- Page 7, Offset 40263.
@@ -110,14 +116,16 @@ I don't know if photosynthesis simply isn't possible down here,
 -- Page 7, Offset 40264. Mods: @k, @e.
 -- 人類が知る原生植物ではあるが、
 %{i}
-These are prehistoric plants that humans have studied―――
+These are the same prehistoric plants known to mankind,
 %{/i}
 }
 [sha:af4da133e30ee7195a8ebbc2934db1bab7432864]{
 -- Page 7, Offset 40265.
 -- その規格、強靭さはまるで別物だな』
+%{force_glue}
 %{i}
-But their strength makes them seem like a different species altogether."
+ but considering their size and might,
+ they may as well be something else altogether."
 %{/i}
 }
 [sha:a5d8b98591d3c5215ee1f7b343bff8db3748e9aa]{
@@ -168,7 +176,7 @@ So in other words, I could drop dead any minute if I keep on running around.
 [sha:3278b31e73d54eeb7efff39feb545f1a370125ed]{
 -- Page 10, Offset 40273.
 -- ……そんな事、俺だって分かっている。
-Even I had worked out that much...
+I didn't exactly need him to tell me %{i}that%{/i}...
 }
 [sha:c23f790ba5af01781070c0a914af15200242e01a]{
 -- Page 10, Offset 40274.
@@ -213,14 +221,14 @@ A way to perceive death.
 -- Page 12, Offset 40280.
 -- 生の結論において、我々には共有できる余地がない。
 %{i}
-We have no common ground on which to comprehend the end of life.
+We have no common ground on which to comprehend the conclusion of life.
 %{/i}
 }
 [sha:895077cdb22d86140953b79256e29f3dfde66da1]{
 -- Page 12, Offset 40281.
 -- ―――いや。私は、相互理解を良しとしない』
 %{i}
-No――I do not approve of such mutual understanding anyway."
+No――I never allow for mutual understanding at all."
 %{/i}
 }
 [sha:c8677d7f6447dfa6fddbbb3706d6fec776309554]{
@@ -236,8 +244,8 @@ His chatter helps to revive my fading consciousness.
 [sha:14a3727043d93e3452c9c05512cab4425709d546]{
 -- Page 14, Offset 40284.
 -- ―――今は前に進む。この両眼で世界を視る。
-―――For the time being, I'll keep on moving.
- I'll look at the world through these eyes.
+For now, I'll just keep on moving,
+ with my eyes peeled to the world around me.
 }
 [sha:eb5ea6e4236848cdd3ea51c9f6bdc6f344160d99]{
 -- Page 14, Offset 40285.
@@ -269,14 +277,15 @@ Your immune system can't keep up with the deterioration of your bodily functions
 -- Page 15, Offset 40289. Mods: @k, @e.
 -- ここで休息と栄養の補給をしなければ、
 %{i}
-If you do not stop to rest and replenish yourself―――
+If you do not stop to rest and replenish yourself,
 %{/i}
 }
 [sha:29b829bab927b6172d466f879bd6d96069369bde]{
 -- Page 15, Offset 40290.
 -- 酸素があろうとなかろうと心臓は停止する』
+%{force_glue}
 %{i}
-Your heart will stop regardless of whether or not there is oxygen."
+ your heart will stop regardless of whether or not there is oxygen."
 %{/i}
 }
 [sha:11b65aa3fb1331fc7e9fb816ab13dc453518aa43]{
