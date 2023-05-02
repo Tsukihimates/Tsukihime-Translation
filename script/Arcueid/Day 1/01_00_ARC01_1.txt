@@ -6,17 +6,18 @@ The above ground rail line switches to an underground line without warning.
 [sha:e724caca013abed8905bd9b837e6a919a7442ef5]{
 -- Page 1, Offset 1147.
 -- 電車は人工の光をまき散らしながら、一面の闇を<潜|もぐ>るように進んでいく。
-The train, spewing artificial light, dives into the darkness.
+The train dives into the darkness, spewing artificial light.
 }
 [sha:2e14f7e236737accbed3545cd30346e378fe49e3]{
 -- Page 2, Offset 1148.
 -- きしむ車両の音。
-The sound of creaking vehicles.
+// This is specifically rolling stock, not generic vehicles
+I listen to the creaking of the train car.
 }
 [sha:3d7a6c3023d0d54cde912cea13843ac6ffc9867f]{
 -- Page 2, Offset 1149.
 -- 等間隔に過ぎ去っていく人工灯。
-Artificial lights passing by at regular intervals.
+Artificial lights pass by at regular intervals.
 }
 [sha:ac25cea291e483cecb6ef9bdb647514059a5c7b3]{
 -- Page 2, Offset 1150.
@@ -72,7 +73,7 @@ I'm the only one on the eight-person bench, and the row facing me is entirely em
 [sha:b10b9bca4ca46dc60590915b46929e809487ca4d]{
 -- Page 6, Offset 1160.
 -- 乗客は数えるほどで、となりの列のシートで居眠りをしている背広姿の男性と、ドアの前に立っている少女だけ。
-The only passengers are a man in a suit dozing off in the next row over, and a girl standing in front of the door.
+The only other passengers are a man in a suit dozing off in the next row over, and a girl standing in front of the door.
 }
 [sha:35d5403f5a918672cb3f98c059b5b2d02f0df3e9]{
 -- Page 6, Offset 1161.
@@ -82,12 +83,13 @@ Because it's such an early morning train, it's very lonely inside the train car.
 [sha:af29ccd4a38ac76394269140fc2e8d06c52a213a]{
 -- Page 7, Offset 1162.
 -- 物思いに<耽|ふけ>っていたせいか、車両外からの駆動音は不思議と耳に残っていない。
-Perhaps because I'm so absorbed in my thoughts, I strangely don't even register the clatter of the train.
+For some reason, I'm not really aware of the clatter of the train.
+ It must be because I'm so absorbed in my thoughts.
 }
 [sha:c30a7b6c2f69db8b244b2e3c498c0289b2ae832f]{
 -- Page 8, Offset 1163.
 -- 漠然と、暗い宇宙を行く宇宙船を連想した。
-I vaguely imagine a spaceship flying through the dark void of space.
+Daydreaming, I picture a spaceship flying through the dark void of space.
 }
 [sha:dd26091f85f644ad63ad1d18825bb8863d60a51b]{
 -- Page 8, Offset 1164.
@@ -153,7 +155,10 @@ It was my way of showing my respect to the Arimas.
 [sha:003994811d67f296d8f505821a9c8d66af59f7dd]{
 -- Page 12, Offset 1175.
 -- 日が昇る前に朝食を済ませ、食卓を後にして、自分用にあてがわれていた部屋に手を合わせた。
-Before the sun had risen, I finished my breakfast, left the table, and pressed my palms together in the room that used to be mine.
+Before the sun had risen,
+ I had finished my breakfast,
+ left the table,
+ and paid my respects to the room that used to be mine.
 }
 [sha:93a3ea8f7984c491207fd971d00768f35892dac9]{
 -- Page 13, Offset 1176.
@@ -228,12 +233,14 @@ I may not look like it, but my body is rather sturdy, you know.'
 [sha:adceca6bdb927c136a05446bb66da3da07736f0e]{
 -- Page 17, Offset 1189.
 -- 遠野の人たちは特別な人ばかりだけど、物怖じしないのがあなたですものね。子供のころからずっと、こっちがびっくりするぐらい動じない子だったわ”
-The Tohnos are full of special people, but your fearlessness is something uniquely yours. Your ability to take things in stride, even as a child, has always amazed me.'
+The Tohno family is full of special people, but your fearlessness is something uniquely yours.
+ Your ability to take things in stride, even as a child, has always amazed me.'
 }
 [sha:c733471d7c01522bca8816da35c833526c8d84eb]{
 -- Page 18, Offset 1190.
 -- 苦笑まじりの言葉に、こちらも同じように笑ってしまう。
-At her words, mingled with a bitter smile, I smiled back.
+She wore a pained smile as she spoke.
+ I smiled back in much the same way.
 }
 [sha:b6373ed40a06e429f046d6942454c0567ee4924a]{
 -- Page 18, Offset 1191.
@@ -253,7 +260,7 @@ I'm off then... Take care of yourself, Mom.'
 [sha:a277c6c142dc3998bd894fd41f675ce75c3eb9f5]{
 -- Page 19, Offset 1194.
 -- “ええ。あなたも元気でね、志貴”
-'Yes, I will. Take care as well, Shiki.'
+'Yes, I will. You take care too, okay, Shiki.'
 }
 [sha:08bb258065cad0ce33ed2594bf11ec4d6e83c8b1]{
 -- Page 19, Offset 1195.
@@ -323,7 +330,7 @@ Outside, the air is getting colder.
 [sha:bbfbe22578bac6e540429d97af04da0ff0dd8160]{
 -- Page 23, Offset 1208.
 -- 夏の面影が消え去った十月の、秋の朝そのものだ。
-It is an autumn morning in October, a time when all traces of summer have disappeared.
+It's an autumn morning in October, a time when all traces of summer have disappeared.
 }
 [sha:7d507700f7e1913f89effabe19145ff6251c4918]{
 -- Page 24, Offset 1209.
@@ -364,7 +371,7 @@ Then finally, began the autumn of my second year of high school.
 [sha:46a8dc4d84ed6af12630d7a56f8e75e9bfc49374]{
 -- Page 26, Offset 1216.
 -- あの時―――別れ際に先生が言っていたような特別な出来事はまったく起こらなかったし、自分も先生のくれた眼鏡をつけているかぎり『線』を見る事はない。
-The kind of special incident that Sensei told me about never occurred,
+The kind of special incident that Sensei warned me about never occurred,
  and as long as I wear the glasses she gave me,
  I don't see those lines at all.
 }
@@ -388,7 +395,7 @@ I'm returning to my original home,
 [sha:9ce607adb2d8bef5ee17a60d4d68602b095e9614]{
 -- Page 27, Offset 1220.
 -- 本家……遠野家のあり方は、一般家庭になれきった自分には面倒くさ……重すぎるきらいがある。
-I've gotten so used to an ordinary house that living at a place like the Tohno mansion is going to be a big hassle for me...
+I've gotten so used to an ordinary house that living in a place like the Tohno mansion is going to be a big hassle for me...
  I'm not looking forward to it at all.
 }
 [sha:4c292729d52fba07d40633f2d4ad6c6ba7307740]{
@@ -420,7 +427,7 @@ The train arrives at a large station and stops for several minutes.
 [sha:69aa033fa3694f505b764528989418a2a4978456]{
 -- Page 29, Offset 1226.
 -- 各駅停車なので、となりの快速電車が通過するまでの待ち時間だ。
-Since this train stops at every station, I'll have to wait for the next rapid train to pass by.
+Since this train stops at every station, I'll have to wait for the next express train to pass by.
 }
 [sha:6f4caeb76e4dc97c6989bb1154a8a2ea75b55b44]{
 -- Page 30, Offset 1227.
@@ -430,12 +437,12 @@ There's no one on the platform.
 [sha:a7fe4eeb4331fe587cca017e82c97efa28c13a35]{
 -- Page 30, Offset 1228.
 -- この時間なら背広姿のサラリーマンたちが何人かいそうなものだが、今朝は特に静かだ。
-At this time of day, I would expect to see a few businessmen in suits around, but this morning is particularly quiet.
+At this time of day, I'd expect to see a few businessmen in suits around, but this morning is particularly quiet.
 }
 [sha:0ddc4dbf1403a3aa94843e4592d24686276d1a3e]{
 -- Page 31, Offset 1229.
 -- となりのレールを快速電車が通過していく。
-The rapid train passes by on the track over.
+The express train passes by on the next track over.
 }
 [sha:d328b866a48c15d635f3358c575382ab0a4e254a]{
 -- Page 31, Offset 1230.
@@ -450,7 +457,7 @@ I hear a familiar announcement.
 [sha:cb7a006726bd42d9e58714376385d72f61427aaa]{
 -- Page 31, Offset 1232.
 -- 空圧で閉まる自動ドア。
-The automatic door closes using pneumatic pressure.
+The automatic doors begin to hiss closed.
 }
 [sha:e706674c916b39926293db1d8a1b4ebd1c5a4381]{
 -- Page 31, Offset 1233.
@@ -521,7 +528,7 @@ Not only that, but she comes sauntering up to me.
 [sha:d63f1fec044619938512a0f629d91a9f597d893a]{
 -- Page 36, Offset 1246.
 -- 笑顔につられて思わず謝ってしまった。
-The smile on her face made me apologize by reflex.
+The smile on her face made me apologize reflexively.
 }
 [sha:6d9f6b5732a76b39b920c42eab363c62b7687ed8]{
 -- Page 37, Offset 1247. Mods: @k, @e.
@@ -571,12 +578,12 @@ Of course she looks familiar. I've met her several times at school.
 [sha:04811f4944dd256035eb9e8a15216341ce882f4f]{
 -- Page 40, Offset 1256.
 -- というか、うちの生徒でシエル先輩を知らないヤツはいないだろう。
-Actually, there's probably no one in our school who doesn't know Ciel-senpai.
+Actually, there probably isn't anyone at our school who %{i}doesn't%{/i} know Ciel-senpai.
 }
 [sha:af66e0a0af0fe2e58ce1626b970ba11df6758046]{
 -- Page 41, Offset 1257.
 -- 誰が呼んだか<耶高|やこう>の万能先輩。
-At some point, she started being called %{i}The Almighty Senpai of Souya High%{/i}.
+At some point, people started calling her %{i}The Almighty Senpai of Souya High%{/i}.
 }
 [sha:b5d0ebe7b855280b154f9f57073f7d9c6c7256f6]{
 -- Page 41, Offset 1258.
@@ -596,7 +603,8 @@ If there are third-years causing trouble for other students, she will stop them 
 [sha:6993f3fd6fb924601b05314974e6ce2c56018866]{
 -- Page 42, Offset 1261.
 -- 教師たちや生徒会より頼りになることから、真の生徒会長とまで呼ぶ生徒もいる。
-Some students even call her the true student council president, since she's more dependable than the teachers and the school council themselves.
+She's more dependable than both the teachers and the student council.
+ So much so, in fact, that some students even call her the %{i}true%{/i} student council president.
 }
 [sha:509a1ebbb4df3fe5ee8f0ea1fc3d3e51f43c9801]{
 -- Page 42, Offset 1262.
@@ -606,7 +614,8 @@ It goes without saying that when I ran into trouble last week, she helped me out
 [sha:90ced9959fac43f3b76175caf446da614548d1e1]{
 -- Page 43, Offset 1263.
 -- ……まったく、ぼけているにもほどがある。
-Though... it's actually a bit of a blur.
+// Those who know
+Man... I can't believe I actually forgot all that.
 }
 [sha:e7fa65f44f3e39f2d2dd39aa08472e9758cdb593]{
 -- Page 43, Offset 1264.

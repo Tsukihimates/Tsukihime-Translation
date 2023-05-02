@@ -97,7 +97,7 @@ Her skin is as pale as fine porcelain,
 [sha:5e6bd1b838209bdc0f497a2478b9e8f098a3cead]{
 -- Page 57, Offset 33277.
 -- 気が立ってしまう時は誰にだってあると存じていますが、これはちょっとやりすぎだと思いますよ？」
-I know everyone lets their temper get the better of them sometimes,
+I think we've all let our temper get the better of us at times, but...
  but don't you think you've gone a little overboard?"
 }
 [sha:3ff8eb99179d8a7777322f070e1ba01345b3397e]{
@@ -180,6 +180,7 @@ She approaches me gently, a tender smile on her face,
 -- Page 62, Offset 33292.
 -- ―――――――――――――――――早く。
 // Assuming these are 'hurry up and get over here' Roa 早くs?
+// lint-off:LintEmDashes
 ―――――――――――――――――Hurry up.
 }
 [sha:a234ee983d76c023ad14cfc724b4e1e4cc6a9e92]{
@@ -190,6 +191,7 @@ I can't
 [sha:f873c171d0f53fddaf85fad774005e877368714d]{
 -- Page 62, Offset 33294.
 -- ――――――――――――――早く。
+// lint-off:LintEmDashes
 ――――――――――――――Hurry up.
 }
 [sha:8c6005b0b15d6413753ee5e29cb510055fe6532d]{
@@ -200,6 +202,7 @@ I can't
 [sha:445ceaddd8142513a3abd61bfeb8ec85797dad5e]{
 -- Page 62, Offset 33296.
 -- ―――――――――――早く。
+// lint-off:LintEmDashes
 ―――――――――――Hurry up.
 }
 [sha:373cdbf91a0e82c857969e68168c5a6cf5655ae0]{
@@ -210,6 +213,7 @@ I can't
 [sha:59094d6a946a2ca5a6b0777947436b4dc33837f7]{
 -- Page 62, Offset 33298.
 -- ――――――――早く。
+// lint-off:LintEmDashes
 ――――――――Hurry up.
 }
 [sha:cf775a64e5f394acacabe3b81504807bcb4618f1]{
@@ -220,6 +224,7 @@ I can't
 [sha:b38fc8bb397f441935fa1996b48727deeed91619]{
 -- Page 62, Offset 33300.
 -- ――――――早く。
+// lint-off:LintEmDashes
 ――――――Hurry up.
 }
 [sha:9280f086bef20702159239e31486b1ae26fd946a]{
@@ -256,7 +261,7 @@ If it's not too much trouble, would you mind saying that again?"
 [sha:9cf3dd8af73c679de8c7c62cd20ed64451fed1d5]{
 -- Page 64, Offset 33307.
 -- なのに、逆効果だ。
-My words had the opposite effect.
+But my words had the opposite effect.
 }
 [sha:ff7ca42e9eb06e0e9544ccb9b390f7d57266f868]{
 -- Page 64, Offset 33308.
