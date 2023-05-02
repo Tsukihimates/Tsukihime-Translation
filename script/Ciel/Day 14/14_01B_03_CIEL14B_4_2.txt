@@ -1,7 +1,7 @@
 [sha:ae6c6e656de997742ec5776f3587081adbda4a5e]{
 -- Page 10013, Offset 41232.
 -- ここにいても消耗するだけだ。
-Sticking around among these roots would only serve to wear me down.
+Sticking around among these roots will only serve to wear me down.
 }
 [sha:c82175bbba04b9e9faec96395fe3dece27e39c55]{
 -- Page 10013, Offset 41233.
@@ -55,7 +55,7 @@ There's magical energy contained within my blood.
 -- Page 342, Offset 41242.
 -- 慎重に、血液消費を最小限に抑えながら根を上る。
 I carefully pick my way over the roots,
- doing my best to conserve blood.
+ doing my best to conserve the blood I have.
 }
 [sha:18cf3239246f7afbb57609ec835d0e43ea3cdb99]{
 -- Page 342, Offset 41243.
@@ -76,19 +76,26 @@ H-Huh? My body just suddenly―――?!
 [sha:ea2521ad235e182d67c1d058e60dec1cc4a6c3dc]{
 -- Page 344, Offset 41246.
 -- 『“あきれた。自分から姿を見せるなんて。
+%{i}
 "I'm speechless.
  I never imagined you'd just reveal yourself to me.
+%{i}
 }
 [sha:42629af222224ab888225ddbd3fbab60f1c55885]{
 -- Page 344, Offset 41247. Mods: @n.
 -- 人間って、
 // What is it with this day and godawful linebreaks
-Honestly...
+%{i}
+And here I thought
+%{/i}
 }
 [sha:77fe3d4a1cf6503959da9e09a3c6c32a50a480e6]{
 -- Page 344, Offset 41248.
 -- もう少し頭のいい生き物だと思っていたけど”』
-I thought humans were at least %{i}slightly%{/i} smarter than that."
+%{force_glue}
+%{i}
+ humans were at least %{/i}slightly%{i} smarter than that."
+%{/i}
 }
 [sha:45849c58004b4760c4b083b33419e5c210bf87f0]{
 -- Page 345, Offset 41249.
@@ -109,12 +116,12 @@ It's―――
 -- Page 345, Offset 41252.
 -- アルクェイドの遠隔干渉、念動による物質操作だ。
 // 遠隔干渉 a term or anything?
-Arcueid's Remote Interference: the manipulation of matter through telekinesis.
+Arcueid's remote interference: the manipulation of matter through telekinesis.
 }
 [sha:0633cab1cfa95330d00f8f1b4fee387d6f6c992e]{
 -- Page 346, Offset 41253.
 -- ―――俺はバカだ。
-―――I was an idiot.
+I'm a complete idiot.
 }
 [sha:93d1f587b5af27458a2f841d6e9fc94e1f7761ec]{
 -- Page 346, Offset 41254.
@@ -124,7 +131,7 @@ She doesn't have blind spots anymore.
 [sha:902e76223415908104983e4d944f1cf4faf8b0c8]{
 -- Page 346, Offset 41255.
 -- 光体に近づけたのは、アイツが俺を意図的に無視していたからだ。
-The only reason I got close to the Luminary before is because she'd intentionally ignored me.
+The only reason I managed to get close to the Luminary before is because she'd intentionally ignored me.
 }
 [sha:448d1d8a46870fcca4ca6bee488786b0fc70bea0]{
 -- Page 347, Offset 41256.
@@ -135,7 +142,7 @@ She's not going to keep looking the other way after the altercation we just had.
 -- Page 347, Offset 41257.
 -- 根の下で隠れていないかぎり、俺は何をしても魔眼に捕らえられる。
 If I don't stay hidden amongst the roots,
- I'll be powerless to avoid being captured by her Mystic Eyes.
+ I'll be powerless to avoid being ensnared by her Mystic Eyes.
 }
 [sha:db02a04b1ac4d0f30eca428479abf87378a6098a]{
 -- Page 348, Offset 41258.
@@ -150,7 +157,7 @@ This whole area is her territory.
 [sha:b297073ab68df1ace5aba1c192eff77558e57693]{
 -- Page 348, Offset 41260.
 -- こんな足元から姿を出せば、それこそ殺してくださいと言っているようなものだったのに……！
-Setting foot in her domain is practically %{i}asking%{/i} to get killed!
+Revealing where I am is practically %{i}asking%{/i} to get killed!
 }
 [sha:44f6054d15f1113ab783acacf465201589a7727a]{
 -- Page 349, Offset 41261.
@@ -172,12 +179,12 @@ My body keeps on rising through the air,
 [sha:bdc2ec85ffe3c3f0feb280c736e1161e4debcb6b]{
 -- Page 350, Offset 41264.
 -- 目的だったビルの屋上より高く。
-I'm even higher than the rooftops I'd been aiming for now.
+At this point, I'm even higher than the rooftops I'd been aiming for.
 }
 [sha:ed50572a642af7b3bb11df6f5dfca7fe67e2a8b2]{
 -- Page 350, Offset 41265.
 -- もう、俺ひとりでは逃げようのない都市上空まで、為す<術|すべ>無く運ばれていく。
-I'm well on my way to the sky above the city;
+I'm helplessly being carried up into the sky above the city,
  a place I can't even hope to escape from on my own.
 }
 [offset:41266]{
@@ -188,15 +195,15 @@ I'm well on my way to the sky above the city;
 [sha:6975e4727f7b6055d5b3c6cd11a028eccd284a9a]{
 -- Page 351, Offset 41267.
 -- 巨大な“ヒトの輪郭”を前にして、認識がエラーを起こす。
-Held before this massive silhouette of a person,
- my brain starts to malfunction.
+Held before this massive person-shaped silhouette,
+ my brains ability to make sense of the world starts to break down.
 }
 [sha:675b7765a02c31dde8249fa10b024c21c7155d05]{
 -- Page 351, Offset 41268.
 -- あり得ない存在なのはこの巨人だというのに、なまじヒト型であるから、どちらがおかしいのか分からなくなる。
-Even though this giant is something that couldn't possibly exist,
- because it resembles a human,
- I'm not sure which one of us is out of place anymore.
+The giant should be what's impossible here,
+ but because it's roughly the same shape as a person,
+ it's becoming hard to tell which one of us is really out of place.
 }
 [sha:3648cddcaad5aeff557e604caf844681968c05ef]{
 -- Page 352, Offset 41269.
@@ -231,7 +238,9 @@ There's only one thing I'm certain of―――
 [sha:7e6b0dc3a84048474582dfaa48ac3f56d15725ab]{
 -- Page 354, Offset 41275.
 -- 『“そう。もう絶対に、逃げられないという事よ”』
-"That's right. I'm not going to let you run away again."
+%{i}
+"Yeah. I'm not going to let you run away again."
+%{/i}
 }
 [sha:6fca3c18677c2191c5d388610eeceaaf74840370]{
 -- Page 354, Offset 41276.
@@ -241,59 +250,77 @@ Any attempts to resist or fight back will not be tolerated.
 [sha:4b18cf01510a3472aa5207e131cbc9453e3f681f]{
 -- Page 355, Offset 41277.
 -- 空中に縫い付けられた生け贄に、大気の爪が緩慢に振るわれる。
-The atmospheric claws sluggishly careen toward the sacrifice pinned in place in the sky.
+The claws of air sluggishly careen toward the sacrifice pinned in place in the sky.
 }
 [sha:5a414f5d32653a762d8b9e6a6f59ac5582fedc49]{
 -- Page 356, Offset 41278.
 -- 『“そういえば、さっきのお返しがまだだった。
+%{i}
 "That reminds me, I still haven't returned the favor from before.
+%{/i}
 }
 [sha:d9d0cc11403089fe8a2bcc8372261c50808813c3]{
 -- Page 356, Offset 41279.
 -- 遠慮しないで。わたしと志貴の仲だもの”』
+%{i}
 Don't be shy. We're friends, after all."
+%{/i}
 }
 [sha:5a1d0ccc4cfba475820cd108554380c9bcc81665]{
 -- Page 357, Offset 41280. Mods: @n.
 -- 『“ぜんぜん効かなかったけど、
 // what
-"It wasn't all that effective―――
+%{i}
+"It didn't really accomplish anything,
+%{/i}
 }
 [sha:bdb899c69ac1b894f4109c5bafe83aad3ffa46c0]{
 -- Page 357, Offset 41281.
 -- ナイフをつきたてられたのは事実だし”』
 // is with
-But the fact remains that you stabbed me with your knife."
+%{force_glue}
+%{i}
+ but the fact remains that you stabbed me with your knife."
+%{i}
 }
 [sha:4ad6fed35f534d2a6637c15aaefe1cc07805369c]{
 -- Page 358, Offset 41282. Mods: @n.
 -- 『“ランドマークだの、でかぶつだの、
 // splitting
-"You called me rude names, too―――
+%{i}
+"You called me rude names, too,
+%{i}
 }
 [sha:5460b7384fd4710b30ad93c174d9f453fb9169ca]{
 -- Page 358, Offset 41283.
 -- 失礼な表現をされた事だし”』
 // all
-Like 'landmark' and 'giant'."
+%{force_glue}
+%{i}
+ like 'landmark' and 'Goliath'."
+%{i}
 }
 [sha:94e5a258ceca25ec75532001ce7947d2b0c6487c]{
 -- Page 359, Offset 41284. Mods: @n.
 -- 『“これくらいは、そのちっぽけな体で
 // the sentences
-"I think it's only fair―――
+%{i}
+"I think it's only fair that you make up for it
+%{i}
 }
 [sha:cb7820e705dc1dc5a267a65e5be4eed310c6c2fa]{
 -- Page 359, Offset 41285.
 -- あがなってもらわないとね？”』
 // like this
-That you make up for it with that tiny body of yours."
+%{force_glue}
+%{i}
+ with that tiny body of yours."
+%{i}
 }
 [sha:246b38ffe1df074fff5edde6cf9bdff82b995553]{
 -- Page 360, Offset 41286.
 -- 猫が鼠をなぶるように、一度、二度、三度、数度。
-Once, twice, thrice... She doesn't stop.
- She's like a cat toying with a mouse.
+Once, twice, thrice――over and over again, like a cat toying with a mouse.
 }
 [sha:a432d4560a7c784ad224e254e5c758f44885b42d]{
 -- Page 360, Offset 41287.
@@ -303,7 +330,7 @@ My limbs, which are only slightly sturdier than a human's, are wrenched off with
 [sha:ea90a0c2e080f25cb686c33e18f3803d50f6ed8c]{
 -- Page 361, Offset 41288.
 -- 「ぁ―――く、あ、ぐあ…………！！！」
-"%{i}Ah%{/i}――%{i}kh%{/i}, %{i}ah%{/i}, %{i}graaaah%{/i}!!!"
+"%{i}Gargh%{/i}! %{i}Khh%{/i}——%{i}grkh%{/i}... %{i}graahh%{/i}!"
 }
 [sha:17bd336e58c9dcee9ea4930d8d41c36a429f4046]{
 -- Page 361, Offset 41289.
@@ -319,63 +346,79 @@ If I can still feel pain, it means my nerves are still connected.
 -- Page 362, Offset 41291.
 -- 何も出来ない張り付けの状態であっても、身を守る動作くらいは行える。
 Even though I'm pinned in place and unable to resist,
- I can at least try to protect myself.
+ I should at least be able to command my body to protect myself.
 }
 [sha:6fcd00882033d092eb613e9b58cc841205759622]{
 -- Page 363, Offset 41292.
 -- 俺は無駄と知りながら、大気の爪に襲われる度、全身に力をこめて、ゴミクズにされないよう耐えるしかなく、
 Even though I know it's futile,
- every time I'm attacked I have no choice but to pour all my strength into my body to avoid being reduced to a pile of trash.
+ every time I'm attacked by her claws of air,
+ I have no choice but to pour all my strength into my body to avoid being reduced to a pile of trash.
 }
 [sha:d247e0b3e9023aaca91e149075fb30dea0146e8d]{
 -- Page 364, Offset 41293.
 -- 『“ふふ……ふふふ……あはははは！
-"%{i}Haha%{/i}... %{i}hahaha%{/i}... %{i}ahahahaha%{/i}!
+%{i}
+"Heh.... hehehe... ahahahaha!
+%{/i}
 }
 [sha:62d8711886716d17734c7bc55c2c6048e53e20fc]{
 -- Page 364, Offset 41294.
 -- なんだろう、なんだろうこの気持ち！
-This feeling... What %{i}is%{/i} this feeling!
+%{i}
+This feeling... What %{/i}is%{i} this feeling!
+%{/i}
 }
 [sha:243cf88f4d7b79cf92f3d6786326393dd1edaca7]{
 -- Page 364, Offset 41295.
 -- クセになっちゃいそう、わたし！”』
-%{i}Ohh%{/i}, I could really get addicted to this!"
+%{i}
+Ohh, I could really get addicted to this!"
+%{/i}
 }
 [sha:5b2679e817c6305c171e263c69bf1bb37f7f091f]{
 -- Page 365, Offset 41296.
 -- 『“ほらほら、がんばるがんばる！
+%{i}
 "Come on now, hang in there!
+%{/i}
 }
 [sha:055197a8e48637e039885da5b566789c32c574c0]{
 -- Page 365, Offset 41297.
 -- さっきからシエルが暴れてるわ！
+%{i}
 Ciel's starting to perk up again too!
+%{/i}
 }
 [sha:bcd3e96292a4f239b7c82526c39eeb6b30fe071d]{
 -- Page 365, Offset 41298.
 -- すっごい、ちょっと指動かされちゃった！
+%{i}
 Wow, she just moved my finger a little!
+%{/i}
 }
 [sha:849e0b853e23c23d2828db5214fc81014916fb51]{
 -- Page 365, Offset 41299.
 -- やっぱり最高の玩具ね、アナタたち！”』
+%{i}
 You two really are the greatest toys in the world!"
+%{/i}
 }
 [sha:eedeacf01d8ac6c77ad6c68798c03bd264901419]{
 -- Page 366, Offset 41300.
 -- 「ぁ……、っ……ぁ…………――――――」
-"%{i}Ah%{/i}... %{i}gh%{/i}... %{i}ah%{/i}... %{i}ahhhhh%{/i}..."
+"%{i}Agh%{/i}... %{i}grgh%{/i}... %{i}ugh%{/i}... %{i}aghh%{/i}..."
 }
 [sha:842f2f32154482d1a7bf978630b5baf449e2b15e]{
 -- Page 366, Offset 41301.
 -- 抵抗する努力も、根気も、程なくして、消え去った。
-Before long, nothing remains of my endurance, or my will to fight.
+// 抵抗する努力も、根気 overlap too much in EN
+Before long, nothing remains of my will to fight.
 }
 [sha:f4bfd12bc8236d2339b8dfafc44ee2a3ab3a0770]{
 -- Page 367, Offset 41302.
 -- ……今までの相手とはスケールが違う。
-She's on a completely different level to the opponents I've faced thus far...
+She's on a completely different scale to the opponents I've faced thus far.
 }
 [sha:0247a4f863d725819f56ba0c595ad3faf5f0cec6]{
 -- Page 367, Offset 41303.
@@ -390,23 +433,31 @@ I now know just how spirit-breaking it is to be tormented by something you have 
 [sha:8729e9979da061075d0d026f9b0ccf278354d4ca]{
 -- Page 368, Offset 41305. Mods: @n.
 -- 『“さっきまではちゃんと
+%{i}
 "What happened?
+%{/i}
 }
 [sha:0c3648ee6df8bf61ba32c641d9f0eec529587a44]{
 -- Page 368, Offset 41306.
 -- 避けていたのに、どうしたの？
+%{i}
 You'd been doing such a good job of avoiding me.
+%{/i}
 }
 [sha:4f1c1476860dc87661afb984f731cefe627941c2]{
 -- Page 368, Offset 41307.
 -- ピンで打たれた標本になっちゃった？
 // I thought Noel was into the butterfly imagery
-Did you turn into a pinned specimen?
+%{i}
+Did you feel like being a pinned specimen for a bit?
+%{/i}
 }
 [sha:5928da4791781d33b327775a9a1a085b64cda7bf]{
 -- Page 368, Offset 41308.
 -- あ。そっか、わたしが捕まえてるんだっけ！”』
+%{i}
 Oh, silly me. I forgot that I was holding on to you!"
+%{/i}
 }
 [sha:badcbdf455298c6f150cc0bcbe2107824bc71c38]{
 -- Page 369, Offset 41309.
@@ -431,7 +482,7 @@ A body without limbs can't prepare itself to take a fall.
 [sha:e8cf4e38b969881b1c6c4b38f1957db3f8428ef3]{
 -- Page 370, Offset 41313.
 -- 苦痛の叫びをあげようにも中の機能が痺れている。
-I try to scream in pain, but the inner workings of my body are frozen in place.
+I try to scream in pain, but the inner workings of my body are paralyzed.
 }
 [sha:d38e30f039707c1f26bd3772572448191e8f92df]{
 -- Page 370, Offset 41314.
@@ -441,7 +492,7 @@ Still, I'm better off than I was before.
 [sha:9793c87636880294bda4595f7d788e2fd0f922ab]{
 -- Page 370, Offset 41315.
 -- 地上80メートルの高さから、今は50メートル。
-A second ago I was eighty meters above the ground; now it's only fifty.
+A second ago, I was eighty meters above the ground; now it's only fifty.
 }
 [sha:3fefacdbc9a56896686d459cbbf84650d0eb8aec]{
 -- Page 370, Offset 41316.
@@ -451,12 +502,12 @@ Even so, it doesn't change how hopeless my situation is.
 [sha:ad415cc4d0d2d3193ae943096375b1c9c4eb4c97]{
 -- Page 371, Offset 41317.
 -- 「ぁ……はあ、あ―――」
-"%{i}Ah%{/i}... %{i}haah%{/i}, %{i}ahgh%{/i}―――"
+"%{i}Ahh%{/i}... %{i}hrgh%{/i}, %{i}ahgh%{/i}―――"
 }
 [sha:1d0505b4d3f9a90f63ea3fe937671f6bee33a1ef]{
 -- Page 371, Offset 41318.
 -- 逃げよう。逃げないと。
-Escape... I have to escape.
+Escape――I have to escape.
 }
 [sha:4fd2ec6fe469fe4c1f11b9f278a0b3b3d4a8bc43]{
 -- Page 371, Offset 41319.
@@ -471,7 +522,7 @@ I crawl across the giant's palm on my belly.
 [sha:e3b5dacbd2536f3bd7f591dc3c56b95d3f321006]{
 -- Page 372, Offset 41321.
 -- ……心なしか。
-It's strange...
+It's strange―――
 }
 [sha:2ede849f2e866c7560c25edd5eb27927c9b59199]{
 -- Page 372, Offset 41322.
@@ -481,18 +532,24 @@ The white surface stretching out in front of me feels like it's far larger than 
 [sha:f2700158ab1901449dcc9d32dae5b25c0245d73b]{
 -- Page 373, Offset 41323.
 -- 『“ごめんなさい、つい落としちゃった。
+%{i}
 "Sorry, didn't mean to drop you there.
+%{/i}
 }
 [sha:d68338fbb61708187d62dc79eb25fb1fe048787e]{
 -- Page 373, Offset 41324.
 -- この体、まだ慣れてなくて。
+%{i}
 I'm still not used to this body yet.
+%{/i}
 }
 [sha:01d1824cf1184370f7c91d6eac611c43ad568a7d]{
 -- Page 373, Offset 41325.
 -- ま、時間はあるし。ゆっくり調整すればいいか”』
+%{i}
 Oh well, I have plenty of time.
  I guess I can afford to take it slow."
+%{/i}
 }
 [sha:2ded9a090c7f99f7cde96377b7a3eae21f58b7bb]{
 -- Page 374, Offset 41326.
@@ -507,7 +564,7 @@ It's closing in on me.
 [sha:59dfe5b2a99e77679ce41e00ede3ee8815baf260]{
 -- Page 374, Offset 41328.
 -- 地面があるというのに、世界は荒れ狂う海のようだった。
-Even though it's solid, the world feels like a raging sea.
+Even though it's solid, the world feels like a raging ocean.
 }
 [sha:e231f6e561d877842585c65129c4b077bf37c18f]{
 -- Page 374, Offset 41329.
@@ -518,7 +575,7 @@ I can't advance any further.
 [sha:6281e42ee91c5463a8f2019dc605102e8d4a9d64]{
 -- Page 375, Offset 41330.
 -- 眩しい。目を開けているのに何も見えない。
-It's so dazzling. Even though my eyes are open, I can't see a thing.
+Even with my eyes open, it's so bright that I can't see a thing.
 }
 [sha:f64b944b1e521b1434cbc05f2693c6186bdffc43]{
 -- Page 375, Offset 41331.
@@ -533,7 +590,7 @@ I can feel her body heat on every single inch of my skin.
 [sha:4ab03232ad07be81d355571715416ff7e7f62886]{
 -- Page 376, Offset 41333.
 -- 脳を直接焼くように熱いアイツの吐息を感じる。
-I can feel her blistering breath as though it's frying my brain directly.
+I can feel her blistering breath directly sear my brain.
 }
 [sha:e76d721440a627c8911f7f7277ca55eda9caaeb0]{
 -- Page 376, Offset 41334.
@@ -549,7 +606,7 @@ Even as my body grows numb, my senses get sharper and sharper.
 -- Page 377, Offset 41336.
 -- ……だめだ。こんなの、圧倒的すぎる。
 I can't take it...
- It's too overpowering.
+ It's too much.
 }
 [sha:71ce8f57ad986a041a6d46244dbb5e2fb24547c8]{
 -- Page 377, Offset 41337.
@@ -594,7 +651,7 @@ It's hot...
 [sha:b929203d17377ecdab552152c69217c83d62fca5]{
 -- Page 379, Offset 41345.
 -- 自分の体温だけでなく、自分の呼吸だけでなく、
-It isn't just my body temperature,
+It isn't just my body temperature;
  it isn't just my breath―――
 }
 [sha:9675cf635f380feb8965ba92c783be4daaf92e5d]{
@@ -602,11 +659,10 @@ It isn't just my body temperature,
 -- 他のものと合わさり、同期していくような高温。
 It's the heat of being united and synchronized with another being.
 }
-[sha:4f36cb44d717ebc3ff1389ce0bc9b7b348d64c6b]{
+[offset:41347]{
 -- Page 380, Offset 41347.
 -- 「―――、―――、――――――」
-// lint-off:LintEmDashes
-"―――,―――,――――――"
+"%{i}Nn%{/i}... %{i}ugh%{/i}... %{i}urgh%{/i}..."
 }
 [sha:3e3a75ba8f40243eda5e9192824b48a0c0d5a99e]{
 -- Page 380, Offset 41348.
@@ -621,12 +677,12 @@ The harder I try to escape, the harder it becomes to breathe.
 [sha:3af3e3f1c6f671a8da5aed7faccee31be329b452]{
 -- Page 380, Offset 41350.
 -- もう俺は死に体だった。
-I'm already as good as dead.
+My body's practically a corpse already.
 }
 [sha:5f4bcaa17724bc30622ffa34cda383a7088a55f6]{
 -- Page 380, Offset 41351.
 -- 動いている方がおかしい状態だった。
-I'm a little surprised that I can still move.
+I'm surprised that I can even move.
 }
 [sha:93e233fb599cabd9897b3fb61a26512dfa8c879b]{
 -- Page 380, Offset 41352.
@@ -662,39 +718,56 @@ She's watching my struggle with rapt attention.
 -- Page 382, Offset 41358. Mods: @n.
 -- 『“……もう絶対に、
 // fuck off
-"I'll never touch you again...
+%{i}
+"I thought I told myself
+%{/i}
 }
 [sha:4395396f68f1d72a77c44436e7f92849b9e04c1a]{
 -- Page 382, Offset 41359. Mods: @n.
 -- わたしから触ってなんか
 // with these
-At least...
+%{force_glue}
+%{i}
+ that I'd never
+%{/i}
 }
 [sha:20b0647ef47abe10e1e8dd99f5edba75477f094e]{
 -- Page 382, Offset 41360.
 -- やるもんかって、思ったけど”』
 // line breaks
-That's what I told myself."
+%{force_glue}
+%{i}
+ touch you again."
+%{/i}
 }
 [sha:69201a3cd8e18fad912f37ffc6bec87793de9861]{
 -- Page 383, Offset 41361.
 -- 『“……我慢、できなくなっちゃった。
+%{i}
 "But... I just couldn't hold myself back any longer.
+%{/i}
 }
 [sha:6f9d20e201f912b1157b3ae2a4f43dfa3c5b70f0]{
 -- Page 383, Offset 41362.
 -- ……ん。
+%{i}
 Yeah...
+%{/i}
 }
 [sha:85ec47b49108c510d69b5c638c3e428b9a4f1c06]{
 -- Page 383, Offset 41363. Mods: @n.
 -- もうわたしのものなんだし、
-You belong to me now...
+%{i}
+You belong to me now,
+%{/i}
 }
 [sha:00862c1f6e48e11855092dc357f655cbb3317fbf]{
 -- Page 383, Offset 41364.
 -- なにをしたって、かまわないわよね？”』
-So it's okay for me to do whatever I want, right?"
+%{force_glue}
+%{i}
+ so it's okay for me to do whatever I want, right?"
+%{/i}
 }
 [sha:613f86b31d3e955215a5ffe93375096dffb4377c]{
 -- Page 384, Offset 41365.
@@ -714,7 +787,7 @@ She crushes the caterpillar writhing around atop her palm.
 [sha:14580c593e0196fca6bdf1b0d93777407aaadef8]{
 -- Page 385, Offset 41368.
 -- 「―――、―――………………！」
-"―――, ―――!"
+"%{i}Nrgh%{/i}... %{i}aghhh%{/i}... %{i}rrrghhh%{/i}!"
 }
 [sha:14659c45516cb056e42099fedae0c34438cb8743]{
 -- Page 385, Offset 41369.
@@ -737,13 +810,12 @@ The worst part about all this...
 [sha:46e6031537291c9abc4a5ed495e72659f8419065]{
 -- Page 385, Offset 41372. Glued. Mods: @x.
 -- ここまでされても、遠野志貴はまだ生きている、という事だった。
- is that despite what's been done to him, Tohno Shiki is still alive.
+ is that despite what's been done to me, I'm still alive.
 }
 [sha:66c80c41e1041c78245f016fc3bc4f318c01b9e1]{
 -- Page 386, Offset 41373.
 -- ……そうか。光体に触れている事で、望まずとも魔力が補充されているのか。
-I see...
- Since I'm touching the Luminary, is she forcefully replenishing my magical energy?
+So that's it... by touching the Luminary, my magical energy is replenished, whether I want it or not.
 }
 [sha:bd76e391cb2b76d0c2b692a126869fd710d5ad90]{
 -- Page 386, Offset 41374.
@@ -759,22 +831,28 @@ As a result―――
 [sha:7873a473250ca6dfa8734a06b33ee537072dd590]{
 -- Page 387, Offset 41376.
 -- 『“―――ふふ。
-"―――%{i}Hehe%{/i}.
+%{i}
+"―――Hehe.
+%{/i}
 }
 [sha:7fd5babbeb3c93b8e563c90d396cf4bc65587d94]{
 -- Page 387, Offset 41377.
 -- <志貴|アナタ>が吸血鬼になって、ひとつだけいいコト、見つけちゃった”』
-It seems I've found an upside to you becoming a vampire."
+%{i}
+It seems I've found at least one upside to you becoming a vampire."
+%{/i}
 }
 [sha:6f1b8c21b9cbe283fff5380f5f3f23d4b86a94a9]{
 -- Page 388, Offset 41378.
 -- 『“じっくりと遊べること。”』
-%{center}"I can really take my time playing with you."
+%{center}%{i}"I can really take my time playing with you."%{/i}
 }
 [sha:8808f31a8086f4cff69bf6ebf75cddce7b4e1f9e]{
 -- Page 389, Offset 41379.
 -- 『“<弱いもの|かわいいもの>をいじるのは、少しだけ楽しいわ”』
+%{i}
 "I think I've started to enjoy torturing adorable little weaklings like you."
+%{/i}
 }
 [sha:77a1ca197b9fdf5d048b8a68d12b847cc409ce0c]{
 -- Page 390, Offset 41380.
