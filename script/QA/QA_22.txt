@@ -62,7 +62,7 @@ You're not going to skip, are you?%{n}
 [sha:3b2a98af60b54025dd7707d1df8735d855973cfb]{
 -- Page 220, Offset 43723.
 -- 仕方ありません。
-I guess there's nothing for it then.
+I have no choice, then.
 }
 [sha:0770a568503716c1f91d8052630e6a854470cc84]{
 -- Page 221, Offset 43724.
@@ -79,7 +79,7 @@ trouble.
 -- Page 222, Offset 43726.
 -- あれが『光体』……この街に現れた
 The thing that has appeared in this city is%{n}
-a 'Luminary'...
+a Luminary...
 }
 [sha:318ee2662686d280362c69a8a4d86dad2a6fd8e9]{
 -- Page 222, Offset 43727.
@@ -90,8 +90,8 @@ spiraling out of control.
 [sha:01511d384b6135fc7a992b297d350cebd65af025]{
 -- Page 223, Offset 43728.
 -- 『光体』は惑星初期化のシステムですが、
-A 'Luminary' is supposed to serve as a%{n}
-planetary initialization system,
+Luminaries are supposed to serve as the%{n}
+planet's reinitialization system,
 }
 [sha:2f8aa7d6cb211fa12eb842f202ad5c36f4f0963e]{
 -- Page 223, Offset 43729.
@@ -113,8 +113,8 @@ What a disgrace.
 [sha:ccb24c724e374c8debd8f9a325786ff12758c8bd]{
 -- Page 225, Offset 43732.
 -- ……言葉が乱れました。忘れてください。
-I misspoke...
- Please forget that last part.
+I misspoke...%{n}
+Please forget that last part.
 }
 [sha:3e433ec5ce32d1cec645beb35aefe15089d105d1]{
 -- Page 226, Offset 43733.
@@ -125,12 +125,12 @@ As for its size,
 -- Page 226, Offset 43734.
 -- システム発生時は200メートル級。
  at time of instantiation%{n}
-it spanned two hundred meters.
+it spanned 200 meters.
 }
 [sha:b68c5ddfd37c2ec894bb26affdf0ea60183e7f8b]{
 -- Page 227, Offset 43735.
 -- 顕現時はまだ安定していないので見た目の
-Since it isn't stable immediately after it manifests,
+Since it isn't stable while it is manifesting,
 }
 [sha:1e8779c7867e6e7c7e912a4ab0338e22e0517891]{
 -- Page 227, Offset 43736.
@@ -142,30 +142,28 @@ appears large but doesn't actually have a hitbox.
 [sha:15a7173b7646dff0d6132cff2cbc07c95c28c228]{
 -- Page 228, Offset 43737.
 -- ビルをすり抜けて膨れ上がっているのも
-This is why it has continued to grow%{n}
-through
+This is also why it phased through the%{n}
 }
 [sha:bd9f9a670507717872b938dc4a64b4290cd78e8c]{
 -- Page 228, Offset 43738.
 -- そのためです。
- the buildings as well.
+buildings as it was expanding.
 }
 [sha:83e4b627c7288fa8eb8247b26a8e1a30bb1e85a9]{
 -- Page 229, Offset 43739.
 -- 安定時になると全長は100メートル級で固定。
-Once stabilized, the total size is fixed at one hundred%{n}
-meters.
+Once stabilized, the total size is fixed at 100 meters.%{n}
 }
 [sha:e1e1036f44ed6177267cd40a667a69e5a6bbfd33]{
 -- Page 229, Offset 43740.
 -- これは周囲の文明レベルに合わせてのものです。
- This is to match the level of civilization%{n}
-surrounding it.
+It's this big because it has adjusted itself to the%{n}
+civilization around it.
 }
 [sha:26cbc82fcfe7aa36c1bc190915014a27bb64870e]{
 -- Page 230, Offset 43741.
 -- 体積……体重は計測できません。
-Its volume and weight... are impossible to%{n}
+Its volume and weight are impossible to%{n}
 measure.
 }
 [sha:3105bea6fffcb2501ce3e5e95fe30e3ac5d106e8]{
@@ -177,7 +175,7 @@ Once it takes this form it does have mass,
 -- Page 231, Offset 43743.
 -- 『光体』は地球の生命力が形になったもの。
  but the%{n}
-'Luminary' is essentially the Earth's life force given form.
+Luminary is essentially the Earth's life force given form.
 }
 [sha:73b8f938cb22213ae28a8d0ae5d99cb8a4cabbd8]{
 -- Page 232, Offset 43744.
@@ -194,24 +192,25 @@ surface―――
 [sha:3aa0c83200e81bfdf86f9bd64b0b4d5a73901ae1]{
 -- Page 232, Offset 43746.
 -- 『地球にとっては重くないので、
-It isn't heavy as far as the Earth is concerned,
+As far as the Earth is concerned, it isn't heavy at all,%{n}
 }
 [sha:767b749f87e462ef7f1b42d68f5453d9072fcce9]{
 -- Page 232, Offset 43747.
 -- 地形には重さによるダメージはかからない』
- and so%{n}
-the terrain will not take any crush damage.
+so its weight won't cause any damage to the terrain%{n}
+whatsoever.
 }
 [sha:f170fd16f53142c1935e3453be6c26d9a46b770f]{
 -- Page 234, Offset 43748.
 -- となります。地面は陥没しません。
-Or something along those lines, anyway.%{n}
+The ground won't collapse beneath her,%{n}
+essentially.
 }
 [sha:3f3788ed1c1aea1ea23a69cf4fd7f5183067a122]{
 -- Page 234, Offset 43749.
 -- ただし人工物はその限りではありません。
-However, though the ground will not cave in,%{n}
-the same can't be said for man-made objects.
+ However, the same cannot be said%{n}
+for man-made objects.
 }
 [sha:82dd33cb70a5547dc53ca1403a31dd290602a8de]{
 -- Page 235, Offset 43750.
@@ -221,19 +220,18 @@ Incidentally, the reason her Millennium Castle dissipated%{n}
 [sha:7d550cf29b4de2b01fa65f4a7e2ae319fe83f570]{
 -- Page 235, Offset 43751.
 -- 彼女の空想具現化のランクが下がったためです。
-is because her Marble Phantasm rank dropped a notch.
+is because her Marble Phantasm rank has dropped.
 }
 [sha:096385fb702b5dd2b80fa7da0d394cd02b8e96f6]{
 -- Page 236, Offset 43752.
 -- 『光体』状態の真祖では空想具現化は
-A True Ancestor in a 'Luminary' state can%{n}
-only
+True Ancestors in a Luminary state can only%{n}
 }
 [sha:93def1e370938010fbc01d0dbd86534acf180a53]{
 -- Page 236, Offset 43753.
 -- 大雑把なものしかできません。
- produce a rough sketch of a Marble%{n}
-Phantasm.
+ever produce rough sketches for their%{n}
+Marble Phantasm.
 }
 [sha:0633c3074bea18267440c83dfffd931ff313152b]{
 -- Page 237, Offset 43754.
@@ -243,69 +241,68 @@ The larger the output,
 [sha:53afbfbb25032d1bf309f243800fe59c8209dd8b]{
 -- Page 237, Offset 43755.
 -- 構築できなくなったのです。
- the harder it becomes to create%{n}
-finer details on the phantasms.
+ the harder it becomes to construct%{n}
+exact fantasies.
 }
 [sha:6c466f2664c7c1a8e412544fcf41d60d642d18dc]{
 -- Page 238, Offset 43756.
 -- 『光体』状態の彼女にできる事は、
-The things Arcueid is capable of in her%{n}
-'Luminary' state
+The abilities Arcueid possesses in her%{n}
+Luminary state
 }
 [sha:63b1f1fc140afd7c4ca8f3820a2b8eb5108c4453]{
 -- Page 238, Offset 43757.
 -- 超広範囲の魔眼と、
- include the use of her%{n}
-Ultra-wide Mystic Eyes―――
+ are her ultra-wide-range%{n}
+Mystic Eyes―――
 }
 [sha:35c1cd278b8c1d98e24d409b2205d7379a983355]{
 -- Page 239, Offset 43758.
 -- 自身に向けられる攻撃をキャンセルする空想無量化と、
-Canceling attacks directed at her using Phantasmal%{n}
-Nullification,
+Her Fantasy Dequantification, which allows her to cancel%{n}
+incoming attacks,
 }
 [sha:eda8f1c830acb99d5334fdc67df9d0e4598f7232]{
 -- Page 239, Offset 43759.
 -- 地熱操作、大気操作、といったものになります。
- the manipulation of geothermal heat,
- the%{n}manipulation of the atmosphere,
- and so on.
+ along with geothermal and atmospheric%{n}
+manipulation.
 }
 [sha:54ef7834de68b5062217cc713a4a0ea63669fb80]{
 -- Page 240, Offset 43760.
 -- ようは自然の脅威です。これを、
-In short, she has become a force of nature.
+In short, she is the peril of nature itself.
 }
 [sha:66cbe9bcd368bd108124cb3f2e7ead2a5147cdaa]{
 -- Page 241, Offset 43761.
 -- 『意識的に、指向性のものとして』
-She used to be a woman who used this force%{n}
+Ordinarily, she employs nature consciously,%{n}
 }
 [sha:68eb344912cbe1a2a1ddd01476fa1c9d3720b8f1]{
 -- Page 241, Offset 43762.
 -- 使っていた普段の彼女と、
-consciously, in accordance with her directive.
+and with a directive.
 }
 [sha:7a23a4a99cfe874c939d5df7a8697f83d19cb404]{
 -- Page 242, Offset 43763.
 -- 『無意識に、反応として』
-But now she wields it unconsciously, in%{n}
+But now, she wields it unconsciously,%{n}
 }
 [sha:0650c76a1e45ff1d776a3e69eafbd69a2e51181a]{
 -- Page 242, Offset 43764.
 -- 使う事しかできない今の彼女。
-accordance with her impulses.
+and by impulse alone.
 }
 [sha:e845960c9e6ea1c15a8abd4e82163c05da413942]{
 -- Page 243, Offset 43765.
 -- どちらが生命として優れているかは、
-As for which is better for life on this%{n}
-planet,
+Which of these is the superior lifeform%{n}
 }
 [sha:6f1943c0a568691554b6ecfc97b9db5083b17c6f]{
 -- Page 243, Offset 43766.
 -- あなたの嗜好でご判断いただければ。
- it is up to you to decide.
+is something you'll have to judge for%{n}
+yourself.
 }
 [sha:2964f96d7a46a8170f7fe7c62fd47e868cdda6fc]{
 -- Page 244, Offset 43767.
@@ -321,7 +318,7 @@ The woman present in this bad end
 -- Page 245, Offset 43769.
 -- 私の知る『光体』ではありません。
  is not%{n}
-the 'Luminary' that I know.
+the Luminary that I know.
 }
 [sha:227250a486cdf867ae763d7c0367e02cf43f454d]{
 -- Page 246, Offset 43770.
@@ -338,15 +335,13 @@ system.
 [sha:c5818e3624547e45ae3e8da0e73dd5672c432779]{
 -- Page 247, Offset 43772.
 -- その上で暴走による自己崩壊はせず、
-On top of that,
- she has not self-destructed%{n}
-after going berserk,
+On top of that, despite her rampage, her%{n}
+sense of self remains intact, and she's%{n}
 }
 [sha:aa338c5504bd39eac0f5f144886ef9c1589b3806]{
 -- Page 247, Offset 43773.
 -- 新しい『器』に変化している。
- and is even transforming%{n}
-into a new vessel.
+transforming into an entirely new vessel.
 }
 [sha:d72ad35f5b566dfbb489263265fb32b86c8ea52c]{
 -- Page 248, Offset 43774.
