@@ -3416,7 +3416,7 @@ I won't give up.
 }
 [sha:6ffc58936a6afb8faec1b7098de16ae6e9789565]{
 -- 逃げるしかない。
-No choice but to escape.
+I have no choice but to run.
 }
 [sha:ac6e75c0fea3347e4cf095ca46b3a019dfcdcb16]{
 -- ロスト・ワールド
@@ -5716,15 +5716,22 @@ I wasn't able to put so much as a scratch on the Luminary,
 }
 [sha:d9e00c824599d07d6cf88ca352372319bd627c7d]{
 -- 失敗した以上、猶予はない。^腕の切断を諦めてでも、^先輩を解放しなくては……！
-失敗した以上、猶予はない。^腕の切断を諦めてでも、^先輩を解放しなくては……！
+// @flowchart_descr
+My failure hasn't left me with a lot of time.
+ I may have given up on slicing off her arm, but I'm still going to free Senpai!
 }
 [sha:8fac51f3ee4d57cd9891068f0d7fb36517da5a5b]{
 -- 光体に吹き飛ばされ、地上へ。^落下した先に待っていたものは、^圧倒的な自然の驚異だった。
-光体に吹き飛ばされ、地上へ。^落下した先に待っていたものは、^圧倒的な自然の驚異だった。
+// @flowchart_descr
+I'm blown to the ground by the Luminary.
+ What awaits me on the surface is a shocking profusion of nature.
 }
 [sha:fdf926df7223015301d3db68a58d90c8f24f50af]{
 -- 正面から戦うのは論外だ。^地上に溢れるモノで身を隠す。^それなら視線を防げる筈だ……！
-正面から戦うのは論外だ。^地上に溢れるモノで身を隠す。^それなら視線を防げる筈だ……！
+// @flowchart_descr
+Fighting her head-on is out of the question.
+ I hide myself among the roots that blanket the earth.
+ She shouldn't be able to spot me down here!
 }
 [sha:67b9acf8c2f5932ee468f2f860b872847d3a2efe]{
 -- 弄ばれるだけの命に^絶望の色はない。^確信は揺らがない。
