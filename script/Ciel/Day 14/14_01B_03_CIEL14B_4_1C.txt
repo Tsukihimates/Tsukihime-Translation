@@ -26,7 +26,9 @@ If I can reach that point quickly―――
 [sha:ccf621a7779fc503f168f58be70dcf7a25c7323f]{
 -- Page 43, Offset 40373.
 -- 「“私には、殺しても死なない玩具があるものね”」
-"I still have an unkillable toy with me right here."
+%{i}
+"I still have my unkillable toy with me right here, don't I?"
+%{/i}
 }
 [sha:613e16e0666b0d9f393faa2bd41df883dd78d786]{
 -- Page 43, Offset 40374.
@@ -91,22 +93,37 @@ like she have no concern about me whatsoever...!
 [sha:c6e1ba41eb3ab646e62499cb7f747b7581b4aac2]{
 -- Page 47, Offset 40386.
 -- 「“そう。かわいそうね。貴女の望みは叶えられない。
-"I see. How pitiful. Your wish will never be granted.
+// Same as 37995. but luminary quotes
+%{i}
+"Alright.
+ Poor you, then.
+ Your wish will never be granted.
+%{/i}
 }
 [sha:89ad3dcca39139cdbe27f69c57051b139ed3ba70]{
 -- Page 47, Offset 40387.
 -- 私は今度こそロアを奪りこむ。
-This time, I will definitely take back Roa.
+// Same as 37996 but kanji 私
+%{i}
+This time, I %{/i}will%{i} absorb Roa.
+%{/i}
 }
 [sha:046f12473332ea910cb84c923aab13ae27ad4909]{
 -- Page 47, Offset 40388. Mods: @n.
 -- あの、何もできずに逃げ回るだけの肉塊を、
-And I'll tear apart that powerless piece of meat
+// Assuming Shiki
+// Commonality with 37997.
+%{i}
+By which I mean I'll tear apart that powerless sack of flesh running around
+%{/i}
 }
 [sha:63262904bd35ef6c528f050411de997b14f48bdd]{
 -- Page 47, Offset 40389.
 -- 何万回と引き裂いてね……！”」
-who's only good at running away a hundred times over...!"
+%{force_glue}
+%{i}
+ down there a hundred times over!"
+%{/i}
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 48, Offset 40390.
@@ -161,7 +178,7 @@ Look.
 [sha:fd59962a47b7c5ea2b743789833cb5f19ed595f7]{
 -- Page 51, Offset 40400.
 -- 血管が焼ききれるほどの負荷を脳に与えて、凝視しろ。
-Watch closely. Strain your brain to the point of burning your blood vessels.
+Stare so hard that all the blood vessels in your brain risk burning out from the strain.
 }
 [sha:cbed8d5816b6ce9d7a465be0558634619c7fcdc5]{
 -- Page 51, Offset 40401.
@@ -271,7 +288,7 @@ In other words―――
 [sha:9725e324ccef5a1c6f374aa5ef7d40610365abad]{
 -- Page 58, Offset 40422.
 -- それは、自然界の上だけの完全なのか。
-She's perfect only when she stands on the natural world.
+She's %{i}only%{/i} perfect so long as she exists within nature.
 }
 [sha:f6d146437cb9cde5441b7bc744c2237bc6cd607c]{
 -- Page 59, Offset 40423.
@@ -346,17 +363,17 @@ I only have to reach its surroundings.
 [sha:e0d611c888fbb425d922658e433887e0b5d4bfb3]{
 -- Page 63, Offset 40437.
 -- 俺は間違っていた。
-I was wrong.
+I was going about it all wrong.
 }
 [sha:f7a6ec38b21d3024c050602f203d13743744c2b7]{
 -- Page 63, Offset 40438.
 -- アルクェイドに死の要因はない。
-Arcueid doesn't have a cause of death.
+Arcueid doesn't have any causes of death.
 }
 [sha:6cba071463b497615d9790ce6b914b97333dac82]{
 -- Page 63, Offset 40439.
 -- それなら―――
-In that case―――
+However―――
 }
 [sha:33cbff059fab4991287ff9df37a64fa2b894be53]{
 -- Page 64, Offset 40440.

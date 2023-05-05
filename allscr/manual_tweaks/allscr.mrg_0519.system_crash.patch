@@ -1,0 +1,16 @@
+diff --git a/allscr/retimed/allscr.mrg_0519.txt b/allscr/retimed/allscr.mrg_0519.txt
+index f1063dbe4..9a27b76be 100644
+--- allscr.mrg_0519.txt
++++ allscr.mrg_0519.txt
+@@ -942,11 +942,9 @@ _STCH(28,img1349,118,68,1000,255,2770,,CC,,,23);
+ _STZ4(28,312,312,312,312,0,0,0);
+ _FADS(1,0,0);
+ _ZYbab00(LV00000);
+-_IFP4(,LV00100);
+ _STCH(12,img5029,240,136,1000,255,2822,,CC,,,23);
+ _SACL(12,1);
+ _FADS(1,0,0);
+-_ZYbad00(LV00100);
+ _STMA(19,23855);
+ _STMA(23,23856);
+ _STMA(15,23857);
