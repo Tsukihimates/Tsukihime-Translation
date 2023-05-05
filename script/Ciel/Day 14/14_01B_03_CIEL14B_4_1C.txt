@@ -26,7 +26,9 @@ If I can reach that point quickly―――
 [sha:ccf621a7779fc503f168f58be70dcf7a25c7323f]{
 -- Page 43, Offset 40373.
 -- 「“私には、殺しても死なない玩具があるものね”」
-"I still have an unkillable toy with me right here."
+%{i}
+"I still have my unkillable toy with me right here, don't I?"
+%{/i}
 }
 [sha:613e16e0666b0d9f393faa2bd41df883dd78d786]{
 -- Page 43, Offset 40374.
@@ -91,23 +93,37 @@ like she have no concern about me whatsoever...!
 [sha:c6e1ba41eb3ab646e62499cb7f747b7581b4aac2]{
 -- Page 47, Offset 40386.
 -- 「“そう。かわいそうね。貴女の望みは叶えられない。
-"I see. What a shame. Your wish will never be granted.
+// Same as 37995. but luminary quotes
+%{i}
+"Alright.
+ Poor you, then.
+ Your wish will never be granted.
+%{/i}
 }
 [sha:89ad3dcca39139cdbe27f69c57051b139ed3ba70]{
 -- Page 47, Offset 40387.
 -- 私は今度こそロアを奪りこむ。
-This time, I will definitely take back Roa.
+// Same as 37996 but kanji 私
+%{i}
+This time, I %{/i}will%{i} absorb Roa.
+%{/i}
 }
 [sha:046f12473332ea910cb84c923aab13ae27ad4909]{
 -- Page 47, Offset 40388. Mods: @n.
 -- あの、何もできずに逃げ回るだけの肉塊を、
 // Assuming Shiki
-And as for that powerless piece of meat running around down there―――
+// Commonality with 37997.
+%{i}
+By which I mean I'll tear apart that powerless sack of flesh running around
+%{/i}
 }
 [sha:63262904bd35ef6c528f050411de997b14f48bdd]{
 -- Page 47, Offset 40389.
 -- 何万回と引き裂いてね……！”」
-I'll tear him apart a hundred times over!"
+%{force_glue}
+%{i}
+ down there a hundred times over!"
+%{/i}
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 48, Offset 40390.
