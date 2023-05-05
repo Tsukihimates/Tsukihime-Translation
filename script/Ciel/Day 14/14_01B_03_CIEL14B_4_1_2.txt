@@ -2,12 +2,12 @@
 -- Page 10005, Offset 40639.
 -- 『“そうよ、みじめに思い知りなさい。
 "That's right.
- Do you understand now how wretched you are?
+ Now do you understand now how wretched you are?
 }
 [sha:f60b706ec54e99e381f2e3d787dd3364c2da23a3]{
 -- Page 10005, Offset 40640.
 -- 私は止められない。もう手遅れなんだって”』
-I can't stop. It's far too late for that now."
+I can't stop. It's already far too late for that."
 }
 [sha:74dac039d1696b8ede3b578d1da1954b21322d9a]{
 -- Page 136, Offset 40641.
@@ -65,7 +65,7 @@ Similarly, after becoming the Luminary,
 [sha:db6a63cd4bd5c5370c3c8c7934f7ce634570a0d1]{
 -- Page 138, Offset 40651.
 -- そうでなくては、いけない筈だからだ。
-Because it would be unacceptable for it to be any other way.
+After all, it would be unacceptable for it to be any other way.
 }
 [sha:f8b04e19da8825b1dc2ad14407cc9041e3fe2fba]{
 -- Page 139, Offset 40652.
@@ -129,10 +129,13 @@ She's wanted to hear those words for a long, long time.
 [sha:23c6a4a9a5f335881e48fdf9f9750ea06e334a1c]{
 -- Page 142, Offset 40663.
 -- 嫌い。嫌い。大嫌い。一歩だって近寄ってほしくない。
+// Since this is a third person scene, sticking the first person Arc thoughts in italics
+%{i}
 I hate him.
  I hate him.
  I despise him.
  I don't want him to come even one step closer.
+%{/i}
 }
 [sha:6befd57995b18d89fd3164112e46a57507ce3023]{
 -- Page 143, Offset 40664.
@@ -200,7 +203,7 @@ She had lost her composure, but she had not lost her rationality.
 [sha:f2b50127bb12b4ca9345bd8dddc8c0b288010d7a]{
 -- Page 146, Offset 40675.
 -- ソレが自分の足元から逃れ、根の中に隠れている時はまだ余裕があった。
-There had still been a chance back when he escaped from her and hid himself inside the tangle of roots.
+There had still been a chance back when he escaped from her and hid himself among the tangle of roots.
 }
 [sha:376a19f43a21c52402b623d7dbeceb018f8a6fa7]{
 -- Page 146, Offset 40676.
@@ -211,8 +214,8 @@ She'd thought he was just struggling in vain,
 [sha:4783d41ba4aa13582266279af1e830c49937ef44]{
 -- Page 147, Offset 40677.
 -- しかし。その目的が『地脈殺し』だと判明した瞬間、彼女の全身に走ったものは戦慄と、喜びだった。
-However.
- As soon as she realized that his objective was to kill the veins that ran through the earth,
+However――
+as soon as she realized that his objective was to kill the veins that ran through the earth,
  a shiver of fear and joy ran through her body.
 }
 [sha:cfbd755c3fe5edb54deaa887d11dee345e2edc48]{
@@ -295,16 +298,22 @@ Her fleeting happiness gave way to a fire that burned within her.
 [sha:cfd165102ebef39a021e66b5073a3c83dda5fe74]{
 -- Page 151, Offset 40693.
 -- にくたらしい。にくたらしい。にくたらしい。
+// First-person thought
+%{i}
 How dare he.
  How dare he.
  How dare he.
+%{/i}
 }
 [sha:3c7f5c4c46340f41b41715cfbfef6d4399d75e20]{
 -- Page 151, Offset 40694.
 -- うらやましい。うらやましい。うらやましい……！
-I'm jealous.
- I'm jealous.
- I'm jealous!
+// First-person thought
+%{i}
+I'm so jealous.
+ I'm so jealous.
+ I'm so jealous!
+%{/i}
 }
 [sha:b9d9878915befb58e19758d936b92a3237f63ab7]{
 -- Page 152, Offset 40695.
@@ -364,7 +373,7 @@ She acts on all of her ideas without so much as a second thought.
 [sha:29fcfe89bb98b251c6fb724fa33937117710ccce]{
 -- Page 155, Offset 40704.
 -- わずかな反感や思いつき、悪戯、冗談。
-Even the smallest petty animosity, plan, prank, or joke―――
+No matter how small the petty animosity, plan, prank, or joke―――
 }
 [sha:d390639e40e3d3b284699c903b54a36d86f3d85f]{
 -- Page 155, Offset 40705.
@@ -402,7 +411,7 @@ With each step she takes,
 [sha:8584a5c92a8459fd671246614901ef1b28bbc699]{
 -- Page 157, Offset 40711.
 -- 機能として在った<光の筐体|エーテルフレーム>が、
-The Ether Frame, which has existed only to serve a function―――
+The Ether Frame, which had existed only to serve a function―――
 }
 [sha:580a567a47e71f764cc545bb4d8362cecf7caea5]{
 -- Page 157, Offset 40712.
@@ -442,7 +451,7 @@ If her blood were to flow,
 [sha:60f0235fc5d62d9786cbfb9c666a18a6453bb658]{
 -- Page 159, Offset 40718.
 -- 踏み出す足に重みが加わる。
-Her legs gain mass with each step they take.
+Her legs gain mass with each stride.
 }
 [sha:d96b1ab5dceaeb92a691ee78918ead91b498a9b6]{
 -- Page 159, Offset 40719.
@@ -511,7 +520,7 @@ Shiki is the one person I %{i}don't%{/i} want to stop me―――"
 -- Page 164, Offset 40731.
 -- ずっと意識していた。ずっと嬉しかった。
 She'd been conscious of it all along.
- She'd been happy all along
+ She'd been happy all along.
 }
 [sha:bcbbbfcf63f87a7819fd410b9ac1fa696b2970d1]{
 -- Page 164, Offset 40732.
@@ -522,7 +531,7 @@ Even though he'd come here to rescue Ciel,
 [sha:b1d28d981ee3ba8baa69eb157b57ef26fc81fcaf]{
 -- Page 165, Offset 40733.
 -- そもそも、彼女には彼以上に、彼の心が伝わっていた。
-Besides, she could tell what was in his heart better than even he.
+Besides, she could tell what was in his heart better than even he could.
 }
 [sha:7c21b5809dbafa8eb0f669fafd2686514bddf838]{
 -- Page 165, Offset 40734.
@@ -539,8 +548,8 @@ Besides, she could tell what was in his heart better than even he.
 [sha:a5f1e4a6e13b6792024d5fb45133657f2c4168dd]{
 -- Page 165, Offset 40736.
 -- 彼は最後まで彼女の知る、怖くておかしくて、特別な相手だったのだ。
-He was the strange, frightening, and yet special opponent she'd always known,
- right up to the very end.
+He was the same strange, frightening, and yet special opponent she'd always known,
+ right to the very end.
 }
 [sha:55ca8a59d656dc90e1a55bf75a96aee20441c3dc]{
 -- Page 166, Offset 40737.
