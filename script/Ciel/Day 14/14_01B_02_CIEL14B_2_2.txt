@@ -140,14 +140,15 @@ It is dangerous to advance,
 -- Page 87, Offset 39647. Mods: @n.
 -- 命を懸けるのであれば、
 %{i}
-But if you are to put your life at stake―――
+But if you are to put your life at stake,
 %{/i}
 }
 [sha:5131e10213aa071df302401282c373c1533a81f3]{
 -- Page 87, Offset 39648.
 -- 漫然と懸けるな、という事だ』
+%{force_glue}
 %{i}
-Then do not do it so lightly."
+ then do not do it so lightly."
 %{/i}
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
