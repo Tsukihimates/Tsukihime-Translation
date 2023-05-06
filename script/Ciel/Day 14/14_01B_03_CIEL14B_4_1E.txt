@@ -1,7 +1,9 @@
 [sha:f2b8989d49293e28529ed06c3828e7734426f26d]{
 -- Page 10004, Offset 40561.
 -- 「“ほら、やっぱり”」
+%{i}
 "See? I knew it."
+%{/i}
 }
 [sha:1e7258af118416d82c34c0398b9df83a303ef022]{
 -- Page 10004, Offset 40562.
@@ -25,24 +27,27 @@ Although she's a little disappointed that she didn't get to savor it,
 -- Page 106, Offset 40565.
 -- この領域にいる生き物が何を感じ、何を思っているかなど、意識せずとも伝わってくるからだ。
 After all,
- the thoughts and feelings of every single creature within her domain is subconsciously transmitted straight to her.
+ the thoughts and feelings of every single being within her domain are subconsciously transmitted straight to her.
 }
 [sha:18bd700413807f1c874f976470f439125e961602]{
 -- Page 107, Offset 40566.
 -- 「“はじめからその程度。
-"It was always going to end this way.
+%{i}
+"That's all he ever amounted to.
+%{/i}
 }
 [sha:202db7a2dc8d6bfe59c9675f5be84626fafaf2d4]{
 -- Page 107, Offset 40567.
 -- 分かっていないのは貴女の方だったじゃない”」
 // Mirroring 40366 back at her
-%{i}You're%{/i} the one who doesn't seem to understand that."
+%{i}
+Seems like %{/i}you're%{i} the one who doesn't get him."
+%{/i}
 }
 [sha:f9bdaef1b35b5b28d8e9126fddb8f987bcc4c8c7]{
 -- Page 108, Offset 40568.
 -- 指先の虜囚に<呼|こ><吸|え>を向ける。
-// 'Breath' important to preserve here?
-She addresses the prisoner held captive between her fingertips.
+She directs her breath at the prisoner held captive between her fingertips.
 }
 [sha:1f5c38aa96890f796b1213ef710186bf53aca109]{
 -- Page 108, Offset 40569.
@@ -59,8 +64,8 @@ Even though her body has restored itself after being turned into mincemeat,
 [sha:9a3b3f788a508061726747bac5d4e92b9bd0b182]{
 -- Page 109, Offset 40571.
 -- その不甲斐なさに嘆息して、彼女は左手を持ち上げ、手首を返した。
-Sighing at how worthless these scraps are,
- she holds out her left hand, fingers pointed at the earth.
+Sighing at how worthless her toy has become,
+ she extends her left hand, and then turns her palm downward.
 }
 [sha:a537fb03ab2c82d2a05f9d3b5306385aff7e6260]{
 -- Page 109, Offset 40572.
@@ -70,55 +75,63 @@ It's the sort of gesture one would use when throwing out a piece of garbage clut
 [sha:73026653fdc388f8788c9f952f7280ff76f53180]{
 -- Page 110, Offset 40573.
 -- 「“―――もういいわ。ここでお別れね、シエル。
+%{i}
 "―――I've had enough. This is goodbye, Ciel.
+%{/i}
 }
 [sha:d500af2b2fba6a311da483cd6e9a79da8b3a134c]{
 -- Page 110, Offset 40574.
 -- いつか気が向いたら、そこから出してあげる”」
-Maybe if I feel like it someday I'll let you of there."
+%{i}
+Maybe if I feel like it someday, I'll let you of there."
+%{/i}
 }
 [sha:c6d601c7ec9d6c725b192dbde2fab54c76b39f8b]{
 -- Page 111, Offset 40575.
 -- それは彼女にとっては意趣返しでもあり、思い上がった代行者への懲罰でもあった。
-To her, that act serves as both revenge and punishment for the arrogant Executor.
+To her, that act serves as both revenge and punishment for the conceited Executor.
 }
 [sha:49b3c1e277977cfc086b4ae60bf12a25fe3cc5b6]{
 -- Page 111, Offset 40576.
 -- 代行者は言った。彼の事を理解していない、と。
 // Again, match phrasing from 40366
 She can't believe the Executor would say something like that.
- That she didn't understand him at all.
+ That she didn't get him at all.
 }
 [sha:715321980499d989e16426feb3bf06b49b6f5ffd]{
 -- Page 112, Offset 40577.
 -- まったく笑わせる。
-What a joke.
+What a complete joke.
 }
 [sha:5ec740bdfed41894f93e2bcaa1fcc9ab80fd373d]{
 -- Page 112, Offset 40578.
 -- 分かっていないのはシエルの方だ。彼女ほどあの生き物を理解しているものはいない。なにしろ今も知覚している。心音も体温も脈拍も免疫も、骨も髪も舌も喉も器官も、泣き言も悪態も怒りも悔しさも把握している。すべて自分の掌の上だ。判らない事など何もない。
 // Translating run on sentences with ands for もs / pauses at commas like the JP
-%{i}Ciel%{/i} is the one who doesn't understand.
- Nobody out there understands him better than she does.
- I mean, she can sense him even now.
- She understands his heartbeat and his body temperature and his pulse and his immune system,
+It's %{i}Ciel%{/i} who doesn't get him.
+ Nobody out there gets him better than she does.
+ She can sense him even now.
+ She can fully grasp his heartbeat and his body temperature and his pulse and his immune system,
  his bones and his hair and his tongue and his throat and his organs,
- his complaints and his bad attitude and his anger and his frustration,
+ his whining pleas and his scathing remarks and his anger and his frustration,
  all of it.
  She holds it all in the palm of her hand.
- There's nothing about him she doesn't understand.
+ There's nothing about him she doesn't get.
 }
 [sha:b49be33b04b91f3dd1e86a7b8e79057a74c83507]{
 -- Page 113, Offset 40579.
 -- 「“そう。だからこれでおしまい。
-"Yeah. That's why I know that this is the end.
+%{i}
+"Yeah. That's why I know that he's done for.
+%{/i}
 }
 [sha:c5190ce662551c5b574c9e8b403751ce94d53719]{
 -- Page 113, Offset 40580.
 -- もう一歩も動けないもの、アイツ”」
 // Slightly tweak, but pretty sure he was all fours at the end of the last file
 // and a literal tl just doesn't sound great here
-That guy isn't getting up again."
+%{i}
+That jerk isn't getting up again."
+%{/i}
 }
 [sha:7859a50ec036ab25093ad04d3154c01b37f8b43f]{
 -- Page 114, Offset 40581.
@@ -130,12 +143,12 @@ The Executor is discarded from a height of eighty meters.
 -- 通常であれば、数秒後に地面に激突し、無惨な死体となるだろう。
 Under normal circumstances,
  she'd crash into the ground a few seconds later,
- nothing left of her but a tragic corpse.
+ nothing left of her but a gruesome corpse.
 }
 [sha:7ffbe65ff0a5590e37cc09ebd40ae7779b64fb1e]{
 -- Page 114, Offset 40583.
 -- だが彼女の足元には事象を収納する大渦が口を開けている。
-But at the feet of the Luminary is the wide-open maw of a vortex that stores events.
+But at the feet of the Luminary is the wide-open maw of an event-storing vortex.
 }
 [sha:b9c009933b0943bfefbbfc63e66c5c7251d806dc]{
 -- Page 115, Offset 40584.
@@ -143,9 +156,8 @@ But at the feet of the Luminary is the wide-open maw of a vortex that stores eve
 // Banished to the goddamn phantom zone
 Instead of being dashed to pieces against the ground,
  the Executor will be transformed into a 'planar event',
- deprived of their freedom,
- and forced to suffer for all eternity.
- A fate which offers no chance at salvation.
+ deprived of her freedom,
+ and forced to suffer for all eternity――a fate which offers no chance at salvation.
 }
 [sha:423038222e88962090cf18eeffa158544709d964]{
 -- Page 116, Offset 40585.
@@ -156,27 +168,28 @@ Now that she has become a Luminary,
 [sha:5cf047bcc574c60cab5dd6bc1b06f9f7c3b22214]{
 -- Page 116, Offset 40586.
 -- 代行者シエルの運命は、
-The fate of Executor Ciel―――
+Both the fate of Executor Ciel―――
 }
 [sha:0c94c2c0f1239d741266b1bd32f80917e4185466]{
 -- Page 116, Offset 40587.
 -- あの人間……否、転生者ロアの行動は、
-The actions of that human――no, of Roa's reincarnation―――
+And the actions of that human――of Roa's reincarnation―――
 }
 [sha:ec772953449ee3743b05318c7e73954f2e724c68]{
 -- Page 116, Offset 40588.
 -- 彼女の思うままでなければならない。
-They are all destined to occur as she wills it.
+// Goes back to 40326
+They %{i}must%{/i} happen as she has foretold.
 }
 [offset:40589]{
 -- Page 117, Offset 40589. Mods: @n.
 -- そう。
-That's right―――
+That's how it works.
 }
 [sha:9446b5ab9abd601c6978aa1bfe7f933668e0267a]{
 -- Page 117, Offset 40590.
 -- 全能者が予測を外す事はあってはならない。
-The predictions of the Almighty can never be wrong.
+The predictions of the Almighty cannot ever be wrong.
 }
 [sha:c926c70f616035a8994e1b8ee216e0405f951ae1]{
 -- Page 117, Offset 40591.
@@ -194,22 +207,29 @@ If her predictions were to be incorrect,
 [offset:40593]{
 -- Page 117, Offset 40593.
 -- なので。
-And yet―――
+// This is supposed to lead into "なので、シエルは収納された上でアイツはやってこない"
+// or something like that, but actually ends up being "なので、志貴は駆けつけた" or something
+So, obviously―――
 }
 [sha:afe17b147716bb3344fe9851c60a2ae39b1671ef]{
 -- Page 118, Offset 40594. Mods: @n.
 -- 「“え―――
-"Huh―――
+%{i}
+"Wh――
+%{/i}
 }
 [sha:fd0584bbb6c191474866bc4a04f55175c945b598]{
 -- Page 118, Offset 40595. Glued.
 -- えぇぇええ！？”」
+%{i}
 whaaaaaa?!"
+%{/i}
 }
 [sha:2ebbb7f08403e350b121c7ca0d78b9d83b8485b4]{
 -- Page 118, Offset 40596.
 -- いま目の前で起きている展開は、彼女にとって、光体にまで変革した自分の立場を忘れるほどの衝撃だった。
-The events that just transpired before her eyes come as such a shock that she completely forgets that she's a Luminary.
+The events transpiring before her eyes come as a complete shock;
+ so much so that she completely forgets the obligations she must follow after reforming into a Luminary.
 }
 [sha:df813cfab6bcde855ce1f291f5048f9e2ef5f961]{
 -- Page 119, Offset 40597.
@@ -221,7 +241,7 @@ Clinging to the wall of a building,
 [sha:91b6aaf27041f53823cca9283f72ee32455fb427]{
 -- Page 120, Offset 40598.
 -- 思考するまでもなかった。
-I didn't need to stop and think about it.
+I didn't even stop to think.
 }
 [sha:81208b160b42ec50cec6849a42e17359ac85ab8b]{
 -- Page 120, Offset 40599.
@@ -234,7 +254,9 @@ As soon as I saw what was happening,
 -- Page 121, Offset 40600.
 -- 「“え―――えぇぇええ！？”」
 // Match 40594+5
-"Huh――whaaaaaa?!"
+%{i}
+"Wh――whaaaaaa?!"
+%{/i}
 }
 [sha:dfc36e6cd0ece0a6f3cc40929b8edc2d150fdc8b]{
 -- Page 121, Offset 40601.
@@ -251,28 +273,28 @@ I don't care.
 [sha:73acbeacc7c925389bcaae17170a8420468b43ca]{
 -- Page 121, Offset 40602.
 -- アイツにとっては驚天動地の出来事らしい。どうでもいい。
-Apparently it came an earth-shattering surprise to her.%{n}
+Apparently it came as an earth-shattering surprise to her.%{n}
 %{n}
 I don't care.
 }
 [sha:488e53dbc22e9746fbd7f140346e9194f0ad117e]{
 -- Page 122, Offset 40603.
 -- というか、こんなの奇蹟でも根性でもなんでもない。
-I mean, it's not like this was a miracle or a feat of will or anything.
+And I mean, it's not like this is some miraculous strength of will or anything.
 }
 [sha:c341b1eb82a6ff9edc7f6afa99fb8560527b39c3]{
 -- Page 122, Offset 40604.
 -- 限界とかそういうの関係ないから。
 // Note that this 関係ないから phrasing is the flowchart title.
 // Make sure it matches if it gets changed.
-I just don't care about things like limits, that's all.
+My limit just has nothing to do with it.
 }
 [sha:af9fa0e43aefd40de98ff7b948a8d13d2fb36792]{
 -- Page 122, Offset 40605.
 -- 気力は尽きても愛情は尽きないというか、そんなのより凄い愛の力なだけだから。
 // Jesus christ this is corny
-Besides, even if my energy did run dry, my love for her never will.
- And the power of love is the strongest thing there is.
+What can I say? I guess even out of willpower, I'm never out of love.
+ The power of love is far beyond paltry things like energy, after all!
 }
 [sha:2f76dbae3aec22b83a5482d38b5a9a4e8cb98906]{
 -- Page 123, Offset 40606.
@@ -325,7 +347,7 @@ She starts floating upward again,
 -- Page 126, Offset 40614.
 -- 「くそっ、そんなのアリかぁ！？」
 // Go back and hit dead end 22 buddy
-"What the fuck, I didn't know she could do that!"
+"Are you kidding me?! She can do that?!"
 }
 [sha:14dea20ac74fcdb4ab8dc0781c4fddcbfdd63c96]{
 -- Page 126, Offset 40615.
@@ -336,28 +358,29 @@ Her foul play rekindles the anger that had burned in me before.
 -- Page 126, Offset 40616.
 -- アイツ―――自分から『飽きた』とか言っておいて、なんだその“今のナシ”は！
 // Referencing 40573, but not a direct quote
-I can't believe that woman...
- She just said she was done with her,
- what the hell is she doing playing take-backsies now?!
+I can't believe her...
+ She just said she'd gotten bored of Senpai,
+ so what the hell is she doing playing take-backsies now?!
 }
 [sha:783b92152d187f7ef60c1dda2d68c366412fcb4a]{
 -- Page 127, Offset 40617.
 -- 「“――――――”」
-"――――――"
+%{i}
+"Hmph."
+%{/i}
 }
 [sha:0ce0e5f93f7e054969fe3835a7c375da42d86739]{
 -- Page 127, Offset 40618.
 -- だが暴虐はそれだけに留まらなかった。
-But her tyranny doesn't end there.
+But her injustices don't end there.
 }
 [sha:9f8ea3f9adb0ed14143e21010c65c30cc2f14abb]{
 -- Page 127, Offset 40619.
 -- アイツはシエル先輩を胸元まで浮かせると、さも不愉快そうな仕草で……頬を膨らませたように見えなくもなかった……先輩を指で弾いた。
 // yeet
 After raising Ciel-senpai back up to chest height,
- and with an extremely displeased gesture――
-it's hard to tell, but I think she was pouting――
-flicks Ciel-senpai away with her finger.
+ and with an extremely displeased gesture that could only be interpreted as pouting,
+ she flicks Ciel-senpai away with her finger.
 }
 [sha:5b772fc94e2309ca26d78901f3d07cbff89f093c]{
 -- Page 127, Offset 40620.
@@ -367,24 +390,26 @@ I hear the echoing sound of a hard object being struck.
 [sha:8a2078647aec87e9026771d01098f98d81be34a4]{
 -- Page 128, Offset 40621.
 -- アルクェイドの指で弾かれた先輩。
-Arcueid sent Senpai flying with that flick.
+// Clause pulled from next line
+Arcueid's flick sends Senpai streaking across the night sky like an arrow in flight.
 }
 [sha:be2f3d89c47a3346b565a6b78e9510bc9a1b3cff]{
 -- Page 128, Offset 40622.
 -- それは一条の矢のように夜空を横切り、『事象収納』の外側―――俺たちの学校の校舎に着弾した。
-She streaks across the night sky like an arrow,
- before crashing back down to earth at our school――outside the range of the 'Event Storage'.
+When she finally crash lands, it's outside the bounds of the Event Storage――at our school.
 }
 [sha:77a6310456a11aa126ece950a545abf7a3d25225]{
 -- Page 129, Offset 40623.
 -- 「“―――あ”」
-"―――Ah."
+%{i}
+"―――Oops."
+%{/i}
 }
 [sha:298c73b2a01e88af8ab610cd00932a19e325699b]{
 -- Page 129, Offset 40624.
 -- ……酷すぎる。先輩をパチンコ玉のように扱った事もそうだが、その考えなしの行動が酷すぎる。
 // Assuming this 酷い is more 'excessive, rash' than 'cruel'
-Does she know no bounds...
+Does she know no bounds?
  I mean, treating Senpai like a pinball is one thing,
  but the fact that she did it without even thinking just beggars belief.
 }
@@ -412,54 +437,64 @@ In which case, if I can find a way to slip out of this domain and get back to th
 [sha:ad47b9d2fa9f3dc96b271fe9ebff85f30e5ec305]{
 -- Page 131, Offset 40629.
 -- 「“ま、やっちゃったコトは仕方ないか”」
+%{i}
 "Oh well, no use crying over spilt milk."
+%{/i}
 }
 [sha:8c919416f5354c3ee3c485a7552e33da4bebe494]{
 -- Page 131, Offset 40630.
 -- その声は、確かに、イヤな微笑みを帯びていた。
-I have no doubt that there was a wicked smile on her face as she spoke.
+Her voice had no doubt been accompanied by a cruel smirk.
 }
 [sha:34fef4d117188b1aa46cf2c81a97b00c260354db]{
 -- Page 131, Offset 40631.
 -- 「“落としたゴミは拾いに行かないと”」
+%{i}
 "I'd better go pick up that garbage I dropped."
+%{/i}
 }
 [sha:cf024a5a852defd00cd6b0a904013a8a6879d180]{
 -- Page 131, Offset 40632.
 -- もう見なれた筈の光体の変化に、目が点になる。
-Even though I ought to be used to it by now,
+Even though I should be used to it by now,
  the Luminary's transformation takes me completely by surprise.
 }
 [sha:23f3dd9a0cb915b8d07d387db76e0c07efdcdd0c]{
 -- Page 132, Offset 40633.
 -- ―――巨大な人型が、ちっぽけな人間にその威容を見せつけるように、ゆっくりと歩き出す。
-―――The giant figure slowly begins to walk,
+―――The giant humanoid slowly begins to walk,
  almost like it's flaunting its majestic appearance to the tiny human below.
 }
 [sha:b9d9878915befb58e19758d936b92a3237f63ab7]{
 -- Page 133, Offset 40634.
 -- 「“そこで見ていなさい。
-"Just stand there and watch.
+%{i}
+"Just stay there and watch.
+%{/i}
 }
 [sha:edd7fdaf18bb72ab4b35df573aa81c526ee210a2]{
 -- Page 133, Offset 40635. Mods: @n.
 -- ロアの住み処ごと、
-I'll go trample Roa's den―――
+%{i}
+I'll go trample Roa's den,
+%{/i}
 }
 [sha:ebc20dfe1795a111f54dbbe796ba6979abc05b70]{
 -- Page 133, Offset 40636.
 -- アナタたちの思い出を踏み潰してあげる”」
-Along with all the memories you two shared."
+%{force_glue}
+%{i}
+ together with whatever memories you two shared there."
+%{/i}
 }
 [sha:cf73babc77c7a44d28dc751a35590e1ffe5ed284]{
 -- Page 134, Offset 40637.
 -- 悪態も忘れて、呆然と見送るしかない。
-Her taunt sails right over my head.
- I'm too dumbstruck to do anything but stare.
+I'm so stunned that I even forget to bad-mouth her like usual.
 }
 [sha:885b5f3412305b6a98d3f2deda0b3521827a5fd5]{
 -- Page 134, Offset 40638.
 -- それは“動かない”という唯一の欠点を気分で取りやめた、この地上で最も尊大で我が儘な、吸血姫の誕生だった。
-I'm witnessing the birth of the most arrogant and selfish vampiress on the planet;
- one who cast off her immobility――her only weak point――simply because she felt like it.
+I'm witnessing the birth of the most haughty and selfish vampiress on the planet;
+ one who cast off her only weak point――her immobility――simply because she felt like it.
 }
