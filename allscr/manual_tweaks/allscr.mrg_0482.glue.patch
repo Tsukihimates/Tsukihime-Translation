@@ -1,0 +1,38 @@
+diff --git a/allscr/retimed/allscr.mrg_0482.txt b/allscr/retimed/allscr.mrg_0482.txt
+--- allscr.mrg_0482.txt
++++ allscr.mrg_0482.txt
+@@ -982,7 +982,7 @@ _WKAD(F823,1);
+ _WKST(C847,eq,0);
+ _WKST(C859,eq,0);
+ _WNTY(0);
+-_ZMae226($040193^@n);
++_ZMae226($040193@n);
+ _MSAD($040194);
+ _VPLY(B10_14_01B_0043_2,0333f);
+ _WKAD(F823,1);
+@@ -1001,13 +1001,13 @@ _WKAD(F823,1);
+ _WKST(C847,eq,0);
+ _WKST(C859,eq,0);
+ _WNTY(0);
+-_ZMae229($040197@k@e);
++_ZMae229($040197@k@e@n);
+ _VPLY(B10_14_01B_0043_5,03342);
+-_WKAD(F823,1);
++_WKAD(F823,0);
+ _WKST(C847,eq,0);
+ _WKST(C859,eq,0);
+ _WNTY(1);
+-_ZMae22a($040198);
++_MSAD($040198);
+ _CLO3();
+ _WKST(F823,eq,0);
+ _WKST(F847,eq,0);
+@@ -1700,7 +1700,7 @@ _WKAD(F823,1);
+ _WKST(C847,eq,0);
+ _WKST(C859,eq,0);
+ _WNTY(1);
+-_ZMae248($040228^@n);
++_ZMae248($040228@n);
+ _MSAD($040229);
+ _WKST(F823,eq,0);
+ _WKST(F847,eq,0);
