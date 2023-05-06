@@ -1,0 +1,40 @@
+diff --git a/allscr/retimed/allscr.mrg_0484.txt b/allscr/retimed/allscr.mrg_0484.txt
+--- allscr.mrg_0484.txt
++++ allscr.mrg_0484.txt
+@@ -906,14 +906,14 @@ _WKAD(F823,1);
+ _WKST(C847,eq,0);
+ _WKST(C859,eq,0);
+ _WNTY(0);
+-_ZMaee28($040341^@n);
++_ZMaee28($040341@n);
+ _MSAD($040342);
+ _VPLY(A10_14_01B_0075_2,020bd);
+ _WKAD(F823,1);
+ _WKST(C847,eq,0);
+ _WKST(C859,eq,0);
+ _WNTY(1);
+-_ZMaee29($040343^@n);
++_ZMaee29($040343@n);
+ _MSAD($040344);
+ _CLO3();
+ _WKST(F823,eq,0);
+@@ -1008,8 +1008,8 @@ _WKAD(F823,1);
+ _WKST(C847,eq,0);
+ _WKST(C859,eq,0);
+ _WNTY(0);
+-_ZMaee2f($040350^@n);
+-_MSAD($040351^@n);
++_ZMaee2f($040350@n);
++_MSAD($040351@n);
+ _MSAD($040352);
+ _CLO3();
+ _STMA(30,20070);
+@@ -1063,7 +1063,7 @@ _WKAD(F823,1);
+ _WKST(C847,eq,0);
+ _WKST(C859,eq,0);
+ _WNTY(0);
+-_ZMaee33($040356^@n);
++_ZMaee33($040356@n);
+ _MSAD($040357);
+ _CLO3();
+ _SEPL(13,0,MOON_SE06007,,`017:100);
