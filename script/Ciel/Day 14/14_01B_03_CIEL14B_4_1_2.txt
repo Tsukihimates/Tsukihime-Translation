@@ -282,17 +282,24 @@ I'm jealous. I'm jealous. I'm jealous...!
 [sha:b9d9878915befb58e19758d936b92a3237f63ab7]{
 -- Page 152, Offset 40695.
 -- 「“そこで見ていなさい。
-"Just stand there and watch.
+%{i}
+"Just stay there and watch.
+%{/i}
 }
 [sha:edd7fdaf18bb72ab4b35df573aa81c526ee210a2]{
 -- Page 152, Offset 40696. Mods: @n.
 -- ロアの住み処ごと、
-I'll go trample Roa's den―――
+%{i}
+I'll go trample Roa's den,
+%{/i}
 }
 [sha:ebc20dfe1795a111f54dbbe796ba6979abc05b70]{
 -- Page 152, Offset 40697.
 -- アナタたちの思い出を踏み潰してあげる”」
-Along with all the memories you two shared."
+%{force_glue}
+%{i}
+ together with whatever memories you two shared there."
+%{/i}
 }
 [sha:a9314c56304cd046f3fab66cc5f99b1d1f41733e]{
 -- Page 153, Offset 40698.
