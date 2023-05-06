@@ -1,13 +1,17 @@
 [sha:90c261265e901c517a9bfa4c46fc50ad85b8c224]{
 -- Page 10005, Offset 40639.
 -- 『“そうよ、みじめに思い知りなさい。
+%{i}
 "That's right.
- Now do you understand now how wretched you are?
+ Now do you understand how helpless you are?
+%{/i}
 }
 [sha:f60b706ec54e99e381f2e3d787dd3364c2da23a3]{
 -- Page 10005, Offset 40640.
 -- 私は止められない。もう手遅れなんだって”』
-I can't stop. It's already far too late for that."
+%{i}
+I'm not stopping. Not at this point."
+%{/i}
 }
 [sha:74dac039d1696b8ede3b578d1da1954b21322d9a]{
 -- Page 136, Offset 40641.
@@ -17,34 +21,39 @@ The white giant strides through the valley between the buildings.
 [sha:c308efee54afd4c012723c5b0fbee46ea8d16e5c]{
 -- Page 136, Offset 40642.
 -- ちっぽけな人間たちの世界を<睥睨|へいげい>しながら、
-As she looks down her nose at the pitiful world humans have built―――
+With her domineering gaze turned upon the puny human world―――
 }
 [sha:4d097e48f2dcec9227b9c001da1b1b263e63ac58]{
 -- Page 136, Offset 40643.
 -- 情緒なく、どこまでも機械的に、人々の営みを収納していく。
-She stores away the works of man,
- as dispassionately and methodically as a machine might.
+She begins storing away the works of man as methodically and dispassionately as a machine would.
 }
 [sha:aa3757f5f4ddede52d64392f6a1c74f2af90566b]{
 -- Page 136, Offset 40644.
 -- まるで稲穂を刈り取る工作機のようだ、と彼女はひとり、口元をつり上げた。
-A faint smile tugs at the corner of her mouth.
- It feels like she's running a combine harvester through a ripe field of wheat.
+The resemblance it bears to a combine harvester running through a ripe field of wheat amuses her,
+ and a faint smile begins to tug at the corner of her mouth.
 }
 [sha:aa0c3c84a876b8a8650773702f6f24061e021b61]{
 -- Page 137, Offset 40645. Mods: @n.
 -- 『“ずいぶん拡げちゃったけど、まあ、
+%{i}
 "It's spread a lot further than I expected, but, well...
+%{/i}
 }
 [sha:9d903bff3952124d16bcae861987ba6508d3a552]{
 -- Page 137, Offset 40646.
 -- 今の私なら問題ないか。
-That isn't really %{i}my%{/i} problem, is it.
+%{i}
+That isn't really %{/i}my%{i} problem, is it?
+%{/i}
 }
 [sha:6398c5645d07de842211a273b7086a84fc990883]{
 -- Page 137, Offset 40647.
 -- 学校まで、あと―――たった<数歩|これだけ>だし”』
+%{i}
 Besides... I'm only a few steps away from the school now."
+%{/i}
 }
 [sha:594035cd91ff9a8125ae4a8f1015287391d73bc1]{
 -- Page 138, Offset 40648.
@@ -59,72 +68,80 @@ The Luminary is not the same Arcueid that he once knew―――
 [sha:78ae5e90fb506b2989c712f1314204c6284906df]{
 -- Page 138, Offset 40650.
 -- 光体になった彼女もまた、もう以前のように彼を感じる事はなくなったからだ。
-Similarly, after becoming the Luminary,
+Similarly, after becoming a Luminary,
  her feelings for him are not what they once were.
 }
 [sha:db6a63cd4bd5c5370c3c8c7934f7ce634570a0d1]{
 -- Page 138, Offset 40651.
 -- そうでなくては、いけない筈だからだ。
-After all, it would be unacceptable for it to be any other way.
+That's simply the way it has to be.
 }
 [sha:f8b04e19da8825b1dc2ad14407cc9041e3fe2fba]{
 -- Page 139, Offset 40652.
 -- 『“―――そう。
-"Yeah―――
+%{i}
+"Exactly―――
+%{/i}
 }
 [sha:71a958af85165e4739ac8835ae469d4ac851158e]{
 -- Page 139, Offset 40653.
 -- 意識なんかしてやらない。
-I'm not going to pay any attention to him.
+%{i}
+I'm not going to pay him any attention.
+%{/i}
 }
 [sha:666ca076c1acc1e04d8946bb21f95fb5a9b2e04c]{
 -- Page 139, Offset 40654.
 -- 最後まで、気づいてさえあげない”』
-// 'up until the end' always sounds unclear on whether you _do_ at the end imo
-No matter what happens... I won't even acknowledge his existence."
+%{i}
+I'm never even going to acknowledge he's there."
+%{/i}
 }
 [sha:763b8e66b3a861e57e3a8ab870c9ddd75febb1ce]{
 -- Page 140, Offset 40655.
 -- それが彼女の、最低限の<意|プ><思|ラ><表|イ><示|ド>だった。
-That was the one thing her pride would never allow.
+That was the bare minimum that her pride would allow.
 }
 [sha:6aaca2a76c1e5e579a4e390cc9f52c66ea9dc6c3]{
 -- Page 140, Offset 40656.
 -- 彼女が“敵”として捉えるのはシエルだけ。
-Ciel is the only person she sees as an 'enemy'.
+Ciel was the only person she had seen as her enemy.
 }
 [sha:57c3e24675721ba2452d2ecabd5ebd862297c980]{
 -- Page 140, Offset 40657.
 -- あんな、平凡で、大人しくて、魔眼の事は例外として、半分吸血鬼になってもさしたる脅威のない男なんて、どうでもいい。
-She doesn't care at all about that meek, mediocre man.
+She didn't care at all about that meek, mediocre man.
  His Mystic Eyes are the only special thing about him,
  and even after turning into a half-vampire,
- he still doesn't pose any kind of threat to her.
+ he still posed no threat to her whatsoever.
+ He meant nothing to her.
 }
 [sha:1b9c34fbc8303726abe573aedbcf2d97d91c2c42]{
 -- Page 141, Offset 40658.
 -- どうでもいいモノだから振り返る事さえしない。
-He means nothing to her, so why should she even turn to look at him?
+He meant nothing to her, so why should she even turn look at him?
 }
 [sha:9cfc5588620365ab43ac494afd50201f74321435]{
 -- Page 141, Offset 40659.
 -- もう二度とあんな風に話しかける事はない。
-She'll never speak with him like she used to again.
+He'd never talk to her the way he used to ever again.
 }
 [sha:3c024bcb18c136bc32fda2bd7f648b73251879ef]{
 -- Page 141, Offset 40660.
 -- なのに、
 And yet―――
 }
-[sha:55ca8a59d656dc90e1a55bf75a96aee20441c3dc]{
+[offset:40661]{
 -- Page 142, Offset 40661.
 -- 『“――――――”』
-"――――――"
+%{i}
+"Tch!"
+%{/i}
 }
 [sha:7d3000b25f0dcedce6b03be9f3d881c77ec1bd4b]{
 -- Page 142, Offset 40662.
 -- ずっと、ずっと言葉を求めていた。
-She's wanted to hear those words for a long, long time.
+She had wanted to hear him speak for so long now.
 }
 [sha:23c6a4a9a5f335881e48fdf9f9750ea06e334a1c]{
 -- Page 142, Offset 40663.
@@ -140,12 +157,14 @@ I hate him.
 [sha:6befd57995b18d89fd3164112e46a57507ce3023]{
 -- Page 143, Offset 40664.
 -- なのに、楽しくて悲しかった。
-And yet... it's both happy and sad.
+// Reflecting 40318
+And yet, she'd had so much fun that it was sad.
 }
 [sha:e0a9b42ac7557fa8ae4433ab50c4a934c6d06a35]{
 -- Page 143, Offset 40665.
 -- 嬉しくて怯えていた。
-She's both delighted and terrified.
+// Reflecting 40319
+She'd been so happy that it was terrifying.
 }
 [sha:a407fde5b4a8d13ad076cb64211e4da7dacbc2af]{
 -- Page 143, Offset 40666.
@@ -157,13 +176,13 @@ these mutually exclusive logic errors―――
 -- Page 143, Offset 40667.
 -- もっと、もっと、彼に構って欲しいと告げていた。
 // Counterpoint to offset 40321
-Urges her to keep going, to care about him more and more.
+They urged her to keep going, to care about him more and more.
 }
 [sha:38b8e25c4707f46af48f73d1d38316c5a6d80446]{
 -- Page 144, Offset 40668.
 -- けれど、伝わってくる声はシエルへの想いと、自分への悪態ばかり。
-But the only things she senses from his thoughts are his feelings for Ciel,
- and his derision toward her.
+But the only things she sensed from his thoughts were his feelings for Ciel,
+ and his scathing remarks directed at her.
 }
 [sha:4b72e1937ec74e8e376cad883d4c4f3e670ec99b]{
 -- Page 144, Offset 40669.
@@ -171,99 +190,109 @@ But the only things she senses from his thoughts are his feelings for Ciel,
 // デタラメ - 39892 (Defied common sense)
 // デカブツ - 39802 (Goliath)
 // ランドマーク - couple places
-He said that she defied common sense,
- he called her a Goliath...
- he even referred to her as a landmark, of all things.
+He said that she defied common sense――that she was a Goliath.
+ He even called her as a landmark, of all things!
 }
 [sha:c3e968791bec3bf8137a45680adb7c8998949a83]{
 -- Page 144, Offset 40670.
 -- これでは冷静でいられる方がおかしいというものだ。
-Who could expect her to keep her composure after all that?
+Who would be able to keep their composure after all that?
 }
 [sha:401409e5de8ef015979432fa7a9c16f51e8101fe]{
 -- Page 145, Offset 40671.
 -- 『“なによ。なによ。なによ―――！”』
-"Why? Why? Why―――?!"
+%{i}
+"Really? Really? %{/i}Really%{i}?!"
+%{/i}
 }
 [sha:096a8f9b1fcfe44e7189e33a63f58e2d77cd5f76]{
 -- Page 145, Offset 40672.
 -- それでも、先ほどまでなら、彼女は我慢できていた。
-But even so... if that were all, she could have let it pass.
+But she could put up with all of it.
+ Or, she had.
 }
 [sha:c4895ab2996b75e927b4930d61df1ccc3555bab2]{
 -- Page 145, Offset 40673.
 -- 冷静さを欠いてはいたものの、理性的でいられたのだ。
-She had lost her composure, but she had not lost her rationality.
+She might have lost her composure, but not her wits.
 }
 [sha:6aaf739a821377330f797788d62e8d93642ba4d7]{
 -- Page 146, Offset 40674.
 -- 『“だって。あんなコト、するんだもん―――”』
-"I mean, he even did something like that―――"
+%{i}
+"I mean, he even tried %{/i}that%{i}, didn't he?"
+%{/i}
 }
 [sha:f2b50127bb12b4ca9345bd8dddc8c0b288010d7a]{
 -- Page 146, Offset 40675.
 -- ソレが自分の足元から逃れ、根の中に隠れている時はまだ余裕があった。
-There had still been a chance back when he escaped from her and hid himself among the tangle of roots.
+She was still completely in control when he escaped from her and hid himself among the tangle of roots.
 }
 [sha:376a19f43a21c52402b623d7dbeceb018f8a6fa7]{
 -- Page 146, Offset 40676.
 -- 無駄なあがき、意味のない時間稼ぎだと考えた。
-She'd thought he was just struggling in vain,
+She'd thought he was just struggling in vain;
  needlessly wasting her time.
 }
 [sha:4783d41ba4aa13582266279af1e830c49937ef44]{
 -- Page 147, Offset 40677.
 -- しかし。その目的が『地脈殺し』だと判明した瞬間、彼女の全身に走ったものは戦慄と、喜びだった。
 However――
-as soon as she realized that his objective was to kill the veins that ran through the earth,
+as soon as she had realized that his objective was to kill the Earth's veins,
  a shiver of fear and joy ran through her body.
 }
 [sha:cfbd755c3fe5edb54deaa887d11dee345e2edc48]{
 -- Page 148, Offset 40678.
 -- 『“さっすが、わたしの殺人鬼……！”』
-"Oh, you really are my lovely little murderer!"
+%{i}
+"%{/i}That's%{i} my lovely little murderer!"
+%{/i}
 }
 [sha:35ad8a62122b6b3170f639bc0078026b76dc5f9f]{
 -- Page 148, Offset 40679.
 -- その喜びだけで、決して、してはならない事をしてしまった。
-But that happiness made her do something she should never have done.
+That happiness was all it had taken for her to do something completely and utterly unacceptable.
 }
 [sha:dfdfbc8c24bd8a25b9d8ea84111333343d030214]{
 -- Page 148, Offset 40680.
 -- 光体での事象収納―――ではない。
-That taboo was not performing Event Storage as the Luminary―――
+And that doesn't refer to her Event Storage as a Luminary―――
 }
 [sha:75c16c9b59380cc1cd9ab088cb4ca137d0f776bf]{
 -- Page 148, Offset 40681.
 -- 今まで無視していた筈の、これからも無視する筈のソレを、全力で追撃してしまった事だ。
-It was in chasing after him as fast as she could,
- even though she had ignored him thus far――even though she should have %{i}continued%{/i} to ignore him.
+But to the fact that, even though she had ignored him for so long――
+even though she should have %{i}continued%{/i} to ignore him――
+she instead began hunting him with every means at her disposal.
 }
 [sha:f810320704b23b1dee9c3d71b32fb97d6671e23d]{
 -- Page 149, Offset 40682.
 -- 『“<志|そ><貴|こ>、<志|そ><貴|こ>、<志|そ><貴|こ>―――！”』
+%{i}
 "There he is, there he is, there he is―――!"
+%{/i}
 }
 [sha:4c56bbd9e116c81cb2345dc19df0536176e7049a]{
 -- Page 149, Offset 40683.
 -- 意識さえしない、と決めた相手に、あんなに夢中になってしまった。
-She'd ended up becoming obsessed with the opponent she'd sworn not to pay attention to.
+She'd become obsessed with the very person she'd sworn not to pay attention to.
 }
 [sha:7a9efa371d9141186a8c865c9efd14b8e5423b23]{
 -- Page 149, Offset 40684.
 -- <惑|ほ><星|し>の触覚として反省する他ない。
-As the planet's sense of touch,
- she can only look back on it with regret.
+As the planet's sense of touch, she should have been ashamed.
 }
 [sha:994eee03a5a25cd186ffb5d95bcf5e9834df052d]{
 -- Page 150, Offset 40685.
 -- 『“でも―――”』
+%{i}
 "But―――"
+%{/i}
 }
 [sha:7f3588dc89542e9549b29904b1e60cd02b600194]{
 -- Page 150, Offset 40686.
 -- その喜びも、次の瞬間には消え去った。
-For that joy had disappeared mere moments later.
+―――That happiness had disappeared mere moments later.
 }
 [sha:e56754e2538c0412db6d3c822fca541ae6bea25a]{
 -- Page 150, Offset 40687.
@@ -273,7 +302,7 @@ It was the very definition of an emotional roller coaster.
 [sha:63915855401a21a6858d691eb2d30b1c5dc58f1d]{
 -- Page 150, Offset 40688.
 -- 彼女はソレから全てを奪った。
-She'd stolen everything from him.
+She had stolen everything from him.
 }
 [sha:4b339b4aa533626f44da2a8ffc64e9f608f3af8e]{
 -- Page 150, Offset 40689.
@@ -288,21 +317,23 @@ She had literally held them all in the palm of her hand.
 [sha:226fda80c3ff6623b75a0ae1ed9833a5c0303f60]{
 -- Page 151, Offset 40691.
 -- 『“シエル、シエル、シエル―――！”』
-"Ciel, Ciel, Ciel―――!"
+%{i}
+"Ciel... Ciel! %{/i}Ciel%{i}―――!"
+%{/i}
 }
 [sha:5b0b82abf6047d45d4cd9d3fdb0f765401fe6826]{
 -- Page 151, Offset 40692.
 -- 束の間の喜びは火のような感情に置き換わった。
-Her fleeting happiness gave way to a fire that burned within her.
+Her fleeting happiness had given way to a blazing fury.
 }
 [sha:cfd165102ebef39a021e66b5073a3c83dda5fe74]{
 -- Page 151, Offset 40693.
 -- にくたらしい。にくたらしい。にくたらしい。
 // First-person thought
 %{i}
-How dare he.
- How dare he.
- How dare he.
+He's awful.
+ He's so awful.
+ He's so %{/i}awful%{i}!
 %{/i}
 }
 [sha:3c7f5c4c46340f41b41715cfbfef6d4399d75e20]{
@@ -310,9 +341,9 @@ How dare he.
 -- うらやましい。うらやましい。うらやましい……！
 // First-person thought
 %{i}
-I'm so jealous.
+I'm jealous.
  I'm so jealous.
- I'm so jealous!
+ I'm so %{/i}jealous%{i}!
 %{/i}
 }
 [sha:b9d9878915befb58e19758d936b92a3237f63ab7]{
@@ -341,18 +372,18 @@ I'll go trample Roa's den,
 -- Page 153, Offset 40698.
 -- その感情が、最後の制限を外してしまった。
 // Assuming restraint is no legs
-Those emotions free her of the last restraint she still had.
+Those emotions freed her of the last restraints she still had.
 }
 [sha:e84d37f45da77d5b101061a309a3b365dc56de5e]{
 -- Page 153, Offset 40699.
 -- 彼女は自身の感情を止められない。
-She can't stop her feelings from running wild anymore.
+She could no longer stop her feelings from running wild.
 }
 [sha:891707ccd6560344f1ba57af96787976408e2b67]{
 -- Page 153, Offset 40700.
 -- それは不可能はない、という生命故の、当然の在り方だった。
-As a being to whom nothing is impossible,
- it came perfectly naturally.
+It had come perfectly naturally to her.
+ After all, she is a being to whom nothing is impossible.
 }
 [sha:2f889bef4c1fa232a88be9e2ef03f55821be2b30]{
 -- Page 154, Offset 40701.
@@ -362,8 +393,8 @@ She is different from humans.
 [sha:c1d4ff8a30c78bfdaebf2940625807982c612e48]{
 -- Page 154, Offset 40702.
 -- 人間的でありながら、人間の持つ自制という機能がない。
-Although she has human-like qualities,
- she lacks the ability for self-restraint.
+For however human she may be,
+ she lacks their ability for self-restraint.
 }
 [sha:d1ab177b8d3e13e71ff6cf54a34a0d8145278561]{
 -- Page 154, Offset 40703.
@@ -373,7 +404,7 @@ She acts on all of her ideas without so much as a second thought.
 [sha:29fcfe89bb98b251c6fb724fa33937117710ccce]{
 -- Page 155, Offset 40704.
 -- わずかな反感や思いつき、悪戯、冗談。
-No matter how small the petty animosity, plan, prank, or joke―――
+Whatever petty dislike, whim, prank, or joke it may be―――
 }
 [sha:d390639e40e3d3b284699c903b54a36d86f3d85f]{
 -- Page 155, Offset 40705.
@@ -383,24 +414,28 @@ Her body will execute each and every one.
 [sha:e3328c4561359e562ad92d03ef6ece3a344a7d73]{
 -- Page 155, Offset 40706.
 -- 彼へのじゃれ合いも。シエルへの八つ当たりも。
-Even it it's just going to play around with him,
- or taking out her anger on Ciel.
+Even if it's just messing around with Shiki.
+ Even if it's taking out her anger on Ciel.
 }
 [sha:6a242fc4e08a340fb1b4b11ea89cb1b4b58dd509]{
 -- Page 155, Offset 40707.
 -- そして、光体のまま<自分|アルクェイド>になる、という、許されない暴虐も。
 Even if it's something utterly unforgivable――
-like turning into Arcueid while still in the form of a Luminary.
+like turning back into herself while still in the form of a Luminary.
 }
 [sha:233731390867d4b598351ee4a4358af6fb94f0f8]{
 -- Page 156, Offset 40708. Mods: @n.
 -- 『“ああ―――そっか。
-"Ah... I see.
+%{i}
+"Oh... I see.
+%{/i}
 }
 [sha:57489ca05d85e06ddffcb96ae4afe93e6da9eff8]{
 -- Page 156, Offset 40709.
 -- 結局、わたしを抑えられなかったんだ”』
+%{i}
 In the end, I wasn't able to hold myself back."
+%{/i}
 }
 [sha:5369eed923c0407ff099f8c1dc8d16cac4f5a406]{
 -- Page 157, Offset 40710.
@@ -421,7 +456,7 @@ Begins to transform into something else entirely.
 [sha:660a4df91aeaf28cbc0ed28ff4ebe8a40e5a5f8e]{
 -- Page 158, Offset 40713.
 -- それは地上では許されない現象だ。
-It is a phenomenon that cannot be allowed to occur.
+It is a phenomenon that must never occur on the surface of earth.
 }
 [sha:894604c7fadfb1a0f6cf08b198c3b5920438bea1]{
 -- Page 158, Offset 40714.
@@ -433,20 +468,22 @@ If she were to have nerves,
 -- Page 158, Offset 40715.
 -- 肉を持てば痛みが出来る。
 If she were to have flesh,
- it could feel pain.
+ it would feel pain.
 }
 [sha:e823e6911e1ec02ef9397c77b860a79ee29b14c3]{
 -- Page 158, Offset 40716.
 -- 血が通えば、命の定義が発生する。
 // Bacteria don't count as alive anymore, sorry it's the rules
-If her blood were to flow,
+If she were to have blood,
  she would be %{i}alive%{/i}.
 }
 [sha:485555c7f6fea8f91d2fc7b1b21d715ac149a81d]{
 -- Page 159, Offset 40717.
 -- 『“いた……どんどん、いたく、なってきた”』
-"%{i}Ow%{/i}...
+%{i}
+"%{/i}Ow%{i}...
  It's... starting to hurt."
+%{/i}
 }
 [sha:60f0235fc5d62d9786cbfb9c666a18a6453bb658]{
 -- Page 159, Offset 40718.
@@ -462,7 +499,9 @@ Even though this is an isolated space created by her Marble Phantasm,
 [sha:959ded9fc8f90dbaf858e8aaf5b0149e857cdddf]{
 -- Page 160, Offset 40720.
 -- 『“いけない。いけない、いけない―――！”』
-"I can't. I can't. I can't―――!"
+%{i}
+"Stop. Stop. %{/i}Stop it%{i}!"
+%{/i}
 }
 [sha:a32e8462360780ef40e43085fce0820e17c988ba]{
 -- Page 160, Offset 40721.
@@ -472,14 +511,12 @@ But she can't stop.
 [sha:8fe1d1285b6bc53c3f778ce7b614a2bfd37318ff]{
 -- Page 160, Offset 40722.
 -- 動き出してしまった以上、彼女は自分を止められない。
-Now that she's started moving,
- she cannot stop herself.
+Not after she's already started moving.
 }
 [sha:907fedf3ac22d2929e0fb80d116657495bf1e614]{
 -- Page 161, Offset 40723.
 -- 自分では止められない。止める機能がない。
-She can't stop on her own.
- She has no function that allows for it.
+At least not on her own――she doesn't have the capacity to do so.
 }
 [sha:5daea921f350899bdc6febae5dc40db3011cee39]{
 -- Page 161, Offset 40724.
@@ -489,44 +526,54 @@ She begs for someone to stop her, and then―――
 [sha:4303e8f0b305daf252ab50ff8a01d09d8422432b]{
 -- Page 162, Offset 40725.
 -- 『“―――志貴”』
-"―――Shiki."
+%{i}
+"Shiki..."
+%{/i}
 }
 [sha:8487036f451e3479400508763a672bb9a831fb00]{
 -- Page 162, Offset 40726.
 -- もう口にするまいと決めていた、その名前を口にした。
-She says the one name she'd vowed to never speak again.
+She says the one name she had vowed to never speak again.
 }
 [sha:ba23decc22bb612137b04bbe7362e6ceb75de4c7]{
 -- Page 163, Offset 40727.
 -- 『“志貴がいい。志貴じゃないとイヤ。
-"I want Shiki to do it. I don't want it to be anyone else.
+%{i}
+"It has to be Shiki. No one else will do.
+%{/i}
 }
 [sha:0d78430f22b0fe01296915bef29aebc7b1db6a36]{
 -- Page 163, Offset 40728.
 -- 志貴にわたしを止めてほしい。
+%{i}
 I want Shiki to stop me.
+%{/i}
 }
 [sha:979ce70a65d5cf3bd5b0842c2cde4a35ab338d55]{
 -- Page 163, Offset 40729.
 -- だめ。
-No.
+%{i}
+No...
+%{/i}
 }
 [sha:be8d3a66e12f64ec606128fe434a4d4f57bced3b]{
 -- Page 163, Offset 40730.
 -- 志貴にだけは、わたしを止めてほしくない―――”』
-Shiki is the one person I %{i}don't%{/i} want to stop me―――"
+%{i}
+Shiki is the one person I %{/i}don't%{i} want to stop me."
+%{/i}
 }
 [sha:0b050f8dca8e8e354d1a7c1620f4b48d92504273]{
 -- Page 164, Offset 40731.
 -- ずっと意識していた。ずっと嬉しかった。
-She'd been conscious of it all along.
- She'd been happy all along.
+She had been aware of him the whole time.
+ She had been happy about it too.
 }
 [sha:bcbbbfcf63f87a7819fd410b9ac1fa696b2970d1]{
 -- Page 164, Offset 40732.
 -- シエルを助ける為とはいえ、自分を思ってくれる事が嬉しかった。
 Even though he'd come here to rescue Ciel,
- she'd been happy that he'd thought of her.
+ she had been happy that he'd thought of her.
 }
 [sha:b1d28d981ee3ba8baa69eb157b57ef26fc81fcaf]{
 -- Page 165, Offset 40733.
@@ -536,8 +583,8 @@ Besides, she could tell what was in his heart better than even he could.
 [sha:7c21b5809dbafa8eb0f669fafd2686514bddf838]{
 -- Page 165, Offset 40734.
 -- ―――殺意はあっても敵意を持ってはいなかった。
-―――Even though he came here to kill,
- he didn't harbor any hostility.
+―――Even though he intended to kill her,
+ he wasn't doing it out of animosity.
 }
 [sha:7ee946777c29173c4bfca01143ffb73571e100e2]{
 -- Page 165, Offset 40735.
@@ -548,8 +595,8 @@ Besides, she could tell what was in his heart better than even he could.
 [sha:a5f1e4a6e13b6792024d5fb45133657f2c4168dd]{
 -- Page 165, Offset 40736.
 -- 彼は最後まで彼女の知る、怖くておかしくて、特別な相手だったのだ。
-He was the same strange, frightening, and yet special opponent she'd always known,
- right to the very end.
+Even under these circumstances,
+ he had remained the same strange, frightening, and yet special person she had always known.
 }
 [sha:55ca8a59d656dc90e1a55bf75a96aee20441c3dc]{
 -- Page 166, Offset 40737.
@@ -559,7 +606,7 @@ He was the same strange, frightening, and yet special opponent she'd always know
 [sha:d30b38008906f0ae6c5b33af6a74a49fe3db1860]{
 -- Page 166, Offset 40738.
 -- でもこれで本当に終わり。
-But with this, it truly is the end.
+But that, too, ends here.
 }
 [sha:102eb90fdfa564cbc3dc6538a8fbede71cb97fb4]{
 -- Page 166, Offset 40739.
@@ -570,12 +617,16 @@ Now that he's seen her like this,
 [sha:57c25de175ee0c8879057dcbe6dce211342d47b5]{
 -- Page 167, Offset 40740.
 -- 『“もう手遅れ。
+%{i}
 "It's too late.
+%{/i}
 }
 [sha:dd38d875f515ea2a25b35e615d6e92810ad5f496]{
 -- Page 167, Offset 40741.
 -- ―――何もかも、手遅れなんだ”』
-It's too late for anything, now."
+%{i}
+There's no saving me anymore."
+%{/i}
 }
 [sha:6ed87fe6ece1aa4dbaf198d3a053eab284142659]{
 -- Page 168, Offset 40742.
@@ -586,12 +637,12 @@ She'll vanish.
 [sha:03c6c6646c006d61d903836d2fb0258c373ecb81]{
 -- Page 168, Offset 40743.
 -- アルクェイド・ブリュンスタッドという意識が消える。
-The consciousness known as Arcueid Brunestud will vanish.
+Arcueid Brunestud's individuality will disappear.
 }
 [sha:ba8cfe0c4da8d72e4c5f7c35eda07a9acf3f3d89]{
 -- Page 168, Offset 40744.
 -- どうでもいい。
-But it doesn't matter.
+But what does it matter?
 }
 [sha:db898a47e3f522b62240f3773722677f383b52c6]{
 -- Page 168, Offset 40745.
@@ -602,15 +653,15 @@ She's almost there now.
 [sha:171fb5126d1854d8a5e9a1d1719c6f5b8640916e]{
 -- Page 168, Offset 40746.
 -- もう豪快に踏み潰してやるんだから、と強がりを口にする。
-She tells herself that she's going to absolutely trample it when she gets there.
+The boastful declaration she made about trampling the school was mere bravado.
 }
 [sha:51401794c685b7d7b062206cac7d514f013065ea]{
 -- Page 169, Offset 40747.
 -- でもどうせなら。
-But if she was going to vanish either way...
+If she was going to vanish either way―――
 }
 [sha:1f8f1722bad485792a0c2f1b13a6e91bb33986b3]{
 -- Page 169, Offset 40748.
 -- あの時、志貴に拒絶された時に、消えてしまえればよかったのに、と彼女は思った。
-She wished she could have vanished the moment Shiki had rejected her instead.
+Then she would rather have vanished the moment Shiki had rejected her instead.
 }
