@@ -1,32 +1,37 @@
 [sha:360ca654b08868154be9aaf68352381c2b5a56a1]{
 -- Page 10002, Offset 40368.
 -- のたうつ大蛇のような根の<草群|くさむら>を這い、走る。
-I crawl and run through the thicket of roots like a writhing serpent.
+I half-run, half-crawl through the serpentine jungle of roots.
 }
 [sha:b338e865957844247770f84013a4bf03550c879e]{
 -- Page 10002, Offset 40369.
 -- 酸素不足で指先が痺れ、体を運ぶ左手が動かなくなってきた。
-My fingers are numb from the lack of oxygen, and my left hand carrying my body stops working.
+// Not 100% sure what he's trying to say with this 体を運ぶ左手 business
+My fingertips have started to go numb from a lack of oxygen,
+ and I've lost the use of my left hand after using it to haul myself around.
 }
 [sha:560e76fc0d60fb34a007ed4db6ec6b4a5e84fb14]{
 -- Page 42, Offset 40370.
 -- 死の線が収束している。
-The lines of death are converging.
+The lines of death are beginning to converge.
 }
 [sha:b9efb59e8327a1c3235380373c7d51f6d8bae9ef]{
 -- Page 42, Offset 40371.
 -- ならこのあたり……この付近にある筈だ。
-...That means it should be around this area.
+Which means this must be the place...
+ it has to be around here somewhere.
 }
 [sha:f29dea112a33b9966e405acbc6621820af522791]{
 -- Page 42, Offset 40372.
 -- 一刻も早く、その地点に到達できれば―――
-If I can reach that point quickly―――
+The sooner I find that spot, the sooner I―――
 }
 [sha:ccf621a7779fc503f168f58be70dcf7a25c7323f]{
 -- Page 43, Offset 40373.
 -- 「“私には、殺しても死なない玩具があるものね”」
-"I still have an unkillable toy with me right here."
+%{i}
+"I still have my unkillable toy with me right here, don't I?"
+%{/i}
 }
 [sha:613e16e0666b0d9f393faa2bd41df883dd78d786]{
 -- Page 43, Offset 40374.
@@ -36,77 +41,98 @@ If I can reach that point quickly―――
 [sha:02625dd71d2cd2c4929e16ca03aef459f5a66d7d]{
 -- Page 43, Offset 40375.
 -- ……くそ、酸素不足の前に怒りで意識が飛びそうだ。
-...Shit. Its feels like my rage will make me lose consciousness before the lack of oxygen.
+Shit... my anger's going to knock me unconscious before my lack of oxygen can.
 }
 [sha:cc0c376fd06913146fb8cd2e23a933dcb5834ada]{
 -- Page 44, Offset 40376.
 -- これみよがしな独り言。
-A flaunting monologue.
+She's just smugly talking to herself.
 }
 [sha:2f39fdbda78042b38b944bfaf8462c526a8ea281]{
 -- Page 44, Offset 40377.
 -- 俺をあぶり出す為、ですらない。
-It wasn't even done in order to make me reveal myself.
+It wasn't even meant to try and lure me out.
 }
 [sha:a4a275ec31eb11fe157513eb6febf5b3c94b5c59]{
 -- Page 44, Offset 40378.
 -- あいつは、ただ嫌がらせの為だけに、
-That woman simply said that out of hate.
+// Cont. 40381 I assume
+All she's doing is harassing her―――
 }
 [sha:4dbee35f66fea167166a19b980dae8b1e720b65d]{
 -- Page 45, Offset 40379. Mods: @n.
 -- 「“しぶといなあ。やっぱりロア本人を殺さないと
-"How tough. It seems that you won't die
+%{i}
+"Well aren't you tenacious.
+%{/i}
 }
 [sha:70be1788acf474edc917411de25ccea50875ef84]{
 -- Page 45, Offset 40380.
 -- 貴女は死なないみたいね、シエル”」
-unless I kill Roa himself. Isn't that right, Ciel?"
+%{i}
+I guess you really can't die unless Roa does, can you, Ciel?"
+%{/i}
 }
 [sha:f55dedb78726cf941660364aedea16ddb0d81eac]{
 -- Page 45, Offset 40381.
 -- 先輩を、暇つぶしに潰しやがった……！
-She's crushing Senpai just to kill time...!
+// Mirroring the double-潰す here too
+She's just killing Senpai to kill some time!
 }
 [sha:60331fea176b914fb8ec8773e04b248b8563ee77]{
 -- Page 46, Offset 40382.
 -- 俺が憎いなら俺を殺せばいい。
-If she hate mes, then she should have just killed me instead.
+If she hates me that much she should just kill me already.
 }
 [sha:7624dac820fa19c2d4b37d0702b67f26c9d70e2c]{
 -- Page 46, Offset 40383.
 -- あの竜巻でこの根っこごとフッ飛ばせばいい。
-She could have just used that tornado to blow me away along with these roots.
+She could easily use one of those tornadoes to just blow me away along with all these roots.
 }
 [sha:331796b5987924ae479561745d8f7b0acc82dc1e]{
 -- Page 46, Offset 40384.
 -- なのにこっちにはまるで関心がない素振りで、
-Despite that, she decided to toy with the one I hold the most dear
+But instead, she acts like she doesn't care about me at all―――
 }
 [sha:ef9aec00bcc19b4f9f2f56105f69e89c1189716d]{
 -- Page 46, Offset 40385.
 -- 遠回しに、俺の一番大事なものを弄びやがって……！
-like she have no concern about me whatsoever...!
+Even as she toys with the person who's most important to me!
 }
 [sha:c6e1ba41eb3ab646e62499cb7f747b7581b4aac2]{
 -- Page 47, Offset 40386.
 -- 「“そう。かわいそうね。貴女の望みは叶えられない。
-"I see. How pitiful. Your wish will never be granted.
+// Same as 37995. but luminary quotes
+%{i}
+"Alright.
+ Poor you, then.
+ Your wish will never be granted.
+%{/i}
 }
 [sha:89ad3dcca39139cdbe27f69c57051b139ed3ba70]{
 -- Page 47, Offset 40387.
 -- 私は今度こそロアを奪りこむ。
-This time, I will definitely take back Roa.
+// Same as 37996 but kanji 私
+%{i}
+This time, I %{/i}will%{i} absorb Roa.
+%{/i}
 }
 [sha:046f12473332ea910cb84c923aab13ae27ad4909]{
 -- Page 47, Offset 40388. Mods: @n.
 -- あの、何もできずに逃げ回るだけの肉塊を、
-And I'll tear apart that powerless piece of meat
+// Assuming Shiki
+// Commonality with 37997.
+%{i}
+By which I mean I'll tear apart that powerless sack of flesh running around
+%{/i}
 }
 [sha:63262904bd35ef6c528f050411de997b14f48bdd]{
 -- Page 47, Offset 40389.
 -- 何万回と引き裂いてね……！”」
-who's only good at running away a hundred times over...!"
+%{force_glue}
+%{i}
+ down there a hundred times over!"
+%{/i}
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 48, Offset 40390.
@@ -116,47 +142,52 @@ who's only good at running away a hundred times over...!"
 [sha:5ce63d9e4abc253691849ba377429d94fd65ea94]{
 -- Page 48, Offset 40391.
 -- 頭蓋と脊髄が透明化する感覚。
-The feeling of my skull and spinal cord turning clear.
+// Not really an expression, play on 透明感 though not a very good one.
+My skull and spine start to feel immaterial.
 }
 [sha:98c76d514829459cbea51f7b3c45bae1385a7a48]{
 -- Page 48, Offset 40392.
 -- <内蔵|なかみ>が裏返るような吐き気。
-Nausea like my contents are being turned inside-out.
+I'm so nauseous it feels like my intestines have been turned inside-out.
 }
 [sha:96543e97f1691f66ec926f9b1dbb31f852be846d]{
 -- Page 48, Offset 40393.
 -- 生きている、という感覚の喪失。
-The loss of what it feels like to live.
+I completely lose sense of what it means to feel alive.
 }
 [sha:c83b4a57ff76ef6518e84f8ad5080d13292f0b97]{
 -- Page 49, Offset 40394.
 -- 『おい。境界を越えているぞ』
+%{i}
 "Hey. You're crossing over the boundary."
+%{/i}
 }
 [sha:f9720aa189bf2df06695e9696466e74ea45b52c2]{
 -- Page 49, Offset 40395.
 -- 知らない。殺す。殺す。相手が何であれ、問答無用で殺してやる―――！
-I don't care. I'll kill her. I'll kill her. I don't care who she is, I'll kill her without mercy―――!
+I don't care.
+ She's dead.
+ I don't give a damn what she is, I'm going to fucking kill her!
 }
 [sha:b0a33407ae231ccf1aef6d3c5d6aa7f604c5d5b4]{
 -- Page 50, Offset 40396.
 -- 見ろ。
-Look.
+%{i}Look%{/i}.
 }
 [sha:540019b67ef57da6da2913efc6a9766621533352]{
 -- Page 50, Offset 40397.
 -- <ロア|おまえ>にかまっている時じゃない。
-This isn't the time to be concerned with Roa.
+I don't give a shit about Roa right now.
 }
 [sha:31821bd09b8f9c8db9903b91771c9de73f856c40]{
 -- Page 50, Offset 40398.
 -- もう、あれ以上、指一本だって先輩を傷つけさせない。
-I won't let her lay another finger on Senpai any more.
+I'm not going to let her lay another finger on Senpai.
 }
 [sha:b0a33407ae231ccf1aef6d3c5d6aa7f604c5d5b4]{
 -- Page 51, Offset 40399.
 -- 見ろ。
-Look.
+%{i}Look%{/i}.
 }
 [sha:fd59962a47b7c5ea2b743789833cb5f19ed595f7]{
 -- Page 51, Offset 40400.
@@ -166,107 +197,132 @@ Stare so hard that all the blood vessels in your brain risk burning out from the
 [sha:cbed8d5816b6ce9d7a465be0558634619c7fcdc5]{
 -- Page 51, Offset 40401.
 -- 視ろ。視ろ。視ろ。視ろ。
-Find it. Find it. Find it. Find it.
+Look. Look. Look. %{i}Look%{/i}.
 }
 [sha:ecdd88e1b38a492622cf3e220996fe1172b424c6]{
 -- Page 51, Offset 40402.
 -- 俺は手順を間違えていた。
-My order was wrong all along.
+// LintConsistency:38031
+I was going about it all wrong.
 }
 [sha:1aa19c5c976e180752af98c5bd7c4722e1420751]{
 -- Page 51, Offset 40403.
 -- 『殺す』のはこっちが先だったのだ。
-If I wanted to 'kill', then this is what I should have done first.
+If I want to 'kill',
+ then this is what comes first.
 }
 [sha:392c008413a9f7db031a98b592f47a87483d132e]{
 -- Page 52, Offset 40404.
 -- 「――――――ふううう」
-"――――――Hah."
+"―――%{i}Haaah%{/i}."
 }
 [sha:276b4ef5cc677d0055cd4456564928823f1aebbf]{
 -- Page 52, Offset 40405.
 -- そうだろうとも。
-Perhaps he's right.
+Maybe he's right.
 }
 [sha:435efa103ee58eb2d063104a8ffcce9e1f7fa5ef]{
 -- Page 52, Offset 40406.
 -- 生命の死。植物の死。空間の死さえ視えていても、
-The death of life. The death of plants. Even if I could see even the death of space itself,
+// LintConsistency:38020
+I can see the death of life.
+ I can see the death of minerals.
+ I can even see the death of emptiness.
 }
 [sha:a30279d182f1c1e3baa932705736ca54761f433c]{
 -- Page 52, Offset 40407.
 -- 光体に線は視えない。
-I can't see the lines on the Luminary.
+But I can't see a single line on the Luminary.
 }
 [sha:3c51c427421534119fac9747746baaf437204791]{
 -- Page 52, Offset 40408.
 -- あのアルクェイドには、まだ死の要因がない。
-That Arcueid still doesn't have a cause of death.
+// Similar to 38021 but context different enough to warrant change
+Arcueid still doesn't have a single damn cause of death.
 }
 [sha:8d05ae8d8e8024b7a99eeff934347b6f5f75e720]{
 -- Page 53, Offset 40409.
 -- 「“―――なにそれ、自殺する気？」
-"―――What's that? Are you planning on committing suicide?"
+%{i}
+"―――What now? Planning on committing suicide?"
+%{/i}
 }
 [sha:7715f34d6d186e42214c397cf40ed3095c27d289]{
 -- Page 54, Offset 40410.
 -- 見下しきった声がする。
-I hear a contemptuous voice.
+I hear a mocking voice.
 }
 [sha:5bcb98542c9e90c7d71d7f0b376d6e090ed8ddca]{
 -- Page 54, Offset 40411.
 -- いや違う。騙されるな。アレにそんな慢心はない。アレはいま、俺が危険だと感じたからこそ、あの赤い瞳を地上に向けた。
-No, that's wrong. Don't let her fool you. She doesn't have that much pride. She's turning her red eyes to the ground because she sensed that I was a threat.
+But I shouldn't let that fool me.
+ She doesn't have that kind of pride.
+ The only reason she's turned to look at me with those red eyes is because she's sensed that I'm a threat.
 }
 [sha:8434e0b9907e20682619601ac657b2ff4548f1a8]{
 -- Page 54, Offset 40412.
 -- 取るに足らない筈の、一匹の蟻に<意識|め>を引かれた。
-A single ant which should have been worthless drew the attention of her eyes.
+A solitary, insignificant little ant has drawn her attention.
 }
 [sha:c6f32df361811fe78205b81ddc75fbc7cdbe3b52]{
 -- Page 55, Offset 40413.
 -- だから急げ。俺はもう答えを知っている。
-That's why I must hurry. I already know the answer I'm looking for.
+So I have to hurry.
+ I already know what it is I'm looking for.
 }
 [sha:8c97b7947abb3b0620dc36d614c2174388f3caef]{
 -- Page 55, Offset 40414.
 -- たった数分前、この街に入った時に気がついている。
-A few minutes ago, I realized something when I entered this city.
+I realized it a few minutes ago, when I first entered this city.
 }
 [sha:8f40ac0faacb7a3071b0be563b365fffd3ed7883]{
 -- Page 56, Offset 40415.
 -- 「“―――いいわ。こっちの虫で遊ぶのは、後回し”」
-"―――Fine. I can play with this insect later."
+%{i}
+"―――Alright then. I'll save playing with this insect for later."
+%{/i}
 }
 [sha:091fc2d803c5cc181580e116056f1cc67cab0bdb]{
 -- Page 57, Offset 40416.
 -- 死徒のように他の生命から血を奪う必要もない。
-She doesn't need to steal blood from other life like a Dead Apostle would.
+She doesn't need to steal blood from living things like a Dead Apostle would.
 }
 [sha:2f18e250b91f85c7a9ac7e358492c8916799150a]{
 -- Page 57, Offset 40417.
 -- アレはただそこにいるだけで完璧な生命だと、前に誰かが言っていた。
-There was someone who once told me that by her simply being here, she would be considered a perfect lifeform.
+// Basically 38022 but without an explicit 自然界
+// As with that line, it's referencing OG Tsuki
+// Nausu needs to lay off the copy-paste
+// 問題は、彼らの吸血衝動に理由がない、という事なんです。
+// 理由がないから止めようがない。
+// 真祖という完璧な生命が内包した欠点。死に至る病、とでも言いましょうか。
+// とにかく彼らは自らの“血を吸いたい”という衝動を抑えて生きています。
+// LintConsistency:38022
+Someone once told me that so long as she exists within nature, she is a perfect lifeform.
 }
 [sha:2c25e585279cab4f96b7fea5f47dd767470f4fe8]{
 -- Page 57, Offset 40418.
 -- 自然の延長である真祖は、世界という地盤からいくらでも活力を引き上げられる。
-A True Ancestor, who is an extension of nature itself, can pull as much energy as they want from it.
+// LintConsistency:38023
+True Ancestors, who are extensions of nature itself, can draw as much energy as they want from the planet.
 }
 [sha:5b208145303a5630c5387e54ec7aed3a47395728]{
 -- Page 57, Offset 40419.
 -- だから死なない。限界というものがない。
-That's why she can't die. There's no limit for her.
+// Almost same as 38024 but missing middle sentence.
+And so, she can't die.
+ She has no limits.
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 58, Offset 40420.
 -- 「――――」
 "――――"
 }
-[sha:03fba19c19ab441a43df39ed93ac1063df02e956]{
+[offset:40421]{
 -- Page 58, Offset 40421.
 -- つまり。
-In other words―――
+// LintConsistency:38026
+But phrased the other way―――
 }
 [sha:9725e324ccef5a1c6f374aa5ef7d40610365abad]{
 -- Page 58, Offset 40422.
@@ -276,7 +332,7 @@ She's %{i}only%{/i} perfect so long as she exists within nature.
 [sha:f6d146437cb9cde5441b7bc744c2237bc6cd607c]{
 -- Page 59, Offset 40423.
 -- 「“？”」
-"?"
+"%{i}Hmm%{/i}?"
 }
 [sha:d4f8688217982344c41c00f7464a90e86921f10b]{
 -- Page 59, Offset 40424.
@@ -286,62 +342,72 @@ She can even read our minds.
 [sha:05fca7015f1bd203820b6708d79217b033f21f85]{
 -- Page 59, Offset 40425.
 -- 隠し事はできない。
-There's nothing I can hide.
+I can't hide anything from her.
 }
 [sha:c42c1208d17ef8b6b923bceae3622c83519a9db5]{
 -- Page 59, Offset 40426.
 -- だからここまで“明確に”考えないよう這ってきた。
-That's why I tried my best to avoid thinking 'clearly' while I was crawling.
+Knowing that, I'd tried to avoid thinking 'clearly' on my way here.
 }
 [sha:423e556fc576e3321d020d897dd9aa4ff3c52a30]{
 -- Page 60, Offset 40427.
 -- それも終わりだ。どのみち、もう“視て”しまったからには単語が浮かぶ。
-But even that has come to an end. In any case, the words 'Find it' had popped up in my mind.
+But I can't keep it up much longer.
+ Once I see it, I'm not going to be able to stop the word from popping into my mind.
 }
 [sha:158d5525ce2a049d087fed0914a57e0f20cf7ae7]{
 -- Page 60, Offset 40428.
 -- だが、まだあいつには伝わらない。俺の思考がその『切り札』を理解するまで、一秒のタイムラグがある。
-But it still hasn't dawned on her yet. Until she realizes that thought as being my 'trump card', there will be an entire second of time delay.
+But she won't immediately be able to glean what it is――
+there will be a one second delay before my mind processes that this is my trump card.
 }
 [sha:c211e04d30ddfe8078bc88742be2a14de675bcc6]{
 -- Page 61, Offset 40429.
 -- 「視えた―――！」
-"I found it―――!"
+"Found it―――!"
 }
 [sha:aed523f5f2b2d27e0eb19b7b765ae22e0558fccd]{
 -- Page 61, Offset 40430.
 -- 草の根から這いでる。
-Crawling out of the grassroots.
+I crawl out of the underbrush.
 }
 [sha:bedbd79dc2000597e65f1f2d9490ee456e9cb807]{
 -- Page 61, Offset 40431.
 -- 残った体力、血液、気力をすべて注ぎ込んで、全力であの“点”に走る。
-With all the remaining stamina, blood, and energy I have left, I run at full speed to that 'point'.
+With every last bit of stamina, blood, and energy left in me,
+ I run at full speed toward that 'point'.
 }
-[sha:783b92152d187f7ef60c1dda2d68c366412fcb4a]{
+[offset:40432]{
 -- Page 62, Offset 40432.
 -- 「“――――――”」
-"――――――"
+%{i}
+"Huh?!"
+%{/i}
 }
 [sha:c225556f683ebbe5b97113edcded8388daf089df]{
 -- Page 62, Offset 40433.
 -- 遥か頭上で、強大なものが息を呑む気配がした。
-High up in the sky, the powerful being gasps.
+I sense the powerful being far above me gasp.
 }
 [sha:5993d0cd670a04b25330fb33bce3655b0b62b83e]{
 -- Page 62, Offset 40434.
 -- 遅すぎる。到達まで１秒。ざまあみろ。そんなに膨れあがったから動きが遅いんだ。<信号|いしき>が<手足|まったん>に伝わるのに時間がかかりすぎる。
-It's too late. I have one second left until I reach it. With her being so inflated, her movements will be slow. Even if her signals are sent to her limbs, it would take too much time.
+But she's too late.
+ It'll take her a second to get here.
+ Serves her right.
+ She's so huge that she can't move quickly.
+ It takes too long for the signals to propagate from her brain to her limbs.
 }
 [sha:2550b06c4875185d5f752371b3c1e200c78576fc]{
 -- Page 63, Offset 40435.
 -- その１秒で辿り着く。
-I arrive during that one second.
+I will reach it before that second is up.
 }
 [sha:f4b31d75a6ef7bf1c48efd3468260feb765f3dd2]{
 -- Page 63, Offset 40436.
 -- この一端、この周囲だけでいい。
-I only have to reach its surroundings.
+I only had to get within range;
+ just this part of it is enough.
 }
 [sha:e0d611c888fbb425d922658e433887e0b5d4bfb3]{
 -- Page 63, Offset 40437.
@@ -361,7 +427,9 @@ However―――
 [sha:33cbff059fab4991287ff9df37a64fa2b894be53]{
 -- Page 64, Offset 40440.
 -- その要因をなくしているものを先に“殺して”しまえば、コイツの完全性は失われる―――！
-If I 'kill' the thing that removes those causes first, then she'll lose her perfect status along with it―――!
+// LintConsistency:38034
+If I 'kill' the thing that nullifies those causes of death,
+ then she will no longer be a perfect being―――!
 }
 [sha:a843d7764aa4152eedffa7f0b7a5f2b790005d97]{
 -- Page 65, Offset 40441.
@@ -371,35 +439,42 @@ I reach the conspicuously large point.
 [sha:607905aec8170e918ebe4ea1d7c84ccaa15a3cf9]{
 -- Page 65, Offset 40442.
 -- 今度こそ俺の勝ちだ。
-This time, I win.
+// Spiritually similar to 38060
+Finally, I'm going to get one over on her.
 }
 [sha:256b83f0955f98f7b776f24d67e6f89f15b77f8a]{
 -- Page 66, Offset 40443.
 -- 「“――――――ああ”」
-"――――――Aah."
+%{i}
+"Ah―――"
+%{/i}
 }
 [sha:be199b5d2412680e12820ac43adcc51fa8df3686]{
 -- Page 66, Offset 40444.
 -- 眼球が燃える。振り上げた右手が軋む。
-My eyeballs burn. My overhead right hand creaks.
+My eyes are on fire.
+ My raised right hand groans from the stress.
 }
 [sha:c77092b01144a355991fb121af79067d5266dc87]{
 -- Page 66, Offset 40445.
 -- 地脈の命とも言える“点”。
-The 'point' that marks the life of the earth line.
+This 'point' represents the life running through the Earth's veins.
 }
 [sha:f1791bc949da02d7743c8362cf63d3ca0c34d9bd]{
 -- Page 66, Offset 40446.
 -- この一帯の世界そのものの『死』に、俺はナイフを、
-I plunge the knife into the 'death' of this very world...
+I angle my knife toward the 'death' of the world around me―――
 }
 [sha:bdc7c9c2f1a5cadf5eb3db9fe0c27df0126517dc]{
 -- Page 66, Offset 40447.
 -- 「“―――そういうこと？”」
-"―――Is that what this is about?"
+%{i}
+"―――%{/i}That's%{i} your plan?"
+%{/i}
 }
 [sha:79cc910686ffb6258e7372b6132190e27f98440a]{
 -- Page 67, Offset 40448.
 -- ―――ナイフは、宙を、切った。
-―――The knife cuts through space.
+// Feels like a spiritual continuation of 40446, but new page, so kept as a standalone sentence
+My knife slices through empty space.
 }
