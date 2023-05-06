@@ -26,34 +26,7 @@ class ScriptCommand:
         return "_%s(%s);" % (self.opcode, ','.join(self.arguments or []))
 
 
-def load_timing(filename):
-    audio_timing = {}
-    with open(filename, "r") as f:
-        # Read in the file
-        data = f.read()
-
-        # Iterate each line
-        for line in data.split('\n'):
-            # Remove any leading/trailing spaces
-            stripped = line.strip()
-
-            # If the line is now empty, just ignore it
-            if not stripped:
-                continue
-
-            # Split the line on : to get name and time
-            line_parts = stripped.split(":")
-            if len(line_parts) != 2:
-                sys.stderr.write(f"Ignoring invalid input line '{stripped}'\n")
-                continue
-
-            # Emplace data into our map
-            audio_timing[line_parts[0]] = int(line_parts[1])
-
-    return audio_timing
-
-
-def process_script_file(audio_timing, scene_name_map,
+def process_script_file(scene_name_map,
                         script_filename, output_filename):
     print(script_filename)
 
@@ -97,7 +70,6 @@ def process_script_file(audio_timing, scene_name_map,
     # Perform our transforms on the script
     # - Take all @k@e -> @x pairs, and convert to a _ZM + _WTTM + _MSAD
     script_commands = process_script(
-        audio_timing,
         script_commands
     )
 
@@ -126,7 +98,7 @@ class PState(enum.Enum):
     X_SEEK_WKAD = 4
 
 
-def patch_ke_x_block(timing_db, script_commands):
+def patch_ke_x_block(script_commands):
     # Given a block that starts with a _ZM(@k@e) and ends with a _ZM(@x),
     # mutate the block according to our rules.
     # print("Patch ke block. Raw:")
@@ -165,65 +137,20 @@ def patch_ke_x_block(timing_db, script_commands):
     # Append the final block
     blocks.append(current_block)
 
-    # Track the length of the VPLY in the block before the current block, so
-    # that we can generate a correct WTTM
-    last_block_vply_len = None
-
     # Process each @k@e block
     def process_block(block):
-        nonlocal last_block_vply_len
-
-        # Get the length of the block for sanity checking
-        block_len = len(block)
-
-        # If this block starts with a VPLY, then it does not actually contain
-        # the first @k@e cmd, it's just to provide timing data.
-        if block[0].opcode == 'VPLY':
-            last_block_vply_len = timing_db[block[0].arguments[0]]
-            return block
-
-        # Convert @k@e -> @n in the _ZM command args
+        # Add an @n in the ZM block to auto-trigger the next line
         if not block[0].opcode.startswith('ZM'):
             print("Invalid start of block: %s" % block[0].opcode)
             return block
 
         # print("Start of block: %s" % (block[0]))
-        block_contains_ke = block[0].arguments[0].endswith("@k@e")
-        block[0].arguments[0] = re.sub("@k@e", "@n", block[0].arguments[0])
+        block[0].arguments[0] = re.sub("@k@e", "@k@e@n", block[0].arguments[0])
 
-        # Is there a pending VPLY?
-        if block_contains_ke and last_block_vply_len:
-            wttm = ScriptCommand("WTTM", [str(last_block_vply_len), "1"])
-            # print("Inserting %s" % str(wttm))
-            block.insert(1, wttm)
-
-        # Clear vply len
-        last_block_vply_len = None
-
-        # If there is a VPLY that comes after this ZM line, cache it
-        # for subsequent blocks
-        found_vplys = [c for c in block if c.opcode == 'VPLY']
-        if found_vplys:
-            last_block_vply_len = timing_db[found_vplys[-1].arguments[0]]
-
-        # Delete any WKAD(F823)
-        block = [
-            c for c in block
-            if not (c.opcode == 'WKAD' and c.arguments[0] == 'F823')
-        ]
-
-        # Are we now over/under the target length for this block
-        len_delta = block_len - len(block)
-        # print(f"Len delta: {len_delta}")
-        # print([str(c) for c in block])
-
-        # If the block is too _long_, we can't really do anything
-        # to fix it?
-        assert len_delta >= 0, "Block too long"
-
-        # If the block is too short, insert some 1ms WTTM to pad
-        for _ in range(len_delta):
-            block.insert(1, ScriptCommand("WTTM", ["1", "1"]))
+        # Change any WKAD(F823, 1) to WKAD(F823, 0)
+        for i in range(len(block)):
+            if block[i].opcode == 'WKAD' and block[i].arguments[0] == 'F823':
+                block[i].arguments[1] = '0'
 
         return block
 
@@ -247,7 +174,7 @@ def patch_ke_x_block(timing_db, script_commands):
     return ret
 
 
-def process_script(timing_db, script_commands):
+def process_script(script_commands):
     # Use two lists to handle seeking without caring about indices
     # Both lists are stored in-order
     head = []
@@ -277,7 +204,8 @@ def process_script(timing_db, script_commands):
             # Is this a compound ZM (QA section)
             if cmd_is_zm:
                 split_args = cmd.arguments[0].split('^')
-                if len(split_args) > 1 and all([c[0] == '$' for c in split_args]):
+                has_args = len(split_args) > 1
+                if has_args and all([c[0] == '$' for c in split_args]):
                     # Replace this ZM with a ZM + MSADs
                     head.append(ScriptCommand(
                         cmd.opcode, [split_args[0]+"@n"]))
@@ -450,7 +378,7 @@ def process_script(timing_db, script_commands):
                 continue
 
             # If we have found the final @x, go patch up the block
-            processed_block = patch_ke_x_block(timing_db, seek_buf)
+            processed_block = patch_ke_x_block(seek_buf)
             for c in processed_block:
                 head.append(c)
 
@@ -480,20 +408,16 @@ def load_nam_file(filename):
 
 def main():
     # Check arguments
-    if len(sys.argv) != 5:
+    if len(sys.argv) != 4:
         sys.stderr.write(
-            f"Usage: {sys.argv[0]} audio_timing nam_file "
+            f"Usage: {sys.argv[0]} nam_file "
             f"script_dir output_dir\n")
         return -1
 
     # Name args
-    audio_timing_filename = sys.argv[1]
-    nam_filename = sys.argv[2]
-    script_dir_path = sys.argv[3]
-    output_path = sys.argv[4]
-
-    # Load in the timing file to a map of filename -> time (ms)
-    audio_timing = load_timing(audio_timing_filename)
+    nam_filename = sys.argv[1]
+    script_dir_path = sys.argv[2]
+    output_path = sys.argv[3]
 
     # Parse the NAM file to get a map of MRG entry number to scene name
     scene_name_map = load_nam_file(nam_filename)
@@ -511,7 +435,6 @@ def main():
 
         # Process the file, and write to the output directory
         process_script_file(
-            audio_timing,
             scene_name_map,
             dirent.path,
             os.path.join(output_path, dirent.name)
