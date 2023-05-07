@@ -42,6 +42,12 @@ appropriate to the context at hand.
 - All choices should be prefaced with a single space (e.g. `C:> Choice one`) so that choices beginning with ... are not merged with the choice numbering dots
 - All choice options should start with a capital letter
 - The general audience for this VN is expected to have at least passing familiarity with Japanese honorifics, and so common suffixes should be preserved. This includes -kun, -chan, -san, -sama and -sensei. Rarer honorifics, such as 氏, are to be localized as Mr. / Ms.
+- Numbers should be written out only if they are short enough to be a single word. That means:
+  - All numbers <= 19 are written out
+  - All multiples of 10 up to 100 are written out
+  - 100, 1000 are written out
+  - Explicit comparative 'scientific' contexts should use numbers
+  - The Twenty-Seven DAA is a title and should be written out
 
 ## Specific characters
 
