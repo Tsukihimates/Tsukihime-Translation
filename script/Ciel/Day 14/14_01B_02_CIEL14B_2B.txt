@@ -6,7 +6,7 @@ Never in a million years would I have imagined I'd see something like this...
 [sha:89946ea1caf734908b4d76555a6895194d076ec7]{
 -- Page 10001, Offset 39437.
 -- アレも<落盤|らくばん>と言っていいのだろうか。
-Can you even call something like that a 'fissure' at this point?
+Can you even call that a 'fissure' at this point?
 }
 [sha:1f6ce19aeac036803fff6b34b95a00b9459cafee]{
 -- Page 10001, Offset 39438.
@@ -14,7 +14,7 @@ Can you even call something like that a 'fissure' at this point?
 // Google images for 重し suggests the sort of thing you'd anchor a gazebo with,
 // but I feel like a barbell plate fits the disc aspect of the city well enough.
 The whole city has risen into the air,
- and is poised to come crashing down to the ground like some massive weight plate.
+ and is poised to come crashing down to the ground like some massive counterweight.
 }
 [sha:1a65d1a6bf046ddece74eefee3a6c80b96f7c515]{
 -- Page 34, Offset 39439.
@@ -36,7 +36,7 @@ is the fallen figure of Arcueid, pinned to the ground and unable to move.
 [sha:2b54f83ae3177704b421602cef615f5691032337]{
 -- Page 36, Offset 39442.
 -- 「………終わった、のか？」
-"Is it over...?"
+"Is it... over?"
 }
 [sha:f7306b13383b2d247d3174460caac3aa5f26603e]{
 -- Page 36, Offset 39443.
@@ -81,7 +81,7 @@ However――that feeling of joy is soon washed away.
 [sha:b473ee52e6fd2ed63a6c9c03296a43dae93eabf0]{
 -- Page 38, Offset 39450.
 -- 「ぁ……く、ぅ……！」
-"%{i}Ah%{/i}... %{i}kh%{/i}, %{i}ghh%{/i}!"
+"%{i}Ah%{/i}... %{i}kh%{/i}――%{i}ghh%{/i}!"
 }
 [sha:39add63def11e80c0783495535a4217673287e09]{
 -- Page 38, Offset 39451.
@@ -92,7 +92,7 @@ My legs become unsteady, and I almost collapse.
 -- Page 38, Offset 39452.
 -- 理由のない胸焼けに襲われて、吐きそうになった。
 An inexplicable heartburn assails me,
- and feel like I'm about to throw up.
+ and I feel like I'm about to throw up.
 }
 [sha:683ac098021e3e38adebd5d83ad8513b3b52d79a]{
 -- Page 39, Offset 39453.
@@ -102,7 +102,7 @@ I clutch at my racing heart with my left hand.
 [sha:b02d3c3c3ac3e88794d853fb95435f4f5c70d152]{
 -- Page 39, Offset 39454.
 -- これは―――ロアだ。
-This――must be Roa.
+This must be Roa.
 }
 [sha:0f442a7317f1c052d2fe1489c5621fb523d2ef40]{
 -- Page 39, Offset 39455.
@@ -143,7 +143,7 @@ While also resenting Arcueid for her pitiful display.
 [sha:03e203b7452464ae408fab3d3a3cd928674598e9]{
 -- Page 41, Offset 39462.
 -- 「なんだ、おまえ―――何が、そんなに―――」
-"What... gives... Why are you... so―――"
+"What... gives...? Why are you... so―――"
 }
 [sha:bc88d22bf730f38fcf272dfaed48876c4940377d]{
 -- Page 41, Offset 39463.
@@ -232,7 +232,7 @@ But why?
 [sha:837168eac78bcff704e16334648b645128cd14ed]{
 -- Page 45, Offset 39479.
 -- 一体なにがどうなって、あんなコトになっている……!?
-What the hell happened for her turn into this?!
+What the hell happened for her to turn into this?!
 }
 [sha:5bf099a350d128279df0584744a0b576517d3d57]{
 -- Page 46, Offset 39480.
@@ -259,7 +259,7 @@ There is nothing about it which could benefit us.
 -- Page 46, Offset 39483.
 -- 醜悪極まる結末だがね。
 %{i}
-Though I must admit it is an abjectly pitiful end.
+Though I must admit, it is an abjectly pitiful end.
 %{/i}
 }
 [sha:73731c76ea1d430b3a20a748c9a21cf55b5983a2]{
@@ -440,7 +440,7 @@ I resist the urge to snap back and ask what the hell he's talking about.
 [sha:4f779b02483b51bff0c5d754000e59b62540d598]{
 -- Page 52, Offset 39511.
 -- アルクェイドと思われる光のドーム。
-Arcueid――or what I %{i}think%{/i} is Arcueid――has turned into dome of light.
+Arcueid――or what I %{i}think%{/i} is Arcueid――has turned into a dome of light.
 }
 [sha:0920143e39763133a51c8853c0b7a1bec35419c1]{
 -- Page 52, Offset 39512.
@@ -478,9 +478,8 @@ It's an utterly incomprehensible situation,
 [sha:2a74b32aa7347707236f94e14dce9f54fd269e61]{
 -- Page 54, Offset 39518.
 -- 『真祖の王族のみが持つ励起状態。
-// State of excitation?
 %{i}
-"An excited state unique to True Ancestor Royalty.
+"An excited state unique to True Ancestor royalty.
 %{/i}
 }
 [sha:66b311df73da176609c6689c505c071e8d3fbcfe]{
@@ -510,14 +509,15 @@ Arcueid Brunestud is a 'small and heavy' existence.
 -- アレは活動する際、その出力を
 // I swear if Roa keeps pulling this linebreak garbage
 %{i}
-Whenever she is active her powers are restricted―――
+Whenever she is active, her powers are restricted;
 %{/i}
 }
 [sha:9fd0700bda2a34180239718ccb3c00bf7a6da863]{
 -- Page 55, Offset 39523. Mods: @n.
 -- “常に相手より一段階上のものに制限する”が、
+%{force_glue}
 %{i}
-Limited to always being one step above those of her opponent.
+ limited to always being one step above those of her opponent.
 %{/i}
 }
 [sha:9b180edcf6cf88d9a03c1744350b7cb36b974860]{
@@ -532,35 +532,38 @@ But that is no display of omnipotence――it is a shackle."
 -- 『彼女から肉体という制限がなくなり、
 // Same for these 3
 %{i}
-"If she loses the body that serves as her limiter―――
+"If she loses the body that serves as her limiter,
 %{/i}
 }
 [sha:64ba1b59d2c4ced91125ce496c91f14f9a07ecdb]{
 -- Page 56, Offset 39526. Mods: @k, @e.
 -- かつ、その精神活動が衰えていない場合、
+%{force_glue}
 %{i}
-And her mental state remains intact―――
+ and her mental state remains intact,
 %{/i}
 }
 [sha:feb01d101832fe8bbe3acb14a22de5f152bc628c]{
 -- Page 56, Offset 39527.
 -- 力の制御はされなくなる。
+%{force_glue}
 %{i}
-Then the suppression of her power is undone.
+ then the suppression of her power is undone.
 %{/i}
 }
 [sha:b9d33680f1c9389cc787a3c579d18ab49860f0ab]{
 -- Page 56, Offset 39528. Mods: @k, @e.
 -- 肉体に秘められていた魔力は拡散し、
 %{i}
-The magical energy stored within her body scatters―――
+The magical energy stored within her body scatters,
 %{/i}
 }
 [sha:90f92d531366230d08b752773c616455c3e41cef]{
 -- Page 56, Offset 39529.
 -- 地表から引き出すエネルギーに制限はかけられなくなる』
+%{force_glue}
 %{i}
-And the limit to the amount of power she can draw from the earth disappears."
+ and the limit to the amount of power she can draw from the earth disappears."
 %{/i}
 }
 [sha:8001ddfd33a02ab50ba3749d71385af3173445cd]{
@@ -574,21 +577,23 @@ And the limit to the amount of power she can draw from the earth disappears."
 -- Page 57, Offset 39531. Mods: @k, @e.
 -- 本来は星の内部に留まっている、
 %{i}
-The 'soul' that ordinarily resides within the planet―――
+The 'soul' that ordinarily resides within the planet,
 %{/i}
 }
 [sha:34b043cbf46e94ec78568be62a288212a7d0ca8c]{
 -- Page 57, Offset 39532. Mods: @k, @e.
 -- 長く天体を運営する為の“魂”を地表に漏らす、
+%{force_glue}
 %{i}
-And is responsible for long term operation of the celestial body―――
+ and is responsible for the long-term operation of the celestial body,
 %{/i}
 }
 [sha:36691454c0212e990dfd3d64bb48b4c6216be262]{
 -- Page 57, Offset 39533.
 -- あってはならないシステム障害。
+%{force_glue}
 %{i}
-Instead leaks out onto the surface, causing an unmanageable system failure.
+ instead leaks out onto the surface, causing an unmanageable system failure.
 %{/i}
 }
 [sha:62506db564de55c77dbcff8a9279e424f1a5ce12]{
@@ -622,7 +627,7 @@ or rather, a retribution mechanism."
 -- Page 58, Offset 39538. Mods: @k, @e.
 -- ようは暴走して魔力を垂れ流している、
 %{i}
-In short, a rampant state overflowing with magical energy―――
+In short, a rampant state overflowing with magical energy.
 %{/i}
 }
 [sha:4058c9b0d34a54135ee460069fe83cbac143eaeb]{
@@ -640,7 +645,7 @@ An uncontrollable shitstorm, if you will."
 [sha:2b98c6fce956386a1c26dad6df492ced6e3fbb75]{
 -- Page 59, Offset 39541.
 -- そんなの見れば分かるけどな！」
-And hey, that much is obvious just by looking!"
+And hey, I'd have to be blind not to notice %{i}that%{/i}!"
 }
 [sha:19c54618671fbbb9e287ad57d830d6ef3d0e2b75]{
 -- Page 59, Offset 39542.
@@ -714,21 +719,22 @@ But there's no way in hell I'm going to just stand here and watch!
 -- Page 63, Offset 39554.
 -- 『あの状態の姫君に近づくのか。
 %{i}
-"So you intend to approach the Princess despite her current state?
+"So you intend to approach the princess despite her current state?
 %{/i}
 }
 [sha:a454c255e420b0129fe1daecb8421d1de855afa6]{
 -- Page 63, Offset 39555. Mods: @k, @e.
 -- では、同じ思考回路を使うものとして
 %{i}
-Then, as someone who shares the same mental space as you―――
+Then, as someone who shares the same mental space as you,
 %{/i}
 }
 [sha:0716fa745ebae2dbd9522f4c8e4afe68c2cea213]{
 -- Page 63, Offset 39556.
 -- 忠告はしておこう。
+%{force_glue}
 %{i}
-I will give a useful pointer.
+ I will give a useful pointer.
 %{/i}
 }
 [sha:b7b8deae5a62ec6ada0a9fcb0b0257d23287eb98]{
