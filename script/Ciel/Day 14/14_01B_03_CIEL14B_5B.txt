@@ -2,7 +2,7 @@
 -- Page 10007, Offset 40858.
 -- 『10秒、体力の回復に専念しろ。
 %{i}
-"Take ten seconds and concentrate on recovering your strength.
+"Take ten seconds to focus on recovering your strength.
 %{/i}
 }
 [sha:66dc010ecf77de199bbcabce62d776e5ddd092d9]{
@@ -11,7 +11,7 @@
 // Kinda makes it sound like he dies in 10s or something.
 // Tempted to conjure 'spare' or something here.
 %{i}
-That time is the last of the sand that remains in your hourglass."
+Those are the last grains of sand left in your hourglass."
 %{/i}
 }
 [sha:60c2c64962739854b83aea161e912f16d9135f58]{
@@ -27,20 +27,20 @@ I'm a sprinter looking to set a new record.
 [sha:8644f875e5a28e0565b34b4b35edea902e17c28a]{
 -- Page 206, Offset 40862.
 -- 酷使に酷使を続け、幾度となく瀕死を迎え、その度、人間とかけ離れた作りになった身体を俯瞰する。
-I take stock of my body, which I've kept on heaping abuse onto.
- I've skirted death countless times at this point,
- and have only grown less and less human with each of those encounters.
+I look down at my long-suffering body.
+ I've skirted death over and over again at this point,
+ and grown less and less human with each of those encounters.
 }
 [sha:ef48bdfb0b7a6d78862f94a7bd396307cccfe608]{
 -- Page 206, Offset 40863.
 -- ……正真正銘、吸血鬼として／人間として、これが最後の挑戦になる。
-It is nothing short of the truth to say that this will be my final act of defiance,
- as both a human %{i}and%{/i} a vampire.
+This is my honest-to-god final challenge.
+ Both as a human, %{i}and%{/i} as a vampire.
 }
-[sha:670420aaa3cb10cfc520fd1f52aebab89524bae4]{
+[offset:40864]{
 -- Page 207, Offset 40864.
 -- 「―――、――――――」
-"―――――――――"
+"%{i}Phhhuh——hahhh%{/i}..."
 }
 [sha:8ed2e9e3b0fa8181d1a9f53b55bda0713b5eeba6]{
 -- Page 207, Offset 40865.
@@ -67,28 +67,28 @@ As I focus my nerves on repairing the damage to my body,
 -- Page 210, Offset 40868.
 -- ３秒。最短距離は目測で400メートル。実移動距離は４キロメートル。
 Three.%{n}
-By eye, it looks like she's four hundred meters away.
- On foot, I'll actually have to cover about four kilometers.
+By eye, it looks like she's 400 meters away.
+ On foot, I'll actually have to cover about 4000.
 }
 [sha:0483286304d824faa0223804f0523b28fc30172a]{
 -- Page 211, Offset 40869.
 -- ４秒。光体への到達まで１分。その１分間の体力を取り戻すのに、最低限、10秒の補給が必要だった。
 Four.%{n}
 It will take me one minute to reach the Luminary.
- In order to regain that minute's worth of stamina, I had to rest for at least ten seconds.
+ In order to regain that minute's worth of stamina, I have to rest for at least ten seconds.
 }
 [sha:01de85316e97552b1d210cf48f75696364e74976]{
 -- Page 212, Offset 40870.
 -- ５秒。逸る気持ちを抑えて呼吸に専念する。こうしている今も巨人は校舎に向かっている。
 Five.%{n}
 Even now, the giant is making her way toward the school.
- Still I suppress the urge to run after her, and focus on my breathing.
+ Still, I suppress the urge to run after her, and focus on my breathing.
 }
 [sha:9b203b11664b94e6540b04dd0a5779342b4c2339]{
 -- Page 213, Offset 40871.
 -- ６秒。こうしている今も、光体は破滅に向かって歩いている。
 Six.%{n}
-Even now, the Luminary is closing in on her destination.
+Even now, the Luminary is en route to her own destruction.
 }
 [sha:907d52f065c71526ac2bb0b3e5c2feffe42dfeeb]{
 -- Page 214, Offset 40872.
@@ -110,7 +110,7 @@ The mere thought of it makes my blood run cold.
 -- ９秒。その価値があるのか。あの女は、愛しい女を後回しにしてまで、命を差し出す意味があるのかと。
 Nine.%{n}
 Is what I'm doing worth it?
- Is there any meaning in putting my life on the line for that woman,
+ Is there any meaning in putting my life on the line for her,
  especially when it means putting the woman I love to one side?
 }
 [sha:06391602612093168a4298a90d1867b23fe5aea3]{
@@ -121,7 +121,7 @@ Is what I'm doing worth it?
 [sha:b7481c5bff77276878610881baa67eacfbd0d4b9]{
 -- Page 217, Offset 40876.
 -- 考えるまでもない。
-That question isn't even worth considering.
+What other answer could there be?
 }
 [sha:60877393ef81bdb05dcdf52b60fa65a775911c4d]{
 -- Page 217, Offset 40877.
@@ -132,12 +132,12 @@ I banish all thoughts from my mind,
 [sha:a617574379db9c0032d5a9df530e6c0c921d6b54]{
 -- Page 218, Offset 40878.
 -- 巨人はビルの森を闊歩し、
-The giant strolls through the forest of buildings.
+As the giant strolls through the forest of buildings———
 }
 [sha:5dd78526087ef005d9b08f9862ec3c51ceb53d4c]{
 -- Page 218, Offset 40879.
 -- 俺はビルの谷間を跳ねていく。
-I bound across the valleys between those buildings.
+I bound across the valleys between them.
 }
 [sha:91781a8626da7533880a5df368288ed375aeb67b]{
 -- Page 219, Offset 40880.
@@ -159,14 +159,14 @@ I'm closing in on the back of the Luminary.
 [sha:46e6089303d0c8d6e785d687fc22c200e0c666f8]{
 -- Page 220, Offset 40883.
 -- 迂回する事も、逃げる事もしない。
-I'm not going to run away, or try to play it safe.
+I'm not going to circle around her or turn back.
 }
 [sha:d01ada6e3bda55c8c231dbb85c0608a4436ae9e2]{
 -- Page 220, Offset 40884.
 -- まっすぐに、その白い<躯|からだ>を視界に収める。
 // 'body in white' not really gonna work here
-My sights are locked on her white body,
- and I'm making a beeline straight for her.
+With my sights locked on her white body,
+ I make a beeline straight for her.
 }
 [sha:3ccf2360a71af05bf0cb0639fcd95cbe690b3d5d]{
 -- Page 220, Offset 40885.
@@ -181,7 +181,7 @@ Even though it's little more than a thumbtack to her,
 // _IF__(F081,ge,7,LV00500);
 // This version is the F081 <= 7 version (mild hrmph)
 // Audio track A10_14_01B_0098_0
-"――――――"
+"%{i}Hmph%{/i}..."
 }
 [offset:40887]{
 -- Page 10008, Offset 40887.
@@ -199,7 +199,8 @@ The claws of air are unleashed.
 -- Page 10009, Offset 40889.
 -- 今さらながら、その巨大さは爪というよりは掌だった。
 It's a bit late to correct myself now,
- but size-wise they're actually closer to a whole hand than a single claw.
+ but given their size,
+ they're more like whole hands than just claws.
 }
 [sha:09616e0614baef7fff7eb9d25d4a0b9776641d35]{
 -- Page 222, Offset 40890.
@@ -222,13 +223,13 @@ As soon as I set that rooftop as my landing site,
 -- Page 224, Offset 40893.
 -- 「“―――、―――！”」
 // Same _IF__(F081,ge,7) check, this is the <= 7 case (aspirated grunts)
-"―――, ―――!"
+"%{i}Mh%{/i}... %{i}Hmph%{/i}!"
 }
 [offset:40894]{
 -- Page 10010, Offset 40894.
 -- 「“―――、―――！”」
 // F081 > 7 case, "この…ほっといて！"
-"You little... Leave me alone!"
+"Damn it... leave me alone!"
 }
 [sha:59a6692159ae412b5aa8cb1de5d243976aef2611]{
 -- Page 10011, Offset 40895.
@@ -260,7 +261,7 @@ The Luminary doesn't say anything.
 [sha:a137bfe44847aa06b5a0454a349302e1776e021b]{
 -- Page 225, Offset 40900.
 -- アイツはこの局面でも俺に視線を向けなかった。
-Even now, she still refuses to turn and look at me.
+Even now, she refuses to turn and look at me.
 }
 [sha:3fde116f32d180d1f3fcb863281de24ed9682759]{
 -- Page 226, Offset 40901.
@@ -270,20 +271,20 @@ Honestly... She's as stubborn as they come.
 [sha:a40c28361e55ecfc82be33dab9148193fe016ae9]{
 -- Page 226, Offset 40902.
 -- ここで少しでも振り向いていれば、その時点で俺を魔眼で捕らえられ、さぞ念入りにいたぶり殺せただろうに。
-All she has to do is turn her head ever so slightly and she'd be able to capture me with her Mystic Eyes,
+All she has to do is turn her head ever so slightly and she'd be able to ensnare me with her Mystic Eyes,
  then kill me as cruelly and meticulously as she likes.
 }
 [sha:1edde937ffd6eeda15c64fb1159de24f9587b2d8]{
 -- Page 227, Offset 40903.
 -- とはいえ、結果は変わらない。
 // Assuming this is "She could mystic eye me... or ok fine I guess she could just hit me with the claws that works"
-Though... I guess this does achieve the same result.
+Though, I guess this %{i}does%{/i} achieve the same result.
 }
 [sha:7989b3db78479847097bc606ee6640c7a013bea4]{
 -- Page 227, Offset 40904.
 -- 他に逃げ場がない以上、あの大気の爪は躱しようがなく。
-I don't have anywhere I can escape to,
- so there's no way for me to dodge this atmospheric claw.
+Without anywhere to escape to,
+ there's no way I can avoid this claw of air.
 }
 [sha:b568f282a63aac3ce72eb39227fa95d1fe7f584c]{
 -- Page 228, Offset 40905.
@@ -305,7 +306,7 @@ Since I don't have any wings,
 [sha:0e745f7575e0623c460b1eb916888f66a119745d]{
 -- Page 229, Offset 40908.
 -- このまま風に巻かれた羽虫のように絶命するか、
-Will I be annihilated like a tiny insect caught in a whirlwind?
+Will I be annihilated like a tiny insect swept up by the wind?
 }
 [sha:7c92a0dd9fd7504a10985dd384d79f8e45cbe570]{
 -- Page 229, Offset 40909.
@@ -360,14 +361,14 @@ We are now four hundred meters above the Luminary.
 -- Page 232, Offset 40917.
 -- ……上出来だ。
 %{i}
-A marvellous performance...
+Well done.
 %{/i}
 }
 [sha:f4d80fdc4fb178e1ee4d1081243d5334ffd5c4e5]{
 -- Page 232, Offset 40918.
 -- 撃つのはこちら、制御はそちらに任せる』
 %{i}
-You take aim, and I'll pull the trigger."
+I will fire it, and you will maneuver it."
 %{/i}
 }
 [sha:d8d1c309fbddc9084be5b9406803a74eb7f2eb26]{
@@ -379,7 +380,7 @@ You take aim, and I'll pull the trigger."
 [offset:40920]{
 -- Page 233, Offset 40920. Mods: @n.
 -- ヤツは言った。
-Roa mentioned something earlier―――
+Roa told me something―――
 }
 [sha:fe29f0951d4c7d4eca28690b0e5151268c13198a]{
 -- Page 233, Offset 40921.
@@ -405,22 +406,23 @@ One of the stars from that grand magecraft earlier still remains.
 -- Page 234, Offset 40924.
 -- 膨大な魔力量を持つエレイシアらしい驕りだよ。
 %{i}
-Arrogance typical of Elesia, with her vast reserves of magical energy.
+Overconfidence typical of Elesia, with her vast reserves of magical energy.
 %{/i}
 }
 [sha:5203a4c905aa905b4bf622a629e607ff7335e9bb]{
 -- Page 234, Offset 40925. Mods: @k, @e.
 -- あの娘は必要以上の火力を用意できるが、
 %{i}
-That girl can always furnish more firepower than is necessary―――
+Because she's always able to provide more firepower than necessary,
 %{/i}
 }
 [sha:275997527394a2124fb5dd9e09fcf8c43f2bdc2a]{
 -- Page 234, Offset 40926.
 -- それ故、工夫する努力を放棄しがちだ』
+// Frontloaded into the first string to avoid weird pause during rendering
+%{force_glue}
 %{i}
-But because of that,
- she never puts any effort into coming up with novel solutions."
+ she tends not to put any effort into coming up with clever ways to use it."
 %{/i}
 }
 [sha:e41725efbcc4e4771d66342dd9d37ad863d09deb]{
@@ -442,71 +444,72 @@ But tell her that even a small amount of magical energy is enough to take down a
 -- まあ、パン焼きすらできないあの性格では
 // absolutely roasted
 %{i}
-Then again, she isn't even able to bake bread―――
+Then again, she isn't even able to bake bread.
 %{/i}
 }
 [sha:bf8eaa10b2be12a7f59eb30130c7928c37f6aae8]{
 -- Page 235, Offset 40930.
 -- ミクロ単位の精密作業は一生できないだろうが』
 %{i}
-Such a person will likely never be capable of anything requiring microscopic precision."
+Anything requiring microscopic precision would be beyond her."
 %{/i}
 }
 [sha:8459bbc989cd84f22c4a02a29b3c9c0c76e3c6a3]{
 -- Page 236, Offset 40931.
 -- 17回にも及ぶ転生。
-The man who has reincarnated seventeen times―――
+// Page structure heavily refactored.
+Roa had mocked Senpai's ultimate move for being 'wasteful'.
 }
 [sha:9594b753a4ff7b1565b76a2c9bcabd5f1212390f]{
 -- Page 236, Offset 40932.
 -- その度に“新たな魔術の最奥”を築いてきた天才は、
-Who plumbed new depths of magic with each life―――
+It makes sense that he would.
+ As someone who has reincarnated seventeen times―――
 }
 [sha:954066b0d775b4ab8b421bd1124e73fe91d00ed9]{
 -- Page 236, Offset 40933.
 -- 先輩の奥の手を“無駄が多い”と嘲笑った。
-Previously mocked Senpai's ultimate move for being 'wasteful'.
+Who has built upon the secrets of magecraft with each of those many lives―――
 }
 [sha:d772d705930a1c50b3885340ec30d14bce718304]{
 -- Page 236, Offset 40934.
 -- 自分ならより精密に、無駄なく、あの大魔術を行えるという事実と共に。
-He also claimed that if it were him,
- he'd have been able to pull it off far more precisely,
- and with none of the waste.
+He is merely stating a fact when he claims he could execute her grand magecraft more precisely and efficiently.
 }
 [sha:f2b04323f4b5d079874c9e19c2e0c5be55c5557a]{
 -- Page 237, Offset 40935.
 -- 『成層圏のあの星にはまだ太陽熱が残っている。
 %{i}
-"The star sitting in the stratosphere still has some heat left in it.
+"The star sitting in the stratosphere still has some of its solar energy left in it.
 %{/i}
 }
 [sha:e2bdb868e87fc15b14b52fb380ddc33edf3651e8]{
 -- Page 237, Offset 40936.
 -- あれを使えば光体の頸を切る程度は可能だ。
 %{i}
-If we utilize that, it should be possible to cut off the Luminary's head.
+With that, we should be able to sever the Luminary's neck.
 %{/i}
 }
 [sha:ebba77a412bff3abe4626d4f94c55a5b01482f7e]{
 -- Page 237, Offset 40937.
 -- ただし狙いをつける中継地点が必要だ。
 %{i}
-However, we require a relay point to aim at.
+However, we require a relay point where we can adjust our aim.
 %{/i}
 }
 [sha:238f97d02855d9c2a4ec23127afffe7798b6c995]{
 -- Page 237, Offset 40938. Mods: @k, @e.
 -- 光体の上空400メートルに、
 %{i}
-Four hundred meters above the Luminary―――
+Four hundred meters above the Luminary,
 %{/i}
 }
 [sha:ce5ee91e0ef0937632397bb883afddaf95d2b6d9]{
 -- Page 237, Offset 40939.
 -- 射角を調整する<生|・><き|・><た|・><力|・><場|・>が』
+%{force_glue}
 %{i}
-There exists a %{/i}living%{i} forcefield capable of adjusting the angle of fire."
+ there exists a %{/i}living%{i} forcefield capable of adjusting the angle of fire."
 %{/i}
 }
 [sha:cace41225a300ce892eeadea5ded14b6e4028ef9]{
@@ -517,8 +520,8 @@ The star from the guillotine flares up in the empty sky.
 [sha:d39d9476e5b83d0df2777c81c024812f7f2c216e]{
 -- Page 238, Offset 40941.
 -- その輝きに魅入られるように、彼女は感情のない<無|か><貌|お>を上げ、
-She raises her head as though mesmerized by its brilliance,
- her emotions impossible to read from her featureless face.
+As if mesmerised by its brilliance,
+ she emotionlessly raises her featureless face to meet it.
 }
 [sha:39239e91c408d560132937efe9b0ed0096f91f31]{
 -- Page 239, Offset 40942.
@@ -537,41 +540,42 @@ She raises her head as though mesmerized by its brilliance,
 [sha:64781d94d2c6095c9e0ffde848c08054066556b2]{
 -- Page 239, Offset 40944.
 -- 残された最後の矢。
-The last remaining arrow―――
+Condensed and accelerated to its breaking point,
+ my last remaining arrow———
 }
 [sha:dbffcd4ed2ca47f5e5ee162a21ee8cbff59255d5]{
 -- Page 239, Offset 40945.
 -- 極限まで凝縮され加速した、カルヴァリアの星が解放された。
-Condensed and accelerated as far as it can go,
- the Star of Calvaria is released.
+The Star of Calvaria——is unleashed.
 }
 [sha:a9ad99bb51b843a05d6ed29b05a3a1a185020528]{
 -- Page 240, Offset 40946.
 -- 「ぐ、ぐぅううぅうううう…………！！！！」
-"%{i}Gh%{/i}, %{i}gggggaaaAAAHHH%{/i}!!!"
+"%{i}Ghrgh%{/i}! %{i}Grrraaagggh%{/i}!!!"
 }
 [sha:592ad8fea6b810d1e0df7e42a7e6487a32363a95]{
 -- Page 240, Offset 40947.
 -- 成層圏から撃ち出されたその一射は、人間に―――
-The single shot fired from the stratosphere isn't something that can be controlled by a mere human―――
+The shot loosed from the stratosphere isn't something that a mere human———
 }
 [sha:290ac4aa8a609358b633f0248084ce87a0da8f31]{
 -- Page 240, Offset 40948.
 -- いや、こんな小さな魔術回路一つで御し得るものではなかった。
-Or rather, it isn't something that can be controlled by such a small Magic Circuit.
+Or rather, a single, tiny Magic Circuit like mine could ever control.
 }
 [sha:a7bbfa1ca25e153739dd8e3370c7af94770e9777]{
 -- Page 241, Offset 40949.
 -- “成層圏から緩やかに滑り落ちてくるものを、
 %{i}
-"As that thing gently descends from the stratosphere―――
+"All you have to do is take something gently falling from the stratosphere———
 %{/i}
 }
 [sha:468072e55be850bba053062d65aaafbfc54151ea]{
 -- Page 241, Offset 40950.
 -- おまえを支点にして一度曲げるだけだ。
 %{i}
-All you have to do is adjust its course using yourself as the fulcrum.
+And adjust its course using yourself as a pivot.
+ That's all.
 %{/i}
 }
 [sha:f9eec834fc3e1dc7d4486b00d5b967aca05f1deb]{
@@ -591,12 +595,12 @@ This is the sort of basic task that any mage could easily accomplish."
 [sha:14ae2fd68394c91ecbbd273ad7b7e42ffd279bc3]{
 -- Page 242, Offset 40953.
 -- 「づ、あぁあああ……！！！！」
-"%{i}Gh%{/i}――%{i}aaaaaahhhhh%{/i}!!!"
+"%{i}Grh%{/i}――%{i}aaaarrgh%{/i}!"
 }
 [sha:522efe361af4ce8814e062fdd838369ce51827bf]{
 -- Page 242, Offset 40954.
 -- 荒れ狂う電荷の鞭。
-This thing is a flailing whip of electrical energy.
+In my hands is a flailing whip of electricity.
 }
 [sha:076005030734ffdc6be35fb214ed0ae444574e4c]{
 -- Page 242, Offset 40955.
@@ -617,30 +621,30 @@ This is more like trying to pass the contents of a dam through the eye of a need
 [sha:d986956f2cd9073c93c66eeeb651b2c1c66a7340]{
 -- Page 243, Offset 40958.
 -- 力まねば水圧に耐えられず、
-If I don't apply force, I won't be able to keep the pressure under control―――
+I have to apply force to keep the current under control———
 }
 [sha:6340792d3886fbde24d1bc65c1aee90f54deec09]{
 -- Page 243, Offset 40959.
 -- 繊細でなければ照準を定められない……！
-But if I don't keep a light touch, I won't be able to aim it at my target!
+But I also have to keep a light touch or I won't be able to aim it!
 }
 [sha:de2b5f80b256c12f109aacc481ef2ee744ebebb5]{
 -- Page 244, Offset 40960.
 -- 暴れ回る猛牛を割り箸一本で制御できるか？
 // I don't _think_ this is a real expression?
 // Kept it, but restructured these two sentences a bit for EN flow
-This is like trying to steer a raging bull with nothing but a pair of disposable chopsticks―――
+This is like trying to steer a raging bull with nothing but a flimsy pair of chopsticks―――
 }
 [sha:f57408b261b5c05b64d016f56354e1a3b274632b]{
 -- Page 244, Offset 40961.
 -- できる筈がない。
-Completely impossible!
+You just can't do it!
 }
 [sha:99865bd4fa4f926ce8e488f71c69907f6ca84a34]{
 -- Page 244, Offset 40962.
 -- 軌道修正は不可能だ。射角の調整は無理難題だ。
-There's no way I can alter its course.
- Trying to adjust its angle of fire is a fool's errand.
+Correcting its course is impossible.%{n}
+Adjusting its trajectory is a fool's errand.
 }
 [sha:e517059d4e4708b990e4ffaab3c6900bcde3653d]{
 -- Page 244, Offset 40963.
@@ -650,7 +654,7 @@ There's no chance in hell I can manage to hit her with this!
 [sha:8d88466f6803a027d8472be60896736784d1f0bd]{
 -- Page 245, Offset 40964.
 -- 合わせられない。定められない。制御できない……！
-It's not going to hit.
+I can't line it up.
  I can't aim it.
  I can't control it!
 }
@@ -662,13 +666,13 @@ It's over. It's over. It's over.
 [sha:fb5f3e440ecacfa9d771916c38ca7add535d316e]{
 -- Page 245, Offset 40966.
 -- 最後の機会が失われる。太陽の火はこのまま、無様にも関係のない地上を焼き払って消費される。
-I've blown my final chance.
- At this rate the star's heat is going be to be wasted on burning some totally unrelated patch of land to a crisp.
+I'm gonna blow my last chance.
+ If I don't do something, all this solar energy is going to be wasted on burning some random patch of land to a crisp.
 }
 [sha:a55771c4f70456bb164ce61aa6f3db1f383a2364]{
 -- Page 246, Offset 40967.
 -- 「は、づ―――！」
-"%{i}Hah%{/i}, %{i}gh%{/i}―――!"
+"%{i}Hrgh%{/i}! %{i}Tch%{/i}!"
 }
 [sha:9da09e627520f97ebc5a57fa646a97b4325e897c]{
 -- Page 246, Offset 40968.
@@ -680,16 +684,17 @@ The way things are going,
 -- Page 246, Offset 40969.
 -- ロアは沈黙している。この状況で何の意見もない。何の意思も感じられない。もう自分の仕事は終わったと、あっけなく<存|バ><在|トン>を手放した。
 // Man really just dipped
-Roa meanwhile is totally silent.
+Roa has gone silent.
  He hasn't chimed in to give his opinion on the situation.
  I can't even sense his presence at all.
- It's like he really did just decide his work was done all of a sudden, pass me the baton, and wink out of existence.
+ He decided his job was done, and then nonchalantly left his existence in my hands.
 }
 [sha:120360c370992e1d4414d711e13eb517cf739fa9]{
 -- Page 246, Offset 40970.
 -- 転生者ロアは、本当に、この一撃を俺に託して消滅しやがった。
-Roa the reincarnator seriously entrusted me with this one attack,
- then went and vanished on me.
+Roa, the Infinite Reincarnator,
+ entrusted me with this final attack,
+ then just up and vanished on me.
 }
 [sha:fa8175ade9a5eb5352d6fe3928b0f92e785fa6da]{
 -- Page 247, Offset 40971.
@@ -705,17 +710,17 @@ There's nobody else that I can rely on.
 [sha:0c52e85d71a4edd871cf97b4f6bede446fef7029]{
 -- Page 247, Offset 40973.
 -- そんなもの、必要ないとあの吸血鬼は判断した。
-That vampire decided that such help wasn't necessary.
+Roa had deemed such help unnecessary.
 }
 [sha:cb1f73840ca7254d02276e6e3f0e6007a13a7f46]{
 -- Page 248, Offset 40974.
 -- 「―――、ふ」
-"%{i}Geh%{/i}, %{i}hrrh%{/i}."
+"%{i}Khh%{/i}... %{i}hrrh%{/i}..."
 }
 [sha:0c54328aa9213650e3ee6571bcf635fe8a9167af]{
 -- Page 248, Offset 40975.
 -- ―――その通りだ。
-―――And you know what... he's right.
+―――And he's right.
 }
 [sha:af5ef14dd63ce45da4d7e0c4073ef3b77fc47593]{
 -- Page 248, Offset 40976.
@@ -733,13 +738,13 @@ I can't make any fine adjustments to its course.
 [sha:4dc67af51bc1cfd87755e2a720b4be231fd327bc]{
 -- Page 248, Offset 40978.
 -- この力の流れを手懐ける事はできない。
-I can't tame this raging torrent of power with my bare hands.
+I can't get this torrent of power under control.
 }
 [sha:4bf16ab92e002a620887540ce3d35d89f3252a23]{
 -- Page 249, Offset 40979.
 -- 当然だ。前提が間違っている。
 Of course I can't.
- Those actions are based on a flawed premise.
+ I'm looking at this the wrong way.
 }
 [sha:0f3a7a3460bb805cfa4757282a64f50f55a787e3]{
 -- Page 249, Offset 40980.
@@ -749,31 +754,29 @@ I'm not able to deftly and accurately manipulate the forces of nature.
 [sha:cef4a49e2c93f90eac462c94a84ab094f838b8a1]{
 -- Page 249, Offset 40981.
 -- ヒトにできる事は時間をかけること。妥協すること。回り道をしながらも、最後には貪欲に辿り着くこと。
-But what we humans %{i}can%{/i} do it put in the time.
+But what we humans %{i}can%{/i} do is put in the time.
  We can compromise.
  We can grind away at something relentlessly, and still get there even if we have to take the long way around.
 }
-[sha:21652fae76fe1a32551860d9fb35bdf485cc48f3]{
+[offset:40982]{
 -- Page 250, Offset 40982.
 -- そう。
-That's right.
+Yeah.
 }
 [sha:1fd0a95da5062890d01d67d0f4525cdde0fa716f]{
 -- Page 250, Offset 40983.
 -- 正確に、天才のように、一分の無駄もなく合わせるのではなく―――
-I'm not going to do it as precisely, or as efficiently, as a genius would―――
+Instead of trying to line it up with the precision and flawless efficiency of a genius―――
 }
 [sha:7929d7ae450faa27a109b6b537fa00745b3a8f1f]{
 -- Page 250, Offset 40984.
 -- <最|・><短|・>より<最|・><長|・>のスパンで、工程を練り上げる―――！
-Instead of taking the %{i}shortest%{/i} path,
- I'll take the %{i}longest%{/i} one,
- and use that extra time to dial in my technique!
+I'll take the longest, rather than the shortest, time possible to dial it in!
 }
 [sha:5407a0f4e82b142d58d0e22e66b72296991c5d62]{
 -- Page 251, Offset 40985.
 -- 大きく、大きく操作する。
-I'll steer it around in a nice wide arc.
+I'll maneuver it in a nice, wide, arc.
 }
 [sha:e40492a51d1e999e82a87d8ec400857e1bc6f5fa]{
 -- Page 251, Offset 40986.
@@ -784,17 +787,17 @@ It's always good to think outside the box.
 -- Page 252, Offset 40987.
 -- <世界|コース>が大きくあるのなら、ハンドリングは大雑把でいい。
 If the course is big enough,
- then it doesn't matter if my handling isn't as good.
+ then it doesn't matter if my steering isn't as good.
 }
 [sha:ac9f7d3dbb66bc0e7bf5660dffe3740ceb089522]{
 -- Page 252, Offset 40988.
 -- 膨大な水圧に逆らわず<是|これ>をいなし、
-If I can avoid having to work directly against that enormous pressure―――
+If I can avoid having to work against the raging current―――
 }
 [sha:da1c64a5182ba79eaa16c92a2ddc7a67a0b778bb]{
 -- Page 252, Offset 40989.
 -- 迸る力の流れに抗わず<是|これ>をささえ、
-If I can support myself without having to go upstream against that torrent of power―――
+If I stabilize it by surrendering myself to the flow of surging power———
 }
 [sha:7866b17787af26529903b90926e2b4ec89018b82]{
 -- Page 253, Offset 40990.
@@ -804,7 +807,7 @@ If I can support myself without having to go upstream against that torrent of po
 [sha:8241ec2b409825abeef2c7fbca6033cfa5664b0b]{
 -- Page 253, Offset 40991.
 -- これで、最後―――
-This is the end―――
+This is it―――
 }
 [sha:95df9bf81fc08bda5d3e4f408f6d9d088a2cdfec]{
 -- Page 254, Offset 40992.
@@ -814,12 +817,13 @@ This is the end―――
 [sha:1acaec9fb1e8fece448648ecab25c3e397f41348]{
 -- Page 255, Offset 40993.
 -- ロアは言った。
-Roa mentioned something earlier―――
+// Flopped
+The Luminary is a test for the human senses.
 }
 [sha:65c7ad9240a0e0046520e5aabe93188a877095cb]{
 -- Page 255, Offset 40994.
 -- 光体はヒトの知覚を試すものだと。
-That the Luminary is a test of human perception.
+Roa mentioned this before.
 }
 [sha:1e91d8e4e551ed43455d96cf9c0d85a97a7141c7]{
 -- Page 255, Offset 40995.
@@ -837,13 +841,14 @@ But those up close will be shown the 'truth'.
 [sha:6d007d88a5bc4485df8745dec68c347b8a918d2c]{
 -- Page 256, Offset 40997.
 -- ―――だから。
-And that's why―――
+As such―――
 }
 [sha:90d53770738141d6410d39892c5d6f19dc3c4da3]{
 -- Page 256, Offset 40998.
 -- 肌が触れるほどの、瞳が合うほどの距離になった時、やっと、その真実を垣間見られる。
-When I got close enough that I could touch her,
- when I got close enough that our eyes could meet――I finally caught a glimpse of that truth.
+When I get close enough that I can almost touch her――
+when I get close enough that our eyes can meet――
+I finally catch a glimpse of that truth.
 }
 [sha:4299d2e611ce266b3c455297123e270b0e0f456b]{
 -- Page 257, Offset 40999.
@@ -873,14 +878,14 @@ It reminds me of the flower of the moon,
 // ろくで[も]なし alert!
 Even under these circumstances――
 no, precisely %{i}because%{/i} of these circumstances――
-it reminds me or just how worthless of a person I am.
+it reminds me of just how worthless of a person I am.
 }
 [sha:fb0c36e2341e4eb2a7d41687c1d496d2264e12d4]{
 -- Page 259, Offset 41004.
 -- この先、何があろうと、誰を愛そうと、それとは違うところで、遠野志貴はこの生き物を美しいと感じるだろう。
 No matter what happens after this,
- no matter who I fall in love with,
- I――Tohno Shiki――will always hold a different kind of love for this beautiful creature.
+ no matter who it is that I love,
+ I will always hold a different kind of admiration for this beautiful being.
 }
 [sha:cd69939dbeea4e2bc01e2bf09b7cc07cca5ce230]{
 -- Page 260, Offset 41005.
@@ -906,7 +911,7 @@ Yearning for a world in which we never met;
 -- Page 261, Offset 41008.
 -- カルヴァリアの火が、文明社会に君臨する巨人を射貫く。
 // Kinda expected her to just go full Phineas Gage mode
-The Flame of Calvaria pierces the giant reigning over civilization.
+The Flame of Calvaria pierces the giant lording over civilization.
 }
 [sha:9ee805ac18a6c032aa195072c370185e858b11d4]{
 -- Page 261, Offset 41009.
@@ -917,12 +922,12 @@ Straight through, from temple to toe.
 -- Page 261, Offset 41010.
 -- 光弾はその足元に穿たれた大穴まで貫通し、
 // Assuming the 大穴 is the event storage vortex?
-After that bullet of light ripped through her all the way to the massive vortex at her feet―――
+After the bullet of light has ripped all the way through to the massive vortex at her feet―――
 }
 [sha:7ae110b52fbf6d0ef507de711f563c1d74bf7e39]{
 -- Page 261, Offset 41011.
 -- 白い躯は粒子となって拡散していく。
-The white body starts to dissolve and scatter.
+The white body starts to disperse into its constituent particles.
 }
 [sha:79df411eaed4b32fd180bfec07a6c67c2c3434fc]{
 -- Page 262, Offset 41012.
@@ -943,19 +948,19 @@ There's no exhilarating feeling of accomplishment.
 -- Page 263, Offset 41015.
 -- ヤツは言った。
 // This is like the third standalone 'Roa said.' in this damn file
-When Roa described this method―――
+Earlier―――
 }
 [sha:70a9320302c11e89c7ed57208b3b906879b4b056]{
 -- Page 263, Offset 41016.
 -- 光体を倒すだけでいいのなら、と。
 // Referencing 40921, which I'm pretty sure then references something else
-He said it'd be fine if all I wanted was to %{i}defeat%{/i} the Luminary.
+Roa had asked if all I wanted to do was %{i}defeat%{/i} the Luminary.
 }
 [sha:8666f95661ec9536a828524d164ca588e213728a]{
 -- Page 263, Offset 41017.
 -- あれは罠に満ちた、けれど誠実な申告だった。
-That statement certainly has some gotchas in it,
- but at the same time, it was an honest description.
+Regardless of how roundabout it might have been,
+ that was an actual hint.
 }
 [sha:2646802e2d35a6b2c2445597c0ed965e6abd1e40]{
 -- Page 264, Offset 41018.
@@ -970,7 +975,7 @@ The hard part is what comes next.
 [sha:8294ffed71df8e02d13d06ce345774f19dd6060e]{
 -- Page 264, Offset 41020.
 -- 光体を止めた後、その後に来る『現象』への対処を、ロアは語らなかった。
-Roa never told me anything about how to deal with the 'phenomenon' that will appear after the Luminary has been defeated.
+Roa never told me anything about how to deal with the phenomenon that will appear after the Luminary has been defeated.
 }
 [sha:f5263911ce32dfc26fd7c9b83dc8c7ff796fbd31]{
 -- Page 264, Offset 41021.
@@ -980,7 +985,7 @@ In other words, what's about to happen is―――
 [sha:ba8ef92ff7c64e6aa09a037588c8c49dcb6365bf]{
 -- Page 265, Offset 41022.
 -- 惑星の地表を更新する<機能|システム>。
-The Luminary is a system that serves to reformat the surface of the planet.
+The Luminary is a system meant for resetting the surface of the planet.
 }
 [sha:74155e0a2cd6ad24892daae1598e649569889021]{
 -- Page 265, Offset 41023.
@@ -996,19 +1001,19 @@ The form of its body has now drifted away,
 [sha:53f8e78ad04ec5cde23917215e1250de4165344a]{
 -- Page 266, Offset 41025.
 -- その時。
-In that moment―――
+// Yoinking from below
+I mutter to myself without even thinking.
 }
 [sha:a0ee226c055bf4ee91e4dc2f7c99a85d1e9b3e76]{
 -- Page 266, Offset 41026.
 -- それが当然だと知っていたかのように、知らず、オレはそう呟いていた。
-I muttered that phrase without even thinking,
- as though I'd somehow known what was about to take place.
+Almost as if I'd known what was about to take place―――
 }
 [sha:c9acbcc5a6a98e72c63c56cb030c64cfd9375e68]{
 -- Page 267, Offset 41027.
 -- 直径２メートル大の球体に光体の粒子が収束する。
 // Assuming this is coalesce (around) the sphere that we saw before, not coalesce (into) a new sphere
-The fragments of the Luminary coalesce around a large sphere two meters in diameter.
+The particles of the Luminary coalesce around a two-meter-diameter sphere.
 }
 [sha:07896ba958ee65a437824d63d52ea4d8d612b794]{
 -- Page 267, Offset 41028.
@@ -1019,7 +1024,7 @@ Even though I don't have a clue what that thing is,
 [sha:35114b124fe7443e792880b5488e6c9b6b2f716e]{
 -- Page 267, Offset 41029.
 -- 変革の時が来た。
-A time of change is upon us.
+The upheaval has come.
 }
 [sha:7168646b905dfa5748deab465d87cc886ff42a1f]{
 -- Page 268, Offset 41030.
@@ -1036,18 +1041,18 @@ The Memories of the Planet.
 -- Page 268, Offset 41032.
 -- 全てを知ろうとした<少年|ミハイル>。
 // So funny to hear him just called Mike
-The boy, Michael, who strove to know everything.
+As a boy, Michael had sought to know everything.
 }
 [sha:70f63c7d8e0f2c8b4105e7ac10e2252f8ce7fdd0]{
 -- Page 268, Offset 41033.
 -- 神の愛を、永遠を定義しようとした<男|ロア>。
-The man, Roa, who strove to define both eternity and divine love.
+As a man, Roa had sought to define eternity——to define God's love.
 }
 [sha:98fa5006655a771c6ff530ef2657926cd668dc34]{
 -- Page 268, Offset 41034.
 -- 機会は既に失われたが、その望みの一端が、いま、この地表に表れる。
-His opportunity to do so had long been lost,
- but now a glimmer of hope has presented itself here on earth.
+Though he has already lost his opportunity to do so,
+ a fragment of that wish has now appeared upon the earth.
 }
 [sha:02920554226f9c28ac3ee354cacde9dae07e8c44]{
 -- Page 269, Offset 41035.
@@ -1062,8 +1067,8 @@ Space is being overwritten.
 [sha:62b093cb4754211a5d809cd47bcb8f8b8cf44138]{
 -- Page 270, Offset 41037.
 -- 全天が燃えている。目映い光を放っている。
-The heavens are on fire.
- The light it gives off is absolutely blinding.
+The heavens are ablaze.
+ The light given off is blinding.
 }
 [sha:5be3bb8abcc21071164b6acbe970f48fc8f4656c]{
 -- Page 270, Offset 41038.
@@ -1088,17 +1093,15 @@ Even though an infinite number of stars shine within it―――
 [sha:757214566bdff9acb4cd7fdf05a5054d347c2c22]{
 -- Page 271, Offset 41042.
 -- 無限の広さを持つ宇宙を照らし上げるには、密度と時間が足りないからだ。
-There are still not enough of them,
- and they do not burn long enough,
- to illuminate the infinite expanse of the universe.
+They have not the time nor the density to light up its infinite expanse.
 }
 [sha:9995800c64ec48f7e6a882bfd0dfeff02e1f783f]{
 -- Page 272, Offset 41043.
 -- 地球から見る宇宙とは、たった138億光年分の情報でしかない。その程度の光源で、暗く冷たい宇宙を照らし上げるコトはできない。
 // Illumination here figurative?
 // That which is lit by the searchlight of human astronomical observation?
-When we look into space from Earth, we can only see a mere 13.8 billion light-years worth of information.
- Such a narrow view could never hope to shed light on the full reaches of a dark and cold universe.
+The universe as seen from Earth contains only 13.8 billion light-years worth of information.
+ Such a paltry light source could never hope to illuminate the dark and cold reaches of the universe.
 }
 [sha:06bfd8bdcdc674a57a78b6b077a4d64a526d5ba8]{
 -- Page 273, Offset 41044.
@@ -1110,17 +1113,17 @@ However――what if the universe's expansion was still in its early stages?
 -- Page 273, Offset 41045.
 -- ■■■■■■というものがあるとすれば。
 // No clue what this is supposed to be, so can't space the blanks/structure the sentence around it that well
-If we assume that ■■■■■■ really exists―――
+What if we assume that ■■■■■■ really exists?
 }
 [sha:3e0c25f065049403d41796ed56003ec024343406]{
 -- Page 273, Offset 41046.
 -- 何よりも<未|あたら>しい、何よりも<移|とお>ざかる、
-Then a crimson sky would be released―――
+In which case, a crimson cosmos would be emitted.
 }
 [sha:1e2e6987b2e48aeca20b77300f880f138522a7f9]{
 -- Page 273, Offset 41047.
 -- 真紅の<宙|ソラ>が放出される。
-Newer and vaster than anything that had come before.
+That newest and most distant thing of all.
 }
 [sha:51f258dcb7d6abf60f297ef2c01bb20e6f26aa17]{
 -- Page 274, Offset 41048.
@@ -1130,7 +1133,7 @@ Newer and vaster than anything that had come before.
 [sha:fe7a1f731eca468844af6270c2f6c37da0a22bc6]{
 -- Page 274, Offset 41049.
 -- これは概念の宇宙。
-So this is the Conceptual Universe.
+This is a conceptual universe.
 }
 [sha:bd4005db9700048c3b8b3da92c0f46f4ec45079b]{
 -- Page 274, Offset 41050.
@@ -1150,8 +1153,8 @@ The smallest, innermost, and yet most infinite part of the cosmos.
 [sha:1a918f8b1610a8183ac0281b5c90f619720155fb]{
 -- Page 275, Offset 41053.
 -- その奔流の中、ただ一つの例外として、俺は現実にはない速度で落下していく。
-The sole foreign entity caught within this raging torrent,
- I fall at speeds unthinkable in reality.
+The sole anomaly caught within this raging torrent,
+ I fall at speeds that do not exist in reality.
 }
 [sha:f1cf280ad97b2224bf7dada2c8dc5ea7b2c68bd2]{
 -- Page 276, Offset 41054.
@@ -1166,7 +1169,7 @@ I exceed the first cosmic velocity――the speed at which an object can attain 
 -- Page 276, Offset 41055.
 -- 惑星の重力から<脱出|のがれ>る第二宇宙速度。
 // Aka escape velocity
-Then the second cosmic velocity――the speed at which an object can escape a planets gravity altogether.
+Then the second cosmic velocity――the speed at which an object can escape a planet's gravity altogether.
 }
 [sha:74c8db4e2e89fad18f51324cba7f646e8ba0276a]{
 -- Page 276, Offset 41056.
@@ -1182,22 +1185,23 @@ And finally, the third cosmic velocity――the speed at which an object can esc
 [sha:8ad6e7f0b5341c2b39bbbedfaf9c2a8331b86c8c]{
 -- Page 277, Offset 41058.
 -- 数多の星、数多の始まりが、通り過ぎていく。
-I pass by countless planets, countless new beginnings.
+I pass by countless stars, countless beginnings.
 }
 [sha:e44c9e18df59bc649766e93e243465dc295d700e]{
 -- Page 277, Offset 41059.
 -- 人間では種の寿命をかけても見る事のない事象が過ぎ去っていく。
-Events that have never occurred during the lifespan of the entire human race whiz right by me.
+I pass by events that you wouldn't see no matter how far you stretched the lifespan of the human race.
 }
 [sha:c2e241e93c1be8e9d3a189c0ac64c85e0f773f25]{
 -- Page 277, Offset 41060.
 -- 関係ない。興味もない。
-But I don't care. It doesn't matter to me.
+Irrelevant.
+ Uninteresting.
 }
 [sha:79c1ef0a6cdf2f1ed06db4ddb6dbba611fcd01ee]{
 -- Page 277, Offset 41061.
 -- 今の俺には、あの輝きしか目に入らない。
-Right now, I only have eyes for that light.
+Right now, all I care about is that one light.
 }
 [sha:93cd2a3194fdb3f4cd8b59e33f2ba1cfb51fdd20]{
 -- Page 278, Offset 41062.
@@ -1213,39 +1217,39 @@ I use Attraction to control where I'll land.
 -- Page 278, Offset 41064.
 -- 200メートル直下の、光体の心臓に向けて落下する。
 I fall straight down toward the heart of the Luminary,
- two hundred meters below me.
+ 200 meters below me.
 }
 [sha:b282c580b41c998ce6df951c4c03b19e2db5cd5c]{
 -- Page 279, Offset 41065.
 -- 光体からの反撃はない。
-The Luminary makes no attempt to counterattack.
+It makes no attempt to counterattack.
 }
 [sha:0840d54d6888c0007a0c83cdcb6b4f02f8c6efea]{
 -- Page 279, Offset 41066.
 -- 無防備なのも当然だ。文字通り丸裸にされたのだから。
-Of course it doesn't――it's completely defenseless.
- I've literally stripped it naked.
+How could it? It's completely defenseless.
+ I've quite literally stripped it naked.
 }
 [sha:14fb25f8de713451d3b80dc6dbf73f060da25f79]{
 -- Page 279, Offset 41067.
 -- とはいえ、霧散したのは中心部分だけのところを見ると、この状態も長くは持たない。
 Still, when you consider that only the central column of the Luminary got vaporized,
- it's clear this state isn't going to last.
+ it's clear that these conditions won't last.
 }
 [sha:33b085328e37a9e4901a8c016655736d1a279e22]{
 -- Page 279, Offset 41068.
 -- 光体はすぐに元に戻るだろう。
-The Luminary is going to restore itself to normal before long.
+The Luminary will soon return to normal.
 }
 [sha:ea820cbf389ca1769224f5c079633d78ab66fbc3]{
 -- Page 279, Offset 41069.
 -- その前にあの“心臓”を解体する。
-But before it can, I'll dismantle that 'heart'.
+So before it can, I'll dismantle that 'heart'.
 }
 [sha:68b391aa18aff2570a703e1aef55eae4e6a48cba]{
 -- Page 280, Offset 41070.
 -- 「ふぅ―――――――――！」
-"%{i}Haah%{/i}―――!"
+"%{i}Hahhh%{/i}..."
 }
 [sha:17eca8b3556e4bf90d867d3bf212359ef1d73001]{
 -- Page 280, Offset 41071.
@@ -1255,8 +1259,8 @@ I'm going too fast to stop at the heart.
 [sha:266ff85c45b03b9c5115c274d135fee7775a38fe]{
 -- Page 280, Offset 41072.
 -- 接触は一瞬だけ。落ちながら、すれ違う事しかできない。
-I only need to be in range for a split second.
- I'll just have to strike it as I speed by.
+The best I can do is pass by it as I fall.
+ I'll only be in range for a split second.
 }
 [sha:6e86a4994c80534cc6d972eba07e0539e281c8bb]{
 -- Page 281, Offset 41073.
@@ -1271,12 +1275,12 @@ I only need to be in range for a split second.
 [sha:e4385d00543529b6bc99dd4489c8bfc707e8bf68]{
 -- Page 282, Offset 41075.
 -- ―――心臓、というのはあながち間違いではない。
-―――It isn't exactly %{i}wrong%{/i} to call that thing a 'heart'.
+―――'Heart' might actually not have been such an improper label.
 }
 [sha:f40f4ec05a9438f55b70ff63e0e81264833ceca7]{
 -- Page 282, Offset 41076.
 -- 死の点も、死の線も見えない。
-I can't see any lines or points of death on it.
+It has no visible lines or points of death.
 }
 [sha:7bc57278de9697561bbcb9cfff3802d3c0fea62d]{
 -- Page 282, Offset 41077.
@@ -1286,7 +1290,7 @@ The vigorous heartbeat of life.
 [sha:cdaf338427ee0c1e7610b5c6b1c6b03f2424a15c]{
 -- Page 282, Offset 41078.
 -- 全ての源にして、最後に還りつく星の墓所。
-The Graveyard of the Planet, from which all originates, and to which all returns.
+The cemetery of stars, from which all originates, and to which all returns.
 }
 [sha:5713e15890ef03489abba64e5401ef9bf7f422a6]{
 -- Page 282, Offset 41079.
@@ -1297,7 +1301,7 @@ It is like a Celestial Egg,
 [sha:9ee219c1ed439afc28c06d6d3565abb93397368c]{
 -- Page 283, Offset 41080.
 -- これを殺す事は、今の遠野志貴にはできない。
-Killing something like that is impossible for Tohno Shiki.
+Killing it is impossible for the current Tohno Shiki.
 }
 [sha:9b2e437869c73d65ebd87c00dfb771dd2c620b01]{
 -- Page 283, Offset 41081.
@@ -1313,6 +1317,6 @@ Because it is perfect,
 [sha:88da1d2de58702f7b716fd7c0203423dea3521af]{
 -- Page 283, Offset 41083.
 -- 夢から覚ますだけなら、ちっぽけな人間の手で充分だ。
-If all I have to do is wake her from her dream,
- then a single human hand is more than enough.
+If all that needs be done is wake her from her dream,
+ then even a measly human is more than capable.
 }
