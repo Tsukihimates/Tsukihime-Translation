@@ -6,7 +6,7 @@
 [sha:86723573b23856ab790b0f58780dd83be4a36045]{
 -- Page 10003, Offset 37890.
 -- ３階の渡り廊下まで身を隠し、ナイフを手にして、深呼吸をする。
-I hide myself in the third floor corridor that connects the two school buildings,
+I hide myself in the third-floor corridor that connects the two school buildings,
  grip my knife,
  and take a deep breath.
 }
@@ -299,7 +299,7 @@ She's a vampire who's as bloodthirsty as Vlov was, if not more so.
 [sha:e112cfbc5cca3d985586c550440c90c4f9cb45ae]{
 -- Page 117, Offset 37944.
 -- 今までと同じと考えた事が、致命的に間違えていた。
-Thinking that everything would be same as before was a fatal mistake.
+Thinking that everything would be the same as before was a fatal mistake.
 }
 [sha:017eb93d37cdfbacac22be4ba82d3bd874296afb]{
 -- Page 118, Offset 37945.
@@ -331,7 +331,7 @@ I should've just abandoned all rational thought, same as her,
 -- Page 119, Offset 37950.
 -- 階段前の踊り場で立ち尽くす。
 // Can't see the ground so assuming second floor?
-I stand frozen in place on the second floor landing.
+I stand frozen in place on the second-floor landing.
 }
 [sha:3d4431045c56beec27ce0d42f10572493eb52abb]{
 -- Page 119, Offset 37951.
@@ -574,7 +574,7 @@ Still barely clinging to consciousness,
 -- 「けれど、いいの？　ロアが死ぬという事は貴女も死ぬという事なのよ。ロアを消滅させてしまえば、貴女のこの体も普通の、つまらない人間の体に戻ってしまうでしょう」
 "I mean, are you fine with that?
  If Roa dies, that means that you'll die too.
- If you destroy Roa, your body will go back to being a normal, boring, human body."
+ If you destroy him, your body will go back to being a normal, boring, human body."
 }
 [sha:408485b575f5c95111be52805caa6045b6f06197]{
 -- Page 134, Offset 37994.
@@ -624,7 +624,7 @@ Despite that, she regains consciousness immediately,
 [sha:97eb95785f6886a2b9f6b43c1452ef6ea36ec359]{
 -- Page 137, Offset 38002.
 -- 「―――――――アル」
-"Aru―――"
+"Ar―――"
 }
 [sha:b16aea14e184aaa4a46b8abebea7d72588aed0c9]{
 -- Page 137, Offset 38003.
@@ -661,7 +661,7 @@ I slam my head against the wall
 [sha:b0a33407ae231ccf1aef6d3c5d6aa7f604c5d5b4]{
 -- Page 138, Offset 38009.
 -- 見ろ。
-Look.
+%{i}Look%{/i}.
 }
 [sha:be57a3e55c6a158a3f275c45fc06ad6887638ebb]{
 -- Page 138, Offset 38010.
@@ -676,7 +676,7 @@ I absolutely can't let her lay another %{i}finger%{/i} on ■■■.
 [sha:b0a33407ae231ccf1aef6d3c5d6aa7f604c5d5b4]{
 -- Page 139, Offset 38012.
 -- 見ろ。
-Look.
+%{i}Look%{/i}.
 }
 [sha:fd59962a47b7c5ea2b743789833cb5f19ed595f7]{
 -- Page 139, Offset 38013.
@@ -686,7 +686,7 @@ Stare so hard that all the blood vessels in your brain risk burning out from the
 [sha:b0a33407ae231ccf1aef6d3c5d6aa7f604c5d5b4]{
 -- Page 139, Offset 38014. Mods: @n.
 -- 見ろ。
-Look.
+%{i}Look%{/i}.
 }
 [sha:7bb6508aa13d7860ccf8c49ec0a405b45bac8a1d]{
 -- Page 139, Offset 38015. Glued. Mods: @n.
@@ -716,6 +716,7 @@ I feel like I'm going insane.
 [sha:c970eed66440ea0b947d9e97e1f37c71af6eb2e3]{
 -- Page 140, Offset 38020.
 -- 生命の死。鉱物の死。空間の死さえ視えている。
+// LintConsistency:40406
 I can see the death of life.
  I can see the death of minerals.
  I can even see the death of emptiness.
@@ -1006,7 +1007,7 @@ The avatar in white is bearing down on me,
 [sha:b4e7c81cfd73d6719bfac562157aad73021fb8a5]{
 -- Page 154, Offset 38073.
 -- その体には幾つもの線。
-A handful of lines criss-cross her body.
+A handful of lines crisscross her body.
 }
 [sha:dcf19e875db9b8296912e2a3962e05a335f52d48]{
 -- Page 154, Offset 38074.
@@ -1037,7 +1038,7 @@ But before I even have the chance to get fired up by this newfound possibility�
 [sha:d714327bbea5c3022f0dec7a53222505fc2ab1a9]{
 -- Page 155, Offset 38079.
 -- 「ご―――――ふ」
-"%{i}Guh%{/i}――%{i}ah%{/i}".
+"%{i}Guh%{/i}――%{i}ah%{/i}."
 }
 [sha:2e56a55e80a23d7818c7551b81c5fddc0f5ab0dc]{
 -- Page 155, Offset 38080.
