@@ -3610,19 +3610,24 @@ Imprisoning my Haunted Shadow
 }
 [sha:3339a3ffe3d59df0b5b9a8ba57eb5a1369f3a82a]{
 -- 15日目―――
-15th day――
+// @flowchart_title
+15th day
 }
 [sha:6c822ae19291fffdbdaa9c3f42beaefe300ff9e1]{
 -- 告白
+// @flowchart_title
 Confession
 }
 [sha:ec49e960c0ff39e25a26c3c0032dc6f3ecb26ddc]{
 -- 旅の終わり
-End of the journey
+// @flowchart_title
+Journey's End
 }
 [sha:e6c3fb2fcff0597063d68558af3b70320fe21476]{
 -- 月の荒野。
-Moon Wilderness.
+// Same phrase used in 32352.
+// @flowchart_title
+Barren Surface of the Moon
 }
 [sha:dde5aecaaeefdac2ea934226b1985f1bb0f8875b]{
 -- 吸血姫のキス
@@ -3631,131 +3636,181 @@ I Kiss the Vampiress
 }
 [sha:522d23adb664f3efaf270b31b32563b33653fc3a]{
 -- 直死の魔眼
+// @flowchart_title
 Mystic Eyes of Death Perception
 }
 [sha:8f00da8fc82674361bab384ab65c054901c1a745]{
 -- 閉幕。
-The curtain falls.
+// @flowchart_title
+The Curtain Falls
 }
 [sha:27d1b3eb031060bb31147463d193ac071050412f]{
 -- クラーケ　Ⅳ
+// @flowchart_title
 Krake IV
 }
 [sha:6c0413f3dce2782a0a1464d0192e0c6a4ef9d7a1]{
 -- 15日目・朝。
+// @flowchart_title
 15th day ― Morning
 }
 [sha:a94a9bf90de20a5e557eeb4fc16af8c5a4920a10]{
 -- 籠城
+// @flowchart_title
 Besieged
 }
 [sha:fbfaac6123c25355ab565d091cad2dc6a947a70e]{
 -- 琥珀を追い返す。
-Drive away Kohaku
+// See 42746.
+// @flowchart_title
+I'll turn Kohaku away
 }
 [sha:e8869fba91cd1f552ff5ac5b4a7f89570dfadc70]{
 -- 食事だけ置いていってもらう。
-Just leave the food there.
+// See 42747.
+// @flowchart_title
+I'll get her to leave the food
 }
 [sha:37a4a6f744e501d1a8a4ab0422fad69a5c42ecf4]{
 -- 決壊
+// @flowchart_title
 Breach
 }
 [sha:4f105a531912ed33187262a2e7bbf577b3f9d9f2]{
 -- 逃げ出した先に。
-Before escaping
+// Kinda confusing temoprality here. He's already mid-逃げ出す in this file?
+// @flowchart_title
+Escape Preparation
 }
 [sha:0bb4987ba306b0ab7d150b6727ae140c847a75d6]{
 -- 地の底に来たれ、断罪者
-Judge in the other depths
+// Translated as 'adjudicator' in 34207.
+// @flowchart_title
+Come to the crater, adjudicator
 }
 [sha:01ac9b8aafdc27620d41e722537b54f3030c5248]{
 -- 前方に逃げる。
-Escape forward.
+// See 42748.
+// @flowchart_title
+I escape forward
 }
 [sha:6bda3a033d8db1355007d04d3d6ea7a6b708aa1d]{
 -- 後方に逃げる。
-Escape back.
+// See 42749.
+// @flowchart_title
+I escape backward
 }
 [sha:2b6e579cec845d79efc275088d110ff8029764ed]{
 -- 静かの海
-Quiet ocean
+// Ref 34201.
+// @flowchart_title
+Tranquil Ocean
 }
 [sha:7f68660e106cd8aa387a635dcf3a1ee16d47b05e]{
 -- ……眼鏡を外す。
-Remove my glasses.
+// See 42750.
+// @flowchart_title
+I take off my glasses
 }
 [sha:6c0db2a77be8bf392ca94f4dd45e3830f41b8049]{
 -- ……眼鏡は外さない。
-Don't remove my glasses.
+// See 42751.
+// @flowchart_title
+I won't take off my glasses
 }
 [sha:7488264c50b45b12f8e1408ecee9f27aff70b854]{
 -- フランス事変
+// @flowchart_title
 The French Incident
 }
 [sha:944de506a7cb863518b944bf5f2371c11f1dc1eb]{
 -- 薔薇園からの生還
-Homecoming from the rose garden
+// @flowchart_title
+Surviving the Rose Garden
 }
 [sha:74605d5363f7230854721c839b5d84d932e10898]{
 -- 最短で、あの吸血鬼を殺す。
-Kill that vampire at close range.
+// Ref 42752.
+// @flowchart_title
+I kill her as quickly as possible
 }
 [sha:eb106fb5d6ccdc4dcd3db117b554212330dcd265]{
 -- シエル先輩を連れて逃げる。
-Escape with Ciel-senpai
+// Ref 42753.
+// @flowchart_title
+I take Ciel-senpai and run
 }
 [sha:030a43dbff9391cd6259531614aceb82c6c7a02a]{
 -- ウサギ狩り
-Rabbit Hunting
+// Phrased consistently with 35561.
+// @flowchart_title
+Rabbit Hunt
 }
 [sha:7895f6b81c2cb031242cd834010f63504bb848f0]{
 -- 面倒だ。殺してしまえ。
-Kill her. She's a nuisance.
+// Ref 42754.
+// @flowchart_title
+I'll kill her. She's a nuisance.
 }
 [sha:8f9b4d1bca1abf8356cf86594563a14c17de17cb]{
 -- ………………いや、それは。
+// Ref 42755.
+// @flowchart_title
 No... that's...
 }
 [sha:ee57487b497ebc8f3ab50b97f246d1c54e9b463d]{
 -- 抗戦
-Resistance.
+// @flowchart_title
+Resistance
 }
 [sha:5b2cea4ad14c62bfed70893f435de4579205d5e6]{
 -- ルナ・ボウ
+// @flowchart_title
 Lunar Bow
 }
 [sha:650d0cc7f4f39b44e46d4793d025bbe4786cb332]{
 -- クリスマス・チャペル
+// @flowchart_title
 Christmas Chapel
 }
 [sha:98a1cbbabdcf0deec6607a880edbd090bc7fa964]{
 -- 灰は灰に
-Ashes to ashes
+// Fun to Funky
+// @flowchart_title
+Ashes to Ashes
 }
 [sha:a2d8e945ca5f334332532b2fd9301552c79ba0b0]{
 -- 不可視の花
-Invisible flower
+// Ref 36415.
+// @flowchart_title
+Invisible Flower
 }
 [sha:d358be177e910b2fbb1e7551c569026c809a4fcd]{
 -- いっときの休息
-Brief reprieve
+// @flowchart_title
+Brief Reprieve
 }
 [sha:3bd6c9991921d1ccfc61e8926492f6076adf278a]{
 -- 気になるけどスルー。
-I'm curious, but I'll let it go.
+// Ref 42756.
+// @flowchart_title
+I'm curious, but I'll ignore it
 }
 [sha:048fcae2698fae53a7cba801ea3adc0dc14af3ed]{
 -- スルーできない。
-I can't let it go.
+// Ref 42757.
+// @flowchart_title
+We need to address this
 }
 [sha:39209de80709d7284f0d899c05d271ad0556fc2c]{
 -- 健やかなる時も
-When I get better, too
+// @flowchart_title
+In Sickness and in Health
 }
 [sha:d141e083b5facb423d53914b2afc250c8bc15481]{
 -- 夜明け前
-Before daybreak.
+// @flowchart_title
+Before Dawn
 }
 [sha:104d9777f7ab735c111ec1278b7ca8a0e1f2534c]{
 -- 月姫
@@ -6732,7 +6787,9 @@ Executor Ciel tries to carry out^her independent extermination of^Roa, however�
 }
 [sha:87efc66e65a3aa31f879cf5d0dca46afa3bb12d4]{
 -- 屋敷の外に出る。^また堪えきれなくなる前に、^誰もいない場所へ逃げなければ。
-屋敷の外に出る。^また堪えきれなくなる前に、^誰もいない場所へ逃げなければ。
+// @flowchart_descr
+I flee the mansion.
+ I need to escape to somewhere without anyone else around before I lose control again.
 }
 [sha:ecdbf9cab2a69d966ccfc4a564a8546bd0a7fccb]{
 -- デパートの跡地に潜り込む。^きっと先輩は来てくれる。^来てくれる。
