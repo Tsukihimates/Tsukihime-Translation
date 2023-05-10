@@ -50,14 +50,15 @@ The fear of the unknown is real.
 -- Page 69, Offset 39575. Mods: @k, @e.
 -- 『最短距離で直進するのなら、
 %{i}
-"If you were to travel as the crow flies―――
+"If you were to travel as the crow flies,
 %{/i}
 }
 [sha:8be63c4e78bc6f5af0a89a58b57f5856f81fc738]{
 -- Page 69, Offset 39576.
 -- 光体まで目測で800メートル。
+%{force_glue}
 %{i}
-I estimate 800 meters separate you from the Luminary.
+ I estimate 800 meters separate you from the Luminary.
 %{/i}
 }
 [sha:6c4d0ededa6e0001725eaaa98294daf5b2602bd3]{
@@ -114,7 +115,7 @@ As its central depths, approaching her is difficult.
 -- Page 71, Offset 39585. Mods: @k, @e.
 -- 世界そのものが彼女を尊重し、
 %{i}
-Out of respect, the very world distances itself from her―――
+Out of respect, the very world distances itself from her.
 %{/i}
 }
 [sha:872c92bf7d4ed89cc0d7a6606802dfed7f1551fe]{
@@ -199,7 +200,7 @@ She is not even aware of our existence."
 [sha:baf92135066b24aba486d0db8a9b2f1a0200c37d]{
 -- Page 75, Offset 39599.
 -- 「意識されていない―――」
-"She isn't aware of us―――"
+"She isn't aware of us?"
 }
 [sha:4685bfc6e434ea1edcf3c3b8b7784aed5c6ca25a]{
 -- Page 75, Offset 39600.
@@ -216,9 +217,9 @@ I'm glad to hear it,
 [sha:d74c9362b3123ec77e04b40fde0ba997f0682f52]{
 -- Page 75, Offset 39602.
 -- 以前の俺であれば躱す事もできず体を二つに分けられていた風圧は、この世界においては自然現象にすぎないという事だ。
-It basically implies that the wind pressure,
+It basically implies that those gusts of wind,
  which would have sliced me in two if I weren't half-vampire,
- is an unremarkable natural phenomenon in this world.
+ are an unremarkable natural phenomenon in this world.
 }
 [sha:9bf9207e620c370d068b379025a00663a9b4ac22]{
 -- Page 76, Offset 39603.
