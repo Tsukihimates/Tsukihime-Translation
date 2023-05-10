@@ -3766,7 +3766,8 @@ Resistance
 [sha:5b2cea4ad14c62bfed70893f435de4579205d5e6]{
 -- ルナ・ボウ
 // @flowchart_title
-Lunar Bow
+// Descr here is talking about rainbows at night, so going to assume he's talking about Moonbow rather than bow (and arrow)
+Moonbow
 }
 [sha:650d0cc7f4f39b44e46d4793d025bbe4786cb332]{
 -- クリスマス・チャペル
@@ -6735,55 +6736,87 @@ You are turning into a prison.
 }
 [sha:c23230d3389c07916803c0a29e2a617247e8ba09]{
 -- 自分はまだ生きているらしい。^懐かしい夢から目を覚ますと、^そこには秋葉の姿があった。
-It seems like I'm still alive.^After awakening from a nostalgic^dream, I see Akiha's figure.
+// @flowchart_descr
+It seems like I'm still alive.
+ As I wake from my nostalgic dream, I'm met by the figure of Akiha.
 }
 [sha:b798ddd8a6d4c26697ccbf7c908b972c535d206b]{
 -- 代行者から真実を聞く。^自分の幸福のために、^彼女の幸福が欲しいと願った。
-I ask the Executor for the truth.^For the sake of my own happiness,^I wished for Arcueid's happiness.
+// No great direct quotes for this one. Generally 32159 and surrounding offsets.
+// @flowchart_descr
+I hear the truth from the Executor.
+ For the sake of my own happiness, I wanted to make Arcueid happy.
 }
 [sha:24dd7af0953e25f99b4dbfde8ff3b715f4fd7dfc]{
 -- 月の兎は、夜を駆ける。
-The moon rabbit soars through the^night.
+// Plain 月の兎 doesn't appear in the script, though 月面を跳ぶ兎 comes up at least three times in reference to Arc.
+// @flowchart_descr
+The rabbit of the moon soars through the night.
 }
 [sha:2e4ea05f71e7144e4a62f870ebd4463349b2a6ab]{
 -- アルクェイドを追って^夜の学校へ。^死の影は誰のものか。
-Chasing after Arcueid, we head^into the nighttime school. Whose^shade is the one of death?
+// 夜 adjusted to a more normal adjective, as elsewhere
+// @flowchart_descr
+Chasing after Arcueid, we head for the deserted school.
+ To whom does the shadow of death cling?
 }
 [sha:1dc32b1ee486a90e5465f7403f7b96559af27a77]{
 -- 月の光を、忘れないように。
-So I may never forget the moon's^light.
+// @flowchart_descr
+So I may never forget the moon's light.
 }
 [sha:5145523f8d17324716238dff315acf65b9f2e2b1]{
 -- 境界が崩れていく。^人間である事に、^何を拘っていたのだろう。
-The boundaries collapse.^Why was I so concerned with my^own humanity?
+// @flowchart_descr
+The boundaries are crumbling.
+ Why was I so concerned with preserving my own humanity?
 }
 [sha:9f128144d6d10e414e686b843d97b9e8d001a613]{
 -- 転生は無限ではなくなり、^代行者は罪を取り上げた。^これもまた、一つの終わり。
-His reincarnation; infinite no^longer, as the Executor takes^on my sin.^This too, is another ending.
+// @flowchart_descr
+His reincarnation is infinite no longer.
+ The Executor shoulders my sin.
+ This, too, is another ending.
 }
 [sha:35c0540cbcc3b0dcc0aa563a918d349312c55e3b]{
 -- 単独でロア討伐を実行する^代行者シエル。^だが―――
-Executor Ciel tries to carry out^her independent extermination of^Roa, however――
+// @flowchart_descr
+Executor Ciel moves to subjugate Roa on her own.
+ However――
 }
 [sha:26a2c5e822acabbecdc87acf6e35ba1c86025f9d]{
 -- 一睡も出来ぬまま朝を迎えた。^右手の傷はふさがっている。^この体は、とても便利だ。
-一睡も出来ぬまま朝を迎えた。^右手の傷はふさがっている。^この体は、とても便利だ。
+// @flowchart_descr
+The day dawns on a sleepless night.
+ The wound in my right hand has already healed.
+ This body certainly has its perks.
 }
 [sha:4c5b1a100d8219c54eb0ca82036e47dac1e18654]{
 -- 時間の経過がおかしい。^萎びていく意識と裏腹に、^身体は衝動を持て余していた。
-時間の経過がおかしい。^萎びていく意識と裏腹に、^身体は衝動を持て余していた。
+// @flowchart_descr
+Time is passing in fits and starts.
+ Even as my consciousness begins to wither and fade,
+ my body is overwhelmed with urges.
 }
 [sha:54711c3cf9e42db20dcaed5431b08270de3dc298]{
 -- 扉が開いていく。^琥珀が部屋に入ってくる。^最後の理性で警告をするが―――
-扉が開いていく。^琥珀が部屋に入ってくる。^最後の理性で警告をするが―――
+// @flowchart_descr
+The door opens.
+ Kohaku begins to enter my room.
+ With the last of my sanity, I warn her, but―――
 }
 [sha:cab52b01c87504ee57165fe24d891193af5a5b74]{
 -- 体中がたぎっている。^食事を置いたなら、すぐにでも、^出て行ってもらわなければ……。
-体中がたぎっている。^食事を置いたなら、すぐにでも、^出て行ってもらわなければ……。
+// @flowchart_descr
+My body is like a wound spring.
+ I need her to get out of here as soon as she leaves the food―――
 }
 [sha:ae4ab28f7b12ad0942b6dc0a7ff34bdf2ac2d825]{
 -- もう歯止めは利かなかった。^喉が渇いてたまらない。^ふと我に返ると、そこには―――
-もう歯止めは利かなかった。^喉が渇いてたまらない。^ふと我に返ると、そこには―――
+// @flowchart_descr
+I just couldn't hold myself back any longer.
+ I was so thirsty I couldn't bear it.
+ When I come to my senses, I'm greeted by―――
 }
 [sha:87efc66e65a3aa31f879cf5d0dca46afa3bb12d4]{
 -- 屋敷の外に出る。^また堪えきれなくなる前に、^誰もいない場所へ逃げなければ。
@@ -6793,99 +6826,158 @@ I flee the mansion.
 }
 [sha:ecdbf9cab2a69d966ccfc4a564a8546bd0a7fccb]{
 -- デパートの跡地に潜り込む。^きっと先輩は来てくれる。^来てくれる。
-デパートの跡地に潜り込む。^きっと先輩は来てくれる。^来てくれる。
+// @flowchart_descr
+I sneak into the ruins where the department store once stood.
+ Senpai will definitely come.
+ I'm certain of it.
 }
 [sha:46b58330c3f04e233512b1d2767a4435b8dfb655]{
 -- 背中を見せれば撃たれるだけだ。^全力で前に向かって走り出す。^そのまま真横をすり抜けて―――
-背中を見せれば撃たれるだけだ。^全力で前に向かって走り出す。^そのまま真横をすり抜けて―――
+// Quoting 33900, 33907.
+// @flowchart_descr
+If I tried to run away, she'd run my heart through the moment I turned my back on her.
+ Instead I lunge forward as fast as I can, and slip through her flank―――
 }
 [sha:698e2c94f7986733faead7a248e098f2db225785]{
 -- 背中を向けて走る。^今の肉体なら、^難なく逃げだせる筈だ―――
-背中を向けて走る。^今の肉体なら、^難なく逃げだせる筈だ―――
+// @flowchart_descr
+I'll turn tail and run.
+ With my transformed body, I should have no problem escaping from her―――
 }
 [sha:c82da45a8c696a0a8996bcbd14535fd25d79e011]{
 -- これ以上逃げられそうにない。^すぐに彼女がやってくるだろう。^まだ生きたいと思うのなら――
-これ以上逃げられそうにない。^すぐに彼女がやってくるだろう。^まだ生きたいと思うのなら――
+// @flowchart_descr
+It looks like this is as far as I can run.
+ I'm sure she'll be hear any second now.
+ If I still want to live, I have to―――
 }
 [sha:c631f090e0b297f8b9f4e2c4ecf257e0df8cae21]{
 -- すべて幻になってしまえばいい。^ナイフを握って立ち上がり、^最後の代行者と対峙する。
-すべて幻になってしまえばいい。^ナイフを握って立ち上がり、^最後の代行者と対峙する。
+// Quoting 34277.
+// @flowchart_descr
+If it all becomes nothing more than an illusion, that's fine.
+ Gripping my knife firmly, I stand to face the Executor one last time.
 }
 [sha:571678ac967507d27a6259d918bf0b2d13c828fd]{
 -- 死を視るより、^現を見る。^幻にならないように。
-死を視るより、^現を見る。^幻にならないように。
+// @flowchart_descr
+Instead of looking to death, I will look to reality.
+ I will not let things fade into illusion.
 }
 [sha:d57f56f68e3e8013a46773480ea58b356bb4b5fd]{
 -- 遠くから響くチャペル。^復讐に血をたぎらせる、^幼き吸血鬼が現れる。
-遠くから響くチャペル。^復讐に血をたぎらせる、^幼き吸血鬼が現れる。
+// @flowchart_descr
+Chapel bells ring in the distance.
+ A vampire child emerges, hungry for revenge.
 }
 [sha:7bc12c495a0c04108f9c816acb45b5e7ae8fd061]{
 -- １３年前の真実。^とある田舎町で起きた、^世界を殺す毒の製法、その失敗。
-１３年前の真実。^とある田舎町で起きた、^世界を殺す毒の製法、その失敗。
+// @flowchart_descr
+The truth of the incident thirteen years ago.
+ In some unremarkable provincial town, the manufacture of a poison to kill the world ends in failure.
 }
 [sha:f8c9014b7faae1df7df854d49d8964354a6d13b2]{
 -- 吸血鬼の魔眼から解放された^ものの、状況は最悪のまま。^戦うべきか、逃げるべきか……？
-吸血鬼の魔眼から解放された^ものの、状況は最悪のまま。^戦うべきか、逃げるべきか……？
+// @flowchart_descr
+Even though I've escaped from the vampire's Mystic Eyes, the situation remains grim.
+ Should I fight, or flee?
 }
 [sha:7c0f240112baf778bdeddac318e9bd940ee38425]{
 -- ヤツさえ殺してしまえば、^先輩も解放される筈だ。^最短であの吸血鬼を黙らせる！
-ヤツさえ殺してしまえば、^先輩も解放される筈だ。^最短であの吸血鬼を黙らせる！
+// @flowchart_descr
+I ought to be able to free Senpai if I kill her.
+ I'll shut that vampire up right here and now!
 }
 [sha:fa9904b72f3ef46655351d1ba57caefa45e0c995]{
 -- 状況は理解できている。^普通ではなくなったこの体で、^死者の群れを突破する―――！
-状況は理解できている。^普通ではなくなったこの体で、^死者の群れを突破する―――！
+// @flowchart_descr
+The situation is clear.
+ With my changed body, I'll break through the hordes of the Dead!
 }
 [sha:dbc487823e7270c0482527a53cffda8653cc20b6]{
 -- 鉄串の檻が逃げ道を塞ぐ。^目前には畏怖すべき吸血鬼。^なら、後は殺し合うだけ。
-鉄串の檻が逃げ道を塞ぐ。^目前には畏怖すべき吸血鬼。^なら、後は殺し合うだけ。
+// @flowchart_descr
+Behind me, a cage of iron pailings cuts off my escape.
+ Before me, there stands a fearsome vampire.
+ What is there to do but fight?
 }
 [sha:d397049850869ba90f56e4dc4a960c338bc21783]{
 -- 考えるより先に首を断った。^吸血鬼は死に、死者は土に還り、^贖罪だけが引き継がれた。
-考えるより先に首を断った。^吸血鬼は死に、死者は土に還り、^贖罪だけが引き継がれた。
+// @flowchart_descr
+I slice off her head faster than I can even think.
+ The vampire dies, and the Dead return to the earth.
+ Only atonement remains.
 }
 [sha:dc5c873d55f33089f0264e3ba62304849ae319c1]{
 -- 千載一遇の機会を見送った。^……この決着は、^彼女たちの物語だ。
-千載一遇の機会を見送った。^……この決着は、^彼女たちの物語だ。
+// @flowchart_descr
+I can't believe I let that once-in-a-lifetime opportunity pass me by...
+ Victory is already as good as hers.
 }
 [sha:575eca6331c79d09687eba643339289472ae0b0a]{
 -- 死人は際限なく群がってくる。^殺されるつもりはない。^必ず戻ると信じている。
-死人は際限なく群がってくる。^殺されるつもりはない。^必ず戻ると信じている。
+// @flowchart_descr
+The Dead keep flinging themselves at me with no end in sight.
+ But I don't plan on dying here――I have complete faith that she'll return.
 }
 [sha:613a32e9d2e7b11cfd4b51ac884a552e03e57d4a]{
 -- いまは、^夜に虹はかからなくとも。
-いまは、^夜に虹はかからなくとも。
+// @flowchart_descr
+Even if, as of now, there exist no rainbows in the night.
 }
 [sha:4ea15c8bcee2e5ac4c92cc71a477bf1266d38c99]{
 -- 代行者、復活。^断罪の杭は分け隔てなく^彼女たちの魂に。
-代行者、復活。^断罪の杭は分け隔てなく^彼女たちの魂に。
+// @flowchart_descr
+An Executor reborn.
+ The stake of condemnation resides equally within their hearts.
 }
 [sha:b5696b90166a79cb131cf846ffa27a0502ed1a10]{
 -- ……“もしも”の話は、^ここにはなく。
-……“もしも”の話は、^ここにはなく。
+// @flowchart_descr
+Here, now, there are no 'what-if's.
 }
 [sha:c62d546726abad7e02c846cf4cad0c97bfc83674]{
 -- 戦いは幕を下ろす。^月に照らされたその地には、^一部始終を見届けた姿があった。
-戦いは幕を下ろす。^月に照らされたその地には、^一部始終を見届けた姿があった。
+// @flowchart_descr
+The curtain falls on their battle.
+ From on high, a moonlit figure witnessed the entire affair.
 }
 [sha:869fbad78ab07f24a73961195dd4567dcc39e80c]{
 -- 戦いは終わり、^シエル先輩のアパートへ。^彼女への気持ちを再確認する。
-戦いは終わり、^シエル先輩のアパートへ。^彼女への気持ちを再確認する。
+// @flowchart_descr
+With the battle over, we head to Ciel's apartment.
+ I clearly state my feelings for her once more.
 }
 [sha:abb730b0ed1e127b6f69f6ecd1ed698925aed216]{
 -- 興味深い話題だったが、^深入りでできる空気でもない。^断腸の思いでスルー。
-興味深い話題だったが、^深入りでできる空気でもない。^断腸の思いでスルー。
+// Quoting 36610/36611.
+// This flowchart box is basically the entire file lol
+// @flowchart_descr
+Curious as I am, now isn't the time to be teasing Senpai.
+  As much as it pains me to do so, I have no choice but to ignore it for now.
 }
 [sha:16374b9263c04fe217bb4a7a67901be769435afd]{
 -- 今までの情報から逆算する。^つまり、先輩のそれは―――^その時から、もう既に―――
-今までの情報から逆算する。^つまり、先輩のそれは―――^その時から、もう既に―――
+// See 36614/5.
+// already [had that kind of figure]
+// @flowchart_descr
+Working backwards from what I know,
+ that means... even back then, Senpai already―――
 }
 [sha:21c5fcdc6657ff02778de08d82e9268d307f90a9]{
 -- 病める時も。^互いを許し、認め、律し、^笑い合えるように。
-病める時も。^互いを許し、認め、律し、^笑い合えるように。
+// Moved the 病める時も into the title to avoid splitting the phrase.
+// Modified this to be closer to the rest of the traditional vow
+// @flowchart_descr
+To have and to hold, from this day forth.
+ That we may forgive, cherish, honor, and laugh with each other.
 }
 [sha:67d1e34a9063e882c1ab207c4bcde1354d68ab45]{
 -- 空が白ばんでいく。^今は眠ってしまわぬように、^ただ、先輩の声を聞いていた。
-空が白ばんでいく。^今は眠ってしまわぬように、^ただ、先輩の声を聞いていた。
+// See 36717.
+// @flowchart_descr
+Light is beginning to seep in through the curtains.
+ To avoid falling asleep, I've just been listening to the sound of Senpai's voice.
 }
 [sha:ce93b96a3571aeba9051d2246f60a87f7b257e07]{
 -- あの夜から一週間が経った。^変わらぬ日常の中で、^ひとつの約束を覚えている―――
