@@ -264,6 +264,7 @@ game change like this?
 [sha:90781d5f9fcf254c3a2314ec073c3e809e86777c]{
 -- Page 192, Offset 43671.
 -- …………彼女に一つだけ。
+// lint-off:LintStartingEllipsis
 ......%{n}
 Only one depends on her.
 }
