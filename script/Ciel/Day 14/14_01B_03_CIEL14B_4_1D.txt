@@ -49,12 +49,12 @@ Are you %{i}actually%{/i} kidding me?
 -- Page 69, Offset 40457.
 -- 星の命。世界の生命線すら取り上げるというのか、あの怪物は―――！
 Are you telling me that monster seriously just confiscated the world's lines of life?!
- The very life of our planet?!
+ The very vitality of our planet?!
 }
 [sha:0b79f6025458b561155bfd971213c98b6f3a61b5]{
 -- Page 70, Offset 40458.
 -- 異変は、収納は地脈だけに留まらない。
-The anomaly doesn't stop after she's stored away the Earth's veins.
+The anomaly doesn't stop after she's stored away the earthveins.
 }
 [sha:993816c052027f7420bdebea2a3e04826919cce5]{
 -- Page 70, Offset 40459.
@@ -69,7 +69,9 @@ Piece by piece, the primordial vegetation and husks of what were once buildings 
 [sha:54af29ce8e9a932b59e7c02bdda0716db2e4e120]{
 -- Page 71, Offset 40461.
 -- 「“―――、っ”」
-"%{i}Mm%{/i}... %{i}urgh%{/i}..."
+%{i}
+"Mm... urgh..."
+%{/i}
 }
 [sha:c6df81a1849f2fe67f93c4ff5812fdc4edd77857]{
 -- Page 71, Offset 40462.
@@ -112,7 +114,7 @@ Roa's voice snaps me out of my daze.
 [sha:092642d829a73968b35696ff00e6e48080b8d9ea]{
 -- Page 74, Offset 40469.
 -- いや、回復はしていない。
-No, that's not quite right―――
+On second thought, I'm just as dazed as I was before.
 }
 [sha:fa70ce84008b1114773f9e9513f99f125e29dcc7]{
 -- Page 74, Offset 40470.
@@ -132,7 +134,7 @@ The only reason my limbs responded to Roa's voice is because of an instinctive d
 [sha:540c5ec0fdd1b644e9844a116f70854797421c87]{
 -- Page 76, Offset 40472.
 -- ―――目の前で、人間の世界が沈んでいく。
-―――The world of man is disappearing before my very eyes.
+The world of man is disappearing before my very eyes.
 }
 [sha:e2cf2e6836ba51e28a005af13f1d45050812d95b]{
 -- Page 76, Offset 40473.
@@ -161,7 +163,9 @@ If it weren't for Roa's warning,
 [sha:a5bde667ece389ea74f872a0623e89a2f68efa41]{
 -- Page 79, Offset 40477.
 -- 「“随分と、生意気なコトを考えるのね”」
+%{i}
 "That was... quite an audacious plan you had there."
+%{/i}
 }
 [sha:cdda263d41388544618ed51fe0e431b0a9069847]{
 -- Page 79, Offset 40478.
@@ -176,12 +180,16 @@ But the Luminary vampiress doesn't turn to look at me―――
 [sha:778ac50c56df36a384e11647ededf37d3f857494]{
 -- Page 80, Offset 40480.
 -- 「“―――本気になっちゃった。
+%{i}
 "―――I've had to get serious.
+%{/i}
 }
 [sha:04582eca456546dcfd9f162db60f09db5b8c9367]{
 -- Page 80, Offset 40481.
 -- 頭にきたから、殺してあげる”」
+%{i}
 You've pissed me off, so now I'm going to kill you."
+%{/i}
 }
 [sha:ac8d8633b9de94d296883eda63a38e69a0019045]{
 -- Page 80, Offset 40482.
@@ -303,14 +311,14 @@ I'll be borrowing your left hand."
 -- なに、<引力|アトラクション>だよ、引力。
 // Both of these 引力s are voiced as アトラクション
 %{i}
-Just some simple '<attraction|g r a v i t y   >', as you can see.
+Just some simple '%{/i}<%{i}gravity manipulation%{/i}|%{i}a t t r a c t i o n    %{/i}>%{i}', as you can see.
 %{/i}
 }
 [sha:b1c367931575e4995e13b4b285298f64d9aab5fe]{
 -- Page 87, Offset 40503.
 -- 自分で運動エネルギーを発生させ、それによって跳ぶ、というのは手間が多い。
 %{i}
-Generating your own kinetic energy with which to run and jump is very time consuming.
+Generating your own kinetic energy with which to run and jump is very time-consuming.
 %{/i}
 }
 [sha:c57929b216b3d98c103483bfb022cb107c91b63c]{
@@ -318,7 +326,7 @@ Generating your own kinetic energy with which to run and jump is very time consu
 -- せっかく重力があるんだ。“跳ぶ”のではなく“落下する”方が効率的だ』
 %{i}
 Especially when gravity is right there.
- Instead of 'jumping', it is far more efficient to 'fall' instead."
+ Rather than 'jumping', it is far more efficient to 'fall' instead."
 %{/i}
 }
 [sha:928d48c31b813216e48a6755fcfa6453316e8900]{
@@ -361,7 +369,7 @@ If I were to picture it,
 -- Page 89, Offset 40511.
 -- もっとも、引力操作も易くはない。多用すれば回路が焼け付く。その場合、次は左足を使う事になる』
 %{i}
-Even so, using Attraction is not so simple.
+Even so, using gravity manipulation is not so simple.
  If you overuse it, you will burn out your circuits.
  Should that happen, you will have to use your left leg instead."
 %{/i}
@@ -421,7 +429,7 @@ The only problem is that the world is already moving at fifty kilometers an hour
 -- Page 92, Offset 40521.
 -- 事象収納とやらの重力圏が世界を仕舞っていく以上、常にそれだけのスピードを出していなければ呑み込まれる。
 Since this Event Storage nonsense is creating its own gravitational pull,
- I'll get swallowed up if I don't at least maintain this speed.
+ I'll get swallowed up if I don't at least maintain that speed.
 }
 [sha:58eb54a0c884da60abb35f447e8ee206ce790943]{
 -- Page 92, Offset 40522.
@@ -465,7 +473,7 @@ Even though this is the roof of a building,
 -- Page 94, Offset 40529.
 -- 端まで滑っていけば、為す術なく地上に落下し、あの大渦に吸い込まれてしまう。
 If I slide off the edge,
- there'll be nothing I can do to stop myself from tumbling down and being swallowed up by that massive vortex.
+ there'll be nothing I can do to stop myself from tumbling down and being swallowed up by the massive vortex.
 }
 [sha:eaa9ac81a8593c703b2a09b0f7c69653ba136ed0]{
 -- Page 95, Offset 40530.
@@ -478,8 +486,9 @@ If I slide off the edge,
 [sha:9f8515dd31a796bd451f27010f70937d690dd4fb]{
 -- Page 95, Offset 40531.
 -- 落下してもリカバリーは利く筈だ。
+// Recover as in FG terminology here?
 %{i}
-Even if you fall, you should be able to recover.
+Even if you fall, you should be able to get back on your feet again.
 %{/i}
 }
 [sha:c32ae2fb4d01aa84be65d1f1ac53b022afecf3b5]{
@@ -535,7 +544,7 @@ I'm not all that hungry,
 [sha:4d873eb1de1503c7b0969e22469b8599ad44fa5a]{
 -- Page 98, Offset 40541.
 -- いや、■■は要らない。そんなものを飲んだところで俺はまだ自分のモノに還元できない。
-No, I don't need any ■■■.
+No, stop it――I don't need any ■■■.
  If I drank something like that, I'd never be able to go back to the way I was.
 }
 [sha:7cb7424e8be37cf1d142dd062c7686583e8d9666]{
@@ -622,7 +631,7 @@ I chose to continue running away.%{n}
 -- Page 103, Offset 40557.
 -- とにかくアイツが許せなかった―――だって、あまりにも馬鹿だからだ。
 Whatever the case, she hasn't forgiven me.%{n}
-             Because she's an complete and utter idiot.
+              Because she's a complete and utter idiot.
 }
 [sha:7cf1f371af3a15b906cbc403b426fe4e0a0e5e00]{
 -- Page 104, Offset 40558.
