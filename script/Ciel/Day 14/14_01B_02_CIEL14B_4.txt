@@ -63,7 +63,7 @@ It's the hollow reaction of a ghost,
 [sha:56e6097df5850322d3e0d393190211b64a2a19c9]{
 -- Page 252, Offset 40167.
 -- そうして、顔を上げて、目の前の光景と対峙した時。
-When I raise my head to take in the scene in front of me―――
+When I look up to take stock of my surroundings―――
 }
 [sha:31c327d638b9d4f23c74de0e58df598551a8b521]{
 -- Page 252, Offset 40168.
@@ -105,13 +105,13 @@ Having made that connection, I laugh at how small I am in comparison.
 [sha:2f7efeaae2595e83593404cd1d7bd6f109b391b0]{
 -- Page 255, Offset 40175.
 -- 「はは、は―――」
-"%{i}Haha%{/i}, %{i}ha%{/i}―――"
+"%{i}Ah%{/i}... %{i}ahaha%{/i}―――"
 }
 [sha:1ba11b32416d113cec8833a073e45adc932343c2]{
 -- Page 255, Offset 40176.
 -- これは違う。そんなものとは訳が違う。
 But this is different.
- It's in a completely different league to places like that.
+ It's in a completely different league to places like those.
 }
 [sha:3ece50b6adc4f4e8bfdf0f960b38fd70624fcf6c]{
 -- Page 255, Offset 40177.
@@ -126,6 +126,7 @@ But they're not. Those are merely the %{i}roots%{/i}.
 [sha:ad13532f531c4ecdea498fac862e649130537dbc]{
 -- Page 256, Offset 40179.
 -- 俺たちが気付かず踏み歩いてしまう、どこにでもある小さな花。いま世界を覆っているのは、その小さな花の根と同じものだった。
+// Maybe come back and fix the noun clash between roots -> flowers here
 The small flowers that you can find anywhere, and trample without even realizing it――
 it's the roots of those flowers that now tangle themselves around this world.
 }
@@ -173,7 +174,7 @@ Oxygen is scarce,
 [sha:6a286e3680764bc1a6e05dac1a9b43b25420862c]{
 -- Page 259, Offset 40188.
 -- 人間の知恵を嘲笑う、獰猛な自然のカタチ。
-It is a savage form of nature, that laughs in the face of man's cunning.
+It is the raw savageness of nature, laughing in the face of man's cunning.
 }
 [sha:4d2f9c4352e5882f7d3ae65a97f6018bb72f18d1]{
 -- Page 259, Offset 40189.
@@ -249,7 +250,7 @@ By simply making the world around her stronger,
 [sha:2638b863de04a461a0b428595ba969731b56d709]{
 -- Page 261, Offset 40200.
 -- その<絶望|じじつ>に、心臓が止まろうとする。
-I feel my heart could stop from the despair of learning that truth.
+The reality of the situation almost makes my heart stop.
 }
 [sha:3538b07972b2d8f56e3e59cb6abda9feeafab053]{
 -- Page 261, Offset 40201.
@@ -278,7 +279,7 @@ And yet, I was somehow able to get close.
 [sha:49e1ff0ee6b1689fea2c4bae343e4547a483c832]{
 -- Page 263, Offset 40205.
 -- 「―――はあ、あ―――」
-"―――%{i}Gah%{/i}, %{i}aagh%{/i}―――"
+"%{i}Gah%{/i}――%{i}aagh%{/i}."
 }
 [sha:54ea380a04712729b28351231b1c8196046f372e]{
 -- Page 263, Offset 40206.
@@ -298,7 +299,7 @@ Not only will I never be able to get that close again―――
 [sha:bcb4e73bd2e3d4bed894b1166c094c24cd5dde22]{
 -- Page 263, Offset 40209.
 -- 目の前には有り得ない風景が拡がっている。
-But the world around me has been made completely unrecognizable.
+But the world around me is now completely unrecognizable.
 }
 [sha:2e3267ab9a6da9290393e1c8551aa32c10efbc1f]{
 -- Page 264, Offset 40210.
@@ -387,13 +388,13 @@ And not just because I want to take back Senpai―――
 [sha:5b44c4cb0f39b94e50a89be4c136763dbe10e592]{
 -- Page 269, Offset 40224.
 -- あまりの白々しさに目が点になったというか、呆れとか怒りで目が覚めたというか、
-But also from the shock of how bare-faced her lie was,
- or maybe a reaction to how baffled and angry it made me.
+But also because of how shocking her bare-faced lie was,
+ or maybe because of how baffled and angry it made me.
 }
 [sha:af429a49c51d19dcbd783659d3e1cbdfecfd1215]{
 -- Page 270, Offset 40225.
 -- 「おまえ、本当にあったま悪いな―――！」
-"You really are a dumbass, aren't you―――?!"
+"You really are a dumbass, aren't you?!"
 }
 [sha:16c04a38da8df6ac3c593d1e0a406d2c9d98f27a]{
 -- Page 270, Offset 40226.
@@ -452,7 +453,7 @@ Still, she should've just kept her mouth shut.
 -- Page 273, Offset 40234.
 -- 「“―――何よりも惨く殺されたいようね、アナタ。
 %{i}
-"It seems like you really want to get brutally murdered, don't you?
+"It seems like you %{/i}really%{i} want to get brutally murdered, don't you?
 %{/i}
 }
 [sha:acdcff425c2ee57b8e2cc84187302ce7f0f5c319]{
