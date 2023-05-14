@@ -3753,12 +3753,7 @@ Farewell
 -- 名残の夢
 // Actually a reduction of 名残惜しい in the style of 名残の茶/折
 // @flowchart_title
-// dreams remembrance parting keepsake memento
-// reluctant to say goodbye
-// lingering
-// Dream never end/die
-// Would that I could dream forever
-One last dream before we part
+Dream of Parting
 }
 [sha:b992a4307335a2668860c4408f7bf7ffa40bda9c]{
 -- 嫌いにはなれない。
@@ -3866,7 +3861,9 @@ Waking
 }
 [sha:13527de3197e86e5c2e9d4b7b21d7ef32b9f6688]{
 -- 名残の夢、月の光。
-Remains of a Dream, Moonlight.
+// Same as the one for normal route, this is 名残惜しい in the style of 名残の茶/折
+// @flowchart_title
+Dream of Parting in Moonlight
 }
 [sha:2b97c3ada6620bac788f0f7f44ea1bdfd5dd2bf5]{
 -- 16日目・深夜
