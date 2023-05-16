@@ -2466,7 +2466,7 @@ My home is now a battlefield
 [sha:c5004b825695edc921448a626276b8f105aa4b51]{
 -- 遠野志貴は逃げ出した。
 // @flowchart_title
-Tohno Shiki has fled
+Tohno Shiki makes his escape
 }
 [sha:f206bff84aad04fe7e30304c54f436d3db5c4dac]{
 -- 追及と誤解
@@ -2476,12 +2476,12 @@ Questioning and False Assumptions
 [sha:4e2a165ff3304d278a02b77f707f8e0e9cdede59]{
 -- 吸血鬼殺人事件
 // @flowchart_title
-Vampire Murder Case
+The Vampire Murder Case
 }
 [sha:7414eeaad2094091b59af0d61ccdb35bcac58a3c]{
 -- 輝ける夢のような
 // @flowchart_title
-Like A Sparkling Dream
+Dreamlike Radiance
 }
 [sha:59ed52d4bcc5ed467410fae8c4debfeef1ef8e42]{
 -- ラクガキの街
@@ -2495,26 +2495,31 @@ I talk with Arcueid a little more
 }
 [sha:4b945d44ed7dc2d5e4483a36bdacfd79e69cbecc]{
 -- 吸血鬼について詳しく知りたい。
+// Ref 42641.
 // @flowchart_title
 I need more details on vampires
 }
 [sha:ca7fa233d5acc8e5cd42d517f2f6d04c13a49bcd]{
 -- ……二十七祖ってなんだ？
+// Ref 42642.
 // @flowchart_title
-Who are the 27 Ancestors?
+What's with these 27 Ancestors?
 }
 [sha:d117c4c294d6d26eadd99c08aafa2503778d1033]{
 -- ……ヴローヴ戦の戦闘服について
+// Ref 42643.
 // @flowchart_title
 So about that combat dress...
 }
 [sha:e46dd4d0324cb1e9d4491abb2fa42cf9064ba001]{
 -- ……確かに、そろそろ帰らないと。
+// Ref 42640
 // @flowchart_title
-Yeah... I'd better get going
+I had better get going
 }
 [sha:7d0495dc9e660c26db9aff1cdbd08906a0905f11]{
 -- またあした。
+// Sorta reflects 18222
 // @flowchart_title
 See you again tomorrow
 }
@@ -2560,8 +2565,9 @@ Doesn't someone owe me a bento?
 }
 [sha:af275f32b849286b26d3d52f1cf6ce35cc26b35d]{
 -- 健全な男子ですもの。
+// Sorta reflects 15137
 // @flowchart_title
-Honest Feelings of A Healthy Boy
+I'm still a high school boy
 }
 [sha:9f324189cda34108d67b8ea31876025156294806]{
 -- どっちの代行者？
@@ -2576,7 +2582,7 @@ I head to the tea ceremony room
 [sha:8df62ce7ea4dde84eea6835273b20aca2a2c193e]{
 -- 気のきかない男。
 // @flowchart_title
-A Tasteless Man
+A Tactful Man
 }
 [sha:69df711fcb959ee4be0514fa275eafd3c4d150c3]{
 -- これまでと、これから。
@@ -2586,7 +2592,7 @@ The Past, and the Future
 [sha:cb3e2837c296ade914fd0276ce1de879d236dc72]{
 -- 気がきく男。
 // @flowchart_title
-A Tasteful Man
+A Tactless Man
 }
 [sha:b6895c9abfcc45e81b733f983485d063c648bdd6]{
 -- 放課後の茶道室
@@ -2616,7 +2622,7 @@ Arcueid's Request
 [sha:d28386373c7239b686cea479328e11c35e08ecc5]{
 -- 夜回り吸血鬼
 // @flowchart_title
-The Vampire of the Night Watch
+The Vampire's Night Watch
 }
 [sha:d0cf311eca8009adc750fdd0742219b836c6a6dc]{
 -- 代行者たち
@@ -2626,7 +2632,7 @@ The Executors
 [sha:680095d76d0bcfc3241bfded30960b478290414a]{
 -- 魔眼の代償
 // @flowchart_title
-The Price of Mystic Eyes
+The Cost of the Mystic Eyes
 }
 [sha:bac9f1f983f02296d1905eb356f1ebd5f9684080]{
 -- 憐憫
@@ -4960,7 +4966,7 @@ There won't be any more vampire murders.
 [sha:72ce2d855bf0cb192c08cab8342628433d8fb88b]{
 -- 正門前に白い女の姿はない。^「あちら側」に戻った彼女とは、^二度と交わる事はないのだろう。
 // @flowchart_descr
-There's no woman in white waiting for me at the main gate.
+There's no woman in white waiting for me outside the school.
  She has returned to her world, and I will never cross paths with her again.
 }
 [sha:4561c3a1554f83c59ee011ee53b27c26218c9027]{
@@ -4980,7 +4986,7 @@ Vlov's definitely dead.
 -- 屋敷に戻ってきた。^落ち着いて整理してみれば、^何か思い出せる事もあるだろう。
 // @flowchart_descr
 I've arrived back at the mansion.
- If I calm down and think through what I know, I might be able to remember something.
+ Only once I've calmed down and collected myself do I realize that I've forgotten something very important...
 }
 [sha:b218dc9244dec573cc0acf627d104e2f88e6bb0d]{
 -- アイツとはすれ違いで出会った。^偶然に頼らないのであれば、^勘と足を使って探すしかない。
@@ -4994,7 +5000,7 @@ It was only by chance that I met her the first time.
 // @flowchart_descr
 I can't keep thinking of her as a little kid forever.
  I'm sure she'll understand if I tell her what's going on.
- I should walk in there like I have nothing to hide.
+ In fact, I should walk in there like I have nothing to hide.
 }
 [sha:58b1516608dbddb40d13399d7d31f83ad0d3be92]{
 -- 大人も逃げ出す迫力がすごい。^冷静なようですが、当主様は^めっちゃ大人げないのである。
@@ -5005,7 +5011,7 @@ Her ability to make even adults cower in fear is amazing.
 [sha:0927230c21fb2e4cac057f283360643b48cfc127]{
 -- 居間からは異様な気配がする。^現れた翡翠は無表情のままで、^来客がある事を告げてきた……。
 // @flowchart_descr
-I feel a strange atmosphere emanating from the living room.
+There's a strange vibe coming from the living room.
  Hisui appears, and stoically informs me that I have a visitor...
 }
 [sha:a99791ed1bba7f36014f61431c1ce34fab49e482]{
@@ -5030,8 +5036,8 @@ Arcueid hunts the Undead.
 [sha:09c033f62179624b9d27e1c164890ffa9cddf217]{
 -- 人間としてどうかと思うが、^もうどうしようもないので^アルクェイドに協力を申し出る。
 // @flowchart_descr
-I know this probably isn't the right call as a human being,
- but I don't know what else I can do,
+It'd be human to turn her down,
+ but I'm not sure I have any other choice,
  so I offer to cooperate with Arcueid.
 }
 [sha:7770710e1959069626b4eb62e6f525c145f7fb77]{
@@ -5044,7 +5050,7 @@ It's time to commence our nighttime investigation.
 -- もう少し話をしていこう。^吸血鬼退治をすると決めた以上、^まだ知らない事が多すぎる。
 // @flowchart_descr
 I'll talk with her a little longer.
- I've committed to helping her exterminate vampires, but there's still a lot I don't know.
+ I've committed to helping her exterminate the vampires, but there's still a lot I don't know.
 }
 [sha:b139cdb0c2e01af955af51133e7d8a1e4c8f1988]{
 -- やはり吸血鬼の知識が必要だ。^吸血鬼と、下僕の死者たち。^関係性を詳しく聞いておこう。
@@ -5057,7 +5063,7 @@ I need to flesh out my understanding of vampires.
 // @flowchart_descr
 I already heard the basics about vampires back at the hotel.
  It's time to dig deeper...
- Who are the twenty-seven Ancestors?
+ What's the deal with these twenty-seven Ancestors?
 }
 [sha:6f37a5a17427f6b1e3ffbf70d841d7588f73ee3f]{
 -- これは絶好のチャンスだ。^さりげに気になっていた事……^あのドレスをもう一度。
@@ -5069,7 +5075,7 @@ This is the perfect chance.
 -- 時刻は約束の零時を回っていた。^今夜の探索はここまでだ。^次の約束をして、今は別れよう。
 // @flowchart_descr
 It's already past midnight; the time we'd promised to adjourn.
- We'll end our search here for tonight.
+ We'll end our search for tonight.
  Promising to meet again, we part for the time being.
 }
 [sha:3c3359c18e1e9e513e84516a37b2023446a0bc3b]{
@@ -5118,7 +5124,7 @@ Hamburgers, fried chicken...
 // @flowchart_descr
 This craving for junk food can only be sated by curry bread.
  Four of them ought to be enough for now.
- What the hell am I supposed to make of a mentaiko curry flavor though?
+ What the hell am I supposed to make of a cod roe curry flavor though?
 }
 [sha:5811fa4c31de3e9e64df6d2901083f8fc9c55c00]{
 -- 手作りの弁当を分けてください。^先輩とそう約束をした筈だ。^茶道室まで行ってみようか……？
@@ -5129,7 +5135,7 @@ I'm pretty sure Senpai promised she'd let me have some of her home-made bento...
 [sha:3cc70f685918ae8cbea21177d6cfd9f7600aa5b3]{
 -- いくら何でも焦りすぎた。^眼鏡を外してくれと頼むには、^もっと段階を踏まなくては。
 // @flowchart_descr
-I was too hasty by far.
+Damn, I really got ahead of myself.
  I'll have to build up to it more slowly if I want her to take off her glasses for me.
 }
 [sha:c4db98f1b13720ab825925646c8066a51e712518]{
@@ -5143,7 +5149,7 @@ The end of the school day came all too soon.
 -- 先輩の待つ茶道室に行こう。^先輩達が街に残っている理由を、^はっきりさせておかなくては。
 // @flowchart_descr
 I'll go meet with Senpai in the tea ceremony room.
- I need to get a direct answer to why she's still in this city.
+ I need to get a direct answer as to why she's still in this city.
 }
 [sha:48c75744c84a913ebee3fbf1177f44c9532f0a3c]{
 -- 茶道室へとやってきた。^ノエルにも誘われたせいか、^先輩の態度はやや刺々しい。
@@ -5187,19 +5193,19 @@ I don't really have anything that needs doing in town.
 -- 秋葉は上機嫌だが、^アルクェイドとの約束もある。^悟られぬよう注意しなければ。
 // @flowchart_descr
 Akiha is in a good mood, but I've also got my promise with Arcueid to consider.
- I'll need to be careful not to get caught.
+ I'll have to be careful not to get caught.
 }
 [sha:26378cd7f6f7e543eeb2eacc929f70a04f3e258a]{
 -- 彼女は頼みを聞いてくれた。^その彼女に頼まれたのなら、^断るわけにもいかない。
 // @flowchart_descr
 She granted my request before.
- Now that she's asked something of me, there's no way I can refuse.
+ Now that she's asked something of me, how could I refuse?
 }
 [sha:e439c77c0c1f64c4658b90e9dbbbd30185abf26b]{
 -- アルクェイドと夜の街を行く。^何の変哲もない住宅地、^そこに吸血鬼の隠れ家がある――
 // @flowchart_descr
 Arcueid and I head out into the sleeping city.
- Nestled in a completely nondescript residential area, we find a hidden vampire den――
+ Nestled in a completely nondescript residential area, we find a hidden vampire den.
 }
 [sha:f6b404687586c80c469cb865d7b785f2f1401e03]{
 -- ビルが圧し潰される様子を、^高みから見下ろす姿があった。^そして、もう一人――
@@ -5212,12 +5218,12 @@ From atop a nearby building, a figure watches on as the building is crushed.
 // @flowchart_descr
 Doing our best to avoid being spotted, we return to the park.
  I'm about to collapse from exhaustion.
- We can chat for a while as I catch my breath.
+ I might as well chat for a bit as I catch my breath.
 }
 [sha:8db62bb2f00e4ea0d2402972aa10e188bbd00939]{
 -- どうしても寝付けない。^今夜も眠くなるまで、^読書で時間を潰すとしよう。
 // @flowchart_descr
-Try and I might, I can't get to sleep.
+Try as I might, I can't get to sleep.
  I'll kill some time by reading a book, just like I did last night.
 }
 [sha:2b77f86ae03879be861fadaac2b11d72f98b1456]{
