@@ -2305,83 +2305,117 @@ Clean-up Crew
 }
 [sha:ffb72a762eb8497d77f5cf2674a3e1feff6fbc94]{
 -- 六日目・朝。
+// @flowchart_title
 6th day ― Morning
 }
 [sha:1693642317818b0d076ab773239f161cc356c24a]{
 -- 一切の望みを捨てよ。
-Abandoning all hope.
+// Dante reference
+// @flowchart_title
+Abandon Hope, All Ye Who Enter
 }
 [sha:65a08d7f151f2845e411eed735cc6454e300e569]{
 -- 素直に謝る。
-I apologize sincerely.
+// Reference 42624
+// @flowchart_title
+I apologize sincerely
 }
 [sha:78715c3cb2a95a83e454b5560d3ddc45c8b294ed]{
 -- なんとか誤魔化す。
-I try to fool her.
+// Reference 42625
+// @flowchart_title
+I try to fool her
 }
 [sha:31050d1a884e274c5357182e650665ffb2c7af2f]{
 -- 本当のことを話す。
-I tell her the truth.
+// Reference 42626
+// @flowchart_title
+I tell her the truth
 }
 [sha:87d993f8a3e85a01157b559e1dfc787f074d86dd]{
 -- 秋葉ちゃんに優しくする会
+// @flowchart_title
 Chatting with Akiha-chan
 }
 [sha:9b740bc455c8d628aa27e93a94e210659daa5498]{
 -- 琥珀さんに看てもらう。
-Have Kohaku-san take care of me.
+// Reference 42627.
+// @flowchart_title
+Have Kohaku-san take care of me
 }
 [sha:07f2871e5374be9280ae9fa9bbb024ca9b308b76]{
 -- 阿良句博士に看てもらう。
-Have Prof. Arach take care of me.
+// Reference 42628.
+// @flowchart_title
+Have Prof. Arach take care of me
 }
 [sha:a6cf7e138a6c2dab821d90ad7cf43649fe86df3a]{
 -- 阿良句博士の異常な愛情
-Prof. Arach's Bizarre Affection
+// Contra to 439a3a678
+// @flowchart_title
+Prof. Arach's Abnormal Affection
 }
 [sha:bf9470443cc46f45c3ff70d82dfe02cf2d84e44e]{
 -- 午後をどう過ごそう。
-How should I spend my afternoon?
+// Reference 14538.
+// @flowchart_title
+How shall I spend my afternoon?
 }
 [sha:07560e392141f014fedd9c706bb9a5c4e28bb0ac]{
 -- 中庭を散歩してみよう。
-Take a walk around the courtyard.
+// Reference 42632.
+// @flowchart_title
+I walk around the gardens
 }
 [sha:127756691d8da4a83482bf06bd603d5dba9f8829]{
 -- 館内を観覧してみよう。
-Wander the halls of the mansion.
+// Reference 42633.
+// @flowchart_title
+I wander the halls of the mansion
 }
 [sha:d86b2c33c9a3470916c675f4eb73e4e5ebed768c]{
 -- ちょっと街にまで出てみよう。
-Take a quick trip into the city.
+// Reference 42634.
+// @flowchart_title
+I take a quick trip into the city
 }
 [sha:7ca507164699f94a56a3da77bd355e18f11d2f39]{
 -- 休日の終わりに。
-My day off draws to a close.
+// @flowchart_title
+My day off draws to a close
 }
 [sha:002528b99970c8ca21dd29c4dcde3f03e7d1e822]{
 -- 飛び込め！三途の川
-Jump in! The Sanzu River
+// @flowchart_title
+River Styx, here I come!
 }
 [sha:02b04d81ab9d82523a9bc6709829959b6de04aed]{
 -- 秋葉の説得に成功した。
-I've managed to convince Akiha.
+// @flowchart_title
+I've managed to convince Akiha
 }
 [sha:439a3a678d18789cb0d52c0a03aef023bb8d34c6]{
 -- 阿良句博士の普通の診察
-A Regular Exam with Prof. Arach
+// Contra to a6cf7e138
+// @flowchart_title
+Prof. Arach's Normal Examination
 }
 [sha:243960cb8f7967e65ac9726cdb7a9ea82b666c7d]{
 -- 先輩のアパートに行ってみようか？
-Go to Senpai's apartment.
+// Reference 42705.
+// @flowchart_title
+I go visit Senpai's apartment
 }
 [sha:e8a4c44ef1190ec0cf46a680aaa87ca2541f8dde]{
 -- 不老不死
+// @flowchart_title
 Immortality
 }
 [sha:aa6754a2c5a28d305719d3967f98ca06d53d5c09]{
 -- ある吸血鬼の死。
-The Death of A Vampire.
+// ある ignored but explained in the descr
+// @flowchart_title
+The Death of a Vampire
 }
 [sha:db99ca1077625ff8b088596fd8e3105730327cd6]{
 -- 七日目・朝
@@ -4700,107 +4734,173 @@ Two hours have already passed since Vlov's demise.
 }
 [sha:571743a1551889624f42684e127a70bc8a5794d3]{
 -- 自室のベッドで目覚めた。^傷は深く歩くのも辛い。^でも、命を繋ぐ事が出来たのだ。
-I wake up in my own bed. My^wounds are deep, and I can barely^walk. However, I survived.
+// @flowchart_descr
+I wake up in my own bed.
+ My wounds are deep, and I can barely walk.
+ But at least I made it out alive.
 }
 [sha:7269a75fb861d2cf5f0ae3c8c1a7b09a3b3d17be]{
 -- 当主様の待つロビーへと向かう。^せっかく繋いだ命だし、^秋葉の怒りを鎮めたいなー。
-当主様の待つロビーへと向かう。^せっかく繋いだ命だし、^秋葉の怒りを鎮めたいなー。
+// @flowchart_descr
+I head for the lobby, where the head of the family lies in wait.
+ I hope I can placate Akiha's anger... it'd be a shame if I survived yesterday's ordeal for nothing.
 }
 [sha:5974a932f1a3c8db7412b9041d76e8d4b0565f18]{
 -- 大切な家族であっても、あんな^事実を話す事はできない。^自分の落ち度を素直に謝ろう。
-Though she may be a precious^member of my family, there's^no way I can tell her about^what happened. I'll apologize^sincerely for my mistakes.
+// @flowchart_descr
+She may be my beloved sister, but there's no way I can tell her the truth about what happened.
+ I'll apologize sincerely for my mistakes.
 }
 [sha:51bd4e870e63b978de7d0cddb5211bca1aeaa5a4]{
 -- 信じてもらえるとは思えない。^出来るだけ嘘は言わずに、^上手く誤魔化せないだろうか。
-信じてもらえるとは思えない。^出来るだけ嘘は言わずに、^上手く誤魔化せないだろうか。
+// Pretty cribbed from 14119.
+// @flowchart_descr
+There's no way she'd believe me even if I did tell her.
+ I'll have to just skirt around the truth while also keeping the number of lies to a minimum.
 }
 [sha:c9e2c5048113ede0cace7881509e1e5961f25bd6]{
 -- 秋葉には誤魔化しは通じない。^誠心誠意説明したならば、^秋葉も分かってくれるかな？
-I wouldn't be able to deceive^Akiha. Maybe she'll believe^me if I explain everything^honestly?
+// @flowchart_descr
+There's no way I'd be able to pull one over on Akiha.
+ Maybe she'll cut me a break if I tell her what really happened?
 }
 [sha:64ab43cfa5282c3a9e52f5effd63f534cb93bf46]{
 -- これ以上の追及は免れたようだ。^もう心配をかけないという事を、^改めて秋葉に伝えよう。
-It seems like I've been spared^any further questioning. Once^again, I'll tell Akiha there's^no longer any need to worry.
+// @flowchart_descr
+It seems like I've been spared any further questioning.
+ I tell Akiha that there's no need for her to worry anymore.
 }
 [sha:b61570d5b2154b503c691de44b1c2afe3ac52cc4]{
 -- やはり琥珀さんだろう。^まだ数日程度の付き合いだが、^あの人なら心配はなさそうだ。
-I think I'll go with Kohaku-san.^I've only known her for a few^days but I think I'm safe in^her hands.
+// Does he know
+// @flowchart_descr
+Kohaku-san is the obvious choice here.
+ I've only known her for a few days, but I get the feeling I'll be in safe hands with her.
 }
 [sha:193b4c27c6609bf8479379a4e19e2d2fa69ce1e2]{
 -- いまだにどんな人物か不明だが、^親睦を深める良い機会だ。^阿良句博士にお願いしよう。
-I'll ask for Prof. Arach. I^don't know what kind of person^she is, but this is a great^opportunity to get to know^her better.
+// @flowchart_descr
+I don't really know her all that well, but maybe this is an opportunity to correct that.
+ I'll opt for Prof. Arach this time.
 }
 [sha:b46246dfd5d4192577099749b040fbb26e25707c]{
 -- 想像した答えは間違っていた。^けれど、博士の何気ない一言は^どうしても気に障った。
-My guess was off the mark.^Still, her nonchalant remark^rubbed me the wrong way.
+// @flowchart_descr
+My guess was off the mark.
+ But I've gotta say... something about that throwaway comment of hers really rubbed me the wrong way.
 }
 [sha:a026fec16a6d1e7394adc04ca854a09c97ef5923]{
 -- 昼食を終え、午後になった。^歩くだけなら支障はないだろう。^午後の時間をどう過ごそうか？
-I've finished eating lunch,^and it's now the afternoon.^I shouldn't have any problems^walking. How should I spend^my time?
+// Reference 14537-8.
+// @flowchart_descr
+I've finished lunch, and it's now the afternoon.
+ I think I could handle going for a walk, if nothing else.
+ How shall I spend my afternoon?
 }
 [sha:9827bbb19161260cb65d1a68a26404d35f53a975]{
 -- 庭を散歩する事にした。^戻ってから庭園には出ていない。^七年ぶりに様子を見に行こう。
-I decide to take a walk in the^gardens. I haven't been there^since I came back. It's been^seven years. I wonder what's^changed?
+// Reference 14539.
+// @flowchart_descr
+I decide to go for a stroll around the gardens.
+ I haven't seen it since I came back.
+ I wonder what's changed over the past seven years?
 }
 [sha:3c90cc9fb205bfd40954f19db5ad82c3575f7ab8]{
 -- 屋敷の中を観覧してみよう。^七年経った今の自分なら、^新しい発見があるかもしれない。
-I'll take a tour around the^mansion. It's been seven years,^so I might discover something^new.
+// Reference 14588-9
+// @flowchart_descr
+I'll take a tour around the mansion.
+ I'm seven years older than I was last time I was here, so maybe I'll discover something I didn't appreciate before.
 }
 [sha:ed69c592dff93964037076f535ce83bbe09d2c01]{
 -- 昨夜の現場へと足を運んでみる。^アルクェイドはもう街から^消えているだろうけど……。
-I'll head to the site of last^night's events. Arcueid has^probably already left the city,^though...
+// @flowchart_descr
+I'll go take a look at the scene from last night.
+ Although, I'm sure Arcueid's already left the city by now...
 }
 [sha:7c399d3a131de5fbc5dc81edd9062033715cdeb7]{
 -- 休日は何事もなく過ぎていく。^せめて秋葉との夕食くらいは、^実のある会話を心がけたい。
-My day off passes by without^incident. I want to at least^have a sincere conversation^with Akiha at dinner.
+// @flowchart_descr
+My day off passed without anything interesting happening.
+ Hopefully I can at least have a fruitful conversation with Akiha over dinner.
 }
 [sha:b03acbf5b7ec04044e5d62369b5696ca78422d87]{
 -- 自室のベッドで目覚めた。^傷は深く歩くのも辛い。^でも、こうして帰ってこられた。
-自室のベッドで目覚めた。^傷は深く歩くのも辛い。^でも、こうして帰ってこられた。
+// @flowchart_descr
+I wake up in my own bed.
+ My wounds are deep, and I can barely walk.
+ But, I guess I made it back here on my own?
 }
 [sha:ad443dce717a747222972586751fe0ab0bdc0c1f]{
 -- 真実を話す事はできない。^自分の落ち度を素直に謝ろう。
-真実を話す事はできない。^自分の落ち度を素直に謝ろう。
+// Similar to Arc route but no 大切な家族であっても
+// @flowchart_descr
+There's no way I can tell her the truth about what happened.
+ I'll apologize sincerely for my mistakes.
 }
 [sha:5a1260395353783f9e59cb21ca682826b8c47622]{
 -- 秋葉に誤魔化しは通じない。^誠心誠意説明したならば、^秋葉も分かってくれる筈だ。
-秋葉に誤魔化しは通じない。^誠心誠意説明したならば、^秋葉も分かってくれる筈だ。
+// Literally the same as Arc version except for a particle
+// @flowchart_descr
+There's no way I'd be able to pull one over on Akiha.
+ Maybe she'll cut me a break if I tell her what really happened?
 }
 [sha:207b73161553a9d90223883e683dc42d6d206ac0]{
 -- どうにか追及は免れたが、^体の事で心配をかけたくはない。^大人しく診察を受けよう。
-どうにか追及は免れたが、^体の事で心配をかけたくはない。^大人しく診察を受けよう。
+// @flowchart_descr
+I've been spared any further questioning, but I don't want her fretting over my health.
+ I'll do as I'm told and go see the doctor.
 }
 [sha:21540dc07d03ed5d4721bca54cc4604537843e83]{
 -- 診察を受ける事になったが、^秋葉には傷を見せられない。^部屋から出てもらうには……。
-診察を受ける事になったが、^秋葉には傷を見せられない。^部屋から出てもらうには……。
+// @flowchart_descr
+I've agreed to let the doctor examine me, but I can't let Akiha see my injuries.
+ Now, how to get her out of the room...
 }
 [sha:5e1d9e2f20ac0ccd77effd38820813f3caf1c1b7]{
 -- 何事もなく診察は終わった。^時刻は正午を回っている。^午後の時間をどう過ごそうか？
-何事もなく診察は終わった。^時刻は正午を回っている。^午後の時間をどう過ごそうか？
+// Redundant afternoon dropped
+// @flowchart_descr
+My medical exam ends without incident.
+ How shall I spend the rest of my afternoon?
 }
 [sha:3f21e9c8b524385641911b42e8d2f797a50e32f1]{
 -- 七年ぶりに庭を歩きながら、^ここ数日の出来事を思う。^あれから二人はどうなったのか。
-七年ぶりに庭を歩きながら、^ここ数日の出来事を思う。^あれから二人はどうなったのか。
+// @flowchart_descr
+As I wander through the gardens for the first time in seven years, I think back on the events of the last few days.
+ I wonder what those two are up to now?
 }
 [sha:b499e565f6814b0b745550b7471405240b8f5861]{
 -- ひと通り見て回ったところで、^斉木業人に声をかけられた。^包帯男の意外な一面。
-ひと通り見て回ったところで、^斉木業人に声をかけられた。^包帯男の意外な一面。
+// @flowchart_descr
+As I'm taking in the mansion, Saiki Gouto calls out to me from behind.
+ I learn something unexpected about the bandaged man.
 }
 [sha:bc934e1f080525562dcede84cb4c5eeb450ef1f4]{
 -- 先輩に会えるかもしれないと、^一縷の望みにかけて^アパートに向かったが……。
-先輩に会えるかもしれないと、^一縷の望みにかけて^アパートに向かったが……。
+// @flowchart_descr
+I head for Senpai's apartment,
+ hoping against hope that I might get to see her, but...
 }
 [sha:f976e556cec5cd36111bed798f6ceace9fd0eb8f]{
 -- 休日は何事もなく過ぎていく。^秋葉との夕食くらいは^実のある会話を心がけよう。
-休日は何事もなく過ぎていく。^秋葉との夕食くらいは^実のある会話を心がけよう。
+// Basically the same as arc route ver
+// @flowchart_descr
+My day off passed without anything interesting happening.
+ Hopefully I can at least have a fruitful conversation with Akiha over dinner.
 }
 [sha:35a02a4cbf654cec77c64f8e4d28b204418a02e6]{
 -- 先輩の姿が目蓋から離れない。^適当に読書でもしながら、^眠気がくるのを待とうか……。
-先輩の姿が目蓋から離れない。^適当に読書でもしながら、^眠気がくるのを待とうか……。
+// @flowchart_descr
+Even when I close my eyes, I can still see Senpai.
+ I'll find something to read while I wait for sleep to come...
 }
 [sha:fc88a4a9a50e0f8e21b7425ce1e8a52c09ffa52e]{
 -- ロアという名の男は死んだ。^この街を脅かす者はもういない。^――いない、筈だった。
-ロアという名の男は死んだ。^この街を脅かす者はもういない。^――いない、筈だった。
+// @flowchart_descr
+The man named Roa is dead.^
+With that, the city is free of threat.
+ Or at least... it should have been.
 }
 [sha:912135b47057525b05418fe8d9e95164945a3a7c]{
 -- 吸血鬼殺人はもう起こらない。^すべては平穏な日常に。
