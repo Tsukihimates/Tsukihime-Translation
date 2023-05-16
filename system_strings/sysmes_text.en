@@ -2310,8 +2310,9 @@ Clean-up Crew
 }
 [sha:1693642317818b0d076ab773239f161cc356c24a]{
 -- 一切の望みを捨てよ。
+// Dante reference
 // @flowchart_title
-Abandoning All Hope
+Abandon Hope, All Ye Who Enter
 }
 [sha:65a08d7f151f2845e411eed735cc6454e300e569]{
 -- 素直に謝る。
@@ -2350,7 +2351,7 @@ Have Prof. Arach take care of me
 }
 [sha:a6cf7e138a6c2dab821d90ad7cf43649fe86df3a]{
 -- 阿良句博士の異常な愛情
-// Try to keep the 異常/愛情 rhyme in some way? Alliterated instead.
+// Contra to 439a3a678
 // @flowchart_title
 Prof. Arach's Abnormal Affection
 }
@@ -2385,10 +2386,8 @@ My day off draws to a close
 }
 [sha:002528b99970c8ca21dd29c4dcde3f03e7d1e822]{
 -- 飛び込め！三途の川
-// I remember Ben wanting to keep the JP here, though I would personally
-// opt to make this 'Diving into the River Styx' or something.
 // @flowchart_title
-Jump in! The Sanzu River
+River Styx, here I come!
 }
 [sha:02b04d81ab9d82523a9bc6709829959b6de04aed]{
 -- 秋葉の説得に成功した。
@@ -2397,9 +2396,9 @@ I've managed to convince Akiha
 }
 [sha:439a3a678d18789cb0d52c0a03aef023bb8d34c6]{
 -- 阿良句博士の普通の診察
-// Tempted to drop 博士 for additional arach alliteration action
+// Contra to a6cf7e138
 // @flowchart_title
-An Average Prof. Arach Assessment
+Prof. Arach's Normal Examination
 }
 [sha:243960cb8f7967e65ac9726cdb7a9ea82b666c7d]{
 -- 先輩のアパートに行ってみようか？
@@ -4749,7 +4748,7 @@ I head for the lobby, where the head of the family lies in wait.
 [sha:5974a932f1a3c8db7412b9041d76e8d4b0565f18]{
 -- 大切な家族であっても、あんな^事実を話す事はできない。^自分の落ち度を素直に謝ろう。
 // @flowchart_descr
-She may be a precious member of my family, but there's no way I can tell her the truth about what happened.
+She may be my beloved sister, but there's no way I can tell her the truth about what happened.
  I'll apologize sincerely for my mistakes.
 }
 [sha:51bd4e870e63b978de7d0cddb5211bca1aeaa5a4]{
@@ -4757,7 +4756,7 @@ She may be a precious member of my family, but there's no way I can tell her the
 // Pretty cribbed from 14119.
 // @flowchart_descr
 There's no way she'd believe me even if I did tell her.
- I'll have to just avoid telling the truth while also keeping the number of lies to a minimum.
+ I'll have to just skirt around the truth while also keeping the number of lies to a minimum.
 }
 [sha:c9e2c5048113ede0cace7881509e1e5961f25bd6]{
 -- 秋葉には誤魔化しは通じない。^誠心誠意説明したならば、^秋葉も分かってくれるかな？
@@ -4856,7 +4855,7 @@ I've been spared any further questioning, but I don't want her fretting over my 
 -- 診察を受ける事になったが、^秋葉には傷を見せられない。^部屋から出てもらうには……。
 // @flowchart_descr
 I've agreed to let the doctor examine me, but I can't let Akiha see my injuries.
- Time to get her out of the room...
+ Now, how to get her out of the room...
 }
 [sha:5e1d9e2f20ac0ccd77effd38820813f3caf1c1b7]{
 -- 何事もなく診察は終わった。^時刻は正午を回っている。^午後の時間をどう過ごそうか？
