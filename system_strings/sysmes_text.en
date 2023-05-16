@@ -2419,171 +2419,226 @@ The Death of a Vampire
 }
 [sha:db99ca1077625ff8b088596fd8e3105730327cd6]{
 -- 七日目・朝
+// @flowchart_title
 7th day ― Morning
 }
 [sha:08e39441365704e51a1540c5aa241144019e7310]{
 -- それぞれの日常へ。
-Falling back into a routine.
+// As in, world of humans/vampires, as expounded by descr
+// @flowchart_title
+Each to their own lives
 }
 [sha:ba542844472fe2c990653469507fc50c4fd6f9eb]{
 -- オーメン
+// @flowchart_title
 Omen
 }
 [sha:f0cc7f1f9bb5ff1098cc7bf2081f82a762505efc]{
 -- 彼女の足跡
-Her Footprints
+// @flowchart_title
+Following Her Footprints
 }
 [sha:de642a35786a574cc0ff77747903f4ff80c43e81]{
 -- いったん屋敷に戻って整理しよう。
-Return, reassess the situation.
+// @flowchart_title
+I return to reassess what I know
 }
 [sha:05ef703f05ddafef6db8d1d09b246216a28147d9]{
 -- いや、諦めずに街を回ろう。
-Not give up, keep searching.
+// @flowchart_title
+I won't give up; I keep searching
 }
 [sha:6549fd6806767358c566541968bc5a4873741155]{
 -- まさか、子供じゃあるまいし。
-No way, she's not a child.
+// @flowchart_title
+No way, she's not a child
 }
 [sha:ab28f69382a07fa0c0c95bafab266bea1a523a60]{
 -- まさか、大人じゃあるまいし。
-Yes way, she's not that mature.
+// @flowchart_title
+Yes way, she's not that mature
 }
 [sha:48cb0eaccafac9433a167f08141cffea9ae5584d]{
 -- 僕の家は戦場だった。
-My house is a battlefield.
+// @flowchart_title
+My home is now a battlefield
 }
 [sha:c5004b825695edc921448a626276b8f105aa4b51]{
 -- 遠野志貴は逃げ出した。
-Tohno Shiki has fled.
+// @flowchart_title
+Tohno Shiki makes his escape
 }
 [sha:f206bff84aad04fe7e30304c54f436d3db5c4dac]{
 -- 追及と誤解
-Pursuit and Misunderstanding
+// @flowchart_title
+Questioning and False Assumptions
 }
 [sha:4e2a165ff3304d278a02b77f707f8e0e9cdede59]{
 -- 吸血鬼殺人事件
-Vampire Murder Case
+// @flowchart_title
+The Vampire Murder Case
 }
 [sha:7414eeaad2094091b59af0d61ccdb35bcac58a3c]{
 -- 輝ける夢のような
-Like A Sparkling Dream
+// @flowchart_title
+Dreamlike Radiance
 }
 [sha:59ed52d4bcc5ed467410fae8c4debfeef1ef8e42]{
 -- ラクガキの街
+// @flowchart_title
 The City of Lines
 }
 [sha:23ae05d96ba4a46a4699f31ad4a46f462b4aa4e8]{
 -- もう少しアルクェイドと話をする。
-Talk with Arcueid a little more.
+// @flowchart_title
+I talk with Arcueid a little more
 }
 [sha:4b945d44ed7dc2d5e4483a36bdacfd79e69cbecc]{
 -- 吸血鬼について詳しく知りたい。
-More details regarding vampires.
+// Ref 42641.
+// @flowchart_title
+I need more details on vampires
 }
 [sha:ca7fa233d5acc8e5cd42d517f2f6d04c13a49bcd]{
 -- ……二十七祖ってなんだ？
-...Who are the 27 Ancestors?
+// Ref 42642.
+// @flowchart_title
+What's with these 27 Ancestors?
 }
 [sha:d117c4c294d6d26eadd99c08aafa2503778d1033]{
 -- ……ヴローヴ戦の戦闘服について
-...Arcueid's combat dress
+// Ref 42643.
+// @flowchart_title
+So about that combat dress...
 }
 [sha:e46dd4d0324cb1e9d4491abb2fa42cf9064ba001]{
 -- ……確かに、そろそろ帰らないと。
-...I'd better get going.
+// Ref 42640
+// @flowchart_title
+I had better get going
 }
 [sha:7d0495dc9e660c26db9aff1cdbd08906a0905f11]{
 -- またあした。
-See you tomorrow.
+// Sorta reflects 18222
+// @flowchart_title
+See you again tomorrow
 }
 [sha:cd7945a3d02128b9bd95af3e3bb44f04488ddb99]{
 -- 深夜の帰宅。
-Returning home at midnight.
+// Why don't we have a cute verb for this
+// @flowchart_title
+Returning home at midnight
 }
 [sha:77f786b28143b5bcf68fa72915c9045a07f367f9]{
 -- 七日目・朝。
+// Same as arc version but with... a period
+// @flowchart_title
 7th day ― Morning
 }
 [sha:e46ccb7304344b3c31100b2bfd60dde8f2b2a5f9]{
 -- 新しい日常へ。
-To A New Life.
+// @flowchart_title
+Toward A New Life
 }
 [sha:6dfe26c3d8b9a4fede0488292e8dd8e8f3e74abf]{
 -- ランチタイム
+// @flowchart_title
 Lunchtime
 }
 [sha:16fb62726bef4a233aa3994171e6b061970ec11d]{
 -- カロリーの高い定食を頼もう。
-Ordering the high-calorie special
+// Reference 42706.
+// @flowchart_title
+Calorific cafeteria food calls me
 }
 [sha:1480357ec5f02e8fb336dcb90e1e329b204174dd]{
 -- 購買でカレーパンを買い占めよう。
-Buying up all the curry buns.
+// Reference 42707.
+// @flowchart_title
+Buying up all the curry buns
 }
 [sha:e15c3efcff727e4853fdd0debcff049f396cbaba]{
 -- お弁当のアテがあったような……？
+// Reference 42708.
+// @flowchart_title
 Doesn't someone owe me a bento?
 }
 [sha:af275f32b849286b26d3d52f1cf6ce35cc26b35d]{
 -- 健全な男子ですもの。
-Honest Feelings of A Healthy Boy.
+// Sorta reflects 15137
+// @flowchart_title
+I'm still a high school boy
 }
 [sha:9f324189cda34108d67b8ea31876025156294806]{
 -- どっちの代行者？
+// @flowchart_title
 Which Executor?
 }
 [sha:329e2a2e10b9374e82adbb68cf2f48269d729949]{
 -- 茶道室に行く。
-I head to the tea ceremony room.
+// @flowchart_title
+I head to the tea ceremony room
 }
 [sha:8df62ce7ea4dde84eea6835273b20aca2a2c193e]{
 -- 気のきかない男。
-A Tasteless Man.
+// @flowchart_title
+A Tactful Man
 }
 [sha:69df711fcb959ee4be0514fa275eafd3c4d150c3]{
 -- これまでと、これから。
-The Past, and the Future.
+// @flowchart_title
+The Past, and the Future
 }
 [sha:cb3e2837c296ade914fd0276ce1de879d236dc72]{
 -- 気がきく男。
-A Tasteful Man.
+// @flowchart_title
+A Tactless Man
 }
 [sha:b6895c9abfcc45e81b733f983485d063c648bdd6]{
 -- 放課後の茶道室
+// @flowchart_title
 After School Tea Ceremony Room
 }
 [sha:6827fd048363d327fe5efeba39862606419669ac]{
 -- 校舎裏に行く。
-I head behind the school.
+// @flowchart_title
+I head behind the school
 }
 [sha:5630c404f1d8a642345dcd1c8478a7578ebb0a31]{
 -- 屋敷に帰ろう。
-Time to head on home.
+// @flowchart_title
+Time to head on home
 }
 [sha:42c0cb40d516c39533a693a4b4ab853e36ecc1f8]{
 -- （表向き）和やかなお茶会
+// @flowchart_title
 An (Ostensibly) Calm Tea Party
 }
 [sha:c8641470f3ad49c2f4fe93427963bf81d6d9777c]{
 -- アルクェイドのお願い。
-Arcueid's Request.
+// @flowchart_title
+Arcueid's Request
 }
 [sha:d28386373c7239b686cea479328e11c35e08ecc5]{
 -- 夜回り吸血鬼
-The Vampire of the Night Watch
+// @flowchart_title
+The Vampire's Night Watch
 }
 [sha:d0cf311eca8009adc750fdd0742219b836c6a6dc]{
 -- 代行者たち
+// @flowchart_title
 The Executors
 }
 [sha:680095d76d0bcfc3241bfded30960b478290414a]{
 -- 魔眼の代償
-The Price of Mystic Eyes
+// @flowchart_title
+The Cost of the Mystic Eyes
 }
 [sha:bac9f1f983f02296d1905eb356f1ebd5f9684080]{
 -- 憐憫
-Mercy
+// Context 16427.
+// @flowchart_title
+Pity
 }
 [sha:de615c2f415bb7580205ef170dc2dc0fe866ec3a]{
 -- 八日目・朝
@@ -4904,171 +4959,272 @@ With that, the city is free of threat.
 }
 [sha:912135b47057525b05418fe8d9e95164945a3a7c]{
 -- 吸血鬼殺人はもう起こらない。^すべては平穏な日常に。
-There will be no more vampire^murders. Our lives will be^peaceful once more.
+// @flowchart_descr
+There won't be any more vampire murders.
+ We can all return to our ordinary, peaceful lives.
 }
 [sha:72ce2d855bf0cb192c08cab8342628433d8fb88b]{
 -- 正門前に白い女の姿はない。^「あちら側」に戻った彼女とは、^二度と交わる事はないのだろう。
-There's no sign of the woman in^white at the main gate. She has^returned to her own world, and I^will probably never meet her^again.
+// @flowchart_descr
+There's no woman in white waiting for me outside the school.
+ She has returned to her world, and I will never cross paths with her again.
 }
 [sha:4561c3a1554f83c59ee011ee53b27c26218c9027]{
 -- 新たな吸血殺人のニュースが。^事件は終わってはいない……？
-More vampire murders have been^reported. Is this case not yet^over...?
+// @flowchart_descr
+There's been news of another vampire murder.
+ Is this case not actually over yet?
 }
 [sha:620a6842d5edf06ca69f64ab2be2b7503d03b896]{
 -- ヴローヴは死んだ筈だ。^残る吸血鬼はただ一人だけ。^アルクェイドを捜さなければ。
-Vlov is supposed to be dead.^Only one other vampire remains.^I must find Arcueid.
+// @flowchart_descr
+Vlov's definitely dead.
+ There's only one other vampire I know of in this city.
+ I need to find Arcueid.
 }
 [sha:1817891b0115f17d8edce65404dc70a7b67e1d70]{
 -- 屋敷に戻ってきた。^落ち着いて整理してみれば、^何か思い出せる事もあるだろう。
-I'm back at the mansion. If^I calm down and organize my^thoughts, I may be able to^remember something.
+// @flowchart_descr
+I've arrived back at the mansion.
+ Only once I've calmed down and collected myself do I realize that I've forgotten something very important...
 }
 [sha:b218dc9244dec573cc0acf627d104e2f88e6bb0d]{
 -- アイツとはすれ違いで出会った。^偶然に頼らないのであれば、^勘と足を使って探すしかない。
-The first time I met her was^in passing. If I can't rely on^chance, I'll have to rely on my^intuition and search for her on^foot.
+// @flowchart_descr
+It was only by chance that I met her the first time.
+ I can't count on being so lucky again.
+ I'll have to rely on my intuition and my legs to track her down.
 }
 [sha:87ba6b5ea1baffef5f2a19e3f6293e0b54625d15]{
 -- いつまでも子供扱いは良くない。^話せば分かってくれる筈だ。^ここはむしろ堂々と中に入ろう。
-I can't keep treating her like^a little kid forever. If I talk^to her, we should be able to come^to an understanding. Rather, I^should make a bold entrance.
+// @flowchart_descr
+I can't keep thinking of her as a little kid forever.
+ I'm sure she'll understand if I tell her what's going on.
+ In fact, I should walk in there like I have nothing to hide.
 }
 [sha:58b1516608dbddb40d13399d7d31f83ad0d3be92]{
 -- 大人も逃げ出す迫力がすごい。^冷静なようですが、当主様は^めっちゃ大人げないのである。
-Her ability to make even adults^cower in fear is amazing. Though^she may seem calm, the family^head is still really immature.
+// @flowchart_descr
+Her ability to make even adults cower in fear is amazing.
+ She may act composed, but she's actually still seriously immature.
 }
 [sha:0927230c21fb2e4cac057f283360643b48cfc127]{
 -- 居間からは異様な気配がする。^現れた翡翠は無表情のままで、^来客がある事を告げてきた……。
-I feel a strange atmosphere^emanating from the living room.^Hisui appears, and stoically^informs me that I have a^visitor...
+// @flowchart_descr
+There's a strange vibe coming from the living room.
+ Hisui appears, and stoically informs me that I have a visitor...
 }
 [sha:a99791ed1bba7f36014f61431c1ce34fab49e482]{
 -- 必死の思いで屋敷を脱出した。^後の事を考えると恐ろしいが、^今はこの女に話を聞かなければ。
-I've made my desperate escape^from the mansion. I shudder to^think what's in store for me^later, but I need to talk to^this woman now.
+// @flowchart_descr
+In desperation, I escape from the mansion.
+ I shudder to think what's in store for me later,
+ but right now I need to clear some things up with this woman.
 }
 [sha:436e64dc6947ba249cda94eb5a1ed82f16a6d52b]{
 -- 吸血鬼事件について^アルクェイドを問い詰める。^真相はあまりにも単純だった。
-I question Arcueid about the^vampire incidents. The truth^is much too simple.
+// @flowchart_descr
+I confront Arcueid about the vampire incidents.
+ The truth proves painfully simple.
 }
 [sha:eeb32f4d3bdf9486e744f07ff3132798a206d0da]{
 -- 不死を狩るアルクェイド。^死徒によって汚染された街の^状況を改めて知らされるが……。
-Arcueid hunts the Undead.^I am once again struck by the^state of the city, infected by^the Dead Apostles...
+// @flowchart_descr
+Arcueid hunts the Undead.
+ It's driven home to me just how deep the Dead Apostles have wormed their way into the city...
 }
 [sha:09c033f62179624b9d27e1c164890ffa9cddf217]{
 -- 人間としてどうかと思うが、^もうどうしようもないので^アルクェイドに協力を申し出る。
-I know a human shouldn't^think like this, but I can't^help but offer to cooperate^with Arcueid———
+// @flowchart_descr
+It'd be human to turn her down,
+ but I'm not sure I have any other choice,
+ so I offer to cooperate with Arcueid.
 }
 [sha:7770710e1959069626b4eb62e6f525c145f7fb77]{
 -- 夜の探索を始めよう。^アルクェイドの提案を受け入れ、^眼鏡を外したまま街に出るが――
-We're starting our nighttime^investigation. I take Arcueid's^suggestion and head out into the^city without my glasses on.
+// @flowchart_descr
+It's time to commence our nighttime investigation.
+ At Arcueid's suggestion, I take off my glasses before heading out into the city.
 }
 [sha:81df8297b7034c80dd2845cb86d2313d5b6efcbf]{
 -- もう少し話をしていこう。^吸血鬼退治をすると決めた以上、^まだ知らない事が多すぎる。
-I'll talk to her a little more.^I've decided to help her^exterminate vampires, but there's^too much I still don't know.
+// @flowchart_descr
+I'll talk with her a little longer.
+ I've committed to helping her exterminate the vampires, but there's still a lot I don't know.
 }
 [sha:b139cdb0c2e01af955af51133e7d8a1e4c8f1988]{
 -- やはり吸血鬼の知識が必要だ。^吸血鬼と、下僕の死者たち。^関係性を詳しく聞いておこう。
-I need to know more about^vampires, as well as the Dead^that serve them. I'll ask her^to explain how they relate to^each other.
+// @flowchart_descr
+I need to flesh out my understanding of vampires.
+ I'll ask her more about the relationship between vampires and the Dead that serve them.
 }
 [sha:9e33c186859d93157ced4669ae51a6400c683270]{
 -- 吸血鬼の事はホテルで聞いた。^さらに踏み込んだ質問……^二十七祖とは何なのだろう。
-I heard about vampires at^the hotel, so I'll ask a more^in-depth question... Who are^the Twenty-Seven Ancestors?
+// @flowchart_descr
+I already heard the basics about vampires back at the hotel.
+ It's time to dig deeper...
+ What's the deal with these twenty-seven Ancestors?
 }
 [sha:6f37a5a17427f6b1e3ffbf70d841d7588f73ee3f]{
 -- これは絶好のチャンスだ。^さりげに気になっていた事……^あのドレスをもう一度。
-This is the perfect chance. I'll^ask about what's been on my mind^——could you show me that dress^again?
+// @flowchart_descr
+This is the perfect chance.
+ I'll casually bring up the one thing that's been top of mind: that dress of hers.
 }
 [sha:0dee2d7dc315fefe66c78eaac407a7d5520cdfa5]{
 -- 時刻は約束の零時を回っていた。^今夜の探索はここまでだ。^次の約束をして、今は別れよう。
-It's past midnight; the time we^promised to adjourn. We'll end^our search here for tonight.^Making another promise, we part^ways.
+// @flowchart_descr
+It's already past midnight; the time we'd promised to adjourn.
+ We'll end our search for tonight.
+ Promising to meet again, we part for the time being.
 }
 [sha:3c3359c18e1e9e513e84516a37b2023446a0bc3b]{
 -- 日付は変わってしまった。^明日の約束を交わして、^それぞれの居場所へと戻ろう。
-It's already tomorrow. Making a^promise to meet again, we return^to our homes.
+// @flowchart_descr
+It's already past midnight.
+ Promising to meet again tomorrow, we return to our respective homes.
 }
 [sha:7302be177e06ca787f94291eee78ce958e5e382d]{
 -- 忍び込むように帰宅した。^なぜ彼女に手を貸しているのか。^今は何も考えずに、眠る。
-I sneak back into the mansion.^Why am I helping her? I won't^think about that right now.^It's time to sleep.
+// @flowchart_descr
+I sneak back into the mansion.
+ Why am I helping her?
+ I'm not going to dwell on it right now. I need sleep.
 }
 [sha:d57235e3436eb47b284f64fcfeaa0d606fdc0b58]{
 -- 今朝は驚くほどに体調がいい。^健康すぎて不安になるほどだ。^けれど、何かが物足りない……。
-今朝は驚くほどに体調がいい。^健康すぎて不安になるほどだ。^けれど、何かが物足りない……。
+// 何かが物足りない referring to his desire for some read meat I assume
+// @flowchart_descr
+I wake up feeling surprisingly healthy――almost too healthy.
+ But, it feels like I'm lacking something...
 }
 [sha:6122c8eeb248f235190f461e7ee4bf8836934c0b]{
 -- 正門前に白い女の姿はない。^そして、シエル先輩達は――^何故かまだ学校にいるのだった。
-正門前に白い女の姿はない。^そして、シエル先輩達は――^何故かまだ学校にいるのだった。
+// First part shared with Arc ver
+// @flowchart_descr
+There's no woman in white waiting for me at the main gate.
+ Ciel-senpai and the others are also――still at school for some reason?!
 }
 [sha:eaf0d18a200cc7ec72f33dd44fbbc73bb4ba56a2]{
 -- 昼休みになった。^有彦と一緒に昼食をとろう。^何か、ガツガツとした物を……。
-昼休みになった。^有彦と一緒に昼食をとろう。^何か、ガツガツとした物を……。
+// @flowchart_descr
+It's time for lunch.
+ I think I'll go eat with Arihiko.
+ For some reason, I feel absolutely ravenous...
 }
 [sha:19c8157ab98a626918529c5616cb6d4e1e034e7e]{
 -- ハンバーグ、唐揚げ……。^肉汁たっぷりのメニューがいい。^有彦と一緒に食堂に行こう。
-ハンバーグ、唐揚げ……。^肉汁たっぷりのメニューがいい。^有彦と一緒に食堂に行こう。
+// @flowchart_descr
+Hamburgers, fried chicken...
+ I'm craving something succulently meaty.
+ I'll go hit up the cafeteria with Arihiko.
 }
 [sha:72a22f9e3561fadf87806be8217267f9184af24f]{
 -- ジャンクに揚げパンが食べたい。^今ならば４つはいけるだろう。^だが、明太子カレーとは一体？
-ジャンクに揚げパンが食べたい。^今ならば４つはいけるだろう。^だが、明太子カレーとは一体？
+// @flowchart_descr
+This craving for junk food can only be sated by curry bread.
+ Four of them ought to be enough for now.
+ What the hell am I supposed to make of a cod roe curry flavor though?
 }
 [sha:5811fa4c31de3e9e64df6d2901083f8fc9c55c00]{
 -- 手作りの弁当を分けてください。^先輩とそう約束をした筈だ。^茶道室まで行ってみようか……？
-手作りの弁当を分けてください。^先輩とそう約束をした筈だ。^茶道室まで行ってみようか……？
+// @flowchart_descr
+I'm pretty sure Senpai promised she'd let me have some of her home-made bento...
+ Maybe it's time to pay a visit to the tea ceremony room?
 }
 [sha:3cc70f685918ae8cbea21177d6cfd9f7600aa5b3]{
 -- いくら何でも焦りすぎた。^眼鏡を外してくれと頼むには、^もっと段階を踏まなくては。
-いくら何でも焦りすぎた。^眼鏡を外してくれと頼むには、^もっと段階を踏まなくては。
+// @flowchart_descr
+Damn, I really got ahead of myself.
+ I'll have to build up to it more slowly if I want her to take off her glasses for me.
 }
 [sha:c4db98f1b13720ab825925646c8066a51e712518]{
 -- 放課後になってしまった。^あれこれ悩んでいる時間はない。^どちらに行くべきか……。
-放課後になってしまった。^あれこれ悩んでいる時間はない。^どちらに行くべきか……。
+// @flowchart_descr
+The end of the school day came all too soon.
+ I can't put the decision off any longer.
+ Who should I go meet?
 }
 [sha:2f73fc9cee14c03d887d49e60c2cdf2af5e860d6]{
 -- 先輩の待つ茶道室に行こう。^先輩達が街に残っている理由を、^はっきりさせておかなくては。
-先輩の待つ茶道室に行こう。^先輩達が街に残っている理由を、^はっきりさせておかなくては。
+// @flowchart_descr
+I'll go meet with Senpai in the tea ceremony room.
+ I need to get a direct answer as to why she's still in this city.
 }
 [sha:48c75744c84a913ebee3fbf1177f44c9532f0a3c]{
 -- 茶道室へとやってきた。^ノエルにも誘われたせいか、^先輩の態度はやや刺々しい。
-茶道室へとやってきた。^ノエルにも誘われたせいか、^先輩の態度はやや刺々しい。
+// @flowchart_descr
+I arrive at the tea ceremony room.
+ Senpai seems a little snippy today.
+ I wonder if it's because Noel-sensei also invited me to see her today.
 }
 [sha:9d55ed0997b9cbc0afef4d30cdcd5ef7eb31921b]{
 -- 先輩との会話で気がついた。^自分の役目は既に終わっていて、^日常に戻る時が来たのだと。
-先輩との会話で気がついた。^自分の役目は既に終わっていて、^日常に戻る時が来たのだと。
+// @flowchart_descr
+As I talk with Senpai, I realize that my role is already over.
+ It's time for me to return to my everyday life.
 }
 [sha:6083f4c97b8907e5704da426bf376915e73a98bd]{
 -- 茶道室へとやってきた。^昼休みに会ったばかりだが、^先輩と話が出来るのは嬉しい。
-茶道室へとやってきた。^昼休みに会ったばかりだが、^先輩と話が出来るのは嬉しい。
+// @flowchart_descr
+I arrive at the tea ceremony room.
+ I just saw her at lunch, but I'm still happy for another chance to talk to Ciel-senpai.
 }
 [sha:8271182b10a1fe95191d7c6a564d6e917255cddd]{
 -- 先輩は真面目な顔で尋ねてくる。^地下墓地に現れるまでの数日、^自分の身に何があったのか―――
-先輩は真面目な顔で尋ねてくる。^地下墓地に現れるまでの数日、^自分の身に何があったのか―――
+// @flowchart_descr
+Senpai questions me with a serious expression on her face.
+ Just what exactly was I up to in the days leading up to our meeting in the catacombs?
 }
 [sha:67fdd4475306fac3fea4506d9f62c2a62baa5bd1]{
 -- ノエルの待つ校舎裏に行こう。^先輩には誤魔化されそうな話も、^先生なら教えてくれそうだ。
-ノエルの待つ校舎裏に行こう。^先輩には誤魔化されそうな話も、^先生なら教えてくれそうだ。
+// @flowchart_descr
+I'll go meet with Noel-sensei behind the school.
+ I get the feeling she'll actually tell me what's going on,
+ while Senpai would just give me the runaround.
 }
 [sha:5a04143dada8736e1089a05eb1e0f900aaff5e24]{
 -- 寄り道する用事は何もない。^今日こそは時間通りに帰宅して、^秋葉を安心させてあげたい。
-寄り道する用事は何もない。^今日こそは時間通りに帰宅して、^秋葉を安心させてあげたい。
+// @flowchart_descr
+I don't really have anything that needs doing in town.
+ I'll head home early for a change so that I don't worry Akiha.
 }
 [sha:836ba48d0dc5ede424c365ef5b8daa956a8f82c3]{
 -- 秋葉は上機嫌だが、^アルクェイドとの約束もある。^悟られぬよう注意しなければ。
-秋葉は上機嫌だが、^アルクェイドとの約束もある。^悟られぬよう注意しなければ。
+// @flowchart_descr
+Akiha is in a good mood, but I've also got my promise with Arcueid to consider.
+ I'll have to be careful not to get caught.
 }
 [sha:26378cd7f6f7e543eeb2eacc929f70a04f3e258a]{
 -- 彼女は頼みを聞いてくれた。^その彼女に頼まれたのなら、^断るわけにもいかない。
-彼女は頼みを聞いてくれた。^その彼女に頼まれたのなら、^断るわけにもいかない。
+// @flowchart_descr
+She granted my request before.
+ Now that she's asked something of me, how could I refuse?
 }
 [sha:e439c77c0c1f64c4658b90e9dbbbd30185abf26b]{
 -- アルクェイドと夜の街を行く。^何の変哲もない住宅地、^そこに吸血鬼の隠れ家がある――
-アルクェイドと夜の街を行く。^何の変哲もない住宅地、^そこに吸血鬼の隠れ家がある――
+// @flowchart_descr
+Arcueid and I head out into the sleeping city.
+ Nestled in a completely nondescript residential area, we find a hidden vampire den.
 }
 [sha:f6b404687586c80c469cb865d7b785f2f1401e03]{
 -- ビルが圧し潰される様子を、^高みから見下ろす姿があった。^そして、もう一人――
-ビルが圧し潰される様子を、^高みから見下ろす姿があった。^そして、もう一人――
+// @flowchart_descr
+From atop a nearby building, a figure watches on as the building is crushed.
+ And then, they're joined by another...
 }
 [sha:aa1ac44bd4f3ea1fefc6ff120eb1959ffa58dc3e]{
 -- 人目を避けて公園へと戻る。^体力もそろそろ限界だ。^落ち着くまでは、軽く雑談でも。
-人目を避けて公園へと戻る。^体力もそろそろ限界だ。^落ち着くまでは、軽く雑談でも。
+// @flowchart_descr
+Doing our best to avoid being spotted, we return to the park.
+ I'm about to collapse from exhaustion.
+ I might as well chat for a bit as I catch my breath.
 }
 [sha:8db62bb2f00e4ea0d2402972aa10e188bbd00939]{
 -- どうしても寝付けない。^今夜も眠くなるまで、^読書で時間を潰すとしよう。
-どうしても寝付けない。^今夜も眠くなるまで、^読書で時間を潰すとしよう。
+// @flowchart_descr
+Try as I might, I can't get to sleep.
+ I'll kill some time by reading a book, just like I did last night.
 }
 [sha:2b77f86ae03879be861fadaac2b11d72f98b1456]{
 -- 懐かしい夢から目を覚ます。^いつもの朝、いつもの時間。^だが、翡翠の姿が見当たらない。
