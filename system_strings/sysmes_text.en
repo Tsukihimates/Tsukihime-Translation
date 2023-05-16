@@ -2017,215 +2017,291 @@ I'll go back to the hotel.
 }
 [sha:f3812d62f194e07264f25b4ececadc9f36effc8a]{
 -- 五日目・朝
+// @flowchart_title
 5th day ― Morning
 }
 [sha:bf36f5be2d19744c9e2c73e46d7359f5db74ab5e]{
 -- 恐れのない眠り
+// Post-fight Shiki passes out scene
+// @flowchart_title
 Sleeping Without Fear
 }
 [sha:a033003a613c31aed545d2f1af4d6abf1c2523f8]{
 -- 事後処理
-Post-treatment
+// Church lads cleanup scene
+// @flowchart_title
+Cleanup Crew
 }
 [sha:5a73b90a08eb03be0f682a7fe3b306234b5bf79c]{
 -- 怪奇ガムテープ女
-Mysterious Duct Tape Woman
+// @flowchart_title
+The Bizarre Duct-Tape Woman
 }
 [sha:537d6a17b37c9cfcb346150a59cccd3543514e6b]{
 -- 安静にしてください。
-Please rest
+// @flowchart_title
+Please Rest
 }
 [sha:34fac76086b8166dce9838c971d8c258fd408f8e]{
 -- 教えてアルクェイド先生
-Teach me, Arcueid-sensei.
+// @flowchart_title
+Teach me, Arcueid-sensei
 }
 [sha:4fc678a5d363e59a3d22b9016677584cb276396e]{
 -- 罪の所在
-Crime Scene
+// @flowchart_title
+Am I To Blame?
 }
 [sha:fd9cf54dfd5895f1a8c1630df3bcf9d4a8159fc2]{
 -- 戦う覚悟
-Resolve to Fight
+// @flowchart_title
+Determined to Fight
 }
 [sha:3187bcc3d3a8f8d343c6f2b7c3906e36a94f0a81]{
 -- あとさき
+// Bad end go see Haru & Toshi on your own
+// @flowchart_title
 Consequences
 }
 [sha:7fb0793b147ac13d2f4d03a122b9f79ff3ce1f79]{
 -- ……せめて、夜までここに残る。
-...I'll stay here until nightfall
+// @flowchart_title
+I'll stay here until nightfall...
 }
 [sha:7c01e14e5219b6b8b26270c18f0c289f4d004b21]{
 -- 作戦会議
+// @flowchart_title
 Strategy Meeting
 }
 [sha:cd716938665fb8dea24b37c95638e57cba1c31f0]{
 -- 方針決定
+// @flowchart_title
 Deciding on a plan of action
 }
 [sha:7399ce063a61b41b4bad82d4308ecfdb5af3d077]{
 -- 夜の街へ
-To the City at Night
+// @flowchart_title
+Into the Night
 }
 [sha:f23ec26bfac87e1442d159b3f17d102f8aa84af2]{
 -- 舞い降りた嵐
-Descending Storm
+// @flowchart_title
+The Tempest Descends
 }
 [sha:8467359b52108d0b8e5471778e3790a403c9d00a]{
 -- ヴローヴ・アルハンゲリ（Ⅰ）
+// @flowchart_title
 Vlov Arkhangel (I)
 }
 [sha:2ce7aa1509d4c88d1129ed1060961fa39824be28]{
 -- 下りていく。
-I'm going down.
+// Go down into pit choice from 05_00_ARC05_6
+// @flowchart_title
+I should descend
 }
 [sha:7d42bce75a752638d38395a4dc3c4fe02e58d562]{
 -- 様子を見る。
-I observe the situation.
+// Don't go into pit choice from 05_00_ARC05_6
+// @flowchart_title
+I should observe the situation
 }
 [sha:e3d9fbb2c606243108c0b9058ee55521a0108c8b]{
 -- 戦いの様子を見るしかない。
-No choice but to watch the battle
+// First choice from 05_00_ARC05_6_2
+// @flowchart_title
+I should just watch what happens
 }
 [sha:543477516f2768c73bdf78ae86603d1e629cb9b0]{
 -- アルクェイドを呼び止める。
-I should stop Arcueid.
+// Second choice from 05_00_ARC05_6_2
+// @flowchart_title
+I should tell Arcueid to stop
 }
 [sha:668a13b131a21da19c646f2b96698bed456eb3d6]{
 -- 灼熱の妄想
-Burning Delusion
+// Reference to 9983
+// @flowchart_title
+Infernal Delusion
 }
 [sha:94656653e741fceb5d6fb85ce0b6f8ccbfd20a9b]{
 -- ヴローヴ・アルハンゲリ（Ⅱ）
+// @flowchart_title
 Vlov Arkhangel (II)
 }
 [sha:b55be7ca646f9229d46ce868c556c31298718991]{
 -- 切り札
+// @flowchart_title
 Trump Card
 }
 [sha:0490b79017bb7fe34700f2cc02675eb7d1db03eb]{
 -- ……投擲だ。
-...It has to be throwing.
+// Choice option from 05_00_ARC05_9B
+// @flowchart_title
+If there's a way, it's throwing
 }
 [sha:9e217693d32ccd92bad2dda50a6b0bc16b45fb2e]{
 -- ……滑走だ。
-...It has to be gliding.
+// Choice option from 05_00_ARC05_9B
+// @flowchart_title
+If there's a way, it's gliding
 }
 [sha:cf06b3351e07e909a0824e7d1b43a8d0b7b4f43f]{
 -- パーセンテージ・ショウタイム
+// @flowchart_title
 Percentage Showtime
 }
 [sha:05ff0ce01b9c58be45f1c4af77d7fddcc8bb5f5b]{
 -- ……牽引だ。
-...It has to be towing.
+// Choice option from 05_00_ARC05_9B
+// @flowchart_title
+If there's a way, it's towing
 }
 [sha:54089bc956b4fe69f393e7740e86651189c47f2f]{
 -- ……今すぐヴローヴを捜すべきだ。
-I should look for Vlov right now.
+// @flowchart_title
+I should look for Vlov right away
 }
 [sha:4e286bbc39e69a3b73212478233ecb73745caaaf]{
 -- 下の階へまいります。
-I head downstairs.
+// Ciel route, elevator
+// @flowchart_title
+Subterranean Descent
 }
 [sha:855525f0ec1dedf4737cc40d432da04e51fbf993]{
 -- 地獄の底で。
+// @flowchart_title
 In the Depths of Hell
 }
 [sha:4da45761d93d16537f41c662a40fb38e527f320a]{
 -- 理性
+// @flowchart_title
 Reason
 }
 [sha:b1ba068e0f180e3c73ea9c302e21f430acc5a4b6]{
 -- ヴローヴの根城へ
+// @flowchart_title
 To Vlov's Stronghold
 }
 [sha:66e9b3e8ac3fe7290606016de793be5f76bedbe6]{
 -- 天国の梯子
+// Scene actually calls it a 天使の梯子 (Jacob's Ladder)
+// @flowchart_title
 The Ladder to Paradise
 }
 [sha:1970b57eb6db972d7031835be1b9766380dad3a6]{
 -- 炎の手
+// @flowchart_title
 Hands of Flame
 }
 [sha:996bf431201886e31484d01993d8669959884624]{
 -- ノエルを助ける。
-I'll save Noel.
+// @flowchart_title
+I'll save Noel
 }
 [sha:4426595ee07440ce95f6d870c7be2a7eaa50a49c]{
 -- ありえない切断
-Impossible Amputation
+// Ref 11607
+// @flowchart_title
+Inconceivable Amputation
 }
 [sha:bda68754e482868ac132b12189e3c0d91f552980]{
 -- ノエルを見捨てる。
-I'll abandon Noel.
+// @flowchart_title
+I'll abandon Noel
 }
 [sha:e96f7c9cd0bd4098658ccd3b8d7b911f7edff645]{
 -- ――――このまま押し切る！
-―――I can keep going!
+// Choice from 05_01_CIEL05_1_1B
+// @flowchart_title
+I continue to press on!
 }
 [sha:966197f1ca441251c04b21e83f4ea4e9b997fe3c]{
 -- 限界だ、一度呼吸を……！
-I can't, I need to breathe...!
+// Choice from 05_01_CIEL05_1_1B
+// @flowchart_title
+I can't, I need to breathe!
 }
 [sha:9c1876e9334717705911c58bc10434bef62343e3]{
 -- 二十七祖
+// @flowchart_title
 The 27 Ancestors
 }
 [sha:16dbe00292042c1bb8aa3acded5cccea92b722c8]{
 -- 先輩に駆け寄る。
-I rush over to Senpai.
+// Choice from 05_01_CIEL05_2_2B
+// @flowchart_title
+I rush over to Senpai
 }
 [sha:aea1272df98b66764587d5b44b38db6eabada087]{
 -- 先生に駆け寄る。
-I rush over to Noel.
+// Choice from 05_01_CIEL05_2_2B
+// @flowchart_title
+I rush over to Noel
 }
 [sha:56e50a249a22c396129976ad04e03dfe4d7ffe50]{
 -- ノエル先生の個人授業
+// @flowchart_title
 One-on-One Lesson with Noel
 }
 [sha:066eed2dbb3129048ef892597213cd400c2f6542]{
 -- 地底からの脱出
-Escaping the depths of the Earth
+// @flowchart_title
+Escaping the Depths of the Earth
 }
 [sha:a6e1efa14a65eaeafb90a3458d4c6c2f9151fc8f]{
 -- アルクェイドさんご立腹
-Offending Arcueid
+// Mad and waiting for him when he goes back to her apt
+// @flowchart_title
+An Indignant Arcueid
 }
 [sha:e5d5ee4d48125c8fafe056b4bd3e80b4e9656d15]{
 -- 霧の中
+// @flowchart_title
 In the Mist
 }
 [sha:c771461f53ff05acff5a83fc02556e4484157873]{
 -- 苛立ち
-Frustration
+// @flowchart_title
+Irritation
 }
 [sha:6405afc3b468274c95167976c4f5958a1adf07b5]{
 -- 冷気の檻
+// Ref 12560
+// @flowchart_title
 Cage of Cold
 }
 [sha:d83bce1ae91b371bc223e650d2f533a3712b1202]{
 -- シエル先輩を見る。
-I look toward Ciel-senpai.
+// Choice from 05_01_CIEL05_3F
+// @flowchart_title
+I look at Ciel-senpai
 }
 [sha:ca93daa2e38570cf9d6b94bbe69f774e92acabb8]{
 -- ヴローヴを見る。
-I look toward Vlov.
+// Choice from 05_01_CIEL05_3F
+// @flowchart_title
+I look at Vlov
 }
 [sha:f3d6380409846e0100aaf2fd3de95196ddad5187]{
 -- 凍土のワルツ
-Waltz on Frozen Soil
+// @flowchart_title
+Waltz of Frost
 }
 [sha:d2840975f4d35120e11211f60a6138e830c8263b]{
 -- 安息こそ故郷
-Repose from one's homeland
+// Quoting 12916.
+// @flowchart_title
+The Final Rest is my Home
 }
 [sha:36c28bb331c9d49ef8729c607f22240376ad69bc]{
 -- おやすみなさい。
-Goodnight.
+// @flowchart_title
+Goodnight
 }
 [sha:c0a49c76874d2c7f947555ab0b5682bf925a1bc8]{
 -- 後処理
-Cleaning up the aftermath
+// @flowchart_title
+Clean-up Crew
 }
 [sha:ffb72a762eb8497d77f5cf2674a3e1feff6fbc94]{
 -- 六日目・朝。
@@ -4270,219 +4346,357 @@ I can't betray her trust.
 }
 [sha:599c3215fab55f620b1d84ba0bd6c926656a8b34]{
 -- 病巣は地上に現れた。^炎の河が堰を切って流れ始める。^煮えたぎるような豚の叫。
-The lesions appear on the ground.^The river of flame begins to flow^through the dam. The screams of^boiling pigs.
+// @flowchart_descr
+The disease spreads above ground.
+ The river of flame breaks its banks and gushes forth.
+ The air is filled with the squeals of pigs being boiled alive.
 }
 [sha:01d2a7252bd340cfc7c64c51893f57239210a1d3]{
 -- やっとの思いでホテルを離れ、^マンションへと辿り着いた。^今はアルクェイドを休ませよう。
-We finally leave the hotel and^arrive at her apartment. I'll^let Arcueid rest for now.
+// @flowchart_descr
+We arrive at Arcueid's apartment after finally leaving the hotel behind us.
+ I'll let her rest for the time being.
 }
 [sha:2bce2d9675bb14bd67edf5da6bd791efd7f5f37c]{
 -- ようやく終わった。^持てる全てを使い切った身体は、^深い眠りへと落ちていく。
-It's finally over. After^exhausting everything that I^have, I fall into a deep sleep.
+// @flowchart_descr
+It's finally over.
+ After exhausting everything that I have, I fall into a deep sleep.
 }
 [sha:befc4ce081129010a3b984ffc6a3aedeb4ba06cd]{
 -- ヴローヴの消滅から数時間後。^その汚染された土地で――
-A few hours after Vlov's demise.^In that contaminated land――
+// @flowchart_descr
+A few hours have passed since Vlov's demise.
+ Atop that contaminated land――
 }
 [sha:a8d425ef7d3a1d6ded7ef09ef9189b4903fffbb2]{
 -- アルクェイドの無事を確認した。^人間ではないと分かっていても、^その笑顔に安堵してしまう。
-I made sure Arcueid is alright.^Even though I know she's not^human, I'm relieved to see her^smile.
+// @flowchart_descr
+I've checked to make sure Arcueid is alright.
+ Even though I know she isn't human, her smile still fills me with relief.
 }
 [sha:75e7080c926eff2101da7a50aa2157d401aeefd4]{
 -- どうにか応急処置を済ませた。^ゆっくり休ませたい所だが、^この患者は眠ろうとしない……。
-I manage to administer the first^aid. I'd like her to get a good^night's sleep, but this patient^just doesn't want to...
+// @flowchart_descr
+I somehow manage to administer some first aid.
+ My patient really ought to get some rest, too, but she really doesn't want to sleep.
 }
 [sha:52b188d2fd6d6f66e1e6777ff460de66eb871c1f]{
 -- 二十七祖。^祖と呼ばれる旧い吸血鬼――^死徒の頂点に立つモノ達。
-The Twenty-seven Ancestors. The^ancient vampires known as the^Ancestors――the ones who stand^on top of the Dead Apostles.
+// @flowchart_descr
+The Twenty-seven Ancestors:^
+Ancient vampires who stand at the top of the Dead Apostle world.
 }
 [sha:4125de391ff9dd50b2005574f51dedfefff93595]{
 -- 懺悔と赦し。^贖罪と選択。^決断と選択と。
-Confession and forgiveness.^The decision to atone.^The choice to resolve oneself.
+// @flowchart_descr
+Confession and forgiveness.^
+The decision to atone.^
+The decision to commit.
 }
 [sha:5d203fece6c20fa1b3d2586c2cddbcafc5da0407]{
 -- もう逃げるのは止めだ。^アルクェイドは持久戦の構えだが^従うべきか、それとも――
-I've had enough of running away.^Arcueid is prepared to fight a^war of attrition, but should I^listen to her, or――
+// Ref 9140.
+// @flowchart_descr
+I'm done running away.
+ Arcueid is gearing up for a protracted battle――do I follow along with her plan?
 }
 [sha:85f8738b75417781c41181b2ee7683485042d712]{
 -- 先客はいない。^レストランは空席多めにつき、^すぐに対応さしあげます。
-There are no other customers.^The restaurant has a lot of empty^seats, so we will take care of^you right away.
+// Haru & Toshi bad end
+// @flowchart_descr
+You're first in line.
+ The restaurant has plenty of empty seats,
+ so we'll be with you right away.
 }
 [sha:d5c5bbad0e464d9bb29acfe32de6156e32ab324b]{
 -- 奴を三日も野放しには出来ない。^アルクェイドの回復を待って、^仕掛けるならば、今夜―――！
-We can't leave him on the^loose for three days. Instead^of waiting for Arcueid to^recover, we're going to lure^him out tonight――!
+// @flowchart_descr
+We can't let that guy go unchecked for three whole days.
+ We'll wait for Arcueid to recover a little, then engage him tonight!
 }
 [sha:1afd8f938f08863c715496e2611fd35ba507f9dd]{
 -- やるべき事は定まった。^ヴローヴを倒すため、^アルクェイドと作戦を立てる。
-We've decided on what we need to^do. To defeat Vlov, Arcueid and^I will devise a plan.
+// @flowchart_descr
+We've decided what we need to do.
+ Arcueid and I work to come up with a plan to defeat Vlov.
 }
 [sha:bc639cca173837f98d1a5e749514136eb4445b95]{
 -- ヴローヴを誘い出すべく、^夜の中央公園で待ち続ける。^だが、予想外の惨事が―――
-In order to lure Vlov out,^we wait in the central park^at night. But an unexpected^catastrophe occurs――
+// @flowchart_descr
+After night falls, we wait around in the park trying to lure Vlov out.
+ But instead, an unforeseen disaster strikes!
 }
 [sha:a284603a3db7784b7b0db66898d4670762df0490]{
 -- アルクェイドと共に^街を見下ろせるビルの屋上へ。^白い化身よ、炎を散らせ。
-I go to the roof of a building^overlooking the city with^Arcueid. White avatar, disperse^the flames.
+// @flowchart_descr
+Arcueid and I leap to the roof of a building to get a birds-eye view of the city.
+ Avatar in white, disperse these flames!
 }
 [sha:51546db9804334e6a12cb0f390f53dff072fef38]{
 -- 人型ミサイルは着弾した。^地表は砕け、繁華街が陥没する。^自分も地上に降りなければ……！
-The humanoid missile lands. The^surface of the earth shatters and^the downtown area caves in. I^have to get down there myself...!
+// @flowchart_descr
+The humanoid missile makes contact.
+ The earth splits open, and the downtown area caves in.
+ I need to get down there too!
 }
 [sha:b18b4638f3d22e2eb4cb2b19177e72c33b2002e4]{
 -- 屋上から下りてビルの外へ。^陥没した地の底では今まさに、^アルクェイドが戦っている……。
-Down from the rooftop and out of^the building. Right now, Arcueid^is fighting at the bottom of the^caved-in area...
+// @flowchart_descr
+I leave the roof, run down the stairs and make it outside.
+ Down in the pit of the cave-in, Arcueid's battle has already begun.
 }
 [sha:7824c08cbdd3556b97d4d128ceb3988e4c3e1078]{
 -- 敵の所在ははっきりしている。^自分の役割を果たすためにも、^怖気づいてはいられない……！
-The enemy's location is clear.^Even if it's to do my part, I^can't be afraid now...!
+// @flowchart_descr
+The enemy's location is clear.
+ I need to do my part――there's no getting cold feet now!
 }
 [sha:e2495ae05081d9e9bfd83afe260be4ea788e6826]{
 -- 地下は青い炎が広がっている。^ここで様子を見るしかない……。
-The blue flames are spreading on^the ground below. I'll have to^wait and observe from here...
+// @flowchart_descr
+The ground down there is blanketed with those blue flames.
+ I've got to just stay here and observe for now...
 }
 [sha:73d3f6f8a97f502822bae2c9f3f8978fc244f564]{
 -- ここからでは間に合わない。^今の自分に出来る事は、^戦いを見守る事だけだ。
-I won't make it in time at this^point. The only thing I can do^now is to watch the battle.
+// @flowchart_descr
+I won't make it in time at this point.
+ All I can do now is watch the battle from a distance.
 }
 [sha:48b7784416701393203dcc642f9c8eca40fff8f8]{
 -- 邪魔をするなんてもってのほか。^何もしなくていいと分かって^いながら、理性は叫んだ。
-There's no way I'm going to^interfere. My senses scream at^me even though I don't have to^do anything.
+// @flowchart_descr
+There's no way in hell I'm getting involved in that.
+ Even though I know I don't have to do anything, my sense of reason is screaming at me.
 }
 [sha:f17da383dfd8b39b7518b4956256cc611ab48dd8]{
 -- 致命的に間違えていた―――。^アルクェイドの腕が胸を貫いた^その瞬間、敵の真の貌が現れる。
-We made a fatal mistake――^Arcueid's arm pierces his chest.^At that moment, the enemy shows^his true colors.
+// @flowchart_descr
+We've made a fatal mistake――^
+The second Arcueid's arm pierces his chest, our enemy reveals his true nature.
 }
 [sha:527423f26d78698fd32d6a72b968b9aeee6fe934]{
 -- アルクェイドは殺されるだろう。^今のうちに逃げ出すのが正解だ。^だが本当に、このまま……？
-Arcueid will be killed. The right^thing for me to do now is to get^out while I still can. But am I^really just going to let this^happen...?
+// @flowchart_descr
+Arcueid's probably done for.
+ Running away while I still can would be the right decision.
+ But, could I really do that...?
 }
 [sha:b796d01ad21dfc58db8f592b00a39b8bc97e906c]{
 -- 氷の弾丸が迫る。^このまま武器を隠し続けるか、^それとも捨てるのか――
-The ice bullets are coming. Will^I continue to hide my weapon, or^will I throw it away――?
+// @flowchart_descr
+The ice bullets are bearing down on me.
+ Will I continue to hide my secret weapon, or will I show my hand?
 }
 [sha:a85917b531355a377116f8ad85c8596f40447014]{
 -- 自分はヤツにとって死の凶器だ。^たどり着く事が出来ないなら、^別の方法で撃ち込めばいい……！
-I'm a deadly weapon to him.^If I can't get close to him, I'll^attack him in some other way...!
+// Ref 10752.
+// @flowchart_descr
+I am the instrument of his demise.
+ If I can't get close, I'll just have to try something else!
 }
 [sha:2f9ba4dc9bfe4134c6d5ade9ef81c0016276da49]{
 -- 接近する手段があるとしたら、^それは―――滑走だ。^迷っている余裕はない！
-If there's any way to get closer,^it's by gliding.^――There's no time to hesitate!
+// @flowchart_descr
+If there's a way to get close, it's by gliding.
+ I can't afford to hesitate!
 }
 [sha:1fe987b6fbd7074aa05d7499540ba50ff25689f7]{
 -- 二十七祖・十九位、切断。^北海に沈め吸血鬼。^血は暖に能わず。
-The Twenty-Seven Ancestors,^number nineteen, severed. Sink^into the Northern Sea, vampire.^Blood shall not give you warmth.
+// @flowchart_descr
+No. 19 of the Twenty-Seven Ancestors――cut down.
+ Sink into the northern seas, vampire.
+ Blood does not warmth make.
 }
 [sha:4afb2d3a9616c69d2ab70f800f1f46b2a0c06649]{
 -- こちらが近づけないのならば、^相手の方から来てもらえばいい。^アルクェイドの力なら―――！
-If we can't get close to him,^then make him come to us. With^Arcueid's strength――!
+// @flowchart_descr
+If I can't get close to him, then I'll force him to come to us.
+ Arcueid's strong enough to make it work!
 }
 [sha:68f3706ce3762e14a1ce494485b7ffffa7d6cd9d]{
 -- 夜を待ってはいられない。^また犠牲者がでる前に、^ヴローヴを捜し、倒す。
-We can't wait until nightfall. We^must find and defeat Vlov before^he kills again.
+// @flowchart_descr
+We can't wait until nightfall.
+ We have to find and defeat Vlov before he kills again.
 }
 [sha:2c8b16e0fbe4c0222a64bcf27b76da5dbcc41a70]{
 -- 乗り込んだエレベーターが、^地下へと降りて行く。^冥府に向かうように深く、深く。
-The elevator that I boarded^is going downward. Deeper and^deeper as if heading toward^the underworld.
+// @flowchart_descr
+The elevator is going down,
+ deeper and deeper,
+ as if carrying me into the depths of hell.
 }
 [sha:d04ca0cdc69b8e77c13b7a6eaf84b65555d25298]{
 -- 暗闇の中をさ迷い歩く。^死人の群れと、おびただしい骸。^ここは正真正銘の地獄だった。
-I wander through the darkness.^A horde of the dead, innumerable^corpses. This is a genuine hell.
+// @flowchart_descr
+I wander through the darkness.
+ Hordes of the living dead.
+ Corpses piled upon corpses.
+ This place is hell itself.
 }
 [sha:1569281a96b42d5457c7ad86a4be93cbd5179c43]{
 -- ノエル先生を連れて逃げる。^この異常な空間の中で、^彼女は半狂乱に陥っていた。
-I grab Noel-sensei and escape^with her. In this abnormal^environment, she's turned^half-crazed.
+// @flowchart_descr
+I grab Noel-sensei and run.
+ These freakish catacombs have driven her half-mad.
 }
 [sha:c15e5b067252b15411e52a720a0dbacff30990f7]{
 -- 眠るアルクェイドを置いて、^ひとりマンションを出た。^駅前のデパートへと向かおう。
-I leave the sleeping Arcueid and^exit the apartment alone, heading^for the department store in front^of the station.
+// @flowchart_descr
+I sneak out of the apartment,
+ leaving the still-sleeping Arcueid behind,
+ and head for the department store in front of the station.
 }
 [sha:93795f629b6cf57134f04b2a334b6c7bd4fb3a48]{
 -- 地下に構築された人口の空間。^生け贄を囲む死人の群れ。^どうすれば少女を救い出せる？
-地下に構築された人口の空間。^生け贄を囲む死人の群れ。^どうすれば少女を救い出せる？
+// @flowchart_descr
+There's a man-made chamber underground.
+ A horde of cadavers surrounds the sacrifice.
+ How am I going to save her?
 }
 [sha:a45a7a9dbd8da9a224221f74d276cf23e65324a8]{
 -- 炎が走り抜ける。^それはノエルを焼くばかりか、^彼女の身体を引き込んでいく。
-炎が走り抜ける。^それはノエルを焼くばかりか、^彼女の身体を引き込んでいく。
+// @flowchart_descr
+Fire floods the hallway.
+ Not content to simply burn Noel, he pulls her to him.
 }
 [sha:d3f58df86ea45663206f2650f25c325d16a21368]{
 -- 忘れじの声がする。^見過ごす事はできなかった。^頭で考えるより先に体が動いた。
-忘れじの声がする。^見過ごす事はできなかった。^頭で考えるより先に体が動いた。
+// @flowchart_descr
+I hear a voice I'll never forget.
+ I can't let this to happen.
+ My body starts moving before my mind can catch up.
 }
 [sha:f3235a0598407005b73019ac4cf24dbe7fc370ba]{
 -- ヴローヴはこちらを気にしない。^奇襲は成功するだろう。^このように。
-ヴローヴはこちらを気にしない。^奇襲は成功するだろう。^このように。
+// @flowchart_descr
+Vlov doesn't register me as a threat.
+ I can probably take him by surprise.
+ Just like this――
 }
 [sha:1ebdcf30edfa6f00fd4b5ff535b1ebbbe75bc074]{
 -- 忘れじの声がする。^しかし、ここからでは^あまりにも遠すぎた。
-忘れじの声がする。^しかし、ここからでは^あまりにも遠すぎた。
+// @flowchart_descr
+I hear a voice I'll never forget.
+ But, he's too far away for me to do anything.
 }
 [sha:4166b72f04a1c4be0fae42fd9c431e57300ad3e3]{
 -- このまま押し切って終わらせる。^あと一歩踏み込むだけでいい。^だが、過信の結果は常に非情だ。
-このまま押し切って終わらせる。^あと一歩踏み込むだけでいい。^だが、過信の結果は常に非情だ。
+// @flowchart_descr
+I can end this once and for all if I keep going.
+ I just need to take one more step.
+ Alas, the price of overconfidence is steep.
 }
 [sha:8a58d7d6c6b58d4061cb04721f6509bce9567e1a]{
 -- ヤツの能力はホテルで見ている。^ここは一旦距離を取らなければ。^だが、蛮勇の代償は……。
-ヤツの能力はホテルで見ている。^ここは一旦距離を取らなければ。^だが、蛮勇の代償は……。
+// @flowchart_descr
+I got a glimpse of his abilities back at the hotel.
+ I've got to keep my distance.
+ Alas, the price for my recklessness is...
 }
 [sha:757ce7ba8cd98b3e0d46a9b64b66e38441b77772]{
 -- シエル先輩は失敗した。^吹き荒れる白い呪い。^広間は完全に凍り付く――
-シエル先輩は失敗した。^吹き荒れる白い呪い。^広間は完全に凍り付く――
+// Not really a 'failure' so much as the ole vlov cold/hot mistake
+// Ref 11833
+// @flowchart_descr
+Ciel-senpai messed up.
+ A billowing white curse.
+ The underground chamber is frozen solid.
 }
 [sha:87d8e80cd96869930f50d8179a059ff7d6a0e2e6]{
 -- 先輩を助けるに決まってる。^無我夢中でその背中を追う。^ここで逃げる事はできない……！
-先輩を助けるに決まってる。^無我夢中でその背中を追う。^ここで逃げる事はできない……！
+// @flowchart_descr
+I'm going to save Senpai, obviously!
+ I frantically sprint toward her back.
+ But I can't escape from this!
 }
 [sha:83b47873fe184b1d0d6b6e6cb101c10d3d7ca832]{
 -- ノエル先生を振り返る。^決めていた筈だ。^自分に出来る事をしなければ！
-ノエル先生を振り返る。^決めていた筈だ。^自分に出来る事をしなければ！
+// @flowchart_descr
+I look back at Noel.
+ I've already made my decision.
+ I have to do what I can!
 }
 [sha:27c3ae890805c69dc8367ebe69c6187f6092d29b]{
 -- ドームの崩落に巻き込まれた。^目覚めた場所は暗く、狭く、^そして柔らかい……柔らかい？
-ドームの崩落に巻き込まれた。^目覚めた場所は暗く、狭く、^そして柔らかい……柔らかい？
+// @flowchart_descr
+The chamber dome collapses around me.
+ When I wake up, the world around me is cramped, dark, and soft... soft?!
 }
 [sha:3dd7c368545243f353fd970a61dcb5f71ee8e470]{
 -- ようやく地上に戻る事ができた。^沈みつつある日の光さえ眩しい。^そして、先輩の視線は冷たい。
-ようやく地上に戻る事ができた。^沈みつつある日の光さえ眩しい。^そして、先輩の視線は冷たい。
+// 眩しい tweaked a bit to better mirror 冷たい
+// @flowchart_descr
+We finally make it back to the surface.
+ Even the faint rays of the setting sun feel warm.
+ However, Senpai's gaze is frosty.
 }
 [sha:366e5ab1ff215dd7f6a1785216e2887a9134112c]{
 -- 再びマンションへ戻ってくる。^彼女の機嫌を損なわぬように、^起きた事の全てを話そう。
-再びマンションへ戻ってくる。^彼女の機嫌を損なわぬように、^起きた事の全てを話そう。
+// @flowchart_descr
+I make my way back to her apartment again.
+ In order to quell her anger, I'll tell her all about what happened.
 }
 [sha:910c501d7b667621d16b9194dbef7f08b6b1b625]{
 -- ビルの屋上から街を見下ろす。^瓦礫の中に出現した巨大な結界。^先輩は今も戦っている……！
-ビルの屋上から街を見下ろす。^瓦礫の中に出現した巨大な結界。^先輩は今も戦っている……！
+// @flowchart_descr
+We survey the city from atop a building.
+ A massive barrier has appeared amid the rubble.
+ Senpai's down there fighting as we speak!
 }
 [sha:d525f499037e4e8ef50d37a25fcc230f79eaa94f]{
 -- 階段を駆け下りてゆく。^一刻も早く先輩の元へ行き、^ヴローヴの『線』を断つ……！
-階段を駆け下りてゆく。^一刻も早く先輩の元へ行き、^ヴローヴの『線』を断つ……！
+// @flowchart_descr
+I rush down the stairs.
+ I need to get down to where Senpai is as fast as possible, and sever Vlov's 'line'!
 }
 [sha:dea68eda0403d6acc4908d506c0ea33072cf0932]{
 -- 結界の限界が迫る。^だが、中に入る訳にはいかない。^どうすれば先輩を助けられる？
-結界の限界が迫る。^だが、中に入る訳にはいかない。^どうすれば先輩を助けられる？
+// @flowchart_descr
+I've made it to the threshold of the barrier, but I'm not able to get inside.
+ How am I supposed to help Senpai?
 }
 [sha:12e09f95f6019aafd534b7e88882f693db0a4862]{
 -- シエル先輩の姿を探す。^彼女は瓦礫の山に埋もれている。^今すぐに助け出さなければ！
-シエル先輩の姿を探す。^彼女は瓦礫の山に埋もれている。^今すぐに助け出さなければ！
+// @flowchart_descr
+I hunt around trying to spot Ciel-senpai.
+ There she is――buried in a pile of rubble.
+ I need to go help her right away!
 }
 [sha:d775d08587c287dde2ceaa60b560d0e8b598ab34]{
 -- あの攻撃が負担となったのか、^ヴローヴは動けないようだ。^この隙に先輩を助けなければ。
-あの攻撃が負担となったのか、^ヴローヴは動けないようだ。^この隙に先輩を助けなければ。
+// @flowchart_descr
+It doesn't look like Vlov's able to move...
+ That attack must have taken a lot out of him.
+ I need to seize this chance to help Senpai.
 }
 [sha:ab6da1b4c806a36bf86a89e40ef91829cbd9d0ce]{
 -- ヴローヴに仕掛ける二人。^即興のコンビネーションは、^美しい連弾のように。
-ヴローヴに仕掛ける二人。^即興のコンビネーションは、^美しい連弾のように。
+// @flowchart_descr
+We begin our assault on Vlov.
+ Our impromptu coordination is like a beautiful duet.
 }
 [sha:8514b6be1c4d49262552796f10243bc333b87ee5]{
 -- 花は胸に。^聖女の祈りを贖いに。
-花は胸に。^聖女の祈りを贖いに。
+// Quoting 12930.
+// @flowchart_descr
+To the bosom, flowers.
+ As atonement, the prayers of the Holy Maiden!
 }
 [sha:fe1977b3c4508f709963d0076282bd804ca5f828]{
 -- 体はもう動かない。^深い眠りに落ちていく中で、^先輩の声だけを聞いていた。
-体はもう動かない。^深い眠りに落ちていく中で、^先輩の声だけを聞いていた。
+// @flowchart_descr
+My body won't move anymore.
+ Senpai's voice is the only thing I hear as I drift off into a deep sleep.
 }
 [sha:aa5631c6d50b96abc4a972e0041755985e287126]{
 -- ヴローヴが消滅して既に二時間。^交通、報道の規制が続く現場に^一人の少年が立っていた―
-ヴローヴが消滅して既に二時間。^交通、報道の規制が続く現場に^一人の少年が立っていた―
+// @flowchart_descr
+Two hours have already passed since Vlov's demise.
+ A media blackout has been imposed, and the area is off-limits.
+ Upon the scene stands a boy.
 }
 [sha:571743a1551889624f42684e127a70bc8a5794d3]{
 -- 自室のベッドで目覚めた。^傷は深く歩くのも辛い。^でも、命を繋ぐ事が出来たのだ。
