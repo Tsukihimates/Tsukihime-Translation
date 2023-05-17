@@ -54,7 +54,8 @@ Are you telling me that monster seriously just confiscated the world's lines of 
 [sha:0b79f6025458b561155bfd971213c98b6f3a61b5]{
 -- Page 70, Offset 40458.
 -- 異変は、収納は地脈だけに留まらない。
-The anomaly doesn't stop after she's stored away the earthveins.
+The anomaly continues,
+ not content with merely storing away the earthveins.
 }
 [sha:993816c052027f7420bdebea2a3e04826919cce5]{
 -- Page 70, Offset 40459.
@@ -164,7 +165,7 @@ If it weren't for Roa's warning,
 -- Page 79, Offset 40477.
 -- 「“随分と、生意気なコトを考えるのね”」
 %{i}
-"That was... quite an audacious plan you had there."
+"That was... quite the audacious plan you had there."
 %{/i}
 }
 [sha:cdda263d41388544618ed51fe0e431b0a9069847]{
@@ -486,9 +487,11 @@ If I slide off the edge,
 [sha:9f8515dd31a796bd451f27010f70937d690dd4fb]{
 -- Page 95, Offset 40531.
 -- 落下してもリカバリーは利く筈だ。
-// Recover as in FG terminology here?
+// リカバリーは利く apparently means to make up for one's failures.
+// Or like, being able to get back on one's feet metaphorically after experiencing setbacks.
+// Doesn't appear in dictionaries, so it must be a rather newfangled saying.
 %{i}
-Even if you fall, you should be able to get back on your feet again.
+Even if you fall, you should be able to make it back.
 %{/i}
 }
 [sha:c32ae2fb4d01aa84be65d1f1ac53b022afecf3b5]{
@@ -545,7 +548,7 @@ I'm not all that hungry,
 -- Page 98, Offset 40541.
 -- いや、■■は要らない。そんなものを飲んだところで俺はまだ自分のモノに還元できない。
 No, stop it――I don't need any ■■■.
- If I drank something like that, I'd never be able to go back to the way I was.
+ If I drank %{i}that%{/i}, I'd never be able to go back to the way I was.
 }
 [sha:7cb7424e8be37cf1d142dd062c7686583e8d9666]{
 -- Page 99, Offset 40542.

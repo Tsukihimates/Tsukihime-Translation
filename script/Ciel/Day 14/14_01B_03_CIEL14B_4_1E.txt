@@ -95,8 +95,7 @@ To her, that act serves as both revenge and punishment for the conceited Executo
 -- Page 111, Offset 40576.
 -- 代行者は言った。彼の事を理解していない、と。
 // Again, match phrasing from 40366
-// Avoid duplication of Executor?
-She can't believe the Executor would say something like that.
+She can't believe Ciel would say something like that.
  That she didn't get him at all.
 }
 [sha:715321980499d989e16426feb3bf06b49b6f5ffd]{
@@ -169,15 +168,12 @@ Now that she has become a Luminary,
 [sha:5cf047bcc574c60cab5dd6bc1b06f9f7c3b22214]{
 -- Page 116, Offset 40586.
 -- 代行者シエルの運命は、
-Both the fate of Executor Ciel―――
+Both Executor Ciel's fate―――
 }
 [sha:0c94c2c0f1239d741266b1bd32f80917e4185466]{
 -- Page 116, Offset 40587.
 -- あの人間……否、転生者ロアの行動は、
-// Clearer that she's treating him as Roa not Shiki?
-// lint-off:LintEmDashes
-And the actions of that human―――%{n}
-No, of the Roa's reincarnation―――
+And the human's――no, %{i}Roa's%{/i} actions.
 }
 [sha:ec772953449ee3743b05318c7e73954f2e724c68]{
 -- Page 116, Offset 40588.
