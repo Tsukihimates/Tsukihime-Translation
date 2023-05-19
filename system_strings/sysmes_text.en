@@ -2880,19 +2880,19 @@ May the lord hear your prayers
 -- アルクェイドの事だ。
 // Reference 42658
 // @flowchart_title
-Arcueid
+It's Arcueid
 }
 [sha:a566125e3b726de86683e0c47d26eb4d20c98314]{
 -- 黒い男の事だ。
 // Reference 42659
 // @flowchart_title
-The shadowy figure
+It's the shadowy figure
 }
 [sha:d3a279fc98797bdb0d5446d1b6ec566342ba67f8]{
 -- ノエル先生……の事だ。
 // Reference 42660
 // @flowchart_title
-Noel-sensei...
+It's Noel-sensei
 }
 [sha:6e998cef3866f36243b335c5e6e91db6e1b7461b]{
 -- 起床
@@ -2918,8 +2918,9 @@ I'd much rather Kohaku-san do it
 }
 [sha:6f025e2b51c9a7755c4c2cbfe858792c98c8e402]{
 -- 午後になった。
+// Reference 21544.
 // @flowchart_title
-Afternoon Arrives
+It's now the afternoon
 }
 [sha:98296167046636a7ab2b909fe92fb965eec1733d]{
 -- 屋敷の一階を散歩しよう。
@@ -2985,13 +2986,13 @@ Steamy Infirmary
 -- そりゃあ痛くなくて効くものを。
 // Reference 42718.
 // @flowchart_title
-Painless and Effective
+The painless and effective one
 }
 [sha:a046c843e32e7fef04b859e9394cbc76b6253a0e]{
 -- じゃあ、痛くて効かないものを。
 // Reference 42719.
 // @flowchart_title
-Painful and Ineffective
+The painful and ineffective one
 }
 [sha:0d4d4543848173fd095a92cd1e8d5029d29cc5dc]{
 -- 約束の時は来た。
@@ -3026,7 +3027,7 @@ I will do as she did
 -- ……そんな無意味な事はできない。
 // Reference 42721.
 // @flowchart_title
-It's meaningless; I won't do it
+It's pointless; I won't do it
 }
 [sha:56488d71a484222007399f70e30292b375f79f13]{
 -- 聞かせてノエル先生。
@@ -3069,8 +3070,9 @@ Melty Blood
 }
 [sha:6a320510dbb03971f32cc4f21d3aac4ef1f7db05]{
 -- 勝敗は決した。
+// Reference 23850
 // @flowchart_title
-The victor is decided
+The battle is over
 }
 [sha:a3a21394dfaf36794d32a7395d919740234e02e1]{
 -- シエル先輩を助ける。
@@ -5766,9 +5768,10 @@ I decide to skip school today.
 }
 [sha:f8f8e0f19adba2a2222184ccb81094f122bf2c8e]{
 -- 阿良句博士にお願いしよう。^いまいち安心できない人だが、^あれでも専門家には違いない。
+// Ref 21437
 // @flowchart_descr
 I'll ask Prof. Arach to do it.
- I still feel a little on-edge around her, but there's no denying she's an expert.
+ I still feel a little on-edge around her, but there's no denying she's a professional.
 }
 [sha:afac58e6cdd0a5eb5a03be5e75ddc18f600a9a88]{
 -- 琥珀さんにお願いしよう。^薬を処方してもらえれば、^あとは自力で回復する。
@@ -5816,7 +5819,7 @@ I'd better leave the study alone.
 -- 言い争う声で目が覚めた。^ベッドに寝かされた自分の体が、^思うように動かせない―――
 // Not really an argument so much as Akiha berating Hisui
 // @flowchart_descr
-I awake to the sound of someone's fury.
+I awake to the sound of a furious voice.
  I'm lying in bed, and my body won't move the way I want it to――
 }
 [sha:98c5b79aec5e98d7ed060b581bef03ebab4b45ea]{
@@ -5833,8 +5836,9 @@ I can't break my promise with Arcueid.
 }
 [sha:99408a0ee17f3c4205c8139b6705ef7573ed8977]{
 -- 何か、良くない夢を見たようだ。^翡翠に気を遣われるほどに、^今朝の自分は顔色が悪いらしい。
+// Ref 22144
 // @flowchart_descr
-I feel like I was having a terrible dream...
+I feel like... I had a terrible nightmare.
  Apparently I look pretty pale; Hisui suggests that I take the day off school.
 }
 [sha:83afae71ee904b9afc9f2038cf0da011a2025fbf]{
@@ -5868,7 +5872,7 @@ The unusual description piques my interest, but the injection is uneventful.
 -- ついに約束の時間がやって来た。^喜び勇んで訪れた茶道室には^謎の物体が……。
 // @flowchart_descr
 The promised time has finally arrived.
- I'm so excited to visit the clubroom that I could hardly contain myself.
+ I'm so excited to visit the clubroom that I can hardly contain myself.
  When I enter, I catch sight of a mysterious object...
 }
 [sha:a0a515b1c8a381097f164162ba13999e6767aa64]{
@@ -5879,36 +5883,39 @@ Just how dangerous is Arcueid, and who is the vampire named Roa?
 }
 [sha:ec49a17e431c28ab5edd41c0803ba97865b20b22]{
 -- 先輩とは絶交をした。^気分が晴れないままの放課後、^意外な相手からメールが届く。
+// Ref 22837
 // @flowchart_descr
-Ciel-senpai and I have had a falling-out.
+Ciel-senpai and I are through.
  As I gloomily start to head home, I receive a text from someone unexpected.
 }
 [sha:4f5f970d29ace4e3b43d98b17f8a3c4c71887701]{
 -- 気分転換になるだろう。^指定された廃工場へと足を運び、^促されるまま扉を開けた。
 // First part from 22850.
 // @flowchart_descr
-This could be a nice change of pace.
+This could be a good way to take my mind off things.
  I make my way to the abandoned factory, and open the door as instructed.
 }
 [sha:33b5d8137384f5e8f133e264644f945488093b9b]{
 -- 因果応報、逃れる道はない。^吸血鬼を殺すと決めた以上、^この手は血に濡れていく。
 // 因果応報 matched to 42720.
+// Foreshadowing later bad end (血に濡れ_ていく_)
 // @flowchart_descr
 I will give him his just desserts.
  There is no going back now.
- The moment I resolved to kill a vampire, my hands were stained with blood.
+ From the moment I resolve to kill this vampire,
+ my hands become ever more stained with blood.
 }
 [sha:6d3521330894be81fbce4e6c45e1ea3400b04eda]{
 -- 悪趣味には付き合いきれない。^だが、その拒絶は彼女にとって^納得のいくものではなかった。
 // Cribbed from 23021.
 // @flowchart_descr
-This is messed up. I want to part in it.
+This is messed up. I want no part in it.
  But Noel isn't satisfied at all by my refusal.
 }
 [sha:74a545322db885f4f945b43d9309406b93045bb5]{
 -- ノエルとビルを出て、路地裏へ。^彼女は自分の反応を愉しむように^シエルの過去を語り始める……。
 // @flowchart_descr
-Noel and I exit the building into a back alley.
+Noel and I exit the building into the back alley below.
  She starts to tell me about Ciel's past, delighting in my reactions.
 }
 [sha:b33017f4101f45e5763f01a2eefd88258cd57822]{
@@ -5921,11 +5928,12 @@ I return to my room in low spirits.
 [sha:853098cc87b3732c8375f362476529c8bd00d367]{
 -- 約束の時間だ。^アルクェイドにもう一度会って、^自分の気持ちを確かめよう。
 // @flowchart_descr
-The promised time has arrived.
- I'll meet up with Arcueid one more time, and confirm how I really feel.
+It's time to fulfil my promise to Arcueid.
+ I'll meet up with her one more time, and confirm how I really feel.
 }
 [sha:0254e07a578acf4d16cf7b673be4c3c9db860126]{
 -- このままではまずい。^ここははっきりと言い返して、^シエル先輩にお帰り願おう。
+// Ref 23483
 // @flowchart_descr
 I can't let things carry on like this.
  I need to be blunt and ask Ciel-senpai to go back home.
@@ -5947,7 +5955,7 @@ For better or worse, I've arrived at the park.
 -- 激突する代行者と吸血鬼。^トップランカーの戦いが、^ここに。
 // @flowchart_descr
 The clash between Executor and vampire commences.
- I'm witnessing a battle for the ages.
+ I stand witness to a battle for the ages.
 }
 [sha:d7a92a84ed79beb1269075e32635b92eb0bcad84]{
 -- 伯仲している二人の戦闘能力。^その均衡は徐々に崩れてゆき、^そして、ついに――
@@ -5960,7 +5968,7 @@ Their abilities start out evenly matched.
 // Cribbed from 23869.
 // @flowchart_descr
 I'm not going to just sit back and watch this insanity unfold!
- I plant myself between the two of them, and confront Arcueid――
+ I plant myself between the two of them, and confront Arcueid.
 }
 [sha:e2eebcb5e1ca94078fb4ddb6bd1c486eb591d7f4]{
 -- 本当にそれでいいのか。^それで一体なにが変わるのか。^だが、今は直球で行くしかない！
