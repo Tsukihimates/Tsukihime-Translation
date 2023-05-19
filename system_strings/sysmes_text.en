@@ -3466,17 +3466,17 @@ Adieu
 [sha:ec370a683ec5119331db355074f56449e404c93e]{
 -- 見慣れた教室
 // @flowchart_title
-A Familiar Classroom
+Familiar Classroom
 }
 [sha:38ae606fb07882b2ed32cf5ea7e0a8c4bc9e92c8]{
 -- 壊れた椅子
 // @flowchart_title
-A Broken Chair
+Broken Chair
 }
 [sha:5d35ca3b63a8b80bbcbb974ef2cb012db5a6a4ef]{
 -- 止まった時計
 // @flowchart_title
-A Stopped Clock
+Stopped Clock
 }
 [sha:f719ed2e5507145cf86f99e2694a6bbc28d3e264]{
 -- 夜歩く
@@ -3486,7 +3486,7 @@ Night Walk
 [sha:d4e03fa3c6a86805d70f499717ab9cfd0fd1210b]{
 -- カルマの清算
 // @flowchart_title
-Balancing of Karma
+Karmic Reckoning
 }
 [sha:d0b4aa5bc19aa56bab28a6bfa5793615d1697f77]{
 -- 14日目・朝
@@ -6380,10 +6380,11 @@ Her zeal as an avenger.
 -- 「もう会わない方がいい」。^アルクェイドはそう言った。^それは人として、とても正しい。
 // @flowchart_descr
 Arcueid said it would be best if we didn't see each other again.
- That would definitely be the right choice to make as a human being.
+ That would definitely be the most human choice I could make.
 }
 [sha:5ccc2cd53667733a04caaff339727bae155b1d46]{
 -- 放課後になった。^夜までは自分の時間だ。^ならば今、やるべき事は――
+// Reference 29565, 29569
 // @flowchart_descr
 Classes have ended.
  The rest of the day is mine.
@@ -6391,6 +6392,7 @@ Classes have ended.
 }
 [sha:f067f9cb044841bcd0c1d7238a2835e8cf1ad6b0]{
 -- 何も無かった事にしよう。^全てが夢だったと思えばいい。^本当に―――本当に？
+// Ref 29592, 29593
 // @flowchart_descr
 I'll just pretend that none of this ever happened.
  That it was all nothing more than a dream.
@@ -6398,10 +6400,12 @@ I'll just pretend that none of this ever happened.
 }
 [sha:ed1f4e6e03dc2d69b7ea638376bcf0bcf098b775]{
 -- もう彼女には会えない。^そう考えるしかない。^―――まったく、笑わせる。
+// まったく、笑わせる probably him reacting to himself still not giving up
+// hope of seeing her (going to the pit) despite knowing she's gone.
 // @flowchart_descr
 I'll never meet her again.
  I have no doubt about that.
- Honestly... what a joke.
+ Honestly... what am I even doing?
 }
 [sha:58b515350c6d59c159943480007939e12a27d452]{
 -- ヴローヴと戦った跡地で、^自らの愚かさを受け入れる。^誤魔化すのは、もうやめだ。
@@ -6432,15 +6436,15 @@ I embrace Arcueid.
 -- 夢を見ていた。^彼女がまた、いなくなって。^二度と見つからない夢を。
 // @flowchart_descr
 I was dreaming...
- A dream in which she disappears again.
- A dream in which I'll never find her again.
+ Dreaming of her disappearing again.
+ Dreaming that I'd never find her again.
 }
 [sha:f31abfd68b14549fee4cf80832e5cb05cc7aa8da]{
 -- 眠りから覚醒する。^体の調子はいいとは言えないが、^日常に支障はないだろう。
 // Same bones as the Roa bad end later today
 // @flowchart_descr
-I wake up.
- I can't say I'm feeling great, but it shouldn't be enough to stop me going about my day.
+I awaken from my slumber.
+ I can't say I'm feeling great, but it won't impede me going about my day.
 }
 [sha:64f4395f86480c7331f9bbb86deba36225c418c4]{
 -- 手足は重い。^他人の体を着ているようだ。^学校に向かおう。
@@ -6471,15 +6475,15 @@ My head just won't stop throbbing.
 // @flowchart_descr
 My body is desperately pleading for food.
  I can't make my own.
- Tonight, I'll have to get some outside...
+ Tonight, I'll have to go get some outside...
 }
 [sha:ce0b30415acc1ba7f567ff310d32cb57f2d0dc5d]{
 -- 永い眠りから覚醒する。^器の性能はいいとは言えないが、^活動に支障はないだろう。
 // Same bones as first file of the day
+// Ref 29023, but uses a different kanji
 // @flowchart_descr
-I awake from my interminable slumber.
- This vessel's abilities leave much to be desired,
- but it will not hamper my activities.
+I awaken from my long slumber.
+ I can't say this vessel's abilities are particularly noteworthy, but it will not impede my activities.
 }
 [sha:91881718f586bbe6d0e7b213d0716c15ee1548ad]{
 -- 蝉の抜け殻。^時間は砂のように過ぎていく。
