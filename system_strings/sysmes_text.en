@@ -3047,8 +3047,9 @@ Blacked Out Moon
 }
 [sha:245f256f4f3cb6cb46be3e3194ffd048dedb7ae6]{
 -- アルクェイドに付き合う。
+// Ref 24365
 // @flowchart_title
-A date with Arcueid
+Accompanying Arcueid
 }
 [sha:2292e6bd780648824bd21dd3ea7dfd089e94e4a1]{
 -- わがままだから
@@ -3132,7 +3133,7 @@ Mistake
 [sha:efbfbad2f78561f9e1162f567c561b27972d6c5a]{
 -- 情けは人のためならず
 // @flowchart_title
-One good turn deserves another
+Kindness is never wasted
 }
 [sha:6a2f12c2ab26b9f1da237beb877ad36e2e5b7bef]{
 -- アルクェイドを追って。
@@ -3141,19 +3142,21 @@ I chase after Arcueid
 }
 [sha:898d03763e6add78d930b92a060230ed265ff2a0]{
 -- 夜の街へ。
-// We dropped 夜 in the file (10_00_ARC10_7B) and you know what, I'm going to do it again
+// Same as the one in Arc D5 but with a .
 // @flowchart_title
-Combing the City
+Into the Night
 }
 [sha:44b37fc9f4dfcece9345b8e7632ff83241eff2d9]{
 -- アルクェイドのマンションだ。
+// Ref 42677.
 // @flowchart_title
-She'd go to her apartment
+Arcueid's apartment
 }
 [sha:1bc75f1a6b941440699d9fb1c79fe6d20bf59b63]{
 -- ……繁華街の、路地裏だ。
+// Ref 42678.
 // @flowchart_title
-She'd go to a back alley downtown
+The back alley downtown
 }
 [sha:7a3e1e97340d11f4ede5dc679c047e3400f0f4e5]{
 -- 死の中で生を視る。
@@ -3162,8 +3165,9 @@ Searching for life amidst death
 }
 [sha:4c7ced10aed299b83a2ce9d417e3a0aa2ba3b096]{
 -- ……学校に戻っているかも？
+// Ref 42679.
 // @flowchart_title
-Maybe she'd go to the school?
+Back to the school?
 }
 [sha:0dfa18df796ae66f3ded281768baca0ba1033e5f]{
 -- 七つ、刀を研ぎ澄まし
@@ -3175,7 +3179,7 @@ Nanatsu, sharpen thy blade
 [sha:f64ae1833e8cbc3fca3fd45e84722c380d5c256b]{
 -- 嫌がることは、できない。
 // @flowchart_title
-I can't get myself to hate her
+I can't do what she doesn't want
 }
 [sha:102a1c620a5d48961eb3e4bc353652be03c15dea]{
 -- 10日目・朝。
@@ -3218,20 +3222,21 @@ Dining hall encounter
 [sha:b608319a7ebad62c50b9177d35ffbb07c81298fc]{
 -- シエル先輩は先輩ですよ。
 // Ref 42728.
+// Imperfect match due to char limit
 // @flowchart_title
-Ciel-senpai will always be Senpai
+You'll always be my Ciel-senpai
 }
 [sha:0febbcfd0e7d7ad87a2ca2e8a261f82b42d5295f]{
 -- シエル先輩は可愛いですよ。
 // Ref 42729.
 // @flowchart_title
-Ciel-senpai is cute
+You're cute
 }
 [sha:82a63256b10fc834ce221d8a841fa75f62bbe6e6]{
 -- 先輩はカレーマニアですよね。
 // Ref 42730.
 // @flowchart_title
-Ciel-senpai really loves curry
+You really love curry
 }
 [sha:cd9969e66bd7bcf7e5d378faa537462c763c35e4]{
 -- 想いを口に。
@@ -3242,7 +3247,7 @@ Feelings into Words
 -- 話の続きを。
 // Reference 27454
 // @flowchart_title
-Can I afford to put this off?
+We need to talk
 }
 [sha:3dac10cc4af6e336ceee5f4c7c1724d0ad73caa0]{
 -- 話は放課後にすればいいし。
@@ -3260,13 +3265,13 @@ We need to discuss this now
 -- ノエル先生との関係を訊いてみる。
 // Ref 42733.
 // @flowchart_title
-How's her relationship with Noel?
+What's her relation to Noel?
 }
 [sha:7bbc76039a5129553357a667be42cae50980f732]{
 -- 大聖堂ってなに？　と訊いてみる。
 // Ref 42734.
 // @flowchart_title
-What is a 'Cathedral'?
+What's that 'Cathedral' thing?
 }
 [sha:9f10312828131ceb84c5eef3284a7bf4cccf4b8a]{
 -- 黒鍵ってなに？　と訊いてみる
@@ -3294,7 +3299,7 @@ Ginger Milk Tea
 [sha:2d5fa1f2ca3b6d3a8e9d5ff0b3819c9707f46a1b]{
 -- ロアの生死。
 // @flowchart_title
-The life and death of Roa
+Is Roa alive or dead?
 }
 [sha:86e31d2965e1e54887fba3abdfd89d68af2f3d76]{
 -- 先輩だけに行かせられない。
@@ -3328,8 +3333,9 @@ End of a Reincarnate
 }
 [sha:41bab726eb93608f3fcade2efa3530ab499e2281]{
 -- 明日から。
+// Reference to 28761 and 28758
 // @flowchart_title
-Tomorrow is a fresh start
+Starting tomorrow―――
 }
 [sha:6e41e14883374d4702a3adbdac62d63b0aafcec1]{
 -- ボックス
@@ -5822,7 +5828,7 @@ I can't break my promise with^Arcueid. I have to somehow slip^away behind their 
 -- 終わりには理由がある。^されど、己が過去を知らぬ^ものに知る由もなく。
 // @flowchart_descr
 The end never comes without reason.
- But those who do not know their own pasts may never grasp what it is.
+ Nevertheless, those who know not their own past have no way of understanding why.
 }
 [sha:74519ccaf43854fb549ef462414aebf3c115b636]{
 -- 清々しい朝に目を覚ました。^―――いや、ちょっと。^これどういうコト？
@@ -5833,16 +5839,17 @@ Wait, what the hell is going on?!
 }
 [sha:88a085dca2385f20c315a12b6be11a37d126dec3]{
 -- 一晩中待たせた責任もある。^こうなったら今日は一日、^アルクェイドに付き合おう。
+// Ref 24372, 24374
 // @flowchart_descr
-I stood Arcueid up and kept her waiting all night.
- I'll have to make up for it by spending the whole day with her today.
+I did keep Arcueid waiting all night.
+ I guess I'll have to make up for it by accompanying her for the day.
 }
 [sha:17f8516cccd053ab6b7bf1cc3beb723c4d3a4730]{
 -- どうして怒っていたのか。^そりゃあ、アルクェイドが^わがまま……だからかな？
-// Reference 24439.
+// Reference 24439, though closer to actual choice (42669)
 // @flowchart_descr
 Why were you so angry?^
-Well, it's because you're selfish at heart, right?
+Well, it's because you're selfish, I guess?
 }
 [sha:e2e8d883888a60df07df4c2b2dc7fd6c139a284b]{
 -- そりゃあアルクェイドにとって^自分を殺した^にっくき復讐の相手だし……。
@@ -5877,16 +5884,19 @@ A movie is standard fare, right?
 }
 [sha:4e823839fb14bd2740f7bc46cb90721e3aed1632]{
 -- 我ながら正気だろうか。^だがこの選択に間違いはない。^大いなる野望を実現させるのだ。
+// References offsets 24679, 24681 and 24682
 // @flowchart_descr
-Am I crazy? Maybe.
- But my choice is sound.
- It's time to make my dream a reality.
+I'm starting to doubt my own sanity.
+ But there's no doubt in my mind that this is the right choice.
+ I must make my overwhelming desire reality.
 }
 [sha:70955daf365f1841cc8b594d1be3c80bed0f3ca0]{
 -- さいわい、今日は天気もいい。^アルクェイドを連れて、^日中の公園へとやってきた。
+// Ref 24875
 // @flowchart_descr
-Luckily, it's the perfect weather for a walk.
- I'll take Arcueid for a stroll around the park.
+Luckily, it's a lovely day out today.
+ I'll take Arcueid for a walk in the park.
+ Seeing it during the day will be a nice change of pace.
 }
 [sha:85cffadfc965b051d74cbf1620c117501a7feeab]{
 -- 彼女の話。^食べ物の話。^その、敵の話。
@@ -5933,8 +5943,8 @@ If only it were just a bad joke.
 [sha:565dd33219c59d83b75e676e0d8867eeb8835a5d]{
 -- 聖堂教会の司祭は語る。^アルクェイドの“敵”の正体と^その目的を。
 // @flowchart_descr
-The Presbyter from the Holy Church addresses me.
- Just who is Arcueid's enemy, and what is his goal?
+The Presbyter from the Holy Church tells me who her enemy is,
+ and what his goals are.
 }
 [sha:727145f7a51dec1540585e6887352a4d25a2beca]{
 -- もう余計な無駄道は踏めない。^アルクェイドを追うため、^夜の街へと走り出した。
@@ -5946,19 +5956,20 @@ I can't afford to waste any more time.
 -- アルクェイドは見つからない。^あいつがいるとすれば――
 // @flowchart_descr
 I can't find Arcueid.
- If she's anywhere in the city, it's――
+ If there's anywhere she'd be, it's――
 }
 [sha:b4869e121caba93e6c97d3029015bb5ce0d79c08]{
 -- 彼女の部屋に行こう。^今夜は死者を探す事も諦めて、^部屋に戻っているかもしれない。
+// Ref 26344, 26345.
 // @flowchart_descr
 I'll try her apartment.
- There's a chance she's given up on hunting the Dead for the night and gone back home.
+ There's a chance she gave up on hunting the Dead for the night and went back to her place.
 }
 [sha:5d2cc3484e27767bd1e03b42b181913c8722d85b]{
 -- 部屋に戻ったとは思えない。^向かうのなら、今は誰も^やってこない場所―――
 // @flowchart_descr
-She wouldn't go back to her apartment.
- Instead, she'd want to go somewhere nobody else would go――
+I doubt she'd go back to her apartment.
+ Instead, she'd want to go somewhere nobody else would go.
 }
 [sha:b26e974d8c018232063e53c5bdad030957e80789]{
 -- 眼鏡を外し、夜の街を行く。^彼女の死だけは視えない。^それが手掛かりになると信じて。
@@ -5969,6 +5980,7 @@ I take off my glasses and plunge into the night.
 }
 [sha:73aff6fe964683251d63e2477f9b5570ab471030]{
 -- 夜の学校には人気がない。^アルクェイドはもしかしたら、^ここに来ているのかもしれない。
+// Ref 26677
 // @flowchart_descr
 The school is totally deserted during the night.
  Maybe Arcueid went there?
@@ -6006,12 +6018,14 @@ I greet Akiha and the others in the living room.
 }
 [sha:8dcbde5393eb3efae997de808740b9b796239ba5]{
 -- 今朝だけは先輩を優先したい。^少しでも出遅れてしまったなら、^二度と彼女に会えない気がする。
+// First sentence here exactly the same as the title
 // @flowchart_descr
-I want to make Senpai my top priority, if only for today.
+I'll make Senpai my top priority.
  I feel like if I'm even a minute late, I'll never see her again.
 }
 [sha:8cc6e0a32b566d5033566997a4ff3d5f9aac7df0]{
 -- 屋敷から休まず走ってきた。^生徒もまばらな正門で、^先輩が来るのを待ち続ける……。
+// Ref 27245
 // @flowchart_descr
 I run all the way to school without stopping.
  Standing by the still sparsely populated main gate, I wait for Senpai to arrive...
@@ -6020,7 +6034,7 @@ I run all the way to school without stopping.
 -- シエル先輩に会う事は^出来なかった。^ノエル先生は今日も欠勤らしい。
 // @flowchart_descr
 Ciel-senpai never showed up.
- It seems like Noel-sensei is out today too.
+ It seems like Noel-sensei is out again today too.
 }
 [sha:d6be989793bb5f5d57cb479831dc9efa82db7aac]{
 -- 失意のままにランチに。^ぼやけた心は、^おかしな先輩をスルーする。
@@ -6038,13 +6052,13 @@ No matter what happens, she'll always be Ciel-senpai to me.
 -- ここがチャンスと見た。^先輩がいかに可愛い先輩なのか、^とことん語り尽くしてしまおう。
 // @flowchart_descr
 I spy a chance.
- Now's the time to expound on just how adorable Senpai really is.
+ Now's the time to expound on just how cute Senpai really is.
 }
 [sha:0dfc68cd5150353a5fbaed4c69c6b9eb9212583d]{
 -- 先輩とカレー、もはやこの二つを^切り離して考える事はできない。^いや、むしろカレーが先輩だ。
 // @flowchart_descr
 Senpai and curry are so linked that I can't even separate the two anymore.
- If anything, curry is my upperclassman.
+ If anything, curry equals Senpai.
 }
 [sha:5be30b5f65ada75fe9b86c9ac784a617b17c352b]{
 -- 自分にとって先輩は先輩だ。^どうしてもそれを伝えたかった。^いずれ、別れが来るとしても。
@@ -6063,10 +6077,11 @@ Lunchtime is over.
 -- あまりしつこくても^嫌われそうだし。^話はまた、次の機会に。
 // @flowchart_descr
 I don't want to bother her more than I already have.
- I can talk to her again later.
+ I can always talk to her about it later.
 }
 [sha:19dc2e7871406617831720ef03d13482210b00bd]{
 -- いい筈がなかった。^大事な事を話しておかなければ。^先輩を呼び止め、茶道室に誘う。
+// Ref 27499
 // @flowchart_descr
 There's no way it can wait.
  We need to discuss this right now.
@@ -6087,6 +6102,7 @@ Last night, there was a word that caught my attention...
 }
 [sha:c072f32b94f8bde519ab320208e2a3a7eaa45bef]{
 -- さらなる好奇心。^先輩たちが使っている武器、^黒鍵について訊ねてみよう。
+// Ref 27564
 // @flowchart_descr
 I'm a little more curious...^
 I'll try asking her about those weapons she uses; the Black Keys.
@@ -6100,40 +6116,43 @@ And my desires.
 }
 [sha:7e5f39efd186fdf165e9d5b643519d03cd577040]{
 -- 先輩と、アルクェイドの関係。^先延ばしにしてはいられない。^意を決して本題に踏み込もう。
+// Ref 27720, 27721
 // @flowchart_descr
 I can't keep putting it off.
- It's time to get to the point.
+ It's time to confront the elephant in the room.
  What's Senpai's relationship with Arcueid?
 }
 [sha:da7ede62fe9058aeee0f01a8d292fa0b6fa30e4d]{
 -- この人の傍は心地がいい。^だからだろうか。口にすべき^ではない心情をこぼしていた。
+// Probably ref 27891
 // @flowchart_descr
 I feel at peace when I'm with her.
  I wonder if that's why I'm voicing feelings better left unspoken.
 }
 [sha:73a7f39a693e4aa580db1e8139acfcc32f44a33e]{
 -- ロアはもう死んだ、死んだ筈だ。^先輩は確かめに行くと言って、^茶道室を出ようとするが―――
+// Ref 28088
 // @flowchart_descr
 Roa is already dead――at least, that's what I was told.
- Senpai says she's going to go confirm, and starts to leave, but――
+ Senpai says she needs to go verify it, and starts to leave, but――
 }
 [sha:685e361274bff606a88b38751f1c182d703a4919]{
 -- 先輩の様子はおかしい。^一人で行かせる訳にはいかない。^半ば強引に、同行を申し出た。
 // @flowchart_descr
 Senpai's acting strangely.
  I can't let her go alone.
- I forcefully volunteer to go with her.
+ I assertively volunteer to go with her.
 }
 [sha:898b271a59769d02897455be35116ec15dbeb717]{
 -- それが一番確実で、安全だ。^シエル先輩を信じて、^茶道室で待機していよう。
 // @flowchart_descr
 This is the surest and safest option.
- I'll put my faith in Ciel-senpai, and wait here for her to return.
+ I'll put my faith in Ciel-senpai, and wait here until she returns.
 }
 [sha:f2dfbe613ec063217692d9adfb3186c353205630]{
 -- 代行者はツーマンセルで^行動するのが常らしい。^ノエル先生にも報せないと。
 // @flowchart_descr
-Executors normally act in pairs.
+Executors work as two-man units.
  We'd better tell Noel-sensei about this.
 }
 [sha:3d9359e2c38e67b3f0b6fb1b6419059151c07fa7]{
@@ -6151,17 +6170,18 @@ Roa's corpse has been incinerated.
 }
 [sha:b2cbb9e29a6c5441abb46b925c2f3deaab55e45b]{
 -- これで終わり。^明日からは平穏に生きられる。^傷や思い出も、全部忘れて――
+// Ref 28757, 28758
 // @flowchart_descr
 This is the end.
- From tomorrow on, I can live in peace.
+ From tomorrow on, I'll be back to living life as an ordinary student.
  I'll forget all the scars, all the memories――
 }
 [sha:48fdb2f87fe5cbeb519231c76f1e866f7d850d48]{
 -- クリスマスのプレゼント。^代行者としての責務と、^復讐者としての情熱と。
 // @flowchart_descr
 A Christmas Present.^
-As an Executor, it is their duty.^
-As an avenger, their desire.
+Her duty as an Executor.^
+Her zeal as an avenger.
 }
 [sha:781389ea13fcf40fad83b3ea0d538f312b2c9ef0]{
 -- 「もう会わない方がいい」。^アルクェイドはそう言った。^それは人として、とても正しい。
