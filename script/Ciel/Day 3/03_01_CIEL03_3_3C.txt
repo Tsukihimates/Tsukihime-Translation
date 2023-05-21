@@ -328,7 +328,7 @@ As such, I believe that the only people who cannot be saved are those who are ut
 -- Page 266, Offset 5528.
 -- 「はい。でも、遠野くんは償える人です。何をしてしまったかは知りませんけど、遠野くんは償える人ですよ。
 "Yes.
- But you're someone who's able to atone for their actions.
+ But you're someone who %{i}is%{/i} able to.
  I don't know what you've done, but you can make amends, Tohno-kun.
 }
 [sha:2662d66caa3f0700648f479131727c5b50748245]{
@@ -361,7 +361,7 @@ It's a tricky thing to grapple with,
 [sha:26a650aa4e5e0d40d5b9b0ed98c54de2a686f2ba]{
 -- Page 268, Offset 5533.
 -- 誰かを傷つけて、その人の傷を治したとしても、傷つけたという罪は消えないでしょう？
-If you hurt someone, then even if you heal their wounds the sin of hurting them doesn't go away, does it?
+If you hurt someone, then even if you heal their wounds, the sin of hurting them doesn't go away, does it?
 }
 [sha:772d8f55b6d7739e415f54c4dfd06f6748b1b3db]{
 -- Page 268, Offset 5534.
@@ -372,7 +372,7 @@ No matter how hard you try, you can't erase the mistakes you've made."
 -- Page 269, Offset 5535.
 -- 「『償い』とは結果ではなく、その過程で生まれる心のあり方だと、わたしは教えられました。
 "I was taught that 'atonement' isn't a destination,
- but a way of being that is borne from the journey itself.
+ but a way of being that is born out of the journey itself.
 }
 [sha:4fd33a0df966c32f37e1106cf3dda68d508ac5ed]{
 -- Page 269, Offset 5536.
