@@ -3854,6 +3854,7 @@ Farewell
 [sha:b7d5ce990256ef9633f34f5446efc8f2e4f3a0d9]{
 -- 名残の夢
 // Actually a reduction of 名残惜しい in the style of 名残の茶/折
+// Same as True (13527de3) but without the moonlit
 // @flowchart_title
 One last parting dream
 }
@@ -3997,7 +3998,7 @@ Waking
 [sha:13527de3197e86e5c2e9d4b7b21d7ef32b9f6688]{
 -- 名残の夢、月の光。
 // Actually a reduction of 名残惜しい in the style of 名残の茶/折
-// Same as Normal but with 月の光
+// Same as Normal (b7d5ce99) but with 月の光
 // @flowchart_title
 One last moonlit parting dream
 }
