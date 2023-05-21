@@ -1288,6 +1288,7 @@ Star of Calvaria
 }
 [sha:cd86d7bb2b63a0f7dd90239022592d5185078771]{
 -- 巨人の庭
+// @flowchart_title
 Garden of the Giants
 }
 [sha:7dbd853573614b5c7a74ae86da22c9cf36513f37]{
@@ -1308,7 +1309,9 @@ Luminous Body Appears
 }
 [sha:66759872f530183a53db14fbadde47ec7e558a99]{
 -- 魔眼、覚醒
-Mystic eyes, wide awake
+// Only context for 覚醒 in game is 14_01B_02_CIEL14B_3_2, but it's more figurative there.
+// @flowchart_title
+Mystic Eyes ― Awakened
 }
 [sha:cede9c4a2fc703da3ac97327fc16e1ba48ee6276]{
 -- フランス茶道室
@@ -1332,6 +1335,7 @@ Primordial Earth
 }
 [sha:96e8a9474e1d4f40ad7ecd265762021e84c2beee]{
 -- 逆行運河／天体受胎
+// @flowchart_title
 Inverse Channel/Celestial Birth
 }
 [sha:567746a5c883b0d5486479189abf04710e16ab61]{
@@ -3821,60 +3825,81 @@ Moon Princess
 }
 [sha:d2b40faddfd36e2519bd0d2bdbfc935975578b9c]{
 -- ……アルクェイドには従えない。
-Don't accompany Arcueid.
+// Ref 42758.
+// @flowchart_title
+I can't agree to her proposal
 }
 [sha:1adaac9b5c3f4e7c707a82ddf2981eb5335db03d]{
 -- 真祖堕天
+// 堕天 also comes up in 23659.
+// @flowchart_title
 Fallen True Ancestor
 }
 [sha:23bca8bdc16cf47e7dd1d9f6fcf7c19e91585748]{
 -- 明日になったら。
-If tomorrow comes.
+// Ref 38728.
+// @flowchart_title
+Once everything is over
 }
 [sha:f94c62222b33eae211c5790c33e82051fabc17ee]{
 -- 世界の死
-Death of the world.
+// @flowchart_title
+Death of the World
 }
 [sha:d7c65fef950024d2c3d77dcd506de46961c04beb]{
 -- 決別
+// @flowchart_title
 Farewell
 }
 [sha:b7d5ce990256ef9633f34f5446efc8f2e4f3a0d9]{
 -- 名残の夢
 // Actually a reduction of 名残惜しい in the style of 名残の茶/折
 // @flowchart_title
-Dream of Parting
+One last parting dream
 }
 [sha:b992a4307335a2668860c4408f7bf7ffa40bda9c]{
 -- 嫌いにはなれない。
-I can't bring myself to hate her
+// Ref 42759.
+// @flowchart_title
+I can't get myself to hate her
 }
 [sha:991fe171a8b1e5d866f56a833106fc8967c63108]{
 -- 事象収納
+// @flowchart_title
 Event Storage
 }
 [sha:0cf792b5f94116cda4a74adc7119cb1ec998a7d2]{
 -- 世界の悲鳴
-Cries of the planet.
+// Ref 38742.
+// @flowchart_title
+The Screech of the World
 }
 [sha:5103f102e2e3b61a5d71bf234b0b3ae8728dd886]{
 -- 狙撃
+// @flowchart_title
 Sniping
 }
 [sha:ab866e52413d82f0a79721a2584ad7f544d49e5c]{
 -- 着弾
+// @flowchart_title
 Impact
 }
 [sha:8673c8af2a96ded02909d0b7655dab5d4f3e1fd7]{
 -- ロアの声
+// @flowchart_title
 The voice of Roa
 }
 [sha:0f44fc481a370f563f66fc67b126c75945e5ec33]{
 -- 180秒臨界決戦
-180 second decisive barrier fight
+// This supposed to be 臨界 as in critical [mass, state]?
+// There's a bunch of space-warping by Arcueid.
+// Absolute bear to cram into the char limit though.
+// @flowchart_title
+180s Decisive Criticality Fight
 }
 [sha:9809c60b2e8cd3ec6374c67d2695f5309a8a782e]{
 -- クラーケ　Ⅲ
+// @flowchart_title
 Krake III
 }
 [sha:dde21c8d06db01c6097cb032978193dc876d8b39]{
@@ -3884,22 +3909,30 @@ Snow of Marble
 }
 [sha:4ed04871dc81e0275078f1cbb15c61a5c553b56c]{
 -- 顕現
+// @flowchart_title
 Manifestation
 }
 [sha:88e17d9e4f2682a2d8b43732ed671ee1391595fe]{
 -- 最後の警告
+// @flowchart_title
 Final warning
 }
 [sha:ba82e601fc8eeaf8ac5a2689aa1556e0ef4a8e73]{
 -- それがどうした、黙ってろ。
-So what? Keep your mouth shut.
+// Ref 42760.
+// @flowchart_title
+So what? Just shut up already
 }
 [sha:079bd5e051de76da0bf5739ac794760027992cd9]{
 -- じゃあ、どうしろって言うんだ。
-Fine, then what should I do?
+// Ref 42761.
+// @flowchart_title
+Alright, then what should I do?
 }
 [sha:b6704dc0ef0be791e00e4512dd6ea445e2f5d0d2]{
 -- Crimson Air
+// Tough one
+// @flowchart_title
 Crimson Air
 }
 [sha:a3fee7a16735e308229a874398a9cd8d867a5093]{
@@ -3909,30 +3942,40 @@ Ant's Futile Struggle
 }
 [sha:4b349a35a197f1d635128d8feef20e2c2260eb52]{
 -- 諦めない。
-I won't give up.
+// Ref 42762.
+// @flowchart_title
+I won't give up
 }
 [sha:6ffc58936a6afb8faec1b7098de16ae6e9789565]{
 -- 逃げるしかない。
-I have no choice but to run.
+// Ref 42763.
+// @flowchart_title
+I have no choice but to run
 }
 [sha:ac6e75c0fea3347e4cf095ca46b3a019dfcdcb16]{
 -- ロスト・ワールド
+// @flowchart_title
 Lost World
 }
 [sha:f72a414073de5b44108222c09486528c161702d2]{
 -- まずは隠れよう。
-First, I need to hide.
+// Ref 42764.
+// @flowchart_title
+I'll hide down here
 }
 [sha:25ede4e6372ffcf6c26049f197b0e6025a0e768e]{
 -- ロジックエラー
+// @flowchart_title
 Logic Error
 }
 [sha:2675d8edec95f7a23cb438ee206448a6b0acb716]{
 -- 世界の点
+// @flowchart_title
 The 'Point' of the World
 }
 [sha:47a36e20ecf8b8fbb819ac51353652bc6f73433b]{
 -- 回帰重力圏
+// @flowchart_title
 Retrogressive Gravitation
 }
 [sha:bc94df6c5a16dd856ff943bad1e784f363b3732c]{
@@ -3943,37 +3986,45 @@ Limits have nothing to do with it
 }
 [sha:4b410df72125a1175ebbb52bb38a569372a8d454]{
 -- ラブレター
+// @flowchart_title
 Love Letter
 }
 [sha:d6b87ce022eef2f6ddfac281a2bf0578674d4fc2]{
 -- 目覚め
+// @flowchart_title
 Waking
 }
 [sha:13527de3197e86e5c2e9d4b7b21d7ef32b9f6688]{
 -- 名残の夢、月の光。
-// Same as the one for normal route, this is 名残惜しい in the style of 名残の茶/折
+// Actually a reduction of 名残惜しい in the style of 名残の茶/折
+// Same as Normal but with 月の光
 // @flowchart_title
-Dream of Parting in Moonlight
+One last moonlit parting dream
 }
 [sha:2b97c3ada6620bac788f0f7f44ea1bdfd5dd2bf5]{
 -- 16日目・深夜
-16th day, dead of night
+// @flowchart_title
+16th day ― Dead of night
 }
 [sha:c4a4d65b6a2f9dfe4379edccd92485ab1627da89]{
 -- 月下美人
-Beauty under the moon
+// @flowchart_title
+Moonlit Beauty
 }
 [sha:31263f38580d9dab95b1d7f49deafe00e2c39fcd]{
 -- 人ならざる身
+// @flowchart_title
 Inhuman Form
 }
 [sha:d14b4a955c129df437f327f56fa458ca7bff02cf]{
 -- 夜の虹
-Rainbow in the night
+// @flowchart_title
+Rainbow in the Night
 }
 [sha:efc5959ef6b20a19241434568255939422aea1d9]{
 -- 白日の碧
-Azure of a Bright Day
+// @flowchart_title
+Daylight Blue
 }
 [sha:77654648f4244425674c2de63f535cc8a61e5624]{
 -- 教えて！シエル先生　その１
@@ -6998,7 +7049,11 @@ It's been a week since that fateful night.
 }
 [sha:6afce19b0e7f236968be889a51b0cb4a12ad48e9]{
 -- ……一緒にはいられない。^彼女が吸血鬼だからじゃない。^今の自分には、大切な人がいる。
-……一緒にはいられない。^彼女が吸血鬼だからじゃない。^今の自分には、大切な人がいる。
+// Ref 37614.
+// Copied a bit extra for context.
+// @flowchart_descr
+We can't be together...
+ Not because she's a vampire, but because right now, I have someone I value more than my own life.
 }
 [sha:cb72b0928c8c0839db1d4ecbdd7839fc586f0479]{
 -- アルクェイドが倒れる。^地面が彼女の血で染まっていく。^駆け寄ろうとした、その時――
@@ -7006,39 +7061,59 @@ Arcueid has fallen. Her blood^stains the ground. I'm about to^run over to her, w
 }
 [sha:be5d924a295e911b8d7926f662f0370f132f556d]{
 -- 暴走するアルクェイド。^二人は学校まで撤退し、^戦いに備える。
-暴走するアルクェイド。^二人は学校まで撤退し、^戦いに備える。
+// Second half the same as 38f8a4fe
+// @flowchart_descr
+Arcueid has started to run rampant.
+ Ciel and I retreat to the school, and ready ourselves for battle.
 }
 [sha:0f34a856d20efd289e534ffe2ef37ae5cb6c2bd6]{
 -- 死のない真祖を絶命させる。^それを成すためには、^先に殺すべき物がある……！
-I need to kill the deathless^True Ancestor. But in order to^do that, I must kill something^else first!
+// @flowchart_descr
+I need to kill the deathless True Ancestor.
+ But in order to do that, I must kill something else first!
 }
 [sha:446370fd9a9c3560c24307456d0d4dee392d3435]{
 -- 彼女にナイフを突き立てる。^その傷が自分だけの物であれ、^と願いながら――
-I pierce her with my knife. I^pray that those scars are mine^alone to bear―――
+// @flowchart_descr
+I pierce her with my knife.
+ I pray that those scars are mine alone to bear―――
 }
 [sha:b75f12c5fc4b10f3143bdf364f5969ae08628f5f]{
 -- この命はじきに停止する。^だが、ロアの自由にはさせない。^残された方法はただひとつ。
-My life will soon be at an end.^But I can't allow Roa to roam^free――there is only one thing^left to do.
+// @flowchart_descr
+My life will soon be at an end.
+ But I can't allow Roa to roam free――there is only one thing left to do.
 }
 [sha:f788a3d127b76c2c93e5a3c7779e64f976641378]{
 -- 彼女を嫌いにはなれない。^……だからこそ、^その間違いは見逃せない。
-I can't bring myself to hate^her... But that's also why I^can't overlook this mistake.
+// @flowchart_descr
+I can't bring myself to hate her... But that's also why I can't overlook this mistake.
 }
 [sha:38f8a4fe97826804256cb05ebc3d66a8b8d336ce]{
 -- 本来の力を顕すアルクェイド。^二人は学校まで撤退し、^戦いに備える。
-Arcueid reveals her true power.^The two of us withdraw to the^school, and prepare for battle.
+// Second half the same as be5d924
+// @flowchart_descr
+Arcueid reveals her true power.
+ Ciel and I retreat to the school, and ready ourselves for battle.
 }
 [sha:672cdb4904185359fd8b1f30738b33c7fb68b3ea]{
 -- 第七聖典による狙撃を^敢行するシエル。^渾身の一射は、はたして。
-Ciel uses the Seventh Scripture^to snipe her target. Her first^shot, with all her strength^behind it, goes as expected.
+// @flowchart_descr
+Ciel uses the Seventh Scripture to snipe her target.
+ Her first shot, with all her strength behind it, goes as expected.
 }
 [sha:14bff6ca7cbc7552d9313f4d39e210febb6c17e8]{
 -- 街が熔け、消える。^これは自分と志貴だけの世界。^なのに邪魔者が混ざっている――
-The city melts away and^vanishes. A world for just^Shiki and me. And yet, an^intruder has entered the mix.
+// @flowchart_descr
+The city melts away and vanishes.
+ A world for just Shiki and me.
+ And yet, an intruder has entered the mix.
 }
 [sha:203ae576ab40b4d5904b38b6fad776fd57a72777]{
 -- 校舎の屋上へと駆け上がる。^夜を照らす閃光の中、^内から語りかける声を聞く。
-I rush up to the roof of the^school. As a flash of light^illuminates the city, I listen^to the voice inside my head.
+// @flowchart_descr
+I rush up to the roof of the school.
+ As a flash of light illuminates the city, I listen to the voice inside my head.
 }
 [sha:e0e22a7f7ff19b9f9182de198745261c252afa05]{
 -- 完全武装シエル、対、^真祖アルクェイド。^勝利の星はどちらに輝く。
@@ -7067,15 +7142,23 @@ The Luminary appears.
 }
 [sha:609ef1fe27daee7a4eecdb58c41f3538a8a0af75]{
 -- ロアの声に逆らうように、^光の中心を目指す。^それは自殺行為に他ならない。
-ロアの声に逆らうように、^光の中心を目指す。^それは自殺行為に他ならない。
+// @flowchart_descr
+In defiance of Roa's advice, I set my sights on the center of that light.
+ What else could it be but a deathwish?
 }
 [sha:6a6e8ee21013645a702cbf05c995bbb5cf487998]{
 -- それがどうした、と^頭の隅の他人を黙らせる。^ここから戻る選択肢はない。
-それがどうした、と^頭の隅の他人を黙らせる。^ここから戻る選択肢はない。
+// @flowchart_descr
+I tell the stranger in my head to shut up.
+ Who cares if this is my last chance to turn back?
+ Retreat isn't an option.
 }
 [sha:43a21951246fb02775084d4a9c12b0aaf88eebf4]{
 -- ロアは語る。^勝ち目が存在しないのなら、^何を“勝ち”とするべきかを。
-ロアは語る。^勝ち目が存在しないのなら、^何を“勝ち”とするべきかを。
+// @flowchart_descr
+Roa speaks.
+ If I have no way of seizing victory,
+ then what should I consider to be my victory condition?
 }
 [sha:845a606d6f3bc629c1d912a9184adf2182bc3cae]{
 -- 圏内に入る。光体を垣間見る。^立ち上がる100メートルの巨影。^それは、具現化した悪夢だった。
@@ -7086,11 +7169,18 @@ As I enter her zone of influence,
 }
 [sha:8c9402954a2f0a2da88e0950368a444e1520c3c6]{
 -- 形骸化したビル群の谷を^駆け、光体に接近する。^見つかれば即、死。
-形骸化したビル群の谷を^駆け、光体に接近する。^見つかれば即、死。
+// @flowchart_descr
+I approach the Luminary,
+ running through the valley formed by the husks of what used to be buildings.
+ If she notices me, I'm dead.
 }
 [sha:de94a25961f83d47537a1c68bdced7ffbe046367]{
 -- 判断が甘かった。^巨人の腕は傷付きさえしない。^この戦力差をどうする……？
-判断が甘かった。^巨人の腕は傷付きさえしない。^この戦力差をどうする……？
+// Closest context for this is probably 39979.
+// @flowchart_descr
+My predictions were overly optimistic.
+ I didn't so much as scratch her arm.
+ How the hell am I supposed to overcome this difference in strength?
 }
 [sha:a420c9a75785a9df0a2aeddcf4d1d034700cc187]{
 -- 光体には傷一つ付かなかったが、^今を逃せばチャンスはない。^果敢にも巨人に挑む。
@@ -7151,7 +7241,9 @@ And yet those feelings will never be conveyed.
 }
 [sha:7688259652dad5489cc424b5d0fb6114b7a90c4e]{
 -- 愚者の行いは^時に賢者すら堕落させる。^ましてや歓びを与えるなど。
-愚者の行いは^時に賢者すら堕落させる。^ましてや歓びを与えるなど。
+// @flowchart_descr
+Even the wise may be corrupted by the deeds of fools.
+ Especially when those deeds bring joy.
 }
 [sha:e17ff105e4617e0a2340f45644d3d6f4e16a9107]{
 -- 光体はやがて自壊する。^命を懸ける価値はあるか？^―――勿論。
@@ -7175,23 +7267,39 @@ I reconcile with the vampiress, and say my farewells.
 }
 [sha:10d6c3f49e50556e0524542a0731f28254403ca1]{
 -- 鈍器で殴られるような頭痛。^この部屋の外に未来はない。^この部屋にいれば命がない。
-鈍器で殴られるような頭痛。^この部屋の外に未来はない。^この部屋にいれば命がない。
+// First line in the text (37059) kinda split context with 37060.
+// Last line kinda like 37129.
+// @flowchart_descr
+My head is pounding.
+ There's no future for me outside this room.
+ If I stay in here, I'll die.
 }
 [sha:819b410c2eae5c24a8cd68f52a8c3809324d2887]{
 -- 現れる真祖の姫。^幾度めの逢瀬は^甘いものではなく。
-現れる真祖の姫。^幾度めの逢瀬は^甘いものではなく。
+// @flowchart_descr
+The princess of the True Ancestors appears.
+ Our umpteenth tryst is not so sweet.
 }
 [sha:18e2eb03c2b1b41c5929950f462ad5028f6cf8ac]{
 -- 爪とナイフがぶつかり合う。^吸血鬼と化した体は躍動する。^だが、この女の線は見えない――
-爪とナイフがぶつかり合う。^吸血鬼と化した体は躍動する。^だが、この女の線は見えない――
+// @flowchart_descr
+Knife clashes with claws.
+ My vampirized body moves like a charm.
+ But, I can't see her lines at all――
 }
 [sha:1f125b8729597c514c763e49ecbf7e92544bc9d8]{
 -- 喪ったとしても、^救えるものはあるはずだ。^人生は続く。
-Where there is loss, there must^also be salvation.^Life goes on.
+// @flowchart_descr
+Where there is loss, there must also be salvation.^
+Life goes on.
 }
 [sha:cd67381c5d3a067b5098323b6c81c4149eff24da]{
 -- 亡くした幼い時分の思い出。^積み上げた今までの思い出。^―――ふと、目が覚めた。
-亡くした幼い時分の思い出。^積み上げた今までの思い出。^―――ふと、目が覚めた。
+// Nice callback to the first line of the prologue prologue
+// @flowchart_descr
+Memories of a long-lost childhood.
+ Memories of all that has happened.^^
+Suddenly, I wake up.
 }
 [sha:a98b025f076db4ce516c5c1ab26ffa5530623b64]{
 -- ０．
