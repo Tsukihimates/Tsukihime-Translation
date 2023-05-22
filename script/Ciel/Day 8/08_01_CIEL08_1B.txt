@@ -93,7 +93,7 @@ Our matriarch is gawking at me, as though she's just witnessed something unbelie
 [sha:a23f425fdb5ff26dbd581bb268df761209a0db07]{
 -- Page 40, Offset 18363.
 -- 「な、なんだよ。携帯ぐらいはいいんだろ。いまだってニュースサイトをチェックしただけで」
-"W-What? I %{i}can%{/i} use my phone, right? All I was doing is checking the news."
+"Wh-What? I %{i}can%{/i} use my phone, right? All I was doing is checking the news."
 }
 [sha:1342631d2415d9600c22f27cc50647dcb86d7b10]{
 -- Page 41, Offset 18364.
@@ -227,6 +227,7 @@ It must be about time for Akiha to head to school,
 [sha:93779343902594080f603e71977269ecd4d50e5a]{
 -- Page 51, Offset 18386.
 -- 私は夕方まで帰れませんが、兄さんのご予定は？」
+// Referenced in flowchart
 I won't be back until this evening.
  Do you have any plans for the day?"
 }
