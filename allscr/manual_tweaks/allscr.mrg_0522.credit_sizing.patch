@@ -1,0 +1,64 @@
+diff --git a/allscr/retimed/allscr.mrg_0522.txt b/allscr/retimed/allscr.mrg_0522.txt
+Positioning for the credits at the end of this QA is a goddamn mystery
+Changing any of the numbers in the STCH appears to do literally nothing,
+with the fade-in and position being mostly (???) controlled by the STMA call.
+To make things fit, copy the STMA value of the leftmost credit image to the rest
+of them and scale them all down to 70%.
+--- allscr.mrg_0522.txt
++++ allscr.mrg_0522.txt
+@@ -2532,9 +2532,9 @@ _STCF(1,8);
+ _STCC(0);
+ _STCP(1,2);
+ _FADS(1,0,0);
+-_STCH(5,img2582,240,79,1000,0,5886,,CC,,,);
++_STCH(5,img2582,240,79,700,0,5886,,CC,,,);
+ _STZ4(5,850,850,850,850,0,0,0);
+-_STMA(5,24124);
++_STMA(5,24134);
+ _STCH(6,img2510,29,228,1000,255,3614,,CC,,,);
+ _STZ4(6,198,198,198,198,0,0,0);
+ _STCH(7,img2511,29,238,1000,101,3230,,CC,11,11,);
+@@ -2598,9 +2598,9 @@ _STCC(0);
+ _STCP(1,2);
+ _FADS(1,0,0);
+ _WTTM(650,1);
+-_STCH(15,img2583,343,70,1000,0,5886,,CC,,,);
++_STCH(15,img2583,343,70,700,0,5886,,CC,,,);
+ _STZ4(15,720,720,720,720,0,0,0);
+-_STMA(15,24129);
++_STMA(15,24134);
+ _STCH(16,img2341,382,18,1000,0,4014,,CC,2,2,);
+ _STEC(16,18);
+ _STZ4(16,-1000,1000,-1000,1000,0,0,0);
+@@ -2669,7 +2669,7 @@ _STCC(0);
+ _STCP(1,2);
+ _FADS(1,0,0);
+ _WTTM(650,1);
+-_STCH(25,img2584,142,66,1000,0,5886,,CC,,,);
++_STCH(25,img2584,142,66,700,0,5886,,CC,,,);
+ _STZ4(25,750,750,750,750,0,0,0);
+ _STMA(25,24134);
+ _STCH(26,img2510,317,144,1000,255,3614,,CC,,,);
+@@ -2728,9 +2728,9 @@ _STCC(0);
+ _STCP(1,2);
+ _FADS(1,0,0);
+ _WTTM(600,1);
+-_STCH(33,img2585,240,76,1000,0,5886,,CC,,,);
++_STCH(33,img2585,240,76,700,0,5886,,CC,,,);
+ _STZ4(33,900,900,900,900,0,0,0);
+-_STMA(33,24139);
++_STMA(33,24134);
+ _STCH(34,img2510,149,154,1000,255,3614,,CC,,,);
+ _STEC(34,64);
+ _STZ4(34,135,135,135,135,0,0,0);
+@@ -2802,8 +2802,8 @@ _STCC(0);
+ _STCP(1,2);
+ _FADS(1,0,0);
+ _WTTM(700,1);
+-_STCH(6,img2586,245,85,1000,0,5886,,CC,,,);
+-_STMA(6,24147);
++_STCH(6,img2586,245,85,700,0,5886,,CC,,,);
++_STMA(6,24134);
+ _STCH(7,img2341,382,18,1000,0,4014,,CC,2,2,);
+ _STEC(7,19);
+ _STZ4(7,-1000,1000,-1000,1000,0,0,0);

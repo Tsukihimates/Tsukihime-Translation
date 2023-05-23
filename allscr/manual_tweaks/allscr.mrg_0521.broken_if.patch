@@ -1,0 +1,16 @@
+diff --git a/allscr/retimed/allscr.mrg_0521.txt b/allscr/retimed/allscr.mrg_0521.txt
+--- allscr.mrg_0521.txt
++++ allscr.mrg_0521.txt
+@@ -633,12 +633,7 @@ _SHOK(11,0,100,6);
+ _WTTM(500,1);
+ _SQK2(36,0,0,0,0,0,0,0,0);
+ _WTTM(100,1);
+-_IFP4(,LV00400);
+ _SHK2(-1,30,0,70,900,0,1);
+-_ZYbbd00(LV00400);
+-_IFNX(,LV00500);
+-_SHK2(-1,42,0,70,900,0,1);
+-_ZYbbf00(LV00500);
+ _WTTM(50,1);
+ _MFAD(,,`001:4000,,`011:0);
+ _SEFD(15,,,`001:1500,,`068:1000);

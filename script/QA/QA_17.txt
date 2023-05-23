@@ -6,7 +6,7 @@
 [sha:4f1d66d11d73ab1d70a0d7cda2400d4faba526d4]{
 -- Page 99, Offset 43498.
 -- おっと、ヒロインとの殺し合いは初めてか？
-Whoa, is this the first time you've fought a heroine?
+Whoa there, is this your first time fighting a heroine?%{n}
 }
 [sha:6228e2c840abe55a0990403c215a2d5b31ceec06]{
 -- Page 99, Offset 43499.
@@ -16,7 +16,7 @@ Take a deep breath, boy.
 [sha:b1b4fe47d8f18ffc87308040e844210799704ce2]{
 -- Page 100, Offset 43500.
 -- 悲しいけどこれがシエルなンだ。
-As sad it may be, this is who Ciel is.
+It's sad, but this is who Ciel really is.%{n}
 }
 [sha:e1556286b8f04817e151bc65d5192442b4d1d01d]{
 -- Page 100, Offset 43501.
@@ -26,72 +26,79 @@ A merciless, spicy monster.
 [sha:31b7215b11b365c8551cc9de2af78eef9cf951d6]{
 -- Page 101, Offset 43502.
 -- 主人公におかれましては
-As for the protagonist,
+As for Mr. Protagonist, just give%{n}
 }
 [sha:41aa3449deab5f87c318b0a76fe108219adb55eb]{
 -- Page 101, Offset 43503.
 -- あと２、３回くらい、
-after 2 or 3 times,
+// Reads better?
+it another two or three tries.
 }
 [sha:c447cad0aea1cea913ebbd2f9b0ca3ad9a81a011]{
 -- Page 102, Offset 43504.
 -- ちょっとコンビニに行くくらいの気持ちで
-I hope you will face the dead end the same way
+You'll be able to walk off a dead end like%{n}
 }
 [sha:deada6a99989965f313e4d412b41560ddc596057]{
 -- Page 102, Offset 43505.
 -- デッドエンドを迎えていただければ。
-you do going to the convenience store.
+it's a trip to the convenience store in%{n}
+no time.
 }
 [sha:78e325398bebf9f376df1aea36b6017c543f0239]{
 -- Page 103, Offset 43506.
 -- そうですね。
-That's right.
+That's right.%{n}
 }
 [sha:f0aa6ae8c007737267b15b2b51d93b3ef8841d8d]{
 -- Page 103, Offset 43507.
 -- 軽々に敵に背中を見せてはいけません。
-You should never expose your back to the enemy.
+You should never turn your back on the enemy.
 }
 [sha:0ea13974db12902425f7c7c66ac473954fa35954]{
 -- Page 104, Offset 43508.
 -- 撤退するなら、せめて相手の体勢くらいは
-If you are going to retreat, at the very least
+If you're going to retreat,
 }
 [sha:c472d1fd8f164a0100cf345664b7a44d7cf13ee4]{
 -- Page 104, Offset 43509.
 -- 崩しておきましょう。
-try to break their stance.
+ you need to%{n}
+knock your opponent off-balance first.
 }
 [sha:96abd947a1aa6e5d7a3ded279ee0c67832d62d21]{
 -- Page 105, Offset 43510.
 -- ガラ空きの背中なんてただの的ですから。
-An empty back is just a simple target.
+// A bit loosey goosey but hey this is QA
+Leaving yourself wide open just paints a%{n}
+target on your back.
 }
 [sha:e86020b449333bcffc7fd639978349d47639fda1]{
 -- Page 105, Offset 43511.
 -- スピードで負けているなら尚更です。
-Especially when you're losing on speed.
+ Especially when you%{n}
+can't hope to compete on speed.
 }
 [sha:c1d75a78d4842a38b2e896a7fd4122858ea1f299]{
 -- Page 106, Offset 43512.
 -- 戦闘経験は相手の方が圧倒的に上なので、
-Your opponent has far more combat experience than you,
+Your opponent has far more combat experience%{n}than you.
 }
 [sha:ccab5b930e98baa02f1ca7e23950df7df8512d47]{
 -- Page 106, Offset 43513.
 -- ここは奇抜な発想―――
-so you have to think outside the box...
+ You need to either think outside%{n}
+the box―――
 }
 [sha:44791e53ac76c4576dcfd36fe5cf5b71ffdf8979]{
 -- Page 107, Offset 43514.
 -- あるいは決死の選択で立ち向かってください。
-or face her head-on with desperate determination.
+Or face her head-on and fight like your life depends on it.
 }
 [sha:2e062c0842d57e8a4f636a6167fbc8f00cc4c0d5]{
 -- Page 108, Offset 43515.
 -- 大丈夫。ここを切り抜ければ、
-It's okay. If you can get through this,
+It's okay. If you can get through this,%{n}
 }
 [sha:91878eaa86b19d584004cbc9efe9debdacf0ebb9]{
 -- Page 108, Offset 43516.
@@ -101,17 +108,19 @@ you'll definitely have a chance.
 [sha:f67487eb0888536accd5e6a3c0c89d0f281f0aa0]{
 -- Page 109, Offset 43517.
 -- この圧倒的戦力差ですげえ<夢希望|コト>
-Even with this overwhelming power gap,
+Yeesh, look at that power gap.
 }
 [sha:ae1c015ee72a9c35230cca6f0f14098d999fd687]{
 -- Page 109, Offset 43518.
 -- 言ってんなこのインド。
-this Indian is talking about hopes and dreams.
+ This Indian%{n}
+here is advocating for some real wishful%{n}
+thinking.
 }
 [sha:aa5a6d675d554292825029444dfcf89eba327a74]{
 -- Page 110, Offset 43519.
 -- 生きろ、メガネ……！
-Stay strong, Glasses...!
+Stay strong, four-eyes!
 }
 [sha:fe52b1a0ae748cbb9657c25fd41ebd6112fcad07]{
 -- Page 111, Offset 43520.

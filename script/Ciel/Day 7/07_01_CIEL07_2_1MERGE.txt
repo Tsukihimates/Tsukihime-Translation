@@ -292,7 +292,7 @@ Tohno-kun, do you honestly believe what that vampire said?"
 -- Page 212, Offset 15302.
 -- 「な、なに言うんですか先輩。先輩だって同じじゃないですか。吸血鬼をやっつける、教会のエク―――」
 // Annoyingly エク could be Executor or Exorcist, but probably former
-"W-What are you talking about, Senpai?
+"Wh-What are you talking about, Senpai?
  Aren't you basically the same as her?
  You also kill vampires as one of the Church's Exec―――"
 }
@@ -549,10 +549,10 @@ And besides, I'm a student at this school.
 -- まあ、卒業式がきちゃったらさすがに出て行かざるをえませんが」
  Well, once graduation rolls around I won't really have a choice though."
 }
-[sha:f8b2d368c3b6ba5bf7fb1a7e3cac010853198cd3]{
+[offset:15350]{
 -- Page 232, Offset 15350.
 -- 「…………！」
-"......!"
+"%{i}Phew%{/i}!"
 }
 [sha:7c591d3dc65ec3d62229de8e3efefc5548121f15]{
 -- Page 232, Offset 15351.
