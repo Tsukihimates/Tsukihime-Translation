@@ -75,6 +75,21 @@ class BNTXHeader:
             self.fileSize,
         )
 
+    def __repr__(self):
+        return (
+            f"Format: {self.format}\n"
+            f"Magic: {self.magic}\n"
+            f"Version: {self.version}\n"
+            f"Bom: {self.bom}\n"
+            f"Alignment Shift: {self.alignmentShift}\n"
+            f"TargetAddrSize: {self.fileNameAddr}\n"
+            f"FileNameAddr: {self.fileNameAddr}\n"
+            f"Flag: {self.flag}\n"
+            f"FirstBlkAddr: {self.firstBlkAddr}\n"
+            f"RelocAddr: {self.relocAddr}\n"
+            f"FileSize: {self.fileSize}\n"
+        )
+
 
 class TexContainer:
     def __init__(self, endianness):
@@ -337,6 +352,36 @@ class TextureInfo:
             self.mipOffsets.append(readInt64(data, self.ptrsAddr + 8 * i, self.format[:1]) - firstMipOffset)
 
         self.data = data[firstMipOffset:firstMipOffset + self.imageSize]
+
+    def __repr__(self):
+        return (
+            f"Flags: {self.flags}\n"
+            f"Dim: {self.dim}\n"
+            f"Tile Mode: {self.tileMode}\n"
+            f"Swizzle: {self.swizzle}\n"
+            f"Num mips: {self.numMips}\n"
+            f"Num samples: {self.numSamples}\n"
+            f"Format: {self.format_}\n"
+            f"AccessFlags: {self.accessFlags}\n"
+            f"Width: {self.width}\n"
+            f"Height: {self.height}\n"
+            f"Depth: {self.depth}\n"
+            f"Array Length: {self.arrayLength}\n"
+            f"Texture Layout: {self.textureLayout}\n"
+            f"Texture Layout2: {self.textureLayout2}\n"
+            f"Image Size: {self.imageSize}\n"
+            f"Alignment: {self.alignment}\n"
+            f"Comp Sel: {self._compSel}\n"
+            f"Img Dim: {self.imgDim}\n"
+            f"Name Adr: {self.nameAddr}\n"
+            f"Parent Adr: {self.parentAddr}\n"
+            f"Ptrs Adr: {self.ptrsAddr}\n"
+            f"User Data Addr: {self.userDataAddr}\n"
+            f"Tex Ptr: {self.texPtr}\n"
+            f"TexViewPtr: {self.texViewPtr}\n"
+            f"DescSlotDataAddr: {self.descSlotDataAddr}\n"
+            f"UsrDictAddr: {self.userDictAddr}\n"
+        )
 
     def setNameIndex(self, strTbl):
         self.nameIdx = strTbl.index(self.nameAddr)
