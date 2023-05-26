@@ -33,12 +33,12 @@ I don't usually judge a dish at first glance, but I didn't have the guts to eat 
 [sha:6cff29e61df76d0441f0d33d743f6e1cdb7ccb5c]{
 -- Page 248, Offset 9207.
 -- コンディションが万全ならあるいは……と一瞬だけ考えたが、やっぱりない。
-For a moment, I thought I could do it if I was in perfect condition, but... no, even then, it'd still be impossible.
+There was a moment where I thought I might be up to it on a good day, but... no, even then, it'd still be impossible.
 }
 [sha:c9ed317011d4ad459ca5600792a19dc0be351b91]{
 -- Page 248, Offset 9208.
 -- ヴローヴという危険は回避できないが、こちらの危険は回避しておこう。
-I might not be able to avoid dealing with Vlov,
+I may not be able to avoid dealing with Vlov,
  but I can at least avoid %{i}this%{/i} hazard.
 }
 [sha:611d07ed84c9398769e7185499d8297340f39a29]{
@@ -90,33 +90,36 @@ It doesn't solve the problem of getting close to him with all those flames in th
 [sha:991050a2400297bb1ee0f2b6f858a8b85f4dd605]{
 -- Page 252, Offset 9218.
 -- 「うん。基本はその流れでいいと思う。
-"Yeah. I think a plan like that should work.
+"Yeah, I think something along those lines should work.
 }
 [sha:24128b8898d7512078d5d31ac357a24a8e20ba6a]{
 -- Page 252, Offset 9219.
 -- わたしがオトリ、志貴がトドメ。志貴ならヴローヴがどれだけ命のリザーブを持っていても関係ないしね」
-I'll be the decoy, and you'll be the one to take him out. It doesn't matter how much energy he has in reserve if you're the one who lands the finishing blow."
+I'll be the decoy, and you'll be the one to take him out.
+ It doesn't matter how much energy he has in reserve if you're the one who lands the finishing blow."
 }
 [sha:0c7e28b442d3b5b610b2453b037fb1321f8f7a12]{
 -- Page 253, Offset 9220.
 -- 「……他にも問題はあるぞ。
-"There are still other problems though.
+// Assuming 他 to 命のリザーブ
+"That's not the only thing we have to worry about though.
 }
 [sha:a86a65f343beac3a25f342fc998a50e48ca5e538]{
 -- Page 253, Offset 9221.
 -- 俺はともかく、おまえはアイツと正面から向き合うんだ。あの手みたいな炎はどうするんだ」
-Leaving me aside, you're the one that's going to fight him head-on. What are you going to do about those hand-like flames?"
+Ignoring me for a second, you're the one who's going to have to face him head-on.
+ What are you going to do about those hand-shaped flames?"
 }
 [sha:195c726f6cab4eb67a672e9242f5099dbc5da0ca]{
 -- Page 254, Offset 9222.
 -- 「？　それは問題じゃないよ？
-"Hm? That shouldn't be a problem.
+"Hmm? What are you worried about those for?
 }
 [sha:eacf8b4fa2900a46c2cf1d6f777758c264bb0460]{
 -- Page 254, Offset 9223.
 -- 一度受けてみてヴローヴの炎は3000℃程度って判ったし。今から体を耐熱仕様に作り直しておけば耐えられるわ」
 As soon as I got hit by them, I could tell that Vlov's flames are only around 3000℃ or so.
- If I rebuild my body to be more heat-resistant now, I should be able to withstand them no problem."
+ If I rebuild my body to be more heat-resistant in future, I should be able to withstand them no problem."
 }
 [sha:c55b82f406a46e151e1d07a56e70f51bb9868551]{
 -- Page 255, Offset 9224.
@@ -131,12 +134,12 @@ Back up, what does she mean 'only' 3000℃?
 [sha:bb54d42ec501d1e20e6508db8bbb97ea0737d050]{
 -- Page 255, Offset 9226.
 -- 岩でも熔ける温度だよな、それ？
-Isn't that hot enough to melt rocks?
+Isn't that, like, hot enough to melt rocks?
 }
 [sha:843d745b83600cf6e6226dd9fcd9d42ef1005588]{
 -- Page 256, Offset 9227.
 -- 「周囲の炎はもっと簡単。
-"The surrounding flames are much easier to handle.
+"The surrounding flames are even easier to handle.
 }
 [sha:d11227d46b8879b3c5bc5800a20826f59174f6ce]{
 -- Page 256, Offset 9228.
@@ -161,7 +164,7 @@ It feels a bit too easy, but the fact is that she's already saved my life once.
 [sha:d2d0ad64e3f9cce5165a5af3bddaad8f05eac8c0]{
 -- Page 258, Offset 9232.
 -- 「うん、だいたい決まりね。
-"Yup, that pretty much settles it.
+"Alright, sounds like we have a plan.
 }
 [sha:4bef1ac37be513500731ad6364ff455a5db6b4e5]{
 -- Page 258, Offset 9233.
@@ -191,7 +194,8 @@ I'm not strong enough to defeat him as of tonight, but I can at least put out th
 [sha:848e9ebf26d618c10c4d76c015464b74b56f58ec]{
 -- Page 260, Offset 9238.
 -- 直接組み伏せるとか無駄すぎるし。今まで一度もしたコトないし。する必要性が感じられないし」
-It would be futile to hold him down directly. Besides, I've never done it before, nor do I feel the need to."
+It would be futile to hold him down directly.
+ I've never done anything like that before, and I feel no need to start now."
 }
 [sha:7171d0e7a7a6611741a9c8c8b3bf3a2e265c98f0]{
 -- Page 261, Offset 9239.
@@ -214,16 +218,17 @@ It would be futile to hold him down directly. Besides, I've never done it before
 -- 「ええ。ほら、こんな風に」
 "Yeah. You know, something like this."
 }
-[sha:70a544ce909034266812004d9aca986952265be1]{
+[offset:9243]{
 -- Page 262, Offset 9243. Mods: @n.
 -- 「!?」
-"?!"
+"%{i}Uoh%{/i}?!"
 }
 [sha:86e7383b68fda74005074d302ee8e67e458d3090]{
 -- Page 262, Offset 9244.
 -- な、なんだこれ、いきなり両手が鎖で縛られてる……!?
 // Glue forces linebreak
-Wh-What the, my hands are bound by chains all of a sudden?!
+// 両手 kinda generalized since I think he is actually full-body-lockup mode
+Wh-What the hell?! I'm suddenly all chained up!
 }
 [sha:aad3c2ed6861c4ce5aee9a094a6d71170218bab6]{
 -- Page 262, Offset 9245.
@@ -253,7 +258,7 @@ Wait, where did these chains even come from?!
 [sha:b1edc762ff08aae5cdf20a164c1575d11dd452e5]{
 -- Page 266, Offset 9250.
 -- 突如現れた鎖は空気に溶けるように薄くなり、消えていった。
-The chains that had suddenly appeared begin to fade away, disappearing as if vanishing into thin air.
+The chains that had sprung out of nowhere melt away, vanishing into thin air.
 }
 [sha:a5c7ffed297f3846e81c11b99715030a1a3f75fe]{
 -- Page 266, Offset 9251.
@@ -278,7 +283,10 @@ If I see an opening while we're fighting, I'll bind Vlov's limbs with my chains.
 [sha:105591bd7663050dacbfc1b5cf6f1522bfe3cece]{
 -- Page 268, Offset 9255.
 -- 完全に動きを封じられるのは10秒ぐらいだから、そうしたら志貴は物陰から飛び出して、正面からまっすぐ、最短でヴローヴの線を断てばいい。
-I'll only be able to restrain him for around ten seconds, so when I do, you'll have to burst out, take the shortest possible route, and launch a head-on attack on his lines.
+I'll only be able to restrain him for around ten seconds,
+ so when I do, you'll have to jump out,
+ charge straight at him,
+ and aim right for his lines.
 }
 [sha:f702081e0ce7ce1b904e775ea50bbafa1246f237]{
 -- Page 268, Offset 9256.
@@ -288,7 +296,7 @@ Don't worry. With skills like yours, he'll be dead in no time."
 [sha:8622c0343208b390be509143b56e5a8c538e2bb4]{
 -- Page 269, Offset 9257.
 -- 「………正面からって、おまえ………」
-"What do you mean 'head-on'..."
+"What do you mean 'charge straight at him'..."
 }
 [sha:fc9069d08ebd6d5405d2109b39691e41faee6621]{
 -- Page 269, Offset 9258.
@@ -298,33 +306,33 @@ Arcueid said it casually, but I'm pretty uneasy about all this.
 [sha:79782b9459a33603a9451373a37802a4c09839d3]{
 -- Page 270, Offset 9259.
 -- 「いや、経験していない事を目算に入れるのはやめよう。
-"No, we shouldn't base our plans on something we've never tried before.
+"On second thought, we shouldn't base our plan on something we've never tried.
 }
 [sha:8ae233b6468a00ea33c86081294b7cd995649dd9]{
 -- Page 270, Offset 9260.
 -- やっぱりさ、俺がなんとか背後から近づいて、アイツの手足の『線』を切るよ。そうすれば、とりあえず自由を奪う事になるんだから―――」
-On second thought, I'll find some way to approach him from behind and cut the 'lines' on his limbs.
- If I do that, he won't be able to move around anymore―――"
+How about this instead――I'll find some way to approach him from behind and cut the 'lines' on his limbs.
+ If I do that, he won't be able to move around anymore."
 }
 [sha:9baa23e596e9826faad6da08b09f16206285031c]{
 -- Page 271, Offset 9261.
 -- アルクェイドがアイツと『戦う』必要はなくなる。
-That way there'll be no need for Arcueid to 'fight' him.
+That way, Arcueid doesn't necessarily have to fight him.
 }
 [sha:2a991f2016959d3d1812745d650cb3ee7b666295]{
 -- Page 271, Offset 9262.
 -- まず戦う、という選択は、俺の奇襲が失敗してから選べばいい。
-The choice to fight should only be made if my surprise attack fails.
+Instead we can make that call if the surprise attack fails somehow.
 }
 [sha:311c0c61c48c5539b87ebd0e8968f6c794fe1c66]{
 -- Page 271, Offset 9263.
 -- そう思ってアルクェイドの顔をうかが―――……
-With that in mind, I look at her face―――
+With this plan in mind, I turn to look at Arcueid.
 }
 [sha:cd0225ddeb6d41e71f88325020e9401ba4825879]{
 -- Page 272, Offset 9264.
 -- 「―――志貴。それじゃ、あなたは死ぬわ」
-"―――Shiki. If you do that, you will die."
+"Shiki. If you do that, you will die."
 }
 [sha:bb93983ad220f0df3ac713777f64c684c1ad7151]{
 -- Page 272, Offset 9265.
@@ -334,17 +342,17 @@ With that in mind, I look at her face―――
 [sha:7715d6250094e23f1e53d040286aa000ca4050d8]{
 -- Page 273, Offset 9266.
 -- 「これはどう行動すれば安全なのか、の話じゃない。
-"This is not a matter of how to do things safely.
+"Our goal here isn't to work out how to do this safely.
 }
 [sha:eebb59ac5359d0d53ba38f36cd1ebecb97190339]{
 -- Page 273, Offset 9267.
 -- どうすれば死なないのかじゃなくて、どうやって殺すかの話でしょう」
-We're not talking about how to avoid death, we're talking about how to kill."
+We're not talking about how to %{i}avoid%{/i} death――we're talking about how to kill."
 }
 [sha:bd546e0ee6cdd4ef53df24292632ba52173233ad]{
 -- Page 274, Offset 9268.
 -- 「それは―――そうだけど」
-"Well that's――true, I guess."
+"That's... true, but..."
 }
 [sha:85ec5798a507b739b423e7c3ce4eb756ea76900b]{
 -- Page 274, Offset 9269.
@@ -354,12 +362,15 @@ We're not talking about how to avoid death, we're talking about how to kill."
 [sha:97016278733ee23e4f70a86732ecf1f939fa7eb6]{
 -- Page 274, Offset 9270.
 -- なら、今夜だけでも人間の道徳観念は捨てて。そんな荷物を持っていると、いざという時に体が重くなるだけだから」
-That's why you must throw away your sense of morality, even if it's just for tonight. Carrying around that burden will only weigh you down when the time comes."
+That's why you have to throw away your sense of morality, even if just for tonight.
+ Carrying around that burden will only weigh you down when the time comes."
 }
 [sha:1f8b46e54a608f0476a60bb1e90578c8e607bf8e]{
 -- Page 275, Offset 9271.
 -- 「……それぐらい分かってる。相手が化け物だから、俺だって手伝う気になったんだ」
-"That much I can understand... Our opponent is a monster after all, which is why I'm willing to lend a hand."
+"That much I understand.
+ I mean, our opponent's a monster.
+ That's why I'm helping you out in the first place."
 }
 [sha:a1b591ba4e6f631b031efc71915e0c2abc19afd0]{
 -- Page 276, Offset 9272.
@@ -369,7 +380,10 @@ That's why you must throw away your sense of morality, even if it's just for ton
 [sha:cb5a5d24874ba9b2383989c6d085c29baafa1331]{
 -- Page 276, Offset 9273.
 -- 手足を切る？　やめてよ、そんな自殺行為。手足を切る暇があるのなら、まず命を切りなさい。他の生き物ならともかく、あなたにだけはそれが出来るんだから。
-Cutting off a limb? You should give up on such a suicidal act. If you have the time to cut off a limb, you should use that time to sever his life instead. It would be different if he were any other creature, but this is something only you can do.
+You want to cut off his limbs?
+ That's like asking to get killed.
+ If you have the time to be doing that, you should be using it to kill him instead.
+ If you were anyone else it might make sense, but you've got something only you can do.
 }
 [sha:08f8b1310fd9c54a0778ebddaf3deae01ca5463d]{
 -- Page 276, Offset 9274.
@@ -379,12 +393,13 @@ Do you get it? Don't give Vlov a chance to fight back. The only advantage you ha
 [sha:f9fc0854a1a328f7f4565ff36b6264d23af4d4b2]{
 -- Page 277, Offset 9275.
 -- アルクェイドの目が、俺に否定を許さない。
-The look in Arcueid's eyes leaves no room for argument.
+// Tweaked just to avoid repetition of eyes below.
+The look on Arcueid's face leaves no room for argument.
 }
 [sha:2cc8e336d41e2626654ffb9085ceefe71691881c]{
 -- Page 277, Offset 9276.
 -- ……赤い瞳はこう断言している。
-Her red eyes assert that fact:
+Her red eyes are telling me one thing:
 }
 [sha:833ce331c7248c789a0e4f7498d1b24529462e92]{
 -- Page 277, Offset 9277.
@@ -399,7 +414,8 @@ She's right...
 [sha:14c580e0cc82a35d74c4906542da09731eb063de]{
 -- Page 278, Offset 9279.
 -- 彼女の言う通り、まず手足を切る、なんて悠長な真似をしている間に、俺の体は燃え尽きている―――
-It's just like she said. While I leisurely waste my time cutting off his limbs, my body will be completely reduced to ashes―――
+It's just as she says.
+ If I go in there and waste time cutting off his limbs, I'll end up completely reduced to ashes.
 }
 [sha:a911b46b3159624921e9c09f95b2a20a5b5ade7d]{
 -- Page 279, Offset 9280.
@@ -429,7 +445,7 @@ Arcueid gazes straight at me with her deadly eyes.
 [sha:79e97f1d794d3b7ec2daabc55b2db7a0bcb65f16]{
 -- Page 280, Offset 9285.
 -- ……彼女は本当に怒っている。
-She's really angry...
+She's seriously angry...
 }
 [sha:4d555eacf04312d36e67b93315a862d2ace7c119]{
 -- Page 280, Offset 9286.
@@ -439,7 +455,7 @@ She's angry at the fact that I still harbor such naïve thoughts.
 [sha:437c14dbbefc17848ebb5da70e5890cfe852c240]{
 -- Page 281, Offset 9287.
 -- 「―――わかった。俺はためらわない。
-"―――Fine. I won't hesitate.
+"Got it. I won't hesitate.
 }
 [sha:2d2d24d2e51119cda433d1609af52794d6bf7cba]{
 -- Page 281, Offset 9288.
@@ -469,18 +485,19 @@ She isn't replying... Which probably means she's at least satisfied with my answ
 [sha:23f2fb9906e384cc2ab48b17f90a66d78caf0127]{
 -- Page 283, Offset 9293.
 -- 「でも、どこで待ち受けようか。
-"But where should I wait for him?
+"But where should we wait for him?
 }
 [sha:c527164e2789aca857192091b905fb9781a2f706]{
 -- Page 283, Offset 9294.
 -- このマンションじゃホテルの時と変わらない。<人気|ひとけ>が無くて、俺が隠れられるようなところは……」
 If we stay in this apartment, it'll just be a repeat of what happened at the hotel.
- If there's some unpopulated place where I could hide..."
+ We need somewhere that's relatively deserted, and has places I could hide..."
 }
 [sha:b696745c4ed5b7b068215c42a429f131d9cbfad9]{
 -- Page 284, Offset 9295. Mods: @k, @e.
 -- 「この街の中央公園が最適よ。深夜になれば人通りはないんだし。
-"The park at the center of the city is our best bet. It's deserted at night after all.
+"The park at the center of the city is our best bet.
+ It's totally empty at night.
 }
 [sha:25f8c9d9732809f3375b6fcc1fbbe0de9a0a01e9]{
 -- Page 284, Offset 9296. Glued. Mods: @x.
@@ -497,7 +514,7 @@ Arcueid turns her back and averts her gaze.
 [sha:035d13ae14aecba36675a1d458e9169837e9b5d1]{
 -- Page 285, Offset 9298.
 -- 「……なんだよ。言いたい事があるなら言えよ」
-"What...? If you've got something to say, then say it."
+"What? If you've got something to say, then say it."
 }
 [sha:0d7f12aa531d84c21e3febe183e4dabc9ac9c3c3]{
 -- Page 286, Offset 9299.
@@ -507,7 +524,7 @@ Arcueid turns her back and averts her gaze.
 [sha:82121c2f6db26c5ac35bd99022993e4c505b82dd]{
 -- Page 286, Offset 9300.
 -- このままだと最後の瞬間で、あなたはきっとためらう。それで、あっけなく殺される」
-At this rate, you will hesitate at the very last moment. And then you'll be killed before you even know it."
+At this rate, you'll hesitate at the very last moment. And then you'll be killed before you even know it."
 }
 [sha:c58c10e26c60e5543853d58f6ad0a5cad234b692]{
 -- Page 287, Offset 9301.
