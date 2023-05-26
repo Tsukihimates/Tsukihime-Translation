@@ -75,6 +75,21 @@ class BNTXHeader:
             self.fileSize,
         )
 
+    def __repr__(self):
+        return (
+            f"Format: {self.format}\n"
+            f"Magic: {self.magic}\n"
+            f"Version: {self.version}\n"
+            f"Bom: {self.bom}\n"
+            f"Alignment Shift: {self.alignmentShift}\n"
+            f"TargetAddrSize: {self.fileNameAddr}\n"
+            f"FileNameAddr: {self.fileNameAddr}\n"
+            f"Flag: {self.flag}\n"
+            f"FirstBlkAddr: {self.firstBlkAddr}\n"
+            f"RelocAddr: {self.relocAddr}\n"
+            f"FileSize: {self.fileSize}\n"
+        )
+
 
 class TexContainer:
     def __init__(self, endianness):
@@ -197,17 +212,17 @@ class StringTable:
         def load(self, data, pos):
             self.pos = pos
             self.size_ = struct.unpack_from(self.format, data, pos)[0]
-            try:        
+            try:
                 self.string = data[pos + 2:pos + 2 + self.size_].decode('utf-8')
+                self.string_encoding = 'utf-8'
             except UnicodeDecodeError:
                 self.string = data[pos + 2:pos + 2 + self.size_].decode('shift-jis')
-                    
-            
+                self.string_encoding = 'shift-jis'
 
         def save(self):
             return b''.join([
                 struct.pack(self.format, self.size_),
-                self.string.encode('utf-8'), b'\0',
+                self.string.encode(self.string_encoding), b'\0',
             ])
 
     def __init__(self, endianness):
@@ -338,19 +353,48 @@ class TextureInfo:
 
         self.data = data[firstMipOffset:firstMipOffset + self.imageSize]
 
+    def __repr__(self):
+        return (
+            f"Flags: {self.flags}\n"
+            f"Dim: {self.dim}\n"
+            f"Tile Mode: {self.tileMode}\n"
+            f"Swizzle: {self.swizzle}\n"
+            f"Num mips: {self.numMips}\n"
+            f"Num samples: {self.numSamples}\n"
+            f"Format: {self.format_}\n"
+            f"AccessFlags: {self.accessFlags}\n"
+            f"Width: {self.width}\n"
+            f"Height: {self.height}\n"
+            f"Depth: {self.depth}\n"
+            f"Array Length: {self.arrayLength}\n"
+            f"Texture Layout: {self.textureLayout}\n"
+            f"Texture Layout2: {self.textureLayout2}\n"
+            f"Image Size: {self.imageSize}\n"
+            f"Alignment: {self.alignment}\n"
+            f"Comp Sel: {self._compSel}\n"
+            f"Img Dim: {self.imgDim}\n"
+            f"Name Adr: {self.nameAddr}\n"
+            f"Parent Adr: {self.parentAddr}\n"
+            f"Ptrs Adr: {self.ptrsAddr}\n"
+            f"User Data Addr: {self.userDataAddr}\n"
+            f"Tex Ptr: {self.texPtr}\n"
+            f"TexViewPtr: {self.texViewPtr}\n"
+            f"DescSlotDataAddr: {self.descSlotDataAddr}\n"
+            f"UsrDictAddr: {self.userDictAddr}\n"
+        )
+
     def setNameIndex(self, strTbl):
         self.nameIdx = strTbl.index(self.nameAddr)
 
     def save(self):
         self._compSel = self.compSel[3] << 24 | self.compSel[2] << 16 | self.compSel[1] << 8 | self.compSel[0]
 
-        if not self.readTexLayout:
-            textureLayout = 0
+        # if not self.readTexLayout:
+        #     textureLayout = 0
+        # else:
+        #     textureLayout = self.sparseResidency << 5 | self.sparseBinding << 4 | self.blockHeightLog2
 
-        else:
-            textureLayout = self.sparseResidency << 5 | self.sparseBinding << 4 | self.blockHeightLog2
-
-        self.textureLayout = textureLayout
+        # self.textureLayout = textureLayout
         self.flags = self.sparseResidency << 2 | self.sparseBinding << 1 | self.readTexLayout
 
         return struct.pack(
