@@ -389,13 +389,12 @@ class TextureInfo:
     def save(self):
         self._compSel = self.compSel[3] << 24 | self.compSel[2] << 16 | self.compSel[1] << 8 | self.compSel[0]
 
-        if not self.readTexLayout:
-            textureLayout = 0
+        # if not self.readTexLayout:
+        #     textureLayout = 0
+        # else:
+        #     textureLayout = self.sparseResidency << 5 | self.sparseBinding << 4 | self.blockHeightLog2
 
-        else:
-            textureLayout = self.sparseResidency << 5 | self.sparseBinding << 4 | self.blockHeightLog2
-
-        self.textureLayout = textureLayout
+        # self.textureLayout = textureLayout
         self.flags = self.sparseResidency << 2 | self.sparseBinding << 1 | self.readTexLayout
 
         return struct.pack(
