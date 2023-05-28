@@ -348,9 +348,9 @@ class TextureInfo:
          self.userDictAddr) = struct.unpack_from(self.format, data, pos)
 
         self.compSel = [(self._compSel >> (8 * i)) & 0xff for i in range(4)]
-        self.readTexLayout = self.flags & 1
-        self.sparseBinding = self.flags >> 1
-        self.sparseResidency = self.flags >> 2
+        self.readTexLayout = self.flags & (1 << 0)
+        self.sparseBinding = self.flags & (1 << 1)
+        self.sparseResidency = self.flags & (1 << 2)
         self.blockHeightLog2 = self.textureLayout & 7
 
         firstMipOffset = readInt64(data, self.ptrsAddr, self.format[:1])
