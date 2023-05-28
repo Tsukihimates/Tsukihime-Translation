@@ -145,6 +145,14 @@ class BlockHeader:
             self.blockSize,
         )
 
+    def __repr__(self):
+        return (
+            f"Format: {self.format}\n"
+            f"Magic: {self.magic}\n"
+            f"Next block addr: {self.nextBlkAddr}\n"
+            f"Block size: {self.blockSize}\n"
+        )
+
 
 class StringTable:
     class TexNameDict:
@@ -340,9 +348,9 @@ class TextureInfo:
          self.userDictAddr) = struct.unpack_from(self.format, data, pos)
 
         self.compSel = [(self._compSel >> (8 * i)) & 0xff for i in range(4)]
-        self.readTexLayout = self.flags & 1
-        self.sparseBinding = self.flags >> 1
-        self.sparseResidency = self.flags >> 2
+        self.readTexLayout = self.flags & (1 << 0)
+        self.sparseBinding = self.flags & (1 << 1)
+        self.sparseResidency = self.flags & (1 << 2)
         self.blockHeightLog2 = self.textureLayout & 7
 
         firstMipOffset = readInt64(data, self.ptrsAddr, self.format[:1])
@@ -374,6 +382,7 @@ class TextureInfo:
             f"Comp Sel: {self._compSel}\n"
             f"Img Dim: {self.imgDim}\n"
             f"Name Adr: {self.nameAddr}\n"
+            f"Name: {self.name}\n"
             f"Parent Adr: {self.parentAddr}\n"
             f"Ptrs Adr: {self.ptrsAddr}\n"
             f"User Data Addr: {self.userDataAddr}\n"
@@ -389,12 +398,12 @@ class TextureInfo:
     def save(self):
         self._compSel = self.compSel[3] << 24 | self.compSel[2] << 16 | self.compSel[1] << 8 | self.compSel[0]
 
-        # if not self.readTexLayout:
-        #     textureLayout = 0
-        # else:
-        #     textureLayout = self.sparseResidency << 5 | self.sparseBinding << 4 | self.blockHeightLog2
+        if not self.readTexLayout:
+            textureLayout = 0
+        else:
+            textureLayout = self.sparseResidency << 5 | self.sparseBinding << 4 | self.blockHeightLog2
 
-        # self.textureLayout = textureLayout
+        self.textureLayout = textureLayout
         self.flags = self.sparseResidency << 2 | self.sparseBinding << 1 | self.readTexLayout
 
         return struct.pack(
