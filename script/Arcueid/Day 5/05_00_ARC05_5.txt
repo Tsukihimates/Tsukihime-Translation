@@ -376,17 +376,17 @@ The officers raise their pistols and fire in unison.
 [sha:8f6e61e7d31177390e9cdac4c40b64fb375e23da]{
 -- Page 400, Offset 9635.
 -- 「―――な―――」
-"―――Wha―――"
+"Wha―――"
 }
 [sha:b2e0bbb2bbbff3b8219417947d286c828a48ad33]{
 -- Page 400, Offset 9636.
 -- だがヤツは微動だにしない。
-However, he doesn't even flinch.
+But the man doesn't even flinch.
 }
 [sha:618804708ab01d0be5b8f6599b6f86eaaf7b337a]{
 -- Page 400, Offset 9637.
 -- 警官たちの事なんて、きっと気がついてもいない。
-He likely doesn't even notice their presence.
+He probably doesn't even notice they're there.
 }
 [sha:2c888c3d3ef73f5de9711d173bdb69a1fb089f3d]{
 -- Page 400, Offset 9638.
@@ -401,7 +401,9 @@ Burning Corpses.
 [sha:49552011a7a7fee0a804d4fa9452cab5e3a9ef1e]{
 -- Page 401, Offset 9640.
 -- おそらく、つい数分前まで生きていた人々。今は動く死体になったモノたち。
-They were probably living, breathing humans until just a few minutes ago. But now, they've become moving corpses.
+// Assuming this is _not_ lore term? Annoyingly duplicitous with above if also corpse
+They were probably living, breathing humans until just a few minutes ago.
+ Now, they're nothing more than reanimated cadavers.
 }
 [sha:019662e004a5e4a7fe8391f91d4af4d878e46858]{
 -- Page 401, Offset 9641.
@@ -416,7 +418,7 @@ The corpses move toward the firing officers―――
 [sha:408a111d68b6acb21d76fcc28178dab5184d940d]{
 -- Page 402, Offset 9643.
 -- 「―――なんだ、アレ―――」
-"What the hell... is this..."
+"What... the hell..."
 }
 [sha:23f2929522125eba1cb649b83e48d1e2bb03b21e]{
 -- Page 402, Offset 9644.
@@ -432,7 +434,7 @@ I didn't even have the chance to look away.
 [sha:dc0a324b69975276d02aaee94bc8a002d49f5eb5]{
 -- Page 402, Offset 9646.
 -- 街を走っていた時にあった焦燥感も使命感も漂白された。
-The sense of duty and urgency I had while running toward the city have been wiped clean.
+The sense of duty and urgency I felt while running toward the city has been swept away.
 }
 [sha:a8916a34c887366775e44a90817694bd62c205b3]{
 -- Page 402, Offset 9647.
@@ -462,7 +464,8 @@ And %{i}that%{/i} is the enemy we must now defeat―――
 [sha:c714bf3a2eac5a74111d8df2a4066aaff198f187]{
 -- Page 404, Offset 9652.
 -- ここまで見境なしならそろそろやって来る筈だけど……やっぱりこの国には赴任していない……？
-If they were really that intent on hunting vampires, then they should already be here... Looks like no one's been assigned to this country after all.
+They should've been here by now considering how indiscriminate he's being.
+ Looks like no one's been assigned to this country after all.
 }
 [sha:86e0c4c106da595e1060d1cbaff83e8acc81758e]{
 -- Page 404, Offset 9653.
@@ -498,12 +501,15 @@ As you can see, this is Vlov's true nature. He's some crazed mass murderer that'
 [sha:99593921c007048260dd51715d63a5a400662537]{
 -- Page 407, Offset 9659.
 -- ヴローヴの存在規模からいってこの街は燃え尽きるだろうけど、その後ならわたしひとりでも倒せるわ。
-Given Vlov's Lifescale, this city will probably burn to the ground before he gets weak enough for me to be able to take him down alone.
+Although, given his Lifescale,
+ this city will probably have already been burned to the ground by the time I'm able to take him down alone.
 }
 [sha:69a0ca260350c09dcfb5583df055b5b96aa1cadf]{
 -- Page 407, Offset 9660.
 -- 楽をして傍観をする？　それとも―――」
-Do you want to watch idly from the sidelines? Or―――"
+// The trailing それとも――― kinda sucks as just 'or' here, so building in some more structure
+Will you stand back and watch from the sidelines?
+ Or will you do something else?"
 }
 [sha:8db78a8a5aa2092d23861dad9982013b7afcd885]{
 -- Page 408, Offset 9661.
@@ -528,7 +534,8 @@ And so, with all the determination I can muster, I glare at her, my body shudder
 [sha:8811325fc176c02195fda31f0221a6d39edcaa49]{
 -- Page 409, Offset 9665.
 -- これを見ても気が変わらないなんて、あなたもヴローヴのことは言えないかも。
-To think that you'd still be willing to fight even after seeing all that. You're one to talk. You're just as much of a monster as Vlov.
+To think that you'd still be willing to fight even after seeing all that.
+ You're just as much of a monster as Vlov.
 }
 [sha:87c560fb602e3383702a16ca93d7a45e777a1c48]{
 -- Page 409, Offset 9666.
@@ -538,27 +545,31 @@ But what should we do?
 [sha:24ecb1490fdaafb68862b5b172004917ba091f2f]{
 -- Page 409, Offset 9667.
 -- わたしはこのまま始めても構わないけど」
-I don't mind starting with things the way they are, but..."
+// Man this whole exchange is just not great.
+// Doesn't help that it feels like kinda a leap in JP too?
+I'm fine with this place as the battlefield if you are, but..."
 }
 [sha:603d4a033c9d5878adcb22e5b89fc9a503070d5c]{
 -- Page 410, Offset 9668.
 -- このまま始める……？
-Starting with things the way they are...?
+With this place as the battlefield...?
 }
 [sha:c18f3d54b8b6d030a3f73f1ad2a1ed0cb2623316]{
 -- Page 410, Offset 9669.
 -- 戦う場所を移す……いや、場所を変えられるって事か!?
-Is she saying she can move the battlefield... no, that she can %{i}transform%{/i} it?!
+Is she saying she can relocate――
+that she can %{i}transform%{/i} the battlefield somehow?!
 }
 [sha:cb096ebc8909ec6cef8c53ce9296744b83cf31eb]{
 -- Page 411, Offset 9670.
 -- 「なんとかできるのか、あの状況!?」
-"You mean to say you can do something about this situation?!"
+"You mean you can do something about this?!"
 }
 [sha:3ae059238b9ecf0b9b9bf11739a6732cda030669]{
 -- Page 411, Offset 9671.
 -- 「うまくいけば。わたしも<人目|ひとめ>につくのは避けたいし」
-"Yes, if all goes well. I don't want to attract any attention either."
+"Yes, if all goes well.
+ I don't exactly want to draw any attention to myself either."
 }
 [sha:7583e194a9eb795a0fdbeebb09007ea397b3df7e]{
 -- Page 411, Offset 9672.
@@ -573,12 +584,12 @@ Is she saying she can move the battlefield... no, that she can %{i}transform%{/i
 [sha:75939a8a48cf89f7000fc60af9b92286885b0f6b]{
 -- Page 412, Offset 9674.
 -- あの下、なんか空洞みたいだし」
-There seems to be some kind of hollow space underneath."
+It seems there's some kind of hollow space beneath them."
 }
 [sha:3355ebfa484aff5d37af29972b6e49d6adf24d37]{
 -- Page 413, Offset 9675.
 -- ……待て。下？　落とすってなんだ？
-Wait... She's going to drop them... underground?
+Wait... Underground? What does she mean 'drop'?
 }
 [sha:2bdebbd068190c5d319fe7e62b78c3ec2921dad2]{
 -- Page 413, Offset 9676.
@@ -593,7 +604,8 @@ Right now, we need to get them off the streets as fast as possible!
 [sha:d00ef653361fbaa4fc51bb4677160f21c1a7f4ea]{
 -- Page 414, Offset 9678.
 -- 「でも約束は忘れないで。ちゃんと後からついてきてね」
-"But don't forget our promise. Make sure you follow after me."
+"But don't forget our promise, okay?
+ You'd better catch up to me after."
 }
 [sha:5fac67d5bc7737ead3d8abc353f14f7b24f6df25]{
 -- Page 415, Offset 9679.
@@ -613,7 +625,7 @@ Leaving me behind, Arcueid leaps off from the rooftop and into the void.
 [sha:e8c3934eb39819d5f6f65457ceaf9ee9a882d82d]{
 -- Page 416, Offset 9682.
 -- それは、風に舞う白い花のようだった。
-A white flower, dancing in the wind.
+She's like a white flower dancing in the wind.
 }
 [sha:5c9948bbba8ec15aa6b261cca9d51b1f489288d6]{
 -- Page 417, Offset 9683.
@@ -633,7 +645,7 @@ The grounding anchors are raised―――
 [sha:c400916a385d2914a39d5220b3d828a8ace670c5]{
 -- Page 417, Offset 9686.
 -- 落下する筈のものが<緩|ゆる>やかに上昇する。
-And what should have fallen, rises gently instead.
+And instead of falling, she gently rises instead.
 }
 [sha:06b0ee79a0f2c5d68d767f8fa6a44acc741f2688]{
 -- Page 417, Offset 9687.
@@ -695,7 +707,7 @@ The unraveled chains and the raised anchors strike the surface of the earth.
 [sha:f39ef2ae76b3c855e00ab4ff809b18f7565d1457]{
 -- Page 420, Offset 9698.
 -- 眼下には火の粉を散らす石の<楼閣|ろうかく>。
-Below her is a tall, stone building scattering sparks of fire.
+Below her is a tall stone building scattering sparks of fire.
 }
 [sha:73010a7ca6046ce4c20512b3f9e99c7fd84ca698]{
 -- Page 420, Offset 9699.
