@@ -3411,63 +3411,82 @@ Box
 }
 [sha:b6f66a46444cee5ae0fb74e11bd8a9d5268a44b8]{
 -- 11日目・朝
+// @flowchart_title
 11th day ― Morning
 }
 [sha:467df03c14fe8666977fa12512b6d10b6c7d38c4]{
 -- 人間らしい選択
-The Human Choice
+// Slightly more context pulled from 29579.
+// @flowchart_title
+The Proper, Human Choice
 }
 [sha:3ca65445e047c77ce3c5f0dec7dea71e074747ad]{
 -- 何もかも無かった事にしよう。
-Forget all of this ever happened
+// See 42682.
+// @flowchart_title
+I'll forget this ever happened
 }
 [sha:dfedeb41a3ca65d989c521814b1c34046e4a0798]{
 -- 最後に、現実を見よう。
-To see the truth to the end
+// See 42683.
+// @flowchart_title
+I'll see this through to the end
 }
 [sha:95019f1e403dc0bfd40253839e38f670f6f42fce]{
 -- ｉｆ
-if
+// @flowchart_title
+If
 }
 [sha:cfcb0bf408942dd4aa7a7b74d9e068ec0c8793cb]{
 -- 最後の晩餐
+// @flowchart_title
 The Last Supper
 }
 [sha:0dc477e2d1d047a26826c308b1251d17b488aabb]{
 -- 午前３時の逢瀬
-Meeting at three o'clock
+// @flowchart_title
+3 AM Rendezvous
 }
 [sha:6fa54bfcce5fab861ad295eaeadd1b3ae2bce3e9]{
 -- 愛すると云う事
+// Ref 30253.
+// @flowchart_title
 What it means to love
 }
 [sha:9bb2a5be533b4d3b5175e8410f4c886c0a2c9a37]{
 -- ばいばい。
-Adieu.
+// @flowchart_title
+Adieu
 }
 [sha:c17acf514780ba9cbe2628f6462879b944744915]{
 -- 11日目・朝。
+// @flowchart_title
 11th day ― Morning
 }
 [sha:ec370a683ec5119331db355074f56449e404c93e]{
 -- 見慣れた教室
-A familiar classroom
+// @flowchart_title
+Familiar Classroom
 }
 [sha:38ae606fb07882b2ed32cf5ea7e0a8c4bc9e92c8]{
 -- 壊れた椅子
-A broken chair
+// @flowchart_title
+Broken Chair
 }
 [sha:5d35ca3b63a8b80bbcbb974ef2cb012db5a6a4ef]{
 -- 止まった時計
-A stopped clock
+// @flowchart_title
+Stopped Clock
 }
 [sha:f719ed2e5507145cf86f99e2694a6bbc28d3e264]{
 -- 夜歩く
-Night walk
+// @flowchart_title
+Night Walk
 }
 [sha:d4e03fa3c6a86805d70f499717ab9cfd0fd1210b]{
 -- カルマの清算
-Balancing of karma
+// @flowchart_title
+Karmic Reckoning
 }
 [sha:d0b4aa5bc19aa56bab28a6bfa5793615d1697f77]{
 -- 14日目・朝
@@ -6359,63 +6378,112 @@ Her zeal as an avenger.
 }
 [sha:781389ea13fcf40fad83b3ea0d538f312b2c9ef0]{
 -- 「もう会わない方がいい」。^アルクェイドはそう言った。^それは人として、とても正しい。
-Arcueid said 'It's best if we^don't see each other anymore.'^As a human, that would definitely^be the right choice.
+// @flowchart_descr
+Arcueid said it would be best if we didn't see each other again.
+ That would definitely be the most human choice I could make.
 }
 [sha:5ccc2cd53667733a04caaff339727bae155b1d46]{
 -- 放課後になった。^夜までは自分の時間だ。^ならば今、やるべき事は――
-It's after-school. The rest of^the day is mine. Then, what I^should do now is――
+// Reference 29565, 29569
+// @flowchart_descr
+Classes have ended.
+ The rest of the day is mine.
+ So... what should I do now?
 }
 [sha:f067f9cb044841bcd0c1d7238a2835e8cf1ad6b0]{
 -- 何も無かった事にしよう。^全てが夢だったと思えばいい。^本当に―――本当に？
-I should pretend none of this^ever happened――like all of^this was a just dream. Is that^really――really it?
+// Ref 29592, 29593
+// @flowchart_descr
+I'll just pretend that none of this ever happened.
+ That it was all nothing more than a dream.
+ But... can I really do that?
 }
 [sha:ed1f4e6e03dc2d69b7ea638376bcf0bcf098b775]{
 -- もう彼女には会えない。^そう考えるしかない。^―――まったく、笑わせる。
-I'll never meet her again.^That's the only conclusion^I can come to.^――Seriously, how laughable.
+// まったく、笑わせる probably him reacting to himself still not giving up
+// hope of seeing her (going to the pit) despite knowing she's gone.
+// @flowchart_descr
+I'll never meet her again.
+ I have no doubt about that.
+ Honestly... what am I even doing?
 }
 [sha:58b515350c6d59c159943480007939e12a27d452]{
 -- ヴローヴと戦った跡地で、^自らの愚かさを受け入れる。^誤魔化すのは、もうやめだ。
-At the site of the battle with^Vlov, I finally come to terms^with my own foolishness. I can't^keep lying to myself.
+// @flowchart_descr
+At the site of our battle against Vlov, I finally come to terms with my own foolishness.
+ I can't keep lying to myself.
 }
 [sha:4123654ceee1c0231b757eeb9f33d1a3f30bcf16]{
 -- 屋敷への帰路についた。^あいつを捕まえる、その前に、^やっておきたい事がある――
-I head back to the mansion.^Before I catch her, there's^something else I need to do.
+// @flowchart_descr
+I head back to the mansion.
+ There's something I have to do before I head out in search of her.
 }
 [sha:17cc9f04bb1300a95d4357fecd481c59024769be]{
 -- 公園で待ち続ける。^大げさではなく、^一生で一番、幸福な時間だった。
-I continue waiting at the park.^Without exaggeration, it's truly^the happiest time of my life.
+// @flowchart_descr
+I keep on waiting in the park.
+ It's no exaggeration to say that this is the happiest I've felt in my entire life.
 }
 [sha:aaa2cce5aaa9ce53982c586a0bd54372906d0246]{
 -- アルクェイドを抱き締める。^気持ちを確かめるように、^ただ、お互いを求めあって――
-I embrace Arcueid.^We explore each other, as if^trying to plumb the depths of^each other's emotions.
+// Ref 30339.
+// @flowchart_descr
+I embrace Arcueid.
+ We consummate our feelings, relishing in the touch of one another.
 }
 [sha:733abff685138ab0fcfeab678af5aa1c39a99a0a]{
 -- 夢を見ていた。^彼女がまた、いなくなって。^二度と見つからない夢を。
-I saw a dream. A dream where she^disappears again. A dream where^I'll never find her again.
+// @flowchart_descr
+I was dreaming...
+ Dreaming of her disappearing again.
+ Dreaming that I'd never find her again.
 }
 [sha:f31abfd68b14549fee4cf80832e5cb05cc7aa8da]{
 -- 眠りから覚醒する。^体の調子はいいとは言えないが、^日常に支障はないだろう。
-眠りから覚醒する。^体の調子はいいとは言えないが、^日常に支障はないだろう。
+// Same bones as the Roa bad end later today
+// @flowchart_descr
+I awaken from my slumber.
+ I can't say I'm feeling great, but it won't impede me going about my day.
 }
 [sha:64f4395f86480c7331f9bbb86deba36225c418c4]{
 -- 手足は重い。^他人の体を着ているようだ。^学校に向かおう。
-手足は重い。^他人の体を着ているようだ。^学校に向かおう。
+// Ref 29099.
+// @flowchart_descr
+My limbs are heavy.
+ It's like I'm piloting someone else's body.
+ Time to go to school.
 }
 [sha:f9ecaaf8b8d8901cda3c515e87482767f0e955ae]{
 -- 何事もなく授業は終わる。^退屈で平穏な学生生活。^なのに何故、頭痛がするのか。
-何事もなく授業は終わる。^退屈で平穏な学生生活。^なのに何故、頭痛がするのか。
+// Ref 29141. Pulled in some of 29142 too.
+// @flowchart_descr
+Classes end without anything particularly juicy happening.
+ Nothing surprising about school being boring.
+ So... why do I have such a terrible headache?
 }
 [sha:8bdff8f6dbd6e543dd31f4228eb51cc75e6ef213]{
 -- ずきずきと頭が疼く。^全部この頭痛のせいだ。^静かに、痛みが収まるのを待つ。
-ずきずきと頭が疼く。^全部この頭痛のせいだ。^静かに、痛みが収まるのを待つ。
+// @flowchart_descr
+My head just won't stop throbbing.
+ It's all because of this headache.
+ I just need to stay calm, and wait for the pain to subside.
 }
 [sha:fa820e72ed2e86199fb5ef507c4ee2221d58fc77]{
 -- 体は空腹を訴えている。^自分に料理は作れない。^今夜は外で済ませてこよう――
-体は空腹を訴えている。^自分に料理は作れない。^今夜は外で済ませてこよう――
+// Ref 29331, 29332.
+// @flowchart_descr
+My body is desperately pleading for food.
+ I can't make my own.
+ Tonight, I'll have to go get some outside...
 }
 [sha:ce0b30415acc1ba7f567ff310d32cb57f2d0dc5d]{
 -- 永い眠りから覚醒する。^器の性能はいいとは言えないが、^活動に支障はないだろう。
-永い眠りから覚醒する。^器の性能はいいとは言えないが、^活動に支障はないだろう。
+// Same bones as first file of the day
+// Ref 29023, but uses a different kanji
+// @flowchart_descr
+I awaken from my long slumber.
+ I can't say this vessel's abilities are particularly noteworthy, but it will not impede my activities.
 }
 [sha:91881718f586bbe6d0e7b213d0716c15ee1548ad]{
 -- 蝉の抜け殻。^時間は砂のように過ぎていく。
