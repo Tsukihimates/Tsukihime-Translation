@@ -22,8 +22,8 @@ def replace_texture(bntx, dds_path, texture):
 
     tile_mode = texture_to_replace.tileMode
     srgb = 1
-    sparse_binding = 1
-    sparse_residency = 1
+    sparse_binding = texture_to_replace.sparseBinding
+    sparse_residency = texture_to_replace.sparseResidency
     import_mips = 0
 
     replaced_texture = bntx.replace(texture_to_replace, tile_mode, srgb, sparse_binding, sparse_residency,

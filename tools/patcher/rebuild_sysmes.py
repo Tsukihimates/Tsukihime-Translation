@@ -75,7 +75,7 @@ class SysmesString:
                 word_len = cls.unicode_aware_len(word)
                 if not current_line:
                     current_line = word
-                elif cur_line_len + 1 + word_len < cls.FLOWCHART_WIDTH:
+                elif cur_line_len + 1 + word_len <= cls.FLOWCHART_WIDTH:
                     current_line += ' ' + word
                 else:
                     # If not, push back and start a new line
