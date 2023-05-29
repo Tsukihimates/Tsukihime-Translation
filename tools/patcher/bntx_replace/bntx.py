@@ -382,7 +382,7 @@ class File:
         texture.imgDim = 1
         texture.data = b''.join(result)
 
-        return texture 
+        return texture
 
     def save(self):
         self.relocTblHeader.blockSize = 2
