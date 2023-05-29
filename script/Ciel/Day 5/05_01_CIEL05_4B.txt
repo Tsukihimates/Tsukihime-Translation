@@ -1,7 +1,7 @@
 [sha:a2440ba2f6408925a3fe2a94605e5b4a658dfc7e]{
 -- Page 10024, Offset 12836.
 -- 「っ―――、は……！」
-"%{i}Ugh――haa%{/i}...!"
+"%{i}Ugh――haa%{/i}!"
 }
 [sha:4f4014de27adc4ad864bbcc61380d7c68c689efd]{
 -- Page 10024, Offset 12837.
@@ -386,7 +386,7 @@ The man, who has returned to being a mere Dead Apostle, brandishes his claws.
 [sha:fff1da9b3d67d21ed0d40a352ecbbf625836fd27]{
 -- Page 755, Offset 12909.
 -- 「ヴローヴ・アルハンゲリ……！」
-"Vlov Arkhangel...!"
+"Vlov Arkhangel!"
 }
 [sha:0162ad58a934b331358cf8c2a783feced31bee3d]{
 -- Page 756, Offset 12910.
@@ -421,7 +421,8 @@ Flesh and blood are frail, and even wisdom melts.
 [sha:363f7b1ffd65fa5430f0cf4746d70da27ddc5f35]{
 -- Page 758, Offset 12916.
 -- なれば救いは土の中、安息こそ我が故郷”」
-Thus salvation comes from the earth, and repose from one's homeland."
+// The grave, just metaphorical
+Thus salvation lies in the soil, for the final rest is my home."
 }
 [sha:0cc20ae34764676cc02c85691ec41aec25ec24a4]{
 -- Page 759, Offset 12917.
@@ -431,7 +432,7 @@ The iron blade transforms.
 [sha:b863463bf18bc31e7c64d047ce8014dfafd3a078]{
 -- Page 759, Offset 12918.
 -- 剣は収まり、そのカタチを杭打ち機に変えて、
-It reels back in, adopts the form of a pile-driver―――
+It reels back in, adopts the form of a pile bunker―――
 }
 [sha:b239c47207b9a07984681c859ec3e7259508947a]{
 -- Page 759, Offset 12919.
@@ -462,22 +463,22 @@ The impact doesn't just shatter his ribs, it pulverizes his entire torso.
 [sha:c5fe655dc4bf241090f4c0fde9cad5ed5af80eb7]{
 -- Page 762, Offset 12924.
 -- 「“貴様―――そうか、貴様もか……！
-"You bastard――I see, you too...!
+"You bastard――I see, you too!
 }
 [sha:ab53e2de803ec7185d3d433a6246a27a01a260c0]{
 -- Page 762, Offset 12925.
 -- どこまでも<狡|こざかし>い蛇……！
-Everywhere, even here, that cunning serpent...!
+Everywhere, even here, that cunning serpent!
 }
 [sha:aede74c125cebbae7337f8e73c4954de26b08f55]{
 -- Page 762, Offset 12926.
 -- 死ね。死ね、死ね、死ね……！
-Die. Die, die, die...!
+Die. Die, die, die!
 }
 [sha:6f525e949bde2922057d40c10531f2215bda2ef8]{
 -- Page 762, Offset 12927.
 -- おれは、おまえたちに斃されるなど……！”」
-You... will never kill me...!"
+You... will never kill me!"
 }
 [sha:799a06e2fa19013e7e47dd848075c53b3913e79a]{
 -- Page 763, Offset 12928.
@@ -493,9 +494,10 @@ Up to this point, there wasn't even so much as a trace of the deep-seated hatred
 -- Page 764, Offset 12930.
 -- “花は胸に―――<聖女の祈りを贖いに|クレアトゥーラ・デル・シエロ>！”」
 // Creature del Cielo, in French 'Creature du Ciel', means Heavenly Creatures. Which is also the IT/EN name of a film whose JP name is 乙女の祈り. How strange.
+// Referenced from flowchart
 // lint-off:LintEmDashes
-'A flower to my bosom―――%{n}
-<Redemption by the Prayer of the Holy Maiden|         C r e a t u r e  d e l  C i e l o>!"
+'To the bosom, flowers―――%{n}
+<As atonement, the prayers of the Holy Maiden|         C r e a t u r e  d e l  C i e l o>!"
 }
 [sha:06beaa9ec88fdd0b09e58353e69093ff0e86ee27]{
 -- Page 765, Offset 12931.

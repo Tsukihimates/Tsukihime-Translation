@@ -1,273 +1,301 @@
 [sha:c5c3e67c02e5a12f8b16d78508688eb50e4de61e]{
 -- Page 10000, Offset 43840.
 -- 長い夜は終わり、
-The long night was over,
+The long night is over,
 }
 [sha:cc3cc72001ab56cc5823d34a3d5e42f653f28a91]{
 -- Page 10000, Offset 43841.
 -- 街は鮮やかな夜明けを迎えました。
-and the city was greeted by a brilliant dawn.
+ and the city has%{n}
+been greeted by a brilliant dawn.
 }
 [sha:9c253e53728d98d1296fc98918381370a42bff70]{
 -- Page 285, Offset 43842.
 -- 総耶での吸血鬼事件は幕を下ろしましたが、
-The vampire case of Souya has come to an end,
+The story of the vampires in Souya may have come to an%{n}
 }
 [sha:d15b15a288a1983ad751265b0db6bce8b74e2210]{
 -- Page 285, Offset 43843.
 -- 彼と彼女の戦いはまだまだ続いていく事でしょう。
-but the battle between him and her continues.
+end, but their battle is sure to continue.
 }
 [sha:072d655c4dcf426b5b707e9a45440f02d1056594]{
 -- Page 286, Offset 43844.
 -- そう、幾度となく太陽が昇るように。
-Yes. Just like the sun rising time and time again,
+Yes... just as the sun continues to rise,%{n}
 }
 [sha:2512e69dca0fe52c18c1cdbc2608e0823f21b783]{
 -- Page 286, Offset 43845.
 -- 物語は、いまも廻り続けるのです。
-this story will continue to move even now.
+so too does their story continue to play%{n}
+out.
 }
 [sha:fd87394096de70d17778900c4189c4c74b86fec2]{
 -- Page 287, Offset 43846.
 -- 『月姫』シエルルート・エクストラエンディング、
-What did you think of the Ciel's Route Extra Ending
+I trust that you have enjoyed this extra ending
 }
 [sha:d0cad311097442c92b84b5349b5f1fb38708b88c]{
 -- Page 287, Offset 43847.
 -- いかがだったでしょうか。
-of 'Tsukihime'?
+ to the Ciel%{n}
+route of 'Tsukihime'!
 }
 [sha:724be6234a9c027e5468c275d3bce22c8e65a65d]{
 -- Page 288, Offset 43848.
 -- 失ったものはなく、輝かしい未来を約束された、
-Nothing was lost, and the promise of a bright future was
+It is a perfect happy ending, with nothing missing, and%{n}
 }
 [sha:4269192c693729d438e5e7319c8b50652e317c27]{
 -- Page 288, Offset 43849.
 -- 文句なしのハッピーエンド。
-fulfilled. A perfect happy end.
+the promise of a bright future.
 }
 [sha:d9776b3e11a04fe2b91eb36972646ef9ff72345e]{
 -- Page 289, Offset 43850.
 -- このエンディングで物語を締めくくられた事、
-The fact that this story has reached an ending like this
+I myself am also thrilled that the story has been tied off%{n}
 }
 [sha:9ace81f4de0d5f899b57697b83f38b73d300cc41]{
 -- Page 289, Offset 43851.
 -- わたしもたいへん嬉しいです！
-brings me joy like nothing before!
+with such a beautiful ending!
 }
 [sha:28f43b87cba93554952947d9046032b9c79d26d5]{
 -- Page 290, Offset 43852. Mods: @n.
 -- 失ってる……
-It's gone...
+// Calls back to 43848, though it does make for a slightly awkward verb
+It is missing...
 }
 [sha:9e998a0f102f31dea2cc8bd428b556dc593d51d7]{
 -- Page 290, Offset 43853. Glued.
 -- 失ってるぅぅぅぅう！
-It's gooooone!
+// Capital kerning is DOGSHIT so spacing this one out as well as caps
+// lint-off:LintDupedWord
+ I T   I S   M I S S I N G!
 }
 [sha:47877f59b7a8d7bc7da1356bd594aa5690b763e5]{
 -- Page 290, Offset 43854.
 -- 両手に花エンドじゃニャかったのか！？
-My 'holding a bouquet of flowers' ending is gone!
+// Reference to the original Ciel Route Good End of the same name which is a Ciel/Arc harem ending
+Wasn't this the threesome ending?!
 }
 [sha:01f680c12c5f6cf9149742b20a3b40759665cd12]{
 -- Page 291, Offset 43855.
 -- ニャんだよ、結局金髪美少女が負ける流れは
-What the hell! In the end, the blonde beauty gets defeated
+What the meow!%{n}
 }
 [sha:46b054b353b13219cae22d69d6a067834b7855ed]{
 -- Page 291, Offset 43856.
 -- ノーマルエンドと一緒じゃんかーー！
-just like in the normal ending!
+How is this any different from our blonde babe getting%{n}
+defeated in the normal ending?!
 }
 [sha:4f2a73fe0a8428d21297aa282d4754b950693693]{
 -- Page 292, Offset 43857.
 -- そこは仕方ないというか。
-Well it can't be helped, really.
+Sometimes that's just how it goes.
 }
 [sha:6a9052cee51f51b4fa64bd52b76d40d668d53200]{
 -- Page 293, Offset 43858.
 -- でもあれだけ長く活躍したんですから、
-But since you've been active in the story for so long,
+Still, given how big a part you played in%{n}
+the story, you can at least be thankful for%{n}
 }
 [sha:fc674b88a8ab40476bd8772a92bf447f27f83897]{
 -- Page 293, Offset 43859.
 -- 出演時間的には文句ないのでは？
-you can't complain about your appearance time, can you?
+all the screen time you got, right?
 }
 [sha:d1d36773563fe2eddb1bad78d966d76b1b4e160f]{
 -- Page 294, Offset 43860.
 -- まあ、ラスボスとしての活躍でしたから、
-However, you did spend some of that time as a final boss,
+Though, the part you played was that of the final boss, so%{n}
 }
 [sha:a611587fd839d6297d43083d895137f3eca5eadc]{
 -- Page 294, Offset 43861.
 -- 長いほどヒロイン力は下がっていましたけど？
-so I guess some of your heroine power got reduced?
+maybe your reputation as a heroine was actually going%{n}
+down the longer you were on screen?
 }
 [sha:ca2b7dcb24d5bb1c8c06078b705409aad41e1b94]{
 -- Page 295, Offset 43862.
 -- シット、ノーマルエンドで同情なんて
-Shit! I shouldn't have felt sorry for you
+// NECO ARC COMING IN WITH THE PROFANITY LET'S GO
+SHIT!
 }
 [sha:bbc9a84ff94a2cfa9f0735a40a031a25866cea15]{
 -- Page 295, Offset 43863.
 -- するんじゃなかった……ッ！
-in the normal ending...!
+ I never should've felt sorry for you%{n}
+in the normal ending!
 }
 [sha:8722f939e5449ceaf6a4c1b9dd569bb052920873]{
 -- Page 296, Offset 43864.
 -- シエル横暴！　シエル卑劣！　シエル印度！
-Ciel the tyrant! Ciel the foul! Ciel the Indian!
+// NECO ARC COMING IN WITH THE RACISM LET'S NOT GO
+Ciel the tyrant! Ciel the devious! Ciel the Indian!%{n}
 }
 [sha:c351e1e497bfb5e7baa01aabaa2bbd9181915beb]{
 -- Page 296, Offset 43865.
 -- これが教会のやり方かーーー！
-This must be the work of the Holy Church!
+Is this how you do things at the Church?!
 }
 [sha:45718e47a7e8bbf8a41da03175e91a3ebece36d4]{
 -- Page 297, Offset 43866.
 -- でも、おかげで一大スペクタクルな展開になりましたし、
-Regardless, it made for a great spectacle
+Still, your performance made for a fantastic spectacle,
 }
 [sha:4fc0a72d298dcea967ab29e31c1cdcfaa8bcd7d7]{
 -- Page 297, Offset 43867.
 -- 皆さんの満足度も上がりましたよ、きっと。
-and I'm sure it increased everyone's satisfaction.
+ so%{n}
+I'm sure that everyone enjoyed the story all the more for it.
 }
 [sha:03fcd9768cd098fc0909cb953208ce7d42de0398]{
 -- Page 298, Offset 43868.
 -- それに……わたし、光体状態の
-And besides... I thought Arcueid in her Luminary state
+And you know...
+ I actually thought that%{n}
+Arcueid was rather cute in her Luminary state,%{n}
 }
 [sha:bac8aeb7ef992708663b301add003f40c652d8a5]{
 -- Page 298, Offset 43869.
 -- アルクェイドさんも可愛いと思いますよ？
-was rather cute, don't you agree?
+wouldn't you agree?
 }
 [sha:8e52098cca4bc0018a19a41e75bfa6efa0b5a758]{
 -- Page 299, Offset 43870.
 -- やっている事がはた迷惑なだけで、
-It's just that what she did was troublesome,
+Her motivations were actually quiet endearing and%{n}
 }
 [sha:844f6480e7e4095c4f2dff7edfe158665621d966]{
 -- Page 299, Offset 43871.
 -- 行動原理はいじらしくて共感できるものでしたし。
-but the principle of her actions was endearing and understandable.
+sympathetic, even if her actions caused nothing but%{n}
+trouble.
 }
 [sha:24cce6e49b9b4cf788d3bbafa96d8645fafc64e4]{
 -- Page 300, Offset 43872.
 -- ……マジで？
-...Really?
+R-Really...?
 }
 [sha:0026aecaa183aac259d41f396a7d637e2dde6d41]{
 -- Page 301, Offset 43873.
 -- そっかぁ……えへへ……
-I see... Ehehe...
+Shucks... eh-heh-heh...%{n}
 }
 [sha:d8a68d1556e2334a3e976a56a49092e959e0d651]{
 -- Page 301, Offset 43874.
 -- 実はアタシもそうニャんだよね……
-I suppose you're right about that...
+Y'know, I actually feel the same way...
 }
 [sha:b0f6ee7b18f24b17d6426c088918877d696bde77]{
 -- Page 302, Offset 43875.
 -- やっぱ『月姫』の顔なだけあるっつーか……
-She is the face of 'Tsukihime' after all...
+Like, she's not the poster girl of Tsukihime for nothing...%{n}
 }
 [sha:ac492539ec2a0707ae428099764546d7d44d3236]{
 -- Page 302, Offset 43876.
 -- <Ｐ|パーフェクト>なヒロインは何やっても強いっていうか……
-A perfect heroine is strong no matter what she does...
+// A CLUE REGARDING P/M?!?!
+// Consonance and Dissonance? P = Perfect M = Minor?
+And a perfect heroine is a force to be reckoned with no%{n}
+matter what...
 }
 [sha:6cc5b4e56d4a876e25cfe3291d2ce684ff53c5cf]{
 -- Page 303, Offset 43877.
 -- ネコがバカで助かりました。
-Thank god this cat is dumb.
+Thank God this cat is so dumb.
 }
 [sha:66a825ef18726ad9c4f5879db3ccd94921fd35b2]{
 -- Page 304, Offset 43878.
 -- にゃにゃにゃ、よせやいそんニャに褒めるなよ。
 // lint-off:LintDupedWord
-Nya nya nya, you don't have to praise me nyat much.
+Nya ha ha,
+ please,
+ I can only take so meowny compliments.%{n}
 }
 [sha:95710bf7a050454551012716503bdadda6bf0dc0]{
 -- Page 304, Offset 43879.
 -- フッ……今夜、抱いてやっても……いいんだぜ？
-Heh... You can come hug me tonight... if you'd like.
+Heh... I wouldn't mind givin you a... little love tonight,%{n}
+y'know?
 }
 [sha:3fa7c1531f6e8212a180074080b0cc52866fe1a5]{
 -- Page 305, Offset 43880.
 -- では改めてご挨拶を。
-Now allow me to greet you once again.
+Well then, I think it's time to%{n}
+say farewell once more.
 }
 [sha:a9a4b21792a19fd3a65eb75600fbdbae8810d334]{
 -- Page 306, Offset 43881.
 -- まだ他に見ていない展開、
-Although there may be other developments and
+Even though I'm sure there are a few events%{n}
 }
 [sha:539c4959cccf4c228fef73d17eb2b62334bf1a9f]{
 -- Page 306, Offset 43882.
 -- 見ていないエンドはあるとは思いますが、
-endings that have yet to be seen,
+and endings you've yet to see―――
 }
 [sha:89b04260e248ad507e76e571d747832635500ec4]{
 -- Page 307, Offset 43883.
 -- 『月姫 -A piece of blue glass moon-』は
-'Tsukihime - A piece of blue glass moon -'
+'Tsukihime -A Piece of Blue Glass Moon-'%{n}
 }
 [sha:3f7c83d9bc07791a01b9974494a6c4e881d412c2]{
 -- Page 307, Offset 43884.
 -- これでグランドフィナーレとなります。
-has now reached it's grand finale.
+has now reached its grand finale.
 }
 [sha:1e1b7f15104cd95857b90464eafc919986e6f636]{
 -- Page 308, Offset 43885.
 -- 物語の最中、あえなく退場してしまった
-Just as Tohno-kun must sadly take his leave
+As for this Q&A corner,
 }
 [sha:ad2ba96e011eccb89afab5f080bcc31f764dea52]{
 -- Page 308, Offset 43886.
 -- 遠野くんを助けるＱ＆Ａコーナー、
-in the middle of this story, this Q&A corner,
+ it was only here to%{n}
+help Tohno-kun whenever he left the stage%{n}
+prematurely during the story.
 }
 [sha:1825f5968320f3bb3c8da08cc5918d5a337c1fd4]{
 -- Page 309, Offset 43887.
 -- 『教えて！　シエル先生』もこれにて終了。
-'Teach Me, Ciel-Sensei!' must also come to an end.
+As such, it too has served its purpose. In practice, this%{n}
 }
 [sha:599bbe627018ee467fe55b3868b6a65d815fc49b]{
 -- Page 309, Offset 43888.
 -- 今回が事実上の最終回です。
-This is the final installment for real.
+is the final installment of 'Teach Me, Ciel-Sensei!'.
 }
 [sha:74438e4fa471a7d427a9c223c31d48ef049afbd6]{
 -- Page 310, Offset 43889.
 -- ゲーム中の登場人物であれ、物語であれ、
-Whether it is a character in the game, the story,
+Whether it was the characters that stuck%{n}
+in your mind, or the story―――
 }
 [sha:495c1359b852dc82248c40a6be2caff2e8427bf4]{
 -- Page 311, Offset 43890.
 -- 何かが貴方の思い出になってくれたのなら、
-or something else, if it turns into a lasting memory,
+If you have made a lasting memory along the way,
 }
 [sha:c2b1a2f05b589188e32233149d7b266fada0b053]{
 -- Page 311, Offset 43891.
 -- これ以上の喜びはありません。
-we couldn't be any happier.
+ then we%{n}
+couldn't be happier.
 }
 [sha:25a165c1f9ee5d0cad9e64d201ca92157ea09a3f]{
 -- Page 312, Offset 43892.
 -- ここまでのゲームプレイ、
-We thank you very much
+Thank you ever so much for playing the game%{n}
 }
 [sha:c3669accdee8217760b7c82c7ceca46951e1b1c6]{
 -- Page 312, Offset 43893.
 -- まことにありがとうございました。
-for playing the game all the way to the end.
+all the way through to the end.
 }
 [sha:5bb952983cd54b6e599a7c11df6ba5a616d0a2f4]{
 -- Page 313, Offset 43894.
@@ -277,20 +305,22 @@ And with that,
 [sha:e3465ce0a6d86cda87dbbe39db72ce4a0dd67134]{
 -- Page 313, Offset 43895.
 -- どうか、今日も良い一日を！
-I hope you have a great day as always!
+ I hope you have a%{n}
+great day as always!
 }
 [sha:97c46f8f85884d77de1fd81dc0591b038d5f503e]{
 -- Page 314, Offset 43896.
 -- アタシは納得していないけどニャーーー！
-Although I can't accept any of this nya!
+I'm not gonna take this lying down!
 }
 [sha:4501733421d60c07bf0431c7cfa96cb3c3cd85b3]{
 -- Page 315, Offset 43897. Mods: @n.
 -- 最終的にもう一度アタシがヒロインになる、
-Have faith that there be a True Arcueid route
+There's gonna be another route where I'm the heroine:%{n}
 }
 [sha:df6964267fa5bed6a1118f941a1191624b049259]{
 -- Page 315, Offset 43898. Mods: @n.
 -- 真・アルクルートを出来ると信じて！
-where I will become the heroine once again!
+A True Arcueid route!
+ You just gotta believe!
 }
