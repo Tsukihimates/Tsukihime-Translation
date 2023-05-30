@@ -784,9 +784,9 @@ Putrefying panoramas in patchwork mosaic.
 [sha:edb1f81fdd9883e3a823e9f96f06b2fc94f822f4]{
 -- Page 562, Offset 34889.
 -- 一夜ばかりの幻も　終わらぬものなら不治の<恋|どく>。
-%{i}Incurable %{/i}
-<%{i}poison%{/i}|%{i}l o v e   %{/i}>
-%{i} be, the never-ending night of fantasy.%{/i}
+// Using second fontbank here to get around the ruby italics limitation
+@g
+Incurable <poison|l o v e   > be, the never-ending night of fantasy.
 }
 [sha:729316a1cc4125287f325fae975772ec37da2fca]{
 -- Page 562, Offset 34890. Mods: @k, @e.
