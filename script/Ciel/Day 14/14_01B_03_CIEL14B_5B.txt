@@ -316,10 +316,9 @@ Or perhaps―――
 [sha:761909facef49fb0308ea0d75d2935999703dcbe]{
 -- Page 230, Offset 40910.
 -- 『<引力操作|アトラクション>、
-// Can't use ruby since Roa speaks in italics.
-%{i}
-"Attraction.
-%{/i}
+// Need to use alt fontbank for italics in ruby
+@g
+"<Gravity Manipulation|A t t r a c t i o n    >.
 }
 [sha:20b2015d68df33229f4f71021af2ad9e794a1ae5]{
 -- Page 230, Offset 40911.
