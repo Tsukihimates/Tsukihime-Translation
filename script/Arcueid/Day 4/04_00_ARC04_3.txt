@@ -1035,12 +1035,13 @@ It was a reply I didn't want to hear,
 -- 「ふざけるな、死んだ人間が生きてるハズがないだろう！」
 // Say the line bart
 "Bullshit you are!
- How could someone dead possibly be alive?!
+ How could someone dead possibly be alive?!"
 }
 [sha:ed2f0b1ea320739377a086eab4333af14f4d196f]{
 -- Page 159, Offset 6009.
 -- 「そうだけど、そう驚くコトでもないんじゃない？
-"Okay, but I don't see what you're so surprised about?
+// そうだけど kinda futzed with to reflect how we've TLd the above
+"I mean, I don't really see what you're so surprised about?
 }
 [sha:12757bb9a2cb4fae60e54aab572a49fa8a3f7a84]{
 -- Page 159, Offset 6010.
