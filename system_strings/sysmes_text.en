@@ -3627,12 +3627,12 @@ Journey's End
 -- 月の荒野。
 // Same phrase used in 32352.
 // @flowchart_title
-Barren Surface of the Moon
+Surface of the Moon
 }
 [sha:dde5aecaaeefdac2ea934226b1985f1bb0f8875b]{
 -- 吸血姫のキス
 // @flowchart_title
-I Kiss the Vampiress
+Kiss of the Vampiress
 }
 [sha:522d23adb664f3efaf270b31b32563b33653fc3a]{
 -- 直死の魔眼
@@ -3680,7 +3680,7 @@ Breach
 -- 逃げ出した先に。
 // Kinda confusing temoprality here. He's already mid-逃げ出す in this file?
 // @flowchart_title
-Escape Preparation
+Post-Escape
 }
 [sha:0bb4987ba306b0ab7d150b6727ae140c847a75d6]{
 -- 地の底に来たれ、断罪者
@@ -3726,7 +3726,7 @@ The French Incident
 [sha:944de506a7cb863518b944bf5f2371c11f1dc1eb]{
 -- 薔薇園からの生還
 // @flowchart_title
-Surviving the Rose Garden
+After Surviving the Rose Garden
 }
 [sha:74605d5363f7230854721c839b5d84d932e10898]{
 -- 最短で、あの吸血鬼を殺す。
@@ -6768,7 +6768,7 @@ So I may never forget the moon's light.
 [sha:5145523f8d17324716238dff315acf65b9f2e2b1]{
 -- 境界が崩れていく。^人間である事に、^何を拘っていたのだろう。
 // @flowchart_descr
-The boundaries are crumbling.
+My boundary gradually crumbles.
  Why was I so concerned with preserving my own humanity?
 }
 [sha:9f128144d6d10e414e686b843d97b9e8d001a613]{
@@ -6793,10 +6793,11 @@ The day dawns on a sleepless night.
 }
 [sha:4c5b1a100d8219c54eb0ca82036e47dac1e18654]{
 -- 時間の経過がおかしい。^萎びていく意識と裏腹に、^身体は衝動を持て余していた。
+// Ref 33236, 33238
 // @flowchart_descr
 Time is passing in fits and starts.
- Even as my consciousness begins to wither and fade,
- my body is overwhelmed with urges.
+ Even as my consciousness shrivels and fades,
+ my body feels like it's overflowing with excess energy and desire.
 }
 [sha:54711c3cf9e42db20dcaed5431b08270de3dc298]{
 -- 扉が開いていく。^琥珀が部屋に入ってくる。^最後の理性で警告をするが―――
@@ -6808,18 +6809,20 @@ The door opens.
 [sha:cab52b01c87504ee57165fe24d891193af5a5b74]{
 -- 体中がたぎっている。^食事を置いたなら、すぐにでも、^出て行ってもらわなければ……。
 // @flowchart_descr
-My body is like a wound spring.
+My whole body is on edge.
  I need her to get out of here as soon as she leaves the food―――
 }
 [sha:ae4ab28f7b12ad0942b6dc0a7ff34bdf2ac2d825]{
 -- もう歯止めは利かなかった。^喉が渇いてたまらない。^ふと我に返ると、そこには―――
+// Ref 33343
 // @flowchart_descr
-I just couldn't hold myself back any longer.
+I was powerless to stop myself.
  I was so thirsty I couldn't bear it.
  When I come to my senses, I'm greeted by―――
 }
 [sha:87efc66e65a3aa31f879cf5d0dca46afa3bb12d4]{
 -- 屋敷の外に出る。^また堪えきれなくなる前に、^誰もいない場所へ逃げなければ。
+// Ref 33447
 // @flowchart_descr
 I flee the mansion.
  I need to escape to somewhere without anyone else around before I lose control again.
@@ -6842,7 +6845,7 @@ If I tried to run away, she'd run my heart through the moment I turned my back o
 -- 背中を向けて走る。^今の肉体なら、^難なく逃げだせる筈だ―――
 // @flowchart_descr
 I'll turn tail and run.
- With my transformed body, I should have no problem escaping from her―――
+ With my transformed body, I should have no problem escaping from her.
 }
 [sha:c82da45a8c696a0a8996bcbd14535fd25d79e011]{
 -- これ以上逃げられそうにない。^すぐに彼女がやってくるだろう。^まだ生きたいと思うのなら――
@@ -6873,25 +6876,28 @@ Chapel bells ring in the distance.
 [sha:7bc12c495a0c04108f9c816acb45b5e7ae8fd061]{
 -- １３年前の真実。^とある田舎町で起きた、^世界を殺す毒の製法、その失敗。
 // @flowchart_descr
-The truth of the incident thirteen years ago.
- In some unremarkable provincial town, the manufacture of a poison to kill the world ends in failure.
+The truth of what happened thirteen years ago.
+ In some unremarkable countryside town, the concoction of the world-killing poison ends in failure.
 }
 [sha:f8c9014b7faae1df7df854d49d8964354a6d13b2]{
 -- 吸血鬼の魔眼から解放された^ものの、状況は最悪のまま。^戦うべきか、逃げるべきか……？
+// Sorta quotes 35217
 // @flowchart_descr
 Even though I've escaped from the vampire's Mystic Eyes, the situation remains grim.
  Should I fight, or flee?
 }
 [sha:7c0f240112baf778bdeddac318e9bd940ee38425]{
 -- ヤツさえ殺してしまえば、^先輩も解放される筈だ。^最短であの吸血鬼を黙らせる！
+// Ref 35221 & 35223
 // @flowchart_descr
-I ought to be able to free Senpai if I kill her.
+Killing her should be enough to break Senpai out of it.
  I'll shut that vampire up right here and now!
 }
 [sha:fa9904b72f3ef46655351d1ba57caefa45e0c995]{
 -- 状況は理解できている。^普通ではなくなったこの体で、^死者の群れを突破する―――！
+// Ref 35444.
 // @flowchart_descr
-The situation is clear.
+It's clear how bad the situation is.
  With my changed body, I'll break through the hordes of the Dead!
 }
 [sha:dbc487823e7270c0482527a53cffda8653cc20b6]{
@@ -6910,9 +6916,10 @@ I slice off her head faster than I can even think.
 }
 [sha:dc5c873d55f33089f0264e3ba62304849ae319c1]{
 -- 千載一遇の機会を見送った。^……この決着は、^彼女たちの物語だ。
+// Ref 35798
 // @flowchart_descr
-I can't believe I let that once-in-a-lifetime opportunity pass me by...
- Victory is already as good as hers.
+I let the once-in-a-lifetime opportunity pass me by.
+ This fight is between the two of them.
 }
 [sha:575eca6331c79d09687eba643339289472ae0b0a]{
 -- 死人は際限なく群がってくる。^殺されるつもりはない。^必ず戻ると信じている。
@@ -6923,13 +6930,13 @@ The Dead keep flinging themselves at me with no end in sight.
 [sha:613a32e9d2e7b11cfd4b51ac884a552e03e57d4a]{
 -- いまは、^夜に虹はかからなくとも。
 // @flowchart_descr
-Even if, as of now, there exist no rainbows in the night.
+Even if, as of now, there are no rainbows in the night.
 }
 [sha:4ea15c8bcee2e5ac4c92cc71a477bf1266d38c99]{
 -- 代行者、復活。^断罪の杭は分け隔てなく^彼女たちの魂に。
 // @flowchart_descr
 An Executor reborn.
- The stake of condemnation resides equally within their hearts.
+ The stake of condemnation indiscriminately runs through both their souls.
 }
 [sha:b5696b90166a79cb131cf846ffa27a0502ed1a10]{
 -- ……“もしも”の話は、^ここにはなく。
@@ -6938,9 +6945,10 @@ Here, now, there are no 'what-if's.
 }
 [sha:c62d546726abad7e02c846cf4cad0c97bfc83674]{
 -- 戦いは幕を下ろす。^月に照らされたその地には、^一部始終を見届けた姿があった。
+// Ref 36371 & 36373
 // @flowchart_descr
-The curtain falls on their battle.
- From on high, a moonlit figure witnessed the entire affair.
+The curtain falls on the battle.
+ She had watched everything unfold from her moonlit vantage point.
 }
 [sha:869fbad78ab07f24a73961195dd4567dcc39e80c]{
 -- 戦いは終わり、^シエル先輩のアパートへ。^彼女への気持ちを再確認する。
@@ -6959,10 +6967,10 @@ Curious as I am, now isn't the time to be teasing Senpai.
 [sha:16374b9263c04fe217bb4a7a67901be769435afd]{
 -- 今までの情報から逆算する。^つまり、先輩のそれは―――^その時から、もう既に―――
 // See 36614/5.
-// already [had that kind of figure]
+// already had that kind of [figure]
 // @flowchart_descr
 Working backwards from what I know,
- that means... even back then, Senpai already―――
+ that means... even back then, Senpai already had that kind of―――
 }
 [sha:21c5fcdc6657ff02778de08d82e9268d307f90a9]{
 -- 病める時も。^互いを許し、認め、律し、^笑い合えるように。
