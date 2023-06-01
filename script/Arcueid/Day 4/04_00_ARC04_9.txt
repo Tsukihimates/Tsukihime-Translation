@@ -48,13 +48,13 @@ It's not like I'm angry or anything... so why do I feel so incredibly frustrated
 -- 「それもハズレ。もう、十だの百だの千だのって、志貴はわたしのことそういう風に見てたわけね。ひどいなぁ、それじゃあ<見境|みさかい>なしじゃない」
 "You're way off.
  Tens, hundreds, thousands... so this is how you really see me, huh.
- How awful, wouldn't that make me the same as all the other vampires?"
+ That's awful. I'd basically be indiscriminately slaughtering anything I come across."
 }
 [sha:6854b43e805a5df7b1a3e2c4448dd020c1682e98]{
 -- Page 690, Offset 7405.
 -- 「……違うのか？　吸血鬼ってのは見境なしなんだろ。
 // Repeated ~見境なしな so italics
-"Aren't you? I thought all vampires %{i}were%{/i} the same.
+"You don't? I thought that's just how vampires worked?
 }
 [sha:78331b5f15a896f7ae8bcf8ba45fd12e1490a727]{
 -- Page 690, Offset 7406.
@@ -547,10 +547,12 @@ What should %{i}I%{/i} be doing in this situation?
 [sha:8d75cc3d7e04e79b3a6161a760ae39a6fc996ed7]{
 -- Page 723, Offset 42613. Choice.
 -- ……部屋を出て、外の様子を探りに行く。
+// Referenced in flowchart
  I'll leave and see what's going on outside.
 }
 [sha:e13900b40f628fda9c2d20d54dbe1720eb8c7fa6]{
 -- Page 723, Offset 42614. Choice.
 -- ……部屋で外の様子をうかがう。
+// Referenced in flowchart
  I'll stay in the room and see what happens.
 }
