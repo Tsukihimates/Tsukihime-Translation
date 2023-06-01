@@ -1982,8 +1982,9 @@ Blue Flame
 }
 [sha:bdf937340eac5c3a5ea9ae41705f206916e6f4d8]{
 -- 外の様子を探りに行く。
+// Ref 42613
 // @flowchart_title
-I'll go check outside
+I'll see what's going on outside
 }
 [sha:92c1aaacb608e1ff426669d982b34a284369cede]{
 -- ツギハギの世界
@@ -1992,8 +1993,9 @@ Patchwork World
 }
 [sha:c9c28a073ad8b4206228d99aa987198339635a8c]{
 -- ……部屋で外の様子をうかがう。
+// Ref 42614
 // @flowchart_title
-I'll stay put and observe
+I'll stay and see what happens
 }
 [sha:17cbc18f156ceac2ba7e67ad768b907f64fdee0b]{
 -- 最後の朝帰り
