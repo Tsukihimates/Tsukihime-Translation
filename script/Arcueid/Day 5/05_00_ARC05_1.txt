@@ -105,20 +105,21 @@ I'm proud to say that my fundamental physical strength is on par with the averag
 -- 短距離走はこなせても、長距離走は話にならない陸上選手のようなものだ。
 I'm like a track and field athlete who can do short sprints, but not a marathon.
 }
-[sha:6b0c313d7f3ac0d7fa52f04b9c1603c56c49dc01]{
+[offset:8612]{
 -- Page 11, Offset 8612.
 -- 「…………はあ」
-"%{i}Haa%{/i}..."
+"%{i}Whew%{/i}..."
 }
 [sha:871845b067c9a5760b3765925f4e46b4652769ea]{
 -- Page 11, Offset 8613.
 -- 横になったまま起きあがる事ができない。
-I'm so tired that I can't even get up.
+I'm way too tired to pick myself back up off the floor.
 }
 [sha:9db5889e9cb77844c91c87dd56723d8f75b1f105]{
 -- Page 11, Offset 8614.
 -- 昨夜はずっとアルクェイドと話していたし、まともな食事を一日以上摂っていない。
-On top of having talked with Arcueid all night, I haven't had a decent meal in over a day.
+Not only did I stay up all night talking with Arcueid,
+ but I haven't had a decent meal in over a day.
 }
 [sha:47824b778f46ea7264cbaa00abe6657fd1d0154c]{
 -- Page 11, Offset 8615.
@@ -128,7 +129,7 @@ It's crazy that I've lasted this long.
 [sha:fd9cbc2554d832eebacc8ccd5c069af3115acc5f]{
 -- Page 12, Offset 8616.
 -- 「……アルクェイド……傷、大丈夫かな……」
-"Arcueid... I wonder if she'll be okay with those wounds...?"
+"Arcueid's pretty wounded... I wonder if she'll be okay..."
 }
 [sha:700ca1bca8723f0b526424d88531e8c66a10b168]{
 -- Page 12, Offset 8617.
@@ -138,12 +139,14 @@ I steal a glance at the woman lying on the bed.
 [sha:e1d0c0d235ab0d468697442cfcaa62cc5787fd26]{
 -- Page 12, Offset 8618.
 -- 腹部からの出血は止まっていたし、バラバラにされても勝手に生き返るヤツなんだから、そんな心配なんて無用かもしれないけど。
-Her abdomen has stopped bleeding, and even if she's torn from limb to limb, she can simply come back to life. Maybe there's no reason to be worried after all.
+It seems like her abdomen has already stopped bleeding,
+ and besides, she can come right back to life even after being torn limb from limb.
+ I'm probably worrying over nothing.
 }
-[sha:f040c74fac749765d57d5de22ee09f75babac3af]{
+[offset:8619]{
 -- Page 13, Offset 8619.
 -- 「……どうかしてるな」
-"What the hell am I doing...?"
+"What on earth is wrong with me?"
 }
 [sha:2a043f4fd8dc5d073e5c98e1d7c67a39c21b64e8]{
 -- Page 13, Offset 8620.
@@ -154,7 +157,8 @@ This fever is making me light-headed.
 -- Page 13, Offset 8621.
 -- こっちだって呼吸が途切れるほど疲れきっているのに、あいつの容体の方が気になるなんて、重度の風邪でも引いてしまったとしか思えない―――
 // Drop explicit 風邪 to lean into catching feelings as a subtext
-I'm so exhausted I can barely breathe, and yet here I am worrying over %{i}her%{/i} condition. I guess I must've come down with something pretty serious―――
+I'm so exhausted I can barely breathe, and yet here I am worrying over %{i}her%{/i} condition.
+ I guess I must've come down with something pretty serious...
 }
 [sha:dfd46ce19bfe8cc1babda1fc32c6482dd7ea1fe1]{
 -- Page 14, Offset 8622.
@@ -174,12 +178,13 @@ Two people were injured, but fortunately, no one was killed."
 [sha:54b33ea95c11541033e5eed29bfbabbad39481e0]{
 -- Page 15, Offset 8625.
 -- あのまま床で眠ってしまったらしい。
-It seems that I passed out where I lay on the floor.
+I guess I must've just passed out on the floor.
 }
 [sha:4028002da963458fe0117201bfb32cb0fa39f550]{
 -- Page 15, Offset 8626.
 -- なぜかカーテンが開いていて、体にはシーツがかぶせられている。
-For some reason, the curtains are open and there's a bedsheet covering my body.
+It looks like someone's opened the curtains,
+ and there's now a blanket draped over me.
 }
 [sha:836e56d307eeecf281fa30a4f46dedf82ebc5b8a]{
 -- Page 16, Offset 8627.
@@ -204,17 +209,19 @@ I sit up and look around the room.
 [sha:a0a1573d3ace4d966966d6715ac534f7d67997f9]{
 -- Page 17, Offset 8631.
 -- となりの部屋……台所から人の気配がする。
-I feel a person's presence coming from the neighboring room... the kitchen.
+// 気配 made a bit more normal in EN
+It sounds like there's someone in the neighboring room...
+ I think it's the kitchen.
 }
 [sha:834b1559e264800dcaeb4c217adc6580abfe032f]{
 -- Page 18, Offset 8632.
 -- 「……あんな体のクセに、なに動きまわってるんだ」
-"What is she doing, moving around in her state?"
+"What does she think she's doing, moving around in that state?"
 }
 [sha:e3ba8ac6b544da328c8d8b2e12ece03d5dab4c85]{
 -- Page 18, Offset 8633.
 -- シーツをのけて立ちあがる。
-I move the sheet away and stand up.
+I pull off the sheet and stand up.
 }
 [sha:fb3710a9b3b16760f57ef8214a8388e7fd2eb71f]{
 -- Page 18, Offset 8634.
@@ -224,12 +231,13 @@ I need to go to the kitchen immediately and check on her wounds.
 [sha:adb383abc45d853a304a8e63133d3a119e51a108]{
 -- Page 19, Offset 8635.
 -- 『次のニュースです。
-"And for our next story.
+"And now for our next story.
 }
 [sha:85ccb6ed20da422dca0d98c6376b6fcc688d697c]{
 -- Page 19, Offset 8636.
 -- 本日未明、<鞍御橋|くらみばし>ドームホテルで火災が発生しました。内部からの火災警報はなく、午前６時、業務に戻ったスタッフがホテル内の異常を発見し、警察に通報。
-A fire erupted today in the early morning at the Kuramibashi Dome Hotel. None of the internal fire alarms went off, and as a result, the fire went unreported until staff returning to work at six o'clock discovered the irregularity inside the hotel and contacted the authorities.
+A fire erupted in the early morning at the Kuramibashi Dome Hotel.
+ None of the internal fire alarms went off, and as a result, the fire went unreported until staff returning to work at six o'clock discovered the irregularity inside the hotel and contacted the authorities.
 }
 [sha:c73ccfd2a3b7ec04d98d4049dc7e348c2bc753be]{
 -- Page 19, Offset 8637.
@@ -249,7 +257,7 @@ I stop dead in my tracks.
 [sha:8b1548b902c527d2fb4b90d5a6c1a43a65518f37]{
 -- Page 20, Offset 8640.
 -- <否応|いやおう>なしにニュース映像に釘付けになる。
-I can't help but be glued to the news footage.
+I'm completely unable to tear my eyes away from the news programme.
 }
 [sha:603a4b222ff9ee24cc2c3f43191475392a9b62ae]{
 -- Page 21, Offset 8641.
@@ -259,7 +267,7 @@ I can't help but be glued to the news footage.
 [sha:bf5102105b42339677f994fc0467db0c38c35e24]{
 -- Page 22, Offset 8642.
 -- ニュースキャスターは淡々と情報を読み上げていく。
-The newscaster reads out the news dispassionately.
+The newscaster rattles off the news dispassionately.
 }
 [sha:5b142eda3dfe5ea069db3a2501361c09464d0c2a]{
 -- Page 22, Offset 8643.
@@ -289,22 +297,23 @@ With a click, I turn off the TV.
 [sha:03dd7296a0e21ca1184d021ad85e24fd9d832ea6]{
 -- Page 25, Offset 8648.
 -- 安否の確認――――？
-The safety of the guests has yet to be confirmed―――?
+The safety of the guests has yet to be confirmed?
 }
 [sha:57012b867316a84d2dc2b42c5ff7e16bb98332be]{
 -- Page 25, Offset 8649.
 -- 要救助者の発見―――？
-Not a single victim has been discovered―――?
+Not a single victim has been discovered?
 }
 [sha:9945f275c190c472f276e6b4aecace1a00ee64ce]{
 -- Page 25, Offset 8650.
 -- なぜそこまで解っていてはっきりと口にしない。
-How can you say that when it's already so clear what happened?
+How can they say that when they know full well what happened?
 }
 [sha:c631ecbf4517c34f730ddf33ccbea27070809a1b]{
 -- Page 25, Offset 8651.
 -- ホテルに泊まっていた人間はみんな、あのワケのわからない炎にまかれて、跡形もなく燃え尽きてしまった事を。
-Everyone who stayed at the hotel was engulfed in those unfathomable flames, reduced to ashes without leaving a single trace.
+Everyone staying at that hotel was engulfed by those unfathomable flames,
+ and burned away without a trace.
 }
 [sha:0ae9bf0550177a5f3b4ae4e185ee7fb359482b12]{
 -- Page 26, Offset 8652.
@@ -358,15 +367,15 @@ I don't know what kind of person he is.
 -- ただ、アレが元凶である事だけは間違いない。
 But I do know, beyond a shadow of a doubt, that he is the cause of all this.
 }
-[sha:d21bfeb03248da96e882320672405951be97baba]{
+[offset:8662]{
 -- Page 28, Offset 8662.
 -- ―――そう。
-―――That's right.
+Yeah―――
 }
 [sha:91868281f696f6b5f227c8bf814b0ad09c07f5a0]{
 -- Page 28, Offset 8663.
 -- アレが生かしてはおけないモノである事だけは、俺にとって間違いようのない真実だ。
-The only thing I know for certain is that he's someone who cannot be allowed to live.
+The only thing I know for certain is that he's someone who needs to die.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 29, Offset 8664.

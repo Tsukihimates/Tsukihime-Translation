@@ -11,7 +11,7 @@ A cheerful sound rings out, terribly out-of-place.
 [sha:81c9f9b8da217b9ed073230853e735ad2976bc41]{
 -- Page 10029, Offset 7780.
 -- 「エレ……ベーター……？」
-"Ele... vator...?"
+"The... elevator?"
 }
 [sha:17e7cd0042013da2d82d7878318adf9d7b146276]{
 -- Page 10029, Offset 7781.
@@ -32,7 +32,7 @@ The door opens.
 -- Page 809, Offset 7784.
 -- 頭はろくに働かないのに、体は自動的にナイフを右手に持ち直し、『この後』に起きるであろう惨劇を迎え撃とうと立ち上がる。
 Even though my brain isn't functioning properly,
- my body automatically stands up and shifts the knife back to my right hand, ready to face the tragedy that is about to unfold.
+ my body automatically stands up and shifts the knife back to my right hand, ready to face whatever gruesome scene is about to unfold.
 }
 [sha:d8af953a9533831c0277428a2dd831289ccbb6cf]{
 -- Page 810, Offset 7785.
@@ -72,7 +72,7 @@ The danger has passed.
 [sha:7a912dd28d6be8153c5698e3b4f54876d31d7539]{
 -- Page 812, Offset 7792.
 -- もうすべて終わった後とはいえ、階下の様子は把握できた。
-Everything may be already over, but at least now I know what happened on the lower floors.
+Everything may be over already, but at least now I know what happened on the lower floors.
 }
 [sha:2e4cdc2c7d11c601a45d60618ba31eebd6b67a34]{
 -- Page 812, Offset 7793.
@@ -144,7 +144,7 @@ Noticing my presence in the hallway, the woman begins to run once again.
 [sha:16e597f6449f212161ea8aae0919097c1fc786ce]{
 -- Page 817, Offset 7806.
 -- 恐怖で引きつっていた顔が、喜びで輝きだす。
-Her face that had been tense with fear begins to radiate joy.
+Her face, which had been tense with fear, now begins to radiate joy.
 }
 [offset:7807]{
 -- Page 818, Offset 7807.
@@ -702,7 +702,7 @@ A thud reverberates down the hallway, and my body is yanked backwards.
 [sha:3a2f05bd451fa7ae227bdf0664199a7067bf3658]{
 -- Page 848, Offset 7914.
 -- 「―――アル、クェイド……？」
-"―――Arcueid...?"
+"―――Arcueid?"
 }
 [sha:478c647bcaac949165a51079444c158fb6d805ab]{
 -- Page 848, Offset 7915.
@@ -737,7 +737,7 @@ But her actions make no sense to me whatsoever.
 [sha:07bd9993a5644710f8be540e0fd15d19be1a4c23]{
 -- Page 850, Offset 7921.
 -- それがどうして、コイツが、俺を<庇|かば>って傷ついている……？
-So why is she hurting herself in order to protect me...?
+So why is she hurting herself in order to protect me?
 }
 [sha:e1a088c46fc025b0407cfcdd026797068e1546af]{
 -- Page 851, Offset 7922.
@@ -762,12 +762,12 @@ She doesn't need to pull me back this time.
 [sha:70702a28e88710ede3aa814743b40ae090481b65]{
 -- Page 852, Offset 7926.
 -- アルクェイドは路地裏の時と同じように、右手を振るって炎を弾き流す。
-Arcueid swings her right hand and blows away the flames, just as she did in the alleyway.
+Arcueid swings her right hand, just as she did in the alleyway, and disperses the flames.
 }
 [sha:5693305e8af6b5b9d3a6e75018bb2fbdf5d25447]{
 -- Page 853, Offset 7927.
 -- だが、それも完全じゃない。
-But even that isn't perfect.
+But she doesn't manage to block everything.
 }
 [sha:1fedf53773569025a8b0ac1e5f7dfce3a40683ee]{
 -- Page 853, Offset 7928.
@@ -777,7 +777,7 @@ The flames aren't fully extinguished, and the dregs scorch her skin.
 [sha:62510c9c2c176b5c51b3f378d79ef80500c4d127]{
 -- Page 853, Offset 7929.
 -- まさか……直撃すればアルクェイドですら燃やされる、という事なのか……？
-You're telling me... that even a person like Arcueid can get burned by a direct hit...?
+You're telling me that even a person like %{i}Arcueid%{/i} can get burned by a direct hit?
 }
 [sha:40d3a1bb628f83922a53f478b1538bcc2b0d7dd8]{
 -- Page 854, Offset 7930.
@@ -975,7 +975,7 @@ And in doing so, reveals his name.
 -- Page 868, Offset 7967.
 -- 「なったばかりの祖ってコト。
 // "So that's how you became the new Ancestor." is not what she says, the impetus on this sentence is about that fact that he's just become an Ancestor, not how.
-"So you just recently became an Ancestor, then.
+"So you only recently became an Ancestor, then.
 }
 [sha:44ca60a574fbdc5b841f6520ed3fa3ca284465e6]{
 -- Page 868, Offset 7968.
@@ -1025,12 +1025,13 @@ If I do not burn it to the ground, it would go against everything that I believe
 [sha:1c569a09df5b70346eb15174ccaa0b9e0ed30421]{
 -- Page 870, Offset 7977.
 -- 真祖の姫。その心臓を、おれに<呉|よ>こせ”」
-Princess of the True Ancestors. That heart of yours, shall be mine."
+Princess of the True Ancestors... Your heart shall be mine!"
 }
-[sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
+[offset:7978]{
 -- Page 871, Offset 7978.
 -- 「……！」
-"!"
+// Not even voiced
+This is bad.
 }
 [sha:8cce493ebdadd950eb14171833493a3d23d98f4a]{
 -- Page 871, Offset 7979.
@@ -1084,10 +1085,10 @@ No, now is not the time to think.
 -- 意識を集中してナイフを構える。
 I focus my attention and grasp the knife.
 }
-[sha:f6f550d783c52437ba509af765eac4406a163111]{
+[offset:7989]{
 -- Page 875, Offset 7989.
 -- ―――来る。
-―――It's coming.
+―――Here it comes.
 }
 [sha:c2b18dcf7af7dd141760b4fafc959bde65539376]{
 -- Page 875, Offset 7990.
@@ -1162,7 +1163,7 @@ She got that wound protecting me from that man.
 [sha:e808fa63d3d9d7655b02f8e5c8537f2fb482c0f1]{
 -- Page 881, Offset 8004.
 -- 「そうだよ……おまえ、なんで……？」
-"That's right... why, did you...?"
+"Oh yeah... why did you―――?!"
 }
 [sha:5ec63b00112b2300fde3119eb53ad0964f09967f]{
 -- Page 882, Offset 8005.
@@ -1182,7 +1183,7 @@ I thought I could save you and still dodge the attack in that situation, but
 [sha:c2d18e30dfeaac021aa426d12244f7228b8485de]{
 -- Page 882, Offset 8008. Glued. Mods: @x.
 -- さすがだね、志貴。
-as expected of you, Shiki.
+I have to hand it to you, Shiki.
 }
 [sha:fcc02a0d9d178ff10491e1decd2c842d7a36f579]{
 -- Page 882, Offset 8009.
@@ -1253,7 +1254,7 @@ I feel the weight of her body as I catch her in my arms.
 [sha:89dc1b7378c07b28862740ee6ecf47b5b7ed4047]{
 -- Page 888, Offset 8022.
 -- 「―――ちょっと待ってくれ、そんな―――」
-"―――Wait a minute, you can't be―――"
+"Wait a minute, you can't be―――"
 }
 [sha:e2e5d0d1c18cb914f75b59fd5dafcdff315195b6]{
 -- Page 888, Offset 8023.
@@ -1270,10 +1271,10 @@ If you die on me right now, I %{i}really%{/i} won't know how to respond!
 -- 静かに目を閉じたアルクェイドに呼びかける。
 I call out to her as she lies there with her eyes softly shut.
 }
-[sha:aaf85f994e3b0f2943ad672a658baa45f4b0a7d0]{
+[offset:8026]{
 -- Page 889, Offset 8026.
 -- と。
-And then.
+And then―――
 }
 [sha:fcf723cd18f4823be37df7f7c2d05f3e932a839e]{
 -- Page 889, Offset 8027.
@@ -1319,7 +1320,7 @@ And besides, it's not a good idea to stick around this hotel any longer.
 [sha:429547f878c0e8ce50f57104882858b3482f088b]{
 -- Page 892, Offset 8035.
 -- ……これだけの惨劇だ。
-This was an incredible tragedy...
+This place is an absolute bloodbath...
 }
 [sha:26abc9611aea60651302cc705eaf0bc468ec9d12]{
 -- Page 892, Offset 8036.
