@@ -171,7 +171,7 @@ My limbs are straining, desperate to flee this instant.
 [sha:aa85f606f309e59a2c21d1aa0dbca9f669589980]{
 -- Page 105, Offset 8442.
 -- ―――だって俺は死にたくない。
-%{justify_right}―――I don't want to die.
+%{align_right}―――I don't want to die.
 }
 [sha:cb068bb4645d3eae5196165fc37a56696d330f78]{
 -- Page 105, Offset 8443.
@@ -181,7 +181,7 @@ I do my utmost to keep my thoughts in order.
 [sha:aa85f606f309e59a2c21d1aa0dbca9f669589980]{
 -- Page 105, Offset 8444.
 -- ―――だって俺は死にたくない。
-%{justify_right}―――I don't want to die.
+%{align_right}―――I don't want to die.
 }
 [sha:324487b8f427085557082ea1ac150b5562ce0e66]{
 -- Page 106, Offset 8445.
@@ -206,7 +206,7 @@ But if I make a sound, my limbs will be done for.
 [sha:8f572f5c1938b35f8b1037ff3918533f7dfd3a00]{
 -- Page 106, Offset 8449.
 -- ―――なんだ。どうあっても殺される。
-%{justify_right}―――That's it. I'll be killed no matter what.
+%{align_right}―――That's it. I'll be killed no matter what.
 }
 [sha:3a089a46ee2b8270746e19ca1e3eb8961162c5d3]{
 -- Page 107, Offset 8450.
@@ -377,5 +377,5 @@ But there's nothing I can do about it.
 -- Page 122, Offset 8482.
 -- 俺は嫌々ながら左手を差し出して、吸血鬼と名乗る白い女と握手をした。
 // Sinister shake
-I reluctantly hold out my left hand and shake hands with the woman in white who calls herself a vampire.
+I reluctantly hold out my left hand and shake hands with the woman in white who claims to be a vampire.
 }
