@@ -145,7 +145,7 @@ She keeps her distance, staying about a meter away.
 [sha:7d8369671b96b436cbf2d20c08f64ecd0648212c]{
 -- Page 914, Offset 8086.
 -- 「救急車、呼びます？
-"Do you want me to call an ambulance?
+"Want me to call an ambulance?
 }
 [sha:ac9683de328e1b20488f73284ad0c2a009cba6a3]{
 -- Page 914, Offset 8087.
@@ -155,12 +155,12 @@ If you do, lend me your phone. I don't want to use mine for this."
 [offset:8088]{
 -- Page 915, Offset 8088. Mods: @k, @e.
 -- 「―――、
-"―――
+"%{i}Ah%{/i}――
 }
 [sha:987c905ece89d51820e35d23984a06013f0cbd63]{
 -- Page 915, Offset 8089. Glued. Mods: @x.
 -- は」
-%{i}Ha%{/i}."
+%{i}haah%{/i}."
 }
 [sha:f845bd83f7b27835d5975baabbcfe99af9f5a716]{
 -- Page 915, Offset 8090.
@@ -185,7 +185,7 @@ I snap back to the real world and my breathing returns to normal.
 [sha:ae9ec7f657e5cd38be9f2d28fc7391c83c882416]{
 -- Page 917, Offset 8094.
 -- ―――でも、声をかけてくれてありがとう。助かった」
-―――But even so, thanks for calling out to me. That was a real help."
+Still, thanks for calling out to me. It really helped."
 }
 [sha:108ccd2657609d88abcb0635876e764a8f482999]{
 -- Page 918, Offset 8095.
@@ -220,7 +220,8 @@ Ever since I was a kid, even light exercise has been enough to make me dizzy."
 [sha:2fe2cc3152801ac54ef02d140622aed7251f2ace]{
 -- Page 919, Offset 8101.
 -- 「ふーん。じゃあ犬とか、ダメですね。遊びに付き合ってあげられないし」
-"Hmm. I guess dogs are out of the question then. You can't play with them after all."
+"Hmm. I guess dogs are out of the question then.
+ You wouldn't be able to play with them after all."
 }
 [sha:3784714aa7829cfc209a659c1c20f5c787bef7f8]{
 -- Page 919, Offset 8102.
@@ -235,7 +236,8 @@ I don't have any desire to get a dog, but it's kind of sad to completely deny th
 [sha:260bceb4b653e53de0db486f4c056120e41b3e28]{
 -- Page 920, Offset 8104.
 -- 「散歩とか。
-"A walk...
+// Mildly mocking VA
+"A %{i}walk%{/i}?
 }
 [sha:c37ad81c8b278a0ee4f3a6038e1c042c84bc3ca8]{
 -- Page 920, Offset 8105.
@@ -255,7 +257,7 @@ The girl walks away.
 [sha:4c2d800161df982ff0d8ed14f18c2ae88ad31566]{
 -- Page 921, Offset 8108.
 -- 去り際、なんとなくではあるが、俺よりあの子の方が何倍も体調が悪かったのでは、と思ってしまった。
-As she left, I somehow got the feeling that her physical condition was far more dire than my own.
+As she leaves, I somehow get the feeling that her physical condition is far more dire than my own.
 }
 [sha:b4d62e1584997661a6bc34015e4fc35091af09d8]{
 -- Page 922, Offset 8109.

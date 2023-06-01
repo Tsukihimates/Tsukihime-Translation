@@ -21,8 +21,10 @@ A hot summer day.
 [sha:b79caec5fb27187a6db4c5d652730be4aef95024]{
 -- Page 449, Offset 6801.
 -- 青い空と　おおきなおおきな入道雲。
+// Same as 09_00_ARC09_1 / 11_01_CIEL11_1 except they use 大きな
+// LintConsistency:21298
 The blue sky.
- Large, large clouds towering above.
+ Huge, towering thunderheads on the horizon.
 }
 [sha:c12e997c9c8593402cca860e0f4c8623cb0ab971]{
 -- Page 449, Offset 6802.
@@ -125,17 +127,17 @@ The sun's rays bounce across my slick hands.
 [sha:5f3adb61b55f91bafbd433c4c62b9f2efddcddce]{
 -- Page 453, Offset 6821.
 -- ああ。この両手は、　　　　　　　つめたい
-Ah. These hands...                 are cold.
+Ah. These hands...                            are cold.
 }
 [sha:8dbb706212c1a99af373013baaafc049c8d63e38]{
 -- Page 453, Offset 6822.
 -- 倒れている子供の　　　　　　　　つめたい
-The collapsed child                 is cold.
+The collapsed child                            is cold.
 }
 [sha:d0d48e59dfe6baba77869ba1d636584b43781cc0]{
 -- Page 453, Offset 6823.
 -- ぶちまけた血で赤いのだ。　　　　あたたかい。
-The blood spilling out is red.    It's warm.
+The blood spilling out is red.               It's warm.
 }
 [sha:1493c33a585121340d31e90514be6f979740ff95]{
 -- Page 454, Offset 6824.
@@ -175,7 +177,7 @@ They shout at me, demanding to know if I killed him.
 [sha:b34fd3ed49a39832a9b24ff062f7eb384854219a]{
 -- Page 456, Offset 6831.
 -- もう日が落ちちゃってるじゃない」
-The sun has already gone down."
+The sun has already set."
 }
 [sha:1af37d4072016b0aef88acbb88aa9cbe7057aea7]{
 -- Page 457, Offset 6832.
@@ -271,7 +273,8 @@ If I fall asleep while I'm supposed to be standing guard, I'm no more useful tha
 -- Page 464, Offset 6849.
 -- なのにどうして、身の危険とか感じないで眠っちゃったりできるのかなあ。少しは緊張して眠れないとか、<畏|おそ>れ<敬|うやま>うとか、そういう反応してもいいんじゃない？」
 How come you were able to just fall asleep like you aren't even afraid of me?
- Couldn't you at least have been a little too nervous to close your eyes, struck by terrible awe, or something along those lines?"
+ Couldn't you at least have been %{i}slightly%{/i} too nervous to close your eyes,
+ struck by terrible awe, or something along those lines?"
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 465, Offset 6850.
@@ -286,7 +289,7 @@ Alright... maybe %{i}entirely%{/i} my fault is taking it a bit too far.
 [sha:4cdc33194d6974d999c804e931f3193c7e73c202]{
 -- Page 465, Offset 6852.
 -- こいつ、俺が見張り役をしていなかった事より、フツーに眠りこけていた事がたいへんご立腹らしい。
-This woman actually seems more upset by the fact that I was able to sleep around her than by the fact that I wasn't on guard duty.
+This woman actually seems more upset by the fact that I was able to fall asleep around her than by the fact that I wasn't on guard duty.
 }
 [sha:330101df861cd3f36a583ca479faa6684636c1b2]{
 -- Page 466, Offset 6853.
