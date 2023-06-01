@@ -1305,7 +1305,7 @@ True Ancestor Reborn (Rampage)
 }
 [sha:f6c4c4259182a51151190958f5b1c13ba434b02b]{
 -- 光体出現
-Luminous Body Appears
+Luminary Manifestation
 }
 [sha:66759872f530183a53db14fbadde47ec7e558a99]{
 -- 魔眼、覚醒
@@ -3856,7 +3856,7 @@ Farewell
 // Actually a reduction of 名残惜しい in the style of 名残の茶/折
 // Same as True (13527de3) but without the moonlit
 // @flowchart_title
-One last parting dream
+One Last Parting Dream
 }
 [sha:b992a4307335a2668860c4408f7bf7ffa40bda9c]{
 -- 嫌いにはなれない。
@@ -3873,7 +3873,7 @@ Event Storage
 -- 世界の悲鳴
 // Ref 38742.
 // @flowchart_title
-The Screech of the World
+Screech of the World
 }
 [sha:5103f102e2e3b61a5d71bf234b0b3ae8728dd886]{
 -- 狙撃
@@ -3892,11 +3892,10 @@ The voice of Roa
 }
 [sha:0f44fc481a370f563f66fc67b126c75945e5ec33]{
 -- 180秒臨界決戦
-// This supposed to be 臨界 as in critical [mass, state]?
-// There's a bunch of space-warping by Arcueid.
-// Absolute bear to cram into the char limit though.
+// 臨界 here is used more in the older sense, closer to 境界
+// 臨界決戦場 is also the name of P. Ciel's stage in MBTL
 // @flowchart_title
-180s Decisive Criticality Fight
+180 Second Battle at the Boundary
 }
 [sha:9809c60b2e8cd3ec6374c67d2695f5309a8a782e]{
 -- クラーケ　Ⅲ
@@ -3916,7 +3915,7 @@ Manifestation
 [sha:88e17d9e4f2682a2d8b43732ed671ee1391595fe]{
 -- 最後の警告
 // @flowchart_title
-Final warning
+Final Warning
 }
 [sha:ba82e601fc8eeaf8ac5a2689aa1556e0ef4a8e73]{
 -- それがどうした、黙ってろ。
@@ -4000,7 +3999,7 @@ Waking
 // Actually a reduction of 名残惜しい in the style of 名残の茶/折
 // Same as Normal (b7d5ce99) but with 月の光
 // @flowchart_title
-One last moonlit parting dream
+One Last Parting Dream - Moonlit
 }
 [sha:2b97c3ada6620bac788f0f7f44ea1bdfd5dd2bf5]{
 -- 16日目・深夜
@@ -7081,14 +7080,17 @@ I pierce her with my knife.
 }
 [sha:b75f12c5fc4b10f3143bdf364f5969ae08628f5f]{
 -- この命はじきに停止する。^だが、ロアの自由にはさせない。^残された方法はただひとつ。
+// Ref 38257
 // @flowchart_descr
 My life will soon be at an end.
  But I can't allow Roa to roam free――there is only one thing left to do.
 }
 [sha:f788a3d127b76c2c93e5a3c7779e64f976641378]{
 -- 彼女を嫌いにはなれない。^……だからこそ、^その間違いは見逃せない。
+// Ref 38316/38317 (we swapped a bit there)
 // @flowchart_descr
-I can't bring myself to hate her... But that's also why I can't overlook this mistake.
+I can't bring myself to hate her...
+ Which is why I could never let her get away with making such a mistake.
 }
 [sha:38f8a4fe97826804256cb05ebc3d66a8b8d336ce]{
 -- 本来の力を顕すアルクェイド。^二人は学校まで撤退し、^戦いに備える。
@@ -7101,10 +7103,11 @@ Arcueid reveals her true power.
 -- 第七聖典による狙撃を^敢行するシエル。^渾身の一射は、はたして。
 // @flowchart_descr
 Ciel uses the Seventh Scripture to snipe her target.
- Her first shot, with all her strength behind it, goes as expected.
+ Will her shot, with all her strength behind it, strike down her foe?
 }
 [sha:14bff6ca7cbc7552d9313f4d39e210febb6c17e8]{
 -- 街が熔け、消える。^これは自分と志貴だけの世界。^なのに邪魔者が混ざっている――
+// Ref 39061 & 39062
 // @flowchart_descr
 The city melts away and vanishes.
  A world for just Shiki and me.
@@ -7114,7 +7117,8 @@ The city melts away and vanishes.
 -- 校舎の屋上へと駆け上がる。^夜を照らす閃光の中、^内から語りかける声を聞く。
 // @flowchart_descr
 I rush up to the roof of the school.
- As a flash of light illuminates the city, I listen to the voice inside my head.
+ As a flash of light illuminates the city,
+ I hear a voice start talking to me inside my head.
 }
 [sha:e0e22a7f7ff19b9f9182de198745261c252afa05]{
 -- 完全武装シエル、対、^真祖アルクェイド。^勝利の星はどちらに輝く。
@@ -7138,7 +7142,7 @@ The True Ancestor royal has been repelled...
 [sha:8eb442889ddd0cbc38c808c30eb3e25fb8d7a7e2]{
 -- 光体出現。^シエルを救う為、^志貴は人智及ばぬ圏内へ。
 // @flowchart_descr
-The Luminary appears.
+The Luminary manifests.
  In order to save Ciel, Shiki advances into the humanly incomprehensible zone of influence.
 }
 [sha:609ef1fe27daee7a4eecdb58c41f3538a8a0af75]{
@@ -7157,7 +7161,7 @@ I tell the stranger in my head to shut up.
 [sha:43a21951246fb02775084d4a9c12b0aaf88eebf4]{
 -- ロアは語る。^勝ち目が存在しないのなら、^何を“勝ち”とするべきかを。
 // @flowchart_descr
-Roa speaks.
+Roa explains.
  If I have no way of seizing victory,
  then what should I consider to be my victory condition?
 }
@@ -7273,20 +7277,20 @@ I reconcile with the vampiress, and say my farewells.
 // @flowchart_descr
 My head is pounding.
  There's no future for me outside this room.
- If I stay in here, I'll die.
+ But if I stay in here, I'll die.
 }
 [sha:819b410c2eae5c24a8cd68f52a8c3809324d2887]{
 -- 現れる真祖の姫。^幾度めの逢瀬は^甘いものではなく。
 // @flowchart_descr
 The princess of the True Ancestors appears.
- Our umpteenth tryst is not so sweet.
+ But our umpteenth tryst is not so sweet.
 }
 [sha:18e2eb03c2b1b41c5929950f462ad5028f6cf8ac]{
 -- 爪とナイフがぶつかり合う。^吸血鬼と化した体は躍動する。^だが、この女の線は見えない――
 // @flowchart_descr
 Knife clashes with claws.
  My vampirized body moves like a charm.
- But, I can't see her lines at all――
+ But, I can't see her lines at all.
 }
 [sha:1f125b8729597c514c763e49ecbf7e92544bc9d8]{
 -- 喪ったとしても、^救えるものはあるはずだ。^人生は続く。
