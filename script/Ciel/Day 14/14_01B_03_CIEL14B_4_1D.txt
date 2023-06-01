@@ -311,9 +311,9 @@ I'll be borrowing your left hand."
 -- Page 87, Offset 40502.
 -- なに、<引力|アトラクション>だよ、引力。
 // Both of these 引力s are voiced as アトラクション
-%{i}
-Just some simple '%{/i}<%{i}gravity manipulation%{/i}|%{i}a t t r a c t i o n      %{/i}>%{i}', as you can see.
-%{/i}
+// Need to use second fontbank for italics instead of PUA here for ruby
+@g
+Just some simple '<gravity manipulation|a t t r a c t i o n    >', as you can see.
 }
 [sha:b1c367931575e4995e13b4b285298f64d9aab5fe]{
 -- Page 87, Offset 40503.

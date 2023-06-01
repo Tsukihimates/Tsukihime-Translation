@@ -62,12 +62,13 @@ I get up from the bench.
 [sha:daa3ccd97a6a08df69f9cd214ef23c9d84fe3986]{
 -- Page 145, Offset 8542.
 -- 学校にも屋敷にも戻らない。
-I'm not going back to school or the mansion.
+I'm not headed to school or the mansion.
 }
 [sha:532eb33d544cd3880ad8e65ee9ecf6b72dca9260]{
 -- Page 145, Offset 8543.
 -- 俺は振り返らず、もう一度ホテルへと走り出した。
-Without looking back, I start to run back toward the hotel.
+With all doubts gone from my mind,
+ I start to jog back toward the hotel.
 }
 [sha:21a26ae63ac1d9629890f9d17dda0e3d338f6718]{
 -- Page 146, Offset 8544.
@@ -107,12 +108,13 @@ As you can see, she's already awake and fuming with anger.
 [sha:de6aa6fe68f6523708b5310e7cfd2b40307871e6]{
 -- Page 149, Offset 8551.
 -- 「志ぃ～～～～貴ぃ～～～～………！」
-"Shi～～～～ki～～～～!"
+// These ～ look pretty clownish mixed in with the EN
+"Shiiikiiii!"
 }
 [sha:0deed5fcf698b7eed202a77c9d8b64a4e6781ac2]{
 -- Page 149, Offset 8552.
 -- 「あわ、あわわ……！」
-"Uh, uhhh!"
+"%{i}Uh%{/i}, %{i}uhhh%{/i}!"
 }
 [sha:d9b92fcdf95ad6332312348618750b9179f2d163]{
 -- Page 150, Offset 8553.
@@ -144,12 +146,14 @@ I may have surreptitiously run away... but I came back, didn't I?!
 [sha:fffa9980ef659a598528097bbb893ebd75cd0618]{
 -- Page 152, Offset 8558.
 -- いまさら弁明しても後の祭りだが、しないで殺されるのは逃げ出すよりみっともないので全力で言い訳する。
-It's already too late to try and explain myself, but if I end up getting killed without even attempting it, that would be even more shameful than having run away in the first place, so I'll do my best to make excuses.
+It's already too late to try and explain myself,
+ but if I end up getting killed without even %{i}attempting%{/i} to that would be even more shameful than having run away in the first place,
+ so I'll do my best to make excuses.
 }
 [offset:8559]{
 -- Page 152, Offset 8559.
 -- ……と。
-However...
+Except―――
 }
 [sha:06039666d699f2c3e8152ebcb88325e693f9e139]{
 -- Page 153, Offset 8560.
@@ -204,8 +208,8 @@ But it doesn't seem like her anger stems from thinking I betrayed her.
 [sha:0efe7ce985ab6e7aa23158e1422c581115e3d3e7]{
 -- Page 157, Offset 8570.
 -- 「本気……？　使い魔に見つかった以上、志貴だって安全じゃないのよ。無闇に外に出ていって、またあの黒豹に襲われたらどうするつもりだったの？」
-"Are you serious...?
- Now that the familiars have found you, you're not safe anymore either.
+"Are you serious?
+ Now that the familiars have seen us, you're not safe anymore either.
  If you go wandering around outside and get attacked by that black panther again,
  how exactly do you plan on dealing with it?"
 }

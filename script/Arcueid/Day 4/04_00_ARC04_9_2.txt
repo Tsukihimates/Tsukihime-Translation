@@ -6,7 +6,7 @@ I'll stay in the room and see what happens.
 [sha:a22ee635417485e61246a3d3410cd4db0b2a33b5]{
 -- Page 10031, Offset 8150.
 -- アルクェイドが動けない以上、無闇に外に出るのは危険だ。
-With Arcueid unable to move, it would be suicide to venture outside of this room without a plan.
+With Arcueid unable to move, it would be suicide to venture outside without a plan.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 937, Offset 8151.
@@ -135,7 +135,7 @@ Arcueid whispers to me in the dark.
 [sha:d1cc40b55ad1b556f87548584bc96abf9abb05ad]{
 -- Page 943, Offset 8175.
 -- 「……覚悟って、なんの……」
-"Ready... for what...?"
+"Ready... for what?"
 }
 [sha:5eaa6bb7def6bbd1ee11e714b12018883fa43d6c]{
 -- Page 943, Offset 8176.
@@ -158,10 +158,10 @@ Then was it also a mistake to ask that question?
 I hear the sound of the door being broken down,
  and whirl around to face it.
 }
-[sha:78a458b3e699d1c89aa7f0d671f6c706a2d2b869]{
+[offset:8180]{
 -- Page 946, Offset 8180.
 -- 「――――！」
-"―――!"
+"%{i}Gah%{/i}!"
 }
 [sha:50ddcfe09a0de229fbaf1d9b929ffc85071f3576]{
 -- Page 946, Offset 8181.
