@@ -1,12 +1,13 @@
 [sha:3fad439fc98e2d10a1937811e1623c38f708d1c7]{
 -- Page 10010, Offset 6177.
 -- 「―――そっか。うん、いい人なんだね、あなた」
-"―――I see. Yeah, you're a good person, aren't you?"
+"I see... Yeah, you're a good person, aren't you?"
 }
 [offset:6178]{
 -- Page 10010, Offset 6178.
 -- 「……？」
-"...?"
+// Not voiced
+Huh...?
 }
 [sha:ff30e0be48a88774e4a0e611edd24c190ed17202]{
 -- Page 221, Offset 6179.
@@ -21,7 +22,7 @@ The woman is smiling.
 [sha:16b95d96a8a0e3b9f4a6d2db62dadad4cb1851b5]{
 -- Page 221, Offset 6181.
 -- 自分の事を吸血鬼だなんて言うクセに、まっすぐで、これ以上ないっていうぐらいの顔で。
-Even though she said she's a vampire, she has a very honest face.
+For being a self-proclaimed vampire, she sure has an honest face.
 }
 [sha:469fd8dd0a8e404c03056c3b6bb2656b6055dc91]{
 -- Page 222, Offset 6182.
@@ -47,7 +48,8 @@ She smiles at me again,
 [sha:08001631d0f3231eb6c593b8ff4fb5a3eeaefa0f]{
 -- Page 223, Offset 6186.
 -- 手伝い……手伝い……？
-Help... help her...?
+She wants me to help her...
+ Help her?
 }
 [sha:b87891f5f60a91651dbc5e817683ede1454ddbca]{
 -- Page 224, Offset 6187.
@@ -95,7 +97,7 @@ Also, back up for a sec――what do you mean get rid of the vampire?
 [sha:4cab801c0433a78defefe7a92978cdf70c05a4f5]{
 -- Page 226, Offset 6195.
 -- あなた、この街に住んでいる人でしょ？
-You live in this city, right?
+You live here, right?
 }
 [sha:e0b4a5a7aac2107a1c0b9f6ed132cc3677438131]{
 -- Page 226, Offset 6196.
@@ -110,14 +112,14 @@ Then you must know about the recent murders."
 [sha:98e47c4bbc5fddce7362997fe867a0db55b4c242]{
 -- Page 227, Offset 6198.
 -- 聞き覚えのある世間話を振られて、混乱した頭がクールダウンする。おかしな話だが、殺人事件という異常な話の方が、いまの状況より何倍もリアルな話だった。
-The familiar words cool down my confused mind.
+The familiar words give my confused mind something to latch onto.
  It's strange, but the crazy story of the serial killings feels way more real than the current situation.
 }
 [sha:c298f56bdea0f222c3054a7a9bb019dedcfb6918]{
 -- Page 228, Offset 6199.
 -- 「……そりゃあ知ってるよ。連続通り魔だろ。もう何人も殺されてる事件で、被害者は血液を抜かれて―――」
 "Yeah... I know about them.
- The serial killings right?
+ You're talking about the serial killings, right?
  Quite a lot of people have already been killed,
  and all the victims were found drained of their blood―――"
 }
@@ -179,7 +181,7 @@ You're all going around saying 'this is the work of a vampire',
 [sha:71bf7fb12605228a39efc415891a58ca374d4cf4]{
 -- Page 233, Offset 6210.
 -- 「いや、だって、吸血鬼なんているハズないだろ？」
-"Sure, but like, it's not as though vampires actually %{i}exist%{/i} right?"
+"Sure, but like, it's not as though vampires actually %{i}exist%{/i}, right?"
 }
 [sha:ff9cf56e351f4c341fc2df5511532439b80a5da0]{
 -- Page 233, Offset 6211.
@@ -281,7 +283,7 @@ Do you have any idea how it feels to be constantly swinging back and forth betwe
 [sha:b37a2b3fc99333347513883a7841b6c5640215d5]{
 -- Page 240, Offset 6229.
 -- すまない。人間として、想像できる範疇を超えている。
-I'm sorry. As a human being, this is beyond anything I can imagine.
+I'm sorry. As a human being, that's beyond anything I can imagine.
 }
 [sha:4927411a6a674709ae902ec722bf62bac1d6803f]{
 -- Page 241, Offset 6230.
@@ -333,7 +335,7 @@ But...
 [sha:de3b243e899d8c8711b59d301dae58492da9ebbf]{
 -- Page 245, Offset 6239.
 -- 「―――そうね。
-"―――I wonder.
+"―――I'm not sure.
 }
 [sha:f2ef24c48d90d9dc26d2e4e9c1b5d61480e619a7]{
 -- Page 245, Offset 6240.
@@ -354,7 +356,7 @@ I've also used up a bunch of my power,
 [sha:239a7eee515cec03cd92b4be97e022a49b270e7a]{
 -- Page 246, Offset 6243.
 -- 「え？　そんなこと言った、わたし？」
-"Huh? Did I really say something like that?"
+"Huh? Did I really?"
 }
 [sha:22c7d70a2c21055175b628c66f7d9e83a279b822]{
 -- Page 246, Offset 6244.
@@ -369,7 +371,7 @@ A particular %{i}kind%{/i} of shield, too.
 [sha:f4e229ccaaa29dc202fc7ad099833040c03da3c6]{
 -- Page 247, Offset 6246.
 -- 「なによ、そんなの当然じゃない。
-"What, I mean isn't it natural that I would?
+"What, I mean it's only fair, don't you think?
 }
 [sha:c9349a767b3bd50924beef0ca329d8219d73270e]{
 -- Page 247, Offset 6247.
@@ -379,7 +381,7 @@ I've forgiven you, sure, but only insofar as it concerns my own personal feeling
 [sha:ddd1947fc83cabd4ec313b5ff413129c72ff4dde]{
 -- Page 247, Offset 6248.
 -- あなたが犯した殺害という行為そのものは、やっぱり気持ちじゃなくて行為で<贖|あがな>うしかないでしょ？」
-You still need to atone for the murder you committed with deeds rather than words, don't you think?"
+You still need to atone for the murder you committed with deeds rather than words, wouldn't you agree?"
 }
 [sha:e7104792a4d1f34498f6d9eef087bc7837d91041]{
 -- Page 247, Offset 6249.
@@ -446,7 +448,7 @@ Her anger from last night, forgotten until now,
 [sha:8cab865f873fe7c9a360187184a9ca8a15fb1b75]{
 -- Page 252, Offset 6261. Mods: @k, @e.
 -- 二晩も経てば回復するだろうけど、その前に襲われたら打つ手がないの。
-I'll probably be back to normal in two days' time,
+I'll probably be back to normal in two days or so,
  but if I get attacked before then, it's game over for me.
 }
 [sha:4f7de02f18fb6154ff78ea9047a28f329c676faf]{
@@ -457,12 +459,13 @@ I'll probably be back to normal in two days' time,
 [sha:c09aab5309589cde5f4386835bc1847d662c5499]{
 -- Page 252, Offset 6263.
 -- 「いや、もらうからって、なに勝手に決めてんだよ!?」
-"No, you can't just go ahead and decide to make me your shield!"
+"Hey, you can't just go ahead and decide to make me your shield!"
 }
 [sha:c701a3e0d16775e16846931b5d4a546710a63f85]{
 -- Page 253, Offset 6264.
 -- 「あなたのせいでこうなったんだから、それぐらいはして当然でしょう？
-"It's your fault that I'm in this situation, so you should at least do that much, right?
+"It's your fault that I'm in this situation.
+ This seems like the least you could do, right?
 }
 [sha:b818a95a84d646cda2ab6ac72c795b6735e95458]{
 -- Page 253, Offset 6265.
