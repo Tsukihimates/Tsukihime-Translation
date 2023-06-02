@@ -1,27 +1,28 @@
 [sha:7e0f467c3e37bcccaed52ef533a9f856c25596c8]{
 -- Page 10001, Offset 10920.
 -- “アルクェイドの力が回復するまで待つ”
-'We'll wait until your strength returns.'
+I tell Arcueid I'll wait until her strength returns.
 }
 [sha:1e6ee174f33f34f897a996278779687cf59d0b6d]{
 -- Page 10001, Offset 10921.
 -- その方針が決まって安心したのか、アルクェイドはすぐに眠りについた。
-Relieved by this plan, Arcueid soon fell asleep.
+Reassured that we were both on board with the plan,
+ Arcueid soon fell asleep.
 }
 [sha:8917ae2638446bdaaf9c3d852cd2a580de81c8f9]{
 -- Page 20, Offset 10922.
 -- 俺はそれを見届けてマンションの外に出た。
-I watched her until I was sure she was asleep, then left the apartment.
+I watched her until I was sure she was sound asleep, then left the apartment.
 }
 [sha:e61497e4602d2b7d307ab294c97812c97e86881b]{
 -- Page 20, Offset 10923.
 -- ……向かう先は言うまでもない。
-My destination is obvious.
+It should be obvious where I'm headed:
 }
 [sha:51cccbdc62d97b14d1e1b60cb174deab5ec200d5]{
 -- Page 20, Offset 10924.
 -- ヴローヴの根城があるという、駅前のデパートだ。
-It's the department store in front of the station where Vlov's stronghold is.
+The department store by the station, where Vlov's stronghold is located.
 }
 [sha:4d62a7a14946472864c72fa2735f4a652497e37d]{
 -- Page 21, Offset 10925.
@@ -52,12 +53,12 @@ Even now, crowds of people are making their way in and out.
 [sha:ec861ab6fc95f9775a775383ce12b32853834ea2]{
 -- Page 23, Offset 10930.
 -- 「……駅前の一等地だぞ、ここ。
-"This place is prime real estate in front of the station.
+"This place is prime stationside real estate.
 }
 [sha:c94ec530040b31781b78069501ed473b18e8e320]{
 -- Page 23, Offset 10931.
 -- 吸血鬼なんて影も形もないだろ……」
-There's no way any vampires are lurking here..."
+There's no way there could be any vampires lurking here..."
 }
 [sha:020db4e0593f36431ee0067f0a820d1c1391c539]{
 -- Page 24, Offset 10932.
@@ -78,17 +79,17 @@ It may be precisely %{i}because%{/i} she's not bound by common sense that she ar
 -- Page 25, Offset 10935.
 -- 「そういえば……有彦のヤツ、北口でおかしな話があるって言ってたな……」
 "Come to think of it...
- Arihiko did say that some strange rumors were circulating on the north side of the station..."
+ Arihiko did say that some strange rumors were circulating on the north side of the station."
 }
 [sha:ea37191c571c23d7c8e7fe19805557fcaea63100]{
 -- Page 26, Offset 10936.
 -- “誰にでもできて割のいいアルバイトがある”
-'There's a part-time job that anyone can do and it pays well.'
+'There's a part-time job that takes anyone, and pays handsomely.'
 }
 [sha:f3ddecb7f629b2efd916e8f8e2d9acc539a2b167]{
 -- Page 26, Offset 10937.
 -- 信憑性のない都市伝説、子供だましの誘い文句だ。
-It's an urban legend with no credibility, a transparent ploy that almost certainly spells trouble.
+It's an urban legend with zero credibility. A transparent ploy that almost certainly spells trouble.
 }
 [sha:0cb6d11966d2d0344349f2795ea4c1c3332bd5ee]{
 -- Page 26, Offset 10938.
@@ -136,7 +137,7 @@ Except―――
 [sha:212b934f3f0e9dbad9b248198e0bd4a81ddd8079]{
 -- Page 30, Offset 10946.
 -- 「……七階から<上|うえ>がない。このデパートの大きさから考えれば、十階ぐらいはあるはずなのに……」
-"There isn't anything above the seventh floor... Considering the size of this department store, it should have at least ten floors..."
+"There isn't anything above the seventh floor... Considering the size of this department store, it should have at least ten floors."
 }
 [sha:24942433ab9c43f53f2146f045e653a6c299c18e]{
 -- Page 31, Offset 10947.
@@ -151,7 +152,7 @@ Aiming for a moment when no one is around, I slip past the no-entry rope and cli
 [sha:c759ada10cc8a95268d574bfc61bf2f47d8e78d9]{
 -- Page 32, Offset 10949.
 -- 階段は上階まで続いているものの、そこで行き止まりだった。
-The stairs lead up to the upper floors, but I hit a dead end.
+The stairs lead up to the floors above, but I hit a dead end.
 }
 [sha:54e4ca2cc19202c4c6d42927447d09267269cedc]{
 -- Page 32, Offset 10950.
@@ -167,12 +168,12 @@ Next to it, there is a locked emergency door.
 -- Page 33, Offset 10952.
 -- 「……何かあるとしたら、この向こうか……」
 // Reified for flow 何かあるとしたら、この向こうか
-"If there's anything here, it's on the other side of this door..."
+"If there's anything here, it's on the other side of this door."
 }
 [sha:e531bc1b8264b2ca1ae1f356baa59843a18971ec]{
 -- Page 33, Offset 10953.
 -- 中に入るか、ここで戻るかを思案する。
-I ponder whether to go inside or to turn back.
+I debate whether to go inside or turn back.
 }
 [sha:f7cb885a7b52ccfc52f6d2a930279c3484244cc0]{
 -- Page 34, Offset 10954.
@@ -231,7 +232,7 @@ But what would that achieve?
 [sha:1d3d15772653dc7a75c715d7bc1c266de431d85f]{
 -- Page 37, Offset 10964.
 -- 手に負えなければあいつの部屋に戻ればいい……」
-If things get out of hand, I can go back to Arcueid's room..."
+If things get out of hand, I can always go back to Arcueid's room."
 }
 [sha:ee640d74b1e34f318bde1ca4e4dcc5b43d799b89]{
 -- Page 38, Offset 10965.
@@ -246,7 +247,8 @@ I swallow nervously, feeling the saliva trickle down my numbed throat.
 [sha:930d8ccc34bcb4b5048151ccc033b2bf94f58e43]{
 -- Page 38, Offset 10967.
 -- 俺は深呼吸をして気持ちを落ち着かせ、電気の明かりの途絶えたフロアに滑りこんだ。
-After taking a deep breath to calm myself down, I slink up to the floor where the lights had gone out.
+After taking a deep breath to calm myself down,
+ I slink up to the next floor, where all the lights are out.
 }
 [sha:daac6f75a83e3477b2860fb4120ece9b620ea8e2]{
 -- Page 39, Offset 10968.
@@ -256,17 +258,19 @@ The entirety of the eighth floor is pitch black.
 [sha:7d2e2890a586f1b04959dd1e28da552d5b2a3339]{
 -- Page 39, Offset 10969.
 -- 電灯が消えているのだから当然と言えば当然だが、それでも予想外すぎた。
-It's only natural considering that the lights are off, but it's still very unexpected.
+In a way it makes sense,
+ considering all the lights are off,
+ but it still comes as a shock.
 }
 [sha:be018f3d6b14f28b88ee084f6eca5c3c4c0ab5e4]{
 -- Page 39, Offset 10970.
 -- 今は日中だ。たとえ電気が通っていなくとも、窓からの陽差しで明るくなくてはいけない。
-It's daytime. Even if the power is off, the floor should still be bright from the sunlight coming through the windows.
+It's daytime. Even if the power is off, the floor should still be lit by the sunlight coming through the windows.
 }
 [sha:0d5a8f0c14bfdb53a40c5b6e4e76fca71e760db5]{
 -- Page 40, Offset 10971.
 -- しかし、実際はこれだ。窓という窓は内側から鉄板のようなもので塞がれている。
-However, each and every window is blocked from the inside by something that looks like an iron plate.
+Except, each and every window is blocked from the inside by something that looks like an iron plate.
 }
 [sha:885dfc0b19d0adc87fd6bebb6f441010ce0bf117]{
 -- Page 40, Offset 10972.
@@ -287,7 +291,7 @@ It's like a pathological obsession. And yet, the work is messy.
 -- Page 41, Offset 10975.
 -- 鉄板の大きさは窓の大きさと微妙に一致していない為、わずかな隙間から陽差しが入っている。
 The size of the steel plates doesn't quite match the size of the windows,
- so some sunlight still slips through the cracks.
+ so some sunlight still seeps through the cracks.
 }
 [sha:f5916fec471d90c24a7bce0c744c66e2a001a76f]{
 -- Page 42, Offset 10976.
@@ -323,17 +327,17 @@ This floor is probably just under renovation.
 [sha:fbffe7712d1939f08544a4b65b559fb84a4990f9]{
 -- Page 45, Offset 10982.
 -- ホテルの時のような惨状は影も形も見当たらない。
-I don't see anything that's reminiscent of the disaster that happened at the hotel.
+Nothing here reminds me of the gruesome spectacle at the hotel.
 }
 [sha:282f5a5202e377101faf4fb43dbb3f0c1c5c4af1]{
 -- Page 46, Offset 10983.
 -- 「九階も奇麗なもんだ……アルクェイドのヤツ、何か勘違いしたのかな……」
-"The ninth floor is clean too... maybe Arcueid was off the mark..."
+"The ninth floor is clean too... maybe Arcueid was off the mark?"
 }
 [sha:53e1af3f9daacc4b144e91f220c6b0c3ed9bb701]{
 -- Page 47, Offset 10984.
 -- 張り詰めていた神経がわずかに緩む。
-I slightly release the tension in my nerves.
+My tensed nerves begin to relax a little.
 }
 [sha:f8c1f76e6d4a9dfe86baf7518cb56215476e8d9f]{
 -- Page 47, Offset 10985.
@@ -349,14 +353,14 @@ And then, at that moment―――
 [sha:09d41ac2c24741a8a07b19bc79f4a74c07c762fe]{
 -- Page 48, Offset 10987.
 -- 「ああ？　どこの誰だよテメエ、なーに勝手にヒトん家にあがってるんですかぁー？」
-// group pr check: fix the voices of these two
-"Huuh? Who the hell are you, and what are you doing, waltzing into someone else's house like that?"
+"Huuh?
+ Who the hell are you?
+ Fuck you doing waltzing into someone else's house like that?"
 }
 [sha:eee43959d1b957126da315fb83a2e643a3d4aa71]{
 -- Page 49, Offset 10988.
 -- 突然の人の声に身構える。
-// "Square up" feels a little casual, tense or brace seems better
-I tense up at the sudden sound of someone speaking.
+I tense back up at the sudden voice.
 }
 [sha:d5cd1b968ecb43301c426ece5bab8c9bfcbbe78d]{
 -- Page 49, Offset 10989.
@@ -382,22 +386,23 @@ They're both male, and around the same age as me.
 [sha:1ed881b432235ca6d7b2260725cc722372fb7b8d]{
 -- Page 50, Offset 10993.
 -- 手には懐中電灯だけ。バット、パイプといった長柄の道具は持っていない。
-They only have flashlights in their hands, no long-handed tools like bats or pipes.
+They only have flashlights in their hands; no long-handed tools like bats or pipes.
 }
 [sha:5205976bddeb3781be919f0ae304cb14947b8c28]{
 -- Page 51, Offset 10994.
 -- 「おーい、なに黙ってるんですかー？　ワルイコトしてる自覚あるんですかぁー？　なにコイツ、ダサくねぇ？　見るからにビビッてねぇ？　オレたちと人種違いすぎね？　なートシ、このメガネクンは知り合いですかぁー？」
 "Hey, cat got your tongue?
- Are you aware that you're doing something wrong?
- Man, what's with this guy, isn't he lame?
- He's clearly scared, right?
- He's a totally different breed from us, yeah?
- Hey Toshi, do you know this four-eyes?"
+ You realize you ain't supposed to be here right?
+ Dude this guy's lame as hell.
+ He's gotta be scared yeah?
+ Totally different breed to you and me.
+ Yo Toshi, do you know this dweeb?"
 }
 [sha:b357751ddd919c1e5d5fe6901db30f5707e1d9a6]{
 -- Page 52, Offset 10995.
 -- 「いやあ、知らない知らない。こんなオタクと知り合ってたらオレ、恥ずかしくて死んでるって。
-"Nah, no way. I'd have died of embarrassment if I knew a nerd like this guy.
+"No way dude, no way.
+ I'd die of embarrassment if this guy was a friend of mine.
 }
 [sha:5ccb9b3ce45e5abe5ac1c4006f63e5ef430b1b80]{
 -- Page 52, Offset 10996.
@@ -410,22 +415,29 @@ Hey, you there, get over here, will ya?
 [sha:b4952106ab816f61706ff095564f21b2dee945fd]{
 -- Page 53, Offset 10997.
 -- 二人組は笑いながら、その場所……エレベーターの前から動こうとしなかった。
-The duo laugh but don't move away from where they stand... in front of the elevator.
+The duo laugh, but don't move from where they stand in front of the elevator.
 }
 [sha:76af1446957f4d35a9cfef82bc522c4d2a65e9b9]{
 -- Page 53, Offset 10998.
 -- “逃げるな”と言いながら、俺がこのまま階段に逃げる事を考慮してもいない。
-'Don't run away' they said, but I didn't even consider fleeing via the stairs.
+They said not to run away, but I didn't even consider fleeing via the stairs.
 }
 [sha:48933c054c15402c5c31f1c7ae3178a1f9a01aeb]{
 -- Page 54, Offset 10999.
 -- 「あれ、なんか反応うすい？　逃げねえの？　フツー逃げるでしょ、このシチュ。トシ、コイツなんか怪しくねー？」
-"What's with the lack of response? Aren't you going to run away? It's normal to run away in this situation. Toshi, isn't there something fishy about this guy?"
+"What's his deal? He's just standing there.
+ Not gonna run?
+ This kinda sitch is where you run away, you know?
+ Toshi, this guy fishy to you or what?"
 }
 [sha:a61efe87dd4e1de5a68f5c905e83dfcff486dd16]{
 -- Page 54, Offset 11000.
 -- 「テメエの顔がクドすぎんだよ。メガネくんには刺激が強すぎるってもんだ。……なあ、そうだよな？　面食らってるダケだよな？　なんで立ち入り禁止のフロアで遊んでるワケ？」
-"Your face is so nasty, the shock was too much for that four-eyes... Hey, that's it, right? You're just confused, huh? Why are you messing around in an area that's off-limits?"
+"You're too damn ugly man, the shock was too much for him.
+ Hey, I nailed it, right?
+ Bet you're still reeling.
+ Anyway, what are you messing up here for?
+ Place is off-limits."
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 54, Offset 11001.
@@ -435,7 +447,7 @@ The duo laugh but don't move away from where they stand... in front of the eleva
 [sha:c84a9338d21153eb17749d10528153184ff508e7]{
 -- Page 54, Offset 11002.
 -- 暗闇で、二人組の目が、鈍く光った気がした。
-In the darkness, I thought I saw a dull glint in the eyes of the duo.
+In the dark of the hall, I could swear their eyes were glowing ever so softly.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 55, Offset 11003.
@@ -450,12 +462,12 @@ What do I do?
 [sha:26ac429166226ad81e354717e097d3a9a9bcc016]{
 -- Page 55, Offset 11005.
 -- 逃げ出すか、話を聞き出すか。
-Should I run away or try to talk to them?
+Should I run away, or try to talk to them?
 }
 [sha:a54bc3d503eb86f09d73493f59ca93af0555e214]{
 -- Page 55, Offset 11006.
 -- そもそもここは本当に吸血鬼の住み家なのか。
-In the first place, is this really that vampire's nest?
+I don't even know if this place is really that vampire's nest.
 }
 [sha:3e6400744008c0a4206823e6fe7494945b7b44c0]{
 -- Page 55, Offset 11007.
@@ -470,8 +482,7 @@ Can I %{i}confirm%{/i} that with these two guys?
 [sha:76644da562e7807b56bf87ab13d9c049cfe6ce2b]{
 -- Page 56, Offset 11009.
 -- なあトシ、アポのないヤツは好きにしていいって話だよな、たしか！」
-// Assuming the do what you want came from above, not Toshi, but correct me if I'm wrong
-Hey Toshi, they said we can do whatever we want with those who don't have an appointment, remember!"
+Yo Toshi, they said we can do whatevs with the ones that don't have an appointment, yeah?"
 }
 [sha:a92545850cf23a38701be4f4bf6722eee07753d8]{
 -- Page 57, Offset 11010.
@@ -481,7 +492,8 @@ Hey Toshi, they said we can do whatever we want with those who don't have an app
 [sha:66bfa446616ba76abb91e53e945cd529819a6df8]{
 -- Page 57, Offset 11011.
 -- で、どうなのオタク。ただの物好きなワケ？」
-So what's going on, nerd? Was it just on a whim?"
+What's the deal, nerd?
+ You just come here on a whim?"
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 57, Offset 11012.
@@ -512,7 +524,7 @@ I say it in a meek voice, keeping a close eye on the man named Toshi.
 -- Page 60, Offset 11017.
 -- 「……アルバイトねぇ。どこでその話を？　最近はバカな女連中にしか話してねえんだけどな」
 "A part-time job, huh?
- Where'd you hear about it?
+ Where'd you hear that?
  Only people I get to talk to these days are dumbass girls."
 }
 [sha:b42c98573909899a422338498379c92a49c78f90]{
