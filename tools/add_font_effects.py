@@ -70,6 +70,15 @@ def main():
         font, lambda g: g.transform(psMat.compose(
                 psMat.skew(ITALIC_SKEW_RADS), psMat.scale(-1, 1))))
 
+    # Bank 3 is fancy font
+
+    # Bank 4 is random custom glyphs
+
+    # Upside down
+    font.selection.select(*pua_range(5))
+    font.paste()
+    apply_origin(font, lambda g: g.transform(psMat.scale(1, -1)))
+
     # Export
     font.generate(sys.argv[2])
 

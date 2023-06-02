@@ -79,12 +79,12 @@ But even so―――
 [sha:b5300d63e4769ba42b99973b7267be01d8fe35e5]{
 -- Page 331, Offset 6470.
 -- 「……なにより、相手はあの通り魔殺人の犯人なんだろ。
-"On top of that... your opponent is the man responsible for the serial killings, right?
+"On top of that... your opponent is the one responsible for the serial killings, right?
 }
 [sha:485404b632ccc97ee0bfe6b27609a8b4558fbdfc]{
 -- Page 331, Offset 6471.
 -- なら、この街に住んでる人間として、おまえの手助けぐらいしないとバチがあたりそうだ」
-If he is, then as a resident of this city, it'd be remiss of me to not help you as best I can."
+In which case, as a resident of this city, it'd be remiss of me to not help you as best I can."
 }
 [sha:5cc3e0acd79f6095f96e415f9b86ed31670574f5]{
 -- Page 332, Offset 6472.
@@ -131,7 +131,7 @@ She can die and come back to life, make a tornado with a wave of her hand, and n
 [sha:01650f46b2fb80ed2cc5f07147428868fb9bc632]{
 -- Page 335, Offset 6480.
 -- 女は俺に手を差し伸べてくる。
-The woman reaches her hand out to me.
+The woman holds out her hand.
 }
 [sha:77fefcb58d88099267974ba0a18bc71f83f48ded]{
 -- Page 336, Offset 6481.
@@ -146,7 +146,7 @@ I'm Arcueid――well, it's a bit of a long name, so you can just call me Arcuei
 [sha:635382ea5817fe1d87e546dc9a8efa4650575618]{
 -- Page 336, Offset 6483.
 -- <真祖|しんそ>って区分けされる吸血鬼だけど、あなたはなんていう人？」
-I'm from the %{i}True Ancestor%{/i} caste of vampires, what sort of human are you?"
+I'm from the True Ancestor caste of vampires, what sort of human are you?"
 }
 [sha:b8e8fdf7176df253199fed2594ec4823b7cd0a94]{
 -- Page 337, Offset 6484.
@@ -218,5 +218,6 @@ Still, there's nothing else I can do right now.
 [sha:e03bca3d63302d606c991b4fe8b86719cb702b19]{
 -- Page 342, Offset 6497.
 -- 俺は嫌々ながら左手を差し出して、吸血鬼と名乗る白い女と握手をした。
-I reluctantly hold out my left hand and shake hands with the woman in white who calls herself a vampire.
+// Sinister shake
+I reluctantly hold out my left hand and shake hands with the woman in white who claims to be a vampire.
 }
