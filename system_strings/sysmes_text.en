@@ -72,15 +72,15 @@ Increase Movie Volume
 }
 [sha:eb5a8313257d26882ec18435548c6dc3588a81f8]{
 -- テキスト送り時にボイスを停止しません
-Keep Voice when Forwarding Text.
+Keep Voice when Forwarding Text
 }
 [sha:9d9d7fbd8a70c6165b5484535a350c46ebc5f071]{
 -- テキスト送り時にボイスを停止します
-Stop Voice when Forwarding Text.
+Stop Voice when Forwarding Text
 }
 [sha:c8f2f493f885e19250de912c15ed315cdd1f93aa]{
 -- ＢＧＭの音量を一定にします
-Set BGM Volume to Constant Level.
+Set BGM Volume to Constant Level
 }
 [sha:c50d11bbe710a9be20adf936edbda8d23488ecbe]{
 -- ボイス再生中にＢＧＭの音量を下げます
@@ -532,11 +532,11 @@ Remove Text Shadow
 }
 [sha:9e2c3a9b27a0ea199769628c68d72fb40760d4bb]{
 -- 文字に影を付けます
-Apply Text shadow
+Apply Text Shadow
 }
 [sha:a4c294fca2b0662b55747d4d7e950a7a9ecba2e4]{
 -- 文字の色を固定します
-Fix Text Colour
+Fix Text Color
 }
 [sha:69ff04a96feb145770fa489cae5801f081c7a6db]{
 -- 既読文の文字の色を変更します
@@ -576,35 +576,35 @@ Enable only Read Sentences to be Skipped
 }
 [sha:99ebfe245e742ea657d1c9d8afdb66867baa9ea5]{
 -- 選択肢でスキップを解除しません
-Enable Skipping at Choices.
+Enable Skipping at Choices
 }
 [sha:9c5b47a74fec6b56b79365b7a707f107301946bf]{
 -- 選択肢でスキップを解除します
-Disable Skipping at Choices.
+Disable Skipping at Choices
 }
 [sha:e514b33005a40db922939c4846d281cc018c3b2a]{
 -- 選択肢での自動セーブを設定します
-Set Auto-save at Choices
+Set Autosave at Choices
 }
 [sha:8202eb9705583f6ffbd4a2481222cb707b85ca73]{
 -- 選択肢で自動セーブしません
-Do not Auto-save at Choices
+Do not Autosave at Choices
 }
 [sha:9d7e1fff81875f02faf95fb790b44f02955af347]{
 -- 選択肢で自動セーブします
-Auto-save at Choices
+Autosave at Choices
 }
 [sha:f94d9cbd6b9dbf61e29ff426c0b7db1140941762]{
 -- シーンの頭での自動セーブを設定します
-Set Auto-save at Start of Scene
+Set Autosave at Start of Scene
 }
 [sha:a9e9a801c8057f489c07a8c5769f98d546bc6466]{
 -- シーンの頭で自動セーブしません
-Do not Auto-save at Start of Scene
+Do not Autosave at Start of Scene
 }
 [sha:a243c3713b2202ad8fbf27ef2e9983bf8bfae423]{
 -- シーンの頭で自動セーブします
-Auto-save at Start of Scene
+Autosave at Start of Scene
 }
 [sha:4d27b180033cbe2b780ae71bf30a84051bf9ecfd]{
 -- ボタンのヘルプテキストを表示しません
@@ -968,11 +968,11 @@ ReoNa
 }
 [sha:0866ad521a17ecdd1e769bd086c351a902f40738]{
 -- 深澤秀行
-Hideyuki Fukasawa
+Fukasawa Hideyuki
 }
 [sha:12a506768dd260e9506fd5bdd8d23302f40b9713]{
 -- 芳賀敬太
-Keita Haga
+Haga Keita
 }
 [sha:d03ed800211814459e4829577f3658d7052ccea8]{
 -- 毛蟹 (LIVE LAB.)
@@ -980,7 +980,7 @@ kegani (LIVE LAB.)
 }
 [sha:0805a28596c0b4bd37e6fa251421b54c9a6e6e6e]{
 -- 毛蟹 (LIVE LAB.),芳賀敬太
-kegani (LIVE LAB.), Keita Haga
+kegani (LIVE LAB.), Haga Keita
 }
 [sha:5ddecf5b4dfdc79e1dd0728b0473f36726ebd4d9]{
 -- フレデリック・ショパン
@@ -1288,6 +1288,7 @@ Star of Calvaria
 }
 [sha:cd86d7bb2b63a0f7dd90239022592d5185078771]{
 -- 巨人の庭
+// @flowchart_title
 Garden of the Giants
 }
 [sha:7dbd853573614b5c7a74ae86da22c9cf36513f37]{
@@ -1304,11 +1305,13 @@ True Ancestor Reborn (Rampage)
 }
 [sha:f6c4c4259182a51151190958f5b1c13ba434b02b]{
 -- 光体出現
-Luminous Body Appears
+Luminary Manifestation
 }
 [sha:66759872f530183a53db14fbadde47ec7e558a99]{
 -- 魔眼、覚醒
-Mystic eyes, wide awake
+// Only context for 覚醒 in game is 14_01B_02_CIEL14B_3_2, but it's more figurative there.
+// @flowchart_title
+Mystic Eyes ― Awakened
 }
 [sha:cede9c4a2fc703da3ac97327fc16e1ba48ee6276]{
 -- フランス茶道室
@@ -1332,7 +1335,10 @@ Primordial Earth
 }
 [sha:96e8a9474e1d4f40ad7ecd265762021e84c2beee]{
 -- 逆行運河／天体受胎
-Inverse Channel/Celestial Birth
+// Would ideally be Retrograde Channel/Celestial Conception
+// But that doesn't fit, so MBAACC localization here we go
+// @flowchart_title
+Retroflow / Celestial Conception
 }
 [sha:567746a5c883b0d5486479189abf04710e16ab61]{
 -- いつか、帰る日
@@ -1728,7 +1734,7 @@ I'll stay in my room and relax
 [sha:27d364257ffc44ac10bd678410d3872f6cad1d7d]{
 -- 消灯時間になった。
 // @flowchart_title
-Lights Out
+Lights-out
 }
 [sha:ece6dffda8564846aefac6254c1ab03dfa307a1a]{
 -- 断末魔
@@ -1982,8 +1988,9 @@ Blue Flame
 }
 [sha:bdf937340eac5c3a5ea9ae41705f206916e6f4d8]{
 -- 外の様子を探りに行く。
+// Ref 42613
 // @flowchart_title
-I'll go check outside
+I'll see what's going on outside
 }
 [sha:92c1aaacb608e1ff426669d982b34a284369cede]{
 -- ツギハギの世界
@@ -1992,8 +1999,9 @@ Patchwork World
 }
 [sha:c9c28a073ad8b4206228d99aa987198339635a8c]{
 -- ……部屋で外の様子をうかがう。
+// Ref 42614
 // @flowchart_title
-I'll stay put and observe
+I'll stay and see what happens
 }
 [sha:17cbc18f156ceac2ba7e67ad768b907f64fdee0b]{
 -- 最後の朝帰り
@@ -2003,7 +2011,7 @@ The Last Morning Trip Home
 [sha:a91faf84ebcea6cf7ce056579e1e9520be1a5e79]{
 -- いや、絶対に協力しない。
 // @flowchart_title
-No. I will never cooperate.
+No, I will never cooperate
 }
 [sha:29cd380ad618c80ee74a6711bc5e64f5f8d6b685]{
 -- ……酔狂はここまでだ。逃げよう。
@@ -2013,7 +2021,7 @@ Enough with all this... I'll run
 [sha:831109376c58b9c0e6dfd539268036c62e5b0919]{
 -- ホテルに戻ろうと思う。
 // @flowchart_title
-I'll go back to the hotel.
+I'll go back to the hotel
 }
 [sha:f3812d62f194e07264f25b4ececadc9f36effc8a]{
 -- 五日目・朝
@@ -2035,7 +2043,7 @@ Cleanup Crew
 [sha:5a73b90a08eb03be0f682a7fe3b306234b5bf79c]{
 -- 怪奇ガムテープ女
 // @flowchart_title
-The Bizarre Duct-Tape Woman
+The Bizarre Duct Tape Woman
 }
 [sha:537d6a17b37c9cfcb346150a59cccd3543514e6b]{
 -- 安静にしてください。
@@ -2224,7 +2232,7 @@ I can't, I need to breathe!
 [sha:9c1876e9334717705911c58bc10434bef62343e3]{
 -- 二十七祖
 // @flowchart_title
-The 27 Ancestors
+The Twenty-Seven Ancestors
 }
 [sha:16dbe00292042c1bb8aa3acded5cccea92b722c8]{
 -- 先輩に駆け寄る。
@@ -2236,7 +2244,7 @@ I rush over to Senpai
 -- 先生に駆け寄る。
 // Choice from 05_01_CIEL05_2_2B
 // @flowchart_title
-I rush over to Noel
+I rush over to Sensei
 }
 [sha:56e50a249a22c396129976ad04e03dfe4d7ffe50]{
 -- ノエル先生の個人授業
@@ -2301,7 +2309,7 @@ Goodnight
 [sha:c0a49c76874d2c7f947555ab0b5682bf925a1bc8]{
 -- 後処理
 // @flowchart_title
-Clean-up Crew
+Cleanup Crew
 }
 [sha:ffb72a762eb8497d77f5cf2674a3e1feff6fbc94]{
 -- 六日目・朝。
@@ -2661,7 +2669,7 @@ I greet her cheerfully
 -- そろそろと挨拶をする。
 // Ref 42645
 // @flowchart_title
-I greet her quietly.
+I greet her quietly
 }
 [sha:527f44e04dda3a0a7f711ec55e62844db180ad70]{
 -- とにかく謝るほかになく。
@@ -2826,7 +2834,7 @@ Senpai leaves the infirmary
 [sha:6e4ec901b025d077455a3d84808463d8309e4b7c]{
 -- シエルの不審な行動
 // @flowchart_title
-Ciel's Suspicious Behaviour
+Ciel's Suspicious Behavior
 }
 [sha:998f0cff972f6d9f70e51fbce8604bf5ed6eb28f]{
 -- 気になる。先輩を追いかけよう。
@@ -2864,7 +2872,7 @@ Senpai is precious to me
 [sha:63723cf392874d3f91961a5a765745664e123120]{
 -- 主に祈りは届きませり
 // @flowchart_title
-May the lord hear your prayers
+May the Lord hear your prayers
 }
 [sha:524b2bd53e2605a96fc40105e65663a2bf437223]{
 -- 1989年
@@ -3283,7 +3291,7 @@ No sign of who I'm waiting for
 [sha:1615a6a8d999b59ca72300e719ecf0cebd73a4f7]{
 -- 食堂エンカウント
 // @flowchart_title
-Dining hall encounter
+Dining Hall Encounter
 }
 [sha:b608319a7ebad62c50b9177d35ffbb07c81298fc]{
 -- シエル先輩は先輩ですよ。
@@ -3401,7 +3409,7 @@ End of a Reincarnate
 -- 明日から。
 // Reference to 28761 and 28758
 // @flowchart_title
-Starting tomorrow―――
+Starting tomorrow――
 }
 [sha:6e41e14883374d4702a3adbdac62d63b0aafcec1]{
 -- ボックス
@@ -3490,240 +3498,328 @@ Karmic Reckoning
 }
 [sha:d0b4aa5bc19aa56bab28a6bfa5793615d1697f77]{
 -- 14日目・朝
+// @flowchart_title
 14th day ― Morning
 }
 [sha:d19abb4bf74cf37310344424ff9e54010295f5c8]{
 -- これから。
-From now on.
+// Referencing the pre-choice text (30566).
+// Cheating a bit and using 30565 instead.
+// @flowchart_title
+What's Important to Me
 }
 [sha:71bc64fd80a4214352e3db67e0dbb6040ae3364a]{
 -- 無駄でもアルクェイドを捜す。
-I search in vain for Arcueid
+// 無駄 pushed to descr
+// @flowchart_title
+I'll search for Arcueid
 }
 [sha:dbf8b5f081909bb73a2f9f3792f39e44f6bec8fb]{
 -- 屋敷に戻る。
-Return to the mansion.
+// @flowchart_title
+I'll return to the mansion
 }
 [sha:fbb66646f9a17d012c5fb385d76f26f5393cf91e]{
 -- 自分だけでロアを探す。
-Find Roa by myself.
+// @flowchart_title
+I'll look for Roa by myself
 }
 [sha:50a24a9f5a2c6fbe78f4306ac2f6aea81b14ae31]{
 -- 復讐者
+// @flowchart_title
 Avenger
 }
 [sha:0f8037c99c08dbc9c09c70fc03ec1668a3b546a4]{
 -- もうひとりの、
-One more,
+// @flowchart_title
+One More Person
 }
 [sha:b8ee5885a72a48f67a45e6f480c62281cd5ac24b]{
 -- 14日目・朝。
+// @flowchart_title
 14th day ― Morning
 }
 [sha:c167f3fdff9a11acebbc05f40eccefb1e9d6e538]{
 -- 部屋に来たのは……。
-I receive a visitor...
+// @flowchart_title
+Into my room comes...
 }
 [sha:3a725ea94a00ffc6af7eda5495262b76326ef41c]{
 -- 普通の生活へ。
-What's she doing here?!
+// Roughly 30923.
+// @flowchart_title
+Return to Ordinary Life
 }
 [sha:60dfaaf96d624245c579baf4ee28a6babbd7f226]{
 -- なんでいるんですか。
-Look who's here.
+// @flowchart_title
+What's she doing here?!
 }
 [sha:e916011cf67c8ed56a87793086ae01329da56839]{
 -- 授業をサボるぐらいはしてる？
-You skip classes?
+// 42741.
+// @flowchart_title
+Does she skip classes?
 }
 [sha:a0729ab5aca447a5a86a5b3f642eb6592a7c9446]{
 -- 分身くらいはできるでしょ？
-You can clone yourself?
+// 42742.
+// @flowchart_title
+Can she clone herself?
 }
 [sha:1a89d263087b98e1c8c161e29f82ef0a081b1789]{
 -- 生徒会を牛耳ってる？
-You control the student council?
+// 42743.
+// @flowchart_title
+Does she run the student council?
 }
 [sha:1ea5bed6cf59e29b6fc5fd73b530333d12e2840e]{
 -- みんなのシエル先輩。
-Who would suspect Ciel-senpai?
+// Presumably in ref to 31073/4
+// @flowchart_title
+The Dependable Ciel-senpai
 }
 [sha:ff0c78651c2b89d3c68c12a7f97c4e43c9f6e2dc]{
 -- それは夢のような
-It's like a dream
+// @flowchart_title
+Like a dream come true
 }
 [sha:e7053b90bbfdcd41febb201d151cd348f36a9e82]{
 -- 部屋に戻ろう。
-Returning to my room.
+// @flowchart_title
+Returning to my room
 }
 [sha:c85c3f8a3c649e19579b0a3b41adff946e708529]{
 -- ……琥珀さんは邪魔だ。
-Kohaku-san is in the way.
+// Ref 42744.
+// @flowchart_title
+Kohaku-san is a nuisance
 }
 [sha:70b25a9a5d130005f8f1916ffc4ef3a74b670fd1]{
 -- ……琥珀さんの言う通りだ。
-Kohaku-san is right.
+// Ref 42745.
+// @flowchart_title
+Kohaku-san is right
 }
 [sha:2ea8ef56f8715e083f0a947415807670dfe061b4]{
 -- やまない頭痛。
-Relentless headache.
+// @flowchart_title
+Relentless Headache
 }
 [sha:010bce284da121defcb04ecb38ebc6a99f775ccc]{
 -- フラストレーション
+// @flowchart_title
 Frustration
 }
 [sha:393a941ca6d06877516607a1eefe20d3c798f826]{
 -- 憑影牢
-Possessed prison of shadow
+// @flowchart_title
+Imprisoning my Haunted Shadow
 }
 [sha:3339a3ffe3d59df0b5b9a8ba57eb5a1369f3a82a]{
 -- 15日目―――
-15th day――
+// @flowchart_title
+15th day
 }
 [sha:6c822ae19291fffdbdaa9c3f42beaefe300ff9e1]{
 -- 告白
+// @flowchart_title
 Confession
 }
 [sha:ec49e960c0ff39e25a26c3c0032dc6f3ecb26ddc]{
 -- 旅の終わり
-End of the journey
+// @flowchart_title
+Journey's End
 }
 [sha:e6c3fb2fcff0597063d68558af3b70320fe21476]{
 -- 月の荒野。
-Moon Wilderness.
+// Same phrase used in 32352.
+// @flowchart_title
+Surface of the Moon
 }
 [sha:dde5aecaaeefdac2ea934226b1985f1bb0f8875b]{
 -- 吸血姫のキス
 // @flowchart_title
-I Kiss the Vampiress
+Kiss of the Vampiress
 }
 [sha:522d23adb664f3efaf270b31b32563b33653fc3a]{
 -- 直死の魔眼
+// @flowchart_title
 Mystic Eyes of Death Perception
 }
 [sha:8f00da8fc82674361bab384ab65c054901c1a745]{
 -- 閉幕。
-The curtain falls.
+// @flowchart_title
+The Curtain Falls
 }
 [sha:27d1b3eb031060bb31147463d193ac071050412f]{
 -- クラーケ　Ⅳ
+// @flowchart_title
 Krake IV
 }
 [sha:6c0413f3dce2782a0a1464d0192e0c6a4ef9d7a1]{
 -- 15日目・朝。
+// @flowchart_title
 15th day ― Morning
 }
 [sha:a94a9bf90de20a5e557eeb4fc16af8c5a4920a10]{
 -- 籠城
-Besieged
+// @flowchart_title
+Confinement
 }
 [sha:fbfaac6123c25355ab565d091cad2dc6a947a70e]{
 -- 琥珀を追い返す。
-Drive away Kohaku
+// See 42746.
+// @flowchart_title
+I'll turn Kohaku away
 }
 [sha:e8869fba91cd1f552ff5ac5b4a7f89570dfadc70]{
 -- 食事だけ置いていってもらう。
-Just leave the food there.
+// See 42747.
+// @flowchart_title
+I'll get her to leave the food
 }
 [sha:37a4a6f744e501d1a8a4ab0422fad69a5c42ecf4]{
 -- 決壊
+// @flowchart_title
 Breach
 }
 [sha:4f105a531912ed33187262a2e7bbf577b3f9d9f2]{
 -- 逃げ出した先に。
-Before escaping
+// Kinda confusing temoprality here. He's already mid-逃げ出す in this file?
+// @flowchart_title
+Post-Escape
 }
 [sha:0bb4987ba306b0ab7d150b6727ae140c847a75d6]{
 -- 地の底に来たれ、断罪者
-Judge in the other depths
+// Translated as 'adjudicator' in 34207.
+// @flowchart_title
+Come to the crater, adjudicator
 }
 [sha:01ac9b8aafdc27620d41e722537b54f3030c5248]{
 -- 前方に逃げる。
-Escape forward.
+// See 42748.
+// @flowchart_title
+I escape forward
 }
 [sha:6bda3a033d8db1355007d04d3d6ea7a6b708aa1d]{
 -- 後方に逃げる。
-Escape back.
+// See 42749.
+// @flowchart_title
+I escape backward
 }
 [sha:2b6e579cec845d79efc275088d110ff8029764ed]{
 -- 静かの海
-Quiet ocean
+// Ref 34201.
+// @flowchart_title
+Tranquil Ocean
 }
 [sha:7f68660e106cd8aa387a635dcf3a1ee16d47b05e]{
 -- ……眼鏡を外す。
-Remove my glasses.
+// See 42750.
+// @flowchart_title
+I take off my glasses
 }
 [sha:6c0db2a77be8bf392ca94f4dd45e3830f41b8049]{
 -- ……眼鏡は外さない。
-Don't remove my glasses.
+// See 42751.
+// @flowchart_title
+I won't take off my glasses
 }
 [sha:7488264c50b45b12f8e1408ecee9f27aff70b854]{
 -- フランス事変
+// @flowchart_title
 The French Incident
 }
 [sha:944de506a7cb863518b944bf5f2371c11f1dc1eb]{
 -- 薔薇園からの生還
-Homecoming from the rose garden
+// @flowchart_title
+After Surviving the Rose Garden
 }
 [sha:74605d5363f7230854721c839b5d84d932e10898]{
 -- 最短で、あの吸血鬼を殺す。
-Kill that vampire at close range.
+// Ref 42752.
+// @flowchart_title
+I kill her as quickly as possible
 }
 [sha:eb106fb5d6ccdc4dcd3db117b554212330dcd265]{
 -- シエル先輩を連れて逃げる。
-Escape with Ciel-senpai
+// Ref 42753.
+// @flowchart_title
+I take Ciel-senpai and run
 }
 [sha:030a43dbff9391cd6259531614aceb82c6c7a02a]{
 -- ウサギ狩り
-Rabbit Hunting
+// Phrased consistently with 35561.
+// @flowchart_title
+Rabbit Hunt
 }
 [sha:7895f6b81c2cb031242cd834010f63504bb848f0]{
 -- 面倒だ。殺してしまえ。
-Kill her. She's a nuisance.
+// Ref 42754.
+// @flowchart_title
+I'll kill her. She's a nuisance.
 }
 [sha:8f9b4d1bca1abf8356cf86594563a14c17de17cb]{
 -- ………………いや、それは。
+// Ref 42755.
+// @flowchart_title
 No... that's...
 }
 [sha:ee57487b497ebc8f3ab50b97f246d1c54e9b463d]{
 -- 抗戦
-Resistance.
+// @flowchart_title
+Resistance
 }
 [sha:5b2cea4ad14c62bfed70893f435de4579205d5e6]{
 -- ルナ・ボウ
-Lunar Bow
+// @flowchart_title
+// Descr here is talking about rainbows at night, so going to assume he's talking about Moonbow rather than bow (and arrow)
+Moonbow
 }
 [sha:650d0cc7f4f39b44e46d4793d025bbe4786cb332]{
 -- クリスマス・チャペル
+// @flowchart_title
 Christmas Chapel
 }
 [sha:98a1cbbabdcf0deec6607a880edbd090bc7fa964]{
 -- 灰は灰に
-Ashes to ashes
+// Fun to Funky
+// @flowchart_title
+Ashes to Ashes
 }
 [sha:a2d8e945ca5f334332532b2fd9301552c79ba0b0]{
 -- 不可視の花
-Invisible flower
+// Ref 36415.
+// @flowchart_title
+Invisible Flower
 }
 [sha:d358be177e910b2fbb1e7551c569026c809a4fcd]{
 -- いっときの休息
-Brief reprieve
+// @flowchart_title
+Brief Reprieve
 }
 [sha:3bd6c9991921d1ccfc61e8926492f6076adf278a]{
 -- 気になるけどスルー。
-I'm curious, but I'll let it go.
+// Ref 42756.
+// @flowchart_title
+I'm curious, but I'll ignore it
 }
 [sha:048fcae2698fae53a7cba801ea3adc0dc14af3ed]{
 -- スルーできない。
-I can't let it go.
+// Ref 42757.
+// @flowchart_title
+We need to address this
 }
 [sha:39209de80709d7284f0d899c05d271ad0556fc2c]{
 -- 健やかなる時も
-When I get better, too
+// @flowchart_title
+In Sickness and in Health
 }
 [sha:d141e083b5facb423d53914b2afc250c8bc15481]{
 -- 夜明け前
-Before daybreak.
+// @flowchart_title
+Before Dawn
 }
 [sha:104d9777f7ab735c111ec1278b7ca8a0e1f2534c]{
 -- 月姫
@@ -3731,60 +3827,81 @@ Moon Princess
 }
 [sha:d2b40faddfd36e2519bd0d2bdbfc935975578b9c]{
 -- ……アルクェイドには従えない。
-Don't accompany Arcueid.
+// Ref 42758.
+// @flowchart_title
+I can't agree to her proposal
 }
 [sha:1adaac9b5c3f4e7c707a82ddf2981eb5335db03d]{
 -- 真祖堕天
+// 堕天 also comes up in 23659.
+// @flowchart_title
 Fallen True Ancestor
 }
 [sha:23bca8bdc16cf47e7dd1d9f6fcf7c19e91585748]{
 -- 明日になったら。
-If tomorrow comes.
+// Ref 38728.
+// @flowchart_title
+Once everything is over
 }
 [sha:f94c62222b33eae211c5790c33e82051fabc17ee]{
 -- 世界の死
-Death of the world.
+// @flowchart_title
+Death of the World
 }
 [sha:d7c65fef950024d2c3d77dcd506de46961c04beb]{
 -- 決別
+// @flowchart_title
 Farewell
 }
 [sha:b7d5ce990256ef9633f34f5446efc8f2e4f3a0d9]{
 -- 名残の夢
 // Actually a reduction of 名残惜しい in the style of 名残の茶/折
+// Same as True (13527de3) but without the moonlit
 // @flowchart_title
-Dream of Parting
+One Last Parting Dream
 }
 [sha:b992a4307335a2668860c4408f7bf7ffa40bda9c]{
 -- 嫌いにはなれない。
-I can't bring myself to hate her
+// Ref 42759.
+// @flowchart_title
+I can't get myself to hate her
 }
 [sha:991fe171a8b1e5d866f56a833106fc8967c63108]{
 -- 事象収納
+// @flowchart_title
 Event Storage
 }
 [sha:0cf792b5f94116cda4a74adc7119cb1ec998a7d2]{
 -- 世界の悲鳴
-Cries of the planet.
+// Ref 38742.
+// @flowchart_title
+Screech of the World
 }
 [sha:5103f102e2e3b61a5d71bf234b0b3ae8728dd886]{
 -- 狙撃
+// @flowchart_title
 Sniping
 }
 [sha:ab866e52413d82f0a79721a2584ad7f544d49e5c]{
 -- 着弾
+// @flowchart_title
 Impact
 }
 [sha:8673c8af2a96ded02909d0b7655dab5d4f3e1fd7]{
 -- ロアの声
-The voice of Roa
+// @flowchart_title
+The Voice of Roa
 }
 [sha:0f44fc481a370f563f66fc67b126c75945e5ec33]{
 -- 180秒臨界決戦
-180 second decisive barrier fight
+// 臨界 here is used more in the older sense, closer to 境界
+// 臨界決戦場 is also the name of P. Ciel's stage in MBTL
+// @flowchart_title
+180-second Battle at the Boundary
 }
 [sha:9809c60b2e8cd3ec6374c67d2695f5309a8a782e]{
 -- クラーケ　Ⅲ
+// @flowchart_title
 Krake III
 }
 [sha:dde21c8d06db01c6097cb032978193dc876d8b39]{
@@ -3794,22 +3911,30 @@ Snow of Marble
 }
 [sha:4ed04871dc81e0275078f1cbb15c61a5c553b56c]{
 -- 顕現
+// @flowchart_title
 Manifestation
 }
 [sha:88e17d9e4f2682a2d8b43732ed671ee1391595fe]{
 -- 最後の警告
-Final warning
+// @flowchart_title
+Final Warning
 }
 [sha:ba82e601fc8eeaf8ac5a2689aa1556e0ef4a8e73]{
 -- それがどうした、黙ってろ。
-So what? Keep your mouth shut.
+// Ref 42760.
+// @flowchart_title
+So what? Just shut up already
 }
 [sha:079bd5e051de76da0bf5739ac794760027992cd9]{
 -- じゃあ、どうしろって言うんだ。
-Fine, then what should I do?
+// Ref 42761.
+// @flowchart_title
+Alright, then what should I do?
 }
 [sha:b6704dc0ef0be791e00e4512dd6ea445e2f5d0d2]{
 -- Crimson Air
+// Tough one
+// @flowchart_title
 Crimson Air
 }
 [sha:a3fee7a16735e308229a874398a9cd8d867a5093]{
@@ -3819,30 +3944,40 @@ Ant's Futile Struggle
 }
 [sha:4b349a35a197f1d635128d8feef20e2c2260eb52]{
 -- 諦めない。
-I won't give up.
+// Ref 42762.
+// @flowchart_title
+I won't give up
 }
 [sha:6ffc58936a6afb8faec1b7098de16ae6e9789565]{
 -- 逃げるしかない。
-I have no choice but to run.
+// Ref 42763.
+// @flowchart_title
+I have no choice but to run
 }
 [sha:ac6e75c0fea3347e4cf095ca46b3a019dfcdcb16]{
 -- ロスト・ワールド
+// @flowchart_title
 Lost World
 }
 [sha:f72a414073de5b44108222c09486528c161702d2]{
 -- まずは隠れよう。
-First, I need to hide.
+// Ref 42764.
+// @flowchart_title
+I'll hide down here
 }
 [sha:25ede4e6372ffcf6c26049f197b0e6025a0e768e]{
 -- ロジックエラー
+// @flowchart_title
 Logic Error
 }
 [sha:2675d8edec95f7a23cb438ee206448a6b0acb716]{
 -- 世界の点
+// @flowchart_title
 The 'Point' of the World
 }
 [sha:47a36e20ecf8b8fbb819ac51353652bc6f73433b]{
 -- 回帰重力圏
+// @flowchart_title
 Retrogressive Gravitation
 }
 [sha:bc94df6c5a16dd856ff943bad1e784f363b3732c]{
@@ -3853,37 +3988,45 @@ Limits have nothing to do with it
 }
 [sha:4b410df72125a1175ebbb52bb38a569372a8d454]{
 -- ラブレター
+// @flowchart_title
 Love Letter
 }
 [sha:d6b87ce022eef2f6ddfac281a2bf0578674d4fc2]{
 -- 目覚め
+// @flowchart_title
 Waking
 }
 [sha:13527de3197e86e5c2e9d4b7b21d7ef32b9f6688]{
 -- 名残の夢、月の光。
-// Same as the one for normal route, this is 名残惜しい in the style of 名残の茶/折
+// Actually a reduction of 名残惜しい in the style of 名残の茶/折
+// Same as Normal (b7d5ce99) but with 月の光
 // @flowchart_title
-Dream of Parting in Moonlight
+One Last Parting Dream - Moonlit
 }
 [sha:2b97c3ada6620bac788f0f7f44ea1bdfd5dd2bf5]{
 -- 16日目・深夜
-16th day, dead of night
+// @flowchart_title
+16th day ― Dead of Night
 }
 [sha:c4a4d65b6a2f9dfe4379edccd92485ab1627da89]{
 -- 月下美人
-Beauty under the moon
+// @flowchart_title
+Moonlit Beauty
 }
 [sha:31263f38580d9dab95b1d7f49deafe00e2c39fcd]{
 -- 人ならざる身
+// @flowchart_title
 Inhuman Form
 }
 [sha:d14b4a955c129df437f327f56fa458ca7bff02cf]{
 -- 夜の虹
-Rainbow in the night
+// @flowchart_title
+Rainbow in the Night
 }
 [sha:efc5959ef6b20a19241434568255939422aea1d9]{
 -- 白日の碧
-Azure of a Bright Day
+// @flowchart_title
+Daylight Blue
 }
 [sha:77654648f4244425674c2de63f535cc8a61e5624]{
 -- 教えて！シエル先生　その１
@@ -4012,13 +4155,13 @@ Maybe there was a time, back then...
 [sha:559e15a89c489778b3be324bf9e49efa128face6]{
 -- 疑問が頭をよぎった。^これも良い機会かもしれない。^シエル先輩に直接聞いてみよう。
 // @flowchart_descr
-I actually do have a question for her.
- This is as good an opportunity as any, so I may as well ask it.
+I actually do have a question^for her.
+ This is as good an opportunity as any, so I may^as well ask it.
 }
 [sha:0d06e734348bebf96e3d9fc25e9b712cf2697177]{
 -- 急ぐシエル先輩を見送ってから、^ゆっくりと学校に向かった。
 // @flowchart_descr
-Ciel-senpai's in a rush, so I see her off at the station.
+Ciel-senpai's in a rush, so I^see her off at the station.
  After that, I head to school at my own pace.
 }
 [sha:3ce324238c2e8147de0a5f43ab5ca35ffcbcc6db]{
@@ -4036,7 +4179,7 @@ My mind's still a mess.
 [sha:e9104c6f683e0c3f17c2bf784bf2723de32e76f0]{
 -- まだ気持ちが固まらないが、^教室に残っていても仕方がない。^これからどうしようか。
 // @flowchart_descr
-My thoughts remain clouded, but I can't stay in this classroom forever.
+My thoughts remain clouded, but^I can't stay in this classroom forever.
  I wonder what I should do now.
 }
 [sha:66518fdeaa92f6de1d24dc69730a3bdf815dab67]{
@@ -4055,9 +4198,9 @@ I work up my courage and leave the school.
 [sha:f23cbaee24d4d462a6235b4d79fcffa10e83602f]{
 -- あれから七年。^遠野の家はどう変わっただろう。^いま、殊更に思い出すのは……。
 // @flowchart_descr
-It's been seven years...
- I wonder how the Tohno mansion has changed.
- If there's one thing in particular I remember, it's―――
+It's been seven years...^
+I wonder how the Tohno mansion has changed.
+ If there's one thing in particular I remember, it's...
 }
 [sha:b133076ab7fcabefad1f81b7f304b3531d2a591e]{
 -- 父、遠野槙久の事を思い出す。^厳格で息子を嫌っていた父は、^もうこの世にはいない。
@@ -4069,8 +4212,8 @@ I remember my father, Tohno Makihisa.
 [sha:942f2c217873470498fbcaefd124189adf9ad904]{
 -- 妹の秋葉の事を思い出していた。^連絡も取らなかったこの七年間、^どんな想いでいたのだろう。
 // @flowchart_descr
-I remember my sister, Akiha.
- I haven't talked to her at all since I left...
+I remember my sister, Akiha.^
+I haven't talked to her at all since I left...
  I wonder what's been going through her head these past seven years.
 }
 [sha:27de03aff6b191528ae44c27c429715a48b1ed72]{
@@ -4083,7 +4226,7 @@ I definitely remember Akiha and I playing with another child back then... I wond
 // @flowchart_descr
 I return to the Tohno mansion for the first time in seven years.
  Its grandeur is honestly overwhelming.
- I'm greeted by―――
+ I'm greeted by――
 }
 [sha:23dfe678a4780d9e4ad86e30f2ca3f1b8127004b]{
 -- 記憶が曖昧で勝手がわからない。^ここは少女に案内をまかせて、^黙って着いていく事にした。
@@ -4106,26 +4249,26 @@ The beauty of this almost palatial mansion has stirred my curiosity.
 [sha:5a473072cd1cab146e57e136575cc074cd66a1c2]{
 -- 少女、琥珀に案内されるがまま、^豪華な居間へと通された。
 // @flowchart_descr
-The girl, Kohaku-san, leads me to the luxurious living room.
+The girl, Kohaku-san, leads me^to the luxurious living room.
 }
 [sha:d71d945381c4bc03206c6188b429a24b59f82c3e]{
 -- 屋敷の中を見て回るにしても、^まずは秋葉に会ってからだ。^ここで座って待つ事にした。
 // @flowchart_descr
-Even if I want to look around the mansion, I should greet Akiha first.
+Even if I want to look around^the mansion, I should greet Akiha first.
  I'll just wait here until she's ready.
 }
 [sha:668310dab93d9a90d667baecd9943a21dd05485c]{
 -- 10分もあれば屋敷を見て回れる。^ロビーに足を踏み入れた矢先、^声をかけてきたのは……。
 // @flowchart_descr
 Ten minutes is plenty for a quick snoop around the mansion.
- As soon as I step out into the lobby, I'm greeted by―――
+ As soon as I step out into the lobby, I'm greeted by――
 }
 [sha:526b7c11e67f9f75342c6d2d37a2c091c3ebb82e]{
 -- 子供の頃は覗く事もできなかった^遠野家当主の私室、執務室。^そこに妹、秋葉が待っている。
 // @flowchart_descr
 The office of the Tohno family head is private.
  As a child, I wasn't even allowed to look inside.
- Now, my younger sister Akiha awaits me there.
+ Now, my younger sister, Akiha awaits me there.
 }
 [sha:9f704152a709fdf0b878f9d685a846cee4eac872]{
 -- 自分付きの使用人、翡翠に^案内されて自室に移動する。^夜までの空白時間。
@@ -4143,7 +4286,7 @@ Dinner with the family head has begun!
 [sha:61d70b931c05f7d6fca42084813edeffe9c86ece]{
 -- やっとの思いで自室に生還する。^ベッドメイクをしていた翡翠に、^気になった事を聞いておこう。
 // @flowchart_descr
-I survive my ordeal and make it back to my room.
+I survive my ordeal and make^it back to my room.
  Something's been bothering me, so I ask Hisui about it once she finishes making the bed.
 }
 [sha:8bd91665132518c4d3d56dfa9019dfe1f70be2ea]{
@@ -4155,7 +4298,7 @@ I run into Ciel-senpai, a school celebrity.
 [sha:2442b4eb777a3b8d183f69f29070b06d0123a086]{
 -- 陸上選手のように張りのある^両脚に意識を奪われてしまった。^日々の訓練のたまものだろうか。
 // @flowchart_descr
-I'm distracted by her legs, which are as toned as those of an athlete.
+I'm distracted by her legs,^which are as toned as those of an athlete.
  I wonder if she trains every day?
 }
 [sha:00ed70c56644f2768ac0709ff40f5e1f222ec3b1]{
@@ -4198,13 +4341,13 @@ I wake up from my slumber.
 [sha:e84b3c59e9cc022a730aad2b467ee6b8fd3202d1]{
 -- 秋葉とは会話を交わすでもなく、^穏やかな時間が過ぎていく。^しかし……。
 // @flowchart_descr
-Akiha and I don't have much to talk about, so we pass the time in comfortable silence. Until―――
+Akiha and I don't have much to talk about, so we pass the time in comfortable silence. Until――
 }
 [sha:d9f8f458cb81975cb38c3190c5819d7892926d90]{
 -- 遠野屋敷からの初めての登校。^転校生のような気分で道を歩く。^街に変わった様子はないが……。
 // @flowchart_descr
-It's my first day commuting to school from the Tohno mansion.
- I almost feel like a transfer student as I walk down the street.
+It's my first day commuting to school from the Tohno mansion.^
+I almost feel like a transfer student as I walk down the street.
  The city looks the same as always, but...
 }
 [sha:7ec8912ad5dc6eb469d9224ea1b633327969be9b]{
@@ -4275,7 +4418,7 @@ I failed to make it home before sunset.
 -- 今日は秋葉を怒らせてしまった。^話が出来ればと居間に向かうが、^そこで出くわした人物は……。
 // @flowchart_descr
 I've already messed up and angered Akiha.
- I go to the living room in hope of talking to her, but but the person who greets me there is――
+ I go to the living room in hope of talking to her, but the person who greets me there is――
 }
 [sha:2c993642dc028e79d845b0b1ee1b7c01140fe31c]{
 -- まだ寝るには早い時間だ。^琥珀さんの部屋にお邪魔して、^テレビを見せてもらおうか……？
@@ -4330,18 +4473,19 @@ I run into Ciel-senpai in the hallway.
 [sha:cdf5f4d0e71bf449b945d0e3a29a54e1a37a049e]{
 -- 階段で不思議なものと遭遇した。^新任のノエル先生は壁際で^途方に暮れているような……。
 // @flowchart_descr
-I run into someone unexpected by the stairs.
+I run into someone unexpected^by the stairs.
  The new teacher, Noel-sensei, is standing by the wall, looking like she might be lost.
 }
 [sha:135e44f91c2fe489860be3d5beaa4e5c56da7491]{
 -- 昨夜の光景は夢だったのか、^何事もなく朝を迎えていた。^着替えを済ませて食堂に向かう。
 // @flowchart_descr
 I wake up to an ordinary morning.
- I guess what I saw last night was just a dream.
+ I guess what I saw last night^was just a dream.
  Once I'm done changing, I head to the dining room.
 }
 [sha:b8558c998923ddfab5cb161d1a87e64454d17a35]{
 -- まずは秋葉に挨拶を。^気さくに声をかけてみる。^何事も積み重ねだ。
+// is there a word missing? every little what?
 // @flowchart_descr
 I'll say good morning to Akiha first.
  It probably doesn't hurt to be friendly.
@@ -4362,7 +4506,7 @@ Akiha and Kohaku-san are in the living room.
 [sha:6e47297f4087c97db543ee41da6891910a541e74]{
 -- 昨夜聞こえてきた犬の遠吠えは、^ここでは毎晩の事なのだろうか。^二人にも話を聞いてみた。
 // @flowchart_descr
-I wonder if the howling I heard last night is a regular occurrence around here.
+I wonder if the howling I^heard last night is a regular occurrence around here.
  I'll try asking Akiha and Kohaku-san about it.
 }
 [sha:4ccd74ee5bfcf2397585c55c3d201cc5130c37da]{
@@ -4392,8 +4536,8 @@ I decide to have lunch at the cafeteria.
 [sha:8096d59854cad4246bf2f23fba4eae416ec880db]{
 -- 突然の貧血に意識が遠のく。^有彦に諭され早退したものの、^屋敷まで戻れそうにない……。
 // @flowchart_descr
-My anemia hits me all of a sudden, and I almost pass out.
- I take Arihiko's suggestion and leave school early, but I don't really feel like going straight back to the mansion...
+My anemia hits me all of a sudden, and I almost pass out.^
+I take Arihiko's suggestion and leave school early, but I don't really feel like going straight back to the mansion...
 }
 [sha:e1d77a988e6785bb3b7c007af1c37a6e5546e7a2]{
 -- 屋敷に帰る。部屋に戻る。^ただ、それだけを考えていた。^――その女とすれ違うまでは。
@@ -4413,8 +4557,8 @@ How could the bright red floor and dismembered ■■ be anything but a bad drea
 -- 目覚めたのは自室のベッドの上。^まるで何事もなかったように。^やはり、あれは夢だったのだ。
 // @flowchart_descr
 I wake up in my own bed.
- It's like none of it ever happened.
- I knew it was just a bad dream.
+ It's like none of it ever happened.^
+I knew it was just a bad dream.
 }
 [sha:3a6fa3b69460dd59166cd087e6980f2d2a9f4059]{
 -- 朝から有彦がいるとは珍しい。^様子がおかしい理由を尋ねると、^シエル先輩が来ていた事を話す。
@@ -4463,12 +4607,12 @@ My sin will never go away.
 -- 眠れぬまま、迷っていた。^この先どうするべきなのか。^どうすれば罪を償えるのか。
 // @flowchart_descr
 I feel lost, unable to sleep.
- What should I do now? How can I atone for my sins?
+ What should I do now? How can^I atone for my sins?
 }
 [sha:13f7d4fe939bd565af0fd24b177f03ce8c49570c]{
 -- あの夢の光景にうなされ、^熟睡する事もままならない。^気持ちを切り替えなければ……。
 // @flowchart_descr
-I'm haunted by that nightmare I had.
+I'm haunted by that nightmare^I had.
  I can't even get a good night's sleep.
  I have to take my mind off it somehow...
 }
@@ -4484,7 +4628,7 @@ The phantom pain incinerates none but the living.
 -- 琥珀さんが朝食を勧めてくるが、^今は食欲が出る筈もない。^このまま登校してしまおうか。
 // @flowchart_descr
 Kohaku-san wants me to eat breakfast, but I don't have an appetite.
- I'll head to school as-is.
+ I'll head to school as is.
 }
 [sha:f94ef8adc824cd8c3dc3b7a2b85cf46f93ffda0e]{
 -- 秋葉の事を知るにはいい機会だ。^まだ聞いていなかった事……^学校の事など聞いておこう。
@@ -4496,7 +4640,7 @@ This is a good opportunity to get to know Akiha better.
 -- 食事が来るまで時間がある。^秋葉との会話に困ってしまい、^つい琥珀さんの事を話題にした。
 // @flowchart_descr
 We've got some time before breakfast is ready.
- Struggling to come up with something to talk about with Akiha, I turn the topic to Kohaku-san.
+ Struggling^to come up with something to talk about with Akiha, I turn the topic to Kohaku-san.
 }
 [sha:da7655a168ec5ca75acfdaf9f9b3f04ef248622c]{
 -- 食事が来るまで時間がある。^なんとなく気になっていた事、^この屋敷について聞いてみた。
@@ -4507,7 +4651,7 @@ We've got some time before breakfast is ready.
 [sha:0ace394439d11fa8fd16760c25f321c45867cfb0]{
 -- 体調の悪い自分のために、^琥珀さんが朝食を作ってくれた。^ありがたくいただきます。
 // @flowchart_descr
-Kohaku-san made a special breakfast for me because I'm not feeling well.
+Kohaku-san made a special breakfast for me because I'm^not feeling well.
  I accept it graciously.
 }
 [sha:cb1d64f18514ef789f6ebb4e4c40b935e7357afc]{
@@ -4537,7 +4681,7 @@ I see eyes glinting in the darkness behind the woman in white.
 [sha:d112097d463b212e4bbf9bcd9120660403aa8964]{
 -- 女の姿をした怪物が、^静かに選択を迫ってくる。^自分の答えは――
 // @flowchart_descr
-The monster in the guise of a woman gently urges me to make a choice.
+The monster in the guise of a woman gently urges me to make^a choice.
  My answer is――
 }
 [sha:1c7cc473919a3bc1cc6f802121d9e29be8eb2bd5]{
@@ -4584,13 +4728,13 @@ Now it's my turn to answer her questions.
 [sha:bc6de8bc26c7b797e53bc677249b02b7093d1e1f]{
 -- 懐かしい記憶を呼び覚ます。^あの夏の日に見た光景は、^はたして現実であったのか。
 // @flowchart_descr
-Something reminds me of days gone by.
+Something reminds me of days^gone by.
  Was what I saw on that summer's day actually real?
 }
 [sha:6c16c75d6efcc0523906991aea83d2bda7c1c36b]{
 -- アルクェイドに押し切られる形で^眼鏡を渡す事になった。興味深げ^に眼鏡を調べていた彼女は……。
 // @flowchart_descr
-Arcueid strongarms me into handing over my glasses.
+Arcueid strong-arms me into handing over my glasses.
  She examines them intently, and then――
 }
 [sha:b641859a086cea743f12c31f308802f6212c8960]{
@@ -4598,12 +4742,12 @@ Arcueid strongarms me into handing over my glasses.
 // @flowchart_descr
 I don't trust that look in her eyes one bit.
  I can't risk her breaking them.
- There's no way in hell I'm handing them over.
+ There's no way^in hell I'm handing them over.
 }
 [sha:7fb59543f1c9c02b8a83120a28c3087ab0ba3420]{
 -- 夜明けまであと１時間。^何の異常もないまま、^なにげない会話が交わされる。
 // @flowchart_descr
-There's only an hour left until dawn.
+There's only an hour left^until dawn.
  Nothing unusual has happened, so we pass the time with idle conversation.
 }
 [sha:3bda371204aa97e28bd1b1b96d8a878b5b39e940]{
@@ -4656,7 +4800,7 @@ I make up my mind and return to the mansion.
 // @flowchart_descr
 I won't cooperate with her.
  Absolutely not.
- I can't do what cannot be done.
+ I can't do^what cannot be done.
 }
 [sha:53da826a9b24ba42685bdb9e7dee17a2040ab6f1]{
 -- 日常に戻るとしたら今しかない。^ホテルから抜け出して、^公園で最後の決断を。
@@ -4710,7 +4854,7 @@ I somehow manage to administer some first aid.
 [sha:52b188d2fd6d6f66e1e6777ff460de66eb871c1f]{
 -- 二十七祖。^祖と呼ばれる旧い吸血鬼――^死徒の頂点に立つモノ達。
 // @flowchart_descr
-The Twenty-seven Ancestors:^
+The Twenty-Seven Ancestors:^
 Ancient vampires who stand at the top of the Dead Apostle world.
 }
 [sha:4125de391ff9dd50b2005574f51dedfefff93595]{
@@ -4725,14 +4869,14 @@ The decision to commit.
 // Ref 9140.
 // @flowchart_descr
 I'm done running away.
- Arcueid is gearing up for a protracted battle――do I follow along with her plan?
+ Arcueid^is gearing up for a protracted battle――do I follow along with her plan?
 }
 [sha:85f8738b75417781c41181b2ee7683485042d712]{
 -- 先客はいない。^レストランは空席多めにつき、^すぐに対応さしあげます。
 // Haru & Toshi bad end
 // @flowchart_descr
-You're first in line.
- The restaurant has plenty of empty seats,
+You're first in line.^
+The restaurant has plenty of empty seats,
  so we'll be with you right away.
 }
 [sha:d5c5bbad0e464d9bb29acfe32de6156e32ab324b]{
@@ -4756,27 +4900,27 @@ After night falls, we wait around in the park trying to lure Vlov out.
 [sha:a284603a3db7784b7b0db66898d4670762df0490]{
 -- アルクェイドと共に^街を見下ろせるビルの屋上へ。^白い化身よ、炎を散らせ。
 // @flowchart_descr
-Arcueid and I leap to the roof of a building to get a birds-eye view of the city.
+Arcueid and I leap to the roof^of a building to get a bird's-eye view of the city.
  Avatar in white, disperse these flames!
 }
 [sha:51546db9804334e6a12cb0f390f53dff072fef38]{
 -- 人型ミサイルは着弾した。^地表は砕け、繁華街が陥没する。^自分も地上に降りなければ……！
 // @flowchart_descr
 The humanoid missile makes contact.
- The earth splits open, and the downtown area caves in.
- I need to get down there too!
+ The earth splits open, and the downtown area caves in.^
+I need to get down there too!
 }
 [sha:b18b4638f3d22e2eb4cb2b19177e72c33b2002e4]{
 -- 屋上から下りてビルの外へ。^陥没した地の底では今まさに、^アルクェイドが戦っている……。
 // @flowchart_descr
-I leave the roof, run down the stairs and make it outside.
+I leave the roof, run down^the stairs, and make it outside.
  Down in the pit of the cave-in, Arcueid's battle has already begun.
 }
 [sha:7824c08cbdd3556b97d4d128ceb3988e4c3e1078]{
 -- 敵の所在ははっきりしている。^自分の役割を果たすためにも、^怖気づいてはいられない……！
 // @flowchart_descr
-The enemy's location is clear.
- I need to do my part――there's no getting cold feet now!
+The enemy's location is clear.^
+I need to do my part――there's no getting cold feet now!
 }
 [sha:e2495ae05081d9e9bfd83afe260be4ea788e6826]{
 -- 地下は青い炎が広がっている。^ここで様子を見るしかない……。
@@ -4833,7 +4977,7 @@ If there's a way to get close, it's by gliding.
 // @flowchart_descr
 No. 19 of the Twenty-Seven Ancestors――cut down.
  Sink into the northern seas, vampire.
- Blood does not warmth make.
+ Blood does not make warmth.
 }
 [sha:4afb2d3a9616c69d2ab70f800f1f46b2a0c06649]{
 -- こちらが近づけないのならば、^相手の方から来てもらえばいい。^アルクェイドの力なら―――！
@@ -4844,23 +4988,23 @@ If I can't get close to him, then I'll force him to come to us.
 [sha:68f3706ce3762e14a1ce494485b7ffffa7d6cd9d]{
 -- 夜を待ってはいられない。^また犠牲者がでる前に、^ヴローヴを捜し、倒す。
 // @flowchart_descr
-We can't wait until nightfall.
- We have to find and defeat Vlov before he kills again.
+We can't wait until nightfall.^
+We have to find and defeat Vlov before he kills again.
 }
 [sha:2c8b16e0fbe4c0222a64bcf27b76da5dbcc41a70]{
 -- 乗り込んだエレベーターが、^地下へと降りて行く。^冥府に向かうように深く、深く。
 // @flowchart_descr
 The elevator is going down,
  deeper and deeper,
- as if carrying me into the depths of hell.
+ as if carrying me into the depths^of hell.
 }
 [sha:d04ca0cdc69b8e77c13b7a6eaf84b65555d25298]{
 -- 暗闇の中をさ迷い歩く。^死人の群れと、おびただしい骸。^ここは正真正銘の地獄だった。
 // @flowchart_descr
 I wander through the darkness.
  Hordes of the living dead.
- Corpses piled upon corpses.
- This place is hell itself.
+ Corpses piled upon corpses.^
+This place is hell itself.
 }
 [sha:1569281a96b42d5457c7ad86a4be93cbd5179c43]{
 -- ノエル先生を連れて逃げる。^この異常な空間の中で、^彼女は半狂乱に陥っていた。
@@ -4886,13 +5030,13 @@ There's a man-made chamber underground.
 -- 炎が走り抜ける。^それはノエルを焼くばかりか、^彼女の身体を引き込んでいく。
 // @flowchart_descr
 Fire floods the hallway.
- Not content to simply burn Noel, he pulls her to him.
+ Not content to simply burn Noel,^he pulls her to him.
 }
 [sha:d3f58df86ea45663206f2650f25c325d16a21368]{
 -- 忘れじの声がする。^見過ごす事はできなかった。^頭で考えるより先に体が動いた。
 // @flowchart_descr
 I hear a voice I'll never forget.
- I can't let this to happen.
+ I can't let this happen.
  My body starts moving before my mind can catch up.
 }
 [sha:f3235a0598407005b73019ac4cf24dbe7fc370ba]{
@@ -4906,7 +5050,7 @@ Vlov doesn't register me as a threat.
 -- 忘れじの声がする。^しかし、ここからでは^あまりにも遠すぎた。
 // @flowchart_descr
 I hear a voice I'll never forget.
- But, he's too far away for me to do anything.
+ But, he's too far^away for me to do anything.
 }
 [sha:4166b72f04a1c4be0fae42fd9c431e57300ad3e3]{
 -- このまま押し切って終わらせる。^あと一歩踏み込むだけでいい。^だが、過信の結果は常に非情だ。
@@ -4927,9 +5071,9 @@ I got a glimpse of his abilities back at the hotel.
 // Not really a 'failure' so much as the ole vlov cold/hot mistake
 // Ref 11833
 // @flowchart_descr
-Ciel-senpai messed up.
- A billowing white curse.
- The underground chamber is frozen solid.
+Ciel-senpai messed up.^
+A billowing white curse.^
+The underground chamber is frozen solid.
 }
 [sha:87d8e80cd96869930f50d8179a059ff7d6a0e2e6]{
 -- 先輩を助けるに決まってる。^無我夢中でその背中を追う。^ここで逃げる事はできない……！
@@ -4941,9 +5085,9 @@ I'm going to save Senpai, obviously!
 [sha:83b47873fe184b1d0d6b6e6cb101c10d3d7ca832]{
 -- ノエル先生を振り返る。^決めていた筈だ。^自分に出来る事をしなければ！
 // @flowchart_descr
-I look back at Noel.
- I've already made my decision.
- I have to do what I can!
+I look back at Noel-sensei.^
+I've already made my decision.^
+I have to do what I can!
 }
 [sha:27c3ae890805c69dc8367ebe69c6187f6092d29b]{
 -- ドームの崩落に巻き込まれた。^目覚めた場所は暗く、狭く、^そして柔らかい……柔らかい？
@@ -4969,7 +5113,7 @@ I make my way back to her apartment again.
 -- ビルの屋上から街を見下ろす。^瓦礫の中に出現した巨大な結界。^先輩は今も戦っている……！
 // @flowchart_descr
 We survey the city from atop a building.
- A massive barrier has appeared amid the rubble.
+ A massive Barrier has appeared amid the rubble.
  Senpai's down there fighting as we speak!
 }
 [sha:d525f499037e4e8ef50d37a25fcc230f79eaa94f]{
@@ -4981,14 +5125,14 @@ I rush down the stairs.
 [sha:dea68eda0403d6acc4908d506c0ea33072cf0932]{
 -- 結界の限界が迫る。^だが、中に入る訳にはいかない。^どうすれば先輩を助けられる？
 // @flowchart_descr
-I've made it to the threshold of the barrier, but I'm not able to get inside.
+I've made it to the threshold of the Barrier, but I'm not able to get inside.
  How am I supposed to help Senpai?
 }
 [sha:12e09f95f6019aafd534b7e88882f693db0a4862]{
 -- シエル先輩の姿を探す。^彼女は瓦礫の山に埋もれている。^今すぐに助け出さなければ！
 // @flowchart_descr
 I hunt around trying to spot Ciel-senpai.
- There she is――buried in a pile of rubble.
+ I find her buried in a pile of rubble.
  I need to go help her right away!
 }
 [sha:d775d08587c287dde2ceaa60b560d0e8b598ab34]{
@@ -5009,12 +5153,12 @@ We begin our assault on Vlov.
 // Quoting 12930.
 // @flowchart_descr
 To the bosom, flowers.
- As atonement, the prayers of the Holy Maiden!
+ As atonement, the prayers of^the Holy Maiden!
 }
 [sha:fe1977b3c4508f709963d0076282bd804ca5f828]{
 -- 体はもう動かない。^深い眠りに落ちていく中で、^先輩の声だけを聞いていた。
 // @flowchart_descr
-My body won't move anymore.
+My body can't move anymore.
  Senpai's voice is the only thing I hear as I drift off into a deep sleep.
 }
 [sha:aa5631c6d50b96abc4a972e0041755985e287126]{
@@ -5027,8 +5171,8 @@ Two hours have already passed since Vlov's demise.
 [sha:571743a1551889624f42684e127a70bc8a5794d3]{
 -- 自室のベッドで目覚めた。^傷は深く歩くのも辛い。^でも、命を繋ぐ事が出来たのだ。
 // @flowchart_descr
-I wake up in my own bed.
- My wounds are deep, and I can barely walk.
+I wake up in my own bed.^
+My wounds are deep, and I can barely walk.
  But at least I made it out alive.
 }
 [sha:7269a75fb861d2cf5f0ae3c8c1a7b09a3b3d17be]{
@@ -5072,7 +5216,7 @@ Kohaku-san is the obvious choice here.
 [sha:193b4c27c6609bf8479379a4e19e2d2fa69ce1e2]{
 -- いまだにどんな人物か不明だが、^親睦を深める良い機会だ。^阿良句博士にお願いしよう。
 // @flowchart_descr
-I don't really know her all that well, but maybe this is an opportunity to correct that.
+I don't really know her all^that well, but maybe this is an opportunity to correct that.
  I'll opt for Prof. Arach this time.
 }
 [sha:b46246dfd5d4192577099749b040fbb26e25707c]{
@@ -5102,7 +5246,7 @@ I decide to go for a stroll around the gardens.
 // Reference 14588-9
 // @flowchart_descr
 I'll take a tour around the mansion.
- I'm seven years older than I was last time I was here, so maybe I'll discover something I didn't appreciate before.
+ I'm seven years older than I was the last time I was here, so maybe I'll discover something I didn't appreciate before.
 }
 [sha:ed69c592dff93964037076f535ce83bbe09d2c01]{
 -- 昨夜の現場へと足を運んでみる。^アルクェイドはもう街から^消えているだろうけど……。
@@ -5119,8 +5263,8 @@ My day off passed without anything interesting happening.
 [sha:b03acbf5b7ec04044e5d62369b5696ca78422d87]{
 -- 自室のベッドで目覚めた。^傷は深く歩くのも辛い。^でも、こうして帰ってこられた。
 // @flowchart_descr
-I wake up in my own bed.
- My wounds are deep, and I can barely walk.
+I wake up in my own bed.^
+My wounds are deep, and I can barely walk.
  But, I guess I made it back here on my own?
 }
 [sha:ad443dce717a747222972586751fe0ab0bdc0c1f]{
@@ -5140,7 +5284,7 @@ There's no way I'd be able to pull one over on Akiha.
 [sha:207b73161553a9d90223883e683dc42d6d206ac0]{
 -- どうにか追及は免れたが、^体の事で心配をかけたくはない。^大人しく診察を受けよう。
 // @flowchart_descr
-I've been spared any further questioning, but I don't want her fretting over my health.
+I've been spared from any further questioning, but I don't want her fretting over my health.
  I'll do as I'm told and go see the doctor.
 }
 [sha:21540dc07d03ed5d4721bca54cc4604537843e83]{
@@ -5165,7 +5309,7 @@ As I wander through the gardens for the first time in seven years, I think back 
 [sha:b499e565f6814b0b745550b7471405240b8f5861]{
 -- ひと通り見て回ったところで、^斉木業人に声をかけられた。^包帯男の意外な一面。
 // @flowchart_descr
-As I'm taking in the mansion, Saiki Gouto calls out to me from behind.
+As I'm taking in the mansion, Saiki Gouto calls out to me^from behind.
  I learn something unexpected about the bandaged man.
 }
 [sha:bc934e1f080525562dcede84cb4c5eeb450ef1f4]{
@@ -5184,7 +5328,7 @@ My day off passed without anything interesting happening.
 [sha:35a02a4cbf654cec77c64f8e4d28b204418a02e6]{
 -- 先輩の姿が目蓋から離れない。^適当に読書でもしながら、^眠気がくるのを待とうか……。
 // @flowchart_descr
-Even when I close my eyes, I can still see Senpai.
+Even when I close my eyes, I^can still see Senpai.
  I'll find something to read while I wait for sleep to come...
 }
 [sha:fc88a4a9a50e0f8e21b7425ce1e8a52c09ffa52e]{
@@ -5210,7 +5354,7 @@ There's no woman in white waiting for me outside the school.
 -- 新たな吸血殺人のニュースが。^事件は終わってはいない……？
 // @flowchart_descr
 There's been news of another vampire murder.
- Is this case not actually over yet?
+ Is this case^not actually over yet?
 }
 [sha:620a6842d5edf06ca69f64ab2be2b7503d03b896]{
 -- ヴローヴは死んだ筈だ。^残る吸血鬼はただ一人だけ。^アルクェイドを捜さなければ。
@@ -5235,7 +5379,7 @@ It was only by chance that I met her the first time.
 [sha:87ba6b5ea1baffef5f2a19e3f6293e0b54625d15]{
 -- いつまでも子供扱いは良くない。^話せば分かってくれる筈だ。^ここはむしろ堂々と中に入ろう。
 // @flowchart_descr
-I can't keep thinking of her as a little kid forever.
+I can't keep thinking of her as^a little kid forever.
  I'm sure she'll understand if I tell her what's going on.
  In fact, I should walk in there like I have nothing to hide.
 }
@@ -5249,12 +5393,12 @@ Her ability to make even adults cower in fear is amazing.
 -- 居間からは異様な気配がする。^現れた翡翠は無表情のままで、^来客がある事を告げてきた……。
 // @flowchart_descr
 There's a strange vibe coming from the living room.
- Hisui appears, and stoically informs me that I have a visitor...
+ Hisui appears, and stoically informs^me that I have a visitor...
 }
 [sha:a99791ed1bba7f36014f61431c1ce34fab49e482]{
 -- 必死の思いで屋敷を脱出した。^後の事を考えると恐ろしいが、^今はこの女に話を聞かなければ。
 // @flowchart_descr
-In desperation, I escape from the mansion.
+In desperation, I escape from^the mansion.
  I shudder to think what's in store for me later,
  but right now I need to clear some things up with this woman.
 }
@@ -5292,15 +5436,15 @@ I'll talk with her a little longer.
 [sha:b139cdb0c2e01af955af51133e7d8a1e4c8f1988]{
 -- やはり吸血鬼の知識が必要だ。^吸血鬼と、下僕の死者たち。^関係性を詳しく聞いておこう。
 // @flowchart_descr
-I need to flesh out my understanding of vampires.
- I'll ask her more about the relationship between vampires and the Dead that serve them.
+I need to flesh out my understanding of vampires.^
+I'll ask her more about the relationship between vampires^and the Dead that serve them.
 }
 [sha:9e33c186859d93157ced4669ae51a6400c683270]{
 -- 吸血鬼の事はホテルで聞いた。^さらに踏み込んだ質問……^二十七祖とは何なのだろう。
 // @flowchart_descr
 I already heard the basics about vampires back at the hotel.
  It's time to dig deeper...
- What's the deal with these twenty-seven Ancestors?
+ What's the deal with these Twenty-Seven Ancestors?
 }
 [sha:6f37a5a17427f6b1e3ffbf70d841d7588f73ee3f]{
 -- これは絶好のチャンスだ。^さりげに気になっていた事……^あのドレスをもう一度。
@@ -5326,7 +5470,7 @@ It's already past midnight.
 // @flowchart_descr
 I sneak back into the mansion.
  Why am I helping her?
- I'm not going to dwell on it right now. I need sleep.
+ I'm not going to dwell on it right now.^I need sleep.
 }
 [sha:d57235e3436eb47b284f64fcfeaa0d606fdc0b58]{
 -- 今朝は驚くほどに体調がいい。^健康すぎて不安になるほどだ。^けれど、何かが物足りない……。
@@ -5339,21 +5483,21 @@ I wake up feeling surprisingly healthy――almost too healthy.
 -- 正門前に白い女の姿はない。^そして、シエル先輩達は――^何故かまだ学校にいるのだった。
 // First part shared with Arc ver
 // @flowchart_descr
-There's no woman in white waiting for me at the main gate.
+There's no woman in white^waiting for me at the main gate.
  Ciel-senpai and the others are also――still at school for some reason?!
 }
 [sha:eaf0d18a200cc7ec72f33dd44fbbc73bb4ba56a2]{
 -- 昼休みになった。^有彦と一緒に昼食をとろう。^何か、ガツガツとした物を……。
 // @flowchart_descr
 It's time for lunch.
- I think I'll go eat with Arihiko.
+ I think^I'll go eat with Arihiko.
  For some reason, I feel absolutely ravenous...
 }
 [sha:19c8157ab98a626918529c5616cb6d4e1e034e7e]{
 -- ハンバーグ、唐揚げ……。^肉汁たっぷりのメニューがいい。^有彦と一緒に食堂に行こう。
 // @flowchart_descr
-Hamburgers, fried chicken...
- I'm craving something succulently meaty.
+Hamburgers, fried chicken...^
+I'm craving something succulently meaty.
  I'll go hit up the cafeteria with Arihiko.
 }
 [sha:72a22f9e3561fadf87806be8217267f9184af24f]{
@@ -5366,7 +5510,7 @@ This craving for junk food can only be sated by curry bread.
 [sha:5811fa4c31de3e9e64df6d2901083f8fc9c55c00]{
 -- 手作りの弁当を分けてください。^先輩とそう約束をした筈だ。^茶道室まで行ってみようか……？
 // @flowchart_descr
-I'm pretty sure Senpai promised she'd let me have some of her home-made bento...
+I'm pretty sure Senpai promised she'd let me have some of her homemade bento...
  Maybe it's time to pay a visit to the tea ceremony room?
 }
 [sha:3cc70f685918ae8cbea21177d6cfd9f7600aa5b3]{
@@ -5411,7 +5555,7 @@ I arrive at the tea ceremony room.
 -- 先輩は真面目な顔で尋ねてくる。^地下墓地に現れるまでの数日、^自分の身に何があったのか―――
 // @flowchart_descr
 Senpai questions me with a serious expression on her face.
- Just what exactly was I up to in the days leading up to our meeting in the catacombs?
+ Just what exactly was I up to^in the days leading up to our meeting in the catacombs?
 }
 [sha:67fdd4475306fac3fea4506d9f62c2a62baa5bd1]{
 -- ノエルの待つ校舎裏に行こう。^先輩には誤魔化されそうな話も、^先生なら教えてくれそうだ。
@@ -5436,13 +5580,14 @@ Akiha is in a good mood, but I've also got my promise with Arcueid to consider.
 -- 彼女は頼みを聞いてくれた。^その彼女に頼まれたのなら、^断るわけにもいかない。
 // @flowchart_descr
 She granted my request before.
- Now that she's asked something of me, how could I refuse?
+ Now that she's asked something^of me, how could I refuse?
 }
 [sha:e439c77c0c1f64c4658b90e9dbbbd30185abf26b]{
 -- アルクェイドと夜の街を行く。^何の変哲もない住宅地、^そこに吸血鬼の隠れ家がある――
+// is den fine or should it be hideout or nest?
 // @flowchart_descr
-Arcueid and I head out into the sleeping city.
- Nestled in a completely nondescript residential area, we find a hidden vampire den.
+Arcueid and I head out into^the sleeping city.
+ Nestled in^a completely nondescript residential area, we find a hidden vampire den.
 }
 [sha:f6b404687586c80c469cb865d7b785f2f1401e03]{
 -- ビルが圧し潰される様子を、^高みから見下ろす姿があった。^そして、もう一人――
@@ -5481,7 +5626,7 @@ I think back on last night's incident in the living room.
 -- 緊迫した空気を変えよう。^いつもの調子では助からない。^ここはフランクに行くべきだ。
 // Ref 19762.
 // @flowchart_descr
-I need to do something about this tense atmosphere.
+I need to do something about^this tense atmosphere.
  My usual approach isn't going to cut it here.
  It's time for some radical candor.
 }
@@ -5502,21 +5647,21 @@ I'm in too deep to talk my way out of this.
 [sha:0529e271f4779d9336d886e68b6447c06b79e20a]{
 -- そこに座れと死刑宣告が下る。^もはや抵抗は無意味だ。^観念して話をしますね。
 // @flowchart_descr
-Her command to sit down may as well be my death sentence.
+Her command to sit down may^as well be my death sentence.
  Resistance is futile at this point.
- Accepting my fate, I begin to talk.
+ Accepting my fate, I^begin to talk.
 }
 [sha:12ea03db60b41c2d5112ed689067dee649abf79b]{
 -- 緊張感のない男性に^話しかけられる^これ本当に刑事……？
 // @flowchart_descr
-This laid-back guy just started talking to me out of nowhere.
- Is he seriously a detective...?
+This laid-back guy just started talking to me out of nowhere.^
+Is he seriously a detective...?
 }
 [sha:3a7abea0a5679a856028a2ba22251b25aacc8a7e]{
 -- 相手の目的が分からない以上、^こちらも対応のしようがない。^まずは探りを入れてみよう。
 // @flowchart_descr
-I can't deal with them effectively if I don't even know what it is they're after.
- I should find out more about their intentions.
+I can't deal with them effectively if I don't even^know what it is they're after.^
+I should find out more about their intentions.
 }
 [sha:dc453806ff261b98302bf901a9a9394025926b30]{
 -- ここ数日の行動は不審がすぎる。^下手に相手をするのは避けて、^この場から離れよう……。
@@ -5554,7 +5699,7 @@ I didn't see anything. No sir.
 [sha:b3b36f617b4129b62e9c18f16ca4d5e7676b7d29]{
 -- 昼休みになると有彦が出てきた。^街で何か変わった事はないか、^聞いてみるのもいいだろう。
 // @flowchart_descr
-Arihiko turns up just in time for lunch.
+Arihiko turns up just in time^for lunch.
  I guess I may as well ask him if he knows of anything unusual happening in town.
 }
 [sha:819d6cc03e487ca525b230d1bd57aeb49bcad688]{
@@ -5586,7 +5731,7 @@ There's no way I'd be able to slip a lie past Hisui.
 -- やはり本当の事は言えない。^翡翠には悪いが、^ここは誤魔化すしかない。
 // Ref 20375
 // @flowchart_descr
-There's no way I can tell her the truth.
+There's no way I can tell her^the truth.
  I feel bad about doing this to Hisui, but I have to lie to her.
 }
 [sha:f0be1faeffce760a9ee26bcdca53237eaf8539bf]{
@@ -5600,7 +5745,7 @@ It's after lights-out.
 -- 吸血鬼のコミュニティ。^そのアパートは、^住宅地のただ中にあった。
 // Ref 20546
 // @flowchart_descr
-The apartment complex housing a whole colony of vampires was located square in the heart of a residential area.
+The apartment complex housing^a whole colony of vampires was located square in the heart of^a residential area.
 }
 [sha:ebdb42978fe6fcc49ce2852a130b9d1a09279613]{
 -- 公園に戻って体を休める。^直死の魔眼とは何かを^語るアルクェイド。
@@ -5612,7 +5757,7 @@ We've returned to the park, and I'm resting.
 -- 施錠のシステムが変わったのか、^屋敷の正門は閉ざされていた。^裏口を探して中に入ろう……。
 // Ref 20904
 // @flowchart_descr
-I can't get past the main gate of the mansion.
+I can't get past the main gate^of the mansion.
  I wonder if they changed the lock system.
  I'll try and find a back door, and get in that way.
 }
@@ -5638,7 +5783,7 @@ It's been a long night, and I'm completely spent.
 -- 敵意も殺意もあからさまだ。^彼女は敵だと認識する。^あえて誘い込み、そして……。
 // @flowchart_descr
 Her animosity and bloodlust are plain as day.
- She's definitely an enemy.
+ She's definitely^an enemy.
  I'll lure her in, and then...
 }
 [sha:f41e27c139d3bc6547ad6152372198ebd406998e]{
@@ -5666,20 +5811,20 @@ When I arrive at my classroom, I find that Ciel-senpai is already there.
 -- 貧血が意識を途切れさせる。^暗闇に落ちたその先で、^血の匂いのする夢を見ていた――
 // @flowchart_descr
 I black out from anemia.
- A bloodstained dream awaits me in the darkness.
+ A bloodstained dream awaits me^in the darkness.
 }
 [sha:cd498e34e83ad90165339d8ee7ff12de1939fa6b]{
 -- 保健室で目を覚ました。^カーテンの向こうから、^誰かの話し声が聞こえてくる……。
 // Ref 18616
 // @flowchart_descr
-I wake up in the infirmary.
+I wake up in the infirmary.^
  I can hear voices coming from beyond the curtain.
 }
 [sha:05fff38535de1c7ad5f041188bc531a3905ef824]{
 -- ……などと答える前に、^あっさりと却下されてしまった。^警告を残して先輩は去って行く。
 // @flowchart_descr
 I'm shot down before I can even make a proposal.
- After issuing me a warning, Senpai leaves the infirmary.
+ After issuing^me a warning, Senpai leaves the infirmary.
 }
 [sha:1adba3007e861b608cd55f7f9e4e9127e2ee0d85]{
 -- 午前の授業は終わった。^昼食はひとりで済ませようか、^それとも先輩の所に行こうか。
@@ -5696,7 +5841,7 @@ Senpai's headed for the school gate instead of the school store...
 [sha:d17f679c546eabf9d19a5404d78be7af84707880]{
 -- 所以不明の病院跡。^とどまる理由がない。^出るべきだと提案した。
 // @flowchart_descr
-We've combed through the ruins of the mysterious dilapidated hospital.
+We've combed through the ruins^of the mysterious dilapidated hospital.
  There's no reason for us to stick around.
  I suggest we leave.
 }
@@ -5718,9 +5863,9 @@ I feel bad about deceiving Senpai, but I'd made a promise with Arcueid first.
 // あの人 both Ciel here, not arc.
 // 別の話 presumably referring to 尊敬と、好き嫌いは別の話だ。
 // @flowchart_descr
-Ciel was the one who saved my life.
- Ciel was the one who protected the city.
- But, respecting someone and liking someone are different things――
+Ciel-senpai was the one who^saved my life.
+ She was the one^who protected the city.
+ But,^respecting someone and liking someone are different things――
 }
 [sha:88175b0fe432b14cdf205da594131dc198e7f51f]{
 -- アルクェイドもほっとけないが、^シエル先輩も大切なひとだ。^敵とは思いたくはない。
@@ -5731,16 +5876,16 @@ Even if I can't bring myself to forget about Arcueid, Ciel-senpai is still preci
 [sha:121cfd40ba2f123b361f2f3700ffd30cfde2c73f]{
 -- 新天地を求め集まった若者達。^振り降ろされた凶器は容赦なく、^彼らの体を圧し潰してゆく―――
 // @flowchart_descr
-The youths have gathered at the promise of a brave new world.
- But all that awaits them is a merciless weapon,
+The youths have gathered at the promise of a brave new world.^
+But all that awaits them is a merciless weapon,
  ready to reduce them all to dust.
 }
 [sha:d95d42ad6e3f9b08454d758533d7eb01a447a61b]{
 -- まるで寝付く事ができない。^今夜も本を手に取った。^読んでいれば眠気も来るだろう。
 // @flowchart_descr
 It's like I've completely forgotten how to sleep.
- I pick up the book where I left off.
- I'm sure I'll doze off if I start reading.
+ I pick^up the book where I left off.^
+I'm sure I'll doze off if I start reading.
 }
 [sha:b0ba77308d778edbf1dc600932fe4c5862c1428e]{
 -- 何もかもがあり得ない事ばかりで^頭が上手く働いてくれない。^思い返すとしたら、それは……。
@@ -5753,7 +5898,7 @@ The events of last night are so ridiculous that it's hard for me to put my thoug
 -- アルクェイドを思い返した。^昨夜の表情が気にかかる。^傷が完治してないのだろうか？
 // @flowchart_descr
 I think back on Arcueid.
- I'm worried about the look she had on her face last night.
+ I'm worried about the look she had^on her face last night.
  Have her wounds not fully healed yet?
 }
 [sha:d05659f5e367bd5f781e86bfd2a2e729eec258b7]{
@@ -5767,32 +5912,32 @@ I think back on that shadowy figure.
 -- 先生……ノエルを思い返す。^シスター……？^まあシスターかな……。
 // @flowchart_descr
 I think back on Noel, the... teacher? Nun?
- I'm guessing nun is her real job.
+ I'm guessing nun^is her real job.
 }
 [sha:b72ab8566d969ca549d888dd9881d4e998eabdde]{
 -- まずは朝食を摂らなければ、と^ベッドから起き上がる。^だが、体の不調は―――
 // @flowchart_descr
-I'd better go get breakfast.
- I try to get out of bed, but my body refuses to cooperate.
+I'd better go get breakfast.^
+I try to get out of bed, but^my body refuses to cooperate.
 }
 [sha:61e55588a34b783721f8d14234e1d8220452d885]{
 -- 学校を休む事にした。^翡翠を安心させるためにも、^診察を受けておこうか……？
 // @flowchart_descr
-I decide to skip school today.
- I guess I'd better get myself checked out so that Hisui stops worrying about me.
+I decide to skip school today.^
+I guess I'd better get myself checked out so that Hisui stops worrying about me.
 }
 [sha:f8f8e0f19adba2a2222184ccb81094f122bf2c8e]{
 -- 阿良句博士にお願いしよう。^いまいち安心できない人だが、^あれでも専門家には違いない。
 // Ref 21437
 // @flowchart_descr
-I'll ask Prof. Arach to do it.
- I still feel a little on-edge around her, but there's no denying she's a professional.
+I'll ask Prof. Arach to do it.^
+I still feel a little on edge around her, but there's no denying she's a professional.
 }
 [sha:afac58e6cdd0a5eb5a03be5e75ddc18f600a9a88]{
 -- 琥珀さんにお願いしよう。^薬を処方してもらえれば、^あとは自力で回復する。
 // @flowchart_descr
-I'll ask Kohaku-san to do it.
- If I can get her to prescribe me something, then my body can take care of the rest.
+I'll ask Kohaku-san to do it.^
+If I can get her to prescribe me something, then my body can take care of the rest.
 }
 [sha:aedbc05790aa69cf7b146e4aa6279b540df3265b]{
 -- 部屋にいてもやるべき事がない。^体の調子は戻ってきたのだから、^ここはひとつ―――
@@ -5804,7 +5949,7 @@ There isn't much for me to do in my room.
 -- 子供の時以来となる中庭の建物。^そこには七年前に彫られたらしい^奇妙な落書きが……。
 // @flowchart_descr
 The gazebo in the courtyard has been there since we were kids.
- The strange words I find there seem like they were carved into the stone seven years ago..
+ The strange words I find there seem like they were carved into the stone seven years ago...
 }
 [sha:8a3817456939cf5ff439af48466bcac0d934e395]{
 -- 西棟二階には槙久の書斎がある。^ふと、昨夜のアルクェイドから^言われた事を思い出していた。
@@ -5823,7 +5968,7 @@ I'm the only one here right now.
 // @flowchart_descr
 I'd better leave the study alone.
  There's no guarantee I'll find the answers I'm looking for there.
- I'll change course and go walk around the first floor instead.
+ I'll change course and^go walk around the first floor instead.
 }
 [sha:e095fdf0ab3e34692d2cb5ef41e2d1babbc3b6b7]{
 -- ――――――。
@@ -5859,7 +6004,7 @@ I feel like... I had a terrible nightmare.
 [sha:83afae71ee904b9afc9f2038cf0da011a2025fbf]{
 -- 階段でシエル先輩を発見した。^彼女の無防備な両脇が、^俺に抱え上げろと言っている――
 // @flowchart_descr
-I spot Ciel on the stairs.
+I spot Ciel-senpai on the stairs.
  When I see her defenseless back, I have the overpowering urge to sweep her off her feet...
 }
 [sha:978009212802a7c42f2b5f8c58cc8875df2c3fb5]{
@@ -5874,7 +6019,7 @@ Apparently there's a vaccination drive today.
 // @flowchart_descr
 I'm not here for fun and games.
  Just get it over with so I can leave.
- But, her parting words are a little strange...
+ But, her parting words^are a little strange...
 }
 [sha:128a6d215120aea6f55008b669f3cc46278cd86b]{
 -- 逆に興味が湧いてきたが、^普通に注射を打たれて退散する。^好奇心、なんとやら。
@@ -5888,7 +6033,7 @@ The unusual description piques my interest, but the injection is uneventful.
 // @flowchart_descr
 The promised time has finally arrived.
  I'm so excited to visit the clubroom that I can hardly contain myself.
- When I enter, I catch sight of a mysterious object...
+ When I enter,^I catch sight of a mysterious object...
 }
 [sha:a0a515b1c8a381097f164162ba13999e6767aa64]{
 -- 先輩の話は続く。^アルクェイドに関わる危険性と、^ロアという名の吸血鬼の事――
@@ -5900,8 +6045,8 @@ Just how dangerous is Arcueid, and who is the vampire named Roa?
 -- 先輩とは絶交をした。^気分が晴れないままの放課後、^意外な相手からメールが届く。
 // Ref 22837
 // @flowchart_descr
-Ciel-senpai and I are through.
- As I gloomily start to head home, I receive a text from someone unexpected.
+Ciel-senpai and I are through.^
+As I gloomily start to head home, I receive a text from someone unexpected.
 }
 [sha:4f5f970d29ace4e3b43d98b17f8a3c4c71887701]{
 -- 気分転換になるだろう。^指定された廃工場へと足を運び、^促されるまま扉を開けた。
@@ -5917,7 +6062,7 @@ This could be a good way to take my mind off things.
 // @flowchart_descr
 I will give him his just desserts.
  There is no going back now.
- From the moment I resolve to kill this vampire,
+ From the moment I resolve^to kill this vampire,
  my hands become ever more stained with blood.
 }
 [sha:6d3521330894be81fbce4e6c45e1ea3400b04eda]{
@@ -5938,12 +6083,12 @@ Noel and I exit the building into the back alley below.
 // @flowchart_descr
 I return to my room in low spirits.
  Senpai issued me a warning, but I made a promise with Arcueid.
- I can't make up my mind between the two...
+ I can't make up^my mind between the two...
 }
 [sha:853098cc87b3732c8375f362476529c8bd00d367]{
 -- 約束の時間だ。^アルクェイドにもう一度会って、^自分の気持ちを確かめよう。
 // @flowchart_descr
-It's time to fulfil my promise to Arcueid.
+It's time to fulfill my promise^to Arcueid.
  I'll meet up with her one more time, and confirm how I really feel.
 }
 [sha:0254e07a578acf4d16cf7b673be4c3c9db860126]{
@@ -5956,8 +6101,8 @@ I can't let things carry on like this.
 [sha:117c5ea4b2c0cc46d7a917c15924d0798453ccbd]{
 -- 先輩は好きにしろと言った。^ここは冷静に言い返して、^シエル先輩にお帰り願おう。
 // @flowchart_descr
-Senpai told me I could do as I wish.
- Now's the time to be logical, and ask Ciel-senpai to go back home.
+Senpai told me I could do as^I wish.
+ Now's the time to be logical, and ask her to go back home.
 }
 [sha:9bf5309044ffd5661bf78f1c55e91c7dd36eacd1]{
 -- 公園に到着してしまった。^竜虎相打つ。^最悪の事態は容赦なく訪れる。
@@ -5969,7 +6114,7 @@ For better or worse, I've arrived at the park.
 [sha:b69f7eb5d3de09b8f6774926152c6fb3d4c8e2a7]{
 -- 激突する代行者と吸血鬼。^トップランカーの戦いが、^ここに。
 // @flowchart_descr
-The clash between Executor and vampire commences.
+The clash between Executor^and vampire commences.
  I stand witness to a battle for the ages.
 }
 [sha:d7a92a84ed79beb1269075e32635b92eb0bcad84]{
@@ -5982,15 +6127,15 @@ Their abilities start out evenly matched.
 -- このまま見過ごせる筈がない。^二人の間に割って入り、^アルクェイドと対峙する―――
 // Cribbed from 23869.
 // @flowchart_descr
-I'm not going to just sit back and watch this insanity unfold!
- I plant myself between the two of them, and confront Arcueid.
+I'm not going to just sit back and watch this insanity unfold!^
+I plant myself between the two^of them, and confront Arcueid.
 }
 [sha:e2eebcb5e1ca94078fb4ddb6bd1c486eb591d7f4]{
 -- 本当にそれでいいのか。^それで一体なにが変わるのか。^だが、今は直球で行くしかない！
 // See 23918.
 // @flowchart_descr
-Is that really a good idea?
- What would that even achieve?
+Is that really a good idea?^
+What would that even achieve?
  Whatever, right now I need to be direct!
 }
 [sha:cb6058d159f7869f47be964cff192bfe560df632]{
@@ -6004,7 +6149,7 @@ Saying the wrong thing would only make things worse.
 [sha:a0ef60e40a4301955cc6bd03062331e82c8b5240]{
 -- 傷ついた先輩が自分を庇う―――^だが、先輩の事は自分が守る！^ところで、何から守るんだっけ？
 // @flowchart_descr
-Though injured, Senpai positions herself to protect me――but I move to protect Senpai!
+Though injured, Senpai positions herself to protect me――but I move to protect her!
  Wait, who are we protecting each other from again?
 }
 [sha:27700cf7150f4851c58f79be0096b59d9126bca5]{
@@ -6063,8 +6208,8 @@ The first order of business is to get away from the Tohno mansion.
 [sha:995bbbadd5ee4ee05f6ab5e1fffb787f6b8c3b11]{
 -- アルクェイドが楽しめそうな^駅の方面に向か……え、^何をしてんのこのお姫さま？
 // @flowchart_descr
-I can probably find some way to entertain her over by the station, so let's head there――
-wait, what's Her Majesty up to now?!
+I can probably find some way^to entertain her over by the station, so let's head there――
+wait, what's Her^Majesty up to now?!
 }
 [sha:039461b82dad863edf209e5b4a2f26ff173daad5]{
 -- 映画が定番だろう。面白みが^ないとか言わないでほしい。^定番こそ王道である。
@@ -6077,7 +6222,7 @@ A movie is standard fare, right?
 // References offsets 24679, 24681 and 24682
 // @flowchart_descr
 I'm starting to doubt my own sanity.
- But there's no doubt in my mind that this is the right choice.
+ But there's no doubt^in my mind that this is the^right choice.
  I must make my overwhelming desire reality.
 }
 [sha:70955daf365f1841cc8b594d1be3c80bed0f3ca0]{
@@ -6085,7 +6230,7 @@ I'm starting to doubt my own sanity.
 // Ref 24875
 // @flowchart_descr
 Luckily, it's a lovely day out today.
- I'll take Arcueid for a walk in the park.
+ I'll take Arcueid for^a walk in the park.
  Seeing it during the day will be a nice change of pace.
 }
 [sha:85cffadfc965b051d74cbf1620c117501a7feeab]{
@@ -6106,7 +6251,7 @@ After being bullied into it by Arcueid, we arrive at my school.
 // This is 10_00_ARC10_5B but they don't say もしも once!
 // Probably more about the promising to meet again
 // @flowchart_descr
-A talk of 'what-if's.
+A talk of 'what-ifs'.
 }
 [sha:6fb219a4e40b583af851b6590d70b033edf7f19f]{
 -- アルクェイドと公園に来た。^探索を始めるには、まだ早い。^ただ、時間が過ぎるのを待つ。
@@ -6133,7 +6278,7 @@ If only it were just a bad joke.
 [sha:565dd33219c59d83b75e676e0d8867eeb8835a5d]{
 -- 聖堂教会の司祭は語る。^アルクェイドの“敵”の正体と^その目的を。
 // @flowchart_descr
-The Presbyter from the Holy Church tells me who her enemy is,
+The Presbyter from the Holy Church tells me who her enemy^is,
  and what his goals are.
 }
 [sha:727145f7a51dec1540585e6887352a4d25a2beca]{
@@ -6159,7 +6304,7 @@ I'll try her apartment.
 -- 部屋に戻ったとは思えない。^向かうのなら、今は誰も^やってこない場所―――
 // @flowchart_descr
 I doubt she'd go back to her apartment.
- Instead, she'd want to go somewhere nobody else would go.
+ Instead, she'd want^to go somewhere nobody else would go.
 }
 [sha:b26e974d8c018232063e53c5bdad030957e80789]{
 -- 眼鏡を外し、夜の街を行く。^彼女の死だけは視えない。^それが手掛かりになると信じて。
@@ -6185,8 +6330,8 @@ Fangs spare me the agony of death.
 [sha:15323e31ae59925db2fdfd7b10e5bb01fcd520db]{
 -- アルクェイドを泣かせるような^真似は、二度とできない。^この脳が焼き切れても―――
 // @flowchart_descr
-I will never do anything that will make Arcueid cry again.
- Even if the strain burns out my brain――
+I will never do anything that will make Arcueid cry again.^
+Even if the strain burns out^my brain――
 }
 [sha:96f07839e5554b23b5797904fb107fbceea36cd0]{
 -- 夢を見ていた。^夢の中でも目を覚ましても、^昨夜の別れが頭から離れない。
@@ -6218,7 +6363,7 @@ I'll make Senpai my top priority.
 // Ref 27245
 // @flowchart_descr
 I run all the way to school without stopping.
- Standing by the still sparsely populated main gate, I wait for Senpai to arrive...
+ Standing by^the still sparsely populated^main gate, I wait for Senpai^to arrive...
 }
 [sha:9a4d92606eedcef94d89d9d0fd5f13ee5acf7011]{
 -- シエル先輩に会う事は^出来なかった。^ノエル先生は今日も欠勤らしい。
@@ -6230,7 +6375,7 @@ Ciel-senpai never showed up.
 -- 失意のままにランチに。^ぼやけた心は、^おかしな先輩をスルーする。
 // @flowchart_descr
 Despondent, I head to the cafeteria for lunch.
- My mind is so clouded that it doesn't immediately process a conspicuous senior.
+ My mind^is so clouded that it doesn't immediately process a conspicuous senior.
 }
 [sha:d11f7afd73a2904f90f87b45a642009244017d7a]{
 -- 先輩は何があっても先輩だ。^たとえ本人が否定しようと、^尊敬できる人だと断言する―――
@@ -6274,21 +6419,21 @@ I don't want to bother her more than I already have.
 // Ref 27499
 // @flowchart_descr
 There's no way it can wait.
- We need to discuss this right now.
- I call for Senpai to wait, and suggest we head to the clubroom.
+ We need to discuss this right now.^
+I call for Senpai to wait, and suggest we head to the clubroom.
 }
 [sha:b044791ae6b30e59c76ab5064c74749b89f9cd37]{
 -- シエル先輩とノエル先生。^ふたりの関係性を、^より深く知るべきだ。
 // @flowchart_descr
-Ciel-senpai and Noel-sensei...
- I feel like I ought to find out a little more about their relationship.
+Ciel-senpai and Noel-sensei...^
+I feel like I ought to find^out a little more about their relationship.
 }
 [sha:30a633df89c764f1d45c1362658b3080a663e52c]{
 -- ちょっとした好奇心。^昨夜チラッと聞こえてきた単語、^大聖堂について訊ねてみよう。
 // @flowchart_descr
 I'm a little curious...^
 Last night, there was a word that caught my attention...
- I'll ask her a little more about that 'cathedral'.
+ I'll ask her a little more about that 'Cathedral'.
 }
 [sha:c072f32b94f8bde519ab320208e2a3a7eaa45bef]{
 -- さらなる好奇心。^先輩たちが使っている武器、^黒鍵について訊ねてみよう。
@@ -6329,9 +6474,9 @@ Roa is already dead――at least, that's what I was told.
 [sha:685e361274bff606a88b38751f1c182d703a4919]{
 -- 先輩の様子はおかしい。^一人で行かせる訳にはいかない。^半ば強引に、同行を申し出た。
 // @flowchart_descr
-Senpai's acting strangely.
- I can't let her go alone.
- I assertively volunteer to go with her.
+Senpai's acting strangely.^
+I can't let her go alone.^
+I assertively volunteer to go with her.
 }
 [sha:898b271a59769d02897455be35116ec15dbeb717]{
 -- それが一番確実で、安全だ。^シエル先輩を信じて、^茶道室で待機していよう。
@@ -6341,6 +6486,7 @@ This is the surest and safest option.
 }
 [sha:f2dfbe613ec063217692d9adfb3186c353205630]{
 -- 代行者はツーマンセルで^行動するのが常らしい。^ノエル先生にも報せないと。
+// is two man units fine or is there an agreed term for this? 
 // @flowchart_descr
 Executors work as two-man units.
  We'd better tell Noel-sensei about this.
@@ -6355,8 +6501,8 @@ We've reached our destination: a sewage canal.
 -- ロアの死体が焼かれていく。^街を脅かす脅威は去った。^吸血鬼事件は終わったのだ。
 // @flowchart_descr
 Roa's corpse has been incinerated.
- The threat that hung over the city is gone.
- The vampire incidents are at an end.
+ The threat that^hung over the city is gone.^
+The vampire incidents are at^an end.
 }
 [sha:b2cbb9e29a6c5441abb46b925c2f3deaab55e45b]{
 -- これで終わり。^明日からは平穏に生きられる。^傷や思い出も、全部忘れて――
@@ -6384,7 +6530,7 @@ Arcueid said it would be best if we didn't see each other again.
 // Reference 29565, 29569
 // @flowchart_descr
 Classes have ended.
- The rest of the day is mine.
+ The rest^of the day is mine.
  So... what should I do now?
 }
 [sha:f067f9cb044841bcd0c1d7238a2835e8cf1ad6b0]{
@@ -6441,14 +6587,14 @@ I was dreaming...
 // Same bones as the Roa bad end later today
 // @flowchart_descr
 I awaken from my slumber.
- I can't say I'm feeling great, but it won't impede me going about my day.
+ I can't say I'm feeling great, but it won't impede me from going about my day.
 }
 [sha:64f4395f86480c7331f9bbb86deba36225c418c4]{
 -- 手足は重い。^他人の体を着ているようだ。^学校に向かおう。
 // Ref 29099.
 // @flowchart_descr
 My limbs are heavy.
- It's like I'm piloting someone else's body.
+ It's like^I'm piloting someone else's body.
  Time to go to school.
 }
 [sha:f9ecaaf8b8d8901cda3c515e87482767f0e955ae]{
@@ -6484,315 +6630,513 @@ I awaken from my long slumber.
 }
 [sha:91881718f586bbe6d0e7b213d0716c15ee1548ad]{
 -- 蝉の抜け殻。^時間は砂のように過ぎていく。
-Cast-off cicada shells.^Time passes by like sand.
+// @flowchart_descr
+Cast-off cicada shells.^
+Time passes by like sand.
 }
 [sha:8aee172e671206079985d1cfc385b08b01b96fc8]{
 -- 人気の絶えた校舎で、^ずっと考え続けていた。^これからどうするべきなのかと。
-In the school building devoid^of any life, I simply continue^thinking. Thinking about what^I should do from now on.
+// @flowchart_descr
+I'm alone with my thoughts in the deserted school building.
+ What should I do from now on?
 }
 [sha:af167f3bb5fcd9227b8af4b152a2f85ed5d68da2]{
 -- アルクェイドを見つけ出す。^見つかるまで探し続ける。^彼女を一人にはしておけない―――
-I'll continue searching until I^find her. I can't allow her to be^alone.
+// Paraphrase of 30567 to 30570
+// @flowchart_descr
+I'm going to find Arcueid.
+ I won't stop searching until I do.
+ I can't stand the thought of her being all alone.
 }
 [sha:4ee2e19cd4bad2e2e542adb5759189f3d580cb3c]{
 -- 無闇に動き回るのはやめよう。^もう一度考え直す必要がある。^自分に何が出来るのか……。
-I'll stop mindlessly wandering^about. I need to reconsider once^more. What is it that I can do?
+// Basically 30578
+// @flowchart_descr
+Instead of blindly searching^for her, I need to go back and reevaluate.
+ Just what is it that I can do?
 }
 [sha:d29b2852b5ae5a9a23f1c6290c66f6b96dbc5e9d]{
 -- 彼女の目的がロアならば、^ロアを追う事で彼女に会える。^きっと、力になれる筈だ。
-If her objective is Roa, then^I'll be able to find her if I^chase after him. I'm sure I'll^be of help to her.
+// Heavy paraphrase of 30588 to 30590
+// @flowchart_descr
+If she's after Roa, then I can find her by finding him.
+ I'm sure there's some way I can be of use to her.
 }
 [sha:4683e756bb47516240fd5b1c2b72bb47657eb53b]{
 -- 夕暮れに落ちる影。^変貌した思い出は語る。^復讐の時は来た、と。
-Shadows fall at dusk.^My transformed memories speak^out to me: the time for revenge^has come.
+// @flowchart_descr
+Dusk casts a long shadow.
+ My transformed memories speak to me: the time for revenge has come.
 }
 [sha:f55591e5bda724fec41910dd998b96e238d43a56]{
 -- 死が訪れる。^もはや逃れる術はない。^その時――
-Death calls out to me. There's^nowhere left to run. At that^moment――
+// @flowchart_descr
+Death has come calling.^
+There is nothing I can do.^
+But suddenly――
 }
 [sha:6d7bf6a606525057d11bda5ecde5b3e202b748e9]{
 -- ベッドから跳ね起きる……が、^酷い夢を見た覚えはない。^深く、長く眠っていたような。
-ベッドから跳ね起きる……が、^酷い夢を見た覚えはない。^深く、長く眠っていたような。
+// Refs 30867, 30869, 30870.
+// @flowchart_descr
+I snap bolt upright in bed.
+ But... I don't remember having^a bad dream.
+ I feel like I slept deeper and longer than usual.
 }
 [sha:989df67d27d63db1dd11797e3e4ab22fbdb566cc]{
 -- 起こしにきたのは翡翠ではなく、^琥珀さんだった。^今日、翡翠は休みのようだ……。
-起こしにきたのは翡翠ではなく、^琥珀さんだった。^今日、翡翠は休みのようだ……。
+// 30882 bit with a comma
+// @flowchart_descr
+It isn't Hisui that's come^to wake me up, but Kohaku-san.
+ Apparently it's Hisui's day off...
 }
 [sha:ee2d599820e8d29f07e7044d5a2f52bc936336a1]{
 -- 昨日あんな事があったのに、^今朝も翡翠は部屋に来てくれた。^その心遣いがありがたい。
-昨日あんな事があったのに、^今朝も翡翠は部屋に来てくれた。^その心遣いがありがたい。
+// Slight paraphrase of 30891
+// @flowchart_descr
+Even after everything that happened yesterday, Hisui still came to wake me up.
+ I'm thankful for her thoughtfulness.
 }
 [sha:08ea5002399072d5a8fae9dd78dc80a2d0cb78df]{
 -- 元凶は消え去った。^頼りにしていたナイフも、^もう使う事はないだろう。
-元凶は消え去った。^頼りにしていたナイフも、^もう使う事はないだろう。
+// See 30915
+// @flowchart_descr
+The culprit is gone.
+ The knife that has served me will likely never see use again.
 }
 [sha:c58143451c8327845f4ab063c95725bd7f9dbe31]{
 -- 通学路を行く生徒の顔は明るい。^猟奇事件が途絶えたためだろう。^ここに先輩がいてくれたら……。
-通学路を行く生徒の顔は明るい。^猟奇事件が途絶えたためだろう。^ここに先輩がいてくれたら……。
+// @flowchart_descr
+The students all look cheerful^as they make their way to school,^
+no doubt because the vampire incidents have stopped.^
+If only Senpai were here...
 }
 [sha:a0815aa47df3d303c277bf56b882650e73c444f7]{
 -- 素朴な指摘、そのいち。
-素朴な指摘、そのいち。
+// @flowchart_descr
+Insensitive Comment #1
 }
 [sha:169080dfbd77019d50fb7700c0c2f0d993d69831]{
 -- 素朴な指摘、そのに。
-素朴な指摘、そのに。
+// @flowchart_descr
+Insensitive Comment #2
 }
 [sha:8024af802bab9f430cdf01e0a1b246d8cd5e2e5a]{
 -- 素朴な指摘、そのさん。
-素朴な指摘、そのさん。
+// @flowchart_descr
+Insensitive Comment #3
 }
 [sha:2291be9518fd799ccfc836cfb5c2464498838e84]{
 -- 気になっていた事がある。^シエル先輩の使う暗示とは……^どの程度の効力があるのだろう。
-気になっていた事がある。^シエル先輩の使う暗示とは……^どの程度の効力があるのだろう。
+// @flowchart_descr
+I'm a little curious about Ciel-senpai's suggestions...^
+Just how effective are they, anyway?
 }
 [sha:496006e5715cb27369a047d510de2db73ba1da9a]{
 -- 授業が終わったあと。^シエル先輩と有彦と自分とで、^遊びにいく事になった。
-授業が終わったあと。^シエル先輩と有彦と自分とで、^遊びにいく事になった。
+// @flowchart_descr
+Classes are over.
+ It's been decided that Ciel-senpai, Arihiko, and I are headed^into town to hang out.
 }
 [sha:40d575a46ab2f6d7c258a85a47ab5eb539541ae9]{
 -- 待ち合わせの時間が迫る。^琥珀さんへの挨拶もそこそこに、^二階への階段を上って――
-待ち合わせの時間が迫る。^琥珀さんへの挨拶もそこそこに、^二階への階段を上って――
+// @flowchart_descr
+I don't have long before I need to meet up with the others.
+ I get off a quick hello to Kohaku-san, and start sprinting up the stairs when――
 }
 [sha:a450d668a6b18714016f05c6d2b628cbe9b2596f]{
 -- 待ち合わせの時間が迫る。^翡翠への挨拶もそこそこに、^二階への階段を上って――
-待ち合わせの時間が迫る。^翡翠への挨拶もそこそこに、^二階への階段を上って――
+// @flowchart_descr
+I don't have long before I need to meet up with the others.
+ I get off a quick hello to Hisui, and start sprinting up the stairs when――
 }
 [sha:bc122121eab74ea0cc1cc652ea2191d210148dbd]{
 -- 約束を破る事はできない。^琥珀さんを押しのけて、^外に向かって走り出す。
-約束を破る事はできない。^琥珀さんを押しのけて、^外に向かって走り出す。
+// First line 31263, second 31282
+// @flowchart_descr
+I can't break my promise.
+ I push past Kohaku-san and make a break for the front door.
 }
 [sha:ff7986f1f49065b52c80cb992fa3bb68dc0f4d49]{
 -- 琥珀さんの言う事は正しい。^有彦への伝言を頼んで、^部屋で休む事にしよう……。
-琥珀さんの言う事は正しい。^有彦への伝言を頼んで、^部屋で休む事にしよう……。
+// @flowchart_descr
+Kohaku-san is right.
+ I'll give her a message for Arihiko, and^go rest in my room...
 }
 [sha:849e8a2532280a5e73021f511d921a4e28549dfc]{
 -- こんな体では出歩けないだろう。^翡翠に肩を貸してもらい、^部屋まで戻る事にしよう……。
-こんな体では出歩けないだろう。^翡翠に肩を貸してもらい、^部屋まで戻る事にしよう……。
+// @flowchart_descr
+I'm in no state to go out.
+ I'll have to rely on Hisui to help me back to my room.
 }
 [sha:34d55f8bd64b30a92afb289eb8119936fdde20c4]{
 -- 頭痛はやまない。^自分に向けられる目は癇に障る。^なぜ放っておいてくれないのか。
-頭痛はやまない。^自分に向けられる目は癇に障る。^なぜ放っておいてくれないのか。
+// 頭痛はやまない= 31425
+// @flowchart_descr
+My headache won't let up.
+ I can't stand the way she's looking at me.
+ Why won't she just leave me alone?!
 }
 [sha:5acd75c1ed188956b3680e79de63aed65aea2e15]{
 -- 心配そうな秋葉を追い返す。^そんな気遣いは不要だ。^眠くもないが、眠ってしまおう。
-心配そうな秋葉を追い返す。^そんな気遣いは不要だ。^眠くもないが、眠ってしまおう。
+// Ref 31465
+// @flowchart_descr
+I tell Akiha to clear off and stop worrying about me.
+ Her concern is unwarranted.
+ I'm not sleepy, but I'm going to sleep anyway.
 }
 [sha:93bfe8c7871ef7bf72aab60f6947feb58b0c422b]{
 -- 月影がかすむ夜。^陽炎のような夢。^牢獄にかえる君。
-月影がかすむ夜。^陽炎のような夢。^牢獄にかえる君。
+// @flowchart_descr
+The night is hazy with moonlight.^
+My dream is a shimmering mirage.^
+You are turning into a prison.
 }
 [sha:c23230d3389c07916803c0a29e2a617247e8ba09]{
 -- 自分はまだ生きているらしい。^懐かしい夢から目を覚ますと、^そこには秋葉の姿があった。
-It seems like I'm still alive.^After awakening from a nostalgic^dream, I see Akiha's figure.
+// @flowchart_descr
+It seems like I'm still alive.
+ As I wake from my nostalgic dream, I'm met with the figure of Akiha.
 }
 [sha:b798ddd8a6d4c26697ccbf7c908b972c535d206b]{
 -- 代行者から真実を聞く。^自分の幸福のために、^彼女の幸福が欲しいと願った。
-I ask the Executor for the truth.^For the sake of my own happiness,^I wished for Arcueid's happiness.
+// No great direct quotes for this one. Generally 32159 and surrounding offsets.
+// @flowchart_descr
+I hear the truth from the Executor.
+ For the sake of my^own happiness, I wanted to make Arcueid happy.
 }
 [sha:24dd7af0953e25f99b4dbfde8ff3b715f4fd7dfc]{
 -- 月の兎は、夜を駆ける。
-The moon rabbit soars through the^night.
+// Plain 月の兎 doesn't appear in the script, though 月面を跳ぶ兎 comes up at least three times in reference to Arc.
+// @flowchart_descr
+The rabbit of the moon soars through the night.
 }
 [sha:2e4ea05f71e7144e4a62f870ebd4463349b2a6ab]{
 -- アルクェイドを追って^夜の学校へ。^死の影は誰のものか。
-Chasing after Arcueid, we head^into the nighttime school. Whose^shade is the one of death?
+// 夜 adjusted to a more normal adjective, as elsewhere
+// @flowchart_descr
+Chasing after Arcueid, we head for the deserted school.
+ To whom does the shadow of death cling?
 }
 [sha:1dc32b1ee486a90e5465f7403f7b96559af27a77]{
 -- 月の光を、忘れないように。
-So I may never forget the moon's^light.
+// @flowchart_descr
+So I may never forget the moon's light.
 }
 [sha:5145523f8d17324716238dff315acf65b9f2e2b1]{
 -- 境界が崩れていく。^人間である事に、^何を拘っていたのだろう。
-The boundaries collapse.^Why was I so concerned with my^own humanity?
+// @flowchart_descr
+My boundary gradually crumbles.
+ Why was I so concerned with preserving my own humanity?
 }
 [sha:9f128144d6d10e414e686b843d97b9e8d001a613]{
 -- 転生は無限ではなくなり、^代行者は罪を取り上げた。^これもまた、一つの終わり。
-His reincarnation; infinite no^longer, as the Executor takes^on my sin.^This too, is another ending.
+// @flowchart_descr
+His reincarnation is infinite^no longer.
+ The Executor shoulders my sin.
+ This, too, is another ending.
 }
 [sha:35c0540cbcc3b0dcc0aa563a918d349312c55e3b]{
 -- 単独でロア討伐を実行する^代行者シエル。^だが―――
-Executor Ciel tries to carry out^her independent extermination of^Roa, however――
+// @flowchart_descr
+Executor Ciel moves to subjugate Roa on her own.
+ However――
 }
 [sha:26a2c5e822acabbecdc87acf6e35ba1c86025f9d]{
 -- 一睡も出来ぬまま朝を迎えた。^右手の傷はふさがっている。^この体は、とても便利だ。
-一睡も出来ぬまま朝を迎えた。^右手の傷はふさがっている。^この体は、とても便利だ。
+// @flowchart_descr
+The day dawns on a sleepless night.
+ The wound in my right hand has already healed.
+ This body certainly has its perks.
 }
 [sha:4c5b1a100d8219c54eb0ca82036e47dac1e18654]{
 -- 時間の経過がおかしい。^萎びていく意識と裏腹に、^身体は衝動を持て余していた。
-時間の経過がおかしい。^萎びていく意識と裏腹に、^身体は衝動を持て余していた。
+// Ref 33236, 33238
+// @flowchart_descr
+Time is passing in fits and starts.
+ Even as my consciousness shrivels and fades,
+ my body feels like it's overflowing with excess energy and desire.
 }
 [sha:54711c3cf9e42db20dcaed5431b08270de3dc298]{
 -- 扉が開いていく。^琥珀が部屋に入ってくる。^最後の理性で警告をするが―――
-扉が開いていく。^琥珀が部屋に入ってくる。^最後の理性で警告をするが―――
+// @flowchart_descr
+The door opens.
+ Kohaku begins to enter my room.
+ With the last of my sanity, I warn her, but――
 }
 [sha:cab52b01c87504ee57165fe24d891193af5a5b74]{
 -- 体中がたぎっている。^食事を置いたなら、すぐにでも、^出て行ってもらわなければ……。
-体中がたぎっている。^食事を置いたなら、すぐにでも、^出て行ってもらわなければ……。
+// @flowchart_descr
+My whole body is on edge.
+ I need her to get out of here as soon as she leaves the food――
 }
 [sha:ae4ab28f7b12ad0942b6dc0a7ff34bdf2ac2d825]{
 -- もう歯止めは利かなかった。^喉が渇いてたまらない。^ふと我に返ると、そこには―――
-もう歯止めは利かなかった。^喉が渇いてたまらない。^ふと我に返ると、そこには―――
+// Ref 33343
+// @flowchart_descr
+I was powerless to stop myself.^
+I was so thirsty I couldn't bear it.
+ When I come to my senses,^I'm greeted by――
 }
 [sha:87efc66e65a3aa31f879cf5d0dca46afa3bb12d4]{
 -- 屋敷の外に出る。^また堪えきれなくなる前に、^誰もいない場所へ逃げなければ。
-屋敷の外に出る。^また堪えきれなくなる前に、^誰もいない場所へ逃げなければ。
+// Ref 33447
+// @flowchart_descr
+I flee the mansion.
+ I need^to escape to somewhere without anyone else around before I lose control again.
 }
 [sha:ecdbf9cab2a69d966ccfc4a564a8546bd0a7fccb]{
 -- デパートの跡地に潜り込む。^きっと先輩は来てくれる。^来てくれる。
-デパートの跡地に潜り込む。^きっと先輩は来てくれる。^来てくれる。
+// @flowchart_descr
+I sneak into the ruins where^the department store once stood.
+ Senpai will definitely come.^
+I'm certain of it.
 }
 [sha:46b58330c3f04e233512b1d2767a4435b8dfb655]{
 -- 背中を見せれば撃たれるだけだ。^全力で前に向かって走り出す。^そのまま真横をすり抜けて―――
-背中を見せれば撃たれるだけだ。^全力で前に向かって走り出す。^そのまま真横をすり抜けて―――
+// Quoting 33900, 33907.
+// @flowchart_descr
+If I tried to run away, she'd run my heart through the moment I turned my back on her.
+ Instead I lunge forward as fast as I can, and slip through her flank――
 }
 [sha:698e2c94f7986733faead7a248e098f2db225785]{
 -- 背中を向けて走る。^今の肉体なら、^難なく逃げだせる筈だ―――
-背中を向けて走る。^今の肉体なら、^難なく逃げだせる筈だ―――
+// @flowchart_descr
+I'll turn tail and run.
+ With my transformed body, I should have no problem escaping from her.
 }
 [sha:c82da45a8c696a0a8996bcbd14535fd25d79e011]{
 -- これ以上逃げられそうにない。^すぐに彼女がやってくるだろう。^まだ生きたいと思うのなら――
-これ以上逃げられそうにない。^すぐに彼女がやってくるだろう。^まだ生きたいと思うのなら――
+// @flowchart_descr
+It looks like this is as far as I can run.
+ I'm sure she'll be here any second now.
+ If I still want to live, I have to――
 }
 [sha:c631f090e0b297f8b9f4e2c4ecf257e0df8cae21]{
 -- すべて幻になってしまえばいい。^ナイフを握って立ち上がり、^最後の代行者と対峙する。
-すべて幻になってしまえばいい。^ナイフを握って立ち上がり、^最後の代行者と対峙する。
+// Quoting 34277.
+// @flowchart_descr
+So what if it all fades into illusion?
+ Gripping my knife firmly, I stand to face the Executor one last time.
 }
 [sha:571678ac967507d27a6259d918bf0b2d13c828fd]{
 -- 死を視るより、^現を見る。^幻にならないように。
-死を視るより、^現を見る。^幻にならないように。
+// @flowchart_descr
+Instead of looking to death, I will look to reality.
+ I will not let things fade into illusion.
 }
 [sha:d57f56f68e3e8013a46773480ea58b356bb4b5fd]{
 -- 遠くから響くチャペル。^復讐に血をたぎらせる、^幼き吸血鬼が現れる。
-遠くから響くチャペル。^復讐に血をたぎらせる、^幼き吸血鬼が現れる。
+// @flowchart_descr
+Chapel bells ring in the distance.
+ A vampire child emerges, hungry for revenge.
 }
 [sha:7bc12c495a0c04108f9c816acb45b5e7ae8fd061]{
 -- １３年前の真実。^とある田舎町で起きた、^世界を殺す毒の製法、その失敗。
-１３年前の真実。^とある田舎町で起きた、^世界を殺す毒の製法、その失敗。
+// @flowchart_descr
+The truth of what happened thirteen years ago.
+ In some unremarkable countryside town, the concoction of the world-killing poison ends in failure.
 }
 [sha:f8c9014b7faae1df7df854d49d8964354a6d13b2]{
 -- 吸血鬼の魔眼から解放された^ものの、状況は最悪のまま。^戦うべきか、逃げるべきか……？
-吸血鬼の魔眼から解放された^ものの、状況は最悪のまま。^戦うべきか、逃げるべきか……？
+// Sorta quotes 35217
+// @flowchart_descr
+Even though I've escaped from^the vampire's Mystic Eyes, the situation remains grim.
+ Should^I fight, or flee?
 }
 [sha:7c0f240112baf778bdeddac318e9bd940ee38425]{
 -- ヤツさえ殺してしまえば、^先輩も解放される筈だ。^最短であの吸血鬼を黙らせる！
-ヤツさえ殺してしまえば、^先輩も解放される筈だ。^最短であの吸血鬼を黙らせる！
+// Ref 35221 & 35223
+// @flowchart_descr
+Killing her should be enough to break Senpai out of it.
+ I'll shut that vampire up right here and now!
 }
 [sha:fa9904b72f3ef46655351d1ba57caefa45e0c995]{
 -- 状況は理解できている。^普通ではなくなったこの体で、^死者の群れを突破する―――！
-状況は理解できている。^普通ではなくなったこの体で、^死者の群れを突破する―――！
+// Ref 35444.
+// @flowchart_descr
+It's clear how bad the situation is.
+ With my changed body, I'll break through the hordes of the Dead!
 }
 [sha:dbc487823e7270c0482527a53cffda8653cc20b6]{
 -- 鉄串の檻が逃げ道を塞ぐ。^目前には畏怖すべき吸血鬼。^なら、後は殺し合うだけ。
-鉄串の檻が逃げ道を塞ぐ。^目前には畏怖すべき吸血鬼。^なら、後は殺し合うだけ。
+// @flowchart_descr
+Behind me, a cage of iron pailings cuts off my escape.
+ Before me, there stands a fearsome vampire.
+ What is^there to do but fight?
 }
 [sha:d397049850869ba90f56e4dc4a960c338bc21783]{
 -- 考えるより先に首を断った。^吸血鬼は死に、死者は土に還り、^贖罪だけが引き継がれた。
-考えるより先に首を断った。^吸血鬼は死に、死者は土に還り、^贖罪だけが引き継がれた。
+// @flowchart_descr
+I slice off her head faster than I can even think.
+ The vampire dies, and the Dead return to the earth.
+ Only atonement remains.
 }
 [sha:dc5c873d55f33089f0264e3ba62304849ae319c1]{
 -- 千載一遇の機会を見送った。^……この決着は、^彼女たちの物語だ。
-千載一遇の機会を見送った。^……この決着は、^彼女たちの物語だ。
+// Ref 35798
+// @flowchart_descr
+I let the once-in-a-lifetime opportunity pass me by.
+ This fight is between the two of them.
 }
 [sha:575eca6331c79d09687eba643339289472ae0b0a]{
 -- 死人は際限なく群がってくる。^殺されるつもりはない。^必ず戻ると信じている。
-死人は際限なく群がってくる。^殺されるつもりはない。^必ず戻ると信じている。
+// @flowchart_descr
+The Dead keep flinging themselves at me with no end in sight.
+ But I don't plan on dying here――I have complete faith that she'll return.
 }
 [sha:613a32e9d2e7b11cfd4b51ac884a552e03e57d4a]{
 -- いまは、^夜に虹はかからなくとも。
-いまは、^夜に虹はかからなくとも。
+// @flowchart_descr
+Even if, as of now, there are no rainbows in the night.
 }
 [sha:4ea15c8bcee2e5ac4c92cc71a477bf1266d38c99]{
 -- 代行者、復活。^断罪の杭は分け隔てなく^彼女たちの魂に。
-代行者、復活。^断罪の杭は分け隔てなく^彼女たちの魂に。
+// @flowchart_descr
+An Executor reborn.
+ The stake^of condemnation indiscriminately runs through both their souls.
 }
 [sha:b5696b90166a79cb131cf846ffa27a0502ed1a10]{
 -- ……“もしも”の話は、^ここにはなく。
-……“もしも”の話は、^ここにはなく。
+// @flowchart_descr
+Here, now, there are no 'what-ifs'.
 }
 [sha:c62d546726abad7e02c846cf4cad0c97bfc83674]{
 -- 戦いは幕を下ろす。^月に照らされたその地には、^一部始終を見届けた姿があった。
-戦いは幕を下ろす。^月に照らされたその地には、^一部始終を見届けた姿があった。
+// Ref 36371 & 36373
+// @flowchart_descr
+The curtain falls on the battle.
+ She had watched everything unfold from her moonlit vantage point.
 }
 [sha:869fbad78ab07f24a73961195dd4567dcc39e80c]{
 -- 戦いは終わり、^シエル先輩のアパートへ。^彼女への気持ちを再確認する。
-戦いは終わり、^シエル先輩のアパートへ。^彼女への気持ちを再確認する。
+// @flowchart_descr
+With the battle over, we head^to Ciel-senpai's apartment.^
+I clearly state my feelings for her once more.
 }
 [sha:abb730b0ed1e127b6f69f6ecd1ed698925aed216]{
 -- 興味深い話題だったが、^深入りでできる空気でもない。^断腸の思いでスルー。
-興味深い話題だったが、^深入りでできる空気でもない。^断腸の思いでスルー。
+// Quoting 36610/36611.
+// This flowchart box is basically the entire file lol
+// @flowchart_descr
+Curious as I am, now isn't the time to be teasing Senpai.
+ As much as it pains me to do so, I have no choice but to ignore it for now.
 }
 [sha:16374b9263c04fe217bb4a7a67901be769435afd]{
 -- 今までの情報から逆算する。^つまり、先輩のそれは―――^その時から、もう既に―――
-今までの情報から逆算する。^つまり、先輩のそれは―――^その時から、もう既に―――
+// See 36614/5.
+// already had that kind of [figure]
+// @flowchart_descr
+Working backwards from what I know,
+ that means... even back then, Senpai already had that kind of――
 }
 [sha:21c5fcdc6657ff02778de08d82e9268d307f90a9]{
 -- 病める時も。^互いを許し、認め、律し、^笑い合えるように。
-病める時も。^互いを許し、認め、律し、^笑い合えるように。
+// Moved the 病める時も into the title to avoid splitting the phrase.
+// Modified this to be closer to the rest of the traditional vow
+// @flowchart_descr
+To have and to hold, from this day forth.
+ That we may forgive, cherish, honor, and laugh with each other.
 }
 [sha:67d1e34a9063e882c1ab207c4bcde1354d68ab45]{
 -- 空が白ばんでいく。^今は眠ってしまわぬように、^ただ、先輩の声を聞いていた。
-空が白ばんでいく。^今は眠ってしまわぬように、^ただ、先輩の声を聞いていた。
+// See 36717.
+// @flowchart_descr
+Light is beginning to seep in through the curtains.
+ To avoid falling asleep, I've just been listening to the sound of Senpai's voice.
 }
 [sha:ce93b96a3571aeba9051d2246f60a87f7b257e07]{
 -- あの夜から一週間が経った。^変わらぬ日常の中で、^ひとつの約束を覚えている―――
-One week has passed since that^night. Within my unchanging^daily life, I remember a single^promise――
+// @flowchart_descr
+It's been a week since that fateful night.
+ Amidst the routine of my ordinary life,
+ I think back on that promise we made――
 }
 [sha:6afce19b0e7f236968be889a51b0cb4a12ad48e9]{
 -- ……一緒にはいられない。^彼女が吸血鬼だからじゃない。^今の自分には、大切な人がいる。
-……一緒にはいられない。^彼女が吸血鬼だからじゃない。^今の自分には、大切な人がいる。
+// Ref 37614.
+// Copied a bit extra for context.
+// @flowchart_descr
+We can't be together...^
+Not because she's a vampire, but because right now, I have someone I value more than my own life.
 }
 [sha:cb72b0928c8c0839db1d4ecbdd7839fc586f0479]{
 -- アルクェイドが倒れる。^地面が彼女の血で染まっていく。^駆け寄ろうとした、その時――
-Arcueid has fallen. Her blood^stains the ground. I'm about to^run over to her, when―――
+Arcueid has fallen.
+ Her blood^stains the ground. I'm about^to run over to her, when――
 }
 [sha:be5d924a295e911b8d7926f662f0370f132f556d]{
 -- 暴走するアルクェイド。^二人は学校まで撤退し、^戦いに備える。
-暴走するアルクェイド。^二人は学校まで撤退し、^戦いに備える。
+// Second half the same as 38f8a4fe
+// @flowchart_descr
+Arcueid has started to run rampant.
+ Ciel and I retreat to the school, and ready ourselves for battle.
 }
 [sha:0f34a856d20efd289e534ffe2ef37ae5cb6c2bd6]{
 -- 死のない真祖を絶命させる。^それを成すためには、^先に殺すべき物がある……！
-I need to kill the deathless^True Ancestor. But in order to^do that, I must kill something^else first!
+// @flowchart_descr
+I need to kill the deathless^True Ancestor.
+ But in order to do that, I must kill something else first!
 }
 [sha:446370fd9a9c3560c24307456d0d4dee392d3435]{
 -- 彼女にナイフを突き立てる。^その傷が自分だけの物であれ、^と願いながら――
-I pierce her with my knife. I^pray that those scars are mine^alone to bear―――
+// @flowchart_descr
+I pierce her with my knife.
+ I pray that those scars are mine alone to bear――
 }
 [sha:b75f12c5fc4b10f3143bdf364f5969ae08628f5f]{
 -- この命はじきに停止する。^だが、ロアの自由にはさせない。^残された方法はただひとつ。
-My life will soon be at an end.^But I can't allow Roa to roam^free――there is only one thing^left to do.
+// Ref 38257
+// @flowchart_descr
+My life will soon be at an end.
+ But I can't allow Roa to roam free――there is only one thing left to do.
 }
 [sha:f788a3d127b76c2c93e5a3c7779e64f976641378]{
 -- 彼女を嫌いにはなれない。^……だからこそ、^その間違いは見逃せない。
-I can't bring myself to hate^her... But that's also why I^can't overlook this mistake.
+// Ref 38316/38317 (we swapped a bit there)
+// @flowchart_descr
+I can't bring myself to hate her...
+ Which is why I could never let her get away with making such a mistake.
 }
 [sha:38f8a4fe97826804256cb05ebc3d66a8b8d336ce]{
 -- 本来の力を顕すアルクェイド。^二人は学校まで撤退し、^戦いに備える。
-Arcueid reveals her true power.^The two of us withdraw to the^school, and prepare for battle.
+// Second half the same as be5d924
+// @flowchart_descr
+Arcueid reveals her true power.
+ Ciel and I retreat to the school, and ready ourselves for battle.
 }
 [sha:672cdb4904185359fd8b1f30738b33c7fb68b3ea]{
 -- 第七聖典による狙撃を^敢行するシエル。^渾身の一射は、はたして。
-Ciel uses the Seventh Scripture^to snipe her target. Her first^shot, with all her strength^behind it, goes as expected.
+// @flowchart_descr
+Ciel uses the Seventh Scripture to snipe her target.
+ Will her shot, with all her strength behind it, strike down her foe?
 }
 [sha:14bff6ca7cbc7552d9313f4d39e210febb6c17e8]{
 -- 街が熔け、消える。^これは自分と志貴だけの世界。^なのに邪魔者が混ざっている――
-The city melts away and^vanishes. A world for just^Shiki and me. And yet, an^intruder has entered the mix.
+// Ref 39061 & 39062
+// @flowchart_descr
+The city melts away and vanishes.
+ A world for just Shiki and me.
+ And yet, an intruder has entered the mix.
 }
 [sha:203ae576ab40b4d5904b38b6fad776fd57a72777]{
 -- 校舎の屋上へと駆け上がる。^夜を照らす閃光の中、^内から語りかける声を聞く。
-I rush up to the roof of the^school. As a flash of light^illuminates the city, I listen^to the voice inside my head.
+// @flowchart_descr
+I rush up to the roof of the school.
+ As a flash of light illuminates the city,
+ I hear a voice start talking to me inside my head.
 }
 [sha:e0e22a7f7ff19b9f9182de198745261c252afa05]{
 -- 完全武装シエル、対、^真祖アルクェイド。^勝利の星はどちらに輝く。
 // Melty reference
 // @flowchart_descr
-Fully-Armed Ciel versus True Ancestor Arcueid.
- On who will the star of victory shine?
+Fully-armed Ciel versus True Ancestor Arcueid.
+ On who will^the star of victory shine?
 }
 [sha:a70175c37f41533f0429f8865407501b3537970d]{
 -- 教会支部から帰還するシエル。^総耶の異変を感知し、^急ぐ彼女の前に―――
 // @flowchart_descr
-Ciel returns from her visit to the Church's local branch.
+Ciel returns from her visit^to the Church's local branch.
  Sensing the abnormality that has taken hold of Souya, she rushes back only to find――
 }
 [sha:28e64ada02911a412f11c77b418c70b9a574f3ff]{
@@ -6804,20 +7148,28 @@ The True Ancestor royal has been repelled...
 [sha:8eb442889ddd0cbc38c808c30eb3e25fb8d7a7e2]{
 -- 光体出現。^シエルを救う為、^志貴は人智及ばぬ圏内へ。
 // @flowchart_descr
-The Luminary appears.
+The Luminary manifests.
  In order to save Ciel, Shiki advances into the humanly incomprehensible zone of influence.
 }
 [sha:609ef1fe27daee7a4eecdb58c41f3538a8a0af75]{
 -- ロアの声に逆らうように、^光の中心を目指す。^それは自殺行為に他ならない。
-ロアの声に逆らうように、^光の中心を目指す。^それは自殺行為に他ならない。
+// @flowchart_descr
+In defiance of Roa's advice,^I set my sights on the center of that light.
+ What else could it be but a death wish?
 }
 [sha:6a6e8ee21013645a702cbf05c995bbb5cf487998]{
 -- それがどうした、と^頭の隅の他人を黙らせる。^ここから戻る選択肢はない。
-それがどうした、と^頭の隅の他人を黙らせる。^ここから戻る選択肢はない。
+// @flowchart_descr
+I tell the stranger in my head to shut up.
+ Who cares if this is my last chance to turn back?
+ Retreat isn't an option.
 }
 [sha:43a21951246fb02775084d4a9c12b0aaf88eebf4]{
 -- ロアは語る。^勝ち目が存在しないのなら、^何を“勝ち”とするべきかを。
-ロアは語る。^勝ち目が存在しないのなら、^何を“勝ち”とするべきかを。
+// @flowchart_descr
+Roa explains.
+ If I have no way of seizing victory,
+ then what should I consider to be my victory condition?
 }
 [sha:845a606d6f3bc629c1d912a9184adf2182bc3cae]{
 -- 圏内に入る。光体を垣間見る。^立ち上がる100メートルの巨影。^それは、具現化した悪夢だった。
@@ -6828,11 +7180,18 @@ As I enter her zone of influence,
 }
 [sha:8c9402954a2f0a2da88e0950368a444e1520c3c6]{
 -- 形骸化したビル群の谷を^駆け、光体に接近する。^見つかれば即、死。
-形骸化したビル群の谷を^駆け、光体に接近する。^見つかれば即、死。
+// @flowchart_descr
+I approach the Luminary,
+ running through the valley formed by the husks of what used to be buildings.
+ If she notices me,^I'm dead.
 }
 [sha:de94a25961f83d47537a1c68bdced7ffbe046367]{
 -- 判断が甘かった。^巨人の腕は傷付きさえしない。^この戦力差をどうする……？
-判断が甘かった。^巨人の腕は傷付きさえしない。^この戦力差をどうする……？
+// Closest context for this is probably 39979.
+// @flowchart_descr
+My predictions were overly optimistic.
+ I didn't so much as scratch her arm.
+ How the hell am I supposed to overcome this difference in strength?
 }
 [sha:a420c9a75785a9df0a2aeddcf4d1d034700cc187]{
 -- 光体には傷一つ付かなかったが、^今を逃せばチャンスはない。^果敢にも巨人に挑む。
@@ -6863,13 +7222,13 @@ Fighting her head-on is out of the question.
 [sha:67b9acf8c2f5932ee468f2f860b872847d3a2efe]{
 -- 弄ばれるだけの命に^絶望の色はない。^確信は揺らがない。
 // @flowchart_descr
-There is no despair in the plaything's voice.
- Her faith does not waver.
+There is no despair in the plaything's voice.^
+Her faith does not waver.
 }
 [sha:6f61e11a31cf155d55a8d6898699863e43551280]{
 -- 地脈の命を凝視する。^世界そのものの『死』に向けて、^ナイフを振り下ろす――！
 // @flowchart_descr
-I gaze at the earth's living veins.
+I gaze at the Earth's living veins.
  I swing my knife down toward the 'death' of the world itself!
 }
 [sha:8df1688b9b9ab3c6fc2f4e7eac442a0185ab9150]{
@@ -6884,7 +7243,7 @@ A black vortex forms.
 // @flowchart_descr
 The atmosphere is suffocating.
  The tiny insect has finally run out of strength.
- Or it least, it should have?!
+ Or at least, it should have?!
 }
 [sha:36628cbbf83a5dca94b5971efce56d34f9a855fa]{
 -- その思いが、^伝わる事はないだけの。
@@ -6893,7 +7252,9 @@ And yet those feelings will never be conveyed.
 }
 [sha:7688259652dad5489cc424b5d0fb6114b7a90c4e]{
 -- 愚者の行いは^時に賢者すら堕落させる。^ましてや歓びを与えるなど。
-愚者の行いは^時に賢者すら堕落させる。^ましてや歓びを与えるなど。
+// @flowchart_descr
+Even the wise may be corrupted^by the deeds of fools.
+ Or worse, those deeds may even bring them joy.
 }
 [sha:e17ff105e4617e0a2340f45644d3d6f4e16a9107]{
 -- 光体はやがて自壊する。^命を懸ける価値はあるか？^―――勿論。
@@ -6907,33 +7268,49 @@ Of course it is.
 // @flowchart_descr
 The Luminary advances toward destruction.
  The angel's wheel remains.
- The manifestation of the cosmic―――
+ The manifestation of^the cosmic――
 }
 [sha:b6452bee286dcdb6c6e45350f29822b66c4911f1]{
 -- 吸血姫との和解と別離。^けれど、星の光で焼けた体は、^もう保たなかった。
 // @flowchart_descr
-I reconcile with the vampiress, and say my farewells.
+I reconcile with the vampiress, and say our farewells.
  But my body, scorched by the star's heat, isn't going to last...
 }
 [sha:10d6c3f49e50556e0524542a0731f28254403ca1]{
 -- 鈍器で殴られるような頭痛。^この部屋の外に未来はない。^この部屋にいれば命がない。
-鈍器で殴られるような頭痛。^この部屋の外に未来はない。^この部屋にいれば命がない。
+// First line in the text (37059) kinda split context with 37060.
+// Last line kinda like 37129.
+// @flowchart_descr
+My head is pounding.
+ There's no future for me outside this room.
+ But if I stay in here, I'll die.
 }
 [sha:819b410c2eae5c24a8cd68f52a8c3809324d2887]{
 -- 現れる真祖の姫。^幾度めの逢瀬は^甘いものではなく。
-現れる真祖の姫。^幾度めの逢瀬は^甘いものではなく。
+// @flowchart_descr
+The Princess of the True Ancestors appears.
+ But our umpteenth tryst is not so sweet.
 }
 [sha:18e2eb03c2b1b41c5929950f462ad5028f6cf8ac]{
 -- 爪とナイフがぶつかり合う。^吸血鬼と化した体は躍動する。^だが、この女の線は見えない――
-爪とナイフがぶつかり合う。^吸血鬼と化した体は躍動する。^だが、この女の線は見えない――
+// @flowchart_descr
+Knife clashes with claws.^
+My vampirized body moves like a charm.
+ But, I can't see her lines at all.
 }
 [sha:1f125b8729597c514c763e49ecbf7e92544bc9d8]{
 -- 喪ったとしても、^救えるものはあるはずだ。^人生は続く。
-Where there is loss, there must^also be salvation.^Life goes on.
+// @flowchart_descr
+Where there is loss, there^must also be salvation.^
+Life goes on.
 }
 [sha:cd67381c5d3a067b5098323b6c81c4149eff24da]{
 -- 亡くした幼い時分の思い出。^積み上げた今までの思い出。^―――ふと、目が覚めた。
-亡くした幼い時分の思い出。^積み上げた今までの思い出。^―――ふと、目が覚めた。
+// Nice callback to the first line of the prologue prologue
+// @flowchart_descr
+Memories of a long-lost childhood.^
+Memories of all that has happened.^^
+Suddenly, I wake up.
 }
 [sha:a98b025f076db4ce516c5c1ab26ffa5530623b64]{
 -- ０．
