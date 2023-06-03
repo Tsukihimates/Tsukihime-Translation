@@ -6,7 +6,8 @@ It has to be throwing.
 [sha:8b569b57de813cc207767034c082f856b5680814]{
 -- Page 10026, Offset 10751.
 -- いや、正しくは弾丸か。
-No, more accurately a bullet.
+// Annoying verb -> noun clarification here.
+Well, more accurately, like shooting a bullet.
 }
 [sha:c34fe1648568996ee49ed0eab9dfdd47ecbbb090]{
 -- Page 10026, Offset 10752.
@@ -17,12 +18,14 @@ Even if his guard is up now, it doesn't change the fact that I am the instrument
 [sha:7430193771db62b29780690b42c7ad83ad2b92ea]{
 -- Page 773, Offset 10753.
 -- あとはこれをどう撃ち込むかという話。
-Now it's just a matter of how to shoot me.
+// Since we're kinda stealing 'shoot' to make 10751 work, emphasize the how over the what
+The only problem now is %{i}how%{/i} to shoot me.
 }
 [sha:9b04f27b1cdcf222137de40e6bf07a649ae9b15c]{
 -- Page 773, Offset 10754.
 -- 単純だ。俺の脚ではたどり着けないなら、俺以外のものに頼ればいい……！
-It's simple. If I can't get over there with my legs, I'll have to rely on something else!
+But that's easy.
+ If my legs aren't going to cut it, I just have to use something else!
 }
 [sha:37a671def28e07be82b190e94ab81a2f096e9a78]{
 -- Page 774, Offset 10755.
@@ -37,18 +40,19 @@ I run back toward Arcueid.
 [sha:e0498f2249d138924fe05a1db57ebd78cecb64e9]{
 -- Page 774, Offset 10757.
 -- 背中で氷の砕ける音がする。
-I hear the sound of ice being smashed behind me.
+I hear the sound of ice shattering behind me.
 }
 [sha:272d90cda65a68017925f53eaa34662bd111d2ea]{
 -- Page 774, Offset 10758.
 -- アルクェイドが起こす爪の形をした風圧は、彼女の手が届く範囲だけでなく、この距離でも正確に発生するようだ。
-The claw-shaped pressure wave she sent out seems to be accurate not just within her reach,
- but even at this distance.
+I guess Arcueid's claw-shaped pressure waves aren't limited to hand to hand combat――
+they're accurate even at this distance.
 }
 [sha:a4dc502f49c13ab58224cdd39d471ce4cbbf2bb5]{
 -- Page 775, Offset 10759.
 -- 「もう、なんでこっちに来たの！？　標的が一つになっちゃうじゃない！」
-"Geez, why did you come over here?! You've just turned us into a single target!"
+"Geez, why'd you come back here?!
+ You've just turned us into a single target!"
 }
 [sha:a4ee3449f2fe3dd61aa7d581d77ec8eeaf30c738]{
 -- Page 776, Offset 10760.
@@ -88,7 +92,8 @@ I need you to do the same thing to me!"
 [sha:b08940796ad9241300a23cf9ba3a84f5e36c4b74]{
 -- Page 778, Offset 10767.
 -- 先ほどの瓦礫は３メートル近い床の一部だった。
-The debris from earlier was a chunk of floor that was almost three meters long.
+// 'floor' not really what you'd say here
+The debris she launched earlier was a slab of rock almost three meters long.
 }
 [sha:dbdaaf8077478fa010ee0bee5590bb538c9f00a1]{
 -- Page 778, Offset 10768.
@@ -99,38 +104,40 @@ If she can throw something that large that fast,
 [sha:74c94de391f8356aebf86dd0e2949bd267f43d78]{
 -- Page 779, Offset 10769.
 -- 「言いたいコトはだいたい分かったけど！
-"I kind of understand what you're trying to say!
+"I think I get what you want me to do!
 }
 [sha:704018414ccd75a76051e17c82a681de32b37232]{
 -- Page 779, Offset 10770.
 -- それ、途中で振り落とされない！？」
-But won't you get knocked away en route?!"
+// _Shot_ down with a lance? Struck down just doesn't seem right either.
+But won't you just get shot down halfway?!"
 }
 [sha:d91c15bef9a819add86ce6a3eb112526ab98e301]{
 -- Page 779, Offset 10771.
 -- 「普通ならな！　でも縛るものならいくらでも出せるだろ、おまえ！」
-"Normally, yes! But you can send out as many of those binding things as you want, right?!"
+"Normally, yeah!
+ But you can conjure up as many of those vines as you want, right?"
 }
 [sha:85b47ca11bf1ce7832f57822e198bb3fe00748b1]{
 -- Page 779, Offset 10772.
 -- 「―――そりゃあ、出せるけど」
-"―――Well... yeah I can."
+"I mean... I %{i}can%{/i}, but..."
 }
 [sha:4654ca6dbff6d29b51b7f0cb73e6e764477d005e]{
 -- Page 780, Offset 10773.
 -- アルクェイドは躊躇しているが、今はこれしかない。
-Arcueid is hesitant, but right now we have no other choice.
+Arcueid is hesitant, but it's not like we have any other options.
 }
 [sha:8ec09885b2e59c5de08752ca067fc468940082ee]{
 -- Page 780, Offset 10774.
 -- 俺が隠れられる大きさの瓦礫に縛り付けてもらい、ヴローヴまで投擲してもらう。
-I'll get her to bind me onto a piece of rubble big enough for me to hide behind,
+I'll get her to bind me to a piece of rubble big enough for me to hide behind,
  and have her throw it toward Vlov.
 }
 [sha:469d3418c939f9ccc663a33c4cf27fe90967bf02]{
 -- Page 780, Offset 10775.
 -- もちろんヴローヴを直接狙っては撃ち落とされる。
-Naturally, I would get shot down if I was aimed directly at him.
+Obviously, if she just throws me straight at him, he'll shoot me down.
 }
 [sha:a340343eb2352c452219b5274d359f61fa404c7d]{
 -- Page 780, Offset 10776.
@@ -145,12 +152,12 @@ The first shot should be aimed directly at Vlov―――
 [sha:84f93710c2edd6d0fa271e2dd3e920b48d04b600]{
 -- Page 781, Offset 10778.
 -- 二発目はわざと狙いを外してヴローヴの後方に、
-The second shot should deliberately miss and land behind him―――
+The second should deliberately miss and land behind him―――
 }
 [sha:84df058f70a6f9876659b16ea77850ec33607974]{
 -- Page 781, Offset 10779.
 -- 三発目は再びヴローヴを狙う。
-And the third shot should be aimed at him again.
+And the third should be aimed at him again.
 }
 [sha:751d8e3abef2068694be4ca9d10c0d4c23ea183b]{
 -- Page 782, Offset 10780.
@@ -162,7 +169,7 @@ The second shot is the one I'll be hiding behind.
 -- 地面に落下する直前、瓦礫に走る『線』を斬って解体し、２秒以内にヴローヴの背後をとってやる……！
 Just before it hits the ground,
  I'll cut the 'lines' on the rubble to break it apart,
- and take Vlov from behind in under two seconds!
+ and take Vlov out from behind in under two seconds!
 }
 [sha:7cba2c726828fc8a015f468948c54070c3f7d97f]{
 -- Page 783, Offset 10782.
@@ -172,29 +179,30 @@ Just before it hits the ground,
 [sha:0ece463a3817c3783e0aa5bc1ca9df61c009e141]{
 -- Page 783, Offset 10783.
 -- タイミング逃したら衝突死体よ？」
-If we miss the timing, your corpse is gonna end up smeared across the ground you know."
+If you mess up the timing your corpse is gonna end up smeared across the ground."
 }
 [sha:7f033c0e11020f783c1e2875ed91a27c331c0071]{
 -- Page 783, Offset 10784.
 -- 「逃したらな。うまくいけば無傷で殺せる、唯一の手段だ」
-"That's only if we miss. If things go smoothly,
- we can kill him without getting hurt. This is the only way."
+"But that's only if I mess it up.
+ If things go smoothly, we can kill him without getting hurt.
+ This is the only way."
 }
 [sha:0a69dc8f56303a1bde262925c0334a98c5b32fe0]{
 -- Page 784, Offset 10785.
 -- 氷の槍の掃射は勢いを増している。
-The barrage of ice spears grows in intensity.
+The barrage of ice spears is gaining momentum.
 }
 [sha:90e9c195f7b48071ec3d8df84c6296fc4a845bc1]{
 -- Page 784, Offset 10786.
 -- これ以上、ここで時間は使えない。
-We can't waste any more time here.
+We can't waste any more time than we already have.
 }
 [sha:ceeb7f4c8268725c52e739e7fc3ca2b2fa96135a]{
 -- Page 785, Offset 10787.
 -- 「―――わかった。ヴローヴを狙いながら、志貴の乗った瓦礫だけ外すのね？」
-"―――I got it. So while I'm aiming for Vlov,
- I need to miss him with the one piece of debris that you're riding on, right?"
+"Alright then.
+ So I need to aim at Vlov, but deliberately miss with the one you're riding on, right?"
 }
 [sha:9c373c39d226b451aa874e736d4bb295299fbf8b]{
 -- Page 785, Offset 10788.
@@ -204,12 +212,12 @@ We can't waste any more time here.
 [sha:74f815bbedbf34bf0acd7646f48e797de25ef0b8]{
 -- Page 786, Offset 10789.
 -- アルクェイドの後ろにまわる。
-I go around behind Arcueid.
+I circle around behind Arcueid.
 }
 [sha:1b78d93db28526f163a0e7fa5baa0efd0496b801]{
 -- Page 786, Offset 10790.
 -- 大きめの瓦礫に身を寄せる。岩肌に体をつけ、腕立て伏せの状態になる。
-I flatten myself against a large piece of debris.
+I flatten myself against a large chunk of debris.
  With my body up against the rock's surface, I arrange myself in a push-up position.
 }
 [sha:6b06e82c483b96c02e155d23c25c735a975090d6]{
@@ -227,33 +235,34 @@ Both of my thighs and my left hand are pinned to it.
 -- Page 788, Offset 10793. Mods: @n.
 -- 「ヴローヴまで50メートル、
 // Sentence restructured across this and next - ヴローヴまで50メートル、
-"Based on the one I threw earlier...
+"Based on the one I threw earlier, I'd say Vlov's about...
 }
 [sha:a58f49fadc0afd816737c5f05cd9def23cf67184]{
 -- Page 788, Offset 10794.
 -- さっきのがあんな感じだったから―――」
-I'd say it's about fifty meters to Vlov."
+%{force_glue}
+ fifty meters away."
 }
 [sha:77d41ec40ee7e8fd4a5bd9ec26c1fe9307e5ab84]{
 -- Page 789, Offset 10795.
 -- アルクェイドは両手で、ただの瓦礫と、俺が隠れている瓦礫を持ち上げると、
-With two hands,
- Arcueid lifts up both a chunk of decoy rubble and the piece of rubble that I'm hiding behind.
+Using both hands, Arcueid lifts up a chunk of decoy rubble along with the chunk I'm hiding behind.
 }
 [sha:450569f3d9611832e43e44e128c746ff1c25f3a9]{
 -- Page 789, Offset 10796.
 -- 「うん、４秒我慢して！！」
-"Yeah, hold on for four seconds!!"
+"Alright, just hold on for four seconds!"
 }
 [sha:6eaf19b33492c1ca6b91ddb65029c028b0dc0b65]{
 -- Page 790, Offset 10797.
 -- 空中を走る１トンの<岩盤|だんがん>。
-One ton of bedrock flies through the air.
+// In this game we speak METRIC
+One tonne of bedrock goes soaring through the air.
 }
 [sha:5169b7d82b3523ccc64830ff173091c566f39519]{
 -- Page 790, Offset 10798.
 -- ３秒後。
-Three seconds later.
+Three seconds pass.
 }
 [sha:a7cf29f7217ee3899225d7d0581a6d7d53beb1d4]{
 -- Page 790, Offset 10799.
@@ -264,7 +273,7 @@ As though overwhelming the attempts of air resistance to slow it down through sh
 [sha:2925c503211429c60b0e6b1d523155d92a516e5f]{
 -- Page 790, Offset 10800.
 -- 命中する直前、氷槍によって砕け散った。
-And just before impact, is shattered by the ice lance.
+And is shattered by his ice lance just before impact.
 }
 [sha:1457034152f25a48939272701b56780718cf590d]{
 -- Page 791, Offset 10801.
@@ -345,7 +354,7 @@ In two more steps, I'll be able to reach his 'line' and sever his life.
 [sha:b2edb46ea5465e0f74d6a5a4a92ca858fdcf697e]{
 -- Page 796, Offset 10816.
 -- だが。
-However.
+However―――
 }
 [sha:b67413bda7bfb4d229ffb04d632a5c957b27b4f2]{
 -- Page 796, Offset 10817.
@@ -360,17 +369,19 @@ Those two steps form a boundary that no human can cross.
 [sha:85c7330170dccd9a5ed9a4c8d9072a4e0b5fe704]{
 -- Page 797, Offset 10819.
 -- 悲鳴をあげるだけの余裕も、
-My ability to scream―――
+// These 2 lines shuffled a bit
+My ability to scream is frozen solid―――
 }
 [sha:1a83fcc05740cf8545d9966a645e2c3ef3ed2347]{
 -- Page 797, Offset 10820.
 -- 苦痛を感じるだけの感覚も、既に凍っていた。
-And my capacity to feel pain are already frozen solid.
+Along with my capacity to feel pain.
 }
 [sha:286b50a7cd3e063c5a89e0114f3b8b25244e4e0b]{
 -- Page 797, Offset 10821.
 -- 俺に気づいていたのか、自動的な迎撃なのか。
-Did he notice me, or was it simply an autonomic interception?
+// 'Autonomic interception' weirdly technical
+Did he notice me, or was this some subconscious reflex?
 }
 [sha:788003dfe6bd879e9433c04edd9b82656cdefcf4]{
 -- Page 797, Offset 10822.
@@ -380,43 +391,45 @@ A countless number of ice thorns have sprouted around Vlov to greet his would-be
 [sha:cdd7b1c954e50138e887a698ca5559354d2e0582]{
 -- Page 798, Offset 10823.
 -- 「“―――愚かにも、安全を拾ったな”」
-"―――As the fool you are... you chose the path of safety."
+"Fool that you are, you chose the path of safety."
 }
 [sha:6a6ae38ffccba0042dd24854c56d44f5079b85b5]{
 -- Page 798, Offset 10824.
 -- 失望した声が届く。
-A voice of disappointment reaches me.
+I hear a disappointed voice.
 }
 [sha:f1f7ce1d4ae3bfe0f16a831d4f2bd1e235f34712]{
 -- Page 798, Offset 10825.
 -- 安全。安全。そうか、安全か。
-Safety. Safety. Safety, huh.
+Safety... Safety... So that was the problem.
 }
 [sha:37d78c252e48ad984e35b43453fd6006811ac17e]{
 -- Page 798, Offset 10826.
 -- 俺は自分が助かる方法を考えた。
-I was thinking about a way to save myself.
+I'd been thinking about how I could save myself.
 }
 [sha:626ce22ebe5d5fe375ecdc8a6fe9bb16aff9cd17]{
 -- Page 798, Offset 10827.
 -- アルクェイドは俺を気遣って、他の投擲より遅い、１秒分の手加減をした。
-Out of concern for me,
- Arcueid had adjusted her throw to be a second slower than the other ones.
+// One second slower in that it took one second longer to arrive?
+// Kinda weird way to describe it in EN
+Out of concern for my safety,
+ Arcueid had thrown the rock with me on it just a fraction slower than the others.
 }
 [sha:dfc5a061d663e71951bc6efb17ba88d22ebdc83e]{
 -- Page 798, Offset 10828.
 -- ……失敗した。浅はかにも程がある。
-This was a failure... This was beyond foolish of me.
+I fucked up... I can't believe I thought this would work.
 }
 [sha:8f650f60aabb568789394d09c6230c22638f437c]{
 -- Page 798, Offset 10829.
 -- こんなもの、奇襲でもなんでもない。
-This was nowhere close to a surprise attack.
+This didn't even come close to being a surprise attack.
 }
 [sha:b9713ed2ae259d89774f66d09e5fa199b4d276c7]{
 -- Page 799, Offset 10830.
 -- 出血死を待つまでもない。
-There is no need to wait until I bleed to death.
+I don't have to wait around until I bleed to death.
 }
 [sha:01acf044a22ec440b8a5eebb771da49902321176]{
 -- Page 799, Offset 10831.
