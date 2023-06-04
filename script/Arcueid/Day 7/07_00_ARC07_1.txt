@@ -83,7 +83,7 @@ Um... do you require a thermometer?"
 [sha:5b6f1ac5c3d2a6e2671a3aa6f326b148bddd9c36]{
 -- Page 7, Offset 16581.
 -- 「いらないよ。どうせいつもの微熱だし」
-"No, I don't. It's just your average low-grade fever."
+"Nah, I'm fine. It's just your average low-grade fever."
 }
 [sha:f6c02411444c7dae5b3a0c4f8df4affd7fb1bfda]{
 -- Page 8, Offset 16582.
@@ -103,7 +103,9 @@ Perhaps it's just me, but her bow didn't seem as sharp as usual.
 [sha:d9d87b05a97c7d9663f0883432eff078167c1005]{
 -- Page 9, Offset 16585.
 -- 「……心配してくれてるのかな。でもこんなの、ほんとにいつもの事なんだけど」
-"I wonder if she's worried about me... However, this kind of thing really does happen all the time."
+"I wonder if she's worried about me...
+ She doesn't need to though.
+ This kind of thing happens all the time."
 }
 [sha:ea6c3118fe76b0b29672e2e53cdf59c52bb21be0]{
 -- Page 10, Offset 16586.
@@ -114,18 +116,18 @@ I appreciate the concern, but it's nothing to make a fuss over.
 -- Page 10, Offset 16587.
 -- のっぴきならない大事というのは、
 // CG of ガムテープ woman between this line and next
-If you're going to fret about something, it should be―――
+It'd be more warranted for a wound like that―――
 }
 [sha:a02003ac3a8104120eff57f51b17f984dc64343c]{
 -- Page 10, Offset 16588.
 -- ああいう、どこから見ても重傷なものを言うのだし。
 // Minor sideways tl of どこから見ても just because direct TL sounds kinda J-E
-―――a wound like that, one you can instantly tell is serious.
+One you can tell is serious at first glance.
 }
 [sha:2b943afb6e34822b3daff8797eb248f2b9fd0238]{
 -- Page 11, Offset 16589.
 -- 「……しっかし、ガムテープはほんとないよな。見てるこっちの血の気が引いたし。今度あったら―――」
-"But man, to think she really used duct tape for that...
+"Man, I still can't believe she put duct tape on it...
  Just looking at it made my blood run cold.
  Next time I see her, I'll―――"
 }
@@ -154,7 +156,7 @@ You couldn't convince me to get involved with that walking calamity of a woman a
 [sha:d6415c892131a7f1aed5f7defbb4301e21ee96b4]{
 -- Page 13, Offset 16594.
 -- 「……そうだ。それがいいに決まってる」
-"That's right... I decided that would be for the best."
+"Yeah... I decided that would be for the best."
 }
 [sha:054e118805c2586797fdfbcc4f5985b256b7e3a3]{
 -- Page 13, Offset 16595.
@@ -200,7 +202,7 @@ The clock has only just struck seven,
 [sha:13dc60b3a9d5c60029ede09d4259cda5ce53ce05]{
 -- Page 15, Offset 16602.
 -- 俺が早起きした事が喜ばしいのか、秋葉は上機嫌だ。
-Akiha seems to be in a good mood,
+Akiha seems to be in a good mood.
  I wonder if it's because she's pleased to see me up and about so early.
 }
 [sha:c76c6eb9766ee9d1f3e77776ba9eea74aa130f5a]{
@@ -211,13 +213,14 @@ Akiha seems to be in a good mood,
 [offset:16604]{
 -- Page 16, Offset 16604. Mods: @n.
 -- ……と。
-And then...
+// Stealing the ふいに from below
+All of a sudden―――
 }
 [sha:448b465f47f991d9dd05aae8abab5d6b2bdf8f82]{
 -- Page 16, Offset 16605.
 -- ふいに立ち眩みがして、目頭を押さえる。
 // 目頭 is the _inner_ canthus, he's doing the classic scrunch face / pinch nose routine
-I suddenly feel light-headed, so I pinch the bridge of my nose.
+I start feeling light-headed, so I pinch the bridge of my nose.
 }
 [sha:0fde68362741731e076f4e639e7c413a8d381c30]{
 -- Page 16, Offset 16606.
@@ -242,18 +245,18 @@ I hear the faint rustling of clothes and the sound of approaching footsteps.
 [sha:4578b260a62294e732db478ed6e1a403b9a4afd4]{
 -- Page 18, Offset 16610.
 -- 「どうかしました？　顔が赤いけど、熱でもあるんですか？」
-"Is something wrong? Your face is red, do you have a fever?"
+"Is something wrong? Your face is red; do you have a fever?"
 }
 [sha:1fb1ab4f2cfc0d85849edbffd8deae451b4229a9]{
 -- Page 18, Offset 16611.
 -- 「あ……いや、熱は、確かにあるん、だけど」
 // A slightly less literal TL fits a little better here, I think.
-"Ah... well, it's true I have a fever, but..."
+"Ah... well, yeah, I do, but..."
 }
 [sha:d55c297ab6106e9cbdaa128dc3bcbc76893bf740]{
 -- Page 19, Offset 16612.
 -- 秋葉は遠慮なく近づいてきて、下から俺の顔を覗きこむ。
-Akiha moves up close to me and peers up into my face from below.
+Akiha comes right up next to me and peers up into my face from below.
 }
 [sha:fa479b6789fc52d79d5466fe84b3cca4b30f266b]{
 -- Page 19, Offset 16613.
@@ -342,7 +345,7 @@ For an instant, my breathing stops completely.
 [sha:77452f37b8580c7d2d06d309be1d781197b88aff]{
 -- Page 25, Offset 16628.
 -- 秋葉の言う通り、今朝の俺は何かおかしい。
-Akiha is right, there is something wrong with me this morning.
+Akiha is right, there %{i}is%{/i} something wrong with me this morning.
 }
 [sha:405b4db124de241434d34972549f425213b7a91c]{
 -- Page 25, Offset 16629.
@@ -375,8 +378,8 @@ I feel Akiha's voice echoing, not in my ears, but directly inside my brain.
 [sha:9b0c4aef8de8167ddff8795b6f53dd7b1f6c2f8d]{
 -- Page 26, Offset 16634.
 -- 美しい黒髪が、白い陶器のような肌が、そのまま熱になって頭に流れこんでくるようだった。
-It was as if her beautiful black hair and her pale porcelain skin had turned into heat,
- and were flowing directly into my head.
+It's if her beautiful black hair and her pale porcelain skin have turned into heat,
+ and are flowing directly into my head.
 }
 [offset:16635]{
 -- Page 27, Offset 16635.
@@ -480,7 +483,7 @@ However, given that she's following her own rule about not running in the corrid
 // このまま doesn't have a great smooth tl here
 My fever's gone down, so now I'm headed to school!
  I'll sort something out for breakfast myself,
- so if you could just look the other way this morning, that would be great!"
+ so if you could just give me a pass this morning, that would be great!"
 }
 [sha:ed7e194c73e20800e64be8f72520468d4593da6d]{
 -- Page 34, Offset 16654.
@@ -506,12 +509,14 @@ In my heart, I clasp my hands together in silent prayer and apologize.
 [sha:03f5452fca81255d6236ffb2ec39177f57665587]{
 -- Page 36, Offset 16658.
 -- 体の心配をしてくれるのはありがたいけど、
-I appreciate that she's worried about my health, but there's no way I could say something like,
+// This and next modified a bit to avoid dangling connection to quote
+I appreciate that she's worried about my health.
 }
 [sha:75bab3c99dc6331bde4febd87dd72906faae7572]{
 -- Page 36, Offset 16659.
 -- “いや。実は、秋葉を見ていると目眩で倒れそうになる”
-'Well, the truth is, just looking at you is almost enough to make me pass out.'
+But what was I supposed to say?
+ 'The truth is, just looking at you is almost enough to make me pass out'?
 }
 [sha:be9a25499cc7e0a73b8bb5c0608e93202af117c3]{
 -- Page 36, Offset 16660.
