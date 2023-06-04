@@ -1092,7 +1092,7 @@ Vlov: III B
 }
 [sha:96e174b4f5ecc7f5255061c00b2bf317e64c6693]{
 -- 魔眼覚醒
-Mystic Eyes Awakening
+Mystic Eyes Awakened
 }
 [sha:2eec4828ac2e72543f341d5d0c313927aeaaf1d0]{
 -- ナイトコール
@@ -1160,7 +1160,7 @@ Summer Blue
 }
 [sha:5dd5abe2e4366277054d9c0ed11afce54a452bbf]{
 -- 調査は脚で
-Investigation by Foot
+Investigation on Foot
 }
 [sha:fc113c42347287dc0d50472020d5c52db8b17a8e]{
 -- 戦士の流儀
@@ -1276,7 +1276,8 @@ Moonbow
 }
 [sha:062f350416df552c2340ebe387ec0a89cbbadb7e]{
 -- デュエル・オブ・トップ
-Duel of Top
+// Why you gotta do this to us
+Duel of the Top
 }
 [sha:200de043bd3fc804414788d37eadff8a8e8bbc1d]{
 -- 真祖新生(平常)
@@ -4006,7 +4007,7 @@ One Last Parting Dream - Moonlit
 [sha:2b97c3ada6620bac788f0f7f44ea1bdfd5dd2bf5]{
 -- 16日目・深夜
 // @flowchart_title
-16th day ― Dead of night
+16th day ― Midnight
 }
 [sha:c4a4d65b6a2f9dfe4379edccd92485ab1627da89]{
 -- 月下美人
@@ -6575,16 +6576,16 @@ I embrace Arcueid.
 [sha:733abff685138ab0fcfeab678af5aa1c39a99a0a]{
 -- 夢を見ていた。^彼女がまた、いなくなって。^二度と見つからない夢を。
 // @flowchart_descr
-I was dreaming...
- Dreaming of her disappearing again.
+I was dreaming...^
+Dreaming of her disappearing again.
  Dreaming that I'd never find her again.
 }
 [sha:f31abfd68b14549fee4cf80832e5cb05cc7aa8da]{
 -- 眠りから覚醒する。^体の調子はいいとは言えないが、^日常に支障はないだろう。
 // Same bones as the Roa bad end later today
 // @flowchart_descr
-I awaken from my slumber.
- I can't say I'm feeling great, but it won't impede me going about my day.
+I awaken from my slumber.^
+I can't say I'm feeling great, but it won't impede me going about my day.
 }
 [sha:64f4395f86480c7331f9bbb86deba36225c418c4]{
 -- 手足は重い。^他人の体を着ているようだ。^学校に向かおう。
@@ -6662,15 +6663,15 @@ If she's after Roa, then I can find her by finding him.
 [sha:4683e756bb47516240fd5b1c2b72bb47657eb53b]{
 -- 夕暮れに落ちる影。^変貌した思い出は語る。^復讐の時は来た、と。
 // @flowchart_descr
-Dusk casts a long shadow.
- My transformed memories speak to me: the time for revenge has come.
+Dusk casts a long shadow.^
+My altered memories speak to me: the time for revenge has come.
 }
 [sha:f55591e5bda724fec41910dd998b96e238d43a56]{
 -- 死が訪れる。^もはや逃れる術はない。^その時――
 // @flowchart_descr
-Death has come calling.
- There is nothing I can do.
- But suddenly――
+Death has come calling.^
+There is nothing I can do.^
+But suddenly――
 }
 [sha:6d7bf6a606525057d11bda5ecde5b3e202b748e9]{
 -- ベッドから跳ね起きる……が、^酷い夢を見た覚えはない。^深く、長く眠っていたような。
@@ -6871,8 +6872,8 @@ My whole body is on edge.
 -- もう歯止めは利かなかった。^喉が渇いてたまらない。^ふと我に返ると、そこには―――
 // Ref 33343
 // @flowchart_descr
-I was powerless to stop myself.
- I was so thirsty I couldn't bear it.
+I was powerless to stop myself.^
+I was so thirsty I couldn't bear it.
  When I come to my senses, I'm greeted by―――
 }
 [sha:87efc66e65a3aa31f879cf5d0dca46afa3bb12d4]{
@@ -6924,8 +6925,9 @@ Instead of looking to death, I will look to reality.
 }
 [sha:d57f56f68e3e8013a46773480ea58b356bb4b5fd]{
 -- 遠くから響くチャペル。^復讐に血をたぎらせる、^幼き吸血鬼が現れる。
+// No space in churchbells cause it's kiiinda valid and makes it wrap good.
 // @flowchart_descr
-Chapel bells ring in the distance.
+Churchbells ring in the distance.
  A vampire child emerges, hungry for revenge.
 }
 [sha:7bc12c495a0c04108f9c816acb45b5e7ae8fd061]{
@@ -6938,8 +6940,8 @@ The truth of what happened thirteen years ago.
 -- 吸血鬼の魔眼から解放された^ものの、状況は最悪のまま。^戦うべきか、逃げるべきか……？
 // Sorta quotes 35217
 // @flowchart_descr
-Even though I've escaped from the vampire's Mystic Eyes, the situation remains grim.
- Should I fight, or flee?
+Even though I've escaped from the vampire's Mystic Eyes, the situation remains grim.^
+Should I fight, or flee?
 }
 [sha:7c0f240112baf778bdeddac318e9bd940ee38425]{
 -- ヤツさえ殺してしまえば、^先輩も解放される筈だ。^最短であの吸血鬼を黙らせる！
@@ -6996,7 +6998,7 @@ An Executor reborn.
 [sha:b5696b90166a79cb131cf846ffa27a0502ed1a10]{
 -- ……“もしも”の話は、^ここにはなく。
 // @flowchart_descr
-Here, now, there are no 'what-if's.
+Here, now, there are no what-ifs.
 }
 [sha:c62d546726abad7e02c846cf4cad0c97bfc83674]{
 -- 戦いは幕を下ろす。^月に照らされたその地には、^一部始終を見届けた姿があった。
@@ -7077,8 +7079,8 @@ I need to kill the deathless True Ancestor.
 [sha:446370fd9a9c3560c24307456d0d4dee392d3435]{
 -- 彼女にナイフを突き立てる。^その傷が自分だけの物であれ、^と願いながら――
 // @flowchart_descr
-I pierce her with my knife.
- I pray that those scars are mine alone to bear―――
+I pierce her with my knife.^
+I pray that those scars are mine alone to bear―――
 }
 [sha:b75f12c5fc4b10f3143bdf364f5969ae08628f5f]{
 -- この命はじきに停止する。^だが、ロアの自由にはさせない。^残された方法はただひとつ。
@@ -7111,9 +7113,9 @@ Ciel uses the Seventh Scripture to snipe her target.
 -- 街が熔け、消える。^これは自分と志貴だけの世界。^なのに邪魔者が混ざっている――
 // Ref 39061 & 39062
 // @flowchart_descr
-The city melts away and vanishes.
- A world for just Shiki and me.
- And yet, an intruder has entered the mix.
+The city melts away and vanishes.^
+A world for just her and Shiki.^
+And yet, an intruder has entered the mix.
 }
 [sha:203ae576ab40b4d5904b38b6fad776fd57a72777]{
 -- 校舎の屋上へと駆け上がる。^夜を照らす閃光の中、^内から語りかける声を聞く。
@@ -7144,8 +7146,8 @@ The True Ancestor royal has been repelled...
 [sha:8eb442889ddd0cbc38c808c30eb3e25fb8d7a7e2]{
 -- 光体出現。^シエルを救う為、^志貴は人智及ばぬ圏内へ。
 // @flowchart_descr
-The Luminary manifests.
- In order to save Ciel, Shiki advances into the humanly incomprehensible zone of influence.
+The Luminary manifests.^
+In order to save Ciel, Shiki advances into the humanly incomprehensible zone of influence.
 }
 [sha:609ef1fe27daee7a4eecdb58c41f3538a8a0af75]{
 -- ロアの声に逆らうように、^光の中心を目指す。^それは自殺行為に他ならない。
@@ -7163,8 +7165,8 @@ I tell the stranger in my head to shut up.
 [sha:43a21951246fb02775084d4a9c12b0aaf88eebf4]{
 -- ロアは語る。^勝ち目が存在しないのなら、^何を“勝ち”とするべきかを。
 // @flowchart_descr
-Roa explains.
- If I have no way of seizing victory,
+Roa explains:
+ if I have no way of seizing victory,
  then what should I consider to be my victory condition?
 }
 [sha:845a606d6f3bc629c1d912a9184adf2182bc3cae]{
@@ -7249,8 +7251,8 @@ And yet those feelings will never be conveyed.
 [sha:7688259652dad5489cc424b5d0fb6114b7a90c4e]{
 -- 愚者の行いは^時に賢者すら堕落させる。^ましてや歓びを与えるなど。
 // @flowchart_descr
-Even the wise may be corrupted by the deeds of fools.
- Or worse, those deeds may even bring them joy.
+Even the wise may be corrupted by the deeds of fools.^
+Or worse, those deeds may even bring them joy.
 }
 [sha:e17ff105e4617e0a2340f45644d3d6f4e16a9107]{
 -- 光体はやがて自壊する。^命を懸ける価値はあるか？^―――勿論。
