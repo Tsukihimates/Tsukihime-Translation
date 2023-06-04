@@ -6,8 +6,10 @@
 [sha:1602c1ffdf85b6e01ecb5822886e9eadf38cefe7]{
 -- Page 228, Offset 17125.
 -- 「吸血鬼のこと。おまえ、前に言ったよな。<巷|ちまた>を騒がしている通り魔殺人は吸血鬼の仕業だって」
-"Vampires. You said this before, right?
- That the serial killings everyone's been in such a fuss over were the work of a vampire."
+// Questionized so that おまえ、前に言ったよな isn't as awkward
+"Vampires.
+ What was it you said before?
+ That the serial killings everyone's been in such a fuss over were the work of a vampire?"
 }
 [sha:2f31499af214477aefe776ac40880dd9a45a33c0]{
 -- Page 228, Offset 17126.
@@ -37,8 +39,8 @@ Arcueid narrows her eyes.
 [sha:640c96ede369772ae50cce187976e8cecabf1724]{
 -- Page 230, Offset 17131.
 -- 地面と思って踏みこんだ先が薄氷だと気づいたような、一歩間違えれば死に至るような緊迫感。
-I feel a sudden tension;
- it's as though the solid ground I thought I had been walking on was actually naught but a thin layer of ice,
+The air suddenly feels very tense.
+ I's as if the solid ground I thought I had been walking on was actually naught but a thin layer of ice,
  and now one wrong move could prove fatal.
 }
 [sha:0c304f3188a266a8d8203252dbc5d5ebc6d75176]{
@@ -65,13 +67,12 @@ Arcueid looks straight at me, pinning me down with her gaze.
 [sha:4803809f4da556d4a9a30cc8da160ab4d67ed59b]{
 -- Page 232, Offset 17136.
 -- こっちが少しでも動けば、即座に襲いかかってくる、そんな視線だ。
-// Not sure what the tense was in JP, switched entirely to past
-It was the sort of stare that made me feel as though she'd swoop down on me the instant I moved a muscle.
+It's the sort of stare that makes me feel as like she'd swoop down on me if I so much as twitched.
 }
 [sha:95816d3f0abf16a9dbd598130815f8f5f0df2612]{
 -- Page 233, Offset 17137.
 -- 「……おかしいじゃないか、アルクェイド。
-"But isn't it strange, Arcueid?
+"But isn't that a bit strange, Arcueid?
 }
 [sha:cfc35e69ad53ac8a016cd3a15ee63b504e6ed073]{
 -- Page 233, Offset 17138.
@@ -95,7 +96,7 @@ If that blood is on your hands, then I―――
 [sha:c4fb1924a9f4ba994ac6e6d24c8bfd487ca9aae7]{
 -- Page 234, Offset 17141.
 -- それはわたしじゃなくて、他の吸血鬼の仕業よ」
-That wasn't me, it was the work of a different vampire."
+That wasn't me. It was the work of a different vampire."
 }
 [sha:b63ad4b6d1edf740f1c6fb36212a66b797b80b1e]{
 -- Page 234, Offset 17142.
@@ -110,7 +111,7 @@ Arcueid's immediate and somewhat exasperated response quickly dispels the tensio
 [sha:394e525fbc9280c529d1558430e5448a6d3f2e61]{
 -- Page 235, Offset 17144.
 -- 正体不明の喜びをのど元で押し止める。
-I hold back the inexplicable sense of joy that rises in my throat.
+I hold back the inexplicable sense of joy welling up in my chest.
 }
 [sha:64a84724367959c5d21f1450a433dd6328a29003]{
 -- Page 235, Offset 17145.
@@ -229,7 +230,7 @@ I came to this city in order to kill the vampire behind those murders."
 [sha:f3bdf7380312b17303f66f17a563088e90fbbd82]{
 -- Page 245, Offset 17167.
 -- てっきりわたしを追いかけてきた一人かと思ったけど、ヴローヴにはそれだけの理性……死徒社会における協調性はなかったみたいだし」
-I was sure that he had come here chasing after me, but Vlov couldn't think all that rationally,
+I was certain that he'd come here chasing after me, but he couldn't think all that rationally,
  nor did he seem particularly well aligned with Dead Apostle society, either."
 }
 [sha:58361c1e1901b967ed3c2b31f48518f91a9e5ee7]{
@@ -240,18 +241,19 @@ I was sure that he had come here chasing after me, but Vlov couldn't think all t
 [sha:117489e35ecc2cc871b10f28cd85bf349174f0b0]{
 -- Page 246, Offset 17169.
 -- とにかく、ヴローヴとこの街に巣くっている吸血鬼は別物よ。ヴローヴは正真正銘、無関係の第三者」
-At any rate, Vlov and the vampire lurking in this city are two different beings.
- He was genuinely nothing more than an unrelated third party."
+// Context of the 第三者 reified a bit
+The main takeaway is that Vlov and the vampire lurking in this city are two different beings.
+ He genuinely had nothing to do with the killings."
 }
 [sha:7db1beda072367ac5f89eba262d13d467f0b46ec]{
 -- Page 247, Offset 17170.
 -- 「わたし、標的がヴローヴだなんて言わなかったでしょ？
-"I never said that Vlov was my target, did I?
+"Think about it, I never said that Vlov was my target, did I?
 }
 [sha:4172bc96a54ad58512a00207c3b2ac8bd9b7f486]{
 -- Page 247, Offset 17171.
 -- ヴローヴにとっての標的はわたしだったけど、わたしにとっての標的はこの街で『通り魔』と言われている吸血鬼だけよ。
-He may have considered me his target,
+He may have considered me %{i}his%{/i} target,
  but my attention has always been focused on the 'serial killer' vampire that's in this city.
 }
 [sha:184689e630a36897c025ce76261fd9234e8132da]{
@@ -486,7 +488,7 @@ At this point, I'm well aware of just how much of a monster you are after all.
 [sha:fd5301c1dfc0ff2b5eae03336d74dc3a97e7210d]{
 -- Page 265, Offset 17216.
 -- いい、ヴローヴの事は俺が馬鹿だった。
-Fine, the whole misunderstanding about Vlov was stupid on my part.
+I admit, the whole misunderstanding about Vlov was stupid on my part.
 }
 [sha:88dbfe77988071ba6f478c0291c84288d10c6718]{
 -- Page 265, Offset 17217.
@@ -501,7 +503,7 @@ I manage to get my feelings under control, and raise my head to resume the conve
 [sha:f776fdb0fcd270f1c390b98aa58718003d802bcd]{
 -- Page 266, Offset 17219.
 -- なんなんだ、あの顔……？
-What is this face that she's making...?
+What is this face that she's making?
 }
 [sha:1a49c5aa2a8c2ab026e970b93e0eff80ea1d04a8]{
 -- Page 267, Offset 17220.
@@ -546,7 +548,7 @@ Arcueid must really be mad, as she continues to walk away without looking back.
 [sha:dc73dca758019ac1ac1cbe3199c7d239d699bd2a]{
 -- Page 270, Offset 17228.
 -- あいつ、どこに行くつもりなんだろう。
-That woman... Where the hell does she think she's going?
+I can't believe her... Where the hell does she think she's going?
 }
 [sha:eb2aa5df9a6dd5cf3a0bc6f8185afacb00b052c1]{
 -- Page 270, Offset 17229.
@@ -561,7 +563,7 @@ In retrospect, maybe I was a bit too cruel.
 [sha:00952de9179aa1d50bdd2720dff601c0150ded73]{
 -- Page 271, Offset 17231.
 -- 「……いや、でも、そんな悪口言ってないぞ……？」
-"No, but I didn't say anything that bad..."
+"But... I didn't say anything that bad..."
 }
 [sha:0ff39ed89c8a4622c1475e317b30d3f9447cec3b]{
 -- Page 271, Offset 17232.
