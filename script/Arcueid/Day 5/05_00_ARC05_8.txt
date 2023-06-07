@@ -33,7 +33,7 @@ And then―――
 [sha:257f957ce7e66338311239ab4b1a071bc8340e9b]{
 -- Page 517, Offset 9986.
 -- 世界を裂く<絶叫|さけび>と共に、その吸血鬼の、真の<貌|すがた>が現れた。
-with an earth-rending scream, the vampire's true form is revealed.
+With an earth-rending scream, the vampire's true form is revealed.
 }
 [sha:a9e0a214efb81c29e6075dd83e3ef5c4b33687f7]{
 -- Page 518, Offset 9987.
@@ -64,7 +64,8 @@ Similar to the enthalpy of vaporization, they were more like heat that had been 
 [sha:98360a0953740e5f69739706cada395d67c888c2]{
 -- Page 520, Offset 9992.
 -- 「―――ああ、本当に、」
-"―――Ah, it's true."
+// First part of 9995. Kinda an awkward split.
+"Yes... it's undeniable."
 }
 [sha:99ea5bb591740830c6b6410969727bc55522b7cd]{
 -- Page 520, Offset 9993.
@@ -79,7 +80,7 @@ The palm of his hand is outstretched, as if groping for warmth.
 [sha:6f6b976817fad19723dced2cfffd4be781dfaae3]{
 -- Page 521, Offset 9995.
 -- 「―――<世|こ><界|こ>は、寒い」
-"―――This <place|w o r l d   > is cold."
+"This <place|w o r l d   > is cold."
 }
 [sha:6d083cc95166f70457f0a5fb3f0c84a7e1a41a14]{
 -- Page 521, Offset 9996.
@@ -202,7 +203,8 @@ In the middle of the icy river stands the figure of Arcueid.
 [sha:358203996026c92ffa9531a23042be011d55038e]{
 -- Page 530, Offset 10019.
 -- 良かった……というか、あいつもたいがい頑丈だ。
-Thank goodness... That girl really is tough as well.
+Thank goodness...
+ But also, goddamn... she's just as tough as he is.
 }
 [sha:68514f5f7f41c488c2022908f96c119403463f31]{
 -- Page 530, Offset 10020.
@@ -227,7 +229,7 @@ You haven't lost your sanity, you're just running away from it."
 [sha:3645e07380283f0db643ff77d35622a6b549054f]{
 -- Page 532, Offset 10024.
 -- おかげで目が覚めたわ、ヴローヴ・アルハンゲリ」
-Thanks to that, I'm wide awake now, Vlov Arkhangel."
+I'm wide awake now thanks to your little stunt, Vlov Arkhangel."
 }
 [sha:9764094d58af33d83a481f0b7d936cca2cfa0a77]{
 -- Page 533, Offset 10025.
@@ -247,7 +249,7 @@ Not with the sickly eyes from before, but with eyes that carefully observe their
 [sha:b395ccf2f5225ef2028e3cee7a3d3df4628b3bef]{
 -- Page 534, Offset 10028.
 -- 「……目を覚ましたのはこちらの話だ。
-"I'm the one who should say such things.
+"I am the one who should say such things.
 }
 [sha:f8c7147396ab39adf6e059c750fd52dd3f5eab40]{
 -- Page 534, Offset 10029.
@@ -264,15 +266,15 @@ His voice is like a blade, his words dripping with hatred.
 -- あの吸血鬼の闘志は<衰|おとろ>えていない。
 The vampire's fighting spirit has not faded.
 }
-[sha:61e53f4156aaa283c131d425b788fb9f808ec752]{
+[offset:10032]{
 -- Page 535, Offset 10032.
 -- ……いや。
-No...
+Quite the opposite―――
 }
 [sha:d8bd7763a3d5a172264a8acbe2020f38011a3cb1]{
 -- Page 535, Offset 10033.
 -- 正しくは、いま初めて、アレは“戦う”気になったのだ。
-To be more precise, it's like he's actually ready to fight for the first time.
+It's like he's only now decided to fight in earnest.
 }
 [sha:a158c688bb180a629bceb3bd7d5557c89b846103]{
 -- Page 536, Offset 10034.
@@ -402,7 +404,7 @@ So basically, %{i}you killed her and took it for yourself%{/i}, didn't you?"
 -- Page 543, Offset 10058.
 -- 「……そうだ。おれは後継者ではない。ただの騎士だ。騎士だった。永遠など、おれには手に余るものだ」
 // maybe something else for 'station' but you get what I mean.
-"That's right... I am no Successor... I am simply a knight――%{i}was%{/i} a knight... Eternity is something well beyond my station."
+"Indeed... I am no Successor... I am simply a knight――%{i}was%{/i} a knight... Eternity is something well beyond my station."
 }
 [sha:ab32209397fb11b5f6c08eeab757d47b065d9575]{
 -- Page 544, Offset 10059.
@@ -423,7 +425,7 @@ From the long――unnaturally long――shadow that stretches before him emerge
 [sha:29faf61892010bef02e15248b3be003b451c922d]{
 -- Page 545, Offset 10062.
 -- 故に奪った。騎士として王を倒し、その王座を<簒奪|さんだつ>した。いまやこの原理は、おれだけの<呪|もの>になった」
-As such, I stole it. The Knight defeated the Queen... claiming the throne for himself... Now... this Principle is a curse I bear alone."
+As such, I stole it. The Knight defeated the Queen, claiming the throne for himself... Now, this Principle is a curse I bear alone."
 }
 [sha:0f7f0f51208726bfb2c9d0275048422786a8d6d0]{
 -- Page 545, Offset 10063.
@@ -433,12 +435,13 @@ As such, I stole it. The Knight defeated the Queen... claiming the throne for hi
 [sha:beab2c4093f1d0f8df74a94726093bc42468afec]{
 -- Page 546, Offset 10064.
 -- 「……強気だな。空想具現化も出来ぬほど弱っていながら、おれと正面から打ち合うと？」
-"Still standing firm...? Though you have weakened so much that you cannot even deploy your Marble Phantasm... you still intend to face me head-on?"
+"Still standing firm?
+ Though you have weakened so much that you cannot even deploy your Marble Phantasm... you still intend to face me head-on?"
 }
 [sha:9ec4265322572731cdc62924eaf7a95fe13b74bb]{
 -- Page 546, Offset 10065.
 -- 「いらない。たかだか死徒相手に世界と同化する必要もない。
-"I don't need it. It is not necessary for me to synchronize with the world just to take out a mere Dead Apostle.
+"I don't need it. It isn't necessary for me to synchronize with the world just to take out a mere Dead Apostle.
 }
 [sha:85eab5b4554cebfa04228579e7cc91517b4643c8]{
 -- Page 546, Offset 10066.
@@ -478,7 +481,8 @@ And that is truly what you are... Though your power may be diminished... it is a
 [sha:0cf50eb40e3ac194055940c470a381326109bc97]{
 -- Page 548, Offset 10073.
 -- あらゆる呪い、あらゆる状況に対応する原初の<一|いち>―――並の死徒ではかなうまい」
-One who can with all curses deal; through all situations adapt: The Original One... An ordinary Dead Apostle stands no chance..."
+One who can with all curses deal; through all situations adapt――
+the Original One... An ordinary Dead Apostle stands no chance."
 }
 [sha:6fccdd5afb420650f022fe55982600c584aa0ba3]{
 -- Page 549, Offset 10074.
@@ -508,7 +512,7 @@ And then―――
 [sha:fb7cb99ac72313773eb97ec08ff3a77f8645767e]{
 -- Page 551, Offset 10079.
 -- 「だが貴様は知るまい。
-"Yet you do not know...
+"Yet there is something you know not.
 }
 [sha:5a34da987dbe2ad8e37cd710badd8724996c6c5a]{
 -- Page 551, Offset 10080.
@@ -518,7 +522,7 @@ Although this domain is part of the planet, all the same, it is a biosphere fore
 [sha:d5e217d9d0ade899bb9bf162e4b8b308f788e254]{
 -- Page 551, Offset 10081.
 -- いかに真祖の姫であろうと、この地獄に耐えきれるか……！」
-Though you may be the Princess of the True Ancestors... do not think you can endure this hell!"
+Though you may be the Princess of the True Ancestors... think not you can endure this hell!"
 }
 [sha:bfa56dd23eb9f9b08bb229376a8709a6f2224bbe]{
 -- Page 552, Offset 10082.
@@ -573,7 +577,7 @@ She reverts to her former self.
 [sha:7418e8a47e6df372e88234f45c43cbf78578db4c]{
 -- Page 556, Offset 10092.
 -- 「……怪物め。おれの槍を受けて原形を留めているか。
-"You monster... Even in suffering the blow of my lance, do you retain your form.
+"You monster... Even in suffering the blow of my lance, you retain your form.
 }
 [sha:04cc9af9567ef3153c6ec7b6975f33d1e21bd542]{
 -- Page 556, Offset 10093.
@@ -613,12 +617,12 @@ Go forth and pick up that woman's corpse.
 [sha:facf91e1a08cb5d902aafe563a897bd932f7d213]{
 -- Page 558, Offset 10100.
 -- その順応性。あらゆる苦しみを上回る万能の血を、この手に」
-That adaptability. That all-powerful blood which transcends all anguish, bring it to me."
+That adaptability... that all-powerful blood which transcends all anguish... bring it to me."
 }
 [sha:94032f8660d265d022c56bac99147e1ac62be653]{
 -- Page 559, Offset 10101.
 -- ヴローヴに命じられ、死体たちがアルクェイドへと歩み寄っていく。
-At Vlov's command, the corpses begin walking over to Arcueid.
+At Vlov's command, the corpses begin to close in on Arcueid.
 }
 [sha:a893c6b845f40c2c7c29758ee6ea388114d9044d]{
 -- Page 560, Offset 10102.
@@ -648,5 +652,5 @@ Everything around me has been annihilated.
 [sha:89bf3e77c2d568f74df90dc2b52a6431b93516f2]{
 -- Page 560, Offset 10107.
 -- 俺はその直前にいながら、眼下で行われようとしている、最後の光景を眺めている―――
-I stand right in front of it all, watching the final scene unfold before my eyes―――
+Standing at the foot of the stage, I watch the final act unfold before my very eyes―――
 }
