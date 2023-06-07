@@ -635,7 +635,10 @@ My throat... It's so dry that I feel like I'm about to go insane.
 [sha:e95e9b2831d0a31eb2e104e535676aa1048684ac]{
 -- Page 32, Offset 33182.
 -- 「■■■■？　■■■■■■■■■、■■■？」
-"■■■■? ■■■■■■■■■, ■■■?"
+// 志貴さん？　いかがなさいましたか。やはり、お機嫌は？
+%{flip_vertical}
+"Shiki-san? How are you holding up? You're not feeling well, are you?"
+%{/flip_vertical}
 }
 [sha:b2dda3f054070aefe68ea0ee4d4d3f31211ea587]{
 -- Page 10011, Offset 33183.
@@ -820,7 +823,10 @@ If that happened, I would turn into something even more horrifying.
 [sha:8b251ff93fe01a5fc3b929aaa37269e9ecaed252]{
 -- Page 40, Offset 33217.
 -- 「■■■■■。■■■■■■■■■■■、■■■■？」
-"■■■■■. ■■■■■■■■■■■, ■■■■?"
+// お機嫌はよろしいですか。お辛いでしたら、お声をかけてください。
+%{flip_vertical}
+"Is everything in order? If you're feeling under the weather, please feel free to let me know."
+%{/flip_vertical}
 }
 [sha:82c55cd87ee30e3355d2aadfc235b3e263c365b5]{
 -- Page 10017, Offset 33218.
