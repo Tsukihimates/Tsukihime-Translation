@@ -6,7 +6,9 @@ I'll have Professor Arach take care of me.
 [sha:084713f4f8a02b935ce999674c1664f21950e371]{
 -- Page 10008, Offset 14433.
 -- いまだにどんな人物なのか不明だが、白衣を着ている以上、お医者さんであるのは確かなんだし。
-I still don't know what kind of person she is, but since she wears a white lab coat, I'm pretty sure that she's a doctor.
+// Flawless logic
+I still don't know what kind of person she is,
+ but someone that wears a white lab coat all the time has to be a doctor.
 }
 [sha:f37aca9eb1a0bf5524425580a706b119726f3dbf]{
 -- Page 217, Offset 14434.
@@ -56,10 +58,10 @@ A little before ten o'clock, I look out the window and catch sight of a figure i
 -- きたな、と本をしまう。
 Looks like she's here, so I put down the book I was reading.
 }
-[sha:05323e9aafc28fa71cd331892acdc91dd9a00b9d]{
+[offset:14443]{
 -- Page 219, Offset 14443.
 -- 同時に、
-At the same time―――
+As soon as I do―――
 }
 [sha:0f47e994796114ea6d2b122e8e6960f80b072c9b]{
 -- Page 220, Offset 14444.
@@ -174,7 +176,7 @@ I guess this level of energy is just par for the course with her.
 [sha:31b9174e55d428ed5a4b166572f36130f31d5dd4]{
 -- Page 227, Offset 14460. Mods: @n.
 -- 「いいから早く診てください博士。
-"It's fine, so just hurry up and examine me, professor.
+"Let's just get this examination over with already, professor.
 }
 [sha:98b907fe859eae72c3b9bafb90681eac14fb8ad7]{
 -- Page 227, Offset 14461.
@@ -229,7 +231,7 @@ It's as though she was scanning me with the sonar of a submarine.
 -- Page 231, Offset 14470.
 -- 「やっだぁ～、骨に<罅|ヒビ>入ってるわよぅ？
 // Back to playful VA
-"Oh dear～ It looks like you've fractured your leg, haven't you?
+"Oh deeearie me. It looks like you've fractured your leg, haven't you?
 }
 [sha:e7e0572f0ad2173583f617452c5e90a11f8233ff]{
 -- Page 231, Offset 14471.
@@ -240,7 +242,7 @@ You're quite the masochist, aren't you, Shiki-chan? After all, normal people wou
 [sha:62046bc5262d2106f3cdba5d75d7335dde131543]{
 -- Page 232, Offset 14472.
 -- あー……やっぱりそうか。
-Ah... So that's how it is.
+Damn... I was worried that might be the case.
 }
 [sha:8dbcdfc888915432c70c7c4146bad7a55ed78ddf]{
 -- Page 232, Offset 14473.
@@ -286,7 +288,7 @@ I wouldn't be surprised if I had quite a few fractures here and there.
 -- んー、でもこれ開く必要ないわねぇ。固定しとけば明日には治ってるわぁ。阿良句つまんなーい」
 // Leading space for glue
  Hmm, it looks like there's no need to slice you open.
- It'll heal on its own by tomorrow if you don't move around too much. Bo～ring!"
+ It'll heal on its own by tomorrow if you don't move around too much. Booooring!"
 }
 [sha:12b8619956d70985210ee28ee036dd0e02a6b3cd]{
 -- Page 235, Offset 14481.
@@ -341,7 +343,7 @@ It's on par with the care I received from the old man from the clinic, who took 
 -- Page 238, Offset 14490. Glued. Mods: @x.
 -- 志貴チャン、博士って呼んでくれたし？」
 // Leading space for glue
- Shiki-chan called me a professor, after all."
+ You called me a professor, after all."
 }
 [sha:acde0b55ba9a0e7317e101d55d915d134e432b99]{
 -- Page 239, Offset 14491.
@@ -412,7 +414,7 @@ You may look docile, but deep down you must be cold-blooded, right?
 "When it comes to muscle, there's the fast-twitch variety, which is specialized for brief periods of explosive power,
  and the slow-twitch variety, which is better suited for long-term endurance.
  You're mostly made up of the former.
- That's all well and good, but, how do I put this... it's light.
+ That's all well and good, but, how do I put this... you're light.
  It's not as though you have a light build, but more like your bones themselves are light?
  Were you born with some mysterious ability to manipulate your own weight and float like a feather?
  Anything like that?"
