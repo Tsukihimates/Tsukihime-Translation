@@ -32,12 +32,12 @@ But for whatever reason, Arcueid shouts at me as soon as she sees my face.
 [sha:cf09326ab9125f41f476f93015de8faea85dc090]{
 -- Page 290, Offset 20395.
 -- 「な、なんだよ。もしかして時間間違えたか、俺？」
-"Wh-What? Did I get the time wrong?"
+"Wh-What? Am I late or something?"
 }
 [sha:87aa5ed28f5d574621f426ea5f514377fb345fa7]{
 -- Page 290, Offset 20396.
 -- 「そう！　もう、何時だと思ってるのよ！
-"That's right! Geez, what time did you think it was?
+"Super late! Just what time do you call this?!
 }
 [sha:bb48a0ecd36e5dca2f48c26105b36bf9b231967e]{
 -- Page 290, Offset 20397.
@@ -47,14 +47,14 @@ You promised you'd be here over ten minutes ago!"
 [sha:f56715d8b6c8a11a5786058ee1ca1ac1a78c7576]{
 -- Page 291, Offset 20398.
 -- ……10分もって……。そりゃあ、屋敷を出たのが10時前だったから、全力で走ってきても時間通りに到着はできない。
-Ten minutes...
+%{i}Ten minutes%{/i}...?
  I mean, despite the fact that I left the mansion before ten o'clock,
  I would have needed to sprint here to even have a chance at making it on time.
 }
 [sha:a7e9d2e809e2d21f222585f4c8404aa845287d2e]{
 -- Page 291, Offset 20399.
 -- 一方、アルクェイドは時間ぴったりに来ていたようだ。
-On the other hand, it seems like Arcueid arrived here right on time.
+Arcueid, meanwhile, seems like she must have arrived at ten on the dot.
 }
 [sha:9b70ce1d1ab8293f8b7ac902c46a2ade89b25bac]{
 -- Page 292, Offset 20400.
@@ -88,7 +88,7 @@ I'll make sure not to be late next time.
 [sha:9d175f29f418f8895835afc08b34845b3de2152f]{
 -- Page 295, Offset 20405.
 -- 「―――もう。これから殺し合いに行くのに、ぜーんぜん自覚がないみたいね、あなたは」
-"―――Geez.
+"%{i}Hmph%{/i}.
  We're going to be off fighting for our lives right after this,
  but you don't seem to have your head in the game at all."
 }
@@ -111,7 +111,7 @@ Is it possible she actually got here way earlier than we'd agreed to meet?
 [sha:d36657c06c2bdd64a725961b833287b7a2cb17be]{
 -- Page 297, Offset 20409.
 -- 「……なあ。アルクェイド、何時からここで待ってたんだ？」
-"Hey Arcueid... how long have you been waiting for?"
+"Hey, Arcueid... how long have you been waiting for?"
 }
 [sha:47465b9dd1da8a60cd2ea76a68c90ed1861f464a]{
 -- Page 297, Offset 20410.
@@ -272,7 +272,7 @@ So please, no matter what happens, do not come to the mansion!
 -- Page 309, Offset 20437.
 -- 「ふーん……あきはって、志貴に全然似てない妹さんのコト？」
 // ( ͡° ͜ʖ ͡°)
-"Hmm... Akiha, you mean that little sister who doesn't resemble you in the slightest?"
+"Hmm... By Akiha, you mean that little sister who doesn't resemble you in the slightest?"
 }
 [sha:d47ab9683a3c4d5fbf3346dc67a8bfe88e4e8c08]{
 -- Page 309, Offset 20438.
@@ -409,7 +409,7 @@ Arcueid said she had a specific destination in mind, but hasn't let me in on the
 -- Page 318, Offset 20462.
 -- 「今夜はピンポイントで視てもらうわ。まずは騒がしい方ね」
 "Tonight I'll have you look at some locations I've pinpointed.
- We'll start with the most bustling one."
+ We'll start with the busiest one first."
 }
 [sha:5691b60d3c3404beba38d0e81298d63833bc7ca4]{
 -- Page 318, Offset 20463.
@@ -425,22 +425,23 @@ The city doesn't sleep, even though it's now past ten o'clock.
 [sha:b595e89235263807ff27a56d3c6e6f46ea973689]{
 -- Page 319, Offset 20465.
 -- 様々な音と光を並べた文明の博覧会。
-An array of various sounds and lights all line up to create an exhibit of civilization.
+An array of various lights and sounds all line up to create an exhibit of civilization.
 }
 [sha:6865dcf2a695b348367b38abac417326417f8bab]{
 -- Page 319, Offset 20466.
 -- わずか数ヶ月で変化していく流行の街を、
-Through that city, where fashions change every few months,
+It's a city where fashions change every few months.
 }
 [sha:cf6f40d704c793e0c1a4de67fdebb99c922bc249]{
 -- Page 319, Offset 20467.
 -- 何世紀かけても変わらない姿で、白い吸血鬼が過ぎていく。
-passes the vampire in white, her figure unchanged through the centuries.
+And through it strides the vampire in white,
+ her figure unchanged through the centuries.
 }
 [sha:e9c8ee90562cb1f8e511e04a53afdb5a07132987]{
 -- Page 320, Offset 20468.
 -- ……いや、何世紀、というのは言い過ぎか。
-No, perhaps centuries is a bit of an exaggeration.
+Well, maybe centuries is a bit of an exaggeration.
 }
 [sha:4ac7645d441c20bed4963a0b72391024d318aab0]{
 -- Page 320, Offset 20469.
@@ -458,12 +459,14 @@ I just remember hearing that vampires are immortal and can live more or less for
 [sha:26192ebe9f7bc69f644604daf693c1d88b9ef637]{
 -- Page 321, Offset 20471.
 -- 「……普通だな。死者は出入りしてない」
-"They seem normal... There aren't any Dead going in or out."
+"They seem normal...
+ I don't see any of the Dead going in or out."
 }
 [sha:7c1f11dd945a708fa56d71f61a83546479f360ec]{
 -- Page 321, Offset 20472.
 -- 「ハズレね、次に行きましょう。はい、眼鏡かけて。先は長いんだから、あんまり無理しないように」
-"So it's a miss. On to the next one then.
+"Guess this place is a bust.
+ On to the next one then.
  Right, put your glasses back on.
  The next one's quite far, so don't push yourself too hard."
 }
@@ -481,7 +484,9 @@ It turned out that she'd found six places in total.
 [sha:9e2a076fe562a813772f33d0a5f110855978b5e9]{
 -- Page 322, Offset 20475.
 -- 最初の二箇所はハズレだったが、三つ目の貸しビルはアタリだった。
-The first two were misses, but the third, a rental building, was a hit.
+The first two proved to be nothing,
+ but the third, a rental property,
+ was the genuine article.
 }
 [sha:abd5fdc484d7d1012e7ea28b6c3375907644b1c2]{
 -- Page 323, Offset 20476.
@@ -497,7 +502,7 @@ The look on my face told Arcueid everything she needed to know.
 [sha:bbe02937fa7e581a14e52105e1c908b1e06410fa]{
 -- Page 324, Offset 20478.
 -- 「ごめんなさい、ここもハズレ。低級の屍鬼だった。このあたりは昨日狩り尽くしたから、完全に警戒されたわね」
-"I'm sorry, this place is also a miss.
+"I'm sorry, this place is also a bust.
  It was just a low-ranking Ghoul.
  We picked over this area pretty exhaustively yesterday, so they're on high alert."
 }
@@ -531,7 +536,7 @@ I would have preferred it if she'd said she can 'feel sad and troubled, just lik
 [sha:0a754582084d266703b37fe2024671a6433ff795]{
 -- Page 327, Offset 20484.
 -- 貸しビルからこっそり抜け出して、次の目的地へ。
-We sneak out of the rental building and head toward our next destination.
+We sneak out of the rental property and head toward our next destination.
 }
 [sha:01d700d7dd2f46135086375d083bbe9438d31702]{
 -- Page 327, Offset 20485.
@@ -547,7 +552,7 @@ As one would expect, there aren't as many pedestrians about,
 [sha:4553d300cf499be767fe70ab35727f7f1d064ff2]{
 -- Page 328, Offset 20487.
 -- 流れていく車のテールランプ。
-The brake lights of passing cars.
+The brake lights of passing cars streak by.
 }
 [sha:fc7181efba60a3670f85abe61c1e57dc7acfc619]{
 -- Page 328, Offset 20488.
@@ -596,7 +601,8 @@ Being reduced to investigating on foot like this just feels so hopelessly old-fa
 -- Page 331, Offset 20496.
 -- 「ん？　わたしは別に大変じゃないよ？　決められた作業だもの、手順を踏んでいけばきちんと終わるものだし」
 "Hmm? I can't say I really mind it.
- It's a paint-by-numbers affair, so long as we methodically check off the steps one after another, we'll get there eventually."
+ It's a paint-by-numbers affair.
+ So long as we methodically check off the steps one after another, we'll get there eventually."
 }
 [sha:c313eb8aa607fc883124935d9b3eec91ba9619fa]{
 -- Page 332, Offset 20497.
@@ -627,8 +633,8 @@ Now that I think about it, the same was true on the day we first met.
 [sha:148da671f2f4e36afb17828f1162fc477ba391de]{
 -- Page 334, Offset 20501.
 -- こいつは人混みに紛れて、人間社会を乱さないように吸血鬼を探していた。その気になればヴローヴと同じような事ができたとしても。
-If she wanted to, she's more than capable of pulling off the same stunts as Vlov.
- In spite of that, she simply blended in with the crowd, and searched for vampires without throwing human society into disarray.
+She's more than capable of pulling off the same stunts as Vlov if she felt like it.
+ But despite that, she simply blended in with the crowd, and searched for vampires without throwing human society into disarray.
 }
 [sha:f57f8cbe9c32267668f11147ff95981e7ddffd63]{
 -- Page 335, Offset 20502.
@@ -659,8 +665,8 @@ Hey. Do you really not mind being here with me?
 [sha:528c8a4cd043d8163c7e1927a621a8837a8b6edc]{
 -- Page 337, Offset 20507.
 -- 唐突、というより今更な質問に、つい声をあげてしまった。
-I couldn't help but raise my voice in response to the sudden question.
- Or rather, in response to the fact that she's only now asking it.
+I can't help but be taken aback by her sudden question.
+ Or rather, but the fact that she's only now asking it.
 }
 [sha:cfe9b44858d3b80ec2e6f9dea7ec2463cda295f9]{
 -- Page 337, Offset 20508.
@@ -691,7 +697,7 @@ Our partnership is based on mutual interest after all.
 [sha:70b43be700babcf3a392c87d3a8cd479f2928606]{
 -- Page 339, Offset 20513.
 -- 会話はそこで途切れた。
-With that, our conversation comes to a halt.
+After that, our conversation trails off.
 }
 [sha:cf3c2f850d1ce6c24fac44039efc6ac5841dd27b]{
 -- Page 339, Offset 20514.
@@ -717,7 +723,7 @@ Perhaps riding that feeling of fulfillment―――
 [sha:ecb13d1061711f843311b32263dfb63b5fe32bf8]{
 -- Page 340, Offset 20518.
 -- 「でも、気を遣わなくていいのは、いい」
-"But, it feels nice to not have to worry."
+"Still, it feels nice to not have to worry."
 }
 [sha:231d76bb285e005ac948b734f25724aea4c3f06a]{
 -- Page 340, Offset 20519.
@@ -739,7 +745,7 @@ I speak the feelings I've never put into words before.
 [sha:a361b70c191067336cc6bb1c0fcfaec65c1641df]{
 -- Page 341, Offset 20522.
 -- ―――心底から、安心できる。
-―――It's reassuring. My heart can be at peace.
+It's reassuring. My heart can be at peace.
 }
 [sha:2ce4a83ca06ec5bfeaadded8e716cf5c911031fc]{
 -- Page 342, Offset 20523.
@@ -765,7 +771,7 @@ Those obvious conclusions that I've lived with for the past seven years...
 [sha:51c642bb12eed9de4fe99486cd7a9b441853f3c8]{
 -- Page 343, Offset 20527. Mods: @k, @e.
 -- 「ねぇねぇ。
-"Hey Shiki.
+"Hey, Shiki.
 }
 [sha:8677a01b65ec8e39b472c2b3b3ad53e92afbc9cb]{
 -- Page 343, Offset 20528.
@@ -819,7 +825,7 @@ And the fact you used all of your power to protect me from Vlov's billowing cold
 -- Page 346, Offset 20536.
 -- 「岩盤をちゃぶ台返しするところとか、人の体によくわかんないものを塗りつけたりとか、あと、昼間に学校に来るところとか」
 "Not to mention the time you flipped an entire slab of bedrock over,
- or when you smeared that mysterious substance all over someone's body,
+ or when you smeared that mysterious substance all over my body,
  oh, and let's not forget showing up at my school in the middle of the day."
 }
 [sha:b71f02d7330e3a400727f612d5c61c282ec8a828]{
