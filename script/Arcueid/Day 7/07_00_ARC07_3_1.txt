@@ -11,7 +11,9 @@ Even though I've decided to help exterminate the vampire, there are still many t
 [sha:bff38fa720ce2ee450b65e728668dcdc9a26d1fd]{
 -- Page 500, Offset 17812.
 -- 「いや、まだ吐き気が治まらないし、落ち着くまでここにいるよ。その間、おまえに訊きたい事もあるし。
-"No, my nausea hasn't subsided, so I'll stick around until I'm feeling better.
+// The question he's answering here is 'do you want to call it a day' from 17805,
+// but leading with a literal 'no' here doesn't work as well with the qualifiers imo
+"Well, my nausea hasn't subsided, so I'll stick around until I'm feeling better.
  I've got some questions for you as well, since we're here.
 }
 [sha:88792428588ad822e60497a2dab5f84b45a39fc3]{
@@ -48,7 +50,7 @@ Don't humans usually get sleepy at this time of night?"
 [sha:ccefe4a1e84c3da14c1fdd24254a5b940a5f2b20]{
 -- Page 502, Offset 17819.
 -- 「ふーん。夢は見ないの？」
-"Hmm. You don't get any dreams?"
+"Hmm. Do you not dream?"
 }
 [sha:fa1f7dfdd9467e722c13df339348af6c24f98713]{
 -- Page 503, Offset 17820.
