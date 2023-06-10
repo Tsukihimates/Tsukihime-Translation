@@ -363,7 +363,7 @@ To be honest, I can't stand that smile anymore.
 [sha:38c09e65dc467acf173bad50445c9253bf1c5c01]{
 -- Page 25, Offset 176.
 -- 「どうして体じゅうにラクガキをしているんですか。
-"Why do you have lines all over your body?
+"Why do you have scribbles all over your body?
 }
 [sha:363095e769abc743bb70a28e0a7d688366794405]{
 -- Page 25, Offset 177.
@@ -398,7 +398,7 @@ The doctor whispers to the nurse in a cold voice, like that of an entirely diffe
 [sha:34d2dfcd1359072076af19befdba6ed7e29c231c]{
 -- Page 28, Offset 183.
 -- 「………ヘンなの。みんな体にラクガキしてる」
-"It's weird... There are lines all over everyone's bodies."
+"It's weird... There are scribbles all over everyone's bodies."
 }
 [sha:06efba3b049328b319996858e1d632697b6f9a6a]{
 -- Page 29, Offset 184.
@@ -418,7 +418,7 @@ I don't know what they mean, but I feel sick just looking at them.
 [sha:c699234d59b0214cb3ca65f8371af536743caea5]{
 -- Page 30, Offset 187.
 -- ベッドにもラクガキがある。
-There are lines on the bed too.
+There are scribbles on the bed too.
 }
 [sha:24bd1a6f19b6b7b6f7f0296dd09cc61e113efec7]{
 -- Page 30, Offset 188. Mods: @n.
@@ -450,7 +450,8 @@ If I had something thinner, I could go even deeper.
 [sha:4559fdc24fcb27936eab0e6e8b4a1eea4022520c]{
 -- Page 31, Offset 193.
 -- 棚にあったプラスチックナイフでラクガキをなぞる。
-I grab a plastic knife off the shelf and trace the line.
+// Explicit singular for ラクガキ on this page
+I grab a plastic knife off the shelf and trace one of the lines.
 }
 [sha:cc4d48157edc5df514ac1e3d3ce7e0cf35235e7e]{
 -- Page 31, Offset 194.
@@ -533,7 +534,7 @@ The doctor sighs.
 [sha:c16bab48f798e8277d599cbbfe97ee5be942ad78]{
 -- Page 39, Offset 209.
 -- ラクガキの話をしてから、あのやさしい笑顔もない。
-Ever since I mentioned the lines, that kind smile of his is nowhere to be seen.
+Ever since I mentioned the scribbles, that kind smile of his is nowhere to be seen.
 }
 [sha:7295476951b7ddd13b53fec5b65a11f84fd50434]{
 -- Page 39, Offset 210.
@@ -553,6 +554,7 @@ In the end, no one believed me.
 [sha:2453c12428e17b5c8e9edaa2f7e5552632d1a23d]{
 -- Page 41, Offset 213.
 -- あのラクガキをナイフで切ると、それがなんであろうとキレイに切れた。
+// Explicit line for ラクガキ here just because you can't really trace a whole scribble
 If I trace the lines on something with a knife, I can cut right through it.
  It doesn't matter what it is.
 }
@@ -579,7 +581,7 @@ And even though I have never tried... maybe even――no, %{i}definitely%{/i} ev
 [sha:c1896d41f3ea63493cf8d50ce7eda49ca00ae4b5]{
 -- Page 43, Offset 218.
 -- ラクガキはみんなには見えていないみたいだ。
-It doesn't seem like anyone else can see these lines.
+It doesn't seem like anyone else can see these scribbles.
 }
 [sha:359e0f340e28fa827664e512ab1c25180e89abce]{
 -- Page 43, Offset 219.
@@ -803,7 +805,7 @@ I don't want to be in a hospital room.
 [sha:a7a4c3c5ed75e38f07fe6a9eaedd7fa6a9b01909]{
 -- Page 53, Offset 259.
 -- ラクガキだらけのトコロにいたくない。
-I don't want to be anywhere riddled with these lines.
+I don't want to be anywhere riddled with these scribbles.
 }
 [sha:41ec505aac191030b79a22cbb6798394b30aabb5]{
 -- Page 53, Offset 260. Mods: @n.
@@ -1166,6 +1168,7 @@ I want to surprise her a little, so I use the knife I brought from the hospital 
 [sha:d6e6074103be0638003c701bfdd7620df44f8235]{
 -- Page 83, Offset 328.
 -- あのラクガキみたいな線をなぞって、紙を裂くように、真ん中から半分を切り取った。
+// Explicit lines for ラクガキ here
 Tracing along one of the lines,
  I slice out a chunk from the center of the tree as though cutting a piece of paper.
 }
@@ -1240,7 +1243,7 @@ That I'd forgotten who I am.
 -- Page 90, Offset 342. Mods: @n.
 -- このラクガキはあってはいけないもので、
 // Referenced in 13_01_01_CIEL13_4 page 324
-I'd forgotten that these lines are things that shouldn't exist in this world―――
+I'd forgotten that these scribbles are things that shouldn't exist in this world―――
 }
 [sha:2ba3ed4658eef28b30a3bd2a667d0b12446e60a0]{
 -- Page 90, Offset 343.
@@ -1387,7 +1390,7 @@ And so―――
 [sha:33bcee9017f8c2afd747cead52d12617dafa09e5]{
 -- Page 99, Offset 370.
 -- 先生は静かに、僕の後悔を溶かすように、僕が見ているラクガキについて訊ねてきた。
-Sensei asks me about the lines that I can see,
+Sensei asks me about the scribbles that I can see,
  her voice gentle, as though trying to wash away my regret.
 }
 [sha:38361010070085cc9a4d71c1188288a69465dcc5]{
@@ -1486,7 +1489,7 @@ The real question is how we deal with it.
 [sha:4940cf83c80f4cf9495171afa16a304a9b348340]{
 -- Page 106, Offset 389.
 -- 「じゃあ、このラクガキも、説明できる……？」
-"Then, can you explain those lines...?"
+"Then, can you explain those scribbles...?"
 }
 [sha:751ba2b52464a77d3ec9dcbdb2ee812698eba5d7]{
 -- Page 106, Offset 390.
@@ -1574,7 +1577,7 @@ Her cool, yet warming touch pulls away.
 -- Page 113, Offset 405.
 -- 「でも先生。このラクガキが見えてると不安なんだ。だって、この線をひけば切れちゃうんでしょう？　なら、僕のまわりはいつバラバラになってもおかしくないじゃないか」
 "But Sensei...
- I feel uneasy whenever I see those lines.
+ I feel uneasy whenever I see those scribbles.
  If I touch them, they'll break, right?
  What if I accidentally bring everything around me crashing down?"
 }
@@ -1616,7 +1619,7 @@ On the seventh day since we met, Sensei comes to the field with a large suitcase
 [sha:a0adc8da8a9382b23ce336b0336ac73d2c5bb666]{
 -- Page 118, Offset 413.
 -- 「はい。これをかけていれば、もう妙なラクガキは見えなくなるはず」
-"Here, if you wear these, you won't be able to see any more of those strange lines."
+"Here, if you wear these, you won't be able to see any more of those strange scribbles."
 }
 [sha:df09938bd338be3c4b8783b12367f1b56c644d3d]{
 -- Page 119, Offset 414.
@@ -1651,7 +1654,7 @@ As soon as I do―――
 [sha:3544052166d42a579c840f1c8f9ef66c4b8abd41]{
 -- Page 122, Offset 420.
 -- ラクガキがちっとも見えない！」
-I can't see the lines at all!"
+I can't see the scribbles at all!"
 }
 [sha:3e767217ad0fbbbc58ddc49a394684dbd1dd37db]{
 -- Page 122, Offset 421.
