@@ -1,22 +1,22 @@
 [sha:99c0488c3ca4c0e0587105a48e6c592738e196f4]{
 -- Page 10029, Offset 26830.
 -- 『機能不全』
-                  'Dysfunctional.'
+%{center}'Dysfunctional.'
 }
 [sha:9ad5e1aef4c95d1613543565a114f9b3a5e91424]{
 -- Page 884, Offset 26831.
 -- 『磨耗積載重量過多』
-              'Stress-induced failure.'
+%{center}'Stress-induced failure.'
 }
 [sha:c25ea6a4317763054219958575bfaf9bdcc60460]{
 -- Page 885, Offset 26832.
 -- 『壊れた器は直らない』
-        'A broken vessel cannot be repaired.'
+%{center}'A broken vessel cannot be repaired.'
 }
 [sha:0bba49c422685420bfa0f8a580777da7ad749552]{
 -- Page 886, Offset 26833.
 -- 『壊れた食器は役立たず』
-        'Broken tableware serves no purpose.'
+%{center}'Broken tableware serves no purpose.'
 }
 [sha:57b587362aa1ff8a37eee3a8b684374364db0696]{
 -- Page 887, Offset 26834.
@@ -41,9 +41,9 @@ I don't quite remember where I was watching from or why.
 [sha:21013db4b9da4fd5f5a7e7fa781aaaef5c22e6c4]{
 -- Page 888, Offset 26838.
 -- ただ他に何も見たくなくて夜空を見上げた時、月があっただけなのかもしれない。
-Maybe it was because——
-not wanting to see anything——
-I'd raised my gaze to the heavens, and there, was the moon.
+Maybe it was because I didn't want to see anything,
+ and so raised my gaze to the heavens,
+ only to be greeted by the moon.
 }
 [sha:cbd11cf50ffef23540b6b63169a59e2f1f4bc9d0]{
 -- Page 889, Offset 26839.
@@ -64,7 +64,7 @@ I feel dizzy, all alone in the dark like this.
 -- Page 889, Offset 26842.
 -- 眩く、心を病みつかせるような、月。
 // Pretty sure this is まばやく / 病みつく
-A moon so dazzling it snatches my breath away.
+The moon is so dazzling it snatches my breath away.
 }
 [sha:1e5ff559f8a1d2d5ee1ce5a06fd4783af8fe4bb2]{
 -- Page 889, Offset 26843. Mods: @n.
@@ -98,7 +98,7 @@ I'm greeted by the morning sunshine,
 [sha:ca121825ffc57c2fec9bc69b327bc3a763f84b69]{
 -- Page 891, Offset 26848.
 -- 「―――志貴さま、お目覚めの時間です」
-"―――Shiki-sama, it's time to wake up."
+"Shiki-sama, it's time to wake up."
 }
 [sha:448781c3ea8d65a903226d52fffe3a81e86d1f9a]{
 -- Page 891, Offset 26849.
@@ -246,7 +246,7 @@ Hisui leaves the room.
 [sha:c09f3877d5a9f201580d69b929cbe917e305a990]{
 -- Page 902, Offset 26877.
 -- ―――さて。
-―――Now then.
+Now then.
 }
 [sha:2c25cc676faccb0162606cc0f2c2d8dd3cf882ad]{
 -- Page 902, Offset 26878.
@@ -425,7 +425,7 @@ Because of that, I spent a full %{i}thirty minutes%{/i} picking at my breakfast�
 -- 「うう……今朝は適切なお食事を用意せず、申し訳ありませんでした……
 // official Umineko TL just romanizes うう so I will too.
 // Spell to spend a happy breakfast with mama
-"%{i}Uuu%{/i}... I sincerely apologize for failing to prepare an appropriate meal this morning...
+"%{i}Uuu%{/i}... I sincerely apologize for failing to prepare an adequate meal this morning...
 }
 [sha:bf15ac50f26fb0633c52e16af71a744a936dd9f7]{
 -- Page 914, Offset 26911. Glued. Mods: @x.
@@ -689,12 +689,12 @@ What class was this again? I don't remember what the subject is for fifth period
 [sha:3d1cae05fcd98753a4692adeb22d8933fe37747e]{
 -- Page 930, Offset 26960.
 -- 黒板を見ても、教師の声を聞いていても、
-Even when I look at the blackboard, or listen to the teacher's voice,
+I try and focus on the blackboard, and the teacher's voice.
 }
 [sha:59c9c1175c47aa71fbc8a93721fd642bf419b8e8]{
 -- Page 930, Offset 26961.
 -- 俺には、万象が読み取れない。
-none of it makes a lick of sense to me.
+But try as I might, none of it makes a lick of sense to me.
 }
 [sha:29d063bf2a52bb267561302efc22472fd0729300]{
 -- Page 930, Offset 26962.
@@ -895,7 +895,8 @@ Something that must be hidden away, no matter what.
 [sha:8f228559f17c9c720ba1efbaa15ec7ec3f8c0147]{
 -- Page 940, Offset 26999.
 -- お話は聞いております。すぐにベッドまでお連れしますので、それまでもうしばらくご辛抱を」
-I have heard the news. I will take you to your bed soon, so please be patient until then."
+I've heard what happened.
+ I will help you to your bed right away, so please bear with it just a little while longer."
 }
 [sha:d38089d38285eda8dde8d3f1d0d466196192e2bb]{
 -- Page 941, Offset 27000.
@@ -944,7 +945,7 @@ I do my best to put on a bold front.
 [sha:1dae23bad65b9fd2d780c93e6248a922b7699048]{
 -- Page 945, Offset 27008.
 -- 「―――確かに、苦手です。
-"―――Yes, that is true.
+"Yes, that is true.
 }
 [sha:03bbe6e172d9b240dbddf698b4d6a52c98dfeb16]{
 -- Page 945, Offset 27009.
@@ -1037,7 +1038,7 @@ In my dazed state, all I can do is put one foot in front of the other,
 [sha:1ef8f8d9b57dcc46fef087bfcfe2cfb968676368]{
 -- Page 951, Offset 27026. Mods: @c.
 -- 「あ――――れ？」
-'―――Huh?'
+'Huh...?'
 }
 [sha:e953b4681d28600517cb3e1a160601fb61475cb4]{
 -- Page 951, Offset 27027.
@@ -1135,7 +1136,7 @@ A place with no way in, or out.
 [sha:9fbeffd58446c83ae407c5a2fc38accab174729e]{
 -- Page 955, Offset 27045.
 -- 倒壊するように倒れ込む。
-I crumble to the ground.
+I crumple to the ground.
 }
 [sha:d22617e27df76f838b71b1196c37fe8e1dbdaf25]{
 -- Page 955, Offset 27046.
@@ -1145,12 +1146,12 @@ It seems that someone can no longer stand to let Tohno Shiki live.
 [sha:a8d3f2e9c4a0b20c6dad734431e210da436d1a71]{
 -- Page 955, Offset 27047.
 -- 地面は柔らかなクッションのようにも、
-I wonder if the ground is like a soft cushion,
+I wonder if the ground is soft, like a cushion.
 }
 [sha:5bd6fd193af441888005bd5c84ffd8b298706597]{
 -- Page 955, Offset 27048.
 -- 草で編んだ固い畳のようにも思えた。
-or like a hard tatami mat made of woven grass.
+Or maybe it's hard, like a tatami mat made of woven grass.
 }
 [sha:ee31ebc43d37346406561140c56664b9fbd9ce11]{
 -- Page 955, Offset 27049.
