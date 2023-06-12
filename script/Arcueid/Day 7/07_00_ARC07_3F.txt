@@ -17,7 +17,7 @@ Arcueid must have recuperated while we walked, as she's now back to her usual se
 [sha:3e95e76e428173860a6971566a2dda15ec59207f]{
 -- Page 337, Offset 17411.
 -- 「え……？　違うよ、傷が治りかけなのはホントだってば」
-"Huh...? No, I was telling the truth when I said that I was still recovering."
+"Huh? No, I was telling the truth when I said that I was still recovering."
 }
 [sha:bd2fb7c1f071198f59f993467dbd511633a5d1d9]{
 -- Page 338, Offset 17412.
@@ -51,10 +51,10 @@ If you have a problem with it, then start by explaining what happened back there
 -- 大方予想はついてるけど、何をあんな痛がってたんだ？」
 I think I get the big picture, but how did you end up in so much pain?"
 }
-[sha:ef6253f1e8408b5580018e36899e4ba1854efd97]{
+[offset:17418]{
 -- Page 340, Offset 17418.
 -- 「………………。
-"......
+"%{i}Mph%{/i}...
 }
 [sha:2af886ea7f8cbeedbc0a9c833c04779303344019]{
 -- Page 340, Offset 17419.
@@ -232,24 +232,23 @@ That's why―――"
 [sha:f931628cd62e163dc8f09dafbecde03468b3509f]{
 -- Page 353, Offset 17450.
 -- 「さっきみたいに街を歩き回って、吸血鬼の下僕を探していた。
-"That's why you were wandering the city like that, you were searching for these underlings.
+"That's why you were wandering the city earlier... you were searching for these underlings.
 }
 [sha:006840df912108449fcd2f1c9b76da9fa9a68363]{
 -- Page 353, Offset 17451.
 -- ……そうすれば親の居場所が分かるのか？」
-Are you able to locate the sire just by doing that...?"
+Are you also able to locate the sire that way?"
 }
 [sha:760260552ad12dac004a283efa7c8a40b682a2b1]{
 -- Page 354, Offset 17452.
 -- 「強く“親”に結びついた下僕ならね。けど今のところハズレばっかり。
-"If the underlings have a strong enough bond with their 'sire', then yes.
+"If the underlings have a strong enough bond with their sire, then yes.
  They've been nothing but duds so far though.
 }
 [sha:42ac0806524789e21c06bb9a3997fd80bc84644c]{
 -- Page 354, Offset 17453.
 -- 棺……敵の潜伏場所が見つからないのは、それだけ多くの死者を使っているからよ」
-His coffin...
- The only reason I haven't been able to find his hiding place is because of how many Dead he's using."
+The only reason I haven't been able to find his hiding place――his coffin――is because of how many Dead he's using."
 }
 [sha:5094f167cd91e2d94fa6aa5f94bfb8fd0e1a4d2a]{
 -- Page 355, Offset 17454.
@@ -335,7 +334,7 @@ Even though I was there, I didn't witness that scene unfold in its entirety.
 [sha:4ae422443144c65e96632e1571fbef5dea369a1d]{
 -- Page 359, Offset 17468.
 -- だから言葉の上でしか想像できず、それがどれほどおぞましい暴力であるかを肌で感じ取れなかった。
-As a result, I could only imagine it in words,
+As a result, I could only imagine it in words.
  I couldn't viscerally feel the extent of the horrifying violence that had taken place.
 }
 [sha:f393d2780c7170f978c776f7dd0b40d22923bcf1]{
@@ -675,13 +674,14 @@ I'll admit that I don't really want to get involved.
 [sha:a4c6536bf329421b9cb784d4bd21645df627ac2e]{
 -- Page 383, Offset 17526.
 -- ……でも、その台詞は。
-But those words...
+// Slightly expanded to make sense in EN
+But I can't ignore what she just said...
 }
 [sha:e9774aac0120eb00087bf640c3ce06a99aee7f1a]{
 -- Page 383, Offset 17527.
 -- この街を守るという台詞は、アルクェイドではなく、この街に住んでいる俺が口にするべきで―――
 I'm the one who lives here,
- so I should be the one stepping up to say that I'll protect the city,
+ so %{i}I%{/i} should be the one stepping up to say that I'll protect the city,
  not Arcueid―――
 }
 [sha:1a39491f3947510702594d4e4758fbded40bb47b]{
@@ -784,12 +784,12 @@ Arcueid gently caresses her abdomen.
 [sha:51a7a86ea5e5243d4dd2ada31d34702628fb557b]{
 -- Page 390, Offset 17546.
 -- ―――その傷も。
-―――That wound too.
+That wound too, huh...
 }
 [sha:fc2bf4e80510bf860d5fa112def0687f81b8b69b]{
 -- Page 390, Offset 17547.
 -- 俺を<庇|かば>って受けてしまった、余分な傷だ。
-A needless injury she sustained because she was protecting me.
+The only reason she got that injury is because she was protecting me.
 }
 [sha:956125f972827f97998d60d9a0375c8f18210c86]{
 -- Page 391, Offset 17548.
@@ -965,12 +965,12 @@ I raise my head.
 [sha:6624482526ff3493dfb761f9a8671fe177ee8e50]{
 -- Page 402, Offset 17578.
 -- 目の前には、白い女の姿がある。
-Before my eyes stands the figure of a woman in white.
+Before me stands the figure of a woman in white.
 }
 [sha:640fa068071e6852e8e4d5f8239b7b2f785469a6]{
 -- Page 403, Offset 17579.
 -- ……無かった事には、できない。
-I can't pretend she never existed.
+I can't just pretend she never existed.
 }
 [sha:b071b9f011050837686928fe79a493bff24716d2]{
 -- Page 403, Offset 17580.
@@ -1006,7 +1006,7 @@ I've already had my fill of vampires.
 [sha:f95255dd26c3c7f447e3e53d2aa3e5909a987a00]{
 -- Page 406, Offset 17585.
 -- ヴローヴとの一戦を思い出す。それだけで背筋に悪寒が走るほど、殺される一歩手前の恐怖は残っている。
-I recall the fight against Vlov.
+I think back on the fight against Vlov.
  The fear I felt back then while skirting the precipice of death
  is so burned into my mind that simply thinking back on it sends a shiver down my spine.
 }
@@ -1087,7 +1087,7 @@ If I saw my idiotic self in the mirror right now, I would smash it without a sec
 // but the OG tsukihime (and, what one would _expect_ here) is actually more like a
 // 普通_だったら_こんな事、とても口にはできないだろ……！」
 "You're right, I'm not!
- If I were acting normally, there's no way that I'd be able to say something like this!"
+ If I were acting normally, there's no way that I'd be able to say what I'm about to say!"
 }
 [sha:c4292b5efb2dd433e570662d63779324f328f119]{
 -- Page 412, Offset 17600.
