@@ -122,7 +122,7 @@ What if...
 -- Page 524, Offset 10003.
 -- あのビルにまだ避難していない人間がいたのなら、その人間ごと、あらゆる熱を停止させた。
 // あらゆる熱を停止させた。This line is so weird but I decided to mostly keep it as is because it's shiki sort of unable to accept
-What if there were still people in those buildings who hadn't evacuated.
+What if there were still people in those buildings who hadn't evacuated?
  Any warmth they might've had has been snatched away.
 }
 [sha:7dc6ef2ad9fc8df40835e4b127fb7a7c1e551d8e]{
@@ -315,6 +315,7 @@ But before that, allow me to extend to you at least this courtesy."
 -- Page 539, Offset 10041.
 -- 「“―――答えよ、矮小家畜の我が隷属。
 // lint-off:LintEmDashes
+// is meagre intentionally used here?
 "%{g}―――Heed me, mine enslaved and meagre chattel.%{/g}
 }
 [sha:39a5e235718761df3e6edcf770919a0e44ba26f9]{
