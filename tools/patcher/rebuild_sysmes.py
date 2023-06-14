@@ -38,7 +38,11 @@ class SysmesString:
 
         # If this is a flowchart descr, run a full linebreak process
         if self._is_flowchart_descr:
-            return self.linebreak_text(self._text, self.FLOWCHART_WIDTH)
+            linebroken = self.linebreak_text(self._text, self.FLOWCHART_WIDTH)
+            linecount = len(linebroken.split('^'))
+            # We shrunk the box back down, assert nothing gets too big
+            assert linecount < 7
+            return linebroken
 
         # Else, return string as-is
         return self._text
@@ -75,7 +79,7 @@ class SysmesString:
                 word_len = cls.unicode_aware_len(word)
                 if not current_line:
                     current_line = word
-                elif cur_line_len + 1 + word_len < cls.FLOWCHART_WIDTH:
+                elif cur_line_len + 1 + word_len <= cls.FLOWCHART_WIDTH:
                     current_line += ' ' + word
                 else:
                     # If not, push back and start a new line

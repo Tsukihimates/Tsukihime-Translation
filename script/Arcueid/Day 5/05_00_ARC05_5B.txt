@@ -6,12 +6,12 @@ She was just like a human missile.
 [sha:ce0b0c3c254756451e2770b7eb2001f1c43bcb27]{
 -- Page 10012, Offset 9703.
 -- アルクェイドは上空80メートルの高さからヴローヴめがけて落下した。
-Arcueid descended upon Vlov from a height of eighty meters.
+Arcueid dropped onto Vlov from a height of eighty meters.
 }
 [sha:10522421d58370bdef6a91ba9dc1c001ff944929]{
 -- Page 423, Offset 9704.
 -- いや、正確には飛行した。
-No, it was more like she flew into him.
+Actually, it was more like she flew.
 }
 [sha:81c7cfd6d02216b031428a86aceb450de6094e26]{
 -- Page 423, Offset 9705.
@@ -42,24 +42,23 @@ It blows away the policemen that had been surrounding Vlov, incapacitating most 
 [sha:2138b30bf5655b5a8066471e5d6ca1d1ca7fb5ce]{
 -- Page 425, Offset 9710.
 -- それも当然だろう。
-It's not surprising.
+I can't blame them.
 }
 [sha:e1f58841a838db1a935de5df93e1eb9994fa2387]{
 -- Page 426, Offset 9711.
 -- 「す、す、―――」
-"A-Amazi..."
+"W-Whoa..."
 }
 [sha:850e47652933f93948055c93dd7d8f922d4257c1]{
 -- Page 426, Offset 9712.
 -- なにしろ、<砂埃|すなぼこり>が晴れたらこれである。
-// これである reified for flow
-Once the dust settles, the extent of the destruction is plain to see.
+Especially after the dust has cleared and I can see the full extent of the destruction.
 }
 [sha:fceb87c8296f9488bb2e900ddcb28ad3abd38c8c]{
 -- Page 426, Offset 9713.
 -- アルクェイドの急降下はヴローヴどころか地表を砕き、北口の一角―――繁華街の大部分を沈下させた。
-Arcueid's rapid descent shatters the ground around Vlov,
- and causes a corner of the plaza north of the station――a significant chunk of the downtown area――to sink underground.
+Arcueid's rapid descent completely shattered the ground around Vlov,
+ and caused a corner of the plaza north of the station――a significant chunk of the downtown area――to sink underground.
 }
 [sha:92cb83638f5fd172675fadd9b696ab1587853004]{
 -- Page 427, Offset 9714.
@@ -79,7 +78,7 @@ It felt like watching an incredible force of nature. Its grandeur is on the same
 [sha:61c97a82f1e37aca2f51885c108a73c08a20183a]{
 -- Page 428, Offset 9717.
 -- 「少しは加減しろ、あのバカーーーー！」
-"Don't you know how to restrain yourself, you idiot―――!"
+"Don't you know how to restrain yourself, you idiot!"
 }
 [sha:6fe0b9d37d25d366f529f86478f441920a75e044]{
 -- Page 428, Offset 9718.
@@ -111,10 +110,10 @@ As a result, the entire area is now completely deserted.
 -- なんという―――なんという、力任せの人払い……！
 This――this method of clearing people out is way too over the top!
 }
-[sha:f8b2d368c3b6ba5bf7fb1a7e3cac010853198cd3]{
+[offset:9724]{
 -- Page 431, Offset 9724.
 -- 「…………！」
-"%{i}Urghhh%{/i}!"
+"%{i}Ugh%{/i}!"
 }
 [sha:e5acf3376afbc2414d89170d26ecb2f8600e518b]{
 -- Page 431, Offset 9725.
@@ -144,8 +143,8 @@ A white shadow challenges the originator of the flames in the cloud of dust.
 [sha:5f3456f970902cc2d0953dafbf8bb180b468bd1b]{
 -- Page 433, Offset 9730.
 -- “ちゃんと後からついてきてね―――”
-// Reference to 05_00_ARC05_5.txt:158
-'Make sure you follow after me―――'
+// Reference 9678
+'You'd better catch up to me after.'
 }
 [sha:3653ec76193c7314a544a2f7654d6822aeb19b67]{
 -- Page 433, Offset 9731.
@@ -222,7 +221,7 @@ Arcueid's descent back there was extraordinary.
 [sha:149bc4a2b59ecf66b51a571f2be248f3131a1d57]{
 -- Page 437, Offset 9745.
 -- ヴローヴを抑えられる、と言い切っただけはある。
-So I believe Vlov can definitely be pinned down.
+I guess her confidence was warranted when she said she could pin Vlov down.
 }
 [sha:27221af05b9ff42bf73459f22ea9f2dce6054e6f]{
 -- Page 437, Offset 9746.
@@ -232,12 +231,12 @@ However―――
 [sha:3b50026d8663e63729d89d36d644b1a5b9e098ad]{
 -- Page 438, Offset 9747.
 -- 「―――だけど、それでも―――」
-"―――But, even so―――"
+"But, even so―――"
 }
 [sha:2237bf25e1ba0a39a0f94072c9f2e27d601d9a25]{
 -- Page 438, Offset 9748.
 -- ……それでもヴローヴは健在だった。
-Even so, Vlov is in excellent condition.
+Even so, Vlov is still standing strong.
 }
 [sha:295757698369018dbd30c49d9a20e4c833dc6827]{
 -- Page 438, Offset 9749.
@@ -262,12 +261,13 @@ No, that won't happen.
 [sha:7744d6cccb2f8e637c7d1489036f0f048659300e]{
 -- Page 439, Offset 9753.
 -- 俺たちは最悪の事態を想定していない。それは考えなかったのではなく、考える必要のない事だった。
-We didn't make any plans for the worst-case scenario. It's not like we didn't consider it, but there's just no reason to.
+We didn't make any plans for the worst-case scenario.
+ It's not like we didn't consider it――there's just nothing to be done.
 }
 [sha:6bff4672fa2da59c90d6118bc76e2f03898e911c]{
 -- Page 440, Offset 9754.
 -- なぜなら、アルクェイドがヴローヴに敗れた場合、俺に残された選択は逃げ出す事しかないのだから。
-Because if Vlov defeats Arcueid, the only choice I would have left would be to run away.
+If Vlov defeats Arcueid, the only choice I would have left would be to run away.
 }
 [offset:9755]{
 -- Page 441, Offset 9755.
@@ -305,7 +305,7 @@ I take a deep breath. I give my body a once-over.
 -- Page 442, Offset 9761.
 -- ただ、ナイフを持つ指先だけが、自分の体ではないみたいに、ガッチリと固まって動かない。
 Only the fingers gripping my knife refuse to move.
- It's as if they aren't even part of my own body.
+ It's like they aren't even part of my own body.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 443, Offset 9762.
@@ -315,12 +315,12 @@ Only the fingers gripping my knife refuse to move.
 [sha:534dbd9f089b86712904558936d1418432119545]{
 -- Page 443, Offset 9763.
 -- これは恐怖か。
-Could this be fear?
+Is this fear I feel?
 }
 [sha:59d0cb2a4a90d7c11b9823b4d85c75081d7a6665]{
 -- Page 443, Offset 9764.
 -- あの暴力に、あの怪物に向き合う事が怖いのか。
-Am I afraid of confronting the violence... of confronting that monster?
+Am I afraid to face that violence... face that monster?
 }
 [sha:a07139bc82621e007d5693d58e7f058aef701988]{
 -- Page 443, Offset 9765.
@@ -340,7 +340,7 @@ That's why―――
 [sha:2f821a02bdc5ec3f0aa3b69a0eb9e3e8dbaea2d9]{
 -- Page 444, Offset 9768.
 -- 問題があるとしたら、それは、
-If there was a problem, it would be―――
+If there %{i}were%{/i} a problem―――
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 445, Offset 9769.
@@ -360,7 +360,7 @@ I felt more afraid of killing than of being killed.
 [offset:9772]{
 -- Page 446, Offset 9772.
 -- 「は――――ア」
-"%{i}Ha――h%{/i}."
+"%{i}Ha――haaahh%{/i}."
 }
 [offset:9773]{
 -- Page 446, Offset 9773.
@@ -381,5 +381,5 @@ I arrive at the first floor.
 [sha:b1d0ba364a53c10222c6f4f749883ace7ee5c4e3]{
 -- Page 447, Offset 9776.
 -- 俺はナイフを握り直して、出来たばかりの爆心地に走り出した。
-I adjust my grip on the knife and run toward the newly formed crater.
+Adjusting my grip on the knife, I run toward the newly formed crater.
 }

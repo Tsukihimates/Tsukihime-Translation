@@ -59,7 +59,7 @@ I deflect Akiha's 'I am angry' scowl with my smiling face (+50 DEF), and take a 
 [sha:e832c5e325dcf8e6db669229b9d3da074392c37b]{
 -- Page 114, Offset 14202.
 -- カカトはかなり痛んだが、そこは笑顔で乗り切った。
-My heel hurts a lot, but I just grin and bear it.
+My heel is killing me, but I just grin and bear it.
 }
 [sha:c60b42608862614115fd343aa9b95499ff4e0390]{
 -- Page 115, Offset 14203.
@@ -69,7 +69,9 @@ My heel hurts a lot, but I just grin and bear it.
 [sha:115080b8dfeef7408bc4a8b6990dbbea8b955dca]{
 -- Page 115, Offset 14204.
 -- さっきはありがとう。これからも頼りにするよ」
-Thanks for earlier. I'll be counting on you from now on."
+// Ugh very Japanese second sentence
+Thanks for earlier.
+ I'm afraid I'll be counting on you in the future, too."
 }
 [sha:e47c4296ec1bfacac40611aa197206831c280a09]{
 -- Page 116, Offset 14205.
@@ -106,12 +108,12 @@ But that has no bearing on my good mood. I'm just happy because I get to see you
 [offset:14211]{
 -- Page 118, Offset 14211. Mods: @k, @e.
 -- 「――――――、
-"―――
+"
 }
 [sha:8ef945e82d08b8ffc22a5fbd76858ba1a5d59d0b]{
 -- Page 118, Offset 14212. Glued. Mods: @x.
 -- な」
-W―――"
+Wh―――"
 }
 [sha:30c08a82867a84abc2c905a0141982a34f79c1f2]{
 -- Page 119, Offset 14213.
@@ -128,7 +130,7 @@ Crap... did I upset her?
 -- Page 119, Offset 14215.
 -- なるほど。素直になりすぎるのも良くないようだ。上書きで覚えておこう。
 // Reference note taken on 895b068ac3e83d3ca7bb8359e239a83884bd6bd4
-I see. It seems that being too honest is also problematic. I'd better update my notes.
+I see... It seems that being too honest is also problematic. I'd better update my notes.
 }
 [sha:9611e06692bece0eae847d48635f86fb180e14f5]{
 -- Page 120, Offset 14216.
@@ -179,7 +181,7 @@ What I really want to hear is a report of precisely where you have been and what
 [sha:27fb01cdf9247321a39144a7b5c215ee258b4fd0]{
 -- Page 124, Offset 14225.
 -- 「ええ。どんな言い訳をしてくださるのかしら、兄さん？」
-"Yes. What kind of excuse will you give me this time, Nii-san?"
+"Yes? What kind of excuse will you give me this time, Nii-san?"
 }
 [sha:d9f94d06bf65f9e9fde4c052f8ee3e9341c5eb5f]{
 -- Page 10005, Offset 14226.
@@ -216,7 +218,8 @@ Akiha is utterly motionless.
 -- 順当な反応だ。次の瞬間にも、
 // There's a sentence splice between this and the line after Akiha
 // yells. The balance of words has been shifted to read properly.
-It's only to be expected. I can easily imagine her yelling:
+It's only to be expected.
+ I'm sure it won't be long before she yells:
 }
 [sha:10b581f6d081d7fb96e3568063e2ac110e9bed45]{
 -- Page 127, Offset 14233.
@@ -228,7 +231,7 @@ It's only to be expected. I can easily imagine her yelling:
 -- と怒鳴ってくるのは容易に想像できる。
 // Continuation of prev page lead-out
 // Note that the context of the prev page is no longer visible
-―――something like that any moment now.
+Or something along those lines, at any rate.
 }
 [sha:b56bd7b933941d6a9941212b920224c0ef3adfc3]{
 -- Page 128, Offset 14235.
@@ -245,10 +248,11 @@ It's unfortunate, but it's clear she won't believe me. I'll just accept my title
 -- 「…………………」
 "............"
 }
-[sha:99b32c128a8f898bbd8264252aa2e1444c6f9e5a]{
+[offset:14238]{
 -- Page 129, Offset 14238.
 -- ………？
-...?
+// Top 10 sentence in Tsukihime right here
+What's going on?
 }
 [sha:5ab6a17ccfcbc5e659de5106e50ab6a38e51b509]{
 -- Page 129, Offset 14239.
@@ -285,7 +289,7 @@ In complete silence, Akiha peers through... no, pierces through my heart with he
 [sha:87cca6ac7adaff4ae402f0cbe6159f5b6c4776fb]{
 -- Page 131, Offset 14245.
 -- 「冗談、でしょう？」
-"This is a joke, right?"
+"It %{i}is%{/i} a joke, correct?"
 }
 [sha:38ef9972eb9bb8d3153380fceeca8512f60a2349]{
 -- Page 131, Offset 14246.
@@ -331,7 +335,7 @@ Just then, that was... how should I put it... a pure and earnest desire, as stea
 [sha:4828a7149dad22f90ea1395535f121485d8fd7fa]{
 -- Page 135, Offset 14254.
 -- 「……いいでしょう。この件に関して、これ以上の追及はいたしません。
-"It is fine. I will not press you on this matter any further.
+"It's fine. I will not press you on this matter any further.
 }
 [sha:114b0f56fd7448fff540d5d6db96b18f4740de72]{
 -- Page 135, Offset 14255.
