@@ -53,19 +53,19 @@ The cicada chorus.
 -- Page 3, Offset 21302. Mods: @k, @e.
 -- みーん　みんみん
 // lint-off:LintDupedWord
-%{i}Chiiiirp    chirp chirp.%{/i}
+%{i}Chiiiirp    chirp chirp%{/i}.
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 3, Offset 21303. Mods: @k, @e.
 -- みーん　みんみん
 // lint-off:LintDupedWord
-%{i}Chiiiirp    chirp chirp.%{/i}
+%{i}Chiiiirp    chirp chirp%{/i}.
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 3, Offset 21304. Mods: @k, @e.
 -- みーん　みんみん
 // lint-off:LintDupedWord
-%{i}Chiiiirp    chirp chirp.%{/i}
+%{i}Chiiiirp    chirp chirp%{/i}.
 }
 [sha:e68aca0d69305b2ebbd41cccf4a7080935cf636d]{
 -- Page 3, Offset 21305.
@@ -80,7 +80,7 @@ The husks of cicadas litter the open ground.
 [sha:045b9de947d69135540d7585916cdb903fab392e]{
 -- Page 3, Offset 21307.
 -- たいようはすぐそばにあるようで、
-This clearing is slowly being burned away―――
+The clearing is slowly being burned away―――
 }
 [sha:9e5804d06f92c5105f66949acc6e6a978544fde7]{
 -- Page 3, Offset 21308.
@@ -316,5 +316,5 @@ Everything was so ridiculous that it's hard for me to put my thoughts in order,
 [sha:ae26082f5e5c708fcc75d4578ac8ae4851fe78ab]{
 -- Page 14, Offset 42660. Choice.
 -- ノエル先生……の事だ。
- ...Noel-sensei.
+ Noel-sensei...
 }

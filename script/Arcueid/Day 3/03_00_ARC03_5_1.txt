@@ -61,13 +61,12 @@ Yes, I―――
 [sha:eec75a8dfaf5f7e828d23375dedb452b967b6ce3]{
 -- Page 250, Offset 4671.
 -- 遠野志貴は　あの女を　殺したい、と
-// Centered
-        Tohno Shiki wanted to kill that woman.
+%{center}I wanted to kill her.
 }
 [sha:a6f25f0ff844106de9bc7755293673681717fc9e]{
 -- Page 251, Offset 4672.
 -- それが、あの時の俺の<中身|すべて>だった。
-At the time, it was all I could think about.
+At the time, it was all that I could think about.
 }
 [sha:69a63b5206307959a852621988681f5705b3f67a]{
 -- Page 251, Offset 4673.
@@ -120,7 +119,7 @@ Nauseous and light-headed,
 [sha:de203363fd706634fa0168aa17b57230ddba7885]{
 -- Page 254, Offset 4682.
 -- 『ご―――ぼ――』
-"%{i}Hurk――ughh―――%{/i}"
+"%{i}Hurk%{/i}――%{i}ughh%{/i}―――"
 }
 [sha:8492584c3a9dd05ba5799ab2d53f28a534997a34]{
 -- Page 254, Offset 4683.
@@ -213,7 +212,7 @@ I don't know what came over me.
 [sha:a3763e83fd8233625bf8b13f4b78bce7af006803]{
 -- Page 259, Offset 4700.
 -- どうしてわけもなく殺してしまったのか、
-I don't know why I killed her for no reason,
+I don't know why I killed her for no reason.
 }
 [sha:3053521c5dc7945ad4e7936b2ca9288c4d03d2a7]{
 -- Page 259, Offset 4701.
@@ -279,7 +278,8 @@ Gastric juices drip from my lips.
 [sha:9d96bae293753f0333679fe73174d1033af313fb]{
 -- Page 263, Offset 4713.
 -- 口はおろか、あごから下は胃液でベトベトだ。
-Not only my mouth, but my body from the chin down is sticky with stomach fluids.
+// Intentionally dropping 口はおろか to avoid a somewhat awkward sentence construction in EN
+My entire body from the chin down is slick with stomach fluids.
 }
 [sha:8f4321c572d0c7e2e0e68b3d52d78c7097595227]{
 -- Page 263, Offset 4714.
@@ -375,7 +375,7 @@ I couldn't even keep such a simple promise―――
 [sha:d0c65a37d78a60138ea57124b6afe610d22aa6c8]{
 -- Page 269, Offset 4732.
 -- 『俺は―――まだ、<正気|まとも>なのか』
-"Am I――still sane?"
+"Am I... still sane?"
 }
 [sha:cef09a4cb5651072223edde1906db8df7755e7d2]{
 -- Page 269, Offset 4733.

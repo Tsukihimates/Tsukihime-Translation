@@ -148,9 +148,10 @@ She considers that object unfit to even lay eyes on.
 -- Page 27, Offset 40326.
 -- わざわざ意識する必要も、目を向ける価値もない、もうどうでもいいモノでなければならないからだ。
 // Assuming this is all like... rationalization?
-There's no need for her to go out of her way to pay any attention to it, or look upon it.
+Why should she pay any attention to it?
+ Why should she look at it?
  She doesn't care about that thing.
- She must %{i}never%{/i} care about that thing.
+ She %{i}must%{/i} never care about it.
 }
 [sha:0da3f66e1266ff1d9aa2a972cbb3f70e6c735ee8]{
 -- Page 28, Offset 40327.
@@ -180,7 +181,7 @@ One of the two people who were allowed to remain in this world is still clutched
 -- Page 29, Offset 40331.
 -- 嗜虐の笑みを浮かべた後、指先で命の感触を確かめる。
 Smiling sadistically,
- she reassures herself that the life between her fingertips is still there.
+ she once again luxuriates in the feeling of life between her fingertips.
 }
 [sha:1329ac193ef6cf349f829a01bb324c035744cb43]{
 -- Page 29, Offset 40332.
@@ -240,7 +241,7 @@ She has already butted heads with this human on countless occasions.
 -- 八つ裂きにしても飽き足らなかった女だが、今は奇妙な連帯感すら抱きつつある事が、彼女を余計に残酷にさせていた。
 Even at the best of times she would never tire of tearing this woman limb from limb,
  but in this moment, she feels a strange sense of solidarity with her,
- though it only serves to make her even crueller.
+ though it only serves to make her even crueler.
 }
 [sha:f0e1cd6af0fc56199ff99d99bed51657a53f303f]{
 -- Page 33, Offset 40341. Mods: @n.
@@ -262,6 +263,7 @@ Even at the best of times she would never tire of tearing this woman limb from l
 -- Page 33, Offset 40343. Mods: @n.
 -- 貴女が死ぬ為には
 // Same as 37990. without the 教会で用意した
+// Similarities continue for the next couple pages
 %{i}
 In order for you to die,
 %{/i}
@@ -271,7 +273,7 @@ In order for you to die,
 -- 転生批判の聖典でロアを殺さないといけない”」
 %{force_glue}
 %{i}
-  you have to kill Roa using the Scripture of Reincarnation Condemnation."
+ you have to kill Roa using the Scripture of Reincarnation Condemnation."
 %{/i}
 }
 [sha:90d55a61969ebb5b69bdeb0eb1fed01feb29e96b]{
@@ -287,7 +289,7 @@ A bleary, half-conscious voice responds.
 [sha:de7e14cb03c2c4420c9f04baa45d01aa4c7159da]{
 -- Page 34, Offset 40347.
 -- 巨大な白い指の隙間で、女は何度目かの蘇生を果たす。
-The woman trapped between two massive white fingers completes the most recent of her countless resurrections.
+The woman trapped between the two massive white fingers completes the most recent of her countless resurrections.
 }
 [sha:38de0e459ce9b37b821b5036c895aae93f5c2140]{
 -- Page 35, Offset 40348.
@@ -301,7 +303,7 @@ The woman trapped between two massive white fingers completes the most recent of
 -- Page 35, Offset 40349.
 -- ロアが死ぬという事は貴女も死ぬという事なのよ。
 %{i}
-If Roa dies, that means that you'll die too.
+If Roa dies, that means you'll die too.
 %{/i}
 }
 [sha:b9377e0f3513f9a943b360312f9f05bbfb38c26c]{
@@ -416,6 +418,7 @@ Even though her life lies at the mercy of a single finger,
 [sha:c60eaa491e9622cc842ea2514c4152449c39ce81]{
 -- Page 40, Offset 40366.
 -- 「まったく―――一度殺されたクセに、まだ彼を解っていないのですね、貴女は」
+// Line gets referenced a couple times later (解っていない specifically)
 "Unbelievable...
  Despite having been killed by him once,
  you still don't get him at all, do you?"
@@ -423,6 +426,6 @@ Even though her life lies at the mercy of a single finger,
 [sha:a89d8c18c070f6405e409db69ac1be95472e7aee]{
 -- Page 40, Offset 40367.
 -- それは、残されたもう一人の人間の行動を信じ切った、勝者としての笑みだった。
-It is the smile of someone who had complete faith in the other human still remaining――
+It is the smile of someone who has complete faith in the other human still remaining――
 the smile of a victor.
 }
