@@ -101,10 +101,10 @@ The only puzzling thing here is why it's so damn dark.
 -- カーテンは一体どうなっているのか、と携帯を窓に向ける。
 I point my phone toward the window to try and spot what's going on with the curtains.
 }
-[sha:0d4898c497e1af6b4e2ecfcf7c11a1d1126b20e4]{
+[offset:21741]{
 -- Page 160, Offset 21741. Mods: @k, @e.
 -- 「――――――、
-"―――
+"
 }
 [sha:dbcec3df76e528d0dbb31c560813f3de94457a0c]{
 -- Page 160, Offset 21742. Glued. Mods: @x.
@@ -114,17 +114,18 @@ Huh?"
 [sha:e1a47c61368026df31fc6c54388eccba1815c222]{
 -- Page 160, Offset 21743.
 -- ―――そこには。
-There I find―――
+What I see makes no sense.
 }
 [sha:75acabe0395fea1e757c2696898f081d6d91d43e]{
 -- Page 160, Offset 21744.
 -- 通常の部屋にはある筈のない、異様な<封|のり>が施されていた。
-A bizarre seal, the sort you'd never expect to see in an ordinary room.
+It's been sealed shut,
+ but in a way that would feel totally out of place in an ordinary room.
 }
 [sha:d5a7b63510f8147228cc5d64294718c7ee47083c]{
 -- Page 161, Offset 21745.
 -- 「……<鉄|てつ>……<格子|ごうし>……？　なんで……？」
-"An iron... grille...? But why...?"
+"An iron... grille? But why?"
 }
 [offset:21746]{
 -- Page 161, Offset 21746.
@@ -154,7 +155,7 @@ It's because this massive iron grille has been firmly secured over the entire wi
 [sha:1fb5aa9123c0543ede5880758f8373b0ef952102]{
 -- Page 162, Offset 21751.
 -- まるで外から入ってくるものを拒むような、
-The grille looks as though it's designed to prevent anyone entering from outside.
+Almost like it was designed to prevent anyone getting in from outside.
 }
 [offset:21752]{
 -- Page 162, Offset 21752.
@@ -164,7 +165,7 @@ Or perhaps...
 [sha:0e0ce665f3163cc0e6f7876745ec2b7710bd192c]{
 -- Page 162, Offset 21753.
 -- 中に入ったものを閉じこめているような、そんな光景。
-its purpose was to keep something locked inside.
+It was meant to keep something inside from getting %{i}out%{/i}.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 163, Offset 21754.
@@ -239,7 +240,7 @@ There's a good chance they contain documents pertaining to the company,
 [sha:f36ad238b6749763b58d374dc19b97ea78c87144]{
 -- Page 168, Offset 21767.
 -- 机の引き出しには何も入っていなかった。
-There was nothing in the desk drawers.
+There's nothing in the desk drawers.
 }
 [sha:281bb9a88f9949ec3af45ccf5929456c62af0966]{
 -- Page 168, Offset 21768.
@@ -275,7 +276,7 @@ Once again, I take off my glasses and 'kill' the lock.
 [sha:87265d0e3c9047eefbccd12561c342d6d13afb11]{
 -- Page 169, Offset 21774.
 -- 中には古い紙の束と、分厚い日記帳が入っていた。
-Inside was a bundle of old papers and a thick diary.
+Inside is a bundle of old papers and a thick diary.
 }
 [sha:6623fed0a2cd40967921f0f6c07e959a0d41109c]{
 -- Page 169, Offset 21775.
@@ -350,7 +351,7 @@ But... all of the family heads have been surprisingly short-lived.
 [sha:2c5d18d08d5d6a4a0de65c9a680054f656d6c35a]{
 -- Page 173, Offset 21788.
 -- ――――いや、待て。
-―――Wait, hold on.
+Wait, hold on...
 }
 [sha:bb2d4dc89c53c340fb17190fe5d16291e811e264]{
 -- Page 173, Offset 21789.

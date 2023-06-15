@@ -47,13 +47,13 @@ A building deep in the heart of the forest...
 [offset:21626]{
 -- Page 126, Offset 21626.
 -- ―――と。
-And so.
+// Just stealing the next line because man fuck "と。"
+We've been walking for about ten minutes now.
 }
 [sha:22ddfeb6907d2cdf36b9e63ea19d6181a0ce6d91]{
 -- Page 126, Offset 21627.
 -- 10分ほど歩くと、とうとつに視界が開けた。
-After around ten minutes of walking,
- my field of vision suddenly opens up.
+All of a sudden, the trees drop away and my field of view opens up.
 }
 [sha:76b73709f17e59d6bdc42287883482173f184812]{
 -- Page 127, Offset 21628.
@@ -90,18 +90,19 @@ This spot is so perfectly concealed by the trees, you'd never guess it was here 
 [sha:8ffae77cee3b7de14c2fea5f6d70c566ed6e9cb2]{
 -- Page 128, Offset 21634.
 -- あったならかっこうの遊び場だけど―――」
-If so, it would have been a great place to play―――"
+If so, it would have been a great place to play."
 }
 [sha:7ea5586aba82d7e594dd21a957b6e84c51ddad90]{
 -- Page 128, Offset 21635.
 -- 少なくとも、森の広場で秋葉と遊んだ記憶はない。
-I don't remember ever coming here to play with Akiha, at any rate.
+I don't remember ever coming here to play though,
+ or at least not with Akiha.
 }
 [sha:4c25846fca5050ac502b94de16217497b2616ed7]{
 -- Page 128, Offset 21636.
 -- ――――ない、ような、気が、する。
 // Weirdly halting phrasing in the JP here
-―――At least... I don't... think I do...
+I'm... %{i}pretty%{/i} sure, at any rate.
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 129, Offset 21637.
@@ -154,9 +155,10 @@ It's like I've been transported to a hot summer day.
 [sha:1c82627523cc77739dd97376f17aab8ecce4b4b8]{
 -- Page 131, Offset 21646.
 -- ふと気がつくと、高い空には大きな大きな入道雲。
-// Refrain of 09_00_ARC09_1, 04_00_ARC04_6_2DASH
-When I come to, there's a blue sky.
- Large, large clouds towering above.
+// 大きな大きな入道雲 from 21298, 28972
+// 高い空 in prologue as 'lofty'.
+When I suddenly come to my senses,
+ I see huge, towering thunderheads drifting through the lofty skies.
 }
 [sha:783bb01d1905e5d124f0b8f1d160c108c2d09263]{
 -- Page 131, Offset 21647.
@@ -223,7 +225,7 @@ At my feet...
 [sha:09c66d1b408004f02d793221337c41ec6db1f9b7]{
 -- Page 134, Offset 21659.
 -- 「い――――痛…………」
-"%{i}Ou――ch%{/i}..."
+"%{i}Gh%{/i}――%{i}ow%{/i}..."
 }
 [sha:389aa5b9d70031a037f4bbb21963ec857d928c19]{
 -- Page 134, Offset 21660.
@@ -261,15 +263,15 @@ He's dead.
  <He's dead|%{i}c h i i i i r p   %{/i}>.
  <He's dead|%{i}c h i r p   c h i r p   %{/i}>.
 }
-[sha:972649b62b21eebd11c13d82a17a7a77e0c66dfd]{
+[offset:21666]{
 -- Page 135, Offset 21666. Glued. Mods: @x.
 -- ―――――
-―――
+%{nothing}
 }
 [sha:d38c1e89802894e0d55dc597034945649c8ab523]{
 -- Page 135, Offset 21667.
 -- ――――どこかで、<蝉|ヒト>の声がしている。
-―――I hear a <cicada's|p e r s o n ' s    > voice in the distance.
+I hear a <cicada's|p e r s o n ' s    > voice in the distance.
 }
 [sha:63299e24414ae01f3a66b0d31d33c1501b70e68f]{
 -- Page 135, Offset 21668.
@@ -398,7 +400,7 @@ The scar opens up      and a red stain oozes out.
 [sha:f0d0ec21cc37bcdbae6f8e67c14b75e887ed8784]{
 -- Page 141, Offset 21691.
 -- ―――なんてこと。
-―――How could this be?
+How could this be?
 }
 [sha:f653e9a48da332b5493e6b003b07bd494db55afa]{
 -- Page 141, Offset 21692.
