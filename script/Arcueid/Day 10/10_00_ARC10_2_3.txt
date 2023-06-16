@@ -12,7 +12,8 @@ You're a vampire, right? You probably don't think about things the same way that
 -- Page 91, Offset 24486.
 -- 「むっ……！　なによそれ、わたしの思考の雛型は<霊長類|にんげん>と同じなんだから、志貴とたいして違ってないんですけど！
 // keep this as "human" since that what she says in the ruby (hence the part which is voiced)
-"%{i}Mmph%{/i}! What the hell! My thought patterns are the same as any human.
+// help spacing, etc
+"%{i}Mmph%{/i}! What the hell! My thought patterns are the same as any <Paragon|human>.
  There's barely any difference between me and you!
 }
 [sha:40e8c23ff00ce9c3cd294dd58ca175f734bfc24a]{

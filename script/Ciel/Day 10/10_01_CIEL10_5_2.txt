@@ -270,7 +270,8 @@ Is she stupid? Is she stupid? Is she stupid?
 [sha:ea0a778461432713d9405a8d1a1f5b12d9a9bb85]{
 -- Page 397, Offset 28161.
 -- 疑わしきは罰する、でしょ？
-%{i}In dubio contra reum%{/i}, right?
+//%{i}In dubio contra reum%{/i}, right?
+Guilty until proven innocent, right?
 }
 [sha:fb0eae541a00ae70903f4c36618993a91af697e2]{
 -- Page 397, Offset 28162.
@@ -372,14 +373,14 @@ The sound echoing through the tea ceremony room isn't my breathing at all, but t
 [sha:6d2f7d019568211ce11d20f499e6ea0ad1c73fc2]{
 -- Page 402, Offset 28180.
 -- そうだよねー、志貴クンは私よりあの子ばっかりだったもんねー？
-Right, right... You only ever had eyes for that girl, never for me, huh?
+Right, right... You only ever had eyes for %{i}her%{/i}, and never for me, huh?
 }
 [sha:1a240eed0ae6c96c54abb1d5a910c1da163e7d2d]{
 -- Page 402, Offset 28181.
 -- でもザーンネン♥　キミの大好きな先輩はぁ、司祭様に呼び出しをうけて尋問中。
 // Newline because mid-sentence ♥ kinda funky imo
 But too bad ♥%{n}
-Your beloved Senpai has received a summons from the Presbyter and is currently being interrogated.
+Your beloved Senpai has received a summons from our esteemed presbyter and is currently being interrogated.
 }
 [sha:119c300c0137a778c71f6bf8237387034b12d35c]{
 -- Page 402, Offset 28182.
