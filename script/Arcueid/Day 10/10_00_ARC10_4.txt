@@ -57,7 +57,7 @@ After nervously glancing around at her surroundings,
 [sha:ab9313e0e780a30299073819c2e1334533d09a97]{
 -- Page 298, Offset 25013.
 -- 「慣れてるんだな。
-"You're used to this.
+"You seem right at home.
 }
 [sha:7546cc9a6fddc61dbc47d9285df38e97020fb798]{
 -- Page 298, Offset 25014.
@@ -91,7 +91,7 @@ The traditional Western image of a vampire, combined with Vlov's old-fashioned l
 [sha:b90a19e8e36defd7157d4ce6e2efe235aac0a053]{
 -- Page 302, Offset 25019.
 -- だから起きた時は、その時代の情報を覚えてから行動するの。ま、たいていは一日や二日で決着がつくから無駄になるんだけどね」
-That's why whenever I wake up, I absorb information about the current time period and then take action.
+That's why whenever I wake up, I absorb information about the current time period before I take action.
  I usually settle my business within a day or two though, after which all that knowledge just becomes dead weight."
 }
 [offset:25020]{
@@ -125,7 +125,7 @@ I don't know how many years it'll be before I wake up again,
 -- 「……ん、
 // lint-off:LintUnclosedQuotes
 // This line is actually on the next page.
-"Hmm...
+"%{i}Sigh%{/i}...
 }
 [sha:84e0d4ddb9d4f7f9ddfc6a4e2bba0e11d327fd2b]{
 -- Page 305, Offset 25026. Glued.
@@ -155,13 +155,13 @@ Even though I knew that people gathered here like this, I'd never experienced it
 -- Page 306, Offset 25030.
 -- 「なるほど……けど知ってるんならそれでいいんじゃないのか？　現にさっきだって、メニューに迷いはしたけど注文自体はスッとしてたんだし」
 "I see... but isn't knowledge enough?
- In fact, just now, you seemed a little lost when confronted with the menu,
+ Take the menu for example――you seemed a little lost at first,
  but when the time came to actually place your order, you were totally prepared."
 }
 [sha:85e4f3d1fff97c7ef0fc88a21fdcdbd0d58a5583]{
 -- Page 306, Offset 25031.
 -- 「当然よ。そういうふうに対応できるよう、知識を得ているんだから」
-"Of course. I've learned how to handle those kinds of interactions, after all."
+"Of course I was. I've learned how to handle those kinds of interactions, after all."
 }
 [sha:e3bcbaa1d40844a96d0d0d63f5cc0e88b945e258]{
 -- Page 307, Offset 25032.
@@ -214,10 +214,12 @@ Well... I guess that included me up until recently."
 -- ますますアルクェイドの顔は暗くなっていく。
 Arcueid's facial expression grows darker and darker.
 }
-[sha:ca72f2c4bb70b49f9a57b46163b72b209643724c]{
+[offset:25041]{
 -- Page 310, Offset 25041.
 -- ……。
-...
+// Next line is glued but this doesn't have an @n.
+// Added a manual @n and just zeroed this out
+%{nothing}
 }
 [sha:58b71adc544e3d3bdfae244d9408713072ba453e]{
 -- Page 310, Offset 25042. Glued. Mods: @x.
@@ -364,7 +366,7 @@ I wonder how she manages it.
 [sha:eb628e2a1311cded1b85ac21642e7d61cf42f862]{
 -- Page 320, Offset 25067.
 -- 「なに……？　人のことジロジロ見て。
-"What...? It's rude to stare.
+"What? It's rude to stare.
 }
 [sha:18983355a43d1b5a3de840520b51ad65ffac03fc]{
 -- Page 320, Offset 25068.
@@ -414,8 +416,9 @@ Even I don't understand why I'm acting like this.
 [sha:5e1b20b8ab27529a3029d111947c2bdeb71dfd91]{
 -- Page 325, Offset 25076.
 -- 「いらないっ。せっかく食事を摂る事にしたのに、そんな柔らかいものばっかりじゃモノを食べてるって気がしないもの」
-"I don't want them. I finally get a chance to eat something,
- but if I only eat soft things like those, it barely feels like I'm eating anything at all."
+"Keep 'em.
+ It's not often that I get something to eat,
+ so I'm not about to ruin it by just eating a bunch of soft stuff like that."
 }
 [sha:4489a3407a63b71a68636560115fa01db410c435]{
 -- Page 326, Offset 25077.
@@ -462,12 +465,12 @@ Then... does that mean she derives sustenance from the same sorts of food that p
 [sha:4ecbcb904506102ea5903304be773082a19e137a]{
 -- Page 329, Offset 25085.
 -- 「なによ、いじわる」
-"What do you want, you bully?"
+"What do you want, meanie?"
 }
 [sha:574dd2276d3fa3c0eccbbc65b7728317f4fa1a7f]{
 -- Page 330, Offset 25086.
 -- 「いや、もう文句は言わないって。
-"Look, I won't complain any more.
+"Alright, alright, it's not about that.
 }
 [sha:8e9470dffa64bdda5fa2d0ef78e80376b9a4528c]{
 -- Page 330, Offset 25087.
@@ -477,7 +480,7 @@ There's something I want to ask you, if that's okay."
 [sha:728779e025e5c7c0281f80356170654830c20eba]{
 -- Page 330, Offset 25088.
 -- 「いいけど―――なに？」
-"Sure but――what is it?"
+"Sure, but――what is it?"
 }
 [sha:bf78efc8cad480a7a8371f1c1b2663b18c6f8285]{
 -- Page 331, Offset 25089.
@@ -696,7 +699,6 @@ I'm finding it a little hard to accept being told that humans can't live without
 [sha:2b741b38e1b9aa451532c93810bbd9d8f255fdc6]{
 -- Page 346, Offset 25129.
 -- 「いいのよ、それで。だからこそあなたたちはこの星で一番の高等動物になった。生存する事に意味を見いだそうとする生命なんて、星からしたらとんでもない進化だもの。
-// double check these lines please.
 "It's not like there's anything wrong with it.
  It's what made you people the dominant species on the planet today.
  From the planet's standpoint, a life-form that searches for meaning in its own existence is an extraordinary result of evolution.
@@ -719,7 +721,8 @@ It's certainly something that the planet itself never thought of."
 [sha:6433ad2278c74a017e17800e9d66f5cecafb6092]{
 -- Page 347, Offset 25133.
 -- 真祖である吸血種―――わたしの場合は、そんな形而上の二次的利益を満たしてくれる最上級の食べ物が血液なの。
-For bloodsuckers of the True Ancestors type like myself, blood is the highest grade of food that provides such secondary metaphysical benefits.
+For bloodsuckers that are True Ancestors, such as myself,
+ blood is the highest grade of food that provides such secondary metaphysical benefits.
 }
 [sha:65cf3c3d5c2f15652a37f63da5cdaddeaecc757a]{
 -- Page 347, Offset 25134.
@@ -763,12 +766,13 @@ However, Arcueid frowns as though something is weighing on her.
 [sha:70840069c591988e9f870b8b707a9db6eeb858a9]{
 -- Page 350, Offset 25141. Mods: @n.
 -- 「……わからない。血の味なんて、
-"I don't know... the taste of blood――
+"I'm not sure...
+ The thing is――
 }
 [sha:efa0b575d1f603109767091dfd16cedd66c4dc99]{
 -- Page 350, Offset 25142. Glued.
 -- わたし知らないもの」
-is unknown to me."
+I don't actually know what blood tastes like."
 }
 [offset:25143]{
 -- Page 350, Offset 25143.
@@ -816,12 +820,12 @@ Would you still consider them food and choose to eat them despite that?"
 [sha:cd2e40153d3c17d0b231bff0ed96c9e52b54cbc1]{
 -- Page 353, Offset 25151.
 -- 「―――いや、それは」
-"―――Well, that's..."
+"Well, I guess I―――"
 }
 [sha:75012fd38be15a9a563a382fd0cfa445060cf713]{
 -- Page 353, Offset 25152.
 -- 食べられる―――んだろうか？
-I――probably would?
+I guess I would?
 }
 [sha:01f66e5c35f7975da757a0e674e6175e18de5c5a]{
 -- Page 353, Offset 25153.
@@ -951,7 +955,7 @@ Ah, do you need to go to the bathroom?"
 [sha:50b28450afc71ef641da61b8a23919ff2c681694]{
 -- Page 359, Offset 25176.
 -- 「……あのな。人が真面目に悩んでるっていうのに、よりにもよってソレか、おまえは」
-"Come on... I'm weighed down by serious stuff here and that's where your mind goes?"
+"Come on... I'm doing some soul searching here and %{i}that's%{/i} where your mind goes?"
 }
 [sha:f11e0128cd3ad6435f30319692dbe2227c71d78f]{
 -- Page 360, Offset 25177.
@@ -1038,7 +1042,7 @@ I've been completely forthcoming in all my conversations with you.
 -- Page 365, Offset 25192.
 -- 隠し事が多いように見えるのは、志貴があんまり訊いてこないだけなんじゃない……？」
 If you feel like you're in the dark, isn't that down to you not asking me any questions,
- rather than me refusing to answer them...?"
+ rather than me refusing to answer them?"
 }
 [sha:f435b097312186dfb160436e7f48457e2547c998]{
 -- Page 366, Offset 25193.
@@ -1064,7 +1068,7 @@ And as Tohno Shiki, I want to hold on to the idea that I can still turn back, ev
 -- Page 368, Offset 25197.
 -- だが。ここまで来てしまった以上、知らなくてはいけない事がある。安全な<境界線|ボーダー>にいられる時期は、きっと昨夜で終わったのだ。
 // Slightly rearranged.
-However.
+That said...
  After last night, I'm certain I've crossed a threshold. There's no going back to the safety I once knew.
  And now that I've come this far, there are things that I need to know.
 }
@@ -1108,7 +1112,7 @@ I should use this chance to find out what kind of person they are.
 -- Page 372, Offset 25205.
 -- アルクェイド、おまえの敵って結局どんな吸血鬼なんだ？　ここまで追って来た以上、それなりに面識はあるんだろ？」
 Arcueid, just what kind of vampire is your enemy anyway?
- You must have some sort of relationship with them if you've gone to this length to chase after them, right?"
+ You must have some sort of history with them if you've gone to this length to chase after them, right?"
 }
 [sha:60bd88c72c05de22c059d1a9e5ae2696af54912b]{
 -- Page 372, Offset 25206.
@@ -1129,7 +1133,7 @@ Arcueid, just what kind of vampire is your enemy anyway?
 -- Page 374, Offset 25209.
 -- この街に吸血鬼が潜んでいると判ったのはつい最近の事で、わたしはまだ本体に出会えてさえいない。
 I only recently discovered that the vampire is lurking in this city,
- so I haven't even had a chance to see his current form yet.
+ and I haven't even managed to get a look at them yet.
 }
 [sha:a83c4f24747dc41d9df857b1c5d55e9bfacc470f]{
 -- Page 374, Offset 25210. Mods: @n.
@@ -1235,7 +1239,7 @@ At least, that's what I thought.
 [sha:f6715b1b2c1a41e3ea83cc8df286abd154d54f85]{
 -- Page 381, Offset 25229.
 -- 「―――アイツの、名前」
-"―――His name―――"
+"His... name―――"
 }
 [sha:0c098445eeaa9871d9c1e22bf9d0f7e0d68ed187]{
 -- Page 381, Offset 25230.

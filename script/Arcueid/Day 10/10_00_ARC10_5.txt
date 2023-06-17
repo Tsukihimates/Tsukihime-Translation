@@ -18,7 +18,8 @@ I'm not sure what Arcueid had in mind when she said―――
 [sha:f505805a7035da0f5e02a257eec45dd9a84d4961]{
 -- Page 397, Offset 25266.
 -- 『志貴の通っている学校に行きたいなっ！』
-'I want to visit the school that you go to!'
+// Voiced
+"I want to visit the school that you go to!"
 }
 [sha:be20c66dfd67d279246171294b967bd9430c054d]{
 -- Page 397, Offset 25267.
@@ -33,7 +34,7 @@ It's five o'clock.
 [sha:22c15b786f8fd625199147a3339fe3670b54ad3b]{
 -- Page 398, Offset 25269.
 -- 部活動禁止と早期下校の通達のおかげで、正門に<人気|ひとけ>は皆無だった。
-There's virtually no signs of life at the main gate,
+There are virtually no signs of life at the main gate,
  no doubt thanks to the official notice stating that all club activities are suspended and students are to return home promptly.
 }
 [sha:f3abdacdc441e451d3e2e6be50a441389ea51461]{
@@ -228,7 +229,7 @@ Arcueid is winding back her fist in front of the windowpane.
 [sha:e998474054cd6cfd91f1fee5e5bc6c413e4be528]{
 -- Page 412, Offset 25305.
 -- 「こ……の、なんで人の話を聞かないんだ、おまえはーー！」
-"You... little! Why don't you ever listen to what people say!"
+"God damn it... Why don't you ever listen to what people say!"
 }
 [sha:d31c22de5ab2e621b4aaa9dcb6a93e4ee5fdc0b6]{
 -- Page 412, Offset 25306.
@@ -322,7 +323,7 @@ There's a line running right across the latch securing the window...
 [sha:91fed88721bf5b68ff82bc7f41a356f197278e37]{
 -- Page 418, Offset 25323.
 -- ポケットからナイフを取り出して、スッ、とカギを切り落とす。
-I take out the knife from my pocket and slice open the latch.
+I take my knife out of my pocket and slice open the latch.
 }
 [sha:07a1613bcfd9af2f70caf838dc6361869ea49772]{
 -- Page 418, Offset 25324.
@@ -390,7 +391,7 @@ Arcueid offhandedly says something rather amusing.
 [sha:9377ffd052089ee71389b70807c6521ca7932eb8]{
 -- Page 423, Offset 25336.
 -- 「あはは、おおあたりー」
-"%{i}Ahaha%{/i}, correct!"
+"%{i}Ahaha%{/i}, bingo!"
 }
 [sha:a595f5ebbc4d57a6dabb37b427b5db3818340432]{
 -- Page 423, Offset 25337.
@@ -517,7 +518,7 @@ Your lives are so short that I wouldn't have thought you'd have time to spare fo
 [sha:40953d1c545269847b0b5ba724b5fc9b58ddea6a]{
 -- Page 431, Offset 25360.
 -- 「暇はないって、まあ、はっきりとした目的が今はないからね。それまではこうやって無駄に生きているワケだけど」
-"Time to spare? ...Well, it's not like I have a clear purpose in life yet.
+"Time to spare? Well... it's not like I have a clear purpose in life yet.
  I may as well while away my time like this until I do."
 }
 [sha:54d9ee5fc6696b2b8e434ee77684dad385c217cb]{
@@ -564,7 +565,10 @@ But is it really so bad to do something pointless?"
 [sha:a113c80268002f18148192bc606874d0601e01b7]{
 -- Page 435, Offset 25369. Mods: @n.
 -- 「いいじゃないか、余分な事って
-"It's fine, right? To waste time, that is
+// 余分 kiiinda touching on a theme here? Using same word here as 25392.
+// Note no period, is glued
+"There's no harm in it, right?
+ Doing unnecessary things, I mean
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 435, Offset 25370. Glued.
@@ -675,7 +679,7 @@ Humans as a species aren't evaluated as individuals, but as part of a group.
 [sha:7aad9f2d37d9708bb72b653848720a2ef5461952]{
 -- Page 442, Offset 25389.
 -- だから個の間違いも、全体が正しければ許してもらえる。あなたたちは最後に、種が終わりを迎える瞬間にたった一つの答えを生み出す為に繁栄できる」
-That's why if one is wrong, it is tolerated as long as the entire group is correct.
+So even if one of them is wrong, it's allowed as long as the entire group is correct.
  You can all flourish as one, and together bring forth a single answer when the time comes that your species must face its fate."
 }
 [sha:5837e415458375e833f86817df1b24abdd051b9c]{
@@ -706,12 +710,12 @@ She pieces her words together as if she were confessing a sin.
 [sha:dc442edb702279f4f9135855e812f23df0a05a35]{
 -- Page 445, Offset 25395.
 -- 「―――でも、わからなくなっちゃった。
-"―――But then I became confused.
+"But then, I started to doubt what I thought I knew.
 }
 [sha:b85b0f693398c6621d0bdcef0e2f69a03e231685]{
 -- Page 445, Offset 25396.
 -- たった少し、たったの七日間だけなのに。
-In such a short period. In just a meager seven days.
+It happened so fast... Just seven short days.
 }
 [sha:9fb8a4e75545ce356a0561a081552d4de5ae9f54]{
 -- Page 445, Offset 25397.
@@ -726,7 +730,7 @@ I wondered if what I was doing was right. I mean, I had so much fun. Up until no
 [sha:39050e0ad414c0bef69a7765516d13e631426add]{
 -- Page 446, Offset 25399. Mods: @k, @e.
 -- 今までこんなに長く起きていた事がないから―――
-After all, I've never been awake for this long before―――
+After all, I've never been awake for this long before.
 }
 [sha:8fc8bbc1cf0f0d2e6df23b1c5f1feac70522fbd5]{
 -- Page 446, Offset 25400. Mods: @n.
@@ -751,7 +755,7 @@ What she's describing now is something I truly cannot comprehend.
 [sha:028430989437b04d9415dd6d0d335c060cf4ef80]{
 -- Page 447, Offset 25405.
 -- アルクェイドが何に苦しんでいるのか、一欠片も俺には分からない。あるのはただ、そんな顔は見たくないと苛立つ感情だけだった。
-I cannot hope to fathom even a fraction of the feelings that are tormenting Arcueid.
+I could never hope to fathom even a fraction of the feelings that are tormenting Arcueid.
  All I can understand is that I can't bear to see her like this.
 }
 [sha:98fcefa99b0b80b0696c81e5ae8bd19541c2349c]{
@@ -804,12 +808,13 @@ That doesn't feel right.
 [sha:8bae21113428e11133de724a7676b7a04108bfbb]{
 -- Page 451, Offset 25415.
 -- 夕焼けの教室。
-The classroom at sunset.
+The classroom is awash with the sunset.
 }
 [sha:b2ab2609893a09b6758b5c06c8d266831304815d]{
 -- Page 451, Offset 25416.
 -- 赤い日を浴びて、頼りなげにうつむく女。
-A woman looking down helplessly, bathed in the red glow of the sun.
+The woman before me stares forlornly at the ground,
+ bathed in the red glow of the sun.
 }
 [sha:a522f5d08e0f228e80b0b9ef7fecee82a08e837c]{
 -- Page 451, Offset 25417.
@@ -1001,7 +1006,7 @@ You said that you act mean toward me, right?"
 [sha:48f577ebd0cbdc56c0586553c86f8c14df9f435d]{
 -- Page 464, Offset 25453.
 -- 「―――いや、まあ。それはそうなんだけど……」
-"―――Well, I mean, that's true, but..."
+"Well, I mean, that's true, but..."
 }
 [sha:8b46de2483a2f2fa52bf5dbd00b029de96b90467]{
 -- Page 465, Offset 25454.
@@ -1011,7 +1016,7 @@ It's like it's fine no matter how much she drags me around, or how much trouble 
 [sha:259ab2cee5bec97f65689a412ee0cdcf6fb28023]{
 -- Page 465, Offset 25455.
 -- 俺はただ、こいつが落ちこむ姿だけは見たくはな―――
-I simply couldn't stand to see her so depressed―――
+I simply couldn't stand to see her so depress―――
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 466, Offset 25456.
@@ -1047,7 +1052,7 @@ Get a hold of yourself, Shiki. No matter how lovely she may be,
 -- Page 467, Offset 25462. Glued.
 -- こいつは吸血鬼なんだから―――
 // Leading space for glue
- she's still a vampire in the end―――
+ in the end, she's still a vampire.
 }
 [sha:559ce2c1e41fc135e651db1b852341b4c6645a1c]{
 -- Page 468, Offset 25463.
