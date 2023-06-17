@@ -61,6 +61,7 @@ Or what?
 [sha:92aa70af13131f5c76c77b3526f0357d113bf760]{
 -- Page 281, Offset 36106.
 -- でも止めておいた方がいいですよ。貴女の魔力量ではその魔眼は多用できない。もう一度使えば貴女は自壊します。
+// 魔眼 referred to indirectly
 That said, I wouldn't recommend it.
  You don't have the magical energy required to use them repeatedly.
  You'll end up self-destructing if you try to do so again.
@@ -165,6 +166,7 @@ Why don't you cool your head and take a look below you?
 -- Page 288, Offset 36124.
 -- それがイヤなら、おとなしくわたしの魔眼に」
 // The VA here sounds cut off? There's no ――― on the JP though
+// 魔眼 ignored deliberately for flow
 If you don't want him to die,
  then be a good little girl and look into my―――"
 }
@@ -443,7 +445,7 @@ she's saying that they now have no other option but to demonstrate their righteo
 [sha:c1107b2ac116728bd4ee5eabafb79ec70ca0cabd]{
 -- Page 307, Offset 36170.
 -- その気持ちは、最後まであの少女には伝わらなかった。
-But those feelings are never to reach that girl.
+Yet those feelings are never to reach the girl.
 }
 [sha:eea9303b733711697ed77f36102d170f16a0ccfa]{
 -- Page 308, Offset 36171.
@@ -479,6 +481,7 @@ And neither could she save the girl.
 [sha:8399483617801b27747b29bc435383264a1c6039]{
 -- Page 310, Offset 36176.
 -- もう殺し合う事しかできない、両者の激突が始まった。
+// After this line, the file is completely from third-person, and there is a big transition after it to indicate the shift.
 With no option left but to fight to the death,
  the two begin their battle in earnest.
 }
@@ -537,18 +540,19 @@ Before she even has time to react,
 [sha:4a4fd54e5601c454be4d2cf303af4bef8cee312e]{
 -- Page 314, Offset 36187.
 -- 銃剣を槍の壁で防いだものの、壁は粉砕され、大きく後方に弾き飛ばされた。
-Noel forms a wall of spears to try and protect herself from the oncoming point of Ciel's gun,
+Noel forms a wall of spears to try and protect herself from the oncoming pile bunker,
  but it completely bulldozes her defenses and sends her flying backwards.
 }
 [sha:1d89ff506c60d175688947441039046318b32a88]{
 -- Page 315, Offset 36188.
 -- こんな攻防を既に三回。
-Before I know it, this exchange has played out three times.
+// Implying the other two were off-screen in the transition after Offset 36176
+This exchange has already played out three times by now.
 }
 [sha:76bace86c183886c12e78f57f07da6b4bdba7566]{
 -- Page 315, Offset 36189.
 -- ノエルの<魔|や><力|り>は底が見え始めていた。
-Noel's well of magical energy is already beginning to run dry.
+Noel's well of magical energy is beginning to run dry.
 }
 [sha:47eb05e2b6a44a8c0b1ec66bbe83f8fa024f6449]{
 -- Page 315, Offset 36190.
@@ -573,12 +577,11 @@ Noel tries her best to keep moving despite the fact that she's about to burst in
 -- 分かっていた。これぐらいは分かっていた。なにしろ相手は人間以上の怪物ではない。怪物の中の怪物だ。先ほどの哀れな吸血鬼モドキとは違う。戦いになれば簡単には勝利できない。そんな事、初めから分かっていたのに―――！
 // Rhymes with Arc as a 怪物にとっての怪物 in 04_00_ARC04_4_1B
 // Assuming 吸血鬼モドキ is Shiki
-// Using 'that woman' / otherwise avoiding plain pronoun for Ciel just to try and lessen confusion
 She knew.
- She knew this would happen.
+ %{i}She knew%{/i} this would happen.
  After all, her opponent isn't an %{i}inhuman%{/i} monster.
  %{i}She's a monster even among other monsters%{/i}――a different beast entirely to the pathetic vampire wannabe she was fighting a moment ago.
- She knew from the start that if it came to a fight, there was no clear path toward victory, and yet―――!
+ She knew from the start that if it came to a fight, there was no clear path toward victory, and yet―――
 }
 [sha:edcab4e54d22ef9498110b7e2838aed9774fd3e7]{
 -- Page 317, Offset 36194.
@@ -598,7 +601,7 @@ Each attack chips away more and more of her defenses.
 [sha:3478bde3d61270c2d62349ac4c66d1e5c34169f1]{
 -- Page 317, Offset 36197.
 -- こんなの、あと数回も耐えられない。
-She can't withstand many more hits like this.
+She can't withstand many more of these hits.
 }
 [sha:f40f5ac40b8856fb03b4ef2bfe06957b9c2a0f6e]{
 -- Page 317, Offset 36198.
@@ -655,7 +658,7 @@ There's no opening for her to mount a counterattack,
 -- Page 319, Offset 36206.
 -- やっぱり神さまなんていないじゃない！
 // She ain't wrong
-I knew it――there really is no God!
+%{i}I knew it――there really is no God!%{/i}
 }
 [sha:2f89361fd931eb4bbf76f86cf98cb44398ef5ff7]{
 -- Page 319, Offset 36207.
@@ -671,7 +674,7 @@ I just... I just―――!"
 [sha:4f5abaa3b8527ae29aef311ca854046a7acd2a15]{
 -- Page 320, Offset 36209.
 -- 吸血鬼に堕ちた少女は血に染まった眼で叫ぶ。
-The girl who succumbed to vampirism screams, her eyes bloodshot.
+The once-human girl screams, her eyes bloodshot.
 }
 [sha:b5ece7f2fad0be15c32f9e4f447fe693eee2c9d5]{
 -- Page 320, Offset 36210.
@@ -689,7 +692,7 @@ She had sought revenge against Roa.
 [sha:f45eb03744c80b580a89c9ee6ebc25e901ad48ec]{
 -- Page 321, Offset 36212.
 -- 殺された街の人々への<弔|とむら>いだけなら少女は正しかった。
-If it had been to lay the souls of the townspeople to rest,
+And if that had been to lay the souls of the townspeople to rest,
  it would have been a just cause.
 }
 [sha:e535c831f80544a92c6f981ddedcdb7d71758484]{
@@ -750,7 +753,7 @@ They've exchanged blows like this time and time again over the five years they t
 [sha:efcd97da1404ee07144b61698b6c678eda50a4a5]{
 -- Page 324, Offset 36223.
 -- その記憶、その経験が、一時の拮抗状態を招き込む。
-Those memories――those experiences incite a temporary struggle for supremacy.
+Those memories――those experiences――incite a temporary struggle for supremacy.
 }
 [sha:9f3cfc6cef5464a9beebb811c0b3cfc3e4414e26]{
 -- Page 325, Offset 36224.
@@ -891,55 +894,76 @@ All she knows is a burning fury.
 [sha:922a0c0a28658bb4c3246a7feff9c22377526162]{
 -- Page 335, Offset 36248.
 -- なんでこんな事になったの？
+// Noel stream of consciousness, so using italics here
+%{i}
 Why did things turn out like this?
+%{/i}
 }
 [sha:749fc530eaaa85b12b87f217f11fee4709e5ae02]{
 -- Page 335, Offset 36249.
 -- 仲良くやっていたのに。憎くてもうまくやっていたのに。
+%{i}
 We were getting along nicely too. Even though I resented her, things were going really well.
+%{/i}
 }
 [sha:e298a527613525992a343b5fafe2011cde70cccb]{
 -- Page 335, Offset 36250.
 -- いつかこうなっていたかもしれないけど、それは今じゃなかったはず。わたしがもっとダメになってからのコトだと、なんとなく思っていたのに。
+%{i}
 I knew things might end up like this someday, but I didn't think it'd happen so soon.
  I always assumed it'd be after I was already too far gone.
+%{/i}
 }
 [sha:fe0ce6baa0419b56a2d08564b15fa55d7113de5a]{
 -- Page 335, Offset 36251.
 -- なのにどうして、今この時だったんだろう？
-So then, why did it have to happen %{i}now%{/i}?
+%{i}
+So then, why did it have to happen %{/i}now%{i}?
+%{/i}
 }
 [offset:36252]{
 -- Page 336, Offset 36252.
 -- ―――そうだ。
 // Ciel bawling CG flashback
+%{i}
 ―――Right.
+%{/i}
 }
 [sha:b86e972c430477ed3f83c2ed934e33e6429cdaa3]{
 -- Page 336, Offset 36253.
 -- 決まってる。
+%{i}
 It's obvious.
+%{/i}
 }
 [sha:1b76cb8592988048146cf3204b7e810d96bb85e8]{
 -- Page 336, Offset 36254.
 -- わたしはどうしても我慢できなかった。
+%{i}
 I just couldn't hold myself back.
+%{/i}
 }
 [sha:ecb2de1991f979488b16e05fe72c6a4af81aad17]{
 -- Page 336, Offset 36255.
 -- ほんとは別に赦さなくてもいいと思っていた。
+%{i}
 To be honest, I never really planned on forgiving her.
+%{/i}
 }
 [sha:f4787d8748819afcff45752fbfbec22df32850e6]{
 -- Page 336, Offset 36256.
 -- 彼女が彼女のままなら赦しはしないけど嫌いもしないと決めていた。
+%{i}
 But even so, I'd decided that so long as she stayed the way she was, I wouldn't hate her either.
+%{/i}
 }
 [sha:c941fba2ae7e176c8f7ab9320b5172bfb6e6f605]{
 -- Page 336, Offset 36257.
 -- だけど、
 // Assuming this is "but instead, she [went and ただの人間に戻っちゃった]"
+%{i}
 But instead, she―――
+%{/i}
 }
 [sha:17b0235ba0880713a5c35080cb77f6caa4434e35]{
 -- Page 337, Offset 36258.
@@ -968,7 +992,7 @@ Here, I'll give you one extra dose, on the house!
  this one's just a little gag of mine though,
  so I wouldn't recommend shooting up any more than you already have, okay?
  As things stand, you're %{i}thiiis%{/i} close to your breaking point.
- If you start gunning for the next Rank up, it really will melt your face off!"
+ If you start gunning for the next rank up, it really will melt your face off!"
 }
 [sha:4f232d570e3254cf0374ac7e423572cd0a0b2327]{
 -- Page 338, Offset 36262.

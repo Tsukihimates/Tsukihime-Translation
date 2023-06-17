@@ -64,7 +64,7 @@ I forgot I'm actually younger than you now ☆
 -- Page 5, Offset 35230.
 -- 志貴クンが憐れなのは若いからじゃなくて、そんな女に騙されるあたま―――」
 You aren't pathetic because you're young, are you, my little Shiki-kun?
- You're pathetic because you let that woman deceiv―――"
+ You're pathetic because you let %{i}her%{/i} deceiv―――"
 }
 [sha:c4f9860708e24cfffc260b97e858817db8cdcefc]{
 -- Page 6, Offset 35231.
@@ -925,6 +925,7 @@ Thanks to that, I was able to imprint you on my Mystic Eyes of Roses again.
 -- さっきはわたしの記憶だったけどぉ、今度は魔眼そのものに<精神|なかみ>をずきゅゅゅゅゅゅうん！
 // ずきゅうん seems to be like a kiss / heart eyes / swoon / gun noise kinda sound
 // Goddamn onomatopoeia
+// 魔眼 ignored here on purpose
 Back then, you were inside my memories,
  but this time, you've fallen head over heels straight into my eyes!
  %{i}Pyewww%{/i}!
