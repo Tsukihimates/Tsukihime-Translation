@@ -823,7 +823,7 @@ The armor and the gun aren't the only things the girl has been entrusted with.
 <Death by Immolation|B l a z e          >.
  <Death by Disease|S i c k            >.
  <Death by Hemorrhage|B l a d e          >.
- <Death by Concussion|B r e a k           >.
+ <Death by Impact|B r e a k           >.
  <Death by Insanity|L o s t        >.
  <Death by Torture|P a i n          >.
  <Death by Condemnation|P u n i s h               >.
@@ -886,7 +886,8 @@ In her hand, the girl holds a barbaric cleaver.
 // However, later on in D5 there's some 文字通り business on 蛇, so I've kept
 // serpentine for 蛇腹 but in this instance called it a whip sword to establish
 // the connection in EN.
-A serpentine whip sword, like a centipede composed of stacked guillotine blades.
+// The connection exists on that line specifically, so I'll remove it here for consistency with the other usages.
+A whip sword, like a centipede composed of stacked guillotine blades.
 }
 [sha:d100bfa55770c01c8df9ba58f1d22d0aee98144c]{
 -- Page 630, Offset 12517.
