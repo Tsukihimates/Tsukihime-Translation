@@ -59,7 +59,7 @@ With a smile full of anticipation and gratitude, she grabs my hand in return.
 [sha:1e7183f538d4124f633d2655d1c4e222f0fa6700]{
 -- Page 172, Offset 24690. Mods: @n.
 -- とはいえ。
-With that being said,
+With that being said...
 }
 [sha:f2f783a20529644510aabdfebde4b7b450b638af]{
 -- Page 172, Offset 24691.
@@ -79,7 +79,7 @@ We've almost reached our destination.
 [sha:6b3a8d43b0e943eae4c3400fe2620f910c660d97]{
 -- Page 173, Offset 24694.
 -- あとは大通りから離れて、人気のない路地裏に出るだけなんだけど―――
-All that's left now is to slip away from the main drag and into the empty back alleys―――
+All that's left now is to slip away from the main drag and into the empty back alleys.
 }
 [sha:80c7ce281ac568ddee54dd4e16841228a851aea2]{
 -- Page 174, Offset 24695.
@@ -303,7 +303,7 @@ Something that would have turned my head to mincemeat just slammed into the wall
 [sha:bd7683448f2623eac55f7bdb9562c466b2e0995d]{
 -- Page 189, Offset 24736.
 -- 「ごめんなさい、よく聞こえなかったー☆
-"I'm sorry, I didn't quite catch that~☆
+"I'm sorry, I didn't quite catch that ☆
 }
 [sha:a4726c423b7d18bbf1854f549a64e9dcb3c06bd3]{
 -- Page 189, Offset 24737.
@@ -316,10 +316,10 @@ Did you say something stupid just now?"
 // His line is so short that a shorter TL sounds better with it
 "Nope, nothing."
 }
-[sha:bb0a966154c99d772355d1b239701d2f41bc4944]{
+[offset:24739]{
 -- Page 190, Offset 24739.
 -- 「―――それで？
-"―――And so?
+"So?
 }
 [sha:e574529522ea90d10c07ded42f27abfbdad0f98c]{
 -- Page 190, Offset 24740.
@@ -369,12 +369,12 @@ If I'd known that this is how things would play out,
 [sha:455f273cc3e7cc29833f14ce23149bed8478e126]{
 -- Page 10010, Offset 24748.
 -- なので、正直に白状した。
-And so, I confessed my true intentions.
+And so, I confess my true intentions.
 }
 [sha:acedcf4193d9582beb1985867ad9682dbdfb29d9]{
 -- Page 193, Offset 24749.
 -- 「―――もう。
-"―――Geez.
+"Geez.
 }
 [sha:982658ba4277d47db48e41616605f03a499647c3]{
 -- Page 193, Offset 24750.
@@ -420,12 +420,12 @@ I waste no time in doing as she says.
 [sha:f0dba59cd6957196bbf2c87ea127cbb272b280e2]{
 -- Page 195, Offset 24758.
 -- ドレスに着替える事が恥ずかしいのか、
-I wonder if her embarrassment stems from simply wearing the dress,
+Is she just embarrassed about wearing that dress?
 }
 [sha:dfbff297a73e5f7ee398bb20628089da11319baa]{
 -- Page 195, Offset 24759.
 -- ヴローヴに負けた服に着替えるのが恥ずかしいのか。
-or from the fact that she lost to Vlov while wearing it.
+Or is it more the fact that she lost to Vlov while wearing it?
 }
 [sha:6fd7c14f5959b9a5188d49848d250c2ce56e43ed]{
 -- Page 195, Offset 24760.
@@ -468,7 +468,7 @@ It's not often in my life that I'll get to see such a pretty dress in person, so
 [sha:97412243d0bde5e915a40cea2147e6e58c9cc4b1]{
 -- Page 198, Offset 24767. Glued. Mods: @x.
 -- ああーー！？」
-%{i}Aaaah%{/i}?!"
+%{i}ughhahaaaaa%{/i}?!"
 }
 [sha:b5a420ced99ae3c4218e54a55302bda4f08287b0]{
 -- Page 199, Offset 24768.
@@ -582,7 +582,7 @@ Except――this time, there's no bouncing off the walls.
 -- ビルの側面を使わず、一息でビルより高い位置まで跳びやがった、コイツーーーーっ！
 // ビルの側面 lifted to prev sentence
 This madwoman just leaps vertically up into the air,
- taking us higher than any of the surrounding buildings―――!
+ taking us higher than any of the surrounding buildings!
 }
 [sha:9db8fd912f0bca4244adaaa5c104b5a2645691c7]{
 -- Page 208, Offset 24789.
@@ -759,7 +759,7 @@ Acting on something other than reason,
 [sha:03f587b8f4427926d5879987ddf450356cee6db1]{
 -- Page 217, Offset 24821.
 -- 突然、見知らぬ第三者に声をかけられた。
-Suddenly, I am greeted by an unfamiliar third party.
+A stranger suddenly addresses me out of nowhere.
 }
 [sha:611f2259429ec377cea2b67c6c7407683887c71f]{
 -- Page 219, Offset 24822.
@@ -774,7 +774,7 @@ Suddenly, I am greeted by an unfamiliar third party.
 [sha:c1e543b0eac32ffe473dc8368704ed7f9d6c9413]{
 -- Page 219, Offset 24824.
 -- 先輩、やっぱり頭悪いんですね」
-Senpai, you really are as dim-witted as you look."
+Senpai, you really are as brain-dead as you appear."
 }
 [sha:65448d0931938fea7c719e6ce600b3ac5edd2762]{
 -- Page 219, Offset 24825.
@@ -789,7 +789,9 @@ Senpai, you really are as dim-witted as you look."
 [sha:eb1574fa770969670ad54d4c8813ba8c5e09b35c]{
 -- Page 220, Offset 24827.
 -- やっぱり目が悪いんですね。よく見てください」
-You must have really bad eyesight. Please take a closer look at your surroundings."
+// 目が悪い should probably at least resemble 頭悪い
+You really are as blind as you appear.
+ Please take a closer look at your surroundings."
 }
 [sha:8f5dbb40f44b658499e779e07d58fef0cf850150]{
 -- Page 221, Offset 24828.
@@ -816,7 +818,7 @@ Was she inside that tent?
 [sha:2c15858f84669f7fb794d049dc1a146ea357a335]{
 -- Page 222, Offset 24832.
 -- 全身いたるところ鈍ってるんじゃないですか。
-Are your senses starting to fade?
+Are your senses really that dull?
 }
 [sha:c4340a14c914a714c066248119096cb4f56a8a57]{
 -- Page 222, Offset 24833.
@@ -841,7 +843,7 @@ No, that's not what's important right now.
 [sha:16a62993fa11c23f0c16cb89bc2bd6179362f622]{
 -- Page 224, Offset 24837.
 -- そもそも君、俺のコト知ってるのか？」
-Actually, do I know you?"
+Actually, hold on, do I know you?"
 }
 [sha:544b9866c9d51d76fb339cb26a2cecbdff77ab9e]{
 -- Page 224, Offset 24838.

@@ -82,7 +82,7 @@ A shutter has been lowered over the entrance.
 -- 「ええ。このシャッター、人避けと消臭の結界がかかってる。
 // Willing to bet this is a [people people warding] and [deodorizing] shutter that hides the scent of the dead from vamps,
 // not a shutter that wards people off by smelling nice.
-"Yeah. A Barrier has been erected over this shutter that both wards off people and masks the scent of the Dead inside.
+"Yeah. A barrier has been erected over this shutter that both wards off people and masks the scent of the Dead inside.
 }
 [sha:6a8a95fd86a5e5abec3bb2b9be284f07ef7ea592]{
 -- Page 358, Offset 20562.
@@ -333,7 +333,7 @@ She hasn't taken any hits at all.
 [sha:250bd20fe99e52883ac0b46d7d9db0b9236e0865]{
 -- Page 376, Offset 20608.
 -- そもそも死者たちを近づけてもいない。
-She hasn't even let the Corpses get close enough for that.
+She hasn't even let the Dead get close enough for that.
 }
 [offset:20609]{
 -- Page 376, Offset 20609.
@@ -343,7 +343,7 @@ And yet―――
 [sha:01a57eacfbebdf43c3236e9b9a92174dae1ab6a9]{
 -- Page 376, Offset 20610.
 -- 一つ、また一つと死者を引き裂く度に、その顔が苦痛に歪んでいるようだった。
-Each and every time she tears apart a Corpse, her face seems to contort in agony.
+Each and every time she tears apart one of the Dead, her face seems to contort in agony.
 }
 [sha:87379954a472fc2120a63e42351971bbb6d13d39]{
 -- Page 377, Offset 20611.
@@ -353,7 +353,7 @@ She's a sweeping wave of devastation.
 [sha:c75a05351ce04f8876dd599281d4d8220ba48fbc]{
 -- Page 377, Offset 20612.
 -- 気がつけば、残った死者はあと一つ。
-Before I know it, there is only one Corpse remaining.
+Before I know it, there is only one of the Dead remaining.
 }
 [sha:cc382e40ab6f431b2d5879a4c06ff4b7901cecaf]{
 -- Page 377, Offset 20613.
@@ -773,7 +773,7 @@ Don't fuck with me.%{n}
 It's mine. My responsibility. My duty.
  It's because of me... It's because I killed her that she's fallen to the floor,
  yet even though I killed her for no other reason than my own pleasure,
- that woman forgave me, she forgave my failures as a human.
+ she forgave me. She forgave my failures as a human.
  I'll―――
 }
 [sha:b549b231bf8855f2d2f548f9c3a39ba4423d432c]{
@@ -1076,7 +1076,7 @@ She was just holding her stomach to try and contain her laughter.
 [sha:a19bd6fba3fb9339bb16974ac9ab483d9123ed14]{
 -- Page 414, Offset 20740.
 -- というかそうだよな、心配した俺が馬鹿だった！　頑丈なおまえが、あれぐらいで痛がるはずないもんな！」
-Ugh, I was a fool for worrying about you! There's no way someone as strong as you would be in that much pain!"
+%{i}Ugh%{/i}, I was a fool for worrying about you! There's no way someone as strong as you would be in that much pain!"
 }
 [sha:fc3dc8e89cfe08273a185ecb532476663419b444]{
 -- Page 415, Offset 20741.
