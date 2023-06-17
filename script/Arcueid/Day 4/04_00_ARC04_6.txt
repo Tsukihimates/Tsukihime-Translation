@@ -21,7 +21,8 @@ Arcueid happily looks around the hotel room.
 [sha:3219aaf7b95bb48357fb7244fedefe703b55a234]{
 -- Page 365, Offset 6577.
 -- こっちはあまりの展開に言葉がない。
-I'm left speechless by this turn of events.
+// Jumps to flashback after this, so more like the whole chain of events than just seeing the hotel room
+I'm still speechless after everything that's just happened.
 }
 [sha:ad40fbf195c003d9821134c8d14f29566acd9596]{
 -- Page 366, Offset 6578.
@@ -80,7 +81,7 @@ What's the phrase people use for this again?
 [sha:a5238b3124203be49f0f3301fadad0488195b7ec]{
 -- Page 368, Offset 6587.
 -- ま、どっちでもいっか！　ほら、見て見て志貴、さっきまでいた路地裏があんなにちっちゃくなってる！」
-Well, it doesn't really matter! Ooh, ooh, over there, Shiki! The alleyway we were just in is so tiny now!"
+Well, it doesn't really matter! Ooh, ooh, look over there, Shiki! The alleyway we were just in is so tiny now!"
 }
 [sha:e475d6c2e3c957438197e961490d17ca8ffb6245]{
 -- Page 369, Offset 6588.
@@ -120,7 +121,7 @@ I'm struck once again by how the pedigreed people that use hotel rooms like this
 [sha:986be607843deff178834b27f5bd172f3e0bc930]{
 -- Page 372, Offset 6594. Mods: @k, @e.
 -- 「今夜はここに隠れましょう。あ、宿泊費のことは気にしなくていいよ。
-"Let's hide out here tonight. Oh, and don't worry about the hotel fee.
+"Let's hide out here tonight. Oh, and don't worry about the bill.
 }
 [sha:b2895741955ebf5692a008f15984d0e30ddc0bb9]{
 -- Page 372, Offset 6595. Glued. Mods: @x.
@@ -135,7 +136,7 @@ Speaking cheerfully, Arcueid pulls away from the window.
 [sha:dcb2aa40015c75f1e835bccad8666f9bde147373]{
 -- Page 373, Offset 6597.
 -- 見晴らしのいい場所と言っておいて、都市の俯瞰図はもう飽きたらしい。
-She said it was a great lookout spot, but it appears she is already tired of the bird's-eye view of the city.
+She said it was a great lookout spot, but it appears she's already tired of the bird's-eye view of the city.
 }
 [sha:2d3ff54c4a2d420b2ca80bbee8eceb685d0f335c]{
 -- Page 374, Offset 6598.
@@ -180,7 +181,8 @@ I don't have to say anything superfluous.
 [sha:8f078f6950f2c9532963864622cb6a725ab29937]{
 -- Page 377, Offset 6606.
 -- 「いや、いい。好きにしてくれ」
-"No, it's fine. Do what you want."
+"You know what, forget it.
+ Do what you want."
 }
 [sha:493441c035560e887eb9e006f916cbe002bcf8bf]{
 -- Page 377, Offset 6607.
@@ -328,7 +330,7 @@ At the end of the day, what are you really trying to accomplish?"
 [sha:2d9cf9174b3254488730aa26d572440469d95bc4]{
 -- Page 387, Offset 6634.
 -- 「わたし？　わたしは吸血鬼を追ってるだけよ。
-"Me? I'm just chasing after that vampire.
+"Me? I'm just chasing after a vampire.
 }
 [sha:d9fea337c853b75f1b597c1fcd36e7c2fe97bf9d]{
 -- Page 387, Offset 6635.
@@ -348,7 +350,7 @@ But you're a vampire too, aren't you?"
 [sha:6118de8713236be89698735d6fef3fea910595f1]{
 -- Page 388, Offset 6638.
 -- 「なに、志貴ったらまだわたしのこと信じてないの？」
-"What, are you saying that you still don't believe me Shiki?"
+"What, are you saying that you still don't believe me, Shiki?"
 }
 [sha:28f0cd3a9992c4683b5bdf56eee7257c5016a433]{
 -- Page 389, Offset 6639.
@@ -420,7 +422,7 @@ We don't have the same sense of fellowship that humans do."
 [sha:a579aa54775e0c3892f2eea4c1d812d6bc2eb729]{
 -- Page 393, Offset 6652.
 -- わたしが追いかけているのは<人|・><間|・>の吸血鬼だから、あなたたちが抱く<幻想|イメージ>とほぼ一緒よ。
-The vampire I'm chasing is a %{i}Dead Apostle%{/i},
+The vampire I'm chasing is a Dead Apostle,
  so they're more in line with the image you have of what a vampire is.
 }
 [sha:20408284a9077eff72a5991d2ec089b639d1daca]{
@@ -492,7 +494,7 @@ So you're telling me that the reason you told me to become your shield was so yo
 -- Page 398, Offset 6665.
 -- あなたなんて嫌がっても盾にしてやる、逃げても<魔眼|くさり>で縛り付けてさんざん怖がらせて使い切ってやるって。
 I was planning on using you as a shield whether you liked it or not.
- If you'd tried to run away, I would have bound you with my %{i}Mystic Eyes%{/i} and run you into the ground through the power of overwhelming fear.
+ If you'd tried to run away, I would have bound you with my Mystic Eyes and run you into the ground through the power of overwhelming fear.
 }
 [sha:a0589156f2e0973b21007b3165bccceaaf91a458]{
 -- Page 398, Offset 6666.
@@ -502,7 +504,7 @@ But as I was talking to you, I started to change my mind."
 [sha:36181556a69b04b221aeb1ae666da45dbf4572ad]{
 -- Page 399, Offset 6667.
 -- ……はじめから力ずく前提だったワケか。
-So she was planning to use force from the beginning...
+So she %{i}had%{/i} been planning on resorting to force...
 }
 [sha:37203b3f98073a41e4dc01e027f12eb26a6ce992]{
 -- Page 399, Offset 6668.
@@ -523,7 +525,7 @@ Okay, I'll have to make sure to remember that.
 -- Page 400, Offset 6671.
 -- わたしね、志貴。あなたに殺されて復元するまでのあいだ、あなたは教会の人間だと思っていたの。
 You know what, Shiki?
- I spent the entire time between when you killed me and when I revived under the impression that you were a member of the %{i}Church%{/i}.
+ I spent the entire time between when you killed me and when I revived under the impression that you were a member of the Church.
 }
 [sha:ac1bda3e23e0fb30c4c98fae76d128cf080512c2]{
 -- Page 400, Offset 6672.
@@ -541,7 +543,7 @@ If you %{i}had%{/i} been,
 [sha:0d68077f4b4e2502ce839a61c345c8e0924007c6]{
 -- Page 402, Offset 6674.
 -- 「……ええ、そもそもあの連中がこんな無神論者の国に代行者を派遣するわけがないし、そもそも<単独|ひとり>じゃ動かないものね。師匠と弟子の<二人組|ツーマンセル>があいつらの基本だったわ……」
-"Yeah... there's no way they'd send an %{i}Executor%{/i} to an atheist country like this in the first place.
+"Yeah... there's no way they'd send an Executor to an atheist country like this in the first place.
  Not to mention that they wouldn't be operating alone.
  Their policy is to always move in master-disciple pairs after all..."
 }
@@ -594,7 +596,7 @@ Seems like she really is planning on killing me the moment I let my guard down�
 [offset:6684]{
 -- Page 406, Offset 6684. Mods: @k, @e.
 -- 「は？」
-"Wha?"
+"%{i}Wha%{/i}?"
 }
 [sha:8503b43769270c47dbdab92119841e1b87db45a4]{
 -- Page 406, Offset 6685. Mods: @n.
@@ -614,7 +616,8 @@ And then,
 [sha:620ef58e002785e27a48128a13223cbacaddc5cb]{
 -- Page 407, Offset 6688.
 -- 「気持ちもいいし、日が沈むまで眠るね。
-"This feels pretty good, so I'll sleep until the sun goes down.
+"This thing's pretty comfy.
+ I'm going to sleep until the sun goes down.
 }
 [sha:696e8d045b926e6e58d300e1b5d4e5117b168a1b]{
 -- Page 407, Offset 6689.
@@ -695,7 +698,7 @@ Even though I don't have the same urges I had back then―――
 [sha:b22dbec322248f652d2d7fbbc51cc5fda5c6f4a0]{
 -- Page 412, Offset 6704.
 -- なのに、どうして眠ってしまえるのか、この女は。
-How is this woman still able to fall asleep so carelessly?
+How is this woman still able to fall asleep so casually?
 }
 [sha:8eaa978afc424a226a1e857f05b10c5b2c0e8cc7]{
 -- Page 413, Offset 6705.
@@ -765,7 +768,9 @@ A woman like that is fast asleep and defenseless in this royal suite.
 [sha:ef1394745bae40fe83bc03135ab3ac7f9638c095]{
 -- Page 416, Offset 6718.
 -- まだ知り合って間もない俺を、自分を無残に殺した人間を、心の底から信用しきって。
-I've only known her for a short time, and yet she trusts me, the person who brutally killed her, from the bottom of her heart.
+I've only known her for a short time, and yet she trusts me――
+the person who brutally killed her――
+from the bottom of her heart.
 }
 [sha:30658237ab2419bcd761f2b0d5eea01eb6884056]{
 -- Page 417, Offset 6719.
@@ -790,20 +795,20 @@ This may be the final crossroads where Tohno Shiki has a chance to turn back.
 [sha:bc64ad1f10a116484c3aeedf818719daa082d3a0]{
 -- Page 419, Offset 6723.
 -- 盾になってもらう、とこの女は言った。
-She said 'I'll have you be my shield'.
+She said she'll make me be her shield.
 }
 [sha:3ce24c0438c5cd0704fc9f22d7a7981cbe476f80]{
 -- Page 419, Offset 6724. Mods: @k, @e.
 -- でも、俺は……
-But I...
+But I―――
 }
 [sha:6558beb01c77c65d5677545f8ec0947ca31f3209]{
 -- Page 420, Offset 42606. Choice.
 -- ……酔狂はここまでだ。逃げよう。
- ...Have had enough of this madness. I'll run away.
+ I've had enough of all this... I'll run away.
 }
 [sha:9e997951a7440ffaea67a408ded056c0a376893b]{
 -- Page 420, Offset 42607. Choice.
 -- ……迷うのはここまでだ。残ろう。
- ...Won't lose my way again. I'll stay.
+ I won't lose my way again. I'll stay.
 }

@@ -11,8 +11,8 @@ Without switching to a more guarded stance, I'll take her on.
 [sha:d4b40f4ec9fcba1cc6c284a78af5004886721a51]{
 -- Page 582, Offset 21243.
 -- なにしろ得物のリーチが違う。
-After all, falling back wouldn't exactly help me out here――
-The reach on that weapon of hers is in a class of its own.
+After all, falling back wouldn't exactly help me out here.
+ The reach on that weapon of hers is in a class of its own.
 }
 [sha:0e6adf1325b2293af54696726efbc86777497d56]{
 -- Page 582, Offset 21244.
@@ -33,7 +33,7 @@ Oh I see, you're so afraid that you're frozen solid ♥
 [sha:60f28a7e01b746fb32af034f54cecfbd12c2d17b]{
 -- Page 583, Offset 21247.
 -- うんうん、やっぱり文系の美少年はそうでなくっちゃ！
-Mmmhmm, that's just the right way for a young man in the %{i}liberal arts%{/i} to behave!
+Mmmmm, that's %{i}just%{/i} how a pretty boy like you ought to behave!
 }
 [sha:c556a720467b8d0691a188dc04f54c588d9f998a]{
 -- Page 583, Offset 21248.
@@ -48,8 +48,7 @@ Two steps. Three steps. Four steps.
 [sha:aa8203aa52b28e5cc413594710592998df9f8c3e]{
 -- Page 584, Offset 21250. Glued.
 -- ―――あと一歩。
-// lint-off:LintEmDashes
-%{n}―――One more step to go.
+%{n}One more step to go.
 }
 [sha:89023b2780379fb6eb7af5cfb78474bab5bf7529]{
 -- Page 584, Offset 21251.
@@ -65,17 +64,18 @@ I can't afford to mess up here.
 [sha:67334387703eba18cddb564a910f0bfb86eea3fc]{
 -- Page 584, Offset 21253.
 -- 女には余裕があり、
-She, on the other hand, is relaxed enough to speak―――
+She, on the other hand, is relaxed enough to speak.
 }
 [sha:e05b038c46198e0d59ddf6cb56e21b848f7740b2]{
 -- Page 585, Offset 21254.
 -- 「やっぱり―――無抵抗な人間しか、相手にしてこなかったのかしら、ねっ！」
 "As I thought――you must have only gone after people that didn't resist so far, huh?!"
 }
-[sha:82569ce7130b2317adc0fe17c311418237f176aa]{
+[offset:21255]{
 -- Page 585, Offset 21255.
 -- このように。
-Just like that.
+// Worthless sentence
+Here she comes.
 }
 [sha:74861c7f64254fda0014bfb1a99af3ffdf0be4d4]{
 -- Page 585, Offset 21256.
@@ -90,7 +90,7 @@ The mass of iron just barely clears the top of my head.
 [sha:a88579cb636b097ef4281b11163b74a7ada393ae]{
 -- Page 586, Offset 21258.
 -- 「ふぇ、転んじゃったの―――！？」
-"Huh? You fell down―――?!"
+"Huh? Did you trip?!"
 }
 [sha:515b1782f0ee27a05bbecec0903095e2cc41fb07]{
 -- Page 586, Offset 21259.
@@ -138,7 +138,7 @@ I idly start to wonder if I should first consider just whose enemy this woman re
 [sha:d33219a55eca42ee3a871dda0ee85b61cd0579a4]{
 -- Page 591, Offset 21267.
 -- 「こ、のぉ……舐めんな！」
-"You little... don't underestimate me!"
+"You runt... don't fuck with me!"
 }
 [sha:582cfab68427cd909fb6be2294a0d7a4067bfbad]{
 -- Page 591, Offset 21268.
@@ -155,12 +155,12 @@ In Judo, you'd call it an %{i}osotogari%{/i}.
 [sha:f45010dafad60038814474e1fa1056fafeadd55d]{
 -- Page 592, Offset 21270.
 -- 「ぐ、ぁ……！」
-"%{i}Kh, ah%{/i}...!"
+"%{i}Kh, augh%{/i}!"
 }
 [sha:2f801b5a4569c353ef2c5ca88bd95dffa5a91de6]{
 -- Page 592, Offset 21271.
 -- 背中から地面に叩きつけられる。
-I slam into the ground, back first.
+I slam into the ground, back-first.
 }
 [sha:7e1fcbf79cf05dc9d1037c513f235e9195793fb3]{
 -- Page 592, Offset 21272.
@@ -253,7 +253,7 @@ What, a brat like you is trying to ask %{i}me%{/i} a leading question?
 [sha:71aa51cb48a4efa189822b5fbe8ec3fea89d1ade]{
 -- Page 599, Offset 21288.
 -- 「った……！」
-"%{i}Ow%{/i}...!"
+"%{i}Ow%{/i}!"
 }
 [sha:d73750c86bdd70962ab5b98aa675a48332bfb7cc]{
 -- Page 599, Offset 21289.

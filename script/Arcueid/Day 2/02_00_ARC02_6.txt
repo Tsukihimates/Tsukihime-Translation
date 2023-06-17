@@ -17,7 +17,8 @@
 [sha:2277b0f6dd1b73709cc7e7b028eee2ca5f39d5c6]{
 -- Page 336, Offset 3493.
 -- ―――動物の遠吠え。野犬にしては細く高い。
-―――It's the howl of an animal. A high pitched whine, like that of a wild dog.
+―――It's the howl of an animal.
+ Too high-pitched to be a wild dog.
 }
 [sha:1d338b15d8bf2bae62b6429af5a00b705407eb56]{
 -- Page 337, Offset 3494.
@@ -37,7 +38,8 @@
 [sha:4731972270529f0a2598e03de69309dbc3d0e57c]{
 -- Page 338, Offset 3497.
 -- ―――厭なにおい。この獣の咆哮は、頭痛を招く。
-―――An unpleasant sensation. The roar of this beast is giving me a headache.
+―――It's an unpleasant sensation.
+ The howl is headache-inducing.
 }
 [sha:1d338b15d8bf2bae62b6429af5a00b705407eb56]{
 -- Page 339, Offset 3498.
@@ -52,12 +54,13 @@
 [sha:e427a432db1b00df5a74678362c12a281b8175ce]{
 -- Page 339, Offset 3500.
 -- 頭蓋に撃ち込まれた弾丸のように、
-Like a bullet fired into my skull―――
+// Swapped with next for flow
+The echoes ricochet around my skull―――
 }
 [sha:bc99ca2e5e2fabb6ff4d8c31b8ad10015832439b]{
 -- Page 339, Offset 3501.
 -- カラカラと反響する。
-The echoes ricochet around inside.
+Like bullets fired directly into my brain.
 }
 [sha:1d338b15d8bf2bae62b6429af5a00b705407eb56]{
 -- Page 340, Offset 3502.
@@ -77,7 +80,7 @@ The echoes ricochet around inside.
 [sha:21ecc8799e7744ea65ed81ac33d90c2c8d9ac6b9]{
 -- Page 341, Offset 3505.
 -- 「……ああもう、やかましいっ！」
-"Ah, enough, just shut up already!"
+"%{i}Argh%{/i}, enough! Just shut up already!"
 }
 [sha:eb4c0f58a45429a8056e907b95896731bd078dfa]{
 -- Page 341, Offset 3506.
@@ -97,7 +100,7 @@ The clock has just struck eleven.
 [sha:13078d96ec0146ba990359a87096aa245d6f57b2]{
 -- Page 342, Offset 3509.
 -- 安眠妨害どころの話じゃない。
-It's more than just disturbing my sleep.
+To say it's disturbing my sleep would be putting it mildly.
 }
 [sha:3f60c72c2e68e719178301b6b62650af8a493ee4]{
 -- Page 343, Offset 3510.
@@ -122,7 +125,8 @@ If this keeps up, I'm not gonna get any sleep.
 [sha:47891210ab324154b0b8786d73080d23c76f9a10]{
 -- Page 344, Offset 3514.
 -- 犬がうるさいなんて、警察に電話しても取り合ってもらえないだろうし」
-Even if I called the police and told them some dog was being too noisy, I doubt they'd come."
+The police probably wouldn't even give me the time of day
+ if I called just to complain that a dog was being noisy."
 }
 [sha:d1394f0707e2942a97a5b25bd0ffe62c30ad62f9]{
 -- Page 345, Offset 3515.
@@ -132,7 +136,7 @@ I get out of bed and change back into my school uniform.
 [sha:04c457530c76ecd1244957dda237ce0308b930fa]{
 -- Page 345, Offset 3516.
 -- これでは秋葉たちも眠れずに悩んでいる筈だ。
-I'm sure that Akiha and the others are having trouble sleeping as well.
+Surely everyone else is having trouble sleeping too.
 }
 [sha:68ffb7efb9c43ed55f03eacc058b960b3a9c6145]{
 -- Page 345, Offset 3517.
@@ -147,7 +151,8 @@ I leave the mansion.
 [sha:3d87a0b621594412fe0b254694d8f4ed338b8531]{
 -- Page 346, Offset 3519.
 -- 夜は凍りついたように、何もかもが止まっていた。
-Nothing moves, as though the night has frozen over.
+Everything outside is still,
+ almost as if the night had frozen over.
 }
 [sha:5a4c9491139f10990fce1d010d19133391f65e2c]{
 -- Page 347, Offset 3520.
@@ -189,7 +194,7 @@ Maybe it's just starting to die down?
 [sha:fe077da92fe19410f7281dd64c5f8b6f262c1bec]{
 -- Page 349, Offset 3527.
 -- どちらでもいい。
-Either way, it doesn't matter much.
+Whatever the case, I don't care.
 }
 [sha:ae5ba6541e08212d6578e07a574bd4ebda8f45a7]{
 -- Page 349, Offset 3528.
@@ -199,12 +204,12 @@ The noise is more painful to my mind and eyes than to my ears.
 [sha:f069bc889f76612deb22d1e836d03700067b8267]{
 -- Page 349, Offset 3529.
 -- 聞いているだけで心臓がどくどくと活性化するような、生理的な嫌悪感。
-Just listening to it makes my heart pound so fast that I start to feel sick.
+Just listening to it is enough to put my heart into overdrive from a sense of visceral repulsion.
 }
 [sha:e6ea1cfcd14c246590b9ba114331956e808be4e8]{
 -- Page 350, Offset 3530.
 -- 「うる―――さい」
-"Shut up."
+"Shut. Up."
 }
 [sha:c1c3943c5fce5c71ba2334a990851fbbbe0eb610]{
 -- Page 350, Offset 3531.
@@ -235,12 +240,12 @@ The area around the mansion has fallen even quieter.
 [sha:2a3ade199ec292b0f76e10e4d3bb7a0dc0fea62a]{
 -- Page 351, Offset 3536.
 -- 何もかも途絶えているような錯覚。
-It feels as if everything has ceased to exist.
+It feels as if everything has come to a standstill.
 }
 [sha:9ec22aa4db21c9e1d4956a90c27be78a8033be76]{
 -- Page 351, Offset 3537.
 -- 停止した世界に、自分の影法師だけが<活|の><動|び>ている。
-In this frozen world, my shadow is the only thing that moves.
+My silhouette is the only thing that moves in this frozen world.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 352, Offset 3538.
@@ -250,7 +255,7 @@ In this frozen world, my shadow is the only thing that moves.
 [sha:f7ca55f8911fdfcfa93c4dc0eec4c75c631ea36b]{
 -- Page 352, Offset 3539.
 -- なぜか喉が渇いている。
-I don't know why I'm so thirsty.
+I feel thirsty for some reason.
 }
 [sha:790edd1b9bb868e1a44819561cd38b0446d886cb]{
 -- Page 352, Offset 3540.
@@ -260,7 +265,8 @@ The meandering road next to the tall walls around the mansion stretches on endle
 [sha:f96286ebee9f5dc298933cfa8b537a499cba88a8]{
 -- Page 352, Offset 3541.
 -- かじかむ指を吐息で温めながら、犬たちが集まっているであろう方向に歩を進める。
-Warming my numb fingers with my breath, I walk in the direction of where the dogs are probably gathered.
+Warming my numb fingers with my breath,
+ I walk in the direction of where I assume the dogs are gathered.
 }
 [offset:3542]{
 -- Page 353, Offset 3542.
@@ -275,24 +281,24 @@ My thoughts come to a halt.
 [sha:5bdde38eb57e5c6f0b9adc95f27424493e96cec0]{
 -- Page 353, Offset 3544.
 -- 遠く離れた電灯の下に、何か、
-In the distance, under a streetlight, I see something.
+There's... %{i}something%{/i} under the street light in the distance.
 }
 [sha:ffdce484e29961b17a3b300326ae6021aacacc8f]{
 -- Page 353, Offset 3545.
 -- 今まで見たことのない（正常であれば見ることのない）、
 // This is basically the only place in the game that parens show up, not sure it's worth the confusion
-It's like nothing I've ever seen before.
- Something that by all rights I %{i}should never%{/i} see.
+Something that I have never seen before.
+ Something that, ordinarily, I %{i}should%{/i} never see.
 }
 [sha:a725a5a2b65beb81872bb44df0f7dc98c9776ad2]{
 -- Page 353, Offset 3546.
 -- 不可思議な光景が―――
-An impossible sight―――
+Something inexplicable―――
 }
 [sha:9eb616138b14cb4f2d26b07bd46826deaebeddc1]{
 -- Page 354, Offset 3547.
 -- 溶けかけた犬。
-                                    A melting dog.
+%{align_right}A dissolving dog.
 }
 [sha:ac1d8315638e1417cc8fe9789cd09662edcd9683]{
 -- Page 354, Offset 3548.
@@ -302,7 +308,7 @@ What is that?!
 [sha:931b3176dd69a2158e146477f4c415d66ef35543]{
 -- Page 354, Offset 3549.
 -- 向けられた長い刃物。
-                       A long blade pointed at it.
+%{align_right}A drawn blade.
 }
 [sha:ac1d8315638e1417cc8fe9789cd09662edcd9683]{
 -- Page 354, Offset 3550.
@@ -312,7 +318,7 @@ What is that?!
 [sha:cae4b993dfd4c021725f66aa0712de75c9bb229f]{
 -- Page 354, Offset 3551.
 -- 溶けかけた遠吠え。
-                                    A melted howl.
+%{align_right}A dissolving howl.
 }
 [sha:ac1d8315638e1417cc8fe9789cd09662edcd9683]{
 -- Page 354, Offset 3552.
@@ -322,7 +328,7 @@ What is that?!
 [sha:60dcf6ae55ec2b1364e3aa3bf0d61bfc86581a8d]{
 -- Page 354, Offset 3553.
 -- 突き刺さる長い刃物。
-                        A long blade that pierces.
+%{align_right}A piercing blade.
 }
 [sha:6a49254d551378f1e4812ee76b8fad7af37e0040]{
 -- Page 354, Offset 3554.
@@ -332,33 +338,35 @@ What is that?!
 [sha:7eb6226a24f43afece0131261a559608197eaa1f]{
 -- Page 355, Offset 3555.
 -- 気が違ったかのような絶叫。
-It screams as if it had gone mad.
+It's the scream of a madman.
 }
 [sha:4c69cde0ced7dcf439771c4007f46bd4c0679e3f]{
 -- Page 355, Offset 3556.
 -- あるいは強風。
-A gale force scream.
+Or maybe that of a typhoon.
 }
 [sha:8ee4b108e83ecd5fb73d09df40337ae80cade66a]{
 -- Page 355, Offset 3557.
 -- 鼓膜を引き裂く波が走り抜けた後、もう、犬の鳴き声も、犬の姿もなくなっていた。
-After the sound that tore at my eardrums had passed, there were no more howls.
- Not even a single trace of the dog remains.
+After the ear-splitting sound waves have passed,
+ the howling is gone,
+ as is the dog itself.
 }
 [sha:0396de7c924292c4eba01487cc8adc61170eff7d]{
 -- Page 355, Offset 3558.
 -- 初めから存在しなかったように。
-As if it had never existed in the first place.
+It's like it never existed in the first place.
 }
 [sha:a99c9a823480dd0235a9c0ad79e1910de2511e0d]{
 -- Page 355, Offset 3559.
 -- 跡形もなく、溶けて消えた。
-It faded away without a trace.
+It dissolved away,
+ without leaving so much as a trace.
 }
 [sha:0da973f843903ed3b30a2500654381ff8ce4acba]{
 -- Page 356, Offset 3560.
 -- ―――では、それは幻か。
-―――So, it's an illusion.
+―――Then, is this an illusion?
 }
 [sha:52e497abd26c4ddfa322944b2f0859350cce4fd5]{
 -- Page 356, Offset 3561.
@@ -368,12 +376,12 @@ Is what I'm seeing now a hallucination or a dream?
 [sha:abd80ceddc730f347e36af164e3658b60efc67e4]{
 -- Page 357, Offset 3562.
 -- ―――では、あれは幻か。
-―――Then, is that an illusion too?
+―――Then, is that an illusion?
 }
 [sha:1d0732dd6e983887a6c7945055a31f7694b2e87d]{
 -- Page 357, Offset 3563.
 -- ぽつんと、闇をきりとったような街灯の下、よく分からないモノが立っている。
-There, under the streetlight that slices through the darkness, stands a figure I can't comprehend.
+There, under the streetlight slicing through the darkness, stands some incomprehensible %{i}thing%{/i}.
 }
 [sha:c1289bddb1116b84dc493bdd308dc9eba2ed8a2e]{
 -- Page 358, Offset 3564.
@@ -383,7 +391,7 @@ Is that... a coat?
 [sha:cc9c2c132b75fcfed42d6fec58aec3827fbf4684]{
 -- Page 358, Offset 3565.
 -- 厚いコートを羽織った人影は、立ち尽くす俺に気がついた様子もない。
-The figure wearing a thick coat doesn't seem to notice me as I stand stock still.
+But the coat-wearing silhouette shows no signs of noticing me as I stand frozen in place.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 359, Offset 3566.
@@ -403,16 +411,18 @@ The night air sticks to my skin.
 [sha:efde49ee13c1dac1e04a1c8d671f1af2ea2abdd5]{
 -- Page 359, Offset 3569.
 -- なにがどうというワケでもないのに、
-It's not like anything is wrong with me.
+It's not like there's anything wrong with my surroundings―――
 }
 [sha:3e08b5381ec139f977788de2f66b737cd10d4282]{
 -- Page 359, Offset 3570.
 -- 海の底にいるみたいに、すべてが重苦しく感じられる―――
-But everything feels heavy, like I'm at the bottom of the ocean.
+And yet everything feels stifling, like I'm at the bottom of the ocean.
 }
 [sha:919f0a5bcf49e493ff1947ffd1ebf50f85c509bf]{
 -- Page 360, Offset 3571.
 -- 『[zap00][zap00][zap00][zap00][zap00][zap00][zap00][zap00]』
+// Needs a no_break pragma otherwise we try and linebreak in the middle of the final command segment
+%{no_break}
 [zap00][zap00][zap00][zap00][zap00][zap00][zap00][zap00]
 }
 [sha:4a3ec6d0c86bb647dde3269d0b89bbf961fea432]{
@@ -423,7 +433,7 @@ I hear the sounds of a distant, foreign country.
 [sha:9f47ebe93e2e316bcc661c49756ba5e6e46a0c49]{
 -- Page 360, Offset 3573.
 -- 目眩に意識を奪われかける。
-I'm struck by a dizziness that almost knocks me unconscious.
+A sudden dizziness assails me, and I almost pass out.
 }
 [sha:23815b911572c014106fa760092bcdcd903a169c]{
 -- Page 360, Offset 3574.
@@ -443,7 +453,7 @@ All I see before me is the usual, quiet road.
 [offset:3577]{
 -- Page 361, Offset 3577.
 -- 「は――――あ」
-"%{i}Ha――h%{/i}"
+"%{i}Ha――h%{/i}."
 }
 [sha:2fc09a5e72354aaab62e0589f6ab76c050b501c0]{
 -- Page 361, Offset 3578.
@@ -453,7 +463,8 @@ I breathe a sigh of relief, my lungs greedily taking in the air.
 [sha:4a7760ecbd196e61997387adbe901e91c323f336]{
 -- Page 361, Offset 3579.
 -- ……気がついていなかったが、正門を出てからこっち、まともに息をしていなかったようだ。
-I didn't realize it, but I haven't been breathing properly since I left the main gate.
+I didn't realize it,
+ but it seems I haven't been breathing properly since I left the main gate.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 362, Offset 3580.
@@ -463,7 +474,7 @@ I didn't realize it, but I haven't been breathing properly since I left the main
 [sha:085788bed7eaa56072c47cee83a854fcbdcd5693]{
 -- Page 362, Offset 3581.
 -- もう遠吠えは聞こえない。
-I don't hear them howling anymore.
+I don't hear the howling anymore.
 }
 [sha:2d6a2372122b99e86abd52f7be548f16ff382bb0]{
 -- Page 362, Offset 3582.
@@ -478,7 +489,7 @@ I'm back in my room.
 [sha:afc8e1b0500ac0d3a540f73b971d726aa042f895]{
 -- Page 363, Offset 3584.
 -- 秋葉たちは起きている気配がなかった。
-I didn't notice any signs that Akiha or the others are awake.
+I didn't see any signs that anyone else had woken up.
 }
 [sha:56e4e9d3d3eb46cbeb832b0f0194eb3e1fad0c05]{
 -- Page 363, Offset 3585.
@@ -508,7 +519,8 @@ My head still hurts.
 [sha:ebdc80a412fcbc544aca3c5ddbb532a261b01ff9]{
 -- Page 365, Offset 3590.
 -- 見れば指が震えている。
-My fingers are trembling.
+When I look at my fingers,
+ I realize they're trembling.
 }
 [sha:77b15e8eb63937fe4f4807f3f60d7848c9112920]{
 -- Page 365, Offset 3591.
@@ -518,12 +530,12 @@ My whole body is shaking, and my back feels so cold.
 [sha:e80352fb72ac81f6f4f440b49ad89a36ed43f3c9]{
 -- Page 365, Offset 3592.
 -- 喩えるなら、そう。
-Metaphorically speaking―――
+If I had to describe how it feels―――
 }
 [sha:79994762489761a3f4d93deac5d9576fe625a2e1]{
 -- Page 365, Offset 3593.
 -- 脊髄をひきぬかれて、代わりに氷の柱を刺し込まれたみたい。
-it's like someone ripped out my spinal cord and put a pillar of ice in its place.
+It's like my spine has been ripped out and replaced with an icicle.
 }
 [sha:956125f972827f97998d60d9a0375c8f18210c86]{
 -- Page 366, Offset 3594.
@@ -538,17 +550,17 @@ I feel dizzy and light-headed.
 [sha:0f41555ec791d8c7f7e0d712f23c642829acbdfd]{
 -- Page 366, Offset 3596.
 -- ……いつもの貧血だろうか。
-I wonder if it's the usual anemia.
+Maybe it's just my usual anemia?
 }
 [sha:d101186c832e388ff0c0374f9c515fc12a8ab3ec]{
 -- Page 366, Offset 3597.
 -- 意識が脳みそごと、どしゃりと地面にぶちまけられる感覚。
-I feel like my consciousness is being thrown to the ground, brain and all.
+I feel like my consciousness is being dashed against the ground, brain and all.
 }
 [sha:9d3e393c9ecc033350091dccc58cf8fdc83ecccd]{
 -- Page 366, Offset 3598.
 -- その途中で、イヤなものを、見てしまった。
-As this is going on, I notice something unsettling.
+Amidst all this, I notice something unsettling.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 367, Offset 3599.
@@ -563,22 +575,22 @@ Even though I'm wearing my glasses, I can still see those 'lines'.
 [sha:13aa53af4fa2750734612c0a0fc71a481e9080f7]{
 -- Page 368, Offset 3601.
 -- 「うっ、ぶっ………！」
-"%{i}Ugh%{/i}......!"
+"%{i}Ugh%{/i}!"
 }
 [sha:181e4c6c4c50bfbb9a55fc21a3b02fc2074e891d]{
 -- Page 368, Offset 3602.
 -- こみ上げる吐き気に、眼球が耐えられない。
-My eyeballs can't take the nausea that's been building up.
+The rising nausea overwhelms my eyes.
 }
 [sha:4e965f2e168c44cea5c59226d156e33610a310c2]{
 -- Page 368, Offset 3603.
 -- ここ七年ずっと見ないように努めてきた反動だ。
-It's a reaction to the fact that I've been trying not to see them for the last seven years.
+It's the pent-up weight of the seven years I've spent trying not to look at them.
 }
 [sha:a92f41d7fb5a9eff8d28d28789e8f8a96a8cdccc]{
 -- Page 369, Offset 3604.
 -- この<事実|ふうけい>に、俺の精神が耐えられない。
-My mind can't bear this scene.
+My mind is overwhelmed by this sight.
 }
 [sha:5d67bd3be292df2b7eebd348d74e243b0d6aa60c]{
 -- Page 369, Offset 3605.
@@ -598,7 +610,7 @@ I really don't know.
 [sha:d1f59f730c22045353ece965ab9ec643a4fae930]{
 -- Page 370, Offset 3608.
 -- ただ、目を開けているかぎり、あのラクガキが視界に飛び込んできてしまう。
-But as long as I keep my eyes open, I can't help but see the lines.
+But as long as I keep my eyes open, I can't help but see these scribbles.
 }
 [sha:a8ae65ea3b7a9eeca9a2071bd92cfedbafd44e30]{
 -- Page 371, Offset 3609.
@@ -608,12 +620,13 @@ But as long as I keep my eyes open, I can't help but see the lines.
 [sha:dce7b0d2b62ba7afcf32972e2f2e50c5d8ae9a5d]{
 -- Page 371, Offset 3610.
 -- なんとかベッドに倒れこむ。
-I manage to fall onto my bed.
+I somehow make it into bed.
 }
 [sha:fa9c6bd5dec23a96ebf56159e0a9b90f014cd6e4]{
 -- Page 371, Offset 3611.
 -- ……そう、なら眠ってしまえばいい。見えている物を否定するには、それが一番てっとり早い方法だ。
-Yeah... in that case, I should just go to sleep. It's the quickest way to deny what I've seen.
+Yeah... in that case, I should just go to sleep.
+ It's the quickest way to negate what I'm seeing.
 }
 [sha:a31ffc0f0a0909c51d60382ec556afb3c57ce375]{
 -- Page 372, Offset 3612.

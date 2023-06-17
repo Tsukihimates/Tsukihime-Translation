@@ -1,7 +1,7 @@
 [sha:a6dd32cd2f87dd96fbda143f189c3f35f43806f3]{
 -- Page 10026, Offset 2421.
 -- 夕食は秋葉と顔を合わせてのものだった。
-I sit face to face with Akiha at the dinner table.
+I sit face-to-face with Akiha at the dinner table.
 }
 [sha:4f476047900ed48dea1b9135e083bb1afcc1710a]{
 -- Page 10026, Offset 2422.
@@ -11,17 +11,17 @@ Hisui and Kohaku-san are fully focused on serving us.
 [sha:ae799c5df20a77b13c9f7c46c7126bf2ee36177c]{
 -- Page 10026, Offset 2423.
 -- <主人|かじん>と使用人が食卓を囲む事はない。
-A master and their servants cannot sit at the same table.
+Servants cannot sit at the same table as their master.
 }
 [sha:6044d8e3c1673aba5959c9890f754792e18a95a6]{
 -- Page 10026, Offset 2424.
 -- ……当然の話だが、有間の家の団らんに慣れていた俺にとっては、居心地の悪い夕食だった。
-This may be obvious, but as someone used to living with the Arimas――where the entire family ate together around the same table――I find the setup a little uncomfortable.
+This may be obvious, but as someone used to living with the Arimas――where the entire family ate together around the same table――I find this setup a little uncomfortable.
 }
 [sha:82500f67296c1acab74b02656b756efe655ad473]{
 -- Page 500, Offset 2425.
 -- さらに言っておくと、俺は完全にテーブルマナーなんてものは忘れていた。
-In addition, I've been letting my table manners atrophy.
+To make matters worse, I've been letting my table manners atrophy.
 }
 [sha:691d254bf4cdc57fcfc5591b38093c91593ffd30]{
 -- Page 500, Offset 2426.
@@ -33,7 +33,8 @@ Humans are experts in optimization, and relegate unused memories to a corner of 
 [sha:3f97c0c53d2241f6e43ff1ed467d656671e00bb8]{
 -- Page 501, Offset 2427.
 -- 俺の一挙一動に秋葉の眉がつりあがっていく様はなかなか緊張感があり、実にスリリングだった。
-Seeing Akiha raise her eyebrows at every move I make really keeps me on edge. Truth is――it's thrilling.
+Seeing Akiha raise her eyebrows at every move I make really keeps me on edge.
+ It's an absolute thrill, believe me.
 }
 [sha:414d3cbe0178baacba7ba762ebee74adf00b93df]{
 -- Page 501, Offset 2428.
@@ -48,22 +49,22 @@ Dinner ends without any conversation.
 [sha:6ca12d2b9f69d6e9fc5990c35a9fea5ce2a54c83]{
 -- Page 502, Offset 2430.
 -- 俺はテーブルマナーを思い出すのに精一杯で会話をする余裕はなく、
-I was so busy trying to remember my table manners that I didn't have time for any conversation.
+I was so busy trying to remember my table manners that I didn't have any brainpower left over to chat.
 }
 [sha:b18a570e64e6a5d0a1857540330279e5dc283aaf]{
 -- Page 502, Offset 2431.
 -- 秋葉は秋葉でひたすら不機嫌そうだったからだ。
-And Akiha seemed to be completely displeased, as expected.
+Akiha seemed like she was in a bad mood, so she wasn't exactly talkative either.
 }
 [sha:0348328ffc2ed22613c94b9797bef1ea7d3cac18]{
 -- Page 503, Offset 2432.
 -- そうして、翡翠と琥珀さんが食器を片付け終わった直後。
-Hisui and Kohaku-san finish cleaning up the dishes, and immediately afterward...
+As soon as Hisui and Kohaku-san finish clearing the dishes―――
 }
 [sha:e4c27d2416129bc0b2f65a7231847468bb558655]{
 -- Page 504, Offset 2433.
 -- 「―――やはり、徹底的な再教育が必要なようですね」
-"―――It seems that thorough re-education is necessary."
+"―――It seems that thorough re-education is necessary after all."
 }
 [sha:a58ef2c89465fc2557316fb223150be944c586c5]{
 -- Page 504, Offset 2434.
@@ -83,7 +84,8 @@ The devil's words, merciless in content and chilling in tone, reverberate across
 [sha:80436d02368172187d4350c11cf0aac01e3728c5]{
 -- Page 505, Offset 2437.
 -- 「兄さんに、相応しい心構えを、です」
-"For you, Nii-san. I want you to have an appropriate attitude."
+"For you, Nii-san.
+ I want you to conduct yourself in a manner that befits your station."
 }
 [sha:94405e3e7d13b2ad540eb75e8d0b9adff6005ec3]{
 -- Page 505, Offset 2438.
@@ -108,7 +110,8 @@ So that's what she was thinking while eating, with her shapely eyebrows twitchin
 [sha:e16975a6c2b553f42f86d0caec15c7bf60c43ca2]{
 -- Page 506, Offset 2442.
 -- どのような理由であれ、外出の時は私か琥珀、翡翠の許可をとるように」
-Whenever you go out for any reason, you have to ask permission from me, Kohaku, or Hisui."
+If for whatever reason you do need to go outside,
+ you must first obtain permission from either Hisui, Kohaku, or myself."
 }
 [offset:2443]{
 -- Page 507, Offset 2443.
@@ -123,7 +126,8 @@ Eight o'clock curfew? In this day and age? And even worse, I need someone's perm
 [sha:bdf759d2eb80c489f500e105d0ed87670731b139]{
 -- Page 507, Offset 2445.
 -- 「待て待て、それは」
-"Wait, wait, that's..."
+// lint-off:LintDupedWord
+"Whoa whoa whoa, that's―――"
 }
 [sha:b122518bf64be56d9f6773d7344e607cdd252376]{
 -- Page 508, Offset 2446.
@@ -135,15 +139,17 @@ Eight o'clock curfew? In this day and age? And even worse, I need someone's perm
 -- 報告によると兄さんの成績は中の中だそうですね。
 From what I have been told, your grades are completely average, are they not?
 }
-[sha:8b315c8c79fa7660b72b99447eab487f2e95c651]{
+[offset:2448]{
 -- Page 508, Offset 2448. Mods: @k, @e.
 -- ……
-...
+// Becomes a leading ellipsis when glued, so removed
+%{nothing}
 }
 [sha:5aab2ff6f6fbc56ba3f08b4172472428e9c71a9f]{
 -- Page 508, Offset 2449. Glued. Mods: @x.
 -- まったく。相変わらず、効率良く手を抜くのだけは得意なようで」
-My goodness. You are only good at cutting corners, efficient as ever."
+Honestly, you haven't changed one bit...
+ Cutting corners remains your forte."
 }
 [sha:921de26bcc4bd00a926221196fb6c794bed04f22]{
 -- Page 508, Offset 2450.
@@ -153,7 +159,8 @@ My goodness. You are only good at cutting corners, efficient as ever."
 [sha:79f18b6a83175e2548822b5cfe586858b791efd7]{
 -- Page 509, Offset 2451.
 -- 「ですが、この屋敷にいる間は本気を出していただきますから、そのつもりで。
-"Be that as it may, while you live in this mansion, I will have you take things seriously. Prepare for that.
+"Be that as it may, while you live in this mansion, I will have you take things seriously.
+ Please bear that in mind.
 }
 [sha:d918908bff2a3b1cf888bad7718a37b093d3ecf7]{
 -- Page 509, Offset 2452.
@@ -168,7 +175,7 @@ My sister's overestimation stings.
 [sha:42a58937f1cdd441f19bd9b6615f0d1464a3fff0]{
 -- Page 510, Offset 2454.
 -- あともう俺の成績をリサーチしている周到さが怖い。
-And the thoroughness she used when researching my grades is frightening.
+I'm also a little frightened by how meticulously she's researched my grades.
 }
 [sha:9bf049f9027afb1a516e92ecfee4cc14fedc282c]{
 -- Page 511, Offset 2455.
@@ -193,12 +200,14 @@ What %{i}thing%{/i} is she talking about?
 [sha:45f51986a8c0bb82c5da49b286db00c29539545b]{
 -- Page 512, Offset 2459.
 -- 「アレと言えばアレです。
-"I am talking about that thing.
+"You know full well what I'm talking about.
 }
 [sha:694b84288e95866a10238e95fc41e4b57e3323dd]{
 -- Page 512, Offset 2460.
 -- あるでしょう。兄さんのズボンにも。若者の象徴のような汚らわしいアレが。
-You have it, right? In your pants. That filthy thing is the symbol of youth.
+You %{i}do%{/i} have one, don't you?
+ In your pants.
+ That filthy thing is the symbol of youth.
 }
 [sha:82bbb06ad057416b45d6fea1e86e47db58ebcf36]{
 -- Page 512, Offset 2461.
@@ -213,7 +222,8 @@ I am telling you to stop hiding it and take it out."
 [sha:66829e2bd8102ca75afb24b4735583b165034fba]{
 -- Page 513, Offset 2463.
 -- これが上流階級のする事か!?　一般市民をなんだと思っているんだ、おまえは!?」
-Is this what they do in the upper class? What the hell do you take normal folks for?!"
+Is this what the elites get up to?!
+ What the hell do you take us normal folks for?!"
 }
 [sha:07b26da5c4b72e85d53686242b481819c4b6f15a]{
 -- Page 514, Offset 2464.
@@ -223,21 +233,22 @@ Is this what they do in the upper class? What the hell do you take normal folks 
 [sha:895eed689371bc6134f3bd4992724e7418c550ce]{
 -- Page 514, Offset 2465.
 -- 兄さんだって持っているんでしょう？」
-You do have a mobile phone, don't you?"
+Even you have one, don't you?"
 }
 [offset:2466]{
 -- Page 514, Offset 2466. Mods: @k, @e.
 -- 「――――――
 "―――
 }
-[sha:b328ba224751be6c026073ab7c95cec68ea40864]{
+[offset:2467]{
 -- Page 514, Offset 2467. Glued. Mods: @x.
 -- なるほど」
-I see."
+Of course."
 }
 [sha:bd42c9a44c0d60ead86c7f982c4b7e30c3eac5c0]{
 -- Page 515, Offset 2468.
 -- ズボンの後ろポケットにしまっていた携帯端末を取り出す。
+// Who tf sits on their phone constantly
 I take out the phone I've been keeping in the back pocket of my pants.
 }
 [sha:e83ffc18272b7961a182a9c5aee1e157018ee172]{
@@ -248,7 +259,8 @@ When I put it on the dining table, Hisui silently collects it and hands it to Ak
 [sha:630eef0052ef2ee61fc9be5ac524b123bee82418]{
 -- Page 516, Offset 2470.
 -- 「これは没収します。当家ではこの手の電子機器は禁止です。健全な学生には不要なものですから。
-"I am confiscating this. This type of electronic device is prohibited in this house. They are unnecessary for healthy students.
+"I am confiscating this. This type of electronic device is prohibited in this house.
+ An upstanding student has no need for one.
 }
 [sha:7df477ad1542503b6c0064a70042abffb1e092ae]{
 -- Page 516, Offset 2471.
@@ -263,12 +275,13 @@ Ending the conversation, Akiha walks out of the dining room.
 [sha:ec85bc4f900ec6d84423d795c98ad9e0f01ce5ac]{
 -- Page 518, Offset 2473.
 -- 本日何度目かの、そして最大のショックに立ち尽くす。
-I'm standing here in shock for the umpteenth time today, and this is the biggest one yet.
+I'm left reeling in shock for the umpteenth time today.
+ Heck, this might even be the biggest one yet.
 }
 [sha:4bc8638b8e2011de69d9a783b4f6eb93585392fa]{
 -- Page 518, Offset 2474.
 -- 負け惜しみではないが、俺はそこまで携帯を愛用するタイプではない。
-It's not like I'm a sore loser, but I'm not even the type to be on his phone all the time.
+Not to make excuses, but I'm not even the type to be on his phone all the time.
 }
 [sha:c51d07a327fd6ac6b739c7cbec41598094fa09a7]{
 -- Page 518, Offset 2475.

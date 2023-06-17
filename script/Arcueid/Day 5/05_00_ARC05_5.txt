@@ -21,7 +21,7 @@ The screens outside broadcast the breaking news on repeat.
 [sha:9eed77a2750df9110e8e0b398112d2bd8a50caa7]{
 -- Page 372, Offset 9569.
 -- 総耶駅北口付近で起きた火災。
-A fire has broken out in the vicinity of Souya Station's north gate.
+A fire has broken out on the north side of Souya Station.
 }
 [sha:8188a0ba3f5fbdc1d0b1d08f1b06dc7bf2eb54b6]{
 -- Page 372, Offset 9570.
@@ -42,17 +42,21 @@ It's an interview with a high school girl who has just escaped from the fire.
 [sha:a0d054156e9558159dac4c5479ab44ee52a57b9d]{
 -- Page 373, Offset 9573.
 -- “熱い、熱いの、ねえ、なんでこんな熱いの？”
-"It's hot, it's hot. Hey, why is it so hot?
+"Hot... it's so hot. Hey, why is it so hot?
 }
 [sha:98c5cf346da550ee6af4b8159051d44bff506555]{
 -- Page 373, Offset 9574.
 -- “ユカが、友達が食べられた。アタシの腕も、なんか、”
-My friend――Yuka――she was eaten by them. They even got my arm. It's like...
+// Trailing なんか kinda awk, made to fit as a connector
+My friend――Yuka――she was eaten by them.
+ They even got my arm.
+ What's going on...
 }
 [sha:cf1522fb71fa1a1520284b2d5c99a147bff66b2b]{
 -- Page 373, Offset 9575.
 -- “死んだのに動いているの、燃えてるのに笑ってるの……！”
-They're moving even though they're dead! They're laughing even though they're burning...!"
+They're dead but they're still moving!
+ They're on fire but they're laughing!"
 }
 [sha:c10a58a8e7374cc3099520ce0bd7f6accad62792]{
 -- Page 373, Offset 9576.
@@ -62,7 +66,8 @@ Her words were treated as shock-induced delusions.
 [sha:17aa6a3749c08eb06b709ea8e28295c0ffe1b50d]{
 -- Page 374, Offset 9577.
 -- 火の手は今も拡大しており、近隣住民への避難まで呼びかけられていた。
-The fire is spreading even now, to the point where nearby residents have been advised to evacuate.
+The fire is only continuing to spread,
+ and we've reached the point where nearby residents have been advised to evacuate.
 }
 [sha:6a1290ad010e44e6371ac7c4ec7de8174b2c5e62]{
 -- Page 374, Offset 9578.
@@ -72,12 +77,14 @@ Despite that, the main street is overflowing with people.
 [sha:0d0cd73c1c2dfd8f57f298861f14e56149b24154]{
 -- Page 374, Offset 9579.
 -- 興味に浮かされてここまでやってきた彼等は、遠巻きに、そこまで迫っている火災を観覧し、撮影し、身近な友人たちに情報を転送している。
-Carried away by their curiosity, people have surrounded the area from a distance, observing, filming, and relaying the situation to their closest friends.
+Having come all the way here to sate their curiosity,
+ they now stand on the fringes observing, filming,
+ and relaying the situation to their closest friends.
 }
 [offset:9580]{
 -- Page 375, Offset 9580.
 -- 「っ……！」
-"...!"
+"%{i}Gh%{/i}!"
 }
 [sha:771e604cfa06087e83771d039733fb934d14b956]{
 -- Page 375, Offset 9581.
@@ -87,19 +94,19 @@ The road to the station has already been blocked off.
 [sha:2cb04fb326a0d61e59ef2bad71ec4dcfb1652fbc]{
 -- Page 375, Offset 9582.
 -- 火災対策……いや、それにしては早すぎるし、なにより<人|・><員|・><が|・><多|・><す|・><ぎ|・><る|・>。
-Fire prevention...?
- No, there's no way they'd have managed to get these up so quickly.
+Is this a fire break...?
+ Even if it is, they got it up way too quickly.
  Besides, there are too many people around.
 }
 [sha:a9b65b5a268696de79fdc5c1d2e27507bcd6da3c]{
 -- Page 375, Offset 9583.
 -- あれじゃあ、まるで、中から逃げてくるものを、外に出さないよう見張っているようにさえ思える。
-It's almost like they're guarding the exits, making sure nothing can escape.
+It's almost like they're blocking off the exits, making sure nothing can escape.
 }
 [sha:6e57c3019123d90b1c6204804ed2cda01aa3fa3c]{
 -- Page 376, Offset 9584.
 -- 「くそっ……！」
-"Crap...!"
+"Crap!"
 }
 [sha:140d3d19eed755cb60b13b8718afc5bfde4a0ac3]{
 -- Page 376, Offset 9585.
@@ -129,7 +136,7 @@ Without waiting for an answer, Arcueid slips away through the crowd of people, d
 [sha:9547ee8f76b346f91e524183555524326e7e9543]{
 -- Page 378, Offset 9590.
 -- こんなところに来てどうするんだ！」
-Why did you drag me all the way here?!"
+What did you drag me back here for?!"
 }
 [sha:ccd678936d34c44c58ef4eabe33596b0fec5aa5f]{
 -- Page 379, Offset 9591.
@@ -139,7 +146,7 @@ I shake my hand free.
 [sha:5d54eb09a1af563ed07181813c8d2f27d13334cb]{
 -- Page 379, Offset 9592.
 -- アルクェイドはビルの壁を見上げると、
-As Arcueid looks up at the wall of the building, she says―――
+Arcueid turns and examines the walls of the buildings.
 }
 [sha:99cedf98ad33913bbd24f7b72eb9f0cacfd719d5]{
 -- Page 380, Offset 9593.
@@ -159,12 +166,13 @@ This is my first time flying with another person, but it shouldn't be an issue i
 [sha:1460e4c89f339d5152aefc6acc3a5eade214f2d2]{
 -- Page 381, Offset 9596.
 -- その動きに淀みはなかった。
-She moves without hesitation.
+She moves swiftly and decisively.
 }
 [sha:d3d8dcbcb5b9b26c507d11044662a8350e979b7b]{
 -- Page 381, Offset 9597.
 -- アルクェイドは俺の腕を押さえこむように掴むと、そのまま、
-She grabs my arm as if she were pinning me down, and then―――
+// Shoulder / upper arm area probably a bit more accurate than just 'arm'
+First she grabs my shoulder like she's about to pin me in judo, and then―――
 }
 [sha:3794b8db97f6f8c042aa99bf0e13bfaa3c4b4da4]{
 -- Page 382, Offset 9598.
@@ -174,7 +182,8 @@ She grabs my arm as if she were pinning me down, and then―――
 [sha:d96be44ee4ce816149641b9fdc51b54483f0ade0]{
 -- Page 382, Offset 9599.
 -- なんか、とんでもないコトを言い出しやがった―――！
-Wait, she just said something completely outrageous―――!
+// Kinda a continuation of 9597, but on a new page, so included a repeated start
+And then, she says something completely insane!
 }
 [sha:afcb5e95b1f7aacac5f5f37f6ba75d1d0723e9d6]{
 -- Page 383, Offset 9600.
@@ -195,18 +204,20 @@ Wait, she just said something completely outrageous―――!
 [sha:5ffd2f7f461488060ee88783d6f039b1957427bb]{
 -- Page 386, Offset 9603.
 -- 空を飛んでいる。
-We're flying.
+// Next couple sentences Arc only to play with 9606.
+She's flying.
 }
 [sha:36487bad4477857c85d53ceaa0fe47c0dfe2b03d]{
 -- Page 386, Offset 9604.
 -- いや、跳ねている。
-No, we're jumping.
+No, she's jumping.
 }
 [sha:8a0404346c172a4c9a46848ee2d9407857782e0b]{
 -- Page 387, Offset 9605.
 -- アルクェイドはビルの壁にジャンプし、張り付いてからさらに跳躍、反転を繰り返して、あっという間にビルの屋上……いや、上空まで舞い上がった。
-Arcueid bounds from wall to wall up the face of the opposing buildings.
- Before I even have time to blink, we're on top of the building――no, soaring across the sky.
+Before I even had time to blink,
+ Arcueid bounded from wall to wall up the face of the opposing buildings,
+ and now she's higher than the rooftops――no, higher than the %{i}clouds%{/i}.
 }
 [sha:bfa9c4512e51a20f578784fdd69e4df6e48523d6]{
 -- Page 387, Offset 9606.
@@ -216,12 +227,17 @@ Of course, she did all of this while holding onto me.
 [sha:e906537a81eabb1cc0bc92b2f81a6a5a02c7169e]{
 -- Page 388, Offset 9607.
 -- 「ちっょ、ま、おま、うわああああ……！」
-"W-W-Wait a, %{i}waaaaaah%{/i}...!"
+"W-Wait, h-hey... %{i}whoooaaa%{/i}!"
 }
 [sha:15dcc3e5eb3b2c258f885e3ea41ec9c5a7f3927b]{
 -- Page 388, Offset 9608.
 -- 高い……！　というか怖い……！　いま地上何メートルだこれ、ビルより高いってコトは40メートル以上か!?　20メートルのコースターでさえ心臓が縮みあがるのにその倍、しかも本気で足場とかないんだけどーーー！？
-We're so high! I'm terrified! How many meters above ground is this? That building must've been around forty meters tall and we're above that?! Even a twenty-meter drop-tower ride would make my heart beat out of my chest, let alone this! Where the hell am I supposed to put my feet?!
+We're so high!
+ This is terrifying!
+ How high %{i}are%{/i} we right now?!
+ We're above that building, and it had to be like forty meters tall!
+ A twenty-meter drop tower ride would make my heart beat out of my chest, but %{i}this%{/i}?!
+ Where the hell am I supposed to put my feet?!
 }
 [sha:318f62492b1edf807c981a1a5934e88b40407b88]{
 -- Page 389, Offset 9609.
@@ -257,7 +273,7 @@ Just as I'm starting to enjoy it, Arcueid finally stops leaping.
 [sha:f534374812e35b7bdef7924ce2bcf3934259673e]{
 -- Page 392, Offset 9615.
 -- 街を一望する高層ビルの屋上。
-We're on the rooftop of a skyscraper overlooking the city.
+We're on the roof of a skyscraper overlooking the city.
 }
 [sha:9de1c4f0687009c126780de5329cb85e718b7094]{
 -- Page 392, Offset 9616.
@@ -267,7 +283,7 @@ We've landed in a hanging garden; one that was not originally designed for human
 [sha:0b586228f693fcee8ff039f4e779cece7edeedbf]{
 -- Page 393, Offset 9617.
 -- 「っ―――おまえ、な、なんて無茶を―――」
-"Eeh――you, w-what the hell was that about―――"
+"%{i}Geh%{/i}――goddamn it, wh-what the hell was that about―――"
 }
 [sha:04fd35992808bc89ba10948bb244572f0f077508]{
 -- Page 394, Offset 9618.
@@ -277,12 +293,14 @@ All the sudden ups and downs have played havoc with my breathing.
 [sha:e467deb9d41e3e1b32ee7031abae7cfa4800b7c4]{
 -- Page 394, Offset 9619.
 -- 胸が苦しい。血液の循環の乱れが心臓に負荷をかける。
-My chest hurts. My fluctuating blood pressure strains my heart.
+My chest hurts.
+ The wild swings in my blood pressure are doing a number on my heart.
 }
 [sha:ea428fd817ef1382e3040548a4a99a555dce4f00]{
 -- Page 394, Offset 9620.
 -- 気圧の変化こそないものの、体験した事のない急制動で全身が硬直してしまったからだ。
-Although there hasn't been any change in air pressure, my entire body has frozen up from all the shocks to my system.
+Even though we aren't high enough for the atmosphere to get thinner,
+ my entire body has frozen up from all the shocks to my system.
 }
 [sha:bc2c378de8257c1868b983c6101545248096fe97]{
 -- Page 395, Offset 9621.
@@ -292,12 +310,12 @@ Although there hasn't been any change in air pressure, my entire body has frozen
 [sha:ecbbfae99ce411446112ffc1fa8e70f54640c577]{
 -- Page 395, Offset 9622.
 -- 「見ろって、なに―――」
-"What do you mean, look ther―――"
+"Look? Look wher―――"
 }
 [sha:6b3d289d79129c45f8bf597c30af86fd087f8f25]{
 -- Page 396, Offset 9623.
 -- 何を、と言いかけた声が止まる。
-I stop right before I finish my sentence.
+I don't even manage to finish that sentence.
 }
 [sha:814791c1cb8aea4ae4573d2720f68619a1f9fcd3]{
 -- Page 396, Offset 9624.
@@ -307,12 +325,12 @@ In an instant, I forget all about the pain caused by my elevated heart rate.
 [sha:8b1619a381c7ddcb087f6b3dbde0be774831de0d]{
 -- Page 397, Offset 9625.
 -- ―――燃えている。
-―――It's burning.
+It's on fire...
 }
 [sha:39b1a3267a56641042b9668f73cc2edb4b53fbe7]{
 -- Page 397, Offset 9626.
 -- 俺たちの街が、見知った建物が、火の海に飲まれつつある。
-The city I live in, the familiar buildings, are all being consumed by the sea of flames.
+The city I live in, with all its familiar buildings, is being consumed by the sea of flames.
 }
 [sha:a34636cdd84a4aaa20b1a35f8681309c6f62dc33]{
 -- Page 397, Offset 9627.
@@ -337,7 +355,8 @@ Little by little, the fire continues to burn away the buildings' silhouettes, as
 [sha:bbf1381c9f42f296ebbe7c91eabbdce32c7f6a2e]{
 -- Page 399, Offset 9631.
 -- まさに炎の河だ。その中で、ヤツは食事を繰り返している。腹を満たそうと赤い血を浴びている。
-This is truly a river of fire. Within it is a man ceaselessly devouring. He bathes himself in the crimson rain, slaking his thirst.
+This really is a literal river of flame.
+ Within it is a man ceaselessly devouring. He bathes himself in the crimson rain, slaking his thirst.
 }
 [sha:2aeef64a329632ec83211566d0e27322c26893c2]{
 -- Page 399, Offset 9632.
@@ -357,17 +376,17 @@ The officers raise their pistols and fire in unison.
 [sha:8f6e61e7d31177390e9cdac4c40b64fb375e23da]{
 -- Page 400, Offset 9635.
 -- 「―――な―――」
-"―――Wha―――"
+"Wha―――"
 }
 [sha:b2e0bbb2bbbff3b8219417947d286c828a48ad33]{
 -- Page 400, Offset 9636.
 -- だがヤツは微動だにしない。
-However, he doesn't even flinch.
+But the man doesn't even flinch.
 }
 [sha:618804708ab01d0be5b8f6599b6f86eaaf7b337a]{
 -- Page 400, Offset 9637.
 -- 警官たちの事なんて、きっと気がついてもいない。
-He likely doesn't even notice their presence.
+He probably doesn't even notice they're there.
 }
 [sha:2c888c3d3ef73f5de9711d173bdb69a1fb089f3d]{
 -- Page 400, Offset 9638.
@@ -377,12 +396,14 @@ More figures appear from behind the monster――from behind Vlov.
 [sha:799584fff099512ab40695a2b4fbe813b828706f]{
 -- Page 401, Offset 9639.
 -- 燃える死体。
-Burning Corpses.
+Burning corpses.
 }
 [sha:49552011a7a7fee0a804d4fa9452cab5e3a9ef1e]{
 -- Page 401, Offset 9640.
 -- おそらく、つい数分前まで生きていた人々。今は動く死体になったモノたち。
-They were probably living, breathing humans until just a few minutes ago. But now, they've become moving corpses.
+// Assuming this is _not_ lore term? Annoyingly duplicitous with above if also corpse
+They were probably living, breathing humans until just a few minutes ago.
+ Now, they're nothing more than reanimated cadavers.
 }
 [sha:019662e004a5e4a7fe8391f91d4af4d878e46858]{
 -- Page 401, Offset 9641.
@@ -397,7 +418,7 @@ The corpses move toward the firing officers―――
 [sha:408a111d68b6acb21d76fcc28178dab5184d940d]{
 -- Page 402, Offset 9643.
 -- 「―――なんだ、アレ―――」
-"What the hell... is this..."
+"What... the hell..."
 }
 [sha:23f2929522125eba1cb649b83e48d1e2bb03b21e]{
 -- Page 402, Offset 9644.
@@ -413,7 +434,7 @@ I didn't even have the chance to look away.
 [sha:dc0a324b69975276d02aaee94bc8a002d49f5eb5]{
 -- Page 402, Offset 9646.
 -- 街を走っていた時にあった焦燥感も使命感も漂白された。
-The sense of duty and urgency I had while running toward the city have been wiped clean.
+The sense of duty and urgency I felt while running toward the city has been swept away.
 }
 [sha:a8916a34c887366775e44a90817694bd62c205b3]{
 -- Page 402, Offset 9647.
@@ -443,7 +464,8 @@ And %{i}that%{/i} is the enemy we must now defeat―――
 [sha:c714bf3a2eac5a74111d8df2a4066aaff198f187]{
 -- Page 404, Offset 9652.
 -- ここまで見境なしならそろそろやって来る筈だけど……やっぱりこの国には赴任していない……？
-If they were really that intent on hunting vampires, then they should already be here... Looks like no one's been assigned to this country after all.
+They should've been here by now considering how indiscriminate he's being.
+ Looks like no one's been assigned to this country after all.
 }
 [sha:86e0c4c106da595e1060d1cbaff83e8acc81758e]{
 -- Page 404, Offset 9653.
@@ -479,12 +501,15 @@ As you can see, this is Vlov's true nature. He's some crazed mass murderer that'
 [sha:99593921c007048260dd51715d63a5a400662537]{
 -- Page 407, Offset 9659.
 -- ヴローヴの存在規模からいってこの街は燃え尽きるだろうけど、その後ならわたしひとりでも倒せるわ。
-Given Vlov's Lifescale, this city will probably burn to the ground before he gets weak enough for me to be able to take him down alone.
+Although, given his Lifescale,
+ this city will probably have already been burned to the ground by the time I'm able to take him down alone.
 }
 [sha:69a0ca260350c09dcfb5583df055b5b96aa1cadf]{
 -- Page 407, Offset 9660.
 -- 楽をして傍観をする？　それとも―――」
-Do you want to watch idly from the sidelines? Or―――"
+// The trailing それとも――― kinda sucks as just 'or' here, so building in some more structure
+Will you stand back and watch from the sidelines?
+ Or will you do something else?"
 }
 [sha:8db78a8a5aa2092d23861dad9982013b7afcd885]{
 -- Page 408, Offset 9661.
@@ -509,7 +534,8 @@ And so, with all the determination I can muster, I glare at her, my body shudder
 [sha:8811325fc176c02195fda31f0221a6d39edcaa49]{
 -- Page 409, Offset 9665.
 -- これを見ても気が変わらないなんて、あなたもヴローヴのことは言えないかも。
-To think that you'd still be willing to fight even after seeing all that. You're one to talk. You're just as much of a monster as Vlov.
+To think that you'd still be willing to fight even after seeing all that.
+ You're just as much of a monster as Vlov.
 }
 [sha:87c560fb602e3383702a16ca93d7a45e777a1c48]{
 -- Page 409, Offset 9666.
@@ -519,32 +545,36 @@ But what should we do?
 [sha:24ecb1490fdaafb68862b5b172004917ba091f2f]{
 -- Page 409, Offset 9667.
 -- わたしはこのまま始めても構わないけど」
-I don't mind starting with things the way they are, but..."
+// Man this whole exchange is just not great.
+// Doesn't help that it feels like kinda a leap in JP too?
+I'm ready right now if you are, just so you know."
 }
 [sha:603d4a033c9d5878adcb22e5b89fc9a503070d5c]{
 -- Page 410, Offset 9668.
 -- このまま始める……？
-Starting with things the way they are...?
+Wait, what does she mean?
 }
 [sha:c18f3d54b8b6d030a3f73f1ad2a1ed0cb2623316]{
 -- Page 410, Offset 9669.
 -- 戦う場所を移す……いや、場所を変えられるって事か!?
-Is she saying she can move the battlefield... no, that she can %{i}transform%{/i} it?!
+Is she saying she can relocate――
+that she can %{i}transform%{/i} the battlefield somehow?!
 }
 [sha:cb096ebc8909ec6cef8c53ce9296744b83cf31eb]{
 -- Page 411, Offset 9670.
 -- 「なんとかできるのか、あの状況!?」
-"You mean to say you can do something about this situation?!"
+"You mean you can do something about this?!"
 }
 [sha:3ae059238b9ecf0b9b9bf11739a6732cda030669]{
 -- Page 411, Offset 9671.
 -- 「うまくいけば。わたしも<人目|ひとめ>につくのは避けたいし」
-"Yes, if all goes well. I don't want to attract any attention either."
+"Yes, if all goes well.
+ I don't exactly want to draw any attention to myself either."
 }
 [sha:7583e194a9eb795a0fdbeebb09007ea397b3df7e]{
 -- Page 411, Offset 9672.
 -- 「頼む……！　今すぐアイツをたたき出してくれ……！」
-"I beg you...! Please go in and fight him right now...!"
+"I beg you! Please go in and fight him right now!"
 }
 [sha:9e3d0efce7b7623214b1f20aa5eddd16c2094742]{
 -- Page 412, Offset 9673.
@@ -554,12 +584,12 @@ Is she saying she can move the battlefield... no, that she can %{i}transform%{/i
 [sha:75939a8a48cf89f7000fc60af9b92286885b0f6b]{
 -- Page 412, Offset 9674.
 -- あの下、なんか空洞みたいだし」
-There seems to be some kind of hollow space underneath."
+It seems there's some kind of hollow space beneath them."
 }
 [sha:3355ebfa484aff5d37af29972b6e49d6adf24d37]{
 -- Page 413, Offset 9675.
 -- ……待て。下？　落とすってなんだ？
-Wait... She's going to drop them... underground?
+Wait... Underground? What does she mean 'drop'?
 }
 [sha:2bdebbd068190c5d319fe7e62b78c3ec2921dad2]{
 -- Page 413, Offset 9676.
@@ -569,12 +599,13 @@ No, there's no time to be asking questions.
 [sha:ad2ea3b5d2e5bebd291c17bc49fb950e197a4a5a]{
 -- Page 413, Offset 9677.
 -- 今は１秒でも早く、ヤツを街から排除しないと……！
-Right now, we need to get them off the streets as fast as possible...!
+Right now, we need to get them off the streets as fast as possible!
 }
 [sha:d00ef653361fbaa4fc51bb4677160f21c1a7f4ea]{
 -- Page 414, Offset 9678.
 -- 「でも約束は忘れないで。ちゃんと後からついてきてね」
-"But don't forget our promise. Make sure you follow after me."
+"But don't forget our promise, okay?
+ You'd better catch up to me after."
 }
 [sha:5fac67d5bc7737ead3d8abc353f14f7b24f6df25]{
 -- Page 415, Offset 9679.
@@ -594,7 +625,7 @@ Leaving me behind, Arcueid leaps off from the rooftop and into the void.
 [sha:e8c3934eb39819d5f6f65457ceaf9ee9a882d82d]{
 -- Page 416, Offset 9682.
 -- それは、風に舞う白い花のようだった。
-A white flower, dancing in the wind.
+She's like a white flower dancing in the wind.
 }
 [sha:5c9948bbba8ec15aa6b261cca9d51b1f489288d6]{
 -- Page 417, Offset 9683.
@@ -614,7 +645,7 @@ The grounding anchors are raised―――
 [sha:c400916a385d2914a39d5220b3d828a8ace670c5]{
 -- Page 417, Offset 9686.
 -- 落下する筈のものが<緩|ゆる>やかに上昇する。
-And what should have fallen, rises gently instead.
+And instead of falling, she gently rises instead.
 }
 [sha:06b0ee79a0f2c5d68d767f8fa6a44acc741f2688]{
 -- Page 417, Offset 9687.
@@ -631,7 +662,7 @@ This is no cause for surprise.
 -- その化身は<惑|ほ><星|し>の<嬰児|みどりご>にして<写身|うつしみ>。
 // 嬰児 is a term used for homonculi and other artificial humans. It's apparently a shortening of 自然の嬰児, which is a skill found in F/GO. Irisviel's FGO materials explains that it has something to do with a mimicry of nature. It also appears to describe Arcueid in her F/GO profile.
 // 写身 here is a bit tricky.
-She is an avatar of the planet――both its newborn and its mirroring.
+She is an avatar of the planet――both its greenchild and its mirroring.
 }
 [sha:8b076c0171659db89657381517b76772a39ed18a]{
 -- Page 418, Offset 9690.
@@ -676,7 +707,7 @@ The unraveled chains and the raised anchors strike the surface of the earth.
 [sha:f39ef2ae76b3c855e00ab4ff809b18f7565d1457]{
 -- Page 420, Offset 9698.
 -- 眼下には火の粉を散らす石の<楼閣|ろうかく>。
-Below her is a tall, stone building scattering sparks of fire.
+Below her is a tall stone building scattering sparks of fire.
 }
 [sha:73010a7ca6046ce4c20512b3f9e99c7fd84ca698]{
 -- Page 420, Offset 9699.

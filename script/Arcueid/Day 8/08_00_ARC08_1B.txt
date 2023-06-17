@@ -38,7 +38,8 @@ Meanwhile, in the living room...
 [sha:9cbc22a1abd71919dfab72e3ce079125f843f62d]{
 -- Page 26, Offset 19740.
 -- 昨夜の焼き直しのように、ソファーに座る秋葉の姿があった。
-As though reprising her role from last night, Akiha is sitting on the sofa.
+Akiha is sitting on the sofa,
+ as though reenacting her role from last night.
 }
 [sha:59bdbd610c184096877da29ac72b31ef05d6483e]{
 -- Page 27, Offset 19741.
@@ -49,6 +50,8 @@ Kohaku-san is standing a little ways behind her.
 -- Page 27, Offset 19742.
 -- いつもはどんなに刺があろうが、
 // Rearranged a bit across these 3 lines
+// Manually added an @n here because otherwise this just fucking ends midsentence
+// Make sure it stays manually linebroken with line below
 Normally, no matter how prickly of a mood she's in,
 }
 [sha:84309a2d79b60432c6bf2220afa03c7e98a36fe9]{
@@ -133,7 +136,7 @@ Times like these are the true tests of one's mettle.
 [offset:19758]{
 -- Page 32, Offset 19758. Mods: @k, @e.
 -- 俺は、
-I...
+I―――
 }
 [sha:d6ffb5473910527a98da707236fd04eab00ad3e8]{
 -- Page 34, Offset 42644. Choice.

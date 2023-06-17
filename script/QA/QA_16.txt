@@ -22,7 +22,7 @@ didn't even make any choices?'
 [sha:8b978afd2ea7e7b74e61eb6b25d37d5678ccd0bb]{
 -- Page 75, Offset 43456.
 -- と首をかしげる遠野くんをお助けする
-It's time for 'Teach Me, Ciel-Sensei!', the QA corner%{n}
+It's time for 'Teach Me, Ciel-Sensei!', the Q&A corner%{n}
 }
 [sha:b02fdccaa6c6512e0f2580d287baf6a5ccfd1f1a]{
 -- Page 75, Offset 43457.
@@ -135,7 +135,7 @@ Four-eyes' motivation. I need to get this patched stat.
 [sha:0a8db89cb4db2271b93f6413f86f50a48c00c4de]{
 -- Page 86, Offset 43477.
 -- アルクと一緒にシエルを倒すルートをください』と……
-down Ciel together during the Arc Vs Ciel fight%{n}
+down Ciel together during the Arc vs Ciel fight%{n}
 on day nine.'
 }
 [sha:6d38e23a10d7bca0ae8f10e74ae1c772f2c01af9]{
@@ -228,12 +228,13 @@ We gotta make sure we choose Arcueid!
 -- Page 95, Offset 43494.
 -- ――数時間後――
 // lint-off:LintEmDashes
+// My game softlocks here and doesn't show the last two lines
 ――Several hours later――
 }
 [sha:e941d89b9f637816f5366d160e36569033efe040]{
 -- Page 96, Offset 43495.
 -- ほら。だから言ったでしょう？
-See, I warned you didn't I?
+See, I warned you, didn't I?
 }
 [sha:4140e3d11b08b0522b2f1112e55a0e558a8b0c39]{
 -- Page 97, Offset 43496.

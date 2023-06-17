@@ -59,10 +59,10 @@ That's right...
 -- 「ああもう、うるさい！」
 "Ahh, shut up already!"
 }
-[sha:d59c403d248ff027c9d2028e8454128af4534d82]{
+[offset:8421]{
 -- Page 99, Offset 8421.
 -- 「―――!?」
-"―――?!"
+"%{i}Gh%{/i}?!"
 }
 [sha:8716759f743823929ab361e1b4c487c5ecbb58ee]{
 -- Page 99, Offset 8422.
@@ -82,12 +82,13 @@ What a terrible chill.
 [sha:bb3ff7a3b376da68ecc94dceec1bd00dd07b9381]{
 -- Page 99, Offset 8425.
 -- 睨まれただけで、本当に心臓が止まるかと、思った。
-Her glare alone was enough to make me feel like my heart would stop.
+Her glare alone is enough to make me feel like my heart's about to stop.
 }
 [sha:aaba453640d4446e421e4567e942dc4e66d57d40]{
 -- Page 100, Offset 8426.
 -- 「勘違いしないで。あなたはわたしを殺したの。
-"Don't get me wrong. You killed me.
+"Don't get the wrong idea.
+ You killed me.
 }
 [sha:b97d754d0341e7695cdef9d35d8ed97a3293bf31]{
 -- Page 100, Offset 8427.
@@ -98,7 +99,7 @@ By all rights, I ought to pull your head off right here,
 [sha:0a59c21fe35686d918d5b9db27d1997fa25d0582]{
 -- Page 101, Offset 8428.
 -- 「―――――、あ」
-"―――Ah."
+"―――%{i}Ah%{/i}."
 }
 [sha:4444568c78d58b997973225d2a3511bb133a09c6]{
 -- Page 101, Offset 8429.
@@ -108,7 +109,7 @@ What I'm about to say is no exaggeration.
 [sha:034dbfa3737c76b59d814a2ed7f8ec745e9e7735]{
 -- Page 101, Offset 8430.
 -- ただ睨まれただけで、世界は無音の荒野に変貌した。
-With just a stare, the world is transformed into a silent wasteland.
+Her stare is enough to transform the world into a silent wasteland.
 }
 [sha:c59d179c467f026852b78a7b0a0b0bf30a0a6cdc]{
 -- Page 102, Offset 8431.
@@ -144,7 +145,7 @@ I can't breathe properly.
 [sha:aa1bcc72f4304d34a1c979ecc1c8cf512c7dc361]{
 -- Page 104, Offset 8437.
 -- いや、呼吸なんて余分な動作は許されない。
-No, my body won't even let me make %{i}any%{/i} unnecessary movements.
+No――my body won't even let me move at all.
 }
 [sha:79f35c39e93a05023eb4e35632a757972c1dc494]{
 -- Page 104, Offset 8438.
@@ -170,7 +171,7 @@ My limbs are straining, desperate to flee this instant.
 [sha:aa85f606f309e59a2c21d1aa0dbca9f669589980]{
 -- Page 105, Offset 8442.
 -- ―――だって俺は死にたくない。
-                             ―――I don't want to die.
+%{align_right}―――I don't want to die.
 }
 [sha:cb068bb4645d3eae5196165fc37a56696d330f78]{
 -- Page 105, Offset 8443.
@@ -180,7 +181,7 @@ I do my utmost to keep my thoughts in order.
 [sha:aa85f606f309e59a2c21d1aa0dbca9f669589980]{
 -- Page 105, Offset 8444.
 -- ―――だって俺は死にたくない。
-                             ―――I don't want to die.
+%{align_right}―――I don't want to die.
 }
 [sha:324487b8f427085557082ea1ac150b5562ce0e66]{
 -- Page 106, Offset 8445.
@@ -205,7 +206,7 @@ But if I make a sound, my limbs will be done for.
 [sha:8f572f5c1938b35f8b1037ff3918533f7dfd3a00]{
 -- Page 106, Offset 8449.
 -- ―――なんだ。どうあっても殺される。
-        ―――That's it. I'll be killed no matter what.
+%{align_right}―――That's it. I'll be killed no matter what.
 }
 [sha:3a089a46ee2b8270746e19ca1e3eb8961162c5d3]{
 -- Page 107, Offset 8450.
@@ -225,7 +226,7 @@ I feel chills as my mind is whittled down and endlessly folded in on itself.
 [sha:6a8212747b2545344a0a26d04cfcf23d000317cb]{
 -- Page 108, Offset 8453.
 -- 永遠に続くかと思われたそれは、けれど唐突に終わってくれた。
-Just as I began to think that this would go on forever, I'm suddenly released.
+Just as I begin to think that this will go on forever, I'm suddenly released.
 }
 [sha:a20dd0e212289efcd42056831ab9451febe9e8d2]{
 -- Page 109, Offset 8454.
@@ -250,7 +251,7 @@ Thank goodness... I'm still alive.
 [sha:0fd4d6a2d6e904d62c77d39ca54fe5d612cb49ff]{
 -- Page 111, Offset 8458.
 -- 「どう？　少しは自分の立場、分かってくれたかしら」
-"How about it? I hope you understand your position a little better now that I've made it clear to you."
+"Well? I hope you understand your position a little better now."
 }
 [sha:711f3522b44ea2e267d36cfbf7b3423b9b0e2f12]{
 -- Page 112, Offset 8459.
@@ -307,7 +308,7 @@ The woman holds out her hand to me as I kneel on the ground.
 [sha:635382ea5817fe1d87e546dc9a8efa4650575618]{
 -- Page 116, Offset 8469.
 -- <真祖|しんそ>って区分けされる吸血鬼だけど、あなたはなんていう人？」
-I'm from the %{i}True Ancestor%{/i} caste of vampires, what sort of human are you?"
+I'm from the True Ancestor caste of vampires, what sort of human are you?"
 }
 [sha:f1b42a138bc14d1d47fa6f3133845201d00fe90c]{
 -- Page 117, Offset 8470.
@@ -318,7 +319,7 @@ I heave a sigh as I'm subjected to a self-introduction unlike any I've ever hear
 -- Page 117, Offset 8471.
 -- ……諦めのため息というか、このデタラメな状況を受け入れてしまった証というか。
 I'm not entirely sure whether it's a sigh of exhausted resignation,
- or evidence that I've finally accepted this unbelievable situation.
+ or evidence that I've finally accepted this ludicrous situation.
 }
 [sha:137d250dc86b9a565a94018144dea4fc0e14cd03]{
 -- Page 118, Offset 8472.
@@ -375,5 +376,6 @@ But there's nothing I can do about it.
 [sha:e03bca3d63302d606c991b4fe8b86719cb702b19]{
 -- Page 122, Offset 8482.
 -- 俺は嫌々ながら左手を差し出して、吸血鬼と名乗る白い女と握手をした。
-I reluctantly hold out my left hand and shake hands with the woman in white who calls herself a vampire.
+// Sinister shake
+I reluctantly hold out my left hand and shake hands with the woman in white who claims to be a vampire.
 }

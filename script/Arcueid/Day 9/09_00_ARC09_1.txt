@@ -1,7 +1,7 @@
 [offset:21292]{
 -- Page 1, Offset 21292.
 -- ―――白。
-―――White.
+White.
 }
 [sha:864c5094838cb9f5c6e6d5e5e38a398670be4094]{
 -- Page 1, Offset 21293.
@@ -53,19 +53,19 @@ The cicada chorus.
 -- Page 3, Offset 21302. Mods: @k, @e.
 -- みーん　みんみん
 // lint-off:LintDupedWord
-%{i}Chiiiirp    chirp chirp.%{/i}
+%{i}Chiiiirp    chirp chirp%{/i}.
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 3, Offset 21303. Mods: @k, @e.
 -- みーん　みんみん
 // lint-off:LintDupedWord
-%{i}Chiiiirp    chirp chirp.%{/i}
+%{i}Chiiiirp    chirp chirp%{/i}.
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 3, Offset 21304. Mods: @k, @e.
 -- みーん　みんみん
 // lint-off:LintDupedWord
-%{i}Chiiiirp    chirp chirp.%{/i}
+%{i}Chiiiirp    chirp chirp%{/i}.
 }
 [sha:e68aca0d69305b2ebbd41cccf4a7080935cf636d]{
 -- Page 3, Offset 21305.
@@ -80,7 +80,7 @@ The husks of cicadas litter the open ground.
 [sha:045b9de947d69135540d7585916cdb903fab392e]{
 -- Page 3, Offset 21307.
 -- たいようはすぐそばにあるようで、
-This clearing is slowly being burned away―――
+The clearing is slowly being burned away―――
 }
 [sha:9e5804d06f92c5105f66949acc6e6a978544fde7]{
 -- Page 3, Offset 21308.
@@ -166,7 +166,8 @@ My hands are red. Red with the blood of the living being collapsed in a heap on 
 [sha:cc89877db10b4a86937fe75eec65206ad16243f0]{
 -- Page 6, Offset 21324.
 -- 「■■―――――！」
-"■■―――!"
+// シキ
+"■■!"
 }
 [sha:822c8e7d86088958378b8d76d608aaed962dfc70]{
 -- Page 6, Offset 21325.
@@ -245,17 +246,17 @@ Even now, I still don't understand it.
 [sha:65c61d22b7bf8a256296bbabfcea32c3e0d30079]{
 -- Page 9, Offset 21339.
 -- 殺せるモノを殺して、
-Killing those you can kill―――
+Killing those you can kill.
 }
 [sha:c1775e3da55437da381883b1374849f031a922ca]{
 -- Page 9, Offset 21340.
 -- 生きてるモノを殺して、
-killing those that live―――
+Killing those that live.
 }
 [sha:bb391b2cb9a009fe3bbd3c44ee166c5a50c5b7a3]{
 -- Page 9, Offset 21341.
 -- いったい、何が悪かったというんだろう―――？
-what exactly is wrong with that―――?
+What exactly is wrong with that?
 }
 [sha:87e3ff11b95f4d0723a51b48ac9988da9df5a9e7]{
 -- Page 10, Offset 21342.
@@ -265,8 +266,7 @@ I open my eyes.
 [sha:461dd78a7240def0119d6acd78df243038b2f787]{
 -- Page 10, Offset 21343.
 -- よく意味の分からない、懐かしいユメを見ていた気がする。
-I feel like I just saw quite a nostalgic dream.
- One I couldn't fully understand.
+I'm pretty sure I just had some nostalgic, yet incomprehensible dream.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 11, Offset 21344.
@@ -281,9 +281,9 @@ I'm in my room.
 [sha:06746141b18102fec68a35621f136a875aeeb6eb]{
 -- Page 11, Offset 21346.
 -- あの後―――正門あたりで記憶は途切れているが、どうにかしてこの部屋まで戻ってきたようだ。
-After the events of last night...
- My memories of what happened by the main gate are a little hazy,
- but it seems like I managed to make it back to my room, one way or another.
+// あの後 structure kinda bad in EN, sentence just rearranged a bit
+I can't remember anything that happened last night after I made it to the main gate,
+ but it seems like I must have managed to make it back here somehow.
 }
 [sha:3f70bfecd7af0c2d415bef4f85ce32d096d7c6df]{
 -- Page 12, Offset 21347.
@@ -299,7 +299,7 @@ Last night's events come back to me in a jumbled mess.
 -- Page 12, Offset 21349. Mods: @k, @e.
 -- 何もかもあり得ない事ばかりで整理できないが、特に思い返すとしたら、それは、
 Everything was so ridiculous that it's hard for me to put my thoughts in order,
- but if there's one thing that stands out, it's...
+ but if there's one thing that stands out, it's―――
 }
 [sha:263fb19b278b927c9ef4ecbb693c1ec2607c8b13]{
 -- Page 14, Offset 42658. Choice.
@@ -316,5 +316,5 @@ Everything was so ridiculous that it's hard for me to put my thoughts in order,
 [sha:ae26082f5e5c708fcc75d4578ac8ae4851fe78ab]{
 -- Page 14, Offset 42660. Choice.
 -- ノエル先生……の事だ。
- ...Noel-sensei.
+ Noel-sensei...
 }

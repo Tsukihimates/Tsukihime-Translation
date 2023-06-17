@@ -1,7 +1,7 @@
 [sha:ec75e1e1349d7e448cb75c77db7dbde3d23075a4]{
 -- Page 10006, Offset 35797.
 -- 敵の首元を刈り取るナイフを止める。
-I stop my knife from reaping the enemy's neck.
+I stay the knife that's poised to reap the enemy's neck.
 }
 [sha:ed60bbb1614bf1691b04c15d5c49449653f6272e]{
 -- Page 10006, Offset 35798.
@@ -11,62 +11,72 @@ I just let a once-in-a-lifetime opportunity pass me by.
 [sha:23d6ef6e7e47990984d042ad36cc5593bab5220d]{
 -- Page 183, Offset 35799.
 -- 俺は一度目の衝突を<反復|リピート>するように、吸血鬼の末端部分……今度は膝だった……を躱しきれず、荒れ地に弾き飛ばされた。
-As though repeating the same collision as the first, she uses her limbs... this time, her knee... to blow me all the way back to the wasteland.
+I feel a sense of deja-vu...
+ Just like our first clash,
+ the vampire lands a hit on me――this time with her knee――and sends me flying backwards across the wasteland.
 }
-[sha:0f2c70a3c04ff2d7be23f862c3707474a8e66d69]{
+[offset:35800]{
 -- Page 184, Offset 35800.
 -- 「っ…………！」
-"......!"
+"%{i}Hrgh%{/i}!"
 }
 [sha:19cf93685e1a740a006263ebd628c34eb187d8d6]{
 -- Page 184, Offset 35801.
 -- 左手はもう使い物にならない。
-I can't use my left hand anymore.
+My left hand is a complete wreck.
 }
 [sha:9f53af12ec1e8ce6086970469bd1901df4b12644]{
 -- Page 184, Offset 35802.
 -- 肩に付いているのが不思議なぐらいの<挽肉|ミンチ>ぶりだ。
-The only thing attached to my shoulder is this curious lump of ground meat.
+Everything below my shoulder has become some kind of bizarre mincemeat.
 }
 [sha:4ca00fbbab1db9ed9f5e1f7e47d9e1d843a8ea01]{
 -- Page 185, Offset 35803.
 -- 出血がひどくて意識が遠のく。この分じゃすぐに呼吸ができなくなる。唯一の幸運といえば、体温はとっくに冷めていたので寒さに震える事はないぐらい。
-I'm losing so much blood that I can feel my consciousness growing distant. I'll probably lose the ability to breathe before long. The one saving grace here is that my body temperature already plummeted long ago, which means I don't have to worry about shivering from the cold.
+I've lost so much blood that my vision is starting to swim.
+ At this rate, it won't be long before I stop breathing altogether.
+ The one saving grace is that my body temperature had already plummeted ages ago,
+ so at least I'm not shivering from the cold.
 }
 [sha:543fae3d3e42f63ed9b5ae866f33dd35b6bf1f32]{
 -- Page 186, Offset 35804.
 -- 文句のつけどころがないほど完全な死に体だ。
-This is a completely and utterly hopeless situation, no matter how you look at it.
+It wouldn't be far off to say I'm already a corpse in this condition.
 }
 [sha:ff605b7c9581f2b37411493a36c662cac668c042]{
 -- Page 186, Offset 35805.
 -- 仕方がない。今のはこうなる事を前提にして呼びこんだ唯一の殺害の機会だった。
-Well, what did I expect. I managed to create an opportunity to take her down, knowing that I would end up like this as a result.
+// He went into it knowing it was a suicide charge, and that he would "die", as per the above line, thus he doesn't really care about his current state.
+Well, it is what it is.
+ That was my one chance to kill her, and I went into it knowing full well I'd end up like this even if I did.
 }
 [sha:643d5952f17756693e1bd656a5442505b78cb2d9]{
 -- Page 186, Offset 35806.
 -- それを自分から放棄した時点で、残るものは死の運命だけだった。
-My fate was sealed the moment I let that opportunity slip past me.
+After I threw away that chance,
+ my own death was the only remaining outcome.
 }
 [sha:bb1d46dafd86a948de029c8d73f78604149a1bca]{
 -- Page 186, Offset 35807.
 -- あの吸血鬼は、
-She's―――
+As for the vampire―――
 }
 [sha:9f6cea7176643803c09b2f1cf049007e05bd578d]{
 -- Page 187, Offset 35808.
 -- 俺から10メートル以上離れた場所で、首に何度も手を当てて確かめていた。
-She's standing over ten meters away from me, frantically using her hands to examine her neck.
+She's standing over ten meters away,
+ frantically probing at her neck with her fingers.
 }
 [sha:f00ad67e83a6f2050d69e1faa4cfb99b613db13e]{
 -- Page 187, Offset 35809.
 -- 恐怖に凍った顔で、ちゃんと自分の首が付いている事を。
-With a face stiff with fear, she thoroughly checks to see if her neck is still attached.
+Her face frozen in fear,
+ she checks and double-checks that her head is still on her shoulders.
 }
 [sha:420d7da85e5e9ea54194c884ee8922d5c1217a3c]{
 -- Page 188, Offset 35810.
 -- 「えっと―――いま、もしかしてヤバかったの……？」
-"Wait――I almost died just now, didn't I...?"
+"Um... Did I――almost die just then?"
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 188, Offset 35811.
@@ -81,112 +91,145 @@ I don't have any obligation to answer her.
 [sha:39565659b4e9397816de1ac549875873a612b821]{
 -- Page 188, Offset 35813.
 -- もう二度とあんな機会が訪れないだけだ。
-Simply put, I'll never get a chance like that again.
+But I know I'll never get a chance like that again.
 }
 [sha:6db15e916350938bed4913e47e8db6ad4f28504e]{
 -- Page 189, Offset 35814.
 -- 「待って。待ってよ。待ちなさいよ。どういうコト？　情け？　情けをかけやがったの？　ピンに刺されるだけの虫のクセに、こんなに強くなったわたしを、まだ下に見るっていうの!?」
-"Wait. Hold on. Just hold on a minute. Why did you do that? Pity? Are you taking pity on me? You're just a bug that's stuck on a pin, and you're looking down on me even though I'm this powerful?!"
+// This supposed to be like an entomology pin, or one of her spires?
+"Hold on.
+ Wait a second.
+ Wait just one fucking second!
+ Why did you do that?
+ Pity?
+ You're still looking down on me?!
+ You, an impaled, pathetic bug writhing on a pin?
+ Even after I've become this strong?!"
 }
 [sha:ba3b672f5be7d5485ebcc2bb01eecf1a55fe23d5]{
 -- Page 10007, Offset 35815.
 -- 「そ……そうよね。そんなワケ、ないわよね。
-"R-right. There's no way that'd ever happen.
+// Secret "be nice to Noel" page
+"N-No, of course I didn't.
+ There's no way, right?
 }
 [sha:570b763ad076f066409528497373b102f25bfa70]{
 -- Page 10007, Offset 35816.
 -- だってわたしの方がずっと強いんだから。吸血鬼としてもわたしの方が上なんだから。キ、キミなんかに、怯えてなんかないんだから！」
-I'm way stronger than you, after all. Even though you're a vampire, I'm still stronger than you. I-I'd never be afraid of someone like you!"
+I mean, I'm way stronger than you are.
+ Even if you're a vampire too, I'm still stronger!
+ I-I'd never be afraid of someone like you!"
 }
 [sha:295e5a9266cd5531c0936a32dff58392e17a097d]{
 -- Page 10008, Offset 35817.
 -- 吸血鬼は<喚|わめ>きながら柱の上まで飛びあがると、忌まわしい虫を見るように俺を睨んだ。
-She flies to the top of the pillar as she shouts, before scowling at me like I'm some sort of disgusting insect.
+Still shrieking, she leaps back up to the top of the pillar,
+ and then scowls back down at me like I'm some sort of disgusting insect.
 }
 [sha:038f259e09ede66eaa711bd711ac0c68b2f9f1df]{
 -- Page 192, Offset 35818.
 -- 「もういい、遊びは終わりよ。そこでみじめな肉になっちゃえ」
-"Well whatever, playtime's over. Now I'll turn you into a miserable little lump of flesh."
+"That's it, playtime's over.
+ Enjoy getting ripped into sorry little scraps of meat!"
 }
 [sha:c1754185e2b55addfd211b8f6b01ae8296b45405]{
 -- Page 192, Offset 35819.
 -- ……<鉄柵|ボーダー>を越えて死者たちがやってくる。
-...The Dead begin crossing over the border.
+The Dead start crossing over the fence, and heading my way...
 }
 [sha:c20c01f7e40e3d7331e01445d972b2aec39490ea]{
 -- Page 193, Offset 35820.
 -- 「……ほんと今さらだけど。
-"...I may be a bit late in saying this, but,
+"I know it's a little late to be saying this, but...
 }
 [sha:686081c407eea9adb488ae916e76b97e743807d7]{
 -- Page 193, Offset 35821.
 -- アンタのそういうところは、素直に凄いと思うよ」
-this really is the kind of thing that I can imagine you doing."
+// I guess そういうところ is cowardice?
+I honestly do admire that side of you."
 }
 [sha:6ffbaf62f72169b4619f28e32b50d76649d86533]{
 -- Page 194, Offset 35822.
 -- だってこれが最善策だ。
-After all, this really is the perfect plan.
+After all, this is the perfect strategy.
 }
 [sha:b80ce2b04d1a29566c5356340212189aa1bc4db1]{
 -- Page 194, Offset 35823.
 -- 俺に近づかれれば何であれ死ぬ可能性がある。
-There's always going to be a possibility that she'll end up dying if she tries to approach me.
+Anything that gets close to me runs the risk of getting killed.
 }
 [sha:83f73028f9415af27f050a9b796d1d8700d5fd40]{
 -- Page 194, Offset 35824.
 -- それを実感したのなら、死が怖いのなら、俺と白兵戦なんてする筈がない。遠くから射殺するか、こうして数に任せて持久戦に持ち込むのが正しい。
-Because she realizes that and she's afraid of dying, there's no way she'd ever engage me in close combat. Which means she can either try to pick me off from long range, or rely on numbers and turn this into a battle of attrition.
+If she understands that now,
+ then given her fear of death,
+ there's no way she's going to engage me in close combat.
+ Instead, her best options are to either pick me off from a distance,
+ or turn this into a battle of attrition and try to overwhelm me with numbers――which is exactly what she's doing.
 }
 [sha:ae4b0ac568b67330992de8cc54f9e9dfbe63c380]{
 -- Page 195, Offset 35825.
 -- あの吸血鬼は力に溺れながらも、自分の器というものが分かっている。臆病さは<生存|サバイバル>において大切なパラメーターだ。
-Although she's drunk with power, she also recognizes the limits of her own capabilities. Cowardice is an important parameter when it comes to survival.
+// Hell yeah go cowards
+Even though she's drunk with power,
+ she still recognizes the limits of her own abilities.
+ Cowardice is an important parameter when it comes to survival.
 }
 [sha:8f8f630e674709e10d1fdbfd26c2656921f0fc44]{
 -- Page 195, Offset 35826.
 -- 俺と真っ向から斬り合う酔狂なヤツは、既に死んでいる怪物か、死を知らないかデタラメなヤツか、恐怖を飲み下して戦える人間だけだ。
-The only beings that are crazy enough to fight me head-on are monsters who are already dead, fools who don't know death, and people who are able to overcome their own fears.
+The only beings that are crazy enough to fight me head-on are monsters who are already dead,
+ ludicrous weirdos who can't die,
+ and people who are able to overcome their own fears.
 }
 [sha:9fa59f58463cdcb1fa52fb290fcfe50b3ae50feb]{
 -- Page 196, Offset 35827.
 -- 「あとは俺の体力次第か。……くそ。生きたまま食べられるのって、痛いんだろうなぁ……」
-"So now it all depends on my own stamina, huh... Shit. I wonder if it hurts to be eaten alive."
+"I guess it's all down to my stamina now, huh.
+ Shit...
+ I bet it hurts like hell to get eaten alive."
 }
 [sha:6de84a17f47d69816304c50b8b84997a945c505a]{
 -- Page 196, Offset 35828.
 -- ナイフを握り直す。
-I fix my grip on the knife.
+I adjust my grip on the knife.
 }
 [sha:5953ddbcf78c2dceae83bc651fd0fb5abc0d6c59]{
 -- Page 196, Offset 35829.
 -- 俺はあの鉄柵には近寄れない。跳び越えたところで、それこそ煙に巻かれた蚊のように墜落するだけだ。
-I can't approach the iron fence. Even if I tried to jump over it, I would simply end up crashing to the ground like a befuddled mosquito.
+// Assume this metaphor is about citronella sticks. Not really as known in the west, so kinda localized.
+I can't get too close to that iron fence.
+ If I tried jumping over it, I'd just come crashing down to the ground like a fly that got too close to a bug zapper.
 }
 [sha:6518ccb865eabe7741256ef45b74d72a3012a176]{
 -- Page 197, Offset 35830.
 -- 包囲網を狭めてくる死者たち。
-The Dead encircle me and draw near.
+The Dead encircling me draw closer.
 }
 [sha:30718dc244a3f74ecfea23cfac15be77864806e3]{
 -- Page 197, Offset 35831.
 -- ……さて。吸血鬼の体力なら、うまく立ち回って20体はいけるかもしれない。その先は暗黒だ。お先真っ暗、生きている未来像がこれっぽっちも見えてこない。
-...Now then. Assuming I have the stamina of a vampire, I should be able to deal with the first twenty of them as long as I don't slip up. Beyond that though, the prospects are dim; so dim that I can't even envision a future where I come out of this alive.
+Now then...
+ Since I have the stamina of a vampire now, I should be able to handle the first twenty or so if I play my cards right.
+ Beyond that though, the prospects are dim.
+ So dim that I can't make out a future in which I get out of here alive.
 }
 [sha:1dba372f12f29f5f0136c5bbc80b6b6033d4c25d]{
 -- Page 198, Offset 35832.
 -- なんだって俺は手を止めたのか。本当に分からない。
-Why didn't I finish her off back then? I honestly don't really know.
+I wonder why I didn't finish her off back then...
+ I don't really understand it myself.
 }
 [sha:27a4c9c96115f2ac3ee57bbf379fd18de0a28789]{
 -- Page 198, Offset 35833.
 -- ただ、あの吸血鬼と決着をつけるのは俺ではいけない気がしただけだ。
-It's just that... I had a feeling that I mustn't be the one to settle things with that vampire.
+It's just...
+ I had a feeling that I shouldn't be the one to settle things with that vampire.
 }
 [sha:940f6f564cccdb18350442a2a80efa0598e18a1e]{
 -- Page 199, Offset 35834.
 -- 「っ、は―――！」
-"Kh, hah―――!"
+"%{i}Kh%{/i}, %{i}hah%{/i}―――!"
 }
 [sha:d34cb6ce4cf18cc468e147f0c748a9cd90a51f12]{
 -- Page 199, Offset 35835.
@@ -201,5 +244,6 @@ Besides, I can't allow myself to die in a place like this.
 [sha:b3a513ffae31eb20e1dd87736ab6a93d9215b12c]{
 -- Page 199, Offset 35837.
 -- 俺は残り少ない血液と意識をかき集めて、覆い被さってくる死者の壁を切り裂いた。
-I gather my final remnants of blood and consciousness, and begin cutting away at the looming wall of Dead before me.
+I muster every sliver of consciousness and blood left in me,
+ and begin cutting away at the looming wall of Dead bearing down on me.
 }

@@ -92,12 +92,12 @@ Ciel mechanically advances on the blind spot that will spell Roa's inevitable de
 [sha:5630be87ba37db84f2a112f43efcdfb3c0f80edc]{
 -- Page 264, Offset 32393.
 -- 周囲の情報は感知魔術によって把握していた。
-Through Detection Magecraft, she can sense what's going on around her.
+Through detection magecraft, she can sense what's going on around her.
 }
 [sha:9a571803ab01423f50d19b12bb196feea538f5f0]{
 -- Page 265, Offset 32394.
 -- ロアは体育館に多数の魔術式を敷いて待ち構えている。
-Roa lies in wait in the gym, surrounded by the vast number of Magecraft Formulas he's inscribed.
+Roa lies in wait in the gym, surrounded by the vast number of magecraft formulas he's inscribed.
 }
 [sha:0564373c8d8349502ae9d9044253add6783ad12b]{
 -- Page 265, Offset 32395.
@@ -112,7 +112,7 @@ Sparks crackle across the concrete face of the building.
 [sha:7f2b4a0503846bbea0b1ab8d39890e9dc687ab4a]{
 -- Page 266, Offset 32397.
 -- ロアがここまで貯蔵した<魔|オ><力|ド>と、
-Od... the magical energy that Roa has been gathering up until now―――
+His Od――the magical energy that Roa has kept in store up until now―――
 }
 [sha:56b0bf6f1be606d72298fc24805698797bc0a76c]{
 -- Page 266, Offset 32398.
@@ -195,12 +195,12 @@ Its outer skin is as hard as bark, yet still as supple as leather.
 [sha:56c0539ba29df7b597db96b706286d50e70c3a37]{
 -- Page 271, Offset 32413.
 -- だらしなく肥大化した腹部。
-Its abdomen is distended and misshapen.
+Its abdomen is bloated and misshapen.
 }
 [sha:fe2724049a2ace4f86db6ed5f44719e482ebbb7a]{
 -- Page 271, Offset 32414.
 -- その腹部から伸びた六本の脚。
-Six legs protrude from that abdomen.
+From it protrude six legs.
 }
 [sha:e9c545096a5e32f4bddc4d498f9ccf9ffe949097]{
 -- Page 271, Offset 32415.
@@ -210,12 +210,12 @@ Claws and tusks like those of a colossal dinosaur jut from the lump on its right
 [sha:75c9c4781489ab1bd4e38544eba358d9ae57ccac]{
 -- Page 272, Offset 32416.
 -- 蜘蛛に酷似した下半身。
-Its lower body resembles a spider.
+Its lower body resembles a spider―――
 }
 [sha:73b7830f1bfc2f1a3eb0632fce842b072c4a28d8]{
 -- Page 272, Offset 32417.
 -- 人間に類似した上半身。
-Its upper body resembles a human.
+While its upper body looks almost human.
 }
 [sha:8ae60f8414dd6816e600d17902c2ca24adb671b5]{
 -- Page 272, Offset 32418.
@@ -355,6 +355,7 @@ She immediately switches gears, focusing on her new target.
 [sha:9d4ed8ece1a414b700d040ef67a891e9fd2b9726]{
 -- Page 281, Offset 32444.
 -- 「[ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00]―――」
+%{no_break}
 "[ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00]―――"
 }
 [sha:ea65c87c92bd14423aed74ab85204c17ad1a507c]{
@@ -374,10 +375,10 @@ The shaking of the building doesn't seem to faze it at all.
 -- 正体不明の怪物は、８メートル離れたシエルに向け、そのおぞましい多腕をかざし、
 Now only eight meters away, the unknown monster aims its collection of disgusting arms at Ciel.
 }
-[sha:adf74d84f1ad5a2bf5d8c82dc6f70590d283ed0e]{
+[offset:32448]{
 -- Page 283, Offset 32448.
 -- 「ッ……！」
-"...!"
+"%{i}Gh%{/i}?!"
 }
 [sha:14920a5a534b6f0efc72d6439a132291d68494b8]{
 -- Page 283, Offset 32449.
@@ -392,7 +393,7 @@ Recognizing the stench they give off as that of a Dead Apostle, Ciel manages to 
 [sha:bd72dc27e4af04c6aa66295531d6f8e71f0a1ceb]{
 -- Page 284, Offset 32451.
 -- 「新種の<屍鬼|グール>、なんですね……！」
-"So this is a new species of Ghoul...!"
+"So this is a new species of Ghoul!"
 }
 [sha:b7f32a81b310296f629f7c1c8ece4959c64a4064]{
 -- Page 284, Offset 32452.
@@ -481,7 +482,7 @@ As she studies its movements, she begins to piece together her plan of attack.
 -- Page 290, Offset 32468.
 -- あの巨大屍鬼は移動砲台のようなものだ。
 // TL'd this way to emphasize the artillery nature, since 砲台 seem more like pillboxes than a castle
-That enormous Ghoul is like a mobile gun emplacement.
+That enormous Ghoul is like a mobile artillery platform.
 }
 [sha:fa6ef62f680887a060956d8d27460e1b01363319]{
 -- Page 290, Offset 32469.
@@ -524,7 +525,7 @@ The enormous left arm goes against the entire concept of that Ghoul.
 [sha:a1dd2b68a79c670586757e846b4657caefe38d53]{
 -- Page 292, Offset 32476.
 -- 全体のバランスを崩し、移動にも悪影響を与えている。
-It throws the whole body off balance, and actually ends up hindering its own movement.
+It throws the whole body off-balance, and actually ends up hindering its own movement.
 }
 [sha:002c5b3643eab47ffee39319ccf1d966177ad076]{
 -- Page 292, Offset 32477.
@@ -535,6 +536,7 @@ If that left arm had been identical to its right, it would have made for a much 
 [sha:a7f59644ead6cdfe9f07076b057bd647a59bd61e]{
 -- Page 293, Offset 32478.
 -- 「[ber00][ber00][ber00][ber00][ber00][ber00]―――！」
+%{no_break}
 "[ber00][ber00][ber00][ber00][ber00][ber00]―――!"
 }
 [sha:9a8630179081ef520c0bf4bb74edf309522116e4]{
@@ -597,7 +599,8 @@ The enemy is wholly unknown.
 [sha:ec51f1aa2bbdee4eac3d0ec3088c1483d86e1d15]{
 -- Page 297, Offset 32490.
 -- 上級死徒に匹敵する性能である事も考慮して、
-Its abilities rival those of Greater Dead Apostles.
+// Seems unlikely it refers to Rank VII here
+Its abilities rival those of higher-ranked Dead Apostles.
 }
 [sha:0ba82581d6d3141113d4fbe0cd7770b684172739]{
 -- Page 297, Offset 32491.
@@ -612,7 +615,7 @@ Just how long will it take to kill it so utterly that it can no longer regenerat
 [sha:e3a3c5ac3a4f5979d975e9b3849915591d62b753]{
 -- Page 297, Offset 32493.
 -- 「―――10分。それ以上は使えない……！」
-"―――Ten minutes. I can't afford to take any longer...!"
+"―――Ten minutes. I can't afford to take any longer!"
 }
 [sha:dc3a08d2004d83fc9d4de7a29af883c7191978cf]{
 -- Page 298, Offset 32494.
@@ -622,7 +625,7 @@ The Executor's magecraft scorches the Ghoul's body.
 [sha:47a9e448b553ade72929ac916ba1f087b4d28bbb]{
 -- Page 298, Offset 32495.
 -- 一撃で大型動物の身体機能を停止・破壊する雷撃を受けながら、屍鬼は後方に跳躍し、代行者との戦闘を続行する。
-Despite taking a lightning strike that would have obliterated the body of even the largest of animals head on,
+Despite taking a lightning strike that would have obliterated the body of even the largest of animals head-on,
  the Ghoul leaps backwards and continues to engage in battle with the Executor.
 }
 [sha:78df41e14970b95876779a0b1d397df2c9e8420f]{

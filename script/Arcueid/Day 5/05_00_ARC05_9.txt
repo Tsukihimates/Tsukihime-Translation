@@ -6,17 +6,17 @@
 [sha:67efbe05c924294bfcf7ec21fb74072483646404]{
 -- Page 10019, Offset 10109.
 -- 肌を切りつける冷気。
-The cold air cuts my skin.
+The cold air pierces my skin.
 }
 [sha:68856d3e29ee7ff6b7b7d286daa46994136b16a6]{
 -- Page 10019, Offset 10110.
 -- 低下していく体温。
-My body temperature drops.
+My body temperature starts to plummet.
 }
 [sha:f303047f67145b53595d74ccc50b1e1e24a066a8]{
 -- Page 10019, Offset 10111.
 -- <た|・><だ|・><生|・><き|・><る|・>事さえ困難な極寒。
-The intense cold makes it difficult just to %{i}survive%{/i}.
+The cold is so intense that it's difficult just to %{i}survive%{/i}.
 }
 [sha:2c8bc31082f985d4f6a0a41541bef0f552f6dc9e]{
 -- Page 10019, Offset 10112.
@@ -37,7 +37,7 @@ Corpses swarm toward Arcueid.
 [sha:161949997ca865854873f5b9a7ed662f1e3382d5]{
 -- Page 563, Offset 10115.
 -- 極寒において真夏を連想させる行列。
-A procession that calls to mind midsummer in the face of this extreme cold.
+A midsummer parade set in the heart of winter.
 }
 [sha:e07d9a158f2978fc0d058143be939c523301788d]{
 -- Page 563, Offset 10116.
@@ -53,7 +53,7 @@ They're going to kill Arcueid.
 -- Page 563, Offset 10118.
 -- あの死体どもに手足をもぎとられ、俺が／おまえがしたように、解体されて献上される。
 Those corpses are here to tear her limb from limb――
-just as <I|Y o u > had――
+just as <I|Y o u > did――
 and offer up her dismembered body.
 }
 [sha:4423d8c86b8831bb1f07fcc228d430a86b485ca4]{
@@ -74,7 +74,8 @@ just like that?
 [sha:ffe24de4803caa65d802db7ea9af39cc48aa83a8]{
 -- Page 565, Offset 10122.
 -- 「―――、無理だ」
-"―――I can't."
+// All these 無理だs lead up to 10139.
+"I can't―――"
 }
 [sha:cf249021afa91daf728f92ab857059593ddbb880]{
 -- Page 565, Offset 10123.
@@ -84,7 +85,7 @@ That thing is just a disaster in human form.
 [sha:78aaf45a47e09e8b5f183fb4f0743a6f8d2e11f4]{
 -- Page 565, Offset 10124.
 -- 追い詰めるべきではなかった。
-I shouldn't have pursued him.
+Chasing after him was a mistake.
 }
 [sha:33bcda660aa9358b08b64f738af5748174888f26]{
 -- Page 565, Offset 10125.
@@ -94,18 +95,18 @@ It was beyond arrogant of me to think that I could defeat him.
 [sha:63560d2a460d1211bf859ed657e64d34feaa8615]{
 -- Page 566, Offset 10126.
 -- これ以上誰も殺させない？
-Stop him from killing anyone else?
+Stopping him from killing anyone else?
 }
 [sha:bbf5457e1ea8f0c9eb900a865fc137db0bb7064c]{
 -- Page 566, Offset 10127.
 -- 犠牲者を出さずに解決する？
-Resolve the situation without any more casualties?
+Resolving the situation without any more casualties?
 }
 [sha:ba088599dc3247eecf2ebbcf9c9b3f6825b5d62c]{
 -- Page 566, Offset 10128.
 -- なんて愚かな。あの怪物は見逃すしかなかった。立ち向かってはいけなかった。台風のように、通り過ぎるのを待つしかなかった。そうしていれば、せめて、街が燃えるだけで済んだかもしれないのに。
-How foolish.
- I should have looked the other way.
+How the hell did I think I could do that?
+ I should have just looked the other way.
  I shouldn't have confronted that monster.
  As with a typhoon, there's no option but to let it pass.
  If I had done that, then the city may have only ended up being burned to the ground.
@@ -114,7 +115,8 @@ How foolish.
 -- Page 567, Offset 10129.
 -- 「――――――でも、無理だ」
 // Do not alter this page without playtesting
-"―――But, I can't."
+// All these 無理だs lead up to 10139.
+"But, I can't―――"
 }
 [sha:251845d6b1293257b8499ab936554f62d20985ae]{
 -- Page 567, Offset 10130.
@@ -136,20 +138,21 @@ Common sense and irrationality writhe within my pressurized brain.
 [sha:4171ca57d7de1f49794b8ac7ae927ca333754188]{
 -- Page 567, Offset 10133.
 -- 逃げようと意識が<背後|うしろ>を向く。止めようのない自分がいる。
-My consciousness turns to my rear, telling me to run. There's nothing I can do to stop it.
+My consciousness looks to my rear, telling me to run.
+ And why shouldn't I listen?
 }
 [sha:530c3e626fe25b4e62bee3eb79fc58c9df9a63c0]{
 -- Page 567, Offset 10134.
 -- だってしょうがない。アレを相手に何が出来る。あの女が。ここまでで十分だ。ここから先は過剰すぎる。あの女が。あとは逃げてしまえばいい。目を背けてしまえばいい。それが<ま|・><っ|・><と|・><う|・><な|・><人|・><間|・>だ。あの女が、殺される。
-It's no use after all.
- What could I possibly do against an opponent like that?
- That woman.
+There's nothing I can do.
+ What could I %{i}ever%{/i} hope to do against an opponent like that?
+ %{i}Arcueid%{/i}.
  From here on, I'm totally out of my depth.
- That woman.
+ %{i}Arcueid%{/i}.
  I should just run away.
  Just look away.
  Any %{i}decent%{/i} human would.
- That woman――will be killed.
+ %{i}Arcueid――will be killed%{/i}.
 }
 [sha:be6efd65e8d159d56bfb49a8b7abcd276f8b2c6b]{
 -- Page 568, Offset 10135.
@@ -164,42 +167,46 @@ All those people, wiped out in an instant. I doubt they even had time to scream.
 [sha:acca28d53986cd73d9f4db2def5d38665e0d0802]{
 -- Page 568, Offset 10137.
 -- 昨夜のホテルの光景。意味もなく殺された人々の<懇|こ><願|え>を思い返す。
-The scene at the hotel last night.
- I think back to the pleas of those people who were also killed without purpose.
+I think back on what happened at the hotel last night――
+on the screams of the people there who were also killed for no reason.
 }
 [sha:ee06cf949110a56fe8fb81a7522f52e4b352a00d]{
 -- Page 568, Offset 10138.
 -- 倒れた女の姿。だらしなく<涎|よだれ>をたらして<女|にく>にすり寄る死体。広がっていく氷の河。にも拘わらず、あの吸血鬼は今も無関心に、街の死を観察する―――
 // First woman dropped
-The fallen figure.
+I see her fallen figure.
  The corpses drool sloppily as they draw near the <woman|f l e s h   >.
- The expanding river of ice.
+ The river of ice continues to expand.
  Throughout, the vampire continues to observe the death of the city with indifference―――
 }
-[sha:0626c0ad5136e215bded987b378f8cd2e9af83f1]{
+[offset:10139]{
 -- Page 569, Offset 10139.
 -- 「――――――間違いない」
-"―――There's no doubt about it."
+// First part of 10142 proper. Kinda sucks on its own!
+"I've had it―――"
 }
 [sha:c5108ea580edd2b4054bfc7d343cc35e035b601a]{
 -- Page 569, Offset 10140.
 -- 頭蓋が割れる。この低温下において、心臓は<猛|たけ>るように血液をはき出している。
-My skull cracks. Under these freezing conditions, my heart pumps blood ferociously.
+My skull cracks. Despite the freezing conditions, my heart pumps blood ferociously.
 }
 [sha:1093ea5f740cc4c9903c2c4324545b3d1a592544]{
 -- Page 569, Offset 10141.
 -- それは、つまり、
-That is, in other words―――
+// Links to 10143 I assume
+What that means, in other words―――
 }
 [sha:137b7120254ef1fbdc80fa666262d2bfb81ac337]{
 -- Page 570, Offset 10142.
 -- 「――――――俺には、無理だ」
-"―――I cannot allow this."
+// Payoff for 10122, 10129
+"I can't... allow this."
 }
 [sha:d36fc786226c23f19095066fd26235f4f832f57a]{
 -- Page 570, Offset 10143.
 -- 背筋を走る恐怖は、すべて怒りに変換された。
-All of the fear running down my spine transforms into anger.
+// Lead in to connect to 10141.
+―――Is that all of the fear running down my spine has transformed into anger.
 }
 [sha:4a64ced4a0138b93318ac7cf3d59462c1cd7e683]{
 -- Page 570, Offset 10144. Mods: @n.
@@ -214,7 +221,7 @@ I'm defective. A laughingstock. Far too immature as a human.
 [sha:971ed0bb9a5b872487b24f4d35cbbd6a3820619a]{
 -- Page 570, Offset 10146. Glued.
 -- この事態を傍観するだけの度量が、判断力が、俺には微塵も存在しない―――！
- not a single atom in my body can tolerate just standing by and observing―――!
+ not a single atom in my body can tolerate just standing back and watching!
 }
 [offset:10147]{
 -- Page 571, Offset 10147.
@@ -225,12 +232,12 @@ I take off my glasses.
 -- Page 571, Offset 10148.
 -- 口からこみ上げる震えに、はき出される体温に、左手で必死にフタをする。
 I cover my mouth with my left hand,
- desperately trying to hold back my shivering and prevent any more warmth from escaping.
+ desperately trying to suppress my shivering and prevent any more warmth from escaping.
 }
 [sha:478910560a40f2e53cfcab15295b1f7d39a85c63]{
 -- Page 572, Offset 10149.
 -- １分、いや３分。
-One minute, no, three minutes.
+One——no, three minutes.
 }
 [sha:d2976cfa6c2fd9c3202a0ab54d9d5f04cb404445]{
 -- Page 572, Offset 10150.
@@ -245,12 +252,12 @@ I'm not worried about losing my nerve. Three minutes is simply the longest a hum
 [sha:6a4c22fecc3eb9396dfec177672f6b523ab4639b]{
 -- Page 573, Offset 10152.
 -- 「くそ―――くそ、くそ、くそ―――！
-"Shit――shit, shit, shit―――!
+"Shit――shit, shit, shit!
 }
 [sha:04c03882a640197dc272b00677ca3ce8ff7b71ee]{
 -- Page 573, Offset 10153.
 -- なにやってんだ、俺は―――！」
-What the hell am I doing―――!"
+What the hell am I doing?!"
 }
 [sha:bac1b8cb1e7f4596d0c2be81f1f133dc55673eba]{
 -- Page 574, Offset 10154.
@@ -265,23 +272,24 @@ This is ridiculous. I'm being foolish. I really am an idiot.
 [sha:2ad444bc3f9f639b013f6f0bb9a314368e6d4045]{
 -- Page 575, Offset 10156.
 -- 死にたくないから逃げる？
-Run away because I don't want to die?
+Running away because you don't want to die?
 }
 [sha:8b5b255155e194d57cee1b236db92ec6a4f2e11f]{
 -- Page 575, Offset 10157.
 -- 逆だ。その理由ならまったく逆だったのだ。
-That's backwards. If that's your goal, you need to do the opposite.
+That's backwards.
+ If you want to survive, you need to do the opposite.
 }
 [sha:d3315454c22a82354d634a53b5bba0504b724f06]{
 -- Page 575, Offset 10158.
 -- アレは容認してはいけないもの。
 // assuming 「アレ」 is broob's very existence and not 「逃げる」 (その理由)
-That thing cannot be tolerated.
+That %{i}thing%{/i} cannot be tolerated.
 }
 [sha:655c43e2fbac70ca71dd04aeb105cc714b03f310]{
 -- Page 575, Offset 10159.
 -- アレは野放しにはできないもの。
-That thing cannot be allowed to go unchecked.
+It cannot be allowed to go unchecked.
 }
 [sha:a6fdc69405e54c4d277f0a929e00c68cb93d677b]{
 -- Page 575, Offset 10160.
@@ -291,7 +299,7 @@ Running away will undoubtedly lead to death. Not only for myself, but for the en
 [sha:6f7a7f97f418c8a79f2a44478ccc8ab73f6e30d0]{
 -- Page 576, Offset 10161.
 -- なら取るべき行動は明白だった。
-In that case, it's obvious what I must do.
+In which case, it's obvious what I must do.
 }
 [sha:a25078e870d49d8bcdae0f294571662beea4d3f3]{
 -- Page 576, Offset 10162.
@@ -301,7 +309,7 @@ If you don't want to die, then kill. Run for the sake of survival.
 [sha:e06bb17728fd440bb3cf7129425eb896bfaf21f8]{
 -- Page 576, Offset 10163.
 -- いまここで、一秒でも早くアレを殺せ。
-Kill that thing right here, right now, without waiting even a second.
+Kill it right here, right now, without waiting even a second.
 }
 [sha:e931e3c63e99be834703521526aea5dae0955eb1]{
 -- Page 577, Offset 10164.
@@ -311,7 +319,7 @@ I've pretty much run out of patience at this point.
 [sha:14494f9ac9aabc8b551a5a1988b717f948c3f3dd]{
 -- Page 577, Offset 10165.
 -- 臆面もなく殺し、奪い、生き延びやがって。
-That thing killed, robbed, and survived without a second thought.
+It has no qualms killing and stealing to survive.
 }
 [sha:2523ed13698b415dbe8671171a3db8951d81b0bd]{
 -- Page 577, Offset 10166.
@@ -328,7 +336,8 @@ Whatever it may be, if it's alive then it's my prey.
 [sha:e21f77f16685564c0033207cbf924ee9128ad109]{
 -- Page 577, Offset 10168.
 -- ここで、ヤツの<生|い><命|き>の<根幹|ね>を止めてやる……！
-Right here, I'll put an end to the core of his very existence...!
+// Conveniently similar EN idiom
+I'll put an end to his existence right here, roots and all!
 }
 [sha:1ee601f5d117af033f988225137cc92ecb048614]{
 -- Page 578, Offset 10169.
@@ -343,7 +352,7 @@ The corpses are trying to sink their teeth into her body.
 [sha:12ffcac06b5053a681b58f8489b050e75d634a44]{
 -- Page 579, Offset 10171.
 -- 殺せるのか、と先ほどの疑問が頭をよぎる。
-The question from earlier of whether I could kill them or not comes to mind.
+The question I had earlier of whether I could kill them or not crosses my mind.
 }
 [sha:f18897145d6c644ab874b2dfedf3464531b2e38c]{
 -- Page 579, Offset 10172.
@@ -354,18 +363,18 @@ Can I kill something that looks like a person, regardless of whether or not it's
 -- Page 580, Offset 10173.
 -- ―――関係ない。
 // Do not alter this page without playtesting
-―――It doesn't matter.
+Who even cares.
 }
 [sha:b3ebd3838c44835feaa92a8cf1b3e162042bcde1]{
 -- Page 580, Offset 10174.
 -- 今はただ頭が痛い。
-My head simply hurts right now.
+All I know right now is that my head hurts.
 }
 [sha:3b9ba3fa5f5fb2759fc9ad12daebbc1635678ab0]{
 -- Page 580, Offset 10175.
 -- ここまで長く裸眼をさらけ出すのは初めてだ。
 // Crushed for page space
-The first time I've looked with my bare eyes for so long.
+This is the first time I've looked with my bare eyes for so long.
 }
 [sha:7eab30bc7b4d2352ae747d2c4a858937fe0fa2fc]{
 -- Page 580, Offset 10176.
@@ -397,7 +406,7 @@ Besides―――
 [sha:013f2a43e23c8ab4c5c205ecad1f0346a345481a]{
 -- Page 580, Offset 10181.
 -- 俺以外の生き物が、<そ|・><の|・><女|・><を|・><獲|・><物|・><に|・><す|・><る|・><な|・>。
-The only creature that's allowed to prey on that woman is %{i}me%{/i}.
+The only creature that's allowed to prey on her is %{i}me%{/i}.
 }
 [sha:b77c80e09148a8e9f8723ff66668747f99067121]{
 -- Page 581, Offset 10182.
@@ -407,22 +416,26 @@ I cut the lines of the three corpses.
 [sha:5f83d51db966f1fdb3b10211bffc725374796d14]{
 -- Page 581, Offset 10183.
 -- 胴体をそれぞれ三分割。死体たちはバターを切るように割かれ、死亡する。
-Each of them is split into three pieces. Like a hot knife through butter, the corpses are split open and perish.
+// Slightly rearranged to avoid weird EN association of the phrase.
+My knife slides through them like a hot knife through butter.
+ They each split into thirds and die.
 }
 [sha:c2db5be5264a74bdd5cd85fbee4c77b3b7b5dca9]{
 -- Page 581, Offset 10184.
 -- 実にたやすい。ヤツらの意識はアルクェイドに向けられていたからだ。無防備にも程がある。
-Too easy. Their attention was focused on Arcueid after all. How can you even be that defenseless?
+Too easy.
+ Their attention was focused on Arcueid, after all.
+ Shows what you get for being careless.
 }
 [sha:b9b5070762c567491a42712b76dabd88c5740f99]{
 -- Page 582, Offset 10185.
 -- 「起きろ！　いつまで寝てやがる……！」
-"Wake up! How long are you going to stay asleep for...!"
+"Wake up! Are you gonna sleep all goddamn day or what?!"
 }
 [sha:97876c6c8e1635a18bb0182371d7c24f8dbb4d5d]{
 -- Page 582, Offset 10186.
 -- アルクェイドに触れるまでもない。
-There's no need to come in contact with Arcueid.
+I don't need to make it all the way to Arcueid.
 }
 [sha:2f4ffa2fc550b8dfe02c080ef91e6f23585f85e2]{
 -- Page 582, Offset 10187.
@@ -437,12 +450,14 @@ I call out to her as I kill the fourth corpse.
 [sha:c41d93cdfde13fba89839b62aca13a1f70b42459]{
 -- Page 583, Offset 10189.
 -- 俺の呼びかけで意識が戻ったのか、アルクェイドは弱々しく目を開ける。
-Perhaps regaining consciousness as a result of my call, Arcueid weakly opens her eyes.
+Arcueid weakly opens her eyes.
+ Looks like my shouting managed to wake her up.
 }
 [sha:d07dee620a99bc5bc4f1a24f14403a6748ecd24a]{
 -- Page 584, Offset 10190.
 -- 「な、なんでここにいるの!?　ダメ、逃げて……！」
-"W-What are you doing here? You need to... get out of here...!"
+"Wh-What are you doing here?
+ Stop, you need to get out of here!"
 }
 [sha:a207e7d3a8a57255301b7ef2a0e6aec90dc1ad55]{
 -- Page 585, Offset 10191.
@@ -452,22 +467,27 @@ As Arcueid begins to sit up, her face contorts and she doubles over.
 [sha:68013111a75fba5369731ebaa9c7ab7b64845081]{
 -- Page 585, Offset 10192.
 -- 意識は戻った。命はまだある。だが傷は治っていない。
-She's back to being conscious. Her life is still intact. But her wound has not healed.
+She's regained consciousness.
+ She's still alive.
+ But her wounds have yet to heal.
 }
 [sha:76c74f5e65d17064f6450e59b716ea2945ee0a09]{
 -- Page 586, Offset 10193.
 -- コイツはまだここから動けない。
-She can't yet move from here.
+She can't move from that spot yet.
 }
 [sha:058a23afe50cd58f456a6dc7f67c5fede005a662]{
 -- Page 586, Offset 10194.
 -- 逃げるべきは俺ではなくコイツの方だが、あいにく、俺にはそれを許す余裕はない。
-The one that should be running is her, not me. But unfortunately, I cannot allow her that luxury.
+She's the one who should be running away, not me.
+ But unfortunately, I cannot allow her that luxury.
 }
 [sha:21fdd7486ca2694aef81146cb82e6f4525b4f34a]{
 -- Page 587, Offset 10195.
 -- 「よし、元気だな。ならいい。できるなら援護してくれ」
-"Okay, you're fine. That's good. Back me up if you can."
+"Alright, you seem healthy enough.
+ Great.
+ Back me up if you can."
 }
 [sha:3f417dd297613d9657018d245ab83cb34a5c0882]{
 -- Page 587, Offset 10196.
@@ -482,12 +502,15 @@ The one that should be running is her, not me. But unfortunately, I cannot allow
 [sha:e5e78f55720e3c43fcdb645ae6c7fa0c10c3d633]{
 -- Page 587, Offset 10198.
 -- いいか、俺にとってここは海の底だ。３分しか時間はない。だから、その間に―――」
-Listen, this place is like the bottom of the ocean for me. I only have three minutes. That's why in that time―――"
+Listen, this place is like the bottom of the ocean for me.
+ I only have three minutes.
+ So we've got to make them count―――"
 }
 [sha:6a447dfd8887cddbe200e4000d1e153cc4bc773a]{
 -- Page 588, Offset 10199.
 -- 「今度こそ。俺とおまえで、ヤツを殺して終わらせる」
-"This time for sure. We'll kill that bastard together and end this."
+"Now's our chance.
+ We'll kill that bastard together and end this."
 }
 [sha:02e98125f33fb658ee0d01acb7ccb7162ee54744]{
 -- Page 589, Offset 10200.
@@ -497,7 +520,7 @@ I leave Arcueid behind and run.
 [sha:8dc41a8f5af319df12120940bda492d4e7e4636e]{
 -- Page 589, Offset 10201.
 -- ナイフを握り直して、ヴローヴまでの距離を視認する。
-I adjust my grip on the knife and measure the distance between me and Vlov.
+I adjust my grip on the knife and estimate the distance between me and Vlov.
 }
 [sha:848bb36b10b7c06e8b8d88ac683ceba789bf0ab7]{
 -- Page 589, Offset 10202.
@@ -512,17 +535,18 @@ Six seconds until contact. He still hasn't seen me yet.
 [sha:ea994dcb3f10dd251a739d37449d184420dc3768]{
 -- Page 590, Offset 10204.
 -- ―――あと３秒。
-―――Three seconds left.
+―――Three seconds.
 }
 [sha:abbb9d888492df9cc60e8018046888de7bb08600]{
 -- Page 590, Offset 10205.
 -- 様子見はしない。一撃でカタをつける。
-No time to wait and see. I'll finish him off with one blow.
+No time to play it safe.
+ I'll finish him off with one blow.
 }
 [sha:bc018d465d666b96cff75001268047919a62b89c]{
 -- Page 590, Offset 10206.
 -- もう俺の肉体は変調をきたしている。
-My body is already in a state of flux.
+Being down here is already starting to take a toll on my body.
 }
 [sha:64f919220f2705e7f729683db3b63b8bbbbd79cc]{
 -- Page 591, Offset 10207.
@@ -555,22 +579,24 @@ The man finally reacts.
 [sha:d58ea4c8e03414a60ff58f78d8e0cda6ca201abb]{
 -- Page 592, Offset 10212.
 -- 虫を払うような動作で、俺を迎撃しようと視線を向ける。
-With the manner of someone brushing off an insect, he turns his gaze as if to intercept me.
+Turning to face me,
+ he moves to intercept me with the air of someone brushing off an insect.
 }
 [sha:bb727439d83d599a6711771ed4eca4f185f4f992]{
 -- Page 592, Offset 10213.
 -- アルクェイドを串刺しにした巨大な槍は無い。
-The giant lance that skewered Arcueid is nowhere to be seen.
+The giant lance he skewered Arcueid with is nowhere to be seen.
 }
 [sha:8982f3e145e269f0d62324861f54004616949705]{
 -- Page 592, Offset 10214.
 -- 当然だろう。そうでなくては困る。
-Of course it is. I'd be in trouble if he still had it.
+Of course it isn't.
+ I'd be in trouble if he still had it.
 }
 [sha:f2c51fae8b48cc8c7996c4b5d3116eaad1fc331b]{
 -- Page 593, Offset 10215.
 -- ヴローヴにとって俺は死体たちと変わらない。
-In Vlov's eyes, I'm no different from the Corpses.
+In Vlov's eyes, I'm no different from the corpses.
 }
 [sha:e0588af5af4ac8f750c63dfd23b024eeb91eb613]{
 -- Page 593, Offset 10216.
@@ -625,32 +651,33 @@ Two seconds left.
 [sha:d21867f82f30274706bf41e309007e206d8e2e79]{
 -- Page 596, Offset 10226.
 -- 危険を冒すのは、生死の<境|さかい>を越えるのは一度だけ。
-I only have to do it once――to take that risk, to cross the border between life and death.
+I have to risk crossing the boundary between life and death――
+but I only have to do it once.
 }
 [sha:9db6e7a9acdb807dd4c221cda0c33e95b4a4abf8]{
 -- Page 596, Offset 10227.
 -- ヤツの初手を<躱|かわ>す。それだけに専心する。
-I'll dodge his first move. That's my sole focus.
+I have to focus all my attention on dodging his first move.
 }
 [sha:b0357dea2ae14f54820f3ea4ab8c2c530c8a8852]{
 -- Page 596, Offset 10228.
 -- その<丁半|ちょうはん><博打|ばくち>さえすり抜ければ、あとはあの“線”を断つだけで―――
 If I can just make it through that gamble, then all I have to do is cut that line―――
 }
-[sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
+[offset:10229]{
 -- Page 597, Offset 10229.
 -- 「―――！」
-"―――!"
+"%{i}Gh%{/i}!"
 }
 [sha:56c4d30c4ad9c501bef71bd990d7da62cfc57f1b]{
 -- Page 597, Offset 10230.
 -- 最後の１秒。
-At the very last second.
+At the very last second―――
 }
 [sha:aa6f4ae408e564f382f138884530a9c939a03909]{
 -- Page 597, Offset 10231.
 -- 斬り合いの間合いに入ろうとした瞬間、俺たちは同時に後ろに跳び退いた。
-Right at the moment we were about to cross swords, the both of us jump back simultaneously.
+Right at the moment we were about to cross swords――we both jump back simultaneously.
 }
 [sha:280729ed6274269627c8d75e55b66a3f589ceaf2]{
 -- Page 597, Offset 10232.
@@ -675,12 +702,13 @@ I can't get close to his chest. He is the focal point around which this billowin
 [sha:886e0770b99e22b9b4a3e5e7dc02e79f61742311]{
 -- Page 598, Offset 10236.
 -- 最低限の奇襲の条件。
-And that's the minimum requirement for a surprise attack.
+// Context borrowed from next line
+Getting in range is absolutely critical for a surprise attack―――
 }
 [sha:aed74f2a228b8825fcf916bffba751ca76dd37da]{
 -- Page 598, Offset 10237.
 -- <近|・><づ|・><い|・><て|・><殺|・><す|・>という条件が、ヴローヴ相手では達成できない。
-Getting in close for the kill simply isn't possible against Vlov.
+But doing so simply isn't possible against Vlov.
 }
 [sha:1d4c347034fc7aa18ec56f3841516e9c1b806697]{
 -- Page 599, Offset 10238.
@@ -700,7 +728,7 @@ This one is far more deadly.
 [sha:da8da44ce2e09ecc73ad18902cf513c38d1c1956]{
 -- Page 600, Offset 10241.
 -- “野郎―――！”
-'You bastard―――!'
+This motherfucker...
 }
 [sha:c53ed6aee6c1abf068183a063fa000316f96b832]{
 -- Page 600, Offset 10242.
@@ -730,17 +758,17 @@ Despite having no reason to think so, that guy suddenly realized that the enemy 
 [sha:cdb0b7ce8f1bd26f28f4b42793f3b50dbf0f5b04]{
 -- Page 602, Offset 10247.
 -- 「“……なぜ、おれが退いた……？”」
-"Why... did I... retreat...?"
+"Why... did I retreat?"
 }
 [sha:776f8ce2dfa0ab18590021041d8ca3c856182163]{
 -- Page 602, Offset 10248.
 -- 俺の後退はたかだか２メートル。
-My retreat was a mere two meters at best.
+I only managed to jump back about two meters.
 }
 [sha:4f56222b964b649b13227676ea1a2199b12f57b2]{
 -- Page 602, Offset 10249.
 -- だがヤツの後退は並外れている。30メートルもの距離をヤツは跳んだ。
-But his retreat was extraordinary. He flew back thirty meters.
+But his retreat was extraordinary. He flew back over thirty meters.
 }
 [sha:5419711399a5181b871ed35e56715957195b4124]{
 -- Page 602, Offset 10250.
@@ -750,7 +778,7 @@ I guess that must be the 'minimum safe distance' for a vampire. I can't help but
 [sha:e2f02639f06fe7c014e39c7b597ece9f9063a7a6]{
 -- Page 603, Offset 10251.
 -- 「“……なんだ。おまえは、なんだ……？”」
-"You. What... are you...?"
+"What... %{i}are%{/i} you?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 603, Offset 10252.
@@ -765,12 +793,13 @@ That should be my line.
 [sha:615131c5d66c0c8a887f2d63a1dae24b54ca4912]{
 -- Page 604, Offset 10254.
 -- どうあれ状況は最悪だ。この距離はもう埋めようがない。
-This is the worst possible situation. I can't bridge the distance anymore.
+This is the worst possible situation.
+ I'm not going to be able to get in close again.
 }
 [sha:307dd19a34d7414dadc6f17e4b3dd5c0a06b2017]{
 -- Page 604, Offset 10255.
 -- 俺はヤツを倒す事は不可能と認め、
-I've accepted that it's impossible to defeat him.
+I've been forced to accept that I can't defeat him.
 }
 [sha:0f7c4181dcd97f734a8adb59f4497ca6685a6e14]{
 -- Page 604, Offset 10256.
@@ -785,10 +814,10 @@ It's clear how things will go from here―――
 [sha:c36aa0a2a03a55df27a78450ab8ad91a85e630c3]{
 -- Page 605, Offset 10258.
 -- 「“……いい。近寄るな。おまえは、<そ|・><こ|・><で|・><死|・><ん|・><で|・><い|・><ろ|・>”」
-"Good... Stay back. You can stand there and %{i}die%{/i}."
+"No matter... Stay back. You can %{i}die where you stand%{/i}."
 }
 [sha:da02143faffe21bee1d462ccc55cbb101854f053]{
 -- Page 605, Offset 10259.
 -- 遠距離からの、一方的な殺戮になる。
-It will be a one-sided slaughter from afar.
+It'll be a one-sided slaughter from afar.
 }

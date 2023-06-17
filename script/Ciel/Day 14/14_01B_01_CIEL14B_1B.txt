@@ -1,52 +1,61 @@
 [sha:4a46cd03eb8300a5c0f329efec9d4a52653ce8a6]{
 -- Page 10002, Offset 38442.
 -- 拘束が解ける。
-The shackles are released.
+My shackles are released.
 }
 [sha:d1b8bccd2e5d01eb87aabac47370435db039b33c]{
 -- Page 10002, Offset 38443.
 -- 喉の線を切られて一時的に脱力したのか、アルクェイドは動かない。
-Arcueid doesn't move, perhaps because her strength was temporarily drained from her line being cut.
+// Same as 37650 except for one kanji
+// LintConsistency:37650
+Arcueid doesn't move.
+ Cutting her line must have weakened her temporarily.
 }
 [sha:696f5aeadb23f81a4803cfc02384c46d20e71a06]{
 -- Page 10002, Offset 38444.
 -- 俺はその隙をついて、彼女の下から抜け出して、今のうちにと距離をとった。
-I take that chance to slip out from underneath her and create some distance.
+I take the chance to slip out from under her,
+ and put some distance between us while I can.
 }
-[sha:db9b50f8ead206d436967434fca2d32a3c126725]{
+[offset:38445]{
 -- Page 41, Offset 38445.
 -- 「はぁ……は、は……！」
-"Hah... hah, hah...!"
+"%{i}Grgh%{/i}! %{i}Hahh%{/i}, %{i}hahh%{/i}, %{i}hahh%{/i}..."
 }
 [sha:2ea37dd4cbccf88ad9dde954767ca66db7fd034d]{
 -- Page 41, Offset 38446.
 -- 自由になってようやく呼吸を再開できた。
-After being free, I finally become able to breathe again.
+Now that I'm free, I'm finally able to start breathing again.
 }
 [sha:ef2d4772735cd008a4cf72d491372a308fed2a69]{
 -- Page 41, Offset 38447.
 -- 両肩で息をして、とにかく心臓と脳を落ち着かせる。
-Breathing heavily with both shoulders, I manage to calm down my heart and mind.
+// Added 脳 compared to 37654
+I pant heavily as I try and calm my racing heart and fevered brain.
 }
 [sha:d1cc14b7433de02c2f93b3be7d34b872654f2dc3]{
 -- Page 42, Offset 38448.
 -- 今は数秒でも休息を取らないと走れない。
-Right now, I won't be able to run without taking a breather for a few seconds.
+It's going to take me a few seconds before I've caught my breath and can run away.
 }
 [sha:d8e03c011ffaccd12cde7bd1664fc1a663bb160c]{
 -- Page 42, Offset 38449.
 -- アルクェイドの事だ、あの程度の傷はすぐに治して、すぐ起き上がって―――
-But this is Arcueid we're talking about. Even with a wound like that, she'll recover and get up in no time―――
+// More or less the same as Normal ver
+// LintConsistency:37656
+As for Arcueid, though――she'll recover from a wound like that in no time,
+ after which she'll be hot on my tail aga―――
 }
 [sha:418f9a52eb6dbde5aafc1e48620ae7faf115872c]{
 -- Page 43, Offset 38450.
 -- アルクェイドの体を支えていた両腕が、ずるりと滑る。
-The arms which Arcueid used to support her body slips entirely.
+Arcueid's arms, which had been propping her up, slowly slide out from under her.
 }
 [sha:8f0bdabe50b4c352990f9c5a5b2a8afaed7b8224]{
 -- Page 43, Offset 38451.
 -- まだ意識が回復しないのか、アイツは眠るように石畳に倒れこんだ。
-Perhaps her consciousness hasn't fully recovered yet, but her body lays flat on the pavement in a sleeping stance.
+She collapses onto the pavement, almost like she's just fallen asleep.
+ Wait, has she still not regained consciousness?
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 44, Offset 38452.
@@ -61,302 +70,349 @@ I freeze up at the sight of the red liquid.
 [sha:5b148757a67e7c01d26686f0ae6a18818c9dba70]{
 -- Page 44, Offset 38454.
 -- 確かに俺は首を切った。血が出るのは当たり前だ。
-It's true that I cut her neck. It's only natural that blood would come out.
+// These two lines basically a split version of 37661
+I mean, sure――I %{i}did%{/i} cut her neck.
+ Of course she'd bleed.
 }
 [sha:6bfccdc19ed9d60d94cb6aae272d0e5abb9972dc]{
 -- Page 44, Offset 38455.
 -- でもコイツがこんな簡単に、まるで人間のように倒れる姿を、想像さえしていなかった。
-But I never imagined that she would fall this easily. It's as if she was entirely human.
+But for her to fall down so easily——so like a human would——is something I never expected.
 }
 [sha:0f440617a05f7b2503e7dbf76af5d9e38c2de843]{
 -- Page 45, Offset 38456.
 -- 「アル―――クェイド……？」
-"Ar―――cueid...?"
+"Ar――cueid?"
 }
 [sha:0e1db10ab85280ea5a781aa22c5da7f4d3c73021]{
 -- Page 45, Offset 38457.
 -- 異常はそれだけに留まらない。
-The abnormalities didn't stop there.
+That isn't the only thing that seems wrong.
 }
 [sha:8fea8c4ab2b755133ea419746955e5eedda1a43a]{
 -- Page 45, Offset 38458.
 -- 血。濃厚な、ワインのように深い紅色の液体が、大量に流れている。
-Blood. Thick crimson liquid, deep like wine, flows out in mass.
+Blood.
+ That crimson liquid, rich and dark as wine, is pouring out of her.
 }
 [sha:6a9a520d690d205714b818e9212f588b76814839]{
 -- Page 46, Offset 38459.
 -- それはアルクェイドから溢れた血の海であり、
-It was like a sea of blood pouring out from Arcueid,
+It's like an entire sea of blood has spilled from Arcueid―――
 }
 [sha:fadcfeecd23cd085f3f8ce02fb42f7f2df30ebf3]{
 -- Page 46, Offset 38460.
 -- 世界そのものに出来た、孔のような傷に見えた。
-and a wound like a hole created in the very world itself.
+Almost as if a wound had been gouged into the world itself.
 }
 [sha:2cbe213ebf440e9da72058050a8c16f36848b1cc]{
 -- Page 47, Offset 38461.
 -- 石畳には赤い血が今も広がり続けている。
-Even now, the red blood spreads across the stone pavement.
+Her red blood continues to spread across the stone plaza.
 }
 [sha:6ff5508a848ef7c80f2a853d1ed54b699ed810ca]{
 -- Page 47, Offset 38462.
 -- 白い体は毒に染まるように、禍々しい朱色に侵されている。
-Her white body, as if tainted by poison, gets encroached by a sinister vermillion.
+The ominous vermilion color stains her pale figure,
+ as though tainting it with poison.
 }
 [sha:eccdc2d765d823aa66bfe79539b961ec1e1903df]{
 -- Page 47, Offset 38463.
 -- この光景には覚えがある。
-I remember this scene.
+I've seen this before.
 }
 [sha:7758a4d7e7a398df25e57681aff81f01c39bb533]{
 -- Page 47, Offset 38464.
 -- あの鈍く光る血溜まりは、
-This dimly-lit pool of blood...
+// It becomes more apparent later, but her blood literally starts spouting particle effects and stuff
+The dull glow of her pooling blood...
 }
 [sha:f36cdb5c5a21a5241cfec76f867035146967b074]{
 -- Page 48, Offset 38465.
 -- 「……そんな。まさか、そんな」
-"...No. It can't be..."
+"No way... No... There's no way―――"
 }
 [sha:101a26964a9eee9697dd78af5ad33ca368672177]{
 -- Page 48, Offset 38466.
 -- ―――殺して。
-―――I killed her.
+Did I―――
 }
 [sha:735f14e38e2c54a39559c409cb313936886c9c4f]{
 -- Page 48, Offset 38467.
 -- 殺してしまったのか、俺は。
-Did I really just kill her?
+// Same as second half of 37666.
+Did I %{i}actually%{/i} kill her?
 }
 [sha:fb4d3e04e6434e9c85a64bd493dd3679e4c909d2]{
 -- Page 48, Offset 38468.
 -- そんな馬鹿な。そんな馬鹿な。そんな馬鹿な……！
-It can't be. It can't be. It can't be...!
+There's no way. No way. No way!
 }
 [sha:b8e13f0f1c90023e943caaf2e4f03d554421c628]{
 -- Page 49, Offset 38469.
 -- あの時とは違う、『線』はかろうじて首に見えただけだ、
-This is different. I only saw a 'line' on her neck just barely.
+It wasn't like back then――that one faint line was all I could see.
 }
 [sha:8419f608ca7a67466bd25ebaca43ae30c5f3925f]{
 -- Page 49, Offset 38470.
 -- 吸血鬼になりかけて、改めてアイツとの性能差を理解していたからこその抵抗だったのに、ただ動きを止める為の悪あがきだったのに、そんな、今さらアイツが、俺なんかに殺される筈がない―――！
-I was close to becoming a vampire, and I only resisted while understanding our differences in ability, so I just took a stab in the dark to try to stop her, but there's no way someone like me should have been able to kill her after all this time―――!
+I only put up this paltry resistance %{i}because%{/i} I'd become aware of just how vast the difference in ability between us was after becoming a vampire,
+ I was just desperately struggling to try and stop her,
+ that's all, there's no way I could do %{i}that%{/i},
+ there's no way someone like me could ever %{i}kill%{/i} her, that's impossible!
 }
 [sha:9e36f17e2755dd352f4e3e0cc86b2b1760bd791b]{
 -- Page 50, Offset 38471.
 -- 「アルクェイド……！」
-"Arcueid...!"
+"Arcueid!"
 }
 [sha:b09c7fcaa81dd14fda672f878dbdc4882d24b0d1]{
 -- Page 50, Offset 38472.
 -- 逃げようとした足を止めて、アルクェイドに駆け寄ろうとして、息を呑んだ。
-I stop myself from running away, and gasp as I try to rush over to Arcueid.
+My legs had been poised to run away,
+ but now I swallow nervously and turn to rush over to Arcueid.
 }
 [sha:4b2dbc92596b68205d07cfd3185ba5e53bfc9938]{
 -- Page 50, Offset 38473.
 -- 片腕。
-With one arm.
+Up comes an arm.
 }
 [sha:a557dba75ef13db1705bc451d0f1a1c9bb902d3b]{
 -- Page 50, Offset 38474.
 -- 倒れこんだアルクェイドの片腕が、ぎっ……と、蜘蛛の脚のように、地面に手をついたから。
-Collapsed on the floor, Arcueid pushes herself up from the ground with a single arm like a leg of a spider.
+// 蜘蛛の脚のように presumably talking about how spider legs have that kink in them,
+// matching her bent-at-the-elbow, body lower than the peak of her arm posture
+Still flat on the ground,
+ she raises one of her arms like the bent leg of a spider,
+ and firmly plants her hand against the stone.
 }
 [sha:485b457d6cf99706c4eade06e1590abf9dce168d]{
 -- Page 51, Offset 38475. Mods: @c.
 -- “―――ふしぎ。停止したのは首なのに、
-"―――It's strange. Even though it's my neck that was cut,
+"It's strange.
+ Even though it's my neck that's been cut―――
 }
 [sha:7708cb983b4843e9c18cc8fcd6d31054ba00ea01]{
 -- Page 51, Offset 38476. Mods: @c.
 -- そっちより遥かに、胸が異常を訴えている。”
-there's something far stranger coming out from my heart."
+It's the malfunction of my heart that's screaming the loudest."
 }
 [sha:cf45edbbf00aeb535baba634ee0fc09edb9b8a47]{
 -- Page 51, Offset 38477.
 -- それは<言葉|テキスト>でも<感応|テレパス>でもない、<呼吸|ブレス>のような、
-It was neither text nor telepathy,
+Those thoughts come not through words,
+ nor through telepathy,
+ but as though carried on her breath―――
 }
 [sha:f3f5848b00a67c995fad60c8787855d0cb7413ea]{
 -- Page 51, Offset 38478.
 -- 自然意志の融解だった。
-but a natural blend of wills like breath.
+// Sublimation sounds better than melting if you're going to a vapor, so let's assume natural wills behave like CO2
+The sublimation of nature's will.
 }
 [sha:5e1cab9d207d95854e298a5bcba58da311f9b665]{
 -- Page 52, Offset 38479. Mods: @c.
 -- “痛い。いたい。好きなのに。辛い。嬉しい。
-"It hurts. It hurts. Even though I love you, it stings. I'm happy.
+"It hurts. It hurts. I love you, and yet... it's miserable. It's wonderful.
 }
 [sha:d54f5237b58d6d01867f739afa836a1adf3ff711]{
 -- Page 52, Offset 38480. Mods: @c.
 -- 熱い。くるしい。やっぱり、大好き……！”
-It's hot. It's agony. I really do love you...!"
+It's hot. It's agonizing. I knew it, %{i}it's love%{/i}!"
 }
 [sha:9c0d0827a09fa3699aa0e5406c21feab3c2f798e]{
 -- Page 52, Offset 38481. Mods: @c.
 -- “でも、手に入らないものは、無いのとおなじ。
-"But if I can't have it, it may as well not exist.
+"But, there exists nothing that I cannot have.
 }
 [sha:846ad742d471fa1e627ede075170b7e476344d9a]{
 -- Page 52, Offset 38482. Mods: @c.
 -- 逆だ。どこにも無いから、わたしの手には入らない。”
-It's the opposite. I can't have it because it's nowhere to be found."
+No, it's the opposite――because I cannot have him, he must be nothing."
 }
 [sha:54702fde3c9648e7fcec4ce5a988f53a55ae0a2f]{
 -- Page 53, Offset 38483. Mods: @c.
 -- “でも拒絶された。比べられた。また無惨に殺された。
-"But he rejected me. He chose her over me. And he killed me again in cold-blood.
+"But he rejected me.
+ He chose her over me.
+ He mercilessly killed me again.
 }
 [sha:7af9b290892c254cb74d6bb00e0be63e2a0aad15]{
 -- Page 53, Offset 38484. Mods: @c.
 -- また。また。また。また。
-Again. And again. And again. And again.
+// Assuming this is just repeating her shock at him doing it again, not implying multiple repetitions
+Again. Again. Again. Again.
 }
 [sha:3bb787ae2d6f00c93eb19294b1b9d4a7b65c57a6]{
 -- Page 53, Offset 38485. Mods: @c.
 -- なら、わたしも　おなじことを。”
-If that's how it is, then I'll just do the same."
+So then    I'll just do the same to him."
 }
 [sha:09face4088fad5a5c78ab65ccf5198989beb45e4]{
 -- Page 53, Offset 38486. Mods: @c.
 -- “無い。無い。無い。無い。
-"Nothing. Nothing. Nothing. Nothing.
+"He's nothing.
+ He's nothing.
+ He's nothing.
+ He's nothing.
 }
 [sha:1e48f8d24c2a8c61620fd867d9a2a3c57c181ed1]{
 -- Page 53, Offset 38487. Mods: @c.
 -- あんなヤツ、はじめから存在してい無い……！”
-There was nothing from the very beginning...!"
+That awful jerk has always been nothing at all!"
 }
-[sha:6510fe1948003bf510a95a36c5ab9217b67ba3f0]{
+[offset:38488]{
 -- Page 54, Offset 38488.
 -- この時。
-At that moment.
+And then―――
 }
 [sha:dc79a4e4c7879ba17caa4bd8933fd7820788f02f]{
 -- Page 54, Offset 38489.
 -- 俺は確かに、世界の<軋|きし>む音を聞いた。
-I'm sure I heard the sound of the world creaking.
+// Changed 凍る to 軋む compared to 37672
+I hear the sound of the world grating against itself.
 }
 [sha:3c3868656f1595cff6781914a2ec05d8bf34c590]{
 -- Page 55, Offset 38490.
 -- 遥か遠くでありながら、すぐ近く、俺の耳元で鳴った音。
-A sound rings in my ear so close, and yet so far.
+The sound that rings in my ears is distant, yet unbearably close.
 }
 [sha:d556f9399e8fcb0c947857cc65ed981fdb93d59d]{
 -- Page 55, Offset 38491.
 -- 聞き慣れた音。命が割れる音。
-A familiar sound. The sound of life being torn.
+It's a familiar sound.
+ The sound of life coming apart.
 }
 [sha:992eeb8e7a2eae0da99a1601cd1e61e8fc6d755b]{
 -- Page 55, Offset 38492.
 -- ならそれは間違いなく、世界そのものが死んだ音だ。
-That means this sound is no doubt, the sound of death of this very world.
+Which can only mean one thing――that sound marked the death of this very world.
 }
 [sha:8cbfc1da209bcae7266c5aaabe7a6a977054a6d4]{
 -- Page 56, Offset 38493.
 -- 「こ　　　　ろ　　　　し　　　　て」
 // lint-off:LintDupedWord
-"I ' l l   k i l l   y o u"
+"I ' m   g o n n a   k i l l"
 }
 [sha:df80b36472092316777aeabe9e0cd662cd8375cd]{
 -- Page 56, Offset 38494.
 -- ……彼女の喉から漏れる鮮血と、呼吸。
-...Fresh blood leaks from her throat together with her breath.
+Fresh blood dribbles from her throat as she breathes...
 }
 [sha:723e65fa4f81dad349d45d25b7531239dc30860b]{
 -- Page 56, Offset 38495.
 -- アルクェイドの腕にぐ、と力が入っていく。
-She pours her strength into her arms.
+Arcueid's arms tense up as she pours strength into them.
 }
 [sha:6dcffae6d75a6733d338c89e402b19ca9f0ddee9]{
 -- Page 57, Offset 38496.
 -- 「し　　　て、　　　　　　げ　　　　る、」
 // lint-off:LintDupedWord
-"k i l l        y o u"
+"g o n n a   k i l l   y o u"
 }
 [sha:103d11987ebfc2e826f3238a5f6c3729b5a859e5]{
 -- Page 57, Offset 38497.
 -- ……朱い血はまだ流れ続けている。
-...Her crimson blood continues to flow even now.
+Her crimson blood continues to flow...
 }
 [sha:6508ac2fe24d1e0cbacc76b66372e7a0c67d20f9]{
 -- Page 57, Offset 38498.
 -- 静かに、彼女の体が地面から離れていく。
-Quietly, her body leaves the ground surface.
+// Still not standing, just torso up I guess (as per cg)
+Without making a sound, her body starts to lift itself off the ground.
 }
 [sha:8cbfc1da209bcae7266c5aaabe7a6a977054a6d4]{
 -- Page 58, Offset 38499.
 -- 「こ　　　　ろ　　　　し　　　　て」
 // lint-off:LintDupedWord
-"I ' l l   k i l l   y o u"
+"I ' m   g o n n a   k i l l"
 }
 [sha:de559cb5fefef0a614165d1d0007bcd7958578df]{
 -- Page 58, Offset 38500.
 -- ……血だまりから顔が浮き上がる。
-...Her face rises up from the pool of blood.
+She raises her face from the pool of blood.
 }
 [sha:360cd307bfcbfcb9787ea3d5a77f382e62419024]{
 -- Page 58, Offset 38501.
 -- 金色の髪の間に目が見える。
-I can see her eyes through the opening of her golden hair.
+I catch sight of her eyes, framed by her golden hair.
 }
 [sha:093b3c181a0c8c5f0771802da2e5c12046d3debe]{
 -- Page 58, Offset 38502.
 -- 黒く<穿|うが>たれた<娑齢頭|されこうべ>の眼。
-Eyes of a skull pierced black.
+The black, hollow eyes of a weathered skull.
 }
 [sha:302a801409483ad5ed0e445f4b5b458278aeecdf]{
 -- Page 58, Offset 38503.
 -- その中に、燃え盛る火のような、<皓皓|こうこう>とした赤があった。
-Within it, lies a bright red, like a burning flame.
+// 皓皓. time for moon motifs
+Yet there, burning like a fire in their depths, is the bright red of a blood moon.
 }
 [sha:d14724cb8e49656815aa068a9adb9e218f593e0e]{
 -- Page 59, Offset 38504.
 -- 「ころ　　　して　　　あげ　　　る」
 // lint-off:LintDupedWord
-"I ' l l   k i l l   y o u ."
+"I ' m   g o n n a   k i l l   y o u"
 }
 [sha:179e172845cacf30d9470bf62d7df3689101943a]{
 -- Page 60, Offset 38505.
 -- ―――なんだ、これは。
-―――What's happening?
+// Yeah this looks fine
+What the hell... is happening?
 }
 [sha:d1a9acd7a07f2ad2861474adb21fc6f0cd76bfdb]{
 -- Page 60, Offset 38506.
 -- 石の地面が、街灯が、建物が、この地表に築かれたあらゆる人工物が、アイツに向かって滑り落ちていく。
-The stone ground, the street lights, the buildings, and every man-made structure on the surface is sliding toward her.
+The stone pavement, the streetlights, the buildings――
+all of the man-made structures built atop the Earth are sliding toward her.
 }
 [sha:467775e53b90415a78c82a7039cb3cce08dc73ce]{
 -- Page 61, Offset 38507.
 -- 装飾を脱がすように。
-It's as if a decoration was being taken off.
+Almost like it's being stripped of all ornamentation―――
 }
 [sha:e0048e35b649b38948938ff5745b693f9adeef7b]{
 -- Page 61, Offset 38508.
 -- 絵の具を溶かすように。
-As if the colors are being dissolved.
+Almost like its paint is melting off―――
 }
 [sha:c2374cd3e878efb7496c3faf70d0bfeb59e88257]{
 -- Page 61, Offset 38509.
 -- まるで世界の皮を剥がすように、あらゆるものがズルズルとその在り方を没収されていく。
-Every single thing is having their form seized as they slip away, entirely as if the world is being peeled.
+All of creation is starting to be deprived of its essence,
+ as if the surface of the world is being peeled clean off.
 }
 [sha:7c6ffb8bc6c128fe77eae1b84d00cca5bd0f2d91]{
 -- Page 62, Offset 38510.
 -- 俺の頭では理解できない現象を、ヤツは高らかに謳いあげる。
-// lint-off:LintPageOverflow
-She celebrates grandiosely of this phenomenon that I can't wrap my head around.
+// Assuming ヤツ is Roa here
+// This page is tight as hell.
+// The italics here are also fucky - in order to get them to work, I had to
+// shuffle the sentences across the strings on this page otherwise they just get cut off.
+The man in my head extols this inscrutable phenomenon.
 }
 [sha:310d0f3e9a133d392d9a298d54f31fe01a582d44]{
 -- Page 62, Offset 38511.
 -- “これこそは真祖の力。星の触覚として地表を思うままに作り変える空想具現化。
-'This is the power of a True Ancestor. A Marble Phantasm allowing me as the planet's sense of touch to shape the Earth as I see fit.
+@g
+This is the power of a True Ancestor.
+ As the Touch of the Planet,
+ her <Fantasy Manifestation|M a r b l e   P h a n t a s m     > allows her to rewrite the earth's surface however she sees fit.
 }
 [sha:5b1fe55ccccb786518bd08b3e6fe08942148ec27]{
 -- Page 62, Offset 38512.
 -- もうこの街はおしまいだ。この領域はおしまいだ。建物も生き物も変換される。四次元から二次元に潰されて呑み込まれる。事象変換から事象収納。その後に来るものはおまえたちを見限って移り変わった星の内海。讃えよ。畏れよ。跪き死に備えよ。さあ―――あともう一押しで、<お|・><ま|・><え|・><の|・><世|・><界|・><が|・><裏|・><返|・><る|・><ぞ|・>！”
-It's already over for this city. It's over for this region. The buildings and living things will change. They will be crushed from the fourth dimension to the second before being consumed. From transformation to harvest. Then the inner seas of the planet that have abandoned you and transformed shall come. Praise it. Fear it. Kneel down and embrace your death. Come―――Just one more push and your world shall turn inside out!'
+@g
+This city is already done for.
+ This entire region is done for.
+ Both buildings and beings will be converted.
+ Flattened from four dimensions down to two, and consumed.
+ From Event Conversion to Event Storage.
+ Next comes the Inner Sea of the Planet, long having forsaken you, indistinguishable from before.
+ Celebrate it.
+ Fear it.
+ Kneel and embrace your death.
+ Now, just a bit more, and your world will turn inside out!
 }
 [sha:90fd714f7d010aef683042a5e455aa482d3f0e3d]{
 -- Page 63, Offset 38513.
@@ -366,37 +422,44 @@ It's already over for this city. It's over for this region. The buildings and li
 [sha:04d1535208e1f2bf29b305082ed88649b90379f2]{
 -- Page 63, Offset 38514.
 -- 彼女の目は、何も見ていない。
-Her eyes can't see anything.
+// Often metaphorical
+Her eyes are clouded.
 }
 [sha:269abe644c237038ef67e36094a224d2d41d0938]{
 -- Page 63, Offset 38515.
 -- 片手で立ちあがろうとするが、力はまだ戻らないのか、血しぶきをあげて倒れてしまう。
-She tries to stand up with one hand, but crumbles and splashes around in the blood, perhaps because her strength has yet to return.
+She tries to push herself back onto her feet with one hand,
+ but her strength doesn't seem to have returned yet,
+ so she falls back down again with a splash of blood.
 }
 [sha:11e0a003b81988263c76a34b2f6951eddc3fb9b3]{
 -- Page 63, Offset 38516.
 -- そのたびに彼女の体は赤くなっていく。
-With every fall, her body turns even redder.
+// LintConsistency:37688
+With each and every fall, her body grows redder and redder.
 }
 [sha:2aae9d7433f29400daac9603f8bccc61b789241a]{
 -- Page 63, Offset 38517.
 -- 何度も、何度も。
-Over and over again.
+// Flopped with below
+She keeps trying to get up, only to slip, and fall.
 }
 [sha:baf2b8434e5968d623781b61a3ca1a980a96ee42]{
 -- Page 63, Offset 38518.
 -- 立ちあがろうとして、滑って、倒れて。
-Trying to get up, slipping, and then falling.
+Over and over again.
 }
 [sha:c6d5accca4d6b5def3d0599acaaaf99ab683e032]{
 -- Page 63, Offset 38519.
 -- ……そんな無様な行為さえ、彼女は愉しんでいるようだった。
-...Such an unsightly act seems to give her a sense of joy.
+Almost like she's enjoying the way she's clumsily flailing around.
 }
 [sha:41fb6e1def2fb4ae6a14a1324fa53773b9805c68]{
 -- Page 64, Offset 38520.
 -- 「まっ、てて」
-"Just... you wait."
+// Not overly pronounced pause in the VA here
+// Needs to match 37704.
+"Stay right there..."
 }
 [sha:f0dd4a6a183c39fe5dad0df55f71db7a3d60ca20]{
 -- Page 64, Offset 38521.
@@ -411,53 +474,75 @@ I can't move.
 [sha:c831f9b1f979f9e2e0ddc902e85b836aa5323780]{
 -- Page 64, Offset 38523.
 -- アルクェイドの声が、姿が、意思が―――否応無しに俺の頭の中に流れこんでくる。
-Her voice, her appearance, her will―――it all flows inside my head, whether I like it or not.
+// LintConsistency:37695
+Her voice, her appearance, her will――I'm powerless to stop them from flooding into my head.
 }
 [sha:0f47b8250da2a45f53fc65d4760a9eb8f601c2c5]{
 -- Page 64, Offset 38524.
 -- 俺という意思が流される。融かされる。翻弄される。
-My own will gets swept away. It gets melted. It gets tossed about.
+// LintConsistency:37696
+My own will gets swept away.
+ Dissolved.
+ Tossed about.
 }
 [sha:6f50e152d82b2084991fe670446d366aa2b0cc62]{
 -- Page 64, Offset 38525.
 -- ぐるぐると世界が回る。
-The world turns round and round.
+My world spins around and around.
 }
 [sha:ce04f815d18b85d8a886eda15f5e69e6d7a52f75]{
 -- Page 64, Offset 38526.
 -- その中で、彼女の思考が入ってくる。
-Within it, her thoughts enters mine.
+// Missing some of the flavor of 37698
+As it does, her thoughts invade mine.
 }
 [sha:282db1c091547ee2487d0eae1a0a027dfd7dda14]{
 -- Page 65, Offset 38527.
 -- “こんな屈辱は味わったことがない。
-// lint-off:LintPageOverflow
-'I've never felt such disgrace.
+// This page also packed to the god damn GILLS
+'Never have I known such disgrace.
 }
 [sha:13a3fe38e10eec3cde7c39d12bc15e377dba282f]{
 -- Page 65, Offset 38528.
 -- こんな恥辱は経験したこともない。
-I've never experienced such humiliation.
+Never have I experienced such humiliation.
 }
 [sha:0e3f8cedf9e9535d77cb5da897027fa010ecfafb]{
 -- Page 65, Offset 38529.
 -- ―――だから、愉しい。
-―――That's why I enjoy it.
+―――And that is why I enjoy it.
 }
 [sha:70921164c86e60e23a568ae6080dcf79c2235d18]{
 -- Page 65, Offset 38530.
 -- 志貴にこの身を焦がすほどの憤怒をぶつけ、叩きつける時がどれほど気持ちのよい事か想像もつかない。きっと愉しい。すごく愉しい。世界を引き替えにしてもいいぐらい愉しいに決まっている。嬉しい。嬉しい。嬉しい。もう我慢しない。もう見逃さない。もうこれ以上待ちきれない。四肢を引き千切って肋骨をあばいて臓物をよじり出して、助けをこう喉を踏み潰して頭蓋を切開して脳を地面に塗りたくるその瞬間―――――！”
-I can't even imagine how good it'll feel when I take out this burning rage on Shiki and crush him. I'm sure it'll be fun. Incredibly fun. It's obvious that it'll be fun, even if it means turning this world inside-out. I'm happy. I'm blessed. I can't hold back anymore. I won't let him go ever again. I can't wait any longer. I can't wait until I tear his limbs, rip open his ribs, and pull out his guts, stomp his throat as he calls for help before I cut his skull and smear his brains all over the floor―――――!'
+// Having an exceedingly normal one
+// 身を焦がす is normally burning (with love), so I guess keep that contrast with 憤怒?
+I can scarcely imagine the pleasure I'll derive from crushing Shiki with the fury of my passion.
+ I'm sure it'll be fun.
+ Incredibly fun.
+ So fun that I'll happily trade the world for it.
+ I'm so happy.
+ So happy.
+ So happy.
+ I can't hold back anymore.
+ I won't let him go ever again.
+ I can't wait.
+ I can't wait to tear him limb from limb,
+ rip open his ribs,
+ pull out his guts,
+ stomp on his throat as he calls for help,
+ then crack open his skull and smear his brains all over the floor!'
 }
 [sha:7b143eb3e82b886ad4827b51966c550d4ddccfad]{
 -- Page 66, Offset 38531.
 -- 「待っていて、すぐに殺してあげるから……！」
-"Just you wait, I'll come kill you right away...!"
+// Needs to match 37692.
+"Stay right there... I'm gonna kill you in just a second!"
 }
 [sha:bd03ff62caa7d8ada8540677a2f7b5cc4b7c9376]{
 -- Page 66, Offset 38532.
 -- 笑って、狂ったように笑い続けて、アルクェイドは自らの血の海でもがいている。
-Continuing to smile in madness, Arcueid squirms her way out of the pool of blood.
+Arcueid laughs maniacally, a crazed grin on her face as she writhes in a pool of her own blood.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 67, Offset 38533.
@@ -472,17 +557,17 @@ I can't move.
 [sha:aaec1f197a8921e3d3e57196f0f816a02e664162]{
 -- Page 67, Offset 38535.
 -- いけない。
-This is bad.
+Something isn't right.
 }
 [sha:9a9909732988be80b235e18aeb0ee728b9d42169]{
 -- Page 67, Offset 38536.
 -- 魂が芯から固まっている。
-My soul is frozen from its core.
+My soul is frozen to the core.
 }
 [sha:979ebfb2220810f708ae1666e45c8b19e99d84fb]{
 -- Page 67, Offset 38537.
 -- ここにいたら、本当に殺される。
-I'll seriously be killed if I stay here like this.
+I really will be killed if I stay here.
 }
 [sha:9d2628ad3fd81fbbe0c23d0db98d898c73abde87]{
 -- Page 67, Offset 38538.
@@ -492,12 +577,13 @@ I have to run.
 [sha:cc74cfd9401efa208c0bf47067a9acb36cdfa9ad]{
 -- Page 67, Offset 38539.
 -- どこでもいい、早くここから離れないと、殺される。
-Anywhere is fine. If I don't get out of here soon, I'll be killed.
+It doesn't matter where, I just need to get out of here.
+ I'll be killed if I don't.
 }
 [sha:77addf2e1b87acb92be9ada1bc7e90606ea230e7]{
 -- Page 68, Offset 38540.
 -- 「―――――あ」
-"―――――Ah."
+"―――Ah."
 }
 [sha:8c90502f7ae943e86a22b44a52cb1d2ef892fe6c]{
 -- Page 68, Offset 38541.
@@ -507,42 +593,51 @@ And yet, my legs won't move.
 [sha:3b539523d91c178348fc61fb15633198a1563828]{
 -- Page 68, Offset 38542.
 -- 世界は／俺のせいで／もう影も形もない―――いや、影だけの世界に成りはてて、あらゆる<事|も><象|の>が持っていかれてしまった。
-It's my fault that this world no longer exists―――No, that only the shadow of the world remains, and that everything is being taken away.
+// Structure awkward on this first one, but kinda want to preserve the insert quality of the 俺のせいで
+The world has vanished／because of me／without a trace.
+ No, it has been reduced to a world of nothing but shadows,
+ from which all <events|m a t t e r   > have been stripped away.
 }
 [sha:798dfc38cdd7cc55f56d3c8058703e91776ed389]{
 -- Page 69, Offset 38543.
 -- 建物も。人間も。すべてが薄っぺらな絵にされて取り上げられた。
-The buildings. The people. Everything is turned into fine film before being taken.
+All the buildings.
+ All the people.
+ Everything has been pressed into thin sheets of paper, and then taken away.
 }
 [sha:897eb2e3beab1777e80a3b16ecc8c67df4283193]{
 -- Page 69, Offset 38544.
 -- その中で俺とアイツだけが<立体|た>っている。
-Only the two of us stands on top of it all.
+// There seems to be some dimensionality bs happening here, maybe this should be 'still 3d'
+She and I are the only ones still standing, still solid.
 }
 [sha:29d644b36c21d33fe79316b847d0921707490010]{
 -- Page 70, Offset 38545.
 -- アイツは俺を許さない。他の<事|モ><象|ノ>のように収納しない。
-She won't forgive me. She won't harvest me like everything else.
+She won't forgive me.
+ She won't store me away like all the other <events|m a t t e r   >.
 }
 [sha:eed6447ea407e9cc707ace5cc799d140872bf787]{
 -- Page 70, Offset 38546.
 -- 生きたままバラバラにしたくて俺を仲間はずれにした。
-She stopped seeing me as a companion and wants to rip me into pieces alive.
+She kept me aside because she wants to rip me to shreds while I'm still alive.
 }
 [sha:d0fa93413f43ce40c31162c5e67e524ace2096ec]{
 -- Page 70, Offset 38547.
 -- 俺だけをこの街に残して、他の生き物をすべて、あの孔に消してしまった。
-I'm the only one left in this city, while every other living thing was erased by that hole.
+I'm the only one left in this city.
+ Because of me, every other living thing here has been swallowed by that hole.
 }
 [sha:4475a75751f5578ac646189fd295fbcaa640d94e]{
 -- Page 71, Offset 38548.
 -- 「あ―――、あ」
-"Ah―――ah."
+"%{i}Ah%{/i}――%{i}ah%{/i}."
 }
 [sha:851229467329e518aa9430dcc8fd0f6a99d0afd1]{
 -- Page 71, Offset 38549.
 -- 無駄だった。俺がやろうとした事は、こんな事で無くなった。
-It was futile. I tried to do something and ended up losing everything.
+It was all in vain.
+ Everything I tried to accomplish has come to naught.
 }
 [sha:c3faf22c3f3864913c914c61ee6afe8e9d467005]{
 -- Page 71, Offset 38550.
@@ -552,97 +647,105 @@ I ended up killing the city that I swore to protect.
 [sha:a3724f52147f8fc629b4b6ac2598fa86957b4e9e]{
 -- Page 71, Offset 38551.
 -- ……足は動かず、逃げ場所すら思いつかない。
-...I can't move my legs, and I can't even think of a place to run to.
+I can't move my legs...
+ I can't even think where I could possibly escape to.
 }
 [sha:0c2e730106db741ef1bc468075f02e49ef85698a]{
 -- Page 71, Offset 38552.
 -- どのみち、何処に逃げても。
-But I realized no matter where I run,
+Even if I could... no matter how far I run―――
 }
 [sha:0538c3170cf0f4d90a99a9321a1beda55ef0b7ca]{
 -- Page 71, Offset 38553.
 -- もう、絶対に殺されるって理解してやがるのか。
-I will definitely end up being killed.
+No matter what happens――I %{i}will%{/i} be killed.
 }
 [sha:a4d74217254f58bea6a1318458193a44421fa0e8]{
 -- Page 72, Offset 38554.
 -- 「遠野くん！　何してるんですか、こっちです！」
-"Tohno-kun! What are you doing? This way!"
+"Tohno-kun! What are you doing?! This way!"
 }
 [sha:49ab7fb6075f94c6f3463805899fe0a75eaa2440]{
 -- Page 72, Offset 38555.
 -- ―――その声。
-―――That voice.
+I hear her voice―――
 }
-[sha:a44b2507e7b031176ac1f2ba354ac02cd6db1c70]{
+[offset:38556]{
 -- Page 72, Offset 38556.
 -- その声で、恐怖から解放された。
-Such a voice releases me from my own fear.
+And that's enough to dispel the fear that had gripped me.
 }
 [sha:60c63423c15f22d273e4ea53ba6d337ec07dd762]{
 -- Page 73, Offset 38557.
 -- 「先輩……!?」
-"Senpai...?!"
+"Senpai?!"
 }
 [sha:4cfd8205d7b3d0a6edc829cfa48b9bc2d9a01685]{
 -- Page 73, Offset 38558.
 -- 「いいから、早く逃げるんです……！
-"Save it, we have to get out of here fast...!
+"Save it, we have to get out of here right away!
 }
 [sha:3fa26cb07edee496044e7e5c62432835c883d6d3]{
 -- Page 73, Offset 38559.
 -- 彼女の蘇生が終わる前に、早く！」
 Quickly, before she fully resurrects!"
 }
-[sha:fb286836297b86f36a76f3443ba7b535d0f3d63b]{
+[offset:38560]{
 -- Page 73, Offset 38560.
 -- 「あ――――」
-"Ah―――"
+"%{i}Whoa%{/i}―――"
 }
 [sha:b63e81c41b08a13f4d38119f27908a3c750fd159]{
 -- Page 74, Offset 38561.
 -- 先輩は当惑する俺の腕を掴むと、一足で上空まで跳び上がった。
-Senpai grabs the arm of my perplexed self and soars to the sky with a single step.
+Senpai grabs my arm while I stand there bewildered,
+ then kicks off and soars into the sky.
 }
 [sha:6b68207b5fab4625d4d0fd45b001f67a144805f0]{
 -- Page 74, Offset 38562.
 -- 一軒家の高さを軽く超え、建物の屋根に着地する。
-She easily passes over the height of a home and lands on the roof of a building.
+She effortlessly leaps clean over a building,
+ and touches down atop its roof.
 }
 [sha:3350e41178688f82be181f9685851df76b4390d5]{
 -- Page 74, Offset 38563.
 -- そのまま屋根を走ると、また次の屋根に跳躍する。
-She continues to run across the roof before jumping to the next one.
+After dashing along the length of the roof,
+ she takes flight again before landing on the next one down.
 }
 [sha:2f32740be79b8a34e45f34306ae535a050282a6e]{
 -- Page 75, Offset 38564.
 -- アルクェイドと夜の街を跳んだ時と同じ。
-It's the same as the time Arcueid jumped around the city.
+It's just like the time Arcueid went leaping around the city with me in tow.
 }
 [sha:02c717f0a6046b86c618f40eafb2db135f0a6b6a]{
 -- Page 75, Offset 38565.
 -- 違うのは、俺がこの跳躍について行けている事だ。
-The difference is that this time, I'm able to keep up with the maneuver.
+Except this time, I'm actually able to keep up on my own two legs.
 }
 [sha:9411a9641d4baa0ba7318c1c348ab4929b31cfd8]{
 -- Page 75, Offset 38566.
 -- 先ほどのアルクェイドとの戦いで、身体の吸血鬼化……ロアの侵食は秒単位で加速していた。
-My vampire transformation... Roa's encroachment had accelerated by the second during the fight against Arcueid from earlier.
+During my fight with Arcueid a moment ago,
+ my transformation into a vampire――Roa's corruption――had been speeding up by the second.
 }
 [sha:536e18ca45aba53ac30fd2ed60bcc1849b7371df]{
 -- Page 76, Offset 38567.
 -- 「先輩、どうして―――!?」
+// Almost 37750, but no ちょっ
 "Senpai, why―――?!"
 }
 [sha:03bb498623adaaad27f0712f480eccb749707c76]{
 -- Page 76, Offset 38568.
 -- 「どうしてもなにも、訊きたいのはこっちです！
-"What do you mean 'why'? I'm the one who should be asking questions here!
+// LintConsistency:37751
+"What do you mean 'why', that's what %{i}I'd%{/i} like to know!
 }
 [sha:541caf992ae5986531d7cf4ad604d29eed99acd5]{
 -- Page 76, Offset 38569.
 -- あれほど部屋から出ないでくださいと言ったのに、どうして外でアルクェイドと会ってたんですか、遠野くんのうわきもの！」
-I told you not to leave the room, so why were you outside meeting with Arcueid? You cheater!"
+I thought I was very clear when I told you not to leave that room,
+ so how come you met up with Arcueid, you cheater!"
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 77, Offset 38570.
@@ -652,92 +755,107 @@ I told you not to leave the room, so why were you outside meeting with Arcueid? 
 [sha:b997f4d157f51b7a02554005710fbff45c4a6e82]{
 -- Page 77, Offset 38571.
 -- いや、浮気者って、今はそういう場合じゃなくて。
-No, regardless of whether or not I'm a cheater, this isn't the time for that.
+Wait, cheater?
+ Is this really the time and place for these accusations?
 }
 [sha:c741e350fa9052a356ff963ea53edc600763422f]{
 -- Page 78, Offset 38572.
 -- 「部屋から出たのは謝ります、でも誤解ですから！
-"I apologize for coming out of the room, but this is a misunderstanding!
+// Similar to 37755
+"I'm sorry, I shouldn't have left the room,
+ but you've got the wrong idea!
 }
 [sha:73ac0f25713ddcae050bf6b1c7baf49e5763b1fb]{
 -- Page 78, Offset 38573.
 -- どうしても耐えられなくて、外に出たらアルクェイドがいて、アイツ、自分のものになれとか妙なコトを言い出して―――」
-I couldn't handle it anymore, and when I came out, Arcueid was there, and she said something strange asking me to submit to her and stuff―――"
+// Similar to 37756, different start
+I just couldn't take it anymore,
+ and when I went outside,
+ I ran into Arcueid,
+ and, like, she told me to become hers and―――"
 }
 [sha:0250a0b4ba0584b85fedfd215e954097133f0d32]{
 -- Page 79, Offset 38574.
 -- 「くうぅ、言い訳はあとでたっぷりしてもらうにして！
-"Khh, I'll listen to your explanations in detail later!
+"%{i}Rrrgh%{/i}, you've got some serious explaining to do later!
 }
 [sha:b2b46093a1c7af3ff0483964a365bb9d17d31627]{
 -- Page 79, Offset 38575.
 -- 今は急いで―――」
-Right now, we have to hurry―――"
+But right now we need to hurry―――"
 }
 [sha:eb1aa9569b11c2f455df58c6d9774d0bcf94988c]{
 -- Page 79, Offset 38576.
 -- 「先輩、前！」
-"Senpai, look ahead!"
+"Senpai, in front of you!"
 }
 [sha:181f0b9c388d397bbdc1d78d3ed2b40f00c0d7cf]{
 -- Page 80, Offset 38577.
 -- 突然、俺たちの前に巨大な壁が現れた。
-Suddenly, an enormous wall appears in front of us.
+Suddenly, an enormous wall emerges in front of us.
 }
 [sha:0809cecca2f252e0902b2b0ef95228b4d41ca310]{
 -- Page 80, Offset 38578.
 -- それはどう見ても中世の城の壁面で、俺たちは空を跳躍している最中で、もう衝突するしか選択肢は存在しなかった。
-No matter how you look at it, the walls appears to belong to a medieval castle, and as we were in the middle of leaping through the air, there was no other option but to collide with that thing.
+Crazy as it sounds, there's no denying that it's the outer wall of some medieval castle,
+ and because we're mid-jump, there's nothing we can do to stop ourselves from careening straight into it.
 }
 [sha:bb7703aaeb1c508b7db656a428b79cf339aba6af]{
 -- Page 81, Offset 38579.
 -- 「っ……！　遠野くん、口を閉じて！」
-"...! Tohno-kun, hold your breath!"
+// I _assume_ this is the idea over 'shut up'?
+"%{i}Hwah%{/i}?! Tohno-kun, careful not to bite your tongue!"
 }
 [sha:5e8ea3684adaf855f5c808fbd2ec85b420d2ea21]{
 -- Page 82, Offset 38580.
 -- 先輩は俺の腕を掴んだまま、出現した壁を蹴りつけた。
-While grabbing onto my arm, Senpai steps onto the newly-formed wall.
+Senpai grabs me by the arm and slams heel-first into the newly-formed wall.
 }
 [sha:b57f862ae903a0fb8c99cb05c09feac5ffd449da]{
 -- Page 82, Offset 38581.
 -- タン、と硬い石を踏んでいく音がする。
-The sound echoes of footsteps on a hard stone surface.
+I hear her footsteps echoing off the hard stone surface.
 }
 [sha:e46a7a2d15c44f8eacbc1cb16d0c9590ea1ffa81]{
 -- Page 82, Offset 38582.
 -- 先輩は壁を足場にして、真横につっ走って回避した。
-Senpai uses the wall as a pavement and runs across it horizontally.
+She's using the wall like a road,
+ running sideways along it to avoid crashing.
 }
 [sha:1a89303a34e2db20936435fd7956d62e57fea3b1]{
 -- Page 82, Offset 38583.
 -- この現象も常識から外れているが、先輩も負けじと反則技を見せてくれる。
-Although this phenomenon may be far removed from common sense, Senpai shows her willingness to play around it indomitably.
+This phenomenon absolutely defies common sense,
+ but Senpai seems more than willing to fight fire with fire.
 }
 [sha:ae6ce6a2ccb0a24f3e0d48c57071059d53129a7b]{
 -- Page 83, Offset 38584.
 -- 「先輩、これ何ですか!?
-"Senpai, what was that just now?!
+"Senpai, what the hell was that?!
 }
 [sha:e2496b8d4d79b7e747c7ffaf3ec821a61114807c]{
 -- Page 83, Offset 38585.
 -- 今の、どう見ても城の壁でしたけど!?」
-I'm pretty sure those were castle walls!"
+Am I seeing things or were those castle walls?!"
 }
 [sha:b7774ea89b78fe05e8ed7a49c9b99eefecd686c4]{
 -- Page 84, Offset 38586.
 -- 「アルクェイドの空想具現化です。こんな大規模なもの、わたしもはじめて見ました。
-"This is Arcueid's Marble Phantasm. It's also my first time seeing one at this large of a scale.
+"This is Arcueid's <Fantasy Manifestation|M a r b l e   P h a n t a s m     >.
+ It's the first time I've ever seen one of this magnitude.
 }
 [sha:a851397a6767d49a0b51772ce26877bf04dfd463]{
 -- Page 84, Offset 38587.
 -- ……急ぎます。この規模ではあと数分で、街がなくなってしまう」
-...We need to hurry. At this magnitude, this city will cease to exist in a matter of minutes."
+We need to hurry...
+ Because of its size, we only have a few minutes before the city ceases to be."
 }
 [sha:ba0692e41ddc17b011ebc5dcfa16cbf7738a3a79]{
 -- Page 85, Offset 38588.
 -- 外皮を失い、その中身も消失し、輪郭だけになったビル街。
-The downtown area loses its shell, its contents vanish, leaving only the outline.
+The shell of the downtown area is stripped away,
+ its contents drained,
+ leaving nothing but the outline of what used to be.
 }
 [sha:0686b2a69b04d77b438600233a62448c8d040d6d]{
 -- Page 85, Offset 38589.
@@ -747,15 +865,16 @@ Parts of the gigantic castle appear one after another.
 [sha:6030c1a7b937583afb2a91d882254cc7222c0e73]{
 -- Page 85, Offset 38590.
 -- もはや異界と化した夜を、俺と先輩は跳躍する。
-Senpai and I leap over the night of a world that has already changed.
+Senpai and I soar through a night so transfigured it may as well be another dimension.
 }
 [sha:5dc2e9590fb2b1c071b956e87b60e9afd6b5f5b2]{
 -- Page 86, Offset 38591.
 -- ……おそらく、目的地は学校だ。
-...It's likely that our destination is the school.
+Odds are we're headed for the school.
 }
 [sha:0d1d4eccc349d764c261b1c5522941a9a8acaae2]{
 -- Page 86, Offset 38592.
 -- 地下にロアの本拠地があったからなのか、この付近では学校だけが、街を襲った“簡略化”から逃れていた。
-Perhaps it's because Roa's stronghold was located beneath it, but the school was the only place in the vicinty that escaped the 'abstraction' that swept over the city.
+It seems to be the only place that has escaped the 'simplification' that has swept over the city,
+ possibly because it harbors Roa's stronghold beneath it.
 }

@@ -49,13 +49,13 @@ I must really be out of it if I'm confusing people for Ciel-senpai just because 
 -- Page 96, Offset 27328.
 -- ……どこまで本格的かと言うと、見間違いだと分かっていながら先輩似の誰かから視線を外せない。
 How out of it, you ask?
- Well, enough that I can't tear my gaze away from the Senpai-lookalike even though I know that it's not her.
+ Well, enough that I can't tear my gaze away from the Senpai look-alike, even though I know that it's not her.
 }
 [sha:f18d0177022aa3a3f49dc5041b6d7d5a4eaf81de]{
 -- Page 97, Offset 27329.
 -- 先輩に似た誰かはテーブルにつくと、いただきます、と丁寧に手を合わせてからうどんをつるつると食べ始めた。
 // Bone up the teeth
-The Senpai-lookalike sits down at her table,
+The Senpai look-alike sits down at her table,
  rubs her hands in anticipation,
  then starts noisily slurping her udon noodles.
 }
@@ -100,7 +100,7 @@ I sprint over to the table she's sitting at.
 [sha:df14aa7d049eb22f274b02942ee2c21fa47c9518]{
 -- Page 99, Offset 27337.
 -- 先輩はチラッと俺の顔を見上げると、ぷい、と顔を背けてしまった。
-Senpai glances up at me briefly, then pouts and turns away again.
+Senpai glances up at me briefly, then pouts, and turns away again.
 }
 [sha:3107a9703becfcacf9dc9f438bd3fb270a70bf15]{
 -- Page 99, Offset 27338.
@@ -117,7 +117,7 @@ She's clearly avoiding me, but I'm not in a state of mind to let that deter me.
 [sha:5620c6d9e3337bc4b74dff19c84536c1b165cbef]{
 -- Page 100, Offset 27340.
 -- 「なんでって、わたしはここの生徒です。お昼になったらごはんを食べないとダウンしちゃうじゃないですか」
-"I don't see why you're so confused; I'm a student here.
+"I don't see why you're so confused. I'm a student here.
  I won't make it through the day if I don't eat lunch, now will I?"
 }
 [sha:a9c9dbc8858d97ec2404a27d536c5e078c4b6da3]{
@@ -152,7 +152,7 @@ Senpai huffily turns her head away from me, a terribly displeased expression on 
 [sha:aa3a7f78a60152c01cd44768ea44066de7de0287]{
 -- Page 103, Offset 27346.
 -- 「だ、だって、もう先輩に会えないと思っていたから……先輩がいるのが、夢みたいで……」
-"W-Why? Because I thought I'd never get to see you again!
+"Wh-Why? Because I thought I'd never get to see you again!
  You being here is like a dream come true..."
 }
 [sha:1d0a167858ea988ccd9546f4321a5462aed7ac99]{
@@ -384,15 +384,18 @@ I think that―――
 [sha:3b3828459fcc8b715852ad0acf127ee4bb4fd832]{
 -- Page 121, Offset 42728. Choice.
 -- シエル先輩は先輩ですよ。
- Ciel-senpai will always be Senpai.
+// Referenced in flowchart
+ You'll always be Ciel-senpai to me.
 }
 [sha:aa87a3a71f238c015c8196530ee55feed2b90761]{
 -- Page 121, Offset 42729. Choice.
 -- シエル先輩は可愛いですよ。
- Ciel-senpai is cute.
+// Referenced in flowchart
+ You're cute.
 }
 [sha:c1555cf4aef697facc690313ebc2bfb385d3f41d]{
 -- Page 121, Offset 42730. Choice.
 -- シエル先輩はカレーマニアですよね。
- Ciel-senpai really loves curry.
+// Referenced in flowchart
+ You really love curry.
 }

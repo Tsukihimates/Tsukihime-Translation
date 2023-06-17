@@ -81,7 +81,7 @@ Yeah,
 -- でも代行者がいるかぎり、そんなマネをしたらすぐに見つかって処理されるわ。だから代行者がいる以上、上級の死徒は中々尻尾をださないの。<代|ア><行|イ><者|ツ>らは死者狩りには便利だけど、同時に上級の死徒を警戒させる厄介者なのよ」
 // I think 上級の死徒 doesn't refer to Rank VII in this case, but rather just a generic "higher ranked Dead Apostles"
 However, if they try something like that with Executors around, they'll be discovered and taken care of in short order.
- That's why higher-ranking Dead Apostles try and stay out of the spotlight whenever they're in town.
+ That's why higher-ranked Dead Apostles try and stay out of the spotlight whenever they're in town.
  On the one hand, it's convenient to have the Executors hunting down Dead Apostles,
  but on the other, they can make life difficult by putting them all on high alert."
 }
@@ -166,7 +166,7 @@ Arcueid pouts, seemingly disappointed.
 [sha:407cd9923f9be7ae3e789bd0da9818519f7d8592]{
 -- Page 510, Offset 16024.
 -- 「い、いや待て、そりゃ驚くよ！　吸血鬼のボスのねぐらが、うちの学校の地下だったって……!?」
-"W-Wait a second, that %{i}is%{/i} surprising! You're saying the vampire boss had his hideout under my school...?!"
+"W-Wait a second, that %{i}is%{/i} surprising! You're saying the vampire boss had his hideout under my school?!"
 }
 [sha:730ed2b835864576dae761aaaf6649266d863b52]{
 -- Page 511, Offset 16025.
@@ -254,7 +254,7 @@ Whatever the reason, I'm glad to not be shaking in fear.
 [sha:d1e927e694716b7b0fd8b1c179d78ae1c8efb36e]{
 -- Page 518, Offset 16038.
 -- 「くしゅん！」
-"%{i}Achoo!%{/i}"
+"%{i}Achoo%{/i}!"
 }
 [sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
 -- Page 518, Offset 16039.
@@ -345,15 +345,15 @@ The vampire nest Arcueid was talking about is now right around the corner.
 [sha:aa523c5fc0a0c0385a748bc8e09df48abba2a3dd]{
 -- Page 525, Offset 16054.
 -- ―――それは、住宅地のただ中にあった。
-// from hereon, there are many matching lines from ARC08_6B and ARC07_3G
-―――It's right in the middle of the residential district.
+// from hereon, there are many matching lines between Arc 8_6B and Ciel 7_6
+We've arrived at an apartment complex located square in the heart of this residential area.
 }
 [sha:a59d31d2f8f47f2429589133fe0d4f8d9eae6f50]{
 -- Page 525, Offset 16055.
 -- ごく一般的な、何の変哲もない４階建てのマンション。
 // near duplicate of Offset 20547
 // LintConsistency:20547
-An utterly unremarkable four-story apartment complex. Nothing unusual about it.
+An utterly unremarkable four-story building. Nothing unusual about it.
 }
 [sha:01e7d8114970c435f1bac120058ad9d5c569f058]{
 -- Page 525, Offset 16056.
@@ -495,7 +495,7 @@ Perhaps it's the brilliant white of the light leaking from the rooms,
 [sha:f3b4190f8287f49ab256912d8d845624538b2a5b]{
 -- Page 533, Offset 16079.
 -- 「―――そう。やっぱりアタリね」
-"―――Yeah. This one is definitely a hit."
+"I see. So I was right about this one, huh."
 }
 [sha:8957dd8989db31a42820d060db4b6a5c85328f83]{
 -- Page 533, Offset 16080.
@@ -512,7 +512,7 @@ A shutter has been lowered over the entrance.
 -- Page 534, Offset 16082.
 -- 「このシャッター、人避けと消臭の結界がかかってる。
 // partial duplicate of Offset 20561
-"A Barrier has been erected over this shutter that both wards off people and masks the scent of the Dead inside.
+"A barrier has been erected over this shutter that both wards off people and masks the scent of the Dead inside.
 }
 [sha:f7278aba023d57362cff17e385ec97bd7bdaf41e]{
 -- Page 534, Offset 16083.
@@ -537,7 +537,7 @@ I thought she would pull it up in one go, but―――
 [sha:a7aacc2612d47f47e3bcc1eba2ec6e9760dd3177]{
 -- Page 536, Offset 16087.
 -- 「そりゃ切れるけど……いいのか？」
-"Well yeah, I can... but is that okay?"
+"I mean, I can... but are you sure?"
 }
 [sha:1cb9009e414623496ffadd3e1b1575e8ff20c4a4]{
 -- Page 536, Offset 16088.
@@ -576,7 +576,7 @@ I peer through the hole cut in the shutter into the inky blackness beyond.
 [sha:9a2c9d606175a8643b05ea4f33b68add623734e8]{
 -- Page 539, Offset 16094.
 -- 「なんだ、この匂い……!?」
-"What the hell is this smell...?!"
+"What the hell is this smell?!"
 }
 [sha:4daff2e5b0fe9e89c7b485cde26efdbc903e5c5d]{
 -- Page 539, Offset 16095.
@@ -603,12 +603,12 @@ They must have noticed that they had visitors as soon as I cut through the shutt
 [sha:b4d8db57ab8616a740fcc5a1fe955dbae3fa90e3]{
 -- Page 540, Offset 16099.
 -- 塊の数は四つ……いや五つ……！
-There are four... no, five figures...!
+There are four... no, five figures!
 }
 [sha:03773e025cba46ddc2ac537a89e0708fadacafd5]{
 -- Page 541, Offset 16100. Mods: @k, @e.
 -- 「五体もいる……！
-"There are five of them...!
+"There are five of them!
 }
 [sha:321d5234891cf8d46a7d436f863e5912d1e58203]{
 -- Page 541, Offset 16101. Glued. Mods: @x, @k, @e.
@@ -1157,7 +1157,7 @@ I grab Arcueid's hand and start running.
 -- Page 579, Offset 16197.
 -- 今さらコイツの力には驚かない。なにしろあの寒波から街を守るぐらいのデタラメさだ。
 At this point, her powers no longer surprise me.
- I mean, they were absurd enough to protect the entire city from Vlov's billowing cold.
+ I mean, they were ludicrous enough to protect the entire city from Vlov's billowing cold.
 }
 [sha:94ac3ccbe5806b736781002e56d6bbcef2eacea7]{
 -- Page 579, Offset 16198.
@@ -1178,7 +1178,7 @@ But I really wish she'd do something about her complete lack of common sense.
 [sha:8de85a2769b77b37e7feb8e53d999ffd3c405d6c]{
 -- Page 580, Offset 16201.
 -- ちょっとは考えろ、ばか女！」
-Stop and think for once, dumbass!"
+Stop and think for once, airhead!"
 }
 [sha:8a86ed22053b1851ad1b323637d8e588b9614a3d]{
 -- Page 581, Offset 16202. Mods: @k, @e.

@@ -1,0 +1,16 @@
+diff --git a/allscr/retimed/allscr.mrg_0518.txt b/allscr/retimed/allscr.mrg_0518.txt
+--- allscr.mrg_0518.txt
++++ allscr.mrg_0518.txt
+@@ -1715,12 +1715,7 @@ _STMA(12,23819,0);
+ _SHK2(12,150,0,50,-1,0);
+ _STCH(14,aru_m_84_10_n00,54,288,1000,255,6214,,CC,64,,);
+ _STEC(14,1,0x000000);
+-_IFP4(,LV00500);
+ _STPV(14,165,597,);
+-_ZYbb000(LV00500);
+-_IFNX(,LV00600);
+-_STPV(14,163,597,);
+-_ZYbb200(LV00600);
+ _STZ4(14,593,593,593,593,0,0,0);
+ _SNX2(14,41);
+ _SNX4(14,64,);

@@ -73,12 +73,14 @@ There are no signs of life at all.
 [sha:1bf071b05d3dc30a5e86d35ed6e846732e530a91]{
 -- Page 726, Offset 7515.
 -- 逃げまどう■■も、
-There are no ■■ running away.
+// Assuming 人間?
+There are no ■■■ running away.
 }
 [sha:95ef0ac1c68780b7f1a1348ccbf8401fdaf7f55c]{
 -- Page 726, Offset 7516.
 -- 焼け焦げた■■もない。
-No ■■ being burned to a crisp.
+// Same here
+No ■■■ being burned to a crisp.
 }
 [sha:53cc1a33e6da594d0adfea515416c97af77e1cac]{
 -- Page 726, Offset 7517.
@@ -89,7 +91,7 @@ A space so tense and soundless I almost want to believe that the scene I saw on 
 [sha:3eb6e6be9767bf6897ac497d7e5e431a191059a3]{
 -- Page 727, Offset 7518.
 -- 「…………異常は、ないよな」
-"There's nothing unusual here...... right?"
+"There's nothing unusual here... right?"
 }
 [sha:9c1a969d5ea61e482d82182e996ec296136b1153]{
 -- Page 727, Offset 7519.
@@ -117,10 +119,10 @@ Trespasser. Trespasser. Trespasser.
 -- 場の空気を乱す害虫は、叩き潰されるのが通例だ。
 It is customary for vermin that disturb the atmosphere of a place to be crushed.
 }
-[sha:369c2466e4190e4947ee6a327e353c64f40b877d]{
+[offset:7524]{
 -- Page 728, Offset 7524.
 -- 「―――、ふう―――」
-"―――%{i}Haa%{/i}―――"
+"%{i}Haa%{/i}―――"
 }
 [sha:948c93e828fa4f46e7fe2035f635ba4cd1fa32c4]{
 -- Page 728, Offset 7525.
@@ -142,7 +144,7 @@ I feel nauseous.
 [sha:9bb2466564d4c9b112737a6b2959b21f45dcaaa3]{
 -- Page 728, Offset 7528.
 -- なにか、こめかみのあたり。
-There's a sensation at my temple.
+There's a strange sensation at my temple―――
 }
 [sha:c597f210934e4aaf41a346e515285d1546e51499]{
 -- Page 728, Offset 7529.
@@ -238,7 +240,7 @@ Just turn back, I tell myself.
 [sha:836a687bf72a8349667cbb02ffd13c4c703aca1e]{
 -- Page 732, Offset 7547.
 -- ―――何か。
-―――Somehow.
+For some reason―――
 }
 [sha:7e48d9712f3b7dc9a650ab0099eed84dbad8dbcf]{
 -- Page 732, Offset 7548.
@@ -390,7 +392,7 @@ At the end of the hallway, inside the elevator, the dogs are scavenging off peop
 -- Page 741, Offset 7577.
 -- エレベーターの隙間、下の階に通じる通風口から。
 // Rearranged slightly across these 2 lines
-Inside of the elevator is a vent leading to the floor below.
+Within the elevator is a vent leading to the floor below.
 }
 [sha:9944f69f599fb5c3b87971605bd9ed97cdb989fb]{
 -- Page 741, Offset 7578.
@@ -498,7 +500,7 @@ Because if I did that――I would also become one with the sea of red.
 [sha:a5176d999c95640e6eefbfec5bb0e155ba7326c5]{
 -- Page 747, Offset 7597.
 -- 「は―――ア。は。ア。は、」
-"%{i}Ha――a%{/i}. %{i}Ha%{/i}. %{i}Ah%{/i}. %{i}Ha%{/i}."
+"%{i}Ugh%{/i}――%{i}ah%{/i}... %{i}gh%{/i}――%{i}hhrgh%{/i}... %{i}ghh%{/i}."
 }
 [sha:6119045b4b4278360cf7330d24aee9ba95e8c50d]{
 -- Page 747, Offset 7598.
@@ -523,7 +525,7 @@ Having come back to my senses, I realize that the noise from downstairs has ceas
 [offset:7602]{
 -- Page 749, Offset 7602.
 -- 「…………は」
-"%{i}Ha%{/i}..."
+"%{i}Haah%{/i}... %{i}Aaah%{/i}..."
 }
 [sha:03fba19c19ab441a43df39ed93ac1063df02e956]{
 -- Page 749, Offset 7603.
@@ -618,7 +620,8 @@ No. That's not right.
 [sha:dead274ffbd23e059f3fef290de3729afb7a4876]{
 -- Page 756, Offset 7621.
 -- こんな事では殺されないし、死ぬこともない。
-There's no way I could be killed like this, no way I could die like this.
+There's no way I could be killed like this.
+ No way I could die like this.
 }
 [sha:5fe64f367301db6b4b59b66583507dd90513ff5e]{
 -- Page 756, Offset 7622.
@@ -633,7 +636,8 @@ I won't hesitate just because people are dead.
 [sha:efa689841f5d0502c9e89f2408e32ba7bb94cbbf]{
 -- Page 756, Offset 7624.
 -- ずっと昔、それとも七年も前の話。
-A long time ago. Seven years, to be exact.
+// Foreshadowing
+It was a long time ago. Or maybe it was seven years ago.
 }
 [sha:988ef56f7e49f07ff86036a1e5c5deb74f33eeac]{
 -- Page 756, Offset 7625.
@@ -757,7 +761,7 @@ Of course, the hand holding the knife is now also inside the dog's mouth.
 [offset:7648]{
 -- Page 766, Offset 7648.
 -- 「――――――あ」
-"―――%{i}Ah%{/i}."
+"―――%{i}Grgh%{/i}."
 }
 [sha:3ddcca3932a2ce26cf16a39b54f0d8b148a2f160]{
 -- Page 766, Offset 7649.
@@ -789,7 +793,7 @@ The pain finally brings me back to my senses.
 [sha:e3050cd99970c75e618f4b1d43ceace7b944a19a]{
 -- Page 767, Offset 7654.
 -- 冗談じゃない……！
-You've got to be kidding me...!
+You've got to be kidding me!
 }
 [sha:fe4072795fa413e9f1e4ac912dea1976687fe76c]{
 -- Page 767, Offset 7655.
@@ -799,7 +803,7 @@ What the hell am I doing, sticking a knife in a dog's mouth and letting it bite 
 [sha:f0ce46917cac7699b2392fa518b6ddce70048a67]{
 -- Page 768, Offset 7656.
 -- 「こ――――の………！」
-"You――little......!"
+"God... damnit!"
 }
 [sha:11ece62667e491ecd892550cc0e8ca80aee68d06]{
 -- Page 768, Offset 7657.
@@ -829,7 +833,7 @@ The dog shakes its body and forcefully positions itself on top of me.
 [offset:7662]{
 -- Page 771, Offset 7662.
 -- 「っ……！」
-"%{i}Gh%{/i}...!"
+"%{i}Gh%{/i}!"
 }
 [sha:1170dba77d68b073430f733595a79030556bd815]{
 -- Page 771, Offset 7663.
@@ -849,23 +853,23 @@ Even though I've run the dog through with my knife, it continues to clamp down w
 [sha:b6ba7632eb0f7ff1b9e3ed866c69eb7190358d57]{
 -- Page 772, Offset 7666.
 -- 「ひ、ぎ……！」
-"%{i}Hee, gh%{/i}...!"
+"%{i}Hee, gh%{/i}!"
 }
 [sha:7dc00cf17195ce73e44961e834560e17c417e8cd]{
 -- Page 772, Offset 7667.
 -- うでが、食いちぎ、られる―――！
-My arm is being ripped off―――!
+My arm is being ripped off!
 }
 [sha:77d199e7a3d76d16d9f846479f3f8d7aafe91b00]{
 -- Page 772, Offset 7668.
 -- 信じられない、こういう状態で物を噛める生き物じゃないだろう、犬ってのは……！
 I can't believe it.
- Dogs aren't supposed to be able to keep biting down when they're in a state like this...!
+ Dogs aren't supposed to be able to keep biting down when they're in a state like this!
 }
 [sha:39daa5af979c316bf77952b3ca3978bd10df353c]{
 -- Page 773, Offset 7669.
 -- 「こ、こい、つ……！」
-"Y-You, little......!"
+"Y-You bastard!"
 }
 [sha:15968c0c65db974772f61a7b7ebeed0b0f46fdcf]{
 -- Page 773, Offset 7670.
@@ -900,7 +904,8 @@ To be honest, my addled mind doesn't even care which it is.
 [sha:4a2ca8bc6471505be362b0b92fe1769dfd5dc46b]{
 -- Page 775, Offset 7676.
 -- 逃げようとしても、黒犬は俺の腕に食いついている。
-Even if I try to escape, the dog will still be latched onto my arm.
+Even if I tried to get away,
+ the dog has already latched onto my arm.
 }
 [sha:17ddb8ad63f862dae8c49a1fd66c584254c77bbf]{
 -- Page 775, Offset 7677.
@@ -988,7 +993,7 @@ Look. There's even a whole bunch of 'lines' right there on the back of the dog's
 [sha:49b980bba659afc9c3b6bffd6d6fecf5b5035964]{
 -- Page 778, Offset 7693.
 -- このように、生き延びる為の方法は常にシンプルだ。
-Just like that, it's always easy to see what needs to be done to survive.
+See? It's always easy to work out what needs to be done to survive.
 }
 [sha:fa08b1044900b8268cd279df0730b708430394f2]{
 -- Page 779, Offset 7694.
@@ -998,7 +1003,7 @@ Just like that, it's always easy to see what needs to be done to survive.
 [sha:9ff810b63287e8f24e5c95ff3bf49f5d491bfd7e]{
 -- Page 779, Offset 7695.
 -- なのに、どうして<躊躇|ためら>うのか。
-And yet, why do I hesitate?
+So then, why am I hesitating?
 }
 [sha:ca330376c9f4da99bacc71172dc81bec138d25d4]{
 -- Page 779, Offset 7696.
@@ -1013,7 +1018,7 @@ But even so, right next to me――suffocatingly close――is another living be
 [sha:4b0fecc37b6de9a66faed71434071452dad4a388]{
 -- Page 780, Offset 7698.
 -- 「は、ぐ―――！」
-"%{i}Ha, gh%{/i}―――!"
+"%{i}Haaaargh, gh, ghhh%{/i}―――!"
 }
 [sha:91e4d53acaccc1f73f1bdf645760317490a8285b]{
 -- Page 780, Offset 7699.

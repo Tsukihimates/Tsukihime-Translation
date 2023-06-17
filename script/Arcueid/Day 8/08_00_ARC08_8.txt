@@ -54,17 +54,17 @@ There, in the space between two streetlights.
 [sha:2529c272d965ea7a6311dc1596ebd7c9fa2e04e2]{
 -- Page 492, Offset 20964.
 -- はじめにあったものは恐怖だった。
-The first thing I felt was fear.
+The first thing I feel is fear.
 }
 [sha:e85a05d87127fc8aedc0b44efddfa70a26456307]{
 -- Page 492, Offset 20965.
 -- 心臓が停止するほどの非現実感。
-It was such a surreal sight that it made my heart seize in my chest.
+It's such a surreal sight that it makes my heart seize in my chest.
 }
 [sha:938a6b1e35bd9d859551ea88e105ff84820ffe44]{
 -- Page 492, Offset 20966.
 -- だがあいにく、この<肝|むね>には既にソレらへの耐性があり。
-But unfortunately for it,
+But unfortunately for them,
  I've recently built up quite a tolerance against the fantastical.
 }
 [sha:655a745fb0de575718b216ca48e720287bac8a04]{
@@ -158,12 +158,12 @@ Suddenly――with a click,
 [sha:76338e76ae5aa287bb57e7c67b8a44f6bfe1cdc9]{
 -- Page 496, Offset 20982.
 -- 月は確かに出ているというのに。
-Even though the moon is definitely out tonight.
+The moon is definitely out tonight―――
 }
-[sha:46fa8b21d2c9202512da33db26c2e9dd2baadb44]{
+[offset:20983]{
 -- Page 496, Offset 20983.
 -- 世界は、唐突に闇になった。
-The world is suddenly plunged into darkness.
+And yet the world is suddenly plunged into darkness.
 }
 [sha:10a8286789028a513f4da35c569c448786ec17a5]{
 -- Page 496, Offset 20984.
@@ -175,7 +175,7 @@ The world is suddenly plunged into darkness.
 -- 死を告げるように、心臓が跳ねあがる。
 // Motherfucker if you're gonna write the same thing please just write the _same_ thing
 // Near-ident sha:92cfcfd4ae9f09f1ccef6177bf93284562a149ca
-I feel my heart reverberate in my chest, as though it were sounding my death knell.
+I feel my heart reverberate inside my chest, as though it were sounding my death knell.
 }
 [sha:5fbef8abb757f5a56690399642f01323e6f8cf46]{
 -- Page 496, Offset 20986.
@@ -191,7 +191,7 @@ Conscious thought will have to take a back seat for now.
 [sha:da6a50c63391bc92b7cb94a0cd65fd7d386563a4]{
 -- Page 497, Offset 20988.
 -- 闇に走る刃物が伸びきる前に、その切っ先を下から弾きあげ、逸らして<凌|しの>ぐ。
-Before the blade scything through the darkness could connect,
+Before the blade scything through the darkness can connect,
  I swing my knife up from below and deflect the tip of the blade,
  staving off the attack.
 }
@@ -214,19 +214,19 @@ But first―――
 [sha:3b66d4749fa714afaae2d8be70f519c485a2698e]{
 -- Page 497, Offset 20992.
 -- この凶器を、片っ端から迎撃する……！
-I must intercept every strike of that deadly weapon...!
+I must intercept every strike of that weapon!
 }
 [offset:20993]{
 -- Page 498, Offset 20993.
 -- 「っ……！」
-"%{i}Kuh%{/i}...!"
+"%{i}Kuh%{/i}!"
 }
 [sha:4e1584d860e4b8882906cbe15778a7aa377d5eda]{
 -- Page 498, Offset 20994.
 -- 驚きはある。しかし思考は冷静だ。この人影を視た瞬間から一秒だって進んでいない。停止した思考。凍り付いた時間。自分が襲われているという事実さえ、今は驚きに値しない。
 // Reading 一秒 as figurative
 I'm surprised, sure. But my thoughts are calm.
- It doesn't feel like a single second has passed since the moment I saw this figure.
+ It doesn't feel like so much as a second has passed since the moment I saw this figure.
  My thoughts stopped.
  Time froze.
  The fact that I'm being attacked this very moment doesn't even register as noteworthy.
@@ -244,7 +244,7 @@ A darkness so profound we each can't make out the appearance of the other.
 [sha:b455bdf5c23fcfd8c0f9e7ab023ab0ffe260ce89]{
 -- Page 499, Offset 20997.
 -- その中において、なお、
-And yet, even in the midst of that darkness,
+And yet, even in the midst of that darkness―――
 }
 [sha:4b6e82517bda2b1859cb55c186eea297404d5325]{
 -- Page 499, Offset 20998.
@@ -254,20 +254,20 @@ the bonds of life shine ever so clearly.
 [sha:6754efc9ce73eb87fb5d3e319bf58fff1ddd4785]{
 -- Page 500, Offset 20999.
 -- 繰り出されるナイフを、予測通りに切り流す。
-I accurately predict and parry each swing of the blade with my knife.
+I accurately predict and parry each swing of their blade with my knife.
 }
 [sha:7dcab9a79eef66b954fde7d52675176f9dea8f40]{
 -- Page 500, Offset 21000.
 -- ―――驚くべきは。
 // Match verb from last clause on offset 20994.
-―――But there's one thing that does seem noteworthy.
+But there's one thing that %{i}does%{/i} seem noteworthy.
 }
 [sha:473b44caf7c78d165534db030ee9cc9fa227561a]{
 -- Page 500, Offset 21001.
 -- この闇の中で、休む間もなく振るわれる凶器を、的確に止めている自分自身の体だった。
 Despite the darkness,
  despite the relentless onslaught of that deadly weapon,
- this body of mine is able to stop each and every strike.
+ my body is still able to stop each and every strike.
 }
 [sha:7cd40927220b8ba1f7d7a0db4cd98a8ec245b555]{
 -- Page 501, Offset 21002.
@@ -414,7 +414,7 @@ As soon as I realized that my strategy was based around that fact...
 -- Page 506, Offset 21029.
 -- この“何か”が、俺と同じものを視ていると理解した。
 // ようやく yoinked from first half of sentence above the interjection
-I finally understood that this 'somebody' can see the same things I do.
+I finally understood that this person, whoever they are, can see the same lines that I do.
 }
 [sha:2929980385e3d9ff821777b37e58079b21c22ac3]{
 -- Page 507, Offset 21030.
@@ -505,13 +505,13 @@ I'm not the one with my back to the wall. They are.
 [sha:06cdb622a145a0e8f244165d1d9dbf6b5239317e]{
 -- Page 511, Offset 21044.
 -- ――――勝てる。
-―――Victory will be mine.
+Victory will be mine.
 }
 [sha:af6cd50321d949e3fb5c2018ed761dc01707858a]{
 -- Page 511, Offset 21045.
 -- ドコの誰だか知らないが、間違いない。
 I don't know who they are. I don't know where they're from.
- But I'm sure of it.
+ But there's one thing I do know―――
 }
 [sha:0ddc1ed47c679a9389ad722cee701dde631e8bd6]{
 -- Page 511, Offset 21046.
@@ -563,7 +563,7 @@ Ah, but it's strange.
 -- Page 512, Offset 21054.
 -- 俺はこの状況で、なぜ、凶器を振るう手に<淀|よど>みというものがないのだろう―――？
 Why, in a situation like this,
- does my hand not hesitate to swing this deadly weapon―――?
+ does my hand not hesitate to swing this instrument of murder?
 }
 [sha:bb93983ad220f0df3ac713777f64c684c1ad7151]{
 -- Page 513, Offset 21055.
@@ -584,7 +584,8 @@ There is no one in front of me.
 [sha:a06b3a2182340cb922897d34abb4707690aef310]{
 -- Page 514, Offset 21058.
 -- 先ほどまで殺し合っていた人影は、
-The figure that I was trying to kill just a moment ago,
+// Manually @n'd because this sentence break is ass
+The figure that I was trying to kill just a moment ago
 }
 [sha:e33d02ede440a7b139a31c81953eb7c4eb25c2b8]{
 -- Page 514, Offset 21059.
@@ -594,14 +595,14 @@ was pierced in the stomach by a long, thin object and sent flying toward the wal
 [sha:c03b2e3aa10ca625d2d44378c7435f051c1fd08c]{
 -- Page 515, Offset 21060.
 -- ―――事態が、まったく掴めない。
-―――I can't follow what just happened.
+It's taking me a second to process what just happened.
 }
 [sha:083b8c5b4d22e885c597bc0452c4c15df8398cd8]{
 -- Page 515, Offset 21061.
 -- 俺を襲ってきた人影……あれは男か……は、横合いから飛んできたパイプのようなものに体を貫かれていた。
-The figure that attacked me...
- I guess it was a man...
- His body was skewered by a pipe-like object that flew in from the side.
+The figure that attacked me――
+I guess it was a man――
+was skewered by a pipe-like object that flew in from the side.
 }
 [sha:5815ef20b46d48c01b92cd732f6779cc6fa7315b]{
 -- Page 516, Offset 21062.
@@ -621,7 +622,7 @@ But it's abundantly clear that this man is anything but.
 [sha:a335a764e74c9d130c6a03319a42c5a7ce147101]{
 -- Page 517, Offset 21065.
 -- 「“―――ジャマ、ヲ”」
-"―――Don't get in my..."
+"%{i}d o n't ge t i n m y%{/i}..."
 }
 [sha:b8f707edcec17aba6a11741273aae3c9f9061102]{
 -- Page 517, Offset 21066.
@@ -632,7 +633,7 @@ A hoarse voice.
 -- Page 517, Offset 21067.
 -- 男は腹を串刺しにされ、あえぎながら虚空を睨む。
 Wheezing heavily,
- the man with the skewer stuck through his stomach glares up into space.
+ the man with the skewer stuck through his stomach glares up at the sky.
 }
 [sha:b281f07bf15264a84551b329c3688c2f1331c11e]{
 -- Page 517, Offset 21068.
@@ -662,33 +663,30 @@ She's dressed like a priest from overseas.
 [sha:9f9008852c8ca42c782de222bdac292fc97bdaa9]{
 -- Page 519, Offset 21073.
 -- 右手に<携|たずさ>えた細い剣と、
-// CG here only shows one, but she throws like 3 of them 2 pages down?
-// Note that 剣 is intentionally translated as _blade_ here and later, not sword
-In her right hand she carries a thin blade,
+// Page shuffled around to make it clear that the あのカタチ is the black key
+In her left hand, she carries an enormous spear that sticks out like a sore thumb.
 }
 [sha:03df30b1a737a0b9d67588a6cf522e52a232116c]{
 -- Page 519, Offset 21074.
 -- 左に握った、あまりにも場違いすぎる巨大な槍。
-and with her left grasps an enormous spear that sticks out like a sore thumb.
+In her right, she holds a thin blade.
 }
 [sha:431bd7bc98745139b647d6dce27b8ee2430d8e43]{
 -- Page 520, Offset 21075.
 -- ……あのカタチは知っている。
-// Talking about shape of weapon, not shape of Noel
-I know that shape...
+I recognize its shape somehow...
 }
 [sha:e8fc0199a382cc0fa1878e01bd709197a4048adc]{
 -- Page 520, Offset 21076.
 -- いや、以前視界に入った事を、脳の一部が覚えている。
-No, a part of me remembers seeing something like it before.
+Or rather, I could swear I've caught a glimpse of it before.
 }
 [sha:cd2ac1c2b88c3cd215da94dfb96c0700f0fe17cf]{
 -- Page 520, Offset 21077.
 -- ヴローヴとの戦いのおり、あの剣が遠野志貴を氷塊から救った事を、意識していなくとも事実として認識している。
-// Don't remember when this happened, might need to check back and make sure the scope of the ice is consistent
-Back during the fight with Vlov,
- that blade was the one that saved me from those blocks of ice...
- I understand that fact without really being aware of it.
+// Referring to the last line of defence I assume
+Subconsciously, I make the connection that during the fight with Vlov,
+ it was one of those blades that saved me from his perimeter of ice.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 521, Offset 21078.
@@ -703,18 +701,18 @@ Our eyes meet.
 [sha:197afb074a957b67a7f426eb35dee74b25787dbb]{
 -- Page 521, Offset 21080.
 -- 街灯の上に立った女は、にこりと俺に笑いかけ、次の瞬間、
-The woman standing on top of the streetlight smiles at me, and then...
+The woman standing on top of the streetlight smiles at me, and then―――
 }
 [sha:c5571c7b115de34d12640b3caba0770294ffc8e3]{
 -- Page 521, Offset 21081.
 -- 手に持った細い剣を、黒い影へと放っていた。
-she hurls several of the thin blades in her hand at the shadowy figure.
+She hurls several of the thin blades in her hand at the shadowy figure.
 }
 [sha:96b34959b99df661a4a7d3bc4b56e5f0bcb0129a]{
 -- Page 522, Offset 21082.
 -- 「“聖堂よ、あれ”」
 // Likely 聖堂 from ドヤナリヤ三角聖堂
-"O temple, appear."
+"O Temple, appear."
 }
 [sha:ccc51bbecfe3a40cd47e22f1ed2dbf50f5308248]{
 -- Page 522, Offset 21083.
@@ -725,17 +723,17 @@ At those words, a light rises from the ground.
 -- Page 523, Offset 21084.
 -- ごうん、と風を薙ぐ音。
 // Anim of spear swinging
-The hum of a blade slicing through the air.
+I hear the hum of her blade slicing through the air.
 }
 [sha:b4c11ade43a148e0449a0219cd97c7f418ff24f3]{
 -- Page 523, Offset 21085.
 -- 彼女は巨大な槍を構え直し、
-She raises her massive spear at the ready,
+She raises her massive spear at the ready―――
 }
 [sha:13ab90c0d99bba31cab2616ea04eda915af44de6]{
 -- Page 523, Offset 21086.
 -- 街灯の上から、男めがけて飛び降りていた。
-and leaps off the streetlight, aiming straight at the man below.
+And then leaps off the streetlight, aiming straight at the man below.
 }
 [sha:f7f7eed3287e9573057da41e01248cd285da933d]{
 -- Page 524, Offset 21087.
@@ -755,7 +753,7 @@ The shadowy thing that clung to him is swept away by Noel's giant spear.
 [sha:c81da3d711fcd4696510f77e793186930a223823]{
 -- Page 524, Offset 21090.
 -- 駐車場にいた異形の死者のように、影もろとも姿が溶けていく。
-Just like the grotesque dead from the parking lot,
+Just like the grotesque Dead from the parking lot,
  the figure melts away, together with the shadow.
 }
 [sha:a6a6eca39303bd35d47e07af81aadade4d6b75ff]{
@@ -792,8 +790,8 @@ The man, and the shadow that clung to him, have disappeared.
 [sha:c5c56ce4e656ec2b82b1806636f4d0549c115456]{
 -- Page 526, Offset 21097.
 -- ……何の痕跡もなく、この世から消滅したのだ。
-Not a single trace remains,
- they were simply wiped clean off the face of the earth.
+Not a single trace remains.
+ They've been wiped clean off the face of the earth.
 }
 [sha:3882ac06501bc895f9ec7437612943f12a369665]{
 -- Page 527, Offset 21098.
@@ -864,7 +862,7 @@ well, I wonder if I should still call you that?"
 -- 「ふふ。そうねぇ。先生って響きは悪くないけど、ここは学校の外なんだし？　先生は外したほうが何かと気が楽よね、お互いに」
 "%{i}Hehe%{/i}. That's a great question.
  I don't mind the sound of 'sensei', but we aren't at school, are we?
- I think it'll be easier for both of us if you drop the 'sensei'."
+ I think it'll be easier for both of us if you drop it."
 }
 [sha:3678295d40c0f8a7c73891dbba58b67f8ffde5e0]{
 -- Page 532, Offset 21109.
@@ -891,10 +889,10 @@ I―――
 [sha:5f9f538d8c6d5ae5308fd8db8f721fcc9ae70959]{
 -- Page 534, Offset 42657. Choice.
 -- ……敵として相対する。
- ...Confront her as an enemy.
+ Confront her as an enemy.
 }
 [sha:603dcb94dbc3757fcb4a5696cc2f4972b3db847a]{
 -- Page 534, Offset 42656. Choice.
 -- ……警戒して身構える。
- ...Stay cautious but alert.
+ Cautiously get ready to fight.
 }

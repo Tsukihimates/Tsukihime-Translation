@@ -17,7 +17,7 @@ As though I'm watching it through a layer of caramelized sugar.
 [sha:614a7ccf8f1cdebb1bca0765463dbfee7e0134bc]{
 -- Page 2, Offset 27056.
 -- あの女が、ほしいのか。
-Do I... desire that woman?
+Do I... desire her?
 }
 [sha:1013b02814918f3245531e28854364b1d750354a]{
 -- Page 2, Offset 27057.
@@ -44,7 +44,7 @@ Still, even though my thoughts are in such disarray,
 [sha:ed2df0c7e359fec642534357e47eff7c70e4b876]{
 -- Page 3, Offset 27061.
 -- あの女が、好きなのか。
-Do I... love that woman?
+Do I... love her?
 }
 [sha:bf060fcfb5687d336a214f75e9b5153e1cae0217]{
 -- Page 3, Offset 27062.
@@ -132,7 +132,7 @@ Was it all my fault...?
 [sha:7c686ab0a169e4d34fda0e6f213a878a61a4f5f7]{
 -- Page 7, Offset 27078.
 -- 「―――志貴さま」
-"―――Shiki-sama."
+"Shiki-sama."
 }
 [sha:f3fcf506818f2cd038db7b8d67ee88dd21b2cfef]{
 -- Page 7, Offset 27079.
@@ -216,7 +216,7 @@ My head is still pounding, but it ought to clear up soon enough.
 -- 「だいじょうぶ、頭痛はすぐに治まる。体調だって悪くないし、ここのところ調子はいい。考え事があって、ちょっと寝不足なだけなんだ」
 "It's just a headache, it won't last.
  Physically I'm fine, and I've actually been feeling pretty good lately.
- I've just not been getting a lot of sleep; had a lot to think about."
+ I've just not been getting a lot of sleep. Had a lot to think about."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 14, Offset 27094.
@@ -273,7 +273,7 @@ I can't stay home just because I have a headache.
 [sha:7a9647357944a3b8d049fc9730548166267c91f5]{
 -- Page 17, Offset 27104.
 -- それでは、どうかご無理をなさらぬようお願いします」
-If you must go, I humbly ask that you not strain yourself too much."
+If you must go, I humbly ask that you do not strain yourself too much."
 }
 [sha:5195d1ad30ad42779962dfed348fe49316f2f85b]{
 -- Page 17, Offset 27105.
@@ -281,10 +281,10 @@ If you must go, I humbly ask that you not strain yourself too much."
 Hisui leaves the room,
  though judging by the look in her eyes, that wasn't all she wanted to say.
 }
-[sha:0ae9bf0550177a5f3b4ae4e185ee7fb359482b12]{
+[offset:27106]{
 -- Page 18, Offset 27106.
 -- 「っ――――」
-"――――"
+"%{i}Ow%{/i}."
 }
 [sha:acfc45d9959dfbfc4e8ece2ab38b09c0fac7dcfd]{
 -- Page 18, Offset 27107.
@@ -316,7 +316,7 @@ Normally when I get dizzy it feels like I'm falling,
 [sha:d8b29de268f9406c0732ad818f5e621c3a0c2b48]{
 -- Page 20, Offset 27112.
 -- 「が、あ……！」
-"%{i}Guh%{/i}... %{i}Ah%{/i}...!"
+"%{i}Grgh%{/i}... %{i}Aghh%{/i}!"
 }
 [sha:f604291fe068f5085c4ef3c215fab22423fa15b0]{
 -- Page 20, Offset 27113.
@@ -371,7 +371,7 @@ I can't even count the number of things I've been forced to give up on as a resu
 [sha:d22d3c857262f72bb981a6f0740d6515b11533c4]{
 -- Page 24, Offset 27122.
 -- 医者は奇跡的に命を取り留めた、と言っていた。それだけで充分に感謝すべきだと。
-Doctors told me it was a miracle I even survived.
+The doctors told me it was a miracle I even survived.
  That I should be grateful I was alive at all.
 }
 [sha:ea4d3f3a2ff7d8306c25f606c12b406d577221b8]{
@@ -419,7 +419,7 @@ Life is frail.
 -- 生者と死者の垣根はない。誰も死を拒む壁になど守られてはいない。我々の生存は何の保証もされていない。
 There is nothing that separates the living from the dead.
  There are no walls that can shelter you from death.
- There are no guarantees that any of us will go on existing.
+ There are no guarantees any of us will go on existing.
 }
 [sha:84edb0d6420fc7a3ce9bba417107c8da69b1451a]{
 -- Page 27, Offset 27131.
@@ -521,5 +521,5 @@ I should hurry over there right away...
 -- Page 32, Offset 27150.
 -- 俺は頭の隅に残る<頭痛|しこり>を堪えながら、自分の部屋を後にした。
 I leave my room,
- doing by best to ignore the <headache|l e s i o n     > still lurking in the corner of my brain.
+ doing my best to ignore the <headache|l e s i o n     > still lurking in the corner of my brain.
 }

@@ -17,7 +17,7 @@ It's like a small typhoon swept through the halls,
 [offset:32502]{
 -- Page 301, Offset 32502.
 -- 「っ……！」
-"%{i}Gh%{/i}...!"
+"%{i}Gh%{/i}!"
 }
 [sha:ba341954b32c5a12a8735d1bda0899bee2a2dc18]{
 -- Page 301, Offset 32503.
@@ -27,12 +27,12 @@ Ciel may have sped through the city at a breakneck pace, but it still wasn't eno
 [sha:ebd43c4f5fbee5020fead6a4c67e471e8ac75070]{
 -- Page 301, Offset 32504.
 -- アルクェイドとロアの戦いはもう始まっている……！
-Her battle with Roa has already begun...!
+Her battle with Roa has already begun!
 }
 [sha:752dd853e0497175a464f1ae684a5282144ce4c8]{
 -- Page 302, Offset 32505.
 -- 「……上の階……！」
-"They're upstairs...!"
+"They're upstairs!"
 }
 [sha:cf3b603293365d4d01c8d72dc98d71063cbca182]{
 -- Page 303, Offset 32506.
@@ -228,12 +228,12 @@ Still on her knees, Arcueid turns back and fixes me with her glare.
 [sha:6f5691b9af7c2c22cbf5d20b9a5d65fa7cf06e01]{
 -- Page 317, Offset 32542.
 -- 「………………！？」
-"......?!"
+"%{i}Nh%{/i}?!"
 }
 [sha:16ca7fce75b7bd02e2dbc44bafbd94315ee128ae]{
 -- Page 317, Offset 32543.
 -- 体が、動かない……!?
-My body... won't move...?!
+My body... won't move?!
 }
 [sha:273d0f3375dfabcad1da23d1cf0e9b2c3b863c2d]{
 -- Page 317, Offset 32544.
@@ -289,7 +289,7 @@ Even though I finally made it here―――!
 [sha:c5ee2d97ae3032853bccca40ce3f9b2b017fe995]{
 -- Page 321, Offset 32554.
 -- 解いてくれ、アルクェイド……！！」
-Let me go, Arcueid...!"
+Let me go, Arcueid!"
 }
 [sha:d2e9e9e6df8157b8eff84cebaf052b161f374486]{
 -- Page 322, Offset 32555.
@@ -330,7 +330,7 @@ This isn't one of the effects of Arcueid's Mystic Eyes.
 [sha:0844225566999b1408ab75ae9cc4dac73384c6cf]{
 -- Page 323, Offset 32562.
 -- ここまで来たのに。何もできない自分が悔しくて、今まで無理やり動かしていた体が、熱を失っていく。
-I made it all the way here, and yet...!
+I made it all the way here, and yet!
  I'm frustrated with myself for being so powerless,
  and my body, which had protested at every step of my journey here,
  begins to grow cold.
@@ -356,7 +356,7 @@ If you don't want that... then show me that last bit of pride of yours."
 -- Page 324, Offset 32566.
 -- 「ロ――――、ア…………！」
 // lint-off:LintNameMisspellings
-"Ro――a...!"
+"Ro――a!"
 }
 [sha:779c81a544fae815e56a5c0f49a23f90ff991812]{
 -- Page 325, Offset 32567.
@@ -386,12 +386,12 @@ His body immediately restores itself, and he shows no signs of slowing down.
 [sha:bce3febe0032ea0ac24728aab1462e878128c2f3]{
 -- Page 327, Offset 32572.
 -- 姫君はおまえを逃がす為に、私と刺し違える事にしたらしい。だが―――」
-It seems like the princess has decided to cross swords with me to save your life. However―――"
+It seems like the Princess has decided to cross swords with me to save your life. However―――"
 }
 [sha:902f0f89236918f7d5b7f80bf4bc8f3d04432798]{
 -- Page 328, Offset 32573.
 -- 「かつての姫君なら恐ろしくもあったが、今の君はただの吸血鬼だ。真祖としての力も十全に発揮できない。
-"You would have been terrifying had you been the princess you once were,
+"You would have been terrifying had you been the Princess you once were,
  but now you're nothing more than an ordinary vampire.
  You cannot truly make use of your power as a True Ancestor.
 }
@@ -405,7 +405,7 @@ How sad. So sad that it breaks my heart.
 [sha:d9e0ecedce7e300da5da4133ef6a9c4ede1b4f13]{
 -- Page 329, Offset 32575.
 -- 「―――、黙れ……っ！」
-"―――Shut up...!"
+"―――Shut up!"
 }
 [sha:831d699bfe140343727a124e49af16f9c1ea85bf]{
 -- Page 329, Offset 32576.
@@ -420,12 +420,12 @@ Arcueid's voice rings out across the walkway.
 // Flag translation of 星の触覚 in a broader context
 "The ability to temporarily rewrite physical phenomena.
  To manipulate natural phenomena and enthalpy as you see fit.
- Such are the natural rights of True Ancestors as the planet's sense of touch itself.
+ Such are the natural rights of True Ancestors as the Touch of the Planet itself.
 }
 [sha:9d0396a14b12571e967015ba119155f68d54d5fc]{
 -- Page 330, Offset 32578.
 -- まさに創造の権能だ。いかな魔術を極めようと、人間ではおまえたちには遠く及ばない」
-Truly, the %{i}Authority of Creation%{/i}.
+Truly, the Authority of Creation.
  No matter how much humans strive to master magecraft,
  we will never manage to measure up to the True Ancestors."
 }
@@ -438,7 +438,7 @@ Truly, the %{i}Authority of Creation%{/i}.
 -- Page 331, Offset 32580.
 -- 繁栄し、学習し、独立し、知恵ある<動|サ><物|ル>として進化した人間は、もうこの星とは違う分類だからだ」
 That's because the apes we humans once were have evolved to become possessed of prosperity, knowledge, independence, and wisdom.
- We are no longer in the same category as this planet."
+ We are no longer in the same category as the planet."
 }
 [sha:a7bb6f8352c4e4346745c0ca96b8e3d7deb81ae2]{
 -- Page 332, Offset 32581.
@@ -523,9 +523,9 @@ Because if I don't, then everything―――
 -- Page 336, Offset 32595.
 -- しかし、いかに神秘を学ぼうと、どれほど長寿の生物がいようと、無に還る<終|つい>―――本質的な死を体験する事はできない」
 And yet,
- no matter how much you study the arcane,
- no matter how long your lifespan may be,
- you will never be able to experience that return to nothingness――true death."
+ no matter how much one studies the arcane,
+ no matter how long one's lifespan may be,
+ it will never be possible to experience that return to nothingness――true death."
 }
 [sha:d79014ed0e0f96e98244f878af98a0d34ed2effc]{
 -- Page 337, Offset 32596.
@@ -582,7 +582,7 @@ This billowing wave of energy so potent that death itself cannot trespass upon i
 [sha:38c66ac6a9f8e6baddbbd1ffebc753651be40418]{
 -- Page 339, Offset 32606.
 -- 身をもって千年の代償を受けるがいい。
-You can experience firsthand the retribution for these past thousand years.
+You can experience firsthand the retribution for this past millennia.
 }
 [sha:769e0e8258559105ac262d2c97578b166a939bcc]{
 -- Page 339, Offset 32607.
@@ -683,7 +683,7 @@ I can't even begin to imagine the 'fear' that Roa must feel,
 [sha:62f65daa5f73f259028e84e1a5406ad25df772b2]{
 -- Page 345, Offset 32624.
 -- 「魔術基盤が―――エーテルが―――存在しない……!?
-"It's gone――there are no Magecraft Foundations here――or %{i}Ether%{/i}...?!
+"It's gone――there are no magecraft foundations here――or Ether?!
 }
 [sha:f4a10084478c1150c2b25cc94b09fc6bd7616100]{
 -- Page 345, Offset 32625.
@@ -734,7 +734,7 @@ Even tormented by this knowledge,
 -- Page 348, Offset 32633.
 -- 「そうか―――これが天体を成すもの！　私のパンテオン、私を堕落させた原初の一……！
 "I see, so this is that which forms the celestial!
- My Pantheon――the %{i}Original One%{/i} that brought me to corruption...!
+ My Pantheon――the Original One that brought me to corruption!
 }
 [sha:fd7256ac039e10eb77853c101b19b51cd3c62543]{
 -- Page 348, Offset 32634.
@@ -805,15 +805,11 @@ The battle is not so easily won.
 [sha:0c77531d75b375850d9ab7b4cab4fafae5cac685]{
 -- Page 353, Offset 32647.
 -- 「“まさしく魔の王。人知いまだ及ばぬ、<虚|ソ><空|ラ>を覆う<天蓋|てんがい>よ”」
-// Petrikow:
-// Not a specific term, but it does resemble 魔王 (what the fallen True Ancestors are called).
-// However, do not translate it at 'Demon Lord' (which is what 魔王 is often translated as).
-// This is just a turn of phrase to describe Arcueid.
-// Ross:
-// 空を覆う is like "to blot out the sky", if she's covering up the (虚)空 is that
-// like she's the firmament blocking the view to heaven?
+// 人知いまだ及ばぬ = Arc Motif
+// 魔の王 = the ultimate 魔 (literally untranslatable)
+// ソラを覆う天蓋 = Arc Motif
 "%{g}You truly are the lord of the mystical.
- The firmament that seals off the cosmos itself,
+ The firmament that covers the cosmos,
  something as yet beyond human comprehension.%{/g}"
 }
 [sha:3b3126bf83187d17ab3b3c4ae2407e8067007138]{
@@ -891,7 +887,7 @@ Still on her knees, Arcueid no longer even bothers to lift her head.
 %{g}Know this well.
  I am the perfection of immortality itself.
  I have fathomed death... its darkness.
- Over and over again have I overcome that nothingness...!%{/g}"
+ Over and over again have I overcome that nothingness!%{/g}"
 }
 [sha:547423f2eb8ccfd72704b8df7136834a1747edb8]{
 -- Page 358, Offset 32662.
@@ -978,7 +974,7 @@ He sends her flying in my direction.
 [sha:9e36f17e2755dd352f4e3e0cc86b2b1760bd791b]{
 -- Page 365, Offset 32677.
 -- 「アルクェイド……！」
-"Arcueid...!"
+"Arcueid!"
 }
 [sha:65a7968ea8cc91dee76f9740777d40c5bce4460a]{
 -- Page 365, Offset 32678.
@@ -1158,13 +1154,13 @@ Right. This must be a joke.
 [sha:635979b67441dc9e0a9f14011a21e494ba36b6ca]{
 -- Page 376, Offset 32713.
 -- 「―――どうして―――どうしてこんな―――どうしてひとりで、こんなコトするんだよ……！
-"―――Why――why did you――why did you do all of this on your own...?!
+"―――Why――why did you――why did you do all of this on your own?!
 }
 [sha:ae567835192cc25cbf41853db0e22d4a4d8e9ecb]{
 -- Page 376, Offset 32714.
 -- 俺たちは仲間だろ、協力するって―――最後まで助けてやるって、ちゃんと言ったのに……！」
 We're partners, aren't we?
- I said I'd cooperate with you――that I'd help you right up until the end...!"
+ I said I'd cooperate with you――that I'd help you right up until the end!"
 }
 [sha:73f3e8a818604b6789f3a9766028e5d6d7572110]{
 -- Page 377, Offset 32715.
@@ -1179,7 +1175,7 @@ I guess... I must have forgotten."
 [sha:51f137d9a32341f1e3be1b77a9fac3e6481f7535]{
 -- Page 378, Offset 32717.
 -- 「忘れるなよそんなコト……！
-"You can't go forgetting something like that...!
+"You can't go forgetting something like that!
 }
 [sha:d1efe44efa1cd11786e39775bde84dd04b8a63c5]{
 -- Page 378, Offset 32718.
@@ -1287,7 +1283,7 @@ But, even so, I need to uphold her dream.
 [sha:1151fcf2a93354c74fc2da86b9f0ce998ed6f57a]{
 -- Page 383, Offset 32738.
 -- 「あ―――あ、あ。ありがと、う。助かっ、た、」
-"T――T-T... Thank you. You saved... me."
+"Th――Th-Th... Thank you. You saved... me."
 }
 [sha:c18d65453d9ad9cd63e49e01ed34ba6cbacd7f27]{
 -- Page 383, Offset 32739.
@@ -1337,7 +1333,7 @@ Am I really going to let her slip away like this?
 [sha:8c4bf4f3289c2699f4e232eee681c81e65c70a7c]{
 -- Page 385, Offset 32748.
 -- そうすれば力が戻るんだろう、おまえは……！」
-Your strength will return if you do, won't it...?!"
+Your strength will return if you do, won't it?!"
 }
 [sha:c33c8cf118c78264942b2d30e32676e0c59f8154]{
 -- Page 385, Offset 32749.
@@ -1679,7 +1675,7 @@ These are things that I will never be able to forget.
 [sha:7681e1cde97a02affdc16442862bb6628a642580]{
 -- Page 402, Offset 32813.
 -- かつん、と。
-%{i}Step%{/i}.
+%{i}Tap%{/i}.
 }
 [sha:bfd7b8423d23f2c350304845b1238d07e10284c8]{
 -- Page 402, Offset 32814.

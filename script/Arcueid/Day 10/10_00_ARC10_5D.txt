@@ -56,8 +56,8 @@ Did something happen?"
 [sha:fde620cae9e352be21df0a91de63fbc14e8adb93]{
 -- Page 561, Offset 25720.
 -- 志貴が話してくれた黒い死者の事が、ちょっとひっかかって」
-// maybe don't just translate 黒い as "black" for these...
-It's just that the shadowy Dead you told me about has been bothering me a bit."
+// 黒い死者 as shadowy figure for clarity
+It's just that the shadowy figure you told me about has been bothering me a bit."
 }
 [sha:39fa63809adb5757b05dcc78577929e2c64c46d3]{
 -- Page 562, Offset 25721.
@@ -108,7 +108,8 @@ She really does turn on a dime.
 [sha:eade7943097b2b5b6027f91591a2fbaae034ecd6]{
 -- Page 565, Offset 25730.
 -- 「……いや、何が起きたのかは分かるんだが……おまえ、黒い死者について考えごとしてるんじゃなかったのか？」
-"No, I understand what happened, but... weren't you agonizing over that shadowy Dead just a second ago?"
+// 黒い死者 as shadowy figure for clarity
+"No, I understand what happened, but... weren't you agonizing over that shadowy figure just a second ago?"
 }
 [sha:79152efc857736d5b3c1b939fa29a8c315dc0afb]{
 -- Page 566, Offset 25731.
@@ -1107,7 +1108,7 @@ So this is what it's like to be preyed on.
 [sha:36bf05889544779687e59ef64e1b7d94565c8e20]{
 -- Page 622, Offset 25924. Mods: @n.
 -- この生命の前では、
-A human in front of this lifeform―――
+A human in front of this life-form―――
 }
 [sha:1ae1e74cba1e1a2f82e2454ffa71675559654840]{
 -- Page 622, Offset 25925.
@@ -1138,6 +1139,7 @@ All that's left in my mind is fear.
 [sha:f784c964cdc82e94975c3307726cf102abe3e22e]{
 -- Page 623, Offset 25930.
 -- 「[ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00]」
+%{no_break}
 "[ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00][ber00]"
 }
 [sha:dd923799bc38234f4bbe918d8f54b690304bd1a9]{

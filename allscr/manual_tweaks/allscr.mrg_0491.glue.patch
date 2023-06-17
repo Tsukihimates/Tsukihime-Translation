@@ -1,0 +1,31 @@
+diff --git a/allscr/retimed/allscr.mrg_0491.txt b/allscr/retimed/allscr.mrg_0491.txt
+--- allscr.mrg_0491.txt
++++ allscr.mrg_0491.txt
+@@ -3497,11 +3497,11 @@ _WKST(C859,eq,0);
+ _WNTY(0);
+ _ZMb2a0b($040925@k@e);
+ _VPLY(B10_14_01B_0075_4,03391);
+-_WKAD(F823,1);
++_WKAD(F823,0);
+ _WKST(C847,eq,0);
+ _WKST(C859,eq,0);
+ _WNTY(1);
+-_ZMb2a0c($040926);
++_MSAD($040926);
+ _WKST(F823,eq,0);
+ _WKST(F847,eq,0);
+ _WKST(F848,eq,0);
+@@ -3751,11 +3751,11 @@ _WKST(C859,eq,0);
+ _WNTY(0);
+ _ZMb2a18($040938@k@e);
+ _VPLY(B10_14_01B_0077_4,0339a);
+-_WKAD(F823,1);
++_WKAD(F823,0);
+ _WKST(C847,eq,0);
+ _WKST(C859,eq,0);
+ _WNTY(1);
+-_ZMb2a19($040939);
++_MSAD($040939);
+ _WKST(F823,eq,0);
+ _WKST(F847,eq,0);
+ _WKST(F848,eq,0);

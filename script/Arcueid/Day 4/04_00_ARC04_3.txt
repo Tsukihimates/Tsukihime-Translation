@@ -100,7 +100,7 @@ This morning I can start my day as usual without having to worry about being lat
 [sha:257d83f706a6956190e2b4b0f0e982103a7a4b2e]{
 -- Page 108, Offset 5829.
 -- この交差点を抜ければすぐに正門だ。
-After I cross this intersection, it's only a little ways to the main gate.
+After I cross this intersection, it's only a little ways to the main entrance.
 }
 [sha:fe557a1cdec029935f3c6da57add092581254bd3]{
 -- Page 108, Offset 5830.
@@ -110,13 +110,13 @@ The traffic light turns red, and I stop in front of the crosswalk.
 [sha:a91d3208f7ef5a80ce0936d43c01c36cbb8f3e41]{
 -- Page 108, Offset 5831.
 -- 歩道の向こうには学校の塀がある。
-Beyond the crosswalk is the wall of the school.
+Beyond the crosswalk is the wall around the school grounds.
 }
 [sha:f293f4fc84c5fe01fc6190ccdb4f5cf4ff9046d4]{
 -- Page 108, Offset 5832.
 -- 通学路はガードレールに守られていて、今も我先に生徒たちが校門へと向かっている。
 // Jostling as substitute for compound 我先に + 向かう
-The path to the school is protected by a guardrail, and even now students are jostling their way toward the school gate.
+The path to the school is protected by a guardrail, and even now students are jostling their way toward the school gates.
 }
 [sha:b234f2fb100eae84deb1080464de3b25a034f73f]{
 -- Page 109, Offset 5833.
@@ -143,7 +143,7 @@ And yet, through the gaps between the cars racing by,
 [sha:357915016fe7a96bfcb302ba91f84eb7b09e2386]{
 -- Page 110, Offset 5837.
 -- そこにいたのは、彼女だった。
-Over there is a woman.
+There she is.
 }
 [sha:72441e21d1a103bfcdede377a26019dda0d65bde]{
 -- Page 110, Offset 5838.
@@ -153,7 +153,7 @@ An unmistakable white figure.
 [sha:51064ddb2d3a82c7f8b2499ba8ebedec843a5794]{
 -- Page 110, Offset 5839.
 -- 日の光を思わせる金の髪。
-Golden hair that reminds me of sunlight.
+Golden hair reminiscent of sunlight.
 }
 [sha:300177f6c73708cc5e2f9f0ae581f99151ff2ab8]{
 -- Page 110, Offset 5840.
@@ -240,7 +240,7 @@ I definitely killed her, there's no doubt about it―――
 [sha:d828b88c0a3f0e7bd977359bc2e9f3747f0af662]{
 -- Page 114, Offset 5856.
 -- 「――――――は、ァ」
-"―――%{i}Ha――a%{/i}."
+"―――%{i}Gh――ah%{/i}."
 }
 [sha:fa7efee1efdc2c30eb7cd0fbf881d2057b469439]{
 -- Page 114, Offset 5857.
@@ -255,7 +255,7 @@ How... how could she...
 [sha:28f02d52c19dbaf5801edf75429a9043b388b46b]{
 -- Page 114, Offset 5859.
 -- あんなところで、
-How could she be here?
+How could she be %{i}here%{/i}?
 }
 [sha:0bf4c728033f3b87595b0344a2873010fa61301c]{
 -- Page 114, Offset 5860.
@@ -270,7 +270,7 @@ The light turns green.
 [sha:e25e11c650938993d567d6c2c1872824ad533b3d]{
 -- Page 10007, Offset 5862.
 -- まわりの生徒たちは向こう側へと歩いていく。
-The students around me are walking across to the other side.
+The students around me start to cross the road.
 }
 [sha:caa43dcee4639597a8ac324e12d4b842b1055fca]{
 -- Page 10007, Offset 5863.
@@ -362,7 +362,7 @@ The woman in white looks at me.
 [sha:fe9b54a41e7a30425bcab2969ac8b8af05865942]{
 -- Page 120, Offset 5880.
 -- 視線が合う。意図が合う。すべてに正しく筋が通る。
-Our gazes meet.
+Our eyes meet.
  Our thoughts align.
  It all makes perfect sense.
 }
@@ -404,7 +404,7 @@ could possibly still be alive.
 [sha:647a529931746fbbfffd3dd8461a080d472e4660]{
 -- Page 122, Offset 5887.
 -- なのに、生きている女は、俺を見て笑った。
-And yet, that woman is alive, and smiling at me.
+And yet, she %{i}is%{/i} alive, and smiling at me.
 }
 [sha:477427074d7518ef7b5c94e419908aadf0d64863]{
 -- Page 122, Offset 5888.
@@ -419,7 +419,7 @@ She seems deeply satisfied to have found the person who killed her.
 [sha:e0735b39ac2b99d4a02d547fc8816f27385791fe]{
 -- Page 123, Offset 5890.
 -- 女は手を挙げて親しげに微笑むと、ガードレールから腰をあげた。
-The woman smiles warmly and waves at me, then stands up from the guardrail.
+The woman smiles warmly and waves at me, then gets up off the guardrail.
 }
 [sha:9159c624f97c2ae8a8834c2e6d7a898c10286458]{
 -- Page 123, Offset 5891.
@@ -433,7 +433,7 @@ She starts walking over to where I stand frozen in place,
 -- Page 124, Offset 5892.
 -- 「なんだよ――――――それ」
 // それ figurative?
-"What the hell――is going on?"
+"What the hell... is going on?"
 }
 [sha:8ae784fc02c1f10d64be9a8e7fe2b3f8574943cb]{
 -- Page 124, Offset 5893.
@@ -468,7 +468,7 @@ I don't know if this is a dream, or if it's really happening.
 [sha:b6bdb2bc97265c9caca2bb3024131d54ed5c938f]{
 -- Page 126, Offset 5899.
 -- 「だから―――来るなって、言ってるのに―――！！」
-"I told you――not to come any closer―――!!"
+"I told you... not to come any closer!"
 }
 [sha:48ac7b4f6a537024d92b0937ec7a42abddd0e844]{
 -- Page 127, Offset 5900.
@@ -641,7 +641,7 @@ Yet when I look back, I can still see her walking toward me.
 [sha:9db10a951905eb2089c59d1b3d272da3aea49d67]{
 -- Page 135, Offset 5932.
 -- 自然に、散歩するような足取りでピッタリと離れない。
-She's walking calmly, as though just out for a stroll,
+She's walking calmly, like she's just out for a stroll,
  but she's still matching my pace perfectly.
 }
 [sha:dc142810517a766e168237d7c2340a9a3a4722a9]{
@@ -734,12 +734,12 @@ I collapse to the ground in a heap.
 [sha:ff282ab52d04c7db45ab4897cc2c22b5c86e56e8]{
 -- Page 141, Offset 5950.
 -- 足がもつれたのではなく、もう一歩も手足が動かなくなって、前のめりに倒れこんだ。
-It's not that I tripped so much as I couldn't force my limbs to take even one more step, and just came crashing down.
+It's not that I tripped so much as that I couldn't force my limbs to take even one more step, and just came crashing down.
 }
 [sha:792063abaf017e9e3ae9119eca1b9ad4a7d96d81]{
 -- Page 142, Offset 5951.
 -- 「っ……ア、は……っ！」
-"%{i}Ah, ha%{/i}...!"
+"%{i}Gh%{/i}――%{i}gha%{/i}, %{i}agh%{/i}!"
 }
 [sha:bb5144f7e04b5764aaf163d9a9640a5c78a0abee]{
 -- Page 142, Offset 5952.
@@ -754,7 +754,7 @@ I put my hands on the wall and try to stand up, but it's no use.
 [sha:3db9f2611740b25647ad1a14f0f17f34d188adf7]{
 -- Page 143, Offset 5954.
 -- 立ち上がったとたん膝から力を失って、ドスンと尻餅をつく。
-As soon as I stand up,
+As soon as I do,
  the strength drains from my legs and I fall on my backside with a thud.
 }
 [sha:eaf154dfa88f8df711e3e5990a65c839f20aff4f]{
@@ -765,7 +765,7 @@ Sprawled there, my body now refuses to even budge.
 [sha:c6be83d171ffaea9e7fb810b33c27f1c8c9070f2]{
 -- Page 144, Offset 5956.
 -- 「はあ―――はあ、はあ―――」
-"%{i}Ha――ha, ha%{/i}―――"
+"%{i}Gh%{/i}――%{i}aah%{/i}, %{i}haah%{/i}―――"
 }
 [sha:05606e5235a7d031c51964ac033a0b21d1a7965d]{
 -- Page 144, Offset 5957.
@@ -806,7 +806,7 @@ Why. Why. Why is the woman that I killed still alive?
 [sha:69399e69af668a0b8e8b8f37935850e3d546e2df]{
 -- Page 145, Offset 5964.
 -- 間違いなく完璧に、
-I killed that woman.
+There is no doubt about what I did to her.
 }
 [sha:0fff865ff7e4df9d1ea89f196b0e904406feb277]{
 -- Page 145, Offset 5965.
@@ -863,21 +863,22 @@ Why, Why, Why, Why, Why―――?!
 -- 「あれ、追い駆けっこはもう終わり？」
 "Oh, are we done playing tag?"
 }
-[sha:81daaab4d8c17debb05f74b014f2e98262904c1f]{
+[offset:5976]{
 -- Page 147, Offset 5976.
 -- カツン。
-%{i}Step%{/i}.
+%{i}Tap%{/i}.
 }
 [sha:4edb51a0b06f5d18814094d1bfb87133ce407234]{
 -- Page 147, Offset 5977.
 -- 路地裏に乾いた音が響く。
-A dry sound echoes through the back alley.
+// Footstep sound, obviously
+A hollow sound echoes through the back alley.
 }
 [sha:7f225aee35c3ada069f02597694ae6c08e5d5840]{
 -- Page 148, Offset 5978.
 -- 軽やかな足取りでやってきた女は、残念そうに肩をすくめて、壁にもたれかかった俺に、
 The woman that pursued me with floating footsteps shrugs her shoulders in disappointment,
- turns to me as I lean slumped against the wall, and says:
+ then turns to address me where I lie slumped against the wall.
 }
 [sha:1bc650fb7ca6f82be57e2853ba5713baa56db1bf]{
 -- Page 148, Offset 5979.
@@ -892,7 +893,7 @@ She gives me a big, carefree smile.
 [offset:5981]{
 -- Page 149, Offset 5981.
 -- 「っ……！」
-"......!"
+"%{i}Ghuh%{/i}!"
 }
 [sha:b6e1ea8bac81022a8080a4026fdee57056247b63]{
 -- Page 149, Offset 5982.
@@ -932,17 +933,18 @@ It's my bag――I hadn't even realized that I'd lost it.
 [sha:bd6b3aa8599bda5fc3abb83c8eedcc9d339f5918]{
 -- Page 152, Offset 5989.
 -- いや、それよりコイツ、今なんて言った……？
-No, wait, what did she just say...?
+Wait, hold on, what did she just say?!
 }
 [sha:a23bfd0cbd9ae0b9e917f0a75942f00316d83b6a]{
 -- Page 152, Offset 5990.
 -- 証拠？　証拠になるようなモノ、だって……？
-Evidence? Evidence of %{i}what%{/i}, exactly...?
+Evidence? Evidence of %{i}what%{/i}, exactly?
 }
 [sha:8dfe93fa472037979531ac20d6f55c9a098a7010]{
 -- Page 153, Offset 5991.
 -- “ダメだ―――逃げろ、逃げろ……！”
-'No――run, run...!'
+// Not voiced
+No――run, I need to run!
 }
 [sha:bc65e1ef7e9b33bc22d620f7c0cdaa559dc3d6da]{
 -- Page 153, Offset 5992.
@@ -970,7 +972,7 @@ The woman keeps smiling, as though delighted by all this.
 [sha:61b67f7600b8ec2cd785484312b88cc1ccd67370]{
 -- Page 155, Offset 5996.
 -- ……袋小路？　人気がない？
-Dead-end alleyway...? No one around?
+Dead-end alleyway? No one around?
 }
 [sha:fc55e9b09f336e2c435ca5d3df704d49be063bf4]{
 -- Page 155, Offset 5997.
@@ -980,22 +982,22 @@ I frantically cast my eyes around my surroundings and am disgusted by my own stu
 [sha:e0f919db7d222fb6b08699531131c290c496a427]{
 -- Page 155, Offset 5998.
 -- こんなところに逃げこむなんて、自分から殺してくださいと言っているようなものじゃないか……！
-Fleeing to a place like this is like %{i}asking%{/i} to be killed...!
+Fleeing to a place like this is like %{i}asking%{/i} to be killed!
 }
 [sha:ee90ef312c20f00cee071bde9ac2382dcb29a475]{
 -- Page 156, Offset 5999.
 -- 「長かったなぁ。
-"It took me a long time.
+"It's about time.
 }
 [sha:0174952d1fc3b35f17cc80aa8d813c222afd684e]{
 -- Page 156, Offset 6000.
 -- あれから18時間、ようやくあなたをつかまえた」
-Eighteen hours later, I finally caught you."
+Eighteen hours later, I've finally caught you."
 }
 [sha:df5bbaa21cd86d7ae776f6a20b18197508e1760e]{
 -- Page 156, Offset 6001.
 -- かつん、と更に一歩、女は路地裏に入ってくる。
-I hear a %{i}tap%{/i} as the woman takes another step into the alleyway.
+I hear the click of her heels as she takes another step into the alleyway.
 }
 [sha:0d55e0732b1f85075d55a44ec038ccfefc190989]{
 -- Page 157, Offset 6002.
@@ -1010,7 +1012,7 @@ I hear a %{i}tap%{/i} as the woman takes another step into the alleyway.
 [sha:ef0ea385adf323f72c386d8c795fc72e2bef9370]{
 -- Page 157, Offset 6004.
 -- 「おまえは、たしかに――――」
-"You're, definitely―――"
+"You're... you're the―――"
 }
 [sha:ebf5ccbec436977b897cbc2224ba15af4203c3e8]{
 -- Page 158, Offset 6005.
@@ -1031,17 +1033,20 @@ It was a reply I didn't want to hear,
 [sha:792c05fab68ff1bfe830661b5d761104fd05590b]{
 -- Page 159, Offset 6008.
 -- 「ふざけるな、死んだ人間が生きてるハズがないだろう！」
-"―――Don't be ridiculous! A person who's dead can't possibly be alive!"
+// Say the line bart
+"Bullshit you are!
+ How could someone dead possibly be alive?!"
 }
 [sha:ed2f0b1ea320739377a086eab4333af14f4d196f]{
 -- Page 159, Offset 6009.
 -- 「そうだけど、そう驚くコトでもないんじゃない？
-"Sure, but I don't see what you're so surprised about?
+// そうだけど kinda futzed with to reflect how we've TLd the above
+"I mean, I don't really see what you're so surprised about?
 }
 [sha:12757bb9a2cb4fae60e54aab572a49fa8a3f7a84]{
 -- Page 159, Offset 6010.
 -- たんに、殺されたあと生き返っただけなんだから」
-I was killed, but then I just came back to life again afterward."
+You killed me, sure, but then I just came back to life again."
 }
 [sha:3c05cf71d2e25b585eacf33f69fb43c6445f3853]{
 -- Page 160, Offset 6011.
@@ -1067,7 +1072,7 @@ I mull over the woman's words, stunned.
 [sha:7d06600cca95d4f00fa415d46e853dc644bcc0a2]{
 -- Page 161, Offset 6015.
 -- 生き返った……？
-She came back to life...?
+She came back to life?
 }
 [sha:f4c2ed4da1a034005d0464654d9d8cccf2aba0a6]{
 -- Page 161, Offset 6016.
@@ -1078,12 +1083,12 @@ As in, she was on the verge of death but recovered?
 [sha:c194b9b516b9024b3d8615e32c5eaf5639ade694]{
 -- Page 162, Offset 6017.
 -- 「―――って、バカにすんなっ！
-"Don't be ridiculous!
+"Who'd believe that?!
 }
 [sha:dc5aa398cd8b3b664ca96484884132874c194515]{
 -- Page 162, Offset 6018.
 -- あんなに手足をバラバラにされて、生き返る人間がいるもんか……！」
-There isn't a human alive that could come back to life after being dismembered like that...!"
+There isn't a human alive that could come back to life after being dismembered that thoroughly!"
 }
 [sha:8f6473dd9ff5d9773902f496ecef15735ba1133f]{
 -- Page 163, Offset 6019.
@@ -1098,7 +1103,7 @@ There isn't a human alive that could come back to life after being dismembered l
 [sha:4050e72790326ab69cc46c7e72d180798b379c0c]{
 -- Page 163, Offset 6021.
 -- 女の言葉の意味は、その、あんまりに簡単すぎて、違う解釈ができなかった。
-Her words were so simple that, well, there's no other way for them to be interpreted.
+Her words are so simple that, well, there's no other way for them to be interpreted.
 }
 [sha:cc6987cc555bb212faf02a9669f204ae8d923078]{
 -- Page 164, Offset 6022.
@@ -1113,12 +1118,13 @@ There's no denying that's what the woman in front of me said.
 [sha:5d30fc5c6aa1c82a80b81116feac6aee51fd0574]{
 -- Page 165, Offset 6024.
 -- 「……人間じゃ、ない……？」
-"You're not... human...?"
+"You're... not human?"
 }
 [sha:83337f93019297eabf0a5c3ee43d09a0f7a8a5d5]{
 -- Page 165, Offset 6025.
 -- 「当たり前でしょ。手足をバラバラにされて、ひとりでに再生できる人間がいると思う？」
-"Of course not. Do you think there are people who can regenerate themselves after being torn limb from limb?"
+"Of course not.
+ Do you seriously believe there are humans who can regenerate themselves after being torn limb from limb?"
 }
 [sha:f0dd4a6a183c39fe5dad0df55f71db7a3d60ca20]{
 -- Page 165, Offset 6026.
@@ -1154,12 +1160,12 @@ Even if you tear them apart, they'll knit themselves back together and start mov
 [sha:fa8a9a78ddc329d93721baec78717b12316c8d63]{
 -- Page 166, Offset 6032.
 -- 人のカタチをした、人間とは呼べないもの―――
-They take the form of a human, but they can hardly be called a human.
+They take the form of a human, but they can hardly be called one.
 }
 [sha:ec34944f5d9ec2f34e94296d3b280e1ad4a264de]{
 -- Page 167, Offset 6033.
 -- 「――――、は―――」
-"―――%{i}Ha%{/i}―――"
+"%{i}Ah%{/i}―――"
 }
 [sha:e53c99c983132a84f6f5c950bc3f6118d0ffde28]{
 -- Page 167, Offset 6034.
@@ -1174,12 +1180,12 @@ I try to laugh, but my throat is so parched and stiff that I can't even laugh pr
 [sha:037fe3eaa6ac83ff80dd61a2ca360bba4bd4e85a]{
 -- Page 168, Offset 6036.
 -- 「……なんだよ、それ」
-"What are you talking about...?"
+"You've... got to be kidding me..."
 }
 [sha:5089a54254943dd64140360f0a4ddff0b0533fe7]{
 -- Page 168, Offset 6037.
 -- 笑い話にしても出来が悪く、
-If this is a joke, it's in poor taste―――
+If this is a joke, it's in poor taste.
 }
 [sha:669d70745bcc9b2264c7290b42a25dee08181814]{
 -- Page 168, Offset 6038.
@@ -1289,7 +1295,7 @@ A blood-sucking demon.
 [sha:8f3eaa97876724276e7792bc1f922ce1c78651d9]{
 -- Page 176, Offset 6058.
 -- 「そう、吸血鬼、なんだ―――」
-"I see, so you're a vampire―――"
+"I see, so you're a vampire..."
 }
 [sha:e1e1d29947fef7e0b6222e0bac0ff0d03283ab2c]{
 -- Page 176, Offset 6059.
@@ -1409,7 +1415,7 @@ After all this time, it finally sinks in just how bad my luck really is.
 [sha:c8ed3d66c3180d5b50b27192ab47f0435796c7ee]{
 -- Page 185, Offset 6081.
 -- 理由もなく突然殺したくなった女がいて、
-I ran across a woman who I suddenly felt like killing for no reason―――
+I ran across a woman who I suddenly felt like killing for no reason.
 }
 [sha:7494769bbf430d1eb43eec89b180175b6996870d]{
 -- Page 185, Offset 6082.
@@ -1420,15 +1426,14 @@ Then I let my impulses get the better of me, and actually killed her.
 -- Page 186, Offset 6083.
 -- そのあとの記憶が曖昧で、夢だったと目を背けていたらやっぱりホントのことで、加えて、殺した相手は人間じゃなかったときた。
 // This page shown IFF F058 != LV00200 (Arc playthrough?)
-After that my memories were a bit hazy so I wrote it all off as a dream,
- except not only did it really happen,
- but to top it all off, the person I killed isn't even human.
+After that my memories were a bit hazy, so I wrote it all off as a dream.
+ Except, not only did it really happen, but the person I killed isn't even human.
 }
 [sha:3c2750d4493114959911b9c462f02fe15312eaa2]{
 -- Page 186, Offset 6084.
 -- 今まで自分の事を欠陥品だ、不適合だと言い含めてきたけど、この状況に比べたら俺はいたって<正常|マトモ>じゃないか……！
 I've always thought of myself as a misfit――as damaged goods.
- But compared to this situation, I'm downright normal...!
+ But compared to this situation, I'm downright normal!
 }
 [sha:4be87e9afe9b60adf3579af76d565a2181f704e9]{
 -- Page 10008, Offset 6085. Mods: @n.
@@ -1515,7 +1520,7 @@ You have something to say, don't you? Go ahead and get whatever complaints or gr
 -- Page 193, Offset 6101.
 -- 「そりゃあ言いたいコトはいっぱいあるけど……あなた、変わった人ね。吸血鬼を前にして、なに、その態度？」
 "Well yeah, there's a lot I want to say, but... you're a strange one.
- You're face to face with a vampire, what's with that attitude?"
+ You're face-to-face with a vampire, what's with that attitude?"
 }
 [sha:1299c9b98f96632d781109ba9c88b239759f729d]{
 -- Page 193, Offset 6102.
@@ -1538,14 +1543,14 @@ I've been dealing with this abnormal body for seven years.
 [sha:edb38d0d9e067aa685f4e8ef46cc2b218507a7af]{
 -- Page 194, Offset 6105.
 -- それがどんなに恐ろしい出来事でも、目の前で起きた以上は事実だと肯定する程度の心構えはある。
-No matter how horrible an event is,
+No matter how objectionable something is,
  if it happens right in front of my eyes,
  I'm more than able to accept it as reality.
 }
 [sha:0678ba25609526fe9a82a6d7a6519055b7946448]{
 -- Page 194, Offset 6106.
 -- とはいえ、こんな<相手|ケース>があるなんて事はそれこそ夢にも思わなかったけど。
-That said, never in my wildest dreams could I have imagined a case like this.
+That said, never in my wildest dreams could I have imagined something like this.
 }
 [sha:dfe658e02809aa492b44a82fe69f35c7e718c761]{
 -- Page 195, Offset 6107.
@@ -1623,7 +1628,7 @@ What she just said sounded like a complete non sequitur.
 -- Page 201, Offset 6120.
 -- 「わたしを殺しちゃったことを反省しているのかって訊いてるの。それでね、もしあなたが反省しているのなら許してあげようかなって。
 "I'm asking you if you feel any remorse about killing me.
- If you did, I was thinking that I might actually forgive you for it.
+ If you do, I was thinking that I might actually forgive you for it.
 }
 [sha:e37c1997d625ce04d0411b0629261875165a4340]{
 -- Page 201, Offset 6121.

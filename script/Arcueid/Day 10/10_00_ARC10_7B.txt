@@ -19,7 +19,7 @@ The city is too big, and I have no clues to go on.
 -- Page 761, Offset 26341.
 -- ……的を<絞|しぼ>ろう。あれだけ目立つヤツだ、同じ区域にいれば遠目でも見つけられる。
 I need to narrow down the search area...
- That woman sticks out like a sore thumb.
+ She sticks out like a sore thumb.
  If I'm in the same neighborhood as her,
  I'll be able to spot her from a mile away.
 }
@@ -31,20 +31,23 @@ I'll bet everything on my best guess as to her whereabouts.
 [sha:87a7af67908e5f01be76f45cd6036b9618e4604c]{
 -- Page 761, Offset 26343. Mods: @k, @e.
 -- あいつがいるとしたら、それは―――
-If I were her, I would go―――
+If there's anywhere Arcueid would be, it's―――
 }
 [sha:a925ea8132d54f793f701d198cca7114dedcbc2b]{
 -- Page 762, Offset 42677. Choice.
 -- アルクェイドのマンションだ。
- Back to my apartment.
+// Referenced from flowchart
+ Her apartment.
 }
 [sha:9ca800be78133c454427e0731e9dd07ed239fa75]{
 -- Page 762, Offset 42678. Choice.
 -- ……繁華街の、路地裏だ。
- ...To a downtown back alley.
+// Referenced from flowchart
+ The back alley downtown.
 }
 [sha:7e21133bdce90546aca91b839629317b57147cae]{
 -- Page 762, Offset 42679. Choice.
 -- ……学校に戻っているかも？
- ...Back to the school?
+// Referenced from flowchart
+ Wait, maybe she's gone back to the school?
 }

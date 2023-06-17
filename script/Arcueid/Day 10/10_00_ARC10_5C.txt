@@ -98,7 +98,7 @@ It looks like she's seriously headed to the park.
 [sha:a534a06bb0e9e5078e8aee95c4e47c1ac15425fe]{
 -- Page 509, Offset 25582.
 -- 「―――ちょっと、待てってば、おい……！」
-"―――Wait, hold on, hey...!"
+"―――Wait, hold on, hey!"
 }
 [sha:336c287bc7e5280c5e4e18e617e0557bd093d5db]{
 -- Page 509, Offset 25583.
@@ -382,7 +382,8 @@ Her gaze has remained unyieldingly sharp from the minute I started talking up un
 [sha:0f757286e2b56bad9a4ec11f3b9cffaaaf3c840c]{
 -- Page 267, Offset 25635.
 -- 「あの黒い死者と、ノエル先生―――代行者っていうんだな？　あの人はおまえの敵なのか？」
-"Are that black Dead and Noel-sensei――you called her an 'Executor'――your enemies?"
+// Not calling it a 'Dead' here for clarity
+"Are the shadowy figure and Noel-sensei――you called her an 'Executor'――your enemies?"
 }
 [sha:0eca3cfb84a529e3ad4af6f3589d906e19fab617]{
 -- Page 267, Offset 25636.
@@ -392,7 +393,8 @@ Her gaze has remained unyieldingly sharp from the minute I started talking up un
 [sha:698701a5f790a35ce45f1795f54cdcae21456b3e]{
 -- Page 267, Offset 25637.
 -- その黒い死者は何者か知らないけど、修道服を着た女のことなら見当はつく」
-I don't know much about that black Dead, but I have a good idea of who that woman in nun's clothing is."
+// Same as Offset 25635 in regards to 黒い死者
+I don't know much about that shadowy figure, but I have a good idea of who that woman in nun's clothing is."
 }
 [sha:1d160ed6f774cd7d64728fde4515f470dce360e0]{
 -- Page 267, Offset 25638.
@@ -429,7 +431,7 @@ Come to think of it, didn't she say that Executors operate in groups of two?
 -- Page 269, Offset 25644.
 -- 「そう。そいつの独断か、あるいは動けない理由があるのか。……もうひとりが<あ|・><の|・><女|・>だとしたら目障りね。
 "I see. Perhaps she acted on her own, or maybe there's a reason the other one couldn't make their move...
- It'll be a real pain if the other one is %{i}that woman%{/i}.
+ It'll be a real pain if the other one is %{i}her%{/i}.
 }
 [sha:f291fb63480e313ab3734bcdb1e8af6bdbb36365]{
 -- Page 269, Offset 25645.
@@ -458,7 +460,7 @@ I couldn't say why, but it seems like she can't stand
 // Causative on 感じる modulated to first-handedness
 I've felt her hostility, thirst for blood, and intimidating aura at close range before,
  but it's unusual for her to bare her hatred this openly.
- I wonder if Arcueid and 'that woman' are just that incompatible.
+ I wonder if she and Arcueid are just that incompatible.
 }
 [sha:7d754e004cdfd5c94b7f5cea23f55cabc43796be]{
 -- Page 535, Offset 25650.
@@ -478,7 +480,9 @@ But you two have the same objective, so wouldn't it be better to cooperate?"
 [sha:59a9eaa23296944ee067c9ff2aecc0154e6b8517]{
 -- Page 536, Offset 25653.
 -- でも今回は絶対に無理。人間には譲らないし、もし代行者があの女なら、まずそっちを始末してる」
-But this time, that's not an option. I can't hand him over to a human, and if that woman is the Executor, I'll have to deal with her first."
+But this time, that's not an option.
+ I can't hand him over to a human, and if %{i}she's%{/i} the Executor here,
+ I'll have to deal with her first."
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 537, Offset 25654.

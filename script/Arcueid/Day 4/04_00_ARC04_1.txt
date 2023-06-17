@@ -31,7 +31,7 @@ I couldn't sleep properly last night...
 [sha:fb3c4da9bf69f5c58ce7941603ca9f95b3e0c894]{
 -- Page 3, Offset 5575.
 -- うつらうつらと眠りに落ち、その度に『あの光景』が脳裏に蘇って目を覚ましていたからだ。
-Every time I was about to fall asleep, 'that scene' replayed itself in my mind and woke me back up.
+Every time I was about to fall asleep, %{i}that%{/i} scene replayed itself in my mind and woke me back up.
 }
 [sha:d5f3fc35458aee570842bb07bb853ffa821b6218]{
 -- Page 4, Offset 5576.
@@ -46,7 +46,7 @@ Reason and memory are inconvenient in times like these.
 [sha:3a1d23a46eb2022f764c2d99dda3788398c53589]{
 -- Page 4, Offset 5578.
 -- 忘れたい事、都合の悪い事ばかりを思い出させようとする。
-They try to remind you of all the things you want to forget.
+They try to remind you of all the things you'd rather forget.
 }
 [sha:8e222b90f2a70592701515185b2ece63b00bf574]{
 -- Page 5, Offset 5579.
@@ -81,7 +81,8 @@ Who could it be this early in the morning...?
 [sha:e81b1136ae776e47d77dccdc5a1928545afb5923]{
 -- Page 8, Offset 5585. Mods: @k, @e.
 -- 「失礼いたしま―――
-"Excuse me――
+// Truncated
+"Excuse m――
 }
 [sha:a177c5063087a331d07607f5847ee7d066e1f312]{
 -- Page 8, Offset 5586. Glued. Mods: @x.
@@ -96,13 +97,17 @@ Shiki-sama?"
 [sha:76f71da1bfe2ccbfd01cbafed2ecc6bdde4764bd]{
 -- Page 10, Offset 5588.
 -- 「いや。こっちこそ驚かせてごめん。昨日の夕方から寝ていたから、早く目を覚ましたんだ。
-"No worries. I'm sorry for surprising you too. I've been asleep since yesterday evening, so I woke up early.
+// Mild structural change to last sentence, but more fluid in EN
+"Don't worry about it.
+ Sorry for giving you such a surprise.
+ I woke up early after sleeping all evening yesterday.
 }
 [sha:c2579b7abd8de3e22d357130d1b308447367ce5a]{
 -- Page 10, Offset 5589.
 -- ……それで、翡翠の方こそどうしたんだ？　こんな早くから何かあったのか？」
-So, what's up with you, Hisui?
- You're here pretty early. Did something happen?"
+Anyway, what's up, Hisui?
+ You're here pretty early.
+ Did something happen?"
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 11, Offset 5590.
@@ -117,7 +122,7 @@ Hisui falls silent, seemingly perplexed.
 [sha:a6bca4fa274e5dabb2b7eb4e5dd17bd29c7d343c]{
 -- Page 11, Offset 5592.
 -- よく見れば、その手にはうちの学校の制服があった。
-Looking closely, I notice my school uniform in her hand.
+Looking closer, I notice she's carrying my school uniform.
 }
 [sha:e66615ffb6a3360ba830e229de1e9b107f43d4af]{
 -- Page 12, Offset 5593.
@@ -127,17 +132,18 @@ Looking closely, I notice my school uniform in her hand.
 [sha:1220f042662d99c688840403e03c6666edd1d607]{
 -- Page 12, Offset 5594.
 -- 「……はい。重ねて申し訳ありません。
-"Yes. Once again, I apologize.
+"Yes. Once again, I must apologize.
 }
 [sha:b3d651a3c00432bbc88c78c2d0187e8c2fb25d63]{
 -- Page 12, Offset 5595.
 -- お見苦しいところをお見せしました」
-For making you see something so unpleasant."
+It seems I have embarrassed myself in front of you."
 }
-[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+[offset:5596]{
 -- Page 12, Offset 5596.
 -- 「？」
-"Hm?"
+// Not voiced
+Hmm?
 }
 [sha:07c08c5d169ed697d1a72b8ffc6b27a8ab5be592]{
 -- Page 12, Offset 5597.
@@ -147,7 +153,7 @@ Hisui doesn't say anything more.
 [sha:fce79b2f4822360a639b0c431963e4b8376f321b]{
 -- Page 12, Offset 5598.
 -- ……どこにもお見苦しいところなんて無かったと思うけど、それはそれとして。
-I don't remember seeing anything particularly unpleasant,
+I don't think she did anything particularly embarrassing,
  but I'm not going to get hung up on it.
 }
 [sha:42b54896e21f8de0d4a11638b73c8f4121a2c94e]{
@@ -158,7 +164,7 @@ I don't remember seeing anything particularly unpleasant,
 [sha:a1660d03574d4f25bc97d2f1c270cbb12e51f67e]{
 -- Page 13, Offset 5600.
 -- 「はい。それでは失礼します」
-"Understood. Now if you will excuse me."
+"Understood. Then, if you will excuse me."
 }
 [sha:f8ae6e755ba8d5fa16abeb479cd6ebca90a73da9]{
 -- Page 14, Offset 5601.
@@ -173,12 +179,12 @@ However...
 [sha:4fbd14eefde9cf0dcd8e986402a08d633bd0a88d]{
 -- Page 14, Offset 5603.
 -- 翡翠はドアの前でピタリと足を止め、唐突に振り向いた。
-She stops short just in front of the door, and abruptly turns around.
+She stops just short of it, and abruptly turns around.
 }
 [sha:8b02f48add93e1dc419f337c4add7fbb154aa859]{
 -- Page 15, Offset 5604.
 -- 「志貴さま。……その、お時間があるのでしたら入浴の用意もいたしますが」
-"Shiki-sama... well, if you have time, I can prepare a bath for you."
+"Shiki-sama... um, if you have time, I can prepare a bath for you."
 }
 [sha:eeff33c6cbd0f673857bfaa12cd9a1f3dc501c38]{
 -- Page 15, Offset 5605.
@@ -188,8 +194,11 @@ She stops short just in front of the door, and abruptly turns around.
 [sha:a8ce83885dae6b5dcd3e144e0679822146e89060]{
 -- Page 16, Offset 5606.
 -- 「はい。志貴さまはひどく汚れています。学校に行く前にお体を流された方がよろしいのではないでしょうか」
-// Rare line where JP is longer than EN thanks to all the politeness
-"Yes, you are quite dirty. I suggest you clean yourself before heading to school."
+// Slightly extended to account for all the politeness.
+// Also feel like with the register we should avoid saying "you're filthy mate"
+"Yes.
+ I'm afraid that you appear somewhat bedraggled this morning.
+ I might suggest that you take the opportunity to freshen up before heading to school."
 }
 [sha:5556a142f28fb0e329364d40f038cdd96b0bd2c3]{
 -- Page 17, Offset 5607.
@@ -267,7 +276,7 @@ I knew I was worn out from living in this unfamiliar mansion,
 [sha:bed792822981a1e354292bc7c9946d324d9bd774]{
 -- Page 23, Offset 5621.
 -- 「……そうだよな。気を、引き締めないと」
-"That's right... I have to pull myself together."
+"Yeah... I've really got to get a grip."
 }
 [sha:db6f1758c1f8a25a06573ba02064f97ea064944f]{
 -- Page 23, Offset 5622.
@@ -277,7 +286,8 @@ I dump another bucket of cold water over myself and begin to wash.
 [sha:cf90cfa9a6b093484fb8e0c96f215b288425fd02]{
 -- Page 23, Offset 5623.
 -- 「痛っ………」
-"%{i}Ouch%{/i}..."
+// Pretty abbreviated VA
+"%{i}Ow%{/i}..."
 }
 [sha:d344ea5690ca585e32092775922f1a096555f4df]{
 -- Page 23, Offset 5624.
@@ -287,7 +297,7 @@ The touch of the washcloth is enough to send a stinging pain through my throat.
 [sha:33e04eebd2591bbb4d3fef62fb2d955fb9930d89]{
 -- Page 24, Offset 5625.
 -- 「……なんだ、これ」
-"What is this...?"
+"What the hell...?"
 }
 [sha:bb7e7fbabce0ede3400c7174baa9623149eadef3]{
 -- Page 24, Offset 5626.
@@ -302,5 +312,5 @@ Weird...
 [sha:e280eafca39be13736cc7df629aba0cace9aaba5]{
 -- Page 24, Offset 5628.
 -- 喉は赤く腫れあがっていた。
-My throat is red and swollen.
+My throat is all red and swollen.
 }

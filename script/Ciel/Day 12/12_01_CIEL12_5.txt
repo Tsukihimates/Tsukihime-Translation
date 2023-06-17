@@ -23,7 +23,7 @@ I'm pretty sure there's always a jug of water set out in the dining room.
 [sha:6304abec485ddaec6ff4bc00623c6e469fb11652]{
 -- Page 10023, Offset 31496.
 -- <一|し><階|た>まで下りて水を飲もう。
-I'll go downstairs and get some water.
+I'll go downstairs and get a drink.
 }
 [sha:9221ba65b1bd4e3b126566b6f2931a954088e93e]{
 -- Page 225, Offset 31497. Mods: @k, @e.
@@ -234,7 +234,7 @@ Rubbing my hand over my eyes, I take a few deep breaths.
 [sha:671a74ed0acfb7903d7cb86895cf92ed28ac7f6f]{
 -- Page 234, Offset 31535.
 -- 「はあ―――は―――は―――」
-"%{i}Hah――hah――hah―――%{/i}"
+"%{i}Hah%{/i}――%{i}hah%{/i}――%{i}hah%{/i}―――"
 }
 [sha:b2c04de15d033d75a787600af108a9120c3983b4]{
 -- Page 234, Offset 31536.
@@ -425,7 +425,7 @@ I remember now...
 [sha:c1f5090aa58b41a75357ac259dddc4fef76734b2]{
 -- Page 241, Offset 31570.
 -- 似たようなコトを、あの女にも言われたな。
-That woman said something along the same lines.
+She said something along the same lines.
 }
 [sha:25363bb6300a8223bf0988c0c7fa0d6551e91d5f]{
 -- Page 241, Offset 31571.
@@ -433,7 +433,7 @@ That woman said something along the same lines.
 // Ref offset 28365.
 // Again, ■■■ = 吸血鬼.
 // lint-off:LintDupedWord
-'Alright, bye bye now.
+'Alright, bye-bye now.
  Your luck has finally run out, ■■■■.'
 }
 [sha:d34c6770f6053247dc77506ca11a46bbf894c398]{
@@ -498,7 +498,7 @@ Just what was that blood-soaked spectacle that I got a taste of last night?
 // Same 違う in 31572, 31575, 31582
 "It's not true,
  it's not true,
- it's not true...!
+ it's not true!
 }
 [sha:a74cdd6cf02e7eb18a77e8764d21e81c80c54f8f]{
 -- Page 244, Offset 31583.
@@ -705,7 +705,7 @@ Then just like that, I would have―――
 [sha:19e792641bc7c4b7c618295b5da4d43af57dce5d]{
 -- Page 251, Offset 31621.
 -- 「はっ、はっ、はは、ははははは………！」
-"%{i}Ha%{/i}, %{i}ha%{/i}, %{i}haha%{/i}, %{i}hahahahaha%{/i}...!"
+"%{i}Ha%{/i}, %{i}ha%{/i}, %{i}haha%{/i}, %{i}hahahahaha%{/i}!"
 }
 [sha:f86ecaa6a2502673d9bde24ec1e4d696a80a8b1e]{
 -- Page 251, Offset 31622.
@@ -725,7 +725,7 @@ More scared than I've ever been before.
 [sha:ddf03add155bbb919381925ea93bbdc4a546f3f2]{
 -- Page 252, Offset 31625.
 -- 「はっ、はっ、はっ……！」
-"%{i}Hah%{/i}, %{i}hah%{/i}, %{i}hah%{/i}...!"
+"%{i}Hah%{/i}, %{i}hah%{/i}, %{i}hah%{/i}!"
 }
 [sha:c305e3140f99e070245528f0375943d5c639c952]{
 -- Page 252, Offset 31626.
@@ -761,7 +761,7 @@ It's as simple as grabbing that protruding piece of metal and twisting it.
 [sha:dfb777ec709dca9f75c465e9a5cad0f0ca43df59]{
 -- Page 254, Offset 31632.
 -- 「……は……あう、ううう……！」
-"%{i}Ha%{/i}... %{i}ah%{/i}, %{i}uuu%{/i}...!"
+"%{i}Ha%{/i}... %{i}ah%{/i}, %{i}uuu%{/i}!"
 }
 [sha:f86ecaa6a2502673d9bde24ec1e4d696a80a8b1e]{
 -- Page 254, Offset 31633.
@@ -781,7 +781,7 @@ That indistinct %{i}something%{/i} will get inside.
 [sha:0e9a747c68be20d9d56332f7149ef08e18e0d3a4]{
 -- Page 255, Offset 31636.
 -- 「ああ、あああ、あああ…………！」
-"%{i}Ah%{/i}, %{i}aah%{/i}, %{i}aaah%{/i}......!"
+"%{i}Ah%{/i}, %{i}aah%{/i}, %{i}aaah%{/i}!"
 }
 [sha:aee8af231a4fc4b1770a4661013b8ab840caed6a]{
 -- Page 255, Offset 31637.
@@ -878,12 +878,12 @@ There's no hope for me anymore.
 -- Page 257, Offset 31652.
 -- でももう一方の手はどうしてもナイフを離してくれないので、このままでは永遠に鍵はかけられなかった。
 But my other hand just won't let go of the knife.
- At this rate I'll never be able to lock the door.
+ At this rate, I'll never be able to lock the door.
 }
 [sha:740ed76eb5a410f20cf7648fbea830fcea82cd97]{
 -- Page 258, Offset 31653.
 -- 「は―――はあ、はあ、は…………！」
-"%{i}Hah%{/i}――%{i}hah%{/i}, %{i}hah%{/i}, %{i}ha%{/i}...!"
+"%{i}Hah%{/i}――%{i}hah%{/i}, %{i}hah%{/i}, %{i}ha%{/i}!"
 }
 [sha:2740e23aeda9d430a259c517e20f4087b9da22f7]{
 -- Page 258, Offset 31654. Mods: @n.

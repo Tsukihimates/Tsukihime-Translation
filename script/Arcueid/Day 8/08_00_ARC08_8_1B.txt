@@ -8,7 +8,7 @@
 [sha:eff54dde3936de6314f94c368bb5a5d659f93c54]{
 -- Page 10026, Offset 21141.
 -- はい、異端審査終了ー。立っていいわよ、遠野志貴クン？」
-Right, heresy inspection over. You can stand up now, Tohno Shiki-kun."
+Alright, inquisition over. You can stand up now, Tohno Shiki-kun."
 }
 [sha:450036e9c42eda99844c6707610fef40fb9b9c9f]{
 -- Page 545, Offset 21142.
@@ -108,7 +108,8 @@ Didn't you hear about us from that vampire of yours?"
 [sha:0e306b32bc5b6b0f0a21a888ea78bc3c47da259d]{
 -- Page 551, Offset 21159.
 -- 簡単に言うと、私は街を守る正義のお姉さん？　みたいな？
-Simply put, you could call me the onee-san of justice who protects the city?
+// お姉さん not really a name / honorific here, so I guess localize
+Simply put, I'm like a cutie who delivers justice and protects the city?
  Something like that, anyway.
 }
 [sha:69a4a633eb50f663317c55f9de9097aca2d54362]{
@@ -177,13 +178,14 @@ Thank you very much for rescuing me from that dangerous situation."
 [sha:c66926c1bede0dcdfa039e044d89cad933177e6f]{
 -- Page 557, Offset 21171.
 -- 「二度目……？　あー……そういうコト。
-"The second time...? Ah... that's what you mean.
+// I guess does she know Ciel saved him?
+"The second time...? Ah... so that's what happened.
 }
 [sha:eff73d70db5fa761ff96e4b209269f7813f9d5f2]{
 -- Page 557, Offset 21172.
 -- でもま、今回は違うわ。たまたま危ないところに出くわしたんじゃなくて、私、最初からキミを狙っていたんだし」
-This time was different, though.
- I didn't just happen across you when you were in a pinch.
+This was different, though.
+ I didn't just happen across you when you were in a tight spot.
  I was after you from the very beginning."
 }
 [sha:bbeda2d842e4b0a97851b3fa678bf4650fb942ff]{
@@ -225,10 +227,10 @@ It's not like I'm blindly following her orders.
  Besides, Arcueid is a good vampire.
  She's going after other vampires in order to protect the city, just like Noel―――
 }
-[sha:7e6abc473580890d576a90594e96c4050a521788]{
+[offset:21180]{
 -- Page 560, Offset 21180.
 -- 「あの、それは」
-"Well, that's..."
+"Actually, that's―――"
 }
 [sha:fb9c00666f954ae0169051058ea7eea32149201c]{
 -- Page 560, Offset 21181.
@@ -258,7 +260,7 @@ As such, I had to settle for netting some smaller prey instead."
 [sha:c54100486105b50e0445e41a653e68b32654eb7a]{
 -- Page 562, Offset 21185.
 -- ―――でも、なーんか様子がヘンだった。
-―――But I have to say, I'm a little confused.
+Though I have to say, I'm a little confused.
 }
 [sha:e194801bf29b1b44a504c62a66146d540455c495]{
 -- Page 562, Offset 21186.
@@ -282,8 +284,8 @@ I frown, and bite my tongue.
 [sha:7f00ef407551e209fb812bfccfa7abb3e4cf48c3]{
 -- Page 563, Offset 21189.
 -- それはノエルの質問に気圧されてのものではなく、そんな質問をされること自体が、ひどく癪に障ったのだ。
-It wasn't that I was intimidated by her question,
- so much as that something about it rubbed me the wrong way.
+It isn't that I'm intimidated by her question,
+ so much as that something about it rubs me the wrong way.
 }
 [sha:08c34c87f76cdf0d898bb2da7c18cba051f9aeea]{
 -- Page 564, Offset 21190.
@@ -357,7 +359,7 @@ I have no intention of fighting this person.
 -- Page 568, Offset 21202.
 -- それでも、俺とアルクェイドのコトをとやかく言われる気もない、と訴える。
 But even so,
- I make it clear that I will not brook any more badmouthing of myself and Arcueid.
+ I make it clear that I will not brook any more bad-mouthing of myself and Arcueid.
 }
 [sha:8487a57d1a78aa3075c4f52a2af4b4d71a120498]{
 -- Page 569, Offset 21203.
@@ -409,7 +411,7 @@ According to what I heard from my master,
 -- Page 572, Offset 21211.
 -- あんがい身近なところにいて、何十年も前から潜伏しているケースのが多いの。それも<街|・><で|・><い|・><ち|・><ば|・><ん|・><力|・><の|・><あ|・><る|・>、<権|・><力|・><者|・><の|・><家|・>にとかね」
 There have been a number of cases where they were hiding unexpectedly close by for decades.
- Often in the %{i}homes of the families who wielded the most power in the city%{/i}."
+ You know, like %{i}in the homes of the families who wielded the most power in the city%{/i}."
 }
 [sha:d31ecf3be40943fde62dc6f88ee0c79938db10ba]{
 -- Page 573, Offset 21212.
@@ -425,7 +427,7 @@ You might be better off abandoning a vague goal like that,
 [sha:0bf22b946f0a4c2d39966d81b601afdbd6635df9]{
 -- Page 573, Offset 21214.
 -- 「―――それは、どういう」
-"―――What do you mean by that?"
+"What's that supposed to mean?"
 }
 [sha:40017c31038a875c2c5703d4ba6b4a39227ae4bd]{
 -- Page 574, Offset 21215.
@@ -445,7 +447,8 @@ That Undead from earlier was going after you. Not the True Ancestor that's going
 [sha:3803bde06ff34a1a35ae5a0e9571898fe62408cf]{
 -- Page 574, Offset 21218.
 -- 「ふふ。命があったらまた会いましょう、<遠|・><野|・>志貴クン」
-"%{i}Hehe%{/i}. Let's meet again if you're still alive, %{i}Tohno%{/i} Shiki-kun."
+"%{i}Hehe%{/i}. I'll see you around.
+ If you're still alive that is, %{i}Tohno%{/i} Shiki-kun."
 }
 [sha:c76b08673434a03e52e260bcce9fbde70035e1aa]{
 -- Page 575, Offset 21219.
@@ -467,8 +470,8 @@ As she leaves, she casts her eyes over the streetlights and says―――
 -- Page 575, Offset 21222.
 -- あの高さを助走なしで跳ぶとか無理ですぅー、できたら人間じゃないですぅー”
 // Unvoiced
-I can't jump that high without a run-up now can I～.
- If I could, I wouldn't be human now would I～.'
+I can't jump that high without a run-up, %{i}now can I%{/i}?
+ If I could, I wouldn't be human, %{i}now would I%{/i}?'
 }
 [sha:6cc22d1501512ed4e925a80ac5c7d57f4d1815d7]{
 -- Page 575, Offset 21223.
@@ -565,5 +568,5 @@ And the disquieting sensation of my body going limp.
 -- Page 580, Offset 21240.
 -- 俺は塀に背中を預けたまま、うっすらと眠りに落ちていく自分自身を見つめていた―――
 With my back against the wall,
- I looked on as I slowly but surely drift off to sleep―――
+ I look on as I slowly but surely drift off to sleep―――
 }
