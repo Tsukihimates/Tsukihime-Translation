@@ -1,16 +1,7 @@
 # Tsukihime-Translation
 Open source translation of Tsukihime -A Piece of Blue Glass Moon- prepared by [Tsukihimates](https://twitter.com/tsukihimates).
 
-## **Please note that this repo represents a work in progress.**
-
-**While we are happy for people to observe the unfinished translation**
-**for their own edification, we would humbly ask that people refrain from**
-**distributing any copies of our work before it is complete.**
-**Any patches not distributed directly from our website are not official, and**
-**do not have our approval. We thank you for your understanding, and appreciate**
-**your patience as we work to bring this project towards completion.**
-
-You can check our progress on [our website](https://tsukihimates.com/progress/).
+## You can download the full translation patch on [our website](https://tsukihimates.com/patch/)
 
 ## Resources
 ### Documentation
