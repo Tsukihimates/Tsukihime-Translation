@@ -228,7 +228,7 @@ It seems like only a few people from this neighborhood attend Souya High School.
 [sha:ba0f0ef5d179078bdfdc44c4c15414b53feba72c]{
 -- Page 107, Offset 2881.
 -- 朝の７時半。
-It's 7:30 in the morning.
+It's 7:30 AM.
 }
 [sha:fe8502ef15211c08c39a1dc2bbd764c1234a20d1]{
 -- Page 107, Offset 2882.
@@ -294,5 +294,7 @@ Just as I told Hisui, it took me about thirty minutes to reach the school gates 
 [sha:47216f694c30389b29c80d8fb68cba577a3520a8]{
 -- Page 112, Offset 2894.
 -- 途中で何度か走ったので、ゆっくり登校したいのなら７時半前には屋敷を出ればいい。
+// AM marker feels redundant here
+// lint-off:LintTimeFormat
 I ran a couple of times along the way, so if I want to head to school at a leisurely pace, I should leave the mansion before 7:30.
 }

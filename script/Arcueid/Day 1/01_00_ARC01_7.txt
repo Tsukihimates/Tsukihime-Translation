@@ -69,7 +69,7 @@ The only ones left are myself and――two girls that I don't recognize.
 -- Page 10024, Offset 2094.
 -- 長い黒髪の少女は凛とした眼差しで、そんな意味合いの言葉を口にした。
 With a dignified look in her eyes,
- the girl with long black hair says a word laden with meaning.
+ the girl with long black hair says words laden with meaning.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 368, Offset 2095.
@@ -156,12 +156,15 @@ Akiha's words seem to have a certain sting to them.
 [sha:b48e02d0b5ed5f4d610d9b71faa217066ba9a7fc]{
 -- Page 374, Offset 2110.
 -- 「……。七年も経てば変わります。ただでさえ私たちは成長期だったんですから。それとも、いつまでも以前のままだと思っていたんですか、兄さんは」
-"Things change after seven years... That's what it means to grow up. Or did you think everything would always stay the same, Nii-san?"
+"%{i}Sigh%{/i}...
+ Things change after seven years.
+ That's what it means to grow up.
+ Or did you think everything would always stay the same, Nii-san?"
 }
 [offset:2111]{
 -- Page 374, Offset 2111.
 -- 「―――いや、それは―――」
-"No, that's not―――"
+"No, that's not..."
 }
 [sha:68c9596e9834c9308785426b0b71a28dc1f68bc2]{
 -- Page 374, Offset 2112.
@@ -191,7 +194,7 @@ I wonder how these past seven years have made her develop. Ah, but it's way too 
 [sha:e2a54cadca095fc20d20d7d3cfa52bdd447ab9ae]{
 -- Page 376, Offset 2117.
 -- 「……面目ない。正直、考えが足りなかった。
-"I'm ashamed. To be honest, I didn't think it through.
+"%{i}Sigh%{/i}... I'm ashamed. To be honest, I didn't think it through.
 }
 [sha:1414bbf05b174dd8b4b27f25d38ef375440004c4]{
 -- Page 376, Offset 2118.
@@ -704,10 +707,10 @@ She shoots me a cold glance.
 -- というか、視線はもはや突き刺さる槍のようだ。
 Or rather, her gaze is more like a piercing spear.
 }
-[sha:be2eeb42418abcc98ac2d747564b53b510fe6775]{
+[offset:2218]{
 -- Page 415, Offset 2218.
 -- 「う……………」
-"Uh..."
+"Ugh..."
 }
 [sha:b89b956c6f2597828a754a2d1bbadbfc52ba7f2b]{
 -- Page 415, Offset 2219.
@@ -1058,7 +1061,7 @@ It seems that Akiha has a packed schedule and doesn't want to waste any more tim
 [sha:7285c34fb9c251ade836f33fb1e4cc6b327773bc]{
 -- Page 444, Offset 2286.
 -- 「お部屋にご案内いたします、志貴さま」
-"I will show you to your room, Shiki-sama."
+"I will escort you to your room, Shiki-sama."
 }
 [sha:9865444f41f99f4b3c7c29afcb7c5c1727daa460]{
 -- Page 444, Offset 2287.
