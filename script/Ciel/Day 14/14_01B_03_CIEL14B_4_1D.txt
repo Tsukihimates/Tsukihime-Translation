@@ -312,6 +312,7 @@ I'll be borrowing your left hand."
 -- なに、<引力|アトラクション>だよ、引力。
 // Both of these 引力s are voiced as アトラクション
 // Need to use second fontbank for italics instead of PUA here for ruby
+// The quotation mark before "gravity" should be an opening quote, not a closing quote
 @g
 Just some simple '<gravity manipulation|a t t r a c t i o n    >', as you can see.
 }
