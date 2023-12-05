@@ -1,17 +1,17 @@
 [sha:a12d8c8a132b96526cd5770b4e85dd370b0831b1]{
 -- Page 10003, Offset 5099.
 -- ああ……あかい、ち、だ。
-Ahh... The blood... it's red...
+Ahh... red... blood...
 }
 [sha:1d6e5aaf011929144fbda20e7927989b971a29a6]{
 -- Page 10003, Offset 5100.
 -- オレがバラバラにしてしまったから、いまも、だらだらと流れ続ける<厭|いや>な色。
-That disgusting color continues to ooze across the floor, all because I tore her to pieces.
+It's because %{i}I%{/i} tore her to pieces, that this disgusting color now oozes across the floor.
 }
 [sha:2ce2cc1b135c3b925b55c0b259575391ae70c74a]{
 -- Page 10003, Offset 5101.
 -- であれば、これは間違いなく、俺がこの手で―――
-If this blood is real, then there's no denying it. With my own two hands, I―――
+If this blood is real, then there's no denying it. %{i}I%{/i} did it, I ki―――
 }
 [sha:a6df9e80aa478564ab518e54568054e3ea54ef28]{
 -- Page 107, Offset 5102.
@@ -22,49 +22,50 @@ If this blood is real, then there's no denying it. With my own two hands, I―�
 [sha:b0c4c1fa9f99552132cbbc761fa0dc35e1fafa40]{
 -- Page 107, Offset 5103.
 -- でも心臓が叫んでいる。
-But my heart is screaming.
+And yet, my heart is screaming at me.
 }
 [sha:baaaa8acf2f65e17abb046972663d0d083831f43]{
 -- Page 107, Offset 5104.
 -- 真実をはき出さなければ破裂すると謂わんばかりに、その言葉を、のど元まで―――
-It's as though it's going to explode if I don't get the truth out.
- Those words well up in my throat―――
+It's pushing the words up my throat,
+ as if telling me that it'll explode if I don't say―――
 }
 [sha:ec595be7e5f935ad7c64a8257149a041b41a8345]{
 -- Page 108, Offset 5105.
 -- 違うんだ。違う。違う。違う。
-It's not true. Not true. Not true. Not true.
+// This starts a complicated sequence that involves the repetition of the word 違う, edit with caution.
+No. I didn't do it. I didn't. I didn't. I didn't.
 }
 [sha:179de909d99cc4dd7bb8478c44b8f495dd45567e]{
 -- Page 108, Offset 5106.
 -- 違う、違う、違う、違う、違う違う、違う違う違う、違う違う違う違う違う違う違う違う違う違違違違違違違―――――
-Not true, not true, not true, not true, not true, not true, not true, not true, not true, no, no, no, no, no, no, no―――
+I didn't. I didn't. I didn't. I didn't. I didn't, I didn't. I didn't, I didn't, I didn't. I didn't. I didn't, I didn't, I didn't, I didn't, I didn't, I didn't, I didn't, I didn't, didn't, didn't, didn'tdidn'tdidn'tdidn'tdidn't―――
 }
 [sha:af69f15deca0ae1c67e57e9ec3f01484b0d5b26d]{
 -- Page 109, Offset 5107.
 -- 「……ちが、う」
-"This... is wrong."
+"I... didn't..."
 }
 [sha:cc9262fe7993b6b5314e76412a7c1e3bfa94eebd]{
 -- Page 109, Offset 5108.
 -- 目を背けるな。それこそ違う。
-Don't look away. That too would be wrong.
+Don't look away. You did it.
 }
 [sha:0e20f337022a44ebe463a867d4eadffa9fac3598]{
 -- Page 109, Offset 5109.
 -- 「違うって―――言ってるのに」
-"No――this can't be happening."
+"I said... I didn't do it!"
 }
 [sha:96c5faeb2c256eb795564774dac471d0522e79a1]{
 -- Page 109, Offset 5110.
 -- <非|あら>ず非ず、それこそ非ず。
-'It's all a lie, it's not real'... %{i}that's%{/i} what's not real.
+Wrong. Wrong. You are wrong.
 }
 [sha:193d40af0858ace389f3480f94d3fdde07d9febd]{
 -- Page 110, Offset 5111.
 -- 「だから、なんで……！　俺は知らない、こんなヤツ、街で見かけただけの他人だ……！
 "But, why?!
- I don't even know her, she's just some stranger I saw on the street!
+ I didn't even know her, she was just some stranger I saw on the street!
 }
 [sha:2e87da8d03103e999f10e2a431d8ff94da2c23cc]{
 -- Page 110, Offset 5112.
@@ -75,7 +76,7 @@ It doesn't make any sense, does it?!
 [sha:127b3704e5ffaee031342ed8f5368d99d1ee640b]{
 -- Page 111, Offset 5113.
 -- 叫んでも答えはない。
-Shouting won't get me an answer.
+I shout, but there's no answer.
 }
 [sha:d2d4303ce3d0b4e25e7f801b79c269c133981f0a]{
 -- Page 111, Offset 5114.
@@ -85,7 +86,7 @@ Besides, I know exactly why.
 [sha:9954c9369ac9229accd3bda3f160332540a8a68b]{
 -- Page 111, Offset 5115.
 -- 彼女を見た時、俺は一つの事しか考えられなくなっていた。
-When I saw her, I could only think of a single thing.
+When I saw her, I could think of only one thing.
 }
 [sha:8f12ff477e05acf4257ae8b5f279875cee8541bc]{
 -- Page 112, Offset 5116.
@@ -110,12 +111,12 @@ That was all that mattered to me at the time.
 [sha:a90c1b6c21e5f87c93cfe7da8d3d5c1ec7b2e993]{
 -- Page 113, Offset 5120.
 -- 頭の中がドロドロと溶けていただけで、そのイメージを言葉にしようとしなかっただけ。
-I simply didn't put that thought into words because the contents of my head had melted into sludge.
+I simply didn't put that thought into words because everything inside my head had melted away.
 }
 [sha:a778af164aec8c94c74148707997a5adcb1ae670]{
 -- Page 114, Offset 5121.
 -- 「ちが―――――う 」
-"This can't... be."
+"I... didn't..."
 }
 [sha:b3da2b297b57dd92275f26cbb6f80bcaeffd4dc3]{
 -- Page 114, Offset 5122.
@@ -140,7 +141,7 @@ Vermilion soaks into my eyeballs.
 [sha:cd414a11963391e7c73d7cf277a1766793b8bc94]{
 -- Page 116, Offset 5126.
 -- 「あ―――あああああああああああ！」
-"%{i}AH――AAAAAAAAAAAHHH%{/i}!"
+"%{i}Ghrgh%{/i}... %{i}AAAAAAAAAAARRGGHHH%{/i}!"
 }
 [sha:f2f31c33c85e13ce2f0ac7d1495914f0b3f58668]{
 -- Page 116, Offset 5127.
@@ -207,7 +208,7 @@ I... killed someone.
 [sha:069a765754ec937af38785e939aca7e678e1c8bd]{
 -- Page 120, Offset 5139.
 -- 人形でもバラすようにあっさりと、何の意味もなく、容赦なく殺してしまった。
-I killed her as easily as if I were dismembering a doll.
+I killed her as easily as if I were dismantling a doll.
  Without meaning, without mercy.
 }
 [sha:3964d706903c7902310b1f97eac027a08512544a]{
@@ -218,7 +219,7 @@ Why did I feel that way?
 [sha:77499bc35d4093212a13432afe51fed3f639e663]{
 -- Page 121, Offset 5141.
 -- どうしてほんとうに殺してしまったのか、
-Why did I really kill her?
+Why did I actually kill her?
 }
 [sha:6664991e2f68be437f9bf868d35cf529f92fd023]{
 -- Page 121, Offset 5142.
@@ -279,7 +280,7 @@ Even if I apologize, I'll never be forgiven.
 [sha:6cfda6ad23098f429405c2b3507a91b1f1f3446c]{
 -- Page 125, Offset 5153.
 -- 『俺は―――、なんて』
-'How... could I?'
+%{i}'How... could I?'%{/i}
 }
 [sha:972a191e0e54cf4587c708a6e79ec3bdd49ff18f]{
 -- Page 125, Offset 5154.
@@ -331,5 +332,5 @@ Ever since the accident that should have killed me.
 [sha:b4d945344dcf5ae8be6c1daccea33c54ecb13a9b]{
 -- Page 126, Offset 5163.
 -- 奇跡的に蘇生したその時から―――
-From the moment I miraculously survived―――
+From the moment I miraculously survived...
 }
