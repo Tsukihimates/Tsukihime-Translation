@@ -6,7 +6,7 @@ It's cold...
 [sha:04cb3fc9bef22c18e826de16f21cbdea64cdbe5a]{
 -- Page 10004, Offset 5165.
 -- いつのまにか、日が落ちている。
-Before I knew it, the sun had started to set.
+Before I know it, the sun has started to set.
 }
 [sha:0c6a1d996726f1a70ada3b67af6ac54ecd9863a4]{
 -- Page 128, Offset 5166.
@@ -27,9 +27,8 @@ A low droning hiss echoes in my ears.
 [sha:94823b2e96f953fa9db962b1239083e01152450d]{
 -- Page 129, Offset 5169.
 -- ざあ。ざあ。ざあ。
-// Pitter patter feels too discrete, but there's no great en equivalent for the
-// ザーーー of steady curtains of rain
-%{i}Fshhhhhhhh%{/i}.
+// comes back in 5173
+%{i}Pitter, patter.%{/i}.
 }
 [sha:5440d4a6cf248f4a2888b5655eeb2f30994ccda3]{
 -- Page 129, Offset 5170.
@@ -44,16 +43,14 @@ I get the feeling I'll die if I just sit here on this bench.
 [sha:aa5c36c8c99f81c8dde2cbae3053cdfb1f70f5d7]{
 -- Page 129, Offset 5172.
 -- ……死んでしまえるような、気がする。
-The feeling I'll... die.
+The feeling that... I may die...
 }
 [sha:2dfe5b44fe9aa69639eb250cae5ad8a7dfa993c1]{
 -- Page 130, Offset 5173.
 -- ザザ鳴りの神経、ザラついた体温。
-// Reading ザザ as a pins and needles/numbness deal
-// A _gritty_ body temperature?? Goosebumps? Or cooled to the point of 'coagulating',
-// water becoming slushy/grainy as it begins to freeze.
-A dull hum saturates my nerves.
- My body temperature has dwindled to almost nothing.
+// "ザザ"鳴り/"ザ"ラついた because it's imitating the sound of the rain, see above (5169)
+The pittering sound of my nerves.
+ The pattering numbness of my body.
 }
 [sha:839d8f901e726c2b812132a4ed75bd3922ab0d48]{
 -- Page 130, Offset 5174.
@@ -68,7 +65,7 @@ I don't care about the unending sound.
 [sha:94e200070dd96cfba6b99c403be2af562446d52a]{
 -- Page 130, Offset 5176.
 -- 凍死してしまいそうな寒さも、どうでもいい。
-It doesn't really matter to me if I freeze to death.
+Nor if I freeze to death.
 }
 [sha:bd259113464aae778e69476f594578057e3deddb]{
 -- Page 131, Offset 5177.
@@ -83,7 +80,7 @@ Is it the cold? Anxiety? Fear? Regret?
 [sha:fe449cd0e116468ef12d58d7ad51d0888ce386e1]{
 -- Page 131, Offset 5179.
 -- もう何も判別できない。
-I can't tell the difference anymore.
+I can't tell them apart anymore.
 }
 [sha:79bcd98793c0f1ffdaa2afdb14d6866924c9fe9f]{
 -- Page 131, Offset 5180.
@@ -104,7 +101,7 @@ It's an insane reason.
 -- Page 132, Offset 5183.
 -- ……ああ、狂っているのならどんなに楽だろう。なにしろ説明だけはつけられる。
 Ahh... This would be so much easier if I really were insane.
- It'd be the perfect explanation for everything.
+ At least then it'd be possible to explain.
 }
 [sha:cee35af54de259c9ad906b205c4f8ea48789080b]{
 -- Page 132, Offset 5184.
@@ -125,7 +122,7 @@ I look down at my numb fingers and see that I'm still clutching my knife.
 [sha:9b0c95f82c82a5ec0870a8d50103344204b89b70]{
 -- Page 133, Offset 5187.
 -- ―――死ぬ事は。
-―――Death.
+Death.
 }
 [sha:1992f8b5b0dd7b147de2075953f4d001a31844d2]{
 -- Page 133, Offset 5188.
@@ -140,19 +137,19 @@ But I can't.
 [sha:9039e7f7d740a62448f94510b11ef2b34c9ed53a]{
 -- Page 134, Offset 5190.
 -- まだ正気だから、それができない。
-I'm still sane, there's no way I'd do %{i}that%{/i}.
+I'm still sane, so I can't.
 }
 [sha:d15f56eb1e9696a7faff8636bdb27abcd3785a80]{
 -- Page 134, Offset 5191.
 -- 死を恐れる心と、そんな事は何の解決にも―――<償|つぐな>いにもならないと軽蔑する心がある。
-In my heart I still fear death,
- and I despise that doing so wouldn't solve anything――it wouldn't even serve as atonement for my actions.
+// This line is really complicated
+In my heart, I still fear death.
+ In my heart... I despise it. It wouldn't solve anything――it wouldn't even serve as atonement for my actions.
 }
 [sha:aefd2d0b8f749a4654f00ffc113ad7a52f422f1e]{
 -- Page 135, Offset 5192.
 -- ざあざあ、という雑音。
-// "rhythm" or "patter" would work just as well and aren't so obscure (and sus)
-A soft, steady susurration.
+A soft, steady pitter-patter.
 }
 [sha:bd88f3e6ab5150e47c629198be2cdf21ad56c522]{
 -- Page 135, Offset 5193.
@@ -163,7 +160,7 @@ My body temperature is plummeting like a boulder rolling down a steep hill.
 -- Page 135, Offset 5194.
 -- ―――自分で死ぬ事はできない。
 // Reading this as 'by my own impetus' rather than 'alone'
-―――I can't bring myself to die by my own hand.
+I can't bring myself to die by my own hand.
 }
 [sha:e62272d54685bb5dade0dfb4e30468c9a1d98574]{
 -- Page 135, Offset 5195.
@@ -235,6 +232,7 @@ Senpai is standing right in front of me.
 [sha:b42b59f4201018e2a8cd36d6a74c7fcd58e66932]{
 -- Page 139, Offset 5208.
 -- 「どうしたんですか、こんな雨の中で座りこんじゃって」
+// Trailer line
 "What on earth are you doing, sitting out here in the rain like this?"
 }
 [sha:0e301d3e42143623bfb82758c0854d9f9688dfa4]{
@@ -338,7 +336,7 @@ Before she's even finished speaking, Senpai has grabbed me by the arm and hoiste
 [sha:0dea5693cab2adc8aa0d1ca38e2bc05917b939ab]{
 -- Page 149, Offset 5228.
 -- ……そうか。だから一歩も動かなかったのか。
-I see... So that's why I couldn't even move.
+Ah, so that's why I couldn't even move.
 }
 [sha:38445e147fc4a82c94e9357c0f96b595da061a8b]{
 -- Page 149, Offset 5229.
@@ -357,7 +355,7 @@ I've wanted to this whole time, I just haven't.
 -- Page 150, Offset 5231.
 -- 「もうっ、しっかりしてください！　動けないなら、わたしからお家に連絡を入れましょうか？」
 "Come on, get a hold of yourself!
- If you aren't able to move, why don't I contact your family?"
+ If you won't move, I'll have to contact your family myself!"
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 150, Offset 5232.
@@ -387,11 +385,13 @@ I shake my head, asking her not to.
 [sha:ccb6034f75a4bc0ad2c42bb8c6cf5b6211c01147]{
 -- Page 152, Offset 5237.
 -- 「……いいんです。俺は、家には帰れない。
+// Trailer line
 "Don't bother. I can't go home.
 }
 [sha:f2cc628706f8be912b1f85ee269a66eb289616dd]{
 -- Page 152, Offset 5238.
 -- ……どこにも、行っていいところがない」
+// Trailer line
 I... don't have anywhere I can go."
 }
 [sha:8f37b60ff2a389ab22511cc9383cc907f26e65cc]{
@@ -407,7 +407,7 @@ I can't go home covered head to toe in blood like this.
 [sha:5cdfe3d38fe6d862edff0ead15f74644666c64f6]{
 -- Page 153, Offset 5241.
 -- もうどこにも―――俺には休んでいい場所なんて、あってはならない。
-There's no place for me anymore――not even a place I can rest.
+There's nowhere for me to go――no place where I may know rest.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 154, Offset 5242.
@@ -427,6 +427,7 @@ Senpai stares wordlessly at me.
 [sha:175c8ea37ea584231c1673ff9901c332e50b09c7]{
 -- Page 155, Offset 5245.
 -- 「わかりました。わたしのアパートに行きましょう。遠野くんの家よりは近いですから、ちょうどいいです」
+// Ciel knows where you live
 "Alright. How about we head to my apartment, then?
  It's a lot closer than your house, so it should do nicely."
 }
@@ -454,7 +455,7 @@ There's no warmth left in my body.
 [sha:87de1907327612e77f1f12c5cfa2078b1508ad2e]{
 -- Page 157, Offset 5250.
 -- ……だから、だろうか。
-I wonder if that's why...
+And perhaps that's why...
 }
 [sha:0d685a38f577a15bb76457561ed8ac23fb64229a]{
 -- Page 157, Offset 5251.
