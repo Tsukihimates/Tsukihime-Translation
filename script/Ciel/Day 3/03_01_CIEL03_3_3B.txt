@@ -12,14 +12,16 @@ Senpai is carrying several plastic bags. She seems to have bought a bunch of stu
 [sha:dc6c34e1e737c478b504bf73f88f5e929f1b61b6]{
 -- Page 192, Offset 5340.
 -- 「えっとですねー、とりあえずコレに着替えてください。
-"Let's see... Why don't you change into these for the time being?
+"Let's see...%{n}
+Why don't you change into these for the time being?
 }
 [sha:d5a5dd8a5e96e0f8d3d93cbde05ab47a522b67df]{
 -- Page 192, Offset 5341.
 -- 安物ですけど濡れた服よりずっといいです。お風呂もそろそろ沸きますから、お湯につかってゆっくりすれば、少しは気持ちも紛れますよ」
+// "nice hot soak" MAYBE Britishism? Verdict pending.
 They're cheap, but cheap is a lot better than wet.
  Give me a minute and I'll run a bath for you as well.
- I'm sure you'll be able to unwind a little if you have a nice hot soak."
+ I'm sure you'll be able to unwind a little if you have a nice hot bath."
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 193, Offset 5342.
@@ -39,7 +41,7 @@ Drawing a bath, preparing my change of clothes, and so on.
 [sha:6380cb1c52877ef5c0bbc283b0932e251e4e8066]{
 -- Page 193, Offset 5345.
 -- ……この人が。
-She...
+But...
 }
 [sha:f7d349e820b7c3216fe6493e1bfd62dbb9eaf2fe]{
 -- Page 193, Offset 5346.
@@ -97,28 +99,29 @@ Through no fault of anyone, the world is turned on its head.
 [sha:fc8c939775928b159372a3d43b15349ad9ca7e95]{
 -- Page 199, Offset 5356.
 -- 『――――――、あ』
+// Unvoiced
 '―――%{i}Ah%{/i}.'
 }
 [sha:4ae4840fce35af51972ed7a21c7ffa9fc6937bf5]{
 -- Page 199, Offset 5357.
 -- ズレる。ズレる。ズレる。ズレる。
-Contorting. Twisting. Shifting. Spinning out.
+Contorting. Twisting. Shifting. Distorting.
 }
 [sha:fcfb1f7428ec2960ab2bca7ac67804fef276deca]{
 -- Page 199, Offset 5358.
 -- 世界が断線する。一秒後の死が訪れる。
-The world is severed.
+The world splits.
  Death is but a second away.
 }
 [sha:669212c46196ea26b36b59d654ca29ab5687ff17]{
 -- Page 199, Offset 5359.
 -- 何もかも容易く死滅する世界。
-A world where everything dies so easily.
+It's a world where everything is easily destroyed.
 }
 [sha:454dfdece1f8e9d4af287dbd9534cb34712ff833]{
 -- Page 199, Offset 5360.
 -- 理由もなく人を殺した、殺人鬼の見る世界。
-The world as seen through the eyes of a murderer who killed someone for no reason.
+The world as seen through the eyes of a murderer who killed someone without reason.
 }
 [sha:d250761c3cc039436df3d456c7bb3d0da5d1ad1c]{
 -- Page 199, Offset 5361.
@@ -128,19 +131,19 @@ And within it―――
 [sha:1b8273b459fa7ed97ba4935a0791d3d29c84d14a]{
 -- Page 200, Offset 5362.
 -- 「あわわ、眼鏡眼鏡……！　ごめんなさい、わたしの不注意でした！　こ、壊れてたら弁償しますから！」
-"Ahh, your glasses, your glasses!
+"Oh no, your glasses, your glasses!
  I'm sorry, that was careless of me!
  I-If they're broken, I'll pay for it!"
 }
 [sha:8304566faa989de43ef3c6ef06c7a543dcc0e25b]{
 -- Page 200, Offset 5363.
 -- あわてて眼鏡を拾おうとする、善良な人の<死顔|すがた>があった。
-The well-intentioned girl who rushed to pick up my glasses took on the face of a corpse.
+The well-intentioned girl who rushes to pick up my glasses takes on the face of death.
 }
 [sha:419723f544f3c1697e943118388c9434fd8c9d6a]{
 -- Page 201, Offset 5364.
 -- 『ああぁあああぁあああ――――――！！！！』
-"%{i}AAAAAAAAAAHHH%{/i}―――!!!!"
+"%{i}AAAAAAAAAAHHH%{/i}!!"
 }
 [sha:afebf9c36a76d91ef6b40606bb76f51b65bc8d6b]{
 -- Page 201, Offset 5365.
@@ -155,7 +158,7 @@ I frantically hold back my hand from springing up to crush my eyeballs.
 [sha:10a30863761fb10bd08e31882cd6ca490872c742]{
 -- Page 202, Offset 5367.
 -- 違う。これはそう見えているだけの現実だ。
-No. This is reality. It only resembles that time.
+Stop. This is reality. It only resembles what happened back then.
 }
 [sha:41ed5fc338d5194249af5fcaadf5f497160bdf19]{
 -- Page 202, Offset 5368.
@@ -165,12 +168,12 @@ It isn't happening. There's no way it's still happening.
 [sha:fcd56bb1a5070ef8ff353769de76343a56615e14]{
 -- Page 202, Offset 5369.
 -- ああ、でも血が、赤い線が、走っている。
-Ahh, but the blood, the red lines, they're all over the place.
+But the blood, the red lines, they're everywhere.
 }
 [sha:84dc414c9f300fb3279b9bc1d6420bb0c64cbdcd]{
 -- Page 202, Offset 5370.
 -- あの白い女と同じように。
-Just as they were all over the woman in white.
+Just as they were everywhere on the woman in white.
 }
 [sha:404e2c37f56254267d4ac4a490d4bcf690e8863d]{
 -- Page 202, Offset 5371.
@@ -190,13 +193,13 @@ Even this person who cared for me is crisscrossed with red lines of death.
 [sha:3299622cb13ec29347e955ef1cbf53276ea5cb80]{
 -- Page 204, Offset 5374.
 -- なら繰り返す。きっと俺は繰り返す。
-That's why it's going to happen again.
- I'm %{i}certain%{/i} it'll happen again.
+So it will happen again.
+ I'm %{i}certain%{/i} it will happen again.
 }
 [sha:f51761a3057455755da56b0dd29c54bcb912ba6d]{
 -- Page 204, Offset 5375.
 -- 理性の有る無しなんて関係なかった。
-Whether I'm rational or irrational makes no difference.
+Whether I'm in my right mind or not makes no difference.
 }
 [sha:10b6f266daaa3dcd0bc0c504bf87f547077a91a5]{
 -- Page 204, Offset 5376.
@@ -211,22 +214,22 @@ I simply want to lose myself to it.
 [sha:ebf35a7e52d67014c3a1ebaec50cfc8e86eb293b]{
 -- Page 204, Offset 5378.
 -- 俺はこういう生き物だ。
-That's just the kind of creature I am.
+That's just the kind of being I am.
 }
 [sha:e2e524a8ac5cec6218b93d72ca3fbee2799fef4e]{
 -- Page 204, Offset 5379.
 -- こういう、■■な生き物だった。
-A ■■■■■■■ creature.
+A ■■■■■■■ being.
 }
 [sha:d4146676c5ae4e0c7eda34e206cad22c2c8abf7b]{
 -- Page 204, Offset 5380.
 -- 俺がいるだけでそこは地獄と変わりはなかった。
-I turned that place into hell just by being there.
+It's because %{i}I%{/i} was there that hell arrived.
 }
 [sha:c112bad1052087501fcd15b3b89cd9eea9d0696b]{
 -- Page 204, Offset 5381.
 -- だから俺が、理由もなく何かを台無しにしてしまうのはごく自然な在り方なのだと、心の何処かで―――
-That's why, somewhere in my heart,
+So somewhere in my heart,
  I know that it's in my nature to wantonly destroy everything around me―――
 }
 [sha:be5bc9cedca3bdd15efa6a89b091201a88be9f88]{
@@ -248,32 +251,34 @@ But I can still see the warmth in her eyes.
 -- Page 206, Offset 5385.
 -- ……たとえ俺が視るものすべてが地獄だとしても、現実はそれと関わりなくここにある。
 Even if all I see is hell,
- reality continues to exist regardless.
+ reality is still right here regardless.
 }
 [sha:333996f74de619cd1db4fe686ae44b633bdbb084]{
 -- Page 206, Offset 5386.
 -- 在り続けなくてはいけないと、底の底で信じている。
-I believe, deep down, that it must continue to exist.
+I believe, deep down, that it must keep on being.
 }
 [sha:7d32d0a76f82e4c13e7fe70a06e134d3daf52aa5]{
 -- Page 207, Offset 5387.
 -- この人が俺を気遣ってくれるように。
-So that this person can continue to worry about me.
+Just like how she keeps worrying about me...
 }
 [sha:256683997df9f8507c40716600bd77019825414d]{
 -- Page 207, Offset 5388.
 -- 俺がまだそれを正しく認識できるように。
-So that I can continue to feel her worry.
+// Just like how I continue to feel her worry...
+// それ here is probably 世界 from the next line, rather than この人が俺を気遣ってくれる from the previous, but it's a bit ambigious, still. I'm a bit uncertain.
+Just like how I can still fully percieve it...
 }
 [sha:079361405357ede6c5d2dd68cb8afea5651665d2]{
 -- Page 207, Offset 5389.
 -- 世界は変わりなく、俺とは無関係に生き続ける。
-The world keeps on turning, unchanged, regardless of me.
+The world keeps on living, unchanged, unheeding of me.
 }
 [sha:95214fa51614b575cfa5cfc3986097743a881fe4]{
 -- Page 208, Offset 5390.
 -- 破裂しそうだった心臓を落ち着かせる。
-I calm my racing heart, which had felt as though it were about to burst.
+I calm my racing heart, which had felt like it were about to burst.
 }
 [sha:fb08fbe334bd83cc92af81a9803ddc0e2bfb7a28]{
 -- Page 208, Offset 5391.
@@ -284,7 +289,7 @@ Picking my glasses up from where they fell on the floor,
 [sha:cc471f539b9bb5aa7e22f43d7686f7079105f78e]{
 -- Page 209, Offset 5392.
 -- 「―――はあ。あ、ぁ―――」
-"―――%{i}Gah%{/i}. %{i}Hah%{/i}. %{i}Hah%{/i}―――"
+"%{i}Grghh%{/i}, %{i}hahh%{/i}, %{i}hahh%{/i}..."
 }
 [sha:c87aeff4a9d55cbe4b9ffc09418949a7b1c8467b]{
 -- Page 209, Offset 5393.
@@ -328,7 +333,7 @@ Glancing up, I see Senpai standing there,
 [sha:d5479c8444b15796b831cea5381a7f4a6292a27e]{
 -- Page 212, Offset 5400.
 -- 体が冷えきっているコト、分かってくれました？」
-Do you appreciate just how cold your body is now?"
+Do you grasp just how cold your body is now?"
 }
 [sha:7a2aee6fdf8c20739b8ec530168cad6a1ce1a59c]{
 -- Page 213, Offset 5401.
@@ -345,7 +350,7 @@ Even after witnessing my breakdown, she's acting like nothing happened...
 [sha:63246db4057f07f2143a36aabd5fdb17ebbecf88]{
 -- Page 214, Offset 5403.
 -- 「……ごめん。でも、今のは体の問題じゃなくて、」
-"Sorry... But, my body isn't the problem right now, it's―――"
+"Sorry... but, my body isn't the problem right now, it's―――"
 }
 [sha:e57a76c54de12e9a5e185a6223b57726546fe8af]{
 -- Page 215, Offset 5404. Mods: @k, @e.
@@ -368,7 +373,7 @@ Having said that, Senpai pulls my hand.
 [sha:7784396df3dd427ab6f21d06b7c824091ccc6f5e]{
 -- Page 216, Offset 5407.
 -- 「あ、っと、とと……！」
-"Huh, wh-whoa―――!"
+"Uh, wh-whoa―――!"
 }
 [sha:54e013f8b012a22354b2329a36a923aa1cbbb01d]{
 -- Page 216, Offset 5408.
@@ -389,12 +394,12 @@ I didn't think she'd %{i}actually%{/i} carry me...
 -- Page 217, Offset 5411.
 -- もう今夜の用意をしてきちゃったんですから、いいかげん覚悟を決めてください」
 I've already gone to the trouble of getting everything ready for tonight,
- so please prepare yourself accordingly."
+ so you better resign yourself already."
 }
 [sha:0e452671f71869b19e2b3a034298781f2baf5be9]{
 -- Page 217, Offset 5412.
 -- 「覚悟って―――先輩？」
-"Prepare myself... Senpai?"
+"Resign myself... Senpai?"
 }
 [sha:45f5692ebfb2571172ac25710302c095919eec54]{
 -- Page 218, Offset 5413.
@@ -455,7 +460,7 @@ Even though I―――"
 [sha:f5edd860505affd9fb4ec16f7e84dd8a35202815]{
 -- Page 222, Offset 5423.
 -- 「……俺は、ダメなんです。
-"I'm... a failure.
+"I'm... too far gone.
 }
 [sha:250a587c0b890bb487b200006f080b292fbb3fb3]{
 -- Page 222, Offset 5424.
@@ -474,24 +479,24 @@ Even now, I'm trying to cling to Senpai for support.
 // Pretty sure this fragment is an alt start of the next sentence
 // あの罪を、なかった事にしようとしている
 // so dragging some of the structure up here so that it makes sense in EN
-As though the sin itself―――
+As if the sin itself―――
 }
 [sha:3d2a252691795628db107a235575e83d39e63cf7]{
 -- Page 223, Offset 5427.
 -- 自らの手で殺めてしまった命を、なかった事にしようとしている。
-As though the life I took with my own hands had never existed to begin with.
+As if the life I took with my own hands had never existed to begin with.
 }
 [sha:d733357c2467e1b858b4eefcc5ea9960626dbc0a]{
 -- Page 224, Offset 5428.
 -- 「……俺の間違いは、どんな事をしても許されない。……いや、許されちゃいけない事だと思う。
-"No matter what I do, what I've done will never be forgiven...
- No, I don't think it %{i}should%{/i} ever be forgiven.
+"What I've done will never be forgiven, no matter what...%{n}
+No, I don't think it %{i}should%{/i} ever be forgiven.
 }
 [sha:6ffa8da2dee44406330b2231214d88b189aa9d6f]{
 -- Page 224, Offset 5429.
 -- だから、ダメなんです。こんなふうに先輩に優しくしてもらう資格なんて、俺にはないんです」
 // Pretty sure this is a refrain of 5423, so subj for ダメ is Shiki
-That's why I'm a failure.
+And that's why I'm too far gone.
  I don't deserve to be treated this kindly."
 }
 [sha:34de1d53ef2673852c7789a600d81eda6df3f7e0]{
@@ -515,14 +520,14 @@ That's why I'm a failure.
 [sha:5e103ab3b6a53ee87a0fae842e79a58b18fe667c]{
 -- Page 226, Offset 5433.
 -- 貴方はいつも自分が悪いと思っている。今日はその最たるものだった。でもそれが本当に良いことだったのか悪いことだったのか、どう考えても分からない。
-You always think that you've done something wrong.
- Today is a prime example of that.
+You always think that %{i}you've%{/i} done something wrong.
+ And today is the ultimate expression of that.
  But no matter how hard you think about it, you can never be sure whether it was really right or wrong.
 }
 [sha:e87a806d3a9bbf81a885369dd84f4fb25c47f4c7]{
 -- Page 226, Offset 5434.
 -- だからそんなふうに、一方的に自分を追い詰めてハッキリさせるしかないんですよね」
-That's why you feel like you have to force yourself into a corner and make a hard decision one way or another, isn't it?"
+Which is why push yourself so hard to make it clear whether or not it was, like you are now, right?"
 }
 [sha:80f4d54a77c3ec63c097a028771496df90a5bbf7]{
 -- Page 227, Offset 5435.
@@ -592,17 +597,18 @@ I'm not being nice to you for your sake, so please don't worry too much about it
 -- Page 233, Offset 5447. Glued. Mods: @x.
 -- その、ですね。わたしは、わたしが遠野くんに優しくしてあげたいから、こうしているんです。要するにわたしの趣味です。遠野くんの事情はあまり関係ありません。
 // TLing 事情 as echoing back to 都合
+// Trailer line
 How do I explain...
  I'm doing this because I want to be nice to you.
  Put simply, it's my hobby.
- Your own perspective doesn't really enter into it.
+ Your perspective doesn't really enter into it.
 }
 [sha:9c513106547585776ea91b23d5f859638ead0c0c]{
 -- Page 233, Offset 5448.
 -- 仮に貴方が悪人でもわたしは手を差し伸べます。まあ、そんなコトは百歩譲ってもないでしょうけど」
 // B: Arcueid is a fucking vampire and she's not the most unrealistic heroine :aokoheh:
-Even if you %{i}had%{/i} become a bad person, I'd still reach out to you.
- Well, not that I think you ever actually would."
+Even if you %{i}were%{/i} a bad person, I'd still reach out to you.
+ Well, I sincerely doubt that is the case."
 }
 [sha:806e98a6936eca1dab7243ad1568d410bb8134d9]{
 -- Page 234, Offset 5449.
@@ -638,12 +644,12 @@ I'm sure this is a nuisance for you,
 [sha:2c3b3d9bcda2120557e3a1a493021caee919a8e4]{
 -- Page 236, Offset 5454.
 -- そう言って先輩は笑った。
-Senpai smiled as she said that.
+Senpai smiles as she speaks.
 }
 [sha:23c100ee16577d2890d1415309a292b3ff741785]{
 -- Page 236, Offset 5455.
 -- 柔らかい、見守るような微笑みだった。
-It was a soft, considerate smile.
+It's a soft, considerate smile.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 237, Offset 5456.
@@ -674,12 +680,12 @@ No matter how unforgivable my sin...
 [sha:a6cca653bca725b10cd3e8b05f9ef3cfac1886dc]{
 -- Page 238, Offset 5461.
 -- 俺は、その言葉に救われた。
-I'm saved by her words.
+Her words prove my salvation.
 }
 [sha:449be7db94222483ebf2e29f0429cf2f6721e8dc]{
 -- Page 239, Offset 5462.
 -- 「……そっか。ありがとう、先輩」
-"Is that so...
+"Right...
  Thank you, Senpai."
 }
 [sha:d3a1d69253665e2f164c7c0f774b01bfe0dd00bc]{
