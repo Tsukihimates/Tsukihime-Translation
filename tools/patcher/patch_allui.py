@@ -38,15 +38,19 @@ def main():
 
     # Decompress all NXGZ files
     bntx_to_recompress = []
+    dat_files = []
     for entry in os.scandir(MRG_TEMP_DIR):
         if not entry.is_file():
             continue
         if not entry.path.endswith('NXGZ.dat'):
             continue
-        decompressed_filename = re.sub('NXGZ.dat', 'BNTX', entry.path)
-        print("Decompressing %s..." % entry.path)
-        subprocess.run(['nxx_decompress', entry.path, decompressed_filename])
-        bntx_to_recompress.append((decompressed_filename, entry.path))
+        dat_files.append(entry.path)
+
+    for entry in dat_files:
+        decompressed_filename = re.sub('NXGZ.dat', 'BNTX', entry)
+        print("Decompressing %s..." % entry)
+        subprocess.run(['nxx_decompress', entry, decompressed_filename])
+        bntx_to_recompress.append((decompressed_filename, entry))
 
     # Convert PNG resources into DDS
     resources_to_inject = []
