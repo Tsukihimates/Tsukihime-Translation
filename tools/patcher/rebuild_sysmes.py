@@ -134,38 +134,47 @@ def rebuild_sysmes(old_sysmes_path, translation_path, new_sysmes_path):
     new_sysmes = open(new_sysmes_path, 'wb')
 
     # File structure
-    # 0x0: Magic? 1
+    # 0x0: Number of languages, u32le
     # 0x4: Total string count, u32le
-    # 0x8, 0xC, 0x10, 0x14: ??
-    # 0x18: String offsets start, u64le
-    # (0x18 + string_count * 8): String data start
+    # (0x10 — 0x10 + 8 * langs): Start addresses of languages offsets, u64le
+    # (0x10 + 8 * langs): The beginning of first language offsets, u64le
+    # (0x10 + 8 * langs + 8 * langs * string_count): String data start
     # Post-string data: unknown footer
 
     # Read fixed size header
-    _magic, string_count, _u1, _u2, string_data_start = \
-            struct.unpack("<IIQQQ", old_data[0:32])
+    langs, string_count = struct.unpack("<II", old_data[0:8])
+    
+    print(f"Number of languages: {langs}")
     print(f"Total string count: {string_count}")
-    print(f"String data start offset: {string_data_start}")
+
+    for i in range(langs):
+        (offset), = struct.unpack("<Q", old_data[16+8*langs+8*i*string_count:16+8*langs+8*i*string_count+8])
+        print(f"Language {i} data start offset: {offset}")
 
     # Parse off all the string offsets
-    jp_string_offsets = []
-    for i in range(string_count):
-        offset_loc = 0x18 + (i * 8)
-        (offset,) = struct.unpack("<Q", old_data[offset_loc:offset_loc+8])
-        jp_string_offsets.append(offset)
 
-    # Get all of the strings for those offsets. Strings are terminated by '\0'
-    jp_strings = []
-    for offset in jp_string_offsets:
-        i = offset
-        while old_data[i] != 0x0:
-            i += 1
-
-        jp_strings.append(old_data[offset:i].decode('utf-8'))
+    lang = [[]*i for i in range(langs)]
+    
+    for n in range(langs):
+        string_offsets = []
+        for i in range(string_count):
+            offset_loc = 16+8*langs+8*n*string_count + (i * 8)
+            (offset,) = struct.unpack("<Q", old_data[offset_loc:offset_loc+8])
+            string_offsets.append(offset)
+        
+        # Get all of the strings for those offsets. Strings are terminated by '\0'
+        strings = []
+        for offset in string_offsets:
+            i = offset
+            while old_data[i] != 0x0:
+                i += 1
+            strings.append(old_data[offset:i].decode('utf-8'))
+        lang[n].append(string_offsets)
+        lang[n].append(strings)
 
     # Locate the footer by jumping to the start of the last string,
     # skipping til we hit \0, then snipping to EOF
-    footer_start = jp_string_offsets[-1]
+    footer_start = lang[-1][0][-1]
     while old_data[footer_start] != 0x0:
         footer_start += 1
     # Advance past the '\0'
@@ -177,7 +186,7 @@ def rebuild_sysmes(old_sysmes_path, translation_path, new_sysmes_path):
     # Now that we have all the JP strings, go through and map them to EN strings
     # using the readable diff
     en_strings = []
-    for jp in jp_strings:
+    for jp in lang[0][1]:
         sha = hashlib.sha1(jp.encode('utf-8')).hexdigest()
         if sha not in translations_by_sha:
             raise Exception(f"Failed to find translation for sha {sha}: '{jp}'")
@@ -185,11 +194,15 @@ def rebuild_sysmes(old_sysmes_path, translation_path, new_sysmes_path):
         en_strings.append(en_text)
 
     # Alright, time to start rebuilding the EN version.
-    # First, copy the fixed header across, it's all the same
-    new_sysmes.write(old_data[0:0x18])
+#    langs = 2 # 2 langs
+    new_sysmes.write(struct.pack("<I", langs))
+    new_sysmes.write(old_data[4:16])
+
+    for i in range(langs):
+        new_sysmes.write(struct.pack("<Q", 16+8*langs+8*i*string_count))
 
     # Now, write all the string offsets
-    output_string_offset = 0x18 + string_count * 8
+    output_string_offset = 16 + 8 * langs * (1 + string_count)
     for string in en_strings:
         new_sysmes.write(struct.pack("<Q", output_string_offset))
         output_string_offset += len(string.encode('utf-8')) + 1
